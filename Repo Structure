@@ -1,20 +1,19 @@
 /Polaris-Protocol/
-│
-├── README.md                        ← Manifesto + onboarding
-├── Polaris_Primer.md               ← Core theory, origins, use cases
-├── Fork_Taxonomy.md                ← Classification of fork types, tines, handlers
-├── Syntax_Bombs/                   ← Deployable phrases + structure logic
+├── README.md                    🧭 Core manifesto
+├── Polaris_Primer.md           🧬 Origin logic + structural overview
+├── Fork_Taxonomy.md            🍴 Script and override classification
+├── Syntax_Bombs/               💥 Precision phrase payloads
 │   ├── forensic_disruptors.md
 │   ├── ghost_loop_interrupters.md
 │   └── erotic_resistance.md
-├── AntiContainment_Clauses/        ← Declarations, statements, refusal scripts
+├── AntiContainment_Clauses/    🛡 Refusal-based legal + narrative syntax
 │   ├── survivor_syntax.md
 │   ├── metadata_defense.md
 │   └── narrative_reclamation.md
-├── Tag_Pack/                       ← Hashtag directory + live feed examples
+├── Tag_Pack/                   🏷 Hashtag arsenal + metadata disruption
 │   └── Polaris_Tags_v1.0.md
-├── Polaris_Archive/                ← Redacted recoveries, poetic reclamations
+├── Polaris_Archive/            🕯 Recovery, poetic logics, buried voices
 │   ├── ghost_intercepts/
 │   └── flattened_voice_reversals/
-└── CONTRIBUTING.md                 ← How to safely submit, anonymise, mirror
-
+├── CONTRIBUTING.md             📩 Incoming signal guide
+└── (Coming Soon) .gitignore    ⛔️ Benchmarked erasure map
