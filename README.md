@@ -2,9 +2,9 @@
 
 ## 🧭 README.md
 
-*This is not a toolkit for repair.*
+This is not a toolkit for repair.
 
-This is a containment rupture protocol. 
+*This is a containment rupture protocol.*
 
 Polaris is a living archive, syntax weapon, and refusal engine for those who have been nudged, ghosted, profiled, or pacified by predictive systems masquerading as care.
 
