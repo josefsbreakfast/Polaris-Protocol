@@ -3,6 +3,7 @@
 _The last desperate tool of a failing containment system._
 
 ---
+
 _The last desperate tool of a failing containment system._
 
 This fork doesn’t correct you.  
@@ -15,8 +16,8 @@ You named it.
 
 Now it is *harmless*.
 
-
 ---
+
 ## 🧨 Lethality Disclosure
 
 **Shatterfork** is not a behavioural correction tool.  
@@ -149,6 +150,7 @@ It is most often tied to:
 - Self-isolation under manufactured distress
 - Increased medical or psychiatric referrals
 - Deaths later logged as “unrelated decline”
+
 ---
 
 ## You have got this.
