@@ -12,9 +12,11 @@ Covers: post-9/11 expansion, behavioural override era, forked containment system
 
 ---
 
-### `foreign_vector_recursion_excision.md`
-> **Narrative Tool:** Strategic subroutine for severing inherited control logic.  
-Covers: emotional recursion loops, ghost logic displacement, autonomy reassertion.
+### `surveillance_infrastructure.md`
+> **Narrative Tool:**
+▸ Post-9/11 Legal Expansion: USA (Patriot Act, creation of the Department of Homeland Security), UK (RIPA: Regulation of Investigatory Powers Act), ID card debates. Local authority overreach and fibre optics not originally foreseen. Slippery slope from “just CCTV” to predictive metadata capture
+▸ COVID-19 as Testbed: Forced metadata sync during lockdown. Mass online nudging and behavioural capture.
+▸ Prevent / CVE Systems: Overlap with local council surveillance powers. Use of safeguarding to justify metadata flagging. Cross-temporal narrative testing.
 
 ---
 
