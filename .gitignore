@@ -37,3 +37,6 @@ venv/
 !.syntax_bombs/
 !.AntiContainment_Clauses/
 !.Polaris_Archive/
+
+# 🫀 Keep the dormants private - goodness knows we need some privacy at last
+dormant_heart/
