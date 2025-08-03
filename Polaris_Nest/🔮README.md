@@ -6,14 +6,14 @@ This folder contains key thematic nodes, timeline traces, and analytic structure
 
 ## 🗺️ Folder Overview
 
-### `polaris_protocol_timeline_1.md`
+### `📍polaris_protocol_timeline_1.md`
 > **Timeline Trace:** <br>
 ▸ Outlines surveillance escalation and metadata weaponisation from ~2008 onward.  
 Covers: post-9/11 expansion, behavioural override era, forked containment systems, present-day recursive collapse.
 
 ---
 
-### `📍surveillance_infrastructure.md`
+### `🛰️surveillance_infrastructure.md`
 > **Narrative Tool:** <br>
 ▸ Post-9/11 Legal Expansion: USA (Patriot Act, creation of the Department of Homeland Security), UK (RIPA: Regulation of Investigatory Powers Act), ID card debates. Local authority overreach and fibre optics not originally foreseen. Slippery slope from “just CCTV” to predictive metadata capture. <br>
 >▸ COVID-19 as Testbed: Forced metadata sync during lockdown. Mass online nudging and behavioural capture.<br>
