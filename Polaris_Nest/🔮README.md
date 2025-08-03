@@ -7,7 +7,8 @@ This folder contains key thematic nodes, timeline traces, and analytic structure
 ## 🗺️ Folder Overview
 
 ### `polaris_protocol_timeline_1.md`
-> **Timeline Trace:** Outlines surveillance escalation and metadata weaponisation from ~2008 onward.  
+> **Timeline Trace:** <br>
+▸ Outlines surveillance escalation and metadata weaponisation from ~2008 onward.  
 Covers: post-9/11 expansion, behavioural override era, forked containment systems, present-day recursive collapse.
 
 ---
