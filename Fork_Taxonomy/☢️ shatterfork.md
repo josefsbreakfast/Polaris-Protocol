@@ -40,7 +40,9 @@ It targets:
 Used when the subject resists all other tines.
 
 ---
+
 ⚠️ This fork wields a lot of power, but it is easy to squash when you know how.
+
 ---
 
 ## 🔧 Definition
