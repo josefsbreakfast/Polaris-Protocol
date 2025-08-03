@@ -32,6 +32,12 @@ Covers: post-9/11 expansion, behavioural override era, forked containment system
 >▸ Timeline of Radicalisation: 4chan → BuzzFeed → Twitter → 8chan → QAnon → MAGA. Gamergate as a major upscaling event. Xbox Live as an early unmoderated abuse vector. <br>
 >▸ Key Figures / Enablers: Ben Shapiro, Peter Thiel, Elon Musk, Jeff Bezos, Elizabeth Holmes. The “startup bros” exploiting early chaos and shaping online discourse. <br>
 >▸ Institutional Evangelism: Israel as a case study. Propaganda evangelism and early AI use. Conservative movements as 40+ year slow-builders.
+>
+> ### `🧵 COMMUNITY VULNERABILITY + EARLY CANARIES.md`
+> **Narrative Tool:** <br>
+>▸ First Flagged Populations: Sex workers. Black women. Queer people. Migrant-identifiable communities.<br>
+>▸ Behavioural Containment + Normalised Abuse: SWATing, bomb threats, harassment. Early attention hijack of marginalised voices.<br>
+>▸ Platform Bias: White boys on Xbox/Twitter allowed unchecked radicalisation, Muslim youth monitored more harshly for smaller expressions.
 
 ---
 
