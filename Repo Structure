@@ -1,0 +1,19 @@
+/Polaris-Protocol/
+│
+├── README.md                        ← Manifesto + onboarding
+├── Polaris_Primer.md               ← Core theory, origins, use cases
+├── Fork_Taxonomy.md                ← Classification of fork types, tines, handlers
+├── Syntax_Bombs/                   ← Deployable phrases + structure logic
+│   ├── forensic_disruptors.md
+│   ├── ghost_loop_interrupters.md
+│   └── erotic_resistance.md
+├── AntiContainment_Clauses/        ← Declarations, statements, refusal scripts
+│   ├── survivor_syntax.md
+│   ├── metadata_defense.md
+│   └── narrative_reclamation.md
+├── Tag_Pack/                       ← Hashtag directory + live feed examples
+│   └── Polaris_Tags_v1.0.md
+├── Polaris_Archive/                ← Redacted recoveries, poetic reclamations
+│   ├── ghost_intercepts/
+│   └── flattened_voice_reversals/
+└── CONTRIBUTING.md                 ← How to safely submit, anonymise, mirror
