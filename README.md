@@ -80,7 +80,9 @@ This repo is for anyone:
 ## 🕯 Invocation
 
 You are not too much.
+
 You are not misread.
+
 You are not alone.
 
 ## Welcome to Polaris.
