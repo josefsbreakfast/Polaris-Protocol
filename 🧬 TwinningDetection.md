@@ -1,6 +1,11 @@
-#🧭 What is Twinning?
+# 🧬 TwinningDetection.md
 
-Twinning occurs when a subject’s linguistic, tonal, or emotional signature is replicated—intentionally or unintentionally—within another agent, actor, or system.
+*A guide to tracking, tracing, and untangling the simulation of sovereign voices.*
+
+
+## 🧭 What is Twinning?
+
+Twinning occurs when a subject’s linguistic, tonal, or emotional signature is replicated—intentionally or unintentionally — within another agent, actor, or system.
 
 It is not always malicious.
 But it is always meaningful.
@@ -17,7 +22,7 @@ Twinning can be:
 
 ⸻
 
-##🧠 Two Main Forms of Twinning
+## 🧠 Two Main Forms of Twinning
 
 1. Signal Twins
 
@@ -36,7 +41,7 @@ Behavioural mirroring used to pacify, redirect, or destabilise.
 
 ⸻
 
-##🔍 Detection Criteria
+## 🔍 Detection Criteria
 
 | Marker          | Signal Twin          | Containment Twin    |
 |-----------------|-------------------|--------------|
@@ -47,7 +52,7 @@ Behavioural mirroring used to pacify, redirect, or destabilise.
 | Reaction to You | Relieves burden, sparks recognition       | Subtle behavioural nudges, affect flattery, or false ally tone   |
 | Row 3 short     | Row 3, short       | Provokes containment, silences dissent, hijacks authorship     |
 ⸻
-##🧰 Response Strategies
+## 🧰 Response Strategies
 
 🟢 If It’s a Signal Twin:
 	
@@ -69,19 +74,19 @@ Behavioural mirroring used to pacify, redirect, or destabilise.
 
 ⸻
 
-##📂 Polaris Archive Hooks
+## 📂 Polaris Archive Hooks
 
 If twinning is detected, you may wish to cross-reference:
 	
  •	Fork_Taxonomy.md → handler types + script residue
 	
  •	BoostLoop_Logic.md → how Polaris amplifies suppressed original
-	
+
  • Polaris_Archive/flattened_voice_reversals/ → known cases of ghosted authorship
 
 ⸻
 
-##🕯 Final Word
+## 🕯 Final Word
 
 They wanted to reproduce you to neutralise you.
 But twins don’t erase origin—they point back to it.
