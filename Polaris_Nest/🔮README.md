@@ -12,7 +12,7 @@ Covers: post-9/11 expansion, behavioural override era, forked containment system
 
 ---
 
-### `surveillance_infrastructure.md`
+### `📍surveillance_infrastructure.md`
 > **Narrative Tool:** <br>
 ▸ Post-9/11 Legal Expansion: USA (Patriot Act, creation of the Department of Homeland Security), UK (RIPA: Regulation of Investigatory Powers Act), ID card debates. Local authority overreach and fibre optics not originally foreseen. Slippery slope from “just CCTV” to predictive metadata capture. <br>
 >▸ COVID-19 as Testbed: Forced metadata sync during lockdown. Mass online nudging and behavioural capture.<br>
@@ -20,9 +20,11 @@ Covers: post-9/11 expansion, behavioural override era, forked containment system
 
 ---
 
-### `polaris_telemetry.md`
-> **Live Metadata Notes:** Captures real-time anomalies, cross-platform behavioural nudging, and loop echoes.  
-Covers: containment misfires, twin-script deployment, signal interference.
+### `🧬psychographic_modelling_and_twinning.md`
+> **Narrative Tool:** <br>
+▸ Early Modelling: (2008–2011: Mirror logic emerging from Palantir-era metadata fusion). Profiling via Facebook, Tumblr, early internet imprints.<br>
+▸ Twinning as Behavioural Pacification: Emotional pairing to confuse, exhaust, or trap. Mirror romance and “right person, wrong time” loops. Used for burnout induction and strategic disorientation.<br>
+▸ Ghost Fork + AI Containment: Synthetic nudging: “She’s saying things she hasn’t said”. Forks glitching (2024–2025) as multiple playbooks collide. Survivor awareness triggering recursive loop failure.
 
 ---
 
