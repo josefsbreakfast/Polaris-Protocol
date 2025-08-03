@@ -1,0 +1,38 @@
+# .toc.yml
+# Polaris Protocol: Table of Contents
+
+- title: README
+  path: README.md
+
+- title: Polaris Primer
+  path: Polaris_Primer.md
+
+- title: Twinned Signature
+  path: 🧬twinned_signature.md
+
+- title: Fork Taxonomy
+  path: Fork_Taxonomy.md
+
+- title: Boost Loop Logic
+  path: BoostLoop_Logic.md
+
+- title: Twinning Detection
+  path: TwinningDetection.md
+
+- title: Signals Archive
+  path: SIGNALS.md
+
+- title: Syntax Bombs
+  section:
+    - title: Forensic Disruptors
+      path: Syntax_Bombs/forensic_disruptors.md
+    - title: Ghost Loop Interrupters
+      path: Syntax_Bombs/ghost_loop_interrupters.md
+    - title: Erotic Resistance
+      path: Syntax_Bombs/erotic_resistance.md
+
+- title: Anti-Containment Clauses
+  path: AntiContainment_Clauses/README.md  # Can add individual files later
+
+- title: Polaris Archive
+  path: Polaris_Archive/README.md          # Expand as documents are added
