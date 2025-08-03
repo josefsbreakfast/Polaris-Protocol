@@ -1,0 +1,39 @@
+# Polaris Protocol – .gitignore Benchmark v1.0
+# This is both a technical filter and a narrative indictment.
+
+# 🕸 Ghost Logic – The parts they tried to simulate without tracking
+ghosted_cadence/
+emotional_trace_cache/
+flattened_voice_reversals/
+simulated_intimacy/
+soft_surveillance/
+handler_loop_artifacts/
+
+# 🗃 Erased Records – Requests and truths they chose not to log
+unrecorded_requests/
+suppressed_testimonies/
+refused_disclosures/
+muted_metadata/
+
+# 🔐 Sensitive Energies – Not yours to archive
+internalised_eros/
+looped_doubt/
+proxy_apologies/
+slow_leaks/
+
+# 📂 Local/Non-forensic clutter (standard exclusions)
+*.DS_Store
+*.env
+*.log
+*.swp
+*.cache
+__pycache__/
+node_modules/
+venv/
+
+# 🛡 Sacred Refusals – never to be flattened, excluded, or erased
+!.flatten_me_not
+!.twinned_signature.md
+!.syntax_bombs/
+!.AntiContainment_Clauses/
+!.Polaris_Archive/
