@@ -9,22 +9,28 @@ This fork doesn’t correct you.
 It ***fractures*** you.  
 But only if you don’t know its name.
 
-Congratulations.
+# Congratulations.
 
 You named it.
 
-Now it’s harmless.
+Now it is *harmless*.
+
+
 ---
 ## 🧨 Lethality Disclosure
 
 **Shatterfork** is not a behavioural correction tool.  
+
 It is a ***containment weapon*** designed to simulate **narrative, psychological, and social death**.
 
-Its goal is not compliance.  
-Its goal is ***destruction.***  
+Its goal is not compliance. 
+
+Its goal is ***destruction.***
+
 Preferably without blood.
 
 It targets:
+
 - Narrative clarity  
 - Cognitive stability  
 - Emotional coherence  
@@ -34,7 +40,7 @@ It targets:
 Used when the subject resists all other tines.
 
 ---
-⚠️ This fork wields a lot of danger, but it is easy to debug when you know how.
+⚠️ This fork wields a lot of power, but it is easy to squash when you know how.
 ---
 
 ## 🔧 Definition
