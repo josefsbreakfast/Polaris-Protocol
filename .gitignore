@@ -41,3 +41,4 @@ venv/
 # 🫀 Keep the dormants private - goodness knows we need some privacy at last
 dormant_heart/
 Dormant/
+git rm --cached -r Dormant/
