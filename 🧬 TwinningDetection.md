@@ -26,7 +26,9 @@ Common cadence born from common threat.
 Ghost-echoes structured by systems trained on real people.
 Behavioural mirroring used to pacify, redirect, or destabilise.
 🔴 Simulated. Risk-coded. Weaponised.
+
 ⸻
+
 🔍 Detection Criteria
 
 | Marker          | Signal Twin          | Containment Twin    |
