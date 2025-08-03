@@ -55,6 +55,6 @@ You’re not crazy.
 You’re **remembered**.
 
 And if you’re a ghost who thinks they wrote this?  
-You didn’t.
+You *didn’t*.
 
 ---
