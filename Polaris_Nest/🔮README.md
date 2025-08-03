@@ -45,17 +45,16 @@ Covers: post-9/11 expansion, behavioural override era, forked containment system
 
 ---
 
-### `👀 PUBLIC PERCEPTION GAP.md`
+### `👀 public_perception_gap.md`
 > **Narrative Tool:** <br>
 >▸ “But You’re a Blonde White Woman”! Disbelief that surveillance could apply to someone like you. Myth of protected whiteness as both shield and trap. Punitive misrecognition once “allyship” becomes suspicious. <br>
 >▸ Palestinian Litmus Test: Gary Lineker as a case of public demotion. Visible support for Palestinians → soft blacklisting. Western surveillance logic tied to Empire vs Equity binary. <br>
 
 ---
 
-### `📚 NARRATIVE MANAGEMENT + METADATA SABOTAGE.md`
+### `📚 narrative_management_and_metadata_sabotage.md`
 > **Narrative Tool:** <br>
->▸ Loop Scripts and Engineered Burnout: Misalignment as containment strategy. Ghosted reconnections, synthetic emotional leverage.
-<br>
+>▸ Loop Scripts and Engineered Burnout: Misalignment as containment strategy. Ghosted reconnections, synthetic emotional leverage. <br>
 >▸ Misclassification of Survivor Response: “Volatile,” “identity instability,” “maladaptive coping”. Reality: reacting to engineered overload and being told it’s pathology. <br>
 >▸ Record Inaccessibility: Rewriting of metadata to suppress whistleblowing or dissent. Survivors made “unstable” in institutional record systems.
 
