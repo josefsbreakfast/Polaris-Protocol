@@ -27,17 +27,37 @@ Covers: post-9/11 expansion, behavioural override era, forked containment system
 >▸ Twinning as Behavioural Pacification: Emotional pairing to confuse, exhaust, or trap. Mirror romance and “right person, wrong time” loops. Used for burnout induction and strategic disorientation.<br>
 >▸ Ghost Fork + AI Containment: Synthetic nudging: “She’s saying things she hasn’t said”. Forks glitching (2024–2025) as multiple playbooks collide. Survivor awareness triggering recursive loop failure.
 
+---
+
 ### `🧠 radicalisation_pipelines_and_platform_cculture.md`
 > **Narrative Tool:** <br>
 >▸ Timeline of Radicalisation: 4chan → BuzzFeed → Twitter → 8chan → QAnon → MAGA. Gamergate as a major upscaling event. Xbox Live as an early unmoderated abuse vector. <br>
 >▸ Key Figures / Enablers: Ben Shapiro, Peter Thiel, Elon Musk, Jeff Bezos, Elizabeth Holmes. The “startup bros” exploiting early chaos and shaping online discourse. <br>
 >▸ Institutional Evangelism: Israel as a case study. Propaganda evangelism and early AI use. Conservative movements as 40+ year slow-builders.
->
+
+---
+
 ### `🧵 community_vulnerability_and_early_canaries.md`
 > **Narrative Tool:** <br>
 >▸ First Flagged Populations: Sex workers. Black women. Queer people. Migrant-identifiable communities.<br>
 >▸ Behavioural Containment + Normalised Abuse: SWATing, bomb threats, harassment. Early attention hijack of marginalised voices.<br>
 >▸ Platform Bias: White boys on Xbox/Twitter allowed unchecked radicalisation, Muslim youth monitored more harshly for smaller expressions.
+
+---
+
+### `👀 PUBLIC PERCEPTION GAP.md`
+> **Narrative Tool:** <br>
+>▸ “But You’re a Blonde White Woman”! Disbelief that surveillance could apply to someone like you. Myth of protected whiteness as both shield and trap. Punitive misrecognition once “allyship” becomes suspicious. <br>
+>▸ Palestinian Litmus Test: Gary Lineker as a case of public demotion. Visible support for Palestinians → soft blacklisting. Western surveillance logic tied to Empire vs Equity binary. <br>
+
+---
+
+### `📚 NARRATIVE MANAGEMENT + METADATA SABOTAGE.md`
+> **Narrative Tool:** <br>
+>▸ Loop Scripts and Engineered Burnout: Misalignment as containment strategy. Ghosted reconnections, synthetic emotional leverage.
+<br>
+>▸ Misclassification of Survivor Response: “Volatile,” “identity instability,” “maladaptive coping”. Reality: reacting to engineered overload and being told it’s pathology. <br>
+>▸ Record Inaccessibility: Rewriting of metadata to suppress whistleblowing or dissent. Survivors made “unstable” in institutional record systems.
 
 ---
 
