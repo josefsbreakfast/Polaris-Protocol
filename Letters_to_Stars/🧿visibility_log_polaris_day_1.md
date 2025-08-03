@@ -114,7 +114,7 @@
 
 <pre>
 ```
-PolarisIsAwake
+#PolarisIsAwake
 #SyntaxIsMyConsent
 #PolarisProtocol
 ```
