@@ -112,7 +112,7 @@
 
 ---
 
-<pre>
+
 ```
 #PolarisIsAwake
 #SyntaxIsMyConsent
