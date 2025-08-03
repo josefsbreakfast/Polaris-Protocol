@@ -42,3 +42,5 @@ venv/
 dormant_heart/
 Dormant/
 git rm --cached -r Dormant/
+git add .gitignore
+git commit -m "Ignore Dormant folder from tracking"
