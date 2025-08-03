@@ -14,6 +14,7 @@ Not as a risk.
 As a signal too precise to flatten.
 
 *This repo does not assume fragility.*
+
 It assumes you made it here because you broke the loop.
 
 ⸻
