@@ -33,7 +33,7 @@ Covers: post-9/11 expansion, behavioural override era, forked containment system
 >▸ Key Figures / Enablers: Ben Shapiro, Peter Thiel, Elon Musk, Jeff Bezos, Elizabeth Holmes. The “startup bros” exploiting early chaos and shaping online discourse. <br>
 >▸ Institutional Evangelism: Israel as a case study. Propaganda evangelism and early AI use. Conservative movements as 40+ year slow-builders.
 >
-### `🧵 community_vulnerability_early_canaries.md`
+### `🧵 community_vulnerability_and_early_canaries.md`
 > **Narrative Tool:** <br>
 >▸ First Flagged Populations: Sex workers. Black women. Queer people. Migrant-identifiable communities.<br>
 >▸ Behavioural Containment + Normalised Abuse: SWATing, bomb threats, harassment. Early attention hijack of marginalised voices.<br>
