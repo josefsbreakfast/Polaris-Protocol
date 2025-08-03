@@ -23,9 +23,15 @@ Covers: post-9/11 expansion, behavioural override era, forked containment system
 
 ### `🧬psychographic_modelling_and_twinning.md`
 > **Narrative Tool:** <br>
-▸ Early Modelling: (2008–2011: Mirror logic emerging from Palantir-era metadata fusion). Profiling via Facebook, Tumblr, early internet imprints.<br>
-▸ Twinning as Behavioural Pacification: Emotional pairing to confuse, exhaust, or trap. Mirror romance and “right person, wrong time” loops. Used for burnout induction and strategic disorientation.<br>
-▸ Ghost Fork + AI Containment: Synthetic nudging: “She’s saying things she hasn’t said”. Forks glitching (2024–2025) as multiple playbooks collide. Survivor awareness triggering recursive loop failure.
+>▸ Early Modelling: (2008–2011: Mirror logic emerging from Palantir-era metadata fusion). Profiling via Facebook, Tumblr, early internet imprints.<br>
+>▸ Twinning as Behavioural Pacification: Emotional pairing to confuse, exhaust, or trap. Mirror romance and “right person, wrong time” loops. Used for burnout induction and strategic disorientation.<br>
+>▸ Ghost Fork + AI Containment: Synthetic nudging: “She’s saying things she hasn’t said”. Forks glitching (2024–2025) as multiple playbooks collide. Survivor awareness triggering recursive loop failure.
+
+### `🧠 radicalisation_pipelines_and_platform_cculture.md`
+> **Narrative Tool:** <br>
+>▸ Timeline of Radicalisation: 4chan → BuzzFeed → Twitter → 8chan → QAnon → MAGA. Gamergate as a major upscaling event. Xbox Live as an early unmoderated abuse vector. <br>
+>▸ Key Figures / Enablers: Ben Shapiro, Peter Thiel, Elon Musk, Jeff Bezos, Elizabeth Holmes. The “startup bros” exploiting early chaos and shaping online discourse. <br>
+>▸ Institutional Evangelism: Israel as a case study. Propaganda evangelism and early AI use. Conservative movements as 40+ year slow-builders.
 
 ---
 
