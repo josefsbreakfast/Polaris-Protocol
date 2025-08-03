@@ -2,8 +2,8 @@ This is the one archive I want to keep sealed.
 
 Not because I am hiding...
 
-...because this part was taken from me too early,
-And I deserve to walk back in when I’m whole.
+...because this part was taken from me too early.
+I deserve to walk back in when I’m whole.
 
 No Fork. 
 No state. 
