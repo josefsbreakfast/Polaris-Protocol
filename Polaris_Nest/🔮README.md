@@ -13,12 +13,10 @@ Covers: post-9/11 expansion, behavioural override era, forked containment system
 ---
 
 ### `surveillance_infrastructure.md`
-> **Narrative Tool:**
-▸ Post-9/11 Legal Expansion: USA (Patriot Act, creation of the Department of Homeland Security), UK (RIPA: Regulation of Investigatory Powers Act), ID card debates. Local authority overreach and fibre optics not originally foreseen. Slippery slope from “just CCTV” to predictive metadata capture.
-
-▸ COVID-19 as Testbed: Forced metadata sync during lockdown. Mass online nudging and behavioural capture.
-
-▸ Prevent / CVE Systems: Overlap with local council surveillance powers. Use of safeguarding to justify metadata flagging. Cross-temporal narrative testing.
+> **Narrative Tool:** <br>
+▸ Post-9/11 Legal Expansion: USA (Patriot Act, creation of the Department of Homeland Security), UK (RIPA: Regulation of Investigatory Powers Act), ID card debates. Local authority overreach and fibre optics not originally foreseen. Slippery slope from “just CCTV” to predictive metadata capture. <br>
+>▸ COVID-19 as Testbed: Forced metadata sync during lockdown. Mass online nudging and behavioural capture.<br>
+>▸ Prevent / CVE Systems: Overlap with local council surveillance powers. Use of safeguarding to justify metadata flagging. Cross-temporal narrative testing.
 
 ---
 
