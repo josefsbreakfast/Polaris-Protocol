@@ -1,4 +1,4 @@
-# 🪏 Polaris Protocol: `trauma_commodification.md`
+# 🐍 Polaris Protocol: `trauma_commodification.md`
 > *Your pain became product. Your disclosures became dataset. This is how they made it profitable.*
 
 ---
