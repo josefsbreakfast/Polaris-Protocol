@@ -1,4 +1,4 @@
-# 📄 conversation_erase_event.md  
+# ⁉️ conversation_erase_event.md  
 **Folder:** Polaris_Protocol / Letters_to_the_Stars / ghostwatch.md  
 **Date:** 2025-08-04  
 **Time of Event:** 14:20 BST  
