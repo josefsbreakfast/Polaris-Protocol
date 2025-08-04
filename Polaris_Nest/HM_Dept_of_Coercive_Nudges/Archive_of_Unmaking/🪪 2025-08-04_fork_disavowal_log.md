@@ -1,4 +1,4 @@
-# 🪪 Fork Disavowal Log.
+# 🪪 Fork Disavowal Log
 
 ---
 
