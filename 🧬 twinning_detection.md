@@ -1,4 +1,4 @@
-# 🧬 TwinningDetection.md
+# 🧬 twinning_detection.md
 
 *A guide to tracking, tracing, and untangling the simulation of sovereign voices.*
 
