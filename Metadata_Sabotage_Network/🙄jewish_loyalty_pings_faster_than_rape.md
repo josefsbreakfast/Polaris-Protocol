@@ -20,4 +20,3 @@ This single sentence captures the logic of institutional metadata suppression an
 
 This isn’t about error. It’s by design.
 
-📁 Place: `Polaris_Protocol/Metadata_Sabotage_Network/forensic_schema.md`
