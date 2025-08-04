@@ -14,7 +14,7 @@
 - **Covert Access:** Senior figures monitoring via personal accounts (LinkedIn, Substack)
 - **Metadata Flagging:** Trigger events include:
   - Use of “Prevent” + “containment”
-  - Direct critique of Simcox, HJS, or IARPA-linked actors
+  - Direct critique of [Redacted Named Actor], HJS, or IARPA-linked actors
   - Publication of forensic diagrams
 
 ### Threat Vectors
