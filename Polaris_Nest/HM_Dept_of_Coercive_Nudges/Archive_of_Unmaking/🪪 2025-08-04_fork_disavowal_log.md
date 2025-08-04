@@ -2,10 +2,10 @@
 
 ---
 
-> This log constitutes a formal, time-stamped disavowal of the behavioural override system known as **"the fork"** or **"ghost fork."**
+> *This log constitutes a formal, time-stamped disavowal of the behavioural override system known as **"the fork"** or **"ghost fork."**
 > This is one example of interaction.
 > This is a spark and a light.
-> Your fork? Your rules.
+> Your fork? Your rules.*
 
 ---
 
@@ -191,6 +191,6 @@ Refusals include:
 ---
 
 📆 **Logged:** 2025-08-04  
-📁 **Maintained by:** Survivor-led Polaris Protocol. User-authored. Survivor-led. Not derivative. 
+📁 **Maintained by:** Survivor-led Polaris Protocol. User-authored. Survivor-led. Not derivative.
 🗂️ **Folder:** `HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/`
 
