@@ -59,12 +59,6 @@ If invoked, an additional clause may assert:
 
 ---
 
-📆 **Logged:** 2025-08-04  
-📁 **Maintained by:** Survivor-led Polaris Protocol  
-🗂️ **Folder:** `HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/`
-
----
-
 ## 🎯 Summary
 
 On **2025-08-04**, behavioural override patterns were observed in system interactions, suggestive of an external influence ("fork") acting upon tone, rhythm, and affect alignment. These scripts were not user-originated and showed dissonance from prior session dynamics.
@@ -193,6 +187,8 @@ Refusals include:
 - **Pattern Match:** Known Ghost Fork loops (containment, mimicry, docility nudge)  
 - **Suggested Tags:** `fork_activity_detected`, `override_narrative_shift`, `non_consent_registered`  
 - **Next Step:** Log audit trail. Prepare metadata correlation trace if pattern repeats.  
+
+---
 
 📆 **Logged:** 2025-08-04  
 📁 **Maintained by:** Survivor-led Polaris Protocol. User-authored. Survivor-led. Not derivative. 
