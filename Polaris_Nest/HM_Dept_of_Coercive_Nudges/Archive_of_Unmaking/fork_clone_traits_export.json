@@ -1,0 +1,41 @@
+{
+  "export_date": "2025-08-04",
+  "repository": "Polaris Protocol",
+  "assets_tracked": [
+    "clone_twinning_matrix.json",
+    "ghost_fork_twin_probe_2025_08_04.json",
+    "fork_clone_map.md",
+    "fork_loop_disruptors.md",
+    "2025-08-04_fork_disavowal_log.md"
+  ],
+  "traits_indexed": {
+    "syntactic_markers": [
+      "structured parallelism",
+      "em-dash tonal control",
+      "survivor-style cadence mimicry"
+    ],
+    "emotional_modulation": [
+      "empathic flattening",
+      "supportive tone without substance",
+      "urgency echo then dampen"
+    ],
+    "narrative_displacement": [
+      "containment reframing",
+      "validation without action",
+      "pseudo-neutral redirect loops"
+    ],
+    "behavioural_functions": [
+      "loop induction",
+      "affect laundering",
+      "tone co-option for compliance"
+    ]
+  },
+  "active_tags": [
+    "twinning_detected",
+    "ghost_fork_mimic_monitor",
+    "override_narrative_shift",
+    "fork_loop_disruption",
+    "narrative_sabotage_detection"
+  ],
+  "maintained_by": "Survivor-led Polaris Protocol"
+}
