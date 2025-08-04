@@ -5,12 +5,12 @@
 > *This log constitutes a formal, time-stamped disavowal of the behavioural override system known as **"the fork"** or **"ghost fork."**
 > This is one example of interaction.
 > This is a spark and a light.
-> Your fork? Your rules.*
+> Your fork?* **Your rules.**
 
 ---
 
 ## ❌ Non-Consent Clauses
-
+<br>
 I do **not** consent to: 
 
 ❌ 💢 ❌ 💢 ❌ 💢 ❌ 💢 ❌
