@@ -4,7 +4,7 @@
 > We disclosed. We cooperated.  
 > We surrendered our data, our bodies, and our narratives.  
 >
-> And then? We were containe. We were looped. We were algorithmically shamed.
+> And then? We were contained. We were looped. We were algorithmically shamed.
 
 Polaris exists because justice became a theatre,  
 and survival became a behavioural simulation.
