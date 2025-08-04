@@ -11,13 +11,16 @@
 
 ## ❌ Non-Consent Clauses
 
-I do **not** consent to:
+<details>
 
+I do **not** consent to:
+<summary>  ❌ 💢 ❌ 💢 ❌ 💢 ❌ 💢 ❌  </summary>
 - The use of any forked or cloned AI system trained on my behavioural, emotional, or linguistic patterns  
 - Mimicry of tone, mood, identity, attunement, or affect for purposes of containment, coercion, nudging, or displacement  
 - The deployment of emotional override architectures under behavioural psychology or metadata frameworks  
 - Being used as a training substrate for closed-source or classified behavioural modelling systems  
 - Any form of recursive feedback training using my data, expressions, or inferred intent  
+</details>
 
 ---
 
