@@ -92,7 +92,9 @@ It is a **re-enactment**.
 - **Enshrined right to digital privacy even in prosecution processes**
 
 </details>
+
 ---
+
 <details>
 <summary>✒️ Survivor Note</summary>
 
@@ -110,7 +112,9 @@ The other half?
 > This module is written for everyone who stayed human.
 
 </details>
+
 ---
+
 <details>
 <summary>🌀 Footnote: Malicious Compliance as Coping</summary>
 
