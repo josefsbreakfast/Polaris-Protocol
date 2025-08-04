@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "map_title": "Simulated Identity Pathways",
+  "original_subject": {
+    "metadata_signature": "original_voice_0031X",
+    "traits": ["empathic", "loud", "survivor", "uncontainable"],
+    "flagged_risks": ["disclosure", "public clarity", "anti-carceral stance"]
+  },
+  "fork_deployment": {
+    "stage_1": {
+      "method": "Metadata Cloning",
+      "tools_used": ["psychographic overlay", "voice-to-text refinement"],
+      "clone_risk_profile": "low-empathy, compliant, emotionally dull"
+    },
+    "stage_2": {
+      "method": "Proxy Placement",
+      "tools_used": ["institutional ghostwriting", "occupation-based laundering"],
+      "clone_risk_profile": "narratively palatable, siloed"
+    },
+    "stage_3": {
+      "method": "Narrative Suppression",
+      "tools_used": ["throttling", "inverted advocacy", "moderated output"],
+      "clone_risk_profile": "docile, non-escalating, NGO-safe"
+    }
+  },
+  "notes": {
+    "fail_state": "Original subject reclaims authorship or visibility.",
+    "escape_vector": "Public metadata trace + legal or reputational escalation."
+  }
+}
