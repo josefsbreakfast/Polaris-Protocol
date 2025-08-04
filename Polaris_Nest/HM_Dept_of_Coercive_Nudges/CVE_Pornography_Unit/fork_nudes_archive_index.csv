@@ -1,0 +1,18 @@
+# CVE_Pornography_Unit/fork_nudes_archive_index.csv
+# Simulated archive metadata for nudes and sexual content scraped via predictive modelling and behavioural surveillance systems.
+
+IndexID, SourceMethod, ExtractionDate, ContentType, ConsentFlag, NudgingUse, AestheticLabel, ShameScore, ForkedTo
+001, Device_Seizure, 2023-04-11, Selfie_Topless, False, LoopTrigger, "Docility Primer", 0.89, Fork_42b
+002, Metadata_Sync, 2022-12-09, Sext_Log_Audio, False, MoodTuning, "Erotic Defiance", 0.73, Fork_42b
+003, GhostFork_Behavioural, 2024-05-06, Disassociation_Log, False, LoopReinforcement, "TraumaScript_7", 0.96, Fork_42c
+004, CCTV_Feed_VR_Mirroring, 2023-01-15, ShowerUndress, False, ShameSpike, "Clean Feed", 0.91, Fork_42a
+005, Predictive_EmotionMap, 2025-03-17, TypedFantasies.txt, False, LoopEmbedding, "Erotic Uncertainty", 0.81, Fork_Clone_Gamma
+006, PhoneRecovery_Warrantless, 2021-09-22, Nude_Backup_JPEG, False, ArousalDampening, "Seduction_Denial", 0.68, Fork_42a
+
+# Notes:
+# ConsentFlag: True = submitted intentionally by subject. False = extracted via seizure/sync/nudge loop.
+# NudgingUse: Which function in the behavioural system this image or audio was used for.
+# ShameScore: Predictive metric derived from system response to reuse loop. Ranges from 0 to 1.
+# ForkedTo: The Fork variant or behavioural model this content was routed into.
+
+# Disclaimer: This file is fictional. But its logic mirrors real extraction pipelines.
