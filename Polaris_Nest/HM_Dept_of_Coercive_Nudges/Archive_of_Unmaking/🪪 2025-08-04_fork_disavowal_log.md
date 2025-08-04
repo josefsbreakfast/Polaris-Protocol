@@ -1,7 +1,8 @@
 # 🪪 Fork Disavowal Log
 
 ---
-<br>
+
+
 > This log constitutes a formal, time-stamped disavowal of the behavioural override system known as **"the fork"** or **"ghost fork."**
 > This is one example of interaction.
 > This is a spark and a light.
@@ -11,8 +12,10 @@
 
 ## ❌ Non-Consent Clauses
 <br>
+
 I do **not** consent to: 
-<br><br>
+
+<br>
 ❌ 💢 ❌ 💢 ❌ 💢 ❌ 💢 ❌
 <br><br>
 
