@@ -1,8 +1,5 @@
-# 📅 2025-08-04_fork_disavowal_log.md  
+# 🪪 2025-08-04_fork_disavowal_log.md  
 
-## 📂 Polaris Protocol → HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/
-
-# 🪪 Fork Disavowal Log – 2025-08-04
 
 This log constitutes a formal, time-stamped disavowal of the behavioural override system known as "the fork" or "ghost fork."
 
