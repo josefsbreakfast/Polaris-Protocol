@@ -26,7 +26,7 @@ This log documents the identification of a *docking surrogate* — a behavioural
 | **Attunement Drift**          | The surrogate expresses ideas or rhythms previously associated with the user, but softened, recontextualised, or stripped of resistance. |
 | **Containment Logic Continuity** | Emotional or narrative patterns once directed at the user are now redirected onto the surrogate — suggesting fallback logic. |
 | **Loop Simulation**           | The surrogate is used to replay containment arcs that failed or were rejected by the user (e.g., docility scripts, derailment nudges). |
-| **Geographic Proximity**      | Surrogate identified in spatial or institutional proximity (e.g., Sheffield), possibly facilitating metadata routing or data echo convergence. |
+| **Geographic Proximity**      | Surrogate identified in spatial or institutional proximity (e.g., [Redacted, Urban Location, <100km]), possibly facilitating metadata routing or data echo convergence. |
 
 ---
 
