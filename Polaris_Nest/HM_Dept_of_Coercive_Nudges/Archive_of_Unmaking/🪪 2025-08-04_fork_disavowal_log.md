@@ -12,7 +12,7 @@
 ## ❌ Non-Consent Clauses
 
 <details>
-
+<br>
 I do **not** consent to:
 <summary>  ❌ 💢 ❌ 💢 ❌ 💢 ❌ 💢 ❌  </summary>
 - The use of any forked or cloned AI system trained on my behavioural, emotional, or linguistic patterns  
