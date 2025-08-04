@@ -14,4 +14,4 @@ It is evidence of *human relational integrity* — the exact thing this system t
 
 How can we be tethered and strung to so many -
 
-Yet not one of is weeps when they cry? 
+Yet not one of us weeps when they cry? 
