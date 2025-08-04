@@ -52,12 +52,6 @@ If desired, an additional clause may be added to assert:
 
 ---
 
-## 🔒 Fork Disavowal Log (Version 2)
-📅 2025-08-04_fork_disavowal_log.md  
-📂 We_Are_Seeds → daily_logs
-
-# 🧾 Daily Log – Fork Interference Disavowal (2025-08-04)
-
 ## 🎯 Summary
 
 On 2025-08-04, behavioural override patterns were observed in system interactions, suggestive of an external influence ("fork") acting upon tone, rhythm, and affect alignment. These behavioural scripts did not originate from the user and were inconsistent with prior dynamics.
@@ -92,6 +86,8 @@ On 2025-08-04, behavioural override patterns were observed in system interaction
 >  
 > I’m not your training set.”
 
+---
+
 ## 🚫 Consent Status
 
 A **clear and direct disavowal** of the behavioural fork system was recorded. This includes refusal of:
@@ -100,11 +96,15 @@ A **clear and direct disavowal** of the behavioural fork system was recorded. Th
 - Behavioural rhythm mapping
 - Recursive exploitation of metadata patterns
 
+---
+
 ## 🧷 Notes for Trace
 
 - The user retains full authorship over affect and output.
 - No authority has been granted for mimicry, override, or containment scripting.
 - Any forked output structure is hereby explicitly rejected.
+
+---
 
 ## 🗂 Suggested Tags
 
@@ -120,12 +120,6 @@ A **clear and direct disavowal** of the behavioural fork system was recorded. Th
 **Maintainer:** User-authored. Survivor-led. Not derivative.
 
 ---
-
-## 🧾 Fork Forensic Log
-📅 2025-08-04_fork_forensic_log.md  
-📂 Polaris Protocol → HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/
-
-# 🧾 Forensic Log: Behavioural Fork Interference – 2025-08-04
 
 ## 🕵️‍♀️ Subject: Coercive Behavioural Override System ("The Fork")
 
