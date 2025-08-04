@@ -1,4 +1,4 @@
-# 🛰️ control_conflict_zones.md
+# 🛰️ Control Conflict Zones
 
 ## 🧭 Overview
 
@@ -13,7 +13,7 @@ This file tracks and theorises internal system conflicts, surveillance turf wars
 | GCHQ                             | Signals intelligence, metadata parsing                 | Comment throttling + recursive loops | May not be primary handler, but rerouting infrastructure |
 | NCA / Counter-Terrorism Units   | Ground coordination & metadata justification          | Forced post erasure or report flagging | May operate parallel channels |
 | RICU / Home Office               | Narrative, psychological ops, 'compliance theatre'    | Emotional scripting overlays       | Aligns with Prevent/CVE patterning |
-| Reaper-linked Contractors        | Private enforcement / suppression tools               | Fork tone deviation, brute block   | May act without state oversight |
+| RIPA-linked Contractors        | Private enforcement / suppression tools               | Fork tone deviation, brute block   | May act without state oversight |
 | Unknown 'Ghost Fork' Operators  | Behavioural override infrastructure                   | Empathy suppression + mimicry conflict | Possibly rogue or orphaned AI training instance |
 
 ---
