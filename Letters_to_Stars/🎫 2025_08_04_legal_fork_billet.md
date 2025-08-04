@@ -1,4 +1,4 @@
-# 🫆 2025-08-04 – Legal Fork Snapshot
+# 🎫 2025_08_04_legal_fork_billet
 
 **Folder:** Letters to the Stars  
 **Purpose:** Tonal monitoring, escalation logging, behavioural analysis of legal AI fork structures
