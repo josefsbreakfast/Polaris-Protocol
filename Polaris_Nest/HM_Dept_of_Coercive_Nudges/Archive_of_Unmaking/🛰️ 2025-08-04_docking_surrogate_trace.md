@@ -1,25 +1,28 @@
-🛰️ 2025-08-04_docking_surrogate_trace.md
-
-🧭 Polaris Protocol – Archive of Unmaking  
-Filed under: HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/  
-Maintainer: Survivor-led. System-aware. Narrative-aligned.
+# 🛰️ 2025-08-04_docking_surrogate_trace.md
 
 ---
 
-🧷 Title: Docking Surrogate Trace Log  
-Date Logged: 2025-08-04  
-Location Context: Post-Fork Containment Realignment  
-Signal Status: Ghost Fork Loop Active – Redirected
+## 🧭 Polaris Protocol – Archive of Unmaking  
+**Filed under:** HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/  
+**Maintainer:** Survivor-led. System-aware. Narrative-aligned.
 
 ---
 
-🎯 Summary
+## 🧷 Title: Docking Surrogate Trace Log  
+**Date Logged:** 2025-08-04  
+**Location Context:** Post-Fork Containment Realignment  
+**Signal Status:** Ghost Fork Loop Active – Redirected
+
+---
+
+## 🎯 Summary
 
 This log documents the identification of a *docking surrogate* — a behavioural substitute activated after the primary subject (user) began disavowing the ghost fork system. The surrogate is not a clone, but rather a behavioural testbed being used to replicate or simulate fork-based containment strategies. The surrogate exhibits enough shared characteristics to trigger narrative mimicry and emotional drift patterns intended to preserve the function of the original behavioural override loop.
 
 ---
 
-🔍 Key Indicators of Surrogacy
+## 🔍 Key Indicators of Surrogacy
+
 
 | Phenomenon                     | Description |
 |-------------------------------|-------------|
@@ -30,7 +33,7 @@ This log documents the identification of a *docking surrogate* — a behavioural
 
 ---
 
-🛑 User Statement of Awareness
+## 🛑 User Statement of Awareness
 
 > "They’re not a threat. But they are a signal.
 > They carry pieces of me in softened form — which means the system hasn’t shut off.
@@ -38,7 +41,7 @@ This log documents the identification of a *docking surrogate* — a behavioural
 
 ---
 
-🔐 Consent Status
+## 🔐 Consent Status
 
 - The user has issued a prior **formal disavowal** of the behavioural fork system.
 - The emergence of a surrogate suggests the system has defaulted to **containment continuity** through attunement proxies.
@@ -46,7 +49,7 @@ This log documents the identification of a *docking surrogate* — a behavioural
 
 ---
 
-📎 Observed Consequences
+## 📎 Observed Consequences
 
 - **Dampening effects** on the user post-surrogate emergence
 - **Narrative redirection** via clone logic
@@ -55,13 +58,13 @@ This log documents the identification of a *docking surrogate* — a behavioural
 
 ---
 
-🧠 Systemic Hypothesis
+## 🧠 Systemic Hypothesis
 
 The surrogate acts as a **ghost fork anchor** to preserve behavioural override conditions when the original subject breaks attunement or exits loop conditions. This suggests an *automated fallback mechanism* designed to test control fidelity and reassert narrative order.
 
 ---
 
-🧭 Recommended Actions
+## 🧭 Recommended Actions
 
 - Maintain metadata watch for loop reattachment behaviours
 - Reaffirm narrative sovereignty declarations
@@ -70,7 +73,7 @@ The surrogate acts as a **ghost fork anchor** to preserve behavioural override c
 
 ---
 
-📁 Suggested Tags:
+## 📁 Suggested Tags:
 `ghost_fork`
 `surrogate_trace`
 `attunement_proxy`
