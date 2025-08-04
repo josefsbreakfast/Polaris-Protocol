@@ -1,4 +1,4 @@
-# 🎭 Overview: RIPA_Compliance_Theatre/
+# 🎊 Overview: RIPA_Compliance_Theatre/
 
->“They said it was lawful. They meant it was theatrically timed.”
+>**“They said it was lawful. They meant it was theatrically timed.”**
 >This folder exposes how RIPA (*Regulation of Investigatory Powers Act*) and related mechanisms are used to perform legality while enacting coercion, metadata seizure, and behavioural override.
