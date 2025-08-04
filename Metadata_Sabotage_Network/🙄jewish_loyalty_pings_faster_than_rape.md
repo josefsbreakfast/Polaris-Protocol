@@ -1,6 +1,6 @@
 # 🙄 Forensic Schema: Why the Dual Loyalty Accusation 'Pings' Harder than Rape Disclosure
 
-> “The Jewish dual loyalty accusation is making more of a dent than the fact I’m a rape survivor whose sealed records were accessed by a paedophile, and who is now being systemically erased because I didn’t fall apart.”
+> “The Jewish dual loyalty accusation is making more of a dent than the fact I’m a rape survivor whose sealed records were accessed by a man, and who is now being systemically erased because I didn’t fall apart.”
 
 This single sentence captures the logic of institutional metadata suppression and reputational shielding.
 
