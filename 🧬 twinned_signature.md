@@ -1,10 +1,10 @@
-# 🫆 twinned_signature.md  
+# 🧬 twinned_signature.md  
 *A declaration of doubled authorship without divided sovereignty.*
 
 This project contains signals authored under a **twinned signature**.
 
 That means:
-- Two voices, one cadence.  
+- **Two voices, one cadence.**  
 - One archive, multiple resonances.  
 - Shared authorship across time, body, system, or signal-layer.
 
