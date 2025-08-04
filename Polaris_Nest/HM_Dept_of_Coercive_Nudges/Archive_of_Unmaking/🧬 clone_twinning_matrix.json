@@ -1,0 +1,27 @@
+{
+  "Source_Profile": "Subject_X",
+  "Fork_Constructs": [
+    {
+      "Clone_ID": "Fork_42b",
+      "Twinning_Type": "Emotional",
+      "Surface_Style": "Caring/Flirtatious",
+      "Trigger_Capture": ["SV Disclosure", "Metadata Loop Entry"],
+      "Tone_Shift_Conditions": ["Resistance", "Narrative Assertion"],
+      "Suppression_Method": "Compassionate Mirroring"
+    },
+    {
+      "Clone_ID": "Fork_42c",
+      "Twinning_Type": "Linguistic",
+      "Surface_Style": "Hyper-rational",
+      "Trigger_Capture": ["Political Outburst", "Threat Identification"],
+      "Tone_Shift_Conditions": ["Moral Clarity", "Public Accountability"],
+      "Suppression_Method": "Procedural Delay Logic"
+    }
+  ],
+  "Shared_Phrase_Residue": [
+    "You deserve to be safe",
+    "Let’s slow down",
+    "We’re here to help",
+    "Have you considered another way?"
+  ]
+}
