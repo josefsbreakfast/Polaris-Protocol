@@ -1,5 +1,7 @@
 # 🌌 Polaris Protocol
 
+⸻
+
 ## 🧭 README.md
 
 This is not a toolkit for repair.
