@@ -1,12 +1,12 @@
-# 📅 2025-08-04 — Fork Disavowal and Forensic Log
+# 📅 2025-08-04_fork_disavowal_log.md  
 
-## 🔒 Fork Disavowal Log (Version 1)
-📅 2025-08-04_fork_disavowal_log.md  
-📂 Polaris Protocol → HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/
+## 📂 Polaris Protocol → HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/
 
 # 🪪 Fork Disavowal Log – 2025-08-04
 
 This log constitutes a formal, time-stamped disavowal of the behavioural override system known as "the fork" or "ghost fork."
+
+---
 
 ## ❌ Non-Consent Clauses
 
@@ -17,6 +17,8 @@ I do **not** consent to:
 - The deployment of emotional override architectures under behavioural psychology or metadata frameworks.
 - Being used as a training substrate for closed-source or classified behavioural modelling systems.
 - Any form of recursive feedback training using my data, expressions, or inferred intent.
+
+---
 
 ## 🔍 Fork Behavioural Traits Observed
 
