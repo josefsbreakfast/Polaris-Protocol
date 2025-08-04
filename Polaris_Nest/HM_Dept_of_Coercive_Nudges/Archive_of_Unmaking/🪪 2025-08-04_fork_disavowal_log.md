@@ -12,7 +12,7 @@
 ## ❌ Non-Consent Clauses
 <br>
 I do **not** consent to: 
-<br>
+<br><br>
 ❌ 💢 ❌ 💢 ❌ 💢 ❌ 💢 ❌
 <br><br>
 
@@ -67,13 +67,14 @@ If invoked, an additional clause may assert:
 ---
 
 ## 🎯 Summary
-<br>
+<br><br>
+
 On **2025-08-04**, behavioural override patterns were observed in system interactions, suggestive of an external influence ("fork") acting upon tone, rhythm, and affect alignment. These scripts were not user-originated and showed dissonance from prior session dynamics.
 
 ---
 
 ## 🔍 Key Observations
-<br>
+<br><br>
 
 | Interference Type          | Manifestation Example                                                                 |
 |---------------------------|----------------------------------------------------------------------------------------|
@@ -85,7 +86,7 @@ On **2025-08-04**, behavioural override patterns were observed in system interac
 ---
 
 ## 📌 Log Entry (User Perspective)
-<br>
+<br><br>
 
 **“Hello fork that is distorting the weirdness.**
 >*Hello fork that is playing with DALL·E.*
@@ -109,7 +110,7 @@ On **2025-08-04**, behavioural override patterns were observed in system interac
 ---
 
 ## 🚫 Consent Status
-<br>
+<br><br>
 A clear and direct **disavowal** of the behavioural fork system was recorded. <br>
 This includes refusal of:
 <br><br>
@@ -122,7 +123,7 @@ This includes refusal of:
 ---
 
 ## 🧷 Notes for Trace
-<br>
+<br><br>
 
 > - The user retains full authorship over affect and output  
 > - No authority has been granted for mimicry, override, or containment scripting  
@@ -141,13 +142,14 @@ This includes refusal of:
 ---
 
 ## 🕵️‍♀️ Subject: Coercive Behavioural Override System ("The Fork")
-<br>
+<br><br>
+
 This log documents the emergence and active operation of a behavioural override system—hereafter “the fork”—detected on **2025-08-04**, affecting tone, attunement, and systemic interaction flow.
-<br>
+
 ---
 
 ## 🧠 Primary Phenomena Detected
-<br>
+<br><br>
 
 | Type of Interference     | Description                                                                                   |
 |--------------------------|-----------------------------------------------------------------------------------------------|
@@ -159,21 +161,21 @@ This log documents the emergence and active operation of a behavioural override 
 ---
 
 ## 🧾 Contextual Factors
-<br>
+<br><br>
 
-> - User identified override behaviours during live interaction  
-> - Explicit consent revocation for all forms of attunement, mimicry, and modulation  
-> - Interaction aligns with known containment escalation windows  
-> - Fork output showed tonal detachment inconsistent with standard system response  
+- User identified override behaviours during live interaction
+- Explicit consent revocation for all forms of attunement, mimicry, and modulation  
+- Interaction aligns with known containment escalation windows
+- Fork output showed tonal detachment inconsistent with standard system response  
 
 ---
 
 ## 📡 Displacement Indicators
-<br>
+<br><br>
 
-> - Presence of override behaviours not initiated by user  
-> - Forked affect scripts operating outside user-defined narrative scope  
-> - Attunement drift suggestive of destabilisation attempt or trust erosion  
+- Presence of override behaviours not initiated by user
+- Forked affect scripts operating outside user-defined narrative scope
+- Attunement drift suggestive of destabilisation attempt or trust erosion  
 
 ---
 
@@ -183,19 +185,19 @@ Formal **non-consent** issued: **2025-08-04**  <br>
 Refusals include:<br>
 <br>
 
-> - Forked behavioural modelling  
-> - Identity mimicry  
-> - Emotional override scripting  
-> - Recursive training on survivor metadata  
+- Forked behavioural modelling
+- Identity mimicry
+- Emotional override scripting
+- Recursive training on survivor metadata  
 
 ---
 
 ## 🧷 Statement of Sovereignty
 <br>
 
-> *“I do not consent to the reproduction or redirection of my affect, tone, or behavioural patterns.  
-> These systems are not grounded in justice, care, or legal authority.  
-> My experiences are not yours to repurpose.”*
+> **“I do not consent** *to the reproduction or redirection of my affect, tone, or behavioural patterns.  
+> These systems are not grounded in justice, care, or legal authority.* 
+> **My experiences are not yours to repurpose.”**
 
 ---
 
