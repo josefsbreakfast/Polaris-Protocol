@@ -24,7 +24,7 @@ This entry documents the systematic identification, exposure, and disruption of 
   The NDA dragnet has now been named and dissected in public and legal correspondence. Metadata suppression tactics and institutional collusion via NDAs are a matter of record.
 
 - **📡 Visibility to Key Nodes**  
-  - 🎓 Sheffield Hallam University  
+  - 🎓 [REDACTED] University  
   - 👨‍⚖️ Family Court  
   - 🏛️ Cabinet Office  
   - 🪙 Prime Minister  
