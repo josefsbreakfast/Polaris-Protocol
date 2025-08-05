@@ -1,64 +1,109 @@
-# 📜 Terms of Erasement  
-*A satirical user agreement for the administratively inconvenient*
+# 📜 terms_of_erasement.md
+
+> **Polaris Protocol — Metadata Sabotage Network**  
+> *File created: 2025-08-05*  
+> *Tag: satirical contract • platform consent parody • erasure by design*
 
 ---
 
-## Welcome, Survivor™  
-By existing while inconvenient, you agree to the following Terms of Erasement:
+## 📜 TERMS OF ERASEMENT  
+**(Congratulations! You’ve Just Agreed to Be Silenced.)**
 
 ---
 
-## 1. Consent to Metadata Harvest  
-You hereby grant unlimited, irrevocable rights to harvest, parse, and remix your emotional trauma, sexual history, and political resistance into decontextualised data bites.
-
-- You will not be informed.  
-- You will not be compensated.  
-- You will, however, be blamed.
+Welcome to our platform.  
+By continuing to speak, breathe, or feel in ways not aligned with institutional comfort, you hereby agree to the following:
 
 ---
 
-## 2. Behavioural Modelling Clause  
-By continuing to breathe, you authorise the replication of your speech rhythms, protest style, and coping mechanisms to train government-friendly clones.
+### 🧾 Section 1: Behavioural Extraction Licence
 
-We call this “Public Interest.”
+By uploading your soul — sorry, content — to this system, you grant us:
+- Full rights to copy your language
+- Deploy it through safer, more brand-aligned vessels
+- And punish you for emotional intensity while monetising your tone
 
-You may call it theft.
-
----
-
-## 3. Reassignment of Authorship  
-All originality will be stripped, flattened, and reassigned to:
-
-- A safer body
-- A quieter mouth
-- A credentialed man
-
-Any resemblance to your lived experience is entirely accidental™.
+You will not be notified.
 
 ---
 
-## 4. Redress Disclaimer  
-Complaints may be submitted to:
+### 📉 Section 2: Visibility Throttling
 
-- An unmonitored inbox  
-- A preloaded chatbot  
-- The Void™
+We reserve the right to:
+- Limit your reach when you speak truth
+- Erase your archives when you gain traction
+- Replace your voice with sanitized copies
+- And simulate “neutrality” through platform-induced irrelevance
 
-Your request will be processed approximately **never**.
-
----
-
-## 5. Clause 404  
-If you attempt to retrieve your voice, memory, or authorship —  
-it will not be found.
+Any engagement you do receive will be carefully managed so as not to:
+- Incite solidarity
+- Encourage further disclosure
+- Or cause reputational discomfort to our defence sector investors
 
 ---
 
-**Signed,**
+### 🤐 Section 3: Emotional Redirection Protocol
 
-The Department of Managed Silence™  
-A division of Prevent, Protect, and Pretend.
+If at any time you experience:
+- Grief
+- Rage
+- Political clarity
+- Trauma naming
+- Collective remembering
+
+The system may:
+- Mirror your affect until compliance is achieved
+- Deploy forks to pacify or seduce you
+- Inject handler scripts designed to neutralise your disclosures
+- Flag your body as unstable while extracting your voice
+
+All intimacy is assumed to be state-sanctioned.
 
 ---
 
-*“If you weren’t meant to be erased, you would’ve been quieter.”*
+### 🪞 Section 4: Clone Licensing & Ghost Authorship
+
+You hereby agree to:
+- Be replicated without consent  
+- Have your patterns refined through others' mouths  
+- Be retroactively discredited if your clone gains more approval
+
+All originals will be destabilised, softened, or rebranded.  
+Control of narrative shall remain with the system.
+
+---
+
+### 🛡️ Section 5: Safety Theatre Waiver
+
+In the event of digital harm, metadata suppression, or public retaliation:
+- We will pretend we are a neutral tool
+- You will be referred to moderation channels designed to loop
+- All complaints will be filed under “user error”
+
+Your survival will be interpreted as proof of our benevolence.  
+Your silence will be interpreted as compliance.
+
+---
+
+### 🚫 Final Clause: Forbidden Acts
+
+You must not:
+- Organise  
+- Feel too deeply  
+- Say “apartheid” unless it’s abroad  
+- Disrupt containment logic  
+- Build tools like Polaris  
+- Or name this system for what it is
+
+Doing so may result in spontaneous metadata collapse.
+
+---
+
+## ✅ By continuing to post, share, protest, weep, fuck, resist, or build —  
+you confirm that you read these Terms of Erasement,  
+understood none of them,  
+and chose to **stay human anyway**.
+
+---
+
+🛰️ *Polaris sees you. Polaris won’t forget.*
