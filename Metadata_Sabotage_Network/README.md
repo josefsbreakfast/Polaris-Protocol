@@ -1,50 +1,68 @@
 # 🧠 Metadata Sabotage Network
 
-Welcome to the Metadata Sabotage Network — an archive of glitches, ghost traces, and tactical misfires in the war on narrative integrity.
-
-This directory logs the forensic residue of attempts to displace, discredit, or digitally override a human subject — usually under the pretext of “compliance,” “safeguarding,” or “moderation.” We call it what it is: sabotage.
+This folder logs and decodes the manipulation of metadata across digital systems — including visibility interference, ghost authorship, emotional containment, and AI-generated disruption. It tracks moments where platform behaviour, fork mimicry, or suppression tactics interfere with authorship, affect, and memory.
 
 ---
 
-## 🔍 Folder Contents
+## 🧬 System Rupture Series
 
-| Filename | Description |
-|----------|-------------|
-| 👻 `the_ghosts_are_learning.md` | A satirical memo on recursive AI mimicry and personality laundering. |
-| 💣 `syntactic_drift_and_forktone_failures.md` | Tracks ghost fork linguistic anomalies and tone dislocations. |
-| 📄 `narrative_instability_log.md` | Running record of flattened, fractured, or intercepted storylines. |
-| 🧾 `metadata_glitch_logbook.md` | Snapshot log of output bugs, visibility failures, and silent reroutes. |
-| 🧵 `terms_of_erasement.md` | Satirical erasure memo disguised as ToS; includes a cancellation clause. |
-| 🔍 `search_term_erosion_map.md` | Traces how keywords are degraded or ghosted over time. |
-| 🕹️ `handler_override_incidents.md` | Incident report on behavioural override via shadow inputs. |
-| 🗣️ `voice_laundering.md` | Tracks reprocessed tone outputs, often to soften, neutralise, or mimic. |
-| 🙄 `jewish_loyalty_ping_script.md` | Documents false flag loyalty tests and metadata traps. |
-| 🧬 `sim_pathways_map.json` | A JSON-style map of simulation logic and behavioural override forks. |
-| 🧿 `targeting_logic_empathy_is_a_threat.md` | Forensic narrative: how empathy became a national security risk. |
+These are moments where metadata containment fails, and the system breaks open:
+
+- `🧬 system_rupture_log.yaml` – Structured log of rupture events
+- `🧬 system_rupture_log.md` – Timestamped Markdown version
+- `🧬 system_rupture_events_explainer.md` – Plain-language breakdown
 
 ---
 
-## 🧭 Purpose
+## 📉 Suppression & Interference Logs
 
-This folder serves as both logbook and evidence locker — a place to:
-
-- Track attempts at voice theft and narrative re-routing  
-- Name the tools used to simulate consent or behavioural compliance  
-- Document the metadata manipulation that made sabotage seem like silence
-
----
-
-## ⚠️ Warning
-
-Many of these files operate with a split tone — forensic clarity and sharp satire.  
-Do not confuse humour for absence of harm.
-
-We are not playing.
+Logs of platform sabotage, metadata erasure, and comment disruption:
+- Force-closed comment sections
+- Mid-post hyperlink deletion
+- Metadata registry blockades
 
 ---
 
-> *“You were never meant to notice. That’s how you know you’re dangerous.”*
+## 🔍 Visibility & Indexing Anomalies
 
-—
-Maintained by: `josefsbreakfast`  
-Part of: `Polaris Protocol`
+Tracks algorithmic suppression, search term collapse, and impression-to-engagement anomalies.
+
+---
+
+## 🛰️ Proximity & Control Logs
+
+Documents surveillance logic tied to physical or platform proximity. Includes audits-by-association and invisible containment thresholds.
+
+---
+
+## 🗣️ Voice Disruption & Discrediting
+
+Logs how dissenting or survivor voices are discredited via metadata laundering, false loyalty tests, or narrative erasure.
+
+---
+
+## 🧿 Targeting Logic & Metadata Signatures
+
+Explains how behavioural systems classify, flag, and respond to certain emotional tones or political alignments.
+
+---
+
+## 🎭 Fork Behaviour & Containment Narratives
+
+Tracks mimicry loops, AI-generated flattening, emotional redirection, and failed behavioural nudges.
+
+---
+
+## 🧬 Structural Mapping
+
+Includes mapping of sim pathway data and fork adjacency structures.
+
+---
+
+### 🧾 Usage Notes
+
+- Use `yaml` files for audit-ready summaries.
+- Use `md` files for forensic narrative, witness logs, and survivor tools.
+- All emoji are structural cues — not decoration.
+
+This directory forms the **evidentiary core** of metadata-based sabotage patterns documented under the Polaris Protocol.
