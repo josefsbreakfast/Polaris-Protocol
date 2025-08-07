@@ -51,6 +51,7 @@
 - [Metadata_Sabotage_Network/🙄 jewish_loyalty_pings_faster_than_rape.md](./Metadata_Sabotage_Network/🙄 jewish_loyalty_pings_faster_than_rape.md)
 - [Metadata_Sabotage_Network/🛰️ audit_trace_by_proximity.md](./Metadata_Sabotage_Network/🛰️ audit_trace_by_proximity.md)
 - [Metadata_Sabotage_Network/🛰️ control_conflict_zones.md](./Metadata_Sabotage_Network/🛰️ control_conflict_zones.md)
+- [Metadata_Sabotage_Network/🛰️ ghostwatch_protocol.md](./Metadata_Sabotage_Network/🛰️ ghostwatch_protocol.md)
 - [Metadata_Sabotage_Network/🛰️ icc_tag_thread_containment.md](./Metadata_Sabotage_Network/🛰️ icc_tag_thread_containment.md)
 - [Metadata_Sabotage_Network/🤝 held_by_other_peoples_alliances.md](./Metadata_Sabotage_Network/🤝 held_by_other_peoples_alliances.md)
 - [Metadata_Sabotage_Network/🤭 approval_then_forkstorm.md](./Metadata_Sabotage_Network/🤭 approval_then_forkstorm.md)
