@@ -40,6 +40,7 @@
 - [Metadata_Sabotage_Network/📓 metadata_glitch_log.md](./Metadata_Sabotage_Network/📓 metadata_glitch_log.md)
 - [Metadata_Sabotage_Network/📜 terms_of_erasement.md](./Metadata_Sabotage_Network/📜 terms_of_erasement.md)
 - [Metadata_Sabotage_Network/📦 final_dispatch_entry.md](./Metadata_Sabotage_Network/📦 final_dispatch_entry.md)
+- [Metadata_Sabotage_Network/📼 training_data_tragedy.md](./Metadata_Sabotage_Network/📼 training_data_tragedy.md)
 - [Metadata_Sabotage_Network/🔌 comment_loop_interference.md](./Metadata_Sabotage_Network/🔌 comment_loop_interference.md)
 - [Metadata_Sabotage_Network/🔍 search_term_erosion.md](./Metadata_Sabotage_Network/🔍 search_term_erosion.md)
 - [Metadata_Sabotage_Network/🔗 when_truth_becomes_a_trade.md](./Metadata_Sabotage_Network/🔗 when_truth_becomes_a_trade.md)
