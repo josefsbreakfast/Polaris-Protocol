@@ -24,7 +24,6 @@
 - [Metadata_Sabotage_Network/♨️ slow_burn_tactics.md](./Metadata_Sabotage_Network/♨️ slow_burn_tactics.md)
 - [Metadata_Sabotage_Network/🌒 waiting_is_not_a_rescue.md](./Metadata_Sabotage_Network/🌒 waiting_is_not_a_rescue.md)
 - [Metadata_Sabotage_Network/🎪 moles_in_the_circus.md](./Metadata_Sabotage_Network/🎪 moles_in_the_circus.md)
-- [Metadata_Sabotage_Network/👁️‍🗨️ Embedded_Observers.md](./Metadata_Sabotage_Network/👁️‍🗨️ Embedded_Observers.md)
 - [Metadata_Sabotage_Network/👁️‍🗨️ _Embedded_Observers.md](./Metadata_Sabotage_Network/👁️‍🗨️ _Embedded_Observers.md)
 - [Metadata_Sabotage_Network/👻 the_ghosts_are_learning.md](./Metadata_Sabotage_Network/👻 the_ghosts_are_learning.md)
 - [Metadata_Sabotage_Network/💣 syntactic_drift_and_clone_tone.md](./Metadata_Sabotage_Network/💣 syntactic_drift_and_clone_tone.md)
