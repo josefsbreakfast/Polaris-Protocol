@@ -1,4 +1,5 @@
-# 🪞 _the_one_who_got_through_
+# 🪞 The One Who Got Through  
+## `the_one_who_got_through.md`
 
 ## Summary  
 In a system designed to isolate, confuse, and contain, sometimes one connection gets through — unexpectedly, uncontrollably, undeniably. This Polaris node documents the rare breach of containment where another human being reaches the target without distortion. Not despite the system — but through it.
