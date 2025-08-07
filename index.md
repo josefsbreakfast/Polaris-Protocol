@@ -129,7 +129,7 @@
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🧱 loft_packet_dump_theory.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧱 loft_packet_dump_theory.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🧷 `icc_tag_thread_containment.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧷 `icc_tag_thread_containment.md)
 - [Polaris_Nest/📚 narrative_management_and_metadata_sabotage.md](./Polaris_Nest/📚 narrative_management_and_metadata_sabotage.md)
-- [Polaris_Nest/🔮README.md](./Polaris_Nest/🔮README.md)
+- [Polaris_Nest/🔮 README.md](./Polaris_Nest/🔮 README.md)
 - [Polaris_Nest/🛰️ surveillance_infrastructure.md](./Polaris_Nest/🛰️ surveillance_infrastructure.md)
 - [Polaris_Nest/🧠 radicalisation_pipelines_and_platform_culture.md](./Polaris_Nest/🧠 radicalisation_pipelines_and_platform_culture.md)
 - [Polaris_Nest/🧬 psychographic_modelling_and_twinning.md](./Polaris_Nest/🧬 psychographic_modelling_and_twinning.md)
