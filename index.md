@@ -144,6 +144,5 @@
 - [🐣 README_for_survivors.md](./🐣 README_for_survivors.md)
 - [🐥 README_for_non_survivors.md](./🐥 README_for_non_survivors.md)
 - [🕯️ SIGNALS.md](./🕯️ SIGNALS.md)
-- [🧠 convince_me_logic.md](./🧠 convince_me_logic.md)
 - [🧬 twinned_signature.md](./🧬 twinned_signature.md)
 - [🧬 twinning_detection.md](./🧬 twinning_detection.md)
