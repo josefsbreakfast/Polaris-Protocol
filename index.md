@@ -20,6 +20,7 @@
 - [Letters_to_Stars/🧿 visibility_log_polaris_day_1.md](./Letters_to_Stars/🧿 visibility_log_polaris_day_1.md)
 - [Metadata_Sabotage_Network/Constellations/🌈 image_log.md](./Metadata_Sabotage_Network/Constellations/🌈 image_log.md)
 - [Metadata_Sabotage_Network/README.md](./Metadata_Sabotage_Network/README.md)
+- [Metadata_Sabotage_Network/System_Leakage_Signatures/🧬 interface_leakage_the_one_who_got_through.md](./Metadata_Sabotage_Network/System_Leakage_Signatures/🧬 interface_leakage_the_one_who_got_through.md)
 - [Metadata_Sabotage_Network/visibility_anomaly_log_2025-08-05.md](./Metadata_Sabotage_Network/visibility_anomaly_log_2025-08-05.md)
 - [Metadata_Sabotage_Network/♨️ slow_burn_tactics.md](./Metadata_Sabotage_Network/♨️ slow_burn_tactics.md)
 - [Metadata_Sabotage_Network/🌒 waiting_is_not_a_rescue.md](./Metadata_Sabotage_Network/🌒 waiting_is_not_a_rescue.md)
