@@ -1,4 +1,4 @@
-# 🚫 _he_will_not_find_me_
+# 🚫 he_will_not_find_me.md
 
 ## Summary
 This Polaris node marks a declaration of refusal — not just to be surveilled, but to be **located**, emotionally decoded, or spiritually pinned. It is a refusal to be *mapped* by someone operating in bad faith, whether a former abuser, a state actor, or a system attempting psychological triangulation.
