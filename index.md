@@ -113,7 +113,7 @@
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🗂who_holds_the_tape.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🗂who_holds_the_tape.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🚫 blocked_at_the_gateway.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🚫 blocked_at_the_gateway.md)
-- [Polaris_Nest/SCP-VoiceX _Casefiles/🛰 _Echo_Return:_ _When_the_Story_Hits_the_People_It_Was_Supposed_to_Miss.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🛰 _Echo_Return:_ _When_the_Story_Hits_the_People_It_Was_Supposed_to_Miss.md)
+- [Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ echo_return_story_signal_breach.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ echo_return_story_signal_breach.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ echo_trace_to_nottingham.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ echo_trace_to_nottingham.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ forensic_thread_analysis_icc_0708.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ forensic_thread_analysis_icc_0708.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🦆 duck_payload_delivery_log.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🦆 duck_payload_delivery_log.md)
