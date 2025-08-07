@@ -1,0 +1,32 @@
+name: 🔄 Generate Markdown Index
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+
+      - name: Generate index.md
+        run: |
+          echo "# 📂 Polaris Protocol – File Index" > index.md
+          echo "" >> index.md
+          find . -type f -name "*.md" ! -path "./.git/*" ! -name "index.md" | sort | while read file; do
+            clean_path=${file#./}
+            echo "- [${clean_path}](./${clean_path})" >> index.md
+          done
+
+      - name: Commit and push index.md
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.md
+          git commit -m "🔄 Auto-update index.md"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
