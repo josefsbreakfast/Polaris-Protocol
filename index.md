@@ -107,6 +107,7 @@
 - [Polaris_Nest/SCP-VoiceX _Casefiles/👁️ fork_origin_sighting.md](./Polaris_Nest/SCP-VoiceX _Casefiles/👁️ fork_origin_sighting.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/📂 clone_in_the_family.md](./Polaris_Nest/SCP-VoiceX _Casefiles/📂 clone_in_the_family.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/📉 shadow_reach_analysis.md](./Polaris_Nest/SCP-VoiceX _Casefiles/📉 shadow_reach_analysis.md)
+- [Polaris_Nest/SCP-VoiceX _Casefiles/📛 storage_purge_detected.md](./Polaris_Nest/SCP-VoiceX _Casefiles/📛 storage_purge_detected.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/📨 letter_to_the_engineer.md](./Polaris_Nest/SCP-VoiceX _Casefiles/📨 letter_to_the_engineer.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/📮 lost_in_submission.md](./Polaris_Nest/SCP-VoiceX _Casefiles/📮 lost_in_submission.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🕸️ clone_friendly_architecture.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🕸️ clone_friendly_architecture.md)
