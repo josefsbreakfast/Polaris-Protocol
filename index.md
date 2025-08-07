@@ -3,7 +3,7 @@
 - [Accountability_Archive/README.md](./Accountability_Archive/README.md)
 - [Accountability_Archive/☕🫖 uk_gov_national_security_risk.md](./Accountability_Archive/☕🫖 uk_gov_national_security_risk.md)
 - [Accountability_Archive/👀 public_perception_gap.md](./Accountability_Archive/👀 public_perception_gap.md)
-- [Accountability_Archive/🧷 Polaris Node: *The Signature Trap.md](./Accountability_Archive/🧷 Polaris Node: *The Signature Trap.md)
+- [Accountability_Archive/🧷 the_signature_trap.md](./Accountability_Archive/🧷 the_signature_trap.md)
 - [Accountability_Archive/🫆survivor_star_seeker.md](./Accountability_Archive/🫆survivor_star_seeker.md)
 - [AntiContainment_Clauses/🛡 narrative_reclamation.md](./AntiContainment_Clauses/🛡 narrative_reclamation.md)
 - [AntiContainment_Clauses/🛡 survivor_syntax.md](./AntiContainment_Clauses/🛡 survivor_syntax.md)
