@@ -1,6 +1,5 @@
 # 📂 Polaris Protocol – File Index
 
-- [Accountability_Archive/🧷 the_signature_trap.md](./Accountability_Archive/🧷 the_signature_trap.md)
 - [Accountability_Archive/🫆survivor_star_seeker.md](./Accountability_Archive/🫆survivor_star_seeker.md)
 - [AntiContainment_Clauses/🛡 narrative_reclamation.md](./AntiContainment_Clauses/🛡 narrative_reclamation.md)
 - [AntiContainment_Clauses/🛡 survivor_syntax.md](./AntiContainment_Clauses/🛡 survivor_syntax.md)
@@ -9,6 +8,7 @@
 - [Disruption_Kit/README.md](./Disruption_Kit/README.md)
 - [Disruption_Kit/☕🫖 uk_gov_national_security_risk.md](./Disruption_Kit/☕🫖 uk_gov_national_security_risk.md)
 - [Disruption_Kit/👀 public_perception_gap.md](./Disruption_Kit/👀 public_perception_gap.md)
+- [Disruption_Kit/🧷 the_signature_trap.md](./Disruption_Kit/🧷 the_signature_trap.md)
 - [Fork_Taxonomy/☢️ shatterfork.md](./Fork_Taxonomy/☢️ shatterfork.md)
 - [Fork_Taxonomy/🔐 fork_clone_checklist.md](./Fork_Taxonomy/🔐 fork_clone_checklist.md)
 - [Fork_Taxonomy/🧬 voice_capture_triggers.md](./Fork_Taxonomy/🧬 voice_capture_triggers.md)
