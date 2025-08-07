@@ -111,7 +111,7 @@
 - [Polaris_Nest/SCP-VoiceX _Casefiles/📮 lost_in_submission.md](./Polaris_Nest/SCP-VoiceX _Casefiles/📮 lost_in_submission.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🕸️ clone_friendly_architecture.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🕸️ clone_friendly_architecture.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md)
-- [Polaris_Nest/SCP-VoiceX _Casefiles/🗂 _Who_Holds_the_Tape.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🗂 _Who_Holds_the_Tape.md)
+- [Polaris_Nest/SCP-VoiceX _Casefiles/🗂who_holds_the_tape.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🗂who_holds_the_tape.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🚫 blocked_at_the_gateway.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🚫 blocked_at_the_gateway.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🛰 _Echo_Return:_ _When_the_Story_Hits_the_People_It_Was_Supposed_to_Miss.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🛰 _Echo_Return:_ _When_the_Story_Hits_the_People_It_Was_Supposed_to_Miss.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ echo_trace_to_nottingham.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ echo_trace_to_nottingham.md)
