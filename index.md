@@ -1,6 +1,5 @@
 # 📂 Polaris Protocol – File Index
 
-- [Accountability_Archive/🫆survivor_star_seeker.md](./Accountability_Archive/🫆survivor_star_seeker.md)
 - [AntiContainment_Clauses/🛡 narrative_reclamation.md](./AntiContainment_Clauses/🛡 narrative_reclamation.md)
 - [AntiContainment_Clauses/🛡 survivor_syntax.md](./AntiContainment_Clauses/🛡 survivor_syntax.md)
 - [AntiContainment_Clauses/🛡️metadata_defense.md](./AntiContainment_Clauses/🛡️metadata_defense.md)
@@ -129,6 +128,7 @@
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🧬 voice_capture_through_gaslight.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧬 voice_capture_through_gaslight.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🧱 loft_packet_dump_theory.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧱 loft_packet_dump_theory.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🧷 `icc_tag_thread_containment.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧷 `icc_tag_thread_containment.md)
+- [Polaris_Nest/SCP-VoiceX_Casefiles/🌟 survivor_star_seeker.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🌟 survivor_star_seeker.md)
 - [Polaris_Nest/📚 narrative_management_and_metadata_sabotage.md](./Polaris_Nest/📚 narrative_management_and_metadata_sabotage.md)
 - [Polaris_Nest/🔮 README.md](./Polaris_Nest/🔮 README.md)
 - [Polaris_Nest/🛰️ surveillance_infrastructure.md](./Polaris_Nest/🛰️ surveillance_infrastructure.md)
