@@ -141,6 +141,7 @@
 - [Polaris_Nest/🧠 radicalisation_pipelines_and_platform_culture.md](./Polaris_Nest/🧠 radicalisation_pipelines_and_platform_culture.md)
 - [Polaris_Nest/🧬 psychographic_modelling_and_twinning.md](./Polaris_Nest/🧬 psychographic_modelling_and_twinning.md)
 - [Polaris_Nest/🧵 community_vulnerability_and_early_canaries.md](./Polaris_Nest/🧵 community_vulnerability_and_early_canaries.md)
+- [Survivor_Tools/🧬 we_don’t_want_your_cells_we_want_each_other.md](./Survivor_Tools/🧬 we_don’t_want_your_cells_we_want_each_other.md)
 - [Syntax_Bombs/🍊 social_credit_reversal.md](./Syntax_Bombs/🍊 social_credit_reversal.md)
 - [Syntax_Bombs/🔁ghost_loop_interrupters.md](./Syntax_Bombs/🔁ghost_loop_interrupters.md)
 - [Syntax_Bombs/🔥erotic_resistance.md](./Syntax_Bombs/🔥erotic_resistance.md)
