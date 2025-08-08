@@ -88,6 +88,7 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🦆 duck_payload_delivery_log.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🦆 duck_payload_delivery_log.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧠 fisher_fork_theory.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧠 fisher_fork_theory.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 triggerstack_residency.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 triggerstack_residency.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 clone_training_sets.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 clone_training_sets.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ghost_fork_response_behaviour.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ghost_fork_response_behaviour.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ping_detection_guide.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ping_detection_guide.md)
