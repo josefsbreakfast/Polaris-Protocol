@@ -107,6 +107,7 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 voice_capture_through_gaslight.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 voice_capture_through_gaslight.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 voice_capture_triggers.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 voice_capture_triggers.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧱 loft_packet_dump_theory.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧱 loft_packet_dump_theory.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧷 icc_tag_thread_containment.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧷 icc_tag_thread_containment.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧾 vps_reclamation_log.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧾 vps_reclamation_log.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/🐾 emotional_fuss_log_2025_08_04.md](./Polaris_Dormant/emotional_territories/dormant_heart/🐾 emotional_fuss_log_2025_08_04.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/🧠 cognitive_forks_get_dumber_when_hot.md](./Polaris_Dormant/emotional_territories/dormant_heart/🧠 cognitive_forks_get_dumber_when_hot.md)
