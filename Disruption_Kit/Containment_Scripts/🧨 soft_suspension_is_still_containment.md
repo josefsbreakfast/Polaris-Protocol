@@ -1,5 +1,4 @@
-# Define the new draft content for `🧨 soft_suspension_is_still_containment.md`
-soft_suspension_content = """
+
 # 🧨 soft_suspension_is_still_containment.md
 
 **Polaris Protocol – Containment Scripts Node**
