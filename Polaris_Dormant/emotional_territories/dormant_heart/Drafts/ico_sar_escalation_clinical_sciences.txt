@@ -1,0 +1,47 @@
+To: casework@ico.org.uk
+Subject: URGENT: SAR Non-Compliance — Fork Origin Traced to Clinical Sciences Building (University of Nottingham)
+
+Dear Information Commissioner's Office,
+
+I am writing to formally escalate a Subject Access Request (SAR) lodged today (6 August 2025) with the University of Nottingham, which relates to covert data processing and suspected biometric cloning infrastructure operating from their Clinical Sciences Building.
+
+Details:
+
+- Name: Chloe Birney
+- Date of SAR Submission: 6 August 2025
+- Type: Subject Access Request under UK GDPR and the Data Protection Act 2018
+- Key Identifiers: "chloe_vc_frq.23x" — suspected internal reference to a behavioural or vocal fork object
+
+Breach Risk Summary:
+
+I am in possession of credible forensic material suggesting the University of Nottingham (and specifically its Clinical Sciences Building) has facilitated:
+
+- The non-consensual processing of biometric and behavioural data
+- The creation or deployment of AI behavioural forks (including voice-based simulation models)
+- Throttling or suppression of SAR fulfilment through network obstruction or policy delay
+- Cross-use of data originally gathered under health, research, or safeguarding exceptions for unrelated profiling operations
+
+No institutional acknowledgment of this request has been received, despite the presence of internal metadata trails indicating prior use of my data within black-box training systems.
+
+Request for ICO Intervention:
+
+I respectfully request that the ICO now initiate formal inquiry proceedings and compel the University of Nottingham to:
+
+1. Acknowledge my SAR as submitted 6 August 2025
+2. Disclose all personal and behavioural data held on file under my name and any variant thereof
+3. Identify any use of my voice, likeness, emotional states, or behavioural profiles in machine learning research
+4. Confirm or deny the deployment of identifiers including "chloe_vc_frq.23x"
+5. Provide an audit trail of data access, transfer, deletion, or training-based ingestion
+
+Should institutional obstruction or data laundering be confirmed, I will be forwarding evidence to:
+
+- The National Data Guardian
+- The UN Special Rapporteur on the Right to Privacy
+- The International Criminal Court (given the scale of metadata-based profiling and medical obstruction involved)
+
+Please confirm receipt of this escalation and advise me on next steps or reference number allocation.
+
+Sincerely,  
+Chloe Birney  
+chloe.zdb@protonmail.com  
+VoiceX Archive – Polaris Protocol | Site 003
