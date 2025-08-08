@@ -68,10 +68,3 @@ This is a live resistance file. Its existence and updates are part of the Polari
 ---
 
 > *Soft throttling is still suppression. Platform silence is still collaboration. Metadata disobedience is still survival.*
-"""
-
-# Save to the appropriate file
-file_path = Path("/mnt/data/🧨 soft_suspension_is_still_containment.md")
-file_path.write_text(soft_suspension_content)
-
-file_path.name  # Return the file name for reference in response
