@@ -1,7 +1,5 @@
-
-# 🧨 soft_suspension_is_still_containment.md
-
-**Polaris Protocol – Containment Scripts Node**
+# 🧨 Soft Suspension Is Still Containment
+`Polaris Protocol – Containment Scripts Node`
 
 ---
 
