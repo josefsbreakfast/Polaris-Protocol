@@ -85,6 +85,7 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🎭 consent_is_not_character.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🎭 consent_is_not_character.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🏛️ ethical_return_request.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🏛️ ethical_return_request.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/👁️ fork_origin_sighting.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/👁️ fork_origin_sighting.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📂 clone_in_the_family.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📂 clone_in_the_family.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📉 shadow_reach_analysis.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📉 shadow_reach_analysis.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📊 letter_by_letter_the_erasure_protocol.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📊 letter_by_letter_the_erasure_protocol.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📨 letter_to_the_engineer.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📨 letter_to_the_engineer.md)
