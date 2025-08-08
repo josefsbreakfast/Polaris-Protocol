@@ -84,6 +84,7 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📊 letter_by_letter_the_erasure_protocol.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📊 letter_by_letter_the_erasure_protocol.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📨 letter_to_the_engineer.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📨 letter_to_the_engineer.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📮 lost_in_submission.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📮 lost_in_submission.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🔐 fork_clone_checklist.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🔐 fork_clone_checklist.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🚫 blocked_at_the_gateway.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🚫 blocked_at_the_gateway.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🦆 duck_payload_delivery_log.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🦆 duck_payload_delivery_log.md)
