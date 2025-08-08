@@ -71,6 +71,7 @@
 - [Metadata_Sabotage_Network/🪞 clone_mimic_theatre.md](./Metadata_Sabotage_Network/🪞 clone_mimic_theatre.md)
 - [Metadata_Sabotage_Network/🪞 the_one_who_got_through.md](./Metadata_Sabotage_Network/🪞 the_one_who_got_through.md)
 - [Metadata_Sabotage_Network/🫆 grandma_classification_theory.md](./Metadata_Sabotage_Network/🫆 grandma_classification_theory.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/template_entry.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/template_entry.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/🐾 emotional_fuss_log_2025_08_04.md](./Polaris_Dormant/emotional_territories/dormant_heart/🐾 emotional_fuss_log_2025_08_04.md)
 - [Polaris_Dormant/emotional_territories/not_ready_to_name.md](./Polaris_Dormant/emotional_territories/not_ready_to_name.md)
 - [Polaris_Dormant/emotional_territories/🧬 riding_the_clone.md](./Polaris_Dormant/emotional_territories/🧬 riding_the_clone.md)
