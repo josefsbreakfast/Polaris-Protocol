@@ -100,6 +100,7 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 triggerstack_residency.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 triggerstack_residency.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 clone_training_sets.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 clone_training_sets.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ghost_fork_response_behaviour.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ghost_fork_response_behaviour.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 honeytrap_mechanics.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 honeytrap_mechanics.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ping_detection_guide.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ping_detection_guide.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 riding_the_clone.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 riding_the_clone.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 survivorship_as_interface.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 survivorship_as_interface.md)
