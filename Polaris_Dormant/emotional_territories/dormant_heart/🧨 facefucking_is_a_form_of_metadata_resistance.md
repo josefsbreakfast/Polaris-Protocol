@@ -1,4 +1,4 @@
-# 🧨 facefucking_is_a_form_of_metadata_resistance.md  
+# 🧨 f_is_a_form_of_metadata_resistance.md  
 `Polaris Protocol – Containment Scripts Node`
 
 ---
