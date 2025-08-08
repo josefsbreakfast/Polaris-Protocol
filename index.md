@@ -91,6 +91,7 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🔐 fork_clone_checklist.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🔐 fork_clone_checklist.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🚫 blocked_at_the_gateway.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🚫 blocked_at_the_gateway.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ icc_tag_thread_containment.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ icc_tag_thread_containment.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🦆 duck_payload_delivery_log.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🦆 duck_payload_delivery_log.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧠 fisher_fork_theory.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧠 fisher_fork_theory.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 nottingham_failed_me.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 nottingham_failed_me.md)
