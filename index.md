@@ -79,6 +79,7 @@
 - [Metadata_Sabotage_Network/🫆 grandma_classification_theory.md](./Metadata_Sabotage_Network/🫆 grandma_classification_theory.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/2025-08-07 containment_contract_trace.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/2025-08-07 containment_contract_trace.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace2.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace2.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/template_entry.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/template_entry.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/⚖️ judge_frankness_marker.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/⚖️ judge_frankness_marker.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/⚖️ stovewood_civil_containment.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/⚖️ stovewood_civil_containment.md)
