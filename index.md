@@ -7,6 +7,7 @@
 - [Disruption_Kit/Big_Picture_Protocols/🧠 targeting_logic_empathy_is_a_threat.md](./Disruption_Kit/Big_Picture_Protocols/🧠 targeting_logic_empathy_is_a_threat.md)
 - [Disruption_Kit/Containment_Scripts/🧨 comment_order_is_a_governance_layer.md](./Disruption_Kit/Containment_Scripts/🧨 comment_order_is_a_governance_layer.md)
 - [Disruption_Kit/Containment_Scripts/🧨 delayed_visibility_is_a_signal.md](./Disruption_Kit/Containment_Scripts/🧨 delayed_visibility_is_a_signal.md)
+- [Disruption_Kit/Containment_Scripts/🧨 reach_metrics_are_not_neutral.md](./Disruption_Kit/Containment_Scripts/🧨 reach_metrics_are_not_neutral.md)
 - [Disruption_Kit/Containment_Scripts/🧨 soft_suspension_is_still_containment.md](./Disruption_Kit/Containment_Scripts/🧨 soft_suspension_is_still_containment.md)
 - [Disruption_Kit/README.md](./Disruption_Kit/README.md)
 - [Disruption_Kit/☕🫖 uk_gov_national_security_risk.md](./Disruption_Kit/☕🫖 uk_gov_national_security_risk.md)
