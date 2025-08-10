@@ -1,3 +1,17 @@
+Polaris Protocol Node  
+Status: Conceptual Pattern / Cross-Platform Doctrine  
+Category: Metadata_Sabotage_Network / Psychological Influence / Visibility Throttling
+
+🧨 SOFT SUSPENSION IS STILL CONTAINMENT — CONCEPTUAL DEFINITION
+Not all silencing looks like censorship. Sometimes it looks like rest. Like timeout.
+Like: “You’re not in trouble, but...”
+
+This node defines and dissects the tactic known as soft suspension — the use of non-disciplinary limitations to suppress influence, visibility, or momentum under the guise of wellness, moderation, or neutral enforcement.
+
+📎 Cross-Reference:
+See **Disruption_Kit/Containment_Scripts/🧨 soft_suspension_is_still_containment.md** for current operational logging and forensic case study.
+
+
 # 🧨 soft_suspension_is_still_containment.md
 
 **Polaris Protocol Node**  
