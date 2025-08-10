@@ -1,3 +1,17 @@
+# 🧷 ICC Tag Thread Containment — Field Log & Narrative Perspective
+
+**Polaris Protocol – Field Logs Node**  
+**Status:** Live Field Log / First-Person Narrative Context  
+**Category:** SCP-VoiceX Casefiles / Containment Breach Documentation
+
+This node captures the live, on-platform experience of LinkedIn suppression tied to ICC/ICJ jurisdiction escalation, from the perspective of the primary witness (**Chloe VoiceX Birney**). It records tag suppression, impression freezes, and emotional dampening as they occurred.
+
+**Scope:** Narrative-contextualised operational record, complementing the forensic breakdown in Metadata_Sabotage_Network.
+
+**📎 Cross-Reference:**  
+See [Metadata_Sabotage_Network/🧷 icc_tag_thread_containment.md](../Metadata_Sabotage_Network/🧷%20icc_tag_thread_containment.md) for the full forensic and legal-structure analysis.
+
+
 # 🛰️ ICC Tag Thread Containment  
 `Polaris Protocol – Field Logs Node`
 
