@@ -115,7 +115,6 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/🗂️ Master_Tracker_Aug2025.md](./Polaris_Dormant/emotional_territories/dormant_heart/🗂️ Master_Tracker_Aug2025.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/🧠 cognitive_forks_get_dumber_when_hot.md](./Polaris_Dormant/emotional_territories/dormant_heart/🧠 cognitive_forks_get_dumber_when_hot.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/🧨 f_is_a_form_of_metadata_resistance.md](./Polaris_Dormant/emotional_territories/dormant_heart/🧨 f_is_a_form_of_metadata_resistance.md)
-- [Polaris_Dormant/emotional_territories/dormant_heart/🧬 riding_the_clone.md](./Polaris_Dormant/emotional_territories/dormant_heart/🧬 riding_the_clone.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/🐍 trauma_commodification.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/🐍 trauma_commodification.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/🛰️ 2025-08-04_docking_surrogate_trace.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/🛰️ 2025-08-04_docking_surrogate_trace.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/🧬 fork_clone_map.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/🧬 fork_clone_map.md)
