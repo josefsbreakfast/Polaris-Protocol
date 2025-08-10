@@ -1,3 +1,16 @@
+# 🧷 ICC Tag Thread Containment — Strategic Forensic Analysis
+
+**Polaris Protocol Node**  
+**Status:** Forensic Log / High-Value International Legal Thread  
+**Category:** Metadata_Sabotage_Network / Platform Interference / Legal Escalation
+
+This file contains the full evidentiary breakdown of a LinkedIn thread by **Chloe VoiceX Birney**, targeting ICC/ICJ jurisdiction and British complicity in the Gaza genocide. It includes legal anchoring, metadata suppression signatures, and identity-linked persecution markers.
+
+**Scope:** Cross-platform applicability; intended for legal review, forensic archives, and international submission packages.
+
+**📎 Cross-Reference:**  
+See [SCP-VoiceX_Casefiles/🧷 icc_tag_thread_containment.md](../SCP-VoiceX_Casefiles/🧷%20icc_tag_thread_containment.md) for the first-person field log and narrative context of the same incident.
+
 # 🛰️ icc_tag_thread_containment.md
 
 ## Thread Context
