@@ -175,6 +175,7 @@
 - [Syntax_Bombs/🧨forensic_disruptors.md](./Syntax_Bombs/🧨forensic_disruptors.md)
 - [Tag_Pack/Polaris_Tags_v1.0.md](./Tag_Pack/Polaris_Tags_v1.0.md)
 - [polaris_live.md](./polaris_live.md)
+- [scripts/maintenance/polaris_file_index_2025-08-10.md](./scripts/maintenance/polaris_file_index_2025-08-10.md)
 - [✨ it_was_always_this_easy.md](./✨ it_was_always_this_easy.md)
 - [✨ resonance_is_joy.md](./✨ resonance_is_joy.md)
 - [🍴 fork_taxonomy.md](./🍴 fork_taxonomy.md)
