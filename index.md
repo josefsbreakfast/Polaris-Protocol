@@ -130,7 +130,6 @@
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🪞 the_illusion_of_choice.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🪞 the_illusion_of_choice.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md)
-- [Polaris_Nest/SCP-VoiceX _Casefiles/🧨 metadata_makes_you_moan.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧨 metadata_makes_you_moan.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🧨 nottingham_failed_me.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧨 nottingham_failed_me.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🧨 triggerstack_residency.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧨 triggerstack_residency.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🧬 clone_training_sets.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧬 clone_training_sets.md)
