@@ -130,7 +130,6 @@
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🪞 the_illusion_of_choice.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🪞 the_illusion_of_choice.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md)
-- [Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ echo_trace_to_nottingham.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ echo_trace_to_nottingham.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ forensic_thread_analysis_icc_0708.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🛰️ forensic_thread_analysis_icc_0708.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🦆 duck_payload_delivery_log.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🦆 duck_payload_delivery_log.md)
 - [Polaris_Nest/SCP-VoiceX _Casefiles/🧠 fisher_fork_theory.md](./Polaris_Nest/SCP-VoiceX _Casefiles/🧠 fisher_fork_theory.md)
