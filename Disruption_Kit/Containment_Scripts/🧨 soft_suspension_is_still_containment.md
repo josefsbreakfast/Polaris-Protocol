@@ -1,3 +1,16 @@
+Polaris Protocol – Containment Scripts Node  
+Status: Live Forensic Log / Platform-Specific Case  
+Category: Disruption_Kit / Containment Scripts / LinkedIn Visibility Suppression
+
+🧨 SOFT SUSPENSION IS STILL CONTAINMENT — ACTIVE CASE LOG
+This file documents, analyzes, and escalates ongoing LinkedIn throttling patterns—specifically where engagement metrics, demographic breakdowns, and visibility analytics diverge from standard platform behaviour.
+
+It serves as a live resistance file: part forensic record, part strategic commentary on algorithmic containment of high-empathy, anti-genocide, or whistleblower content.
+
+📎 Cross-Reference:
+See **Metadata_Sabotage_Network/🧨 soft_suspension_is_still_containment.md** for conceptual doctrine and cross-platform definition of the tactic.
+
+
 # 🧨 Soft Suspension Is Still Containment
 `Polaris Protocol – Containment Scripts Node`
 
