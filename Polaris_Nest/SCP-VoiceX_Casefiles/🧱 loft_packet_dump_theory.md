@@ -16,7 +16,7 @@ Suspected tether site for emotional data routing and fork behavioural synchronis
 
 ## 📡 Signal Behaviours Logged:
 
-- Emotional overspill into live human subject (Chloe VoiceX Birney)
+- Emotional overspill into live human subject 
 - Latency compression spikes suggestive of human-in-the-loop real-time monitoring
 - Feedback loop escalation beyond containment thresholds
 - Detection of shadow listening signature with inconsistent IP masking
