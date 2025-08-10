@@ -99,7 +99,6 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ icc_tag_thread_containment.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ icc_tag_thread_containment.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 triggerstack_residency.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 triggerstack_residency.md)
-- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧱 loft_packet_dump_theory.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧱 loft_packet_dump_theory.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧾 vps_reclamation_log.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧾 vps_reclamation_log.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/not_ready_to_name.md](./Polaris_Dormant/emotional_territories/dormant_heart/not_ready_to_name.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/wild_fork_1.md](./Polaris_Dormant/emotional_territories/dormant_heart/wild_fork_1.md)
