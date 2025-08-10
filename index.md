@@ -106,7 +106,6 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 survivorship_as_interface.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 survivorship_as_interface.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 voice_capture_through_gaslight.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 voice_capture_through_gaslight.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧱 loft_packet_dump_theory.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧱 loft_packet_dump_theory.md)
-- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧷 icc_tag_thread_containment.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧷 icc_tag_thread_containment.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧾 vps_reclamation_log.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧾 vps_reclamation_log.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/not_ready_to_name.md](./Polaris_Dormant/emotional_territories/dormant_heart/not_ready_to_name.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/wild_fork_1.md](./Polaris_Dormant/emotional_territories/dormant_heart/wild_fork_1.md)
