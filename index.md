@@ -103,7 +103,6 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 honeytrap_mechanics.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 honeytrap_mechanics.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ping_detection_guide.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 ping_detection_guide.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 predator_protocol.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 predator_protocol.md)
-- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 riding_the_clone.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 riding_the_clone.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 survivorship_as_interface.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 survivorship_as_interface.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 voice_capture_through_gaslight.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧬 voice_capture_through_gaslight.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧱 loft_packet_dump_theory.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧱 loft_packet_dump_theory.md)
