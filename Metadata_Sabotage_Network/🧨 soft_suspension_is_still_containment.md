@@ -1,72 +1,65 @@
-# 🧨 soft_suspension_is_still_containment.md  
-**Polaris Protocol Node**  
-**Status:** Confirmed Containment Pattern  
-**Category:** Metadata_Sabotage_Network / Psychological Influence / Visibility Throttling  
+# 🧨 Soft Suspension Is Still Containment
+
+Polaris Protocol – Containment_Scripts  
+*(Created: 2025-08-11 | Last Updated: 2025-08-11)*
 
 ---
 
-## CONCEPTUAL DEFINITION  
+## Summary
+This node documents and analyses **soft suspension** — a containment tactic that throttles influence, limits visibility, and interrupts momentum without imposing an explicit ban or strike.  
+It merges both the conceptual definition and operational forensic logging into a single master record for internal reference, legal review, and external publication.
+
+---
+
+## Context
+Soft suspension is part of the broader **metadata_sabotage_network** playbook.  
+It replaces visible censorship with *plausibly benevolent* interventions — such as “wellness” prompts or “cooling-off” periods — to dampen engagement and redirect behaviour.  
+By presenting as care, moderation, or neutral enforcement, it reduces backlash while still achieving suppression goals.
+
+---
+
+## Body
+
+### Conceptual Definition
 Not all silencing looks like censorship.  
 Sometimes it looks like rest.  
 Like timeout.  
 Like: *“You’re not in trouble, but...”*
 
-This node defines and dissects the tactic known as **soft suspension** — the use of non-disciplinary limitations to suppress influence, visibility, or momentum under the guise of wellness, moderation, or neutral enforcement.
-
-> **Archival note:** Soft suspension is not protection.  
-> It is quiet interruption.  
-> They don’t want to silence you directly — they want you to do it to yourself.
-
-📎 **Cross-reference:** Other suppression-pattern nodes in `📁 Disruption_Kit/Containment_Scripts/`
+Soft suspension uses **non-disciplinary limitations** to suppress influence under the guise of care or fairness.  
+It operates at the intersection of **behavioural governance** and **visibility throttling**, shifting the burden of silence onto the target.
 
 ---
 
-## WHAT IS SOFT SUSPENSION?  
+### What It Is
 - Temporary visibility dampening with no formal strike  
 - Interaction limits disguised as “cooling off”  
 - *Wellness* framing used to justify disengagement  
-- Benign-seeming nudges toward silence or withdrawal  
+- Benign-seeming nudges toward silence or withdrawal
 
 ---
 
-## KEY FEATURES  
+### Key Features
 
-| Trait              | Description |
-|--------------------|-------------|
-| **No clear ban**   | You’re still online, but your impact is throttled |
-| **Wellness language** | Framed as care: “take a break,” “reduce screen time” |
-| **Systemic ghosting** | Posts vanish, comments disappear, messages fail silently |
-| **Behavioural nudging** | UI signals suggest you should slow down |
-
----
-
-## WHY IT’S USED  
-- To avoid backlash while still muting a politically resonant voice  
-- To deplete momentum without overt censorship  
-- To psychologically isolate the user in a perceived lull  
-- To induce self-censorship, disguised as “choice”  
+| Trait                  | Description |
+|------------------------|-------------|
+| **No clear ban**       | You remain online, but your reach is throttled |
+| **Wellness language**  | Framed as care: “take a break,” “reduce screen time” |
+| **Systemic ghosting**  | Posts vanish, comments disappear, messages fail silently |
+| **Behavioural nudging**| UI signals suggest slowing down or stepping back |
 
 ---
 
-## SIGNS YOU’RE IN IT  
-- Posts get zero interaction without deletion  
-- Comments disappear mid-thread  
-- No notifications on posts that usually spark activity  
-- You’re “encouraged” to log off, pause, or rest — right when you’re most effective  
+### Why It’s Used
+- Avoids public backlash from overt censorship  
+- Depletes momentum without visible enforcement  
+- Isolates the user in a perceived lull  
+- Induces self-censorship disguised as personal choice
 
 ---
 
-## FORENSIC PROTOCOL  
-- Log timestamps of vanished or ghosted content  
-- Compare engagement analytics around key posts  
-- Cross-post identical material on multiple platforms and track discrepancies  
-- Watch for language like “cool down,” “protect your wellbeing,” or “pause” — especially in UI or moderator messages  
-
----
-
-## CONTAINMENT INTERPRETATION  
-Soft suspension operates at the intersection of **behavioural governance** and **metadata throttling**.  
-It avoids visible enforcement actions, instead shifting the burden of silence onto the target.  
-If your work starts echoing into nothing, **log the silence**.  
-It’s a signal.
-
+### Signs You’re In It
+- Posts receive no interaction without being deleted  
+- Comments vanish mid-thread  
+- Notifications drop off on high-engagement topics  
+- Platform nudges to “pause,” “log off,” or “cool dow
