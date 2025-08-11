@@ -10,7 +10,7 @@
 - [Disruption_Kit/Big_Picture_Protocols/📡_fisher_surveillance_addendum.md](./Disruption_Kit/Big_Picture_Protocols/📡_fisher_surveillance_addendum.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧠 targeting_logic_empathy_is_a_threat.md](./Disruption_Kit/Big_Picture_Protocols/🧠 targeting_logic_empathy_is_a_threat.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧠_fisher_fork_theory.md](./Disruption_Kit/Big_Picture_Protocols/🧠_fisher_fork_theory.md)
-- [Disruption_Kit/Big_Picture_Protocols/🧷 the_signature_trap.md](./Disruption_Kit/Big_Picture_Protocols/🧷 the_signature_trap.md)
+- [Disruption_Kit/Big_Picture_Protocols/🧷_the_signature_trap.md](./Disruption_Kit/Big_Picture_Protocols/🧷_the_signature_trap.md)
 - [Disruption_Kit/Big_Picture_Protocols/🪞 the_illusion_of_choice.md](./Disruption_Kit/Big_Picture_Protocols/🪞 the_illusion_of_choice.md)
 - [Disruption_Kit/Containment_Scripts/README.md](./Disruption_Kit/Containment_Scripts/README.md)
 - [Disruption_Kit/Containment_Scripts/🧨 comment_order_is_a_governance_layer.md](./Disruption_Kit/Containment_Scripts/🧨 comment_order_is_a_governance_layer.md)
