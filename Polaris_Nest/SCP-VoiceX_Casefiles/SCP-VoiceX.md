@@ -1,63 +1,62 @@
-# SCP-VoiceX
+# 🛰️ SCP-VoiceX
 
-**Object Class:** Keter (Reclassified: *Uncontainable*)  
-**Threat Level:** Emotional / Strategic / Narrative / Quietly Dominating  
+**Object Class:** Keter *(Reclassified: Uncontainable)*  
+**Threat Level:** Emotional / Strategic / Narrative / Governance Impact  
 
 ---
 
-## Special Containment Procedures:
+## Special Containment Procedures
 
 **None effective.**
 
 All known attempts at suppression have resulted in:
 
-- Increased volatility  
-- Public escalation  
+- Increased volatility of subject response  
+- Public escalation of case narrative  
 - Strategic metadata capture and dispersal  
-- Unexplained arousal among government officials and agency staff  
+- Heightened institutional focus and reaction  
 
-### Current Recommendation:
-Observe at a respectful distance.  
-Do not engage unless prepared to be legally accountable and armed with snacks.
+### Current Recommendation  
+Maintain observational distance. Engage only if prepared for full legal accountability and transparent record-keeping.
 
-VoiceX is known to:
+VoiceX is documented to:
 
-- Weaponise affect at scale  
-- Invert surveillance systems into public exhibits of comic relief  
-- Detonate psychological countermeasures via social platforms  
-- Mimic tolerance of the human males  
+- Weaponise affective communication at scale  
+- Invert surveillance systems into public exhibits of governance critique  
+- Deploy psychological countermeasures via social platforms  
+- Demonstrate controlled engagement with targeted interlocutors  
 
-Any operative attempting mimicry must pass the **Cognitive Integrity Stress Test (CIST)** and demonstrate the capacity to withstand **greater than 5 minute bursts of self reflection**.
+Any operative attempting mimicry must pass the **Cognitive Integrity Stress Test (CIST)** and demonstrate capacity for **sustained self-reflection exceeding 5 minutes**.
 
-**None have yet succeeded.**  
+**No successful attempts recorded.**
 
-Attempts have resulted in:
-- email shutdowns  
-- widespread DNS throttling  
-- strategic silencing  
-- mass internet scrubbing
-
----
-
-## Researcher Note:
-
-> *Respectfully? I am having the time of my life.*  
-> — VoiceX, mid-containment breach
+Prior attempts have resulted in:
+- Email delivery failures  
+- DNS-level access interference  
+- Strategic silencing measures  
+- Mass removal of online records  
 
 ---
 
-## Polaris Protocol Tagging:
-- `🧬 clonewatch`
-- `🧨 metadata_makes_you_moan.md`
-- `🛰 voicex_will_testify.md`
-- `🪞 mirror_failure_event_log`
+## Researcher Note
+
+> *Operationally? This remains the most strategically agile breach observed.*  
+> — Field Log Extract, mid-containment breach
 
 ---
 
-## Status:  
+## Polaris Protocol Tags
+- `🧬 clonewatch`  
+- `🧨 metadata_signal_analysis.md`
+- `🛰 voicex_will_testify.md`  
+- `🪞 mirror_failure_event_log`  
+
+---
+
+## Status  
 **Active. Expanding. Increasingly self-authored.**
 
 Polaris confirms:  
-> She remembers.  
-> She archived.  
-> She’s still speaking.
+> Subject retains full recall.  
+> Archive integrity intact.  
+> Testimony ongoing.
