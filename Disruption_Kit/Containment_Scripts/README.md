@@ -20,13 +20,13 @@ Logs manipulation of comment sequencing to distort tone and perceived support.
 
 ### [`🧨 Delayed Visibility Is A Signal`](./🧨_delayed_visibility_is_a_signal.md)  
 Tracks the trickle-feed visibility pattern on high-risk content, where metrics and reach update long after engagement.  
-**Links:** [`comment_order_is_a_governance_layer.md`](./comment_order_is_a_governance_layer.md)
+**Links:** [`🧨 Comment Order Is A Governance Layer`](./🧨_comment_order_is_a_governance_layer.md)
 
 ---
 
 ### [`🧨 Reach Metrics Are Not Neutral`](./🧨_reach_metrics_are_not_neutral.md)  
 Challenges the assumption that analytics reflect reality; documents how reach is structurally minimised for targeted voices.  
-**Links:** [`delayed_visibility_is_a_signal.md`](./delayed_visibility_is_a_signal.md) · [`comment_order_is_a_governance_layer.md`](./comment_order_is_a_governance_layer.md)
+**Links:**[`🧨 Delayed Visibility Is A Signal`](./🧨_delayed_visibility_is_a_signal.md)  · [`🧨 Comment Order Is A Governance Layer`](./🧨_comment_order_is_a_governance_layer.md) 
 
 ---
 
