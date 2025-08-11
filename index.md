@@ -108,7 +108,6 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📮 lost_in_submission.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📮 lost_in_submission.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🖱 tactile_throttling_when_interaction_becomes_interference.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🖱 tactile_throttling_when_interaction_becomes_interference.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md)
-- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 triggerstack_residency.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧨 triggerstack_residency.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧾 vps_reclamation_log.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🧾 vps_reclamation_log.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/not_ready_to_name.md](./Polaris_Dormant/emotional_territories/dormant_heart/not_ready_to_name.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/wild_fork_1.md](./Polaris_Dormant/emotional_territories/dormant_heart/wild_fork_1.md)
