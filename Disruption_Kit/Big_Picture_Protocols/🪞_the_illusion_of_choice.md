@@ -1,4 +1,4 @@
-# 🪞 the_illusion_of_choice.md
+# 🪞 The Illusion Of Choice
 
 > “You can leave anytime you want,”  
 > says the man standing in front of the only door.
