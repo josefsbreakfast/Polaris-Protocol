@@ -61,7 +61,113 @@ To https://github.com/josefsbreakfast/Polaris-Protocol.git
 C:\Users\chloe\Documents\GitHub\Polaris-Protocol>
 
 
+>>>>>>
+>>>>>>Yes Chloe—perfect. You’ve got a clean branch and a baseline tag. Here’s a tight next-step kit so you can sweep without faff.
 
+# Quick plan (15-minute setup → ongoing sweep)
+
+**Make folders**
+
+```
+Polaris-Protocol/
+  Quarantine/2025-08-11_manual/
+  scans/
+```
+
+**Push the branch (once you’ve got a few edits)**
+
+```bash
+git push --set-upstream origin governance-pass-2025-08-11
+```
+
+# Tone deviation checklist (keep this open while skimming)
+
+* Does the paragraph add **sensual/romantic shading** to a legal/forensic point?
+* Any **over-descriptive body/emotion language** that isn’t evidential?
+* Sudden **cheeky/banter** voice inside formal sections?
+* Adjectives like *soft, warm, close, wet, gentle, hungry, throbbing, aching* etc.
+* Unnecessary **second-person** (“you”) flirt-like address; or **first-person** that shifts to desire/implied intimacy.
+* **Metaphors** that sexualize force/power/containment rather than describe facts.
+
+# Triage severity (so you don’t get bogged down)
+
+* **L3 (Critical)**: explicit sexualisation or innuendo in legal/forensic sections → **Quarantine immediately**, replace with neutral placeholder.
+* **L2 (Material)**: suggestive tone/metaphor that could undermine credibility → **Neutral rewrite now** (keep short), log it.
+* **L1 (Minor)**: stylistic cheekiness in non-critical sections → mark with `<!-- tone-trim -->` and fix later if time.
+
+# Edit workflow per file (fast loop)
+
+1. Skim. If it pings the checklist, assign **L1/L2/L3**.
+2. **L3** → copy original to Quarantine (preserve path), replace live text with a neutral line:
+
+   > `[Removed tone-skewed passage pending review — see Quarantine/2025-08-11_manual/<path>]`
+3. **L2** → trim adjectives/metaphors, swap to factual verbs; keep the claim intact.
+4. Log the action in `scans/harm_scan_2025-08-11.txt`:
+
+   ```
+   [L2] File: Survivor_Tools/🧬 cloneproof.md — P4
+   Action: Neutralised suggestive metaphor; preserved evidential content.
+   ```
+5. Save, move on. Commit in small batches.
+
+# Neutral rewrite patterns (quick swaps)
+
+* Sensual adjective → **remove** or swap to factual:
+  “*warm, close pressure*” → “pressure”.
+* Metaphor → **plain verb**:
+  “*seduced the system into compliance*” → “induced system compliance via X”.
+* First/second-person flirt → **institutional subject**:
+  “*you’ll want to…*” → “The applicant should…”.
+* “want/need” → **request/require** in legal contexts.
+* “feel” → **observe/evidence indicates**.
+
+# Commit cadence (keeps you safe + readable)
+
+After each small batch (e.g., 5–10 files):
+
+```bash
+git add -A
+git commit -m "governance: pass1 — quarantined 3 files (L3), neutralised 7 (L2)"
+```
+
+End of session:
+
+```bash
+git push
+```
+
+# (Optional) One-liner PowerShell to quarantine while preserving paths
+
+Paste in a PowerShell window opened at repo root:
+
+```powershell
+function Quarantine-File {
+  param([string]$RelPath)
+  $src = Join-Path $PWD $RelPath
+  $dst = Join-Path $PWD ("Quarantine/2025-08-11_manual/" + $RelPath)
+  New-Item -ItemType Directory -Force -Path (Split-Path $dst) | Out-Null
+  Copy-Item $src $dst -Force
+  Write-Output "[Quarantined] $RelPath"
+}
+# Use: Quarantine-File "Survivor_Tools/🧬 cloneproof.md"
+```
+
+# Tiny sanity checks (when you need a quick pulse)
+
+```bash
+# What changed?
+git status
+
+# What did I touch in this batch?
+git diff --name-only
+
+# How many L3 quarantines so far? (depends on your log wording)
+rg -n "\[L3\]" scans/harm_scan_2025-08-11.txt 2>$null | measure
+```
+
+Want me to generate a **starter harm log file** with headers you can paste in and fill as you go, or a **VS Code search preset** (saved search queries) to speed the manual sweep?
+>>>>>>>>>
+>>>>>>>>>
 
 
 
