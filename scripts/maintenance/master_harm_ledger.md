@@ -20,7 +20,7 @@ if (-not $DailyLog -or $DailyLog.Trim() -eq "") {
 
 if (-not (Test-Path $DailyLog)) { Write-Host "Daily log not found: $DailyLog" -ForegroundColor Red; exit 1 }
 
-# Ensure master exists
+# Ensure master ledger exists
 if (-not (Test-Path $masterPath)) {
 @"
 # Polaris Protocol — Master Harm Ledger
@@ -30,7 +30,7 @@ This ledger records governance-pass harm scans appended daily.
 "@ | Out-File -FilePath $masterPath -Encoding UTF8 -NoNewline
 }
 
-# Read daily content + hash for de-dupe
+# Read daily content + compute hash for de-dupe
 $dailyContent = Get-Content -Path $DailyLog -Raw -Encoding UTF8
 $hash = [System.BitConverter]::ToString(
   (New-Object -TypeName System.Security.Cryptography.SHA256Managed).ComputeHash(
@@ -49,14 +49,17 @@ $filename = [System.IO.Path]::GetFileName($DailyLog)
 $match = [regex]::Match($filename, 'harm_scan_(\d{4}-\d{2}-\d{2})\.txt')
 $date = $match.Success ? $match.Groups[1].Value : (Get-Date).ToString('yyyy-MM-dd')
 
-# --- NEW: compute stats from dailyContent ---
+# Compute stats from dailyContent
 $L1 = ([regex]::Matches($dailyContent, '^\[L1\]', 'Multiline')).Count
 $L2 = ([regex]::Matches($dailyContent, '^\[L2\]', 'Multiline')).Count
 $L3 = ([regex]::Matches($dailyContent, '^\[L3\]', 'Multiline')).Count
 
 $fileMatches = [regex]::Matches($dailyContent, '^\[L[123]\]\s+File:\s+(.+)$', 'Multiline')
 $files = @{}
-foreach ($m in $fileMatches) { $f = $m.Groups[1].Value.Trim(); if (-not $files.ContainsKey($f)) { $files[$f] = $true } }
+foreach ($m in $fileMatches) {
+  $f = $m.Groups[1].Value.Trim()
+  if (-not $files.ContainsKey($f)) { $files[$f] = $true }
+}
 $uniqueFiles = $files.Keys.Count
 
 $stats = @"
@@ -67,8 +70,9 @@ $stats = @"
 - L1 (Minor): $L1
 "@
 
-# Build entry (include stats + details with raw log)
-$relPath = Resolve-Path -Relative $DailyLog 2>$null; if (-not $relPath) { $relPath = $DailyLog }
+# Build entry with stats + raw log content in <details>
+$relPath = Resolve-Path -Relative $DailyLog 2>$null
+if (-not $relPath) { $relPath = $DailyLog }
 
 $entry = @"
 ---
@@ -84,9 +88,20 @@ $stats
 <details>
 <summary>Harm scan contents</summary>
 
+```  ← opening backticks
+<the actual text of your harm log here>
+```  ← closing backticks
+
 </details>
 
 "@
 
 Add-Content -Path $masterPath -Value "`r`n$entry"
 Write-Host "Merged: $DailyLog → $($masterPath)" -ForegroundColor Green
+
+# Echo stats to console
+Write-Host "`n=== Stats for $date ===" -ForegroundColor White
+Write-Host ("Files touched: {0}" -f $uniqueFiles) -ForegroundColor White
+Write-Host ("L3 (Critical): {0}" -f $L3) -ForegroundColor Red
+Write-Host ("L2 (Material): {0}" -f $L2) -ForegroundColor Yellow
+Write-Host ("L1 (Minor)   : {0}" -f $L1) -ForegroundColor Green
