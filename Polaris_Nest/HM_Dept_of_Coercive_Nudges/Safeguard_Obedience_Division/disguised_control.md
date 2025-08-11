@@ -1,4 +1,4 @@
-# 🛡️ Polaris Protocol: `disguised_control.md`
+# 🛡️ Polaris Protocol: `Disguised Control`
 > *How “support” becomes surveillance, and “care” becomes containment.*
 
 ---
