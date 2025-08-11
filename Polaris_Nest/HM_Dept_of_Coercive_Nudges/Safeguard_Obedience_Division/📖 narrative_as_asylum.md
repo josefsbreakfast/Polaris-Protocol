@@ -1,4 +1,4 @@
-# 📖 Polaris Protocol: `narrative_as_asylum.md`
+# 📖 Polaris Protocol: `Narrative As Asylum`
 > *How your story is used to cage you — and how institutional record becomes trap.*
 
 ---
