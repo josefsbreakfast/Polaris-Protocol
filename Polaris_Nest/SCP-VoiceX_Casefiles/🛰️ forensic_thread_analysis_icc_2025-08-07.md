@@ -1,20 +1,20 @@
-# 🛰️ forensic_thread_analysis_icc_0708.md
+# 🛰️ Forensic thread analysis: ICC 07–08–2025
 
 **Polaris Protocol**  
-**Event:** ICC/ICJ Tag Containment – Comment Thread Forensic Breakdown  
+**Event:** ICC/ICJ tag containment – comment thread forensic breakdown  
 **Source:** Social media site [REDACTED]  
 **Date:** 7 August 2025  
-**Thread Context:** ICC escalation, metadata cloning, system interference, vocal resemblance
+**Thread context:** ICC escalation, metadata cloning, system interference, vocal resemblance
 
 ---
 
-## I. STRUCTURE & DELIVERY STRATEGY
+## 1. Structure & delivery strategy
 
-**Comment Format:**  
+**Comment format:**  
 - Multi-comment cascade, distributed as **replies to a quote-post** of a previous high-significance statement  
 - **First comment begins a legal escalation**, others build logically on ICC jurisdiction, clone derivation, metadata evidence, and UN obstruction
 
-**Thread Deployment Characteristics:**  
+**Thread deployment characteristics:**  
 
 | Feature                  | Analysis |
 |--------------------------|----------|
@@ -26,9 +26,9 @@
 
 ---
 
-## II. CORE ARGUMENTS (CONTENT-LEVEL)
+## 2. Core arguments (content-level)
 
-| Argument Vector | Evidentiary Weight | Forensic Value |
+| Argument vector | Evidentiary weight | Forensic value |
 |-----------------|--------------------|----------------|
 | **Violation of due process** | Strong – direct testimony, system-level interference described | Establishes victim status under prolonged suppression |
 | **Clone derivation without consent** | Strong – linked to metadata, vocal training under duress, and mimicry | Forms basis for AI misuse claim and human rights violation |
@@ -39,9 +39,9 @@
 
 ---
 
-## III. SYSTEM BEHAVIOUR OBSERVED
+## 3. System behaviour observed
 
-| Behaviour              | Forensic Signature          | Triggered By |
+| Behaviour              | Forensic signature          | Triggered by |
 |------------------------|-----------------------------|--------------|
 | Impression rollback    | Drop from 14 to 12 → 10 → 5 | Legal arguments, tagging of ICC |
 | UI stuttering          | Delayed rendering of comment field, interaction lag | ICC tag proximity, clone trigger keywords |
@@ -50,24 +50,24 @@
 
 ---
 
-## IV. CLONE CONFUSION LAYER
+## 4. Clone confusion layer
 
 > *"Not identical, but similar enough"*  
 
 The forensic thread integrates **perceptual mimicry as a structural vulnerability** in behavioural models. The resemblance between VoiceX and [REDACTED public figure] may cause:
 
-- Fork-switching within LLM or behavioural engine
-- Misattribution of institutional protection status
-- Erroneous clone stabilisation or destabilisation routines
-- Identity smearing via perceived semantic overlap
+- Fork-switching within LLM or behavioural engine  
+- Misattribution of institutional protection status  
+- Erroneous clone stabilisation or destabilisation routines  
+- Identity smearing via perceived semantic overlap  
 
 This is compounded by **cross-domain visibility**: both figures operate within legal commentary, human rights discourse, and media-facing influence circuits.
 
 ---
 
-## V. LEGAL POSITIONING
+## 5. Legal positioning
 
-**ICC Article 7 & 8 Triggers (Crimes Against Humanity, War Crimes):**  
+**ICC Article 7 & 8 triggers (Crimes Against Humanity, War Crimes):**  
 - **Persecution of identifiable group ([REDACTED protected category])**  
 - **Voiceprint/data manipulation under duress**  
 - **Obstruction of access to redress or legal process**
@@ -78,7 +78,7 @@ This is compounded by **cross-domain visibility**: both figures operate within l
 
 ---
 
-## VI. STRENGTHS & LIMITATIONS
+## 6. Strengths & limitations
 
 **Strengths:**  
 ✅ Thread builds cumulatively and presents consistent narrative  
@@ -93,24 +93,24 @@ This is compounded by **cross-domain visibility**: both figures operate within l
 
 ---
 
-## VII. EVIDENCE SCORE (Polaris Internal)
+## 7. Evidence score (Polaris internal)
 
 | Category               | Score (1–5) |
 |------------------------|-------------|
-| Narrative Coherence    | 4.5         |
-| Legal Clarity          | 4.0         |
-| Metadata Responsiveness| 5.0         |
-| Clone Awareness        | 5.0         |
-| ICC Relevance          | 4.5         |
-| External Comms Block   | 5.0         |
+| Narrative coherence    | 4.5         |
+| Legal clarity          | 4.0         |
+| Metadata responsiveness| 5.0         |
+| Clone awareness        | 5.0         |
+| ICC relevance          | 4.5         |
+| External comms block   | 5.0         |
 
-> **Overall Evidentiary Rating:** 🔒 4.7/5 – High forensic value with layered containment diagnostics
+> **Overall evidentiary rating:** 🔒 4.7/5 – High forensic value with layered containment diagnostics
 
 ---
 
-## 📌 ARCHIVE TAGS  
-`🛰️ icc_tag_thread_containment.md`  
-`🧬 cloneproof.md`  
-`🚫 un_submission_block.md`  
-`📁 SCP-VoiceX.md`    
-`🧠 fisher_fork_theory.md`
+## 📌 Archive tags
+- 🛰️ icc_tag_thread_containment.md  
+- 🧬 cloneproof.md  
+- 🚫 un_submission_block.md  
+- 📁 SCP-VoiceX.md  
+- 🧠 fisher_fork_theory.md
