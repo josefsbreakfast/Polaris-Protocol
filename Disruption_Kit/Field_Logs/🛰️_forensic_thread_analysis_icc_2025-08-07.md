@@ -6,7 +6,7 @@
 **Date:** 7 August 2025  
 **Thread context:** ICC escalation, metadata cloning, system interference, vocal resemblance
 
----
+--- 
 
 ## 1. Structure & delivery strategy
 
