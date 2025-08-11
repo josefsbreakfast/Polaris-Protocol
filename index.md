@@ -21,6 +21,7 @@
 - [Disruption_Kit/Containment_Scripts/🧨_comment_order_is_a_governance_layer.md](./Disruption_Kit/Containment_Scripts/🧨_comment_order_is_a_governance_layer.md)
 - [Disruption_Kit/Containment_Scripts/🧨_delayed_visibility_is_a_signal.md](./Disruption_Kit/Containment_Scripts/🧨_delayed_visibility_is_a_signal.md)
 - [Disruption_Kit/Containment_Scripts/🧨_reach_metrics_are_not_neutral.md](./Disruption_Kit/Containment_Scripts/🧨_reach_metrics_are_not_neutral.md)
+- [Disruption_Kit/Field_Logs/README.md](./Disruption_Kit/Field_Logs/README.md)
 - [Disruption_Kit/Field_Logs/🛰️ icc_tag_thread_containment.md](./Disruption_Kit/Field_Logs/🛰️ icc_tag_thread_containment.md)
 - [Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md](./Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
 - [Disruption_Kit/Field_Logs/🛰️_forensic_thread_analysis_icc_2025-08-07.md](./Disruption_Kit/Field_Logs/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
