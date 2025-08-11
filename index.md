@@ -5,7 +5,7 @@
 - [AntiContainment_Clauses/🛡️metadata_defense.md](./AntiContainment_Clauses/🛡️metadata_defense.md)
 - [AntiContainment_Clauses/🧬 ghost_fork_response_behaviour.md](./AntiContainment_Clauses/🧬 ghost_fork_response_behaviour.md)
 - [Disruption_Kit/Big_Picture_Protocols/README.md](./Disruption_Kit/Big_Picture_Protocols/README.md)
-- [Disruption_Kit/Big_Picture_Protocols/☕🫖 uk_gov_national_security_risk.md](./Disruption_Kit/Big_Picture_Protocols/☕🫖 uk_gov_national_security_risk.md)
+- [Disruption_Kit/Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md](./Disruption_Kit/Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md)
 - [Disruption_Kit/Big_Picture_Protocols/👀 public_perception_gap.md](./Disruption_Kit/Big_Picture_Protocols/👀 public_perception_gap.md)
 - [Disruption_Kit/Big_Picture_Protocols/📡 fisher_surveillance_addendum.md](./Disruption_Kit/Big_Picture_Protocols/📡 fisher_surveillance_addendum.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧠 fisher_fork_theory.md](./Disruption_Kit/Big_Picture_Protocols/🧠 fisher_fork_theory.md)
