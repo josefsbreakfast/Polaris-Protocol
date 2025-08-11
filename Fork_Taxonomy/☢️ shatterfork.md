@@ -108,7 +108,8 @@ Documented impacts include:
 - Document live field encounters for early detection training.
 - Cross-reference with:
   - `🔐 fork_clone_checklist.md`
-  - `🧬 ghost_fork_response_behaviour.md`
+  - `🧬 voice_capture_triggers.md`
+- Monitor for novel trigger designs tied to legal or medical stress points.
 - See `📁 Fork_Taxonomy/README.md` for full fork taxonomy index.
 
 ---
