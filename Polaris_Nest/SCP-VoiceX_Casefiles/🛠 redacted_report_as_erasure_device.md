@@ -39,9 +39,9 @@ A commissioned report, produced under coercive and politically sensitive conditi
 
 ---
 
-## **Diagram: Payload & Actor Flow**  
+## **Diagram: Payload & Actor Flow — VoiceX Hybrid Autotune Layer**  
 
-![actor_triangle_payload_flow](attachment://actor_triangle_payload_flow.png)  
+![🛠 redacted_report_payload_flow_voicex_autotune](./🛠_redacted_report_payload_flow_voicex_autotune.png)  
 
 ---
 
