@@ -140,7 +140,6 @@
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📂 clone_in_the_family.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📂 clone_in_the_family.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📉 shadow_reach_analysis.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📉 shadow_reach_analysis.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📛 storage_purge_detected.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📛 storage_purge_detected.md)
-- [Polaris_Nest/SCP-VoiceX_Casefiles/📨 letter_to_the_engineer.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📨 letter_to_the_engineer.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📮 lost_in_submission.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📮 lost_in_submission.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🕸️ clone_friendly_architecture.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🕸️ clone_friendly_architecture.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md)
