@@ -1,5 +1,5 @@
 # ☕🫖 Is the Current UK Government a Threat to National Security?  
-**Last updated:** 2025-08-04  
+**First posted:** 2025-08-04  **Last updated:** 2025-08-11
 **Polaris Protocol** | `threat_assessment` | #NationalIntegrity #PoliticalCapture
 
 ---
