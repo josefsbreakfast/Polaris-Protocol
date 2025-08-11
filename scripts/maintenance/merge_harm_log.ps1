@@ -75,7 +75,8 @@ $relPath = Resolve-Path -Relative $DailyLog 2>$null
 if (-not $relPath) { $relPath = $DailyLog }
 
 $entry = @"
----
+$entry = "---`n<!-- digest:$hash -->`n## $date — Governance Pass`n`n**Branch:** $Branch  `n**Baseline Tag:** $BaselineTag  `n**Source file:** $relPath`n`n$stats`n`n<details>`n<summary>Harm scan contents</summary>`n`n``` `n$($dailyContent.TrimEnd())`n``` `n`n</details>`n"
+
 <!-- digest:$hash -->
 ## $date — Governance Pass
 
