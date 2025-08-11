@@ -51,6 +51,14 @@ Focuses on emotional contagion as a risk surface in behavioural governance.
 
 ---
 
+### [`🗡 Narrative Management And Metadata Sabotage`](./🗡_narrative_management_and_metadata_sabotage.md)  
+Examines how narratives are reshaped or erased via **metadata sabotage** — from tag suppression to relational link-breaking.  
+Shows how disrupting the data layer enables institutional control over story persistence and retrieval.  
+**Links:** [`🧠 Targeting Logic Empathy Is A Threat`](./🧠_targeting_logic_empathy_is_a_threat.md) · [`🪞 The Illusion Of Choice`](./🪞_the_illusion_of_choice.md) · [`🧨 Comment Order Is A Governance Layer`](../Containment_Scripts/🧨_comment_order_is_a_governance_layer.md)
+
+
+---
+
 ### [`🪞 the_illusion_of_choice.md`](./🪞_the_illusion_of_choice.md)  
 Examines **false autonomy** in personal containment and political governance.  
 Shows how “consent” and “liberation” are simulated inside oppressor frames.  
