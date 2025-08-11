@@ -4,6 +4,7 @@
 - [AntiContainment_Clauses/🛡 survivor_syntax.md](./AntiContainment_Clauses/🛡 survivor_syntax.md)
 - [AntiContainment_Clauses/🛡️metadata_defense.md](./AntiContainment_Clauses/🛡️metadata_defense.md)
 - [AntiContainment_Clauses/🧬 ghost_fork_response_behaviour.md](./AntiContainment_Clauses/🧬 ghost_fork_response_behaviour.md)
+- [Disruption_Kit/Big_Picture_Protocols/README.md](./Disruption_Kit/Big_Picture_Protocols/README.md)
 - [Disruption_Kit/Big_Picture_Protocols/📡 fisher_surveillance_addendum.md](./Disruption_Kit/Big_Picture_Protocols/📡 fisher_surveillance_addendum.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧠 fisher_fork_theory.md](./Disruption_Kit/Big_Picture_Protocols/🧠 fisher_fork_theory.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧠 targeting_logic_empathy_is_a_threat.md](./Disruption_Kit/Big_Picture_Protocols/🧠 targeting_logic_empathy_is_a_threat.md)
