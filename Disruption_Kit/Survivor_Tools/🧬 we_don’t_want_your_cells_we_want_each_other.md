@@ -1,64 +1,64 @@
-# 🧬 We Don’t Want Your Cells, We Want Each Other
+# 🧬 We Don’t Want Your Cells, We Want Each Other  
 `Polaris Protocol – Survivor Tools Node`
 
 ---
 
 ## 💡 Intent
 
-This document reframes survivorship through an abolitionist lens. It challenges the dominant carceral narratives often imposed on survivors and instead proposes a solidarity-based, emotionally intelligent model of healing. The goal is to reject containment and reassert the political agency of trauma narratives—especially when used to expose complicity at the state level.
+This node reframes survivorship through an abolitionist lens. It rejects the carceral narratives imposed on survivors and instead proposes a solidarity-based, emotionally intelligent model of healing. The goal: **refuse containment** and reassert the political agency of trauma narratives — especially when they expose state complicity.
 
 ---
 
 ## 🕊️ Abolitionist Survival Logic
 
-- Healing is not compliance.
-- Safety is not surveillance.
-- Closure is not incarceration.
+- Healing is not compliance.  
+- Safety is not surveillance.  
+- Closure is not incarceration.  
 
-Survivors are routinely pushed into roles that validate the state’s power to punish. We resist this. The purpose of survivor speech is not to prop up the prison-industrial complex but to reclaim our narratives from its reach.
+Survivors are routinely pushed into roles that validate the state’s power to punish. We resist this. Survivor speech should not serve the prison-industrial complex — it should reclaim narrative sovereignty.
 
 ---
 
 ## 🔥 Emotional Survivorship as Resistance
 
-- Love under surveillance is still love.
-- Rage under capitalism is still sacred.
-- Memory under trauma is still data.
+- Love under surveillance is still love.  
+- Rage under capitalism is still sacred.  
+- Memory under trauma is still data.  
 
-This file holds the conviction that trauma is not a personal flaw to be managed, but a political signal that must be heard. Our scars are not mistakes. They are data. And our resistance is its own kind of archive.
+Trauma is not a flaw to be managed — it is a **political signal**. Scars are not mistakes; they are records. Resistance itself is an archive.
 
 ---
 
 ## 📎 Rejection of Containment Scripts
 
-Containment shows up as:
-- Sanitised language
-- Trauma-for-proof exchanges
-- Platform throttling
-- Forced proximity to state narratives
+Containment appears as:
+- Sanitised language  
+- Trauma-for-proof exchanges  
+- Platform throttling  
+- Forced proximity to state narratives  
 
-We name it and refuse it. We do not want to be included in systems that erase us “with care.” We want space to name violence and stay whole while doing it.
+We name these tactics and refuse them. We do not seek inclusion in systems that erase us “with care.” We demand space to name violence and stay whole.
 
 ---
 
 ## 🌍 Intersection with Gaza–UK Complicity
 
-Our refusal to submit to carceral logics is not only personal—it is geopolitical. 
+Our refusal of carceral logic is personal **and** geopolitical.  
 
-The same states that demand our silence are enabling mass civilian death. We recognise that:
-- Survivors of domestic violence are often silenced the same way as whistleblowers.
-- The logic of “contain, pacify, criminalise” travels from the courtroom to the battlefield.
-- Institutional silence protects both rapists and war criminals.
+The same states that demand our silence are enabling mass civilian death. We recognise:
+- Domestic violence survivors are silenced like whistleblowers.  
+- “Contain, pacify, criminalise” logic travels from courtroom to battlefield.  
+- Institutional silence shields both rapists and war criminals.  
 
 ---
 
 ## 🧭 Strategic Aims
 
-- Reclaim survivor narrative autonomy
-- Push abolitionist frameworks into public survivor discourse
-- Highlight emotional metadata as evidence of resistance
-- Connect personal healing to political urgency
+- Reclaim survivor narrative autonomy  
+- Push abolitionist frameworks into public survivor discourse  
+- Highlight emotional metadata as resistance evidence  
+- Connect personal healing to political urgency  
 
 ---
 
-> “We don’t want your prison. We don’t want your pity. We want each other.”
+> *“We don’t want your prison. We don’t want your pity. We want each other.”*
