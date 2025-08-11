@@ -1,4 +1,4 @@
-📄 ethics_as_language_trap.md
+# 📄 Ethics As Language Trap
 
 ## Summary:
 A breakdown of how bureaucratic actors weaponise ethical language and institutional jargon to enforce compliance, mask inactivity, and redirect scrutiny.
