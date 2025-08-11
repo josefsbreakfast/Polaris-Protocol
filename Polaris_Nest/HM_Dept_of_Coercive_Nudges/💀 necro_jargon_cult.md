@@ -1,4 +1,4 @@
-💀 necro_jargon_cult.md
+# 💀 Necro Jargon Cult
 
 ## Topic:
 Why authoritarian personalities obsess over Latin.
