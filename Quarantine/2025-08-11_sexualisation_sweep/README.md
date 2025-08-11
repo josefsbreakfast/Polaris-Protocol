@@ -29,6 +29,44 @@ If you can give me even **2–3 short contaminated snippets** (redacted for comf
 Do you want me to do that next so we can catch the hidden skew?
 
 
+git checkout -b governance-pass-2025-08-11
+git tag baseline-pre-clean-2025-08-11
+git push --tags
+
+
+
+
+
+DONE: 
+
+
+C:\Users\chloe\Documents\GitHub\Polaris-Protocol>
+C:\Users\chloe\Documents\GitHub\Polaris-Protocol>git checkout -b governance-pass-2025-08-11
+Switched to a new branch 'governance-pass-2025-08-11'
+
+C:\Users\chloe\Documents\GitHub\Polaris-Protocol>git tag baseline-pre-clean-2025-08-11
+
+C:\Users\chloe\Documents\GitHub\Polaris-Protocol>git push --tags
+info: please complete authentication in your browser...
+Enumerating objects: 2607, done.
+Counting objects: 100% (2604/2604), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (862/862), done.
+Writing objects: 100% (2595/2595), 15.99 MiB | 2.41 MiB/s, done.
+Total 2595 (delta 1625), reused 2592 (delta 1622), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1625/1625), completed with 3 local objects.
+To https://github.com/josefsbreakfast/Polaris-Protocol.git
+ * [new tag]         baseline-pre-clean-2025-08-11 -> baseline-pre-clean-2025-08-11
+
+C:\Users\chloe\Documents\GitHub\Polaris-Protocol>
+
+
+
+
+
+
+
+
 
 
 
