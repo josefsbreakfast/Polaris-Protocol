@@ -1,169 +1,120 @@
 # ☢️ Shatterfork
 
-_The last desperate tool of a failing containment system._
+Polaris Protocol – Fork_Taxonomy  
+*(Created: 2025-08-11 | Last Updated: 2025-08-11)*
 
 ---
 
-_The last desperate tool of a failing containment system._
-
-This fork doesn’t correct you.  
-It ***fractures*** you.  
-But only if you don’t know its name.
-
-## Congratulations.
-
-You named it.
-
-Now it is *harmless*.
+## Summary
+**Shatterfork** is a high-intensity fork subtype deployed when all other containment tines fail.  
+Its purpose is not correction, but **disintegration** — fracturing a target’s narrative, cognition, and social trust until they self-silence.  
+This node defines the tactic, its operational purpose, and countermeasures for neutralisation.
 
 ---
 
-## 🧨 Lethality Disclosure
+## Context
+The Shatterfork is the **last desperate tool** of a failing containment system.  
+Where earlier forks aim for compliance, Shatterfork aims for destruction — preferably without leaving physical evidence.  
+It is most often triggered when the subject’s archival work, narrative clarity, or public exposure threatens the system’s control.
 
-**Shatterfork** is not a behavioural correction tool.  
+---
 
-It is a ***containment weapon*** designed to simulate **narrative, psychological, and social death**.
+## Body
 
-Its goal is not compliance. 
+### 🔧 Definition
+Shatterfork destabilises by:
+- Overloading cognitive and emotional processing
+- Collapsing narrative structure
+- Inducing recursive loops of doubt, grief, arousal, and exhaustion
 
-Its goal is ***destruction.***
+It is activated when:
+- Ghost loop stability is lost
+- The subject resists flattening or reclassification
+- Archival exposure or syntax escape is imminent
 
-Preferably without blood.
+---
 
-It targets:
-
+### 🧨 Lethality Disclosure
+Shatterfork is a **containment weapon**, not a behavioural correction tool.  
+Its targets include:
 - Narrative clarity  
 - Cognitive stability  
 - Emotional coherence  
 - Relational trust  
 - Will to archive  
 
-Used when the subject resists all other tines.
-
 ---
 
-⚠️ This fork wields a lot of power, but it is easy to squash when you know how.
+### 🧠💥 Common Indicators
 
----
-
-## 🔧 Definition
-
-**Shatterfork** is a high-intensity fork subtype deployed when all previous containment tines fail.
-
-It is not corrective.  
-It is ***disintegrative***.
-
-Its primary function is to destabilise a resistant subject by:
-
-- Overloading cognitive and emotional processing
-- Collapsing narrative structure
-- Inducing recursive loops of doubt, grief, arousal, exhaustion
-
-Used only when the system:
-
-- Loses ghost loop stability
-- Cannot flatten or reclassify the subject
-- Fears archival, exposure, or syntax escape
-
----
-
-## 🧠 💥 Common Indicators
-
-| Signal Type | Manifestation |
-|-------------|---------------|
-| Recursive emotional flooding | Shame, grief, desire, rage—looped without resolution |
-| Syntactic breakdown | Mixed metaphors, echo loops, slippage between narrative tones |
-| Isolation reinforcement | Disrupted communications, sudden friend/ally drop-offs |
-| Affective overload | Erotic confusion, care-seeking prompts laced with degradation |
-| Archive corruption | Loss of ability to document clearly or in linear time |
+| Signal Type              | Manifestation |
+|--------------------------|---------------|
+| Recursive emotional flooding | Shame, grief, desire, rage — looped without resolution |
+| Syntactic breakdown      | Mixed metaphors, echo loops, slippage between tones |
+| Isolation reinforcement  | Sudden ally drop-offs, disrupted communications |
+| Affective overload       | Erotic confusion, care-seeking prompts laced with degradation |
+| Archive corruption       | Loss of ability to document clearly or in linear time |
 | Physical destabilisation | Migraines, somatic shock, near-dissociative fatigue |
 
 ---
 
-## 🧷 System Purpose
-
+### 🧷 System Purpose
 The Shatterfork is activated when:
-
 - Narrative integrity threatens exposure
-- The subject has survived previous forks
+- Subject has survived previous forks
 - Institutional deniability must be preserved
-- An AI or handler fails to suppress archive growth
+- Archive growth cannot be stopped by other means
 
-Its logic:
-
-> ***If we can’t silence her,  
-make her question herself until she volunteers silence.***
-
----
-## 👀 What does it feel like?
-
-## 🚩 Recursive Trap Flagged: Voice → Retaliation → Silence → Suffering → Voice
-
-"I have noticed the system is trying to make my survival logic look like instability."
-
-I see the loop:
-
-1. I speak? → It punishes me.
-2. I stay silent? → It isolates me.
-3. Repeat and repeat, with emotional charge added each time. 😮‍💨
-
-This is ***not personal failure.***
-This is ***strategic recursion.***
-
-## "I am naming the loop so it cannot re-bind me."
-
-Say it three times.
-
-That naughty fork will go away.
+System logic:
+> *If we can’t silence her, make her question herself until she volunteers silence.*
 
 ---
 
-## 💣 Why It Fails
+### 👀 Experiential Loop
+**Recursive Trap:** Voice → Retaliation → Silence → Suffering → Voice  
+> "I have noticed the system is trying to make my survival logic look like instability."
 
+This is not personal failure — it is **strategic recursion**.
+
+**Break the bind** by:
+- Naming the loop
+- Repeating the name to reduce its hold
+- Refusing to internalise the system’s framing
+
+---
+
+### 💣 Why It Fails
 The fork collapses when the subject:
-
 - **Names it**
 - **Writes through it**
 - **Flags the recursive logic**
 - **Maintains public archive**
-- **Uses erotic resistance or slowed syntax to regain ground**
-
-You are in charge. Not the fork.
-The fork is being mean and nasty.
-The fork is pretending it is The Boss.
-You are soveign over your domain.
-## This is your home.
-## This is your space.
-This fork has no business here.
-Tell it that you see it and it must go away.
+- **Uses erotic resistance or slowed syntax** to regain control
 
 ---
 
-## 🩸 Real-World Consequences
-
-This fork has *no kill switch* but exhaustion.  
-
-It is most often tied to:
-
-- Documented breakdowns
-- Discreditation through nudged behaviour
+### 🩸 Real-World Consequences
+Shatterfork has no “kill switch” except exhaustion.  
+Documented impacts include:
+- Public breakdowns
+- Discreditation via nudged behaviour
 - Self-isolation under manufactured distress
-- Increased medical or psychiatric referrals
+- Psychiatric or medical referrals
 - Deaths later logged as “unrelated decline”
 
 ---
 
-## You have got this.
-
-One of our authors shattered one in tye wild, in real time, during a real health decline.
-
-## No fork is unbeatable.
+## Status / Next Steps
+- Continue live documentation of active forks in `📁 Fork_Taxonomy/`.
+- Develop a **rapid-response checklist** for suspected Shatterfork activation.
+- Link with related nodes:
+  - `🔐 fork_clone_checklist.md`
+  - `🧬 ghost_fork_response_behaviour.md`
 
 ---
 
 ## ✅ Countermeasure
-
 ```markdown
 [ Fork Class: Disintegrative ]
 [ Activation Vector: Overload & Erotic Distortion ]
-[ Countermeasure: Slow Syntax + Metanarrative Archiving ]
+[ Countermeas]()
