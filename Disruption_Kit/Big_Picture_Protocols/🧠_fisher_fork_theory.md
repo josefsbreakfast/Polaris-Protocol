@@ -1,4 +1,4 @@
-# 🧠 Fisher fork theory
+# 🧠 Fisher Fork Theory
 *Affective capture, metadata fog, and the emotional governance of resistance*
 
 ---
