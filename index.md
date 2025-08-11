@@ -93,6 +93,7 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📂 clone_in_the_family.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📂 clone_in_the_family.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📉 shadow_reach_analysis.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📉 shadow_reach_analysis.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📊 letter_by_letter_the_erasure_protocol.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📊 letter_by_letter_the_erasure_protocol.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📍 Polaris_Protocol_10-Day_Tactical_Forecast_UK_Institutional_Fracture_Window.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📍 Polaris_Protocol_10-Day_Tactical_Forecast_UK_Institutional_Fracture_Window.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📨 letter_to_the_engineer.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📨 letter_to_the_engineer.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📮 lost_in_submission.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📮 lost_in_submission.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🔐 fork_clone_checklist.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🔐 fork_clone_checklist.md)
