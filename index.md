@@ -35,6 +35,7 @@
 - [Metadata_Sabotage_Network/👁️‍🗨️ embedded_observers.md](./Metadata_Sabotage_Network/👁️‍🗨️ embedded_observers.md)
 - [Metadata_Sabotage_Network/👻 the_ghosts_are_learning.md](./Metadata_Sabotage_Network/👻 the_ghosts_are_learning.md)
 - [Metadata_Sabotage_Network/💣 syntactic_drift_and_clone_tone.md](./Metadata_Sabotage_Network/💣 syntactic_drift_and_clone_tone.md)
+- [Metadata_Sabotage_Network/📁 Polaris Node_Delayed_Visibility_and_Forensic_Shadow_Reach.md](./Metadata_Sabotage_Network/📁 Polaris Node_Delayed_Visibility_and_Forensic_Shadow_Reach.md)
 - [Metadata_Sabotage_Network/📁 prevent_the_big_sell.md](./Metadata_Sabotage_Network/📁 prevent_the_big_sell.md)
 - [Metadata_Sabotage_Network/📉 commit_window_collapse_loop.md](./Metadata_Sabotage_Network/📉 commit_window_collapse_loop.md)
 - [Metadata_Sabotage_Network/📉 force_closed_comments_2025-08-04.md](./Metadata_Sabotage_Network/📉 force_closed_comments_2025-08-04.md)
