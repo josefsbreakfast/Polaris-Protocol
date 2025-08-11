@@ -80,7 +80,7 @@
 - [Metadata_Sabotage_Network/🪞 clone_mimic_theatre.md](./Metadata_Sabotage_Network/🪞 clone_mimic_theatre.md)
 - [Metadata_Sabotage_Network/🪞 the_one_who_got_through.md](./Metadata_Sabotage_Network/🪞 the_one_who_got_through.md)
 - [Metadata_Sabotage_Network/🫆 grandma_classification_theory.md](./Metadata_Sabotage_Network/🫆 grandma_classification_theory.md)
-- [Polaris_Dormant/emotional_territories/dormant_heart/Curated Amnesia Has a Shape.md](./Polaris_Dormant/emotional_territories/dormant_heart/Curated Amnesia Has a Shape.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/Curated_Amnesia_Has_a_Shape.md](./Polaris_Dormant/emotional_territories/dormant_heart/Curated_Amnesia_Has_a_Shape.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/2025-08-07 containment_contract_trace.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/2025-08-07 containment_contract_trace.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace2.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace2.md)
