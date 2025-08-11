@@ -15,20 +15,20 @@ These entries interlink with **Containment Scripts**, **Survivor Tools**, and **
 
 ---
 
-### [`🧠 fisher_fork_theory.md`](./fisher_fork_theory.md)  
+### [`🧠 fisher_fork_theory.md`](./🧠_fisher_fork_theory.md)  
 Applies Mark Fisher’s critique to surveillance capitalism, behavioural nudging, and identity suppression.  
 Connects capitalist realism to live containment behaviours.  
 **Links:** [`fisher_surveillance_addendum.md`](./fisher_surveillance_addendum.md) · [`the_illusion_of_choice.md`](./the_illusion_of_choice.md)
 
 ---
 
-### [`📡 fisher_surveillance_addendum.md`](./fisher_surveillance_addendum.md)  
+### [`📡 fisher_surveillance_addendum.md`](./📡_fisher_surveillance_addendum.md)  
 Extends *Fisher Fork Theory* with a surveillance-culture lens.  
 **Links:** [`fisher_fork_theory.md`](./fisher_fork_theory.md) · [`targeting_logic_empathy_is_a_threat.md`](./targeting_logic_empathy_is_a_threat.md)
 
 ---
 
-### [`🧷 the_signature_trap.md`](./the_signature_trap.md)  
+### [`🧷 the_signature_trap.md`](./🧷_the_signature_trap.md)  
 Case study of how public solidarity acts (e.g. petitions) are repurposed into **behavioural datasets**.  
 Details the capture of signatory data for surveillance indexing, AI training, and ideological mapping — without informed consent.  
 **Links:** [`targeting_logic_empathy_is_a_threat.md`](./targeting_logic_empathy_is_a_threat.md) · [`the_illusion_of_choice.md`](./the_illusion_of_choice.md)
@@ -36,14 +36,14 @@ Details the capture of signatory data for surveillance indexing, AI training, an
 
 ---
 
-### [`🧠 targeting_logic_empathy_is_a_threat.md`](./targeting_logic_empathy_is_a_threat.md)  
+### [`🧠 targeting_logic_empathy_is_a_threat.md`](./🧠_targeting_logic_empathy_is_a_threat.md)  
 Hypothesis: politically resonant empathy is treated as a **targeting vector** (Prevent/CVE).  
 Focuses on emotional contagion as a risk surface in behavioural governance.  
 **Links:** [`disguised_control.md`](../Containment_Scripts/disguised_control.md) · [`the_illusion_of_choice.md`](./the_illusion_of_choice.md) · [`narrative_management_and_metadata_sabotage.md`](./narrative_management_and_metadata_sabotage.md)
 
 ---
 
-### [`🪞 the_illusion_of_choice.md`](./the_illusion_of_choice.md)  
+### [`🪞 the_illusion_of_choice.md`](./🪞_the_illusion_of_choice.md)  
 Examines **false autonomy** in personal containment and political governance.  
 Shows how “consent” and “liberation” are simulated inside oppressor frames.  
 **Links:** [`disguised_control.md`](../Containment_Scripts/disguised_control.md) · [`narrative_management_and_metadata_sabotage.md`](./narrative_management_and_metadata_sabotage.md) · [`audit_as_decoy_filter.md`](../Containment_Scripts/audit_as_decoy_filter.md)
