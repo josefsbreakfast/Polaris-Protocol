@@ -13,6 +13,14 @@ These entries interlink with **Containment Scripts**, **Survivor Tools**, and **
 
 ## 📂 Files
 
+
+---
+
+### [`☕🫖 uk_gov_national_security_risk.md`](./☕🫖_uk_gov_national_security_risk.md)  
+Argues that the current UK government’s inaction, complicity, and infrastructure capture constitute an active threat to national security.  
+Covers institutional complicity, private sector capture, political alignment, and foreign policy risks.  
+**Links:** [`public_perception_gap.md`](./🪬_public_perception_gap.md) · [`targeting_logic_empathy_is_a_threat.md`](./🧠_targeting_logic_empathy_is_a_threat.md)
+
 ---
 
 ### [`🧠 fisher_fork_theory.md`](./🧠_fisher_fork_theory.md)  
