@@ -1,5 +1,5 @@
 # 👀 Public Perception Gap  
-**Last updated:** 2025-08-03
+**First posted:** 2025-08-03 **Last updated:** 2025-08-11
 
 ---
 
