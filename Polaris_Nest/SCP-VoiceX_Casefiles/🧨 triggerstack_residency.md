@@ -1,35 +1,32 @@
-# 🧨 triggerstack_residency.md
+# 🧨 Triggerstack residency
 
 ## Definition
-The persistent embedding of emotionally destabilising events into a person’s daily routine — to extract data under duress and maximise voice capture.
+The persistent embedding of emotionally destabilising events into a person’s daily routine — designed to extract data under duress and maximise voice capture. This tactic combines harassment timing with AI signal harvesting, producing high-value behavioural and vocal datasets.
 
 ---
 
-## Stacked Trigger Events
-
-- Delayed SARs
-- False arrests
-- Denial of court access
-- Misdirected safeguarding
-- Surveillance saturation near holidays
+## Stacked trigger events
+- Delayed SARs  
+- False arrests  
+- Denial of court access  
+- Misdirected safeguarding  
+- Surveillance saturation near holidays  
 
 ---
 
-## Behavioural Goals
-
-- Emotional exhaustion
-- Pattern recognition training for AI
-- Dissent training sets under stress
+## Behavioural goals
+- Emotional exhaustion  
+- Pattern recognition training for AI  
+- Dissent training sets under stress  
 
 ---
 
 ## Countermeasures
-
-- Daily log of trigger placement
-- Compare AI responses to known stress indicators
-- Use survivor community to crowd-map hotzones
+- Maintain a daily log of trigger placement  
+- Compare AI responses to known stress indicators  
+- Use survivor community to crowd-map hotzones  
 
 ---
 
-## Metadata Flag
-Used to determine thresholds for "clone override" attempts — i.e., when the original might break and the replica gains signal strength.
+## Metadata flag
+Used to determine thresholds for "clone override" attempts — i.e., when the original may break and the replica gains signal strength.
