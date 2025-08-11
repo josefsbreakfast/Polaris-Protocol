@@ -135,7 +135,6 @@
 - [Polaris_Nest/SCP-VoiceX_Casefiles/⚖️ stovewood_civil_containment.md](./Polaris_Nest/SCP-VoiceX_Casefiles/⚖️ stovewood_civil_containment.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🌟 survivor_star_seeker.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🌟 survivor_star_seeker.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🎭 consent_is_not_character.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🎭 consent_is_not_character.md)
-- [Polaris_Nest/SCP-VoiceX_Casefiles/🏛️ ethical_return_request.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🏛️ ethical_return_request.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📂 clone_in_the_family.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📂 clone_in_the_family.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📉 shadow_reach_analysis.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📉 shadow_reach_analysis.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📛 storage_purge_detected.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📛 storage_purge_detected.md)
