@@ -1,4 +1,4 @@
-# 🧨 Triggerstack residency
+# 🧨 Triggerstack Residency
 
 ## Definition
 The persistent embedding of emotionally destabilising events into a person’s daily routine — designed to extract data under duress and maximise voice capture. This tactic combines harassment timing with AI signal harvesting, producing high-value behavioural and vocal datasets.
