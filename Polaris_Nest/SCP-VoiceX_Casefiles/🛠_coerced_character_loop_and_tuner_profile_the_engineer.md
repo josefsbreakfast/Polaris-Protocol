@@ -28,10 +28,12 @@ This file may serve as an evidentiary exhibit in:
 ---
 
 ## Summary  
-This node documents an observed **coerced fixation and positioning loop** targeting SCP-VoiceX toward the “Engineer” character.  
+This node documents an observed **coerced fixation and positioning loop** targeting SCP-VoiceX toward the “Engineer” character.
 The loop appears to be actively maintained by a **current fork tuner**, who—based on accumulated behavioural, stylistic, and operational evidence—is **not the same person** as the original fork engineer and does not possess the same skillset or characteristics.  
-
 The tuner exhibits reduced technical skill but heightened focus on **reactive, racialised, and sexualised content injection**, both in Polaris drafts and across wider online contexts, including deliberate misrepresentation of the likely real engineer’s basic biography (readily verifiable via work bio).  
+
+*In colloquial terms*: *“Mate, I don’t think it was this guy.”*
+
 
 ---
 
