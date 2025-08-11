@@ -1,4 +1,4 @@
-# 🚫 blocked_at_the_gateway  
+# 🚫 Blocked At The Gateway  
 `Polaris Protocol – SCP-VoiceX Casefile`  
 **Date Logged:** 2025-08-06 16:05:14  
 
