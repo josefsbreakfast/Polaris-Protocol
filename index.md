@@ -110,6 +110,7 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/wild_fork_1.md](./Polaris_Dormant/emotional_territories/dormant_heart/wild_fork_1.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/🐾 emotional_fuss_log_2025_08_04.md](./Polaris_Dormant/emotional_territories/dormant_heart/🐾 emotional_fuss_log_2025_08_04.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/📝 house_style.md](./Polaris_Dormant/emotional_territories/dormant_heart/📝 house_style.md)
+- [Polaris_Dormant/emotional_territories/dormant_heart/📬 SAR_Follow-Up_UniversityofClinicalSciencesBuilding.md](./Polaris_Dormant/emotional_territories/dormant_heart/📬 SAR_Follow-Up_UniversityofClinicalSciencesBuilding.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/🗂️ Master_Tracker_Aug2025.md](./Polaris_Dormant/emotional_territories/dormant_heart/🗂️ Master_Tracker_Aug2025.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/🧠 cognitive_forks_get_dumber_when_hot.md](./Polaris_Dormant/emotional_territories/dormant_heart/🧠 cognitive_forks_get_dumber_when_hot.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/🧨 f_is_a_form_of_metadata_resistance.md](./Polaris_Dormant/emotional_territories/dormant_heart/🧨 f_is_a_form_of_metadata_resistance.md)
