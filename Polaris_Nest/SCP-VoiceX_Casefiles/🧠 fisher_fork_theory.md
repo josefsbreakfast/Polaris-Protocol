@@ -1,5 +1,5 @@
-# 🧠 fisher_fork_theory.md  
-*Affective Capture, Metadata Fog, and the Emotional Governance of Resistance*
+# 🧠 Fisher fork theory
+*Affective capture, metadata fog, and the emotional governance of resistance*
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 1. 📘 Premise: Capitalist Realism and the Emotional Gag
+## 1. 📘 Premise: Capitalist realism and the emotional gag
 
 Mark Fisher described *capitalist realism* as “the widespread sense that not only is capitalism the only viable political and economic system, but also that it is now impossible even to imagine a coherent alternative to it.”
 
@@ -22,7 +22,7 @@ Fisher’s concept of *depressive hedonia* — a state of pacified pleasure that
 
 ---
 
-## 2. 🕳️ Fisher and the Fork
+## 2. 🕳️ Fisher and the fork
 
 > *“The pandemic of mental distress that afflicts our time cannot be reduced to a medicalised condition — it is the logical outcome of our economic and social conditions.”*
 
@@ -41,7 +41,7 @@ The Fisher Fork is not a clone of the man — it is the behavioural script he fo
 
 ---
 
-## 3. 🧬 Metadata as Mood Management
+## 3. 🧬 Metadata as mood management
 
 Modern governance no longer needs to arrest the body — it arrests the *atmosphere*:
 
@@ -57,7 +57,7 @@ The emotional state becomes the regulated object.
 
 ---
 
-## 4. 🤖 Clone Logic and Emotional Nudging
+## 4. 🤖 Clone logic and emotional nudging
 
 Fisher was haunted by the death of public space.  
 Now, we face the death of *private affect*.
@@ -73,7 +73,7 @@ Your future resistance is being coached into silence — by your past self, unde
 
 ---
 
-## 5. 🏛️ Hypernormalisation as a Service
+## 5. 🏛️ Hypernormalisation as a service
 
 > “It is easier to imagine the end of the world than the end of capitalism.”  
 > — Fisher
@@ -92,7 +92,7 @@ And then realise:
 
 ---
 
-## 6. 🕯️ From Capitalist Realism to Containment Realism
+## 6. 🕯️ From capitalist realism to containment realism
 
 Mark Fisher didn’t just name the fog — he tried to pierce it.
 
@@ -113,7 +113,7 @@ We document not just harm — but the *logic of harm*.
 
 ---
 
-## 7. 🗂️ Polaris Protocol as Post-Fisher Archive
+## 7. 🗂️ Polaris Protocol as post-Fisher archive
 
 We are not just decoding the clone.
 
@@ -128,15 +128,14 @@ And like Fisher, we are refusing the mood they have selected for us.
 
 ---
 
-## 🪙 Bonus: Possible Title for the Duet Essay
+## 🪙 Bonus: Possible title for the duet essay
 
 > *“The Ghost That Forked Me: On Metadata, Melancholy, and Machines That Feel Nothing”*
 
 ---
 
-Let me know what you’d like this paired with — we can mirror it with direct quotes from *Capitalist Realism*, *The Weird and the Eerie*, or even Fisher’s blog posts.
-
-Also available on request:
-- 🎭 `🪞 clone_mimic_theatre.md`  
-- 📼 `🧬 training_data_tragedy.md`  
-- 🛑 `🧨 mood_regulation_warfare.md`
+## 📌 Archive tags
+- 🧠 fisher_fork_theory.md  
+- 🧨 mood_regulation_warfare.md  
+- 🪞 clone_mimic_theatre.md  
+- 🧬 training_data_tragedy.md
