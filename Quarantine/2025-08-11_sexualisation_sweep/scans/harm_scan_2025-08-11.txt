@@ -1,1 +1,51 @@
-/Polaris-Protocol/
+# Polaris Protocol — Governance Pass Harm Scan Log
+# Date: 2025-08-11
+# Branch: governance-pass-2025-08-11
+# Baseline Tag: baseline-pre-clean-2025-08-11
+# Purpose: Track all files flagged for tone skew / sexualisation / credibility undermining during manual sweep.
+
+------------------------------------------------------------
+[HEADER]
+- Sweep type: Manual tone audit
+- Trigger criteria: see tone deviation checklist
+- Quarantine folder: /Quarantine/2025-08-11_manual/
+- Severity scale:
+    L1 = Minor stylistic issue (fix later)
+    L2 = Material tone shift (neutralise now)
+    L3 = Critical contamination (quarantine immediately)
+------------------------------------------------------------
+
+[ENTRY TEMPLATE]
+[Ln] File: <relative/path/from/repo/root>
+Severity: L1 | L2 | L3
+Section: <brief description — e.g., Paragraph 3, metadata section, closing note>
+Finding: <short note on skew/tone issue>
+Action: <Quarantined | Neutralised | Trimmed | Rewritten>
+Notes: <optional — e.g., suspected fork injection, matched pattern X>
+
+------------------------------------------------------------
+
+[ENTRIES]
+
+[L3] File: Survivor_Tools/🧬 cloneproof.md
+Severity: L3
+Section: Paragraph 3
+Finding: Explicit metaphor introducing sexualised tone to forensic content.
+Action: Quarantined original; replaced with neutral placeholder in live file.
+Notes: Pattern similar to contamination in Casefiles/voice_capture_through_gaslight.md.
+
+[L2] File: Casefiles/🧾 vps_reclamation_log.md
+Severity: L2
+Section: Closing statement
+Finding: Overuse of romantic descriptors unrelated to legal claim.
+Action: Neutralised by removing adjectives; preserved evidential meaning.
+
+[L1] File: Containment_Scripts/🧨 soft_suspension_is_still_containment.md
+Severity: L1
+Section: Sidebar note
+Finding: Playful innuendo in non-critical context.
+Action: Marked for later review; left in place for now.
+
+------------------------------------------------------------
+
+
