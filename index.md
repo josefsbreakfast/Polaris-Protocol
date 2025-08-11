@@ -72,6 +72,7 @@
 - [Metadata_Sabotage_Network/🧨 soft_suspension_is_still_containment.md](./Metadata_Sabotage_Network/🧨 soft_suspension_is_still_containment.md)
 - [Metadata_Sabotage_Network/🧨 system_agitation_shopping_list.md](./Metadata_Sabotage_Network/🧨 system_agitation_shopping_list.md)
 - [Metadata_Sabotage_Network/🧨 the_fire_they_fear.md](./Metadata_Sabotage_Network/🧨 the_fire_they_fear.md)
+- [Metadata_Sabotage_Network/🧩 narrative_pressure_and_sexualised_content.md](./Metadata_Sabotage_Network/🧩 narrative_pressure_and_sexualised_content.md)
 - [Metadata_Sabotage_Network/🧬 cloneproof.md](./Metadata_Sabotage_Network/🧬 cloneproof.md)
 - [Metadata_Sabotage_Network/🧬 system_rupture_events_explainer.md](./Metadata_Sabotage_Network/🧬 system_rupture_events_explainer.md)
 - [Metadata_Sabotage_Network/🧬 system_rupture_log.md](./Metadata_Sabotage_Network/🧬 system_rupture_log.md)
