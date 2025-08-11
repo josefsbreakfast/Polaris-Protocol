@@ -3,7 +3,7 @@
 Polaris Protocol – Metadata_Sabotage_Network  
 *(Created: 2025-08-07 | Last Updated: 2025-08-11)*
 
----
+--- 
 
 ## Summary
 This node documents the full evidentiary breakdown and live field observations of a LinkedIn thread authored by **Chloe VoiceX Birney**, addressing ICC/ICJ jurisdiction, British complicity in the Gaza genocide, and metadata misuse.  
