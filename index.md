@@ -141,6 +141,7 @@
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🛡️ disguised_control.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🛡️ disguised_control.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md)
+- [Polaris_Nest/SCP-VoiceX_Casefiles/AI_Clone_Architecture/README.md](./Polaris_Nest/SCP-VoiceX_Casefiles/AI_Clone_Architecture/README.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md](./Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md](./Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🧨_those_universities_used_my_bones.md](./Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🧨_those_universities_used_my_bones.md)
