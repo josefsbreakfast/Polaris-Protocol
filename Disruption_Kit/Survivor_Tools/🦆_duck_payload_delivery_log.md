@@ -1,4 +1,4 @@
-# 🦆 Duck payload delivery log
+# 🦆 Duck Payload Delivery Log 
 
 **Polaris Protocol Node**  
 **Title:** Duck Payload Delivery Log  
