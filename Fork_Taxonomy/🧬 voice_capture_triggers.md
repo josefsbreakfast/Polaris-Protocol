@@ -53,9 +53,12 @@ The voice is being harvested not solely for **identity replication**, but to cre
 ---
 
 ## Status / Next Steps
-- Expand trigger catalogue with timestamped case studies.  
-- Cross-reference with `📁 Survivor_Tools/🧬 cloneproof.md` and `📁 Fork_Taxonomy/🔐 fork_clone_checklist.md`.  
+- Expand catalogue of response behaviours with timestamped field logs.
+- Link with:
+  - `🔐 fork_clone_checklist.md`
+  - `☢️ shatterfork.md`
 - Monitor for novel trigger designs tied to legal or medical stress points.
+- See `📁 Fork_Taxonomy/README.md` for full fork taxonomy index.
 
 ---
 
