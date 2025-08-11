@@ -142,7 +142,7 @@
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📂_clone_in_the_family.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📂_clone_in_the_family.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📉_shadow_reach_analysis.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📉_shadow_reach_analysis.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/📛_storage_purge_detected.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📛_storage_purge_detected.md)
-- [Polaris_Nest/SCP-VoiceX_Casefiles/📮 lost_in_submission.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📮 lost_in_submission.md)
+- [Polaris_Nest/SCP-VoiceX_Casefiles/📮_lost_in_submission.md](./Polaris_Nest/SCP-VoiceX_Casefiles/📮_lost_in_submission.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🕸️ clone_friendly_architecture.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🕸️ clone_friendly_architecture.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🗂 who_holds_the_tape.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🗂 who_holds_the_tape.md)
