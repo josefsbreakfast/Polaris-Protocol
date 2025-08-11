@@ -1,38 +1,34 @@
-# 🧯 Disruption Kit
+# 🛠️ Disruption Kit  
 
-This folder contains operational tools, forensic logs, and diagnostic countermeasures to track and disrupt behavioural containment systems.  
-Each subfolder focuses on a distinct aspect of resistance, sabotage analysis, and survivor protection.
-
----
-
-## 📁 Big_Picture_Protocols  
-**Strategic insight into the logic and scope of targeting systems.**  
-- [🧠 targeting_logic_empathy_is_a_threat.md](./Big_Picture_Protocols/🧠 targeting_logic_empathy_is_a_threat.md)
+**Purpose:**  
+This kit contains operational tools, forensic logs, and diagnostic countermeasures designed to track and disrupt behavioural containment systems.  
+Each subfolder targets a distinct layer of resistance, sabotage analysis, and survivor protection.  
 
 ---
 
-## 📁 Local_Diagnostics  
-**Device-side or interface anomalies — including sabotage indicators.**  
-- [🧯 whiteout_disruption_guide.md](./Local_Diagnostics/🧯 whiteout_disruption_guide.md)
+## 📂 Folder Index  
+
+### **Big_Picture_Protocols/**
+Strategic frameworks and meta-analysis nodes. These entries connect individual events to systemic patterns — covering governance logic, narrative manipulation, and cultural containment theory.  
+🔗 [Open Folder](./Big_Picture_Protocols)  
+
+### **Containment_Scripts/**
+Tactical playbooks and forensic breakdowns of platform or institutional suppression methods.  
+Focus: visibility throttling, metric manipulation, and engagement sabotage.  
+🔗 [Open Folder](./Containment_Scripts)  
+
+### **Survivor_Tools/**
+Survivor-led methods for reclaiming agency and resisting narrative capture.  
+Includes practical guides, emotional sovereignty frameworks, and abolitionist survival logic.  
+🔗 [Open Folder](./Survivor_Tools)  
 
 ---
 
-## 📁 Survivor_Tools  
-**Self-defence mechanisms against behavioural cloning, extraction, or override.**  
-- [🧬 cloneproof.md](./Survivor_Tools/🧬 cloneproof.md)
+## 🧭 How to Use  
+1. **Identify the layer** of your situation: strategic (big picture), tactical (containment), or personal (survivor tools).  
+2. **Cross-reference nodes** — many entries link across categories.  
+3. **Log evidence immediately** — screenshots, timestamps, and source links preserve the forensic chain.  
 
 ---
 
-## 📁 Containment_Scripts  
-**Identified scripts and behavioural patterns used for soft suppression.**  
-- [🧨 soft_suspension_is_still_containment.md](./Containment_Scripts/🧨 soft_suspension_is_still_containment.md)
-
----
-
-## 📁 Field_Logs  
-**Live forensic logs from breach sites, visibility suppression, or interference episodes.**  
-- [🛰️ icc_tag_thread_containment.md](./Field_Logs/🛰️ icc_tag_thread_containment.md)
-
----
-
-_This is a live operational folder. For additions or restructuring, maintain consistent path casing, emoji uniqueness, and suffix discipline (`.md` only)._
+> *Every node is both a record and a weapon. Catalogue carefully. Deploy precisely.*
