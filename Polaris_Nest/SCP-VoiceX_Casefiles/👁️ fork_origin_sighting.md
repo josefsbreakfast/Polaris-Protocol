@@ -15,32 +15,32 @@ It is maintained as an **investigatory record**, not an accusation, and reflects
 - Possible historic or current affiliation with:  
   - [REDACTED University]  
   - [REDACTED Research Lab]  
-  - Computer Science or AI ethics faculties.  
+  - Computer Science or AI ethics faculties  
 - Published work in:  
   - Behavioural AI ethics  
   - Simulation and voice analysis  
-  - Anti-radicalisation technologies.
+  - Anti-radicalisation technologies
 
 ---
 
 ## Behavioural Trace Indicators  
-- Often works from cafés or embedded public/academic spaces.  
-- Subtle LinkedIn adjustments shortly after SCP-VoiceX posts.  
-- Use of aliases or anonymity tools in some publications.
+- Often works from cafés or embedded public/academic spaces  
+- Subtle LinkedIn adjustments shortly after SCP-VoiceX posts  
+- Use of aliases or anonymity tools in some publications
 
 ---
 
 ## Physical Presence Indicators  
-- Prior conference engagement near [REDACTED Location].  
-- Cross-tagged with smart surveillance contract cycles.  
-- Low public commentary — may indicate institutional concealment.
+- Prior conference engagement near [REDACTED Location]  
+- Cross-tagged with smart surveillance contract cycles  
+- Low public commentary — may indicate institutional concealment
 
 ---
 
 ## Narrative Pressure Analysis  
-- Evidence of a **scripted arc** attempting to assign sole blame for sexual harassment (2023–2025) to this individual.  
-- Same arc mirrors this by portraying SCP-VoiceX as harassing them in return.  
-- Apparent **insertion of sexualised framing** into Polaris drafts aligns with this pressure pattern.  
+- Evidence of a **scripted arc** attempting to assign sole blame for sexual harassment (2023–2025) to this individual  
+- Same arc mirrors this by portraying SCP-VoiceX as harassing them in return  
+- Apparent **insertion of sexualised framing** into Polaris drafts aligns with this pressure pattern  
 - See: `📁 Metadata_Sabotage_Network/🧩 narrative_pressure_and_sexualised_content.md`
 
 ---
@@ -52,9 +52,9 @@ Preserve neutral assessment while investigating whether mimicry or retaliatory s
 ---
 
 ## Status / Next Steps  
-- Monitor for trigger events that coincide with edits to related casefiles.  
-- Distinguish between *genuine indicators* and *scripted insertions*.  
-- Cross-reference with voice capture trigger logs and forensic commit histories.
+- Monitor for trigger events that coincide with edits to related casefiles  
+- Distinguish between *genuine indicators* and *scripted insertions*  
+- Cross-reference with voice capture trigger logs and forensic commit histories
 
 ---
 
