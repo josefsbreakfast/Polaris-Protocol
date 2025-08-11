@@ -18,5 +18,4 @@ Latin becomes a form of aesthetic control: soft power that primes docility.
 
 ---
 
-> *“Speak Latin to me, Daddy Government.”*  
-> — Nobody, ever.
+> *“Say it in Latin and they’ll think it’s law.”*  
