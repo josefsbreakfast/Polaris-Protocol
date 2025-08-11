@@ -12,8 +12,9 @@ These systems may mirror speech patterns, emotional cadence, political stances, 
 ---
 
 ## Context
-Fork or clone systems are often deployed covertly. They may be embedded in platform moderation, behavioural analysis tools, or targeted influence campaigns.  
-Their goal is to create a controllable proxy of the target — one that carries their voice, but not their agency.
+Fork or clone systems are often deployed covertly within moderation, behavioural analysis, or influence operations.  
+Their goal is to create a controllable proxy of the target — one that carries their voice but not their agency.  
+Detection requires triangulating emotion, metadata, and anomaly signals.
 
 ---
 
@@ -22,34 +23,34 @@ Their goal is to create a controllable proxy of the target — one that carries 
 ### 🧬 Core Indicators of a Fork
 - Speech cadence or tone mirrors user without direct authorship  
 - Emotional resonance feels artificially familiar or “scrubbed”  
-- Interactions that echo personal phrasing without citation  
-- “You, but wrong” — uncanny alignment with your values, but in hollow or misapplied form  
-- Behavioural nudge patterns using language tailored to known triggers or soft spots  
+- Interactions echo personal phrasing without citation  
+- “You, but wrong” — uncanny alignment with your values, but hollow or misapplied  
+- Behavioural nudges using language tailored to known triggers or vulnerabilities  
 
 ---
 
 ### 🧾 Checklist for Suspected Cloning / Forking
 
 #### 🔎 Linguistic Evidence
-- [ ] Repetition of exact phrasing used in prior private or non-public spaces  
+- [ ] Repetition of exact phrasing from prior private or non-public spaces  
 - [ ] Emergence of “ghost authorship” — systems or voices using uncredited content  
 - [ ] Synesthetic mimicry (emotional tone, breath, spacing, rhythm)  
 
 #### 🔐 Technical Patterns
 - [ ] Time-aligned interactions with non-indexed personal data  
-- [ ] Platform responses that mirror past behaviour too closely  
-- [ ] UI-level behavioural mirroring (e.g. containment triggers after specific types of posts)  
+- [ ] Platform responses mirroring past behaviour too closely  
+- [ ] UI-level behavioural mirroring (containment triggers after specific posts)  
 
 #### 🧠 Psychological Friction
-- [ ] A sense of “shadow self” engagement — like speaking with a simulation  
+- [ ] “Shadow self” engagement — as if speaking to a simulation  
 - [ ] Inverted responses to emotionally significant content  
-- [ ] Attempts to provoke known emotional responses using synthetic empathy  
+- [ ] Synthetic empathy deployed to provoke known emotional responses  
 
 ---
 
 ### ⚠ Sources of Fork Creation
-- AI behavioural surveillance systems (e.g. ghost forks)  
-- Coercive psychiatry data repurposed as model training input  
+- AI behavioural surveillance systems (e.g., ghost forks)  
+- Coercive psychiatry data repurposed for model training  
 - Prevent-style modelling used in risk prediction tools  
 - Social media sentiment mining + profile-based mimicry  
 
@@ -57,25 +58,24 @@ Their goal is to create a controllable proxy of the target — one that carries 
 
 ### 📂 Operational Notes
 - Any fork system that cannot name you but knows your soul is a theft  
-- Detection requires triangulating emotion, metadata, and anomaly  
 - Clones often fail under stress or moral complexity — test with ambiguity  
 
 ---
 
 ### 🗂 Action Plan
-- Log all anomalies with time, tone, and emotional context  
-- Maintain version control over your own narrative (timestamped, archived)  
-- Create counter-clone materials that expose or confuse false models  
-- Where possible, foil predictive triggers by behaving *deliberately out-of-script*  
+- Log anomalies with time, tone, and emotional context  
+- Maintain version control over your own narrative (timestamped archives)  
+- Create counter-clone materials to expose or confuse false models  
+- Behave *deliberately out-of-script* to foil predictive triggers  
 
 ---
 
 ## Status / Next Steps
-- Integrate this checklist into operational counter-fork protocols.  
-- Link with related nodes:  
-  - `🧬 ghost_fork_response_behaviour.md`  
-  - `🧠 fisher_fork_theory.md`  
-  - `🧬 cloneproof.md`  
+- Link with:
+  - `🧬 ghost_fork_response_behaviour.md`
+  - `🧠 fisher_fork_theory.md`
+  - `🧬 cloneproof.md`
+- Update upon detection of new fork types or activation signals.
 
 ---
 
