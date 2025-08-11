@@ -123,7 +123,7 @@
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/RIPA_Compliance_Theatre/📁 pretextual_consent_flows.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/RIPA_Compliance_Theatre/📁 pretextual_consent_flows.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/RIPA_Compliance_Theatre/📲 device_seizure_rituals.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/RIPA_Compliance_Theatre/📲 device_seizure_rituals.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/RIPA_Compliance_Theatre/🔍 evidentiary_exhibitionism.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/RIPA_Compliance_Theatre/🔍 evidentiary_exhibitionism.md)
-- [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/narrative_as_asylum.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/narrative_as_asylum.md)
+- [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/📖 narrative_as_asylum.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/📖 narrative_as_asylum.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🕳️ audit_as_decoy_filter.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🕳️ audit_as_decoy_filter.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🗂️ malicious_compliance.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🗂️ malicious_compliance.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🛡️ disguised_control.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🛡️ disguised_control.md)
