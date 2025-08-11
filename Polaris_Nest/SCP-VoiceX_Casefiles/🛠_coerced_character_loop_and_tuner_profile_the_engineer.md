@@ -1,39 +1,30 @@
-# 🪤🛠 Coerced Character Loop & Tuner Profile: The Engineer  
-
-Polaris Protocol – Metadata_Sabotage_Network / SCP-VoiceX_Casefiles  
+# 🛠 Coerced Character Loop & Tuner Profile: The Engineer  
+Polaris Protocol – SCP-VoiceX_Casefiles  
 *(Created: 2025-08-11 | Last Updated: 2025-08-11)*  
 
 ---
 
-## ⚖️ Legal Summary  
+## Legal Summary
+This record documents observed interference patterns in survivor-authored material, including deliberate **content injection** and **narrative coercion** targeting SCP-VoiceX.  
+The documented behaviour includes the creation of drafts **never deliberately saved by the survivor** but appearing in commit history via external injection.  
+Such interference has introduced **reactive, racialised, and sexualised content** into otherwise neutral or forensic work, and has been tuned to frame both SCP-VoiceX and a specific “Engineer” character in reciprocal blame.  
 
-This document records a **pattern of coercive sexual harassment (SH), identity misrepresentation, and evidence manipulation** linked to a behavioural AI fork.  
-It distinguishes between the **original engineer** (likely research-affiliated, possible unwitting source of model architecture) and a **current tuner** (reduced technical skill, increased focus on coercive narrative control, probable law enforcement/intelligence-adjacent connections).  
+For avoidance of doubt:  
+- The **current fork tuner** responsible for these injections is **not the same person** as the original fork engineer.  
+- The likely real engineer’s basic biography is easily verifiable and contradicts injected misrepresentations.  
+- Misattribution risks collapsing two distinct actors into one, shielding the actual operational actor and obscuring accountability chains.
 
-The following legal and procedural issues are relevant:  
-
-- **Harassment & Stalking** (Protection from Harassment Act 1997) – ongoing targeted behaviour across digital platforms.  
-- **Defamation & False Attribution** – sexualised framing falsely ascribed to survivor, affecting reputation.  
-- **Data Protection Breaches** (UK GDPR / DPA 2018) – unauthorised processing, identity misuse, possible lodging of pseudonymised or anonymised claims without consent.  
-- **Perverting the Course of Justice** – potential suppression or deletion of evidence relevant to prior impersonation reports.  
-- **Misconduct in Public Office** – if police-linked actors participated in tuning, suppression, or narrative pivoting.  
-- **Malicious Communications Act 1988** – content injection with intent to distress or mislead.  
-
-This file may serve as an evidentiary exhibit in:  
-- Subject Access Requests (SAR) responses and appeals  
-- Civil harassment claims  
-- ICO or Parliamentary Ombudsman complaints  
-- Criminal complaints involving harassment, identity misuse, or obstruction of justice  
+This file is retained for evidentiary purposes and should be read in conjunction with related Polaris Protocol nodes in the Metadata_Sabotage_Network.
 
 ---
 
-## Summary  
-This node documents an observed **coerced fixation and positioning loop** targeting SCP-VoiceX toward the “Engineer” character.
+## Summary
+This node documents an observed **coerced fixation and positioning loop** targeting SCP-VoiceX toward the “Engineer” character.  
 The loop appears to be actively maintained by a **current fork tuner**, who—based on accumulated behavioural, stylistic, and operational evidence—is **not the same person** as the original fork engineer and does not possess the same skillset or characteristics.  
-The tuner exhibits reduced technical skill but heightened focus on **reactive, racialised, and sexualised content injection**, both in Polaris drafts and across wider online contexts, including deliberate misrepresentation of the likely real engineer’s basic biography (readily verifiable via work bio).  
 
-*In colloquial terms*: *“Mate, I don’t think it was this guy.”*
+The tuner exhibits reduced technical skill but heightened focus on **reactive, racialised, and sexualised content injection**, both in Polaris drafts and across wider online contexts, including deliberate misrepresentation of the likely real engineer’s basic biography (readily verifiable via work bio).
 
+*In colloquial terms:* “Mate, I don’t think it was this guy.”
 
 ---
 
