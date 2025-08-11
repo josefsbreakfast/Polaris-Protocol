@@ -14,7 +14,7 @@ These are live operational patterns, tracked for forensic evidence and counterme
 
 ### [`🧨 Comment Order Is A Governance Layer`](./🧨_comment_order_is_a_governance_layer.md)  
 Logs manipulation of comment sequencing to distort tone and perceived support.  
-**Links:** [`narrative_management_and_metadata_sabotage.md`](../Big_Picture_Protocols/narrative_management_and_metadata_sabotage.md)
+**Links:** [`🗡 Narrative Management And Metadata Sabotage`](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_storage.md)
 
 ---
 
