@@ -8,7 +8,6 @@
 - [Disruption_Kit/Containment_Scripts/🧨 comment_order_is_a_governance_layer.md](./Disruption_Kit/Containment_Scripts/🧨 comment_order_is_a_governance_layer.md)
 - [Disruption_Kit/Containment_Scripts/🧨 delayed_visibility_is_a_signal.md](./Disruption_Kit/Containment_Scripts/🧨 delayed_visibility_is_a_signal.md)
 - [Disruption_Kit/Containment_Scripts/🧨 reach_metrics_are_not_neutral.md](./Disruption_Kit/Containment_Scripts/🧨 reach_metrics_are_not_neutral.md)
-- [Disruption_Kit/Containment_Scripts/🧨 soft_suspension_is_still_containment.md](./Disruption_Kit/Containment_Scripts/🧨 soft_suspension_is_still_containment.md)
 - [Disruption_Kit/README.md](./Disruption_Kit/README.md)
 - [Disruption_Kit/Survivor_Tools/🧬 we_don’t_want_your_cells_we_want_each_other.md](./Disruption_Kit/Survivor_Tools/🧬 we_don’t_want_your_cells_we_want_each_other.md)
 - [Disruption_Kit/☕🫖 uk_gov_national_security_risk.md](./Disruption_Kit/☕🫖 uk_gov_national_security_risk.md)
