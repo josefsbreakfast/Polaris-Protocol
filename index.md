@@ -131,6 +131,7 @@
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md](./Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md)
+- [Polaris_Nest/SCP-VoiceX_Casefiles/redacted_report_as_erasure_device.md](./Polaris_Nest/SCP-VoiceX_Casefiles/redacted_report_as_erasure_device.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/⚖️ judge_frankness_marker.md](./Polaris_Nest/SCP-VoiceX_Casefiles/⚖️ judge_frankness_marker.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/⚖️ stovewood_civil_containment.md](./Polaris_Nest/SCP-VoiceX_Casefiles/⚖️ stovewood_civil_containment.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🌟 survivor_star_seeker.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🌟 survivor_star_seeker.md)
