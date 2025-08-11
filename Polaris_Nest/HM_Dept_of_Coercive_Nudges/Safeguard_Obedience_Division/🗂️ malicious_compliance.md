@@ -1,4 +1,4 @@
-# 🗂️ Polaris Protocol: `malicious_compliance.md`
+# 🗂️ Polaris Protocol: `Malicious Compliance`
 > *When surviving the job means not helping anyone.*
 
 ---
