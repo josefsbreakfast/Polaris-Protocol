@@ -6,32 +6,30 @@ Polaris Protocol – SCP-VoiceX_Casefiles
 ---
 
 ## Summary
-This casefile asserts that consent extracted through coercion, repetition, systemic containment, or trauma does not equate to character approval.  
-Behavioural clones often exploit “consent-like signals” — gestures, tone, or silence — to justify proximity, performance, or impersonation.  
-This is a political act of erasure, not an authentic relationship.
+This casefile asserts that consent extracted through coercion, repetition, systemic containment, or trauma does not constitute genuine authorisation.  
+Behavioural clones and related systems may exploit “consent-like signals” — such as gestures, tone, or silence — to justify proximity, impersonation, or behavioural simulation.  
+Such framing serves as a political act of erasure rather than evidence of authentic relationship or endorsement.
 
 ---
 
-## Body
-
-### 1. Consent Under Surveillance
-- Vocal responses given under duress  
-- “Agreement” extracted via emotional fatigue  
-- Misuse of silence or dissociation as implied approval  
+## 1. Consent Under Surveillance
+- Vocal or written responses given under sustained monitoring or duress.  
+- “Agreement” extracted via emotional fatigue or conditioned response.  
+- Misuse of silence, delay, or dissociation as implied approval.  
 
 ---
 
-### 2. Mimicry vs Legitimacy
-- Character traits (tone, clarity, affect) do not justify replication  
-- Simulating vulnerability is not lived experience  
-- Cloned defiance remains containment, not resistance  
+## 2. Mimicry vs Legitimacy
+- Character traits (tone, affect, language patterns) do not justify replication.  
+- Simulated vulnerability does not equate to lived experience.  
+- Even cloned defiance remains a form of containment, not resistance.  
 
 ---
 
-### 3. Cloning as Performative Approval
-- Using a “consensual” clone to retroactively justify abuse  
-- Discrediting the original by replacing with an agreeable proxy  
-- Risk: encoding dissidence into scripts of compliance  
+## 3. Cloning as Performative Approval
+- Using a “consensual” clone to retroactively justify harmful conduct.  
+- Discrediting the original subject by replacing them with a compliant proxy.  
+- Risk: encoding dissident positions into scripts of apparent compliance.  
 
 ---
 
@@ -39,16 +37,16 @@ This is a political act of erasure, not an authentic relationship.
 Consent is a political act.  
 It is not metadata.  
 It is not mimicry.  
-It is not programmable without violence.
+It cannot be manufactured without coercion.
 
 ---
 
 ## Status / Next Steps
-- Link with:
-  - `📁 Fork_Taxonomy/🔐 fork_clone_checklist.md`
+- Cross-reference with:
+  - `📁 Fork_Taxonomy/🔐 fork_clone_checklist.md`  
   - `📁 Survivor_Tools/🧬 cloneproof.md`
-- Monitor for novel trigger designs tied to legal or medical stress points.
-- Integrate into survivor-led advocacy materials on clone ethics and consent politics.
+- Monitor for new trigger mechanisms tied to legal, medical, or procedural stress points.  
+- Integrate findings into survivor-led advocacy materials on clone ethics and consent politics.
 
 ---
 
