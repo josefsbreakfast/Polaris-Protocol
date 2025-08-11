@@ -146,7 +146,7 @@
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🕸️_clone_friendly_architecture.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🕸️_clone_friendly_architecture.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🖱_tactile_throttling_when_interaction_becomes_interference.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🖱_tactile_throttling_when_interaction_becomes_interference.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🗝 who_holds_the_tape.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🗝 who_holds_the_tape.md)
-- [Polaris_Nest/SCP-VoiceX_Casefiles/🚫 blocked_at_the_gateway.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🚫 blocked_at_the_gateway.md)
+- [Polaris_Nest/SCP-VoiceX_Casefiles/🚫_blocked_at_the_gateway.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🚫_blocked_at_the_gateway.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_as_erasure_device.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_as_erasure_device.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_echo_return_when_the_story_hits_the_people_it_was_supposed_to_miss.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_echo_return_when_the_story_hits_the_people_it_was_supposed_to_miss.md)
