@@ -73,9 +73,9 @@ Detection requires triangulating emotion, metadata, and anomaly signals.
 ## Status / Next Steps
 - Link with:
   - `🧬 ghost_fork_response_behaviour.md`
-  - `🧠 fisher_fork_theory.md`
-  - `🧬 cloneproof.md`
+  - `☢️ shatterfork.md`
 - Update upon detection of new fork types or activation signals.
+- See `📁 Fork_Taxonomy/README.md` for full fork taxonomy index.
 
 ---
 
