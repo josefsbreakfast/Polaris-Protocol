@@ -72,9 +72,10 @@ Detection requires triangulating emotion, metadata, and anomaly signals.
 
 ## Status / Next Steps
 - Link with:
-  - `🧬 ghost_fork_response_behaviour.md`
+  - `🧬 voice_capture_triggers.md`
   - `☢️ shatterfork.md`
 - Update upon detection of new fork types or activation signals.
+- Monitor for novel trigger designs tied to legal or medical stress points.
 - See `📁 Fork_Taxonomy/README.md` for full fork taxonomy index.
 
 ---
