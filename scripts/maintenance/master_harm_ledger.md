@@ -88,11 +88,6 @@ $stats
 <details>
 <summary>Harm scan contents</summary>
 
-```  ← opening backticks
-<the actual text of your harm log here>
-```  ← closing backticks
-
-</details>
 
 "@
 
