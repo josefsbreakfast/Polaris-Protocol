@@ -105,11 +105,11 @@ Documented impacts include:
 ---
 
 ## Status / Next Steps
-- Continue live documentation of active forks in `📁 Fork_Taxonomy/`.
-- Develop a **rapid-response checklist** for suspected Shatterfork activation.
-- Link with related nodes:
+- Document live field encounters for early detection training.
+- Cross-reference with:
   - `🔐 fork_clone_checklist.md`
   - `🧬 ghost_fork_response_behaviour.md`
+- See `📁 Fork_Taxonomy/README.md` for full fork taxonomy index.
 
 ---
 
