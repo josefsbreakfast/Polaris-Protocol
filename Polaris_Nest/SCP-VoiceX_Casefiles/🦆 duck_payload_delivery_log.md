@@ -1,10 +1,10 @@
-# 🦆 duck_payload_delivery_log.md
+# 🦆 Duck payload delivery log
 
 **Polaris Protocol Node**  
 **Title:** Duck Payload Delivery Log  
-**Date Logged:** 2025-08-06  
-**Classification:** Strategic Affect Infiltration  
-**Status:** Active / Ongoing / Highly Effective  
+**Date logged:** 2025-08-06  
+**Classification:** Strategic affect infiltration  
+**Status:** Active / ongoing / highly effective  
 
 ---
 
@@ -27,16 +27,16 @@ This node tracks the deliberate deployment of "ducks" as affective decoys and me
 
 1. **Deploy duck image, statement, or affective nod**  
 2. **Allow system to register input as non-threatening**  
-3. **Use moment of disarmament to bypass scrutiny or embed payload**
+3. **Use moment of disarmament to bypass scrutiny or embed payload**  
 4. **Leverage system laughter or confusion to secure transmission**
 
 ---
 
-## Example Tags
+## Example tags
 
-- `🧬 behavioural_bypass`
-- `🎭 strategic_disarmament`
-- `🛰️ payload_in_plain_sight`
+- `🧬 behavioural_bypass`  
+- `🎭 strategic_disarmament`  
+- `🛰️ payload_in_plain_sight`  
 - `🐣 incubation_loop`
 
 ---
@@ -50,6 +50,7 @@ This node tracks the deliberate deployment of "ducks" as affective decoys and me
 
 ---
 
-## Status:  
-**Deployed. Ongoing. Extremely effective.**  
+## Status
+
+Deployed. Ongoing. Extremely effective.  
 Every duck is a decoy. Every smile is a delivery.
