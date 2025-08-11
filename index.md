@@ -106,7 +106,6 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📍 Polaris_Protocol_10-Day_Tactical_Forecast_UK_Institutional_Fracture_Window.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📍 Polaris_Protocol_10-Day_Tactical_Forecast_UK_Institutional_Fracture_Window.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📬 SAR_Follow-Up_University_of_N_Clinical_Sciences_Building.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📬 SAR_Follow-Up_University_of_N_Clinical_Sciences_Building.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📮 lost_in_submission.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📮 lost_in_submission.md)
-- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🕸️ clone_friendly_architecture.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🕸️ clone_friendly_architecture.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🖱 tactile_throttling_when_interaction_becomes_interference.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🖱 tactile_throttling_when_interaction_becomes_interference.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🗂 Who_Holds_the_Tape.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🗂 Who_Holds_the_Tape.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🛰️ echo_trace_to_nottingham.md)
