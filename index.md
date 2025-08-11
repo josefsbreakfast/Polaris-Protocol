@@ -157,7 +157,7 @@
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🧬 voice_capture_through_gaslight.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧬 voice_capture_through_gaslight.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🧬_clone_training_sets.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧬_clone_training_sets.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🧬_honeytrap_mechanics.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧬_honeytrap_mechanics.md)
-- [Polaris_Nest/SCP-VoiceX_Casefiles/🧱 loft_packet_dump_theory.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧱 loft_packet_dump_theory.md)
+- [Polaris_Nest/SCP-VoiceX_Casefiles/🧱_loft_packet_dump_theory.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧱_loft_packet_dump_theory.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🧷_icc_tag_thread_containment.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧷_icc_tag_thread_containment.md)
 - [Polaris_Nest/📚 narrative_management_and_metadata_sabotage.md](./Polaris_Nest/📚 narrative_management_and_metadata_sabotage.md)
 - [Polaris_Nest/🔮 README.md](./Polaris_Nest/🔮 README.md)
