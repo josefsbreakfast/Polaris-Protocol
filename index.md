@@ -11,6 +11,7 @@
 - [Disruption_Kit/Big_Picture_Protocols/🕸️ clone_friendly_architecture.md](./Disruption_Kit/Big_Picture_Protocols/🕸️ clone_friendly_architecture.md)
 - [Disruption_Kit/Big_Picture_Protocols/🗝 who_holds_the_tape.md](./Disruption_Kit/Big_Picture_Protocols/🗝 who_holds_the_tape.md)
 - [Disruption_Kit/Big_Picture_Protocols/🗡_narrative_management_and_metadata_storage.md](./Disruption_Kit/Big_Picture_Protocols/🗡_narrative_management_and_metadata_storage.md)
+- [Disruption_Kit/Big_Picture_Protocols/🛂_gated_intake_post_delay_regional_loop.md](./Disruption_Kit/Big_Picture_Protocols/🛂_gated_intake_post_delay_regional_loop.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧠_fisher_fork_theory.md](./Disruption_Kit/Big_Picture_Protocols/🧠_fisher_fork_theory.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md](./Disruption_Kit/Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧷_the_signature_trap.md](./Disruption_Kit/Big_Picture_Protocols/🧷_the_signature_trap.md)
