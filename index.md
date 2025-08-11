@@ -147,7 +147,6 @@
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ echo_return_when_the_story_hits_the_people_it_was_supposed_to_miss.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ echo_return_when_the_story_hits_the_people_it_was_supposed_to_miss.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ forensic_thread_analysis_icc_2025-08-07.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ forensic_thread_analysis_icc_2025-08-07.md)
-- [Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ icc_tag_thread_containment.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ icc_tag_thread_containment.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🦆 duck_payload_delivery_log.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🦆 duck_payload_delivery_log.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🧠 fisher_fork_theory.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧠 fisher_fork_theory.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🧨 that_university_used_my_bones.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧨 that_university_used_my_bones.md)
