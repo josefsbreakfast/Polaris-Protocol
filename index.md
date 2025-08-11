@@ -151,7 +151,7 @@
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_as_erasure_device.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_as_erasure_device.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_echo_return_when_the_story_hits_the_people_it_was_supposed_to_miss.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_echo_return_when_the_story_hits_the_people_it_was_supposed_to_miss.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_forensic_thread_analysis_icc_2025-08-07.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
-- [Polaris_Nest/SCP-VoiceX_Casefiles/🦆 duck_payload_delivery_log.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🦆 duck_payload_delivery_log.md)
+- [Polaris_Nest/SCP-VoiceX_Casefiles/🦆_duck_payload_delivery_log.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🦆_duck_payload_delivery_log.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🧨 those_universities_used_my_bones.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧨 those_universities_used_my_bones.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🧨 triggerstack_residency.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧨 triggerstack_residency.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🧬 clone_training_sets.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🧬 clone_training_sets.md)
