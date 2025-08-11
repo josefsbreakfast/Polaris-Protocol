@@ -85,7 +85,6 @@
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace2.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/containment_contract_trace2.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/template_entry.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/template_entry.md)
-- [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🎭 consent_is_not_character.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🎭 consent_is_not_character.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🏛️ ethical_return_request.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/🏛️ ethical_return_request.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/👁️ fork_origin_sighting.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/👁️ fork_origin_sighting.md)
 - [Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📂 clone_in_the_family.md](./Polaris_Dormant/emotional_territories/dormant_heart/Drafts/📂 clone_in_the_family.md)
