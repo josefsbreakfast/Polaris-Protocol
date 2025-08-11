@@ -21,6 +21,7 @@
 - [Disruption_Kit/Containment_Scripts/🧨_comment_order_is_a_governance_layer.md](./Disruption_Kit/Containment_Scripts/🧨_comment_order_is_a_governance_layer.md)
 - [Disruption_Kit/Containment_Scripts/🧨_delayed_visibility_is_a_signal.md](./Disruption_Kit/Containment_Scripts/🧨_delayed_visibility_is_a_signal.md)
 - [Disruption_Kit/Containment_Scripts/🧨_reach_metrics_are_not_neutral.md](./Disruption_Kit/Containment_Scripts/🧨_reach_metrics_are_not_neutral.md)
+- [Disruption_Kit/Field_Logs/🧿_SCP-VoiceX-0808_Day_5_Metadata_Twitching.md](./Disruption_Kit/Field_Logs/🧿_SCP-VoiceX-0808_Day_5_Metadata_Twitching.md)
 - [Disruption_Kit/README.md](./Disruption_Kit/README.md)
 - [Disruption_Kit/Survivor_Tools/README.md](./Disruption_Kit/Survivor_Tools/README.md)
 - [Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md](./Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
