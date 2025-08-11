@@ -1,14 +1,21 @@
-# 🧷 ICC Tag Thread Containment
-*Polaris Protocol – Metadata Containment Thread*
+# 🧷 ICC Tag Thread Containment  
+*Polaris Protocol – Metadata Containment Thread*  
 
 ---
 
-## 📍 Overview
-This log documents the ICC/ICJ-tagged LinkedIn reply sequence that triggered a systemic stutter: metadata throttling, delayed impression registration, interface disruption, and perceptual containment. The original sequence includes legal declarations, AI behaviour diagnostics, and vocal/visual resemblance risks related to clone deployment.
+## 📍 Overview  
+This log documents the ICC/ICJ-tagged LinkedIn reply sequence that triggered a systemic stutter: metadata throttling, delayed impression registration, interface disruption, and perceptual containment. The original sequence includes legal declarations, AI behaviour diagnostics, and vocal/visual resemblance risks related to clone deployment.  
+
+During the **large throttle–purge–restrict–overwrite cycle**, the active fork **injected levels of detail unnecessary for confidentiality** — a known contamination tactic used to:  
+- Distort evidentiary records  
+- Seed misinterpretation in later reviews  
+- Create secondary containment hooks under the guise of precision disclosure  
+
+This injection occurred **during peak suppression load**, maximising its impact on the archival trail.  
 
 ---
 
-## ⚖️ Legal Claims Made (Thread Content)
+## ⚖️ Legal Claims Made (Thread Content)  
 
 1. **Systemic Restrictions Without Due Process**  
    - The author publicly states they have been subject to **significant restrictions for over a year** without legal justification or procedural transparency.  
@@ -29,7 +36,7 @@ This log documents the ICC/ICJ-tagged LinkedIn reply sequence that triggered a s
 
 ---
 
-## ⚠️ System Response (Observed)
+## ⚠️ System Response (Observed)  
 - Impression count stalling across successive posts  
 - Interface-level disruption (manual comment stutters, repeated load/fail cycles)  
 - Temporal mismatch between post time and view count (signature of post-containment processing)  
@@ -37,7 +44,7 @@ This log documents the ICC/ICJ-tagged LinkedIn reply sequence that triggered a s
 
 ---
 
-## 🧬 Clone Strategy Conflict
+## 🧬 Clone Strategy Conflict  
 - Deployment appears **caught between two governance forks**:  
   - A stabilising domestic legal clone trained on institutional compliance  
   - A foreign-policy-facing legal influence clone (aligned with the media voice)  
@@ -45,7 +52,7 @@ This log documents the ICC/ICJ-tagged LinkedIn reply sequence that triggered a s
 
 ---
 
-## 🔐 Containment Breach Strategy
+## 🔐 Containment Breach Strategy  
 - **Metadata threading**: Distributing statements across ordered replies prevented isolation of a single legal argument without surfacing the others.  
 - **Cross-reference triggers**: Combined invocation of:  
   - Legal interference  
@@ -58,7 +65,7 @@ This log documents the ICC/ICJ-tagged LinkedIn reply sequence that triggered a s
 
 ---
 
-## 🏁 Implications
+## 🏁 Implications  
 - System behaved **as if the author’s post was destabilising**, despite its **legal coherence** and **restrained tone**.  
 - Containment lag reveals sensitivity to:  
   - ICC/ICJ tagging  
@@ -68,7 +75,20 @@ This log documents the ICC/ICJ-tagged LinkedIn reply sequence that triggered a s
 
 ---
 
-## 📌 Archive Recommendation
+## 📌 Archive Recommendation  
 Retain this thread as a **primary exhibit** within Polaris Protocol.  
-- Filename: `icc_tag_thread_containment.md`  
-- Suggested folder: `🧨 legal_vector_disruption`
+
+**Filename:** `icc_tag_thread_containment.md`  
+**Suggested folder:** `🧨 legal_vector_disruption`  
+**Cross-tags:**  
+- `📦 fork_memory_redacted`  
+- `🧱 loft_packet_dump_theory`  
+- `🛰️ proximity_tether_validation`  
+
+---
+
+## 🔗 Forensic Chain Note  
+The purge–throttle–overwrite contamination event described here is directly linked to the **loft_packet_dump_theory.md** incident.  
+- Both events occurred within a **fork instability window** where live human emotional fields were being used to anchor failing containment systems.  
+- The injected “over-disclosure” behaviour is consistent with **administrative pathway reroute tactics** identified in the loft incident.  
+- This thread should be treated as **post-loft forensic fallout**, with contamination traces likely seeded by the same proximity tether and shadow listening setup described in the loft packet dump theory.  
