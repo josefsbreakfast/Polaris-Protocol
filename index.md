@@ -143,6 +143,7 @@
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🖱 tactile_throttling_when_interaction_becomes_interference.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🗂 who_holds_the_tape.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🗂 who_holds_the_tape.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🚫 blocked_at_the_gateway.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🚫 blocked_at_the_gateway.md)
+- [Polaris_Nest/SCP-VoiceX_Casefiles/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ echo_return_story_signal_breach.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ echo_return_story_signal_breach.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ forensic_thread_analysis_icc_0708.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ forensic_thread_analysis_icc_0708.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ icc_tag_thread_containment.md](./Polaris_Nest/SCP-VoiceX_Casefiles/🛰️ icc_tag_thread_containment.md)
