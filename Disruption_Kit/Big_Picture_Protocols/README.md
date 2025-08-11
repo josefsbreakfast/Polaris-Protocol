@@ -13,16 +13,26 @@ These entries interlink with **Containment Scripts**, **Survivor Tools**, and **
 
 ## 📂 Files
 
-### [`🪝 fisher_surveillance_addendum.md`](./fisher_surveillance_addendum.md)  
+---
+
+### [`🧠 fisher_fork_theory.md`](./fisher_fork_theory.md)  
+Applies Mark Fisher’s critique to surveillance capitalism, behavioural nudging, and identity suppression.  
+Connects capitalist realism to live containment behaviours.  
+**Links:** [`fisher_surveillance_addendum.md`](./fisher_surveillance_addendum.md) · [`the_illusion_of_choice.md`](./the_illusion_of_choice.md)
+
+---
+
+### [`📡 fisher_surveillance_addendum.md`](./fisher_surveillance_addendum.md)  
 Extends *Fisher Fork Theory* with a surveillance-culture lens.  
 **Links:** [`fisher_fork_theory.md`](./fisher_fork_theory.md) · [`targeting_logic_empathy_is_a_threat.md`](./targeting_logic_empathy_is_a_threat.md)
 
 ---
 
-### [`🪝 fisher_fork_theory.md`](./fisher_fork_theory.md)  
-Applies Mark Fisher’s critique to surveillance capitalism, behavioural nudging, and identity suppression.  
-Connects capitalist realism to live containment behaviours.  
-**Links:** [`fisher_surveillance_addendum.md`](./fisher_surveillance_addendum.md) · [`the_illusion_of_choice.md`](./the_illusion_of_choice.md)
+### [`🧷 the_signature_trap.md`](./the_signature_trap.md)  
+Case study of how public solidarity acts (e.g. petitions) are repurposed into **behavioural datasets**.  
+Details the capture of signatory data for surveillance indexing, AI training, and ideological mapping — without informed consent.  
+**Links:** [`targeting_logic_empathy_is_a_threat.md`](./targeting_logic_empathy_is_a_threat.md) · [`the_illusion_of_choice.md`](./the_illusion_of_choice.md)
+
 
 ---
 
