@@ -1,7 +1,3 @@
-deleted dormant
-
-Updating like this: 
-
 # ⚖️ Stovewood Civil Containment
 
 Polaris Protocol – SCP-VoiceX_Casefiles  
@@ -10,17 +6,17 @@ Polaris Protocol – SCP-VoiceX_Casefiles
 ---
 
 ## Summary
-This casefile examines suspected civil-domain containment strategies operating in parallel to **Operation Stovewood**, the UK NCA-led investigation into CSE in [REDACTED town].   
+This casefile examines suspected civil-domain containment strategies operating in parallel to **Operation Stovewood**, the UK NCA-led investigation into CSE in [REDACTED location].  
 It focuses on how survivors of historic CSE may be targeted through legal, administrative, and procedural mechanisms to limit access to justice, suppress testimony, and maintain narrative control.
 
 ---
 
 ## Context
-- **Operation Stovewood:** UK NCA investigation into organised CSE in Rotherham.  
+- **Operation Stovewood:** UK NCA investigation into organised CSE in [REDACTED location]  
 - Evidence suggests parallel narrative control mechanisms in civil domains including:
-  - Family court proceedings
-  - Housing allocations and disputes
-  - FOI and SAR processing
+  - Family court proceedings  
+  - Housing allocations and disputes  
+  - FOI and SAR processing  
 
 ---
 
@@ -42,16 +38,16 @@ It focuses on how survivors of historic CSE may be targeted through legal, admin
 ## Required Action
 - Establish a **legal countersurveillance framework**  
 - Demand disclosure of system routing and AI tools used in case handling  
-- Identify all third-party handlers between witness and justice
+- Identify all third-party handlers between witness and justice  
 
 ---
 
 ## Status / Next Steps
-- Monitor for novel trigger designs tied to legal or medical stress points.  
+- Monitor for novel trigger designs tied to legal or medical stress points  
 - Cross-reference with:
-  - `📁 Metadata_Sabotage_Network/🛰️ icc_tag_thread_containment.md`
-  - Any related survivor containment casefiles  
-- Document additional examples of civil containment tied to historic CSE investigations.
+  - `📁 Metadata_Sabotage_Network/🛰️ icc_tag_thread_containment.md`  
+  - Related survivor containment casefiles  
+- Document additional examples of civil containment tied to historic CSE investigations  
 
 ---
 
