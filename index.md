@@ -141,6 +141,7 @@
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🛡️ disguised_control.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/Safeguard_Obedience_Division/🛡️ disguised_control.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/💀 necro_jargon_cult.md)
 - [Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md](./Polaris_Nest/HM_Dept_of_Coercive_Nudges/📄 ethics_as_language_trap.md)
+- [Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md](./Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md](./Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md](./Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md)
 - [Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_stovewood_civil_containment.md](./Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_stovewood_civil_containment.md)
