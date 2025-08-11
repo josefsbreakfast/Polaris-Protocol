@@ -88,6 +88,10 @@ $stats
 <details>
 <summary>Harm scan contents</summary>
 
+$($dailyContent.TrimEnd())
+
+
+</details>
 
 "@
 
@@ -100,3 +104,4 @@ Write-Host ("Files touched: {0}" -f $uniqueFiles) -ForegroundColor White
 Write-Host ("L3 (Critical): {0}" -f $L3) -ForegroundColor Red
 Write-Host ("L2 (Material): {0}" -f $L2) -ForegroundColor Yellow
 Write-Host ("L1 (Minor)   : {0}" -f $L1) -ForegroundColor Green
+
