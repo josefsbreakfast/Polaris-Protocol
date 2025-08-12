@@ -14,6 +14,7 @@
 - [Disruption_Kit/Big_Picture_Protocols/🛂_gated_intake_post_delay_regional_loop.md](./Disruption_Kit/Big_Picture_Protocols/🛂_gated_intake_post_delay_regional_loop.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧠_fisher_fork_theory.md](./Disruption_Kit/Big_Picture_Protocols/🧠_fisher_fork_theory.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md](./Disruption_Kit/Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md)
+- [Disruption_Kit/Big_Picture_Protocols/🧠_the_science_that_survives_borders.md](./Disruption_Kit/Big_Picture_Protocols/🧠_the_science_that_survives_borders.md)
 - [Disruption_Kit/Big_Picture_Protocols/🧷_the_signature_trap.md](./Disruption_Kit/Big_Picture_Protocols/🧷_the_signature_trap.md)
 - [Disruption_Kit/Big_Picture_Protocols/🪞_the_illusion_of_choice.md](./Disruption_Kit/Big_Picture_Protocols/🪞_the_illusion_of_choice.md)
 - [Disruption_Kit/Containment_Scripts/README.md](./Disruption_Kit/Containment_Scripts/README.md)
