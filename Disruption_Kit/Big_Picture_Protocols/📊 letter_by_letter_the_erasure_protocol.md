@@ -1,5 +1,5 @@
 # 📊 letter_by_letter_the_erasure_protocol
-**First created:** 2025-08-12  
+**First created:** 2025-08-08  
 **Last updated:** 2025-08-12  
 *Polaris Protocol Node — Linguistic Erasure and Vocal Profiling*
 
