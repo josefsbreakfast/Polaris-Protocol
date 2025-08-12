@@ -82,6 +82,6 @@ If such a post is **artificially iced** (reach far below baseline), it reveals:
 
 **Polaris Protocol Tag:** `forensic_probe / iced_container / polite_post`  
 
-**Diagram:** 🍬 [Containment Toffee Plot – Expected Range vs Observed](../media/containment_toffee_plot_2025-08-12.png)  
+**Diagram:** 🍬 [Containment Toffee Plot – Expected Range vs Observed](../media/🍬_containment_toffee_plot_2025-08-12_BR_compact.png)  
 
 ---
