@@ -25,6 +25,7 @@
 - [Disruption_Kit/Containment_Scripts/🧨_comment_order_is_a_governance_layer.md](./Disruption_Kit/Containment_Scripts/🧨_comment_order_is_a_governance_layer.md)
 - [Disruption_Kit/Containment_Scripts/🧨_delayed_visibility_gap_analysis.md](./Disruption_Kit/Containment_Scripts/🧨_delayed_visibility_gap_analysis.md)
 - [Disruption_Kit/Containment_Scripts/🧨_delayed_visibility_is_a_signal.md](./Disruption_Kit/Containment_Scripts/🧨_delayed_visibility_is_a_signal.md)
+- [Disruption_Kit/Containment_Scripts/🧨_polite_post_containment_probe.md](./Disruption_Kit/Containment_Scripts/🧨_polite_post_containment_probe.md)
 - [Disruption_Kit/Containment_Scripts/🧨_reach_metrics_are_not_neutral.md](./Disruption_Kit/Containment_Scripts/🧨_reach_metrics_are_not_neutral.md)
 - [Disruption_Kit/Field_Logs/README.md](./Disruption_Kit/Field_Logs/README.md)
 - [Disruption_Kit/Field_Logs/🛰️ icc_tag_thread_containment.md](./Disruption_Kit/Field_Logs/🛰️ icc_tag_thread_containment.md)
