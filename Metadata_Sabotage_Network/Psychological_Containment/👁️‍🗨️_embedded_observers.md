@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Embedded Observers
 
-**Date Created:** 2025-08-??  
+**Date Created:** 2025-08-06  
 **Last Updated:** 2025-08-12  
 **Polaris Protocol Repository**  
 **Category:** Metadata Sabotage / Psychological Containment  
