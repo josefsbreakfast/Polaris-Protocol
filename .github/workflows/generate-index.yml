@@ -1,38 +1,50 @@
-name: 🔄 Generate Markdown Index
+name: 🌀 Generate Markdown Index
 
 on:
   push:
     branches: [ main ]
+    paths:
+      - '**/*.md'
+      - '.github/workflows/generate-index.yml'
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # allows manual run from Actions tab
 
 permissions:
-  contents: write  # 👈 this is essential to allow git push
+  contents: write
 
 jobs:
-  build:
+  build-index:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout the repo
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate index.md
+      - name: Generate INDEX.md
         run: |
-          echo "# 📂 Polaris Protocol – File Index" > index.md
-          echo "" >> index.md
-          find . -type f -name "*.md" ! -path "./.git/*" ! -name "index.md" | sort | while read file; do
-            clean_path=${file#./}
-            echo "- [${clean_path}](./${clean_path})" >> index.md
-          done
+          echo "# Polaris Protocol — File Index" > INDEX.md
+          echo "" >> INDEX.md
+          # Find all markdown files, excluding Quarantine and maintenance scripts
+          find . -type f -name '*.md' \
+            ! -path './.git/*' \
+            ! -path './Quarantine/*' \
+            ! -path './scripts/maintenance/*' \
+            | sort \
+            | sed 's|^\./||' \
+            | while read -r f; do
+                printf -- "- [%s](./%s)\n" "$f" "$f" >> INDEX.md
+              done
 
-      - name: Commit and push index.md
+      - name: Commit & push if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.md || echo "Nothing to add"
-          git diff-index --quiet HEAD || git commit -m "🔄 Auto-update index.md"
+          if git diff --quiet -- INDEX.md; then
+            echo "No changes to INDEX.md"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add INDEX.md
+          git commit -m "ci: update INDEX.md [skip ci]"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
