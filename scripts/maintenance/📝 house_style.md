@@ -25,8 +25,18 @@
 
 ---
 
-## 3. **Document Structure**
+## 3. Document Structure
 
 ### Title Block
 - **H1 title**: Emoji prefix + **Capitalised Title in Sentence Case**.  
-  Example:  
+- Underneath, use a metadata block with:
+  - **First created:** `YYYY-MM-DD`
+  - **Last updated:** `YYYY-MM-DD`
+  - *One-line summary in italics*
+
+**Example:**
+```markdown
+# 🧬 cloneproof
+**First created:** 2025-07-14  
+**Last updated:** 2025-08-12  
+*Practical countermeasures for voice and behavioural cloning*
