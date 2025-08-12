@@ -1,12 +1,17 @@
 name: Generate Markdown Index
 
 on:
-  workflow_dispatch:
-  push:
+  workflow_dispatch:              # Manual run
+  push:                           # Auto-run when Markdown or this workflow changes
     branches: [ main ]
+    paths:
+      - '**/*.md'
+      - '.github/workflows/generate-index.yml'
+  schedule:
+    - cron: '0 0 * * *'           # Daily at midnight UTC
 
 permissions:
-  contents: write
+  contents: write                 # Needed to push INDEX.md
 
 jobs:
   build:
@@ -20,12 +25,13 @@ jobs:
       - name: Generate INDEX.md with Python
         run: |
           python3 - <<'PY'
-          import os, sys
+          import os
 
           EXCLUDES = (
               '.git' + os.sep,
               'Quarantine' + os.sep,
               os.path.join('scripts','maintenance') + os.sep,
+              'Casefiles' + os.sep,
           )
 
           def excluded(path):
