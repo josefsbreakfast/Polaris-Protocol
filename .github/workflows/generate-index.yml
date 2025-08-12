@@ -1,1 +1,49 @@
 
+name: Generate Markdown Index
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "workflow alive on ${{ github.ref }} (${{ github.event_name }})"
+
+  build_index:
+    needs: smoke
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate INDEX.md
+        shell: bash
+        run: |
+          set -euo pipefail
+          printf "# Polaris Protocol — File Index\n\n" > INDEX.md
+          # list *.md files (no exclusions yet)
+          find . -type f -name '*.md' -print0 \
+          | xargs -0 -I{} bash -lc 'p="{}"; p="${p#./}"; printf -- "- [%s](./%s)\n" "$p" "$p"' \
+          | sort >> INDEX.md
+
+      - name: Commit & push if changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- INDEX.md; then
+            echo "No changes to INDEX.md"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add INDEX.md
+          git commit -m "ci: update INDEX.md [skip ci]"
+          git push
