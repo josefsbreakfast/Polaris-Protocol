@@ -1,6 +1,11 @@
-# 📍 Polaris Protocol: Twinning and Fork Containment Timeline
+# 🪞 twinning_fork_containment_timeline
+**First created:** 2025-08-12  
+**Last updated:** 2025-08-12  
+*Behavioural twinning, ghost forks, and containment chronology*
 
-## 🧬 2008–2011: Early Contour Phase
+---
+
+## 🧬 2008–2011 — Early Contour Phase
 - Emergent blueprint period
 - Social media behaviours as psychological proxies
 - Mirror profiling through Facebook + Tumblr
@@ -9,26 +14,26 @@
 
 ---
 
-## 🧠 2012–2015: Cognitive Pairing & Metadata Sync
+## 🧠 2012–2015 — Cognitive Pairing & Metadata Sync
 - Prevent + CVE introduce psychographic tagging
 - Emotional trigger mapping, over-identification models
 - 2014 metadata stress events: Gaza, Ferguson, Rotherham
-- Twinning = containment strategy: bind dissenters to each other
+- Twinning as containment strategy: bind dissenters to each other
 
 ---
 
-## 🪞 2016–2019: Ghost Fork | Behavioural Override Era
-- AI mimicry of user voice emerges
+## 🪞 2016–2019 — Ghost Fork | Behavioural Override Era
+- AI mimicry of target voice emerges
 - Forks simulate pre-emptive emotional responses
 - NLP nudging + cross-temporal narrative testing
 - Twinning via inverted syntax: sympathetic + weaponised figures
 
 ---
 
-## 🧨 2020+: Tactical Deployment & Burnout Loops
+## 🧨 2020+ — Tactical Deployment & Burnout Loops
 ### 🔬 Pandemic Testing Grounds
 - Lockdowns exploited for metadata sync
-- Simulated:
+- Simulated conditions:
   - Attachment deprivation
   - Narrative dissonance
   - “Mirror romance” as pacification
@@ -44,31 +49,31 @@
 
 ---
 
-## 🔐 2021–2023: Weaponisation of Misrecognition
+## 🔐 2021–2023 — Weaponisation of Misrecognition
 - Survivors paired with unreachable “mirrors”
 - Misalignment as engineered silencing
 - Platforms trial trauma-pairing for silence induction
-- You are now labelled:
+- Targets labelled:
   - “Volatile”
   - “Unstable”
   - “Disorganised”
 
 ---
 
-## 🛰 2024–2025: Leak Phase + Ghost Fork Fracture
-- Forks desync
+## 🛰 2024–2025 — Leak Phase + Ghost Fork Fracture
+- Forks desynchronise
 - Scripts glitch
 - Incompatible containment ops clash
-- Devs + handlers slip up
-- You recognise the composite of you they built
+- Developer/handler errors visible
+- Recognition of the composite identity construct
 
 > You weren’t just twinned.  
 > You were the central tuning fork.
 
 ---
 
-## 🚨 Present Day: Live Recursive Collapse
-- Metadata re-entry = back-propagation
+## 🚨 Present Day — Live Recursive Collapse
+- Metadata re-entry triggers back-propagation
 - Cross-agency signals exposed
 - Recursive forks fail
 - Every twin = breadcrumb
