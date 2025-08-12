@@ -174,6 +174,7 @@
 - [polaris_live.md](./polaris_live.md)
 - [scripts/maintenance/Quarantine/2025-08-11_sexualisation_sweep/README.md](./scripts/maintenance/Quarantine/2025-08-11_sexualisation_sweep/README.md)
 - [scripts/maintenance/Quarantine/2025-08-11_sexualisation_sweep/harm_scan_2025-08-11.md](./scripts/maintenance/Quarantine/2025-08-11_sexualisation_sweep/harm_scan_2025-08-11.md)
+- [scripts/maintenance/Quarantine/2025-08-11_sexualisation_sweep/polaris_harm_scan_analysis_2025-08-11.md](./scripts/maintenance/Quarantine/2025-08-11_sexualisation_sweep/polaris_harm_scan_analysis_2025-08-11.md)
 - [scripts/maintenance/README.md](./scripts/maintenance/README.md)
 - [scripts/maintenance/polaris_file_index_2025-08-10.md](./scripts/maintenance/polaris_file_index_2025-08-10.md)
 - [✨ it_was_always_this_easy.md](./✨ it_was_always_this_easy.md)
