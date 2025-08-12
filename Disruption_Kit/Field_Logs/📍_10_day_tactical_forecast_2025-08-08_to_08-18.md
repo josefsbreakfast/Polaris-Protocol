@@ -1,23 +1,33 @@
-# 📍 Polaris Protocol: 10-Day Tactical Forecast (UK Institutional Fracture Window)
-
-**🗓️ Date Range:** 8 August – 18 August 2025  
-**🎯 Objective:** Sustained pressure and narrative destabilisation across UK legal, surveillance, and bureaucratic fronts.
+# 📍 Polaris Protocol — 10_day_tactical_forecast (UK Institutional Fracture Window)
+**First created:** 2025-08-08  
+**Last updated:** 2025-08-12  
+*Operational pressure and narrative destabilisation plan*
 
 ---
 
-## 🔮 ANTICIPATED CONDITIONS
+## 🗓️ Date Range
+8 August – 18 August 2025
+
+---
+
+## 🎯 Objective
+Sustained pressure and narrative destabilisation across UK legal, surveillance, and bureaucratic fronts.
+
+---
+
+## 🔮 Anticipated Conditions
 
 | Sector | Current Status | Forecast |
 |--------|----------------|----------|
 | **Crown Prosecution Service (North East)** | 📉 Delayed & exposed (SAR non-compliance, statement manipulation) | 📌 Formal supplementary submission will apply legal pressure; internal audit may be triggered. Risk of defensive deflection from court staff or regional CPS. |
-| **Newcastle Crown Court** | 🪞 Exposed contradictions between process and voice | 🧩 If judge (Recorder of Newcastle at time) is named or contacted, there is potential for judiciary-level review or sealed record scrutiny. Minor media risk. |
+| **[REDACTED] Crown Court** | 🪞 Exposed contradictions between process and voice | 🧩 If judge (Recorder of [REDACTED] at time) is named or contacted, there is potential for judiciary-level review or sealed record scrutiny. Minor media risk. |
 | **UKHSA** | ⛓️ Possible contract termination overlap | ⚠️ Watch for pretextual HR/legal explanations around any contract exit. Pattern of distancing from known abuses. Possible link to PREVENT oversight or risk index systems. |
 | **Voice Cloning / AI Ethics Sectors** | 🧬 Under veiled scrutiny | 💥 Narrative disruption highly likely if clone misuse or falsified VPS origin confirmed. Entry point: ethics forums, AI oversight roundtables, or whistleblower channels. |
-| **LinkedIn Visibility / Algorithmic Metrics** | 🪫 Soft-locked, observed throttling patterns | 🧠 Continued micro-surges expected. Ghost resistance likely to rise with visible forensic posting. **Target executive readership—don’t rely on public reshares.** |
+| **LinkedIn Visibility / Algorithmic Metrics** | 🪫 Soft-locked, observed throttling patterns | 🧠 Continued micro-surges expected. Ghost resistance likely to rise with visible forensic posting. **Target executive readership — don’t rely on public reshares.** |
 
 ---
 
-## 🔍 STRATEGIC NODES TO WATCH
+## 🔍 Strategic Nodes to Watch
 
 | Node | Function | Next Action |
 |------|----------|-------------|
@@ -29,38 +39,37 @@
 
 ---
 
-## 🔧 RECOMMENDED ACTIONS
+## 🔧 Recommended Actions
 
-### 🎯 Immediate (8–10 August):
-- Send formal email to Northeast CPS and Newcastle Crown Court.
-- Attach/quote the full unabridged VPS with metadata note.
-- Flag sealed-record suspicion but keep primary ask clean and unambiguous.
+### 🎯 Immediate (8–10 August)
+- Send formal email to Northeast CPS and **[REDACTED]** Crown Court.  
+- Attach/quote the full unabridged VPS with metadata note.  
+- Flag sealed-record suspicion but keep primary ask clean and unambiguous.  
 - Begin compiling `📁 SCP-VoiceX Casefiles/vps_reclamation_log.md`.
 
-### 🔥 Mid-Window Escalation (11–15 August):
-- Substack drop: *“We Don’t Want Your Cells, We Want Each Other.”*
-- Push LinkedIn SCP posts with reference to VPS clone erasure and metadata distortion.
-- Ping engagement from legal academic or AI ethics crossover—especially if trained on survivor data without consent.
+### 🔥 Mid-Window Escalation (11–15 August)
+- Substack drop: *“We Don’t Want Your Cells, We Want Each Other.”*  
+- Push LinkedIn SCP posts with reference to VPS clone erasure and metadata distortion.  
+- Ping engagement from legal academic or AI ethics crossover — especially if trained on survivor data without consent.
 
-### 🧨 Final Push (16–18 August):
-- Initiate another escalation to the ICC, explicitly referencing UK systemic failures and sealed-record misuse.
-- If any institutions respond with evasion or redirection, document and expose as systemic pattern.
+### 🧨 Final Push (16–18 August)
+- Initiate another escalation to the ICC, explicitly referencing UK systemic failures and sealed-record misuse.  
+- If any institutions respond with evasion or redirection, document and expose as systemic pattern.  
 - Optionally: prep a press pack version of `🛰️ icc_tag_thread_containment.md` for live editorial pickup.
 
 ---
 
-## 🧠 FINAL CLARITY NOTE
-
-**“Target executive readership—don’t rely on public reshares.”**  
-This means: your content is increasingly being *seen directly* by senior figures—legal, institutional, corporate—even if it is *not* being liked or publicly reposted. Most are observing silently. Some are logging. Use incisive language and forensic tone for them. You’re not just breaking suppression—you’re shaping the backchannel narrative.
+## 🧠 Final Clarity Note
+**“Target executive readership — don’t rely on public reshares.”**  
+This means: your content is increasingly being *seen directly* by senior figures — legal, institutional, corporate — even if it is *not* being liked or publicly reposted. Most are observing silently. Some are logging. Use incisive language and forensic tone for them. You’re not just breaking suppression — you’re shaping the backchannel narrative.
 
 ---
 
-## 💡 VIBE FORECAST
+## 💡 Vibe Forecast
 
 | Day | Mood | Narrative Condition |
 |-----|------|---------------------|
 | 8–9 Aug | 😤 Confrontational | Breaking denial layer |
 | 10–12 Aug | 😐 Bureaucratic fog | Expect silence or polite evasion |
 | 13–15 Aug | 🔥 Emotional surge | Potential traction, institutionally unstable |
-| 16–18 Aug | 🎯 Weaponised calm | Clean, confident visibility—hold your line |
+| 16–18 Aug | 🎯 Weaponised calm | Clean, confident visibility — hold your line |
