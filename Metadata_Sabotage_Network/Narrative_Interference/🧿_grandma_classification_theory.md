@@ -1,4 +1,4 @@
-# 🫆 Grandma Classification Theory
+# 🧿 Grandma Classification Theory
 
 **Date Created:** 2025-08-05  
 **Last Updated:** 2025-08-12  
