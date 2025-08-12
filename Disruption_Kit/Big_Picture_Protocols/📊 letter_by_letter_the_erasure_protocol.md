@@ -1,7 +1,7 @@
-# 📊 letter_by_letter_the_erasure_protocol
+# 📊 Polaris Protocol — Letter by Letter: Erasure Protocol
 **First created:** 2025-08-08  
 **Last updated:** 2025-08-12  
-*Polaris Protocol Node — Linguistic Erasure and Vocal Profiling*
+*Linguistic Erasure and Vocal Profiling*
 
 ---
 
@@ -30,3 +30,4 @@ Every misrendered letter is a small colonisation.
 Every ‘Kha’ they throw at us is a refusal to say our names correctly — and a quiet permission to erase us.
 
 ---
+
