@@ -1,6 +1,7 @@
-# 📝 house_style.md
-**Polaris Protocol – Standard Formatting & Style Guide**  
-*(Version 1.1 – August 2025)*  
+# 📝 House Style
+**Version:** 1.1  
+**Last updated:** 2025-08-12  
+*Standard Formatting & Style Guide* 
 
 ---
 
