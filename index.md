@@ -90,6 +90,7 @@
 - [Metadata_Sabotage_Network/🤭 approval_then_forkstorm.md](./Metadata_Sabotage_Network/🤭 approval_then_forkstorm.md)
 - [Metadata_Sabotage_Network/🥸 bookshops_vs_behavioral_risks.md](./Metadata_Sabotage_Network/🥸 bookshops_vs_behavioral_risks.md)
 - [Metadata_Sabotage_Network/🧠 why_i_write_like_this.md](./Metadata_Sabotage_Network/🧠 why_i_write_like_this.md)
+- [Metadata_Sabotage_Network/🧠_good_doctors_are_not_nazis.md](./Metadata_Sabotage_Network/🧠_good_doctors_are_not_nazis.md)
 - [Metadata_Sabotage_Network/🧨 soft_suspension_is_still_containment.md](./Metadata_Sabotage_Network/🧨 soft_suspension_is_still_containment.md)
 - [Metadata_Sabotage_Network/🧨 system_agitation_shopping_list.md](./Metadata_Sabotage_Network/🧨 system_agitation_shopping_list.md)
 - [Metadata_Sabotage_Network/🧨 the_fire_they_fear.md](./Metadata_Sabotage_Network/🧨 the_fire_they_fear.md)
