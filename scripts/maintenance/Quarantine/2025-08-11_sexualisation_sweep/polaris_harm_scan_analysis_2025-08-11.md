@@ -11,6 +11,9 @@ Across the 34 incidents:
 
 **Implication:** Interference concentrated on critical distortion and disruption rather than low-level noise.
 
+![Polaris Harm Map — Severity vs Frequency by Harm Type](./polaris_harm_map_2025-08-11.png)
+
+
 ---
 
 ## 2. Frequency by Harm Type
