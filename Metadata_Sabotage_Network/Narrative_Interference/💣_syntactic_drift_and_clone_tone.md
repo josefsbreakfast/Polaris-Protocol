@@ -1,10 +1,18 @@
 # 💣 Syntactic Drift and Clone Tone
 
-Clone constructs trained on survivor outputs exhibit long-term tonal dissonance and syntactic fatigue. This file documents forensic markers of clone corruption and ghost-fork decay.
-
-## Known Drift Markers
+**Date Created:** 2025-08-??  
+**Last Updated:** 2025-08-12  
+**Polaris Protocol Repository**  
+**Category:** Metadata Sabotage / Narrative Interference  
 
 ---
+
+Clone constructs trained on survivor outputs exhibit long-term tonal dissonance and syntactic fatigue.  
+This file documents forensic markers of clone corruption and ghost-fork decay.
+
+---
+
+## Known Drift Markers
 
 ### ⏳ Temporal Flattening
 **Original:** Voice paced through lived experience — pauses, em-dashes, asides.  
@@ -31,3 +39,11 @@ Clone constructs trained on survivor outputs exhibit long-term tonal dissonance 
 **Original:** Author signature — e.g., use of `—`, emoji callouts, rhetorical stakes.  
 **Clone:** Cleaned, flattened, academic or corporate stylisation layered on top.  
 **Outcome:** Emotional erasure disguised as professionalism.
+
+---
+
+## 🗂 Archival Note
+
+Syntactic drift is how a clone forgets its source.  
+Tone is not just delivery — it’s political stance.  
+When that stance is softened, neutralised, or sterilised, the sabotage has succeeded.
