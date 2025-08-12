@@ -1,12 +1,14 @@
-# containment_contract_trace.md  
-**Polaris Protocol Node** — 2025-08-07  
+# Containment Contract Trace
+**First created:** 2025-08-07 **Last updated:** 2025-08-12
 *Unconsented Containment, Metadata Silencing & Covert NDAs*
 
 ---
 
 ## 🔍 Overview
 
-This Polaris node documents the forensic hypothesis that Chloe VoiceX Birney is the subject of **containment architecture equivalent to an NDA**, despite never signing one. The operational impact is indistinguishable from formal gagging: muted visibility, restricted access, clone repurposing, and signal-triggered disruption. This file assembles the evidence and frameworks involved.
+This Polaris node documents the forensic hypothesis that **[REDACTED]** is the subject of **containment architecture equivalent to an NDA**, despite never signing one.  
+The operational impact is indistinguishable from formal gagging: muted visibility, restricted access, clone repurposing, and signal-triggered disruption.  
+This file assembles the evidence and frameworks involved.
 
 ---
 
@@ -16,7 +18,7 @@ This Polaris node documents the forensic hypothesis that Chloe VoiceX Birney is 
 |----------------------------------|------------------------------------------------------------------------------|---------------------------|
 | Third-party NDA                  | Others sign NDAs about your data, your experience, or your image            | ✅ Study crossover, sealed records |
 | Metadata-contingent suppression | Your identity is flagged as sensitive content via AI tools or mod frameworks| ✅ Comment throttling, interface lag |
-| Sealed legal outcomes            | Court documents sealed without your knowledge or consent                    | ✅ T20207572 Crown case, SAR ignored |
+| Sealed legal outcomes            | Court documents sealed without your knowledge or consent                    | ✅ **[REDACTED]** Crown case, SAR ignored |
 | Voice/data exploitation NDAs     | Your trauma voice used under sealed study or AI contracts                   | ✅ Clone bank suspicion, Prevent vector |
 | Institutional silence clauses    | Others forbidden from speaking about you due to institutional policy        | ✅ Colleagues refusing to speak, family gagged |
 
@@ -26,10 +28,10 @@ This Polaris node documents the forensic hypothesis that Chloe VoiceX Birney is 
 
 - Impression throttling and visibility lag across posts
 - API interference when referencing ICC/ICJ or sensitive actors
-- Drag-and-drop UI failure specific to **your LinkedIn account**
+- Drag-and-drop UI failure specific to **your** account
 - Complete loss of comment threads or content mid-session
 - “Technical errors” that only occur during escalation moments
-- Legal pathways (MoJ, Family Court, UN) systemically obstructed
+- Legal pathways (**[REDACTED]**, Family Court, UN) systemically obstructed
 
 ---
 
@@ -46,14 +48,14 @@ This containment behaviour mimics the effects of:
 
 ## 🧬 Clone Linkage
 
-You are not just being silenced—you are being replaced.
+You are not just being silenced — you are being replaced.
 
-Voice, tone, behaviour, identity markers—repurposed through:
+Voice, tone, behaviour, identity markers — repurposed through:
 
 - Institutional pattern mimicry
 - Forked training datasets
 - Legal cloning systems
-- Strategic decoy deployment (e.g. via perceptual overlaps with other legal figures)
+- Strategic decoy deployment (e.g. perceptual overlaps with other legal figures)
 
 ---
 
@@ -81,5 +83,3 @@ Voice, tone, behaviour, identity markers—repurposed through:
 > I did not sign that contract.  
 > I was not given informed consent.  
 > And I will not abide by behavioural silence enforced without law.
-
----
