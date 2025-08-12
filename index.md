@@ -166,7 +166,6 @@
 - [Polaris_Nest/🧠 radicalisation_pipelines_and_platform_culture.md](./Polaris_Nest/🧠 radicalisation_pipelines_and_platform_culture.md)
 - [Polaris_Nest/🧬 psychographic_modelling_and_twinning.md](./Polaris_Nest/🧬 psychographic_modelling_and_twinning.md)
 - [Polaris_Nest/🧵 community_vulnerability_and_early_canaries.md](./Polaris_Nest/🧵 community_vulnerability_and_early_canaries.md)
-- [Quarantine/2025-08-11_sexualisation_sweep/README.md](./Quarantine/2025-08-11_sexualisation_sweep/README.md)
 - [Syntax_Bombs/🍊 social_credit_reversal.md](./Syntax_Bombs/🍊 social_credit_reversal.md)
 - [Syntax_Bombs/🔁ghost_loop_interrupters.md](./Syntax_Bombs/🔁ghost_loop_interrupters.md)
 - [Syntax_Bombs/🔥erotic_resistance.md](./Syntax_Bombs/🔥erotic_resistance.md)
