@@ -1,17 +1,49 @@
 name: 🌀 Generate Markdown Index
 
 on:
-  workflow_dispatch:
-  push:
+  workflow_dispatch:              # manual run
+  push:                           # auto-run on pushes to main
     branches: [ main ]
+    paths:
+      - '**/*.md'
+      - '.github/workflows/generate-index.yml'
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'           # daily at midnight UTC
 
 permissions:
-  contents: write
+  contents: write                 # needed to push INDEX.md
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  test-run:
+  build-index:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "This proves the workflow runs."
+      - name: Debug trigger
+        run: |
+          echo "EVENT=${{ github.event_name }}"
+          echo "REF=${{ github.ref }}"
+          echo "SHA=${{ github.sha }}"
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate INDEX.md
+        run: |
+          echo "# Polaris Protocol — File Index" > INDEX.md
+          echo "" >> INDEX.md
+          # add/exclude folders as needed
+          find . -type f -name '*.md' \
+            ! -path './.git/*' \
+            ! -path './Quarantine/*' \
+            ! -path './scripts/maintenance/*' \
+            | sort | sed 's|^\./||' \
+            | while read -r f; do
+                printf -- "- [%s](./%s)\n" "$f" "$f" >> INDEX.md
+              done
+
+      - name: Commit & push if changed
