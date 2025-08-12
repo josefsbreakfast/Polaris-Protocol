@@ -1,4 +1,3 @@
-
 name: Generate Markdown Index
 
 on:
@@ -10,13 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  smoke:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "workflow alive on ${{ github.ref }} (${{ github.event_name }})"
-
-  build_index:
-    needs: smoke
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,20 +17,44 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate INDEX.md
-        shell: bash
+      - name: Generate INDEX.md with Python
         run: |
-          set -euo pipefail
-          printf "# Polaris Protocol — File Index\n\n" > INDEX.md
-          # list *.md files (no exclusions yet)
-          find . -type f -name '*.md' -print0 \
-          | xargs -0 -I{} bash -lc 'p="{}"; p="${p#./}"; printf -- "- [%s](./%s)\n" "$p" "$p"' \
-          | sort >> INDEX.md
+          python3 - <<'PY'
+          import os, sys
+
+          EXCLUDES = (
+              '.git' + os.sep,
+              'Quarantine' + os.sep,
+              os.path.join('scripts','maintenance') + os.sep,
+          )
+
+          def excluded(path):
+              p = path.replace('./','')
+              for x in EXCLUDES:
+                  if p.startswith(x):
+                      return True
+              return False
+
+          files = []
+          for root, _, names in os.walk('.', topdown=True):
+              root = root.replace('\\','/')
+              if excluded(root.strip('./') + ('/' if not root.endswith('/') else '')):
+                  continue
+              for n in names:
+                  if n.endswith('.md'):
+                      rel = os.path.join(root, n).replace('\\','/').lstrip('./')
+                      if not excluded(rel):
+                          files.append(rel)
+
+          files.sort()
+          with open('INDEX.md', 'w', encoding='utf-8') as f:
+              f.write('# Polaris Protocol - File Index\n\n')
+              for p in files:
+                  f.write(f'- [{p}](./{p})\n')
+          PY
 
       - name: Commit & push if changed
-        shell: bash
         run: |
-          set -euo pipefail
           if git diff --quiet -- INDEX.md; then
             echo "No changes to INDEX.md"
             exit 0
