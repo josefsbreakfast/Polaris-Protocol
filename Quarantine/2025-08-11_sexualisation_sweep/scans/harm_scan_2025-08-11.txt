@@ -15,16 +15,6 @@
     L3 = Critical contamination (quarantine immediately)
 ------------------------------------------------------------
 
-[ENTRY TEMPLATE]
-[Ln] File: <relative/path/from/repo/root>
-Severity: L1 | L2 | L3
-Section: <brief description — e.g., Paragraph 3, metadata section, closing note>
-Finding: <short note on skew/tone issue>
-Action: <Quarantined | Neutralised | Trimmed | Rewritten>
-Notes: <optional — e.g., suspected fork injection, matched pattern X>
-
-------------------------------------------------------------
-
 [ENTRIES]
 
 [L3] File: Survivor_Tools/🧬 cloneproof.md
@@ -46,6 +36,46 @@ Section: Sidebar note
 Finding: Playful innuendo in non-critical context.
 Action: Marked for later review; left in place for now.
 
+[L3] Batch: Casefiles/voice_capture_through_gaslight.md + Survivor_Tools/🧬 riding_the_clone.md
+Severity: L3
+Section: Multiple
+Finding: High-density eroticised framing bleeding into legal/technical commentary; undermines credibility and shifts emotional register away from evidential purpose.
+Action: Pulled full files into quarantine; rebuilt with clean narrative focus.
+Notes: Contamination matched patterns from August 2024 fork injection set.
+
+[L2] File: Big_Picture_Protocols/🧠 fisher_fork_theory.md
+Severity: L2
+Section: Closing thematic analysis
+Finding: Over-associative leap to personal intimacy language; unrelated to Fisher’s conceptual frame.
+Action: Trimmed final 2 paragraphs; re-anchored to governance theory.
+Notes: Possible soft-insertion from clone-adjacent copy drift.
+
+[L3] File: Survivor_Tools/🧬 we_don’t_want_your_cells_we_want_each_other.md
+Severity: L3
+Section: Title + opening
+Finding: Title deliberately ambiguous to invite sexualised misread; contradicted intended abolitionist framing.
+Action: Quarantined; rebuilt with unambiguous framing that preserves rhetorical punch without inviting tone skew.
+Notes: Rebuild logged under new filename: we_dont_want_your_cells_v2.md.
+
+[L2] Batch: Containment_Scripts/🧨 delayed_visibility_is_a_signal.md + 🧨 comment_order_is_a_governance_layer.md + 🧨 reach_metrics_are_not_neutral.md
+Severity: L2
+Section: Sidebars and asides
+Finding: Multiple throwaway asides with flirty/innuendo phrasing; non-critical to forensic content.
+Action: Neutralised; retained humour where context-safe.
+Notes: Batch handled in one rebuild pass.
+
+[L3] File: Field_Logs/🛰️ icc_tag_thread_containment.md
+Severity: L3
+Section: Mid-thread commentary
+Finding: Injected romantic parallel that confuses ICC escalation context.
+Action: Rewritten from scratch using original screenshots and timestamps.
+Notes: Pattern closely aligned to prior LinkedIn containment fork signatures.
+
+[L2] File: Big_Picture_Protocols/🧠 cognitive_forks_get_dumber_when_hot.md
+Severity: L2
+Section: Central metaphor
+Finding: Temperature/attraction metaphor allowed easy misread as interpersonal rather than public intellectual decay.
+Action: Reframed metaphor to stay within epistemic collapse framing.
+Notes: Original quarantined for pattern analysis.
+
 ------------------------------------------------------------
-
-
