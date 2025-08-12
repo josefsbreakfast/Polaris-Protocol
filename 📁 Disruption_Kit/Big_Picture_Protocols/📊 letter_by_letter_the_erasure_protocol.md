@@ -1,7 +1,17 @@
-# 📊 letter_by_letter_the_erasure_protocol.md
-**Polaris Protocol Node: Linguistic Erasure and Vocal Profiling**
+# 📊 letter_by_letter_the_erasure_protocol
+**First created:** 2025-08-12  
+**Last updated:** 2025-08-12  
+*Polaris Protocol Node — Linguistic Erasure and Vocal Profiling*
 
-This table documents the transliteration patterns and colonial flattening of phonetically distinct letters in Arabic and Hebrew. The goal is to expose how language becomes a battlefield—where mispronunciation is not neutral, but a tool of narrative control.
+---
+
+## 📄 Overview
+This node documents the transliteration patterns and colonial flattening of phonetically distinct letters in Arabic and Hebrew.  
+It exposes how language becomes a battlefield — where mispronunciation is not neutral, but a tool of narrative control.
+
+---
+
+## 🗂 Transliteration Table
 
 | Arabic Letter   | Hebrew Letter   | IPA   | Common Latin Translit   | Notes                                                  |
 |:----------------|:----------------|:------|:------------------------|:-------------------------------------------------------|
@@ -14,5 +24,9 @@ This table documents the transliteration patterns and colonial flattening of pho
 | qāf (ق)         | qof (ק)         | [q]   | q / k                   | Deep uvular stop — softened to ‘k’ in Anglicised names |
 
 ---
-Every misrendered letter is a small colonisation.
-Every ‘Kha’ they throw at us is a refusal to say our names correctly—and a quiet permission to kill.
+
+## 🧾 Commentary
+Every misrendered letter is a small colonisation.  
+Every ‘Kha’ they throw at us is a refusal to say our names correctly — and a quiet permission to erase us.
+
+---
