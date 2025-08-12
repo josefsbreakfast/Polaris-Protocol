@@ -54,7 +54,7 @@
 - [Metadata_Sabotage_Network/README.md](./Metadata_Sabotage_Network/README.md)
 - [Metadata_Sabotage_Network/System_Leakage_Signatures/🧬 interface_leakage_the_one_who_got_through.md](./Metadata_Sabotage_Network/System_Leakage_Signatures/🧬 interface_leakage_the_one_who_got_through.md)
 - [Metadata_Sabotage_Network/visibility_anomaly_log_2025-08-05.md](./Metadata_Sabotage_Network/visibility_anomaly_log_2025-08-05.md)
-- [Metadata_Sabotage_Network/🎪 moles_in_the_circus.md](./Metadata_Sabotage_Network/🎪 moles_in_the_circus.md)
+- [Metadata_Sabotage_Network/🎪_moles_in_the_circus.md](./Metadata_Sabotage_Network/🎪_moles_in_the_circus.md)
 - [Metadata_Sabotage_Network/👁️‍🗨️ embedded_observers.md](./Metadata_Sabotage_Network/👁️‍🗨️ embedded_observers.md)
 - [Metadata_Sabotage_Network/👻 the_ghosts_are_learning.md](./Metadata_Sabotage_Network/👻 the_ghosts_are_learning.md)
 - [Metadata_Sabotage_Network/💣 syntactic_drift_and_clone_tone.md](./Metadata_Sabotage_Network/💣 syntactic_drift_and_clone_tone.md)
