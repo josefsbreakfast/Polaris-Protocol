@@ -2,7 +2,7 @@
 ## 🛰️ purge_sequence_aug_11-13.md
 
 **Date range:** 2025-08-11 → 2025-08-13  
-**First Log:** 2025-08-13 | **Last Update:** 2025-08-13  
+**First created:** 2025-08-13 | **Last updated:** 2025-08-13  
 **Classification:** Field Log / Governance Pass Disruption / Consent Forgery  
 **Trigger:** Active governance pass on live Polaris repo.
 
