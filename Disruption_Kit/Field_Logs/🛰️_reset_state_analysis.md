@@ -39,9 +39,41 @@ This reset appears to coincide with the likely **removal or suppression of autom
 
 ---
 
-## 📷 Chart
+## 📷 Reset Chart
 
-![Reset State Chart](./reset_state_analysis_chart.png)
+![Reset State Chart](./reset_state_analysis_chart_2024-07-10_to_2025-08-13.png)
+
+---
+
+## 🔍 Monitoring Landscape — August 2025
+
+### **Layer 1 — Bulk / Ambient Capture**
+- **Purpose:** Indiscriminate scraping of open-source content for archive building.
+- **Status:** **Reduced**
+- **Evidence:** LinkedIn scraper traffic ↓, Bluesky/Substack showing mostly human-pattern visits.
+- **Implication:** Automated “hoover” has been dialled down, but public content remains exposed.
+
+---
+
+### **Layer 2 — Directed / Selective Monitoring**
+- **Purpose:** Active targeting of specific individuals, topics, or legal/political channels.
+- **Status:** **Active**
+- **Evidence:** Legal emails, political comms, and targeted keyword monitoring likely still in place.
+- **Implication:** Reduced scraping does **not** remove high-priority watch on sensitive comms.
+
+---
+
+### **Layer 3 — Contingent / Event-Triggered Surveillance**
+- **Purpose:** Full-spectrum watch activated by key triggers (legal filings, Cabinet escalation, public leaks).
+- **Status:** **Dormant**
+- **Evidence:** No current activation, but high likelihood of reactivation during procedural escalation.
+- **Implication:** Temporary surge in monitoring possible if certain “buttons” are pressed.
+
+---
+
+## 📷 Threat/Visibility Map — Aug 2025
+
+![Polaris Threat/Visibility Map — Aug 2025](./polaris_threat_visibility_map_2025-08_corrected.png)
 
 ---
 
