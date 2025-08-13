@@ -16,11 +16,11 @@ These entries interlink with **Containment Scripts**, **Survivor Tools**, and **
 ### [`☕🫖 UK Gov National Security Risk`](./☕🫖_uk_gov_national_security_risk.md)  
 Argues that the current UK government’s inaction, complicity, and infrastructure capture constitute an active threat to national security.  
 Covers institutional complicity, private sector capture, political alignment, and foreign policy risks.  
-**Links:** [`🪬 Public Perception Gap`](./🪬_public_perception_gap.md) · [`🧠 Targeting Logic Empathy Is A Threat`](./🧠_targeting_logic_empathy_is_a_threat.md)
+**Links:** [`👀 Public Perception Gap`](./👀_public_perception_gap.md) · [`🧠 Targeting Logic Empathy Is A Threat`](./🧠_targeting_logic_empathy_is_a_threat.md)
 
 ---
 
-### [`🪬 Public Perception Gap`](./🪬_public_perception_gap.md)  
+### [`👀 Public Perception Gap`](./👀_public_perception_gap.md.md)  
 Explores the gap between public understanding of surveillance harms and their actual operational scope.  
 Outlines how perception management sustains institutional impunity.  
 **Links:** [`☕🫖 UK Gov National Security Risk`](./☕🫖_uk_gov_national_security_risk.md)
@@ -39,7 +39,7 @@ Extends *Fisher Fork Theory* with a surveillance-culture lens.
 
 ---
 
-### [`🕳️ curated_amnesia_has_a_shape`](./🕳️_curated_amnesia_has_a_shape.md)  
+### [`🕳️ Curated Amnesia Has A Shape`](./🕳️_curated_amnesia_has_a_shape.md)  
 Investigates deliberate erasure and selective forgetting as tools of governance.  
 Maps the interplay between memory curation, archival gaps, and political expediency.
 
