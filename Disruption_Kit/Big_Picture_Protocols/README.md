@@ -39,7 +39,7 @@ Extends *Fisher Fork Theory* with a surveillance-culture lens.
 
 ---
 
-### [`🛑 Curated Amnesia`](./🛑_curated_amnesia.md)  
+### [`🕳️ Curated Amnesia`](./🕳️_curated_amnesia.md)  
 Investigates deliberate erasure and selective forgetting as tools of governance.  
 Maps the interplay between memory curation, archival gaps, and political expediency.
 
@@ -64,7 +64,7 @@ Shows how disrupting the data layer enables institutional control over story per
 
 ---
 
-### [`🗄 Gated Intake Post`](./🗄_gated_intake_post.md)  
+### [`🛂 Gated Intake Post`](./🛂_gated_intake_post.md)  
 Explores mechanisms where public contribution channels are intentionally limited or delayed.  
 Shows how “gated” systems create choke points for dissenting voices.
 
