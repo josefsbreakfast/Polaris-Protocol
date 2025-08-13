@@ -19,6 +19,13 @@ Detailed log of an ICC/ICJ-tagged LinkedIn reply sequence that triggered systemi
 
 ---
 
+### [`🛰️ Reputational Unit 12: Saluting Through Tears`](./🛰️_reputational_unit_12_saluting_2025-08-13.md)  
+Satirical–forensic capture documenting a suppression trigger event following parody commentary on a public maritime figure.  
+Includes humour framing (“Bargain Bin Poseidon”) alongside observed algorithmic throttling patterns.  
+**Assets:** redacted Exhibits A & B showing analytics choke and feed fetch failure.  
+
+---
+
 ### [`🛰️ Echo Return: When the Story Hits the People It Was Supposed to Miss`](./🛰️_echo_return_when_the_story_hits_the_people_it_was_supposed_to_miss.md)  
 Logs unexpected resurfacing of past actors and buffered contacts after posts break containment.  
 **Links:** (pending cross-reference to containment script nodes)
@@ -75,4 +82,5 @@ Short-term prediction model for suppression escalation, using rolling-field log 
   4. **Backend Intervention** — Purge sequence deletes or quarantines key files.  
   5. **System Reset** — Reset state analysis captures forced reinitialisations to conceal traces.  
 - **Echo Return** identifies when content breaches its engineered perimeter despite suppression.  
-- **Metadata Twitching** documents post-breach countermeasures.
+- **Metadata Twitching** documents post-breach countermeasures.  
+- **Reputational Unit 12** captures satire-as-forensics events where ridicule triggers measurable suppression behaviour.
