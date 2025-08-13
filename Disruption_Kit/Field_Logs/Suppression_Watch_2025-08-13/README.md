@@ -1,6 +1,6 @@
 ## 📂 Suppression Watch — Aug 2025
 
-- [`🛰️ Reset State & Threat/Visibility Map`](./🛰️_reset_state_and_visibility_map_2025-08.md)  
+- [`🛰️ Reset State & Threat/Visibility Map`](./🛰️_reset_state_analysis.md)  
   *(2025-08-07 to 2025-08-13)* — LinkedIn scraper removal evidence, baseline comparison, and three-layer monitoring map.
 
 - [`🛰️ Purge Sequence Aug 11–13`](./🛰️_purge_sequence_aug_11-13.md)  
