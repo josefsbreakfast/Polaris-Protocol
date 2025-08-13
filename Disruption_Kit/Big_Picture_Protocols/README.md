@@ -1,6 +1,6 @@
 # 🧠 Polaris Protocol – Big Picture Protocols  
 **Location:** `Disruption_Kit/Big_Picture_Protocols`  
-_Last updated: 2025-08-11_
+_Last updated: 2025-08-13_
 
 ---
 
@@ -20,10 +20,16 @@ Covers institutional complicity, private sector capture, political alignment, an
 
 ---
 
-### [`🧠 Fisher Fork Theory`](./🧠_fisher_fork_theory.md)  
-Applies Mark Fisher’s critique to surveillance capitalism, behavioural nudging, and identity suppression.  
-Connects capitalist realism to live containment behaviours.  
-**Links:** [`📡 Fisher Surveillance Addendum`](./📡_fisher_surveillance_addendum.md) · [`🪞 The Illusion Of Choice`](./🪞_the_illusion_of_choice.md)
+### [`🪬 Public Perception Gap`](./🪬_public_perception_gap.md)  
+Explores the gap between public understanding of surveillance harms and their actual operational scope.  
+Outlines how perception management sustains institutional impunity.  
+**Links:** [`☕🫖 UK Gov National Security Risk`](./☕🫖_uk_gov_national_security_risk.md)
+
+---
+
+### [`📊 Letter By Letter Threat`](./📊_letter_by_letter_threat.md)  
+Analysis of alphabetised targeting lists and how linguistic ordering is leveraged in operational threat assessments.  
+Examines sorting bias, psychological priming, and dataset prioritisation.
 
 ---
 
@@ -33,17 +39,21 @@ Extends *Fisher Fork Theory* with a surveillance-culture lens.
 
 ---
 
-### [`🧷 The Signature Trap`](./🧷_the_signature_trap.md)  
-Case study of how public solidarity acts (e.g. petitions) are repurposed into **behavioural datasets**.  
-Details the capture of signatory data for surveillance indexing, AI training, and ideological mapping — without informed consent.  
-**Links:** [`🧠 Targeting Logic Empathy Is A Threat`](./🧠_targeting_logic_empathy_is_a_threat.md) · [`🪞 The Illusion Of Choice`](./🪞_the_illusion_of_choice.md)
+### [`🛑 Curated Amnesia`](./🛑_curated_amnesia.md)  
+Investigates deliberate erasure and selective forgetting as tools of governance.  
+Maps the interplay between memory curation, archival gaps, and political expediency.
 
 ---
 
-### [`🧠 Targeting Logic Empathy Is A Threat`](./🧠_targeting_logic_empathy_is_a_threat.md)  
-Hypothesis: politically resonant empathy is treated as a **targeting vector** (Prevent/CVE).  
-Focuses on emotional contagion as a risk surface in behavioural governance.  
-**Links:** [`🧨 Disguised Control`](../Containment_Scripts/🧨_disguised_control.md) · [`🪞 The Illusion Of Choice`](./🪞_the_illusion_of_choice.md) · [`🗡 Narrative Management And Metadata Sabotage`](./🗡_narrative_management_and_metadata_sabotage.md)
+### [`🕸 Clone Friendly Architecture`](./🕸_clone_friendly_architecture.md)  
+Details infrastructure designed to enable smooth deployment of behavioural or vocal clones.  
+Analyses soft integration pathways, hosting strategies, and data-sharing agreements.
+
+---
+
+### [`🔑 Who Holds The Tag`](./🔑_who_holds_the_tag.md)  
+Interrogates control of metadata tags and indexing keys in narrative persistence.  
+Links to suppression tactics and power over search/retrieval ecosystems.
 
 ---
 
@@ -54,10 +64,67 @@ Shows how disrupting the data layer enables institutional control over story per
 
 ---
 
+### [`🗄 Gated Intake Post`](./🗄_gated_intake_post.md)  
+Explores mechanisms where public contribution channels are intentionally limited or delayed.  
+Shows how “gated” systems create choke points for dissenting voices.
+
+---
+
+### [`🧠 AI Harms Are Not New`](./🧠_ai_harms_are_not_new.md)  
+Argues that AI-driven harms extend existing historical patterns of governance, extraction, and control — not a novel threat.  
+Positions AI within a continuum of exploitative technologies.
+
+---
+
+### [`🧠 Fisher Fork Theory`](./🧠_fisher_fork_theory.md)  
+Applies Mark Fisher’s critique to surveillance capitalism, behavioural nudging, and identity suppression.  
+Connects capitalist realism to live containment behaviours.  
+**Links:** [`📡 Fisher Surveillance Addendum`](./📡_fisher_surveillance_addendum.md) · [`🪞 The Illusion Of Choice`](./🪞_the_illusion_of_choice.md)
+
+---
+
+### [`🧠 Good Doctors Are Dangerous`](./🧠_good_doctors_are_dangerous.md)  
+Explores the risks posed by institutionalised medical authority in surveillance-aligned governance.  
+Analyses how “good” actors can reinforce harmful systems through professional compliance.
+
+---
+
+### [`🧠 Snake Bites And Soft Power`](./🧠_snake_bites_and_soft_power.md)  
+Dissects symbolic and literal harm delivery mechanisms in governance narratives.  
+Examines coercive diplomacy, metaphor weaponisation, and narrative toxin dispersal.
+
+---
+
+### [`🧠 Targeting Logic Empathy Is A Threat`](./🧠_targeting_logic_empathy_is_a_threat.md)  
+Hypothesis: politically resonant empathy is treated as a **targeting vector** (Prevent/CVE).  
+Focuses on emotional contagion as a risk surface in behavioural governance.  
+**Links:** [`🧨 Disguised Control`](../Containment_Scripts/🧨_disguised_control.md) · [`🪞 The Illusion Of Choice`](./🪞_the_illusion_of_choice.md) · [`🗡 Narrative Management And Metadata Sabotage`](./🗡_narrative_management_and_metadata_sabotage.md)
+
+---
+
+### [`🧠 The Science That Serves`](./🧠_the_science_that_serves.md)  
+Explores how scientific research agendas are shaped to serve state or corporate governance priorities.  
+Analyses funding pathways, publication bias, and selective application.
+
+---
+
+### [`🧷 The Signature Trap`](./🧷_the_signature_trap.md)  
+Case study of how public solidarity acts (e.g. petitions) are repurposed into **behavioural datasets**.  
+Details the capture of signatory data for surveillance indexing, AI training, and ideological mapping — without informed consent.  
+**Links:** [`🧠 Targeting Logic Empathy Is A Threat`](./🧠_targeting_logic_empathy_is_a_threat.md) · [`🪞 The Illusion Of Choice`](./🪞_the_illusion_of_choice.md)
+
+---
+
 ### [`🪞 The Illusion Of Choice`](./🪞_the_illusion_of_choice.md)  
 Examines **false autonomy** in personal containment and political governance.  
 Shows how “consent” and “liberation” are simulated inside oppressor frames.  
 **Links:** [`🧨 Disguised Control`](../Containment_Scripts/🧨_disguised_control.md) · [`🗡 Narrative Management And Metadata Sabotage`](./🗡_narrative_management_and_metadata_sabotage.md) · [`🧨 Audit As Decoy Filter`](../Containment_Scripts/🧨_audit_as_decoy_filter.md)
+
+---
+
+### [`🪞 Twinning Fork Convergence`](./🪞_twinning_fork_convergence.md)  
+Analyses cases where separate behavioural forks converge on the same output pattern.  
+Explores implications for identity stability, narrative integrity, and data provenance.
 
 ---
 
