@@ -20,7 +20,7 @@ Covers institutional complicity, private sector capture, political alignment, an
 
 ---
 
-### [`👀 Public Perception Gap`](./👀_public_perception_gap.md.md)  
+### [`👀 Public Perception Gap`](./👀_public_perception_gap.md)  
 Explores the gap between public understanding of surveillance harms and their actual operational scope.  
 Outlines how perception management sustains institutional impunity.  
 **Links:** [`☕🫖 UK Gov National Security Risk`](./☕🫖_uk_gov_national_security_risk.md)
