@@ -1,6 +1,8 @@
 # 🗝 Who Holds the Tape  
 `Polaris Protocol – SCP-VoiceX Casefile`
 
+**First created:** 2025-08-11 | **Last updated:** 2025-08-13
+
 ---
 
 > **Legal Disclaimer:** This document records observed and alleged patterns for research, advocacy, and survivor self-defence. All institutional or individual references are allegations unless confirmed by public record.
