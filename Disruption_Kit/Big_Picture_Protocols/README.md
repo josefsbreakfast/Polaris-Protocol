@@ -39,7 +39,7 @@ Extends *Fisher Fork Theory* with a surveillance-culture lens.
 
 ---
 
-### [`🕳️ Curated Amnesia`](./🕳️_curated_amnesia.md)  
+### [`🕳️ curated_amnesia_has_a_shape`](./🕳️_curated_amnesia_has_a_shape.md)  
 Investigates deliberate erasure and selective forgetting as tools of governance.  
 Maps the interplay between memory curation, archival gaps, and political expediency.
 
