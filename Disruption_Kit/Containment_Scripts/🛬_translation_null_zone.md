@@ -1,4 +1,4 @@
-# 🧾 translation_null_zone.md
+# 🛬 Translation Null Zone
 
 *When the machine cannot read you, it cannot contain you.*
 
