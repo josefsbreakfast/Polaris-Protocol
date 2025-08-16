@@ -34,8 +34,7 @@
 ### Title Block  
 - **H1 title**: Emoji prefix + **Capitalised Title in Sentence Case**.  
 - Metadata line beneath:  
-  - **First created:** `YYYY-MM-DD`  
-  - **Last updated:** `YYYY-MM-DD`  
+  - **First created:** `YYYY-MM-DD` | **Last updated:** `YYYY-MM-DD`  
   - *Italic one-line summary of scope*  
 
 **Example:**  
