@@ -1,8 +1,7 @@
 # 🪦 Metadata Ghosts And Hauntings  
 *Polaris Protocol – Containment & Anomaly Typologies*  
 
-**First created:** 2025-08-12
-**Last updated:** 2025-08-12
+**First created:** 2025-08-12 | **Last updated:** 2025-08-16
 
 ---
 
@@ -59,9 +58,9 @@ An old post suddenly re-enters light circulation after a subtle interaction, mai
 | **Trigger Type**    | High-reach profile touch / silent interaction         | Past targeted interaction        |
 | **Growth Pattern**  | Sudden trajectory shift, sustained rise               | Slow, persistent climb           |
 | **Duration**        | While actor is active                                 | Weeks to months                  |
-| **Speed of Change** | Fast onset, then steady                               | Very slow and steady              |
-| **Actor Visibility**| Invisible but current                                 | Invisible, historical             |
-| **Emotional Signal**| Alert / watchful                                      | Unsettling / background hum       |
+| **Speed of Change** | Fast onset, then steady                               | Very slow and steady             |
+| **Actor Visibility**| Invisible but current                                 | Invisible, historical            |
+| **Emotional Signal**| Alert / watchful                                      | Unsettling / background hum      |
 
 ---
 
@@ -76,7 +75,11 @@ An old post suddenly re-enters light circulation after a subtle interaction, mai
 - **Early tagging** – Note the first irregular climb and log timestamp.  
 - **Sensory check** – Record subjective feeling (“warm” = ghost, “cold” = haunting).  
 - **Network mapping** – Compare ghost/haunting events to other anomalies (throttling, demographic skew).  
-- **Signal awareness** – Treat ghosts and hauntings as signs of deeper network routing.
+- **Signal awareness** – Treat ghosts and hauntings as signs of deeper network routing.  
 
 ---
 
+## 📎 Forensic Evidence  
+- [🗎 Ghost vs Haunting Chart (2025-08-12)](../Field_Logs/🛰️_metadata_ghosts_2025-08-12/🗎_ghost_vs_haunting_chart_2025-08-12.csv) – classification table logged during live observation.  
+
+---
