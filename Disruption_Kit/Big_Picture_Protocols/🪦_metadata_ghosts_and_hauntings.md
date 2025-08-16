@@ -80,6 +80,6 @@ An old post suddenly re-enters light circulation after a subtle interaction, mai
 ---
 
 ## 📎 Forensic Evidence  
-- [📩 Ghost vs Haunting Chart (2025-08-12)](./Disruption_Kit/Field_Logs/📩_ghost_vs_haunting_chart_2025-08-12.csv) – classification table logged during live observation.  
+- [📩 Ghost vs Haunting Chart (2025-08-12)](https://github.com/josefsbreakfast/Polaris-Project/blob/main/Disruption_Kit/Field_Logs/%F0%9F%93%A9_ghost_vs_haunting_chart_2025-08-12.csv)  – classification table logged during live observation.  
 
 ---
