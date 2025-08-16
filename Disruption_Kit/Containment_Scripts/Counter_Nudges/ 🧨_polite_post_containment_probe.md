@@ -45,12 +45,21 @@ If such a post is **artificially iced** (reach far below baseline), it reveals:
 - **Reach ratio:** ~22% of minimum baseline  
 - **Containment signature:** 🍬 *“Toffee Sweet” Plot* — observed metric well outside expected range wrapper  
 
+### Containment Toffee Plot  
+![🍬 Containment Toffee Plot — Expected vs Observed](../media/🍬_containment_toffee_plot_2025-08-12_BR_compact.png)  
+
 ---
 
 ## 🔍 Forensic value  
 - **Isolates suppression to account/network level** by removing all “content risk” variables.  
 - Acts as a **live probe** into platform moderation pipelines.  
 - Repeated deployment over time can map **containment persistence** and test for thawing or escalation.  
+
+See also:  
+- [🧨 Soft Suspension is Still Containment](./🧨_soft_suspension_is_still_containment.md)  
+- [🧨 Delayed Visibility is a Signal](./🧨_delayed_visibility_is_a_signal.md)  
+- [🧨 Comment Order is a Governance Layer](./🧨_comment_order_is_a_governance_layer.md)  
+- [🧨 Reach Metrics Are Not Neutral](./🧨_reach_metrics_are_not_neutral.md)  
 
 ---
 
@@ -80,5 +89,3 @@ If such a post is **artificially iced** (reach far below baseline), it reveals:
 
 **Tagset:**  
 #PolarisProtocol #ContainmentScripts #MetadataForensics #ForensicProbe #PolitePost  
-
-**Diagram:** 🍬 [Containment Toffee Plot — Expected vs Observed](../media/🍬_containment_toffee_plot_2025-08-12_BR_compact.png)  
