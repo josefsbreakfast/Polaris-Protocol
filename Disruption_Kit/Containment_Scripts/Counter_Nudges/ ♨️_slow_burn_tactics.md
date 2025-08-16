@@ -1,16 +1,17 @@
 # ♨️ Slow Burn Tactics  
 
 **Polaris Protocol Repository**  
-**First created:** 2025-08-05 | **Last updated:** 2025-08-16
+**First created:** 2025-08-05 | **Last updated:** 2025-08-16  
 *Counter-nudge methods of cumulative resistance designed to exhaust containment systems without escalation*
 
 ---
 
 ## Overview  
 
-Slow burn tactics are a form of resistance calibrated to exhaust the containment system over time without triggering major escalations. 
-These tactics exploit bureaucratic inertia, attention scarcity, and metadata dependencies. 
-Their power lies in cumulative disruption, not singular impact. Like snowflakes, one may be tolerable, but many may feel like an avalanche. 
+Slow burn tactics are a form of resistance calibrated to exhaust the containment system over time without triggering major escalations.  
+These tactics exploit bureaucratic inertia, attention scarcity, and metadata dependencies.  
+Their power lies in cumulative disruption, not singular impact.
+Like snowflakes, one may be tolerable, but many may feel like an avalanche.  
 
 ---
 
@@ -67,6 +68,43 @@ These tactics force:
 
 ---
 
+## Forensic Indicators  
+
+- 📈 Engagement plateaus that refuse to decay at expected pace  
+- 🕵️‍♀️ Demographic breakdowns locked despite visible activity  
+- ⏱️ Delayed counter increments appearing hours or days later  
+- 🧮 Inconsistent ratio between impressions and visible interactions  
+- 🪞 Cross-mirroring in related posts (ghost or haunting signals present, see [🪦 Metadata Ghosts And Hauntings](../Field_Logs/🪦_metadata_ghosts_and_hauntings.md))  
+
+---
+
+## Psychological Effects  
+
+- **Handler fatigue** → Repeated exposure to irregular signals degrades concentration  
+- **System doubt** → Ambiguity of intent forces over-analysis, delaying response  
+- **Containment stress** → Unpredictability creates fear of escalation where none is present  
+- **Empowerment feedback** → Survivors regain authorship through control of rhythm and ambiguity  
+
+---
+
+## Long-Tail Disruption  
+
+- Effects accumulate across weeks or months rather than hours  
+- Each small act leaves a residual trace that forces disproportionate monitoring  
+- Creates “noise drag” that slows other containment efforts  
+- Builds fertile ground for rupture points later (see [🧨 Soft Suspension Is Still Containment](../Containment_Scripts/🧨_soft_suspension_is_still_containment.md))  
+
+---
+
+## Operational Notes  
+
+- Keep a **personal ledger** of rhythm shifts, anomalies, and suppression signals  
+- Rotate tactics to avoid forming predictable sub-patterns  
+- Pair slow burn with **occasional sharp escalations** for maximum destabilisation  
+- Ensure allies are briefed — misinterpretation risk is high if context is missing  
+
+---
+
 ## Risks  
 
 - May still provoke attention if patterns emerge too obviously  
@@ -77,13 +115,13 @@ These tactics force:
 
 ## Polaris Note  
 
-This tactic is ideal for periods where direct confrontation is too dangerous or has been exhausted. 
-It invites system error and handler fatigue, not immediate rupture. 
+This tactic is ideal for periods where direct confrontation is too dangerous or has been exhausted.
+It invites system error and handler fatigue, not immediate rupture.
 Use it to set the stage for the next breakpoint.
 
 ---
+
 ## 🔗 Related Entries  
 - [📌 Nudgers Get Nudged](./📌_nudgers_get_nudged.md) – how slow burn tactics exploit nudgers’ blind spots.  
 - [🧨 Reach Metrics Are Not Neutral](../Suppression_Modes/🧨_reach_metrics_are_not_neutral.md) – slow burn exposes reach distortion by stretching monitoring timelines.  
 - [⚖️ Containment Contract Trace](../../Big_Picture_Protocols/⚖️_containment_contract_trace.md) – arrest and surveillance laundering parallels slow-burn bureaucratic pressure.  
-
