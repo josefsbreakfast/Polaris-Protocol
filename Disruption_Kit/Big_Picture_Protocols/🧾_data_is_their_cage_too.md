@@ -2,7 +2,8 @@
 
 **Polaris Protocol: Big Picture Node**  
 **Subject:** Data possession as both containment and vulnerability  
-**Date:** 2025-08-16  
+**Date:** 2025-08-16 
+**Date created:** 2025-08-16 | **Last updated:** 2025-08-16
 
 ---
 
@@ -51,5 +52,12 @@ The more data the system holds, the more it binds itself:
 
 ## 📌 Closing Line
 
-They may hold all the data.  
+They may hold all the data. 
 But in Polaris, their data holds them too.  
+
+---
+### 🔗 Related Entries  
+- [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) – both treat bureaucratic records as hidden contracts.  
+- [🪦 Metadata Ghosts And Hauntings](./🪦_metadata_ghosts_and_hauntings.md) – anomalous metadata traces as evidence against the system.  
+- [🧨 Reach Metrics Are Not Neutral](../Containment_Scripts/Suppression_Modes/🧨_reach_metrics_are_not_neutral.md) – manipulated metrics become forensic proof of containment.  
+- [🛰️ ICC Tag Thread Containment](../Field_Logs/🛰️_icc_tag_thread_containment.md) – live field evidence where data suppression became the story.  
