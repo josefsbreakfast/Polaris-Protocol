@@ -2,7 +2,8 @@
 
 **Polaris Protocol: Field Analysis Node**  
 **Subject:** Arrest as retroactive justification for surveillance  
-**Date:** 2025-08-16  
+**Date:** 2025-08-16
+**Date created:** 2025-08-16 | **Last updated:** 2025-08-16
 
 ---
 
@@ -68,3 +69,10 @@ The arrest functions as a **pivot node**:
   The arrest remains on file as “reasonable suspicion,” endlessly reusable to justify ongoing or renewed surveillance, even after NFA.  
 
 Thus, the arrest is both **origin story** and **alibi**.
+
+---
+### 🔗 Related Entries  
+- [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md) – arrest records as covert contract equivalents.  
+- [🚫 Blocked at the Gateway](../Containment_Scripts/Suppression_Modes/🚫_blocked_at_the_gateway.md) – infrastructure-level suppression aligned with arrest narrative.  
+- [🧨 Reach Metrics Are Not Neutral](../Containment_Scripts/Suppression_Modes/🧨_reach_metrics_are_not_neutral.md) – how bureaucratic justifications mirror analytics distortions: both create false “reasonableness” records.  
+
