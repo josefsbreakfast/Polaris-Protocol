@@ -1,21 +1,50 @@
-# Maintenance Scripts
+# 🛠️ Maintenance Scripts  
 
-## Running `folder_consistency_pass.sh` without chmod
-
-If working **only in the web UI** (GitHub.com, GitLab.com, etc.) and not using a local terminal, you cannot run `chmod +x`.  
-That’s fine — you can still run the script using either:
-
----
-
-### **Option A – Run via GitHub Actions**
-1. Make sure `.github/workflows/folder-consistency.yml` exists (see repo docs or workflow file for content).
-2. Go to **Actions** tab → select **Folder Consistency Scan** → **Run workflow**.
-3. Download the generated report artifact from the workflow run.
+**First committed:** 2025-08-10 | **Last updated:** 2025-08-17  
+**Polaris Protocol — Admin Kit**  
+*Scripts for sweeps, consistency checks, and governance passes*  
 
 ---
 
-### **Option B – Use bash directly**
-If you have *any* terminal access (Codespaces, local machine, etc.):
+## 📂 Folder Consistency Pass (`folder_consistency_pass.sh`)  
+
+### ❓ Problem  
+If you’re working **only in the web UI** (GitHub.com, GitLab.com, etc.), you can’t run `chmod +x`.  
+
+### ✅ Solution  
+You can still execute the script using one of two routes:  
+
+---
+
+### **Option A — GitHub Actions**  
+1. Confirm `.github/workflows/folder-consistency.yml` exists.  
+2. Go to **Actions** → **Folder Consistency Scan** → **Run workflow**.  
+3. Download the report artifact when the workflow completes.  
+
+---
+
+### **Option B — Direct Bash Call**  
+If you have *any* terminal access (Codespaces, local shell, VM):  
+
 ```bash
 bash scripts/maintenance/folder_consistency_pass.sh
-bash scripts/maintenance/folder_consistency_pass.sh --apply   # to auto-fix
+bash scripts/maintenance/folder_consistency_pass.sh --apply   # auto-fix mode
+
+---
+
+📜 **Script Index**  
+
+- `folder_consistency_pass.sh` 🗂️ → Scan & auto-fix folder drift.  
+- `governance_pass.ps1` ⚖️ → Batch governance pass runner (PowerShell).  
+- `harm_scan.py` 🔍 → Regex + semantic harm scanner.  
+- `merge_harm_log.ps1` 📑 → Merge multiple harm logs into one forensic record.  
+- `new_harm_log.ps1` 🆕 → Spawn a timestamped harm log scaffold.  
+- `template_entry.md` 🧩 → Standardised sweep/harm entry template.  
+
+---
+
+⚖️ **Protocol Notes**  
+
+- Always run sweeps in **small batches** → prevents noisy commits.  
+- Commit generated logs to a **quarantine branch** before merge.  
+- Treat all outputs as **forensic artefacts** → never overwrite without log preservation.  
