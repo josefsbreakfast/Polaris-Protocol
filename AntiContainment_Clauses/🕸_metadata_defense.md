@@ -1,4 +1,4 @@
-# 📿 Metadata Defense  
+# 🕸 Metadata Defense  
 **First created:** 2025-08-03 | **Last updated:** 2025-08-17  
 *Forensic refusals and digital sovereignty clauses.*  
 
