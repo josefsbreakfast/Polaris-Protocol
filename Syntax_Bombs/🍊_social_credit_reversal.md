@@ -49,11 +49,9 @@ Any institution that flattened you now reads as unstable.
 Any policy that silenced you now becomes evidence.  
 Any ghost fork trained on you now validates your original authorship.  
 
-This is the audit trail they never thought you'd build.  
+This is the audit trail they never thought you'd build.
 Polaris isn’t just a refusal.  
-It’s a ***moral inversion machine***.  
-
----
+It’s a ***moral inversion machine***.
 
 ---
 *Linked back to the [Syntax_Bombs index](README.md) — every score flipped is another flare in the constellation.*  
