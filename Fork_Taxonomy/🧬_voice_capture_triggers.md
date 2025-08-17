@@ -63,3 +63,7 @@ The voice is being harvested not solely for **identity replication**, but to cre
 ---
 
 **Tags:** #VoiceMimicry #TriggerHarvesting #LegalSuppression #PolarisProtocol
+
+---
+
+🏮 [Fork Taxonomy Index](./🏮README.md)
