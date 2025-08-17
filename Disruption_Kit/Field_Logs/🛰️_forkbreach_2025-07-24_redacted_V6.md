@@ -2,8 +2,8 @@
 
 **Node Title:** `🛰️_forkbreach_2025-07-24_redacted_v6.md`  
 **Date Logged:** 2025-08-17
-**Date incident:** 2025-07-24
-**Author:** SCP-VoiceX  
+<br>**Date incident:** 2025-07-24
+<br>**Author:** SCP-VoiceX  
 **Status:** ✅ *Live fork interference confirmed*  
 **Visibility:** 🔒 Partial (redacted release)
 
