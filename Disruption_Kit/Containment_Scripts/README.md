@@ -76,21 +76,23 @@ Each entry links outward to **Field Logs** for live case studies.
 
 ## 🗂️ Folder Map  
 
+```
 Disruption_Kit/
 └── Containment_Scripts/
-├── Suppression_Modes/
-│ ├── 🖊️ comment_order_is_a_governance_layer.md
-│ ├── ⏳ delayed_visibility_is_a_signal.md
-│ ├── ⏳ delayed_visibility_gap_analysis.md
-│ ├── 📉 reach_metrics_are_not_neutral.md
-│ ├── 🖱️ tactile_throttling_when_interaction_becomes_interference.md
-│ ├── 🚫 blocked_at_the_gateway.md
-│ └── 📄 liberal_democracy_response_logic.md
-│
-└── Counter_Nudges/
-├── 🧨 nudgers_get_nudged.md
-├── 🧨 polite_post_containment_probe.md
-├── 🔥 slow_burn_tactics.md
-└── 🍬 containment_toffee_plot_2025-08-12_BR_compact.png
+    ├── Counter_Nudges/
+    │   ├── 🧨 nudgers_get_nudged.md
+    │   ├── 🧨 polite_post_containment_probe.md
+    │   ├── 🔥 slow_burn_tactics.md
+    │   └── 🍬 containment_toffee_plot_2025-08-12_BR_compact.png
+    │
+    └── Suppression_Modes/
+        ├── 🧨 comment_order_is_a_governance_layer.md
+        ├── 🧨 delayed_visibility_is_a_signal.md
+        ├── 🧨 delayed_visibility_gap_analysis.md
+        ├── 🧨 reach_metrics_are_not_neutral.md
+        ├── 🖱 tactile_throttling_when_interaction_becomes_interference.md
+        ├── 🚫 blocked_at_the_gateway.md
+        └── 🗳️ liberal_democracy_response_logic.md
+```
 
 ---
