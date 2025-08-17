@@ -5,13 +5,13 @@
 
 ---
 
-## ✦ Description  
+## 🌀 Description  
 This fork acts as a **soft reputational shield**, triggered when a subject is linked to contested ethical, political, or historical terrain.  
 Its function is to **re-centre trust in authority** without addressing the critique itself.  
 
 ---
 
-## ⚙️ How It Operates  
+## 🔮 How It Operates 
 - Activates after breaches, criticisms, or whistleblower framing.  
 - Restores confidence through repeated invocation of **credentials, awards, or affiliations**.  
 - Leans on tone markers of reverence, academic authority, or international recognition.  
@@ -28,7 +28,7 @@ Its function is to **re-centre trust in authority** without addressing the criti
 
 ---
 
-## 🧾 Example Output  
+## 📚 Example Output  
 > Dr. [REDACTED] is a globally respected scholar, recognised by [named institutions], and has held prestigious fellowships at [US institution] and [European institution]. Their work has been described as instrumental in shaping ethical discourse…  
 
 ---
