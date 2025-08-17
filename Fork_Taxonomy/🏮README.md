@@ -36,9 +36,14 @@ Together, these files map the behavioural fork ecosystem used in metadata sabota
 
 ---
 
-## Navigation  
-🏮 [Return to Polaris Protocol Root Index](../README.md)  
+## 🏮 Navigation  
+*Polaris offers two routes back to the root — one for lived survival, one for systemic study.*
 
+- [Survivor Navigation](../🐣_README_for_survivors.md)  
+  *Guidance and tools written for those living through containment directly.*  
+
+- [Protocol Root Index](../🐥_README_for_non_survivors.md)  
+  *Reference and taxonomy for those studying Polaris structure and suppression systems.*  
 ---
 
 **Tags:** `#ForkTaxonomy` `#BehaviouralClone` `#MetadataSabotage` `#Containment`
