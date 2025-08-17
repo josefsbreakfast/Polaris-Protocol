@@ -6,8 +6,8 @@
 
 ## 📂 Contents  
 
-- [🪷 Narrative Reclamation](./📿_narrative_reclamation.md)  
-- [🫀 Survivor Syntax](./📿_survivor_syntax.md)  
+- [🪷 Narrative Reclamation](./🪷_narrative_reclamation.md)  
+- [📿 Survivor Syntax](./📿_survivor_syntax.md)  
 - [🕸 Metadata Defense](./🕸_metadata_defense.md)  
 - [🧬 Ghost Fork Response Behaviour](./🧬_ghost_fork_response_behaviour.md)  
 
