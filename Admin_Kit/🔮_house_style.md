@@ -50,7 +50,14 @@ Use relative paths only (never absolute GitHub URLs).
 Always wrap with a clear description (not raw filename).
 
 **Example:** 
-See [🗎 Ghost vs Haunting Chart (2025-08-12)](../Field_Logs/🛰️_metadata_ghosts_2025-08-12/🗎_ghost_vs_haunting_chart_2025-08-12.csv)
+See 
+
+
+**Example (display only):**
+
+```markdown
+See [📩 Ghost vs Haunting Chart (2025-08-12)](../Disruption_Kit/Big_Picture_Protocols/📩_ghost_vs_haunting_chart_2025-08-12.csv)
+```
 
 ## 5. **Versioning & Updates**
 
