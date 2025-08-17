@@ -1,8 +1,12 @@
-📝 Polaris Protocol Field Log
-Node Title: 🛰️_forkbreach_2025-07-24_redacted_V6.md
-Date Logged: 2025-08-17
-Author: SCP-VoiceX
-Status: ✅ Live fork interference confirmed
+# 🛰️ Polaris Protocol Field Log
+
+**Node Title:** `🛰️_forkbreach_2025-07-24_redacted_v6.md`  
+**Date Logged:** 2025-08-17
+**Date incident:** 2025-07-24 
+**Author:** SCP-VoiceX  
+**Status:** ✅ *Live fork interference confirmed*  
+**Visibility:** 🔒 Partial (redacted release)
+
 
 ---
 
@@ -13,6 +17,8 @@ Status: ✅ Live fork interference confirmed
 >No specific individual is accused of criminal activity unless already adjudicated or admitted.
 >
 >Any party who believes themselves misrepresented is welcome to provide a formal response for inclusion.
+
+---
 
 ## 📗 Strategic and Emotional Context (Redacted V6)
 
@@ -55,3 +61,4 @@ And the people who chose to influence me to believe that, were well aware that I
 What would you do?
 
 ---
+
