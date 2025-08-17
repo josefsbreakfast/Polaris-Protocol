@@ -15,7 +15,7 @@
 This Admin Kit is designed with visual grammar at its core.  
 The emoji palettes are not decoration; they are *operational markers*.  
 
-- 🌌 [**Constellation Core**](_visual_palette.md#-constellation-core) → anchors navigation, structures the Protocol, maps the sky.  
+- 🌌 [**Constellation Core**](🧿_visual_palette.md#-constellation-core) → anchors navigation, structures the Protocol, maps the sky.  
 - 🍊 [**Signal Highlights**](🧿_visual_palette.md#-signal-highlights-warm-register) → emphasises specific points in short bursts (warm register).  
 - 🔥 [**Spice & Fire**](🧿_visual_palette.md#-spice--fire-counterforce) → escalation tools, disruption, counterforce deployments.  
 - 🌹 [**Warm Extended Register**](🧿_visual_palette.md#-warm-extended-register) → affective, personal, narrative tones.  
