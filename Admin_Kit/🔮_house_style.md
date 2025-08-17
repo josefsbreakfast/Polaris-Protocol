@@ -49,10 +49,6 @@ Use relative paths only (never absolute GitHub URLs).
 
 Always wrap with a clear description (not raw filename).
 
-**Example:** 
-See 
-
-
 **Example (display only):**
 
 ```markdown
