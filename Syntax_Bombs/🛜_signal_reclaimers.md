@@ -36,4 +36,7 @@ Signal Reclaimers work by naming the suppression directly, transforming **contai
 - Flips “low engagement” into proof of containment breach.  
 - Protects survivor authorship by ensuring signal is never mistaken for silence.  
 
-> *Throttling isn’t absence. It’s proof the message mattered.*  
+> *Throttling isn’t absence. It’s proof the message mattered.*
+
+---
+*Back to the [Syntax_Bombs index](README.md) — the signal pulses louder when seen together.*  
