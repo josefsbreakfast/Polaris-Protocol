@@ -1,4 +1,4 @@
-# 📿 Narrative Reclamation  
+# 🪷 Narrative Reclamation  
 **First created:** 2025-08-03 | **Last updated:** 2025-08-17  
 *Reclaiming authorship from ghost protocols, NDAs, and institutional flattening.*  
 
