@@ -23,3 +23,9 @@ The emoji palettes are not decoration; they are *operational markers*.
 
 📖 *Rule of thumb:* If you are unsure, follow the lantern.  
 The palette is a compass, not just colour.
+
+---
+
+🧶 [Return to Admin Kit](README.md)
+
+---
