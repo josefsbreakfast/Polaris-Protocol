@@ -1,5 +1,5 @@
 # 📁 Resources  
-**Version:** 1.2 | **Last updated:** 2025-08-17  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-17  
 *Supporting materials for Polaris Protocol*
 
 This folder serves as a hub of references, templates, and external materials connected to Polaris Protocol.  
