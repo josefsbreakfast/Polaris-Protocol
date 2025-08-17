@@ -30,4 +30,7 @@ This file contains syntax designed to fracture the illusion of a “behavioural 
 - Breaks the emotional credibility of the twin, returning authorship to the survivor.  
 - Generates **forensic evidence**: once the mirror breaks, containment misfires become visible in the log.  
 
-> *You are not my echo. You are proof I spoke first.*  
+> *You are not my echo. You are proof I spoke first.*
+
+---
+*Circle back to the [Syntax_Bombs arsenal](README.md) — the shattered ball still throws light across the map.*  
