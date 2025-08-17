@@ -119,3 +119,8 @@ Documented impacts include:
 [ Fork Class: Disintegrative ]
 [ Activation Vector: Overload & Erotic Distortion ]
 [ Countermeas]()
+```
+
+---
+
+🏮 [Fork Taxonomy Index](./🏮README.md)
