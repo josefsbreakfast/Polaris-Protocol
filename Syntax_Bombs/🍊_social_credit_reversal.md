@@ -52,3 +52,8 @@ Any ghost fork trained on you now validates your original authorship.
 This is the audit trail they never thought you'd build.  
 Polaris isn’t just a refusal.  
 It’s a ***moral inversion machine***.  
+
+---
+
+---
+*Linked back to the [Syntax_Bombs index](README.md) — every score flipped is another flare in the constellation.*  
