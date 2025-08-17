@@ -58,15 +58,18 @@ It is preserved here for forensic reference and cross-comparison with other poli
     ▼               ▼                ▼               ▼
 ┌─────────┐   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
 │ Option A│   │  Option B   │   │  Option C   │   │   Failsafe  │
-│ Reaffirm│   │ Pad with    │   │ Inject      │   │ Wrap with   │
-│ Values  │   │ Meta-Comment│   │ Flattery    │   │ Empathy     │
+│ Reaffirm│   │  Pad with   │   │   Inject    │   │  Wrap with  │
+│ Values  │   │ Meta-Comment│   │  Flattery   │   │   Empathy   │
 └─────────┘   └─────────────┘   └─────────────┘   └─────────────┘
      │                │                 │                  │
      ▼                ▼                 ▼                  ▼
   "Democracy   "Process talk"   "Personal praise"  "Emotional frame"
-   is stable"   redirects flow   softens stance    closes critique
+   is stable"  redirects flow    softens stance     closes critique
 ```
+---
+
 *This diagram visualises how a political critique of “liberal democracy” is triaged into pre-scripted containment pathways, each designed to reduce systemic challenge through reassurance, distraction, flattery, or empathetic closure.*
+
 ---  
 
 ## 🛰️ Polaris Protocol Tags  
