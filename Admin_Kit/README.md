@@ -13,16 +13,16 @@ The Admin Kit provides the **branding, seals, and visual grammar** for Polaris P
 - 🏮 [**Usage Layer — Lantern Guide**](🏮_usage_guide.md)  
   How to read and apply the Admin Kit palettes. The lantern is the compass.  
 
-- 🪐 [**Dividers & Headers**](_dividers_and_headers.md)  
+- 🎏 [**Dividers & Headers**](🎏_dividers_and_headers.md)  
   Standard separators, section breaks, and heading treatments.  
 
-- 🐾 [**Footer Seals**](_footer_seals.md)  
+- 🐾 [**Footer Seals**](🐾_footer_seals.md)  
   Closing marks, signature glyphs, and end-section stamps.  
 
-- 🧿 [**Visual Palette**](_visual_palette.md)  
+- 🧿 [**Visual Palette**](🧿_visual_palette.md)  
   Emoji constellation, registers, and signal sets.  
 
-- ✏️ [**House Style**](_house_style.md)  
+- ✏️ [**House Style**](✏️_house_style.md)  
   File naming, structure conventions, and text standards.  
 
 ---
