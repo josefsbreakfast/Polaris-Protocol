@@ -22,7 +22,7 @@ The Admin Kit provides the **branding, seals, and visual grammar** for Polaris P
 - 🧿 [**Visual Palette**](🧿_visual_palette.md)  
   Emoji constellation, registers, and signal sets.  
 
-- ✏️ [**House Style**](✏️_house_style.md)  
+- 🔮 [**House Style**](🔮_house_style.md)  
   File naming, structure conventions, and text standards.  
 
 ---
