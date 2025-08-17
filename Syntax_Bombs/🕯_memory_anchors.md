@@ -1,6 +1,8 @@
 # 🕯 Memory Anchors  
 **First created:** 2025-08-17 | **Last updated:** 2025-08-17  
-*Survivor-led phrases that lock testimony against erasure.*  
+*Survivor-led phrases that lock testimony against erasure.*
+
+---
 
 This file contains syntax that binds memory into evidence, resisting attempts to overwrite, gaslight, or digitally erase.  
 Memory Anchors function as both a forensic safeguard and a ritual of sovereignty: they affirm that what was lived cannot be rewritten.  
