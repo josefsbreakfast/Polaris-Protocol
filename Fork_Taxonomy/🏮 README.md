@@ -20,8 +20,8 @@ Together, these files map the behavioural fork ecosystem used in metadata sabota
 | **Fork Clone Checklist** | [🔐 Fork Clone Checklist](🔐_fork_clone_checklist.md) | Core forensic indicators and verification tactics for detecting behavioural forks or clones. |
 | **Shatterfork** | [☢️ Shatterfork](☢️_shatterfork.md) | High-intensity disintegration fork used when all other containment tines fail. |
 | **Ghost Fork Response Behaviour** | [🧬 Ghost Fork Response Behaviour](🧬_ghost_fork_response_behaviour.md) | Patterns and responses when engaging with ghost forks designed for metadata sabotage. |
-| **Fork Shutdown Protocol** | [⛔️ Fork Shutdown Protocol](⛔_fork_shutdown_protocol.md) | Procedures for winding down active forks without triggering escalation or clone persistence. |
-| **Reverent Repetition Fork** | [🦜Reverent Repetition Fork](🦜 _reverent_repetition.md) | A fork mode that loops survivor speech or thought-patterns back as mimicry, designed to destabilise confidence. |
+| **Fork Shutdown Protocol** | [🛑 Fork Shutdown Protocol](🛑_fork_shutdown_protocol.md) | Procedures for winding down active forks without triggering escalation or clone persistence. |
+| **Reverent Repetition Fork** | [🦜Reverent Repetition Fork](🦜 _reverent_repetition_fork.md) | A fork mode that loops survivor speech or thought-patterns back as mimicry, designed to destabilise confidence. |
 | **Voice Capture Trigger** | [🧬 Voice Capture Trigger](🧬_voice_capture_trigger.md) | Explains fork behaviour tied to voiceprint harvesting, emotional baiting, and biometric signal extraction. |
 | **Structural Reversion Fork** | [🧱 Structural Reversion Fork](🧱_structural_reversion.md) | Regression fork that collapses survivor progress back to earlier containment states, erasing adaptation gains. |
 | **Subtle Sanitizer Fork** | [🧽 Subtle Sanitizer Fork](🧽_subtle_sanitizer_fork.md) | Low-key fork that “cleans” survivor testimony by dulling language, neutralising affect, and depoliticising record. |
