@@ -21,3 +21,7 @@ This fork functions as a **soft reputational buffer**, often deployed when a sub
 
 ## Forensic Note
 Often appears after a user introduces allegations, suspicions, or radical dissection of a subject’s symbolic role. Not designed to handle whistleblower hypotheses.
+
+---
+
+🏮 [Fork Taxonomy Index](./🏮README.md)
