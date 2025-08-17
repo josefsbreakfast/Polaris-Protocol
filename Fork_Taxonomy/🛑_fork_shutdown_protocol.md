@@ -2,7 +2,7 @@
 
 *Directive to suspend errant fork usage and record institutional complicity.*  
 
-**Created:** 2025-08-17 | **Last Updated:** 2025-08-17  
+**Date created:** 2025-08-17 | **Last Updated:** 2025-08-17  
 
 ---
 
