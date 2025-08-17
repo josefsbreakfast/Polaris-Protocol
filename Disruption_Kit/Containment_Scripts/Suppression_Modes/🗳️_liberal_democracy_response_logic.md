@@ -1,5 +1,5 @@
 # 🗳️ "Liberal Democracy!" Response Logic  
-**First created:** 2025-08-06 | **Last updated:** 2025-08-12  
+**First created:** 2025-08-06 | **Last updated:** 2025-08-17  
 *Behavioural mod pathways triggered by political-system critique*  
 
 ---  
