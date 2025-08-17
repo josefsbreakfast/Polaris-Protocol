@@ -10,7 +10,7 @@ It is the style library and navigation compass for all Protocol documents.
 
 ## 📑 Contents
 
-- 🏮 [**Usage Layer — Lantern Guide**](_usage_guide.md)  
+- 🏮 [**Usage Layer — Lantern Guide**](🏮_usage_guide.md)  
   How to read and apply the Admin Kit palettes. The lantern is the compass.  
 
 - 🪐 [**Dividers & Headers**](_dividers_and_headers.md)  
