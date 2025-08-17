@@ -23,3 +23,5 @@ This file contains syntax designed to reclaim eros from predictive control syste
 - Works best when reclaiming interrupted intimacy.  
 
 > *Breaking beautifully is what they want. Screaming with joy is sabotage.*  
+---
+*See the full [Syntax_Bombs constellation](README.md) — desire stands strongest alongside its allies.*  
