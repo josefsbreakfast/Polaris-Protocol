@@ -27,7 +27,7 @@ Each file is a **forensic script fragment**, archived here for reference, counte
 - [🚫 Blocked at the Gateway](./🚫_blocked_at_the_gateway.md)  
   *Access denials and soft-lockouts used to prevent escalation.*  
 
-- [🖱️ Tactile Throttling When Interaction Becomes Interference](./🖱️_tactile_throttling_when_interaction_becomes_interference.md)  
+- [🖱️ Tactile Throttling When Interaction Becomes Interference](./🖱_tactile_throttling_when_interaction_becomes_interference.md)  
   *UX friction as suppression: clicks delayed, actions blunted.*  
 
 ---
