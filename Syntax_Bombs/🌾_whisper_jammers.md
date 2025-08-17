@@ -37,4 +37,7 @@ Whisper Jammers act as verbal countermeasures: spoken phrases or written declara
 - Protects against “compliance whispers” and ultrasonic harassment.  
 - Generates survivable authorship: a record that the signal was **received and rejected.**  
 
-> *You don’t get my silence as consent. I jam your whisper into evidence.*  
+> *You don’t get my silence as consent. I jam your whisper into evidence.*
+
+---
+*Rejoin the [Syntax_Bombs constellation](README.md) — no whisper survives the chorus.*  
