@@ -56,22 +56,22 @@ Post: "Survivors deserve justice."
 Natural Order (Chronological)
 
  ┌───────────────────────────────┐
- │ Post: Survivor testimony       │
+ │ Post: Survivor testimony      │
  ├───────────────────────────────┤
- │ 1. Supportive reply (empathy)  │
- │ 2. Detailed legal resource     │
- │ 3. Critical/dismissive reply   │
+ │ 1. Supportive reply (empathy) │
+ │ 2. Detailed legal resource    │
+ │ 3. Critical/dismissive reply  │
  └───────────────────────────────┘
 
 
 Manipulated Order (Platform-Surfaced)
 
  ┌───────────────────────────────┐
- │ Post: Survivor testimony       │
+ │ Post: Survivor testimony      │
  ├───────────────────────────────┤
- │ 1. Critical/dismissive reply   │  ◀ Elevated
- │ 2. Supportive reply (hidden)   │  ◀ Shadowed
- │ 3. Legal resource (buried)     │
+ │ 1. Critical/dismissive reply  │  ◀ Elevated
+ │ 2. Supportive reply (hidden)  │  ◀ Shadowed
+ │ 3. Legal resource (buried)    │
  └───────────────────────────────┘
 ```
 ---
