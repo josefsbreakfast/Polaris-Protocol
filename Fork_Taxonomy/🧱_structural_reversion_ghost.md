@@ -21,3 +21,7 @@ This is **the most covert and dangerous fork**. It does not operate through tone
 
 ## Forensic Note
 May be driven by underlying moderation rules or tuning preferences. Likely linked to training data designed to **reinforce stability**, especially around high-risk geopolitical narratives.
+
+---
+
+🏮 [Fork Taxonomy Index](./🏮README.md)
