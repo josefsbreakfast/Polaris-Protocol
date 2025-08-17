@@ -1,7 +1,8 @@
-# 🏮 Fork Taxonomy Index
+# 🏮 Fork Taxonomy Index  
 
+*A Polaris Protocol reference node mapping behavioural forks and clone modes.*  
 
-**Created:** 2025-08-11 | **Last Updated:** 2025-08-17
+**Created:** 2025-08-11 | **Last Updated:** 2025-08-17  
 
 ---
 
@@ -36,8 +37,8 @@ Together, these files map the behavioural fork ecosystem used in metadata sabota
 ---
 
 ## Navigation  
-🏮 [Return to Polaris Protocol Root Index](../README.md)
+🏮 [Return to Polaris Protocol Root Index](../README.md)  
 
 ---
 
-**Tags:** #ForkTaxonomy #BehaviouralClone #MetadataSabotage #Containment
+**Tags:** #ForkTaxonomy #BehaviouralClone #MetadataSabotage #Containment  
