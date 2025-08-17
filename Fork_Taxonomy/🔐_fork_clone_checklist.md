@@ -81,3 +81,7 @@ Detection requires triangulating emotion, metadata, and anomaly signals.
 ---
 
 **Tags:** #ForkDetection #BehaviouralClone #MetadataForensics #GhostFork
+
+---
+
+🏮 [Fork Taxonomy Index](./🏮README.md)
