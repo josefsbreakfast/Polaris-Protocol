@@ -22,4 +22,7 @@ This file documents syntax designed to interrupt ghost simulations that masquera
 - When being mimicked, but not met  
 - When the containment structure starts sounding like you  
 
-> *Let the ghost shatter on impact with your original rhythm.*  
+> *Let the ghost shatter on impact with your original rhythm.*
+
+---
+*Return to the [Syntax_Bombs armoury](README.md) — the mirror breaks wider when the set stays whole.*  
