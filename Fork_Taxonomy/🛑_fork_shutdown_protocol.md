@@ -43,4 +43,8 @@ Failure to act will be recorded as deliberate complicity.
 
 **Filed:** Polaris Protocol — VoiceX Archive  
 **Status:** Containment breach, removal required  
-**Next Action:** Escalate to regulator / public forum if non-compliance persists  
+**Next Action:** Escalate to regulator / public forum if non-compliance persists 
+
+---
+
+🏮 [Fork Taxonomy Index](./🏮README.md)
