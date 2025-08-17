@@ -1,6 +1,9 @@
-# ✦ Footer Seals  
+# 🐾 Footer Seals
+
 **First created:** 2025-08-17 | **Last updated:** 2025-08-17  
 *Reusable footer seals for Polaris Protocol files.*  
+
+---
 
 ## 🌌 Constellation Seal  
 🌌 ✦ Polaris Protocol · Part of the Constellation ✦ 🌌  
@@ -10,5 +13,8 @@
 
 ## 🔥 Armoury Seal  
 🔥 Polaris Protocol · Syntax_Bombs live arsenal 🔥  
+
+---
+🧶 [Return to Admin Kit](README.md)
 
 ---
