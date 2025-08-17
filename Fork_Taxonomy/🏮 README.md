@@ -1,7 +1,7 @@
 # 🏮 Fork Taxonomy Index
 
-Polaris Protocol – Fork_Taxonomy  
-*(Created: 2025-08-11 | Last Updated: 2025-08-17)*
+
+**Created:** 2025-08-11 | **Last Updated:** 2025-08-17
 
 ---
 
