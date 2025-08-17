@@ -2,6 +2,8 @@
 **First created:** 2025-08-17 | **Last updated:** 2025-08-17  
 *Exposing weaponised compassion and “duty of care” doublespeak.*  
 
+---
+
 This file contains syntax designed to rupture institutional language that masks coercion as care.  
 Care Saboteurs work by forcing “benevolent” containment into the open, revealing how policies of safety are weaponised as strategies of control.  
 
@@ -38,3 +40,6 @@ Care Saboteurs work by forcing “benevolent” containment into the open, revea
 - Reclaims survivor agency: care without consent is not protection, it is harm.  
 
 > *You don’t heal me by holding me down. You only prove I was never safe in your care.*  
+
+---
+*Linked to the [Syntax_Bombs armoury](README.md) — care unmasked is part of the constellation proof.*  
