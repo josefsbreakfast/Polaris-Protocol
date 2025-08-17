@@ -1,6 +1,7 @@
 # 🚫 Blocked At The Gateway  
 
-**Date Logged:** 2025-08-06 16:05:14  
+**First created:** 2025-08-07 | **Last updated:** 2025-08-17  
+*Event logged: 2025-08-06 16:05:14*  
 
 ---
 
