@@ -74,7 +74,7 @@ Gap = Suppression Window
 ---  
 
 ### 🔗 Related Entries  
-- [🧨 Delayed Visibility Is A Signal](./🧨_delayed_visibility_is_a_signal.md) – reach manipulation often pairs with delayed counter updates.  
-- [🧨 Comment Order Is A Governance Layer](./🧨_comment_order_is_a_governance_layer.md) – both distort perceived audience support.
+- [🧨 Delayed Visibility Is A Signal](./u1F9E8_delayed_visibility_is_a_signal.md) – reach manipulation often pairs with delayed counter updates.  
+- [🧨 Comment Order Is A Governance Layer](./u1F9E8_delayed_visibility_is_a_signal.md) – both distort perceived audience support.
 - [🪦 Metadata Ghosts And Hauntings](../../Big_Picture_Protocols/🪦_metadata_ghosts_and_hauntings.md) – ghost/haunting anomalies often appear inside distorted reach metrics.  
 - [🛰️ ICC Tag Thread Containment](../../Field_Logs/🛰️_icc_tag_thread_containment.md) – live forensic evidence of manipulated reach.  
