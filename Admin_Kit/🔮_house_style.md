@@ -61,3 +61,7 @@ Increment House Style version when rules are added or changed.
 Version history tracked at top of this file.
 
 ---
+
+🧶 [Return to Admin Kit](README.md)
+
+---
