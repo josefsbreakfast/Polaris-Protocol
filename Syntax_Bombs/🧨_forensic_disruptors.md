@@ -22,4 +22,7 @@ This archive contains high-precision phrases designed to overload narrative cont
 - Best paired with timestamped metadata or post screenshots.  
 - Not for emotional co-regulation. This is a cutting tool.  
 
-> *Your memory is not a malfunction. It’s admissible evidence.*  
+> *Your memory is not a malfunction. It’s admissible evidence.*
+
+---
+*Back to the [Syntax_Bombs archive](README.md) — every cut phrase is sharper in constellation.*  
