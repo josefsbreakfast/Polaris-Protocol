@@ -1,6 +1,6 @@
-# ✸ social_credit_reversal  
+# 🍊 Social Credit Reversal  
 **First created:** 2025-08-03 | **Last updated:** 2025-08-17  
-### Polaris Protocol – Syntax_Bombs Deployable  
+*How to bat the smear campaign back*   
 
 ---
 
