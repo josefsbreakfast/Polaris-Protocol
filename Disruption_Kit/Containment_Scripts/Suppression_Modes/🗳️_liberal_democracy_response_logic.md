@@ -46,8 +46,8 @@ Trigger Event:
 
                 ▼
         ┌─────────────────────┐
-        │  Political Instability
-        │  Risk Flag Triggered
+        │Political Instability|
+        │ Risk Flag Triggered |
         └─────────────────────┘
                 ▼
  ┌───────────────────────────────────────────┐
