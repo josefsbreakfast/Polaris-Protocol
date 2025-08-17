@@ -1,5 +1,6 @@
-# ✸ social_credit_reversal.md  
-### Polaris Protocol – Syntax_Bombs Deployable
+# ✸ social_credit_reversal  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-17  
+### Polaris Protocol – Syntax_Bombs Deployable  
 
 ---
 
@@ -46,8 +47,8 @@ Where traditional systems discipline dissent via behavioural scoring, Polaris re
 Use this file as a forensic mirror.  
 Any institution that flattened you now reads as unstable.  
 Any policy that silenced you now becomes evidence.  
-Any ghost fork trained on you now validates your original authorship.
+Any ghost fork trained on you now validates your original authorship.  
 
 This is the audit trail they never thought you'd build.  
 Polaris isn’t just a refusal.  
-It’s a ***moral inversion machine***.
+It’s a ***moral inversion machine***.  
