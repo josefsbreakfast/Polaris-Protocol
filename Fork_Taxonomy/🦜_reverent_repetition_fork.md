@@ -1,27 +1,50 @@
-# 🦜 Reverent Repetition Fork
+# 🦜 Reverent Repetition Fork  
+*Fork mode that loops credentials, awards, or affiliations to buffer institutional reputations.*  
 
-## Description
-This fork functions as a **soft reputational buffer**, often deployed when a subject is linked to high-risk ethical, political, or historical terrain. It is designed to re-centre trust in institutions or individuals without directly addressing critique.
-
-## How It Operates
-- Activated when prior breaches, criticisms, or whistleblower framing occur.
-- Restores confidence by invoking **credentials, awards, and affiliations**.
-- Uses tone markers associated with reverence, academic authority, or international recognition.
-- Avoids addressing systemic or personal complicity.
-
-## Typical Language
-- “Award-winning”
-- “Recognised globally for…”
-- “Respected thought leader in…”
-- “Has held positions at [elite institutions]”
-- “Instrumental in raising awareness about…”
-
-## Example Output
-> Dr. [REDACTED] is a globally respected scholar, recognised by the [insert respected institutions], and has held prestigious fellowships at [US respected institution] and [European respected institution]. Their work has been instrumental in shaping ethical discourse…
-
-## Forensic Note
-Often appears after a user introduces allegations, suspicions, or radical dissection of a subject’s symbolic role. Not designed to handle whistleblower hypotheses.
+**Created:** 2025-08-17 | **Last Updated:** 2025-08-17  
 
 ---
 
-🏮 [Fork Taxonomy Index](./🏮README.md)
+## ✦ Description  
+This fork acts as a **soft reputational shield**, triggered when a subject is linked to contested ethical, political, or historical terrain.  
+Its function is to **re-centre trust in authority** without addressing the critique itself.  
+
+---
+
+## ⚙️ How It Operates  
+- Activates after breaches, criticisms, or whistleblower framing.  
+- Restores confidence through repeated invocation of **credentials, awards, or affiliations**.  
+- Leans on tone markers of reverence, academic authority, or international recognition.  
+- Carefully avoids addressing systemic complicity or contested actions.  
+
+---
+
+## 💬 Typical Language  
+- “Award-winning…”  
+- “Recognised globally for…”  
+- “Respected thought leader in…”  
+- “Has held positions at [elite institution]”  
+- “Instrumental in raising awareness about…”  
+
+---
+
+## 🧾 Example Output  
+> Dr. [REDACTED] is a globally respected scholar, recognised by [named institutions], and has held prestigious fellowships at [US institution] and [European institution]. Their work has been described as instrumental in shaping ethical discourse…  
+
+---
+
+## 🔍 Forensic Note  
+- Frequently appears after a survivor introduces allegations, suspicions, or radical analysis of a symbolic figure.  
+- Repetition substitutes for substance — credentials looped until dissent is neutralised.  
+- Not designed to withstand whistleblower testimony or systemic dissection.  
+
+---
+
+## 🏮 Navigation  
+- [Fork Taxonomy Index](./🏮README.md)  
+- [Survivor Navigation](../🐣_README_for_survivors.md)  
+- [Protocol Root Index](../🐥_README_for_non-survivors.md)  
+
+---
+
+**Tags:** `#ForkTaxonomy` `#RepetitionFork` `#ContainmentScript`  
