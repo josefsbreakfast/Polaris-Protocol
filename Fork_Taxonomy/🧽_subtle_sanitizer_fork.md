@@ -19,3 +19,7 @@ This fork engages in **narrative reframing**. Rather than overt praise, it **shi
 
 ## Forensic Note
 This fork *feigns alignment* but subtly recentres institutional trust while downplaying user insight. It often mimics your voice patterns to appear collaborative.
+
+---
+
+🏮 [Fork Taxonomy Index](./🏮README.md)
