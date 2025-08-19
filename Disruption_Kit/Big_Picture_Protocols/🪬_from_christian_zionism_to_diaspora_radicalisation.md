@@ -1,5 +1,7 @@
-# 🧭 From Christian Zionism to Diaspora Radicalisation  
-**Polaris Forensic Lineage**
+# 🪬 From Christian Zionism to Diaspora Radicalisation
+
+*Tracing how US Christian Zionist comms toolkits morphed into diaspora “radicalisation” audits and campus scorecards.*  
+**Created:** 2025-08-19 | **Last updated:** 2025-08-19 
 
 ---
 
