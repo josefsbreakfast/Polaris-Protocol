@@ -66,32 +66,32 @@ timeline
 ```mermaid
 
 flowchart LR
-  subgraph US_Evangelical_Ecosystem["US Evangelical / Christian Zionist Ecosystem (1970s→)"]
-    A[Televangelists & Prophecy Media]
-    B[ICEJ / IFCJ Networks]
-    C[CUFI Donor/Activist Base]
-    D[Heritage/Conservative Policy Circles]
+  subgraph US_Evangelical_Ecosystem["US Evangelical / Christian Zionist Ecosystem 1970s→"]
+    A[Televangelists and Prophecy Media]
+    B[ICEJ and IFCJ Networks]
+    C[CUFI Donor and Activist Base]
+    D[Heritage and Conservative Policy Circles]
   end
 
-  subgraph Comms_Toolkit["Comms Toolkit (secularised theology)"]
-    M[Binary moral frames<br/>good vs evil]
-    N[Apocalyptic threat arcs<br/>Iran = Persia]
-    O[Donor theatre & mobilization]
-    P[Policy-laundered rhetoric<br/>peace/tolerance, civilization front]
+  subgraph Comms_Toolkit["Comms Toolkit secularised theology"]
+    M[Binary moral frames: good vs evil]
+    N[Apocalyptic threat arcs: Iran as Persia]
+    O[Donor theatre and mobilization]
+    P[Policy-laundered rhetoric: peace, tolerance, civilization front]
   end
 
   subgraph Bibi_Arc["Netanyahu Arc"]
-    E[US immersion<br/>1970s–80s]
-    F[1st PM term<br/>1996–99]
-    G[Opposition<br/>2000–09]
-    H[PM consolidation<br/>2009–20]
+    E[US immersion 1970s–80s]
+    F[First PM term 1996–99]
+    G[Opposition 2000–09]
+    H[PM consolidation 2009–20]
     I[2020s present]
   end
 
-  subgraph Diaspora_Spillover["Diaspora Radicalisation (2000s→)"]
+  subgraph Diaspora_Spillover["Diaspora Radicalisation 2000s→"]
     J[Campus scorecards]
     K[Antisemitism audits]
-    L[NGO textbook monitoring<br/>IMPACT-SE, etc.]
+    L[NGO textbook monitoring: IMPACT-SE etc]
   end
 
   A --> M
@@ -181,39 +181,28 @@ Netanyahu’s ideological evolution cannot be explained only by classical Revisi
 ```mermaid
 
 flowchart TD
-  A([Start: Examine org/text/speech]) --> B{Explicitly evangelical?}
-  B -- Yes --> B1[Likely Christian Zionist\n eg ICEJ/CUFI archetype]
-  B -- No --> C{Binary moral frames? \nGood vs Evil / Civilization vs Barbarians}
-  
-  C -- No --> D{Apocalyptic threat rhetoric?\n Iran as modern Persia, End Times tones }
+  A([Start: Examine org, text, or speech]) --> B{Explicitly evangelical?}
+  B -- Yes --> B1[Likely Christian Zionist: ICEJ or CUFI archetype]
+  B -- No --> C{Binary moral frames? Good vs Evil, Civilization vs Barbarians}
+
+  C -- No --> D{Apocalyptic threat rhetoric? Iran as Persia, End Times tones}
   C -- Yes --> E[Evangelical grammar detected]
 
-  D -- No --> F{Donor theatre/scorecards?\nGlossy impact metrics for donors}
+  D -- No --> F{Donor theatre or scorecards? Glossy impact metrics for donors}
   D -- Yes --> E
 
-  F -- No --> G{UNESCO/neutral-speak veneer?\nPeace & tolerance audits, civilization language}
-  F -- Yes --> H[Toolkit fingerprint: metrics-engine]
+  F -- No --> G{UNESCO or neutral speak veneer? Peace and tolerance audits, civilization language}
+  F -- Yes --> H[Toolkit fingerprint: metrics engine]
 
-  G -- No --> I{Diaspora spillover?\nCampus scorecards, antisemitism audits,\ntextbook policing used in communal politics}
+  G -- No --> I{Diaspora spillover? Campus scorecards, antisemitism audits, textbook policing in communal politics}
   G -- Yes --> J[Policy laundering layer]
 
-  I -- No --> K[Low influence signal\n keep monitoring]
-  I -- Yes --> L[Spillover/radicalisation likely]
+  I -- No --> K[Low influence signal, keep monitoring]
+  I -- Yes --> L[Spillover or radicalisation likely]
 
   E --> H
   H --> J
   J --> L
-
-  %% Outcomes
-  B1:::outcome
-  E:::flag
-  H:::flag
-  J:::flag
-  L:::outcome
-  K:::outcome
-
-  classDef flag fill:#fff,stroke:#555,stroke-width:1px,font-weight:bold
-  classDef outcome fill:#f5f5f5,stroke:#111,stroke-width:1.5px
 
 ```
 
