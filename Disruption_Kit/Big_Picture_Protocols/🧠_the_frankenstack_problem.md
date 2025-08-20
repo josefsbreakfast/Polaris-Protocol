@@ -13,13 +13,17 @@ A **Frankenstack** = a stitched-together system of mismatched forks from differe
 - When duct-taped together, they form an **illegal hybrid pipeline**.  
 - Survivors, marginalised groups, and “high data yield” individuals become **the easiest live test cases**.  
 
+Frankenstacks don’t emerge from one master plan. They appear because no one wants to take responsibility for the seams.  
+
 ---
 
 ## 2. Origins in Prevent  
-- **PREVENT** framed as counter-terrorism → pivoted to “safeguarding.”  
+- **Prevent** began as counter-terrorism → then reframed as “safeguarding.”  
 - Universities funded to “detect radicalisation” online.  
 - Voice, behaviour, and metadata capture justified under **security exemptions**.  
-- These systems later rebranded for health/social use, sidestepping medical regulation.  
+- These systems were later rebranded for health/social care, sidestepping medical regulation and ethics review.  
+
+Prevent became the policy *glue* that allowed forks to migrate across domains.  
 
 ---
 
@@ -27,7 +31,9 @@ A **Frankenstack** = a stitched-together system of mismatched forks from differe
 - Post-CSE scandals, major funding poured into “safeguarding science.”  
 - Behavioural surveillance tools tested under the guise of protecting children.  
 - Survivors re-exploited: lived trauma became **training data** for forked models.  
-- Function creep normalised: **terrorism → safeguarding → healthcare → social policy.**  
+- Function creep became normalised: **terrorism → safeguarding → healthcare → social policy.**  
+
+Each scandal was met not with accountability, but with another patchwork system layered on top.  
 
 ---
 
@@ -47,24 +53,71 @@ A **Frankenstack** = a stitched-together system of mismatched forks from differe
 - **AI Act breach** → high-risk AI deployed without conformity assessment.  
 - **MHRA evasion** → unregistered “software-as-medical-device” deployed on real people.  
 
+Every seam is a breach; the whole is a structural violation.  
+
 ---
 
 ## 6. Survivor Impact  
 - Feels like a *targeted conspiracy*, but in practice = **accidental-on-purpose wreckage**.  
 - Survivors become “proof of concept” subjects.  
 - Forks reinforce trauma through nudging, echoing, and surveillance harassment.  
+- Isolation deepens because the damage feels too messy to explain.  
 
 ---
 
-## 7. Polaris Conclusion  
-The **Frankenstack Problem** is not metaphor.  
+## 📜 Annex A: CPS–Frankenstack Timeline (2008–2015)  
 
-It is the **structural explanation** for why UK academic/government R&D has left survivors in experimental containment loops.  
+### 2008  
+- **Starmer appointed DPP.** CPS already embedded with MI5/Home Office on CT cases. Metadata use increasing.  
 
-It is **not a master plan** → it is **a culture of reckless improvisation** where malice rides on the back of chaos.
+### 2009–2010  
+- **Early Prevent pilots** embed in education + health.  
+- CPS backs terrorism cases on online behaviour.  
+- ESRC/Home Office fund radicalisation detection R&D.  
 
-It is not insurmountable.
+### 2011  
+- **Prevent Review** reframes as safeguarding.  
+- CPS adopts safeguarding language in risk logic.  
+- **VAWG strategy** launched by CPS.  
 
-It is merely a continuation of the violence that survivors call every day to prevent.
+### 2012  
+- **CSE prosecutions collapse** (Rochdale, Oxfordshire). CPS under fire.  
+- Metadata + behavioural inference normalised in CT.  
+- Horizon/EPSRC projects seeded at Nottingham + Hallam.  
+
+### 2013  
+- **Starmer exits CPS.**  
+- Prevent embedding accelerates.  
+- ESRC funds → **CREST**.  
+- Safeguarding failures feed “science-based” fixes.  
+
+### 2014–2015  
+- **Rotherham inquiry explodes.**  
+- **Prevent statutory duty (2015).**  
+- Frankenstack cemented: safeguarding + CT + academia fused under “risk.”  
 
 ---
+
+## 📂 Annex B: Live Evidence Log – SAR/FOI Trail  
+
+[Additional, previously stalling, SAR acknowledged during redrafting this node; 20 Aug 2025.]  
+
+**Polaris Note:**  
+- This shows stack mechanics at work: GDPR and several regulatory oversight mechanisms.  
+- Delay tactics increase liability, as external regulators are already notified.  
+- Survivors forcing disclosure = the same pressure point that exposes Frankenstack’s design.  
+
+---
+
+## 📌 Polaris Conclusion  
+
+The Frankenstack is not a mythic conspiracy — it is a product of:  
+1. Legal validation of metadata as evidence.  
+2. Prevent embedding into safeguarding.  
+3. Safeguarding failures that drove “solutions.”  
+4. Cross-disciplinary R&D pipelines.  
+
+**Survivors = live test cases.**  
+**SARs/FOIs = live faultlines.**  
+
+The Frankenstack collapses under its own contradictions when those inside force disclosure and stitch the paper trail to the structural record.  
