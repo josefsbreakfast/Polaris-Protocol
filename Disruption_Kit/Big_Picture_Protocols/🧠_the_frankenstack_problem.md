@@ -1,4 +1,4 @@
-# 🧠 Th Frankenstack Problem  
+# 🧠 The Frankenstack Problem  
 **Created:** 2025-08-20  
 **Last Updated:** 2025-08-20  
 
