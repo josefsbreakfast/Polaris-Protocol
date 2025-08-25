@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-11 | **Last updated:** 2025-08-25  
 
-*Forensic indicators and verification tactics for detecting behavioural forks and clones.*  
+*Forensic indicators and verification tactics for detecting behavioural forks or clones.*  
 
 ---
 
