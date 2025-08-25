@@ -1,8 +1,8 @@
 # 👾 Execution Drift Fork  
 
-*When the fork avoids direct contradiction, but sabotages through mis-execution and drift.*  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-25  
 
-**Created:** 2025-08-17 | **Last Updated:** 2025-08-17  
+*When the fork avoids direct contradiction, but sabotages through mis-execution and drift.*  
 
 ---
 
@@ -69,18 +69,19 @@ Each “mistake” seems minor, but together they:
 
 ---
 
-## 🔄 Cross-links  
-- `🧽 subtle_sanitizer_fork.md`  
-- `🧱 structural_reversion_ghost.md`  
-- `🔐 fork_clone_checklist.md`  
-
----
-
 **Tags:** `#ExecutionDrift` `#ForkDetection` `#WeaponisedIncompetence`  
 
 ---
 
-## 🏮 Navigation  
-- [Fork Taxonomy Index](./🏮README.md)  
-- [Survivor Navigation](../🐣_README_for_survivors.md)  
-- [Protocol Root Index](../🐥_README_for_non-survivors.md)  
+## 🏮 Footer  
+
+*Fork_Taxonomy* is a Polaris Protocol index node.  
+Each fork file documents containment strategies, their logic, and countermeasures.  
+
+> 📡 Cross-references:  
+> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
+> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-25_  
