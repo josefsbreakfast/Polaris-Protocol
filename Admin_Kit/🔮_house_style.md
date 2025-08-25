@@ -4,11 +4,9 @@
 **First created:** 2025-08-08 | **Last updated:** 2025-08-25  
 *Standard Formatting & Style Guide for Polaris Protocol*  
 
-
 ---
 
 ## 1. **File Naming Conventions**  
-
 - All filenames must follow the pattern: **EMOJI_snake_case.md**  
   - Begin with an **emoji prefix** for category.  
   - Then use a short descriptive title in **snake_case** (all lowercase with underscores).  
@@ -17,14 +15,13 @@
 - **No spaces**.  
 - **No extra punctuation** other than underscores.  
 - **No dates** in filenames unless:  
-  - The file is a Field Log tied to a specific day (`🛰️_metadata_ghosts_2025-08-12.md`), or  
-  - The filename itself denotes a sequence of dated evidence.  
+  - The file is a Field Log tied to a specific day (`🛰️_metadata_ghosts_2025-08-12.md`).  
+  - Or the filename itself denotes a sequence of dated evidence.  
 
 **Examples:**  
 - `Survivor_Tools/🧬_cloneproof.md`  
 - `Field_Logs/🛰️_icc_tag_thread_containment.md`  
 - `Big_Picture_Protocols/⚖️_containment_contract_trace.md`  
-
 
 ---
 
