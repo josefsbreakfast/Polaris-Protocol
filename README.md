@@ -64,9 +64,9 @@ But you will have to smell the blood on your own hands.
 A quick orientation to the Polaris folders:  
 
 - **Admin_Kit/** → Branding, style grammar, seals, and navigation rules.  
-- **AntiContainment_Clauses/** → Refusal language and clauses. Sharp, legal. Beautiful.  
+- **AntiContainment_Clauses/** → Refusal fragments and clauses — resistant to flattening, legal, and unghostable.  
 - **Disruption_Kit/** → Scripts, field diagnostics, and suppression counter-logs.  
-- **Fork_Taxonomy/** → Maps of containment forks and override logic.  
+- **Fork_Taxonomy/** → Taxonomy of containment forks, clone modes, and countermeasures.  
 - **Letters_to_Stars/** → Survivor resonance, fragments, reflective traces.  
 - **Metadata_Sabotage_Network/** → Forensic redactions, sabotage logs, systemic leaks.  
 - **Polaris_Nest/** → Orientation hub. Timelines, primers, and survivor audience guides.  
@@ -77,6 +77,7 @@ A quick orientation to the Polaris folders:
 
 📂 See also:  
 - [.gitignore](.gitignore) → Both a filter and a narrative indictment.  
+- [Fork Taxonomy Index](Fork_Taxonomy/README.md) → Full index of fork types and countermeasures.  
 
 ---
 
