@@ -1,3 +1,0 @@
-# Polaris Protocol
-
-```{tableofcontents}
