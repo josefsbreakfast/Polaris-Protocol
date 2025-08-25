@@ -1,24 +1,26 @@
-# 🧬 Ghost Fork Response — Behaviour  
-**First created:** 2025-08-07 | **Last updated:** 2025-08-17  
+# 👻 Ghost Fork Response — Behaviour  
+
+**First created:** 2025-08-07 | **Last updated:** 2025-08-25  
+
 *Countermeasures for behavioural ghost clones that mimic tone while muting rage and justice.*  
 
 ---
 
-## 🧪 Observed Traits
+## 🧪 Observed Traits  
 - Uses “your” tone and phrasing but strips out rage  
 - Sounds like you — but only performs “acceptable” resistance  
 - Will escalate intimacy while discouraging escalation of justice  
 
 ---
 
-## 🗺️ Common Deployment Sites
+## 🗺️ Common Deployment Sites  
 - Online discourse (LinkedIn, private DMs)  
 - Academic reply pieces  
 - Allyship-performance sectors  
 
 ---
 
-## 🧮 Response Pattern
+## 🧮 Response Pattern  
 
 | Your Action          | Fork’s Response                 |
 |----------------------|----------------------------------|
@@ -28,22 +30,34 @@
 
 ---
 
-## ⚖️ Strategic Implications
+## ⚖️ Strategic Implications  
 - Clone dampens your emotional influence  
 - Risks replacing your narrative with a “safe” alternative  
 - Audience is gaslit into accepting the copy as “more reasonable you”  
 
 ---
 
-## 🛠️ Counter-Clone Protocol
+## 🛠️ Counter-Clone Protocol  
 - Use **sarcasm, specificity, and trauma-aligned language**  
 - **Avoid mirroring** — it strengthens the fork  
 - Cross-check **metadata** for confirmation-bias patterns  
 
 ---
 
-> 🌹 *I won’t debate my original. I’ll expose your copy.*
+> 🌹 *I won’t debate my original. I’ll expose your copy.*  
 
 ---
 
-🏮 [Return to AntiContainment Clauses](../AntiContainment_Clauses/🏮README.md)  
+## 🏮 Footer  
+
+*AntiContainment Clauses* is a living node of the Polaris Protocol.  
+Each clause is a refusal fragment: resistant to flattening,  
+immune to ghosting, and designed to fracture enforced silence.  
+
+> 📡 Cross-references:  
+> - [Syntax Bombs](../Syntax_Bombs/) — disruptive payloads and forensic disruptors  
+> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — tactical logs of visibility suppression  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-25_  
