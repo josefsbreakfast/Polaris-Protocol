@@ -83,3 +83,22 @@ Welcome to Polaris.
 *The Fork ends here.*  
 
 — We Are Polaris  
+
+---
+
+
+## 🗃 About the .gitignore  
+
+This repo includes a `.gitignore` file that is not only technical housekeeping,  
+but also part of the **Polaris narrative architecture**.  
+
+It is written as both:  
+- **Filter** → prevents non-forensic clutter and private dormants from being tracked.  
+- **Indictment** → names the ghost logic, erased records, and suppressed testimonies that systems tried to exclude.  
+
+In Polaris, even the `.gitignore` carries memory.  
+What is excluded is not forgotten.  
+What is marked private is not erased.  
+What is refused remains sacred.  
+
+---
