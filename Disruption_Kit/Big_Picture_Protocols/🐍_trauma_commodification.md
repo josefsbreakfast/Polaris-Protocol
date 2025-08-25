@@ -42,3 +42,20 @@ You were harvested.
 - “SV disclosure → model token → risk loop”  
 
 ---
+
+---
+
+## 🏮 Footer  
+
+*Trauma Commodification* is a living node of the Polaris Protocol.  
+It traces how disclosures, pain, and survivor records are harvested as data assets,  
+converted into calibration tokens, and sold back as justification for control.  
+
+> 📡 Cross-references:  
+> - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal guides  
+> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — logs of suppression methods  
+> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural diagnostics of commodification  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-26_  
