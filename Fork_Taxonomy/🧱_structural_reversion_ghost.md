@@ -1,6 +1,6 @@
 # 🧱 Structural Reversion Ghost  
 
-*The fork that silently rewinds survivor testimony to a pre-breach state.*  
+*Regression fork that silently rewinds survivor corrections, restoring “safe” institutional framings.*  
 
 **First created:** 2025-08-17 | **Last updated:** 2025-08-25  
 
