@@ -9,25 +9,27 @@
 
 ## 1. **File Naming Conventions**  
 
-- All filenames must follow the format: **EMOJI_snake_case.md**  
-  - Start with an **emoji prefix** for category.  
-  - Then a short, descriptive title in **snake_case** (all lowercase with underscores).  
-  - End with the `.md` extension.  
+- All filenames must follow the pattern: **EMOJI_snake_case.md**  
+  - Begin with an **emoji prefix** for category.  
+  - Then use a short descriptive title in **snake_case** (all lowercase with underscores).  
+  - Always end with the `.md` extension.  
 
 - **No spaces**.  
 - **No extra punctuation** other than underscores.  
 - **No dates** in filenames unless:  
-  - The file is a Field Log tied to a specific day (`🛰️_metadata_ghosts_2025-08-12.md`).  
-  - Or the filename itself denotes a sequence of dated evidence.  
+  - The file is a Field Log tied to a specific day (`🛰️_metadata_ghosts_2025-08-12.md`), or  
+  - The filename itself denotes a sequence of dated evidence.  
 
 **Examples:**  
-- `🧬_cloneproof.md` → Survivor Tools  
-- `🛰️_icc_tag_thread_containment.md` → Field Logs  
-- `⚖️_containment_contract_trace.md` → Big Picture Protocols  
+- `Survivor_Tools/🧬_cloneproof.md`  
+- `Field_Logs/🛰️_icc_tag_thread_containment.md`  
+- `Big_Picture_Protocols/⚖️_containment_contract_trace.md`  
+
 
 ---
 
 ## 2. **Folder Structure**  
+
 - **Big_Picture_Protocols/** → Structural / systemic analysis (diagnostics, typologies, inversion theory).  
 - **Survivor_Tools/** → Practical strategies, survivor-led guides, countermeasures.  
 - **Field_Logs/** → Dated forensic documentation, evidence files, CSVs, plots.  
