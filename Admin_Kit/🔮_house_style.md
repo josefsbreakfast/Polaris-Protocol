@@ -1,5 +1,5 @@
 # 🔮 House Style  
-**Version:** 1.2 | **Last updated:** 2025-08-16  
+**Version:** 1.3 | **Last updated:** 2025-08-25  
 *Standard Formatting & Style Guide for Polaris Protocol*  
 
 ---
@@ -43,28 +43,33 @@
 **First created:** 2025-07-14 | **Last updated:** 2025-08-12  
 *Practical countermeasures for voice and behavioural cloning*  
 
-## 4. **Cross-Linking**
+---
 
-Use relative paths only (never absolute GitHub URLs).
+## 4. **Cross-Linking**  
 
-Always wrap with a clear description (not raw filename).
+Use relative paths only (never absolute GitHub URLs).  
 
-**Example (display only):**
+Always wrap with a clear description (not raw filename).  
+
+**Example (display only):**  
 
 ```markdown
+
 See [📩 Ghost vs Haunting Chart (2025-08-12)](../Disruption_Kit/Big_Picture_Protocols/📩_ghost_vs_haunting_chart_2025-08-12.csv)
+
 ```
 
-## 5. **Versioning & Updates**
+---
 
-Each file shows creation + last update date.
+## 5. **Versioning & Updates**  
 
-Increment House Style version when rules are added or changed.
+Each file shows creation + last update date.  
+
+Increment House Style version when rules are added or changed.  
 
 Version history tracked at top of this file.
 
 ---
 
-🧶 [Return to Admin Kit](README.md)
-
----
+🏮 [Return to Admin Kit](./README.md)  
+🪄 [Follow the Branding Usage Guide](./🪄_usage_guide.md)
