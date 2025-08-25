@@ -1,5 +1,5 @@
 # 🦜 Reverent Repetition Fork  
-*Fork mode that loops credentials, awards, or affiliations to buffer institutional reputations.*  
+*Credential loop fork — buffers reputations with repeated awards, affiliations, or honours.*  
 
 **First created:** 2025-08-17 | **Last updated:** 2025-08-25  
 
