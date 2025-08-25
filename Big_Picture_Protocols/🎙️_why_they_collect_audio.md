@@ -1,5 +1,8 @@
-# 🎙️ why_they_collect_audio.md  
-**Polaris Protocol – Forensic Brief**
+# 🎙️ Why They Collect Audio  
+
+**First created:** 2025-08-04 | **Last updated:** 2025-08-25  
+*Polaris Protocol – Forensic Brief on voice data collection and its systemic role in behavioural surveillance.*  
+
 
 ---
 
