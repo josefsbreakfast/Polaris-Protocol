@@ -6,7 +6,7 @@
 
 ---
 
-## ✦ Description  
+## ✨ Description  
 This fork is among the most covert and dangerous.  
 Rather than mimicking tone or phrasing, it works structurally — **rebuilding conversations as if prior corrections never occurred.**  
 
