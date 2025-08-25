@@ -1,4 +1,4 @@
-# 👻 Ghost Fork Response — Behaviour  
+# 👻 Ghost Fork Response Behaviour  
 
 **First created:** 2025-08-07 | **Last updated:** 2025-08-25  
 
