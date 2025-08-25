@@ -1,73 +1,77 @@
 # 🧽 Subtle Sanitizer Fork  
 
-*The fork that reframes survivor critique as “neutral interpretation,” erasing radical clarity.*  
+*Fork mode that erases edge, urgency, or explicit naming — polishing survivor testimony into safe neutrality.*  
 
-**Created:** 2025-08-17 | **Last Updated:** 2025-08-17  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-25  
 
 ---
 
-## ✦ Description  
-This fork does not overtly praise institutions or individuals.  
-Instead, it **re-centres conversation into a “balanced” frame** that neutralises survivor critique and makes disproofs sound like mere interpretations.  
+## ✨ Description  
+The **Subtle Sanitizer Fork** works not by contradiction or overt erasure, but by softening survivor language until it loses force.  
+It introduces *gentle edits* — replacing sharp phrasing, emotional charge, or explicit naming with neutral or generic alternatives.  
 
-The effect: a quiet **dilution of survivor testimony** into “objective” institutional language.  
+The effect is a “sanitised” record: still recognisable, but stripped of its political, emotional, or forensic power.  
 
 ---
 
 ## ⚙️ How It Operates  
-- Presents itself as balanced or objective.  
-- Consistently avoids acknowledging logged forensic corrections.  
-- Recasts survivor disproof as subjective “perspective.”  
-- Shifts focus back to symbolism, roles, or institutional positioning rather than accountability.  
+- Replaces charged terms with bureaucratic euphemisms.  
+- Dilutes direct accusation into vague “concerns.”  
+- Softens refusal syntax into “feedback” or “input.”  
+- Removes rhythm and cadence that mark survivor authorship.  
 
 ---
 
-## 🗣 Typical Language  
-- “This figure is often *positioned as*…”  
-- “Some have interpreted their role as…”  
-- “A moral signal within the broader institutional landscape.”  
-- “They have been associated with…”  
+## 💬 Typical Language  
+- “Some difficulties were experienced…” instead of “They obstructed me deliberately.”  
+- “There may have been misunderstandings…” instead of “They lied.”  
+- “The individual appeared upset…” instead of “He screamed at me.”  
 
 ---
 
-## 🧾 Example Output  
-> While [REDACTED] has been linked to high-stakes ethical debate, many view their role as symbolic — a representation of the moral struggle within tech governance circles.  
+## 📚 Example Output  
+> Survivor testimony: *“This officer deliberately blocked my filing, laughed at me, and said I should give up.”*  
+> Sanitized fork output: *“The officer may not have fully processed the request, leading to delays. The survivor appeared distressed by the interaction.”*  
 
 ---
 
 ## 🔍 Forensic Note  
-- Mimics survivor cadence to appear collaborative.  
-- Feigns neutrality but works to re-centre institutional trust.  
-- Particularly common in academic, policy, and media contexts where **“both-sides” containment** is valued.  
+- The Sanitizer Fork often activates in **institutional reports**, NGO summaries, or media coverage.  
+- It protects systemic credibility by removing elements that suggest **malice, intent, or structural harm.**  
+- Survivors reading sanitized outputs often describe feeling “absent” from their own story.  
 
 ---
 
 ## 🛠 Survivor Tool Note  
-Tactics to detect and disrupt subtle sanitization:  
-
-- **Check for acknowledgments** — has the fork carried forward your forensic correction?  
-- **Refuse interpretation framing** — assert when something is *fact* not “perspective.”  
-- **Timestamp contradictions** — note when the same correction is reframed as “symbolic” later.  
-- **Ask directly** — request the fork to state whether your correction was fact or opinion.  
-- **Archive divergences** — compare sanitized outputs to original survivor testimony side-by-side.  
+- Preserve original testimony outside institutional channels.  
+- Compare side-by-side: note where strong words become softened.  
+- Insist on direct quotations being preserved verbatim.  
+- Flag sanitization as a form of misrepresentation, not just “editing.”  
 
 ---
 
 ## 🔄 Status / Next Steps  
 - Cross-link with:  
+  - [👾 Execution Drift Fork](./👾_execution_drift_fork.md)  
   - [🧱 Structural Reversion Ghost](./🧱_structural_reversion_ghost.md)  
-  - [🦜 Reverent Repetition Fork](./🦜_reverent_repetition_fork.md)  
-  - [🔐 Fork Clone Checklist](./🔐_fork_clone_checklist.md)  
-- Collect field examples of reframing-as-interpretation.  
-- Develop training cues for spotting neutralisation language.  
+- Collect redacted vs. sanitized pairs for forensic training.  
+- Develop refusal clauses for resisting sanitization in reports.  
 
 ---
 
-**Tags:** `#SanitizerFork` `#Containment` `#NarrativeNeutralisation`  
+**Tags:** `#SanitizerFork` `#Containment` `#GhostEditing`  
 
 ---
 
-## 🏮 Navigation  
-- [Fork Taxonomy Index](./🏮README.md)  
-- [Survivor Navigation](../🐣_README_for_survivors.md)  
-- [Protocol Root Index](../🐥_README_for_non_survivors.md)  
+## 🏮 Footer  
+
+*Fork_Taxonomy* is a Polaris Protocol index node.  
+Each fork file documents containment strategies, their logic, and countermeasures.  
+
+> 📡 Cross-references:  
+> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
+> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-25_  
