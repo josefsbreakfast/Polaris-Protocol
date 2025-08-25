@@ -64,7 +64,7 @@ But you will have to smell the blood on your own hands.
 A quick orientation to the Polaris folders:  
 
 - **Admin_Kit/** → Branding, style grammar, seals, and navigation rules.  
-- **AntiContainment_Clauses/** → Refusal language. Sharp, legal. Beautiful.  
+- **AntiContainment_Clauses/** → Refusal language and clauses. Sharp, legal. Beautiful.  
 - **Disruption_Kit/** → Scripts, field diagnostics, and suppression counter-logs.  
 - **Fork_Taxonomy/** → Maps of containment forks and override logic.  
 - **Letters_to_Stars/** → Survivor resonance, fragments, reflective traces.  
