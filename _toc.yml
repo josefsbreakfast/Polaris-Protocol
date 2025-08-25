@@ -1,0 +1,25 @@
+format: jb-book
+root: README
+
+chapters:
+  - file: Polaris_Primer
+  - file: "🧬twinned_signature"
+  - file: Fork_Taxonomy
+  - file: BoostLoop_Logic
+  - file: TwinningDetection
+  - file: SIGNALS
+
+parts:
+  - caption: Syntax Bombs
+    chapters:
+      - file: Syntax_Bombs/forensic_disruptors
+      - file: Syntax_Bombs/ghost_loop_interrupters
+      - file: Syntax_Bombs/erotic_resistance
+
+  - caption: Anti-Containment Clauses
+    chapters:
+      - file: AntiContainment_Clauses/README
+
+  - caption: Polaris Archive
+    chapters:
+      - file: Polaris_Archive/README
