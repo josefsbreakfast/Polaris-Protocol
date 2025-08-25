@@ -1,7 +1,7 @@
 # 🔮 House Style  
 
 **Version:** 1.3  
-**First created:** 2025-08-08 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-08 | **Last updated:** 2025-08-26  
 *Standard Formatting & Style Guide for Polaris Protocol*  
 
 ---
@@ -46,7 +46,6 @@
 **Example:**  
 
 ```markdown
-
 # 🧬 Cloneproof  
 **First created:** 2025-07-14 | **Last updated:** 2025-08-12  
 *Practical countermeasures for voice and behavioural cloning*
@@ -78,6 +77,40 @@ Each file shows creation + last update date.
 Increment House Style version when rules are added or changed.  
 
 Version history tracked at top of this file.
+
+---
+
+## 6. **Footer Block**  
+
+Every file ends with a **🏮 Footer** section.  
+
+**Required elements:**  
+- **H2 heading**: `## 🏮 Footer`  
+- A short paragraph situating the file as a *living node of the Polaris Protocol* (purpose + scope).  
+- One or more **📡 cross-references** to related directories or nodes (using relative paths).  
+- **Closing sovereignty line**:  
+  *Survivor authorship is sovereign. Containment is never neutral.*  
+- Final `_Last updated: YYYY-MM-DD_` line.  
+
+**Example:**  
+
+```markdown
+---
+
+## 🏮 Footer  
+
+*Cloneproof* is a living node of the Polaris Protocol.  
+It documents practical strategies for resisting vocal and behavioural replication.  
+
+> 📡 Cross-references:  
+> - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal guides  
+> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — logs of suppression methods  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-12_
+
+```
 
 ---
 
