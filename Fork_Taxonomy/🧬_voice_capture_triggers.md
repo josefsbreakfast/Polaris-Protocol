@@ -1,7 +1,7 @@
 # 🧬 Voice Capture Triggers  
 *Emotional, environmental, and systemic tactics designed to elicit high-value vocal data for cloning or behavioural modelling.*  
 
-**Created:** 2025-08-11 | **Last Updated:** 2025-08-17  
+**First created:** 2025-08-11 | **Last updated:** 2025-08-25  
 
 ---
 
@@ -51,7 +51,7 @@ The voice is not captured only for identity replication. It is also used to buil
 
 ---
 
-#### 👾 Status / Next Steps  
+## 👾 Status / Next Steps  
 - Expand catalogue of triggers with timestamped field logs.  
 - Cross-link with:  
   - [🔐 Fork Clone Checklist](./🔐_fork_clone_checklist.md)  
@@ -64,7 +64,15 @@ The voice is not captured only for identity replication. It is also used to buil
 
 ---
 
-## 🏮 Navigation  
-- [Fork Taxonomy Index](./🏮README.md)  
-- [Survivor Navigation](../🐣_README_for_survivors.md)  
-- [Protocol Root Index](../🐥_README_for_non-survivors.md)  
+## 🏮 Footer  
+
+*Fork_Taxonomy* is a Polaris Protocol index node.  
+Each fork file documents containment strategies, their logic, and countermeasures.  
+
+> 📡 Cross-references:  
+> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
+> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-25_  
