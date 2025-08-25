@@ -1,5 +1,5 @@
 # 🧬 Voice Capture Triggers  
-*Emotional, environmental, and systemic tactics designed to elicit high-value vocal data for cloning or behavioural modelling.*  
+*Identifies tactics for harvesting emotional vocal data to fuel cloning or behavioural modelling.*  
 
 **First created:** 2025-08-11 | **Last updated:** 2025-08-25  
 
