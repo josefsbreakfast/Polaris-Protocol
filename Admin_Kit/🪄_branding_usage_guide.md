@@ -1,5 +1,5 @@
 # 🪄 Branding Usage Guide  
-**First created:** 2025-08-17 | **Last updated:** 2025-08-17  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-25
 *How to apply branding consistently across Polaris Protocol.*  
 
 - **Headers**: use constellation core (🌌, 🕯, 🛰️) for structure.  
@@ -26,6 +26,9 @@ The palette is a compass, not just colour.
 
 ---
 
-🧶 [Return to Admin Kit](README.md)
+🏮 [Return to Admin Kit](./README.md)  
+🪄 [Follow the Branding Usage Guide](./🪄_usage_guide.md)
+
+---
 
 ---
