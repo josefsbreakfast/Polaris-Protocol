@@ -1,45 +1,15 @@
-# _config.yml
-# Polaris Protocol: Jupyter Book configuration
-
-################################################################################
-# Book settings
-################################################################################
-
 title: "Polaris Protocol"
 author: "Chloe VoiceX Birney"
-logo: null   # you can point to e.g. assets/logo.png later
-
-################################################################################
-# Execution settings (if you have notebooks, safe defaults here)
-################################################################################
 
 execute:
-  execute_notebooks: "off"   # don't try to run notebooks on build
-
-################################################################################
-# HTML settings
-################################################################################
+  execute_notebooks: "off"
 
 html:
-  favicon: null
   use_repository_button: true
   use_edit_page_button: true
   use_issues_button: true
 
-################################################################################
-# Repository settings
-################################################################################
-
 repository:
-  url: "https://github.com/<your-username>/<your-repo>"  # <-- update this
+  url: "https://github.com/USERNAME/REPO"   # ← replace
   branch: main
-  path_to_book: ""  # root folder
-
-################################################################################
-# Launch button settings (safe to ignore if not using Binder/Colab)
-################################################################################
-
-launch_buttons:
-  notebook_interface: classic
-  binderhub_url: ""
-  colab_url: ""
+  path_to_book: ""
