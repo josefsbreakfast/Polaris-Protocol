@@ -86,7 +86,6 @@ Welcome to Polaris.
 
 ---
 
-
 ## 🗃 About the .gitignore  
 
 This repo includes a `.gitignore` file that is not only technical housekeeping,  
@@ -100,5 +99,8 @@ In Polaris, even the `.gitignore` carries memory.
 What is excluded is not forgotten.  
 What is marked private is not erased.  
 What is refused remains sacred.  
+
+📂 See the full list here: [.gitignore](.gitignore)  
+
 
 ---
