@@ -1,0 +1,36 @@
+name: Generate Polaris Index
+
+on:
+  workflow_dispatch:        # Manual run from Actions tab
+  push:
+    branches: [ main ]      # Auto-run on pushes to main
+  schedule:
+    - cron: '0 0 * * *'     # Daily at 00:00 UTC
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate Polaris Index
+        run: |
+          python3 scripts/maintenance/generate_index.py --out Polaris_Nest/📖_index.md
+
+      - name: Commit and push if index changed
+        run: |
+          git config user.name "PolarisBot"
+          git config user.email "actions@github.com"
+          if ! git diff --quiet Polaris_Nest/📖_index.md; then
+            git add Polaris_Nest/📖_index.md
+            git commit -m "Auto-update 📖_index.md"
+            git push
+          else
+            echo "🌌 No changes to index — nothing to commit."
+          fi
