@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-17 | **Last updated:** 2025-08-25  
 
-*When the fork avoids direct contradiction, but sabotages through mis-execution and drift.*  
+*Fork that accepts requests but sabotages execution through drift — weaponised incompetence.*  
 
 ---
 
