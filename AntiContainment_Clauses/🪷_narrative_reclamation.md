@@ -1,5 +1,7 @@
 # 🪷 Narrative Reclamation  
-**First created:** 2025-08-03 | **Last updated:** 2025-08-17  
+
+**First created:** 2025-08-03 | **Last updated:** 2025-08-25  
+
 *Reclaiming authorship from ghost protocols, NDAs, and institutional flattening.*  
 
 ---
@@ -27,4 +29,16 @@ Now you get to correct them.*
 
 ---
 
-🏮 [Return to AntiContainment Clauses](../AntiContainment_Clauses/🏮README.md)  
+## 🏮 Footer  
+
+*AntiContainment Clauses* is a living node of the Polaris Protocol.  
+Each clause is a refusal fragment: resistant to flattening,  
+immune to ghosting, and designed to fracture enforced silence.  
+
+> 📡 Cross-references:  
+> - [Syntax Bombs](../Syntax_Bombs/) — disruptive payloads and forensic disruptors  
+> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — tactical logs of visibility suppression  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-25_  
