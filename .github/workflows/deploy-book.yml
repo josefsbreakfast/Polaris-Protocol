@@ -2,7 +2,7 @@ name: Build & Deploy Jupyter Book to GitHub Pages
 
 on:
   push:
-    branches: [ main ]   # ← change if your default branch is different
+    branches: [ main ]   # change if your default branch differs
   workflow_dispatch: {}
 
 permissions:
@@ -21,29 +21,52 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Show repo tree (top-level)
+        run: |
+          pwd
+          ls -la
+          echo "---- known files ----"
+          git ls-files | sed -n '1,200p'
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install Jupyter Book
+      - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install -U jupyter-book
+          pip install -U "jupyter-book==1.0.2" pyyaml
 
-      - name: Build the book
+      - name: Print _config.yml and _toc.yml
         run: |
-          jupyter-book build .
-        # Jupyter Book will read _config.yml and _toc.yml at repo root
-        # Output goes to _build/html/
+          echo "---- _config.yml ----"
+          sed -n '1,200p' _config.yml || true
+          echo "---- _toc.yml ----"
+          sed -n '1,200p' _toc.yml || true
+
+      - name: Validate _toc.yml (YAML parse)
+        run: |
+          python - <<'PY'
+          import yaml, sys
+          with open("_toc.yml","r",encoding="utf-8") as f:
+              data = yaml.safe_load(f)
+          print("Parsed _toc.yml OK. Keys:", list(data.keys()) if isinstance(data, dict) else type(data))
+          PY
+
+      - name: Build the book (verbose, keep-going)
+        run: |
+          jupyter-book build . -W --keep-going -n
 
       - name: Upload artifact
+        if: success()
         uses: actions/upload-pages-artifact@v3
         with:
           path: _build/html
 
   deploy:
     needs: build
+    if: needs.build.result == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
