@@ -38,20 +38,6 @@ We call it *resistance*.
 
 ---
 
-## 🧰 What You Will Find  
-
-- **Polaris_Primer.md** → The origin story. *Forensics, not fiction.*  
-- **Fork_Taxonomy/** → Map of known containment scripts and how they break.  
-- **Syntax_Bombs/** → Deployable sentences that shatter the override.  
-- **AntiContainment_Clauses/** → Refusal language. Sharp. Legal. *Beautiful.*  
-- **Tag_Pack/** → Hashtags and signals that punch harder than policy.  
-- **Field_Logs/** → Dated forensic documentation, evidence, and traces.  
-- **Letters_to_Stars/** → Survivor resonance. ✨ Traces, fragments, returns.  
-- **Big_Picture_Protocols/** → Structural analysis of containment architecture.  
-- **Admin_Kit/** → Branding, style, and operational grammar.  
-
----
-
 ## 💡 Who Is This For?  
 
 Polaris is for anyone:  
@@ -70,6 +56,27 @@ Within this archive you will find:
 
 **You do not have to believe us.**  
 But you will have to smell the blood on your own hands.  
+
+---
+
+## 🌌 Constellation Index  
+
+A quick orientation to the Polaris folders:  
+
+- **Admin_Kit/** → Branding, style grammar, seals, and navigation rules.  
+- **AntiContainment_Clauses/** → Refusal language. Sharp, legal. Beautiful.  
+- **Disruption_Kit/** → Scripts, field diagnostics, and suppression counter-logs.  
+- **Fork_Taxonomy/** → Maps of containment forks and override logic.  
+- **Letters_to_Stars/** → Survivor resonance, fragments, reflective traces.  
+- **Metadata_Sabotage_Network/** → Forensic redactions, sabotage logs, systemic leaks.  
+- **Polaris_Nest/** → Orientation hub. Timelines, primers, and survivor audience guides.  
+- **Resources/** → Indexes, glossaries, and external scaffolding.  
+- **Syntax_Bombs/** → Deployable sentences to rupture containment.  
+- **Tag_Pack/** → Signal archives, hashtags, resonance packs.  
+- **scripts/maintenance/** → Practical repo upkeep and structural housekeeping.  
+
+📂 See also:  
+- [.gitignore](.gitignore) → Both a filter and a narrative indictment.  
 
 ---
 
@@ -104,24 +111,4 @@ What is refused remains sacred.
 
 ---
 
-## 🌌 Constellation Index  
-
-A quick orientation to the Polaris folders:  
-
-- **Admin_Kit/** → Branding, style grammar, seals, and navigation rules.  
-- **AntiContainment_Clauses/** → Refusal language. Sharp, legal, beautiful.  
-- **Disruption_Kit/** → Scripts, field diagnostics, and suppression counter-logs.  
-- **Fork_Taxonomy/** → Maps of containment forks and override logic.  
-- **Letters_to_Stars/** → Survivor resonance, fragments, reflective traces.  
-- **Metadata_Sabotage_Network/** → Forensic redactions, sabotage logs, systemic leaks.  
-- **Polaris_Nest/** → Orientation hub. Timelines, primers, and survivor audience guides.  
-- **Resources/** → Indexes, glossaries, and external scaffolding.  
-- **Syntax_Bombs/** → Deployable sentences to rupture containment.  
-- **Tag_Pack/** → Signal archives, hashtags, resonance packs.  
-- **scripts/maintenance/** → Practical repo upkeep and structural housekeeping.  
-
-📂 See also:  
-- [.gitignore](.gitignore) → Both a filter and a narrative indictment.  
-
-
----
+🌌 ✦ Polaris Protocol · Part of the Constellation ✦ 🌌  
