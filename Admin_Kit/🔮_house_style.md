@@ -26,7 +26,6 @@
 ---
 
 ## 2. **Folder Structure**  
-
 - **Big_Picture_Protocols/** → Structural / systemic analysis (diagnostics, typologies, inversion theory).  
 - **Survivor_Tools/** → Practical strategies, survivor-led guides, countermeasures.  
 - **Field_Logs/** → Dated forensic documentation, evidence files, CSVs, plots.  
@@ -46,6 +45,7 @@
 
 **Example:**  
 
+```markdown
 # 🧬 Cloneproof  
 **First created:** 2025-07-14 | **Last updated:** 2025-08-12  
 *Practical countermeasures for voice and behavioural cloning*  
