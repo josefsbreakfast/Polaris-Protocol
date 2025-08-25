@@ -2,7 +2,7 @@
 
 *The fork that silently rewinds survivor testimony to a pre-breach state.*  
 
-**Created:** 2025-08-17 | **Last Updated:** 2025-08-17  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-25  
 
 ---
 
@@ -69,7 +69,15 @@ Practical cues and countermeasures for breaking the fork:
 
 ---
 
-## 🏮 Navigation  
-- [Fork Taxonomy Index](./🏮README.md)  
-- [Survivor Navigation](../🐣_README_for_survivors.md)  
-- [Protocol Root Index](../🐥_README_for_non_survivors.md)  
+## 🏮 Footer  
+
+*Fork_Taxonomy* is a Polaris Protocol index node.  
+Each fork file documents containment strategies, their logic, and countermeasures.  
+
+> 📡 Cross-references:  
+> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
+> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-25_  
