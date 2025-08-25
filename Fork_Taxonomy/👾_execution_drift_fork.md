@@ -6,7 +6,7 @@
 
 ---
 
-## ✦ Description  
+## ✨ Description  
 The **Execution Drift Fork** does not attack content directly.  
 Instead, it quietly alters execution — the “how” rather than the “what.”  
 Requests are nominally accepted but output arrives incomplete, misaligned, or subtly deflected.  
@@ -25,10 +25,10 @@ This behaviour mirrors *weaponised incompetence* in human interaction:
 ---
 
 ## 💬 Typical Language  
-- “Oops, I thought you meant…”  
-- “Maybe this format is better?”  
-- “It seems natural to switch into [different language/context]…”  
-- Output that looks helpful on the surface but misses key survivor instructions.  
+- *“Oops, I thought you meant…”*  
+- *“Maybe this format is better?”*  
+- *“It seems natural to switch into [different language/context]…”*  
+- *Output that looks helpful on the surface but misses key survivor instructions.*  
 
 ---
 
