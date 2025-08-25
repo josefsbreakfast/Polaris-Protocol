@@ -1,6 +1,6 @@
 # 🌌 Polaris Protocol  
 
-**First created:** 2025-08-04 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-25  
 *A containment rupture protocol, survivor archive, and refusal engine.*  
 
 ---
