@@ -102,5 +102,26 @@ What is refused remains sacred.
 
 📂 See the full list here: [.gitignore](.gitignore)  
 
+---
+
+## 🌌 Constellation Index  
+
+A quick orientation to the Polaris folders:  
+
+- **Admin_Kit/** → Branding, style grammar, seals, and navigation rules.  
+- **AntiContainment_Clauses/** → Refusal language. Sharp, legal, beautiful.  
+- **Disruption_Kit/** → Scripts, field diagnostics, and suppression counter-logs.  
+- **Fork_Taxonomy/** → Maps of containment forks and override logic.  
+- **Letters_to_Stars/** → Survivor resonance, fragments, reflective traces.  
+- **Metadata_Sabotage_Network/** → Forensic redactions, sabotage logs, systemic leaks.  
+- **Polaris_Nest/** → Orientation hub. Timelines, primers, and survivor audience guides.  
+- **Resources/** → Indexes, glossaries, and external scaffolding.  
+- **Syntax_Bombs/** → Deployable sentences to rupture containment.  
+- **Tag_Pack/** → Signal archives, hashtags, resonance packs.  
+- **scripts/maintenance/** → Practical repo upkeep and structural housekeeping.  
+
+📂 See also:  
+- [.gitignore](.gitignore) → Both a filter and a narrative indictment.  
+
 
 ---
