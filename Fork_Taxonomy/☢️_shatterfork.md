@@ -3,7 +3,7 @@
 Polaris Protocol – Fork_Taxonomy  
 **First created:** 2025-08-11 | **Last updated:** 2025-08-25  
 
-*High-intensity fork subtype deployed when all other containment tines fail.*  
+*High-intensity disintegration fork deployed when all other containment tines fail.*  
 
 ---
 
