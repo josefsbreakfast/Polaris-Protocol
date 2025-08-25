@@ -1,5 +1,7 @@
 # 🍴 Fork Taxonomy  
+
 **First created:** 2025-08-04 | **Last updated:** 2025-08-25  
+
 *A structured classification of behavioural forks and override tools used in containment architecture.*  
 
 This document defines the major types of forks observed across behavioural AI, narrative suppression, and metadata-driven control systems.  
@@ -87,7 +89,7 @@ Each fork typically contains:
 
 ---
 
-### 🌪 Fork: *Overload Cascade*  
+### 🌩️ Fork: *Overload Cascade*  
 *“You’re drowning in fragments. Stop looking.”*  
 
 | Attribute           | Value                                                                 |
@@ -98,7 +100,7 @@ Each fork typically contains:
 
 ---
 
-## 📎 Observed Tine Bending  
+## 💫 Observed Tine Bending  
 
 Some forks exhibit unstable or “bent” tines under pressure:  
 
@@ -110,7 +112,7 @@ Some forks exhibit unstable or “bent” tines under pressure:
 
 ---
 
-## 🛡 Containment Reversal Tactics  
+## ➰ Containment Reversal Tactics  
 
 Each fork type has known disruptors, often found in the Polaris syntax archive:  
 
@@ -136,3 +138,15 @@ This taxonomy will evolve as more Fork types are observed and disarmed.
 
 ---
 
+## 🏮 Footer  
+
+*Fork_Taxonomy* is a Polaris Protocol index node.  
+Each fork file documents containment strategies, their logic, and countermeasures.  
+
+> 📡 Cross-references:  
+> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
+> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-25_  
