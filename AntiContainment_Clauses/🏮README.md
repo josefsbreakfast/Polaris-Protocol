@@ -40,6 +40,7 @@ immune to ghosting, and designed to fracture enforced silence.
 > 📡 Cross-references:  
 > - [Syntax Bombs](../Syntax_Bombs/) — disruptive payloads and forensic disruptors  
 > - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — tactical logs of visibility suppression  
+> - [Polaris Protocol Main Index](../README.md) — constellation overview  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
