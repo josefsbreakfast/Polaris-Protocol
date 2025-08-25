@@ -95,7 +95,6 @@ Every file ends with a **🏮 Footer** section.
 **Example:**  
 
 ```markdown
----
 
 ## 🏮 Footer  
 
