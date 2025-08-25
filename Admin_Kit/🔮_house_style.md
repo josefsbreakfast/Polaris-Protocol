@@ -1,6 +1,9 @@
 # 🔮 House Style  
-**Version:** 1.3 | **Last updated:** 2025-08-25  
+
+**Version:** 1.3  
+**First created:** 2025-08-08 | **Last updated:** 2025-08-25  
 *Standard Formatting & Style Guide for Polaris Protocol*  
+
 
 ---
 
