@@ -5,7 +5,7 @@
 
 ---
 
-## ✦ Summary  
+## ✨ Summary  
 This node identifies patterns of voice capture used to harvest emotionally charged speech.  
 Captured audio is believed to support **AI cloning, surveillance, and behavioural simulations**.  
 The emphasis here is on recognising triggers, understanding acoustic objectives, and flagging implicated infrastructure.  
