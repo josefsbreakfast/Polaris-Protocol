@@ -1,7 +1,6 @@
-# 🐍 Polaris Protocol: `trauma_commodification.md`
-
+# 🐍 Trauma Commodification  
 **First created:** 2025-08-04 | **Last updated:** 2025-08-26  
-*A refusal log on the conversion of survivor pain into product.*  
+*A refusal log on the conversion of survivor pain into product*  
 
 > *Your pain became product.  
 > Your disclosures became dataset.  
@@ -9,7 +8,7 @@
 
 ---
 
-## 📜 MODULE SUMMARY  
+## 📜 Module Summary  
 
 State systems and behavioural surveillance architectures do not absorb trauma as tragedy —  
 they extract it as **commodity**.  
@@ -24,7 +23,7 @@ You were harvested.
 
 ---
 
-## 📈 MECHANISMS OF EXTRACTION  
+## 📈 Mechanisms of Extraction  
 
 - Disclosures harvested during “support” or “therapy” sessions  
 - Logs seized via phone confiscation or metadata sync  
@@ -35,7 +34,7 @@ You were harvested.
 
 ---
 
-## 📌 INDEXED SIGNALS  
+## 📌 Indexed Signals  
 
 - “Predictive grief product”  
 - “Trauma as calibration asset”  
