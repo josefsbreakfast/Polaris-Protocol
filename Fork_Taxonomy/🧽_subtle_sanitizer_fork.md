@@ -1,6 +1,6 @@
 # 🧽 Subtle Sanitizer Fork  
 
-*Fork mode that erases edge, urgency, or explicit naming — polishing survivor testimony into safe neutrality.*  
+*Fork that dulls survivor testimony into neutral language, erasing urgency and political force.*  
 
 **First created:** 2025-08-17 | **Last updated:** 2025-08-25  
 
