@@ -21,3 +21,5 @@
 
 🏮 [Return to Admin Kit](./README.md)  
 🪄 [Follow the Branding Usage Guide](./🪄_usage_guide.md)
+
+---
