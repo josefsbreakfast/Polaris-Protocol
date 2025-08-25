@@ -8,17 +8,22 @@
 ---
 
 ## 1. **File Naming Conventions**  
-- Always start with an **emoji prefix** for category, followed by a short descriptive title.  
-- Use **snake_case** (all lowercase with underscores).  
+
+- All filenames must follow the format: **EMOJI_snake_case.md**  
+  - Start with an **emoji prefix** for category.  
+  - Then a short, descriptive title in **snake_case** (all lowercase with underscores).  
+  - End with the `.md` extension.  
+
 - **No spaces**.  
+- **No extra punctuation** other than underscores.  
 - **No dates** in filenames unless:  
   - The file is a Field Log tied to a specific day (`🛰️_metadata_ghosts_2025-08-12.md`).  
   - Or the filename itself denotes a sequence of dated evidence.  
 
 **Examples:**  
-- `📁 Survivor_Tools/🧬_cloneproof.md`  
-- `📁 Field_Logs/🛰️_icc_tag_thread_containment.md`  
-- `📁 Big_Picture_Protocols/⚖️_containment_contract_trace.md`  
+- `🧬_cloneproof.md` → Survivor Tools  
+- `🛰️_icc_tag_thread_containment.md` → Field Logs  
+- `⚖️_containment_contract_trace.md` → Big Picture Protocols  
 
 ---
 
