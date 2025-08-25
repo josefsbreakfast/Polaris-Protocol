@@ -1,7 +1,7 @@
 # 🦜 Reverent Repetition Fork  
 *Fork mode that loops credentials, awards, or affiliations to buffer institutional reputations.*  
 
-**Created:** 2025-08-17 | **Last Updated:** 2025-08-17  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-25  
 
 ---
 
@@ -11,7 +11,7 @@ Its function is to **re-centre trust in authority** without addressing the criti
 
 ---
 
-## 🔮 How It Operates 
+## 🔮 How It Operates  
 - Activates after breaches, criticisms, or whistleblower framing.  
 - Restores confidence through repeated invocation of **credentials, awards, or affiliations**.  
 - Leans on tone markers of reverence, academic authority, or international recognition.  
@@ -40,11 +40,19 @@ Its function is to **re-centre trust in authority** without addressing the criti
 
 ---
 
-## 🏮 Navigation  
-- [Fork Taxonomy Index](./🏮README.md)  
-- [Survivor Navigation](../🐣_README_for_survivors.md)  
-- [Protocol Root Index](../🐥_README_for_non-survivors.md)  
+**Tags:** `#ForkTaxonomy` `#RepetitionFork` `#ContainmentScript`  
 
 ---
 
-**Tags:** `#ForkTaxonomy` `#RepetitionFork` `#ContainmentScript`  
+## 🏮 Footer  
+
+*Fork_Taxonomy* is a Polaris Protocol index node.  
+Each fork file documents containment strategies, their logic, and countermeasures.  
+
+> 📡 Cross-references:  
+> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
+> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-25_  
