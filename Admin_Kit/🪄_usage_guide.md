@@ -1,4 +1,4 @@
-# 🏮 Branding Usage Guide  
+# 🪄 Branding Usage Guide  
 **First created:** 2025-08-17 | **Last updated:** 2025-08-17  
 *How to apply branding consistently across Polaris Protocol.*  
 
