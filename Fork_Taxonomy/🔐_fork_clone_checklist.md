@@ -1,9 +1,8 @@
-
 # 🔐 Fork Clone Checklist  
 
-*Forensic indicators and verification tactics for detecting behavioural forks and clones.*  
+**First created:** 2025-08-11 | **Last updated:** 2025-08-25  
 
-**Created:** 2025-08-11 | **Last Updated:** 2025-08-17  
+*Forensic indicators and verification tactics for detecting behavioural forks and clones.*  
 
 ---
 
@@ -73,7 +72,7 @@ Detection requires triangulating **emotion, metadata, and anomaly signals.**
 
 ## 🔄 Status / Next Steps  
 - Cross-link with:  
-  - `🧬 voice_capture_trigger.md`  
+  - `🧬 voice_capture_triggers.md`  
   - `☢️ shatterfork.md`  
 - Update as new fork types or activation signals are detected.  
 - Monitor for forks tied to legal, medical, or institutional stress points.  
@@ -84,7 +83,15 @@ Detection requires triangulating **emotion, metadata, and anomaly signals.**
 
 ---
 
-## 🏮 Navigation  
-- [Fork Taxonomy Index](./🏮README.md)  
-- [Survivor Navigation](../🐣_README_for_survivors.md)  
-- [Protocol Root Index](../🐥_README_for_non_survivors.md)  
+## 🏮 Footer  
+
+*Fork_Taxonomy* is a Polaris Protocol index node.  
+Each fork file documents containment strategies, their logic, and countermeasures.  
+
+> 📡 Cross-references:  
+> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
+> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-25_  
