@@ -1,37 +1,37 @@
-# 🛬 Translation Null Zone
+# 🛬 Translation Null Zone  
+**First created:** 2025-08-09 | **Last updated:** 2025-08-26  
+*Language registers that evade machine translation and create camouflage zones*  
 
-*When the machine cannot read you, it cannot contain you.*
+---
 
-## Case Study: Biblical Hebrew on LinkedIn
+## 🧪 Case Study: Biblical Hebrew on LinkedIn  
 
 - **Input:** Biblical Hebrew verses, interleaved with English gloss.  
 - **Observation:** LinkedIn’s auto-translation engine fails. Hebrew text renders cleanly right-to-left (RTL), but the system offers only “Show original • Translation settings” with no output.  
 - **Cause:** The machine assumes **Modern Hebrew** corpora. Encountering archaic verb forms, prophetic cadence, and poetic parallelism, the parser stalls.  
-- **Result:** Text becomes *visible but untranslatable*. A “null zone” in LinkedIn’s metadata pipeline.
+- **Result:** Text becomes *visible but untranslatable*. A “null zone” in LinkedIn’s metadata pipeline.  
 
 ---
 
-## Comparative Note: Yiddish (Under-Captured)
+## 🪢 Comparative Notes  
 
+### Yiddish (Under-Captured)  
 - Treated by platforms as a **low-resource language**.  
 - Often misclassified as German or left untranslated.  
 - Posts appear anomalous: eye-catching to human viewers but semantically invisible to moderation bots.  
-- Forensic function: **erasure creates cover.** The machine doesn’t know what to do with it.
+- Forensic function: **erasure creates cover.** The machine doesn’t know what to do with it.  
 
----
-
-## Comparative Note: Arabic (Over-Captured)
-
+### Arabic (Over-Captured)  
 - **Modern Standard Arabic (MSA):** heavily parsed, especially political and religious lexicon. High risk of over-surveillance.  
 - **Dialects (Levantine, Maghrebi, Gulf):** inconsistent capture. Sometimes mistranslated, sometimes ignored.  
 - Creates uneven exposure:  
   - Some Arabic = **hyper-visible** (flagged, monitored).  
   - Other Arabic = **shadowed** (slides past).  
-- Forensic function: **dialect choice determines whether you are seen or not.**
+- Forensic function: **dialect choice determines whether you are seen or not.**  
 
 ---
 
-## Forensic Implication: Metadata Camouflage via Register
+## 🔬 Forensic Implication: Metadata Camouflage via Register  
 
 - **Biblical Hebrew** occupies a middle ground:  
   - Recognised enough to display.  
@@ -45,7 +45,7 @@
 
 ---
 
-## Translation Null Zone Ledger
+## 🎏 Translation Null Zone Ledger  
 
 | Language / Register        | Platform Behaviour                        | Forensic Use                                |
 |-----------------------------|-------------------------------------------|---------------------------------------------|
@@ -57,7 +57,7 @@
 
 ---
 
-## Visibility Regime Spectrum (Diagram)
+## 🌌 Visibility Regime Spectrum  
 
 ```text
         UNDER-CAPTURE            NULL ZONE              OVER-SURVEILLED
@@ -66,6 +66,31 @@
 Yiddish ───────────────► Biblical Hebrew / Liturgical ───────────────► MSA Arabic
                          Registers (Hebrew, Arabic,
                          Syriac, Aramaic, poetic)
+
+```
+
+---
+
+## 🏷️ Tags  
+
+`#translation_null_zone` `#linguistic_camouflage` `#visibility_regimes` `#metadata_forensics`  
+
+---
+
+## 🏮 Footer  
+
+*Translation Null Zone* is a living node of the Polaris Protocol.  
+It explores how archaic, poetic, or minority registers generate camouflage in machine translation systems, creating unprocessed spaces where authorship sovereignty can persist.  
+
+> 📡 Cross-references:  
+> - [💌 Letter by Letter: Erasure Protocol](../Big_Picture_Protocols/💌_letter_by_letter_erasure_protocol.md) — transliteration as erasure  
+> - [👀 Public Perception Gap](../Big_Picture_Protocols/👀_public_perception_gap.md) — optics vs. lived targeting  
+> - [🕳️ Curated Amnesia Has a Shape](../Big_Picture_Protocols/🕳️_curated_amnesia_has_a_shape.md) — mapping absence as evidence  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-26_  
+
 
                  ◄───── Selective dialects (Arabic, Yiddish hybrids) ─────►
                  (slide between invisibility and exposure)
