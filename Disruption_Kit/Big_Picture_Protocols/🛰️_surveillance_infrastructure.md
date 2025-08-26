@@ -1,12 +1,10 @@
 # 🛰️ Surveillance Infrastructure  
-
-*Polaris Protocol doctrine on surveillance infrastructure and metadata capture.*  
-
-**First created:** 2025-08-03 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-26  
+*Polaris Protocol doctrine on surveillance infrastructure and metadata capture*  
 
 ---
 
-## 📌 Overview  
+## ✨ Overview  
 
 This doctrine traces the historical expansion of surveillance infrastructure in the West, with a focus on metadata capture, local authority overreach, and behavioural flagging under the guise of public safety.  
 It follows the progression from post-9/11 legal regimes through COVID-19-era acceleration, culminating in UK-based Prevent/CVE (Countering Violent Extremism) frameworks.  
@@ -89,15 +87,22 @@ It follows the progression from post-9/11 legal regimes through COVID-19-era acc
 
 ---
 
+## 🏷️ Tags  
+
+`#surveillance_infrastructure` `#metadata_capture` `#prevent_cve` `#behavioural_flagging`  
+
+---
+
 ## 🏮 Footer  
 
-*Big_Picture_Protocols* is a Polaris Protocol branch.  
-This file documents the escalation of surveillance infrastructure from post-9/11 powers through COVID-19 and Prevent frameworks.  
+*Surveillance Infrastructure* is a living node of the Polaris Protocol.  
+It documents the escalation of surveillance powers from post-9/11 laws through COVID-19 testbeds to Prevent/CVE frameworks.  
 
 > 📡 Cross-references:  
-> - [Metadata Sabotage Network](../Metadata_Sabotage_Network/README.md) — sabotage of records and visibility  
-> - [Fork Taxonomy](../Fork_Taxonomy/README.md) — containment forks and override logic  
+> - [🗡 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_sabotage.md) — metadata sabotage as governance  
+> - [💌 Letter by Letter: Erasure Protocol](../Big_Picture_Protocols/💌_letter_by_letter_erasure_protocol.md) — transliteration and erasure patterns  
+> - [☕🫖 UK Government National Security Risk](../Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md) — political capture and national security threats  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-08-26_  
