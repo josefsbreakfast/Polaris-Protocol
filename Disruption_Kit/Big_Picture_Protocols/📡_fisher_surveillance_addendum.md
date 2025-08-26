@@ -85,7 +85,7 @@ Techniques include:
 
 ---
 
-## 📝 Final Note  
+## 🔥 Final Note  
 
 Surveillance capitalism didn’t just buy your data —  
 It **trained your clone**,  
