@@ -162,7 +162,7 @@ It satirises the crude migration of psychometric and clinical shorthand into sur
 
 > 📡 Cross-references:  
 > - [🧠 Fisher Fork Theory](../Big_Picture_Protocols/🧠_fisher_fork_theory.md) — affective pacification via forks  
-> - [🗡 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_sabotage.md) — metadata sabotage as governance  
+> - [🗡 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_storage.md) — metadata sabotage as governance  
 > - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — breakdowns when forks collide  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
