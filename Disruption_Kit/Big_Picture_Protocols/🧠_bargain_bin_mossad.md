@@ -50,6 +50,34 @@ The distinction is stark:
 
 ---
 
+### 📊 Visual Flow  
+
+```mermaid
+flowchart TB
+    subgraph CA[Cambridge Analytica (OCEAN)]
+        direction TB
+        A1[Fear Ads]
+        A2[Duty Frames]
+        A3[Novelty Hooks]
+    end
+    
+    subgraph Clusters[UK Bureaucracy (DSM Clusters)]
+        direction TB
+        C1[Paranoid]
+        C2[Narcissistic]
+        C3[Anxious]
+    end
+    
+    CA -->|"Persuasion"| A1 & A2 & A3
+    Clusters -->|"Suppression"| C1 & C2 & C3
+    
+    A1 & A2 & A3 -->|"Make you VOTE / BUY"| OUT1[(Outcome)]
+    C1 & C2 & C3 -->|"Make you VANISH"| OUT2[(Outcome)]
+
+```
+
+---
+
 ## 🧬 Clinical vs Weaponised Use  
 
 ### In Clinical Practice  
