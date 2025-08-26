@@ -1,12 +1,10 @@
 # 🧠 Bargain Bin Mossad  
-
-**First created:** 2025-08-26  
-**Last updated:** 2025-08-26  
+**First created:** 2025-08-26 | **Last updated:** 2025-08-26  
 *A forensic satire of crude psyops, clumsy bureaucrats, and the misuse of clinical shorthand as containment theatre.*  
 
 ---
 
-## 🌐 Overview  
+## ✨ Overview  
 This node documents the divergence between **Cambridge Analytica-style psyops** (OCEAN-based persuasion systems) and the **UK bureaucratic cluster-fork model** (clinical-pathology containment systems). It traces the cultural signature, timeline, and institutional pipeline of how a diagnostic shorthand (Cluster A/B/C) migrated into surveillance, counterterrorism, and fork-level psyops.  
 
 It also captures how these crude tools were then **misapplied in lived contexts**:  
@@ -89,34 +87,15 @@ The distinction is stark:
 
 ## 🗺️ Institutional Flow  
 
-[ DSM-III / Psychiatry ]
-|
-v
-[ NHS Psychiatry & Clinical Risk Forms ]
-|   (clusters used informally to flag “difficult/risky” patients)
-v
-[ NHS Risk Management Bureaucracy ]
-|   (risk registers, safeguarding reports, MDT minutes)
-v
-[ Local Authority Safeguarding Boards ]
-|   (language of “erratic/dramatic/anxious” absorbed into multi-agency forms)
-v
-[ PREVENT / Counterterrorism Early Intervention ]
-|   (clusters repurposed into radicalisation risk factors)
-v
-[ Policing & Intelligence Gateways ]
-|   (cluster tags used as credibility filters → “unreliable narrator”)
-v
-[ Behavioural R&D Hubs (Nottingham / Sheffield / Cambridge spin-offs) ]
-|   (cheap “cluster” profiling coded into algorithmic forks & data models)
-v
-[ Psyops / Fork Deployments ]
-|   (survivors, dissidents, whistleblowers pathologised at scale)
-v
-[ Public Sphere Containment ]
-|   (delegitimise testimony, suppress reach, reinforce stigma)
-
----
+[ DSM-III / Psychiatry ]  
+→ [ NHS Psychiatry & Clinical Risk Forms ]  
+→ [ NHS Risk Management Bureaucracy ]  
+→ [ Local Authority Safeguarding Boards ]  
+→ [ PREVENT / Counterterrorism Early Intervention ]  
+→ [ Policing & Intelligence Gateways ]  
+→ [ Behavioural R&D Hubs (Nottingham / Sheffield / Cambridge spin-offs) ]  
+→ [ Psyops / Fork Deployments ]  
+→ [ Public Sphere Containment ]  
 
 ---
 
@@ -170,6 +149,22 @@ Both operate in the same space of information dominance, but with **different si
 
 ---
 
-🔗 [Back to folder README](./README.md)  
+## 🏷️ Tags  
+
+`#psyops` `#cambridge_analytica` `#cluster_forks` `#containment_theatre` `#forensic_satire`  
+
+---
+
+## 🏮 Footer  
+
+*Bargain Bin Mossad* is a living node of the Polaris Protocol.  
+It satirises the crude migration of psychometric and clinical shorthand into surveillance, containment, and fork-level psyops.  
+
+> 📡 Cross-references:  
+> - [🧠 Fisher Fork Theory](../Big_Picture_Protocols/🧠_fisher_fork_theory.md) — affective pacification via forks  
+> - [🗡 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_sabotage.md) — metadata sabotage as governance  
+> - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — breakdowns when forks collide  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-08-26_  
