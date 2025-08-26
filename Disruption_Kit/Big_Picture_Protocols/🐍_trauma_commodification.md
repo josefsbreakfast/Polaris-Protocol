@@ -1,19 +1,19 @@
 # 🐍 Trauma Commodification  
 **First created:** 2025-08-04 | **Last updated:** 2025-08-26  
-*A refusal log on the conversion of survivor pain into product*  
+*Refusal log tracing the conversion of survivor pain into commodity product*  
 
 > *Your pain became product.  
 > Your disclosures became dataset.  
-> This is how they made it profitable.*
+> This is how they made it profitable.*  
 
 ---
 
-## 📜 Module Summary  
+## ✨ Module Summary  
 
 State systems and behavioural surveillance architectures do not absorb trauma as tragedy —  
 they extract it as **commodity**.  
 
-Framed as safeguarding, profiling, or moderation, trauma is re-packaged into:
+Framed as safeguarding, profiling, or moderation, trauma is re-packaged into:  
 - Predictive input  
 - Emotional calibration data  
 - Justification for funding, expansion, and monitoring  
@@ -34,14 +34,12 @@ You were harvested.
 
 ---
 
-## 📌 Indexed Signals  
+## 🎏 Indexed Signals  
 
 - “Predictive grief product”  
 - “Trauma as calibration asset”  
 - “Behavioural data laundering”  
 - “SV disclosure → model token → risk loop”  
-
----
 
 ---
 
