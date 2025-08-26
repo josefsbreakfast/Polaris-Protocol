@@ -42,7 +42,9 @@ Outlines **institutional, technical, and behavioural environments** optimised fo
 
 ---
 
-> *An environment that smiles while stealing your voice is still a trap.*  
+## 🔥 Final Note  
+
+*An environment that smiles while stealing your voice is still a trap.*  
 
 ---
 
