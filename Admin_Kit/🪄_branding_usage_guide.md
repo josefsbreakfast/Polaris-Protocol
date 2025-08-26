@@ -31,4 +31,3 @@ The palette is a compass, not just colour.
 
 ---
 
----
