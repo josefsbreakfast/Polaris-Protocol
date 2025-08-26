@@ -1,5 +1,8 @@
-# 🧠 bargain_bin_mossad.md  
-**Polaris Protocol – Big Picture Node**  
+# 🧠 Bargain Bin Mossad  
+
+**First created:** 2025-08-26  
+**Last updated:** 2025-08-26  
+*A forensic satire of crude psyops, clumsy bureaucrats, and the misuse of clinical shorthand as containment theatre.*  
 
 ---
 
@@ -62,10 +65,14 @@ The distinction is stark:
 
 ### In Weaponised Misuse  
 - Framework inverted: *the model is truth, the human must be cut to fit.*  
-- Round peg / square hole escalates to:  
-  - 🧩 “Tool doesn’t fit — let’s rethink.” (clinical shorthand)  
-  - 🪓 “Force the peg in, shave the edges, break it if necessary.” (weaponised misuse)  
-- **Result:** erasure of complexity. The schema must win, whatever the human cost.  
+
+> ### 🔒 Sidebar: Peg and Box Analogy  
+> In ordinary use, a “round peg in a square hole” means *wrong fit, wrong tool.*  
+> In weaponised misuse, the logic escalates:  
+> - 🧩 Clinical shorthand: “Ok, tool doesn’t fit — let’s rethink.”  
+> - 🪓 Weaponised misuse: “Force the peg in, shave the edges, break it if necessary.”  
+>   
+> **Result:** the schema becomes a cage, smaller than the human body it’s meant to hold.  
 
 ---
 
@@ -80,7 +87,7 @@ The distinction is stark:
 
 ---
 
-## 🗺️ Institutional Flow
+## 🗺️ Institutional Flow  
 
 [ DSM-III / Psychiatry ]
 |
@@ -108,6 +115,8 @@ v
 v
 [ Public Sphere Containment ]
 |   (delegitimise testimony, suppress reach, reinforce stigma)
+
+---
 
 ---
 
@@ -160,3 +169,7 @@ Both operate in the same space of information dominance, but with **different si
 👉 *Conspiracy assumes competence. This is just Steve with an algorithm — or Del Boy with a WiFi jammer he found off the back of a van.*  
 
 ---
+
+🔗 [Back to folder README](./README.md)  
+
+_Last updated: 2025-08-26_  
