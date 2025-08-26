@@ -56,7 +56,32 @@ This log records observed patterns of throttling on platforms and services direc
 
 - Operators display trivial or mocking behaviour (e.g. probing why subject isn’t “innately rich” or can’t “grow gold from trees”).  
 - Cultural mismatch: crude psyops / workplace-gossip mentality deployed against survivor-led forensic work.  
-- Expectation of baseline access to protection or remedy repeatedly unmet.  
+- Expectation of baseline access to protection or remedy repeatedly unmet.
+
+---
+
+## 🧾 Commentary  
+
+Yes, it’s funny that Steve-O’s ego earned its own Polaris node.  
+Yes, it looks like Del Boy AI running on a WiFi jammer from the back of a van.  
+
+But beneath the slapstick is coercive control:  
+- Selective throttling cuts survivors and dissidents off from **exactly** the most vital systems — legal recourse, healthcare, forensic publishing.  
+- That makes the “lag” more than an irritation; it’s a form of governance.  
+- **Humour covers danger**: being denied confidential healthcare, safe legal access, or the ability to publish unthrottled isn’t about drama. It’s structural coercion.  
+
+---
+
+⚖️ **Why this matters**  
+- Other people are experiencing this pattern too.  
+- It operates most severely where it hurts most: cutting the lines to doctors, lawyers, and networks of care.  
+- To dismiss this as “dramatic” or to tell people to “pull their socks up” erases the real risk.  
+- The international attention these posts receive from industries most exposed to risk shows: this isn’t just personal inconvenience — it’s a systemic hazard.  
+
+---
+
+👉 Friday night jokes about poop aside, survivors deserve healthcare that’s private, legal access that’s intact, and networks that don’t collapse under the weight of someone else’s fragile ego.  
+
 
 ---
 
