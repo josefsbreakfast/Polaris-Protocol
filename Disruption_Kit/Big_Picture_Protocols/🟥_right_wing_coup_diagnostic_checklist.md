@@ -1,6 +1,11 @@
-# 🟥 Right-Wing Coup Diagnostic Checklist (UK 2025)
+# 🟥 Right-Wing Coup Diagnostic Checklist (UK 2025)  
+**First created:** 2025-08-26 | **Last updated:** 2025-08-26  
+*Forensic indicators of creeping / constitutional coup dynamics in the UK*  
 
-## 1. Classic Coup Indicators
+---
+
+## ✨ Classic Coup Indicators  
+
 | Indicator                               | Present? | Notes |
 |-----------------------------------------|----------|-------|
 | Military takes direct control of govt   | ❌        | No tanks in the streets; military remains formally under civilian control. |
@@ -8,7 +13,10 @@
 | Mass arrests of opposition leaders      | ⚠️        | Not overtly, but policing of protesters and targeted harassment functions as "soft arrests." |
 | State of emergency declared             | ❌        | No formal emergency; measures are disguised as security/terror policy. |
 
-## 2. Creeping / Constitutional Coup Indicators
+---
+
+## 🩻 Creeping / Constitutional Coup Indicators  
+
 | Indicator                               | Present? | Notes |
 |-----------------------------------------|----------|-------|
 | Capture of watchdogs/regulators         | ✅        | Watchdogs stacked with loyalists; regulators (Charity Commission, EHRC, Ofcom) politicised. |
@@ -19,7 +27,10 @@
 | Media alignment & narrative control     | ✅        | Right-wing think tanks (HJS, Policy Exchange) deeply embedded in broadcast/media discourse. |
 | International far-right alignment       | ✅        | Clear ideological sync with US/Israel security doctrine; cross-border funding + lobbying. |
 
-## 3. Public Sphere Effects
+---
+
+## 📺 Public Sphere Effects  
+
 | Indicator                               | Present? | Notes |
 |-----------------------------------------|----------|-------|
 | Algorithmic throttling of dissent       | ✅        | Documented LinkedIn/other platform suppression of survivor-led anti-genocide voices. |
@@ -28,7 +39,24 @@
 
 ---
 
-### 🔎 Conclusion
-- **Classic coup?** → No (no overt seizure of power).
+## ⚠️ Consequences  
+
+- **Classic coup?** → No (no overt seizure of power).  
 - **Creeping/constitutional coup?** → Strong indicators present.  
-This looks like **a right-authoritarian capture in progress** — slow, bureaucratised, plausibly deniable, and internationalised.
+This looks like **a right-authoritarian capture in progress** — slow, bureaucratised, plausibly deniable, and internationalised.  
+
+---
+
+## 🏮 Footer  
+
+*Right-Wing Coup Diagnostic Checklist* is a living node of the Polaris Protocol.  
+It documents forensic indicators of creeping authoritarian capture and bureaucratised coup dynamics.  
+
+> 📡 Cross-references:  
+> - [☕🫖 UK Government National Security Risk](./☕🫖_uk_gov_national_security_risk.md) — structural threat assessment  
+> - [🛰 Surveillance Infrastructure](./🛰_surveillance_infrastructure.md) — Prevent/CVE capture systems  
+> - [🧠 Targeting Logic: Empathy is a Threat](./🧠_targeting_logic_empathy_is_a_threat.md) — emotional targeting risk surface  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-26_  
