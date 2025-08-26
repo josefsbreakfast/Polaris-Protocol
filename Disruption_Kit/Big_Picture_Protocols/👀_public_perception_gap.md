@@ -1,46 +1,47 @@
 # 👀 Public Perception Gap  
-**First posted:** 2025-08-03 **Last updated:** 2025-08-11
+**First created:** 2025-08-03 | **Last updated:** 2025-08-26  
+*Analysis of how optics distort recognition of harm and enable institutional silencing*  
 
 ---
 
-## 📌 Overview
+## ✨ Overview  
 
 This module examines the widening gap between **public perception** and **actual institutional targeting**.  
-Focus: how “acceptable” identities are used to mask repression, how respectable dissent is selectively validated, and how cultural myths about safety, extremism, and legitimacy distort recognition of real harm.
+Focus: how “acceptable” identities are used to mask repression, how respectable dissent is selectively validated, and how cultural myths about safety, extremism, and legitimacy distort recognition of real harm.  
 
 ---
 
-## 🧠 Core Premise
+## 🧠 Core Premise  
 
-> **“If you don’t *look* like a threat, people assume you can’t be harmed — even while you’re being dismantled.”**
+> **“If you don’t *look* like a threat, people assume you can’t be harmed — even while you’re being dismantled.”**  
 
 - Perception follows *media cues* and *institutional signalling*, not material conditions.  
-- Victims of metadata targeting, state surveillance, or AI manipulation are often disbelieved if they don’t fit dominant narratives of threat or victimhood.
+- Victims of metadata targeting, state surveillance, or AI manipulation are often disbelieved if they don’t fit dominant narratives of threat or victimhood.  
 
 ---
 
-## 🧍‍♀️ Perception Mismatch Examples
+## 🎭 Perception Mismatch Examples  
 
-### 1. 👩‍🎓 Educated Women
+### 1. 👩‍🎓 Educated Women  
 - Assumed to have institutional protection or advocacy.  
 - When targeted (Prevent, smear campaigns, metadata suppression), reports are reframed as overreaction or delusion.  
-- Frequently positioned as symbolic defenders of the state — dissent becomes especially destabilising.
+- Frequently positioned as symbolic defenders of the state — dissent becomes especially destabilising.  
 
-### 2. 🧕 Muslim Women
+### 2. 🧕 Muslim Women  
 - Over-policed in schools and welfare, yet perceived as either oppressed or protected by multicultural policy.  
-- Actual surveillance and ideological containment are misframed as “care” or “welfare.”
+- Actual surveillance and ideological containment are misframed as “care” or “welfare.”  
 
-### 3. 🏳️‍🌈 White Gay Men
+### 3. 🏳️‍🌈 White Gay Men  
 - Used as proof of progressiveness by institutions enabling racism or misogyny.  
-- Often granted narrative legitimacy, while dissenting queer Black or Muslim voices are sidelined.
+- Often granted narrative legitimacy, while dissenting queer Black or Muslim voices are sidelined.  
 
-### 4. 🍉 Jewish Critics of Zionism
+### 4. 🍉 Jewish Critics of Zionism  
 - Targeted with metadata erasure and narrative sabotage.  
-- Public assumes protection via antisemitism frameworks, while the state weaponises Jewish identity to silence dissent (e.g., anti-occupation, antifascist organising).
+- Public assumes protection via antisemitism frameworks, while the state weaponises Jewish identity to silence dissent (e.g., anti-occupation, antifascist organising).  
 
 ---
 
-## 🧃 Flat Optics vs Layered Reality
+## 🪞 Flat Optics vs Layered Reality  
 
 | Perception Layer | Reality Layer |
 |------------------|---------------|
@@ -51,15 +52,15 @@ Focus: how “acceptable” identities are used to mask repression, how respecta
 
 ---
 
-## ⚠️ Structural Risks
+## ⚠️ Structural Risks  
 
 - **Weaponised Stereotypes**: Dissenters cast as unstable, threatening, or ungrateful when outside approved optics.  
 - **Narrative Shields**: Repression hidden behind curated poster figures, charities, or faux-accountability bodies.  
-- **Visibility Gaps**: Harm minimised or misclassified when it contradicts dominant storylines.
+- **Visibility Gaps**: Harm minimised or misclassified when it contradicts dominant storylines.  
 
 ---
 
-## 🧮 Institutional Amplifiers
+## 🧮 Institutional Amplifiers  
 
 | Entity | Role |
 |--------|------|
@@ -71,11 +72,25 @@ Focus: how “acceptable” identities are used to mask repression, how respecta
 
 ---
 
-## 🔍 Case Notes for Polaris Users
+## 📖 Case Notes for Polaris Users  
 
 - **Did Your Support Vanish?** → If allies or services disappeared *after* escalation, check for metadata manipulation.  
 - **Were You Miscast?** → Review how you’re described in records, policies, safeguarding notes — does it match your reality?  
 - **Are You the “Wrong” Kind of Victim?** → If your identity disrupts dominant power optics (e.g., Muslim survivor of state violence), you may be narrative-silenced.  
-- **Check Who Gets Believed** → Is someone else allowed to say what you’ve said — only more “palatably”? That’s a perception gap.
+- **Check Who Gets Believed** → Is someone else allowed to say what you’ve said — only more “palatably”? That’s a perception gap.  
 
 ---
+
+## 🏮 Footer  
+
+*Public Perception Gap* is a living node of the Polaris Protocol.  
+It analyses how institutional optics distort harm recognition, creating narrative shields that silence survivor voices.  
+
+> 📡 Cross-references:  
+> - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — fork clashes and unexpected visibility artefacts  
+> - [🐍 Trauma Commodification](../Big_Picture_Protocols/🐍_trauma_commodification.md) — how disclosures become product  
+> - [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — systemic framing of empathy as risk  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-26_  
