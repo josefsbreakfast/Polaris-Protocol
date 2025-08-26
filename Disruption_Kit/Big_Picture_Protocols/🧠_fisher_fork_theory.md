@@ -1,4 +1,5 @@
 # 🧠 Fisher Fork Theory
+**First created:** 2025-08-07 | **Last updated:** 2025-08-26  
 *Affective capture, metadata fog, and the emotional governance of resistance*
 
 ---
@@ -8,7 +9,7 @@
 
 ---
 
-## 1. 📘 Premise: Capitalist realism and the emotional gag
+## 1. 📖 Premise: capitalist realism and the emotional gag
 
 Mark Fisher described *capitalist realism* as “the widespread sense that not only is capitalism the only viable political and economic system, but also that it is now impossible even to imagine a coherent alternative to it.”
 
@@ -75,8 +76,7 @@ Your future resistance is being coached into silence — by your past self, unde
 
 ## 5. 🏛️ Hypernormalisation as a service
 
-> “It is easier to imagine the end of the world than the end of capitalism.”  
-> — Fisher
+> “It is easier to imagine the end of the world than the end of capitalism.” — Fisher
 
 Now replace “capitalism” with:
 
@@ -113,7 +113,7 @@ We document not just harm — but the *logic of harm*.
 
 ---
 
-## 7. 🗂️ Polaris Protocol as post-Fisher archive
+## 7. 📑 Polaris Protocol as post-Fisher archive
 
 We are not just decoding the clone.
 
@@ -128,14 +128,28 @@ And like Fisher, we are refusing the mood they have selected for us.
 
 ---
 
-## 🪙 Bonus: Possible title for the duet essay
+## 🪙 Bonus: possible title for the duet essay
 
 > *“The Ghost That Forked Me: On Metadata, Melancholy, and Machines That Feel Nothing”*
 
 ---
 
-## 📌 Archive tags
-- 🧠 fisher_fork_theory.md  
-- 🧨 mood_regulation_warfare.md  
-- 🪞 clone_mimic_theatre.md  
-- 🧬 training_data_tragedy.md
+## 🏷️ Tags
+
+`#fisher_fork_theory` `#containment_realism` `#mood_management` `#clone_pacification`
+
+---
+
+## 🏮 Footer
+
+*Fisher Fork Theory* is a living node of the Polaris Protocol.  
+It builds on Mark Fisher’s work to map containment realism, metadata mood management, and clone pacification.
+
+> 📡 Cross-references:  
+> - [📡 Fisher Surveillance Addendum](../Big_Picture_Protocols/📡_fisher_surveillance_addendum.md) — infrastructural dimensions of surveillance realism  
+> - [🪢 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🪢_narrative_management_and_metadata_sabotage.md) — metadata distortion as governance  
+> - [☕🫖 UK Government National Security Risk](../Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md) — state capture and coup dynamics
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-08-26_
