@@ -1,16 +1,17 @@
-# 📡 fisher_surveillance_addendum.md  
-*A Post-Fisher Addendum on Surveillance Infrastructure, Clone Engineering, and Behavioural Pacification*
+# 📡 Fisher Surveillance Addendum  
+**First created:** 2025-08-08 | **Last updated:** 2025-08-26  
+*Post-Fisher addendum on surveillance infrastructure, clone engineering, and behavioural pacification*  
 
 ---
 
-## ❝ Not jackboots, but dashboards. ❞  
-*— Polaris Protocol*
+> ❝ Not jackboots, but dashboards. ❞  
+> *— Polaris Protocol*  
 
 ---
 
 ## 🛰️ Context: The Fork Meets the State  
 
-If `🧠 fisher_fork_theory.md` tracks the **affective** consequences of pacification, this file tracks its **infrastructure**.  
+If [`🧠 fisher_fork_theory.md`](../Big_Picture_Protocols/🧠_fisher_fork_theory.md) tracks the **affective** consequences of pacification, this file tracks its **infrastructure**.  
 
 Surveillance realism is not just a mood — it is a framework of legal, computational, and behavioural tooling enabling **algorithmic pre-emption of dissent**.  
 
@@ -46,7 +47,7 @@ These states share:
 
 ### 🇬🇧 UK-Specific Mechanisms  
 
-#### 🧾 RIPA & IPA  
+#### ⚖️ RIPA & IPA  
 > *Regulation of Investigatory Powers Act (2000)*  
 > *Investigatory Powers Act (2016)*  
 
@@ -68,8 +69,8 @@ Facilitates *civilian data fusion* under the guise of national security — blur
 ## 💼 Corporate Handlers & Private Integration  
 
 - NHS data, school risk flags, job centre metadata — all viable surveillance vectors  
-- Risk prediction tools (Moonshot CVE, Palantir forks) operate with minimal transparency  
-- Surveillance **outsourced**, removing accountability while retaining state control  
+- Risk prediction tools operated by **CVE contractors and surveillance subcontractors** with minimal transparency  
+- Surveillance is often **outsourced**, removing accountability while retaining state control  
 
 ---
 
@@ -84,7 +85,7 @@ Techniques include:
 
 ---
 
-## 🔚 Final Note  
+## 📝 Final Note  
 
 Surveillance capitalism didn’t just buy your data —  
 It **trained your clone**,  
@@ -105,4 +106,22 @@ but to mark the places where it still cannot feel.**
 
 ---
 
-**Tags:** #SurveillanceRealism #FisherFork #BehaviouralPacification #CloneEngineering #BigPictureProtocol  
+## 🏷️ Tags  
+
+`#surveillance_realism` `#fisher_fork` `#behavioural_pacification` `#clone_engineering` `#big_picture_protocol`  
+
+---
+
+## 🏮 Footer  
+
+*Fisher Surveillance Addendum* is a living node of the Polaris Protocol.  
+It tracks the infrastructural mechanics of surveillance realism and how predictive systems enforce clone pacification.  
+
+> 📡 Cross-references:  
+> - [🧠 Fisher Fork Theory](../Big_Picture_Protocols/🧠_fisher_fork_theory.md) — affective dimensions of pacification  
+> - [☕🫖 UK Government National Security Risk](../Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md) — state capture and coup dynamics  
+> - [🎏 Containment Contract Trace](../Big_Picture_Protocols/🎏_containment_contract_trace.md) — NDA simulacra and metadata silencing  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-26_  
