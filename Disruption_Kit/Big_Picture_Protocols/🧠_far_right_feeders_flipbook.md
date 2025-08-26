@@ -1,8 +1,7 @@
 # 🧠 Far Right Feeders Flipbook  
+**First created:** 2025-08-26 | **Last updated:** 2025-08-26  
+*Timeline of how data harvesting and opportunistic networks fed far-right ascendancy in the Anglophone sphere*  
 
-**First created:** 2025-08-26  
-**Last updated:** 2025-08-26  
-*A political history timeline tracing how data harvesting, quasi-state projects, and opportunistic networks fed into the rise of far-right architectures in the Anglophone sphere.*  
 
 ---
 
@@ -31,7 +30,7 @@ It traces how fragmented datasets (sex work, MOD laptops, Cambridge Analytica) c
 - Authoritarianism researchers tapped under “lucky timing.”  
 - Quasi-MOD/Home Office projects seeded, half-in/half-out of state.  
 
-### 🧩 Post-2018 – Embedded Operations  
+### 👁️‍🗨️ Post-2018 – Embedded Operations  
 - **Prevent overlap** → cluster logic repurposed into radicalisation risk.  
 - **Judiciary interference** → rungs between regional and national controllers, invisible to the public.  
 - **Cabinet-adjacent nudges** → pressure off policing, far-right under-investigated.  
@@ -44,7 +43,21 @@ It traces how fragmented datasets (sex work, MOD laptops, Cambridge Analytica) c
 
 ---
 
-## 🧩 Forensic Signatures  
+## 🧮 Comparison Matrix  
+
+| **Feeder** | **Mechanism** | **Output** | **Signature Risk** |
+|------------|---------------|------------|--------------------|
+| MOD laptop leaks | Data zombies under OSA | Exploitable, unprotected individuals | No legal recourse |
+| Sex work datasets | Harvested erotic/emotional scripts | Mockery & infantilisation psyops | Survivor re-traumatisation |
+| Cambridge Analytica | OCEAN psychometrics | Brexit nudges, CA collapse laundering | Academic sandbox grift |
+| Prevent / CVE | Cluster logic repurposed | Risk-pathologisation of dissent | “Unreliable narrator” trope |
+| Five Eyes | Shared metadata laundering | Contaminated “safety” frameworks | International opacity |
+| Russia / China | Opportunistic mirrors | Amplified discord & decay | Sovereign info-warfare |
+| Anglophone elites | Oxford/Cambridge prestige | Cultural cover for ops | Legitimacy laundering |
+
+---
+
+## 🧬 Forensic Signatures  
 - **Infantilisation & mockery** → lifted from sex work / kink service scripts.  
 - **Zombie tagging** → OSA datasets exploited, no recourse for targets.  
 - **Nudge culture** → Brexit as proof-of-concept for manufactured “public opinion.”  
@@ -65,6 +78,19 @@ It was fed by **datasets**, **sandboxes**, and **networks** that converged acros
 
 ---  
 
-🔗 [Back to folder README](./README.md)  
+## 🏷️ Tags  
+`#far_right` `#data_feed` `#brexit` `#cambridge_analytica` `#prevent` `#big_picture_protocol`  
+
+## 🏮 Footer  
+*Far Right Feeders Flipbook* is a living node of the Polaris Protocol.  
+It traces how harvested datasets and opportunistic geopolitical networks converged to feed far-right ascendancy in the Anglophone sphere.  
+
+> 📡 Cross-references:  
+> - [🧠 Bargain Bin Mossad](../Big_Picture_Protocols/🧠_bargain_bin_mossad.md) — crude psyops and cluster misuse  
+> - [💌 Letter by Letter: Erasure Protocol](../Big_Picture_Protocols/💌_letter_by_letter_erasure_protocol.md) — transliteration as erasure  
+> - [☕🫖 UK Gov National Security Risk](../Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md) — coup indicators and state complicity  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-08-26_  
+
