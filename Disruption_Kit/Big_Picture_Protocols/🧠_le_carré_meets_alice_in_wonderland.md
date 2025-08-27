@@ -43,7 +43,23 @@ But the audience is unsettled: the tent sways, the ground hums, and the story ha
 
 The tale is not literal.  
 It is a survival map for recognising when all parliamentary vehicles have been bent into alignment with outside capture.  
-What remains is the audience: awake, murmuring, ready to leave the tent.  
+What remains is the audience: awake, murmuring, ready to leave the tent.
+
+---
+
+## 🗺️ Diagram: The Moles Beneath the Tent  
+
+```mermaid
+flowchart TD
+    A[🎪 Circus Tent: The Show Above] --> B[🐀 Farage: Loud Mole<br/>Noise, slapstick disruption]
+    A --> C[🐀 Starmer: Quiet Mole<br/>Silent burrows under opposition]
+    A --> D[🐀 Conservatives: Ancient Molehill<br/>Tunnels everywhere, ground unstable]
+    B --> E[🎭 Distraction Politics]
+    C --> F[🪞 Collapsed Opposition]
+    D --> G[⚖️ Tilted Foundations]
+    E & F & G --> H[🌐 Audience Uneasy<br/>Tent sways, murmurs grow]
+
+```
 
 ---
 
