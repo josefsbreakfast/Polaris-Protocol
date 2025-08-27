@@ -1,13 +1,18 @@
 # 🌀 System & Governance  
 
-**Scope:**  
+**First created:** 2025-08-27 | **Last updated:** 2025-08-27  
+*How the systems we use interlace with what controls and powers them.*  
+
+---
+
+## ✨ Scope  
 
 This cluster holds doctrines and diagnostics on how systems govern behaviour through infrastructure, bureaucracy, and narrative control.  
 It maps the architecture of containment — from algorithmic nudges to surveillance stacks — and records how governance operates at both the visible and hidden layers.  
 
 ---
 
-## ✨ Core Themes  
+## 🦚 Core Themes  
 
 - **Containment Logic** → how empathy, delay, or translation are weaponised as governance tools.  
 - **Infrastructure** → surveillance, intake gates, contract traces, and technical choke points.  
