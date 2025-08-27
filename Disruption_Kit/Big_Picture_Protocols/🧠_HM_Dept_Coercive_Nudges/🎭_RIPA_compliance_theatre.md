@@ -1,6 +1,6 @@
 # 🎭 RIPA Compliance Theatre  
 
-**First created:** 2025-08-04 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-04 | **Last updated:** 2025-08-27  
 
 > **“They said it was lawful. They meant it was theatrically timed.”**  
 > *RIPA (Regulation of Investigatory Powers Act) and allied powers convert coercion into performance.  
@@ -114,4 +114,4 @@ This file documents how surveillance law operates as performance — ritualised 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-08-27_  
