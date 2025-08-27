@@ -35,25 +35,27 @@ The focus is on asymmetry: far-right radicalisation is accelerated, while surviv
 
 ```mermaid
 flowchart TD
-  subgraph P[Pipelines & Culture]
-    A[Far-right feeders flipbook]:::jargon
-    B[Radicalisation pipelines<br/>and platform culture]:::jargon
+  %% Radicalisation & Extremism — fixed IDs (no node/subgraph collisions)
+
+  subgraph PIP[Pipelines & Culture]
+    a1[Far-right feeders flipbook]:::jargon
+    a2[Radicalisation pipelines<br/>and platform culture]:::jargon
   end
 
-  subgraph D[Diaspora & Religion]
-    C[Christian Zionism → Diaspora Radicalisation]:::ethics
+  subgraph DIA[Diaspora & Religion]
+    b1[Christian Zionism → Diaspora radicalisation]:::ethics
   end
 
-  subgraph C[Containment & Coup Signals]
-    D[Right-wing coup<br/>diagnostic checklist]:::bureaucratic
-    E[UK Gov national<br/>security risk]:::bureaucratic
+  subgraph CNT[Containment & Coup Signals]
+    c1[Right-wing coup<br/>diagnostic checklist]:::bureaucratic
+    c2[UK Gov national<br/>security risk]:::bureaucratic
   end
 
   %% Flows
-  A --> B
-  B --> C
-  C --> D
-  D --> E
+  a1 --> a2
+  a2 --> b1
+  b1 --> c1
+  c1 --> c2
 
   %% Style (Admin Kit)
   classDef soft fill:#d2f4ff,stroke:#2a9df4,stroke-width:1px;
