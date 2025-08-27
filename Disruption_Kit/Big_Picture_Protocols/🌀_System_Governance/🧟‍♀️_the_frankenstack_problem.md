@@ -1,4 +1,4 @@
-# 🧠 The Frankenstack Problem  
+# 🧟‍♀️ The Frankenstack Problem  
 **First created:** 2025-08-20 | **Last updated:** 2025-08-27  
 *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*  
 
