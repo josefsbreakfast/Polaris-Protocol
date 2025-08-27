@@ -1,4 +1,4 @@
-# 🧠 Snake Bites and Stolen Voices  
+# 🐍 Snake Bites and Stolen Voices  
 **First created:** 2025-08-13 | **Last updated:** 2025-08-27  
 *Narrative reversal on suppression, theft, and clarity strikes*
 
