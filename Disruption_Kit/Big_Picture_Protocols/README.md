@@ -1,7 +1,6 @@
 # 🧠 Big Picture Protocols
 
 **First created:** 2025-08-11 | **Last updated:** 2025-08-28
-
 *Big ideas to defeat the small ideologies.*
 
 ---
