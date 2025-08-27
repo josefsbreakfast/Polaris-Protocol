@@ -1,5 +1,5 @@
 # 🐦‍🔥 Polaris Node: The Signature Trap  
-**First created:** 2025-08 | **Last updated:** 2025-08-27  
+**First created:** 2025-08-11 | **Last updated:** 2025-08-27  
 *How a solidarity petition became a data ingestion trap for behavioural profiling and containment*
 
 ---
