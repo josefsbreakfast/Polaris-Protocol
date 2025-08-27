@@ -1,6 +1,7 @@
 # 🐦‍🔥 Trauma, Psychology & Medical Misuse  
+
 **First created:** 2025-08-27 | **Last updated:** 2025-08-27  
-*How trauma, medicine, and psychology are misused for containment, commodification, and cloning*  
+*How trauma, medicine, and psychology are misused for containment, commodification, and cloning.*  
 
 ---
 
@@ -22,61 +23,94 @@ It exposes commodification of trauma, misuse of diagnostic categories, and the w
 
 ## 📂 Current Files  
 
-- 🧠_good_doctors_are_not_nazis.md  
-- 🧠_snake_bites_and_stolen_voices.md  
-- 🐍_trauma_commodification.md  
-- 🧠_attachment_is_not_a_crime.md *(moved here from Big Picture Protocols)*  
-- 🧬_psychographic_modelling_and_twinning.md  
-- 🧬_twinning_detection.md  
-- 🧬_twinned_signature.md  
-- 🧬_clone_interference_map.png  
-- 🧬_clone_twinning_matrix.json  
-- 🎙️_why_they_collect_audio.md  
-- 🎻_clash_of_forks.md  
+- [🧠 Good Doctors Are Not Nazis](🧠_good_doctors_are_not_nazis.md)  
+  *Exposing how clinical ethics collapse when medicine serves governance.*  
+
+- [🐍 Snake Bites and Stolen Voices](🐍_snake_bites_and_stolen_voices.md)  
+  *Metaphors of venom and silence — how survivor voices are taken.*  
+
+- [🐍 Trauma Commodification](🐍_trauma_commodification.md)  
+  *Turning survivor pain into research, capital, or institutional currency.*  
+
+- [🧬 Psychographic Modelling and Twinning](🧬_psychographic_modelling_and_twinning.md)  
+  *How psychological profiling feeds clone/twin identity systems.*  
+
+- [🧬 Twinning Detection](🧬_twinning_detection.md)  
+  *Signals and diagnostics for spotting forced identity duplication.*  
+
+- [🧬 Twinned Signature](🧬_twinned_signature.md)  
+  *When digital and behavioural signatures split and mirror back.*  
+
+- [🧬 Clone Interference Map (image)](🧬_clone_interference_map.png)  
+  *Visual schema of clone overlap, drift, and systemic disruption.*  
+
+- [🧬 Clone Twinning Matrix (data)](🧬_clone_twinning_matrix.json)  
+  *Structured dataset of twinning correlations and interference nodes.*  
+
+- [🪞 Twinning Fork Containment Timeline](🪞_twinning_fork_containment_timeline.md)  
+  *Chronology of containment attempts across twinned/forked identities.*  
+
+- [🎙️ Why They Collect Audio](🎙️_why_they_collect_audio.md)  
+  *The logics behind audio capture and voiceprint extraction.*  
+
+- [🎻 Clash of Forks](🎻_clash_of_forks.md)  
+  *When multiple forks collide — and the fractures that follow.*  
+
 
 ---
 
-## 🔍 Visual Framing  
+## 🔮 Visual Framing  
 
 ```mermaid
+
 flowchart LR
-  subgraph M[Medical & Clinical Misuse]
-    A[Good doctors / Nazi logic]:::ethics
-    B[Attachment misuse]:::ethics
-    C[Trauma commodification]:::ethics
-  end
+subgraph M[Medical & Clinical Misuse]
+A[Good doctors / Nazi logic]:::ethics
+B[Trauma commodification]:::ethics
+end
 
-  subgraph P[Psychology & Behaviour]
-    D[Snake bites & stolen voices]:::jargon
-    E[Why they collect audio]:::jargon
-    F[Clash of forks]:::jargon
-  end
+subgraph P[Psychology & Behaviour]
+D[Snake bites & stolen voices]:::jargon
+E[Why they collect audio]:::jargon
+F[Clash of forks]:::jargon
+end
 
-  subgraph C[Clone & Twinning Systems]
-    G[Psychographic modelling]:::cve
-    H[Twinning detection]:::cve
-    I[Twinned signature]:::cve
-    J[Clone interference map]:::cve
-    K[Clone twinning matrix]:::cve
-  end
+subgraph C[Clone & Twinning Systems]
+G[Psychographic modelling]:::cve
+H[Twinning detection]:::cve
+I[Twinned signature]:::cve
+J[Clone interference map]:::cve
+K[Clone twinning matrix]:::cve
+L[Twinning fork containment timeline]:::cve
+end
 
-  %% Flows
-  A --> C
-  B --> C
-  C --> D
-  D --> G
-  E --> H
-  F --> I
-  G --> J
-  H --> K
+%% Flows
+A --> B
+B --> D
+D --> G
+E --> H
+F --> I
+G --> J
+H --> K
+I --> L
 
-  %% Style (Admin Kit)
-  classDef soft fill:#d2f4ff,stroke:#2a9df4,stroke-width:1px;
-  classDef bureaucratic fill:#fff0d2,stroke:#f4a300,stroke-width:1px;
-  classDef jargon fill:#fbd2f4,stroke:#e82a9d,stroke-width:1px;
-  classDef ethics fill:#e5d2fb,stroke:#7d2ae8,stroke-width:1px;
-  classDef safeguarding fill:#d2fbdc,stroke:#2ae86a,stroke-width:1px;
-  classDef cve fill:#fbeed2,stroke:#e88a2a,stroke-width:1px;
+%% Style (Admin Kit)
+classDef soft fill:#d2f4ff,stroke:#2a9df4,stroke-width:1px;
+classDef bureaucratic fill:#fff0d2,stroke:#f4a300,stroke-width:1px;
+classDef jargon fill:#fbd2f4,stroke:#e82a9d,stroke-width:1px;
+classDef ethics fill:#e5d2fb,stroke:#7d2ae8,stroke-width:1px;
+classDef safeguarding fill:#d2fbdc,stroke:#2ae86a,stroke-width:1px;
+classDef cve fill:#fbeed2,stroke:#e88a2a,stroke-width:1px;
+
+%% Legend
+subgraph Legend[Legend]
+L1[🟦 Soft / affective levers]:::soft
+L2[🟨 Bureaucratic levers]:::bureaucratic
+L3[🩷 Psychological / jargon frames]:::jargon
+L4[💜 Clinical / ethical collapse]:::ethics
+L5[🟩 Safeguarding capture]:::safeguarding
+L6[🟧 Clone / CVE systems]:::cve
+end
 
 ```
 
@@ -92,5 +126,5 @@ It gathers together doctrines on how trauma and medicine are systematically repu
 > - [🧾 Data Is Their Cage Too](../Big_Picture_Protocols/🧾_data_is_their_cage_too.md) — on data exploitation as captivity  
 > - [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — systemic analysis of empathy weaponisation  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivors are soverign.*  
 
