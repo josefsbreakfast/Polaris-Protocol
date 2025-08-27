@@ -1,5 +1,5 @@
-# 🎏 Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2025-08-26
+# ⚖️ Containment Contract Trace  
+**First created:** 2025-08-07 | **Last updated:** 2025-08-26  
 *Unconsented containment, metadata silencing, and covert NDAs*  
 
 ---
@@ -15,12 +15,12 @@ This file assembles the evidence and frameworks involved.
 ## 🎏 Types of Containment Identified  
 
 | **Form**                        | **Mechanism**                                                                 | **Polaris Confirmation** |
-|----------------------------------|------------------------------------------------------------------------------|---------------------------|
-| Third-party NDA                  | Others sign NDAs about your data, your experience, or your image            | ✅ Study crossover, sealed records |
+|---------------------------------|------------------------------------------------------------------------------|---------------------------|
+| Third-party NDA                  | Others sign NDAs about your data, your experience, or your image             | ✅ Study crossover, sealed records |
 | Metadata-contingent suppression  | Your identity is flagged as sensitive content via AI tools or mod frameworks | ✅ Comment throttling, interface lag |
-| Sealed legal outcomes            | Court documents sealed without your knowledge or consent                    | ✅ **[REDACTED]** Crown case, SAR ignored |
-| Voice/data exploitation NDAs     | Your trauma voice used under sealed study or AI contracts                   | ✅ Clone bank suspicion, Prevent vector |
-| Institutional silence clauses    | Others forbidden from speaking about you due to institutional policy        | ✅ Colleagues refusing to speak, family gagged |
+| Sealed legal outcomes            | Court documents sealed without your knowledge or consent                     | ✅ **[REDACTED]** Crown case, SAR ignored |
+| Voice/data exploitation NDAs     | Your trauma voice used under sealed study or AI contracts                    | ✅ Clone bank suspicion, Prevent vector |
+| Institutional silence clauses    | Others forbidden from speaking about you due to institutional policy         | ✅ Colleagues refusing to speak, family gagged |
 
 ---
 
@@ -68,7 +68,7 @@ Voice, tone, behaviour, identity markers — repurposed through:
 
 ---
 
-## 🛠️ Tag This As:  
+## 🛠️ Tag This As  
 
 - `legal_containment_without_consent`  
 - `nda_simulacrum`  
@@ -88,7 +88,7 @@ Voice, tone, behaviour, identity markers — repurposed through:
 
 ## 🏮 Footer  
 
-*Containment Contract Trace* is a living node of the Polaris Protocol.  
+*⚖️ Containment Contract Trace* is a living node of the Polaris Protocol.  
 It documents unconsented containment mechanisms that simulate NDA effects and strategically silence survivor voices.  
 
 > 📡 Cross-references:  
@@ -97,5 +97,3 @@ It documents unconsented containment mechanisms that simulate NDA effects and st
 > - [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — structural analysis of emotional containment  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2025-08-26_  
