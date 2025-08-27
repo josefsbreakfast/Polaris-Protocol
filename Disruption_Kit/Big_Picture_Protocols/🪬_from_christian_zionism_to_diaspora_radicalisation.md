@@ -1,31 +1,33 @@
-# 🪬 From Christian Zionism to Diaspora Radicalisation
-
-*Tracing how US Christian Zionist comms toolkits morphed into diaspora “radicalisation” audits and campus scorecards.*  
-**Created:** 2025-08-19 | **Last updated:** 2025-08-19 
+# 🪬 From Christian Zionism to Diaspora Radicalisation  
+**First created:** 2025-08-19 | **Last updated:** 2025-08-27  
+*Tracing how US Christian Zionist comms toolkits morphed into diaspora “radicalisation” audits and campus scorecards*
 
 ---
 
 ## 1. The Christian Zionist Prototype (1970s–1990s)  
-- **Key actors:**  
-  - ICEJ (International Christian Embassy Jerusalem, 1980)  
-  - IFCJ (International Fellowship of Christians and Jews, 1983)  
-  - Televangelical donor networks, prophecy media.  
-- **Tactics:**  
-  - Package theology as “objective support for Israel.”  
-  - Create **scorecards** and “peace language” for secular institutions.  
-  - Build **donor-friendly reports** to prove “impact.”  
-- **Example:** ICEJ’s “Jerusalem as Capital of Peace” papers, circulated in Brussels & Washington.  
 
-*→ Comms toolkit emerges: binary moral frames, apocalyptic arcs, and donor-theatre reports disguised as neutral analysis.*  
+**Key actors**  
+- ICEJ (International Christian Embassy Jerusalem, 1980)  
+- IFCJ (International Fellowship of Christians and Jews, 1983)  
+- Televangelical donor networks, prophecy media  
+
+**Tactics**  
+- Package theology as “objective support for Israel”  
+- Create **scorecards** and “peace language” for secular institutions  
+- Build **donor-friendly reports** to prove “impact”  
+
+**Example** → ICEJ’s *“Jerusalem as Capital of Peace”* papers, circulated in Brussels & Washington  
+
+> **Comms toolkit emerges:** binary moral frames, apocalyptic arcs, and donor-theatre reports disguised as neutral analysis  
 
 ---
 
 ## 2. Netanyahu & the Christian Zionist Radicalisation Arc  
 
-**Hypothesis:**  
+**Hypothesis**  
 Netanyahu isn’t just courting evangelicals. His worldview is partially radicalised by them.  
 
-### Timeline  
+### Timeline (Mermaid)  
 
 ```mermaid
 timeline
@@ -223,3 +225,17 @@ flowchart TD
 - Outcome: A Likud leader with Revisionist roots, but a **Christian Zionist grammar** stitched into his political DNA.
 
 ---
+
+## 🏮 Footer  
+
+*From Christian Zionism to Diaspora Radicalisation* is a living node of the Polaris Protocol.  
+It documents how US evangelical comms toolkits migrated into Israeli politics and diaspora monitoring regimes, reformatting communal life into binary, apocalyptic, and donor-theatre frames.  
+
+> 📡 Cross-references:  
+> - [Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md) — marginalised groups as predictive indicators  
+> - [Psychographic Modelling and Twinning](../Big_Picture_Protocols/🧬_psychographic_modelling_and_twinning.md) — predictive profiling and mimicry loops  
+> - [The Illusion of Choice](../Big_Picture_Protocols/🪞_the_illusion_of_choice.md) — false autonomy as systemic pacification  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-27_
