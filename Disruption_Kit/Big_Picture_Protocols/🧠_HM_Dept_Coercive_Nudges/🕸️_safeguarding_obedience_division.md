@@ -1,11 +1,11 @@
-# 🛡️ Safeguarding Obedience Division
+# 🕸️ Safeguarding Obedience Division
 *How “support” becomes surveillance, and “care” becomes containment.*  
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-27
 
 ---
 
-## 📌 Overview  
+## ✨ Overview  
 Safeguard Obedience is the coercive logic where care, support, and oversight are repackaged as surveillance and control. This doctrine node brings together four entangled tactics:  
 
 1. **Narrative as Asylum** → testimony used as cage.  
@@ -24,7 +24,7 @@ Instead, **narrative is weaponised as an asylum claim**:
 - A pretext for behavioural profiling.  
 - A trap for future discrediting.  
 
-### 🔁 Narrative Reversals  
+### ➿ Narrative Reversals  
 
 - “Tell us everything” → later becomes: *“Why did you say that?”*  
 - “Be honest” → becomes: *“That proves your instability.”*  
@@ -58,7 +58,7 @@ It simultaneously:
 - **Filtering for Flip Potential**: Who hesitates or quietly resists?  
 - **Tagging Ethical Disobedience**: Who *breaks script* to reduce harm?  
 
-### 🧩 Why It Works  
+### 🐍 Why It Works  
 
 - Audits preserve the **illusion of neutrality**, lulling actors into candour.  
 - Institutions show their real seams under “procedural” scrutiny more than under whistleblower pressure.  
@@ -116,7 +116,7 @@ The machine runs because enough people quiet-quit justice every day.
 
 ---
 
-## 🛡️ Disguised Control  
+## 🪬 Disguised Control  
 
 The modern safeguarding apparatus is not always protective.  
 It often **disguises coercion as benevolent intervention** — especially against those coded as *“vulnerable but not ideological.”*  
@@ -155,4 +155,4 @@ This file documents how safeguarding rhetoric is redeployed as a mechanism of co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-08-27_  
