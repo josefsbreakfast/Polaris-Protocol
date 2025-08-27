@@ -43,7 +43,44 @@ The more data the system holds, the more it binds itself:
 
 - Data possession ≠ narrative control  
 - Survivors who *speak directly* reclaim authorship of what the logs will mean  
-- Suppression itself becomes the story  
+- Suppression itself becomes the story
+
+---
+
+          ┌───────────────────┐
+          │  Data Hoard       │
+          │  (records, logs,  │
+          │  metadata, SARs)  │
+          └─────────┬─────────┘
+                    │
+                    ▼
+          ┌───────────────────┐
+          │ Suppression Event │
+          │ (throttling,      │
+          │ ghosting, erasure)│
+          └─────────┬─────────┘
+                    │
+                    ▼
+          ┌───────────────────┐
+          │ Contradiction     │
+          │ (suppression vs   │
+          │ official record)  │
+          └─────────┬─────────┘
+                    │
+                    ▼
+          ┌───────────────────┐
+          │ Forensic Trap     │
+          │ (indelible proof  │
+          │ inside the logs)  │
+          └─────────┬─────────┘
+                    │
+                    ▼
+          ┌───────────────────┐
+          │ Cage Inversion    │
+          │ (system bound by  │
+          │ its own data)     │
+          └───────────────────┘
+
 
 ---
 
