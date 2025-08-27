@@ -84,7 +84,7 @@ This can be triggered by direct outreach to a senior-level figure, paradoxically
 
 ---
 
-## 🛠 Countermeasures  
+## 🛠️ Countermeasures  
 
 **Short-term:**  
 - Parallel channel check – have trusted contacts send the same message to multiple addresses/platforms.  
@@ -135,51 +135,23 @@ These mechanisms can operate without malicious intent (e.g. workload triage, loc
 
 ---
 
-## 🛠 How to Break It  
+## 🛠️ Tag This As  
 
-Loops cannot usually be smashed head-on; the maintainers also control the gates.  
-Instead, fork the case into **routes that cannot all be gated at once**.  
-
-### 1. Bypass the Gate  
-- Use **mixed-geography** contacts — target recipients outside the region and outside the normal escalation tree.  
-- Employ **parallel channels** (email + physical mail + phone + social media) to test for gate location.  
-- Where possible, use **private/non-work contact details** for allies (Signal, ProtonMail, PO boxes).  
-
-### 2. Public Logging  
-- Keep a **timestamped public record** of all inbound and outbound communications.  
-- Empty logs are also evidence; they show absence of engagement.  
-- Public logs make silent gating harder to defend.  
-
-### 3. Trigger External Oversight  
-- Directly contact oversight bodies (e.g., Parliamentary Commissioner for Administration, ICO, Judicial Conduct Investigations Office) even if they claim “not our remit” — the referral chain itself is a record.  
-- In harassment contexts, involve advocacy organisations with national/international reach.  
-
-### 4. Cross-Case Synchronisation  
-- Identify others experiencing similar gating and coordinate outreach to the same national body at the same time.  
-- Multiple regions hitting one office can disrupt loop logic.  
-
-### 5. Exploit Burst Windows  
-- Treat clustered responses as **open gate moments**.  
-- Push maximum volume of new information, escalation requests, and evidence while the gate is temporarily open.  
-
----
-
-## 🏷️ Tags  
-
-`#gated_intake` `#post_delay` `#regional_containment` `#isolation_mesh`  
+- `gated_intake`  
+- `post_delay`  
+- `regional_containment`  
+- `isolation_mesh`  
 
 ---
 
 ## 🏮 Footer  
 
-*Gated Intake, Post Delay, and Regional Loop Containment* is a living node of the Polaris Protocol.  
+*🛂 Gated Intake, Post Delay, and Regional Loop Containment* is a living node of the Polaris Protocol.  
 It documents how communication gating, artificial delays, and regional loops work together to suppress escalation and isolate survivors from support.  
 
 > 📡 Cross-references:  
 > - [🕳️ Curated Amnesia Has a Shape](../Big_Picture_Protocols/🕳️_curated_amnesia_has_a_shape.md) — erasure patterns in institutional records  
-> - [🗡 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_sabotage.md) — how metadata sabotage governs narratives  
+> - [🗡 Narrative Management and Metadata Storage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_storage.md) — how metadata storage governs narratives  
 > - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — breakdowns at intersections of identity and data  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2025-08-26_  
