@@ -98,7 +98,7 @@ It traces cultural vectors, gamified recruitment, moderation failures, and the a
 
 ## 👁️‍🗨️ Pipelines of Marginalised Dissent vs Radicalisation
 
-*Note that people who are subject to this content can flip between the pipeline of dissent and the pipeline of radicalisation, subject to microtargeting pressures via online platforms or targeted interference, or subject to their own stressors in daily life (often worsened by cost-of-living financial pressures, bereavements, household and earnings insecurity, new or changing health challenges, etc. Content exists in all types and is renewed continually, allowing minimal tailoring inputs to target users.*
+*Note that people who are subject to this content can flip between the pipeline of dissent and the pipeline of radicalisation, subject to microtargeting pressures via online platforms or targeted interference, or subject to their own stressors in daily life (often worsened by cost-of-living financial pressures, bereavements, household and earnings insecurity, new or changing health challenges, etc). Content exists in all types and is renewed continually, allowing minimal tailoring inputs to target users.*
 
 ```mermaid
 
