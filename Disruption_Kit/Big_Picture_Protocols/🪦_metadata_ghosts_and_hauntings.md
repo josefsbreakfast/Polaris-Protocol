@@ -4,7 +4,7 @@
 
 ---
 
-## 📍 Overview  
+## ✨ Overview  
 
 Some posts exhibit **disproportionate visibility patterns** — impressions rise without proportional engagement, growth curves resist natural decay, and the cause remains invisible.  
 
@@ -66,7 +66,7 @@ An old post suddenly re-enters light circulation after a subtle interaction, mai
 
 ---
 
-## 🔍 Shared Traits  
+## 👁️‍🗨️ Shared Traits  
 
 - **Invisible causality** → no public-facing action explains the movement  
 - **Disproportionate ratios** → reach far exceeds engagement  
@@ -83,7 +83,7 @@ An old post suddenly re-enters light circulation after a subtle interaction, mai
 
 ---
 
-## 📎 Forensic Evidence  
+## 🗺️ Forensic Evidence  
 
 - [📩 Ghost vs Haunting Chart (2025-08-12)](./📩_ghost_vs_haunting_chart_2025-08-12.csv) — classification table logged during live observation  
 
