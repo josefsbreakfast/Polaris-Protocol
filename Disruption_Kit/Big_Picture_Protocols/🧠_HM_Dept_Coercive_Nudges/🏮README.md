@@ -2,11 +2,11 @@
 
 *Polaris Protocol doctrine node — behavioural science repurposed as state containment.*  
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-27
 
 ---
 
-## 📌 Overview  
+## ✨ Overview  
 
 This node collects files documenting the use of **behavioural nudging** — the soft-power scripts of compliance.  
 
