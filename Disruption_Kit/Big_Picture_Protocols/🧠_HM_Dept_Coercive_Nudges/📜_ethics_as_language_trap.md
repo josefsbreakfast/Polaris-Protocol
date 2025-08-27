@@ -1,4 +1,4 @@
-# 📄 Ethics As Language Trap  
+# 📜 Ethics As Language Trap  
 
 *How bureaucratic actors weaponise ethical language to enforce compliance and mask inaction.*  
 
