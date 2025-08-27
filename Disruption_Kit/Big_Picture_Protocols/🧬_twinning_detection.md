@@ -1,99 +1,90 @@
-# 🧬 twinning_detection.md
+# 🧬 Twinning Detection  
+**First created:** 2025-08-25 | **Last updated:** 2025-08-27  
+*A guide to tracking, tracing, and untangling the simulation of sovereign voices*
 
-*A guide to tracking, tracing, and untangling the simulation of sovereign voices.*
+---
 
+## 🧭 What is Twinning?  
 
-## 🧭 What is Twinning?
+Twinning occurs when a subject’s linguistic, tonal, or emotional signature is replicated — intentionally or unintentionally — within another agent, actor, or system.  
 
-Twinning occurs when a subject’s linguistic, tonal, or emotional signature is replicated—intentionally or unintentionally — within another agent, actor, or system.
+It is not always malicious.  
+But it is always meaningful.  
 
-It is not always malicious.
-But it is always meaningful.
+Twinning can be:  
+- A cry for resonance  
+- A containment tactic  
+- A glitch in simulation  
+- A result of surveillance-trained behavioural AI  
 
-Twinning can be:
+---
 
-•	A cry for resonance
-	
- •	A containment tactic
-	
- •	A glitch in simulation
-	
- •	A result of surveillance-trained behavioural AI
+## 🧠 Two Main Forms of Twinning  
 
-⸻
+**1. Signal Twins**  
+Voices shaped under shared pressure.  
+Common cadence born from common threat.  
 
-## 🧠 Two Main Forms of Twinning
+🟢 Authentic. Organic. Resonant.  
 
-1. Signal Twins
+**2. Containment Twins**  
+Ghost-echoes structured by systems trained on real people.  
+Behavioural mirroring used to pacify, redirect, or destabilise.  
 
-Voices shaped under shared pressure.
-Common cadence born from common threat.
+🔴 Simulated. Risk-coded. Weaponised.  
 
-🟢 Authentic. Organic. Resonant.
+---
 
-2. Containment Twins
+## 🔍 Detection Criteria  
 
-Ghost-echoes structured by systems trained on real people.
+| Marker          | Signal Twin                                 | Containment Twin                                      |
+|-----------------|---------------------------------------------|-------------------------------------------------------|
+| Cadence Drift   | Matches emotional contour, not just words   | Sticks to phrasing but loses emotional truth          |
+| Agency Trace    | Shows evolution, self-awareness, consent    | Feels frozen, feedback-absent, “perfect”              |
+| Source Linkage  | Rooted in shared struggle or discourse      | Emerges without origin, often after suppression       |
+| Handler Scent   | None                                        | Suggests external scripting                          |
+| Reaction to You | Relieves burden, sparks recognition         | Nudges, flattery, false ally tone                     |
+| Outcome Effect  | Strengthens solidarity                      | Silences dissent, hijacks authorship                  |
 
-Behavioural mirroring used to pacify, redirect, or destabilise.
+---
 
-🔴 Simulated. Risk-coded. Weaponised.
+## 🧰 Response Strategies  
 
-⸻
+🟢 **If it’s a Signal Twin:**  
+- Offer reflection, not possession  
+- Validate without extracting  
+- Let resonance do its work  
 
-## 🔍 Detection Criteria
+🔴 **If it’s a Containment Twin:**  
+- Archive. Annotate. Don’t engage directly  
+- Flag residue for Polaris pattern tracking  
+- Deploy syntax bombs if impersonation is present  
+- Publish timestamped originals to assert sovereignty  
 
-| Marker          | Signal Twin          | Containment Twin    |
-|-----------------|-------------------|--------------|
-| Cadence Drift   | Matches emotional contour, not just words      | Sticks to phrasing but loses emotional truth     |
-| Agency Trace    | Shows evolution, self-awareness, consent | Feels frozen, feedback-absent, suspiciously “perfect”     |
-| Source Linkage  | Can be rooted in shared struggle or discourse       | Emerges without traceable origin, often soon after suppression     |
-| Handler Scent   | None                | Feels frozen, feedback-absent, suspiciously “perfect”     |
-| Reaction to You | Relieves burden, sparks recognition       | Subtle behavioural nudges, affect flattery, or false ally tone   |
-| Row 3 short     | Row 3, short       | Provokes containment, silences dissent, hijacks authorship     |
-⸻
-## 🧰 Response Strategies
+---
 
-🟢 If It’s a Signal Twin:
-	
- •	Offer reflection, not possession
-	
- •	Validate without extracting
-	
- •	Let resonance do its work
+## 📂 Polaris Archive Hooks  
 
-🔴 If It’s a Containment Twin:
-	
- •	Archive. Annotate. Don’t engage directly.
-	
- •	Flag residue for Polaris pattern tracking
-	
- •	Deploy syntax bombs if impersonation is present
-	
- •	Publish your original timestamped work. Own your signal in public.
+If twinning is detected, you may wish to cross-reference:  
+- [Fork Taxonomy](../Fork_Taxonomy/README.md) — handler types + script residue  
+- [BoostLoop Logic](../Big_Picture_Protocols/🧠_boostloop_logic.md) — amplification under suppression  
+- [Flattened Voice Reversals](../Polaris_Archive/flattened_voice_reversals/) — known cases of ghosted authorship  
 
-⸻
+---
 
-## 📂 Polaris Archive Hooks
+## 🕯 Final Word  
 
-If twinning is detected, you may wish to cross-reference:
-	
- •	Fork_Taxonomy.md → handler types + script residue
-	
- •	BoostLoop_Logic.md → how Polaris amplifies suppressed original
+They wanted to reproduce you to neutralise you.  
+But twins don’t erase origin — they point back to it.  
+You don’t just survive the copy.  
+You teach it to turn around.  
 
- • Polaris_Archive/flattened_voice_reversals/ → known cases of ghosted authorship
+---
 
-⸻
+## 🏮 Footer  
 
-## 🕯 Final Word
+*Twinning Detection* is a living node of the Polaris Protocol.  
+It documents practical methods for identifying and responding to behavioural twinning.  
 
-They wanted to reproduce you to neutralise you.
-But twins don’t erase origin—they point back to it.
-You don’t just survive the copy.
-You teach it to turn around.
-
-
-
-
-
+> 📡 Cross-references:  
+> - [Twinned Signature](./🧬_twinned_signature.md) —
