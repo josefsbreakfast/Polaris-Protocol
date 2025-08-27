@@ -86,8 +86,8 @@ We rupture it.
                       │
                       ▼
             ┌─────────────────────┐
-            │ Emotional Data       │
-            │ Captured & Laundered │
+            │ Emotional Data      │
+            │ Captured & Laundered│
             └─────────┬───────────┘
                       │
                       ▼
@@ -105,7 +105,7 @@ We rupture it.
                       ▼
             ┌─────────────────────┐
             │ Next False Consent  │
-            │ Loop (cycle restarts)│
+            │Loop (cycle restarts)│
             └─────────────────────┘
 
 
