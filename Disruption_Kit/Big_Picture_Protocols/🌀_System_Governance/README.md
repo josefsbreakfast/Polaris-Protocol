@@ -145,3 +145,4 @@ flowchart TD
       - [📁 🌀 System_Governance](/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance)  
         *Current node: focused on how governance structures manage, distort, and sabotage perception and agency.*  
 
+*Polaris never forgets.*
