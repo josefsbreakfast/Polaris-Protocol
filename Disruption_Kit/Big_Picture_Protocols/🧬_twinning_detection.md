@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 What is Twinning?  
+## ✨ What is Twinning?  
 
 Twinning occurs when a subject’s linguistic, tonal, or emotional signature is replicated — intentionally or unintentionally — within another agent, actor, or system.  
 
@@ -72,7 +72,7 @@ If twinning is detected, you may wish to cross-reference:
 
 ---
 
-## 🕯 Final Word  
+## 🕯️ Final Word  
 
 They wanted to reproduce you to neutralise you.  
 But twins don’t erase origin — they point back to it.  
@@ -87,4 +87,9 @@ You teach it to turn around.
 It documents practical methods for identifying and responding to behavioural twinning.  
 
 > 📡 Cross-references:  
-> - [Twinned Signature](./🧬_twinned_signature.md) —
+> - [Twinned Signature](./🧬_twinned_signature.md) — doubled authorship doctrine  
+> - [Psychographic Modelling and Twinning](../Big_Picture_Protocols/🧬_psychographic_modelling_and_twinning.md) — systemic context  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-27_
