@@ -39,7 +39,7 @@ The more data the system holds, the more it binds itself:
 
 ---
 
-## 🧩 Polaris Reframe  
+## 🔮 Polaris Reframe  
 
 - Data possession ≠ narrative control  
 - Survivors who *speak directly* reclaim authorship of what the logs will mean  
