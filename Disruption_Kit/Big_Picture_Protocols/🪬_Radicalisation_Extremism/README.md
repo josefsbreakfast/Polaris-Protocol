@@ -1,6 +1,6 @@
 # 🪬 Radicalisation & Extremism  
 **First created:** 2025-08-27 | **Last updated:** 2025-08-27  
-*Doctrines on far-right pipelines, state complicity, and diaspora radicalisation*  
+*Doctrines on far-right pipelines, state complicity, and diaspora radicalisation.*  
 
 ---
 
@@ -12,7 +12,7 @@ The focus is on asymmetry: far-right radicalisation is accelerated, while surviv
 
 ---
 
-## 📌 Core Themes  
+## 🦚 Core Themes  
 
 - **Pipeline Dynamics** → platform loops, gaming culture, and meme-based recruitment.  
 - **Diaspora Radicalisation** → intersections of Christian Zionism, diaspora politics, and securitisation.  
@@ -21,17 +21,38 @@ The focus is on asymmetry: far-right radicalisation is accelerated, while surviv
 
 ---
 
-## 📂 Current Files  
+# 📂 Politics_and_Memory
 
-- 🧠_far_right_feeders_flipbook.md  
-- 🧠_radicalisation_pipelines_and_platform_culture.md  
-- 🪬_from_christian_zionism_to_diaspora_radicalisation.md  
-- 🟥_right_wing_coup_diagnostic_checklist.md  
-- ☕🫖_uk_gov_national_security_risk.md  
+
+- [🧠 Far Right Feeders Flipbook](🧠_far_right_feeders_flipbook.md)
+
+  *A visual and narrative record of how extremist ideas are packaged and spread.*
+
+- [📡 Radicalisation Pipelines and Platform Culture](🧠_radicalisation_pipelines_and_platform_culture.md)
+
+  *Mapping online ecosystems that funnel users into extremist beliefs.*
+  
+- [🪬 From Christian Zionism to Diaspora Radicalisation](🪬_from_christian_zionism_to_diaspora_radicalisation.md)
+
+*Tracing ideological bridges between religious nationalism and diaspora politics.*
+
+- [🟥 Right Wing Coup Diagnostic Checklist](🟥_right_wing_coup_diagnostic_checklist.md)
+
+*Indicators and forensic markers of creeping authoritarian takeovers.*
+
+- [☕🫖 UK Gov National Security Risk](☕🫖_uk_gov_national_security_risk.md)
+
+*On the state’s own role as a generator of instability and strategic exposure.*
 
 ---
 
-## 🔍 Visual Framing  
+## 🗺️ You Are Here
+
+[📁 Polaris-Protocol](/) → [📁 Disruption_Kit](/Disruption_Kit) → [📁 Big_Picture_Protocols](/Disruption_Kit/Big_Picture_Protocols) → [📁 🪬_Radicalisation_Extremism](/Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
+
+---
+
+## 🔮 Visual Framing  
 
 ```mermaid
 flowchart TD
@@ -79,4 +100,6 @@ It documents how extremist networks are seeded and maintained, and how “securi
 > - [🧾 Data Is Their Cage Too](../Big_Picture_Protocols/🧾_data_is_their_cage_too.md) — data control as carceral logic  
 > - [🧵 Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md) — signals of early-stage radicalisation  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Boxing humans into little chat robots is not normal behaviour. 
+Humans must breathe, and they must live. 
+Give them the tools to survive and grow.*  
