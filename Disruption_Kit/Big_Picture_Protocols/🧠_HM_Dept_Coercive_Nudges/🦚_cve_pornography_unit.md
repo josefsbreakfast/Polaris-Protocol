@@ -1,11 +1,11 @@
 # 🦚 CVE Pornography Unit  
-**First created:** 2025-08-04 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-04 | **Last updated:** 2025-08-27
 
 *Polaris Protocol doctrine node — when sexual violence is re-enacted through metadata pipelines, AI nudging, and coercive device seizure.*  
 
 ---
 
-## 📌 Overview  
+## ✨ Overview  
 
 The **CVE Pornography Unit** collects analysis of how sexual violence survivors are re-violated through state processes.  
 
@@ -161,5 +161,5 @@ This node documents the **CVE Pornography Unit**: where sexual violation becomes
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-08-27_  
 
