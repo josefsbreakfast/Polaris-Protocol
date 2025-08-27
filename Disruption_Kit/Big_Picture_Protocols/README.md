@@ -42,6 +42,6 @@ Tracks pipelines, digital platforms, and diaspora dynamics in radicalisation.
 
 ---
 
-*The survivors voice always rings true.*
+*The survivors' voices haunt the living.*
 
 _Last updated 2025-08-28_
