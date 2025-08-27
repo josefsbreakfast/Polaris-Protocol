@@ -22,19 +22,34 @@ It documents how trauma and survival are commodified, how surveillance capitalis
 
 # 📂 Politics_and_Memory
 
-- [🧠 Fisher Fork Theory](🧠_fisher_fork_theory.md) — *Mark Fisher’s ideas re-framed through fork/ghost containment.*
-- [📡 Fisher Surveillance Addendum](📡_fisher_surveillance_addendum.md) — *Notes on surveillance, metadata, and Fisher’s lens.*
-- [🧠 AI Harms Are Not New](🧠_ai_harms_are_not_new.md) — *A reminder that technological harms follow long-standing patterns.*
-- [🧠 The Science That Survives Borders](🧠_the_science_that_survives_borders.md) — *How knowledge persists despite political and institutional boundaries.*
-- [🧠 Leveraged Bad Luck](🧠_leveraged_bad_luck.md) — *On exploitation of survivor misfortune as systemic leverage.*
-- [🧠 Bargain Bin Mossad](🧠_bargain_bin_mossad.md) — *Satirical take on low-rent intelligence mimicry.*
-- [🧠 Le Carré Meets Alice in Wonderland](🧠_le_carré_meets_alice_in_wonderland.md) — *Cold-war intrigue colliding with absurdist containment logic.*
-- [💌 Letter by Letter Erasure Protocol](💌_letter_by_letter_erasure_protocol.md) — *On linguistic silencing and incremental deletion of testimony.*
+- [🧠 Fisher Fork Theory](🧠_fisher_fork_theory.md)
+  *Mark Fisher’s ideas re-framed through fork/ghost containment.*
+- [📡 Fisher Surveillance Addendum](📡_fisher_surveillance_addendum.md)
+  *Notes on surveillance, metadata, and Fisher’s lens.*
+- [🧠 AI Harms Are Not New](🧠_ai_harms_are_not_new.md)
+  *A reminder that technological harms follow long-standing patterns.*
+- [🧠 The Science That Survives Borders](🧠_the_science_that_survives_borders.md)
+  *How knowledge persists despite political and institutional boundaries.*
+- [🧠 Leveraged Bad Luck](🧠_leveraged_bad_luck.md)
+  *On exploitation of survivor misfortune as systemic leverage.*
+- [🧠 Bargain Bin Mossad](🧠_bargain_bin_mossad.md)
+  *Satirical take on low-rent intelligence mimicry.*
+- [🧠 Le Carré Meets Alice in Wonderland](🧠_le_carré_meets_alice_in_wonderland.md)
+  *Cold-war intrigue colliding with absurdist containment logic.*
+- [💌 Letter by Letter Erasure Protocol](💌_letter_by_letter_erasure_protocol.md)
+  *On linguistic silencing and incremental deletion of testimony.*
+- [🧾 Data Is Their Cage Too](🧾_data_is_their_cage_too.md)
+  *Notes on institutional actors trapped by the same metadata prisons they build.*
+- [🪦 Metadata Ghosts and Hauntings](🪦_metadata_ghosts_and_hauntings.md)
+  *Forensic record of data traces and spectral containment.*
+- [🐦‍🔥 The Signature Trap](🐦‍🔥_the_signature_trap.md)
+  *How signatures, authorship, and metadata become bait for containment.*
+- [🫀 Holding a Weapon You Don’t Understand](🫀_holding_a_weapon_you_don’t_understand.md)
+  *On wielding tools of power without grasping their costs.*
+---
+## 🗺️ You Are Here
 
-- [🧾 Data Is Their Cage Too](🧾_data_is_their_cage_too.md) — *Notes on institutional actors trapped by the same metadata prisons they build.*
-- [🪦 Metadata Ghosts and Hauntings](🪦_metadata_ghosts_and_hauntings.md) — *Forensic record of data traces and spectral containment.*
-- [🐦‍🔥 The Signature Trap](🐦‍🔥_the_signature_trap.md) — *How signatures, authorship, and metadata become bait for containment.*
-- [🫀 Holding a Weapon You Don’t Understand](🫀_holding_a_weapon_you_don’t_understand.md) — *On wielding tools of power without grasping their costs.*
+[📁 Polaris-Protocol](/) → [📁 Disruption_Kit](/Disruption_Kit) → [📁 Big_Picture_Protocols](/Disruption_Kit/Big_Picture_Protocols) → [📁 🗝️_Politics_Memory_Work](/Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work)  
 
 ---
 
