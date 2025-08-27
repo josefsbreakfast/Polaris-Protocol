@@ -2,11 +2,11 @@
 
 *Why authoritarian personalities obsess over Latin.*  
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-27  
 
 ---
 
-## 📌 Core Analysis  
+## ✨ Core Analysis  
 
 - Latin gives the illusion of timelessness and authority.  
 - Abstracts violence into noble-sounding phrases (*“Civis non gratus”* = “We deported her”).  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧩 Patterns  
+## 📿 Patterns  
 
 - Used to sanctify oppressive policy (*Acta non verba*, *Ordinem custodire*).  
 - Common in legalese, mottoes, and creepy governance aesthetics.  
