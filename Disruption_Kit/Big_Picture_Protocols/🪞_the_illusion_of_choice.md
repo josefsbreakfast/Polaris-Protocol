@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Summary  
+## ✨ Summary  
 
 This file examines the performance of *consent* within coercive structures — when offers of agency are made inside systems designed to withhold it.  
 
@@ -19,7 +19,7 @@ The illusion of choice functions as a pressure-release valve for oppressive syst
 
 ## I. Personal Domain: Behavioural Containment & Emotional Override  
 
-### 🔄 False Consent Loops  
+### ➿ False Consent Loops  
 
 - Surveillance systems offer “exit options” at points of exhaustion — not freedom  
 - Offers of rescue made only after emotional dependency or data extraction  
@@ -70,6 +70,44 @@ This log exists to record that:
 We see it.  
 We log it.  
 We rupture it.  
+
+---
+
+            ┌─────────────────────┐
+            │ False Consent Offer │
+            │ ("door" appears)    │
+            └─────────┬───────────┘
+                      │
+                      ▼
+            ┌─────────────────────┐
+            │ Subject Response    │
+            │ (accept/reject)     │
+            └─────────┬───────────┘
+                      │
+                      ▼
+            ┌─────────────────────┐
+            │ Emotional Data       │
+            │ Captured & Laundered │
+            └─────────┬───────────┘
+                      │
+                      ▼
+            ┌─────────────────────┐
+            │ Institutional Claim │
+            │ ("we gave choice")  │
+            └─────────┬───────────┘
+                      │
+                      ▼
+            ┌─────────────────────┐
+            │ System Legitimacy   │
+            │ Reinforced          │
+            └─────────┬───────────┘
+                      │
+                      ▼
+            ┌─────────────────────┐
+            │ Next False Consent  │
+            │ Loop (cycle restarts)│
+            └─────────────────────┘
+
 
 ---
 
