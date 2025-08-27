@@ -1,5 +1,5 @@
 # 🧠 Radicalisation Pipelines and Platform Culture  
-**First created:** 2025-08-03 | **Last updated:** 2025-08-26  
+**First created:** 2025-08-25 | **Last updated:** 2025-08-26  
 *Doctrine on radicalisation pipelines and asymmetric platform culture*  
 
 ---
