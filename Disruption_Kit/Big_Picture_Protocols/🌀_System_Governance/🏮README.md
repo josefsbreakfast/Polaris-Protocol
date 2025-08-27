@@ -19,7 +19,7 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 ## 📂 Current Files
 
 - [🧠 Targeting Logic Empathy Is a Threat](🧠_targeting_logic_empathy_is_a_threat.md)  
-  - [🧠 The Frankenstack Problem](🧠_the_frankenstack_problem.md)  
+  - [🧟‍♀️ The Frankenstack Problem](🧟‍♀️_the_frankenstack_problem.md)  
   - [🧠 Value of the Outlier](🧠_value_of_the_outlier.md)  
   - [🧠 The Dev](🧠_the_dev.md)  
   - [⚖️ Containment Contract Trace](⚖️_containment_contract_trace.md)  
