@@ -56,6 +56,11 @@ It exposes commodification of trauma, misuse of diagnostic categories, and the w
 - [🎻 Clash of Forks](🎻_clash_of_forks.md)  
   *When multiple forks collide — and the fractures that follow.*  
 
+---
+
+## 🗺️ You Are Here
+
+[📁 Polaris-Protocol](/) → [📁 Disruption_Kit](/Disruption_Kit) → [📁 Big_Picture_Protocols](/Disruption_Kit/Big_Picture_Protocols) → [📁 🐦‍🔥 Trauma,_Psychology_&_Medical_Misuse](/Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma,_Psychology_&_Medical_Misuse)  
 
 ---
 
