@@ -12,7 +12,7 @@ It exposes commodification of trauma, misuse of diagnostic categories, and the w
 
 ---
 
-## 📌 Core Themes  
+## 🦚 Core Themes  
 
 - **Medical Misuse** → perversion of clinical ethics and weaponisation of psychiatric labels.  
 - **Trauma Commodification** → survivor pain repackaged as research, data, or institutional capital.  
