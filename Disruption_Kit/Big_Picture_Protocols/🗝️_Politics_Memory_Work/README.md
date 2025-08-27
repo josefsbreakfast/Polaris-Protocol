@@ -1,1 +1,1 @@
-hold
+📜 Political Economy & Memory Work 🧠_fisher_fork_theory.md 📡_fisher_surveillance_addendum.md 🧠_ai_harms_are_not_new.md 🧠_the_science_that_survives_borders.md 🧠_leveraged_bad_luck.md 🧠_bargain_bin_mossad.md 🧠_le_carré_meets_alice_in_wonderland.md 💌_letter_by_letter_erasure_protocol.md 🧾_data_is_their_cage_too.md 🪦_metadata_ghosts_and_hauntings.md 🐦‍🔥_the_signature_trap.md 🫀_holding_a_weapon_you_don’t_understand.md 💀_necro_jargon_cult.md (if you want to keep the “jargon cult” pieces here too)
