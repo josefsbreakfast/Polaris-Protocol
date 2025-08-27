@@ -6,7 +6,7 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 
 ---
 
-## 📌 Core Themes  
+## ✨ Core Themes  
 - **Containment Logic** → how empathy, delay, or translation are weaponised as governance tools.  
 - **Infrastructure** → surveillance, intake gates, contract traces, and technical choke points.  
 - **Narrative Management** → amnesia design, perception gaps, and clone-friendly architectures.  
@@ -14,49 +14,52 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 
 ---
 
-## 📂 Current Files  
-- 🧠_targeting_logic_empathy_is_a_threat.md  
-- 🧠_the_frankenstack_problem.md  
-- 🧠_value_of_the_outlier.md  
-- 🧠_the_dev.md  
-- ⚖️_containment_contract_trace.md  
-- 🛂_gated_intake_post_delay_regional_loop.md  
-- 🛬_translation_null_zone.md  
-- 🛰️_surveillance_infrastructure.md  
-- 👀_public_perception_gap.md  
-- 🗡_narrative_management_and_metadata_storage.md  
-- 🗝_who_holds_the_tape.md  
-- 🕸️_clone_friendly_architecture.md  
-- 🕳️_curated_amnesia_has_a_shape.md  
-- 🪞_the_illusion_of_choice.md  
+## 📂 Current Files
+
+- [🧠_targeting_logic_empathy_is_a_threat.md](🧠_targeting_logic_empathy_is_a_threat.md)  
+  - [🧠_the_frankenstack_problem.md](🧠_the_frankenstack_problem.md)  
+  - [🧠_value_of_the_outlier.md](🧠_value_of_the_outlier.md)  
+  - [🧠_the_dev.md](🧠_the_dev.md)  
+  - [⚖️_containment_contract_trace.md](⚖️_containment_contract_trace.md)  
+  - [🛂_gated_intake_post_delay_regional_loop.md](🛂_gated_intake_post_delay_regional_loop.md)  
+  - [🛬_translation_null_zone.md](🛬_translation_null_zone.md)  
+  - [🛰️_surveillance_infrastructure.md](🛰️_surveillance_infrastructure.md)  
+  - [👀_public_perception_gap.md](👀_public_perception_gap.md)  
+  - [🗡_narrative_management_and_metadata_storage.md](🗡_narrative_management_and_metadata_storage.md)  
+  - [🗝_who_holds_the_tape.md](🗝_who_holds_the_tape.md)  
+  - [🕸️_clone_friendly_architecture.md](🕸️_clone_friendly_architecture.md)  
+  - [🕳️_curated_amnesia_has_a_shape.md](🕳️_curated_amnesia_has_a_shape.md)  
+  - [🪞_the_illusion_of_choice.md](🪞_the_illusion_of_choice.md)  
 
 ---
 
 ## 🔍 Visual Framing  
 
 ```mermaid
+
 flowchart TD
   %% Polaris — System & Governance framing
 
   subgraph IN[Inputs]
     P[Public discourse & media]:::soft
     L[Law/Policy & budgets]:::bureaucratic
-    D[Data exhaust<br/>(platforms, devices, vendors)]:::cve
+    D[Data exhaust - 
+ platforms, devices, vendors]:::cve
     W[Witness & survivor testimony]:::safeguarding
   end
 
   subgraph GOV[Governance Mechanisms]
-    E[Empathy as throttle<br/>(Targeting logic)]:::soft
+    E[Empathy as throttle - Targeting logic]:::soft
     G[Gated intake & delay loops]:::bureaucratic
     T[Translation null zone]:::soft
     C[Contract trace & procurement levers]:::bureaucratic
-    N[Narrative management<br/>(curated amnesia, perception gap)]:::jargon
-    S[Surveillance infrastructure<br/>(stacks, vendors)]:::cve
+    N[Narrative management - curated amnesia, perception gap]:::jargon
+    S[Surveillance infrastructure - stacks, vendors]:::cve
     A[Clone-friendly architecture]:::cve
   end
 
   subgraph OUT[Outputs]
-    O1[Containment outcomes<br/>(chilling, self-censor, attrition)]:::ethics
+    O1[Containment outcomes - chilling, self-censor, attrition]:::ethics
     O2[Structured choice illusion]:::ethics
     O3[Twinning / identity drift]:::cve
     O4[Public perception gap]:::jargon
@@ -88,6 +91,7 @@ flowchart TD
   classDef ethics fill:#e5d2fb,stroke:#7d2ae8,stroke-width:1px;
   classDef safeguarding fill:#d2fbdc,stroke:#2ae86a,stroke-width:1px;
   classDef cve fill:#fbeed2,stroke:#e88a2a,stroke-width:1px;
+
 ```
 
 ---
