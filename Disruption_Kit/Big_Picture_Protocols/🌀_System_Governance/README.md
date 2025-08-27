@@ -19,23 +19,56 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 ## 📂 Current Files
 
 - [🧠 Targeting Logic Empathy Is a Threat](🧠_targeting_logic_empathy_is_a_threat.md)  
+  *How empathy is re-framed as a vulnerability in governance logic.*  
+
   - [🧟‍♀️ The Frankenstack Problem](🧟‍♀️_the_frankenstack_problem.md)  
+    *Patchwork systems stitched together into unstable governance stacks.*  
+
   - [🧠 Value of the Outlier](🧠_value_of_the_outlier.md)  
+    *When deviation becomes the signal — and why systems fear it.*  
+
   - [🧠 The Dev](🧠_the_dev.md)  
+    *Core development log and experimental design space.*  
+    - [🌀 Rune the Dev (image)](🌀_rune_the_dev.png)  
+      *Symbolic artifact attached to the Dev node.*  
+
   - [⚖️ Containment Contract Trace](⚖️_containment_contract_trace.md)  
+    *Following the paper trail of control and contractual capture.*  
+
   - [🛂 Gated Intake Post Delay Regional Loop](🛂_gated_intake_post_delay_regional_loop.md)  
+    *Regional throttling, delayed response, and bureaucratic choke points.*  
+
   - [🛬 Translation Null Zone](🛬_translation_null_zone.md)  
+    *Where meaning collapses between systems and actors.*  
+
   - [🛰️ Surveillance Infrastructure](🛰️_surveillance_infrastructure.md)  
+    *The quiet backbone enabling constant watch and control.*  
+
   - [👀 Public Perception Gap](👀_public_perception_gap.md)  
-  - [🗡 Narrative Management and Metadata Storage](🗡_narrative_management_and_metadata_storage.md)  
+    *The space between what people see and what is actually happening.*  
+
+  - [📚 Narrative Management and Metadata Sabotage](📚_narrative_management_and_metadata_sabotage.md)  
+    *How stories are bent and metadata weaponised to erase truth.*  
+
   - [🗝 Who Holds the Tape](🗝_who_holds_the_tape.md)  
-  - [🕸️ Clone Friendly Architecture](🕸️_clone_friendly_architecture.md)  
-  - [🕳️ Curated Amnesia Has a Shape](🕳️_curated_amnesia_has_a_shape.md)  
-  - [🪞 The Illusion of Choice](🪞_the_illusion_of_choice.md)  
+    *Control of archives as control of history — and of survivors.*  
+
+  - [❄️ Clone Friendly Architecture](❄️_clone_friendly_architecture.md)
+     *System designs that encourage replication and mimicry of the self.*  
+  - [🕳️ Curated Amnesia Has a Shape](🕳️_curated_amnesia_has_a_shape.md)
+     *Forgetting is structured, not random — and someone curates it.*  
+ - [🪞 The Illusion of Choice](🪞_the_illusion_of_choice.md)  
+   *When options multiply, but freedom quietly disappears.*
 
 ---
 
-## 🔍 Visual Framing  
+## 🗺️ You Are Here
+
+[📁 Polaris-Protocol](/) → [📁 Disruption_Kit](/Disruption_Kit) → [📁 Big_Picture_Protocols](/Disruption_Kit/Big_Picture_Protocols) → [📁 🌀 System_Governance](/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance)  
+   
+---
+
+## 🔮 Visual Framing  
 
 ```mermaid
 
@@ -98,5 +131,17 @@ flowchart TD
 
 ---
 
-*This folder is part of the wider `Big_Picture_Protocols/` canon.  
-It should be read alongside trauma/clinical, radicalisation, and political economy sub-clusters for a full map of systemic behaviour.*  
+## 🏮 Folder Context
+
+- [📁 Polaris-Protocol](/)  
+  *Root archive of the Polaris Protocol — survivor-led documentation, disruption kit, and narrative counter-infrastructure.*  
+
+  - [📁 Disruption_Kit](/Disruption_Kit)  
+    *Tools, logs, and countermeasures for resisting visibility suppression and behavioural containment.*  
+
+    - [📁 Big_Picture_Protocols](/Disruption_Kit/Big_Picture_Protocols)  
+      *Macro-level analyses and frameworks exposing system-wide governance logic and suppression tactics.*  
+
+      - [📁 🌀 System_Governance](/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance)  
+        *Current node: focused on how governance structures manage, distort, and sabotage perception and agency.*  
+
