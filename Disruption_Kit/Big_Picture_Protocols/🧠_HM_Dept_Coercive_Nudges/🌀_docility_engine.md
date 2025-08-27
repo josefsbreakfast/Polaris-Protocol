@@ -1,6 +1,6 @@
 # 🌀 Docility Engine  
 
-**First created:** 2025-08-04 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-04 | **Last updated:** 2025-08-27
 
 > *“Compliance isn’t forced — it’s engineered. The trick is making you run the loop yourself.”*  
 
@@ -141,4 +141,4 @@ This file documents the **Docility Engine** — a behavioural machinery of loops
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-08-27_  
