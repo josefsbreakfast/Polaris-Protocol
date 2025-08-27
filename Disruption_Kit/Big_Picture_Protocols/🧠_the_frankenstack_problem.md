@@ -4,7 +4,7 @@
 
 ---
 
-## 🧩 Definition: The Frankenstack Problem  
+## 🧟‍♀️ Definition: The Frankenstack Problem  
 A **Frankenstack** = a stitched-together system of mismatched forks from different academic departments, contractors, and policy agendas.  
 
 - Each component may be defensible in isolation  
@@ -25,7 +25,7 @@ Prevent became the policy *glue* that allowed forks to migrate across domains.
 
 ---
 
-## 👁 Child Sexual Exploitation (CSE) Scandals & Safeguarding Science  
+## 👁️‍🗨️ Child Sexual Exploitation (CSE) Scandals & Safeguarding Science  
 - Post-CSE scandals, major funding poured into “safeguarding science”  
 - Behavioural surveillance tools tested under the guise of protecting children  
 - Survivors re-exploited: lived trauma became **training data** for forked models  
