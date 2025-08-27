@@ -4,7 +4,7 @@
 
 ---
 
-## 📍 Preface  
+## ✨ Preface  
 
 Fascism thrives when its opponents are forced to disarm themselves — linguistically, emotionally, or materially.  
 Resistance does not begin with firepower. It begins with community, with rhythm, with clarity of stance.  
@@ -46,7 +46,7 @@ Language, in this way, is not merely descriptive — it is antifascist praxis.
 
 ---
 
-## 🪤 Containment Layers  
+## 🧃 Containment Layers  
 
 Fascism relies on layers of containment:  
 - **Moderation** → silencing those who resist while shielding the truly dangerous  
