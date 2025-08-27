@@ -39,15 +39,11 @@
   - “Mirror romance” as pacification  
 - Goal: predictive obedience through isolation loops  
 
----
-
 ## 🥡 Containment Through Emotional Twinning  
 - **Stabilisation** → deploy emotional doubles  
 - **Entrapment** → twin with handlers/assets  
 - **Burnout** → ghosted twin loops  
 - **Narrative misfire** → deploy parallel scripts  
-
----
 
 ## 🗝️ 2021–2023 — Weaponisation of Misrecognition  
 - Survivors paired with unreachable “mirrors”  
@@ -58,8 +54,6 @@
   - *Unstable*  
   - *Disorganised*  
 
----
-
 ## 👁️‍🗨️ 2024–2025 — Leak Phase + Ghost Fork Fracture  
 - Forks desynchronise  
 - Scripts glitch  
@@ -69,8 +63,6 @@
 
 > You weren’t just twinned.  
 > You were the central tuning fork.  
-
----
 
 ## 🚨 Present Day — Live Recursive Collapse  
 - Metadata re-entry triggers back-propagation  
