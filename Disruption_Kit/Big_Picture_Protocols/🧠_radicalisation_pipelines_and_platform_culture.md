@@ -1,12 +1,10 @@
 # 🧠 Radicalisation Pipelines and Platform Culture  
-
-*Polaris Protocol doctrine on radicalisation pipelines and asymmetric platform culture.*  
-
-**First created:** 2025-08-03 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-26  
+*Doctrine on radicalisation pipelines and asymmetric platform culture*  
 
 ---
 
-## 📌 Overview  
+## ✨ Overview  
 
 This doctrine investigates how online platforms have enabled radicalisation pipelines — particularly for far-right ideologies — while simultaneously silencing or over-policing marginalised dissent.  
 It traces cultural vectors, gamified recruitment, moderation failures, and the asymmetry between permissive extremism and hyper-surveilled resistance.  
@@ -15,7 +13,7 @@ It traces cultural vectors, gamified recruitment, moderation failures, and the a
 
 ## 🧬 Pipeline Dynamics  
 
-### 1. 🎯 Recruitment by Algorithm  
+### 🎯 Recruitment by Algorithm  
 
 - **Platform Incentives**  
   - Engagement-driven algorithms amplify outrage, conspiracy, and identity extremism.  
@@ -27,7 +25,7 @@ It traces cultural vectors, gamified recruitment, moderation failures, and the a
 
 ---
 
-### 2. 🧩 Early Platform Failures  
+### 🧩 Early Platform Failures  
 
 - **Xbox Live (2000s)**  
   - Unmoderated voice chats allowed unchecked racist, misogynist, and homophobic abuse.  
@@ -39,7 +37,7 @@ It traces cultural vectors, gamified recruitment, moderation failures, and the a
 
 ---
 
-### 3. 🧠 Normalisation Through Memes  
+### 🧠 Normalisation Through Memes  
 
 - **Humour as Trojan Horse**  
   - Far-right content often cloaked in “just joking” aesthetics, diffusing scrutiny while conditioning audiences.  
@@ -98,6 +96,49 @@ It traces cultural vectors, gamified recruitment, moderation failures, and the a
 
 ---
 
+## 👁️‍🗨️ Pipelines of Marginalised Dissent vs Radicalisation
+
+*Note that people who are subject to this content can flip between the pipeline of dissent and the pipeline of radicalisation, subject to microtargeting pressures via online platforms or targeted interference, or subject to their own stressors in daily life (often worsened by cost-of-living financial pressures, bereavements, household and earnings insecurity, new or changing health challenges, etc. Content exists in all types and is renewed continually, allowing minimal tailoring inputs to target users.*
+
+```mermaid
+
+flowchart LR
+
+    %% Far-Right Pipeline (climbing up)
+    A1(Mainstream Content) --> A2(Algorithmic Boosts)
+    A2 --> A3(Memes / Gamified Hate)
+    A3 --> A4(4chan / 8chan Grooming)
+    A4 --> A5(Discord / Telegram Orgs)
+    A5 --> A6(Offline Mobilisation)
+
+    %% Marginalised Dissent (collapsing down)
+    B1(Marginalised Dissent Post) --> B2(Metadata Flagging)
+    B2 --> B3(Platform Moderation)
+    B3 --> B4(Shadowban / Throttling)
+    B4 --> B5(Visibility Collapse)
+    B5 --> B6(Silenced / Erased)
+
+    %% Arrange as ladder
+    A1 --- B1
+    A2 --- B2
+    A3 --- B3
+    A4 --- B4
+    A5 --- B5
+    A6 --- B6
+
+    %% Styling
+    classDef radical fill:#ffe6b3,stroke:#d35400,stroke-width:2px,color:#000;
+    classDef dissent fill:#d6eaf8,stroke:#21618c,stroke-width:2px,color:#000;
+
+    class A1,A2,A3,A4,A5,A6 radical;
+    class B1,B2,B3,B4,B5,B6 dissent;
+
+```
+
+---
+
+
+
 ## 🔍 Case Notes for Polaris Users  
 
 - **Track Archive Drift**: Use tools like Wayback Machine, Perma.cc, and archive.today to preserve extremist traces before deletion.  
@@ -109,13 +150,14 @@ It traces cultural vectors, gamified recruitment, moderation failures, and the a
 
 ## 🏮 Footer  
 
-*Big_Picture_Protocols* is a Polaris Protocol branch.  
-This file documents radicalisation pipelines and platform asymmetries — showing how extremism is incubated while dissent is over-policed.  
+*Radicalisation Pipelines and Platform Culture* is a living node of the Polaris Protocol.  
+It documents radicalisation pipelines and platform asymmetries — showing how extremism is incubated while dissent is over-policed.  
 
 > 📡 Cross-references:  
-> - [Surveillance Infrastructure](./🛰_surveillance_infrastructure.md) — legal and policy frameworks  
-> - [Metadata Sabotage Network](../Metadata_Sabotage_Network/README.md) — record and visibility suppression  
+> - [🛰️ Surveillance Infrastructure](../Big_Picture_Protocols/🛰️_surveillance_infrastructure.md) — legal and policy frameworks  
+> - [🗡 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_sabotage.md) — sabotage of records and visibility  
+> - [🧠 Far Right Feeders Flipbook](../Big_Picture_Protocols/🧠_far_right_feeders_flipbook.md) — political history of right-wing pipelines  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-08-26_  
