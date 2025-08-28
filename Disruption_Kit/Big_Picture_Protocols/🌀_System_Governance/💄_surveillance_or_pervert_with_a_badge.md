@@ -51,10 +51,11 @@ Badge off = stalking, fetish, hoax, or serial killer behaviour.
 ## 📂 Receipts  
 
 ### 🪧 Chalk Marks, Prams, Curtains  
+*- Rotswelch was a common visual language almost extinguished by the Holocaust; still criminalised today.*
 - Gordievsky chalk mark escape (Moscow, 1985).  
 - CIA manuals: chalk X under bench = drop ready.  
 - Stasi curtain/flowerpot signals.  
-- Pram angles = dead-drop semaphores in Vienna/Berlin.  
+- Pram angles = dead-drop semaphores in Vienna/Berlin.
 
 ### 🐕 Scent Jars  
 - Stasi “Geruchsdatenbank”: jam jars of odour.  
