@@ -65,7 +65,7 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
  - [🪞 The Illusion of Choice](🪞_the_illusion_of_choice.md)  
    *When options multiply, but freedom quietly disappears.*
 
-- [💄 surveillance_or_pervert_with_a_badge.md](💄_surveillance_or_pervert_with_a_badge.md)
+- [💄 Let's Play!: Surveillance or Pervert-with-a-Badge?](💄_surveillance_or_pervert_with_a_badge.md)
     *A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is.*
 
 
