@@ -51,22 +51,24 @@ Badge off = stalking, fetish, hoax, or serial killer behaviour.
 ## 📂 Receipts  
 
 ### 🪧 Chalk Marks, Prams, Curtains  
-*- Rotswelch was a common visual language almost extinguished by the Holocaust; still criminalised today.*
+- *Rotswelch was a common visual language almost extinguished by the Holocaust; still criminalised today.*
 - Gordievsky chalk mark escape (Moscow, 1985).  
 - CIA manuals: chalk X under bench = drop ready.  
 - Stasi curtain/flowerpot signals.  
 - Pram angles = dead-drop semaphores in Vienna/Berlin.
+- *Graffiti was historically common in England; policed part of the Jacobian Rebellion.*
 
 ### 🐕 Scent Jars  
-- Stasi “Geruchsdatenbank”: jam jars of odour.  
-- Survived in BStU archives.  
-- Modern echo: Japan’s knicker-sniffer ninja arrests.  
+- **Stasi “Geruchsdatenbank”:** cloths pressed onto chairs, stored in sealed jars, archived like evidence.  
+- Survived in BStU archives; documented in *Das Archiv* (1991).  
+- **Modern echo 1:** Japan’s long-running problem with “knicker-sniffer ninjas” — men arrested for stealing women’s underwear from washing lines or laundromats. In cult/creep mode it’s fetish crime; with a badge it’s “olfactory science.”  
+- **Modern echo 2:** Defence labs and start-ups (incl. DARPA projects) experimenting with “smell recognition” biometrics and AI scent profiling — framed as innovation, but functionally a digitised Geruchsdatenbank.   
 
 ### 👞 Shoe-prints (Junk Forensics)  
 - NAS (2009): footwear = unvalidated junk science.  
-- Innocence Project: Black men convicted on shoe-prints alone.  
+- Innocence Project: Black men convicted on shoe-prints alone - often sentenced to execution or life imprisonment due to pseudoscience.  
 - Serial killers like Jerry Brudos kept shoe trophies.  
-- Internet fetish forums uploading women’s sweaty feet without consent.  
+- Longstanding problem of YouTube allowing users to upload women’s sweaty feet, clearly without consent, without takedown.
 
 ### 🧪 Junk Forensics Appendix  
 - **Bite marks:** Innocence Project tied to 26 wrongful convictions.  
@@ -74,7 +76,7 @@ Badge off = stalking, fetish, hoax, or serial killer behaviour.
 - **Lipstick butts:** Locard → Pinochet → planted traces.  
 
 ### 🌍 Global Receipts Sidebar  
-- **South Asia:** fingerprints in colonial India; Aadhaar exclusions; Pakistan CNIC profiling.  
+- **South Asia:** fingerprints in South Asian subcontinent under British Raj colonial rule; Aadhaar exclusions; Pakistan CNIC profiling.  
 - **Oceania:** Aboriginal “dog licences” & rations; Māori iwi rolls.  
 - **MENA:** Saddam’s ration control; SAVAK mail intercepts; IDF use of school rolls; Egypt student registries.
 
