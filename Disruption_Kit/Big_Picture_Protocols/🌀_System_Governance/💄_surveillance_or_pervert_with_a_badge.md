@@ -1,5 +1,8 @@
 # 💄 Let's Play!: Surveillance or Pervert-with-a-Badge?  
 
+**First created:** 2025-08-28 | **Last updated:** 2025-08-28  
+*A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is.*  
+
 ---
 
 ## 🎲 Introduction  
@@ -137,4 +140,6 @@ What was unthinkable ten years ago is now normalised as “innovation” or “s
 ⚡ **Polaris warning:** If we don’t slam the brakes, we will rerun the 20th century’s authoritarianism in 21st century drag — shinier dashboards, AI polish, the same violence.  
 
 Every chalk mark, roll book, fingerprint, lipstick stub is a reminder:  
-**Surveillance is not neutral. These are the fingerprints of authoritarianism. The more we excuse them, the closer we drift.**  
+**Surveillance is not neutral. These are the fingerprints of authoritarianism. The more we excuse them, the closer we drift.**
+
+_Last Updated: 2025-08-28_
