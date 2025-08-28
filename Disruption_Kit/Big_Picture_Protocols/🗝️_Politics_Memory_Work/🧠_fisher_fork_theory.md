@@ -1,5 +1,6 @@
 # 🧠 Fisher Fork Theory
-**First created:** 2025-08-07 | **Last updated:** 2025-08-26  
+**First created:** 2025-08-07 | **Last updated:** 2025-08-28
+
 *Affective capture, metadata fog, and the emotional governance of resistance*
 
 ---
@@ -134,9 +135,17 @@ And like Fisher, we are refusing the mood they have selected for us.
 
 ---
 
-## 🏷️ Tags
+## ⚡ **Last Transmission: Mark Fisher — *Acid Communism* (2017, unfinished)**  
 
-`#fisher_fork_theory` `#containment_realism` `#mood_management` `#clone_pacification`
+> Fisher’s final notes were not a collapse into despair, but an attempt to sketch a breach in capitalist realism:  
+>   
+> - **1960s as a lost future** → radical imagination shut down too early.  
+> - **Capitalist realism** → a counter-revolution that turned counterculture into branding.  
+> - **Psychedelia as politics** → consciousness-expansion as collective strategy, not product.  
+> - **Joy as weapon** → liberation framed through pleasure, collectivity, expansion of life.  
+> - **Memory vs. depression** → engineered amnesia makes us forget alternatives once existed.  
+>   
+> 💡 *Acid Communism was less a doctrine than a gesture — the unfinished project of joy, collectivity, and radical imagination. A signal still waiting to be widened into breach.*  
 
 ---
 
