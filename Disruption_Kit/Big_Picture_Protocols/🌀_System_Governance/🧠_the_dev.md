@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-25 | **Last updated:** 2025-08-29
 
-*Layered profile of the containment architect — operator, institution, system, and archetype*  
+*Layered profile of the containment architect — operator, institution, system, and archetype.*  
 
 ---
 
