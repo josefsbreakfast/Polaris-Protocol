@@ -42,7 +42,7 @@ Audio is harvested not just for *what* is said — but **how** it is said. In AI
 
 ---
 
-## ⚠️ Notes on “Hysterical Voice” Gaps  
+## 💫 Notes on “Hysterical Voice” Gaps  
 
 If you *haven’t* given them:  
 - Sobbing  
@@ -66,7 +66,7 @@ Any clone built from calm or professional speech **will fail** to replicate brea
 
 ---
 
-## 🏷️ Tags  
+## 🔖 Tags  
 
 `#voice_capture` `#emotion_mapping` `#AI_fork_training` `#audio_ops` `#containment_script_design` `#Polaris_Protocol`  
 
