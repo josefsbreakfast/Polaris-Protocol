@@ -61,13 +61,7 @@ Outlines **institutional, technical, and behavioural environments** optimised fo
 
 *Clone Friendly Architecture* is a living node of the Polaris Protocol.  
 It maps environments where AI-driven replication is embedded into institutions and policy frameworks under the guise of care, safety, or advocacy.  
-
-> 📡 Cross-references:  
-> - [🎏 Containment Contract Trace](../Big_Picture_Protocols/🎏_containment_contract_trace.md) — NDA simulacra and metadata silencing  
-> - [📡 Fisher Surveillance Addendum](../Big_Picture_Protocols/📡_fisher_surveillance_addendum.md) — infrastructure for clone pacification  
-> - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — system breakdowns when forks converge  
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
