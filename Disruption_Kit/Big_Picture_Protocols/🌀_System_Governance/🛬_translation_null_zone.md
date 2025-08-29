@@ -65,9 +65,12 @@
         UNDER-CAPTURE            NULL ZONE              OVER-SURVEILLED
       (erasure camouflage)   (machine unreadability)   (hyper-visibility)
 
-Yiddish ───────────────► Biblical Hebrew / Liturgical ───────────────► MSA Arabic
-                         Registers (Hebrew, Arabic,
-                         Syriac, Aramaic, poetic)
+Yiddish ───────────────►   Biblical Hebrew / Liturgical  ───────────────► MSA Arabic
+                            Registers (Hebrew, Arabic,
+                             Syriac, Aramaic, poetic)
+
+            ◄───── Selective dialects (Arabic, Yiddish hybrids) ─────►
+                   (slide between invisibility and exposure)
 
 ```
 
