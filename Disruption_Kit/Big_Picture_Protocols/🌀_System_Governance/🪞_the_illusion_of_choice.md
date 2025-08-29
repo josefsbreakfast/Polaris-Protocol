@@ -123,8 +123,12 @@ It documents the systemic use of false autonomy as a containment strategy in bot
 > - [Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — profiling emotional influence as risk  
 > - [Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md) — how early groups were subjected to containment logics  
 
+---
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 _Last updated: 2025-08-29_
 
-_Last updated: 2025-08-27_
+
