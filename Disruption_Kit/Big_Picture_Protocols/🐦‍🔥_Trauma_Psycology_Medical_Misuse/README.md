@@ -1,6 +1,6 @@
 # 🐦‍🔥 Trauma, Psychology & Medical Misuse  
 
-**First created:** 2025-08-27 | **Last updated:** 2025-08-27  
+**First created:** 2025-08-27 | **Last updated:** 2025-08-29
 *How trauma, medicine, and psychology are misused for containment, commodification, and cloning.*  
 
 ---
