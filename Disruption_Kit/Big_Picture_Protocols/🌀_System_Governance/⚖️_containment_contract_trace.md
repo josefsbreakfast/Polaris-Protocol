@@ -1,6 +1,8 @@
-# ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2025-08-26  
-*Unconsented containment, metadata silencing, and covert NDAs*  
+# ⚖️ Containment Contract Trace
+
+**First created:** 2025-08-07 | **Last updated:** 2025-08-29
+
+*Unconsented containment, metadata silencing, and covert NDAs.*
 
 ---
 
@@ -59,7 +61,7 @@ Voice, tone, behaviour, identity markers — repurposed through:
 
 ---
 
-## 🧯 Strategic Countermeasures  
+## 🥭 Strategic Countermeasures  
 
 - **Visibility forcing functions** (e.g. Substack, ICC tags, mass replication)  
 - **Metadata trails** proving stifled reach and delayed impact  
@@ -68,7 +70,7 @@ Voice, tone, behaviour, identity markers — repurposed through:
 
 ---
 
-## 🛠️ Tag This As  
+## 🔖 Tag This As  
 
 - `legal_containment_without_consent`  
 - `nda_simulacrum`  
@@ -80,15 +82,15 @@ Voice, tone, behaviour, identity markers — repurposed through:
 
 ## ✊ Statement of Refusal  
 
-> I did not sign that contract.  
-> I was not given informed consent.  
-> And I will not abide by behavioural silence enforced without law.  
+> I did *not* sign that contract.  
+> I was *not* given informed consent.  
+> And I will *not* abide by behavioural silence enforced without law.  
 
 ---
 
 ## 🏮 Footer  
 
-*⚖️ Containment Contract Trace* is a living node of the Polaris Protocol.  
+*Containment Contract Trace* is a living node of the Polaris Protocol.  
 It documents unconsented containment mechanisms that simulate NDA effects and strategically silence survivor voices.  
 
 > 📡 Cross-references:  
@@ -96,4 +98,8 @@ It documents unconsented containment mechanisms that simulate NDA effects and st
 > - [🧬 Cloneproof](../Survivor_Tools/🧬_cloneproof.md) — countermeasures for vocal/behavioural replication  
 > - [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — structural analysis of emotional containment  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-08-29_
