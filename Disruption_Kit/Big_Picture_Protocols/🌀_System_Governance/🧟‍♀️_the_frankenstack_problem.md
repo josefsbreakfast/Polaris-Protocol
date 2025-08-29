@@ -129,13 +129,7 @@ The Frankenstack collapses under its own contradictions when those inside force 
 *The Frankenstack Problem* is a living node of the Polaris Protocol.  
 It maps how counter-extremism, safeguarding, and healthcare pipelines fused into hybrid surveillance stacks, with survivors as live subjects.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural and systemic analyses  
-> - [Field Logs](../Field_Logs/) — dated forensic documentation  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures against exploitation  
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
-
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
