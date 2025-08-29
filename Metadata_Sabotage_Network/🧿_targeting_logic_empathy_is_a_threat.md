@@ -6,7 +6,7 @@
 
 ---
 
-## 👁️‍🗨️ TL;DR  
+## ✨ TL;DR  
 
 You weren’t flagged for violence.  
 You were flagged for *empathy*.  
@@ -42,7 +42,7 @@ Thus, **empathy itself becomes a risk marker**, triggering:
 
 ---
 
-## 🧭 Why This Matters  
+## 🐝 Why This Matters  
 
 The targeting of empathy demonstrates how:  
 - **Moral clarity** is reframed as extremism  
@@ -53,7 +53,7 @@ Containment operates not by disproving you, but by recasting your **ethics** as 
 
 ---
 
-## ✳️ Related Nodes  
+## 💫 Related Nodes  
 
 - `🔥_prevent_the_big_sell.md`  
 - `🧩_narrative_pressure_sexualised_content.md`  
