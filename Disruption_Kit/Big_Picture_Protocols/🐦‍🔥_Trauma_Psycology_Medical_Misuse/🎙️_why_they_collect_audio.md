@@ -77,11 +77,8 @@ Any clone built from calm or professional speech **will fail** to replicate brea
 *Why They Collect Audio* is a living node of the Polaris Protocol.  
 It documents the strategic and technical functions of audio capture in behavioural surveillance and clone replication systems.  
 
-> 📡 Cross-references:  
-> - [🧬 Cloneproof](../Survivor_Tools/🧬_cloneproof.md) — countermeasures against vocal/behavioural replication  
-> - [🎏 Containment Contract Trace](../Big_Picture_Protocols/🎏_containment_contract_trace.md) — NDA simulacra and metadata silencing  
-> - [🛰 Surveillance Infrastructure](../Big_Picture_Protocols/🛰_surveillance_infrastructure.md) — systemic capture and Prevent/CVE integration  
+*Survivors voices must always live on.*  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+🏮 [Return to Trauma, Psychology, & Medical Misuse Guide](./README.md)  
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-29_
