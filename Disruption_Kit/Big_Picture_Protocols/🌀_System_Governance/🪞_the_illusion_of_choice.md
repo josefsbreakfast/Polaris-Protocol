@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-11 | **Last updated:** 2025-08-29
 
-*On false autonomy, consent under duress, and the systemic use of coercive freedom*
+*On false autonomy, consent under duress, and the systemic use of coercive freedom.*
 
 ---
 
