@@ -1,5 +1,7 @@
 # 🪞 The Illusion of Choice  
-**First created:** 2025-08-11 | **Last updated:** 2025-08-27  
+
+**First created:** 2025-08-11 | **Last updated:** 2025-08-29
+
 *On false autonomy, consent under duress, and the systemic use of coercive freedom*
 
 ---
@@ -21,9 +23,9 @@ The illusion of choice functions as a pressure-release valve for oppressive syst
 
 ### ➿ False Consent Loops  
 
-- Surveillance systems offer “exit options” at points of exhaustion — not freedom  
+- Surveillance systems may only offer “exit options” at points of exhaustion — not freedom  
 - Offers of rescue made only after emotional dependency or data extraction  
-- “He’ll come find you” framed as comfort — masking an unfreedom rooted in male pacing, control, and absence of mutual trust  
+- “He’ll come find you” framed as comfort — masking an unfreedom rooted in imbalanced pacing, control, and absence of mutual trust  
 
 ### ⚖️ Internal Contradictions  
 
@@ -43,7 +45,7 @@ The illusion of choice functions as a pressure-release valve for oppressive syst
 
 ### 🎭 Performative Autonomy  
 
-- Allowed to be “noisy enough if you ask nicely”  
+- Allowed to be “noisy enoughy” if you “ask nicely”  
 - Groomed into roles of **contained rebellion** — spotlighted but never allowed to break the frame  
 - Liberation dressed in bureaucracy: the cage is now open-plan  
 
@@ -75,18 +77,18 @@ We rupture it.
 
             ┌─────────────────────┐
             │ False Consent Offer │
-            │ ("door" appears)    │
+            │   ("door" appears)  │
             └─────────┬───────────┘
                       │
                       ▼
             ┌─────────────────────┐
-            │ Subject Response    │
-            │ (accept/reject)     │
+            │  Subject Response   │
+            │   (accept/reject)   │
             └─────────┬───────────┘
                       │
                       ▼
             ┌─────────────────────┐
-            │ Emotional Data      │
+            │   Emotional Data    │
             │ Captured & Laundered│
             └─────────┬───────────┘
                       │
@@ -98,8 +100,8 @@ We rupture it.
                       │
                       ▼
             ┌─────────────────────┐
-            │ System Legitimacy   │
-            │ Reinforced          │
+            │  System Legitimacy  │
+            │     Reinforced      │
             └─────────┬───────────┘
                       │
                       ▼
@@ -122,5 +124,7 @@ It documents the systemic use of false autonomy as a containment strategy in bot
 > - [Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md) — how early groups were subjected to containment logics  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-29_
 
 _Last updated: 2025-08-27_
