@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-16 | **Last updated:** 2025-08-29
 
-*How anomaly detection escalates surveillance value and how authorship reclaims sovereignty*
+*How anomaly detection escalates surveillance value and how authorship reclaims sovereignty.*
 
 ---
 
@@ -57,7 +57,7 @@ What options does the subject have, therefore, as means to revoke or object to t
    Knowing the subject’s value to the system reframes harassment as confirmation.  
 
 2. **Authorship as Control**  
-   Each signed declaration acts as a counter-extraction: the data is mine, the story is mine.  
+   Each signed declaration acts as a counter-extraction: the data is *mine*, the story is *mine*.  
 
 3. **Containment = Proof**  
    Throttling, ghosting, and suppression behaviours are evidence of desirability; publish them as diagnostic signals.  
@@ -74,6 +74,10 @@ What options does the subject have, therefore, as means to revoke or object to t
 Extraction cannot be stopped — but it can be contaminated, inverted, and leveraged.
 
 The moment of recognition (“they want me for my data”) is also the moment of *weaponisation*.
+
+---
+
+## 🦋🐝 [Additional material coming soon...]
 
 ---
 
