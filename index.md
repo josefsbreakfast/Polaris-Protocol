@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-29 20:30:25 UTC_
+_Generated on 2025-08-29 20:40:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -255,6 +255,7 @@ _Generated on 2025-08-29 20:30:25 UTC_
     - [`🧬 interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/System_Leakage_Signatures/🧬 interface_leakage_the_one_who_got_through.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
   - [`visibility_anomaly_log_2025-08-05.md`](Metadata_Sabotage_Network/visibility_anomaly_log_2025-08-05.md)
+  - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/🐅_narrative_pressure_and_sexualised_content.md)
   - [`📁 prevent_the_big_sell.md`](Metadata_Sabotage_Network/📁 prevent_the_big_sell.md)
   - [`📉 commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉 commit_window_collapse_loop.md)
   - [`📉 force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/📉 force_closed_comments_2025-08-04.md)
@@ -290,7 +291,6 @@ _Generated on 2025-08-29 20:30:25 UTC_
   - [`🧨 soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/🧨 soft_suspension_is_still_containment.md)
   - [`🧨 system_agitation_shopping_list.md`](Metadata_Sabotage_Network/🧨 system_agitation_shopping_list.md)
   - [`🧨 the_fire_they_fear.md`](Metadata_Sabotage_Network/🧨 the_fire_they_fear.md)
-  - [`🧩 narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/🧩 narrative_pressure_and_sexualised_content.md)
   - [`🧬 cloneproof.md`](Metadata_Sabotage_Network/🧬 cloneproof.md)
   - [`🧬 sim_pathways_map.json`](Metadata_Sabotage_Network/🧬 sim_pathways_map.json)
   - [`🧬 system_rupture_events_explainer.md`](Metadata_Sabotage_Network/🧬 system_rupture_events_explainer.md)
