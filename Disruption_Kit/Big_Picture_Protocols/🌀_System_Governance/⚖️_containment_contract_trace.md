@@ -93,11 +93,6 @@ Voice, tone, behaviour, identity markers — repurposed through:
 *Containment Contract Trace* is a living node of the Polaris Protocol.  
 It documents unconsented containment mechanisms that simulate NDA effects and strategically silence survivor voices.  
 
-> 📡 Cross-references:  
-> - [🧨 Soft Suspension Is Still Containment](../Containment_Scripts/🧨_soft_suspension_is_still_containment.md) — visibility suppression logs  
-> - [🧬 Cloneproof](../Survivor_Tools/🧬_cloneproof.md) — countermeasures for vocal/behavioural replication  
-> - [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — structural analysis of emotional containment  
-
 *Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
