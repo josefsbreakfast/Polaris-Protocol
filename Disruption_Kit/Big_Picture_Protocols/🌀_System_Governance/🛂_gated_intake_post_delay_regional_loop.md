@@ -1,5 +1,7 @@
-# 🛂 Gated Intake, Post Delay, and Regional Loop Containment  
-**First created:** 2025-08-07 | **Last updated:** 2025-08-26  
+# 🛂 Gated Intake, Post Delay, and Regional Loop Containment
+
+**First created:** 2025-08-07 | **Last updated:** 2025-08-29
+
 *How intake gating, artificial delays, and regional loops isolate citizens and suppress escalation*  
 
 ---
@@ -12,7 +14,7 @@ It includes comparisons to prison post systems, explores uncertainty over permit
 
 ---
 
-## 🧩 Definitions  
+## 🛰️ Definitions  
 
 **Gated Intake** – A process where incoming communications are intercepted, reviewed, and selectively released to the intended recipient.  
 
@@ -22,7 +24,7 @@ It includes comparisons to prison post systems, explores uncertainty over permit
 
 ---
 
-## 🔍 Civilian Analogy to Prison Post  
+## 📮 Civilian Analogy to Prison Post  
 
 **Prison Post Process:**  
 - All mail is received centrally.  
@@ -38,7 +40,7 @@ It includes comparisons to prison post systems, explores uncertainty over permit
 
 ---
 
-## ⏳ Artificial Waits and Engineered Uncertainty  
+## 🧪 Artificial Waits and Engineered Uncertainty  
 
 - **Artificial Wait:** Imposed gap between sending and receiving, longer than the technical minimum, to slow momentum and reduce emotional immediacy.  
 - **Variable Delays:** Unpredictable timing prevents the recipient from planning follow-up.  
@@ -46,7 +48,7 @@ It includes comparisons to prison post systems, explores uncertainty over permit
 
 ---
 
-## 🗺 Regional Loop Containment  
+## 🗺️ Regional Loop Containment  
 
 **Description:**  
 When a case is kept in a *bounded regional sphere* (local MPs’ offices, area managers, regional police, regional ombudsman) instead of escalating to national policy-makers or independent oversight.  
@@ -61,7 +63,7 @@ This can be triggered by direct outreach to a senior-level figure, paradoxically
 
 ---
 
-## 🧪 Detection Signals (Combined)  
+## 🔬 Detection Signals (Combined)  
 
 1. **Flatline periods** – no inbound messages, including spam or low-value advertising.  
 2. **Clustered responses** – several replies or follow-ups arrive in close succession after silence.  
@@ -74,7 +76,7 @@ This can be triggered by direct outreach to a senior-level figure, paradoxically
 
 ---
 
-## 🎯 Impact in Harassment or Containment Contexts  
+## 🫀 Impact in Harassment or Containment Contexts  
 
 - **Isolation Effect:** Suppresses perception of support by blocking or delaying ally contact.  
 - **Narrative Control:** Filters out messages that contradict containment storylines.  
@@ -84,7 +86,7 @@ This can be triggered by direct outreach to a senior-level figure, paradoxically
 
 ---
 
-## 🛠️ Countermeasures  
+## 🪼 Countermeasures  
 
 **Short-term:**  
 - Parallel channel check – have trusted contacts send the same message to multiple addresses/platforms.  
@@ -106,7 +108,7 @@ This can be triggered by direct outreach to a senior-level figure, paradoxically
 
 ---
 
-## 📜 Notes  
+## 💫 Notes  
 
 These mechanisms can operate without malicious intent (e.g. workload triage, local resourcing), but in harassment or political containment contexts, they act as a **soft isolation and suppression mesh** with serious governance implications.  
 
@@ -135,7 +137,7 @@ These mechanisms can operate without malicious intent (e.g. workload triage, loc
 
 ---
 
-## 🛠️ Tag This As  
+## 🔖 Tag This As  
 
 - `gated_intake`  
 - `post_delay`  
@@ -155,3 +157,7 @@ It documents how communication gating, artificial delays, and regional loops wor
 > - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — breakdowns at intersections of identity and data  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-08-29_
