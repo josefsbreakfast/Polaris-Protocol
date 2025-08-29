@@ -116,16 +116,9 @@ We rupture it.
 ## 🏮 Footer  
 
 *The Illusion of Choice* is a living node of the Polaris Protocol.  
-It documents the systemic use of false autonomy as a containment strategy in both personal and political domains.  
+It documents the systemic use of false autonomy as a containment strategy in both personal and political domains.
 
-> 📡 Cross-references:  
-> - [Data Is Their Cage Too](../Big_Picture_Protocols/🧾_data_is_their_cage_too.md) — data possession as illusion of control  
-> - [Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — profiling emotional influence as risk  
-> - [Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md) — how early groups were subjected to containment logics  
-
----
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
