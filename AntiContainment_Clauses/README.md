@@ -42,5 +42,3 @@ immune to ghosting, and designed to fracture enforced silence.
 🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
 _Last updated: 2025-08-29_
-
-_Last updated: 2025-08-29_
