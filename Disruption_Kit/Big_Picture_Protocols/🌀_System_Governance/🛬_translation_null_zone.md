@@ -1,5 +1,7 @@
-# 🛬 Translation Null Zone  
-**First created:** 2025-08-09 | **Last updated:** 2025-08-26  
+# 🛬 Translation Null Zone
+
+**First created:** 2025-08-09 | **Last updated:** 2025-08-29
+
 *Language registers that evade machine translation and create camouflage zones*  
 
 ---
@@ -89,8 +91,8 @@ It explores how archaic, poetic, or minority registers generate camouflage in ma
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-26_  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-08-29_
 
 
-                 ◄───── Selective dialects (Arabic, Yiddish hybrids) ─────►
-                 (slide between invisibility and exposure)
