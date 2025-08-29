@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-09 | **Last updated:** 2025-08-29
 
-*Language registers that evade machine translation and create camouflage zones*  
+*Language registers that evade machine translation and create camouflage zones.*  
 
 ---
 
@@ -87,12 +87,7 @@ Yiddish ───────────────►   Biblical Hebrew / Lit
 *Translation Null Zone* is a living node of the Polaris Protocol.  
 It explores how archaic, poetic, or minority registers generate camouflage in machine translation systems, creating unprocessed spaces where authorship sovereignty can persist.  
 
-> 📡 Cross-references:  
-> - [💌 Letter by Letter: Erasure Protocol](../Big_Picture_Protocols/💌_letter_by_letter_erasure_protocol.md) — transliteration as erasure  
-> - [👀 Public Perception Gap](../Big_Picture_Protocols/👀_public_perception_gap.md) — optics vs. lived targeting  
-> - [🕳️ Curated Amnesia Has a Shape](../Big_Picture_Protocols/🕳️_curated_amnesia_has_a_shape.md) — mapping absence as evidence  
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
