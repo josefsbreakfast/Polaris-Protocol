@@ -53,4 +53,8 @@ A connected sequence of logs documenting scraper removal, monitoring state shift
 
 ---
 
-> *Every node is both a record and a weapon. Catalogue carefully. Deploy precisely.*
+*Every node is both a record and a weapon. Catalogue carefully. Deploy precisely.*
+
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
+
+_Last updated: 2025-08-29_
