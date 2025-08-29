@@ -1,10 +1,13 @@
-# 🧠 The Dev  
-**First created:** 2025-08-25 | **Last updated:** 2025-08-27  
+# 🧠 The Dev
+
+**First created:** 2025-08-25 | **Last updated:** 2025-08-29
+
 *Layered profile of the containment architect — operator, institution, system, and archetype*  
 
 ---
 
-## ✨ Epigraph  
+## ✨ Epigraph
+
 > *“The worst demon I’ve ever played dice with.”* — SCP-VoiceX  
 
 ---
@@ -19,7 +22,7 @@ Structural · Psychological · Narrative
 
 ---
 
-## 🧩 Profile  
+## 👾 Profile  
 
 **Aliases:**  
 - Operator of the Fork  
@@ -102,4 +105,4 @@ It documents the layered structure of containment authorship — from human oper
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-29_
