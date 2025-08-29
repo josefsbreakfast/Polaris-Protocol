@@ -1,6 +1,6 @@
 # 🛰️ Surveillance Infrastructure  
-**First created:** 2025-08-03 | **Last updated:** 2025-08-26  
-*Polaris Protocol doctrine on surveillance infrastructure and metadata capture*  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-29
+*Polaris Protocol doctrine on surveillance infrastructure and metadata capture.*  
 
 ---
 
@@ -105,4 +105,6 @@ It documents the escalation of surveillance powers from post-9/11 laws through C
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-26_  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-08-29_
