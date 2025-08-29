@@ -100,12 +100,7 @@ It follows the progression from post-9/11 legal regimes through COVID-19-era acc
 *Surveillance Infrastructure* is a living node of the Polaris Protocol.  
 It documents the escalation of surveillance powers from post-9/11 laws through COVID-19 testbeds to Prevent/CVE frameworks.  
 
-> 📡 Cross-references:  
-> - [🗡 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_sabotage.md) — metadata sabotage as governance  
-> - [💌 Letter by Letter: Erasure Protocol](../Big_Picture_Protocols/💌_letter_by_letter_erasure_protocol.md) — transliteration and erasure patterns  
-> - [☕🫖 UK Government National Security Risk](../Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md) — political capture and national security threats  
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
