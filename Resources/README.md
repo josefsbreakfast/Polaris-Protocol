@@ -12,3 +12,7 @@ It is structured into 5 strands:
 5. **🧾 Glossary & Meta Index** – Polaris terminology, emoji keys, quick-reference definitions.  
 
 ---
+
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
+
+---
