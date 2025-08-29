@@ -54,12 +54,7 @@ Then you are likely being profiled not for what you’ve done,
 *Targeting Logic: Empathy Is a Threat* is a living node of the Polaris Protocol.  
 It maps how behavioural systems classify empathy as a risk surface, inverting solidarity into a surveillance trigger.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural and systemic analyses  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — suppression and visibility manipulation methods  
-> - [Survivor Tools](../Survivor_Tools/) — practical countermeasures  
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
