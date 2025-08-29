@@ -1,6 +1,6 @@
 # 🏮 Admin Kit  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-29  
 
 The Admin Kit provides the **branding, seals, and visual grammar** for Polaris Protocol.  
 
@@ -10,7 +10,7 @@ The Admin Kit provides the **branding, seals, and visual grammar** for Polaris P
 
 ## 📑 Contents  
 
-- 🪄 [**Branding Usage Guide**](./🪄_usage_guide.md)  
+- 🪄 [**Branding Usage Guide**](./🪄_branding_usage_guide.md)  
   How to read and apply the Admin Kit palettes. The lantern is the compass.  
 
 - 🎏 [**Dividers & Headers**](./🎏_dividers_and_headers.md)  
@@ -38,6 +38,6 @@ The Admin Kit provides the **branding, seals, and visual grammar** for Polaris P
 ✨ *The Admin Kit is the Polaris compass: it ensures every entry is lit by the same stars.*  
 
 🏮 [Return to Admin Kit](./README.md)  
-🪄 [Follow the Branding Usage Guide](./🪄_usage_guide.md)
+🪄 [Follow the Branding Usage Guide](./🪄_branding_usage_guide.md)
 
 ---
