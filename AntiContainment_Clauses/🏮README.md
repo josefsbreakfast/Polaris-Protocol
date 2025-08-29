@@ -41,7 +41,7 @@ immune to ghosting, and designed to fracture enforced silence.
 > - [Syntax Bombs](../Syntax_Bombs/) — disruptive payloads and forensic disruptors  
 > - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — tactical logs of visibility suppression  
 
-🏮 [Return to Polaris Protocol "Home" - repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
 *Survivors voices must always live on.*  
 
