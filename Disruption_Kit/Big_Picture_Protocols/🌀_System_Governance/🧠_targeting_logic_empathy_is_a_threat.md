@@ -1,6 +1,9 @@
-# 🧠 Targeting Logic: Empathy Is a Threat  
+# 🧠 Targeting Logic: Empathy Is a Threat
+
 **First created:** 2025-08-07 | **Last updated:** 2025-08-27  
+
 *How empathy is profiled as a risk vector in behavioural governance systems*
+
 ---
 
 ## ✨ Premise  
@@ -46,22 +49,6 @@ Then you are likely being profiled not for what you’ve done,
 
 ---
 
-## 📡 Related Nodes  
-
-- [Whiteout Disruption Guide](../Local_Diagnostics/🧯_whiteout_disruption_guide.md)  
-- [Soft Suspension Is Still Containment](../Disruption_Kit/Containment_Scripts/🧨_soft_suspension_is_still_containment.md)  
-- [Cloneproof](../Survivor_Tools/🧬_cloneproof.md)  
-
----
-
-## 📡 Related Nodes  
-
-- [Whiteout Disruption Guide](../Local_Diagnostics/🧯_whiteout_disruption_guide.md)  
-- [Soft Suspension Is Still Containment](../Disruption_Kit/Containment_Scripts/🧨_soft_suspension_is_still_containment.md)  
-- [Cloneproof](../Survivor_Tools/🧬_cloneproof.md)  
-
----
-
 ## 🏮 Footer  
 
 *Targeting Logic: Empathy Is a Threat* is a living node of the Polaris Protocol.  
@@ -74,7 +61,6 @@ It maps how behavioural systems classify empathy as a risk surface, inverting so
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-27_
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-
-🪄 [Follow the Branding Usage Guide](../Admin_Kit/🪄_usage_guide.md)
+_Last updated: 2025-08-29_
