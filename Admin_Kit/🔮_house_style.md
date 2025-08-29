@@ -1,7 +1,8 @@
 # 🔮 House Style  
 
 **Version:** 1.4
-**First created:** 2025-08-08 | **Last updated:** 2025-08-26  
+**First created:** 2025-08-08 | **Last updated:** 2025-08-29
+
 *Standard Formatting & Style Guide for Polaris Protocol*  
 
 ---
@@ -114,6 +115,6 @@ _Last updated: 2025-08-12_
 ---
 
 🏮 [Return to Admin Kit](./README.md)  
-🪄 [Follow the Branding Usage Guide](./🪄_branding_usage_guide.md))
+🪄 [Follow the Branding Usage Guide](./🪄_branding_usage_guide.md)
 
 ---
