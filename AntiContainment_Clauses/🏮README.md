@@ -37,12 +37,10 @@ Each file offers a different tactical register:
 Each clause is a refusal fragment: resistant to flattening,  
 immune to ghosting, and designed to fracture enforced silence.  
 
-> 📡 Cross-references:  
-> - [Syntax Bombs](../Syntax_Bombs/) — disruptive payloads and forensic disruptors  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — tactical logs of visibility suppression  
+*Survivors voices must always live on.*   
 
 🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
-*Survivors voices must always live on.*  
+_Last updated: 2025-08-29_
 
 _Last updated: 2025-08-29_
