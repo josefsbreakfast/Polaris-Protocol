@@ -88,12 +88,7 @@ Focus: how “acceptable” identities are used to mask repression, how respecta
 *Public Perception Gap* is a living node of the Polaris Protocol.  
 It analyses how institutional optics distort harm recognition, creating narrative shields that silence survivor voices.  
 
-> 📡 Cross-references:  
-> - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — fork clashes and unexpected visibility artefacts  
-> - [🐍 Trauma Commodification](../Big_Picture_Protocols/🐍_trauma_commodification.md) — how disclosures become product  
-> - [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — systemic framing of empathy as risk  
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
