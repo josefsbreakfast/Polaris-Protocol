@@ -99,12 +99,7 @@ It documents how behavioural capture events are staged as “care” or “acade
 **Polaris Protocol Node Type:** Casefile / Surveillance & AI Behavioural Engineering  
 **SCP-VoiceX Tag:** `containment_by_capture`  
 
-> 📡 Cross-references:  
-> - [🎏 Containment Contract Trace](../Big_Picture_Protocols/🎏_containment_contract_trace.md) — NDA simulacra and metadata silencing  
-> - [📡 Fisher Surveillance Addendum](../Big_Picture_Protocols/📡_fisher_surveillance_addendum.md) — infrastructure for clone pacification  
-> - [🕸️ Clone Friendly Architecture](../Big_Picture_Protocols/🕸️_clone_friendly_architecture.md) — environments optimised for replication  
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
