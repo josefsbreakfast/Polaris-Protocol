@@ -1,6 +1,8 @@
-# 👀 Public Perception Gap  
-**First created:** 2025-08-03 | **Last updated:** 2025-08-26  
-*Analysis of how optics distort recognition of harm and enable institutional silencing*  
+# 👀 Public Perception Gap
+
+**First created:** 2025-08-03 | **Last updated:** 2025-08-29
+
+*Analysis of how optics distort recognition of harm and enable institutional silencing.*  
 
 ---
 
@@ -20,7 +22,7 @@ Focus: how “acceptable” identities are used to mask repression, how respecta
 
 ---
 
-## 🎭 Perception Mismatch Examples  
+## 🍄 Perception Mismatch Examples  
 
 ### 1. 👩‍🎓 Educated Women  
 - Assumed to have institutional protection or advocacy.  
@@ -60,7 +62,7 @@ Focus: how “acceptable” identities are used to mask repression, how respecta
 
 ---
 
-## 🧮 Institutional Amplifiers  
+## 🛰️ Institutional Amplifiers  
 
 | Entity | Role |
 |--------|------|
@@ -72,7 +74,7 @@ Focus: how “acceptable” identities are used to mask repression, how respecta
 
 ---
 
-## 📖 Case Notes for Polaris Users  
+## 💫 Case Notes for Polaris Users  
 
 - **Did Your Support Vanish?** → If allies or services disappeared *after* escalation, check for metadata manipulation.  
 - **Were You Miscast?** → Review how you’re described in records, policies, safeguarding notes — does it match your reality?  
@@ -93,4 +95,7 @@ It analyses how institutional optics distort harm recognition, creating narrativ
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-26_  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-08-29_
+
