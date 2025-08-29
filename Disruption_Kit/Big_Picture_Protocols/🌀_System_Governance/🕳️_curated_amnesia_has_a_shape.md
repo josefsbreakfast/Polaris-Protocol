@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-06 | **Last updated:** 2025-08-29
 
-*Pattern of deliberate erasure in institutional record management*  
+*Pattern of deliberate erasure in institutional record management.*  
 
 ---
 
@@ -62,11 +62,6 @@ Everyone from the smallest ducklings to the biggest Canada geese can see it — 
 
 *Curated Amnesia Has A Shape* is a living node of the Polaris Protocol.  
 It traces patterns of deliberate archival absence, showing how “nothing” is engineered as a containment tactic — and how mapping gaps becomes evidence.  
-
-> 📡 Cross-references:  
-> - [🐍 Trauma Commodification](../Big_Picture_Protocols/🐍_trauma_commodification.md) — data harvested from survivor disclosures  
-> - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — breakdowns at intersections of identity and metadata  
-> - [👀 Public Perception Gap](../Big_Picture_Protocols/👀_public_perception_gap.md) — how optics obscure real harm  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
