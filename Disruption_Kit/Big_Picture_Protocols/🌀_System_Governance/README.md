@@ -1,6 +1,6 @@
 # 🌀 System & Governance  
 
-**First created:** 2025-08-27 | **Last updated:** 2025-08-27  
+**First created:** 2025-08-27 | **Last updated:** 2025-08-29
 *How the systems we use interlace with what controls and powers them.*  
 
 ---
@@ -152,6 +152,12 @@ flowchart TD
       *Macro-level analyses and frameworks exposing system-wide governance logic and suppression tactics.*  
 
       - [📁 🌀 System_Governance](/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance)  
-        *Current node: focused on how governance structures manage, distort, and sabotage perception and agency.*  
+        *Current node: focused on how governance structures manage, distort, and sabotage perception and agency.*
+
+---
 
 *Polaris never forgets.*
+
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
+
+_Last updated: 2025-08-29_
