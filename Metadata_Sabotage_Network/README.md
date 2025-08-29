@@ -66,3 +66,7 @@ Includes mapping of sim pathway data and fork adjacency structures.
 - All emoji are structural cues — not decoration.
 
 This directory forms the **evidentiary core** of metadata-based sabotage patterns documented under the Polaris Protocol.
+
+---
+
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
