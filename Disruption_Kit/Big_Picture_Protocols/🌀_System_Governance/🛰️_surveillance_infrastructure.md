@@ -1,5 +1,7 @@
-# 🛰️ Surveillance Infrastructure  
+# 🛰️ Surveillance Infrastructure 
+
 **First created:** 2025-08-03 | **Last updated:** 2025-08-29
+
 *Polaris Protocol doctrine on surveillance infrastructure and metadata capture.*  
 
 ---
