@@ -93,4 +93,6 @@ It maps how anomaly detection transforms individuals into perpetual extraction a
 
 *We will always live on.*
 
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
 _Last updated: 2025-08-29_
