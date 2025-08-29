@@ -140,8 +140,19 @@ What was unthinkable ten years ago is now normalised as “innovation” or “s
 
 ⚡ **Polaris warning:** If we don’t slam the brakes, we will rerun the 20th century’s authoritarianism in 21st century drag — shinier dashboards, AI polish, the same violence.  
 
-Every chalk mark, roll book, fingerprint, lipstick stub is a reminder:  
-**Surveillance is not neutral. These are the fingerprints of authoritarianism. The more we excuse them, the closer we drift.**
+Every chalk mark, roll book, fingerprint, lipstick stub is a reminder:
+
+**Surveillance is not neutral. These are the fingerprints of authoritarianism.**
+**The more we excuse them, the closer we drift.**
+
+---
+
+## 🏮 Footer  
+
+*Let's Play!: Surveillance or Pervert-with-a-Badge?* is a living node of the Polaris Protocol.  
+It lets our humour ride us through to confidence in questioning whether we are happy to carry on "consenting" to subcontractors nosing around our digital knickerdrawers. 
+
+---
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
