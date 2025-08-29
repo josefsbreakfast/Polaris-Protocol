@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-29 21:05:20 UTC_
+_Generated on 2025-08-29 21:07:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -297,7 +297,7 @@ _Generated on 2025-08-29 21:05:20 UTC_
   - [`🧬 system_rupture_log.md`](Metadata_Sabotage_Network/🧬 system_rupture_log.md)
   - [`🧬 system_rupture_log.yaml`](Metadata_Sabotage_Network/🧬 system_rupture_log.yaml)
   - [`🧯 file_transport_failure_log.md`](Metadata_Sabotage_Network/🧯 file_transport_failure_log.md)
-  - [`🧿 targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿 targeting_logic_empathy_is_a_threat.md)
+  - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
   - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/🪞_clone_mimic_theatre.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
