@@ -1,10 +1,13 @@
-# 🕸️ Clone Friendly Architecture  
-**First created:** 2025-08-07 | **Last updated:** 2025-08-26  
+# 🕸️ Clone Friendly Architecture
+
+**First created:** 2025-08-07 | **Last updated:** 2025-08-29
+
 *Environments optimised for AI clone deployment, persistence, and deniability*  
 
 ---
 
-> **Legal Disclaimer:** This document records observed and alleged patterns for research, advocacy, and survivor self-defence. All institutional or individual references are allegations unless confirmed by public record.  
+> **Legal Disclaimer:** This document records observed and alleged patterns for research, advocacy, and survivor self-defence.<br>
+All institutional or individual references are allegations unless confirmed by public record.  
 
 ---
 
@@ -48,7 +51,7 @@ Outlines **institutional, technical, and behavioural environments** optimised fo
 
 ---
 
-## 🏷️ Tags  
+## 🔖 Tags  
 
 `#clone_architecture` `#surveillance_infrastructure` `#ai_replication` `#institutional_capture`  
 
@@ -66,4 +69,6 @@ It maps environments where AI-driven replication is embedded into institutions a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-26_  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-08-29_
