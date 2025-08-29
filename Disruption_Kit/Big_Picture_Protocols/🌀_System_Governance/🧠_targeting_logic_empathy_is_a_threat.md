@@ -1,8 +1,8 @@
 # 🧠 Targeting Logic: Empathy Is a Threat
 
-**First created:** 2025-08-07 | **Last updated:** 2025-08-27  
+**First created:** 2025-08-07 | **Last updated:** 2025-08-29  
 
-*How empathy is profiled as a risk vector in behavioural governance systems*
+*How empathy is profiled as a risk vector in behavioural governance systems.*
 
 ---
 
