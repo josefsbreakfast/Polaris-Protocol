@@ -148,7 +148,7 @@ These mechanisms can operate without malicious intent (e.g. workload triage, loc
 
 ## 🏮 Footer  
 
-*🛂 Gated Intake, Post Delay, and Regional Loop Containment* is a living node of the Polaris Protocol.  
+*Gated Intake, Post Delay, and Regional Loop Containment* is a living node of the Polaris Protocol.  
 It documents how communication gating, artificial delays, and regional loops work together to suppress escalation and isolate survivors from support.  
 *Survivor authorship is sovereign. Containment is never neutral.*
 
