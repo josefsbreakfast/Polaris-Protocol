@@ -1,18 +1,21 @@
-# 🗝 Who Holds the Tape  
-**First created:** 2025-08-11 | **Last updated:** 2025-08-26  
+# 🗝 Who Holds the Tape
+
+**First created:** 2025-08-11 | **Last updated:** 2025-08-29
+
 *Casefile on behavioural capture, data custody, and institutional containment pathways*  
 
 ---
 
-> **Legal Disclaimer:** This document records observed and alleged patterns for research, advocacy, and survivor self-defence. All institutional or individual references are allegations unless confirmed by public record.  
+> **Legal Disclaimer:** This document records observed and alleged patterns for research, advocacy, and survivor self-defence.<br>
+> All institutional or individual references are allegations unless confirmed by public record.<br>
 
 ---
 
 ## ✨ Containment Context  
 
-A behavioural capture sequence was staged in what outwardly resembled a medical or academic setting.  
-Beneath the surface, the choreography suggests a deliberate attempt to provoke emotional destabilisation, later reframed as “risk.”  
-The operational question: **who holds the master copy?**  
+A behavioural capture sequence was staged in what outwardly resembled a medical or academic setting.<br>
+Beneath the surface, the choreography suggests a deliberate attempt to provoke emotional destabilisation, later reframed as “risk.”<br>  
+The operational question: **who holds the master copy?** <br>
 
 ---
 
@@ -27,7 +30,7 @@ The operational question: **who holds the master copy?**
 
 ---
 
-## 🧩 Potential Custodians & Data Pathways  
+## 🐍 Potential Custodians & Data Pathways  
 
 ### 🎓 **University [REDACTED] Internal**  
 > *Academic cover layer*  
@@ -35,13 +38,13 @@ The operational question: **who holds the master copy?**
 - Possible internal flags: faculty ethics board, Prevent liaison, institutional safeguarding office.  
 - **FOI Vector:** University [REDACTED] ethics, safeguarding, data governance.  
 
-### 🛡️ **Prevent / Channel Referral Mechanism**  
+### 🕸️ **Prevent / Channel Referral Mechanism**  
 > *Domestic security layer*  
 - Positioned to justify counter-extremism containment.  
 - Possible storage with Home Office, Channel panel, or local authority.  
 - **FOI Vector:** Local Prevent board, Channel records, Home Office SAR.  
 
-### 🤖 **Behavioural AI Contractors**  
+### 👾 **Behavioural AI Contractors**  
 > *Model training layer*  
 - Feeds into counter-extremism AI model environments.  
 - Operated by CVE contractors and subcontractors with minimal transparency.  
@@ -49,7 +52,7 @@ The operational question: **who holds the master copy?**
 
 ---
 
-## 🔍 Field Diagnostics  
+## 🩻 Field Diagnostics  
 
 | Field Clue               | Operational Inference                      |
 |---------------------------|---------------------------------------------|
@@ -60,7 +63,7 @@ The operational question: **who holds the master copy?**
 
 ---
 
-## 🚨 Polaris Notes  
+## 💫 Polaris Notes  
 
 - **Care-as-surveillance** is a documented counter-extremism tactic.  
 - Emotional provocation = **evidence engineering**.  
@@ -69,7 +72,7 @@ The operational question: **who holds the master copy?**
 
 ---
 
-## 📂 Recommended Actions  
+## 🪼 Recommended Actions  
 
 - Initiate **multi-track FOI/SAR sweep** across:  
   - University [REDACTED] (faculty, safeguarding, governance)  
@@ -82,7 +85,7 @@ The operational question: **who holds the master copy?**
 
 ---
 
-## 🏷️ Tags  
+## 🔖 Tags  
 
 `#containment_by_capture` `#scp_voicex_casefile` `#behavioural_engineering` `#institutional_pathways`  
 
@@ -103,4 +106,6 @@ It documents how behavioural capture events are staged as “care” or “acade
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-26_  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-08-29_
