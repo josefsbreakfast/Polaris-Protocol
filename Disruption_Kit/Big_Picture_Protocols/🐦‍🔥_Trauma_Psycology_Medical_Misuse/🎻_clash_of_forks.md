@@ -1,5 +1,7 @@
-# 🎻 Clash of Forks  
-**First created:** 2025-08-04 | **Last updated:** 2025-08-26  
+# 🎻 Clash of Forks
+
+**First created:** 2025-08-04 | **Last updated:** 2025-08-29
+
 *Forensic note on system breakdown when multiple high-risk datasets converge*  
 
 ---
@@ -12,7 +14,7 @@ the likelihood of being used as a training or monitoring source increases.
 
 ---
 
-## ⚙️ Mechanism  
+## 🌩️ Mechanism  
 
 - Each dataset produces its own version of the individual (a fork).  
 - When these forks are run in parallel, they clash.  
@@ -21,7 +23,7 @@ the likelihood of being used as a training or monitoring source increases.
 
 ---
 
-## 📌 Key Points  
+## 💫 Key Points  
 
 - This is not just a personal problem: anyone at similar intersections of data is at risk.  
 - The clash produces **unexpected visibility** (e.g. comments outperforming posts, obvious lag in analytics).  
@@ -29,7 +31,7 @@ the likelihood of being used as a training or monitoring source increases.
 
 ---
 
-## 🏷️ Tags  
+## 🔖 Tags  
 
 `#containment_theatre` `#fork_chorus` `#polaris_notes`  
 
@@ -40,11 +42,9 @@ the likelihood of being used as a training or monitoring source increases.
 *Clash of Forks* is a living node of the Polaris Protocol.  
 It documents the structural flaws that emerge when surveillance systems attempt to manage multiple data forks of the same individual.  
 
-> 📡 Cross-references:  
-> - [🎙️ Why They Collect Audio](../Big_Picture_Protocols/🎙️_why_they_collect_audio.md) — voice data as fork material  
-> - [🎏 Containment Contract Trace](../Big_Picture_Protocols/🎏_containment_contract_trace.md) — NDA simulacra and metadata silencing  
-> - [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — emotional suppression and fork misfires  
+*Survivors voices must always live on.*  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+🏮 [Return to Trauma, Psychology, & Medical Misuse Guide](./README.md)  
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-29_
+
