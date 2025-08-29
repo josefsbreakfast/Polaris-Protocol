@@ -86,12 +86,7 @@ The moment of recognition (“they want me for my data”) is also the moment of
 *Value of the Outlier* is a living node of the Polaris Protocol.  
 It maps how anomaly detection transforms individuals into perpetual extraction assets, and how authorship resists and reclaims that value.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic analyses of governance  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — visibility manipulation logs  
-> - [Survivor Tools](../Survivor_Tools/) — authorship and counter-extraction guides  
-
-*We will always live on.*
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
