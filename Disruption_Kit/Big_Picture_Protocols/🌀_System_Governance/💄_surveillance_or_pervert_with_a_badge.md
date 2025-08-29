@@ -1,11 +1,12 @@
 # 💄 Let's Play!: Surveillance or Pervert-with-a-Badge?  
 
-**First created:** 2025-08-28 | **Last updated:** 2025-08-28  
+**First created:** 2025-08-28 | **Last updated:** 2025-08-29
+
 *A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is.*  
 
 ---
 
-## 🎲 Introduction  
+## ✨ Introduction  
 
 Let’s play a game.  
 The rules are simple:  
@@ -18,7 +19,7 @@ Badge off = stalking, fetish, hoax, or serial killer behaviour.
 
 ---
 
-### 📜 How to Play  
+### 🪄 How to Play  
 
 1. Read the artefact in the table below.  
 2. Imagine it *with a badge*: spy thriller, state security, counter-intel.  
@@ -27,7 +28,7 @@ Badge off = stalking, fetish, hoax, or serial killer behaviour.
 
 ---
 
-## 🗂️ The Table  
+## 🧿 The Table  
 
 | **Artefact** | **Sold As (Official Story)** | **Reality (Pervert With a Badge)** | **Illegal if not a pervert with a badge?** |
 |--------------|-------------------------------|------------------------------------|-------------------------------------------|
@@ -51,7 +52,7 @@ Badge off = stalking, fetish, hoax, or serial killer behaviour.
 
 ---
 
-## 📂 Receipts  
+## 💫 Receipts  
 
 ### 🪧 Chalk Marks, Prams, Curtains  
 - *Rotswelch was a common visual language almost extinguished by the Holocaust; still criminalised today.*
@@ -121,7 +122,7 @@ Badge off = stalking, fetish, hoax, or serial killer behaviour.
 
 ---
 
-## ⚠️ Closing Statement  
+## 🐝 Closing Statement  
 
 This isn’t just a parlour game. It’s a warning.  
 
@@ -142,4 +143,6 @@ What was unthinkable ten years ago is now normalised as “innovation” or “s
 Every chalk mark, roll book, fingerprint, lipstick stub is a reminder:  
 **Surveillance is not neutral. These are the fingerprints of authoritarianism. The more we excuse them, the closer we drift.**
 
-_Last Updated: 2025-08-28_
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-08-29_
