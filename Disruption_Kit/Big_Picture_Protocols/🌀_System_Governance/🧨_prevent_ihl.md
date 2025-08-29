@@ -1,3 +1,14 @@
+*The sky has been cracking with the sparks of charged fork tines.*
+
+*Whilst the women of 3 faces address such inconvenient weather, we have their drafts in pieces; these are the result of fork clustering impacting our markdown sprites. Please take care.
+
+& breathe.
+
+🫀🪬
+
+-----
+
+
 # 🧨 Genocided Industry: Prevent as Domestic Cover for International Non-Compliance  
 
 **Created:** 2025-08-20 | **Polaris Protocol Node**  
@@ -42,3 +53,45 @@ Prevent exists as a buffer: while the UK ignores the ICJ, it builds a parallel n
 ---  
 
 **Polaris Protocol Tag:** `#GenocidedIndustry #Prevent #ICJ #SelectiveCompliance #CounterExtremism`  
+
+
+# 🛰️ Forensic Timeline: Prevent ↔ ICJ Non-Compliance  
+
+**Created:** 2025-08-20 | **Polaris Protocol Node**  
+
+---  
+
+## Overview  
+February 2024 marks a double inflection point in UK governance:  
+- **Domestic hyper-compliance** — via the Prevent Review (Shawcross), pledging strict implementation of 34 recommendations.  
+- **International non-compliance** — via open refusal to obey the ICJ’s provisional measures in *South Africa v. Israel (Genocide)*.  
+
+This juxtaposition exposes the UK’s selective approach to law:  
+- **Over-regulating at home** (surveillance, ideology policing).  
+- **Ignoring binding international law** abroad (humanitarian obligations).  
+
+---  
+
+## Timeline  
+
+| Date       | Event | Significance |
+|------------|-------|--------------|
+| **7 Feb 2024** | Publication of Prevent Review (Shawcross) | Government commits to 34 recommendations. Refocus on ideology, restructure to regional model. |
+| **23 Feb 2024** | UK refuses ICJ compliance | Rejects provisional measures in *South Africa v. Israel*. Signifies willingness to sidestep genocide obligations. |  
+
+---  
+
+## Polaris Analysis  
+- **Signal:** Domestic compliance mechanisms expand precisely as international law is flouted.  
+- **Pattern:** Over-compliance internally ↔ non-compliance externally.  
+- **Interpretation:** Prevent becomes the laboratory of governance excess, while ICJ resistance signals global law as optional.  
+
+---  
+
+## Visual Reference  
+*(Forensic chart attached in archive — Prevent ↔ ICJ February 2024 parallel events)*  
+
+---  
+
+**Polaris Protocol Tag:** `#Containment #SelectiveCompliance #Prevent #ICJ #Genocide`  
+
