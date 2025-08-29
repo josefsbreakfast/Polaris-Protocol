@@ -1,6 +1,6 @@
 # 🏮 AntiContainment Clauses  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-29 
 
 *Clauses and syntax designed to resist flattening, ghosting, and enforced silence.*  
 
@@ -40,8 +40,9 @@ immune to ghosting, and designed to fracture enforced silence.
 > 📡 Cross-references:  
 > - [Syntax Bombs](../Syntax_Bombs/) — disruptive payloads and forensic disruptors  
 > - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — tactical logs of visibility suppression  
-> - [Polaris Protocol Main Index](../README.md) — constellation overview  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+🏮 [Return to Polaris Protocol "Home" - repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
-_Last updated: 2025-08-25_  
+*Survivors voices must always live on.*  
+
+_Last updated: 2025-08-29_
