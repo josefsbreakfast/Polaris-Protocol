@@ -154,6 +154,8 @@ It lets our humour ride us through to confidence in questioning whether we are h
 
 ---
 
+*Survivor authorship is sovereign. Containment is never neutral.*
+
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 _Last updated: 2025-08-29_
