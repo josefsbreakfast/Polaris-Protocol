@@ -89,10 +89,8 @@ It traces the mechanics of information control — including ghost-editing, auth
 *Metadata_Sabotage_Network* is a Polaris Protocol branch.  
 This file documents narrative control and metadata sabotage mechanisms used to erase, flatten, or redirect survivor testimony.  
 
-> 📡 Cross-references:  
-> - [Fork Taxonomy](../Fork_Taxonomy/README.md) — behavioural forks and override logic  
-> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal syntax and metadata defenses  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-08-29_
