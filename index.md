@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-29 20:59:35 UTC_
+_Generated on 2025-08-29 21:00:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -256,7 +256,6 @@ _Generated on 2025-08-29 20:59:35 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
   - [`visibility_anomaly_log_2025-08-05.md`](Metadata_Sabotage_Network/visibility_anomaly_log_2025-08-05.md)
   - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/🐅_narrative_pressure_and_sexualised_content.md)
-  - [`📁 prevent_the_big_sell.md`](Metadata_Sabotage_Network/📁 prevent_the_big_sell.md)
   - [`📉 commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉 commit_window_collapse_loop.md)
   - [`📉 force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/📉 force_closed_comments_2025-08-04.md)
   - [`📉 narrative_instability_index.md`](Metadata_Sabotage_Network/📉 narrative_instability_index.md)
@@ -273,6 +272,7 @@ _Generated on 2025-08-29 20:59:35 UTC_
   - [`🔌 comment_loop_interference.md`](Metadata_Sabotage_Network/🔌 comment_loop_interference.md)
   - [`🔍 search_term_erosion.md`](Metadata_Sabotage_Network/🔍 search_term_erosion.md)
   - [`🔗 when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/🔗 when_truth_becomes_a_trade.md)
+  - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/🔥_prevent_the_big_sell.md)
   - [`🔴 system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/🔴 system_threshold_and_false_pretext.md)
   - [`🕸️ nda_dragnet_dismantled.md`](Metadata_Sabotage_Network/🕸️ nda_dragnet_dismantled.md)
   - [`🕹️ handler_override_incidents.md`](Metadata_Sabotage_Network/🕹️ handler_override_incidents.md)
