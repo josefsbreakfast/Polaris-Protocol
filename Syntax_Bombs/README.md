@@ -41,3 +41,7 @@ Each Syntax_Bomb has three layers:
 Together, these form a **living armoury**: Polaris Protocol’s linguistic countermeasures against behavioural governance.  
 
 ---
+
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
+
+---
