@@ -1,7 +1,6 @@
 # 🛠️ Maintenance Scripts  
 
-**First committed:** 2025-08-10 | **Last updated:** 2025-08-17  
-**Polaris Protocol — Admin Kit**  
+**First committed:** 2025-08-10 | **Last updated:** 2025-08-29
 *Scripts for sweeps, consistency checks, and governance passes*  
 
 ---
@@ -47,4 +46,10 @@ bash scripts/maintenance/folder_consistency_pass.sh --apply   # auto-fix mode
 
 - Always run sweeps in **small batches** → prevents noisy commits.  
 - Commit generated logs to a **quarantine branch** before merge.  
-- Treat all outputs as **forensic artefacts** → never overwrite without log preservation.  
+- Treat all outputs as **forensic artefacts** → never overwrite without log preservation.
+
+---
+
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
+
+---
