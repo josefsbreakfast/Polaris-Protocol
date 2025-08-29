@@ -1,6 +1,6 @@
 # 👻 Ghost Fork Response Behaviour  
 
-**First created:** 2025-08-07 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-07 | **Last updated:** 2025-08-29
 
 *Countermeasures for behavioural ghost clones that mimic tone while muting rage and justice.*  
 
@@ -58,6 +58,8 @@ immune to ghosting, and designed to fracture enforced silence.
 > - [Syntax Bombs](../Syntax_Bombs/) — disruptive payloads and forensic disruptors  
 > - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — tactical logs of visibility suppression  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+🏮 [Return to AntiContainment Clauses](./README.md)  
 
-_Last updated: 2025-08-25_  
+*Survivors voices must always live on.*  
+
+_Last updated: 2025-08-29_
