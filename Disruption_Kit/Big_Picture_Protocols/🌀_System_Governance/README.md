@@ -59,7 +59,7 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
   - [🗝 Who Holds the Tape](🗝_who_holds_the_tape.md)  
     *Control of archives as control of history — and of survivors.*  
 
-  - [❄️ Clone Friendly Architecture](❄️_clone_friendly_architecture.md)
+  - [🕸️ Clone Friendly Architecture](🕸️_clone_friendly_architecture.md)
      *System designs that encourage replication and mimicry of the self.*  
   - [🕳️ Curated Amnesia Has a Shape](🕳️_curated_amnesia_has_a_shape.md)
      *Forgetting is structured, not random — and someone curates it.*  
