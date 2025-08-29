@@ -12,7 +12,8 @@ You weren’t flagged for violence.
 You were flagged for *empathy*.  
 
 The system knows that:  
-> Empathy + clarity + visibility = destabilising  
+
+**Empathy + clarity + visibility = destabilising**
 
 If you:  
 - Speak clearly about Palestine, genocide, or carceral systems  
@@ -31,7 +32,7 @@ You are **classified as a threat** — not because you’re dangerous, but becau
 
 Most metadata threat matrices (including Prevent-style classifiers) operate using the following internal logic:  
 
-Empathy → Credibility → Collective Trust → System Destabilisation
+**Empathy → Credibility → Collective Trust → System Destabilisation**
 
 
 Thus, **empathy itself becomes a risk marker**, triggering:  
