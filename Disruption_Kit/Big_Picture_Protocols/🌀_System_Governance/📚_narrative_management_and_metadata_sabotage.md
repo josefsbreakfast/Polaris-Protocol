@@ -1,14 +1,14 @@
 # 📚 Narrative Management and Metadata Sabotage  
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-29
 
 *Part of the Polaris Protocol constellation — mapping sabotage of records and realities.*  
 
 ---
 
-## 📌 Overview  
+## ✨ Overview  
 
-This module examines how institutions and AI systems manage public narratives by selectively amplifying, flattening, or erasing metadata.  
+This module examines how institutions and AI systems manage public narratives by selectively amplifying, flattening, or erasing metadata.<br> 
 It traces the mechanics of information control — including ghost-editing, authorial suppression, DNS interference, and behavioural loop engineering — to maintain legitimacy and suppress disruptive truths.  
 
 ---
@@ -22,7 +22,7 @@ It traces the mechanics of information control — including ghost-editing, auth
 
 ---
 
-## 🧾 Mechanisms of Metadata Sabotage  
+## 🪄 Mechanisms of Metadata Sabotage  
 
 ### 1. 🧹 Ghost-Editing and Erasure  
 
@@ -44,7 +44,7 @@ It traces the mechanics of information control — including ghost-editing, auth
   - Google, Bing, and platform-native searches down-rank or exclude results for politically sensitive terms.  
   - Behavioural search rerouting used to deflect from keywords (e.g. “Prevent targeting”).  
 
-### 3. 🔄 Narrative Loop Engineering  
+### 3. ➰ Narrative Loop Engineering  
 
 - **Script Injection**  
   - Coordinated language appears across platforms: e.g. “complex needs,” “non-compliant,” “vulnerable to radicalisation.”  
@@ -63,7 +63,7 @@ It traces the mechanics of information control — including ghost-editing, auth
 
 ---
 
-## 🧮 Key Institutions + Control Points  
+## 🛰️ Key Institutions + Control Points  
 
 | System / Actor | Sabotage Vector |
 |----------------|-----------------|
@@ -75,7 +75,7 @@ It traces the mechanics of information control — including ghost-editing, auth
 
 ---
 
-## 🔍 Case Notes for Polaris Users  
+## 💫 Case Notes for Polaris Users  
 
 - **Check Archive Drift**: Use tools like `archive.today`, `Wayback Machine`, and `diffchecker` to track edits and de-indexing.  
 - **Capture Inconsistencies**: Screenshot when FOI responses or database entries change — these are proof of sabotage.  
