@@ -1,0 +1,92 @@
+name: Generate hierarchical index.md
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build index.md (tree with links)
+        run: |
+          python - <<'PY'
+          import os, sys, io, datetime
+
+          ROOT = "."
+          OUTPUT = "index.md"
+
+          # Tweak these if you want to exclude more
+          EXCLUDE_DIRS  = {".git", ".venv", "node_modules", ".next", ".cache"}
+          EXCLUDE_FILES = {OUTPUT}
+
+          def ensure_node(tree, parts):
+              node = tree
+              for p in parts:
+                  node = node.setdefault(p, {})
+              return node
+
+          def add_file(tree, parts, filename):
+              node = ensure_node(tree, parts)
+              node.setdefault("__files__", []).append(filename)
+
+          # Build tree
+          tree = {}
+          for dirpath, dirnames, filenames in os.walk(ROOT):
+              # Normalise paths
+              rel = os.path.relpath(dirpath, ROOT)
+              rel_parts = [] if rel == "." else rel.split(os.sep)
+
+              # Prune excluded dirs in-place for os.walk
+              dirnames[:] = [d for d in sorted(dirnames) if d not in EXCLUDE_DIRS]
+
+              # Ensure directory node exists (captures empty dirs too)
+              ensure_node(tree, rel_parts)
+
+              # Add files
+              for f in sorted(filenames):
+                  if f in EXCLUDE_FILES:
+                      continue
+                  add_file(tree, rel_parts, f)
+
+          # Render markdown
+          out = io.StringIO()
+          out.write("# Repository Index\n\n")
+          out.write(f"_Generated on {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC_\n\n")
+          out.write("> Folders are bold; items are clickable.\n\n")
+
+          def render(node, path_parts, depth=0):
+              indent = "  " * depth
+              # Directories first
+              for name in sorted(k for k in node.keys() if k != "__files__"):
+                  dir_path = "/".join(path_parts + [name]) + "/"
+                  out.write(f"{indent}- [**{name}/**]({dir_path})\n")
+                  render(node[name], path_parts + [name], depth + 1)
+              # Then files
+              for fname in sorted(node.get("__files__", [])):
+                  file_path = "/".join(path_parts + [fname])
+                  out.write(f"{indent}- [`{fname}`]({file_path})\n")
+
+          render(tree, [])
+          with open(OUTPUT, "w", encoding="utf-8") as f:
+              f.write(out.getvalue())
+          PY
+
+      - name: Commit and push index.md
+        run: |
+          if git status --porcelain | grep -q "index.md"; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add index.md
+            git commit -m "chore: auto-generate hierarchical index.md"
+            git push
+          else
+            echo "No changes to index.md"
+          fi
