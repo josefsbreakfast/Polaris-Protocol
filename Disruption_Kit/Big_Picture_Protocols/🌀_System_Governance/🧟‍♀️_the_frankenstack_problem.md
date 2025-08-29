@@ -1,6 +1,8 @@
-# 🧟‍♀️ The Frankenstack Problem  
-**First created:** 2025-08-20 | **Last updated:** 2025-08-27  
-*How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*  
+# 🧟‍♀️ The Frankenstack Problem 
+
+**First created:** 2025-08-20 | **Last updated:** 2025-08-29
+
+*How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects.*  
 
 ---
 
@@ -134,4 +136,7 @@ It maps how counter-extremism, safeguarding, and healthcare pipelines fused into
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-27_
+
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-08-29_
