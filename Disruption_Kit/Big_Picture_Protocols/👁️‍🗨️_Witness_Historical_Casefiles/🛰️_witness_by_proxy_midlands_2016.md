@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-16 | **Last updated:** 2025-08-30
 
-*Field log reconstructing what colleagues or outsiders would have observed in the Midlands surveillance climate post-2016*  
+*Field log reconstructing what colleagues or outsiders would have observed in the Midlands surveillance climate post-2016.*  
 
 ---
 
