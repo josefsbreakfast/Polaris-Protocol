@@ -1,6 +1,6 @@
 # 🧬 Twinned Signature
 
-**First created:** 2025-08-25 | **Last updated:** 2025-08-30
+**First created:** 2025-08-25 | **Last updated:** 2025-08-30 <br>
 
 *A declaration of doubled authorship without divided sovereignty.*
 
