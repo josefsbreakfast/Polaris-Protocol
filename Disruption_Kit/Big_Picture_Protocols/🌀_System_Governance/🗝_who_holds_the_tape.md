@@ -1,8 +1,8 @@
 # 🗝 Who Holds the Tape
 
-**First created:** 2025-08-11 | **Last updated:** 2025-08-29
+**First created:** 2025-08-11 | **Last updated:** 2025-08-30
 
-*Casefile on behavioural capture, data custody, and institutional containment pathways*  
+*Casefile on behavioural capture, data custody, and institutional containment pathways.*  
 
 ---
 
@@ -103,4 +103,4 @@ It documents how behavioural capture events are staged as “care” or “acade
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-08-30_
