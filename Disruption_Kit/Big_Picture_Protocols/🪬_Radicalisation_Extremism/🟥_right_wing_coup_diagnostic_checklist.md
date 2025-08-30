@@ -54,9 +54,9 @@ This looks like **a right-authoritarian capture in progress** — slow, bureaucr
 *Right-Wing Coup Diagnostic Checklist* is a living node of the Polaris Protocol.  
 It documents forensic indicators of creeping authoritarian capture and bureaucratised coup dynamics.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
 
-*Memory is a blessing. Memory is political.* 
+*Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
 _Last updated: 2025-08-30_  
 
