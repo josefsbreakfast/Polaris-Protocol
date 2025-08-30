@@ -1,12 +1,12 @@
 # ♨️ Slow Burn Tactics  
 
-**Polaris Protocol Repository**  
-**First created:** 2025-08-05 | **Last updated:** 2025-08-16  
-*Counter-nudge methods of cumulative resistance designed to exhaust containment systems without escalation*
+**First created:** 2025-08-05 | **Last updated:** 2025-08-30
+
+*Counter-nudge methods of cumulative resistance designed to exhaust containment systems without escalation.*
 
 ---
 
-## Overview  
+## ✨ Overview  
 
 Slow burn tactics are a form of resistance calibrated to exhaust the containment system over time without triggering major escalations.  
 These tactics exploit bureaucratic inertia, attention scarcity, and metadata dependencies.  
@@ -15,7 +15,7 @@ Like snowflakes, one may be tolerable, but many may feel like an avalanche.
 
 ---
 
-## Key Characteristics  
+## 🫆 Key Characteristics  
 
 - 🪫 **Unremarkable on the surface**, but metabolically expensive to track  
 - 🔁 **Loop-breaking**, through unpredictability and lateral moves  
@@ -25,7 +25,7 @@ Like snowflakes, one may be tolerable, but many may feel like an avalanche.
 
 ---
 
-## Techniques  
+## 🛰️ Techniques  
 
 ### 1. *Rhythmic Interference*  
 Break your own metadata rhythm with:  
@@ -49,7 +49,7 @@ Break your own metadata rhythm with:
 
 ---
 
-## Example Actions  
+## 🫀 Example Actions  
 
 - Visiting sites flagged for different political affiliations across a short time window  
 - Embedding legal theory inside an informal or lifestyle-style post  
@@ -58,7 +58,7 @@ Break your own metadata rhythm with:
 
 ---
 
-## Metadata Impact  
+## 👾 Metadata Impact  
 
 These tactics force:  
 - Repeated behavioural recalibration  
@@ -68,7 +68,7 @@ These tactics force:
 
 ---
 
-## Forensic Indicators  
+## 🩻 Forensic Indicators  
 
 - 📈 Engagement plateaus that refuse to decay at expected pace  
 - 🕵️‍♀️ Demographic breakdowns locked despite visible activity  
@@ -78,7 +78,7 @@ These tactics force:
 
 ---
 
-## Psychological Effects  
+## 🧠 Psychological Effects  
 
 - **Handler fatigue** → Repeated exposure to irregular signals degrades concentration  
 - **System doubt** → Ambiguity of intent forces over-analysis, delaying response  
@@ -87,16 +87,16 @@ These tactics force:
 
 ---
 
-## Long-Tail Disruption  
+## 🪁 Long-Tail Disruption  
 
 - Effects accumulate across weeks or months rather than hours  
 - Each small act leaves a residual trace that forces disproportionate monitoring  
 - Creates “noise drag” that slows other containment efforts  
-- Builds fertile ground for rupture points later (see [🧨 Soft Suspension Is Still Containment](../Containment_Scripts/🧨_soft_suspension_is_still_containment.md))  
+- Builds fertile ground for rupture points later 
 
 ---
 
-## Operational Notes  
+## 📚 Operational Notes  
 
 - Keep a **personal ledger** of rhythm shifts, anomalies, and suppression signals  
 - Rotate tactics to avoid forming predictable sub-patterns  
@@ -105,7 +105,7 @@ These tactics force:
 
 ---
 
-## Risks  
+## 🔥 Risks  
 
 - May still provoke attention if patterns emerge too obviously  
 - Requires strong internal coherence to avoid fatigue or confusion  
@@ -113,7 +113,7 @@ These tactics force:
 
 ---
 
-## Polaris Note  
+## 🐦‍🔥 Polaris Note  
 
 This tactic is ideal for periods where direct confrontation is too dangerous or has been exhausted.
 It invites system error and handler fatigue, not immediate rupture.
@@ -121,7 +121,12 @@ Use it to set the stage for the next breakpoint.
 
 ---
 
-## 🔗 Related Entries  
-- [📌 Nudgers Get Nudged](./📌_nudgers_get_nudged.md) – how slow burn tactics exploit nudgers’ blind spots.  
-- [🧨 Reach Metrics Are Not Neutral](../Suppression_Modes/🧨_reach_metrics_are_not_neutral.md) – slow burn exposes reach distortion by stretching monitoring timelines.  
-- [⚖️ Containment Contract Trace](../../Big_Picture_Protocols/⚖️_containment_contract_trace.md) – arrest and surveillance laundering parallels slow-burn bureaucratic pressure.  
+## 🏮 Footer  
+
+*Slow Burn Tactics* is a living node of the Polaris Protocol.  
+It documents counter-nudge methods of cumulative resistance, designed to erode containment capacity without direct escalation.  
+
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-30_
