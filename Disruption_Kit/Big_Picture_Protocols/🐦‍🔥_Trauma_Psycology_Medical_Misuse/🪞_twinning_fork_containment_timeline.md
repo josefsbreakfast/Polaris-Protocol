@@ -1,6 +1,8 @@
-# 🪞 Twinning Fork Containment Timeline  
-**First created:** 2025-08-12 | **Last updated:** 2025-08-27  
-*Behavioural twinning, ghost forks, and containment chronology*
+# 🪞 Twinning Fork Containment Timeline
+
+**First created:** 2025-08-12 | **Last updated:** 2025-08-30
+
+*Behavioural twinning, ghost forks, and containment chronology.*
 
 ---
 
@@ -99,11 +101,8 @@
 *Twinning Fork Containment Timeline* is a living node of the Polaris Protocol.  
 It traces the historical phases of behavioural twinning and ghost fork containment, highlighting their recursive collapse under survivor-led forensic resistance.  
 
-> 📡 Cross-references:  
-> - [Twinning Detection](../Twinning/🧬_twinning_detection.md) — tracing and untangling containment twins  
-> - [Twinned Signature](../Twinning/🧬_twinned_signature.md) — doubled authorship as resistance  
-> - [Psychographic Modelling and Twinning](../Big_Picture_Protocols/🧬_psychographic_modelling_and_twinning.md) — systemic analysis of profiling and predictive loops  
+🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_
