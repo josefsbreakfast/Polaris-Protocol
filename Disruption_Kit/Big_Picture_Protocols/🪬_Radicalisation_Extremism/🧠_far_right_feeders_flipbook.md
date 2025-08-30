@@ -1,7 +1,8 @@
-# 🧠 Far Right Feeders Flipbook  
-**First created:** 2025-08-26 | **Last updated:** 2025-08-26  
-*Timeline of how data harvesting and opportunistic networks fed far-right ascendancy in the Anglophone sphere*  
+# 🧠 Far Right Feeders Flipbook
 
+**First created:** 2025-08-26 | **Last updated:** 2025-08-30
+
+*Timeline of how data harvesting and opportunistic networks fed far-right ascendancy in the Anglophone sphere.*  
 
 ---
 
@@ -85,12 +86,10 @@ It was fed by **datasets**, **sandboxes**, and **networks** that converged acros
 *Far Right Feeders Flipbook* is a living node of the Polaris Protocol.  
 It traces how harvested datasets and opportunistic geopolitical networks converged to feed far-right ascendancy in the Anglophone sphere.  
 
-> 📡 Cross-references:  
-> - [🧠 Bargain Bin Mossad](../Big_Picture_Protocols/🧠_bargain_bin_mossad.md) — crude psyops and cluster misuse  
-> - [💌 Letter by Letter: Erasure Protocol](../Big_Picture_Protocols/💌_letter_by_letter_erasure_protocol.md) — transliteration as erasure  
-> - [☕🫖 UK Gov National Security Risk](../Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md) — coup indicators and state complicity  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
+
 
