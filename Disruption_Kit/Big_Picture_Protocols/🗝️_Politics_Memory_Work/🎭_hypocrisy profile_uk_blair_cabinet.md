@@ -1,6 +1,6 @@
 # 🎭 Hypocrisy Profile — Blair-era Cabinet (2005–2010)
-
-**First created:** 2025-08-29 | **Last updated:** 2025-08-29
+<br>
+**First created:** 2025-08-29 | **Last updated:** 2025-08-30 <br>
 
 ## 📣 What they demanded of others
 
@@ -21,3 +21,15 @@
 - **Projected toughness:** talked as if they embodied Churchillian grit.
 - **Reality check:** structurally insulated, rarely exposed to the conditions they authorised.
 - **Fragility exposed:** the idea of restraint, interrogation, or forced endurance was unbearable for them — yet they sanctioned it against civilians, soldiers, and detainees.
+
+---
+
+## 🏮 Footer
+
+*Hypocrisy Profile — Blair-era Cabinet* is a live node of Polaris Protocol.
+
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+
+*Memory is a blessing. Memory is political.* 
+
+_Last updated: 2025-08-30_  
