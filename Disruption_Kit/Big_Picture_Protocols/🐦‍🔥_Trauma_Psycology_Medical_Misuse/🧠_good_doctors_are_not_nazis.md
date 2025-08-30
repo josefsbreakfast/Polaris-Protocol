@@ -1,6 +1,6 @@
 # 🧠 Good Doctors Are Not Nazis
 
-**First created:** 2025-08-26 | **Last updated:** 2025-08-29
+**First created:** 2025-08-26 | **Last updated:** 2025-08-30
 
 *Why medical ethics and state surveillance cannot coexist.*
 
@@ -63,6 +63,6 @@ It documents the ethical line breached when medical practice is co-opted into se
 
 *Survivors voices must always live on.*  
 
-🏮 [Return to Trauma, Psychology, & Medical Misuse Guide](./README.md)  
+🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-08-30_
