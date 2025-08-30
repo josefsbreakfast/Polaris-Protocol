@@ -1,6 +1,8 @@
-# ☕🫖 Is the Current UK Government a Threat to National Security?  
-**First created:** 2025-08-04 | **Last updated:** 2025-08-26  
-*Threat assessment: UK government conduct as a national security risk*  
+# ☕🫖 Is the Current UK Government a Threat to National Security?
+
+**First created:** 2025-08-04 | **Last updated:** 2025-08-30
+
+*Threat assessment: UK government conduct as a national security risk.*  
 
 ---
 
@@ -113,10 +115,9 @@ This material should be reviewed by:
 *UK Government National Security Risk* is a living node of the Polaris Protocol.  
 It documents systemic risks where government conduct itself constitutes a security threat.  
 
-> 📡 Cross-references:  
-> - [🛰 Surveillance Infrastructure](./🛰_surveillance_infrastructure.md) — Prevent/CVE capture systems  
-> - [🧠 Targeting Logic: Empathy is a Threat](./🧠_targeting_logic_empathy_is_a_threat.md) — emotional targeting risk surface  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
+
