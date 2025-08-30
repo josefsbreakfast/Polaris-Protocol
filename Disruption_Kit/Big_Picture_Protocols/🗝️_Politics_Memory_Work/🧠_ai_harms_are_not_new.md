@@ -1,6 +1,8 @@
-# 🧠 AI Harms Are Not New — Polaris Big Picture  
-**First created:** 2025-08-13 | **Last updated:** 2025-08-26  
-*Systemic analysis of AI harm as continuation of longstanding metadata architectures*  
+# 🧠 AI Harms Are Not New — Polaris Big Picture
+
+**First created:** 2025-08-13 | **Last updated:** 2025-08-30
+
+*Systemic analysis of AI harm as continuation of longstanding metadata architectures.*  
 
 ---
 
@@ -54,7 +56,7 @@ The aim of the latter is not to win the forum — it is to own the network.
 
 ---
 
-## 🧭 The Polaris Position  
+## 🛰️ The Polaris Position  
 
 We need accountability for AI tools, but that is not enough.  
 We need proactive, public-interest cybersecurity for the demos.  
@@ -77,14 +79,7 @@ This pattern is familiar from other struggles, including advocacy for Palestine:
 
 ---
 
-## 📡 Cross-references  
-
-- [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md)  
-- [🧠 Fisher Fork Theory](../Big_Picture_Protocols/🧠_fisher_fork_theory.md)  
-
----
-
-## 🏷️ Tags  
+## 🔖 Tags  
 
 `#PolarisProtocol` `#MetadataMatters` `#AccountabilityInAI` `#TechnicalEthics` `#DataGovernance`  
 
@@ -95,6 +90,9 @@ This pattern is familiar from other struggles, including advocacy for Palestine:
 *AI Harms Are Not New — Polaris Big Picture* is a living node of the Polaris Protocol.  
 It documents how AI harm is a continuation of long-standing metadata architectures, political silencing, and ignored survivor testimony.  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-_Last updated: 2025-08-26_  
+*Memory is a blessing. Memory is political.* 
+
+_Last updated: 2025-08-30_  
+
