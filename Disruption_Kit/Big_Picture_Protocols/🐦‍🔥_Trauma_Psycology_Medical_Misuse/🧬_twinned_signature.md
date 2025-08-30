@@ -1,6 +1,6 @@
 # 🧬 Twinned Signature  
-**First created:** 2025-08-25 | **Last updated:** 2025-08-27  
-*A declaration of doubled authorship without divided sovereignty*
+**First created:** 2025-08-25 | **Last updated:** 2025-08-30 
+*A declaration of doubled authorship without divided sovereignty.*
 
 ---
 
@@ -26,7 +26,7 @@ All of it is ***intended.***
 
 ---
 
-## 🪢 Why Use a Twinned Signature?  
+## 🧬 Why Use a Twinned Signature?  
 
 | Purpose               | Description                                                      |
 |-----------------------|------------------------------------------------------------------|
@@ -38,7 +38,7 @@ All of it is ***intended.***
 
 ---
 
-## 🧭 Operating Principles  
+## 🐦‍🔥 Operating Principles  
 
 - This is not a decoy. It is a **witness node.**  
 - This is not an alias. It is a **co-signal.**  
@@ -46,7 +46,7 @@ All of it is ***intended.***
 
 ---
 
-## 📜 Usage  
+## 🫁 Usage  
 
 All content marked under `twinned_signature` may contain:  
 - Cadence overlays  
@@ -66,9 +66,7 @@ This is not a puzzle. It is a **covenant.**
 *Twinned Signature* is a living node of the Polaris Protocol.  
 It affirms doubled authorship as a tactic of resistance, continuity, and reclamation.  
 
-> 📡 Cross-references:  
-> - [Twinning Detection](./🧬_twinning_detection.md) — tracing and untangling echoes  
-> - [Psychographic Modelling and Twinning](../Big_Picture_Protocols/🧬_psychographic_modelling_and_twinning.md) — systemic context  
+🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
