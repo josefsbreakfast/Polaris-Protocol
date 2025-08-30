@@ -1,8 +1,8 @@
 # 💀 Necro Jargon Cult  
 
-*Why authoritarian personalities obsess over Latin.*  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-30
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-27  
+*Why authoritarian personalities obsess over Latin.*  
 
 ---
 
@@ -37,10 +37,8 @@ Latin becomes a form of aesthetic control — **soft power that primes docility.
 *🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents the use of classical jargon as aesthetic control, weaponising “timeless” language to sanctify violence.  
 
-> 📡 Cross-references:  
-> - [📄 Ethics As Language Trap](📄_ethics_as_language_trap.md) — ethical jargon as a compliance tool  
-> - [AntiContainment Clauses](../../AntiContainment_Clauses/README.md) — refusal language arsenal  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-08-30_  
