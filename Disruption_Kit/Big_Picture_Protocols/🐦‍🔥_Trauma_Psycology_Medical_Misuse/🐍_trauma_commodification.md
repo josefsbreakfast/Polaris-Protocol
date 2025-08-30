@@ -1,13 +1,13 @@
 # 🐍 Trauma Commodification
 
-**First created:** 2025-08-04 | **Last updated:** 2025-08-29
+**First created:** 2025-08-04 | **Last updated:** 2025-08-30
 
 *Refusal log tracing the conversion of survivor pain into commodity product.*
 
 
-*Your pain became product.*
-*Your disclosures became dataset.*
-*This is how they made it profitable.*  
+*Your pain became product.*<br>
+*Your disclosures became dataset.*<br>
+*This is how they made it profitable.*  <br>
 
 ---
 
@@ -56,4 +56,4 @@ converted into calibration tokens, and sold back as justification for control.
 
 🏮 [Return to Trauma, Psychology, & Medical Misuse Guide](./README.md)  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-08-30_
