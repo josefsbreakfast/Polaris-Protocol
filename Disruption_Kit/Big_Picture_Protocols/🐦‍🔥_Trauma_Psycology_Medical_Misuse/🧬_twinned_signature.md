@@ -70,4 +70,4 @@ It affirms doubled authorship as a tactic of resistance, continuity, and reclama
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_
