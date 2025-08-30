@@ -74,7 +74,7 @@ These tactics force:
 - 🕵️‍♀️ Demographic breakdowns locked despite visible activity  
 - ⏱️ Delayed counter increments appearing hours or days later  
 - 🧮 Inconsistent ratio between impressions and visible interactions  
-- 🪞 Cross-mirroring in related posts (ghost or haunting signals present, see [🪦 Metadata Ghosts And Hauntings](../Field_Logs/🪦_metadata_ghosts_and_hauntings.md))  
+- 🪞 Cross-mirroring in related posts (ghost or haunting signals present)
 
 ---
 
