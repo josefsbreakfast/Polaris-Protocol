@@ -1,6 +1,6 @@
 # 🎭 RIPA Compliance Theatre  
 
-**First created:** 2025-08-04 | **Last updated:** 2025-08-27  
+**First created:** 2025-08-04 | **Last updated:** 2025-08-30  
 
 > **“They said it was lawful. They meant it was theatrically timed.”**  
 > *RIPA (Regulation of Investigatory Powers Act) and allied powers convert coercion into performance.  
@@ -107,11 +107,9 @@ The performance is control.
 *🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents how surveillance law operates as performance — ritualised acts of coercion presented as due process.  
 
-> 📡 Cross-references:  
-> - [🛡 Safeguarding Obedience Division](🛡️_safeguarding_obedience_division.md) — “care” rebranded as surveillance  
-> - [AntiContainment Clauses](../../AntiContainment_Clauses/README.md) — refusal language arsenal  
-> - [Fork Taxonomy](../../Fork_Taxonomy/README.md) — clone/fork containment tactics  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_  
+_Last updated: 2025-08-30_  
+
