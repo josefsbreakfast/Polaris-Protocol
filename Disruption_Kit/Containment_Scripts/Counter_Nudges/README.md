@@ -1,6 +1,6 @@
 # 🧭 Counter Nudges  
 **First created:** 2025-08-17 | **Last updated:** 2025-08-30  
-*Scripts and forensic notes on reversing behavioural interventions and exposing manipulative nudging systems*  
+*Scripts and forensic notes on reversing behavioural interventions and exposing manipulative nudging systems.*
 
 ---
 
@@ -14,6 +14,9 @@
 
 - [🧨 Polite Post Containment Probe](./🧨_polite_post_containment_probe.md)  
   *Neutral, fact-based posts designed to test suppression and account-level throttling.*  
+
+- [🛠 Practical Resilience Nodes](./🛠_practical_resilience_nodes.md)  
+  *Seed collection of survivor-led strategies for conserving energy and redistributing labour under containment.*  
 
 - [🍬 Containment Toffee Plot (2025-08-12)](./🍬_containment_toffee_plot_2025-08-12_BR_compact.png)  
   *Diagram showing expected vs observed reach under containment conditions.*  
