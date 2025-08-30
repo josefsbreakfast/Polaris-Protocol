@@ -79,6 +79,6 @@ It documents the strategic and technical functions of audio capture in behaviour
 
 *Survivors voices must always live on.*  
 
-🏮 [Return to Trauma, Psychology, & Medical Misuse Guide](./README.md)  
+🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
 
 _Last updated: 2025-08-30_
