@@ -1,5 +1,7 @@
-# 🌀 Exhaustion as a Containment Layer  
-**First created:** 2025-08-17 | **Last updated:** 2025-08-17  
+# 🌀 Exhaustion as a Containment Layer
+
+**First created:** 2025-08-17 | **Last updated:** 2025-08-30
+
 *Exhaustion and friction as weaponised governance, observed in daily interference and placed within a two-decade lineage of suppression tactics.*  
 
 ---
@@ -86,7 +88,7 @@ Yet when forced, some tactics can help redistribute the weight:
 - **Externalise memory**: use logs/archives so erasure cannot fully destroy continuity.  
 - **Community relay**: share outputs early with trusted networks to spread both the work and the proof.  
 
-📌 *(Cross-link: `Counter_Nudges/🛠 practical_resilience_nodes.md` — placeholder for survivor strategies collection.)*  
+See [🛠 Practical Resilience Nodes](../Containment_Scripts/Counter_Nudges/🛠_practical_resilience_nodes.md) — survivor strategies collection.  
 
 ---
 
@@ -115,4 +117,16 @@ Documenting the interference ensures it cannot pass as simple “forgetting.”
 
 ---
 
-🌌 *Polaris Protocol · Suppression_Modes*  
+## 🏮 Footer  
+
+*Exhaustion as a Containment Layer* is a living node of the Polaris Protocol.  
+It situates exhaustion and friction as intentional governance tools, documenting their daily manifestations and systemic lineage.  
+
+> 📡 Cross-references:  
+> - [Counter Nudges](../Containment_Scripts/Counter_Nudges/) — reversal methods for behavioural interventions  
+> - [Containment Scripts](../Containment_Scripts/) — logs of suppression and visibility manipulation methods  
+> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural analyses of systemic containment dynamics  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-30_
