@@ -1,6 +1,8 @@
-# 🧠 Le Carré Meets Alice in Wonderland  
-**First created:** 2025-08-26 | **Last updated:** 2025-08-26  
-*Allegorical forensics: when molehunts turn to fairy tales and the Circus collapses under nonsense logic*  
+# 🧠 Le Carré Meets Alice in Wonderland
+
+**First created:** 2025-08-26 | **Last updated:** 2025-08-30
+
+*Allegorical forensics: when molehunts turn to fairy tales and the Circus collapses under nonsense logic.*  
 
 ---
 
@@ -68,11 +70,8 @@ flowchart TD
 *Le Carré Meets Alice in Wonderland* is a living node of the Polaris Protocol.  
 It uses allegory to map molehunts, compromised opposition, and Wonderland logic as signatures of captured governance.  
 
-> 📡 Cross-references:  
-> - [🧠 Bargain Bin Mossad](../Big_Picture_Protocols/🧠_bargain_bin_mossad.md) — crude psyops and cluster misuse  
-> - [🧠 Far Right Feeders Flipbook](../Big_Picture_Protocols/🧠_far_right_feeders_flipbook.md) — political history of right-wing pipelines  
-> - [☕🫖 UK Gov National Security Risk](../Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md) — coup dynamics and state complicity  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
