@@ -1,6 +1,8 @@
-# 💌 Letter by Letter: Erasure Protocol  
-**First created:** 2025-08-08 | **Last updated:** 2025-08-26  
-*Linguistic erasure as a tool of profiling and control*  
+# 💌 Letter by Letter: Erasure Protocol
+
+**First created:** 2025-08-08 | **Last updated:** 2025-08-30
+
+*Linguistic erasure as a tool of profiling and control.*  
 
 ---
 
@@ -69,22 +71,21 @@ Every “Kyiv” resisted, every Roma vowel miswritten, every Yiddish sound cut 
 
 ---
 
+## 🔖 Tags  
+
+`#linguistic_erasure` `#transliteration` `#colonial_metadata` `#voice_capture` `#identity_suppression`  
+
+---
+
 ## 🏮 Footer  
 
 *Letter by Letter: Erasure Protocol* is a living node of the Polaris Protocol.  
 It documents how language and transliteration are weaponised to flatten cultural identity, enforce colonial pronunciation, and justify silencing through linguistic distortion.  
 
-> 📡 Cross-references:  
-> - [🐍 Trauma Commodification](../Big_Picture_Protocols/🐍_trauma_commodification.md) — extraction of pain into product  
-> - [👀 Public Perception Gap](../Big_Picture_Protocols/👀_public_perception_gap.md) — optics and narrative silencing  
-> - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — breakdowns at intersections of identity and metadata  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
 
----
 
-## 🏷️ Tags  
-
-`#linguistic_erasure` `#transliteration` `#colonial_metadata` `#voice_capture` `#identity_suppression`  
