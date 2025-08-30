@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-30 19:18:57 UTC_
+_Generated on 2025-08-30 19:20:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -111,6 +111,7 @@ _Generated on 2025-08-30 19:18:57 UTC_
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
       - [`♨️_slow_burn_tactics.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/♨️_slow_burn_tactics.md)
       - [`🍬_containment_toffee_plot_2025-08-12_BR_compact.png`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🍬_containment_toffee_plot_2025-08-12_BR_compact.png)
+      - [`🛠_practical_resilience_nodes.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🛠_practical_resilience_nodes.md)
       - [`🧨_nudgers_get_nudged.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_nudgers_get_nudged.md)
       - [`🧨_polite_post_containment_probe.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_polite_post_containment_probe.md)
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
