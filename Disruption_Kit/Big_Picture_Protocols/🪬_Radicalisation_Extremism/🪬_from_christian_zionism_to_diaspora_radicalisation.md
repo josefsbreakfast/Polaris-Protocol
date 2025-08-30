@@ -233,9 +233,9 @@ flowchart TD
 *From Christian Zionism to Diaspora Radicalisation* is a living node of the Polaris Protocol.  
 It documents how US evangelical comms toolkits migrated into Israeli politics and diaspora monitoring regimes, reformatting communal life into binary, apocalyptic, and donor-theatre frames.
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
 
-*Memory is a blessing. Memory is political.* 
+*Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
 _Last updated: 2025-08-30_  
 
