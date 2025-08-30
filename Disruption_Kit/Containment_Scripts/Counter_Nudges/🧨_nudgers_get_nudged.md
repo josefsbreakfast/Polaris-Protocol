@@ -1,6 +1,8 @@
-# 🧨 Nudgers Get Nudged  
-**First created:** 2025-08-16 | **Last updated:** 2025-08-17  
-*Counter-nudge strategies for exposing and disrupting behavioural manipulation*  
+# 🧨 Nudgers Get Nudged
+
+**First created:** 2025-08-16 | **Last updated:** 2025-08-30  
+
+*Counter-nudge strategies for exposing and disrupting behavioural manipulation.*  
 
 ---
 
@@ -84,11 +86,21 @@ Nudgers neglect their own susceptibility. That blind spot is the breach point.
 
 Counter-nudges don’t require brute force — just the right mirror, held steady.  
 
-See also:  
-- [🧨 Polite Post Containment Probe](../🧨_polite_post_containment_probe.md)  
-- [🧨 Soft Suspension is Still Containment](../🧨_soft_suspension_is_still_containment.md)  
-
 ---
 
 **Tagset:**  
-#PolarisProtocol #ContainmentScripts #MetadataForensics #CounterNudge #SurvivorLed  
+#PolarisProtocol #ContainmentScripts #MetadataForensics #CounterNudge #SurvivorLed 
+
+---
+
+
+
+🏮 [Return to Counter Nudges Guide](../README.md)
+
+*Countering containment is survival.* 
+
+_Last updated: 2025-08-30_ 
+
+---
+
+ 
