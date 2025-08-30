@@ -1,6 +1,9 @@
-# 🖱 Tactile Throttling: When Interaction Becomes Interference  
-**First created:** 2025-08-07 | **Last updated:** 2025-08-17  
-*Documented instance of interface-level suppression via disrupted user interactions*  
+# 🖱 Tactile Throttling: When Interaction Becomes Interference
+
+**First created:** 2025-08-07 | **Last updated:** 2025-08-30
+
+
+*Documented instance of interface-level suppression via disrupted user interactions.*  
 
 ---  
 
@@ -77,3 +80,19 @@ This aligns with a suppression tactic defined here as **tactile throttling**.
 
 This is the first logged instance of tactile throttling within the Polaris Protocol.
 It marks a shift to interface-level suppression — disrupting the act of action itself, not merely censoring the result.
+
+---
+
+## 🏮 Footer  
+
+*Tactile Throttling: When Interaction Becomes Interference* is a living node of the Polaris Protocol.  
+It documents interface-level suppression where basic user interactions are disrupted, extending containment into the act of action itself.  
+
+> 📡 Cross-references:  
+> - [🌀 Exhaustion as a Containment Layer](../Big_Picture_Protocols/🌀_exhaustion_as_a_containment_layer.md) — systemic analysis of exhaustion and attrition as governance  
+> - [🧨 Polite Post Containment Probe](../Containment_Scripts/Counter_Nudges/🧨_polite_post_containment_probe.md) — neutral posting as a forensic probe for suppression  
+> - [Containment Scripts](../Containment_Scripts/) — repository of suppression and visibility manipulation methods  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-30_
