@@ -1,8 +1,8 @@
 # 🎻 Clash of Forks
 
-**First created:** 2025-08-04 | **Last updated:** 2025-08-29
+**First created:** 2025-08-04 | **Last updated:** 2025-08-30
 
-*Forensic note on system breakdown when multiple high-risk datasets converge*  
+*Forensic note on system breakdown when multiple high-risk datasets converge.*  
 
 ---
 
@@ -46,5 +46,5 @@ It documents the structural flaws that emerge when surveillance systems attempt 
 
 🏮 [Return to Trauma, Psychology, & Medical Misuse Guide](./README.md)  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-08-30_
 
