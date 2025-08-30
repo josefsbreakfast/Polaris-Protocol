@@ -88,10 +88,7 @@ It marks a shift to interface-level suppression — disrupting the act of action
 *Tactile Throttling: When Interaction Becomes Interference* is a living node of the Polaris Protocol.  
 It documents interface-level suppression where basic user interactions are disrupted, extending containment into the act of action itself.  
 
-> 📡 Cross-references:  
-> - [🌀 Exhaustion as a Containment Layer](../Big_Picture_Protocols/🌀_exhaustion_as_a_containment_layer.md) — systemic analysis of exhaustion and attrition as governance  
-> - [🧨 Polite Post Containment Probe](../Containment_Scripts/Counter_Nudges/🧨_polite_post_containment_probe.md) — neutral posting as a forensic probe for suppression  
-> - [Containment Scripts](../Containment_Scripts/) — repository of suppression and visibility manipulation methods  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
