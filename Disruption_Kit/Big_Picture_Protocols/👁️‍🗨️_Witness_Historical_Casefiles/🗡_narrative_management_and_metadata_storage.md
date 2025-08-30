@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-06 | **Last updated:** 2025-08-30
 
-*How metadata sabotage governs narrative visibility and erases memory*  
+*How metadata sabotage governs narrative visibility and erases memory.*  
 
 ---
 
