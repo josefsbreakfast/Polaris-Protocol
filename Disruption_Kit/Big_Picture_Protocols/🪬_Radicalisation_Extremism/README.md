@@ -1,5 +1,7 @@
-# 🪬 Radicalisation & Extremism  
-**First created:** 2025-08-27 | **Last updated:** 2025-08-27  
+# 🪬 Radicalisation & Extremism
+
+**First created:** 2025-08-27 | **Last updated:** 2025-08-30
+
 *Doctrines on far-right pipelines, state complicity, and diaspora radicalisation.*  
 
 ---
@@ -95,11 +97,8 @@ flowchart TD
 *🪬 Radicalisation & Extremism* is a living node of the Polaris Protocol.  
 It documents how extremist networks are seeded and maintained, and how “security” frameworks selectively suppress dissent while enabling authoritarian drift.  
 
-> 📡 Cross-references:  
-> - [🧠 Cognitive Forks Get Dumber When Hot](../Big_Picture_Protocols/🧠_cognitive_forks_get_dumber_when_hot.md) — psycho-political collapse of extremist scholars  
-> - [🧾 Data Is Their Cage Too](../Big_Picture_Protocols/🧾_data_is_their_cage_too.md) — data control as carceral logic  
-> - [🧵 Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md) — signals of early-stage radicalisation  
+🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
 
-*Boxing humans into little chat robots is not normal behaviour. 
-Humans must breathe, and they must live. 
-Give them the tools to survive and grow.*  
+*Survivors radiate soverignity. Compassion is the extremis of survival.* 
+
+_Last updated: 2025-08-30_  
