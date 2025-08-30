@@ -1,6 +1,8 @@
-# 🟥 Right-Wing Coup Diagnostic Checklist (UK 2025)  
-**First created:** 2025-08-26 | **Last updated:** 2025-08-26  
-*Forensic indicators of creeping / constitutional coup dynamics in the UK*  
+# 🟥 Right-Wing Coup Diagnostic Checklist (UK 2025)
+
+**First created:** 2025-08-26 | **Last updated:** 2025-08-30
+
+*Forensic indicators of creeping / constitutional coup dynamics in the UK.*  
 
 ---
 
@@ -52,11 +54,9 @@ This looks like **a right-authoritarian capture in progress** — slow, bureaucr
 *Right-Wing Coup Diagnostic Checklist* is a living node of the Polaris Protocol.  
 It documents forensic indicators of creeping authoritarian capture and bureaucratised coup dynamics.  
 
-> 📡 Cross-references:  
-> - [☕🫖 UK Government National Security Risk](./☕🫖_uk_gov_national_security_risk.md) — structural threat assessment  
-> - [🛰 Surveillance Infrastructure](./🛰_surveillance_infrastructure.md) — Prevent/CVE capture systems  
-> - [🧠 Targeting Logic: Empathy is a Threat](./🧠_targeting_logic_empathy_is_a_threat.md) — emotional targeting risk surface  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
+
