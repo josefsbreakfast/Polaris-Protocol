@@ -153,9 +153,9 @@ flowchart LR
 *Radicalisation Pipelines and Platform Culture* is a living node of the Polaris Protocol.  
 It documents radicalisation pipelines and platform asymmetries — showing how extremism is incubated while dissent is over-policed.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
 
-*Memory is a blessing. Memory is political.* 
+*Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
 _Last updated: 2025-08-30_  
 
