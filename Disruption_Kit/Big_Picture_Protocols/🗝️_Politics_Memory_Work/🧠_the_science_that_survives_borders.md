@@ -1,6 +1,8 @@
-# 🧠 The Science That Survives Borders  
-**First created:** 2025-08-12 | **Last updated:** 2025-08-27  
-*Why immigration restrictions slow STEM and how behavioural governance crossed borders after the Holocaust*
+# 🧠 The Science That Survives Borders
+
+**First created:** 2025-08-12 | **Last updated:** 2025-08-30
+
+*Why immigration restrictions slow STEM and how behavioural governance crossed borders after the Holocaust.*
 
 ---
 
@@ -159,11 +161,9 @@ The Hippocratic model does not survive Prevent/CVE culture. Care becomes conditi
 *The Science That Survives Borders* is a living node of the Polaris Protocol.  
 It traces the historical convergence of behavioural governance, border politics, and scientific innovation.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic analyses of governance  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures rooted in survivor experience  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — logs of suppression methods  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_  
+
