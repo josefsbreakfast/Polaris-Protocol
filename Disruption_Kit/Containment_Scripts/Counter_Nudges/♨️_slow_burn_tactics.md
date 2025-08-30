@@ -127,6 +127,8 @@ Use it to set the stage for the next breakpoint.
 It documents counter-nudge methods of cumulative resistance, designed to erode containment capacity without direct escalation.  
 
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+🏮 [Return to Counter Nudges Guide](../README.md)
 
-_Last updated: 2025-08-30_
+*Countering containment is survival.* 
+
+_Last updated: 2025-08-30_  
