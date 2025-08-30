@@ -1,5 +1,7 @@
 # 🛰️ Witness By Proxy Midlands 2016  
-**First created:** 2025-08-16 | **Last updated:** 2025-08-26  
+
+**First created:** 2025-08-16 | **Last updated:** 2025-08-30
+
 *Field log reconstructing what colleagues or outsiders would have observed in the Midlands surveillance climate post-2016*  
 
 ---
@@ -11,7 +13,7 @@ An outsider — e.g. a colleague arriving from London to join a project — woul
 
 ---
 
-## 🔎 Witness by Proxy: Likely Observations  
+## 🔮 Witness by Proxy: Likely Observations  
 
 ### 1. Atmosphere & Infrastructure  
 - Prevent materials in GP surgeries, student unions, council spaces.  
@@ -35,7 +37,7 @@ An outsider — e.g. a colleague arriving from London to join a project — woul
 
 ---
 
-## 🧩 Forensic Significance  
+## 🔬 Forensic Significance  
 
 - These were **not hidden cues**. Any collaborator present would have registered the shift.  
 - Even without naming me, colleagues could not have failed to notice the additional drag and scrutiny around projects I was linked to.  
@@ -50,7 +52,7 @@ Silence does not erase what they saw.
 
 ---
 
-## 🏷️ Tags  
+## 🔖 Tags  
 
 `#witness_by_proxy` `#prevent` `#regional_surveillance` `#field_log`  
 
@@ -61,11 +63,8 @@ Silence does not erase what they saw.
 *Witness By Proxy Midlands 2016* is a living node of the Polaris Protocol.  
 It records how environmental cues of containment were observable by colleagues and outsiders, producing indirect witness testimony even in silence.  
 
-> 📡 Cross-references:  
-> - [🛂 Gated Intake, Post Delay, and Regional Loop Containment](../Big_Picture_Protocols/🛂_gated_intake_post_delay_and_regional_loop_containment.md) — communication control loops  
-> - [🛰️ Surveillance Infrastructure](../Big_Picture_Protocols/🛰️_surveillance_infrastructure.md) — historical expansion of surveillance powers  
-> - [🕳️ Curated Amnesia Has a Shape](../Big_Picture_Protocols/🕳️_curated_amnesia_has_a_shape.md) — erasure of institutional record trails  
+🏮 [Return to Witness & Historical Casefiles Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
