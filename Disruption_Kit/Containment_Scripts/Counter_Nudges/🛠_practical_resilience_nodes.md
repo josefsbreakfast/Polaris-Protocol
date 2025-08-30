@@ -1,6 +1,6 @@
 # 🛠 Practical Resilience Nodes  
 **First created:** 2025-08-30 | **Last updated:** 2025-08-30  
-*Survivor-led strategies for navigating daily suppression, conserving energy, and redistributing labour under containment conditions*  
+*Survivor-led strategies for navigating daily suppression, conserving energy, and redistributing labour under containment conditions.*  
 
 ---
 
