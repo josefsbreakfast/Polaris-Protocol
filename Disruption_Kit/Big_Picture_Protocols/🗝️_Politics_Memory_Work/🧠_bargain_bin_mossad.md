@@ -1,10 +1,13 @@
-# 🧠 Bargain Bin Mossad  
-**First created:** 2025-08-26 | **Last updated:** 2025-08-26  
+# 🧠 Bargain Bin Mossad
+
+**First created:** 2025-08-26 | **Last updated:** 2025-08-30
+
 *A forensic satire of crude psyops, clumsy bureaucrats, and the misuse of clinical shorthand as containment theatre.*  
 
 ---
 
-## ✨ Overview  
+## ✨ Overview
+
 This node documents the divergence between **Cambridge Analytica-style psyops** (OCEAN-based persuasion systems) and the **UK bureaucratic cluster-fork model** (clinical-pathology containment systems). It traces the cultural signature, timeline, and institutional pipeline of how a diagnostic shorthand (Cluster A/B/C) migrated into surveillance, counterterrorism, and fork-level psyops.  
 
 It also captures how these crude tools were then **misapplied in lived contexts**:  
@@ -150,7 +153,7 @@ flowchart TB
 
 ---
 
-## 🧩 Forensic Notes  
+## 🧿 Forensic Notes  
 
 - Content injection observed: repeated targeting with BPD/EUPD tropes.  
 - Scripts infantilising (“good girl,” “for your own good”) recur across police + strangers.  
@@ -159,7 +162,7 @@ flowchart TB
 
 ---
 
-## ⚖️ Key Takeaway  
+## 🐦‍🔥 Key Takeaway  
 
 - **CA = persuasion.**  
   - Exploits adtech, memetics, microtargeting.  
@@ -176,7 +179,7 @@ Both operate in the same space of information dominance, but with **different si
 
 ---
 
-## 🏷️ Tags  
+## 🔖 Tags  
 
 `#psyops` `#cambridge_analytica` `#cluster_forks` `#containment_theatre` `#forensic_satire`  
 
@@ -187,11 +190,8 @@ Both operate in the same space of information dominance, but with **different si
 *Bargain Bin Mossad* is a living node of the Polaris Protocol.  
 It satirises the crude migration of psychometric and clinical shorthand into surveillance, containment, and fork-level psyops.  
 
-> 📡 Cross-references:  
-> - [🧠 Fisher Fork Theory](../Big_Picture_Protocols/🧠_fisher_fork_theory.md) — affective pacification via forks  
-> - [🗡 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_storage.md) — metadata sabotage as governance  
-> - [🎻 Clash of Forks](../Big_Picture_Protocols/🎻_clash_of_forks.md) — breakdowns when forks collide  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
