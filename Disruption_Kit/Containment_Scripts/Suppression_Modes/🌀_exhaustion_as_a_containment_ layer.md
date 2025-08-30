@@ -88,7 +88,7 @@ Yet when forced, some tactics can help redistribute the weight:
 - **Externalise memory**: use logs/archives so erasure cannot fully destroy continuity.  
 - **Community relay**: share outputs early with trusted networks to spread both the work and the proof.  
 
-See [🛠 Practical Resilience Nodes](./Containment_Scripts/Counter_Nudges/🛠_practical_resilience_nodes.md) — survivor strategies collection.  
+See [🛠 Practical Resilience Nodes](https://github.com/josefsbreakfast/Polaris-Protocol/blob/fd3139940099fc9e73dc4aa57d96c2dc07aa2199/Disruption_Kit/Containment_Scripts/Counter_Nudges/%F0%9F%9B%A0_practical_resilience_nodes.md) — survivor strategies collection.  
 
 ---
 
