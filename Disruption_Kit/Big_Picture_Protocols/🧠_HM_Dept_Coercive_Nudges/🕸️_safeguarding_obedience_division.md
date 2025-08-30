@@ -1,7 +1,8 @@
 # 🕸️ Safeguarding Obedience Division
-*How “support” becomes surveillance, and “care” becomes containment.*  
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-27
+**First created:** 2025-08-03 | **Last updated:** 2025-08-30
+
+*How “support” becomes surveillance, and “care” becomes containment.* 
 
 ---
 
@@ -149,10 +150,9 @@ It often **disguises coercion as benevolent intervention** — especially agains
 *🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents how safeguarding rhetoric is redeployed as a mechanism of coercion and surveillance.  
 
-> 📡 Cross-references:  
-> - [AntiContainment Clauses](../../AntiContainment_Clauses/README.md) — refusal language arsenal  
-> - [Fork Taxonomy](../../Fork_Taxonomy/README.md) — clone/fork containment strategies  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_  
+_Last updated: 2025-08-30_  
+
