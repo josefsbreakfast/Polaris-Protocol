@@ -1,10 +1,12 @@
 # 🧬 Psychographic Modelling and Twinning  
-**First created:** 2025-08-25 | **Last updated:** 2025-08-27   
-*Doctrine on psychographic profiling, twinning, and predictive containment*
+
+**First created:** 2025-08-25 | **Last updated:** 2025-08-30 
+
+*Doctrine on psychographic profiling, twinning, and predictive containment.*
 
 ---
 
-## 📌 Overview  
+## ✨ Overview  
 
 This doctrine examines the evolution of psychographic profiling and twinning systems — predictive behavioural models that clone, simulate, or mirror subject traits to forecast reactions and steer responses.  
 
@@ -29,7 +31,7 @@ It includes:
 
 ---
 
-## 🧾 Historical Development  
+## 🛰️ Historical Development  
 
 ### 📈 Early Use: Marketing + Military  
 
@@ -69,7 +71,7 @@ It includes:
 
 ---
 
-## 🧷 Prevent-Linked Applications  
+## 👾 Prevent-Linked Applications  
 
 - **Behavioural Proxies**  
   Prevent logic flags people not for what they *do* but for perceived “vulnerabilities.”  
@@ -103,7 +105,7 @@ It includes:
 
 ---
 
-## 🧮 Key Actors + Enabling Systems  
+## 🧿 Key Actors + Enabling Systems  
 
 | Entity              | Role                                                                 |
 |---------------------|----------------------------------------------------------------------|
@@ -115,7 +117,7 @@ It includes:
 
 ---
 
-## 🔍 Case Notes for Polaris Users  
+## 🐦‍🔥 Case Notes for Polaris Users  
 
 - **Check for Uncanny Mimicry**  
   Are your words or rhythms echoed back in distorted form, across sectors or outputs not authored by you?  
@@ -136,11 +138,8 @@ It includes:
 *Psychographic Modelling and Twinning* is a living node of the Polaris Protocol.  
 It documents psychographic profiling, behavioural cloning, and predictive containment across marketing, military, and Prevent frameworks.  
 
-> 📡 Cross-references:  
-> - [Fork Taxonomy](../Fork_Taxonomy/README.md) — ghost forking and override logic  
-> - [Surveillance Infrastructure](./🛰️_surveillance_infrastructure.md) — metadata frameworks and escalation history  
-> - [Twinning Detection](../Twinning/🧬_twinning_detection.md) — guide to tracing containment twins  
+🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_
