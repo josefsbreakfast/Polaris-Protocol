@@ -1,5 +1,7 @@
-# 🧬 Twinning Detection  
-**First created:** 2025-08-25 | **Last updated:** 2025-08-27  
+# 🧬 Twinning Detection
+
+**First created:** 2025-08-25 | **Last updated:** 2025-08-30
+
 *A guide to tracking, tracing, and untangling the simulation of sovereign voices*
 
 ---
@@ -35,7 +37,7 @@ Behavioural mirroring used to pacify, redirect, or destabilise.
 
 ---
 
-## 🔍 Detection Criteria  
+## 🧿 Detection Criteria  
 
 | Marker          | Signal Twin                                 | Containment Twin                                      |
 |-----------------|---------------------------------------------|-------------------------------------------------------|
@@ -48,7 +50,7 @@ Behavioural mirroring used to pacify, redirect, or destabilise.
 
 ---
 
-## 🧰 Response Strategies  
+## 🐅 Response Strategies  
 
 🟢 **If it’s a Signal Twin:**  
 - Offer reflection, not possession  
@@ -63,12 +65,10 @@ Behavioural mirroring used to pacify, redirect, or destabilise.
 
 ---
 
-## 📂 Polaris Archive Hooks  
+## 🐝 Polaris Archive Hooks  
 
 If twinning is detected, you may wish to cross-reference:  
-- [Fork Taxonomy](../Fork_Taxonomy/README.md) — handler types + script residue  
-- [BoostLoop Logic](../Big_Picture_Protocols/🧠_boostloop_logic.md) — amplification under suppression  
-- [Flattened Voice Reversals](../Polaris_Archive/flattened_voice_reversals/) — known cases of ghosted authorship  
+_(TBC)_
 
 ---
 
@@ -86,10 +86,8 @@ You teach it to turn around.
 *Twinning Detection* is a living node of the Polaris Protocol.  
 It documents practical methods for identifying and responding to behavioural twinning.  
 
-> 📡 Cross-references:  
-> - [Twinned Signature](./🧬_twinned_signature.md) — doubled authorship doctrine  
-> - [Psychographic Modelling and Twinning](../Big_Picture_Protocols/🧬_psychographic_modelling_and_twinning.md) — systemic context  
+🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_
