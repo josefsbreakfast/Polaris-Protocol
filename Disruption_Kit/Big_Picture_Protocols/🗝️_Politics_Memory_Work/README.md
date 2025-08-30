@@ -135,9 +135,9 @@ flowchart LR
 *🗝️ Political Economy & Memory Work* is a living node of the Polaris Protocol.  
 It gathers together doctrines on how memory, surveillance, and the political economy interweave within trauma and containment.  
 
-> 📡 Cross-references:  
-> - [🧨 Soft Suspension Is Still Containment](../Containment_Scripts/🧨_soft_suspension_is_still_containment.md) — suppression logs  
-> - [🧾 Data Is Their Cage Too](../Big_Picture_Protocols/🧾_data_is_their_cage_too.md) — on data exploitation as captivity  
-> - [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — systemic analysis of empathy weaponisation  
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
-*Memory is a blessing.*  
+*Memory is a blessing. Memory is political.* 
+
+_Last updated: 2025-08-30_  
+
