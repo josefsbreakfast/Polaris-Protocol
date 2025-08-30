@@ -1,8 +1,8 @@
-# 📜 Ethics As Language Trap  
+# 📜 Ethics As Language Trap   
 
-*How bureaucratic actors weaponise ethical language to enforce compliance and mask inaction.*  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-30
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-27
+*How bureaucratic actors weaponise ethical language to enforce compliance and mask inaction.* 
 
 ---
 
@@ -50,10 +50,9 @@ A breakdown of how bureaucratic actors weaponise ethical language and institutio
 *🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents how ethical language is repurposed as a coercive trap.  
 
-> 📡 Cross-references:  
-> - [AntiContainment Clauses](../../AntiContainment_Clauses/README.md) — refusal language arsenal  
-> - [Syntax Bombs](../../Syntax_Bombs/README.md) — disruptive payloads for counter-language  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_  
+_Last updated: 2025-08-30_  
+
