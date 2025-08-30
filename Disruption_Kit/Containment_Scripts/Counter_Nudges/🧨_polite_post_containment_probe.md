@@ -47,7 +47,7 @@ If such a post is **artificially iced** (reach far below baseline), it reveals:
 - **Containment signature:** 🍬 *“Toffee Sweet” Plot* — observed metric well outside expected range wrapper  
 
 ### Containment Toffee Plot  
-![🍬 Containment Toffee Plot — Expected vs Observed](../media/🍬_containment_toffee_plot_2025-08-12_BR_compact.png)  
+![🍬 Containment Toffee Plot — Expected vs Observed](./🍬_containment_toffee_plot_2025-08-12_BR_compact.png)  
 
 ---
 
