@@ -1,5 +1,7 @@
-# 🗡 Narrative Management and Metadata Sabotage  
-**First created:** 2025-08-06 | **Last updated:** 2025-08-26  
+# 🗡 Narrative Management and Metadata Sabotage
+
+**First created:** 2025-08-06 | **Last updated:** 2025-08-30
+
 *How metadata sabotage governs narrative visibility and erases memory*  
 
 ---
@@ -11,7 +13,7 @@ It links **content framing** to **data-layer manipulation**, showing how institu
 
 ---
 
-## 🎯 Core Hypothesis  
+## 🛰️ Core Hypothesis  
 
 Metadata sabotage is not a side effect — it is an *active form of narrative governance*.  
 By breaking the link between story and record, hostile actors:  
@@ -21,7 +23,7 @@ By breaking the link between story and record, hostile actors:
 
 ---
 
-## 🛠 Sabotage Tactics  
+## 👾 Sabotage Tactics  
 
 - **Tag misdirection:** Relevant tags suppressed, irrelevant tags promoted  
 - **Chronological distortion:** Backdating, batching, or re-timestamping to reduce discoverability  
@@ -30,7 +32,7 @@ By breaking the link between story and record, hostile actors:
 
 ---
 
-## 🪢 Common Contexts  
+## 🧬 Common Contexts  
 
 - High-profile whistleblowing on state or corporate abuse  
 - Survivor-led campaigns challenging security or intelligence agencies  
@@ -39,7 +41,7 @@ By breaking the link between story and record, hostile actors:
 
 ---
 
-## 🔁 Resistance Strategies  
+## 🐦‍🔥 Resistance Strategies  
 
 - Export & cross-store: multiple off-platform archives with immutable timestamps  
 - Timed flare posts: create intentional cross-platform spikes to expose throttling  
@@ -48,7 +50,7 @@ By breaking the link between story and record, hostile actors:
 
 ---
 
-## 🏷️ Tags  
+## 🔖 Tags  
 
 `#metadata_sabotage` `#narrative_management` `#memory_erasure` `#forensic_visibility`  
 
@@ -59,11 +61,8 @@ By breaking the link between story and record, hostile actors:
 *Narrative Management and Metadata Sabotage* is a living node of the Polaris Protocol.  
 It traces how metadata trails are sabotaged to manage, distort, or erase stories — and how forensic resistance strategies can counter the attempted amnesia.  
 
-> 📡 Cross-references:  
-> - [🧠 Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — systemic framing of empathy as risk  
-> - [🪞 The Illusion of Choice](../Big_Picture_Protocols/🪞_the_illusion_of_choice.md) — false choice as containment mechanism  
-> - [🧨 Comment Order Is a Governance Layer](../Containment_Scripts/🧨_comment_order_is_a_governance_layer.md) — how platforms reframe discussion  
+🏮 [Return to Witness & Historical Casefiles Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
