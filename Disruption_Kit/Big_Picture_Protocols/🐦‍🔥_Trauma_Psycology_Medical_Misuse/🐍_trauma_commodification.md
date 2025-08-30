@@ -54,6 +54,6 @@ converted into calibration tokens, and sold back as justification for control.
 
 *Survivors voices must always live on.*  
 
-🏮 [Return to Trauma, Psychology, & Medical Misuse Guide](./README.md)  
+🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
 
 _Last updated: 2025-08-30_
