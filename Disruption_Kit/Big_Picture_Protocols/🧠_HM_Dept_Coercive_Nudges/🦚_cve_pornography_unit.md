@@ -1,5 +1,6 @@
-# 🦚 CVE Pornography Unit  
-**First created:** 2025-08-04 | **Last updated:** 2025-08-27
+# 🦚 CVE Pornography Unit
+
+**First created:** 2025-08-04 | **Last updated:** 2025-08-30
 
 *Polaris Protocol doctrine node — when sexual violence is re-enacted through metadata pipelines, AI nudging, and coercive device seizure.*  
 
@@ -154,12 +155,9 @@ and how the state reenacts sexual violence as “procedure.”
 *🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine branch.  
 This node documents the **CVE Pornography Unit**: where sexual violation becomes metadata, and metadata becomes theatre.  
 
-> 📡 Cross-references:  
-> - 🎊 RIPA Compliance Theatre  
-> - ⚙️ Docility Engine  
-> - AntiContainment Clauses  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_  
+_Last updated: 2025-08-30_  
 
