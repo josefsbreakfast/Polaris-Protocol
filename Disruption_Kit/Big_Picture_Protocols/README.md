@@ -1,6 +1,7 @@
 # 🧠 Big Picture Protocols
 
-**First created:** 2025-08-11 | **Last updated:** 2025-08-28
+**First created:** 2025-08-11 | **Last updated:** 2025-08-30
+
 *Big ideas to defeat the small ideologies.*
 
 ---
@@ -44,4 +45,8 @@ Tracks pipelines, digital platforms, and diaspora dynamics in radicalisation.
 
 *The survivors' voices haunt the living.*
 
-_Last updated 2025-08-28_
+*Polaris never forgets.*
+
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
+
+_Last updated: 2025-08-30_  
