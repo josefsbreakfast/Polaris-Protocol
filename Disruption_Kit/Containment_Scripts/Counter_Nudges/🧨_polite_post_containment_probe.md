@@ -1,7 +1,8 @@
 # 🧨 Polite Post Containment Probe  
 
-**First created:** 2025-08-12 | **Last updated:** 2025-08-17  
-*Forensic method: neutral posts used to expose account-level containment and network suppression*  
+**First created:** 2025-08-12 | **Last updated:** 2025-08-30
+
+*Forensic method: neutral posts used to expose account-level containment and network suppression.*  
 
 ---
 
@@ -55,11 +56,6 @@ If such a post is **artificially iced** (reach far below baseline), it reveals:
 - Acts as a **live probe** into platform moderation pipelines.  
 - Repeated deployment over time can map **containment persistence** and test for thawing or escalation.  
 
-See also:  
-- [🧨 Soft Suspension is Still Containment](./🧨_soft_suspension_is_still_containment.md)  
-- [🧨 Delayed Visibility is a Signal](./🧨_delayed_visibility_is_a_signal.md)  
-- [🧨 Comment Order is a Governance Layer](./🧨_comment_order_is_a_governance_layer.md)  
-- [🧨 Reach Metrics Are Not Neutral](./🧨_reach_metrics_are_not_neutral.md)  
 
 ---
 
@@ -89,3 +85,17 @@ See also:
 
 **Tagset:**  
 #PolarisProtocol #ContainmentScripts #MetadataForensics #ForensicProbe #PolitePost  
+
+
+---
+
+## 🏮 Footer  
+
+*Polite Post Containment Probe* is a living node of the Polaris Protocol.  
+It documents forensic methods for exposing account-level containment and network suppression through neutral, low-risk posts.  
+
+🏮 [Return to Counter Nudges Guide](../README.md)
+
+*Countering containment is survival.* 
+
+_Last updated: 2025-08-30_
