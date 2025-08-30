@@ -1,6 +1,8 @@
-# 🫀 Holding a Weapon You Don’t Understand  
-**First created:** 2025-08-17 | **Last updated:** 2025-08-27  
-*Antifascist survival through language, solidarity, and the metaphor of weapons handled without comprehension*  
+# 🫀 Holding a Weapon You Don’t Understand
+
+**First created:** 2025-08-17 | **Last updated:** 2025-08-30
+
+*Antifascist survival through language, solidarity, and the metaphor of weapons handled without comprehension.*  
 
 ---
 
@@ -109,7 +111,7 @@ The weapon kicks, but the whole community absorbs the weight.
 
 ---
 
-## 🧾 Closing Note  
+## 🐦‍🔥 Closing Note  
 
 Those who grasp tools of repression without comprehension will always face recoil.  
 Antifascists, by contrast, know the weight of history, the rhythm of solidarity, and the cadence of refusal.  
@@ -124,11 +126,8 @@ We stand steady.
 *Holding a Weapon You Don’t Understand* is a living node of the Polaris Protocol.  
 It documents antifascist praxis through rhythm, solidarity, and the inversion of containment logics.  
 
-> 📡 Cross-references:  
-> - [The Illusion of Choice](../Big_Picture_Protocols/🪞_the_illusion_of_choice.md) — false autonomy as systemic pacification  
-> - [Targeting Logic: Empathy Is a Threat](../Big_Picture_Protocols/🧠_targeting_logic_empathy_is_a_threat.md) — profiling emotional influence as risk  
-> - [Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md) — marginalised groups as predictive indicators  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_  
