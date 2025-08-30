@@ -95,10 +95,10 @@ flowchart TD
 ## 🏮 Footer  
 
 *🪬 Radicalisation & Extremism* is a living node of the Polaris Protocol.  
-It documents how extremist networks are seeded and maintained, and how “security” frameworks selectively suppress dissent while enabling authoritarian drift.  
+It documents how extremist networks are seeded and maintained, and how “security” frameworks selectively suppress dissent while enabling authoritarian drift.
 
-🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
+*Polaris never forgets.*
 
-*Survivors radiate soverignity. Compassion is the extremis of survival.* 
+🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
 _Last updated: 2025-08-30_  
