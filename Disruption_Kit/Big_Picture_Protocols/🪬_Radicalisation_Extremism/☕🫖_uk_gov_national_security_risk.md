@@ -113,11 +113,12 @@ This material should be reviewed by:
 ## 🏮 Footer  
 
 *UK Government National Security Risk* is a living node of the Polaris Protocol.  
-It documents systemic risks where government conduct itself constitutes a security threat.  
+It documents systemic risks where government conduct itself constitutes a security threat.
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
 
-*Memory is a blessing. Memory is political.* 
+*Survivors radiate soverignity. Compassion is the extremis of survival.* 
 
 _Last updated: 2025-08-30_  
+
 
