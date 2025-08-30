@@ -1,6 +1,8 @@
-# 📡 Fisher Surveillance Addendum  
-**First created:** 2025-08-08 | **Last updated:** 2025-08-26  
-*Post-Fisher addendum on surveillance infrastructure, clone engineering, and behavioural pacification*  
+# 📡 Fisher Surveillance Addendum
+
+**First created:** 2025-08-08 | **Last updated:** 2025-08-30
+
+*Post-Fisher addendum on surveillance infrastructure, clone engineering, and behavioural pacification.*  
 
 ---
 
@@ -106,7 +108,7 @@ but to mark the places where it still cannot feel.**
 
 ---
 
-## 🏷️ Tags  
+## 🔖 Tags  
 
 `#surveillance_realism` `#fisher_fork` `#behavioural_pacification` `#clone_engineering` `#big_picture_protocol`  
 
@@ -117,11 +119,9 @@ but to mark the places where it still cannot feel.**
 *Fisher Surveillance Addendum* is a living node of the Polaris Protocol.  
 It tracks the infrastructural mechanics of surveillance realism and how predictive systems enforce clone pacification.  
 
-> 📡 Cross-references:  
-> - [🧠 Fisher Fork Theory](../Big_Picture_Protocols/🧠_fisher_fork_theory.md) — affective dimensions of pacification  
-> - [☕🫖 UK Government National Security Risk](../Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md) — state capture and coup dynamics  
-> - [🎏 Containment Contract Trace](../Big_Picture_Protocols/🎏_containment_contract_trace.md) — NDA simulacra and metadata silencing  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
+
