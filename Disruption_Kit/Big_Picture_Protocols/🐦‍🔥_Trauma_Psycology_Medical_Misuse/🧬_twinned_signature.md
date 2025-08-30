@@ -1,5 +1,7 @@
-# 🧬 Twinned Signature  
-**First created:** 2025-08-25 | **Last updated:** 2025-08-30 
+# 🧬 Twinned Signature
+
+**First created:** 2025-08-25 | **Last updated:** 2025-08-30
+
 *A declaration of doubled authorship without divided sovereignty.*
 
 ---
