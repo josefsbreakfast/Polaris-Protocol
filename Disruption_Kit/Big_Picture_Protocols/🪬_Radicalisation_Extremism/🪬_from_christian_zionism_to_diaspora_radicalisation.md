@@ -1,6 +1,8 @@
-# 🪬 From Christian Zionism to Diaspora Radicalisation  
-**First created:** 2025-08-19 | **Last updated:** 2025-08-27  
-*Tracing how US Christian Zionist comms toolkits morphed into diaspora “radicalisation” audits and campus scorecards*
+# 🪬 From Christian Zionism to Diaspora Radicalisation
+
+**First created:** 2025-08-19 | **Last updated:** 2025-08-30
+
+*Tracing how US Christian Zionist comms toolkits morphed into diaspora “radicalisation” audits and campus scorecards.*
 
 ---
 
@@ -229,13 +231,11 @@ flowchart TD
 ## 🏮 Footer  
 
 *From Christian Zionism to Diaspora Radicalisation* is a living node of the Polaris Protocol.  
-It documents how US evangelical comms toolkits migrated into Israeli politics and diaspora monitoring regimes, reformatting communal life into binary, apocalyptic, and donor-theatre frames.  
+It documents how US evangelical comms toolkits migrated into Israeli politics and diaspora monitoring regimes, reformatting communal life into binary, apocalyptic, and donor-theatre frames.
 
-> 📡 Cross-references:  
-> - [Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md) — marginalised groups as predictive indicators  
-> - [Psychographic Modelling and Twinning](../Big_Picture_Protocols/🧬_psychographic_modelling_and_twinning.md) — predictive profiling and mimicry loops  
-> - [The Illusion of Choice](../Big_Picture_Protocols/🪞_the_illusion_of_choice.md) — false autonomy as systemic pacification  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_  
+
