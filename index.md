@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-29 21:09:17 UTC_
+_Generated on 2025-08-30 15:25:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -166,6 +166,7 @@ _Generated on 2025-08-29 21:09:17 UTC_
   - [`🏮README.md`](Fork_Taxonomy/🏮README.md)
   - [`👾_execution_drift_fork.md`](Fork_Taxonomy/👾_execution_drift_fork.md)
   - [`🔐_fork_clone_checklist.md`](Fork_Taxonomy/🔐_fork_clone_checklist.md)
+  - [`🚨_cybersec_brief_note_fork_critic_political_parties.md`](Fork_Taxonomy/🚨_cybersec_brief_note_fork_critic_political_parties.md)
   - [`🛑_fork_shutdown_protocol.md`](Fork_Taxonomy/🛑_fork_shutdown_protocol.md)
   - [`🦜_reverent_repetition_fork.md`](Fork_Taxonomy/🦜_reverent_repetition_fork.md)
   - [`🧬_fork_clone_map.md`](Fork_Taxonomy/🧬_fork_clone_map.md)
