@@ -1,6 +1,8 @@
-# 🗳️ "Liberal Democracy!" Response Logic  
-**First created:** 2025-08-06 | **Last updated:** 2025-08-17  
-*Behavioural mod pathways triggered by political-system critique*  
+# 🗳️ "Liberal Democracy!" Response Logic
+
+**First created:** 2025-08-06 | **Last updated:** 2025-08-30
+
+*Behavioural mod pathways triggered by political-system critique.*  
 
 ---  
 
@@ -86,3 +88,12 @@ This node should be cross-referenced with:
 - `🧨 soft_suspension_is_still_containment.md` (tonal containment without deletion)  
 
 *Observation of political-language keyword triggers strengthens the forensic case that moderation is not neutral but a governance function.*  
+
+> 📡 Cross-references:  
+> - [Counter Nudges](../Containment_Scripts/Counter_Nudges/) — reversal methods for behavioural interventions  
+> - [Containment Scripts](../Containment_Scripts/) — logs of suppression and visibility manipulation methods  
+> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural analyses of systemic containment dynamics  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-30_
