@@ -1,8 +1,8 @@
 # 🐍 Snake Bites and Stolen Voices
 
-**First created:** 2025-08-13 | **Last updated:** 2025-08-27
+**First created:** 2025-08-13 | **Last updated:** 2025-08-30
 
-*Narrative reversal on suppression, theft, and clarity strikes*
+*Narrative reversal on suppression, theft, and clarity strikes.*
 
 ---
 
@@ -47,14 +47,6 @@ Speaking ≠ attack.<br>
 
 ---
 
-## 📡 Cross-Linking
-
-- [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — platform throttling and suppression logs  
-- [Survivor Tools](../Survivor_Tools/) — countermeasures against narrative theft  
-- [Big Picture Protocols](../Big_Picture_Protocols/) — related narrative nodes  
-
----
-
 ## 🏮 Footer
 
 *Snake Bites and Stolen Voices* is a living node of the Polaris Protocol.  
@@ -64,4 +56,4 @@ It documents how narrative reversal destabilises suppression structures by expos
 
 🏮 [Return to Trauma, Psychology, & Medical Misuse Guide](./README.md)  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-08-30_
