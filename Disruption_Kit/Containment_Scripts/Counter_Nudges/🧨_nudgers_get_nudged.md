@@ -93,7 +93,10 @@ Counter-nudges don’t require brute force — just the right mirror, held stead
 
 ---
 
+## 🏮 Footer  
 
+*Nudgers Get Nudged* is a living node of the Polaris Protocol.  
+It documents counter-nudge strategies for exposing and disrupting manipulative behavioural interventions at both institutional and individual levels.  
 
 🏮 [Return to Counter Nudges Guide](../README.md)
 
