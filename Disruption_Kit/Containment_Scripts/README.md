@@ -42,7 +42,7 @@ Each entry links outward to **Field Logs** for live case studies.
 
 ## 📂 Counter Nudges  
 
-- [🧨 Nudgers Get Nudged](./🧨_nudgers_get_nudged.md)  
+- [🧨 Nudgers Get Nudged](../🧨_nudgers_get_nudged.md)  
   *Turning behavioural science back on its operators — institutional + individual tactics.*  
 
 - [🧨 Polite Post Containment Probe](./🧨_polite_post_containment_probe.md)  
