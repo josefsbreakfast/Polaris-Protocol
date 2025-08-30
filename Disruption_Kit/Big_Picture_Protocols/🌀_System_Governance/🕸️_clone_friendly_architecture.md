@@ -1,8 +1,8 @@
 # 🕸️ Clone Friendly Architecture
 
-**First created:** 2025-08-07 | **Last updated:** 2025-08-29
+**First created:** 2025-08-07 | **Last updated:** 2025-08-30
 
-*Environments optimised for AI clone deployment, persistence, and deniability*  
+*Environments optimised for AI clone deployment, persistence, and deniability.*  
 
 ---
 
@@ -65,4 +65,4 @@ It maps environments where AI-driven replication is embedded into institutions a
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-08-30_
