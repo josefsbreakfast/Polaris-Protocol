@@ -1,6 +1,8 @@
-# 🪦 Metadata Ghosts and Hauntings  
-**First created:** 2025-08-12 | **Last updated:** 2025-08-27  
-*Containment & anomaly typologies in Polaris visibility diagnostics*
+# 🪦 Metadata Ghosts and Hauntings
+
+**First created:** 2025-08-12 | **Last updated:** 2025-08-30
+
+*Containment & anomaly typologies in Polaris visibility diagnostics.*
 
 ---
 
@@ -74,7 +76,7 @@ An old post suddenly re-enters light circulation after a subtle interaction, mai
 
 ---
 
-## 🧭 Operational Use  
+## 🔬 Operational Use  
 
 - **Early tagging** → note the first irregular climb and log timestamp  
 - **Sensory check** → record subjective feeling (“warm” = ghost, “cold” = haunting)  
@@ -92,13 +94,11 @@ An old post suddenly re-enters light circulation after a subtle interaction, mai
 ## 🏮 Footer  
 
 *Metadata Ghosts and Hauntings* is a living node of the Polaris Protocol.  
-It defines ghost and haunting phenomena in visibility metrics and situates them as early indicators of covert suppression or silent amplification.  
+It defines ghost and haunting phenomena in visibility metrics and situates them as early indicators of covert suppression or silent amplification.
 
-> 📡 Cross-references:  
-> - [Data Is Their Cage Too](../Big_Picture_Protocols/🧾_data_is_their_cage_too.md) — data possession as systemic entrapment  
-> - [Reach Metrics Are Not Neutral](../Containment_Scripts/🧨_reach_metrics_are_not_neutral.md) — suppression logs via manipulated analytics  
-> - [ICC Tag Thread Containment](../Field_Logs/🛰️_icc_tag_thread_containment.md) — live case evidence of ghost/haunting behaviours  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_  
+
