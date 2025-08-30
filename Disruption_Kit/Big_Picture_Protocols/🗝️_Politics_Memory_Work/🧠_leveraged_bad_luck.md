@@ -1,6 +1,8 @@
-# 🧠 Leveraged Bad Luck  
-**First created:** 2025-08-20 | **Last updated:** 2025-08-26  
-*A doctrine file mapping how crises emerge through factor convergence and opportunistic leverage, rather than authorship or prophecy.*  
+# 🧠 Leveraged Bad Luck
+
+**First created:** 2025-08-20 | **Last updated:** 2025-08-30
+
+*A doctrine file mapping how crises emerge through factor convergence and opportunistic leverage, rather than authorship or prophecy.*
 
 ---
 
@@ -11,7 +13,7 @@ What looks like prophecy or omnipotence is, in practice, the more banal tactic o
 
 ---
 
-## 🧭 Core Principles  
+## 🛰️ Core Principles  
 
 - **Risk ≠ Prophecy**  
   Risk is the overlap of factors. Prediction depends on recognising convergence, not single triggers.  
@@ -35,14 +37,14 @@ What looks like prophecy or omnipotence is, in practice, the more banal tactic o
 
 ---
 
-## 🧮 Polaris Conclusion  
+## 🧿 Polaris Conclusion  
 
 Crisis isn’t authored — it is **leveraged**.  
 Prediction lies in spotting **when factors coalesce** and who is poised to act.  
 
 ---
 
-## 📝 Bad Luck Convergence Checklist  
+## 🔥 Bad Luck Convergence Checklist  
 
 Use this test to diagnose exploitation windows:  
 
@@ -57,7 +59,7 @@ If **3+ factors** are ✔ → conditions are ripe for **leveraged bad luck**.
 
 ---
 
-## 📊 Bad Luck Convergence Matrix  
+## 🧬 Bad Luck Convergence Matrix  
 
 | Factor                  | Diagnostic Question                                     | Status (✔/✘) | Notes |
 |-------------------------|----------------------------------------------------------|--------------|-------|
@@ -77,11 +79,8 @@ If **3+ factors** are ✔ → conditions are ripe for **leveraged bad luck**.
 *Leveraged Bad Luck* is a living node of the Polaris Protocol.  
 It maps how crises emerge through opportunistic convergence, puncturing myths of omnipotence by exposing the banality of leverage.  
 
-> 📡 Cross-references:  
-> - [🕳️ Curated Amnesia Has a Shape](../Big_Picture_Protocols/🕳️_curated_amnesia_has_a_shape.md) — deliberate absence as design  
-> - [🧠 Fisher Fork Theory](../Big_Picture_Protocols/🧠_fisher_fork_theory.md) — emotional pacification and metadata fog  
-> - [🧠 Far Right Feeders Flipbook](../Big_Picture_Protocols/🧠_far_right_feeders_flipbook.md) — opportunism in right-wing pipelines  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
