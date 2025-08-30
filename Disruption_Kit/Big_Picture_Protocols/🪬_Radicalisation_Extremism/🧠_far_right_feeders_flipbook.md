@@ -86,10 +86,9 @@ It was fed by **datasets**, **sandboxes**, and **networks** that converged acros
 *Far Right Feeders Flipbook* is a living node of the Polaris Protocol.  
 It traces how harvested datasets and opportunistic geopolitical networks converged to feed far-right ascendancy in the Anglophone sphere.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
 
-*Memory is a blessing. Memory is political.* 
+*Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
 _Last updated: 2025-08-30_  
-
 
