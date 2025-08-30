@@ -1,6 +1,8 @@
-# 🧠 Radicalisation Pipelines and Platform Culture  
-**First created:** 2025-08-25 | **Last updated:** 2025-08-26  
-*Doctrine on radicalisation pipelines and asymmetric platform culture*  
+# 🧠 Radicalisation Pipelines and Platform Culture
+
+**First created:** 2025-08-25 | **Last updated:** 2025-08-30
+
+*Doctrine on radicalisation pipelines and asymmetric platform culture.*  
 
 ---
 
@@ -137,8 +139,6 @@ flowchart LR
 
 ---
 
-
-
 ## 🔍 Case Notes for Polaris Users  
 
 - **Track Archive Drift**: Use tools like Wayback Machine, Perma.cc, and archive.today to preserve extremist traces before deletion.  
@@ -153,11 +153,9 @@ flowchart LR
 *Radicalisation Pipelines and Platform Culture* is a living node of the Polaris Protocol.  
 It documents radicalisation pipelines and platform asymmetries — showing how extremism is incubated while dissent is over-policed.  
 
-> 📡 Cross-references:  
-> - [🛰️ Surveillance Infrastructure](../Big_Picture_Protocols/🛰️_surveillance_infrastructure.md) — legal and policy frameworks  
-> - [🗡 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🗡_narrative_management_and_metadata_sabotage.md) — sabotage of records and visibility  
-> - [🧠 Far Right Feeders Flipbook](../Big_Picture_Protocols/🧠_far_right_feeders_flipbook.md) — political history of right-wing pipelines  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-08-30_  
+
