@@ -1,6 +1,8 @@
-# 🧾 Data Is Their Cage Too  
-**First created:** 2025-08-16 | **Last updated:** 2025-08-27  
-*Data possession as both containment mechanism and systemic vulnerability*
+# 🧾 Data Is Their Cage Too
+
+**First created:** 2025-08-16 | **Last updated:** 2025-08-30
+
+*Data possession as both containment mechanism and systemic vulnerability.*
 
 ---
 
@@ -26,7 +28,7 @@ The more data the system holds, the more it binds itself:
 
 ---
 
-## 🔎 Forensic Consequence  
+## 🧿 Forensic Consequence  
 
 1. **Every suppression event is timestamped.**  
    Logs cannot disappear without breaking chain-of-custody.  
@@ -84,7 +86,7 @@ The more data the system holds, the more it binds itself:
 
 ---
 
-## 📌 Closing Line  
+## 🐝 Closing Line  
 
 They may hold all the data.  
 But in Polaris, their data holds them too.  
@@ -96,12 +98,9 @@ But in Polaris, their data holds them too.
 *Data Is Their Cage Too* is a living node of the Polaris Protocol.  
 It reframes data hoarding as systemic entrapment: each act of surveillance becomes forensic testimony against the system itself.  
 
-> 📡 Cross-references:  
-> - [Containment Contract Trace](./⚖️_containment_contract_trace.md) — bureaucratic records as hidden contracts  
-> - [Metadata Ghosts and Hauntings](./🪦_metadata_ghosts_and_hauntings.md) — anomalous metadata traces as evidence against the system  
-> - [Reach Metrics Are Not Neutral](../Containment_Scripts/🧨_reach_metrics_are_not_neutral.md) — manipulated metrics as proof of suppression  
-> - [ICC Tag Thread Containment](../Field_Logs/🛰️_icc_tag_thread_containment.md) — live field evidence where suppression became the story  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_  
+
