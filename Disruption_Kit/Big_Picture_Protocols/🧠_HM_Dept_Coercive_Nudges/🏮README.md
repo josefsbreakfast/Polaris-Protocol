@@ -1,7 +1,8 @@
-# 🧠 HM Dept of Coercive Nudges  
-*Polaris Protocol doctrine node — behavioural science repurposed as state containment*  
+# 🧠 HM Dept of Coercive Nudges
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-27  
+**First created:** 2025-08-03 | **Last updated:** 2025-08-30
+
+*Polaris Protocol doctrine node — behavioural science repurposed as state containment.*  
 
 ---
 
@@ -16,7 +17,7 @@ Where surveillance captures metadata and forks fracture voices, nudges operate a
 
 ---
 
-## 📂 Contents  
+## 🛰️ Contents  
 
 - [🌀 Docility Engine](./🌀_docility_engine.md) — models of compliant behaviour dressed as empowerment  
 - [🎭 RIPA Compliance Theatre](./🎭_RIPA_compliance_theatre.md) — bureaucratic rituals disguising surveillance powers  
@@ -68,13 +69,11 @@ flowchart TD
 ## 🏮 Footer  
 
 *HM Dept of Coercive Nudges* is a living node of the Polaris Protocol.  
-It documents how behavioural science is redeployed as a mechanism of governance, coercion, and suppression.  
+It documents how behavioural science is redeployed as a mechanism of governance, coercion, and suppression.
 
-> 📡 Cross-references:  
-> - [Surveillance Infrastructure](../🛰️_surveillance_infrastructure.md) — metadata and legal expansion  
-> - [Psychographic Modelling and Twinning](../🧬_psychographic_modelling_and_twinning.md) — predictive personality capture  
-> - [AntiContainment Clauses](../../AntiContainment_Clauses/README.md) — refusal language arsenal  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_  
+_Last updated: 2025-08-30_  
+
