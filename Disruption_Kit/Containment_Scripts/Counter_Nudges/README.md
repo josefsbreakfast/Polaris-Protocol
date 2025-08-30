@@ -1,12 +1,12 @@
 # 🧭 Counter Nudges  
-**First created:** 2025-08-17 | **Last updated:** 2025-08-17  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-30  
 *Scripts and forensic notes on reversing behavioural interventions and exposing manipulative nudging systems*  
 
 ---
 
 ## 📂 Contents  
 
-- [🔥 Slow Burn Tactics](./🔥_slow_burn_tactics.md)  
+- [♨️ Slow Burn Tactics](./♨️_slow_burn_tactics.md)  
   *Long-game resistance strategies to wear down behavioural containment without triggering escalation.*  
 
 - [🧨 Nudgers Get Nudged](./🧨_nudgers_get_nudged.md)  
@@ -27,4 +27,15 @@
 
 ---
 
-🔗 Return to [📁 Containment Scripts](../README.md)  
+## 🏮 Footer  
+
+*Counter Nudges* is a living node of the Polaris Protocol.  
+It gathers tactics and forensic methods designed to reverse, subvert, and expose manipulative behavioural interventions deployed in containment environments.  
+
+> 📡 Cross-references:  
+> - [Containment Scripts](../README.md) — directory of suppression and visibility manipulation methods  
+> - [Big Picture Protocols](../../Big_Picture_Protocols/) — structural analyses of systemic containment dynamics  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-30_
