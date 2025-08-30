@@ -63,7 +63,7 @@ Silence does not erase what they saw.
 *Witness By Proxy Midlands 2016* is a living node of the Polaris Protocol.  
 It records how environmental cues of containment were observable by colleagues and outsiders, producing indirect witness testimony even in silence.  
 
-🏮 [Return to Witness & Historical Casefiles Guide](../README.md)
+🏮 [Return to 👁️‍🗨️ Witness & Historical Casefiles Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
