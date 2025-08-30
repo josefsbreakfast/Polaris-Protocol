@@ -117,8 +117,7 @@ It documents systemic risks where government conduct itself constitutes a securi
 
 🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
 
-*Survivors radiate soverignity. Compassion is the extremis of survival.* 
+*Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
 _Last updated: 2025-08-30_  
-
 
