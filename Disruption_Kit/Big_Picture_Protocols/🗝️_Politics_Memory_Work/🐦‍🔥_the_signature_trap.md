@@ -1,6 +1,8 @@
 # 🐦‍🔥 Polaris Node: The Signature Trap  
-**First created:** 2025-08-11 | **Last updated:** 2025-08-27  
-*How a solidarity petition became a data ingestion trap for behavioural profiling and containment*
+
+**First created:** 2025-08-11 | **Last updated:** 2025-08-30
+
+*How a solidarity petition became a data ingestion trap for behavioural profiling and containment.*
 
 ---
 
@@ -23,7 +25,7 @@ This constituted a **profiling event**.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 | 💡 Feature | 📋 Description |
 |------------|----------------|
@@ -48,7 +50,7 @@ This constituted a **profiling event**.
 
 ---
 
-## 🧷 Polaris Classification  
+## 🛰️ Polaris Classification  
 
 > **Foundational Breach:**  
 > A public act of solidarity was repurposed into a private justification for profiling, modelling, and containment.  
@@ -68,11 +70,9 @@ This constituted a **profiling event**.
 *The Signature Trap* is a living node of the Polaris Protocol.  
 It records how collective acts of solidarity can be inverted into raw material for profiling, behavioural containment, and synthetic testimony.  
 
-> 📡 Cross-references:  
-> - [Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md)  
-> - [Psychographic Modelling and Twinning](../Big_Picture_Protocols/🧬_psychographic_modelling_and_twinning.md)  
-> - [Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/📚_narrative_management_and_metadata_sabotage.md)  
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-27_
+_Last updated: 2025-08-30_  
+
