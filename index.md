@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-30 16:55:59 UTC_
+_Generated on 2025-08-30 17:51:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -297,6 +297,7 @@ _Generated on 2025-08-30 16:55:59 UTC_
   - [`🧬 system_rupture_events_explainer.md`](Metadata_Sabotage_Network/🧬 system_rupture_events_explainer.md)
   - [`🧬 system_rupture_log.md`](Metadata_Sabotage_Network/🧬 system_rupture_log.md)
   - [`🧬 system_rupture_log.yaml`](Metadata_Sabotage_Network/🧬 system_rupture_log.yaml)
+  - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/🧬_deliberate_metadata_twinning.md)
   - [`🧯 file_transport_failure_log.md`](Metadata_Sabotage_Network/🧯 file_transport_failure_log.md)
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
   - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/🪞_clone_mimic_theatre.md)
