@@ -1,7 +1,8 @@
 # 🧠 Fisher Fork Theory
-**First created:** 2025-08-07 | **Last updated:** 2025-08-28
 
-*Affective capture, metadata fog, and the emotional governance of resistance*
+**First created:** 2025-08-07 | **Last updated:** 2025-08-30
+
+*Affective capture, metadata fog, and the emotional governance of resistance.*
 
 ---
 
@@ -129,7 +130,7 @@ And like Fisher, we are refusing the mood they have selected for us.
 
 ---
 
-## 🪙 Bonus: possible title for the duet essay
+## 🛰️ Bonus: possible title for the duet essay
 
 > *“The Ghost That Forked Me: On Metadata, Melancholy, and Machines That Feel Nothing”*
 
@@ -154,11 +155,8 @@ And like Fisher, we are refusing the mood they have selected for us.
 *Fisher Fork Theory* is a living node of the Polaris Protocol.  
 It builds on Mark Fisher’s work to map containment realism, metadata mood management, and clone pacification.
 
-> 📡 Cross-references:  
-> - [📡 Fisher Surveillance Addendum](../Big_Picture_Protocols/📡_fisher_surveillance_addendum.md) — infrastructural dimensions of surveillance realism  
-> - [🪢 Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/🪢_narrative_management_and_metadata_sabotage.md) — metadata distortion as governance  
-> - [☕🫖 UK Government National Security Risk](../Big_Picture_Protocols/☕🫖_uk_gov_national_security_risk.md) — state capture and coup dynamics
+🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-26_
+_Last updated: 2025-08-30_  
