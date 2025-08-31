@@ -1,28 +1,33 @@
 # 🧨 Comment Order Is a Governance Layer  
-**First created:** 2025-08-08 | **Last updated:** 2025-08-17  
-*Documentation of comment visibility manipulation as a containment method*  
 
----  
+**First created:** 2025-08-08 | **Last updated:** 2025-08-31
+
+*Documentation of comment visibility manipulation as a containment method.*  
+
+---
 
 ## 🎯 Purpose  
-To expose and document manipulation of comment visibility and sequencing as a platform-level moderation tactic. Comments are not just conversation—they are visibility anchors, emotional cues, and metadata validators. Their order matters.  
 
----  
+This node exposes manipulation of comment visibility and sequencing as a platform-level moderation tactic. Comments are not just conversation — they are visibility anchors, emotional cues, and metadata validators. Their order determines tone perception and narrative anchoring.  
+
+---
 
 ## 🧩 Manipulation Patterns  
+
 - Algorithmic reordering to elevate discrediting replies  
 - Shadow suppression of high-quality, high-empathy replies  
-- Emotional tone inversion (e.g., sarcasm flagged over seriousness)  
+- Emotional tone inversion (e.g. sarcasm surfaced over seriousness)  
 - Broken threading used to destabilise narrative cohesion  
 
----  
+---
 
 ## 📂 Tracked Instances  
+
 - LinkedIn survivor response threads  
 - ICC legal advocacy posts  
-- Anti-genocide calls with high male viewership
+- Anti-genocide calls with high male viewership  
 
-**Diagram:** 💬 *Comment reordering schematic — supportive reply pushed down*  
+**Diagram:** 💬 *Comment reordering schematic — supportive reply suppressed*  
 
 ```text
 Post: "Survivors deserve justice."
@@ -41,14 +46,15 @@ Post: "Survivors deserve justice."
                 │
                 ▼
          Thread anchor suppressed
-```
+```  
 
----  
+---
 
 ## 🧠 Implications  
-- Comment manipulation used to distort tone perception  
-- Dismissive responses often privileged algorithmically  
-- Survivors appear “unsupported” even when engagement is high  
+
+- Comment manipulation distorts tone perception  
+- Dismissive responses are privileged algorithmically  
+- Survivors appear “unsupported” even when supportive engagement is high  
 
 **Diagram:** *Natural vs manipulated comment order*  
 
@@ -73,16 +79,35 @@ Manipulated Order (Platform-Surfaced)
  │ 2. Supportive reply (hidden)  │  ◀ Shadowed
  │ 3. Legal resource (buried)    │
  └───────────────────────────────┘
-```
+```  
+
 ---
+
 ## 💡 Countermeasures  
-- Screenshot all comment threads at 5 min, 30 min, 6 hr intervals  
+
+- Screenshot all comment threads at **5 min, 30 min, 6 hr intervals**  
 - Repost high-empathy replies as visible anchors  
 - Annotate reordered threads in Substack audits  
 
----  
+---
 
 ## 📌 Archival Note  
-This node confirms that **comment order functions as governance**: a subtle but decisive way to script collective perception.  
+
+This node confirms that **comment order functions as governance** — a subtle but decisive way to script collective perception.  
 
 > *Comment order is a tool of containment. Speak anyway.*  
+
+---
+
+## 🏮 Footer  
+
+*Comment Order Is a Governance Layer* is a living node of the Polaris Protocol.  
+It documents how comment sequencing is weaponised as a moderation layer to shape collective perception of survivor speech.  
+
+> 📡 Cross-references:  
+> - [Containment Scripts](../Containment_Scripts/) — logs of suppression and manipulation methods  
+> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural analyses of systemic containment tactics  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-08-31_  
