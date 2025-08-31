@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-31 17:53:22 UTC_
+_Generated on 2025-08-31 17:55:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -308,6 +308,7 @@ _Generated on 2025-08-31 17:53:22 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`data_misuse_continuum_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart.png)
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
+    - [`💸_repression_cost_capital.md`](Polaris_Nest/Git_Intake_Drawer/💸_repression_cost_capital.md)
     - [`💾 _ui_sabotage_glossary.md`](Polaris_Nest/Git_Intake_Drawer/💾 _ui_sabotage_glossary.md)
     - [`🔥_guardrails_are_political.md`](Polaris_Nest/Git_Intake_Drawer/🔥_guardrails_are_political.md)
     - [`🛰️_handlers_at_the_table.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_handlers_at_the_table.md)
