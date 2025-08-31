@@ -1,6 +1,7 @@
 ### 🌈 Image Log: Metadata_Sabotage_Network
 
 ---
+EXAMPLES:
 
 #### 📌 `post_analytics_frozen.jpeg`
 **Context:** Post remained visible, but analytics froze at 6 impressions.
@@ -21,6 +22,7 @@
 **Notes:** Triggered force-close behaviour on LinkedIn.
 
 ---
+LOG EVENTS: 2025-08-31 UPLOAD
 
 #### 📌 `DNS_error_Press_Contact_2025-08-31_175850.png`
 **Context:** Post referencing government interference had comments frozen.
