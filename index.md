@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-31 19:53:46 UTC_
+_Generated on 2025-08-31 19:54:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -321,6 +321,7 @@ _Generated on 2025-08-31 19:53:46 UTC_
     - [`📁_absence_of_check_in.md`](Polaris_Nest/Git_Intake_Drawer/📁_absence_of_check_in.md)
     - [`🔥_guardrails_are_political.md`](Polaris_Nest/Git_Intake_Drawer/🔥_guardrails_are_political.md)
     - [`🕵️_harassment_vs_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md)
+    - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
     - [`🛰️_handlers_at_the_table.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_handlers_at_the_table.md)
     - [`🛰️_metadata_monitor_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_metadata_monitor_checklist.md)
