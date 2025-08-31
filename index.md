@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-31 18:50:07 UTC_
+_Generated on 2025-08-31 18:54:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -322,6 +322,7 @@ _Generated on 2025-08-31 18:50:07 UTC_
     - [`🛰️_handlers_at_the_table.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_handlers_at_the_table.md)
     - [`🛰️_metadata_monitor_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_metadata_monitor_checklist.md)
     - [`🧨_procedural_wait_your_turn.md`](Polaris_Nest/Git_Intake_Drawer/🧨_procedural_wait_your_turn.md)
+    - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
     - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
