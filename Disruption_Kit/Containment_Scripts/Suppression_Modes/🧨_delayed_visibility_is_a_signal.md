@@ -88,9 +88,8 @@ Visible growth = staggered, artificial plateaus
 *Delayed Visibility Is a Signal* is a living node of the Polaris Protocol.  
 It documents how trickle-feed visibility operates as a systemic delay tactic, slowing collective momentum and muting whistleblower impact.  
 
-> 📡 Cross-references:  
-> - [Delayed Visibility Gap Analysis](./🧨_delayed_visibility_gap_analysis.md) — forensic log of impression mismatches   
+🏮 Return to [Suppression Modes Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-08-31_
