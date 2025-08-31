@@ -8,7 +8,7 @@
 
 ## 📂 Contents  
 
-- [🌀 Exhaustion as a Containment Layer](./🌀_exhaustion_as_a_containment_layer.md)
+- [🌀 Exhaustion as a Containment Layer](./🌀_exhaustion_as_a_containment_layer.md) <br>
   *Chronic fatigue and overwhelm deployed as soft suppression vectors.*  
 
 - [👾 Button-mash Metadata Farming](./👾_button_mash_metadata_farming.md)  
