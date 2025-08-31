@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-31 18:31:33 UTC_
+_Generated on 2025-08-31 18:34:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -313,6 +313,7 @@ _Generated on 2025-08-31 18:31:33 UTC_
     - [`🎶_shared_tech_voicex_hm_reports.md`](Polaris_Nest/Git_Intake_Drawer/🎶_shared_tech_voicex_hm_reports.md)
     - [`🎶_voicex_calming_voice_prototype.md`](Polaris_Nest/Git_Intake_Drawer/🎶_voicex_calming_voice_prototype.md)
     - [`🏚️_how_to_live_in_a_house_that_failed_you.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_how_to_live_in_a_house_that_failed_you.md)
+    - [`👻_ghost_capture_fragment.md`](Polaris_Nest/Git_Intake_Drawer/👻_ghost_capture_fragment.md)
     - [`💸_repression_cost_capital.md`](Polaris_Nest/Git_Intake_Drawer/💸_repression_cost_capital.md)
     - [`💾 _ui_sabotage_glossary.md`](Polaris_Nest/Git_Intake_Drawer/💾 _ui_sabotage_glossary.md)
     - [`📁_absence_of_check_in.md`](Polaris_Nest/Git_Intake_Drawer/📁_absence_of_check_in.md)
