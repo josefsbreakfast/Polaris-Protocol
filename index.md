@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-31 17:51:58 UTC_
+_Generated on 2025-08-31 17:53:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -310,6 +310,7 @@ _Generated on 2025-08-31 17:51:58 UTC_
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
     - [`💾 _ui_sabotage_glossary.md`](Polaris_Nest/Git_Intake_Drawer/💾 _ui_sabotage_glossary.md)
     - [`🔥_guardrails_are_political.md`](Polaris_Nest/Git_Intake_Drawer/🔥_guardrails_are_political.md)
+    - [`🛰️_handlers_at_the_table.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_handlers_at_the_table.md)
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
     - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
