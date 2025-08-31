@@ -49,3 +49,14 @@
 ---
 
 👉 This map also helps you **locate your own experience**: you can point to where you think you are (e.g. suppression/amplification, maybe sliding toward weaponisation) without having to claim the whole arc outright.
+
+---
+
+# 🌱 Human Counterpoints: Resilience, Dignity, Humour
+- Even in the face of CIDT and enmeshment, individuals can reclaim agency.  
+- **Humour** breaks the spell: laughing at the absurdity of surveillance turns exposure into mockery.  
+- **Dignity** survives in refusing to let others decide what parts of you are shameful.  
+- **Perspective** matters: absurd overcollection doesn’t just show their power, it shows their pettiness (entire systems reduced to cataloguing crushes and quirks).  
+
+👉 Documenting not just harm, but also **resilient response**, makes the continuum more human — showing that even under manipulation, people resist by holding onto laughter, voice, and self-definition.
+
