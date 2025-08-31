@@ -78,10 +78,8 @@ By slowing feedback loops, platforms reduce capacity to time escalation or capit
 *Delayed Visibility Gap Analysis* is a living node of the Polaris Protocol.  
 It documents how delayed impression reporting and hidden reach function as containment tactics to obscure momentum and limit advocacy efficacy.  
 
-> 📡 Cross-references:  
-> - [Containment Scripts](../Containment_Scripts/) — logs of suppression and visibility manipulation methods  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic analyses of containment architectures  
+🏮 Return to [Suppression Modes Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-08-31_
