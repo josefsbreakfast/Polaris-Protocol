@@ -8,7 +8,7 @@
 
 ## 📂 Contents  
 
-- [🌀 Exhaustion as a Containment Layer](./🌀_exhaustion_as_a_containment_layer.md)  
+- [🌀 Exhaustion as a Containment Layer](https://github.com/josefsbreakfast/Polaris-Protocol/blob/daf7e9e0edd7280e53e4c00cfc5ad57d9bcbe895/Disruption_Kit/Containment_Scripts/Suppression_Modes/%F0%9F%8C%80_exhaustion_as_a_containment_%20layer.md)
   *Chronic fatigue and overwhelm deployed as soft suppression vectors.*  
 
 - [👾 Button-mash Metadata Farming](./👾_button_mash_metadata_farming.md)  
