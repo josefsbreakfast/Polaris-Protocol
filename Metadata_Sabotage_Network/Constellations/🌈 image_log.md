@@ -21,3 +21,9 @@
 **Notes:** Triggered force-close behaviour on LinkedIn.
 
 ---
+
+#### 📌 `DNS_error_Press_Contact_2025-08-31_175850.png`
+**Context:** Post referencing government interference had comments frozen.
+**Associated Tags:** `#NoEmailForYou`, `#AntiDemocracy`
+**Date Logged:** 2025-08-31
+**Notes:** DNS did not respond on port 25 (SMTP); unclear if recipient/sender interference.
