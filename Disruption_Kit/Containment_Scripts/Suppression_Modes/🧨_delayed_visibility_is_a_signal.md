@@ -89,9 +89,7 @@ Visible growth = staggered, artificial plateaus
 It documents how trickle-feed visibility operates as a systemic delay tactic, slowing collective momentum and muting whistleblower impact.  
 
 > 📡 Cross-references:  
-> - [Delayed Visibility Gap Analysis](./🧨_delayed_visibility_gap_analysis.md) — forensic log of impression mismatches  
-> - [Containment Scripts](../Containment_Scripts/) — suppression and visibility manipulation methods  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural analyses of systemic containment  
+> - [Delayed Visibility Gap Analysis](./🧨_delayed_visibility_gap_analysis.md) — forensic log of impression mismatches   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
