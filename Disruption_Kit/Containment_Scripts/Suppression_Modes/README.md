@@ -1,99 +1,61 @@
-# 🧨 Reach Metrics Are Not Neutral  
+# 🧨 Containment Scripts – Suppression Modes  
 
-**First created:** 2025-08-08 | **Last updated:** 2025-08-31
+**First created:** 2025-08-17 | **Last updated:** 2025-08-31
 
-*Analytics as containment: documenting distortions in reach and engagement.*  
-
----
-
-## 🎯 Purpose  
-
-This node challenges the assumption that analytics reflect truth. Reach, engagement, impressions — these are platform-defined values, not immutable realities.  
-
-Survivors and whistleblowers are structurally minimised even when content is powerful.  
+*Forensic fragments of visibility suppression and distortion tactics.*  
 
 ---
 
-## 📊 Forensic metrics  
+## 📂 Contents  
 
-- Ghost shares vs registered reach  
-- Seen-by count vs post-forwarded reports  
-- Read/scroll time vs engagement notation  
+- [🌀 Exhaustion as a Containment Layer](./🌀_exhaustion_as_a_containment_layer.md)  
+  *Chronic fatigue and overwhelm deployed as soft suppression vectors.*  
 
-**Diagram:** *Reach distortion schematic — ghost shares vs visible reach*  
+- [👾 Button-mash Metadata Farming](./👾_button_mash_metadata_farming.md)  
+  *Brute-force search repetition used to seed false associations in autocomplete and metadata trails.*  
 
-```text
- Post: Survivor testimony shared
+- [🖱️ Tactile Throttling When Interaction Becomes Interference](./🖱️_tactile_throttling_when_interaction_becomes_interference.md)  
+  *UX friction and slowed input as behavioural containment.*  
 
- ┌───────────────────────────────────┐
- │ Dashboard shows: 300 impressions  │
- └───────────────────────────────────┘
-                 ▲
-                 │   Metrics locked
- ┌───────────────────────────────────┐
- │ Ghost shares (20+ forwards)       │
- │ Visible reach not incremented     │
- └───────────────────────────────────┘
-                 │
-                 ▼
-      "Support appears minimal"
-```  
+- [🗳️ "Liberal Democracy!" Response Logic](./🗳️_liberal_democracy_response_logic.md)  
+  *Keyword-triggered containment pathways around political critique.*  
 
----
+- [🚫 Blocked at the Gateway](./🚫_blocked_at_the_gateway.md)  
+  *Access denials and routing suppressions preventing escalation.*  
 
-## 🛠 Tools in play  
+- [🧨 Comment Order Is a Governance Layer](./🧨_comment_order_is_a_governance_layer.md)  
+  *Comment sequencing manipulated to distort tone and perceived support.*  
 
-- Metadata throttling  
-- Impression suppression  
-- Demographic lockout  
-- Delayed counter increment  
+- [🧨 Delayed Visibility Gap Analysis](./🧨_delayed_visibility_gap_analysis.md)  
+  *Discrepancies between reported and visible impressions as suppression evidence.*  
 
-**Diagram:** *Counter increment lag — impressions withheld, then released in bursts*  
+- [🧨 Delayed Visibility Is a Signal](./🧨_delayed_visibility_is_a_signal.md)  
+  *Trickle-feed visibility delays as governance by throttling.*  
 
-```text
-Timeline (Hours)
+- [🧨 How Prevent Uses DARVO to Detain](./🧨_how_prevent_uses_darvo_to_detain.md)  
+  *Discursive inversion (DARVO) used to justify psychiatric containment.*  
 
-0h   6h   12h   24h   48h
-│    │    │     │     │
-●────●────●─────●─────●───── Reported Impressions
-●         ●     ●           Actual Audience Views (hidden)
-
-Gap = Suppression Window
-```  
+- [🧨 Reach Metrics Are Not Neutral](./🧨_reach_metrics_are_not_neutral.md)  
+  *Analytics systems weaponised to minimise survivor impact.*  
 
 ---
 
-## 📎 Typical targets  
+## 🔎 Purpose  
 
-- Women whistleblowers  
-- Jewish anti-Zionists  
-- Disabled survivors  
-- Emotional political critics  
+This directory collates forensic records of **suppression modes**.  
+Each entry is a script fragment showing how platforms and institutions modulate visibility, distort perception, and contain survivor testimony.  
 
----
-
-## 🔁 Disobedience methods  
-
-- Cross-post content with timed hashes  
-- Export screenshots before and after unlock points  
-- Use emotionally intelligent audit posts to flag divergence  
-
----
-
- *Visibility is not a gift. It is fought for. Measured reach is not your real reach.*  
+*Suppression is not silence. It is signal.*  
 
 ---
 
 ## 🏮 Footer  
 
-*Reach Metrics Are Not Neutral* is a living node of the Polaris Protocol.  
-It documents distortions in analytics as systemic containment, where visibility measures are manipulated to minimise survivor testimony and political critique.  
+*Containment Scripts – Suppression Modes* is a living node of the Polaris Protocol.  
+It curates and organises suppression methods into an accessible directory for forensic use, survivor training, and systemic analysis.  
 
-🏮 Return to [Containment Scripts Guide](https://github.com/josefsbreakfast/Polaris-Protocol/blob/addd5271bfa78b16de861c44b0371686263dda88/Disruption_Kit/Containment_Scripts/README.md)
+🏮 Return to [Suppression Modes Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-08-31_
-
-
-
