@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-31 09:40:24 UTC_
+_Generated on 2025-08-31 09:44:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -117,6 +117,7 @@ _Generated on 2025-08-31 09:40:24 UTC_
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/README.md)
       - [`🌀_exhaustion_as_a_containment_ layer.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_exhaustion_as_a_containment_ layer.md)
+      - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
       - [`🖱_tactile_throttling_when_interaction_becomes_interference.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🖱_tactile_throttling_when_interaction_becomes_interference.md)
       - [`🗳️_liberal_democracy_response_logic.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🗳️_liberal_democracy_response_logic.md)
       - [`🚫_blocked_at_the_gateway.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🚫_blocked_at_the_gateway.md)
@@ -126,7 +127,6 @@ _Generated on 2025-08-31 09:40:24 UTC_
       - [`🧨_how_prevent_uses_darvo_to_detain.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_how_prevent_uses_darvo_to_detain.md)
       - [`🧨_reach_metrics_are_not_neutral.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_reach_metrics_are_not_neutral.md)
     - [`README.md`](Disruption_Kit/Containment_Scripts/README.md)
-    - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/👾_button_mash_metadata_farming.md)
     - [`🔮_seance_protocol.md`](Disruption_Kit/Containment_Scripts/🔮_seance_protocol.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
