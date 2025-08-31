@@ -45,6 +45,7 @@ coping.
                     (worship, worship,       (shopping, substances,   then it gets
                     worship)                 self-soothing)           emptied
                                                                       again."
+                                                                      
   ---------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
