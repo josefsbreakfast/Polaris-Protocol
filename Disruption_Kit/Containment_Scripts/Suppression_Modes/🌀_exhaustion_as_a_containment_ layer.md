@@ -1,6 +1,6 @@
 # 🌀 Exhaustion as a Containment Layer
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-30
+**First created:** 2025-08-17 | **Last updated:** 2025-08-31
 
 *Exhaustion and friction as weaponised governance, observed in daily interference and placed within a two-decade lineage of suppression tactics.*  
 
@@ -122,11 +122,8 @@ Documenting the interference ensures it cannot pass as simple “forgetting.”
 *Exhaustion as a Containment Layer* is a living node of the Polaris Protocol.  
 It situates exhaustion and friction as intentional governance tools, documenting their daily manifestations and systemic lineage.  
 
-> 📡 Cross-references:  
-> - [Counter Nudges](../Containment_Scripts/Counter_Nudges/) — reversal methods for behavioural interventions  
-> - [Containment Scripts](../Containment_Scripts/) — logs of suppression and visibility manipulation methods  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural analyses of systemic containment dynamics  
+🏮 Return to [Suppression Modes Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-30_
+_Last updated: 2025-08-31_
