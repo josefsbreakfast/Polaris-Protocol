@@ -17,7 +17,7 @@
 - [🧨 Polite Post Containment Probe](./🧨_polite_post_containment_probe.md)  
   *Neutral, fact-based posts designed to test suppression and account-level throttling.*  
 
-- [🛠️ Practical Resilience Nodes](./🛠️_practical_resilience_nodes.md)  
+- [🛠️ Practical Resilience Nodes](./🛠_practical_resilience_nodes.md)  
   *Seed collection of survivor-led strategies for conserving energy and redistributing labour under containment.*  
 
 - [🍬 Containment Toffee Plot (2025-08-12)](./🍬_containment_toffee_plot_2025-08-12_BR_compact.png)  
