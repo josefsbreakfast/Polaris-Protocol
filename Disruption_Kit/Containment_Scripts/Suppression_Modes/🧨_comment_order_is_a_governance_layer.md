@@ -104,10 +104,8 @@ This node confirms that **comment order functions as governance** — a subtle b
 *Comment Order Is a Governance Layer* is a living node of the Polaris Protocol.  
 It documents how comment sequencing is weaponised as a moderation layer to shape collective perception of survivor speech.  
 
-> 📡 Cross-references:  
-> - [Containment Scripts](../Containment_Scripts/) — logs of suppression and manipulation methods  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural analyses of systemic containment tactics  
+🏮 Return to [Suppression Modes Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-08-31_
