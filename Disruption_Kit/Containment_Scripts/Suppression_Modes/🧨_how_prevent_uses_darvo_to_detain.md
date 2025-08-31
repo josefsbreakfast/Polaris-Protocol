@@ -2,7 +2,7 @@
 
 **First created:** 2025-08-18 | **Last updated:** 2025-08-31
  
-*Containment script analysis of Prevent’s use of DARVO framing to justify psychiatric detention*  
+*Containment script analysis of Prevent’s use of DARVO framing to justify psychiatric detention.*  
 
 ---
 
