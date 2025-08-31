@@ -81,11 +81,8 @@ This document should accompany all future **Subject Access Request escalations**
 *Blocked at the Gateway* is a living node of the Polaris Protocol.  
 It records suppression of survivor legal communications and situates these within systemic containment architectures.  
 
-> 📡 Cross-references:  
-> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — testimony and communications interference logs  
-> - [Containment Scripts](../Containment_Scripts/) — suppression and routing manipulation methods  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic containment typologies  
+🏮 Return to [Suppression Modes Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-08-31_
