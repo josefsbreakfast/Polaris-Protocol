@@ -1,5 +1,7 @@
-# 🛠 Practical Resilience Nodes  
-**First created:** 2025-08-30 | **Last updated:** 2025-08-30  
+# 🛠 Practical Resilience Nodes
+
+**First created:** 2025-08-30 | **Last updated:** 2025-08-31
+
 *Survivor-led strategies for navigating daily suppression, conserving energy, and redistributing labour under containment conditions.*  
 
 ---
@@ -36,4 +38,4 @@ It collects survivor-authored strategies for enduring and outlasting containment
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-30_
+_Last updated: 2025-08-31_
