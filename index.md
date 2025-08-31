@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-08-31 18:14:04 UTC_
+_Generated on 2025-08-31 18:22:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -309,6 +309,7 @@ _Generated on 2025-08-31 18:14:04 UTC_
     - [`data_misuse_continuum_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart.png)
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
     - [`☄️_undermining_scripts.md`](Polaris_Nest/Git_Intake_Drawer/☄️_undermining_scripts.md)
+    - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
     - [`🎶_shared_tech_voicex_hm_reports.md`](Polaris_Nest/Git_Intake_Drawer/🎶_shared_tech_voicex_hm_reports.md)
     - [`🎶_voicex_calming_voice_prototype.md`](Polaris_Nest/Git_Intake_Drawer/🎶_voicex_calming_voice_prototype.md)
     - [`💸_repression_cost_capital.md`](Polaris_Nest/Git_Intake_Drawer/💸_repression_cost_capital.md)
