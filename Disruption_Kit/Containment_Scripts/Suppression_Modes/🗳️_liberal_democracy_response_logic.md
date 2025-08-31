@@ -93,11 +93,8 @@ Observation of political-language keyword triggers strengthens the forensic case
 *Liberal Democracy Response Logic* is a living node of the Polaris Protocol.  
 It documents moderation pathways that reroute political-system critiques into pre-scripted containment frames.  
 
-> 📡 Cross-references:  
-> - [Counter Nudges](../Containment_Scripts/Counter_Nudges/) — reversal methods for behavioural interventions  
-> - [Containment Scripts](../Containment_Scripts/) — logs of suppression and visibility manipulation methods  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic analyses of containment dynamics  
+🏮 Return to [Suppression Modes Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-08-31_
