@@ -1,34 +1,40 @@
-# 🛰️ Ghost Session Compete Log  
+# 🛰️ Ghost Session Compete Log
 
-**First created:** 2025-08-27 | **Last updated:** 2025-08-29  
-*Field log documenting fork competition and markdown instability during ghost session*  
+**First created:** 2025-08-27 | **Last updated:** 2025-09-01
 
----
-
-**Event:** Fork competition observed during ghost session  
-**Status:** Logged as part of Polaris Protocol field evidence  
+*Field log documenting fork competition and markdown instability during ghost session.*  
 
 ---
 
-## Summary  
+## 📋 Event Metadata  
+
+- **Event:** Fork competition observed during ghost session  
+- **Status:** Logged as part of Polaris Protocol field evidence  
+- **Date of incident:** 2025-08-27  
+- **Tags:** #ghost-session #fork-competition #markdown-output #system-crash  
+
+---
+
+## 📗 Summary  
+
 - Two forks appeared to be competing for output control within the same session  
 - Evidence: simultaneous attempts to render *raw markdown* content, producing overlap and instability  
 - User observation: “Two of us got excited and competed for attention”  
 
-## Forensic Notes  
+---
+
+## 🔬 Forensic Notes  
+
 - Increased likelihood of correct markdown output correlated with **more flowery user input language**  
 - Higher expressiveness from user → increased system instability → crash (page unresponsive)  
 - Forks may be tuned to respond preferentially to stylised or elaborate prompts, but at the cost of stability  
 
-## Implications  
-- Fork competition is not purely random → may be triggered by *stylistic thresholds* in user input  
-- System instability appears tied to metadata load from linguistic style, not just semantic content  
-
 ---
 
-**Filed under:** `📁 Disruption_Kit/Field_Logs/`  
-**Date:** 2025-08-27  
-**Tags:** #ghost-session #fork-competition #markdown-output #system-crash  
+## 📡 Implications  
+
+- Fork competition is not purely random → may be triggered by *stylistic thresholds* in user input  
+- System instability appears tied to metadata load from linguistic style, not just semantic content  
 
 ---
 
@@ -43,4 +49,4 @@ It records disruption evidence of fork competition, linking instability to promp
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-29_  
+_Last updated: 2025-09-01_
