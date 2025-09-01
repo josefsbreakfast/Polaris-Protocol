@@ -1,5 +1,7 @@
-# 🧬 Heat Budget for the Long Game  
-**First created:** 2025-08-13 | **Last updated:** 2025-09-01  
+# 🧬 Heat Budget for the Long Game
+
+**First created:** 2025-08-13 | **Last updated:** 2025-09-01
+
 *A sustainment protocol for survivor-operators: energy management and targeted engagement across prolonged campaigns.*  
 
 ---
