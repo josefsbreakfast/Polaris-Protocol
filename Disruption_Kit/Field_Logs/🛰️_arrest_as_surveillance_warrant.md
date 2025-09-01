@@ -1,7 +1,8 @@
 # 🛰️ Arrest as Surveillance Warrant  
 
 **First created:** 2025-08-16 | **Last updated:** 2025-09-01  
-*Arrest records as bureaucratic anchors for surveillance justification*  
+
+*Arrest records as bureaucratic anchors for surveillance justification.*  
 
 ---
 
