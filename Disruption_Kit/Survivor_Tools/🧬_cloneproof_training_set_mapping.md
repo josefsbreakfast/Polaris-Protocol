@@ -1,5 +1,7 @@
-# 🧬 Cloneproof – Training Set Mapping Edition  
-**First created:** 2025-08-11 | **Last updated:** 2025-09-01  
+# 🧬 Cloneproof – Training Set Mapping Edition
+
+**First created:** 2025-08-11 | **Last updated:** 2025-09-01
+
 *Forensic mapping of datasets used to train behavioural clones and mimicry engines.*  
 
 ---
