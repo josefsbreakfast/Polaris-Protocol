@@ -1,7 +1,8 @@
 # 🛰️ Forensic Thread Analysis (ICC 2025-08-07)  
 
-**First created:** 2025-08-07 | **Last updated:** 2025-09-01  
-*ICC/ICJ tag containment — comment thread forensic breakdown*  
+**First created:** 2025-08-07 | **Last updated:** 2025-09-01 
+
+*ICC/ICJ tag containment — comment thread forensic breakdown.*  
 
 ---
 
