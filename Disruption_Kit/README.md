@@ -1,6 +1,8 @@
-# 🛠️ Disruption Kit  
-**First created:** 2025-08-08 | **Last updated:** 2025-09-01  
-*Operational tools, forensic logs, and countermeasures for resisting behavioural containment*
+# 🛠️ Disruption Kit
+
+**First created:** 2025-08-08 | **Last updated:** 2025-09-01
+
+*Operational tools, forensic logs, and countermeasures for resisting behavioural containment.*
 
 ---
 
