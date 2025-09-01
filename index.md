@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-01 10:48:38 UTC_
+_Generated on 2025-09-01 10:49:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -333,6 +333,7 @@ _Generated on 2025-09-01 10:48:38 UTC_
     - [`🧨_procedural_wait_your_turn.md`](Polaris_Nest/Git_Intake_Drawer/🧨_procedural_wait_your_turn.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
+    - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🧭_uk_tech_talent_scaling_policy_timeline.md)
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
     - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
