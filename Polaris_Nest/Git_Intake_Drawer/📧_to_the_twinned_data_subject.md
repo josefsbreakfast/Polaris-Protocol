@@ -18,3 +18,7 @@ I shall do you the kindness of not elaborating any further. I do appreciate you 
 Don't worry; I'm not done. 
 
 Apparently men's advertising has become even as questionable as the cars they drive.
+
+Addendum:
+
+I appreciate it is extremely difficult for me to parse between genuine feed, twinned overlay, content injection, noise injection, etc., and that the other actors surrounding my dataset have not been the greatest of intellectuals. However, knowledge and understanding of neuroscience as applied to EBM has been lacking across the field. This is fine - everyone has their strengths and weaknesses, I am just very conscious that everyone seems to think they took science beyond 16 these days, when they very much *have not.* One assumes.
