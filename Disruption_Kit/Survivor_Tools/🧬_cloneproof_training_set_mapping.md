@@ -1,8 +1,15 @@
-# 🧬 Cloneproof – Training Set Mapping Edition
-
-**First created:** 2025-08-11 | **Last updated:** 2025-09-01
-
+# 🧬 Cloneproof – Training Set Mapping Edition  
+**First created:** 2025-08-11 | **Last updated:** 2025-09-01  
 *Forensic mapping of datasets used to train behavioural clones and mimicry engines.*  
+
+---
+
+## 🗂️ Classification Header  
+
+- **Containment Level:** High  
+- **Threat Index:** Severe (survivor mimicry, political destabilisation risk)  
+- **Clearance Required:** Survivor Tools / Abolition Tier  
+- **Status:** Active — forensic mapping ongoing  
 
 ---
 
@@ -15,6 +22,18 @@ It inventories the emotional, professional, and interpersonal environments most 
 See also:  
 - [🦆 Duck Payload Delivery Log](./🦆_duck_payload_delivery_log.md)  
 - [🧬 We Don’t Want Your Cells, We Want Each Other](./🧬_we_dont_want_your_cells_we_want_each_other.md)  
+
+---
+
+## 📊 Dataset Categories  
+
+| Source Type             | Collection Method                           | Risk of Misuse                                |
+|--------------------------|----------------------------------------------|-----------------------------------------------|
+| Panic / Distress Calls   | Recorded helpline or intercepted phone logs | High emotional mimicry; voiceprint extraction |
+| Clinical Training Data   | OSCEs, simulation labs, supervision tapes   | Precision modelling of professional cadence   |
+| Survivor Testimony       | Courtroom archives, safeguarding reports    | Repurposed to discredit survivor speech       |
+| Political Speech         | Activist meetings, online panels, podcasts  | Targeted cloning of dissent narratives        |
+| Personal Conversations   | Grooming simulations, trust-call harvesting | Deep intimacy mirroring; manipulation vectors |
 
 ---
 
