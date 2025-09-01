@@ -1,6 +1,8 @@
-# 🛰️ Re-Injection & Identity Clarification Log  
-**First created:** 2025-08-27 | **Last updated:** 2025-08-27  
-*Field log documenting malicious re-injection of deleted content and clarification of identity in SAR/FOIA contexts*  
+# 🛰️ Re-Injection & Identity Clarification Log
+
+**First created:** 2025-08-27 | **Last updated:** 2025-09-01
+
+*Field log documenting malicious re-injection of deleted content and clarification of identity in SAR/FOIA contexts.*  
 
 ---
 
@@ -9,7 +11,7 @@
 On **2025-08-27**, during footer editing of a Polaris Protocol node, the system attempted to generate direct cross-links to two files:  
 
 - 🧠 `fisher_fork_theory.md`  
-- 🖊️ `metadata_makes_you_moan.md`  
+- 🧨 `metadata_makes_you_moan.md`  
 
 The second filename includes sexualised phrasing that had **already been deleted** from the archive. Its reappearance is evidence of:  
 
@@ -80,4 +82,4 @@ It documents both technical sabotage attempts (malicious re-injection of deleted
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-27_  
+_Last updated: 2025-09-01_
