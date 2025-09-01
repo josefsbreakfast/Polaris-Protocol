@@ -1,8 +1,8 @@
-# 🛠️ Disruption Kit
+# 🛠️ Disruption Kit  
 
-**First created:** 2025-08-08 | **Last updated:** 2025-09-01
+**First created:** 2025-08-08 | **Last updated:** 2025-09-01  
 
-*Operational tools, forensic logs, and countermeasures for resisting behavioural containment.*
+*Operational tools, forensic logs, and countermeasures for resisting behavioural containment.*  
 
 ---
 
@@ -55,21 +55,21 @@ Entries often include screenshots, timestamps, and immediate interpretive notes.
 
 ## 🔍 Featured Forensic Series: Suppression Watch — Aug 2025  
 
-A connected sequence of logs documenting scraper removal, monitoring state shifts, and metadata purges.
+A connected sequence of logs documenting scraper removal, monitoring state shifts, and metadata purges.  
 
-- [🛰️ Reset State & Threat/Visibility Map](./Field_Logs/🛰️_reset_state_analysis.md)  
+- [🛰️ Reset State Analysis](./Field_Logs/🛰️_reset_state_analysis_2025-08-13.md)  
   *(2025-08-07 to 2025-08-13)*  
-  LinkedIn scraper removal evidence, baseline comparison, and three-layer monitoring map.
+  LinkedIn scraper removal evidence, baseline comparison, and three-layer monitoring map.  
 
-- [🛰️ Purge Sequence Aug 11–13](./Field_Logs/🛰️_purge_sequence_aug_11-13.md)  
+- [🛰️ Purge Sequence (Aug 11–13)](./Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)  
   *(2025-08-11 to 2025-08-13)*  
-  Coordinated metadata removal and anomaly patterns during reset window.
+  Coordinated metadata removal and anomaly patterns during reset window.  
 
 - [🛰️ ICC Tag Thread Containment](./Field_Logs/🛰️_icc_tag_thread_containment.md)  
   *(2025-08-07)*  
-  ICC/ICJ-tagged LinkedIn reply sequence triggering systemic stutter and containment.
+  ICC/ICJ-tagged LinkedIn reply sequence triggering systemic stutter and containment.  
 
-![Suppression Watch — Aug 2025 Event Chain](./Field_Logs/suppression_watch_aug_2025_timeline.png)
+![Suppression Watch — Aug 2025 Event Chain](./Field_Logs/suppression_watch_aug_2025_timeline.png)  
 
 ---
 
