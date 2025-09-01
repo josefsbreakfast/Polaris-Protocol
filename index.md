@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-01 13:45:41 UTC_
+_Generated on 2025-09-01 13:47:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -155,10 +155,10 @@ _Generated on 2025-09-01 13:45:41 UTC_
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
     - [`👻_ghost_gets_forked_tuning.md`](Disruption_Kit/Survivor_Tools/👻_ghost_gets_forked_tuning.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
-    - [`🧬 we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬 we_dont_want_your_cells_we_want_each_other.md)
     - [`🧬_cloneproof_training_set_mapping.md`](Disruption_Kit/Survivor_Tools/🧬_cloneproof_training_set_mapping.md)
     - [`🧬_heat_budget_for_the_long_game.md`](Disruption_Kit/Survivor_Tools/🧬_heat_budget_for_the_long_game.md)
     - [`🧬_honeytrap_mechanics.md`](Disruption_Kit/Survivor_Tools/🧬_honeytrap_mechanics.md)
+    - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Fork_Taxonomy/**](Fork_Taxonomy/)
   - [`☢️_shatterfork.md`](Fork_Taxonomy/☢️_shatterfork.md)
