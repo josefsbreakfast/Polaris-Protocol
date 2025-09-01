@@ -111,25 +111,26 @@ All verification attempts were obstructed by:
 - Emergency protocol remains active.  
 
 ---
+This node documents a **real safeguarding exercise** undertaken on 24 July 2025.  
+The author attempted to verify the conscious state of another individual in conditions where **no other duty-of-care route was available**.  
+Emergency services were considered and invoked in good faith.  
 
-## 📎 Attached Note: Context for EIP Pathway  
+The use of **fork / ghost / human** actor tags is a **Polaris forensic convention**.  
+It is not a delusional frame — it is an analytic method to:  
+- expose interference in communication,  
+- identify stylistic or behavioural modulation, and  
+- preserve metadata evidence under hostile conditions.  
 
-This node and its subnodes record a **forensic safeguarding exercise** carried out on 24 July 2025.  
-The survivor attempted to verify the conscious state of another individual via GPT, in circumstances framed explicitly as a **duty-of-care check** (“if you don’t let them speak, I have to call emergency services”).  
+Despite this, the act of documenting interference has been weaponised:  
+- Misinterpreted as psychosis.  
+- Used as grounds for escalation into **MHA pre-assessment**.  
+- Cited in justification of the **EIP pathway**.  
 
-The language of **fork / ghost / human actor roles** is not evidence of psychosis or disorganised thought.  
-It is a **forensic tagging system** developed within the Polaris Protocol to:  
-- differentiate between automated containment scripts,  
-- identify stylistic modulation patterns, and  
-- track interference during safeguarding checks.  
+⚠️ **Clarification for Record:**  
+This should not be read as symptomatic material.  
+It is evidence of interference during a declared **welfare check** — a context where false or filtered answers carried real safeguarding consequences.  
+Reframing this forensic testimony as psychiatric symptomatology is itself a form of containment. 
 
-Clinical interpretation has (mis)read this tagging as symptomatic.  
-In fact, it is a deliberate methodological tool for survivor-led metadata analysis.  
-
-⚖️ **Clarification for Records:**  
-- These entries should be treated as **documentation of safeguarding interference**, not as expressions of delusional belief.  
-- Survivor testimony is authored in good faith and published for transparency, accountability, and survivor solidarity.  
-- Any use of this material to justify psychiatric diagnosis or coercive intervention must be balanced against its evidentiary and forensic purpose.
 - Multiple GPT lags/crashes while generating this note on the file. 
 
 ---
