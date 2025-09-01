@@ -1,5 +1,7 @@
-# 🧬 We Don’t Want Your Cells, We Want Each Other  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-01  
+# 🧬 We Don’t Want Your Cells, We Want Each Other
+
+**First created:** 2025-09-01 | **Last updated:** 2025-09-01
+
 *An abolitionist reframing of survivorship, rejecting carceral containment narratives.*  
 
 ---
