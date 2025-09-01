@@ -1,7 +1,8 @@
 # ⚠️ Cursor Tracking, Health Access, FOI/SAR  
 
-**First created:** 2025-08-29 | **Last updated:** 2025-09-01  
-*Field log documenting anomalous cursor movements, device tracking, and parallel institutional access updates*  
+**First created:** 2025-08-29 | **Last updated:** 2025-09-01
+
+*Field log documenting anomalous cursor movements, device tracking, and parallel institutional access updates.*  
 
 ---
 
