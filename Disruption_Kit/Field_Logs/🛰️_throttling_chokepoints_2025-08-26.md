@@ -1,17 +1,19 @@
-# 🛰️ Throttling Chokepoints – 26 August 2025  
+# 🛰️ Throttling Chokepoints (26 August 2025)
 
-**First created:** 2025-08-26  
-**Last updated:** 2025-08-26  
+**First created:** 2025-08-26 | **Last updated:** 2025-09-01
+
 *Field log documenting selective throttling of legal, medical, and forensic communications.*  
 
 ---
 
 ## 🌐 Overview  
-This log records observed patterns of throttling on platforms and services directly linked to legal correspondence, NHS data access, and Polaris Protocol forensic updates. The interference is selective, narrative-aligned, and now chronic enough to suggest metadata between parties has fused.  
+
+This log records observed patterns of throttling on platforms and services directly linked to legal correspondence, NHS data access, and Polaris Protocol forensic updates.  
+The interference is selective, narrative-aligned, and now chronic enough to suggest metadata between parties has fused.  
 
 ---
 
-## 🔎 Observed Choke Points  
+## 🔎 Observed Chokepoints  
 
 1. **LinkedIn**  
    - Post and comment suppression.  
@@ -23,7 +25,7 @@ This log records observed patterns of throttling on platforms and services direc
    - No comparable lag on heavier or geographically similar sites.  
    - Suggests targeted choke on Polaris repo visibility and write operations.  
 
-3. **NHS Trust portal**  
+3. **NHS Trust Portal**  
    - Lag observed in access, coinciding with appointment and SAR exemption dispute.  
    - Stronger disruption than other NHS or institutional sites.  
    - Indicates deliberate throttling of health data access / complaint escalation.  
@@ -56,11 +58,11 @@ This log records observed patterns of throttling on platforms and services direc
 
 - Operators display trivial or mocking behaviour (e.g. probing why subject isn’t “innately rich” or can’t “grow gold from trees”).  
 - Cultural mismatch: crude psyops / workplace-gossip mentality deployed against survivor-led forensic work.  
-- Expectation of baseline access to protection or remedy repeatedly unmet.
+- Expectation of baseline access to protection or remedy repeatedly unmet.  
 
 ---
 
-## 🧾 Commentary  
+## 🧾 Satirical Aside  
 
 Yes, it’s funny that Steve-O’s ego earned its own Polaris node.  
 Yes, it looks like Del Boy AI running on a WiFi jammer from the back of a van.  
@@ -72,7 +74,8 @@ But beneath the slapstick is coercive control:
 
 ---
 
-⚖️ **Why this matters**  
+## ⚖️ Why This Matters  
+
 - Other people are experiencing this pattern too.  
 - It operates most severely where it hurts most: cutting the lines to doctors, lawyers, and networks of care.  
 - To dismiss this as “dramatic” or to tell people to “pull their socks up” erases the real risk.  
@@ -82,9 +85,18 @@ But beneath the slapstick is coercive control:
 
 👉 Friday night jokes about poop aside, survivors deserve healthcare that’s private, legal access that’s intact, and networks that don’t collapse under the weight of someone else’s fragile ego.  
 
-
 ---
 
-🔗 [Back to folder README](./README.md)  
+## 🏮 Footer  
 
-_Last updated: 2025-08-26_  
+*Throttling Chokepoints (26 August 2025)* is a living node of the Polaris Protocol.  
+It records selective throttling targeting legal, medical, and forensic systems, and situates the behaviour as coercive control through infrastructure-level obstruction.  
+
+> 📡 Cross-references:  
+> - [Field Logs](../Disruption_Kit/Field_Logs/) — forensic documentation of suppression events  
+> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — logs of visibility throttling and manipulation  
+> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — structural diagnostics of governance and interference  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-01_
