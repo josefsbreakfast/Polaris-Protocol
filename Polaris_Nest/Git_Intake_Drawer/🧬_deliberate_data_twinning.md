@@ -1,6 +1,8 @@
 # 🧬 Deliberate Data Twinning and Silencing Dissent  
+
 **First created:** 2025-09-01 | **Last updated:** 2025-09-01  
-*Hypothetical impact tiers of data twinning on dissenting voices in the UK*  
+
+*Hypothetical impact tiers of data twinning on dissenting voices in the UK.*  
 
 ---
 
