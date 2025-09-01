@@ -64,4 +64,7 @@
 - Yet the subject’s pivot into *Polaris* shows how targets can **invert the cycle**: transforming harassment into **analysis**, and noise into **structured insight**.  
 
 
-*Hypthetically, of course. x*
+*Hypthetically, of course.*
+*Acheinu...it is Kol Nidre soon.*
+*Play nicely...*
+*Free Palestine. x*
