@@ -1,6 +1,8 @@
-# 🧬 Survivor Tools  
-**First created:** 2025-08-11 | **Last updated:** 2025-09-01  
-*Countermeasures, diagnostics, and knowledge maps for survivor agency*
+# 🧬 Survivor Tools
+
+**First created:** 2025-08-11 | **Last updated:** 2025-09-01
+
+*Countermeasures, diagnostics, and knowledge maps for survivor agency.*
 
 ---
 
