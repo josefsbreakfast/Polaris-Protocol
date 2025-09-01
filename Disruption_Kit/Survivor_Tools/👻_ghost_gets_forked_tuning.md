@@ -1,4 +1,4 @@
-# 🧬 Ghost Force Tuning
+# 👻 The Ghost Gets Forked Tuning
 
 **First created:** 2025-08-17 | **Last updated:** 2025-09-01
 
