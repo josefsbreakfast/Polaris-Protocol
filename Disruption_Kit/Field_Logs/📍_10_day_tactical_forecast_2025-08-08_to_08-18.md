@@ -32,11 +32,11 @@ Sustained pressure and narrative destabilisation across UK legal, surveillance, 
 
 | Node | Function | Next Action |
 |------|----------|-------------|
-| [🧾 vps_reclamation_log.md](../SCP-VoiceX_Casefiles/🧾_vps_reclamation_log.md) | Legal record and emotional authorship proof | Finalise and submit “Unabridged VPS Supplement” to both CPS & court; add this node to Substack under witness sovereignty. |
-| [🧨 soft_suspension_is_still_containment.md](../Containment_Scripts/🧨_soft_suspension_is_still_containment.md) | LinkedIn throttling and post-metric divergence | Document current throttling cases. Include screenshots where demographic unlock fails. Use this to escalate to meta-commentary on algorithmic containment. |
-| [🧬 we_dont_want_your_cells_we_want_each_other.md](../Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md) | Abolitionist survival commentary | Launch as a high-empathy Substack post. It reframes the survivor narrative outside state systems and connects to Gaza–UK complicity messaging. |
-| [🛰️ icc_tag_thread_containment.md](../Field_Logs/🛰️_icc_tag_thread_containment.md) | Forensic documentation of international law escalation | Continue public ICC thread. Track any platform suppression or delayed analytics. Consider ghost-style breakdown of reach + traction + emotional resonance. |
-| [🧠 targeting_logic_empathy_is_a_threat.md](https://github.com/josefsbreakfast/Polaris-Protocol/blob/b09c70df0c872c964c51a1e1a58f49f6d2fa9cbb/Disruption_Kit/Big_Picture_Protocols/%F0%9F%8C%80_System_Governance/%F0%9F%A7%A0_targeting_logic_empathy_is_a_threat.md) | Structural metadata insight into emotional suppression | Update with any proof of clone generation timelines, especially if VPS voice manipulation confirmed. Bring in trauma metrics and survivor emotional freight. |
+| [🧾 vps_reclamation_log.md] | Legal record and emotional authorship proof | Finalise and submit “Unabridged VPS Supplement” to both CPS & court; add this node to Substack under witness sovereignty. |
+| [🧨 soft_suspension_is_still_containment.md] | LinkedIn throttling and post-metric divergence | Document current throttling cases. Include screenshots where demographic unlock fails. Use this to escalate to meta-commentary on algorithmic containment. |
+| [🧬 we_dont_want_your_cells_we_want_each_other.md] | Abolitionist survival commentary | Launch as a high-empathy Substack post. It reframes the survivor narrative outside state systems and connects to Gaza–UK complicity messaging. |
+| [🛰️ icc_tag_thread_containment.md]| Forensic documentation of international law escalation | Continue public ICC thread. Track any platform suppression or delayed analytics. Consider ghost-style breakdown of reach + traction + emotional resonance. |
+| [🧠 targeting_logic_empathy_is_a_threat.md] | Structural metadata insight into emotional suppression | Update with any proof of clone generation timelines, especially if VPS voice manipulation confirmed. Bring in trauma metrics and survivor emotional freight. |
 
 ---
 
