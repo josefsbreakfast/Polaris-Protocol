@@ -1,6 +1,6 @@
 # ⚠️ Cursor Tracking, Health Access, FOI/SAR  
 
-**First created:** 2025-08-29 | **Last updated:** 2025-08-29  
+**First created:** 2025-08-29 | **Last updated:** 2025-09-01  
 *Field log documenting anomalous cursor movements, device tracking, and parallel institutional access updates*  
 
 ---
@@ -30,8 +30,6 @@
 
 ---
 
-**Filed under:** `📁 Disruption_Kit/Field_Logs/`  
-**Date:** 2025-08-29  
 **Tags:** #forkstorm #cursor-tracking #health-access #foi #sar #remote-input  
 
 ---
@@ -42,9 +40,9 @@
 It records how device-level anomalies intersect with health, communications, and information-access systems.  
 
 > 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — dated forensic documentation and evidence trails  
+> - [Field Logs](../Field_Logs/) — dated forensic documentation and evidence trails  
 > - [Survivor Tools](../Survivor_Tools/) — countermeasures for device anomalies and access manipulations  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-29_  
+_Last updated: 2025-09-01_  
