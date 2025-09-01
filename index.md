@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-01 11:19:33 UTC_
+_Generated on 2025-09-01 11:25:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -311,6 +311,7 @@ _Generated on 2025-09-01 11:19:33 UTC_
     - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Polaris_Nest/Git_Intake_Drawer/reverse_colonisation_metadata_law_procurement_timeline.png)
     - [`☄️_undermining_scripts.md`](Polaris_Nest/Git_Intake_Drawer/☄️_undermining_scripts.md)
     - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
+    - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
     - [`🇬🇧_voice_cloning_legislative_response.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_voice_cloning_legislative_response.md)
     - [`🇬🇧_voice_containment_feminine_register.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_voice_containment_feminine_register.md)
     - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Polaris_Nest/Git_Intake_Drawer/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
