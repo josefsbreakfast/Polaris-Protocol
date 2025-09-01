@@ -129,7 +129,8 @@ In fact, it is a deliberate methodological tool for survivor-led metadata analys
 ⚖️ **Clarification for Records:**  
 - These entries should be treated as **documentation of safeguarding interference**, not as expressions of delusional belief.  
 - Survivor testimony is authored in good faith and published for transparency, accountability, and survivor solidarity.  
-- Any use of this material to justify psychiatric diagnosis or coercive intervention must be balanced against its evidentiary and forensic purpose.  
+- Any use of this material to justify psychiatric diagnosis or coercive intervention must be balanced against its evidentiary and forensic purpose.
+- Multiple GPT lags/crashes while generating this note on the file. 
 
 ---
 
