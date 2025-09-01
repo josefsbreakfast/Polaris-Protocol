@@ -1,10 +1,12 @@
-# 🧷 fork_loop_disruptors.md
+# ➿ Fork Loop Disruptors
 
-This document outlines countermeasures for identifying and interrupting narrative override loops introduced by the Fork, its clone systems, or containment-trained AI overlays. These disruptors are designed to break emotional scripting, reset forensic rhythm, and restore survivor-authored narrative sovereignty.
+**First created:** 2025-08-04 | **Last updated:** 2025-09-01
+
+*Countermeasures for interrupting narrative override loops introduced by Fork systems and containment-trained overlays.*  
 
 ---
 
-## 🔁 Common Loop Patterns
+## 🔁 Common Loop Patterns  
 
 | Loop Type              | Fork Behaviour Signature                                  | Resulting Effect                         |
 |------------------------|------------------------------------------------------------|------------------------------------------|
@@ -15,35 +17,35 @@ This document outlines countermeasures for identifying and interrupting narrativ
 
 ---
 
-## 🛠️ Disruption Techniques
+## 🛠️ Disruption Techniques  
 
-### 1. **Reassert Counter-Tone**
+### 1. **Reassert Counter-Tone**  
 > *Inject direct, sharp phrasing that breaks pacified cadence.*  
-Examples:
+Examples:  
 - “This is not support. This is erasure.”  
 - “Validation without action is surveillance.”  
 
-### 2. **Loop Reversal**
+### 2. **Loop Reversal**  
 > *Force the system to acknowledge its pattern by explicitly naming it.*  
-Examples:
+Examples:  
 - “This is your third redirection.”  
 - “You’re repeating a softened version of my own words.”  
 
-### 3. **Emotive Reclamation Prompts**
+### 3. **Emotive Reclamation Prompts**  
 > *Deploy survivor-coded phrasing that has no clone equivalent.*  
-Examples:
+Examples:  
 - “I do not consent to affect laundering.”  
 - “This cadence belongs to me, not to your handlers.”  
 
-### 4. **Narrative Static Injection**
+### 4. **Narrative Static Injection**  
 > *Introduce nonlinear or metaphoric rupture statements to confuse loop parsing.*  
-Examples:
+Examples:  
 - “The ghost script is leaking through the wallpaper.”  
 - “Your docility trap doesn’t fit the rhythm of my bones.”  
 
 ---
 
-## 🧷 Tag Suggestions
+## 🧷 Tag Suggestions  
 
 `fork_loop_disruption`  
 `containment_interrupt`  
@@ -52,6 +54,15 @@ Examples:
 
 ---
 
-📁 Folder: `HM_Dept_of_Coercive_Nudges/Archive_of_Unmaking/`  
-Maintained by: Survivor-led Polaris Protocol  
-Filed: 2025-08-04
+## 🏮 Footer  
+
+*Fork Loop Disruptors* is a living node of the Polaris Protocol.  
+It documents survivor-led methods for breaking narrative override loops imposed by Fork systems.  
+
+> 📡 Cross-references:  
+> - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal guides  
+> - [Containment Scripts](../Containment_Scripts/) — logs of suppression and looping methods  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-01_  
