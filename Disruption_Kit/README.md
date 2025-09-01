@@ -69,8 +69,6 @@ A connected sequence of logs documenting scraper removal, monitoring state shift
   *(2025-08-07)*  
   ICC/ICJ-tagged LinkedIn reply sequence triggering systemic stutter and containment.  
 
-![Suppression Watch — Aug 2025 Event Chain](./Field_Logs/suppression_watch_aug_2025_timeline.png)  
-
 ---
 
 ## 🏮 Footer  
