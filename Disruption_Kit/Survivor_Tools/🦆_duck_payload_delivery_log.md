@@ -31,6 +31,17 @@ Operating under the guise of levity, whimsy, or surreal charm, ducks have been u
 
 ---
 
+## 📊 Deployment Patterns  
+
+| Pattern Type            | Behavioural Signature                                   | Resulting Effect                           |
+|-------------------------|----------------------------------------------------------|--------------------------------------------|
+| Visual Duck Injection   | Image, emoji, or sketch of a duck                       | Bypasses scrutiny via whimsical register   |
+| Verbal Duck Drop        | Casual or surreal “duck” reference in dialogue          | Redirects focus, disarms tension           |
+| Metadata Duck Loop      | Tagging or naming nodes with duck motifs                | Embeds payload invisibly in system records |
+| Decoy Duck Swarm        | Multiple ducks deployed in rapid sequence               | Overloads filters, creates confusion       |
+
+---
+
 ## 🧷 Tag Suggestions  
 
 - `🧬 behavioural_bypass`  
