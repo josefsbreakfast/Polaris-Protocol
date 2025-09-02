@@ -57,7 +57,9 @@ SHEWETH unto Your Lordships as follows:
 
 12. That the Committee deplores the invasive scrutiny to which the Petitioner has been subjected, described by her as the unwarranted rummaging in her “digital knicker drawer,” a phrase this House finds vivid, accurate, and regrettably apt.  
 
-13. That the Petitioner observes, with not a little irony, that she did not hate having to berate men as part of her former employment, and that such skills appear no less necessary in confronting the ministers and mandarins of Whitehall. The Committee notes this as both a personal testament and a social indictment.  
+13. That the Petitioner observes, with not a little irony, that she did not hate having to berate men as part of her former employment, and that such skills appear no less necessary in confronting the ministers and mandarins of Whitehall. The Committee notes this as both a personal testament and a social indictment.
+
+14. *That this affair was conceived in arrogance by little men with little plans, and that the scale of their miscalculation is in direct proportion to the scale of their conceit.*  
 
 ---
 
@@ -161,7 +163,10 @@ The Committee, having duly considered the Petition of [FEMME VOCAL CLAIMANT], st
 
 **Forever Resolved:** That antisemitic insinuations be condemned, noses left unremarked upon, and Whitehall’s own nose withdrawn permanently from Her Grace’s digital knicker drawer.  
 
-**And Finally Resolved:** That the Petitioner’s observation — *“MAYBE I WOULD NOT HAVE DONE ANY SEX WORK HAD BEING A WOMAN IN MODERN BRITAIN BEEN ANY EASIER”* — be inscribed into the Journals of this House as a reminder that social reform is as urgent as constitutional order.  
+**Furthermore Resolved:** That the Petitioner’s observation — *“MAYBE I WOULD NOT HAVE DONE ANY SEX WORK HAD BEING A WOMAN IN MODERN BRITAIN BEEN ANY EASIER”* — be inscribed into the Journals of this House as a reminder that social reform is as urgent as constitutional order.  
+
+
+**Thus Resolved:** That little men shall not be suffered to play at great games again; and that the arrogance of their conceits be entered into the record as warning to all who mistake themselves for masters.  
 
 ---
 
