@@ -32,13 +32,16 @@ Each entry cross-references **Field Logs** for live case studies.
   *Analytics manipulated to undercount survivor-led content.*  
 
 - [🖱️ Tactile Throttling](./Suppression_Modes/🖱️_tactile_throttling_when_interaction_becomes_interference.md)  
-  *UX friction — disappearing buttons, lag, false inputs — blocking interaction.*  
+  *UX friction — disappearing buttons, lag, false inputs — blocking interaction.*
 
 - [🚫 Blocked at the Gateway](./Suppression_Modes/🚫_blocked_at_the_gateway.md)  
   *DNS, routing, and recipient-level suppression (e.g. UN/OHCHR).*  
 
 - [🗳️ "Liberal Democracy!" Response Logic](./Suppression_Modes/🗳️_liberal_democracy_response_logic.md)  
-  *Keyword-triggered moderation pathways when critiquing political systems.*  
+  *Keyword-triggered moderation pathways when critiquing political systems.*
+
+- [🌀 Recognition Without Resolution](./🌀_recognition_without_resolution.md)  
+  *Acknowledgement of harm used as suppression when resolution is withheld.
 
 ---
 
