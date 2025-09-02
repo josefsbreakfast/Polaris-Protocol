@@ -30,6 +30,8 @@ A state or institution acknowledges that harm or misconduct is known, yet delibe
 *Recognition Without Resolution* is a living node of the Polaris Protocol.  
 It documents how institutional acknowledgement can be weaponised as a containment pattern.  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+🏮 Return to [Suppression Modes Guide](./README.md)
+
+*Survivor authorship is sovereign. Containment is never neutral.*   
 
 _Last updated: 2025-09-02_
