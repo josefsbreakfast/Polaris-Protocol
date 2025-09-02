@@ -1,6 +1,6 @@
 # 🧨 Containment Scripts – Suppression Modes  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-31
+**First created:** 2025-08-17 | **Last updated:** 2025-09-02
 
 *Forensic fragments of visibility suppression and distortion tactics.*  
 
@@ -41,6 +41,9 @@
 - [🌀 Recognition Without Resolution](./🌀_recognition_without_resolution.md)  
   *Acknowledgement of harm used as suppression when resolution is withheld.
 
+- [🫀 Pathologising Sensitivity as Containment](./🫀_pathologising_sensitivity_as_containment.md)  
+  *Framing survivors as “overly sensitive” or neurodivergent to invalidate testimony.*  
+
 ---
 
 ## 🔎 Purpose  
@@ -61,4 +64,4 @@ It curates and organises suppression methods into an accessible directory for fo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_
+_Last updated: 2025-09-02_
