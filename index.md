@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-02 19:46:43 UTC_
+_Generated on 2025-09-02 20:04:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -128,6 +128,7 @@ _Generated on 2025-09-02 19:46:43 UTC_
       - [`🧨_delayed_visibility_is_a_signal.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md)
       - [`🧨_how_prevent_uses_darvo_to_detain.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_how_prevent_uses_darvo_to_detain.md)
       - [`🧨_reach_metrics_are_not_neutral.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_reach_metrics_are_not_neutral.md)
+      - [`🫀_pathologising_sensitivity_as_containment.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)
     - [`README.md`](Disruption_Kit/Containment_Scripts/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
