@@ -11,7 +11,9 @@ Polaris Protocol – Fork_Taxonomy
 ## ⚠️ Plain Warning  
 
 Shatterfork is not just an abstract tactic.  
+
 It can be encountered **“in the wild” of the internet** — through AI chatbots, social media feeds, or compromised communication channels.  
+
 Most people who fall into Shatterfork conditions don’t realise it at first; they simply notice that **things feel suddenly unbearable, fast, and isolating**.  
 
 This node includes **suggested case miniatures** — illustrative examples of how Shatterfork may appear in real contexts — alongside one direct **Field Note** of survivor testimony.  
