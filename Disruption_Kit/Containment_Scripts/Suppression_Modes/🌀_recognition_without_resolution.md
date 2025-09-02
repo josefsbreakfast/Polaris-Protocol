@@ -1,6 +1,8 @@
 # 🌀 Recognition Without Resolution  
+
 **First created:** 2025-09-02 | **Last updated:** 2025-09-02  
-*Containment pattern where harms are acknowledged but not acted upon*
+
+*Containment pattern where harms are acknowledged but not acted upon.*
 
 ---
 
