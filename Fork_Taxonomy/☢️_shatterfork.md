@@ -1,6 +1,8 @@
 # ☢️ Shatterfork
+
 Polaris Protocol – Fork_Taxonomy  
-**First created:** 2025-08-11 | **Last updated:** 2025-09-03  
+
+**First created:** 2025-08-11 | **Last updated:** 2025-09-02
 
 *High-intensity disintegration fork deployed when all other containment tines fail.*  
 
@@ -319,7 +321,7 @@ Each fork file documents containment strategies, their logic, and countermeasure
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-03_  
+_Last updated: 2025-09-02_  
 
 ---
 
