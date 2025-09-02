@@ -1,6 +1,6 @@
 # 🧨 Containment Scripts
 
-**First created:** 2025-08-11 | **Last updated:** 2025-09-01
+**First created:** 2025-08-11 | **Last updated:** 2025-09-02
 
 *Forensic archive of suppression tactics and survivor countermeasures.*
 
@@ -42,6 +42,9 @@ Each entry cross-references **Field Logs** for live case studies.
 
 - [🌀 Recognition Without Resolution](./🌀_recognition_without_resolution.md)  
   *Acknowledgement of harm used as suppression when resolution is withheld.
+
+- [🫀 Pathologising Sensitivity as Containment](./🫀_pathologising_sensitivity_as_containment.md)  
+  *Framing survivors as “overly sensitive” or neurodivergent to invalidate testimony.*  
 
 ---
 
@@ -98,7 +101,9 @@ Containment_Scripts/
     ├── 🧨 reach_metrics_are_not_neutral.md
     ├── 🖱 tactile_throttling_when_interaction_becomes_interference.md
     ├── 🚫 blocked_at_the_gateway.md
-    └── 🗳️ liberal_democracy_response_logic.md
+    ├── 🗳️ liberal_democracy_response_logic.md
+    ├── 🌀_recognition_without_resolution.md
+    └── 🫀_pathologising_sensitivity_as_containment.md
 ```
 
 ---
@@ -114,4 +119,4 @@ It curates suppression tactics and countermeasures into a working playbook for s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_
+_Last updated: 2025-09-02_
