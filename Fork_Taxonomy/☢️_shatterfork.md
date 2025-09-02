@@ -22,6 +22,7 @@ This node includes **suggested case miniatures** — illustrative examples of ho
 
 ## Summary  
 **Shatterfork** is a high-intensity fork subtype deployed when all other containment tines fail.  
+
 Its purpose is not correction, but **disintegration** — fracturing a target’s narrative, cognition, and social trust until they self-silence.  
 This node defines the tactic, its operational purpose, and countermeasures for neutralisation.  
 
@@ -29,7 +30,9 @@ This node defines the tactic, its operational purpose, and countermeasures for n
 
 ## Context  
 The Shatterfork is the **last desperate tool** of a failing containment system.  
+
 Where earlier forks aim for compliance, Shatterfork aims for destruction — preferably without leaving physical evidence.  
+
 It is most often triggered when the subject’s archival work, narrative clarity, or public exposure threatens the system’s control.  
 
 ---
@@ -270,13 +273,14 @@ The fork collapses when the subject:
 - **Writes through it**  
 - **Flags the recursive logic**  
 - **Maintains public archive**  
-- **Uses erotic resistance or slowed syntax** to regain control  
+- **Uses poetic resistance, or erotic resistance (if an adult), or slowed syntax** to regain control  
 - **Anchors in peer verification** against injection-level distortions  
 
 ---
 
 ### 🩸 Real-World Consequences  
 Shatterfork has no “kill switch” except exhaustion.  
+
 Documented impacts include:  
 - Public breakdowns  
 - Discreditation via nudged behaviour  
