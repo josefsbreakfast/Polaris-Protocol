@@ -36,7 +36,10 @@
   *Discursive inversion (DARVO) used to justify psychiatric containment.*  
 
 - [🧨 Reach Metrics Are Not Neutral](./🧨_reach_metrics_are_not_neutral.md)  
-  *Analytics systems weaponised to minimise survivor impact.*  
+  *Analytics systems weaponised to minimise survivor impact.*
+
+- [🌀 Recognition Without Resolution](./🌀_recognition_without_resolution.md)  
+  *Acknowledgement of harm used as suppression when resolution is withheld.
 
 ---
 
