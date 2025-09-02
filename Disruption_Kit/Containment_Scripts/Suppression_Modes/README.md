@@ -60,7 +60,7 @@ Each entry is a script fragment showing how platforms and institutions modulate 
 *Containment Scripts – Suppression Modes* is a living node of the Polaris Protocol.  
 It curates and organises suppression methods into an accessible directory for forensic use, survivor training, and systemic analysis.  
 
-🏮 Return to [Suppression Modes Guide](./README.md)
+🏮 Return to [Containment Scripts Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
