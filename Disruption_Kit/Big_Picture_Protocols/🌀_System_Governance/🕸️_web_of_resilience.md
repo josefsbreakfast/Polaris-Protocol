@@ -211,8 +211,8 @@ For deeper cultural context on how these radicalisation logics have evolved over
 It fuses two-layer and three-tier approaches into a unified manual for navigating insurgency-style information terrains, combining nervous-system survival, communal cohesion, and systemic resilience.  
 
 > 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural diagnostics and governance nodes  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal guides  
+> - [Big Picture Protocols](../README.md) — structural diagnostics and governance nodes  
+> - [Survivor Tools](https://github.com/josefsbreakfast/Polaris-Protocol/blob/246319cf6d4a4bb9fe89c8105b30cd04993280f3/Disruption_Kit/Survivor_Tools/README.md) — countermeasures and refusal guides  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
