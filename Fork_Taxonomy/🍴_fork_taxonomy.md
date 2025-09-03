@@ -317,7 +317,7 @@ It documents containment strategies, their logic, and countermeasures.
 
 > 📡 Cross-references:  
 > - [Fork Taxonomy Guide](./README.md) — full taxonomy overview  
-> - [Fork Clone Checklist]() — forensic indicators & verification tactics  
+> - [Fork Clone Checklist](./🔐_fork_clone_checklist.md) — forensic indicators & verification tactics  
 > - [Behavioural Fork Traits Cross-Matrix]() — comparative fork traits  
 > - [AntiContainment Clauses](https://github.com/josefsbreakfast/Polaris-Protocol/blob/10c5856817994f0554fa55e9226d25b450915117/AntiContainment_Clauses/README.md) — refusal language arsenal  
 > - [Taxonomy Expansion Roadmap](./🚀_taxonomy_expansion.md) — future development plan  
