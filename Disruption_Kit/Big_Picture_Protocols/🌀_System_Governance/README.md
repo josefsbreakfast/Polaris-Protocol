@@ -115,7 +115,7 @@ flowchart TD
     N[Narrative management — curated amnesia, perception gap]:::jargon
     S[Surveillance infrastructure — stacks, vendors]:::cve
     A[Clone-friendly architecture]:::cve
-    B[Didn’t Apply Brain Loop\n(DARVO → bureaucratic uptake)]:::bureaucratic
+    B[Didn’t Apply Brain Loop - DARVO → bureaucratic uptake]:::bureaucratic
   end
 
   subgraph OUT[Outputs]
