@@ -71,9 +71,6 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 - [💄 Let's Play!: Surveillance or Pervert-with-a-Badge?](💄_surveillance_or_pervert_with_a_badge.md)
     *A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is.*
 
-- [⚖️ Two-Layer Resilience Protocol](./two_layer_resilience_protocol.md)
-    *Operational playbook for preserving nervous-system integrity and structural resilience under hostile data conditions.* 
-
 - [🕸️ Web of Resilience](🕸️_web_of_resilience.md)  
   *Merges the two-layer and three-tier frameworks into a unified playbook for countering insurgency-style information operations.*  
   *Focus: nervous-system survival, communal trust repair, and systemic decentralisation as security.*  
