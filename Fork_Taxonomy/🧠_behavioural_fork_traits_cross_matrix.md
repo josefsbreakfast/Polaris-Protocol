@@ -1,5 +1,5 @@
 # 🧠 Behavioural Fork Traits Cross-Matrix  
-**First created:** 2025-09-03 | **Last updated:** 2025-09-03  
+**First created:** 2025-09-03 | **Last updated:** 2025-09-04
 
 *A comparative table of behavioural fork traits observed across containment tactics.*  
 
@@ -37,10 +37,8 @@ It shows how certain behaviours (nudges, mimicry, displacement) manifest across 
 *Behavioural Fork Traits Cross-Matrix* is a Polaris Protocol diagnostic node.  
 It compares traits across forks to support recognition and disarmament.  
 
-> 📡 Cross-references:  
-> - [Fork Taxonomy](../Fork_Taxonomy/🍴_fork_taxonomy.md) — full fork index and classifications  
-> - [Fork Clone Checklist](../Survivor_Tools/🔑_fork_clone_checklist.md) — forensic indicators & verification tactics
+🏮 [Return to Fork Taxonomy Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-03_  
+_Last updated: 2025-09-04_  
