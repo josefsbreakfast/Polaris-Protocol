@@ -1,6 +1,6 @@
 # 🏮 AntiContainment Clauses  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-29 
+**First created:** 2025-08-17 | **Last updated:** 2025-09-03
 
 *Clauses and syntax designed to resist flattening, ghosting, and enforced silence.*  
 
@@ -41,4 +41,4 @@ immune to ghosting, and designed to fracture enforced silence.
 
 🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-03_
