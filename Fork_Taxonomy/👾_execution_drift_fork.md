@@ -90,8 +90,7 @@ Each “mistake” seems minor, but together they:
 *Execution Drift Fork* is a living node of the Polaris Protocol.  
 It documents how sabotage occurs through drift and weaponised incompetence, and outlines countermeasures for detection and response.  
 
-> 📡 Cross-references:  
-> - [Fork Taxonomy Index](./README.md) — full list of fork types  
+🏮 [Return to Fork Taxonomy Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
