@@ -152,29 +152,39 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 
 ---
 
-## 5. Background & History  
+## 5. Visual Mapping: Two-Layer vs Three-Tier  
+
+|                 | **Micro (Personal/Nervous System)** | **Macro (Structural/Systemic)** |
+|-----------------|--------------------------------------|----------------------------------|
+| **Personal**    | Nervous system survival — intake triage, rest cycles, evidence log | Device & account hygiene, evidence discipline, incident response |
+| **Communal**    | Group trust — slow lanes, verification cells, memory infrastructure | Comms fallback, info discipline, mutual aid protocols |
+| **System**      | Infrastructure trust — redundancy, open protocols, regulation | Diversified infrastructure, scenario planning, financial resilience |
+
+---
+
+## 6. Background & History  
 
 The current resilience problem cannot be understood without knowing the **building blocks of the internet**.  
 
-### 5.1 Early Architecture  
+### 6.1 Early Architecture  
 - **ARPANET (1960s–70s)**: Built as a research network, not for hostile environments. Designed for *redundancy against nuclear attack* but not for *malicious insiders*.  
 - **End-to-end principle (1980s)**: Intelligence at the edges, “dumb pipes” in the middle. This enabled explosive growth but left central nodes under-protected.  
 - **Dot-com boom (1990s)**: Commercialisation led to consolidation around domains, browsers, and hosting providers. Open protocols (email, web, DNS) were never hardened for adversarial use.  
 
-### 5.2 Why It Made Sense for So Long  
+### 6.2 Why It Made Sense for So Long  
 - **Assumed trust**: The majority of traffic was academic, governmental, or corporate. Malice was the exception.  
 - **Efficiency > security**: Performance and interoperability were prioritised to scale adoption.  
 - **Network effects**: Once big players (AOL, Microsoft, Google, Facebook) achieved dominance, path dependence locked in centralisation.  
 - **Cheap abundance**: Storage, bandwidth, and compute costs fell rapidly, masking fragility with apparent robustness.  
 
-### 5.3 Why It’s Changing Now  
+### 6.3 Why It’s Changing Now  
 - **Weaponisation of openness**: Tactics like flooding, pairing, and laundering exploit the original “anyone can publish” design.  
 - **Cloud monoculture**: What once was distributed has reconcentrated into a handful of hyperscale providers, creating choke points.  
 - **Insurgency logics**: States and non-state actors use the same network features to destabilise rather than to connect.  
 - **Civic exposure**: Billions of civilians are now inside the battlespace — not by choice, but because core infrastructure (identity, finance, comms) runs atop hostile terrain.  
 - **Shift from stability to turbulence**: For decades the internet scaled linearly. Now its *fragilities scale faster than its protections*.  
 
-### 5.4 Cultural Context  
+### 6.4 Cultural Context  
 
 The internet has always been more than infrastructure — it is a **massive distribution network for culture and ideas**.  
 - As with printing presses, radio, and television, its **power to spread information** makes it a contested terrain.  
@@ -185,7 +195,7 @@ For deeper cultural context on how these radicalisation logics have evolved over
 
 ---
 
-## 6. Default Play  
+## 7. Default Play  
 1. Label: Stable or Ghost?  
 2. If Ghost → Ignore.  
 3. If Stable → Minimal engagement.  
