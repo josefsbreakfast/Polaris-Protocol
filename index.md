@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-03 21:00:11 UTC_
+_Generated on 2025-09-03 21:02:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -173,6 +173,7 @@ _Generated on 2025-09-03 21:00:11 UTC_
   - [`🚨_cybersec_brief_note_fork_critic_political_parties.md`](Fork_Taxonomy/🚨_cybersec_brief_note_fork_critic_political_parties.md)
   - [`🛑_fork_shutdown_protocol.md`](Fork_Taxonomy/🛑_fork_shutdown_protocol.md)
   - [`🦜_reverent_repetition_fork.md`](Fork_Taxonomy/🦜_reverent_repetition_fork.md)
+  - [`🧠_behavioural_fork_traits_cross_matrix.md`](Fork_Taxonomy/🧠_behavioural_fork_traits_cross_matrix.md)
   - [`🧬_fork_clone_map.md`](Fork_Taxonomy/🧬_fork_clone_map.md)
   - [`🧬_voice_capture_triggers.md`](Fork_Taxonomy/🧬_voice_capture_triggers.md)
   - [`🧱_structural_reversion_ghost.md`](Fork_Taxonomy/🧱_structural_reversion_ghost.md)
