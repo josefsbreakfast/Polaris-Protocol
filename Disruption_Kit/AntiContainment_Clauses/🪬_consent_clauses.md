@@ -1,6 +1,6 @@
 # 🪬 Consent Clauses  
 
-**First created:** 2025-08-25 | **Last updated:** 2025-08-29
+**First created:** 2025-08-25 | **Last updated:** 2025-09-03
 
 Clauses to counter the assumption that visibility or metadata engagement equals consent.  
 
@@ -43,4 +43,4 @@ immune to ghosting, and designed to fracture enforced silence.
 
 *Survivors voices must always live on.*  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-03_
