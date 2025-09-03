@@ -48,9 +48,9 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 - Fear-driven testing → minimal reassurance + boundary.  
 - Control/cruelty → disengage.  
 - **Pocket tool**:  
-  1. Name the urge.  
-  2. Visualise **BAT APPEARS** consequence.  
-  3. Delay 10 minutes before acting.  
+1. Name the urge.  
+2. Visualise **BAT APPEARS** consequence (a simple grounding image used across Polaris tools to disrupt compulsive loops).  
+3. Delay 10 minutes before acting.  
 
 ### 1.3 Rest Protocol  
 - Exposure:Rest ratio → 25:5.  
