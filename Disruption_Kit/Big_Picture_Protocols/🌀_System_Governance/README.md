@@ -75,7 +75,7 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
   *Merges the two-layer and three-tier frameworks into a unified playbook for countering insurgency-style information operations.*  
   *Focus: nervous-system survival, communal trust repair, and systemic decentralisation as security.*
 
-  - [🫀 Genocide by Containment](🫀_genocide_by_containment.md)  
+- [🫀 Genocide by Containment](🫀_genocide_by_containment.md)  
   *How bureaucratic disposal mechanisms escalate into genocidal practice.*  
 
 - [🧠 Didn’t Apply Brain Loop](🧠_didnt_apply_brain_loop.md)  
