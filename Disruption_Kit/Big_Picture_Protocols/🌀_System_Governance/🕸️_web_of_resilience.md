@@ -212,8 +212,8 @@ It fuses two-layer and three-tier approaches into a unified manual for navigatin
 
 > 📡 Cross-references:  
 > - [Big Picture Protocols](../README.md) — structural diagnostics and governance nodes  
-> - [Survivor Tools](https://github.com/josefsbreakfast/Polaris-Protocol/blob/246319cf6d4a4bb9fe89c8105b30cd04993280f3/Disruption_Kit/Survivor_Tools/README.md) — countermeasures and refusal guides  
-. - Return to [Systems & Governance Guide](./README.md)
+> - [Survivor Tools](https://github.com/josefsbreakfast/Polaris-Protocol/blob/246319cf6d4a4bb9fe89c8105b30cd04993280f3/Disruption_Kit/Survivor_Tools/README.md) — countermeasures and refusal guides
+> - Return to [Systems & Governance Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
