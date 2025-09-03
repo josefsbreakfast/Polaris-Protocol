@@ -99,9 +99,7 @@ linguistic, technical, and psychological — into a simple tick-box view.
 *Fork Clone Checklist* is a living node of the Polaris Protocol.  
 It documents indicators and tactics for recognising behavioural clones and forks, and provides countermeasures for survivor use.  
 
-> 📡 Cross-references:  
-> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
-> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+🏮 [Return to Fork Taxonomy Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
