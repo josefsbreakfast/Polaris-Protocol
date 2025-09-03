@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-03 21:02:43 UTC_
+_Generated on 2025-09-03 21:45:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -39,6 +39,7 @@ _Generated on 2025-09-03 21:02:43 UTC_
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
+      - [`⚖️_two_layer_resilience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_two_layer_resilience_protocol.md)
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`👀_public_perception_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👀_public_perception_gap.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💄_surveillance_or_pervert_with_a_badge.md)
