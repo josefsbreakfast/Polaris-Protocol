@@ -26,6 +26,12 @@ Focus areas: visibility throttling, metric manipulation, and engagement sabotage
 
 ---
 
+### [AntiContainment Clauses](./Containment_Scripts)  
+Explicit refusal scripts and carve-outs designed to block or undo containment logics.  
+These clauses act as counter-contracts: asserting survivor sovereignty against coercive frames and institutional choke points.  
+
+---
+
 ### [Survivor Tools](./Survivor_Tools)  
 Survivor-led methods for reclaiming agency and resisting narrative capture.  
 Includes practical guides, emotional sovereignty frameworks, and abolitionist survival logic.  
