@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-03 22:30:16 UTC_
+_Generated on 2025-09-03 22:30:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -26,8 +26,6 @@ _Generated on 2025-09-03 22:30:16 UTC_
   - [`🔮_house_style.md`](Admin_Kit/🔮_house_style.md)
   - [`🧿_visual_palette.md`](Admin_Kit/🧿_visual_palette.md)
   - [`🪄_branding_usage_guide.md`](Admin_Kit/🪄_branding_usage_guide.md)
-- [**AntiContainment_Clauses/**](AntiContainment_Clauses/)
-  - [`🪷_narrative_reclamation.md`](AntiContainment_Clauses/🪷_narrative_reclamation.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
@@ -36,6 +34,7 @@ _Generated on 2025-09-03 22:30:16 UTC_
     - [`📿_survivor_syntax.md`](Disruption_Kit/AntiContainment_Clauses/📿_survivor_syntax.md)
     - [`🕸_metadata_defense.md`](Disruption_Kit/AntiContainment_Clauses/🕸_metadata_defense.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
+    - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
