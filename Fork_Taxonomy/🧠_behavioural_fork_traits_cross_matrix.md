@@ -38,7 +38,6 @@ It shows how certain behaviours (nudges, mimicry, displacement) manifest across 
 It compares traits across forks to support recognition and disarmament.  
 
 > 📡 Cross-references:  
-> 📡 Cross-references:  
 > - [Fork Taxonomy](../Fork_Taxonomy/🍴_fork_taxonomy.md) — full fork index and classifications  
 > - [Fork Clone Checklist](../Survivor_Tools/🔑_fork_clone_checklist.md) — forensic indicators & verification tactics
 
