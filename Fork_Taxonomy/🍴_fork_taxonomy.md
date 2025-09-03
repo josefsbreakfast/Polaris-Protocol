@@ -320,7 +320,7 @@ It documents containment strategies, their logic, and countermeasures.
 > - [Fork Clone Checklist](../Survivor_Tools/🔑_fork_clone_checklist.md) — forensic indicators & verification tactics  
 > - [Behavioural Fork Traits Cross-Matrix](../Survivor_Tools/🧠_behavioural_fork_traits_cross_matrix.md) — comparative fork traits  
 > - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
-> - [Taxonomy Expansion Roadmap](../🚀_taxonomy_expansion.md) — future development plan  
+> - [Taxonomy Expansion Roadmap](./🚀_taxonomy_expansion.md) — future development plan  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
