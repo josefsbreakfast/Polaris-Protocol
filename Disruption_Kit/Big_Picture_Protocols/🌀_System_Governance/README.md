@@ -1,6 +1,6 @@
 # 🌀 Systems & Governance  
 
-**First created:** 2025-08-27 | **Last updated:** 2025-08-29
+**First created:** 2025-08-27 | **Last updated:** 2025-09-03
 
 *How the systems we use interlace with what controls and powers them.*  
 
@@ -167,4 +167,4 @@ flowchart TD
 
 🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-03_
