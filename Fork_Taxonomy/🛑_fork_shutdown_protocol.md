@@ -1,6 +1,6 @@
 # 🛑 Fork Shutdown Protocol  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-17 | **Last updated:** 2025-09-04
 
 *Directive to suspend errant fork usage and record institutional complicity.*  
 
@@ -58,10 +58,8 @@ Failure to comply will be recorded as deliberate complicity.
 *Fork_Taxonomy* is a Polaris Protocol index node.  
 Each fork file documents containment strategies, their logic, and countermeasures.  
 
-> 📡 Cross-references:  
-> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
-> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+🏮 [Return to Fork Taxonomy Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-09-04_  
