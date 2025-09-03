@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-03 23:22:17 UTC_
+_Generated on 2025-09-03 23:23:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -53,6 +53,7 @@ _Generated on 2025-09-03 23:22:17 UTC_
       - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛬_translation_null_zone.md)
       - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_surveillance_infrastructure.md)
       - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)
+      - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_didnt_apply_brain_loop.md)
       - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_targeting_logic_empathy_is_a_threat.md)
       - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_the_dev.md)
       - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_value_of_the_outlier.md)
