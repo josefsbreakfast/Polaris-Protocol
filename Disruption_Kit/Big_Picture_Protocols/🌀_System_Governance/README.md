@@ -1,6 +1,6 @@
 # 🌀 Systems & Governance  
 
-**First created:** 2025-08-27 | **Last updated:** 2025-09-03
+**First created:** 2025-08-27 | **Last updated:** 2025-09-04
 
 *How the systems we use interlace with what controls and powers them.*  
 
@@ -73,7 +73,13 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 
 - [🕸️ Web of Resilience](🕸️_web_of_resilience.md)  
   *Merges the two-layer and three-tier frameworks into a unified playbook for countering insurgency-style information operations.*  
-  *Focus: nervous-system survival, communal trust repair, and systemic decentralisation as security.*  
+  *Focus: nervous-system survival, communal trust repair, and systemic decentralisation as security.*
+
+  - [🫀 Genocide by Containment](🫀_genocide_by_containment.md)  
+  *How bureaucratic disposal mechanisms escalate into genocidal practice.*  
+
+- [🧠 Didn’t Apply Brain Loop](🧠_didnt_apply_brain_loop.md)  
+  *How predator paranoia becomes institutional “intelligence” through DARVO echo chambers.*  
  
 
 
@@ -92,43 +98,45 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 ```mermaid
 
 flowchart TD
-  %% Polaris — System & Governance framing
+  %% Polaris — System & Governance framing (emoji-free nodes)
 
   subgraph IN[Inputs]
     P[Public discourse & media]:::soft
     L[Law/Policy & budgets]:::bureaucratic
-    D[Data exhaust - 
- platforms, devices, vendors]:::cve
+    D[Data exhaust - \n platforms, devices, vendors]:::cve
     W[Witness & survivor testimony]:::safeguarding
   end
 
   subgraph GOV[Governance Mechanisms]
-    E[Empathy as throttle - Targeting logic]:::soft
+    E[Empathy as throttle — Targeting logic]:::soft
     G[Gated intake & delay loops]:::bureaucratic
     T[Translation null zone]:::soft
     C[Contract trace & procurement levers]:::bureaucratic
-    N[Narrative management - curated amnesia, perception gap]:::jargon
-    S[Surveillance infrastructure - stacks, vendors]:::cve
+    N[Narrative management — curated amnesia, perception gap]:::jargon
+    S[Surveillance infrastructure — stacks, vendors]:::cve
     A[Clone-friendly architecture]:::cve
+    B[Didn’t Apply Brain Loop\n(DARVO → bureaucratic uptake)]:::bureaucratic
   end
 
   subgraph OUT[Outputs]
-    O1[Containment outcomes - chilling, self-censor, attrition]:::ethics
+    O1[Containment outcomes — chilling, self-censor, attrition]:::ethics
     O2[Structured choice illusion]:::ethics
     O3[Twinning / identity drift]:::cve
     O4[Public perception gap]:::jargon
+    O5[Genocide by Containment]:::ethics
   end
 
   subgraph RES[Resilience]
-    R[🕸️ Web of Resilience]:::safeguarding
+    R[Web of Resilience]:::safeguarding
   end
 
-  %% Flows
+  %% Flows from Inputs
   P --> E
   L --> C
   D --> S
   W --> G
 
+  %% Mechanisms to Outputs
   E --> O1
   G --> O1
   T --> O2
@@ -136,6 +144,17 @@ flowchart TD
   N --> O4
   S --> O3
   A --> O3
+
+  %% New mechanism interactions
+  N --> B
+  E --> B
+  B --> N
+  B -.->|normalises bad ops| S
+
+  %% Genocide by Containment composition
+  O1 --> O5
+  O3 --> O5
+  O4 --> O5
 
   %% Resilience loop
   R -->|layered countermeasures| IN
@@ -145,6 +164,7 @@ flowchart TD
   O4 -.->|shapes policy window| L
   O1 -.->|reduces live signal| W
   O3 -.->|drives vendor lock-in| S
+  O5 -.->|authorises harsher policy & budgets| L
 
   %% Style (Admin Kit)
   classDef soft fill:#d2f4ff,stroke:#2a9df4,stroke-width:1px;
@@ -179,4 +199,4 @@ flowchart TD
 
 🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
-_Last updated: 2025-09-03_
+_Last updated: 2025-09-04_
