@@ -60,14 +60,20 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
     *Control of archives as control of history — and of survivors.*  
 
   - [🕸️ Clone Friendly Architecture](🕸️_clone_friendly_architecture.md)
-     *System designs that encourage replication and mimicry of the self.*  
+     *System designs that encourage replication and mimicry of the self.*
+     
   - [🕳️ Curated Amnesia Has a Shape](🕳️_curated_amnesia_has_a_shape.md)
-     *Forgetting is structured, not random — and someone curates it.*  
+     *Forgetting is structured, not random — and someone curates it.*
+     
  - [🪞 The Illusion of Choice](🪞_the_illusion_of_choice.md)  
    *When options multiply, but freedom quietly disappears.*
 
 - [💄 Let's Play!: Surveillance or Pervert-with-a-Badge?](💄_surveillance_or_pervert_with_a_badge.md)
     *A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is.*
+
+- [⚖️ Two-Layer Resilience Protocol](./two_layer_resilience_protocol.md)
+    *Operational playbook for preserving nervous-system integrity and structural resilience under hostile data conditions.* 
+
 
 
 ---
