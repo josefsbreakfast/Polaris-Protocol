@@ -1,6 +1,6 @@
 # 📿 Survivor Syntax  
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-29
+**First created:** 2025-08-03 | **Last updated:** 2025-09-03
 
 *Refusal language for those classified, ghosted, or flattened into silence.*  
 
@@ -43,4 +43,4 @@ immune to ghosting, and designed to fracture enforced silence.
 
 *Survivors voices must always live on.*  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-03_
