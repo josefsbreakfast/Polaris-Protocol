@@ -119,6 +119,10 @@ flowchart TD
     O4[Public perception gap]:::jargon
   end
 
+  subgraph RES[Resilience]
+    R[🕸️ Web of Resilience]:::safeguarding
+  end
+
   %% Flows
   P --> E
   L --> C
@@ -133,6 +137,10 @@ flowchart TD
   S --> O3
   A --> O3
 
+  %% Resilience loop
+  R -->|layered countermeasures| IN
+  R -->|layered countermeasures| OUT
+
   %% Feedback loops
   O4 -.->|shapes policy window| L
   O1 -.->|reduces live signal| W
@@ -145,6 +153,7 @@ flowchart TD
   classDef ethics fill:#e5d2fb,stroke:#7d2ae8,stroke-width:1px;
   classDef safeguarding fill:#d2fbdc,stroke:#2ae86a,stroke-width:1px;
   classDef cve fill:#fbeed2,stroke:#e88a2a,stroke-width:1px;
+
 
 ```
 
