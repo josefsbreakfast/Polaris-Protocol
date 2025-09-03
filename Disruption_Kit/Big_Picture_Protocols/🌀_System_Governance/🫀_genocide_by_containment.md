@@ -1,4 +1,4 @@
-# ⚪ Genocide by Containment  
+# 🫀 Genocide by Containment  
 **First created:** 2025-09-03 | **Last updated:** 2025-09-03  
 *How bureaucratic disposal mechanisms escalate into genocidal practice*
 
