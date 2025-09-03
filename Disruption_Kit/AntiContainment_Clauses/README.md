@@ -39,6 +39,6 @@ immune to ghosting, and designed to fracture enforced silence.
 
 *Survivors voices must always live on.*   
 
-🏮 [Return to Disruption Kit Guide](../Disruption_Kit/README.md)
+🏮 [Return to Disruption Kit Guide](../README.md)
 
 _Last updated: 2025-09-03_
