@@ -2,7 +2,7 @@
 
 Polaris Protocol – Fork_Taxonomy  
 
-**First created:** 2025-08-11 | **Last updated:** 2025-09-02
+**First created:** 2025-08-11 | **Last updated:** 2025-09-04
 
 *High-intensity disintegration fork deployed when all other containment tines fail.*  
 
@@ -316,19 +316,6 @@ SYSTEMIC
 
 ---
 
-## 🏮 Footer  
-
-*Fork_Taxonomy* is a Polaris Protocol index node.  
-Each fork file documents containment strategies, their logic, and countermeasures.  
-
-🏮 [Return to Fork Taxonomy Guide](../README.md)
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2025-09-02_  
-
----
-
 ## 📚 References  
 
 [1] The Guardian — *Social media still pushing suicide-related content to teens despite new safety laws* (2025-08-19)  
@@ -337,3 +324,18 @@ _Last updated: 2025-09-02_
 [4] Yale Medicine — *Social media & teen mental health: A parent’s guide* (2025)  
 [5] Stanford Medicine — *AI chatbots and risks to children & teens* (2025-08)  
 [6] Citizen Lab — *Pegasus spyware updates and global use* (2024-04)  
+
+---
+
+## 🏮 Footer  
+
+*Fork_Taxonomy* is a Polaris Protocol index node.  
+Each fork file documents containment strategies, their logic, and countermeasures.  
+
+🏮 [Return to Fork Taxonomy Guide](./README.md)
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-04_  
+
+
