@@ -321,9 +321,7 @@ SYSTEMIC
 *Fork_Taxonomy* is a Polaris Protocol index node.  
 Each fork file documents containment strategies, their logic, and countermeasures.  
 
-> 📡 Cross-references:  
-> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
-> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+🏮 [Return to Fork Taxonomy Guide](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
