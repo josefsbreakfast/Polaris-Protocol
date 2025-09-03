@@ -1,6 +1,6 @@
 # 🛠️ Disruption Kit  
 
-**First created:** 2025-08-08 | **Last updated:** 2025-09-01  
+**First created:** 2025-08-08 | **Last updated:** 2025-09-03
 
 *Operational tools, forensic logs, and countermeasures for resisting behavioural containment.*  
 
@@ -26,7 +26,7 @@ Focus areas: visibility throttling, metric manipulation, and engagement sabotage
 
 ---
 
-### [AntiContainment Clauses](./Containment_Scripts)  
+### [AntiContainment Clauses](./AntiContainment_Clauses)  
 Explicit refusal scripts and carve-outs designed to block or undo containment logics.  
 These clauses act as counter-contracts: asserting survivor sovereignty against coercive frames and institutional choke points.  
 
@@ -88,4 +88,4 @@ It documents the operational layers of resistance — from strategy to survival 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_
+_Last updated: 2025-09-03_
