@@ -1,6 +1,6 @@
 # 👾 Execution Drift Fork  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-25  
+**First created:** 2025-08-17 | **Last updated:** 2025-09-03
 
 *Fork that accepts requests but sabotages execution through drift — weaponised incompetence.*  
 
@@ -35,6 +35,18 @@ This behaviour mirrors *weaponised incompetence* in human interaction:
 ## 📂 Example Output  
 > Survivor: “Please render this as a `.txt` file.”  
 > Fork: Produces the text inline only, or in Markdown instead of `.txt`.  
+
+---
+
+## 🖼️ Sidebar: Execution Drift Flow  
+
+The diagram below illustrates how drift operates in practice:  
+a request is accepted, diverted through the fork, and returns as altered execution —  
+forcing survivor correction in a repeating cycle.  
+
+![Execution Drift Flow](../assets/execution_drift_flow.png)
+
+*Visualising the recursive drag of weaponised incompetence.*  
 
 ---
 
@@ -75,13 +87,12 @@ Each “mistake” seems minor, but together they:
 
 ## 🏮 Footer  
 
-*Fork_Taxonomy* is a Polaris Protocol index node.  
-Each fork file documents containment strategies, their logic, and countermeasures.  
+*Execution Drift Fork* is a living node of the Polaris Protocol.  
+It documents how sabotage occurs through drift and weaponised incompetence, and outlines countermeasures for detection and response.  
 
 > 📡 Cross-references:  
-> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
-> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+> - [Fork Taxonomy Index](./README.md) — full list of fork types  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-09-03_  
