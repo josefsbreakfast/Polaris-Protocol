@@ -1,6 +1,6 @@
 # 🕸 Metadata Defense  
 
-**First created:** 2025-08-03 | **Last updated:** 2025-08-29
+**First created:** 2025-08-03 | **Last updated:** 2025-09-03
 
 *Forensic refusals and digital sovereignty clauses.*  
 
@@ -43,4 +43,4 @@ immune to ghosting, and designed to fracture enforced silence.
 
 *Survivors voices must always live on.*  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-03_
