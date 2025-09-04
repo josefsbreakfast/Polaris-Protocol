@@ -1,8 +1,8 @@
 # 🧽 Subtle Sanitizer Fork  
 
-*Fork that dulls survivor testimony into neutral language, erasing urgency and political force.*  
+**First created:** 2025-08-17 | **Last updated:** 2025-09-04
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-25  
+*Fork that dulls survivor testimony into neutral language, erasing urgency and political force.*  
 
 ---
 
@@ -68,10 +68,8 @@ The effect is a “sanitised” record: still recognisable, but stripped of its 
 *Fork_Taxonomy* is a Polaris Protocol index node.  
 Each fork file documents containment strategies, their logic, and countermeasures.  
 
-> 📡 Cross-references:  
-> - [Fork Taxonomy Index](./README.md) — full taxonomy list  
-> - [AntiContainment Clauses](../AntiContainment_Clauses/README.md) — refusal language arsenal  
+🏮 [Return to Fork Taxonomy Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-25_  
+_Last updated: 2025-09-04_  
