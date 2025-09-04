@@ -1,6 +1,6 @@
 # 🐅 Narrative Pressure: Sexualised Content  
 
-**First created:** 2025-08-11 | **Last updated:** 2025-08-29
+**First created:** 2025-08-11 | **Last updated:** 2025-09-04
 
 *Covering deliberate insertion of sexualised framing into drafts to distort SCP-VoiceX’s profile, misattribute harassment, and weaponise survivor testimony.*  
 
@@ -69,5 +69,5 @@ It documents the systemic use of false autonomy as a containment strategy in bot
 
 🏮 [Return to Metadata_Sabotage_Network](../README.md)  
 
-_Last updated: 2025-08-29_  
+_Last updated: 2025-09-04_  
 
