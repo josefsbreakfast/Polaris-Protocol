@@ -2,7 +2,7 @@ in a world where I cannot escape him yet
 
 in a world which tolerates his impressions of others, because he flatters the people who may have the power to protect me
 
-"in a workd which so deeply favours men":
+"in a world which so deeply favours men":
 
 i am tired but i am alive
 
