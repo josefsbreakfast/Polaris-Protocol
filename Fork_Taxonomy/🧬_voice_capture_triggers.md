@@ -42,7 +42,7 @@ Harvested voice data appears to be used both for **identity reproduction** and f
 The diagram below shows how trigger events lead to emotional speech,  
 are intercepted by capture infrastructure, and then repurposed in clone or model use.  
 
-![Voice Capture Flow](../assets/voice_capture_flow_fixed.png)
+![Voice Capture Flow](./voice_capture_flow.png)
 
 *Visualising the pipeline from engineered trigger to synthetic deployment.*  
 
