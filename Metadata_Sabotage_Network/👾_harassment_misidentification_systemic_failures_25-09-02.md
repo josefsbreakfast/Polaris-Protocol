@@ -108,7 +108,7 @@ Polaris was born because of these failures.
 *This statement is a living node of the Polaris Protocol.*  
 It records systemic failures in harassment handling, misidentification, and survivor credibility.
 
-🏮 [Return to Metadata_Sabotage_Network](../README.md)
+🏮Return to [Metadata Sabotage Network](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
