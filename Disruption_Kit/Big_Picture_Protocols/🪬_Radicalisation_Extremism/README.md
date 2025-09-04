@@ -1,6 +1,6 @@
 # 🪬 Radicalisation & Extremism
 
-**First created:** 2025-08-27 | **Last updated:** 2025-08-30
+**First created:** 2025-08-27 | **Last updated:** 2025-09-04
 
 *Doctrines on far-right pipelines, state complicity, and diaspora radicalisation.*  
 
@@ -105,4 +105,4 @@ It documents how extremist networks are seeded and maintained, and how “securi
 
 🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-09-04_  
