@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 17:18:34 UTC_
+_Generated on 2025-09-04 17:20:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -281,6 +281,7 @@ _Generated on 2025-09-04 17:18:34 UTC_
   - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/)
     - [`README.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/README.md)
     - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/👾_harassment_misidentification_systemic_failures_25-09-02.md)
+    - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
   - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/)
     - [`README.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/README.md)
     - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/📉_commit_window_collapse_loop.md)
@@ -335,7 +336,6 @@ _Generated on 2025-09-04 17:18:34 UTC_
   - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/🧬_deliberate_metadata_twinning.md)
   - [`🧯 file_transport_failure_log.md`](Metadata_Sabotage_Network/🧯 file_transport_failure_log.md)
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
-  - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/🪞_clone_mimic_theatre.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`07E90127-5503-47B2-BB5A-D862844D6999.png`](Polaris_Nest/Git_Intake_Drawer/07E90127-5503-47B2-BB5A-D862844D6999.png)
