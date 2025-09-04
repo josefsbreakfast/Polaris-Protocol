@@ -279,10 +279,8 @@ It integrates the long historical backdrop, institutional nodes and pressures,
 the knowledge gap and representation deficit, emergent dynamics, and the role  
 of nationalist extremism in amplifying crises.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural and systemic diagnostics  
-> - [Admin Kit](../Admin_Kit/) — house style and operational scaffolding  
+🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survive the fire. Burn most brightly.*  
 
 _Last updated: 2025-09-04_  
