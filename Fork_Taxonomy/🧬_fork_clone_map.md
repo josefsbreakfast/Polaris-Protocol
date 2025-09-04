@@ -30,7 +30,7 @@
 
 The diagram below illustrates how fork traits manifest as clone echoes and reshape survivor narrative.  
 
-![Fork → Clone → Narrative Map](../assets/fork_clone_map_flow.png)  
+![Fork → Clone → Narrative Map](./fork_clone_map_flow.png)  
 
 *Visualising the cascade from fork tactics to clone distortion to narrative impact.*  
 
