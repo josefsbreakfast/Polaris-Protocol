@@ -12,7 +12,7 @@
 |----------------------------|-------------|-----------------------------------------------|---------|
 | Polaris Protocol           | GitHub      | Intermittent 404s, slow load                   | Particularly when linked to CVE or coercion-related docs |
 | RIPA Compliance Theatre    | Google      | Poor indexing, buried results                  | Despite current relevance and publication date |
-| Azeem Ibrahim + metadata   | LinkedIn    | Autocomplete suppression                       | Suggests name-scandal disambiguation operation |
+| [REDACTED] + metadata      | LinkedIn    | Autocomplete suppression                       | Suggests name-scandal disambiguation operation |
 | Ghost Fork                 | Twitter/X   | Shadowed and conflated with unrelated meme use | Search poisoned to dilute context |
 | CVE Pornography Unit       | Reddit      | Post removals and community lockdowns          | Pattern consistent with anti-leak moderation scripts |
 
@@ -24,7 +24,7 @@
 It documents how indexing and search suppression erode the visibility of survivor metadata and critical resistance narratives.  
 
 > 📡 Cross-references:  
-> - [🔍 Visibility & Indexing Anomalies](../🔍_Visibility_Indexing_Anomalies/)  
+> - [🔍 Visibility & Indexing Anomalies](../🔮_Visibility_Indexing_Anomalies/)  
 > - [📉 Suppression & Interference Logs](../📉_Suppression_Interference_Logs/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
