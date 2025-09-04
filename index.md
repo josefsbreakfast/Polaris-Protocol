@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 16:47:44 UTC_
+_Generated on 2025-09-04 17:05:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -278,6 +278,8 @@ _Generated on 2025-09-04 16:47:44 UTC_
   - [**Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/)
     - [`README.md`](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/README.md)
     - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
+  - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/)
+    - [`README.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/README.md)
   - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/)
     - [`README.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/README.md)
   - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/)
