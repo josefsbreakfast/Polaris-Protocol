@@ -90,7 +90,8 @@ What begins as protection becomes coercion, consolidating institutional power an
 This node documents how rape survivors in the UK can be silenced by SLAPP-like tactics and super-injunctions, transforming protection into coercion.  
 
 > 📡 Cross-references:  
-> - [⚖️ SLAPPs Detailed Node](../Big_Picture_Protocols/⚖️_slapps_detailed_node.md)  
+> - [⚖️ SLAPPs Detailed Node](
+/⚖️_slapps_uk_global_palestine.md)  
 > - [Survivor Tools](../Survivor_Tools/)  
 > - [Big Picture Protocols](../Big_Picture_Protocols/)  
 
