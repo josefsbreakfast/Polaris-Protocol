@@ -46,6 +46,10 @@ The focus is on asymmetry: far-right radicalisation is accelerated, while surviv
 
 *On the state’s own role as a generator of instability and strategic exposure.*
 
+ - [🧿 UK Slow Burn Constitutional Crisis: The Fault Lines](🧿_uk_slow_burn_constitutional_crisis.md)
+
+*Comprehensive node mapping the background, dynamics, and risks of constitutional strain in the UK.*
+
 ---
 
 ## 🗺️ You Are Here
