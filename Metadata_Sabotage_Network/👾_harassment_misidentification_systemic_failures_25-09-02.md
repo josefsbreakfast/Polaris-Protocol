@@ -1,6 +1,6 @@
 # 👾 Harassment, Misidentification, and Systemic Failures  
 
-**First created:** 2025-09-02 | **Last updated:** 2025-09-02  
+**First created:** 2025-09-02 | **Last updated:** 2025-09-04
 
 *Case statement on harassment, misidentification, and systemic record failures.*
 
@@ -106,7 +106,9 @@ Polaris was born because of these failures.
 ## 🏮 Footer  
 
 *This statement is a living node of the Polaris Protocol.*  
-It records systemic failures in harassment handling, misidentification, and survivor credibility.  
+It records systemic failures in harassment handling, misidentification, and survivor credibility.
+
+🏮 [Return to Metadata_Sabotage_Network](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
