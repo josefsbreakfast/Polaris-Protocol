@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 00:34:02 UTC_
+_Generated on 2025-09-04 00:34:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -338,7 +338,7 @@ _Generated on 2025-09-04 00:34:02 UTC_
     - [`💄_ hypothetical_disinfo_case.md`](Polaris_Nest/Git_Intake_Drawer/💄_ hypothetical_disinfo_case.md)
     - [`💷_procurement_culture_dept_clashes.md`](Polaris_Nest/Git_Intake_Drawer/💷_procurement_culture_dept_clashes.md)
     - [`💸_repression_cost_capital.md`](Polaris_Nest/Git_Intake_Drawer/💸_repression_cost_capital.md)
-    - [`💾 _ui_sabotage_glossary.md`](Polaris_Nest/Git_Intake_Drawer/💾 _ui_sabotage_glossary.md)
+    - [`💾_ui_sabotage_glossary.md`](Polaris_Nest/Git_Intake_Drawer/💾_ui_sabotage_glossary.md)
     - [`📁_absence_of_check_in.md`](Polaris_Nest/Git_Intake_Drawer/📁_absence_of_check_in.md)
     - [`📊_kpi_vs_okr_in_government.md`](Polaris_Nest/Git_Intake_Drawer/📊_kpi_vs_okr_in_government.md)
     - [`📡_metadata_scrutiny_uk.md`](Polaris_Nest/Git_Intake_Drawer/📡_metadata_scrutiny_uk.md)
