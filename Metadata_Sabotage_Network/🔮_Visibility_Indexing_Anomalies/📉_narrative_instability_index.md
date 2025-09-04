@@ -1,6 +1,7 @@
 # 📉 Narrative Instability Index  
 
 **First created:** 2025-08-04 | **Last updated:** 2025-09-04  
+
 *Index of narrative disruptions caused by AI-mediated editing, metadata laundering, and ghost construct overlays.*  
 
 ---
