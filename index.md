@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 07:46:13 UTC_
+_Generated on 2025-09-04 07:59:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -320,11 +320,28 @@ _Generated on 2025-09-04 07:46:13 UTC_
   - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/🪞_clone_mimic_theatre.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
+    - [`Battleplan: Metadata Twinning → Convergence → Containment.png`](Polaris_Nest/Git_Intake_Drawer/Battleplan: Metadata Twinning → Convergence → Containment.png)
+    - [`Matrix of Middleman Minorities:?Colonial Alignment vs Local Embeddedness.png`](Polaris_Nest/Git_Intake_Drawer/Matrix of Middleman Minorities:?Colonial Alignment vs Local Embeddedness.png)
+    - [`Metadata Twinning: Divergence Dampened, Convergence Amplified.png`](Polaris_Nest/Git_Intake_Drawer/Metadata Twinning: Divergence Dampened, Convergence Amplified.png)
+    - [`Protocol Flow: Handling New Signals : Random Inserts.png`](Polaris_Nest/Git_Intake_Drawer/Protocol Flow: Handling New Signals : Random Inserts.png)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
+    - [`THE OUROBOROS OF IHRA OVERREACH.png`](Polaris_Nest/Git_Intake_Drawer/THE OUROBOROS OF IHRA OVERREACH.png)
     - [`data_misuse_continuum_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart.png)
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
+    - [`full_report_metrics_with_flips_annotated.png`](Polaris_Nest/Git_Intake_Drawer/full_report_metrics_with_flips_annotated.png)
     - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Polaris_Nest/Git_Intake_Drawer/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
+    - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
+    - [`original_vs_fork_vs_hostile.png`](Polaris_Nest/Git_Intake_Drawer/original_vs_fork_vs_hostile.png)
+    - [`palantir_cycle_diagram_branded.pdf`](Polaris_Nest/Git_Intake_Drawer/palantir_cycle_diagram_branded.pdf)
+    - [`polaris_threat_visibility_map_2025-08_corrected.png`](Polaris_Nest/Git_Intake_Drawer/polaris_threat_visibility_map_2025-08_corrected.png)
+    - [`pp14_22_metrics_timeline.png`](Polaris_Nest/Git_Intake_Drawer/pp14_22_metrics_timeline.png)
+    - [`pre_fork_gaza_fork_tree.png`](Polaris_Nest/Git_Intake_Drawer/pre_fork_gaza_fork_tree.png)
+    - [`pressure_map_redacted.png`](Polaris_Nest/Git_Intake_Drawer/pressure_map_redacted.png)
+    - [`removed_content_timeline_redacted.png`](Polaris_Nest/Git_Intake_Drawer/removed_content_timeline_redacted.png)
+    - [`retained_removed_pie_chart_redacted.png`](Polaris_Nest/Git_Intake_Drawer/retained_removed_pie_chart_redacted.png)
     - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Polaris_Nest/Git_Intake_Drawer/reverse_colonisation_metadata_law_procurement_timeline.png)
+    - [`shadow_nda_redacted.pdf`](Polaris_Nest/Git_Intake_Drawer/shadow_nda_redacted.pdf)
+    - [`uk_debates_overlap.png`](Polaris_Nest/Git_Intake_Drawer/uk_debates_overlap.png)
     - [`☄️_undermining_scripts.md`](Polaris_Nest/Git_Intake_Drawer/☄️_undermining_scripts.md)
     - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
     - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
