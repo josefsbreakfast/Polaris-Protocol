@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 00:22:26 UTC_
+_Generated on 2025-09-04 00:31:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -145,6 +145,7 @@ _Generated on 2025-09-04 00:22:26 UTC_
     - [`🛰️_forkbreach_2025-07-24_redacted_V6.md`](Disruption_Kit/Field_Logs/🛰️_forkbreach_2025-07-24_redacted_V6.md)
     - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_ghost_session_compete_log_2025-08-27.md)
     - [`🛰️_icc_tag_thread_containment.md`](Disruption_Kit/Field_Logs/🛰️_icc_tag_thread_containment.md)
+    - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
     - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
     - [`🛰️_reputational_unit_12_saluting_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reputational_unit_12_saluting_2025-08-13.md)
@@ -269,7 +270,6 @@ _Generated on 2025-09-04 00:22:26 UTC_
   - [**System_Leakage_Signatures/**](Metadata_Sabotage_Network/System_Leakage_Signatures/)
     - [`🧬 interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/System_Leakage_Signatures/🧬 interface_leakage_the_one_who_got_through.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
-  - [`visibility_anomaly_log_2025-08-05.md`](Metadata_Sabotage_Network/visibility_anomaly_log_2025-08-05.md)
   - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/🐅_narrative_pressure_and_sexualised_content.md)
   - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/👾_harassment_misidentification_systemic_failures_25-09-02.md)
   - [`📉 commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉 commit_window_collapse_loop.md)
