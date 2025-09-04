@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 16:25:08 UTC_
+_Generated on 2025-09-04 16:29:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -278,11 +278,11 @@ _Generated on 2025-09-04 16:25:08 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
   - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/🐅_narrative_pressure_and_sexualised_content.md)
   - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/👾_harassment_misidentification_systemic_failures_25-09-02.md)
-  - [`📉 commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉 commit_window_collapse_loop.md)
   - [`📉 force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/📉 force_closed_comments_2025-08-04.md)
   - [`📉 narrative_instability_index.md`](Metadata_Sabotage_Network/📉 narrative_instability_index.md)
   - [`📉 political_gravity_logjam.md`](Metadata_Sabotage_Network/📉 political_gravity_logjam.md)
   - [`📉 suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/📉 suppression_interruption_log_2025-08-04.md)
+  - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉_commit_window_collapse_loop.md)
   - [`📍 field_signal_tests.md`](Metadata_Sabotage_Network/📍 field_signal_tests.md)
   - [`📎 forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/📎 forkstorm_phase_tracker_2025-08-05.md)
   - [`📎 metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/📎 metadata_breakpoint_log_2025-08-05.md)
