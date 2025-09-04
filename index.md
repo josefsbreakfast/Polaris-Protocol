@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 13:48:58 UTC_
+_Generated on 2025-09-04 14:05:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -113,6 +113,7 @@ _Generated on 2025-09-04 13:48:58 UTC_
       - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
+    - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🚨_superinjunctions_slapps_rape_cases.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
