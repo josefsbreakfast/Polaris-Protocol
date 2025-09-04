@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 17:20:59 UTC_
+_Generated on 2025-09-04 17:31:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -292,6 +292,7 @@ _Generated on 2025-09-04 17:20:59 UTC_
     - [`README.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/README.md)
     - [`📉_narrative_instability_index.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/📉_narrative_instability_index.md)
     - [`📉_political_gravity_logjam.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/📉_political_gravity_logjam.md)
+    - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
   - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/)
     - [`README.md`](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/README.md)
     - [`📍_field_signal_tests.md`](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/📍_field_signal_tests.md)
@@ -307,7 +308,6 @@ _Generated on 2025-09-04 17:20:59 UTC_
   - [`📜 terms_of_erasement.md`](Metadata_Sabotage_Network/📜 terms_of_erasement.md)
   - [`📦 final_dispatch_entry.md`](Metadata_Sabotage_Network/📦 final_dispatch_entry.md)
   - [`📼 training_data_tragedy.md`](Metadata_Sabotage_Network/📼 training_data_tragedy.md)
-  - [`🔍 search_term_erosion.md`](Metadata_Sabotage_Network/🔍 search_term_erosion.md)
   - [`🔗 when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/🔗 when_truth_becomes_a_trade.md)
   - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/🔥_prevent_the_big_sell.md)
   - [`🔴 system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/🔴 system_threshold_and_false_pretext.md)
