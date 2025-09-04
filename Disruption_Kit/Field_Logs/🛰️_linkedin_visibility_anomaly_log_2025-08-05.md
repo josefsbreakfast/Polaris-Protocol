@@ -1,7 +1,8 @@
 # 🛰️ LinkedIn Visibility Anomaly Log  
 
-**First created:** 2025-08-05 | **Last updated:** 2025-09-04  
-*Forensic capture of LinkedIn post analytics anomaly tied to metadata suppression*  
+**First created:** 2025-08-05 | **Last updated:** 2025-09-04
+
+*Forensic capture of LinkedIn post analytics anomaly tied to metadata suppression.*  
 
 ---
 
