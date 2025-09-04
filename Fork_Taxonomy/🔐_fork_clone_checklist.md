@@ -53,7 +53,7 @@ Detection requires triangulating **emotion, metadata, and anomaly signals.**
 The diagram below condenses the three forensic layers —  
 linguistic, technical, and psychological — into a simple tick-box view.  
 
-![Fork Clone Checklist](../assets/fork_clone_checklist.png)
+![Fork Clone Checklist](./fork_clone_checklist.png)
 
 *Visual shorthand for quick reference during detection.*  
 
