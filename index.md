@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 17:09:24 UTC_
+_Generated on 2025-09-04 17:10:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -286,6 +286,7 @@ _Generated on 2025-09-04 17:09:24 UTC_
   - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/README.md)
     - [`📉_narrative_instability_index.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/📉_narrative_instability_index.md)
+    - [`📉_political_gravity_logjam.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/📉_political_gravity_logjam.md)
   - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/)
     - [`README.md`](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/README.md)
   - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/🧬_Structural_Mapping/)
@@ -294,7 +295,6 @@ _Generated on 2025-09-04 17:09:24 UTC_
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
   - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/👾_harassment_misidentification_systemic_failures_25-09-02.md)
-  - [`📉 political_gravity_logjam.md`](Metadata_Sabotage_Network/📉 political_gravity_logjam.md)
   - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉_commit_window_collapse_loop.md)
   - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/📉_suppression_interruption_log_2025-08-04.md)
   - [`📍 field_signal_tests.md`](Metadata_Sabotage_Network/📍 field_signal_tests.md)
