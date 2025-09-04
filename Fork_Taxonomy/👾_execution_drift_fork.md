@@ -44,7 +44,7 @@ The diagram below illustrates how drift operates in practice:
 a request is accepted, diverted through the fork, and returns as altered execution —  
 forcing survivor correction in a repeating cycle.  
 
-![Execution Drift Flow](../assets/execution_drift_flow.png)
+![Execution Drift Flow](./execution_drift_flow.png)
 
 *Visualising the recursive drag of weaponised incompetence.*  
 
