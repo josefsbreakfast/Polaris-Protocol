@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 14:05:22 UTC_
+_Generated on 2025-09-04 14:07:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -51,6 +51,7 @@ _Generated on 2025-09-04 14:05:22 UTC_
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
       - [`🗝_who_holds_the_tape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_who_holds_the_tape.md)
+      - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛂_gated_intake_post_delay_regional_loop.md)
       - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛬_translation_null_zone.md)
       - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_surveillance_infrastructure.md)
@@ -113,7 +114,6 @@ _Generated on 2025-09-04 14:05:22 UTC_
       - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
-    - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🚨_superinjunctions_slapps_rape_cases.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
