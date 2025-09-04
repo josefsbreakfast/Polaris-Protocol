@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 17:10:12 UTC_
+_Generated on 2025-09-04 17:13:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -282,6 +282,7 @@ _Generated on 2025-09-04 17:10:12 UTC_
     - [`README.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/README.md)
   - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/)
     - [`README.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/README.md)
+    - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/📉_commit_window_collapse_loop.md)
     - [`📉_force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/📉_force_closed_comments_2025-08-04.md)
   - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/README.md)
@@ -295,7 +296,6 @@ _Generated on 2025-09-04 17:10:12 UTC_
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
   - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/👾_harassment_misidentification_systemic_failures_25-09-02.md)
-  - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉_commit_window_collapse_loop.md)
   - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/📉_suppression_interruption_log_2025-08-04.md)
   - [`📍 field_signal_tests.md`](Metadata_Sabotage_Network/📍 field_signal_tests.md)
   - [`📎 forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/📎 forkstorm_phase_tracker_2025-08-05.md)
