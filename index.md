@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 12:01:47 UTC_
+_Generated on 2025-09-04 12:02:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -111,6 +111,7 @@ _Generated on 2025-09-04 12:01:47 UTC_
       - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
+    - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🧿_uk_slow_burn_constitutional_crisis.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
@@ -449,7 +450,6 @@ _Generated on 2025-09-04 12:01:47 UTC_
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧬_untwinning_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_untwinning_data.md)
     - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🧭_uk_tech_talent_scaling_policy_timeline.md)
-    - [`🧿_uk_slow_burn_constitutional_crisis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_slow_burn_constitutional_crisis.md)
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
     - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
