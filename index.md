@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 17:14:04 UTC_
+_Generated on 2025-09-04 17:14:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -285,6 +285,7 @@ _Generated on 2025-09-04 17:14:04 UTC_
     - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/📉_commit_window_collapse_loop.md)
     - [`📉_force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/📉_force_closed_comments_2025-08-04.md)
     - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/📉_suppression_interruption_log_2025-08-04.md)
+    - [`🔌_comment_loop_interference.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/🔌_comment_loop_interference.md)
   - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/README.md)
     - [`📉_narrative_instability_index.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/📉_narrative_instability_index.md)
@@ -305,7 +306,6 @@ _Generated on 2025-09-04 17:14:04 UTC_
   - [`📜 terms_of_erasement.md`](Metadata_Sabotage_Network/📜 terms_of_erasement.md)
   - [`📦 final_dispatch_entry.md`](Metadata_Sabotage_Network/📦 final_dispatch_entry.md)
   - [`📼 training_data_tragedy.md`](Metadata_Sabotage_Network/📼 training_data_tragedy.md)
-  - [`🔌 comment_loop_interference.md`](Metadata_Sabotage_Network/🔌 comment_loop_interference.md)
   - [`🔍 search_term_erosion.md`](Metadata_Sabotage_Network/🔍 search_term_erosion.md)
   - [`🔗 when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/🔗 when_truth_becomes_a_trade.md)
   - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/🔥_prevent_the_big_sell.md)
