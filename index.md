@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 08:33:21 UTC_
+_Generated on 2025-09-04 08:48:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -204,6 +204,7 @@ _Generated on 2025-09-04 08:33:21 UTC_
   - [`🗄️_desk_tactical_terrain.md`](Letters_to_Stars/🗄️_desk_tactical_terrain.md)
   - [`🛰️ signal_report_2025-08.md`](Letters_to_Stars/🛰️ signal_report_2025-08.md)
   - [`🧿 visibility_log_polaris_day_1.md`](Letters_to_Stars/🧿 visibility_log_polaris_day_1.md)
+  - [`🧿_i_wish_for safety.md`](Letters_to_Stars/🧿_i_wish_for safety.md)
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
