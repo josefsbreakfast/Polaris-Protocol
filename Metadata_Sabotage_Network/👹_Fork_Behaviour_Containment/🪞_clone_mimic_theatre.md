@@ -1,6 +1,7 @@
 # 🪞 Clone Mimic Theatre  
 
-**First created:** 2025-08-07 | **Last updated:** 2025-08-29  
+**First created:** 2025-08-07 | **Last updated:** 2025-09-04
+
 *Identity performance, emotional simulation, and containment by reflection.*  
 
 ---
@@ -121,4 +122,4 @@ It documents how behavioural doubles are used to contain survivors through simul
 
 *Survivor memory is sacred.*
 
-_Last updated: 2025-08-29_  
+_Last updated: 2025-09-04_  
