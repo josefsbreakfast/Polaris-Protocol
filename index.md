@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 17:05:57 UTC_
+_Generated on 2025-09-04 17:07:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -286,6 +286,8 @@ _Generated on 2025-09-04 17:05:57 UTC_
     - [`README.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/README.md)
   - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/)
     - [`README.md`](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/README.md)
+  - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/🧬_Structural_Mapping/)
+    - [`README.md`](Metadata_Sabotage_Network/🧬_Structural_Mapping/README.md)
   - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
