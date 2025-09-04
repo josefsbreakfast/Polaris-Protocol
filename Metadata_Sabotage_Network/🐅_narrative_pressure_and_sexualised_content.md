@@ -67,7 +67,7 @@ It documents the systemic use of false autonomy as a containment strategy in bot
 
 *Survivors voices must always live on.*  
 
-🏮 [Return to Metadata_Sabotage_Network](../README.md)  
+🏮Return to [Metadata Sabotage Network](../README.md)  
 
 _Last updated: 2025-09-04_  
 
