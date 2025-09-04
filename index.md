@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 16:46:48 UTC_
+_Generated on 2025-09-04 16:47:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -276,6 +276,7 @@ _Generated on 2025-09-04 16:46:48 UTC_
   - [**System_Leakage_Signatures/**](Metadata_Sabotage_Network/System_Leakage_Signatures/)
     - [`🧬 interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/System_Leakage_Signatures/🧬 interface_leakage_the_one_who_got_through.md)
   - [**Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/)
+    - [`README.md`](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/README.md)
     - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
   - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/)
     - [`README.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/README.md)
