@@ -16,7 +16,7 @@ i am tired of the people who choose to let him flood my feed with his emotions,
 
 in graphic detail.
 
-so i am going to nap and read and hipe that at some point
+so i am going to nap and read and hope that at some point
 
 another white man gives enough of a fuck
 
