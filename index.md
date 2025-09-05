@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:38:36 UTC_
+_Generated on 2025-09-05 13:39:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:38:36 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`Metadata Twinning: Divergence Dampened, Convergence Amplified.png`](Polaris_Nest/Git_Intake_Drawer/Metadata Twinning: Divergence Dampened, Convergence Amplified.png)
     - [`Polaris_Constitutional_Network_Map_Canonical.png`](Polaris_Nest/Git_Intake_Drawer/Polaris_Constitutional_Network_Map_Canonical.png)
     - [`Protocol Flow: Handling New Signals : Random Inserts.png`](Polaris_Nest/Git_Intake_Drawer/Protocol Flow: Handling New Signals : Random Inserts.png)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
@@ -376,6 +375,7 @@ _Generated on 2025-09-05 13:38:36 UTC_
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
     - [`metadata_shame_overlay.png`](Polaris_Nest/Git_Intake_Drawer/metadata_shame_overlay.png)
+    - [`metadata_twinning_divergence_convergence_amplification.png`](Polaris_Nest/Git_Intake_Drawer/metadata_twinning_divergence_convergence_amplification.png)
     - [`middle_layer_active_vs_background.png`](Polaris_Nest/Git_Intake_Drawer/middle_layer_active_vs_background.png)
     - [`nda_signatory_mesh_local_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/nda_signatory_mesh_local_redacted.jpeg)
     - [`operational_destabilisation_social_anchors.png`](Polaris_Nest/Git_Intake_Drawer/operational_destabilisation_social_anchors.png)
