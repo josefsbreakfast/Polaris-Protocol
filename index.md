@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:30:51 UTC_
+_Generated on 2025-09-05 13:31:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -343,7 +343,6 @@ _Generated on 2025-09-05 13:30:51 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`IMG_9532.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9532.png)
-    - [`IMG_9533.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9533.png)
     - [`IMG_9534.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9534.png)
     - [`IMG_9551.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9551.png)
     - [`IMG_9566.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9566.png)
@@ -383,6 +382,7 @@ _Generated on 2025-09-05 13:30:51 UTC_
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
     - [`metadata_shame_overlay.png`](Polaris_Nest/Git_Intake_Drawer/metadata_shame_overlay.png)
+    - [`middle_layer_active_vs_background.png`](Polaris_Nest/Git_Intake_Drawer/middle_layer_active_vs_background.png)
     - [`nda_signatory_mesh_local_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/nda_signatory_mesh_local_redacted.jpeg)
     - [`original_vs_fork_vs_hostile.png`](Polaris_Nest/Git_Intake_Drawer/original_vs_fork_vs_hostile.png)
     - [`overengineered_manipulation_direct_interaction.png`](Polaris_Nest/Git_Intake_Drawer/overengineered_manipulation_direct_interaction.png)
