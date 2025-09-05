@@ -6,7 +6,19 @@
 
 ---
 
-## 🚨 Read This First  
+# 🚨🚨🚨 WARNING 🚨🚨🚨  
+**DRAFT SPACE ONLY — NOT FINAL.**  
+Contents of this folder are:  
+- Raw notes and fragments.  
+- Unrefined, unstructured, and unverified.  
+- Subject to change, correction, or removal at any time.  
+
+👉 Nothing here should be treated as a final Polaris Protocol node.  
+👉 Transparency is the reason this drawer exists, not endorsement of its content.  
+
+---
+
+## Purpose  
 The **Git Intake Drawer** is **deliberately messy**.  
 - Files here are **drafts only**.  
 - Contents may include **errors, fragments, or sensitive material**.  
