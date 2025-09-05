@@ -27,18 +27,35 @@
 
 ---
 
-## 3. **Risks & Watchpoints**  
-- Migraine and health constraints may affect pace — build in buffer time.  
-- Avoid overexposure that could harm allies.  
-- Legal outreach may trigger suppression/deflection tactics.  
+- [ ] 🌱 **Daily Living & Joyful Movement**  
+  - [ ] Build up daily living activities at a manageable pace  
+  - [ ] Increase joyful movement, prioritising time outside  
+  - [ ] Record reflections on how this supports resilience  
 
 ---
 
-## 4. **Tactical Notes**  
+## 3. **🌙 Daily Anchor**  
+*(tracked in handwritten diary — tick here only to confirm check-in)*  
+- [ ] Sleep schedule logged  
+- [ ] Food intake logged  
+- [ ] Fluid intake logged  
+
+---
+
+## 4. **Risks & Watchpoints**  
+- Migraine and health constraints may affect pace — build in buffer time.  
+- Avoid overexposure that could harm allies.  
+- Legal outreach may trigger suppression/deflection tactics.  
+- Daily living and movement goals should remain flexible, not punitive.  
+
+---
+
+## 5. **Tactical Notes**  
 - Minimum viable action counts (a chaser email = a completed step).  
 - Build in recovery time after migraine peaks.  
 - Record evidence of “helpful hindrance” behaviours for later use.  
-
+- Treat health and movement tasks as supportive, not performative.
+- 
 ---
 
 ## 🏮 Footer  
