@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 12:58:33 UTC_
+_Generated on 2025-09-05 12:59:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 12:58:33 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_1608.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1608.png)
     - [`IMG_1643.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1643.png)
     - [`IMG_1812.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1812.png)
     - [`IMG_1813.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1813.png)
@@ -396,6 +395,7 @@ _Generated on 2025-09-05 12:58:33 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`THE OUROBOROS OF IHRA OVERREACH.png`](Polaris_Nest/Git_Intake_Drawer/THE OUROBOROS OF IHRA OVERREACH.png)
     - [`battleplan_metadata_twinning_convergence_containment.png`](Polaris_Nest/Git_Intake_Drawer/battleplan_metadata_twinning_convergence_containment.png)
+    - [`behavioural_ai_researcher_map.png`](Polaris_Nest/Git_Intake_Drawer/behavioural_ai_researcher_map.png)
     - [`ceefax_watchlist_fixed.png`](Polaris_Nest/Git_Intake_Drawer/ceefax_watchlist_fixed.png)
     - [`constitutional_fault_lines.png`](Polaris_Nest/Git_Intake_Drawer/constitutional_fault_lines.png)
     - [`containment_severity_time.png`](Polaris_Nest/Git_Intake_Drawer/containment_severity_time.png)
