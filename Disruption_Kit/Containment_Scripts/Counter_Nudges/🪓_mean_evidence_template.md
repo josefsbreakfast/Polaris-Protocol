@@ -1,6 +1,8 @@
 # 🪓 Mean/Evidence Template  
+
 **First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*A countermeasure for holding both the “hot” and “admissible” versions of survivor testimony*  
+
+*A countermeasure for holding both the “hot” and “admissible” versions of survivor testimony.*  
 
 ---
 
