@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:39:34 UTC_
+_Generated on 2025-09-05 13:40:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:39:34 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`Polaris_Constitutional_Network_Map_Canonical.png`](Polaris_Nest/Git_Intake_Drawer/Polaris_Constitutional_Network_Map_Canonical.png)
     - [`Protocol Flow: Handling New Signals : Random Inserts.png`](Polaris_Nest/Git_Intake_Drawer/Protocol Flow: Handling New Signals : Random Inserts.png)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`THE OUROBOROS OF IHRA OVERREACH.png`](Polaris_Nest/Git_Intake_Drawer/THE OUROBOROS OF IHRA OVERREACH.png)
