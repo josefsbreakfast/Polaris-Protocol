@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 12:48:11 UTC_
+_Generated on 2025-09-05 12:48:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -348,7 +348,6 @@ _Generated on 2025-09-05 12:48:11 UTC_
     - [`91B12043-7737-4B06-BB89-B813ACB542D5.png`](Polaris_Nest/Git_Intake_Drawer/91B12043-7737-4B06-BB89-B813ACB542D5.png)
     - [`Battleplan: Metadata Twinning → Convergence → Containment.png`](Polaris_Nest/Git_Intake_Drawer/Battleplan: Metadata Twinning → Convergence → Containment.png)
     - [`F74852DF-0680-43DC-B1A2-90D38F287BC2.png`](Polaris_Nest/Git_Intake_Drawer/F74852DF-0680-43DC-B1A2-90D38F287BC2.png)
-    - [`IMG_0375.jpeg`](Polaris_Nest/Git_Intake_Drawer/IMG_0375.jpeg)
     - [`IMG_0494.png`](Polaris_Nest/Git_Intake_Drawer/IMG_0494.png)
     - [`IMG_1473.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1473.png)
     - [`IMG_1531.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1531.png)
