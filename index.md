@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:16:07 UTC_
+_Generated on 2025-09-05 13:17:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:16:07 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_4485.png`](Polaris_Nest/Git_Intake_Drawer/IMG_4485.png)
     - [`IMG_4499.png`](Polaris_Nest/Git_Intake_Drawer/IMG_4499.png)
     - [`IMG_5033.png`](Polaris_Nest/Git_Intake_Drawer/IMG_5033.png)
     - [`IMG_5789.png`](Polaris_Nest/Git_Intake_Drawer/IMG_5789.png)
@@ -389,6 +388,7 @@ _Generated on 2025-09-05 13:16:07 UTC_
     - [`frankenstack_bad_sandwich_black.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_bad_sandwich_black.png)
     - [`frankenstack_faceplate.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_faceplate.png)
     - [`full_report_metrics_with_flips_annotated.png`](Polaris_Nest/Git_Intake_Drawer/full_report_metrics_with_flips_annotated.png)
+    - [`human_vs_system_interventions_aug.png`](Polaris_Nest/Git_Intake_Drawer/human_vs_system_interventions_aug.png)
     - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Polaris_Nest/Git_Intake_Drawer/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
     - [`influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/influence_map_local_redacted.png)
     - [`interference_types_logged_contacts.png`](Polaris_Nest/Git_Intake_Drawer/interference_types_logged_contacts.png)
