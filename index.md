@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 15:44:29 UTC_
+_Generated on 2025-09-05 16:37:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -423,6 +423,10 @@ _Generated on 2025-09-05 15:44:29 UTC_
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
     - [`☄️_undermining_scripts.md`](Polaris_Nest/Git_Intake_Drawer/☄️_undermining_scripts.md)
+    - [`⚖️_institution_conflict_origin_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institution_conflict_origin_2022.md)
+    - [`⚖️_phantom_claim_double_blade.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_double_blade.md)
+    - [`⚖️_phantom_claim_ripa_escalation.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_ripa_escalation.md)
+    - [`⚖️_rings_of_power_universities.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_rings_of_power_universities.md)
     - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
     - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
     - [`🇬🇧_voice_cloning_legislative_response.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_voice_cloning_legislative_response.md)
@@ -464,6 +468,7 @@ _Generated on 2025-09-05 15:44:29 UTC_
     - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🧭_uk_tech_talent_scaling_policy_timeline.md)
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
     - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
+    - [`🪞_smoothed_content_blink_twice.md`](Polaris_Nest/Git_Intake_Drawer/🪞_smoothed_content_blink_twice.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
