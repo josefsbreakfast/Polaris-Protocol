@@ -1,4 +1,4 @@
-```
+```mermaid
 
 graph TD
     %% Center
@@ -24,7 +24,7 @@ graph TD
     %% Flows: publish -> silent reading
     C -->|reads quietly| GOV
     C -->|scans / hovers| MEDIA
-    C -->|retreats (too big)| LAW
+    C -->|retreats, too big| LAW
     C -->|clusters / hovers| FIN
     C -->|circles| PUB
     C -->|monitors closely| ARMS
@@ -42,7 +42,7 @@ graph TD
     PUB -.->|editorial interest| M_STORY
 
     %% Feedback: echo without acknowledgement
-    M_STORY -.->|narrative shift (no credit)| C
+    M_STORY -.->|narrative shift, no credit| C
     P_MEMO -.->|internal only| C
     M_NOTE -.->|pricing risk| C
     P_CHANGE -.->|policy nudges| C
