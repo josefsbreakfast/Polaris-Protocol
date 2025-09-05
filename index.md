@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 15:09:35 UTC_
+_Generated on 2025-09-05 15:10:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -490,6 +490,7 @@ _Generated on 2025-09-05 15:09:35 UTC_
     - [`🧾_vps_reclamation.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧾_vps_reclamation.md)
     - [`🪪_2025-08-04_fork_disavowal_log.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🪪_2025-08-04_fork_disavowal_log.md)
   - [**Weekly_Checklists/**](Polaris_Nest/Weekly_Checklists/)
+    - [`README.md`](Polaris_Nest/Weekly_Checklists/README.md)
     - [`📅_week_ahead_2025-09-05.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_2025-09-05.md)
 - [**Resources/**](Resources/)
   - [`README.md`](Resources/README.md)
