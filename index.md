@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:35:11 UTC_
+_Generated on 2025-09-05 13:35:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:35:11 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_9570.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9570.png)
     - [`IMG_9834.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9834.png)
     - [`IMG_9835.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9835.png)
     - [`Matrix of Middleman Minorities:?Colonial Alignment vs Local Embeddedness.png`](Polaris_Nest/Git_Intake_Drawer/Matrix of Middleman Minorities:?Colonial Alignment vs Local Embeddedness.png)
@@ -379,6 +378,7 @@ _Generated on 2025-09-05 13:35:11 UTC_
     - [`metadata_shame_overlay.png`](Polaris_Nest/Git_Intake_Drawer/metadata_shame_overlay.png)
     - [`middle_layer_active_vs_background.png`](Polaris_Nest/Git_Intake_Drawer/middle_layer_active_vs_background.png)
     - [`nda_signatory_mesh_local_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/nda_signatory_mesh_local_redacted.jpeg)
+    - [`operational_destabilisation_social_anchors.png`](Polaris_Nest/Git_Intake_Drawer/operational_destabilisation_social_anchors.png)
     - [`original_vs_fork_vs_hostile.png`](Polaris_Nest/Git_Intake_Drawer/original_vs_fork_vs_hostile.png)
     - [`overengineered_manipulation_direct_interaction.png`](Polaris_Nest/Git_Intake_Drawer/overengineered_manipulation_direct_interaction.png)
     - [`overlaid_nda_mesh_local.jpeg`](Polaris_Nest/Git_Intake_Drawer/overlaid_nda_mesh_local.jpeg)
