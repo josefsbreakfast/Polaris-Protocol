@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:18:10 UTC_
+_Generated on 2025-09-05 13:18:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:18:10 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_5033.png`](Polaris_Nest/Git_Intake_Drawer/IMG_5033.png)
     - [`IMG_5789.png`](Polaris_Nest/Git_Intake_Drawer/IMG_5789.png)
     - [`IMG_5814.jpeg`](Polaris_Nest/Git_Intake_Drawer/IMG_5814.jpeg)
     - [`IMG_5815.jpeg`](Polaris_Nest/Git_Intake_Drawer/IMG_5815.jpeg)
@@ -395,6 +394,7 @@ _Generated on 2025-09-05 13:18:10 UTC_
     - [`layer_dominance_containment_posture.png`](Polaris_Nest/Git_Intake_Drawer/layer_dominance_containment_posture.png)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
+    - [`metadata_shame_overlay.png`](Polaris_Nest/Git_Intake_Drawer/metadata_shame_overlay.png)
     - [`original_vs_fork_vs_hostile.png`](Polaris_Nest/Git_Intake_Drawer/original_vs_fork_vs_hostile.png)
     - [`overengineered_manipulation_direct_interaction.png`](Polaris_Nest/Git_Intake_Drawer/overengineered_manipulation_direct_interaction.png)
     - [`palantir_cycle_diagram_branded.pdf`](Polaris_Nest/Git_Intake_Drawer/palantir_cycle_diagram_branded.pdf)
