@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 11:55:17 UTC_
+_Generated on 2025-09-05 12:01:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -159,6 +159,7 @@ _Generated on 2025-09-05 11:55:17 UTC_
     - [`🛰️_safety_transparency_email_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_safety_transparency_email_2025-09-05.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
+    - [`🛰️_university_complicity_protest_suppression_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05.md)
     - [`🛰️_voice_modulation_forensics_spoon_2025-07-24.md`](Disruption_Kit/Field_Logs/🛰️_voice_modulation_forensics_spoon_2025-07-24.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
