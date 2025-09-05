@@ -49,6 +49,7 @@ The resulting record is safe for institutions because it cannot spark recognitio
 It documents how survivor testimony is stripped of affect to render it inert, preventing it from generating recognition or contagion.  
 
 > 📡 Cross-references:  
+> - [🪓 Mean/Evidence Template](../Counter_Nudges/🪓_mean_evidence_template.md) — countermeasure preserving both vent + admissible versions  
 > - [🪞 Engineered Disjuncture of Allies](./🪞_engineered_disjuncture_of_allies.md) — how isolation reinforces cooling pressure  
 > - [🌐 Hollowing of the Commons](../Big_Picture_Protocols/) — why cooled records dominate when hot voices withdraw  
 
