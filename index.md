@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 12:50:31 UTC_
+_Generated on 2025-09-05 12:52:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 12:50:31 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`2BDA9D6C-5E14-4B83-8222-03BD1C1C2C9C.png`](Polaris_Nest/Git_Intake_Drawer/2BDA9D6C-5E14-4B83-8222-03BD1C1C2C9C.png)
     - [`5DF2F7BE-79B5-48AD-A31B-CE2F90A8040C.png`](Polaris_Nest/Git_Intake_Drawer/5DF2F7BE-79B5-48AD-A31B-CE2F90A8040C.png)
     - [`91B12043-7737-4B06-BB89-B813ACB542D5.png`](Polaris_Nest/Git_Intake_Drawer/91B12043-7737-4B06-BB89-B813ACB542D5.png)
     - [`Battleplan: Metadata Twinning → Convergence → Containment.png`](Polaris_Nest/Git_Intake_Drawer/Battleplan: Metadata Twinning → Convergence → Containment.png)
@@ -410,6 +409,7 @@ _Generated on 2025-09-05 12:50:31 UTC_
     - [`data_misuse_continuum_flowchart_detailed.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart_detailed.png)
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
     - [`frankenstack_bad_sandwich_black.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_bad_sandwich_black.png)
+    - [`frankenstack_faceplate.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_faceplate.png)
     - [`full_report_metrics_with_flips_annotated.png`](Polaris_Nest/Git_Intake_Drawer/full_report_metrics_with_flips_annotated.png)
     - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Polaris_Nest/Git_Intake_Drawer/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
     - [`israel_eurozone_financial_watchlist.png`](Polaris_Nest/Git_Intake_Drawer/israel_eurozone_financial_watchlist.png)
