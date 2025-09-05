@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 21:00:19 UTC_
+_Generated on 2025-09-05 21:02:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -483,6 +483,7 @@ _Generated on 2025-09-05 21:00:19 UTC_
     - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
     - [`🪞_background_activity_fog.md`](Polaris_Nest/Git_Intake_Drawer/🪞_background_activity_fog.md)
     - [`🪞_smoothed_content_blink_twice.md`](Polaris_Nest/Git_Intake_Drawer/🪞_smoothed_content_blink_twice.md)
+    - [`🫥_presumption_as_erasure.md`](Polaris_Nest/Git_Intake_Drawer/🫥_presumption_as_erasure.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
