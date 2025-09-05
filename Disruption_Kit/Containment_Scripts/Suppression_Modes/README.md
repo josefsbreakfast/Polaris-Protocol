@@ -47,6 +47,9 @@
 - [🪞 Engineered Disjuncture of Allies](./🪞_engineered_disjuncture_of_allies.md)  
   *Fragmenting survivor groups into adjacent but non-overlapping categories to prevent solidarity.*  
 
+- [🔥 Cooling the Record](./🔥_cooling_the_record.md)  
+  *Stripping affect, detail, and tone from survivor testimony to render it inert.*  
+
 ---
 
 ## 🔎 Purpose  
