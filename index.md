@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 17:45:12 UTC_
+_Generated on 2025-09-05 17:46:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -431,6 +431,7 @@ _Generated on 2025-09-05 17:45:12 UTC_
     - [`⚖️_rings_of_power_universities.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_rings_of_power_universities.md)
     - [`⚖️_scraping_spoofing_timeline_2021_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_scraping_spoofing_timeline_2021_2022.md)
     - [`⚖️_shadow_governance_timeline.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shadow_governance_timeline.md)
+    - [`⚖️_wrong_people_in_power.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_wrong_people_in_power.md)
     - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
     - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
     - [`🇬🇧_voice_cloning_legislative_response.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_voice_cloning_legislative_response.md)
