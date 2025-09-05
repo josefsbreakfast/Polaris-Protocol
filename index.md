@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:08:59 UTC_
+_Generated on 2025-09-05 13:13:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:08:59 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_4011.png`](Polaris_Nest/Git_Intake_Drawer/IMG_4011.png)
     - [`IMG_4059.png`](Polaris_Nest/Git_Intake_Drawer/IMG_4059.png)
     - [`IMG_4406.png`](Polaris_Nest/Git_Intake_Drawer/IMG_4406.png)
     - [`IMG_4408.png`](Polaris_Nest/Git_Intake_Drawer/IMG_4408.png)
