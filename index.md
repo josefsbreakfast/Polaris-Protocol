@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:42:09 UTC_
+_Generated on 2025-09-05 13:44:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -362,7 +362,6 @@ _Generated on 2025-09-05 13:42:09 UTC_
     - [`full_report_metrics_with_flips_annotated.png`](Polaris_Nest/Git_Intake_Drawer/full_report_metrics_with_flips_annotated.png)
     - [`human_vs_system_interventions_aug.png`](Polaris_Nest/Git_Intake_Drawer/human_vs_system_interventions_aug.png)
     - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Polaris_Nest/Git_Intake_Drawer/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
-    - [`influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/influence_map_local_redacted.png)
     - [`interference_types_logged_contacts.png`](Polaris_Nest/Git_Intake_Drawer/interference_types_logged_contacts.png)
     - [`israel_eurozone_financial_watchlist.png`](Polaris_Nest/Git_Intake_Drawer/israel_eurozone_financial_watchlist.png)
     - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Polaris_Nest/Git_Intake_Drawer/jewish_experience_diaspora_matrix_middleman_minorities.png)
@@ -419,6 +418,7 @@ _Generated on 2025-09-05 13:42:09 UTC_
     - [`uk_morale_post_2016.png`](Polaris_Nest/Git_Intake_Drawer/uk_morale_post_2016.png)
     - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
+    - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
     - [`☄️_undermining_scripts.md`](Polaris_Nest/Git_Intake_Drawer/☄️_undermining_scripts.md)
     - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
