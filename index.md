@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-04 18:06:25 UTC_
+_Generated on 2025-09-05 11:36:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -482,6 +482,7 @@ _Generated on 2025-09-04 18:06:25 UTC_
     - [`📂_clone_in_the_family.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📂_clone_in_the_family.md)
     - [`📉_shadow_reach_analysis.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📉_shadow_reach_analysis.md)
     - [`📛_storage_purge_detected.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📛_storage_purge_detected.md)
+    - [`📩_safety_and_transparency_event_attendance_misuse.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📩_safety_and_transparency_event_attendance_misuse.md)
     - [`📮_lost_in_submission.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📮_lost_in_submission.md)
     - [`🛠_redacted_report_as_erasure_device.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_as_erasure_device.md)
     - [`🛠_redacted_report_payload_flow.png`](Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_payload_flow.png)
