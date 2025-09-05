@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:22:02 UTC_
+_Generated on 2025-09-05 13:23:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:22:02 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_5816.jpeg`](Polaris_Nest/Git_Intake_Drawer/IMG_5816.jpeg)
     - [`IMG_6247.png`](Polaris_Nest/Git_Intake_Drawer/IMG_6247.png)
     - [`IMG_6248.png`](Polaris_Nest/Git_Intake_Drawer/IMG_6248.png)
     - [`IMG_7148.png`](Polaris_Nest/Git_Intake_Drawer/IMG_7148.png)
@@ -422,6 +421,7 @@ _Generated on 2025-09-05 13:22:02 UTC_
     - [`spv_dataflow_redacted.png`](Polaris_Nest/Git_Intake_Drawer/spv_dataflow_redacted.png)
     - [`suspect_interaction_flowchart_loop_redacted.png`](Polaris_Nest/Git_Intake_Drawer/suspect_interaction_flowchart_loop_redacted.png)
     - [`uk_debates_overlap.png`](Polaris_Nest/Git_Intake_Drawer/uk_debates_overlap.png)
+    - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
     - [`☄️_undermining_scripts.md`](Polaris_Nest/Git_Intake_Drawer/☄️_undermining_scripts.md)
