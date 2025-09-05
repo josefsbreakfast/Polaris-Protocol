@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:47:56 UTC_
+_Generated on 2025-09-05 14:25:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -147,6 +147,7 @@ _Generated on 2025-09-05 13:47:56 UTC_
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
     - [`🛰️_arrest_as_surveillance_warrant.md`](Disruption_Kit/Field_Logs/🛰️_arrest_as_surveillance_warrant.md)
     - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
+    - [`🛰️_foi_sar_silence_reliance.md`](Disruption_Kit/Field_Logs/🛰️_foi_sar_silence_reliance.md)
     - [`🛰️_forensic_thread_analysis_icc_2025-08-07.md`](Disruption_Kit/Field_Logs/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
     - [`🛰️_forkbreach_2025-07-24_redacted_V6.md`](Disruption_Kit/Field_Logs/🛰️_forkbreach_2025-07-24_redacted_V6.md)
     - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_ghost_session_compete_log_2025-08-27.md)
