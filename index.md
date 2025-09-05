@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:44:21 UTC_
+_Generated on 2025-09-05 13:46:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -379,7 +379,6 @@ _Generated on 2025-09-05 13:44:21 UTC_
     - [`ouroboros_ihra_overreach.png`](Polaris_Nest/Git_Intake_Drawer/ouroboros_ihra_overreach.png)
     - [`overengineered_manipulation_direct_interaction.png`](Polaris_Nest/Git_Intake_Drawer/overengineered_manipulation_direct_interaction.png)
     - [`overlaid_nda_mesh_local.jpeg`](Polaris_Nest/Git_Intake_Drawer/overlaid_nda_mesh_local.jpeg)
-    - [`palantir_cycle_diagram_branded.pdf`](Polaris_Nest/Git_Intake_Drawer/palantir_cycle_diagram_branded.pdf)
     - [`palantir_cycle_diagram_branded.png`](Polaris_Nest/Git_Intake_Drawer/palantir_cycle_diagram_branded.png)
     - [`panic_deleting_evidence.png`](Polaris_Nest/Git_Intake_Drawer/panic_deleting_evidence.png)
     - [`peri_nda_middle_layer.png`](Polaris_Nest/Git_Intake_Drawer/peri_nda_middle_layer.png)
