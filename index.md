@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 21:05:31 UTC_
+_Generated on 2025-09-05 22:49:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -435,6 +435,7 @@ _Generated on 2025-09-05 21:05:31 UTC_
     - [`⚖️_scraping_spoofing_timeline_2021_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_scraping_spoofing_timeline_2021_2022.md)
     - [`⚖️_shadow_governance_timeline.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shadow_governance_timeline.md)
     - [`⚖️_small_bureaucrats_catch22.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_small_bureaucrats_catch22.md)
+    - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_surveillance_osa_citizen_forking_meganode.md)
     - [`⚖️_universal_spoof_burden.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_universal_spoof_burden.md)
     - [`⚖️_wrong_people_in_power.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_wrong_people_in_power.md)
     - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
