@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 12:50:18 UTC_
+_Generated on 2025-09-05 12:50:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -412,7 +412,7 @@ _Generated on 2025-09-05 12:50:18 UTC_
     - [`frankenstack_bad_sandwich_black.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_bad_sandwich_black.png)
     - [`full_report_metrics_with_flips_annotated.png`](Polaris_Nest/Git_Intake_Drawer/full_report_metrics_with_flips_annotated.png)
     - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Polaris_Nest/Git_Intake_Drawer/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
-    - [`israel_eurozone.png`](Polaris_Nest/Git_Intake_Drawer/israel_eurozone.png)
+    - [`israel_eurozone_financial_watchlist.png`](Polaris_Nest/Git_Intake_Drawer/israel_eurozone_financial_watchlist.png)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
     - [`original_vs_fork_vs_hostile.png`](Polaris_Nest/Git_Intake_Drawer/original_vs_fork_vs_hostile.png)
