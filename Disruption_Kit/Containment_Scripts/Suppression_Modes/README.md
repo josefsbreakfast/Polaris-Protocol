@@ -1,6 +1,6 @@
 # 🧨 Containment Scripts – Suppression Modes  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-09-02
+**First created:** 2025-08-17 | **Last updated:** 2025-09-05  
 
 *Forensic fragments of visibility suppression and distortion tactics.*  
 
@@ -36,13 +36,16 @@
   *Discursive inversion (DARVO) used to justify psychiatric containment.*  
 
 - [🧨 Reach Metrics Are Not Neutral](./🧨_reach_metrics_are_not_neutral.md)  
-  *Analytics systems weaponised to minimise survivor impact.*
+  *Analytics systems weaponised to minimise survivor impact.*  
 
 - [🌀 Recognition Without Resolution](./🌀_recognition_without_resolution.md)  
-  *Acknowledgement of harm used as suppression when resolution is withheld.
+  *Acknowledgement of harm used as suppression when resolution is withheld.*  
 
 - [🫀 Pathologising Sensitivity as Containment](./🫀_pathologising_sensitivity_as_containment.md)  
   *Framing survivors as “overly sensitive” or neurodivergent to invalidate testimony.*  
+
+- [🪞 Engineered Disjuncture of Allies](./🪞_engineered_disjuncture_of_allies.md)  
+  *Fragmenting survivor groups into adjacent but non-overlapping categories to prevent solidarity.*  
 
 ---
 
@@ -60,8 +63,8 @@ Each entry is a script fragment showing how platforms and institutions modulate 
 *Containment Scripts – Suppression Modes* is a living node of the Polaris Protocol.  
 It curates and organises suppression methods into an accessible directory for forensic use, survivor training, and systemic analysis.  
 
-🏮 Return to [Containment Scripts Guide](../README.md)
+🏮 Return to [Containment Scripts Guide](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-02_
+_Last updated: 2025-09-05_
