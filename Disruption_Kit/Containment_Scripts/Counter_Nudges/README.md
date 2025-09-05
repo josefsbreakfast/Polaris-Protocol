@@ -1,6 +1,6 @@
 # 🧨 Counter Nudges
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-31
+**First created:** 2025-08-17 | **Last updated:** 2025-09-05  
 
 *Scripts and forensic notes on reversing behavioural interventions and exposing manipulative nudging systems.*  
 
@@ -26,6 +26,9 @@
 - [🔮 Seance Protocol](./🔮_seance_protocol.md)  
   *Experimental script for contacting suppressed content traces in platform archives.*  
 
+- [🪓 Mean/Evidence Template](./🪓_mean_evidence_template.md)  
+  *Countermeasure for logging both the hot (vent) and admissible (record) versions of testimony.*  
+
 ---
 
 ## 📝 Notes  
@@ -33,6 +36,7 @@
 - This folder documents **applied counter-nudge strategies** inside the Polaris Protocol.  
 - Each entry serves as both a **field guide** and a **forensic record** — designed to survive adversarial containment.  
 - Diagrams and probes are stored locally but mirrored here when directly referenced.  
+- Cross-links are encouraged between **Suppression Modes** and **Counter Nudges** to show how each containment script can be met with a countermeasure.  
 
 ---
 
@@ -41,9 +45,8 @@
 *Counter Nudges* is a living node of the Polaris Protocol.  
 It gathers tactics and forensic methods designed to reverse, subvert, and expose manipulative behavioural interventions deployed in containment environments.  
 
-🏮 Return to [Containment Scripts Guide](https://github.com/josefsbreakfast/Polaris-Protocol/blob/addd5271bfa78b16de861c44b0371686263dda88/Disruption_Kit/Containment_Scripts/README.md)
+🏮 Return to [Containment Scripts Guide](https://github.com/josefsbreakfast/Polaris-Protocol/blob/addd5271bfa78b16de861c44b0371686263dda88/Disruption_Kit/Containment_Scripts/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_
-
+_Last updated: 2025-09-05_
