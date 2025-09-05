@@ -1,0 +1,83 @@
+# 📅 Game Plan: Week Ahead  
+
+**First created:** YYYY-MM-DD | **Last updated:** YYYY-MM-DD  
+*Operational priorities, deliverables, and strategic directions for the coming week.*  
+
+---
+
+## 1. **Key Deliverables**  
+- [ ] 📨 **FOIs & SARs**  
+  - [ ] Check all active requests are up to date  
+  - [ ] Send short chaser email for any deadline-approaching FOIs/SARs  
+
+- [ ] ⚖️ **Legal Outreach**  
+  - [ ] Identify at least one new lawyer/firm not yet tried  
+  - [ ] Make first contact, prioritising accessibility and responsiveness  
+
+- [ ] 🩺 **Health & Paperwork**  
+  - [ ] Rearrange outreach to relevant health teams  
+  - [ ] Attend to pending personal paperwork  
+
+---
+
+## 2. **Strategic Objectives**  
+- [ ] 🐦‍🔥 **Map Helpful vs Hindrance**  
+  - [ ] Gather evidence showing who has been sustainably helpful  
+  - [ ] Note “helpful hindrance” behaviours for later packaging  
+
+- [ ] 🧿 **Safer Contact Environment**  
+  - [ ] Draft ideas for reducing risks to people in contact with you  
+  - [ ] Test one lighter, low-risk point of engagement  
+  - [ ] Note how this affects dependency/boundary setting  
+
+- [ ] 🌱 **Daily Living & Joyful Movement**  
+  - [ ] Build up daily living activities at a manageable pace  
+  - [ ] Increase joyful movement, prioritising time outside  
+  - [ ] Record reflections on how this supports resilience  
+
+---
+
+## 3. **🌙 Daily Anchor**  
+*(tracked in handwritten diary — tick here only to confirm check-in)*  
+- [ ] Sleep schedule logged  
+- [ ] Food intake logged  
+- [ ] Fluid intake logged  
+
+---
+
+## 4. **Risks & Watchpoints**  
+- Migraine and health constraints may affect pace — build in buffer time.  
+- Avoid overexposure that could harm allies.  
+- Legal outreach may trigger suppression/deflection tactics.  
+- Daily living and movement goals should remain flexible, not punitive.  
+
+---
+
+## 5. **Tactical Notes**  
+- Minimum viable action counts (a chaser email = a completed step).  
+- Build in recovery time after migraine peaks.  
+- Record evidence of “helpful hindrance” behaviours for later use.  
+- Treat health and movement tasks as supportive, not performative.  
+
+---
+
+## ♻️ Rollover  
+- [ ] Review unfinished items from this week.  
+- [ ] Carry forward to next week’s checklist (`📅_week_ahead_YYYY-MM-DD.md`).  
+- [ ] Add new objectives/deliverables as needed.  
+
+---
+
+## 🏮 Footer  
+
+*Game Plan: Week Ahead* is a living node of the Polaris Protocol.  
+It sequences immediate deliverables alongside strategic directions, balancing urgent tasks with longer-term conditions for safety and sovereignty.  
+
+> 📡 Cross-references:  
+> - [Admin Kit](../Admin_Kit/) — scaffolding and trackers  
+> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — personal case records linked to FOIs/SARs  
+> - [Big Picture Protocols](../Big_Picture_Protocols/) — strategic mapping of allyship and containment  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: YYYY-MM-DD_
