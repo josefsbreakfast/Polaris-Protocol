@@ -58,10 +58,9 @@ graph TD
     IPCO -. audits .-> Minister
     IPT -. closed evidence .-> Agency
 
-    classDef neutral fill:#eeeeee,stroke:#999999;
-    classDef uk fill:#eaffea,stroke:#009933,stroke-width:2px;
+    classDef neutral fill:#eeeeee,stroke:#999999,color:#000000;
+    classDef uk fill:#eaffea,stroke:#009933,stroke-width:2px,color:#000000;
 ```
-
 [🔝 Back to top](#⚖️-surveillance-osa-and-citizen-forking--mega-node)  
 
 ---
@@ -94,7 +93,6 @@ sequenceDiagram
     IPT-->>AG: Closed materials relied upon
     IPT-->>C: Outcome (limited disclosure)
 ```
-
 [🔝 Back to top](#⚖️-surveillance-osa-and-citizen-forking--mega-node)  
 
 ---
@@ -124,10 +122,9 @@ graph LR
     ASSOC --> RISK
     LOGS --> RISK
 
-    classDef core fill:#e6f0ff,stroke:#1f66ff,stroke-width:3px;
-    classDef attack fill:#ffe5e5,stroke:#cc0000,stroke-width:2px;
+    classDef core fill:#e6f0ff,stroke:#1f66ff,stroke-width:3px,color:#000000;
+    classDef attack fill:#ffe5e5,stroke:#cc0000,stroke-width:2px,color:#000000;
 ```
-
 [🔝 Back to top](#⚖️-surveillance-osa-and-citizen-forking--mega-node)  
 
 ---
@@ -156,12 +153,11 @@ graph TD
     MNO --> AGENCY --> MIN --> JC
     AGENCY --> R
 
-    classDef core fill:#e6f0ff,stroke:#1f66ff,stroke-width:3px;
-    classDef attack fill:#ffe5e5,stroke:#cc0000,stroke-width:2px;
-    classDef source fill:#fff7d6,stroke:#e6b800,stroke-width:2px;
-    classDef uk fill:#eaffea,stroke:#009933,stroke-width:2px;
+    classDef core fill:#e6f0ff,stroke:#1f66ff,stroke-width:3px,color:#000000;
+    classDef attack fill:#ffe5e5,stroke:#cc0000,stroke-width:2px,color:#000000;
+    classDef source fill:#fff7d6,stroke:#e6b800,stroke-width:2px,color:#000000;
+    classDef uk fill:#eaffea,stroke:#009933,stroke-width:2px,color:#000000;
 ```
-
 [🔝 Back to top](#⚖️-surveillance-osa-and-citizen-forking--mega-node)  
 
 ---
@@ -203,11 +199,10 @@ graph TD
     MASSOC -. protects .-> ASSOC
     MLOGS -. protects .-> LOGS
 
-    classDef core fill:#e6f0ff,stroke:#1f66ff,stroke-width:3px;
-    classDef attack fill:#ffe5e5,stroke:#cc0000,stroke-width:2px;
-    classDef mit fill:#e5ffe5,stroke:#00aa00,stroke-width:2px,stroke-dasharray: 4 2;
+    classDef core fill:#e6f0ff,stroke:#1f66ff,stroke-width:3px,color:#000000;
+    classDef attack fill:#ffe5e5,stroke:#cc0000,stroke-width:2px,color:#000000;
+    classDef mit fill:#e5ffe5,stroke:#00aa00,stroke-width:2px,stroke-dasharray: 4 2,color:#000000;
 ```
-
 [🔝 Back to top](#⚖️-surveillance-osa-and-citizen-forking--mega-node)  
 
 ---
@@ -228,29 +223,29 @@ graph LR
     IPCO["📋 Investigatory Powers Commissioner"]:::oversight
     IPT["🏛 Investigatory Powers Tribunal"]:::oversight
 
-    Citizen -. "tw 0.2\\n(indirect capture)" .- DataSources:::weak
-    DataSources -- "tw 0.6\\n(controls + logs, spoofable)" --> Agency
-    Agency -. "tw 0.5\\n(disclosure-limited brief)" .- Minister:::weak
-    Minister -- "tw 0.7\\n(queries possible)" --> Judge
-    Judge -- "tw 0.8\\n(legal scrutiny)" --> IPCO
-    IPCO -- "tw 0.6\\n(sampled audits)" --> IPT
+    Citizen -. "tw 0.2\n(indirect capture)" .- DataSources:::weak
+    DataSources -- "tw 0.6\n(controls + logs, spoofable)" --> Agency
+    Agency -. "tw 0.5\n(disclosure-limited brief)" .- Minister:::weak
+    Minister -- "tw 0.7\n(queries possible)" --> Judge
+    Judge -- "tw 0.8\n(legal scrutiny)" --> IPCO
+    IPCO -- "tw 0.6\n(sampled audits)" --> IPT
 
-    Citizen -. "tw 0.3\\n(secret evidence issues)" .- IPT:::weak
-    Attacker -. "tw —\\n(compromise vector)" .- DataSources:::weak
+    Citizen -. "tw 0.3\n(secret evidence issues)" .- IPT:::weak
+    Attacker -. "tw —\n(compromise vector)" .- DataSources:::weak
 
-    IPCO -- "tw 0.75\\n(audit access)" --> Agency
-    IPCO -- "tw 0.7\\n(record review)" --> Minister
-    IPT -- "tw 0.65\\n(process check)" --> IPCO
-    IPT -. "tw 0.5\\n(limited remedies)" .- Agency:::weak
+    IPCO -- "tw 0.75\n(audit access)" --> Agency
+    IPCO -- "tw 0.7\n(record review)" --> Minister
+    IPT -- "tw 0.65\n(process check)" --> IPCO
+    IPT -. "tw 0.5\n(limited remedies)" .- Agency:::weak
 
-    classDef risk fill=#ffcccc,stroke=#cc0000,stroke-width=2px;
-    classDef threat fill=#ff6666,stroke=#990000,stroke-width=2px;
-    classDef dependent fill=#fff5cc,stroke=#e6b800,stroke-width=2px;
-    classDef oversight fill=#ccffcc,stroke:#009933,stroke-width=2px;
-    classDef neutral fill=#eeeeee,stroke:#999999,stroke-width:1px;
-    classDef weak stroke=#cc0000,stroke-width:2px,stroke-dasharray: 5 5;
+    classDef risk fill:#ffcccc,stroke:#cc0000,stroke-width:2px,color:#000000;
+    classDef threat fill:#ff6666,stroke:#990000,stroke-width:2px,color:#000000;
+    classDef dependent fill:#fff5cc,stroke:#e6b800,stroke-width:2px,color:#000000;
+    classDef oversight fill:#ccffcc,stroke:#009933,stroke-width:2px,color:#000000;
+    classDef neutral fill:#eeeeee,stroke:#999999,stroke-width:1px,color:#000000;
+
+    classDef weak stroke:#cc0000,stroke-width:2px,stroke-dasharray: 5 5,color:#000000;
 ```
-
 [🔝 Back to top](#⚖️-surveillance-osa-and-citizen-forking--mega-node)  
 
 ---
@@ -285,11 +280,10 @@ graph LR
     MP -. questions .-> IPT
     Media -. risk/benefit .-> Citizen
 
-    classDef neutral fill:#eeeeee,stroke:#999;
-    classDef mit fill:#e5ffe5,stroke:#00aa00,stroke-width:2px;
-    classDef uk fill:#eaffea,stroke:#009933,stroke-width:2px;
+    classDef neutral fill:#eeeeee,stroke:#999999,color:#000000;
+    classDef mit fill:#e5ffe5,stroke:#00aa00,stroke-width:2px,color:#000000;
+    classDef uk fill:#eaffea,stroke:#009933,stroke-width:2px,color:#000000;
 ```
-
 [🔝 Back to top](#⚖️-surveillance-osa-and-citizen-forking--mega-node)  
 
 ---
