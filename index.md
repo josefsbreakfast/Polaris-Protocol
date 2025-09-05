@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:23:55 UTC_
+_Generated on 2025-09-05 13:24:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -369,7 +369,7 @@ _Generated on 2025-09-05 13:23:55 UTC_
     - [`THE OUROBOROS OF IHRA OVERREACH.png`](Polaris_Nest/Git_Intake_Drawer/THE OUROBOROS OF IHRA OVERREACH.png)
     - [`battleplan_metadata_twinning_convergence_containment.png`](Polaris_Nest/Git_Intake_Drawer/battleplan_metadata_twinning_convergence_containment.png)
     - [`behavioural_ai_connector_proximity_map.png`](Polaris_Nest/Git_Intake_Drawer/behavioural_ai_connector_proximity_map.png)
-    - [`big_tech_stakeholder_relations.png`](Polaris_Nest/Git_Intake_Drawer/big_tech_stakeholder_relations.png)
+    - [`big_tech_intra_industry_stakeholder_relations.png`](Polaris_Nest/Git_Intake_Drawer/big_tech_intra_industry_stakeholder_relations.png)
     - [`ceefax_watchlist_fixed.png`](Polaris_Nest/Git_Intake_Drawer/ceefax_watchlist_fixed.png)
     - [`constitutional_fault_lines.png`](Polaris_Nest/Git_Intake_Drawer/constitutional_fault_lines.png)
     - [`containment_severity_time.png`](Polaris_Nest/Git_Intake_Drawer/containment_severity_time.png)
