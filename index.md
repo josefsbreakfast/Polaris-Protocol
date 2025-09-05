@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 12:57:26 UTC_
+_Generated on 2025-09-05 12:57:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 12:57:26 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_1554.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1554.png)
     - [`IMG_1597.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1597.png)
     - [`IMG_1608.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1608.png)
     - [`IMG_1643.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1643.png)
@@ -414,6 +413,7 @@ _Generated on 2025-09-05 12:57:26 UTC_
     - [`original_vs_fork_vs_hostile.png`](Polaris_Nest/Git_Intake_Drawer/original_vs_fork_vs_hostile.png)
     - [`palantir_cycle_diagram_branded.pdf`](Polaris_Nest/Git_Intake_Drawer/palantir_cycle_diagram_branded.pdf)
     - [`palantir_cycle_diagram_branded.png`](Polaris_Nest/Git_Intake_Drawer/palantir_cycle_diagram_branded.png)
+    - [`panic_deleting_evidence.png`](Polaris_Nest/Git_Intake_Drawer/panic_deleting_evidence.png)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Polaris_Nest/Git_Intake_Drawer/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`pp14_22_metrics_timeline.png`](Polaris_Nest/Git_Intake_Drawer/pp14_22_metrics_timeline.png)
     - [`pre_fork_gaza_fork_tree.png`](Polaris_Nest/Git_Intake_Drawer/pre_fork_gaza_fork_tree.png)
