@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:02:18 UTC_
+_Generated on 2025-09-05 13:02:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:02:18 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_1960.png`](Polaris_Nest/Git_Intake_Drawer/IMG_1960.png)
     - [`IMG_2455.png`](Polaris_Nest/Git_Intake_Drawer/IMG_2455.png)
     - [`IMG_2458.png`](Polaris_Nest/Git_Intake_Drawer/IMG_2458.png)
     - [`IMG_2496.png`](Polaris_Nest/Git_Intake_Drawer/IMG_2496.png)
@@ -404,6 +403,7 @@ _Generated on 2025-09-05 13:02:18 UTC_
     - [`full_report_metrics_with_flips_annotated.png`](Polaris_Nest/Git_Intake_Drawer/full_report_metrics_with_flips_annotated.png)
     - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Polaris_Nest/Git_Intake_Drawer/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
     - [`influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/influence_map_local_redacted.png)
+    - [`interference_types.png`](Polaris_Nest/Git_Intake_Drawer/interference_types.png)
     - [`israel_eurozone_financial_watchlist.png`](Polaris_Nest/Git_Intake_Drawer/israel_eurozone_financial_watchlist.png)
     - [`layer_dominance_containment_posture.png`](Polaris_Nest/Git_Intake_Drawer/layer_dominance_containment_posture.png)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
