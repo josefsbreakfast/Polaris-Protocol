@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 22:57:59 UTC_
+_Generated on 2025-09-05 23:22:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -438,6 +438,7 @@ _Generated on 2025-09-05 22:57:59 UTC_
     - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_surveillance_osa_citizen_forking_meganode.md)
     - [`⚖️_universal_spoof_burden.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_universal_spoof_burden.md)
     - [`⚖️_wrong_people_in_power.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_wrong_people_in_power.md)
+    - [`⚡️_citizen_polaris.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_citizen_polaris.md)
     - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
     - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
     - [`🇬🇧_voice_cloning_legislative_response.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_voice_cloning_legislative_response.md)
