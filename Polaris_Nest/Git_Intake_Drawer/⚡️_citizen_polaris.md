@@ -1,3 +1,5 @@
+```
+
 graph TD
     %% Center
     C["⚡ Citizen Polaris (publishes nodes)"]:::core
@@ -57,3 +59,5 @@ graph TD
     classDef tech fill:#dcfce7,stroke:#166534,stroke-width:2px,color:#000000;
     classDef civ fill:#f5f3ff,stroke:#6d28d9,stroke-width:2px,color:#000000;
     classDef echo fill:#ffffff,stroke:#111827,stroke-width:2px,color:#000000,stroke-dasharray: 4 2;
+
+```
