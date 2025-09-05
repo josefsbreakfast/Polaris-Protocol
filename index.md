@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:30:08 UTC_
+_Generated on 2025-09-05 13:30:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:30:08 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_9523.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9523.png)
     - [`IMG_9532.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9532.png)
     - [`IMG_9533.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9533.png)
     - [`IMG_9534.png`](Polaris_Nest/Git_Intake_Drawer/IMG_9534.png)
@@ -409,6 +408,7 @@ _Generated on 2025-09-05 13:30:08 UTC_
     - [`requiresedits_uk_online_safety_timeline.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_uk_online_safety_timeline.png)
     - [`retained_removed_pie_chart_redacted.png`](Polaris_Nest/Git_Intake_Drawer/retained_removed_pie_chart_redacted.png)
     - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Polaris_Nest/Git_Intake_Drawer/reverse_colonisation_metadata_law_procurement_timeline.png)
+    - [`safeguarding_model_actual_vs_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_actual_vs_potential.png)
     - [`safeguarding_model_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_potential.png)
     - [`shadow_nda_redacted.pdf`](Polaris_Nest/Git_Intake_Drawer/shadow_nda_redacted.pdf)
     - [`sound_ahavah_rabbah.png`](Polaris_Nest/Git_Intake_Drawer/sound_ahavah_rabbah.png)
