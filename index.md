@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 19:04:56 UTC_
+_Generated on 2025-09-05 21:00:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -462,6 +462,7 @@ _Generated on 2025-09-05 19:04:56 UTC_
     - [`🔥_anger_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_anger_as_signal.md)
     - [`🔥_guardrails_are_political.md`](Polaris_Nest/Git_Intake_Drawer/🔥_guardrails_are_political.md)
     - [`🔮_challenge_of_ai.md`](Polaris_Nest/Git_Intake_Drawer/🔮_challenge_of_ai.md)
+    - [`🕎_exile_logic_dual_coding.md`](Polaris_Nest/Git_Intake_Drawer/🕎_exile_logic_dual_coding.md)
     - [`🕵️_harassment_vs_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🗝️_governance_central_data_outsourcing.md`](Polaris_Nest/Git_Intake_Drawer/🗝️_governance_central_data_outsourcing.md)
