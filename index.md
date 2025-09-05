@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 15:30:22 UTC_
+_Generated on 2025-09-05 15:34:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -492,6 +492,7 @@ _Generated on 2025-09-05 15:30:22 UTC_
   - [**Weekly_Checklists/**](Polaris_Nest/Weekly_Checklists/)
     - [`README.md`](Polaris_Nest/Weekly_Checklists/README.md)
     - [`📅_week_ahead_2025-09-05.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_2025-09-05.md)
+    - [`📅_week_ahead_YYYY-MM-DD.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_YYYY-MM-DD.md)
   - [`README.md`](Polaris_Nest/README.md)
 - [**Resources/**](Resources/)
   - [`README.md`](Resources/README.md)
