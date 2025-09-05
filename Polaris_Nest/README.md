@@ -1,6 +1,7 @@
 # 🪺 Polaris Nest  
 
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-05
+
 *Home base for survivor-authored protocols, casefiles, and weekly planning.*  
 
 ---
