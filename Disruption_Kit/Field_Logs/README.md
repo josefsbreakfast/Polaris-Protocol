@@ -26,6 +26,12 @@ Logs unexpected resurfacing of past actors and buffered contacts after posts bre
 
 ---
 
+### [🛰️ FOI/SAR Silence Reliance](./🛰️_foi_sar_silence_reliance.md)  
+Log of emotional and structural impacts of delayed FOI/SAR responses and engineered survivor isolation.  
+Captures how partial disclosures and DNS interference enforce silence by design.  
+
+---
+
 ### [🛰️ Forensic Thread Analysis: ICC 2025-08-07](./🛰️_forensic_thread_analysis_icc_2025-08-07.md)  
 Structured breakdown of ICC-tagged post engagement patterns, with screenshots and anomaly tracking.  
 **Links:** [🛰️ ICC Tag Thread Containment](./🛰️_icc_tag_thread_containment.md) · [🛰️ Purge Sequence (Aug 11–13)](./🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)  
@@ -144,7 +150,7 @@ Visual representation of threat visibility shifts across monitored networks, adj
 - **Echo Return** identifies when content breaches its engineered perimeter despite suppression.  
 - **Metadata Twitching** documents post-breach countermeasures.  
 - **Reputation Unit 12** captures satire-as-forensics events where ridicule triggers measurable suppression behaviour.  
-- **Safety and Transparency Email**, **Sensitivity in Referencing Reports**, and **University Complicity in Protest Suppression** extend the chain into **survivor correspondence, systemic referencing interference, and institutional complicity**.  
+- **Safety and Transparency Email**, **Sensitivity in Referencing Reports**, **FOI/SAR Silence Reliance**, and **University Complicity in Protest Suppression** extend the chain into **survivor correspondence, institutional delay, systemic referencing interference, and organisational complicity**.  
 
 ---
 
@@ -158,6 +164,7 @@ Visual representation of threat visibility shifts across monitored networks, adj
 ### 🏛️ Institutional Complicity  
 - [🛰️ University Complicity in Protest Suppression (2025-09-05)](./🛰️_university_complicity_protest_suppression_2025-09-05.md)  
 - [🛰️ Arrest as Surveillance Warrant](./🛰️_arrest_as_surveillance_warrant.md)  
+- [🛰️ FOI/SAR Silence Reliance](./🛰️_foi_sar_silence_reliance.md)  
 
 ### 💬 Survivor Correspondence & Testimony  
 - [🛰️ Safety and Transparency Email (2025-09-05)](./🛰️_safety_transparency_email_2025-09-05.md)  
@@ -177,4 +184,4 @@ It maintains the directory of forensic field captures, evidentiary suppression t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-05_  
+_Last updated: 2025-09-05_
