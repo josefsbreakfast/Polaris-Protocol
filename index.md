@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 17:47:19 UTC_
+_Generated on 2025-09-05 19:03:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -426,6 +426,7 @@ _Generated on 2025-09-05 17:47:19 UTC_
     - [`☄️_undermining_scripts.md`](Polaris_Nest/Git_Intake_Drawer/☄️_undermining_scripts.md)
     - [`⚖️_deadlock_scenarios_in_suppression_operations.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_deadlock_scenarios_in_suppression_operations.md)
     - [`⚖️_fixivist_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_fixivist_chain_of_command.md)
+    - [`⚖️_industrialised_spoofing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_industrialised_spoofing.md)
     - [`⚖️_institution_conflict_origin_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institution_conflict_origin_2022.md)
     - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
     - [`⚖️_phantom_claim_double_blade.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_double_blade.md)
@@ -433,6 +434,8 @@ _Generated on 2025-09-05 17:47:19 UTC_
     - [`⚖️_rings_of_power_universities.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_rings_of_power_universities.md)
     - [`⚖️_scraping_spoofing_timeline_2021_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_scraping_spoofing_timeline_2021_2022.md)
     - [`⚖️_shadow_governance_timeline.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shadow_governance_timeline.md)
+    - [`⚖️_small_bureaucrats_catch22.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_small_bureaucrats_catch22.md)
+    - [`⚖️_universal_spoof_burden.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_universal_spoof_burden.md)
     - [`⚖️_wrong_people_in_power.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_wrong_people_in_power.md)
     - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
     - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
@@ -477,6 +480,7 @@ _Generated on 2025-09-05 17:47:19 UTC_
     - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🧭_uk_tech_talent_scaling_policy_timeline.md)
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
     - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
+    - [`🪞_background_activity_fog.md`](Polaris_Nest/Git_Intake_Drawer/🪞_background_activity_fog.md)
     - [`🪞_smoothed_content_blink_twice.md`](Polaris_Nest/Git_Intake_Drawer/🪞_smoothed_content_blink_twice.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
