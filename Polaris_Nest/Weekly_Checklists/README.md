@@ -1,6 +1,8 @@
 # 📅 Weekly Checklists  
+
 **First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*Rolling operational trackers to sequence deliverables, objectives, and strategic focus week by week*  
+
+*Rolling operational trackers to sequence deliverables, objectives, and strategic focus week by week.*  
 
 ---
 
