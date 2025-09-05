@@ -1,6 +1,6 @@
 # 🛰️ Field Logs Index  
 
-**First created:** 2025-08-11 | **Last updated:** 2025-09-01  
+**First created:** 2025-08-11 | **Last updated:** 2025-09-05  
 
 *Index of time-bound, event-specific forensic captures documenting suppression behaviours, metadata anomalies, and live breaches.*  
 
@@ -86,8 +86,25 @@ Maps systemic reset events in live operational environments, identifying points 
 
 ---
 
+### [🛰️ Safety and Transparency Email (2025-09-05)](./🛰️_safety_transparency_email_2025-09-05.md)  
+Record of correspondence sent to [redacted publisher], with contemporaneous SAR/FOI status and awareness of AI vocal smoothing risks.  
+
+---
+
+### [🛰️ Sensitivity in Referencing Reports (2025-09-05)](./🛰️_sensitivity_in_referencing_reports_2025-09-05.md)  
+Notes on system-level sensitivity when naming safeguarding reports (Jay, Casey, IICSA).  
+Records how referencing interference created friction in survivor dictation.  
+
+---
+
 ### [🛰️ Throttling Chokepoints (26 August 2025)](./🛰️_throttling_chokepoints_2025-08-26.md)  
 Documentation of selective throttling targeting legal, medical, and forensic communications.  
+
+---
+
+### [🛰️ University Complicity in Protest Suppression (2025-09-05)](./🛰️_university_complicity_protest_suppression_2025-09-05.md)  
+FieldNotes on potential high-level authorisation of protest suppression within a university context.  
+Logs suspicion of tacit approval for harassment, surveillance, and data misuse.  
 
 ---
 
@@ -127,6 +144,24 @@ Visual representation of threat visibility shifts across monitored networks, adj
 - **Echo Return** identifies when content breaches its engineered perimeter despite suppression.  
 - **Metadata Twitching** documents post-breach countermeasures.  
 - **Reputation Unit 12** captures satire-as-forensics events where ridicule triggers measurable suppression behaviour.  
+- **Safety and Transparency Email**, **Sensitivity in Referencing Reports**, and **University Complicity in Protest Suppression** extend the chain into **survivor correspondence, systemic referencing interference, and institutional complicity**.  
+
+---
+
+## 🗂️ Index by Theme  
+
+### 📑 Interference & Suppression Artefacts  
+- [🛰️ Sensitivity in Referencing Reports (2025-09-05)](./🛰️_sensitivity_in_referencing_reports_2025-09-05.md)  
+- [🛰️ Throttling Chokepoints (26 August 2025)](./🛰️_throttling_chokepoints_2025-08-26.md)  
+- [🩻 Diagnostic Injection Log (28 August 2025)](./🩻_diagnostic_injection_log_2025-08-28.md)  
+
+### 🏛️ Institutional Complicity  
+- [🛰️ University Complicity in Protest Suppression (2025-09-05)](./🛰️_university_complicity_protest_suppression_2025-09-05.md)  
+- [🛰️ Arrest as Surveillance Warrant](./🛰️_arrest_as_surveillance_warrant.md)  
+
+### 💬 Survivor Correspondence & Testimony  
+- [🛰️ Safety and Transparency Email (2025-09-05)](./🛰️_safety_transparency_email_2025-09-05.md)  
+- [🛰️ Forkbreach (24 July 2025, Redacted V6)](./🛰️_forkbreach_2025-07-24_redacted_V6.md)  
 
 ---
 
@@ -142,4 +177,4 @@ It maintains the directory of forensic field captures, evidentiary suppression t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_
+_Last updated: 2025-09-05_  
