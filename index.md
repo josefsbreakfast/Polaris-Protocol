@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:08:18 UTC_
+_Generated on 2025-09-05 13:08:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:08:18 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_3931.png`](Polaris_Nest/Git_Intake_Drawer/IMG_3931.png)
     - [`IMG_4011.png`](Polaris_Nest/Git_Intake_Drawer/IMG_4011.png)
     - [`IMG_4059.png`](Polaris_Nest/Git_Intake_Drawer/IMG_4059.png)
     - [`IMG_4406.png`](Polaris_Nest/Git_Intake_Drawer/IMG_4406.png)
@@ -416,6 +415,7 @@ _Generated on 2025-09-05 13:08:18 UTC_
     - [`requiresedits_darvo_vs_prevent.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_darvo_vs_prevent.png)
     - [`requiresedits_defacto_uk_hsip.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_defacto_uk_hsip.png)
     - [`requiresedits_global_crown_stakeholders.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_global_crown_stakeholders.png)
+    - [`requiresedits_global_crown_timeline.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_global_crown_timeline.png)
     - [`requiresedits_uk_online_safety_timeline.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_uk_online_safety_timeline.png)
     - [`retained_removed_pie_chart_redacted.png`](Polaris_Nest/Git_Intake_Drawer/retained_removed_pie_chart_redacted.png)
     - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Polaris_Nest/Git_Intake_Drawer/reverse_colonisation_metadata_law_procurement_timeline.png)
