@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:18:32 UTC_
+_Generated on 2025-09-05 13:19:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:18:32 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_5789.png`](Polaris_Nest/Git_Intake_Drawer/IMG_5789.png)
     - [`IMG_5814.jpeg`](Polaris_Nest/Git_Intake_Drawer/IMG_5814.jpeg)
     - [`IMG_5815.jpeg`](Polaris_Nest/Git_Intake_Drawer/IMG_5815.jpeg)
     - [`IMG_5816.jpeg`](Polaris_Nest/Git_Intake_Drawer/IMG_5816.jpeg)
@@ -381,6 +380,7 @@ _Generated on 2025-09-05 13:18:32 UTC_
     - [`data_misuse_continuum_flowchart_detailed.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart_detailed.png)
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
     - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/Git_Intake_Drawer/dopamine_induction_emotional_alignment.png)
+    - [`dual_use_tech_procurement_theorised.png`](Polaris_Nest/Git_Intake_Drawer/dual_use_tech_procurement_theorised.png)
     - [`fork_ghost_human_24h.png`](Polaris_Nest/Git_Intake_Drawer/fork_ghost_human_24h.png)
     - [`forkscan_seperating_human_actors.png`](Polaris_Nest/Git_Intake_Drawer/forkscan_seperating_human_actors.png)
     - [`frankenstack_bad_sandwich_black.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_bad_sandwich_black.png)
