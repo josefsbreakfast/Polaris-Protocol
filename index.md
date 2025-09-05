@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 13:04:43 UTC_
+_Generated on 2025-09-05 13:06:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,7 +342,6 @@ _Generated on 2025-09-05 13:04:43 UTC_
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`IMG_2558.png`](Polaris_Nest/Git_Intake_Drawer/IMG_2558.png)
     - [`IMG_3021.png`](Polaris_Nest/Git_Intake_Drawer/IMG_3021.png)
     - [`IMG_3130.png`](Polaris_Nest/Git_Intake_Drawer/IMG_3130.png)
     - [`IMG_3405.png`](Polaris_Nest/Git_Intake_Drawer/IMG_3405.png)
@@ -395,6 +394,7 @@ _Generated on 2025-09-05 13:04:43 UTC_
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
     - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/Git_Intake_Drawer/dopamine_induction_emotional_alignment.png)
     - [`fork_ghost_human_24h.png`](Polaris_Nest/Git_Intake_Drawer/fork_ghost_human_24h.png)
+    - [`forkscan_seperating_human_actors.png`](Polaris_Nest/Git_Intake_Drawer/forkscan_seperating_human_actors.png)
     - [`frankenstack_bad_sandwich_black.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_bad_sandwich_black.png)
     - [`frankenstack_faceplate.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_faceplate.png)
     - [`full_report_metrics_with_flips_annotated.png`](Polaris_Nest/Git_Intake_Drawer/full_report_metrics_with_flips_annotated.png)
