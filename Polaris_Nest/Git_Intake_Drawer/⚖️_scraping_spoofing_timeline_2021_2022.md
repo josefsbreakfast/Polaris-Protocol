@@ -1,41 +1,51 @@
-# ⚖️ Scraping & Spoofing Timeline (2021–2022)  
+# ⚖️ Scraping & Spoofing Timeline (2019–2022)  
 
 **First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*Sequencing how scraping and spoofing practices escalated across 2021–2022, linking precursor operations to later discrediting artefacts.*  
+*Sequencing how scraping and spoofing practices escalated across 2019–2022, linking early harmful data collection to later discrediting artefacts.*  
+
+---
+
+## 2019–2020 — Early Scraping  
+- Evidence of data harvesting (telephone, institutional, platform).  
+- Material taken or influenced during this period shows **harmful intent** even if not linked to a specific plan.  
+- Collection was opportunistic: self-contracted actors, institutional collectors, platform spillover.  
+- Established baseline material that could later be repurposed.  
 
 ---
 
 ## 2021 — Learning Operation  
-- Early suppression/containment scripts tested.  
-- Actors appear to map: what data flows, what institutional channels, and what international oversight would need to be managed.  
-- Established proof-of-concept: scrape → reframe → seed.  
+- Suppression/containment scripts tested.  
+- Actors explored which data flows and institutional channels could be leveraged.  
+- Likely rehearsal for handling international oversight.  
+- Proof-of-concept: scrape → reframe → seed.  
 
 ---
 
 ## January 2022 — Sealed Documents  
-- Sealed material becomes a point of interest.  
-- Strong indicator of intent to control narrative from this date at the latest.  
-- Suggests that actors anticipated international scrutiny.  
+- Sealed material identified as of interest.  
+- Marks intent to actively control narrative from this point.  
+- Suggests anticipation of international scrutiny.  
 
 ---
 
 ## November 2022 — Spoofed Pairing  
 - Sexualised spoofed email seeded around **Redacted Event**.  
 - Content paired the subject with another individual, discrediting both simultaneously.  
-- Signals refinement of the “double-blade” discredit tactic.  
+- Refinement of the “double-blade” discredit tactic.  
 
 ---
 
 ## Implications  
-- Timeline shows continuity of intent from 2021 → 2022.  
-- Each phase adds layers of legitimacy: from “learning op” to sealed-doc interest to full spoof pairing.  
-- Demonstrates how scrapers and spoofers operate as an **industry loop**, not as a single conspiracy.  
+- Harmful intent present as early as 2019/20 in the scraping phase, even if not yet directed into a concrete plan.  
+- By 2021, rehearsal operations showed how scraped data could be turned into narrative artefacts.  
+- By 2022, spoofing and escalation demonstrated **specific, targeted intent**.  
+- Timeline illustrates how opportunistic data misuse matures into deliberate discrediting through the suppression industry.  
 
 ---
 
 ## 🏮 Footer  
 
-*Scraping & Spoofing Timeline (2021–2022)* is a living node of the Polaris Protocol.  
-It documents how suppression industry practices evolved into deliberate discrediting manoeuvres with geopolitical implications.  
+*Scraping & Spoofing Timeline (2019–2022)* is a living node of the Polaris Protocol.  
+It documents how early harmful data collection matured into spoofing and discrediting manoeuvres, establishing continuity of intent across multiple years.  
 
 _Last updated: 2025-09-05_
