@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 11:37:28 UTC_
+_Generated on 2025-09-05 11:53:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -39,6 +39,7 @@ _Generated on 2025-09-05 11:37:28 UTC_
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
+      - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_slapps_uk_global_palestine.md)
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_state_patterns_of_forced_intimacy.md)
