@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:52:51 UTC_
+_Generated on 2025-09-06 19:53:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -236,6 +236,8 @@ _Generated on 2025-09-06 19:52:51 UTC_
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
+    - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
+      - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)
