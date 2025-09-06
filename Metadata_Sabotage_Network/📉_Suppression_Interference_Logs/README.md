@@ -1,7 +1,20 @@
-# 📉 Suppression & Interference Logs  
+# 📉_Suppression_Interference_Logs
 
-**First created:** 2025-09-04 | **Last updated:** 2025-09-04
+**First created:** 2025-09-04 | **Last updated:** 2025-09-06  
 
-*Logs of platform sabotage, metadata erasure, forced closures, and commit disruption events.*  
+*Commit failures, forced comment closures, and UI sabotage logs.*
 
-This folder records how suppression manifests in real time: comment force-closes, hyperlink deletion, commit collapse, and interruption loops.  
+---
+
+## 🏮 Footer  
+
+*📉_Suppression_Interference_Logs* is a living node of the Polaris Protocol.  
+It documents one layer of metadata sabotage and its counter-responses.  
+
+> 📡 Cross-references:  
+> - [Metadata Sabotage Network](../../) — evidentiary core  
+> - [Disruption Kit](../../../Disruption_Kit/) — systemic suppression + counter-nudges  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-06_
