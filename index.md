@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:31:56 UTC_
+_Generated on 2025-09-06 19:32:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,7 +219,6 @@ _Generated on 2025-09-06 19:31:56 UTC_
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
-    - [`IMG_5416.png`](Metadata_Sabotage_Network/Constellations/IMG_5416.png)
     - [`IMG_5417.png`](Metadata_Sabotage_Network/Constellations/IMG_5417.png)
     - [`Network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png`](Metadata_Sabotage_Network/Constellations/Network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png)
     - [`🌈_image_log.md`](Metadata_Sabotage_Network/Constellations/🌈_image_log.md)
@@ -257,6 +256,7 @@ _Generated on 2025-09-06 19:31:56 UTC_
       - [`🎁_DNS_error_Press_Contact_2025-08-31_175850.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🎁_DNS_error_Press_Contact_2025-08-31_175850.png)
       - [`🎁_DNS_error_unable_speak_mp.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🎁_DNS_error_unable_speak_mp.png)
       - [`🎣_ai_app_failure_interference.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🎣_ai_app_failure_interference.png)
+      - [`🐀_steal_her_mouse.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🐀_steal_her_mouse.png)
       - [`🧃_20240902_feed_tiktok_rape_undermining.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🧃_20240902_feed_tiktok_rape_undermining.png)
       - [`🪅_governance_comes_calling.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_governance_comes_calling.png)
       - [`🪅_jobs_still_partially_twinned.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_jobs_still_partially_twinned.png)
