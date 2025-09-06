@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:04:51 UTC_
+_Generated on 2025-09-06 13:05:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -320,7 +320,7 @@ _Generated on 2025-09-06 13:04:51 UTC_
   - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/🔥_prevent_the_big_sell.md)
   - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/🔴_system_threshold_and_false_pretext.md)
   - [`🕸️_nda_dragnet_dismantled.md`](Metadata_Sabotage_Network/🕸️_nda_dragnet_dismantled.md)
-  - [`🕹️ handler_override_incidents.md`](Metadata_Sabotage_Network/🕹️ handler_override_incidents.md)
+  - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/🕹️_handler_override_incidents.md)
   - [`🗣️ voice_laundering.md`](Metadata_Sabotage_Network/🗣️ voice_laundering.md)
   - [`🗺️ coordinates_for_safety.md`](Metadata_Sabotage_Network/🗺️ coordinates_for_safety.md)
   - [`🙄 jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/🙄 jewish_loyalty_pings_faster_than_rape.md)
