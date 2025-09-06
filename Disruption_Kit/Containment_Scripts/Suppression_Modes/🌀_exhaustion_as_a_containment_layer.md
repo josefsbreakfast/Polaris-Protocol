@@ -1,6 +1,6 @@
 # 🌀 Exhaustion as a Containment Layer
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-31
+**First created:** 2025-08-17 | **Last updated:** 2025-09-06
 
 *Exhaustion and friction as weaponised governance, observed in daily interference and placed within a two-decade lineage of suppression tactics.*  
 
@@ -126,4 +126,4 @@ It situates exhaustion and friction as intentional governance tools, documenting
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_
+_Last updated: 2025-09-06_
