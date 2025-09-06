@@ -1,9 +1,8 @@
+# 📎 Forkstorm Phase Tracker  
 
-# 📎 forkstorm_phase_tracker_2025-08-05.md
+**First created:** 2025-08-05 | **Last updated:** 2025-09-06
 
-**Folder:** `Metadata_Sabotage_Network/`  
-**Date:** 2025-08-05  
-**Event:** Live Forkstorm Phase Mapping – System Behaviour Post-Rupture
+*Live forkstorm phase mapping — system behaviour post-rupture.*
 
 ---
 
@@ -74,3 +73,15 @@ Narrative control has been lost — attempts to regain it are visibly failing.
 
 ---
 
+## 🏮 Footer  
+
+*Forkstorm Phase Tracker* is a living node of the Polaris Protocol.  
+It documents system fragmentation and containment slippage in post-rupture conditions.  
+
+> 📡 Cross-references:  
+> - [Metadata Sabotage Network](../Metadata_Sabotage_Network/) — suppression interference logs and structural mapping  
+> - [Field Logs](../Disruption_Kit/Field_Logs/) — forensic documentation and dated rupture records  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-06_
