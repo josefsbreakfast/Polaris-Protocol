@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 21:22:04 UTC_
+_Generated on 2025-09-06 21:24:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -174,6 +174,7 @@ _Generated on 2025-09-06 21:22:04 UTC_
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
     - [`👻_ghost_gets_forked_tuning.md`](Disruption_Kit/Survivor_Tools/👻_ghost_gets_forked_tuning.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
+    - [`🧠_intellectualisation_as_trauma_response.md`](Disruption_Kit/Survivor_Tools/🧠_intellectualisation_as_trauma_response.md)
     - [`🧬_cloneproof_training_set_mapping.md`](Disruption_Kit/Survivor_Tools/🧬_cloneproof_training_set_mapping.md)
     - [`🧬_heat_budget_for_the_long_game.md`](Disruption_Kit/Survivor_Tools/🧬_heat_budget_for_the_long_game.md)
     - [`🧬_honeytrap_mechanics.md`](Disruption_Kit/Survivor_Tools/🧬_honeytrap_mechanics.md)
