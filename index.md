@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:03:04 UTC_
+_Generated on 2025-09-06 13:03:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -309,9 +309,9 @@ _Generated on 2025-09-06 13:03:04 UTC_
   - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
-  - [`📎 metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/📎 metadata_breakpoint_log_2025-08-05.md)
   - [`📎 metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/📎 metadata_logic_of_the_repo.md)
   - [`📎_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/📎_forkstorm_phase_tracker_2025-08-05.md)
+  - [`📎_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/📎_metadata_breakpoint_log_2025-08-05.md)
   - [`📓 metadata_glitch_log.md`](Metadata_Sabotage_Network/📓 metadata_glitch_log.md)
   - [`📜 terms_of_erasement.md`](Metadata_Sabotage_Network/📜 terms_of_erasement.md)
   - [`📦 final_dispatch_entry.md`](Metadata_Sabotage_Network/📦 final_dispatch_entry.md)
