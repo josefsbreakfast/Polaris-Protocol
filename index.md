@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:32:53 UTC_
+_Generated on 2025-09-06 19:33:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,7 +219,6 @@ _Generated on 2025-09-06 19:32:53 UTC_
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
-    - [`IMG_5417.png`](Metadata_Sabotage_Network/Constellations/IMG_5417.png)
     - [`Network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png`](Metadata_Sabotage_Network/Constellations/Network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png)
     - [`🌈_image_log.md`](Metadata_Sabotage_Network/Constellations/🌈_image_log.md)
   - [**Evidence_And_Anomalies/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/)
@@ -316,6 +315,7 @@ _Generated on 2025-09-06 19:32:53 UTC_
   - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
+  - [`🐀_steal_her_github.png`](Metadata_Sabotage_Network/🐀_steal_her_github.png)
   - [`📎_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/📎_metadata_logic_of_the_repo.md)
   - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/📓_metadata_glitch_log.md)
   - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/📜_terms_of_erasement.md)
