@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:19:48 UTC_
+_Generated on 2025-09-06 20:20:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -223,6 +223,7 @@ _Generated on 2025-09-06 20:19:48 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
       - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🙄_jewish_loyalty_pings_faster_than_rape.md)
+      - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🥸_bookshops_vs_behavioral_risks.md)
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
@@ -351,7 +352,6 @@ _Generated on 2025-09-06 20:19:48 UTC_
   - [`🚀_governance_is_great_2nd_spring_clean.md`](Metadata_Sabotage_Network/🚀_governance_is_great_2nd_spring_clean.md)
   - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
   - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/🤝_held_by_other_peoples_alliances.md)
-  - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/🥸_bookshops_vs_behavioral_risks.md)
   - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/🧠_why_i_write_like_this.md)
   - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/🧨_soft_suspension_is_still_containment.md)
   - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/🧨_system_agitation_shopping_list.md)
