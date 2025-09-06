@@ -1,4 +1,4 @@
-#🪆 Narrative_Interference
+# 🪆 Narrative Interference
 
 **First created:** 2025-09-06 | **Last updated:** 2025-09-06  
 
