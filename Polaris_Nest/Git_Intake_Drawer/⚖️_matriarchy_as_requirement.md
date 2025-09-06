@@ -22,8 +22,7 @@
 ---
 
 ## Notes for Reference  
-- *Do not forget this.*  
-- If necessary: tattoo it on your arm, so you can check your notes.  
+- *Do not forget this.*   
 
 ---
 
