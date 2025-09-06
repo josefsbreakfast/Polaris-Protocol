@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:14:10 UTC_
+_Generated on 2025-09-06 20:14:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -254,6 +254,7 @@ _Generated on 2025-09-06 20:14:10 UTC_
       - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
     - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/README.md)
+      - [`📍_field_signal_tests.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/📍_field_signal_tests.md)
       - [`🛰️_audit_trace_by_proximity.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_audit_trace_by_proximity.md)
       - [`🛰️_control_conflict_zones.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_control_conflict_zones.md)
       - [`🛰️_ghostwatch_protocol.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_ghostwatch_protocol.md)
@@ -332,7 +333,6 @@ _Generated on 2025-09-06 20:14:10 UTC_
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
   - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/)
     - [`README.md`](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/README.md)
-    - [`📍_field_signal_tests.md`](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/📍_field_signal_tests.md)
   - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
