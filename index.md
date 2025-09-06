@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:43:21 UTC_
+_Generated on 2025-09-06 19:44:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -218,9 +218,6 @@ _Generated on 2025-09-06 19:43:21 UTC_
   - [`🧿_visibility_log_polaris_day_1.md`](Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
-  - [**Evidence_And_Anomalies/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/)
-    - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/)
-      - [`README.md`](Metadata_Sabotage_Network/Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/README.md)
   - [**Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_Interference/)
     - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_Interference/🎪_moles_in_the_circus.md)
     - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
@@ -306,6 +303,8 @@ _Generated on 2025-09-06 19:43:21 UTC_
       - [`🪅_twinned_data_artefacts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_twinned_data_artefacts.png)
       - [`🪅_who_lives_in_picton.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_who_lives_in_picton.png)
       - [`🪅_yet_more_job_offer_twinning.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_yet_more_job_offer_twinning.png)
+    - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/)
+      - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/README.md)
   - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/README.md)
     - [`📉_narrative_instability_index.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/📉_narrative_instability_index.md)
