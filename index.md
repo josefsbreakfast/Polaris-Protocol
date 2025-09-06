@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 12:57:46 UTC_
+_Generated on 2025-09-06 12:58:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -201,7 +201,7 @@ _Generated on 2025-09-06 12:57:46 UTC_
   - [`🧽_subtle_sanitizer_fork.md`](Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
 - [**Letters_to_Stars/**](Letters_to_Stars/)
   - [`polaris_live.md`](Letters_to_Stars/polaris_live.md)
-  - [`⁉️ conversation_erase_event.md`](Letters_to_Stars/⁉️ conversation_erase_event.md)
+  - [`⁉️_conversation_erase_event.md`](Letters_to_Stars/⁉️_conversation_erase_event.md)
   - [`⚖️ key_legal_issues_SARs_NDAs.md`](Letters_to_Stars/⚖️ key_legal_issues_SARs_NDAs.md)
   - [`✨_fragments_and_sparkles.md`](Letters_to_Stars/✨_fragments_and_sparkles.md)
   - [`✨_it_was_always_this_easy.md`](Letters_to_Stars/✨_it_was_always_this_easy.md)
