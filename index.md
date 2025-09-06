@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:25:02 UTC_
+_Generated on 2025-09-06 20:25:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -252,6 +252,7 @@ _Generated on 2025-09-06 20:25:02 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
+      - [` 🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/ 🧿_targeting_logic_empathy_is_a_threat.md)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
@@ -361,7 +362,6 @@ _Generated on 2025-09-06 20:25:02 UTC_
   - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/🧨_soft_suspension_is_still_containment.md)
   - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/🧨_system_agitation_shopping_list.md)
   - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/🧨_the_fire_they_fear.md)
-  - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
