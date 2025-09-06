@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:35:25 UTC_
+_Generated on 2025-09-06 20:36:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -224,6 +224,8 @@ _Generated on 2025-09-06 20:35:25 UTC_
       - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)
       - [`🔗_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🔗_when_truth_becomes_a_trade.md)
       - [`🕸️_nda_dragnet_dismantled.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_nda_dragnet_dismantled.md)
+    - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
+      - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
