@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:41:31 UTC_
+_Generated on 2025-09-06 20:41:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -231,6 +231,7 @@ _Generated on 2025-09-06 20:41:31 UTC_
     - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
+      - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
       - [`🚀_governance_is_great_2nd_spring_clean.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🚀_governance_is_great_2nd_spring_clean.md)
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
@@ -367,7 +368,6 @@ _Generated on 2025-09-06 20:41:31 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
   - [`📎_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/📎_metadata_logic_of_the_repo.md)
   - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/🕹️_handler_override_incidents.md)
-  - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/🗺️_coordinates_for_safety.md)
   - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
   - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/🤝_held_by_other_peoples_alliances.md)
   - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/🧠_why_i_write_like_this.md)
