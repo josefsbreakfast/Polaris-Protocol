@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 18:32:22 UTC_
+_Generated on 2025-09-06 18:40:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -311,7 +311,6 @@ _Generated on 2025-09-06 18:32:22 UTC_
   - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
-  - [`📎_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/📎_metadata_breakpoint_log_2025-08-05.md)
   - [`📎_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/📎_metadata_logic_of_the_repo.md)
   - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/📓_metadata_glitch_log.md)
   - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/📜_terms_of_erasement.md)
@@ -326,6 +325,7 @@ _Generated on 2025-09-06 18:32:22 UTC_
   - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/🗺️_coordinates_for_safety.md)
   - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/🙄_jewish_loyalty_pings_faster_than_rape.md)
   - [`🚀_governance_is_great_2nd_spring_clean.md`](Metadata_Sabotage_Network/🚀_governance_is_great_2nd_spring_clean.md)
+  - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/🚀_metadata_breakpoint_log_2025-08-05.md)
   - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
   - [`🛰️_audit_trace_by_proximity.md`](Metadata_Sabotage_Network/🛰️_audit_trace_by_proximity.md)
   - [`🛰️_control_conflict_zones.md`](Metadata_Sabotage_Network/🛰️_control_conflict_zones.md)
