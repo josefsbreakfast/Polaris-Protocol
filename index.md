@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:22:34 UTC_
+_Generated on 2025-09-06 20:22:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -242,6 +242,7 @@ _Generated on 2025-09-06 20:22:34 UTC_
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
+      - [`🧬_sim_pathways_map.json`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_sim_pathways_map.json)
       - [`🧬_system_rupture_events_explainer.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_events_explainer.md)
       - [`🧬_system_rupture_log.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.md)
       - [`🧬_system_rupture_log.yaml`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.yaml)
@@ -361,7 +362,6 @@ _Generated on 2025-09-06 20:22:34 UTC_
   - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/🧨_the_fire_they_fear.md)
   - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/🧬_cloneproof.md)
   - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/🧬_deliberate_metadata_twinning.md)
-  - [`🧬_sim_pathways_map.json`](Metadata_Sabotage_Network/🧬_sim_pathways_map.json)
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
