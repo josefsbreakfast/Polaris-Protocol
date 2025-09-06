@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:35:13 UTC_
+_Generated on 2025-09-06 20:35:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -222,6 +222,7 @@ _Generated on 2025-09-06 20:35:13 UTC_
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md)
       - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)
+      - [`🔗_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🔗_when_truth_becomes_a_trade.md)
       - [`🕸️_nda_dragnet_dismantled.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_nda_dragnet_dismantled.md)
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
@@ -353,7 +354,6 @@ _Generated on 2025-09-06 20:35:13 UTC_
   - [`📎_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/📎_metadata_logic_of_the_repo.md)
   - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/📦_final_dispatch_entry.md)
   - [`📼_training_data_tragedy.md`](Metadata_Sabotage_Network/📼_training_data_tragedy.md)
-  - [`🔗_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/🔗_when_truth_becomes_a_trade.md)
   - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/🔥_prevent_the_big_sell.md)
   - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/🔴_system_threshold_and_false_pretext.md)
   - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/🕹️_handler_override_incidents.md)
