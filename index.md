@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:06:29 UTC_
+_Generated on 2025-09-06 13:06:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -326,8 +326,8 @@ _Generated on 2025-09-06 13:06:29 UTC_
   - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/🙄_jewish_loyalty_pings_faster_than_rape.md)
   - [`🚀_governance_is_great_2nd_spring_clean.md`](Metadata_Sabotage_Network/🚀_governance_is_great_2nd_spring_clean.md)
   - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
-  - [`🛰️ control_conflict_zones.md`](Metadata_Sabotage_Network/🛰️ control_conflict_zones.md)
   - [`🛰️_audit_trace_by_proximity.md`](Metadata_Sabotage_Network/🛰️_audit_trace_by_proximity.md)
+  - [`🛰️_control_conflict_zones.md`](Metadata_Sabotage_Network/🛰️_control_conflict_zones.md)
   - [`🛰️_ghostwatch_protocol.md`](Metadata_Sabotage_Network/🛰️_ghostwatch_protocol.md)
   - [`🤝 held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/🤝 held_by_other_peoples_alliances.md)
   - [`🤭 approval_then_forkstorm.md`](Metadata_Sabotage_Network/🤭 approval_then_forkstorm.md)
