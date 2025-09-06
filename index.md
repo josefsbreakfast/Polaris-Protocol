@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 12:56:16 UTC_
+_Generated on 2025-09-06 12:57:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -83,7 +83,7 @@ _Generated on 2025-09-06 12:56:16 UTC_
       - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
-      - [`🎭_hypocrisy profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🎭_hypocrisy profile_uk_blair_cabinet.md)
+      - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
       - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
       - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
       - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
