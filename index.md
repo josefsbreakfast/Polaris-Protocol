@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 10:42:01 UTC_
+_Generated on 2025-09-06 12:46:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -428,6 +428,7 @@ _Generated on 2025-09-06 10:42:01 UTC_
     - [`⚖️_fixivist_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_fixivist_chain_of_command.md)
     - [`⚖️_industrialised_spoofing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_industrialised_spoofing.md)
     - [`⚖️_institution_conflict_origin_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institution_conflict_origin_2022.md)
+    - [`⚖️_metadata_twinning_effect.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_twinning_effect.md)
     - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
     - [`⚖️_phantom_claim_double_blade.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_double_blade.md)
     - [`⚖️_phantom_claim_ripa_escalation.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_ripa_escalation.md)
@@ -520,7 +521,6 @@ _Generated on 2025-09-06 10:42:01 UTC_
     - [`📅_week_ahead_2025-09-05.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_2025-09-05.md)
     - [`📅_week_ahead_YYYY-MM-DD.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_YYYY-MM-DD.md)
   - [`README.md`](Polaris_Nest/README.md)
-  - [`⚖️_metadata_twinning_effect.md`](Polaris_Nest/⚖️_metadata_twinning_effect.md)
 - [**Resources/**](Resources/)
   - [`README.md`](Resources/README.md)
   - [`⚖️_legal_templates_and_guides.md`](Resources/⚖️_legal_templates_and_guides.md)
