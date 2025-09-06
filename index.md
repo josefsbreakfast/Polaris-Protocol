@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:48:01 UTC_
+_Generated on 2025-09-06 20:49:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -287,6 +287,7 @@ _Generated on 2025-09-06 20:48:01 UTC_
       - [`📉_force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_force_closed_comments_2025-08-04.md)
       - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_suppression_interruption_log_2025-08-04.md)
       - [`🔌_comment_loop_interference.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🔌_comment_loop_interference.md)
+      - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🕹️_handler_override_incidents.md)
     - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md)
       - [`📉_narrative_instability_index.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📉_narrative_instability_index.md)
@@ -363,7 +364,6 @@ _Generated on 2025-09-06 20:48:01 UTC_
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
-  - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/🕹️_handler_override_incidents.md)
   - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
