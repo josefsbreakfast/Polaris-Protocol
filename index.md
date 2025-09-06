@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:06:36 UTC_
+_Generated on 2025-09-06 20:06:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -243,8 +243,8 @@ _Generated on 2025-09-06 20:06:36 UTC_
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)
-      - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_commit_window_collapse_loop.md)
       - [`📉_force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_force_closed_comments_2025-08-04.md)
+      - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_suppression_interruption_log_2025-08-04.md)
       - [`🔌_comment_loop_interference.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🔌_comment_loop_interference.md)
     - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md)
