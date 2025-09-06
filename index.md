@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:25:36 UTC_
+_Generated on 2025-09-06 20:34:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -218,6 +218,9 @@ _Generated on 2025-09-06 20:25:36 UTC_
   - [`🧿_visibility_log_polaris_day_1.md`](Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
+  - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
+    - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
+      - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md)
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
