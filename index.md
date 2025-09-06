@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:29:59 UTC_
+_Generated on 2025-09-06 19:30:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,7 +219,6 @@ _Generated on 2025-09-06 19:29:59 UTC_
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
-    - [`IMG_5412.png`](Metadata_Sabotage_Network/Constellations/IMG_5412.png)
     - [`IMG_5414.png`](Metadata_Sabotage_Network/Constellations/IMG_5414.png)
     - [`IMG_5415.png`](Metadata_Sabotage_Network/Constellations/IMG_5415.png)
     - [`IMG_5416.png`](Metadata_Sabotage_Network/Constellations/IMG_5416.png)
@@ -275,6 +274,7 @@ _Generated on 2025-09-06 19:29:59 UTC_
       - [`🪅_li_contractor_very_bothered_about_daddy_gov_callout_idk_kinda_telling.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_contractor_very_bothered_about_daddy_gov_callout_idk_kinda_telling.png)
       - [`🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png)
       - [`🪅_li_daddy_gov_dropped_the_fork.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_daddy_gov_dropped_the_fork.png)
+      - [`🪅_li_daddy_gov_giving_creator_contractor_coronaries.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_daddy_gov_giving_creator_contractor_coronaries.png)
       - [`🪅_li_demographics_throttle_party.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_demographics_throttle_party.png)
       - [`🪅_li_even_more_fiance_jobs.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_even_more_fiance_jobs.png)
       - [`🪅_li_many_flavour_watch_party.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_many_flavour_watch_party.png)
