@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:40:16 UTC_
+_Generated on 2025-09-06 19:40:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -227,8 +227,6 @@ _Generated on 2025-09-06 19:40:16 UTC_
     - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_Interference/🎪_moles_in_the_circus.md)
     - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
     - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_Interference/🧿_grandma_classification_theory.md)
-  - [**Platform_Sabotage/**](Metadata_Sabotage_Network/Platform_Sabotage/)
-    - [`👻_the_ghosts_are_learning.md`](Metadata_Sabotage_Network/Platform_Sabotage/👻_the_ghosts_are_learning.md)
   - [**Psychological_Containment/**](Metadata_Sabotage_Network/Psychological_Containment/)
     - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
     - [`👁️‍🗨️_embedded_observers.md`](Metadata_Sabotage_Network/Psychological_Containment/👁️‍🗨️_embedded_observers.md)
@@ -239,6 +237,7 @@ _Generated on 2025-09-06 19:40:16 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md)
     - [**🪅_Platform_Sabotage/**](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/README.md)
+      - [`👻_the_ghosts_are_learning.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/👻_the_ghosts_are_learning.md)
   - [**System_Leakage_Signatures/**](Metadata_Sabotage_Network/System_Leakage_Signatures/)
     - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
   - [**Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/)
