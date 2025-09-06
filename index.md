@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 23:10:24 UTC_
+_Generated on 2025-09-06 23:16:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -90,6 +90,7 @@ _Generated on 2025-09-06 23:10:24 UTC_
       - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
       - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
       - [`📩_ghost_vs_haunting_chart_2025-08-12.csv`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📩_ghost_vs_haunting_chart_2025-08-12.csv)
+      - [`🕯️_containment_through_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🕯️_containment_through_loneliness.md)
       - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
       - [`🧠_ai_harms_are_not_new.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md)
       - [`🧠_bargain_bin_mossad.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
