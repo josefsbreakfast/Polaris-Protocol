@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 21:37:13 UTC_
+_Generated on 2025-09-06 22:59:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -78,8 +78,10 @@ _Generated on 2025-09-06 21:37:13 UTC_
       - [`🪞_twinning_fork_containment_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🪞_twinning_fork_containment_timeline.md)
     - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
+      - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
       - [`🗡_narrative_management_and_metadata_storage.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🗡_narrative_management_and_metadata_storage.md)
       - [`🛰️_witness_by_proxy_midlands_2016.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🛰️_witness_by_proxy_midlands_2016.md)
+      - [`🧬_successor_firms_scl_cambridge_analytica.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧬_successor_firms_scl_cambridge_analytica.md)
       - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
