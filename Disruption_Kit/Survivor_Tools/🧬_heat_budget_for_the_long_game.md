@@ -82,7 +82,7 @@ It applies when:
 ## 📡 Cross-Linking  
 
 - **Narrative Frame:** [🐍 Snake Bites and Stolen Voices](https://github.com/josefsbreakfast/Polaris-Protocol/blob/445b8b18d4984882e67ee3c3b64b6d2b716db9d7/Disruption_Kit/Big_Picture_Protocols/%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5_Trauma_Psycology_Medical_Misuse/%F0%9F%90%8D_snake_bites_and_stolen_voices.md) — reframing the “risk” back onto the original theft.  
-- **Governance Reference:** [📑 Purge Sequence Log (2025-08-11–13)](../Field_Logs/📑_purge_sequence_aug_11-13.md) — documenting escalation patterns that necessitate long-game sustainment.  
+- **Governance Reference:** [📑 Purge Sequence Log (2025-08-11–13)](https://github.com/josefsbreakfast/Polaris-Protocol/blob/95a8e454c2d096abf3785d9ffc0868e1f3f44448/Disruption_Kit/Field_Logs/%F0%9F%9B%B0%EF%B8%8F_purge_sequence_2025-08-11_to_2025-08-13.md) — documenting escalation patterns that necessitate long-game sustainment.  
 
 ---
 
