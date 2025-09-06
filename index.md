@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:15:58 UTC_
+_Generated on 2025-09-06 20:16:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -230,6 +230,7 @@ _Generated on 2025-09-06 20:15:58 UTC_
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
+      - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
   - [**Psychological_Containment/**](Metadata_Sabotage_Network/Psychological_Containment/)
     - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
@@ -351,7 +352,6 @@ _Generated on 2025-09-06 20:15:58 UTC_
   - [`🚀_governance_is_great_2nd_spring_clean.md`](Metadata_Sabotage_Network/🚀_governance_is_great_2nd_spring_clean.md)
   - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
   - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/🤝_held_by_other_peoples_alliances.md)
-  - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/🤭_approval_then_forkstorm.md)
   - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/🥸_bookshops_vs_behavioral_risks.md)
   - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/🧠_why_i_write_like_this.md)
   - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/🧨_soft_suspension_is_still_containment.md)
