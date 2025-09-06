@@ -22,7 +22,7 @@ To sustain operational effectiveness through prolonged engagement without physic
 
 ## 🌐 Context  
 
-This node provides the tactical sustainment framework paired with [🐍 Snake Bites and Stolen Voices](../Disruption_Kit/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md).  
+This node provides the tactical sustainment framework paired with [🐍 Snake Bites and Stolen Voices](https://github.com/josefsbreakfast/Polaris-Protocol/blob/445b8b18d4984882e67ee3c3b64b6d2b716db9d7/Disruption_Kit/Big_Picture_Protocols/%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5_Trauma_Psycology_Medical_Misuse/%F0%9F%90%8D_snake_bites_and_stolen_voices.md).  
 It applies when:  
 - The target environment is high-pressure and high-value.  
 - The operator (survivor) needs to maintain clarity and agency under conditions of suppression, observation, or baiting.  
@@ -81,7 +81,7 @@ It applies when:
 
 ## 📡 Cross-Linking  
 
-- **Narrative Frame:** [🐍 Snake Bites and Stolen Voices](../Big_Picture_Protocols/🐍_snake_bites_and_stolen_voices.md) — reframing the “risk” back onto the original theft.  
+- **Narrative Frame:** [🐍 Snake Bites and Stolen Voices](https://github.com/josefsbreakfast/Polaris-Protocol/blob/445b8b18d4984882e67ee3c3b64b6d2b716db9d7/Disruption_Kit/Big_Picture_Protocols/%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5_Trauma_Psycology_Medical_Misuse/%F0%9F%90%8D_snake_bites_and_stolen_voices.md) — reframing the “risk” back onto the original theft.  
 - **Governance Reference:** [📑 Purge Sequence Log (2025-08-11–13)](../Field_Logs/📑_purge_sequence_aug_11-13.md) — documenting escalation patterns that necessitate long-game sustainment.  
 
 ---
