@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:36:33 UTC_
+_Generated on 2025-09-06 20:36:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -227,6 +227,7 @@ _Generated on 2025-09-06 20:36:33 UTC_
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
+      - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_soft_suspension_is_still_containment.md)
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
@@ -364,7 +365,6 @@ _Generated on 2025-09-06 20:36:33 UTC_
   - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
   - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/🤝_held_by_other_peoples_alliances.md)
   - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/🧠_why_i_write_like_this.md)
-  - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/🧨_soft_suspension_is_still_containment.md)
   - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/🧨_system_agitation_shopping_list.md)
   - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/🧨_the_fire_they_fear.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
