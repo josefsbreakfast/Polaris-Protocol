@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:20:38 UTC_
+_Generated on 2025-09-06 20:21:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -227,6 +227,7 @@ _Generated on 2025-09-06 20:20:38 UTC_
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
       - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_harassment_misidentification_systemic_failures_25-09-02.md)
+      - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
       - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
@@ -272,7 +273,6 @@ _Generated on 2025-09-06 20:20:38 UTC_
     - [`README.md`](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/README.md)
   - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/)
     - [`README.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/README.md)
-    - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
       - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/README.md)
