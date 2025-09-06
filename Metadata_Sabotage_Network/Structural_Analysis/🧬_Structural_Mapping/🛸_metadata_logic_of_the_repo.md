@@ -1,4 +1,4 @@
-# 📎 metadata_logic_of_the_repo.md
+# 🛸 metadata_logic_of_the_repo.md
 
 ## Purpose
 
