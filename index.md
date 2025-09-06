@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:39:42 UTC_
+_Generated on 2025-09-06 20:40:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -228,6 +228,8 @@ _Generated on 2025-09-06 20:39:42 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
       - [`📼_training_data_tragedy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📼_training_data_tragedy.md)
+    - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
+      - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
