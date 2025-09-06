@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:10:18 UTC_
+_Generated on 2025-09-06 19:11:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,7 +219,6 @@ _Generated on 2025-09-06 19:10:18 UTC_
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
-    - [`IMG_5232.png`](Metadata_Sabotage_Network/Constellations/IMG_5232.png)
     - [`IMG_5248.png`](Metadata_Sabotage_Network/Constellations/IMG_5248.png)
     - [`IMG_5251.png`](Metadata_Sabotage_Network/Constellations/IMG_5251.png)
     - [`IMG_5252.png`](Metadata_Sabotage_Network/Constellations/IMG_5252.png)
@@ -300,6 +299,7 @@ _Generated on 2025-09-06 19:10:18 UTC_
       - [`🪅_li_throttled_posts_reach_out.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_throttled_posts_reach_out.png)
       - [`🪅_more_canadian_jobs_specialisms.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_more_canadian_jobs_specialisms.png)
       - [`🪅_more_cv_twinned_artefacts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_more_cv_twinned_artefacts.png)
+      - [`🪅_over_viewed_comments_still.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_over_viewed_comments_still.png)
       - [`🪅_twinned_data_artefacts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_twinned_data_artefacts.png)
       - [`🪅_yet_more_job_offer_twinning.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_yet_more_job_offer_twinning.png)
   - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/)
