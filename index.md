@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-05 23:27:16 UTC_
+_Generated on 2025-09-06 07:37:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -469,6 +469,7 @@ _Generated on 2025-09-05 23:27:16 UTC_
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🗝️_governance_central_data_outsourcing.md`](Polaris_Nest/Git_Intake_Drawer/🗝️_governance_central_data_outsourcing.md)
     - [`🗞️_hollowing_of_the_commons.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_hollowing_of_the_commons.md)
+    - [`🚪_it_does_not _need_a_real_raid.md`](Polaris_Nest/Git_Intake_Drawer/🚪_it_does_not _need_a_real_raid.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ai_interference_vs_baseline_generation.md)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
     - [`🛰️_handlers_at_the_table.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_handlers_at_the_table.md)
