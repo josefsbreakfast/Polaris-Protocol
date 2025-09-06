@@ -137,7 +137,11 @@ This is exactly what Polaris casefiles describe as **“genocide by containment�
 - “My rape case was re-coded as national security, stripping survivor protections.”  
 - **Expose absurdity:** “Foreign state could access my trauma file faster than I could.”  
 - **Human Rights leverage:** Mis-tag = degrading treatment under Article 3 ECHR.  
-- **Demand correction:** Push not only for access, but for **reclassification under civil law.**  
+- **Demand correction:** Push not only for access, but for **reclassification under civil law.**
+
+<!-- The exhaustion based interference to fatigue this publish was higher than the current background noise interference. Unable to hit commit; reload, restore, etc. 
+
+Guilty conscience? -->
 
 ---
 
