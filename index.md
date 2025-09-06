@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:06:40 UTC_
+_Generated on 2025-09-06 13:06:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -329,7 +329,7 @@ _Generated on 2025-09-06 13:06:40 UTC_
   - [`🛰️_audit_trace_by_proximity.md`](Metadata_Sabotage_Network/🛰️_audit_trace_by_proximity.md)
   - [`🛰️_control_conflict_zones.md`](Metadata_Sabotage_Network/🛰️_control_conflict_zones.md)
   - [`🛰️_ghostwatch_protocol.md`](Metadata_Sabotage_Network/🛰️_ghostwatch_protocol.md)
-  - [`🤝 held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/🤝 held_by_other_peoples_alliances.md)
+  - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/🤝_held_by_other_peoples_alliances.md)
   - [`🤭 approval_then_forkstorm.md`](Metadata_Sabotage_Network/🤭 approval_then_forkstorm.md)
   - [`🥸 bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/🥸 bookshops_vs_behavioral_risks.md)
   - [`🧠 why_i_write_like_this.md`](Metadata_Sabotage_Network/🧠 why_i_write_like_this.md)
