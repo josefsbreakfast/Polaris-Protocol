@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:34:41 UTC_
+_Generated on 2025-09-06 19:35:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -218,8 +218,6 @@ _Generated on 2025-09-06 19:34:41 UTC_
   - [`🧿_visibility_log_polaris_day_1.md`](Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
-  - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
-    - [`🌈_image_log.md`](Metadata_Sabotage_Network/Constellations/🌈_image_log.md)
   - [**Evidence_And_Anomalies/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/✨_Constellations/)
       - [`README.md`](Metadata_Sabotage_Network/Evidence_And_Anomalies/✨_Constellations/README.md)
@@ -251,6 +249,7 @@ _Generated on 2025-09-06 19:34:41 UTC_
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
       - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/README.md)
       - [`🀄_play_foia_moj_edition.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🀄_play_foia_moj_edition.png)
+      - [`🌈_image_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🌈_image_log.md)
       - [`🎁_DNS_error_Press_Contact_2025-08-31_175850.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🎁_DNS_error_Press_Contact_2025-08-31_175850.png)
       - [`🎁_DNS_error_unable_speak_mp.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🎁_DNS_error_unable_speak_mp.png)
       - [`🎣_ai_app_failure_interference.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🎣_ai_app_failure_interference.png)
