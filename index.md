@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:43:23 UTC_
+_Generated on 2025-09-06 20:45:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -302,8 +302,6 @@ _Generated on 2025-09-06 20:43:23 UTC_
       - [`👻_the_ghosts_are_learning.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/👻_the_ghosts_are_learning.md)
   - [**Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/)
     - [`README.md`](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/README.md)
-  - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/)
-    - [`README.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/README.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
       - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/README.md)
@@ -365,8 +363,6 @@ _Generated on 2025-09-06 20:43:23 UTC_
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
-  - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/)
-    - [`README.md`](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/README.md)
   - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
