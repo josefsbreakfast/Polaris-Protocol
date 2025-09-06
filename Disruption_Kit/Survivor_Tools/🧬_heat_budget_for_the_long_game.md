@@ -22,7 +22,7 @@ To sustain operational effectiveness through prolonged engagement without physic
 
 ## 🌐 Context  
 
-This node provides the tactical sustainment framework paired with [🐍 Snake Bites and Stolen Voices](../Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.mdmd).  
+This node provides the tactical sustainment framework paired with [🐍 Snake Bites and Stolen Voices](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.mdmd).  
 It applies when:  
 - The target environment is high-pressure and high-value.  
 - The operator (survivor) needs to maintain clarity and agency under conditions of suppression, observation, or baiting.  
