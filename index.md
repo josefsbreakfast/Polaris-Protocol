@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:26:41 UTC_
+_Generated on 2025-09-06 19:27:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,7 +219,6 @@ _Generated on 2025-09-06 19:26:41 UTC_
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
-    - [`IMG_5363.png`](Metadata_Sabotage_Network/Constellations/IMG_5363.png)
     - [`IMG_5364.png`](Metadata_Sabotage_Network/Constellations/IMG_5364.png)
     - [`IMG_5407.png`](Metadata_Sabotage_Network/Constellations/IMG_5407.png)
     - [`IMG_5408.png`](Metadata_Sabotage_Network/Constellations/IMG_5408.png)
