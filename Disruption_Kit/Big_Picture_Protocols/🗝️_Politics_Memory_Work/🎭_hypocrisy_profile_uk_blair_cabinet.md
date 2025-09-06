@@ -1,6 +1,6 @@
 # 🎭 Hypocrisy Profile — Blair-era Cabinet (2005–2010)
 
-**First created:** 2025-08-29 | **Last updated:** 2025-08-30 <br>
+**First created:** 2025-08-29 | **Last updated:** 2025-09-06 <br>
 
 ## 📣 What they demanded of others
 
@@ -32,4 +32,4 @@
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-09-06_  
