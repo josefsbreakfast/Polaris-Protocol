@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:18:36 UTC_
+_Generated on 2025-09-06 20:19:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -221,6 +221,7 @@ _Generated on 2025-09-06 20:18:36 UTC_
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
+      - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
@@ -266,7 +267,6 @@ _Generated on 2025-09-06 20:18:36 UTC_
     - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
   - [**Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/)
     - [`README.md`](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/README.md)
-    - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
   - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/)
     - [`README.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/README.md)
     - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/👾_harassment_misidentification_systemic_failures_25-09-02.md)
