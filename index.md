@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:07:25 UTC_
+_Generated on 2025-09-06 13:07:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -333,9 +333,9 @@ _Generated on 2025-09-06 13:07:25 UTC_
   - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/🤭_approval_then_forkstorm.md)
   - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/🥸_bookshops_vs_behavioral_risks.md)
   - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/🧠_why_i_write_like_this.md)
-  - [`🧨 soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/🧨 soft_suspension_is_still_containment.md)
   - [`🧨 system_agitation_shopping_list.md`](Metadata_Sabotage_Network/🧨 system_agitation_shopping_list.md)
   - [`🧨 the_fire_they_fear.md`](Metadata_Sabotage_Network/🧨 the_fire_they_fear.md)
+  - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/🧨_soft_suspension_is_still_containment.md)
   - [`🧬 cloneproof.md`](Metadata_Sabotage_Network/🧬 cloneproof.md)
   - [`🧬 sim_pathways_map.json`](Metadata_Sabotage_Network/🧬 sim_pathways_map.json)
   - [`🧬 system_rupture_events_explainer.md`](Metadata_Sabotage_Network/🧬 system_rupture_events_explainer.md)
