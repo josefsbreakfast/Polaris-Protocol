@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:43:02 UTC_
+_Generated on 2025-09-06 19:43:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,8 +219,6 @@ _Generated on 2025-09-06 19:43:02 UTC_
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Evidence_And_Anomalies/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/)
-    - [**✨_Constellations/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/✨_Constellations/)
-      - [`README.md`](Metadata_Sabotage_Network/Evidence_And_Anomalies/✨_Constellations/README.md)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/README.md)
   - [**Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_Interference/)
