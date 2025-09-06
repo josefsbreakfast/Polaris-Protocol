@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:48:19 UTC_
+_Generated on 2025-09-06 19:48:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -222,8 +222,8 @@ _Generated on 2025-09-06 19:48:19 UTC_
     - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
+      - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
   - [**Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_Interference/)
-    - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
     - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_Interference/🧿_grandma_classification_theory.md)
   - [**Psychological_Containment/**](Metadata_Sabotage_Network/Psychological_Containment/)
     - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
