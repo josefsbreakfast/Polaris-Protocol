@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 21:24:38 UTC_
+_Generated on 2025-09-06 21:31:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -469,7 +469,6 @@ _Generated on 2025-09-06 21:24:38 UTC_
     - [`⚖️_institution_conflict_origin_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institution_conflict_origin_2022.md)
     - [`⚖️_inversion_and_laundering_as_state_technique.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_inversion_and_laundering_as_state_technique.md)
     - [`⚖️_matriarchy_as_requirement.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_matriarchy_as_requirement.md)
-    - [`⚖️_metadata_twinning_effect.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_twinning_effect.md)
     - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
     - [`⚖️_phantom_claim_double_blade.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_double_blade.md)
     - [`⚖️_phantom_claim_ripa_escalation.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_ripa_escalation.md)
