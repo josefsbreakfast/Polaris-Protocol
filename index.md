@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:14:38 UTC_
+_Generated on 2025-09-06 20:15:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -229,6 +229,7 @@ _Generated on 2025-09-06 20:14:38 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
+      - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
   - [**Psychological_Containment/**](Metadata_Sabotage_Network/Psychological_Containment/)
     - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
@@ -345,7 +346,6 @@ _Generated on 2025-09-06 20:14:38 UTC_
   - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/🔴_system_threshold_and_false_pretext.md)
   - [`🕸️_nda_dragnet_dismantled.md`](Metadata_Sabotage_Network/🕸️_nda_dragnet_dismantled.md)
   - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/🕹️_handler_override_incidents.md)
-  - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/🗣️_voice_laundering.md)
   - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/🗺️_coordinates_for_safety.md)
   - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/🙄_jewish_loyalty_pings_faster_than_rape.md)
   - [`🚀_governance_is_great_2nd_spring_clean.md`](Metadata_Sabotage_Network/🚀_governance_is_great_2nd_spring_clean.md)
