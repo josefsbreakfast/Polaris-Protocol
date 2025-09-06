@@ -22,7 +22,7 @@ To sustain operational effectiveness through prolonged engagement without physic
 
 ## 🌐 Context  
 
-This node provides the tactical sustainment framework paired with [🐍 Snake Bites and Stolen Voices](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.mdmd).  
+This node provides the tactical sustainment framework paired with [🐍 Snake Bites and Stolen Voices](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md).  
 It applies when:  
 - The target environment is high-pressure and high-value.  
 - The operator (survivor) needs to maintain clarity and agency under conditions of suppression, observation, or baiting.  
@@ -97,4 +97,4 @@ It sets out a framework for survivors to sustain energy, clarity, and operationa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_  
+_Last updated: 2025-09-05_  
