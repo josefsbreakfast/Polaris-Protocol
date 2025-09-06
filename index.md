@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:13:35 UTC_
+_Generated on 2025-09-06 19:14:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,7 +219,6 @@ _Generated on 2025-09-06 19:13:35 UTC_
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
-    - [`IMG_5253.png`](Metadata_Sabotage_Network/Constellations/IMG_5253.png)
     - [`IMG_5254.png`](Metadata_Sabotage_Network/Constellations/IMG_5254.png)
     - [`IMG_5255.png`](Metadata_Sabotage_Network/Constellations/IMG_5255.png)
     - [`IMG_5256.png`](Metadata_Sabotage_Network/Constellations/IMG_5256.png)
@@ -297,6 +296,7 @@ _Generated on 2025-09-06 19:13:35 UTC_
       - [`🪅_li_throttled_posts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_throttled_posts.png)
       - [`🪅_li_throttled_posts_reach_out.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_throttled_posts_reach_out.png)
       - [`🪅_li_when_london_is_too_interested.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_when_london_is_too_interested.png)
+      - [`🪅_li_yet_more_canada_postings.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_yet_more_canada_postings.png)
       - [`🪅_more_canadian_jobs_specialisms.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_more_canadian_jobs_specialisms.png)
       - [`🪅_more_cv_twinned_artefacts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_more_cv_twinned_artefacts.png)
       - [`🪅_over_viewed_comments_still.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_over_viewed_comments_still.png)
