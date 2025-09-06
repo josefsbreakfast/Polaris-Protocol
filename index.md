@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:52:13 UTC_
+_Generated on 2025-09-06 19:52:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -233,6 +233,9 @@ _Generated on 2025-09-06 19:52:13 UTC_
   - [**Psychological_Containment/**](Metadata_Sabotage_Network/Psychological_Containment/)
     - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
     - [`👁️‍🗨️_embedded_observers.md`](Metadata_Sabotage_Network/Psychological_Containment/👁️‍🗨️_embedded_observers.md)
+  - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
+    - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
+      - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)
@@ -325,8 +328,6 @@ _Generated on 2025-09-06 19:52:13 UTC_
   - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/)
     - [`README.md`](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/README.md)
     - [`📍_field_signal_tests.md`](Metadata_Sabotage_Network/🛰️_Proximity_Control_Logs/📍_field_signal_tests.md)
-  - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/🧬_Structural_Mapping/)
-    - [`README.md`](Metadata_Sabotage_Network/🧬_Structural_Mapping/README.md)
   - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
