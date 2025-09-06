@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:11:46 UTC_
+_Generated on 2025-09-06 20:13:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -254,6 +254,7 @@ _Generated on 2025-09-06 20:11:46 UTC_
       - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
     - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/README.md)
+      - [`🛰️_ghostwatch_protocol.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_ghostwatch_protocol.md)
     - [**🪅_Platform_Sabotage/**](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/README.md)
       - [`👻_the_ghosts_are_learning.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/👻_the_ghosts_are_learning.md)
@@ -349,7 +350,6 @@ _Generated on 2025-09-06 20:11:46 UTC_
   - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
   - [`🛰️_audit_trace_by_proximity.md`](Metadata_Sabotage_Network/🛰️_audit_trace_by_proximity.md)
   - [`🛰️_control_conflict_zones.md`](Metadata_Sabotage_Network/🛰️_control_conflict_zones.md)
-  - [`🛰️_ghostwatch_protocol.md`](Metadata_Sabotage_Network/🛰️_ghostwatch_protocol.md)
   - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/🤝_held_by_other_peoples_alliances.md)
   - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/🤭_approval_then_forkstorm.md)
   - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/🥸_bookshops_vs_behavioral_risks.md)
