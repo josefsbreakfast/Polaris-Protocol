@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:00:36 UTC_
+_Generated on 2025-09-06 13:01:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -279,7 +279,7 @@ _Generated on 2025-09-06 13:00:36 UTC_
   - [**Platform_Sabotage/**](Metadata_Sabotage_Network/Platform_Sabotage/)
     - [`👻_the_ghosts_are_learning.md`](Metadata_Sabotage_Network/Platform_Sabotage/👻_the_ghosts_are_learning.md)
   - [**Psychological_Containment/**](Metadata_Sabotage_Network/Psychological_Containment/)
-    - [`🌒 _waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Psychological_Containment/🌒 _waiting_is_not_a_rescue.md)
+    - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
     - [`👁️‍🗨️_embedded_observers.md`](Metadata_Sabotage_Network/Psychological_Containment/👁️‍🗨️_embedded_observers.md)
   - [**System_Leakage_Signatures/**](Metadata_Sabotage_Network/System_Leakage_Signatures/)
     - [`🧬 interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/System_Leakage_Signatures/🧬 interface_leakage_the_one_who_got_through.md)
