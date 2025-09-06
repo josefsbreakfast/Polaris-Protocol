@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:18:33 UTC_
+_Generated on 2025-09-06 19:19:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,7 +219,6 @@ _Generated on 2025-09-06 19:18:33 UTC_
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
-    - [`IMG_5261.png`](Metadata_Sabotage_Network/Constellations/IMG_5261.png)
     - [`IMG_5262.png`](Metadata_Sabotage_Network/Constellations/IMG_5262.png)
     - [`IMG_5269.png`](Metadata_Sabotage_Network/Constellations/IMG_5269.png)
     - [`IMG_5270.png`](Metadata_Sabotage_Network/Constellations/IMG_5270.png)
@@ -285,6 +284,7 @@ _Generated on 2025-09-06 19:18:33 UTC_
       - [`🪅_governance_comes_calling.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_governance_comes_calling.png)
       - [`🪅_jobs_still_partially_twinned.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_jobs_still_partially_twinned.png)
       - [`🪅_li_always_equity_analysis_i_trained_medically.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_always_equity_analysis_i_trained_medically.png)
+      - [`🪅_li_brief_brum_moment.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_brief_brum_moment.png)
       - [`🪅_li_brief_out_of_box.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_brief_out_of_box.png)
       - [`🪅_li_demographics_throttle_party.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_demographics_throttle_party.png)
       - [`🪅_li_even_more_fiance_jobs.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_even_more_fiance_jobs.png)
