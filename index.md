@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 21:31:59 UTC_
+_Generated on 2025-09-06 21:37:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -428,7 +428,6 @@ _Generated on 2025-09-06 21:31:59 UTC_
     - [`pressure_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/pressure_map_local_redacted.png)
     - [`probe_response_probability_mapping.png`](Polaris_Nest/Git_Intake_Drawer/probe_response_probability_mapping.png)
     - [`protocol_flow_new_insert_handling.png`](Polaris_Nest/Git_Intake_Drawer/protocol_flow_new_insert_handling.png)
-    - [`psychiatry_counter_notes.md`](Polaris_Nest/Git_Intake_Drawer/psychiatry_counter_notes.md)
     - [`removed_content_timeline_redacted.png`](Polaris_Nest/Git_Intake_Drawer/removed_content_timeline_redacted.png)
     - [`requiresedits_darvo_vs_prevent.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_darvo_vs_prevent.png)
     - [`requiresedits_defacto_uk_hsip.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_defacto_uk_hsip.png)
