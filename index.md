@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:04:29 UTC_
+_Generated on 2025-09-06 13:04:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -318,7 +318,7 @@ _Generated on 2025-09-06 13:04:29 UTC_
   - [`📼_training_data_tragedy.md`](Metadata_Sabotage_Network/📼_training_data_tragedy.md)
   - [`🔗_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/🔗_when_truth_becomes_a_trade.md)
   - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/🔥_prevent_the_big_sell.md)
-  - [`🔴 system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/🔴 system_threshold_and_false_pretext.md)
+  - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/🔴_system_threshold_and_false_pretext.md)
   - [`🕸️ nda_dragnet_dismantled.md`](Metadata_Sabotage_Network/🕸️ nda_dragnet_dismantled.md)
   - [`🕹️ handler_override_incidents.md`](Metadata_Sabotage_Network/🕹️ handler_override_incidents.md)
   - [`🗣️ voice_laundering.md`](Metadata_Sabotage_Network/🗣️ voice_laundering.md)
