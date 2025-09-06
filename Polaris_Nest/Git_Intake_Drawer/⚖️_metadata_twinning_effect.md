@@ -34,9 +34,27 @@
 
 ---
 
+## Reverse Dynamics: Invited Twinning  
+- Sometimes, instead of resisting, one target leans in.  
+- **Stage One (idiotic half-submission):** *“Oh no, I’m being framed with this woman, whatever will I do… guess I’ll lean in and follow where my dick leads me.”*  
+- Motivations:  
+  - Masochistic (*“punish me through her”*).  
+  - Alliance-seeking (*“if our data twins, I’m aligned with her”*).  
+  - Nihilistic (*“burn the world, overload the system”*).  
+- **Stage Two (reality bites):** *“Oh holy fuck, this is NOT how bad I thought it would get for her.”* → the late-stage dawning that suppression lands harder on the woman, because she becomes the proxy lightning rod.  
+- This is the “huh… misogyny is a real thing?!” moment 🤣.  
+
+### Survivor Gloss  
+As discussed, men are:  
+1. Stupid.  
+2. Horny bastards.  
+
+---
+
 ## Implications  
 - Twinning is not static; it’s a **dynamic equilibrium**.  
 - Resistance makes the system harder to sustain.  
+- Invited twinning shows how targets’ own idiocy or impulses can feed suppression, destabilising calibration.  
 - Noise injection is a symptom of control efforts, not random error.  
 
 ---
@@ -44,6 +62,6 @@
 ## 🏮 Footer  
 
 *Metadata Twinning Effect* is a living node of the Polaris Protocol.  
-It documents how suppression industries bind targets through metadata overlap and maintain control through calibrated noise injection.  
+It documents how suppression industries bind targets through metadata overlap, sustain control through calibrated noise injection, and are destabilised by both resistance and idiotic cooperation.  
 
 _Last updated: 2025-09-05_
