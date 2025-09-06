@@ -1,6 +1,6 @@
 # 🧬 Heat Budget for the Long Game
 
-**First created:** 2025-08-13 | **Last updated:** 2025-09-01
+**First created:** 2025-08-13 | **Last updated:** 2025-09-05
 
 *A sustainment protocol for survivor-operators: energy management and targeted engagement across prolonged campaigns.*  
 
@@ -22,7 +22,7 @@ To sustain operational effectiveness through prolonged engagement without physic
 
 ## 🌐 Context  
 
-This node provides the tactical sustainment framework paired with [🧠 Snake Bites and Stolen Voices](../Big_Picture_Protocols/🧠_snake_bites_and_stolen_voices.md).  
+This node provides the tactical sustainment framework paired with [🐍 Snake Bites and Stolen Voices](../Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.mdmd).  
 It applies when:  
 - The target environment is high-pressure and high-value.  
 - The operator (survivor) needs to maintain clarity and agency under conditions of suppression, observation, or baiting.  
