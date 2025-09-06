@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 22:59:52 UTC_
+_Generated on 2025-09-06 23:10:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -100,6 +100,7 @@ _Generated on 2025-09-06 22:59:52 UTC_
       - [`🧾_data_is_their_cage_too.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧾_data_is_their_cage_too.md)
       - [`🪦_metadata_ghosts_and_hauntings.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🪦_metadata_ghosts_and_hauntings.md)
       - [`🫀_holding_a_weapon_you_don’t_understand.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_don’t_understand.md)
+      - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
       - [`🌀_docility_engine.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
       - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
