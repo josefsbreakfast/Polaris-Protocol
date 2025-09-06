@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:04:36 UTC_
+_Generated on 2025-09-06 19:05:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,7 +219,6 @@ _Generated on 2025-09-06 19:04:36 UTC_
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Constellations/**](Metadata_Sabotage_Network/Constellations/)
-    - [`IMG_5194.png`](Metadata_Sabotage_Network/Constellations/IMG_5194.png)
     - [`IMG_5195.png`](Metadata_Sabotage_Network/Constellations/IMG_5195.png)
     - [`IMG_5225.png`](Metadata_Sabotage_Network/Constellations/IMG_5225.png)
     - [`IMG_5226.png`](Metadata_Sabotage_Network/Constellations/IMG_5226.png)
@@ -302,6 +301,7 @@ _Generated on 2025-09-06 19:04:36 UTC_
       - [`🎁_DNS_error_unable_speak_mp.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🎁_DNS_error_unable_speak_mp.png)
       - [`🎣_ai_app_failure_interference.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🎣_ai_app_failure_interference.png)
       - [`🧃_20240902_feed_tiktok_rape_undermining.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🧃_20240902_feed_tiktok_rape_undermining.png)
+      - [`🪅_li_throttled_posts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_throttled_posts.png)
   - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/README.md)
     - [`📉_narrative_instability_index.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/📉_narrative_instability_index.md)
