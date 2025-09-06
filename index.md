@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:58:40 UTC_
+_Generated on 2025-09-06 19:59:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -322,6 +322,7 @@ _Generated on 2025-09-06 19:58:40 UTC_
       - [`🪅_yet_more_job_offer_twinning.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_yet_more_job_offer_twinning.png)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/README.md)
+      - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
   - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/)
@@ -336,7 +337,6 @@ _Generated on 2025-09-06 19:58:40 UTC_
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
   - [`📎_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/📎_metadata_logic_of_the_repo.md)
-  - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/📓_metadata_glitch_log.md)
   - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/📜_terms_of_erasement.md)
   - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/📦_final_dispatch_entry.md)
   - [`📼_training_data_tragedy.md`](Metadata_Sabotage_Network/📼_training_data_tragedy.md)
