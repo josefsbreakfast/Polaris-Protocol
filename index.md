@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 18:59:51 UTC_
+_Generated on 2025-09-06 19:01:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -300,6 +300,7 @@ _Generated on 2025-09-06 18:59:51 UTC_
     - [`🔌_comment_loop_interference.md`](Metadata_Sabotage_Network/📉_Suppression_Interference_Logs/🔌_comment_loop_interference.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
+      - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/README.md)
       - [`🧃_20240902_feed_tiktok_rape_undermining.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🧃_20240902_feed_tiktok_rape_undermining.png)
   - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/README.md)
