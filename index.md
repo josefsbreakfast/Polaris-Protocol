@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:08:49 UTC_
+_Generated on 2025-09-06 13:09:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -336,9 +336,9 @@ _Generated on 2025-09-06 13:08:49 UTC_
   - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/🧨_soft_suspension_is_still_containment.md)
   - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/🧨_system_agitation_shopping_list.md)
   - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/🧨_the_fire_they_fear.md)
-  - [`🧬 sim_pathways_map.json`](Metadata_Sabotage_Network/🧬 sim_pathways_map.json)
   - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/🧬_cloneproof.md)
   - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/🧬_deliberate_metadata_twinning.md)
+  - [`🧬_sim_pathways_map.json`](Metadata_Sabotage_Network/🧬_sim_pathways_map.json)
   - [`🧬_system_rupture_events_explainer.md`](Metadata_Sabotage_Network/🧬_system_rupture_events_explainer.md)
   - [`🧬_system_rupture_log.md`](Metadata_Sabotage_Network/🧬_system_rupture_log.md)
   - [`🧬_system_rupture_log.yaml`](Metadata_Sabotage_Network/🧬_system_rupture_log.yaml)
