@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:23:26 UTC_
+_Generated on 2025-09-06 20:25:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -250,6 +250,7 @@ _Generated on 2025-09-06 20:23:26 UTC_
       - [`🧬_system_rupture_log.yaml`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.yaml)
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
+      - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
@@ -273,8 +274,6 @@ _Generated on 2025-09-06 20:23:26 UTC_
     - [**🪅_Platform_Sabotage/**](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/README.md)
       - [`👻_the_ghosts_are_learning.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/👻_the_ghosts_are_learning.md)
-  - [**System_Leakage_Signatures/**](Metadata_Sabotage_Network/System_Leakage_Signatures/)
-    - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
   - [**Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/)
     - [`README.md`](Metadata_Sabotage_Network/Voice_Disruption_Discrediting/README.md)
   - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/👹_Fork_Behaviour_Containment/)
