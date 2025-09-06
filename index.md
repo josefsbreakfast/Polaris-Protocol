@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 12:58:31 UTC_
+_Generated on 2025-09-06 12:58:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -202,7 +202,7 @@ _Generated on 2025-09-06 12:58:31 UTC_
 - [**Letters_to_Stars/**](Letters_to_Stars/)
   - [`polaris_live.md`](Letters_to_Stars/polaris_live.md)
   - [`⁉️_conversation_erase_event.md`](Letters_to_Stars/⁉️_conversation_erase_event.md)
-  - [`⚖️ key_legal_issues_SARs_NDAs.md`](Letters_to_Stars/⚖️ key_legal_issues_SARs_NDAs.md)
+  - [`⚖️_key_legal_issues_SARs_NDAs.md`](Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md)
   - [`✨_fragments_and_sparkles.md`](Letters_to_Stars/✨_fragments_and_sparkles.md)
   - [`✨_it_was_always_this_easy.md`](Letters_to_Stars/✨_it_was_always_this_easy.md)
   - [`✨_resonance_is_joy.md`](Letters_to_Stars/✨_resonance_is_joy.md)
