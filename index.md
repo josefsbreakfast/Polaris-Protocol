@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:13:47 UTC_
+_Generated on 2025-09-06 20:14:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -254,6 +254,7 @@ _Generated on 2025-09-06 20:13:47 UTC_
       - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
     - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/README.md)
+      - [`🛰️_audit_trace_by_proximity.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_audit_trace_by_proximity.md)
       - [`🛰️_control_conflict_zones.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_control_conflict_zones.md)
       - [`🛰️_ghostwatch_protocol.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_ghostwatch_protocol.md)
     - [**🪅_Platform_Sabotage/**](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/)
@@ -349,7 +350,6 @@ _Generated on 2025-09-06 20:13:47 UTC_
   - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/🙄_jewish_loyalty_pings_faster_than_rape.md)
   - [`🚀_governance_is_great_2nd_spring_clean.md`](Metadata_Sabotage_Network/🚀_governance_is_great_2nd_spring_clean.md)
   - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
-  - [`🛰️_audit_trace_by_proximity.md`](Metadata_Sabotage_Network/🛰️_audit_trace_by_proximity.md)
   - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/🤝_held_by_other_peoples_alliances.md)
   - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/🤭_approval_then_forkstorm.md)
   - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/🥸_bookshops_vs_behavioral_risks.md)
