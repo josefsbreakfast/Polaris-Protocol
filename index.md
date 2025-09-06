@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:10:12 UTC_
+_Generated on 2025-09-06 13:10:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -479,8 +479,8 @@ _Generated on 2025-09-06 13:10:12 UTC_
     - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](Polaris_Nest/Git_Intake_Drawer/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
     - [`🧨_procedural_wait_your_turn.md`](Polaris_Nest/Git_Intake_Drawer/🧨_procedural_wait_your_turn.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
-    - [`🧬_ amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ amplification_by_convergence.md)
     - [`🧬_ metadata_twinning_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ metadata_twinning_analysis.md)
+    - [`🧬_amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🧬_amplification_by_convergence.md)
     - [`🧬_deliberate_data_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_deliberate_data_twinning.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧬_untwinning_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_untwinning_data.md)
