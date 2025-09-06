@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:08:12 UTC_
+_Generated on 2025-09-06 13:08:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -339,9 +339,9 @@ _Generated on 2025-09-06 13:08:12 UTC_
   - [`🧬 sim_pathways_map.json`](Metadata_Sabotage_Network/🧬 sim_pathways_map.json)
   - [`🧬 system_rupture_events_explainer.md`](Metadata_Sabotage_Network/🧬 system_rupture_events_explainer.md)
   - [`🧬 system_rupture_log.md`](Metadata_Sabotage_Network/🧬 system_rupture_log.md)
-  - [`🧬 system_rupture_log.yaml`](Metadata_Sabotage_Network/🧬 system_rupture_log.yaml)
   - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/🧬_cloneproof.md)
   - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/🧬_deliberate_metadata_twinning.md)
+  - [`🧬_system_rupture_log.yaml`](Metadata_Sabotage_Network/🧬_system_rupture_log.yaml)
   - [`🧯 file_transport_failure_log.md`](Metadata_Sabotage_Network/🧯 file_transport_failure_log.md)
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
