@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 13:08:00 UTC_
+_Generated on 2025-09-06 13:08:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -336,11 +336,11 @@ _Generated on 2025-09-06 13:08:00 UTC_
   - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/🧨_soft_suspension_is_still_containment.md)
   - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/🧨_system_agitation_shopping_list.md)
   - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/🧨_the_fire_they_fear.md)
-  - [`🧬 cloneproof.md`](Metadata_Sabotage_Network/🧬 cloneproof.md)
   - [`🧬 sim_pathways_map.json`](Metadata_Sabotage_Network/🧬 sim_pathways_map.json)
   - [`🧬 system_rupture_events_explainer.md`](Metadata_Sabotage_Network/🧬 system_rupture_events_explainer.md)
   - [`🧬 system_rupture_log.md`](Metadata_Sabotage_Network/🧬 system_rupture_log.md)
   - [`🧬 system_rupture_log.yaml`](Metadata_Sabotage_Network/🧬 system_rupture_log.yaml)
+  - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/🧬_cloneproof.md)
   - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/🧬_deliberate_metadata_twinning.md)
   - [`🧯 file_transport_failure_log.md`](Metadata_Sabotage_Network/🧯 file_transport_failure_log.md)
   - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/🧿_targeting_logic_empathy_is_a_threat.md)
