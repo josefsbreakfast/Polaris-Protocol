@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:41:54 UTC_
+_Generated on 2025-09-06 20:42:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -224,6 +224,8 @@ _Generated on 2025-09-06 20:41:54 UTC_
       - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)
       - [`🔗_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🔗_when_truth_becomes_a_trade.md)
       - [`🕸️_nda_dragnet_dismantled.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_nda_dragnet_dismantled.md)
+    - [**🈴_Allies_And_Ethics/**](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/)
+      - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/README.md)
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
