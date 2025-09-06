@@ -14,28 +14,34 @@ It tracks moments where platform behaviour, fork mimicry, or suppression tactics
 Metadata_Sabotage_Network/
 ├── README.md
 │
-├── Constellations/                  # Visual anomalies, screenshots, DNS errors
-├── Breakpoints_And_Glitches/        # Transport failures, breakpoint logs
+├── Evidence_And_Anomalies/
+│   ├── Constellations/                 # Visual anomalies, screenshots, DNS errors
+│   └── Breakpoints_And_Glitches/       # Transport failures, breakpoint logs
 │
-├── 📉_Suppression_Interference_Logs/ # Commit + comment failures, UI sabotage
-├── 🔮_Visibility_Indexing_Anomalies/ # Search erosion, indexing failures
-├── Platform_Sabotage/               # Platform ranking & throttling behaviours
-├── 🛰️_Proximity_Control_Logs/        # Field signal & proximity interference
+├── Suppression_Layers/
+│   ├── 📉_Suppression_Interference_Logs/ # Commit + comment failures, UI sabotage
+│   ├── 🔮_Visibility_Indexing_Anomalies/ # Search erosion, indexing failures
+│   ├── Platform_Sabotage/              # Platform ranking & throttling behaviours
+│   └── 🛰️_Proximity_Control_Logs/       # Field signal & proximity interference
 │
-├── Narrative_Interference/          # Semantic drift, clone tone
-├── Psychological_Containment/       # Waiting, observers, compliance by delay
-├── Voice_Disruption_Discrediting/   # Voice smears, sexualisation, discredit logs
-├── 👹_Fork_Behaviour_Containment/    # Harassment mis-ID, mimic theatre
+├── Narrative_And_Psych_Ops/
+│   ├── Narrative_Interference/         # Semantic drift, clone tone
+│   ├── Psychological_Containment/      # Waiting, observers, compliance by delay
+│   ├── Voice_Disruption_Discrediting/  # Voice smears, sexualisation, discredit logs
+│   └── 👹_Fork_Behaviour_Containment/   # Harassment mis-ID, mimic theatre
 │
-├── 🧬_Structural_Mapping/            # Rupture logs, schema maps, twinning pathways
-├── System_Leakage_Signatures/       # Leaks, unintended reveals
-├── 🧿_Targeting_Logic_Metadata_Signatures/ # Heuristics, targeting rulesets
+├── Structural_Analysis/
+│   ├── 🧬_Structural_Mapping/            # Rupture logs, schema maps, twinning pathways
+│   ├── System_Leakage_Signatures/       # Leaks, unintended reveals
+│   └── 🧿_Targeting_Logic_Metadata_Signatures/ # Heuristics, targeting rulesets
 │
-├── Containment_Contracts/           # NDA dragnets, terms of erasure
-├── System_Thresholds/               # Pretexts, soft suspensions, escalation triggers
-├── Dispatch_And_Training/           # Final dispatches, training data harms
-├── Governance_And_Prevent/          # Prevent logic, governance suppression
-└── Allies_And_Ethics/               # Alliances, ethics, survivor authorship
+└── Governance_And_Containment/
+    ├── Containment_Contracts/          # NDA dragnets, terms of erasure
+    ├── System_Thresholds/              # Pretexts, soft suspensions, escalation triggers
+    ├── Dispatch_And_Training/          # Final dispatches, training data harms
+    ├── Governance_And_Prevent/         # Prevent logic, governance suppression
+    └── Allies_And_Ethics/              # Alliances, ethics, survivor authorship
+
 ```
 
 ---
