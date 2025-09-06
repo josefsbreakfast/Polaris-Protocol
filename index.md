@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 12:46:43 UTC_
+_Generated on 2025-09-06 12:53:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -17,7 +17,7 @@ _Generated on 2025-09-06 12:46:43 UTC_
       - [`polaris_file_index_2025-08-10.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/polaris_file_index_2025-08-10.md)
       - [`polaris_harm_map_2025-08-11.png`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/polaris_harm_map_2025-08-11.png)
       - [`polaris_harm_scan_analysis_2025-08-11.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/polaris_harm_scan_analysis_2025-08-11.md)
-      - [`📦_ sweep_sequence_aug_11-13.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/📦_ sweep_sequence_aug_11-13.md)
+      - [`📦_sweep_sequence_aug_11-13.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/📦_sweep_sequence_aug_11-13.md)
       - [`🧯_harm_scan_report.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
       - [`🧯_sweep_harm_log_2025-08-17.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
   - [`README.md`](Admin_Kit/README.md)
