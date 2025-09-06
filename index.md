@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 19:40:56 UTC_
+_Generated on 2025-09-06 19:41:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -221,6 +221,7 @@ _Generated on 2025-09-06 19:40:56 UTC_
   - [**Evidence_And_Anomalies/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/✨_Constellations/)
       - [`README.md`](Metadata_Sabotage_Network/Evidence_And_Anomalies/✨_Constellations/README.md)
+      - [`🐀_steal_her_github.png`](Metadata_Sabotage_Network/Evidence_And_Anomalies/✨_Constellations/🐀_steal_her_github.png)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/README.md)
   - [**Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_Interference/)
@@ -322,7 +323,6 @@ _Generated on 2025-09-06 19:40:56 UTC_
   - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
     - [`README.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
-  - [`🐀_steal_her_github.png`](Metadata_Sabotage_Network/🐀_steal_her_github.png)
   - [`📎_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/📎_metadata_logic_of_the_repo.md)
   - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/📓_metadata_glitch_log.md)
   - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/📜_terms_of_erasement.md)
