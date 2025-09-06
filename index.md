@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 20:49:14 UTC_
+_Generated on 2025-09-06 20:50:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -226,6 +226,7 @@ _Generated on 2025-09-06 20:49:14 UTC_
       - [`🕸️_nda_dragnet_dismantled.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_nda_dragnet_dismantled.md)
     - [**🈴_Allies_And_Ethics/**](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/README.md)
+      - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
       - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🤝_held_by_other_peoples_alliances.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
@@ -364,7 +365,6 @@ _Generated on 2025-09-06 20:49:14 UTC_
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
-  - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/🚫_he_will_not_find_me.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
