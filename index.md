@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-07 10:03:20 UTC_
+_Generated on 2025-09-07 17:37:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -462,6 +462,7 @@ _Generated on 2025-09-07 10:03:20 UTC_
     - [`suspect_interaction_flowchart_loop_redacted.png`](Polaris_Nest/Git_Intake_Drawer/suspect_interaction_flowchart_loop_redacted.png)
     - [`targeting_jewish_dissent_1980s_present.png`](Polaris_Nest/Git_Intake_Drawer/targeting_jewish_dissent_1980s_present.png)
     - [`targetting_jewish_dissent_1980s_plasticbox.png`](Polaris_Nest/Git_Intake_Drawer/targetting_jewish_dissent_1980s_plasticbox.png)
+    - [`triple_lock_audit_gap_flow.png`](Polaris_Nest/Git_Intake_Drawer/triple_lock_audit_gap_flow.png)
     - [`uk_debates_overlap.png`](Polaris_Nest/Git_Intake_Drawer/uk_debates_overlap.png)
     - [`uk_morale_post_2016.png`](Polaris_Nest/Git_Intake_Drawer/uk_morale_post_2016.png)
     - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
@@ -557,8 +558,10 @@ _Generated on 2025-09-07 10:03:20 UTC_
     - [`🧬_deliberate_data_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_deliberate_data_twinning.md)
     - [`🧬_metadata_twinning_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_twinning_analysis.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
+    - [`🧬_the_invisible_audit_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧬_the_invisible_audit_gap.md)
     - [`🧬_untwinning_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_untwinning_data.md)
     - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🧭_uk_tech_talent_scaling_policy_timeline.md)
+    - [`🧾_briefing_note_triple_lock_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧾_briefing_note_triple_lock_failure.md)
     - [`🧿_divination_as_gendered_data_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧿_divination_as_gendered_data_pipeline.md)
     - [`🧿_half_the_torture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_half_the_torture.md)
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
@@ -567,6 +570,7 @@ _Generated on 2025-09-07 10:03:20 UTC_
     - [`🪞_background_activity_fog.md`](Polaris_Nest/Git_Intake_Drawer/🪞_background_activity_fog.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
     - [`🪞_smoothed_content_blink_twice.md`](Polaris_Nest/Git_Intake_Drawer/🪞_smoothed_content_blink_twice.md)
+    - [`🪞_twinned_silence.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twinned_silence.md)
     - [`🫥_presumption_as_erasure.md`](Polaris_Nest/Git_Intake_Drawer/🫥_presumption_as_erasure.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
