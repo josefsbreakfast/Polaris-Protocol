@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-07 07:05:39 UTC_
+_Generated on 2025-09-07 10:03:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -145,7 +145,9 @@ _Generated on 2025-09-07 07:05:39 UTC_
       - [`🧨_delayed_visibility_is_a_signal.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md)
       - [`🧨_how_prevent_uses_darvo_to_detain.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_how_prevent_uses_darvo_to_detain.md)
       - [`🧨_reach_metrics_are_not_neutral.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_reach_metrics_are_not_neutral.md)
+      - [`🧨_resilience_as_suppression_rhetoric.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_resilience_as_suppression_rhetoric.md)
       - [`🧨_triple_lock_suppression_hypothesis.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_triple_lock_suppression_hypothesis.md)
+      - [`🧭_resilience_as_suppression_rhetoric.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧭_resilience_as_suppression_rhetoric.png)
       - [`🪞_engineered_disjuncture_of_allies.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🪞_engineered_disjuncture_of_allies.md)
       - [`🫀_pathologising_sensitivity_as_containment.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)
     - [`README.md`](Disruption_Kit/Containment_Scripts/README.md)
