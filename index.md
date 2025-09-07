@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-06 23:17:11 UTC_
+_Generated on 2025-09-07 06:28:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -130,7 +130,9 @@ _Generated on 2025-09-06 23:17:11 UTC_
       - [`🧨_polite_post_containment_probe.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_polite_post_containment_probe.md)
       - [`🪓_mean_evidence_template.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🪓_mean_evidence_template.md)
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
+      - [`Counter-Nudge Map: Who to Rattle for Justice.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/Counter-Nudge Map: Who to Rattle for Justice.png)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/README.md)
+      - [`Triple Lock Suppression Diagram (Hypothesis).png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/Triple Lock Suppression Diagram (Hypothesis).png)
       - [`🌀_exhaustion_as_a_containment_layer.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md)
       - [`🌀_recognition_without_resolution.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_recognition_without_resolution.md)
       - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
@@ -143,6 +145,7 @@ _Generated on 2025-09-06 23:17:11 UTC_
       - [`🧨_delayed_visibility_is_a_signal.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md)
       - [`🧨_how_prevent_uses_darvo_to_detain.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_how_prevent_uses_darvo_to_detain.md)
       - [`🧨_reach_metrics_are_not_neutral.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_reach_metrics_are_not_neutral.md)
+      - [`🧨_triple_lock_suppression_hypothesis.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_triple_lock_suppression_hypothesis.md)
       - [`🪞_engineered_disjuncture_of_allies.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🪞_engineered_disjuncture_of_allies.md)
       - [`🫀_pathologising_sensitivity_as_containment.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)
     - [`README.md`](Disruption_Kit/Containment_Scripts/README.md)
