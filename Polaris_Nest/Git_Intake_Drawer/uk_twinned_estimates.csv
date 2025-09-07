@@ -1,0 +1,4 @@
+Scenario,Adults (assumed),p_individual (odd config),t_target (targeted fraction),q_match (pairing success),Odd individuals (N_odd),Targeted odd (N_targeted),Expected paired individuals,Expected pairs
+Low,53000000,0.002,0.1,0.01,106000,10600,106,53
+Base,53000000,0.006,0.3,0.05,318000,95400,4770,2385
+High,53000000,0.015,0.6,0.1,795000,477000,47700,23850
