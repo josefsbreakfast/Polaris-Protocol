@@ -137,6 +137,7 @@ The rationale shifts from law to **institutional self-preservation**:
 - **Deterrence theatre**: continuation broadcasts a warning to others — *“the system can gag anyone, even after exposure.”*  
 
 At this stage, the triple lock is not about legality or security.  
+
 It is about **delaying accountability**, even as the risks of continuation mount.
 
 ---
@@ -174,6 +175,19 @@ The UK’s continuation of the triple lock during an active **ICJ defence** ampl
 This behaviour is not pragmatic containment.  
 It is **reckless overreach** that jeopardises the UK’s global legal defence while multiplying its domestic liabilities.
 <!--Strongly suggests any UK contacts who are signing off, are either willingly deluding themselves, or are doing so for a personal interest.-->
+---
+
+## 🧨 Oversight as Self-Interest
+
+By the continuation stage, UK sign-offs cannot credibly be explained as error.  
+Those who persist are either:  
+
+- **Willingly deluding themselves**, treating fabricated intel or MoU cover as still valid; or  
+- **Acting for personal interest**, protecting their careers and liability rather than the law or the citizen.  
+
+At this point, “oversight” is no longer institutional.  
+It has collapsed into **individualised self-preservation**, reinforcing suppression while compounding illegality.
+
 ---
 
 ## 🏮 Footer  
