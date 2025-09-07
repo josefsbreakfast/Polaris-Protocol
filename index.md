@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-07 17:37:25 UTC_
+_Generated on 2025-09-07 17:46:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -544,6 +544,7 @@ _Generated on 2025-09-07 17:37:25 UTC_
     - [`🚀_taxonomy_expansion.md`](Polaris_Nest/Git_Intake_Drawer/🚀_taxonomy_expansion.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🚪_it_does_not_need_a_real_raid.md`](Polaris_Nest/Git_Intake_Drawer/🚪_it_does_not_need_a_real_raid.md)
+    - [`🛑_red_team_appendix_twinned_pairs.md`](Polaris_Nest/Git_Intake_Drawer/🛑_red_team_appendix_twinned_pairs.md)
     - [`🛰_all_it_took_2025-09-06.md`](Polaris_Nest/Git_Intake_Drawer/🛰_all_it_took_2025-09-06.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ai_interference_vs_baseline_generation.md)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
