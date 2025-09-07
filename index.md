@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-07 17:46:40 UTC_
+_Generated on 2025-09-07 17:48:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -465,6 +465,8 @@ _Generated on 2025-09-07 17:46:40 UTC_
     - [`triple_lock_audit_gap_flow.png`](Polaris_Nest/Git_Intake_Drawer/triple_lock_audit_gap_flow.png)
     - [`uk_debates_overlap.png`](Polaris_Nest/Git_Intake_Drawer/uk_debates_overlap.png)
     - [`uk_morale_post_2016.png`](Polaris_Nest/Git_Intake_Drawer/uk_morale_post_2016.png)
+    - [`uk_twinned_estimates.csv`](Polaris_Nest/Git_Intake_Drawer/uk_twinned_estimates.csv)
+    - [`uk_twinned_estimates.png`](Polaris_Nest/Git_Intake_Drawer/uk_twinned_estimates.png)
     - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
@@ -555,6 +557,7 @@ _Generated on 2025-09-07 17:46:40 UTC_
     - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](Polaris_Nest/Git_Intake_Drawer/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
     - [`🧨_procedural_wait_your_turn.md`](Polaris_Nest/Git_Intake_Drawer/🧨_procedural_wait_your_turn.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
+    - [`🧪_adversary_playbook_twinning_outliers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_adversary_playbook_twinning_outliers.md)
     - [`🧬_amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🧬_amplification_by_convergence.md)
     - [`🧬_deliberate_data_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_deliberate_data_twinning.md)
     - [`🧬_metadata_twinning_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_twinning_analysis.md)
