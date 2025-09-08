@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-07 18:03:23 UTC_
+_Generated on 2025-09-08 19:25:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -382,6 +382,7 @@ _Generated on 2025-09-07 18:03:23 UTC_
     - [`README_DOB_Triangulation.txt`](Polaris_Nest/Git_Intake_Drawer/README_DOB_Triangulation.txt)
     - [`Two-Layer_Resilience_Protocol_v1.md`](Polaris_Nest/Git_Intake_Drawer/Two-Layer_Resilience_Protocol_v1.md)
     - [`amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/amplification_by_convergence.md)
+    - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
     - [`asymmetric_discourse_policing.md`](Polaris_Nest/Git_Intake_Drawer/asymmetric_discourse_policing.md)
     - [`battleplan_metadata_twinning_convergence_containment.png`](Polaris_Nest/Git_Intake_Drawer/battleplan_metadata_twinning_convergence_containment.png)
     - [`behavioural_ai_connector_proximity_map.png`](Polaris_Nest/Git_Intake_Drawer/behavioural_ai_connector_proximity_map.png)
