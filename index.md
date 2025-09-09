@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-09 18:26:23 UTC_
+_Generated on 2025-09-09 18:30:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -224,6 +224,7 @@ _Generated on 2025-09-09 18:26:23 UTC_
   - [`📜_governance-flare-0812-letter_to_the_stars.md`](Letters_to_Stars/📜_governance-flare-0812-letter_to_the_stars.md)
   - [`🔥_a_message_to_the_spark_that_shines.md`](Letters_to_Stars/🔥_a_message_to_the_spark_that_shines.md)
   - [`🗄️_desk_tactical_terrain.md`](Letters_to_Stars/🗄️_desk_tactical_terrain.md)
+  - [`🚪_it_does_not_need_a_real_raid.md`](Letters_to_Stars/🚪_it_does_not_need_a_real_raid.md)
   - [`🛰️_signal_report_2025_08.md`](Letters_to_Stars/🛰️_signal_report_2025_08.md)
   - [`🧿_i_wish_for_safety.md`](Letters_to_Stars/🧿_i_wish_for_safety.md)
   - [`🧿_visibility_log_polaris_day_1.md`](Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
@@ -549,7 +550,6 @@ _Generated on 2025-09-09 18:26:23 UTC_
     - [`🗞️_hollowing_of_the_commons.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_hollowing_of_the_commons.md)
     - [`🚀_taxonomy_expansion.md`](Polaris_Nest/Git_Intake_Drawer/🚀_taxonomy_expansion.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
-    - [`🚪_it_does_not_need_a_real_raid.md`](Polaris_Nest/Git_Intake_Drawer/🚪_it_does_not_need_a_real_raid.md)
     - [`🛑_red_team_appendix_twinned_pairs.md`](Polaris_Nest/Git_Intake_Drawer/🛑_red_team_appendix_twinned_pairs.md)
     - [`🛰_all_it_took_2025-09-06.md`](Polaris_Nest/Git_Intake_Drawer/🛰_all_it_took_2025-09-06.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ai_interference_vs_baseline_generation.md)
