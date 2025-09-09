@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-09 18:31:29 UTC_
+_Generated on 2025-09-09 18:59:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -189,6 +189,7 @@ _Generated on 2025-09-09 18:31:29 UTC_
     - [`🧬_heat_budget_for_the_long_game.md`](Disruption_Kit/Survivor_Tools/🧬_heat_budget_for_the_long_game.md)
     - [`🧬_honeytrap_mechanics.md`](Disruption_Kit/Survivor_Tools/🧬_honeytrap_mechanics.md)
     - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
+    - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Fork_Taxonomy/**](Fork_Taxonomy/)
   - [`README.md`](Fork_Taxonomy/README.md)
@@ -581,7 +582,6 @@ _Generated on 2025-09-09 18:31:29 UTC_
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
     - [`🪞_smoothed_content_blink_twice.md`](Polaris_Nest/Git_Intake_Drawer/🪞_smoothed_content_blink_twice.md)
     - [`🪞_twinned_silence.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twinned_silence.md)
-    - [`🫥_presumption_as_erasure.md`](Polaris_Nest/Git_Intake_Drawer/🫥_presumption_as_erasure.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
