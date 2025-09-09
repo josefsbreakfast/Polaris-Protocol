@@ -83,6 +83,8 @@ It provides simple diagnostic scripts for lawful data exports, allowing auditors
 > - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
 > - [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
 
+🏮 Return to [Fork Behaviour Containment](./README.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-09-09_  
