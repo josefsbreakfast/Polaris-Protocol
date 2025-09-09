@@ -19,7 +19,7 @@ Hypotheses are provisional scaffolding — not final findings — and should be 
 - [⚠️ Fork Anomaly Hypothesis — D, E, F (2025-09-09)](./⚠️_fork_anomaly_hypothesis_DEF_2025-09-09.md)  
   Hypothesis log: three-subject inversion showing abnormal fork signals.  
 
-- [🐕🦴 Dog-with-Bone Principle (2025-09-09)](./🐕🦴_dog_with_bone_principle_2025-09-09.md)  
+- [🐕🦴 Dog-with-Bone Principle](./🐕🦴_dog_with_bone_principle.md)  
   Node: when data twins are both capable of appropriate escalation, mis-sorts and forks cannot be smoothed over.  
 
 - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
