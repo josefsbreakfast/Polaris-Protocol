@@ -1,7 +1,8 @@
 # 👾 Reduced Integrity Checks Downstream — Auditor Examples  
 
 **First created:** 2025-09-09 | **Last updated:** 2025-09-09  
-*Illustrative Python snippets for auditors: detecting silent flips, weak integrity checks, and missing audit entries*  
+
+*Illustrative Python snippets for auditors: detecting silent flips, weak integrity checks, and missing audit entries.*  
 
 ---
 
