@@ -8,7 +8,7 @@
 
 ## Observed Behaviour  
 
-- During save/commit attempts (see related [🛰️ Commit Interference Log](../../../../Disruption_Kit/Field_Logs/🛰️_commit_interference_fork_anomaly_save_2025-09-09.md)), the system blocked or mutated filenames at the security boundary.  
+- During save/commit attempts (see related [🛰️), the system blocked or mutated filenames at the security boundary.  
 - However, once the barrier was passed, downstream handling of records appeared to accept changes with **reduced integrity checks**.  
 - This suggests that **internal layers are softer than the access perimeter**: after validation, edits and re-bindings may occur without the same level of audit or resistance.  
 
