@@ -1,4 +1,4 @@
-# 👾 Fork Anomaly Hypothesis — X, Y, Z  
+# ⚠️ Fork Anomaly Hypothesis — X, Y, Z  
 **First created:** 2025-09-09 | **Last updated:** 2025-09-09
 *Hypothesis node: diagnostic mapping of a three-subject harassment inversion showing abnormal fork signals*  
 
