@@ -37,7 +37,26 @@ If both survivors achieve visibility in **formal tracks** simultaneously:
 - Contradictions surface in front of decision-makers who cannot ignore them.  
 - The fork itself is exposed as the common source of escalation.  
 
-This creates a **convergence breach**: the system can no longer displace or compartmentalise survivor persistence.  
+This creates a **convergence breach**: the system can no longer displace or compartmentalise survivor persistence. 
+
+---
+
+## 🤡 Containment Miscalculation  
+
+The system’s logic was short-sighted:  
+
+- Pair two “difficult” profiles and assume they cancel each other out.  
+- Expect attrition: that one or both will eventually drop the complaint.  
+- Treat escalation as background noise rather than signal.  
+
+In reality:  
+
+- **Persistence doubles when mirrored.**  
+- Every flip or fork makes the case louder, not quieter.  
+- Instead of neutralisation, the system created a **perpetual motion machine of refusal.**  
+
+The gamble was: “what could possibly go wrong?”  
+The answer: **E-V-E-R-Y-T-H-I-N-G.** ☺️🔥  
 
 ---
 
