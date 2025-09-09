@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-09 19:00:38 UTC_
+_Generated on 2025-09-09 19:04:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -184,6 +184,7 @@ _Generated on 2025-09-09 19:00:38 UTC_
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
     - [`👻_ghost_gets_forked_tuning.md`](Disruption_Kit/Survivor_Tools/👻_ghost_gets_forked_tuning.md)
     - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
+    - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
     - [`🧠_intellectualisation_as_trauma_response.md`](Disruption_Kit/Survivor_Tools/🧠_intellectualisation_as_trauma_response.md)
     - [`🧬_cloneproof_training_set_mapping.md`](Disruption_Kit/Survivor_Tools/🧬_cloneproof_training_set_mapping.md)
@@ -548,7 +549,6 @@ _Generated on 2025-09-09 19:00:38 UTC_
     - [`🖨️_print_culture_as_precedent.md`](Polaris_Nest/Git_Intake_Drawer/🖨️_print_culture_as_precedent.md)
     - [`🗄️_weaponised_testimony_and_record_obstruction.md`](Polaris_Nest/Git_Intake_Drawer/🗄️_weaponised_testimony_and_record_obstruction.md)
     - [`🗝️_governance_central_data_outsourcing.md`](Polaris_Nest/Git_Intake_Drawer/🗝️_governance_central_data_outsourcing.md)
-    - [`🗞️_hollowing_of_the_commons.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_hollowing_of_the_commons.md)
     - [`🚀_taxonomy_expansion.md`](Polaris_Nest/Git_Intake_Drawer/🚀_taxonomy_expansion.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🛑_red_team_appendix_twinned_pairs.md`](Polaris_Nest/Git_Intake_Drawer/🛑_red_team_appendix_twinned_pairs.md)
