@@ -1,10 +1,10 @@
-# 🫥 Presumption as Erasure  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*How assumptions of privilege erase Jewish survivor testimony and material need*  
+# 🫥 Presumption as Erasure 
+**First created:** 2025-09-05 | **Last updated:** 2025-09-09  
+*How assumptions of privilege erase Jewish survivor testimony and material need.*  
 
 ---
 
-## Context  
+## ✨ Context  
 
 - Jewish survivors often face **assumptions of wealth, networks, or resilience**.  
 - These presumptions function as erasure: “you don’t need support, you’re covered.”  
@@ -30,4 +30,4 @@ It documents how privilege assumptions silence Jewish survivor testimony and blo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-09_
