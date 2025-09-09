@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-09 16:46:31 UTC_
+_Generated on 2025-09-09 16:47:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -235,6 +235,7 @@ _Generated on 2025-09-09 16:46:31 UTC_
       - [`🎈_silence_as_infrastructure.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🎈_silence_as_infrastructure.md)
       - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)
       - [`📠_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📠_when_truth_becomes_a_trade.md)
+      - [`🕸️_dragnet_as_default.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_dragnet_as_default.md)
       - [`🪁_contracts_that_colonise_memory.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪁_contracts_that_colonise_memory.md)
     - [**🈴_Allies_And_Ethics/**](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/README.md)
