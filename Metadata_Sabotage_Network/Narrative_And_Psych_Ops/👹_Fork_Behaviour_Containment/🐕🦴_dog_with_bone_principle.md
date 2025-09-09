@@ -76,7 +76,7 @@ Refusing minimisation is not exceptional — it is **normal survivor expectation
 It documents how survivor persistence makes fork anomalies unsustainable: the only resolution is fixing the underlying sabotage.  
 
 > 📡 Cross-references:  
-> - [⚠️ Fork Anomaly Hypothesis — D, E, F](./⚠️_fork_anomaly_hypothesis_DEF_2025-09-09.md)  
+> - [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)
 > - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
 > - [👾 Harassment, Misidentification, and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
 > - [🪞 Clone Mimic Theatre](./🪞_clone_mimic_theatre.md)  
