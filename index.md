@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-09 16:31:39 UTC_
+_Generated on 2025-09-09 16:39:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -234,7 +234,6 @@ _Generated on 2025-09-09 16:31:39 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md)
       - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)
       - [`🔗_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🔗_when_truth_becomes_a_trade.md)
-      - [`🕸️_nda_dragnet_dismantled.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_nda_dragnet_dismantled.md)
     - [**🈴_Allies_And_Ethics/**](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/README.md)
       - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
@@ -595,6 +594,7 @@ _Generated on 2025-09-09 16:31:39 UTC_
     - [`📛_storage_purge_detected.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📛_storage_purge_detected.md)
     - [`📩_safety_and_transparency_event_attendance_misuse.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📩_safety_and_transparency_event_attendance_misuse.md)
     - [`📮_lost_in_submission.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📮_lost_in_submission.md)
+    - [`🕸️_nda_dragnet_dismantled.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🕸️_nda_dragnet_dismantled.md)
     - [`🛠_redacted_report_as_erasure_device.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_as_erasure_device.md)
     - [`🛠_redacted_report_payload_flow.png`](Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_payload_flow.png)
     - [`🛰️_2025-08-04_docking_surrogate_trace.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_2025-08-04_docking_surrogate_trace.md)
