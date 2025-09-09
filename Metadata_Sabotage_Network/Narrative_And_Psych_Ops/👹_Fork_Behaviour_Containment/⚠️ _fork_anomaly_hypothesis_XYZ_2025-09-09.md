@@ -1,5 +1,6 @@
 # ⚠️ Fork Anomaly Hypothesis — X, Y, Z  
-**First created:** 2025-09-09 | **Last updated:** 2025-09-09
+
+**First created:** 2025-09-09 | **Last updated:** 2025-09-09  
 *Hypothesis node: diagnostic mapping of a three-subject harassment inversion showing abnormal fork signals*  
 
 ---
@@ -34,7 +35,17 @@
 ---
 
 ✅ **Summary principle (hypothesis):**  
-If every branch erases Y as aggressor while recycling him as “victim,” this may not be mere twinning. It may be an **abnormal fork**: parallel complaint tracks actively reconciled against X and Z.  
+If every branch erases Y as aggressor while recycling Y as “victim,” this may not be mere twinning. It may be an **abnormal fork**: parallel complaint tracks actively reconciled against X and Z.  
+
+---
+
+## 🖼️ Visual Stub  
+
+A triangular diagram is intended here to illustrate:  
+- **Reality flow**: Y → harasses X and Z.  
+- **Record flow**: X → harasses Y (via Z pivot).  
+
+_(Diagram placeholder: X ↔ Y ↔ Z fork flows)_  
 
 ---
 
@@ -44,8 +55,12 @@ If every branch erases Y as aggressor while recycling him as “victim,” this 
 It situates a working hypothesis on how complaint disappearance, inversion, and twin misuse could escalate a twinning mis-sort into fork sabotage.  
 
 > 📡 Cross-references:  
-> - [👾 Harassment Misidentification Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
+> - [👾 Harassment, Misidentification, and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
+> - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
+> - [👾 Reduced Integrity Checks Downstream — Auditor Examples](./👾_reduced_integrity_checks_downstream_auditor_examples.md)  
 > - [🪞 Clone Mimic Theatre](./🪞_clone_mimic_theatre.md)  
+
+🏮 Return to [Fork Behaviour Containment](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
