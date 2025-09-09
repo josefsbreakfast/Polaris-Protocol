@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-09 18:59:16 UTC_
+_Generated on 2025-09-09 19:00:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -183,6 +183,7 @@ _Generated on 2025-09-09 18:59:16 UTC_
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
     - [`👻_ghost_gets_forked_tuning.md`](Disruption_Kit/Survivor_Tools/👻_ghost_gets_forked_tuning.md)
+    - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
     - [`🧠_intellectualisation_as_trauma_response.md`](Disruption_Kit/Survivor_Tools/🧠_intellectualisation_as_trauma_response.md)
     - [`🧬_cloneproof_training_set_mapping.md`](Disruption_Kit/Survivor_Tools/🧬_cloneproof_training_set_mapping.md)
@@ -542,7 +543,6 @@ _Generated on 2025-09-09 18:59:16 UTC_
     - [`🔥_anger_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_anger_as_signal.md)
     - [`🔥_guardrails_are_political.md`](Polaris_Nest/Git_Intake_Drawer/🔥_guardrails_are_political.md)
     - [`🔮_challenge_of_ai.md`](Polaris_Nest/Git_Intake_Drawer/🔮_challenge_of_ai.md)
-    - [`🕎_exile_logic_dual_coding.md`](Polaris_Nest/Git_Intake_Drawer/🕎_exile_logic_dual_coding.md)
     - [`🕵️_harassment_vs_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🖨️_print_culture_as_precedent.md`](Polaris_Nest/Git_Intake_Drawer/🖨️_print_culture_as_precedent.md)
