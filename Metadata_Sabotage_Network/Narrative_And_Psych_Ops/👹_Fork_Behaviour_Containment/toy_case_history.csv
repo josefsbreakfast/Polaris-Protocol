@@ -1,0 +1,6 @@
+case_id,field,old_value,new_value,changed_at,actor
+1,complainant_id,X,Y,2025-09-01T10:00:00,user123
+1,subject_id,Y,X,2025-09-01T10:00:00,user123
+1,complainant_id,Y,X,2025-09-02T14:00:00,SYSTEM
+2,complainant_id,X,Z,2025-09-01T11:00:00,service_account
+3,complainant_id,A,A,2025-09-01T12:00:00,user456
