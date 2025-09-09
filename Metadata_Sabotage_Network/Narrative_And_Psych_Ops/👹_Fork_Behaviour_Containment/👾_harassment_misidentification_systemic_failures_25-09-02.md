@@ -10,18 +10,18 @@
 I have already had to issue formal notice to Cabinet and to lawyers that:  
 
 - An individual impersonated as the “responsible party” is **not the person I have formally named**.  
-- I endured **months of sexual harassment by proxy**.  
+- I endured **months of harassment by proxy**.  
 - I appear to have been **framed as harassing the actual individual I have identified**, reversing roles of victim and aggressor.  
 
-- Due to the nature of data, all three of us potentially exist as "twinned" datasets. This means there is constant exposure to a misidentified party, as well as to a party I have credibly claimed to have perpetrated sexual violence where I was a victim. This is *unpleasant*, to say the least. The particular cruelty of tying in a misattributed party means I am now hypervigilant around the majority of men; in the style of IPV coercive control, I now have exposure to intimidating content interspersed with another party's normal content. This widens the pool of associated themes with the abusive content.  
-- I have tried so many times to explain or simplify this for police: “why would he complain about you and then harass you?” This ignores the principles of DASH and MARAC.  
+- Due to the nature of data, all three of us potentially exist as "twinned" datasets. This means there is constant exposure to a misidentified party, as well as to a party I have credibly claimed to have perpetrated sexual violence where I was a victim. This is *unpleasant*, to say the least. The particular cruelty of tying in a misattributed party means I am now hypervigilant around the majority of people; in the style of coercive control, I now have exposure to intimidating content interspersed with another party's normal content. This widens the pool of associated themes with the abusive content.  
+- I have tried so many times to explain or simplify this for police: “why would someone complain about you and then harass you?” This ignores the principles of DASH and MARAC.  
 - Additionally, local services could not use systems control to isolate conflicts of interest or to think around a solution to a keysafe for carers; I had to reject essential care and not return to work due to this.  
 
 ## Arrest & Record Issues  
 - My arrest was not conducted under **PACE (Police and Criminal Evidence Act 1984)** safeguards.  
-- Searches included under underwear lines, taking biometric data, and property was entered believing I was giving a sexual violence report. Phone (containing evidence of my claims) was taken.  
+- Searches included under clothing, taking biometric data, and property was entered believing I was giving a sexual violence report. Phone (containing evidence of my claims) was taken.  
 - The matter was **NFA’d (No Further Action)**, yet my **PNC record contains inconsistencies**.  
-- The harassment start date recorded aligns with the **month of my CSA/rape trial involving my father**.  
+- The harassment start date recorded aligns with the **month of my CSA/rape trial involving a family member**.  
 - To date, no one can confirm whether my records were unlawfully accessed. This concern first arose amidst a **Google bombing incident** following whistleblowing related to the individual in question.  
 
 ## Escalation of Harassment  
