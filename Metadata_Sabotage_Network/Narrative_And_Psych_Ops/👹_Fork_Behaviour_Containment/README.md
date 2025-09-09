@@ -16,7 +16,7 @@ Hypotheses are provisional scaffolding — not final findings — and should be 
 - [👾 Harassment, Misidentification, and Systemic Failures (2025-09-02)](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
   Case statement: how safeguarding complaints are laundered into inversions that protect aggressors.  
 
-- [⚠️ Fork Anomaly Hypothesis — D, E, F (2025-09-09)](./⚠️_fork_anomaly_hypothesis_DEF_2025-09-09.md)  
+- [⚠️ Fork Anomaly Hypothesis — X, Y, Z (2025-09-09)](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
   Hypothesis log: three-subject inversion showing abnormal fork signals.  
 
 - [🐕🦴 Dog-with-Bone Principle](./🐕🦴_dog_with_bone_principle.md)  
