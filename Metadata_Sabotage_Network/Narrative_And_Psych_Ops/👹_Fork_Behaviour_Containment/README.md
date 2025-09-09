@@ -5,13 +5,22 @@
 
 ---
 
+⚠️ **Note for auditors:**  
+This directory contains both observation nodes and **hypothesis files**.  
+Hypotheses are provisional scaffolding — not final findings — and should be read as diagnostic aids rather than established fact.  
+
+---
+
 ## 📑 Contents  
 
-- [👾 Harassment Misidentification Systemic Failures (2025-09-02)](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
-  Mapping how safeguarding complaints are laundered into inversions that protect aggressors.  
+- [👾 Harassment, Misidentification, and Systemic Failures (2025-09-02)](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
+  Case statement: how safeguarding complaints are laundered into inversions that protect aggressors.  
 
-- [⚠️ Fork Anomaly Hypothesis — X, Y, Z (2025-09-09)](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
+- [⚠️ Fork Anomaly Hypothesis — D, E, F (2025-09-09)](./⚠️_fork_anomaly_hypothesis_DEF_2025-09-09.md)  
   Hypothesis log: three-subject inversion showing abnormal fork signals.  
+
+- [🐕🦴 Dog-with-Bone Principle (2025-09-09)](./🐕🦴_dog_with_bone_principle_2025-09-09.md)  
+  Node: when data twins are both capable of appropriate escalation, mis-sorts and forks cannot be smoothed over.  
 
 - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
   Observation node: perimeter security vs. weak downstream audit.  
@@ -33,6 +42,7 @@ This directory focuses on **fork behaviour containment**:
 - How complaints vanish, invert, or rebound through twinning pivots.  
 - Where paper coherence masks logical impossibility.  
 - How downstream layers accept flips once authentication is passed.  
+- What happens when twins are both capable of appropriate escalation (🐕🦴).  
 - Tools for auditors to detect misidentification, suppressed logs, and abnormal forks.  
 
 ---
