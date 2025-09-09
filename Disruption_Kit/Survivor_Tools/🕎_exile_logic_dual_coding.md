@@ -1,5 +1,5 @@
 # 🕎 Exile Logic and Dual Coding  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-09 
 *Survivor reflection on conditional belonging, whiteness coding, and Chassidus exile thought*  
 
 ---
@@ -45,7 +45,7 @@ In Hasidic streams of thought:
 It documents how whiteness flicker, survivor exhaustion, and Hasidic exile thought converge into a modern containment state.  
 
 > 📡 Cross-references:  
-> - [🪞 Presumption as Erasure](../Suppression_Modes/🪞_engineered_disjuncture_of_allies.md) — how privilege assumptions erase Jewish survivor need  
+> - [🫥 Presumption as Erasure]— how privilege assumptions erase Jewish survivor need  
 > - [🌐 Hollowing of the Commons](../Big_Picture_Protocols/) — why conditional belonging produces silence in public space  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
