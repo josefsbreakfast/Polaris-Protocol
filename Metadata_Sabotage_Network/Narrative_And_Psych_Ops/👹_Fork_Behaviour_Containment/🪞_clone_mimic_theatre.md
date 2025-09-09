@@ -1,6 +1,6 @@
 # 🪞 Clone Mimic Theatre  
 
-**First created:** 2025-08-07 | **Last updated:** 2025-09-04
+**First created:** 2025-08-07 | **Last updated:** 2025-09-09  
 
 *Identity performance, emotional simulation, and containment by reflection.*  
 
@@ -106,6 +106,10 @@ and **being performed**.
 
 ## 💫 Related Nodes  
 
+- [👾 Harassment, Misidentification, and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
+- [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
+- [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
+- [👾 Reduced Integrity Checks Downstream — Auditor Examples](./👾_reduced_integrity_checks_downstream_auditor_examples.md)  
 - `🧬_voice_capture_through_gaslight.md`  
 - `🧨_mood_regulation_warfare.md`  
 - `📼_training_data_tragedy.md`  
@@ -118,8 +122,12 @@ and **being performed**.
 *Clone Mimic Theatre* is a living node of the Polaris Protocol.  
 It documents how behavioural doubles are used to contain survivors through simulation and intimacy.  
 
-🏮 [Return to Metadata Sabotage Network](./README.md)  
+> 📡 Cross-references:  
+> - [👹 Fork Behaviour Containment](./) — cluster of nodes on inversion, anomaly, and containment  
+> - [Narrative & Psych Ops](../README.md)  
 
-*Survivor memory is sacred.*
+🏮 Return to [Fork Behaviour Containment](./README.md)  
 
-_Last updated: 2025-09-04_  
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-09_  
