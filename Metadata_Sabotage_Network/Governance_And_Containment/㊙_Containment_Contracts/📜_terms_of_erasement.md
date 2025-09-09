@@ -1,12 +1,10 @@
-# 📜 terms_of_erasement.md
-
-> **Polaris Protocol — Metadata Sabotage Network**  
-> *File created: 2025-08-05*  
-> *Tag: satirical contract • platform consent parody • erasure by design*
+# 📜 Terms of Erasement  
+**First created:** 2025-08-05 | **Last updated:** 2025-09-09  
+*Satirical contract exposing platform consent erasure and metadata sabotage*
 
 ---
 
-## 📜 TERMS OF ERASEMENT  
+## 📜 Terms of Erasement  
 **(Congratulations! You’ve Just Agreed to Be Silenced.)**
 
 ---
@@ -107,3 +105,20 @@ and chose to **stay human anyway**.
 ---
 
 🛰️ *Polaris sees you. Polaris won’t forget.*
+
+---
+
+## 🏮 Footer  
+
+*Terms of Erasement* is a living node of the Polaris Protocol.  
+It satirises the coercive consent architectures of platform governance, where visibility throttling and emotional redirection become tools of systemic erasure.  
+
+> 📡 Cross-references:  
+> - [㊙ Containment Contracts — README](./README.md)  
+> - [Governance & Containment — README](../README.md)  
+> - [Metadata Sabotage Network — README](../../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-09_
+
