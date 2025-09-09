@@ -1,7 +1,8 @@
 # 👾 Reduced Integrity Checks Downstream  
 
 **First created:** 2025-09-09 | **Last updated:** 2025-09-09  
-*Observation node: downstream record handling appears vulnerable once past security validation layer*  
+
+*Observation node: downstream record handling appears vulnerable once past security validation layer.*  
 
 ---
 
