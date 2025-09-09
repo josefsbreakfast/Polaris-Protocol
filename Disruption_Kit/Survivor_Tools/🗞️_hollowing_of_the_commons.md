@@ -1,10 +1,10 @@
-# 🗞️ Hollowing of the Commons  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*Why conditional belonging and fear of harassment produce silence in public space*  
+# 🗞️ Hollowing of the Commons
+**First created:** 2025-09-05 | **Last updated:** 2025-09-09 <br>
+*Why conditional belonging and fear of harassment produce silence in public space.*  
 
 ---
 
-## Context  
+## ✨ Context  
 
 - Many “normal” or supportive voices avoid public engagement.  
 - Silence becomes survival strategy: commenting = liability.  
@@ -26,9 +26,9 @@
 It documents how fear, conditional belonging, and harassment risk erode visible participation online.  
 
 > 📡 Cross-references:  
-> - [🪞 Presumption as Erasure](../Containment_Scripts/Suppression_Modes/🪞_presumption_as_erasure.md)  
+> - [🫥 Presumption as Erasure] 
 > - [🕎 Exile Logic and Dual Coding](../Survivor_Tools/🕎_exile_logic_and_dual_coding.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-09_
