@@ -122,4 +122,3 @@ It maps how containment practices expand until silence itself becomes the assume
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-09-09_  
-_Word count: 1,065 (main body: 988)_
