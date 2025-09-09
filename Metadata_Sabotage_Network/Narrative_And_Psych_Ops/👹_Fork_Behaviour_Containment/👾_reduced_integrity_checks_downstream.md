@@ -40,7 +40,7 @@ It situates an observed system fragility: strong perimeter checks contrasted wit
 It is written to aid auditors and SAR reviewers in identifying potential fork anomalies.  
 
 > 📡 Cross-references:  
-> - [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
+> - [👾 Fork Anomaly Hypothesis — X, Y, Z](./👾_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
 > - [👾 Harassment Misidentification Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
