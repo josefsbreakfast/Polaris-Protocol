@@ -114,10 +114,14 @@ Shows how STEM suppression, luxury scandals, AI fragility, and political fallout
 
 ![💸 Risk Matrix — Cost of a Closed Mouth](./risk_matrix_cost_closed_mouth.png)  
 
+---
+
 **📉 Cumulative Cost Drag Curve**  
 10-year horizon comparing hush payouts (flat line) against systemic drag across sectors.   
 
 ![📉 Sector-Sliced Drag Curve](./drag_curve_closed_mouth.png)  
+
+---
 
 **📉 Sector-Sliced Drag Curve**  
 10-year horizon comparing hush payouts (flat line) against systemic drag across sectors.  
