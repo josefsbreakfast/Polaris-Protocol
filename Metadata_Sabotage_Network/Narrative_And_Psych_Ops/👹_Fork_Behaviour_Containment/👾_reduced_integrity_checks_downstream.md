@@ -8,7 +8,7 @@
 
 ## Observed Behaviour  
 
-- During save/commit attempts (see related [theory and commit report](./👾 _fork_anomaly_hypothesis_XYZ_2025-09-09.md), the system blocked or mutated filenames at the security boundary.  
+- During save/commit attempts (see related [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)), the system blocked or mutated filenames at the security boundary.  
 - However, once the barrier was passed, downstream handling of records appeared to accept changes with **reduced integrity checks**.  
 - This suggests that **internal layers are softer than the access perimeter**: after validation, edits and re-bindings may occur without the same level of audit or resistance.  
 
@@ -40,8 +40,11 @@ It situates an observed system fragility: strong perimeter checks contrasted wit
 It is written to aid auditors and SAR reviewers in identifying potential fork anomalies.  
 
 > 📡 Cross-references:  
-> - [👾 Fork Anomaly Hypothesis — X, Y, Z](./👾_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
-> - [👾 Harassment Misidentification Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
+> - [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
+> - [👾 Harassment, Misidentification, and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
+> - [👾 Reduced Integrity Checks Downstream — Auditor Examples](./👾_reduced_integrity_checks_downstream_auditor_examples.md)  
+
+🏮 Return to [Fork Behaviour Containment](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
