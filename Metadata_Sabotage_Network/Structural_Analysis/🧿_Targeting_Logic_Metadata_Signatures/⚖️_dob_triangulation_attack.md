@@ -1,5 +1,5 @@
 # ⚖️ DOB Triangulation Attack  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-06  
+**First created:** 2025-09-07 | **Last updated:** 2025-09-10
 *How attackers can reconstruct date of birth from indirect fragments (age context, astrological signs, public metadata).*  
 
 ---
@@ -65,4 +65,4 @@ It demonstrates how indirect fragments enable reconstruction of date of birth, r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-09-10_  
