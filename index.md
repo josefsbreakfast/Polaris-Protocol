@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 17:32:18 UTC_
+_Generated on 2025-09-10 17:35:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -112,6 +112,7 @@ _Generated on 2025-09-10 17:32:18 UTC_
       - [`📜_ethics_as_language_trap.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/📜_ethics_as_language_trap.md)
       - [`🕸️_safeguarding_obedience_division.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🕸️_safeguarding_obedience_division.md)
       - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
+      - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
     - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/README.md)
       - [`☕🫖_uk_gov_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
@@ -597,7 +598,6 @@ _Generated on 2025-09-10 17:32:18 UTC_
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
     - [`🪞_smoothed_content_blink_twice.md`](Polaris_Nest/Git_Intake_Drawer/🪞_smoothed_content_blink_twice.md)
     - [`🪞_twinned_silence.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twinned_silence.md)
-    - [`🪢_contact_dials.md`](Polaris_Nest/Git_Intake_Drawer/🪢_contact_dials.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
