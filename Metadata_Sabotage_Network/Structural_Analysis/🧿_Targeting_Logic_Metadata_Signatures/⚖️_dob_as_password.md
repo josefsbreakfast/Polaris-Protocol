@@ -1,5 +1,5 @@
 # ⚖️ DOB as Password  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-06  
+**First created:** 2025-09-07 | **Last updated:** 2025-09-10
 *How date of birth functions like a banking password — because it can be used to unlock or back-calculate unique identifiers.*  
 
 ---
@@ -76,4 +76,4 @@ It frames date of birth as a credential equivalent to a password — demonstrati
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-09-10_  
