@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 13:20:34 UTC_
+_Generated on 2025-09-10 17:30:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -135,6 +135,7 @@ _Generated on 2025-09-10 13:20:34 UTC_
       - [`Counter-Nudge Map: Who to Rattle for Justice.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/Counter-Nudge Map: Who to Rattle for Justice.png)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/README.md)
       - [`Triple Lock Suppression Diagram (Hypothesis).png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/Triple Lock Suppression Diagram (Hypothesis).png)
+      - [`☄️_undermining_scripts.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/☄️_undermining_scripts.md)
       - [`🌀_exhaustion_as_a_containment_layer.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md)
       - [`🌀_recognition_without_resolution.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_recognition_without_resolution.md)
       - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
@@ -491,7 +492,6 @@ _Generated on 2025-09-10 13:20:34 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`☄️_undermining_scripts.md`](Polaris_Nest/Git_Intake_Drawer/☄️_undermining_scripts.md)
     - [`⚖️_deadlock_scenarios_in_suppression_operations.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_deadlock_scenarios_in_suppression_operations.md)
     - [`⚖️_dob_as_password.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dob_as_password.md)
     - [`⚖️_dob_triangulation_attack.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dob_triangulation_attack.md)
