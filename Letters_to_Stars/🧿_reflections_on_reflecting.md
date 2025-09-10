@@ -18,6 +18,8 @@ Demonising the thought process, at a time of burgeoning security budgeting, and 
 
 Surely that, is what is “mad”?
 
+<!--Someone may wish to inform the trigger-happy amongst us, that I do not experience this symptomatology; kindly add the "extra NHS toast" package on your way out of my health data.-->
+
 ---
 
 ## 🏮 Footer  
