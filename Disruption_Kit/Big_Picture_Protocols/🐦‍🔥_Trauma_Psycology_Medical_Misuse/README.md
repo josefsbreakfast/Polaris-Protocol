@@ -1,8 +1,6 @@
-# 🐦‍🔥 Trauma, Psychology & Medical Misuse  
-
-**First created:** 2025-08-27 | **Last updated:** 2025-08-30
-
-*How trauma, medicine, and psychology are misused for containment, commodification, and cloning.*  
+# 🐦‍🔥 Trauma, Psychology, & Medical Misuse  
+**First created:** 2025-08-27 | **Last updated:** 2025-09-10 <br>
+*How trauma, medicine, and psychology are misused for containment, commodification, and cloning*  
 
 ---
 
@@ -57,7 +55,7 @@ It exposes commodification of trauma, misuse of diagnostic categories, and the w
 - [🎻 Clash of Forks](🎻_clash_of_forks.md)  
   *When multiple forks collide — and the fractures that follow.*
   
-  - [🪞 Twinned Silence](./🪞_twinned_silence.md) <br>
+- [🪞 Twinned Silence](./🪞_twinned_silence.md) <br>
   *How paired witnesses are groomed to cancel each other out.*
 
 ---
@@ -135,5 +133,5 @@ It gathers together doctrines on how trauma and medicine are systematically repu
 
 🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)
 
-_Last updated: 2025-08-30_
+_Last updated: 2025-09-10_
 
