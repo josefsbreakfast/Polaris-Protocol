@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 18:09:28 UTC_
+_Generated on 2025-09-10 18:13:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -311,6 +311,7 @@ _Generated on 2025-09-10 18:09:28 UTC_
       - [`🧬_system_rupture_events_explainer.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_events_explainer.md)
       - [`🧬_system_rupture_log.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.md)
       - [`🧬_system_rupture_log.yaml`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.yaml)
+      - [`🧾_briefing_note_oversight_failure_triple_lock.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_briefing_note_oversight_failure_triple_lock.md)
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
@@ -596,7 +597,6 @@ _Generated on 2025-09-10 18:09:28 UTC_
     - [`🧬_untwinning_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_untwinning_data.md)
     - [`🧬_when_twins_meet.md`](Polaris_Nest/Git_Intake_Drawer/🧬_when_twins_meet.md)
     - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🧭_uk_tech_talent_scaling_policy_timeline.md)
-    - [`🧾_briefing_note_triple_lock_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧾_briefing_note_triple_lock_failure.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
