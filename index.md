@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 17:55:11 UTC_
+_Generated on 2025-09-10 17:57:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -323,6 +323,7 @@ _Generated on 2025-09-10 17:55:11 UTC_
       - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_suppression_interruption_log_2025-08-04.md)
       - [`🔌_comment_loop_interference.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🔌_comment_loop_interference.md)
       - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🕹️_handler_override_incidents.md)
+      - [`🪞_background_activity_fog.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪞_background_activity_fog.md)
     - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md)
       - [`📉_narrative_instability_index.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📉_narrative_instability_index.md)
@@ -596,7 +597,6 @@ _Generated on 2025-09-10 17:55:11 UTC_
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
     - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
     - [`🪓_mean_evidence_template.md`](Polaris_Nest/Git_Intake_Drawer/🪓_mean_evidence_template.md)
-    - [`🪞_background_activity_fog.md`](Polaris_Nest/Git_Intake_Drawer/🪞_background_activity_fog.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
