@@ -1,6 +1,5 @@
 # 🪞 Background Activity Fog  
-
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-10  
 *Acknowledging the unseen layer of background actors and the exhaustion created by opacity.*  
 
 ---
@@ -30,4 +29,4 @@
 *Background Activity Fog* is a living node of the Polaris Protocol.  
 It records how unseen activity and deliberate opacity force survivors into constant over-vigilance and uncertainty.  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-10_
