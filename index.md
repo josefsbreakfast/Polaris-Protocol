@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 18:06:50 UTC_
+_Generated on 2025-09-10 18:07:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -237,6 +237,7 @@ _Generated on 2025-09-10 18:06:50 UTC_
   - [`🗄️_desk_tactical_terrain.md`](Letters_to_Stars/🗄️_desk_tactical_terrain.md)
   - [`🚪_it_does_not_need_a_real_raid.md`](Letters_to_Stars/🚪_it_does_not_need_a_real_raid.md)
   - [`🛰️_signal_report_2025_08.md`](Letters_to_Stars/🛰️_signal_report_2025_08.md)
+  - [`🧿_half_the_torture.md`](Letters_to_Stars/🧿_half_the_torture.md)
   - [`🧿_i_wish_for_safety.md`](Letters_to_Stars/🧿_i_wish_for_safety.md)
   - [`🧿_visibility_log_polaris_day_1.md`](Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
   - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
@@ -596,7 +597,6 @@ _Generated on 2025-09-10 18:06:50 UTC_
     - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🧭_uk_tech_talent_scaling_policy_timeline.md)
     - [`🧾_briefing_note_triple_lock_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧾_briefing_note_triple_lock_failure.md)
     - [`🧿_divination_as_gendered_data_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧿_divination_as_gendered_data_pipeline.md)
-    - [`🧿_half_the_torture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_half_the_torture.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
