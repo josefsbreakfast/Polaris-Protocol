@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 18:22:30 UTC_
+_Generated on 2025-09-10 18:53:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -506,6 +506,7 @@ _Generated on 2025-09-10 18:22:30 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
+    - [`☢️_danger_zone_radiation_of_harm.md`](Polaris_Nest/Git_Intake_Drawer/☢️_danger_zone_radiation_of_harm.md)
     - [`⚖️_deadlock_scenarios_in_suppression_operations.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_deadlock_scenarios_in_suppression_operations.md)
     - [`⚖️_fixivist_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_fixivist_chain_of_command.md)
     - [`⚖️_industrialised_spoofing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_industrialised_spoofing.md)
@@ -559,6 +560,8 @@ _Generated on 2025-09-10 18:22:30 UTC_
     - [`📂_racialised_projection_as_harassment.md`](Polaris_Nest/Git_Intake_Drawer/📂_racialised_projection_as_harassment.md)
     - [`📂_witness_pairing_and_projection.md`](Polaris_Nest/Git_Intake_Drawer/📂_witness_pairing_and_projection.md)
     - [`📊_kpi_vs_okr_in_government.md`](Polaris_Nest/Git_Intake_Drawer/📊_kpi_vs_okr_in_government.md)
+    - [`📍_postcode_harm_ecology.md`](Polaris_Nest/Git_Intake_Drawer/📍_postcode_harm_ecology.md)
+    - [`📚_student_default_faultline.md`](Polaris_Nest/Git_Intake_Drawer/📚_student_default_faultline.md)
     - [`📜_uk_data_bill_2025.md`](Polaris_Nest/Git_Intake_Drawer/📜_uk_data_bill_2025.md)
     - [`📜_uk_house_of_lords_2025.md`](Polaris_Nest/Git_Intake_Drawer/📜_uk_house_of_lords_2025.md)
     - [`📡_metadata_scrutiny_uk.md`](Polaris_Nest/Git_Intake_Drawer/📡_metadata_scrutiny_uk.md)
@@ -566,6 +569,7 @@ _Generated on 2025-09-10 18:22:30 UTC_
     - [`🔥_anger_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_anger_as_signal.md)
     - [`🔥_guardrails_are_political.md`](Polaris_Nest/Git_Intake_Drawer/🔥_guardrails_are_political.md)
     - [`🔮_challenge_of_ai.md`](Polaris_Nest/Git_Intake_Drawer/🔮_challenge_of_ai.md)
+    - [`🕯️_witness_node_cost_of_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_witness_node_cost_of_mapping.md)
     - [`🕵️_harassment_vs_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🖨️_print_culture_as_precedent.md`](Polaris_Nest/Git_Intake_Drawer/🖨️_print_culture_as_precedent.md)
@@ -585,6 +589,7 @@ _Generated on 2025-09-10 18:22:30 UTC_
     - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](Polaris_Nest/Git_Intake_Drawer/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
     - [`🧃_tiktok_twinning_petri_dish.md`](Polaris_Nest/Git_Intake_Drawer/🧃_tiktok_twinning_petri_dish.md)
     - [`🧠_brain_encoding_endings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_brain_encoding_endings.md)
+    - [`🧨_counter_nudge_testimony.md`](Polaris_Nest/Git_Intake_Drawer/🧨_counter_nudge_testimony.md)
     - [`🧨_procedural_wait_your_turn.md`](Polaris_Nest/Git_Intake_Drawer/🧨_procedural_wait_your_turn.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧪_adversary_playbook_twinning_outliers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_adversary_playbook_twinning_outliers.md)
