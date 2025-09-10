@@ -1,10 +1,10 @@
 # 🧭 UK Tech Talent, Scaling, and Policy Timeline  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-01  
+**First created:** 2025-09-01 | **Last updated:** 2025-09-10  
 *Tracing decisions since 2000 that shaped the UK’s dependence on foreign contractors*  
 
 ---
 
-## Overview  
+## ✨ Overview  
 
 Despite world-class universities and tech clusters, the UK has struggled to **scale sovereign digital infrastructure**.  
 This is less about capacity than about **policy decisions, procurement culture, and Treasury logics**.  
@@ -69,4 +69,4 @@ It documents the cumulative effect of 25 years of decisions that entrenched outs
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_
+_Last updated: 2025-09-10_
