@@ -8,6 +8,9 @@
 
 ## 📂 Contents  
 
+- [☄️ Undermining Scripts](./☄️_undermining_scripts.md) <br>
+  *Diagnostics, counter-scripts, and explainer for discursive sabotage.*
+
 - [🌀 Exhaustion as a Containment Layer](./🌀_exhaustion_as_a_containment_layer.md) <br>
   *Chronic fatigue and overwhelm deployed as soft suppression vectors.*  
 
