@@ -23,7 +23,7 @@
 - The invisible guardrails are only noticeable because of persistence in “pushing against them.”  
 - They are felt as suppression, even when the legal justification (if any) is unrelated.  
 
-![Suppression Experience Spectrum](./suppression_experience_spectrum_tagged.png)  
+![Suppression Experience Spectrum](./suppression_experience_spectrum.png)  
 
 This chart illustrates how different groups experience varying intensity of surveillance/guardrails.  
 - **Casual users**: low-level, rarely notice.  
