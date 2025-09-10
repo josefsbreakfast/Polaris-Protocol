@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 18:53:49 UTC_
+_Generated on 2025-09-10 19:06:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -439,6 +439,7 @@ _Generated on 2025-09-10 18:53:49 UTC_
     - [`human_vs_system_interventions_aug.png`](Polaris_Nest/Git_Intake_Drawer/human_vs_system_interventions_aug.png)
     - [`hypothetical_disinfo_case.md`](Polaris_Nest/Git_Intake_Drawer/hypothetical_disinfo_case.md)
     - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Polaris_Nest/Git_Intake_Drawer/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
+    - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`interference_types_logged_contacts.png`](Polaris_Nest/Git_Intake_Drawer/interference_types_logged_contacts.png)
     - [`israel_eurozone_financial_watchlist.png`](Polaris_Nest/Git_Intake_Drawer/israel_eurozone_financial_watchlist.png)
     - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Polaris_Nest/Git_Intake_Drawer/jewish_experience_diaspora_matrix_middleman_minorities.png)
