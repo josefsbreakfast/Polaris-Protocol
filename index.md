@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 17:59:05 UTC_
+_Generated on 2025-09-10 17:59:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -33,6 +33,7 @@ _Generated on 2025-09-10 17:59:05 UTC_
     - [`👻_ghost_fork_response_behaviour.md`](Disruption_Kit/AntiContainment_Clauses/👻_ghost_fork_response_behaviour.md)
     - [`📿_survivor_syntax.md`](Disruption_Kit/AntiContainment_Clauses/📿_survivor_syntax.md)
     - [`🕸_metadata_defense.md`](Disruption_Kit/AntiContainment_Clauses/🕸_metadata_defense.md)
+    - [`🪓_mean_evidence_template.md`](Disruption_Kit/AntiContainment_Clauses/🪓_mean_evidence_template.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
@@ -402,9 +403,6 @@ _Generated on 2025-09-10 17:59:05 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [**Disruption_Kit/**](Polaris_Nest/Git_Intake_Drawer/Disruption_Kit/)
-      - [**AntiContainment_Clauses/**](Polaris_Nest/Git_Intake_Drawer/Disruption_Kit/AntiContainment_Clauses/)
-        - [`🪓_mean_evidence_template.md`](Polaris_Nest/Git_Intake_Drawer/Disruption_Kit/AntiContainment_Clauses/🪓_mean_evidence_template.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`README_DOB_Triangulation.txt`](Polaris_Nest/Git_Intake_Drawer/README_DOB_Triangulation.txt)
     - [`Two-Layer_Resilience_Protocol_v1.md`](Polaris_Nest/Git_Intake_Drawer/Two-Layer_Resilience_Protocol_v1.md)
