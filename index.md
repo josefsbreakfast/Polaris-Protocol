@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 18:17:36 UTC_
+_Generated on 2025-09-10 18:18:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -320,6 +320,7 @@ _Generated on 2025-09-10 18:17:36 UTC_
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
       - [`README_DOB_Triangulation.txt`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README_DOB_Triangulation.txt)
+      - [`dob_triangulation_1950_2000_template.csv`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/dob_triangulation_1950_2000_template.csv)
       - [`⚖️_dob_as_password.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_as_password.md)
       - [`⚖️_dob_triangulation_attack.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_attack.md)
       - [`⚖️_dob_triangulation_table.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_table.md)
@@ -427,7 +428,6 @@ _Generated on 2025-09-10 18:17:36 UTC_
     - [`data_misuse_continuum_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart.png)
     - [`data_misuse_continuum_flowchart_detailed.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart_detailed.png)
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
-    - [`dob_triangulation_1950_2000_template.csv`](Polaris_Nest/Git_Intake_Drawer/dob_triangulation_1950_2000_template.csv)
     - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/Git_Intake_Drawer/dopamine_induction_emotional_alignment.png)
     - [`dual_use_tech_procurement_theorised.png`](Polaris_Nest/Git_Intake_Drawer/dual_use_tech_procurement_theorised.png)
     - [`fork_ghost_human_24h.png`](Polaris_Nest/Git_Intake_Drawer/fork_ghost_human_24h.png)
