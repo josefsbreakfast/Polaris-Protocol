@@ -55,7 +55,10 @@ It exposes commodification of trauma, misuse of diagnostic categories, and the w
   *The logics behind audio capture and voiceprint extraction.*  
 
 - [🎻 Clash of Forks](🎻_clash_of_forks.md)  
-  *When multiple forks collide — and the fractures that follow.*  
+  *When multiple forks collide — and the fractures that follow.*
+  
+  - [🪞 Twinned Silence](./🪞_twinned_silence.md) <br>
+  *How paired witnesses are groomed to cancel each other out.*
 
 ---
 
@@ -88,6 +91,7 @@ I[Twinned signature]:::cve
 J[Clone interference map]:::cve
 K[Clone twinning matrix]:::cve
 L[Twinning fork containment timeline]:::cve
+
 end
 
 %% Flows
