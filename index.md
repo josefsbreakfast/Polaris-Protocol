@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 18:13:52 UTC_
+_Generated on 2025-09-10 18:14:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -319,6 +319,7 @@ _Generated on 2025-09-10 18:13:52 UTC_
       - [`🩻_markers_data_enmeshment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_markers_data_enmeshment.md)
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
+      - [`README_DOB_Triangulation.txt`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README_DOB_Triangulation.txt)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
@@ -409,7 +410,6 @@ _Generated on 2025-09-10 18:13:52 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`README_DOB_Triangulation.txt`](Polaris_Nest/Git_Intake_Drawer/README_DOB_Triangulation.txt)
     - [`Two-Layer_Resilience_Protocol_v1.md`](Polaris_Nest/Git_Intake_Drawer/Two-Layer_Resilience_Protocol_v1.md)
     - [`amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/amplification_by_convergence.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
