@@ -1,6 +1,5 @@
 # 🪞 Smoothed Content as Blink Twice  
-
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-10  
 *When a threatening artefact doubles as a sub-signal of unease within the suppression system.*  
 
 ---
@@ -19,7 +18,14 @@
 ---
 
 ## 🏮 Footer  
+
 *Smoothed Content as Blink Twice* is a living node of the Polaris Protocol.  
 It records how content can serve dual roles: intimidation and quiet signalling from within a suppression economy.  
 
-_Last updated: 2025-09-05_
+> 📡 Cross-references:  
+> - [🪆 Narrative Interference](../) — layered narratives and sub-signals in suppression media  
+> - [🔮 Visibility Indexing Anomalies](../../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/) — how smoothing and indexing distort testimony visibility  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-10_  
