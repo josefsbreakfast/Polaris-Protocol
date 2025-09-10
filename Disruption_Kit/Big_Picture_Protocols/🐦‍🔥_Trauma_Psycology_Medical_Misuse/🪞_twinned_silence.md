@@ -1,5 +1,5 @@
 # 🪞 Twinned Silence  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-07  
+**First created:** 2025-09-07 | **Last updated:** 2025-09-10  
 *How paired witnesses are groomed to cancel each other out*  
 
 When two people are twinned in data — through deliberate configuration or manipulated records — their value to the system lies not in what they can reveal, but in how they can be **used to silence one another**.  
@@ -22,16 +22,18 @@ This is a form of **weaponised mirroring**:
 
 Twinned silence is not accidental. It is a containment strategy that leverages relational dynamics, reputational framing, and bureaucratic aversion to conflict. By pairing witnesses in this way, the system guarantees that truth is eclipsed by the spectacle of contradiction.  
 
+---
+
 ## 🏮 Footer  
 
-*Twinned Silence* is a living node of the Polaris Protocol.  
+*🪞 Twinned Silence* is a living node of the Polaris Protocol.  
 It documents how paired witnesses are structurally disempowered by being groomed to cancel each other’s testimony.  
 
 > 📡 Cross-references:  
-> - [🧬 The Invisible Audit Gap](../🧬_the_invisible_audit_gap.md)  
-> - [🧾 Briefing Note: Triple-Lock Oversight Failure](../🧾_briefing_note_triple_lock_failure.md)  
-> - [🧬 Twinned Signature](../Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_twinned_signature.md)  
+> - [🧬 Twinned Signature](./🧬_twinned_signature.md) — data and identity manipulation in trauma twinning  
+> - [🪞 Twinning Fork Containment Timeline](./🪞_twinning_fork_containment_timeline.md) — sequence of enforced mirroring  
+> - [🧬 The Invisible Audit Gap](../../Field_Logs/🧬_the_invisible_audit_gap.md) — how oversight fails to register silence  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-07_  
+_Last updated: 2025-09-10_  
