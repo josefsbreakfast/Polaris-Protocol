@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 17:57:37 UTC_
+_Generated on 2025-09-10 17:59:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -402,6 +402,9 @@ _Generated on 2025-09-10 17:57:37 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
+    - [**Disruption_Kit/**](Polaris_Nest/Git_Intake_Drawer/Disruption_Kit/)
+      - [**AntiContainment_Clauses/**](Polaris_Nest/Git_Intake_Drawer/Disruption_Kit/AntiContainment_Clauses/)
+        - [`🪓_mean_evidence_template.md`](Polaris_Nest/Git_Intake_Drawer/Disruption_Kit/AntiContainment_Clauses/🪓_mean_evidence_template.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`README_DOB_Triangulation.txt`](Polaris_Nest/Git_Intake_Drawer/README_DOB_Triangulation.txt)
     - [`Two-Layer_Resilience_Protocol_v1.md`](Polaris_Nest/Git_Intake_Drawer/Two-Layer_Resilience_Protocol_v1.md)
@@ -596,7 +599,6 @@ _Generated on 2025-09-10 17:57:37 UTC_
     - [`🧿_half_the_torture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_half_the_torture.md)
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
     - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
-    - [`🪓_mean_evidence_template.md`](Polaris_Nest/Git_Intake_Drawer/🪓_mean_evidence_template.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
