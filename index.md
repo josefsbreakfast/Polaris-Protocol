@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 13:18:29 UTC_
+_Generated on 2025-09-10 13:18:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -572,6 +572,7 @@ _Generated on 2025-09-10 13:18:29 UTC_
     - [`🛰️_university_complicity_protest_suppression_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_university_complicity_protest_suppression_2025-09-05.md)
     - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](Polaris_Nest/Git_Intake_Drawer/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
     - [`🧃_tiktok_twinning_petri_dish.md`](Polaris_Nest/Git_Intake_Drawer/🧃_tiktok_twinning_petri_dish.md)
+    - [`🧠_brain_encoding_endings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_brain_encoding_endings.md)
     - [`🧨_procedural_wait_your_turn.md`](Polaris_Nest/Git_Intake_Drawer/🧨_procedural_wait_your_turn.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧪_adversary_playbook_twinning_outliers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_adversary_playbook_twinning_outliers.md)
