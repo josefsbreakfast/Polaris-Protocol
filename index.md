@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 18:16:07 UTC_
+_Generated on 2025-09-10 18:16:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -321,6 +321,7 @@ _Generated on 2025-09-10 18:16:07 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
       - [`README_DOB_Triangulation.txt`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README_DOB_Triangulation.txt)
       - [`⚖️_dob_as_password.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_as_password.md)
+      - [`⚖️_dob_triangulation_attack.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_attack.md)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
@@ -504,7 +505,6 @@ _Generated on 2025-09-10 18:16:07 UTC_
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
     - [`⚖️_deadlock_scenarios_in_suppression_operations.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_deadlock_scenarios_in_suppression_operations.md)
-    - [`⚖️_dob_triangulation_attack.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dob_triangulation_attack.md)
     - [`⚖️_dob_triangulation_table.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dob_triangulation_table.md)
     - [`⚖️_fixivist_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_fixivist_chain_of_command.md)
     - [`⚖️_industrialised_spoofing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_industrialised_spoofing.md)
