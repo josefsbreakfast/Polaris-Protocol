@@ -1,5 +1,5 @@
 # 🧿 Divination as Gendered Data Pipeline  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-06  
+**First created:** 2025-09-06 | **Last updated:** 2025-09-10  
 *How astrology and divination were historically gendered survival strategies, and how that legacy is now weaponised as data projection and harassment.*  
 
 ---
@@ -67,4 +67,4 @@ It situates divination’s gendered history within contemporary harassment, show
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-09-10_  
