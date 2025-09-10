@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 17:50:00 UTC_
+_Generated on 2025-09-10 17:55:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -298,6 +298,7 @@ _Generated on 2025-09-10 17:50:00 UTC_
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
+      - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
@@ -597,7 +598,6 @@ _Generated on 2025-09-10 17:50:00 UTC_
     - [`🪓_mean_evidence_template.md`](Polaris_Nest/Git_Intake_Drawer/🪓_mean_evidence_template.md)
     - [`🪞_background_activity_fog.md`](Polaris_Nest/Git_Intake_Drawer/🪞_background_activity_fog.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
-    - [`🪞_smoothed_content_blink_twice.md`](Polaris_Nest/Git_Intake_Drawer/🪞_smoothed_content_blink_twice.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
