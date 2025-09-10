@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 13:17:31 UTC_
+_Generated on 2025-09-10 13:18:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -576,6 +576,7 @@ _Generated on 2025-09-10 13:17:31 UTC_
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧪_adversary_playbook_twinning_outliers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_adversary_playbook_twinning_outliers.md)
     - [`🧬_amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🧬_amplification_by_convergence.md)
+    - [`🧬_brains_are_not_flowcharts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_brains_are_not_flowcharts.md)
     - [`🧬_deliberate_data_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_deliberate_data_twinning.md)
     - [`🧬_metadata_twinning_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_twinning_analysis.md)
     - [`🧬_on_twinning_weird_obsession.md`](Polaris_Nest/Git_Intake_Drawer/🧬_on_twinning_weird_obsession.md)
