@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-10 17:59:46 UTC_
+_Generated on 2025-09-10 18:02:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -313,6 +313,7 @@ _Generated on 2025-09-10 17:59:46 UTC_
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
+      - [`🩻_markers_data_enmeshment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_markers_data_enmeshment.md)
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
@@ -596,7 +597,6 @@ _Generated on 2025-09-10 17:59:46 UTC_
     - [`🧿_divination_as_gendered_data_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧿_divination_as_gendered_data_pipeline.md)
     - [`🧿_half_the_torture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_half_the_torture.md)
     - [`🩻_continuum_data_use_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🩻_continuum_data_use_misuse.md)
-    - [`🩻_markers_data_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🩻_markers_data_enmeshment.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
