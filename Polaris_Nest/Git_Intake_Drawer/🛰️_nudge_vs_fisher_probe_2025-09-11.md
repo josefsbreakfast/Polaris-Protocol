@@ -25,8 +25,8 @@ Hypothesis: platform containment logics will “nudge” away from recognising n
   - Equity Research Analyst (City of London)  
   - Records Manager (London)  
   - Economic Researcher (London)  
-  - Healthcare Analyst (London)  
-
+  - Healthcare Analyst (London)
+ 
 ### Interpretation  
 These map directly onto containment pathways:  
 - **Governance proximity:** Executive Assistant → reinsert into admin/oversight loops.  
@@ -43,6 +43,21 @@ These map directly onto containment pathways:
 ### Summary  
 The post triggered both a **containment push (job nudges)** and a **containment watch (managerial viewers + unpaid trainees)**.  
 The system both steers and observes: nudging the survivor toward technocrat tracks while feeding the probe to managers-in-training.  
+
+---
+updated:
+
+## Results  
+
+- **08:59 BST** — Post published (“Corporate needs you to find the difference…”).  
+- **09:13–09:14 BST (+14–15 mins)** — Burst of LinkedIn job nudges (5 roles: Executive Assistant, Equity Research Analyst, Records Manager, Economic Researcher, Healthcare Analyst).  
+- **09:13 BST analytics snapshot** — 14 impressions, 4 members reached. Seniority skew: 40% managers, 40% unpaid, 20% senior.  
+- **09:22 BST (+23 mins)** — Analytics tick up to 25 impressions, 5 members reached, 1 reaction.  
+
+### Interpretation  
+The rapid-fire nudges within 15 minutes suggest a system-level response, not organic drift. The engagement curve (flat until ~+23 mins, then first reaction) supports the reading of containment: immediate steering (jobs) before any community traction.  
+
+
 
 ---
 
