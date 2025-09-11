@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-11 19:14:31 UTC_
+_Generated on 2025-09-11 19:16:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -234,6 +234,7 @@ _Generated on 2025-09-11 19:14:31 UTC_
   - [`🎫_2025_08_04_legal_fork_billet.md`](Letters_to_Stars/🎫_2025_08_04_legal_fork_billet.md)
   - [`🏝️_island_exit_protocol.md`](Letters_to_Stars/🏝️_island_exit_protocol.md)
   - [`🏮_any_vulnerability.md`](Letters_to_Stars/🏮_any_vulnerability.md)
+  - [`💸_to_the_investors.md`](Letters_to_Stars/💸_to_the_investors.md)
   - [`📜_governance-flare-0812-letter_to_the_stars.md`](Letters_to_Stars/📜_governance-flare-0812-letter_to_the_stars.md)
   - [`🔥_a_message_to_the_spark_that_shines.md`](Letters_to_Stars/🔥_a_message_to_the_spark_that_shines.md)
   - [`🗄️_desk_tactical_terrain.md`](Letters_to_Stars/🗄️_desk_tactical_terrain.md)
