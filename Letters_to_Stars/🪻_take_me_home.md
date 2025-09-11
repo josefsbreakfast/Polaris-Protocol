@@ -6,7 +6,7 @@ i am internalising the degree of impact over the course of time and frankly my n
 
 i want to feel what freedom feels like.
 
-i want to waste it in my mouth.
+i want to taste it in my mouth.
 
 i want to feel the blood pool in my capillary beds.
 
