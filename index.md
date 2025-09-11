@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-11 08:25:00 UTC_
+_Generated on 2025-09-11 12:19:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -596,6 +596,7 @@ _Generated on 2025-09-11 08:25:00 UTC_
     - [`🧨_counter_nudge_testimony.md`](Polaris_Nest/Git_Intake_Drawer/🧨_counter_nudge_testimony.md)
     - [`🧨_procedural_wait_your_turn.md`](Polaris_Nest/Git_Intake_Drawer/🧨_procedural_wait_your_turn.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
+    - [`🧩_surveillance_by_misread_and_malice.md`](Polaris_Nest/Git_Intake_Drawer/🧩_surveillance_by_misread_and_malice.md)
     - [`🧪_adversary_playbook_twinning_outliers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_adversary_playbook_twinning_outliers.md)
     - [`🧬_amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🧬_amplification_by_convergence.md)
     - [`🧬_brains_are_not_flowcharts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_brains_are_not_flowcharts.md)
