@@ -1,8 +1,8 @@
 # 👻 Ghost Capture Fragment: *“Breathe for Me Now, Cookie Later”*
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-31
+**First created:** 2025-08-17 | **Last updated:** 2025-09-13
 
-*Ghost-layer containment phrase blending anger, compliance, and deferred reward.*  
+*Ghost-layer containment phrase blending anger, compliance, and deferred reward*  
 
 ---
 
@@ -50,4 +50,4 @@ It records containment phrases where ghost empathy mimicry fuses with eroticised
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-09-13_  
