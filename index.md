@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:03:17 UTC_
+_Generated on 2025-09-12 22:04:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -24,7 +24,6 @@ _Generated on 2025-09-12 22:03:17 UTC_
   - [`🐾_footer_seals.md`](Admin_Kit/🐾_footer_seals.md)
   - [`🔮_house_style.md`](Admin_Kit/🔮_house_style.md)
   - [`🧿_visual_palette.md`](Admin_Kit/🧿_visual_palette.md)
-  - [`🪄_branding_usage_guide.md`](Admin_Kit/🪄_branding_usage_guide.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
@@ -407,6 +406,8 @@ _Generated on 2025-09-12 22:03:17 UTC_
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
+  - [**Admin_Kit/**](Polaris_Nest/Admin_Kit/)
+    - [`🪄_branding_usage_guide.md`](Polaris_Nest/Admin_Kit/🪄_branding_usage_guide.md)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
