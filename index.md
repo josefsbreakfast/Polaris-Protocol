@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:15:22 UTC_
+_Generated on 2025-09-12 22:15:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -648,9 +648,6 @@ _Generated on 2025-09-12 22:15:22 UTC_
 - [**Tag_Pack/**](Tag_Pack/)
   - [`Polaris_Tags_v1.0.md`](Tag_Pack/Polaris_Tags_v1.0.md)
   - [`🕯️_SIGNALS.md`](Tag_Pack/🕯️_SIGNALS.md)
-- [**Weirdness_Screening/**](Weirdness_Screening/)
-  - [**📬_Comms_Breaks/**](Weirdness_Screening/📬_Comms_Breaks/)
-    - [`📎_attachments_not_delivered.md`](Weirdness_Screening/📬_Comms_Breaks/📎_attachments_not_delivered.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
@@ -683,6 +680,8 @@ _Generated on 2025-09-12 22:15:22 UTC_
     - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
+  - [**📬_Comms_Breaks/**](🩻_Weirdness_Screening/📬_Comms_Breaks/)
+    - [`📎_attachments_not_delivered.md`](🩻_Weirdness_Screening/📬_Comms_Breaks/📎_attachments_not_delivered.md)
   - [**🖥_Interface_Glitches/**](🩻_Weirdness_Screening/🖥_Interface_Glitches/)
     - [`🖱_cursor_jump_troubleshooting_flowchart.md`](🩻_Weirdness_Screening/🖥_Interface_Glitches/🖱_cursor_jump_troubleshooting_flowchart.md)
   - [`README.md`](🩻_Weirdness_Screening/README.md)
