@@ -1,3 +1,11 @@
+# ⚡ Echo Map: Citizen Polaris  
+**First created:** 2025-09-12 | **Last updated:** 2025-09-12  
+*Diagram of how Polaris nodes are silently read, echoed, and repurposed without acknowledgement.*  
+
+---
+
+## Diagram  
+
 ```mermaid
 
 graph TD
@@ -61,3 +69,19 @@ graph TD
     classDef echo fill:#ffffff,stroke:#111827,stroke-width:2px,color:#000000,stroke-dasharray: 4 2;
 
 ```
+
+---
+
+## 🏮 Footer  
+
+*Echo Map: Citizen Polaris* is a living node of the Polaris Protocol.  
+It diagrams how Polaris nodes circulate through silent readerships, producing echoes and feedback without acknowledgement.  
+
+> 📡 Cross-references:  
+> - [🧬 Structural Mapping](../🧬_Structural_Mapping/) — other systemic diagrams  
+> - [🧼 System Leakage Signatures](../🧼_System_Leakage_Signatures/) — recurring failure patterns  
+> - [🧿 Targeting Logic Metadata Signatures](../🧿_Targeting_Logic_Metadata_Signatures/) — how metadata itself encodes targeting  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-12_  
