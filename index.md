@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:04:02 UTC_
+_Generated on 2025-09-12 22:04:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -23,7 +23,6 @@ _Generated on 2025-09-12 22:04:02 UTC_
   - [`🎏_dividers_and_headers.md`](Admin_Kit/🎏_dividers_and_headers.md)
   - [`🐾_footer_seals.md`](Admin_Kit/🐾_footer_seals.md)
   - [`🔮_house_style.md`](Admin_Kit/🔮_house_style.md)
-  - [`🧿_visual_palette.md`](Admin_Kit/🧿_visual_palette.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
@@ -407,6 +406,7 @@ _Generated on 2025-09-12 22:04:02 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Admin_Kit/**](Polaris_Nest/Admin_Kit/)
+    - [`🧿_visual_palette.md`](Polaris_Nest/Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/Admin_Kit/🪄_branding_usage_guide.md)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
