@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:27:55 UTC_
+_Generated on 2025-09-12 22:30:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -496,7 +496,6 @@ _Generated on 2025-09-12 22:27:55 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`⚖️_inversion_and_laundering_as_state_technique.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_inversion_and_laundering_as_state_technique.md)
     - [`⚖️_matriarchy_as_requirement.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_matriarchy_as_requirement.md)
     - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
     - [`⚖️_phantom_claim_double_blade.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_double_blade.md)
