@@ -1,6 +1,6 @@
 # 👻 Apparitional Objects  
 **First created:** 2025-09-12 | **Last updated:** 2025-09-12  
-*The shelf for ghosts, forks, 📿 artifacts, and 🦴 skeletons — under construction.*  
+*The shelf for 👻 ghosts, 🍴 forks, 📿 artifacts, and 🦴 skeletons — under construction.*  
 
 ---
 
