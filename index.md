@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:36:20 UTC_
+_Generated on 2025-09-12 22:36:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -22,6 +22,7 @@ _Generated on 2025-09-12 22:36:20 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md)
+      - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_matriarchy_as_requirement.md)
       - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_slapps_uk_global_palestine.md)
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_state_patterns_of_forced_intimacy.md)
@@ -496,7 +497,6 @@ _Generated on 2025-09-12 22:36:20 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`⚖️_matriarchy_as_requirement.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_matriarchy_as_requirement.md)
     - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
     - [`⚖️_phantom_claim_double_blade.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_double_blade.md)
     - [`⚖️_phantom_claim_ripa_escalation.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_phantom_claim_ripa_escalation.md)
