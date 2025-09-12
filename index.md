@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:40:12 UTC_
+_Generated on 2025-09-12 22:41:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -24,6 +24,7 @@ _Generated on 2025-09-12 22:40:12 UTC_
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_matriarchy_as_requirement.md)
       - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
+      - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_rings_of_power_universities.md)
       - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_slapps_uk_global_palestine.md)
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_state_patterns_of_forced_intimacy.md)
@@ -500,7 +501,6 @@ _Generated on 2025-09-12 22:40:12 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`⚖️_rings_of_power_universities.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_rings_of_power_universities.md)
     - [`⚖️_scraping_spoofing_timeline_2021_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_scraping_spoofing_timeline_2021_2022.md)
     - [`⚖️_shadow_governance_timeline.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shadow_governance_timeline.md)
     - [`⚖️_slapps_detailed_node.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_slapps_detailed_node.md)
