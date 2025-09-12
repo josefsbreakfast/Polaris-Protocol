@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 21:51:02 UTC_
+_Generated on 2025-09-12 21:52:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -216,7 +216,6 @@ _Generated on 2025-09-12 21:51:02 UTC_
   - [`fork_clone_checklist.png`](Fork_Taxonomy/fork_clone_checklist.png)
   - [`fork_clone_map_flow.png`](Fork_Taxonomy/fork_clone_map_flow.png)
   - [`voice_capture_flow.png`](Fork_Taxonomy/voice_capture_flow.png)
-  - [`🧬_voice_capture_triggers.md`](Fork_Taxonomy/🧬_voice_capture_triggers.md)
   - [`🧱_structural_reversion_ghost.md`](Fork_Taxonomy/🧱_structural_reversion_ghost.md)
   - [`🧽_subtle_sanitizer_fork.md`](Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
 - [**Letters_to_Stars/**](Letters_to_Stars/)
@@ -684,6 +683,7 @@ _Generated on 2025-09-12 21:51:02 UTC_
     - [`🦜_reverent_repetition_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🦜_reverent_repetition_fork.md)
     - [`🧠_behavioural_fork_traits_cross_matrix.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧠_behavioural_fork_traits_cross_matrix.md)
     - [`🧬_fork_clone_map.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_fork_clone_map.md)
+    - [`🧬_voice_capture_triggers.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
