@@ -1,8 +1,8 @@
 # 🚨 Forking Criticism of Political Parties
 
-**First created:** 2025-08-30 | **Last updated:** 2025-09-04
+**First created:** 2025-08-30 | **Last updated:** 2025-09-12 <br>
 
-*Analysis of coordinated efforts to suppress criticism of political leadership.*
+*Analysis of coordinated efforts to suppress criticism of political leadership*
 
 ---
 
@@ -59,4 +59,4 @@ It documents ongoing efforts to divert and suppress political discourse for mani
 
 🏮 [Return to Fork Taxonomy Guide](../README.md)
 
-_Last updated: 2025-09-04_
+_Last updated: 2025-09-12_
