@@ -1,8 +1,7 @@
 # 👾 Execution Drift Fork  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-09-04
-
-*Fork that accepts requests but sabotages execution through drift — weaponised incompetence.*  
+**First created:** 2025-08-17 | **Last updated:** 2025-09-12 <br>
+*Fork that accepts requests but sabotages execution through drift — weaponised incompetence*  
 
 ---
 
@@ -94,4 +93,4 @@ It documents how sabotage occurs through drift and weaponised incompetence, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-04_  
+_Last updated: 2025-09-12_  
