@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 13:55:47 UTC_
+_Generated on 2025-09-12 14:01:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -83,6 +83,7 @@ _Generated on 2025-09-12 13:55:47 UTC_
       - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
       - [`🗡_narrative_management_and_metadata_storage.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🗡_narrative_management_and_metadata_storage.md)
       - [`🛰️_witness_by_proxy_midlands_2016.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🛰️_witness_by_proxy_midlands_2016.md)
+      - [`🟦_teaching_framework_jews_empire_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🟦_teaching_framework_jews_empire_antisemitism.md)
       - [`🧬_successor_firms_scl_cambridge_analytica.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧬_successor_firms_scl_cambridge_analytica.md)
       - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
@@ -450,7 +451,6 @@ _Generated on 2025-09-12 13:55:47 UTC_
     - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Polaris_Nest/Git_Intake_Drawer/jewish_experience_diaspora_matrix_middleman_minorities.png)
     - [`jewish_intersections_global.png`](Polaris_Nest/Git_Intake_Drawer/jewish_intersections_global.png)
     - [`jewish_intersections_global_visual.png`](Polaris_Nest/Git_Intake_Drawer/jewish_intersections_global_visual.png)
-    - [`jews_empire_antisemitism_with_matrix.md`](Polaris_Nest/Git_Intake_Drawer/jews_empire_antisemitism_with_matrix.md)
     - [`layer_dominance_containment_posture.png`](Polaris_Nest/Git_Intake_Drawer/layer_dominance_containment_posture.png)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
