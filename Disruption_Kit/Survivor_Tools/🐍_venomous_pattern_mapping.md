@@ -1,6 +1,6 @@
 # 🐍 Venomous Pattern Mapping  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-01  
-*A survivor-led protocol for identifying, cataloguing, and neutralising coercive behavioural patterns deployed in containment environments.*  
+**First created:** 2025-09-01 | **Last updated:** 2025-09-13   
+*A survivor-led protocol for identifying, cataloguing, and neutralising coercive behavioural patterns deployed in containment environments*  
 
 ---
 
@@ -71,4 +71,4 @@ It catalogues coercive behavioural tactics, equipping survivors to name, refuse,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_  
+_Last updated: 2025-09-13_  
