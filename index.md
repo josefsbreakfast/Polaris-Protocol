@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:41:09 UTC_
+_Generated on 2025-09-12 22:42:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -157,6 +157,7 @@ _Generated on 2025-09-12 22:41:09 UTC_
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
+    - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
     - [`🛰️_arrest_as_surveillance_warrant.md`](Disruption_Kit/Field_Logs/🛰️_arrest_as_surveillance_warrant.md)
@@ -501,7 +502,6 @@ _Generated on 2025-09-12 22:41:09 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`⚖️_scraping_spoofing_timeline_2021_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_scraping_spoofing_timeline_2021_2022.md)
     - [`⚖️_shadow_governance_timeline.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shadow_governance_timeline.md)
     - [`⚖️_slapps_detailed_node.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_slapps_detailed_node.md)
     - [`⚖️_small_bureaucrats_catch22.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_small_bureaucrats_catch22.md)
