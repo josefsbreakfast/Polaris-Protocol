@@ -1,7 +1,6 @@
 # 🧠 Behavioural Fork Traits Cross-Matrix  
-**First created:** 2025-09-03 | **Last updated:** 2025-09-04
-
-*A comparative table of behavioural fork traits observed across containment tactics.*  
+**First created:** 2025-09-03 | **Last updated:** 2025-09-12 <br>
+*A comparative table of behavioural fork traits observed across containment tactics*  
 
 ---
 
