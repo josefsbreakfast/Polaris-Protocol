@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:20:47 UTC_
+_Generated on 2025-09-12 22:26:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -407,6 +407,10 @@ _Generated on 2025-09-12 22:20:47 UTC_
     - [`🔮_house_style.md`](Polaris_Nest/Admin_Kit/🔮_house_style.md)
     - [`🧿_visual_palette.md`](Polaris_Nest/Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/Admin_Kit/🪄_branding_usage_guide.md)
+  - [**Disruption_Kit/**](Polaris_Nest/Disruption_Kit/)
+    - [**Containment_Scripts/**](Polaris_Nest/Disruption_Kit/Containment_Scripts/)
+      - [**Suppression_Modes/**](Polaris_Nest/Disruption_Kit/Containment_Scripts/Suppression_Modes/)
+        - [`⚖️_institution_conflict_origin_2022.md`](Polaris_Nest/Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_institution_conflict_origin_2022.md)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
@@ -495,7 +499,6 @@ _Generated on 2025-09-12 22:20:47 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`⚖️_institution_conflict_origin_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institution_conflict_origin_2022.md)
     - [`⚖️_inversion_and_laundering_as_state_technique.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_inversion_and_laundering_as_state_technique.md)
     - [`⚖️_matriarchy_as_requirement.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_matriarchy_as_requirement.md)
     - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
