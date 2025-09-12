@@ -1,5 +1,4 @@
-
-# Two‑Layer Resilience Protocol (v1)
+# 🍃 Two‑Layer Resilience Protocol
 **Context:** Overlapping/paired data streams, deliberate “inserts,” and a fragile, politicized tech stack. Goal: protect **you** (micro) and your **operations/data** (macro) without burning out.
 
 ---
