@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 14:01:57 UTC_
+_Generated on 2025-09-12 14:07:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -91,6 +91,7 @@ _Generated on 2025-09-12 14:01:57 UTC_
       - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
       - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
       - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
+      - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
       - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
       - [`📩_ghost_vs_haunting_chart_2025-08-12.csv`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📩_ghost_vs_haunting_chart_2025-08-12.csv)
       - [`🕯️_containment_through_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🕯️_containment_through_loneliness.md)
@@ -443,7 +444,6 @@ _Generated on 2025-09-12 14:01:57 UTC_
     - [`frankenstack_faceplate.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_faceplate.png)
     - [`full_report_metrics_with_flips_annotated.png`](Polaris_Nest/Git_Intake_Drawer/full_report_metrics_with_flips_annotated.png)
     - [`human_vs_system_interventions_aug.png`](Polaris_Nest/Git_Intake_Drawer/human_vs_system_interventions_aug.png)
-    - [`hypothetical_disinfo_case.md`](Polaris_Nest/Git_Intake_Drawer/hypothetical_disinfo_case.md)
     - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Polaris_Nest/Git_Intake_Drawer/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`interference_types_logged_contacts.png`](Polaris_Nest/Git_Intake_Drawer/interference_types_logged_contacts.png)
