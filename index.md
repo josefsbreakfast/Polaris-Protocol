@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:12:17 UTC_
+_Generated on 2025-09-12 22:14:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -653,7 +653,6 @@ _Generated on 2025-09-12 22:12:17 UTC_
     - [`📎_attachments_not_delivered.md`](Weirdness_Screening/📬_Comms_Breaks/📎_attachments_not_delivered.md)
   - [**🖥_Interface_Glitches/**](Weirdness_Screening/🖥_Interface_Glitches/)
     - [`🖱_cursor_jump_troubleshooting_flowchart.md`](Weirdness_Screening/🖥_Interface_Glitches/🖱_cursor_jump_troubleshooting_flowchart.md)
-  - [`README.md`](Weirdness_Screening/README.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
@@ -685,5 +684,7 @@ _Generated on 2025-09-12 22:12:17 UTC_
     - [`🧱_structural_reversion_ghost.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧱_structural_reversion_ghost.md)
     - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
+- [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
+  - [`README.md`](🩻_Weirdness_Screening/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
