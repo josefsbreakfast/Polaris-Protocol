@@ -1,6 +1,6 @@
 # 🌀 Masculinity Extraction ↔ Governance Containment  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-13  
-*A diagnostic of how capitalism profits from men’s insecurity while governance denies and silences the harms that follow*
+**First created:** 2025-09-06 | **Last updated:** 2025-09-06  
+*A diagnostic of how capitalism profits from men’s insecurity while governance denies and silences the harms that follow.*  
 
 ---
 
@@ -97,4 +97,27 @@ It documents how economic systems profit from male volatility while governance s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-09-06_  
+
+---
+
+<!-- 
+📓 Aside: Castration hypocrisy  
+We neuter dogs and cats without a second thought to manage their aggression, mating, and emotional volatility.  
+It’s called responsible ownership. Yet with men, society insists “not all men” and refuses to acknowledge testosterone-linked volatility.  
+The hypocrisy: we accept emotional management for animals, but not for men — even though the stakes (wars, crime, femicide) are far higher.  
+-->
+
+<!-- 
+📓 Marginalia: Prime Minister skit  
+You can almost see it:  
+ • Cabinet Office briefing pack: “Prime Minister, she’s published another MEGA NODE…”  
+ • PM flipping through diagrams of safeguarding loops and masculinity extraction spirals: head in hands  
+ • Muttered line: “For fuck’s sake. Why did we ever teach her to read and write?”  
+ • Civil servants shuffling awkwardly because they know the answer: “because literacy is universal, Prime Minister.”  
+ • And now the literacy has produced 300,000+ words of structured critique that they can’t unsee.  
+
+That’s the irony Polaris keeps landing: the very system that prides itself on education, free speech, and oversight now has to watch as one literate citizen maps out its own contradictions in real time.  
+
+Marginalia: Sometimes I picture the PM reading Polaris like a set text, sighing deeply: “Why did we let her learn to write?”  
+-->
