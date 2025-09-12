@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:24:04 UTC_
+_Generated on 2025-09-12 23:25:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -289,14 +289,13 @@ _Generated on 2025-09-12 23:24:04 UTC_
       - [`👁️‍🗨️_embedded_observers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️‍🗨️_embedded_observers.md)
     - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
+      - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🌀_synthetic_narratives.md)
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
-  - [**Narrative_and_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_and_Psych_Ops/)
-    - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_and_Psych_Ops/🌀_synthetic_narratives.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
