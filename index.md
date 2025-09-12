@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:54:41 UTC_
+_Generated on 2025-09-12 22:55:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -139,6 +139,7 @@ _Generated on 2025-09-12 22:54:41 UTC_
       - [`⚖️_institution_conflict_origin_2022.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_institution_conflict_origin_2022.md)
       - [`⚖️_phantom_claim_double_blade.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_phantom_claim_double_blade.md)
       - [`⚖️_phantom_claim_ripa_escalation.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_phantom_claim_ripa_escalation.md)
+      - [`⚖️_universal_spoof_burden.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_universal_spoof_burden.md)
       - [`🌀_exhaustion_as_a_containment_layer.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md)
       - [`🌀_recognition_without_resolution.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_recognition_without_resolution.md)
       - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
@@ -506,7 +507,6 @@ _Generated on 2025-09-12 22:54:41 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`⚖️_universal_spoof_burden.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_universal_spoof_burden.md)
     - [`⚖️_wrong_people_in_power.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_wrong_people_in_power.md)
     - [`⚡️_citizen_polaris.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_citizen_polaris.md)
     - [`➰_casefile_forever_containment_cohorts.md`](Polaris_Nest/Git_Intake_Drawer/➰_casefile_forever_containment_cohorts.md)
