@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 21:12:23 UTC_
+_Generated on 2025-09-12 21:34:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -682,5 +682,7 @@ _Generated on 2025-09-12 21:12:23 UTC_
     - [`merge_harm_log.ps1`](scripts/maintenance/merge_harm_log.ps1)
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
+- [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
+  - [`README.md`](👻_Apparitional_Objects/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
