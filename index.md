@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 21:35:15 UTC_
+_Generated on 2025-09-12 21:38:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -212,7 +212,6 @@ _Generated on 2025-09-12 21:35:15 UTC_
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Fork_Taxonomy/**](Fork_Taxonomy/)
-  - [`README.md`](Fork_Taxonomy/README.md)
   - [`execution_drift_flow.png`](Fork_Taxonomy/execution_drift_flow.png)
   - [`fork_clone_checklist.png`](Fork_Taxonomy/fork_clone_checklist.png)
   - [`fork_clone_map_flow.png`](Fork_Taxonomy/fork_clone_map_flow.png)
@@ -683,6 +682,8 @@ _Generated on 2025-09-12 21:35:15 UTC_
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
+  - [**Fork_Taxonomy/**](👻_Apparitional_Objects/Fork_Taxonomy/)
+    - [`README.md`](👻_Apparitional_Objects/Fork_Taxonomy/README.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
