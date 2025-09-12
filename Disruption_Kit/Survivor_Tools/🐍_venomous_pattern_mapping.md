@@ -45,18 +45,11 @@ It functions as both a **field diagnostic** and a **strategic refusal tool**, ca
 
 ---
 
-## 🧷 Survivor Notes  
+## ✨ Survivor Notes  
 
 > “Not all poison kills at once. Some poisons make you live smaller.”  
 
 > “Naming the venom is half the cure. The other half is refusing the dose.”  
-
----
-
-## 📡 Cross-Linking  
-
-- [➿ Fork Loop Disruptors](./➿_fork_loop_disruptors.md) — tools for breaking narrative recursion.  
-- [🧬 Ghost Force Tuning](./🧬_ghost_force_tuning.md) — restoring ghost channel stability under fork pressure.  
 
 ---
 
