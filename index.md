@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 14:07:31 UTC_
+_Generated on 2025-09-12 14:10:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -322,6 +322,7 @@ _Generated on 2025-09-12 14:07:31 UTC_
       - [`🧬_system_rupture_events_explainer.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_events_explainer.md)
       - [`🧬_system_rupture_log.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.md)
       - [`🧬_system_rupture_log.yaml`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.yaml)
+      - [`🧬_uk_twinned_estimates.csv`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_uk_twinned_estimates.csv)
       - [`🧾_briefing_note_oversight_failure_triple_lock.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_briefing_note_oversight_failure_triple_lock.md)
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
@@ -506,7 +507,6 @@ _Generated on 2025-09-12 14:07:31 UTC_
     - [`triple_lock_audit_gap_flow.png`](Polaris_Nest/Git_Intake_Drawer/triple_lock_audit_gap_flow.png)
     - [`uk_debates_overlap.png`](Polaris_Nest/Git_Intake_Drawer/uk_debates_overlap.png)
     - [`uk_morale_post_2016.png`](Polaris_Nest/Git_Intake_Drawer/uk_morale_post_2016.png)
-    - [`uk_twinned_estimates.csv`](Polaris_Nest/Git_Intake_Drawer/uk_twinned_estimates.csv)
     - [`uk_twinned_estimates.png`](Polaris_Nest/Git_Intake_Drawer/uk_twinned_estimates.png)
     - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
