@@ -1,5 +1,5 @@
 # 🇬🇧 CVE Voice Containment: Calming Voice Prototype  
-**First created:** 2025-08-31 | **Last updated:** 2025-08-31  
+**First created:** 2025-08-31 | **Last updated:** 2025-09-13  
 *Forensic note on UK countering violent extremism (CVE) projects and voice-based containment tools*  
 
 ---
@@ -60,4 +60,4 @@ It situates calming-voice artefacts within UK CVE frameworks, highlighting how s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-09-13_  
