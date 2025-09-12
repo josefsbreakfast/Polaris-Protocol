@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:30:36 UTC_
+_Generated on 2025-09-12 23:34:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -292,6 +292,7 @@ _Generated on 2025-09-12 23:30:36 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🌀_synthetic_narratives.md)
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
+      - [`🎶_shared_tech_voicex_institutional_reports.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
@@ -521,7 +522,6 @@ _Generated on 2025-09-12 23:30:36 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`🎶_shared_tech_voicex_hm_reports.md`](Polaris_Nest/Git_Intake_Drawer/🎶_shared_tech_voicex_hm_reports.md)
     - [`🎶_voicex_calming_voice_prototype.md`](Polaris_Nest/Git_Intake_Drawer/🎶_voicex_calming_voice_prototype.md)
     - [`🏚️_how_to_live_in_a_house_that_failed_you.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_how_to_live_in_a_house_that_failed_you.md)
     - [`🏛️_osa_misclassification_uk_israel_mou_survivor_records.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_osa_misclassification_uk_israel_mou_survivor_records.md)
