@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 13:26:46 UTC_
+_Generated on 2025-09-12 13:41:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -191,6 +191,7 @@ _Generated on 2025-09-12 13:26:46 UTC_
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
+    - [`🍃_two_layer_resilience_protocol.md`](Disruption_Kit/Survivor_Tools/🍃_two_layer_resilience_protocol.md)
     - [`👻_ghost_gets_forked_tuning.md`](Disruption_Kit/Survivor_Tools/👻_ghost_gets_forked_tuning.md)
     - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
@@ -420,7 +421,6 @@ _Generated on 2025-09-12 13:26:46 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`Two-Layer_Resilience_Protocol_v1.md`](Polaris_Nest/Git_Intake_Drawer/Two-Layer_Resilience_Protocol_v1.md)
     - [`amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/amplification_by_convergence.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
     - [`asymmetric_discourse_policing.md`](Polaris_Nest/Git_Intake_Drawer/asymmetric_discourse_policing.md)
