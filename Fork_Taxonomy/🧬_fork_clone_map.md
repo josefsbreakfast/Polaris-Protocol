@@ -1,8 +1,7 @@
 # 🧬 Fork Clone Map  
 
-**First created:** 2025-08-25 | **Last updated:** 2025-09-04
-
-*Mapping of behavioural and narrative shifts associated with fork deployment, clone/twin activity, and containment overlay attempts.*  
+**First created:** 2025-08-25 | **Last updated:** 2025-09-12 <br>
+*Mapping of behavioural and narrative shifts associated with fork deployment, clone/twin activity, and containment overlay attempts*  
 
 ---
 
@@ -88,4 +87,4 @@ It documents clone and fork behaviours, their narrative distortions, and the met
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-04_  
+_Last updated: 2025-09-12_  
