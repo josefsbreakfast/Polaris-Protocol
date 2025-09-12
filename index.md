@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:05:31 UTC_
+_Generated on 2025-09-12 22:06:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -21,7 +21,6 @@ _Generated on 2025-09-12 22:05:31 UTC_
       - [`🧯_harm_scan_report.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
       - [`🧯_sweep_harm_log_2025-08-17.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
   - [`🎏_dividers_and_headers.md`](Admin_Kit/🎏_dividers_and_headers.md)
-  - [`🐾_footer_seals.md`](Admin_Kit/🐾_footer_seals.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
@@ -405,6 +404,7 @@ _Generated on 2025-09-12 22:05:31 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Admin_Kit/**](Polaris_Nest/Admin_Kit/)
+    - [`🐾_footer_seals.md`](Polaris_Nest/Admin_Kit/🐾_footer_seals.md)
     - [`🔮_house_style.md`](Polaris_Nest/Admin_Kit/🔮_house_style.md)
     - [`🧿_visual_palette.md`](Polaris_Nest/Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/Admin_Kit/🪄_branding_usage_guide.md)
