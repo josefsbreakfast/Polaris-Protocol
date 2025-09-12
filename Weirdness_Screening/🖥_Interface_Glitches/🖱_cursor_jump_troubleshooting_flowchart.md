@@ -1,4 +1,4 @@
-# 🖱 Cursor Jump Triage (Mermaid Flowchart)
+# 🖱 Cursor Jump Triage: Flowchart
 **First created:** 2025-09-12 | **Last updated:** 2025-09-12  
 *When the caret leaps: start benign, escalate if patterned, flag if sabotage-class.*
 
