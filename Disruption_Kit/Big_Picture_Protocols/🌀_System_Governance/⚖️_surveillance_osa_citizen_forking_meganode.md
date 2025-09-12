@@ -1,5 +1,5 @@
 # ⚖️ Surveillance, OSA, and Citizen Forking — MEGA NODE  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-12  
 *A longform diagnostic of UK surveillance opacity, cyberforensic spoofing, and why citizens are forked out of their own defence*
 
 ---
@@ -228,27 +228,28 @@ graph LR
     IPCO["📋 Investigatory Powers Commissioner"]:::oversight
     IPT["🏛 Investigatory Powers Tribunal"]:::oversight
 
-    Citizen -. "tw 0.2\\n(indirect capture)" .- DataSources:::weak
-    DataSources -- "tw 0.6\\n(controls + logs, spoofable)" --> Agency
-    Agency -. "tw 0.5\\n(disclosure-limited brief)" .- Minister:::weak
-    Minister -- "tw 0.7\\n(queries possible)" --> Judge
-    Judge -- "tw 0.8\\n(legal scrutiny)" --> IPCO
-    IPCO -- "tw 0.6\\n(sampled audits)" --> IPT
+    Citizen -. "tw 0.2<br/>(indirect capture)" .- DataSources:::weak
+    DataSources -- "tw 0.6<br/>(controls + logs, spoofable)" --> Agency
+    Agency -. "tw 0.5<br/>(disclosure-limited brief)" .- Minister:::weak
+    Minister -- "tw 0.7<br/>(queries possible)" --> Judge
+    Judge -- "tw 0.8<br/>(legal scrutiny)" --> IPCO
+    IPCO -- "tw 0.6<br/>(sampled audits)" --> IPT
 
-    Citizen -. "tw 0.3\\n(secret evidence issues)" .- IPT:::weak
-    Attacker -. "tw —\\n(compromise vector)" .- DataSources:::weak
+    Citizen -. "tw 0.3<br/>(secret evidence issues)" .- IPT:::weak
+    Attacker -. "tw —<br/>(compromise vector)" .- DataSources:::weak
 
-    IPCO -- "tw 0.75\\n(audit access)" --> Agency
-    IPCO -- "tw 0.7\\n(record review)" --> Minister
-    IPT -- "tw 0.65\\n(process check)" --> IPCO
-    IPT -. "tw 0.5\\n(limited remedies)" .- Agency:::weak
+    IPCO -- "tw 0.75<br/>(audit access)" --> Agency
+    IPCO -- "tw 0.7<br/>(record review)" --> Minister
+    IPT -- "tw 0.65<br/>(process check)" --> IPCO
+    IPT -. "tw 0.5<br/>(limited remedies)" .- Agency:::weak
 
-    classDef risk fill=#ffcccc,stroke=#cc0000,stroke-width=2px;
-    classDef threat fill=#ff6666,stroke=#990000,stroke-width=2px;
-    classDef dependent fill=#fff5cc,stroke=#e6b800,stroke-width=2px;
-    classDef oversight fill=#ccffcc,stroke:#009933,stroke-width=2px;
-    classDef neutral fill=#eeeeee,stroke:#999999,stroke-width:1px;
-    classDef weak stroke=#cc0000,stroke-width:2px,stroke-dasharray: 5 5;
+    classDef risk fill:#ffcccc,stroke:#cc0000,stroke-width:2px;
+    classDef threat fill:#ff6666,stroke:#990000,stroke-width:2px;
+    classDef dependent fill:#fff5cc,stroke:#e6b800,stroke-width:2px;
+    classDef oversight fill:#ccffcc,stroke:#009933,stroke-width:2px;
+    classDef neutral fill:#eeeeee,stroke:#999999,stroke-width:1px;
+    classDef weak stroke:#cc0000,stroke-width:2px,stroke-dasharray:5 5;
+
 ```
 
 [🔝 Back to top](#⚖️-surveillance-osa-and-citizen-forking--mega-node)  
@@ -317,4 +318,4 @@ It documents how UK surveillance law, opacity under OSA, and cyberforensic spoof
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-05_  
+_Last updated: 2025-09-12_  
