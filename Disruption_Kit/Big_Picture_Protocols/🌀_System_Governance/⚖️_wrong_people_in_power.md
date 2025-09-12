@@ -1,7 +1,7 @@
 # ⚖️ Wrong People in Power  
 
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*Why suppression operations persist when the authorising class is compromised or unwilling.*  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-12   
+*Why suppression operations persist when the authorising class is compromised or unwilling*  
 
 ---
 
@@ -28,4 +28,4 @@
 *Wrong People in Power* is a living node of the Polaris Protocol.  
 It documents how suppression operations are sustained by political actors who benefit from stalemate.  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-12_
