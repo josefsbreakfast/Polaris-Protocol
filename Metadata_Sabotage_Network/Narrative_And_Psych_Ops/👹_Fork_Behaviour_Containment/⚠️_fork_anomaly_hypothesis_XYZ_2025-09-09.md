@@ -1,6 +1,6 @@
 # ⚠️ Fork Anomaly Hypothesis — X, Y, Z  
 
-**First created:** 2025-09-09 | **Last updated:** 2025-09-09  
+**First created:** 2025-09-09 | **Last updated:** 2025-09-12
 *Hypothesis node: diagnostic mapping of a three-subject harassment inversion showing abnormal fork signals*  
 
 ---
@@ -64,4 +64,4 @@ It situates a working hypothesis on how complaint disappearance, inversion, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-09_  
+_Last updated: 2025-09-12_  
