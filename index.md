@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 20:49:32 UTC_
+_Generated on 2025-09-12 20:52:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -668,6 +668,8 @@ _Generated on 2025-09-12 20:49:32 UTC_
   - [`Polaris_Tags_v1.0.md`](Tag_Pack/Polaris_Tags_v1.0.md)
   - [`🕯️_SIGNALS.md`](Tag_Pack/🕯️_SIGNALS.md)
 - [**Weirdness_Screening/**](Weirdness_Screening/)
+  - [**🖥_Interface_Glitches/**](Weirdness_Screening/🖥_Interface_Glitches/)
+    - [`🖱_cursor_jump_troubleshooting_flowchart.md`](Weirdness_Screening/🖥_Interface_Glitches/🖱_cursor_jump_troubleshooting_flowchart.md)
   - [`README.md`](Weirdness_Screening/README.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
