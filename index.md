@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:38:41 UTC_
+_Generated on 2025-09-12 23:39:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -201,6 +201,7 @@ _Generated on 2025-09-12 23:38:41 UTC_
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
     - [`🍃_two_layer_resilience_protocol.md`](Disruption_Kit/Survivor_Tools/🍃_two_layer_resilience_protocol.md)
+    - [`🐍_venomous_pattern_mapping.md`](Disruption_Kit/Survivor_Tools/🐍_venomous_pattern_mapping.md)
     - [`👻_ghost_gets_forked_tuning.md`](Disruption_Kit/Survivor_Tools/👻_ghost_gets_forked_tuning.md)
     - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
@@ -524,7 +525,6 @@ _Generated on 2025-09-12 23:38:41 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`🐍_venomous_pattern_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🐍_venomous_pattern_mapping.md)
     - [`👻_ghost_capture_fragment.md`](Polaris_Nest/Git_Intake_Drawer/👻_ghost_capture_fragment.md)
     - [`👾_timeline_comparison_ai_data_genocide_uk.md`](Polaris_Nest/Git_Intake_Drawer/👾_timeline_comparison_ai_data_genocide_uk.md)
     - [`💄_hypothetical_disinfo_case.md`](Polaris_Nest/Git_Intake_Drawer/💄_hypothetical_disinfo_case.md)
