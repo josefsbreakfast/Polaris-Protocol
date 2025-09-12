@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:26:13 UTC_
+_Generated on 2025-09-12 23:27:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -517,7 +517,6 @@ _Generated on 2025-09-12 23:26:13 UTC_
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
     - [`🍴_fork_taxonomy_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy_FULL.md)
-    - [`🎓_university_vector_surveillance 2.md`](Polaris_Nest/Git_Intake_Drawer/🎓_university_vector_surveillance 2.md)
     - [`🎓_university_vector_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_university_vector_surveillance.md)
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
