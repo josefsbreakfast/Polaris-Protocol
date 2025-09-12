@@ -1,3 +1,5 @@
+
+
 # ☢️ Danger Zone & Radiation of Harm
 **First created:** 2025-09-10 | **Last updated:** 2025-09-10  
 *Mapping the radiation of harm once systems fail.*
