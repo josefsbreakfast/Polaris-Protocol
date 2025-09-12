@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:07:02 UTC_
+_Generated on 2025-09-12 23:07:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -598,6 +598,7 @@ _Generated on 2025-09-12 23:07:02 UTC_
     - [`⚖️_cease_desist_2025-08-27.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
     - [`⚖️_judge_frankness_marker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md)
     - [`⚖️_stovewood_civil_containment.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_stovewood_civil_containment.md)
+    - [`➰_forever_containment_cohorts_casefile.md`](Polaris_Nest/SCP-VoiceX_Casefiles/➰_forever_containment_cohorts_casefile.md)
     - [`🌟_survivor_star_seeker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🌟_survivor_star_seeker.md)
     - [`🎭_consent_is_not_character.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🎭_consent_is_not_character.md)
     - [`📂_clone_in_the_family.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📂_clone_in_the_family.md)
@@ -630,8 +631,6 @@ _Generated on 2025-09-12 23:07:02 UTC_
   - [`🛠️_survivor_tools_index.md`](Resources/🛠️_survivor_tools_index.md)
   - [`🛰️_forensic_and_osint_tools.md`](Resources/🛰️_forensic_and_osint_tools.md)
   - [`🧾_glossary_and_meta_index.md`](Resources/🧾_glossary_and_meta_index.md)
-- [**SCP-VoiceX_Casefiles/**](SCP-VoiceX_Casefiles/)
-  - [`➰_forever_containment_cohorts_casefile.md`](SCP-VoiceX_Casefiles/➰_forever_containment_cohorts_casefile.md)
 - [**Syntax_Bombs/**](Syntax_Bombs/)
   - [`README.md`](Syntax_Bombs/README.md)
   - [`➰_ghost_loop_interrupters.md`](Syntax_Bombs/➰_ghost_loop_interrupters.md)
