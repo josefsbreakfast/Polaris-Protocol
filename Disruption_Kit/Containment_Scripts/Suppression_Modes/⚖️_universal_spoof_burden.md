@@ -1,7 +1,7 @@
 # ⚖️ Universal Spoof Burden  
 
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*Every person carries spoofed artefacts, with the burden heavier for those deemed “interesting.”*  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-12    
+*Every person carries spoofed artefacts, with the burden heavier for those deemed “interesting”*  
 
 ---
 
@@ -42,4 +42,4 @@
 *Universal Spoof Burden* is a living node of the Polaris Protocol.  
 It captures the industrial reality that spoofing is universal, but falls hardest on those marked as “interesting.” It also identifies how strong ties and informed solidarity can resist the burden.  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-12_
