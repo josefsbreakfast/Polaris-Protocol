@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:52:48 UTC_
+_Generated on 2025-09-12 22:53:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -94,6 +94,7 @@ _Generated on 2025-09-12 22:52:48 UTC_
       - [`🪦_metadata_ghosts_and_hauntings.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🪦_metadata_ghosts_and_hauntings.md)
       - [`🫀_holding_a_weapon_you_don’t_understand.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_don’t_understand.md)
       - [`🫛_amplification_by_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)
+      - [`🫜_asymmetric_discourse_policing.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫜_asymmetric_discourse_policing.md)
       - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)
@@ -115,7 +116,6 @@ _Generated on 2025-09-12 22:52:48 UTC_
       - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
-    - [`🫜_asymmetric_discourse_policing.md`](Disruption_Kit/Big_Picture_Protocols/🫜_asymmetric_discourse_policing.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
