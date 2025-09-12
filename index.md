@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:18:37 UTC_
+_Generated on 2025-09-12 22:19:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -122,8 +122,8 @@ _Generated on 2025-09-12 22:18:37 UTC_
       - [`🪓_mean_evidence_template.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🪓_mean_evidence_template.md)
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/README.md)
-      - [`Triple Lock Suppression Diagram (Hypothesis).png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/Triple Lock Suppression Diagram (Hypothesis).png)
       - [`counter_nudge_map_who_to_rattle_for_justice.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/counter_nudge_map_who_to_rattle_for_justice.png)
+      - [`triple_lock_suppression_diagram_hypothesis.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/triple_lock_suppression_diagram_hypothesis.png)
       - [`☄️_undermining_scripts.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/☄️_undermining_scripts.md)
       - [`☢️_danger_zone_radiation_of_harm.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/☢️_danger_zone_radiation_of_harm.md)
       - [`⚖️_deadlock_scenarios_in_suppression_operations.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_deadlock_scenarios_in_suppression_operations.md)
