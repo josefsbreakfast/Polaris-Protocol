@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:45:51 UTC_
+_Generated on 2025-09-12 23:47:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -112,6 +112,7 @@ _Generated on 2025-09-12 23:45:51 UTC_
       - [`🌀_docility_engine.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
       - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
       - [`💀_necro_jargon_cult.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/💀_necro_jargon_cult.md)
+      - [`💞_ethics_of_nudging_vs_desire.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)
       - [`📜_ethics_as_language_trap.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/📜_ethics_as_language_trap.md)
       - [`🕸️_safeguarding_obedience_division.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🕸️_safeguarding_obedience_division.md)
       - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
@@ -527,7 +528,6 @@ _Generated on 2025-09-12 23:45:51 UTC_
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
     - [`💄_hypothetical_disinfo_case.md`](Polaris_Nest/Git_Intake_Drawer/💄_hypothetical_disinfo_case.md)
-    - [`💞_ethics_of_nudging_vs_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_ethics_of_nudging_vs_desire.md)
     - [`💷_polaris_costing_estimate.md`](Polaris_Nest/Git_Intake_Drawer/💷_polaris_costing_estimate.md)
     - [`💷_potential_tort_exposure.md`](Polaris_Nest/Git_Intake_Drawer/💷_potential_tort_exposure.md)
     - [`💷_procurement_culture_dept_clashes.md`](Polaris_Nest/Git_Intake_Drawer/💷_procurement_culture_dept_clashes.md)
