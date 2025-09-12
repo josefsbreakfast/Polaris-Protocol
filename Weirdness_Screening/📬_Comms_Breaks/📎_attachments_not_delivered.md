@@ -9,16 +9,16 @@
 ```mermaid
 flowchart TD
     A[Attachment visible in draft] --> B{Send to recipient}
-    B -->|Recipient confirms file| C[Done]
+    B -->|Recipient confirms file| C1[✅ Done normal delivery]
     B -->|Recipient says no attachment| D{Check benign causes}
 
-    D -->|Size limit exceeded| C
-    D -->|File type blocked| C
-    D -->|Client mismatch mobile vs desktop| C
-    D -->|Network drop during send| C
+    D -->|Size limit exceeded| C2[✅ Done size issue]
+    D -->|File type blocked| C3[✅ Done file type issue]
+    D -->|Client mismatch mobile vs desktop| C4[✅ Done client mismatch]
+    D -->|Network drop during send| C5[✅ Done network issue]
     D -->|None of these| E{Suspicious}
 
-    E -->|Repeats across devices or providers| F[Escalate to comms stripping]
+    E -->|Repeats across devices or providers| F[Escalate → comms stripping]
     E -->|One off or random| G[Monitor and document]
 ```
 
