@@ -1,8 +1,8 @@
 # 🦜 Reverent Repetition Fork  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-09-04
+**First created:** 2025-08-17 | **Last updated:** 2025-09-12
 
-*Credential loop fork — buffers reputations with repeated awards, affiliations, or honours.*  
+*Credential loop fork — buffers reputations with repeated awards, affiliations, or honours*  
 
 ---
 
@@ -54,4 +54,4 @@ Each fork file documents containment strategies, their logic, and countermeasure
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-04_  
+_Last updated: 2025-09-12_  
