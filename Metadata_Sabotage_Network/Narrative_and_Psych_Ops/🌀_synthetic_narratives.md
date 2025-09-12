@@ -1,6 +1,6 @@
 # 🌀 Synthetic Narratives  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-06  
-*How multiple actors fabricate, seed, and project narratives onto a survivor — producing harassment campaigns that don’t align with lived reality.*  
+**First created:** 2025-09-07 | **Last updated:** 2025-09-13  
+*How multiple actors fabricate, seed, and project narratives onto a survivor — producing harassment campaigns that don’t align with lived reality*  
 
 ---
 
@@ -96,4 +96,4 @@ It documents how harassment campaigns are built on projections and contradiction
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-09-13_  
