@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 21:53:14 UTC_
+_Generated on 2025-09-12 21:54:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -216,7 +216,6 @@ _Generated on 2025-09-12 21:53:14 UTC_
   - [`fork_clone_checklist.png`](Fork_Taxonomy/fork_clone_checklist.png)
   - [`fork_clone_map_flow.png`](Fork_Taxonomy/fork_clone_map_flow.png)
   - [`voice_capture_flow.png`](Fork_Taxonomy/voice_capture_flow.png)
-  - [`🧽_subtle_sanitizer_fork.md`](Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
 - [**Letters_to_Stars/**](Letters_to_Stars/)
   - [`polaris_live.md`](Letters_to_Stars/polaris_live.md)
   - [`⁉️_conversation_erase_event.md`](Letters_to_Stars/⁉️_conversation_erase_event.md)
@@ -684,6 +683,7 @@ _Generated on 2025-09-12 21:53:14 UTC_
     - [`🧬_fork_clone_map.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_fork_clone_map.md)
     - [`🧬_voice_capture_triggers.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md)
     - [`🧱_structural_reversion_ghost.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧱_structural_reversion_ghost.md)
+    - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
