@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:15:12 UTC_
+_Generated on 2025-09-12 23:16:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -513,7 +513,6 @@ _Generated on 2025-09-12 23:15:12 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`🌀_masculinity_extraction_governance_containment_with_asides.md`](Polaris_Nest/Git_Intake_Drawer/🌀_masculinity_extraction_governance_containment_with_asides.md)
     - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Polaris_Nest/Git_Intake_Drawer/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
     - [`🌀_synthetic_narratives.md`](Polaris_Nest/Git_Intake_Drawer/🌀_synthetic_narratives.md)
     - [`🌎_asymmetric_discourse_policing.md`](Polaris_Nest/Git_Intake_Drawer/🌎_asymmetric_discourse_policing.md)
