@@ -1,4 +1,4 @@
-# ⚖️ [Redacted] Institution Conflict (2022 Origin)  
+# ⚖️ [Redacted] Institution Conflict (2022 Origin) 
 
 **First created:** 2025-09-05 | **Last updated:** 2025-09-12  
 *On spoofed communications tied to Redacted Institution events, and conflicts of duty when an academic body is also a gatekeeper of professional progression*  
