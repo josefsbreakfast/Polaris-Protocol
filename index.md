@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:08:22 UTC_
+_Generated on 2025-09-12 23:09:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -31,6 +31,7 @@ _Generated on 2025-09-12 23:08:22 UTC_
       - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_surveillance_osa_citizen_forking_meganode.md)
       - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_uk_constitutional_fault_lines.md)
       - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_wrong_people_in_power.md)
+      - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_state_patterns_of_forced_intimacy.md)
       - [`👀_public_perception_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👀_public_perception_gap.md)
@@ -509,7 +510,6 @@ _Generated on 2025-09-12 23:08:22 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
     - [`🇬🇧_voice_cloning_legislative_response.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_voice_cloning_legislative_response.md)
     - [`🇬🇧_voice_containment_feminine_register.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_voice_containment_feminine_register.md)
     - [`🌀_masculinity_extraction_governance_containment.md`](Polaris_Nest/Git_Intake_Drawer/🌀_masculinity_extraction_governance_containment.md)
