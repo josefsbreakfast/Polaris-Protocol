@@ -1,7 +1,7 @@
 # ⚖️ Small Bureaucrats Catch-22  
 
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance.*  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-12  
+*Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance*  
 
 ---
 
@@ -33,4 +33,4 @@
 *Small Bureaucrats Catch-22* is a living node of the Polaris Protocol.  
 It documents how complicit middle-layers create systemic stalemates and how survivors can resist until catalyst moments shift access.  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-12_
