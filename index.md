@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 22:00:15 UTC_
+_Generated on 2025-09-12 22:03:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -20,7 +20,6 @@ _Generated on 2025-09-12 22:00:15 UTC_
       - [`📦_sweep_sequence_aug_11-13.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/📦_sweep_sequence_aug_11-13.md)
       - [`🧯_harm_scan_report.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
       - [`🧯_sweep_harm_log_2025-08-17.md`](Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
-  - [`README.md`](Admin_Kit/README.md)
   - [`🎏_dividers_and_headers.md`](Admin_Kit/🎏_dividers_and_headers.md)
   - [`🐾_footer_seals.md`](Admin_Kit/🐾_footer_seals.md)
   - [`🔮_house_style.md`](Admin_Kit/🔮_house_style.md)
@@ -623,6 +622,8 @@ _Generated on 2025-09-12 22:00:15 UTC_
     - [`README.md`](Polaris_Nest/Weekly_Checklists/README.md)
     - [`📅_week_ahead_2025-09-05.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_2025-09-05.md)
     - [`📅_week_ahead_YYYY-MM-DD.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_YYYY-MM-DD.md)
+  - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
+    - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
   - [`README.md`](Polaris_Nest/README.md)
   - [`🏮_where_to_go.md`](Polaris_Nest/🏮_where_to_go.md)
 - [**Resources/**](Resources/)
