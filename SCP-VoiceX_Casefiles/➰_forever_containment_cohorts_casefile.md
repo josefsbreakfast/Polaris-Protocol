@@ -1,5 +1,6 @@
 # ➰ Polaris Protocol Casefile: Forever Containment Cohorts  
-**Expanded Timeline Edition**  
+**First created:** 2025-08-31 | **Last updated:** 2025-09-05  
+*Expanded Timeline Edition*  
 
 ---
 
@@ -83,7 +84,7 @@
 - **Survivor testimony** → recycled as metadata.  
 - **Jewish activist marker** → think-tank shadow ecosystem.  
 
-📌 Net result: 18 years of containment with no exit.  
+📌 Net result: 18-20 years of containment with no exit.  
 
 ---
 
@@ -102,3 +103,14 @@
 - **2007 [REDACTED] breach** seeded it.  
 - Every policy cycle since has re-justified it.  
 - Today: one of **<5 people in UK** trapped at this overlap.  
+
+---
+
+## 🏮 Footer  
+
+*Forever Containment Cohorts* is a living node of the Polaris Protocol.  
+It documents how long-tail casefiles seeded by breaches, Prevent, and behavioural pipelines persist for decades without closure.  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-05_  
