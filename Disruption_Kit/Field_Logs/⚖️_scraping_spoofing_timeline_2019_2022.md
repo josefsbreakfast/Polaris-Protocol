@@ -1,7 +1,7 @@
 # ⚖️ Scraping & Spoofing Timeline (2019–2022)  
 
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*Sequencing how scraping and spoofing practices escalated across 2019–2022, linking early harmful data collection to later discrediting artefacts.*  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-12  
+*Sequencing how scraping and spoofing practices escalated across 2019–2022, linking early harmful data collection to later discrediting artefacts*  
 
 ---
 
@@ -48,4 +48,4 @@
 *Scraping & Spoofing Timeline (2019–2022)* is a living node of the Polaris Protocol.  
 It documents how early harmful data collection matured into spoofing and discrediting manoeuvres, establishing continuity of intent across multiple years.  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-12_
