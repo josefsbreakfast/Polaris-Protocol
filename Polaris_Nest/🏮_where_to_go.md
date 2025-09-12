@@ -1,34 +1,45 @@
+```mermaid 
+
 flowchart TD
-    A[Start: You have a new file] --> B{Is this repo-level meta/governance?}
-    B -->|Yes| B1[Place at top-level next to meta docs<br/>e.g. _house_style.md, survivor_voice_rules.md<br/>Name with leading underscore if your index does]
-    B -->|No| C{Does it define or change the protocol itself?}
+    A[📂 New file arrives] --> B{Is it repo-level meta or style?}
+    B -->|Yes| B1[Place in Admin_Kit/<br/>e.g. 🔮_house_style.md, 🪄_branding_usage_guide.md]
+    B -->|No| C{Does it define systemic rules / protocol structure?}
 
-    C -->|Yes| C1[Put in the Protocol section named in index<br/>e.g. /protocol/ or the exact section path<br/>File lives with canonical specs + version notes]
-    C -->|No| D{Is it a how-to / operator guide / playbook?}
+    C -->|Yes| C1[Place in Disruption_Kit/Big_Picture_Protocols/<br/>Use correct subfolder (System_Governance, Trauma_Psycology, Politics_Memory_Work, etc.)]
+    C -->|No| D{Is it a practical survivor tool or countermeasure?}
 
-    D -->|Yes| D1[Put in Guides/Operations section from index<br/>e.g. /guides/ or /ops/]
-    D -->|No| E{Is it evidence, transcripts, case material, or records?}
+    D -->|Yes| D1[Place in Disruption_Kit/Survivor_Tools/<br/>e.g. 🧬_cloneproof_training_set_mapping.md]
+    D -->|No| E{Is it forensic evidence, dated log, or anomaly?}
 
-    E -->|Yes| E1[Put in Records/Evidence section from index<br/>e.g. /records/, /evidence/, or what the index calls it]
-    E -->|No| F{Is it research notes, analysis, or drafts not yet canonical?}
+    E -->|Yes| E1[If tactical log → Disruption_Kit/Field_Logs/<br/>If anomaly/evidence → Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/]
+    E -->|No| F{Is it a suppression or visibility manipulation method?}
 
-    F -->|Yes| F1[Put in Drafts/Notes/Research section from index<br/>e.g. /drafts/ or /notes/<topic>]
-    F -->|No| G{Is it a template, checklist, or form?}
+    F -->|Yes| F1[Place in Disruption_Kit/Containment_Scripts/<br/>Choose Counter_Nudges or Suppression_Modes]
+    F -->|No| G{Is it case testimony or personal record?}
 
-    G -->|Yes| G1[Put in Templates section from index<br/>e.g. /templates/ with clear filename + version]
-    G -->|No| H{Is it a reference or explainer for external readers?}
+    G -->|Yes| G1[Place in Polaris_Nest/SCP-VoiceX_Casefiles/]
+    G -->|No| H{Is it structural mapping / metadata logic analysis?}
 
-    H -->|Yes| H1[Put in Public/Explainers section from index<br/>e.g. /explainer/ or /public/ if present]
-    H -->|No| I{Is it a reusable asset (images, diagrams, datasets)?}
+    H -->|Yes| H1[Place in Metadata_Sabotage_Network/Structural_Analysis/]
+    H -->|No| I{Is it narrative / psych-ops material?}
 
-    I -->|Yes| I1[Put in Assets section from index<br/>e.g. /assets/ (images), /data/ (CSV/JSON), /figures/]
-    I -->|No| J{Is it superseded or historical?}
+    I -->|Yes| I1[Place in Metadata_Sabotage_Network/Narrative_And_Psych_Ops/]
+    I -->|No| J{Is it correspondence, creative or reflective writing?}
 
-    J -->|Yes| J1[Move to Archive section from index<br/>e.g. /archive/YYYY/<file> with a short tombstone note]
-    J -->|No| K[Fallback: Place next to the nearest section your index links for this topic\nand add a short index entry]
+    J -->|Yes| J1[Place in Letters_to_Stars/]
+    J -->|No| K{Is it taxonomic (forks, clones, execution drift)?}
 
-    %% Cross-links / hygiene
-    B1 --> X[Update the index: title + one-line purpose]
+    K -->|Yes| K1[Place in Fork_Taxonomy/]
+    K -->|No| L{Is it utility, glossary, or external reference?}
+
+    L -->|Yes| L1[Place in Resources/]
+    L -->|No| M{Is it tactical writing device (syntax bombs, tags)?}
+
+    M -->|Yes| M1[Place in Syntax_Bombs/ or Tag_Pack/]
+    M -->|No| N[Default: Closest thematic folder per index]
+
+    %% Always finish
+    B1 --> X[📑 Update index.md with link, emoji, one-line scope]
     C1 --> X
     D1 --> X
     E1 --> X
@@ -37,6 +48,11 @@ flowchart TD
     H1 --> X
     I1 --> X
     J1 --> X
-    K --> X
+    K1 --> X
+    L1 --> X
+    M1 --> X
+    N --> X
 
-    X[Final step: Update index.md\n- Link the file under the right section\n- Add date + status (Draft/Canon/Archived)\n- Cross-link related items (suppression ↔ counter-nudge)]
+    X[Final step: ensure filename matches 🔮 House Style<br/>EMOJI_snake_case.md + Title/Metadata/Footer block]
+
+``` 
