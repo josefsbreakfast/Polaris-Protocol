@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:13:10 UTC_
+_Generated on 2025-09-12 23:13:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -143,6 +143,7 @@ _Generated on 2025-09-12 23:13:10 UTC_
       - [`⚖️_phantom_claim_double_blade.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_phantom_claim_double_blade.md)
       - [`⚖️_phantom_claim_ripa_escalation.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_phantom_claim_ripa_escalation.md)
       - [`⚖️_universal_spoof_burden.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_universal_spoof_burden.md)
+      - [`🇬🇧_cve_voice_containment_calming_voice_prototype.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🇬🇧_cve_voice_containment_calming_voice_prototype.md)
       - [`🌀_exhaustion_as_a_containment_layer.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md)
       - [`🌀_recognition_without_resolution.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_recognition_without_resolution.md)
       - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
@@ -161,7 +162,6 @@ _Generated on 2025-09-12 23:13:10 UTC_
       - [`🪞_engineered_disjuncture_of_allies.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🪞_engineered_disjuncture_of_allies.md)
       - [`🫀_pathologising_sensitivity_as_containment.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)
     - [`README.md`](Disruption_Kit/Containment_Scripts/README.md)
-    - [`🇬🇧_cve_voice_containment_calming_voice_prototype.md`](Disruption_Kit/Containment_Scripts/🇬🇧_cve_voice_containment_calming_voice_prototype.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
