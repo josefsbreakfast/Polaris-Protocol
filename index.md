@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 21:47:37 UTC_
+_Generated on 2025-09-12 21:48:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -216,7 +216,6 @@ _Generated on 2025-09-12 21:47:37 UTC_
   - [`fork_clone_checklist.png`](Fork_Taxonomy/fork_clone_checklist.png)
   - [`fork_clone_map_flow.png`](Fork_Taxonomy/fork_clone_map_flow.png)
   - [`voice_capture_flow.png`](Fork_Taxonomy/voice_capture_flow.png)
-  - [`🦜_reverent_repetition_fork.md`](Fork_Taxonomy/🦜_reverent_repetition_fork.md)
   - [`🧠_behavioural_fork_traits_cross_matrix.md`](Fork_Taxonomy/🧠_behavioural_fork_traits_cross_matrix.md)
   - [`🧬_fork_clone_map.md`](Fork_Taxonomy/🧬_fork_clone_map.md)
   - [`🧬_voice_capture_triggers.md`](Fork_Taxonomy/🧬_voice_capture_triggers.md)
@@ -684,6 +683,7 @@ _Generated on 2025-09-12 21:47:37 UTC_
     - [`🚀_taxonomy_expansion.md`](👻_Apparitional_Objects/Fork_Taxonomy/🚀_taxonomy_expansion.md)
     - [`🚨_cybersec_brief_note_fork_critic_political_parties.md`](👻_Apparitional_Objects/Fork_Taxonomy/🚨_cybersec_brief_note_fork_critic_political_parties.md)
     - [`🛑_fork_shutdown_protocol.md`](👻_Apparitional_Objects/Fork_Taxonomy/🛑_fork_shutdown_protocol.md)
+    - [`🦜_reverent_repetition_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🦜_reverent_repetition_fork.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
