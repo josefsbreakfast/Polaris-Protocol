@@ -1,9 +1,7 @@
 # 🏮 Admin Kit  
 
-**First created:** 2025-08-17 | **Last updated:** 2025-08-29  
-
-The Admin Kit provides the **branding, seals, and visual grammar** for Polaris Protocol.  
-
+**First created:** 2025-08-17 | **Last updated:** 2025-09-12 <br>
+The Admin Kit provides the **branding, seals, and visual grammar** for Polaris Protocol.  <br>
 *It is the style library and navigation compass for all Protocol documents.*  
 
 ---
