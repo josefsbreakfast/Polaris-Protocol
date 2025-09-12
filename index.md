@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 14:25:54 UTC_
+_Generated on 2025-09-12 14:34:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -589,6 +589,7 @@ _Generated on 2025-09-12 14:25:54 UTC_
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ai_interference_vs_baseline_generation.md)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
     - [`🛰️_handlers_at_the_table.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_handlers_at_the_table.md)
+    - [`🛰️_mainstream_visibility_anomalies_2025-09-12.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_mainstream_visibility_anomalies_2025-09-12.md)
     - [`🛰️_metadata_monitor_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_metadata_monitor_checklist.md)
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
