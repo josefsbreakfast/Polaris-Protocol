@@ -1,5 +1,5 @@
 # 💞 Ethics of Nudging vs Desire  
-**First created:** 2025-09-11 | **Last updated:** 2025-09-11  
+**First created:** 2025-09-11 | **Last updated:** 2025-09-13  
 *Contrasting Thaler/Sunstein’s liberal “choice architecture” with Fisher’s critique of desire under capitalism*
 
 ---
@@ -38,4 +38,4 @@ It situates the conceptual hinge — *nudge* vs *trieb* — as an ethical fault 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-11_
+_Last updated: 2025-09-13_
