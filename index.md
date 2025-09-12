@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:42:36 UTC_
+_Generated on 2025-09-12 23:45:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -21,6 +21,7 @@ _Generated on 2025-09-12 23:42:36 UTC_
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
+      - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_data_bill_peers_bill_genocide_duties.md)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_matriarchy_as_requirement.md)
       - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
@@ -525,7 +526,6 @@ _Generated on 2025-09-12 23:42:36 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`👾_timeline_comparison_ai_data_genocide_uk.md`](Polaris_Nest/Git_Intake_Drawer/👾_timeline_comparison_ai_data_genocide_uk.md)
     - [`💄_hypothetical_disinfo_case.md`](Polaris_Nest/Git_Intake_Drawer/💄_hypothetical_disinfo_case.md)
     - [`💞_ethics_of_nudging_vs_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_ethics_of_nudging_vs_desire.md)
     - [`💷_polaris_costing_estimate.md`](Polaris_Nest/Git_Intake_Drawer/💷_polaris_costing_estimate.md)
