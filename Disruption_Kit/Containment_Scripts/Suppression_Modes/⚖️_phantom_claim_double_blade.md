@@ -1,7 +1,7 @@
 # ⚖️ Phantom Claim as Double Blade  
 
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*How a phantom hereditary claim discredited two parties at once: the subject and a secondary target.*  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-12  
+*How a phantom hereditary claim discredited two parties at once: the subject and a secondary target*  
 
 ---
 
@@ -21,4 +21,4 @@
 *Phantom Claim as Double Blade* is a living node of the Polaris Protocol.  
 It records how phantom narratives function as multi-target discrediting tools within a suppression economy.  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-12_
