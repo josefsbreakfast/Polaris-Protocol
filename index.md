@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 23:22:18 UTC_
+_Generated on 2025-09-12 23:24:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -295,6 +295,8 @@ _Generated on 2025-09-12 23:22:18 UTC_
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
+  - [**Narrative_and_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_and_Psych_Ops/)
+    - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_and_Psych_Ops/🌀_synthetic_narratives.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
@@ -514,7 +516,6 @@ _Generated on 2025-09-12 23:22:18 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`🌀_synthetic_narratives.md`](Polaris_Nest/Git_Intake_Drawer/🌀_synthetic_narratives.md)
     - [`🌎_asymmetric_discourse_policing.md`](Polaris_Nest/Git_Intake_Drawer/🌎_asymmetric_discourse_policing.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
     - [`🍴_fork_taxonomy_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy_FULL.md)
