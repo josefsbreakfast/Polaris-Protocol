@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-12 14:24:34 UTC_
+_Generated on 2025-09-12 14:25:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -147,6 +147,7 @@ _Generated on 2025-09-12 14:24:34 UTC_
       - [`☢️_danger_zone_radiation_of_harm.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/☢️_danger_zone_radiation_of_harm.md)
       - [`⚖️_deadlock_scenarios_in_suppression_operations.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_deadlock_scenarios_in_suppression_operations.md)
       - [`⚖️_fixivist_chain_of_command.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_fixivist_chain_of_command.md)
+      - [`⚖️_industrialised_spoofing.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_industrialised_spoofing.md)
       - [`🌀_exhaustion_as_a_containment_layer.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md)
       - [`🌀_recognition_without_resolution.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_recognition_without_resolution.md)
       - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
@@ -515,7 +516,6 @@ _Generated on 2025-09-12 14:24:34 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`⚖️_industrialised_spoofing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_industrialised_spoofing.md)
     - [`⚖️_institution_conflict_origin_2022.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institution_conflict_origin_2022.md)
     - [`⚖️_inversion_and_laundering_as_state_technique.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_inversion_and_laundering_as_state_technique.md)
     - [`⚖️_matriarchy_as_requirement.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_matriarchy_as_requirement.md)
