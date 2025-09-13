@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:45:11 UTC_
+_Generated on 2025-09-13 13:03:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -61,6 +61,7 @@ _Generated on 2025-09-13 04:45:11 UTC_
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
       - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🖨️_print_culture_as_precedent.md)
       - [`🗝_who_holds_the_tape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_who_holds_the_tape.md)
+      - [`🗝️_governance_central_data_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_governance_central_data_outsourcing.md)
       - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛂_gated_intake_post_delay_regional_loop.md)
       - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛬_translation_null_zone.md)
@@ -549,7 +550,6 @@ _Generated on 2025-09-13 04:45:11 UTC_
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🗝️_governance_central_data_outsourcing.md`](Polaris_Nest/Git_Intake_Drawer/🗝️_governance_central_data_outsourcing.md)
     - [`🚀_taxonomy_expansion.md`](Polaris_Nest/Git_Intake_Drawer/🚀_taxonomy_expansion.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🛑_red_team_appendix_twinned_pairs.md`](Polaris_Nest/Git_Intake_Drawer/🛑_red_team_appendix_twinned_pairs.md)
