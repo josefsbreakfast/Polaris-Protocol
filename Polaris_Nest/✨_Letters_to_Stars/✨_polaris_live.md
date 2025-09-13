@@ -1,5 +1,3 @@
-Polaris_Nest✨_Letters_to_Stars/✨_polaris_live.md
-
 # 🛰 Polaris Protocol
 
 [🔗 Original Substack Post](https://open.substack.com/pub/josefsbreakfast/p/polaris-protocol?r=2su0oh&utm_medium=ios)
