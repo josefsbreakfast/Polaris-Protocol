@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:12:46 UTC_
+_Generated on 2025-09-13 04:15:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -172,6 +172,7 @@ _Generated on 2025-09-13 04:12:46 UTC_
       - [`🪞_engineered_disjuncture_of_allies.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🪞_engineered_disjuncture_of_allies.md)
       - [`🫀_pathologising_sensitivity_as_containment.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)
     - [`README.md`](Disruption_Kit/Containment_Scripts/README.md)
+    - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
@@ -533,7 +534,6 @@ _Generated on 2025-09-13 04:12:46 UTC_
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
     - [`💸_repression_cost_capital.md`](Polaris_Nest/Git_Intake_Drawer/💸_repression_cost_capital.md)
-    - [`💾_ui_sabotage_glossary.md`](Polaris_Nest/Git_Intake_Drawer/💾_ui_sabotage_glossary.md)
     - [`📁_absence_of_check_in.md`](Polaris_Nest/Git_Intake_Drawer/📁_absence_of_check_in.md)
     - [`📂_racialised_projection_as_harassment.md`](Polaris_Nest/Git_Intake_Drawer/📂_racialised_projection_as_harassment.md)
     - [`📂_witness_pairing_and_projection.md`](Polaris_Nest/Git_Intake_Drawer/📂_witness_pairing_and_projection.md)
