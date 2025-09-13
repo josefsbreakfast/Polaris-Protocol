@@ -1,6 +1,6 @@
 # 🗄️ Weaponised Testimony and Record Obstruction  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-06  
-*How survivor testimony is obstructed, repurposed, and weaponised when record security is breached.*  
+**First created:** 2025-09-06 | **Last updated:** 2025-09-13  
+*How survivor testimony is obstructed, repurposed, and weaponised when record security is breached*  
 
 ---
 
@@ -66,4 +66,4 @@ It documents how testimony and record access can be inverted into harassment, re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-09-13_  
