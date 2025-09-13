@@ -1,6 +1,6 @@
 # 📂 Racialised Projection as Harassment  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-06  
-*How racist tropes are inserted into harassment campaigns to frame others and multiply harm.*  
+**First created:** 2025-09-06 | **Last updated:** 2025-09-13  
+*How racist tropes are inserted into harassment campaigns to frame others and multiply harm*  
 
 ---
 
@@ -56,4 +56,4 @@ It situates racist harassment within systemic projection, showing how it fabrica
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-09-13_  
