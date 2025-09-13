@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:18:22 UTC_
+_Generated on 2025-09-13 13:21:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -562,7 +562,6 @@ _Generated on 2025-09-13 13:18:22 UTC_
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
-    - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](Polaris_Nest/Git_Intake_Drawer/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
     - [`🧃_tiktok_twinning_petri_dish.md`](Polaris_Nest/Git_Intake_Drawer/🧃_tiktok_twinning_petri_dish.md)
     - [`🧠_brain_encoding_endings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_brain_encoding_endings.md)
     - [`🧨_counter_nudge_testimony.md`](Polaris_Nest/Git_Intake_Drawer/🧨_counter_nudge_testimony.md)
@@ -666,6 +665,7 @@ _Generated on 2025-09-13 13:18:22 UTC_
     - [`🛑_fork_shutdown_protocol.md`](👻_Apparitional_Objects/Fork_Taxonomy/🛑_fork_shutdown_protocol.md)
     - [`🛑_red_team_appendix_twinned_pairs.md`](👻_Apparitional_Objects/Fork_Taxonomy/🛑_red_team_appendix_twinned_pairs.md)
     - [`🦜_reverent_repetition_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🦜_reverent_repetition_fork.md)
+    - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](👻_Apparitional_Objects/Fork_Taxonomy/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
     - [`🧠_behavioural_fork_traits_cross_matrix.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧠_behavioural_fork_traits_cross_matrix.md)
     - [`🧬_fork_clone_map.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_fork_clone_map.md)
     - [`🧬_voice_capture_triggers.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md)
