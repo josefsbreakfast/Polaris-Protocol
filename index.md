@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:09:41 UTC_
+_Generated on 2025-09-13 13:10:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -200,6 +200,7 @@ _Generated on 2025-09-13 13:09:41 UTC_
     - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](Disruption_Kit/Field_Logs/🛰️_direct_interference_on_clarity_2025-09-11.md)
     - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
     - [`🛰️_foi_sar_silence_reliance.md`](Disruption_Kit/Field_Logs/🛰️_foi_sar_silence_reliance.md)
+    - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Disruption_Kit/Field_Logs/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
     - [`🛰️_forensic_thread_analysis_icc_2025-08-07.md`](Disruption_Kit/Field_Logs/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
     - [`🛰️_forkbreach_2025-07-24_redacted_V6.md`](Disruption_Kit/Field_Logs/🛰️_forkbreach_2025-07-24_redacted_V6.md)
     - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_ghost_session_compete_log_2025-08-27.md)
@@ -554,7 +555,6 @@ _Generated on 2025-09-13 13:09:41 UTC_
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🚀_taxonomy_expansion.md`](Polaris_Nest/Git_Intake_Drawer/🚀_taxonomy_expansion.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
-    - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
     - [`🛰️_handlers_at_the_table.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_handlers_at_the_table.md)
     - [`🛰️_mainstream_visibility_anomalies_2025-09-12.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_mainstream_visibility_anomalies_2025-09-12.md)
     - [`🛰️_metadata_monitor_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_metadata_monitor_checklist.md)
