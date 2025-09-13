@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:33:23 UTC_
+_Generated on 2025-09-13 13:34:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -348,6 +348,7 @@ _Generated on 2025-09-13 13:33:23 UTC_
       - [`🧬_deliberate_data_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_data_twinning.md)
       - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_metadata_twinning.md)
       - [`🧬_metadata_twinning_analysis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_metadata_twinning_analysis.md)
+      - [`🧬_on_twinning_weird_obsession.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_on_twinning_weird_obsession.md)
       - [`🧬_sim_pathways_map.json`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_sim_pathways_map.json)
       - [`🧬_system_rupture_events_explainer.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_events_explainer.md)
       - [`🧬_system_rupture_log.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.md)
@@ -571,7 +572,6 @@ _Generated on 2025-09-13 13:33:23 UTC_
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
-    - [`🧬_on_twinning_weird_obsession.md`](Polaris_Nest/Git_Intake_Drawer/🧬_on_twinning_weird_obsession.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧬_the_invisible_audit_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧬_the_invisible_audit_gap.md)
     - [`🧬_untwinning_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_untwinning_data.md)
