@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:02:33 UTC_
+_Generated on 2025-09-13 04:05:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -298,6 +298,7 @@ _Generated on 2025-09-13 04:02:33 UTC_
       - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🌀_synthetic_narratives.md)
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
       - [`🎶_shared_tech_voicex_institutional_reports.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)
+      - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
@@ -527,7 +528,6 @@ _Generated on 2025-09-13 04:02:33 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`💄_hypothetical_disinfo_case.md`](Polaris_Nest/Git_Intake_Drawer/💄_hypothetical_disinfo_case.md)
     - [`💷_polaris_costing_estimate.md`](Polaris_Nest/Git_Intake_Drawer/💷_polaris_costing_estimate.md)
     - [`💷_potential_tort_exposure.md`](Polaris_Nest/Git_Intake_Drawer/💷_potential_tort_exposure.md)
     - [`💷_procurement_culture_dept_clashes.md`](Polaris_Nest/Git_Intake_Drawer/💷_procurement_culture_dept_clashes.md)
