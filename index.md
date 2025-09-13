@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:22:04 UTC_
+_Generated on 2025-09-13 18:22:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -254,6 +254,7 @@ _Generated on 2025-09-13 18:22:04 UTC_
     - [`📚_research_and_theory.md`](Disruption_Kit/💎_Resources/📚_research_and_theory.md)
     - [`🛠️_survivor_tools_index.md`](Disruption_Kit/💎_Resources/🛠️_survivor_tools_index.md)
     - [`🛰️_forensic_and_osint_tools.md`](Disruption_Kit/💎_Resources/🛰️_forensic_and_osint_tools.md)
+    - [`🧾_glossary_and_meta_index.md`](Disruption_Kit/💎_Resources/🧾_glossary_and_meta_index.md)
   - [**💣_Syntax_Bombs/**](Disruption_Kit/💣_Syntax_Bombs/)
     - [`README.md`](Disruption_Kit/💣_Syntax_Bombs/README.md)
     - [`➰_ghost_loop_interrupters.md`](Disruption_Kit/💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)
@@ -647,8 +648,6 @@ _Generated on 2025-09-13 18:22:04 UTC_
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
   - [`README.md`](Polaris_Nest/README.md)
   - [`🏮_where_to_go.md`](Polaris_Nest/🏮_where_to_go.md)
-- [**Resources/**](Resources/)
-  - [`🧾_glossary_and_meta_index.md`](Resources/🧾_glossary_and_meta_index.md)
 - [**Tag_Pack/**](Tag_Pack/)
   - [`Polaris_Tags_v1.0.md`](Tag_Pack/Polaris_Tags_v1.0.md)
   - [`🕯️_SIGNALS.md`](Tag_Pack/🕯️_SIGNALS.md)
