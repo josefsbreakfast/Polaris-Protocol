@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:33:46 UTC_
+_Generated on 2025-09-13 18:43:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -404,7 +404,17 @@ _Generated on 2025-09-13 18:33:46 UTC_
       - [`🛰️_ghostwatch_protocol.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_ghostwatch_protocol.md)
     - [**🪅_Platform_Sabotage/**](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/README.md)
+      - [`🎚️_algorithmic_throttling_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🎚️_algorithmic_throttling_loops.md)
       - [`👻_the_ghosts_are_learning.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/👻_the_ghosts_are_learning.md)
+      - [`📡_reach_shadowfence.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/📡_reach_shadowfence.md)
+      - [`🔗_link_disintegration.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🔗_link_disintegration.md)
+      - [`🖼️_image_blur_sabotage.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🖼️_image_blur_sabotage.md)
+      - [`🛑_flag_cascades.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🛑_flag_cascades.md)
+      - [`🤖_bot_audit_chokehold.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🤖_bot_audit_chokehold.md)
+      - [`🧩_feature_fracturing.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧩_feature_fracturing.md)
+      - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
+      - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
+      - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
       - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/README.md)
