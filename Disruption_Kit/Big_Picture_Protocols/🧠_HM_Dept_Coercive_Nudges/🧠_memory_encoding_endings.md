@@ -1,6 +1,6 @@
 # 🧠 Memory Encoding Endings  
 **First created:** 2025-09-10 | **Last updated:** 2025-09-10  
-*Why winding down carefully matters, and why abrupt endings scar memory.*
+*Why winding down carefully matters, and why abrupt endings scar memory*
 
 ---
 
