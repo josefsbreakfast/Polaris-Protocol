@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:43:30 UTC_
+_Generated on 2025-09-13 18:47:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -138,11 +138,27 @@ _Generated on 2025-09-13 18:43:30 UTC_
     - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/README.md)
       - [`☕🫖_uk_gov_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
+      - [`✍️_crime_writing_as_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
+      - [`🌍_climate_panic_routing.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌍_climate_panic_routing.md)
+      - [`🎧_music_as_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🎧_music_as_pipeline.md)
+      - [`🏛️_elite_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_elite_normalisation.md)
+      - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
       - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
+      - [`📣_mainstream_visibility_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📣_mainstream_visibility_gaps.md)
+      - [`📱_algorithmic_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📱_algorithmic_recruitment.md)
+      - [`🔊_voice_as_recruitment_channel.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🔊_voice_as_recruitment_channel.md)
+      - [`🕊️_false_counter_extremism_dialogues.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🕊️_false_counter_extremism_dialogues.md)
+      - [`🕹️_gamified_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🕹️_gamified_extremism.md)
+      - [`🛜_transnational_networks.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🛜_transnational_networks.md)
       - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
       - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
       - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
+      - [`🧨_spectacle_of_raids.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧨_spectacle_of_raids.md)
+      - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
+      - [`🧮_datafication_as_risk_vector.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧮_datafication_as_risk_vector.md)
+      - [`🧾_rehabilitation_ops.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧾_rehabilitation_ops.md)
       - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
+      - [`🪦_memory_erasure_in_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
