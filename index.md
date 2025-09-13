@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:03:41 UTC_
+_Generated on 2025-09-13 13:07:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -552,7 +552,6 @@ _Generated on 2025-09-13 13:03:41 UTC_
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🚀_taxonomy_expansion.md`](Polaris_Nest/Git_Intake_Drawer/🚀_taxonomy_expansion.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
-    - [`🛑_red_team_appendix_twinned_pairs.md`](Polaris_Nest/Git_Intake_Drawer/🛑_red_team_appendix_twinned_pairs.md)
     - [`🛰_all_it_took_2025-09-06.md`](Polaris_Nest/Git_Intake_Drawer/🛰_all_it_took_2025-09-06.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ai_interference_vs_baseline_generation.md)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
@@ -665,6 +664,7 @@ _Generated on 2025-09-13 13:03:41 UTC_
     - [`🚀_taxonomy_expansion.md`](👻_Apparitional_Objects/Fork_Taxonomy/🚀_taxonomy_expansion.md)
     - [`🚨_cybersec_brief_note_fork_critic_political_parties.md`](👻_Apparitional_Objects/Fork_Taxonomy/🚨_cybersec_brief_note_fork_critic_political_parties.md)
     - [`🛑_fork_shutdown_protocol.md`](👻_Apparitional_Objects/Fork_Taxonomy/🛑_fork_shutdown_protocol.md)
+    - [`🛑_red_team_appendix_twinned_pairs.md`](👻_Apparitional_Objects/Fork_Taxonomy/🛑_red_team_appendix_twinned_pairs.md)
     - [`🦜_reverent_repetition_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🦜_reverent_repetition_fork.md)
     - [`🧠_behavioural_fork_traits_cross_matrix.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧠_behavioural_fork_traits_cross_matrix.md)
     - [`🧬_fork_clone_map.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_fork_clone_map.md)
