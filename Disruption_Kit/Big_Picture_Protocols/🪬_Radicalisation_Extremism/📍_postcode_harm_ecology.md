@@ -1,6 +1,6 @@
 # 📍 Postcode Harm Ecology: From Injury to Radicalisation  
-**First created:** 2025-09-10 | **Last updated:** 2025-09-10  
-*Mapping how accumulated harms at local level create radicalisation ecologies.*  
+**First created:** 2025-09-10 | **Last updated:** 2025-09-13  
+*Mapping how accumulated harms at local level create radicalisation ecologies*  
 
 ---
 
@@ -43,4 +43,4 @@ It traces how local harm accumulation becomes a demographic faultline and a vect
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_
+_Last updated: 2025-09-13_
