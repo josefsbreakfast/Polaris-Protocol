@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 17:49:10 UTC_
+_Generated on 2025-09-13 17:49:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -99,8 +99,8 @@ _Generated on 2025-09-13 17:49:10 UTC_
       - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
-      - [`⚖️_british_museum_act_1963_futility.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_british_museum_act_1963_futility.md)
       - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
+      - [`🏛_british_museum_act_1963_futility.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🏛_british_museum_act_1963_futility.md)
       - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
       - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
       - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
