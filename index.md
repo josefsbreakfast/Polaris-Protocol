@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:34:04 UTC_
+_Generated on 2025-09-13 04:38:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -546,7 +546,6 @@ _Generated on 2025-09-13 04:34:04 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`🔮_challenge_of_ai.md`](Polaris_Nest/Git_Intake_Drawer/🔮_challenge_of_ai.md)
     - [`🕯️_witness_node_cost_of_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_witness_node_cost_of_mapping.md)
     - [`🕵️_harassment_vs_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
@@ -672,6 +671,8 @@ _Generated on 2025-09-13 04:34:04 UTC_
     - [`🧬_voice_capture_triggers.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md)
     - [`🧱_structural_reversion_ghost.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧱_structural_reversion_ghost.md)
     - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
+  - [**🦴_Skeletal_Shards/**](👻_Apparitional_Objects/🦴_Skeletal_Shards/)
+    - [`🔮_challenge_of_ai.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
   - [`👻_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_ghost_capture_fragment.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
