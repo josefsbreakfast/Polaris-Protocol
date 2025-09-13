@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:20:24 UTC_
+_Generated on 2025-09-13 18:20:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -250,6 +250,7 @@ _Generated on 2025-09-13 18:20:24 UTC_
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
   - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
     - [`README.md`](Disruption_Kit/💎_Resources/README.md)
+    - [`⚖️_legal_templates_and_guides.md`](Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
   - [**💣_Syntax_Bombs/**](Disruption_Kit/💣_Syntax_Bombs/)
     - [`README.md`](Disruption_Kit/💣_Syntax_Bombs/README.md)
     - [`➰_ghost_loop_interrupters.md`](Disruption_Kit/💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)
@@ -644,7 +645,6 @@ _Generated on 2025-09-13 18:20:24 UTC_
   - [`README.md`](Polaris_Nest/README.md)
   - [`🏮_where_to_go.md`](Polaris_Nest/🏮_where_to_go.md)
 - [**Resources/**](Resources/)
-  - [`⚖️_legal_templates_and_guides.md`](Resources/⚖️_legal_templates_and_guides.md)
   - [`📚_research_and_theory.md`](Resources/📚_research_and_theory.md)
   - [`🛠️_survivor_tools_index.md`](Resources/🛠️_survivor_tools_index.md)
   - [`🛰️_forensic_and_osint_tools.md`](Resources/🛰️_forensic_and_osint_tools.md)
