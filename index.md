@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:30:06 UTC_
+_Generated on 2025-09-13 13:31:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -81,6 +81,7 @@ _Generated on 2025-09-13 13:30:06 UTC_
       - [`🐍_snake_bites_and_stolen_voices.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
       - [`🐍_trauma_commodification.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_trauma_commodification.md)
       - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
+      - [`🧬_brains_are_not_flowcharts.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_brains_are_not_flowcharts.md)
       - [`🧬_clone_interference_map.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_clone_interference_map.png)
       - [`🧬_clone_twinning_matrix.json`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_clone_twinning_matrix.json)
       - [`🧬_psychographic_modelling_and_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_psychographic_modelling_and_twinning.md)
@@ -568,7 +569,6 @@ _Generated on 2025-09-13 13:30:06 UTC_
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
-    - [`🧬_brains_are_not_flowcharts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_brains_are_not_flowcharts.md)
     - [`🧬_deliberate_data_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_deliberate_data_twinning.md)
     - [`🧬_metadata_twinning_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_twinning_analysis.md)
     - [`🧬_on_twinning_weird_obsession.md`](Polaris_Nest/Git_Intake_Drawer/🧬_on_twinning_weird_obsession.md)
