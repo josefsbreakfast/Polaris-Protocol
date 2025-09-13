@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:04:38 UTC_
+_Generated on 2025-09-13 18:05:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -250,7 +250,6 @@ _Generated on 2025-09-13 18:04:38 UTC_
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Letters_to_Stars/**](Letters_to_Stars/)
-  - [`📜_governance-flare-0812-letter_to_the_stars.md`](Letters_to_Stars/📜_governance-flare-0812-letter_to_the_stars.md)
   - [`📧_to_the_twinned_data_subject_v2.md`](Letters_to_Stars/📧_to_the_twinned_data_subject_v2.md)
   - [`🔥_a_message_to_the_spark_that_shines.md`](Letters_to_Stars/🔥_a_message_to_the_spark_that_shines.md)
   - [`🗄️_desk_tactical_terrain.md`](Letters_to_Stars/🗄️_desk_tactical_terrain.md)
@@ -626,6 +625,7 @@ _Generated on 2025-09-13 18:04:38 UTC_
     - [`🏝️_island_exit_protocol.md`](Polaris_Nest/✨_Letters_to_Stars/🏝️_island_exit_protocol.md)
     - [`🏮_any_vulnerability.md`](Polaris_Nest/✨_Letters_to_Stars/🏮_any_vulnerability.md)
     - [`💸_to_the_investors.md`](Polaris_Nest/✨_Letters_to_Stars/💸_to_the_investors.md)
+    - [`📜_governance-flare-0812-letter_to_the_stars.md`](Polaris_Nest/✨_Letters_to_Stars/📜_governance-flare-0812-letter_to_the_stars.md)
   - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
   - [`README.md`](Polaris_Nest/README.md)
