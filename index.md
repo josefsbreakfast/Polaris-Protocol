@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:39:49 UTC_
+_Generated on 2025-09-13 13:40:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -673,10 +673,10 @@ _Generated on 2025-09-13 13:39:49 UTC_
     - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
   - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
     - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
+    - [`👻_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👻_ghost_capture_fragment.md)
   - [**🦴_Skeletal_Shards/**](👻_Apparitional_Objects/🦴_Skeletal_Shards/)
     - [`🔮_challenge_of_ai.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
-  - [`👻_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_ghost_capture_fragment.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**📬_Comms_Breaks/**](🩻_Weirdness_Screening/📬_Comms_Breaks/)
     - [`📎_attachments_not_delivered.md`](🩻_Weirdness_Screening/📬_Comms_Breaks/📎_attachments_not_delivered.md)
