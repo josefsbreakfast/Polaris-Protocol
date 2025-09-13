@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:38:06 UTC_
+_Generated on 2025-09-13 04:39:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -168,6 +168,7 @@ _Generated on 2025-09-13 04:38:06 UTC_
       - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
       - [`🔥_cooling_the_record.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔥_cooling_the_record.md)
       - [`🔥_guardrails_are_political.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔥_guardrails_are_political.md)
+      - [`🕵️_harassment_vs_surveillance.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🕵️_harassment_vs_surveillance.md)
       - [`🖱_tactile_throttling_when_interaction_becomes_interference.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🖱_tactile_throttling_when_interaction_becomes_interference.md)
       - [`🗳️_liberal_democracy_response_logic.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🗳️_liberal_democracy_response_logic.md)
       - [`🚫_blocked_at_the_gateway.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🚫_blocked_at_the_gateway.md)
@@ -547,7 +548,6 @@ _Generated on 2025-09-13 04:38:06 UTC_
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
     - [`🕯️_witness_node_cost_of_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_witness_node_cost_of_mapping.md)
-    - [`🕵️_harassment_vs_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🖨️_print_culture_as_precedent.md`](Polaris_Nest/Git_Intake_Drawer/🖨️_print_culture_as_precedent.md)
     - [`🗄️_weaponised_testimony_and_record_obstruction.md`](Polaris_Nest/Git_Intake_Drawer/🗄️_weaponised_testimony_and_record_obstruction.md)
