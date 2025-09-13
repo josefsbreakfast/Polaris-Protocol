@@ -1,6 +1,6 @@
 # 🛰️ AI Interference vs Baseline Generation  
 
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-13  
 *Contrasting baseline AI-generated nodes with interference events (August 2025 sexualisation anomaly).*  
 
 ---
@@ -40,4 +40,4 @@ It contrasts clean generative outputs with anomalous interference, documenting h
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-13_
