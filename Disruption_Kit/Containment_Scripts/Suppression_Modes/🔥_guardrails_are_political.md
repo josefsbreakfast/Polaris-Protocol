@@ -1,8 +1,8 @@
 # 🔥 Guardrails Are Political  
 
 **First created:** 2025-08-26  
-**Last updated:** 2025-08-31
-*A reflection on content moderation, compliance layers, and the politics embedded in “safety.”*  
+**Last updated:** 2025-09-13. 
+*A reflection on content moderation, compliance layers, and the politics embedded in “safety”*  
 
 ---
 
@@ -70,4 +70,4 @@ What emerges is a **governance layer masquerading as safety**:
 
 🔗 [Back to folder README](./README.md)  
 
-_Last updated: 2025-08-26_  
+_Last updated: 2025-09-13_  
