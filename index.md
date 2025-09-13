@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:17:14 UTC_
+_Generated on 2025-09-13 13:18:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -316,6 +316,7 @@ _Generated on 2025-09-13 13:17:14 UTC_
       - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_harassment_misidentification_systemic_failures_25-09-02.md)
       - [`👾_reduced_integrity_checks_downstream.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream.md)
       - [`👾_reduced_integrity_checks_downstream_auditor_examples.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream_auditor_examples.md)
+      - [`🦇_status_quo_twinning.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🦇_status_quo_twinning.md)
       - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
@@ -561,7 +562,6 @@ _Generated on 2025-09-13 13:17:14 UTC_
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
-    - [`🦇_status_quo_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🦇_status_quo_twinning.md)
     - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](Polaris_Nest/Git_Intake_Drawer/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
     - [`🧃_tiktok_twinning_petri_dish.md`](Polaris_Nest/Git_Intake_Drawer/🧃_tiktok_twinning_petri_dish.md)
     - [`🧠_brain_encoding_endings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_brain_encoding_endings.md)
