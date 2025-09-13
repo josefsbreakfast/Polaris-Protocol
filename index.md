@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:08:59 UTC_
+_Generated on 2025-09-13 18:09:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -250,7 +250,6 @@ _Generated on 2025-09-13 18:08:59 UTC_
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Letters_to_Stars/**](Letters_to_Stars/)
-  - [`🪬_displacement_writing.md`](Letters_to_Stars/🪬_displacement_writing.md)
   - [`🪻_take_me_home.md`](Letters_to_Stars/🪻_take_me_home.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -626,6 +625,7 @@ _Generated on 2025-09-13 18:08:59 UTC_
     - [`🧿_i_wish_for_safety.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_i_wish_for_safety.md)
     - [`🧿_reflections_on_reflecting.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_reflections_on_reflecting.md)
     - [`🧿_visibility_log_polaris_day_1.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
+    - [`🪬_displacement_writing.md`](Polaris_Nest/✨_Letters_to_Stars/🪬_displacement_writing.md)
   - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
   - [`README.md`](Polaris_Nest/README.md)
