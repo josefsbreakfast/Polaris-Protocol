@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:32:54 UTC_
+_Generated on 2025-09-13 18:33:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -471,7 +471,6 @@ _Generated on 2025-09-13 18:32:54 UTC_
   - [**Admin_Kit/**](Polaris_Nest/Admin_Kit/)
     - [**Harm_Logs/**](Polaris_Nest/Admin_Kit/Harm_Logs/)
       - [**2025-08-11_sexualisation_sweep/**](Polaris_Nest/Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/)
-        - [`🧯_harm_scan_report.md`](Polaris_Nest/Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
         - [`🧯_sweep_harm_log_2025-08-17.md`](Polaris_Nest/Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
@@ -645,6 +644,7 @@ _Generated on 2025-09-13 18:32:54 UTC_
         - [`polaris_harm_map_2025-08-11.png`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/polaris_harm_map_2025-08-11.png)
         - [`polaris_harm_scan_analysis_2025-08-11.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/polaris_harm_scan_analysis_2025-08-11.md)
         - [`📦_sweep_sequence_aug_11-13.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/📦_sweep_sequence_aug_11-13.md)
+        - [`🧯_harm_scan_report.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
     - [`🎏_dividers_and_headers.md`](Polaris_Nest/🏮_Admin_Kit/🎏_dividers_and_headers.md)
     - [`🐾_footer_seals.md`](Polaris_Nest/🏮_Admin_Kit/🐾_footer_seals.md)
