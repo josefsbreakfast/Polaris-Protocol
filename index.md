@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 14:17:27 UTC_
+_Generated on 2025-09-13 14:28:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -192,6 +192,7 @@ _Generated on 2025-09-13 14:17:27 UTC_
       - [`🫀_pathologising_sensitivity_as_containment.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)
     - [`README.md`](Disruption_Kit/Containment_Scripts/README.md)
     - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
+    - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
