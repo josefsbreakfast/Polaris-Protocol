@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:21:31 UTC_
+_Generated on 2025-09-13 04:22:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -49,6 +49,7 @@ _Generated on 2025-09-13 04:21:31 UTC_
       - [`💷_survivor_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_survivor_costing_estimate.md)
       - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💸_repression_cost_capital.md)
       - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📁_absence_of_check_in.md)
+      - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_kpi_vs_okr_in_government.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_narrative_management_and_metadata_sabotage.md)
       - [`📚_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_print_culture_as_precedent.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
@@ -537,7 +538,6 @@ _Generated on 2025-09-13 04:21:31 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`📊_kpi_vs_okr_in_government.md`](Polaris_Nest/Git_Intake_Drawer/📊_kpi_vs_okr_in_government.md)
     - [`📍_postcode_harm_ecology.md`](Polaris_Nest/Git_Intake_Drawer/📍_postcode_harm_ecology.md)
     - [`📚_student_default_faultline.md`](Polaris_Nest/Git_Intake_Drawer/📚_student_default_faultline.md)
     - [`📜_uk_data_bill_2025.md`](Polaris_Nest/Git_Intake_Drawer/📜_uk_data_bill_2025.md)
