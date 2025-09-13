@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:18:22 UTC_
+_Generated on 2025-09-13 18:20:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -248,6 +248,8 @@ _Generated on 2025-09-13 18:18:22 UTC_
     - [`🧬_honeytrap_mechanics.md`](Disruption_Kit/Survivor_Tools/🧬_honeytrap_mechanics.md)
     - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
+  - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
+    - [`README.md`](Disruption_Kit/💎_Resources/README.md)
   - [**💣_Syntax_Bombs/**](Disruption_Kit/💣_Syntax_Bombs/)
     - [`README.md`](Disruption_Kit/💣_Syntax_Bombs/README.md)
     - [`➰_ghost_loop_interrupters.md`](Disruption_Kit/💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)
@@ -642,7 +644,6 @@ _Generated on 2025-09-13 18:18:22 UTC_
   - [`README.md`](Polaris_Nest/README.md)
   - [`🏮_where_to_go.md`](Polaris_Nest/🏮_where_to_go.md)
 - [**Resources/**](Resources/)
-  - [`README.md`](Resources/README.md)
   - [`⚖️_legal_templates_and_guides.md`](Resources/⚖️_legal_templates_and_guides.md)
   - [`📚_research_and_theory.md`](Resources/📚_research_and_theory.md)
   - [`🛠️_survivor_tools_index.md`](Resources/🛠️_survivor_tools_index.md)
