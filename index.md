@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:43:33 UTC_
+_Generated on 2025-09-13 04:45:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -549,7 +549,6 @@ _Generated on 2025-09-13 04:43:33 UTC_
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🗄️_weaponised_testimony_and_record_obstruction.md`](Polaris_Nest/Git_Intake_Drawer/🗄️_weaponised_testimony_and_record_obstruction.md)
     - [`🗝️_governance_central_data_outsourcing.md`](Polaris_Nest/Git_Intake_Drawer/🗝️_governance_central_data_outsourcing.md)
     - [`🚀_taxonomy_expansion.md`](Polaris_Nest/Git_Intake_Drawer/🚀_taxonomy_expansion.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
@@ -601,6 +600,7 @@ _Generated on 2025-09-13 04:43:33 UTC_
     - [`📮_lost_in_submission.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📮_lost_in_submission.md)
     - [`🕯️_witness_node_cost_of_mapping.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🕯️_witness_node_cost_of_mapping.md)
     - [`🕸️_nda_dragnet_dismantled.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🕸️_nda_dragnet_dismantled.md)
+    - [`🗄️_weaponised_testimony_and_record_obstruction.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🗄️_weaponised_testimony_and_record_obstruction.md)
     - [`🛠_redacted_report_as_erasure_device.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_as_erasure_device.md)
     - [`🛠_redacted_report_payload_flow.png`](Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_payload_flow.png)
     - [`🛰️_2025-08-04_docking_surrogate_trace.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_2025-08-04_docking_surrogate_trace.md)
