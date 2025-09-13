@@ -1,4 +1,4 @@
-# 📁 Syntax_Bombs  
+# 💣 Syntax_Bombs  
 **First created:** 2025-08-03 | **Last updated:** 2025-08-17  
 *Deployable phrase-sets designed to fracture containment systems, disrupt mimicry, and invert metadata governance.*  
 
