@@ -3,7 +3,8 @@
 
 ---
 
-## 📑 Table of Contents  
+## 📑 Table of Contents 
+<a name="top"></a>
 - [✍️ Executive Summary](#-executive-summary)  
 - [⚖️ Case Overview: Epping & Great Yarmouth](#-case-overview-epping--great-yarmouth)  
 - [1. Why Hotels?](#1-why-hotels)  
