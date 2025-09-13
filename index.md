@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:30:31 UTC_
+_Generated on 2025-09-13 04:31:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -244,6 +244,7 @@ _Generated on 2025-09-13 04:30:31 UTC_
   - [`🏮_any_vulnerability.md`](Letters_to_Stars/🏮_any_vulnerability.md)
   - [`💸_to_the_investors.md`](Letters_to_Stars/💸_to_the_investors.md)
   - [`📜_governance-flare-0812-letter_to_the_stars.md`](Letters_to_Stars/📜_governance-flare-0812-letter_to_the_stars.md)
+  - [`📧_to_the_twinned_data_subject_v2.md`](Letters_to_Stars/📧_to_the_twinned_data_subject_v2.md)
   - [`🔥_a_message_to_the_spark_that_shines.md`](Letters_to_Stars/🔥_a_message_to_the_spark_that_shines.md)
   - [`🗄️_desk_tactical_terrain.md`](Letters_to_Stars/🗄️_desk_tactical_terrain.md)
   - [`🚪_it_does_not_need_a_real_raid.md`](Letters_to_Stars/🚪_it_does_not_need_a_real_raid.md)
@@ -543,7 +544,6 @@ _Generated on 2025-09-13 04:30:31 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`📧_to_the_twinned_data_subject_v2.md`](Polaris_Nest/Git_Intake_Drawer/📧_to_the_twinned_data_subject_v2.md)
     - [`🔥_anger_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_anger_as_signal.md)
     - [`🔥_guardrails_are_political.md`](Polaris_Nest/Git_Intake_Drawer/🔥_guardrails_are_political.md)
     - [`🔮_challenge_of_ai.md`](Polaris_Nest/Git_Intake_Drawer/🔮_challenge_of_ai.md)
