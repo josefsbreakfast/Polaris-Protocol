@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:28:00 UTC_
+_Generated on 2025-09-13 13:30:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -117,6 +117,7 @@ _Generated on 2025-09-13 13:28:00 UTC_
       - [`🪦_metadata_ghosts_and_hauntings.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🪦_metadata_ghosts_and_hauntings.md)
       - [`🫀_holding_a_weapon_you_don’t_understand.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_don’t_understand.md)
       - [`🫛_amplification_by_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)
+      - [`🫛_amplification_by_convergence_2.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence_2.md)
       - [`🫜_asymmetric_discourse_policing.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫜_asymmetric_discourse_policing.md)
       - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
@@ -567,7 +568,6 @@ _Generated on 2025-09-13 13:28:00 UTC_
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
-    - [`🧬_amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🧬_amplification_by_convergence.md)
     - [`🧬_brains_are_not_flowcharts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_brains_are_not_flowcharts.md)
     - [`🧬_deliberate_data_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_deliberate_data_twinning.md)
     - [`🧬_metadata_twinning_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_twinning_analysis.md)
