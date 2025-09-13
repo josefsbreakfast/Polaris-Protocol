@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:31:13 UTC_
+_Generated on 2025-09-13 04:32:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -143,6 +143,7 @@ _Generated on 2025-09-13 04:31:13 UTC_
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
       - [`♨️_slow_burn_tactics.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/♨️_slow_burn_tactics.md)
       - [`🍬_containment_toffee_plot_2025-08-12_BR_compact.png`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🍬_containment_toffee_plot_2025-08-12_BR_compact.png)
+      - [`🔥_anger_as_signal.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🔥_anger_as_signal.md)
       - [`🔮_seance_protocol.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🔮_seance_protocol.md)
       - [`🛠_practical_resilience_nodes.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🛠_practical_resilience_nodes.md)
       - [`🧨_nudgers_get_nudged.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_nudgers_get_nudged.md)
@@ -544,7 +545,6 @@ _Generated on 2025-09-13 04:31:13 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`🔥_anger_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_anger_as_signal.md)
     - [`🔥_guardrails_are_political.md`](Polaris_Nest/Git_Intake_Drawer/🔥_guardrails_are_political.md)
     - [`🔮_challenge_of_ai.md`](Polaris_Nest/Git_Intake_Drawer/🔮_challenge_of_ai.md)
     - [`🕯️_witness_node_cost_of_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_witness_node_cost_of_mapping.md)
