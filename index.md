@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:17:32 UTC_
+_Generated on 2025-09-13 18:17:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -258,6 +258,7 @@ _Generated on 2025-09-13 18:17:32 UTC_
     - [`🛜_signal_reclaimers.md`](Disruption_Kit/💣_Syntax_Bombs/🛜_signal_reclaimers.md)
     - [`🦤_field_guide_to_mansplainers.md`](Disruption_Kit/💣_Syntax_Bombs/🦤_field_guide_to_mansplainers.md)
     - [`🧨_forensic_disruptors.md`](Disruption_Kit/💣_Syntax_Bombs/🧨_forensic_disruptors.md)
+    - [`🩸_care_saboteurs.md`](Disruption_Kit/💣_Syntax_Bombs/🩸_care_saboteurs.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -647,7 +648,6 @@ _Generated on 2025-09-13 18:17:32 UTC_
   - [`🛰️_forensic_and_osint_tools.md`](Resources/🛰️_forensic_and_osint_tools.md)
   - [`🧾_glossary_and_meta_index.md`](Resources/🧾_glossary_and_meta_index.md)
 - [**Syntax_Bombs/**](Syntax_Bombs/)
-  - [`🩸_care_saboteurs.md`](Syntax_Bombs/🩸_care_saboteurs.md)
   - [`🪩_mirror_smashers.md`](Syntax_Bombs/🪩_mirror_smashers.md)
 - [**Tag_Pack/**](Tag_Pack/)
   - [`Polaris_Tags_v1.0.md`](Tag_Pack/Polaris_Tags_v1.0.md)
