@@ -1,6 +1,6 @@
 # 🕯️ Witness Node: Cost of Mapping  
-**First created:** 2025-09-10 | **Last updated:** 2025-09-10  
-*A record of the labour and hurt carried in building Polaris.*  
+**First created:** 2025-09-10 | **Last updated:** 2025-09-13  
+*A record of the labour and hurt carried in building Polaris*  
 
 ---
 
@@ -33,4 +33,4 @@ It holds testimony of survivor labour and the hurt that accompanies persistence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_
+_Last updated: 2025-09-13_
