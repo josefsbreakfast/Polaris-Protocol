@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:09:46 UTC_
+_Generated on 2025-09-13 18:12:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -248,6 +248,8 @@ _Generated on 2025-09-13 18:09:46 UTC_
     - [`🧬_honeytrap_mechanics.md`](Disruption_Kit/Survivor_Tools/🧬_honeytrap_mechanics.md)
     - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
+  - [**Syntax_Bombs/**](Disruption_Kit/Syntax_Bombs/)
+    - [`README.md`](Disruption_Kit/Syntax_Bombs/README.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -637,7 +639,6 @@ _Generated on 2025-09-13 18:09:46 UTC_
   - [`🛰️_forensic_and_osint_tools.md`](Resources/🛰️_forensic_and_osint_tools.md)
   - [`🧾_glossary_and_meta_index.md`](Resources/🧾_glossary_and_meta_index.md)
 - [**Syntax_Bombs/**](Syntax_Bombs/)
-  - [`README.md`](Syntax_Bombs/README.md)
   - [`➰_ghost_loop_interrupters.md`](Syntax_Bombs/➰_ghost_loop_interrupters.md)
   - [`🌾_whisper_jammers.md`](Syntax_Bombs/🌾_whisper_jammers.md)
   - [`🍊_social_credit_reversal.md`](Syntax_Bombs/🍊_social_credit_reversal.md)
