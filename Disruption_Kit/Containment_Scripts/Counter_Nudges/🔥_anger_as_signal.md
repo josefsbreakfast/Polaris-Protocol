@@ -1,5 +1,5 @@
 # 🔥 Anger as Signal  
-**First created:** 2025-08-31 | **Last updated:** 2025-08-31  
+**First created:** 2025-08-31 | **Last updated:** 2025-09-13  
 *Framing survivor anger as forensic evidence rather than pathology*  
 
 ---
@@ -42,4 +42,4 @@ It documents survivor anger as a forensic marker of systemic cruelty and institu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-09-13_  
