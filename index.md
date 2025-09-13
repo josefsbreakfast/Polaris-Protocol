@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:32:37 UTC_
+_Generated on 2025-09-13 04:34:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -167,6 +167,7 @@ _Generated on 2025-09-13 04:32:37 UTC_
       - [`🌀_recognition_without_resolution.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_recognition_without_resolution.md)
       - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
       - [`🔥_cooling_the_record.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔥_cooling_the_record.md)
+      - [`🔥_guardrails_are_political.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔥_guardrails_are_political.md)
       - [`🖱_tactile_throttling_when_interaction_becomes_interference.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🖱_tactile_throttling_when_interaction_becomes_interference.md)
       - [`🗳️_liberal_democracy_response_logic.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🗳️_liberal_democracy_response_logic.md)
       - [`🚫_blocked_at_the_gateway.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🚫_blocked_at_the_gateway.md)
@@ -545,7 +546,6 @@ _Generated on 2025-09-13 04:32:37 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`🔥_guardrails_are_political.md`](Polaris_Nest/Git_Intake_Drawer/🔥_guardrails_are_political.md)
     - [`🔮_challenge_of_ai.md`](Polaris_Nest/Git_Intake_Drawer/🔮_challenge_of_ai.md)
     - [`🕯️_witness_node_cost_of_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_witness_node_cost_of_mapping.md)
     - [`🕵️_harassment_vs_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md)
