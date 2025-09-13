@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:15:50 UTC_
+_Generated on 2025-09-13 18:16:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -254,6 +254,7 @@ _Generated on 2025-09-13 18:15:50 UTC_
     - [`🌾_whisper_jammers.md`](Disruption_Kit/💣_Syntax_Bombs/🌾_whisper_jammers.md)
     - [`🍊_social_credit_reversal.md`](Disruption_Kit/💣_Syntax_Bombs/🍊_social_credit_reversal.md)
     - [`🔥_erotic_resistance.md`](Disruption_Kit/💣_Syntax_Bombs/🔥_erotic_resistance.md)
+    - [`🕯_memory_anchors.md`](Disruption_Kit/💣_Syntax_Bombs/🕯_memory_anchors.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -643,7 +644,6 @@ _Generated on 2025-09-13 18:15:50 UTC_
   - [`🛰️_forensic_and_osint_tools.md`](Resources/🛰️_forensic_and_osint_tools.md)
   - [`🧾_glossary_and_meta_index.md`](Resources/🧾_glossary_and_meta_index.md)
 - [**Syntax_Bombs/**](Syntax_Bombs/)
-  - [`🕯_memory_anchors.md`](Syntax_Bombs/🕯_memory_anchors.md)
   - [`🛜_signal_reclaimers.md`](Syntax_Bombs/🛜_signal_reclaimers.md)
   - [`🦤_field_guide_to_mansplainers.md`](Syntax_Bombs/🦤_field_guide_to_mansplainers.md)
   - [`🧨_forensic_disruptors.md`](Syntax_Bombs/🧨_forensic_disruptors.md)
