@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:05:49 UTC_
+_Generated on 2025-09-13 04:07:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -43,6 +43,7 @@ _Generated on 2025-09-13 04:05:49 UTC_
       - [`👀_public_perception_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👀_public_perception_gap.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💄_surveillance_or_pervert_with_a_badge.md)
       - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💢_draft_prevent_ihl.md)
+      - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_polaris_costing_estimate.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_narrative_management_and_metadata_sabotage.md)
       - [`📚_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_print_culture_as_precedent.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
@@ -528,7 +529,6 @@ _Generated on 2025-09-13 04:05:49 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`💷_polaris_costing_estimate.md`](Polaris_Nest/Git_Intake_Drawer/💷_polaris_costing_estimate.md)
     - [`💷_potential_tort_exposure.md`](Polaris_Nest/Git_Intake_Drawer/💷_potential_tort_exposure.md)
     - [`💷_procurement_culture_dept_clashes.md`](Polaris_Nest/Git_Intake_Drawer/💷_procurement_culture_dept_clashes.md)
     - [`💷_survivor_costing_estimate.md`](Polaris_Nest/Git_Intake_Drawer/💷_survivor_costing_estimate.md)
