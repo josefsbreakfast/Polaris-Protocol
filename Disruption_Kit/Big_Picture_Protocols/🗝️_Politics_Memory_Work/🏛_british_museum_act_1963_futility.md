@@ -1,4 +1,4 @@
-# ⚖️ British Museum Act (1963 Futility)  
+# 🏛 British Museum Act (1963 Futility)  
 **First created:** 2025-09-13 | **Last updated:** 2025-09-13  
 *How a statute written in the afterglow of empire turned looted artefacts into a permanent collection, locking restitution into a cycle of exhaustion and denial*
 
