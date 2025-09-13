@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:15:10 UTC_
+_Generated on 2025-09-13 04:16:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -47,6 +47,7 @@ _Generated on 2025-09-13 04:15:10 UTC_
       - [`💷_potential_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_potential_tort_exposure.md)
       - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_dept_clashes.md)
       - [`💷_survivor_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_survivor_costing_estimate.md)
+      - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💸_repression_cost_capital.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_narrative_management_and_metadata_sabotage.md)
       - [`📚_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_print_culture_as_precedent.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
@@ -533,7 +534,6 @@ _Generated on 2025-09-13 04:15:10 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`💸_repression_cost_capital.md`](Polaris_Nest/Git_Intake_Drawer/💸_repression_cost_capital.md)
     - [`📁_absence_of_check_in.md`](Polaris_Nest/Git_Intake_Drawer/📁_absence_of_check_in.md)
     - [`📂_racialised_projection_as_harassment.md`](Polaris_Nest/Git_Intake_Drawer/📂_racialised_projection_as_harassment.md)
     - [`📂_witness_pairing_and_projection.md`](Polaris_Nest/Git_Intake_Drawer/📂_witness_pairing_and_projection.md)
