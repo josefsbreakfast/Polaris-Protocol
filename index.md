@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:27:04 UTC_
+_Generated on 2025-09-13 18:29:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -471,7 +471,6 @@ _Generated on 2025-09-13 18:27:04 UTC_
   - [**Admin_Kit/**](Polaris_Nest/Admin_Kit/)
     - [**Harm_Logs/**](Polaris_Nest/Admin_Kit/Harm_Logs/)
       - [**2025-08-11_sexualisation_sweep/**](Polaris_Nest/Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/)
-        - [`README.md`](Polaris_Nest/Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/README.md)
         - [`forensic_sweep_analysis.html`](Polaris_Nest/Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/forensic_sweep_analysis.html)
         - [`harm_scan_2025-08-11.md`](Polaris_Nest/Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/harm_scan_2025-08-11.md)
         - [`harm_scan_2025-08-12.md`](Polaris_Nest/Admin_Kit/Harm_Logs/2025-08-11_sexualisation_sweep/harm_scan_2025-08-12.md)
@@ -643,6 +642,9 @@ _Generated on 2025-09-13 18:27:04 UTC_
     - [`🪬_displacement_writing.md`](Polaris_Nest/✨_Letters_to_Stars/🪬_displacement_writing.md)
     - [`🪻_take_me_home.md`](Polaris_Nest/✨_Letters_to_Stars/🪻_take_me_home.md)
   - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
+    - [**⚠_Harm_Logs/**](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/)
+      - [**🧹_2025-08-11_sexualisation_sweep/**](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/)
+        - [`README.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/README.md)
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
     - [`🎏_dividers_and_headers.md`](Polaris_Nest/🏮_Admin_Kit/🎏_dividers_and_headers.md)
     - [`🐾_footer_seals.md`](Polaris_Nest/🏮_Admin_Kit/🐾_footer_seals.md)
