@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:47:08 UTC_
+_Generated on 2025-09-13 20:55:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -142,6 +142,7 @@ _Generated on 2025-09-13 18:47:08 UTC_
       - [`🌍_climate_panic_routing.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌍_climate_panic_routing.md)
       - [`🎧_music_as_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🎧_music_as_pipeline.md)
       - [`🏛️_elite_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_elite_normalisation.md)
+      - [`🏨_hotels_protests_and_power_consolidation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md)
       - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
       - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
       - [`📣_mainstream_visibility_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📣_mainstream_visibility_gaps.md)
