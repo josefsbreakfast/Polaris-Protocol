@@ -1,12 +1,15 @@
 # Repository Index
 
-_Generated on 2025-09-13 17:47:24 UTC_
+_Generated on 2025-09-13 17:47:56 UTC_
 
 > Folders are bold; items are clickable.
 
 - [**.github/**](.github/)
   - [**workflows/**](.github/workflows/)
     - [`generate-index.yml`](.github/workflows/generate-index.yml)
+- [**Big_Picture_Protocols/**](Big_Picture_Protocols/)
+  - [**Politics_And_Memory/**](Big_Picture_Protocols/Politics_And_Memory/)
+    - [`⚖️_british_museum_act_1963_futility.md`](Big_Picture_Protocols/Politics_And_Memory/⚖️_british_museum_act_1963_futility.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
