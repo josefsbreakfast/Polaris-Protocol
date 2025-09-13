@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:22:51 UTC_
+_Generated on 2025-09-13 04:24:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -127,6 +127,7 @@ _Generated on 2025-09-13 04:22:51 UTC_
     - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/README.md)
       - [`☕🫖_uk_gov_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
+      - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
       - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
       - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
       - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
@@ -538,7 +539,6 @@ _Generated on 2025-09-13 04:22:51 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`📍_postcode_harm_ecology.md`](Polaris_Nest/Git_Intake_Drawer/📍_postcode_harm_ecology.md)
     - [`📚_student_default_faultline.md`](Polaris_Nest/Git_Intake_Drawer/📚_student_default_faultline.md)
     - [`📜_uk_data_bill_2025.md`](Polaris_Nest/Git_Intake_Drawer/📜_uk_data_bill_2025.md)
     - [`📜_uk_house_of_lords_2025.md`](Polaris_Nest/Git_Intake_Drawer/📜_uk_house_of_lords_2025.md)
