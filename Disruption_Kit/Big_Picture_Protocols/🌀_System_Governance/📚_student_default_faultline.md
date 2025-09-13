@@ -1,6 +1,6 @@
 # 📚 Student as Default Faultline
-**First created:** 2025-09-10 | **Last updated:** 2025-09-10  
-*How institutions embed user-blame into everyday errors.*
+**First created:** 2025-09-10 | **Last updated:** 2025-09-13  
+*How institutions embed user-blame into everyday errors*
 
 ---
 
@@ -33,4 +33,4 @@ It captures how negligence and coercive nudging combine to erase systemic accoun
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_
+_Last updated: 2025-09-13_
