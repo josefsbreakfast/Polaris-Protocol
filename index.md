@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:37:43 UTC_
+_Generated on 2025-09-13 13:39:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -671,6 +671,8 @@ _Generated on 2025-09-13 13:37:43 UTC_
     - [`🧬_voice_capture_triggers.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md)
     - [`🧱_structural_reversion_ghost.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧱_structural_reversion_ghost.md)
     - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
+  - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
+    - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
   - [**🦴_Skeletal_Shards/**](👻_Apparitional_Objects/🦴_Skeletal_Shards/)
     - [`🔮_challenge_of_ai.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
