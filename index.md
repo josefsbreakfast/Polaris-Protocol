@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 13:26:57 UTC_
+_Generated on 2025-09-13 13:28:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -567,7 +567,6 @@ _Generated on 2025-09-13 13:26:57 UTC_
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
-    - [`🧪_adversary_playbook_twinning_outliers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_adversary_playbook_twinning_outliers.md)
     - [`🧬_amplification_by_convergence.md`](Polaris_Nest/Git_Intake_Drawer/🧬_amplification_by_convergence.md)
     - [`🧬_brains_are_not_flowcharts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_brains_are_not_flowcharts.md)
     - [`🧬_deliberate_data_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_deliberate_data_twinning.md)
@@ -667,6 +666,7 @@ _Generated on 2025-09-13 13:26:57 UTC_
     - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](👻_Apparitional_Objects/Fork_Taxonomy/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
     - [`🧃_tiktok_twinning_petri_dish.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧃_tiktok_twinning_petri_dish.md)
     - [`🧠_behavioural_fork_traits_cross_matrix.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧠_behavioural_fork_traits_cross_matrix.md)
+    - [`🧪_adversary_playbook_twinning_outliers.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧪_adversary_playbook_twinning_outliers.md)
     - [`🧬_fork_clone_map.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_fork_clone_map.md)
     - [`🧬_voice_capture_triggers.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md)
     - [`🧱_structural_reversion_ghost.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧱_structural_reversion_ghost.md)
