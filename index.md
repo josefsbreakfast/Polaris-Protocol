@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:07:21 UTC_
+_Generated on 2025-09-13 18:07:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -250,7 +250,6 @@ _Generated on 2025-09-13 18:07:21 UTC_
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Letters_to_Stars/**](Letters_to_Stars/)
-  - [`🧿_half_the_torture.md`](Letters_to_Stars/🧿_half_the_torture.md)
   - [`🧿_i_wish_for_safety.md`](Letters_to_Stars/🧿_i_wish_for_safety.md)
   - [`🧿_reflections_on_reflecting.md`](Letters_to_Stars/🧿_reflections_on_reflecting.md)
   - [`🧿_visibility_log_polaris_day_1.md`](Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
@@ -626,6 +625,7 @@ _Generated on 2025-09-13 18:07:21 UTC_
     - [`🗄️_desk_tactical_terrain.md`](Polaris_Nest/✨_Letters_to_Stars/🗄️_desk_tactical_terrain.md)
     - [`🚪_it_does_not_need_a_real_raid.md`](Polaris_Nest/✨_Letters_to_Stars/🚪_it_does_not_need_a_real_raid.md)
     - [`🛰️_signal_report_2025_08.md`](Polaris_Nest/✨_Letters_to_Stars/🛰️_signal_report_2025_08.md)
+    - [`🧿_half_the_torture.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_half_the_torture.md)
   - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
   - [`README.md`](Polaris_Nest/README.md)
