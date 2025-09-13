@@ -1,6 +1,6 @@
 # 📁 Dossier Note: Absence of Check-In
 
-**First created:** 2025-08-18 | **Last updated:** 2025-08-31
+**First created:** 2025-08-18 | **Last updated:** 2025-09-13
 
 *Theoretical analysis of why survivor-led check-ins fail to occur within institutional projects*  
 
@@ -55,4 +55,4 @@ It theorises how institutional protection mechanisms suppress survivor-led overs
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-09-13_  
