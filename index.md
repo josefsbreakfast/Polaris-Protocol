@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 04:18:25 UTC_
+_Generated on 2025-09-13 04:19:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -285,6 +285,7 @@ _Generated on 2025-09-13 04:18:25 UTC_
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
+      - [`📂_racialised_projection_as_harassment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/📂_racialised_projection_as_harassment.md)
       - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🙄_jewish_loyalty_pings_faster_than_rape.md)
       - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🥸_bookshops_vs_behavioral_risks.md)
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
@@ -535,7 +536,6 @@ _Generated on 2025-09-13 04:18:25 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-    - [`📂_racialised_projection_as_harassment.md`](Polaris_Nest/Git_Intake_Drawer/📂_racialised_projection_as_harassment.md)
     - [`📂_witness_pairing_and_projection.md`](Polaris_Nest/Git_Intake_Drawer/📂_witness_pairing_and_projection.md)
     - [`📊_kpi_vs_okr_in_government.md`](Polaris_Nest/Git_Intake_Drawer/📊_kpi_vs_okr_in_government.md)
     - [`📍_postcode_harm_ecology.md`](Polaris_Nest/Git_Intake_Drawer/📍_postcode_harm_ecology.md)
