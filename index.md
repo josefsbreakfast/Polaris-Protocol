@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 17:49:37 UTC_
+_Generated on 2025-09-13 17:54:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -329,9 +329,20 @@ _Generated on 2025-09-13 17:49:37 UTC_
       - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
+      - [`⏳_looped_waiting_rooms_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms_2025-09-13.md)
+      - [`🌀_recognition_without_resolution_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md)
       - [`🌑_induced_futility.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)
       - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
+      - [`🌫️_memory_fogging_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging_2025-09-13.md)
+      - [`👁️_silent_witness_effect_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️_silent_witness_effect_2025-09-13.md)
       - [`👁️‍🗨️_embedded_observers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️‍🗨️_embedded_observers.md)
+      - [`💔_weaponised_empathy_gaps_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md)
+      - [`🕯️_hope_withholding_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding_2025-09-13.md)
+      - [`😴_exhaustion_as_containment_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment_2025-09-13.md)
+      - [`🚪_isolation_scripting_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md)
+      - [`🥀_loneliness_as_a_system_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system_2025-09-13.md)
+      - [`🪤_suspicion_seeding_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_suspicion_seeding_2025-09-13.md)
+      - [`🫀_pathologising_sensitivity_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md)
     - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🌀_synthetic_narratives.md)
