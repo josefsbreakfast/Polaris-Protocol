@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:24:04 UTC_
+_Generated on 2025-09-13 18:25:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -485,7 +485,6 @@ _Generated on 2025-09-13 18:24:04 UTC_
     - [`🐾_footer_seals.md`](Polaris_Nest/Admin_Kit/🐾_footer_seals.md)
     - [`🔮_house_style.md`](Polaris_Nest/Admin_Kit/🔮_house_style.md)
     - [`🧿_visual_palette.md`](Polaris_Nest/Admin_Kit/🧿_visual_palette.md)
-    - [`🪄_branding_usage_guide.md`](Polaris_Nest/Admin_Kit/🪄_branding_usage_guide.md)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
@@ -649,6 +648,7 @@ _Generated on 2025-09-13 18:24:04 UTC_
     - [`🪻_take_me_home.md`](Polaris_Nest/✨_Letters_to_Stars/🪻_take_me_home.md)
   - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
+    - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
   - [`README.md`](Polaris_Nest/README.md)
   - [`🏮_where_to_go.md`](Polaris_Nest/🏮_where_to_go.md)
 - [**scripts/**](scripts/)
