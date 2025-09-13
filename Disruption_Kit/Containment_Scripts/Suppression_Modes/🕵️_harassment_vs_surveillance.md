@@ -1,5 +1,5 @@
 # 🕵️ Collapse Between Harassment and Surveillance  
-**First created:** 2025-08-31 | **Last updated:** 2025-08-31  
+**First created:** 2025-08-31 | **Last updated:** 2025-09-13  
 *Forensic note on how harassment reports are dismissed under surveillance framings*  
 
 ---
@@ -36,4 +36,4 @@ It records how harms are misframed as monitoring, stripping survivors of both re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-31_  
+_Last updated: 2025-09-13_  
