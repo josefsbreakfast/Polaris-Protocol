@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 17:58:14 UTC_
+_Generated on 2025-09-13 17:58:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -250,7 +250,6 @@ _Generated on 2025-09-13 17:58:14 UTC_
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Letters_to_Stars/**](Letters_to_Stars/)
-  - [`⁉️_conversation_erase_event.md`](Letters_to_Stars/⁉️_conversation_erase_event.md)
   - [`⚖️_key_legal_issues_SARs_NDAs.md`](Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md)
   - [`✨_fragments_and_sparkles.md`](Letters_to_Stars/✨_fragments_and_sparkles.md)
   - [`✨_it_was_always_this_easy.md`](Letters_to_Stars/✨_it_was_always_this_easy.md)
@@ -625,6 +624,7 @@ _Generated on 2025-09-13 17:58:14 UTC_
     - [`📅_week_ahead_2025-09-05.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_2025-09-05.md)
     - [`📅_week_ahead_YYYY-MM-DD.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_YYYY-MM-DD.md)
   - [**✨_Letters_to_Stars/**](Polaris_Nest/✨_Letters_to_Stars/)
+    - [`⁉️_conversation_erase_event.md`](Polaris_Nest/✨_Letters_to_Stars/⁉️_conversation_erase_event.md)
     - [`✨_polaris_live.md`](Polaris_Nest/✨_Letters_to_Stars/✨_polaris_live.md)
   - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
