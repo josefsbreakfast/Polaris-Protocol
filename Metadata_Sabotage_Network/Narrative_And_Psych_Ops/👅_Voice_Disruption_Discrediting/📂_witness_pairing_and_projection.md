@@ -1,6 +1,6 @@
 # 📂 Witness Pairing and Projection  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-06  
-*How harassment twinning creates co-witnesses, and how projection and obstruction become forensic evidence.*  
+**First created:** 2025-09-06 | **Last updated:** 2025-09-13  
+*How harassment twinning creates co-witnesses, and how projection and obstruction become forensic evidence*  
 
 ---
 
@@ -68,4 +68,4 @@ It reframes survivor pairing as forensic alignment, not coincidence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-09-13_  
