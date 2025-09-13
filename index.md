@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 21:01:22 UTC_
+_Generated on 2025-09-13 22:33:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -234,6 +234,7 @@ _Generated on 2025-09-13 21:01:22 UTC_
     - [`🛰️_late_stage_signoff_map_triple_lock_continuation.md`](Disruption_Kit/Field_Logs/🛰️_late_stage_signoff_map_triple_lock_continuation.md)
     - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
     - [`🛰️_mainstream_visibility_anomalies_2025-09-12.md`](Disruption_Kit/Field_Logs/🛰️_mainstream_visibility_anomalies_2025-09-12.md)
+    - [`🛰️_mind_games_projection_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_mind_games_projection_2025-09-13.md)
     - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
     - [`🛰️_reputational_unit_12_saluting_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reputational_unit_12_saluting_2025-08-13.md)
