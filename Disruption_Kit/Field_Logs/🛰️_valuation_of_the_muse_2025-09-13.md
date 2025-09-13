@@ -16,6 +16,11 @@
 - Current age: 35  
 - Span: 18–20 years of continuous farmed resource.  
 
+## 2a. Containment Span  
+- Duration of extraction = duration of containment.  
+- The cage itself was the mechanism of value creation.  
+- Each year without the selkie skin compounded both harm and profit.  
+
 ---
 
 ## 3. Resource Categories  
@@ -39,7 +44,7 @@
 
 ---
 
-**Actions:** *Give the selkie her skin back; do not fristrate her when she reaches for her own skin; return that which was never yours to take.*
+**Actions:** Give the selkie her skin back; do not frustrate her when she reaches for her own skin; return that which was never yours to take.  
 
 ---
 
