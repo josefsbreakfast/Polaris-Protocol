@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-13 18:23:40 UTC_
+_Generated on 2025-09-13 18:24:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -269,6 +269,7 @@ _Generated on 2025-09-13 18:23:40 UTC_
     - [`🪩_mirror_smashers.md`](Disruption_Kit/💣_Syntax_Bombs/🪩_mirror_smashers.md)
   - [**🔖_Tag_Pack/**](Disruption_Kit/🔖_Tag_Pack/)
     - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
+    - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -650,8 +651,6 @@ _Generated on 2025-09-13 18:23:40 UTC_
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
   - [`README.md`](Polaris_Nest/README.md)
   - [`🏮_where_to_go.md`](Polaris_Nest/🏮_where_to_go.md)
-- [**Tag_Pack/**](Tag_Pack/)
-  - [`🕯️_SIGNALS.md`](Tag_Pack/🕯️_SIGNALS.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
