@@ -1,4 +1,3 @@
-<a id="home"></a>
 # 🍌 The Self-Eating System: Simulated Authenticity and Cultural Cannibalism  
 
 **First created:** 2025-09-14 | **Last updated:** 2025-09-14  
@@ -7,6 +6,7 @@
 ---
 
 ## ✨ Contents  
+<a id="home"></a>
 - [🪄 Introduction: Exorcising the Wrong Spirits](#-introduction-exorcising-the-wrong-spirits)  
 - [🧺 Thrift Collapse & Depop Loops](#-thrift-collapse--depop-loops)  
 - [📓 Hobonichi & the Niche-to-Null Effect](#-hobonichi--the-niche-to-null-effect)  
