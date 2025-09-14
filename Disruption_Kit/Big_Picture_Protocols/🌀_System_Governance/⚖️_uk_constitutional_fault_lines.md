@@ -1,5 +1,5 @@
 # ⚖️ UK Constitutional Fault Lines  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-12   
+**First created:** 2025-09-04 | **Last updated:** 2025-09-14   
 *Mapping overlapping pressures on the UK’s unwritten constitution*  
 
 ---
@@ -87,10 +87,8 @@ unwritten constitution.
 This file is a living node of the **Polaris Protocol**.  
 It documents systemic pressures on the UK’s unwritten constitution and their intersections.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural and systemic diagnostics  
-> - [Admin Kit](../Admin_Kit/) — house style and operational scaffolding  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_  
+_Last updated: 2025-09-14_  
