@@ -1,7 +1,6 @@
 # ⚖️ Strategic Lawsuits Against Public Participation (SLAPPs)
-
-**First created:** 2025-09-04 | **Last updated:** 2025-09-12  
-*Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony.*  
+**First created:** 2025-09-04 | **Last updated:** 2025-09-14  
+*Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony*  
 
 ---
 
@@ -144,14 +143,11 @@ Their impact is most acute where solidarity, IHL obligations, and survivor testi
 It situates SLAPPs as both legal tactics and systemic silencing frameworks.  
 By mapping legal timelines, global context, survivor erasure, Crown property rules, and enforcement webs, it shows how SLAPPs operate as a service industry for suppression.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/)  
-> - [⚖️ Foreign Repression on UK Soil](../Big_Picture_Protocols/⚖️_foreign_repression_jchr_2025-09-04.md)  
-> - [Survivor Tools](../Survivor_Tools/)  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_  
+_Last updated: 2025-09-14_  
 
 ---
 
