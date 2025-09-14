@@ -1,17 +1,17 @@
 # 🫀 Genocide by Containment  
-**First created:** 2025-09-03 | **Last updated:** 2025-09-03  
+**First created:** 2025-09-03 | **Last updated:** 2025-09-14  
 *How bureaucratic disposal mechanisms escalate into genocidal practice*
 
 ---
 
-## Summary  
+## 🕯 Summary  
 This node records how state systems transform containment logics into genocidal outcomes.  
 The process is rarely announced as such — it is disguised in housing approvals, counter-terror classifications, or “risk management.”  
 Yet the net effect is the same: **people are treated as disposable bodies.**
 
 ---
 
-## Key Dynamics  
+## ♟ Key Dynamics  
 
 - **Disposability:** asylum seekers placed in unsafe hotels; their deaths treated as acceptable risk.  
 - **Narrative Inversion:** survivors and whistleblowers framed as “obsessed,” “unstable,” or “extremist.”  
@@ -21,7 +21,7 @@ Yet the net effect is the same: **people are treated as disposable bodies.**
 
 ---
 
-## Experiential Effects  
+## ⚗ Experiential Effects  
 
 > *“Asylum seekers as disposable bodies. It’s a genocide; it’s fucking grim.”*  
 
@@ -36,10 +36,8 @@ What feels like “admin” is experienced as death-making.
 *Genocide by Containment* is a living node of the Polaris Protocol.  
 It documents how ordinary bureaucratic logics — surveillance, housing, counter-terror — scale into genocidal practice.  
 
-> 📡 Cross-references:  
-> - [🧩 Metadata Twinning](../Disruption_Kit/Big_Picture_Protocols/🧩_metadata_twinning.md) — fusion of whistleblowers into containment files  
-> - [🌀 System Governance](../Disruption_Kit/Big_Picture_Protocols/🌀_system_governance.md) — architecture of control and silence  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-03_
+_Last updated: 2025-09-14_
