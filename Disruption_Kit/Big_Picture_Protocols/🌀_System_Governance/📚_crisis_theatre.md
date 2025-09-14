@@ -15,6 +15,7 @@
 - [💰 What Is Capitalism?](#what-is-capitalism)
 - [🙄 Why Won’t Anyone Say It?](#why-wont-anyone-say-it)
 - [🎭 Cultural Mirrors & Counterweights](#cultural-mirrors-counterweights)
+- [🎶 Cultural Resource Appendix](#cultural-resource-appendix)
 - [📚 Resources (Further Reading & Data)](#resources)
 - [📍 Where This Leaves Us Now](#where-this-leaves-us-now)
 - [🌱 Embodied Practices (Tier 1)](#embodied-practices)
@@ -116,7 +117,6 @@ Crisis Theatre needs its villains visible, racialised, and external. The dominan
 
 ---
 
-
 <a id="monitored-responses"></a>
 ## 🧩 Monitored Responses & Predictive Containment  
 
@@ -163,8 +163,8 @@ But culture also offers mirrors and counternudges.
 
 Together these cultural texts show both the weight of containment — and the counternarratives that let survivors and communities step off the stage.  
 
-
-### 🎶 Cultural Resource Appendix  
+#<a id="cultural-resource-appendix"></a>
+## 🎶 Cultural Resource Appendix  
 
 | Work | Medium | Year | Why It Matters for Crisis Theatre |
 |---|---|---|---|
@@ -175,10 +175,6 @@ Together these cultural texts show both the weight of containment — and the co
 | *Nightcrawler* (Dan Gilroy) | Film | 2014 | Media as crisis producer; when reporting becomes manufacturing. |
 
 > These works act as mirrors and counternarratives — showing both how containment scripts are staged and how communities can step outside their cues.
-
-[↩ return to top](#home)
-
----
 
 [↩ return to top](#home)
 
@@ -209,7 +205,6 @@ Together these cultural texts show both the weight of containment — and the co
 | Predictive governance & monitored responses | Academic / Policy | Shoshana Zuboff – *The Age of Surveillance Capitalism* | On behaviour tracking & predictive modelling |
 | Democracy & surveillance ethics | Academic | David Lyon – *Surveillance Studies: An Overview* | Critical overview of surveillance, consent, and governance legitimacy |
 | Feedback loops as governance | Policy critique | Zeynep Tufekci – *Twitter and Tear Gas* | On how monitoring responses shapes future control tactics |
-
 
 > Tip: Where possible, attach local PDFs or permalinks when this node goes live in the repo, so the record resists link‑rot.  
 
