@@ -35,7 +35,7 @@ Each scandal was met not with accountability, but with another patchwork system 
 
 ---
 
-## ⚙️ Anatomy of a Frankenstack  
+## 🫁 Anatomy of a Frankenstack  
 - **Engineering fork** → signal processing, recommender systems, voice capture  
 - **Behavioural fork** → radicalisation models, online extremism detection, nudging  
 - **Healthcare fork** → “wellbeing apps,” safeguarding dashboards, “resilience” interventions  
