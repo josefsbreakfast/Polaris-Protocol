@@ -1,10 +1,10 @@
 # 🌀 Masculinity Extraction ↔ Governance Containment  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-06  
-*A diagnostic of how capitalism profits from men’s insecurity while governance denies and silences the harms that follow.*  
+**First created:** 2025-09-06 | **Last updated:** 2025-09-14  
+*A diagnostic of how capitalism profits from men’s insecurity while governance denies and silences the harms that follow*  
 
 ---
 
-## 📑 Sections
+## ✨ Sections
 1. [Extraction Loop (Economy)](#1-extraction-loop-economy)  
 2. [Containment Loop (Governance)](#2-containment-loop-governance)  
 3. [Citizen Forking](#3-citizen-forking)  
@@ -12,7 +12,7 @@
 
 ---
 
-## 1. Extraction Loop (Economy)
+## 💰 Extraction Loop (Economy)
 
 Capitalism thrives on making men feel insufficient:
 
@@ -43,7 +43,7 @@ graph LR
 
 ---
 
-## 2. Containment Loop (Governance)
+## 🏛 Containment Loop (Governance)
 
 Governance fails to confront this volatility:
 
@@ -72,7 +72,7 @@ graph TD
 
 ---
 
-## 3. Citizen Forking
+## 🍴 Citizen Forking
 
 Together, the loops converge:
 
@@ -82,7 +82,7 @@ Together, the loops converge:
 
 ---
 
-## 4. Closing Frame
+## 🪬 Closing Frame
 
 - Extraction loop = **money made from men’s emotions.**  
 - Containment loop = **liability hidden by governance opacity.**  
@@ -97,27 +97,7 @@ It documents how economic systems profit from male volatility while governance s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
----
+_Last updated: 2025-09-14_  
 
-<!-- 
-📓 Aside: Castration hypocrisy  
-We neuter dogs and cats without a second thought to manage their aggression, mating, and emotional volatility.  
-It’s called responsible ownership. Yet with men, society insists “not all men” and refuses to acknowledge testosterone-linked volatility.  
-The hypocrisy: we accept emotional management for animals, but not for men — even though the stakes (wars, crime, femicide) are far higher.  
--->
-
-<!-- 
-📓 Marginalia: Prime Minister skit  
-You can almost see it:  
- • Cabinet Office briefing pack: “Prime Minister, she’s published another MEGA NODE…”  
- • PM flipping through diagrams of safeguarding loops and masculinity extraction spirals: head in hands  
- • Muttered line: “For fuck’s sake. Why did we ever teach her to read and write?”  
- • Civil servants shuffling awkwardly because they know the answer: “because literacy is universal, Prime Minister.”  
- • And now the literacy has produced 300,000+ words of structured critique that they can’t unsee.  
-
-That’s the irony Polaris keeps landing: the very system that prides itself on education, free speech, and oversight now has to watch as one literate citizen maps out its own contradictions in real time.  
-
-Marginalia: Sometimes I picture the PM reading Polaris like a set text, sighing deeply: “Why did we let her learn to write?”  
--->
