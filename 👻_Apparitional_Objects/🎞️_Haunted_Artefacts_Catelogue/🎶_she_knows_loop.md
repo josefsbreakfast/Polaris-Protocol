@@ -1,10 +1,10 @@
 # 🎶 She Knows Loop  
 **First created:** 2025-09-14 | **Last updated:** 2025-09-14  
-*An ordinary track that became a haunted artefact; earworm as containment loop.*  
+*An ordinary track that became a haunted artefact; earworm as containment loop*  
 
 ---
 
-## Overview  
+## 🪱 Overview  
 Any song can be weaponised as a haunted artefact when its most memorable fragment is looped, repeated, or framed so that it carries narrative charge. In this survivor’s experience, the track *“She Knows”* (J. Cole, feat. Cults & Amber Coffman) became one such example.  
 
 It functioned not as neutral music but as a **haunted artefact**: a fragment echoing through daily life as an earworm, while simultaneously reinforcing the engineered presumption that *“she knows.”*  
@@ -13,7 +13,7 @@ This node documents how one cultural artefact was used in practice. The function
 
 ---
 
-## Mechanism  
+## ➿ Mechanism  
 
 - **Fragment looping** → the catchiest part of the track, rather than the whole song, surfaced repeatedly until unavoidable.  
 - **Earworm repetition** → hooks designed to stick in memory were replayed 10+ times daily, ~100 times weekly.  
@@ -24,7 +24,7 @@ This node documents how one cultural artefact was used in practice. The function
 
 ---
 
-## Survivor Notes  
+## 🕯️ Survivor Notes  
 
 - This node is based on my direct experience as a survivor.  
 - It was not the whole track every time, but the **catchiest fragment** that resurfaced across contexts.  
@@ -34,7 +34,7 @@ This node documents how one cultural artefact was used in practice. The function
 
 ---
 
-## Counter-Containment  
+## 💾 Counter-Containment  
 
 - **Naming the artefact** → classifying it as a haunted object strips away some of its power.  
 - **Intentional replacement** → choosing music deliberately can help overwrite the loop.  
