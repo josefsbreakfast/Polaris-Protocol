@@ -1,5 +1,5 @@
 # 🧠 Didn’t Apply Brain Loop  
-**First created:** 2025-09-03 | **Last updated:** 2025-09-03  
+**First created:** 2025-09-03 | **Last updated:** 2025-09-14  
 *How predator paranoia becomes institutional “intelligence” through DARVO echo chambers*  
 
 ---
@@ -43,10 +43,6 @@ a system burning resources to prove a predator’s delusion true.
 *Didn’t Apply Brain Loop* is a living node of the Polaris Protocol.  
 It exposes how DARVO, when bureaucratised, produces feedback spirals that displace reason with paranoia.  
 
-> 📡 Cross-references:  
-> - [🧩 DARVO Reflex in Institutional Uptake](../Disruption_Kit/Big_Picture_Protocols/🧩_darvo_reflex.md)  
-> - [🧩 Metadata Twinning](../Disruption_Kit/Big_Picture_Protocols/🧩_metadata_twinning.md)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-03_
+_Last updated: 2025-09-14_
