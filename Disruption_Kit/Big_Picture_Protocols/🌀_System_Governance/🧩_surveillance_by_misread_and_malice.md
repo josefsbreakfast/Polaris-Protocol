@@ -1,6 +1,6 @@
 # 🧩 Surveillance by Misread & Malice: Abuse and Democratic Integrity  
 
-**First created:** 2025-09-11 | **Last updated:** 2025-09-11  
+**First created:** 2025-09-11 | **Last updated:** 2025-09-14  
 *Diagnostic protocol: tracing how surveillance misuse scales, and how government could audit it with existing tools*
 
 ---
@@ -313,11 +313,6 @@ So when asking “why can’t the ICO just find it?” the honest answer is: no 
 *Surveillance Abuse and Democratic Integrity* is a living node of the Polaris Protocol.  
 It documents how systemic weaknesses in RIPA oversight allow individual abusers to scale containment, and proposes an audit methodology for the UK government to close the gap.  
 
-> 📡 Cross-references:  
-> - [🎭 RIPA Compliance Theatre](../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)  
-> - [🛰️ Arrest as Surveillance Warrant](../Disruption_Kit/Field_Logs/🛰️_arrest_as_surveillance_warrant.md)  
-> - [🧬 Twinning Detection](../Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_twinning_detection.md)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-11_
+_Last updated: 2025-09-14_
