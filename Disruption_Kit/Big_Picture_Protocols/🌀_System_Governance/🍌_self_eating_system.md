@@ -173,9 +173,9 @@ We’ve exorcised the wrong spirits. The work now is to call the right ones home
 It diagnoses how authenticity, durability, and cultural aliveness are stripped and re-sold, leaving us with ghosts of our own making.  
 
 > 📡 Cross-references:  
-> - [🗞️ Hollowing of the Commons](../Survivor_Tools/🗞️_hollowing_of_the_commons.md) — when shared spaces collapse under commodification  
-> - [🕸️ Clone-Friendly Architecture](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md) — infrastructure built for replication, not life  
-> - [🪞 The Illusion of Choice](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪞_the_illusion_of_choice.md) — when abundance conceals constraint  
+> - [🗞️ Hollowing of the Commons](./🗞️_hollowing_of_the_commons.md) — when shared spaces collapse under commodification  
+> - [🕸️ Clone-Friendly Architecture](./🕸️_clone_friendly_architecture.md) — infrastructure built for replication, not life  
+> - [🪞 The Illusion of Choice](./🪞_the_illusion_of_choice.md) — when abundance conceals constraint  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
