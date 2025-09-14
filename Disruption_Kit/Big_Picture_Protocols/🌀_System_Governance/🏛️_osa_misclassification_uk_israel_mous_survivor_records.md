@@ -1,5 +1,5 @@
 # 🏛️ OSA Misclassification, UK–Israel MoUs, and Survivor Records  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-13    
+**First created:** 2025-09-06 | **Last updated:** 2025-09-14    
 *Forensic map of how UK–Israel agreements interact with Official Secrets Act mis-tagging, and how survivor data can be wrongfully exposed under “security” pretexts*
 
 ---
@@ -147,10 +147,8 @@ Guilty conscience? -->
 This node traces how **UK–Israel MoUs** intersect with **OSA misclassification** to expose survivor data.  
 It shows how legal agreements that *don’t cover personal records* can be bent to do so when files are wrongly coded as “security.”  
 
-> 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md) — system-level contract laundering  
-> - [🧬 Cloneproof](../Disruption_Kit/Survivor_Tools/🧬_cloneproof.md) — resisting metadata cloning and misclassification  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-09-14_  
