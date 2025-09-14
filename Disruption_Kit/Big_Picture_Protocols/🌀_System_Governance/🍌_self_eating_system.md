@@ -172,11 +172,8 @@ We’ve exorcised the wrong spirits. The work now is to call the right ones home
 *The Self-Eating System* is a living node of the Polaris Protocol.  
 It diagnoses how authenticity, durability, and cultural aliveness are stripped and re-sold, leaving us with ghosts of our own making.  
 
-> 📡 Cross-references:  
-> - [🗞️ Hollowing of the Commons](./🗞️_hollowing_of_the_commons.md) — when shared spaces collapse under commodification  
-> - [🕸️ Clone-Friendly Architecture](./🕸️_clone_friendly_architecture.md) — infrastructure built for replication, not life  
-> - [🪞 The Illusion of Choice](https://github.com/josefsbreakfast/Polaris-Protocol/blob/baf6dbd0c7a589ed4f786a4eff6eb3f9ac6c88ac/Disruption_Kit/Survivor_Tools/%F0%9F%97%9E%EF%B8%8F_hollowing_of_the_commons.md) — when abundance conceals constraint  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 _Last updated: 2025-09-14_  
