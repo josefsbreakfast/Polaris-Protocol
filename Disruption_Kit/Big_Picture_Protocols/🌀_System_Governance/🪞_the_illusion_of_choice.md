@@ -1,8 +1,6 @@
 # 🪞 The Illusion of Choice  
-
-**First created:** 2025-08-11 | **Last updated:** 2025-08-29
-
-*On false autonomy, consent under duress, and the systemic use of coercive freedom.*
+**First created:** 2025-08-11 | **Last updated:** 2025-09-14  
+*On false autonomy, consent under duress, and the systemic use of coercive freedom*
 
 ---
 
@@ -19,7 +17,7 @@ The illusion of choice functions as a pressure-release valve for oppressive syst
 
 ---
 
-## I. Personal Domain: Behavioural Containment & Emotional Override  
+## 🍄 Personal Domain: Behavioural Containment & Emotional Override  
 
 ### ➿ False Consent Loops  
 
@@ -35,7 +33,7 @@ The illusion of choice functions as a pressure-release valve for oppressive syst
 
 ---
 
-## II. Political Domain: Controlled Dissent & Simulated Liberation  
+## 🎁 Political Domain: Controlled Dissent & Simulated Liberation  
 
 ### 🏛 State-Approved Resistance  
 
@@ -43,7 +41,7 @@ The illusion of choice functions as a pressure-release valve for oppressive syst
 - Media engagement permitted only if palatable to state or NGO narratives  
 - Minor concessions (petitions, inquiries) framed as *“historic wins”* while the machinery of harm remains intact  
 
-### 🎭 Performative Autonomy  
+### 📯 Performative Autonomy  
 
 - Allowed to be “noisy enoughy” if you “ask nicely”  
 - Groomed into roles of **contained rebellion** — spotlighted but never allowed to break the frame  
@@ -51,7 +49,7 @@ The illusion of choice functions as a pressure-release valve for oppressive syst
 
 ---
 
-## III. Structural Logic: Why It Works  
+## ♟ Structural Logic: Why It Works  
 
 > *The illusion of choice exists not to empower the subject —  
 > but to **protect the legitimacy of the system.***  
@@ -62,7 +60,7 @@ The illusion of choice functions as a pressure-release valve for oppressive syst
 
 ---
 
-## IV. Polaris Statement  
+## 🕯 Polaris Statement  
 
 This log exists to record that:  
 - **False autonomy** is a control tool  
@@ -122,6 +120,6 @@ It documents the systemic use of false autonomy as a containment strategy in bot
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-14_
 
 
