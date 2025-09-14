@@ -163,6 +163,23 @@ But culture also offers mirrors and counternudges.
 
 Together these cultural texts show both the weight of containment — and the counternarratives that let survivors and communities step off the stage.  
 
+
+### 🎶 Cultural Resource Appendix  
+
+| Work | Medium | Year | Why It Matters for Crisis Theatre |
+|---|---|---|---|
+| *The Show Must Go On* (Queen) | Song | 1991 | Embodies the ethos of Crisis Theatre: the performance never stops, even in collapse. |
+| *Live Your Life* (T.I. & Rihanna) | Song | 2008 | Counternudge: insists on joy and dignity outside the panic script. |
+| *The Matrix* (Wachowski sisters) | Film | 1999 | Allegory of distraction as exploitation; choice illusion scripted in advance. |
+| *The Merchant of Venice* (Shakespeare) | Play | 1600s | Archetype of scapegoating; Shylock as the racialised “other” villain in the Anglosphere. |
+| *Nightcrawler* (Dan Gilroy) | Film | 2014 | Media as crisis producer; when reporting becomes manufacturing. |
+
+> These works act as mirrors and counternarratives — showing both how containment scripts are staged and how communities can step outside their cues.
+
+[↩ return to top](#home)
+
+---
+
 [↩ return to top](#home)
 
 ---
