@@ -1,6 +1,5 @@
 # ⚖️ Shadow Governance Timeline  
-
-**First created:** 2025-09-05 | **Last updated:** 2025-09-12  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-14  
 *How cumulative crises since 2008 hollowed governance and expanded reliance on fixers and shadow networks*  
 
 ---
@@ -52,10 +51,8 @@ This is often a side-effect of crisis, and the human temptation of easy fixes fo
 *Shadow Governance Timeline* is a living node of the Polaris Protocol.  
 It documents how successive crises hollowed state capacity, producing reliance on shadow networks and fixers as de facto governance.  
 
-> 📡 Cross-references:  
-> - [Rings of Power for Universities](./⚖️_rings_of_power_universities.md) — how institutions accept containment bargains  
-> - [Phantom Claim and RIPA Escalation](./⚖️_phantom_claim_ripa_escalation.md) — how hollow narratives fuel suppression  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_
+_Last updated: 2025-09-14_
