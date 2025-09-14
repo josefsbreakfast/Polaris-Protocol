@@ -175,7 +175,7 @@ It diagnoses how authenticity, durability, and cultural aliveness are stripped a
 > 📡 Cross-references:  
 > - [🗞️ Hollowing of the Commons](./🗞️_hollowing_of_the_commons.md) — when shared spaces collapse under commodification  
 > - [🕸️ Clone-Friendly Architecture](./🕸️_clone_friendly_architecture.md) — infrastructure built for replication, not life  
-> - [🪞 The Illusion of Choice](./🪞_the_illusion_of_choice.md) — when abundance conceals constraint  
+> - [🪞 The Illusion of Choice](https://github.com/josefsbreakfast/Polaris-Protocol/blob/baf6dbd0c7a589ed4f786a4eff6eb3f9ac6c88ac/Disruption_Kit/Survivor_Tools/%F0%9F%97%9E%EF%B8%8F_hollowing_of_the_commons.md) — when abundance conceals constraint  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
