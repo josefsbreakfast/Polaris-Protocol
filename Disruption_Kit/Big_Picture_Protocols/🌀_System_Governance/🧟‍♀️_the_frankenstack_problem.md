@@ -1,12 +1,10 @@
 # 🧟‍♀️ The Frankenstack Problem 
-
-**First created:** 2025-08-20 | **Last updated:** 2025-08-29
-
-*How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects.*  
+**First created:** 2025-08-20 | **Last updated:** 2025-08-14  
+*How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*  
 
 ---
 
-## 🧟‍♀️ Definition: The Frankenstack Problem  
+## ⚗ Definition: The Frankenstack Problem  
 A **Frankenstack** = a stitched-together system of mismatched forks from different academic departments, contractors, and policy agendas.  
 
 - Each component may be defensible in isolation  
@@ -98,7 +96,7 @@ Every seam is a breach; the whole is a structural violation.
 
 ---
 
-## 📂 Annex B: Live Evidence Log – SAR/FOI Trail  
+## 📩 Annex B: Live Evidence Log – SAR/FOI Trail  
 
 [Additional, previously stalling, SAR acknowledged during redrafting this node; 20 Aug 2025.]  
 
@@ -109,7 +107,7 @@ Every seam is a breach; the whole is a structural violation.
 
 ---
 
-## 📌 Polaris Conclusion  
+## ✨ Polaris Conclusion  
 
 The Frankenstack is not a mythic conspiracy — it is a product of:  
 1. Legal validation of metadata as evidence  
