@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-14 21:01:47 UTC_
+_Generated on 2025-09-14 21:02:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -734,9 +734,8 @@ _Generated on 2025-09-14 21:01:47 UTC_
     - [`🧱_structural_reversion_ghost.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧱_structural_reversion_ghost.md)
     - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
   - [**🎞️_Haunted_Artefacts_Catalogue/**](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/)
+    - [`README.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/README.md)
     - [`🎶_she_knows_loop.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🎶_she_knows_loop.md)
-  - [**🎞️_Haunted_Artefacts_Catelogue/**](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catelogue/)
-    - [`README.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catelogue/README.md)
   - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
     - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
     - [`👻_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👻_ghost_capture_fragment.md)
