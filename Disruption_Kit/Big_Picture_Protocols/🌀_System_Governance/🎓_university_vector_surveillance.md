@@ -1,10 +1,10 @@
 # 🎓 University Vector Surveillance  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-13    
+**First created:** 2025-09-07 | **Last updated:** 2025-09-14    
 *How universities act as data gateways, subcontractors, and federated actors in surveillance networks — and why safeguarding flags create perpetual loops of containment*  
 
 ---
 
-## 📑 Sections  
+## ✨ Sections  
 1. [Why Universities Hold Unique Access](#1-why-universities-hold-unique-access)  
 2. [Federation & Subcontracting](#2-federation--subcontracting)  
    - [Foreign Affairs Entanglement](#foreign-affairs-entanglement)  
@@ -16,7 +16,7 @@
 
 ---
 
-## 1. Why Universities Hold Unique Access  
+## 🏛 Why Universities Hold Unique Access  
 - Visa & immigration data (Tier 4 monitoring).  
 - Student health & counselling records.  
 - Financial & accommodation records.  
@@ -31,7 +31,7 @@
 
 ---
 
-## 2. Federation & Subcontracting  
+## ♟ Federation & Subcontracting  
 - Universities rarely act alone. They coordinate via federated groups (e.g. Universities UK, Russell Group).  
 - Subcontractors (PI firms, OSINT, “reputation management,” analytics) are routinely engaged.  
 - Plausible deniability: *“we didn’t surveil; we procured”* / *“we only shared under statutory duty.”*  
@@ -53,7 +53,7 @@
 
 ---
 
-## 3. Safeguarding as Perpetual Flag  
+## 🚩 Safeguarding as Perpetual Flag  
 - A safeguarding referral can be raised **indefinitely** — there’s no expiry.  
 - Each new referral looks legitimate on paper.  
 - Data provenance is never challenged: *“we referred in good faith.”*  
@@ -61,7 +61,7 @@
 
 ---
 
-## 4. Diagrams  
+## 🔮 Diagrams  
 
 ### University as Vector  
 ```mermaid
@@ -138,7 +138,7 @@ The result is not safeguarding — it is containment.
 
 ---
 
-## 6. Closing Frame  
+## 💫 Closing Frame  
 Universities are not neutral. They sit at a **nexus of data + legal duty + institutional self-interest.**  
 By subcontracting and federating, they create surveillance pipelines with plausible deniability.  
 By reusing safeguarding as perpetual flag, they entrench containment loops.  
@@ -153,5 +153,7 @@ By engaging authoritarian partners, they risk importing surveillance logics and 
 It documents how universities, by their access and duties, act as conduits for surveillance and perpetuate safeguarding flags as containment loops.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 _Last updated: 2025-09-13_  
