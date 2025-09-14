@@ -1,6 +1,5 @@
 # ⚖️ Matriarchy as Requirement  
-
-**First created:** 2025-09-05 | **Last updated:** 2025-09-12  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-14  
 *Why survivor-led, female-patterned direction is not optional but essential for stability*  
 
 ---
@@ -49,4 +48,6 @@ Given how things are going, I'm suggesting 200 years of *sorting this shit out*,
 *Matriarchy as Requirement* is a living node of the Polaris Protocol.  
 It records why female-patterned authorship and survivor sovereignty are necessary to prevent collapse.  
 
-_Last updated: 2025-09-12_
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
+_Last updated: 2025-09-14_
