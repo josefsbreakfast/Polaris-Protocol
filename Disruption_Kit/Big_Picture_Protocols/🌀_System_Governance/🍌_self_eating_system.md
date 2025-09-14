@@ -15,11 +15,9 @@
 - [🏙️ High Street Sedation](#️-high-street-sedation)  
 - [🤖 AI Content & Cannibal Culture](#-ai-content--cannibal-culture)  
 - [🐍 Ouroboros Capital & Innovation Stasis](#-ouroboros-capital--innovation-stasis)  
-- [🎧 Cultural References](#cultural-references)  
-- [🌿 Counter-Nudge: Aliveness Over Accumulation](#counter-nudge-aliveness-over-accumulation)  
-
-✨ [back to top](#home)  
-
+- [🎧 Cultural References](#cultural-refs)  
+- [🌿 Counter-Nudge: Aliveness Over Accumulation](#counter-nudge)  
+  
 ---
 
 ## 🪄 Introduction: Exorcising the Wrong Spirits  
@@ -142,7 +140,7 @@ We’re stuck until we decide to prioritise authentic culture and groundbreaking
 ✨ [back to top](#home)  
 
 ---
-
+<a id="cultural-refs"></a>
 ## 🎧 Cultural References  
 
 - 🎶 **“Wings” (Macklemore & Ryan Lewis, 2011)** — sneaker culture as cannibal loop; childhood desire hollowed into brand extraction.  
@@ -153,7 +151,7 @@ We’re stuck until we decide to prioritise authentic culture and groundbreaking
 ✨ [back to top](#home)  
 
 ---
-
+<a id="counter-nudge"></a>
 ## 🌿 Counter-Nudge: Aliveness Over Accumulation  
 
 The self-eating system is not inevitable. It is designed.  
