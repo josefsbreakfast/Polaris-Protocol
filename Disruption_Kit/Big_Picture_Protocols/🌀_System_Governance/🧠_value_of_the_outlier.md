@@ -1,8 +1,6 @@
 # 🧠 Value of the Outlier
-
-**First created:** 2025-08-16 | **Last updated:** 2025-08-29
-
-*How anomaly detection escalates surveillance value and how authorship reclaims sovereignty.*
+**First created:** 2025-08-16 | **Last updated:** 2025-09-14  
+*How anomaly detection escalates surveillance value and how authorship reclaims sovereignty*
 
 ---
 
