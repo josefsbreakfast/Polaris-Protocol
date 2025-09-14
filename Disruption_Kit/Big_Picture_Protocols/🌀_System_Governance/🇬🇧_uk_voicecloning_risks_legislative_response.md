@@ -1,10 +1,10 @@
 # 🇬🇧 UK Voice-Cloning Risks & Legislative Response  
-**First created:** 2025-08-31 | **Last updated:** 2025-09-13  
+**First created:** 2025-08-31 | **Last updated:** 2025-09-14  
 *Timeline of UK incidents and regulatory shifts around AI voice cloning*  
 
 ---
 
-## ✦ Key Incidents  
+## ✨ Key Incidents  
 
 - **2019–2021 | Early scams**  
   - A UK energy firm was defrauded of **$243,000** when criminals cloned their CEO’s voice to authorise a transfer.  
@@ -21,7 +21,7 @@
 
 ---
 
-## ✦ Regulatory and Legal Moves  
+## ⚖ Regulatory and Legal Moves  
 
 - **Proposed “Right of Personality”**  
   - Would allow individuals to block unauthorised AI use of their voice or likeness.  
@@ -36,7 +36,7 @@
 
 ---
 
-## ✦ Forensic Note  
+## 🔬 Forensic Note  
 
 UK incidents show that synthetic voices have shifted from novelty to infrastructure for fraud, harassment, and propaganda.  
 The gap between adoption and regulation remains stark: public awareness grows, but legal protections lag behind.  
@@ -46,12 +46,10 @@ The gap between adoption and regulation remains stark: public awareness grows, b
 ## 🏮 Footer  
 
 *UK Voice-Cloning Risks & Legislative Response* is a living node of the Polaris Protocol.  
-It documents major UK incidents of voice misuse, the harms caused, and the emerging but incomplete legal protections.  
+It documents major UK incidents of voice misuse, the harms caused, and the emerging but incomplete legal protections. 
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic timelines and diagnostics  
-> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — applied testimony and evidence of voice misuse  
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-09-14_  
