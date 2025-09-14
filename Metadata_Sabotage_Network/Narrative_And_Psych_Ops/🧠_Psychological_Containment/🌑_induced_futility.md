@@ -1,6 +1,6 @@
 # 🌑 Induced Futility  
-**First created:** 2025-09-13 | **Last updated:** 2025-09-13  
-*How containment manufactures hopelessness — teaching survivors that no action will ever change the outcome.*
+**First created:** 2025-09-13 | **Last updated:** 2025-09-14  
+*How containment manufactures hopelessness — teaching survivors that no action will ever change the outcome*
 
 ---
 
@@ -52,11 +52,6 @@ The lesson is not subtle: *nothing you do matters.* Effort is wasted. Initiative
 *Induced Futility* is a living node of the Polaris Protocol.  
 It documents how hopelessness is manufactured to hold survivors in place.  
 
-> 📡 Cross-references:  
-> - [🧠 Psychological Containment](./README.md) — index of inner sabotage tactics  
-> - [Containment Scripts](../../../Disruption_Kit/Containment_Scripts/) — logs of external suppression  
-> - [⚖️ British Museum Act (1963 Futility)](../../../Big_Picture_Protocols/⚖️_british_museum_act_1963_futility.md) — legal containment as statute  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-09-14_
