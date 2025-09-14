@@ -166,6 +166,7 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 flowchart TD
   %% Polaris — System & Governance framing (emoji-free nodes)
 
+  %% ============== INPUTS ==============
   subgraph IN[Inputs]
     P[Public discourse & media]:::soft
     L[Law/Policy & budgets]:::bureaucratic
@@ -173,7 +174,9 @@ flowchart TD
     W[Witness & survivor testimony]:::safeguarding
   end
 
+  %% ============== GOVERNANCE MECHANISMS ==============
   subgraph GOV[Governance Mechanisms]
+    %% Core (existing)
     E[Empathy as throttle — Targeting logic]:::soft
     G[Gated intake & delay loops]:::bureaucratic
     T[Translation null zone]:::soft
@@ -181,12 +184,43 @@ flowchart TD
     N[Narrative management — curated amnesia, perception gap]:::jargon
     S[Surveillance infrastructure — stacks, vendors]:::cve
     A[Clone-friendly architecture]:::cve
-    B[Didn’t Apply Brain Loop - DARVO → bureaucratic uptake]:::bureaucratic
+    B[Didn’t Apply Brain Loop — DARVO → bureaucratic uptake]:::bureaucratic
     I[Inversion & laundering — state technique]:::bureaucratic
     M[Misread & malice — surveillance by distortion]:::cve
     F[Forced intimacy — state patterns]:::ethics
+
+    %% New (Containment Logic stubs)
+    AD[Algorithmic delay & pacing]:::soft
+    AMB[Ambiguity as containment]:::soft
+    PAR[Parallel channels — duplication of process]:::bureaucratic
+
+    %% New (Legal & State Governance stubs)
+    SL[Soft-law governance — codes, guidance, MoUs]:::bureaucratic
+    JD[Judicial deference]:::bureaucratic
+    IL[International laundering of obligations]:::bureaucratic
+
+    %% New (Infrastructure & Procurement stubs)
+    VL[Vendor lock-in]:::cve
+    DFC[Data fusion centres]:::cve
+    AIM[AI middleware — invisible policy layer]:::cve
+
+    %% New (Narrative Management stubs)
+    OR[Over-recognition — PR 'listening' without action]:::jargon
+    FS[Forensic silence — evidentiary gaps]:::jargon
+    CT[Crisis theatre — emergency as governance]:::jargon
+
+    %% New (Ownership & Control stubs)
+    CI[Custodianship illusion — rationed access]:::bureaucratic
+    PRK[Privatised record-keeping]:::bureaucratic
+    CE[Contingency erasure — draft destruction]:::jargon
+
+    %% New (Development & Experimentation stubs)
+    PC[Pilot containments]:::bureaucratic
+    SS[Shadow sandboxes]:::cve
+    FR[Failure recycling — rebranded models]:::bureaucratic
   end
 
+  %% ============== OUTPUTS ==============
   subgraph OUT[Outputs]
     O1[Containment outcomes — chilling, self-censor, attrition]:::ethics
     O2[Structured choice illusion]:::ethics
@@ -195,17 +229,24 @@ flowchart TD
     O5[Genocide by Containment]:::ethics
   end
 
+  %% ============== RESILIENCE ==============
   subgraph RES[Resilience]
     R[Web of Resilience]:::safeguarding
   end
 
-  %% Flows from Inputs
-  P --> E
+  %% -------- Flows from Inputs --------
+  P --> N
+  P --> CT
   L --> C
+  L --> SL
+  L --> JD
   D --> S
+  D --> AIM
+  D --> DFC
   W --> G
+  W --> PAR
 
-  %% Mechanisms to Outputs
+  %% -------- Mechanisms to Outputs --------
   E --> O1
   G --> O1
   T --> O2
@@ -217,7 +258,47 @@ flowchart TD
   M --> O3
   F --> O1
 
-  %% New mechanism interactions
+  AD --> O1
+  AD --> N
+  AMB --> O2
+  AMB --> O1
+  PAR --> O1
+
+  SL --> C
+  SL --> N
+  JD --> C
+  JD --> O2
+  IL --> C
+  IL --> N
+  IL --> O2
+
+  VL --> S
+  VL --> O3
+  DFC --> S
+  DFC --> O3
+  AIM --> C
+  AIM --> O2
+  AIM --> S
+
+  OR --> O4
+  FS --> N
+  FS --> O4
+  CT --> O4
+  CT --> O2
+
+  CI --> O2
+  CI --> N
+  PRK --> O2
+  PRK --> N
+  CE --> O4
+
+  PC --> S
+  PC --> G
+  SS --> S
+  FR --> N
+  FR --> C
+
+  %% -------- Interactions among mechanisms --------
   N --> B
   E --> B
   B --> N
@@ -226,22 +307,22 @@ flowchart TD
   M --> N
   F --> N
 
-  %% Genocide by Containment composition
+  %% -------- Genocide by Containment composition --------
   O1 --> O5
   O3 --> O5
   O4 --> O5
 
-  %% Resilience loop
+  %% -------- Resilience loop --------
   R -->|layered countermeasures| IN
   R -->|layered countermeasures| OUT
 
-  %% Feedback loops
+  %% -------- Feedback loops --------
   O4 -.->|shapes policy window| L
   O1 -.->|reduces live signal| W
   O3 -.->|drives vendor lock-in| S
   O5 -.->|authorises harsher policy & budgets| L
 
-  %% Style (Admin Kit)
+  %% -------- Styles (Admin Kit) --------
   classDef soft fill:#d2f4ff,stroke:#2a9df4,stroke-width:1px;
   classDef bureaucratic fill:#fff0d2,stroke:#f4a300,stroke-width:1px;
   classDef jargon fill:#fbd2f4,stroke:#e82a9d,stroke-width:1px;
