@@ -1,16 +1,16 @@
 # 🏛️ State Patterns of Forced Intimacy  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-04  
+**First created:** 2025-09-04 | **Last updated:** 2025-09-14  
 *How state systems weaponise enforced proximity, repression, and intimacy to destabilise people*  
 
 ---
 
-## Summary  
+## ✨ Summary  
 Across regimes and eras, governments have used enforced intimacy as a control technique.  
 The design logic is consistent: restrict freedom, deny consent, force proximity, and count on repression and taboo to destabilise.  
 
 ---
 
-## Historical Patterns  
+## 👻 Historical Patterns  
 
 - **East German Stasi (Zersetzung):**  
   Engineered relationship breakdowns by planting informants in marriages, friendships, and workplaces.  
@@ -29,7 +29,7 @@ The design logic is consistent: restrict freedom, deny consent, force proximity,
 
 ---
 
-## Contemporary Echoes  
+## 🎏 Contemporary Echoes  
 
 - **Countering Violent Extremism (CVE) Programs:**  
   Pairing “at-risk” people with mentors or monitors in arrangements often experienced as coercive.  
@@ -41,7 +41,7 @@ The design logic is consistent: restrict freedom, deny consent, force proximity,
 
 ---
 
-## Shared Logic  
+## 🧠 Shared Logic  
 
 - Restrict freedom of movement.  
 - Force intimacy or proximity.  
@@ -58,9 +58,10 @@ This is the same pattern as *Metadata Twinning*: enforced chastity play without 
 It records how authoritarian and democratic states alike have used proximity, repression, and enforced intimacy to manage populations and break solidarity.  
 
 > 📡 Cross-references:  
-> - [🧩 Metadata Twinning](🧩_metadata_twinning.md) — enforced intimacy and projection loops  
 > - [🧠 Didn’t Apply Brain Loop](🧠_didnt_apply_brain_loop.md) — paranoia formalised as intelligence  
-> - [🫀 Genocide by Containment](🫀_genocide_by_containment.md) — containment escalations to systemic violence  
+> - [🫀 Genocide by Containment](🫀_genocide_by_containment.md) — containment escalations to systemic violence
+
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
