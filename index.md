@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-14 21:02:22 UTC_
+_Generated on 2025-09-14 21:06:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -379,6 +379,7 @@ _Generated on 2025-09-14 21:02:22 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🌀_synthetic_narratives.md)
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
+      - [`🎵_operant_conditioning_through_music.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎵_operant_conditioning_through_music.md)
       - [`🎶_shared_tech_voicex_institutional_reports.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
