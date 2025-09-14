@@ -45,4 +45,6 @@ It exposes how DARVO, when bureaucratised, produces feedback spirals that displa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
+🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+
 _Last updated: 2025-09-14_
