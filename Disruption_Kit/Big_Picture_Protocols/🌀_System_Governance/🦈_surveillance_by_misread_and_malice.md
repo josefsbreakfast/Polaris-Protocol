@@ -1,4 +1,4 @@
-# 🧩 Surveillance by Misread & Malice: Abuse and Democratic Integrity  
+# 🦈 Surveillance by Misread & Malice: Abuse and Democratic Integrity  
 
 **First created:** 2025-09-11 | **Last updated:** 2025-09-14  
 *Diagnostic protocol: tracing how surveillance misuse scales, and how government could audit it with existing tools*
