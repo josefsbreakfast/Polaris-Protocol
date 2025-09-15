@@ -112,9 +112,11 @@ The outrage over Megan Thee Stallion and Cardi B’s *WAP* was revealing.
 ## 13. The Corporate Bukkake Competition  
 The truth inversion: men who believe they dominate are the most obedient subs of all.  
 
-- They imagine themselves as alphas, but they are **sucking the dick of the bank manager, the porn site owner, the data-mining CEO.**  
+- They imagine themselves as alphas, but they are **sucking the metaphorical dick of the bank manager, the porn site owner, the data-mining CEO.**  
 - Their agency is sold as grindset, but in practice it is corporate servitude.  
-- The fantasy of dominance masks the reality: a massive **corporate bukkake competition**, with young men lining up to be degraded by capital.  
+- The fantasy of dominance masks the reality: a massive **corporate bukkake competition**, with young men lining up to be degraded by capital.
+
+*By contrast, if the same arrangements are the preference of freely consenting adults, the same men who willingly subject to capital's dominance, castigate and shame those who enter into the arrangment with their agency intact.*
 
 ---
 
