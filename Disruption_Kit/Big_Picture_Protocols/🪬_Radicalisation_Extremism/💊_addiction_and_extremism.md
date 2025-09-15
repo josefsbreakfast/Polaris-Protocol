@@ -57,14 +57,17 @@ Right-wing purity cults denounce porn and masturbation while glorifying semen as
 ## 6. The WAP Panic  
 The outrage over Megan Thee Stallion and Cardi B’s *WAP* was revealing.  
 
+
 - **Women’s agency.** The song flipped the script: *we know what you want, you come to us.*  
 - **Right-wing meltdown.** Figures like Ben Shapiro feigned disgust while amplifying the video’s reach. His infamous “wet-ass p-word” neutered him on camera while making the track viral.  
 - **Hypocrisy.** The same men who call women sluts jerk off to the imagery they condemn.  
 - **Political effect.** Conservative shame loops don’t reduce desire, they increase taboo and make porn more addictive. Outrage is free marketing.
 
-*By their very response, beoconservative pundits recreated the premise of the music video, further fuelling the virality and memetic value of the men with loud mouths becoming, in all manners, subjugate to black women performing at the peak of their industry.*  
+*The same response of neoconservative pundits was later recreated the premise of the music video for the subsequent release by Megen Thee Stallion's Thot Shit, alchemising the anger and derision of these same voices to fuel the virality of the track. The value of the men with loud mouths was thus transformed, in all manners, to become subjugate to black women creating and performing at the peak of their industry. It was of no surprise that the same commentators did not feel able to comment on Thot Shit, despite their thinly veiled "Thot" derision.*  
 
-*These rare moments of overt power reversal are clung to by many women seeking agency in the patriarchal, white supremicist structure, from which capitalism derives its supposed legitamcy.*
+*These rare moments of overt power reversal are clung to by many women seeking agency in the patriarchal, white supremicist structure, from which capitalism derives its supposed legitamcy. The power in reversing this dynamic when white and passing men seek to hypersexualise and shame black women for expressions of sexuality that they were never invited to, directly rebels against the historical narratives of chattel slavery which defined the USA, where the same logics were used to attempt to justify rape and sexual violence done at the hands of the white perpetrators of the inherent violence of enslavement.*
+
+*Despite the already clear prosodic convergance between rap and Elizabethan English poetry styles, heard in W.A.P in the form of near- and frank iambic pentameter, iambic trimeter, and use of antapests, common search engines online continue to divert any user away through forking of the search results from seeing the overlap between styles, emphasising the oversimplified and censurous interpretations of W.A.P to simply an "explicit" work; as the Firemen of our lived edition of Fahrenheit 451 destroy these links in our chains of knowledge and networking of information systems, they reveal their own ignorance of William "Thine virginity breeds mites, much like a cheese" Shakespeare.*
 
 ---
 
