@@ -1,7 +1,7 @@
 # 🎶 Banned Broadcasts Cooperative
 
 **First created:** 2025-09-15 | **Last updated:** 2025-09-15
-*A cooperative archive of outlaw sound, banned books, and suppressed signals.*
+*A cooperative archive of outlaw sound, banned books, and suppressed signals*
 
 ---
 
@@ -24,7 +24,7 @@ This folder exists to track not only the suppression but the **resistance archit
 * `📱_feed_manipulation_and_containment_theatre.md` — algorithmic suppression through substitution and pastel floods.
 * `🎙_congress_radio_and_partition_cinema.md` — clandestine signals of the Quit India movement, and their cinematic memory.
 * `🕳_narrative_misattribution_and_war_testimony.md` — misattributed testimony and data twins as containment.
-* `🌀_structural_throughline.md` — synthesis of the pattern: containment hits legitimacy, not danger.
+* `⚡_structural_throughline.md` — synthesis of the pattern: containment hits legitimacy, not danger.
 
 ---
 
