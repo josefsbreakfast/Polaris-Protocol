@@ -36,7 +36,9 @@ Even if all porn were produced ethically (it isn’t), the consumption architect
 - **Shortest path to climax.** Infinite novelty, instant access, algorithmic escalation.  
 - **Drive modulation.** Users adapt to higher dopamine and adrenaline baselines. Attention spans collapse.  
 - **Capitalist incentive.** Boredom is monetised: watch more ads, burn through free content, upgrade to premium.  
-- **Recruitment overlap.** Far-right forums weaponise porn-induced frustration: *“You’ve been poisoned; only we can cure you.”*  
+- **Recruitment overlap.** Far-right forums weaponise porn-induced frustration: *“You’ve been poisoned; only we can cure you.”*
+- Cf. the framing of behaviours of male clients of dominatrices as inherently "beta" to the "alpha"/"sigma" archetypes; at least if one is seeking out deliberately looped ASMR-like content, one is aware of the loop and one's own foibles. "Alpha" and "sigma" males, by contrast, cannot bear the thought of female or trans sex workers showing any agency, even if by theatre; this is the masculinity which finds itself in perpetual crisis, such that it must pretend some form of dominion over anything it can seek to exert power over.
+*The irony is not lost.*
 
 ---
 
