@@ -22,12 +22,15 @@ The message is clear:
 - I am not allowed to be angry.  
 - I am not allowed to want vengeance.  
 
-Songs that frame women’s violent refusal (*Dead Men Don’t Rape*, *Chop Dicks*, *Goodbye Earl*) are blocked.  
-Songs and feeds steeped in sadism (*Mind Games*, fox hunting torture, war violence, cruelty against children) flow freely.  
+Songs that frame women’s violent refusal (*Dead Men Don’t Rape*, *Chop Dicks*, *Goodbye Earl*) are often blocked on platforms.  
+Songs and feeds steeped in overt sadism (*Mind Games*, fox hunting torture, war violence, cruelty against children) flow freely.  
 
 This is not neutral safeguarding. It encodes a narrow, infantilised model of survivorship — one acceptable, one feminised, one docile.  
 
-It also binds male survivors: they are only permitted to appear fragile, never angry, never agentic.  
+It also binds male survivors: they are only permitted to appear fragile, never angry, never agentic. 
+Yet to appear fragile is to appear "too feminine"; what option do they have, but silence?
+
+How can one pretend that violence of such an internal nature, has not affected them?
 
 This pattern aligns with Prevent logics after 2016: anger itself coded as extremism. It is soaked in neoconservative and far-right values of “traditional family” and “proper” victimhood.  
 
