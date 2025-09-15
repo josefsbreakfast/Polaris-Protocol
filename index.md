@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-15 11:39:49 UTC_
+_Generated on 2025-09-15 11:40:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -20,8 +20,10 @@ _Generated on 2025-09-15 11:39:49 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
+      - [`⚖️_cidt_by_withholding_record_safety.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_cidt_by_withholding_record_safety.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_data_bill_peers_bill_genocide_duties.md)
+      - [`⚖️_erasure_and_predator_tolerance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_erasure_and_predator_tolerance.md)
       - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_international_laundering.md)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`⚖️_judicial_deference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_judicial_deference.md)
