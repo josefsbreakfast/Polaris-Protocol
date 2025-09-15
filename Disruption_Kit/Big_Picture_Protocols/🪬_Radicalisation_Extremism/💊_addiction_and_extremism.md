@@ -49,7 +49,7 @@ Right-wing purity cults denounce porn and masturbation while glorifying semen as
 - **Narcissistic dependency.** Movements control both shame and exaltation, trapping men in oscillation.  
 - **Recruitment payoff.** Your own body becomes a site of surveillance; your guilt fuels loyalty.
 
-*Cue the endless advertising to further surveil and improve the motility, quality, and quantity of the emissions - finally, even these moments of (presumably) pleasure can be exchanged into moments of production to fulfil the needs of the capitalist machine.* 
+*Cue the endless advertising to further surveil and improve the motility, quality, and quantity of the emissions - finally, even these moments of (presumably) pleasure can be exchanged into moments of production to fulfil the needs of the capitalist machine.*  
 *At least it's not controlled by a woman, as far as they need to be aware.*
 
 ---
@@ -60,7 +60,11 @@ The outrage over Megan Thee Stallion and Cardi B’s *WAP* was revealing.
 - **Women’s agency.** The song flipped the script: *we know what you want, you come to us.*  
 - **Right-wing meltdown.** Figures like Ben Shapiro feigned disgust while amplifying the video’s reach. His infamous “wet-ass p-word” neutered him on camera while making the track viral.  
 - **Hypocrisy.** The same men who call women sluts jerk off to the imagery they condemn.  
-- **Political effect.** Conservative shame loops don’t reduce desire, they increase taboo and make porn more addictive. Outrage is free marketing.  
+- **Political effect.** Conservative shame loops don’t reduce desire, they increase taboo and make porn more addictive. Outrage is free marketing.
+
+*By their very response, beoconservative pundits recreated the premise of the music video, further fuelling the virality and memetic value of the men with loud mouths becoming, in all manners, subjugate to black women performing at the peak of their industry.*  
+
+*These rare moments of overt power reversal are clung to by many women seeking agency in the patriarchal, white supremicist structure, from which capitalism derives its supposed legitamcy.*
 
 ---
 
