@@ -37,7 +37,7 @@ Even if all porn were produced ethically (it isn’t), the consumption architect
 - **Drive modulation.** Users adapt to higher dopamine and adrenaline baselines. Attention spans collapse.  
 - **Capitalist incentive.** Boredom is monetised: watch more ads, burn through free content, upgrade to premium.  
 - **Recruitment overlap.** Far-right forums weaponise porn-induced frustration: *“You’ve been poisoned; only we can cure you.”*
-- Cf. the framing of behaviours of male clients of dominatrices as inherently "beta" to the "alpha"/"sigma" archetypes; at least if one is seeking out deliberately looped ASMR-like content, one is aware of the loop and one's own foibles. "Alpha" and "sigma" males, by contrast, cannot bear the thought of female or trans sex workers showing any agency, even if by theatre; this is the masculinity which finds itself in perpetual crisis, such that it must pretend some form of dominion over anything it can seek to exert power over.
+- Cf. the framing of behaviours of male clients of dominatrices as inherently "beta" to the "alpha"/"sigma" archetypes; at least if one is seeking out deliberately looped ASMR-like content, one is aware of the loop and one's own foibles. "Alpha" and "sigma" males, by contrast, cannot bear the thought of female or trans sex workers showing any agency, even if by theatre; this is the masculinity which finds itself in perpetual crisis, such that it must pretend some form of dominion over anything it can seek to exert power over.  
 *The irony is not lost.*
 
 ---
@@ -47,7 +47,10 @@ Right-wing purity cults denounce porn and masturbation while glorifying semen as
 
 - **The cycle.** Watch porn → feel shame → abstain → feel saintly → relapse → feel shame again.  
 - **Narcissistic dependency.** Movements control both shame and exaltation, trapping men in oscillation.  
-- **Recruitment payoff.** Your own body becomes a site of surveillance; your guilt fuels loyalty.  
+- **Recruitment payoff.** Your own body becomes a site of surveillance; your guilt fuels loyalty.
+
+*Cue the endless advertising to further surveil and improve the motility, quality, and quantity of the emissions - finally, even these moments of (presumably) pleasure can be exchanged into moments of production to fulfil the needs of the capitalist machine.* 
+*At least it's not controlled by a woman, as far as they need to be aware.*
 
 ---
 
