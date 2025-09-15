@@ -1,6 +1,6 @@
 # 📡 Who Gets to Transmit
 
-**First created:** 2025-09-15 | **Last updated:** 2025-09-15
+**First created:** 2025-09-15 | **Last updated:** 2025-09-15  
 *Constellation thesis: containment is never about safety, it is about legitimacy*
 
 ---
