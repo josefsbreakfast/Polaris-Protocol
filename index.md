@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-15 18:07:17 UTC_
+_Generated on 2025-09-15 18:08:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -98,6 +98,7 @@ _Generated on 2025-09-15 18:07:17 UTC_
       - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)
     - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md)
+      - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
       - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/README.md)
