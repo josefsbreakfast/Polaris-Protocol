@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-15 18:53:32 UTC_
+_Generated on 2025-09-15 18:55:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -99,6 +99,7 @@ _Generated on 2025-09-15 18:53:32 UTC_
     - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/)
       - [**data/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/)
         - [`parse_usna_removed_books.py`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/parse_usna_removed_books.py)
+        - [`usna_removed_books_2025.csv`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/usna_removed_books_2025.csv)
         - [`📚_usna_removed_books_2025.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/📚_usna_removed_books_2025.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md)
       - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
