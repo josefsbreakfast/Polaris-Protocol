@@ -1,6 +1,6 @@
 # 📡 Reach Shadowfence  
 **First created:** 2025-09-13 | **Last updated:** 2025-09-15  
-*A more porous cousin of shadowban: survivor content appears, but its reach is pre-capped invisibly.*  
+*A more porous cousin of shadowban: survivor content appears, but its reach is pre-capped invisibly*  
 
 ---
 
