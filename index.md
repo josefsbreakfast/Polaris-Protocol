@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-14 21:06:03 UTC_
+_Generated on 2025-09-15 08:48:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -151,6 +151,7 @@ _Generated on 2025-09-14 21:06:03 UTC_
       - [`💞_ethics_of_nudging_vs_desire.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)
       - [`📜_ethics_as_language_trap.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/📜_ethics_as_language_trap.md)
       - [`🕸️_safeguarding_obedience_division.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🕸️_safeguarding_obedience_division.md)
+      - [`🥄_deserving_poor_containment.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🥄_deserving_poor_containment.md)
       - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
       - [`🧠_memory_encoding_endings.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧠_memory_encoding_endings.md)
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
