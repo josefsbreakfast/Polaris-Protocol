@@ -154,6 +154,30 @@ The system manufactures dependency, inflates NHS and care costs, and entrenches 
 
 ---
 
+## 🦠 COVID-19 and the Consent to Eugenics  
+
+The pandemic made visible what had long been implicit: disabled lives are expendable.  
+
+- Public discourse routinely dismissed COVID deaths with the phrase *“pre-existing conditions.”*  
+- Political and media rhetoric normalised mass death as acceptable collateral if it meant ending lockdowns earlier.  
+- The implicit message: *your death is worth my convenience.*  
+
+This reveals how deeply the “useless eater” logic is embedded. Far from an accident, the pandemic showed mass social consent to disabled death. The collective shrug over who died cemented the argument: this is not just negligence, it is genocide with public buy-in.  
+
+---
+
+## 🌱 Resistance, Care, and Representation  
+
+Yet disabled communities also create counter-worlds. While the state enforces containment, disabled people and allies build intimacy, creativity, and resilience:  
+
+- **Leah Lakshmi Piepzna-Samarasinha, *Care Work: Dreaming Disability Justice*** — chronicles radical disabled care networks and how marginalised communities make survival possible outside state systems.  
+- **Alice Wong, *Disability Intimacy*** — explores tenderness, vulnerability, and solidarity as core to disabled life, rather than as deficits.  
+- **Puss in Boots: The Last Wish (2022)** — features a declawed cat character, representing disability without fetish, pity, or spectacle. Her disability is part of her identity, shaping both vulnerabilities and strengths, without reducing her to a trope.  
+
+These examples show that disabled life is not tragic, not inspiration porn, but *a locus of creativity, solidarity, and intimacy*.  
+
+---
+
 ## 🏮 Footer  
 
 *Deserving Poor Containment* is a living node of the Polaris Protocol.  
