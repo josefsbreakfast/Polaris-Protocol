@@ -1,15 +1,12 @@
 # Repository Index
 
-_Generated on 2025-09-15 09:54:20 UTC_
+_Generated on 2025-09-15 09:55:35 UTC_
 
 > Folders are bold; items are clickable.
 
 - [**.github/**](.github/)
   - [**workflows/**](.github/workflows/)
     - [`generate-index.yml`](.github/workflows/generate-index.yml)
-- [**Apparitions/**](Apparitions/)
-  - [**👻_Apparitional_Objects/**](Apparitions/👻_Apparitional_Objects/)
-    - [`👻_who_are_the_ghosts.md`](Apparitions/👻_Apparitional_Objects/👻_who_are_the_ghosts.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
@@ -743,6 +740,7 @@ _Generated on 2025-09-15 09:54:20 UTC_
   - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
     - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
     - [`👻_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👻_ghost_capture_fragment.md)
+    - [`👻_who_are_the_ghosts.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👻_who_are_the_ghosts.md)
   - [**🦴_Skeletal_Shards/**](👻_Apparitional_Objects/🦴_Skeletal_Shards/)
     - [`🔮_challenge_of_ai.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
