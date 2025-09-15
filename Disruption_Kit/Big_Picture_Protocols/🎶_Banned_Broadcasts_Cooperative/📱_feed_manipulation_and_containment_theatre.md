@@ -1,7 +1,7 @@
 # 📱 Feed Manipulation and Containment Theatre
 
 **First created:** 2025-09-15 | **Last updated:** 2025-09-15  
-*How platforms suppress by substitution and pastel distraction rather than silence.*
+*How platforms suppress by substitution and pastel distraction rather than silence*
 
 ---
 
