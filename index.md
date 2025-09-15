@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-15 18:14:33 UTC_
+_Generated on 2025-09-15 18:16:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -102,6 +102,7 @@ _Generated on 2025-09-15 18:14:33 UTC_
       - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
       - [`📚_knowledge_policing_and_banned_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_knowledge_policing_and_banned_books.md)
       - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
+      - [`📱_feed_manipulation_and_containment_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/README.md)
       - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🎙️_why_they_collect_audio.md)
