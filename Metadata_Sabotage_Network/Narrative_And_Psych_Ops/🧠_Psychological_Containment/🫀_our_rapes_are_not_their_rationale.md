@@ -49,6 +49,10 @@ If you are a man who is truly confident in not being a rapist, my anger should n
 Even if I express the sentiment that “dead men don’t rape,” if you are innocent, you should not feel fear.  
 If you do, that is your complicity showing.  
 
+I can almost hear someone telling me that "women don't like this either".
+
+Ask that woman why she fears her own rage.
+
 ---
 
 ## 🏮 Footer  
