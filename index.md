@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-15 18:12:22 UTC_
+_Generated on 2025-09-15 18:14:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -100,6 +100,7 @@ _Generated on 2025-09-15 18:12:22 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md)
       - [`➰_appeasement_loop_policing_bias.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/➰_appeasement_loop_policing_bias.md)
       - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
+      - [`📚_knowledge_policing_and_banned_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_knowledge_policing_and_banned_books.md)
       - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/README.md)
