@@ -43,7 +43,7 @@ From Brixton sofa parties to Congress Radio, from algorithmic pastel floods to W
 > * [📱 Feed Manipulation and Containment Theatre](./📱_feed_manipulation_and_containment_theatre.md)
 > * [🎙 Congress Radio and Partition Cinema](./🎙_congress_radio_and_partition_cinema.md)
 > * [🕳 Narrative Misattribution and War Testimony](./🕳_narrative_misattribution_and_war_testimony.md)
-> * [🌀 Structural Throughline](./🌀_structural_throughline.md)
+> * [⚡ Structural Throughline](./⚡_structural_throughline.md)
 
 ---
 
