@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-15 11:45:13 UTC_
+_Generated on 2025-09-15 12:17:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -381,6 +381,7 @@ _Generated on 2025-09-15 11:45:13 UTC_
       - [`🥀_loneliness_as_a_system_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system_2025-09-13.md)
       - [`🧿_persistent_discrediting_force.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md)
       - [`🪤_suspicion_seeding_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_suspicion_seeding_2025-09-13.md)
+      - [`🫀_our_rapes_are_not_their_rationale.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_our_rapes_are_not_their_rationale.md)
       - [`🫀_pathologising_sensitivity_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md)
     - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
