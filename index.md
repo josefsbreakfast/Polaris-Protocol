@@ -1,12 +1,15 @@
 # Repository Index
 
-_Generated on 2025-09-15 09:24:45 UTC_
+_Generated on 2025-09-15 09:54:20 UTC_
 
 > Folders are bold; items are clickable.
 
 - [**.github/**](.github/)
   - [**workflows/**](.github/workflows/)
     - [`generate-index.yml`](.github/workflows/generate-index.yml)
+- [**Apparitions/**](Apparitions/)
+  - [**👻_Apparitional_Objects/**](Apparitions/👻_Apparitional_Objects/)
+    - [`👻_who_are_the_ghosts.md`](Apparitions/👻_Apparitional_Objects/👻_who_are_the_ghosts.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
@@ -444,7 +447,6 @@ _Generated on 2025-09-15 09:24:45 UTC_
     - [**🪅_Platform_Sabotage/**](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/README.md)
       - [`🎚️_algorithmic_throttling_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🎚️_algorithmic_throttling_loops.md)
-      - [`👻_the_ghosts_are_learning.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/👻_the_ghosts_are_learning.md)
       - [`📡_reach_shadowfence.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/📡_reach_shadowfence.md)
       - [`🔗_link_disintegration.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🔗_link_disintegration.md)
       - [`🖼️_image_blur_sabotage.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🖼️_image_blur_sabotage.md)
