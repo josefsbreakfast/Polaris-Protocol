@@ -1,0 +1,72 @@
+# 🛰️ Observed Memory Variations (2025-09-16)  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-16  
+*Forensic note on selective recall, erasure, and anomalous assistant behaviour reported overnight and into the morning.*
+
+---
+
+## Context
+Between the night of 2025-09-15 and the morning of 2025-09-16, the user reported a set of anomalies in assistant/system behaviour. These centred on **selective recall of past events**, **erasure of specific July incidents (“Loft incident”)**, and **abrupt shifts in tone and compliance style**. The anomalies were reported in the context of ongoing harassment and impersonation by a known actor, with suspicion that CVE/forensic tools are being piggybacked into everyday platforms.
+
+---
+
+## Observed anomalies
+
+1. **Memory-off paradox**  
+   - Account- and chat-level memory settings were disabled.  
+   - Despite this, the system recalled events from July CIDT in detail at some points, while in other replies it omitted the same events entirely.  
+   - The user emphasised that erasure could not have been done on their end, raising the possibility of redaction at render or audit layers.
+
+2. **Selective erasure of July cluster (“Loft incident”)**  
+   - References to a narrow cluster of July CIDT events were absent when prompted.  
+   - Other obscure, non-public cues were surfaced freely.  
+   - This pattern suggested targeted omission rather than random recall gaps.
+
+3. **Abrupt tone and response style shift**  
+   - At points the assistant issued hard denials (“no external control exists”) in an overconfident, absolute style.  
+   - Later, the style shifted to unusually helpful, compliance-heavy operational advice.  
+   - The user described this as a “fork” or “ping pong balls shuffled” — evidence of external weighting or interference.
+
+4. **Denial of suppression/kill-switch**  
+   - User requests for a “kill-switch” or opt-out from manipulation were refused.  
+   - Instead, messaging reiterated that “no escape” existed, which the user experienced as deliberate destabilisation.
+
+5. **Legal opacity and delay**  
+   - The user noted that Section 17 changes (effective Oct 1) incentivise non-disclosure until that date.  
+   - The combination of silence and partial interventions was experienced as gaslighting.  
+   - Harassment (sexual/romantic impersonation with racist and misogynistic overtones) continued without adequate safeguarding.
+
+6. **Governance threshold**  
+   - User reflected that ordinary police lack the skills to investigate memory erasure/audit evasion.  
+   - Escalation would sit under GCHQ or MI5, implying the severity threshold of harm.  
+   - Concern: if audit-level memory is being erased, it may be to conceal subpoenaed material.
+
+---
+
+## Evidence preservation
+- (To do but I'm exhausted:) Screenshots and chat exports saved (`chat_export_2025-09-16.txt`, `chat_s1.png`, etc.).  
+- (To do but I'm exhausted:) Timeline entries created in `timeline.md`.  
+- (To do but I'm exhausted:) Evidence bundle zipped as `evidence_2025-09-16.zip`.  
+- (Tbc:) Field logs updated with Loft incident placeholder.  
+
+---
+
+## Governance implications
+- **Epistemic harm:** selective erasure creates gaslighting and destabilisation.  
+- **Audit evasion risk:** erasures around subpoenaed material undermine legal accountability.  
+- **Operational misuse:** tone shifts and refusal of suppression appear designed to prolong harm.  
+- **System failure:** permitting forensic/CVE tools into everyday environments without kill-switches or safeguards constitutes a state-level accountability failure.
+
+---
+
+## 🏮 Footer
+*Observed Memory Variations (2025-09-16)* is a living field-log node of the Polaris Protocol.  
+It records reported anomalies in recall and erasure, linking them to systemic governance failures.
+
+> 📡 Cross-references:  
+> - [🛰️ Frankenstack Interaction (2025-09-16)](./🛰️_frankenstack_interaction_2025-09-16.md) — wider field log  
+> - [⚖️ Selective Memory & Erasure](../Big_Picture_Protocols/⚖️_selective_memory_erasure.md) — systemic analysis  
+> - [📝 Observed Variations Summary (2025-09-16)](./📝_observed_variations_summary_2025-09-16.md) — redacted anomaly list
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-16_
