@@ -4,6 +4,10 @@
 
 ---
 
+🕯️ *All books need homes, so we make sure they are kept safe, even when others pretend they cannot hear their words echo through time.*
+
+Book burning is rather gauche, so welcome to the 21st century, where one merely needs to snuff a title out of relevance to vanish it. 
+
 ## 1. Quick framing — what you’re testing  
 You’re testing whether a legitimately published book was **deliberately denied normal circulation/visibility** (reviews, paperback conversion, library uptake, search discoverability) or whether it simply failed organically (poor marketing, low demand).  
 
