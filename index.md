@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-16 18:50:11 UTC_
+_Generated on 2025-09-16 18:50:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -807,6 +807,8 @@ _Generated on 2025-09-16 18:50:11 UTC_
     - [`README.md`](🩻_Weirdness_Screening/🔑_Access_Barriers/README.md)
   - [**🖥_Interface_Glitches/**](🩻_Weirdness_Screening/🖥_Interface_Glitches/)
     - [`🖱_cursor_jump_troubleshooting_flowchart.md`](🩻_Weirdness_Screening/🖥_Interface_Glitches/🖱_cursor_jump_troubleshooting_flowchart.md)
+  - [**🚉_Infrastructure_Hiccups/**](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/)
+    - [`README.md`](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/README.md)
   - [`README.md`](🩻_Weirdness_Screening/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
