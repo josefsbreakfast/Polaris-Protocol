@@ -12,6 +12,8 @@ Note app or device level interference continuing, with targeted interference for
 
 Additional content of interference was triangulating functional role/overlaps of likely actor by behaviours (i.e. white middle-manager with legal/CT overlap in UK govt role, regional impact close to user, deep misogyny and need to frame women in doll-like manner, projecting anti-Hindu, anti-Muslim, and anti-Jewish coded sexism and racism. Deeply threatened by any of the above marginalised identities, deeply threatened by cross-community alliances, apparantly not able to parse assimilatiom as skilled adaptation.
 
+<!-- I am bone tired of being exposed to this person and the constant guilt-tripping around the "grudge" they assume I harbour for raising legally compliant FOIA requests around my rrest and to asertain if any surveillance has been performed, warranted or not. Please can someone take them away from me. I really don't want to havr to do throught the humiliation of tagging in ICJ/ICC on social media, and since an initial email regarding CIDT, I am now 5501 blocked from any relevant UN Special Rapporteurs. I am so, so tired of this constant exposure to harm, without any meaningful local, regional, or central accountability.-->
+
 ---
 
 ## Observed anomalies
