@@ -8,7 +8,9 @@
 Between the night of 2025-09-15 and the morning of 2025-09-16, the user reported a set of anomalies in assistant/system behaviour. These centred on **selective recall of past events**, **erasure of specific July incidents (“Loft incident”)**, and **abrupt shifts in tone and compliance style**. The anomalies were reported in the context of ongoing harassment and impersonation by a known actor, with suspicion that CVE/forensic tools are being piggybacked into everyday platforms.
 
 
-Note app or device level interference continuing, with targeted interference for saves/commits on "addiction/radicalisation" node during yesterday daytime.
+Note app or device level interference continuing, with targeted interference for saves/commits on "addiction/radicalisation" node during yesterday daytime. Targeted interference of criticism of treatment of marriage in Western society as a means of ownership of women for white working men, further perpetuating harms and sedating drive and deaire for meaningful societal change.
+
+Additional content of interference was triangulating functional role/overlaps of likely actor by behaviours (i.e. white middle-manager with legal/CT overlap in UK govt role, regional impact close to user, deep misogyny and need to frame women in doll-like manner, projecting anti-Hindu, anti-Muslim, and anti-Jewish coded sexism and racism. Deeply threatened by any of the above marginalised identities, deeply threatened by cross-community alliances, apparantly not able to parse assimilatiom as skilled adaptation.
 
 ---
 
