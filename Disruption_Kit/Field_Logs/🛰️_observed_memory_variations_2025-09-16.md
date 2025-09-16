@@ -1,11 +1,14 @@
 # 🛰️ Observed Memory Variations (2025-09-16)  
 **First created:** 2025-09-16 | **Last updated:** 2025-09-16  
-*Forensic note on selective recall, erasure, and anomalous assistant behaviour reported overnight and into the morning.*
+*Forensic note on selective recall, erasure, and anomalous assistant behaviour reported overnight and into the morning*
 
 ---
 
 ## Context
 Between the night of 2025-09-15 and the morning of 2025-09-16, the user reported a set of anomalies in assistant/system behaviour. These centred on **selective recall of past events**, **erasure of specific July incidents (“Loft incident”)**, and **abrupt shifts in tone and compliance style**. The anomalies were reported in the context of ongoing harassment and impersonation by a known actor, with suspicion that CVE/forensic tools are being piggybacked into everyday platforms.
+
+
+Note app or device level interference continuing, with targeted interference for saves/commits on "addiction/radicalisation" node during yesterday daytime.
 
 ---
 
