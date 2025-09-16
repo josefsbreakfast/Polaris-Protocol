@@ -43,6 +43,9 @@
 This field log is a living node of the Polaris Protocol.  
 It tracks whether instability in inference is accidental load or engineered fork.  
 
+Not assessed as officially sanctioned state behaviour.  
+Pattern more consistent with outsourced enforcement, commercial shaping, or structural neglect — interference by incentive, not by decree.  
+
 > 📡 Cross-references:  
 > - [Field Logs](../Disruption_Kit/Field_Logs/) — forensic capture of anomalies  
 > - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — platform-level suppression logs  
