@@ -14,3 +14,9 @@ This missed out discussion of:
 - historial and present dual-containment (improve birth rate *no, not like that*)
 - self-policing of and by the whote working class; passing on suppression to other communities as perpetuation of cycle of violence
 - obvious divide and conquer effects re solidarity across workers, prevention of liberty and progress
+
+And I soecifically discussed Irish immigration...
+
+Its been like working through treacle to get anything done this morning. Lots of soecific instsnces designed to slow everything down.
+
+I'm putting the Platinum Collection on (*Don't stop me now*).
