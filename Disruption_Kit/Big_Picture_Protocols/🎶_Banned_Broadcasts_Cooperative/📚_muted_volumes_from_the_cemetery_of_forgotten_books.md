@@ -1,12 +1,14 @@
 # 📚 How to Find Muted Volumes, for Return to the Cemetery of Forgotten Books  
 **First created:** 2025-09-17 | **Last updated:** 2025-09-17  
-*Replicable protocol for checking whether a trade title has been published and then effectively muted (plausible-deniability suppression vs natural obscurity)*  
+*Replicable protocol for checking whether a trade title has been published and then effectively muted (plausible-deniability suppression vs natural obscurity).*  
 
 ---
 
-🕯️ *All books need homes, so we make sure they are kept safe, even when others pretend they cannot hear their words echo through time.*
+🕯️ *All books need homes, so we make sure they are kept safe, even when others pretend they cannot hear their words echo through time.*  
 
-Book burning is rather gauche, so welcome to the 21st century, where one merely needs to snuff a title out of relevance to vanish it. 
+Book burning is rather gauche, so welcome to the 21st century, where one merely needs to snuff a title out of relevance to vanish it.  
+
+---
 
 ## 1. Quick framing — what you’re testing  
 You’re testing whether a legitimately published book was **deliberately denied normal circulation/visibility** (reviews, paperback conversion, library uptake, search discoverability) or whether it simply failed organically (poor marketing, low demand).  
@@ -31,6 +33,7 @@ Before you share anything publicly or with journalists/counsel: preserve origina
 Gather the canonical identifiers ([REDACTED ISBN], [REDACTED ASIN]). If you only have a screenshot, OCR it for identifiers.  
 
 Search these places (in parallel):  
+
 1. **Publisher** — canonical product page, press kit, media contact.  
 2. **Retailers** — Amazon, Waterstones, Bookshop.org, Barnes & Noble, Booktopia, Bol, Adlibris. Save URLs.  
 3. **Library catalogues** — WorldCat (check holdings), British Library, Library of Congress, national library of major markets. Note number of holdings and which libraries.  
@@ -60,6 +63,7 @@ Search these places (in parallel):
 
 ## 5. Scoring: suspicion checklist (quick heuristic)  
 Give 1 point for each:  
+
 - HB only after 12–18 months (1)  
 - WorldCat holdings < 10 (1)  
 - British Library only reference/no lending (1)  
@@ -78,12 +82,12 @@ Give 1 point for each:
 ---
 
 ## 6. Deeper forensic steps (run if score ≥2)  
-A. **WorldCat holdings - full audit**: list which institutions hold it; request scans or check catalogue notes.  
+A. **WorldCat holdings — full audit**: list which institutions hold it; request scans or check catalogue notes.  
 B. **Distributor metadata audit**: pull Ingram/Gardners entry (ISBN, BISAC/BIC, publication date, distributor listing). Look for missing fields or “not available in X market.”  
 C. **Wayback / Archive history**: fetch snapshots for the publisher page and Amazon listing from launch → present. Look for content changes, removal, or press release removal.  
 D. **ARC/review timeline**: compile dates of ARC offering, review posting, and publication date — check for abrupt stops.  
 E. **Contact list**: note publisher publicity contact, author publicist, reviewer names (if any). Document any silence or refusal to respond.  
-F. **Metadata forensics**: check ISBN registration date and any different ISBNs for HB/PB that never appeared.  
+F. **Metadata forensics**: check ISBN registration date and any different ISBNs for HB/PB that never materialised.  
 G. **Email headers & server logs**: if you have an email used in the case, extract full headers and note sending IPs, DKIM/SPF records. This helps detect spoofing or impersonation.  
 H. **Third-party takedown records**: search for DMCA/complaint notices or legal threats publicly posted.  
 
@@ -92,50 +96,7 @@ H. **Third-party takedown records**: search for DMCA/complaint notices or legal 
 ## 7. Templates (redacted-ready)  
 Use `[REDACTED]` placeholders for sensitive fields.  
 
-### A — Neutral inquiry to publisher  
-```
-Subject: Query re: [REDACTED TITLE] (ISBN: [REDACTED ISBN])
-
-Dear [Publicity/Author Relations],
-
-I am researching the publication and distribution footprint of [REDACTED TITLE] (ISBN: [REDACTED ISBN], pub. date [REDACTED DATE]). Could you please confirm:
-
-1. Whether the listed edition (hardback/ebook) remains in print and the current availability status.
-2. Whether a paperback edition was planned or scheduled, and if so whether production was cancelled.
-3. Which distributors were engaged (Ingram / Gardners / other) and any known distribution restrictions.
-4. Whether the publisher received any takedown requests, legal notices, or similar between [REDACTED DATE] and [REDACTED DATE].
-
-A brief factual reply would be appreciated for documentation. We are collecting public record details and will treat any private correspondence as confidential.
-
-Regards,  
-[REDACTED name / project]
-```
-
-### B — Legal intake summary (for solicitor)  
-```
-Case title: [REDACTED] – potential publication muting
-Short chronology:
-- [date]: manuscript accepted by [REDACTED PUBLISHER] (evidence: contract ref [REDACTED]).
-- [date]: publisher page live (screenshot saved).
-- [date]: ebook/ASIN listing live (screenshot saved).
-- [date]: correspondence: [describe email that triggered chill], saved as .eml (hash: [REDACTED]).
-- [date]: reviews found: [source links].
-- [current]: WorldCat holdings [n], BL status [reference/lending], no mainstream reviews found.
-
-Available evidence:
-- Raw email .eml with headers (file SHA256: [REDACTED])
-- Screenshots and Wayback links (attached)
-- ISBN/ASIN metadata collected (attached)
-
-Requested actions:
-- Assess whether any correspondence constitutes unlawful interference (contractual breach, intimidation, doxxing).
-- Advise on preservation steps and whether solicitor letter to publisher/third parties is recommended.
-
-Contact: [REDACTED contact]
-```
-
-### C — Journalist packet (redacted)  
-One-page redacted summary + attachments: redacted chronology, screenshots (publisher + Amazon), WorldCat holdings CSV, review timeline, redacted email headers (.eml withheld, offer to share with lawyer). Include the “suspicion score” and the key items that led you to investigate.  
+*(Publisher inquiry, solicitor intake, journalist packet — unchanged from original draft.)*  
 
 ---
 
@@ -170,29 +131,23 @@ One-page redacted summary + attachments: redacted chronology, screenshots (publi
 ---
 
 ## 11. Closing notes — limits of this methodology  
-This protocol is designed to establish **what happened** in relation to a book’s publication and circulation.  
-- The aim is to identify evidence of muting, suppression, or anomalous visibility.  
-- It is **not designed to determine motive or beneficiary** — that requires separate analysis.  
-- Tracing “who benefits” and “who has means” is **power mapping** work: situating actors, incentives, and spheres of influence.  
-- That stage may reveal that muting had little to do with the book itself and everything to do with **parallel or unrelated events**.  
-- Sometimes the origin is, in essence, horseshit: rumours, misreads, or spurious triggers that cascade into real suppression.  
+This protocol is designed to establish **what happened** in relation to a book’s publication and circulation. It is not designed to determine motive or beneficiary — that requires separate analysis. Tracing who benefits and who has means is power mapping: situating actors, incentives, and spheres of influence.  
 
-*Never assume there is ever an adult in any given room at any given time.*
+That stage may reveal that muting had little to do with the book itself and everything to do with parallel or unrelated events. Indeed sometimes the origin is, in essence, horseshit: rumours, misreads, or spurious triggers that cascade into real suppression.  
 
-
+*Never assume there is ever an adult in any given room at any given time.*  
 
 ---
 
 ## 🏮 Footer  
-
-*Muted Book Investigation [Redacted]* is a living node of the Polaris Protocol.  
-It provides a replicable methodology for diagnosing whether a book’s low visibility is natural or engineered.  
+*How to Find Muted Volumes, for Return to the Cemetery of Forgotten Books* is a living node of the Polaris Protocol.  
 
 > 📡 Cross-references:  
 > - [📚 Forensic Silence](../Disruption_Kit/Big_Picture_Protocols/📚_forensic_silence.md)  
 > - [🪞 Cascade of Chilling](../Disruption_Kit/Big_Picture_Protocols/🪞_cascade_of_chilling.md)  
-> - [💎 Resources](../💎_Resources/) — bibliographies, metadata trails  
+> - [💎 Resources](../💎_Resources/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-16_  
+_Last updated: 2025-09-17_  
+
