@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-16 17:48:07 UTC_
+_Generated on 2025-09-16 18:45:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -795,6 +795,8 @@ _Generated on 2025-09-16 17:48:07 UTC_
     - [`🔮_challenge_of_ai.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
+  - [**🌐 Connection_Hiccups/**](🩻_Weirdness_Screening/🌐 Connection_Hiccups/)
+    - [`README.md`](🩻_Weirdness_Screening/🌐 Connection_Hiccups/README.md)
   - [**📬_Comms_Breaks/**](🩻_Weirdness_Screening/📬_Comms_Breaks/)
     - [`📎_attachments_not_delivered.md`](🩻_Weirdness_Screening/📬_Comms_Breaks/📎_attachments_not_delivered.md)
   - [**🖥_Interface_Glitches/**](🩻_Weirdness_Screening/🖥_Interface_Glitches/)
