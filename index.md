@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-17 01:37:08 UTC_
+_Generated on 2025-09-17 01:38:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -98,6 +98,7 @@ _Generated on 2025-09-17 01:37:08 UTC_
       - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_pilot_containments.md)
       - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_shadow_sandboxes.md)
       - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪞_the_illusion_of_choice.md)
+      - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪫_austerity_long_tail_data_instability.md)
       - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)
     - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/)
       - [**data/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/)
