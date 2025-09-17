@@ -1,6 +1,6 @@
 # 🇫🇷 Escaping English Shitification by Crossing Languages  
 **First created:** 2025-09-17 | **Last updated:** 2025-09-17  
-*A field note on why “algorithme” is less stressful to research in French than “algorithm” is in English.*  
+*A field note on why “algorithme” is less stressful to research in French than “algorithm” is in English*  
 
 ---
 
@@ -13,6 +13,8 @@ By contrast, *algorithme* in French leads to cultural, philosophical, and pedago
 
 ## ⚡ Context  
 French is not “clean”: it carries colonial baggage, neoliberal capture, and its own rightward algorithmic pressures (Canada, francophone Africa). Criticism of algorithmic manipulation is already present in French culture.  
+
+*French languages sources are still poisoned with the same white supremacist autarky and misogyny as Anglophone sources, as a whole.*
 
 But crucially, French has **not yet been politically targeted in the same way English has**. Its distortions are different, and for this concept they are less overwhelming. The fact that French feels *less stressful* is not a compliment to French, but an indictment of English.  
 
