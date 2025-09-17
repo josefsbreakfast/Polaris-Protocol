@@ -1,4 +1,4 @@
-# 🇫🇷 Escaping English Shitification by Crossing Languages  
+# 🇫🇷 Escaping English Enshitification by Crossing Languages  
 **First created:** 2025-09-17 | **Last updated:** 2025-09-17  
 *A field note on why “algorithme” is less stressful to research in French than “algorithm” is in English*  
 
