@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-17 01:22:12 UTC_
+_Generated on 2025-09-17 01:23:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -37,6 +37,7 @@ _Generated on 2025-09-17 01:22:12 UTC_
       - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_surveillance_osa_citizen_forking_meganode.md)
       - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_uk_constitutional_fault_lines.md)
       - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_wrong_people_in_power.md)
+      - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🇬🇧_britain_as_global_butler.md)
       - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
       - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🇬🇧_uk_voicecloning_risks_legislative_response.md)
       - [`🌀_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_algorithmic_delay_and_pacing.md)
