@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-17 11:46:15 UTC_
+_Generated on 2025-09-18 22:46:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -670,6 +670,7 @@ _Generated on 2025-09-17 11:46:15 UTC_
     - [`🛰️_network_instability_forking_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_network_instability_forking_2025-09-16.md)
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
+    - [`🛰️_suppression_gremlins_after_midnight_2025-09-18.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_suppression_gremlins_after_midnight_2025-09-18.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧪_breeding_trope_as_eugenics.md`](Polaris_Nest/Git_Intake_Drawer/🧪_breeding_trope_as_eugenics.md)
     - [`🧬_cambridge_analytica_genealogy.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cambridge_analytica_genealogy.md)
