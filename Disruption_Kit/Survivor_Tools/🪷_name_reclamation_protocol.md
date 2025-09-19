@@ -4,12 +4,22 @@
 
 ---
 
-⚠️ **Safety note**: We present this for awareness. These practices are survivor-led tools, not prescriptions. If safe support from a trusted professional or ally is available, we encourage seeking it. Always move at your own pace and pause if distress rises beyond what feels manageable.
+⚠️ **Safety note**: We present this for awareness. These practices are survivor-led tools, not prescriptions. 
+
+If safe support from a trusted professional or ally is available, we encourage seeking it. Always move at your own pace and pause if distress rises beyond what feels manageable.
 
 ---
 
 ## Scope  
-Some survivors develop strong inhibition or collapse around a specific **name** — either because it was used as a weapon in punishment, or because the abuser’s identity itself has become fused with fear. This protocol outlines safe, survivor-led methods for reclaiming choice when encountering that name.
+Some survivors develop strong inhibition or collapse around a specific **name** — either because it was used as a weapon in punishment, or because the abuser’s identity itself has become fused with fear. 
+
+This protocol outlines safe, survivor-led methods for reclaiming choice when encountering that name.  
+
+Survivors are strengthened by the ability to not only call out harms, but also to be able to nane and address allies, friends, and even other potentiak survivors.  
+
+Interfering with a survivor's voice is a known tactic of coercion.  
+
+Trauma studies and trauma-led practitioners have helped many survivors find a new voice to move forward into.
 
 ---
 
