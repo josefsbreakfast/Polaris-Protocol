@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-19 14:39:07 UTC_
+_Generated on 2025-09-19 14:52:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -552,7 +552,10 @@ _Generated on 2025-09-19 14:39:07 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`Exhibit: Sales Suppression vs Viral Spike.png`](Polaris_Nest/Git_Intake_Drawer/Exhibit: Sales Suppression vs Viral Spike.png)
     - [`FL-2025-09-16-01.md`](Polaris_Nest/Git_Intake_Drawer/FL-2025-09-16-01.md)
+    - [`GIT_INTAKE_README.md`](Polaris_Nest/Git_Intake_Drawer/GIT_INTAKE_README.md)
+    - [`NOTICE.md`](Polaris_Nest/Git_Intake_Drawer/NOTICE.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
+    - [`SEC-2025-09.md`](Polaris_Nest/Git_Intake_Drawer/SEC-2025-09.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
     - [`battleplan_metadata_twinning_convergence_containment.png`](Polaris_Nest/Git_Intake_Drawer/battleplan_metadata_twinning_convergence_containment.png)
     - [`behavioural_ai_connector_proximity_map.png`](Polaris_Nest/Git_Intake_Drawer/behavioural_ai_connector_proximity_map.png)
@@ -580,6 +583,7 @@ _Generated on 2025-09-19 14:39:07 UTC_
     - [`jewish_intersections_global.png`](Polaris_Nest/Git_Intake_Drawer/jewish_intersections_global.png)
     - [`jewish_intersections_global_visual.png`](Polaris_Nest/Git_Intake_Drawer/jewish_intersections_global_visual.png)
     - [`layer_dominance_containment_posture.png`](Polaris_Nest/Git_Intake_Drawer/layer_dominance_containment_posture.png)
+    - [`legal-risk.md`](Polaris_Nest/Git_Intake_Drawer/legal-risk.md)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
     - [`metadata_shame_overlay.png`](Polaris_Nest/Git_Intake_Drawer/metadata_shame_overlay.png)
@@ -623,6 +627,7 @@ _Generated on 2025-09-19 14:39:07 UTC_
     - [`safeguarding_model_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_potential.png)
     - [`scale_of_scapegoating_hashtag.png`](Polaris_Nest/Git_Intake_Drawer/scale_of_scapegoating_hashtag.png)
     - [`scraping_spoofing_timeline_2019-2022.png`](Polaris_Nest/Git_Intake_Drawer/scraping_spoofing_timeline_2019-2022.png)
+    - [`security-signal.md`](Polaris_Nest/Git_Intake_Drawer/security-signal.md)
     - [`shadow_nda_redacted.pdf`](Polaris_Nest/Git_Intake_Drawer/shadow_nda_redacted.pdf)
     - [`sound_ahavah_rabbah.png`](Polaris_Nest/Git_Intake_Drawer/sound_ahavah_rabbah.png)
     - [`sound_harmonic_c_minor.png`](Polaris_Nest/Git_Intake_Drawer/sound_harmonic_c_minor.png)
@@ -686,6 +691,7 @@ _Generated on 2025-09-19 14:39:07 UTC_
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧰_leave_me_alone_playbook.md`](Polaris_Nest/Git_Intake_Drawer/🧰_leave_me_alone_playbook.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
+    - [`🧿_intake_drawer_balancing_harms.md`](Polaris_Nest/Git_Intake_Drawer/🧿_intake_drawer_balancing_harms.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
     - [`🪬_appeasement_economics.md`](Polaris_Nest/Git_Intake_Drawer/🪬_appeasement_economics.md)
     - [`🪬_authoritarianism_beyond_left_right.md`](Polaris_Nest/Git_Intake_Drawer/🪬_authoritarianism_beyond_left_right.md)
