@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-18 22:46:19 UTC_
+_Generated on 2025-09-19 14:37:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -550,6 +550,7 @@ _Generated on 2025-09-18 22:46:19 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
+    - [`Exhibit: Sales Suppression vs Viral Spike.png`](Polaris_Nest/Git_Intake_Drawer/Exhibit: Sales Suppression vs Viral Spike.png)
     - [`FL-2025-09-16-01.md`](Polaris_Nest/Git_Intake_Drawer/FL-2025-09-16-01.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
@@ -641,19 +642,24 @@ _Generated on 2025-09-18 22:46:19 UTC_
     - [`⚖️_coercive_control_in_border_policy.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_coercive_control_in_border_policy.md)
     - [`⚖️_compliance_as_opacity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_compliance_as_opacity.md)
     - [`⚖️_containment_contract_trace.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_containment_contract_trace.md)
+    - [`⚖️_legal_hooks_for_muted_books.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_hooks_for_muted_books.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
     - [`🍴_fork_taxonomy_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy_FULL.md)
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
+    - [`🎶_hdz_lalgorithme_paroles.md`](Polaris_Nest/Git_Intake_Drawer/🎶_hdz_lalgorithme_paroles.md)
     - [`🎶_lalgorithme_as_containment_song.md`](Polaris_Nest/Git_Intake_Drawer/🎶_lalgorithme_as_containment_song.md)
+    - [`🎶_taiz_lalgorithme_album_intake.md`](Polaris_Nest/Git_Intake_Drawer/🎶_taiz_lalgorithme_album_intake.md)
     - [`🏘️_council_incentives_hotels.md`](Polaris_Nest/Git_Intake_Drawer/🏘️_council_incentives_hotels.md)
     - [`🏛️_policy_exchange_as_neocon_import.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_policy_exchange_as_neocon_import.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
     - [`💸_donor_networks_alt_right_media_overlap.md`](Polaris_Nest/Git_Intake_Drawer/💸_donor_networks_alt_right_media_overlap.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
+    - [`📚_muted_book_investigation.md`](Polaris_Nest/Git_Intake_Drawer/📚_muted_book_investigation.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
+    - [`📝_field_log_repo_upload_glitch.md`](Polaris_Nest/Git_Intake_Drawer/📝_field_log_repo_upload_glitch.md)
     - [`📦_containment_as_industry.md`](Polaris_Nest/Git_Intake_Drawer/📦_containment_as_industry.md)
     - [`📺_contractors_vs_media_clusters.md`](Polaris_Nest/Git_Intake_Drawer/📺_contractors_vs_media_clusters.md)
     - [`🔥_hot_coals_theory_of_insults.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hot_coals_theory_of_insults.md)
@@ -671,6 +677,7 @@ _Generated on 2025-09-18 22:46:19 UTC_
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🛰️_suppression_gremlins_after_midnight_2025-09-18.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_suppression_gremlins_after_midnight_2025-09-18.md)
+    - [`🧨_crisis_actor_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧨_crisis_actor_dynamics.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧪_breeding_trope_as_eugenics.md`](Polaris_Nest/Git_Intake_Drawer/🧪_breeding_trope_as_eugenics.md)
     - [`🧬_cambridge_analytica_genealogy.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cambridge_analytica_genealogy.md)
@@ -678,6 +685,8 @@ _Generated on 2025-09-18 22:46:19 UTC_
     - [`🧰_leave_me_alone_playbook.md`](Polaris_Nest/Git_Intake_Drawer/🧰_leave_me_alone_playbook.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
+    - [`🪬_appeasement_economics.md`](Polaris_Nest/Git_Intake_Drawer/🪬_appeasement_economics.md)
+    - [`🪬_authoritarianism_beyond_left_right.md`](Polaris_Nest/Git_Intake_Drawer/🪬_authoritarianism_beyond_left_right.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
