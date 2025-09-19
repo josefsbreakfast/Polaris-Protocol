@@ -12,7 +12,7 @@ A months-old fraudulent harassment claim, likely scaffolded by identity theft, f
 ## Condensed Timeline  
 - **Prior months** — Fraudulent/ID-theft–assisted harassment allegations in circulation.  
 - **T0** — Statement-of-truth issued: clarification that no harassment occurred.  
-- **T0 + hours** — Routine order-check email sent to publisher, signed personally.  
+- **T0 + weeks** — Routine order-check email sent to publisher, signed personally.  
 - **Immediate aftermath** — Targeted spoofing and cyber interference escalate, aiming to undermine rebuttal and evidence flows.  
 
 ---
