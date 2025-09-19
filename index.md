@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-19 14:37:47 UTC_
+_Generated on 2025-09-19 14:39:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -663,6 +663,8 @@ _Generated on 2025-09-19 14:37:47 UTC_
     - [`📦_containment_as_industry.md`](Polaris_Nest/Git_Intake_Drawer/📦_containment_as_industry.md)
     - [`📺_contractors_vs_media_clusters.md`](Polaris_Nest/Git_Intake_Drawer/📺_contractors_vs_media_clusters.md)
     - [`🔥_hot_coals_theory_of_insults.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hot_coals_theory_of_insults.md)
+    - [`🔥_suppression_and_quasi_suppression.md`](Polaris_Nest/Git_Intake_Drawer/🔥_suppression_and_quasi_suppression.md)
+    - [`🔥_suppression_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_suppression_as_signal.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🗝_eccentric_custody_wellcome_collection.md`](Polaris_Nest/Git_Intake_Drawer/🗝_eccentric_custody_wellcome_collection.md)
     - [`🗝_guardianship_as_nonstate_custody.md`](Polaris_Nest/Git_Intake_Drawer/🗝_guardianship_as_nonstate_custody.md)
