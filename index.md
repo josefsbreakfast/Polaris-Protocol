@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-19 15:32:47 UTC_
+_Generated on 2025-09-19 21:17:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -316,6 +316,7 @@ _Generated on 2025-09-19 15:32:47 UTC_
     - [`🧬_heat_budget_for_the_long_game.md`](Disruption_Kit/Survivor_Tools/🧬_heat_budget_for_the_long_game.md)
     - [`🧬_honeytrap_mechanics.md`](Disruption_Kit/Survivor_Tools/🧬_honeytrap_mechanics.md)
     - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
+    - [`🪷_name_reclamation_protocol.md`](Disruption_Kit/Survivor_Tools/🪷_name_reclamation_protocol.md)
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
   - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
     - [`README.md`](Disruption_Kit/💎_Resources/README.md)
