@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-19 15:02:57 UTC_
+_Generated on 2025-09-19 15:32:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -557,6 +557,7 @@ _Generated on 2025-09-19 15:02:57 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`SEC-2025-09.md`](Polaris_Nest/Git_Intake_Drawer/SEC-2025-09.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
+    - [`banned_book_paradox.md`](Polaris_Nest/Git_Intake_Drawer/banned_book_paradox.md)
     - [`battleplan_metadata_twinning_convergence_containment.png`](Polaris_Nest/Git_Intake_Drawer/battleplan_metadata_twinning_convergence_containment.png)
     - [`behavioural_ai_connector_proximity_map.png`](Polaris_Nest/Git_Intake_Drawer/behavioural_ai_connector_proximity_map.png)
     - [`big_tech_bds_soi_triangle.png`](Polaris_Nest/Git_Intake_Drawer/big_tech_bds_soi_triangle.png)
@@ -627,6 +628,7 @@ _Generated on 2025-09-19 15:02:57 UTC_
     - [`safeguarding_model_actual_vs_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_actual_vs_potential.png)
     - [`safeguarding_model_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_potential.png)
     - [`scale_of_scapegoating_hashtag.png`](Polaris_Nest/Git_Intake_Drawer/scale_of_scapegoating_hashtag.png)
+    - [`scarcity_prohibition_rocket_fuel.md`](Polaris_Nest/Git_Intake_Drawer/scarcity_prohibition_rocket_fuel.md)
     - [`scraping_spoofing_timeline_2019-2022.png`](Polaris_Nest/Git_Intake_Drawer/scraping_spoofing_timeline_2019-2022.png)
     - [`security-signal.md`](Polaris_Nest/Git_Intake_Drawer/security-signal.md)
     - [`shadow_nda_redacted.pdf`](Polaris_Nest/Git_Intake_Drawer/shadow_nda_redacted.pdf)
