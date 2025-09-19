@@ -44,7 +44,7 @@ A months-old fraudulent harassment claim, likely scaffolded by identity theft, f
 
 ## Accountability Note  
 
-This field note captures one instance where suppression tactics and harassment were applied with apparently harmful intent. It is the clearest, most documented example available at this time.  
+This field note captures one instance where suppression tactics and harassment were applied with apparently harmful intent. It is the clearest example available on the repo at this time; further instances exist with FOIA requests and similar instruments in progress.
 
 There are multiple other cases where defamation, coercion, or harassment have been used to silence or neutralise individuals who speak with clarity and power.  
 
