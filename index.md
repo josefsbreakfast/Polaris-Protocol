@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-19 14:52:43 UTC_
+_Generated on 2025-09-19 15:01:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -608,6 +608,7 @@ _Generated on 2025-09-19 14:52:43 UTC_
     - [`polaris_vs_degrees.png`](Polaris_Nest/Git_Intake_Drawer/polaris_vs_degrees.png)
     - [`pp14_22_metrics_timeline.png`](Polaris_Nest/Git_Intake_Drawer/pp14_22_metrics_timeline.png)
     - [`pre_fork_gaza_fork_tree.png`](Polaris_Nest/Git_Intake_Drawer/pre_fork_gaza_fork_tree.png)
+    - [`precursors_summary_2025-09-19.md`](Polaris_Nest/Git_Intake_Drawer/precursors_summary_2025-09-19.md)
     - [`pressure_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/pressure_map_local_redacted.png)
     - [`probe_response_probability_mapping.png`](Polaris_Nest/Git_Intake_Drawer/probe_response_probability_mapping.png)
     - [`protocol_flow_new_insert_handling.png`](Polaris_Nest/Git_Intake_Drawer/protocol_flow_new_insert_handling.png)
