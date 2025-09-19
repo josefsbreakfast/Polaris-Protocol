@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-19 21:23:25 UTC_
+_Generated on 2025-09-19 21:47:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -265,6 +265,7 @@ _Generated on 2025-09-19 21:23:25 UTC_
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
+    - [`🛰️_ 2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_ 2025-09-19_fieldnote_suppression_signal.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/🛰️_ai_interference_vs_baseline_generation.md)
     - [`🛰️_all_it_took_2025-09-06.md`](Disruption_Kit/Field_Logs/🛰️_all_it_took_2025-09-06.md)
     - [`🛰️_arrest_as_surveillance_warrant.md`](Disruption_Kit/Field_Logs/🛰️_arrest_as_surveillance_warrant.md)
