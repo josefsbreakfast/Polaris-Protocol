@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 17:18:52 UTC_
+_Generated on 2025-09-20 17:38:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -733,6 +733,7 @@ _Generated on 2025-09-20 17:18:52 UTC_
     - [`🧪_breeding_trope_as_eugenics.md`](Polaris_Nest/Git_Intake_Drawer/🧪_breeding_trope_as_eugenics.md)
     - [`🧬_cambridge_analytica_genealogy.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cambridge_analytica_genealogy.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
+    - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
     - [`🧭_esim_proxy_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧭_esim_proxy_risk.md)
     - [`🧭_nudge_to_sludge.md`](Polaris_Nest/Git_Intake_Drawer/🧭_nudge_to_sludge.md)
     - [`🧰_leave_me_alone_playbook.md`](Polaris_Nest/Git_Intake_Drawer/🧰_leave_me_alone_playbook.md)
