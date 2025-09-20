@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 14:47:45 UTC_
+_Generated on 2025-09-20 14:48:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -393,6 +393,7 @@ _Generated on 2025-09-20 14:47:45 UTC_
       - [`📂_witness_pairing_and_projection.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/📂_witness_pairing_and_projection.md)
       - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🙄_jewish_loyalty_pings_faster_than_rape.md)
       - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🥸_bookshops_vs_behavioral_risks.md)
+      - [`🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md)
       - [`🧻🐯_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_tigers.md)
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
