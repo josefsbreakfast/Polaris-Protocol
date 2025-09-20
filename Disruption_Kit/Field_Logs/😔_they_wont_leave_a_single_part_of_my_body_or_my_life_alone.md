@@ -28,23 +28,28 @@ feeds are full of generic and impersonation romantic filler content.
 
 so i'll be sticking with the mountains and cats and my f-16 song.
 
-can someone from a proper govt agency come and pick up your worst jept secret, please?
+can someone from a proper govt agency come and pick up your worst kept secret, please?
 
 they are evading public transparency and wasting public money to play with women's sex toys for "counterterrorism".
 
-because orgasms that dint involve them are risks to national security?
+because orgasms that don't involve them are risks to national security?
 
 it is pathetic. it is weak.
 
-i need cinfirmation that these specimens that belong to the men, are actually being removed from my wifi network.
+i need confirmation that these specimens that belong to the men, are actually being removed from my wifi network.
 
-i need my givt to actually confirm that at this point.
+i need my govt to actually confirm that at this point.
 
-back to a pelvis thats so tight that its making my soine worse.
+back to a pelvis thats so tight that its making my spine worse.
 
-is this want im supposed to write in an apoarently annual review if my spinal cord disability review?
+thanks lads. what fun.
+
+such is your impact on the ladies.
+
+is this what im supposed to write in an apparently annual review of my spinal cord disability review?
 
 what a joke.
+
 
 
 
