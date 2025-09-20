@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 18:23:07 UTC_
+_Generated on 2025-09-20 18:26:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -714,6 +714,7 @@ _Generated on 2025-09-20 18:23:07 UTC_
     - [`🛟_harm_reduction_asylum_routes.md`](Polaris_Nest/Git_Intake_Drawer/🛟_harm_reduction_asylum_routes.md)
     - [`🛟_harm_reduction_at_borders.md`](Polaris_Nest/Git_Intake_Drawer/🛟_harm_reduction_at_borders.md)
     - [`🛡️_clearance_impact.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_clearance_impact.md)
+    - [`🛡️_exploitability_and_defensive_strategy.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_exploitability_and_defensive_strategy.md)
     - [`🛰️_ambient_surveillance_delivery_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ambient_surveillance_delivery_2025-09-20.md)
     - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_bath_time_division_hypothesis_2025-09-20.md)
     - [`🛰️_behavior_first_framing_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_behavior_first_framing_2025-09-20.md)
