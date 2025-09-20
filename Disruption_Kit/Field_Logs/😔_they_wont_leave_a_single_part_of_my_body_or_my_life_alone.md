@@ -1,3 +1,5 @@
+nb: noises in adjacent properties around the history of this node? interesting. that's all i'll say.
+
 please note how bad the letters have come out on first attempt. this is not entirely human error:
 
 
