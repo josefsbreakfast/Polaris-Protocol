@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 15:14:54 UTC_
+_Generated on 2025-09-20 17:03:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -669,6 +669,7 @@ _Generated on 2025-09-20 15:14:54 UTC_
     - [`⚖️_compliance_as_opacity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_compliance_as_opacity.md)
     - [`⚖️_containment_contract_trace.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_containment_contract_trace.md)
     - [`⚖️_legal_hooks_for_muted_books.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_hooks_for_muted_books.md)
+    - [`⚖️_registered_professions_impact.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_registered_professions_impact.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
     - [`🍴_fork_taxonomy_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy_FULL.md)
     - [`🎖️_medal_for_mum.md`](Polaris_Nest/Git_Intake_Drawer/🎖️_medal_for_mum.md)
@@ -688,22 +689,26 @@ _Generated on 2025-09-20 15:14:54 UTC_
     - [`💸_donor_networks_alt_right_media_overlap.md`](Polaris_Nest/Git_Intake_Drawer/💸_donor_networks_alt_right_media_overlap.md)
     - [`💸_russian_overlap_patterns.md`](Polaris_Nest/Git_Intake_Drawer/💸_russian_overlap_patterns.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
+    - [`📓_paper_diary_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/📓_paper_diary_sovereignty.md)
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📚_muted_book_investigation.md`](Polaris_Nest/Git_Intake_Drawer/📚_muted_book_investigation.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
     - [`📝_field_log_repo_upload_glitch.md`](Polaris_Nest/Git_Intake_Drawer/📝_field_log_repo_upload_glitch.md)
     - [`📦_containment_as_industry.md`](Polaris_Nest/Git_Intake_Drawer/📦_containment_as_industry.md)
     - [`📺_contractors_vs_media_clusters.md`](Polaris_Nest/Git_Intake_Drawer/📺_contractors_vs_media_clusters.md)
+    - [`🔗_event_linkage_false_proof.md`](Polaris_Nest/Git_Intake_Drawer/🔗_event_linkage_false_proof.md)
     - [`🔥_hot_coals_theory_of_insults.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hot_coals_theory_of_insults.md)
     - [`🔥_suppression_and_quasi_suppression.md`](Polaris_Nest/Git_Intake_Drawer/🔥_suppression_and_quasi_suppression.md)
     - [`🔥_suppression_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_suppression_as_signal.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
+    - [`🗒️_field_note_conversation_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_field_note_conversation_drift.md)
     - [`🗝_eccentric_custody_wellcome_collection.md`](Polaris_Nest/Git_Intake_Drawer/🗝_eccentric_custody_wellcome_collection.md)
     - [`🗝_guardianship_as_nonstate_custody.md`](Polaris_Nest/Git_Intake_Drawer/🗝_guardianship_as_nonstate_custody.md)
     - [`🚀_taxonomy_expansion.md`](Polaris_Nest/Git_Intake_Drawer/🚀_taxonomy_expansion.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🛟_harm_reduction_asylum_routes.md`](Polaris_Nest/Git_Intake_Drawer/🛟_harm_reduction_asylum_routes.md)
     - [`🛟_harm_reduction_at_borders.md`](Polaris_Nest/Git_Intake_Drawer/🛟_harm_reduction_at_borders.md)
+    - [`🛡️_clearance_impact.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_clearance_impact.md)
     - [`🛰️_ambient_surveillance_delivery_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ambient_surveillance_delivery_2025-09-20.md)
     - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_bath_time_division_hypothesis_2025-09-20.md)
     - [`🛰️_behavior_first_framing_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_behavior_first_framing_2025-09-20.md)
@@ -727,10 +732,12 @@ _Generated on 2025-09-20 15:14:54 UTC_
     - [`🧪_breeding_trope_as_eugenics.md`](Polaris_Nest/Git_Intake_Drawer/🧪_breeding_trope_as_eugenics.md)
     - [`🧬_cambridge_analytica_genealogy.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cambridge_analytica_genealogy.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
+    - [`🧭_esim_proxy_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧭_esim_proxy_risk.md)
     - [`🧰_leave_me_alone_playbook.md`](Polaris_Nest/Git_Intake_Drawer/🧰_leave_me_alone_playbook.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
     - [`🧿_intake_drawer_balancing_harms.md`](Polaris_Nest/Git_Intake_Drawer/🧿_intake_drawer_balancing_harms.md)
+    - [`🪄_influencer_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🪄_influencer_resilience.md)
     - [`🪖_russias_incursions_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🪖_russias_incursions_timeline.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
     - [`🪪_codename_patronymics.md`](Polaris_Nest/Git_Intake_Drawer/🪪_codename_patronymics.md)
