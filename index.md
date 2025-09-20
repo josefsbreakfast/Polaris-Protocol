@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 18:06:16 UTC_
+_Generated on 2025-09-20 18:20:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -690,6 +690,7 @@ _Generated on 2025-09-20 18:06:16 UTC_
     - [`💸_donor_networks_alt_right_media_overlap.md`](Polaris_Nest/Git_Intake_Drawer/💸_donor_networks_alt_right_media_overlap.md)
     - [`💸_russian_overlap_patterns.md`](Polaris_Nest/Git_Intake_Drawer/💸_russian_overlap_patterns.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
+    - [`📊_scale_of_effects_estimate.md`](Polaris_Nest/Git_Intake_Drawer/📊_scale_of_effects_estimate.md)
     - [`📓_paper_diary_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/📓_paper_diary_sovereignty.md)
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📚_muted_book_investigation.md`](Polaris_Nest/Git_Intake_Drawer/📚_muted_book_investigation.md)
@@ -720,6 +721,7 @@ _Generated on 2025-09-20 18:06:16 UTC_
     - [`🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)
     - [`🛰️_frankenstack_interaction_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_frankenstack_interaction_2025-09-16.md)
     - [`🛰️_harassment_business_layer_log_2025-09-19.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_harassment_business_layer_log_2025-09-19.md)
+    - [`🛰️_hypothetical_nudge_map_for_[redacted].md`](Polaris_Nest/Git_Intake_Drawer/🛰️_hypothetical_nudge_map_for_[redacted].md)
     - [`🛰️_network_instability_forking_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_network_instability_forking_2025-09-16.md)
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_patterns_analytic_addendum_update_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_patterns_analytic_addendum_update_2025-09-20.md)
