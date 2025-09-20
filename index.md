@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 14:39:50 UTC_
+_Generated on 2025-09-20 14:41:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -297,6 +297,7 @@ _Generated on 2025-09-20 14:39:50 UTC_
     - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
     - [`🛰️_reputational_unit_12_saluting_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reputational_unit_12_saluting_2025-08-13.md)
+    - [`🛰️_rerouting_after_mark_commit_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_rerouting_after_mark_commit_2025-09-20.md)
     - [`🛰️_reset_state_analysis_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reset_state_analysis_2025-08-13.md)
     - [`🛰️_safety_transparency_email_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_safety_transparency_email_2025-09-05.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
