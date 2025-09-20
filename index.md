@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 14:33:52 UTC_
+_Generated on 2025-09-20 14:35:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -283,6 +283,7 @@ _Generated on 2025-09-20 14:33:52 UTC_
     - [`🛰️_forkbreach_2025-07-24_redacted_V6.md`](Disruption_Kit/Field_Logs/🛰️_forkbreach_2025-07-24_redacted_V6.md)
     - [`🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md`](Disruption_Kit/Field_Logs/🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md)
     - [`🛰️_forking_on_poetic_rhythm_search.md`](Disruption_Kit/Field_Logs/🛰️_forking_on_poetic_rhythm_search.md)
+    - [`🛰️_from_escalation_to_play_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_from_escalation_to_play_2025-09-20.md)
     - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_ghost_session_compete_log_2025-08-27.md)
     - [`🛰️_handlers_at_the_table.md`](Disruption_Kit/Field_Logs/🛰️_handlers_at_the_table.md)
     - [`🛰️_icc_tag_thread_containment.md`](Disruption_Kit/Field_Logs/🛰️_icc_tag_thread_containment.md)
