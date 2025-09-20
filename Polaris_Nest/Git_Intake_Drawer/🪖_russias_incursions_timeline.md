@@ -51,3 +51,4 @@ It documents a skeleton chronology of Russian operations alongside metadata even
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-09-20_
+
