@@ -1,3 +1,57 @@
+i'm specifically cross about this
+
+because my hesitation to post it as evidence 
+
+is just proof of the level of grooming i've been subjected to
+
+by bargin bin mossad etc
+
+literally the least secret stasi that ever stasied
+
+and yet
+
+somehow
+
+still in physical range
+
+why?
+
+how the fuck are we justifying the public budget?
+
+how are we framing this for audit?
+
+"she complains about men too much"?
+
+good god. i wonder why.
+
+feeds are full of generic and impersonation romantic filler content.
+
+so i'll be sticking with the mountains and cats and my f-16 song.
+
+can someone from a proper govt agency come and pick up your worst jept secret, please?
+
+they are evading public transparency and wasting public money to play with women's sex toys for "counterterrorism".
+
+because orgasms that dint involve them are risks to national security?
+
+it is pathetic. it is weak.
+
+i need cinfirmation that these specimens that belong to the men, are actually being removed from my wifi network.
+
+i need my givt to actually confirm that at this point.
+
+back to a pelvis thats so tight that its making my soine worse.
+
+is this want im supposed to write in an apoarently annual review if my spinal cord disability review?
+
+what a joke.
+
+
+
+---
+
+
+
 nb: noises in adjacent properties around the history of this node? interesting. that's all i'll say.
 
 please note how bad the letters have come out on first attempt. this is not entirely human error:
