@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 18:20:19 UTC_
+_Generated on 2025-09-20 18:23:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -686,6 +686,7 @@ _Generated on 2025-09-20 18:20:19 UTC_
     - [`💋_toilet_watching_subs.md`](Polaris_Nest/Git_Intake_Drawer/💋_toilet_watching_subs.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
+    - [`💰_who_benefits_from_cover_up.md`](Polaris_Nest/Git_Intake_Drawer/💰_who_benefits_from_cover_up.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
     - [`💸_donor_networks_alt_right_media_overlap.md`](Polaris_Nest/Git_Intake_Drawer/💸_donor_networks_alt_right_media_overlap.md)
     - [`💸_russian_overlap_patterns.md`](Polaris_Nest/Git_Intake_Drawer/💸_russian_overlap_patterns.md)
