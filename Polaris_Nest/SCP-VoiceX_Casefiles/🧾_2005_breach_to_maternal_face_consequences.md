@@ -41,7 +41,7 @@ This node records both the hypothesised origin and the lived outcomes.
 - **If intentional:** deliberate long-tail use of stolen data to manipulate provenance and credibility.  
 - **If systemic:** a breach + weak evidential culture allowed impersonation and misattribution to cascade unchecked.  
 - **Either way:** the architecture enabled private, family-visible harms from what began as a data-handling failure.  
-
+<!---It's the same set of things pravtically every mother of a certain generation will value, so its not just "my mother" as if she isn't deeply desiring what looks like success to most women, and still does to many today, for her daughter. This is what is coded as "success" in raising our girls. That needs broad cultural change, if we find it "problematic"; mostly other mothers are and have been doing the best they can do, in a very challenging and painful world. ---> 
 ---
 
 ## 🏮 Footer  
