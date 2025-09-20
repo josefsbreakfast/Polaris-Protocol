@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 13:54:43 UTC_
+_Generated on 2025-09-20 13:55:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -56,6 +56,7 @@ _Generated on 2025-09-20 13:54:43 UTC_
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💄_surveillance_or_pervert_with_a_badge.md)
       - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💢_draft_prevent_ihl.md)
       - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💣_energy_rents_and_strongman_panic.md)
+      - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💣_energy_rents_timeline.csv)
       - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_polaris_costing_estimate.md)
       - [`💷_potential_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_potential_tort_exposure.md)
       - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_dept_clashes.md)
