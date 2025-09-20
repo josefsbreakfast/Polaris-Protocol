@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-19 21:50:14 UTC_
+_Generated on 2025-09-20 11:36:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -665,6 +665,7 @@ _Generated on 2025-09-19 21:50:14 UTC_
     - [`🏛️_policy_exchange_as_neocon_import.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_policy_exchange_as_neocon_import.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
     - [`💸_donor_networks_alt_right_media_overlap.md`](Polaris_Nest/Git_Intake_Drawer/💸_donor_networks_alt_right_media_overlap.md)
+    - [`💸_russian_overlap_patterns.md`](Polaris_Nest/Git_Intake_Drawer/💸_russian_overlap_patterns.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📚_muted_book_investigation.md`](Polaris_Nest/Git_Intake_Drawer/📚_muted_book_investigation.md)
@@ -698,6 +699,7 @@ _Generated on 2025-09-19 21:50:14 UTC_
     - [`🧰_leave_me_alone_playbook.md`](Polaris_Nest/Git_Intake_Drawer/🧰_leave_me_alone_playbook.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
     - [`🧿_intake_drawer_balancing_harms.md`](Polaris_Nest/Git_Intake_Drawer/🧿_intake_drawer_balancing_harms.md)
+    - [`🪖_russias_incursions_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🪖_russias_incursions_timeline.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
     - [`🪬_appeasement_economics.md`](Polaris_Nest/Git_Intake_Drawer/🪬_appeasement_economics.md)
     - [`🪬_authoritarianism_beyond_left_right.md`](Polaris_Nest/Git_Intake_Drawer/🪬_authoritarianism_beyond_left_right.md)
