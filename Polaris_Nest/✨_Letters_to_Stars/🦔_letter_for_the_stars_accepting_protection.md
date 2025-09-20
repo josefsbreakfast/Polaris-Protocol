@@ -8,7 +8,9 @@ I have been stubborn and independent, ferociously rejecting protection even when
 
 For this year, I ask the stars to help me learn how to accept protection. To let my spikes rest. To let support come close without fear. So that I may spend more of my time and strength on the things I am here to do—without always having to defend first.  
 
-<!--- Don't get me wrong, I'm incredibly annoying even *writing* this, but it would be rather nice to not have to spend so much energy on it, so much of the time. --->
+<!--- Don't get me wrong, I'm incredibly annoying even *writing* this, but it would be rather nice to not have to spend so much energy on it, quite so much of the time. 
+
+Anyone joining in the collective "I did say..."? Yes, I know, you and everyone else. You can all have 10 mins of being so bloody smug about it. I take my time but occasionally I do (eventually) take on advice. 🙄--->
 
 ---
 
