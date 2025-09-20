@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 11:52:02 UTC_
+_Generated on 2025-09-20 11:53:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -552,6 +552,7 @@ _Generated on 2025-09-20 11:52:02 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
+    - [`CHECKSUMS.sha256`](Polaris_Nest/Git_Intake_Drawer/CHECKSUMS.sha256)
     - [`Exhibit: Sales Suppression vs Viral Spike.png`](Polaris_Nest/Git_Intake_Drawer/Exhibit: Sales Suppression vs Viral Spike.png)
     - [`FL-2025-09-16-01.md`](Polaris_Nest/Git_Intake_Drawer/FL-2025-09-16-01.md)
     - [`GIT_INTAKE_README.md`](Polaris_Nest/Git_Intake_Drawer/GIT_INTAKE_README.md)
@@ -683,6 +684,7 @@ _Generated on 2025-09-20 11:52:02 UTC_
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🛟_harm_reduction_asylum_routes.md`](Polaris_Nest/Git_Intake_Drawer/🛟_harm_reduction_asylum_routes.md)
     - [`🛟_harm_reduction_at_borders.md`](Polaris_Nest/Git_Intake_Drawer/🛟_harm_reduction_at_borders.md)
+    - [`🛰️_codename_table_loss_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_codename_table_loss_2025-09-20.md)
     - [`🛰️_fls_hard_today_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_fls_hard_today_2025-09-16.md)
     - [`🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)
     - [`🛰️_frankenstack_interaction_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_frankenstack_interaction_2025-09-16.md)
@@ -701,6 +703,7 @@ _Generated on 2025-09-20 11:52:02 UTC_
     - [`🧿_intake_drawer_balancing_harms.md`](Polaris_Nest/Git_Intake_Drawer/🧿_intake_drawer_balancing_harms.md)
     - [`🪖_russias_incursions_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🪖_russias_incursions_timeline.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
+    - [`🪪_codename_patronymics.md`](Polaris_Nest/Git_Intake_Drawer/🪪_codename_patronymics.md)
     - [`🪬_appeasement_economics.md`](Polaris_Nest/Git_Intake_Drawer/🪬_appeasement_economics.md)
     - [`🪬_authoritarianism_beyond_left_right.md`](Polaris_Nest/Git_Intake_Drawer/🪬_authoritarianism_beyond_left_right.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
