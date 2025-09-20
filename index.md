@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 18:29:48 UTC_
+_Generated on 2025-09-20 18:36:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -669,6 +669,7 @@ _Generated on 2025-09-20 18:29:48 UTC_
     - [`⚖️_compliance_as_opacity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_compliance_as_opacity.md)
     - [`⚖️_containment_contract_trace.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_containment_contract_trace.md)
     - [`⚖️_legal_hooks_for_muted_books.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_hooks_for_muted_books.md)
+    - [`⚖️_redress_models_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_redress_models_and_limits.md)
     - [`⚖️_registered_professions_impact.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_registered_professions_impact.md)
     - [`⚖️_transparency_floor.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_transparency_floor.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
