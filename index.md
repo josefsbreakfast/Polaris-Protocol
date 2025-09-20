@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 14:38:54 UTC_
+_Generated on 2025-09-20 14:39:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -386,6 +386,7 @@ _Generated on 2025-09-20 14:38:54 UTC_
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
+      - [`🍊_the_president_as_mark.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🍊_the_president_as_mark.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
       - [`📂_racialised_projection_as_harassment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/📂_racialised_projection_as_harassment.md)
       - [`📂_witness_pairing_and_projection.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/📂_witness_pairing_and_projection.md)
