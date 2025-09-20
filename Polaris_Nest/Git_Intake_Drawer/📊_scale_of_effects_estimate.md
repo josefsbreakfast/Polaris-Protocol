@@ -9,6 +9,13 @@ Not everyone is directly affected. The impact concentrates in identifiable profe
 
 ---
 
+## 📍 Numerical Headline (at a glance)  
+- **Directly affected:** ~1,000–3,000 people UK-wide over the last decade.  
+- **Indirectly affected:** ~10,000–50,000 clients, patients, students, and service users.  
+- **Systemically affected:** broad trust impacts across the general population.
+
+---
+
 ## 📍 Directly Affected Groups  
 - **Security-cleared staff**  
   - Vulnerable to clearance review triggered by weak digital signals.  
@@ -41,7 +48,7 @@ Not everyone is directly affected. The impact concentrates in identifiable profe
 
 ## 📈 Orders of Magnitude (hypothesis)  
 - **Directly affected, targeted individuals**: ~1,000–3,000 UK-wide (last decade).  
-- **Indirect service ripple effects**: ~10,000s clients/patients/students.  
+- **Indirect service ripple effects**: ~10,000–50,000 clients/patients/students.  
 - **Systemic trust erosion**: broad, population-level but harder to quantify.
 
 ---
