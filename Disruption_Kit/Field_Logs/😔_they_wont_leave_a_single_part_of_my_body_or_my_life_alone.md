@@ -1,3 +1,6 @@
+please note how bad the letters have come out on first attempt. this is not entirely human error:
+
+
 the anount of interference on all apps and sites just to wrote this up and pist it is intense
 
 i want these very un-secret policemen out of my wufi and out of rf range (sonetimes they put the remote lights off just bc)
