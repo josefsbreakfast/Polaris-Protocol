@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-20 17:38:54 UTC_
+_Generated on 2025-09-20 17:46:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -722,6 +722,7 @@ _Generated on 2025-09-20 17:38:54 UTC_
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_patterns_analytic_addendum_update_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_patterns_analytic_addendum_update_2025-09-20.md)
     - [`🛰️_patterns_update_user_observations_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_patterns_update_user_observations_2025-09-20.md)
+    - [`🛰️_proximity_to_experiments_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_proximity_to_experiments_note.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🛰️_stasi_style_email_mirroring_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stasi_style_email_mirroring_2025-09-20.md)
     - [`🛰️_structural_vulnerabilities_media_harm_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_structural_vulnerabilities_media_harm_2025-09-20.md)
