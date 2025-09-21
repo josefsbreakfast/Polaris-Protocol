@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 17:40:55 UTC_
+_Generated on 2025-09-21 18:51:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -318,6 +318,7 @@ _Generated on 2025-09-21 17:40:55 UTC_
     - [`🇫🇷_escaping_english_shitification.md`](Disruption_Kit/Survivor_Tools/🇫🇷_escaping_english_shitification.md)
     - [`🍃_two_layer_resilience_protocol.md`](Disruption_Kit/Survivor_Tools/🍃_two_layer_resilience_protocol.md)
     - [`🐍_venomous_pattern_mapping.md`](Disruption_Kit/Survivor_Tools/🐍_venomous_pattern_mapping.md)
+    - [`👀_phantom_notification_screening.md`](Disruption_Kit/Survivor_Tools/👀_phantom_notification_screening.md)
     - [`👻_ghost_gets_forked_tuning.md`](Disruption_Kit/Survivor_Tools/👻_ghost_gets_forked_tuning.md)
     - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
