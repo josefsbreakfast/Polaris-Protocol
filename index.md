@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 07:46:41 UTC_
+_Generated on 2025-09-21 07:57:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -700,6 +700,7 @@ _Generated on 2025-09-21 07:46:41 UTC_
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📚_muted_book_investigation.md`](Polaris_Nest/Git_Intake_Drawer/📚_muted_book_investigation.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
+    - [`📜_teen_poetry_as_pretext.md`](Polaris_Nest/Git_Intake_Drawer/📜_teen_poetry_as_pretext.md)
     - [`📝_field_log_repo_upload_glitch.md`](Polaris_Nest/Git_Intake_Drawer/📝_field_log_repo_upload_glitch.md)
     - [`📦_containment_as_industry.md`](Polaris_Nest/Git_Intake_Drawer/📦_containment_as_industry.md)
     - [`📺_contractors_vs_media_clusters.md`](Polaris_Nest/Git_Intake_Drawer/📺_contractors_vs_media_clusters.md)
