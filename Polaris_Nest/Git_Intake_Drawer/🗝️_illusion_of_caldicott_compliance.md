@@ -85,6 +85,10 @@ Examples of this dynamic:
 
 This is not rhetorical decoration. Naming patriarchy matters because it reframes accountability: the problem is not the woman’s behaviour but the men, institutions, and data systems that produce, exploit, and monetise those traces. Resist attempts to collapse context into shorthand moral judgments.
 
+By refusing to collapse women and children into the oppressive folds of the patriarchy's own logic, we grant a sexual agency which their abusers and groomers hate.
+
+*Give them that agency. Piss off a rapist or two (at least). You'll feel better.*
+
 ---
 
 ## 🛡️ Grooming by proxy, whistleblowing, and protecting allies  
