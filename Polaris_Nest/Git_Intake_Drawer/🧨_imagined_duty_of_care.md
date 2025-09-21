@@ -1,0 +1,52 @@
+# 🧨 Real vs Fake Duty of Care  
+**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
+*Distinguishing legitimate legal complexity from weaponised prolongation*  
+
+---
+
+## 🏛️ Real Duty of Care (legitimate complexity)  
+- **Examples:** Court of Protection cases, High Court decisions.  
+- **Features:**  
+  - Complex questions about capacity, rights, safeguarding.  
+  - Delays caused by legal process and judicial oversight.  
+  - Reviews by independent judges.  
+  - Aim: balance interventions with autonomy, protection with rights.  
+- **Outcome:** Eventually resolved through lawful authority, with accountability.  
+
+---
+
+## 🧨 Fake Duty of Care (weaponised prolongation)  
+- **Examples:** Cases kept open on flimsy or vendetta grounds.  
+- **Features:**  
+  - No lawful basis, no judicial review.  
+  - Files sustained by banter, face-saving, inter-office bets.  
+  - “Nudges” engineered to create manufactured risk.  
+  - Duty-of-care language used as cover for punishment.  
+- **Outcome:** Indefinite surveillance, reputational smearing, entanglement of whistleblowers.  
+
+---
+
+## 🧭 Why This Distinction Matters  
+- Real duty of care is **law-bound and accountable**.  
+- Fake duty of care is **ego-bound and unaccountable**.  
+- Confusing the two lets harmful actors hide behind the language of protection.
+
+---
+
+Very obviously, there are significsnt transformational changes required to repair our systems of accountability, which allow real and proportionate checks on powers, and which protect workers raising concerns.
+Given personal work experience: it is better if we can protect concerns raised wven when "raised badly", otherwise other priblems will arise from related systems failure.
+
+---
+
+## 🏮 Footer  
+*Real vs Fake Duty of Care* is a living node of the Polaris Protocol.  
+It clarifies how duty-of-care can be either a genuine legal safeguard or a mask for institutional sadism.  
+
+> 📡 Cross-references:  
+> - [🧪 Ego Insurance But Make It Personal](./🧪_ego_insurance_but_make_it_personal.md)  
+> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/)  
+> - [Metadata Sabotage Network](../Disruption_Kit/Metadata_Sabotage_Network/)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-21_  
