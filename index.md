@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 19:11:46 UTC_
+_Generated on 2025-09-21 19:20:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -764,6 +764,7 @@ _Generated on 2025-09-21 19:11:46 UTC_
     - [`🛰️_us_early_consolidation_media_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_us_early_consolidation_media_2025-09-20.md)
     - [`🛰️_user_takedowns_throttling_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_user_takedowns_throttling_2025-09-20.md)
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🙄_stop_changing_gits_field_note.md)
+    - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [`🧠_hybrid_motive_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hybrid_motive_hypothesis.md)
     - [`🧨_crisis_actor_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧨_crisis_actor_dynamics.md)
     - [`🧨_imagined_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🧨_imagined_duty_of_care.md)
