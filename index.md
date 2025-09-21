@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 15:34:15 UTC_
+_Generated on 2025-09-21 15:39:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -783,6 +783,7 @@ _Generated on 2025-09-21 15:34:15 UTC_
     - [`🪪_codename_patronymics.md`](Polaris_Nest/Git_Intake_Drawer/🪪_codename_patronymics.md)
     - [`🪬_appeasement_economics.md`](Polaris_Nest/Git_Intake_Drawer/🪬_appeasement_economics.md)
     - [`🪬_authoritarianism_beyond_left_right.md`](Polaris_Nest/Git_Intake_Drawer/🪬_authoritarianism_beyond_left_right.md)
+    - [`🪻_why_them.md`](Polaris_Nest/Git_Intake_Drawer/🪻_why_them.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
