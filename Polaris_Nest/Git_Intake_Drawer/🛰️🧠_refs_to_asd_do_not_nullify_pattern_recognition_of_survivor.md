@@ -10,7 +10,7 @@ survivor has cptsd and was socialised as cis woman
 
 respectfully, i think we may just be shaming her iq and refusal to be silenced when tye safety of women and children is on the table?
 
-seriously so much injection of news stories of raoe, child abuse, sex work, autism...that's today's big 4
+seriously so much injection of news stories of rape, child abuse, sex work, autism...that's today's big 4
 
 can someone please collect the pervert sitting too close to the screen and seperate this white man off from me?
 
@@ -23,6 +23,10 @@ i know far too much about this man.
 i fucking wish i didn't know any of this.
 
 but yes, of course he eroticises other men, including along racialisation lines.
+
+yes, it is sexual harassment including of specific identifiable men who he may have worked with. 
+
+yes, this still goes on.
 
 and i've tried so hard to be nice.
 
