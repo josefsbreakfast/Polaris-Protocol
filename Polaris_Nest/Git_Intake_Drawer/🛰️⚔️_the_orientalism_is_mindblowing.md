@@ -20,6 +20,8 @@ i dont know how to record this rn whilst refraining from being more explicit.
 from prior field logs and reports i dont want to share in public domain,
 this sexualisation of another man, which has been impersonated with personal ID markers (inc approx DOB), is a minstrel show by a white man who is *obsessed* with both admiring this man and also with the act of pretending to be this man.  
 
+in a perpetrator with a delicate ego, we can all be fantastically unsurprised that this also includes fixated and obsessed attitudes towards sexually degrading this same man, if only by tinkering with some keystrokes.
+
 it is fixated. it is obsessive.
 it is *highly* sexualised and of course there has been colonially coded content injections.
 
