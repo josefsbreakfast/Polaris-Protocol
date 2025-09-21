@@ -6,7 +6,7 @@ i thought the intensity of living under a white man's jewess tropes was bad
 
 (dw he knows the ihra so im sure it sounds just great in public...)
 
-you dont get stared t by him in private 🤷‍♀️
+(you dont get stared at by him in private 🤷‍♀️)
 
 i dont know how to record this rn whilst refraining from being more explicit.
 
