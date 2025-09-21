@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 11:19:53 UTC_
+_Generated on 2025-09-21 11:33:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -605,6 +605,8 @@ _Generated on 2025-09-21 11:19:53 UTC_
     - [`layer_dominance_containment_posture.png`](Polaris_Nest/Git_Intake_Drawer/layer_dominance_containment_posture.png)
     - [`legal-risk.md`](Polaris_Nest/Git_Intake_Drawer/legal-risk.md)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
+    - [`master_council_overlay.csv`](Polaris_Nest/Git_Intake_Drawer/master_council_overlay.csv)
+    - [`master_council_overlay.md`](Polaris_Nest/Git_Intake_Drawer/master_council_overlay.md)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
     - [`metadata_shame_overlay.png`](Polaris_Nest/Git_Intake_Drawer/metadata_shame_overlay.png)
     - [`metadata_twinning_divergence_convergence_amplification.png`](Polaris_Nest/Git_Intake_Drawer/metadata_twinning_divergence_convergence_amplification.png)
