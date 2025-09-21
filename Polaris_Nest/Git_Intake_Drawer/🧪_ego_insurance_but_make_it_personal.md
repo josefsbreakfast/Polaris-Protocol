@@ -251,27 +251,27 @@ flowchart TD
 *In conclusion: men cannot be left alone for five minutes without at least one family heirloom being broken in the process. 24/7 supervision may be required if left in groups of 2 or more; G-d knows what they'll get up to.*
 
 Pro tip: probably don't bet on anything involving case data, but also: learn to take a loss like a man.
-"If you can make one heap of all your winnings
-    And risk it on one turn of pitch-and-toss,
-And lose, and start again at your beginnings
-    And never breathe a word about your loss;
-If you can force your heart and nerve and sinew
-    To serve your turn long after they are gone,   
-And so hold on when there is nothing in you
-    Except the Will which says to them: ‘Hold on!’
 
-If you can talk with crowds and keep your virtue,   
-    Or walk with Kings—nor lose the common touch,
-If neither foes nor loving friends can hurt you,
-    If all men count with you, but none too much;
-If you can fill the unforgiving minute
-    With sixty seconds’ worth of distance run,   
-Yours is the Earth and everything that’s in it,   
-    And—which is more—you’ll be a Man, my son!" 
+>If you can make one heap of all your winnings
+>And risk it on one turn of pitch-and-toss,
+>And lose, and start again at your beginnings
+>And never breathe a word about your loss;
+>If you can force your heart and nerve and sinew
+>To serve your turn long after they are gone,   
+ >And so hold on when there is nothing in you
+>Except the Will which says to them: ‘Hold on!’
+>If you can talk with crowds and keep your virtue,   
+>Or walk with Kings—nor lose the common touch,
+>If neither foes nor loving friends can hurt you,
+>If all men count with you, but none too much;
+>If you can fill the unforgiving minute
+>With sixty seconds’ worth of distance run,   
+>Yours is the Earth and everything that’s in it,   
+>And—which is more—you’ll be a Man, my son!" 
 
-<!--- I don't really care if I'm barking up the wrong tree on what was simply an "escape route" nudge or a "vetting process audit of surveillance" turned into a witchunt. I am beyond done with the perverts stalking me under the premise of protecting Britannia from women who can say, "rape is really shit, actually", to a man's face. And all the other inconveniences: "racism is bad, actually", "homophobia is bad, actually", "transphobia is bad, avtually", "disabled people are full humans".
+<!---I don't really care if I'm barking up the wrong tree on what was simply an "escape route" nudge or a "vetting process audit of surveillance" turned into a witchunt. I am beyond done with the perverts stalking me under the premise of protecting Britannia from women who can say, "rape is really shit, actually", to a man's face. And all the other inconveniences: "racism is bad, actually", "homophobia is bad, actually", "transphobia is bad, avtually", "disabled people are full humans".
 
-You know...all that crazy "people are of equal value, inherently", shit. --->
+You know...all that crazy "people are of equal value, inherently", shit.--->
 
 ---
 
