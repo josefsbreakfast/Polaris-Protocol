@@ -54,7 +54,7 @@ Commercial actors and R&D pools appear to have had access. This is the opposite 
 Custodianship is blurred or absent. There is no visible accountability chain or demonstration of responsibility.  
 
 6. **Follow the law**  
-Potential breaches are evident: unlawful extraction, commercial misuse, violations of the Children Act (given data held since before adulthood), and breaches of human rights standards such as the Nuremberg Code.  
+Potential breaches are evident: unlawful extraction, commercial misuse, violations of the Children Act (given data held since before adulthood), and breaches of human rights standards.  
 
 7. **Sharing can also be a duty**  
 Information useful to the subject is “lost on referral,” while information that harms is circulated. Sharing has become a weapon.  
@@ -68,9 +68,22 @@ Together, these violations show that **every single Caldicott principle has fail
 
 ## 🧯 On “looking too much” — victim-blaming vs deliberate data breaches
 
-The idea that someone can be punished for “looking too much” is itself victim-blaming. It reframes systemic failure as personal fault.  
+The idea that someone can be punished for “looking too much” is victim-blaming. It reframes systemic failure as personal fault.  
 
 Given spoofing, overlays, and impersonations that mimic harassment, it is highly plausible that allegations are not organic at all but engineered through deliberate **data breaches and synthetic impersonation**. In that case, the “allegations” are not interpersonal truth — they are themselves the evidence of systemic abuse.  
+
+---
+
+## ♀️ Patriarchy, Sexualisation, and the Politics of Interpretation
+
+There is a gendered logic to how women’s behaviour is read and weaponised. Too often, systems interpret women’s speech, affect, or survival strategies through a lens that converts complexity into sexualisation — and then uses that sexualisation as grounds for moral or bureaucratic sanction.
+
+Examples of this dynamic:  
+- When women who have been groomed are then described as “hypersexual,” the discourse shifts blame from the groomers and the custodians who allowed breaching to the woman herself.  
+- Sex work, survival sex, or expressions of intimacy are misread as pathology rather than responses to coercion, poverty, or systemic failure.  
+- Repetition of patriarchal tropes — “her behaviour caused it” — obscures the institutional practices (data extraction, impersonation, record weaponisation) that actually produce harm.
+
+This is not rhetorical decoration. Naming patriarchy matters because it reframes accountability: the problem is not the woman’s behaviour but the men, institutions, and data systems that produce, exploit, and monetise those traces. Resist attempts to collapse context into shorthand moral judgments.
 
 ---
 
