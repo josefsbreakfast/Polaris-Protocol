@@ -208,6 +208,47 @@ To prevent petty vendettas from hijacking adolescent coping into indefinite surv
 
 ---
 
+## 🔄 Complicity Feedback Loop  
+
+```mermaid
+flowchart TD
+    A["Stupid pretext<br/>(ranking, photos, banter)"] --> B["Vendetta / punishment cycle"]
+    B --> C["Men who could intervene"]
+    C --> D["Fear of exposure<br/>(own harassment comments)"]
+    D --> E["Silence / complicity"]
+    E --> B
+```
+
+---
+
+## 🎲 Rigged Bet Outcomes → Vendetta Cycle  
+
+```mermaid
+flowchart TD
+    A["Shitty behaviour / inappropriate case kept open"] --> B{"Challenge format?"}
+
+    B -->|Plain objection| C["'Close it now'"]
+    C --> D["Seen as weak / disloyal / 'PC'"]
+    D --> E["Social suicide (career risk, frozen out)"]
+
+    B -->|Bet format| F["'No, I can get them closed'"]
+
+    F --> G{"Bet result"}
+
+    G -->|Lose bet| H["Case stays open\n(you're reckless, they were 'right')"]
+    G -->|Win bet| I["In theory: case should close"]
+
+    I --> J{"Original case-keeper sadistic/narcissistic?"}
+    J -->|Yes| K["Vendetta launched:\nsubject punished, rival smeared"]
+    J -->|No| L["Case closure (rare)"]
+
+    H --> K
+    K --> M["10+ years of vendetta & unnecessary punishment"]
+```
+
+---
+
+*In conclusion: men cannot be left alone for five minutes without at least one family heirloom being broken in the process. 24/7 supervision may be required if left in groups of 2 or more; G-d knows what they'll get up to.*
 <!---Pro tip: probably don't bet on anything involving case data, but also: learn to take a loss like a man.
 "If you can make one heap of all your winnings
     And risk it on one turn of pitch-and-toss,
