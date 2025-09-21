@@ -72,6 +72,8 @@ The idea that someone can be punished for “looking too much” is victim-blami
 
 Given spoofing, overlays, and impersonations that mimic harassment, it is highly plausible that allegations are not organic at all but engineered through deliberate **data breaches and synthetic impersonation**. In that case, the “allegations” are not interpersonal truth — they are themselves the evidence of systemic abuse.  
 
+*I used to spend "too long" in this way on records; all my bedt solutions came from actually looking at what mess I was dealing with. I appreciate the obvious concerns, but given the longform bad impressions, I feel this case may be more to do with "this file doesn't make sense" looking.*
+
 ---
 
 ## ♀️ Patriarchy, Sexualisation, and the Politics of Interpretation
@@ -99,7 +101,9 @@ From lived experience, it is plausible that harassment narratives are engineered
 
 This creates two imperatives:  
 1. **Resist victim-blaming.** “Looking too much” is not a crime; broken custodianship is.  
-2. **Protect whistleblowers.** Anyone who raised a challenge inside may be terrified. They deserve safety, not exposure. Do not name them without consent; instead, demand whistleblower-safe processes, preserve secure logs, and push for independent legal counsel.  
+2. **Protect whistleblowers.** Anyone who raised a challenge inside may be terrified. They deserve safety, not exposure. Do not name them without consent; instead, demand whistleblower-safe processes, preserve secure logs, and push for independent legal counsel.
+
+*I cannot tell you how obvious the charade still is; Hawthorne works better if you don't have the sustsined hypervigilance that cones with them dicking around yet again.*
 
 ---
 
