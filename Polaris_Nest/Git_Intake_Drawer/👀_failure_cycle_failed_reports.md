@@ -34,7 +34,40 @@ flowchart TD
 
 - **Cycle persists nationally.** Newcastle’s changes echo “lessons learned” in Rotherham, Rochdale, Oxford — but similar scandals recur elsewhere (Telford, Oldham, Manchester).  
 - **Improvements exist** (new hubs, units, Ofsted praise), but they **map to the “Cosmetic reforms” stage** in the failure cycle.  
-- **Gaps remain:** long-term prevention, perpetrator profiling, survivor outcomes, and stable funding.  
+- **Gaps remain:** long-term prevention, perpetrator profiling, survivor outcomes, and stable funding.
+
+---
+
+## 📊 Metrics Dashboard (Sketch)
+
+### Referral & Case Data
+- 🔢 **Number of CSE/CCE referrals per year** (children’s services + police)  
+- ⏱ **Average time from referral to assessment / intervention**  
+- ⚖️ **Number of investigations leading to charges / convictions**  
+
+### Victim-Centred Outcomes
+- 🗣 **Feedback from survivors** on whether they felt heard and protected  
+- 🩺 **Access to long-term therapeutic support** (uptake vs. need)  
+- 🏠 **Stability of placements** for children at risk (fewer moves = safer)  
+
+### System & Workforce
+- 👩‍💼 **Staffing ratios** (social workers to caseloads)  
+- 🎓 **Frequency of safeguarding training refreshers** across frontline services  
+- 🔄 **Turnover of safeguarding leads** (continuity vs. churn)  
+
+### Multi-Agency Effectiveness
+- 🤝 **Frequency and quality of information-sharing meetings** (M-SET panels, exploitation hubs)  
+- 📑 **Audit findings** on whether risk flags are escalated properly  
+- 📡 **Cross-agency joint operations** (number/year; outcomes tracked)  
+
+### Sustainability & Resourcing
+- 💷 **Proportion of safeguarding budget ring-fenced** (not dependent on short-term grants)  
+- 📈 **Trend in external inspection ratings** (Ofsted, HMICFRS, CQC where relevant)  
+- 🧭 **Independent oversight presence** (is there consistent external scrutiny?)  
+
+---
+
+*This dashboard is a placeholder structure. Data populates the metrics; absence of data is itself diagnostic, signalling opacity or suppression.*
 
 ---
 
