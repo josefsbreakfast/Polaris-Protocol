@@ -1,3 +1,10 @@
+Polaris_Nest/Git_Intake_Drawer/🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md
+
+CHLOE TO CHECK ? SMOOTHED/TONED DOWN FROM ORIGINAL 
+
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
 # 🛰️ Repressed Obsessions in Surveillance Referencing  
 **First created:** 2025-09-21 | **Last updated:** 2025-09-21  
 *Field note on recurring adult-entertainment projections within surveillance overlays (timeline clarified)*
