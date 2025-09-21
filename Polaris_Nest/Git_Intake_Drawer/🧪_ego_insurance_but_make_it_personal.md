@@ -153,6 +153,57 @@ flowchart TD
 
 ---
 
+## 🏥 Let Healthcare Exist vs. 🎯 Vendetta Logic
+
+```mermaid
+flowchart TD
+    A["Teen trauma history + adolescent gender distress\n(binding, masc clothes)"]
+
+    subgraph Care["🏥 Healthcare Path (what should happen)"]
+        C1["GP / self-referral → gender clinic triage"]
+        C2["Holistic assessment:\ntrauma screen, cPTSD differential,\nbody image, sexuality, safety"]
+        C3["Care plan:\ntrauma-focused therapy, stabilisation,\noptionally gender support as needed"]
+        C4["Periodic review:\nfunctioning improves, risk decreases"]
+        C5["Discharge / step-down:\nclose case; normal life resumes"]
+    end
+
+    subgraph Vendetta["🎯 Vendetta Path (what actually happens)"]
+        V1["Male ego loss over ‘favourite case’"]
+        V2["Instrumentalise adolescent exploration\nas ‘ideology risk’ pretext"]
+        V3["Convert benign updates into taunts\n(digests, file notes, briefings)"]
+        V4["Keep watchlist open\n(‘ongoing susceptibility’ narrative)"]
+        V5["Punish two people for 10+ years:\n• subject: surveillance & harassment\n• rival: reputation smears"]
+    end
+
+    A --> C1 --> C2 --> C3 --> C4 --> C5
+    A --> V1 --> V2 --> V3 --> V4 --> V5
+
+    style Care fill:#eef,stroke:#99f,stroke-width:1px
+    style Vendetta fill:#fee,stroke:#f99,stroke-width:1px
+```
+
+---
+
+---
+
+## 🛡️ Policy Guardrails — Keeping Healthcare the Default  
+
+To prevent petty vendettas from hijacking adolescent coping into indefinite surveillance, institutions must adopt clear **guardrails**:
+
+- **Sunset clauses** — automatic review and closure after 6, 12, 24 months unless new, independent evidence justifies continuation.  
+- **Access minimisation** — only healthcare providers and directly relevant safeguarding staff should see gender/trauma notes; no bleed into intelligence digests.  
+- **Independent audits** — external ethics boards review long-tail cases for signs of vendetta or sadism.  
+- **Case officer rotation** — mandatory reassignment after 6–12 months to prevent obsessive ownership of a “favourite case.”  
+- **Healthcare first principle** — adolescent gender exploration is triaged as healthcare, not security. Default is GP → specialist → trauma-informed assessment.  
+- **Whistleblower-safe reporting** — channels for staff to flag suspected process abuse or vendetta-driven justifications.  
+- **Proof-of-harm standard** — risk designations must cite objective, independent evidence, not subjective interpretations of clothing or binding.  
+
+---
+
+💡 These guardrails turn “let healthcare exist” from a plea into a **structural defence**: adolescent trauma coping remains in the clinical domain, while institutions are blocked from weaponising it as a perpetual punishment.
+
+---
+
 <!---Pro tip: probably don't bet on anything involving case data, but also: learn to take a loss like a man.
 "If you can make one heap of all your winnings
     And risk it on one turn of pitch-and-toss,
