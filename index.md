@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 10:42:59 UTC_
+_Generated on 2025-09-21 10:48:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -698,6 +698,7 @@ _Generated on 2025-09-21 10:42:59 UTC_
     - [`📊_comparison_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/📊_comparison_operation_no_sanctury.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
     - [`📊_scale_of_effects_estimate.md`](Polaris_Nest/Git_Intake_Drawer/📊_scale_of_effects_estimate.md)
+    - [`📑_the_case_of_the_disappearing_cse_reviews.md`](Polaris_Nest/Git_Intake_Drawer/📑_the_case_of_the_disappearing_cse_reviews.md)
     - [`📓_paper_diary_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/📓_paper_diary_sovereignty.md)
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📚_muted_book_investigation.md`](Polaris_Nest/Git_Intake_Drawer/📚_muted_book_investigation.md)
