@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 15:40:49 UTC_
+_Generated on 2025-09-21 15:47:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -725,6 +725,7 @@ _Generated on 2025-09-21 15:40:49 UTC_
     - [`🗒️_field_note_conversation_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_field_note_conversation_drift.md)
     - [`🗝_eccentric_custody_wellcome_collection.md`](Polaris_Nest/Git_Intake_Drawer/🗝_eccentric_custody_wellcome_collection.md)
     - [`🗝_guardianship_as_nonstate_custody.md`](Polaris_Nest/Git_Intake_Drawer/🗝_guardianship_as_nonstate_custody.md)
+    - [`🗝️_illusion_of_caldecott_compliance.md`](Polaris_Nest/Git_Intake_Drawer/🗝️_illusion_of_caldecott_compliance.md)
     - [`🚀_taxonomy_expansion.md`](Polaris_Nest/Git_Intake_Drawer/🚀_taxonomy_expansion.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🛑_ignored_evidence_nudge_2014_2016.md`](Polaris_Nest/Git_Intake_Drawer/🛑_ignored_evidence_nudge_2014_2016.md)
