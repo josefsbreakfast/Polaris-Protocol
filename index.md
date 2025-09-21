@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 10:33:35 UTC_
+_Generated on 2025-09-21 10:42:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -713,6 +713,7 @@ _Generated on 2025-09-21 10:33:35 UTC_
     - [`🔬_lost_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🔬_lost_checks_and_balances.md)
     - [`🔬_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/🔬_operation_no_sanctury.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
+    - [`🗂️_cse_scandals_post-2013.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_cse_scandals_post-2013.md)
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_being_cross_at_gung_ho_nudge.md)
     - [`🗒️_field_note_conversation_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_field_note_conversation_drift.md)
     - [`🗝_eccentric_custody_wellcome_collection.md`](Polaris_Nest/Git_Intake_Drawer/🗝_eccentric_custody_wellcome_collection.md)
