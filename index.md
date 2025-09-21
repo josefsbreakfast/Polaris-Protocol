@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 16:02:00 UTC_
+_Generated on 2025-09-21 16:03:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -745,6 +745,7 @@ _Generated on 2025-09-21 16:02:00 UTC_
     - [`🛰️_hypothetical_nudge_map_for_[redacted].md`](Polaris_Nest/Git_Intake_Drawer/🛰️_hypothetical_nudge_map_for_[redacted].md)
     - [`🛰️_intentionality_assessment_2016_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_intentionality_assessment_2016_cluster.md)
     - [`🛰️_network_instability_forking_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_network_instability_forking_2025-09-16.md)
+    - [`🛰️_not_caldecott_fans.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_not_caldecott_fans.md)
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_patterns_analytic_addendum_update_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_patterns_analytic_addendum_update_2025-09-20.md)
     - [`🛰️_patterns_update_user_observations_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_patterns_update_user_observations_2025-09-20.md)
