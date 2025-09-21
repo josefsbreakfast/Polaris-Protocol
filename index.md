@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 15:22:38 UTC_
+_Generated on 2025-09-21 15:24:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -751,6 +751,7 @@ _Generated on 2025-09-21 15:22:38 UTC_
     - [`🛰️_structural_vulnerabilities_media_harm_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_structural_vulnerabilities_media_harm_2025-09-20.md)
     - [`🛰️_stuck_for_several_minutes.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stuck_for_several_minutes.md)
     - [`🛰️_suppression_gremlins_after_midnight_2025-09-18.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_suppression_gremlins_after_midnight_2025-09-18.md)
+    - [`🛰️_surveillance_forking_2025-09-21.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_surveillance_forking_2025-09-21.md)
     - [`🛰️_theory_of_harm_entrap_protect.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_theory_of_harm_entrap_protect.md)
     - [`🛰️_us_early_consolidation_media_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_us_early_consolidation_media_2025-09-20.md)
     - [`🛰️_user_takedowns_throttling_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_user_takedowns_throttling_2025-09-20.md)
