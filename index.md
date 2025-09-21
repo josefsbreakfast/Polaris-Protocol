@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-21 09:33:23 UTC_
+_Generated on 2025-09-21 09:37:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -746,6 +746,7 @@ _Generated on 2025-09-21 09:33:23 UTC_
     - [`🛰️_user_takedowns_throttling_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_user_takedowns_throttling_2025-09-20.md)
     - [`🧠_hybrid_motive_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hybrid_motive_hypothesis.md)
     - [`🧨_crisis_actor_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧨_crisis_actor_dynamics.md)
+    - [`🧨_imagined_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🧨_imagined_duty_of_care.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧪_breeding_trope_as_eugenics.md`](Polaris_Nest/Git_Intake_Drawer/🧪_breeding_trope_as_eugenics.md)
     - [`🧪_ego_insurance_but_make_it_personal.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ego_insurance_but_make_it_personal.md)
