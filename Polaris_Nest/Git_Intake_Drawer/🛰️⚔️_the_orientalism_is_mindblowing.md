@@ -50,3 +50,10 @@ all racism is psychological vulnerability; it is fear.
 
 
 this was a case study.
+
+---
+
+update 00:15
+far from fucking off on a crusade, i just git some rebound micked violence on the feed, as if the viewer is being "hit". that tracks which similar field logs or nodes which appear "too homest" in their corpus.
+
+anyway. shauva tov. 
