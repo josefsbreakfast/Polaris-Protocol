@@ -1,6 +1,6 @@
 # ❌ Negative Evidence Index  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
-*Tracking the disappearance of CSE improvement reports as evidence in itself*
+**First created:** 2025-09-21 | **Last updated:** 2025-09-22  
+*Tracking the disappearance of CSE improvement reports as evidence in itself*  
 
 ---
 
@@ -12,9 +12,9 @@ The presence or absence of safeguarding review documents is not neutral.
 
 ---
 
-## 🟢 Still Available (council or safeguarding sites)
+## 🟢 Still Available (council or safeguarding sites)  
 - **Rotherham (2014, Jay Report)**  
-  [Jay Report PDF](https://www.rotherham.gov.uk/downloads/file/140/independent-inquiry-into-child-sexual-exploitation-in-rotherham-1997-2013)  
+  [Jay Report PDF — stable /279 copy](https://www.rotherham.gov.uk/downloads/file/279/independent-inquiry-into-child-sexual-exploitation-in-rotherham-1997-2013)  
 - **Bristol (2015, Brooke SCR)**  
   [Brooke SCR PDF](https://bristolsafeguarding.org/media/1571/brooke-serious-case-review.pdf)  
 - **Peterborough (2015, Child C SCR)**  
@@ -38,7 +38,7 @@ The presence or absence of safeguarding review documents is not neutral.
 
 ---
 
-## 🟡 Buried / Archive Only
+## 🟡 Buried / Archive Only  
 - **Keighley (2016, Learning Lessons Review)**  
   Live council link dead, but available via archive:  
   [Wayback Archive](https://web.archive.org/web/20170206023412/https://bradfordscb.org.uk/assets/LLR-Keighley.pdf)  
@@ -51,14 +51,14 @@ The presence or absence of safeguarding review documents is not neutral.
 
 ---
 
-## 🔴 Removed / Not Found
+## 🔴 Removed / Not Found  
 - **Aylesbury (2015, SCR Children A & B)**  
   Original Buckinghamshire LSCB PDF no longer hosted.  
   Backups: fragmentary only — some extracts via [NSPCC repository](https://learning.nspcc.org.uk/case-reviews/child-a-and-b)  
 
 ---
 
-## 🕳️ Interpretation
+## 🕳️ Interpretation  
 - **Green (🟢):** Survives = confidence or ongoing scrutiny.  
 - **Amber (🟡):** Buried = still exists, but only retrievable via archive.  
 - **Red (🔴):** Removed = deliberate disappearance; strongest signal of reputational fragility.  
@@ -70,10 +70,10 @@ The presence or absence of safeguarding review documents is not neutral.
 *Negative Evidence Index* is a living node of the Polaris Protocol.  
 It demonstrates that absence itself is evidence: where councils have erased safeguarding reports, it indicates unease, fragility, and a strategy of forgetting.  
 
-> 📡 Cross-references:  
-> - [📑 Disappearing Reviews](../Big_Picture_Protocols/📑_disappearing_reviews.md)  
-> - [🗂️ CSE Scandals Post-2013](../Big_Picture_Protocols/🗂️_cse_scandals_post-2013.md)  
+> 📡 Backlinks:  
+> - [🏛️ Master Council Overlay Table](../Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md) — consolidated CSE cases and political context  
+> - [🪬 Radicalisation & Extremism](../Big_Picture_Protocols/🪬_radicalisation_extremism.md) — systemic logics of far-right mobilisation around CSE narratives  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_
+_Last updated: 2025-09-22_
