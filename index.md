@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:59:48 UTC_
+_Generated on 2025-09-22 17:05:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -797,7 +797,6 @@ _Generated on 2025-09-22 16:59:48 UTC_
     - [`🪖_russias_incursions_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🪖_russias_incursions_timeline.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
     - [`🪪_codename_patronymics.md`](Polaris_Nest/Git_Intake_Drawer/🪪_codename_patronymics.md)
-    - [`🪻_why_them.md`](Polaris_Nest/Git_Intake_Drawer/🪻_why_them.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
@@ -865,6 +864,7 @@ _Generated on 2025-09-22 16:59:48 UTC_
     - [`🧿_visibility_log_polaris_day_1.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
     - [`🪬_displacement_writing.md`](Polaris_Nest/✨_Letters_to_Stars/🪬_displacement_writing.md)
     - [`🪻_take_me_home.md`](Polaris_Nest/✨_Letters_to_Stars/🪻_take_me_home.md)
+    - [`🪻_why_them.md`](Polaris_Nest/✨_Letters_to_Stars/🪻_why_them.md)
   - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
     - [**⚠_Harm_Logs/**](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/)
       - [**🧹_2025-08-11_sexualisation_sweep/**](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/)
