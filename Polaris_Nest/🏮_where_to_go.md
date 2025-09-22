@@ -1,4 +1,4 @@
-flowchart TD
+```flowchart TD
     A[📂 New file arrives] --> B{Repo level meta or style?}
     B -->|Yes| B1[Place in Admin_Kit e.g. House Style or Branding Usage Guide]
     B -->|No| C{Defines systemic rules or protocol structure?}
@@ -74,3 +74,4 @@ flowchart TD
     N --> X
 
     X[Ensure filename follows House Style + includes required Footer block]
+```
