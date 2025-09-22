@@ -1,7 +1,7 @@
 # 🪻 Why That Person Specifically
 
-**First created:** 2025-09-21 | **Last updated:** 2025-09-22
-A short letter — honest, exhausted, and grateful in the smallest, most fragile way.
+**First created:** 2025-09-21 | **Last updated:** 2025-09-22  
+*A short letter — honest, exhausted, and grateful in the smallest, most fragile way.*
 
 ⸻ 
 
