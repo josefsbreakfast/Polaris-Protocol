@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 00:30:04 UTC_
+_Generated on 2025-09-22 14:57:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -969,4 +969,3 @@ _Generated on 2025-09-22 00:30:04 UTC_
 - [`🛰️_user_takedowns_throttling_2025-09-20.md`](🛰️_user_takedowns_throttling_2025-09-20.md)
 - [`🧾_codename_table_reconstruction.md`](🧾_codename_table_reconstruction.md)
 - [`🪖_russias_incursions_timeline.md`](🪖_russias_incursions_timeline.md)
-- [`🪪_codename_patronymics.md`](🪪_codename_patronymics.md)
