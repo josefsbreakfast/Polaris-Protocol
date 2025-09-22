@@ -57,3 +57,16 @@ It documents how **prefab frames** can overwrite lived evidence with unrelated i
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-09-22_
+
+
+---
+
+## 🔍 Injection‑Like Register (Interpretation Addendum)
+
+- **Register observed:** The fabricated caption uses the rhetorical stance of a live observer ("man at a desk... the glow of a laptop") rather than an attested file description. It reads as if narrating *through* a device (phone or camera feed) rather than *about* an uploaded image.
+- **Functional effect:** Produces a sense of immediate surveillance or voyeurism, which can disorient the evidence reader and shift focus from the photographed subjects to the observer's space and actions.
+- **Implication for provenance analysis:** While no technical evidence in the file indicates external insertion, the register of the text increases the severity of the incident: whether model-generated or human-influenced, the output performed the work of a narrative injection by simulating an observer's feed.
+- **Recommended action:** Flag the entry under Narrative_Interference and Harassment_vs_Surveillance buckets; preserve both the original erroneous caption and this addendum for auditability.
+
+
+_Last updated: 2025-09-22 20:34:24 UTC'
