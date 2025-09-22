@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 15:59:10 UTC_
+_Generated on 2025-09-22 16:02:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -119,6 +119,7 @@ _Generated on 2025-09-22 15:59:10 UTC_
       - [`🎙_congress_radio_and_partition_cinema.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎙_congress_radio_and_partition_cinema.md)
       - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
       - [`🐉_chen_rui_trump_parody.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md)
+      - [`📚_banned_book_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md)
       - [`📚_knowledge_policing_and_banned_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_knowledge_policing_and_banned_books.md)
       - [`📚_muted_volumes_from_the_cemetery_of_forgotten_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_muted_volumes_from_the_cemetery_of_forgotten_books.md)
       - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
@@ -579,7 +580,6 @@ _Generated on 2025-09-22 15:59:10 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`SEC-2025-09.md`](Polaris_Nest/Git_Intake_Drawer/SEC-2025-09.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
-    - [`banned_book_paradox.md`](Polaris_Nest/Git_Intake_Drawer/banned_book_paradox.md)
     - [`battleplan_metadata_twinning_convergence_containment.png`](Polaris_Nest/Git_Intake_Drawer/battleplan_metadata_twinning_convergence_containment.png)
     - [`behavioural_ai_connector_proximity_map.png`](Polaris_Nest/Git_Intake_Drawer/behavioural_ai_connector_proximity_map.png)
     - [`big_tech_bds_soi_triangle.png`](Polaris_Nest/Git_Intake_Drawer/big_tech_bds_soi_triangle.png)
