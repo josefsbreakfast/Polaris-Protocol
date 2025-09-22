@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 14:58:21 UTC_
+_Generated on 2025-09-22 14:58:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -961,7 +961,6 @@ _Generated on 2025-09-22 14:58:21 UTC_
 - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](🛰️_bath_time_division_hypothesis_2025-09-20.md)
 - [`🛰️_codename_table_loss_2025-09-20.md`](🛰️_codename_table_loss_2025-09-20.md)
 - [`🛰️_patterns_analytic_addendum_update_2025-09-20.md`](🛰️_patterns_analytic_addendum_update_2025-09-20.md)
-- [`🛰️_patterns_update_user_observations_2025-09-20.md`](🛰️_patterns_update_user_observations_2025-09-20.md)
 - [`🛰️_stasi_style_email_mirroring_2025-09-20.md`](🛰️_stasi_style_email_mirroring_2025-09-20.md)
 - [`🛰️_us_early_consolidation_media_2025-09-20.md`](🛰️_us_early_consolidation_media_2025-09-20.md)
 - [`🛰️_user_takedowns_throttling_2025-09-20.md`](🛰️_user_takedowns_throttling_2025-09-20.md)
