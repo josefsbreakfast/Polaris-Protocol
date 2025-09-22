@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:10:56 UTC_
+_Generated on 2025-09-22 16:12:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -677,7 +677,6 @@ _Generated on 2025-09-22 16:10:56 UTC_
     - [`⚖️_coercive_control_in_border_policy.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_coercive_control_in_border_policy.md)
     - [`⚖️_compliance_as_opacity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_compliance_as_opacity.md)
     - [`⚖️_encampment_paperwork_comparative.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_encampment_paperwork_comparative.md)
-    - [`⚖️_hooked_authoritarian_hooks_2025-09-21.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_hooked_authoritarian_hooks_2025-09-21.md)
     - [`⚖️_legal_hooks_for_muted_books.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_hooks_for_muted_books.md)
     - [`⚖️_public_inquiry_business_case.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_public_inquiry_business_case.md)
     - [`⚖️_redress_models_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_redress_models_and_limits.md)
@@ -804,6 +803,7 @@ _Generated on 2025-09-22 16:10:56 UTC_
       - [`🧨_those_universities_used_my_bones.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🧨_those_universities_used_my_bones.md)
     - [`SCP-VoiceX.md`](Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md)
     - [`⚖️_cease_desist_2025-08-27.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
+    - [`⚖️_hooked_authoritarian_hooks_long_file.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_hooked_authoritarian_hooks_long_file.md)
     - [`⚖️_judge_frankness_marker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md)
     - [`⚖️_stovewood_civil_containment.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_stovewood_civil_containment.md)
     - [`➰_forever_containment_cohorts_casefile.md`](Polaris_Nest/SCP-VoiceX_Casefiles/➰_forever_containment_cohorts_casefile.md)
