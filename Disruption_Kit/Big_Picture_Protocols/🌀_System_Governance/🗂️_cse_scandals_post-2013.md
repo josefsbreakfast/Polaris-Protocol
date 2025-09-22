@@ -1,5 +1,5 @@
 # 🗂️ CSE Scandals Post-2013 (National Overview)  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
+**First created:** 2025-09-21 | **Last updated:** 2025-09-22  
 *Major child sexual exploitation scandals in England since 2013, with police operations and institutional “improvement” reports.*
 
 ---
@@ -8,7 +8,7 @@
 
 | Town / City | County / Region | Year (public exposure) | Operation Name(s) | Brief Description | Official Reports / PDFs (improvements) |
 |-------------|----------------|------------------------|-------------------|------------------|----------------------------------------|
-| Rotherham | South Yorkshire | 2014 | NCA Operation Stovewood (ongoing) | Alexis Jay Report: ~1,400 children exploited 1997–2013 | [Jay Report 2014 (PDF)](https://www.rotherham.gov.uk/downloads/file/140/independent-inquiry-into-child-sexual-exploitation-in-rotherham-1997-2013) ; [Post-Jay Improvement Plan](https://moderngov.rotherham.gov.uk/documents/s95785/CSE%20Improvement%20Plan.pdf) |
+| Rotherham | South Yorkshire | 2014 | NCA Operation Stovewood (ongoing) | Alexis Jay Report: ~1,400 children exploited 1997–2013 | [Jay Report 2014 (PDF)](https://www.rotherham.gov.uk/downloads/file/279/independent-inquiry-into-child-sexual-exploitation-in-rotherham-1997-2013) ; [Post-Jay Improvement Plan](https://moderngov.rotherham.gov.uk/documents/s95785/CSE%20Improvement%20Plan.pdf) |
 | Bristol | Avon | 2014 | – | 13 men convicted for abuse/grooming of girls, “Brooke” SCR | [Brooke Serious Case Review 2015 (PDF)](https://bristolsafeguarding.org/media/1571/brooke-serious-case-review.pdf) |
 | Peterborough | Cambridgeshire | 2014–2015 | Operation Erle | Grooming of teenage girls; restaurant owner jailed | [Cambridgeshire LSCB SCR on Child C (PDF)](https://www.proceduresonline.com/resources/cambs-scb-scr-child-c.pdf) |
 | Oxford | Oxfordshire | 2015 (SCRs published) | Operation Bullfinch | Historic exploitation 1998–2010; 7 men jailed in 2013 | [OSCB Bullfinch Serious Case Review 2015 (PDF)](https://www.oscb.org.uk/wp-content/uploads/2019/07/OSCB-Bullfinch-SCR-FINAL.pdf) |
@@ -55,4 +55,4 @@ It collates post-Starmer national scandals, their police operations, and improve
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_
+_Last updated: 2025-09-22_
