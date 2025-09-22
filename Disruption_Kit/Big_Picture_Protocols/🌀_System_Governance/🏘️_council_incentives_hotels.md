@@ -1,5 +1,5 @@
 # 🏘️ Council Incentives Hotels  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-16  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-22  
 *How austerity-era cuts and ring-fenced grants shape local authority involvement in asylum accommodation*  
 
 ---
@@ -71,4 +71,4 @@ It documents how austerity-era cuts and ring-fenced grants shape council incenti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-16_
+_Last updated: 2025-09-22_
