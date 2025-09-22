@@ -16,34 +16,40 @@
 ## Mechanisms of Control  
 
 ### 1. Restricted Access  
-- “Closed” archives for decades under Official Secrets or internal rules.  
-- FOI requests denied on grounds of “national security” or “administrative burden.”  
+- Goes beyond “Official Secrets” or national security. Everyday obstacles also ration access:  
+  - **Membership passes, faculty-only privileges, pre-registration for “special collections,” advance notification requirements.**  
+  - Historically some rules made sense (delicate manuscripts, limited staff capacity). But many persist even when **digitisation and technology could make access easier**.  
+  - Institutions defend such barriers as “applied to everyone,” but in practice they **disproportionately exclude those already facing access challenges** — sidestepping obligations under frameworks like the **Equality Act**.  
+- Contrast: **local history custodians or independent archivists** often bend over backwards to welcome researchers, exposing the cultural choice embedded in access rules.  
 
 ### 2. Curated Transparency  
-- Partial releases (redacted files, curated document sets) frame the narrative.  
-- Institutions point to openness while withholding the most sensitive or damaging material.  
+- Partial releases shape the story:  
+  - **UFO hearings in the US**: much was signalled to the public, but content withheld — arguably for security, though leaving fertile ground for speculation.  
+  - **Epstein files**: released with no clear rationale for heavy redactions — producing suspicion of political motive rather than security necessity.  
+  - **Israel’s refusal to release al-Nakba archives**: part of a deliberate national mythos that erases Palestinian presence, a textbook case of **settler-colonial denial**.  
+- Curated transparency lets states claim openness while controlling the frame of disclosure.  
 
 ### 3. Conditional Gatekeeping  
-- Access contingent on **researcher affiliation, funding, or clearance.**  
-- Survivor testimony often excluded unless mediated through academic/government channels.  
+- Access tied to **affiliation, funding, or clearance**: only “recognised” scholars or insiders get through.  
+- Survivor testimony often excluded unless mediated through **academic or official channels**, stripping agency.  
 
 ### 4. Fragile Provenance  
-- Digitisation projects present themselves as opening access, but often **introduce new fragilities**: broken links, missing metadata, selective scanning.  
-- Custodianship shifts from physical control to **platform-level throttling**.  
+- Digitisation projects promise access but introduce **new fragilities**: broken links, missing metadata, selective scanning.  
+- Control shifts from physical locks to **platform-level throttling** (search suppression, paywalls, restricted indexing).  
+
+---
+
+## Illustrative Examples  
+- **UK 30-year rule**: release windows shortened or extended to suit political convenience.  
+- **GDR Stasi files**: made available after reunification, but with heavy personal consequences. Some choose to read their files, discovering family or spouses as informants; others refuse, preferring silence.  
+- **Colonial archives**: many “missing” records destroyed, later justified as accidents.  
 
 ---
 
 ## Why It Matters  
 - The **illusion of stewardship** legitimises official narratives while blocking counter-narratives.  
-- Survivors and communities are told that the archive “will speak in time” — but the delay itself is a form of suppression.  
+- Survivors and communities are told the archive “will speak in time” — but **delay itself is a form of suppression**.  
 - The appearance of neutrality hides the **active role of custodians as political actors** in shaping what counts as history.  
-
----
-
-## Illustrative Examples  
-- The **30-year rule** in the UK, steadily shortened or extended at political convenience.  
-- **Colonial archives** where “missing” records (often destroyed) are justified as accidents or accidents of storage.  
-- **Digital archive platforms** where search results surface only state-friendly material, burying dissenting voices.  
 
 ---
 
