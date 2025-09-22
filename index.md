@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 15:47:52 UTC_
+_Generated on 2025-09-22 15:50:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -294,6 +294,7 @@ _Generated on 2025-09-22 15:47:52 UTC_
     - [`🛰️_mainstream_visibility_anomalies_2025-09-12.md`](Disruption_Kit/Field_Logs/🛰️_mainstream_visibility_anomalies_2025-09-12.md)
     - [`🛰️_microphone_bias_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_microphone_bias_2025-09-20.md)
     - [`🛰️_mind_games_projection_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_mind_games_projection_2025-09-13.md)
+    - [`🛰️_network_instability_app_behaviour_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_network_instability_app_behaviour_2025-09-16.md)
     - [`🛰️_observed_memory_variations_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_observed_memory_variations_2025-09-16.md)
     - [`🛰️_patterns_update_interference_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_patterns_update_interference_2025-09-20.md)
     - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
@@ -571,7 +572,6 @@ _Generated on 2025-09-22 15:47:52 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`CHECKSUMS.sha256`](Polaris_Nest/Git_Intake_Drawer/CHECKSUMS.sha256)
     - [`Exhibit: Sales Suppression vs Viral Spike.png`](Polaris_Nest/Git_Intake_Drawer/Exhibit: Sales Suppression vs Viral Spike.png)
-    - [`FL-2025-09-16-01.md`](Polaris_Nest/Git_Intake_Drawer/FL-2025-09-16-01.md)
     - [`GIT_INTAKE_README.md`](Polaris_Nest/Git_Intake_Drawer/GIT_INTAKE_README.md)
     - [`NOTICE.md`](Polaris_Nest/Git_Intake_Drawer/NOTICE.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
