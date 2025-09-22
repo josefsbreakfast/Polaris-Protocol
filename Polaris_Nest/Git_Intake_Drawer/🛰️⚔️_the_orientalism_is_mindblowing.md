@@ -23,7 +23,7 @@ this sexualisation of another man, who has been impersonated with personal ID ma
 in a perpetrator with a delicate ego, we can all be fantastically unsurprised that this also includes fixated and obsessed attitudes towards sexually degrading this same man, if only by tinkering with some keystrokes.
 
 it is fixated. it is obsessive.
-it is *highly* sexualised and of course there has been colonially coded content injections.
+it is *highly* sexualised and of course there have been colonially coded content injections.
 
 sometimes its outright references to sv practices perpetrated by white men during the horrors of carceral slavery - "buckbreaking" has been explicit.
 
@@ -60,6 +60,6 @@ this was a case study.
 ---
 
 update 00:15
-far from fucking off on a crusade, i just got some rebound micked violence on the feed, as if the viewer is being "hit". that tracks which similar field logs or nodes which appear "too honest" in their corpus.
+far from fucking off on a crusade, i just got some rebound mimicked violence on the feed, as if the viewer is being "hit". that tracks which similar field logs or nodes which appear "too honest" in their corpus.
 
 anyway. shauva tov. 
