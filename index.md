@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 15:35:06 UTC_
+_Generated on 2025-09-22 15:44:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -673,7 +673,7 @@ _Generated on 2025-09-22 15:35:06 UTC_
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
     - [`⚖️_coercive_control_in_border_policy.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_coercive_control_in_border_policy.md)
     - [`⚖️_compliance_as_opacity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_compliance_as_opacity.md)
-    - [`⚖️_containment_contract_trace.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_containment_contract_trace.md)
+    - [`⚖️_containment_contract_trace_hotel_edition.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_containment_contract_trace_hotel_edition.md)
     - [`⚖️_encampment_paperwork_comparative.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_encampment_paperwork_comparative.md)
     - [`⚖️_hooked_authoritarian_hooks_2025-09-21.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_hooked_authoritarian_hooks_2025-09-21.md)
     - [`⚖️_legal_hooks_for_muted_books.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_hooks_for_muted_books.md)
