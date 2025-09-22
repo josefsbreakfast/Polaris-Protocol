@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 14:58:04 UTC_
+_Generated on 2025-09-22 14:58:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -959,7 +959,6 @@ _Generated on 2025-09-22 14:58:04 UTC_
 - [`💸_russian_overlap_patterns.md`](💸_russian_overlap_patterns.md)
 - [`🛰️_ambient_surveillance_delivery_2025-09-20.md`](🛰️_ambient_surveillance_delivery_2025-09-20.md)
 - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](🛰️_bath_time_division_hypothesis_2025-09-20.md)
-- [`🛰️_behavior_first_framing_2025-09-20.md`](🛰️_behavior_first_framing_2025-09-20.md)
 - [`🛰️_codename_table_loss_2025-09-20.md`](🛰️_codename_table_loss_2025-09-20.md)
 - [`🛰️_patterns_analytic_addendum_update_2025-09-20.md`](🛰️_patterns_analytic_addendum_update_2025-09-20.md)
 - [`🛰️_patterns_update_user_observations_2025-09-20.md`](🛰️_patterns_update_user_observations_2025-09-20.md)
