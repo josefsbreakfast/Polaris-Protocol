@@ -18,22 +18,28 @@ i dont know how to record this rn whilst refraining from being more explicit.
 
 
 from prior field logs and reports i dont want to share in public domain,
-this sexualisation of another man, which has been impersonated with personal ID markers (inc approx DOB), is a minstrel show by a white man who is *obsessed* with both admiring this man and also with the act of pretending to be this man.  
+this sexualisation of another man, who has been impersonated with personal ID markers (inc approx DOB), is a minstrel show by a white man who is *obsessed* with both admiring this man and also with the act of pretending to be this man.  
 
 in a perpetrator with a delicate ego, we can all be fantastically unsurprised that this also includes fixated and obsessed attitudes towards sexually degrading this same man, if only by tinkering with some keystrokes.
 
 it is fixated. it is obsessive.
 it is *highly* sexualised and of course there has been colonially coded content injections.
 
-sometimes its outright references ti sv practices perpetrated by white men during the horrors of carceral slavery - "buckbreaking" has been explicit.
+sometimes its outright references to sv practices perpetrated by white men during the horrors of carceral slavery - "buckbreaking" has been explicit.
 
 this is heavily projected; it would be unsurprising to me if unreported sexual harrassment existed here.
+
+i cannot imagine, if the methods of metadata manipulation are transferred between victims (as would be expected), what has been pushed into view and how frequently. 
+
+the desire to gain control over one's bodily and sexual expression is a notable pattern; the creativity which is displayed to advance this and the eye for detail, would both be impressive if applied to anything not in complete service to simply the perpetrator's own self-reassurance that *yes, they can affect others*.
+
+(congratulations; there were easier and more lawful methods.)
 
 it is disturbing to expect to put this projected content onto another victim and expect that i am just quiet and do nothing, whilst the most heinous racist improv is rattled off.
 
 i am not obsessed; a white man is.
 
-and the degree, the deprh, and the longevity of this utter contempt?
+and the degree, the depth, and the longevity of this utter contempt?
 
 it's a real door into the psyche.
 
@@ -54,6 +60,6 @@ this was a case study.
 ---
 
 update 00:15
-far from fucking off on a crusade, i just git some rebound micked violence on the feed, as if the viewer is being "hit". that tracks which similar field logs or nodes which appear "too homest" in their corpus.
+far from fucking off on a crusade, i just got some rebound micked violence on the feed, as if the viewer is being "hit". that tracks which similar field logs or nodes which appear "too honest" in their corpus.
 
 anyway. shauva tov. 
