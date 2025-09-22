@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 15:52:41 UTC_
+_Generated on 2025-09-22 15:55:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -179,6 +179,7 @@ _Generated on 2025-09-22 15:52:41 UTC_
       - [`⚖️_heavy_bundle_cps_vps_centralisation.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md)
       - [`🌀_docility_engine.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
       - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
+      - [`🏗️_2010s_authoritarian_adjacent_build.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🏗️_2010s_authoritarian_adjacent_build.md)
       - [`💀_necro_jargon_cult.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/💀_necro_jargon_cult.md)
       - [`💞_ethics_of_nudging_vs_desire.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)
       - [`📜_ethics_as_language_trap.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/📜_ethics_as_language_trap.md)
@@ -694,7 +695,6 @@ _Generated on 2025-09-22 15:52:41 UTC_
     - [`🎶_hdz_lalgorithme_paroles.md`](Polaris_Nest/Git_Intake_Drawer/🎶_hdz_lalgorithme_paroles.md)
     - [`🎶_lalgorithme_as_containment_song.md`](Polaris_Nest/Git_Intake_Drawer/🎶_lalgorithme_as_containment_song.md)
     - [`🎶_taiz_lalgorithme_album_intake.md`](Polaris_Nest/Git_Intake_Drawer/🎶_taiz_lalgorithme_album_intake.md)
-    - [`🏗️_2010s_authoritarian_adjacent_build.md`](Polaris_Nest/Git_Intake_Drawer/🏗️_2010s_authoritarian_adjacent_build.md)
     - [`🏘️_council_incentives_hotels.md`](Polaris_Nest/Git_Intake_Drawer/🏘️_council_incentives_hotels.md)
     - [`🏛️_policy_exchange_as_neocon_import.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_policy_exchange_as_neocon_import.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
