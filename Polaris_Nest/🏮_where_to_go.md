@@ -17,7 +17,7 @@ Each branch points to an exact folder and subfolder, with scope notes built in.
 ```mermaid
 flowchart TD
   A[📂 New file arrives] --> B{Repo-level meta or style?}
-  B -->|Yes| B1[Polaris_Nest → 🏮 Admin_Kit (House Style, Branding Guide, etc.)]
+  B -->|Yes| B1[Polaris_Nest / 🏮 Admin_Kit — House Style, Branding Guide]
   B -->|No| C{Defines systemic rules / protocol structure?}
 
   %% Big Picture Protocols narrowed routing
