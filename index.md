@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 14:57:26 UTC_
+_Generated on 2025-09-22 14:57:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -967,4 +967,3 @@ _Generated on 2025-09-22 14:57:26 UTC_
 - [`🛰️_structural_vulnerabilities_media_harm_2025-09-20.md`](🛰️_structural_vulnerabilities_media_harm_2025-09-20.md)
 - [`🛰️_us_early_consolidation_media_2025-09-20.md`](🛰️_us_early_consolidation_media_2025-09-20.md)
 - [`🛰️_user_takedowns_throttling_2025-09-20.md`](🛰️_user_takedowns_throttling_2025-09-20.md)
-- [`🧾_codename_table_reconstruction.md`](🧾_codename_table_reconstruction.md)
