@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 20:30:04 UTC_
+_Generated on 2025-09-22 20:31:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -285,13 +285,13 @@ _Generated on 2025-09-22 20:30:04 UTC_
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
-    - [`alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/alt_text_substitution_incident.md)
     - [`hillside_brightness_histogram.png`](Disruption_Kit/Field_Logs/hillside_brightness_histogram.png)
     - [`hillside_patch_grid.png`](Disruption_Kit/Field_Logs/hillside_patch_grid.png)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
+    - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
