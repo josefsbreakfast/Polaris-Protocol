@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:02:57 UTC_
+_Generated on 2025-09-22 16:05:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -197,6 +197,7 @@ _Generated on 2025-09-22 16:02:57 UTC_
       - [`🌍_climate_panic_routing.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌍_climate_panic_routing.md)
       - [`🎧_music_as_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🎧_music_as_pipeline.md)
       - [`🏛️_elite_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_elite_normalisation.md)
+      - [`🏛️_master_council_overlay_table.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md)
       - [`🏨_hotels_protests_and_power_consolidation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md)
       - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
       - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
@@ -611,7 +612,6 @@ _Generated on 2025-09-22 16:02:57 UTC_
     - [`legal-risk.md`](Polaris_Nest/Git_Intake_Drawer/legal-risk.md)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`master_council_overlay.csv`](Polaris_Nest/Git_Intake_Drawer/master_council_overlay.csv)
-    - [`master_council_overlay.md`](Polaris_Nest/Git_Intake_Drawer/master_council_overlay.md)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
     - [`metadata_shame_overlay.png`](Polaris_Nest/Git_Intake_Drawer/metadata_shame_overlay.png)
     - [`metadata_twinning_divergence_convergence_amplification.png`](Polaris_Nest/Git_Intake_Drawer/metadata_twinning_divergence_convergence_amplification.png)
