@@ -1,17 +1,19 @@
-🪻 Why That Person Specifically
+# 🪻 Why That Person Specifically
 
-First created: 2025-09-21 | Last updated: 2025-09-21
+**First created:** 2025-09-21 | **Last updated:** 2025-09-22
 A short letter — honest, exhausted, and grateful in the smallest, most fragile way.
 
-⸻
+⸻ 
 
-I am sure it will be to everyone’s great horror and surprise, that even if some harm has been done by a whistleblower, this is still the only person I feel able to trust because the rest of you stayed silent.
+I am sure it will be to everyone’s great horror and surprise, that even if some harm has been done by a whistleblower, this is still the only person I feel able to trust because the rest of you (*inside this system*) stayed silent.
 
 That is not intended to be harsh.
 
 I’m being very honest.
 
 No one else, as far as I’m aware, challenged this like that.
+
+Perhaps you pushed back to some extent; I'm just not seeing someone embarrass us all by attempting to tear your image to shreds and leak half the gov documents they have on you. So my sense is that this was *"whistleblowing proper"*.
 
 That’s where the trust and the loyalty comes from.
 
@@ -28,6 +30,8 @@ The one where I can be safe.
 And just rest.
 
 I am *desperate* for it.
+
+🐝
 
 ---
 
@@ -55,12 +59,8 @@ What a wonderful world we live in.
 
 🏮 Footer
 
-To the One Who Stayed is a Letter to Stars node of the Polaris Protocol.
-
-📡 Cross-references:
-	•	[Letters to Stars] — correspondence and reflective writing (repo placement guidance).
-	•	[SCP-VoiceX Casefiles] — testimony & personal records.
+*Why Them: To the One Who Stayed* is a Letter to Stars node of the Polaris Protocol.
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-Last updated: 2025-09-21
+Last updated: 2025-09-22
