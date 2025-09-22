@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:29:15 UTC_
+_Generated on 2025-09-22 16:33:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -330,6 +330,7 @@ _Generated on 2025-09-22 16:29:15 UTC_
     - [`🐍_venomous_pattern_mapping.md`](Disruption_Kit/Survivor_Tools/🐍_venomous_pattern_mapping.md)
     - [`👀_phantom_notification_screening.md`](Disruption_Kit/Survivor_Tools/👀_phantom_notification_screening.md)
     - [`👻_ghost_gets_forked_tuning.md`](Disruption_Kit/Survivor_Tools/👻_ghost_gets_forked_tuning.md)
+    - [`💋_toilet_watching_subs.md`](Disruption_Kit/Survivor_Tools/💋_toilet_watching_subs.md)
     - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
     - [`🛰️_metadata_monitor_checklist.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_monitor_checklist.md)
@@ -698,7 +699,6 @@ _Generated on 2025-09-22 16:29:15 UTC_
     - [`🏛️_policy_exchange_as_neocon_import.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_policy_exchange_as_neocon_import.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`👀_failure_cycle_failed_reports.md`](Polaris_Nest/Git_Intake_Drawer/👀_failure_cycle_failed_reports.md)
-    - [`💋_toilet_watching_subs.md`](Polaris_Nest/Git_Intake_Drawer/💋_toilet_watching_subs.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`💰_who_benefits_from_cover_up.md`](Polaris_Nest/Git_Intake_Drawer/💰_who_benefits_from_cover_up.md)
