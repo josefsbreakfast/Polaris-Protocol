@@ -1,5 +1,5 @@
-# 🔄 Failure Cycle vs. Reported Improvements  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
+# 👀 Failure Cycle vs. Reported Improvements  
+**First created:** 2025-09-21 | **Last updated:** 2025-09-22  
 *Diagnostic node mapping the recurring exploitation failure cycle against Newcastle’s reported reforms*
 
 ---
@@ -8,12 +8,12 @@
 
 ```mermaid
 flowchart TD
-    A[🚸 Early warnings from children, families, professionals] --> B[🔇 Minimisation & dismissal<br/>(victim-blaming, "lifestyle choice", "low-level offending")]
-    B --> C[🏛️ Institutional self-protection<br/>(reputation management, fear of racism allegations, resource excuses)]
-    C --> D[💥 Public scandal / media exposé<br/>(police raids, court trials, headlines)]
-    D --> E[📑 Inquiry / Review<br/>(Serious Case Review, Jay Report, Ofsted inspections)]
-    E --> F[🩹 Cosmetic reforms<br/>(policy tweaks, new protocols, "lessons learned")]
-    F --> G[🔄 Relapse<br/>(new town, new scandal, same patterns)]
+    A["🚸 Early warnings from children, families, professionals"] --> B["🔇 Minimisation & dismissal<br/>(victim-blaming, “lifestyle choice”, “low-level offending”)"]
+    B --> C["🏛️ Institutional self-protection<br/>(reputation management, fear of racism allegations, resource excuses)"]
+    C --> D["💥 Public scandal / media exposé<br/>(police raids, court trials, headlines)"]
+    D --> E["📑 Inquiry / Review<br/>(Serious Case Review, Jay Report, Ofsted inspections)"]
+    E --> F["🩹 Cosmetic reforms<br/>(policy tweaks, new protocols, “lessons learned”)"]
+    F --> G["🔄 Relapse<br/>(new town, new scandal, same patterns)"]
     G --> A
 ```
 ---
@@ -83,4 +83,4 @@ It maps how official reports of progress in Newcastle sit within a national patt
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_
+_Last updated: 2025-09-22_
