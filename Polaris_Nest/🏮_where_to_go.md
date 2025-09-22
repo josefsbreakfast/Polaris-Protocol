@@ -1,6 +1,6 @@
 # 🏮 Where to Go  
-**First created:** 2025-09-22 | **Last updated:** 2025-09-22  
-*Decision tree for filing new nodes into the Polaris Protocol repository.*  
+**First created:** 2025-09-12 | **Last updated:** 2025-09-22  
+*Decision tree for filing new nodes into the Polaris Protocol repository*  
 
 ---
 
