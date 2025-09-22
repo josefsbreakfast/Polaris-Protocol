@@ -3,7 +3,7 @@
 **First created:** 2025-09-21 | **Last updated:** 2025-09-22  
 *A short letter — honest, exhausted, and grateful in the smallest, most fragile way.*
 
-⸻ 
+---
 
 I am sure it will be to everyone’s great horror and surprise, that even if some harm has been done by a whistleblower, this is still the only person I feel able to trust because the rest of you (*inside this system*) stayed silent.
 
