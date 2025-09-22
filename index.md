@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 15:44:31 UTC_
+_Generated on 2025-09-22 15:47:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -790,7 +790,6 @@ _Generated on 2025-09-22 15:44:31 UTC_
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
     - [`🧿_intake_drawer_balancing_harms.md`](Polaris_Nest/Git_Intake_Drawer/🧿_intake_drawer_balancing_harms.md)
-    - [`🧿_raycat_bait.md`](Polaris_Nest/Git_Intake_Drawer/🧿_raycat_bait.md)
     - [`🪄_influencer_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🪄_influencer_resilience.md)
     - [`🪖_russias_incursions_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🪖_russias_incursions_timeline.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
@@ -827,6 +826,7 @@ _Generated on 2025-09-22 15:44:31 UTC_
     - [`🧬_voice_capture_through_gaslight.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧬_voice_capture_through_gaslight.md)
     - [`🧾_2005_breach_to_maternal_face_consequences.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧾_2005_breach_to_maternal_face_consequences.md)
     - [`🧾_vps_reclamation.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧾_vps_reclamation.md)
+    - [`🧿_raycat_bait.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧿_raycat_bait.md)
     - [`🪪_2025-08-04_fork_disavowal_log.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🪪_2025-08-04_fork_disavowal_log.md)
   - [**Weekly_Checklists/**](Polaris_Nest/Weekly_Checklists/)
     - [`README.md`](Polaris_Nest/Weekly_Checklists/README.md)
