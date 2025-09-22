@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 14:59:24 UTC_
+_Generated on 2025-09-22 14:59:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -951,7 +951,6 @@ _Generated on 2025-09-22 14:59:24 UTC_
 - [`.gitignore`](.gitignore)
 - [`CHECKSUMS.sha256`](CHECKSUMS.sha256)
 - [`README.md`](README.md)
-- [`🎖️_medal_for_mum.md`](🎖️_medal_for_mum.md)
 - [`🏵️_parents_vindicated.md`](🏵️_parents_vindicated.md)
 - [`💌_for_family_reassurance.md`](💌_for_family_reassurance.md)
 - [`🛰️_ambient_surveillance_delivery_2025-09-20.md`](🛰️_ambient_surveillance_delivery_2025-09-20.md)
