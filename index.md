@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 15:50:19 UTC_
+_Generated on 2025-09-22 15:52:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -183,6 +183,7 @@ _Generated on 2025-09-22 15:50:19 UTC_
       - [`💞_ethics_of_nudging_vs_desire.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)
       - [`📜_ethics_as_language_trap.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/📜_ethics_as_language_trap.md)
       - [`🕸️_safeguarding_obedience_division.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🕸️_safeguarding_obedience_division.md)
+      - [`🛰️_hypothetical_nudge_map_redacted_2025-09-20.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🛰️_hypothetical_nudge_map_redacted_2025-09-20.md)
       - [`🥄_deserving_poor_containment.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🥄_deserving_poor_containment.md)
       - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
       - [`🧠_memory_encoding_endings.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧠_memory_encoding_endings.md)
@@ -746,7 +747,6 @@ _Generated on 2025-09-22 15:50:19 UTC_
     - [`🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)
     - [`🛰️_frankenstack_interaction_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_frankenstack_interaction_2025-09-16.md)
     - [`🛰️_harassment_business_layer_log_2025-09-19.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_harassment_business_layer_log_2025-09-19.md)
-    - [`🛰️_hypothetical_nudge_map_for_[redacted].md`](Polaris_Nest/Git_Intake_Drawer/🛰️_hypothetical_nudge_map_for_[redacted].md)
     - [`🛰️_intentionality_assessment_2016_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_intentionality_assessment_2016_cluster.md)
     - [`🛰️_interference_and_throttling_context_2025-09-22.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_interference_and_throttling_context_2025-09-22.md)
     - [`🛰️_is_everyones_surveillence_still_ongoing.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_is_everyones_surveillence_still_ongoing.md)
