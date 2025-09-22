@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 19:26:32 UTC_
+_Generated on 2025-09-22 19:27:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -93,6 +93,7 @@ _Generated on 2025-09-22 19:26:32 UTC_
       - [`🗝_privatised_record_keeping.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_privatised_record_keeping.md)
       - [`🗝_who_holds_the_tape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_who_holds_the_tape.md)
       - [`🗝️_citizen_right_to_record_safety.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_citizen_right_to_record_safety.md)
+      - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_data_standards_fragmentation.md)
       - [`🗝️_governance_central_data_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_governance_central_data_outsourcing.md)
       - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛂_gated_intake_post_delay_regional_loop.md)
