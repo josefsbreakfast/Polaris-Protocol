@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 18:52:19 UTC_
+_Generated on 2025-09-22 18:56:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -87,6 +87,7 @@ _Generated on 2025-09-22 18:52:19 UTC_
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
       - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🖨️_print_culture_as_precedent.md)
+      - [`🗂️_cse_scandals_post-2013.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗂️_cse_scandals_post-2013.md)
       - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_contingency_erasure.md)
       - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_custodianship_illusion.md)
       - [`🗝_privatised_record_keeping.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_privatised_record_keeping.md)
@@ -727,7 +728,6 @@ _Generated on 2025-09-22 18:52:19 UTC_
     - [`🔬_lost_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🔬_lost_checks_and_balances.md)
     - [`🔬_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/🔬_operation_no_sanctury.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🗂️_cse_scandals_post-2013.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_cse_scandals_post-2013.md)
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_being_cross_at_gung_ho_nudge.md)
     - [`🗒️_field_note_conversation_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_field_note_conversation_drift.md)
     - [`🗝_eccentric_custody_wellcome_collection.md`](Polaris_Nest/Git_Intake_Drawer/🗝_eccentric_custody_wellcome_collection.md)
