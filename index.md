@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:33:23 UTC_
+_Generated on 2025-09-22 16:37:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -38,6 +38,7 @@ _Generated on 2025-09-22 16:33:23 UTC_
       - [`⚖️_small_bureaucrats_catch22.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_small_bureaucrats_catch22.md)
       - [`⚖️_soft_law_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_soft_law_governance.md)
       - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_surveillance_osa_citizen_forking_meganode.md)
+      - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_transparency_floor_node.md)
       - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_uk_constitutional_fault_lines.md)
       - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_wrong_people_in_power.md)
       - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🇬🇧_britain_as_global_butler.md)
@@ -683,7 +684,6 @@ _Generated on 2025-09-22 16:33:23 UTC_
     - [`⚖️_public_inquiry_business_case.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_public_inquiry_business_case.md)
     - [`⚖️_redress_models_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_redress_models_and_limits.md)
     - [`⚖️_registered_professions_impact.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_registered_professions_impact.md)
-    - [`⚖️_transparency_floor.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_transparency_floor.md)
     - [`🌹_MOVINGPLAN.md`](Polaris_Nest/Git_Intake_Drawer/🌹_MOVINGPLAN.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
     - [`🍴_fork_taxonomy_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy_FULL.md)
