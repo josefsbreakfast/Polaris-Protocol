@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:42:34 UTC_
+_Generated on 2025-09-22 16:45:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -127,6 +127,7 @@ _Generated on 2025-09-22 16:42:34 UTC_
       - [`📚_muted_volumes_from_the_cemetery_of_forgotten_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_muted_volumes_from_the_cemetery_of_forgotten_books.md)
       - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
       - [`📱_feed_manipulation_and_containment_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
+      - [`🔥_suppression_and_quasi_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🔥_suppression_and_quasi_suppression.md)
       - [`🕳_narrative_misattribution_and_war_testimony.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🕳_narrative_misattribution_and_war_testimony.md)
       - [`🚀_scarcity_prohibition_rocket_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
@@ -720,7 +721,6 @@ _Generated on 2025-09-22 16:42:34 UTC_
     - [`📺_contractors_vs_media_clusters.md`](Polaris_Nest/Git_Intake_Drawer/📺_contractors_vs_media_clusters.md)
     - [`🔗_event_linkage_false_proof.md`](Polaris_Nest/Git_Intake_Drawer/🔗_event_linkage_false_proof.md)
     - [`🔥_hot_coals_theory_of_insults.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hot_coals_theory_of_insults.md)
-    - [`🔥_suppression_and_quasi_suppression.md`](Polaris_Nest/Git_Intake_Drawer/🔥_suppression_and_quasi_suppression.md)
     - [`🔥_suppression_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_suppression_as_signal.md)
     - [`🔬_lost_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🔬_lost_checks_and_balances.md)
     - [`🔬_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/🔬_operation_no_sanctury.md)
