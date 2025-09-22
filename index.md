@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 18:26:17 UTC_
+_Generated on 2025-09-22 18:28:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -64,6 +64,7 @@ _Generated on 2025-09-22 18:26:17 UTC_
       - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💢_draft_prevent_ihl.md)
       - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💣_energy_rents_and_strongman_panic.md)
       - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💣_energy_rents_timeline.csv)
+      - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💰_who_benefits_from_cover_up.md)
       - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_polaris_costing_estimate.md)
       - [`💷_potential_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_potential_tort_exposure.md)
       - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_dept_clashes.md)
@@ -707,7 +708,6 @@ _Generated on 2025-09-22 18:26:17 UTC_
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
-    - [`💰_who_benefits_from_cover_up.md`](Polaris_Nest/Git_Intake_Drawer/💰_who_benefits_from_cover_up.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
     - [`💸_russian_overlap_patterns.md`](Polaris_Nest/Git_Intake_Drawer/💸_russian_overlap_patterns.md)
     - [`📊_comparison_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/📊_comparison_operation_no_sanctury.md)
