@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 14:58:40 UTC_
+_Generated on 2025-09-22 14:58:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -955,7 +955,6 @@ _Generated on 2025-09-22 14:58:40 UTC_
 - [`🏵️_parents_vindicated.md`](🏵️_parents_vindicated.md)
 - [`💋_toilet_watching_subs.md`](💋_toilet_watching_subs.md)
 - [`💌_for_family_reassurance.md`](💌_for_family_reassurance.md)
-- [`💍_reverse_dowry_logic.md`](💍_reverse_dowry_logic.md)
 - [`💸_russian_overlap_patterns.md`](💸_russian_overlap_patterns.md)
 - [`🛰️_ambient_surveillance_delivery_2025-09-20.md`](🛰️_ambient_surveillance_delivery_2025-09-20.md)
 - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](🛰️_bath_time_division_hypothesis_2025-09-20.md)
