@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:45:55 UTC_
+_Generated on 2025-09-22 16:57:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -776,6 +776,7 @@ _Generated on 2025-09-22 16:45:55 UTC_
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧪_breeding_trope_as_eugenics.md`](Polaris_Nest/Git_Intake_Drawer/🧪_breeding_trope_as_eugenics.md)
     - [`🧪_ego_insurance_but_make_it_personal.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ego_insurance_but_make_it_personal.md)
+    - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧫_black_mould_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧫_black_mould_principle.md)
     - [`🧬_cambridge_analytica_genealogy.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cambridge_analytica_genealogy.md)
     - [`🧬_report_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_report_twinning.md)
