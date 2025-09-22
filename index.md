@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:59:01 UTC_
+_Generated on 2025-09-22 16:59:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -223,6 +223,7 @@ _Generated on 2025-09-22 16:59:01 UTC_
       - [`🧾_rehabilitation_ops.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧾_rehabilitation_ops.md)
       - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
       - [`🪦_memory_erasure_in_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md)
+      - [`🪬_appeasement_economics.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_appeasement_economics.md)
       - [`🪬_authoritarianism_beyond_left_right.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
@@ -796,7 +797,6 @@ _Generated on 2025-09-22 16:59:01 UTC_
     - [`🪖_russias_incursions_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🪖_russias_incursions_timeline.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
     - [`🪪_codename_patronymics.md`](Polaris_Nest/Git_Intake_Drawer/🪪_codename_patronymics.md)
-    - [`🪬_appeasement_economics.md`](Polaris_Nest/Git_Intake_Drawer/🪬_appeasement_economics.md)
     - [`🪻_why_them.md`](Polaris_Nest/Git_Intake_Drawer/🪻_why_them.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
