@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 18:16:38 UTC_
+_Generated on 2025-09-22 18:18:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -82,7 +82,6 @@ _Generated on 2025-09-22 18:16:38 UTC_
       - [`📡_metadata_scrutiny_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📡_metadata_scrutiny_uk.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
-      - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
       - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🖨️_print_culture_as_precedent.md)
       - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_contingency_erasure.md)
       - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_custodianship_illusion.md)
