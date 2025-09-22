@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:08:24 UTC_
+_Generated on 2025-09-22 16:10:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -126,6 +126,7 @@ _Generated on 2025-09-22 16:08:24 UTC_
       - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
       - [`📱_feed_manipulation_and_containment_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
       - [`🕳_narrative_misattribution_and_war_testimony.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🕳_narrative_misattribution_and_war_testimony.md)
+      - [`🚀_scarcity_prohibition_rocket_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/README.md)
       - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🎙️_why_they_collect_audio.md)
@@ -655,7 +656,6 @@ _Generated on 2025-09-22 16:08:24 UTC_
     - [`safeguarding_model_actual_vs_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_actual_vs_potential.png)
     - [`safeguarding_model_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_potential.png)
     - [`scale_of_scapegoating_hashtag.png`](Polaris_Nest/Git_Intake_Drawer/scale_of_scapegoating_hashtag.png)
-    - [`scarcity_prohibition_rocket_fuel.md`](Polaris_Nest/Git_Intake_Drawer/scarcity_prohibition_rocket_fuel.md)
     - [`scraping_spoofing_timeline_2019-2022.png`](Polaris_Nest/Git_Intake_Drawer/scraping_spoofing_timeline_2019-2022.png)
     - [`security-signal.md`](Polaris_Nest/Git_Intake_Drawer/security-signal.md)
     - [`shadow_nda_redacted.pdf`](Polaris_Nest/Git_Intake_Drawer/shadow_nda_redacted.pdf)
