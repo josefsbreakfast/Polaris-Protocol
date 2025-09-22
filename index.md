@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-22 16:12:31 UTC_
+_Generated on 2025-09-22 16:14:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -304,6 +304,7 @@ _Generated on 2025-09-22 16:12:31 UTC_
     - [`🛰️_network_instability_app_behaviour_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_network_instability_app_behaviour_2025-09-16.md)
     - [`🛰️_observed_memory_variations_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_observed_memory_variations_2025-09-16.md)
     - [`🛰️_patterns_update_interference_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_patterns_update_interference_2025-09-20.md)
+    - [`🛰️_precursors_summary_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_precursors_summary_2025-09-19.md)
     - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
     - [`🛰️_reputational_unit_12_saluting_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reputational_unit_12_saluting_2025-08-13.md)
@@ -637,7 +638,6 @@ _Generated on 2025-09-22 16:12:31 UTC_
     - [`polaris_vs_degrees.png`](Polaris_Nest/Git_Intake_Drawer/polaris_vs_degrees.png)
     - [`pp14_22_metrics_timeline.png`](Polaris_Nest/Git_Intake_Drawer/pp14_22_metrics_timeline.png)
     - [`pre_fork_gaza_fork_tree.png`](Polaris_Nest/Git_Intake_Drawer/pre_fork_gaza_fork_tree.png)
-    - [`precursors_summary_2025-09-19.md`](Polaris_Nest/Git_Intake_Drawer/precursors_summary_2025-09-19.md)
     - [`pressure_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/pressure_map_local_redacted.png)
     - [`probe_response_probability_mapping.png`](Polaris_Nest/Git_Intake_Drawer/probe_response_probability_mapping.png)
     - [`protocol_flow_new_insert_handling.png`](Polaris_Nest/Git_Intake_Drawer/protocol_flow_new_insert_handling.png)
