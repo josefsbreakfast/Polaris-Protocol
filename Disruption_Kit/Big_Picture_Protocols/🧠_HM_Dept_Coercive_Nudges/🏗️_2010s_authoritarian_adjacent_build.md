@@ -1,6 +1,6 @@
 # 🏗️ 2010s Authoritarian-Adjacent Build  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
-*Traces how, from 2010 onwards, counter-extremism policy (Prevent/Channel) and behavioural insights (nudges) converged into a wider governance architecture. This architecture normalised weak-signal surveillance and behaviour management, creating an authoritarian-adjacent frame for public services.*
+**First created:** 2025-09-20 | **Last updated:** 2025-09-22  
+*Traces how, from 2010 onwards, counter-extremism policy (Prevent/Channel) and behavioural insights (nudges) converged into a wider governance architecture. This architecture normalised weak-signal surveillance and behaviour management, creating an authoritarian-adjacent frame for public services.*  
 
 ---
 
@@ -9,21 +9,21 @@ The 2010s saw two parallel strands reinforced and woven together:
 1. **Counter-extremism escalation** — Prevent refreshed (2011), hardened (2015/2016) into statutory duty, embedding surveillance into everyday professions.  
 2. **Behavioural insights expansion** — Behavioural Insights Team (BIT) scaling across departments (DH, DfT, DfE, HMRC), embedding nudges as low-cost fixes.  
 
-Together, these strands produced a governance style that treated citizens’ minor actions as **policy levers** and **threat markers**. This hybrid system was not outright authoritarian, but **authoritarian-adjacent**: permissive of surveillance and behavioural control, resistant to dissent, and normalised by austerity and counter-terror narratives.
+Together, these strands produced a governance style that treated citizens’ minor actions as **policy levers** and **threat markers**. This hybrid system was not outright authoritarian, but **authoritarian-adjacent**: permissive of surveillance and behavioural control, resistant to dissent, and normalised by austerity and counter-terror narratives.  
 
 ---
 
-## 📍 Departmental Uptake of Nudges  
+## 🏛️ Departmental Uptake of Nudges  
 - **Department of Health (DH):** portion size, alcohol availability, smoking cessation pilots.  
 - **Department for Transport (DfT):** seatbelt, road safety, emissions behaviour campaigns.  
 - **Department for Education (DfE):** attendance, study habits, safeguarding overlaps.  
 - **HMRC / Cabinet Office:** tax compliance nudges, form design, reminder letters.  
 
-BIT spun out in 2014, but continued to operate as a public–private consultancy, further embedding nudging into policy delivery.
+BIT spun out in 2014, but continued to operate as a public–private consultancy, further embedding nudging into policy delivery.  
 
 ---
 
-## 📍 Prevent Hardening (2010–2016)  
+## 🚨 Prevent Hardening (2010–2016)  
 - **2010/2011:** Prevent review; strategy reframed around counter-radicalisation.  
 - **2012–2014:** Channel panels expanded; local authorities and NHS began operationalising duties.  
 - **2014–2015:** Syria/ISIS cases heightened threat perception.  
@@ -32,7 +32,7 @@ BIT spun out in 2014, but continued to operate as a public–private consultancy
 
 ---
 
-## 📍 Shared Logics Across Strands  
+## 🔄 Shared Logics Across Strands  
 - **Weak signals as action triggers**  
   - Prevent: comments, behaviours, associations = radicalisation risk.  
   - Nudges: subtle design tweaks = population behaviour shifts.  
@@ -47,7 +47,7 @@ BIT spun out in 2014, but continued to operate as a public–private consultancy
 
 ---
 
-## 📍 Structural Effect — Authoritarian Adjacency  
+## 🧩 Structural Effect — Authoritarian Adjacency  
 - Not a dictatorship, but a **permissive environment for authoritarian practices**.  
 - Surveillance justified through safeguarding and counter-terror framing.  
 - Behavioural steering justified through efficiency and public health.  
@@ -56,7 +56,7 @@ BIT spun out in 2014, but continued to operate as a public–private consultancy
 
 ---
 
-## 📍 Implications for Polaris Mapping  
+## 🧭 Implications for Polaris Mapping  
 - **Explains 2016 clusters:** data-twinning and weak provenance exploitation fit inside this wider architecture.  
 - **Raises oversight questions:** who flagged ethical risks, and how dissent was displaced.  
 - **Frames inquiry need:** repairing harm requires acknowledging the architecture, not just individual cases.  
@@ -64,14 +64,15 @@ BIT spun out in 2014, but continued to operate as a public–private consultancy
 ---
 
 ## 🏮 Footer  
+
 *2010s Authoritarian-Adjacent Build* is a Big Picture Protocol node of the Polaris Protocol.  
 It records how counter-extremism and behavioural insights merged into a surveillance/behavioural-control architecture, shaping the evidential fragility observed in 2016 and beyond.  
 
-> 📡 Cross-references:  
+> 📡 Backlinks:  
 > - [⚖️ Public Inquiry Business Case](../Big_Picture_Protocols/⚖️_public_inquiry_business_case.md)  
 > - [🛰️ Intentionality Assessment — 2016 Cluster](../Field_Logs/🛰️_intentionality_assessment_2016_cluster.md)  
 > - [🔬 Lost Checks and Balances](../Big_Picture_Protocols/🔬_lost_checks_and_balances.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-09-22_  
