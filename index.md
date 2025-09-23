@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 17:54:16 UTC_
+_Generated on 2025-09-23 18:22:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -210,6 +210,7 @@ _Generated on 2025-09-23 17:54:16 UTC_
       - [`📊_compliance_league_table_London_cluster_scored_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📊_compliance_league_table_London_cluster_scored_v2.md)
       - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📊_compliance_league_table_scored.md)
       - [`📊_compliance_league_table_scored_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📊_compliance_league_table_scored_v2.md)
+      - [`📜_funding_and_charitable_status_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📜_funding_and_charitable_status_timeline.md)
     - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/)
       - [**data/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/README.md)
