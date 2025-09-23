@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 08:48:51 UTC_
+_Generated on 2025-09-23 08:52:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -75,6 +75,7 @@ _Generated on 2025-09-23 08:48:51 UTC_
       - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💸_repression_cost_capital.md)
       - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💸_russian_overlap_patterns.md)
       - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📁_absence_of_check_in.md)
+      - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
       - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_kpi_vs_okr_in_government.md)
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📑_the_case_of_the_disappearing_reviews.md)
       - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md)
@@ -721,7 +722,6 @@ _Generated on 2025-09-23 08:48:51 UTC_
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
-    - [`📊_comparison_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/📊_comparison_operation_no_sanctury.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
     - [`📊_scale_of_effects_estimate.md`](Polaris_Nest/Git_Intake_Drawer/📊_scale_of_effects_estimate.md)
     - [`📓_paper_diary_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/📓_paper_diary_sovereignty.md)
