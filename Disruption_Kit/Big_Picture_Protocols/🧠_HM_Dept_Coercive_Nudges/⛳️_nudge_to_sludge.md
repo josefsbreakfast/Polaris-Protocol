@@ -55,7 +55,20 @@ The UK pioneered state-backed behavioural insights through the 2010 Cabinet Offi
 - **Proportionality:** nudges should complement, not replace, substantive policy.  
 - **Redress pathways:** complaint and appeal routes must be sludge-free.  
 - **Independent ethics review:** assess interventions for consent, equity, transparency.  
-- **Training:** investigators and HR staff taught to distinguish nudges (benign) from sludge (manipulative).  
+- **Training:** investigators and HR staff taught to distinguish nudges (benign) from sludge (manipulative).
+
+---
+
+## ⚠️ Cautions on Human Response  
+
+Nudges are not universally helpful. They act on cognition and behaviour loops in ways that can backfire.  
+
+- **Individual variation:** some people experience nudges as intrusive and will deliberately resist them.  
+- **Boundary defence:** what may look like an “emotional” reaction (e.g. frustration, binge behaviour) can be a rational reassertion of autonomy when someone feels their boundary has been crossed.  
+- **Consent as calibration:** by seeking informed consent, people can opt out at the start, or withdraw later if nudges become counterproductive.  
+- **Health parity:** nudges influence brain and habit loops; they should be treated like psychoactive medications — requiring explanation, consent, and monitoring.  
+
+Without these cautions, nudges risk producing **reactance** rather than cooperation, especially in sensitive domains like diet, weight, or mental health.  
 
 ---
 
