@@ -26,6 +26,18 @@ The aim is twofold:
 
 ---
 
+## Planned Data Sources  
+
+- **Banned Film Lists** — datasets of censored or restricted cinema releases.  
+- **Suppressed Journal Databases** — tracking academic articles pulled from repositories.  
+- **Library Blacklists** — CSVs of removed books in public or school library systems.  
+- **Algorithmic Shadow Bans** — scraped datasets of posts/videos suppressed via feeds.  
+- **Music Raids Archive** — catalogues of confiscated recordings, pirate radio seizures, or DMCA mass takedowns.  
+
+These are placeholders for future builds — the intention is to expand the Cooperative’s data backbone beyond books to all muted media forms.  
+
+---
+
 ## Frame  
 
 This folder is a **forensic appendix** to the Cooperative.  
