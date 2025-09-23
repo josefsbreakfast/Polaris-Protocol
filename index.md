@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 08:52:30 UTC_
+_Generated on 2025-09-23 08:57:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -137,6 +137,7 @@ _Generated on 2025-09-23 08:52:30 UTC_
       - [`💸_donor_networks_alt_right_media_overlap.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/💸_donor_networks_alt_right_media_overlap.md)
       - [`📚_banned_book_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md)
       - [`📚_knowledge_policing_and_banned_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_knowledge_policing_and_banned_books.md)
+      - [`📚_muted_book_investigation.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_muted_book_investigation.md)
       - [`📚_muted_volumes_from_the_cemetery_of_forgotten_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_muted_volumes_from_the_cemetery_of_forgotten_books.md)
       - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
       - [`📱_feed_manipulation_and_containment_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
@@ -726,7 +727,6 @@ _Generated on 2025-09-23 08:52:30 UTC_
     - [`📊_scale_of_effects_estimate.md`](Polaris_Nest/Git_Intake_Drawer/📊_scale_of_effects_estimate.md)
     - [`📓_paper_diary_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/📓_paper_diary_sovereignty.md)
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
-    - [`📚_muted_book_investigation.md`](Polaris_Nest/Git_Intake_Drawer/📚_muted_book_investigation.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
     - [`📜_teen_poetry_as_pretext.md`](Polaris_Nest/Git_Intake_Drawer/📜_teen_poetry_as_pretext.md)
     - [`📝_field_log_repo_upload_glitch.md`](Polaris_Nest/Git_Intake_Drawer/📝_field_log_repo_upload_glitch.md)
