@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 17:44:11 UTC_
+_Generated on 2025-09-23 17:49:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -204,6 +204,7 @@ _Generated on 2025-09-23 17:44:11 UTC_
       - [`🎓_university_of_york_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_york_compliance_profile_v2.md)
       - [`🎓_uwe_bristol_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_uwe_bristol_compliance_profile.md)
       - [`🎓_york_st_john_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_york_st_john_university_compliance_profile.md)
+      - [`🐦‍🔥_methodology_scoring_league_tables.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🐦‍🔥_methodology_scoring_league_tables.md)
       - [`📊_compliance_league_table_London_cluster_scored.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📊_compliance_league_table_London_cluster_scored.md)
       - [`📊_compliance_league_table_London_cluster_scored_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📊_compliance_league_table_London_cluster_scored_v2.md)
       - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📊_compliance_league_table_scored.md)
