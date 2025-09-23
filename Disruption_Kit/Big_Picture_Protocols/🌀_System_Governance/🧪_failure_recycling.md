@@ -41,9 +41,7 @@ flowchart LR
     C --> D[Stage 4 — Redeployment<br/>Marketed as innovation]
     D --> E[Stage 5 — Harm Recurrence<br/>Compounded survivor costs]
     E -. fuels .-> B
-    classDef hot fill:#ffd6d6,stroke:#000,stroke-width:1px;
-    classDef cool fill:#eef6ff,stroke:#000,stroke-width:1px;
-    class A,E hot; class B,C,D cool;
+    
 ```
 
 ---
@@ -154,10 +152,7 @@ flowchart LR
     G2 -->|mainstream reinsertion| M[Public Uptake<br/>broadcast & institutional echo]
     M -. demand for more myth .-> S1
 
-    classDef fringe fill:#f3e8ff,stroke:#000;
-    classDef mass fill:#e8f7ff,stroke:#000;
-    classDef hub fill:#fff,stroke:#000,stroke-width:2px;
-    class S1,S2,S3 fringe; class G1,G2 mass; class M hub;
+
 ```
 
 *The pipeline is cyclical, not linear: bans trigger migration, migration incubates harder myths, myths are repackaged, repackaging re-legitimises the fringe.*
