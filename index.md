@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 08:02:01 UTC_
+_Generated on 2025-09-23 08:08:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -195,6 +195,7 @@ _Generated on 2025-09-23 08:02:01 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)
       - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
       - [`⚖️_heavy_bundle_cps_vps_centralisation.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md)
+      - [`⛳️_nudge_to_sludge.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/⛳️_nudge_to_sludge.md)
       - [`🌀_docility_engine.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
       - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
       - [`🏗️_2010s_authoritarian_adjacent_build.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🏗️_2010s_authoritarian_adjacent_build.md)
@@ -796,7 +797,6 @@ _Generated on 2025-09-23 08:02:01 UTC_
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
     - [`🧭_esim_proxy_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧭_esim_proxy_risk.md)
-    - [`🧭_nudge_to_sludge.md`](Polaris_Nest/Git_Intake_Drawer/🧭_nudge_to_sludge.md)
     - [`🧰_leave_me_alone_playbook.md`](Polaris_Nest/Git_Intake_Drawer/🧰_leave_me_alone_playbook.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
