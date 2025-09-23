@@ -1,6 +1,6 @@
 # 📦 Containment as Industry  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-16  
-*How border enforcement, asylum backlogs, and detention are turned into revenue streams*  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-23  
+*How border enforcement, asylum backlogs, and detention are turned into revenue streams.*  
 
 ---
 
@@ -62,10 +62,10 @@
 It documents how migration policy has been converted into a revenue stream, with structural incentives to prolong backlog and hardship.  
 
 > 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) — follow the money  
-> - [🏘️ Council Incentives Hotels](./🏘️_council_incentives_hotels.md) — why local authorities host hotels  
-> - [💷 Migration as Liability Shield](../Cluster1/💷_migration_as_liability_shield.md) — how elites deflect costs downward  
+> - See: Containment Contract Trace (System Governance cluster) — follow the money  
+> - See: Council Incentives Hotels (System Governance cluster) — why local authorities host hotels  
+> - See: Migration as Liability Shield (Big Picture Protocols cluster) — how elites deflect costs downward  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-16_
+_Last updated: 2025-09-23_  
