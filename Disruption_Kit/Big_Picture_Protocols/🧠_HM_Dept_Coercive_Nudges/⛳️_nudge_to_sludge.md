@@ -1,6 +1,6 @@
-# 🧭 Nudge Origin → Sludge Node — Lifecycle of Behavioural Insights in UK Policy  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
-*Documents the rise of behavioural insights (“nudge”) in UK governance, the risks of “sludge” when nudges turn manipulative, and the safeguards needed to protect democratic accountability.*
+# ⛳️ Nudge to Sludge — The Lifecycle of Behavioural Insights in UK Policy  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-23  
+*Documents the rise of behavioural insights (“nudge”) in UK governance, the risks of “sludge” when nudges turn manipulative, and the safeguards needed to protect democratic accountability.*  
 
 ---
 
@@ -64,15 +64,30 @@ The lifecycle from **Nudge → Sludge** is not inevitable but highly likely with
 
 ---
 
+## ▶️ Lifecycle Flowchart  
+
+```mermaid
+flowchart TD
+    A[Nudge:\nLight-touch behavioural design] --> B[Drift:\nExpansion & overreach]
+    B --> C[Sludge:\nManipulation & friction]
+    C --> D[Impact:\nDemocratic trust eroded,\npolicy distortion]
+    D --> E[Safeguards:\nTransparency, audits,\nredress, ethics review]
+    E --> A[Return to Nudge:\nRebalanced & accountable use]
+
+```
+
+---
+
 ## 🏮 Footer  
-*Nudge Origin → Sludge Node* is a living node of the Polaris Protocol.  
+
+*Nudge to Sludge* is a living node of the Polaris Protocol.  
 It records the historical arc of the UK’s Behavioural Insights infrastructure and the risks of over-reliance, highlighting safeguards required to protect democracy.  
 
 > 📡 Cross-references:  
-> - [⚖️ Transparency Floor Node](../Big_Picture_Protocols/⚖️_transparency_floor.md)  
-> - [⚖️ Registered Professions Impact Node](../Big_Picture_Protocols/⚖️_registered_professions_impact.md)  
-> - [🗒️ Field Note — Conversation Drift](../Field_Logs/🗒️_field_note_conversation_drift.md)  
+> - See: Transparency Floor Node (System Governance cluster)  
+> - See: Registered Professions Impact Node (System Governance cluster)  
+> - See: Field Note — Conversation Drift (Field Logs cluster)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-09-23_  
