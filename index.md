@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 07:40:16 UTC_
+_Generated on 2025-09-23 07:43:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -302,6 +302,7 @@ _Generated on 2025-09-23 07:40:16 UTC_
     - [`🛰️_ 2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_ 2025-09-19_fieldnote_suppression_signal.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/🛰️_ai_interference_vs_baseline_generation.md)
     - [`🛰️_all_it_took_2025-09-06.md`](Disruption_Kit/Field_Logs/🛰️_all_it_took_2025-09-06.md)
+    - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
     - [`🛰️_arrest_as_surveillance_warrant.md`](Disruption_Kit/Field_Logs/🛰️_arrest_as_surveillance_warrant.md)
     - [`🛰️_commit_interference_fork_anomaly_save_2025-09-09.md`](Disruption_Kit/Field_Logs/🛰️_commit_interference_fork_anomaly_save_2025-09-09.md)
     - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](Disruption_Kit/Field_Logs/🛰️_direct_interference_on_clarity_2025-09-11.md)
@@ -747,7 +748,6 @@ _Generated on 2025-09-23 07:40:16 UTC_
     - [`🛟_harm_reduction_at_borders.md`](Polaris_Nest/Git_Intake_Drawer/🛟_harm_reduction_at_borders.md)
     - [`🛡️_clearance_impact.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_clearance_impact.md)
     - [`🛡️_exploitability_and_defensive_strategy.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_exploitability_and_defensive_strategy.md)
-    - [`🛰️_ambient_surveillance_delivery_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ambient_surveillance_delivery_2025-09-20.md)
     - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_bath_time_division_hypothesis_2025-09-20.md)
     - [`🛰️_behavior_first_framing_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_behavior_first_framing_2025-09-20.md)
     - [`🛰️_codename_table_loss_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_codename_table_loss_2025-09-20.md)
