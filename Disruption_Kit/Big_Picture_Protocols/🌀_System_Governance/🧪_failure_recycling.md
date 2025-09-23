@@ -67,7 +67,7 @@ flowchart TB
     N --> G[Governance Theatre<br/As innnovation, audits, frameworks]
     G --> H[Harm Normalised<br/>Survivors carry the cost]
     H -. feedback .-> N
-    classDef root fill:#222;color:#fff,stroke:#000;
+    classDef root classDef root fill:#222,color:#fff,stroke:#000;
     classDef node fill:#fffbe6,stroke:#000;
     class R root; class P1,P2,N,G,H node;
 ```
