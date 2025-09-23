@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 09:02:19 UTC_
+_Generated on 2025-09-23 09:03:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -122,6 +122,7 @@ _Generated on 2025-09-23 09:02:19 UTC_
       - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)
     - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/)
       - [**data/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/README.md)
         - [`georgetown_authoritarianism_books.csv`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/georgetown_authoritarianism_books.csv)
         - [`parse_usna_removed_books.py`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/parse_usna_removed_books.py)
         - [`usna_removed_books_2025.csv`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/usna_removed_books_2025.csv)
