@@ -1,6 +1,6 @@
 # 📊 Comparative Chart: Operation Sanctuary and Parallel Cases  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
-*Mapping common patterns in institutional responses to group-based exploitation cases in England*
+**First created:** 2025-09-21 | **Last updated:** 2025-09-23  
+*Mapping common patterns in institutional responses to group-based exploitation cases in England*  
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔍 Pattern Highlights
+## 🔍 Pattern Highlights  
 - **Pre-investigation minimisation**: Across cases, early victim reports dismissed as unreliable, “choices,” or “low-level offending.”  
 - **Institutional self-protection**: Fear of reputational damage (Rotherham, Newcastle) or racial tension (Rotherham, Oxford).  
 - **Delayed recognition**: Only after large-scale police operations (Sanctuary, Span, Bullfinch) did cases surface publicly.  
@@ -23,13 +23,13 @@
 
 ## 🏮 Footer  
 
-This chart is a living node of the Polaris Protocol.  
+*Comparative Chart: Operation Sanctuary and Parallel Cases* is a living node of the Polaris Protocol.  
 It traces recurring suppression and denial logics in English safeguarding scandals, showing how institutional silence sustains exploitation until large-scale exposure forces reform.  
 
 > 📡 Cross-references:  
-> - [🚨 Operation Sanctuary](../Big_Picture_Protocols/🚨_operation_sanctuary.md) — Newcastle’s CSE case study  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — mechanisms of systemic failure  
+> - See: Operation Sanctuary (Big Picture Protocols cluster) — Newcastle’s CSE case study  
+> - See: Containment Contract Trace (Big Picture Protocols cluster) — mechanisms of systemic failure  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_
+_Last updated: 2025-09-23_  
