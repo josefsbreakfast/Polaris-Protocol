@@ -48,13 +48,13 @@ flowchart TD
     B -->|Reasonable concern| C[Professional Override Invoked]
     B -->|Likely bias or weak basis| B2[Pause & Reframe:\nSeek data/peer view] --> A
     C --> D{System Response}
-    D -->|Recorded & Actioned| E[Escalation Pathway:\nSafeguarding/Clinical/Governance]
+    D -->|Recorded & Actioned| E[Escalation Pathway:\nSafeguarding / Clinical / Governance]
     D -->|Recorded & Ignored| F[Ghost Trace:\nEvidence of Suppression]
-    D -->|Unrecorded/Blocked| G[Erasure:\nForensic Silence]
+    D -->|Unrecorded / Blocked| G[Erasure:\nForensic Silence]
     E --> H{Outcome}
     H -->|Corroborated| I[Signal Strengthened:\nPractice + Data align]
     H -->|Not Corroborated| J[Harmless False Positive:\nLog & Learn]
-    F --> K[Audit Flag:\nCompare across units (KPI, OKR, Cochrane style review)]
+    F --> K[Audit Flag:\nCompare across units – KPI, OKR, Cochrane-style review]
     G --> K
     I --> L[Feedback Loop:\nRefine prompts & training]
     J --> L
