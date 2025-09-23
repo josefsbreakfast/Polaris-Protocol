@@ -1,6 +1,6 @@
-# 📑 Disappearing Reviews  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
-*On the quiet vanishing of CSE improvement reports from public record*
+# 📑 The Case of the Disappearing Reviews  
+**First created:** 2025-09-21 | **Last updated:** 2025-09-23  
+*On the quiet vanishing of CSE improvement reports from public record*  
 
 ---
 
@@ -11,7 +11,7 @@ After major child sexual exploitation scandals (Rotherham, Rochdale, Newcastle, 
 - **De-indexed** — present in council archives but hidden from search/navigation.  
 - **Dependent on third parties** — often retrievable only via watchdogs, cached PDFs, or academic repositories.  
 
-This is not incidental: it reflects governance priorities.
+This is not incidental: it reflects governance priorities.  
 
 ---
 
@@ -49,13 +49,14 @@ This practice can be read as:
 
 ## 🏮 Footer  
 
-*Disappearing Reviews* is a living node of the Polaris Protocol.  
+*The Case of the Disappearing Reviews* is a living node of the Polaris Protocol.  
 It documents how councils and safeguarding boards allow key CSE improvement reports to vanish, treating them as reputational liabilities rather than durable governance artefacts.  
 
 > 📡 Cross-references:  
-> - [🗂️ CSE Scandals Post-2013](../Big_Picture_Protocols/🗂️_cse_scandals_post-2013.md)  
-> - [🔄 Failure Cycle vs. Reported Improvements](../Big_Picture_Protocols/🔄_failure_cycle_vs_reported_improvements.md)  
+> - See: CSE Scandals Post-2013 (System Governance cluster)  
+> - See: Failure Cycle vs Reported Improvements (System Governance cluster)  
+> - [📚 Forensic Silence](./📚_forensic_silence.md) — parent diagnostic node  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_
+_Last updated: 2025-09-23_  
