@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 18:22:42 UTC_
+_Generated on 2025-09-23 18:23:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -124,6 +124,7 @@ _Generated on 2025-09-23 18:22:42 UTC_
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
       - [`BUCS_league_table_dataentry_template.csv`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/BUCS_league_table_dataentry_template.csv)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/README.md)
+      - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
       - [`🎓_anglia_ruskin_university_cambridge_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_anglia_ruskin_university_cambridge_compliance_profile.md)
       - [`🎓_aston_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_aston_university_compliance_profile.md)
       - [`🎓_birmingham_city_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_birmingham_city_university_compliance_profile.md)
