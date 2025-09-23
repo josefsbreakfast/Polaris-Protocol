@@ -55,7 +55,17 @@ The UK pioneered state-backed behavioural insights through the 2010 Cabinet Offi
 - **Proportionality:** nudges should complement, not replace, substantive policy.  
 - **Redress pathways:** complaint and appeal routes must be sludge-free.  
 - **Independent ethics review:** assess interventions for consent, equity, transparency.  
-- **Training:** investigators and HR staff taught to distinguish nudges (benign) from sludge (manipulative).
+- **Training:** investigators and HR staff taught to distinguish nudges (benign) from sludge (manipulative).  
+
+---
+
+## 🛰️ Safeguard Parameters — Consent & Licensing  
+
+- **Consent parity:** if you would consent someone for medication, you should consent them for nudges of similar behavioural impact.  
+- **Informed choice:** citizens should be told (a) what the nudge does, (b) why it is used, (c) how they can opt out.  
+- **Positive uptake:** many patients would likely opt in, especially for health behaviours, if offered transparently.  
+- **Licensing model:** nudge interventions should be authorised like licensed medicines or regulated financial products — only deployable once tested and registered.  
+- **Audit trail:** every consented nudge should leave a clear record, enabling scrutiny, appeal, and removal if harms emerge.  
 
 ---
 
