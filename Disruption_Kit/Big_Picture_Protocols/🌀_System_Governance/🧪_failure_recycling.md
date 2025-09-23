@@ -60,16 +60,13 @@ Failure recycling here is not inefficiency — it is **the preservation of eugen
 
 ```mermaid
 flowchart TB
-    R[(Eugenics Rootstock)]:::root --> P1[Psych Legacies<br/>Freud/Jung logics in training/outcomes]
+    R[(Eugenics Rootstock)] --> P1[Psych Legacies<br/>Freud/Jung logics in training/outcomes]
     R --> P2[Medical Pseudoscience<br/>Wakefield/MMR afterlife]
     P1 --> N[Mythos Over Fact<br/>Narrative repetition > evidence]
     P2 --> N
-    N --> G[Governance Theatre<br/As innnovation, audits, frameworks]
+    N --> G[Governance Theatre<br/>As innovation, audits, frameworks]
     G --> H[Harm Normalised<br/>Survivors carry the cost]
     H -. feedback .-> N
-    classDef root fill:#222,color:#fff,stroke:#000;
-    classDef node fill:#fffbe6,stroke:#000;
-    class R root; class P1,P2,N,G,H node;
 ```
 
 ---
