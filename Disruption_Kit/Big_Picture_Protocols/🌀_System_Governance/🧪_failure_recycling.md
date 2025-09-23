@@ -36,7 +36,7 @@ This cycle ensures failure is not a warning, but a **fuel source**.
 
 ```mermaid
 flowchart LR
-    A[Stage 1 — Collapse<br/>Model fails in the open] --> B[Stage 2 — Sanitisation<br/>"lessons learned", "isolated issue"]
+    A[Stage 1 — Collapse<br/>Model fails in the open] --> B[Stage 2 — Sanitisation<br/> as lessons learned, isolated issue]
     B --> C[Stage 3 — Reinvention<br/>Cosmetic tweaks, same architecture]
     C --> D[Stage 4 — Redeployment<br/>Marketed as innovation]
     D --> E[Stage 5 — Harm Recurrence<br/>Compounded survivor costs]
@@ -64,7 +64,7 @@ flowchart TB
     R --> P2[Medical Pseudoscience<br/>Wakefield/MMR afterlife]
     P1 --> N[Mythos Over Fact<br/>Narrative repetition > evidence]
     P2 --> N
-    N --> G[Governance Theatre<br/>"Innovation", audits, frameworks]
+    N --> G[Governance Theatre<br/As innnovation, audits, frameworks]
     G --> H[Harm Normalised<br/>Survivors carry the cost]
     H -. feedback .-> N
     classDef root fill:#222;color:#fff,stroke:#000;
