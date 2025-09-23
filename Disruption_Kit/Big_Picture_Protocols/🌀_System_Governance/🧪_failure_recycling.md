@@ -143,11 +143,11 @@ Failure recycling doesn’t appear out of nowhere. It’s manufactured in two li
 flowchart LR
     subgraph Fringe Incubation
       S1[Anonymous Boards<br/>myth-seeding] --> S2[Closed/Alt Platforms<br/>Telegram / self-hosted / federated]
-      S2 --> S3[Weird Lore + "Holy Grail" Hunts<br/>Ahnenerbe-style validation theatre]
+      S2 --> S3[Weird Lore + Holy Grail Hunts<br/>Ahnenerbe-style validation theatre]
     end
 
     subgraph Mass Repackaging
-      G1[Comms/Propaganda Shops<br/>"respectable" voice, stats, charts] --> G2[Policy/Press Theatre<br/>guidelines, audits, briefings]
+      G1[Comms/Propaganda Shops<br/>in respectable voice, stats, charts] --> G2[Policy/Press Theatre<br/>guidelines, audits, briefings]
     end
 
     S3 -->|myth stock| G1
