@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 20:48:20 UTC_
+_Generated on 2025-09-23 22:42:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -259,6 +259,7 @@ _Generated on 2025-09-23 20:48:20 UTC_
     - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
       - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
+      - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
       - [`🗡_narrative_management_and_metadata_storage.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🗡_narrative_management_and_metadata_storage.md)
       - [`🛰️_witness_by_proxy_midlands_2016.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🛰️_witness_by_proxy_midlands_2016.md)
       - [`🟦_teaching_framework_jews_empire_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🟦_teaching_framework_jews_empire_antisemitism.md)
