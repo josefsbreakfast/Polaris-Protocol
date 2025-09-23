@@ -15,6 +15,23 @@ But beneath the branding, it is one of the first capture points in the slide tow
 
 ---
 
+```mermaid
+flowchart TD
+    A[⚖️ Charity Shell<br/>Exempt status light-touch regulation] --> D[📉 Deficits<br/>Universities financially strained]
+    B[💸 Market Logic<br/>9k fees per-head shrinking block grants] --> D
+    C[🏦 Block Grant Collapse<br/>Reduced public subsidy] --> D
+
+    D --> E[🟥 Authoritarian Donors<br/>Oligarchs Gulf states Confucius Institutes]
+    D --> F[⚙️ Exploitative Industries<br/>Fossil fuels Defence Surveillance tech]
+
+    E --> G[🏛️ Legitimacy Capture<br/>Research shaped dissent silenced<br/>citizens trained in obedience]
+    F --> G
+
+    G --> H[⚠️ Democratic Crisis<br/>Looks like glossy brochures<br/>actually authoritarian drift]
+```
+
+---
+
 ## ⚖️ Structural Bias  
 
 - **Charity shell**: Universities = exempt charities. Regulator (OfS) measures financial sustainability, not ethical integrity.  
