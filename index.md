@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 10:08:34 UTC_
+_Generated on 2025-09-23 13:06:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -806,6 +806,7 @@ _Generated on 2025-09-23 10:08:34 UTC_
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
     - [`🧿_intake_drawer_balancing_harms.md`](Polaris_Nest/Git_Intake_Drawer/🧿_intake_drawer_balancing_harms.md)
     - [`🪄_influencer_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🪄_influencer_resilience.md)
+    - [`🪄_the_magical_disappearing_book.md`](Polaris_Nest/Git_Intake_Drawer/🪄_the_magical_disappearing_book.md)
     - [`🪖_russias_incursions_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🪖_russias_incursions_timeline.md)
     - [`🪞_on_human_impulse.md`](Polaris_Nest/Git_Intake_Drawer/🪞_on_human_impulse.md)
     - [`🪪_codename_patronymics.md`](Polaris_Nest/Git_Intake_Drawer/🪪_codename_patronymics.md)
