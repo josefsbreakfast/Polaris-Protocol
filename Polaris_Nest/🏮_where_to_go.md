@@ -1,5 +1,5 @@
 # 🏮 Where to Go  
-**First created:** 2025-09-12 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-12 | **Last updated:** 2025-09-23  
 *Decision tree for filing new nodes into the Polaris Protocol repository*  
 
 ---
@@ -9,6 +9,8 @@
 This document is the **filing compass** for Polaris.  
 Whenever a new file arrives, follow the flowchart below to decide its correct home.  
 Each branch points to an exact folder and subfolder, with scope notes built in.  
+
+**Routing note for banned/muted media:** narrative or case-study nodes go to **🎶 Banned_Broadcasts_Cooperative**; datasets/CSVs/scripts route to **🎶 Banned_Broadcasts_Cooperative/data/**.
 
 ---
 
@@ -31,6 +33,11 @@ flowchart TD
   Cpick -->|UK gov nudge units & coercive applications| C5[🧠 HM_Dept_Coercive_Nudges]
   Cpick -->|Radicalisation pipelines & platform dynamics| C6[🪬 Radicalisation_Extremism]
   Cpick -->|Media / broadcast bans, cultural removals| C7[🎶 Banned_Broadcasts_Cooperative]
+
+  %% BBC split for datasets vs narrative nodes
+  C7 --> C7pick{Dataset / structured analysis?}
+  C7pick -->|Yes| C7a[🎶 BBC → data/]
+  C7pick -->|No| C7b[🎶 BBC main cluster]
 
   %% Survivor Tools
   D -->|Yes| D1[Disruption_Kit → Survivor_Tools]
