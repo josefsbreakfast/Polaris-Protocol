@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 07:29:24 UTC_
+_Generated on 2025-09-23 07:36:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -932,6 +932,7 @@ _Generated on 2025-09-23 07:29:24 UTC_
     - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
   - [**🎞️_Haunted_Artefacts_Catalogue/**](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/)
     - [`README.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/README.md)
+    - [`🌙_sleep_sabotage.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🌙_sleep_sabotage.md)
     - [`🎶_she_knows_loop.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🎶_she_knows_loop.md)
   - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
     - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
