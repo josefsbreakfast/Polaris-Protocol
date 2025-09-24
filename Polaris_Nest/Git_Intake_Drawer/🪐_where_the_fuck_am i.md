@@ -346,3 +346,5 @@ or a similar surveillence group chat on the otger side of the border.
 that wiukd be rather wntertaining.
 
 ---
+
+leaving the land of veuve cliquot; very sad.
