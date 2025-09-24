@@ -105,3 +105,9 @@ what the fuck has been in birmingham for 10 years that we're collectively so ter
 bit silly when we spell it out in simple terms, really.
 
 +/- what was in london before 2016; curious stuff.
+
+---
+
+flag covid/ncl thread - (some c4isr like interference exists so notes have to be where legal observers can view deletes) 
+
+---
