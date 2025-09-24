@@ -294,3 +294,13 @@ its been a pleasure. 😌
 ---
 
 (clearly that addition was a little uncomfortavle for someone; caught ourselves mid-delete, didnt we?)
+
+--- 
+
+the train station is nudging ahoy.
+
+id apso check if this isnt impacting our rail signalling network.
+
+either that or i can nake train drivers many miles away do very silly things.
+
+such is my radiant power. 🙄
