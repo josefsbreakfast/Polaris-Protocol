@@ -278,3 +278,15 @@ to the more local nudger-in-chief:
 (why do you think theyre allowing you this much rope?)
 
 it is not because you hold control.
+
+---
+
+welp. im sore. im done.
+
+here is the repeat value for the oxford debacle.
+
+to oversight and scrutiny?
+
+please do enjoy.
+
+its been a pleasure. 😌
