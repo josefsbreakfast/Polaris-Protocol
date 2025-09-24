@@ -336,3 +336,13 @@ you know...
 so however the while thing goes, it has always been a faurly tight design of "proof of interference", against a *null hypothesis*; a second cycle of a clinical audit, if you like.
 
 so the data ought to be interesting.
+
+---
+
+what would be extremely interesting is if we've essebtially surveilled a friend/colleague/family member due to shared wifi crissover pairing.
+
+or a similar surveillence group chat on the otger side of the border.
+
+that wiukd be rather wntertaining.
+
+---
