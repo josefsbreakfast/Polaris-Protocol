@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-24 21:41:23 UTC_
+_Generated on 2025-09-24 21:44:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -822,6 +822,7 @@ _Generated on 2025-09-24 21:41:23 UTC_
     - [`🎶_taiz_lalgorithme_album_intake.md`](Polaris_Nest/Git_Intake_Drawer/🎶_taiz_lalgorithme_album_intake.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`🐀_so_close_to_catching_the_cable_nibbler.md`](Polaris_Nest/Git_Intake_Drawer/🐀_so_close_to_catching_the_cable_nibbler.md)
+    - [`🐎_sovereignty_in_scale.md`](Polaris_Nest/Git_Intake_Drawer/🐎_sovereignty_in_scale.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`💢_ukraine_russia_genocide_claim_timeline.md`](Polaris_Nest/Git_Intake_Drawer/💢_ukraine_russia_genocide_claim_timeline.md)
