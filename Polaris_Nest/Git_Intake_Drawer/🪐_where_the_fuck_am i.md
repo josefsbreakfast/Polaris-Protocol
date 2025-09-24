@@ -103,3 +103,5 @@ it cant be old achool policing."; newcastle has that shit down.
 what the fuck has been in birmingham for 10 years that we're collectively so terrified of that im not allowed comfortbale shoes.
 
 bit silly when we spell it out in simple terms, really.
+
++/- what was in london before 2016; curious stuff.
