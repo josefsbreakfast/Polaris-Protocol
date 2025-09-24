@@ -246,3 +246,11 @@ idk maybe you guys have a specialist; not my area.
 ---
 
 personally im surprised we havent nudged british transport police out of their office to discuss vagrancy law.
+
+---
+
+there's also an underappreciated point here, which is that someone with access to flashy toys, or with access to people with flashy toys, has been prepared to burn an entire day (and gods knows the degree of resource), apparantly keeping two humans away from particular public points for essentially no net security gain.
+
+meanwhile, we are in the precipice of mutual destruction as nato.
+
+i feel like thete is a fairly obvious reallocation of time sprnt as perhaps a little advisory point.
