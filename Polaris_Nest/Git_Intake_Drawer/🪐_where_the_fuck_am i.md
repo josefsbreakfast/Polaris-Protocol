@@ -254,3 +254,11 @@ there's also an underappreciated point here, which is that someone with access t
 meanwhile, we are in the precipice of mutual destruction as nato.
 
 i feel like thete is a fairly obvious reallocation of time sprnt as perhaps a little advisory point.
+
+---
+
+the idea that we had to use energency counterterrorism resilience technology, to put humans in the way of other humans?
+
+is this all a joke to you?
+
+what possible disaster could have befallen us all?!
