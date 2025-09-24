@@ -398,3 +398,9 @@ what was so bad about that?!
 stop playing with my ohone.
 
 ---
+
+"there are other roads to the soul"
+
+🤷‍♀️
+
+---
