@@ -117,3 +117,19 @@ all a bit jim criw esque if you ask me
 cf HUAC
 
 ---
+
+there are too many strange little differences to record.
+
+(ive just lost my ISP nationwide wifi coverage. point of audit.)
+
+i was always inclined to associate the metal detectira cinstantky going off with my carbon fibre walking aid (perhaps the clips?).
+
+i havent set off a security alarm since i got here.
+
+im wearing more metallic objects than normal.
+
+yup.
+
+---
+
+
