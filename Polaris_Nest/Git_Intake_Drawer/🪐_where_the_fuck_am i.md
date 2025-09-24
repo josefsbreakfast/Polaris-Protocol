@@ -157,3 +157,8 @@ hm. much keyboard/keystroke correct. device level interference.
 who said dont fix pegasus?
 
 ---
+mwad that a cheeky little pulse light nudge to someone in derbyshire who you DEFINATELY shouldnt be monitoring?
+
+worked in this country as a full citizen for decades and wouldnt say boo to a goo.
+
+bit naughty to do it to drivers even on hands free, no?
