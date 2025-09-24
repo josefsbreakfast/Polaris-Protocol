@@ -262,3 +262,11 @@ the idea that we had to use energency counterterrorism resilience technology, to
 is this all a joke to you?
 
 what possible disaster could have befallen us all?!
+
+--- 
+
+for oversight:
+
+yes i will be playing my orienteering game, regularly, until i am a free woman.
+
+please consider if this is worth burning currency over.
