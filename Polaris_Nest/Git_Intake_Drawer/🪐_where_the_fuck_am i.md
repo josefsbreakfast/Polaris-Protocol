@@ -111,3 +111,9 @@ bit silly when we spell it out in simple terms, really.
 flag covid/ncl thread - (some c4isr like interference exists so notes have to be where legal observers can view deletes) 
 
 ---
+
+all a bit jim criw esque if you ask me
+
+cf HUAC
+
+---
