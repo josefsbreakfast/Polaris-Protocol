@@ -362,3 +362,19 @@ artificial network interference suggests "yes". ffs.
 ---
 
 (i didnt even need a witness to "compare notes". extremely talented. 🙄)
+
+---
+
+so many train delays.
+
+was i too chilled? 😎
+
+---
+
+10 years of punishment, post-trafficking, for speaking to a man and enjoying it, does seem a little telling of the hair-trigger emotional vulnerability at the other end.
+
+at least they screen for that cebtrally.
+
+im assuming there was an actual governance or oversight challenge in 2018.
+
+---
