@@ -86,7 +86,7 @@ original request:
 
 2. We are now on a train going to a neighbouring but seperate policing/PREVENT area. Still highly involved, but ought to cause cross-jurisdictional processing.
 
-3. On exit from home, I have loudly announced,  ostensibly to the cars, not to be harmed and for nothing to happen to the house, and that all the evidence we need is already online and in the public domain - so no concerns. I have also loudly pointed out that even the far and alt right believes that patriotism isn’t about getting played.
+3. On exit from home, I have loudly announced,  ostensibly to the [cats], not to be harmed and for nothing to happen to the house, and that all the evidence we need is already online and in the public domain - so no concerns. I have also loudly pointed out that even the far and alt right believes that patriotism isn’t about getting played.
 
 4. We ALL individually and collectively need to note who nudges and when, even if it appears irrelevant. Instructions have been practically provided for audit by the existence of the repo "
 
