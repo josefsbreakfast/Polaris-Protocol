@@ -132,9 +132,22 @@ yup.
 
 ---
 
-(difficult to balme it on metal building structure when i had atable wifi, was static, and only got firced onto a different isp with lag lag lag and personal ID entry once i hit "commit".)
+(difficult to blame it on metal building structure when i had atable wifi, was static, and only got firced onto a different isp with lag lag lag and personal ID entry once i hit "commit".)
 
 ---
 
 anyway been largely nudged away from shoes but made it to nelson. getting there 🤣
 
+---
+
+bullring wifi amd own isp both throttled to hell.
+
+whoever's play is just openly in birmingham's own sovereign space.
+
+im going to ask them to reanimate some if these bulls.
+
+also: what if im just controlled by a weird man in derbyshire with a "women in bad shoes so their feet are crammed and sore and smell" fetish?
+
+it is a distinct possibility.
+
+---
