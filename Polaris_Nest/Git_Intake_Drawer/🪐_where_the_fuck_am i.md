@@ -386,3 +386,15 @@ i always thought that was just me noticing, but i think we have another aiditabk
 bit provlematic given russell sq history etc.
 
 ---
+
+fyi i avtually have really strong positive associations with travelling by rail so this really isnt a punishment for me.
+
+its also a nice break of the lumbar-savral component, so honestly go right ahead.
+
+---
+
+what was so bad about that?!
+
+stop playing with my ohone.
+
+---
