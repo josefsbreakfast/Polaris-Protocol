@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-24 19:13:02 UTC_
+_Generated on 2025-09-24 19:32:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -109,6 +109,7 @@ _Generated on 2025-09-24 19:13:02 UTC_
       - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_surveillance_infrastructure.md)
       - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_vendor_lock_in.md)
       - [`🦈_surveillance_by_misread_and_malice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦈_surveillance_by_misread_and_malice.md)
+      - [`🦕_partition_loop_borders_as_violence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦕_partition_loop_borders_as_violence.md)
       - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)
       - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_didnt_apply_brain_loop.md)
       - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_intuition_as_skill.md)
