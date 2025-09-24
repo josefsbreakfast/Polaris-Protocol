@@ -304,3 +304,35 @@ id apso check if this isnt impacting our rail signalling network.
 either that or i can nake train drivers many miles away do very silly things.
 
 such is my radiant power. 🙄
+
+--- 
+
+the kid playing rush of life was also a little obvious. do try to appreciate it is not the height of subtlety.
+
+we also have several approaches, a delayed train, and apparently a lavk of ability to see what this would very obviously be:
+
+an audit.
+
+please look up what our audit rounds (or just any scientific process), test against.
+
+the assumption has also been that, in the implementation, of how a male sexual predator assumes other men react.
+
+not every man will very obviously chase a woman obviously and clearly postong it on social media.
+
+*because that would be weird, wouldnt it?*
+
+a far more intreging game, if one was engaged at all, would be to perform some miscelkanious errand one wanted to check off anyway.
+
+but its impossible to know; the data is so overlapped and stamped and stapled together, its the case that if one of us searches for things, the other gets adverts.
+
+so there is no real abikuty to prive intent.
+
+if anything, youd want to be crowd controlled out of the way of a woman youre accused of harrassing.
+
+you know...
+
+*if one were normal range in this regard.*
+
+so however the while thing goes, it has always been a faurly tight design of "proof of interference", against a *null hypothesis*; a second cycle of a clinical audit, if you like.
+
+so the data ought to be interesting.
