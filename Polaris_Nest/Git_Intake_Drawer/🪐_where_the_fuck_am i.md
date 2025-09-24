@@ -223,3 +223,8 @@ as it continues to be illegal to sit anywhere for free, i am now being commander
 
 i am kurt cobain with a selfridges bag.
 
+---
+
+its as if the interface whiever is ising is using is a flat map with no reference to the fact sone buildings have floors, or the relevant signage.
+
+defibstely doesnt scream "local knowledge of key city centre scenes".
