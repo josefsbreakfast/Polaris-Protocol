@@ -228,3 +228,17 @@ i am kurt cobain with a selfridges bag.
 its as if the interface whiever is ising is using is a flat map with no reference to the fact sone buildings have floors, or the relevant signage.
 
 defibstely doesnt scream "local knowledge of key city centre scenes".
+
+---
+
+after posting a photo with geolaction to the internets, wifi changes twice and firces vpn disconnect and force onto wifi with no internet.
+
+these wre not the xibsequences of my device settings as chosen by me.
+
+aldo i have made a sofa out of street furniture in a cuty which ckearly has an anti-outside-sleeping approach, which im taking as a win in itself.
+
+it would also be slightly less obvious what was in selfridges if you hadnt stuck half the men whi have a (vaguely?) similar appearance in my way whilst misdirecting.
+
+its sort of obvious what this is at this point, and really this looks a lot like preventing discovery. legally soeaking.
+
+idk maybe you guys have a specialist; not my area.
