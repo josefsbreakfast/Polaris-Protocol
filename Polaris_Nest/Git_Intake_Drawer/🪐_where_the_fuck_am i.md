@@ -412,3 +412,35 @@ spotify nudging just went out of control.
 cf. leonard cohens i prefer it darker.
 
 ---
+
+linkedin has been updated.
+
+older cat is now doing his sudden response to pavlovian conditioning; both of them have been more responsive to what was a very obvious trained chicken-related operant conditioning trick that i didnt teach, and my younger cat although middle aged, is having toilet stress symptoms again.
+
+this has come with 8 days of intense internet throttling.
+
+hence the trip: gives the secret policemen (very super secret) something to do.
+
+gives gchq some panic to audit.
+
+everyone wins.
+
+an order has been altered fir delivery as ive written tgis update.
+
+tiktok led in with carl jung and synchronicity. (ie nagical thinking bias).
+
+this is my life now.
+
+i do not want it to be.
+
+and so i resist this: it is a course of conduct which stretches past harassment.
+
+this is domestic terrorism.
+
+dont even get me started on the demographics of who was nudged for what during crowd control...
+
+its distirbing that aomeine of that mind has been left to play with the shiny toys.
+
+contractors and institutions?
+
+someone has the capability to see where the leak is and lock out this user(s).
