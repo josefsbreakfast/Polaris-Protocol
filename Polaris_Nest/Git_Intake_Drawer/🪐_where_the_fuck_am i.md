@@ -193,4 +193,16 @@ so many management and productivity books here.
 
 its like going ti a world which isnt stuck in the 1970s.
 
+---
 
+whats the deal with you guys, selfridges 4th floor (+++ away from), and meze (++ aeay from)? 🤣🤣🤣
+
+obviously now im fascinated by whatever im being crow controlled away from, which appears to move like a human would.
+
+although this dis include a rather shameful moment were a pistachio bundle of gorgeousness ans i had a moment, doing the most 1950s caricature of a lewd male stare and double take with my jaw ok the ground going past yamas.
+
+(she was beautiful; it was automatic. i even had a lunge going and thats an hse issue for this body.)
+
+im going to sit iutside new street station and look for whatever unfoiled item is loose in brum.
+
+and i found snother bull.
