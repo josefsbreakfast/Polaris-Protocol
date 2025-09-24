@@ -83,3 +83,23 @@ you didnt know my lufe.
 amd yhat wasnt from anyone who kniws ashkenaz hair, so it didnt originate with the acheinu.
 
 see? i could have been a rampant zionist if you'd have just refrained from attempting to leash me.
+
+---
+
+there is so much innane shit i have been nudged away from here.
+
+im blaming all my shoe reoairs issuea squarely on whoevers grand idea this was to begin with.
+
+so mych nhs/derby interference apparantbto acheive this, as patient and staff.
+
+so why?
+
+it cant just be audit if london isnt this bad.
+
+the hq is sitting there.
+
+it cant be old achool policing."; newcastle has that shit down.
+
+what the fuck has been in birmingham for 10 years that we're collectively so terrified of that im not allowed comfortbale shoes.
+
+bit silly when we spell it out in simple terms, really.
