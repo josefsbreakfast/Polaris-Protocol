@@ -348,3 +348,13 @@ that wiukd be rather wntertaining.
 ---
 
 leaving the land of veuve cliquot; very sad.
+
+---
+
+did i talk to the "wrong" person at that conference in 2016? is that all this is about? a bit of sore feelings about "your property" not doing what she's supposed to?
+
+are we aware that i am a full person?
+
+---
+
+artificial network interference suggests "yes". ffs.
