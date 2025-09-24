@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-23 23:00:21 UTC_
+_Generated on 2025-09-24 10:04:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -397,6 +397,7 @@ _Generated on 2025-09-23 23:00:21 UTC_
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
+    - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
     - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
