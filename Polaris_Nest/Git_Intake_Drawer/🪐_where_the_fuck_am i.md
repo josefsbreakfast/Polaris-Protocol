@@ -270,3 +270,11 @@ for oversight:
 yes i will be playing my orienteering game, regularly, until i am a free woman.
 
 please consider if this is worth burning currency over.
+
+---
+
+to the more local nudger-in-chief:
+
+(why do you think theyre allowing you this much rope?)
+
+it is not because you hold control.
