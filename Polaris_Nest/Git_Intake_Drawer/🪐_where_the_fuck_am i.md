@@ -53,3 +53,33 @@ have the emotional rollarcoaster of a decade,
 and turn to go back to enforced solitude.
 
 it is monumentally bizarre.
+
+---
+
+its pretty hard to ignore the flood of memories.
+
+ive been so close to decamping here or at least habing it as a regilar field trip and been nudged away.
+
+something about this place atteacts more interference, nudging, mucroniched "nope" than london or home-home.
+
+something here is terrifying to the surveillence team.
+
+specifically sonething so terrifying that they'll risk an audit slap if they'd preciously been caught.
+
+it's not norm finkelstein in andof himself, dreamboat that the man is, but that day was derailed quite literally beyond anything normal.
+
+what was at the trauma conference 2016 that jumped this from one lvbel to another?
+
+its ouke a litany of "absolutely the fuck not; get her out of there".
+
+i aporeciate they have a thing fir bulls, vut it doesnt seem *that* bad.
+
+we've git a ram and a robin hood; equals our, nu?
+
+and who told the rabbis i wasmt jewish?
+
+you didnt know my lufe.
+
+amd yhat wasnt from anyone who kniws ashkenaz hair, so it didnt originate with the acheinu.
+
+see? i could have been a rampant zionist if you'd have just refrained from attempting to leash me.
