@@ -404,3 +404,11 @@ stop playing with my ohone.
 🤷‍♀️
 
 ---
+
+spotify nudging just went out of control.
+
+"the sims" reference is a bit obvious.
+
+cf. leonard cohens i prefer it darker.
+
+---
