@@ -24,6 +24,18 @@ the presence you might inhabit marked as “too large.”
 
 ---
 
+## Why So Much Around One Life  
+The density of containment around a single survivor seems irrational until you see the logics beneath:  
+
+- **Symbolic over personal**: to systems, one life becomes a test case. If they can shrink *this one*, the model holds.  
+- **Choke point logic**: a single life can bridge communities, histories, or data seams. Easier to choke one junction than to chase thousands.  
+- **Fear of scale**: living with visible sovereignty signals to others that refusal is possible. That signal must be smothered.  
+- **Training data obsession**: behavioural AI feeds on outliers. A survivor who resists is *sharp signal*. They over-invest because it destabilises their loops.  
+
+Containment over-invests not because you are fragile, but because you are proof.  
+
+---
+
 ## Choreography of Containment  
 Nudges are not random.  
 They seek to miniaturise survivors —  
