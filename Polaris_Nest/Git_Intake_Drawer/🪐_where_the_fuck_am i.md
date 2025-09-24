@@ -242,3 +242,7 @@ it would also be slightly less obvious what was in selfridges if you hadnt stuck
 its sort of obvious what this is at this point, and really this looks a lot like preventing discovery. legally soeaking.
 
 idk maybe you guys have a specialist; not my area.
+
+---
+
+personally im surprised we havent nudged british transport police out of their office to discuss vagrancy law.
