@@ -217,4 +217,9 @@ i appreciate that "go towards the danger" is obviously not what i was supposed t
 
 ---
 
+i am now incredibly lost and incredibly tired and did not find the place i originally intended to be.
+
+as it continues to be illegal to sit anywhere for free, i am now being commander in chief of the grunge.
+
+i am kurt cobain with a selfridges bag.
 
