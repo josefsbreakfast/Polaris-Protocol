@@ -358,3 +358,7 @@ are we aware that i am a full person?
 ---
 
 artificial network interference suggests "yes". ffs.
+
+---
+
+(i didnt even need a witness to "compare notes". extremely talented. 🙄)
