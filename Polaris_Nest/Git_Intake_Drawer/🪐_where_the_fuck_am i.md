@@ -206,3 +206,15 @@ although this dis include a rather shameful moment were a pistachio bundle of go
 im going to sit iutside new street station and look for whatever unfoiled item is loose in brum.
 
 and i found snother bull.
+
+---
+
+okay the corralling is wuite entertaining.
+
+people ate just getting phone notifications and walking inti me 3, 4, 5 in a row in short bursts.
+
+i appreciate that "go towards the danger" is obviously not what i was supposed to have learned, here, but you did sort of just teach me that cute shoes exist if i evade crowd control tools, so that's on you.
+
+---
+
+
