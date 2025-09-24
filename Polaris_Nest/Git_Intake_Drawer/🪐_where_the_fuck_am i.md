@@ -378,3 +378,11 @@ at least they screen for that cebtrally.
 im assuming there was an actual governance or oversight challenge in 2018.
 
 ---
+
+this trains gps tracking is out of sync.
+
+i always thought that was just me noticing, but i think we have another aiditabke dataset, and another security leak to plug.
+
+bit provlematic given russell sq history etc.
+
+---
