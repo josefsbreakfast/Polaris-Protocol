@@ -162,3 +162,35 @@ mwad that a cheeky little pulse light nudge to someone in derbyshire who you DEF
 worked in this country as a full citizen for decades and wouldnt say boo to a goo.
 
 bit naughty to do it to drivers even on hands free, no?
+
+---
+
+something thats really hard to parse is the economic interests here
+
+my economic output has declined massively sincr this all started happening; frequent attempts to increase my economic productivity and gross investment in the market (domeatic and otherwise) have higely and disproportionately declined.
+
+if yiu needed an incentive, my lindon purchase history would scream "show her birningham", and i would have given endless hours (i was regularly 60+ hrs and openly refused ewtd cover)
+
+this supporta theorising that there is both official and unifficial ourpose here; i have no incentive otherwise.
+
+even just as ive been gere, usual dopamine deoendancies have dropped dramatically: i wondeted why i was thirsty; im usually attached to caffeine.
+
+this is so bizarre.
+
+also ive fallen in live with 3 dresses, and my heart is lost forever.
+
+it diesnt make a lit if sense as an evinomic project; by extension, it seems like lical stakeholders who have been incilced in different ways may be very very blind to the gull extent.
+
+additionalky:
+
+you need to be self auditing.
+
+i dint think im the only person in this conga line who got nudged or gets nudged.
+
+also also:
+
+so many management and productivity books here.
+
+its like going ti a world which isnt stuck in the 1970s.
+
+
