@@ -132,4 +132,9 @@ yup.
 
 ---
 
+(difficult to balme it on metal building structure when i had atable wifi, was static, and only got firced onto a different isp with lag lag lag and personal ID entry once i hit "commit".)
+
+---
+
+anyway been largely nudged away from shoes but made it to nelson. getting there 🤣
 
