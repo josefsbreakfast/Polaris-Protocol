@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-25 16:12:10 UTC_
+_Generated on 2025-09-25 16:18:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -22,6 +22,7 @@ _Generated on 2025-09-25 16:12:10 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/loop_tickbox_vs_cognitive_load.md)
       - [`loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/loop_triad_tickbox_containment_fatigue_patch_repair.md)
+      - [`⏳_delay_scripts_near_deadlines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⏳_delay_scripts_near_deadlines.md)
       - [`⚖️_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_china_soft_ops_vs_russia_hard_ops.md)
       - [`⚖️_cidt_by_withholding_record_safety.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_cidt_by_withholding_record_safety.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
