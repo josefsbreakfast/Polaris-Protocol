@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-25 11:18:24 UTC_
+_Generated on 2025-09-25 11:22:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -827,6 +827,7 @@ _Generated on 2025-09-25 11:18:24 UTC_
     - [`🐎_sovereignty_in_scale.md`](Polaris_Nest/Git_Intake_Drawer/🐎_sovereignty_in_scale.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
+    - [`💡_i_know_why_youre_all_so_invested_now.md`](Polaris_Nest/Git_Intake_Drawer/💡_i_know_why_youre_all_so_invested_now.md)
     - [`💢_ukraine_russia_genocide_claim_timeline.md`](Polaris_Nest/Git_Intake_Drawer/💢_ukraine_russia_genocide_claim_timeline.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
