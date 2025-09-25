@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-25 15:46:50 UTC_
+_Generated on 2025-09-25 15:49:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -77,6 +77,7 @@ _Generated on 2025-09-25 15:46:50 UTC_
       - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📁_absence_of_check_in.md)
       - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
       - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_kpi_vs_okr_in_government.md)
+      - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📋_tick_box_compliance_as_containment.md)
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📑_the_case_of_the_disappearing_reviews.md)
       - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md)
       - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
