@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 09:45:05 UTC_
+_Generated on 2025-09-26 09:58:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -898,6 +898,7 @@ _Generated on 2025-09-26 09:45:05 UTC_
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🙄_stop_changing_gits_field_note.md)
     - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [`🥸_two_men_one_park.md`](Polaris_Nest/Git_Intake_Drawer/🥸_two_men_one_park.md)
+    - [`🦕_partition_loop_borders_as_violence.md`](Polaris_Nest/Git_Intake_Drawer/🦕_partition_loop_borders_as_violence.md)
     - [`🦤_expectations_remain.md`](Polaris_Nest/Git_Intake_Drawer/🦤_expectations_remain.md)
     - [`🧠_hybrid_motive_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hybrid_motive_hypothesis.md)
     - [`🧨_crisis_actor_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧨_crisis_actor_dynamics.md)
@@ -1089,4 +1090,3 @@ _Generated on 2025-09-26 09:45:05 UTC_
   - [`README.md`](🩻_Weirdness_Screening/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
-- [`🦕_partition_loop_borders_as_violence.md`](🦕_partition_loop_borders_as_violence.md)
