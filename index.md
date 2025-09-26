@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 10:02:39 UTC_
+_Generated on 2025-09-26 10:03:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -592,6 +592,8 @@ _Generated on 2025-09-26 10:02:39 UTC_
       - [`🌀_loop_notes_on_ai_language.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_loop_notes_on_ai_language.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
+      - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
+      - [`🧬_data_correction_notices.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
       - [`🧬_deliberate_data_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_data_twinning.md)
       - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_metadata_twinning.md)
       - [`🧬_metadata_twinning_analysis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_metadata_twinning_analysis.md)
