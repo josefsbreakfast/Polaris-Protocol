@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 20:35:39 UTC_
+_Generated on 2025-09-26 20:36:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -532,7 +532,6 @@ _Generated on 2025-09-26 20:35:39 UTC_
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Data_Risks/**](Metadata_Sabotage_Network/Data_Risks/)
     - [**🧟_Residual_Shadows/**](Metadata_Sabotage_Network/Data_Risks/🧟_Residual_Shadows/)
-      - [`README.md`](Metadata_Sabotage_Network/Data_Risks/🧟_Residual_Shadows/README.md)
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/Data_Risks/🧟_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
@@ -759,6 +758,8 @@ _Generated on 2025-09-26 20:35:39 UTC_
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
   - [**🔥_Data_Risks/**](Metadata_Sabotage_Network/🔥_Data_Risks/)
+    - [**🧟‍♀️_Residual_Shadows/**](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/)
+      - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/README.md)
     - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
