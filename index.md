@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 15:43:24 UTC_
+_Generated on 2025-09-26 15:44:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -363,6 +363,7 @@ _Generated on 2025-09-26 15:43:24 UTC_
       - [`🪬_authoritarianism_beyond_left_right.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
+    - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/📊_scale_of_effects_estimate.md)
     - [`🚀_taxonomy_expansion_roadmap.md`](Disruption_Kit/Big_Picture_Protocols/🚀_taxonomy_expansion_roadmap.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
@@ -860,7 +861,6 @@ _Generated on 2025-09-26 15:43:24 UTC_
     - [`💢_ukraine_russia_genocide_claim_timeline.md`](Polaris_Nest/Git_Intake_Drawer/💢_ukraine_russia_genocide_claim_timeline.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
-    - [`📊_scale_of_effects_estimate.md`](Polaris_Nest/Git_Intake_Drawer/📊_scale_of_effects_estimate.md)
     - [`📓_paper_diary_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/📓_paper_diary_sovereignty.md)
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
