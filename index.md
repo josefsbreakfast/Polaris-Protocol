@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 16:22:05 UTC_
+_Generated on 2025-09-26 16:23:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -747,7 +747,6 @@ _Generated on 2025-09-26 16:22:05 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`CHECKSUMS.sha256`](Polaris_Nest/Git_Intake_Drawer/CHECKSUMS.sha256)
     - [`Exhibit: Sales Suppression vs Viral Spike.png`](Polaris_Nest/Git_Intake_Drawer/Exhibit: Sales Suppression vs Viral Spike.png)
-    - [`NOTICE.md`](Polaris_Nest/Git_Intake_Drawer/NOTICE.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`SEC-2025-09.md`](Polaris_Nest/Git_Intake_Drawer/SEC-2025-09.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
@@ -1031,6 +1030,7 @@ _Generated on 2025-09-26 16:22:05 UTC_
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
     - [`🎏_dividers_and_headers.md`](Polaris_Nest/🏮_Admin_Kit/🎏_dividers_and_headers.md)
     - [`🐾_footer_seals.md`](Polaris_Nest/🏮_Admin_Kit/🐾_footer_seals.md)
+    - [`🔥_NOTICE.md`](Polaris_Nest/🏮_Admin_Kit/🔥_NOTICE.md)
     - [`🔮_house_style.md`](Polaris_Nest/🏮_Admin_Kit/🔮_house_style.md)
     - [`🧧_GIT_INTAKE_README.md`](Polaris_Nest/🏮_Admin_Kit/🧧_GIT_INTAKE_README.md)
     - [`🧿_visual_palette.md`](Polaris_Nest/🏮_Admin_Kit/🧿_visual_palette.md)
