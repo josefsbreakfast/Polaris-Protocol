@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 20:59:09 UTC_
+_Generated on 2025-09-26 21:00:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -555,6 +555,7 @@ _Generated on 2025-09-26 20:59:09 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
       - [`💼_industry_capture_identity_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)
+      - [`📊_id_claims_vs_realities.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📊_id_claims_vs_realities.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
       - [`🔮_uk_digital_id_risk_forecast.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
