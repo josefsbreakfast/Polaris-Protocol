@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 15:16:11 UTC_
+_Generated on 2025-09-26 15:19:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -672,6 +672,8 @@ _Generated on 2025-09-26 15:16:11 UTC_
       - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
+  - [**📡_telecoms_vectors/**](Metadata_Sabotage_Network/📡_telecoms_vectors/)
+    - [`🧭_esim_proxy_risk.md`](Metadata_Sabotage_Network/📡_telecoms_vectors/🧭_esim_proxy_risk.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
       - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/README.md)
@@ -934,7 +936,6 @@ _Generated on 2025-09-26 15:16:11 UTC_
     - [`🧬_shadow_safeguarding_dossiers.md`](Polaris_Nest/Git_Intake_Drawer/🧬_shadow_safeguarding_dossiers.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
-    - [`🧭_esim_proxy_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧭_esim_proxy_risk.md)
     - [`🧰_leave_me_alone_playbook.md`](Polaris_Nest/Git_Intake_Drawer/🧰_leave_me_alone_playbook.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
