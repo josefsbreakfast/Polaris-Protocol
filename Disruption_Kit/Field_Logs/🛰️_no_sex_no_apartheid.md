@@ -4,6 +4,8 @@
 
 ---
 
+TBC - gpt didnt even want to describe this as an observation - vvv cagey 
+
 ## 🕰 Timestamp  
 - **Date:** YYYY-MM-DD  
 - **Time (approx):** HH:MM (24h)  
