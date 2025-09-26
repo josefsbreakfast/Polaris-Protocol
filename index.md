@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 11:02:43 UTC_
+_Generated on 2025-09-26 11:08:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -132,6 +132,8 @@ _Generated on 2025-09-26 11:02:43 UTC_
       - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪞_the_illusion_of_choice.md)
       - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪫_austerity_long_tail_data_instability.md)
       - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)
+    - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
+      - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🪞_on_human_impulse.md)
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
       - [`BUCS_league_table_dataentry_template.csv`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/BUCS_league_table_dataentry_template.csv)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/README.md)
@@ -352,7 +354,6 @@ _Generated on 2025-09-26 11:02:43 UTC_
       - [`🪬_authoritarianism_beyond_left_right.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
-    - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🪞_on_human_impulse.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
