@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 16:31:23 UTC_
+_Generated on 2025-09-26 16:35:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -431,6 +431,7 @@ _Generated on 2025-09-26 16:31:23 UTC_
     - [`📝_hollow_node_export_glitch_2025-09-17.md`](Disruption_Kit/Field_Logs/📝_hollow_node_export_glitch_2025-09-17.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`🛰️_ 2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_ 2025-09-19_fieldnote_suppression_signal.md)
+    - [`🛰️_2025-09-19_legal_risk_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_legal_risk_sweep.md)
     - [`🛰️_2025-09-22_web_of_resilience_duplicate_fix.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-22_web_of_resilience_duplicate_fix.md)
     - [`🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/🛰️_ai_interference_vs_baseline_generation.md)
@@ -779,7 +780,6 @@ _Generated on 2025-09-26 16:31:23 UTC_
     - [`jewish_intersections_global.png`](Polaris_Nest/Git_Intake_Drawer/jewish_intersections_global.png)
     - [`jewish_intersections_global_visual.png`](Polaris_Nest/Git_Intake_Drawer/jewish_intersections_global_visual.png)
     - [`layer_dominance_containment_posture.png`](Polaris_Nest/Git_Intake_Drawer/layer_dominance_containment_posture.png)
-    - [`legal-risk.md`](Polaris_Nest/Git_Intake_Drawer/legal-risk.md)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
     - [`metadata_shame_overlay.png`](Polaris_Nest/Git_Intake_Drawer/metadata_shame_overlay.png)
