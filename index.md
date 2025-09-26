@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 20:27:51 UTC_
+_Generated on 2025-09-26 20:29:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -528,6 +528,9 @@ _Generated on 2025-09-26 20:27:51 UTC_
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
+  - [**Data_Risks/**](Metadata_Sabotage_Network/Data_Risks/)
+    - [**🧟_Residual_Shadows/**](Metadata_Sabotage_Network/Data_Risks/🧟_Residual_Shadows/)
+      - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/Data_Risks/🧟_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md)
