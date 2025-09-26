@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 11:58:35 UTC_
+_Generated on 2025-09-26 12:01:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -468,6 +468,7 @@ _Generated on 2025-09-26 11:58:35 UTC_
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
     - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
     - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
+    - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Field_Logs/🪄_the_magical_disappearing_book.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
@@ -935,7 +936,6 @@ _Generated on 2025-09-26 11:58:35 UTC_
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
     - [`🧿_intake_drawer_balancing_harms.md`](Polaris_Nest/Git_Intake_Drawer/🧿_intake_drawer_balancing_harms.md)
     - [`🪄_influencer_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🪄_influencer_resilience.md)
-    - [`🪄_the_magical_disappearing_book.md`](Polaris_Nest/Git_Intake_Drawer/🪄_the_magical_disappearing_book.md)
     - [`🪐_my_britannia.md`](Polaris_Nest/Git_Intake_Drawer/🪐_my_britannia.md)
     - [`🪐_where_the_fuck_am i.md`](Polaris_Nest/Git_Intake_Drawer/🪐_where_the_fuck_am i.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
