@@ -1,10 +1,10 @@
-# 🪖 Russia’s Incursions Timeline (2010–2025)  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
-*Skeleton chronology of Russian military and coercive operations in Ukraine, Chechnya, and the wider Caucasus.*
+# 🪖 Russia’s Incursions Timeline  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-26  
+*Skeleton chronology of Russian military and coercive operations in Ukraine, Chechnya, and the wider Caucasus, with metadata anchors for systemic overlap.*
 
 ---
 
-## Ukraine
+## Ukraine  
 - **2014 Mar** — Russia seizes and annexes **Crimea**; conflict begins in **Donbas**.  
 - **2015–2021** — Low-intensity fighting; front stabilises.  
 - **2022 Feb 24** — Full-scale invasion begins.  
@@ -13,12 +13,12 @@
 - **2024 May 10** — New offensive toward **Kharkiv**.  
 - **2024–2025** — Positional fighting, drone/missile campaigns.  
 
-## Chechnya / North Caucasus
+## Chechnya / North Caucasus  
 - **2009–2017** — Counter-insurgency degrades resistance; insurgency declared “ended.”  
 - **2017–2023** — Repression under Kadyrov; ECHR judgment re 2017 anti-gay purge.  
 - **2024 Mar** — Special ops against militants in **Ingushetia**.  
 
-## Wider Caucasus
+## Wider Caucasus  
 - **2011–present** — Entrenchment in **Abkhazia**/**South Ossetia**; “borderisation.”  
 - **2020 Nov** — Russian peacekeepers deployed to **Nagorno-Karabakh**.  
 - **2023 Sep** — Azerbaijan retakes Karabakh; Russian forces passive.  
@@ -40,14 +40,14 @@ Anchor dates for metadata + surveillance events relevant to systemic incursions.
 
 ## 🏮 Footer  
 
-*Russia’s Incursions Timeline (2010–2025)* is a living node of the Polaris Protocol.  
-It documents a skeleton chronology of Russian operations alongside metadata events for systemic mapping.  
+*Russia’s Incursions Timeline* is a living node of the Polaris Protocol.  
+It documents a skeleton chronology of Russian military operations alongside metadata anchors for systemic mapping.  
 
 > 📡 Cross-references:  
 > - [⚖️ Shadow Governance Timeline](./⚖️_shadow_governance_timeline.md)  
 > - [📚 Crisis Theatre](./📚_crisis_theatre.md)  
-> - [Patterns of Financial & Narrative Overlap](./💸_russian_overlap_patterns.md)  
+> - [💸 Russian Overlap Patterns](./💸_russian_overlap_patterns.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-09-26_  
