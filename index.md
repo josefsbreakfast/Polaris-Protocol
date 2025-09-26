@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 22:37:33 UTC_
+_Generated on 2025-09-26 22:40:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -467,6 +467,7 @@ _Generated on 2025-09-26 22:37:33 UTC_
     - [`🛰️_microphone_bias_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_microphone_bias_2025-09-20.md)
     - [`🛰️_mind_games_projection_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_mind_games_projection_2025-09-13.md)
     - [`🛰️_network_instability_app_behaviour_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_network_instability_app_behaviour_2025-09-16.md)
+    - [`🛰️_no_sex_no_apartheid.md`](Disruption_Kit/Field_Logs/🛰️_no_sex_no_apartheid.md)
     - [`🛰️_observed_memory_variations_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_observed_memory_variations_2025-09-16.md)
     - [`🛰️_patterns_update_interference_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_patterns_update_interference_2025-09-20.md)
     - [`🛰️_precursors_summary_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_precursors_summary_2025-09-19.md)
