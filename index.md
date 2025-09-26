@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 15:19:17 UTC_
+_Generated on 2025-09-26 15:23:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -673,6 +673,7 @@ _Generated on 2025-09-26 15:19:17 UTC_
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**📡_telecoms_vectors/**](Metadata_Sabotage_Network/📡_telecoms_vectors/)
+    - [`README.md`](Metadata_Sabotage_Network/📡_telecoms_vectors/README.md)
     - [`🧭_esim_proxy_risk.md`](Metadata_Sabotage_Network/📡_telecoms_vectors/🧭_esim_proxy_risk.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
