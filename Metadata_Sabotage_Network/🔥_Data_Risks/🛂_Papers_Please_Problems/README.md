@@ -1,30 +1,46 @@
 # 🛂 Papers Please Problems  
 **First created:** 2025-09-26 | **Last updated:** 2025-09-26  
-*Subfolder for documenting how identity systems generate cascading paperwork difficulties — “papers please” barriers for UK citizens, EU nationals, and overseas passport holders.*  
+*Folder for documenting how identity systems create cascading paperwork difficulties — the “papers please” effects across work, policing, and migration.*  
 
 ---
 
 ## Purpose  
-Digital ID and registry systems create **knock-on failures**. A mismatch in one system (biometrics, ID cards, visas) blocks access to others (benefits, residency, work, banking). These are “papers please” problems — where every interaction becomes conditional on perfect bureaucratic alignment.  
+Identity systems rarely fail in isolation. They generate **knock-on frictions** where a mismatch or missing entry in one system blocks access to others:  
+- Work checks (employment, benefits, banking).  
+- Residency checks (housing, welfare, healthcare).  
+- Policing checks (stop & search, facial recognition, enforcement bias).  
 
-This subfolder tracks **three outcome groups**:  
-- **🇬🇧 UK passport holders** — errors spill into welfare, services, and travel.  
-- **🇪🇺 EU passport holders** — Brexit-era mismatches erode rights, twin profiles across UK/EU databases.  
-- **🌍 Overseas passport holders** — migrants, students, and asylum seekers face compounded visa checks, biometric duplication, and shadow registers.  
+This subfolder collects nodes showing how “papers please” problems manifest for different groups and through different myths.  
 
 ---
 
-## Structure  
-- 🇬🇧_uk_passport_risk_outcomes.md  
-- 🇪🇺_eu_passport_risk_outcomes.md  
-- 🌍_overseas_passport_risk_outcomes.md  
+## Contents  
+
+### 📑 Myth cluster  
+| File | Focus |  
+|------|-------|  
+| 🛠️_work_check_duplication.md | Why ID cards duplicate existing Right to Work systems. |  
+| 🪪_dbs_checks_vs_id_cards.md | DBS checks as stronger case for a card — but ignored. |  
+| 🚓_police_identification_myth.md | False claim that police “need ID cards” to identify people. |  
+
+### 🌍 Passport outcome cluster  
+| File | Focus |  
+|------|-------|  
+| 🇬🇧_uk_passport_risk_outcomes.md | Exclusion risks for British passport holders. |  
+| 🇪🇺_eu_passport_risk_outcomes.md | Brexit mismatches & twin profiles for EU nationals. |  
+| 🌍_overseas_passport_risk_outcomes.md | Compounded visa checks & shadow registers for overseas passport holders. |  
+
+### 💳 Case study  
+| File | Focus |  
+|------|-------|  
+| 💳_biometric_residence_permits_risks.md | How BRPs already produce discrimination & exclusion. |  
 
 ---
 
 ## ⭐ Keywords  
-#papersplease #identity_cards #uk #eu #overseas #passport_risks #digital_id #biometrics #migration #residency #work_permits #benefits #data_risks  
+#papersplease #identity_cards #digital_id #work_checks #dbs #police #passports #brp #migration #biometrics #discrimination #data_risks  
 
 ## 🏮 Footer  
-*Cross-references: 👥_twin_profiles_biometrics.md; 🧟_zombie_data_identity_registers.md; 🔮_uk_digital_id_risk_forecast.md*  
+*Cross-references: 🔮_uk_digital_id_risk_forecast.md; 🏛️_uk_identity_cards_2000s.md; 📊_id_claims_vs_realities.md*  
 
 _Last updated: 2025-09-26_  
