@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 11:24:47 UTC_
+_Generated on 2025-09-26 11:50:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -423,6 +423,7 @@ _Generated on 2025-09-26 11:24:47 UTC_
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`🛰️_ 2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_ 2025-09-19_fieldnote_suppression_signal.md)
+    - [`🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/🛰️_ai_interference_vs_baseline_generation.md)
     - [`🛰️_all_it_took_2025-09-06.md`](Disruption_Kit/Field_Logs/🛰️_all_it_took_2025-09-06.md)
     - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
