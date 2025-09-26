@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 11:14:10 UTC_
+_Generated on 2025-09-26 11:15:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -38,6 +38,7 @@ _Generated on 2025-09-26 11:14:10 UTC_
       - [`⚖️_legal_frameworks_remits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_legal_frameworks_remits.md)
       - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_matriarchy_as_requirement.md)
       - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
+      - [`⚖️_public_inquiry_business_case.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_public_inquiry_business_case.md)
       - [`⚖️_redress_models_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_redress_models_and_limits.md)
       - [`⚖️_registered_professions_impact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_registered_professions_impact.md)
       - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_rings_of_power_universities.md)
@@ -825,7 +826,6 @@ _Generated on 2025-09-26 11:14:10 UTC_
     - [`⚖️_compliance_as_opacity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_compliance_as_opacity.md)
     - [`⚖️_encampment_paperwork_comparative.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_encampment_paperwork_comparative.md)
     - [`⚖️_legal_hooks_for_muted_books.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_hooks_for_muted_books.md)
-    - [`⚖️_public_inquiry_business_case.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_public_inquiry_business_case.md)
     - [`🌹_MOVINGPLAN.md`](Polaris_Nest/Git_Intake_Drawer/🌹_MOVINGPLAN.md)
     - [`🍯_oh_dear_g_d.md`](Polaris_Nest/Git_Intake_Drawer/🍯_oh_dear_g_d.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
