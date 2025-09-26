@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 16:06:08 UTC_
+_Generated on 2025-09-26 16:20:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -747,7 +747,6 @@ _Generated on 2025-09-26 16:06:08 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`CHECKSUMS.sha256`](Polaris_Nest/Git_Intake_Drawer/CHECKSUMS.sha256)
     - [`Exhibit: Sales Suppression vs Viral Spike.png`](Polaris_Nest/Git_Intake_Drawer/Exhibit: Sales Suppression vs Viral Spike.png)
-    - [`GIT_INTAKE_README.md`](Polaris_Nest/Git_Intake_Drawer/GIT_INTAKE_README.md)
     - [`NOTICE.md`](Polaris_Nest/Git_Intake_Drawer/NOTICE.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`SEC-2025-09.md`](Polaris_Nest/Git_Intake_Drawer/SEC-2025-09.md)
@@ -1046,6 +1045,8 @@ _Generated on 2025-09-26 16:06:08 UTC_
     - [`merge_harm_log.ps1`](scripts/maintenance/merge_harm_log.ps1)
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
+- [**🏮_Admin_Kit/**](🏮_Admin_Kit/)
+  - [`GIT_INTAKE_README.md`](🏮_Admin_Kit/GIT_INTAKE_README.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**Fork_Taxonomy/**](👻_Apparitional_Objects/Fork_Taxonomy/)
     - [`README.md`](👻_Apparitional_Objects/Fork_Taxonomy/README.md)
