@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 16:20:40 UTC_
+_Generated on 2025-09-26 16:22:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1032,6 +1032,7 @@ _Generated on 2025-09-26 16:20:40 UTC_
     - [`🎏_dividers_and_headers.md`](Polaris_Nest/🏮_Admin_Kit/🎏_dividers_and_headers.md)
     - [`🐾_footer_seals.md`](Polaris_Nest/🏮_Admin_Kit/🐾_footer_seals.md)
     - [`🔮_house_style.md`](Polaris_Nest/🏮_Admin_Kit/🔮_house_style.md)
+    - [`🧧_GIT_INTAKE_README.md`](Polaris_Nest/🏮_Admin_Kit/🧧_GIT_INTAKE_README.md)
     - [`🧿_visual_palette.md`](Polaris_Nest/🏮_Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
   - [`README.md`](Polaris_Nest/README.md)
@@ -1045,8 +1046,6 @@ _Generated on 2025-09-26 16:20:40 UTC_
     - [`merge_harm_log.ps1`](scripts/maintenance/merge_harm_log.ps1)
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
-- [**🏮_Admin_Kit/**](🏮_Admin_Kit/)
-  - [`GIT_INTAKE_README.md`](🏮_Admin_Kit/GIT_INTAKE_README.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**Fork_Taxonomy/**](👻_Apparitional_Objects/Fork_Taxonomy/)
     - [`README.md`](👻_Apparitional_Objects/Fork_Taxonomy/README.md)
