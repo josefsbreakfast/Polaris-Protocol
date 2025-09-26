@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 09:58:35 UTC_
+_Generated on 2025-09-26 09:59:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -832,6 +832,7 @@ _Generated on 2025-09-26 09:58:35 UTC_
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`🐀_so_close_to_catching_the_cable_nibbler.md`](Polaris_Nest/Git_Intake_Drawer/🐀_so_close_to_catching_the_cable_nibbler.md)
     - [`🐎_sovereignty_in_scale.md`](Polaris_Nest/Git_Intake_Drawer/🐎_sovereignty_in_scale.md)
+    - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`💡_i_know_why_youre_all_so_invested_now.md`](Polaris_Nest/Git_Intake_Drawer/💡_i_know_why_youre_all_so_invested_now.md)
@@ -1019,7 +1020,6 @@ _Generated on 2025-09-26 09:58:35 UTC_
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
   - [`README.md`](Polaris_Nest/README.md)
   - [`🏮_where_to_go.md`](Polaris_Nest/🏮_where_to_go.md)
-  - [`🐪_new_question.md`](Polaris_Nest/🐪_new_question.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
