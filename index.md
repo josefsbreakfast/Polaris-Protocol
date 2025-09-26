@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 11:52:04 UTC_
+_Generated on 2025-09-26 11:58:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -133,6 +133,7 @@ _Generated on 2025-09-26 11:52:04 UTC_
       - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_shadow_sandboxes.md)
       - [`🧾_twin_records_as_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧾_twin_records_as_vulnerability.md)
       - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🩹_patch_repair_governance.md)
+      - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪖_russias_incursions_timeline.md)
       - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪞_the_illusion_of_choice.md)
       - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪫_austerity_long_tail_data_instability.md)
       - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)
@@ -937,7 +938,6 @@ _Generated on 2025-09-26 11:52:04 UTC_
     - [`🪄_the_magical_disappearing_book.md`](Polaris_Nest/Git_Intake_Drawer/🪄_the_magical_disappearing_book.md)
     - [`🪐_my_britannia.md`](Polaris_Nest/Git_Intake_Drawer/🪐_my_britannia.md)
     - [`🪐_where_the_fuck_am i.md`](Polaris_Nest/Git_Intake_Drawer/🪐_where_the_fuck_am i.md)
-    - [`🪖_russias_incursions_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🪖_russias_incursions_timeline.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
