@@ -1,3 +1,5 @@
+Created Sep 24, 2025
+
 after the birmingham debacle im just going down the list
 
 why gave i beern diverted from horses?
