@@ -5,6 +5,10 @@ This section preserves the raw voice of that moment.*
 
 ---
 
+_**Let this stand as a rejection and a refusal of eugenics, apatheid, and all systems which bear their fruit.**_
+
+---
+
 ## ☔️ Framing  
 
 This note was written in survivor voice, immediately after experiencing containment that felt like crowd control: people nudged, corralled, redirected.  
