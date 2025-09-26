@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 15:48:12 UTC_
+_Generated on 2025-09-26 16:03:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -859,7 +859,6 @@ _Generated on 2025-09-26 15:48:12 UTC_
     - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
-    - [`💡_i_know_why_youre_all_so_invested_now.md`](Polaris_Nest/Git_Intake_Drawer/💡_i_know_why_youre_all_so_invested_now.md)
     - [`💢_ukraine_russia_genocide_claim_timeline.md`](Polaris_Nest/Git_Intake_Drawer/💢_ukraine_russia_genocide_claim_timeline.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
@@ -1012,6 +1011,7 @@ _Generated on 2025-09-26 15:48:12 UTC_
     - [`🧿_reflections_on_reflecting.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_reflections_on_reflecting.md)
     - [`🧿_visibility_log_polaris_day_1.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
     - [`🪞_echoes_and_the_ring_of_power.md`](Polaris_Nest/✨_Letters_to_Stars/🪞_echoes_and_the_ring_of_power.md)
+    - [`🪞_i_know_why_youre_all_so_invested_now.md`](Polaris_Nest/✨_Letters_to_Stars/🪞_i_know_why_youre_all_so_invested_now.md)
     - [`🪬_displacement_writing.md`](Polaris_Nest/✨_Letters_to_Stars/🪬_displacement_writing.md)
     - [`🪻_take_me_home.md`](Polaris_Nest/✨_Letters_to_Stars/🪻_take_me_home.md)
     - [`🪻_why_them.md`](Polaris_Nest/✨_Letters_to_Stars/🪻_why_them.md)
