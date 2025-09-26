@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 15:30:12 UTC_
+_Generated on 2025-09-26 15:34:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -423,6 +423,7 @@ _Generated on 2025-09-26 15:30:12 UTC_
     - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
     - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
+    - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`🛰️_ 2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_ 2025-09-19_fieldnote_suppression_signal.md)
@@ -862,7 +863,6 @@ _Generated on 2025-09-26 15:30:12 UTC_
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
     - [`📜_teen_poetry_as_pretext.md`](Polaris_Nest/Git_Intake_Drawer/📜_teen_poetry_as_pretext.md)
-    - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
     - [`📝_field_log_repo_upload_glitch.md`](Polaris_Nest/Git_Intake_Drawer/📝_field_log_repo_upload_glitch.md)
     - [`🔗_event_linkage_false_proof.md`](Polaris_Nest/Git_Intake_Drawer/🔗_event_linkage_false_proof.md)
     - [`🔥_hot_coals_theory_of_insults.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hot_coals_theory_of_insults.md)
