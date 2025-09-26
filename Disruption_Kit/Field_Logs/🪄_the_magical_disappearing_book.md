@@ -1,5 +1,5 @@
 # 🪄 The Magical Disappearing Book  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-23 | **Last updated:** 2025-09-26  
 *A field log of finally holding the book, and the quiet release that followed.*
 
 ---
@@ -66,4 +66,4 @@ It records how physical evidence ends the comfort of softer explanations and lea
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_
+_Last updated: 2025-09-26_
