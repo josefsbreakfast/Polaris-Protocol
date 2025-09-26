@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 11:50:16 UTC_
+_Generated on 2025-09-26 11:52:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -58,6 +58,7 @@ _Generated on 2025-09-26 11:50:16 UTC_
       - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_ambiguity_as_containment.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_masculinity_extraction_governance_containment.md)
       - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_parallel_channels.md)
+      - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_prototype_surveillance_as_investor_pitch.md)
       - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🌏_brics_bridgework_middle_corridors.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌏_brics_bridgework_middle_corridors.md)
