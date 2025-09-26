@@ -15,18 +15,23 @@ Identity cards and digital ID schemes create harms for everyone, but **specific 
 
 ---
 
-## Structure  
-- 👶_children_youth_id_card_risks.md  
-- 🖐️_enrolment_trauma_risks.md  
-- ♿_disabled_people_id_exclusion.md *(planned)*  
-- 🕊️_refugees_asylum_id_risks.md *(planned)*  
-- 💔_gender_sex_discrimination_id_cards.md *(planned)*  
-- 🩺_healthcare_access_id_risks.md *(planned)*  
+## Contents  
+
+### 🧷 Cluster index  
+
+| File | Focus |  
+|------|-------|  
+| 🐣_children_youth_id_card_risks.md | Risks of ID exclusion and surveillance for children & youth. |  
+| 🦔_enrolment_trauma_risks.md | How biometric enrolment retraumatises survivors & vulnerable groups. |  
+| ♿_disabled_people_id_exclusion.md | Accessibility failures & exclusion of disabled people. |  
+| 🕊️_refugees_asylum_id_risks.md | How refugees & asylum seekers face compounded ID risks. |  
+| 💔_gender_sex_discrimination_id_cards.md | Gender identity mismatches & sex-based exclusion in ID systems. |  
+| 🩺_healthcare_access_id_risks.md | How ID checks restrict access to healthcare. |  
 
 ---
 
 ## ⭐ Keywords  
-#vulnerable #datapopulations #id_cards #digital_id #biometrics #migration #refugees #children #disabled #trauma #discrimination #papersplease #data_risks  
+#vulnerable #datapopulations #id_cards #digital_id #biometrics #migration #refugees #children #disabled #trauma #gender #healthcare #papersplease #data_risks  
 
 ## 🏮 Footer  
 *Cross-references: 🔮_uk_digital_id_risk_forecast.md; 🛂_Papers_Please_Problems/README.md; 🧟‍♀️_digital_id_zombie_profiles.md*  
