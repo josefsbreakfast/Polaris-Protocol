@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 22:12:47 UTC_
+_Generated on 2025-09-26 22:17:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -612,6 +612,7 @@ _Generated on 2025-09-26 22:12:47 UTC_
       - [`🚪_isolation_scripting_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md)
       - [`🥀_loneliness_as_a_system_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system_2025-09-13.md)
       - [`🥕_tiny_wins_exhaustion_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥕_tiny_wins_exhaustion_containment.md)
+      - [`🧊_glass_box_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md)
       - [`🧿_persistent_discrediting_force.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md)
       - [`🪤_suspicion_seeding_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_suspicion_seeding_2025-09-13.md)
       - [`🫀_our_rapes_are_not_their_rationale.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_our_rapes_are_not_their_rationale.md)
