@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 16:35:29 UTC_
+_Generated on 2025-09-26 16:39:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -432,6 +432,7 @@ _Generated on 2025-09-26 16:35:29 UTC_
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`🛰️_ 2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_ 2025-09-19_fieldnote_suppression_signal.md)
     - [`🛰️_2025-09-19_legal_risk_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_legal_risk_sweep.md)
+    - [`🛰️_2025-09-19_security_signal_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_security_signal_sweep.md)
     - [`🛰️_2025-09-22_web_of_resilience_duplicate_fix.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-22_web_of_resilience_duplicate_fix.md)
     - [`🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/🛰️_ai_interference_vs_baseline_generation.md)
@@ -823,7 +824,6 @@ _Generated on 2025-09-26 16:35:29 UTC_
     - [`safeguarding_model_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_potential.png)
     - [`scale_of_scapegoating_hashtag.png`](Polaris_Nest/Git_Intake_Drawer/scale_of_scapegoating_hashtag.png)
     - [`scraping_spoofing_timeline_2019-2022.png`](Polaris_Nest/Git_Intake_Drawer/scraping_spoofing_timeline_2019-2022.png)
-    - [`security-signal.md`](Polaris_Nest/Git_Intake_Drawer/security-signal.md)
     - [`shadow_nda_redacted.pdf`](Polaris_Nest/Git_Intake_Drawer/shadow_nda_redacted.pdf)
     - [`sound_ahavah_rabbah.png`](Polaris_Nest/Git_Intake_Drawer/sound_ahavah_rabbah.png)
     - [`sound_harmonic_c_minor.png`](Polaris_Nest/Git_Intake_Drawer/sound_harmonic_c_minor.png)
