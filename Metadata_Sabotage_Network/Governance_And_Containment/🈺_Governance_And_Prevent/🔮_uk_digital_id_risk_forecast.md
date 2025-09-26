@@ -21,6 +21,14 @@ UK government IT estate: legacy creep + poor oversight. Adding centralised ID = 
 ## 5. Industry capture  
 Big vendors profit from delivery + remediation. State carries political fallout. Citizens carry data risk.  
 
+## 6. False simplification: the work check problem  
+- **Current system** — Employers already use Home Office–approved software to scan passports, visas, and biometric residence permits (BRPs).  
+- **Claimed benefit** — ID cards would “simplify” checks by providing a single document.  
+- **Reality** — checks are already centralised and digital. Adding ID cards duplicates, rather than replaces, existing documents.  
+- **Outcome** — more errors, more twin profiles, and higher cost for no operational gain.  
+
+---
+
 ---
 
 ## ⭐ Keywords  
