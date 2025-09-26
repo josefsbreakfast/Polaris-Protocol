@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 21:13:55 UTC_
+_Generated on 2025-09-26 21:16:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -758,6 +758,8 @@ _Generated on 2025-09-26 21:13:55 UTC_
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
   - [**🔥_Data_Risks/**](Metadata_Sabotage_Network/🔥_Data_Risks/)
+    - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
+      - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)
     - [**🛂_Papers_Please_Problems/**](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/README.md)
       - [`🇪🇺_eu_passport_risk_outcomes.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/🇪🇺_eu_passport_risk_outcomes.md)
