@@ -39,7 +39,7 @@ Big vendors profit from delivery + remediation. State carries political fallout.
 
 ---
 
-## 😒 7. The “nothing to hide” fallacy  
+## ❌ 7. The “nothing to hide” fallacy  
 - **Common claim**: “If you’re not doing anything wrong, you shouldn’t worry.”  
 - **Reality**: ID systems expose *marginalised groups* to *greater harm*:  
   - Racial and sex discrimination in policing and service checks.  
