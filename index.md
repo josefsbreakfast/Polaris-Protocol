@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 15:46:57 UTC_
+_Generated on 2025-09-26 15:48:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -364,6 +364,7 @@ _Generated on 2025-09-26 15:46:57 UTC_
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
     - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/📊_scale_of_effects_estimate.md)
+    - [`📜_teen_poetry_as_pretext.md`](Disruption_Kit/Big_Picture_Protocols/📜_teen_poetry_as_pretext.md)
     - [`🚀_taxonomy_expansion_roadmap.md`](Disruption_Kit/Big_Picture_Protocols/🚀_taxonomy_expansion_roadmap.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
@@ -864,7 +865,6 @@ _Generated on 2025-09-26 15:46:57 UTC_
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
-    - [`📜_teen_poetry_as_pretext.md`](Polaris_Nest/Git_Intake_Drawer/📜_teen_poetry_as_pretext.md)
     - [`🔗_event_linkage_false_proof.md`](Polaris_Nest/Git_Intake_Drawer/🔗_event_linkage_false_proof.md)
     - [`🔥_hot_coals_theory_of_insults.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hot_coals_theory_of_insults.md)
     - [`🔥_suppression_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_suppression_as_signal.md)
