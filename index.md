@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 16:39:18 UTC_
+_Generated on 2025-09-26 16:42:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -26,6 +26,7 @@ _Generated on 2025-09-26 16:39:18 UTC_
       - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_authorisation_and_oversight.md)
       - [`⚖️_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_china_soft_ops_vs_russia_hard_ops.md)
       - [`⚖️_cidt_by_withholding_record_safety.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_cidt_by_withholding_record_safety.md)
+      - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_coercive_control_in_border_policy.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
       - [`⚖️_containment_contract_trace_hotel_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace_hotel_edition.md)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_data_bill_peers_bill_genocide_duties.md)
@@ -840,7 +841,6 @@ _Generated on 2025-09-26 16:39:18 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`⚖️_coercive_control_in_border_policy.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_coercive_control_in_border_policy.md)
     - [`⚖️_compliance_as_opacity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_compliance_as_opacity.md)
     - [`🌹_MOVINGPLAN.md`](Polaris_Nest/Git_Intake_Drawer/🌹_MOVINGPLAN.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
