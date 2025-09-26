@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 21:55:40 UTC_
+_Generated on 2025-09-26 22:12:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -131,6 +131,7 @@ _Generated on 2025-09-26 21:55:40 UTC_
       - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_intuition_as_skill.md)
       - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_targeting_logic_empathy_is_a_threat.md)
       - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_the_dev.md)
+      - [`🧠_transformative_learning_window.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_transformative_learning_window.md)
       - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_value_of_the_outlier.md)
       - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_failure_recycling.md)
       - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_pilot_containments.md)
