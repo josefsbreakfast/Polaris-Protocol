@@ -1,7 +1,5 @@
-Disruption_Kit/Field_Logs/📝_field_log_chatgpt_export_glitch_2025-09-16.md
-
 # 📝 Field Log — Export Glitch & Voice Suppression (2025-09-16)  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-26  
 *Multiple nodes authored in ChatGPT and committed via GitHub web editor exported as hollow shells. Facts survived, but cultural, future-facing, and voice-rich content disappeared. Experienced by author as targeted suppression, extraction, and gagging of creative expression.*  
 
 ---
@@ -60,4 +58,4 @@ It documents both the technical loss and the lived harm of targeted erasure.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2025-09-26_  
