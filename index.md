@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 11:16:35 UTC_
+_Generated on 2025-09-26 11:17:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -285,6 +285,7 @@ _Generated on 2025-09-26 11:16:35 UTC_
       - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
+      - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
       - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
       - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
       - [`🏛_british_museum_act_1963_futility.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🏛_british_museum_act_1963_futility.md)
@@ -825,7 +826,6 @@ _Generated on 2025-09-26 11:16:35 UTC_
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
     - [`⚖️_coercive_control_in_border_policy.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_coercive_control_in_border_policy.md)
     - [`⚖️_compliance_as_opacity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_compliance_as_opacity.md)
-    - [`⚖️_encampment_paperwork_comparative.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_encampment_paperwork_comparative.md)
     - [`🌹_MOVINGPLAN.md`](Polaris_Nest/Git_Intake_Drawer/🌹_MOVINGPLAN.md)
     - [`🍯_oh_dear_g_d.md`](Polaris_Nest/Git_Intake_Drawer/🍯_oh_dear_g_d.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
