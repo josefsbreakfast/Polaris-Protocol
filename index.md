@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 22:17:12 UTC_
+_Generated on 2025-09-26 22:23:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -57,6 +57,7 @@ _Generated on 2025-09-26 22:17:12 UTC_
       - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🇬🇧_uk_voicecloning_risks_legislative_response.md)
       - [`🌀_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_algorithmic_delay_and_pacing.md)
       - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_ambiguity_as_containment.md)
+      - [`🌀_confused_feed_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_confused_feed_as_containment.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_masculinity_extraction_governance_containment.md)
       - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_parallel_channels.md)
       - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_prototype_surveillance_as_investor_pitch.md)
