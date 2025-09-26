@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 20:33:23 UTC_
+_Generated on 2025-09-26 20:34:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -563,6 +563,7 @@ _Generated on 2025-09-26 20:33:23 UTC_
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
       - [`🚀_governance_is_great_2nd_spring_clean.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🚀_governance_is_great_2nd_spring_clean.md)
       - [`🤹_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🤹_blair_cabinet_identity_hypocrisy.md)
+      - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
