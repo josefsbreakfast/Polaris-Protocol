@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 09:59:31 UTC_
+_Generated on 2025-09-26 10:02:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -23,6 +23,7 @@ _Generated on 2025-09-26 09:59:31 UTC_
       - [`loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/loop_tickbox_vs_cognitive_load.md)
       - [`loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/loop_triad_tickbox_containment_fatigue_patch_repair.md)
       - [`⏳_delay_scripts_near_deadlines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⏳_delay_scripts_near_deadlines.md)
+      - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_authorisation_and_oversight.md)
       - [`⚖️_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_china_soft_ops_vs_russia_hard_ops.md)
       - [`⚖️_cidt_by_withholding_record_safety.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_cidt_by_withholding_record_safety.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
@@ -32,7 +33,9 @@ _Generated on 2025-09-26 09:59:31 UTC_
       - [`⚖️_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_escalation_vs_play_timeline.csv)
       - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_international_laundering.md)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md)
+      - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_ipco_audit_cycle.md)
       - [`⚖️_judicial_deference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_judicial_deference.md)
+      - [`⚖️_legal_frameworks_remits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_legal_frameworks_remits.md)
       - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_matriarchy_as_requirement.md)
       - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
       - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_rings_of_power_universities.md)
