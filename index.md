@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 21:43:42 UTC_
+_Generated on 2025-09-26 21:55:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -120,6 +120,7 @@ _Generated on 2025-09-26 21:43:42 UTC_
       - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_ai_middleware.md)
       - [`🛰️_data_fusion_centres.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_data_fusion_centres.md)
       - [`🛰️_microsoft_partial_cut_israel_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_microsoft_partial_cut_israel_surveillance.md)
+      - [`🛰️_post_9_11_surveillance_industry_legacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_post_9_11_surveillance_industry_legacy.md)
       - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_surveillance_infrastructure.md)
       - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_vendor_lock_in.md)
       - [`🦈_surveillance_by_misread_and_malice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦈_surveillance_by_misread_and_malice.md)
