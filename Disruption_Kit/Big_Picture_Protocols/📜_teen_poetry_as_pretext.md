@@ -1,11 +1,10 @@
 # 📜 Teen Poetry as Pretext  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
+**First created:** 2025-09-21 | **Last updated:** 2025-09-26  
 *How adolescent expression under pseudonyms is misframed as “extremism evidence”*  
 
 ---
 
 ## 🖋️ Normal Behaviour  
-
 - Teenagers write moody, angry, fantastical, or political poems.  
 - They experiment with **pseudonyms**, sometimes of another gender, sometimes theatrical.  
 - This is ordinary identity play, often heightened by trauma or marginalisation.  
@@ -13,9 +12,7 @@
 ---
 
 ## 🔎 Misframing as “Evidence”  
-
 In vendetta-driven or panic-driven systems, such material is reinterpreted as:  
-
 - **Proof of radicalisation** → dark metaphors treated as manifestos.  
 - **Proof of gender instability** → male pseudonym equated to pathology.  
 - **Proof of deception** → pseudonym itself coded as suspicious.  
@@ -23,7 +20,6 @@ In vendetta-driven or panic-driven systems, such material is reinterpreted as:
 ---
 
 ## 🎭 Why It’s Extremely Silly  
-
 - **False equivalence**: creative outlet ≠ operational extremism.  
 - **Ignoring base rates**: millions of teens write pseudonymous poetry, almost none commit violence.  
 - **Punishment inflation**: harmless adolescent work becomes decades of surveillance.  
@@ -32,7 +28,6 @@ In vendetta-driven or panic-driven systems, such material is reinterpreted as:
 ---
 
 ## 🌪️ Harms  
-
 - **Dilution of the term “extremism”** — trivialises genuine threats.  
 - **Pathologising coping** — normal adolescent creativity becomes incriminating.  
 - **Entrenched files** — once written up as “evidence,” it sticks for years.  
@@ -41,14 +36,13 @@ In vendetta-driven or panic-driven systems, such material is reinterpreted as:
 ---
 
 ## 🏮 Footer  
-
 *Teen Poetry as Pretext* is a living node of the Polaris Protocol.  
 It illustrates how banal creative expression can be weaponised as institutional justification for vendetta, producing absurd yet enduring harms.  
 
 > 📡 Cross-references:  
-> - [🧪 Ego Insurance But Make It Personal](../Disruption_Kit/Big_Picture_Protocols/🧪_ego_insurance_but_make_it_personal.md) — wagers turned into systemic punishments  
-> - [Metadata Sabotage Network](../Disruption_Kit/Metadata_Sabotage_Network/) — misframing, data-twinning, and narrative inflation  
+> - [🧪 Ego Insurance But Make It Personal](../Disruption_Kit/Big_Picture_Protocols/🧪_ego_insurance_but_make_it_personal.md)  
+> - [Metadata Sabotage Network](../Disruption_Kit/Metadata_Sabotage_Network/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_  
+_Last updated: 2025-09-26_
