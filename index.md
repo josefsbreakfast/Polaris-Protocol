@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 11:17:42 UTC_
+_Generated on 2025-09-26 11:24:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -827,7 +827,6 @@ _Generated on 2025-09-26 11:17:42 UTC_
     - [`⚖️_coercive_control_in_border_policy.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_coercive_control_in_border_policy.md)
     - [`⚖️_compliance_as_opacity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_compliance_as_opacity.md)
     - [`🌹_MOVINGPLAN.md`](Polaris_Nest/Git_Intake_Drawer/🌹_MOVINGPLAN.md)
-    - [`🍯_oh_dear_g_d.md`](Polaris_Nest/Git_Intake_Drawer/🍯_oh_dear_g_d.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
     - [`🍴_fork_taxonomy_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy_FULL.md)
     - [`🎖️_medal_for_mum.md`](Polaris_Nest/Git_Intake_Drawer/🎖️_medal_for_mum.md)
@@ -984,6 +983,7 @@ _Generated on 2025-09-26 11:17:42 UTC_
     - [`🌌_star_letters_day4.md`](Polaris_Nest/✨_Letters_to_Stars/🌌_star_letters_day4.md)
     - [`🌌_timeline_of_care.md`](Polaris_Nest/✨_Letters_to_Stars/🌌_timeline_of_care.md)
     - [`🌑🌕_Paired_Fragments.md`](Polaris_Nest/✨_Letters_to_Stars/🌑🌕_Paired_Fragments.md)
+    - [`🍯_oh_dear_g_d.md`](Polaris_Nest/✨_Letters_to_Stars/🍯_oh_dear_g_d.md)
     - [`🎃_october_dreams.md`](Polaris_Nest/✨_Letters_to_Stars/🎃_october_dreams.md)
     - [`🎫_2025_08_04_legal_fork_billet.md`](Polaris_Nest/✨_Letters_to_Stars/🎫_2025_08_04_legal_fork_billet.md)
     - [`🏚️_how_to_live_in_a_house_that_failed_you.md`](Polaris_Nest/✨_Letters_to_Stars/🏚️_how_to_live_in_a_house_that_failed_you.md)
