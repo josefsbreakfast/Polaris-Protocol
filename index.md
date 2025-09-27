@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 21:12:57 UTC_
+_Generated on 2025-09-27 21:15:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -298,6 +298,7 @@ _Generated on 2025-09-27 21:12:57 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
       - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
       - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
+      - [`🔬_operation_no_sanctuary.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🔬_operation_no_sanctuary.md)
       - [`🗡_narrative_management_and_metadata_storage.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🗡_narrative_management_and_metadata_storage.md)
       - [`🛰️_witness_by_proxy_midlands_2016.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🛰️_witness_by_proxy_midlands_2016.md)
       - [`🟦_teaching_framework_jews_empire_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🟦_teaching_framework_jews_empire_antisemitism.md)
@@ -943,7 +944,6 @@ _Generated on 2025-09-27 21:12:57 UTC_
     - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
-    - [`🔬_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/🔬_operation_no_sanctury.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_being_cross_at_gung_ho_nudge.md)
     - [`🗒️_field_note_conversation_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_field_note_conversation_drift.md)
