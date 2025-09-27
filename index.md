@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 21:11:10 UTC_
+_Generated on 2025-09-27 21:12:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -541,6 +541,7 @@ _Generated on 2025-09-27 21:11:10 UTC_
     - [`💋_toilet_watching_subs.md`](Disruption_Kit/Survivor_Tools/💋_toilet_watching_subs.md)
     - [`📓_paper_diary_sovereignty.md`](Disruption_Kit/Survivor_Tools/📓_paper_diary_sovereignty.md)
     - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
+    - [`🗃️_ten_year_box.md`](Disruption_Kit/Survivor_Tools/🗃️_ten_year_box.md)
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
     - [`🛰️_metadata_monitor_checklist.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_monitor_checklist.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
@@ -944,7 +945,6 @@ _Generated on 2025-09-27 21:11:10 UTC_
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`🔬_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/🔬_operation_no_sanctury.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🗃️_ten_year_box.md`](Polaris_Nest/Git_Intake_Drawer/🗃️_ten_year_box.md)
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_being_cross_at_gung_ho_nudge.md)
     - [`🗒️_field_note_conversation_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗒️_field_note_conversation_drift.md)
     - [`🗝_eccentric_custody_wellcome_collection.md`](Polaris_Nest/Git_Intake_Drawer/🗝_eccentric_custody_wellcome_collection.md)
