@@ -45,6 +45,18 @@ Like the golem, fascism and genocide are **self-destructive guardians** — forc
 
 ---
 
+## 🪢 Containment Loop: The Golem’s Arc  
+
+```mermaid
+flowchart LR
+    H[🧠 Humiliation<br>Community under pogroms & badges] --> 
+    P[🫴 Protector Created<br>Golem animated for security] --> 
+    V[💥 Violence Unleashed<br>Guardian without reason spirals] --> 
+    S[☠️ Self-Destruction<br>Community itself endangered] --> H
+```
+
+---
+
 ## 🔗 Polaris Relevance  
 
 - The golem is a folkloric artifact of **humiliation as governance**: when humiliation was systemic, communities imagined guardians of clay.  
