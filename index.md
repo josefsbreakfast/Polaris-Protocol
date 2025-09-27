@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 22:32:09 UTC_
+_Generated on 2025-09-27 22:48:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -477,6 +477,7 @@ _Generated on 2025-09-27 22:32:09 UTC_
     - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/⚔️_the_orientalism_is_mindblowing.md)
     - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
+    - [`🌹_moving_plan.md`](Disruption_Kit/Field_Logs/🌹_moving_plan.md)
     - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
     - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
@@ -964,7 +965,6 @@ _Generated on 2025-09-27 22:32:09 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`🌹_MOVINGPLAN.md`](Polaris_Nest/Git_Intake_Drawer/🌹_MOVINGPLAN.md)
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
     - [`🍴_fork_taxonomy_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy_FULL.md)
     - [`🎖️_medal_for_mum.md`](Polaris_Nest/Git_Intake_Drawer/🎖️_medal_for_mum.md)
