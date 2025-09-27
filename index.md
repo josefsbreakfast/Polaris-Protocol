@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:32:40 UTC_
+_Generated on 2025-09-27 18:35:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -301,6 +301,7 @@ _Generated on 2025-09-27 18:32:40 UTC_
       - [`🟦_teaching_framework_jews_empire_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🟦_teaching_framework_jews_empire_antisemitism.md)
       - [`🧬_successor_firms_scl_cambridge_analytica.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧬_successor_firms_scl_cambridge_analytica.md)
       - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
+      - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_identity_documents_act_2010.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
@@ -918,7 +919,6 @@ _Generated on 2025-09-27 18:32:40 UTC_
     - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
-    - [`💢_ukraine_russia_genocide_claim_timeline.md`](Polaris_Nest/Git_Intake_Drawer/💢_ukraine_russia_genocide_claim_timeline.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
