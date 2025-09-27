@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 19:11:03 UTC_
+_Generated on 2025-09-27 19:14:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -310,6 +310,7 @@ _Generated on 2025-09-27 19:11:03 UTC_
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
       - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
       - [`✝️_protestant_work_ethic_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)
+      - [`🌒_charisma_as_container.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🌒_charisma_as_container.md)
       - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
       - [`🏛_british_museum_act_1963_futility.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🏛_british_museum_act_1963_futility.md)
       - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
