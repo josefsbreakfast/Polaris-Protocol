@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 19:08:38 UTC_
+_Generated on 2025-09-27 19:11:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -318,6 +318,7 @@ _Generated on 2025-09-27 19:08:38 UTC_
       - [`💣_the_cultural_bomb.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md)
       - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
       - [`📖_erased_archives_and_survival_bias.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
+      - [`📜_blavatsky_case_study_cairo_ban.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📜_blavatsky_case_study_cairo_ban.md)
       - [`📜_teen_poetry_as_pretext.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📜_teen_poetry_as_pretext.md)
       - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
       - [`📩_ghost_vs_haunting_chart_2025-08-12.csv`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📩_ghost_vs_haunting_chart_2025-08-12.csv)
@@ -926,7 +927,6 @@ _Generated on 2025-09-27 19:08:38 UTC_
     - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
-    - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
     - [`🔗_event_linkage_false_proof.md`](Polaris_Nest/Git_Intake_Drawer/🔗_event_linkage_false_proof.md)
     - [`🔬_lost_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🔬_lost_checks_and_balances.md)
     - [`🔬_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/🔬_operation_no_sanctury.md)
