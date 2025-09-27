@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 22:25:16 UTC_
+_Generated on 2025-09-27 22:26:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -556,6 +556,7 @@ _Generated on 2025-09-27 22:25:16 UTC_
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
     - [`🛰️_university_complicity_protest_suppression_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05.md)
     - [`🛰️_university_complicity_protest_suppression_2025-09-05_2.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05_2.md)
+    - [`🛰️_us_early_consolidation_media_dynamics_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_us_early_consolidation_media_dynamics_2025-09-20.md)
     - [`🛰️_valuation_of_the_muse_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_valuation_of_the_muse_2025-09-13.md)
     - [`🛰️_voice_modulation_forensics_spoon_2025-07-24.md`](Disruption_Kit/Field_Logs/🛰️_voice_modulation_forensics_spoon_2025-07-24.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
@@ -978,7 +979,6 @@ _Generated on 2025-09-27 22:25:16 UTC_
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🛰️_the_busyness_of_the_bee.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_the_busyness_of_the_bee.md)
-    - [`🛰️_us_early_consolidation_media_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_us_early_consolidation_media_2025-09-20.md)
     - [`🛰️_user_takedowns_throttling_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_user_takedowns_throttling_2025-09-20.md)
     - [`🛰️⚔️_the_orientalism_is_mindblowing.md`](Polaris_Nest/Git_Intake_Drawer/🛰️⚔️_the_orientalism_is_mindblowing.md)
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🙄_stop_changing_gits_field_note.md)
