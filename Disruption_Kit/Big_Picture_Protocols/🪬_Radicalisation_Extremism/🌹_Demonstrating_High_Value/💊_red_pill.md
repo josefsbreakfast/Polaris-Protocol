@@ -90,7 +90,7 @@ It documents how a pop culture metaphor was weaponised into a radicalisation pip
 
 📡 Cross-references:  
 - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)  
-- [🐺 AMOG (Alpha Male of Group)](./🐺_amog_alpha_male_of_group.md)  
+- [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md)  
 - [🌹 Negging](./🌹_Negging.md)  
 - [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
 
