@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 22:01:04 UTC_
+_Generated on 2025-09-27 22:06:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -542,6 +542,7 @@ _Generated on 2025-09-27 22:01:04 UTC_
     - [`🛰️_reputational_unit_12_saluting_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reputational_unit_12_saluting_2025-08-13.md)
     - [`🛰️_rerouting_after_mark_commit_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_rerouting_after_mark_commit_2025-09-20.md)
     - [`🛰️_reset_state_analysis_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reset_state_analysis_2025-08-13.md)
+    - [`🛰️_retrospective_cross_references_throttling_2025-09-22.md`](Disruption_Kit/Field_Logs/🛰️_retrospective_cross_references_throttling_2025-09-22.md)
     - [`🛰️_safety_transparency_email_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_safety_transparency_email_2025-09-05.md)
     - [`🛰️_sec_2025-09.md`](Disruption_Kit/Field_Logs/🛰️_sec_2025-09.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
@@ -970,7 +971,6 @@ _Generated on 2025-09-27 22:01:04 UTC_
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md)
-    - [`🛰️_retrospective_cross_references_throttling_2025-09-22.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_retrospective_cross_references_throttling_2025-09-22.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🛰️_stasi_style_email_mirroring_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stasi_style_email_mirroring_2025-09-20.md)
     - [`🛰️_structural_vulnerabilities_media_harm_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_structural_vulnerabilities_media_harm_2025-09-20.md)
