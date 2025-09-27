@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 10:22:14 UTC_
+_Generated on 2025-09-27 10:35:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -58,6 +58,7 @@ _Generated on 2025-09-27 10:22:14 UTC_
       - [`🌀_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_algorithmic_delay_and_pacing.md)
       - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_ambiguity_as_containment.md)
       - [`🌀_confused_feed_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_confused_feed_as_containment.md)
+      - [`🌀_forced_migration_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_forced_migration_as_governance.md)
       - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_managed_transition_vs_revolution.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_masculinity_extraction_governance_containment.md)
       - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_parallel_channels.md)
