@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 19:14:13 UTC_
+_Generated on 2025-09-27 19:16:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -465,6 +465,7 @@ _Generated on 2025-09-27 19:14:13 UTC_
     - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
     - [`📝_hollow_node_export_glitch_2025-09-17.md`](Disruption_Kit/Field_Logs/📝_hollow_node_export_glitch_2025-09-17.md)
+    - [`🔗_event_linkage_false_proof_pattern.md`](Disruption_Kit/Field_Logs/🔗_event_linkage_false_proof_pattern.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`🛰️_ 2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_ 2025-09-19_fieldnote_suppression_signal.md)
     - [`🛰️_2025-09-19_legal_risk_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_legal_risk_sweep.md)
@@ -928,7 +929,6 @@ _Generated on 2025-09-27 19:14:13 UTC_
     - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
-    - [`🔗_event_linkage_false_proof.md`](Polaris_Nest/Git_Intake_Drawer/🔗_event_linkage_false_proof.md)
     - [`🔬_lost_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🔬_lost_checks_and_balances.md)
     - [`🔬_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/🔬_operation_no_sanctury.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
