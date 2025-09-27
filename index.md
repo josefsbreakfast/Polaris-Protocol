@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:48:46 UTC_
+_Generated on 2025-09-27 18:49:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -340,6 +340,7 @@ _Generated on 2025-09-27 18:48:46 UTC_
       - [`🫜_asymmetric_discourse_policing.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫜_asymmetric_discourse_policing.md)
       - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
     - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/README.md)
       - [`💷_migration_as_liability_shield.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)
       - [`📊_immigration_myths_and_impacts.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
