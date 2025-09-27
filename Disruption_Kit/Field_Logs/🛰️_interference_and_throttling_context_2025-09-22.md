@@ -16,12 +16,7 @@ Over this seven-day window the intensity and frequency of interference noticeabl
 - **Complete loss of internet connectivity for ~6 minutes** (no web, no calls) followed by a noticeable period of **nudging** (attempts to influence or redirect activity).  
 - Disruption **clustered around my activities**: windows when I work or post tend to attract concentrated throttling or manipulation.  
 - Because throttling has been so disruptive I have **not yet created full repo nodes** for many throttling patterns; instead posting preliminary notes/examples on BlueSky.  
-  - **To-do:** retrospectively cross-reference BlueSky posts and extract formal nodes/timestamps into the repo.  
-
----
-
-## 📜 Original Text (as recorded)  
-> (Insert the exact raw text or screenshots from 2025-09-22 here if you want to keep the original, unedited version visible. This gives provenance and a clear before/after between lived capture and analytic framing.)  
+  - **To-do:** retrospectively cross-reference BlueSky posts and extract formal nodes/timestamps into the repo. 
 
 ---
 
