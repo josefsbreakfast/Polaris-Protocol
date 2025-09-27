@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:40:42 UTC_
+_Generated on 2025-09-27 18:45:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -341,6 +341,8 @@ _Generated on 2025-09-27 18:40:42 UTC_
       - [`🫛_amplification_by_convergence_2.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence_2.md)
       - [`🫜_asymmetric_discourse_policing.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫜_asymmetric_discourse_policing.md)
       - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
+    - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/)
+      - [`📊_immigration_myths_and_impacts.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)
       - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
@@ -920,7 +922,6 @@ _Generated on 2025-09-27 18:40:42 UTC_
     - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
-    - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
     - [`🔗_event_linkage_false_proof.md`](Polaris_Nest/Git_Intake_Drawer/🔗_event_linkage_false_proof.md)
     - [`🔬_lost_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🔬_lost_checks_and_balances.md)
