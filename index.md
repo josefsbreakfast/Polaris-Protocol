@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-26 22:41:23 UTC_
+_Generated on 2025-09-27 07:46:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -256,6 +256,10 @@ _Generated on 2025-09-26 22:41:23 UTC_
       - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
       - [`➰_appeasement_loop_policing_bias.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/➰_appeasement_loop_policing_bias.md)
       - [`🎙_congress_radio_and_partition_cinema.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎙_congress_radio_and_partition_cinema.md)
+      - [`🎶_book_discoverability_shift_2022.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_book_discoverability_shift_2022.md)
+      - [`🎶_containment_by_review_jstor_2018.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_containment_by_review_jstor_2018.md)
+      - [`🎶_dedication_absences_in_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_dedication_absences_in_books.md)
+      - [`🎶_endorser_network_traces.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_endorser_network_traces.md)
       - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
       - [`🐉_chen_rui_trump_parody.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md)
       - [`💸_donor_networks_alt_right_media_overlap.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/💸_donor_networks_alt_right_media_overlap.md)
