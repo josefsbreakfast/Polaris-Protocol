@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 10:36:29 UTC_
+_Generated on 2025-09-27 10:57:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -131,6 +131,7 @@ _Generated on 2025-09-27 10:36:29 UTC_
       - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧃_cogat_is_a_containment_op.md)
       - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)
       - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_didnt_apply_brain_loop.md)
+      - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_humiliation_as_governance.md)
       - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_intuition_as_skill.md)
       - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_targeting_logic_empathy_is_a_threat.md)
       - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_the_dev.md)
