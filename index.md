@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:20:45 UTC_
+_Generated on 2025-09-27 18:27:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -316,6 +316,7 @@ _Generated on 2025-09-27 18:20:45 UTC_
       - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
       - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
       - [`📩_ghost_vs_haunting_chart_2025-08-12.csv`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📩_ghost_vs_haunting_chart_2025-08-12.csv)
+      - [`🔥_hot_coals_theory_of_insults.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_hot_coals_theory_of_insults.md)
       - [`🕯️_containment_through_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🕯️_containment_through_loneliness.md)
       - [`🗝️_deliberate_cultural_violation.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md)
       - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
@@ -920,7 +921,6 @@ _Generated on 2025-09-27 18:20:45 UTC_
     - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
     - [`🔗_event_linkage_false_proof.md`](Polaris_Nest/Git_Intake_Drawer/🔗_event_linkage_false_proof.md)
-    - [`🔥_hot_coals_theory_of_insults.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hot_coals_theory_of_insults.md)
     - [`🔥_suppression_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🔥_suppression_as_signal.md)
     - [`🔬_lost_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🔬_lost_checks_and_balances.md)
     - [`🔬_operation_no_sanctury.md`](Polaris_Nest/Git_Intake_Drawer/🔬_operation_no_sanctury.md)
