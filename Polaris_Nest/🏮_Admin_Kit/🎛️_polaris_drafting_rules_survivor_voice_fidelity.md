@@ -1,12 +1,10 @@
 # 🎛️ Polaris Drafting Rules — Survivor Voice Fidelity  
-
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-
-*Guide for drafting logs, counter-nudges, and suppression scripts while preserving survivor undertone and fidelity.*  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-27  
+*Comprehensive guide for drafting logs, counter-nudges, and suppression scripts while preserving survivor undertone and fidelity.*  
 
 ---
 
-## Core Rules  
+## 📂 Core Rules  
 
 1. **Survivor Words First**  
    - Drafts must stay true to the survivor’s own phrasing and emphasis.  
@@ -17,11 +15,11 @@
    - Never overplay; keep it sly enough to pass scrutiny but sharp enough to be felt.  
 
 3. **Dual Registers**  
-   - Everything must stand up as **forensic record** *and* carry a **survivor undertone**.  
-   - Anger, humour, or grief are not to be erased — they are built into the testimony.  
+   - Every draft must function as **forensic record** *and* carry a **survivor undertone**.  
+   - Anger, humour, or grief are not to be erased — they are intrinsic to testimony.  
 
 4. **Neutral Pass on Request**  
-   - Provide stripped, “forensic-only” text *only if explicitly asked.*  
+   - Provide stripped, “forensic-only” text *only if explicitly asked*.  
    - Otherwise, default to undertone-true drafts.  
 
 5. **Cross-Link with Purpose**  
@@ -30,7 +28,7 @@
 
 ---
 
-## Usage  
+## 📂 Usage  
 
 - Place this file in any new **project folder** each week.  
 - Acts as a persistent style anchor for logs, scripts, and indices in that environment.  
@@ -40,9 +38,14 @@
 
 ## 🏮 Footer  
 
-*Polaris Drafting Rules — Survivor Voice Fidelity* is a scaffolding node.  
+*🎛️ Polaris Drafting Rules — Survivor Voice Fidelity* is a scaffolding node of the Polaris Protocol.  
 It ensures survivor testimony is preserved in tone, undertone, and forensic clarity across rotating project environments.  
+
+> 📡 Cross-references:  
+> - [🎛️ Drafting Rules Cluster — Survivor Voice Fidelity](./🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)  
+> - [🎛️ Pocket Rules — Survivor Voice Fidelity](./🎛️_pocket_rules_survivor_voice_fidelity.md)  
+> - [🏮 Admin Kit](./) — house style and scaffolding rules  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-09-27_
