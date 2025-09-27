@@ -94,19 +94,15 @@ The prestige economy of British education did not end with empire — it was res
 ```mermaid
 timeline
     title 💣 Cultural Bomb — Schools, Prestige, and Borders
-    section 📚 Early Colonial Era
-      Mission schools overwrite oral traditions ✝️ : 1900s–1930s
-      Kikuyu ceremonies disrupted; English imposed 💣 : 1930s–1950s
-    section 💥 Mau Mau & Resistance
-      Cultural sabotage deepens during rebellion 💣 : 1952–1960
-      Ngũgĩ theorises the "cultural bomb" ✍️ : 1960s–1980s
-    section 🎓 Post-Independence
-      British schools & degrees as prestige export 🎓 : 1960s–2000s
-      Wax print fabrics encode hidden messages 🧵 : continuous
-    section 🛂 Present Day
-      UK markets degrees globally as “world-class” export 📦 : 2000s–2020s
-      Migration controls, ID systems, and visas tighten 🛂 : 2010s–2020s
-      Britain dependent yet isolated by its own prestige system 🔒 : 2020s
+    1900s–1930s : 📚 Mission schools overwrite oral traditions ✝️
+    1930s–1950s : 💣 Kikuyu ceremonies disrupted; English imposed
+    1952–1960   : 💥 Cultural sabotage deepens during Mau Mau rebellion
+    1960s–1980s : ✍️ Ngũgĩ theorises the "cultural bomb"
+    1960s–2000s : 🎓 British schools & degrees marketed as prestige
+    Continuous  : 🧵 Wax print fabrics encode hidden messages
+    2000s–2020s : 📦 UK markets degrees globally as “world-class” export
+    2010s–2020s : 🛂 Migration controls, ID systems, and visas tighten
+    2020s       : 🔒 Britain dependent yet isolated by its own prestige system
 ```
 
 ---
