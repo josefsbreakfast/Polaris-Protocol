@@ -1,5 +1,5 @@
 # 🛰️ "Bath-Time Division" Hypothesis — Field Log (2025-09-20)
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20
+**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
 *Field log recording the user's hypothesised operational model: a scalable ambient-audio + logistics-manipulation capability (colloquially: "bath-time division") used to time deliveries and intrusions for surveillance, harassment, or coercion.*
 
 ---
@@ -46,7 +46,7 @@
 *"Bath-Time Division" Hypothesis — Field Log* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-09-27_
 
 
 ## ⚠️ Social-vector note — human factors (added 2025-09-20)
