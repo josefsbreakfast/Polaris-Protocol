@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:37:47 UTC_
+_Generated on 2025-09-27 18:39:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -392,7 +392,6 @@ _Generated on 2025-09-27 18:37:47 UTC_
       - [`🪬_christian_nationalism_as_fascist_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
-    - [`🚀_taxonomy_expansion_roadmap.md`](Disruption_Kit/Big_Picture_Protocols/🚀_taxonomy_expansion_roadmap.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
@@ -1123,6 +1122,7 @@ _Generated on 2025-09-27 18:37:47 UTC_
     - [`👾_execution_drift.md`](👻_Apparitional_Objects/Fork_Taxonomy/👾_execution_drift.md)
     - [`🔐_fork_clone_checklist.md`](👻_Apparitional_Objects/Fork_Taxonomy/🔐_fork_clone_checklist.md)
     - [`🚀_taxonomy_expansion.md`](👻_Apparitional_Objects/Fork_Taxonomy/🚀_taxonomy_expansion.md)
+    - [`🚀_taxonomy_expansion_roadmap.md?`](👻_Apparitional_Objects/Fork_Taxonomy/🚀_taxonomy_expansion_roadmap.md?)
     - [`🚨_cybersec_brief_note_fork_critic_political_parties.md`](👻_Apparitional_Objects/Fork_Taxonomy/🚨_cybersec_brief_note_fork_critic_political_parties.md)
     - [`🛑_fork_shutdown_protocol.md`](👻_Apparitional_Objects/Fork_Taxonomy/🛑_fork_shutdown_protocol.md)
     - [`🛑_red_team_appendix_twinned_pairs.md`](👻_Apparitional_Objects/Fork_Taxonomy/🛑_red_team_appendix_twinned_pairs.md)
