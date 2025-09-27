@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:51:30 UTC_
+_Generated on 2025-09-27 18:52:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -343,6 +343,7 @@ _Generated on 2025-09-27 18:51:30 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/README.md)
       - [`💷_migration_as_liability_shield.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)
       - [`📊_immigration_myths_and_impacts.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md)
+      - [`🛟_harm_reduction_asylum_routes.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_asylum_routes.md)
       - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)
@@ -936,7 +937,6 @@ _Generated on 2025-09-27 18:51:30 UTC_
     - [`🗝️_illusion_of_caldicott_compliance.md`](Polaris_Nest/Git_Intake_Drawer/🗝️_illusion_of_caldicott_compliance.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🛑_ignored_evidence_nudge_2014_2016.md`](Polaris_Nest/Git_Intake_Drawer/🛑_ignored_evidence_nudge_2014_2016.md)
-    - [`🛟_harm_reduction_asylum_routes.md`](Polaris_Nest/Git_Intake_Drawer/🛟_harm_reduction_asylum_routes.md)
     - [`🛡️_clearance_impact.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_clearance_impact.md)
     - [`🛡️_exploitability_and_defensive_strategy.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_exploitability_and_defensive_strategy.md)
     - [`🛰️_behavior_first_framing_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_behavior_first_framing_2025-09-20.md)
