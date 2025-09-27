@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:36:49 UTC_
+_Generated on 2025-09-27 18:37:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -317,6 +317,7 @@ _Generated on 2025-09-27 18:36:49 UTC_
       - [`💣_the_cultural_bomb.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md)
       - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
       - [`📖_erased_archives_and_survival_bias.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
+      - [`📜_teen_poetry_as_pretext.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📜_teen_poetry_as_pretext.md)
       - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
       - [`📩_ghost_vs_haunting_chart_2025-08-12.csv`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📩_ghost_vs_haunting_chart_2025-08-12.csv)
       - [`🔥_hot_coals_theory_of_insults.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_hot_coals_theory_of_insults.md)
@@ -391,7 +392,6 @@ _Generated on 2025-09-27 18:36:49 UTC_
       - [`🪬_christian_nationalism_as_fascist_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
-    - [`📜_teen_poetry_as_pretext.md`](Disruption_Kit/Big_Picture_Protocols/📜_teen_poetry_as_pretext.md)
     - [`🚀_taxonomy_expansion_roadmap.md`](Disruption_Kit/Big_Picture_Protocols/🚀_taxonomy_expansion_roadmap.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
