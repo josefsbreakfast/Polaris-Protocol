@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 11:01:10 UTC_
+_Generated on 2025-09-27 12:10:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -379,6 +379,7 @@ _Generated on 2025-09-27 11:01:10 UTC_
       - [`🪦_memory_erasure_in_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md)
       - [`🪬_appeasement_economics.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_appeasement_economics.md)
       - [`🪬_authoritarianism_beyond_left_right.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
+      - [`🪬_christian_nationalism_as_fascist_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
     - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/📊_scale_of_effects_estimate.md)
