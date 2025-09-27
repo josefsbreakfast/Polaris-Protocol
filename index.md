@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:30:52 UTC_
+_Generated on 2025-09-27 18:32:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -314,6 +314,7 @@ _Generated on 2025-09-27 18:30:52 UTC_
       - [`💌_survivor_consent_is_not_yours.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💌_survivor_consent_is_not_yours.md)
       - [`💣_the_cultural_bomb.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md)
       - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
+      - [`📖_erased_archives_and_survival_bias.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
       - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
       - [`📩_ghost_vs_haunting_chart_2025-08-12.csv`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📩_ghost_vs_haunting_chart_2025-08-12.csv)
       - [`🔥_hot_coals_theory_of_insults.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_hot_coals_theory_of_insults.md)
@@ -920,7 +921,6 @@ _Generated on 2025-09-27 18:30:52 UTC_
     - [`💢_ukraine_russia_genocide_claim_timeline.md`](Polaris_Nest/Git_Intake_Drawer/💢_ukraine_russia_genocide_claim_timeline.md)
     - [`💷_migration_as_liability_shield.md`](Polaris_Nest/Git_Intake_Drawer/💷_migration_as_liability_shield.md)
     - [`📊_immigration_myths_and_impacts.md`](Polaris_Nest/Git_Intake_Drawer/📊_immigration_myths_and_impacts.md)
-    - [`📖_erased_archives_and_survival_bias.md`](Polaris_Nest/Git_Intake_Drawer/📖_erased_archives_and_survival_bias.md)
     - [`📜_blavatsky_case_study_cairo_ban.md`](Polaris_Nest/Git_Intake_Drawer/📜_blavatsky_case_study_cairo_ban.md)
     - [`🔗_event_linkage_false_proof.md`](Polaris_Nest/Git_Intake_Drawer/🔗_event_linkage_false_proof.md)
     - [`🔬_lost_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🔬_lost_checks_and_balances.md)
