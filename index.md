@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 22:58:42 UTC_
+_Generated on 2025-09-27 23:00:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1128,7 +1128,6 @@ _Generated on 2025-09-27 22:58:42 UTC_
     - [`☢️_shatterfork.md`](👻_Apparitional_Objects/Fork_Taxonomy/☢️_shatterfork.md)
     - [`🍥_fork_clone_traits_export.json`](👻_Apparitional_Objects/Fork_Taxonomy/🍥_fork_clone_traits_export.json)
     - [`🍴_fork_taxonomy.md`](👻_Apparitional_Objects/Fork_Taxonomy/🍴_fork_taxonomy.md)
-    - [`🍴_fork_taxonomy2.md`](👻_Apparitional_Objects/Fork_Taxonomy/🍴_fork_taxonomy2.md)
     - [`🎶_calming_voice_prototype.md`](👻_Apparitional_Objects/Fork_Taxonomy/🎶_calming_voice_prototype.md)
     - [`🏛_british_museum_error_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🏛_british_museum_error_fork.md)
     - [`👾_execution_drift.md`](👻_Apparitional_Objects/Fork_Taxonomy/👾_execution_drift.md)
