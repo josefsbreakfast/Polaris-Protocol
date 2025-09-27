@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 22:20:33 UTC_
+_Generated on 2025-09-27 22:22:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -550,6 +550,7 @@ _Generated on 2025-09-27 22:20:33 UTC_
     - [`🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md)
     - [`🛰️_structural_vulnerabilities_media_harm_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_structural_vulnerabilities_media_harm_2025-09-27.md)
     - [`🛰️_stuck_for_several_minutes_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stuck_for_several_minutes_2025-09-27.md)
+    - [`🛰️_suppression_gremlins_after_midnight_2025-09-18.md`](Disruption_Kit/Field_Logs/🛰️_suppression_gremlins_after_midnight_2025-09-18.md)
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
     - [`🛰️_university_complicity_protest_suppression_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05.md)
     - [`🛰️_university_complicity_protest_suppression_2025-09-05_2.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05_2.md)
@@ -974,7 +975,6 @@ _Generated on 2025-09-27 22:20:33 UTC_
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🛰️_suppression_gremlins_after_midnight_2025-09-18.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_suppression_gremlins_after_midnight_2025-09-18.md)
     - [`🛰️_surveillance_forking_2025-09-21.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_surveillance_forking_2025-09-21.md)
     - [`🛰️_the_busyness_of_the_bee.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_the_busyness_of_the_bee.md)
     - [`🛰️_theory_of_harm_entrap_protect.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_theory_of_harm_entrap_protect.md)
