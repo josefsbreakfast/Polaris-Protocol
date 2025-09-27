@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 20:00:31 UTC_
+_Generated on 2025-09-27 20:06:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -373,6 +373,7 @@ _Generated on 2025-09-27 20:00:31 UTC_
     - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/)
       - [**🌹_Demonstrating_High_Value/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md)
+        - [`🌹_negging.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🌹_negging.md)
         - [`🎬_dennis_system_as_pua_satire.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🎬_dennis_system_as_pua_satire.md)
         - [`🪬_pua_to_far_right_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_pua_to_far_right_pipeline.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/README.md)
