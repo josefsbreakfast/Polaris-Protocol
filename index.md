@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:35:28 UTC_
+_Generated on 2025-09-27 18:36:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -93,6 +93,7 @@ _Generated on 2025-09-27 18:35:28 UTC_
       - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📁_absence_of_check_in.md)
       - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
       - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_kpi_vs_okr_in_government.md)
+      - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_scale_of_effects_estimate.md)
       - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📋_tick_box_compliance_as_containment.md)
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📑_the_case_of_the_disappearing_reviews.md)
       - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md)
@@ -390,7 +391,6 @@ _Generated on 2025-09-27 18:35:28 UTC_
       - [`🪬_christian_nationalism_as_fascist_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
-    - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/📊_scale_of_effects_estimate.md)
     - [`📜_teen_poetry_as_pretext.md`](Disruption_Kit/Big_Picture_Protocols/📜_teen_poetry_as_pretext.md)
     - [`🚀_taxonomy_expansion_roadmap.md`](Disruption_Kit/Big_Picture_Protocols/🚀_taxonomy_expansion_roadmap.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
