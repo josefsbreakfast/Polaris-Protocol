@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 19:18:09 UTC_
+_Generated on 2025-09-27 19:20:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -478,6 +478,7 @@ _Generated on 2025-09-27 19:18:09 UTC_
     - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
     - [`🛰️_arrest_as_surveillance_warrant.md`](Disruption_Kit/Field_Logs/🛰️_arrest_as_surveillance_warrant.md)
     - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_bath_time_division_hypothesis_2025-09-20.md)
+    - [`🛰️_behavior_first_framing_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_behavior_first_framing_2025-09-20.md)
     - [`🛰️_commit_interference_fork_anomaly_save_2025-09-09.md`](Disruption_Kit/Field_Logs/🛰️_commit_interference_fork_anomaly_save_2025-09-09.md)
     - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](Disruption_Kit/Field_Logs/🛰️_direct_interference_on_clarity_2025-09-11.md)
     - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
@@ -942,7 +943,6 @@ _Generated on 2025-09-27 19:18:09 UTC_
     - [`🛑_ignored_evidence_nudge_2014_2016.md`](Polaris_Nest/Git_Intake_Drawer/🛑_ignored_evidence_nudge_2014_2016.md)
     - [`🛡️_clearance_impact.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_clearance_impact.md)
     - [`🛡️_exploitability_and_defensive_strategy.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_exploitability_and_defensive_strategy.md)
-    - [`🛰️_behavior_first_framing_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_behavior_first_framing_2025-09-20.md)
     - [`🛰️_chatgpt_cant_hold_chronology_today.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_chatgpt_cant_hold_chronology_today.md)
     - [`🛰️_codename_table_loss_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_codename_table_loss_2025-09-20.md)
     - [`🛰️_dns_failure_for_explaining_myself_accurately.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_dns_failure_for_explaining_myself_accurately.md)
