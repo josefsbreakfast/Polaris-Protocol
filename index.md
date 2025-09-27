@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 20:49:07 UTC_
+_Generated on 2025-09-27 20:49:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -377,6 +377,7 @@ _Generated on 2025-09-27 20:49:07 UTC_
         - [`🎬_dennis_system_as_pua_satire.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🎬_dennis_system_as_pua_satire.md)
         - [`🐺_AMOG_a_joke.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🐺_AMOG_a_joke.md)
         - [`💊_red_pill.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/💊_red_pill.md)
+        - [`🪬_masculinity_in_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_masculinity_in_crisis.md)
         - [`🪬_pua_to_far_right_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_pua_to_far_right_pipeline.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/README.md)
       - [`☕🫖_uk_gov_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
