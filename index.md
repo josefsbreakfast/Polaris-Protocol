@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 21:04:01 UTC_
+_Generated on 2025-09-27 21:08:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -369,7 +369,7 @@ _Generated on 2025-09-27 21:04:01 UTC_
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
     - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md)
-      - [`📸_ street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_ street_photography_counter_surveillance.md)
+      - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
     - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/)
       - [**🌹_Demonstrating_High_Value/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md)
