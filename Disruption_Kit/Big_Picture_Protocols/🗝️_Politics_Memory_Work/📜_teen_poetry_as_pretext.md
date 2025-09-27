@@ -1,5 +1,5 @@
 # 📜 Teen Poetry as Pretext  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
 *How adolescent expression under pseudonyms is misframed as “extremism evidence”*  
 
 ---
@@ -45,4 +45,4 @@ It illustrates how banal creative expression can be weaponised as institutional 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_
+_Last updated: 2025-09-27_
