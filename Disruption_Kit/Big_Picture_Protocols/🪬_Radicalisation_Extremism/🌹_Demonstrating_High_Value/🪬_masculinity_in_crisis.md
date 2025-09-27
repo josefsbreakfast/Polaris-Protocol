@@ -81,7 +81,7 @@ flowchart TD
 It situates modern manosphere and far-right grievance masculinities within a longer history of patriarchal cycles, showing how class and wealth inequality are disguised as gender crisis.  
 
 📡 Cross-references:  
-- [🐺 AMOG (Alpha Male of Group)](./🐺_amog_alpha_male_of_group.md)  
+- [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md)  
 - [💊 Red Pill](./💊_red_pill.md)  
 - [🌹 Demonstrating Higher Value](./🌹_demonstrating_higher_value.md)  
 - [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
