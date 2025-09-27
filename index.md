@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 21:20:23 UTC_
+_Generated on 2025-09-27 21:21:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -330,6 +330,7 @@ _Generated on 2025-09-27 21:20:23 UTC_
       - [`🕯️_containment_through_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🕯️_containment_through_loneliness.md)
       - [`🗝️_deliberate_cultural_violation.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md)
       - [`🗝️_eccentric_custody_wellcome_collection.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_eccentric_custody_wellcome_collection.md)
+      - [`🗝️_guardianship_as_nonstate_custody.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_guardianship_as_nonstate_custody.md)
       - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
       - [`🧠_ai_harms_are_not_new.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md)
       - [`🧠_bargain_bin_mossad.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
@@ -948,7 +949,6 @@ _Generated on 2025-09-27 21:20:23 UTC_
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🗝_guardianship_as_nonstate_custody.md`](Polaris_Nest/Git_Intake_Drawer/🗝_guardianship_as_nonstate_custody.md)
     - [`🗝️_illusion_of_caldicott_compliance.md`](Polaris_Nest/Git_Intake_Drawer/🗝️_illusion_of_caldicott_compliance.md)
     - [`🚨_superinjunctions_slapps_rape_cases.md`](Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md)
     - [`🛑_ignored_evidence_nudge_2014_2016.md`](Polaris_Nest/Git_Intake_Drawer/🛑_ignored_evidence_nudge_2014_2016.md)
