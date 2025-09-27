@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 22:50:22 UTC_
+_Generated on 2025-09-27 22:51:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -968,7 +968,6 @@ _Generated on 2025-09-27 22:50:22 UTC_
     - [`🍴_fork_taxonomy.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy.md)
     - [`🍴_fork_taxonomy_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🍴_fork_taxonomy_FULL.md)
     - [`🎖️_medal_for_mum.md`](Polaris_Nest/Git_Intake_Drawer/🎖️_medal_for_mum.md)
-    - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/Git_Intake_Drawer/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
     - [`🎩🏳️‍⚧️_placeholder_stranger_ipa_potential_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🎩🏳️‍⚧️_placeholder_stranger_ipa_potential_hypothesis.md)
     - [`🎶_hdz_lalgorithme_paroles.md`](Polaris_Nest/Git_Intake_Drawer/🎶_hdz_lalgorithme_paroles.md)
@@ -1102,6 +1101,7 @@ _Generated on 2025-09-27 22:50:22 UTC_
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
     - [`🎏_dividers_and_headers.md`](Polaris_Nest/🏮_Admin_Kit/🎏_dividers_and_headers.md)
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/🏮_Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
+    - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🐝_template_node.md`](Polaris_Nest/🏮_Admin_Kit/🐝_template_node.md)
     - [`🐾_footer_seals.md`](Polaris_Nest/🏮_Admin_Kit/🐾_footer_seals.md)
     - [`🔥_NOTICE.md`](Polaris_Nest/🏮_Admin_Kit/🔥_NOTICE.md)
