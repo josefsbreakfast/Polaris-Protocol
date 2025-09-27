@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 21:41:57 UTC_
+_Generated on 2025-09-27 21:43:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -518,6 +518,7 @@ _Generated on 2025-09-27 21:41:57 UTC_
     - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_ghost_session_compete_log_2025-08-27.md)
     - [`🛰️_handlers_at_the_table.md`](Disruption_Kit/Field_Logs/🛰️_handlers_at_the_table.md)
     - [`🛰️_icc_tag_thread_containment.md`](Disruption_Kit/Field_Logs/🛰️_icc_tag_thread_containment.md)
+    - [`🛰️_intentionality_assessment_data_twinning_cluster_2016.md`](Disruption_Kit/Field_Logs/🛰️_intentionality_assessment_data_twinning_cluster_2016.md)
     - [`🛰️_late_stage_signoff_map_triple_lock_continuation.md`](Disruption_Kit/Field_Logs/🛰️_late_stage_signoff_map_triple_lock_continuation.md)
     - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
     - [`🛰️_mainstream_visibility_anomalies_2025-09-12.md`](Disruption_Kit/Field_Logs/🛰️_mainstream_visibility_anomalies_2025-09-12.md)
@@ -960,7 +961,6 @@ _Generated on 2025-09-27 21:41:57 UTC_
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🛰️_intentionality_assessment_2016_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_intentionality_assessment_2016_cluster.md)
     - [`🛰️_interference_and_throttling_context_2025-09-22.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_interference_and_throttling_context_2025-09-22.md)
     - [`🛰️_is_everyones_surveillence_still_ongoing.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_is_everyones_surveillence_still_ongoing.md)
     - [`🛰️_network_instability_forking_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_network_instability_forking_2025-09-16.md)
