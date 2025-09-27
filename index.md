@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 21:28:23 UTC_
+_Generated on 2025-09-27 21:30:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -122,6 +122,7 @@ _Generated on 2025-09-27 21:28:23 UTC_
       - [`🗝️_governance_central_data_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_governance_central_data_outsourcing.md)
       - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛂_gated_intake_post_delay_regional_loop.md)
+      - [`🛡️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_exploitability_and_defensive_strategy.md)
       - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛬_translation_null_zone.md)
       - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_ai_middleware.md)
       - [`🛰️_data_fusion_centres.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_data_fusion_centres.md)
@@ -953,7 +954,6 @@ _Generated on 2025-09-27 21:28:23 UTC_
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🛡️_exploitability_and_defensive_strategy.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_exploitability_and_defensive_strategy.md)
     - [`🛰️_codename_table_loss_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_codename_table_loss_2025-09-20.md)
     - [`🛰️_dns_failure_for_explaining_myself_accurately.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_dns_failure_for_explaining_myself_accurately.md)
     - [`🛰️_fls_hard_today_2025-09-16.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_fls_hard_today_2025-09-16.md)
