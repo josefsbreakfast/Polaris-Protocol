@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 18:52:28 UTC_
+_Generated on 2025-09-27 19:02:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -105,7 +105,6 @@ _Generated on 2025-09-27 18:52:28 UTC_
       - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📜_uk_data_bill_2025.md)
       - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📜_uk_house_of_lords_2025.md)
       - [`📡_metadata_scrutiny_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📡_metadata_scrutiny_uk.md)
-      - [`📦_containment_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📦_containment_as_industry.md)
       - [`📺_contractors_vs_media_clusters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📺_contractors_vs_media_clusters.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
@@ -343,6 +342,7 @@ _Generated on 2025-09-27 18:52:28 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/README.md)
       - [`💷_migration_as_liability_shield.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)
       - [`📊_immigration_myths_and_impacts.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md)
+      - [`📦_containment_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📦_containment_as_industry.md)
       - [`🛟_harm_reduction_asylum_routes.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_asylum_routes.md)
       - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
