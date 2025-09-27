@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 08:46:33 UTC_
+_Generated on 2025-09-27 09:53:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -308,6 +308,7 @@ _Generated on 2025-09-27 08:46:33 UTC_
       - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
       - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
       - [`💌_survivor_consent_is_not_yours.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💌_survivor_consent_is_not_yours.md)
+      - [`💣_the_cultural_bomb.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md)
       - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
       - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
       - [`📩_ghost_vs_haunting_chart_2025-08-12.csv`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📩_ghost_vs_haunting_chart_2025-08-12.csv)
