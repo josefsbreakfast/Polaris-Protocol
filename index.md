@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 21:59:45 UTC_
+_Generated on 2025-09-27 22:01:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -536,6 +536,7 @@ _Generated on 2025-09-27 21:59:45 UTC_
     - [`🛰️_patterns_update_interference_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_patterns_update_interference_2025-09-20.md)
     - [`🛰️_patterns_update_user_observations_context_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_patterns_update_user_observations_context_2025-09-20.md)
     - [`🛰️_precursors_summary_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_precursors_summary_2025-09-19.md)
+    - [`🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md)
     - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
     - [`🛰️_reputational_unit_12_saluting_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reputational_unit_12_saluting_2025-08-13.md)
@@ -968,7 +969,6 @@ _Generated on 2025-09-27 21:59:45 UTC_
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🛰️_proximity_to_experiments_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_proximity_to_experiments_note.md)
     - [`🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md)
     - [`🛰️_retrospective_cross_references_throttling_2025-09-22.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_retrospective_cross_references_throttling_2025-09-22.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
