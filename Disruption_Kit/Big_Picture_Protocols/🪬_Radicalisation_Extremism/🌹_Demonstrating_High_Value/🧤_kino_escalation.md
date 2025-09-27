@@ -119,7 +119,7 @@ It documents how a PUA tactic of physical manipulation translates into boundary 
 
 📡 Cross-references:  
 - [🌹 Negging](./🌹_Negging.md)  
-- [🐺 AMOG (Alpha Male of Group)](./🐺_amog_alpha_male_of_group.md)  
+- [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md)  
 - [💊 Red Pill](./💊_red_pill.md)  
 - [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
 
