@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 22:53:24 UTC_
+_Generated on 2025-09-27 22:55:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1004,7 +1004,6 @@ _Generated on 2025-09-27 22:53:24 UTC_
     - [`🧰_leave_me_alone_playbook.md`](Polaris_Nest/Git_Intake_Drawer/🧰_leave_me_alone_playbook.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
-    - [`🧿_intake_drawer_balancing_harms.md`](Polaris_Nest/Git_Intake_Drawer/🧿_intake_drawer_balancing_harms.md)
     - [`🪐_my_britannia.md`](Polaris_Nest/Git_Intake_Drawer/🪐_my_britannia.md)
     - [`🪐_where_the_fuck_am i.md`](Polaris_Nest/Git_Intake_Drawer/🪐_where_the_fuck_am i.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
@@ -1107,6 +1106,7 @@ _Generated on 2025-09-27 22:53:24 UTC_
     - [`🔥_NOTICE.md`](Polaris_Nest/🏮_Admin_Kit/🔥_NOTICE.md)
     - [`🔮_house_style.md`](Polaris_Nest/🏮_Admin_Kit/🔮_house_style.md)
     - [`🧧_GIT_INTAKE_README.md`](Polaris_Nest/🏮_Admin_Kit/🧧_GIT_INTAKE_README.md)
+    - [`🧿_intake_drawer_balancing_harms.md`](Polaris_Nest/🏮_Admin_Kit/🧿_intake_drawer_balancing_harms.md)
     - [`🧿_visual_palette.md`](Polaris_Nest/🏮_Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
   - [`README.md`](Polaris_Nest/README.md)
