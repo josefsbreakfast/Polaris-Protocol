@@ -77,3 +77,42 @@ It documents how coercion at the border is systemic, combining surveillance, vis
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-09-26_  
+
+
+# ⚖️ Coercive Control in Border Policy  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-16  
+*Shifting definitions of “legal” vs “illegal” migration mirror coercive control*  
+
+---
+
+## Core Idea  
+- Domestic law: coercive control (Serious Crime Act 2015).  
+- Pattern: impossible rules, moving goalposts, punishment for failure.  
+- Border policy = same structure applied to whole populations.  
+
+---
+
+## Mechanisms  
+- **Moving goalposts:** past routes closed, new ones nationality-specific.  
+- **Punishment:** irregular arrivals criminalised despite no legal alternative.  
+- **Dependency:** asylum seekers barred from work, reliant on £49/wk, isolated in hotels.  
+
+---
+
+## Why This Matters  
+- If a partner acted this way → crime.  
+- When the state does it → “policy.”  
+- Naming it exposes abuse structure.  
+
+---
+
+## 🏮 Footer  
+
+*Coercive Control in Border Policy* is a Polaris node documenting asylum rules as structural abuse.  
+
+> 📡 Cross-references:  
+> - [🛟 Harm Reduction Asylum Routes](./🛟_harm_reduction_asylum_routes.md)  
+> - [📊 Immigration Myths and Impacts](./📊_immigration_myths_and_impacts.md)  
+> - [💷 Migration as Liability Shield](./💷_migration_as_liability_shield.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
