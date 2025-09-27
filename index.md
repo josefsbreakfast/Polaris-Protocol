@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 22:06:28 UTC_
+_Generated on 2025-09-27 22:12:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -539,6 +539,7 @@ _Generated on 2025-09-27 22:06:28 UTC_
     - [`🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md)
     - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
+    - [`🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md`](Disruption_Kit/Field_Logs/🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md)
     - [`🛰️_reputational_unit_12_saluting_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reputational_unit_12_saluting_2025-08-13.md)
     - [`🛰️_rerouting_after_mark_commit_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_rerouting_after_mark_commit_2025-09-20.md)
     - [`🛰️_reset_state_analysis_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reset_state_analysis_2025-08-13.md)
@@ -970,7 +971,6 @@ _Generated on 2025-09-27 22:06:28 UTC_
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
-    - [`🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🛰️_stasi_style_email_mirroring_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stasi_style_email_mirroring_2025-09-20.md)
     - [`🛰️_structural_vulnerabilities_media_harm_2025-09-20.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_structural_vulnerabilities_media_harm_2025-09-20.md)
