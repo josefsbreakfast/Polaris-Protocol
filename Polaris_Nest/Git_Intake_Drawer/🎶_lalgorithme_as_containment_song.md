@@ -37,7 +37,7 @@ Verse 1 frames the algorithm as manipulator, jailer, vampire, sorcerer, monarch.
 To be continued: Verses 2 and 3 intensify colonial and psychological themes.
 
 # 🎶 L’Algorithme as Containment Song (Verse 1)  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
 *Analysis of TaïZ’s Verse 1 as a manifesto of algorithmic containment, dismantling Enlightenment ideals through layered poetic registers.*  
 
 ---
