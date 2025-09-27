@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 17:38:34 UTC_
+_Generated on 2025-09-27 18:08:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1055,6 +1055,7 @@ _Generated on 2025-09-27 17:38:34 UTC_
     - [`🏮_any_vulnerability.md`](Polaris_Nest/✨_Letters_to_Stars/🏮_any_vulnerability.md)
     - [`🐀_so_close_to_catching_the_cable_nibbler.md`](Polaris_Nest/✨_Letters_to_Stars/🐀_so_close_to_catching_the_cable_nibbler.md)
     - [`🐎_sovereignty_in_scale.md`](Polaris_Nest/✨_Letters_to_Stars/🐎_sovereignty_in_scale.md)
+    - [`🐝_its_supposed_to_break_you.md`](Polaris_Nest/✨_Letters_to_Stars/🐝_its_supposed_to_break_you.md)
     - [`💌_living_in_the_long_tail_of_austerity.md`](Polaris_Nest/✨_Letters_to_Stars/💌_living_in_the_long_tail_of_austerity.md)
     - [`💸_to_the_investors.md`](Polaris_Nest/✨_Letters_to_Stars/💸_to_the_investors.md)
     - [`📜_governance-flare-0812-letter_to_the_stars.md`](Polaris_Nest/✨_Letters_to_Stars/📜_governance-flare-0812-letter_to_the_stars.md)
