@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-27 10:57:35 UTC_
+_Generated on 2025-09-27 10:58:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1132,6 +1132,7 @@ _Generated on 2025-09-27 10:57:35 UTC_
     - [`README.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/README.md)
     - [`🌙_sleep_sabotage.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🌙_sleep_sabotage.md)
     - [`🎶_she_knows_loop.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🎶_she_knows_loop.md)
+    - [`📿_golem_of_prague.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/📿_golem_of_prague.md)
   - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
     - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
     - [`👻_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👻_ghost_capture_fragment.md)
