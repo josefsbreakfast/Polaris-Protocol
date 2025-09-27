@@ -55,6 +55,19 @@ Humiliation produced feedback cycles:
 
 ---
 
+## 🪢 Containment Loop: Humiliation as Governance  
+
+```mermaid
+flowchart LR
+    M[🔖 Marking<br>Badges, hats, ghettos] --> 
+    R[😡 Ridicule<br>Externalisation & mockery] --> 
+    E[🚫 Exclusion<br>Isolation from community life] --> 
+    P[🔥 Pogroms<br>Expulsions & violence] --> 
+    N[♻️ Normalisation<br>Repetition as policy] --> M
+```
+
+---
+
 ## 🔗 Polaris Relevance  
 
 - Shows containment as psychological: humiliation itself becomes governance.  
