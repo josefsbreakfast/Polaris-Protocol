@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 05:59:34 UTC_
+_Generated on 2025-09-28 06:13:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -344,6 +344,7 @@ _Generated on 2025-09-28 05:59:34 UTC_
       - [`🧠_le_carré_meets_alice_in_wonderland.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_le_carré_meets_alice_in_wonderland.md)
       - [`🧠_leveraged_bad_luck.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_leveraged_bad_luck.md)
       - [`🧠_the_science_that_survives_borders.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_the_science_that_survives_borders.md)
+      - [`🧪_breeding_trope_as_eugenics.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧪_breeding_trope_as_eugenics.md)
       - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧭_uk_tech_talent_scaling_policy_timeline.md)
       - [`🧾_data_is_their_cage_too.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧾_data_is_their_cage_too.md)
       - [`🪦_metadata_ghosts_and_hauntings.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🪦_metadata_ghosts_and_hauntings.md)
@@ -986,7 +987,6 @@ _Generated on 2025-09-28 05:59:34 UTC_
     - [`🦤_bird_law_uk_edition.md`](Polaris_Nest/Git_Intake_Drawer/🦤_bird_law_uk_edition.md)
     - [`🦤_expectations_remain.md`](Polaris_Nest/Git_Intake_Drawer/🦤_expectations_remain.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
-    - [`🧪_breeding_trope_as_eugenics.md`](Polaris_Nest/Git_Intake_Drawer/🧪_breeding_trope_as_eugenics.md)
     - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Polaris_Nest/Git_Intake_Drawer/🧪_did_unis_really_address_rape_epidemic_tho.md)
     - [`🧪_ego_insurance_but_make_it_personal.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ego_insurance_but_make_it_personal.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
