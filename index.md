@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:50:15 UTC_
+_Generated on 2025-09-28 16:52:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -38,7 +38,6 @@ _Generated on 2025-09-28 16:50:15 UTC_
       - [`⚖️_public_inquiry_business_case.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_public_inquiry_business_case.md)
       - [`⚖️_redress_models_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_redress_models_and_limits.md)
       - [`⚖️_registered_professions_impact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_registered_professions_impact.md)
-      - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_rings_of_power_universities.md)
       - [`⚖️_shadow_governance_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_shadow_governance_timeline.md)
       - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_slapps_uk_global_palestine.md)
       - [`⚖️_small_bureaucrats_catch22.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_small_bureaucrats_catch22.md)
@@ -160,6 +159,7 @@ _Generated on 2025-09-28 16:50:15 UTC_
       - [`BUCS_league_table_dataentry_template.csv`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/BUCS_league_table_dataentry_template.csv)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/README.md)
       - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
+      - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
       - [`⚖️_the_strangest_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_the_strangest_duty_of_care.md)
       - [`⚠️_authoritarian_incentives_in_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚠️_authoritarian_incentives_in_universities.md)
       - [`🌍_soft_power_and_international_resentment.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md)
