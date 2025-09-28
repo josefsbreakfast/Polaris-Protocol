@@ -1,5 +1,5 @@
 # 📜 UK House of Lords 2025  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-04 | **Last updated:** 2025-09-28  
 *Timeline of the House of Lords (Hereditary Peers) Bill 2024–2025 — from manifesto pledge to Lords pushback and public response.*  
 
 ---
@@ -72,10 +72,6 @@
 *UK House of Lords 2025* is a living node of the Polaris Protocol.  
 It documents the contested removal of hereditary peers, the amendments that diluted reform, and the wider public demand for deeper constitutional change.  
 
-> 📡 Cross-references:  
-> - [System Governance](../🌀_System_Governance/) — state reform timelines and constitutional diagnostics  
-> - [Politics Memory Work](../🗝️_Politics_Memory_Work/) — archives of parliamentary manoeuvres and reform debates  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-09-28_
