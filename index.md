@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:37:37 UTC_
+_Generated on 2025-09-28 20:17:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -132,6 +132,7 @@ _Generated on 2025-09-28 17:37:37 UTC_
       - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
       - [`⚖️_the_strangest_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_the_strangest_duty_of_care.md)
       - [`⚠️_authoritarian_incentives_in_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚠️_authoritarian_incentives_in_universities.md)
+      - [`⛩️_very_secret_peer_review.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)
       - [`🌍_soft_power_and_international_resentment.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md)
       - [`🎓_anglia_ruskin_university_cambridge_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_anglia_ruskin_university_cambridge_compliance_profile.md)
       - [`🎓_aston_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_aston_university_compliance_profile.md)
