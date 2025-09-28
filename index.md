@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:24:16 UTC_
+_Generated on 2025-09-28 17:25:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -85,7 +85,6 @@ _Generated on 2025-09-28 17:24:16 UTC_
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
-      - [`🗂️_cse_scandals_post-2013.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗂️_cse_scandals_post-2013.md)
       - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_contingency_erasure.md)
       - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_custodianship_illusion.md)
       - [`🗝_privatised_record_keeping.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_privatised_record_keeping.md)
@@ -312,6 +311,7 @@ _Generated on 2025-09-28 17:24:16 UTC_
       - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/💢_draft_prevent_ihl.md)
       - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📑_the_case_of_the_disappearing_reviews.md)
+      - [`🗂️_cse_scandals_post-2013.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🗂️_cse_scandals_post-2013.md)
       - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
       - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
