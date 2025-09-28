@@ -1,5 +1,5 @@
 # 🏛️ Neocon Think Tank Cluster  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-28  
 *How “sensible” UK think tanks launder US-style neoliberal and neoconservative agendas*  
 
 ---
@@ -58,14 +58,15 @@
 ## 🏮 Footer  
 
 *Neocon Think Tank Cluster* is a living node of the Polaris Protocol.  
-It documents how a network of UK policy institutes, branded as “sensible,” launders neoliberal + neocon agendas into national politics.  
+It documents how a network of UK policy institutes, branded as “sensible,” launders neoliberal and neocon agendas into national politics.  
 
 > 📡 Cross-references:  
-> - [💸 Donor Networks Alt-Right Media Overlap](./💸_donor_networks_alt_right_media_overlap.md) — donor/media ecosystem  
-> - [📺 Contractors vs Media Clusters](./📺_contractors_vs_media_clusters.md) — convergence of industry vs narrative actors  
+> - [📺 Money Talks Media](../📺_Money_Talks_Media/) — donor pipelines and broadcast ecosystems  
 > - [🧬 Cambridge Analytica Genealogy](./🧬_cambridge_analytica_genealogy.md) — persistence of data-driven campaigns  
-> - [💷 Migration as Liability Shield](../Cluster1/💷_migration_as_liability_shield.md) — elite wealth protection  
+> - [💸 Donor Networks Alt-Right Media Overlap](./💸_donor_networks_alt_right_media_overlap.md) — donor/media ecosystems  
+> - [📺 Contractors vs Media Clusters](./📺_contractors_vs_media_clusters.md) — convergence of industry vs narrative actors  
+> - [💷 Migration as Liability Shield](../../Migration_Borders_Harm_Reduction/💷_migration_as_liability_shield.md) — elite wealth protection  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-09-28_
