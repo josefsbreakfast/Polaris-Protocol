@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:30:53 UTC_
+_Generated on 2025-09-28 17:32:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -111,7 +111,6 @@ _Generated on 2025-09-28 17:30:53 UTC_
       - [`🧠_transformative_learning_window.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_transformative_learning_window.md)
       - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_value_of_the_outlier.md)
       - [`🧨_crisis_actor_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧨_crisis_actor_dynamics.md)
-      - [`🧨_real_vs_fake_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧨_real_vs_fake_duty_of_care.md)
       - [`🧪_ego_insurance_but_make_it_personal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_ego_insurance_but_make_it_personal.md)
       - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_failure_recycling.md)
       - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_pilot_containments.md)
@@ -311,6 +310,7 @@ _Generated on 2025-09-28 17:30:53 UTC_
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📑_the_case_of_the_disappearing_reviews.md)
       - [`🗂️_cse_scandals_post-2013.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🗂️_cse_scandals_post-2013.md)
       - [`🦈_surveillance_by_misread_and_malice.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🦈_surveillance_by_misread_and_malice.md)
+      - [`🧨_real_vs_fake_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧨_real_vs_fake_duty_of_care.md)
       - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
       - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
