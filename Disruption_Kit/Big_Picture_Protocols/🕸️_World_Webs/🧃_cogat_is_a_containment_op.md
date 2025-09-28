@@ -1,5 +1,3 @@
-Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md
-
 # 🧃 COGAT is a Containment Operation
 
 **First created:** 2025-09-26  
