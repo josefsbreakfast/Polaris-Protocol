@@ -1,5 +1,5 @@
 # 🧰 Leave-Me-Alone Playbook  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-28  
 *Concise, privacy-first checklist for reclaiming digital calm and gathering low-risk evidence.*
 
 ## Goal
@@ -55,4 +55,4 @@ It offers hands-on, privacy-first steps to reclaim calm and to collect evidentia
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-09-28_
