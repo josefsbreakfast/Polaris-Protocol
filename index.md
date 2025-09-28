@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:14:15 UTC_
+_Generated on 2025-09-28 17:17:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -62,7 +62,6 @@ _Generated on 2025-09-28 17:14:15 UTC_
       - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎊_multi_party_data_twinning.md)
       - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
       - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👁️_panopticon_as_industry.md)
-      - [`💄_plastic_masculinity_knives.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💄_plastic_masculinity_knives.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💄_surveillance_or_pervert_with_a_badge.md)
       - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💢_draft_prevent_ihl.md)
       - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💣_energy_rents_and_strongman_panic.md)
@@ -410,6 +409,7 @@ _Generated on 2025-09-28 17:14:15 UTC_
       - [`🏛️_master_council_overlay.csv`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_master_council_overlay.csv)
       - [`🏛️_master_council_overlay_table.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md)
       - [`🏨_hotels_protests_and_power_consolidation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md)
+      - [`💄_plastic_masculinity_knives.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
       - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
       - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
       - [`📣_mainstream_visibility_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📣_mainstream_visibility_gaps.md)
