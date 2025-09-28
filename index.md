@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:32:25 UTC_
+_Generated on 2025-09-28 21:36:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -71,7 +71,6 @@ _Generated on 2025-09-28 21:32:25 UTC_
       - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md)
       - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
-      - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_student_default_faultline.md)
       - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🔬_lost_checks_and_balances.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
@@ -254,6 +253,7 @@ _Generated on 2025-09-28 21:32:25 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
       - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
       - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
+      - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
       - [`🔬_operation_no_sanctuary.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🔬_operation_no_sanctuary.md)
       - [`🗡_narrative_management_and_metadata_storage.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🗡_narrative_management_and_metadata_storage.md)
       - [`🚨_super_injunctions_and_slapps_in_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🚨_super_injunctions_and_slapps_in_rape_cases.md)
