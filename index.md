@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:02:27 UTC_
+_Generated on 2025-09-28 17:05:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -87,7 +87,6 @@ _Generated on 2025-09-28 17:02:27 UTC_
       - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_narrative_management_and_metadata_sabotage.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
-      - [`📚_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_print_culture_as_precedent.md)
       - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_student_default_faultline.md)
       - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📜_uk_data_bill_2025.md)
       - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📜_uk_house_of_lords_2025.md)
@@ -267,6 +266,7 @@ _Generated on 2025-09-28 17:02:27 UTC_
       - [`📚_knowledge_policing_and_banned_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_knowledge_policing_and_banned_books.md)
       - [`📚_muted_book_investigation.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_muted_book_investigation.md)
       - [`📚_muted_volumes_from_the_cemetery_of_forgotten_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_muted_volumes_from_the_cemetery_of_forgotten_books.md)
+      - [`📚_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_print_culture_as_precedent.md)
       - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
       - [`📱_feed_manipulation_and_containment_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
       - [`🔥_suppression_and_quasi_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🔥_suppression_and_quasi_suppression.md)
