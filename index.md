@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 20:22:05 UTC_
+_Generated on 2025-09-28 20:23:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -314,6 +314,8 @@ _Generated on 2025-09-28 20:22:05 UTC_
       - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
       - [`🧬_shadow_audit_trails.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_audit_trails.md)
       - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
+    - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
