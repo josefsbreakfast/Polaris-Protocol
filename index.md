@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:06:13 UTC_
+_Generated on 2025-09-28 17:07:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -91,7 +91,6 @@ _Generated on 2025-09-28 17:06:13 UTC_
       - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📜_uk_data_bill_2025.md)
       - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📜_uk_house_of_lords_2025.md)
       - [`📡_metadata_scrutiny_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📡_metadata_scrutiny_uk.md)
-      - [`📺_contractors_vs_media_clusters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📺_contractors_vs_media_clusters.md)
       - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🔬_lost_checks_and_balances.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
@@ -306,6 +305,7 @@ _Generated on 2025-09-28 17:06:13 UTC_
     - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/README.md)
       - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
+      - [`📺_contractors_vs_media_clusters.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/📺_contractors_vs_media_clusters.md)
       - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
