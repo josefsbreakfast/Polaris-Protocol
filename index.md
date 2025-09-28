@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 20:23:01 UTC_
+_Generated on 2025-09-28 20:25:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -24,7 +24,6 @@ _Generated on 2025-09-28 20:23:01 UTC_
       - [`loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/loop_triad_tickbox_containment_fatigue_patch_repair.md)
       - [`⏳_delay_scripts_near_deadlines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⏳_delay_scripts_near_deadlines.md)
       - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_authorisation_and_oversight.md)
-      - [`⚖️_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_china_soft_ops_vs_russia_hard_ops.md)
       - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_compliance_as_opacity.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
       - [`⚖️_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_escalation_vs_play_timeline.csv)
@@ -316,6 +315,7 @@ _Generated on 2025-09-28 20:23:01 UTC_
       - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
+      - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
