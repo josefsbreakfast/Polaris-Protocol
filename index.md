@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 23:34:27 UTC_
+_Generated on 2025-09-28 23:36:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -22,7 +22,6 @@ _Generated on 2025-09-28 23:34:27 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/loop_tickbox_vs_cognitive_load.md)
       - [`loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/loop_triad_tickbox_containment_fatigue_patch_repair.md)
-      - [`⏳_delay_scripts_near_deadlines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⏳_delay_scripts_near_deadlines.md)
       - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_authorisation_and_oversight.md)
       - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_compliance_as_opacity.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
@@ -693,6 +692,7 @@ _Generated on 2025-09-28 23:34:27 UTC_
       - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
+      - [`⏳_delay_scripts_near_deadlines.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md)
       - [`⏳_looped_waiting_rooms_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms_2025-09-13.md)
       - [`✡️_shabbat_exemption_inversion.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/✡️_shabbat_exemption_inversion.md)
       - [`🌀_confused_feed_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md)
