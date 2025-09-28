@@ -1,5 +1,5 @@
 # 💸 Russian Overlap Patterns  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-28  
 *Governance, financial, and information-space overlaps enabling Russian incursions (2010–2025).*
 
 ---
@@ -143,4 +143,4 @@ It documents overlaps in finance, governance, and data economies that intersect 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_
+_Last updated: 2025-09-28_
