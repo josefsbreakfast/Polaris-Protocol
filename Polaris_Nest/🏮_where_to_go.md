@@ -1,5 +1,5 @@
 # 🏮 Where to Go  
-**First created:** 2025-09-12 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-12 | **Last updated:** 2025-09-28  
 *Decision tree for filing new nodes into the Polaris Protocol repository*  
 
 ---
@@ -22,17 +22,25 @@ flowchart TD
   B -->|Yes| B1[Polaris_Nest / 🏮 Admin_Kit — House Style, Branding Guide]
   B -->|No| C{Defines systemic rules / protocol structure?}
 
-  %% Big Picture Protocols narrowed routing
+  %% Big Picture Protocols narrowed routing (REFRESHED)
   C -->|Yes| Cpick{Which systemic axis?}
   C -->|No| D{Practical survivor tool / countermeasure?}
 
-  Cpick -->|Governance logics, control loops, bureaucracy| C1[🌀 System_Governance]
+  Cpick -->|Governance logics, authorisation chains| C1[🌀 System_Governance]
+  Cpick -->|Human dignity, ethics frames| C1b[🌱 Human_Principles]
+  Cpick -->|University compliance & discipline| C1c[🎓 British_University_Compliance_Service]
+  Cpick -->|Media / broadcast bans & circulation| C7[🎶 Banned_Broadcasts_Cooperative]
   Cpick -->|Trauma, psychology & medical misuse| C2[🐦‍🔥 Trauma_Psycology_Medical_Misuse]
   Cpick -->|Forensic witness histories reshaped / suppressed| C3[👁️‍🗨️ Witness_Historical_Casefiles]
   Cpick -->|Memory, narrative suppression, politicised identity| C4[🗝️ Politics_Memory_Work]
   Cpick -->|UK gov nudge units & coercive applications| C5[🧠 HM_Dept_Coercive_Nudges]
-  Cpick -->|Radicalisation pipelines & platform dynamics| C6[🪬 Radicalisation_Extremism]
-  Cpick -->|Media / broadcast bans, cultural removals| C7[🎶 Banned_Broadcasts_Cooperative]
+  Cpick -->|Radicalisation, Prevent & platform dynamics| C6[🪬 Radicalisation_Extremism]
+  Cpick -->|Laws & statutory architectures| C8[📜 Statutes]
+  Cpick -->|Money, donors, media capture| C9[📺 Money_Talks_Media]
+  Cpick -->|Safeguarding industry shadows| C10[🕯 Exorcising_Safeguarding_Shadows]
+  Cpick -->|Global entanglements & diasporas| C11[🕸️ World_Webs]
+  Cpick -->|Borders, asylum & maritime control| C12[🛟 Borders_Boats_Walls]
+  Cpick -->|Oversight of oversight| C13[🧿 Watch_The_Watchers]
 
   %% BBC split for datasets vs narrative nodes
   C7 --> C7pick{Dataset / structured analysis?}
@@ -123,6 +131,22 @@ flowchart TD
   %% Final housekeeping
   B1 --> X[📑 Update index.md with emoji link + one-line scope]
   C1 --> X
+  C1b --> X
+  C1c --> X
+  C2 --> X
+  C3 --> X
+  C4 --> X
+  C5 --> X
+  C6 --> X
+  C7 --> X
+  C7a --> X
+  C7b --> X
+  C8 --> X
+  C9 --> X
+  C10 --> X
+  C11 --> X
+  C12 --> X
+  C13 --> X
   D1 --> X
   E1 --> X
   E2 --> X
