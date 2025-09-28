@@ -1,7 +1,6 @@
 # ⏳ Delay Scripts Near Deadlines  
-
-**First created:** 2025-09-25  
-**Last updated:** 2025-09-25  
+**First created:** 2025-09-25 | **Last updated:** 2025-09-29  
+*How institutions weaponise scripted delay to suppress exposure*  
 
 ---
 
@@ -70,8 +69,7 @@ flowchart TD
 
 ---
 
-```mermaid
-timeline
+```timeline
   title Delay Script Near Deadlines
   section Script Stages
     Initial confusion : Staff see duplicate, assume data error
@@ -83,4 +81,31 @@ timeline
 
 ---
 
-🏮 [affix footer]
+## 🌌 Constellations  
+
+⏳ 🕰️ 🧾  
+- **Franz Kafka — *The Trial***: endless procedural delay as suppression.  
+- **Terry Gilliam — *Brazil***: bureaucracy as containment theatre.  
+- **Samuel Beckett — *Waiting for Godot***: time stretched until action collapses.  
+
+---
+
+## ✨ Stardust  
+
+delay tactics, institutional suppression, deadline pressure, twin records, administrative containment, minimisation, audit concealment, systemic obstruction  
+
+---
+
+## 🏮 Footer  
+
+*Delay Scripts Near Deadlines* is a living node of the Polaris Protocol.  
+It documents how scripted postponement and administrative drift are deployed as deliberate containment strategies, particularly when institutional deadlines risk exposure.  
+
+> 📡 Cross-references:  
+> - [🌀 Confused Feed as Containment](🌀_confused_feed_as_containment.md) — incoherence as suppression tactic  
+> - [🧭 Oversight of Oversight](../../System_Governance/🧿_watch_the_watchers.md) — how audits themselves are managed  
+> - [👁️‍🗨️ Witness Historical Casefiles](../../👁️‍🗨️_Witness_Historical_Casefiles/) — survivor testimony against delay tactics  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-29_  
