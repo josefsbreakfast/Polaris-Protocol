@@ -1,5 +1,5 @@
 # 📺 Contractors vs Media Clusters  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-28  
 *Distinguishing the containment industry from donor-driven media empires — and showing where they converge*  
 
 ---
@@ -37,12 +37,6 @@
 *Contractors vs Media Clusters* is a living node of the Polaris Protocol.  
 It shows how industry actors and donor-media actors operate separately but converge politically to sustain containment.  
 
-> 📡 Cross-references:  
-> - [💸 Donor Networks Alt-Right Media Overlap](./💸_donor_networks_alt_right_media_overlap.md) — hedge-fund backers and platforms  
-> - [🏛️ Policy Exchange as Neocon Import](./🏛️_policy_exchange_as_neocon_import.md) — think-tank amplification  
-> - [⚖️ Containment Contract Trace](../Cluster2/⚖️_containment_contract_trace.md) — corporate outsourcing web  
-> - [📦 Containment as Industry](../Cluster2/📦_containment_as_industry.md) — profit incentives in delay  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_
+_Last updated: 2025-09-28_
