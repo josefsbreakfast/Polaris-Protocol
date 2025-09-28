@@ -1,6 +1,6 @@
 # 🧬 Report Twinning  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
-*When institutions create duplicate or misdirected versions of the same report, fracturing the evidential chain*
+**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
+*When institutions create duplicate or misdirected versions of the same report, fracturing the evidential chain*  
 
 ---
 
@@ -75,4 +75,4 @@ It documents how institutions fracture inquiry reports into polluted and displac
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_
+_Last updated: 2025-09-28_  
