@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:30:19 UTC_
+_Generated on 2025-09-28 17:30:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -368,7 +368,6 @@ _Generated on 2025-09-28 17:30:19 UTC_
       - [`🛟_harm_reduction_asylum_routes.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_asylum_routes.md)
       - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
       - [`🦕_partition_loop_borders_as_violence.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🦕_partition_loop_borders_as_violence.md)
-      - [`🦕_partition_loop_borders_as_violence2.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🦕_partition_loop_borders_as_violence2.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)
       - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
