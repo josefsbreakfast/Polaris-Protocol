@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:16:45 UTC_
+_Generated on 2025-09-28 21:18:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -78,7 +78,6 @@ _Generated on 2025-09-28 21:16:45 UTC_
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
-      - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_custodianship_illusion.md)
       - [`🗝_privatised_record_keeping.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_privatised_record_keeping.md)
       - [`🗝_who_holds_the_tape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_who_holds_the_tape.md)
       - [`🗝️_citizen_right_to_record_safety.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_citizen_right_to_record_safety.md)
@@ -337,6 +336,7 @@ _Generated on 2025-09-28 21:16:45 UTC_
       - [`🔥_suppression_as_signal.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)
       - [`🕯️_containment_through_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🕯️_containment_through_loneliness.md)
       - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_contingency_erasure.md)
+      - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_custodianship_illusion.md)
       - [`🗝️_deliberate_cultural_violation.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md)
       - [`🗝️_eccentric_custody_wellcome_collection.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_eccentric_custody_wellcome_collection.md)
       - [`🗝️_guardianship_as_nonstate_custody.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_guardianship_as_nonstate_custody.md)
