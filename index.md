@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:27:01 UTC_
+_Generated on 2025-09-28 16:41:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -320,6 +320,8 @@ _Generated on 2025-09-28 16:27:01 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/README.md)
       - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
       - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
+    - [**🕯_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Safeguarding_Shadows/)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Safeguarding_Shadows/README.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
