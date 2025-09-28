@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 20:42:52 UTC_
+_Generated on 2025-09-28 20:44:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -64,7 +64,6 @@ _Generated on 2025-09-28 20:42:52 UTC_
       - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_dept_clashes.md)
       - [`💷_survivor_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_survivor_costing_estimate.md)
       - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💸_repression_cost_capital.md)
-      - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💸_russian_overlap_patterns.md)
       - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📁_absence_of_check_in.md)
       - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_kpi_vs_okr_in_government.md)
       - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_scale_of_effects_estimate.md)
@@ -315,6 +314,7 @@ _Generated on 2025-09-28 20:42:52 UTC_
       - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
       - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🌏_from_escalation_to_play.md)
       - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
+      - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/💸_russian_overlap_patterns.md)
       - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
