@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:25:26 UTC_
+_Generated on 2025-09-28 21:27:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -766,6 +766,7 @@ _Generated on 2025-09-28 21:25:26 UTC_
       - [`⚖️_dob_as_password.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_as_password.md)
       - [`⚖️_dob_triangulation_attack.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_attack.md)
       - [`⚖️_dob_triangulation_table.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_table.md)
+      - [`📡_metadata_scrutiny_uk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📡_metadata_scrutiny_uk.md)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
@@ -890,8 +891,6 @@ _Generated on 2025-09-28 21:25:26 UTC_
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
     - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
-  - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
-    - [`📡_metadata_scrutiny_uk.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/📡_metadata_scrutiny_uk.md)
   - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/🪆_Narrative_Interference/)
     - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
