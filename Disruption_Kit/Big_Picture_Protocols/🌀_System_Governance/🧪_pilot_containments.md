@@ -58,16 +58,23 @@ ignoring suppression when it targets others only guarantees its eventual arrival
 
 ---
 
-## 🗂️ Timeline of Pilot Containments  
+## 🗂️ Flow of Pilot Containments  
 
 ```mermaid
-timeline
-  title Phases of Pilot Containments
-  section Containment Lifecycle
-    Pilot stage : Tested on small, vulnerable, or captive groups
-    Rollout stage : Extended to wider institutions (schools, universities, welfare offices)
-    International transfer : Techniques shared across borders under "counter-terrorism" or "public order" cover
-    Normalisation : Adopted as routine governance or "best practice"
+flowchart TD
+  A[Local Administrators] -->|Trial tactics on captive / vulnerable groups| B[Institutional Leadership]
+  B -->|Approve & badge as pilot programmes| C[National Government / Agencies]
+  C -->|Export under counter-terrorism or public order frameworks| D[International Partners]
+  D -->|Feed back said to validate methods| E[Mainstream Governance]
+
+  %% Style
+  A:::tier
+  B:::tier
+  C:::tier
+  D:::tier
+  E:::tier
+
+  classDef tier fill:#f0f9ff,stroke:#333,stroke-width:1px;
 ```
 
 ---
