@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 07:20:10 UTC_
+_Generated on 2025-09-28 07:21:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -72,7 +72,6 @@ _Generated on 2025-09-28 07:20:10 UTC_
       - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎊_multi_party_data_twinning.md)
       - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎓_university_vector_surveillance.md)
       - [`🏘️_council_incentives_hotels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏘️_council_incentives_hotels.md)
-      - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_neocon_think_tank_cluster.md)
       - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
       - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_state_patterns_of_forced_intimacy.md)
       - [`🏛️_uk_identity_cards_2000s.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_uk_identity_cards_2000s.md)
@@ -315,6 +314,7 @@ _Generated on 2025-09-28 07:20:10 UTC_
       - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_identity_documents_act_2010.md)
     - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/README.md)
+      - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
       - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
