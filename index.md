@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:29:24 UTC_
+_Generated on 2025-09-28 17:30:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -101,7 +101,6 @@ _Generated on 2025-09-28 17:29:24 UTC_
       - [`🛰️_post_9_11_surveillance_industry_legacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_post_9_11_surveillance_industry_legacy.md)
       - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_surveillance_infrastructure.md)
       - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_vendor_lock_in.md)
-      - [`🦕_partition_loop_borders_as_violence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦕_partition_loop_borders_as_violence.md)
       - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧃_cogat_is_a_containment_op.md)
       - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)
       - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_didnt_apply_brain_loop.md)
@@ -369,6 +368,7 @@ _Generated on 2025-09-28 17:29:24 UTC_
       - [`🛟_harm_reduction_asylum_routes.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_asylum_routes.md)
       - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
       - [`🦕_partition_loop_borders_as_violence.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🦕_partition_loop_borders_as_violence.md)
+      - [`🦕_partition_loop_borders_as_violence2.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🦕_partition_loop_borders_as_violence2.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)
       - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
