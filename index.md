@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:46:32 UTC_
+_Generated on 2025-09-28 23:29:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -46,7 +46,6 @@ _Generated on 2025-09-28 21:46:32 UTC_
       - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/❓_override_question_as_silence_breaker.md)
       - [`🌀_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_algorithmic_delay_and_pacing.md)
       - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_ambiguity_as_containment.md)
-      - [`🌀_confused_feed_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_confused_feed_as_containment.md)
       - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_managed_transition_vs_revolution.md)
       - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_parallel_channels.md)
       - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_prototype_surveillance_as_investor_pitch.md)
@@ -696,6 +695,7 @@ _Generated on 2025-09-28 21:46:32 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
       - [`⏳_looped_waiting_rooms_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms_2025-09-13.md)
       - [`✡️_shabbat_exemption_inversion.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/✡️_shabbat_exemption_inversion.md)
+      - [`🌀_confused_feed_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md)
       - [`🌀_recognition_without_resolution_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md)
       - [`🌑_induced_futility.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)
       - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
