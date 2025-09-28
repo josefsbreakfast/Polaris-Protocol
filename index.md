@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:36:47 UTC_
+_Generated on 2025-09-28 17:37:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -105,7 +105,6 @@ _Generated on 2025-09-28 17:36:47 UTC_
       - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)
       - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_didnt_apply_brain_loop.md)
       - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_humiliation_as_governance.md)
-      - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_targeting_logic_empathy_is_a_threat.md)
       - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_the_dev.md)
       - [`🧠_transformative_learning_window.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_transformative_learning_window.md)
       - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_value_of_the_outlier.md)
@@ -308,6 +307,7 @@ _Generated on 2025-09-28 17:36:47 UTC_
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📑_the_case_of_the_disappearing_reviews.md)
       - [`🗂️_cse_scandals_post-2013.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🗂️_cse_scandals_post-2013.md)
       - [`🦈_surveillance_by_misread_and_malice.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🦈_surveillance_by_misread_and_malice.md)
+      - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧠_targeting_logic_empathy_is_a_threat.md)
       - [`🧨_real_vs_fake_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧨_real_vs_fake_duty_of_care.md)
       - [`🧬_report_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning.md)
       - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
