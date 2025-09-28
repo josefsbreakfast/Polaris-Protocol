@@ -1,5 +1,5 @@
 # ⚖️ Coercive Control in Border Policy  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-28  
 *Analysis of how coercive control logics are embedded in border regimes, visa systems, and migration governance.*  
 
 ---
@@ -116,3 +116,5 @@ _Last updated: 2025-09-26_
 > - [💷 Migration as Liability Shield](./💷_migration_as_liability_shield.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-28_
