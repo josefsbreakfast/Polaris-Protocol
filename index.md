@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:47:48 UTC_
+_Generated on 2025-09-28 16:48:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -28,7 +28,6 @@ _Generated on 2025-09-28 16:47:48 UTC_
       - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_compliance_as_opacity.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_data_bill_peers_bill_genocide_duties.md)
-      - [`⚖️_erasure_and_predator_tolerance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_erasure_and_predator_tolerance.md)
       - [`⚖️_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_escalation_vs_play_timeline.csv)
       - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_international_laundering.md)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md)
@@ -1047,6 +1046,7 @@ _Generated on 2025-09-28 16:47:48 UTC_
   - [**✨_Letters_to_Stars/**](Polaris_Nest/✨_Letters_to_Stars/)
     - [`⁉️_conversation_erase_event.md`](Polaris_Nest/✨_Letters_to_Stars/⁉️_conversation_erase_event.md)
     - [`⚖️_cidt_by_withholding_record_safety.md`](Polaris_Nest/✨_Letters_to_Stars/⚖️_cidt_by_withholding_record_safety.md)
+    - [`⚖️_erasure_and_predator_tolerance.md`](Polaris_Nest/✨_Letters_to_Stars/⚖️_erasure_and_predator_tolerance.md)
     - [`⚖️_key_legal_issues_SARs_NDAs.md`](Polaris_Nest/✨_Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md)
     - [`✨_chronic_civic_grief.md`](Polaris_Nest/✨_Letters_to_Stars/✨_chronic_civic_grief.md)
     - [`✨_fragments_and_sparkles.md`](Polaris_Nest/✨_Letters_to_Stars/✨_fragments_and_sparkles.md)
