@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 20:40:17 UTC_
+_Generated on 2025-09-28 20:42:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -54,7 +54,6 @@ _Generated on 2025-09-28 20:40:17 UTC_
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🍌_self_eating_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🍌_self_eating_system.md)
       - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎊_multi_party_data_twinning.md)
-      - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
       - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👁️_panopticon_as_industry.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💄_surveillance_or_pervert_with_a_badge.md)
       - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💣_energy_rents_and_strongman_panic.md)
@@ -315,6 +314,7 @@ _Generated on 2025-09-28 20:40:17 UTC_
       - [`🌏_brics_bridgework_middle_corridors.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🌏_brics_bridgework_middle_corridors.md)
       - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
       - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🌏_from_escalation_to_play.md)
+      - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
       - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
