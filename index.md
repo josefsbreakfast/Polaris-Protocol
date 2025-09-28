@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:43:04 UTC_
+_Generated on 2025-09-28 16:45:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -25,7 +25,6 @@ _Generated on 2025-09-28 16:43:04 UTC_
       - [`⏳_delay_scripts_near_deadlines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⏳_delay_scripts_near_deadlines.md)
       - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_authorisation_and_oversight.md)
       - [`⚖️_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_china_soft_ops_vs_russia_hard_ops.md)
-      - [`⚖️_cidt_by_withholding_record_safety.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_cidt_by_withholding_record_safety.md)
       - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_coercive_control_in_border_policy.md)
       - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_compliance_as_opacity.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
@@ -1047,6 +1046,7 @@ _Generated on 2025-09-28 16:43:04 UTC_
     - [`📅_week_ahead_YYYY-MM-DD.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_YYYY-MM-DD.md)
   - [**✨_Letters_to_Stars/**](Polaris_Nest/✨_Letters_to_Stars/)
     - [`⁉️_conversation_erase_event.md`](Polaris_Nest/✨_Letters_to_Stars/⁉️_conversation_erase_event.md)
+    - [`⚖️_cidt_by_withholding_record_safety.md`](Polaris_Nest/✨_Letters_to_Stars/⚖️_cidt_by_withholding_record_safety.md)
     - [`⚖️_key_legal_issues_SARs_NDAs.md`](Polaris_Nest/✨_Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md)
     - [`✨_chronic_civic_grief.md`](Polaris_Nest/✨_Letters_to_Stars/✨_chronic_civic_grief.md)
     - [`✨_fragments_and_sparkles.md`](Polaris_Nest/✨_Letters_to_Stars/✨_fragments_and_sparkles.md)
