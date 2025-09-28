@@ -1,5 +1,5 @@
 # 📡 Metadata Scrutiny in the UK  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-01 | **Last updated:** 2025-09-28  
 *Oversight logics and opacity around communications data retention and access*  
 
 ---
@@ -51,4 +51,4 @@ It situates communications data oversight as formally layered but substantively 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-09-28_
