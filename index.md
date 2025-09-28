@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:57:05 UTC_
+_Generated on 2025-09-28 16:57:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -139,7 +139,6 @@ _Generated on 2025-09-28 16:57:05 UTC_
       - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_pilot_containments.md)
       - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_shadow_sandboxes.md)
       - [`🧬_report_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_report_twinning.md)
-      - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_report_twinning_index.md)
       - [`🧬_shadow_audit_trails.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_shadow_audit_trails.md)
       - [`🧾_twin_records_as_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧾_twin_records_as_vulnerability.md)
       - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🩹_patch_repair_governance.md)
@@ -317,6 +316,7 @@ _Generated on 2025-09-28 16:57:05 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
+      - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
       - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
