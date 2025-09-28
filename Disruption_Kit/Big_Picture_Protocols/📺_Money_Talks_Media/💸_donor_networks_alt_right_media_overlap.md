@@ -1,5 +1,5 @@
 # 💸 Donor Networks Alt-Right Media Overlap  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-16 | **Last updated:** 2025-09-28  
 *Hedge funds, ideological donors, and the amplification of migration “crisis theatre”*  
 
 ---
@@ -50,4 +50,4 @@ It documents the hedge-fund, think-tank, and legacy media ecosystem sustaining c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-09-28_  
