@@ -1,5 +1,5 @@
 # 🏛️ State Patterns of Forced Intimacy  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-14  
+**First created:** 2025-09-04 | **Last updated:** 2025-09-28  
 *How state systems weaponise enforced proximity, repression, and intimacy to destabilise people*  
 
 ---
@@ -57,12 +57,6 @@ This is the same pattern as *Metadata Twinning*: enforced chastity play without 
 *State Patterns of Forced Intimacy* is a living node of the Polaris Protocol.  
 It records how authoritarian and democratic states alike have used proximity, repression, and enforced intimacy to manage populations and break solidarity.  
 
-> 📡 Cross-references:  
-> - [🧠 Didn’t Apply Brain Loop](🧠_didnt_apply_brain_loop.md) — paranoia formalised as intelligence  
-> - [🫀 Genocide by Containment](🫀_genocide_by_containment.md) — containment escalations to systemic violence
-
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-04_
+_Last updated: 2025-09-28_
