@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:17:31 UTC_
+_Generated on 2025-09-28 17:18:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -82,7 +82,6 @@ _Generated on 2025-09-28 17:17:31 UTC_
       - [`📚_narrative_management_and_metadata_sabotage.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_narrative_management_and_metadata_sabotage.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
       - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_student_default_faultline.md)
-      - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📜_uk_data_bill_2025.md)
       - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📜_uk_house_of_lords_2025.md)
       - [`📡_metadata_scrutiny_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📡_metadata_scrutiny_uk.md)
       - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🔬_lost_checks_and_balances.md)
@@ -296,6 +295,7 @@ _Generated on 2025-09-28 17:17:31 UTC_
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
       - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_identity_documents_act_2010.md)
+      - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_data_bill_2025.md)
     - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/README.md)
       - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
