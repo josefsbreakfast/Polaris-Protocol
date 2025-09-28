@@ -1,5 +1,5 @@
 # 💣 Energy Rents and Strongman Panic  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-28  
 *How Putin’s reliance on oil and gas rents shaped power consolidation and fuels recurrent insecurity*
 
 ## Summary  
@@ -61,4 +61,4 @@ It documents how energy dependency structures regimes, shapes foreign policy lev
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-09-28_
