@@ -1,7 +1,5 @@
 # 🗝 Contingency erasure  
-
-**First created:** 2025-09-14 | **Last updated:** 2025-09-14  
-
+**First created:** 2025-09-14 | **Last updated:** 2025-09-28  
 *Destroying drafts and process notes so only curated final versions remain — cutting away dissent.*  
 
 ---
@@ -16,4 +14,4 @@ It marks an area where systemic governance mechanisms need further documentation
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-14_  
+_Last updated: 2025-09-28_  
