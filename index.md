@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:21:57 UTC_
+_Generated on 2025-09-28 21:22:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -70,7 +70,6 @@ _Generated on 2025-09-28 21:21:57 UTC_
       - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📋_tick_box_compliance_as_containment.md)
       - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md)
       - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
-      - [`📚_narrative_management_and_metadata_sabotage.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_narrative_management_and_metadata_sabotage.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
       - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_student_default_faultline.md)
       - [`📡_metadata_scrutiny_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📡_metadata_scrutiny_uk.md)
@@ -587,6 +586,8 @@ _Generated on 2025-09-28 21:21:57 UTC_
     - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
     - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
     - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Field_Logs/🪄_the_magical_disappearing_book.md)
+  - [**Metadata_Sabotage_Network/**](Disruption_Kit/Metadata_Sabotage_Network/)
+    - [`📚_narrative_management_and_metadata_sabotage.md`](Disruption_Kit/Metadata_Sabotage_Network/📚_narrative_management_and_metadata_sabotage.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
