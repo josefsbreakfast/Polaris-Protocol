@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 05:53:51 UTC_
+_Generated on 2025-09-28 05:55:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -563,6 +563,7 @@ _Generated on 2025-09-28 05:53:51 UTC_
     - [`🛰️_user_content_takedowns_throttling_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_user_content_takedowns_throttling_2025-09-20.md)
     - [`🛰️_valuation_of_the_muse_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_valuation_of_the_muse_2025-09-13.md)
     - [`🛰️_voice_modulation_forensics_spoon_2025-07-24.md`](Disruption_Kit/Field_Logs/🛰️_voice_modulation_forensics_spoon_2025-07-24.md)
+    - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🧠_hybrid_motive_hypothesis_2025-09-20.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
     - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
@@ -982,7 +983,6 @@ _Generated on 2025-09-28 05:53:51 UTC_
     - [`🥸_two_men_one_park.md`](Polaris_Nest/Git_Intake_Drawer/🥸_two_men_one_park.md)
     - [`🦤_bird_law_uk_edition.md`](Polaris_Nest/Git_Intake_Drawer/🦤_bird_law_uk_edition.md)
     - [`🦤_expectations_remain.md`](Polaris_Nest/Git_Intake_Drawer/🦤_expectations_remain.md)
-    - [`🧠_hybrid_motive_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hybrid_motive_hypothesis.md)
     - [`🧨_crisis_actor_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧨_crisis_actor_dynamics.md)
     - [`🧨_imagined_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🧨_imagined_duty_of_care.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
