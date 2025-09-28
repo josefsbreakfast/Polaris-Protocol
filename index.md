@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 06:13:47 UTC_
+_Generated on 2025-09-28 07:12:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -501,6 +501,7 @@ _Generated on 2025-09-28 06:13:47 UTC_
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/🛰️_ai_interference_vs_baseline_generation.md)
     - [`🛰️_all_it_took_2025-09-06.md`](Disruption_Kit/Field_Logs/🛰️_all_it_took_2025-09-06.md)
     - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
+    - [`🛰️_apartheid_forking_internet_interference_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_apartheid_forking_internet_interference_2025-09-27.md)
     - [`🛰️_arrest_as_surveillance_warrant.md`](Disruption_Kit/Field_Logs/🛰️_arrest_as_surveillance_warrant.md)
     - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_bath_time_division_hypothesis_2025-09-20.md)
     - [`🛰️_behavior_first_framing_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_behavior_first_framing_2025-09-20.md)
