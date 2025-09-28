@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:03:12 UTC_
+_Generated on 2025-09-28 21:05:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1109,6 +1109,7 @@ _Generated on 2025-09-28 21:03:12 UTC_
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/🏮_Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](Polaris_Nest/🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
+    - [`🏮_where_to_go.md`](Polaris_Nest/🏮_Admin_Kit/🏮_where_to_go.md)
     - [`🐝_template_node.md`](Polaris_Nest/🏮_Admin_Kit/🐝_template_node.md)
     - [`🐾_footer_seals.md`](Polaris_Nest/🏮_Admin_Kit/🐾_footer_seals.md)
     - [`🔥_NOTICE.md`](Polaris_Nest/🏮_Admin_Kit/🔥_NOTICE.md)
@@ -1118,7 +1119,6 @@ _Generated on 2025-09-28 21:03:12 UTC_
     - [`🧿_visual_palette.md`](Polaris_Nest/🏮_Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
   - [`README.md`](Polaris_Nest/README.md)
-  - [`🏮_where_to_go.md`](Polaris_Nest/🏮_where_to_go.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
