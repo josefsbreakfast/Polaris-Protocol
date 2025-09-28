@@ -1,5 +1,5 @@
 # ⚖️ Overlaps Between the Data Bill, Hereditary Peers Bill, and UK Genocide-Prevention Duties  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-04 | **Last updated:** 2025-09-28  
 *Systemic analysis of how three parliamentary fronts—digital rights, Lords reform, and genocide prevention—collided in mid-2025*  
 
 ---
@@ -91,4 +91,4 @@ It documents how simultaneous Lords debates on AI, constitutional reform, and Ga
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-09-28_  
