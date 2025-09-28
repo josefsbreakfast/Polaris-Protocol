@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:45:43 UTC_
+_Generated on 2025-09-28 16:46:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -25,7 +25,6 @@ _Generated on 2025-09-28 16:45:43 UTC_
       - [`⏳_delay_scripts_near_deadlines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⏳_delay_scripts_near_deadlines.md)
       - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_authorisation_and_oversight.md)
       - [`⚖️_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_china_soft_ops_vs_russia_hard_ops.md)
-      - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_coercive_control_in_border_policy.md)
       - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_compliance_as_opacity.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
       - [`⚖️_containment_contract_trace_hotel_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace_hotel_edition.md)
@@ -365,6 +364,7 @@ _Generated on 2025-09-28 16:45:43 UTC_
       - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
     - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/README.md)
+      - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
       - [`💷_migration_as_liability_shield.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)
       - [`📊_immigration_myths_and_impacts.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md)
       - [`📦_containment_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📦_containment_as_industry.md)
