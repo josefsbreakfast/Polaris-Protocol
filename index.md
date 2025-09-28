@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 20:44:45 UTC_
+_Generated on 2025-09-28 20:47:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -107,7 +107,6 @@ _Generated on 2025-09-28 20:44:45 UTC_
       - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_shadow_sandboxes.md)
       - [`🧾_twin_records_as_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧾_twin_records_as_vulnerability.md)
       - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🩹_patch_repair_governance.md)
-      - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪖_russias_incursions_timeline.md)
       - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪞_the_illusion_of_choice.md)
       - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪫_austerity_long_tail_data_instability.md)
       - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)
@@ -316,6 +315,7 @@ _Generated on 2025-09-28 20:44:45 UTC_
       - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
       - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/💸_russian_overlap_patterns.md)
       - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
+      - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
