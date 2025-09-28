@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:48:48 UTC_
+_Generated on 2025-09-28 16:50:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -30,7 +30,6 @@ _Generated on 2025-09-28 16:48:48 UTC_
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_data_bill_peers_bill_genocide_duties.md)
       - [`⚖️_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_escalation_vs_play_timeline.csv)
       - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_international_laundering.md)
-      - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_ipco_audit_cycle.md)
       - [`⚖️_judicial_deference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_judicial_deference.md)
       - [`⚖️_legal_frameworks_remits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_legal_frameworks_remits.md)
@@ -318,6 +317,7 @@ _Generated on 2025-09-28 16:48:48 UTC_
       - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
+      - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
