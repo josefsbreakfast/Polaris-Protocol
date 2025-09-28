@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:22:55 UTC_
+_Generated on 2025-09-28 21:24:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -586,8 +586,6 @@ _Generated on 2025-09-28 21:22:55 UTC_
     - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
     - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
     - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Field_Logs/🪄_the_magical_disappearing_book.md)
-  - [**Metadata_Sabotage_Network/**](Disruption_Kit/Metadata_Sabotage_Network/)
-    - [`📚_narrative_management_and_metadata_sabotage.md`](Disruption_Kit/Metadata_Sabotage_Network/📚_narrative_management_and_metadata_sabotage.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
@@ -893,6 +891,8 @@ _Generated on 2025-09-28 21:22:55 UTC_
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
     - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
+  - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/🪆_Narrative_Interference/)
+    - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
