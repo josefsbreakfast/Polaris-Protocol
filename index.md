@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 07:19:38 UTC_
+_Generated on 2025-09-28 07:20:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -314,6 +314,7 @@ _Generated on 2025-09-28 07:19:38 UTC_
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_identity_documents_act_2010.md)
     - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/README.md)
       - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
