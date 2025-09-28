@@ -18,7 +18,7 @@ a line is drawn, a people is broken.
 
 ---
 
-## 🔄 Partition Loop Diagram  
+## ➿ Partition Loop Diagram  
 
 ```mermaid
 flowchart TD
@@ -27,12 +27,6 @@ flowchart TD
   C --> D[Itinerant generations — refugees, stateless, minorities]
   D --> E[State consolidates — militarisation, assimilation policies]
   E -->|Cycle repeats with next redraw| B
-
-  style A fill:#afa,stroke:#333,stroke-width:2px
-  style B fill:#f9f,stroke:#333
-  style C fill:#faa,stroke:#333
-  style D fill:#bbf,stroke:#333
-  style E fill:#ddd,stroke:#333
 ```
 
 ---
