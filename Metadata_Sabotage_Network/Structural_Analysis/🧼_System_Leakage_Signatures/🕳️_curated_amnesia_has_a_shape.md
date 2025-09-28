@@ -1,7 +1,5 @@
 # 🕳️ Curated Amnesia Has A Shape
-
-**First created:** 2025-08-06 | **Last updated:** 2025-08-29
-
+**First created:** 2025-08-06 | **Last updated:** 2025-09-28  
 *Pattern of deliberate erasure in institutional record management.*  
 
 ---
@@ -67,4 +65,4 @@ It traces patterns of deliberate archival absence, showing how “nothing” is 
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-28_
