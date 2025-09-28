@@ -1,5 +1,5 @@
 # 💄 Plastic Masculinity Knives  
-**First created:** 2025-09-22 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-22 | **Last updated:** 2025-09-28  
 *Lipstick logic with blades — cosplay masculinity sold as power.*  
 
 ---
@@ -34,23 +34,11 @@
 
 ---
 
-## 🗂 Placement  
-
-Folder: `Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/`  
-Filename: `💄_plastic_masculinity_knives.md`  
-
----
-
 ## 🏮 Footer  
 
 *Plastic Masculinity Knives* is a living node of the Polaris Protocol.  
 It records how insecurity and capitalism collapse masculinity into cosplay — lipstick logic with blades.  
 
-> 📡 Cross-references:  
-> - [🪆 Narrative Interference](../../Metadata_Sabotage_Network/Evidence_And_Anomalies/🪆_narrative_interference.md) — schema drifts and mimicry  
-> - [👅 Voice Disruption & Discrediting](../../Metadata_Sabotage_Network/Evidence_And_Anomalies/👅_voice_disruption_discrediting.md) — toxic registers of bravado  
-> - [✨ Constellations](../../Metadata_Sabotage_Network/Evidence_And_Anomalies/✨_constellations) — cultural mimicry artifacts  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-09-28_  
