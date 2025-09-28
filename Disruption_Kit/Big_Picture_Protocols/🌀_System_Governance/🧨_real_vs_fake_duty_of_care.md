@@ -1,5 +1,5 @@
 # 🧨 Real vs Fake Duty of Care  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
+**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
 *Distinguishing legitimate legal complexity from weaponised prolongation*  
 
 ---
@@ -29,12 +29,15 @@
 ## 🧭 Why This Distinction Matters  
 - Real duty of care is **law-bound and accountable**.  
 - Fake duty of care is **ego-bound and unaccountable**.  
-- Confusing the two lets harmful actors hide behind the language of protection.
+- Confusing the two lets harmful actors hide behind the language of protection.  
 
 ---
 
-Very obviously, there are significsnt transformational changes required to repair our systems of accountability, which allow real and proportionate checks on powers, and which protect workers raising concerns.
-Given personal work experience: it is better if we can protect concerns raised wven when "raised badly", otherwise other priblems will arise from related systems failure.
+## 🌱 Repair Imperative  
+There are **transformational changes** needed to restore accountability:  
+- Real checks on power must be proportionate, lawful, and reviewable.  
+- Workers who raise concerns should be **protected even when their concerns are raised imperfectly**.  
+- Without this, systemic failures multiply: silence deepens, risks compound, and institutions lose the chance to self-correct.  
 
 ---
 
@@ -49,4 +52,4 @@ It clarifies how duty-of-care can be either a genuine legal safeguard or a mask 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_  
+_Last updated: 2025-09-28_  
