@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:24:20 UTC_
+_Generated on 2025-09-28 21:25:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -72,7 +72,6 @@ _Generated on 2025-09-28 21:24:20 UTC_
       - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
       - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_student_default_faultline.md)
-      - [`📡_metadata_scrutiny_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📡_metadata_scrutiny_uk.md)
       - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🔬_lost_checks_and_balances.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
@@ -891,6 +890,8 @@ _Generated on 2025-09-28 21:24:20 UTC_
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
     - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
+  - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/)
+    - [`📡_metadata_scrutiny_uk.md`](Metadata_Sabotage_Network/🧿_Targeting_Logic_Metadata_Signatures/📡_metadata_scrutiny_uk.md)
   - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/🪆_Narrative_Interference/)
     - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
