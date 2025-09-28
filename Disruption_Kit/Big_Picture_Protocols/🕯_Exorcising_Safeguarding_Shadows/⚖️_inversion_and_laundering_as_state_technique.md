@@ -1,5 +1,5 @@
 # ⚖️ Inversion and Laundering as State Technique  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-14  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-28  
 *How harm, coercion, and abuse are reframed as protective or necessary to serve institutional and financial power*  
 
 ---
@@ -154,8 +154,6 @@ The nested cycle inside safeguarding inertia shows how reports repeatedly follow
 *Inversion and Laundering as State Technique* is a living node of the Polaris Protocol.  
 It maps how survivor testimony, abusive policing, and safeguarding inertia are structurally reframed into institutional assets, embedding coercion as legitimacy.  
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-14_  
+_Last updated: 2025-09-28_  
