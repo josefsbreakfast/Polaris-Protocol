@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:24:26 UTC_
+_Generated on 2025-09-28 16:25:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -23,8 +23,6 @@ _Generated on 2025-09-28 16:24:26 UTC_
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
-    - [**🌀 System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀 System_Governance/)
-      - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🌀 System_Governance/🧬_shadow_safeguarding_dossiers.md)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/loop_tickbox_vs_cognitive_load.md)
@@ -153,6 +151,7 @@ _Generated on 2025-09-28 16:24:26 UTC_
       - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_failure_recycling.md)
       - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_pilot_containments.md)
       - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_shadow_sandboxes.md)
+      - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_shadow_safeguarding_dossiers.md)
       - [`🧾_twin_records_as_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧾_twin_records_as_vulnerability.md)
       - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🩹_patch_repair_governance.md)
       - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪖_russias_incursions_timeline.md)
