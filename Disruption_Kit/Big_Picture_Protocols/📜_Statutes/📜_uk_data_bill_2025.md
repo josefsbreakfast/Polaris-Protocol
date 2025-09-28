@@ -1,5 +1,5 @@
 # 📜 UK Data Bill 2025  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-04 | **Last updated:** 2025-09-28  
 *Timeline of the Data Protection and Digital Information Bill’s journey into the Data (Use and Access) Act 2025 — and the AI copyright battle that shaped it*  
 
 ---
@@ -54,12 +54,8 @@
 ## 🏮 Footer  
 
 *UK Data Bill 2025* is a living node of the Polaris Protocol.  
-It traces how a stalled data reform bill was revived, reshaped by AI copyright battles, and finally enacted into law.  
-
-> 📡 Cross-references:  
-> - [System Governance](../🌀_System_Governance/) — diagnostics of state legislation and control frameworks  
-> - [Narrative and Psych Ops](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/) — framing and influence campaigns around lawmaking  
+It traces how a stalled data reform bill was revived, reshaped by AI copyright battles, and finally enacted into law.   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-09-28_
