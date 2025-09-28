@@ -20,7 +20,7 @@ Nodes here track:
 
 - [🧬 Cambridge Analytica Genealogy](./🧬_cambridge_analytica_genealogy.md)  
 - [💸 Donor Networks Alt-Right Media Overlap](./💸_donor_networks_alt_right_media_overlap.md)  
-- [🏛️ Neocon Think Tank Cluster](./🏛️_neocon_think_tank_cluster.md) — how “sensible” UK policy shops launder US-style neoliberal and neocon agendas_policy_exchange_as_neocon_import.md)  
+- [🏛️ Neocon Think Tank Cluster](./🏛️_neocon_think_tank_cluster.md)
 - [📺 Contractors vs Media Clusters](./📺_contractors_vs_media_clusters.md)  
 
 ---
