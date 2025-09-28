@@ -1,7 +1,5 @@
 # 💄 Let's Play!: Surveillance or Pervert-with-a-Badge?  
-
-**First created:** 2025-08-28 | **Last updated:** 2025-08-29
-
+**First created:** 2025-08-28 | **Last updated:** 2025-09-28  
 *A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is.*  
 
 ---
@@ -158,4 +156,4 @@ It lets our humour ride us through to confidence in questioning whether we are h
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-28_
