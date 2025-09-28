@@ -1,7 +1,5 @@
 # 📚 Narrative Management and Metadata Sabotage  
-
-**First created:** 2025-08-03 | **Last updated:** 2025-08-29
-
+**First created:** 2025-08-03 | **Last updated:** 2025-09-28  
 *Part of the Polaris Protocol constellation — mapping sabotage of records and realities.*  
 
 ---
@@ -93,4 +91,4 @@ This file documents narrative control and metadata sabotage mechanisms used to e
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-28_
