@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:30:56 UTC_
+_Generated on 2025-09-28 21:32:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -92,7 +92,6 @@ _Generated on 2025-09-28 21:30:56 UTC_
       - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_failure_recycling.md)
       - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_pilot_containments.md)
       - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_shadow_sandboxes.md)
-      - [`🧾_twin_records_as_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧾_twin_records_as_vulnerability.md)
       - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🩹_patch_repair_governance.md)
       - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪞_the_illusion_of_choice.md)
       - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪫_austerity_long_tail_data_instability.md)
@@ -754,6 +753,7 @@ _Generated on 2025-09-28 21:30:56 UTC_
       - [`🧬_untwinning_data.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_untwinning_data.md)
       - [`🧬_when_twins_meet.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_when_twins_meet.md)
       - [`🧾_briefing_note_oversight_failure_triple_lock.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_briefing_note_oversight_failure_triple_lock.md)
+      - [`🧾_twin_records_as_vulnerability.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_twin_records_as_vulnerability.md)
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
