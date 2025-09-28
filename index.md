@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:54:34 UTC_
+_Generated on 2025-09-28 16:56:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -63,7 +63,6 @@ _Generated on 2025-09-28 16:54:34 UTC_
       - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌏_from_escalation_to_play.md)
       - [`🍌_self_eating_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🍌_self_eating_system.md)
       - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎊_multi_party_data_twinning.md)
-      - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎓_university_vector_surveillance.md)
       - [`🏘️_council_incentives_hotels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏘️_council_incentives_hotels.md)
       - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
       - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_state_patterns_of_forced_intimacy.md)
@@ -241,6 +240,7 @@ _Generated on 2025-09-28 16:54:34 UTC_
       - [`🎓_university_of_westminster_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_westminster_compliance_profile.md)
       - [`🎓_university_of_york_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_york_compliance_profile.md)
       - [`🎓_university_of_york_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_york_compliance_profile_v2.md)
+      - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
       - [`🎓_uwe_bristol_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_uwe_bristol_compliance_profile.md)
       - [`🎓_york_st_john_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_york_st_john_university_compliance_profile.md)
       - [`🐦‍🔥_methodology_scoring_league_tables.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🐦‍🔥_methodology_scoring_league_tables.md)
