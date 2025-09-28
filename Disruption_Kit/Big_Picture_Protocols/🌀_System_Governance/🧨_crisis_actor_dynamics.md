@@ -1,5 +1,5 @@
 # 🧨 Crisis Actor Dynamics  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-19  
+**First created:** 2025-09-19 | **Last updated:** 2025-09-28  
 *How authoritarian actors manufacture and perform crises to obscure contradictions and consolidate control*
 
 ---
@@ -48,4 +48,4 @@ It analyses how authoritarian actors use performance and crisis manufacture to c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-19_
+_Last updated: 2025-09-28_
