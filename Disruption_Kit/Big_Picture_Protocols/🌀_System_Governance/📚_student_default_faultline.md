@@ -1,5 +1,5 @@
 # 📚 Student as Default Faultline
-**First created:** 2025-09-10 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-10 | **Last updated:** 2025-09-28  
 *How institutions embed user-blame into everyday errors*
 
 ---
@@ -13,7 +13,7 @@ This is not always a bad actor’s plot. It is the **culture of institutional re
 - Glitches become evidence of student unreliability.  
 
 ## ✦ Survivor Account  
-> “University of Nottingham felt like an abusive relationship. But I don’t think the email errors were always deliberate. More likely, they had server/data problems — and a culture that assumes the student is at fault. That architecture of blame fits their institution too well.”  
+> “[Redacted University] felt like an abusive relationship. But I don’t think the email errors were always deliberate. More likely, they had server/data problems — and a culture that assumes the student is at fault. That architecture of blame fits their institution too well.”  
 
 Exposure risk scales with:  
 - Number of services one is forced through.  
@@ -33,4 +33,4 @@ It captures how negligence and coercive nudging combine to erase systemic accoun
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-09-28_
