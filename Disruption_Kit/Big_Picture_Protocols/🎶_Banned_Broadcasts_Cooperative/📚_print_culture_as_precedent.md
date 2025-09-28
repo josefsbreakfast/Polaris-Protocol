@@ -1,5 +1,5 @@
 # 🖨️ Print Culture as Precedent  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-04  
+**First created:** 2025-09-04 | **Last updated:** 2025-09-28  
 *How early print technologies amplified a handful of men into centuries of cultural distortion*  
 
 ---
@@ -75,11 +75,6 @@ This loss of nuance mirrors modern binary discourse on survivors — framed as e
 It records how earlier information technologies enabled distortions that still shape modern culture, and how those dynamics echo in today’s unregulated digital platforms.  
 Within this precedent, *Project Esther* names the flattening of women’s survival into obedient propaganda, showing how even nuanced stories like Esther’s and Persephone’s are stripped of complexity.  
 
-> 📡 Cross-references:  
-> - [🧠 Didn’t Apply Brain Loop](🧠_didnt_apply_brain_loop.md) — DARVO paranoia mistaken for intelligence  
-> - [🧩 Metadata Twinning](🧩_metadata_twinning.md) — enforced intimacy as containment mechanism  
-> - [🫀 Genocide by Containment](🫀_genocide_by_containment.md) — systemic outcomes of unchecked narratives  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-04_
+_Last updated: 2025-09-28_
