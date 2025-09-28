@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:11:06 UTC_
+_Generated on 2025-09-28 21:12:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -97,7 +97,6 @@ _Generated on 2025-09-28 21:11:06 UTC_
       - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)
       - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_didnt_apply_brain_loop.md)
       - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_the_dev.md)
-      - [`🧠_transformative_learning_window.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_transformative_learning_window.md)
       - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_value_of_the_outlier.md)
       - [`🧨_crisis_actor_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧨_crisis_actor_dynamics.md)
       - [`🧪_ego_insurance_but_make_it_personal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_ego_insurance_but_make_it_personal.md)
@@ -252,6 +251,7 @@ _Generated on 2025-09-28 21:11:06 UTC_
       - [`🧠_behavioural_trajectories_lab_to_institution.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_behavioural_trajectories_lab_to_institution.md)
       - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
       - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_humiliation_as_governance.md)
+      - [`🧠_transformative_learning_window.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_transformative_learning_window.md)
       - [`🧬_brains_are_not_flowcharts.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_brains_are_not_flowcharts.md)
       - [`🧬_clone_interference_map.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_clone_interference_map.png)
       - [`🧬_clone_twinning_matrix.json`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_clone_twinning_matrix.json)
