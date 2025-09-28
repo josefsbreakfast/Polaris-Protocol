@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:27:07 UTC_
+_Generated on 2025-09-28 21:28:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -727,6 +727,7 @@ _Generated on 2025-09-28 21:27:07 UTC_
       - [`🎶_shared_tech_voicex_institutional_reports.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
+      - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
@@ -891,8 +892,6 @@ _Generated on 2025-09-28 21:27:07 UTC_
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
     - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
-  - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/🪆_Narrative_Interference/)
-    - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
