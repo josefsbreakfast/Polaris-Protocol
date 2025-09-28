@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 07:14:47 UTC_
+_Generated on 2025-09-28 07:16:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -143,6 +143,7 @@ _Generated on 2025-09-28 07:14:47 UTC_
       - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_value_of_the_outlier.md)
       - [`🧨_crisis_actor_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧨_crisis_actor_dynamics.md)
       - [`🧨_real_vs_fake_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧨_real_vs_fake_duty_of_care.md)
+      - [`🧪_ego_insurance_but_make_it_personal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_ego_insurance_but_make_it_personal.md)
       - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_failure_recycling.md)
       - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_pilot_containments.md)
       - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_shadow_sandboxes.md)
@@ -990,7 +991,6 @@ _Generated on 2025-09-28 07:14:47 UTC_
     - [`🦤_expectations_remain.md`](Polaris_Nest/Git_Intake_Drawer/🦤_expectations_remain.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Polaris_Nest/Git_Intake_Drawer/🧪_did_unis_really_address_rape_epidemic_tho.md)
-    - [`🧪_ego_insurance_but_make_it_personal.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ego_insurance_but_make_it_personal.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧫_black_mould_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧫_black_mould_principle.md)
     - [`🧬_cambridge_analytica_genealogy.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cambridge_analytica_genealogy.md)
