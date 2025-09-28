@@ -1,5 +1,5 @@
 # 🇬🇧 Britain as Global Butler  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-17  
+**First created:** 2025-09-17 | **Last updated:** 2025-09-28  
 *On Britain’s structural role as service-state to larger powers*  
 
 ---
@@ -51,4 +51,4 @@ It analyses the UK’s systemic position as a service-state, staging sovereignty
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-17_
+_Last updated: 2025-09-28_
