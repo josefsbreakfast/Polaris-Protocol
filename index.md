@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 07:23:14 UTC_
+_Generated on 2025-09-28 07:25:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -349,6 +349,7 @@ _Generated on 2025-09-28 07:23:14 UTC_
       - [`🧠_leveraged_bad_luck.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_leveraged_bad_luck.md)
       - [`🧠_the_science_that_survives_borders.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_the_science_that_survives_borders.md)
       - [`🧪_breeding_trope_as_eugenics.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧪_breeding_trope_as_eugenics.md)
+      - [`🧬_genealogy_of_coping_mechanisms.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧬_genealogy_of_coping_mechanisms.md)
       - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧭_uk_tech_talent_scaling_policy_timeline.md)
       - [`🧾_data_is_their_cage_too.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧾_data_is_their_cage_too.md)
       - [`🪦_metadata_ghosts_and_hauntings.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🪦_metadata_ghosts_and_hauntings.md)
@@ -996,7 +997,6 @@ _Generated on 2025-09-28 07:23:14 UTC_
     - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Polaris_Nest/Git_Intake_Drawer/🧪_did_unis_really_address_rape_epidemic_tho.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧫_black_mould_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧫_black_mould_principle.md)
-    - [`🧬_genealogy_of_coping_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🧬_genealogy_of_coping_mechanisms.md)
     - [`🧬_report_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_report_twinning.md)
     - [`🧬_report_twinning_index.md`](Polaris_Nest/Git_Intake_Drawer/🧬_report_twinning_index.md)
     - [`🧬_shadow_audit_trails.md`](Polaris_Nest/Git_Intake_Drawer/🧬_shadow_audit_trails.md)
