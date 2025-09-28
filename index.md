@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 15:50:13 UTC_
+_Generated on 2025-09-28 16:24:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -9,7 +9,6 @@ _Generated on 2025-09-28 15:50:13 UTC_
     - [`generate-index.yml`](.github/workflows/generate-index.yml)
 - [**Big_Picture_Protocols/**](Big_Picture_Protocols/)
   - [**🌀 System_Governance/**](Big_Picture_Protocols/🌀 System_Governance/)
-    - [` 🧬_shadow_safeguarding_dossiers.md`](Big_Picture_Protocols/🌀 System_Governance/ 🧬_shadow_safeguarding_dossiers.md)
     - [`🧬_report_twinning.md`](Big_Picture_Protocols/🌀 System_Governance/🧬_report_twinning.md)
     - [`🧬_report_twinning_index.md`](Big_Picture_Protocols/🌀 System_Governance/🧬_report_twinning_index.md)
     - [`🧬_shadow_audit_trails.md`](Big_Picture_Protocols/🌀 System_Governance/🧬_shadow_audit_trails.md)
@@ -24,6 +23,8 @@ _Generated on 2025-09-28 15:50:13 UTC_
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
+    - [**🌀 System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀 System_Governance/)
+      - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🌀 System_Governance/🧬_shadow_safeguarding_dossiers.md)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/loop_tickbox_vs_cognitive_load.md)
