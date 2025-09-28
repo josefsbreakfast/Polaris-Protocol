@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:20:06 UTC_
+_Generated on 2025-09-28 17:21:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -62,7 +62,6 @@ _Generated on 2025-09-28 17:20:06 UTC_
       - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
       - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👁️_panopticon_as_industry.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💄_surveillance_or_pervert_with_a_badge.md)
-      - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💢_draft_prevent_ihl.md)
       - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💣_energy_rents_and_strongman_panic.md)
       - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💣_energy_rents_timeline.csv)
       - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💰_who_benefits_from_cover_up.md)
@@ -310,6 +309,7 @@ _Generated on 2025-09-28 17:20:06 UTC_
       - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🏛️_state_patterns_of_forced_intimacy.md)
       - [`👀_failure_cycle_vs_reported_improvements.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md)
       - [`👀_public_perception_gap.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/👀_public_perception_gap.md)
+      - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/💢_draft_prevent_ihl.md)
       - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📑_the_case_of_the_disappearing_reviews.md)
       - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
