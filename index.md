@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:22:27 UTC_
+_Generated on 2025-09-28 17:24:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -85,7 +85,6 @@ _Generated on 2025-09-28 17:22:27 UTC_
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
-      - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🖨️_print_culture_as_precedent.md)
       - [`🗂️_cse_scandals_post-2013.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗂️_cse_scandals_post-2013.md)
       - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_contingency_erasure.md)
       - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_custodianship_illusion.md)
@@ -259,6 +258,7 @@ _Generated on 2025-09-28 17:22:27 UTC_
       - [`📱_feed_manipulation_and_containment_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
       - [`🔥_suppression_and_quasi_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🔥_suppression_and_quasi_suppression.md)
       - [`🕳_narrative_misattribution_and_war_testimony.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🕳_narrative_misattribution_and_war_testimony.md)
+      - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🖨️_print_culture_as_precedent.md)
       - [`🚀_scarcity_prohibition_rocket_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/README.md)
