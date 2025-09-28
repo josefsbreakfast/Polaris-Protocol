@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:18:59 UTC_
+_Generated on 2025-09-28 17:20:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -47,7 +47,6 @@ _Generated on 2025-09-28 17:18:59 UTC_
       - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_wrong_people_in_power.md)
       - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/❓_override_question_as_silence_breaker.md)
       - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🇬🇧_britain_as_global_butler.md)
-      - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🇬🇧_uk_voicecloning_risks_legislative_response.md)
       - [`🌀_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_algorithmic_delay_and_pacing.md)
       - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_ambiguity_as_containment.md)
       - [`🌀_confused_feed_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_confused_feed_as_containment.md)
@@ -294,6 +293,7 @@ _Generated on 2025-09-28 17:18:59 UTC_
       - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
+      - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
       - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_identity_documents_act_2010.md)
       - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_data_bill_2025.md)
     - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/)
