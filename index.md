@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:09:19 UTC_
+_Generated on 2025-09-28 17:10:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -51,7 +51,6 @@ _Generated on 2025-09-28 17:09:19 UTC_
       - [`🌀_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_algorithmic_delay_and_pacing.md)
       - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_ambiguity_as_containment.md)
       - [`🌀_confused_feed_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_confused_feed_as_containment.md)
-      - [`🌀_forced_migration_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_forced_migration_as_governance.md)
       - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_managed_transition_vs_revolution.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_masculinity_extraction_governance_containment.md)
       - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_parallel_channels.md)
@@ -363,6 +362,7 @@ _Generated on 2025-09-28 17:09:19 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/README.md)
       - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
       - [`⚖️_containment_contract_trace_hotel_edition.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/⚖️_containment_contract_trace_hotel_edition.md)
+      - [`🌀_forced_migration_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md)
       - [`🏘️_council_incentives_hotels.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🏘️_council_incentives_hotels.md)
       - [`💷_migration_as_liability_shield.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)
       - [`📊_immigration_myths_and_impacts.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md)
