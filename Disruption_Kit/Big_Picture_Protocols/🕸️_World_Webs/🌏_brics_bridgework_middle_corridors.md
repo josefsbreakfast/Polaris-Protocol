@@ -1,5 +1,5 @@
 # 🌏 BRICS Bridgework & Middle Corridors  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-17  
+**First created:** 2025-09-17 | **Last updated:** 2025-09-28  
 *How BRICS linkages through South Asia, Africa, and the Middle East rewire leverage between China/Russia and the West*
 
 ---
@@ -70,4 +70,4 @@ It maps how corridor politics let states arbitrage between China/Russia and the 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-17_
+_Last updated: 2025-09-28_
