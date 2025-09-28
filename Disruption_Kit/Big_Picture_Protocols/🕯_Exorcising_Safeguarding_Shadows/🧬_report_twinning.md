@@ -34,9 +34,9 @@
 
 ```mermaid
 flowchart TD
-    A[📑 Jay Report: original canonical link (/140/)] -->|Polluted / mislinked| B[🥔 Catering invoices PDF]
+    A[📑 Jay Report: original canonical link, /140] -->|Polluted / mislinked| B[🥔 Catering invoices PDF]
     A -->|Citation trails, SEO index| B
-    C[📑 Jay Report: displaced link (/279/)] -->|Holds real report| D[✔️ Authentic Jay Report PDF]
+    C[📑 Jay Report: displaced link, /279] -->|Holds real report| D[✔️ Authentic Jay Report PDF]
     A -.->|Historic references point here| B
     C -.->|Hidden unless insider knowledge| D
 ```
