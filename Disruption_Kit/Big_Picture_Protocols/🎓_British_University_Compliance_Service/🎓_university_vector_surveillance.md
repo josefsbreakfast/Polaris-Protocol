@@ -1,5 +1,5 @@
 # 🎓 University Vector Surveillance  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-14    
+**First created:** 2025-09-07 | **Last updated:** 2025-09-28    
 *How universities act as data gateways, subcontractors, and federated actors in surveillance networks — and why safeguarding flags create perpetual loops of containment*  
 
 ---
@@ -154,6 +154,4 @@ It documents how universities, by their access and duties, act as conduits for s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
-
-_Last updated: 2025-09-13_  
+_Last updated: 2025-09-28_  
