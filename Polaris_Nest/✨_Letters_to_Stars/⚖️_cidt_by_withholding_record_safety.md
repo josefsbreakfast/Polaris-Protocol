@@ -1,5 +1,5 @@
 # ⚖️ CIDT by Withholding Record Safety  
-**First created:** 2025-09-15 | **Last updated:** 2025-09-15  
+**First created:** 2025-09-15 | **Last updated:** 2025-09-28  
 *When proof of breach exists, refusal to confirm record safety becomes a form of cruel, inhuman, degrading treatment.*  
 
 ---
@@ -41,4 +41,4 @@ It documents how the deliberate withholding of clarity about sealed CSA/rape rec
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-15_
+_Last updated: 2025-09-28_
