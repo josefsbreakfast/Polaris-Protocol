@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 16:46:51 UTC_
+_Generated on 2025-09-28 16:47:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -27,7 +27,6 @@ _Generated on 2025-09-28 16:46:51 UTC_
       - [`⚖️_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_china_soft_ops_vs_russia_hard_ops.md)
       - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_compliance_as_opacity.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
-      - [`⚖️_containment_contract_trace_hotel_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace_hotel_edition.md)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_data_bill_peers_bill_genocide_duties.md)
       - [`⚖️_erasure_and_predator_tolerance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_erasure_and_predator_tolerance.md)
       - [`⚖️_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_escalation_vs_play_timeline.csv)
@@ -365,6 +364,7 @@ _Generated on 2025-09-28 16:46:51 UTC_
     - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/README.md)
       - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
+      - [`⚖️_containment_contract_trace_hotel_edition.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/⚖️_containment_contract_trace_hotel_edition.md)
       - [`💷_migration_as_liability_shield.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)
       - [`📊_immigration_myths_and_impacts.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md)
       - [`📦_containment_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📦_containment_as_industry.md)
