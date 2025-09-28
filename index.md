@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:35:27 UTC_
+_Generated on 2025-09-28 17:36:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -105,7 +105,6 @@ _Generated on 2025-09-28 17:35:27 UTC_
       - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)
       - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_didnt_apply_brain_loop.md)
       - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_humiliation_as_governance.md)
-      - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_intuition_as_skill.md)
       - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_targeting_logic_empathy_is_a_threat.md)
       - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_the_dev.md)
       - [`🧠_transformative_learning_window.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_transformative_learning_window.md)
@@ -124,6 +123,7 @@ _Generated on 2025-09-28 17:35:27 UTC_
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
+      - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_intuition_as_skill.md)
       - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
       - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🪞_on_human_impulse.md)
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
