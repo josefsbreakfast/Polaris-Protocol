@@ -1,5 +1,5 @@
 # 🧠 Transformative Learning Window  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-26 | **Last updated:** 2025-09-28  
 *How clusters of high-fidelity signals trigger exhaustion and worldview shift*  
 
 ---
@@ -46,4 +46,4 @@ It documents how dense clusters of proof induce exhaustion, forcing survivors in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-09-28_  
