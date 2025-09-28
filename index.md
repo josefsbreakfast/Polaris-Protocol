@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 21:20:58 UTC_
+_Generated on 2025-09-28 21:21:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -78,7 +78,6 @@ _Generated on 2025-09-28 21:20:58 UTC_
       - [`🕳️_curated_amnesia_has_a_shape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_curated_amnesia_has_a_shape.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
-      - [`🗝️_governance_central_data_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_governance_central_data_outsourcing.md)
       - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛂_gated_intake_post_delay_regional_loop.md)
       - [`🛡️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_exploitability_and_defensive_strategy.md)
@@ -339,6 +338,7 @@ _Generated on 2025-09-28 21:20:58 UTC_
       - [`🗝️_citizen_right_to_record_safety.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_citizen_right_to_record_safety.md)
       - [`🗝️_deliberate_cultural_violation.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md)
       - [`🗝️_eccentric_custody_wellcome_collection.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_eccentric_custody_wellcome_collection.md)
+      - [`🗝️_governance_central_data_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_governance_central_data_outsourcing.md)
       - [`🗝️_guardianship_as_nonstate_custody.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_guardianship_as_nonstate_custody.md)
       - [`🗝️_illusion_of_caldicott_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_illusion_of_caldicott_compliance.md)
       - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
