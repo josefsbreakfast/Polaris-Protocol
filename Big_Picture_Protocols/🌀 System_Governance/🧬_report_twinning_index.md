@@ -1,6 +1,6 @@
 # 🧬 Report Twinning Index  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
-*Mapping cases where inquiry and safeguarding reports exist in twin versions: polluted vs displaced links*
+**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
+*Mapping cases where inquiry and safeguarding reports exist in twin versions: polluted vs displaced links*  
 
 ---
 
@@ -38,4 +38,4 @@ It collates instances where inquiry reports exist in parallel forms, documenting
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_
+_Last updated: 2025-09-28_  
