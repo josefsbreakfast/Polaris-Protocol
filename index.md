@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 15:47:06 UTC_
+_Generated on 2025-09-28 15:50:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -9,6 +9,7 @@ _Generated on 2025-09-28 15:47:06 UTC_
     - [`generate-index.yml`](.github/workflows/generate-index.yml)
 - [**Big_Picture_Protocols/**](Big_Picture_Protocols/)
   - [**🌀 System_Governance/**](Big_Picture_Protocols/🌀 System_Governance/)
+    - [` 🧬_shadow_safeguarding_dossiers.md`](Big_Picture_Protocols/🌀 System_Governance/ 🧬_shadow_safeguarding_dossiers.md)
     - [`🧬_report_twinning.md`](Big_Picture_Protocols/🌀 System_Governance/🧬_report_twinning.md)
     - [`🧬_report_twinning_index.md`](Big_Picture_Protocols/🌀 System_Governance/🧬_report_twinning_index.md)
     - [`🧬_shadow_audit_trails.md`](Big_Picture_Protocols/🌀 System_Governance/🧬_shadow_audit_trails.md)
@@ -1002,7 +1003,6 @@ _Generated on 2025-09-28 15:47:06 UTC_
     - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Polaris_Nest/Git_Intake_Drawer/🧪_did_unis_really_address_rape_epidemic_tho.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧫_black_mould_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧫_black_mould_principle.md)
-    - [`🧬_shadow_safeguarding_dossiers.md`](Polaris_Nest/Git_Intake_Drawer/🧬_shadow_safeguarding_dossiers.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
