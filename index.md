@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 05:52:54 UTC_
+_Generated on 2025-09-28 05:53:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -357,6 +357,7 @@ _Generated on 2025-09-28 05:52:54 UTC_
       - [`📦_containment_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📦_containment_as_industry.md)
       - [`🛟_harm_reduction_asylum_routes.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_asylum_routes.md)
       - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
+      - [`🦕_partition_loop_borders_as_violence.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🦕_partition_loop_borders_as_violence.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)
       - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
@@ -979,7 +980,6 @@ _Generated on 2025-09-28 05:52:54 UTC_
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🙄_stop_changing_gits_field_note.md)
     - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [`🥸_two_men_one_park.md`](Polaris_Nest/Git_Intake_Drawer/🥸_two_men_one_park.md)
-    - [`🦕_partition_loop_borders_as_violence.md`](Polaris_Nest/Git_Intake_Drawer/🦕_partition_loop_borders_as_violence.md)
     - [`🦤_bird_law_uk_edition.md`](Polaris_Nest/Git_Intake_Drawer/🦤_bird_law_uk_edition.md)
     - [`🦤_expectations_remain.md`](Polaris_Nest/Git_Intake_Drawer/🦤_expectations_remain.md)
     - [`🧠_hybrid_motive_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hybrid_motive_hypothesis.md)
