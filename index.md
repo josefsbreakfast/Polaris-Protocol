@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-28 17:25:04 UTC_
+_Generated on 2025-09-28 17:26:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -90,7 +90,6 @@ _Generated on 2025-09-28 17:25:04 UTC_
       - [`🗝_privatised_record_keeping.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_privatised_record_keeping.md)
       - [`🗝_who_holds_the_tape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝_who_holds_the_tape.md)
       - [`🗝️_citizen_right_to_record_safety.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_citizen_right_to_record_safety.md)
-      - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_data_standards_fragmentation.md)
       - [`🗝️_governance_central_data_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_governance_central_data_outsourcing.md)
       - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛂_gated_intake_post_delay_regional_loop.md)
@@ -294,6 +293,7 @@ _Generated on 2025-09-28 17:25:04 UTC_
       - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_identity_documents_act_2010.md)
       - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_data_bill_2025.md)
       - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_house_of_lords_2025.md)
+      - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🗝️_data_standards_fragmentation.md)
     - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/README.md)
       - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
