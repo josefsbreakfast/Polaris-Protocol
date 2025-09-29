@@ -1,11 +1,12 @@
 # ⚖️ Public Inquiry Business Case  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-26  
-*Big Picture Protocol node — evidential integrity and data-twin exploitation, requiring formal inquiry.*  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
+*Big Picture Protocol node — evidential integrity and data-twin exploitation, requiring formal inquiry.*
 
 ---
 
 ## 🌐 Summary  
-Weak digital signals have been aggregated into apparent proof, enabling false harassment complaints, clearance actions, and systemic targeting. Exploitable by hostile actors; overlaps with contested information environments.  
+Weak digital signals have been aggregated into apparent proof, enabling false harassment complaints, clearance actions, and systemic targeting.  
+Exploitable by hostile actors; overlaps with contested information environments.  
 
 ---
 
@@ -42,14 +43,31 @@ Weak digital signals have been aggregated into apparent proof, enabling false ha
 
 ---
 
+## 🌌 Constellations  
+⚖️ 🧬 📊 🧠 — This node connects public oversight to metadata abuse, evidentiary decay, and governance gaps.
+
+**Media references:**  
+- *Undercover: Britain’s Immigration Secrets* (BBC Panorama) — abuse and inquiry outcomes  
+- *Who Watches the Watchdogs?* (Tortoise) — failures of professional regulation  
+- *Data Twins: The Shadow Identity Problem* (Guardian Long Read)
+
+---
+
+## ✨ Stardust  
+public inquiry, data twins, metadata abuse, evidentiary failure, systemic targeting, hybrid redress, FOI audit, vendor review, digital signals
+
+---
+
 ## 🏮 Footer  
+
 *Public Inquiry Business Case* is a Big Picture Protocol node of the Polaris Protocol.  
-It frames the rationale, scope, and model for a formal inquiry into evidential weaknesses and data-twin exploitation.  
+It frames the rationale, scope, and model for a formal inquiry into evidential weaknesses and data-twin exploitation.
 
 > 📡 Cross-references:  
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
 > - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md)  
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-09-29_
