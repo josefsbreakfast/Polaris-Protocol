@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-29 19:49:54 UTC_
+_Generated on 2025-09-29 19:51:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -806,6 +806,7 @@ _Generated on 2025-09-29 19:49:54 UTC_
       - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
     - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/README.md)
+      - [`☎_esim_proxy_risk.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/☎_esim_proxy_risk.md)
       - [`📍_field_signal_tests.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/📍_field_signal_tests.md)
       - [`🛰️_audit_trace_by_proximity.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_audit_trace_by_proximity.md)
       - [`🛰️_control_conflict_zones.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_control_conflict_zones.md)
@@ -824,7 +825,6 @@ _Generated on 2025-09-29 19:49:54 UTC_
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**📡_telecoms_vectors/**](Metadata_Sabotage_Network/📡_telecoms_vectors/)
     - [`README.md`](Metadata_Sabotage_Network/📡_telecoms_vectors/README.md)
-    - [`🧭_esim_proxy_risk.md`](Metadata_Sabotage_Network/📡_telecoms_vectors/🧭_esim_proxy_risk.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
       - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/README.md)
