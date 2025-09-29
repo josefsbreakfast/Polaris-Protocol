@@ -1,5 +1,5 @@
 # 🌀 Prototype Surveillance as Investor Pitch  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-26 | **Last updated:** 2025-09-29  
 *Hypothesis node: surveillance programme framed as commercial pilot for investor-ready product rather than purely national-interest intelligence.*
 
 ---
@@ -30,15 +30,30 @@ This node outlines the hypothesised structure and logic.
 
 ---
 
+## 🌌 Constellations  
+🌀 🛰️ 💰 🧪 — This node connects commercial logic, test-bed surveillance, data bias, and governance ethics.
+
+**Media references:**  
+- *Sidewalk Toronto* — Alphabet’s failed urban surveillance pilot  
+- *NSO Group & Pegasus* — state surveillance repurposed for private clients  
+- *The Sellout Model* (MIT Tech Review, 2023)
+
+---
+
+## ✨ Stardust  
+prototype surveillance, investor pitch, stress-test surveillance, fudged outcomes, commercial pilot, private surveillance, ethical lapse
+
+---
+
 ## 🏮 Footer  
 
-This hypothesis node is a living part of the Polaris Protocol.  
+*Prototype Surveillance as Investor Pitch* is a living node of the Polaris Protocol.  
 It explores how observed containment tactics might align with investor-driven prototyping rather than public-interest intelligence.
 
 > 📡 Cross-references:  
-> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md) — source observations  
-> - [🌀 System_Governance](./🌀_System_Governance/) — governance logics and control loops  
+> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
+> - [🌀 System Governance](./🌀_System_Governance/)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_
+_Last updated: 2025-09-29_
