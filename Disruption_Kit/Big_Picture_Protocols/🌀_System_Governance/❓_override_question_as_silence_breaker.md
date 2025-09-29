@@ -76,8 +76,8 @@ override logic, type 1 perception, institutional silence, survivor intuition, fo
 It situates professional override as both a safeguard and a probe for forensic silence.
 
 > 📡 Cross-references:  
-> - [📚 Forensic Silence](./📚_forensic_silence.md)  
-> - [🧠 Intuition as Skill](./🧠_intuition_as_skill.md)
+> - [📚 Forensic Silence](./📚_forensic_silence.md) - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*  
+> - [🧠 Intuition as Skill](../🌱_Human_Principles/🧠_intuition_as_skill.md) - *Type 1 recognition as a trainable, bounded skill — from safeguarding overrides to psychic theatre*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
