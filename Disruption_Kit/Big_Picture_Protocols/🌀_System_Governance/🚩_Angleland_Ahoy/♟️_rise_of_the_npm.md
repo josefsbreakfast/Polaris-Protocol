@@ -1,7 +1,7 @@
 # ♟️ Rise of the NPM (Non-Prime Minister)  
 
 **Status:** FICTIONAL / SATIRE — analytic case study + RPG module  
-**Shelf:** Disruption_Kit / Big_Picture_Protocols / 🌀_System_Governance / 🚩_Angleland_Ahoy  
+**Shelf:** Disruption_Kit / Big_Picture_Protocols / 🌀_System_Governance / 🚩_Angleland_Ahoy/♟️_rise_of_the_npm.md  
 
 ---
 
