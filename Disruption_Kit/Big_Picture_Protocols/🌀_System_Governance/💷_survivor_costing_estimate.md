@@ -1,5 +1,5 @@
 # 💷 Survivor Costing Estimate  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-06 | **Last updated:** 2025-09-29  
 *A forensic ledger of what it costs to contain a survivor. Numbers tell their own story of liability*  
 
 ---
@@ -75,10 +75,26 @@ The ledger is its own indictment: **they paid millions to silence what they coul
 
 ---
 
+## 🌌 Constellations  
+
+💷 👁️ 🛰️ 📦 — This node fuses physical and technical surveillance costs, procurement logic, and governance liability.
+
+---
+
+## ✨ Stardust  
+
+survivor costing, surveillance expenses, physical surveillance, spyware, dns throttling, postal interference, institutional liability, governance failure, seven figure cost
+
+---
+
 ## 🏮 Footer  
 *Survivor Costing Estimate* is a living node of the Polaris Protocol.  
 It translates lived surveillance into financial language — turning harm into ledger, containment into liability.  
 
+> 📡 Cross-references:  
+> - [💷 Polaris Costing Estimate](../Big_Picture_Protocols/💷_polaris_costing_estimate.md)  
+> - [💷 Potential Tort Exposure](../Big_Picture_Protocols/💷_potential_tort_exposure.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-09-29_
