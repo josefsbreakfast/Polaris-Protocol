@@ -140,7 +140,14 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 
 ## 🌌 Constellations  
 
-🌀 🛰️ 📚 🗝 — This cluster sits where governance logics, infrastructure stacks, narrative management, and ownership/control intersect.  
+🌀 🛰️ 📚 🗝 — This cluster tracks how governance works through bureaucracy, infrastructure, and narrative.  
+
+Media echoes:  
+- **TV:** *Yes, Minister* / *Yes, Prime Minister* (bureaucratic paradox), *The Wire* (procurement, stats as governance), *The Thick of It* (UK spin-doctor chaos), *The Expanse* (interplanetary politics, infrastructure choke points), *The Crown* (Netflix, monarchy as governance theatre).  
+- **Film:** *In the Loop* (2009, UK/US satire of governance theatre), *The Fog of War* (metrics & responsibility), *HyperNormalisation* (narrative as power), *Vice* (2018, Dick Cheney biopic on shadow governance), *V for Vendetta* (2005, surveillance and resistance), *Watchmen* (2009 film & HBO series, oversight and shadow governance).  
+- **Literature:** *Animal Farm* (George Orwell, allegory of power and bureaucratic drift), Timothy Snyder’s *On Tyranny* (2017, lessons on resisting authoritarianism), Hannah Arendt’s *The Origins of Totalitarianism* / *Eichmann in Jerusalem* (bureaucracy, banality of evil), *The Count of Monte Cristo* (Alexandre Dumas, wrongful imprisonment & containment as governance).  
+- **Podcasts:** *Citations Needed* (media critique), *BBC Analysis* (nudge units, bureaucracy), *The Bugle* (satire of political farce).  
+- **Music:** Gil Scott-Heron’s *B-Movie*, Radiohead’s *Everything in Its Right Place*, Tears for Fears’ *Everybody Wants to Rule the World* (and its many covers).  
 
 ---
 
