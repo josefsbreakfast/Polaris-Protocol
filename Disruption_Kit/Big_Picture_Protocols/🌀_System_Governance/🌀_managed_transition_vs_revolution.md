@@ -1,6 +1,6 @@
 # 🌀 Managed Transition vs Revolution  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
-*Why blocked reform manufactures rupture — and why survivors resist “revolutionary purity”*  
+**First created:** 2025-09-27 | **Last updated:** 2025-09-29  
+*Why blocked reform manufactures rupture — and why survivors resist “revolutionary purity”*
 
 ---
 
@@ -81,15 +81,30 @@ flowchart TB
 
 ---
 
+## 🌌 Constellations  
+🌀 ⚖️ 🧠 🧭 — This node tracks governance inflexibility, rupture dynamics, and survivor stakes in political transitions.
+
+**Media references:**  
+- *Red Famine* — Anne Applebaum  
+- *This Is How They Tell Me the World Ends* — Nicole Perlroth  
+- *Survivors’ Histories of Revolution* (Disability Studies Quarterly, 2021)  
+
+---
+
+## ✨ Stardust  
+managed transition, revolution, reform blockage, rupture dynamics, survivor politics, extractive elites, realism vs purity, survivability
+
+---
+
 ## 🏮 Footer  
 
 *Managed Transition vs Revolution* is a living node of the Polaris Protocol.  
-It maps how blocked reform produces rupture, and why survivors resist narratives that erase the risks of upheaval.  
+It maps how blocked reform produces rupture, and why survivors resist narratives that erase the risks of upheaval.
 
 > 📡 Cross-references:  
-> - [🌀 System_Governance](../🌀_System_Governance/) — governance logics and control loops  
-> - [🗝️ Politics_Memory_Work](../🗝️_Politics_Memory_Work/) — memory and narrative suppression  
+> - [🌀 System Governance](../🌀_System_Governance/)  
+> - [🗝️ Politics Memory Work](../🗝️_Politics_Memory_Work/)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-09-29_
