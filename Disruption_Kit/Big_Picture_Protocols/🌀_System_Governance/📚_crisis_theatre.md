@@ -42,7 +42,7 @@ On the morning of September 11, 2001, planes hit buildings — but the play had 
 
 The theatre was not improvisation. It was a rehearsed production waiting for its opening night.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -55,7 +55,7 @@ The theatre was not improvisation. It was a rehearsed production waiting for its
 - **Gendered violence**: assassinations of women politicians reframed as “murders,” stripped of political meaning.  
 - **White extremist attacks**: treated as aberrations, not “crises.” Selective theatre, selective urgency.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -69,7 +69,7 @@ The theatre was not improvisation. It was a rehearsed production waiting for its
 
 The common thread: failure of governance is recast as justification for more control. The play never admits it is theatre.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -82,7 +82,7 @@ The common thread: failure of governance is recast as justification for more con
 
 This accelerates the pace and intensity of Crisis Theatre. The curtain call is always deferred.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -96,7 +96,7 @@ Capitalism is not a neutral backdrop. It is a system organised around:
 
 Crisis Theatre thrives under capitalism because every disruption becomes a chance to expand control and profit.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -113,7 +113,7 @@ Because saying it blows up the whole stage.
 
 Crisis Theatre needs its villains visible, racialised, and external. The dominant group doesn’t fit the casting call — so no one says it.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -132,12 +132,12 @@ Containment is not only what is staged — it is how *our reactions* to the stag
 
 This is where we need an open debate: should response-tracking in containment contexts be treated as surveillance requiring the same legal safeguards? Or do institutions get to harvest our reactions without admitting they are part of the play?  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
 <a id="democracy-in-name"></a>
-### 🗳️ Democracy in Name?  
+## 🗳️ Democracy in Name?  
 
 If a system silently monitors not only what citizens say, but **how they resist**, then:  
 - **Participation becomes rehearsal.** Every response is folded back into the script.  
@@ -146,7 +146,7 @@ If a system silently monitors not only what citizens say, but **how they resist*
 
 The ethical line is sharp: **how far can monitoring extend before “democracy” is no longer a meaningful description of governance?**  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -164,7 +164,9 @@ But culture also offers mirrors and counternudges.
 
 Together these cultural texts show both the weight of containment — and the counternarratives that let survivors and communities step off the stage.  
 
-#<a id="cultural-resource-appendix"></a>
+---
+
+<a id="cultural-resource-appendix"></a>
 ## 🎶 Cultural Resource Appendix  
 
 | Work | Medium | Year | Why It Matters for Crisis Theatre |
@@ -177,7 +179,7 @@ Together these cultural texts show both the weight of containment — and the co
 
 > These works act as mirrors and counternarratives — showing both how containment scripts are staged and how communities can step outside their cues.
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -209,7 +211,7 @@ Together these cultural texts show both the weight of containment — and the co
 
 > Tip: Where possible, attach local PDFs or permalinks when this node goes live in the repo, so the record resists link‑rot.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -224,7 +226,7 @@ We live in a **perpetual interval**:
 
 Containment is not an accident — it is staged.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -235,7 +237,7 @@ Containment is not an accident — it is staged.
 - **Hold your body steady**: crisis theatre thrives on adrenalised panic; practices that slow heart rate and re-ground can counter its pull.  
 - **Language discipline**: insist on naming things accurately (assassination, terrorism, misogyny) even when officials refuse.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -246,7 +248,7 @@ Containment is not an accident — it is staged.
 - **Memory keeping**: document how “temporary” measures linger — create community archives to resist curated amnesia.  
 - **Solidarity networks**: when crises are scripted to isolate groups, build alliances across lines (faith groups supporting miners; migrant communities backing climate protests).  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
@@ -263,7 +265,7 @@ Containment is not an accident — it is staged.
   - Judicial deference: courts rubber-stamping the emergency as exceptional.  
   - International laundering: exporting dirty work to allies so home states can claim innocence.  
 
-[↩ return to top](#home)
+[✨ return to top](#home)
 
 ---
 
