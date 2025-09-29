@@ -1,3 +1,4 @@
+
 # 📊 Analytics as Signal  
 **First created:** 2025-09-29 | **Last updated:** 2025-09-29  
 *Repo analytics as counter-surveillance evidence of uptake and visibility*
