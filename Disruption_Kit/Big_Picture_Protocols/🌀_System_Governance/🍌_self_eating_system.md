@@ -1,6 +1,5 @@
 # 🍌 The Self-Eating System: Simulated Authenticity and Cultural Cannibalism  
-
-**First created:** 2025-09-14 | **Last updated:** 2025-09-14  
+**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
 *How thrift, Hobonichi, Amazon, AI, and the high street were stripped of aliveness and fed back to us as ghosts*  
 
 ---
@@ -17,7 +16,7 @@
 - [🐍 Ouroboros Capital & Innovation Stasis](#-ouroboros-capital--innovation-stasis)  
 - [🎧 Cultural References](#cultural-refs)  
 - [🌿 Counter-Nudge: Aliveness Over Accumulation](#counter-nudge)  
-  
+
 ---
 
 ## 🪄 Introduction: Exorcising the Wrong Spirits  
@@ -176,4 +175,4 @@ It diagnoses how authenticity, durability, and cultural aliveness are stripped a
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-09-14_  
+_Last updated: 2025-09-29_  
