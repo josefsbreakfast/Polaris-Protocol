@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-29 16:18:55 UTC_
+_Generated on 2025-09-29 16:25:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -55,7 +55,6 @@ _Generated on 2025-09-29 16:18:55 UTC_
       - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_prototype_surveillance_as_investor_pitch.md)
       - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
-      - [`🍌_self_eating_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🍌_self_eating_system.md)
       - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎊_multi_party_data_twinning.md)
       - [`🎥_anomaly_incentives_in_surveillence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎥_anomaly_incentives_in_surveillence.md)
       - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👁️_panopticon_as_industry.md)
@@ -740,6 +739,7 @@ _Generated on 2025-09-29 16:18:55 UTC_
     - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🌀_synthetic_narratives.md)
+      - [`🍌_self_eating_system.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍌_self_eating_system.md)
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
       - [`🎵_operant_conditioning_through_music.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎵_operant_conditioning_through_music.md)
       - [`🎶_shared_tech_voicex_institutional_reports.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)
