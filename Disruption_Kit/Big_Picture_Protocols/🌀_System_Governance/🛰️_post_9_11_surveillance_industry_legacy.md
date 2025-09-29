@@ -1,7 +1,5 @@
 # 🛰️ Post-9/11 Surveillance Industry Legacy  
-
 **First created:** 2025-09-26 | **Last updated:** 2025-09-29  
-
 *How the UK’s current push for digital ID cards fits a long post-9/11 trajectory of surveillance expansion, vendor capture, and misallocated resources.*  
 
 ---
