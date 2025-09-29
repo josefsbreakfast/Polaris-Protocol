@@ -26,7 +26,7 @@
 It consolidates CSE report references, electoral shifts, and far-right mobilisation across local councils.  
 
 > 📡 Backlinks:  
-> - [❌ Negative Evidence Index](../Big_Picture_Protocols/🪬_Radicalisation_Extremism/❌_negative_evidence_index.md) — tracking disappearance of safeguarding reports  
+> - [❌ Negative Evidence Index](../🪬_Radicalisation_Extremism/❌_negative_evidence_index.md) — tracking disappearance of safeguarding reports  
 > - [🪬 Radicalisation & Extremism](../Big_Picture_Protocols/🪬_radicalisation_extremism.md) — systemic logics of far-right mobilisation  
 > - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md) — outsourcing and profit around containment  
 
