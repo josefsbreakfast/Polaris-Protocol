@@ -63,8 +63,8 @@ The clash is structural:
 It documents how Treasury logics and departmental needs clashed, shaping surveillance adoption and vendor lock-in.  
 
 > 📡 Cross-references:  
-> - [🛰️ Surveillance Infrastructure](../🛰️_surveillance_infrastructure.md) — doctrine on metadata capture and Prevent/CVE logics  
-> - [💷 Polaris Costing Estimate](../Big_Picture_Protocols/💷_polaris_costing_estimate.md) — financial consequences of containment systems  
+> - [🛰️ Surveillance Infrastructure](./🛰️_surveillance_infrastructure.md) — *doctrine on metadata capture and Prevent/CVE logics*  
+> - [💷 Polaris Costing Estimate](./💷_polaris_costing_estimate.md) — *financial consequences of containment systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
