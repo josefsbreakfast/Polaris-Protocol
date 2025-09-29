@@ -45,10 +45,10 @@ flowchart TD
     A[Perception:\nType 1 'Something's off'] --> B{Override Invoked?}
     B -->|Yes| C{System Response}
     B -->|No| D[Concern stays silent]
-    C -->|Escalated| E[Signal strengthens:\nPractice + Data align]
-    C -->|Ignored| F[Ghost Trace:\nEvidence of Suppression]
-    C -->|Blocked| G[Erasure:\nForensic Silence]
-    E --> H[Feedback Loop:\nRefine training + audits]
+    C -->|Escalated| E[Signal strengthens:<br>Practice + Data align]
+    C -->|Ignored| F[Ghost Trace:<br>Evidence of Suppression]
+    C -->|Blocked| G[Erasure:<br>Forensic Silence]
+    E --> H[Feedback Loop:<br>Refine training + audits]
     F --> H
     G --> H
 ```
