@@ -1,5 +1,5 @@
 # 📊 Scale of Effects Estimate — Who Is Likely Affected  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
 *Outlines which groups are most likely to be directly or indirectly affected by manufactured provenance, nudging, and data-twin exploitation. Provides a first-pass estimate of scale to help define an auditable population.*  
 
 ---
@@ -37,6 +37,18 @@ Not everyone is directly affected. The impact concentrates in identifiable profe
 
 ---
 
+## 🌌 Constellations  
+
+📊 ⚖️ 💷 🌀 — This node situates scale estimates alongside governance law, costing, and systemic diagnostics.
+
+---
+
+## ✨ Stardust  
+
+scale of effects, who is affected, manufactured provenance, data-twin exploitation, nudging, clearance impact, registered professions, systemic trust erosion
+
+---
+
 ## 🏮 Footer  
 *Scale of Effects Estimate* is a Big Picture Protocol node of the Polaris Protocol.  
 
@@ -44,7 +56,8 @@ Not everyone is directly affected. The impact concentrates in identifiable profe
 > - [⚖️ Transparency Floor Node](../Big_Picture_Protocols/⚖️_transparency_floor.md)  
 > - [⚖️ Registered Professions Impact Node](../Big_Picture_Protocols/⚖️_registered_professions_impact.md)  
 > - [🛡️ Clearance Impact Node](../Big_Picture_Protocols/🛡️_clearance_impact.md)  
+> - [💷 Polaris Costing Estimate](../Big_Picture_Protocols/💷_polaris_costing_estimate.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-09-29_
