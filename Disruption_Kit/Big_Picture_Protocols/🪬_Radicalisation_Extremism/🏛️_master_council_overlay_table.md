@@ -1,5 +1,5 @@
 # 🏛️ Master Council Overlay Table  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-19 | **Last updated:** 2025-09-29  
 *Overlay table mapping CSE reports, political control, and far-right mobilisation across local councils.*  
 
 ---
@@ -27,9 +27,9 @@ It consolidates CSE report references, electoral shifts, and far-right mobilisat
 
 > 📡 Backlinks:  
 > - [❌ Negative Evidence Index](../🪬_Radicalisation_Extremism/❌_negative_evidence_index.md) — tracking disappearance of safeguarding reports  
-> - [🪬 Radicalisation & Extremism](../Big_Picture_Protocols/🪬_radicalisation_extremism.md) — systemic logics of far-right mobilisation  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md) — outsourcing and profit around containment  
+> - [🪬 Radicalisation & Extremism](../🪬_radicalisation_extremism.md) — systemic logics of far-right mobilisation  
+> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — outsourcing and profit around containment  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_
+_Last updated: 2025-09-29_
