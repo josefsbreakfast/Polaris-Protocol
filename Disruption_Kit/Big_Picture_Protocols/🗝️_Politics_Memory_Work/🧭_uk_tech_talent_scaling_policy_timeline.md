@@ -1,5 +1,5 @@
 # 🧭 UK Tech Talent, Scaling, and Policy Timeline  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-10  
+**First created:** 2025-09-01 | **Last updated:** 2025-09-29  
 *Tracing decisions since 2000 that shaped the UK’s dependence on foreign contractors*  
 
 ---
@@ -64,9 +64,9 @@ This is less about capacity than about **policy decisions, procurement culture, 
 It documents the cumulative effect of 25 years of decisions that entrenched outsourcing and blocked domestic capacity.  
 
 > 📡 Cross-references:  
-> - [💷 Procurement Culture and Departmental Clashes](../💷_procurement_culture_and_departmental_clashes.md) - *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
-> - [📊 KPIs vs OKRs in Government](../Big_Picture_Protocols/📊_kpis_vs_okrs_in_government.md)  
+> - [💷 Procurement Culture and Departmental Clashes](../🌀_System_Governance/💷_procurement_culture_and_departmental_clashes.md) - *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
+> - [📊 KPIs vs OKRs in Government](../🌀_System_Governance/📊_kpis_vs_okrs_in_government.md) - *A comparative node on measurement logics in UK public services*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_
+_Last updated: 2025-09-29_
