@@ -1,6 +1,6 @@
 # 🔬 Lost Checks and Balances  
 **First created:** 2025-09-20 | **Last updated:** 2025-09-29  
-*How dissenting individuals were nudged away from panels and committees during the early behavioural insights rollout (2012–2016), reducing scrutiny and distorting the public record.*  
+*How dissenting individuals were nudged away from panels and committees during the early behavioural insights rollout (2012–2016), reducing scrutiny and distorting the public record*  
 
 ---
 
@@ -60,9 +60,9 @@ lost dissent, absent ethics, behavioural insights rollout, committee consensus m
 It documents how the absence of dissent in 2012–2016 weakened scrutiny and distorted the behavioural insights policy record.  
 
 > 📡 Cross-references:  
-> - [🛑 Ignored Evidence Node](../🌀_System_Governance/🛑_ignored_evidence_nudge_2014_2016.md)  
-> - [⚖️ Public Inquiry Business Case](../🌀_System_Governance/⚖️_public_inquiry_business_case.md)  
-> - [🚨 Early Ethics Red Flags](../🌀_System_Governance/🚨_early_ethics_red_flags.md)  
+> - [🛑 Ignored Evidence Node] 
+> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) - *Evidential integrity and data-twin exploitation, requiring formal inquiry*  
+> - [🚨 Early Ethics Red Flags] 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
