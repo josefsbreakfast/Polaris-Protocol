@@ -108,8 +108,8 @@ It documents how containment scripts manipulate time itself — slowing, stretch
 
 > 📡 Cross-references:  
 > - [🌀 System_Governance](../🌀_System_Governance) — parent cluster of governance diagnostics  
-> - [🧠 Psychological_Containment](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_psychological_containment.md) — delay as compliance theatre  
-> - [🛰️ Throttling chokepoints (2025-08-26)](../Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md) — field log evidence  
+> - [`/Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_psychological_containment.md` — delay as compliance theatre  
+> - `🛰️ Throttling chokepoints (2025-08-26)` — field log evidence  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
