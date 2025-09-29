@@ -1,5 +1,5 @@
 # 👁️ Panopticon as Industry  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-09-29  
 *How surveillance architecture moved from Bentham’s prison to modern containment economies.*  
 
 ---
@@ -38,13 +38,15 @@ The Panopticon was never just an idea — it was a business plan. Surveillance m
 
 ---
 
-## ✦ Stardust — Related Tags & Signals  
-- panopticon, surveillance architecture  
-- Bentham, Foucault, discipline & punish  
-- prisons, barracks, asylums, schools  
-- CCTV, GPS, asylum apps  
-- visibility as control  
-- contractor surveillance economy  
+## 🌌 Constellations  
+
+👁️ 📦 🏴 — This node traces the visual and architectural logics of control, from prison towers to modern containment economies.
+
+---
+
+## ✨ Stardust  
+
+panopticon, surveillance architecture, discipline and punish, asylum hotels, cctv, gps tracking, containment economy, private security, contractor surveillance
 
 ---
 
@@ -58,4 +60,4 @@ It tracks how surveillance design became a template for governance, exported int
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-09-29_
