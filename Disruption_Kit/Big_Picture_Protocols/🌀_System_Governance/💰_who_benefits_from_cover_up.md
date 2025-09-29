@@ -73,7 +73,7 @@ It documents structural incentives for maintaining the apparatus despite known r
 
 > 📡 Cross-references:  
 > - [📊 Scale of Effects Estimate](../Big_Picture_Protocols/📊_scale_of_effects_estimate.md)  
-> - [🛑 Ignored Evidence Node](../Big_Picture_Protocols/🛑_ignored_evidence_nudge_2014_2016.md)  
+> - [🛑 Ignored Evidence Node](../👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)  
 > - [⚖️ Transparency Floor Node](../Big_Picture_Protocols/⚖️_transparency_floor.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
