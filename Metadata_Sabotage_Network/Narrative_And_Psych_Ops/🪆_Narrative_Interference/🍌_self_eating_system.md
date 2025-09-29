@@ -169,10 +169,13 @@ We’ve exorcised the wrong spirits. The work now is to call the right ones home
 ## 🏮 Footer  
 
 *The Self-Eating System* is a living node of the Polaris Protocol.  
-It diagnoses how authenticity, durability, and cultural aliveness are stripped and re-sold, leaving us with ghosts of our own making.  
+It traces how authenticity, durability, and cultural aliveness are stripped and re-sold, functioning as a narrative interference tactic within metadata sabotage.  
+
+> 📡 Cross-references:  
+> - [🪆 Narrative Interference](../🪆_narrative_interference.md) — parent cluster on narrative suppression and recycling  
+> - [📚 Narrative Management and Metadata Sabotage](../📚_narrative_management_and_metadata_sabotage.md) — wider strategies of cultural containment  
+> - [🎊 Multi-Party Data Twinning](../../🌀_System_Governance/🎊_multi_party_data_twinning.md) — on vendor logics and composite datasets  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
 _Last updated: 2025-09-29_  
