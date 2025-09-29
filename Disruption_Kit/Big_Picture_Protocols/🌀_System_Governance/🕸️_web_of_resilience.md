@@ -4,19 +4,19 @@
 
 ---
 
-## Explainer  
+## ✨ Explainer  
 This protocol merges two strands of Polaris work:  
 - the **two-layer model** (micro nervous-system survival + macro infrastructure resilience), and  
 - the **three-tier framework** (system, communal, personal).  
 
-Together, they form a unified manual for hostile data terrains.  
+🤝 Together, they form a unified manual for hostile data terrains. 🤝  
 
 The guiding principle is that **information war behaves like insurgency**: it fragments, pairs, and floods rather than fighting openly.  
 - At the **personal/micro level**, the target is the nervous system: overloading with noise, spikes of humiliation, or ghost inserts.  
 - At the **communal/meso level**, the target is trust: sowing confusion, impersonation, or archive corruption.  
 - At the **system/macro level**, the target is infrastructure: deregulated platforms, cloud choke points, and cross-border turbulence.  
 
-Resilience must therefore be **layered**: stabilising the body, preserving solidarity, and diversifying infrastructure.  
+🏯 Resilience must therefore be **layered**: stabilising the body, preserving solidarity, and diversifying infrastructure. 🏯  
 
 This document is not a single recipe. It is a *playbook for recognition and response*, helping users to:  
 1. Identify which level is under attack.  
@@ -25,7 +25,7 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 
 ---
 
-## 0. Assumptions  
+## 🩻 0. Assumptions  
 - The Anglophone internet stack (.com domains, cloud services, major social platforms) is centralized, deregulated, and geopolitically exposed.  
 - Information operations (IO) use insurgency logics: pairing, flooding, fragmentation, and context collapse.  
 - Impacts cascade across three layers: **personal → communal → system**.  
@@ -34,7 +34,7 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 
 ---
 
-## 1. Personal / Micro — Nervous System Survival  
+## ⚡ 1. Personal / Micro — Nervous System Survival  
 
 ### 1.1 Intake Triage  
 - **Stable signal** → repeats, coherent, anchored.  
@@ -46,7 +46,7 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 - Control/cruelty → disengage.  
 - **Pocket tool**:  
 1. Name the urge.  
-2. Visualise **BAT APPEARS** consequence (a simple grounding image used across Polaris tools to disrupt compulsive loops).  
+2. Use grounding techniques, visualisation, mediatation to delay urge.    
 3. Delay 10 minutes before acting.  
 
 ### 1.3 Rest Protocol  
@@ -64,7 +64,7 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 
 ---
 
-## 2. Communal / Meso — Group Cohesion & Trust  
+## 🎋 2. Communal / Meso — Group Cohesion & Trust  
 
 ### 2.1 Tactics in Play  
 - Flood-the-zone: overwhelm with noise.  
@@ -87,7 +87,7 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 
 ---
 
-## 3. System / Macro — Infrastructure & Geopolitics  
+## 🎏 3. System / Macro — Infrastructure & Geopolitics  
 
 ### 3.1 Tactics in Play  
 - Deregulation as vulnerability (“move fast, break things”).  
@@ -108,7 +108,7 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 
 ---
 
-## 4. Operational Hygiene  
+## 🛁 4. Operational Hygiene  
 
 ### Devices & Accounts  
 - Dirty/Clean split (browsing vs. identity).  
@@ -149,7 +149,7 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 
 ---
 
-## 5. Visual Mapping: Two-Layer vs Three-Tier  
+## 🧿 5. Visual Mapping: Two-Layer vs Three-Tier  
 
 |                 | **Micro (Personal/Nervous System)** | **Macro (Structural/Systemic)** |
 |-----------------|--------------------------------------|----------------------------------|
@@ -159,12 +159,36 @@ This document is not a single recipe. It is a *playbook for recognition and resp
 
 ---
 
-## 6. Background & History  
-... (same content as before) ...  
+## 🧬 6. Background & History  
+
+The *Web of Resilience* emerges from two prior Polaris threads:  
+
+1. **🍃 Two-Layer Resilience Protocol** (2025-08) — first framed resilience as a dual movement: stabilising the nervous system (micro) and diversifying infrastructure (macro). It documented how survival tactics scale upward into infrastructure questions.  
+
+2. **Three-Tier Framework** (2025-09) — drawn from field logs on communal fracture and archive sabotage, this added the meso/communal layer: trust as a target in itself.  
+
+These strands converged after repeated **field observations**:  
+- Nervous systems collapsing under ghost inserts and humiliation spikes.  
+- Groups fragmenting under impersonation and narrative laundering.  
+- Infrastructure showing fragility at ISP chokepoints and cloud outages.  
+
+Historically, resilience discourse has often been weaponised — used to excuse austerity or demand endurance under harm (see [🧨 Resilience as Suppression Rhetoric](../Disruption_Kit/Containment_Scripts/🧨_resilience_as_suppression_rhetoric.md)). This manual reclaims the term, grounding it in survivor practice and systemic diagnostics.  
+
+Resilience has long been a **religious and imperial problem**: endurance of pain was sanctified as virtue, then co-opted to compel labour and obedience from populations deemed expendable. This power dynamic has endured for centuries. Yet alongside it runs a **counter-history of refusal** — the oral traditions, survival stories, and quiet practices of communities who resisted being reduced to suffering.  
+
+Those stories show that no one resists alone. Even if situations differ, there are always echoes across time: people like you have faced extraction, humiliation, and coercion before, and they left signals behind. Diversity itself has been a shield — cultures too plural to police completely, experiences too varied to fully erase. The survival of knowledge depends on its passing, whether through words, rituals, or lived memory.  
+
+The *Web* is thus not abstract theory but a synthesis of:  
+- Survivor nervous-system playbooks,  
+- Communal trust-repair protocols,  
+- Systemic governance critiques, and  
+- The long lineage of resistant knowledge carried outside official archives.  
+
+It stands in continuity with earlier insurgency studies (from counterinsurgency manuals to networked protest resilience) but refuses their state-centric posture. Instead, it builds a survivor-led field manual for hostile information terrains.  
 
 ---
 
-## 7. Default Play  
+## 👻 7. Default Play  
 1. Label: Stable or Ghost?  
 2. If Ghost → Ignore.  
 3. If Stable → Minimal engagement.  
