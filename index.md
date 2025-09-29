@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-29 16:06:28 UTC_
+_Generated on 2025-09-29 16:10:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -648,8 +648,6 @@ _Generated on 2025-09-29 16:06:28 UTC_
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
-  - [**Evidence_And_Anomalies/**](Metadata_Sabotage_Network/Evidence_And_Anomalies/)
-    - [`📊_analytics_as_signal.md`](Metadata_Sabotage_Network/Evidence_And_Anomalies/📊_analytics_as_signal.md)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md)
@@ -685,6 +683,7 @@ _Generated on 2025-09-29 16:06:28 UTC_
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
+      - [`📊_analytics_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_analytics_as_signal.md)
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
       - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_soft_suspension_is_still_containment.md)
       - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_system_agitation_shopping_list.md)
