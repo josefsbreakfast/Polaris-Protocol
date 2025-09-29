@@ -92,8 +92,8 @@ survivor costing, surveillance expenses, physical surveillance, spyware, dns thr
 It translates lived surveillance into financial language — turning harm into ledger, containment into liability.  
 
 > 📡 Cross-references:  
-> - [💷 Polaris Costing Estimate](../Big_Picture_Protocols/💷_polaris_costing_estimate.md)  
-> - [💷 Potential Tort Exposure](../Big_Picture_Protocols/💷_potential_tort_exposure.md)  
+> - [💷 Polaris Costing Estimate](./💷_polaris_costing_estimate.md)  
+> - [💷 Potential Tort Exposure](./💷_potential_tort_exposure.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
