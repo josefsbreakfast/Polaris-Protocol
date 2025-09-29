@@ -1,6 +1,6 @@
 # ⚖️ Small Bureaucrats Catch-22  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-14  
-*Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance*  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-29  
+*Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance.*
 
 ---
 
@@ -27,11 +27,31 @@
 
 ---
 
+## 🌌 Constellations  
+⚖️ 🧠 🪫 🧬 — This node sits within governance, psychological containment, and survivor resistance pathways.
+
+**Media references:**  
+- *I'm Sorry You Feel That Way* (Survivor memoirs & institutional replies)  
+- *Yes Minister* (BBC satire) — procedural delay and bureaucratic dodge  
+- *The Care Certificate Scandal* (Community Care, 2023)
+
+---
+
+## ✨ Stardust  
+bureaucratic delay, survivor exhaustion, gatekeeping, complicit middle layers, institutional resistance, targeted pressure, care systems, anti-fascist logic
+
+---
+
 ## 🏮 Footer  
 
 *Small Bureaucrats Catch-22* is a living node of the Polaris Protocol.  
-It documents how complicit middle-layers create systemic stalemates and how survivors can resist until catalyst moments shift access.  
+It documents how complicit middle-layers create systemic stalemates and how survivors can resist until catalyst moments shift access.
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+> 📡 Cross-references:  
+> - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md)  
+> - [🪫 Austerity Long Tail & Data Instability](./🪫_austerity_long_tail_data_instability.md)  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment)
 
-_Last updated: 2025-09-14_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-29_
