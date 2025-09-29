@@ -1,5 +1,5 @@
-# 🧭 eSIM / SIM-Proxy Risk Node — Detection & Mitigation  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-26  
+# ☎ eSIM / SIM-Proxy Risk Node — Detection & Mitigation  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
 *Forensic indicators of SIM-level proxying/provisioning abuse and defensive steps.*
 
 ---
@@ -37,4 +37,4 @@
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_
+_Last updated: 2025-09-29_
