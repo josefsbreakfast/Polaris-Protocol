@@ -1,6 +1,5 @@
 # 🧪 Failure Recycling  
 **First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-
 *Discredited models rebranded and reintroduced — failure dressed as innovation*  
 
 ---
