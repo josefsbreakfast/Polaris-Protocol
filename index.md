@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-29 10:26:39 UTC_
+_Generated on 2025-09-29 10:30:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -48,6 +48,7 @@ _Generated on 2025-09-29 10:26:39 UTC_
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🍌_self_eating_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🍌_self_eating_system.md)
       - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎊_multi_party_data_twinning.md)
+      - [`🎥_anomaly_incentives_in_surveillence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎥_anomaly_incentives_in_surveillence.md)
       - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👁️_panopticon_as_industry.md)
       - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💰_who_benefits_from_cover_up.md)
       - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_polaris_costing_estimate.md)
