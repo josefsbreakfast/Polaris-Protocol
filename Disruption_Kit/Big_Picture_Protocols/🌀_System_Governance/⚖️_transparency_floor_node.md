@@ -81,7 +81,7 @@ It documents how FOIA/SAR frameworks structurally disempower those most likely t
 > 📡 Cross-references:  
 > - [📓 Paper Diary Sovereignty](../../Survivor_Tools/📓_paper_diary_sovereignty.md)  
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
-> - [🪄 Influencer Resilience](../Survivor_Tools/🪄_influencer_resilience.md)
+> - [🪄 Influencer Resilience](../../Survivor_Tools/🪄_influencer_resilience.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
