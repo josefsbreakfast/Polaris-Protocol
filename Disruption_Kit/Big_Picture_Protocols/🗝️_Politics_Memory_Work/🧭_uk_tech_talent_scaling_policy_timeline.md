@@ -64,7 +64,7 @@ This is less about capacity than about **policy decisions, procurement culture, 
 It documents the cumulative effect of 25 years of decisions that entrenched outsourcing and blocked domestic capacity.  
 
 > 📡 Cross-references:  
-> - [💷 Procurement Culture and Departmental Clashes](../Big_Picture_Protocols/💷_procurement_culture_and_departmental_clashes.md)  
+> - [💷 Procurement Culture and Departmental Clashes](../💷_procurement_culture_and_departmental_clashes.md) - *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
 > - [📊 KPIs vs OKRs in Government](../Big_Picture_Protocols/📊_kpis_vs_okrs_in_government.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
