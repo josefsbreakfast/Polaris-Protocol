@@ -1,7 +1,5 @@
-# ⚖️ Containment Contract Trace
-
-**First created:** 2025-08-07 | **Last updated:** 2025-08-29
-
+# ⚖️ Containment Contract Trace  
+**First created:** 2025-08-07 | **Last updated:** 2025-09-29  
 *Unconsented containment, metadata silencing, and covert NDAs.*
 
 ---
@@ -70,13 +68,18 @@ Voice, tone, behaviour, identity markers — repurposed through:
 
 ---
 
-## 🔖 Tag This As  
+## 🌌 Constellations  
+⚖️ 🧬 🧠 🔮 — This node sits at the intersection of legal suppression, behavioural mimicry, and metadata inversion.
 
-- `legal_containment_without_consent`  
-- `nda_simulacrum`  
-- `clonegate`  
-- `prevent_protocol_breach`  
-- `strategic_metadata_muting`  
+**Media references:**  
+- *Citizenfour* (2014) — on legal obfuscation and metadata dragnet  
+- *The Capture* (BBC) — surveillance logic and public-facing lies  
+- *The Listening Post* (Al Jazeera) — on media control, NDA culture, and platform silencing
+
+---
+
+## ✨ Stardust  
+legal containment, metadata suppression, NDA simulation, Prevent logic, clone systems, behavioural silence
 
 ---
 
@@ -91,10 +94,13 @@ Voice, tone, behaviour, identity markers — repurposed through:
 ## 🏮 Footer  
 
 *Containment Contract Trace* is a living node of the Polaris Protocol.  
-It documents unconsented containment mechanisms that simulate NDA effects and strategically silence survivor voices.  
+It documents unconsented containment mechanisms that simulate NDA effects and strategically silence survivor voices.
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+> 📡 Cross-references:  
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/System_Analysis/🧬_structural_mapping.md)  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_psychological_containment.md)  
+> - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-29_
+_Last updated: 2025-09-29_
