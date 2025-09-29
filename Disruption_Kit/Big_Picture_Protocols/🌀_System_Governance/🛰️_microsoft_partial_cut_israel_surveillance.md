@@ -84,8 +84,8 @@ microsoft azure, israel surveillance, palestinian civilians, corporate accountab
 It documents a rare moment where a cloud provider acted against a state surveillance programme on human-rights grounds.  
 
 > 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — *systemic ruptures and accountability gaps*  
-> - [🛰️ Post-9/11 Surveillance Industry Legacy](./🛰️_post_9_11_surveillance_industry_legacy.md) - *How the UK’s current push for digital ID cards fits a long post-9/11 trajectory of surveillance expansion, vendor capture, and misallocated resources*  
+> - [🛰️ Post-9/11 Surveillance Industry Legacy](./🛰️_post_9_11_surveillance_industry_legacy.md) - *How the UK’s current push for digital ID cards fits a long post-9/11 trajectory of surveillance expansion, vendor capture, and misallocated resources*
+> - [🛰️ Control Conflict Zones](../../../Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/🛰️_control_conflict_zones.md) - *This file tracks and theorises internal system conflicts, surveillance turf wars, and behavioural override clashes across UK intelligence, private contractors, and ghost infrastructure*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
