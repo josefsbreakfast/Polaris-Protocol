@@ -1,17 +1,17 @@
 # 🧠 Didn’t Apply Brain Loop  
-**First created:** 2025-09-03 | **Last updated:** 2025-09-14  
+**First created:** 2025-09-03 | **Last updated:** 2025-09-29  
 *How predator paranoia becomes institutional “intelligence” through DARVO echo chambers*  
 
 ---
 
-## Summary  
+## ✨ Summary  
 This node documents the absurd logic spiral where a predator’s DARVO defence (“she’s obsessed with me”) is treated as actionable evidence.  
 Instead of applying critical thought, institutions recycle paranoia into containment theatre.  
 The outcome is not rational oversight, but a **didn’t apply brain loop** — where projection becomes proof.  
 
 ---
 
-## Key Dynamics  
+## 🍄 Key Dynamics  
 
 - **Predator Paranoia:**  
   - *“She’ll always hate me.”*  
@@ -29,7 +29,7 @@ The outcome is not rational oversight, but a **didn’t apply brain loop** — w
 
 ---
 
-## Experiential Effect  
+## 🧪 Experiential Effect  
 
 Survivors experience this as Kafkaesque absurdity:  
 a system burning resources to prove a predator’s delusion true.  
@@ -47,4 +47,4 @@ It exposes how DARVO, when bureaucratised, produces feedback spirals that displa
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-09-14_
+_Last updated: 2025-09-29_
