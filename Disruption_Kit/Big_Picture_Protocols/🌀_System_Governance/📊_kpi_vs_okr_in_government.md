@@ -53,7 +53,7 @@ kpi vs okr, measurement logics, targets culture, public services, governance ref
 It documents how measurement logics shape public service behaviour, and offers alternatives that preserve human dignity within state systems.  
 
 > 📡 Cross-references:  
-> - [💷 Procurement Culture and Departmental Clashes](../Big_Picture_Protocols/💷_procurement_culture_and_departmental_clashes.md)  
+> - [💷 Procurement Culture and Departmental Clashes](./💷_procurement_culture_and_departmental_clashes.md)  
 > - [🌀 Reverse Colonisation Timeline](../Big_Picture_Protocols/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
