@@ -1,5 +1,5 @@
 # 🛰️ Hypothetical Nudge Map for [redacted]  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
 *Neutral hypothesis record exploring what a “from → to” nudge might look like for a public figure during the 2014–2016 window, without attribution of motive or claim of fact.*  
 
 ---
@@ -36,8 +36,8 @@ It documents how a “from → to” displacement might function structurally in
 
 > 📡 Backlinks:  
 > - [🧭 Counterfactual — St George’s 2016](../Big_Picture_Protocols/🧭_counterfactual_st_georges_2016.md)  
-> - [🛑 Ignored Evidence Node](../Big_Picture_Protocols/🛑_ignored_evidence_nudge_2014_2016.md)  
+> - [🛑 Ignored Evidence Node](../👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-09-29_  
