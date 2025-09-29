@@ -1,6 +1,6 @@
 # ⚖️ Containment Contract Trace  
 **First created:** 2025-08-07 | **Last updated:** 2025-09-29  
-*Unconsented containment, metadata silencing, and covert NDAs.*
+*Unconsented containment, metadata silencing, and covert NDAs*
 
 ---
 
