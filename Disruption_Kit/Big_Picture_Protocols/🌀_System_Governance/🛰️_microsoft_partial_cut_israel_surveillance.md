@@ -1,7 +1,5 @@
 # 🛰️ Microsoft Partial Cut — Israel Surveillance  
-
 **First created:** 2025-09-26 | **Last updated:** 2025-09-29  
-
 *Microsoft disables a subset of Azure + AI services to Israeli MOD unit over Palestinian surveillance.*  
 
 ---
