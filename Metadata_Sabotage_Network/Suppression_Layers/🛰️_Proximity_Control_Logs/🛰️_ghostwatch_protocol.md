@@ -1,5 +1,5 @@
 # 🛰️ ghostwatch_protocol.md
-
+**First created:** 2025-08-07 | **Last updated:** 2025-09-29  
 **Polaris Protocol Node**  
 **Status:** Active Surveillance Awareness  
 **Category:** Metadata_Sabotage_Network / Behavioural Observation / Shadow Monitoring
