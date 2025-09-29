@@ -37,10 +37,10 @@ A visual cycle showing how algorithmic pacing, future faking, and false timeline
 
 ```mermaid
 flowchart TD
-  A[Promise / Horizon<br>(Future faking)] --> B[Waiting / Delay<br>(Algorithmic pacing)]
-  B --> C[Expiry / Non-Delivery<br>(False timeline too short)]
-  C --> D[Exhaustion / Discouragement<br>(False timeline too long)]
-  D --> E[Re-promise<br>(Loop restarts)]
+  A[Promise / Horizon,<br>aka future faking] --> B[Waiting / Delay<br>as algorithmic pacing]
+  B --> C[Expiry / Non-Delivery,<br>where false timeline too short]
+  C --> D[Exhaustion / Discouragement,<br>where false timeline too long]
+  D --> E[Re-promise,<br>where loop restarts]
   E --> A
 ```
 
