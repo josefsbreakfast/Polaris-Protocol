@@ -1,7 +1,6 @@
 # 📚 Forensic Silence  
 **First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-
-*Active narrative gaps where records were scrubbed — the hole itself becomes evidence.*  
+*Active narrative gaps where records were scrubbed — the hole itself becomes evidence*  
 
 ---
 
@@ -95,10 +94,10 @@ forensic silence, disappeared reviews, retracted datasets, superinjunctions, scr
 It documents how silence itself becomes probative evidence of suppression.  
 
 > 📡 Cross-references:  
-> - [🌀 System_Governance](./) — parent cluster of governance diagnostics  
-> - [❓ Override Question as Silence Breaker](./❓_override_question_as_silence_breaker.md) — intuition in safeguarding systems  
-> - [🧠 Intuition as Skill](./🧠_intuition_as_skill.md) — recognising Type 1 as skill  
-> - [㊙ Containment Contracts](../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_containment_contracts.md) — NDA and gag structures enforcing silence  
+> - [🌀 System_Governance](./) — *parent cluster of governance diagnostics*  
+> - [❓ Override Question as Silence Breaker](./❓_override_question_as_silence_breaker.md) — *intuition in safeguarding systems*  
+> - [🧠 Intuition as Skill](./🧠_intuition_as_skill.md) — *recognising Type 1 as skill*  
+> - [㊙ Containment Contracts](../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_containment_contracts.md) — *NDA and gag structures enforcing silence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
