@@ -1,5 +1,5 @@
 # 🧟‍♀️ The Frankenstack Problem 
-**First created:** 2025-08-20 | **Last updated:** 2025-09-14  
+**First created:** 2025-08-20 | **Last updated:** 2025-09-29  
 *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*  
 
 ---
@@ -81,7 +81,7 @@ Every seam is a breach; the whole is a structural violation.
 ### 2012  
 - **CSE prosecutions collapse** (Rochdale, Oxfordshire). CPS under fire  
 - Metadata + behavioural inference normalised in CT  
-- Horizon/EPSRC projects seeded at Nottingham + Hallam  
+- Horizon/EPSRC projects seeded at Midlands Universities  
 
 ### 2013  
 - **Starmer exits CPS**  
@@ -131,4 +131,4 @@ It maps how counter-extremism, safeguarding, and healthcare pipelines fused into
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-09-14_
+_Last updated: 2025-09-29_
