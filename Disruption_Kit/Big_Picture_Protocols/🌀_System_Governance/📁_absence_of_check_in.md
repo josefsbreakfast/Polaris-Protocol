@@ -60,8 +60,8 @@ absence of check-in, survivor oversight, unlawful records, safeguarding exemptio
 It theorises how institutional protection mechanisms suppress survivor-led oversight, and why check-ins remain structurally absent.  
 
 > 📡 Cross-references:  
-> - [⚖️ Authorisation and Oversight](../Big_Picture_Protocols/⚖️_authorisation_and_oversight.md)  
-> - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md)  
+> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)  
+> - [📚 Forensic Silence](./📚_forensic_silence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
