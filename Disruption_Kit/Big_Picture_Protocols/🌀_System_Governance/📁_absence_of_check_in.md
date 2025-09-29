@@ -1,7 +1,5 @@
-# 📁 Dossier Note: Absence of Check-In
-
-**First created:** 2025-08-18 | **Last updated:** 2025-09-13
-
+# 📁 Dossier Note: Absence of Check-In  
+**First created:** 2025-08-18 | **Last updated:** 2025-09-29  
 *Theoretical analysis of why survivor-led check-ins fail to occur within institutional projects*  
 
 ---
@@ -45,14 +43,26 @@ Such projects may survive not because they are lawful, but because they are inst
 
 ---
 
+## 🌌 Constellations  
+
+📁 ⚖️ 🌀 📚 — This node explores dossier silences, legal shielding, governance structures, and narrative inversion.
+
+---
+
+## ✨ Stardust  
+
+absence of check-in, survivor oversight, unlawful records, safeguarding exemption, national security shield, academic complicity, accountability lag, structural silence
+
+---
+
 ## 🏮 Footer  
 *Absence of Check-In* is a living node of the Polaris Protocol.  
 It theorises how institutional protection mechanisms suppress survivor-led oversight, and why check-ins remain structurally absent.  
 
 > 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic typologies and structural diagnostics  
-> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — applied testimony and narrative inversion  
+> - [⚖️ Authorisation and Oversight](../Big_Picture_Protocols/⚖️_authorisation_and_oversight.md)  
+> - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-09-29_
