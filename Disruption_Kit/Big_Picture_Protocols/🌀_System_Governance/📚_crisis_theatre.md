@@ -1,8 +1,6 @@
 # 📚 Crisis Theatre  
 <a id="home"></a>
-
-**First created:** 2025-09-14 | **Last updated:** 2025-09-14  
-
+**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
 *The emergency as stagecraft: when crises are staged, exaggerated, or selectively framed to authorise powers already waiting in the wings.*  
 
 ---
@@ -21,6 +19,8 @@
 - [🌱 Embodied Practices (Tier 1)](#embodied-practices)
 - [🫂 Community Consciousness & Connection (Tier 2)](#community-consciousness)
 - [🏛️ Systemic Governance Fixes & Pitfalls (Tier 3)](#systemic-fixes)
+- [🌌 Constellations](#constellations)
+- [✨ Stardust](#stardust)
 - [🏮 Footer](#footer)
 
 ---
@@ -149,6 +149,7 @@ The ethical line is sharp: **how far can monitoring extend before “democracy�
 [↩ return to top](#home)
 
 ---
+
 <a id="cultural-mirrors-counterweights"></a>
 ## 🎭 Cultural Mirrors & Counterweights  
 
@@ -266,6 +267,20 @@ Containment is not an accident — it is staged.
 
 ---
 
+<a id="constellations"></a>
+## 🌌 Constellations  
+
+📚 🌀 ⚖️ 🪞 — This node links narrative stagecraft to governance logics, legal frameworks, and illusion-based containment.
+
+---
+
+<a id="stardust"></a>
+## ✨ Stardust  
+
+crisis theatre, emergency powers, surveillance capitalism, permanent interval, stagecraft, governance through panic, narrative scapegoating, emergency data regimes, containment performance
+
+---
+
 <a id="footer"></a>
 ## 🏮 Footer  
 
@@ -280,4 +295,4 @@ It documents how governments and institutions stage emergencies as performances 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-14_  
+_Last updated: 2025-09-29_
