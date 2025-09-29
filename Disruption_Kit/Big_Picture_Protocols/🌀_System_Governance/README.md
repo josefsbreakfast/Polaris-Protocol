@@ -134,7 +134,7 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 
 ## 🔮 Visual Framing  
 
-```
+```mermaid
 flowchart TD
   %% =========================
   %% Governance as Containment — from scratch
