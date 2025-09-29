@@ -2,6 +2,8 @@
 **First created:** 2025-09-26 | **Last updated:** 2025-09-29  
 *Ministerial and judicial checks on intelligence powers.*
 
+## Summary
+
 Every intrusion comes signed, minister and judge. That’s the promise. But survivors know signatures don’t always equal consent.  
 
 ---
