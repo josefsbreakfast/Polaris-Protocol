@@ -1,7 +1,5 @@
 # 🛰️ Data Fusion Centres  
-
 **First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-
 *Nodes where multiple data streams merge (health, education, police), erasing consent boundaries.*  
 
 ---
