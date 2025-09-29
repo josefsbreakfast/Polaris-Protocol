@@ -85,7 +85,7 @@ It documents a rare moment where a cloud provider acted against a state surveill
 
 > 📡 Cross-references:  
 > - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic ruptures and accountability gaps  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal practices  
+> - [🛰️ Post-9/11 Surveillance Industry Legacy](./🛰️_post_9_11_surveillance_industry_legacy.md) 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
