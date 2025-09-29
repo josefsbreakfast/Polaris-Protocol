@@ -1,13 +1,48 @@
-# 🪑 But I Want To Play As...?  
+# 🪑 Alternative Committees — Angleland RPG  
 
-Well **tough.**  
+Not every Angleland party has a Committee you can meaningfully face down.  
+Some collapse under their own contradictions, others implode by design.  
 
-Why not play as other parties?  
+---
 
-- **Lib Dems:** Do we honestly think they could all agree on one thing long enough to form a Committee?  
-- **Greens:** Equally fractious; likely to split into three Committees before Year 2.  
-- **Reform:** They’re trying, but their strange shade of blue doesn’t suit any pale skintone — and that feels like their niche by choice.  
+## 🟠 Lib Dems  
 
-Do you honestly think any of them can consolidate full executive control of Angleland in a decade?  
+- **Style:** Earnest, well-meaning, and armed with too many flowcharts.  
+- **Satire:** They can’t agree on one thing long enough to form a coherent Committee.  
+- **⭐ Gameplay:** Auto-collapse by Year 2. Roll a d6:  
+  - 1–3 = they split into rival micro-committees.  
+  - 4–6 = they quietly merge into someone else’s Committee.  
 
-**Your call; you are supposed to try to *win* the game.**
+---
+
+## 🌱 Greens  
+
+- **Style:** Fractious, ecological, and permanently mid-split.  
+- **Satire:** Likely to break into three Committees before Year 2.  
+- **⭐ Gameplay:** By Year 3, replace them with **3 Mini-Committees**.  
+  - Roll +Party separately for each.  
+  - Success = +1 Party (eco-wing boost).  
+  - Failure = +1 Red Flag (“another schism”).  
+
+---
+
+## 🟦 Reform  
+
+- **Style:** Trying hard to be a Committee, dressed in a strange shade of blue that doesn’t suit anyone in Angleland.  
+- **Satire:** In the Angleland setting, Reform is bluntly portrayed as a racist faction — obsessed with keeping itself pale and exclusive.  
+- **⭐ Gameplay:** Roll +Party.  
+  - Success = you recruit a “True Believer” bloc.  
+  - Failure = bloc implodes in recriminations.  
+  - Either way, add +1 Red Flag by Year 5 — exclusivity rots coalitions from within.  
+
+---
+
+## 🎲 Designer’s Note  
+
+Do you honestly think any of these Committees could consolidate full executive control of Angleland in a decade?  
+
+Your call. You’re supposed to *win* the game.  
+
+---
+
+*Angleland RPG — Satire, not a how-to manual.*  
