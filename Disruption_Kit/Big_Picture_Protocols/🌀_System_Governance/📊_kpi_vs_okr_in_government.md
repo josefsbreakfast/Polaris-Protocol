@@ -1,5 +1,5 @@
 # 📊 KPIs vs OKRs in Government  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-01 | **Last updated:** 2025-09-29  
 *A comparative node on measurement logics in UK public services*  
 
 ---
@@ -35,15 +35,27 @@ The frame builds from long-standing critiques of New Labour’s “targets cultu
 
 ---
 
+## 🌌 Constellations  
+
+📊 💷 🏛️ 🌀 — This node links measurement logics, Treasury culture, governance diagnostics, and systemic reform.
+
+---
+
+## ✨ Stardust  
+
+kpi vs okr, measurement logics, targets culture, public services, governance reform, uk whitehall, outcomes vs outputs, dashboard politics
+
+---
+
 ## 🏮 Footer  
 
 *KPIs vs OKRs in Government* is a living node of the Polaris Protocol.  
 It documents how measurement logics shape public service behaviour, and offers alternatives that preserve human dignity within state systems.  
 
 > 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic diagnostics and inversion theory  
-> - [Admin Kit](../Admin_Kit/) — house style, scaffolding, and planning nodes  
+> - [💷 Procurement Culture and Departmental Clashes](../Big_Picture_Protocols/💷_procurement_culture_and_departmental_clashes.md)  
+> - [🌀 Reverse Colonisation Timeline](../Big_Picture_Protocols/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-09-29_
