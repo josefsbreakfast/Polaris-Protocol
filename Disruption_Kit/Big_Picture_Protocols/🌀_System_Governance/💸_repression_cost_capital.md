@@ -1,5 +1,5 @@
 # 💸 Repression Cost Capital  
-**First created:** 2025-08-31 | **Last updated:** 2025-09-13  
+**First created:** 2025-08-31 | **Last updated:** 2025-09-29  
 *How repression in liberal democracies corrodes predictability, raises transaction costs, and destabilises capital flows.*  
 
 ---
@@ -43,15 +43,28 @@ Short-term containment may shield elites, but long-term it generates political r
 
 ---
 
+## 🌌 Constellations  
+
+💸 💷 ⚖️ 🌍 — This node links repression costs, financial exposure, governance law, and global capital flows.
+
+---
+
+## ✨ Stardust  
+
+repression cost, capital flows, liberal democracy, political risk, transaction costs, investor trust, market stability, suppression and finance, governance failure
+
+---
+
 ## 🏮 Footer  
 
 *Repression Cost Capital* is a living node of the Polaris Protocol.  
 It traces how suppression corrodes the very market stability that liberal democracy promises to capital.  
 
 > 📡 Cross-references:  
-> - [System Governance](../🌀_System_Governance/) — diagnostics of state logic and suppression costs  
-> - [Containment Scripts](../../Containment_Scripts/) — modes of visibility throttling and systemic sabotage  
+> - [💷 Polaris Costing Estimate](../Big_Picture_Protocols/💷_polaris_costing_estimate.md)  
+> - [💷 Potential Tort Exposure](../Big_Picture_Protocols/💷_potential_tort_exposure.md)  
+> - [🌀 System Governance](../🌀_System_Governance/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-09-29_
