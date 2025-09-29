@@ -1,5 +1,5 @@
 # 📋 Tick-Box Compliance as Containment  
-**First created:** 2025-09-25 | **Last updated:** 2025-09-25  
+**First created:** 2025-09-25 | **Last updated:** 2025-09-29  
 *Institutional minimalism that simulates accountability while erasing systemic responsibility*  
 
 ---
@@ -31,11 +31,15 @@
 
 ---
 
-## 🔗 Cross-References  
+## 🌌 Constellations  
 
-- [😴 Cognitive Load as Infrastructure](../🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md)  
-- [📚 Crisis Theatre](../🌀_System_Governance/📚_crisis_theatre.md)  
-- [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md)  
+📋 😴 ⚖️ 📚 — This node sits at the intersection of compliance minimalism, cognitive load, governance contracts, and crisis theatre.
+
+---
+
+## ✨ Stardust  
+
+tick-box compliance, institutional minimalism, optics over outcomes, compliance theatre, crisis theatre, bureaucratic catch-22, survivor retraumatisation
 
 ---
 
@@ -45,9 +49,10 @@
 It documents how institutional minimalism transforms compliance into a tool of suppression, where the appearance of accountability replaces systemic repair.  
 
 > 📡 Cross-references:  
-> - [🌀 System Governance](../🌀_System_Governance/) — bureaucratic logics and control loops  
-> - [🧠 Psychological Containment](../🧠_Psychological_Containment/) — survivor fatigue and futility induction  
+> - [😴 Cognitive Load as Infrastructure](../🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md)  
+> - [📚 Crisis Theatre](../🌀_System_Governance/📚_crisis_theatre.md)  
+> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-25_
+_Last updated: 2025-09-29_
