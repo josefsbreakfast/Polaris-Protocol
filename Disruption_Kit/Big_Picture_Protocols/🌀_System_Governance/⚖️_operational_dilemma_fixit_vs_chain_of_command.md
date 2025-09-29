@@ -1,6 +1,6 @@
 # ⚖️ Operational Dilemma: Fix It vs Chain of Command  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-14  
-*Weighing the risks of direct internal fixes against using formal oversight pathways*  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-29  
+*Weighing the risks of direct internal fixes against using formal oversight pathways.*
 
 ---
 
@@ -24,9 +24,31 @@
 
 ---
 
+## 🌌 Constellations  
+⚖️ 🧪 🔍 🔐 — This node models internal remediation versus institutional resistance.
+
+**Media references:**  
+- *Spotlight* (2015) — on internal vs external truth-seeking under hierarchy  
+- *Cummings v Cabinet Office* (UK inquiry submissions, 2021–2023) — on chain-of-command inertia  
+- *The Drop Box* (documentary) — on alternative routes to institutional inaction
+
+---
+
+## ✨ Stardust  
+oversight, internal fixes, chain of command, whistleblower protection, remediation, harm gatekeeping, cleanroom, institutional resistance
+
+---
+
 ## 🏮 Footer  
 
 *Operational Dilemma: Fix It vs Chain of Command* is a living node of the Polaris Protocol.  
-It records the trade-offs between direct internal fixes, chain-of-command processes, and hybrid approaches.  
+It records the trade-offs between direct internal fixes, chain-of-command processes, and hybrid approaches that aim to balance speed, accountability, and survivor protection.
 
-_Last updated: 2025-09-14_
+> 📡 Cross-references:  
+> - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md)  
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/System_Analysis/🧬_structural_mapping.md)  
+> - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-29_
