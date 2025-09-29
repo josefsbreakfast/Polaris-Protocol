@@ -86,7 +86,7 @@ It documents how invisible algorithmic layers transform guidance into de facto l
 > 📡 Cross-references:  
 > - [🌀 System Governance](./) — parent cluster of governance diagnostics  
 > - [📚 Forensic Silence](./📚_forensic_silence.md)  
-> - [📋 Tick-Box Compliance as Containment](./📋_tick-box_compliance_as_containment.md)  
+> - [📋 Tick-Box Compliance as Containment](./📋_tick_box_compliance_as_containment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
