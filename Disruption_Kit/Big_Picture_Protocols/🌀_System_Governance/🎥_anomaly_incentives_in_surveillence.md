@@ -58,6 +58,43 @@ This is large enough to sustain a permanent class of anomaly subjects.
 
 ---
 
+## 🌍 Foreign-Policy Feedback Loop: Why Divestment Meets Resistance  
+If an economy rewards **permanent anomaly harvesting**, it also rewards **partners who industrialise control**.  
+That helps explain why UK governments of any stripe struggle to “divest” from regimes accused of atrocity: the **surveillance/defence supply chain** aligns with our domestic anomaly incentives.  
+
+- Bulk powers normalise class-based collection at home.  
+- Equality Act tension fosters affinity for external control partners.  
+- Exported control tech: e.g. Israel’s surveillance exports marketed as “battle-tested.”  
+- Live procurement controversies (e.g. Elbit Systems UK consortia) illustrate the bias.  
+
+**Result:** Domestic anomaly incentives + foreign procurement habits create a **resistance-to-divestment bias**.  
+
+---
+
+## 💀 Structural Genocide Pathways  
+- UK coroners’ reports link benefit sanctions and delays in disability assessments (PIP) to premature deaths.  
+- Postcode lotteries in services and divestment from trauma care intensify attrition.  
+- Industrial data extraction grows while front-line care shrinks.  
+- Lawfare and surveillance replace reform, leaving vulnerable groups more exposed.  
+
+Together these produce **“slow violence”** — a structural genocide pathway where premature deaths accumulate, normalising attrition as acceptable collateral. This favours genocide without overt mass violence.  
+
+---
+
+## 📈 Flow Diagram  
+
+```mermaid
+flowchart LR
+    A[Classification] --> B[Anomaly Harvest]
+    B --> C[Equality Act Breach Risk]
+    C --> D[Procurement Affinity]
+    D --> E[Divestment Resistance]
+    E --> F[Genocide Conditioning]
+    F --> G[Structural Genocide Pathways]
+```
+
+---
+
 ## 🌌 Constellations  
 
 🧿 🎥 📦 ⚖️ ☠️ — This node sits at the intersection of governance logic, anomaly classification, discrimination, and genocidal conditioning.  
@@ -66,7 +103,7 @@ This is large enough to sustain a permanent class of anomaly subjects.
 
 ## ✨ Stardust  
 
-investigatory powers act, surveillance industry, anomaly incentives, profiling, outliers, focus group of one, data harvesting, predictive modelling, surveillance capitalism, uk census, equality act, genocide conditioning  
+investigatory powers act, surveillance industry, anomaly incentives, profiling, outliers, focus group of one, data harvesting, predictive modelling, surveillance capitalism, uk census, equality act, genocide conditioning, structural genocide  
 
 ---
 
