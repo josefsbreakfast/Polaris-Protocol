@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-29 12:49:10 UTC_
+_Generated on 2025-09-29 12:52:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -25,6 +25,7 @@ _Generated on 2025-09-29 12:49:10 UTC_
         - [`📄_character_sheet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/📄_character_sheet.md)
         - [`📖_start_here.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/📖_start_here.md)
         - [`🧥_wardrobe_lookbook.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/🧥_wardrobe_lookbook.md)
+        - [`🪑_alt_committees.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/🪑_alt_committees.md)
         - [`🪑_committee_blue.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/🪑_committee_blue.md)
         - [`🪑_committee_red.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/🪑_committee_red.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
