@@ -1,10 +1,10 @@
 # 🧨 Crisis Actor Dynamics  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-19 | **Last updated:** 2025-09-29  
 *How authoritarian actors manufacture and perform crises to obscure contradictions and consolidate control*
 
 ---
 
-## Core Thesis  
+## ✨ Core Thesis  
 Authoritarian leaders thrive on instability. By manufacturing crises or embodying them personally,  
 they generate the urgency that erases memory of prior contradictions. This tactic turns every  
 pivot into an opportunity: yesterday’s broken promise is forgotten in the drama of today’s  
@@ -14,7 +14,7 @@ Crisis performance is not incidental — it is a **governing style**.
 
 ---
 
-## Behavioural Indicators  
+## 🛰 Behavioural Indicators  
 1. **Narrative Erasure** – Rapid pivots force publics to forget previous stances.  
 2. **Perpetual Emergency** – Leaders keep institutions locked in crisis mode, limiting scrutiny.  
 3. **Identity as Theatre** – The leader becomes the “crisis actor” in their own story.  
@@ -22,14 +22,14 @@ Crisis performance is not incidental — it is a **governing style**.
 
 ---
 
-## Blind Spots in Detection  
+## 🛸 Blind Spots in Detection  
 - Security frameworks treat crises as exogenous events, not manufactured tools.  
 - Media cycles reward novelty, amplifying crisis theatrics instead of tracking continuity.  
 - Survivors who notice these manipulations are often dismissed as conspiratorial.  
 
 ---
 
-## Strategic Implications  
+## 🔥 Strategic Implications  
 - Countermeasures must **archive contradictions** and prevent memory erasure.  
 - Detection should flag **frequency of narrative resets** as a risk signal.  
 - Media and civil society need tooling to **track pivot timelines** and hold leaders to their  
