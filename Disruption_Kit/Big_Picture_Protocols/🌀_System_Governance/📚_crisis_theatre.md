@@ -1,7 +1,7 @@
 # 📚 Crisis Theatre  
 <a id="home"></a>
 **First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-*The emergency as stagecraft: when crises are staged, exaggerated, or selectively framed to authorise powers already waiting in the wings.*  
+*The emergency as stagecraft: when crises are staged, exaggerated, or selectively framed to authorise powers already waiting in the wings*  
 
 ---
 
@@ -290,10 +290,10 @@ crisis theatre, emergency powers, surveillance capitalism, permanent interval, s
 It documents how governments and institutions stage emergencies as performances — to legitimise control, suspend scrutiny, and erase closure.  
 
 > 📡 Cross-references:  
-> - [🌀 System Governance](./) — parent cluster of governance diagnostics  
-> - [🧠 Didn’t Apply Brain Loop](🧠_didnt_apply_brain_loop.md) — paranoia uptake as bureaucratic “intelligence”  
-> - [🪞 Illusion of Choice](🪞_the_illusion_of_choice.md) — options as stagecraft  
-> - [⚖️ Soft-Law Governance](⚖️_soft_law_governance.md) — when emergency guidance ossifies into law  
+> - [🌀 System Governance](./) — *parent cluster of governance diagnostics*  
+> - [🧠 Didn’t Apply Brain Loop](🧠_didnt_apply_brain_loop.md) — *paranoia uptake as bureaucratic “intelligence”*  
+> - [🪞 Illusion of Choice](🪞_the_illusion_of_choice.md) — *options as stagecraft*  
+> - [⚖️ Soft-Law Governance](⚖️_soft_law_governance.md) — *when emergency guidance ossifies into law*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
