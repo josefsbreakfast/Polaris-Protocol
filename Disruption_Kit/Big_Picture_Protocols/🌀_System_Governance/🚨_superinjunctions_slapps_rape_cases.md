@@ -74,8 +74,7 @@ It documents how rape survivors in the UK can be silenced by SLAPP-like tactics 
 
 > 📡 Cross-references:  
 > - [⚖️ SLAPPs Detailed Node](./⚖️_slapps_uk_global_palestine.md)  
-> - [Survivor Tools](../Survivor_Tools/)  
-> - [Big Picture Protocols](../Big_Picture_Protocols/)  
+> - [Survivor Tools](../../Survivor_Tools/)   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
