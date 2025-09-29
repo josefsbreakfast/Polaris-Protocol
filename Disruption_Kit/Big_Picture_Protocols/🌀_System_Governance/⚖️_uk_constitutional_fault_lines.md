@@ -1,13 +1,12 @@
 # ⚖️ UK Constitutional Fault Lines  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-14   
-*Mapping overlapping pressures on the UK’s unwritten constitution*  
+**First created:** 2025-09-04 | **Last updated:** 2025-09-29  
+*Mapping overlapping pressures on the UK’s unwritten constitution.*
 
 ---
 
 ## Core Idea  
-The UK is experiencing a **multi-vector constitutional crisis**.  
-Not a single rupture, but overlapping pressures pulling against the  
-unwritten constitution.  
+The UK is experiencing a **multi-vector constitutional crisis** —  
+not a single rupture, but overlapping pressures pulling against the unwritten constitution.  
 
 ---
 
@@ -75,20 +74,37 @@ unwritten constitution.
 ---
 
 ## Suggested Visual  
-- A **hub-and-spoke diagram** (see generated sketch):  
-  - Central hub: *Unwritten Constitution*  
-  - Spokes: Judiciary, Parliament, Executive, International Law, Economy, Devolution, Public Opinion  
-  - Connectors: overlaps and points of strain  
+A **hub-and-spoke diagram**:  
+- Central hub: *Unwritten Constitution*  
+- Spokes: Judiciary, Parliament, Executive, International Law, Economy, Devolution, Public Opinion  
+- Connectors: overlaps and points of strain  
+
+---
+
+## 🌌 Constellations  
+⚖️ 🗳️ 🧭 🕸️ — This node tracks how political, legal, and public forces converge on UK constitutional fragility.
+
+**Media references:**  
+- *The Unwritten Constitution* (BBC Radio 4)  
+- *UK Constitutional Law Blog* — key debates and analysis  
+- *Good Law Project v Government* — rule of law stress-tests  
+
+---
+
+## ✨ Stardust  
+UK constitution, constitutional crisis, devolution, parliamentary reform, executive dominance, judicialisation, ICJ, Gaza, Human Rights Act
 
 ---
 
 ## 🏮 Footer  
 
-This file is a living node of the **Polaris Protocol**.  
-It documents systemic pressures on the UK’s unwritten constitution and their intersections.  
+*UK Constitutional Fault Lines* is a living node of the Polaris Protocol.  
+It documents systemic pressures on the UK’s unwritten constitution and their intersections — legal, institutional, democratic, and geopolitical.
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+> 📡 Cross-references:  
+> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md)  
+> - [⚖️ Shadow Governance Timeline](./⚖️_shadow_governance_timeline.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-14_  
+_Last updated: 2025-09-29_
