@@ -1,6 +1,6 @@
 # ⚖️ Shadow Governance Timeline  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-14  
-*How cumulative crises since 2008 hollowed governance and expanded reliance on fixers and shadow networks*  
+**First created:** 2025-09-05 | **Last updated:** 2025-09-29  
+*How cumulative crises since 2008 hollowed governance and expanded reliance on fixers and shadow networks.*
 
 ---
 
@@ -38,21 +38,37 @@
 ## Pattern  
 - Each crisis dug the hole deeper.  
 - Shadow governance is not conspiracy but **grift economy**: opportunists who thrive where state capacity is eroded.  
-- The timeline shows how suppression, corruption, and criminal intermediaries became normalised tools of government survival.
+- The timeline shows how suppression, corruption, and criminal intermediaries became normalised tools of government survival.  
 
-**This is almost never about one party or one actor or one vector.**
-
+**This is almost never about one party or one actor or one vector.**  
 This is often a side-effect of crisis, and the human temptation of easy fixes for complicated needs.
+
+---
+
+## 🌌 Constellations  
+⚖️ 🪬 🕸️ 🧿 — This node traces how cumulative governance failure leads to grift, opacity, and institutional substitution.
+
+**Media references:**  
+- *The Covid Contracts Scandal* (Good Law Project)  
+- *Private Lobbying, Public Risk* (TBIJ)  
+- *The Men in the Shadows* (Channel 4 Dispatches)
+
+---
+
+## ✨ Stardust  
+shadow governance, grift economy, fixers, crisis response, institutional erosion, public procurement, state failure, lobbying, intermediaries
 
 ---
 
 ## 🏮 Footer  
 
 *Shadow Governance Timeline* is a living node of the Polaris Protocol.  
-It documents how successive crises hollowed state capacity, producing reliance on shadow networks and fixers as de facto governance.  
+It documents how successive crises hollowed state capacity, producing reliance on shadow networks and fixers as de facto governance.
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+> 📡 Cross-references:  
+> - [⚖️ Operational Dilemma: Fix It vs Chain of Command](./⚖️_operational_dilemma_fixit_vs_chain_of_command.md)  
+> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-14_
+_Last updated: 2025-09-29_
