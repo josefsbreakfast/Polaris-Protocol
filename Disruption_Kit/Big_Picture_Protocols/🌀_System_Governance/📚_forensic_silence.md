@@ -1,5 +1,5 @@
 # 📚 Forensic Silence  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
 
 *Active narrative gaps where records were scrubbed — the hole itself becomes evidence.*  
 
@@ -67,13 +67,25 @@ Why this matters for *forensic silence*:
 ```mermaid
 flowchart TD
     A[Question Asked] --> B{Answer Given?}
-    B -->|Yes, but evasive| C[Non-Answer:\nTalks around core issue]
-    B -->|Yes, direct| D[Answer:\nSubstantive data shared]
+    B -->|Yes, but evasive| C[Non-Answer:<br> Talks around core issue]
+    B -->|Yes, direct| D[Answer:<br> Substantive data shared]
     B -->|No| E[Refusal / Silence]
-    C --> F[Gap between Q & A becomes\nforensic evidence]
+    C --> F[Gap between Q & A becomes<br> forensic evidence]
     E --> F
-    D --> G[Content can be verified\nagainst records]
+    D --> G[Content can be verified<br> nagainst records]
 ```
+
+---
+
+## 🌌 Constellations  
+
+📚 ❓ 🧠 🌀 — This node links narrative gaps to override logics, intuition literacy, and systemic governance diagnostics.
+
+---
+
+## ✨ Stardust  
+
+forensic silence, disappeared reviews, retracted datasets, superinjunctions, scrubbed archives, non-answers, override clauses, intuition literacy, metadata ghosts, containment by erasure
 
 ---
 
@@ -90,4 +102,4 @@ It documents how silence itself becomes probative evidence of suppression.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2025-09-29_
