@@ -1,7 +1,5 @@
 # 🕸️ Web of Resilience  
-
 **First created:** 2025-09-03 | **Last updated:** 2025-09-29  
-
 *Unified field manual for countering insurgency-style information operations across micro, communal, and systemic levels*  
 
 ---
