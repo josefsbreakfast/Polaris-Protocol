@@ -38,7 +38,7 @@ It documents how coercive framing of “protection” sustains entrapment, prolo
 
 > 📡 Cross-references:  
 > - [⚖️ Coercive Control in Border Policy](../Big_Picture_Protocols/⚖️_coercive_control_in_border_policy.md)  
-> - [🛑 Ignored Evidence Node (2014–2016)](../../👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)  
+> - [🛑 Ignored Evidence Node (2014–2016)](../../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
