@@ -20,7 +20,8 @@
 [ ] **Overcoat** — Minister for Scotland (+1 Party once/year)  
 [ ] **Smoking Jacket** — Industry (+1 Secrets once/year)  
 [ ] **Hi-Vis Vest** — Education (+1 Party once/year)  
-[ ] **Cropped Sequin Jacket (Per Una)** — Chancellor (reroll Law/Network fail once/year)  
+[ ] **Cropped Sequin Jacket (Per Una)** — Chancellor (reroll 1 failed Law/Network roll per year)  
+[ ] **Dragon Scale Coat** — Minister for Wales (once per year, roll +Party OR +Secrets; success = +1 stat, fail = +1 Red Flag “the dragon stirs”)  
 
 *Rule:* You may “wear” one garment per year. Overusing the same garment adds a **Red Flag**.  
 
