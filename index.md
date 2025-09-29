@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-29 20:29:49 UTC_
+_Generated on 2025-09-29 20:30:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -621,7 +621,7 @@ _Generated on 2025-09-29 20:29:49 UTC_
     - [`🧬_honeytrap_mechanics.md`](Disruption_Kit/Survivor_Tools/🧬_honeytrap_mechanics.md)
     - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
     - [`🧰_leave_me_alone_playbook.md`](Disruption_Kit/Survivor_Tools/🧰_leave_me_alone_playbook.md)
-    - [`🪄_influencer_resilience_node.md`](Disruption_Kit/Survivor_Tools/🪄_influencer_resilience_node.md)
+    - [`🪄_influencer_resilience.md`](Disruption_Kit/Survivor_Tools/🪄_influencer_resilience.md)
     - [`🪪_codename_patronymics.md`](Disruption_Kit/Survivor_Tools/🪪_codename_patronymics.md)
     - [`🪷_name_reclamation_protocol.md`](Disruption_Kit/Survivor_Tools/🪷_name_reclamation_protocol.md)
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
