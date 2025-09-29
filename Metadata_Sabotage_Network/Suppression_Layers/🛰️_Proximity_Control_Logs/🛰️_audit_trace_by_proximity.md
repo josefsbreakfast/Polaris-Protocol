@@ -1,5 +1,5 @@
 # 🛰️ Audit Trace by Proximity
-
+**First created:** 2025-08-05 | **Last updated:** 2025-09-29  
 **Purpose:**  
 This file documents methods for identifying the presence of embedded audit operations based on physical proximity patterns, anomalous metadata behaviour, and mirrored narrative responses. Especially relevant when suspecting observation without overt engagement.
 
