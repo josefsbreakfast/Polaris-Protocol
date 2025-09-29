@@ -1,6 +1,13 @@
 # 🔥 Suppression as Signal  
-**First created:** 2025-09-18 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-18 | **Last updated:** 2025-09-29  
 *How the act of burying a book becomes its own marketing engine.*  
+
+---
+
+> “Nothing in my view is more reprehensible than those habits of mind in the intellectual  
+> that induce avoidance, that characteristic turning away from a difficult and principled position,  
+> which you know to be the right one, but which you decide not to take.”  
+> — *Edward Said, on the suppression of Palestinian truth*
 
 ---
 
@@ -58,15 +65,32 @@ You “test the water” with queries, actions, and probes — suppression revea
 
 ---
 
-## ✨ Stardust — Related Tags & Signals  
-- censorship as marketing  
-- banned books → bestseller effect  
-- erasure narratives  
-- cultural canon by suppression  
-- gossip as amplifier  
-- metadata manipulation + publishing  
-- state vs author conflicts  
-- library bans, UK/US context  
+## 🌌 Constellations  
+
+🔥 📜 🧿 🕸️ 🎬 — This node maps a dynamic where state control and human narrative collide.  
+Each of these works became louder because someone tried to shut them down:
+
+- *Doctor Zhivago*  
+- *The Satanic Verses*  
+- *Sophie Scholl* (film)  
+- *The Lives of Others*  
+- *Origins of Totalitarianism* — Hannah Arendt  
+- *Boycott* (2022 documentary)  
+- *While We Watched* — Ravish Kumar & the Indian media crisis  
+- *Searching for Sugar Man* — bootlegged resistance music as myth
+
+Suppression doesn’t silence. It scorches the record into memory.
+
+---
+
+## ✨ Stardust  
+
+censorship as marketing, banned books → bestseller effect, erasure narratives,  
+cultural canon by suppression, metadata manipulation + publishing,  
+Edward Said, Edward Saeed, The Lives of Others, Sophie Scholl, Hannah Arendt,  
+Origins of Totalitarianism, Boycott 2022, While We Watched, Ravish Kumar,  
+Searching for Sugar Man, Sixto Rodriguez, apartheid bootlegging, forbidden music,  
+press freedom, banned book history, UK/US context  
 
 ---
 
@@ -80,4 +104,4 @@ It documents how deliberate erasure transforms into cultural amplification, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-09-29_  
