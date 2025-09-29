@@ -59,7 +59,7 @@ over recognition, tokenisation, PR containment, listening sessions, critique abs
 It documents how institutions weaponise listening and acknowledgment as forms of containment, substituting symbolic recognition for material change.  
 
 > 📡 Cross-references:  
-[🧠 Value of the Outlier](../../🧠_value_of_the_outlier.md)
+[🧠 Value of the Outlier](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_value_of_the_outlier.md)
 
 [🧪 Adversary Playbook: Twinning Outliers](../../../👻_Apparitional_Objects/Fork_Taxonomy/🧪_adversary_playbook_twinning_outliers.md)
 
