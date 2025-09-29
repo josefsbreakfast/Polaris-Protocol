@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-29 08:57:23 UTC_
+_Generated on 2025-09-29 08:58:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,6 +219,7 @@ _Generated on 2025-09-29 08:57:23 UTC_
       - [`📚_muted_book_investigation.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_muted_book_investigation.md)
       - [`📚_muted_volumes_from_the_cemetery_of_forgotten_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_muted_volumes_from_the_cemetery_of_forgotten_books.md)
       - [`📚_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_print_culture_as_precedent.md)
+      - [`📜_statutory_censorship_logics.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📜_statutory_censorship_logics.md)
       - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
       - [`📱_feed_manipulation_and_containment_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
       - [`🔥_suppression_and_quasi_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🔥_suppression_and_quasi_suppression.md)
