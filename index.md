@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-29 20:09:19 UTC_
+_Generated on 2025-09-29 20:18:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -61,6 +61,7 @@ _Generated on 2025-09-29 20:09:19 UTC_
       - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💰_who_benefits_from_cover_up.md)
       - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_polaris_costing_estimate.md)
       - [`💷_potential_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_potential_tort_exposure.md)
+      - [`💷_procurement_culture_and_departmental_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_and_departmental_clashes.md)
       - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_dept_clashes.md)
       - [`💷_survivor_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_survivor_costing_estimate.md)
       - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💸_repression_cost_capital.md)
