@@ -59,9 +59,11 @@ over recognition, tokenisation, PR containment, listening sessions, critique abs
 It documents how institutions weaponise listening and acknowledgment as forms of containment, substituting symbolic recognition for material change.  
 
 > 📡 Cross-references:  
-> - [🌀 System_Governance](./) — parent cluster of governance diagnostics  
-> - [📚 Crisis Theatre](./📚_crisis_theatre.md) — emergencies as stagecraft  
-> - [📚 Forensic Silence](./📚_forensic_silence.md) — narrative gaps as evidence  
+[🧠 Value of the Outlier](../🧠_value_of_the_outlier.md)
+
+[🧪 Adversary Playbook: Twinning Outliers](../../👻_Apparitional_Objects/Fork_Taxonomy/🧪_adversary_playbook_twinning_outliers.md)
+
+[🎥 Anomaly Incentives in Surveillence](./🎥_anomaly_incentives_in_surveillence.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
