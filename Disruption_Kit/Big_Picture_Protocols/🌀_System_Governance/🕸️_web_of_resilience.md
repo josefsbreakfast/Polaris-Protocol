@@ -194,7 +194,7 @@ It fuses two-layer and three-tier approaches into a unified manual for navigatin
 > 📡 Cross-references:  
 > - [🌀 System_Governance](../🌀_System_Governance/) — structural diagnostics and governance nodes  
 > - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal guides  
-> - [🪬 Radicalisation & Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism/) — narrative shifts and extremist adaptations  
+> - [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/) — narrative shifts and extremist adaptations  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
