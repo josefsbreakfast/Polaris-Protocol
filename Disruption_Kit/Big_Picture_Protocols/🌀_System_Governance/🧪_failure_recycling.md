@@ -36,10 +36,10 @@ This cycle ensures failure is not a warning, but a **fuel source**.
 
 ```mermaid
 flowchart LR
-    A[Stage 1 — Collapse<br/>Model fails in the open] --> B[Stage 2 — Sanitisation<br/> as lessons learned, isolated issue]
-    B --> C[Stage 3 — Reinvention<br/>Cosmetic tweaks, same architecture]
-    C --> D[Stage 4 — Redeployment<br/>Marketed as innovation]
-    D --> E[Stage 5 — Harm Recurrence<br/>Compounded survivor costs]
+    A[🚨 Stage 1 — Collapse 🚨<br>Model fails in the open] --> B[🧼 Stage 2 — Sanitisation 🧼<br>Say lessons learned, isolated issue]
+    B --> C[💄 Stage 3 — Reinvention 💄<br>Cosmetic tweaks, same architecture]
+    C --> D[🪖 Stage 4 — Redeployment 🪖<br>Marketed as innovation]
+    D --> E[🧨 Stage 5 — Harm Recurrence 🧨<br>Compounded survivor costs]
     E -. fuels .-> B
 ```
 
@@ -57,12 +57,12 @@ Failure recycling here is not inefficiency — it is **the preservation of eugen
 
 ```mermaid
 flowchart TB
-    R[(Eugenics Rootstock)] --> P1[Psych Legacies<br/>Freud/Jung logics in training/outcomes]
-    R --> P2[Medical Pseudoscience<br/>Wakefield/MMR afterlife]
-    P1 --> N[Mythos Over Fact<br/>Narrative repetition > evidence]
+    R[(🦠 Eugenics Rootstock 🦠)] --> P1[🧠 Psych Legacies 🧠<br>e.g. Freud/Jung logic<br>in training/outcomes]
+    R --> P2[🧬 Pseudoscience 🧬<br>e.g. Wakefield/MMR afterlife]
+    P1 --> N[🫀 Mythos 🫀<br>Narrative repetition,<br>against evidence base]
     P2 --> N
-    N --> G[Governance Theatre<br/>As innovation, audits, frameworks]
-    G --> H[Harm Normalised<br/>Survivors carry the cost]
+    N --> G[👹 Governance Theatre 👹<br>Named as<br>innovation, audits, frameworks]
+    G --> H[💩 Harm Normalised 💩<br>Survivors carry the cost]
     H -. feedback .-> N
 ```
 
@@ -138,16 +138,14 @@ Failure recycling doesn’t appear out of nowhere. It’s manufactured in two li
 ```mermaid
 flowchart LR
     subgraph Fringe Incubation
-      S1[Anonymous Boards<br/>myth-seeding] --> S2[Closed/Alt Platforms<br/>Telegram / self-hosted / federated]
-      S2 --> S3[Weird Lore + Holy Grail Hunts<br/>Ahnenerbe-style validation theatre]
+      S1[🎩 Anonymous Boards 🎩<br>Myth-seeding] --> S2[🧢 Closed/Alt Platforms 🧢<br>Telegram / self-hosted / federated]
+      S2 --> S3[👑 Weird Lore + Holy Grail Hunts 👑<br>Ahnenerbe-style validation theatre]
     end
-
     subgraph Mass Repackaging
-      G1[Comms/Propaganda Shops<br/>in respectable voice, stats, charts] --> G2[Policy/Press Theatre<br/>guidelines, audits, briefings]
+      G1[☎ Comms/Propaganda Shops ☎<br>Respectable voice, stats, charts] --> G2[📼 Policy/Press Theatre 📼<br>Guidelines, audits, briefings]
     end
-
     S3 -->|myth stock| G1
-    G2 -->|mainstream reinsertion| M[Public Uptake<br/>broadcast & institutional echo]
+    G2 -->|mainstream reinsertion| M[♟ Public Uptake ♟<br>Broadcast & institutional echo]
     M -. demand for more myth .-> S1
 ```
 
@@ -180,4 +178,4 @@ It documents the loop through which failed models are continually repackaged as 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2025-09-29_  
