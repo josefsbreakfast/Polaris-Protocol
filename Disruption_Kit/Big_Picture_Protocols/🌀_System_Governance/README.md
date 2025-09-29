@@ -137,58 +137,58 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 ```mermaid
 flowchart TD
   %% =========================
-  %% Governance as Containment — from scratch
+  %% Governance as Containment clean version
   %% =========================
 
   %% -------- INPUTS --------
   subgraph IN[Inputs]
-    I1[Public discourse & media]
-    I2[Law / policy / budgets]
-    I3[Data exhaust (platforms, devices, vendors)]
-    I4[Witness & survivor testimony]
+    I1[Public discourse and media]
+    I2[Law policy and budgets]
+    I3[Data exhaust platforms devices vendors]
+    I4[Witness and survivor testimony]
   end
 
   %% -------- MECHANISMS --------
-  subgraph MECH[Governance Mechanisms (Containment Logic)]
-    M1[🦯 Algorithmic delay & pacing]
-    M2[🌀 Ambiguity as containment]
-    M3[🛂 Gated intake loops]
-    M4[🛬 Translation null zone]
-    M5[📋 Tick-box compliance]
-    M6[🔬 Lost checks & balances]
-    M7[⚖️ Judicial deference]
-    M8[⚖️ Soft-law governance (codes/MoUs)]
-    M9[🛰️ Vendor lock-in]
-    M10[🛰️ AI middleware (invisible policy layer)]
-    M11[🛰️ Data fusion centres]
-    M12[📚 Narrative management (crisis theatre, over-recognition)]
-    M13[📚 Forensic silence (evidentiary gaps)]
-    M14[🕸️ Clone-friendly architecture]
-    M15[⚖️ International laundering of obligations]
-    M16[🧠 Didn’t Apply Brain (DARVO → uptake)]
-    M17[⚖️ Small bureaucrats’ Catch-22]
+  subgraph MECH[Governance Mechanisms Containment Logic]
+    M1[Algorithmic delay and pacing]
+    M2[Ambiguity as containment]
+    M3[Gated intake loops]
+    M4[Translation null zone]
+    M5[Tick box compliance]
+    M6[Lost checks and balances]
+    M7[Judicial deference]
+    M8[Soft law governance codes and MoUs]
+    M9[Vendor lock in]
+    M10[AI middleware invisible policy layer]
+    M11[Data fusion centres]
+    M12[Narrative management crisis theatre over recognition]
+    M13[Forensic silence evidentiary gaps]
+    M14[Clone friendly architecture]
+    M15[International laundering of obligations]
+    M16[Didnt Apply Brain DARVO uptake]
+    M17[Small bureaucrats Catch 22]
   end
 
   %% -------- OUTPUTS --------
-  subgraph OUT[Outputs / Harms]
-    O1[Chilling, self-censor, attrition]
+  subgraph OUT[Outputs and Harms]
+    O1[Chilling self censor attrition]
     O2[Structured choice illusion]
-    O3[Twinning / identity drift]
+    O3[Twinning identity drift]
     O4[Public perception gap]
-    O5[🫀 Genocide by Containment]
+    O5[Genocide by Containment]
   end
 
   %% -------- COUNTERMOVES --------
-  subgraph WEB[Web of Resilience — Countermoves]
-    R1[Slow lanes: digests > firehoses]
-    R2[Verification cells (provenance checks)]
-    R3[Memory infrastructure (cross-signatures)]
-    R4[Dirty/Clean split + key-based auth]
-    R5[3-2-1 backups + restore drills]
-    R6[Fallback comms: BAT CHECK + offline sheet]
-    R7[Scenario planning (72h cloud/bank outage)]
-    R8[Evidence discipline (single-ask / time-bound)]
-    R9[Mutual aid / trust repair protocols]
+  subgraph WEB[Web of Resilience Countermoves]
+    R1[Slow lanes digests not firehoses]
+    R2[Verification cells provenance checks]
+    R3[Memory infrastructure cross signatures]
+    R4[Dirty Clean split and key based auth]
+    R5[Three two one backups and restore drills]
+    R6[Fallback comms BAT CHECK offline sheet]
+    R7[Scenario planning 72h cloud bank outage]
+    R8[Evidence discipline single ask time bound]
+    R9[Mutual aid trust repair protocols]
   end
 
   %% =========================
@@ -242,24 +242,11 @@ flowchart TD
   R8 -.-> M5
   R9 -.-> O1
 
-  %% Countermoves feed back to inputs (resilience loop)
+  %% Countermoves feed back to inputs
   R1 --> IN
   R3 --> IN
   R6 --> IN
   R7 --> IN
-
-  %% =========================
-  %% STYLES (compact palette)
-  %% =========================
-  classDef inputs fill:#E6F4FF,stroke:#1A73E8,stroke-width:1px,color:#0B3B84;
-  classDef mech fill:#FFF4E5,stroke:#FB8C00,stroke-width:1px,color:#5D3B00;
-  classDef out fill:#F3E8FF,stroke:#7E57C2,stroke-width:1px,color:#3E2A6A;
-  classDef web fill:#E8F5E9,stroke:#2E7D32,stroke-width:1px,color:#114D18;
-
-  class IN inputs
-  class MECH mech
-  class OUT out
-  class WEB web
 ```
 
 ---
