@@ -71,7 +71,7 @@ It maps how secrecy dressed as “compliance” breeds gaslighting and systemic 
 
 > 📡 Cross-references:  
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)  
-> - [🧠 Psychological Containment](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)  
 > - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
