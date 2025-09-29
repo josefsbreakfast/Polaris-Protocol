@@ -1,7 +1,6 @@
 # ❓ Override Question as Silence Breaker  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
-
-*Professional overrides as both a safeguard and a diagnostic signal of systemic silence.*  
+**First created:** 2025-09-23 | **Last updated:** 2025-09-29  
+*Professional overrides as both a safeguard and a diagnostic signal of systemic silence.*
 
 ---
 
@@ -56,15 +55,30 @@ flowchart TD
 
 ---
 
+## 🌌 Constellations  
+❓ 🧠 📚 🔍 — This node draws together intuition, silence, audit triggers, and data practice.
+
+**Media references:**  
+- *The Nurse’s Intuition* (BMJ Feature, 2022)  
+- *Forensic Silence* (Polaris Protocol)  
+- *Thinking, Fast and Slow* — Daniel Kahneman  
+
+---
+
+## ✨ Stardust  
+override logic, type 1 perception, institutional silence, survivor intuition, forensic signal, discrimination load, escalation thresholds, training feedback
+
+---
+
 ## 🏮 Footer  
 
 *❓ Override Question as Silence Breaker* is a living node of the Polaris Protocol.  
-It situates professional override as both a safeguard and a probe for forensic silence.  
+It situates professional override as both a safeguard and a probe for forensic silence.
 
 > 📡 Cross-references:  
-> - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md) — parent node on narrative gaps  
-> - [🧠 Intuition as Skill](../🌀_System_Governance/🧠_intuition_as_skill.md) — dedicated node on Type 1 literacy  
+> - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md)  
+> - [🧠 Intuition as Skill](../🌀_System_Governance/🧠_intuition_as_skill.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2025-09-29_
