@@ -1,11 +1,11 @@
 # 🧪 Failure Recycling  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
 
-*Discredited models rebranded and reintroduced — failure dressed as innovation.*  
+*Discredited models rebranded and reintroduced — failure dressed as innovation*  
 
 ---
 
-## 🔄 The Recycling Loop  
+## ➿ The Recycling Loop  
 
 Institutions rarely discard broken mechanisms.  
 Instead, they **rebrand the debris**:  
@@ -41,7 +41,6 @@ flowchart LR
     C --> D[Stage 4 — Redeployment<br/>Marketed as innovation]
     D --> E[Stage 5 — Harm Recurrence<br/>Compounded survivor costs]
     E -. fuels .-> B
-    
 ```
 
 ---
@@ -69,7 +68,7 @@ flowchart TB
 
 ---
 
-## 🎭 Mythos Over Fact  
+## 👹 Mythos Over Fact  
 
 As Robert Paxton (*Anatomy of Fascism*) shows, regimes that survive by **myth repetition** treat collapse as irrelevant:  
 the narrative *must* be true because it is repeated.  
@@ -122,7 +121,7 @@ Both were anti-Enlightenment, and both were essential.
 
 ---
 
-## 🔁 Radicalisation Pipelines — from Streicher to QAnon  
+## 👽 Radicalisation Pipelines — from Streicher to QAnon  
 
 Failure recycling doesn’t appear out of nowhere. It’s manufactured in two linked stages: a **myth-making immersion** and a **mass repackaging**.  
 
@@ -137,7 +136,6 @@ Failure recycling doesn’t appear out of nowhere. It’s manufactured in two li
 > This pipeline is continuous, not sequential: platform churn (ban → migrate → re-seed) keeps the myth stocked for repackaging.
 
 ```mermaid
-
 flowchart LR
     subgraph Fringe Incubation
       S1[Anonymous Boards<br/>myth-seeding] --> S2[Closed/Alt Platforms<br/>Telegram / self-hosted / federated]
@@ -151,15 +149,13 @@ flowchart LR
     S3 -->|myth stock| G1
     G2 -->|mainstream reinsertion| M[Public Uptake<br/>broadcast & institutional echo]
     M -. demand for more myth .-> S1
-
-
 ```
 
-*The pipeline is cyclical, not linear: bans trigger migration, migration incubates harder myths, myths are repackaged, repackaging re-legitimises the fringe.*
+🔮 *The pipeline is cyclical, not linear: bans trigger migration, migration incubates harder myths, myths are repackaged, repackaging re-legitimises the fringe.* 🔮  
 
 ---
 
-## 🧭 Why It Matters  
+## 💄 Why It Matters  
 
 Failure recycling functions as a **containment device**:  
 
