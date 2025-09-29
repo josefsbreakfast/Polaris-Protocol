@@ -100,7 +100,7 @@ It documents the escalation of surveillance powers from post-9/11 laws through C
 
 > 📡 Cross-references:  
 > - [🛂 Papers Please Problems](../../../Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/README.md) — *on ID logic and citizen containment*  
-> - [💷 Procurement Culture and Departmental Clashes](../Big_Picture_Protocols/💷_procurement_culture_and_departmental_clashes.md) — how vendor logic shaped surveillance adoption  
+> - [💷 Procurement Culture and Departmental Clashes](./💷_procurement_culture_and_departmental_clashes.md) - *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
