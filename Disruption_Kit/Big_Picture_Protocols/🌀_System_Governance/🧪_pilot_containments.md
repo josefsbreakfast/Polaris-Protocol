@@ -1,5 +1,5 @@
 # 🧪 Pilot Containments  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-14 | **Last updated:** 2025-09-30  
 *Testing suppression tactics on small vulnerable groups before scaling to populations.*  
 
 ---
@@ -109,10 +109,10 @@ pilot programmes, containment testing, vulnerable groups, colonial laboratories,
 It documents how small, vulnerable groups are used as testing grounds for systemic suppression tactics, how those tactics are transferred across borders, and how they later scale into mainstream governance.  
 
 > 📡 Cross-references:  
-> - [🧠 HM Dept Coercive Nudges](../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges.md) — nudge architecture as state containment  
-> - [🕯️ Exorcising Safeguarding Shadows](../../System_Governance/🕯️_exorcising_safeguarding_shadows.md) — how safeguarding logics provide pilot cover  
-> - [🌀 Confused Feed as Containment](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md) — engineered confusion as suppression  
+> - [🧠 HM Dept Coercive Nudges](../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges) — *nudge architecture as state containment*  
+> - [🕯️ Exorcising Safeguarding Shadows](../Big_Picture_Protocols/🕯️_Exorcising_Safeguarding_Shadows) — *how safeguarding logics provide pilot cover*  
+> - [🌀 Confused Feed as Containment](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md) — *engineered confusion as suppression*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-09-30_  
