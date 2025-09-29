@@ -1,5 +1,5 @@
 # 🎊 Multi-Party Data Twinning  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-17  
+**First created:** 2025-09-17 | **Last updated:** 2025-09-29  
 *How overlapping state and corporate interests fuse datasets through intermediaries*  
 
 ---
@@ -89,16 +89,31 @@ The **fusion layer** becomes the site of first integration. From there, each pri
 
 ---
 
+## 🌌 Constellations  
+🎊 🛰️ ⚖️ 💷 — Surveillance brokerage, data fusion, legal opacity, and monetisation converge here.
+
+**Media references:**  
+- *Outsourcing Intelligence* — Privacy International  
+- *The Palantir Files* — OpenDemocracy  
+- *Dark Pools of Surveillance* — Citizen Lab  
+
+---
+
+## ✨ Stardust  
+multi-party twinning, vendor-fused metadata, surveillance brokerage, cross-border surveillance, OSINT red flags, identity resolution, attribution diffusion
+
+---
+
 ## 🏮 Footer  
 
 *Multi-Party Data Twinning* is a living node of the Polaris Protocol.  
 It documents how overlapping interests in surveillance and governance exploit intermediaries to produce composite datasets, obscuring attribution while monetising fusion.  
 
 > 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](../Disruption_Kit/Big_Picture_Protocols/⚖️_containment_contract_trace.md) — contractual logic of containment  
-> - [🏛️ OSA Misclassification UK–Israel Survivor Records](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md) — jurisdictional overlap and misuse of data  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures against identity-resolution and profiling  
+> - [⚖️ Containment Contract Trace](../Disruption_Kit/Big_Picture_Protocols/⚖️_containment_contract_trace.md)  
+> - [🏛️ OSA Misclassification UK–Israel Survivor Records](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)  
+> - [Survivor Tools](../Survivor_Tools/)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-17_
+_Last updated: 2025-09-29_
