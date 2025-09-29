@@ -1,5 +1,5 @@
 # 🔬 Lost Checks and Balances  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
 *How dissenting individuals were nudged away from panels and committees during the early behavioural insights rollout (2012–2016), reducing scrutiny and distorting the public record.*  
 
 ---
@@ -43,14 +43,15 @@ The effect: quieter rooms, softer consensus, and fewer recorded red flags — ju
 
 ---
 
-## ✦ Stardust — Related Tags & Signals  
-- lost dissent, absent ethics  
-- behavioural insights rollout  
-- committee consensus manufacture  
-- nudged-away oversight  
-- distorted public record  
-- coercion risk in policy pilots  
-- UK 2012–2016 governance gaps  
+## 🌌 Constellations  
+
+🔬 🛑 ⚖️ 🚨 — This node sits with early ethics red flags, ignored evidence, and governance oversight failures in the behavioural insights rollout.
+
+---
+
+## ✨ Stardust  
+
+lost dissent, absent ethics, behavioural insights rollout, committee consensus manufacture, nudged-away oversight, distorted public record, coercion risk in policy pilots, UK 2012–2016 governance gaps
 
 ---
 
@@ -65,4 +66,4 @@ It documents how the absence of dissent in 2012–2016 weakened scrutiny and dis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-09-29_
