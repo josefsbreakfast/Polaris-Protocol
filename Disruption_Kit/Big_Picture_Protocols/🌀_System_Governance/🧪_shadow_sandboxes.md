@@ -1,11 +1,10 @@
 # 🧪 Shadow Sandboxes  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-
-*Unaccountable experimental environments for governance tech trials.*  
+**First created:** 2025-09-14 | **Last updated:** 2025-09-30  
+*Unaccountable experimental environments for governance tech trials*  
 
 ---
 
-## 🧩 Core Pattern  
+## ✨ Core Pattern  
 
 Governance does not always deploy tools directly at scale.  
 It hides experiments in **shadow sandboxes**: environments framed as pilots, trials, or research spaces where oversight is thin and harm can be written off as “learning.”  
@@ -166,10 +165,10 @@ shadow sandboxes, governance experiments, pilot schemes, biometric trials, welfa
 It documents how unaccountable experimental environments allow states to trial governance tech with impunity, reframing harm as “pilot error.”  
 
 > 📡 Cross-references:  
-> - [🌀 System_Governance](../🌀_System_Governance) — parent cluster of governance diagnostics  
-> - [🧬 Structural_Mapping](../Metadata_Sabotage_Network/🧬_structural_mapping.md) — logs of systemic trial frameworks  
-> - [🛰️ Field Logs](../Disruption_Kit/Field_Logs) — on-the-ground evidence of “pilot” containment tech  
+> - [🌀 System_Governance](./) — *parent cluster of governance diagnostics*  
+> - [🧬 Structural_Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping) — *logs of systemic trial frameworks*  
+> - [🛰️ Field Logs](../../Field_Logs) — *on-the-ground evidence of “pilot” containment tech*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-09-30_  
