@@ -1,6 +1,6 @@
 # 🛡️ Clearance Impact Node — Effects on People with Security Clearance  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
-*How manufactured provenance affects personnel under vetting regimes.*  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
+*How manufactured provenance affects personnel under vetting regimes*  
 
 ---
 
@@ -39,4 +39,4 @@ It documents how manufactured provenance destabilises security clearance regimes
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-09-29_  
