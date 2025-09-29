@@ -95,7 +95,8 @@ post-9/11, surveillance industry, identity cards, digital ID, vendor capture, UK
 It documents how surveillance logics seeded in 2001 still shape UK policy through digital ID pushes and vendor capture.  
 
 > 📡 Cross-references:  
-> - [🏛️ UK Identity Cards 2000s](../Big_Picture_Protocols/🏛️_uk_identity_cards_2000s.md)  
+> - [🏛️ UK Identity Cards 2000s](../🛟_Borders_Boats_Walls
+/🏛️_uk_identity_cards_2000s.md)  
 > - [🔮 UK Digital ID Risk Forecast](../Big_Picture_Protocols/🔮_uk_digital_id_risk_forecast.md)  
 > - [💼 Industry Capture — Identity Systems](../Big_Picture_Protocols/💼_industry_capture_identity_systems.md)  
 > - [📊 ID Claims vs Realities](../Big_Picture_Protocols/📊_id_claims_vs_realities.md)  
