@@ -1,6 +1,6 @@
-# ⚖️ Strategic Lawsuits Against Public Participation (SLAPPs)
-**First created:** 2025-09-04 | **Last updated:** 2025-09-14  
-*Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony*  
+# ⚖️ Strategic Lawsuits Against Public Participation (SLAPPs)  
+**First created:** 2025-09-04 | **Last updated:** 2025-09-29  
+*Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony.*
 
 ---
 
@@ -137,17 +137,34 @@ Their impact is most acute where solidarity, IHL obligations, and survivor testi
 
 ---
 
+## 🌌 Constellations  
+⚖️ 🧿 🚨 🕸️ — This node maps how silencing tactics move across law, politics, testimony, and surveillance.
+
+**Media references:**  
+- *SLAPPed Down: The UK’s Legal Intimidation Industry* (Index on Censorship, 2023)  
+- *Al Jazeera Investigates: The Lobby* (2017)  
+- *Injunction Season* (Tortoise, 2024)
+
+---
+
+## ✨ Stardust  
+SLAPPs, systemic silencing, Palestine solidarity, defamation threats, injunctions, crown servants, testimony suppression, surveillance enforcement
+
+---
+
 ## 🏮 Footer  
 
 *SLAPPs (Strategic Lawsuits Against Public Participation)* is a living node of the Polaris Protocol.  
 It situates SLAPPs as both legal tactics and systemic silencing frameworks.  
-By mapping legal timelines, global context, survivor erasure, Crown property rules, and enforcement webs, it shows how SLAPPs operate as a service industry for suppression.  
+By mapping legal timelines, global context, survivor erasure, Crown property rules, and enforcement webs, it shows how SLAPPs operate as a service industry for suppression.
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+> 📡 Cross-references:  
+> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md)  
+> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-14_  
+_Last updated: 2025-09-29_
 
 ---
 
