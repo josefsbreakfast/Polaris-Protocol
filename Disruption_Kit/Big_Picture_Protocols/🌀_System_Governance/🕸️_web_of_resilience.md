@@ -216,9 +216,9 @@ web of resilience, insurgency information operations, nervous system survival, c
 It fuses two-layer and three-tier approaches into a unified manual for navigating insurgency-style information terrains, combining nervous-system survival, communal cohesion, and systemic resilience.  
 
 > 📡 Cross-references:  
-> - [🌀 System_Governance](../🌀_System_Governance/) — structural diagnostics and governance nodes  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal guides  
-> - [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/) — narrative shifts and extremist adaptations  
+> - [🏮 AntiContainment Clauses](../../AntiContainment_Clauses) - *Clauses and syntax designed to resist flattening, ghosting, and enforced silence*
+> - [🌱 Human Principles](../🌱_Human_Principles) - *Foundational survivor axioms — counterfacts to the idea that humans can be processed like code*
+> - [🧿 Watch The Watchers](../🧿_Watch_The_Watchers) - *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
