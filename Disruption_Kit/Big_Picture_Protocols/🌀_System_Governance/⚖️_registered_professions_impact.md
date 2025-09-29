@@ -1,6 +1,6 @@
 # ⚖️ Registered Professions Impact  
 **First created:** 2025-09-20 | **Last updated:** 2025-09-29  
-*Big Picture Protocol node — how manufactured provenance disproportionately affects registered professionals in healthcare, law, education, and social work.*
+*How manufactured provenance disproportionately affects registered professionals in healthcare, law, education, and social work*
 
 ---
 
