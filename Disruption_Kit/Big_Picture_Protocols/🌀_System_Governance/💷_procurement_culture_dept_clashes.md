@@ -1,5 +1,5 @@
 # 💷 Procurement Culture and Departmental Clashes  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-01 | **Last updated:** 2025-09-29  
 *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
 
 ---
@@ -49,15 +49,27 @@ This node explores the structural culture of UK government procurement:
 
 ---
 
+## 🌌 Constellations  
+
+💷 🏛️ 📦 🛰️ — This node tracks Treasury culture, procurement logics, false fixes, and sovereign capacity gaps.
+
+---
+
+## ✨ Stardust  
+
+procurement culture, treasury vs departments, uk startups, false fixes, contract lock-in, austerity logic, sovereign capacity, systemic costs
+
+---
+
 ## 🏮 Footer  
 
 *Procurement Culture and Departmental Clashes* is a living node of the Polaris Protocol.  
 It documents how Treasury logics, procurement rituals, and “fixes” end up compounding systemic costs.  
 
 > 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural analysis and inversion theory  
-> - [Admin Kit](../Admin_Kit/) — operational scaffolding  
+> - [💷 Polaris Costing Estimate](../Big_Picture_Protocols/💷_polaris_costing_estimate.md)  
+> - [🌀 Reverse Colonisation Timeline](../Big_Picture_Protocols/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-09-29_
