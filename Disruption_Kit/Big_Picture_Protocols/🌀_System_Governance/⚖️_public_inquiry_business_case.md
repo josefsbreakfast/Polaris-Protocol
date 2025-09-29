@@ -1,6 +1,6 @@
 # ⚖️ Public Inquiry Business Case  
 **First created:** 2025-09-20 | **Last updated:** 2025-09-29  
-*Big Picture Protocol node — evidential integrity and data-twin exploitation, requiring formal inquiry.*
+*Big Picture Protocol node — evidential integrity and data-twin exploitation, requiring formal inquiry*
 
 ---
 
