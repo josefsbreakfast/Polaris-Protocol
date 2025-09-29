@@ -1,7 +1,7 @@
 # 🛂 Gated Intake, Post Delay, and Regional Loop Containment  
 
 **First created:** 2025-08-07 | **Last updated:** 2025-09-29  
-*How intake gating, artificial delays, and regional loops isolate citizens and suppress escalation.*  
+*How intake gating, artificial delays, and regional loops isolate citizens and suppress escalation*  
 
 ---
 
