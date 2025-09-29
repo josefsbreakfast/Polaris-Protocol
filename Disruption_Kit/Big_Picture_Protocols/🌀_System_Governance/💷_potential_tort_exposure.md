@@ -1,5 +1,5 @@
 # 💷 Potential Tort Exposure  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-07 | **Last updated:** 2025-09-29  
 *A forward-looking ledger: what happens when tort liability, Equality Act breaches, and damages are added on top of sunk surveillance + Polaris costs*  
 
 ---
@@ -112,10 +112,22 @@ The ledger is cumulative.
 
 ---
 
+## 🌌 Constellations  
+
+💷 ⚖️ ☠️ 📑 — This node ties financial exposure, tort law, Equality Act discrimination, and survivor-led accounting.
+
+---
+
+## ✨ Stardust  
+
+potential tort exposure, damages estimate, harassment, misuse of private information, negligence, psychological harm, equality act 2010, injury to feelings, loss of earnings, aggravated damages, systemic discrimination
+
+---
+
 ## 🏮 Footer  
 *Potential Tort Exposure* is a living node of the Polaris Protocol.  
 It projects the civil liability that stacks on top of sunk surveillance and reputational costs.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-09-29_
