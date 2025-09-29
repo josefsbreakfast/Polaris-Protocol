@@ -165,8 +165,8 @@ shadow sandboxes, governance experiments, pilot schemes, biometric trials, welfa
 It documents how unaccountable experimental environments allow states to trial governance tech with impunity, reframing harm as “pilot error.”  
 
 > 📡 Cross-references:  
-> - [🌀 System_Governance](./) — *parent cluster of governance diagnostics*  
-> - [🧬 Structural_Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping) — *logs of systemic trial frameworks*  
+> - [🌀 System Governance](./) — *parent cluster of governance diagnostics*  
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping) — *logs of systemic trial frameworks*  
 > - [🛰️ Field Logs](../../Field_Logs) — *on-the-ground evidence of “pilot” containment tech*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
