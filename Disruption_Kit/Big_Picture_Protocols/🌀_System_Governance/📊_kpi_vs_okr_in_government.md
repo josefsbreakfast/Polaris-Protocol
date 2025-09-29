@@ -53,8 +53,8 @@ kpi vs okr, measurement logics, targets culture, public services, governance ref
 It documents how measurement logics shape public service behaviour, and offers alternatives that preserve human dignity within state systems.  
 
 > 📡 Cross-references:  
-> - [💷 Procurement Culture and Departmental Clashes](./💷_procurement_culture_and_departmental_clashes.md)  
-> - [🌀 Reverse Colonisation Timeline](../Big_Picture_Protocols/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)  
+> - [💷 Procurement Culture and Departmental Clashes](./💷_procurement_culture_and_departmental_clashes.md) - *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
+> - [🌀 Reverse Colonisation Timeline](./🌀_reverse_colonisation_timeline_metadata_outsourcing.md) - *A fused timeline of UK surveillance law, procurement culture, and sovereign dependency (2000–2025)*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
