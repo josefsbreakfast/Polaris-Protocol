@@ -1,5 +1,5 @@
 # 🌀 Reverse Colonisation Timeline: Metadata and Outsourcing  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-14   
+**First created:** 2025-09-01 | **Last updated:** 2025-09-29   
 *A fused timeline of UK surveillance law, procurement culture, and sovereign dependency (2000–2025)*  
 
 ---
@@ -104,6 +104,21 @@ Together, they created a double bind: **the UK both collects more sensitive data
 
 ---
 
+## 🌌 Constellations  
+🌀 🛰️ 💷 ⚖️ — This node fuses legal structures, procurement, carceral governance, and data oversight.
+
+**Media references:**  
+- *The Palantir Files* (OpenDemocracy, 2023)  
+- *NSO, Palantir, and the Ghost in the System* (MIT Tech Review, 2022)  
+- *Data Colonialism* — Couldry & Mejias
+
+---
+
+## ✨ Stardust  
+reverse colonisation, metadata law, outsourcing, palantir, snoopers charter, surveillance infrastructure, sovereign procurement, KPI culture, carceral drift
+
+---
+
 ## 🏮 Footer  
 
 *Reverse Colonisation Timeline* is a living node of the Polaris Protocol.  
@@ -113,4 +128,4 @@ It fuses surveillance law with procurement culture to show how the UK outsourced
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-14_
+_Last updated: 2025-09-29_
