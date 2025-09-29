@@ -27,7 +27,19 @@ Governance teaches the body to wait — until waiting becomes consent.
 - **Retrospective throttling** (2025-09-22) — search and cross-reference visibility reduced *after* survivor testimony, eroding archival urgency [oai_citation:1‡index.md 12.txt](file-service://file-67ZKa9usAoXNfHKTEnzdBo).  
 - **Psychological containment** — pacing delays used as compliance theatre, encouraging “patience” as proof of being reasonable [oai_citation:2‡_where_to_go.md 1.txt](file-service://file-UL2r2skTpE2uCkGNXpHw7V).  
 - **Future faking** — survivors promised that “next cycle,” “next review,” or “new leadership” will bring resolution, while nothing changes.  
-- **False expectations management** — official reviews set 18 months ahead (so urgency dies), or 3 weeks ahead (so the guaranteed non-delivery crushes morale).
+- **False expectations management** — official reviews set 18 months ahead (so urgency dies), or 3 weeks ahead (so the guaranteed non-delivery crushes morale).  
+
+---
+
+## 🗣 Discussion  
+
+Algorithmic delay mirrors tactics long recognised in interpersonal and cult dynamics.  
+
+- **Gendered roots** — In heterosexual relationships, women often report unmet expectations as their primary frustration: being clear, then ignored. This maps directly onto *future faking* and *false timelines*.  
+- **Abuse playbooks** — Pick-up artist forums and later MGTOW / alt-right spaces codified “future faking” as a tactic of control. What begins in relationships becomes part of wider political technique.  
+- **Cult parallels** — Repeated failed prophecies (Heaven’s Gate’s shifting raptures, recent “rapture date” movements) show how false horizons keep followers trapped. Each non-event doesn’t break the loop — it tightens it.  
+- **Embodied urgency** — As in music like Muse’s *Time Is Running Out*, pacing itself produces bodily tension. Algorithmic delay works the same way: it is felt in the nervous system as urgency denied.  
+
 
 ---
 
@@ -66,7 +78,20 @@ It is never neutral.
 
 ## 🌌 Constellations  
 
-🌀 🧿 🛰️ — This node maps how tempo control sits inside governance diagnostics.  
+🌀 🧿 🛰️ 🔮 — Tempo control sits inside governance diagnostics.  
+
+**Media sources:**  
+- Shoshana Zuboff — *The Age of Surveillance Capitalism* (behavioural pacing and delay as strategy)  
+- Franz Kafka — *The Trial* (justice as endless procedural deferral)  
+- UK Grenfell Inquiry timelines (public urgency stretched until memory dissipates)  
+- NHS safeguarding review delays (false expectations management in “independent” audits)  
+- Undercover Policing Inquiry (2015–ongoing) — survivors trapped in cycles of promises, phase delays, and endlessly deferred accountability  
+- *Brazil* (1985, dir. Terry Gilliam) — bureaucracy as suffocating delay machinery  
+- *I, Daniel Blake* (2016, dir. Ken Loach) — survival worn down by procedural stalling  
+- Destiny’s Child — *Bills, Bills, Bills* (1999) — unmet promises and extraction in relationships  
+- Muse — *Time Is Running Out* (2003) — the *pacing of the music itself* conveys urgency, mirroring the embodied frustration of delay  
+- Failed prophecy movements — Heaven’s Gate, recent “rapture dates” — cult timelines reset by non-events, echoing false horizons in governance  
+- PUA / MGTOW tactics — “future faking” as relationship manipulation, now mainstreamed into alt-right playbooks   
 
 ---
 
