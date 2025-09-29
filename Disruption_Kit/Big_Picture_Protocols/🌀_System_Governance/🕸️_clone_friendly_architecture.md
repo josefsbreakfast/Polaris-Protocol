@@ -1,13 +1,11 @@
-# 🕸️ Clone Friendly Architecture
-
-**First created:** 2025-08-07 | **Last updated:** 2025-08-30
-
+# 🕸️ Clone Friendly Architecture  
+**First created:** 2025-08-07 | **Last updated:** 2025-09-29  
 *Environments optimised for AI clone deployment, persistence, and deniability.*  
 
 ---
 
-> **Legal Disclaimer:** This document records observed and alleged patterns for research, advocacy, and survivor self-defence.<br>
-All institutional or individual references are allegations unless confirmed by public record.  
+> **Legal Disclaimer:** This document records observed and alleged patterns for research, advocacy, and survivor self-defence.<br>  
+> All institutional or individual references are allegations unless confirmed by public record.  
 
 ---
 
@@ -28,12 +26,12 @@ Outlines **institutional, technical, and behavioural environments** optimised fo
 
 ## 🗺️ Clone Deployment Zones  
 
-| Zone              | Risk Rating | Primary Use Case                 |
-|-------------------|-------------|----------------------------------|
-| Family Court      | 🔥🔥🔥      | Voice/empathy manipulation       |
-| Clinical Training | 🔥🔥         | Affective AI calibration         |
-| Advocacy Panels   | 🔥🔥         | Dissent mimicking                |
-| FOI Portals       | 🔥           | Metadata redirection             |
+| Zone              | Risk Rating | Primary Use Case                 |  
+|-------------------|-------------|----------------------------------|  
+| Family Court      | 🔥🔥🔥      | Voice/empathy manipulation       |  
+| Clinical Training | 🔥🔥         | Affective AI calibration         |  
+| Advocacy Panels   | 🔥🔥         | Dissent mimicking                |  
+| FOI Portals       | 🔥           | Metadata redirection             |  
 
 ---
 
@@ -51,9 +49,15 @@ Outlines **institutional, technical, and behavioural environments** optimised fo
 
 ---
 
-## 🔖 Tags  
+## 🌌 Constellations  
 
-`#clone_architecture` `#surveillance_infrastructure` `#ai_replication` `#institutional_capture`  
+🕸️ 🧩 📡 🎭 — This node sits within the constellation of surveillance infrastructure, clone deployment, governance capture, and narrative control.  
+
+---
+
+## ✨ Stardust  
+
+clone friendly, ai replication, surveillance architecture, public private partnerships, metadata capture, institutional capture, family courts, advocacy silencing, forensic governance  
 
 ---
 
@@ -61,8 +65,12 @@ Outlines **institutional, technical, and behavioural environments** optimised fo
 
 *Clone Friendly Architecture* is a living node of the Polaris Protocol.  
 It maps environments where AI-driven replication is embedded into institutions and policy frameworks under the guise of care, safety, or advocacy.  
-*Survivor authorship is sovereign. Containment is never neutral.*
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+> 📡 Cross-references:  
+> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md)  
+> - [🎊 Multi-Party Data Twinning](../🌀_System_Governance/🎊_multi_party_data_twinning.md)  
+> - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md)  
 
-_Last updated: 2025-08-30_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-09-29_  
