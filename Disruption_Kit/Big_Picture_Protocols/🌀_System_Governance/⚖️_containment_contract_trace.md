@@ -97,8 +97,8 @@ legal containment, metadata suppression, NDA simulation, Prevent logic, clone sy
 It documents unconsented containment mechanisms that simulate NDA effects and strategically silence survivor voices.
 
 > 📡 Cross-references:  
-> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/System_Analysis/🧬_structural_mapping.md)  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_psychological_containment.md)  
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping)  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment)  
 > - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
