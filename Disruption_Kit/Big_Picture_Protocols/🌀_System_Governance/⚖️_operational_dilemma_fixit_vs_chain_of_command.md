@@ -46,7 +46,7 @@ It records the trade-offs between direct internal fixes, chain-of-command proces
 
 > 📡 Cross-references:  
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md)  
-> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/System_Analysis/🧬_structural_mapping.md)  
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping)  
 > - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
