@@ -1,6 +1,6 @@
 # 🗒️ Field Note — Being Cross at Gung-Ho Nudge  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
-*Captures survivor’s emotional response to the discovery that evidence-based cautions on behavioural insights were noted but ignored in UK politics (2014–2016).*  
+**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
+*Captures survivor’s emotional response to the discovery that evidence-based cautions on behavioural insights were noted but ignored in UK politics (2014–2016)*  
 
 ---
 
@@ -38,9 +38,9 @@ Anger and frustration at the way British politics adopted nudging as a flagship 
 It records the emotional register of discovering that sensible cautions on nudging were ignored in UK politics.  
 
 > 📡 Cross-references:  
-> - [🛑 Ignored Evidence Node](../Big_Picture_Protocols/🛑_ignored_evidence_nudge_2014_2016.md)  
+> - [🛑 Ignored Evidence Node](../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)  
 > - [🧭 Nudge Origin → Sludge Node](../Big_Picture_Protocols/🧭_nudge_origin_to_sludge.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-09-29_  
