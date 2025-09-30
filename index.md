@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 11:47:22 UTC_
+_Generated on 2025-09-30 11:47:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -169,7 +169,6 @@ _Generated on 2025-09-30 11:47:22 UTC_
       - [`🎓_solent_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_solent_university_compliance_profile.md)
       - [`🎓_ulster_university_belfast_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_ulster_university_belfast_compliance_profile.md)
       - [`🎓_university_college_london_ucl_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_college_london_ucl_compliance_profile.md)
-      - [`🎓_university_college_london_ucl_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_college_london_ucl_compliance_profile_v2.md)
       - [`🎓_university_of_birmingham_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_birmingham_compliance_profile.md)
       - [`🎓_university_of_birmingham_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_birmingham_compliance_profile_v2.md)
       - [`🎓_university_of_bristol_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_bristol_compliance_profile.md)
