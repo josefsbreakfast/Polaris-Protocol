@@ -150,9 +150,6 @@ C4/C5-ISR stacks are now used in civilian domains (policing, social care, financ
 It argues for aviation-grade safety culture across civilian C4/C5-ISR deployments.  
 
 > 📡 Cross-references:  
-> - [🛰️ Surveillance Infrastructure](../)  
-> - [🧠 Memory Safety & Self-Reconstruction](../🧠_memory_safety_self_reconstruction.md)  
-> - [🔥 Suppression as Signal](../)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
