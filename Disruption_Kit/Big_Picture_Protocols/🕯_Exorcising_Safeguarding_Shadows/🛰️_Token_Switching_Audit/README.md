@@ -19,7 +19,7 @@ This folder contains both non-technical and technical explainers so that all tea
 It documents detection, auditing, and governance responses to identity-token manipulation.  
 
 > 📡 Cross-references:  
-> - [🌀 System_Governance](./) — *parent cluster*  
+> - [🕯️ Exorcising Safeguarding Shadows/](./) — *parent cluster*  
 > - [🧬 Twinning Detection](../../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_twinning_detection.md) - *A guide to tracking, tracing, and untangling the simulation of sovereign voices*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
