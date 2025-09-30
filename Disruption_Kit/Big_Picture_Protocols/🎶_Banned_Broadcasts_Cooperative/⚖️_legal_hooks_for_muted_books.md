@@ -81,11 +81,12 @@ Silence, when orchestrated, carries the scent of conspiracy.
 
 > 📡 Cross-references:  
 > - [📚 Cemetery of Forgotten Books](./📚_muted_volumes_from_the_cemetery_of_forgotten_books.md)  
-> - [📚 Forensic Silence](../../🌀_System_Governance/📚_forensic_silence.md)  
+> - [📚 Forensic Silence](../../../🌀_System_Governance/📚_forensic_silence.md)  
 > - [🪞 Cascade of Chilling] - *WIP*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-09-30_  
+
 
 
