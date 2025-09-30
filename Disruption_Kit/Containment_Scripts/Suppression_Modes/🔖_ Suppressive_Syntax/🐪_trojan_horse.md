@@ -33,8 +33,8 @@ It documents how ideological containment disguises malignancy under the language
 
 > 📡 Cross-references:  
 > - [📜 Statutes](../../../Big_Picture_Protocols/📜_Statutes) — *when law codifies euphemism into legitimacy*  
-> - [🗝️ Politics_Memory_Work](../../../Big_Picture_Protocols/🗝️_Politics_Memory_Work) — *scaffolding for “reasonable racism”*  
-> - [🎶 Banned_Broadcasts_Cooperative](../../../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative) — *narratives smuggled in as “heritage” or “tradition”*  
+> - [🗝️ Politics Memory Work](../../../Big_Picture_Protocols/🗝️_Politics_Memory_Work) — *scaffolding for “reasonable racism”*  
+> - [🎶 Banned Broadcasts Cooperative](../../../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative) — *narratives smuggled in as “heritage” or “tradition”*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
