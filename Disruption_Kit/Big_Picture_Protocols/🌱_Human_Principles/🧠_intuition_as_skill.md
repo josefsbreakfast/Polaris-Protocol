@@ -1,7 +1,6 @@
 # 🧠 Intuition as Skill  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-28  
-
-*Type 1 recognition as a trainable, bounded skill — from safeguarding overrides to psychic theatre.*  
+**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
+*Type 1 recognition as a trainable, bounded skill — from safeguarding overrides to psychic theatre*  
 
 ---
 
@@ -14,7 +13,7 @@ This node recognises intuition as a **skill set** that appears across domains: c
 
 ---
 
-## 📌 Where It Appears  
+## 🛰️ Where It Appears  
 
 - **Safeguarding & medicine** → professional override questions in DASH, early warning systems, and emergency triage. Clinicians often *know* before data confirms.  
 - **Governance & counter-terror** → “If it feels suspicious, report it” models: structurally acknowledging Type 1 noticing (while needing strong bias checks).  
@@ -32,7 +31,7 @@ This node recognises intuition as a **skill set** that appears across domains: c
 
 ---
 
-## 🧩 Governance Link  
+## 🦁 Governance Link  
 
 - **Override clauses** institutionalise intuition (the “last question”).  
 - **Audit loops** should record overrides and track whether they’re escalated, ignored, or punished.  
@@ -40,32 +39,32 @@ This node recognises intuition as a **skill set** that appears across domains: c
 
 ---
 
-## ▶️ Flowchart: From Intuition to Signal (or Silence)
+## 🧿 Flowchart: From Intuition to Signal (or Silence)
 
 ```mermaid
 flowchart TD
-    A[Perception:\nType 1 'Something's off'] --> B{Bias Check & Naming}
-    B -->|Reasonable concern| C[Professional Override Invoked]
-    B -->|Likely bias or weak basis| B2[Pause & Reframe:\nSeek data/peer view] --> A
+    A[👀 Perception: 👀<br>Type 1 'Something's off'] --> B{Bias Check & Naming}
+    B -->|Reasonable concern| C[🧠 Professional Override 🧠<br>Invoked]
+    B -->|Likely bias or weak basis| B2[🏮 Pause & Reframe: 🏮<br>Seek data/peer view] --> A
     C --> D{System Response}
-    D -->|Recorded & Actioned| E[Escalation Pathway:\nSafeguarding / Clinical / Governance]
-    D -->|Recorded & Ignored| F[Ghost Trace:\nEvidence of Suppression]
-    D -->|Unrecorded / Blocked| G[Erasure:\nForensic Silence]
+    D -->|Recorded & Actioned| E[🪄 Escalation Pathway: 🪄<br>Safeguarding / Clinical / Governance]
+    D -->|Recorded & Ignored| F[👻 Ghost Trace: 👻<br>Evidence of Suppression]
+    D -->|Unrecorded / Blocked| G[💤 Erasure: 💤<br>Forensic Silence]
     E --> H{Outcome}
-    H -->|Corroborated| I[Signal Strengthened:\nPractice + Data align]
-    H -->|Not Corroborated| J[Harmless False Positive:\nLog & Learn]
-    F --> K[Audit Flag:\nCompare across units – KPI, OKR, Cochrane-style review]
+    H -->|Corroborated| I[🔥 Signal Strengthened: 🔥<br>Practice + Data align]
+    H -->|Not Corroborated| J[🩺 Harmless False Positive: 🩺<br>Log & Learn]
+    F --> K[🪭 Audit Flag: 🪭<br>Compare across units<br>KPI, OKR, Cochrane-style review]
     G --> K
-    I --> L[Feedback Loop:\nRefine prompts & training]
+    I --> L[💫 Feedback Loop: 💫<br>Refine prompts & training]
     J --> L
     K --> L
     L --> A
 ```
 
 **Legend**  
-- **Ghost Trace** = override exists but wasn’t acted on → evidence for suppression.  
-- **Erasure** = override blocked or unrecorded → forensic silence.  
-- **Feedback Loop** = improve prompts, training, peer review, and comparative audits.  
+- 👻 **Ghost Trace** = override exists but wasn’t acted on → evidence for suppression.  
+- 💤 **Erasure** = override blocked or unrecorded → forensic silence.  
+- 💫 **Feedback Loop** = improve prompts, training, peer review, and comparative audits.  
 
 ---
 
@@ -75,10 +74,10 @@ flowchart TD
 It reframes intuition as a legitimate, bounded practice — cultural, clinical, and political — and situates it as evidence of both skill and systemic strain.  
 
 > 📡 Cross-references:  
-> - [📚 Forensic Silence](./📚_forensic_silence.md) — where silence buries intuitive signals  
-> - [❓ Override Question as Silence Breaker](./❓_override_question_as_silence_breaker.md) — how intuition is formalised in safeguarding  
-> - [📊 KPI vs OKR in Government](./📊_kpi_vs_okr_in_government.md) — structural audit practices  
+> - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md) — *where silence buries intuitive signals*  
+> - [❓ Override Question as Silence Breaker](../🌀_System_Governance/❓_override_question_as_silence_breaker.md) — *how intuition is formalised in safeguarding*  
+> - [📊 KPI vs OKR in Government](../🌀_System_Governance/📊_kpi_vs_okr_in_government.md) — *structural audit practices*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-09-30_  
