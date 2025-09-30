@@ -20,7 +20,7 @@ It documents detection, auditing, and governance responses to identity-token man
 
 > 📡 Cross-references:  
 > - [🌀 System_Governance](../System_Governance/) — parent cluster  
-> - [🧬 Twinning Detection](../../../Metadata_Sabotage_Network/🧬_twinning_detection.md)  
+> - [🧬 Twinning Detection](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_twinning_detection.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
