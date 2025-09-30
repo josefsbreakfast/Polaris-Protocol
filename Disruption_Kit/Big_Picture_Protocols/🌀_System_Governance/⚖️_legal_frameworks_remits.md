@@ -17,7 +17,7 @@
 [ 🪺 Exploitation and Impact](#exploitation-impact)  
 [ 🐉 The Case for Regulation](#case-for-regulation)  
 [ 👻 Shadow Governance](#shadow-governance)  
-[ 🍉 Historical Habits](#historical-habits) 
+[ 🍉 Historical Habits](#historical-habits)  
 [ 🌌 Constellations](#constellations)   
 [ ✨ Stardust](#stardust)  
 
