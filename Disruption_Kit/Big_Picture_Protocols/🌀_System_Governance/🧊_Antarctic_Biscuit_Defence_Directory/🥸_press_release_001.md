@@ -1,4 +1,7 @@
-# 🥸 Biscuit Press: 001
+**First created:** 2025-09-30  
+**Last updated:** 2025-09-30  
+
+*A companion file to the [🥸 Declassification Scenario](./🥸_declassification_scenario.md), capturing leaked dialogue and official spin.*  
 
 ---
 
@@ -30,3 +33,24 @@ The ABDD remains committed to transparency, accountability, and the responsible 
 *— End Release —*  
 
 ---
+
+## 🕳 Constellations  
+
+> - [🥸 Declassification Scenario](./🥸_declassification_scenario.md)  
+> - [🧊 Antarctic Biscuit Defence Directorate](./🧊_antarctic_biscuit_defence_directorate.md)  
+
+---
+
+## ✴️ Stardust  
+
+**Tags:** satire, leaks, mock press release, snack diplomacy, bureaucratic panic  
+
+---
+
+## 🏮 Footer  
+
+*🥸 Press Responses* is a **Polaris satirical annex** file.  
+It stages the moment between panic and performance,  
+when classified chaos transforms into polished spin.  
+
+_Last updated: 2025-09-30_  
