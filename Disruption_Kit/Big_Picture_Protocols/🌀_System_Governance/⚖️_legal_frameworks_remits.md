@@ -28,9 +28,9 @@ The State insists on neat boundaries: MI5 inside, MI6 outside, GCHQ listening ev
 Survivors know boundaries are precisely where things blur.  
 
 ---
-
-## ✨ Summary: Parallel Systems  
 <a id="summary"></a>
+## ✨ Summary: Parallel Systems  
+
 If you are confused, you are not wrong.  
 UK surveillance runs on **parallel and layered systems**, each with its own laws, remits, and overseers:  
 
@@ -42,12 +42,12 @@ UK surveillance runs on **parallel and layered systems**, each with its own laws
 These tracks overlap, clash, and sometimes contradict one another.  
 The result is not clarity, but hierarchy: parallel systems stacked on top of each other.  
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 🗺️ Territorial and Institutional Layers  
 <a id="territorial-institutional"></a>
+## 🗺️ Territorial and Institutional Layers  
+
 - **Not the same as political powers**: Devolved parliaments in Scotland, Wales, and Northern Ireland run health, education, and justice policy. But **security and surveillance powers remain centralised** to Westminster and Whitehall.  
 - **Islands as a whole**: MI5, MI6, and GCHQ operate across the British Islands, not carved up by devolved borders.  
 - **Police & local authorities**: Certain authorisations (covert sources, comms data) flow downward to **police forces, councils, and regulatory bodies** — but never to the devolved nations as sovereign powers.  
@@ -55,8 +55,13 @@ The result is not clarity, but hierarchy: parallel systems stacked on top of eac
 
 This is not a devolved map. It is a **surveillance hierarchy** stitched across the whole of the UK.  
 
-## 🎏 Legal Overlap: Multiple Surveillance Streams  
+[✨ Back to Top](#top)  
+
+---
+
 <a id="legal-overlap)"></a>
+## 🎏 Legal Overlap: Multiple Surveillance Streams  
+
 Under UK law it is entirely lawful for **several surveillance operations to run on the same person at once**:  
 
 - Different agencies (MI5, GCHQ, local police) may each have their own warrant.  
@@ -69,12 +74,12 @@ Because of this, a small but real number of people in the UK experience the “s
 This overlap is not a glitch.  
 It is how the system is built.  
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 🔥 Harm Amplification  
 <a id="harm-amplification"></a>
+## 🔥 Harm Amplification  
+
 One poorly governed surveillance stream can already erode rights.  
 Several overlapping streams create a **deeply abusive and silencing regime**, even when each is technically lawful.  
 
@@ -86,12 +91,12 @@ When surveillance runs on “interesting data” — anomalies, outliers, dissen
 This denial is itself abusive.  
 It normalises creeping pressure into daily life and contributes to **complex trauma** for those under surveillance.  
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 📜 Statutes Overview  
 <a id="statutes-text"></a>
+## 📜 Statutes Overview  
+
 - **Security Service Act 1989** → first time MI5 was given a public legal footing.  
   *Context*: After decades of operating in silence, Parliament had to acknowledge the Security Service’s existence, partly under pressure from legal challenges.  
 
@@ -107,10 +112,12 @@ It normalises creeping pressure into daily life and contributes to **complex tra
 - **Data Protection and Digital Information Bill (2025, pending)** → reframes data sharing and digital identity schemes.  
   *Context*: Positioned as a “Brexit dividend” to diverge from EU GDPR. Expands state–industry data sharing and provides a lawful basis for algorithmic surveillance pipelines.
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
 <a id="statutes-timeline"></a>
+## 📜 Statutes Timeline  
+
 ```mermaid
 timeline
   title 📜 UK Surveillance Statutes Timeline
@@ -121,12 +128,12 @@ timeline
   2025 : Data Protection & Digital Information Bill — post-Brexit data pipelines
 ```
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 🛰️ Territorial Split  
 <a id="territorial-split"></a>
+## 🛰️ Territorial Split  
+
 - **MI5**: lawful authority over UK-based threats.  
 - **MI6 (SIS)**: lawful authority over foreign persons/activities.  
 - **GCHQ**: interception + cyber capabilities spanning global comms.  
@@ -134,12 +141,12 @@ timeline
 The Intelligence Services Act 1994 (s.1) anchors SIS functions “outside the British Islands.”  
 That anchor phrase marks jurisdiction — at least in law.  
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 🏛️ Oversight Mechanisms  
 <a id="oversight-mechanisms"></a>
+## 🏛️ Oversight Mechanisms  
+
 - **Investigatory Powers Commissioner’s Office (IPCO)** → audits warrants, publishes reports, oversees Judicial Commissioners.  
 - **Investigatory Powers Tribunal (IPT)** → handles complaints against intelligence services and unlawful surveillance.  
 - **Intelligence and Security Committee of Parliament (ISC)** → cross-party parliamentary oversight (limited to what the PM permits).  
@@ -147,12 +154,12 @@ That anchor phrase marks jurisdiction — at least in law.
 
 But oversight often bends to secrecy. Judicial deference is the system’s lubricant.  
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 🔮 Warrant Review and Citizen Recourse  
 <a id="warrant-review"></a>
+## 🔮 Warrant Review and Citizen Recourse  
+
 Surveillance powers are not all reviewed equally.  
 
 ### 🩺 Who Reviews  
@@ -175,12 +182,12 @@ Even the best-case routes struggle with **overlapping surveillance**.
 If multiple parties are lawfully watching you under different powers, no tribunal will stitch those fragments together.  
 The system audits warrants in silos — the cumulative harm is left invisible.  
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 🪺 Exploitation and Impact  
 <a id="exploitation-impact"></a>
+## 🪺 Exploitation and Impact  
+
 When surveillance systems overlap, data is not just collected — it is **monetised**.  
 Private contractors and state partners profit from data pipelines built on human lives.  
 
@@ -195,12 +202,12 @@ We have a financial interest — not only a moral one — in ensuring that every
 
 This should be a **non-partisan issue**: protecting people from data-driven harm protects the whole economy.  
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 🐉 The Case for Regulation  
 <a id="case-for-regulation"></a>
+## 🐉 The Case for Regulation  
+
 As writers and survivors we argue from moral ideals and virtue ethics:  
 no one should be harmed for someone else’s data profit.  
 
@@ -219,12 +226,12 @@ It is a strategic one.
 
 > **Regional impact:** the regions most heavily surveilled are also the least economically productive — and no wonder. Chronic surveillance undermines trust, suppresses risk-taking, and drives talent away. A regulated, proportionate system would not just lift national productivity, but also rebalance opportunity at the regional level.  
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 👻 Shadow Governance  
 <a id="shadow-governance"></a>
+## 👻 Shadow Governance  
+
 Beyond statutes and oversight, other logics drive surveillance expansion:  
 
 - **Prevent as invasive root** → Prevent has spread like **Japanese knotweed**: invasive, resilient, almost impossible to uproot.  
@@ -238,12 +245,12 @@ Beyond statutes and oversight, other logics drive surveillance expansion:
 - **Safeguarding Industry** → child-protection rhetoric masking surveillance triggers.  
 - **Donors, Media, and Capture** → procurement logic and vendor lobbying shape surveillance adoption.
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 🍉 Historical Habits  
 <a id="historical-habits"></a>
+## 🍉 Historical Habits  
+
 It is tempting to think of surveillance abuse as something that only happens elsewhere — Nazi Germany, authoritarian states, the Cold War.  
 But the UK has its own history to learn from.  
 
@@ -261,12 +268,12 @@ A more liberated and just version of Britain begins with refusing to deny our ow
 If they blur those lines, it’s not a grey area — it’s theft of sovereignty.  
 Survivors have lived long enough to see lines crossed in silence.  
 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## 🌌 Constellations  
 <a id="constellations"></a>
+## 🌌 Constellations  
+
 ⚖️ 🛰️ 🧿 🔮 — This node anchors statutory frameworks, oversight cycles, and the shadow logics that dissolve their boundaries.  
 
 **Media references:**  
@@ -275,12 +282,12 @@ Survivors have lived long enough to see lines crossed in silence.
 - *Lawfare Podcast: Oversight in the UK* — statutory limits and blurring tactics  
 - *The Bureau of Investigative Journalism* — coverage of the Investigatory Powers Act and data regimes
 - 
-[✨ Back to Top](#top)
+[✨ Back to Top](#top)  
 
 ---
-
-## ✨ Stardust  
 <a id="stardust"></a>
+## ✨ Stardust  
+
 MI5, MI6, GCHQ, Investigatory Powers Act, RIPA, IPCO, surveillance law, UK intelligence, Prevent, safeguarding, judicial oversight, colonial policing, regulation case  
 
 [✨ Back to Top](#top)  
