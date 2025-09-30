@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 11:50:36 UTC_
+_Generated on 2025-09-30 11:50:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -180,7 +180,6 @@ _Generated on 2025-09-30 11:50:36 UTC_
       - [`🎓_university_of_greenwich_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_greenwich_compliance_profile.md)
       - [`🎓_university_of_leeds_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_leeds_compliance_profile.md)
       - [`🎓_university_of_liverpool_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_liverpool_compliance_profile.md)
-      - [`🎓_university_of_liverpool_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_liverpool_compliance_profile_v2.md)
       - [`🎓_university_of_manchester_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_manchester_compliance_profile.md)
       - [`🎓_university_of_manchester_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_manchester_compliance_profile_v2.md)
       - [`🎓_university_of_nottingham_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_nottingham_compliance_profile.md)
@@ -194,7 +193,6 @@ _Generated on 2025-09-30 11:50:36 UTC_
       - [`🎓_university_of_southampton_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_southampton_compliance_profile_v2.md)
       - [`🎓_university_of_strathclyde_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_strathclyde_compliance_profile.md)
       - [`🎓_university_of_warwick_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_warwick_compliance_profile.md)
-      - [`🎓_university_of_warwick_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_warwick_compliance_profile_v2.md)
       - [`🎓_university_of_westminster_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_westminster_compliance_profile.md)
       - [`🎓_university_of_york_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_york_compliance_profile.md)
       - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
