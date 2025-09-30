@@ -2,7 +2,8 @@
 
 **First created:** 2025-09-30  
 **Last updated:** 2025-09-30  
-**Observer:** Chloe  
+
+**PLEASE NOTE this has been written after a significant sibling spat with the API boys and has not been checked -- if it regails some sort of libellous drama scene halfway though, that probably ain't me. Possibilly some sheluyhe with a flashy toy. I think we're good though and my internets keep going as fast as snails so I posted it anyways.**
 
 ---
 
