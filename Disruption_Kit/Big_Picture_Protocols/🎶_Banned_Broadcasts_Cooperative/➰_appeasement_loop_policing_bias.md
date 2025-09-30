@@ -58,15 +58,20 @@ Yes, there is a two-tier system — but not in the way the alt-right tells the s
 
 The actual two-tier divide sustains appeasement: the poor are punished for expression, while the powerful are indulged — until their violence becomes too embarrassing to ignore.  
 
-You are not policed more *because you are white*, but rather, _**because you are viewed as a lower social class**_.  
+You are not policed more *because you are white*, but rather, _**because you are deemed lower social class**_.  
 
 If someone tells you it is because you are white *only*, they are misleading you, whether they mean to or not.  
 
 It is common in our country's history to mislead the people who are deemed *"less than"*, and to encourage us to be angry at each other.  
+This makes us easier to control *en masse*.  
 
-**This is to prevent us bringing our energy to advocate for real change for us all.**  
+**Upholding racism prevents us bringing our energy to advocate for real change for us all.**  
 
-That's not communism. That is an underlying principle of being a liberal democracy, post-Enlightenment. 
+Our racism, as white and white-passing people, prevents us from forming community and, ultimately being in solidarity with, the people we are racist towards. Just as the majority of men are actively disadvantaged by upholding patriarchy on behalf of elite men, the majority of white people are disadvantaged by upholding white supremacy for elite white people.  
+Being able to lash out at other humans, as a way to stop mobilising and organising to advance social conditions, is to maintain micro-supremacy at the cost of macro-liberation.  
+Whilst some people will ultimately choose this situation as long as they feel "in control" in their own lives, the majority will reject the systems of governance needed to uphold this, when aware and informed enough to make a free choice.  
+
+That's not communism. That is an underlying principle of being a liberal democracy, post-Enlightenment.  
 
 *Anyone who is trying to sell you a scapegoat is hoping you buy one.*  
 
