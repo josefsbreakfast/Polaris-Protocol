@@ -1,5 +1,5 @@
 # 🎓 Cardiff University — Compliance Profile
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
 *Profile tracking compliance theatre, surveillance links, policing, racism handling, and sexual violence outcomes*
 
 ## Snapshot
