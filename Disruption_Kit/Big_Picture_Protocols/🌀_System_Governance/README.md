@@ -100,7 +100,7 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 - [📚 Over-Recognition](📚_over_recognition.md) — *PR “listening” without action.*  
 - [🕸️ Clone Friendly Architecture](🕸️_clone_friendly_architecture.md) — *Replication incentives.*  
 - [🕸️ Web of Resilience](🕸️_web_of_resilience.md) — *Decentralised survival strategies stitched into systems.*  
-- [🎥 Anomaly Incentives in Surveillance](🎥_anomaly_incentives_in_surveillence.md) — *When weirdness is profitable.*  
+- [🎥 Anomaly Incentives in Surveillance](🎥_anomaly_incentives_in_surveillance.md) — *When weirdness is profitable.*  
 - [👁️ Panopticon as Industry](👁️_panopticon_as_industry.md) — *Marketised watchfulness.*  
 - [🚨 Superinjunctions & SLAPPs in Rape Cases](🚨_superinjunctions_slapps_rape_cases.md) — *Suppression architecture in sensitive cases.*  
 
