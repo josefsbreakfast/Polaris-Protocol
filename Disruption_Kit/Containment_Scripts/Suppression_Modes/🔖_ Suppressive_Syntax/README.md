@@ -17,8 +17,8 @@ This cluster documents case studies where words, frames, and rhetorical devices 
 
 ## ✨ Constellations  
 - [🧬 Trojan Horse — Benign Masks for Malignancies](./🧬_trojan_horse.md) — Lost Cause ideology as linguistic containment  
-- [🧠 Psychological_Containment](../🧠_psychological_containment) — compliance through delay and soft language  
-- [🪆 Narrative_Interference](../🪆_narrative_interference) — semantic drift, clone tones, and cultural control  
+- [🧠 Psychological_Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment) — compliance through delay and soft language  
+- [🪆 Narrative_Interference](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference) — semantic drift, clone tones, and cultural control  
 
 ---
 
