@@ -1,6 +1,6 @@
 # 🧿 Watch the Watchers  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
-*Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power.*  
+**First created:** 2025-09-27 | **Last updated:** 2025-09-30  
+*Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
 
 ---
 
@@ -27,4 +27,4 @@ Examples include:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-09-30_
