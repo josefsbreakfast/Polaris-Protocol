@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 11:50:21 UTC_
+_Generated on 2025-09-30 11:50:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -197,7 +197,6 @@ _Generated on 2025-09-30 11:50:21 UTC_
       - [`🎓_university_of_warwick_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_warwick_compliance_profile_v2.md)
       - [`🎓_university_of_westminster_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_westminster_compliance_profile.md)
       - [`🎓_university_of_york_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_york_compliance_profile.md)
-      - [`🎓_university_of_york_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_york_compliance_profile_v2.md)
       - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
       - [`🎓_uwe_bristol_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_uwe_bristol_compliance_profile.md)
       - [`🎓_york_st_john_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_york_st_john_university_compliance_profile.md)
