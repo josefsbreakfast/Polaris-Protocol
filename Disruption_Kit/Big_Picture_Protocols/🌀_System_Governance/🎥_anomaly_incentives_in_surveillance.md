@@ -1,5 +1,5 @@
 # 🎥 Anomaly Incentives in Surveillance  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-29 | **Last updated:** 2025-09-30  
 *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*  
 
 ---
@@ -119,4 +119,4 @@ It documents how legislative and commercial architectures incentivise permanent 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-09-30_  
