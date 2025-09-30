@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 14:46:56 UTC_
+_Generated on 2025-09-30 15:47:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -510,6 +510,7 @@ _Generated on 2025-09-30 14:46:56 UTC_
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
     - [`🌹_moving_plan.md`](Disruption_Kit/Field_Logs/🌹_moving_plan.md)
     - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
+    - [`🐓_no_gpt_for_the_annoyed_femme.md`](Disruption_Kit/Field_Logs/🐓_no_gpt_for_the_annoyed_femme.md)
     - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
     - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
