@@ -58,9 +58,8 @@ This is not a devolved map. It is a **surveillance hierarchy** stitched across t
 [✨ Back to Top](#top)  
 
 --- 
-  
-<a id="multiple-surveillance-streams)"></a>  
 
+<a id="multiple-surveillance-streams"></a>
 ## 🦆 Multiple Surveillance Streams  
 
 Under UK law it is entirely lawful for **several surveillance operations to run on the same person at once**:  
