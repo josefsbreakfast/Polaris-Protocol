@@ -1,6 +1,6 @@
 # ⚖️ Judicial Deference  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-*Courts outsourcing responsibility back to the executive, reinforcing systemic impunity.*
+**First created:** 2025-09-14 | **Last updated:** 2025-09-30  
+*Courts outsourcing responsibility back to the executive, reinforcing systemic impunity*
 
 ---
 
@@ -46,4 +46,4 @@ It tracks how courts sometimes fail to check state overreach — and how legal p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-09-30_
