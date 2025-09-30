@@ -84,9 +84,9 @@ That's not communism. That is an underlying principle of being a liberal democra
 It documents how liberal states appease far-right extremism while over-policing leftist resistance, using denial and historical revision as cover.  
 
 > 📡 Cross-references:  
-> - [📡 Who Gets to Transmit](./📡_who_gets_to_transmit.md) — constellation thesis  
-> - [📚 Knowledge Policing and Banned Books](./📚_knowledge_policing_and_banned_books.md) — the asymmetry of suppression in text  
-> - [🎶 Pirate Radio as Policed Resistance](./🎶_pirate_radio_as_policed_resistance.md) — parallel asymmetry in sound  
+> - [📡 Who Gets to Transmit](./📡_who_gets_to_transmit.md) — *constellation thesis*  
+> - [📚 Knowledge Policing and Banned Books](./📚_knowledge_policing_and_banned_books.md) — *the asymmetry of suppression in text*  
+> - [🎶 Pirate Radio as Policed Resistance](./🎶_pirate_radio_as_policed_resistance.md) — *parallel asymmetry in sound*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
