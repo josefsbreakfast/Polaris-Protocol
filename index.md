@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 07:17:03 UTC_
+_Generated on 2025-09-30 07:18:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -32,6 +32,7 @@ _Generated on 2025-09-30 07:17:03 UTC_
         - [`☕️_press_release_001.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_001.md)
         - [`☕️_press_release_002.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_002.md)
         - [`🍪_biscuit_defence_training_manual.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🍪_biscuit_defence_training_manual.md)
+        - [`🍪_cookie_leaks_001.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🍪_cookie_leaks_001.md)
         - [`👾_biscuit_defence_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/👾_biscuit_defence_algorithm.md)
         - [`🚀_start_here.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🚀_start_here.md)
         - [`🤌_nudges_and_biscuits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🤌_nudges_and_biscuits.md)
