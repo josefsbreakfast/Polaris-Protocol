@@ -1,5 +1,5 @@
 # 🛰️ Overlapping Surveillance Layers  
-**First created:** 2025-09-28 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-28 | **Last updated:** 2025-09-30  
 *How commercial and state surveillance can run in parallel and feel like one operation*
 
 ---
