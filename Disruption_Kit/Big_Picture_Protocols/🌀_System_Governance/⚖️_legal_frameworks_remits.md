@@ -7,7 +7,7 @@
 **Jump to:**  
 [ ✨ Summary: Parallel Systems](#summary)  
 [ 🗺️ Territorial and Institutional Layers](#territorial-institutional)  
-[ 🎏 Legal Overlap: Multiple Surveillance Streams](#legal-overlap-multiple)  
+[ 🎏 Legal Overlap Multiple Surveillance Streams](#legal-overlap-multiple)  
 [ 🔥 Harm Amplification](#harm-amplification)  
 [ 📜 Statutes Overview](#statutes-text)  
 [ 📜 UK Surveillance Statutes Timeline](#statutes-timeline)  
@@ -18,7 +18,7 @@
 [ 🐉 The Case for Regulation](#case-for-regulation)  
 [ 👻 Shadow Governance](#shadow-governance)  
 [ 🍉 Historical Habits](#historical-habits) 
-[ 🌌 Constellations](#constellations)  
+[ 🌌 Constellations](#constellations)   
 [ ✨ Stardust](#stardust)  
 
 ---
