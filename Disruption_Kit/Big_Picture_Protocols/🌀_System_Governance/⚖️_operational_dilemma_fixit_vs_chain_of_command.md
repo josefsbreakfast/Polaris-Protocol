@@ -1,6 +1,6 @@
 # ⚖️ Operational Dilemma: Fix It vs Chain of Command  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-29  
-*Weighing the risks of direct internal fixes against using formal oversight pathways.*
+**First created:** 2025-09-05 | **Last updated:** 2025-10-01    
+*Weighing the risks of direct internal fixes against using formal oversight pathways*
 
 ---
 
@@ -32,6 +32,8 @@
 - *Cummings v Cabinet Office* (UK inquiry submissions, 2021–2023) — on chain-of-command inertia  
 - *The Drop Box* (documentary) — on alternative routes to institutional inaction
 
+- "You must understand, young Hobbit, it takes a long time to say anything in Old Entish. And we never say anything unless it is worth taking a long time to say."
+
 ---
 
 ## ✨ Stardust  
@@ -51,4 +53,4 @@ It records the trade-offs between direct internal fixes, chain-of-command proces
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-01_
