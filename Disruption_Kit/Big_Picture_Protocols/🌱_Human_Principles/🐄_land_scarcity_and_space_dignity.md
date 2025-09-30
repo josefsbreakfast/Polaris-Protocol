@@ -1,10 +1,10 @@
 # 🐄 Land Scarcity and Space Dignity  
 **First created:** 2025-09-26 | **Last updated:** 2025-09-30  
-*Explores the myth of “no room” in the UK and the human implications of manufactured scarcity.*  
+*Explores the myth of “no room” in the UK and the human implications of manufactured scarcity*  
 
 ---
 
-## 📑 Calculation Baseline  
+## ✨ Calculation Baseline  
 - UK land area: 242,741 km² = 242,741,000,000 m²  
 - UK population (2024 est.): ~69.3 million  
 - Result: ~**3,500 m² per person** if equally divided  
@@ -35,7 +35,7 @@ That’s a ratio of **92× more land per person** than living space.
 
 ---
 
-## 🔄 Towards Redistribution as Principle  
+## 💫 Towards Redistribution as Principle  
 - If we accept land as a shared resource, not a hoarded inheritance, conversations about justice shift.  
 - Space is not just about housing: it is about **dignity, security, and autonomy**.  
 - Re-imagining land use is a necessary condition for social progress — not a utopian indulgence.  
