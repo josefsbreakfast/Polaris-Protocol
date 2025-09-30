@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 11:38:19 UTC_
+_Generated on 2025-09-30 11:38:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -156,7 +156,6 @@ _Generated on 2025-09-30 11:38:19 UTC_
       - [`🎓_liverpool_hope_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_liverpool_hope_university_compliance_profile.md)
       - [`🎓_liverpool_john_moores_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_liverpool_john_moores_university_compliance_profile.md)
       - [`🎓_london_school_of_economics_and_political_science_lse_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_london_school_of_economics_and_political_science_lse_compliance_profile.md)
-      - [`🎓_london_school_of_economics_and_political_science_lse_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_london_school_of_economics_and_political_science_lse_compliance_profile_v2.md)
       - [`🎓_london_south_bank_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_london_south_bank_university_compliance_profile.md)
       - [`🎓_manchester_metropolitan_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_manchester_metropolitan_university_compliance_profile.md)
       - [`🎓_middlesex_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_middlesex_university_compliance_profile.md)
