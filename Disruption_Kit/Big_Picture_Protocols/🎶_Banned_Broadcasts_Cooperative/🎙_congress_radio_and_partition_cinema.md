@@ -1,6 +1,6 @@
 # 🎙 Congress Radio and Partition Cinema  
 **First created:** 2025-09-15 | **Last updated:** 2025-09-30  
-*Clandestine broadcasts of the Quit India movement and their cinematic afterlives*  
+*Clandestine broadcasts of the Quit India movement and their cinematic afterlives, retold for the colonised British mind*  
 
 ---
 
@@ -25,7 +25,7 @@ Together, radio and film remind us: suppression is temporary, but signals endure
 
 The magic was not just the signal, but the sound: to tune in and hear *not a foreign language*, but the cadence of one’s own voice on the airwaves was itself liberation. English had been enforced as the language of law and governance, but it was not the speech of daily life. After hearing only stylised BBC tones or the clipped commands of police and military radios, Congress Radio carried a different intimacy. Even if you did not speak Hindi or Urdu directly, the woman on the radio *sounded like you*.  
 
-That struggle over voice carries forward. In the UK today, debates around language and regional recognition are still live. In theory, languages like Welsh enjoy statutory protection, yet in practice this is unevenly honoured. Regional accents on national television are a very recent expansion, and characters from outside the South East are often typecast into caricatures of a “regional persona.” This narrowness flattens the diversity of the UK’s history and cultures — a reminder that who is heard, and how, remains political. The Media Act 2024 shows such questions are still actively legislated by Parliament.  
+That struggle over voice carries forward. In the UK today, debates around language and regional recognition are still live. In theory, languages like Welsh enjoy statutory protection, yet in practice this is unevenly honoured. Regional accents on national television are a very recent expansion, and characters from outside the South East are often typecast into caricatures of a “regional persona.” This narrowness flattens the diversity of the UK’s history and cultures — a reminder that who is heard, and how, remains political. The *staged commencements* Media Act 2024 show such questions are still actively legislated by Parliament.  
 
 
 ---
@@ -58,18 +58,26 @@ This richness is exactly what makes the violence of scapegoating and partition l
 - Serves as resistance to Modi-era nationalist rewriting of partition history.  
 - Emphasises **unity across communities** pre-partition — a counterpoint to current divisive rhetoric.  
 
-Whilst *Ae Watan Mere Watan* focuses on one strand of this history — and by doing so remains uncensored in an increasingly centralised media landscape — it also depicts a striking truth: under British rule, communities often held to a united front.  
+Whilst *Ae Watan Mere Watan* focuses on one strand of this history — and by doing so remains uncensored in an increasingly centralised media landscape — it also depicts a striking truth: under British rule, communities often held to a *united front*.  
 
 Such united fronts were a common tactic in the early 20th century against authoritarian and totalitarian powers.  
 In colonial contexts especially, those who had lived on the land and carried its histories could recognise their differences yet still agree: on the question of foreign rule, they would stand together.  
 
+This form of united front has no close parallel in the UK.  
+While moments of solidarity have existed — against fascism in the 1930s, or in labour and anti-racist struggles later on — they never reached the scale or clarity seen in colonial contexts, where unity itself was the strategy for survival under foreign power.  
+Whether that will change as the growing alt-right threatens democratic power across the spectrum — targeting both left and right — remains an open question.  
 
 ---
 
-## 4. Partition and the Sound of Independence  
+## 🦚 4. Partition and the Sound of Independence  
 - Congress Radio symbolises how **unauthorised broadcasts carry legitimacy** when official channels collapse into propaganda.  
 - Its memory lives less in state commemoration than in film, oral history, and diaspora retellings.  
 - The struggle was not only territorial but sonic: who had the right to transmit India’s future.  
+
+Partition was fought not only on land but in language and sound.  
+Congress Radio made independence audible in the tones and cadences of everyday people, breaking through the clipped English of colonial governance.  
+Its legacy reminds us that liberation is not only a matter of borders, but of who is allowed to speak, and *whose voices history preserves*.  
+
 
 ---
 
