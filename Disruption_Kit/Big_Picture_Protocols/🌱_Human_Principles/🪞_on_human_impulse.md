@@ -25,6 +25,27 @@ Its suppression or criminalisation is itself an act of violence.
 
 ---
 
+## 🌌 Constellations  
+
+🧿 🛰️ 🌱 — This node sits in the grounding register.  
+
+- **A Spell of Good Things** (Ayọ̀bámi Adébáyọ̀, 2023) — novel of family, love, and survival under systemic violence.  
+  *Shows how natural impulses for care and connection are strained, but never erased, by political and economic brutality.*  
+
+- **Terraform: Building a Better World** (Propaganda, 2021) — essays and reflections on justice, imagination, and faith.  
+  *Frames human impulse as a resource for re-creating systems that honour dignity rather than contain it.*  
+
+- **Humankind: A Hopeful History** (Rutger Bregman, 2020) — nonfiction counter-argument to cynicism.  
+  *Affirms the baseline of human cooperation and goodness, resisting system logics that portray impulse as inherently selfish or violent.*
+
+---
+
+## ✨ Stardust  
+
+impulse, sovereignty, survival, violence, dignity, containment, suppression, resistance, human principles  
+
+---
+
 ## 🏮 Footer  
 
 *🪞 On Human Impulse* is a living node of the Polaris Protocol.  
