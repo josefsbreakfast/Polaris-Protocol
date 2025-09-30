@@ -78,6 +78,18 @@ It normalises creeping pressure into daily life and contributes to **complex tra
 
 ---
 
+```mermaid
+timeline
+  title 📜 UK Surveillance Statutes Timeline
+  1989 : Security Service Act — MI5 put on statutory footing
+  1994 : Intelligence Services Act — MI6 & GCHQ formalised
+  2000 : RIPA — surveillance regulation + expansion (Blair era)
+  2016 : IPA — "Snoopers’ Charter" after Snowden revelations
+  2025 : Data Protection & Digital Information Bill — post-Brexit data pipelines
+```
+
+---
+
 ## 🛰️ Territorial Split  
 
 - **MI5**: lawful authority over UK-based threats.  
