@@ -7,7 +7,7 @@
 **Jump to:**  
 [ ✨ Summary: Parallel Systems](#summary)  
 [ 🗺️ Territorial and Institutional Layers](#territorial-institutional)  
-[ 🎏 Legal Overlap: Multiple Surveillance Streams](#legal-overlap-multiple-surveillance-streams)  
+[ 🦆 Legal Overlap: Multiple Surveillance Streams](#legal-overlap-multiple-surveillance-streams)  
 [ 🔥 Harm Amplification](#harm-amplification)  
 [ 📜 Statutes Overview](#statutes-text)  
 [ 📜 UK Surveillance Statutes Timeline](#statutes-timeline)  
@@ -60,7 +60,7 @@ This is not a devolved map. It is a **surveillance hierarchy** stitched across t
 ---
 
 <a id="legal-overlap-multiple-surveillance-streams)"></a>
-## 🎏 Legal Overlap: Multiple Surveillance Streams  
+## 🦆 Legal Overlap: Multiple Surveillance Streams  
 
 Under UK law it is entirely lawful for **several surveillance operations to run on the same person at once**:  
 
