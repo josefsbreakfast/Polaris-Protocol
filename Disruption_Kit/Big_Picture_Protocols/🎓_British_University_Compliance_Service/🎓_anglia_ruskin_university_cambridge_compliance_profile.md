@@ -1,6 +1,6 @@
 # 🎓 Anglia Ruskin University (Cambridge) — Compliance Profile
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
-*Profile tracking compliance theatre, surveillance links, policing, racism handling, and sexual violence outcomes.*
+**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
+*Profile tracking compliance theatre, surveillance links, policing, racism handling, and sexual violence outcomes*
 
 ## Snapshot
 - **City:** Cambridge
@@ -30,10 +30,17 @@ For each axis, mark score **0–5** (☐0 ☐1 ☐2 ☐3 ☐4 ☐5) and add evid
   - Notes: TODO
   - Sources: TODO
 
+- **Disability (Access/Adjustments & Complaints):** ☐0 ☐1 ☐2 ☐3 ☐4 ☐5  
+  - Notes: TODO (reasonable adjustments, OIA cases, HESA disability disclosure rates)
+  - Sources: TODO
+
+- **Student Suicides (Rate & Prevention Practice):** ☐0 ☐1 ☐2 ☐3 ☐4 ☐5  
+  - Notes: TODO (ONS/HESA-linked rates, OfS/UUK compliance with suicide prevention guidance)
+  - Sources: TODO
+
 - **Governance / Anti-Democratic Overlaps:** ☐0 ☐1 ☐2 ☐3 ☐4 ☐5  
   - Notes: TODO
   - Sources: TODO
-
 ## 🏮 Footer  
 
 This file is a living node of the Polaris Protocol. It supports systemic mapping of compliance, surveillance, and anti-democratic overlaps across UK higher education.
@@ -45,4 +52,4 @@ This file is a living node of the Polaris Protocol. It supports systemic mapping
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_
+_Last updated: 2025-09-30_
