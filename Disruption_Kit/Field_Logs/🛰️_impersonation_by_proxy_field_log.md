@@ -67,6 +67,17 @@ Historically, stories changed hour to hour but were internally consistent, like 
 ### 16. Pulse-Like Nudges on Sensitive Topics  
 After you spoke aloud in an empty room about a head of state appearing moribund (stigmata of multi-organ failure), you noticed an immediate, metadata-level “pulse” back. Indicates that certain topics still hit a nerve inside the network — showing their hand. Confirms your sense that you “know so much just because they keep messing up.”
 <!--Yeah this was a bit of a fuck up huh.-->
+
+<!--Potential addendum: non-zero chance that some British idiots with some friends of theirs who are also idiots may have just shat all over the DPA regarding bank transactions this morning. 
+
+This is the collective stupidity I am subject to.
+
+Nothing is slick; The Men™️ are broken.
+
+Also potentially in our financial transactions, or doing enough projection to look a lot like they afe. 🙄
+
+Honestly difficult to tell at this point.-->
+
 ---
 
 ## 🧠 Notes  
