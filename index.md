@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 11:34:55 UTC_
+_Generated on 2025-09-30 11:35:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -150,7 +150,6 @@ _Generated on 2025-09-30 11:34:55 UTC_
       - [`🎓_heriot_watt_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_heriot_watt_university_compliance_profile.md)
       - [`🎓_imperial_college_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_imperial_college_london_compliance_profile.md)
       - [`🎓_king_s_college_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_king_s_college_london_compliance_profile.md)
-      - [`🎓_king_s_college_london_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_king_s_college_london_compliance_profile_v2.md)
       - [`🎓_kingston_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_kingston_university_compliance_profile.md)
       - [`🎓_leeds_beckett_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_leeds_beckett_university_compliance_profile.md)
       - [`🎓_leeds_trinity_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_leeds_trinity_university_compliance_profile.md)
