@@ -1,6 +1,6 @@
 # ⚠️ Authoritarian Incentives in Universities  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
-*Why UK universities are structurally nudged toward authoritarian contracts, and why this is a democratic crisis.*  
+**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
+*Why UK universities are structurally nudged toward authoritarian contracts, and why this is a democratic crisis*  
 
 ---
 
@@ -17,17 +17,17 @@ But beneath the branding, it is one of the first capture points in the slide tow
 
 ```mermaid
 flowchart TD
-    A[⚖️ Charity Shell<br/>Exempt status light-touch regulation] --> D[📉 Deficits<br/>Universities financially strained]
-    B[💸 Market Logic<br/>9k fees per-head shrinking block grants] --> D
-    C[🏦 Block Grant Collapse<br/>Reduced public subsidy] --> D
+    A[⚖️ Charity Shell<br>Exempt status light-touch regulation] --> D[📉 Deficits<br/>Universities financially strained]
+    B[💸 Market Logic<br>9k fees per-head shrinking block grants] --> D
+    C[🏦 Block Grant Collapse<br>Reduced public subsidy] --> D
 
-    D --> E[🟥 Authoritarian Donors<br/>Oligarchs Gulf states Confucius Institutes]
-    D --> F[⚙️ Exploitative Industries<br/>Fossil fuels Defence Surveillance tech]
+    D --> E[🟥 Authoritarian Donors<br>Oligarchs Gulf states Confucius Institutes]
+    D --> F[⚙️ Exploitative Industries<br>Fossil fuels Defence Surveillance tech]
 
-    E --> G[🏛️ Legitimacy Capture<br/>Research shaped dissent silenced<br/>citizens trained in obedience]
+    E --> G[🏛️ Legitimacy Capture<br>Research shaped dissent silenced<br>citizens trained in obedience]
     F --> G
 
-    G --> H[⚠️ Democratic Crisis<br/>Looks like glossy brochures<br/>actually authoritarian drift]
+    G --> H[⚠️ Democratic Crisis<br>Looks like glossy brochures<br>actually authoritarian drift]
 ```
 
 ---
@@ -95,13 +95,6 @@ We are standing at a fork:
 - Or confront the incentives honestly, and re-engineer funding so that democracy is the easier partner, not the harder one.  
 
 ---
-
-## 📡 Cross-References  
-
-- [📜 Funding and Charitable Status Timeline](./📜_funding_and_charitable_status_timeline.md)  
-- [⚖️ Charitable Status Paradox](./⚖️_charitable_status_paradox.md)  
-- [🎓 British University Compliance Service](./)  
-- [Ed Snider — On Tyranny Notes](../../Polaris_Nest/EdSnider_OnTyranny_Notes.md)  
 
 ---
 
