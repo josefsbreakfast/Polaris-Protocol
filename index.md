@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 09:18:47 UTC_
+_Generated on 2025-09-30 09:19:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -460,6 +460,7 @@ _Generated on 2025-09-30 09:18:47 UTC_
       - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
       - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
       - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
+      - [`🧠_utilisation_of_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)
       - [`🧨_spectacle_of_raids.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧨_spectacle_of_raids.md)
       - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
       - [`🧮_datafication_as_risk_vector.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧮_datafication_as_risk_vector.md)
