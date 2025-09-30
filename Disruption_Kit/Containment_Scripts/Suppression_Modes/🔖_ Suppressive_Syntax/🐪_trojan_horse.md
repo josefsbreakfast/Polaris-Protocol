@@ -1,7 +1,7 @@
 # 🐪 Trojan Horse — Benign Masks for Malignancies  
 
 **First created:** 2025-09-30 | **Last updated:** 2025-09-30  
-*How containment language disguises racial hierarchy, suppression, and malignancy under appearances of neutrality or reasonableness.*  
+*How containment language disguises racial hierarchy, suppression, and malignancy under appearances of neutrality or reasonableness*  
 
 ---
 
