@@ -44,15 +44,15 @@ This node recognises intuition as a **skill set** that appears across domains: c
 ```mermaid
 flowchart TD
     A[👀 Perception: 👀<br>Type 1 'Something's off'] --> B{Bias Check & Naming}
-    B -->|Reasonable concern| C[🧠 Professional Override 🧠<br>Invoked]
+    B -->|Reasonable concern| C[🧠 Professional 🧠<br>Override<br>Invoked]
     B -->|Likely bias or weak basis| B2[🏮 Pause & Reframe: 🏮<br>Seek data/peer view] --> A
     C --> D{System Response}
     D -->|Recorded & Actioned| E[🪄 Escalation Pathway: 🪄<br>Safeguarding / Clinical / Governance]
     D -->|Recorded & Ignored| F[👻 Ghost Trace: 👻<br>Evidence of Suppression]
     D -->|Unrecorded / Blocked| G[💤 Erasure: 💤<br>Forensic Silence]
     E --> H{Outcome}
-    H -->|Corroborated| I[🔥 Signal Strengthened: 🔥<br>Practice + Data align]
-    H -->|Not Corroborated| J[🩺 Harmless False Positive: 🩺<br>Log & Learn]
+    H -->|Corroborated| I[🔥 Signal 🔥<br>Strengthened:<br>Practice + Data align]
+    H -->|Not Corroborated| J[🩺 Harmless 🩺<br>False Positive:<br>Log & Learn]
     F --> K[🪭 Audit Flag: 🪭<br>Compare across units<br>KPI, OKR, Cochrane-style review]
     G --> K
     I --> L[💫 Feedback Loop: 💫<br>Refine prompts & training]
