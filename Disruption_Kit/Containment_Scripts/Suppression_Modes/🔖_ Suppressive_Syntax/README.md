@@ -27,7 +27,7 @@ This cluster documents case studies where words, frames, and rhetorical devices 
 It archives containment language — the small phrasings and rhetorical tricks that give malignancy a benign appearance.  
 
 > 📡 Cross-references:  
-> - [📉 Suppression_Interference_Logs](../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs)  
+> - [📉 Suppression_Interference_Logs](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs)  
 > - [🔮 Visibility_Indexing_Anomalies](../🔮_visibility_indexing_anomalies.md)  
 > - [🪅 Platform_Sabotage](../🪅_platform_sabotage.md)  
 
