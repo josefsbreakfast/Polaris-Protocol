@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 16:49:53 UTC_
+_Generated on 2025-09-30 16:51:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -78,7 +78,7 @@ _Generated on 2025-09-30 16:49:53 UTC_
       - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎊_multi_party_data_twinning.md)
-      - [`🎥_anomaly_incentives_in_surveillence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎥_anomaly_incentives_in_surveillence.md)
+      - [`🎥_anomaly_incentives_in_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎥_anomaly_incentives_in_surveillance.md)
       - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👁️_panopticon_as_industry.md)
       - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💰_who_benefits_from_cover_up.md)
       - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_polaris_costing_estimate.md)
