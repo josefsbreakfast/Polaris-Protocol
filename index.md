@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 07:50:06 UTC_
+_Generated on 2025-09-30 07:52:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -46,6 +46,7 @@ _Generated on 2025-09-30 07:50:06 UTC_
         - [`🎙️_biscuit_pronunciation_drills.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🎙️_biscuit_pronunciation_drills.md)
         - [`👾_biscuit_defence_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/👾_biscuit_defence_algorithm.md)
         - [`📖_biscuit_field_phrasebook.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/📖_biscuit_field_phrasebook.md)
+        - [`🔐_secrecy_postmortem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🔐_secrecy_postmortem.md)
         - [`🚀_start_here.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🚀_start_here.md)
         - [`🤌_nudges_and_biscuits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🤌_nudges_and_biscuits.md)
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
