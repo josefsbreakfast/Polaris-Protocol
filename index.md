@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 14:06:51 UTC_
+_Generated on 2025-09-30 14:09:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -463,6 +463,7 @@ _Generated on 2025-09-30 14:06:51 UTC_
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
       - [**🔖_ Suppressive_Syntax/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_ Suppressive_Syntax/)
         - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_ Suppressive_Syntax/README.md)
+        - [`🐪_trojan_horse.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_ Suppressive_Syntax/🐪_trojan_horse.md)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/README.md)
       - [`counter_nudge_map_who_to_rattle_for_justice.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/counter_nudge_map_who_to_rattle_for_justice.png)
       - [`triple_lock_suppression_diagram_hypothesis.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/triple_lock_suppression_diagram_hypothesis.png)
