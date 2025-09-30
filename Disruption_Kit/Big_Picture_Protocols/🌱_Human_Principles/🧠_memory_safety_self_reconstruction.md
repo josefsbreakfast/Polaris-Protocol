@@ -1,6 +1,6 @@
 # 🧠 Memory, Safety & Self-Reconstruction  
 **First created:** 2025-09-26 | **Last updated:** 2025-09-30  
-*Exploring how rest, creativity, and release from constant scrutiny restore memory and the ability to piece together one’s own history.*  
+*Exploring how rest, creativity, and release from constant scrutiny restore memory and the ability to piece together one’s own history*  
 
 ---
 
@@ -58,7 +58,13 @@ memory, surveillance, safety, trauma, politics of memory, self-reconstruction, r
 ## 🏮 Footer  
 
 *🧠 Memory, Safety & Self-Reconstruction* is a living node of the Polaris Protocol.  
-It documents how conditions of rest and release repair fragmented memory, enabling survivors and communities to reclaim narrative sovereignty.  
+It documents how conditions of rest and release repair fragmented memory, enabling survivors and communities to reclaim narrative sovereignty. 
+
+> 📡 Cross-references:
+> 
+> - [💣 The Cultural Bomb](../🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md) - *Ngũgĩ wa Thiong’o’s concept of colonial culture as a weapon of erasure*
+> - [🐍 Snake Bites and Stolen Voices](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md) - *Narrative reversal on suppression, theft, and clarity strikes*  
+> - [🧠 Humiliation as Governance](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_humiliation_as_governance.md)*Marking and degrading the “other” as a systemic tactic of European governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
