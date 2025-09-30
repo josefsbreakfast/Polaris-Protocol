@@ -5,7 +5,9 @@
 ---
 
 ## ✨ Summary  
-Containment has a pattern: it rarely targets actual danger, but instead polices legitimacy. From pirate radio to banned books to testimony suppression, what gets silenced are the transmissions that threaten appearances of control. This node traces that throughline, showing how suppression cycles repeat across media, memory, and survivor voice.  
+Containment has a pattern: it rarely targets actual danger, but instead polices legitimacy.  
+From pirate radio to banned books to testimony suppression, what gets silenced are the transmissions that threaten appearances of control.  
+This node traces that throughline, showing how suppression cycles repeat across media, memory, and survivor voice.  
 
 ---
 
