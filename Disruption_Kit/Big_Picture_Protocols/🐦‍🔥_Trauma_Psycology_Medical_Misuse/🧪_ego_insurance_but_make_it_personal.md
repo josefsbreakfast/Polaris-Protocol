@@ -182,7 +182,7 @@ flowchart TD
     style Vendetta fill:#fee,stroke:#f99,stroke-width:1px
 ```
 
-*The utter stupidity of this whole hypothesis is that I's already worled this out and fought for the diagnosis and to get a foothold in the care, well before this surveillence would have been "justified", and therefore even need clarification.*
+*The utter stupidity of this whole hypothesis is that I's already worled this out and fought for the diagnosis and to get a foothold in the care, well before this surveillance would have been "justified", and therefore even need clarification.*
 
 *Nudging-as-revenge has injured me, added to the human sexual exploitation burden, and been used to "almost get, not get" care for the underlying pathology.*
 
