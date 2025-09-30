@@ -1,6 +1,6 @@
 # ⚖️ The Strangest Duty of Care  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
-*The legal grey zone around universities’ responsibilities to students, and the cost of denial.*  
+**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
+*The legal grey zone around universities’ responsibilities to students, and the cost of denial*  
 
 ---
 
@@ -84,10 +84,10 @@ It captures how legal ambiguity, austerity logics, and reputational fear converg
 leaving students unprotected in their most vulnerable transition.  
 
 > 📡 Cross-references:  
-> - [📜 Funding and Charitable Status Timeline](./📜_funding_and_charitable_status_timeline.md)  
-> - [🎓 British University Compliance Service](./)  
-> - [🌀 System Governance](../🌀_System_Governance/)  
+> - [📜 Funding and Charitable Status Timeline](./📜_funding_and_charitable_status_timeline.md) - *A history of how UK universities became “charitable” bodies that act like corporations, shaped by policy vibes, marketisation, and global soft power shifts*  
+> - [🎓 British University Compliance Service](./) - *Systemic mapping of how UK universities are weaponised through compliance logics*  
+> - [🌀 System Governance](../🌀_System_Governance/) - *How the systems we use interlace with what controls and powers them*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2025-09-30_  
