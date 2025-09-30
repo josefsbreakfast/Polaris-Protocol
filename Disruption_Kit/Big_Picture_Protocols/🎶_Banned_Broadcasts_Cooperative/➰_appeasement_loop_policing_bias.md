@@ -70,6 +70,7 @@ That's not communism. That is an underlying principle of being a liberal democra
 
 *Anyone who is trying to sell you a scapegoat is hoping you buy one.*  
 
+🩸🐐
 
 ---
 
