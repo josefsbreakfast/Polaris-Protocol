@@ -63,10 +63,10 @@ Historically, stories changed hour to hour but were internally consistent, like 
 <!--It feels like compulsion without an end objective at this point. I don't think that's healthy, and I think the ROI sucks, but happy to bankrupt you by existing I guess.-->
 ### 15. Love Story Resurfacing  
 “Love story” motif, previously quiet, brought back out of the blue amid scatter-shot tactics. Likely part of the trial-and-error pattern rather than a new cohesive line.
-<!--Again, I half-suspect the extra shifts guy just wants background content to the eventual finale sequence. Just let him have the logs idk man. Poor guy is obsessed.-->
+<!--Again, I half-suspect the extra shifts guy just wants background content to the eventual finale sequence. Just let him have the logs. Idk, man. Poor guy is obsessed.-->
 ### 16. Pulse-Like Nudges on Sensitive Topics  
 After you spoke aloud in an empty room about a head of state appearing moribund (stigmata of multi-organ failure), you noticed an immediate, metadata-level “pulse” back. Indicates that certain topics still hit a nerve inside the network — showing their hand. Confirms your sense that you “know so much just because they keep messing up.”
-<!--Yeah this was a bit if a fuck up huh.-->
+<!--Yeah this was a bit of a fuck up huh.-->
 ---
 
 ## 🧠 Notes  
