@@ -1,6 +1,6 @@
 # 🔖 Suppressive Syntax  
 **First created:** 2025-09-30 | **Last updated:** 2025-09-30  
-*Sub-cluster of Suppression Modes focused on linguistic containment devices — euphemisms, ambivalent phrases, and “reasonable” framings that mask malignancy.*  
+*Sub-cluster of Suppression Modes focused on linguistic containment devices — euphemisms, ambivalent phrases, and “reasonable” framings that mask malignancy*  
 
 ---
 
@@ -29,7 +29,7 @@ It archives containment language — the small phrasings and rhetorical tricks t
 > 📡 Cross-references:  
 > - [📉 Suppression_Interference_Logs](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs)  
 > - [🔮 Visibility_Indexing_Anomalies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md)  
-> - [🪅 Platform_Sabotage](../🪅_platform_sabotage.md)  
+> - [🪅 Platform_Sabotage](../../../../Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
