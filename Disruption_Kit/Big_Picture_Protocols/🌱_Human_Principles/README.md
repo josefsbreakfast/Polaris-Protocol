@@ -1,6 +1,6 @@
 # 🌱 Human Principles  
 **First created:** 2025-09-26 | **Last updated:** 2025-09-30  
-*Foundational survivor axioms — counterfacts to the idea that humans can be processed like code.*  
+*Foundational survivor axioms — counterfacts to the idea that humans can be processed like code*  
 
 ---
 
