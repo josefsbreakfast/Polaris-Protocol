@@ -32,9 +32,9 @@ Some of the most enduring containment devices in political language survive beca
 It documents how ideological containment disguises malignancy under the language of neutrality, nostalgia, or reasonableness.  
 
 > 📡 Cross-references:  
-> - [📜 Statutes](../📜_statutes.md) — when law codifies euphemism into legitimacy  
-> - [🗝️ Politics_Memory_Work](../🗝️_politics_memory_work.md) — scaffolding for “reasonable racism”  
-> - [🎶 Banned_Broadcasts_Cooperative](../🎶_banned_broadcasts_cooperative.md) — narratives smuggled in as “heritage” or “tradition”  
+> - [📜 Statutes](../Big_Picture_Protocols/📜_Statutes) — *when law codifies euphemism into legitimacy*  
+> - [🗝️ Politics_Memory_Work](../../Big_Picture_Protocols/🗝️_Politics_Memory_Work) — *scaffolding for “reasonable racism”*  
+> - [🎶 Banned_Broadcasts_Cooperative](../../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative) — *narratives smuggled in as “heritage” or “tradition”*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
