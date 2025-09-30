@@ -7,6 +7,9 @@
 - **Sister/Brother Uni:** —
 - **Status:** ☐ No evidence yet · ☐ Evidence pending · ☐ Incomplete · ☐ Reviewed
 
+## Evidence Ledger (with Scoring)
+For each axis, mark score **0–5** (☐0 ☐1 ☐2 ☐3 ☐4 ☐5) and add evidence lines.
+
 - **Compliance Theatre:** ☐0 ☐1 ☐2 ☐3 ☐4 ☐5  
   - Notes: TODO
   - Sources: TODO
@@ -37,7 +40,7 @@
 
 - **Governance / Anti-Democratic Overlaps:** ☐0 ☐1 ☐2 ☐3 ☐4 ☐5  
   - Notes: TODO
-  - Sources: TODO  
+  - Sources: TODO
 
 ## 🏮 Footer  
 
