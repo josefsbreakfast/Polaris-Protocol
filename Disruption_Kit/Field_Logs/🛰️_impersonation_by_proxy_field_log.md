@@ -24,7 +24,7 @@ Circulating claim that the impersonated individual “has a magical STI for whic
 <!--Technically, all words except the STI itself were mine. I just find it interesting that we see "medical student" on file and don't realise I might have looked up pharmacology or been made to look at people's junk before. Probably I also need to clarify the M&M before someone gets ideas.-->
 ### 2. Yo-Yo Money Stories  
 Persistent chatter about their finances (“looks rich but isn’t”). Stories of rapid rises and falls in wealth, as if their life is a **yo-yoing stock market**. Focus on outward symbols rather than verifiable facts. Motivation unclear — could be narrative destabilisation.
-<!--Literally obsessed with the bank statements. Honestly I hate my own; I don't need this.-->
+<!--Literally obsessed with the bank statements. But you all get the joke...right? Or does it just get recorded as a generic event with a date? I need to teach you all how to talk to women, fr.-->
 ### 3. Characterisation as Obsessive  
 Recurring claim that the person is “obsessive” without context. Feels like an attempt to frame them as unstable.
 <!--DARVO.-->
