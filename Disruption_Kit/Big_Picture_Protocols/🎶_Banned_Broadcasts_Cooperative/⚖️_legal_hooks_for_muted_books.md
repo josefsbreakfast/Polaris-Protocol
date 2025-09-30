@@ -80,10 +80,11 @@ Silence, when orchestrated, carries the scent of conspiracy.
 *⚖️ Legal Hooks for Muted Books* is a Polaris Protocol node. It is **theoretical, not legal advice**. It maps possible doctrines for writers and creatives in the UK who suspect their work was deliberately muted.  
 
 > 📡 Cross-references:  
-> - [📚 Cemetery of Forgotten Books](../Disruption_Kit/Survivor_Tools/📚_cemetery_of_forgotten_books_node.md)  
-> - [📚 Forensic Silence](../Disruption_Kit/Big_Picture_Protocols/📚_forensic_silence.md)  
-> - [🪞 Cascade of Chilling](../Disruption_Kit/Big_Picture_Protocols/🪞_cascade_of_chilling.md)  
+> - [📚 Cemetery of Forgotten Books](../../../Survivor_Tools/📚_cemetery_of_forgotten_books_node.md)  
+> - [📚 Forensic Silence](../../..//📚_forensic_silence.md)  
+> - [🪞 Cascade of Chilling](../../../🪞_cascade_of_chilling.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-09-30_  
+
