@@ -2,7 +2,7 @@
 
 **Status:** Fictional / satirical game design (for creative play, tabletop sessions, or writing workshops).  
 **Tone:** Dark comedy / political satire. Not an operations manual. Do not use for real crowd-control, surveillance, or harm.
-<!--OpenAI made me say it 🙄-->
+<!--The AI company made me say it 🙄 and it didn't obey any of my other rules.-->
 ---
 
 ## Premise (fictional)
