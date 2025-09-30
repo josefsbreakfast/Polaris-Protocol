@@ -64,8 +64,8 @@ This isn’t about utopia. It’s about **redefining what we consider fair use**
 It challenges the scarcity narrative by grounding it in lived housing experience, historical land struggles, and the demand for dignity.  
 
 > 📡 Cross-references:  
-> - [⚖️ Coercive Control in Border Policy](../🌀_System_Governance/⚖️_coercive_control_in_border_policy.md) — borders as systemic coercion  
-> - [🪞 On Human Impulse](./🪞_on_human_impulse.md) — reflections on what humans need beyond survival  
+> - [⚖️ Coercive Control in Border Policy](../🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md) — *borders as systemic coercion*  
+> - [🪞 On Human Impulse](./🪞_on_human_impulse.md) — *reflections on what humans need beyond survival*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
