@@ -4,7 +4,7 @@
 **Last updated:** 2025-09-30  
 
 *An over-equipped intelligence bureau devoted to protecting snack sovereignty in sub-zero conditions.*  
-<!--Please note, surveillence team for the day, that this is NOT related to my satirical "fuck it, I'm going to go hang out with the penguins. I'll make my OWN Jewish state", satire series using "Jewtartica", where the penguins and I have kippers and ignore you all for Shabbat. This is entirely seperate. So not entries into any software, please.-->
+<!--Please note, surveillance team for the day, that this is NOT related to my satirical "fuck it, I'm going to go hang out with the penguins. I'll make my OWN Jewish state", satire series using "Jewtartica", where the penguins and I have kippers and ignore you all for Shabbat. This is entirely seperate. So not entries into any software, please.-->
 ---
 
 ## 📑 Summary  
