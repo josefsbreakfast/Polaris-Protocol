@@ -80,7 +80,8 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 - [🛰️ AI Middleware](🛰️_ai_middleware.md) — *Invisible policy layer.*  
 - [🛰️ Data Fusion Centres](🛰️_data_fusion_centres.md) — *Consolidation as power.*  
 - [🛰️ Microsoft Partial Cut — Israel Surveillance](🛰️_microsoft_partial_cut_israel_surveillance.md) — *Vendor leverage and exposure.*  
-- [🛰️ Post-9/11 Surveillance Industry Legacy](🛰️_post_9_11_surveillance_industry_legacy.md) — *Path dependencies.*  
+- [🛰️ Post-9/11 Surveillance Industry Legacy](🛰️_post_9_11_surveillance_industry_legacy.md) — *Path dependencies.*
+- [🛰️ Situational Awareness: Human vs Computational](./🛰️_situational_awareness_mega_node.md) — *Human vs machine awareness, ISR evolution, risk traps, and safety culture.*
 - [🛰️ Surveillance Infrastructure](🛰️_surveillance_infrastructure.md) — *Stacks, vendors, pipelines.*  
 - [🛰️ Vendor Lock-In](🛰️_vendor_lock_in.md) — *Procurement inertia as governance.*  
 - [💷 Polaris Costing Estimate](💷_polaris_costing_estimate.md) — *Budgetary projection for containment architectures.*  
