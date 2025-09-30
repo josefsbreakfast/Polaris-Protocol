@@ -21,7 +21,7 @@
 **Human SA** = perception → comprehension → projection (meaning-making under pressure).  
 **Computational SA** = sensing → fusion/analysis → operating picture (statistics under uncertainty).  
 
-[Back to Top](#top)
+[✨ Back to Top](#top)
 
 ---
 
@@ -36,7 +36,7 @@
 - **Industrial ops/energy**: SCADA, IIoT fault prediction.  
 - **Platforms**: content ranking, trust & safety queues.  
 
-[Back to Top](#top)
+[✨ Back to Top](#top)
 
 ---
 
@@ -59,7 +59,7 @@ flowchart LR
   C5ISR --> C6ISR[C6-ISR: + Cyber/Complex Systems Integration]
 ```
 
-[Back to Top](#top)
+[✨ Back to Top](#top)
 
 ---
 
@@ -78,7 +78,7 @@ flowchart LR
   H -->|no ground truth • weak postmortems • perverse incentives| C
 ```
 
-[Back to Top](#top)
+[✨ Back to Top](#top)
 
 ---
 
@@ -93,7 +93,7 @@ flowchart LR
 | Failure cost | Local but can cascade | Systemic, fast, opaque |
 | Trust lever | Training, drills, culture | Data quality, evals, guardrails |
 
-[Back to Top](#top)
+[✨ Back to Top](#top)
 
 ---
 
@@ -105,7 +105,7 @@ flowchart LR
 - **Chaos**: small errors amplify downstream.  
 - **Reality checks**: report absolute numbers, publish confidence intervals, expected-harm calcs, kill switches.  
 
-[Back to Top](#top)
+[✨ Back to Top](#top)
 
 ---
 
@@ -117,7 +117,7 @@ C4/C5-ISR stacks are now used in civilian domains (policing, social care, financ
 - Imported capability without discipline = systemic risk.  
 - Civilian sectors need ISR-grade **safety culture**.  
 
-[Back to Top](#top)
+[✨ Back to Top](#top)
 
 ---
 
@@ -140,7 +140,7 @@ C4/C5-ISR stacks are now used in civilian domains (policing, social care, financ
 | Regulators | Baselines, audits, penalties | Certs, registry, recall powers |
 | Government | Rights guardrails, oversight | Laws, aid, remedy |
 
-[Back to Top](#top)
+[✨ Back to Top](#top)
 
 ---
 
@@ -149,7 +149,11 @@ C4/C5-ISR stacks are now used in civilian domains (policing, social care, financ
 *🧭 Situational Awareness: Human vs Computational* is a node of the Polaris Protocol.  
 It argues for aviation-grade safety culture across civilian C4/C5-ISR deployments.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
+> [🎊 Multi-Party Data Twinning](./🎊_multi_party_data_twinning.md) - *How overlapping state and corporate interests fuse datasets through intermediaries*
+> [🎥 Anomaly Incentives In Surveillance](./🎥_anomaly_incentives_in_surveillence.md) - *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*
+> [🧠 AI Harms Are Not New](../🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md) - *Systemic analysis of AI harm as continuation of longstanding metadata architectures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
