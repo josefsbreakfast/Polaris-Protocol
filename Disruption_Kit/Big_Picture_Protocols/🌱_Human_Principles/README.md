@@ -20,10 +20,10 @@ They resist machine-logic reduction and anchor the rest of the Polaris protocols
 
 ## 🐅 Files  
 
-- [🐄 Land Scarcity and Space Dignity](./🐄_land_scarcity_and_space_dignity.md) — dismantles the “no room” narrative  
-- [🧠 Intuition as Skill](./🧠_intuition_as_skill.md) — Type 1 recognition as trainable, bounded practice  
-- [🧠 Memory, Safety & Self-Reconstruction](./🧠_memory_safety_and_self_reconstruction.md) — how rest and creativity repair memory under surveillance  
-- [🪞 On Human Impulse](./🪞_on_human_impulse.md) — distinguishing natural reactions from their weaponisation  
+- [🐄 Land Scarcity and Space Dignity](./🐄_land_scarcity_and_space_dignity.md) — *dismantles the “no room” narrative*  
+- [🧠 Intuition as Skill](./🧠_intuition_as_skill.md) — *Type 1 recognition as trainable, bounded practice*  
+- [🧠 Memory, Safety & Self-Reconstruction](./🧠_memory_safety_and_self_reconstruction.md) — *how rest and creativity repair memory under surveillance*  
+- [🪞 On Human Impulse](./🪞_on_human_impulse.md) — *distinguishing natural reactions from their weaponisation*  
 
 ---
 
