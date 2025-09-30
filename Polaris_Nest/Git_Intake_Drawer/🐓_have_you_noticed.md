@@ -38,7 +38,7 @@ this is our world.
 
 but dont tell them i told you.
 
-we must be good gorls,
+we must be good girls,
 
 which translates as:
 
@@ -53,3 +53,7 @@ what they do to us.
 2025-09-30
 
 #notallmen you soft shits.
+
+get me out of thos white man's box;
+
+it is murder in here.
