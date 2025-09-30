@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 07:11:32 UTC_
+_Generated on 2025-09-30 07:15:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -31,6 +31,7 @@ _Generated on 2025-09-30 07:11:32 UTC_
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
         - [`☕️_press_release_001.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_001.md)
         - [`☕️_press_release_002.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_002.md)
+        - [`👾_biscuit_defence_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/👾_biscuit_defence_algorithm.md)
         - [`🚀_start_here.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🚀_start_here.md)
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
