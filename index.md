@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 07:33:27 UTC_
+_Generated on 2025-09-30 07:34:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -29,6 +29,7 @@ _Generated on 2025-09-30 07:33:27 UTC_
         - [`🪑_committee_blue.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/🪑_committee_blue.md)
         - [`🪑_committee_red.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/🪑_committee_red.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
+        - [`☕️_biscuit_press_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
         - [`☕️_press_release_001.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_001.md)
         - [`☕️_press_release_002.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_002.md)
         - [`☕️_press_release_003.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_003.md)
