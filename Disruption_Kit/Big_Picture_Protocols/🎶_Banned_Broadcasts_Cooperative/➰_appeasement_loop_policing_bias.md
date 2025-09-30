@@ -58,13 +58,13 @@ Yes, there is a two-tier system — but not in the way the alt-right tells the s
 
 The actual two-tier divide sustains appeasement: the poor are punished for expression, while the powerful are indulged — until their violence becomes too embarrassing to ignore.  
 
-You are not policed more because you are white, but rather, because you are viewed as a lower social class.  
+You are not policed more *because you are white*, but rather, _**because you are viewed as a lower social class**_.  
 
 If someone tells you it is because you are white *only*, they are misleading you, whether they mean to or not.  
 
-It is common in our country's history to mislead the people who are deemed "less than", and to encourage us to be angry at each other.  
+It is common in our country's history to mislead the people who are deemed *"less than"*, and to encourage us to be angry at each other.  
 
-This is to prevent us bringing our energy to advocate for real change for us all.  
+**This is to prevent us bringing our energy to advocate for real change for us all.**  
 
 That's not communism. That is an underlying principle of being a liberal democracy, post-Enlightenment. 
 
