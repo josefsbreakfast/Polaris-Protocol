@@ -1,5 +1,5 @@
-# 📊 London Cluster — **Scored** (Russell Group Members & Neighbours)
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
+# 📊 Compliance & Containment League Table — **Scored + Disability & Suicide**
+**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
 
 > **Legend**
 > - Scores: 0–5 (0 = no public evidence → 5 = systemic/leadership-level entanglement)
@@ -7,13 +7,32 @@
 > - Keep detailed citations in each profile file; this table stays terse.
 
 
-| Russell Group Member | Borough / Area | Neighbouring In-Town Universities (examples) | Compliance (0–5) | Surveillance (0–5) | Protest/Policing (0–5) | Racism (0–5) | Sexual Violence (0–5) | Governance (0–5) | Notes / Sources |
-|---|---|---|---:|---:|---:|---:|---:|---:|---|
-| Imperial College London | South Kensington / White City | City; LSBU; Westminster; Middlesex; UEL; Brunel; Roehampton; Greenwich; Kingston; Goldsmiths | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
-| King’s College London | Strand / Guy’s / Denmark Hill | City; LSBU; Westminster; Middlesex; UEL; Brunel; Roehampton; Greenwich; Kingston; Goldsmiths | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
-| LSE | Holborn / Aldwych | City; LSBU; Westminster; Middlesex; UEL; Brunel; Roehampton; Greenwich; Kingston; Goldsmiths | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
-| QMUL | Mile End / Whitechapel | City; LSBU; Westminster; Middlesex; UEL; Brunel; Roehampton; Greenwich; Kingston; Goldsmiths | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
-| UCL | Bloomsbury / Euston | City; LSBU; Westminster; Middlesex; UEL; Brunel; Roehampton; Greenwich; Kingston; Goldsmiths | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University | City/Region | Sister / Brother Uni (in-town) | Compliance (0–5) | Surveillance (0–5) | Protest/Policing (0–5) | Racism (0–5) | Sexual Violence (0–5) | **Disability (0–5)** | **Student Suicides (0–5)** | Governance (0–5) | Notes / Sources |
+|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| University of Birmingham | Birmingham | Aston University; Birmingham City University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Bristol | Bristol | UWE Bristol | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Cambridge | Cambridge | Anglia Ruskin University (Cambridge) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| Cardiff University | Cardiff | Cardiff Metropolitan University; University of South Wales (Cardiff) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Durham | Durham | — | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Edinburgh | Edinburgh | Edinburgh Napier University; Heriot-Watt University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Exeter | Exeter | — | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Glasgow | Glasgow | University of Strathclyde; Glasgow Caledonian University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| Imperial College London | London | (London cluster; see London sub-table) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| King’s College London | London | (London cluster; see London sub-table) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Leeds | Leeds | Leeds Beckett University; Leeds Trinity University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Liverpool | Liverpool | Liverpool John Moores University; Liverpool Hope University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| London School of Economics and Political Science (LSE) | London | (London cluster; see London sub-table) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Manchester | Manchester | Manchester Metropolitan University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| Newcastle University | Newcastle upon Tyne | Northumbria University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Nottingham | Nottingham | Nottingham Trent University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Oxford | Oxford | Oxford Brookes University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| Queen Mary University of London (QMUL) | London | (London cluster; see London sub-table) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| Queen’s University Belfast (QUB) | Belfast | Ulster University (Belfast) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Sheffield | Sheffield | Sheffield Hallam University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Southampton | Southampton | Solent University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University College London (UCL) | London | (London cluster; see London sub-table) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of Warwick | Coventry/Warwickshire | Coventry University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
+| University of York | York | York St John University | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | • … |
 
 ## 🏮 Footer  
 
@@ -21,4 +40,4 @@ This table is a living node of the Polaris Protocol. Scores (0–5) are placehol
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_
+_Last updated: 2025-09-30_
