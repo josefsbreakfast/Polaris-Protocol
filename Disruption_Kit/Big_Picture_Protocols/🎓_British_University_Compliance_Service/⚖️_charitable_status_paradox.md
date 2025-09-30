@@ -1,6 +1,6 @@
 # ⚖️ Charitable Status Paradox  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
-*How UK universities use the shell of charity law while courting authoritarian and exploitative funders.*  
+**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
+*How UK universities use the shell of charity law while courting authoritarian and exploitative funders*  
 
 ---
 
@@ -43,10 +43,11 @@ the “charity” framework **incentivises capture**:
 It exposes how charity law legitimises universities while incentivising  
 exploitative and anti-democratic partnerships.  
 
-> 📡 Cross-references:  
-> - [📜 Funding and Charitable Status Timeline](./📜_funding_and_charitable_status_timeline.md)  
-> - [🎓 British University Compliance Service](./)  
+> 📡 Cross-references:
+> 
+> - [📜 Funding and Charitable Status Timeline](./📜_funding_and_charitable_status_timeline.md) - *A history of how UK universities became “charitable” bodies that act like corporations, shaped by policy vibes, marketisation, and global soft power shifts*  
+> - [🎓 British University Compliance Service](./) - *Systemic mapping of how UK universities are weaponised through compliance logics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2025-09-30_  
