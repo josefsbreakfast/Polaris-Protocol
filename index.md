@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 11:40:22 UTC_
+_Generated on 2025-09-30 11:40:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -160,7 +160,6 @@ _Generated on 2025-09-30 11:40:22 UTC_
       - [`🎓_manchester_metropolitan_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_manchester_metropolitan_university_compliance_profile.md)
       - [`🎓_middlesex_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_middlesex_university_compliance_profile.md)
       - [`🎓_newcastle_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_newcastle_university_compliance_profile.md)
-      - [`🎓_newcastle_university_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_newcastle_university_compliance_profile_v2.md)
       - [`🎓_northumbria_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_northumbria_university_compliance_profile.md)
       - [`🎓_nottingham_trent_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_nottingham_trent_university_compliance_profile.md)
       - [`🎓_oxford_brookes_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_oxford_brookes_university_compliance_profile.md)
