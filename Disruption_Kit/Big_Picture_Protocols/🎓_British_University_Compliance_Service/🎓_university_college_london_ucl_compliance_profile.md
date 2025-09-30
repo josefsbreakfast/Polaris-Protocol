@@ -40,7 +40,7 @@ For each axis, mark score **0–5** (☐0 ☐1 ☐2 ☐3 ☐4 ☐5) and add evid
 
 - **Governance / Anti-Democratic Overlaps:** ☐0 ☐1 ☐2 ☐3 ☐4 ☐5  
   - Notes: TODO
-  - Sources: TODO
+  - Sources: TODO  
 
 ## 🏮 Footer  
 
