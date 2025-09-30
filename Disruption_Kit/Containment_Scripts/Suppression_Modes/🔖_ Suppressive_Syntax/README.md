@@ -28,7 +28,7 @@ It archives containment language — the small phrasings and rhetorical tricks t
 
 > 📡 Cross-references:  
 > - [📉 Suppression_Interference_Logs](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs)  
-> - [🔮 Visibility_Indexing_Anomalies](../🔮_visibility_indexing_anomalies.md)  
+> - [🔮 Visibility_Indexing_Anomalies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md)  
 > - [🪅 Platform_Sabotage](../🪅_platform_sabotage.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
