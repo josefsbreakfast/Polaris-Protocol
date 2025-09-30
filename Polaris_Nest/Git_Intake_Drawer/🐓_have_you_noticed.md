@@ -16,15 +16,15 @@ forced to carry children
 
 forced to deliver, potentially die, 
 
-in acts that they never consented to.
+in acts that they themselves never consented to.
 
 it doesnt matter that most of us are raped or sexually assaulted in our lifetimes,
 
-or how many of is before we are even adult enough to use our bodies for our own pleasure.
+or how many of us before we are even adult enough to use our bodies for our own pleasure.
 
 none of that matters.
 
-it diesnt matter that they get to tell is our entire lives what we should or should not do,
+it diesnt matter that they get to tell us our entire lives what we should or should not do,
 
 beat us, cajole us, take every last inch of life from us.
 
@@ -36,10 +36,20 @@ we must be punished.
 
 this is our world.
 
-but dont tell they i told you.
+but dont tell them i told you.
 
 we must be good gorls,
 
-which translates:
+which translates as:
 
 "we must shut the fuck up right now".
+
+g-d forbid they might have to hear
+
+that it hurts,
+
+what they do to us.
+
+2025-09-30
+
+#notallmen you soft shits.
