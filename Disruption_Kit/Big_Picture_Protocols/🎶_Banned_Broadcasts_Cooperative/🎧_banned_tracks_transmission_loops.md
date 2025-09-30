@@ -56,6 +56,8 @@ A police officer is set to stand trial in 2026 for voluntary homicide over that 
 
 *Commentary assigning the anger of community grief to anything other than the need to grieve, misses the human story.*
 
+Whatever emotion we suppress, becomes louder until it is given air.  
+
 ---
 
 ## 🌌 Constellations  
