@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 20:52:13 UTC_
+_Generated on 2025-09-30 20:54:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -271,6 +271,7 @@ _Generated on 2025-09-30 20:52:13 UTC_
       - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
+      - [`⚖️_legality_as_gaslight.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_legality_as_gaslight.md)
       - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
       - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_identity_documents_act_2010.md)
       - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_data_bill_2025.md)
