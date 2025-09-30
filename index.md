@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 11:43:25 UTC_
+_Generated on 2025-09-30 11:43:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -164,7 +164,7 @@ _Generated on 2025-09-30 11:43:25 UTC_
       - [`🎓_nottingham_trent_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_nottingham_trent_university_compliance_profile.md)
       - [`🎓_oxford_brookes_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_oxford_brookes_university_compliance_profile.md)
       - [`🎓_queen_mary_university_of_london_qmul_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_queen_mary_university_of_london_qmul_compliance_profile.md)
-      - [`🎓_queen_s_university_belfast_qub_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_queen_s_university_belfast_qub_compliance_profile.md)
+      - [`🎓_queens_university_belfast_qub_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_queens_university_belfast_qub_compliance_profile.md)
       - [`🎓_sheffield_hallam_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_sheffield_hallam_university_compliance_profile.md)
       - [`🎓_solent_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_solent_university_compliance_profile.md)
       - [`🎓_ulster_university_belfast_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_ulster_university_belfast_compliance_profile.md)
