@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 11:30:31 UTC_
+_Generated on 2025-09-30 11:30:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -142,7 +142,6 @@ _Generated on 2025-09-30 11:30:31 UTC_
       - [`🎓_brunel_university_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_brunel_university_london_compliance_profile.md)
       - [`🎓_cardiff_metropolitan_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_cardiff_metropolitan_university_compliance_profile.md)
       - [`🎓_cardiff_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_cardiff_university_compliance_profile.md)
-      - [`🎓_cardiff_university_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_cardiff_university_compliance_profile_v2.md)
       - [`🎓_city_university_of_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_city_university_of_london_compliance_profile.md)
       - [`🎓_coventry_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_coventry_university_compliance_profile.md)
       - [`🎓_edinburgh_napier_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_edinburgh_napier_university_compliance_profile.md)
