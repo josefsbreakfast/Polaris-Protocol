@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 17:18:28 UTC_
+_Generated on 2025-09-30 17:20:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -287,6 +287,7 @@ _Generated on 2025-09-30 17:18:28 UTC_
       - [**🛰️_Token_Switching_Audit/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/README.md)
         - [`🌍_Non_Tech_Explainer.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🌍_Non_Tech_Explainer.md)
+        - [`🔧_Technical_Audit_Playbook.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🔧_Technical_Audit_Playbook.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
