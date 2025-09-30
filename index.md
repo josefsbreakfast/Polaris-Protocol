@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 11:51:42 UTC_
+_Generated on 2025-09-30 11:51:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -185,7 +185,6 @@ _Generated on 2025-09-30 11:51:42 UTC_
       - [`🎓_university_of_oxford_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_oxford_compliance_profile.md)
       - [`🎓_university_of_roehampton_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_roehampton_compliance_profile.md)
       - [`🎓_university_of_sheffield_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_sheffield_compliance_profile.md)
-      - [`🎓_university_of_sheffield_compliance_profile_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_sheffield_compliance_profile_v2.md)
       - [`🎓_university_of_south_wales_cardiff_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_south_wales_cardiff_compliance_profile.md)
       - [`🎓_university_of_southampton_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_southampton_compliance_profile.md)
       - [`🎓_university_of_strathclyde_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_strathclyde_compliance_profile.md)
