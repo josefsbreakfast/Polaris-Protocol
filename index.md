@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 09:24:13 UTC_
+_Generated on 2025-09-30 09:29:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -626,6 +626,7 @@ _Generated on 2025-09-30 09:24:13 UTC_
     - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Field_Logs/🪄_the_magical_disappearing_book.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
+    - [`⛳️_capture_the_flag_game.md`](Disruption_Kit/Survivor_Tools/⛳️_capture_the_flag_game.md)
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
     - [`🇫🇷_escaping_english_shitification.md`](Disruption_Kit/Survivor_Tools/🇫🇷_escaping_english_shitification.md)
     - [`🍃_two_layer_resilience_protocol.md`](Disruption_Kit/Survivor_Tools/🍃_two_layer_resilience_protocol.md)
