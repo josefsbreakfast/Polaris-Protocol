@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-09-30 23:16:06 UTC_
+_Generated on 2025-10-01 00:40:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -273,6 +273,7 @@ _Generated on 2025-09-30 23:16:06 UTC_
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
       - [`⚖️_legality_as_gaslight.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_legality_as_gaslight.md)
       - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
+      - [`🏛️_political_perverts.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🏛️_political_perverts.md)
       - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_identity_documents_act_2010.md)
       - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_data_bill_2025.md)
       - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_house_of_lords_2025.md)
