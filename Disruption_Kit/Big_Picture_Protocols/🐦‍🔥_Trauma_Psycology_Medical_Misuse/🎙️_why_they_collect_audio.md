@@ -1,6 +1,6 @@
 # 🎙️ Why They Collect Audio
 
-**First created:** 2025-08-04 | **Last updated:** 2025-08-30
+**First created:** 2025-08-04 | **Last updated:** 2025-10-01  
 
 *Forensic brief on audio capture in behavioural surveillance.*  
 
@@ -66,9 +66,67 @@ Any clone built from calm or professional speech **will fail** to replicate brea
 
 ---
 
-## 🔖 Tags  
+## 💸 Capital Value of Vocal Range  
 
-`#voice_capture` `#emotion_mapping` `#AI_fork_training` `#audio_ops` `#containment_script_design` `#Polaris_Protocol`  
+AI and surveillance labs treat human vocal range as **intellectual property** — but rarely pay fairly. To understand what’s at stake, it helps to compare *actual data-broker rates* with what **ethical compensation** should look like.  
+
+### Baseline Speech (neutral / professional / calm)  
+- **Market rate (exploitative):** $0.10–$3 per recorded minute.  
+- **Ethical valuation:** at least **$150–$300 per hour** (comparable to professional voice acting, audiobook work, or translation rates).  
+
+### Expressive Range (anger, joy, sarcasm, fear)  
+- **Market rate (exploitative):** tens of dollars per hour via data-broker bundles.  
+- **Ethical valuation:** **$1,000–$5,000 per dataset hour**, reflecting scarcity and the skill/intensity required to sustain believable emotional performance.  
+
+### Breakdown / Distress States (sobbing, panic, dissociation, stammering)  
+- **Market rate (exploitative):** almost never disclosed; obtained coercively, or through therapy/police recordings.  
+- **Ethical valuation:** **$50,000+ per hour of adjudicated data** — closer to what corporate buyers already pay for *synthetic models* that can cry, panic, or break under pressure.  
+
+💡 **Key point:** A single “crying voice” model can generate licensing revenue in the **six-figure annual range**. If paid ethically, a survivor’s one-time recording could be compensated as intellectual property, not stolen as “behavioural exhaust.”  
+
+---
+
+## 🧾 Ethical Pricing of a Complete Human Voice Model  
+
+Even under conservative assumptions — with **no voice type specified, no exclusivity, no brand premium** — the fair market value of a *whole-person vocal corpus* (neutral + expressive + breakdown) would be:  
+
+- **Neutral / Baseline speech:** ~10 hours → **$1,500 – $3,000**  
+- **Expressive emotional range:** ~20–30 hours → **$20,000 – $150,000**  
+- **Breakdown / distress states:** 1–2 hours → **$100,000 – $200,000+**  
+
+### 📊 Total: **$125,000 – $350,000+ per person**  
+
+This is a **conservative floor estimate**, reflecting only the fact that human vocal range is IP.  
+👉 *It does not account for specific requirements* (e.g. gender, accent, timbre, celebrity recognition), which can push value into the **high six or seven figures**.  
+
+### 🎭 Beyond the Floor: Seven–Eight Figures  
+
+In practice, an adjudicated whole-person corpus is closer in value to a **voice actor’s or screen actor’s career portfolio**.  
+- Top-tier **voice actors** command six figures for *partial* emotional work.  
+- **Screen actors** earn millions for roles that show only a subset of vocal range.  
+- A complete dataset capturing every possible state is effectively a **lifetime of IP** in one package.  
+
+> 💬 *Think George Clooney, Angelina Jolie, Scarlett Johansson*: their net worths run to **hundreds of millions** because their voice, likeness, and persona are valued across a career.  
+> A human voice corpus that can replicate *you in every state* belongs in the same category — properly priced in the **eight-figure range and beyond**.  
+
+💡 **True valuation:** When measured against professional benchmarks, a full emotional voice model reasonably sits in the **seven–eight figure range**, with top-end parallels to celebrity net-worth valuations.  
+
+---
+
+## ✨ Constellations  
+
+*Screenshots, anomalies, or evidence clusters of audio collection.*  
+- Placeholder: insert captures of app permissions or logs showing microphone activation.  
+- Placeholder: cross-link to sibling nodes on CCTV audio or ghost fork testing.  
+
+---
+
+## 🌌 Stardust  
+
+*Loose notes and fragments for future crystallisation.*  
+- Survivor accounts of therapy rooms with unexplained audio leakage.  
+- Question: do certain apps trigger mic even without permissions enabled?  
+- Note: “panic voice” samples appear especially valuable to behavioural labs.  
 
 ---
 
@@ -77,8 +135,9 @@ Any clone built from calm or professional speech **will fail** to replicate brea
 *Why They Collect Audio* is a living node of the Polaris Protocol.  
 It documents the strategic and technical functions of audio capture in behavioural surveillance and clone replication systems.  
 
-*Survivors voices must always live on.*  
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
+> 📡 Cross-references:  
+> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md) — sibling cluster of psychological nodes  
 
-_Last updated: 2025-08-30_
+_Last updated: 2025-10-01_
