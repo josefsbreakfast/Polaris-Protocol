@@ -1,6 +1,6 @@
 # 💊 Red Pill  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
-*From PUA awakening metaphor to extremist radicalisation pipeline.*  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-01  
+*From PUA awakening metaphor to extremist radicalisation pipeline*  
 
 ---
 
@@ -91,9 +91,9 @@ It documents how a pop culture metaphor was weaponised into a radicalisation pip
 📡 Cross-references:  
 - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)  
 - [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md)  
-- [🌹 Negging](./🌹_Negging.md)  
+- [🌹 Negging](./🌹_negging.md)  
 - [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-01_  
