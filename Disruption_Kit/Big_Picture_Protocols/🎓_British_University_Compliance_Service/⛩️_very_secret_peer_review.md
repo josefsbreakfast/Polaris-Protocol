@@ -63,8 +63,8 @@ and hidden files travelling beyond the university walls.
 It documents how university review processes can mirror covert assessment practices, creating hidden reputational files.
 
 > 📡 Cross-references:  
-> – [🛫 Frequent Flyers Club](../../🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🛫_frequent_flyers_club.md)  
-> – [🧠 Why Are We Threatened by Complexity?](../../🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🧠_why_are_we_threatened_by_complexity.md)
+> – [🛫 Frequent Flyers Club](../🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🛫_frequent_flyers_club.md)  
+> – [🧠 Why Are We Threatened by Complexity?](../🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🧠_why_are_we_threatened_by_complexity.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
