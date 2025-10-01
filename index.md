@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-01 22:31:17 UTC_
+_Generated on 2025-10-01 22:32:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -940,7 +940,6 @@ _Generated on 2025-10-01 22:31:17 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`CHECKSUMS.sha256`](Polaris_Nest/Git_Intake_Drawer/CHECKSUMS.sha256)
-    - [`Exhibit: Sales Suppression vs Viral Spike.png`](Polaris_Nest/Git_Intake_Drawer/Exhibit: Sales Suppression vs Viral Spike.png)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`appeasement_loop_neon.png`](Polaris_Nest/Git_Intake_Drawer/appeasement_loop_neon.png)
     - [`battleplan_metadata_twinning_convergence_containment.png`](Polaris_Nest/Git_Intake_Drawer/battleplan_metadata_twinning_convergence_containment.png)
@@ -1048,6 +1047,7 @@ _Generated on 2025-10-01 22:31:17 UTC_
     - [`💌_letters_to_myself.md`](Polaris_Nest/Git_Intake_Drawer/💌_letters_to_myself.md)
     - [`💌_nfts_and_postal_stamps.md`](Polaris_Nest/Git_Intake_Drawer/💌_nfts_and_postal_stamps.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
+    - [`📈_Sales_Suppression_vs_Viral_Spike.png`](Polaris_Nest/Git_Intake_Drawer/📈_Sales_Suppression_vs_Viral_Spike.png)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`😴_sleeps_and_occam.md`](Polaris_Nest/Git_Intake_Drawer/😴_sleeps_and_occam.md)
     - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Polaris_Nest/Git_Intake_Drawer/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
