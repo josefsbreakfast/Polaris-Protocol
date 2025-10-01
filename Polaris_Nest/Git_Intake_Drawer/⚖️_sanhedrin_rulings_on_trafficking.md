@@ -168,7 +168,7 @@ The arc is clear:
 Old halakha named such a perpetrator *rasha gamur*.  
 The High Holy Days remind: vows broken still bind until repaired, justice delayed still demands its day.  
 My commitment is not execution but **democracy and transformative justice**: survivor safety, survivor voice, survivor restoration.  
-
+<!--May G-d have more mercy than the hypothetically harmed woman, huh.-->
 ---
 
 ## 🏮 Footer  
