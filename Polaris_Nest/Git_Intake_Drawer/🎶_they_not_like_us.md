@@ -129,6 +129,15 @@ But lived experience often contradicts the script:
 - White men’s proximity to elite power structures — even when poor or working-class — gives them a **sense of entitlement** and institutional cover that emboldens abuse.  
 - By contrast, melanated men, themselves targeted by marginalisation and surveillance, are often the ones who **call out sexual violence** rather than collude with it.  
 
+### Acknowledging Limits  
+
+As a white woman, I also recognise the limits of my own testimony.  
+- **Melanated women have distinct, deeply painful experiences of sexual violence**, often patterned differently than mine.  
+- Their narratives are essential and must be heard on their own terms.  
+- I cannot speak on their behalf, but I can hold space for their truths alongside my own.  
+
+**Survivor undertone:** *My perspective is one thread. It should not eclipse the voices of melanated women, whose experiences of violence and survival are vital in shaping the full picture.*  
+
 ### A Survivor’s Clarification  
 
 This is not to say white men never call out abuse. Some do, and when they do it can matter deeply.  
@@ -139,15 +148,6 @@ But a pattern remains:
 - Meanwhile, men at greater marginalisation take the risk of calling it out even when the personal cost is higher.  
 
 **Survivor undertone:** *This is not a condemnation but a call-in: white men can act earlier, not only when harm becomes unavoidable. If those at greater risk can step up, those with relative privilege surely can too.*  
-
-### Acknowledging Limits  
-
-As a white woman, I also recognise the limits of my own testimony.  
-- **Melanated women have distinct, deeply painful experiences of sexual violence**, often patterned differently than mine.  
-- Their narratives are essential and must be heard on their own terms.  
-- I cannot speak on their behalf, but I can hold space for their truths alongside my own.  
-
-**Survivor undertone:** *My perspective is one thread. It should not eclipse the voices of melanated women, whose experiences of violence and survival are vital in shaping the full picture.*  
 
 ---
 
