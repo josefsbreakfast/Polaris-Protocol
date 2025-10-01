@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-01 22:00:31 UTC_
+_Generated on 2025-10-01 22:00:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -206,6 +206,7 @@ _Generated on 2025-10-01 22:00:31 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/README.md)
         - [`🎧_media_visibility_gap_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/🎧_media_visibility_gap_protocol.md)
         - [`📚_audit_suppression_protocol_english.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/📚_audit_suppression_protocol_english.md)
+        - [`🗂️_case_study_log_template.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/🗂️_case_study_log_template.md)
       - [**data/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/README.md)
         - [`georgetown_authoritarianism_books.csv`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/georgetown_authoritarianism_books.csv)
