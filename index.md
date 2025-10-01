@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-01 23:45:09 UTC_
+_Generated on 2025-10-01 23:56:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1051,6 +1051,7 @@ _Generated on 2025-10-01 23:45:09 UTC_
     - [`💌_nfts_and_postal_stamps.md`](Polaris_Nest/Git_Intake_Drawer/💌_nfts_and_postal_stamps.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`📈_Sales_Suppression_vs_Viral_Spike.png`](Polaris_Nest/Git_Intake_Drawer/📈_Sales_Suppression_vs_Viral_Spike.png)
+    - [`🔥_10_years_of_denied_rage_hurts.md`](Polaris_Nest/Git_Intake_Drawer/🔥_10_years_of_denied_rage_hurts.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`😴_sleeps_and_occam.md`](Polaris_Nest/Git_Intake_Drawer/😴_sleeps_and_occam.md)
     - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Polaris_Nest/Git_Intake_Drawer/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
