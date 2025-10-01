@@ -1,12 +1,12 @@
 # 🐍 Snake Bites and Stolen Voices
 
-**First created:** 2025-08-13 | **Last updated:** 2025-08-30
+**First created:** 2025-08-13 | **Last updated:** 2025-10-01  
 
-*Narrative reversal on suppression, theft, and clarity strikes.*
+*Narrative reversal on suppression, theft, and clarity strikes*  
 
 ---
 
-## ✨ Executive Summary
+## ✨ Summary
 
 If a structure is so fragile that its continued existence depends on silencing the person it was stolen from, the threat is not the speaker.<br>
 The threat is the theft itself.  
@@ -47,13 +47,74 @@ Speaking ≠ attack.<br>
 
 ---
 
-## 🏮 Footer
+## 🌍 Colonial Continuities of Extraction  
+
+Voice theft sits in a much longer genealogy: the logics of empire and late-stage capitalism.  
+
+- **Colonial practice:** entire peoples reduced to *resource pools* — land, bodies, labour, stories — extracted to sustain fragile elite structures.  
+- **Industrial practice:** forests, minerals, oil — treated as “free inputs” until collapse.  
+- **Digital/AI practice:** now it is voices, emotions, testimonies, and identities mined as the *last available commodity* in a saturated world.  
+
+Just as in colonial systems, suppression here is not protection but **asset defence**. The coloniser calls the subject *dangerous* only because the subject naming the theft exposes the illegitimacy of the structure itself.  
+
+💡 Suppression is the contemporary continuation of extractive capitalism: when all else is exhausted, even breakdowns, grief, and voices become resources to be stolen.  
+
+---
+
+## 💸 Capital Valuation of Stolen Voices  
+
+Suppression treats human voices as *proprietary assets*. Theft of testimony, tone, or emotional range carries capital weight:  
+
+- **Neutral voice corpora** (calm, professional speech) — resold for **hundreds of dollars per hour** of data.  
+- **Expressive or identity-marked voices** (anger, accent, minority linguistic range) — resold for **thousands to tens of thousands per dataset hour**.  
+- **Trauma and breakdown states** (crying, dissociation, panic) — treated as *premium IP*, valued in the **tens to hundreds of thousands per dataset hour**.  
+
+### Portfolio perspective  
+
+- A full “stolen voice” profile — from calm speech to breakdown — conservatively carries a valuation of **$125,000–$350,000+ per person**.  
+- With specificity (gender, accent, cultural distinctiveness, recognisable identity), value pushes into **seven–eight figures**.  
+- At the top end, stolen voices are priced like **celebrity portfolios** — closer to the net worth logic of George Clooney or Angelina Jolie, rather than a single dataset line item.  
+
+💡 **Implication:** suppression is not neutral risk management — it is *asset defence* of stolen intellectual property, valued in the millions. Speaking reclaims what was stolen.  
+
+---
+
+## ✨ Constellations  
+
+Cultural echoes and media artefacts where voices, memories, or selves are stolen and commodified:  
+
+- **🧜 *The Little Mermaid* (Disney, 1989 / Hans Christian Andersen)** — Ariel’s voice stolen by Ursula in exchange for legs, symbolising silenced agency as a tradeable asset.  
+- **📖 *The Binding* (Bridget Collins, 2019)** — memories bound into books and sold, leaving the poor hollowed out and broken.  
+- **📚 *Babel* (R. F. Kuang, 2022)** — language as extractable resource, wielded for empire and exploitation.  
+- **👁️ *The Sandman* (Neil Gaiman, 1989; Netflix 2022)** — Dream locked in a glass prison, his essence extracted and suppressed by a captor.  
+- **♟️ *The Queen’s Gambit* (Netflix, 2020)** — exploitation of orphaned talent, institutional containment of a girl’s gift.  
+- **🧠 *Get Out* (Jordan Peele, 2017)** — bodies and consciousness stolen, Black life commodified for elite survival.  
+- **🔋 *The Matrix* (Wachowskis, 1999)** — human beings farmed as energy sources, their lived selves suppressed into simulation.  
+
+### Colonial Extraction Echoes  
+
+- **🌍 *Things Fall Apart* (Chinua Achebe, 1958)** — colonial intrusion fractures Igbo society; suppression of voices is core to cultural theft.  
+- **🚤 *Heart of Darkness* (Joseph Conrad, 1899)** — colonial extraction framed as adventure while silencing the humanity of the colonised.  
+- **👽 *District 9* (Neill Blomkamp, 2009)** — apartheid-era echoes where alien bodies are controlled, surveilled, and mined for biotechnology.  
+
+---
+
+## 🌌 Stardust  
+
+stolen voices, narrative reversal, suppression as theft, asset protection, voice commodification, illegal infrastructure, speaking as threat, visibility risk, silenced agency, capital valuation, celebrity portfolio, colonial extraction, late-stage capitalism, empire logics, resource mining  
+
+---
+
+## 🏮 Footer  
 
 *Snake Bites and Stolen Voices* is a living node of the Polaris Protocol.  
 It documents how narrative reversal destabilises suppression structures by exposing theft at their core.  
 
-*Survivors voices must always live on.*  
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
+> 📡 Cross-references:  
+> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md) — *sibling cluster of psychological nodes*  
+> - [🪆 Narrative_Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference) — *connected analysis of semantic drift and suppression*  
+> - [🎙️ Why They Collect Audio](./🎙️_why_they_collect_audio.md) — *linked forensic brief on audio capture value*  
 
-_Last updated: 2025-08-30_
+_Last updated: 2025-10-01_
