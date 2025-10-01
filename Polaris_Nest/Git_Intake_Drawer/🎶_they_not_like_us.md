@@ -42,7 +42,7 @@ Survivor undertone: *This is lawfare — not truth-testing, but process as punis
 ---
 
 > *“Beat your ass and hide the Bible if God watchin'.  
-> Sometimes you gotta pop out and show ’em.  
+> Sometimes you gotta pop out and show ['em].  
 > Certified boogeyman, I'm the one that up the score with ’em…”*  
 
 🔎 **Commentary:** Here Lamar positions himself as unafraid — the one willing to say it out loud. This is whistleblower stance: risking professionalism, risking retaliation, but refusing silence. Survivors who step into this role must be supported.  
