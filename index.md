@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-01 22:32:30 UTC_
+_Generated on 2025-10-01 22:45:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -427,6 +427,7 @@ _Generated on 2025-10-01 22:32:30 UTC_
         - [`🐺_AMOG_a_joke.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🐺_AMOG_a_joke.md)
         - [`💊_red_pill.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/💊_red_pill.md)
         - [`🔮_future_faking.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🔮_future_faking.md)
+        - [`🦚_peacocking.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🦚_peacocking.md)
         - [`🧤_kino_escalation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🧤_kino_escalation.md)
         - [`🪬_masculinity_in_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_masculinity_in_crisis.md)
         - [`🪬_pua_to_far_right_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_pua_to_far_right_pipeline.md)
