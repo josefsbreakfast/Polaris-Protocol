@@ -1,10 +1,10 @@
 # 🧠 Why Are We Threatened by Complexity?  
-**First created:** 2025-09-28 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-28 | **Last updated:** 2025-10-01  
 *How “complexity” triggers escalation and bias*
 
 ---
 
-## 🧭 Overview  
+## ✨ Overview  
 
 When individuals present as “complex,” “non-standard” or simply “highly intelligent,” systems built for rapid categorisation often flag them as manipulative, risky or non-compliant.  
 This reflex drives escalation and “high value” labelling even where no wrongdoing exists.
@@ -34,9 +34,9 @@ This reflex drives escalation and “high value” labelling even where no wrong
 It documents how systems conflate complexity with threat, fuelling escalation loops.
 
 > 📡 Cross-references:  
-> – [🛫 Frequent Flyers Club](./🛫_frequent_flyers_club.md)  
-> – [🔍 Secret Peer Review](./🔍_secret_peer_review.md)
+> – [🛫 Frequent Flyers Club](./🛫_frequent_flyers_club.md) - *Individuals repeatedly caught in overlapping surveillance loops*  
+> – [⛩️ Very Secret Peer Review](../🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md) - *Hidden assessment practices inside British universities*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-01_
