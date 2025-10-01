@@ -13,3 +13,18 @@ re suppression / interference case?
 pt refused fluids and medication. 
 
 cons r/v per mane - ? for haloperidol im, ? consider f+f conversation re DoLS/s. 3?  
+
+
+
+
+
+
+
+
+PS - 
+
+notice how I just wrote it, and didn't actually call anyone's MH team?  
+
+that's what added value to the dark comedy.  
+
+(first gen antipsy is harsh tbf. meaty stuff.)  
