@@ -114,7 +114,7 @@ It documents how narrative reversal destabilises suppression structures by expos
 
 > 📡 Cross-references:  
 > - [🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md) — *sibling cluster of psychological nodes*  
-> - [🪆 Narrative_Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference) — *connected analysis of semantic drift and suppression*  
+> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference) — *connected analysis of semantic drift and suppression*  
 > - [🎙️ Why They Collect Audio](./🎙️_why_they_collect_audio.md) — *linked forensic brief on audio capture value*  
 
 _Last updated: 2025-10-01_
