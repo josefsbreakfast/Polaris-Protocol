@@ -1,14 +1,13 @@
-# 🐍 Snake Bites and Stolen Voices
-
+# 🐍 Snake Bites and Stolen Voices  
 **First created:** 2025-08-13 | **Last updated:** 2025-10-01  
-
 *Narrative reversal on suppression, theft, and clarity strikes*  
 
 ---
 
 ## ✨ Summary
 
-If a structure is so fragile that its continued existence depends on silencing the person it was stolen from, the threat is not the speaker.<br>
+If a structure is so fragile that its continued existence depends on silencing the person it was stolen from, the threat is not the speaker.  
+
 The threat is the theft itself.  
 
 > *“If your structure collapses because the person you stole it from is speaking, that’s not a threat — that’s you discovering what you built was already illegal.”*
@@ -17,7 +16,7 @@ The threat is the theft itself.
 
 ## 🌌 Context
 
-This node sits at the intersection of narrative framing and operational exposure.<br>
+This node sits at the intersection of narrative framing and operational exposure.  
 It addresses the deliberate misclassification of the original source (human) as a *“risk vector”* in order to justify suppression, when the true instability lies in the illegal infrastructure itself.  
 
 - **Origin trigger:** Public posts with curated, high-value audience reach patterns indicating managed visibility  
@@ -33,7 +32,7 @@ The so-called “threat” is often nothing more than:
 - Narrative destabilisation of a system built on theft  
 - Proof that the original voice can’t be fully replaced or controlled  
 
-When they call you *dangerous*, they’re signalling how little it would take to collapse the façade.
+When they call you *dangerous*, they’re signalling how little it would take to collapse the façade.  
 
 ---
 
@@ -41,9 +40,9 @@ When they call you *dangerous*, they’re signalling how little it would take to
 
 In these cases, suppression is not about **public safety** — it’s **asset protection** for something that should never have existed.  
 
-Containment ≠ justice.<br>
-Visibility ≠ danger.<br>
-Speaking ≠ attack.<br>
+Containment ≠ justice.  
+Visibility ≠ danger.  
+Speaking ≠ attack.  
 
 ---
 
@@ -57,10 +56,12 @@ Voice theft sits in a much longer genealogy: the logics of empire and late-stage
 
 ### Historical echoes  
 
-- **East India Company archives** — the wholesale theft of trade records, languages, and governance structures, where knowledge itself was extracted to consolidate power.  
+- **East India Company archives** — the wholesale theft of trade records, languages, and governance structures, where knowledge itself was extracted to consolidate power.
 - **Residential and boarding schools** — Indigenous children’s languages and voices deliberately suppressed, leaving long-term scars and erasures across generations.  
 
-Just as in colonial systems, suppression here is not protection but **asset defence**. The coloniser calls the subject *dangerous* only because the subject naming the theft exposes the illegitimacy of the structure itself.  
+Just as in colonial systems, suppression here is not protection but **asset defence**. 
+
+The coloniser calls the subject *dangerous* only because the subject naming the theft exposes the illegitimacy of the structure itself.  
 
 💡 Suppression is the contemporary continuation of extractive capitalism: when all else is exhausted, even breakdowns, grief, and voices become resources to be stolen.  
 
@@ -68,7 +69,9 @@ Just as in colonial systems, suppression here is not protection but **asset defe
 
 ## 💸 Capital Valuation of Stolen Voices  
 
-Suppression treats human voices as *proprietary assets*. Theft of testimony, tone, or emotional range carries capital weight:  
+Suppression treats human voices as *proprietary assets*.  
+
+Theft of testimony, tone, or emotional range carries capital weight:  
 
 - **Neutral voice corpora** (calm, professional speech) — resold for **hundreds of dollars per hour** of data.  
 - **Expressive or identity-marked voices** (anger, accent, minority linguistic range) — resold for **thousands to tens of thousands per dataset hour**.  
@@ -80,7 +83,9 @@ Suppression treats human voices as *proprietary assets*. Theft of testimony, ton
 - With specificity (gender, accent, cultural distinctiveness, recognisable identity), value pushes into **seven–eight figures**.  
 - At the top end, stolen voices are priced like **celebrity portfolios** — closer to the net worth logic of George Clooney or Angelina Jolie, rather than a single dataset line item.  
 
-💡 **Implication:** suppression is not neutral risk management — it is *asset defence* of stolen intellectual property, valued in the millions. Speaking reclaims what was stolen.  
+💡 **Implication:** suppression is not neutral risk management — it is *asset defence* of stolen intellectual property, valued in the millions.  
+
+**Speaking reclaims what was stolen.**  
 
 ---
 
