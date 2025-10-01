@@ -17,6 +17,7 @@ The threat is the theft itself.
 ## 🌌 Context
 
 This node sits at the intersection of narrative framing and operational exposure.  
+
 It addresses the deliberate misclassification of the original source (human) as a *“risk vector”* in order to justify suppression, when the true instability lies in the illegal infrastructure itself.  
 
 - **Origin trigger:** Public posts with curated, high-value audience reach patterns indicating managed visibility  
@@ -28,6 +29,7 @@ It addresses the deliberate misclassification of the original source (human) as 
 ## 🔥 Risk Reversal
 
 The so-called “threat” is often nothing more than:  
+
 - Public exposure of illegal foundations  
 - Narrative destabilisation of a system built on theft  
 - Proof that the original voice can’t be fully replaced or controlled  
