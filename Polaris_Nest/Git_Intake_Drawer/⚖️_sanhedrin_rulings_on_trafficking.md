@@ -75,8 +75,6 @@ The number **39** (*ל״ט*) is not just a limit — it carries symbolic weight.
 
 ---
 
----
-
 ### 3. Monetary Restitution — Five Heads of Damage  
 - **Nezek** — bodily damage.  
 - **Tza’ar** — pain.  
