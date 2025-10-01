@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-01 22:45:44 UTC_
+_Generated on 2025-10-01 22:56:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -432,6 +432,7 @@ _Generated on 2025-10-01 22:45:44 UTC_
         - [`🧤_kino_escalation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🧤_kino_escalation.md)
         - [`🪬_masculinity_in_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_masculinity_in_crisis.md)
         - [`🪬_pua_to_far_right_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_pua_to_far_right_pipeline.md)
+        - [`🪭_comfort_building.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪭_comfort_building.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/README.md)
       - [`☕🫖_uk_gov_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
       - [`✍️_crime_writing_as_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
