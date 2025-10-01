@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-01 18:50:34 UTC_
+_Generated on 2025-10-01 21:44:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -202,6 +202,8 @@ _Generated on 2025-10-01 18:50:34 UTC_
       - [`📜_funding_and_charitable_status_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📜_funding_and_charitable_status_timeline.md)
       - [`🧠_erosion_of_extracurricular_and_anatomy.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🧠_erosion_of_extracurricular_and_anatomy.md)
     - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/)
+      - [**audit_suppression/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/README.md)
       - [**data/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/README.md)
         - [`georgetown_authoritarianism_books.csv`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/georgetown_authoritarianism_books.csv)
