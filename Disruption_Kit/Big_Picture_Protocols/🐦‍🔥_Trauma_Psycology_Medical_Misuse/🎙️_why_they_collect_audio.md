@@ -115,18 +115,22 @@ In practice, an adjudicated whole-person corpus is closer in value to a **voice 
 
 ## ✨ Constellations  
 
-*Screenshots, anomalies, or evidence clusters of audio collection.*  
-- Placeholder: insert captures of app permissions or logs showing microphone activation.  
-- Placeholder: cross-link to sibling nodes on CCTV audio or ghost fork testing.  
+Cultural artefacts that echo the commodification of voice and memory:  
+
+- **🧜 *The Little Mermaid* (Disney, 1989 / Hans Christian Andersen)**  
+  Ariel literally sells her voice to Ursula in exchange for legs. The contract silences her, making her dependent and vulnerable. It’s a parable for voice as currency — traded away, then used against you.  
+
+- **📖 *The Binding* (Bridget Collins, 2019)**  
+  In this world, memories can be bound into books and sold. The poor and marginalised are pressured to sell their most painful experiences, leaving them hollowed out and broken. A stark mirror of how surveillance economies extract emotional/intimate data as tradable commodities.  
+
+- **📚 *Babel: An Arcane History* (R. F. Kuang, 2022)**  
+  Though primarily about language and empire, its premise of words as extractable magic resonates with the commodification of voice. Language itself becomes a tool of exploitation and control, mapping onto how emotional range is strip-mined as IP.  
 
 ---
 
 ## 🌌 Stardust  
 
-*Loose notes and fragments for future crystallisation.*  
-- Survivor accounts of therapy rooms with unexplained audio leakage.  
-- Question: do certain apps trigger mic even without permissions enabled?  
-- Note: “panic voice” samples appear especially valuable to behavioural labs.  
+voice dataset, celebrity voice, breakdown audio, crying voice, fork training, speech cloning, actor portfolio, sobbing, surveillance economy
 
 ---
 
