@@ -55,6 +55,11 @@ Voice theft sits in a much longer genealogy: the logics of empire and late-stage
 - **Industrial practice:** forests, minerals, oil — treated as “free inputs” until collapse.  
 - **Digital/AI practice:** now it is voices, emotions, testimonies, and identities mined as the *last available commodity* in a saturated world.  
 
+### Historical echoes  
+
+- **East India Company archives** — the wholesale theft of trade records, languages, and governance structures, where knowledge itself was extracted to consolidate power.  
+- **Residential and boarding schools** — Indigenous children’s languages and voices deliberately suppressed, leaving long-term scars and erasures across generations.  
+
 Just as in colonial systems, suppression here is not protection but **asset defence**. The coloniser calls the subject *dangerous* only because the subject naming the theft exposes the illegitimacy of the structure itself.  
 
 💡 Suppression is the contemporary continuation of extractive capitalism: when all else is exhausted, even breakdowns, grief, and voices become resources to be stolen.  
