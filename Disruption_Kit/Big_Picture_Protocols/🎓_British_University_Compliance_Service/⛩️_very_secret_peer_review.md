@@ -62,9 +62,10 @@ and hidden files travelling beyond the university walls.
 *Secret Peer Review* is a living node of the Polaris Protocol.  
 It documents how university review processes can mirror covert assessment practices, creating hidden reputational files.
 
-> 📡 Cross-references:  
-> – [🛫 Frequent Flyers Club](../🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🛫_frequent_flyers_club.md)  
-> – [🧠 Why Are We Threatened by Complexity?](../🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🧠_why_are_we_threatened_by_complexity.md)
+> 📡 Cross-references:
+> 
+> – [🛫 Frequent Flyers Club](../🧿_Watch_The_Watchers/🛫_frequent_flyers_club.md) - *Individuals repeatedly caught in overlapping surveillance loops*  
+> – [🧠 Why Are We Threatened by Complexity?](../🧿_Watch_The_Watchers/🧠_why_are_we_threatened_by_complexity.md) - *How “complexity” triggers escalation and bias*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
