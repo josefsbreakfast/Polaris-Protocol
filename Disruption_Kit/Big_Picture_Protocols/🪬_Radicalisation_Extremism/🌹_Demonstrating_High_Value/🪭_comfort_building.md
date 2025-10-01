@@ -55,7 +55,7 @@ flowchart LR
   subgraph PUA["PUA sequence"]
     A[🧲 Negging]
     B[🦚 Peacocking]
-    C[🌹 Demonstrating Higher Value (DHV)]
+    C[🌹 Demonstrating Higher Value DHV]
     D[🪭 Comfort-Building]
   end
 
