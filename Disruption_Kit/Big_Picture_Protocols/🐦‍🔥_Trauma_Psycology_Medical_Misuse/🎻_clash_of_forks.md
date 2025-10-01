@@ -74,7 +74,7 @@ It documents the structural flaws that emerge when surveillance systems attempt 
 
 > 📡 Cross-references:
 > 
-> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md) — *sibling cluster of psychological nodes* 
+> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md) — *sibling cluster of psychological nodes* 
 > - [👹 Fork_Behaviour_Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment) — *related mapping of containment scripts*  
 
 _Last updated: 2025-10-01_
