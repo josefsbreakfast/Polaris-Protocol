@@ -28,7 +28,7 @@ This reliance is rarely spoken aloud, but it defines the sector.
 
 ---
 
-## 📉 Erosion  
+## 🌩️ Erosion  
 
 The collapse did not come all at once, but in waves:  
 
@@ -40,7 +40,7 @@ The cumulative effect: a country increasingly perceived as hostile and unstable.
 
 ---
 
-## 🔑 Consequence  
+## 🪼 Consequence  
 
 The soft power dividend that once came bundled with a British degree is corroding.  
 Students resent paying more for less — higher fees, fewer opportunities, diminished reputational value.  
@@ -51,11 +51,38 @@ Recruitment falters, finances wobble, and the “export industry” that Britain
 
 ---
 
-## ✨ Constellations:  
+## ☔️ Recommendations  
+
+- **Universities**  
+  - Reduce over-dependence on single markets by diversifying recruitment.  
+  - Reinvest international fees into visible improvements: housing, pastoral care, research access.  
+  - Advocate publicly for welcoming migration policies, rather than hiding behind neutrality.  
+
+- **Government**  
+  - Stabilise visa frameworks: end the cycle of hostile crackdowns followed by partial reversals.  
+  - Re-enter or replicate Horizon-style international research collaborations.  
+  - Recognise higher education as both an export industry and a diplomatic tool — and treat it as strategic infrastructure.  
+
+- **Students & Alumni**  
+  - Mobilise alumni networks to press for reputational repair.  
+  - Share experiences of hostility or bureaucratic harm as evidence for sector reform.  
+
+Without such shifts, the UK risks hollowing out its universities and burning the soft power dividend that once came bundled with every British degree.
+
+---
+
+## ✨ Constellations  
+
 - British Council, *The Value of International Students to the UK* (2023)
 - UUKi, *Horizon Europe and Global Collaboration* (policy brief, 2022)  
 - Nye, *Soft Power: The Means to Success in World Politics* (2004)  
-- Guardian (July 2024), “UK Student Visa Crackdown Sparks Backlash”  
+- Guardian (July 2024), “UK Student Visa Crackdown Sparks Backlash”
+
+---
+
+## 🌌 Stardust  
+
+international student fees, UK higher education exports, Brexit and universities, Horizon Europe exclusion, student visa policy, global soft power, hostile environment UK
 
 ---
 
