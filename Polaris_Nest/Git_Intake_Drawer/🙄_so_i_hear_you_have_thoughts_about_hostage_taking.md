@@ -28,4 +28,6 @@ i hope i cost more than my lpgs' bonds holding.
 
 assholes.
 
-2025-10-01
+2025-10-01  
+
+and stop talking shit to my governmemt; this is not safeguarding anything other than whoever's arse is on the line.  
