@@ -46,7 +46,7 @@ The Holocaust did not come from nowhere. It built on a century of pogrom logic, 
 
 - **Clandestine observance**  
   Despite prohibitions, Jews whispered prayers in barracks, smuggled siddurim, and fasted in starvation. In Parschnitz camp (1944), Livia Koralek preached a Yom Kippur sermon to fellow prisoners. In Lodz, a clandestine YK service was photographed in 1941.
-  These were and are part of the conitnued, embodied Jewish resistence against attempted annihilation by European powers.  
+  These were and are part of the continued, embodied Jewish resistence against attempted annihilation by European powers.  
 
 ---
 
