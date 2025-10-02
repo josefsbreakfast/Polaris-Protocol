@@ -32,3 +32,5 @@ because i didnt want to fuck anyone you approved of on our side of the apartheid
 *did you tell them how my price changed?*
 
 weren't you going to tell me?
+
+do you hear isiah today?, or did we make the walls too thick for the echo to carry.  
