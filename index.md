@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 14:19:35 UTC_
+_Generated on 2025-10-02 15:17:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -950,6 +950,7 @@ _Generated on 2025-10-02 14:19:35 UTC_
     - [`big_tech_intra_industry_stakeholder_relations.png`](Polaris_Nest/Git_Intake_Drawer/big_tech_intra_industry_stakeholder_relations.png)
     - [`black_mould_audit_checklist.csv`](Polaris_Nest/Git_Intake_Drawer/black_mould_audit_checklist.csv)
     - [`black_mould_audit_checklist.md`](Polaris_Nest/Git_Intake_Drawer/black_mould_audit_checklist.md)
+    - [`bottleneck_mapping_log_template.csv`](Polaris_Nest/Git_Intake_Drawer/bottleneck_mapping_log_template.csv)
     - [`ceefax_watchlist_fixed.png`](Polaris_Nest/Git_Intake_Drawer/ceefax_watchlist_fixed.png)
     - [`constitutional_fault_lines.png`](Polaris_Nest/Git_Intake_Drawer/constitutional_fault_lines.png)
     - [`containment_severity_time.png`](Polaris_Nest/Git_Intake_Drawer/containment_severity_time.png)
@@ -1053,6 +1054,7 @@ _Generated on 2025-10-02 14:19:35 UTC_
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`📈_Sales_Suppression_vs_Viral_Spike.png`](Polaris_Nest/Git_Intake_Drawer/📈_Sales_Suppression_vs_Viral_Spike.png)
     - [`🔥_10_years_of_denied_rage_hurts.md`](Polaris_Nest/Git_Intake_Drawer/🔥_10_years_of_denied_rage_hurts.md)
+    - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Polaris_Nest/Git_Intake_Drawer/🕌_ornamental_survival_and_misfiled_survivals.md)
     - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`😴_sleeps_and_occam.md`](Polaris_Nest/Git_Intake_Drawer/😴_sleeps_and_occam.md)
     - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Polaris_Nest/Git_Intake_Drawer/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
