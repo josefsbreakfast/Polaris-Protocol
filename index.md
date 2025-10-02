@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 15:25:17 UTC_
+_Generated on 2025-10-02 15:32:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -129,6 +129,8 @@ _Generated on 2025-10-02 15:25:17 UTC_
       - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
       - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🪞_on_human_impulse.md)
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
+      - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/README.md)
       - [`BUCS_league_table_dataentry_template.csv`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/BUCS_league_table_dataentry_template.csv)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/README.md)
       - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
