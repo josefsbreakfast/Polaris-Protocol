@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 16:33:00 UTC_
+_Generated on 2025-10-02 16:33:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -192,6 +192,7 @@ _Generated on 2025-10-02 16:33:00 UTC_
         - [`🐦‍🔥_methodology_scoring_league_tables.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🐦‍🔥_methodology_scoring_league_tables.md)
         - [`📊_compliance_league_table_London_cluster_scored.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_London_cluster_scored.md)
         - [`📊_compliance_league_table_London_cluster_scored_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_London_cluster_scored_v2.md)
+        - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_scored.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/README.md)
       - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
       - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
@@ -200,7 +201,6 @@ _Generated on 2025-10-02 16:33:00 UTC_
       - [`⛩️_very_secret_peer_review.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)
       - [`🌍_soft_power_and_international_resentment.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md)
       - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
-      - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📊_compliance_league_table_scored.md)
       - [`📜_funding_and_charitable_status_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📜_funding_and_charitable_status_timeline.md)
       - [`🧠_erosion_of_extracurricular_and_anatomy.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🧠_erosion_of_extracurricular_and_anatomy.md)
     - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/)
