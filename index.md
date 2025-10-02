@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 16:14:16 UTC_
+_Generated on 2025-10-02 16:15:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -170,6 +170,7 @@ _Generated on 2025-10-02 16:14:16 UTC_
         - [`🎓_university_of_cambridge_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_cambridge_compliance_profile.md)
         - [`🎓_university_of_durham_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_durham_compliance_profile.md)
         - [`🎓_university_of_east_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_east_london_compliance_profile.md)
+        - [`🎓_university_of_edinburgh_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_edinburgh_compliance_profile.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/README.md)
       - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
       - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
@@ -177,7 +178,6 @@ _Generated on 2025-10-02 16:14:16 UTC_
       - [`⚠️_authoritarian_incentives_in_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚠️_authoritarian_incentives_in_universities.md)
       - [`⛩️_very_secret_peer_review.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)
       - [`🌍_soft_power_and_international_resentment.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md)
-      - [`🎓_university_of_edinburgh_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_edinburgh_compliance_profile.md)
       - [`🎓_university_of_exeter_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_exeter_compliance_profile.md)
       - [`🎓_university_of_glasgow_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_glasgow_compliance_profile.md)
       - [`🎓_university_of_greenwich_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_of_greenwich_compliance_profile.md)
