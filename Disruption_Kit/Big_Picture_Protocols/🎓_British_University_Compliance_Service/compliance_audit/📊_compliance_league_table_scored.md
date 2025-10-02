@@ -1,5 +1,5 @@
 # 📊 Compliance & Containment League Table — **Scored**
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-02  
 
 > **Legend**
 > - Scores: 0–5 (0 = no public evidence → 5 = systemic/leadership-level entanglement)
@@ -40,4 +40,4 @@ This table is a living node of the Polaris Protocol. Scores (0–5) are placehol
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_
+_Last updated: 2025-10-02_
