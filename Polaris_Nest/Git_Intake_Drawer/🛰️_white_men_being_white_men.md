@@ -101,3 +101,33 @@ i hope we can see the difference, and appreciate why i know the shrek/adolf stuf
 - idk man. wtf do you think they are anything but a white dude?
 
 in precisely which world does this entire drama not scream "white guy with racialised insecurities" to you 🤨
+
+---
+
+so you know.  
+
+if this is who got ripa/ipa on me?   
+
+you see why that might be ever so slightly concerning, if for no other reason than ive had months and months of personalised interference at this point, right?  
+
+like i cant wait to see the aml invesitigation outputs, because yall had ultrasonics attached through my flooring.  
+
+like that is a whole budget line all to itself bruv.  
+
+so again.  
+
+i know its not all israeli; this guy?  
+
+not jewish. not israeli.  
+
+i cant wait to hear how he sold it to anyone who did help or approve, as i am aware of an uncomfortable overlap.  
+
+i can only help you if you are frank about his deception.  
+
+it doesnt have to be to me.  
+
+it could equally be to a regulator.  
+
+for instance.  
+
+dont think i dont know the way truth can be made to bend by...unfortunately the type pf people who know cursed shrek memes exist.  
