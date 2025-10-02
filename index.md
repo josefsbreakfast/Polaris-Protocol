@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 21:28:27 UTC_
+_Generated on 2025-10-02 21:31:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1051,6 +1051,7 @@ _Generated on 2025-10-02 21:28:27 UTC_
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`🐓_have_you_noticed.md`](Polaris_Nest/Git_Intake_Drawer/🐓_have_you_noticed.md)
     - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
+    - [`👁️‍🗨️_i_am_aware_stop_doing_it.md`](Polaris_Nest/Git_Intake_Drawer/👁️‍🗨️_i_am_aware_stop_doing_it.md)
     - [`👾_legal_notariety.md`](Polaris_Nest/Git_Intake_Drawer/👾_legal_notariety.md)
     - [`👾_pensions_and_perverts.md`](Polaris_Nest/Git_Intake_Drawer/👾_pensions_and_perverts.md)
     - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Polaris_Nest/Git_Intake_Drawer/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
