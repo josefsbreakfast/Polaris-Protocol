@@ -1,10 +1,10 @@
 # 🪬 Violence Against Jews and the Yom Kippur Fixation  
 **First created:** 2025-10-02 | **Last updated:** 2025-10-02  
-*The long and unglamorous history of extremist violence on Jewish communities, and why Yom Kippur is chosen as a stage for desecration.*  
+*The long and unglamorous history of extremist violence on Jewish communities, and why Yom Kippur is chosen as a stage for desecration*  
 
 ---
 
-## ⚠️ Recognition  
+## 🏮 Recognition  
 
 On Yom Kippur 2025, two worshippers were murdered outside a synagogue in Manchester. A third person died when police opened fire.  
 
@@ -43,7 +43,7 @@ The Holocaust did not come from nowhere. It built on a century of pogrom logic, 
 
 ---
 
-## 🧩 Survivor Testimonies  
+## 🪔 Survivor Testimonies  
 
 - **Miriam Shevet (Northern Greece, 1941)** described Bulgarian reprisals that coincided with Yom Kippur as *“our black Yom Kippur.”* Though most victims were Greeks, she named the day as the only language vast enough to contain the massacre.  
 
@@ -68,7 +68,7 @@ The pattern is constant: extremists strike when communities are most visible in 
 
 ---
 
-## 📣 Language and Suppression  
+## 🕸️ Language and Suppression  
 
 - Media framing rarely calls white supremacist attacks “terrorism” immediately, even when they are ideologically motivated and designed to terrorise.  
 - Selective quoting of manifestos hides the tactical logic — the choice of sacred days is erased.  
@@ -76,7 +76,7 @@ The pattern is constant: extremists strike when communities are most visible in 
 
 ---
 
-## 🕸️ Continuity of Perpetrator Behaviour  
+## ⚱ Continuity of Perpetrator Behaviour  
 
 From pogromists in Bavaria to Nazis in Lodz, from Halle to Manchester, the logic is the same:  
 - Strike on sacred days.  
@@ -97,11 +97,51 @@ To name the pattern is to resist it. To say Kaddish is to remember not only the 
 
 ## 🌌 Constellations  
 
-🪬 Radicalisation and extremism  
-🕯️ Holocaust testimony  
-📖 Pogrom history  
-⚔️ Sacred time desecration  
-🌍 Cross-faith targeting (Charleston, Christchurch)  
+These works form a constellation of texts orbiting Jewish survival, resistance, and meaning. None are neutral. Each offers tools or tensions that shape how we remember, resist, and repair.  
+
+- **Mike Rothschild — *Jewish Space Lasers: The Rothschilds and 200 Years of Conspiracy Theories***  
+  *Anchor:* Carefully documents the centuries of antisemitic conspiracy myths that culminate in modern far-right paranoia.  
+  *Critical read:* Strong on history but tends to flatten lived Jewish experience into victimhood narratives rather than Jewish creativity and resistance.  
+  *Connects:* Frames the conspiratorial backdrop that fuels pogroms, Holocaust denial, and neo-Nazi Yom Kippur attacks.  
+
+- **Cindy Milstein (ed.) — *There Is Nothing So Whole as a Broken Heart: Mending the World as Jewish Anarchists***  
+  *Anchor:* Collects anarchist Jewish voices who turn grief into radical solidarity.  
+  *Critical read:* Risks romanticising fragmentation and pain; sometimes gestures more than it maps strategy.  
+  *Connects:* Names mourning as political praxis — directly resonant with Kaddish in the face of desecrated Yom Kippur.  
+
+- **Ariana Katz & Jessica Rosenberg — *For Times Such as These: A Radical’s Guide to the Jewish Year***  
+  *Anchor:* Reimagines the Jewish calendar as a resource for radical, resilient practice.  
+  *Critical read:* Its radicalism is uneven; sometimes more pastoral than political.  
+  *Connects:* Places Yom Kippur and other festivals in living, resisting cycles, countering their erasure in state-driven memorialisation.  
+
+- **Wendy Elisheva Somerson — *An Anti-Zionist Path to Embodied Jewish Healing***  
+  *Anchor:* Grounds healing work explicitly outside Zionist frameworks.  
+  *Critical read:* A manifesto more than a handbook; hard to access if you’re outside activist circles.  
+  *Connects:* Insists Jewish survival and healing must be lived in the body, not outsourced to nationalist myth.  
+
+- **Eliana Rubin — *Taking the State out of the Body: A Guide to Embodied Resistance to Zionism***  
+  *Anchor:* Explores somatic practice as anti-state, anti-Zionist resistance.  
+  *Critical read:* Highly personal voice, not always systematic in its guidance.  
+  *Connects:* Offers embodied strategies to counter the exact logics of desecration and suppression documented in Yom Kippur testimonies.  
+
+- **Alissa Wise & Rebecca Vilkomerson — *Solidarity Is the Political Version of Love: Lessons from Jewish Anti-Zionist Organizing***  
+  *Anchor:* Draws on decades of Jewish Voice for Peace organising experience.  
+  *Critical read:* Deeply tied to US activist context; risks being read as narrowly American.  
+  *Connects:* Shows how solidarity redefines Jewish survival not as militarised sovereignty, but as mutual care with Palestinians and other oppressed communities.  
+
+### ✦ Counterpoint Star  
+
+- **Dara Horn — *People Love Dead Jews: Reports from a Haunted Present***  
+  *Anchor:* Pierces the hypocrisy of cultures that venerate Jewish death while ignoring Jewish life.  
+  *Critical read:* Written from within a liberal Zionist frame; avoids antiracist critique and fears diaspora survival.  
+  *Connects:* Useful not as a guide but as a foil — it makes visible the gap between memorialising Jews as dead and living with Jews as neighbours.  
+
+### ⭐ Resistance Star (The Chaser; "One For The Road"; The Unspoken Token That Any Ashke Jewish Voice Is *Forever* Expected To Include)  
+
+- **Judy Batalion — *The Light of Days: The Untold Story of Women Resistance Fighters in Hitler’s Ghettos***  
+  *Anchor:* Documents the overlooked stories of Jewish women who smuggled weapons, led uprisings, and fought back inside ghettos.  
+  *Critical read:* Marketed as “untold” when many survivors told these stories for decades; risks framing women’s resistance as novelty.  
+  *Connects:* Closes the constellation by insisting that Holocaust history must be remembered not only through mourning, but through resistance — armed, spiritual, and embodied.  
 
 ---
 
