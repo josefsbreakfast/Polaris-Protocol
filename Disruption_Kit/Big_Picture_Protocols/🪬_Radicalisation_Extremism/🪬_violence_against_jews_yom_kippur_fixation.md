@@ -52,11 +52,11 @@ The Holocaust did not come from nowhere. It built on a century of pogrom logic, 
 
 ## 🪔 Survivor Testimonies  
 
-- **Miriam Shevet (Northern Greece, 1941)** described Bulgarian reprisals that coincided with Yom Kippur as *“our black Yom Kippur.”* Though most victims were Greeks, she named the day as the only language vast enough to contain the massacre.  
+- **Miriam Shevet (Northern Greece, 1941)** described Bulgarian reprisals that coincided with Yom Kippur as *“our black Yom Kippur.”* Though most victims were Greeks, and she deliniates clearly to show this was a violence motivated chiefly by ethno-nationalism, she named the day as the only language vast enough to contain the massacre.  
 
-- Survivors across ghettos and camps recalled **Nazi mockery**: offering extra rations on the fast day, intensifying labour, or timing raids to Yom Kippur — deliberate humiliation through desecration.  
+- Survivors across ghettos and camps recalled **Nazi mockery**: offering extra rations on *the Day of Lament* (and therefore, of fasting), intensifying labour, or timing raids to Yom Kippur — deliberate humiliation through desecration.  
 
-- For many, Yom Kippur became a site of theological fracture: *why seek God’s forgiveness when annihilation was upon us?* Some lost faith, others held more tightly. Observance itself became an act of defiance.  
+- For many, Yom Kippur became a site of theological fracture: *why seek God’s forgiveness when annihilation was upon us?* Some lost faith, others held more tightly. Observance itself became an act of defiance. Proof of existence, and therefore, an act of resistance.  
 
 ---
 
@@ -72,6 +72,12 @@ The Holocaust did not come from nowhere. It built on a century of pogrom logic, 
   A white supremacist massacred 51 Muslims during Friday Jumʿah prayers.  
 
 The pattern is constant: extremists strike when communities are most visible in sacred time and space.  
+
+When motivated by ethnonationalism, white supremacy, and adjacent ideologies? They do not maintain hatred for one group exclusively, although they may have specific fixations. Their violence is often broad, aimed at what they see as "cleansing" or "purity" of an imagined exclusivity they hold over the entire place that they call home.  
+
+We all have claim to the lands in which we are home; this violence and this extremism is an error of the perpetrator and the people who allow and encourage their violence.  
+
+None of this violence is on any of the groups targeted to fix.  
 
 ---
 
