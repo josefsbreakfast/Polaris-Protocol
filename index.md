@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 20:15:48 UTC_
+_Generated on 2025-10-02 20:36:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1072,6 +1072,7 @@ _Generated on 2025-10-02 20:15:48 UTC_
     - [`🛰_instructions_what_instuctions.md`](Polaris_Nest/Git_Intake_Drawer/🛰_instructions_what_instuctions.md)
     - [`🛰️_the_busyness_of_the_bee.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_the_busyness_of_the_bee.md)
     - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
+    - [`🛰️_white_men_being_white_men.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_men_being_white_men.md)
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🙄_stop_changing_gits_field_note.md)
     - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [`🥸_how_dare_ahe_have_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥸_how_dare_ahe_have_feelings.md)
