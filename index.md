@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 19:26:33 UTC_
+_Generated on 2025-10-02 19:26:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1280,3 +1280,4 @@ _Generated on 2025-10-02 19:26:33 UTC_
   - [`README.md`](🩻_Weirdness_Screening/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
+- [`🪬_violence_against_jews_yom_kippur_fixation.md`](🪬_violence_against_jews_yom_kippur_fixation.md)
