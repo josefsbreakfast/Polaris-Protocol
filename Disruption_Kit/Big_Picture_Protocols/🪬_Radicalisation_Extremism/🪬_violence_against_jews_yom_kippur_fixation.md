@@ -4,6 +4,12 @@
 
 ---
 
+_**זִכְרוֹ לִבְרָכָה**_
+
+_**מיר וועלן זיי איבערלעבן**_
+
+---
+
 ## 🏮 Recognition  
 
 On Yom Kippur 2025, two worshippers were murdered outside a synagogue in Manchester. A third person died when police opened fire.  
