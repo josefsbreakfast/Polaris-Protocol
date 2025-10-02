@@ -34,3 +34,9 @@ because i didnt want to fuck anyone you approved of on our side of the apartheid
 weren't you going to tell me?
 
 do you hear isiah today?, or did we make the walls too thick for the echo to carry.  
+
+i always told you of a specific tishuva.
+
+i know you didmt like it.
+
+but their land? we are not even there legally. why are our sons and our daughters arresting children? why are babies dying of preventable disease? none of this is gettimg anyone back. none of this is right. we must stop it.  
