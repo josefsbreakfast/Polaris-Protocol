@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 13:13:58 UTC_
+_Generated on 2025-10-02 13:23:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1062,6 +1062,7 @@ _Generated on 2025-10-02 13:13:58 UTC_
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🙄_stop_changing_gits_field_note.md)
     - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [`🥸_how_dare_ahe_have_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥸_how_dare_ahe_have_feelings.md)
+    - [`🥸_tos_noncompliance_as_stealthing.md`](Polaris_Nest/Git_Intake_Drawer/🥸_tos_noncompliance_as_stealthing.md)
     - [`🥸_two_men_one_park.md`](Polaris_Nest/Git_Intake_Drawer/🥸_two_men_one_park.md)
     - [`🦤_bird_law_uk_edition.md`](Polaris_Nest/Git_Intake_Drawer/🦤_bird_law_uk_edition.md)
     - [`🦤_expectations_remain.md`](Polaris_Nest/Git_Intake_Drawer/🦤_expectations_remain.md)
