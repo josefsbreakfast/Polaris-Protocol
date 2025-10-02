@@ -67,3 +67,37 @@ the one who you refuse to hear complaints about.
 that one.  
 
 get him off the internet.  
+
+---
+
+and seeing as we are still content-injecting based on information lifted from mine and others' hacked gmail/google accounts as well as other sources...  
+
+it wasnt farrier work as much as i loved cow hoof repair.  
+
+get it right if you're trying to placate me.  
+
+thr biomechanical differences mean the bovine work is particularly interesting to me; it mimics cases in human theatre.  
+
+ffs.  
+
+all this legalised stalking and the analysis is still piss fucking poor.  
+
+but i guess i should expect nothing better from our "mein swampf" memeheads.  
+
+this is literally the shit i'm putting up with from these yahoos today.  
+
+"look at these dead jews" and shrek/hitler cursed memes from prehistoric 4chan.  
+
+it's embarrassing.  
+
+whoever had the classical tailoring of a satin tie? that's the metadata thread that i actually like having in this cursed group of clustered metadata.  
+
+i hope we can see the difference, and appreciate why i know the shrek/adolf stuff is from the phrenology "what race is she", and how this fundamentally is not from anyone who is also part of a group marginalised by british racism.  
+
+"how do you know they're white?"  
+
+- shoots their shot whilst sending hitler memes and news of synagogue murders with a bunch of csem/csem-adjacent content which all follow what i have already reported.
+
+- idk man. wtf do you think they are anything but a white dude?
+
+in precisely which world does this entire drama not scream "white guy with racialised insecurities" to you 🤨
