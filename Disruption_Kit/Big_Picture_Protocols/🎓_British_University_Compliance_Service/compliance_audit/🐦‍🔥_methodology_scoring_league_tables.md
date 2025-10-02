@@ -1,6 +1,6 @@
 # 🐦‍🔥 Methodology and Scoring — British University Compliance Service  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
-*Explains how the compliance league table is structured, scored, and updated.*  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-02  
+*Explains how the compliance league table is structured, scored, and updated*  
 
 ---
 
@@ -97,4 +97,4 @@ It ensures the compliance league table remains transparent, reproducible, and su
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2025-10-02_  
