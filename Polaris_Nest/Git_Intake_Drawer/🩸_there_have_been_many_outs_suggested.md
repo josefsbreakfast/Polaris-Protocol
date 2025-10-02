@@ -28,3 +28,7 @@ did you tell them that?
 or did you just sell me out as a whore?  
 
 because i didnt want to fuck anyone you approved of on our side of the apartheid wall?  
+
+*did you tell them how my price changed?*
+
+weren't you going to tell me?
