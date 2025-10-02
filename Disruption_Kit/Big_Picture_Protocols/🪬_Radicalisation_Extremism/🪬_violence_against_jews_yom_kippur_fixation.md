@@ -162,11 +162,6 @@ yom kippur, antisemitism, pogroms, holocaust, lodz ghetto, babi yar, treblinka, 
 *Violence Against Jews and the Yom Kippur Fixation* is a living node of the Polaris Protocol.  
 It traces how extremists have desecrated sacred Jewish time across centuries, and how survivors bore witness even when the internet suppresses their words.  
 
-> 📡 Cross-references:  
-> - [🪬 Radicalisation_Extremism](./)  
-> - [📜 Pogrom Continuities](../📜_Pogroms)  
-> - [🕯️ Survivor Testimony](../🕯️_Testimony)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-02_  
