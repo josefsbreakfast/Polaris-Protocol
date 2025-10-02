@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 16:02:57 UTC_
+_Generated on 2025-10-02 16:03:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -160,6 +160,7 @@ _Generated on 2025-10-02 16:02:57 UTC_
         - [`🎓_nottingham_trent_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_nottingham_trent_university_compliance_profile.md)
         - [`🎓_oxford_brookes_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_oxford_brookes_university_compliance_profile.md)
         - [`🎓_queen_mary_university_of_london_qmul_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_queen_mary_university_of_london_qmul_compliance_profile.md)
+        - [`🎓_queens_university_belfast_qub_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_queens_university_belfast_qub_compliance_profile.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/README.md)
       - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
       - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
@@ -167,7 +168,6 @@ _Generated on 2025-10-02 16:02:57 UTC_
       - [`⚠️_authoritarian_incentives_in_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚠️_authoritarian_incentives_in_universities.md)
       - [`⛩️_very_secret_peer_review.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)
       - [`🌍_soft_power_and_international_resentment.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md)
-      - [`🎓_queens_university_belfast_qub_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_queens_university_belfast_qub_compliance_profile.md)
       - [`🎓_sheffield_hallam_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_sheffield_hallam_university_compliance_profile.md)
       - [`🎓_solent_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_solent_university_compliance_profile.md)
       - [`🎓_ulster_university_belfast_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_ulster_university_belfast_compliance_profile.md)
