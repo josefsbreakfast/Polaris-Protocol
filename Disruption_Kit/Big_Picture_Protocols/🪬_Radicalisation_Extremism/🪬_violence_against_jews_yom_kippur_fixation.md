@@ -45,7 +45,8 @@ The Holocaust did not come from nowhere. It built on a century of pogrom logic, 
   Yom Kippur marked the **final day** of the Great Deportation to Treblinka. Tens of thousands were denied the chance to fast, pray, or be inscribed in the Book of Life (*in the conventional sense of religious tradition*).  
 
 - **Clandestine observance**  
-  Despite prohibitions, Jews whispered prayers in barracks, smuggled siddurim, and fasted in starvation. In Parschnitz camp (1944), Livia Koralek preached a Yom Kippur sermon to fellow prisoners. In Lodz, a clandestine YK service was photographed in 1941.  
+  Despite prohibitions, Jews whispered prayers in barracks, smuggled siddurim, and fasted in starvation. In Parschnitz camp (1944), Livia Koralek preached a Yom Kippur sermon to fellow prisoners. In Lodz, a clandestine YK service was photographed in 1941.
+  These were and are part of the conitnued, embodied Jewish resistence against attempted annihilation by European powers.  
 
 ---
 
