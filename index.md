@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 16:06:08 UTC_
+_Generated on 2025-10-02 16:09:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1090,6 +1090,7 @@ _Generated on 2025-10-02 16:06:08 UTC_
     - [`🪐_where_the_fuck_am i.md`](Polaris_Nest/Git_Intake_Drawer/🪐_where_the_fuck_am i.md)
     - [`🪬_all_that_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🪬_all_that_surveillance.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Polaris_Nest/Git_Intake_Drawer/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
+    - [`🫀_the_stress_of_the_dogwhistles.md`](Polaris_Nest/Git_Intake_Drawer/🫀_the_stress_of_the_dogwhistles.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
