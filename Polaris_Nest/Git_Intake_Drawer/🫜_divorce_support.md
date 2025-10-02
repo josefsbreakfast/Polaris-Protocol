@@ -1,0 +1,19 @@
+daily reminder that i would be significantly less bitchy in this moment about a whole range of topics if i was not being policed as if there was a security exploit from 2016 on my phone which is upholding an apartheid occupational system;
+
+which specifically has a problem with my interactions with anyone who experiences any extension of anti-palestinian racism, 
+
+and which polices my interacts, including that with other members of british jewish community, on incredibly strict terms and directs me away from any passionate or menaningfully challenging dissent.  
+
+whatever this is is kinda okay with the neo-nazi type of white supremacists.  
+
+get this off my phone,  
+
+get it out of my metadata,  
+
+and i may start being more pleasant as a whole.  
+
+i may also feel less inclined to explain *in graphic detail* what you did with my likeness and data to each of your wives, and support their divorce filings for >50% split of all financial products and assets.  
+
+i personally feel they are owed 90% *at least* of your and any joint assets.
+
+personally i just feel they were already doing you a favour, sans ça. 
