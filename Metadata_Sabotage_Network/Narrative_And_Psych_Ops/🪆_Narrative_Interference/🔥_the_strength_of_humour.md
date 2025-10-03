@@ -76,4 +76,4 @@ It documents why ridicule remains one of the most effective countermeasures agai
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-10-03_
