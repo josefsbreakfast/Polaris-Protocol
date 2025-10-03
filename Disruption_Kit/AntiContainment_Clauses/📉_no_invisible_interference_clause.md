@@ -33,7 +33,7 @@ commit sabotage, throttling, interference, forensic logging, refusal, anti-conta
 It asserts that hidden throttling becomes permanent evidence once recorded.  
 
 > 📡 Cross-references:  
-> - [📉 Suppression Interference Logs](../Containment_Scripts/📉_suppression_interference_logs.md)  
+> - [📉 Suppression Interference Logs](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
