@@ -18,9 +18,20 @@ I'm going to need some of those beers I mentioned, skip.
 
 (I would point out how much they've tried to impersonate and degrade your character, but whilst I think it might go to your head, they also appeared to be almost as scared of you as they are of me. 
 
-And I can't be losing to a man on the front, you understand?
+And I can't be losing to a man on that front, you understand?
 
 Not even one who is "too clever" for a PhD.)
+
+Hey.  
+
+whatever they toed your hands with?  
+
+they didnt have the sense to tie mine.  
+
+they just kept pretending it was potentially one of you in that crawlspave until i went up and huffed all the fibreglass.
+
+youre welcome. both of you. 🙄  
+
 
 # 🛰️ Algorithmic Foil Recycling  
 **First created:** 2025-10-03 | **Last updated:** 2025-10-03  
