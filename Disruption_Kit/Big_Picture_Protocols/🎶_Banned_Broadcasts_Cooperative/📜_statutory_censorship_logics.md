@@ -69,7 +69,7 @@ and how “freedom” is filtered at the level of compliance.
 
 > 📡 Cross-references:  
 > - [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) - *Prevent logic and governance suppression frameworks*  
-> - [🔥 Suppression as Signal](../../🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *How the act of burying a book becomes its own marketing engine*  
+> - [🔥 Suppression as Signal](../../Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *How the act of burying a book becomes its own marketing engine*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
