@@ -1,10 +1,10 @@
 # 📸 History of Street Photography as Counter-Surveillance  
 **First created:** 2025-09-27 | **Last updated:** 2025-10-03  
-*Moments where the camera was turned back on the secret policeman, shifting street photography into survival and resistance.*  
+*Moments where the camera was turned back on the secret policeman, shifting street photography into survival and resistance*  
 
 ---
 
-## 🧭 Orientation  
+## 🧿 Orientation  
 
 Street photography has not always been about art or “the decisive moment.”  
 Sometimes it became a weapon — a way of watching the watchers.  
@@ -17,7 +17,7 @@ Across different contexts, photographing secret police or covert agents carried 
 
 ---
 
-## 🧩 Case Trajectories  
+## ✨ Case Trajectories  
 
 ### **Eastern Bloc (1940s–80s)**  
 - **Goal:** Preserve evidence for the future.  
@@ -117,8 +117,6 @@ Across different contexts, photographing secret police or covert agents carried 
 Street photography, when turned against secret police, branched into strategic goals.  
 Each goal carried distinct logics and contexts:  
 
-![Street Photography as Counter-Surveillance](../Field_Logs/street_photography_counter_surveillance.png)  
-
 > - 📜 **Evidence** — Eastern Bloc (Stasi archives, memory for the future)  
 > - 🧭 **Survival** — Latin America (dictatorships, mapping perpetrators)  
 > - 🔍 **Exposure** — South Africa (apartheid policing, international witness)  
@@ -152,9 +150,9 @@ street photography, counter-surveillance, secret police, protest tactics, litera
 It traces how cameras have been used to turn surveillance inside-out, across geographies and decades, and across both literary and political imagination.  
 
 > 📡 Cross-references:  
-> - [👁️‍🗨️ Witness Histories](../../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles) — forensic accounts of watching and being watched  
-> - [🎶 Banned Broadcasts Cooperative](../../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative) — cultural removals and state secrecy  
-> - [🗝️ Politics & Memory Work](../../🗝️_Politics_Memory_Work) — contested histories and erasures  
+> - [👁️‍🗨️ Witness Histories](../../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles) — *forensic accounts of watching and being watched*  
+> - [🎶 Banned Broadcasts Cooperative](../../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative) — *cultural removals and state secrecy*  
+> - [🗝️ Politics & Memory Work](../../Big_Picture_Protocols/🗝️_Politics_Memory_Work) — *contested histories and erasures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
