@@ -215,7 +215,7 @@ It documents how survivor experience and anatomical messiness destabilise behavi
 > 📡 Cross-references:  
 > - [🧠 HM Dept of Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural simplification as control*
 > - [Big Picture Protocols](../README.md) — *systemic diagnostics*  
-> - [Survivor Tools](../Survivor_Tools/README.md) — *cross-disciplinary countermeasures*  
+> - [Survivor Tools](../../Survivor_Tools/README.md) — *cross-disciplinary countermeasures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
