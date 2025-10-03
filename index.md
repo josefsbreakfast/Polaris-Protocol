@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 19:39:32 UTC_
+_Generated on 2025-10-03 19:42:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1114,6 +1114,7 @@ _Generated on 2025-10-03 19:39:32 UTC_
     - [`🧬_digital_twins_as_cause_of_shattered_irl_persona.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_twins_as_cause_of_shattered_irl_persona.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
+    - [`🧾_New_Additions_Prepbook.md`](Polaris_Nest/Git_Intake_Drawer/🧾_New_Additions_Prepbook.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
     - [`🧿_diaspora_disclosure_tactics.md`](Polaris_Nest/Git_Intake_Drawer/🧿_diaspora_disclosure_tactics.md)
