@@ -1,15 +1,13 @@
-# 🧠 Good Doctors Are Not Nazis
-
-**First created:** 2025-08-26 | **Last updated:** 2025-08-30
-
-*Why medical ethics and state surveillance cannot coexist.*
+# 🧠 Good Doctors Are Not Nazis  
+**First created:** 2025-08-26 | **Last updated:** 2025-10-03  
+*Why medical ethics and state surveillance cannot coexist*  
 
 ---
 
 ## ✨ Foundational Principles  
 
-When medicine aligns with security services, it crosses a line from care to control.<br>
-The four pillars of medical ethics are non-negotiable:
+When medicine aligns with security services, it crosses a line from care to control.  
+The four pillars of medical ethics are non-negotiable:  
 
 - **Beneficence** → Treat to heal, not to serve a political program.  
 - **Non-maleficence** → Do not withhold care, delay treatment, or alter patient handling for ideological reasons.  
@@ -20,7 +18,7 @@ The four pillars of medical ethics are non-negotiable:
 
 ## 🧫 How Security Contaminates Care  
 
-When NGOs or “community safety” bodies blur into intelligence work, contamination seeps into medicine in two main ways:
+When NGOs or “community safety” bodies blur into intelligence work, contamination seeps into medicine in two main ways:  
 
 **1. Pre-clinical trust collapse**  
 - Patients avoid care, fearing their data will end up in security files.  
@@ -37,32 +35,45 @@ When NGOs or “community safety” bodies blur into intelligence work, contamin
 The Hippocratic oath does not survive Prevent/CVE culture.  
 Under surveillance logic, healing becomes conditional:  
 
-*“We’ll help you… but we might also pass your case notes to someone whose job is to stop you speaking.”* 
+*“We’ll help you… but we might also pass your case notes to someone whose job is to stop you speaking.”*  
 
 ---
 
-## 🔥 Ethics is the Firewall  
+## 🔥 Ethics Is the Firewall  
 
-Good doctors are not Nazis — not because of rhetoric, but because they refuse to cross the line where medicine serves ideology before humanity.<br>
-Once that firewall is breached, a clinic can become an arm of the state as easily as a police station or an interrogation room.
+Good doctors are not Nazis — not because of rhetoric, but because they refuse to cross the line where medicine serves ideology before humanity.  
+Once that firewall is breached, a clinic can become an arm of the state as easily as a police station or an interrogation room.  
 
 ---
 
 **Polaris Directive:**  
 
-Keep care sovereign.<br>
-Keep records safe.<br>
+Keep care sovereign.  
+Keep records safe.  
 Healing is not a state function.  
+
+---
+
+## 🌌 Constellations  
+
+🧠 🧫 🕳️ 🔥 — This node locates the boundary where medical ethics resists surveillance contamination.  
+
+---
+
+## ✨ Stardust  
+
+medical ethics, hippocratic oath, prevent duty, countering violent extremism, surveillance contamination, moral injury, patient trust, autonomy, beneficence, healthcare and security  
 
 ---
 
 ## 🏮 Footer  
 
-*Good Doctors Are Not Nazis* is a living node of the Polaris Protocol.<br>
+*Good Doctors Are Not Nazis* is a living node of the Polaris Protocol.  
 It documents the ethical line breached when medical practice is co-opted into security or intelligence frameworks, undermining the four principles of care.  
 
-*Survivors voices must always live on.*  
+> 📡 Cross-references:  
+> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](../🐦‍🔥_trauma_psychology_medical_misuse.md)  
 
-🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-30_
+_Last updated: 2025-10-03_  
