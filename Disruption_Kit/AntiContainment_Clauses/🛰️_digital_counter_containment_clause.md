@@ -34,7 +34,7 @@ It establishes that shadowbans are treated as evidence, never erasure.
 
 > 📡 Cross-references:  
 > - [📉 Suppression Interference Logs](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)  
-> - [🪅 Platform Sabotage](../Containment_Scripts/🪅_platform_sabotage.md)  
+> - [🪅 Platform Sabotage](../../Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
