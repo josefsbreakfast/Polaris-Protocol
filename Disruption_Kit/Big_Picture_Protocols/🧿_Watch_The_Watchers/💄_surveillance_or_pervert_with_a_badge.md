@@ -1,6 +1,6 @@
 # 💄 Let's Play!: Surveillance or Pervert-with-a-Badge?  
-**First created:** 2025-08-28 | **Last updated:** 2025-09-28  
-*A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is.*  
+**First created:** 2025-08-28 | **Last updated:** 2025-10-03  
+*A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is*  
 
 ---
 
@@ -154,6 +154,6 @@ It lets our humour ride us through to confidence in questioning whether we are h
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+🏮 [Return to 🧿 Watch The Watchers](./README.md)  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-03_
