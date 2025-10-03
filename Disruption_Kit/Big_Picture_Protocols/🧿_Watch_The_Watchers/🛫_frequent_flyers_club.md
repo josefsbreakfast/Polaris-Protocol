@@ -54,8 +54,8 @@ watchlists, selector-driven flagging, surveillance escalation, institutional bia
 It documents the structural reasons why some individuals are permanently recycled through surveillance systems, and the survivor-led tactics to make those loops visible.  
 
 > 📡 Cross-references:  
-> – [🛰️ Overlapping Surveillance Layers](./🛰️_overlapping_surveillance_layers.md)  
-> – [🌹 Demonstrating High Value](../../Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md)
+> – [🛰️ Overlapping Surveillance Layers](./🛰️_overlapping_surveillance_layers.md) - *How commercial and state surveillance can run in parallel and feel like one operation*  
+> – [🌹 Demonstrating High Value](../../Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md) - *From pick-up artist boast to political masculinity grievance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
