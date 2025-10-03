@@ -29,7 +29,7 @@ The precedent is clear: when a new medium arrives without checks or regulation, 
 
 ---
 
-## 👩‍🦰 Flattening Women’s Realities  
+## 🫀 Flattening Women’s Realities  
 
 Ancient texts often held nuanced accounts of women’s survival inside patriarchal structures:  
 
@@ -69,6 +69,29 @@ This loss of nuance mirrors modern binary discourse on survivors — framed as e
 - A few influencers, contractors, or operators seed interpretations that go viral.  
 - Survivors become “obsessed,” whistleblowers become “extremists,” governance failures become “security risks.”  
 - The mechanism is unchanged: **small voices + fast tech + weak regulation = catastrophic cultural harm.**  
+
+---
+
+## 🌌 Constellations  
+
+🖨️ 📜 🌸 💻 — This node belongs to the precedent constellation, tracing how new media collapse plural stories into rigid binaries.  
+
+**Extended constellation (cultural):**  
+- *Malleus Maleficarum* (1487) — demonology amplified through print.  
+- *Paradise Lost* (John Milton, 1667) — reshaping of Hell and Satan in cultural imagination.  
+- *The Yellow Wallpaper* (Charlotte Perkins Gilman, 1892) — women’s knowledge reframed as madness.  
+- *Wide Sargasso Sea* (Jean Rhys, 1966) — counter-text restoring erased female agency.  
+
+**Extended constellation (legal/technical):**  
+- Gutenberg Bible (1450s) — first viral print collapsing multiplicity of scriptural interpretation.  
+- Witch trial pamphlets — local suspicion globalised by print.  
+- Early printing monopolies — information gatekeeping as political containment.  
+
+---
+
+## ✨ Stardust  
+
+print culture, Project Esther, Persephone, Esther, witch trials, demonology, knowledge suppression, mythology flattening, media precedent, cultural distortion, survivor narratives  
 
 ---
 
