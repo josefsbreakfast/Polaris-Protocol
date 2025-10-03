@@ -1,6 +1,6 @@
 # 📜 Funding and Charitable Status Timeline — UK Universities  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
-*A history of how UK universities became “charitable” bodies that act like corporations, shaped by policy vibes, marketisation, and global soft power shifts.*  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-03  
+*A history of how UK universities became “charitable” bodies that act like corporations, shaped by policy vibes, marketisation, and global soft power shifts*  
 
 ---
 
@@ -85,6 +85,18 @@ The result: resentment at home, reputational damage abroad, and dependence on ex
 
 ---
 
+## 🌌 Constellations  
+
+🎓 📜 📊 🔮 — This node sits at the intersection of university compliance, statutory architectures, and funding logics.  
+
+---
+
+## ✨ Stardust  
+
+charitable status, uk universities, funding history, tuition fees, marketisation, higher education, soft power, donors, regulation, austerity  
+
+---
+
 ## 🏮 Footer  
 
 *Funding and Charitable Status Timeline* is a living node of the Polaris Protocol.  
@@ -98,4 +110,4 @@ and contradictions between charity law, market economics, and global soft power.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2025-10-03_  
