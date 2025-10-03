@@ -1,11 +1,15 @@
 # 🔥 Suppression and Quasi-Suppression  
-**First created:** 2025-09-18 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-18 | **Last updated:** 2025-10-03  
 *How both censorship and scarcity fuel the same rebound effect*  
 
 ---
 
-## 🌐 Overview  
-Suppression is not the only path to legend. In publishing, both **direct suppression** (state bans, erased metadata, scrubbed events) and **quasi-suppression** (stigma, scarcity, accident) generate the same paradox: the attempt to hide or dismiss a book becomes its best marketing.  
+## ✨ Introduction  
+Suppression is not the only path to legend.  
+Books vanish in two ways: through **direct suppression** — bans, erasures, event cancellations — and through **quasi-suppression** — stigma, scarcity, or accident.  
+
+Both paths converge on the same paradox: the attempt to hide, mock, or dismiss a book often becomes its best marketing.  
+What is silenced in the short term is amplified in the long term.  
 
 ---
 
@@ -19,7 +23,7 @@ Suppression is not the only path to legend. In publishing, both **direct suppres
 ---
 
 ## 📚 Quasi-Suppression → Curiosity Economy  
-Not every book is banned. Sometimes stigma, scarcity, or quality sneers function the same way.  
+Not every book is banned. Sometimes stigma, scarcity, or critical sneers function the same way.  
 
 - **E.L. James, *Fifty Shades of Grey***  
   - Dismissed as fanfiction; shunned by publishers and critics.  
@@ -46,13 +50,36 @@ Not every book is banned. Sometimes stigma, scarcity, or quality sneers function
   - Media legitimises it.  
   - Sales rebound far beyond what the text alone could achieve.  
 
-- In the long term, **the justification doesn’t matter.** Within 5–10 years, readers forget why the book was erased or mocked. They only recall: *“this was the book they tried to hide.”*  
+- In the long term, **the justification doesn’t matter.** Within 5–10 years, readers forget why the book was erased or mocked.  
+They only recall: *“this was the book they tried to hide.”*  
+
+---
+
+## 🌌 Constellations  
+
+🔥 📚 🚀 🕯️ — This node belongs to the suppression paradox constellation, mapping how bans and scarcity converge into amplification.  
+
+**Extended constellation (cultural):**  
+- *Lady Chatterley’s Lover* (D.H. Lawrence) — obscenity trial as marketing engine.  
+- *Persepolis* (Marjane Satrapi) — censored in Iran, canonised abroad.  
+- *Fifty Shades of Grey* (E.L. James) — stigma as rocket fuel.  
+- *Doctor Zhivago* (Boris Pasternak) — Cold War weaponised suppression.  
+
+**Extended constellation (historical/technical):**  
+- CIA’s “Zhivago Affair” (1950s) — strategic smuggling of suppressed literature.  
+- Kindle adoption (2010s) — digital discretion enabling suppressed/stigmatised reading.  
+- BookTok amplification (2020s) — gossip loops driving reprints of banned/stigmatised titles.  
+
+---
+
+## ✨ Stardust  
+
+suppression paradox, banned books, quasi-suppression, scarcity marketing, rebound effect, Doctor Zhivago, Satanic Verses, Gulag Archipelago, Fifty Shades, Kindle, BookTok, gossip economy  
 
 ---
 
 ## 🏮 Footer  
-
-*Suppression and Quasi-Suppression* is a companion node to *Suppression as Signal*.  
+*🔥 Suppression and Quasi-Suppression* is a companion node to *Suppression as Signal*.  
 It highlights how stigma and scarcity amplify books as powerfully as direct bans, especially in the algorithmic age.  
 
 > 📡 Backlinks:  
@@ -62,4 +89,4 @@ It highlights how stigma and scarcity amplify books as powerfully as direct bans
 
 *What power hides, readers hunt.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-10-03_  
