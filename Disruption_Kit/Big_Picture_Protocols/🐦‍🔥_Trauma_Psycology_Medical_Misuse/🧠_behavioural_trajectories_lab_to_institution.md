@@ -81,8 +81,8 @@ behavioural psychology, operant conditioning, institutional application, trauma 
 It records how operant paradigms migrated into applied institutional contexts, transforming empathy and trauma studies into governance vectors.  
 
 > 📡 Cross-references:  
-> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](../🐦‍🔥_trauma_psychology_medical_misuse.md) — systemic misuse of trauma & psychology  
-> - [🧠 HM Dept Coercive Nudges](../🧠_hm_dept_coercive_nudges.md) — behavioural governance and coercive application  
+> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](./🐦‍🔥_Trauma_Psycology_Medical_Misuse/README.md) — *systemic misuse of trauma & psychology*  
+> - [🧠 HM Dept Coercive Nudges](./🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance and coercive application*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
