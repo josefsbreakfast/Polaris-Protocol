@@ -25,7 +25,7 @@ It provides standardised methods, templates, and case-log structures so survivor
 
 ---
 
-📎 Quick return: [🎶 Banned_Broadcasts_Cooperative](../README.md)  
+📎 Quick return: [🎶 Banned Broadcasts Cooperative](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
