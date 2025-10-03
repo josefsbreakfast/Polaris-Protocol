@@ -85,7 +85,23 @@ But it becomes harder when I see the number of laws breached that were written a
 I need people to understand this.  
 And I say this as a Jewish woman: Jews were not the first people targeted.  
 There was another group targeted first.  
-Start researching who it was, and you will begin to see the order in which people are still targeted today.
+Start researching who it was, and you will begin to see the order in which people are still targeted today.  
+
+**I need able bodied people to get to grips with what Aktion T4 was, how outraged the German public initially was, and how the suppression of dissent led directly to the remainder of the Holocaust. I need you to start looking round and seeing the parallels today.  
+
+_**We were the first "useless eaters"; compare with the language of "scroungers" and "sponges" and "cheats".**_  
+
+*Society has not changed enough to forgo vigilance.*  
+
+How many more of us need to die in poverty, with HM Coroner openly pointing to the instruments used to contain us, before it stops?  
+
+You want a better NHS?  
+
+You want better services?  
+
+Protect disabled people.  
+
+We will fix what no-one else will.  
 
 ---
 
