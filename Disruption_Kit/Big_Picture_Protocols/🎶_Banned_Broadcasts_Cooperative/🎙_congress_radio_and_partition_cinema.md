@@ -1,5 +1,5 @@
 # 🎙 Congress Radio and Partition Cinema  
-**First created:** 2025-09-15 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-15 | **Last updated:** 2025-10-03  
 *Clandestine broadcasts of the Quit India movement and their cinematic afterlives, retold for the colonised British mind*  
 
 ---
@@ -27,7 +27,6 @@ The magic was not just the signal, but the sound: to tune in and hear *not a for
 
 That struggle over voice carries forward. In the UK today, debates around language and regional recognition are still live. In theory, languages like Welsh enjoy statutory protection, yet in practice this is unevenly honoured. Regional accents on national television are a very recent expansion, and characters from outside the South East are often typecast into caricatures of a “regional persona.” This narrowness flattens the diversity of the UK’s history and cultures — a reminder that who is heard, and how, remains political. The *staged commencements* Media Act 2024 show such questions are still actively legislated by Parliament.  
 
-
 ---
 
 ## ⛰️ 2. Coalitions and Conflicts  
@@ -53,6 +52,7 @@ Kashmir is not only a border zone but a region of immense cultural, spiritual, a
 This richness is exactly what makes the violence of scapegoating and partition lines all the more tragic.  
 
 ---
+
 ## 📽️ 3. Cinema as Counter-Memory  
 - *Ae Watan Mere Watan* (2024) retold Usha Mehta’s story for a diaspora audience.  
 - Serves as resistance to Modi-era nationalist rewriting of partition history.  
@@ -78,6 +78,29 @@ Partition was fought not only on land but in language and sound.
 Congress Radio made independence audible in the tones and cadences of everyday people, breaking through the clipped English of colonial governance.  
 Its legacy reminds us that liberation is not only a matter of borders, but of who is allowed to speak, and *whose voices history preserves*.  
 
+---
+
+## 🌌 Constellations  
+
+🎙 📻 📽️ 🦚 — This node sits at the intersection of clandestine sound, colonial memory, and cinematic afterlife.  
+
+**Extended constellation (cultural):**  
+- *Ae Watan Mere Watan* (2024) — cinematic retelling of Usha Mehta’s broadcasts.  
+- *Garam Hava* (1973) — partition cinema as counter-history.  
+- *Train to Pakistan* (Khushwant Singh, 1956) — literature of partition violence.  
+- Faiz Ahmed Faiz — poetry as signal of resistance carried across generations.  
+
+**Extended constellation (historical/legal):**  
+- Indian Telegraph Act 1885 — colonial control of communications.  
+- Quit India Resolution (1942) — context for Congress Radio’s emergence.  
+- Kashmir ongoing crisis — site of colonial partition legacies.  
+- Comparative: UK Pirate Radio raids (1960s–80s) — sound as legitimacy contest.  
+
+---
+
+## ✨ Stardust  
+
+congress radio, partition cinema, clandestine broadcasts, Usha Mehta, Quit India, colonial policing, outlaw sound, anticolonial struggle, cinematic memory, Kashmir  
 
 ---
 
@@ -92,4 +115,4 @@ It documents clandestine broadcasts of the Quit India movement and their cinemat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-03_  
