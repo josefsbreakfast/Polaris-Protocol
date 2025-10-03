@@ -31,6 +31,28 @@ That reclamation does not license outsiders to use the same terms. Context matte
 
 ---
 
+## 🐦‍🔥 On Humility and Shared Goals
+
+I will freely admit as an author and as a writer, even in this space in this repo, you can see that I often use Rory terms that could be used towards me because of my disability status, as insults. This is not an example of language reclamation. This is an example of how internalised ableism is, even amongst the people who benefit the least from propagating the idea that people with less injury or somehow more worthy of life.  
+
+I am not excused from being called out by people, any more than abled bodied people are.  
+
+The key difference, would be how disingenuous, or how much it would be collaborative and in the shared goals of solidarity and progress, for someone to do so.  
+
+This is to say that most of the time, it would be absolutely fair and correct to call me out.  
+
+Something there's a lot of other marginalised communities have dealt with however, is people outside the community using this disingenuously.  
+
+Including assuming tactics like *digital blackface*, in order to so discord, and in order to sow discord and create rhetorocal distraction from doing the work of progress, emancipation, and abolition.  
+
+The people that do this purposfully, are doing it on purpose.  
+
+They are absolutely terrified of equality.  
+
+And so may we outlive them.  
+
+---
+
 ## 🌌 Constellations  
 
 🍯 🗣️ 🦿 — Language as both containment and liberation.  
