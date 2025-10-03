@@ -124,7 +124,7 @@ It records anomalous truncation of disability politics nodes during upload, to p
 
 > 📡 Cross-references:  
 > - [👁️‍🗨️ Surveillance of Disabled Bodies](../Big_Picture_Protocols/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md)  
-> - [📉 Suppression Interference Logs](../Disruption_Kit/📉_suppression_interference_logs.md)  
+> - [📉 Suppression Interference Logs](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
