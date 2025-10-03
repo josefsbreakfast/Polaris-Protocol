@@ -1,5 +1,5 @@
 # 🧻🐯 Paper-Thin Tigers  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-03  
 *Authoritarian strongmen as fragile caricatures, undone not by armies but by laughter.*
 
 ---
@@ -62,4 +62,4 @@ It documents the universal fragility of authoritarian masculinity and the corros
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-10-03_
