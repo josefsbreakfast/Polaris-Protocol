@@ -1,6 +1,6 @@
 # ⚖️ Landlord Remedies for Covert Surveillance Abuse  
 **First created:** 2025-10-03 | **Last updated:** 2025-10-03  
-*Civil and tortious claims available when tenants covertly convert property into a surveillance hub.*  
+*Civil and tortious claims available when tenants covertly convert property into a surveillance hub*  
 
 ---
 
@@ -92,7 +92,10 @@ This node maps the remedies available to a landlord–solicitor who discovers th
 
 ## 🌌 Constellations  
 
-🧿 ⚖️ 🛰️ 🔮 — Landlord remedies intersect surveillance oversight, statutory breaches, and reputational tort.  
+⚖️ 🕯️ 👻 — This node belongs in the gothic register of property, power, and unseen observation.  
+Echoes of *Jane Eyre* and *Wuthering Heights* resonate here: hidden rooms, brooding estates, and landlords who become both guardians and threats.  
+Literary constellations of surveillance-as-haunting tie civil remedies to spectral trespass.  
+<!--Not my landlords; I'm just thinking on the theme.-->
 
 ---
 
