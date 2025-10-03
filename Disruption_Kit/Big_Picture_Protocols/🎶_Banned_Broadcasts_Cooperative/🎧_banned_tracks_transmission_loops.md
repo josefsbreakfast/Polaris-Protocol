@@ -1,5 +1,5 @@
 # 🎧 Banned Tracks Transmission Loops  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-29 | **Last updated:** 2025-10-03  
 *When the state bans a song, the speakers get louder*  
 
 ---
@@ -46,34 +46,42 @@ He had already denied the charges he was arrested for, which were accusations of
 
 Where U.S. rap albums naming police violence were censored or delayed, Kassovitz’s stark narrative was screened at Cannes and praised as social commentary.  
 Unlike U.S. rap, *La Haine* never directly allows us to imagine a violent inversion of power. The threat of state violence is constant and at times, made real, but the inversion is never fully enacted on screen.  
-That unresolved ambiguity, and the reletive restraint from fantasies of retribution, allowed the film to be received as “serious cinema” rather than dangerous incitement.  
+That unresolved ambiguity, and the relative restraint from fantasies of retribution, allowed the film to be received as “serious cinema” rather than dangerous incitement.  
 
 The contrast shows how reception is shaped not by the issue itself — *police violence and impunity* — but by who speaks, how politely the anger is framed, and which medium carries it.  
 
 In 2023, the shooting of **Nahel Merzouk**, a French teenager of Moroccan and Algerian descent, by police sparked nationwide riots.  
-He was the third person to be fatally shor after the practice of discharging a firearm was legalised for French police in 2017.
+He was the third person to be fatally shot after the practice of discharging a firearm was legalised for French police in 2017.  
 A police officer is set to stand trial in 2026 for voluntary homicide over that case.  
 
-*Commentary assigning the anger of community grief to anything other than the need to grieve, misses the human story.*
+*Commentary assigning the anger of community grief to anything other than the need to grieve, misses the human story.*  
 
 Whatever emotion we suppress, becomes louder until it is given air.  
 
 ---
 
 ## 🌌 Constellations  
-🎧 🔥 🧿 🕸️ 🛰️ — This node belongs to the peer-to-peer resistance layer of Polaris.  
-It maps **musical payloads as semantic smuggling**,  
-and the way sound leaks past containment walls.  
 
-From bootleg vinyl to viral snippets, music stitches constellations across generations of suppression.  
+🎧 🔥 🧿 🕸️ 🛰️ — This node belongs to the peer-to-peer resistance layer of Polaris.  
+It maps **musical payloads as semantic smuggling**, and the way sound leaks past containment walls.  
+
+**Extended constellation (cultural):**  
+- *Searching for Sugar Man* (2012) — memory of banned music in apartheid South Africa.  
+- *Music is the Weapon* (1982) — documentary on Fela Kuti and suppression.  
+- *The Revolution Will Not Be Televised* — Gil Scott-Heron’s spoken-word as broadcast code.  
+- *La Haine* (1995) — cinematic echo of the same wounds silenced in hip hop.  
+
+**Extended constellation (legal/historical):**  
+- U.S. “Parental Advisory” label campaigns (1985 onward) — moral panic as censorship.  
+- *PMRC hearings* before the U.S. Senate (1985) — Tipper Gore vs musicians.  
+- Ice-T’s “Cop Killer” controversy (1992) — suppressed testimony of rage.  
+- French police violence cases (Makomé M’Bowolé 1993, Nahel Merzouk 2023).  
 
 ---
 
 ## ✨ Stardust  
-banned music, bootlegs, peer-to-peer resistance, audio censorship,  
-Gil Scott-Heron, Fela Kuti, Rodríguez, TikTok bans, signal payloads,  
-sound as protest, musical metadata, transmission networks, mixtape cultures,  
-encrypted USBs, Palestinian resistance soundscapes, parental advisory labels, *La Haine*  
+
+banned music, bootlegs, peer-to-peer resistance, audio censorship, Gil Scott-Heron, Fela Kuti, Rodríguez, TikTok bans, signal payloads, sound as protest, musical metadata, transmission networks, mixtape cultures, encrypted USBs, Palestinian resistance soundscapes, parental advisory labels, La Haine  
 
 ---
 
@@ -82,9 +90,9 @@ encrypted USBs, Palestinian resistance soundscapes, parental advisory labels, *L
 It traces the architecture of sonic suppression and how music — more than text — resists metadata throttling.  
 
 > 📡 Cross-references:  
-> - [🔥 Suppression as Signal](../🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *How the act of burying a book becomes its own marketing engine*  
-> - [🎬 Suppression Legends Film Index](./🎬_suppression_legends_film_index.md) - *Films that became cultural detonators precisely because someone tried to mute them*  
+> - [🔥 Suppression as Signal](../🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *How the act of burying a book becomes its own marketing engine*  
+> - [🎬 Suppression Legends Film Index](./🎬_suppression_legends_film_index.md) — *Films that became cultural detonators precisely because someone tried to mute them*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-03_  
