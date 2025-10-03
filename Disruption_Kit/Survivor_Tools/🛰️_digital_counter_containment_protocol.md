@@ -70,7 +70,7 @@ It documents how to move beyond shadowban complaints by treating suppression as 
 > 📡 Cross-references:
 > 
 > - [Field Logs](../Field_Logs/) — dated evidence entries
-> - > - [Containment Scripts](../Containment_Scripts/) — suppression methods and counter-nudges 
+> - [Containment Scripts](../Containment_Scripts/) — suppression methods and counter-nudges 
 > - [Survivor Tools](../Survivor_Tools/) — practical refusal guides  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
