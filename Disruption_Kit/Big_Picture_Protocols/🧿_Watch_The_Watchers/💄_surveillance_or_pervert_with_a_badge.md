@@ -145,15 +145,30 @@ Every chalk mark, roll book, fingerprint, lipstick stub is a reminder:
 
 ---
 
-## 🏮 Footer  
+## 🌌 Constellations  
 
-*Let's Play!: Surveillance or Pervert-with-a-Badge?* is a living node of the Polaris Protocol.  
-It lets our humour ride us through to confidence in questioning whether we are happy to carry on "consenting" to subcontractors nosing around our digital knickerdrawers. 
+💄 🧿 🎭 🎥 — This node is satire, but its props are real: lipstick stubs, chalk marks, hotel bugs.  
+It belongs with le Carré’s weary tradecraft (*Tinker, Tailor, Soldier, Spy*), the gothic absurdities of *Bleak House*, the dark laughs of Kubrick’s *Dr. Strangelove*, and the uncanny tech parables of *Black Mirror*.  
+Satire here sharpens the edge — showing how “serious” intelligence often collapses into parody, voyeurism, or cult ritual.
 
 ---
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+## ✨ Stardust  
 
-🏮 [Return to 🧿 Watch The Watchers](./README.md)  
+spycraft, surveillance, satire, fetishisation, authoritarianism, cult behaviour, spycops, junk forensics, lipstick evidence, black mirror, le carré, stalking
+
+---
+## 🏮 Footer  
+
+*Let's Play!: Surveillance or Pervert-with-a-Badge?* is a living node of the Polaris Protocol.  
+It uses humour to strip the glamour from spycraft, showing how intelligence props often blur into voyeurism and abuse.  
+The badge is the only thing separating “national security” from stalking — and even that badge is paper-thin.  
+
+> 📡 Cross-references:  
+> - [🧿 Watch the Watchers](./README.md) — *counter-surveillance logics*  
+> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference.md) — *reframing the official story*  
+> - [👅 Voice Disruption & Discrediting](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *sexualised surveillance tropes*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-03_
