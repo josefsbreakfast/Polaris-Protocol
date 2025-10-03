@@ -35,7 +35,7 @@ It is not passive witness — it is active inversion, a survival tactic, and oft
 
 - [👁️‍🗨️ Witness Histories](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *aligned but distinct: here witness becomes strategy*  
 - [🗝️ Politics & Memory Work](../🗝️_Politics_Memory_Work/README.md) — *where exposure contests erasure*  
-- [Disruption Kit](../../../Disruption_Kit/README.md) — *survivor-led tools, field logs, countermeasures*  
+- [🛠️ Disruption Kit](../../../Disruption_Kit/README.md) — *survivor-led tools, field logs, countermeasures*  
 
 ---
 
