@@ -116,7 +116,7 @@ landlord remedies, covert surveillance, harassment, breach of lease, economic to
 It documents the civil, tortious, and regulatory claims available when landlords discover their property has been weaponised into a surveillance hub.  
 
 > 📡 Cross-references:  
-> - [📜 Statutes](../📜_Statutes/README.md) — *systemic legal architectures*  
+> - [📜 Statutes](../Big_Picture_Protocols/📜_Statutes/README.md) — *systemic legal architectures*  
 > - [🧿 Watch the Watchers](./) — *oversight of oversight*  
 > - [👅 Voice Disruption & Discrediting](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *harassment and sexualised surveillance patterns*  
 
