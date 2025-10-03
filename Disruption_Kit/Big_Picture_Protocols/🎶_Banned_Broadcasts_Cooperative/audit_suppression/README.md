@@ -18,7 +18,7 @@ It provides standardised methods, templates, and case-log structures so survivor
 
 ## 📂 Contents  
 
-- [📚 English-Language Book Suppression Audit Protocol](./📚_audit_suppression_protocol_english.md)  
+- [📚 English-Language Book Suppression Audit Protocol](./📚_audit_suppression_protocol_english.md) - *Step-by-step method to detect, measure, and evidence suppression of English-language book titles across retail, libraries, and indexing systems*
 - [🎧 Media Visibility Gap Protocol](./🎧_media_visibility_gap_protocol.md)  
 - [📊 Suppression Sampling Plan Template] *WIP*
 - [🗂️ Case Study Log Template](./🗂️_case_study_log_template.md)  
