@@ -30,3 +30,11 @@ Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_mut
 ---
 
 “This is a place of mystery, Daniel, a sanctuary. Every book, every volume you see here, has a soul. The soul of the person who wrote it and of those who read it and lived and dreamed with it. Every time a book changes hands, every time someone runs his eyes down its pages, its spirit grows and strengthens.”
+
+---
+
+BDS also blew a gasket.
+
+Suprise, suprise.
+
+Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📜_statutory_censorship_logics.md
