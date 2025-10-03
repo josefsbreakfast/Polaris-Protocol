@@ -87,7 +87,7 @@ And I say this as a Jewish woman: Jews were not the first people targeted.
 There was another group targeted first.  
 Start researching who it was, and you will begin to see the order in which people are still targeted today.  
 
-**I need able bodied people to get to grips with what Aktion T4 was, how outraged the German public initially was, and how the suppression of dissent led directly to the remainder of the Holocaust. I need you to start looking round and seeing the parallels today.  
+**I need able bodied people to get to grips with what Aktion T4 was**, how outraged the German public initially was, and how the suppression of dissent led directly to the remainder of the Holocaust. I need you to start looking round and seeing the parallels today.  
 
 _**We were the first "useless eaters"; compare with the language of "scroungers" and "sponges" and "cheats".**_  
 
