@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 12:47:08 UTC_
+_Generated on 2025-10-03 12:48:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -416,6 +416,7 @@ _Generated on 2025-10-03 12:47:08 UTC_
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
     - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md)
+      - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
       - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
       - [`🛫_frequent_flyers_club.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🛫_frequent_flyers_club.md)
@@ -1038,7 +1039,6 @@ _Generated on 2025-10-03 12:47:08 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
-    - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
     - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_sanhedrin_rulings_on_trafficking.md)
     - [`🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md)
     - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
