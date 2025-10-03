@@ -62,6 +62,19 @@ foreign agent law, regulatory silencing, protest suppression, metadata governanc
 
 ---
 
+## 📂 Case Study Appendix  
+
+- **Texas Anti-BDS Contracts (2017–2022):** Teachers, lawyers, and small businesses were asked to certify they did not boycott Israel as a condition of state contracts. Several lawsuits (e.g. *Amawi v. Pflugerville ISD*) challenged the practice.  
+- **Florida “Stop WOKE Act” (2022):** Prohibited teaching “divisive concepts” around race and gender in schools and workplaces. Federal courts blocked major sections, but the chilling effect persists.  
+- **UK Public Order Act (2023 extension):** Expanded police powers to restrict protest deemed “too noisy.” Used against climate activists and anti-war demonstrations.  
+- **Russia’s Foreign Agent Law (2012, expanded 2020):** NGOs, journalists, and academics labelled “foreign agents” if receiving any outside funding. Used to liquidate dissenting organisations.  
+- **Israel’s NGO Law (2016):** Required organisations receiving more than 50% of funding from foreign governments to disclose in all communications. Framed as transparency, functioned as stigma.  
+- **SLAPP suits (UK & EU, 2010s–2020s):** Wealthy individuals weaponised libel law to silence investigative journalists (e.g. Abramovich vs Catherine Belton over *Putin’s People*).  
+
+These cases demonstrate how statutory tools operate not as neutral law, but as targeted silencers dressed in legitimacy.  
+
+---
+
 ## 🏮 Footer  
 *📜 Statutory Censorship Logics* is a living node of the Polaris Protocol.  
 It documents the legal mechanisms by which speech is curtailed through contracts, policies, and legislative traps —  
