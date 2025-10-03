@@ -56,9 +56,10 @@ film censorship, banned films, political cinema, media erasure, Boycott document
 It collates cinematic works that became amplified by attempts to silence them,  
 and supports broader diagnostics of narrative control across media formats.  
 
-> 📡 Cross-references:  
-> - [🔥 Suppression as Signal](../🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
-> - [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/README.md)  
+> 📡 Cross-references:
+> 
+> - [🔥 Suppression as Signal](../🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *How the act of burying a book becomes its own marketing engine*  
+> - [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/README.md) - *A cooperative archive of outlaw sound, banned books, and suppressed signals*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
