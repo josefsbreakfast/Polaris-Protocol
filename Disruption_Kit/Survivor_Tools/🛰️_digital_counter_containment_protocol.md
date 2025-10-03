@@ -67,10 +67,11 @@ shadowban, digital suppression, counter-containment, evidence logging, platform 
 *Digital Counter-Containment Protocol* is a living node of the Polaris Protocol.  
 It documents how to move beyond shadowban complaints by treating suppression as evidence and by seeding survivor-led visibility architectures.  
 
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — dated evidence entries  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — suppression methods and counter-nudges  
-> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — practical refusal guides  
+> 📡 Cross-references:
+> 
+> - [Field Logs](../Field_Logs/) — dated evidence entries
+> - > - [Containment Scripts](../Containment_Scripts/) — suppression methods and counter-nudges 
+> - [Survivor Tools](../Survivor_Tools/) — practical refusal guides  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
