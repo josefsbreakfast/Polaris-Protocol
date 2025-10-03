@@ -1,6 +1,6 @@
 # 🍊 The President as Mark  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
-*How Britain could use satire and cultural translation to expose how Trump is being played — fighting fascism while blunting toxic distractions.*
+**First created:** 2025-09-20 | **Last updated:** 2025-10-03  
+*How Britain could use satire and cultural translation to expose how Trump is being played — fighting fascism while blunting toxic distractions*
 
 ---
 
@@ -49,9 +49,9 @@ It documents how satire and ridicule can reframe Trump as the exploited fool, un
 
 > 📡 Cross-references:  
 > - [🔥 The Strength of Humour](./🔥_the_strength_of_humour.md) — laughter as systemic solvent  
-> - [🎭 Laughing at Strongmen](./🎭_laughing_at_strongmen.md) — cabaret and caricature as counter-fascist tools  
+> - [🎭 Laughing at Strongmen] - *WIP* — *cabaret and caricature of authoritarian figures*  
 > - [🐉 Chen Rui / Ryan — Trump Parody](../../Banned_Books_Cooperative/🐉_chen_rui_trump_parody.md) — case study of cross-cultural parody undermining US leadership myths  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-10-03_
