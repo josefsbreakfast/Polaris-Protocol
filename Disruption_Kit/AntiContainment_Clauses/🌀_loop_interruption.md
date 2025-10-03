@@ -47,7 +47,7 @@ These narratives show us that loops are never neutral. They are containment arch
 
 ---
 
-## 🧩 Everyday Practice  
+## 🐝 Everyday Practice  
 
 Loop interruption is not only for ghost stories or science fiction.  
 It can be lived as daily resistance:  
@@ -78,6 +78,7 @@ containment loops, delay tactics, refusal, recursion, throttling, folklore, cult
 ## 🏮 Footer  
 
 *Loop Interruption* is an anti-containment clause of the Polaris Protocol.  
+
 Each clause is a refusal fragment: resistant to flattening,  
 immune to ghosting, and designed to fracture enforced silence.  
 
