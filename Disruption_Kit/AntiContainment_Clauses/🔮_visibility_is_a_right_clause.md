@@ -33,7 +33,7 @@ visibility, search erosion, indexing failure, refusal, right to be seen, anti-co
 It declares visibility as a non-negotiable right and builds alternative indices when denied.  
 
 > 📡 Cross-references:  
-> - [🔮 Visibility Indexing Anomalies](../Containment_Scripts/🔮_visibility_indexing_anomalies.md)  
+> - [🔮 Visibility Indexing Anomalies](../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
