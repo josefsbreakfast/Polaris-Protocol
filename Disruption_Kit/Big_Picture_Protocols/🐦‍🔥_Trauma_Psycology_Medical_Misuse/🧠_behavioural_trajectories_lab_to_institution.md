@@ -1,6 +1,6 @@
 # 🧠 Behavioural Trajectories — From Lab to Institution  
-**First created:** 2025-09-24 | **Last updated:** 2025-09-24  
-*Tracing how operant and behavioural research in UK universities shifted from controlled experiments to applied institutional settings*
+**First created:** 2025-09-24 | **Last updated:** 2025-10-03  
+*Tracing how operant and behavioural research in UK universities shifted from controlled experiments to applied institutional settings*  
 
 ---
 
@@ -14,10 +14,10 @@ This node collects concrete before/after traces showing that migration.
 
 ---
 
-## 🏛 University of Nottingham  
+## 🏛 University: Example 001  
 
 **Earlier (pre-2010)**  
-- Helen Cassaday’s lab: **latent inhibition, trace conditioning, rodent associative learning**.  
+-Example lab 001: **latent inhibition, trace conditioning, rodent associative learning**.  
 - Focus on mechanistic experiments: attention, associative learning, dopamine manipulations.  
 
 **Later (2015–2025)**  
@@ -27,7 +27,7 @@ This node collects concrete before/after traces showing that migration.
 
 ---
 
-## 🏛 University of Sheffield  
+## 🏛 University: Example 002  
 
 **Earlier lineage**  
 - Behavioural observation in teams (BOAC, 1968–1972): coding discrete verbal acts (“proposing ideas,” “disagreeing”) without intervention.  
@@ -38,7 +38,7 @@ This node collects concrete before/after traces showing that migration.
 
 ---
 
-## 🏛 University of Manchester  
+## 🏛 University: Example 003
 
 **Earlier orientation**  
 - Traditional operant/behaviourist content in psychology modules: controlled reinforcement studies, learning theory, clinical basics.  
@@ -63,15 +63,27 @@ This node collects concrete before/after traces showing that migration.
 
 ---
 
+## 🌌 Constellations  
+
+🧠 🏛 📊 🪬 — This node traces the migration of behavioural paradigms into institutional governance and nudge frameworks.  
+
+---
+
+## ✨ Stardust  
+
+behavioural psychology, operant conditioning, institutional application, trauma studies, resilience, nudges, uk universities, surveillance logics, governance, cognitive dysfunction  
+
+---
+
 ## 🏮 Footer  
 
 *Behavioural Trajectories — From Lab to Institution* is a living node of the Polaris Protocol.  
 It records how operant paradigms migrated into applied institutional contexts, transforming empathy and trauma studies into governance vectors.  
 
 > 📡 Cross-references:  
-> - [🐦‍🔥 Trauma_Psycology_Medical_Misuse](../Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse) — systemic misuse of trauma & psychology  
-> - [🧠 HM_Dept_Coercive_Nudges](../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges) — behavioural governance and coercive application  
+> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](../🐦‍🔥_trauma_psychology_medical_misuse.md) — systemic misuse of trauma & psychology  
+> - [🧠 HM Dept Coercive Nudges](../🧠_hm_dept_coercive_nudges.md) — behavioural governance and coercive application  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-24_
+_Last updated: 2025-10-03_  
