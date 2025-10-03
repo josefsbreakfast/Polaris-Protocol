@@ -33,7 +33,7 @@ algorithmic ranking, platform sabotage, refusal, amplification, governance, anti
 It refuses algorithmic governance as “neutral” and responds with collective amplification.  
 
 > 📡 Cross-references:  
-> - [🪅 Platform Sabotage](../Containment_Scripts/🪅_platform_sabotage.md)  
+> - [🪅 Platform Sabotage](../../Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
