@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          lfs: true   # fetch LFS files if you use them
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,65 +24,63 @@ jobs:
         id: wc
         run: |
           python - <<'PY'
-          import os, re, csv, sys
+          import os, re, csv
+
           root = "."
           md_files = []
-          for base, _, files in os.walk(root):
-            # skip junk
-            if any(p.startswith((".", "node_modules", ".git", ".venv", "venv", "dist", "build", "_site")) for p in base.split(os.sep)):
-              continue
-            for f in files:
-              if f.lower().endswith(".md"):
-                md_files.append(os.path.join(base, f))
 
-          fm_re = re.compile(r"^---\n.*?\n---\n", re.DOTALL)  # YAML front matter
-          fence_re = re.compile(r"```.*?```", re.DOTALL)      # fenced code blocks
-          link_re = re.compile(r"\[([^\]]+)\]\([^)]+\)")      # [text](url) -> text
-          html_re = re.compile(r"<[^>]+>")                    # strip html tags
+          # directories to skip
+          skip_names = {".git", ".github", ".venv", "venv", "node_modules", "dist", "build", "_site"}
+
+          for base, _, files in os.walk(root):
+              # skip hidden/internal dirs, but not the root "."
+              parts = [p for p in base.split(os.sep) if p not in (".", "")]
+              if any(p in skip_names or p.startswith(".") for p in parts):
+                  continue
+              for f in files:
+                  if f.lower().endswith((".md", ".markdown", ".mdx", ".txt")):
+                      md_files.append(os.path.join(base, f))
+
+          # regex helpers
+          fm_re = re.compile(r"^---\n.*?\n---\n", re.DOTALL)    # YAML front matter
+          fence_re = re.compile(r"```.*?```", re.DOTALL)        # fenced code blocks
+          link_re = re.compile(r"\[([^\]]+)\]\([^)]+\)")        # [text](url) -> text
+          html_re = re.compile(r"<[^>]+>")                      # strip html tags
           ws_re = re.compile(r"\s+")
 
           rows = []
           total = 0
           for path in sorted(md_files):
-            try:
-              with open(path, "r", encoding="utf-8") as fh:
-                text = fh.read()
-            except Exception:
-              continue
-            # strip front matter & code fences
-            text = fm_re.sub("", text, count=1)
-            text = fence_re.sub("", text)
-            # keep link text, drop urls
-            text = link_re.sub(r"\1", text)
-            # drop html tags
-            text = html_re.sub(" ", text)
-            # collapse whitespace
-            text = ws_re.sub(" ", text).strip()
-            # naive-ish token split (good enough for repo-level counts)
-            wc = 0 if not text else len(text.split(" "))
-            rows.append((path, wc))
-            total += wc
+              try:
+                  with open(path, "r", encoding="utf-8") as fh:
+                      text = fh.read()
+              except Exception:
+                  continue
+              # strip front matter & code fences
+              text = fm_re.sub("", text, count=1)
+              text = fence_re.sub("", text)
+              text = link_re.sub(r"\1", text)
+              text = html_re.sub(" ", text)
+              text = ws_re.sub(" ", text).strip()
+              wc = 0 if not text else len(text.split(" "))
+              rows.append((path, wc))
+              total += wc
 
-          # write CSV artifact
+          # save CSV artifact
           os.makedirs("artifacts", exist_ok=True)
           with open("artifacts/wordcount.csv", "w", newline="", encoding="utf-8") as out:
-            w = csv.writer(out)
-            w.writerow(["file", "words"])
-            for r in rows:
-              w.writerow(r)
-            w.writerow(["TOTAL", total])
+              w = csv.writer(out)
+              w.writerow(["file", "words"])
+              for r in rows:
+                  w.writerow(r)
+              w.writerow(["TOTAL", total])
 
-          # Write a markdown summary for the run page
-          summary_lines = []
-          summary_lines.append(f"# Repo Word Count\n\n**Total words (Markdown only): {total:,}**\n")
-          summary_lines.append("| File | Words |")
-          summary_lines.append("|------|------:|")
-          for path, wc in rows:
-            summary_lines.append(f"| `{path}` | {wc:,} |")
-          open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8").write("\n".join(summary_lines))
-
-          # expose total as an output (optional)
-          print(f"::set-output name=total::{total}")
+          # write GitHub summary
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as s:
+              s.write(f"# Repo Word Count\n\n**Total words: {total:,}**\n\n")
+              s.write("| File | Words |\n|------|------:|\n")
+              for path, wc in rows:
+                  s.write(f"| `{path}` | {wc:,} |\n")
           PY
 
       - name: Upload CSV artifact
