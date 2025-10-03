@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Overview  
+## 🪼 Overview  
 
 In the UK there is no single “one-stop” surveillance body.  
 Different organisations — state agencies, regulators, private-intelligence or PR firms — can all monitor the same person at the same time without knowing about each other.  
@@ -62,7 +62,7 @@ From an individual’s perspective, they create the impression of a single omnip
 
 ---
 
-## 🔁 Why It’s Always the Same People  
+## 🦆 Why It’s Always the Same People  
 
 Surveillance on “complex” or “non-standard” individuals tends to circle back to the same analysts and teams because:
 
@@ -133,6 +133,18 @@ flowchart LR
 ```
 
 *(Boxes show the main actors; arrows show typical data or influence flows. “Escalation” arrows show how a case can pass from one team or department to another.)*
+
+---
+
+## 🌌 Constellations  
+
+🛰️ 🧿 🌀 📚 — Overlapping surveillance layers are not new; they echo the faceless bureaucracy of Kafka’s *The Castle*, the interwoven agencies and street-level informants of *The Wire*, and the state–contractor ecosystem revealed in *Snowden* and *Citizenfour*.  
+Episodes like *Nosedive* (Black Mirror) show how parallel scoring and data-harvesting systems can converge into a single felt reality for the person scored.  
+This node sits where fragmented watch systems blend into one perceived campaign.  
+
+## ✨ Stardust  
+
+parallel surveillance, state–private overlap, handoff effect, kafkaesque bureaucracy, risk-averse process, perceived conspiracy, data brokers, contractors, surveillance escalation, citizenfour, black mirror
 
 ---
 
