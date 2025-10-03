@@ -49,7 +49,7 @@ immune to ghosting, and designed to fracture enforced silence.
 
 > 📡 Cross-references:
 > 
-> - [💣 Syntax Bombs](../Syntax_Bombs/README.md) — *disruptive payloads and forensic disruptors*  
+> - [💣 Syntax Bombs](../💣_Syntax_Bombs/README.md) — *disruptive payloads and forensic disruptors*  
 > - [Containment Scripts](../Containment_Scripts/README.md) — *tactical logs of visibility suppression*  
 
 🏮 [Return to Anti-Containment Clauses](./README.md)  
