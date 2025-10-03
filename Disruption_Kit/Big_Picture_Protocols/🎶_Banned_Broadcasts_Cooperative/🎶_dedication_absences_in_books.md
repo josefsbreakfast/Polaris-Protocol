@@ -4,6 +4,20 @@
 
 ---
 
+## ✨ Introduction  
+Most books open with a quiet note — a line or two naming who carried the author through the labour.  
+A parent. A partner. A child. Sometimes an entire movement.  
+
+Dedications and acknowledgments are paratext, but they matter: they map the networks of care and solidarity behind a work.  
+They remind readers that books are not written in isolation — they are carried into being by relationships, debts, and communities.  
+
+When those notes vanish, it is not always innocent.  
+Sometimes the absence is an author’s own preference. Sometimes it is advised away by publishers or lawyers. And sometimes it functions as a kind of containment: the erasure of visible support networks, making the author appear solitary, ungrounded, unconnected.  
+
+This log asks what such absences signal.  
+
+---
+
 ## 📄 What Happened  
 - Dedications/acknowledgments nearly universal across genres.  
 - Some works omit them — a deliberate choice, or advised omission.  
@@ -31,36 +45,9 @@
 
 ---
 
-## 🌌 Constellations  
-
-🎶 📄 🧿 📚 — This node traces dedications as paratextual signals, where absence or erasure carries meaning beyond style.  
-
-**Extended constellation (cultural):**  
-- *The Waste Land* (T.S. Eliot) — famously dedicated to Ezra Pound, shaping reception.  
-- *Invisible Man* (Ralph Ellison) — paratext framing as a political marker.  
-- *Beloved* (Toni Morrison) — “Sixty Million and more” as an invocation of erased lives.  
-
-**Extended constellation (legal/historical):**  
-- Publisher liability concerns — dedications cut for legal safety.  
-- Defamation and libel risks cited by editorial boards.  
-- Case law: *Cassidy v Daily Mirror* (1929) — precedent on reputational harm from implication.  
-
----
-
-## ✨ Stardust  
-
-book dedications, acknowledgments, metadata signals, paratext, publishing containment, legal sanitisation, omission patterns, editorial advice, cultural metadata, isolation effect  
-
----
-
 ## 🏮 Footer  
 *🎶 Dedication Absences in Books* is a living node of the Polaris Protocol.  
 It frames dedications as cultural metadata: inclusion signals labour’s social cost, while omission signals restraint or containment.  
-
-> 📡 Cross-references:  
-> - [🎶 Containment by Review — JSTOR (2018)](./🎶_containment_by_review_jstor_2018.md) — *reviews as containment anchors*  
-> - [🎶 Book Discoverability Shift (2022 Title)](./🎶_book_discoverability_shift_2022_title.md) — *visibility anomalies in search and indexing*  
-> - [⚖️ Legal Hooks for Muted Books](./⚖️_legal_hooks_for_muted_books.md) — *when omissions or reputational injuries become legal questions*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
