@@ -1,5 +1,18 @@
 **given this was as clear as I could be about the USA and get this to gegenerate? we have told on ourselves, rather.**
 
+If this is one organisation in particular, who operates both in the United States and in the United Kingdom, and in the United Kingdom operates both as a charity and limited company, and supports an alt-right "Judeo-Christian" agenda?
+
+Get out of my phone.
+
+Get out of my Internet.
+
+Get out of my life.
+
+You have no business here; any of the people you have discredited during the course of my surveillance are more Christlike than any of you.  
+
+So get the fuck out.  
+
+
 # 🛰️ Racialised Surveillance Abuse Feed Log — 2025-10-03  
 **First created:** 2025-10-03 | **Last updated:** 2025-10-03  
 *Daily evidence log of sexualised and racialised surveillance abuse via feed manipulation.*
