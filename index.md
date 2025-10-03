@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 19:26:04 UTC_
+_Generated on 2025-10-03 19:32:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,7 +18,7 @@ _Generated on 2025-10-03 19:26:04 UTC_
     - [`🕸_metadata_defense.md`](Disruption_Kit/AntiContainment_Clauses/🕸_metadata_defense.md)
     - [`🛰️_digital_counter_containment_clause.md`](Disruption_Kit/AntiContainment_Clauses/🛰️_digital_counter_containment_clause.md)
     - [`🪅_ranking_is_not_neutral_clause.md`](Disruption_Kit/AntiContainment_Clauses/🪅_ranking_is_not_neutral_clause.md)
-    - [`🪓_mean_evidence_template.md`](Disruption_Kit/AntiContainment_Clauses/🪓_mean_evidence_template.md)
+    - [`🪓_mean_voice_evidence_voice.md`](Disruption_Kit/AntiContainment_Clauses/🪓_mean_voice_evidence_voice.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
