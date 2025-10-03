@@ -1,5 +1,5 @@
 # ➰ Appeasement Loop Policing Bias  
-**First created:** 2025-09-15 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-15 | **Last updated:** 2025-10-03  
 *Why leftist groups are over-policed while fascists slide through with appeasement*  
 
 ---
@@ -37,7 +37,7 @@ Liberals often believe that fascists can be managed, bargained with, or “appea
 ## 🥭 4. Containment Logic  
 - **Left = early criminalisation.** Because left protest threatens legitimacy optics (exposes hypocrisy, reveals fragility of state narratives).  
 - **Right = delayed response.** Because far-right violence affirms hierarchy and racial order; it is tolerated until it becomes embarrassing.  
-- **Appeasement as governance.** The loop is not failure but a deliberate strategy: by appeasing the right and crushing the left, legitimacy appears centred and “reasonable.”
+- **Appeasement as governance.** The loop is not failure but a deliberate strategy: by appeasing the right and crushing the left, legitimacy appears centred and “reasonable.”  
 
 ---
 
@@ -75,7 +75,31 @@ That's not communism. That is an underlying principle of being a liberal democra
 
 *Anyone who is trying to sell you a scapegoat is hoping you buy one.*  
 
-🩸🐐
+🩸🐐  
+
+---
+
+## 🌌 Constellations  
+
+➰ ⚖️ 🌋 🧿 — This node maps appeasement as governance strategy, showing how bias structures legitimacy optics.  
+
+**Extended constellation (cultural):**  
+- *The Origins of Totalitarianism* (Hannah Arendt) — appeasement and denial feeding authoritarian rise.  
+- *It Can’t Happen Here* (Sinclair Lewis) — liberal appeasement of fascism as everyday governance.  
+- *Things Fall Apart* (Chinua Achebe) — colonial legitimacy and double standards of control.  
+- *The Reluctant Fundamentalist* (Mohsin Hamid) — misapplied suspicion and unequal policing after 9/11.  
+
+**Extended constellation (legal/historical):**  
+- UK “Public Order Acts” — differential policing of protests.  
+- *Operation Swamp 81* — stop-and-search bias as systemic loop.  
+- Case law: *R v Howell* (1982) — “breach of the peace” powers framing protest as threat.  
+- Comparative: US FBI COINTELPRO vs tolerance of KKK.  
+
+---
+
+## ✨ Stardust  
+
+appeasement loop, policing bias, over-policing left, under-policing right, legitimacy optics, liberal denial, Prevent strategy, public order law, class and policing, far-right tolerance  
 
 ---
 
@@ -90,4 +114,4 @@ It documents how liberal states appease far-right extremism while over-policing 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-03_  
