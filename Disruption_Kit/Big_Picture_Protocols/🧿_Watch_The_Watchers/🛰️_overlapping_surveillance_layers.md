@@ -1,5 +1,5 @@
 # 🛰️ Overlapping Surveillance Layers  
-**First created:** 2025-09-28 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-28 | **Last updated:** 2025-10-03  
 *How commercial and state surveillance can run in parallel and feel like one operation*
 
 ---
@@ -142,9 +142,9 @@ flowchart LR
 It documents how separate state and commercial operations can blend into one perceived campaign — including the “handoff” effect as cases move between agencies.  
 
 > 📡 Cross-references:  
-> – [🛫 Frequent Flyers Club](./🛫_frequent_flyers_club.md)  
-> – [🧠 Why Are We Threatened by Complexity?](./🧠_why_are_we_threatened_by_complexity.md)
+> – [🛫 Frequent Flyers Club](./🛫_frequent_flyers_club.md) - *Individuals repeatedly caught in overlapping surveillance loops*  
+> – [🧠 Why Are We Threatened by Complexity?](./🧠_why_are_we_threatened_by_complexity.md) - *How “complexity” triggers escalation and bias*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-03_
