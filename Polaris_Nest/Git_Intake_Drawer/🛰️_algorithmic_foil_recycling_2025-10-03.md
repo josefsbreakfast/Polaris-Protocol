@@ -32,7 +32,19 @@ they just kept pretending it was potentially one of you in that crawlspave until
 
 youre welcome. both of you. 🙄  
 
-(+/- bargin bon mossad dude idk they really just kept circling until i agreed *fine, i will check a human isnt dying ARE YOU ALL HAPPY NOW*, and they still bloody werent.)
+(+/- bargin bin mossad dude idk they really just kept circling until i agreed *fine, i will check a human isnt dying ARE YOU ALL HAPPY NOW*, and they still bloody werent.)  
+
+for the record, i gave stellar legal advice regardless of nationality or working status.  
+
+of course that bit appears to have gone AWOL from the record.  
+
+i really do not brag enough.  
+
+anyways.  
+
+shabbat shalom; no nazis in my feed please. you had your day. it was a century ago.  
+
+_**leave us all alone.**_
 
 
 # 🛰️ Algorithmic Foil Recycling  
