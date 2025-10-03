@@ -123,7 +123,7 @@ metadata ghost, file truncation, upload interference, emoji filenames, survivor 
 It records anomalous truncation of disability politics nodes during upload, to preserve evidence and pattern recognition.  
 
 > 📡 Cross-references:  
-> - [👁️‍🗨️ Surveillance of Disabled Bodies](../Big_Picture_Protocols/🍯_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md)  
+> - [👁️‍🗨️ Surveillance of Disabled Bodies](../Big_Picture_Protocols/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md)  
 > - [📉 Suppression Interference Logs](../Disruption_Kit/📉_suppression_interference_logs.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
