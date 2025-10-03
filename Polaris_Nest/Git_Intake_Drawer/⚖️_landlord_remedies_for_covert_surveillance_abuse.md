@@ -92,16 +92,17 @@ This node maps the remedies available to a landlord–solicitor who discovers th
 
 ## 🌌 Constellations  
 
-⚖️ 🕯️ 👻 — This node belongs in the gothic register of property, power, and unseen observation.  
-Echoes of *Jane Eyre* and *Wuthering Heights* resonate here: hidden rooms, brooding estates, and landlords who become both guardians and threats.  
+⚖️ 👻 🕯️ 🧿 — This node belongs in the gothic register of property, power, and unseen observation.  
+Hidden rooms, brooding estates, and landlords who shift between guardians and threats recall *Jane Eyre* and *Wuthering Heights*.  
+The estate as psychological trap (*Rebecca*), the watcher whose gaze may be spectral (*The Turn of the Screw*), and litigation as endless surveillance (*Bleak House*) all echo through this terrain.  
+Civil remedies here are not just legal instruments — they are constellations of haunting, where tenancy and trespass blur with the gothic imagination.  
 Literary constellations of surveillance-as-haunting tie civil remedies to spectral trespass.  
-<!--Not my landlords; I'm just thinking on the theme.-->
-
+<!--Not my landlords; I'm just thinking on the theme. It's art.-->
 ---
 
 ## ✨ Stardust  
 
-landlord remedies, covert surveillance, harassment, breach of lease, economic tort, reputational damage, AML, injunctions, exemplary damages, property managers  
+landlord remedies, covert surveillance, harassment, breach of lease, economic tort, reputational damage, AML, injunctions, exemplary damages, property managers, gothic literature, property law, haunting, estates, tort claims, tenant abuse, civil litigation, privacy invasion
 
 ---
 
