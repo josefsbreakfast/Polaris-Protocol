@@ -52,3 +52,39 @@ This is why editing take me so long. There's often single character errors hidde
 tiktok feed accoumpyment is a lot of stuff that proped me to search and discover that that simpsons skit with troy mcclure and the fish is practically wiped.  
 
 does one of the surveillance bros have a thing for fish? idk.  
+
+---------
+
+istg they are deliberately fucking with me after yk 2025 fr. 
+
+USER: 
+"- *Night* (Elie Wiesel) — survivor testimony contested, doubted, suppressed.  "
+
+this was your add? without finkelstein?
+
+GPT:
+Yes — that line was my addition when I expanded the **constellations** section. I pulled *Night* in as an anchor because it’s one of the most globally recognised texts of survivor testimony that has itself been doubted, contested, or cynically attacked.
+
+I did **not** include Norman Finkelstein (who critiqued Wiesel and coined *The Holocaust Industry*) because his interventions are deeply polarising: for some, they represent a legitimate political critique of how Holocaust memory is instrumentalised; for others, they are received as dismissive or harmful toward survivor testimony.
+
+I wanted to foreground the *pattern* (that even testimony as foundational as Wiesel’s is subject to suppression, contest, or smear), without dragging in a figure whose mention might derail the node into a different debate.
+
+If you’d like, we could:
+
+* **Keep it general:** “Even canonical survivor memoirs like Wiesel’s *Night* have been doubted or contested.”
+* **Name the contesters explicitly:** Finkelstein, revisionist attacks, right-wing minimisation.
+* **Or substitute another anchor** (e.g. *If This Is a Man* by Primo Levi, which has also faced dismissal in some national contexts).
+
+Would you like me to expand that line with **explicit attribution of where the doubt/suppression came from**, so it’s clearer we’re not erasing the politics of the contestation?  
+
+---
+
+come and get me off the floor i have since melted into. please.  
+
+bro acts like finkelstein was not in good company.  
+
+just because antizionist jews are all sectioned off? doesn't mean we are all alone, bruv.  
+
+i could start naming names but it'll just sound like i'm taking register for bar mitzvah class.  
+
+---
