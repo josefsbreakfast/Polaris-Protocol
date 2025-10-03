@@ -1,15 +1,14 @@
 # ⚖️ Legal Hooks for Muted Books  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-17 | **Last updated:** 2025-10-03  
 *A theoretical toolkit for UK writers and creatives seeking to press for penalty when a book has been muted. Not legal advice; designed as a map of possible doctrines and rights*  
 
 ---
 
 ## ✨ Summary
 
-Authors and creatives are not powerless when their work is muted. UK law offers multiple routes — from tort and defamation, to equality protections and human rights claims — that can reframe suppression as a form of injury. 
+Authors and creatives are not powerless when their work is muted. UK law offers multiple routes — from tort and defamation, to equality protections and human rights claims — that can reframe suppression as a form of injury.  
 
 This node sketches those legal hooks, showing where silence may meet the threshold for accountability.  
-
 
 ---
 
@@ -27,7 +26,7 @@ Reputation is currency; once corroded, circulation falters.
 
 ---
 
-## 🧠 3. Personal Stress — Harassment / Psychiatric injury  
+## 🧠 3. Personal Stress — Harassment / Psychiatric Injury  
 UK law recognises claims for psychiatric injury caused by negligence or harassment.  
 When muting forms part of a *course of conduct*, emotional distress can be compensable.  
 Targeted silence is not just absence — it can be lived injury.  
@@ -76,18 +75,41 @@ Silence, when orchestrated, carries the scent of conspiracy.
 
 ---
 
+## 🌌 Constellations  
+
+⚖️ 🕯️ 🪄 🧿 — This node sits at the legal / rights intersection, mapping doctrines where suppression crosses into injury.  
+
+**Extended constellation (cultural):**  
+- *Bleak House* (Charles Dickens) — law as fog, endless silencing through procedure.  
+- *The Trial* (Franz Kafka) — bureaucratic suppression as existential injury.  
+- *Atonement* (Ian McEwan) — reputational harm and narrative control.  
+- *Tinker Tailor Soldier Spy* (John le Carré) — bureaucratic boredom, secrets as silence.  
+
+**Extended constellation (legal):**  
+- *Derbyshire CC v Times Newspapers* [1993] — reputation vs free speech.  
+- *Campbell v MGN* [2004] — privacy, reputation, and Article 8.  
+- *Ashby v White* (1703) — interference with rights.  
+- *Handyside v UK* (1976) — freedom of expression boundaries.  
+- *Lingens v Austria* (1986) — political speech protection.  
+- Eric Barendt, *Freedom of Speech* (OUP).  
+- Helen Fenwick, *Civil Liberties and Human Rights*.  
+
+---
+
+## ✨ Stardust  
+
+book suppression, muted books, UK law, defamation, tortious interference, equality law, harassment, freedom of expression, article 10, conspiracy  
+
+---
+
 ## 🏮 Footer  
 *⚖️ Legal Hooks for Muted Books* is a Polaris Protocol node. It is **theoretical, not legal advice**. It maps possible doctrines for writers and creatives in the UK who suspect their work was deliberately muted.  
 
 > 📡 Cross-references:  
 > - [📚 Cemetery of Forgotten Books](./📚_muted_volumes_from_the_cemetery_of_forgotten_books.md)  
 > - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md)  
-> - [🪞 Cascade of Chilling] - *WIP*
+> - [🪞 Cascade of Chilling] - *WIP*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
-
-
-
-
+_Last updated: 2025-10-03_  
