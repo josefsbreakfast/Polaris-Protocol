@@ -20,7 +20,7 @@ It provides standardised methods, templates, and case-log structures so survivor
 
 - [📚 English-Language Book Suppression Audit Protocol](./📚_audit_suppression_protocol_english.md)  
 - [🎧 Media Visibility Gap Protocol](./🎧_media_visibility_gap_protocol.md)  
-- [📊 Suppression Sampling Plan Template](./📊_suppression_sampling_plan_template.md)  
+- [📊 Suppression Sampling Plan Template] *WIP*
 - [🗂️ Case Study Log Template](./🗂️_case_study_log_template.md)  
 
 ---
