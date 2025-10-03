@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 21:27:14 UTC_
+_Generated on 2025-10-03 21:27:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -563,7 +563,7 @@ _Generated on 2025-10-03 21:27:14 UTC_
     - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/🗒️_conversation_drift_and_anchors.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`🛡️_clearance_impact.md`](Disruption_Kit/Field_Logs/🛡️_clearance_impact.md)
-    - [`🛰️_ 2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_ 2025-09-19_fieldnote_suppression_signal.md)
+    - [`🛰️_2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_fieldnote_suppression_signal.md)
     - [`🛰️_2025-09-19_legal_risk_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_legal_risk_sweep.md)
     - [`🛰️_2025-09-19_security_signal_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_security_signal_sweep.md)
     - [`🛰️_2025-09-22_web_of_resilience_duplicate_fix.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-22_web_of_resilience_duplicate_fix.md)
