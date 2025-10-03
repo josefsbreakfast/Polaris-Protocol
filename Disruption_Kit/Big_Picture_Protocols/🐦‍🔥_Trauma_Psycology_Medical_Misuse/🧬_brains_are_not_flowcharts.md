@@ -1,6 +1,6 @@
 # 🧬 Brains Are Not Flowcharts  
 **First created:** 2025-09-10 | **Last updated:** 2025-10-04  
-*Why behavioural-psych simplifications mislead, and how survivor symptomatology exposes the messiness of the brain.*  
+*Why behavioural-psych simplifications mislead, and how survivor symptomatology exposes the messiness of the brain*  
 
 ---
 
@@ -188,6 +188,22 @@ These works show how behavioural simplification escapes the lab to shape culture
 ## ✨ Stardust  
 
 behavioural psychology, brain complexity, aphasia, survivor testimony, flowcharts, universities, biofilms, interdisciplinarity, governance, simplification, evolution, eugenics history, patchwork brain, migraines, living memory, fMRI, MDT, STEM funding, humanities funding, UK policy, Brexit, innovation economy, Mickey Mouse degrees, university life, fermentation, Palestinian encampments, student protest, lived commons, Jewish grief, solidarity, embroidery, food, prayer, academic futurism, academic collaboration, cross-pollination, knowledge commons, Horizons, Become Ungovernable, The Dispossessed, Culture and Imperialism, Psycho-Cybernetics, Nudge, Post-Capitalist Desire, behavioural economics, neoliberalism, self-help, governance of desire, Levellers, Agreement of the People, English radical history, commons, political ferment  
+
+---
+
+---
+
+## 📑 Addendum: Neutral Abstract  
+
+This node explores the limits of behavioural psychology’s reliance on simplified models of human behaviour.  
+Drawing on examples such as migraine-linked aphasia and the current limitations of functional MRI, it demonstrates that the human brain is less like a linear flowchart and more like an evolutionary patchwork.  
+Simplifications can be useful pedagogically, but when they are reified into governance tools they risk misdiagnosis, misclassification, and systemic bias.  
+
+The node extends this critique to institutions, noting how universities often replicate “biofilm” structures: inward-facing, siloed, and frequently skewed towards STEM at the expense of cross-disciplinary collaboration.  
+It argues that the UK’s future research and innovation capacity depends on reinvesting in humanities and rebuilding cross-border academic networks disrupted by Brexit.  
+
+As an alternative, the node advances a “two-flows model” of interdisciplinarity, in which different disciplines maintain literacy sufficient to engage and collaborate without collapsing into silos or claiming total mastery.  
+The future of knowledge is framed as a commons: innovative, collaborative, and necessarily shared across disciplinary, institutional, and cultural boundaries.  
 
 ---
 
