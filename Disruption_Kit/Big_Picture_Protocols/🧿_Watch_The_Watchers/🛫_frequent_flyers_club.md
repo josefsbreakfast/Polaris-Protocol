@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Overview  
+## ✨ Overview  
 
 “Frequent flyers” are people whose names, selectors or profiles resurface again and again across different watch systems.  
 They may have done nothing new — but each reappearance triggers new checks, new contractors, or a fresh escalation.  
@@ -12,7 +12,7 @@ The effect is a life lived under constant re-verification, with no single decisi
 
 ---
 
-## 🌀 How It Happens  
+## 🛰️ How It Happens  
 
 - **Selector-driven flagging** — every new visa, bank account, travel plan or complaint hits the same database.  
 - **Networked alerts** — multiple agencies or private contractors sharing “risk profiles” that self-replicate.  
@@ -42,11 +42,13 @@ The effect is a life lived under constant re-verification, with no single decisi
 
 ## 🌌 Constellations  
 
-🧿 🌀 🛰️ 🌱 — This node charts the recurring loops and selector triggers that trap individuals in overlapping surveillance systems and links it to practical counter-nudges.
+🧿 🌀 🛰️ 🌱 — This node charts the recurring loops and selector triggers that trap individuals in overlapping surveillance systems and links it to practical counter-nudges.  
+It echoes the endless bureaucracy of Kafka’s *The Trial*, the dystopian paper-chase of Gilliam’s *Brazil*, and the looping fate of *Groundhog Day* — showing how repetition itself becomes a form of punishment.  
 
 ## ✨ Stardust  
 
-watchlists, selector-driven flagging, surveillance escalation, institutional bias, repeated checks, risk aversion, self-replicating profiles, survivor countermeasures
+watchlists, selector-driven flagging, surveillance escalation, institutional bias, repeated checks, risk aversion, self-replicating profiles, data shadows, kafkaesque bureaucracy, permanent watchlists, survivor countermeasures
+
 
 ## 🏮 Footer  
 
