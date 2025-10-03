@@ -109,9 +109,9 @@ congress radio, partition cinema, clandestine broadcasts, Usha Mehta, Quit India
 It documents clandestine broadcasts of the Quit India movement and their cinematic afterlives as counter-memory to nationalist rewriting.  
 
 > 📡 Cross-references:  
-> - [📡 Who Gets to Transmit](./📡_who_gets_to_transmit.md) — constellation thesis  
-> - [📚 Knowledge Policing and Banned Books](./📚_knowledge_policing_and_banned_books.md) — outlawed knowledge  
-> - [📱 Feed Manipulation and Containment Theatre](./📱_feed_manipulation_and_containment_theatre.md) — suppression of testimony and signal  
+> - [📡 Who Gets to Transmit](./📡_who_gets_to_transmit.md) — *constellation thesis*  
+> - [📚 Knowledge Policing and Banned Books](./📚_knowledge_policing_and_banned_books.md) — *outlawed knowledge*  
+> - [📱 Feed Manipulation and Containment Theatre](./📱_feed_manipulation_and_containment_theatre.md) — *suppression of testimony and signal*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
