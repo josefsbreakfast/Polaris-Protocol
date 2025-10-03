@@ -117,7 +117,7 @@ It documents the civil, tortious, and regulatory claims available when landlords
 
 > 📡 Cross-references:  
 > - [📜 Statutes](../📜_Statutes/README.md) — *systemic legal architectures*  
-> - [🧿 Watch the Watchers](./) — *oversight of oversight*  
+> - [🧿 Watch the Watchers](./README.md) — *oversight of oversight*  
 > - [👅 Voice Disruption & Discrediting](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *harassment and sexualised surveillance patterns*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
