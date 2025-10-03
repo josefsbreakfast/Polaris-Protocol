@@ -1,10 +1,18 @@
-name: Repo Word Count
+name: Repo Word Count (Gap Finder)
 
 on:
-  workflow_dispatch: {}   # lets you click "Run workflow" in the Actions tab
+  workflow_dispatch: {}
   push:
     paths:
       - "**/*.md"
+
+permissions:
+  contents: read
+
+env:
+  MIN_FILE_WORDS: "250"     # files under this are flagged as thin
+  MIN_FOLDER_WORDS: "5000"  # folders under this are flagged as thin
+  MAX_ROWS_IN_SUMMARY: "20" # how many rows to show per table in the summary
 
 jobs:
   count:
@@ -13,78 +21,126 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
         with:
-          lfs: true   # fetch LFS files if you use them
+          lfs: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Count words in Markdown
-        id: wc
+      - name: Count words (harsh prose-only) + gap finder
         run: |
           python - <<'PY'
-          import os, re, csv
+          import os, re, csv, itertools, textwrap, json
 
+          # ---------- SETTINGS ----------
+          MIN_FILE = int(os.getenv("MIN_FILE_WORDS", "250"))
+          MIN_FOLDER = int(os.getenv("MIN_FOLDER_WORDS", "5000"))
+          MAX_ROWS = int(os.getenv("MAX_ROWS_IN_SUMMARY", "20"))
+
+          # ---------- COLLECT FILES ----------
           root = "."
-          md_files = []
-
-          # directories to skip
           skip_names = {".git", ".github", ".venv", "venv", "node_modules", "dist", "build", "_site"}
+          md_exts = (".md", ".markdown", ".mdx", ".txt")  # still prose-biased
 
-          for base, _, files in os.walk(root):
-              # skip hidden/internal dirs, but not the root "."
-              parts = [p for p in base.split(os.sep) if p not in (".", "")]
-              if any(p in skip_names or p.startswith(".") for p in parts):
-                  continue
-              for f in files:
-                  if f.lower().endswith((".md", ".markdown", ".mdx", ".txt")):
-                      md_files.append(os.path.join(base, f))
+          files = []
+          for base, _, fs in os.walk(root):
+            parts = [p for p in base.split(os.sep) if p not in (".","")]
+            if any(p in skip_names or p.startswith(".") for p in parts):
+              continue
+            for f in fs:
+              if f.lower().endswith(md_exts):
+                files.append(os.path.join(base, f))
 
-          # regex helpers
-          fm_re = re.compile(r"^---\n.*?\n---\n", re.DOTALL)    # YAML front matter
-          fence_re = re.compile(r"```.*?```", re.DOTALL)        # fenced code blocks
-          link_re = re.compile(r"\[([^\]]+)\]\([^)]+\)")        # [text](url) -> text
-          html_re = re.compile(r"<[^>]+>")                      # strip html tags
+          # ---------- HARSH STRIP ----------
+          fm_re = re.compile(r"^---\n.*?\n---\n", re.DOTALL)      # YAML front matter
+          fence_re = re.compile(r"```.*?```", re.DOTALL)          # fenced code blocks (incl. mermaid)
+          link_re = re.compile(r"\[([^\]]+)\]\([^)]+\)")          # keep link text, drop urls
+          html_re = re.compile(r"<[^>]+>")                        # drop html tags
           ws_re = re.compile(r"\s+")
+
+          def count_words(path):
+            try:
+              txt = open(path, "r", encoding="utf-8").read()
+            except Exception:
+              return 0
+            txt = fm_re.sub("", txt, count=1)
+            txt = fence_re.sub("", txt)                           # harsh: remove code/mermaid/tables
+            txt = link_re.sub(r"\1", txt)
+            txt = html_re.sub(" ", txt)
+            txt = ws_re.sub(" ", txt).strip()
+            return 0 if not txt else len(txt.split(" "))
 
           rows = []
           total = 0
-          for path in sorted(md_files):
-              try:
-                  with open(path, "r", encoding="utf-8") as fh:
-                      text = fh.read()
-              except Exception:
-                  continue
-              # strip front matter & code fences
-              text = fm_re.sub("", text, count=1)
-              text = fence_re.sub("", text)
-              text = link_re.sub(r"\1", text)
-              text = html_re.sub(" ", text)
-              text = ws_re.sub(" ", text).strip()
-              wc = 0 if not text else len(text.split(" "))
-              rows.append((path, wc))
-              total += wc
+          for p in sorted(files):
+            wc = count_words(p)
+            rows.append((p, wc))
+            total += wc
 
-          # save CSV artifact
+          # ---------- AGGREGATE ----------
+          def top_folder(p):
+            parts = p.split("/")
+            return parts[0] if parts else p
+          by_folder = {}
+          for p, wc in rows:
+            by_folder[top_folder(p)] = by_folder.get(top_folder(p), 0) + wc
+          folder_rows = sorted(by_folder.items(), key=lambda x: x[1], reverse=True)
+
+          thin_files = [(p,w) for p,w in rows if w < MIN_FILE]
+          thin_files.sort(key=lambda x: x[1])                      # lowest first
+          thin_folders = [(f,w) for f,w in folder_rows if w < MIN_FOLDER]
+
+          # ---------- ARTIFACTS ----------
           os.makedirs("artifacts", exist_ok=True)
-          with open("artifacts/wordcount.csv", "w", newline="", encoding="utf-8") as out:
-              w = csv.writer(out)
-              w.writerow(["file", "words"])
-              for r in rows:
-                  w.writerow(r)
-              w.writerow(["TOTAL", total])
 
-          # write GitHub summary
-          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as s:
-              s.write(f"# Repo Word Count\n\n**Total words: {total:,}**\n\n")
-              s.write("| File | Words |\n|------|------:|\n")
-              for path, wc in rows:
-                  s.write(f"| `{path}` | {wc:,} |\n")
+          with open("artifacts/wordcount.csv", "w", newline="", encoding="utf-8") as out:
+            w = csv.writer(out); w.writerow(["file","words"]); w.writerows(rows); w.writerow(["TOTAL", total])
+
+          with open("artifacts/by_folder.csv", "w", newline="", encoding="utf-8") as out:
+            w = csv.writer(out); w.writerow(["folder","words"]); w.writerows(folder_rows)
+
+          with open("artifacts/thin_files.csv", "w", newline="", encoding="utf-8") as out:
+            w = csv.writer(out); w.writerow(["file","words","threshold"])
+            for p,wc in thin_files: w.writerow([p,wc,MIN_FILE])
+
+          with open("artifacts/thin_folders.csv", "w", newline="", encoding="utf-8") as out:
+            w = csv.writer(out); w.writerow(["folder","words","threshold"])
+            for f,wc in thin_folders: w.writerow([f,wc,MIN_FOLDER])
+
+          # ---------- SUMMARY ----------
+          def md_table(headers, rows):
+            # rows: list of tuples
+            head = "| " + " | ".join(headers) + " |"
+            sep = "| " + " | ".join("---" for _ in headers) + " |"
+            body = "\n".join("| " + " | ".join(str(x) for x in r) + " |" for r in rows)
+            return "\n".join([head, sep, body]) if rows else "*None*"
+
+          summary = []
+          summary.append(f"# Repo Word Count — Gap Finder\n")
+          summary.append(f"**Total words (harsh prose-only): {total:,}**  \n")
+          summary.append(f"- Files counted: {len(rows):,}  \n- Thin file threshold: < {MIN_FILE} words  \n- Thin folder threshold: < {MIN_FOLDER:,} words\n")
+
+          # Top folders
+          top_folders = folder_rows[:MAX_ROWS]
+          summary.append("\n## Top folders by words\n")
+          summary.append(md_table(["Folder","Words"], [(f, f"{w:,}") for f,w in top_folders]))
+
+          # Thinnest folders
+          thinnest_folders = sorted(folder_rows, key=lambda x: x[1])[:MAX_ROWS]
+          summary.append("\n## Thinnest folders\n")
+          summary.append(md_table(["Folder","Words"], [(f, f"{w:,}") for f,w in thinnest_folders]))
+
+          # Thinnest files
+          thinnest_files = sorted(rows, key=lambda x: x[1])[:MAX_ROWS]
+          summary.append("\n## Thinnest files\n")
+          summary.append(md_table(["File","Words"], [(p, w) for p,w in thinnest_files]))
+
+          open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8").write("\n".join(summary))
           PY
 
-      - name: Upload CSV artifact
+      - name: Upload CSV artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: wordcount
-          path: artifacts/wordcount.csv
+          name: wordcount-gap-finder
+          path: artifacts/
