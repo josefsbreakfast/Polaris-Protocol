@@ -1,5 +1,5 @@
 # 🎶 Audit Suppression Cluster  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2025-10-03  
 *Entry point for suppression audit methodologies across books, media, and cultural works*  
 
 ---
@@ -18,15 +18,15 @@ It provides standardised methods, templates, and case-log structures so survivor
 
 ## 📂 Contents  
 
-- [📚 English-Language Book Suppression Audit Protocol](./📚_english_book_suppression_audit_protocol.md)  
+- [📚 English-Language Book Suppression Audit Protocol](./📚_audit_suppression_protocol_english.md)  
 - [🎧 Media Visibility Gap Protocol](./🎧_media_visibility_gap_protocol.md)  
 - [📊 Suppression Sampling Plan Template](./📊_suppression_sampling_plan_template.md)  
 - [🗂️ Case Study Log Template](./🗂️_case_study_log_template.md)  
 
 ---
 
-📎 Quick return: [🎶 Banned_Broadcasts_Cooperative](../)  
+📎 Quick return: [🎶 Banned_Broadcasts_Cooperative](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-03_
