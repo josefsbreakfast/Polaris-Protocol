@@ -47,12 +47,12 @@ This folder exists to track not only the suppression but the **resistance archit
 
 ## ✨ Subfolders  
 
-### `audit_suppression/`  
+### 🎟️ `audit_suppression/`  
 Protocols and templates for structured suppression audits.  
 
 * [🗂️ Case Study Log Template](./audit_suppression/🗂️_case_study_log_template.md) — blank structure for recording suppression cases.  
 
-### `data/`  
+### 🎟️ `data/`  
 Supporting evidence and structured analysis.  
 
 * [📊 Navy Transparency as Resistance](./data/📊_navy_transparency_as_resistance.md) — analytic node: FOIA-style release as resistance.  
