@@ -57,7 +57,7 @@ It collates cinematic works that became amplified by attempts to silence them,
 and supports broader diagnostics of narrative control across media formats.  
 
 > 📡 Cross-references:  
-> - [🔥 Suppression as Signal](../Big_Picture_Protocols/🔥_suppression_as_signal.md)  
+> - [🔥 Suppression as Signal](../🔥_suppression_as_signal.md)  
 > - [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
