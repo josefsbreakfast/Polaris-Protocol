@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 18:17:33 UTC_
+_Generated on 2025-10-03 18:25:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -682,6 +682,7 @@ _Generated on 2025-10-03 18:17:33 UTC_
     - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [`README.md`](Disruption_Kit/README.md)
+  - [`🛰️_digital_counter_containment_protocol.md`](Disruption_Kit/🛰️_digital_counter_containment_protocol.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
