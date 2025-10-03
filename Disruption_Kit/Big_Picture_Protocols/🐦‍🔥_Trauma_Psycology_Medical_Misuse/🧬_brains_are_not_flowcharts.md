@@ -103,7 +103,7 @@ Strip that away, and you strip away the difficult-to-define element that makes u
 
 ---
 
-## 🔀 Two-Flows Model  
+## 🧬 Two-Flows Model  
 
 What works instead is a **two-flows model**: disciplines need only a **summary grasp** of each other’s field to keep conversation open.  
 
