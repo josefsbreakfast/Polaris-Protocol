@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-02 21:42:08 UTC_
+_Generated on 2025-10-03 08:37:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -457,6 +457,7 @@ _Generated on 2025-10-02 21:42:08 UTC_
       - [`🕹️_gamified_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🕹️_gamified_extremism.md)
       - [`🛜_transnational_networks.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🛜_transnational_networks.md)
       - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
+      - [`🦁_individualism_as_containment_edge.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🦁_individualism_as_containment_edge.md)
       - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
       - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
       - [`🧠_utilisation_of_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)
