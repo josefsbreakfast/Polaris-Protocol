@@ -1,5 +1,5 @@
 # 🧠 Why Are We Threatened by Complexity?  
-**First created:** 2025-09-28 | **Last updated:** 2025-10-01  
+**First created:** 2025-09-28 | **Last updated:** 2025-10-03  
 *How “complexity” triggers escalation and bias*
 
 ---
@@ -11,7 +11,7 @@ This reflex drives escalation and “high value” labelling even where no wrong
 
 ---
 
-## 🌀 Patterns  
+## 📿 Patterns  
 
 - **Intelligence gap:** staff feel out of their depth; escalate to specialists.  
 - **Gendered and racialised bias:** women, minorities and non-conforming people more readily labelled “difficult” or “radicalised.”  
@@ -28,6 +28,18 @@ This reflex drives escalation and “high value” labelling even where no wrong
 
 ---
 
+## 🌌 Constellations  
+
+🧠 🧿 🌀 📚 — This node sits at the junction where difference is misread as danger.  
+It echoes Kafka’s *The Trial* and *The Castle*, where faceless systems grind down the “non-standard,” and films like *Minority Report* where prediction itself becomes pretext for escalation.  
+Stories of brilliant but misread figures — Alan Turing in *The Imitation Game*, John Nash in *A Beautiful Mind* — show how intelligence can be framed as risk rather than asset.  
+
+## ✨ Stardust  
+
+complexity bias, selector effect, escalation loops, minority over-policing, intellectual stereotyping, frequent flyer effect, non-standard individuals, bureaucratic fear, high-value labelling, misreading difference
+
+---
+
 ## 🏮 Footer  
 
 *Why Are We Threatened by Complexity?* is a living node of the Polaris Protocol.  
@@ -39,4 +51,4 @@ It documents how systems conflate complexity with threat, fuelling escalation lo
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-03_
