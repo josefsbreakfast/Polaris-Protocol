@@ -38,3 +38,13 @@ BDS also blew a gasket.
 Suprise, suprise.
 
 Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📜_statutory_censorship_logics.md
+
+---
+
+okay but fr i might need to restart the whole machine at this rate:  
+
+Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🕳_narrative_misattribution_and_war_testimony.md
+
+This is why editing take me so long. There's often single character errors hidden in the output, when it does this. It's urgh.  
+
+---
