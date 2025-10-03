@@ -1,12 +1,13 @@
 # Repository Index
 
-_Generated on 2025-10-03 19:42:55 UTC_
+_Generated on 2025-10-03 19:53:46 UTC_
 
 > Folders are bold; items are clickable.
 
 - [**.github/**](.github/)
   - [**workflows/**](.github/workflows/)
     - [`generate-index.yml`](.github/workflows/generate-index.yml)
+    - [`repo-wordcount.yml`](.github/workflows/repo-wordcount.yml)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
