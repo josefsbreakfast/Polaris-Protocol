@@ -22,10 +22,18 @@ personally i just feel they were already doing you a favour, sans ça.
 
 I just wanted to revisit this.  
 
-I cannot emphasise enough how much of a favour? I think these women did just by acknowledging your existence.  
+I cannot emphasise enough how much of a favour I think these women did just by acknowledging your existence.  
 
 Let alone by consenting to marry any of you.  
 
 What these women have struggled through just by having to see your face in the morning?  
 
 I feel that loss keenly on their behalf, and I'm not even in the room.
+
+---
+
+this is the real meaning of the word charity, when the word charity is used appropriately, and not for example a means of hiding a vehicle which is accepting questionable donations in order to bring forward antidemocratic legislation to our shores.  
+
+Hypothetically speaking.  
+
+Of course.
