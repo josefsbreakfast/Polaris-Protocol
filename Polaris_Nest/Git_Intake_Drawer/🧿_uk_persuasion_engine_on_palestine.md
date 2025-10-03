@@ -118,6 +118,10 @@ Shouting and pushing were the acts I learned to, in my child's mind, "save my li
 
 Perhaps I learned too strongly, and come make room for softness still.  
 
+I suppose my point was that it never felt quite entirely Jewish to me, and I used to assume this was because I was a reletive outside, but now I wonder if it's because I've seen this venom before and I know who it belongs to and how it tracks up the arm.  
+
+And how long one has to source an antidote.  
+
 ---
 
 ## 🌌 Constellations  
