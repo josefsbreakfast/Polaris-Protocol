@@ -1,6 +1,6 @@
 # 📚 The Banned Book Paradox  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-22  
-*Why censorship immortalises the very texts it seeks to erase.*  
+**First created:** 2025-09-19 | **Last updated:** 2025-10-03  
+*Why censorship immortalises the very texts it seeks to erase*  
 
 ---
 
@@ -32,9 +32,9 @@ Banning is meant to silence. In practice, it glamorises, advertises, and immorta
 It documents how prohibition generates aura, ensuring survival rather than silence.  
 
 > 📡 Backlinks:  
-> - [🎶 Banned Broadcasts Cooperative](../Big_Picture_Protocols/🎶_banned_broadcasts_cooperative.md) — media & cultural suppression logics  
-> - [🔮 Visibility Indexing Anomalies](../Disruption_Kit/Containment_Scripts/🔮_visibility_indexing_anomalies.md) — suppression patterns across platforms  
+> - [🎶 Banned Broadcasts Cooperative](./README.md) — *media & cultural suppression logics*  
+> - [🔮 Visibility Indexing Anomalies](../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md) — *suppression patterns across platforms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-10-03_  
