@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 21:02:39 UTC_
+_Generated on 2025-10-03 21:03:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -249,6 +249,12 @@ _Generated on 2025-10-03 21:02:39 UTC_
       - [`🧿_canonisation_by_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)
     - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/README.md)
+      - [`♿_containment_by_pity.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/♿_containment_by_pity.md)
+      - [`🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md)
+      - [`👁️‍🗨️_surveillance_of_disabled_bodies.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md)
+      - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
+      - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
+      - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/README.md)
       - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🎙️_why_they_collect_audio.md)
