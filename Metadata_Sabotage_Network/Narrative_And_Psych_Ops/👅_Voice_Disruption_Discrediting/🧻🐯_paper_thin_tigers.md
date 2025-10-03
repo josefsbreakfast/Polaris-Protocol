@@ -57,7 +57,7 @@ It documents the universal fragility of authoritarian masculinity and the corros
 
 > 📡 Cross-references:  
 > - [🔥 The Strength of Humour](./🔥_the_strength_of_humour.md) — laughter as solvent of authoritarian performance  
-> - [🎭 Laughing at Strongmen](./🎭_laughing_at_strongmen.md) — cabaret and caricature traditions  
+> - [🎭 Laughing at Strongmen] - *WIP* — *cabaret and caricature of authoritarian figures*  
 > - [🤣 The President as Mark](./🍊_the_president_as_mark.md) — Trump as the archetypal “mark”  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
