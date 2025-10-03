@@ -1,6 +1,6 @@
 # 🎬 Suppression Legends Film Index  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-29  
-*Films that became cultural detonators precisely because someone tried to mute them.*  
+**First created:** 2025-09-29 | **Last updated:** 2025-10-03  
+*Films that became cultural detonators precisely because someone tried to mute them*  
 
 ---
 
@@ -27,30 +27,39 @@ Some were targeted for political messaging. Others became inconvenient in retros
 
 ## 🌌 Constellations  
 
-🎬 🔥 📜 🧿 🕸️ — This node collects cultural artefacts that survived suppression attempts  
-and now serve as **reference points for state memory control**, dissent, and rupture.
+🎬 🔥 📜 🧿 🕸️ — This node collects cultural artefacts that survived suppression attempts,  
+serving as **reference points for state memory control, dissent, and rupture**.  
+
+**Extended constellation (cultural):**  
+- *Battleship Potemkin* (1925) — censored in many countries, canonised later.  
+- *Salt of the Earth* (1954) — banned in the U.S. for union and feminist politics.  
+- *La Haine* (1995) — embraced as cinema, censored in music’s parallel struggle.  
+- *4 Months, 3 Weeks and 2 Days* (2007) — Romanian film on abortion under Ceaușescu, initially blocked in distribution.  
+
+**Extended constellation (legal/historical):**  
+- *Obscene Publications Act* cases (UK, 1960s–80s) — used to block political/cultural films.  
+- U.S. “Hollywood Blacklist” era — careers ended, works suppressed.  
+- Indian Censor Board bans (1970s–present).  
+- Documentary suppression in Israel/Palestine (e.g. *Tantura*, *Jenin, Jenin*).  
 
 ---
 
 ## ✨ Stardust  
 
-film censorship, banned films, political cinema, media erasure,  
-Boycott documentary, While We Watched, Persepolis, Tantura,  
-The Lives of Others, Sophie Scholl, Searching for Sugar Man,  
-cinematic resistance, state propaganda, memory control  
+film censorship, banned films, political cinema, media erasure, Boycott documentary, While We Watched, Persepolis, Tantura, The Lives of Others, Sophie Scholl, Searching for Sugar Man, cinematic resistance, state propaganda, memory control, blacklisted cinema  
 
 ---
 
 ## 🏮 Footer  
 
-*Suppression Legends Film Index* is a living node of the Polaris Protocol.  
+*🎬 Suppression Legends Film Index* is a living node of the Polaris Protocol.  
 It collates cinematic works that became amplified by attempts to silence them,  
 and supports broader diagnostics of narrative control across media formats.  
 
 > 📡 Cross-references:  
 > - [🔥 Suppression as Signal](../Big_Picture_Protocols/🔥_suppression_as_signal.md)  
-> - [🎶 Banned Broadcasts Cooperative](../🎶 Banned_Broadcasts_Cooperative/)  
+> - [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-03_  
