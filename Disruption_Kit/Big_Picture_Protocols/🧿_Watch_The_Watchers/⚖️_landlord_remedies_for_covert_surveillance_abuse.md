@@ -112,9 +112,9 @@ landlord remedies, covert surveillance, harassment, breach of lease, economic to
 It documents the civil, tortious, and regulatory claims available when landlords discover their property has been weaponised into a surveillance hub.  
 
 > 📡 Cross-references:  
-> - [📜 Statutes](../Big_Picture_Protocols/📜_statutes) — systemic legal architectures  
-> - [🧿 Watch the Watchers](../Big_Picture_Protocols/🧿_watch_the_watchers) — oversight of oversight  
-> - [👅 Voice Disruption & Discrediting](../Metadata_Sabotage_Network/👅_voice_disruption_discrediting.md) — harassment and sexualised surveillance patterns  
+> - [📜 Statutes](.//📜_statutes) — *systemic legal architectures*  
+> - [🧿 Watch the Watchers](./) — *oversight of oversight*  
+> - [👅 Voice Disruption & Discrediting](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *harassment and sexualised surveillance patterns*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
