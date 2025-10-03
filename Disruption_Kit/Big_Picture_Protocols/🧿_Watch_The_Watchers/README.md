@@ -6,56 +6,38 @@
 
 ## 🌱 Scope  
 
-This folder gathers nodes where the camera, the log, or the archive is turned back on the observer.  
-It is not passive witness — it is active inversion.  
+This cluster gathers nodes where surveillance is turned inside-out.  
+The watcher is watched, the secret policeman photographed, the contractor logged, the badge mocked.  
+It is not passive witness — it is active inversion, a survival tactic, and often a form of art.  
 
-Here, the gaze is reversed.  
-Where the state watches, citizens watch back.  
-Where secrecy thrives, exposure becomes survival.  
+---
 
-Examples include:  
-- Street photography of secret police and plainclothes operatives  
-- Protester documentation of undercover agents  
-- Community practices of naming and exposing surveillance actors  
-- Tactical use of images, leaks, or metadata to disrupt secrecy  
+## 📂 Nodes in this Cluster  
 
-Like George Smiley in *Tinker, Tailor, Soldier, Spy*, the work is often patient, weary, and forensic.  
-Like Winston in *1984*, it sometimes feels futile until the document itself survives as proof.  
-Like *The Lives of Others*, it reminds us that listening can be turned back into testimony.  
+- [📸 History of Street Photography as Counter-Surveillance](./📸_history_of_street_photography_as_counter_surveillance.md)  
+  *How cameras have been used against secret police, from the Stasi to Hong Kong, and why the image is both archive and tactic.*  
+
+- [💄 Let's Play!: Surveillance or Pervert-with-a-Badge?](./💄_lets_play_surveillance_or_pervert_with_a_badge.md)  
+  *A satirical parlour game showing how “serious” spycraft often collapses into voyeurism and fetish once the badge is removed.*  
+
+- [🛫 Frequent Flyers Club](./🛫_frequent_flyers_club.md)  
+  *Individuals repeatedly caught in overlapping surveillance loops, with survivor counter-nudges for documenting the pattern.*  
+
+- [🛰️ Overlapping Surveillance Layers](./🛰️_overlapping_surveillance_layers.md)  
+  *How commercial and state systems run in parallel, handing off cases so that a person experiences them as one continuous watch.*  
+
+- [🧠 Why Are We Threatened by Complexity?](./🧠_why_are_we_threatened_by_complexity.md)  
+  *How “complex” or highly intelligent individuals are flagged as threats, fuelling escalation and “forever files.”*  
 
 ---
 
 ## 📡 Cross-References  
 
-- [👁️‍🗨️ Witness Histories](../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles) — aligned but not the same; witness becomes strategy here  
-- [🗝️ Politics & Memory Work](../Big_Picture_Protocols/🗝️_Politics_Memory_Work) — where exposure contests erasure  
-- [Disruption Kit](../../Disruption_Kit) — survivor-led tools, field logs, countermeasures  
+- [👁️‍🗨️ Witness Histories](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *aligned but distinct: here witness becomes strategy*  
+- [🗝️ Politics & Memory Work](../🗝️_Politics_Memory_Work/README.md) — *where exposure contests erasure*  
+- [Disruption Kit](../../Disruption_Kit/README.md) — *survivor-led tools, field logs, countermeasures*  
 
 ---
-
-## 🌌 Constellations  
-
-🧿 📸 🔮 🎥 — Counter-surveillance is both archive and cinema: part Brontë gothic, part Snowden documentary.  
-It threads through novels like *Jane Eyre*, dystopias like *The Circle*, and films like *Citizenfour*.  
-
----
-
-## ✨ Stardust  
-
-counter-surveillance, exposure, citizen documentation, secret police, street photography, leaks, metadata disruption, tinker tailor, 1984, lives of others  
-
----
-
-## 🏮 Footer  
-
-*Watch the Watchers* is a living node of the Polaris Protocol.  
-It gathers protocols and testimonies where surveillance itself becomes the object of scrutiny.  
-
-> 📡 Cross-references:
-> 
-> - [👁️‍🗨️ Witness Histories](../👁️‍🗨️_Witness_Historical_Casefiles) - *Hybrid forensic/big picture casefiles that preserve testimony, metadata, and community vulnerabilities*  
-> - [🗝️ Politics & Memory Work](../🗝️_Politics_Memory_Work) - *Doctrine on memory, surveillance, and the political economy of trauma and containment*  
-> - [Disruption Kit](../../Disruption_Kit) - *Operational tools, forensic logs, and countermeasures for resisting behavioural containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
