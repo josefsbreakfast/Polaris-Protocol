@@ -17,3 +17,15 @@ i may also feel less inclined to explain *in graphic detail* what you did with m
 i personally feel they are owed 90% *at least* of your and any joint assets.
 
 personally i just feel they were already doing you a favour, sans ça. 
+
+---
+
+I just wanted to revisit this.  
+
+I cannot emphasise enough how much of a favour? I think these women did just by acknowledging your existence.  
+
+Let alone by consenting to marry any of you.  
+
+What these women have struggled through just by having to see your face in the morning?  
+
+I feel that loss keenly on their behalf, and I'm not even in the room.
