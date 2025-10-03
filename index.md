@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 18:25:59 UTC_
+_Generated on 2025-10-03 18:26:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -646,6 +646,7 @@ _Generated on 2025-10-03 18:25:59 UTC_
     - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
     - [`🗃️_ten_year_box.md`](Disruption_Kit/Survivor_Tools/🗃️_ten_year_box.md)
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
+    - [`🛰️_digital_counter_containment_protocol.md`](Disruption_Kit/Survivor_Tools/🛰️_digital_counter_containment_protocol.md)
     - [`🛰️_metadata_monitor_checklist.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_monitor_checklist.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
     - [`🧠_intellectualisation_as_trauma_response.md`](Disruption_Kit/Survivor_Tools/🧠_intellectualisation_as_trauma_response.md)
@@ -682,7 +683,6 @@ _Generated on 2025-10-03 18:25:59 UTC_
     - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [`README.md`](Disruption_Kit/README.md)
-  - [`🛰️_digital_counter_containment_protocol.md`](Disruption_Kit/🛰️_digital_counter_containment_protocol.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
