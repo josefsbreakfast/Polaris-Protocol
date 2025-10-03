@@ -6,11 +6,14 @@
 
 ## 🌱 Scope  
 
+When a home is covertly converted into a surveillance hub, the landlord is not a bystander — they are drafted into risk.  
+Reputation, regulation, and professional standing become collateral damage.  
+
 This node maps the remedies available to a landlord–solicitor who discovers that tenants:  
-- Used the premises unlawfully as a workplace for surveillance.  
-- Engaged in harassment, sexualised monitoring, and interference with communications.  
-- Concealed business registration, tax affairs, and drilled infrastructure without consent.  
-- Exposed the landlord to regulatory, reputational, and business risk.  
+- Used the premises unlawfully as a workplace for surveillance.
+- Engaged in harassment, sexualised monitoring, and interference with communications.
+- Concealed business registration, tax affairs, and drilled infrastructure without consent.
+- Exposed the landlord to regulatory, reputational, and business risk.
 
 ---
 
@@ -95,8 +98,9 @@ This node maps the remedies available to a landlord–solicitor who discovers th
 ⚖️ 👻 🕯️ 🧿 — This node belongs in the gothic register of property, power, and unseen observation.  
 Hidden rooms, brooding estates, and landlords who shift between guardians and threats recall *Jane Eyre* and *Wuthering Heights*.  
 The estate as psychological trap (*Rebecca*), the watcher whose gaze may be spectral (*The Turn of the Screw*), and litigation as endless surveillance (*Bleak House*) all echo through this terrain.  
-Civil remedies here are not just legal instruments — they are constellations of haunting, where tenancy and trespass blur with the gothic imagination.  
-Literary constellations of surveillance-as-haunting tie civil remedies to spectral trespass.  
+Beyond the gothic, films like *The Lives of Others* show how domestic space becomes a stage for surveillance, while documentaries like *Dirty Money* reveal property itself as a compromised financial and reputational asset.  
+
+Civil remedies here are not just legal instruments — they are constellations of haunting, where tenancy and trespass blur with the gothic imagination.
 <!--Not my landlords; I'm just thinking on the theme. It's art.-->
 ---
 
