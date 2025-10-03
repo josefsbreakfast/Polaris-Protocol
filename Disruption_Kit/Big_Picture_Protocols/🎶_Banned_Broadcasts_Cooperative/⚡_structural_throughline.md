@@ -1,5 +1,5 @@
 # ⚡ Structural Throughline  
-**First created:** 2025-09-15 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-15 | **Last updated:** 2025-10-03  
 *Synthesis: containment strikes at legitimacy, not danger*  
 
 ---
@@ -57,6 +57,30 @@ Suppression does not follow danger. It follows threat to legitimacy.
 
 ---
 
+## 🌌 Constellations  
+
+⚡ 🛰️ 📿 🪄 — This node sits in the synthesis register, tracing suppression across media, memory, and survivor voice.  
+
+**Extended constellation (cultural):**  
+- *Nineteen Eighty-Four* (George Orwell) — erasure and rewriting as state legitimacy.  
+- *The Book of Laughter and Forgetting* (Milan Kundera) — memory repression as political weapon.  
+- *Songs of Freedom* (Paul Robeson, Nina Simone) — outlaw voices turned cultural heritage.  
+- *The Ministry of Utmost Happiness* (Arundhati Roy) — voices suppressed then co-opted.  
+
+**Extended constellation (legal/historical):**  
+- *Obscene Publications Act 1959* — censorship framed as public order.  
+- *R v Penguin Books Ltd* (1961, *Lady Chatterley’s Lover* trial) — legitimacy panic through obscenity.  
+- *Anand Patwardhan v CBFC* — Indian documentary censorship case.  
+- Historical: Usha Mehta’s *Congress Radio* during Quit India (1942).  
+
+---
+
+## ✨ Stardust  
+
+containment cycles, pirate radio, banned books, memory rewriting, testimony suppression, censorship, legitimacy optics, political repression, cultural policing, survivor voice  
+
+---
+
 ## 🏮 Footer  
 *⚡ Structural Throughline* is a living node of the Polaris Protocol.  
 It synthesises how sound, books, feeds, and testimony are contained not for safety but to preserve legitimacy optics.  
@@ -71,4 +95,4 @@ It synthesises how sound, books, feeds, and testimony are contained not for safe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-03_  
