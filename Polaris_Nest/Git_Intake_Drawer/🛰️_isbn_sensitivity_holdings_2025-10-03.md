@@ -48,3 +48,7 @@ Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🕳_nar
 This is why editing take me so long. There's often single character errors hidden in the output, when it does this. It's urgh.  
 
 ---
+
+tiktok feed accoumpyment is a lot of stuff that proped me to search and discover that that simpsons skit with troy mcclure and the fish is practically wiped.  
+
+does one of the surveillance bros have a thing for fish? idk.  
