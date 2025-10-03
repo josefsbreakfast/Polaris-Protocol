@@ -1,6 +1,6 @@
 # 🧠 Erosion of Extracurricular and Anatomy  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
-*How per-head funding logic strips away tacit skills and cultural experience.*  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-03  
+*How per-head funding logic strips away tacit skills and cultural experience*  
 
 ---
 
@@ -17,7 +17,7 @@ Now they are the first to be cut, because they do not map onto KPI or per-head m
 
 ---
 
-## 🫁 Anatomy lost  
+## 🫁 Anatomy Lost  
 
 - Dissection rooms once trained not just skills, but values.  
 - Human Tissue Act + per-head economics = closures.  
@@ -26,7 +26,7 @@ Now they are the first to be cut, because they do not map onto KPI or per-head m
 
 ---
 
-## ⚽️ Extracurricular squeezed  
+## ⚽️ Extracurricular Squeezed  
 
 - Wednesday afternoons off (for sport/societies) eroded.  
 - Students working part-time jobs to cover living costs.  
@@ -42,15 +42,27 @@ is hollowed out by spreadsheet logic.
 
 ---
 
+## 🌌 Constellations  
+
+🧠 🫁 ⚽️ 🎓 — This node traces the tacit and cultural erosion of UK education under per-head economics.  
+
+---
+
+## ✨ Stardust  
+
+tacit knowledge, cadaveric dissection, extracurricular decline, sports, societies, cultural exchange, higher education, funding logic, uk universities, erosion  
+
+---
+
 ## 🏮 Footer  
 
 *Erosion of Extracurricular and Anatomy* is a living node of the Polaris Protocol.  
 It documents the tacit, cultural elements of British education that per-head logic has destroyed.  
 
 > 📡 Cross-references:  
-> - [📜 Funding and Charitable Status Timeline](./📜_funding_and_charitable_status_timeline.md)  
+> - [📜 Funding and Charitable Status Timeline](./📜_funding_charitable_status_timeline.md)  
 > - [🌍 Soft Power and International Resentment](./🌍_soft_power_and_international_resentment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2025-10-03_  
