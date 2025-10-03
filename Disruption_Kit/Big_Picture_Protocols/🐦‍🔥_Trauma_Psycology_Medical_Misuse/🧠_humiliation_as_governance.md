@@ -1,5 +1,5 @@
 # 🧠 Humiliation as Governance  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-03  
 *Marking and degrading the “other” as a systemic tactic of European governance*  
 
 ---
@@ -86,16 +86,28 @@ Survivors feel it personally, but it is structural: designed to externalise, sti
 
 ---
 
+## 🌌 Constellations  
+
+🧠 🔖 🔥 🪢 — This node maps humiliation as a deliberate governance tactic, from medieval badges to systemic containment loops.  
+
+---
+
+## ✨ Stardust  
+
+humiliation, governance, antisemitism, containment loops, european history, pogroms, ghettos, ridicule, dhimmi comparison, systemic violence, survivor testimony  
+
+---
+
 ## 🏮 Footer  
 
 *Humiliation as Governance* is a living node of the Polaris Protocol.  
 It traces the European lineage of humiliation-marking from medieval badges to Nazi stars, distinguishing it from other systems of subordination and showing how humiliation was weaponised into violence.  
 
 > 📡 Cross-references:  
-> - [🗝️ Deliberate Cultural Violation](../🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — repeated violation of faith and ritual as governance  
-> - [🌀 Forced Migration as Governance](../🌀_System_Governance/🌀_forced_migration_as_governance.md) — displacement as control  
-> - [🧠 Psychological_Containment](../🧠_Psychological_Containment/) — wider tactics of containment by shame, waiting, and ridicule  
+> - [🗝️ Deliberate Cultural Violation](../🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — *repeated violation of faith and ritual as governance*  
+> - [🌀 Forced Migration as Governance](../🌀_System_Governance/🌀_forced_migration_as_governance.md) — *displacement as control*  
+> - [🧠 Psychological Containment](../🧠_psychological_containment/) — *wider tactics of containment by shame, waiting, and ridicule*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-03_  
