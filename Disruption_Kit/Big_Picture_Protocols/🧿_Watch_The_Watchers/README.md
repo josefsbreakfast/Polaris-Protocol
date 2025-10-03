@@ -51,10 +51,11 @@ counter-surveillance, exposure, citizen documentation, secret police, street pho
 *Watch the Watchers* is a living node of the Polaris Protocol.  
 It gathers protocols and testimonies where surveillance itself becomes the object of scrutiny.  
 
-> 📡 Cross-references:  
-> - [👁️‍🗨️ Witness Histories](../👁️‍🗨️_Witness_Historical_Casefiles)  
-> - [🗝️ Politics & Memory Work](../🗝️_Politics_Memory_Work)  
-> - [Disruption Kit](../../Disruption_Kit)  
+> 📡 Cross-references:
+> 
+> - [👁️‍🗨️ Witness Histories](../👁️‍🗨️_Witness_Historical_Casefiles) - *Hybrid forensic/big picture casefiles that preserve testimony, metadata, and community vulnerabilities*  
+> - [🗝️ Politics & Memory Work](../🗝️_Politics_Memory_Work) - *Doctrine on memory, surveillance, and the political economy of trauma and containment*  
+> - [Disruption Kit](../../Disruption_Kit) - *Operational tools, forensic logs, and countermeasures for resisting behavioural containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
