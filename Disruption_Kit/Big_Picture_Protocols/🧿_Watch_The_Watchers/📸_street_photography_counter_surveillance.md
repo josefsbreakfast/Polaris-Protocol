@@ -133,14 +133,16 @@ Each goal carried distinct logics and contexts:
 
 - *Eye of Sauron* (Tolkien) as mythic precursor to Foucault’s panopticon — the totalising gaze.  
 - *Tinker, Tailor, Soldier, Spy* (Le Carré) for the banality and schoolboy rituals of surveillance.  
-- Free speech nonfiction on Hong Kong (2019–20) as direct contemporary mirror.  
-- This node sits where street photography meets literary imagination and political archive.  
+- Susan Sontag’s *On Photography* and Ariella Azoulay’s *The Civil Contract of Photography* for theory of witness.  
+- Films like *The Lives of Others* (Stasi), *Citizenfour* (Snowden), and *Do Not Split* (Hong Kong protests) as moving-image companions.  
+- Free speech nonfiction on Hong Kong situates photography as both civic witness and criminalised act.  
+This node sits where street photography meets literary imagination and political archive.  
 
 ---
 
 ## ✨ Stardust  
 
-street photography, counter-surveillance, secret police, protest tactics, literary surveillance, eye of sauron, panopticon, john le carré, hong kong free speech, witness  
+street photography, counter-surveillance, secret police, protest tactics, witness photography, photography theory, visual archive, memory politics, hong kong protests, civil resistance, panopticon
 
 ---
 
@@ -150,9 +152,9 @@ street photography, counter-surveillance, secret police, protest tactics, litera
 It traces how cameras have been used to turn surveillance inside-out, across geographies and decades, and across both literary and political imagination.  
 
 > 📡 Cross-references:  
-> - [👁️‍🗨️ Witness Histories](../../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles) — *forensic accounts of watching and being watched*  
-> - [🎶 Banned Broadcasts Cooperative](../../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative) — *cultural removals and state secrecy*  
-> - [🗝️ Politics & Memory Work](../../Big_Picture_Protocols/🗝️_Politics_Memory_Work) — *contested histories and erasures*  
+> - [👁️‍🗨️ Witness Histories](../../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic accounts of watching and being watched*  
+> - [🎶 Banned Broadcasts Cooperative](../../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural removals and state secrecy*  
+> - [🗝️ Politics & Memory Work](../../Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md) — *contested histories and erasures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
