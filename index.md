@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 15:19:35 UTC_
+_Generated on 2025-10-03 15:23:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1069,6 +1069,7 @@ _Generated on 2025-10-03 15:19:35 UTC_
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`💸_propaganda_to_tarot.md`](Polaris_Nest/Git_Intake_Drawer/💸_propaganda_to_tarot.md)
     - [`📈_Sales_Suppression_vs_Viral_Spike.png`](Polaris_Nest/Git_Intake_Drawer/📈_Sales_Suppression_vs_Viral_Spike.png)
+    - [`📛_goyish_polizei.md`](Polaris_Nest/Git_Intake_Drawer/📛_goyish_polizei.md)
     - [`🔥_10_years_of_denied_rage_hurts.md`](Polaris_Nest/Git_Intake_Drawer/🔥_10_years_of_denied_rage_hurts.md)
     - [`🔥_data_mafia_debrief.md`](Polaris_Nest/Git_Intake_Drawer/🔥_data_mafia_debrief.md)
     - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Polaris_Nest/Git_Intake_Drawer/🕌_ornamental_survival_and_misfiled_survivals.md)
