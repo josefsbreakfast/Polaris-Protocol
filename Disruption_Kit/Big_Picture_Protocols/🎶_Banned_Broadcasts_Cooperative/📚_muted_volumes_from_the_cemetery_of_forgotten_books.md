@@ -163,7 +163,8 @@ muted books, cemetery of forgotten books, metadata suppression, discoverability 
 
 > 📡 Cross-references:  
 > - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md) - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*  
-> - [🪞 Cascade of Chilling] *WIP* 
+> - [🪞 Cascade of Chilling] *WIP*
+> - [🎶 Audit Suppression Cluster](./audit_suppression) - *Entry point for suppression audit methodologies across books, media, and cultural works*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
