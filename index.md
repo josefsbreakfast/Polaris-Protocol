@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 18:28:10 UTC_
+_Generated on 2025-10-03 18:32:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -12,8 +12,12 @@ _Generated on 2025-10-03 18:28:10 UTC_
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
     - [`🌀_loop_interruption.md`](Disruption_Kit/AntiContainment_Clauses/🌀_loop_interruption.md)
     - [`👻_ghost_fork_response_behaviour.md`](Disruption_Kit/AntiContainment_Clauses/👻_ghost_fork_response_behaviour.md)
+    - [`📉_no_invisible_interference_clause.md`](Disruption_Kit/AntiContainment_Clauses/📉_no_invisible_interference_clause.md)
     - [`📿_survivor_syntax.md`](Disruption_Kit/AntiContainment_Clauses/📿_survivor_syntax.md)
+    - [`🔮_visibility_is_a_right_clause.md`](Disruption_Kit/AntiContainment_Clauses/🔮_visibility_is_a_right_clause.md)
     - [`🕸_metadata_defense.md`](Disruption_Kit/AntiContainment_Clauses/🕸_metadata_defense.md)
+    - [`🛰️_digital_counter_containment_clause.md`](Disruption_Kit/AntiContainment_Clauses/🛰️_digital_counter_containment_clause.md)
+    - [`🪅_ranking_is_not_neutral_clause.md`](Disruption_Kit/AntiContainment_Clauses/🪅_ranking_is_not_neutral_clause.md)
     - [`🪓_mean_evidence_template.md`](Disruption_Kit/AntiContainment_Clauses/🪓_mean_evidence_template.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
