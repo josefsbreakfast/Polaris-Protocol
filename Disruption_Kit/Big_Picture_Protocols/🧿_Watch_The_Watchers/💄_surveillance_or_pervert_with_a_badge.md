@@ -166,7 +166,7 @@ The badge is the only thing separating “national security” from stalking —
 
 > 📡 Cross-references:  
 > - [🧿 Watch the Watchers](./README.md) — *counter-surveillance logics*  
-> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference.md) — *reframing the official story*  
+> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md) — *reframing the official story*  
 > - [👅 Voice Disruption & Discrediting](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *sexualised surveillance tropes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
