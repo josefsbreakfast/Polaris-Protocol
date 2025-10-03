@@ -1,5 +1,5 @@
 # 🔥 The Strength of Humour  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-03  
 *How laughter punctures authoritarian performance and dissolves fear.*
 
 ---
@@ -70,7 +70,7 @@ Laughter is a disarmament tool. Where sanctions and speeches harden resolve, rid
 It documents why ridicule remains one of the most effective countermeasures against authoritarian myth-making.  
 
 > 📡 Cross-references:  
-> - [🎭 Laughing at Strongmen](./🎭_laughing_at_strongmen.md) — cabaret, satire, and ridicule as systemic solvent  
+> - [🎭 Laughing at Strongmen] - *WIP* — *cabaret and caricature of authoritarian figures*  
 > - [Big Picture Protocols](../../Big_Picture_Protocols/) — structural diagnostics of authoritarian behaviour  
 > - [Narrative and Psych Ops](../Narrative_and_Psych_Ops/) — applied counter-narratives  
 
