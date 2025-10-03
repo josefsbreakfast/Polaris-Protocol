@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 21:41:03 UTC_
+_Generated on 2025-10-03 22:03:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1105,6 +1105,7 @@ _Generated on 2025-10-03 21:41:03 UTC_
     - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
     - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
     - [`🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md)
+    - [`🛰️_surviellance_ shidduchim_continues.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_surviellance_ shidduchim_continues.md)
     - [`🛰️_the_busyness_of_the_bee.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_the_busyness_of_the_bee.md)
     - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
     - [`🛰️_white_men_being_white_men.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_men_being_white_men.md)
