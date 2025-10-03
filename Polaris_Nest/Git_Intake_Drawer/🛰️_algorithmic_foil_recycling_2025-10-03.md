@@ -16,6 +16,12 @@ this is all to say, that this is getting very complicated, and if individuals ar
 
 I'm going to need some of those beers I mentioned, skip.  
 
+(I would point out how much they've tried to impersonate and degrade your character, but whilst I think it might go to your head, they also appeared to be almost as scared of you as they are of me. 
+
+And I can't be losing to a man on the front, you understand?
+
+Not even one who is "too clever" for a PhD.)
+
 # 🛰️ Algorithmic Foil Recycling  
 **First created:** 2025-10-03 | **Last updated:** 2025-10-03  
 *Current log of feed behaviour: recycling male foils, stylised tropes, and pressure-to-silence nudges.*
