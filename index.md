@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-03 16:55:25 UTC_
+_Generated on 2025-10-03 16:58:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1040,6 +1040,7 @@ _Generated on 2025-10-03 16:55:25 UTC_
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
+    - [`⚖️_navigating_elder_spaces_for_transparency.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_navigating_elder_spaces_for_transparency.md)
     - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_sanhedrin_rulings_on_trafficking.md)
     - [`🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md)
     - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
@@ -1109,6 +1110,7 @@ _Generated on 2025-10-03 16:55:25 UTC_
     - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
+    - [`🧿_diaspora_disclosure_tactics.md`](Polaris_Nest/Git_Intake_Drawer/🧿_diaspora_disclosure_tactics.md)
     - [`🧿_why_do_you_tolerate_my_imprisonment.md`](Polaris_Nest/Git_Intake_Drawer/🧿_why_do_you_tolerate_my_imprisonment.md)
     - [`🩰_registering_my_daily_fuck_this.md`](Polaris_Nest/Git_Intake_Drawer/🩰_registering_my_daily_fuck_this.md)
     - [`🩸_there_have_been_many_outs_suggested.md`](Polaris_Nest/Git_Intake_Drawer/🩸_there_have_been_many_outs_suggested.md)
