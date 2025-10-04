@@ -10,9 +10,11 @@ permissions:
   contents: read
 
 env:
-  MIN_FILE_WORDS: "250"     # files under this are flagged as thin
-  MIN_FOLDER_WORDS: "5000"  # folders under this are flagged as thin
-  MAX_ROWS_IN_SUMMARY: "20" # how many rows to show per table in the summary
+  MIN_FILE_WORDS: "500"      # files under this are flagged as thin
+  MIN_FOLDER_WORDS: "5000"   # folders under this are flagged as thin
+  MAX_ROWS_IN_SUMMARY: "20"  # rows per table in the summary
+  # Excluded from "thinnest files" gap lists (but STILL included in totals):
+  GAPS_IGNORE_PATHS: "Polaris_Nest,Disruption_Kit/Field_Logs"
 
 jobs:
   count:
@@ -31,12 +33,18 @@ jobs:
       - name: Count words (harsh prose-only) + gap finder
         run: |
           python - <<'PY'
-          import os, re, csv, itertools, textwrap, json
+          import os, re, csv
 
           # ---------- SETTINGS ----------
-          MIN_FILE = int(os.getenv("MIN_FILE_WORDS", "250"))
+          MIN_FILE = int(os.getenv("MIN_FILE_WORDS", "500"))
           MIN_FOLDER = int(os.getenv("MIN_FOLDER_WORDS", "5000"))
           MAX_ROWS = int(os.getenv("MAX_ROWS_IN_SUMMARY", "20"))
+          IGNORE_RAW = os.getenv("GAPS_IGNORE_PATHS", "")
+          IGNORE_PREFIXES = [p.strip().strip("/").lower() for p in IGNORE_RAW.split(",") if p.strip()]
+
+          def is_ignored(path: str) -> bool:
+            norm = path.strip().lstrip("./").replace("\\", "/").lower()
+            return any(norm == pref or norm.startswith(pref + "/") for pref in IGNORE_PREFIXES)
 
           # ---------- COLLECT FILES ----------
           root = "."
@@ -44,7 +52,7 @@ jobs:
           md_exts = (".md", ".markdown", ".mdx", ".txt")  # still prose-biased
 
           files = []
-          for base, _, fs in os.walk(root):
+          for base, dirs, fs in os.walk(root):
             parts = [p for p in base.split(os.sep) if p not in (".","")]
             if any(p in skip_names or p.startswith(".") for p in parts):
               continue
@@ -53,10 +61,10 @@ jobs:
                 files.append(os.path.join(base, f))
 
           # ---------- HARSH STRIP ----------
-          fm_re = re.compile(r"^---\n.*?\n---\n", re.DOTALL)      # YAML front matter
-          fence_re = re.compile(r"```.*?```", re.DOTALL)          # fenced code blocks (incl. mermaid)
-          link_re = re.compile(r"\[([^\]]+)\]\([^)]+\)")          # keep link text, drop urls
-          html_re = re.compile(r"<[^>]+>")                        # drop html tags
+          fm_re = re.compile(r"^---\n.*?\n---\n", re.DOTALL)     # YAML front matter
+          fence_re = re.compile(r"```.*?```", re.DOTALL)         # fenced code blocks (incl. mermaid)
+          link_re = re.compile(r"\[([^\]]+)\]\([^)]+\)")         # keep link text, drop urls
+          html_re = re.compile(r"<[^>]+>")                       # drop html tags
           ws_re = re.compile(r"\s+")
 
           def count_words(path):
@@ -65,7 +73,7 @@ jobs:
             except Exception:
               return 0
             txt = fm_re.sub("", txt, count=1)
-            txt = fence_re.sub("", txt)                           # harsh: remove code/mermaid/tables
+            txt = fence_re.sub("", txt)
             txt = link_re.sub(r"\1", txt)
             txt = html_re.sub(" ", txt)
             txt = ws_re.sub(" ", txt).strip()
@@ -75,20 +83,24 @@ jobs:
           total = 0
           for p in sorted(files):
             wc = count_words(p)
-            rows.append((p, wc))
+            rows.append((p.replace("\\","/"), wc))
             total += wc
 
           # ---------- AGGREGATE ----------
           def top_folder(p):
             parts = p.split("/")
             return parts[0] if parts else p
+
           by_folder = {}
           for p, wc in rows:
             by_folder[top_folder(p)] = by_folder.get(top_folder(p), 0) + wc
           folder_rows = sorted(by_folder.items(), key=lambda x: x[1], reverse=True)
 
-          thin_files = [(p,w) for p,w in rows if w < MIN_FILE]
-          thin_files.sort(key=lambda x: x[1])                      # lowest first
+          # Gap sets (respect ignore list for *files*)
+          thin_files = [(p,w) for p,w in rows if (w < MIN_FILE) and not is_ignored(p)]
+          thin_files.sort(key=lambda x: x[1])
+
+          # Folders: still checked normally for < MIN_FOLDER
           thin_folders = [(f,w) for f,w in folder_rows if w < MIN_FOLDER]
 
           # ---------- ARTIFACTS ----------
@@ -110,7 +122,6 @@ jobs:
 
           # ---------- SUMMARY ----------
           def md_table(headers, rows):
-            # rows: list of tuples
             head = "| " + " | ".join(headers) + " |"
             sep = "| " + " | ".join("---" for _ in headers) + " |"
             body = "\n".join("| " + " | ".join(str(x) for x in r) + " |" for r in rows)
@@ -119,22 +130,23 @@ jobs:
           summary = []
           summary.append(f"# Repo Word Count — Gap Finder\n")
           summary.append(f"**Total words (harsh prose-only): {total:,}**  \n")
-          summary.append(f"- Files counted: {len(rows):,}  \n- Thin file threshold: < {MIN_FILE} words  \n- Thin folder threshold: < {MIN_FOLDER:,} words\n")
+          summary.append(f"- Files counted: {len(rows):,}  \n- Thin file threshold: < {MIN_FILE} words  \n- Thin folder threshold: < {MIN_FOLDER:,} words  \n- Ignored (for thinnest-files only): {IGNORE_RAW or '—'}\n")
 
           # Top folders
           top_folders = folder_rows[:MAX_ROWS]
           summary.append("\n## Top folders by words\n")
           summary.append(md_table(["Folder","Words"], [(f, f"{w:,}") for f,w in top_folders]))
 
-          # Thinnest folders
+          # Thinnest folders (unchanged)
           thinnest_folders = sorted(folder_rows, key=lambda x: x[1])[:MAX_ROWS]
           summary.append("\n## Thinnest folders\n")
           summary.append(md_table(["Folder","Words"], [(f, f"{w:,}") for f,w in thinnest_folders]))
 
-          # Thinnest files
-          thinnest_files = sorted(rows, key=lambda x: x[1])[:MAX_ROWS]
+          # Thinnest files (exclude ignored paths)
+          thinnest_files = [(p,w) for p,w in sorted(rows, key=lambda x: x[1]) if not is_ignored(p)]
+          thinnest_files = thinnest_files[:MAX_ROWS]
           summary.append("\n## Thinnest files\n")
-          summary.append(md_table(["File","Words"], [(p, w) for p,w in thinnest_files]))
+          summary.append(md_table(["File","Words"], thinnest_files))
 
           open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8").write("\n".join(summary))
           PY
