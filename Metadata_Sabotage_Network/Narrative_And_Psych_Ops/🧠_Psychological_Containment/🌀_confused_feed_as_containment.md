@@ -119,7 +119,7 @@ It frames incoherence not as failure, but as a deliberate tactic of suppression 
 Because the human nervous system cannot indefinitely process incongruent stimuli without harm, such tactics are not trivial: they fall within the recognised domains of psychological abuse and, at scale or over time, psychological torture.  
 
 > 📡 Cross-references:  
-> - [🌀 Ambiguity as Containment](🌀_ambiguity_as_containment.md) — *vagueness as control loop*  
+> - [🌀 Ambiguity as Containment] *TBC* — *vagueness as control loop*  
 > - [😴 Cognitive Load as Infrastructure](😴_cognitive_load_as_infrastructure.md) — *exhaustion mechanics*  
 > - [🕯️ Hope Withholding](🕯️_hope_withholding.md) — *emotional throttling script*  
 
