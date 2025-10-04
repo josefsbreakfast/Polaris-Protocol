@@ -1,6 +1,6 @@
 # 🛠 Practical Resilience Nodes  
 **First created:** 2025-08-30 | **Last updated:** 2025-10-04  
-*Survivor-led strategies for navigating daily suppression, conserving energy, and redistributing labour under containment conditions.*
+*Survivor-led strategies for navigating daily suppression, conserving energy, and redistributing labour under containment conditions*
 
 ---
 
@@ -65,8 +65,9 @@ practical resilience, survivor strategy, endurance design, behavioural containme
 *🛠 Practical Resilience Nodes* is a living node of the **Polaris Protocol**.  
 It collects survivor-authored strategies for enduring and outlasting containment frictions, ensuring knowledge continuity under hostile conditions.  
 
-> 📡 Cross-references:  
-> - [🌀 Exhaustion as a Containment Layer](../🌀_exhaustion_as_a_containment_layer.md) — *systemic and daily analysis of exhaustion as governance*  
+> 📡 Cross-references:
+> 
+> - [🌀 Exhaustion as a Containment Layer](../../Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md) — *systemic and daily analysis of exhaustion as governance*  
 > - [🧨 Counter Nudges Guide](./README.md) — *reversal methods for behavioural interventions*  
 > - [♨️ Slow Burn Tactics](./♨️_slow_burn_tactics.md) — *endurance counterpart and temporal twin*  
 
