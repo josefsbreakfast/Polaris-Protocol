@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 20:14:50 UTC_
+_Generated on 2025-10-04 20:15:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -511,9 +511,8 @@ _Generated on 2025-10-04 20:14:50 UTC_
       - [`🧨_procedural_wait_your_turn.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_procedural_wait_your_turn.md)
       - [`🪓_mean_evidence_template.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🪓_mean_evidence_template.md)
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
-      - [**🔖_ Suppressive_Syntax/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_ Suppressive_Syntax/)
-        - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_ Suppressive_Syntax/README.md)
       - [**🔖_Suppressive_Syntax/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/)
+        - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/README.md)
         - [`🐪_trojan_horse.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🐪_trojan_horse.md)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/README.md)
       - [`counter_nudge_map_who_to_rattle_for_justice.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/counter_nudge_map_who_to_rattle_for_justice.png)
