@@ -67,7 +67,7 @@ It collects survivor-authored strategies for enduring and outlasting containment
 
 > 📡 Cross-references:
 > 
-> - [🌀 Exhaustion as a Containment Layer](../../Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md) — *systemic and daily analysis of exhaustion as governance*  
+> - [🌀 Exhaustion as a Containment Layer](../../Containment_Scripts/Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md) — *systemic and daily analysis of exhaustion as governance*  
 > - [🧨 Counter Nudges Guide](./README.md) — *reversal methods for behavioural interventions*  
 > - [♨️ Slow Burn Tactics](./♨️_slow_burn_tactics.md) — *endurance counterpart and temporal twin*  
 
