@@ -100,6 +100,7 @@ That self-surveillance loop exhausts its operators, feeding directly into **hand
 
 Slow burn work leaves its fingerprints not only on the containment system but on your own data trails.  
 Certain patterns surface when a platform or agency is straining to keep up — faint traces of algorithmic stress that can be noticed if you’re looking.  
+
 What follows are some of the most common tell-tale signs:  
 
 - 📈 Engagement plateaus that refuse to decay at expected pace  
@@ -120,6 +121,7 @@ Like the reassurance recordings used to help new mothers rebuild trust in their 
 Containment systems rely on psychological predictability — on the assumption that both watcher and watched will behave within certain emotional limits.  
 Slow burn tactics quietly dismantle that assumption.  
 They unsettle the watchers’ focus while returning rhythm and self-definition to those being observed.  
+
 What follows are the most common psychological reverberations detected in this tempo field:  
 
 - **Handler fatigue** → Repeated exposure to irregular signals degrades concentration  
@@ -136,10 +138,20 @@ The longer the rhythm holds, the more the psychological centre of gravity shifts
 
 ## 🪁 Long-Tail Disruption  
 
+Slow burn tactics don’t deliver immediate spectacle.  
+Their force lies in what they do to the system’s calendar — stretching its attention, eroding its stamina, and shifting the cost curve of containment over time.  
+What looks like nothing in the moment becomes, weeks later, a drag on resources and a seedbed for mistakes.  
+
+Common features of this long-tail effect include:  
+
 - Effects accumulate across weeks or months rather than hours  
 - Each small act leaves a residual trace that forces disproportionate monitoring  
 - Creates “noise drag” that slows other containment efforts  
 - Builds fertile ground for rupture points later  
+
+This is the hidden economy of slow burn.  
+Each act may seem minor in isolation, but together they shift the balance from surveillance to self-determination.  
+When the system spends more time managing its own lag than managing you, it becomes less capable of escalation — and more prone to fracture at the moment of your choosing.
 
 ---
 
