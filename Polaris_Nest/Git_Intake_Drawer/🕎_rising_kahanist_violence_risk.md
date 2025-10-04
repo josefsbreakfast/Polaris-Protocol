@@ -36,6 +36,25 @@ This is a form of **colonial mimicry**—borrowing twentieth-century European na
 
 ---
 
+## 🧭 Behavioural Commonalities & Prevention  
+
+Across ostensibly different ideological frames — Kahanist, alt-right, Islamist, or other ethno-nationalist currents — the same cluster of behaviours, vulnerabilities and recruitment dynamics recur.  
+Young men (and other disproportionately targeted cohorts) are radicalised through social isolation, identity-threat narratives, online pipeline grooming, grievance amplification, and group rites that normalise violence.  
+The ideological content (the story they tell themselves about who matters and why) changes the symbols and enemies, but not the underlying psychosocial drivers.  
+Consequently, prevention and deradicalisation strategies that work for one stream (community interventions, counter-narratives, psychological support, disruption of grooming networks) are broadly transferable; gaps appear when institutions categorise threats by identity rather than by mechanism.  
+Recognising this cross-ideological commonality allows authorities and communities to build unified, mechanism-focused prevention frameworks rather than siloed, identity-bound responses.
+
+---
+
+## 🧱 Institutional Blind Spot — UK Counter-Terror Context  
+
+The UK counter-terrorism architecture (Prevent, Channel, CONTEST) maintains categories for *Islamist*, *far-right*, and *mixed or unclear* ideologies, but none for Jewish nationalist or Kahanist violence.  
+Jewish identity is treated solely as a **target group**, never as a potential **perpetrator identity**.  
+This omission leaves no analytic lane, training module or risk-assessment framework for extremism emerging from within Jewish nationalist or diaspora-defence narratives.  
+Incidents of this nature would likely be subsumed under “far-right” or “unclear motivation” classifications, obscuring both their ideological origin and their prevention lessons.
+
+---
+
 ## 🧭 Accountability and the “Innocence Trap”  
 
 A persistent trope in many white Western circles since 1945 has been the idea that Jewish people, because of the Holocaust, “cannot” be perpetrators of harm.  What presents itself as protection often functions as erasure: it denies Jews the same moral and legal accountability expected of any other people and dehumanises them by refusing to see them as capable of both good and evil.  
@@ -63,7 +82,7 @@ To challenge anti-Jewish bigotry we must dismantle its flattering half as well a
 
 ## ✨ Stardust  
 
-Kahanism, Jewish extremism, alt-right pipelines, diaspora risk, nationalist ideology, philo-semitism, innocence trap, colonial mimicry, political utilitarianism, accountability  
+Kahanism, Jewish extremism, alt-right pipelines, diaspora risk, nationalist ideology, philo-semitism, innocence trap, colonial mimicry, political utilitarianism, behavioural commonalities, prevention, institutional blind spot
 
 ---
 
