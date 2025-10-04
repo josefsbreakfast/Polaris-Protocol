@@ -131,3 +131,12 @@ it could equally be to a regulator.
 for instance.  
 
 dont think i dont know the way truth can be made to bend by...unfortunately the type pf people who know cursed shrek memes exist.  
+
+2025-10-02
+
+2025-10-02
+
+2025-10-02
+
+2025-10-02
+
