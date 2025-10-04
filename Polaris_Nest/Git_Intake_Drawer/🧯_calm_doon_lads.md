@@ -58,6 +58,26 @@ Do enjoy the tort on that one.
 
 I would.  
 
-Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md
+Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md   
+
+---
+
+For anyone nudged to question, "well how can you be so sure that...".
+
+Darling.  
+
+Men don't do that if they have more than 2 braincells to rub together to get the connection going.  
+
+Because it would be incredibly transparent.  
+
+I have also been party to their unit's porn choices in a way you have not.  
+
+I promise you I know the type of man this is, and my money is not on the author.  
+
+It can be found in Yorkshire, though.  
+
+I could be extremely specific.  
+
+I think seeing the nature of the academic MoU would be extremely interesting, actually.  
 
 2025-10-04
