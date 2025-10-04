@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 23:43:02 UTC_
+_Generated on 2025-10-04 23:43:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -641,6 +641,7 @@ _Generated on 2025-10-04 23:43:02 UTC_
     - [`🛰️_search_autocomplete_anomaly_content_substitution.md`](Disruption_Kit/Field_Logs/🛰️_search_autocomplete_anomaly_content_substitution.md)
     - [`🛰️_sec_2025-09.md`](Disruption_Kit/Field_Logs/🛰️_sec_2025-09.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
+    - [`🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md)
     - [`🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md)
     - [`🛰️_structural_vulnerabilities_media_harm_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_structural_vulnerabilities_media_harm_2025-09-27.md)
     - [`🛰️_stuck_for_several_minutes_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stuck_for_several_minutes_2025-09-27.md)
