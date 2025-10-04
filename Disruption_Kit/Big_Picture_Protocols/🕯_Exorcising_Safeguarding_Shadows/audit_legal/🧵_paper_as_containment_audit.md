@@ -1,6 +1,6 @@
 # 🧵 Paper as Containment — Mega Node
 *Digitise liberty, not just crime: closing the UK’s Court of Protection / DoLS blind spot*  
-**First created:** 2025-10-04 · **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
 
 ---
 
@@ -24,9 +24,17 @@
 ---
 
 ## ✨ Executive Summary {#exec}
-The UK runs central, digital systems for the *most sensitive* domains (CPS disclosure, PNC, NHS Spine). In contrast, the Court of Protection (CoP) and DoLS/LPS ecosystem remains paper-bound and locally siloed. That design gap enables delay, error, and quiet control — making a UK analogue of a high-control conservatorship plausible via procedural fog rather than celebrity spectacle.
+The UK runs central, digital systems for the *most sensitive* domains (CPS disclosure, PNC, NHS Spine). 
 
-**Thesis:** Treat adult-safeguarding liberty like patient safety or serious crime: build a minimal digital spine, rotate oversight, guarantee advocacy, and enforce deadlines. This is targeted, fast and pays back in efficiency *and* harm reduction.
+In contrast, the Court of Protection (CoP) and DoLS/LPS ecosystem remains paper-bound and locally siloed. 
+
+That design gap enables delay, error, and quiet control — making a UK analogue of a high-control conservatorship plausible via procedural fog rather than celebrity spectacle.
+
+**Thesis:** 
+
+Treat adult-safeguarding liberty like patient safety or serious crime: build a minimal digital spine, rotate oversight, guarantee advocacy, and enforce deadlines. 
+
+This is targeted, fast and pays back in efficiency *and* harm reduction.
 
 ---
 
@@ -65,15 +73,19 @@ The UK runs central, digital systems for the *most sensitive* domains (CPS discl
 
 **Renewals CSV**  
 
+```
 case_id,nhs_number_hash,authority_code,start_date,expiry_date,renewal_status,assigned_owner,last_action_at
 RX-24-001,a9c1e6…d2,NOTTS,2024-12-01,2025-12-01,PENDING,jsmyth,2025-09-20T14:22:03Z
 RX-24-002,bc77a4…90,LEICS,2025-01-15,2025-07-15,OVERDUE,amurphy,2025-10-03T09:12:44Z
+```
 
 **Advocacy CSV**  
 
+```
 case_id,imca_required,imca_assigned,imca_org,imca_assigned_at,reason_not_assigned
 RX-24-001,Y,Y,Voice&Choice,2025-08-02,
 RX-24-002,Y,N,, , “family-declined; urgent clinical decision”
+```
 
 Default KPIs: % renewals on time; avg days overdue; % cases with IMCA; transfer SLA compliance; unresolved conflicts >30 days.
 
@@ -100,7 +112,8 @@ Default KPIs: % renewals on time; avg days overdue; % cases with IMCA; transfer 
 ## 🕵️ Investigation-First Plan (Journalism & OSINT) {#investigation}
 
 ### Why this works
-FOIs create documents; OSINT maps context; journalists turn delays/redactions into stories. Survivor-centred ethics make it credible.
+FOIs create documents; OSINT maps context; journalists turn delays/redactions into stories. 
+Survivor-centred ethics make it credible.
 
 ### 90-Day Investigation Timeline {#90invest}
 - **Days 0–7:** tracker; pick 2–3 councils + 1 trust; line up reporters.  
@@ -148,3 +161,5 @@ Target body | FOI title | Date filed | Due date | Status | Review | ICO appeal |
 2. Prototype CSV dashboard with renewal alerts.  
 3. Prep MP brief with 90-day pilot plan.  
 4. Line up local journalist for embargo when FOIs land.  
+
+---
