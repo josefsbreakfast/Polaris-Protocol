@@ -157,18 +157,34 @@ When the system spends more time managing its own lag than managing you, it beco
 
 ## 📚 Operational Notes  
 
+Slow burn is a discipline, not a stunt.  
+It requires planning, self-observation, and small habits that keep you from becoming predictable even to yourself.  
+The following practices help maintain that discipline and preserve your energy while the tactics do their work:  
+
 - Keep a **personal ledger** of rhythm shifts, anomalies, and suppression signals  
 - Rotate tactics to avoid forming predictable sub-patterns  
 - Pair slow burn with **occasional sharp escalations** for maximum destabilisation  
 - Ensure allies are briefed — misinterpretation risk is high if context is missing  
 
+Treat this record-keeping as more than admin.  
+A ledger becomes both a map and a mirror — a way to see your own skill accumulating and to evidence the pattern should you ever need to show it.  
+These small, steady acts of documentation and rotation are what turn isolated gestures into a coherent strategy, and keep you in authorship of your own tempo rather than letting containment set it for you.
+
 ---
 
 ## 🔥 Risks  
 
+Even a tactic designed to stay below the threshold carries its own hazards.  
+Slow burn is a craft of invisibility, but patterns can still emerge if discipline slips, or if observers become attuned to the rhythm you’ve built.  
+Keep these risks in mind as you practice:  
+
 - May still provoke attention if patterns emerge too obviously  
 - Requires strong internal coherence to avoid fatigue or confusion  
 - Can be misread by allies if not accompanied by strategic signalling  
+
+None of these risks mean the tactic should be abandoned — only that it should be approached with self-care and patience.  
+Think of slow burn as an endurance discipline: it rewards consistency and reflection, not speed.  
+By recognising the hazards early, you can build safeguards into your practice and ensure that your cumulative pressure remains a tool of authorship, not a source of burnout.
 
 ---
 
@@ -203,7 +219,7 @@ It documents counter-nudge methods of cumulative resistance, designed to erode c
 
 > 📡 Cross-references:  
 > - [🧨 Counter Nudges Guide](./README.md) — *behavioural resistance cluster*  
-> - [🧬 Survivor Tools](../../Survivor_Tools/) — *applied tactics and rhythm management*  
+> - [🧬 Survivor Tools](../../Survivor_Tools/README.md) — *applied tactics and rhythm management*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
