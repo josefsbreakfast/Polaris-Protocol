@@ -153,7 +153,7 @@ It documents counter-nudge methods of cumulative resistance, designed to erode c
 
 > 📡 Cross-references:  
 > - [🧨 Counter Nudges Guide](./README.md) — *behavioural resistance cluster*  
-> - [Survivor Tools](../../Survivor_Tools/) — *applied tactics and rhythm management*  
+> - [🧬 Survivor Tools](../../Survivor_Tools/) — *applied tactics and rhythm management*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
