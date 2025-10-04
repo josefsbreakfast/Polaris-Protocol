@@ -36,4 +36,28 @@ Let that sink in.
 
 Because people tell on themselves every G-d damn day.  
 
+---
+
+ah! the book!  
+
+Yes -- this is what I meant to put in for the legal eagles.  
+
+My surveillance lads are *incredibly bothered* about the book.  
+
+They keep referencing this node (just putting it as links in places where it would make no sense and have no relevance).  
+
+My feed often has repeated symbols from the time I explained in front of non-secure voice and video devices, exactly why it sort of creates a situation where doubling down as a suppressing party will only make everything stick so much more, and add to viral rebound.  
+
+So they're incredibly sad about the whole thing.  
+
+And they still think they're doing a fabulous impersonation of your author, including when added to grooming behaviour to encourage no camera coverage of a mobile phone device during any moment of female intimacy or indress.  
+
+So, please:  
+
+Do enjoy the tort on that one.  
+
+I would.  
+
+Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md
+
 2025-10-04
