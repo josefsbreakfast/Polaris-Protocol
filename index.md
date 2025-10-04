@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 18:38:21 UTC_
+_Generated on 2025-10-04 18:39:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1140,6 +1140,7 @@ _Generated on 2025-10-04 18:38:21 UTC_
     - [`🦾_dual_uses_that_never_come.md`](Polaris_Nest/Git_Intake_Drawer/🦾_dual_uses_that_never_come.md)
     - [`🦾_invest_appropriately.md`](Polaris_Nest/Git_Intake_Drawer/🦾_invest_appropriately.md)
     - [`🧃_thinking_about_restoring_that_essay.md`](Polaris_Nest/Git_Intake_Drawer/🧃_thinking_about_restoring_that_essay.md)
+    - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Polaris_Nest/Git_Intake_Drawer/🧠_swiss_cheese_suicide_model_in_custody.md)
     - [`🧥_empires_old_clothes.md`](Polaris_Nest/Git_Intake_Drawer/🧥_empires_old_clothes.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧩_structural_lethality_in_custody.md`](Polaris_Nest/Git_Intake_Drawer/🧩_structural_lethality_in_custody.md)
