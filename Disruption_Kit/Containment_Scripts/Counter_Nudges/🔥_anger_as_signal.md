@@ -89,8 +89,9 @@ anger as signal, survivor testimony, forensic emotion, containment denial, insti
 It documents survivor anger as a forensic marker of systemic cruelty and institutional denial,  
 reclaiming affect as data and refusal as evidence.  
 
-> 📡 Cross-references:  
-> - [🕵️ Collapse Between Harassment and Surveillance](../Suppression_Modes/🕵️_harassment_vs_surveillance.md)  
+> 📡 Cross-references:
+> 
+> - [🕵️ Collapse Between Harassment and Surveillance](../Suppression_Modes/🕵️_harassment_vs_surveillance.md) - *Forensic note on how harassment reports are dismissed under surveillance framings*  
 > - [🇬🇧 CVE Voice Containment] *WIP*
 > - [♨️ Slow Burn Tactics](../Counter_Nudges/♨️_slow_burn_tactics.md) — *tempo work preceding affective ignition*  
 
