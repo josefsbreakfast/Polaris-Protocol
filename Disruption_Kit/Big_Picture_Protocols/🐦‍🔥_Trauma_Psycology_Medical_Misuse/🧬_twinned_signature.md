@@ -1,6 +1,6 @@
 # 🧬 Twinned Signature  
 **First created:** 2025-08-25 | **Last updated:** 2025-10-04  
-*A declaration of doubled authorship without divided sovereignty.*  
+*A declaration of doubled authorship without divided sovereignty*  
 
 ---
 
@@ -126,11 +126,11 @@ They are *choruses of refusal* — fidelity forged in plurality.
 ## 🌌 Constellations  
 
 🧬 🪞 🧿 — This node sits within the constellation of metadata resistance, survivor sovereignty, and mirrored voice.  
-> Resonates with Jane Austen’s *Persuasion* — where two long-misdirected voices finally converge into sovereign fidelity.  
-> Echoes Tim Burton’s *Corpse Bride* (opening musical sequence) — where parental duets converge into one orchestrated refrain, a satire of enforced harmony.  
-> Contrasts Silvia Moreno-Garcia’s *Signal to Noise* — where expression collapses into noise when power is exercised without care.  
-> Related to [🪞 Twinned Silence](./🪞_twinned_silence.md) — where splicing is used for contradiction rather than continuity.  
-> Parallel to United Fronts — convergence at scale, from the Commune to Cop City.  
+- Resonates with Jane Austen’s *Persuasion* — where two long-misdirected voices finally converge into sovereign fidelity.  
+- Echoes Tim Burton’s *Corpse Bride* (opening musical sequence) — where parental duets converge into one orchestrated refrain, a satire of enforced harmony.  
+- Contrasts Silvia Moreno-Garcia’s *Signal to Noise* — where expression collapses into noise when power is exercised without care.  
+- Related to [🪞 Twinned Silence](./🪞_twinned_silence.md) — where splicing is used for contradiction rather than continuity.  
+- Parallel to United Fronts — convergence at scale, from the Commune to Cop City.  
 
 ---
 
@@ -145,7 +145,8 @@ twinned signature, doubled authorship, metadata sabotage, survivor continuity, s
 *🧬 Twinned Signature* is a living node of the Polaris Protocol.  
 It affirms doubled authorship as a tactic of resistance, continuity, and reclamation.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🪞 Twinned Silence](./🪞_twinned_silence.md) — *splicing used for containment through contradiction*  
 > - [🫛 Amplification by Convergence](../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *convergence as amplification and resolution*  
 
