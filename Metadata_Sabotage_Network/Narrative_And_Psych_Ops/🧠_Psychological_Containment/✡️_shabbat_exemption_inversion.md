@@ -57,8 +57,8 @@ It documents how religious observance can be reinterpreted as administrative con
 > 📡 Cross-references:
 > 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
-> - [🕯 Exorcising Safeguarding Shadows](../../🕯_Exorcising_Safeguarding_Shadows/) — *moral alibi architectures*  
-> - [📺 Money Talks Media](../../📺_Money_Talks_Media/) — *how moral cover circulates in crisis theatre*  
+> - [🕯 Exorcising Safeguarding Shadows](../../../Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md) — *moral alibi architectures*  
+> - [📺 Money Talks Media](../../../Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media//README.md) — *how moral cover circulates in crisis theatre*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
