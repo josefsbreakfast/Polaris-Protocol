@@ -79,5 +79,5 @@ It can be found in Yorkshire, though.
 I could be extremely specific.  
 
 I think seeing the nature of the academic MoU would be extremely interesting, actually.  
-
+<!--"One ex-commander even approximated that 90% of the country’s intelligence material comes from Unit 8200." Find out where they're rumoured to be based in the UK academic infrastructure. Think about the metadata access. Consider it. And look who polices most heavily on issues like AML and human rights scrutiny to financial investments. Fascinating stuff.-->
 2025-10-04
