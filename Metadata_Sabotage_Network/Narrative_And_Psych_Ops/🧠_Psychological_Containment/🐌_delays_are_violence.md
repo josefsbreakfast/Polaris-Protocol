@@ -18,4 +18,3 @@ Delay is framed as neutral, but it bleeds capacity.
 “Every missing hour is a decision to bleed us dry. They make us wait until hope itself is exhausted.”  
 
 ---
-🏮 [Return to Admin Kit](../README.md)
