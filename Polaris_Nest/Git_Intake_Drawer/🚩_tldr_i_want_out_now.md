@@ -19,3 +19,11 @@ I am so tired.
 tldr im good, you can let me go now. i want out.
 
 2025-10-04
+
+---
+
+alternative offer:
+
+0.5 clonaz + weighted blanket in modal/bamboo 20kg of my choosing.  
+
+idk about adls yet i havent worker that out.  
