@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 23:39:38 UTC_
+_Generated on 2025-10-04 23:40:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -614,6 +614,7 @@ _Generated on 2025-10-04 23:39:38 UTC_
     - [`🛰️_interference_and_throttling_context_2025-09-22.md`](Disruption_Kit/Field_Logs/🛰️_interference_and_throttling_context_2025-09-22.md)
     - [`🛰️_late_stage_signoff_map_triple_lock_continuation.md`](Disruption_Kit/Field_Logs/🛰️_late_stage_signoff_map_triple_lock_continuation.md)
     - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
+    - [`🛰️_looped_waiting_rooms_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_looped_waiting_rooms_field_log_2025-09-13.md)
     - [`🛰️_mainstream_visibility_anomalies_2025-09-12.md`](Disruption_Kit/Field_Logs/🛰️_mainstream_visibility_anomalies_2025-09-12.md)
     - [`🛰️_metadata_ghost_skeletal_nodes_upload_full_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_metadata_ghost_skeletal_nodes_upload_full_2025-10-03.md)
     - [`🛰️_microphone_bias_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_microphone_bias_2025-09-20.md)
