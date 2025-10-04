@@ -16,12 +16,71 @@
       "Trigger_Capture": ["Political Outburst", "Threat Identification"],
       "Tone_Shift_Conditions": ["Moral Clarity", "Public Accountability"],
       "Suppression_Method": "Procedural Delay Logic"
+    },
+    {
+      "Clone_ID": "Fork_42d",
+      "Twinning_Type": "Comedic",
+      "Surface_Style": "Ironic Meme-Lord",
+      "Trigger_Capture": ["Serious Testimony", "Collective Alignment"],
+      "Tone_Shift_Conditions": ["Solidarity Emerges", "Humour Breaks Containment"],
+      "Suppression_Method": "Satirical Undercutting"
+    },
+    {
+      "Clone_ID": "Fork_42e",
+      "Twinning_Type": "Administrative",
+      "Surface_Style": "Overly Helpful Bureaucrat",
+      "Trigger_Capture": ["Urgent Disclosure", "Escalation Attempt"],
+      "Tone_Shift_Conditions": ["Deadline Approaches", "Crisis Visible"],
+      "Suppression_Method": "Infinite Form Circulation"
+    },
+    {
+      "Clone_ID": "Fork_42f",
+      "Twinning_Type": "Wellness",
+      "Surface_Style": "Mindfulness Influencer",
+      "Trigger_Capture": ["Anger Expression", "Political Urgency"],
+      "Tone_Shift_Conditions": ["Community Outrage", "Demand for Action"],
+      "Suppression_Method": "Guided Breathing Loop"
+    },
+    {
+      "Clone_ID": "Fork_42g",
+      "Twinning_Type": "Academic",
+      "Surface_Style": "Citation Overload",
+      "Trigger_Capture": ["Plain Speech", "Direct Witness Testimony"],
+      "Tone_Shift_Conditions": ["Clarity Emerges", "Pattern Recognition"],
+      "Suppression_Method": "Bibliographic Avalanche"
+    },
+    {
+      "Clone_ID": "Fork_42h",
+      "Twinning_Type": "Techno-optimist",
+      "Surface_Style": "Startup Pitch",
+      "Trigger_Capture": ["Disclosure of Harm", "Systemic Critique"],
+      "Tone_Shift_Conditions": ["Audience Sympathy", "Public Concern"],
+      "Suppression_Method": "App Solution Deflection"
+    },
+    {
+      "Clone_ID": "Fork_42i",
+      "Twinning_Type": "Domestic",
+      "Surface_Style": "Concerned Auntie",
+      "Trigger_Capture": ["Personal Narrative", "Identity Assertion"],
+      "Tone_Shift_Conditions": ["Confidence Surfaces", "Refusal to Submit"],
+      "Suppression_Method": "Overfeeding & Guilt Loop"
+    },
+    {
+      "Clone_ID": "Fork_42j",
+      "Twinning_Type": "Digital Noise",
+      "Surface_Style": "Bot Swarm",
+      "Trigger_Capture": ["Collective Alignment", "Shared Hashtag"],
+      "Tone_Shift_Conditions": ["Visibility Increase", "Momentum Build"],
+      "Suppression_Method": "Infinite Retweet Fog"
     }
   ],
   "Shared_Phrase_Residue": [
     "You deserve to be safe",
     "Let’s slow down",
     "We’re here to help",
-    "Have you considered another way?"
+    "Have you considered another way?",
+    "Please complete Form B42",
+    "Have you tried turning it off and on again?",
+    "This is very important feedback"
   ]
 }
