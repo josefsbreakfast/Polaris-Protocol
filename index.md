@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 21:07:29 UTC_
+_Generated on 2025-10-04 21:07:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1336,6 +1336,7 @@ _Generated on 2025-10-04 21:07:29 UTC_
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
     - [`README.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
     - [`📡_protocol_shadowing.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/📡_protocol_shadowing.md)
+    - [`🔁_handshake_loopbacks.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/🔁_handshake_loopbacks.md)
     - [`🛰️_field_interference_patterns.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/🛰️_field_interference_patterns.md)
   - [**🎛_Systematic_Patterns/**](🩻_Weirdness_Screening/🎛_Systematic_Patterns/)
     - [`README.md`](🩻_Weirdness_Screening/🎛_Systematic_Patterns/README.md)
