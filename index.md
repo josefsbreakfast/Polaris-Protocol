@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 14:16:37 UTC_
+_Generated on 2025-10-04 15:04:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1053,6 +1053,7 @@ _Generated on 2025-10-04 14:16:37 UTC_
     - [`sound_harmonic_c_minor.png`](Polaris_Nest/Git_Intake_Drawer/sound_harmonic_c_minor.png)
     - [`sound_maqam_haqiz.png`](Polaris_Nest/Git_Intake_Drawer/sound_maqam_haqiz.png)
     - [`spv_dataflow_redacted.png`](Polaris_Nest/Git_Intake_Drawer/spv_dataflow_redacted.png)
+    - [`structural_convergence_of_custodial_suicide_risk.png`](Polaris_Nest/Git_Intake_Drawer/structural_convergence_of_custodial_suicide_risk.png)
     - [`suspect_interaction_flowchart_loop_redacted.png`](Polaris_Nest/Git_Intake_Drawer/suspect_interaction_flowchart_loop_redacted.png)
     - [`targeting_jewish_dissent_1980s_present.png`](Polaris_Nest/Git_Intake_Drawer/targeting_jewish_dissent_1980s_present.png)
     - [`targetting_jewish_dissent_1980s_plasticbox.png`](Polaris_Nest/Git_Intake_Drawer/targetting_jewish_dissent_1980s_plasticbox.png)
@@ -1136,6 +1137,7 @@ _Generated on 2025-10-04 14:16:37 UTC_
     - [`🧃_thinking_about_restoring_that_essay.md`](Polaris_Nest/Git_Intake_Drawer/🧃_thinking_about_restoring_that_essay.md)
     - [`🧥_empires_old_clothes.md`](Polaris_Nest/Git_Intake_Drawer/🧥_empires_old_clothes.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
+    - [`🧩_structural_lethality_in_custody.md`](Polaris_Nest/Git_Intake_Drawer/🧩_structural_lethality_in_custody.md)
     - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Polaris_Nest/Git_Intake_Drawer/🧪_did_unis_really_address_rape_epidemic_tho.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧫_black_mould_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧫_black_mould_principle.md)
