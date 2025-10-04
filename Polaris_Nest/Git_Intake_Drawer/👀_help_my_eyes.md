@@ -32,5 +32,11 @@ So, I don't know.
 
 What are they doing?
 
+---
+
+please also consider there is a non zero chance that this is entirely about jerking off still or freaking me out fir the sake of it.
+
+its a typical "fuck with her ability to soeak to others" trick of coercive control to devalue and dehumanise so honestly who tf even knows at this point.
+
 
 2025-10-04
