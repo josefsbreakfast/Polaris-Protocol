@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 12:33:54 UTC_
+_Generated on 2025-10-04 12:59:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -310,6 +310,8 @@ _Generated on 2025-10-04 12:33:54 UTC_
       - [`🛰️_financial_attrition_as_suppression.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🛰️_financial_attrition_as_suppression.md)
       - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
+      - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
       - [**🛰️_Token_Switching_Audit/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/README.md)
         - [`⚰️_death_review_integrity_audit.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/⚰️_death_review_integrity_audit.md)
