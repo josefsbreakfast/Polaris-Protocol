@@ -20,3 +20,5 @@ why have so many things i have wsnted to do, been blocked, stopped, nudged away 
 
 
 it's just so odd.
+
+2025-09-24
