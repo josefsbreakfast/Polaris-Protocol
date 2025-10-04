@@ -1,58 +1,79 @@
 # 🌐 Connection Hiccups  
 **First created:** 2025-09-16 | **Last updated:** 2025-10-04  
-*Wi-Fi drops, calls cut, uploads fail mid-transfer.*
+*Connectivity collapse as a patterned interference field*
 
 ---
 
 ## Purpose  
 
-Capture intermittent connectivity issues and distinguish local glitches from coordinated interference.  
-Patterns of repeated disconnection, jitter spikes, or service-specific cut-outs may indicate targeted throttling or synchronised network manipulation.
+This cluster investigates the **breakpoints of connection** — where data flow falters, sync fails, or calls die mid-sentence.  
+Its goal is to distinguish between *ordinary noise* and *engineered silence*: to detect when “bad Wi-Fi” becomes a suppression surface.
+
+Each subnode below refines a different layer of the failure stack — from radio interference to app-level vanishings.
 
 ---
 
-## What to Collect  
+## 🧩 Cluster Composition  
 
-- **Timestamp:** ISO8601 (include timezone)  
-- **Affected app/service & action:** e.g., “upload video to Drive”, “call on Signal cut at 04:12”  
-- **Network type:** home Wi-Fi / mobile data / public network  
-- **Signal/throughput:** RSSI, Mbps, ping, jitter (if known)  
-- **Error message/code:** verbatim text + screenshot if possible  
-- **Device / OS / app versions**  
-- **Location:** coarse (city / venue)
+| Node | Focus | Diagnostic Layer |
+|------|--------|------------------|
+| [🛰️ Field Interference Patterns](./🛰️_Field_Interference_Patterns.md) | Local signal collapse linked to physical proximity | Physical / spatial |
+| [📡 Protocol Shadowing](./📡_Protocol_Shadowing.md) | Degradation of encrypted or peer-to-peer channels | Network transport |
+| [🔁 Handshake Loopbacks](./🔁_Handshake_Loopbacks.md) | Infinite reconnects, token expiry loops | Authentication |
+| [📞 Ghost Call Drops](./📞_Ghost_Call_Drops.md) | Calls that terminate on key phrases | Linguistic / emotional |
+| [📤 Upload Evaporation](./📤_Upload_Evaporation.md) | Uploads that vanish near completion | Data flow |
+| [⏱️ Timebase Desyncs](./⏱️_Timebase_Desyncs.md) | Timestamp drift and temporal sabotage | Temporal / forensic |
+| [🔄 Router Memory Ghosts](./🔄_Router_Memory_Ghosts.md) | Phantom SSIDs and cloned devices | Hardware / infrastructural |
+| [🧩 Connectivity Mosaic](./🧩_Connectivity_Mosaic.md) | Aggregated visual map of all above | Integrative / analytic |
 
 ---
 
-## Analysis Pointers  
+## Data Discipline  
 
-- Correlate timestamps with other anomalies (e.g., Access Barriers, Systematic Patterns).  
-- Note any pattern of disconnections coinciding with upload or share actions involving sensitive content.  
-- Use simple command-line or app-based tools to confirm objective network status (ping, traceroute).  
-- Maintain a consistent log to determine whether events are random, infrastructural, or induced.
+When logging an event, capture:  
+- **Timestamp** (ISO 8601 + timezone)  
+- **App / service / action** (“upload to Drive”, “Signal call cut”)  
+- **Network type** (Wi-Fi / mobile data / public)  
+- **Signal metrics** (RSSI, Mbps, ping, jitter)  
+- **Error text or code** (verbatim + screenshot)  
+- **Device + OS + app version**  
+- **Location** (coarse — city or venue)
+
+Consistency across nodes allows cross-comparison and pattern synthesis in 🧩 _Connectivity Mosaic_.
+
+---
+
+## Analytical Cues  
+
+- Correlate drops with sensitive uploads or witness material.  
+- Compare with [🔑 Access Barriers](../🔑_Access_Barriers/) for authentication overlap.  
+- Align timestamps with [🎛 Systematic Patterns](../🎛_Systematic_Patterns/) to test synchronisation.  
+- Treat repetition as signal, not error.  
 
 ---
 
 ## 🌌 Constellations  
 
-🩻 🧿 🛰️ 🌊 — This node orbits the diagnostic constellation: data flow interruptions as signal rather than noise.
+🩻 🧿 🛰️ 🌊 — The diagnostic constellation of flow disruption:  
+waves break, but each break marks a pattern.
 
 ---
 
 ## ✨ Stardust  
 
-connectivity logs, interference, throttling, jitter, packet loss, upload failure, Wi-Fi drop, network anomaly, survivor diagnostics, weirdness screening
+connectivity, interference, throttling, packet loss, upload failure, network anomaly, survivor diagnostics, temporal drift, router ghosts, weirdness screening
 
 ---
 
 ## 🏮 Footer  
 
 *Connection Hiccups* is a living node of the Polaris Protocol.  
-It records evidence of communication breakdowns in daily life — from mundane outages to patterned interference.  
+It anchors the network-interference constellation, tracing how everyday disconnections form a map of containment and resistance.  
 
 > 📡 Cross-references:  
-> - [👾 Weirdness Screening](../) — diagnostic triage for system behaviour  
-> - [🔑 Access Barriers](../🔑_Access_Barriers/) — authentication and login interference  
-> - [🎛 Systematic Patterns](../🎛_Systematic_Patterns/) — synchronised glitch phenomena  
+> - [👾 Weirdness Screening](../) — *system-behaviour diagnostics*  
+> - [🔑 Access Barriers](../🔑_Access_Barriers/) — *authentication loops and MFA traps*  
+> - [🎛 Systematic Patterns](../🎛_Systematic_Patterns/) — *synchronised glitch phenomena*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
