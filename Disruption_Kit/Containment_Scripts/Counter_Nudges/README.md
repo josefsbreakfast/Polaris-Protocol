@@ -55,11 +55,6 @@ counter-nudges, behavioural containment, manipulation, resistance tactics, resil
 *🧨 Counter Nudges* is a living node of the Polaris Protocol.  
 It gathers tactics and forensic methods designed to reverse, subvert, and expose manipulative behavioural interventions deployed in containment environments.  
 
-> 📡 Cross-references:  
-> - [Containment Scripts](../) — suppression and manipulation logs  
-> - [Survivor Tools](../../Survivor_Tools/) — applied countermeasures  
-> - [🎛️ Drafting Rules — Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-09-05_
