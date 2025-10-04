@@ -147,7 +147,7 @@ It affirms doubled authorship as a tactic of resistance, continuity, and reclama
 
 > 📡 Cross-references:  
 > - [🪞 Twinned Silence](./🪞_twinned_silence.md) — *splicing used for containment through contradiction*  
-> - [🫛 Amplification by Convergence](../../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *convergence as amplification and resolution*  
+> - [🫛 Amplification by Convergence](../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *convergence as amplification and resolution*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
