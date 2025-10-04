@@ -1,5 +1,5 @@
 # 🩸 Genocide Denialism  
-**First created:** 2025-10-04  |  **Last updated:** 2025-10-04  
+**First created:** 2025-10-02  |  **Last updated:** 2025-10-04  
 *On the rewriting, erasure, and digital manipulation of atrocity memory in the network age*
 
 ---
