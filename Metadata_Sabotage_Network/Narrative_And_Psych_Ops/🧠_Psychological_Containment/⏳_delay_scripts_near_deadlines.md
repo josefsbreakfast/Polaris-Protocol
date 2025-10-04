@@ -1,10 +1,10 @@
 # ⏳ Delay Scripts Near Deadlines  
-**First created:** 2025-09-25 | **Last updated:** 2025-09-29  
-*How institutions weaponise scripted delay to suppress exposure*  
+**First created:** 2025-09-25 | **Last updated:** 2025-10-05  
+*Documents the procedural playbook of delay used to exhaust survivors and shield institutions*  
 
 ---
 
-## 📑 Summary  
+## 📄 Overview  
 
 Institutions facing exposure of **twin records** or other containment mechanisms often deploy scripted delays.  
 These play out most clearly when a hard **deadline** (trial entry, referral, compliance check) is approaching.  
@@ -69,18 +69,6 @@ flowchart TD
 
 ---
 
-```timeline
-  title Delay Script Near Deadlines
-  section Script Stages
-    Initial confusion : Staff see duplicate, assume data error
-    Minimisation : Framed as “just a glitch”
-    Delay script : Workflow flags e.g. “complex, 3 months reqd”
-    Deadline pressure : Drip-feed answers, buy time, test awareness
-    Audit cleanup : Reframe as glitch, conceal systemic issue
-```
-
----
-
 ## 🌌 Constellations  
 
 ⏳ 🕰️ 🧾  
@@ -101,11 +89,13 @@ delay tactics, institutional suppression, deadline pressure, twin records, admin
 *Delay Scripts Near Deadlines* is a living node of the Polaris Protocol.  
 It documents how scripted postponement and administrative drift are deployed as deliberate containment strategies, particularly when institutional deadlines risk exposure.  
 
-> 📡 Cross-references:  
-> - [🌀 Confused Feed as Containment](🌀_confused_feed_as_containment.md) — incoherence as suppression tactic  
-> - [🧭 Oversight of Oversight](../../System_Governance/🧿_watch_the_watchers.md) — how audits themselves are managed  
-> - [👁️‍🗨️ Witness Historical Casefiles](../../👁️‍🗨️_Witness_Historical_Casefiles/) — survivor testimony against delay tactics  
+> 📡 Cross-references:
+> 
+> - [🧠 Psychological Containment](../) — *parent folder*  
+> - [🌀 Confused Feed as Containment](🌀_confused_feed_as_containment.md) — *incoherence as suppression tactic*  
+> - [🧭 Oversight of Oversight](../../System_Governance/🧿_watch_the_watchers.md) — *how audits themselves are managed*  
+> - [👁️‍🗨️ Witness Historical Casefiles](../../👁️‍🗨️_Witness_Historical_Casefiles/) — *survivor testimony against delay tactics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-05_
