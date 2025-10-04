@@ -17,14 +17,14 @@ Each subnode below refines a different layer of the failure stack — from radio
 
 | Node | Focus | Diagnostic Layer |
 |------|--------|------------------|
-| [🛰️ Field Interference Patterns](./🛰️_Field_Interference_Patterns.md) | Local signal collapse linked to physical proximity | Physical / spatial |
-| [📡 Protocol Shadowing](./📡_Protocol_Shadowing.md) | Degradation of encrypted or peer-to-peer channels | Network transport |
-| [🔁 Handshake Loopbacks](./🔁_Handshake_Loopbacks.md) | Infinite reconnects, token expiry loops | Authentication |
-| [📞 Ghost Call Drops](./📞_Ghost_Call_Drops.md) | Calls that terminate on key phrases | Linguistic / emotional |
-| [📤 Upload Evaporation](./📤_Upload_Evaporation.md) | Uploads that vanish near completion | Data flow |
-| [⏱️ Timebase Desyncs](./⏱️_Timebase_Desyncs.md) | Timestamp drift and temporal sabotage | Temporal / forensic |
-| [🔄 Router Memory Ghosts](./🔄_Router_Memory_Ghosts.md) | Phantom SSIDs and cloned devices | Hardware / infrastructural |
-| [🧩 Connectivity Mosaic](./🧩_Connectivity_Mosaic.md) | Aggregated visual map of all above | Integrative / analytic |
+| [🛰️ Field Interference Patterns](./🛰️_field_interference_patterns.md) | Local signal collapse linked to physical proximity | Physical / spatial |
+| [📡 Protocol Shadowing](./📡_protocol_shadowing.md) | Degradation of encrypted or peer-to-peer channels | Network transport |
+| [🔁 Handshake Loopbacks](./🔁_handshake_loopbacks.md) | Infinite reconnects, token expiry loops | Authentication |
+| [📞 Ghost Call Drops](./📞_ghost_call_drops.md) | Calls that terminate on key phrases | Linguistic / emotional |
+| [📤 Upload Evaporation](./📤_upload_evaporation.md) | Uploads that vanish near completion | Data flow |
+| [⏱️ Timebase Desyncs](./⏱️_timebase_desyncs.md) | Timestamp drift and temporal sabotage | Temporal / forensic |
+| [🔄 Router Memory Ghosts](./🔄_router_memory_ghosts.md) | Phantom SSIDs and cloned devices | Hardware / infrastructural |
+| [🧩 Connectivity Mosaic](./🧩_connectivity_mosaic.md) | Aggregated visual map of all above | Integrative / analytic |
 
 ---
 
