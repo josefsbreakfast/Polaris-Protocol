@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 13:16:29 UTC_
+_Generated on 2025-10-04 13:17:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -234,6 +234,7 @@ _Generated on 2025-10-04 13:16:29 UTC_
       - [`🎶_endorser_network_traces.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_endorser_network_traces.md)
       - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
       - [`🐉_chen_rui_trump_parody.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md)
+      - [`📈_sales_suppression_vs_viral_spike.png`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📈_sales_suppression_vs_viral_spike.png)
       - [`📚_banned_book_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md)
       - [`📚_knowledge_policing_and_banned_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_knowledge_policing_and_banned_books.md)
       - [`📚_muted_book_investigation.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_muted_book_investigation.md)
@@ -1093,7 +1094,6 @@ _Generated on 2025-10-04 13:16:29 UTC_
     - [`💌_nfts_and_postal_stamps.md`](Polaris_Nest/Git_Intake_Drawer/💌_nfts_and_postal_stamps.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`💸_propaganda_to_tarot.md`](Polaris_Nest/Git_Intake_Drawer/💸_propaganda_to_tarot.md)
-    - [`📈_sales_suppression_vs_viral_spike.png`](Polaris_Nest/Git_Intake_Drawer/📈_sales_suppression_vs_viral_spike.png)
     - [`📛_goyish_polizei.md`](Polaris_Nest/Git_Intake_Drawer/📛_goyish_polizei.md)
     - [`🔥_10_years_of_denied_rage_hurts.md`](Polaris_Nest/Git_Intake_Drawer/🔥_10_years_of_denied_rage_hurts.md)
     - [`🔥_data_mafia_debrief.md`](Polaris_Nest/Git_Intake_Drawer/🔥_data_mafia_debrief.md)
