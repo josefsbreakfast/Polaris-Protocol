@@ -12,7 +12,11 @@ dd has not been attempted.
 
 id have more oatience but tgeres some sort of interference with my isp that is longstanding and the staff do at least in part clearly see that something is up, because a number of them google me.  
 
-no shade, i just want to see what you guys are seeing that looks so weird.  
+no shade, i just want to see what you guys are seeing that looks so weird. 
+
+similar acts of taking me off apo/auto registers at city council level is an ongoing thing.  
+
+its like a little cluster of too many ants near sugar and honestly that honey is mine and they shouldmt even be here.  
 
 # 🗂️ Field Log — Drift Between Nodes  
 
