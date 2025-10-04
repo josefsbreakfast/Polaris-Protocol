@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 13:18:55 UTC_
+_Generated on 2025-10-04 13:19:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -532,6 +532,7 @@ _Generated on 2025-10-04 13:18:55 UTC_
       - [`🔥_cooling_the_record.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔥_cooling_the_record.md)
       - [`🔥_guardrails_are_political.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔥_guardrails_are_political.md)
       - [`🕵️_harassment_vs_surveillance.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🕵️_harassment_vs_surveillance.md)
+      - [`🕵️_harassment_vs_surveillance.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🕵️_harassment_vs_surveillance.png)
       - [`🖱_tactile_throttling_when_interaction_becomes_interference.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🖱_tactile_throttling_when_interaction_becomes_interference.md)
       - [`🗳️_liberal_democracy_response_logic.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🗳️_liberal_democracy_response_logic.md)
       - [`🚫_blocked_at_the_gateway.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🚫_blocked_at_the_gateway.md)
@@ -1098,7 +1099,6 @@ _Generated on 2025-10-04 13:18:55 UTC_
     - [`🔥_10_years_of_denied_rage_hurts.md`](Polaris_Nest/Git_Intake_Drawer/🔥_10_years_of_denied_rage_hurts.md)
     - [`🔥_data_mafia_debrief.md`](Polaris_Nest/Git_Intake_Drawer/🔥_data_mafia_debrief.md)
     - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Polaris_Nest/Git_Intake_Drawer/🕌_ornamental_survival_and_misfiled_survivals.md)
-    - [`🕵️_harassment_vs_surveillance.md.png`](Polaris_Nest/Git_Intake_Drawer/🕵️_harassment_vs_surveillance.md.png)
     - [`🕸️_tenant_countermoves_in_covert_surveillance_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_tenant_countermoves_in_covert_surveillance_abuse.md)
     - [`🖍_weirdest_yom_kippur.md`](Polaris_Nest/Git_Intake_Drawer/🖍_weirdest_yom_kippur.md)
     - [`🗂️_signature_silence_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_signature_silence_drift.md)
