@@ -35,3 +35,5 @@ but its constant and i am so very tired.
 i am essentially being left to be nice to someone who is trying to hacksaw off chunks of my soul.
 
 g-d is who guards me.
+
+2025-09-21
