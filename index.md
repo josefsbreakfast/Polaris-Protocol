@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 12:19:57 UTC_
+_Generated on 2025-10-04 12:21:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -313,6 +313,7 @@ _Generated on 2025-10-04 12:19:57 UTC_
       - [**🛰️_Token_Switching_Audit/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/README.md)
         - [`🌍_Non_Tech_Explainer.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🌍_Non_Tech_Explainer.md)
+        - [`📄 _emergency_legal_hold_notice.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/📄 _emergency_legal_hold_notice.md)
         - [`📑_Forensic_Report_Template.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/📑_Forensic_Report_Template.md)
         - [`🔧_Technical_Audit_Playbook.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🔧_Technical_Audit_Playbook.md)
         - [`🕸️_Governance_and_Mitigation.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🕸️_Governance_and_Mitigation.md)
