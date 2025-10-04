@@ -4,20 +4,20 @@
 
 ---
 
-## 📄 Overview  
+## ✨ Overview  
 When a survivor seeks clarity, they may instead receive fragments: partial answers, contradictions, dead-ends.  
 This is not random noise. It is **containment by disorientation** — a feed designed to scramble perception and burn energy.  
 
 ---
 
-## 🧩 Key Features  
+## 🛰️ Key Features  
 - **Fragmentation** — answers arrive as shards, never whole.  
 - **Contradiction** — systems supply mutually exclusive logics, forcing the survivor into a loop.  
 - **Dissipation** — effort shifts from resisting the system to resolving the nonsense.  
 
 ---
 
-## 🔀 Three Modes of Confusion  
+## 🌀 Three Modes of Confusion  
 
 ### 1️⃣ Confusion by Ambiguity  
 *Not enough information → confusion emerges as a side effect*  
@@ -42,7 +42,7 @@ This is not random noise. It is **containment by disorientation** — a feed des
 
 ---
 
-## 🌀 Systemic Implications  
+## 🔥 Systemic Implications  
 
 - **Ambiguity as governance**: confusion loops sustain control while masking as “complexity.”  
 - **Exhaustion infrastructure**: constant sense-making drains survivor capacity.  
@@ -66,7 +66,7 @@ This precision makes “tailored confusion” far more effective than broad disi
 
 ---
 
-## 🎛️ Pocket Rules — Confused Feed Containment  
+## 🐦‍🔥 Pocket Rules — Confused Feed Containment  
 - **Name it** → “This confusion is engineered.”  
 - **Anchor outside** → Hold one fact or one object steady.  
 - **Refuse the loop** → Coherence is not yours to supply.  
