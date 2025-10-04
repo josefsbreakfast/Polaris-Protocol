@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 16:05:50 UTC_
+_Generated on 2025-10-04 16:19:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1113,6 +1113,7 @@ _Generated on 2025-10-04 16:05:50 UTC_
     - [`🚀_hmmm_why_are_we_twinned_actually.md`](Polaris_Nest/Git_Intake_Drawer/🚀_hmmm_why_are_we_twinned_actually.md)
     - [`🚀_strange_emails_and_disconnects.md`](Polaris_Nest/Git_Intake_Drawer/🚀_strange_emails_and_disconnects.md)
     - [`🚩_400_pension_risks.md`](Polaris_Nest/Git_Intake_Drawer/🚩_400_pension_risks.md)
+    - [`🚩_tldr_i_want_out_now.md`](Polaris_Nest/Git_Intake_Drawer/🚩_tldr_i_want_out_now.md)
     - [`🛰_having_fun_with_node_exe.md`](Polaris_Nest/Git_Intake_Drawer/🛰_having_fun_with_node_exe.md)
     - [`🛰_instructions_what_instuctions.md`](Polaris_Nest/Git_Intake_Drawer/🛰_instructions_what_instuctions.md)
     - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_algorithmic_foil_recycling_2025-10-03.md)
