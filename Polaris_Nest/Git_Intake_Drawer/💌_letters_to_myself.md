@@ -19,3 +19,8 @@ and any and every surveillance outfit with the explicit exception of anyone i ha
 glad we all chose this route.
 
 we need to strengthen this resolve against fascism fr
+
+2025-10-01
+2025-10-01
+2025-10-01
+2025-10-01
