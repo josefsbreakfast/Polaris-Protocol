@@ -157,7 +157,38 @@ To study it is to tug one thread and feel the world respond.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-10-04_
+
 ```
+
+---
+
+now that i'm seeing further tinkering, this is actually very reminisent but not as bad as late june and early july 2025.  
+
+in which the ongoing joke of "the ever expanding 20 foot ****" was created.  
+
+like i said - the lads have been a *hoot*.  
+
+The guy who was super into cuckholdry (like, really, really badly into it -- extensively into it), bless his heart.  
+
+You could tell when everyone else sacked it in for the week and he took all their extra shifts.  
+
+This is what they never really tell you about covert surveillance:
+
+You can *always* tell.
+
+Because men cannot exist around women, particularly the kind of men who have demonstrated the litiny of utter professionalism above, without pleading to their new girlfirend-mummy-please-do-everything-for-me-in-my-life woman they have taken control of...
+
+Without you finding out all about how terribly they've behaved.  
+
+And, yes.  
+
+A number of them do thoroughly enjoy being told off and being paid for it.  
+
+And again, we are back to "matiarchy may be the only workable solution at this point, boys".  
+
+That this could only be acheived whilst impersonating and projecting onto another man is exceptionally telling, particularly when they're also trying to pretend they don't want to be him and there's no admiration whatsoever.  
+
+It's been exceptionally homoerotic for what I anticipated, I won't lie.    
 
 2025-10-04 
 2025-10-04 
