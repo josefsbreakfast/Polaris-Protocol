@@ -11,3 +11,5 @@ Fails to surprise me what white men can do, and absolutely never get arrested fo
 perhaps I'm just in a bad mood, but you can do some pretty fucked up shit and if you're white and male?  
 
 The law is functioning as intended.
+
+2025-10-02
