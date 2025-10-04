@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 18:39:01 UTC_
+_Generated on 2025-10-04 18:40:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1086,6 +1086,7 @@ _Generated on 2025-10-04 18:39:01 UTC_
     - [`🎶_taiz_lalgorithme_album_intake.md`](Polaris_Nest/Git_Intake_Drawer/🎶_taiz_lalgorithme_album_intake.md)
     - [`🎶_they_not_like_us.md`](Polaris_Nest/Git_Intake_Drawer/🎶_they_not_like_us.md)
     - [`🎽_think_tanks_surveillance_and_conferencing.md`](Polaris_Nest/Git_Intake_Drawer/🎽_think_tanks_surveillance_and_conferencing.md)
+    - [`🏛️_conservatorship_like_abuses_in_the_UK.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_conservatorship_like_abuses_in_the_UK.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`🐓_have_you_noticed.md`](Polaris_Nest/Git_Intake_Drawer/🐓_have_you_noticed.md)
     - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
