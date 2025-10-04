@@ -48,4 +48,6 @@ Obviously not; such scientists, much humanities.
 
 None of them spend the entirity of their own degrees on /pol/ instead of actually studying, after all.  
 
+(What can I say? Think before rickrolling a rickroller? The tactics don't work when I also see the joke, do they?)
+
 2025-10-04
