@@ -51,9 +51,9 @@ vpn disconnections, induced futility, psychological containment, security risk, 
 It documents how intermittent VPN disconnections can function as both a security vulnerability and a subtle containment tactic.  
 
 > 📡 Cross-references:  
-> - [🌐 Connection Hiccups](../../Disruption_Kit/Weirdness_Screening/🌐_Connection_Hiccups.md) — Wi-Fi drops, call cuts  
-> - [🧠 Psychological Containment](../🧠_psychological_containment.md) — induced futility, delays as violence  
-> - [🛰️ Proximity Control Logs](../../Metadata_Sabotage_Network/🛰️_proximity_control_logs.md) — field signal & proximity interference  
+> - [🌐 Connection Hiccups](../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md) — Wi-Fi drops, call cuts  
+> - [🧠 Psychological Containment](./README.md) — induced futility, delays as violence  
+> - [🛰️ Proximity Control Logs](../../Suppression_Layers/🛰️_Proximity_Control_Logs/README.md) — field signal & proximity interference  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
