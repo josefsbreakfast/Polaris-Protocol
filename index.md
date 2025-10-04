@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 12:59:37 UTC_
+_Generated on 2025-10-04 13:01:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -312,6 +312,7 @@ _Generated on 2025-10-04 12:59:37 UTC_
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
       - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
+        - [`🧵_paper_as_containment_audit.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/🧵_paper_as_containment_audit.md)
       - [**🛰️_Token_Switching_Audit/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/README.md)
         - [`⚰️_death_review_integrity_audit.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/⚰️_death_review_integrity_audit.md)
