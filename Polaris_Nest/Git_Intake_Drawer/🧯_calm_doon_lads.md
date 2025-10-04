@@ -28,4 +28,12 @@ See what it's like.
 
 I heard they have robots, and they never did let me see what the ultrasonic noise-maker looked like (prob too much jizz in it idk), so I'm rather excited.  
 
+---
+
+Btw, the entire premise of their particular hook here, is that it is fundamentally not possible to be professsional in the workplace with members of the opposite sex, and not for either the male part to be incredibly rapey and/or the woman to be "gagging for it".  
+
+Let that sink in.  
+
+Because people tell on themselves every G-d damn day.  
+
 2025-10-04
