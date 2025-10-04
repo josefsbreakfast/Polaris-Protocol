@@ -69,3 +69,10 @@ Blackmail, protection racket, hostage taking...
 
 
 Idk what you call it, but it's fucked up.  
+
+2025-10-02
+
+2025-10-02
+
+2025-10-02
+
