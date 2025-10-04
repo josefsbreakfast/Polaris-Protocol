@@ -6,6 +6,14 @@ serveral other accounta are logged out.
 
 this is weird. 🤷‍♀️
 
+---
+
+dd has not been attempted.  
+
+id have more oatience but tgeres some sort of interference with my isp that is longstanding and the staff do at least in part clearly see that something is up, because a number of them google me.  
+
+no shade, i just want to see what you guys are seeing that looks so weird.  
+
 # 🗂️ Field Log — Drift Between Nodes  
 
 **Date:** 2025-10-04  
