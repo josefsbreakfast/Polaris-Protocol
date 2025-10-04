@@ -1,6 +1,6 @@
 # 🧨 Procedural Wait Your Turn  
 **First created:** 2025-08-09 | **Last updated:** 2025-10-04  
-*Containment narrative that reframes suppression as neutral governance.*
+*Containment narrative that reframes suppression as neutral governance*
 
 ---
 
