@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 23:40:34 UTC_
+_Generated on 2025-10-04 23:40:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -776,7 +776,7 @@ _Generated on 2025-10-04 23:40:34 UTC_
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
       - [`⏳_delay_scripts_near_deadlines.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md)
-      - [`⏳_looped_waiting_rooms_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms_2025-09-13.md)
+      - [`⏳_looped_waiting_rooms.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms.md)
       - [`✡️_shabbat_exemption_inversion.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/✡️_shabbat_exemption_inversion.md)
       - [`🌀_confused_feed_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md)
       - [`🌀_recognition_without_resolution_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md)
