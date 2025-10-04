@@ -1,6 +1,6 @@
 # 🧩 Connectivity Mosaic  
 **First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*Aggregate diagnostic map combining multiple interference logs.*
+*Aggregate diagnostic map combining multiple interference logs*
 
 ---
 
