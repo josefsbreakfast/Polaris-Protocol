@@ -1,6 +1,6 @@
 # 🔁 Handshake Loopbacks  
 **First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*Authentication refresh cycles that trap users in infinite reconnects.*
+*Authentication refresh cycles that trap users in infinite reconnects*
 
 ---
 
