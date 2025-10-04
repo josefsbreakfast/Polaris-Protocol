@@ -1,6 +1,6 @@
 # ⚰️ Death Review Integrity Audit  
 **First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*Audit protocol for detecting suppression, bias, and procedural irregularities in death-review and coroner referral processes.*
+*Audit protocol for detecting suppression, bias, and procedural irregularities in death-review and coroner referral processes*
 
 ---
 
