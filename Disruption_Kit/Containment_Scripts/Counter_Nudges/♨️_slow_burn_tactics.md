@@ -1,6 +1,6 @@
 # ♨️ Slow Burn Tactics  
 **First created:** 2025-08-05 | **Last updated:** 2025-10-04  
-*Counter-nudge methods of cumulative resistance designed to exhaust containment systems without escalation.*
+*Counter-nudge methods of cumulative resistance designed to exhaust containment systems without escalation*
 
 ---
 
