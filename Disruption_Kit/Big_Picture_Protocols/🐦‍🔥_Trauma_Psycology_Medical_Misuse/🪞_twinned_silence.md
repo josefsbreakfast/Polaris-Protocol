@@ -155,7 +155,7 @@ See also:
 > - [🫛 Amplification by Convergence](../../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *how convergence is structurally amplified and resolved*  
 > - [🧬 Cloneproof](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *resisting data amalgamation and identity splicing*
 > - [🪞 Twinning Fork Containment Timeline](./🪞_twinning_fork_containment_timeline.md) — *sequence of enforced mirroring*  
-> - [🧬 The Invisible Audit Gap](../../Field_Logs/🧬_the_invisible_audit_gap.md) — *how oversight fails to register silence*  
+> - [🧬 The Invisible Audit Gap](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_the_invisible_audit_gap.md) — *how oversight fails to register silence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
