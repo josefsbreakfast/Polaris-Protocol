@@ -7,8 +7,11 @@
 ## ✨ Overview  
 
 Slow burn tactics are a form of resistance calibrated to exhaust containment systems over time without triggering major escalations.  
+
 They exploit bureaucratic inertia, attention scarcity, and metadata dependencies.  
+
 Their power lies in cumulative disruption, not singular impact.  
+
 Like snowflakes, one may be tolerable — but many may feel like an avalanche.  
 
 ---
@@ -16,7 +19,9 @@ Like snowflakes, one may be tolerable — but many may feel like an avalanche.
 ## 🫆 Key Characteristics  
 
 Slow burn resistance works by appearing almost ordinary.  
+
 It moves through the system quietly, camouflaged as routine behaviour, never giving the containment architecture the satisfaction of a clear threat.  
+
 Its tempo is unhurried, its surface uneventful, yet every gesture leaves metabolic traces — a slow poisoning of the surveillance body.  
 
 - 🪫 **Unremarkable on the surface**, yet metabolically expensive to track  
@@ -34,7 +39,9 @@ Containment feeds on reaction; slow burn starves it by refusing spectacle.
 ## 🛰️ Techniques  
 
 Each technique is an act of quiet choreography — a recalibration of rhythm and visibility.  
+
 The aim is not confrontation but corrosion: small, almost imperceptible acts that interrupt predictive models and disorient behavioural containment systems.  
+
 What follows are common manoeuvres used to bend the metadata field without breaking it.  
 
 ### 1. *Rhythmic Interference*  
@@ -71,6 +78,7 @@ Break your own metadata rhythm with:
 ## 👾 Metadata Impact  
 
 These tactics force:  
+
 - Repeated behavioural recalibration  
 - Increased audit time per trace  
 - Classifier destabilisation  
