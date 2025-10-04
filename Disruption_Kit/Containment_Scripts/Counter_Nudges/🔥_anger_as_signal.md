@@ -90,7 +90,7 @@ It documents survivor anger as a forensic marker of systemic cruelty and institu
 reclaiming affect as data and refusal as evidence.  
 
 > 📡 Cross-references:  
-> - [🕵️ Collapse Between Harassment and Surveillance](../Big_Picture_Protocols/🕵️_harassment_vs_surveillance.md)  
+> - [🕵️ Collapse Between Harassment and Surveillance](../Suppression_Modes/🕵️_harassment_vs_surveillance.md)  
 > - [🇬🇧 CVE Voice Containment] *WIP*
 > - [♨️ Slow Burn Tactics](../Counter_Nudges/♨️_slow_burn_tactics.md) — *tempo work preceding affective ignition*  
 
