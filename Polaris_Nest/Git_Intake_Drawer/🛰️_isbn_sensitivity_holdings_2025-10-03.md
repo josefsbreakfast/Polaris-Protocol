@@ -88,3 +88,8 @@ just because antizionist jews are all sectioned off? doesn't mean we are all alo
 i could start naming names but it'll just sound like i'm taking register for bar mitzvah class.  
 
 ---
+
+2025-10-03
+2025-10-03
+2025-10-03
+
