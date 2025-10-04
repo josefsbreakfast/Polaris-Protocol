@@ -4,7 +4,7 @@
 
 ---
 
-## 📄 Overview  
+## ✨ Overview  
 
 Institutions facing exposure of **twin records** or other containment mechanisms often deploy scripted delays.  
 These play out most clearly when a hard **deadline** (trial entry, referral, compliance check) is approaching.  
@@ -46,7 +46,7 @@ These play out most clearly when a hard **deadline** (trial entry, referral, com
 
 ---
 
-## 🧭 Counter-Use  
+## 💫 Counter-Use  
 
 - Document **dates, times, and exact wording** when minimisation occurs.  
 - Preserve evidence showing how answers shift as deadlines approach.  
