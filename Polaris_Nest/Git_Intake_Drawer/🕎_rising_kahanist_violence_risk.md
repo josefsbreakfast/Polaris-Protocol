@@ -70,7 +70,21 @@ The term *anti-semitism* itself was coined by people who hated Jews; the “phil
 When Western culture praises Jews as exceptional—too clever, too ethical, too persecuted to ever do wrong—it performs the same dehumanisation as open hatred.  
 These “good” stereotypes make Jewish wrongdoing unthinkable and Jewish accountability impossible.  
 Every compliment carries its recoil: *“clever with money”* becomes *“manipulative,”* *“chosen”* becomes *“clannish.”*  
-To challenge anti-Jewish bigotry we must dismantle its flattering half as well as its hostile half.  As Shylock reminds us, *“If you prick us, do we not bleed?”*  Humanity, not exceptionality, is what restores equality.
+To challenge anti-Jewish bigotry we must dismantle its flattering half as well as its hostile half.  As Shylock reminds us, *“If you prick us, do we not bleed?”*  Humanity, not exceptionality, is what restores equality.  
+
+---
+
+## 🇮🇱 Diaspora Politics and the Likud Legacy  
+
+Recent events should not surprise anyone familiar with the political lineage.  Amichai Chikli, current Israeli Minister for Diaspora Affairs and member of the Likud party, treats world Jewry—including British Jews—as part of a single “risk portfolio.”  In practice, that means every Jew abroad is imagined as a node of responsibility for Israel’s image and security, regardless of personal belief or connection to the state.
+
+Likud itself was founded in the 1970s after the Yom Kippur War and has consistently represented an expansionist, settler-colonial strain of Zionism.  Since the assassination of Yitzhak Rabin and the collapse of the Oslo Accords, Likud’s crisis politics have dominated Israeli governance, intertwining national security with U.S. imperial interests.  By 2023–25, Kahanist and messianic symbols were appearing openly within IDF units and diaspora activism—a fusion of religious nationalism and global alt-right aesthetics.
+
+When Chikli invites figures such as Stephen Yaxley-Lennon (Tommy Robinson) into dialogue, he is not creating a new alliance but revealing an old ideological convergence.  This mirrors the long pattern of Likud leaders sharing stages with far-right or Holocaust-revisionist figures while claiming to defend Jews from antisemitism.
+
+For British Jews, this has concrete consequences.  Diaspora Jews become extensions of Israeli policy without consent, expected to defend actions that many find indefensible.  Supporting such politics in the name of fighting antisemitism is philosemitism in its most dangerous form: the belief that Jewish safety can only be purchased through the harm of others.
+
+As Baroness Warsi has argued publicly, genuine emancipation and equality in Britain require confronting these alignments.  Solidarity means rejecting both antisemitism and its mirror image, the uncritical worship of Jewish power.  History is calling; the test is whether British society—and British Jews—can meet it.
 
 ---
 
