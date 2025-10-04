@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 12:19:41 UTC_
+_Generated on 2025-10-04 12:19:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -257,8 +257,6 @@ _Generated on 2025-10-04 12:19:41 UTC_
       - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
       - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
-      - [**audit_death_review/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/audit_death_review/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/audit_death_review/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/README.md)
       - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🎙️_why_they_collect_audio.md)
       - [`🎻_clash_of_forks.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🎻_clash_of_forks.md)
