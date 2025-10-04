@@ -17,3 +17,4 @@ stubborn last gasps of control from a dying system.
 i might have to do what g-d wants and be thoughtful about repair and work towards the world to come.  
 
 have a meaningful holiday.  
+2025-10-01
