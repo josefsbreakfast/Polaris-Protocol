@@ -1,10 +1,10 @@
 # 🌀 Confused Feed as Containment  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
 *How incoherence and scrambled answers function as systemic suppression*  
 
 ---
 
-## 🌌 Overview  
+## 📄 Overview  
 When a survivor seeks clarity, they may instead receive fragments: partial answers, contradictions, dead-ends.  
 This is not random noise. It is **containment by disorientation** — a feed designed to scramble perception and burn energy.  
 
@@ -76,7 +76,7 @@ This precision makes “tailored confusion” far more effective than broad disi
 
 ## 🌌 Constellations  
 
-🌀 🧿 🪆  
+🌀 🧿 🪆 🧠  
 - **Franz Kafka — *The Trial***: bureaucracy as infinite loop of confusion and obstruction.  
 - **Mark Z. Danielewski — *House of Leaves***: labyrinthine architecture producing disorientation.  
 - **Dark City (1998)**: a world re-shaped nightly to destabilise memory and perception.  
@@ -119,10 +119,10 @@ It frames incoherence not as failure, but as a deliberate tactic of suppression 
 Because the human nervous system cannot indefinitely process incongruent stimuli without harm, such tactics are not trivial: they fall within the recognised domains of psychological abuse and, at scale or over time, psychological torture.  
 
 > 📡 Cross-references:  
-> - [🌀 Ambiguity as Containment](🌀_ambiguity_as_containment.md) — vagueness as control loop  
-> - [😴 Cognitive Load as Infrastructure](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md)  
-> - [🕯️ Hope Withholding](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md)  
+> - [🌀 Ambiguity as Containment](🌀_ambiguity_as_containment.md) — *vagueness as control loop*  
+> - [😴 Cognitive Load as Infrastructure](😴_cognitive_load_as_infrastructure.md) — *exhaustion mechanics*  
+> - [🕯️ Hope Withholding](🕯️_hope_withholding.md) — *emotional throttling script*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-05_
