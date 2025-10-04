@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 20:57:33 UTC_
+_Generated on 2025-10-04 20:59:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1329,6 +1329,7 @@ _Generated on 2025-10-04 20:57:33 UTC_
     - [`👻_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👻_ghost_capture_fragment.md)
     - [`👻_who_are_the_ghosts.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👻_who_are_the_ghosts.md)
   - [**🦴_Skeletal_Shards/**](👻_Apparitional_Objects/🦴_Skeletal_Shards/)
+    - [`README.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/README.md)
     - [`🔮_challenge_of_ai.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
