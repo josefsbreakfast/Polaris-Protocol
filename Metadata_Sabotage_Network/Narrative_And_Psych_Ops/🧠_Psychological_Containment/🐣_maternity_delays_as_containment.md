@@ -18,4 +18,4 @@ In maternity, the system turns biology into a site of control.
 “They held me at the barrier when I was in labour. They said: wait. They made my pain a form to be processed.”  
 
 ---
-🏮 [Return to Admin Kit](../README.md)
+
