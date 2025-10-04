@@ -129,11 +129,12 @@ See also:
 ## 🌌 Constellations  
 
 🪞 🧿 🌀 — This node sits at the intersection of mirroring, witness containment, and systemic diagnostic registers.  
-> **The Silence Quartet:**  
-> - Silvia Moreno-Garcia, *Signal to Noise* — music as magic that collapses without care.  
-> - Toko-pa Turner, *Belonging: Remembering Ourselves Home* — compassion and community as antidote to contradiction.  
-> - Massoud Hayoun, *When We Were Arabs* — testimony of narrative capture and erased histories.  
-> - Susan Orlean, *The Library Book* — archives, acknowledgement, and the politics of preservation.  
+
+**The Silence Quartet:**  
+- Silvia Moreno-Garcia, *Signal to Noise* — music as magic that collapses without care.  
+- Toko-pa Turner, *Belonging: Remembering Ourselves Home* — compassion and community as antidote to contradiction.  
+- Massoud Hayoun, *When We Were Arabs* — testimony of narrative capture and erased histories.  
+- Susan Orlean, *The Library Book* — archives, acknowledgement, and the politics of preservation.  
 
 ---
 
@@ -145,7 +146,8 @@ twinning, splicing, witness suppression, contradiction, weaponised mirroring, te
 
 ## 🏮 Footer  
 
-*🪞 Twinned Silence* is a living node of the Polaris Protocol.  
+*Twinned Silence* is a living node of the Polaris Protocol.  
+
 It documents how paired witnesses are structurally disempowered by being groomed — and spliced — to cancel each other’s testimony.  
 
 > 📡 Cross-references:
