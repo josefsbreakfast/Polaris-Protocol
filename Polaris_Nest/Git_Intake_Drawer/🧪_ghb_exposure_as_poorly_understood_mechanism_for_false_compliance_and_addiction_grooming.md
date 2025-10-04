@@ -9,3 +9,5 @@ and i know the glass tasted like the dishwasher soap hadn't been rinsed properly
 ? repeated exposures to enhance addiction loop which appears as "clingyness" but is really just victims/survivors exhibiting gaba axis disturbance plus unknown addiction which they associate with physical presence of covert poisoner. 
 
 it is poisoning; on my meds i could have died. so fuck you. <3
+
+2025-09-22
