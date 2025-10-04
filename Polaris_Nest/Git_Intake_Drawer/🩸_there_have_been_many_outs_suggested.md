@@ -40,3 +40,6 @@ i always told you of a specific tishuva.
 i know you didmt like it.
 
 but their land? we are not even there legally. why are our sons and our daughters arresting children? why are babies dying of preventable disease? none of this is gettimg anyone back. none of this is right. we must stop it.  
+
+
+2025-10-02
