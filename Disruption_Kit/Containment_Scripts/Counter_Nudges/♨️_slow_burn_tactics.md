@@ -152,7 +152,7 @@ slow burn, counter-nudge, behavioural containment, BDS campaigns, Warsaw Ghetto 
 It documents counter-nudge methods of cumulative resistance, designed to erode containment capacity without direct escalation.  
 
 > 📡 Cross-references:  
-> - [Counter Nudges Guide](./README.md) — *behavioural resistance cluster*  
+> - [🧨 Counter Nudges Guide](./README.md) — *behavioural resistance cluster*  
 > - [Survivor Tools](../../Survivor_Tools/) — *applied tactics and rhythm management*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
