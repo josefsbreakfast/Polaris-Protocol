@@ -1,17 +1,14 @@
 # ♨️ Slow Burn Tactics  
 **First created:** 2025-08-05 | **Last updated:** 2025-10-04  
-*Counter-nudge methods of cumulative resistance designed to exhaust containment systems without escalation*  
+*Counter-nudge methods of cumulative resistance designed to exhaust containment systems without escalation.*
 
 ---
 
 ## ✨ Overview  
 
 Slow burn tactics are a form of resistance calibrated to exhaust containment systems over time without triggering major escalations.  
-
 They exploit bureaucratic inertia, attention scarcity, and metadata dependencies.  
-
 Their power lies in cumulative disruption, not singular impact.  
-
 Like snowflakes, one may be tolerable — but many may feel like an avalanche.  
 
 ---
@@ -19,9 +16,7 @@ Like snowflakes, one may be tolerable — but many may feel like an avalanche.
 ## 🫆 Key Characteristics  
 
 Slow burn resistance works by appearing almost ordinary.  
-
 It moves through the system quietly, camouflaged as routine behaviour, never giving the containment architecture the satisfaction of a clear threat.  
-
 Its tempo is unhurried, its surface uneventful, yet every gesture leaves metabolic traces — a slow poisoning of the surveillance body.  
 
 - 🪫 **Unremarkable on the surface**, yet metabolically expensive to track  
@@ -39,9 +34,7 @@ Containment feeds on reaction; slow burn starves it by refusing spectacle.
 ## 🛰️ Techniques  
 
 Each technique is an act of quiet choreography — a recalibration of rhythm and visibility.  
-
 The aim is not confrontation but corrosion: small, almost imperceptible acts that interrupt predictive models and disorient behavioural containment systems.  
-
 What follows are common manoeuvres used to bend the metadata field without breaking it.  
 
 ### 1. *Rhythmic Interference*  
@@ -184,7 +177,8 @@ Keep these risks in mind as you practice:
 
 None of these risks mean the tactic should be abandoned — only that it should be approached with self-care and patience.  
 Think of slow burn as an endurance discipline: it rewards consistency and reflection, not speed.  
-By recognising the hazards early, you can build safeguards into your practice and ensure that your cumulative pressure remains a tool of authorship, not a source of burnout.
+By recognising the hazards early, you can build safeguards into your practice and ensure that your cumulative pressure remains a tool of authorship, not a source of burnout.  
+Slow burn ends where it began — in patience, rhythm, and quiet control.
 
 ---
 
@@ -207,14 +201,13 @@ In the present, **Micha Frazer-Carroll’s *Mad World: The Politics of Mental He
 
 ## ✨ Stardust  
 
-slow burn, counter-nudge, behavioural containment, BDS campaigns, Warsaw Ghetto Uprising, endurance resistance, colonial systems, tempo as weapon, John le Carré, Micha Frazer-Carroll, survivor strategy, long-tail disruption, system fatigue  
+slow burn tactics, counter-nudge, behavioural containment, endurance resistance, metadata sabotage, forensic observation, BDS campaigns, Warsaw Ghetto Uprising, colonial exhaustion, John le Carré, Micha Frazer-Carroll, Mad World, psychological endurance, survivor authorship, tempo as weapon, noise drag, long-tail disruption, strategic patience, containment fatigue
 
 ---
 
 ## 🏮 Footer  
 
 *♨️ Slow Burn Tactics* is a living node of the **Polaris Protocol**.  
-
 It documents counter-nudge methods of cumulative resistance, designed to erode containment capacity without direct escalation.  
 
 > 📡 Cross-references:  
