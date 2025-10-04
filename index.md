@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 13:58:33 UTC_
+_Generated on 2025-10-04 14:07:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1140,6 +1140,7 @@ _Generated on 2025-10-04 13:58:33 UTC_
     - [`🧫_black_mould_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧫_black_mould_principle.md)
     - [`🧫_is_this_your_drug_allergy.md`](Polaris_Nest/Git_Intake_Drawer/🧫_is_this_your_drug_allergy.md)
     - [`🧬_digital_twins_as_cause_of_shattered_irl_persona.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_twins_as_cause_of_shattered_irl_persona.md)
+    - [`🧬_mrna_but_make_it_auditing_the_men.md`](Polaris_Nest/Git_Intake_Drawer/🧬_mrna_but_make_it_auditing_the_men.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
     - [`🧾_New_Additions_Prepbook.md`](Polaris_Nest/Git_Intake_Drawer/🧾_New_Additions_Prepbook.md)
