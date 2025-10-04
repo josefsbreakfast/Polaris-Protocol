@@ -1,5 +1,5 @@
 # 🚩 Angleland Ahoy!  
-**First created:** 2025-10-04  |  **Last updated:** 2025-10-04  
+**First created:** 2025-09-29  |  **Last updated:** 2025-10-04  
 *A Capture-the-Flag-cum-Regime-Change parody RPG about who really runs Angleland when everyone claims to love the flag.*
 
 ---
