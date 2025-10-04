@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-04 20:45:46 UTC_
+_Generated on 2025-10-04 20:46:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -372,6 +372,7 @@ _Generated on 2025-10-04 20:45:46 UTC_
       - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
       - [`📖_erased_archives_and_survival_bias.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
       - [`📜_blavatsky_case_study_cairo_ban.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📜_blavatsky_case_study_cairo_ban.md)
+      - [`📜_freedom_of_information_loopholes.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📜_freedom_of_information_loopholes.md)
       - [`📜_teen_poetry_as_pretext.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📜_teen_poetry_as_pretext.md)
       - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
       - [`📦_containment_by_classification.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📦_containment_by_classification.md)
