@@ -110,9 +110,9 @@ administrative exclusion, and enduring uncertainty for EU nationals in the UK �
 and situates these failures within a wider European landscape of partial remediation.  
 
 > 📡 Cross-references:  
-> - [🔮 UK Digital ID Risk Forecast](../🔮_uk_digital_id_risk_forecast.md)  
-> - [👥 Twin Profiles Biometrics](../👥_twin_profiles_biometrics.md)  
-> - [🧟‍♀️ Digital ID Zombie Profiles](../🧟‍♀️_digital_id_zombie_profiles.md)  
+> - [🔮 UK Digital ID Risk Forecast](../../Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)  
+> - [👥 Twin Profiles Biometrics](../🧟‍♀️_Residual_Shadows/👥_twin_profiles_biometrics.md)  
+> - [🧟‍♀️ Digital ID Zombie Profiles](../🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
