@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 18:09:44 UTC_
+_Generated on 2025-10-05 18:12:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1159,6 +1159,7 @@ _Generated on 2025-10-05 18:09:44 UTC_
     - [`🚀_strange_emails_and_disconnects.md`](Polaris_Nest/Git_Intake_Drawer/🚀_strange_emails_and_disconnects.md)
     - [`🚩_400_pension_risks.md`](Polaris_Nest/Git_Intake_Drawer/🚩_400_pension_risks.md)
     - [`🚩_tldr_i_want_out_now.md`](Polaris_Nest/Git_Intake_Drawer/🚩_tldr_i_want_out_now.md)
+    - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [`🛰_having_fun_with_node_exe.md`](Polaris_Nest/Git_Intake_Drawer/🛰_having_fun_with_node_exe.md)
     - [`🛰_instructions_what_instuctions.md`](Polaris_Nest/Git_Intake_Drawer/🛰_instructions_what_instuctions.md)
     - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_algorithmic_foil_recycling_2025-10-03.md)
@@ -1410,4 +1411,3 @@ _Generated on 2025-10-05 18:09:44 UTC_
   - [`README.md`](🩻_Weirdness_Screening/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
-- [`🛡_state_behavioural_arms_uk_quick_reference.md`](🛡_state_behavioural_arms_uk_quick_reference.md)
