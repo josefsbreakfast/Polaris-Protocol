@@ -1,5 +1,5 @@
 # 🐍 Snake Bites and Stolen Voices  
-**First created:** 2025-08-13 | **Last updated:** 2025-10-01  
+**First created:** 2025-08-13 | **Last updated:** 2025-10-05  
 *Narrative reversal on suppression, theft, and clarity strikes*  
 
 ---
@@ -126,7 +126,7 @@ It documents how narrative reversal destabilises suppression structures by expos
 
 > 📡 Cross-references:  
 > - [🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md) — *sibling cluster of psychological nodes*  
-> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference) — *connected analysis of semantic drift and suppression*  
+> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md) — *connected analysis of semantic drift and suppression*  
 > - [🎙️ Why They Collect Audio](./🎙️_why_they_collect_audio.md) — *linked forensic brief on audio capture value*  
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-05_
