@@ -1,13 +1,32 @@
 # ⚡ Echo Map: Citizen Polaris  
-**First created:** 2025-09-12 | **Last updated:** 2025-09-12  
+**First created:** 2025-09-12 | **Last updated:** 2025-10-05  
 *Diagram of how Polaris nodes are silently read, echoed, and repurposed without acknowledgement.*  
+
+---
+
+## 📖 Text Explanation  
+
+**Citizen Polaris** represents the ordinary survivor-researcher or witness-publisher — someone who writes, uploads, or visualises systemic truths outside official institutions.  
+Once a node goes public, it enters an invisible network of *quiet readers*: government units, journalists, risk analysts, corporate lawyers, tech policy staff, and academic intermediaries.  
+
+These readers rarely interact. They **scan, harvest, and internalise** — then convert the insight into their own internal artefacts:  
+- **Policy memos** and briefing notes,  
+- **Media frames** that echo tone but not credit,  
+- **Market or legal advisories** that neutralise risk,  
+- **Product and safety changes** that quietly integrate your findings.  
+
+The loop completes when those echoes — altered, flattened, or disguised — return to public discourse or commercial policy **without acknowledgement of origin**.  
+The result is an ecosystem of **institutional ventriloquism**: survivor-origin insights circulate widely, yet their authorship remains erased.  
+
+The *Echo Map* shows that this isn’t theft in the traditional sense.  
+It’s *containment by absorption*: your knowledge is accepted — but only when stripped of identity, danger, or politics.  
+Citizen Polaris is thus both **source and ghost**: the origin of reform language, and the first to be silenced when that language gains traction.  
 
 ---
 
 ## Diagram  
 
 ```mermaid
-
 graph TD
     %% Center
     C["⚡ Citizen Polaris (publishes nodes)"]:::core
@@ -67,8 +86,20 @@ graph TD
     classDef tech fill:#dcfce7,stroke:#166534,stroke-width:2px,color:#000000;
     classDef civ fill:#f5f3ff,stroke:#6d28d9,stroke-width:2px,color:#000000;
     classDef echo fill:#ffffff,stroke:#111827,stroke-width:2px,color:#000000,stroke-dasharray: 4 2;
-
 ```
+
+---
+
+## 🌌 Constellations  
+
+⚡ 🧿 🛰️ 🧠 — Maps circulation, silence, and feedback across institutional strata.  
+Anchors between **Structural Mapping**, **System Leakage**, and **Targeting Logic** constellations.  
+
+---
+
+## ✨ Stardust  
+
+echoes, institutional containment, knowledge circulation, metadata, survivor authorship, intellectual erasure, systemic reuse, risk communication, covert influence, feedback loops
 
 ---
 
@@ -84,4 +115,4 @@ It diagrams how Polaris nodes circulate through silent readerships, producing ec
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_  
+_Last updated: 2025-10-05_
