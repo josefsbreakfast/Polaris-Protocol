@@ -80,7 +80,7 @@ It collects non-negotiable waypoints — digital, relational, and psychological 
 
 > 📡 Cross-references:
 > 
-> - [🌑 Induced Futility](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)  
+> - [🌑 Induced Futility](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)  
 > - [🪆 Narrative Interference](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
