@@ -134,9 +134,9 @@ jewish survivors, presumption, privilege, erasure, antisemitism, solidarity fati
 It documents how presumptions of privilege, communal gatekeeping, and inherited vigilance erase Jewish survivor testimony, obstruct solidarity, and recode harm as self-sufficiency.  
 
 > 📡 Cross-references:  
-> - [🕎 Exile Logic and Dual Coding](./🕎_exile_logic_and_dual_coding.md)
-> - [🗞️ Hollowing of the Commons](../🗞️_hollowing_of_the_commons.md)  
-> - [🌑 Induced Futility](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_psychological_containment/🌑_induced_futility.md)  
+> - [🕎 Exile Logic and Dual Coding](./🕎_exile_logic_dual_coding.md)
+> - [🗞️ Hollowing of the Commons](./🗞️_hollowing_of_the_commons.md)  
+> - [🌑 Induced Futility](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
