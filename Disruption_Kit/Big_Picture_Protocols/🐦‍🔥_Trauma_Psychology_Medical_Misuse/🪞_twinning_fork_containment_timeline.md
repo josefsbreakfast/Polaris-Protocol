@@ -1,8 +1,6 @@
-# 🪞 Twinning Fork Containment Timeline
-
-**First created:** 2025-08-12 | **Last updated:** 2025-08-30
-
-*Behavioural twinning, ghost forks, and containment chronology.*
+# 🪞 Twinning Fork Containment Timeline  
+**First created:** 2025-08-12 | **Last updated:** 2025-10-05  
+*Behavioural twinning, ghost forks, and containment chronology*  
 
 ---
 
@@ -105,4 +103,4 @@ It traces the historical phases of behavioural twinning and ghost fork containme
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-30_
+_Last updated: 2025-10-05_
