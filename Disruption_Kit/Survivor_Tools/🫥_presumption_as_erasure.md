@@ -135,8 +135,8 @@ It documents how presumptions of privilege, communal gatekeeping, and inherited 
 
 > 📡 Cross-references:  
 > - [🕎 Exile Logic and Dual Coding](./🕎_exile_logic_and_dual_coding.md)
-> - [🌐 Hollowing of the Commons](../Big_Picture_Protocols/🌐_hollowing_of_the_commons.md)  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_psychological_containment/🌑_induced_futility.md)  
+> - [🗞️ Hollowing of the Commons](../🗞️_hollowing_of_the_commons.md)  
+> - [🌑 Induced Futility](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_psychological_containment/🌑_induced_futility.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
