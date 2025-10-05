@@ -49,7 +49,7 @@ It extends **🪬 Radicalisation & Extremism** by gathering practical, clinical,
 > 
 > - [🪬 Radicalisation & Extremism](../) — *parent cluster*  
 > - [🧟‍♀️ The Frankenstack Problem](../../🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md) — *systemic root*  
-> - [🐦‍🔥 Trauma Psychology Medical Misuse](../../🐦‍🔥_Trauma_Psychology_Medical_Misuse/) — *clinical aftermaths*  
+> - [🐦‍🔥 Trauma Psychology Medical Misuse](../../🐦‍🔥_Trauma_Psycology_Medical_Misuse) — *clinical aftermaths*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
