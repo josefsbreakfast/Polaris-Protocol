@@ -85,7 +85,7 @@ Fork collisions not only expose surveillance architectures — they actively des
 
 ---
 
-## 🛡️ Countermeasures & Disruption Opportunities  
+## 🕷️ Countermeasures & Disruption Opportunities  
 
 Fork clashes can be reframed as **diagnostic tools** — signs of systemic error, not personal failure.  
 
