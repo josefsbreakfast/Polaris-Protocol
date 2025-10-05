@@ -24,7 +24,7 @@ The National Identity Register was, in effect, sabotaged from within its own ver
 
 ---
 
-## 🍃 Ministerial Turnover  
+## 🦤 Ministerial Turnover  
 
 - **Home Secretaries:** Blunkett → Clarke → Reid → Smith.  
   Each arrival reset priorities, reframing the ID scheme alternately as counter-terrorism, immigration control, or welfare efficiency.  
@@ -46,7 +46,7 @@ The National Identity Register was, in effect, sabotaged from within its own ver
 
 ---
 
-## 🦤 Lessons  
+## 🦉 Lessons  
 
 - Large-scale identity infrastructure demands **continuity of political stewardship**.  
 - Ministerial churn functions as **systemic sabotage disguised as routine governance**.  
@@ -55,7 +55,7 @@ The National Identity Register was, in effect, sabotaged from within its own ver
 
 ---
 
-## 🦉 Countermeasures  
+## 🐝 Countermeasures  
 
 **1. Stewardship Mandates**  
 Multi-year custodianship commitments for senior ministers overseeing critical infrastructure, mirrored in civil-service contracts.  
@@ -97,9 +97,9 @@ Positioned within the **Metadata Sabotage Network**, it shows how political inst
 
 > 📡 Cross-references:
 > 
-> - [🏛️ UK Identity Cards (2000s)](../../../Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md)  
-> - [🦜 Blair Cabinet Identity Hypocrisy](./🦜_blair_cabinet_identity_hypocrisy.md)  
-> - [💼 Industry Capture in Identity Systems](./💼_industry_capture_identity_systems.md)
+> - [🏛️ UK Identity Cards (2000s)](../🏛️_uk_identity_cards_2000s.md)  
+> - [🦜 Blair Cabinet Identity Hypocrisy](../🦜_blair_cabinet_identity_hypocrisy.md)  
+> - [💼 Industry Capture in Identity Systems](../💼_industry_capture_identity_systems.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
