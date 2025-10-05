@@ -51,7 +51,7 @@ but its logic — *surveillance as reform* — became administrative instinct.
 
 ## 🌌 Constellations  
 
-🤹 🏛️ 💼 🔮 — This node sits in the *governance capture* and *political narrative inversion* constellations, tracing how liberal branding masked coercive registry.  
+🦜 🏛️ 💼 🔮 — This node sits in the *governance capture* and *political narrative inversion* constellations, tracing how liberal branding masked coercive registry.  
 
 ---
 
