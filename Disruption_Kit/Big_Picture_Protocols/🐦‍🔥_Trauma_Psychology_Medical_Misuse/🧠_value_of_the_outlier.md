@@ -1,5 +1,5 @@
 # 🧠 Value of the Outlier
-**First created:** 2025-08-16 | **Last updated:** 2025-09-28  
+**First created:** 2025-08-16 | **Last updated:** 2025-10-05  
 *How anomaly detection escalates surveillance value and how authorship reclaims sovereignty*
 
 ---
@@ -88,4 +88,4 @@ It maps how anomaly detection transforms individuals into perpetual extraction a
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-05_
