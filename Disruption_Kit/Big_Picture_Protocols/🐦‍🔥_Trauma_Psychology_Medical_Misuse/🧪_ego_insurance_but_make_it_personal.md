@@ -1,5 +1,5 @@
 # 🧪 Ego Insurance But Make It Personal  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-05  
 *How a simple workplace bet over a “favourite case” metastasises into institutional vendetta*  
 
 ---
@@ -280,11 +280,12 @@ You know...all that crazy "people are of equal value, inherently", shit.--->
 *Ego Insurance But Make It Personal* is a living node of the Polaris Protocol.  
 It maps how petty rivalries and bruised egos metastasise into bureaucratic vendettas, distorting governance loops, funding priorities, and policy itself.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🌀 System Governance](../🌀_System_Governance/) — control loops and institutional distortions  
 > - [Containment Scripts](../../Containment_Scripts/) — methods of sustained harassment  
 > - [Metadata Sabotage Network](../../Metadata_Sabotage_Network/) — data-twinning and signalling loops  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-05_
