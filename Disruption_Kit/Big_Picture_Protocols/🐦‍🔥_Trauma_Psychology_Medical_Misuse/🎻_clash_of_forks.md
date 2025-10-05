@@ -1,7 +1,5 @@
 # 🎻 Clash of Forks
-
-**First created:** 2025-08-04 | **Last updated:** 2025-10-01  
-
+**First created:** 2025-08-04 | **Last updated:** 2025-10-05  
 *Forensic note on system breakdown when multiple high-risk datasets converge*  
 
 ---
@@ -75,6 +73,6 @@ It documents the structural flaws that emerge when surveillance systems attempt 
 > 📡 Cross-references:
 > 
 > - [🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md) — *sibling cluster of psychological nodes* 
-> - [👹 Fork_Behaviour_Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment) — *related mapping of containment scripts*  
+> - [👹 Fork_Behaviour_Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md) — *related mapping of containment scripts*  
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-05_
