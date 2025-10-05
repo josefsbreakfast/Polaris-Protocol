@@ -1,5 +1,5 @@
 # 🏛️ UK identity cards (2000s)  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
 *Historical casefile of the UK Identity Cards Act 2006, its costs, Cabinet churn, repeal in 2010, and lingering data risks.*  
 
 ---
@@ -29,6 +29,6 @@
 #id #identity_cards #identification_cards #national_id #uk #2000s #labour_government #identity_cards_act_2006 #identity_documents_act_2010 #migration #working_visas #civil_liberties #biometrics #national_identity_register  
 
 ## 🏮 Footer  
-*Cross-references: 📜_identity_documents_act_2010.md; 🤹_blair_cabinet_identity_hypocrisy.md; 🧟‍♀️_digital_id_zombie_profiles.md*  
+*Cross-references: 📜_identity_documents_act_2010.md; 🦜_blair_cabinet_identity_hypocrisy.md; 🧟‍♀️_digital_id_zombie_profiles.md*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-10-05_  
