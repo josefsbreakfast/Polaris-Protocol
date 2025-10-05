@@ -58,7 +58,12 @@ It exists as a **skeleton** for later expansion.
 5. **Law & Policy Responses** – successes, failures, and unintended effects.  
 6. **Modern Risk Profile** – why understanding history informs current safeguarding.  
 7. **Online Behaviour Patterns** – how predatory actors manifest digitally, their grooming scripts, community camouflage, and exploitation of platform affordances.  
-8. **Countermeasures & Future Research** – frameworks for harm reduction.  
+8. **Countermeasures & Future Research** – frameworks for harm reduction.
+
+- prob also what conspiricy theorists get right and what is nonsense, qanon etc as containment, mythbusting re who is/is not and profiles in public, nature of "networking" (ie lot less scary and much more enforceable than it is), liklihood of other org crim behaviours and other forensic behaviours, and the very annoying reality of "what actually prevents harm to kids, even if it doesnt indulge adults' anger", strengthening of sg systems, history of failure of platform mods etc, and why regulating porn essentially makes CSEM even worse. how political orgs will tolerate and why they tolerate abusers, how abusers always go nazi (literally always), how totalitarianism/authoritarianism/fascism overlaps (in creation, in tolerance, and in continuing cycles of violence)
+- why prison is bad if you want less child abuse; i know, i know, but the unfortunate choice is that we have less harm or we see punishment as spectacle. unfirtunately acheiving both is practically impossible. communal and individual sense of justice can be acheived in different ways, however.  
+
+- idk man the thing is heavy, and its heavy for me personally. hang tight.  
 
 ---
 
