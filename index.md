@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 12:10:45 UTC_
+_Generated on 2025-10-05 12:11:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -261,8 +261,8 @@ _Generated on 2025-10-05 12:10:45 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
       - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎙️_why_they_collect_audio.md)
       - [`🎻_clash_of_forks.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎻_clash_of_forks.md)
+      - [`🐍_snake_bites_and_stolen_voices.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
-      - [`🐍_snake_bites_and_stolen_voices.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
       - [`🐍_trauma_commodification.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_trauma_commodification.md)
       - [`🧠_behavioural_trajectories_lab_to_institution.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_behavioural_trajectories_lab_to_institution.md)
       - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
