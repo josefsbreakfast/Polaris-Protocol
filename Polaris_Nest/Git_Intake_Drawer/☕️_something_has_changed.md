@@ -56,4 +56,8 @@ The research sits under older VA and MoD adjavent resources, you'll need to look
 
 Fascinating area, though. Some good charts on memory type are around if the language is a turn-off (understandable; I still struggle with this).  
 
+---
+
+i will fix typos later - this ones prob on me. am v tired if im honest.
+
 2025-10-05
