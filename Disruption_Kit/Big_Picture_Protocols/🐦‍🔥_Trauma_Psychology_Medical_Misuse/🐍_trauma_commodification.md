@@ -1,5 +1,5 @@
 # 🐍 Trauma Commodification  
-**First created:** 2025-08-04 | **Last updated:** 2025-10-01  
+**First created:** 2025-08-04 | **Last updated:** 2025-10-05  
 *Refusal log tracing the conversion of survivor pain into commodity product*  
 
 ---
@@ -112,4 +112,4 @@ converted into calibration tokens, and sold back as justification for control.
 > - [🐍 Snake Bites and Stolen Voices](./🐍_snake_bites_and_stolen_voices.md) — *suppression as theft and asset defence*  
 > - [🎙️ Why They Collect Audio](./🎙️_why_they_collect_audio.md) — *parallel commodification of breakdown states*  
 
-_Last updated: 2025-10-01_  
+_Last updated: 2025-10-05_  
