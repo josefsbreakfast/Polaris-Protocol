@@ -103,9 +103,10 @@ humiliation, governance, antisemitism, containment loops, european history, pogr
 *Humiliation as Governance* is a living node of the Polaris Protocol.  
 It traces the European lineage of humiliation-marking from medieval badges to Nazi stars, distinguishing it from other systems of subordination and showing how humiliation was weaponised into violence.  
 
-> 📡 Cross-references:  
-> - [🗝️ Deliberate Cultural Violation](../../🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — *repeated violation of faith and ritual as governance*  
-> - [🌀 Forced Migration as Governance](../../🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md) — *displacement as control*  
+> 📡 Cross-references:
+> 
+> - [🗝️ Deliberate Cultural Violation](../🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — *repeated violation of faith and ritual as governance*  
+> - [🌀 Forced Migration as Governance](../🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md) — *displacement as control*  
 > - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *wider tactics of containment by shame, waiting, and ridicule*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
