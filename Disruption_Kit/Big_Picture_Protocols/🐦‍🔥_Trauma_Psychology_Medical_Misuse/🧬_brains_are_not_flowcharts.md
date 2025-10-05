@@ -1,5 +1,5 @@
 # 🧬 Brains Are Not Flowcharts  
-**First created:** 2025-09-10 | **Last updated:** 2025-10-04  
+**First created:** 2025-09-10 | **Last updated:** 2025-10-05  
 *Why behavioural-psych simplifications mislead, and how survivor symptomatology exposes the messiness of the brain*  
 
 ---
@@ -212,11 +212,12 @@ The future of knowledge is framed as a commons: innovative, collaborative, and n
 *Brains Are Not Flowcharts* is a living node of the Polaris Protocol.  
 It documents how survivor experience and anatomical messiness destabilise behavioural simplifications, and how siloing corrodes the commons of knowledge.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 HM Dept of Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural simplification as control*
 > - [Big Picture Protocols](../README.md) — *systemic diagnostics*  
 > - [Survivor Tools](../../Survivor_Tools/README.md) — *cross-disciplinary countermeasures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_  
+_Last updated: 2025-10-05_  
