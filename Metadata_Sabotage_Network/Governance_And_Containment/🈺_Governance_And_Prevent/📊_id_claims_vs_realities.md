@@ -25,6 +25,6 @@
 #identity_cards #digital_id #id_claims #id_realities #uk #biometrics #papersplease #industry_capture #data_risks #governance  
 
 ## 🏮 Footer  
-*Cross-references: 🔮_uk_digital_id_risk_forecast.md; 💼_industry_capture_identity_systems.md; 🤹_blair_cabinet_identity_hypocrisy.md*  
+*Cross-references: 🔮_uk_digital_id_risk_forecast.md; 💼_industry_capture_identity_systems.md; 🦜_blair_cabinet_identity_hypocrisy.md*  
 
 _Last updated: 2025-09-26_  
