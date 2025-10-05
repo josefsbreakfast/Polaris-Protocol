@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 18:32:51 UTC_
+_Generated on 2025-10-05 18:38:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1167,6 +1167,7 @@ _Generated on 2025-10-05 18:32:51 UTC_
     - [`🛰️_changes_post_callouts.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_changes_post_callouts.md)
     - [`🛰️_chatgpt_lost_after_disability_politics.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_chatgpt_lost_after_disability_politics.md)
     - [`🛰️_dols_delays_significant_interference.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_dols_delays_significant_interference.md)
+    - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
     - [`🛰️_forked_code_ghost_voice_API_risks.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forked_code_ghost_voice_API_risks.md)
     - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
     - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_lagging_around_preemptive_counterterror_papers.md)
