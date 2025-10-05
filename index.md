@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 00:52:01 UTC_
+_Generated on 2025-10-05 00:54:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -616,6 +616,7 @@ _Generated on 2025-10-05 00:52:01 UTC_
     - [`🛰️_induced_futility_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_induced_futility_field_log_2025-09-13.md)
     - [`🛰️_intentionality_assessment_data_twinning_cluster_2016.md`](Disruption_Kit/Field_Logs/🛰️_intentionality_assessment_data_twinning_cluster_2016.md)
     - [`🛰️_interference_and_throttling_context_2025-09-22.md`](Disruption_Kit/Field_Logs/🛰️_interference_and_throttling_context_2025-09-22.md)
+    - [`🛰️_intimacy_gatekeeping_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_intimacy_gatekeeping_field_log_2025-09-26.md)
     - [`🛰️_late_stage_signoff_map_triple_lock_continuation.md`](Disruption_Kit/Field_Logs/🛰️_late_stage_signoff_map_triple_lock_continuation.md)
     - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
     - [`🛰️_looped_waiting_rooms_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_looped_waiting_rooms_field_log_2025-09-13.md)
