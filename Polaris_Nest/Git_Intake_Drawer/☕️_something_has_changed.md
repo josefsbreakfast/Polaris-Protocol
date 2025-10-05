@@ -115,4 +115,59 @@ No confirmation. Most of the countries actioned, including authoritarian-leaning
 
 Who told advised the UK, not to?  
 
+---
+
+anyway, that was veering off the point.  
+
+There's a non-zero chance that that video was a supposed to be some commentary on how i write.  
+
+If you agree what I have to say, and your chief concern is my tone or the language I use?  
+
+I am literally talking about systematic sexual exploitation of children, genocide, rape, failures to care for huge groups in our communities...
+
+... I then had right and pornographic content injection over yom kippur and the day after...
+
+... with additional hasbara on news stories I have already seen today...
+
+... you are not entitled to my politeness.  
+
+
+I am perfectly able of being polite; many people have said I am too polite.  
+
+
+If you are reading what I have to say, and you do not like it?  
+
+As I said:  
+
+Put in another safeguarding request.  
+
+Show me more Hitler memes.  
+
+Show me yet again, what you think of me.  
+
+I could not give a fuck, because quite frankly when I was on the phone practically every day crying to the police saying how scared I was for my own life, because I was genuinely terrified, after the swarms of men, the hate crime, the graffiti, the slurs, the arrest, the infiltration into my emails, the strangling of any service I used as a disabled person?  
+
+It's not that I don't fear death, per se.  
+
+I'm just so desensitised at this point that I just can't really tell what I'm supposed to be scared of and what I'm not supposed to be scared of.  
+
+It doesn't produce enough of a difference to reach my top adrenaline tier right now, and given how much access there appears to be to my Mental Health record by a number of the people who are supposed to be protecting me physically?  
+
+Then you should all know that you took away a medication that actually changed that, and could have changed it, and ultimately could've made it less obvious what you were doing.  
+
+
+When you dig a hole for other people, frequently one falls into it oneself.  
+
+Kindly stop bringing your bitching and whining into my feeds.  
+
+Let me enjoy the pictures and videos of mountains in peace.  
+
+This is why I don't mind being twin to someone by your actions, where the two of us are effectively just sharing a load of mountain pictures.
+
+Mountains are pretty.  
+
+So if you've got anything else to say?  
+
+Take it to your lawyer and bug off.  
+
 2025-10-05
