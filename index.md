@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 11:51:34 UTC_
+_Generated on 2025-10-05 11:52:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -464,8 +464,8 @@ _Generated on 2025-10-05 11:51:34 UTC_
         - [`🪭_comfort_building.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪭_comfort_building.md)
       - [**🧟‍♀️_Frankenstack_Bytes/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/README.md)
+        - [`🕸️_frankenstack_multi_modal_response_frame.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🕸️_frankenstack_multi_modal_response_frame.md)
         - [`🩺_frankenstack_intake_and_response_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🩺_frankenstack_intake_and_response_protocol.md)
-        - [`🪬_frankenstack_multi_modal_response_frame.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪬_frankenstack_multi_modal_response_frame.md)
         - [`🪬_frankenstack_radicalisation_hypothesis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪬_frankenstack_radicalisation_hypothesis.md)
         - [`🪬_frankenstack_social_field_effects.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪬_frankenstack_social_field_effects.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/README.md)
