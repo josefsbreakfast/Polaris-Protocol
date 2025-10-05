@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 02:03:20 UTC_
+_Generated on 2025-10-05 02:05:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -636,6 +636,7 @@ _Generated on 2025-10-05 02:03:20 UTC_
     - [`🛰️_no_sex_no_apartheid.md`](Disruption_Kit/Field_Logs/🛰️_no_sex_no_apartheid.md)
     - [`🛰️_not_caldicott_fans_2025-09-21.md`](Disruption_Kit/Field_Logs/🛰️_not_caldicott_fans_2025-09-21.md)
     - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Disruption_Kit/Field_Logs/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
+    - [`🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md)
     - [`🛰️_observed_memory_variations_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_observed_memory_variations_2025-09-16.md)
     - [`🛰️_pathologising_sensitivity_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_pathologising_sensitivity_field_log_2025-09-13.md)
     - [`🛰️_patterns_analytic_addendum_update_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_patterns_analytic_addendum_update_2025-09-20.md)
