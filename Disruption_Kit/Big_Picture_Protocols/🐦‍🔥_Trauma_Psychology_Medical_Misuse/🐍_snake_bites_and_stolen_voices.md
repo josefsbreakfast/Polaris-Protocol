@@ -157,7 +157,7 @@ Cultural echoes and media artefacts where voices, memories, or selves are stolen
 - **🧠 *Get Out* (Jordan Peele, 2017)** — bodies and consciousness stolen, Black life commodified for elite survival.  
 - **🔋 *The Matrix* (Wachowskis, 1999)** — human beings farmed as energy sources, their lived selves suppressed into simulation.  
 
-### Colonial Extraction Echoes  
+### 🧿 Colonial Extraction Echoes  
 
 - **🌍 *Things Fall Apart* (Chinua Achebe, 1958)** — colonial intrusion fractures Igbo society; suppression of voices is core to cultural theft.  
 - **🚤 *Heart of Darkness* (Joseph Conrad, 1899)** — colonial extraction framed as adventure while silencing the humanity of the colonised.  
