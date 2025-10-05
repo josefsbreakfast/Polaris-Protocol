@@ -26,7 +26,7 @@ It addresses the deliberate misclassification of the original source (human) as 
 
 ---
 
-## 🧮 Diagnostics Table  
+## 🩻 Diagnostics Table  
 
 | Signal | Interpretation | Hidden Mechanism |
 |---------|----------------|-----------------|
@@ -37,7 +37,7 @@ It addresses the deliberate misclassification of the original source (human) as 
 
 ---
 
-## 🧩 Operational Mechanics of Theft  
+## 🪄 Operational Mechanics of Theft  
 
 - **Harvest phase:** content scraped from public, therapeutic, or institutional archives under “research” or “training” justifications.  
 - **Recast phase:** metadata stripped and re-tagged so origin is hidden; the human becomes “signal quality.”  
@@ -133,7 +133,7 @@ Theft of testimony, tone, or emotional range carries capital weight:
 
 ---
 
-## 🛡️ Countermeasures & Reclamations  
+## 🕷️ Countermeasures & Reclamations  
 
 - **Voice watermarking:** subtle digital or linguistic signatures to prove authorship.  
 - **Clone traps:** release decoy or stylised versions that corrupt unauthorised models.  
