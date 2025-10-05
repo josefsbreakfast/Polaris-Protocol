@@ -1,11 +1,10 @@
 # 👾 VPN Dropouts  
-
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*Intermittent VPN disconnections as an induced-futility tactic.*
+**First created:** 2025-10-04 | **Last updated:** 2025-10-05  
+*Intermittent VPN disconnections as an induced-futility tactic*
 
 ---
 
-## **Description**  
+## ✨ **Description**  
 
 Psychological containment is a soft-sabotage tactic that reframes frustration as “technical glitch.”  
 When protective tools (VPNs, encryption, anonymisation layers) fail without obvious cause, the user is pushed into a cycle of exposure, anxiety, and wasted time.  
@@ -14,7 +13,7 @@ This node covers the pattern where VPN connections drop out — sometimes repeat
 
 ---
 
-## **What It Looks Like**  
+## 🛰️ **What It Looks Like**  
 
 - VPN suddenly disconnects mid-session with no prior warning.  
 - Happens disproportionately during uploads, whistleblowing prep, or OSINT research windows.  
@@ -24,7 +23,7 @@ This node covers the pattern where VPN connections drop out — sometimes repeat
 
 ---
 
-## **Effects on the User**  
+## 💫 **Effects on the User**  
 
 - **Security risk:** momentary exposure of real IP, traffic and metadata.  
 - **Time drain:** forces repeated reconnects, throttling urgent work.  
@@ -50,7 +49,8 @@ vpn disconnections, induced futility, psychological containment, security risk, 
 *Psychological Containment — VPN Dropouts* is a living node of the Polaris Protocol.  
 It documents how intermittent VPN disconnections can function as both a security vulnerability and a subtle containment tactic.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🌐 Connection Hiccups](../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md) — Wi-Fi drops, call cuts  
 > - [🧠 Psychological Containment](./README.md) — induced futility, delays as violence  
 > - [🛰️ Proximity Control Logs](../../Suppression_Layers/🛰️_Proximity_Control_Logs/README.md) — field signal & proximity interference  
