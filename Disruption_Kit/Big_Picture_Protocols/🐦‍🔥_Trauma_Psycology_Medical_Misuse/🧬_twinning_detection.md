@@ -1,8 +1,6 @@
-# 🧬 Twinning Detection
-
-**First created:** 2025-08-25 | **Last updated:** 2025-08-30
-
-*A guide to tracking, tracing, and untangling the simulation of sovereign voices.*
+# 🧬 Twinning Detection  
+**First created:** 2025-08-25 | **Last updated:** 2025-10-05  
+*A guide to tracking, tracing, and untangling the simulation of sovereign voices*  
 
 ---
 
@@ -86,8 +84,8 @@ You teach it to turn around.
 *Twinning Detection* is a living node of the Polaris Protocol.  
 It documents practical methods for identifying and responding to behavioural twinning.  
 
-🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
+🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-30_
+_Last updated: 2025-10-05_
