@@ -110,3 +110,45 @@ error: null
 artifacts: [screenshot.png, chat_export.zip]
 repro: {wifi: true, mobile_data: true}
 notes: "Attachment arrives if resent via Signal"
+```
+
+## 🗂 Planned Nodes  
+
+| Node | Scope | Notes |
+|------|-------|-------|
+| `📞_cut_signal_casebook.md` | Voice + video | Catalogue of mid-call drops and cut-phrase timing. |
+| `📎_attachment_strip_registry.md` | Messaging | Logs of missing or corrupted attachments by platform. |
+| `📡_phantom_receipt_index.md` | Verification layer | Tracks false delivery/read receipts. |
+| `🪩_cross_device_divergence.md` | Sync drift | Compare message histories across linked devices. |
+| `🧰_triage_kit_comms_breaks.md` | Survivor tool | Standard scripts + checklists for testing interference. |
+
+Together, these nodes transform isolated silences into a **coherent diagnostic language** — making the invisible choreography visible.  
+
+---
+
+## 🌌 Constellations  
+
+🩻 📬 🛰️ 🔮 — This node sits in the interference and containment constellation, where communication failure becomes an evidentiary signal.
+
+---
+
+## ✨ Stardust  
+
+communication failure, message loss, attachment stripping, selective silence, interference logging, metadata anomalies, suppression evidence, digital containment  
+
+---
+
+## 🏮 Footer  
+
+*📬 Comms Breaks* is a living node of the Polaris Protocol.  
+It records interruptions in digital conversation flows — where the connection appears whole but content quietly fails.  
+
+> 📡 Cross-references:  
+> - [🌐 Connection Hiccups](../🌐_Connection_Hiccups/) — network-level dropouts  
+> - [📂 Data Shifts](../📂_Data_Shifts/) — record-level drift and disappearance  
+> - [🎛 Systematic Patterns](../🎛_Systematic_Patterns/) — scheduled or repeated anomalies  
+> - [Field Logs](../../Disruption_Kit/Field_Logs/) — forensic documentation of anomaly timelines  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-05_
