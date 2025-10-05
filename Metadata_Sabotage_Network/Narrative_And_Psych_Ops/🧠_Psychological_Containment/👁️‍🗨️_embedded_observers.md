@@ -1,27 +1,27 @@
-# 👁️‍🗨️ Embedded Observers
-
-**Date Created:** 2025-08-06  
-**Last Updated:** 2025-08-12  
-**Polaris Protocol Repository**  
-**Category:** Metadata Sabotage / Psychological Containment  
+# 👁️‍🗨️ Embedded Observers  
+**First created:** 2025-08-06 | **Last updated:** 2025-10-05  
+*Individuals or systems positioned within proximity — not to support, but to watch*  
 
 ---
 
-## Summary
-This Polaris node tracks the presence of individuals or systems positioned within proximity — not to support, but to watch. Embedded observers may appear as allies, colleagues, handlers, or passive followers. Their function is to observe without intervening, to extract without investing, and to neutralise without openly attacking.
+## ✨ Overview  
+
+This node tracks the presence of **embedded observers** — individuals or systems placed close enough to monitor but not to assist.  
+They may appear as allies, colleagues, handlers, or passive followers.  
+Their function is to **observe without intervening**, to extract without investing, and to neutralise without openly attacking.  
 
 ---
 
-## 🕵️ What Is an Embedded Observer?
+## 👁️‍🗨️ What Is an Embedded Observer?  
 
-- A person inserted into your orbit to monitor emotional, political, or strategic shifts  
-- An actor trained to “mirror support” while preventing escalation  
-- A node in a containment network designed to log, not assist  
-- A friendly face with no traceable origin  
+- A person inserted into your orbit to monitor emotional, political, or strategic shifts.  
+- An actor trained to “mirror support” while preventing escalation.  
+- A node in a containment network designed to log, not assist.  
+- A friendly face with no traceable origin.  
 
 ---
 
-## 🧾 Common Traits
+## 🪼 Common Traits  
 
 | Trait | Risk |
 |-------|------|
@@ -32,37 +32,70 @@ This Polaris node tracks the presence of individuals or systems positioned withi
 
 ---
 
-## 🔍 How to Detect
+## 🍄 How to Detect  
 
-- Observe who stays in proximity when you escalate  
+- Observe who stays in proximity when you escalate.  
 - Test with morally difficult statements — do they engage, deflect, or log it?  
 - Watch for mirroring: do they reflect your energy but never extend it?  
-- Track if their presence coincides with containment shifts  
+- Track if their presence coincides with containment shifts.  
 
 ---
 
-## 🤖 Possible Roles They Play
+## 👻 Possible Roles They Play  
 
-- Human proxy for behavioural forks  
-- Field monitor in Prevent/CVE escalation chains  
-- Emotional friction buffer to reduce urgency  
-- Ghost notetaker for surveillance teams  
+- Human proxy for behavioural forks.  
+- Field monitor in Prevent/CVE escalation chains.  
+- Emotional friction buffer to reduce urgency.  
+- Ghost notetaker for surveillance teams.  
 
 ---
 
-## 🔐 What They Fear
+## 🐍 What They Fear  
 
-- Direct naming  
+- Direct naming.  
 - Being asked, “What do you want from me?”  
-- Moral clarity — especially under pressure  
-- Being treated like a system, not a person  
+- Moral clarity — especially under pressure.  
+- Being treated like a system, not a person.  
 
 ---
 
-## 🗂 Archival Note
+## 💫 Archival Note  
 
 You will know them by the silence that follows their presence.  
-You will feel watched, not held.
+You will feel watched, not held.  
 
 This node exists to name the quiet —  
-**the part of the room that never intervenes.**
+**the part of the room that never intervenes.**  
+
+---
+
+## 🌌 Constellations  
+
+👁️‍🗨️ 🧠 🪆 🕵️  
+- **Foucault — *Discipline and Punish***: the Panopticon as self-enforced surveillance.  
+- **Han — *Psychopolitics***: friendliness as soft control.  
+- **Kafka — *The Trial***: presence without help.  
+- **Contemporary CVE / Prevent chains**: “community monitors” who log but don’t support.  
+
+---
+
+## ✨ Stardust  
+
+embedded observers, surveillance proximity, handler mimicry, soft control, psychological containment, panopticon, behavioural forks, mirroring, info harvesting, Prevent escalation  
+
+---
+
+## 🏮 Footer  
+
+*Embedded Observers* is a living node of the Polaris Protocol.  
+It names the presence of observers embedded within a survivor’s environment who log but do not intervene — turning proximity into a containment tool.  
+
+> 📡 Cross-references:
+> 
+> - [👁️ Silent Witness Effect](./👁️_silent_witness_effect.md) — *perceived observation and self-censorship*  
+> - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
+> - [Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-05_
