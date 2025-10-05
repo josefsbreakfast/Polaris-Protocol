@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 13:19:31 UTC_
+_Generated on 2025-10-05 13:40:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1210,6 +1210,7 @@ _Generated on 2025-10-05 13:19:31 UTC_
     - [`🩺_oh_the_irony_tho.md`](Polaris_Nest/Git_Intake_Drawer/🩺_oh_the_irony_tho.md)
     - [`🪐_my_britannia.md`](Polaris_Nest/Git_Intake_Drawer/🪐_my_britannia.md)
     - [`🪐_where_the_fuck_am_i.md`](Polaris_Nest/Git_Intake_Drawer/🪐_where_the_fuck_am_i.md)
+    - [`🪞_boring_mechanisms_sensational_harms.md`](Polaris_Nest/Git_Intake_Drawer/🪞_boring_mechanisms_sensational_harms.md)
     - [`🪬_all_that_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🪬_all_that_surveillance.md)
     - [`🪮_on_hair_and_memory.md`](Polaris_Nest/Git_Intake_Drawer/🪮_on_hair_and_memory.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Polaris_Nest/Git_Intake_Drawer/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
