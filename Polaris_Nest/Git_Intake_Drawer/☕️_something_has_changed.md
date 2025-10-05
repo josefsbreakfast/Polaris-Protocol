@@ -30,6 +30,30 @@ Does this mean I'm getting no little spark from the sense of soecifoc, targeted,
 
 No one is a saint.  
 
+---
 
+I am quite keen that this is not misinterpreted; I still require more help amd support, discussed frankly and with my needs voiced by me to another human in the flesh and in appropriate context, to feel safer or indeed to get to a place of resolution.  
+
+I am aware that my words are often knowingly misinterpreted when requests are honoured, as if I must provide a watertight request wven when I ask that whatever was done to my ceiling lights be resolved.  
+
+This is disingenuous, and I am still hopeful that whoever is involved or representing can still come to a more accountable and transparent place.  
+
+I an aware the odds are not in my favour, but I now know the lifecycle patterning of 2 seperate species of fly, both which can have delayed incubation incidently.  
+
+Those cat feeders were not cheap, guys.  
+
+And now they expect to have extra food so they don't have to wait past 4am to be fed, such an impact the cover makes.  
+
+You have tirned them into *monsters*. 🤣  
+
+But seriously:  
+
+It's been such a strange thing, that I will need some degree of meaningful disclosure for reconciling my own hippocampus.  
+
+I feel that this may be what you're missing in the tiktoks about "moving through"; there is a degree of meeting the limbic system halfway to mark memories and events as "actioned" and consolidated.  
+
+The research sits under older VA and MoD adjavent resources, you'll need to look for impacts of education as part of post-service rehabilitation. It's a little indirect as a thread, but its fascinating. Stroke rehab is adjacent but this tends to be the mechanism of recall, and this is a different area. Memory of events has to be committed, before one can recall, to oversimply it a little.  
+
+Fascinating area, though. Some good charts on memory type are around if the language is a turn-off (understandable; I still struggle with this).  
 
 2025-10-05
