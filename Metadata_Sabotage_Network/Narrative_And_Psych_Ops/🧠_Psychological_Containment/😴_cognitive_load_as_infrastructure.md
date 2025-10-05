@@ -1,53 +1,74 @@
 # 😴 Cognitive Load as Infrastructure  
-**First created:** 2025-09-25 | **Last updated:** 2025-09-25  
+**First created:** 2025-09-25 | **Last updated:** 2025-10-05  
 *Containment systems that exploit trust in baseline functioning while inducing fatigue through micro-distortions*  
 
 ---
 
-## 🔍 Core Logic  
+## ✨ Overview  
 
-- **Trust in System Baseline**  
-  Individuals assume institutions, platforms, and processes work as intended.  
-- **Incremental Distortion**  
-  Small shifts, errors, and delays are introduced while attention is split.  
-- **Cognitive Depletion**  
-  Fatigue makes anomalies harder to spot; exhaustion becomes a containment medium.  
+Containment can be built not from walls, but from **cognitive weight**.  
+Every small distortion — a lag, a misfire, a contradiction — adds friction to thinking, eroding energy and attention.  
+Because people trust in the baseline functionality of systems, these micro-errors accumulate unnoticed until fatigue becomes **the containment medium itself**.  
 
----
-
-## 🧩 Mechanisms  
-
-- **Recognition without Resolution** → seeing glitches but never reaching closure.  
-- **Exhaustion as Containment** → loops that wear down decision capacity.  
-- **Induced Futility** → subtle adjustments nudge survivors to give up.  
+The architecture of exhaustion hides in the ordinary.  
 
 ---
 
-## 📡 Survivor Effects  
+## 🛰️ Mechanisms  
 
-- Self-blame for errors (“must be me, not the system”).  
-- Delayed or abandoned escalation.  
-- Shrinking ability to track cumulative sabotage.  
+- **Trust in the baseline** → faith that processes work “as intended.”  
+- **Incremental distortion** → minor shifts and delays that blur reliability.  
+- **Cognitive depletion** → fatigue reduces anomaly detection and narrows focus.  
+- **Recognition without resolution** → awareness rises, closure never comes.  
+- **Induced futility** → energy drains until resistance feels pointless.  
 
 ---
 
-## 🔗 Cross-References  
+## 🌩️ Survivor Effects  
 
-- [😴 Exhaustion as Containment (2025-09-13)](../🧠_Psychological_Containment/😴_exhaustion_as_containment_2025-09-13.md)  
-- [🌀 Recognition Without Resolution (2025-09-13)](../🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md)  
-- [🌑 Induced Futility](../🧠_Psychological_Containment/🌑_induced_futility.md)  
+- **Self-blame for failure:** “It must be me, not the system.”  
+- **Delayed escalation:** attention too split to sustain complaint cycles.  
+- **Shrinkage of focus:** survivor’s horizon narrows to immediate function, not system analysis.  
+- **Containment by fatigue:** exhaustion substitutes for restraint.  
+
+---
+
+## 🐦‍🔥 Counter-Containment  
+
+- **Map anomalies** — record even small irregularities; they compound.  
+- **Automate sanity checks** — scripts, alerts, or journaling to externalise memory.  
+- **Time-stamp fatigue** — note when exhaustion spikes; often correlates with interference cycles.  
+- **Reinstate rest as defiance** — recovery is infrastructure, too.  
+
+---
+
+## 🌌 Constellations  
+
+😴 🧠 🪆  
+- **Hannah Arendt — *The Human Condition***: labour cycles as containment through repetition.  
+- **Lauren Berlant — *Cruel Optimism***: attachment to broken systems as slow exhaustion.  
+- **Franz Kafka — *The Castle***: endless admin loops as cognitive erosion.  
+- **Byung-Chul Han — *The Burnout Society***: fatigue as structural design, not symptom.  
+
+---
+
+## ✨ Stardust  
+
+cognitive load, exhaustion infrastructure, micro-distortion, fatigue containment, trust erosion, bureaucratic friction, induced futility, decision paralysis, systemic sabotage  
 
 ---
 
 ## 🏮 Footer  
 
 *Cognitive Load as Infrastructure* is a living node of the Polaris Protocol.  
-It documents how systemic trust is inverted into a containment medium, exploiting fatigue to sustain suppression.  
+It documents how systemic trust is inverted into a containment medium, using micro-distortions and accumulated fatigue to sustain suppression.  
 
 > 📡 Cross-references:  
-> - [🧠 Psychological Containment](../🧠_Psychological_Containment/) — delay, futility, and induced fog tactics  
-> - [Disruption Kit → Containment Scripts](../../Disruption_Kit/Containment_Scripts/) — suppression modes and counter-nudge logs  
+> - [🧠 Psychological Containment](./README.md) — *cluster index of containment mechanisms*  
+> - [🌀 Recognition Without Resolution] *WIP* — *partial answers as exhaustion tactic*  
+> - [🌑 Induced Futility](./🌑_induced_futility.md) — *hopelessness as design outcome*  
+> - [Disruption Kit → Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *suppression and counter-nudge logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-25_
+_Last updated: 2025-10-05_
