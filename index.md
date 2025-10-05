@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 19:57:42 UTC_
+_Generated on 2025-10-05 19:58:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1128,6 +1128,7 @@ _Generated on 2025-10-05 19:57:42 UTC_
     - [`🎽_think_tanks_surveillance_and_conferencing.md`](Polaris_Nest/Git_Intake_Drawer/🎽_think_tanks_surveillance_and_conferencing.md)
     - [`🏛️_conservatorship_like_abuses_in_the_UK.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_conservatorship_like_abuses_in_the_UK.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
+    - [`🐒_monkey_work.md`](Polaris_Nest/Git_Intake_Drawer/🐒_monkey_work.md)
     - [`🐓_have_you_noticed.md`](Polaris_Nest/Git_Intake_Drawer/🐓_have_you_noticed.md)
     - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
     - [`👀_help_my_eyes.md`](Polaris_Nest/Git_Intake_Drawer/👀_help_my_eyes.md)
@@ -1334,7 +1335,6 @@ _Generated on 2025-10-05 19:57:42 UTC_
     - [`🧿_visual_palette.md`](Polaris_Nest/🏮_Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
   - [`README.md`](Polaris_Nest/README.md)
-  - [`🐒_monkey_work.md`](Polaris_Nest/🐒_monkey_work.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
