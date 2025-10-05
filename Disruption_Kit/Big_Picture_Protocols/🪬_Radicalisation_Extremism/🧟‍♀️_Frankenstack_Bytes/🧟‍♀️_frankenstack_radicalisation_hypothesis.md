@@ -1,4 +1,4 @@
-# 🪬 Frankenstack Radicalisation Hypothesis  
+# 🧟‍♀️ Frankenstack Radicalisation Hypothesis  
 **First created:** 2025-10-05 | **Last updated:** 2025-10-05  
 *Hybrid stacks as dual/multi-use engines that can tip fear into violence.*
 
