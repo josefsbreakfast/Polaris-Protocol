@@ -62,7 +62,7 @@ It documents how isolation and delays can function as containment even without e
 
 > 📡 Cross-references:
 > 
-> - [🪟 Glass Box Containment](./🪟_glass_box_containment.md) — *proximity without touch*  
+> - [🧊 Glass Box Containment](./🧊_glass_box_containment.md) — *proximity without touch*  
 > - [🐌 Delays Are Violence](./🐌_delays_are_violence.md)  
 > - [👅 Voice Disruption Discrediting](../👅_Voice_Disruption_Discrediting/README.md)  
 
