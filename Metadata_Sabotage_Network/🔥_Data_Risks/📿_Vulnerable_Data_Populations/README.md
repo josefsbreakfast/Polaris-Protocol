@@ -1,23 +1,21 @@
 # 📿 Vulnerable Data Populations  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-26  
-*Subfolder for documenting how ID and data systems disproportionately harm vulnerable groups, magnifying existing inequalities.*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+*Those most visible to power are those least able to refuse it*  
 
 ---
 
-## Purpose  
-Identity cards and digital ID schemes create harms for everyone, but **specific groups carry the heaviest risks**. This folder tracks those vulnerabilities:  
-- Children and young people.  
-- Disabled people.  
-- Refugees and asylum seekers.  
-- Trauma survivors.  
-- People in precarious housing or health situations.  
-- Groups facing systemic racial or sex discrimination.  
+## ✨ Purpose  
+
+**Vulnerable Data Populations** examines how identity and data systems multiply harm for those already subject to structural inequality.  
+Digital ID, biometric enrolment, and eligibility checks affect everyone — but the damage is not distributed evenly.  
+
+This folder matters because surveillance infrastructures draw their stability from **those who cannot safely opt out**:  
+children, disabled people, refugees, trauma survivors, and others made “transparent” by necessity.  
+By tracing those asymmetries, this cluster shows how *protection becomes exposure* and how *care systems become capture systems.*  
 
 ---
 
-## Contents  
-
-### 🧷 Cluster index  
+## 🛰️ Contents  
 
 | File | Focus |  
 |------|-------|  
@@ -28,12 +26,34 @@ Identity cards and digital ID schemes create harms for everyone, but **specific 
 | 💔_gender_sex_discrimination_id_cards.md | Gender identity mismatches & sex-based exclusion in ID systems. |  
 | 🩺_healthcare_access_id_risks.md | How ID checks restrict access to healthcare. |  
 
+Each node investigates how the *architecture of identification* reproduces the hierarchies it claims to neutralise.  
+
 ---
 
-## ⭐ Keywords  
-#vulnerable #datapopulations #id_cards #digital_id #biometrics #migration #refugees #children #disabled #trauma #gender #healthcare #papersplease #data_risks  
+## 🌌 Constellations  
+
+📿 🧿 🔥 🕊️ — Human-centred constellation of visibility, care, and coercion.  
+
+---
+
+## ✨ Stardust  
+
+vulnerability, digital ID, biometric enrolment, refugee data, disability exclusion, gender mismatch, healthcare access, trauma exposure, welfare surveillance, systemic inequality  
+
+---
 
 ## 🏮 Footer  
-*Cross-references: 🔮_uk_digital_id_risk_forecast.md; 🛂_Papers_Please_Problems/README.md; 🧟‍♀️_digital_id_zombie_profiles.md*  
 
-_Last updated: 2025-09-26_  
+*Vulnerable Data Populations* is a living node of the *Polaris Protocol.*  
+It traces how systems that promise care convert data into control —  
+turning protection into visibility and visibility into risk.  
+
+> 📡 Cross-references:
+> 
+> - [🔥 Data Risks](../README.md) — *parent folder and structural logic*  
+> - [🛂 Papers Please Problems](../🛂_Papers_Please_Problems/README.md)  
+> - [🧟‍♀️ Residual Shadows](../🧟‍♀️_Residual_Shadows/README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-05_
