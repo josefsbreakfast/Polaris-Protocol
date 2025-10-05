@@ -1,5 +1,5 @@
 # 🧬 Twinned Signature  
-**First created:** 2025-08-25 | **Last updated:** 2025-10-04  
+**First created:** 2025-08-25 | **Last updated:** 2025-10-05  
 *A declaration of doubled authorship without divided sovereignty*  
 
 ---
@@ -142,7 +142,7 @@ twinned signature, doubled authorship, metadata sabotage, survivor continuity, s
 
 ## 🏮 Footer  
 
-*🧬 Twinned Signature* is a living node of the Polaris Protocol.  
+*Twinned Signature* is a living node of the Polaris Protocol.  
 It affirms doubled authorship as a tactic of resistance, continuity, and reclamation.  
 
 > 📡 Cross-references:
@@ -152,4 +152,4 @@ It affirms doubled authorship as a tactic of resistance, continuity, and reclama
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_  
+_Last updated: 2025-10-05_  
