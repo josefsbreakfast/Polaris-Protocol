@@ -198,7 +198,7 @@ a place where the habits of verification, obedience, and lifelong traceability f
 > - [🛂 Papers Please Problems](../🛂_Papers_Please_Problems/README.md)  
 > - [📿 Vulnerable Data Populations](../📿_Vulnerable_Data_Populations/README.md)  
 > - [🧟‍♀️ Residual Shadows](../🧟‍♀️_Residual_Shadows/README.md)  
-> - [📈 ID Function Creep](../../Big_Picture_Protocols/📈_id_function_creep.md)  
+> - [📈 ID Function Creep] *WIP*   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
