@@ -1,4 +1,4 @@
-# 🪬 Frankenstack Social Field Effects  
+# 🪼 Frankenstack Social Field Effects  
 **First created:** 2025-10-05 | **Last updated:** 2025-10-05  
 *Hybrid stacks not only modulate individuals but also destabilise their networks — using excitability and inhibition at scale.*
 
