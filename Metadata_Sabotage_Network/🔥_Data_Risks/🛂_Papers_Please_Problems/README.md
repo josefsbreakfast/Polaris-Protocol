@@ -52,7 +52,7 @@ that the ID system’s promise of certainty depends on **keeping people in suspe
 
 ## 🌌 Constellations  
 
-🛂 🔥 🧿 🛰️ — Surveillance constellation of bureaucracy, border expansion, and memory loops.  
+🛂 🔥 🧿 🛰️ — This folder sits in the surveillance-bureaucracy-memory constellation, mapping how verification systems extend borders into daily life.
 
 ---
 
