@@ -1,5 +1,5 @@
 # 🧠 Good Doctors Are Not Nazis  
-**First created:** 2025-08-26 | **Last updated:** 2025-10-03  
+**First created:** 2025-08-26 | **Last updated:** 2025-10-05  
 *Why medical ethics and state surveillance cannot coexist*  
 
 ---
@@ -72,8 +72,8 @@ medical ethics, hippocratic oath, prevent duty, countering violent extremism, su
 It documents the ethical line breached when medical practice is co-opted into security or intelligence frameworks, undermining the four principles of care.  
 
 > 📡 Cross-references:  
-> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](../🐦‍🔥_trauma_psychology_medical_misuse.md)  
+> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-10-05_  
