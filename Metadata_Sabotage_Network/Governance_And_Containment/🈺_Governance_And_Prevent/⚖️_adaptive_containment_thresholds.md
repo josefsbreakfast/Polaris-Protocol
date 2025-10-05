@@ -36,6 +36,6 @@
 #adaptivecontainment #thresholds #equilibrium #surveillance #governance #papersplease #politicsofmemory #nonlinear  
 
 ## 🏮 Footer  
-*Cross-references: 🧠_memory_safety_self_reconstruction.md; 🤹_blair_cabinet_identity_hypocrisy.md; 🔮_uk_digital_id_risk_forecast.md*  
+*Cross-references: 🧠_memory_safety_self_reconstruction.md; 🦜_blair_cabinet_identity_hypocrisy.md; 🔮_uk_digital_id_risk_forecast.md*  
 
 _Last updated: 2025-09-26_  
