@@ -8,7 +8,7 @@
 
 Between 2005–2010, behavioural psychology in the UK was still heavily grounded in **operant and associative learning paradigms**: rodent lever-presses, latent inhibition, conditioned responses, and cognitive modelling in controlled labs.  
 
-Over the last 10–15 years, several universities — Nottingham, Sheffield, Manchester — have **migrated these methods into applied institutional contexts**, where behaviour is no longer isolated in a box but embedded in hospitals, classrooms, workplaces, or policy environments.  
+Over the last 10–15 years, several universities — redact — have **migrated these methods into applied institutional contexts**, where behaviour is no longer isolated in a box but embedded in hospitals, classrooms, workplaces, or policy environments.  
 
 This node collects concrete before/after traces showing that migration.  
 
