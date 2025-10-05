@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 23:22:05 UTC_
+_Generated on 2025-10-05 23:22:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -559,8 +559,6 @@ _Generated on 2025-10-05 23:22:05 UTC_
     - [`README.md`](Disruption_Kit/Containment_Scripts/README.md)
     - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
-  - [**Field_Log/**](Disruption_Kit/Field_Log/)
-    - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Log/🚀_governance_is_great_2nd_spring_clean.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
     - [`hillside_brightness_histogram.png`](Disruption_Kit/Field_Logs/hillside_brightness_histogram.png)
@@ -582,6 +580,7 @@ _Generated on 2025-10-05 23:22:05 UTC_
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Disruption_Kit/Field_Logs/🗒️_being_cross_at_gung_ho_nudge.md)
     - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/🗒️_conversation_drift_and_anchors.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
+    - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Logs/🚀_governance_is_great_2nd_spring_clean.md)
     - [`🛡️_clearance_impact.md`](Disruption_Kit/Field_Logs/🛡️_clearance_impact.md)
     - [`🛰️_2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_fieldnote_suppression_signal.md)
     - [`🛰️_2025-09-19_legal_risk_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_legal_risk_sweep.md)
