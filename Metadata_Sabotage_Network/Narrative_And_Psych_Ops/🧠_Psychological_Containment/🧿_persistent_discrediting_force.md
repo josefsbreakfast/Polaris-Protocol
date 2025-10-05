@@ -78,11 +78,11 @@ persistent discrediting force, DARVO governance, record erasure, survivor exhaus
 It documents how survivor boundaries collapse through surveillance, record erasure, predator tolerance, DARVO, and exhaustion — leaving disbelief and silence where protection should be.  
 
 > 📡 Cross-references:  
-> - [😴 Exhaustion as Containment](./😴_exhaustion_as_containment_2025-09-13.md) — *fatigue as governance*  
+> - [😴 Exhaustion as Containment](./😴_exhaustion_as_containment.md) — *fatigue as governance*  
 > - [🌑 Induced Futility](./🌑_induced_futility.md) — *engineered collapse of “why bother”*  
-> - [🪤 Suspicion Seeding](./🪤_suspicion_seeding_2025-09-13.md) — *distrust as containment tactic*  
-> - [💔 Weaponised Empathy Gaps](./💔_weaponised_empathy_gaps_2025-09-13.md) — *selective care as suppression*  
-> - [🗝️ Who Holds the Tape](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🗝️_who_holds_the_tape.md) — *disappearance of records into custodial voids*  
+> - [🪤 Suspicion Seeding](./🪤_suspicion_seeding.md) — *distrust as containment tactic*  
+> - [💔 Weaponised Empathy Gaps](./💔_weaponised_empathy_gaps.md) — *selective care as suppression*  
+> - [🗝️ Who Holds the Tape](../../../Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md) — *disappearance of records into custodial voids*  
 > - [⚖️ Wrong People in Power](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_wrong_people_in_power.md) — *predator tolerance at the top*  
 > - [🧨 How Prevent Uses DARVO to Detain](../../../Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_how_prevent_uses_darvo_to_detain.md) — *DARVO weaponisation as default script*  
 
