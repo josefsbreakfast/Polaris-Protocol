@@ -41,7 +41,7 @@ In AI-led behavioural systems, voice data is critical for building **emotional, 
 
 ---
 
-## 🧩 Containment Use Cases  
+## 🧃 Containment Use Cases  
 
 AI-audio ecosystems are not neutral utilities; they form part of a containment economy.  
 
