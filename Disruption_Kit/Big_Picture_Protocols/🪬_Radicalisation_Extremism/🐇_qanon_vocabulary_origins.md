@@ -95,7 +95,7 @@ The result: a *procedural religion* in which decoding replaces prayer and postin
 
 ## 🩸 7. Linguistic Orphanhood and the Patchwork Family  
 
-It is as if QAnon gathered every *not-quite-nuclear family* in language and stitched their vocabularies together.  
+It is as if QAnon gathered every *not-quite-nuclear-family* group, took their language, and stitched their vocabularies together.  
 The lexicon feels domestic, devotional, and disciplined all at once — a foster home built from stray idioms.
 
 | Surrogate family | Lexical inheritance | Emotional role |
