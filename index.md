@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 23:20:22 UTC_
+_Generated on 2025-10-05 23:22:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -559,6 +559,8 @@ _Generated on 2025-10-05 23:20:22 UTC_
     - [`README.md`](Disruption_Kit/Containment_Scripts/README.md)
     - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
+  - [**Field_Log/**](Disruption_Kit/Field_Log/)
+    - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Log/🚀_governance_is_great_2nd_spring_clean.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
     - [`hillside_brightness_histogram.png`](Disruption_Kit/Field_Logs/hillside_brightness_histogram.png)
@@ -773,7 +775,6 @@ _Generated on 2025-10-05 23:20:22 UTC_
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
       - [`🔮_uk_digital_id_risk_forecast.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
-      - [`🚀_governance_is_great_2nd_spring_clean.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🚀_governance_is_great_2nd_spring_clean.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
