@@ -74,7 +74,7 @@ It documents how systemic actors manipulate sequence, coherence, and confidence 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
 > - [🌀 Confused Feed as Containment](./🌀_confused_feed_as_containment.md) — *incoherence as systemic tactic*  
 > - [🕯️ Hope Withholding](./🕯️_hope_withholding.md) — *emotional suppression overlap*  
-> - [Survivor Tools → Counter-Nudges](../../../Disruption_Kit/Survivor_Tools/) — *practical reversal methods*  
+> - [Survivor Tools → Counter-Nudges](../../../Disruption_Kit/Survivor_Tools/README.md) — *practical reversal methods*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
