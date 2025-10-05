@@ -108,7 +108,7 @@ for migrants, students, and overseas passport holders —
 and outlines what genuine cross-border remediation would require.  
 
 > 📡 Cross-references:  
-> - [💼 Industry Capture Identity Systems](../../🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)  
+> - [💼 Industry Capture Identity Systems](../../Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)  
 > - [🧟 Zombie Data Identity Registers](../🧟‍♀️_Residual_Shadows/🧟_zombie_data_identity_registers.md)  
 > - [🛂 Papers Please Problems — README](../🛂_Papers_Please_Problems/README.md)  
 
