@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 01:22:58 UTC_
+_Generated on 2025-10-05 01:25:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -807,7 +807,7 @@ _Generated on 2025-10-05 01:22:58 UTC_
       - [`🕯️_hope_withholding.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md)
       - [`😴_cognitive_load_as_infrastructure.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md)
       - [`😴_exhaustion_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment.md)
-      - [`🚪_isolation_scripting_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md)
+      - [`🚪_isolation_scripting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting.md)
       - [`🥀_loneliness_as_a_system_2025-09-13.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system_2025-09-13.md)
       - [`🥕_tiny_wins_exhaustion_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥕_tiny_wins_exhaustion_containment.md)
       - [`🧊_glass_box_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md)
