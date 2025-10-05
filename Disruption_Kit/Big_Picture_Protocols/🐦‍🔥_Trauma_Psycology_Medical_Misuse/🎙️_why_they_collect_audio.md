@@ -1,8 +1,6 @@
 # 🎙️ Why They Collect Audio
-
-**First created:** 2025-08-04 | **Last updated:** 2025-10-01  
-
-*Forensic brief on audio capture in behavioural surveillance.*  
+**First created:** 2025-08-04 | **Last updated:** 2025-10-05  
+*Forensic brief on audio capture in behavioural surveillance*  
 
 ---
 
@@ -144,4 +142,4 @@ It documents the strategic and technical functions of audio capture in behaviour
 > 📡 Cross-references:  
 > - [🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md) — sibling cluster of psychological nodes  
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-05_
