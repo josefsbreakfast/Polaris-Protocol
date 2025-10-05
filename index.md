@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 01:33:33 UTC_
+_Generated on 2025-10-05 01:34:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -662,6 +662,7 @@ _Generated on 2025-10-05 01:33:33 UTC_
     - [`🛰️_suppression_gremlins_after_midnight_2025-09-18.md`](Disruption_Kit/Field_Logs/🛰️_suppression_gremlins_after_midnight_2025-09-18.md)
     - [`🛰️_surveillance_forking_incident_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_surveillance_forking_incident_2025-09-27.md)
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
+    - [`🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md)
     - [`🛰️_university_complicity_protest_suppression_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05.md)
     - [`🛰️_university_complicity_protest_suppression_2025-09-05_2.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05_2.md)
     - [`🛰️_us_early_consolidation_media_dynamics_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_us_early_consolidation_media_dynamics_2025-09-20.md)
