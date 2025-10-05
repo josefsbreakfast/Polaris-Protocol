@@ -97,7 +97,7 @@ Positioned within the **Metadata Sabotage Network**, it shows how political inst
 
 > 📡 Cross-references:
 > 
-> - [🏛️ UK Identity Cards (2000s)](./🏛️_uk_identity_cards_2000s.md)  
+> - [🏛️ UK Identity Cards (2000s)](../../../Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md)  
 > - [🦜 Blair Cabinet Identity Hypocrisy](./🦜_blair_cabinet_identity_hypocrisy.md)  
 > - [💼 Industry Capture in Identity Systems](./💼_industry_capture_identity_systems.md)  
 
