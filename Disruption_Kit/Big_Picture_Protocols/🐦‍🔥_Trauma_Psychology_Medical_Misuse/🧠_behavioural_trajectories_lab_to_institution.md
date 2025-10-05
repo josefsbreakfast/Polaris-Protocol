@@ -177,9 +177,10 @@ behavioural psychology, operant conditioning, institutional application, trauma 
 *Behavioural Trajectories — From Lab to Institution* is a living node of the Polaris Protocol.  
 It records how operant paradigms migrated into applied institutional contexts, transforming empathy and trauma studies into governance vectors.  
 
-> 📡 Cross-references:  
-> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](./🐦‍🔥_Trauma_Psycology_Medical_Misuse/README.md) — systemic misuse of trauma & psychology  
-> - [🧠 HM Dept Coercive Nudges](./🧠_HM_Dept_Coercive_Nudges/README.md) — behavioural governance and coercive application  
+> 📡 Cross-references:
+> 
+> - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](./README.md) — systemic misuse of trauma & psychology  
+> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — behavioural governance and coercive application  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
