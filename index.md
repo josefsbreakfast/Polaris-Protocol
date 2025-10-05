@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 03:00:33 UTC_
+_Generated on 2025-10-05 03:06:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -472,6 +472,7 @@ _Generated on 2025-10-05 03:00:33 UTC_
       - [`🏛️_master_council_overlay.csv`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_master_council_overlay.csv)
       - [`🏛️_master_council_overlay_table.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md)
       - [`🏨_hotels_protests_and_power_consolidation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md)
+      - [`🐇_qanon_vocabulary_origins.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🐇_qanon_vocabulary_origins.md)
       - [`💄_plastic_masculinity_knives.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
       - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
       - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
