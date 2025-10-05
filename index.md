@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 10:17:22 UTC_
+_Generated on 2025-10-05 10:34:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1140,6 +1140,7 @@ _Generated on 2025-10-05 10:17:22 UTC_
     - [`🔥_data_mafia_debrief.md`](Polaris_Nest/Git_Intake_Drawer/🔥_data_mafia_debrief.md)
     - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Polaris_Nest/Git_Intake_Drawer/🕌_ornamental_survival_and_misfiled_survivals.md)
     - [`🕎_rising_kahanist_violence_risk.md`](Polaris_Nest/Git_Intake_Drawer/🕎_rising_kahanist_violence_risk.md)
+    - [`🕯_unfortunate_history_of_predators_in_organised_groups.md`](Polaris_Nest/Git_Intake_Drawer/🕯_unfortunate_history_of_predators_in_organised_groups.md)
     - [`🕸️_tenant_countermoves_in_covert_surveillance_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_tenant_countermoves_in_covert_surveillance_abuse.md)
     - [`🖍_weirdest_yom_kippur.md`](Polaris_Nest/Git_Intake_Drawer/🖍_weirdest_yom_kippur.md)
     - [`🗂️_signature_silence_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_signature_silence_drift.md)
