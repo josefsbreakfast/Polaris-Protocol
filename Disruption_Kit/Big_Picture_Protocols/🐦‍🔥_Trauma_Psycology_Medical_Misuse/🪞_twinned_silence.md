@@ -1,5 +1,5 @@
 # 🪞 Twinned Silence  
-**First created:** 2025-09-07 | **Last updated:** 2025-10-04  
+**First created:** 2025-09-07 | **Last updated:** 2025-10-05  
 *How paired or spliced witnesses are groomed to cancel each other out*  
 
 ---
@@ -160,4 +160,4 @@ It documents how paired witnesses are structurally disempowered by being groomed
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_  
+_Last updated: 2025-10-05_  
