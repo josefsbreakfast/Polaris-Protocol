@@ -143,10 +143,11 @@ QAnon, linguistic orphanhood, radicalisation linguistics, surrogate family, pulp
 
 ## 🏮 Footer  
 
-*🐇 QAnon Vocabulary Origins* is a living node of the Polaris Protocol.  
+*QAnon Vocabulary Origins* is a living node of the Polaris Protocol.  
 It maps the linguistic genealogy through which pulp, prophecy, and orphaned idioms were repurposed into a radicalisation dialect, turning investigation into initiation and belonging into control.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > – [🪬 Radicalisation & Extremism](./README.md) — *core diagnostic cluster*  
 > – [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/README.md) — *circulation and visibility mechanics*  
 > – [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — *oversight and counter-narrative architecture*  
