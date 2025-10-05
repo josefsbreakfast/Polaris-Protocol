@@ -64,14 +64,15 @@ papers please, digital ID, administrative surveillance, work checks, passport sy
 
 ## 🏮 Footer  
 
-*🛂 Papers Please Problems* is a living node of the *Polaris Protocol.*  
+*Papers Please Problems* is a living node of the *Polaris Protocol.*  
 It exposes how verification infrastructures transform from systems of proof  
 into architectures of suspicion that never let subjects go.  
 
-> 📡 Cross-references:  
-> - [🔥 Data Risks](../) — structural persistence and risk mapping  
-> - [📿 Vulnerable Data Populations](../📿_Vulnerable_Data_Populations/)  
-> - [🧟‍♀️ Residual Shadows](../🧟‍♀️_Residual_Shadows/)  
+> 📡 Cross-references:
+> 
+> - [🔥 Data Risks](../README.md) — *structural persistence and risk mapping*  
+> - [📿 Vulnerable Data Populations](../📿_Vulnerable_Data_Populations/README.md)  
+> - [🧟‍♀️ Residual Shadows](../🧟‍♀️_Residual_Shadows/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
