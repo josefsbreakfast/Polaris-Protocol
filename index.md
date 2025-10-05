@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 16:16:52 UTC_
+_Generated on 2025-10-05 17:53:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1201,6 +1201,7 @@ _Generated on 2025-10-05 16:16:52 UTC_
     - [`🧾_New_Additions_Prepbook.md`](Polaris_Nest/Git_Intake_Drawer/🧾_New_Additions_Prepbook.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
+    - [`🧾_mass_arrest_symbolic_processing_costs.md`](Polaris_Nest/Git_Intake_Drawer/🧾_mass_arrest_symbolic_processing_costs.md)
     - [`🧿_diaspora_disclosure_tactics.md`](Polaris_Nest/Git_Intake_Drawer/🧿_diaspora_disclosure_tactics.md)
     - [`🧿_uk_persuasion_engine_on_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_persuasion_engine_on_palestine.md)
     - [`🧿_why_do_you_tolerate_my_imprisonment.md`](Polaris_Nest/Git_Intake_Drawer/🧿_why_do_you_tolerate_my_imprisonment.md)
