@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 12:17:48 UTC_
+_Generated on 2025-10-05 12:18:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -267,8 +267,8 @@ _Generated on 2025-10-05 12:17:48 UTC_
       - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
       - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md)
       - [`🧠_transformative_learning_window.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_transformative_learning_window.md)
+      - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_value_of_the_outlier.md)
     - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
-      - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_value_of_the_outlier.md)
       - [`🧪_ego_insurance_but_make_it_personal.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧪_ego_insurance_but_make_it_personal.md)
       - [`🧬_brains_are_not_flowcharts.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_brains_are_not_flowcharts.md)
       - [`🧬_clone_interference_map.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_clone_interference_map.png)
