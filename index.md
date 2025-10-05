@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 01:19:05 UTC_
+_Generated on 2025-10-05 01:19:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -589,6 +589,7 @@ _Generated on 2025-10-05 01:19:05 UTC_
     - [`🛰️_business_layer_harassment_pattern_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_business_layer_harassment_pattern_2025-09-19.md)
     - [`🛰️_chatgpt_cant_hold_chronology_today.md`](Disruption_Kit/Field_Logs/🛰️_chatgpt_cant_hold_chronology_today.md)
     - [`🛰️_codename_table_loss_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_codename_table_loss_2025-09-20.md)
+    - [`🛰️_cognitive_load_as_infrastructure_field_log_2025-09-25.md`](Disruption_Kit/Field_Logs/🛰️_cognitive_load_as_infrastructure_field_log_2025-09-25.md)
     - [`🛰️_commit_interference_fork_anomaly_save_2025-09-09.md`](Disruption_Kit/Field_Logs/🛰️_commit_interference_fork_anomaly_save_2025-09-09.md)
     - [`🛰️_confused_feed_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_confused_feed_field_log_2025-09-29.md)
     - [`🛰️_content_injection_surveillance_leak_2025-09-21.md`](Disruption_Kit/Field_Logs/🛰️_content_injection_surveillance_leak_2025-09-21.md)
