@@ -58,6 +58,61 @@ Fascinating area, though. Some good charts on memory type are around if the lang
 
 ---
 
-i will fix typos later - this ones prob on me. am v tired if im honest.
+i will fix typos later - this ones prob on me. am v tired if im honest.  
+
+---
+
+
+Update:
+
+the "definitly not one man trying to ruin the lives of anyone who tells him no" voice of matchmaker/lecturing uncle is back.  
+
+apparantly i should be "saying the vulnerable thing out loud", should beware controlling men (you dont say? 🙄), and i "just need to slow down.  
+
+if you treat me like this, and nudge other mechanism that expose me to dangerous behaviour? 
+
+you don't get to say shit.  
+
+oh, that's a point.  
+
+Today's class act video was a clip of an actor playing a psychiatrist who was seeing a patient who is detained and in handcuffs and the assisting custody officer didn't take the handcuff soft weekly enough for the psychiatrist liking, the patient's wore quite casually and the sign the psychiatrist proceeded to give them a lecture whilst also belittling them demeaning them speaking down to them, whilst also being late.  
+
+I am familiar enough with one person who has difficulty with coercive control with their female partners, who I have been exposed to and have attempted to whistleblow/safeguard regarding, that was there seems very tangential on the surface?  
+
+This is what it looks like when you give small man too much control and too many powers that they can abuse.  
+
+There is a problem with men empower miss using C4ISR / C5ISR to exploit, sexualise, degrade, traumatise, and undermine the people they see as disposable. 
+
+I'm not saying its widespread.  
+
+I'm saying either I audit isn't good enough, or there are enough loops which can be misused, or that we should stop handing out military toys to civilian boys.  
+
+As usual, when I said the most sensitive thing regarding safeguarding or regarding legality or regarding specific actors behaviour? Multiple parsing errors. Strange misspellings, strange suggestions for words, that do not make any sense with the audio.  
+
+That is what C4ISR activity looks like in the wild.  
+
+That's how it looks invisible.  
+
+Because unless you know what to look for, why would you think your machine was not behaving just like a machine?  
+We never actioned the Pegasus leak.  
+
+So, which civilians in the UK have access to it?  
+
+And it does not need to be Pegasus. It is not as if there is only one piece of software. 
+
+
+But one would assume that if there was a widespread known problem with one of those pieces of software?  
+
+You think about actioning it right?  
+
+Especially if you knew for a fact that it meant someone has direct access to the devices of some of the Lords.  
+
+You'd hope that would've been actioned.  
+
+Publicly?  
+
+No confirmation. Most of the countries actioned, including authoritarian-leaning states.  
+
+Who told advised the UK, not to?  
 
 2025-10-05
