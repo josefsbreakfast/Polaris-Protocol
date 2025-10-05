@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 21:20:16 UTC_
+_Generated on 2025-10-05 21:27:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1143,6 +1143,7 @@ _Generated on 2025-10-05 21:20:16 UTC_
     - [`💣_energy_rents_timeline.csv`](Polaris_Nest/Git_Intake_Drawer/💣_energy_rents_timeline.csv)
     - [`💸_propaganda_to_tarot.md`](Polaris_Nest/Git_Intake_Drawer/💸_propaganda_to_tarot.md)
     - [`📈_id_function_creep.md`](Polaris_Nest/Git_Intake_Drawer/📈_id_function_creep.md)
+    - [`📚_bookworm_bitches_unite.md`](Polaris_Nest/Git_Intake_Drawer/📚_bookworm_bitches_unite.md)
     - [`📛_goyish_polizei.md`](Polaris_Nest/Git_Intake_Drawer/📛_goyish_polizei.md)
     - [`📲_so_is_it_pegasus_or_not.md`](Polaris_Nest/Git_Intake_Drawer/📲_so_is_it_pegasus_or_not.md)
     - [`🔥_10_years_of_denied_rage_hurts.md`](Polaris_Nest/Git_Intake_Drawer/🔥_10_years_of_denied_rage_hurts.md)
