@@ -1,10 +1,10 @@
 # ⚖️ Phantom Claim as Double Blade  
 **First created:** 2025-09-05 | **Last updated:** 2025-10-05  
-*How a phantom hereditary claim discredited two parties at once: the subject and a secondary target.*  
+*How a phantom hereditary claim discredited two parties at once: the subject and a secondary target*  
 
 ---
 
-## Summary  
+## ✨ Summary  
 
 The **phantom claim** was engineered to suppress one party while simultaneously delegitimising another.  
 One false lineage, leak, or pseudo-disclosure is enough to contaminate multiple reputations at once.  
@@ -14,7 +14,7 @@ Once seeded, the correction phase itself becomes another stage of suppression �
 
 ---
 
-## Pattern  
+## 📿 Pattern  
 
 - Not the work of a single architect, but of a **grift economy** where suppression is a commodity.  
 - Operates through intermediaries: ghostwriters, “researchers,” whisper networks, and content farms.  
@@ -23,7 +23,7 @@ Once seeded, the correction phase itself becomes another stage of suppression �
 
 ---
 
-## 🧩 Countermeasure  
+## 🐦‍🔥 Countermeasure  
 
 The first defence is to **map intent, not content**.  
 Treat every improbable claim as a signal about *who benefits* from confusion rather than what is “true.”  
@@ -65,7 +65,7 @@ phantom claim, disinformation, suppression economy, grift industry, narrative co
 
 ## 🏮 Footer  
 
-*⚖️ Phantom Claim as Double Blade* is a living node of the Polaris Protocol.  
+*Phantom Claim as Double Blade* is a living node of the Polaris Protocol.  
 It records how phantom narratives function as multi-target discrediting tools within a suppression economy, and outlines minimal-reactivity countermeasures and early warning signals.  
 
 > 📡 Cross-references:
