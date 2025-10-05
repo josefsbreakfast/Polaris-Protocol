@@ -1,10 +1,10 @@
 # 🧠 Humiliation as Governance  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-05  
 *Marking and degrading the “other” as a systemic tactic of European governance*  
 
 ---
 
-## 📖 Definition  
+## ✨ Definition  
 
 Humiliation is not incidental.  
 In European governance, humiliation has been a deliberate tactic — a way of marking populations as “other,” externalising them, and making ridicule itself a containment system.  
@@ -104,10 +104,10 @@ humiliation, governance, antisemitism, containment loops, european history, pogr
 It traces the European lineage of humiliation-marking from medieval badges to Nazi stars, distinguishing it from other systems of subordination and showing how humiliation was weaponised into violence.  
 
 > 📡 Cross-references:  
-> - [🗝️ Deliberate Cultural Violation](../🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — *repeated violation of faith and ritual as governance*  
-> - [🌀 Forced Migration as Governance](../🌀_System_Governance/🌀_forced_migration_as_governance.md) — *displacement as control*  
-> - [🧠 Psychological Containment](../🧠_psychological_containment/) — *wider tactics of containment by shame, waiting, and ridicule*  
+> - [🗝️ Deliberate Cultural Violation](../../🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — *repeated violation of faith and ritual as governance*  
+> - [🌀 Forced Migration as Governance](../../🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md) — *displacement as control*  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *wider tactics of containment by shame, waiting, and ridicule*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-10-05_  
