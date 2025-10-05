@@ -80,7 +80,7 @@ It documents the deliberate use of overt manipulation tactics as a suppression v
 > 📡 Cross-references:  
 > - [🪆 Narrative Interference](../🪆_Narrative_Interference/README.md) — *semantic drift and clone tone*  
 > - [🧠 Psychological Containment](./README.md) — *compliance by delay*  
-> - [📉 Suppression Interference Logs](../📉_Suppression_Interference_Logs/README.md) — *commit and UI sabotage logs*  
+> - [📉 Suppression Interference Logs](../../Suppression_Layers/📉_Suppression_Interference_Logs/README.md) — *commit and UI sabotage logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
