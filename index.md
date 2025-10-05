@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 11:53:04 UTC_
+_Generated on 2025-10-05 11:53:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -467,7 +467,7 @@ _Generated on 2025-10-05 11:53:04 UTC_
         - [`🕸️_frankenstack_multi_modal_response_frame.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🕸️_frankenstack_multi_modal_response_frame.md)
         - [`🧟‍♀️_frankenstack_radicalisation_hypothesis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🧟‍♀️_frankenstack_radicalisation_hypothesis.md)
         - [`🩺_frankenstack_intake_and_response_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🩺_frankenstack_intake_and_response_protocol.md)
-        - [`🪬_frankenstack_social_field_effects.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪬_frankenstack_social_field_effects.md)
+        - [`🪼_frankenstack_social_field_effects.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪼_frankenstack_social_field_effects.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/README.md)
       - [`☕🫖_uk_gov_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
       - [`✍️_crime_writing_as_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
