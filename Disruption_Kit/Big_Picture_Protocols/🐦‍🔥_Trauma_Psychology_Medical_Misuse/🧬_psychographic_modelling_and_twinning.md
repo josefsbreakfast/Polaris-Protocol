@@ -1,8 +1,6 @@
 # 🧬 Psychographic Modelling and Twinning  
-
-**First created:** 2025-08-25 | **Last updated:** 2025-08-30 
-
-*Doctrine on psychographic profiling, twinning, and predictive containment.*
+**First created:** 2025-08-25 | **Last updated:** 2025-10-05  
+*Doctrine on psychographic profiling, twinning, and predictive containment*  
 
 ---
 
@@ -142,4 +140,4 @@ It documents psychographic profiling, behavioural cloning, and predictive contai
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-30_
+_Last updated: 2025-10-05_
