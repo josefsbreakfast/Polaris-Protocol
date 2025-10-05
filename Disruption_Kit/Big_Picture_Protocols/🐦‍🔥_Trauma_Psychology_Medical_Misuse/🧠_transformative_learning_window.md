@@ -1,5 +1,5 @@
 # 🧠 Transformative Learning Window  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
 *How clusters of high-fidelity signals trigger exhaustion and worldview shift*  
 
 ---
@@ -39,11 +39,12 @@ In Polaris, this temporal window maps onto the lived reality of survivors receiv
 *Transformative Learning Window* is a living node of the Polaris Protocol.  
 It documents how dense clusters of proof induce exhaustion, forcing survivors into accelerated worldview shifts.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
 > - [🧪 Pilot Containments](🧪_pilot_containments.md) — systemic testing of exposure thresholds  
 > - [🌀 Algorithmic Delay and Pacing](🌀_algorithmic_delay_and_pacing.md) — governance through timing  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-05_  
