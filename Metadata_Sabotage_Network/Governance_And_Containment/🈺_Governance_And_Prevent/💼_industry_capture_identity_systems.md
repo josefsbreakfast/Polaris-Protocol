@@ -86,7 +86,7 @@ It documents how private contractors design, market, and sustain digital identit
 > 
 > - [🔮 UK Digital ID Risk Forecast](./🔮_uk_digital_id_risk_forecast.md)  
 > - [🏛️ UK Identity Cards (2000s)](../../../Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md)  
-> - [🧟‍♀️ Digital ID Zombie Profiles](./🧟‍♀️_digital_id_zombie_profiles.md)  
+> - [🧟‍♀️ Digital ID Zombie Profiles](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
