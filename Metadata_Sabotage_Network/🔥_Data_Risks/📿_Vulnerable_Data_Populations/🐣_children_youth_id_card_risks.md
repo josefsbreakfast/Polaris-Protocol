@@ -203,3 +203,31 @@ a place where the habits of verification, obedience, and lifelong traceability f
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-05_
+
+### 📚 Source Table — Children & Youth ID Card Risks  
+
+| Source / Author | Year | Focus or Relevance |  
+|-----------------|------|--------------------|  
+| **CEOP (Child Exploitation & Online Protection Centre)** | 2006 | Early UK policing of online grooming and a/s/l chat-room culture. |  
+| **FBI – Innocent Images National Initiative** | 2004 | U.S. task-force model for online child-exploitation policing. |  
+| **NBC / *To Catch a Predator*** | 2004–2012 | Media-spectacle response to chat-room grooming; blurred policing–entertainment boundary. |  
+| **Newton, C. – *Wired*** | 2017 | “YouTube’s Child Problem” — algorithmic amplification of sexualised child content (*Elsagate*). |  
+| **Maheshwari & Bowles – *New York Times*** | 2017 | Investigative feature on disturbing children’s videos masquerading as family content. |  
+| **The Guardian** | 2020 | Follow-up analysis: YouTube algorithms still recommending sexualised child videos. |  
+| **YouTube Internal Moderation Leak** | 2019 | Evidence of limited platform capacity and commercial disincentive to remove child-risk content. |  
+| **BBC News – CloudPets Breach** | 2017 | Smart-toy data breach exposing 800 000 child voice messages. |  
+| **VTech Statement** | 2015 | Manufacturer admission of global children’s-data breach via connected learning toys. |  
+| **Reuters** | 2025 | Kido nursery hack: personal data of 8 000 children stolen; ransom leak event. |  
+| **The Guardian** | 2025 | Follow-up: hackers claim deletion of stolen Kido nursery data. |  
+| **Bureau of Indian Affairs (U.S.)** | 2022 | Federal Indian Boarding School report — archival control and child identity erasure. |  
+| **Government of Canada – St Anne’s Case** | 2015 | Residential-school records withheld from survivors; data as instrument of abuse. |  
+| **OFCOM** | 2024 | Review of UK Online Safety Bill age-verification and enforcement gaps. |  
+| **UK Parliament Debate** | 2023 | Committee discussion of duty-of-care and age-verification clauses. |  
+| **NHS England** | 2012 | National rollout guidance for HPV vaccination — comparison for early preventive framing. |  
+| **JCVI (UK Advisory Body)** | 2018 | Recommendation to include boys in HPV immunisation programme. |  
+| **NSPCC – PANTS Campaign** | 2014 | “Underwear Rule” child-protection education model for bodily consent. |  
+| **Buolamwini & Gebru – Gender Shades Study** | 2018 | Found 34% error rate in facial-recognition for dark-skinned women; bias evidence. |  
+| **NIST FRVT Report** | 2019 | National benchmark: 10–100× higher false-match rate for Asian & African-American faces. |  
+| **Big Brother Watch (UK)** | 2020 | Audit of Metropolitan Police facial-recognition trials — 81% false-positive rate. |  
+| **GAO (US Gov.)** | 2021 | DHS facial-recognition audit; high child error rates and racial bias. |  
+| **ONS (UK Office for National Statistics)** | 2022 | 30 million annual UK work-days lost to back pain — used in workplace-break rationale. |  
