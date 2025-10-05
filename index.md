@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 19:58:15 UTC_
+_Generated on 2025-10-05 20:14:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1184,6 +1184,7 @@ _Generated on 2025-10-05 19:58:15 UTC_
     - [`🥸_how_dare_ahe_have_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥸_how_dare_ahe_have_feelings.md)
     - [`🥸_tos_noncompliance_as_stealthing.md`](Polaris_Nest/Git_Intake_Drawer/🥸_tos_noncompliance_as_stealthing.md)
     - [`🥸_two_men_one_park.md`](Polaris_Nest/Git_Intake_Drawer/🥸_two_men_one_park.md)
+    - [`🦠_opportunistic_disinformation_pathogen.md`](Polaris_Nest/Git_Intake_Drawer/🦠_opportunistic_disinformation_pathogen.md)
     - [`🦤_bird_law_uk_edition.md`](Polaris_Nest/Git_Intake_Drawer/🦤_bird_law_uk_edition.md)
     - [`🦤_expectations_remain.md`](Polaris_Nest/Git_Intake_Drawer/🦤_expectations_remain.md)
     - [`🦩_no_cidt_no_glow_up.md`](Polaris_Nest/Git_Intake_Drawer/🦩_no_cidt_no_glow_up.md)
