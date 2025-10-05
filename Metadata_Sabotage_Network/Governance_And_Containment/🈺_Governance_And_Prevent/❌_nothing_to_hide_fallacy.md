@@ -164,7 +164,7 @@ It documents how surveillance regimes weaponise moral rhetoric to legitimise coe
 > 
 > - [🔮 UK Digital ID Risk Forecast](./🔮_uk_digital_id_risk_forecast.md)
 > - [💼 Industry Capture in Identity Systems](./💼_industry_capture_identity_systems.md)
-> - [🛠️ Work Check Duplication](./🛠️_work_check_duplication.md)  
+> - [🛠️ Work Check Duplication](../../../🔥_Data_Risks/🛂_Papers_Please_Problems/🛠️_work_check_duplication.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
