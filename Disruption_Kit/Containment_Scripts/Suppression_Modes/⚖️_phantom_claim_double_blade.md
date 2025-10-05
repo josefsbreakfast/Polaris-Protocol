@@ -70,8 +70,8 @@ It records how phantom narratives function as multi-target discrediting tools wi
 
 > 📡 Cross-references:
 > 
-> - [🪆 Narrative Interference](../../Metadata_Sabotage_Network/🪆_Narrative_Interference/README.md) — *semantic drift and clone tone tactics*
-> - [🧠 Psychological Containment](../../Disruption_Kit/Big_Picture_Protocols/🧠_Psychological_Containment/README.md) — *behavioural cooling and perception control*  
+> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md) — *semantic drift and clone tone tactics*
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *behavioural cooling and perception control*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
