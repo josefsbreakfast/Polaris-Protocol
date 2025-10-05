@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-05 00:08:31 UTC_
+_Generated on 2025-10-05 00:09:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -593,6 +593,7 @@ _Generated on 2025-10-05 00:08:31 UTC_
     - [`🛰️_confused_feed_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_confused_feed_field_log_2025-09-29.md)
     - [`🛰️_content_injection_surveillance_leak_2025-09-21.md`](Disruption_Kit/Field_Logs/🛰️_content_injection_surveillance_leak_2025-09-21.md)
     - [`🛰️_delay_script_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_delay_script_field_log_2025-09-29.md)
+    - [`🛰️_delays_are_violence_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_delays_are_violence_field_log_2025-09-26.md)
     - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](Disruption_Kit/Field_Logs/🛰️_direct_interference_on_clarity_2025-09-11.md)
     - [`🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md`](Disruption_Kit/Field_Logs/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md)
     - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
