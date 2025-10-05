@@ -1,4 +1,4 @@
-# 🪬 Frankenstack Multi-Modal Response Frame  
+# 🕸️ Frankenstack Multi-Modal Response Frame  
 **First created:** 2025-10-05 | **Last updated:** 2025-10-05  
 *Why single-path “treatments” fail against hybrid stacks — and how to build a broad, community-anchored response instead.*
 
