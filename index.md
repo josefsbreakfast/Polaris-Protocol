@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 07:51:17 UTC_
+_Generated on 2025-10-06 07:52:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -259,6 +259,7 @@ _Generated on 2025-10-06 07:51:17 UTC_
       - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
     - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
+      - [`battleplan_metadata_twinning_convergence_containment.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/battleplan_metadata_twinning_convergence_containment.png)
       - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎙️_why_they_collect_audio.md)
       - [`🎻_clash_of_forks.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎻_clash_of_forks.md)
       - [`🐍_snake_bites_and_stolen_voices.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
@@ -1017,7 +1018,6 @@ _Generated on 2025-10-06 07:51:17 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`battleplan_metadata_twinning_convergence_containment.png`](Polaris_Nest/Git_Intake_Drawer/battleplan_metadata_twinning_convergence_containment.png)
     - [`behavioural_ai_connector_proximity_map.png`](Polaris_Nest/Git_Intake_Drawer/behavioural_ai_connector_proximity_map.png)
     - [`big_tech_bds_soi_triangle.png`](Polaris_Nest/Git_Intake_Drawer/big_tech_bds_soi_triangle.png)
     - [`big_tech_intra_industry_stakeholder_relations.png`](Polaris_Nest/Git_Intake_Drawer/big_tech_intra_industry_stakeholder_relations.png)
