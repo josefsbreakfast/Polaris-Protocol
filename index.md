@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:00:28 UTC_
+_Generated on 2025-10-06 09:01:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -295,6 +295,7 @@ _Generated on 2025-10-06 09:00:28 UTC_
       - [`overengineered_manipulation_direct_interaction.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/overengineered_manipulation_direct_interaction.png)
       - [`palantir_cycle_diagram_branded.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/palantir_cycle_diagram_branded.png)
       - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
+      - [`shadow_nda_redacted.pdf`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/shadow_nda_redacted.pdf)
       - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
       - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
       - [`🔬_operation_no_sanctuary.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🔬_operation_no_sanctuary.md)
@@ -1067,7 +1068,6 @@ _Generated on 2025-10-06 09:00:28 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`shadow_nda_redacted.pdf`](Polaris_Nest/Git_Intake_Drawer/shadow_nda_redacted.pdf)
     - [`sound_ahavah_rabbah.png`](Polaris_Nest/Git_Intake_Drawer/sound_ahavah_rabbah.png)
     - [`sound_harmonic_c_minor.png`](Polaris_Nest/Git_Intake_Drawer/sound_harmonic_c_minor.png)
     - [`sound_maqam_haqiz.png`](Polaris_Nest/Git_Intake_Drawer/sound_maqam_haqiz.png)
