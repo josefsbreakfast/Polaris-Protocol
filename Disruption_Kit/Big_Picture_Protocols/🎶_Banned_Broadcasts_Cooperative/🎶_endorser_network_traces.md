@@ -54,10 +54,10 @@ flowchart LR
   AU[✍️ Author]:::person
 
   %% ENDORSERS
-  E1[🎓 Endorser 1 (Prof / Foreword)]:::endorser
-  E2[🏥 Endorser 2 (NGO / Blurb)]:::endorser
-  E3[🧪 Endorser 3 (Lab / Quote)]:::endorser
-  E4[🎤 Endorser 4 (Media / Panel)]:::endorser
+  E1[🎓 Endorser 1<br>Prof / Foreword]:::endorser
+  E2[🏥 Endorser 2<br>NGO / Blurb]:::endorser
+  E3[🧪 Endorser 3<br>Lab / Quote]:::endorser
+  E4[🎤 Endorser 4<br>Media / Panel]:::endorser
 
   %% EVENTS / SIGNALS
   S1{{🔻 Visibility Drop}}:::event
