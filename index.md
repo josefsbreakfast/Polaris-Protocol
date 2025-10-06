@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:18:45 UTC_
+_Generated on 2025-10-06 09:19:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -135,10 +135,9 @@ _Generated on 2025-10-06 09:18:45 UTC_
       - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪞_the_illusion_of_choice.md)
       - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪫_austerity_long_tail_data_instability.md)
       - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)
-    - [**🌱_Human_Principle/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principle/)
-      - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principle/uk_morale_post_2016.png)
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
+      - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
       - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
       - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_intuition_as_skill.md)
       - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
