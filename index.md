@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 18:10:53 UTC_
+_Generated on 2025-10-06 18:14:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1047,6 +1047,7 @@ _Generated on 2025-10-06 18:10:53 UTC_
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
+      - [`⚖️_plausible_deniability_exploits.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_plausible_deniability_exploits.md)
       - [`⚡️_citizen_polaris.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚡️_citizen_polaris.md)
       - [`🌀_loop_notes_on_ai_language.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_loop_notes_on_ai_language.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
@@ -1212,7 +1213,6 @@ _Generated on 2025-10-06 18:10:53 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`⚖️_plausible_deniability_exploits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_plausible_deniability_exploits.md)
     - [`🌦️_hope_for_the_best_expect_the_worst.md`](Polaris_Nest/Git_Intake_Drawer/🌦️_hope_for_the_best_expect_the_worst.md)
     - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Polaris_Nest/Git_Intake_Drawer/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
     - [`🕳️_exploitability_identifier_translation_weaknesses.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_exploitability_identifier_translation_weaknesses.md)
