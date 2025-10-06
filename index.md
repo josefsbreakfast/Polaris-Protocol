@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:33:17 UTC_
+_Generated on 2025-10-06 10:35:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -345,6 +345,7 @@ _Generated on 2025-10-06 10:33:17 UTC_
       - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
       - [`targeting_jewish_dissent_1980s_present.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/targeting_jewish_dissent_1980s_present.png)
       - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
+      - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
       - [`🧩_structural_lethality_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧩_structural_lethality_in_custody.md)
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
       - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
@@ -1177,7 +1178,6 @@ _Generated on 2025-10-06 10:33:17 UTC_
     - [`🦾_dual_uses_that_never_come.md`](Polaris_Nest/Git_Intake_Drawer/🦾_dual_uses_that_never_come.md)
     - [`🦾_invest_appropriately.md`](Polaris_Nest/Git_Intake_Drawer/🦾_invest_appropriately.md)
     - [`🧃_thinking_about_restoring_that_essay.md`](Polaris_Nest/Git_Intake_Drawer/🧃_thinking_about_restoring_that_essay.md)
-    - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Polaris_Nest/Git_Intake_Drawer/🧠_swiss_cheese_suicide_model_in_custody.md)
     - [`🧥_empires_old_clothes.md`](Polaris_Nest/Git_Intake_Drawer/🧥_empires_old_clothes.md)
     - [`🧨_trace_resistance_framework.yaml`](Polaris_Nest/Git_Intake_Drawer/🧨_trace_resistance_framework.yaml)
     - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Polaris_Nest/Git_Intake_Drawer/🧪_did_unis_really_address_rape_epidemic_tho.md)
