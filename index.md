@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:57:25 UTC_
+_Generated on 2025-10-06 08:58:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -349,6 +349,7 @@ _Generated on 2025-10-06 08:57:25 UTC_
       - [`pp14_22_metrics_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/pp14_22_metrics_timeline.png)
       - [`pre_fork_gaza_fork_tree.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/pre_fork_gaza_fork_tree.png)
       - [`retained_removed_pie_chart_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/retained_removed_pie_chart_redacted.png)
+      - [`safeguarding_model_actual_vs_potential.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/safeguarding_model_actual_vs_potential.png)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
@@ -1064,7 +1065,6 @@ _Generated on 2025-10-06 08:57:25 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`safeguarding_model_actual_vs_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_actual_vs_potential.png)
     - [`safeguarding_model_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_potential.png)
     - [`scale_of_scapegoating_hashtag.png`](Polaris_Nest/Git_Intake_Drawer/scale_of_scapegoating_hashtag.png)
     - [`scraping_spoofing_timeline_2019-2022.png`](Polaris_Nest/Git_Intake_Drawer/scraping_spoofing_timeline_2019-2022.png)
