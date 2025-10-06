@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:09:06 UTC_
+_Generated on 2025-10-06 08:10:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -282,6 +282,7 @@ _Generated on 2025-10-06 08:09:06 UTC_
       - [`🪞_twinning_fork_containment_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinning_fork_containment_timeline.md)
     - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
+      - [`data_misuse_continuum_flowchart_detailed.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/data_misuse_continuum_flowchart_detailed.png)
       - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
       - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
       - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
@@ -1028,7 +1029,6 @@ _Generated on 2025-10-06 08:09:06 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`data_misuse_continuum_flowchart_detailed.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart_detailed.png)
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
     - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/Git_Intake_Drawer/dopamine_induction_emotional_alignment.png)
     - [`dual_use_tech_procurement_theorised.png`](Polaris_Nest/Git_Intake_Drawer/dual_use_tech_procurement_theorised.png)
