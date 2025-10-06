@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:08:59 UTC_
+_Generated on 2025-10-06 10:09:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -717,6 +717,7 @@ _Generated on 2025-10-06 10:08:59 UTC_
     - [`🛰️_delays_are_violence_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_delays_are_violence_field_log_2025-09-26.md)
     - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](Disruption_Kit/Field_Logs/🛰️_direct_interference_on_clarity_2025-09-11.md)
     - [`🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md`](Disruption_Kit/Field_Logs/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md)
+    - [`🛰️_dols_delays_significant_interference.md`](Disruption_Kit/Field_Logs/🛰️_dols_delays_significant_interference.md)
     - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
     - [`🛰️_embedded_observers_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/🛰️_embedded_observers_field_log_2025-08-06.md)
     - [`🛰️_entrapment_by_protection_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_entrapment_by_protection_2025-09-27.md)
@@ -1156,7 +1157,6 @@ _Generated on 2025-10-06 10:08:59 UTC_
     - [`🚀_arms_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🚀_arms_transparency.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
-    - [`🛰️_dols_delays_significant_interference.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_dols_delays_significant_interference.md)
     - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_lagging_around_preemptive_counterterror_papers.md)
     - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
     - [`🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md)
