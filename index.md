@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:23:48 UTC_
+_Generated on 2025-10-06 12:24:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1163,7 +1163,6 @@ _Generated on 2025-10-06 12:23:48 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`🌌_constellation_tracker.md`](Polaris_Nest/Git_Intake_Drawer/🌌_constellation_tracker.md)
-    - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`🐒_monkey_work.md`](Polaris_Nest/Git_Intake_Drawer/🐒_monkey_work.md)
     - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Polaris_Nest/Git_Intake_Drawer/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
@@ -1292,6 +1291,7 @@ _Generated on 2025-10-06 12:23:48 UTC_
     - [`🏚️_how_to_live_in_a_house_that_failed_you.md`](Polaris_Nest/✨_Letters_to_Stars/🏚️_how_to_live_in_a_house_that_failed_you.md)
     - [`🏝️_island_exit_protocol.md`](Polaris_Nest/✨_Letters_to_Stars/🏝️_island_exit_protocol.md)
     - [`🏮_any_vulnerability.md`](Polaris_Nest/✨_Letters_to_Stars/🏮_any_vulnerability.md)
+    - [`🏵️_parents_vindicated.md`](Polaris_Nest/✨_Letters_to_Stars/🏵️_parents_vindicated.md)
     - [`🐀_so_close_to_catching_the_cable_nibbler.md`](Polaris_Nest/✨_Letters_to_Stars/🐀_so_close_to_catching_the_cable_nibbler.md)
     - [`🐎_sovereignty_in_scale.md`](Polaris_Nest/✨_Letters_to_Stars/🐎_sovereignty_in_scale.md)
     - [`🐝_its_supposed_to_break_you.md`](Polaris_Nest/✨_Letters_to_Stars/🐝_its_supposed_to_break_you.md)
