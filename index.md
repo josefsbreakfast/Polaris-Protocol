@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:23:12 UTC_
+_Generated on 2025-10-06 10:23:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -773,6 +773,7 @@ _Generated on 2025-10-06 10:23:12 UTC_
     - [`🛰️_precursors_summary_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_precursors_summary_2025-09-19.md)
     - [`🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md)
     - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
+    - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
     - [`🛰️_recognition_without_resolution_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_recognition_without_resolution_field_log_2025-09-13.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
     - [`🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md`](Disruption_Kit/Field_Logs/🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md)
@@ -1158,7 +1159,6 @@ _Generated on 2025-10-06 10:23:12 UTC_
     - [`🚀_arms_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🚀_arms_transparency.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
-    - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
     - [`🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md)
     - [`🛰️_surviellance_shidduchim_continues.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_surviellance_shidduchim_continues.md)
     - [`🛰️_the_busyness_of_the_bee.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_the_busyness_of_the_bee.md)
