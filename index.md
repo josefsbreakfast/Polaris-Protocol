@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 18:35:31 UTC_
+_Generated on 2025-10-06 18:36:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -332,6 +332,7 @@ _Generated on 2025-10-06 18:35:31 UTC_
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
       - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
+      - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/defacto_uk_hsip.png)
       - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/spv_dataflow_redacted.png)
       - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🎽_think_tanks_surveillance_and_conferencing.md)
       - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
@@ -622,7 +623,6 @@ _Generated on 2025-10-06 18:35:31 UTC_
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
       - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
-    - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/defacto_uk_hsip.png)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
