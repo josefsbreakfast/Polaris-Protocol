@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:34:24 UTC_
+_Generated on 2025-10-06 09:34:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -662,6 +662,7 @@ _Generated on 2025-10-06 09:34:24 UTC_
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Logs/🚀_governance_is_great_2nd_spring_clean.md)
     - [`🛡️_clearance_impact.md`](Disruption_Kit/Field_Logs/🛡️_clearance_impact.md)
+    - [`🛰_having_fun_with_node_exe.md`](Disruption_Kit/Field_Logs/🛰_having_fun_with_node_exe.md)
     - [`🛰️_2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_fieldnote_suppression_signal.md)
     - [`🛰️_2025-09-19_legal_risk_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_legal_risk_sweep.md)
     - [`🛰️_2025-09-19_security_signal_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_security_signal_sweep.md)
@@ -1140,7 +1141,6 @@ _Generated on 2025-10-06 09:34:24 UTC_
     - [`🚩_400_pension_risks.md`](Polaris_Nest/Git_Intake_Drawer/🚩_400_pension_risks.md)
     - [`🚩_tldr_i_want_out_now.md`](Polaris_Nest/Git_Intake_Drawer/🚩_tldr_i_want_out_now.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
-    - [`🛰_having_fun_with_node_exe.md`](Polaris_Nest/Git_Intake_Drawer/🛰_having_fun_with_node_exe.md)
     - [`🛰_instructions_what_instuctions.md`](Polaris_Nest/Git_Intake_Drawer/🛰_instructions_what_instuctions.md)
     - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_algorithmic_foil_recycling_2025-10-03.md)
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
