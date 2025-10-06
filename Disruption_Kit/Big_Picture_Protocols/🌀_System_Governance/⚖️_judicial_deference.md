@@ -1,10 +1,10 @@
 # ⚖️ Judicial Deference  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-30  
-*Courts outsourcing responsibility back to the executive, reinforcing systemic impunity*
+**First created:** 2025-09-14 | **Last updated:** 2025-10-06  
+*Courts outsourcing responsibility back to the executive, reinforcing systemic impunity.*
 
 ---
 
-## 🧭 Concept  
+## ✨ Concept  
 
 Judicial deference refers to the pattern where **courts refrain from fully scrutinising executive power**, especially in national security, surveillance, or foreign policy cases.  
 Rather than act as a check, they become a **relay switch**, validating decisions already made elsewhere.  
@@ -41,9 +41,9 @@ judicial deference, rule of law, impunity, national security, surveillance, exec
 It tracks how courts sometimes fail to check state overreach — and how legal passivity enables systemic harm.
 
 > 📡 Cross-references:  
-> - [🌀 System Governance](./) — parent cluster of governance diagnostics  
+> - [🌀 System Governance](./README.md) — parent cluster of governance diagnostics  
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_
+_Last updated: 2025-10-06_
