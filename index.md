@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:26:44 UTC_
+_Generated on 2025-10-06 10:27:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -808,6 +808,7 @@ _Generated on 2025-10-06 10:26:44 UTC_
     - [`🛰️_voice_modulation_forensics_spoon_2025-07-24.md`](Disruption_Kit/Field_Logs/🛰️_voice_modulation_forensics_spoon_2025-07-24.md)
     - [`🛰️_waiting_is_not_a_rescue_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/🛰️_waiting_is_not_a_rescue_field_log_2025-08-06.md)
     - [`🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md)
+    - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Disruption_Kit/Field_Logs/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
     - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🧠_hybrid_motive_hypothesis_2025-09-20.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
@@ -1162,7 +1163,6 @@ _Generated on 2025-10-06 10:26:44 UTC_
     - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Polaris_Nest/Git_Intake_Drawer/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
     - [`🚀_arms_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🚀_arms_transparency.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
-    - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
     - [`🛰️_white_men_being_white_men.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_men_being_white_men.md)
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🙄_stop_changing_gits_field_note.md)
     - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
