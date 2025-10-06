@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:56:35 UTC_
+_Generated on 2025-10-06 12:57:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -299,6 +299,7 @@ _Generated on 2025-10-06 12:56:35 UTC_
       - [`🧬_psychographic_modelling_and_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_psychographic_modelling_and_twinning.md)
       - [`🧬_twinned_signature.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinned_signature.md)
       - [`🧬_twinning_detection.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinning_detection.md)
+      - [`🩺_diagnosis_discredit_loop.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩺_diagnosis_discredit_loop.md)
       - [`🪞_twinned_silence.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinned_silence.md)
       - [`🪞_twinning_fork_containment_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinning_fork_containment_timeline.md)
     - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/)
@@ -1199,7 +1200,6 @@ _Generated on 2025-10-06 12:56:35 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🩺_diagnosis_discredit_loop.md`](Polaris_Nest/Git_Intake_Drawer/🩺_diagnosis_discredit_loop.md)
     - [`🩺_oh_the_irony_tho.md`](Polaris_Nest/Git_Intake_Drawer/🩺_oh_the_irony_tho.md)
     - [`🪞_boring_mechanisms_sensational_harms.md`](Polaris_Nest/Git_Intake_Drawer/🪞_boring_mechanisms_sensational_harms.md)
     - [`🪮_on_hair_and_memory.md`](Polaris_Nest/Git_Intake_Drawer/🪮_on_hair_and_memory.md)
