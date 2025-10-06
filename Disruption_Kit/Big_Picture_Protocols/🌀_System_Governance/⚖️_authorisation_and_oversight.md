@@ -55,4 +55,4 @@ It explains how intelligence warrants are issued and checked in the UK — and h
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_
+_Last updated: 2025-10-06_
