@@ -4,7 +4,7 @@
 
 ---
 
-## Summary  
+## ✨ Summary  
 
 Every governance architecture runs on a dial, not a switch.  
 The more **autonomy** a system grants—through open networks, decentralised control, and individual agency—the more **attack surface** it creates.  
@@ -12,7 +12,7 @@ Conversely, the more **containment** it enforces—through closed circuits, surv
 
 ---
 
-## 1. The Dial Logic  
+## 🛰️ 1. The Dial Logic  
 
 | Position | Character | Benefit | Risk |
 |-----------|------------|----------|------|
@@ -21,7 +21,7 @@ Conversely, the more **containment** it enforces—through closed circuits, surv
 
 ---
 
-## 2. China as Case Example  
+## 🇨🇳 2. China as Case Example  
 
 China’s **internal network isolation** functions as both a **firewall** and a **governance metaphor**.  
 Because every entry and exit point is monitored, foreign interference or cyberattacks become more immediately visible.  
@@ -31,7 +31,7 @@ The Great Firewall thus operates as a **security organ** and a **narrative organ
 
 ---
 
-## 3. Democratic Paradox  
+## ⚖️ 3. Democratic Paradox  
 
 Open societies rely on distributed trust and voluntary compliance.  
 But their openness is also what makes them **vulnerable to manipulation**, both digital and psychological.  
@@ -42,7 +42,7 @@ Hence the paradox:
 
 ---
 
-## 4. Dial Management  
+## 🎻 4. Dial Management  
 
 No system can “solve” the autonomy–containment paradox; it can only **tune** it.  
 Good governance lies in recognising that **resilience** comes not from maximal freedom or maximal control, but from **adaptive modulation** between the two.  
@@ -69,7 +69,7 @@ It examines how systemic architectures oscillate between openness and control, a
 > 📡 Cross-references:  
 > - [🌀 System_Governance](./🌀_System_Governance/README.md) — frameworks and models of control vs autonomy  
 > - [🪞 The Illusion of Choice](./🪞_the_illusion_of_choice.md) — democratic containment under market freedom  
-> - [🛡️ Exploitability and Defensive Strategy](../🛡️_exploitability_and_defensive_strategy.md) — adaptive security logic under open systems  
+> - [🛡️ Exploitability and Defensive Strategy](./🛡️_exploitability_and_defensive_strategy.md) — adaptive security logic under open systems  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
