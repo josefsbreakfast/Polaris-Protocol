@@ -29,7 +29,7 @@ It examines the contradictions in legal frameworks around animal husbandry, and 
 
 > 📡 Cross-references:  
 > - [🛟 Harm Reduction at Borders](../🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md) — on misaligned logics of protection  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — on enforcement structures and historical quirks  
+> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — on enforcement structures and historical quirks  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
