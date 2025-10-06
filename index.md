@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:43:03 UTC_
+_Generated on 2025-10-06 09:43:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -659,6 +659,7 @@ _Generated on 2025-10-06 09:43:03 UTC_
     - [`👁️‍🗨️_i_am_aware_stop_doing_it.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_i_am_aware_stop_doing_it.md)
     - [`👾_legal_notariety.md`](Disruption_Kit/Field_Logs/👾_legal_notariety.md)
     - [`👾_pensions_and_perverts.md`](Disruption_Kit/Field_Logs/👾_pensions_and_perverts.md)
+    - [`💸_propaganda_to_tarot.md`](Disruption_Kit/Field_Logs/💸_propaganda_to_tarot.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
     - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
@@ -1122,7 +1123,6 @@ _Generated on 2025-10-06 09:43:03 UTC_
     - [`💌_letters_to_myself.md`](Polaris_Nest/Git_Intake_Drawer/💌_letters_to_myself.md)
     - [`💌_nfts_and_postal_stamps.md`](Polaris_Nest/Git_Intake_Drawer/💌_nfts_and_postal_stamps.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
-    - [`💸_propaganda_to_tarot.md`](Polaris_Nest/Git_Intake_Drawer/💸_propaganda_to_tarot.md)
     - [`📈_id_function_creep.md`](Polaris_Nest/Git_Intake_Drawer/📈_id_function_creep.md)
     - [`📚_bookworm_bitches_unite.md`](Polaris_Nest/Git_Intake_Drawer/📚_bookworm_bitches_unite.md)
     - [`📛_goyish_polizei.md`](Polaris_Nest/Git_Intake_Drawer/📛_goyish_polizei.md)
