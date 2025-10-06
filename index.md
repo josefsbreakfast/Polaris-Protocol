@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:13:01 UTC_
+_Generated on 2025-10-06 08:13:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -372,6 +372,7 @@ _Generated on 2025-10-06 08:13:01 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
       - [`appeasement_loop_neon.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
       - [`data_misuse_continuum_with_resilience_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/data_misuse_continuum_with_resilience_flowchart.png)
+      - [`dual_use_tech_procurement_theorised.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/dual_use_tech_procurement_theorised.png)
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
       - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
       - [`⚖️_selective_memory_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_selective_memory_erasure.md)
@@ -1030,7 +1031,6 @@ _Generated on 2025-10-06 08:13:01 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`dual_use_tech_procurement_theorised.png`](Polaris_Nest/Git_Intake_Drawer/dual_use_tech_procurement_theorised.png)
     - [`fork_ghost_human_24h.png`](Polaris_Nest/Git_Intake_Drawer/fork_ghost_human_24h.png)
     - [`forkscan_seperating_human_actors.png`](Polaris_Nest/Git_Intake_Drawer/forkscan_seperating_human_actors.png)
     - [`frankenstack_bad_sandwich_black.png`](Polaris_Nest/Git_Intake_Drawer/frankenstack_bad_sandwich_black.png)
