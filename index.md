@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:16:45 UTC_
+_Generated on 2025-10-06 08:17:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -335,6 +335,7 @@ _Generated on 2025-10-06 08:16:45 UTC_
         - [`🛰️_nhs_token_switching_integrity_audit.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🛰️_nhs_token_switching_integrity_audit.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
       - [`black_mould_audit_checklist.csv`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/black_mould_audit_checklist.csv)
+      - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
@@ -1033,7 +1034,6 @@ _Generated on 2025-10-06 08:16:45 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`full_report_metrics_with_flips_annotated.png`](Polaris_Nest/Git_Intake_Drawer/full_report_metrics_with_flips_annotated.png)
     - [`human_vs_system_interventions_aug.png`](Polaris_Nest/Git_Intake_Drawer/human_vs_system_interventions_aug.png)
     - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Polaris_Nest/Git_Intake_Drawer/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
