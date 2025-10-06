@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:23:46 UTC_
+_Generated on 2025-10-06 09:25:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -628,6 +628,7 @@ _Generated on 2025-10-06 09:23:46 UTC_
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
     - [`example_failed_file_copy_2025-08-20.png`](Disruption_Kit/Field_Logs/example_failed_file_copy_2025-08-20.png)
     - [`example_failed_upload_influence_map_local_redacted_2025-08-20.png`](Disruption_Kit/Field_Logs/example_failed_upload_influence_map_local_redacted_2025-08-20.png)
+    - [`example_failed_upload_non_useable_2025-08-20.png`](Disruption_Kit/Field_Logs/example_failed_upload_non_useable_2025-08-20.png)
     - [`hillside_brightness_histogram.png`](Disruption_Kit/Field_Logs/hillside_brightness_histogram.png)
     - [`hillside_patch_grid.png`](Disruption_Kit/Field_Logs/hillside_patch_grid.png)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
@@ -1085,7 +1086,6 @@ _Generated on 2025-10-06 09:23:46 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
     - [`☄️_ww3_started_years_ago.md`](Polaris_Nest/Git_Intake_Drawer/☄️_ww3_started_years_ago.md)
     - [`☕️_something_has_changed.md`](Polaris_Nest/Git_Intake_Drawer/☕️_something_has_changed.md)
     - [`⚖️_navigating_elder_spaces_for_transparency.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_navigating_elder_spaces_for_transparency.md)
