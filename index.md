@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:12:45 UTC_
+_Generated on 2025-10-06 09:13:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -496,6 +496,7 @@ _Generated on 2025-10-06 09:12:45 UTC_
       - [`peri_nda_theorised_middle_multiple_safeguarding.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/peri_nda_theorised_middle_multiple_safeguarding.png)
       - [`polaris_signal_map.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/polaris_signal_map.png)
       - [`pressure_map_local_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/pressure_map_local_redacted.png)
+      - [`suspect_interaction_flowchart_loop_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/suspect_interaction_flowchart_loop_redacted.png)
       - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
       - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
@@ -1075,7 +1076,6 @@ _Generated on 2025-10-06 09:12:45 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`suspect_interaction_flowchart_loop_redacted.png`](Polaris_Nest/Git_Intake_Drawer/suspect_interaction_flowchart_loop_redacted.png)
     - [`targeting_jewish_dissent_1980s_present.png`](Polaris_Nest/Git_Intake_Drawer/targeting_jewish_dissent_1980s_present.png)
     - [`targetting_jewish_dissent_1980s_plasticbox.png`](Polaris_Nest/Git_Intake_Drawer/targetting_jewish_dissent_1980s_plasticbox.png)
     - [`triple_lock_audit_gap_flow.png`](Polaris_Nest/Git_Intake_Drawer/triple_lock_audit_gap_flow.png)
