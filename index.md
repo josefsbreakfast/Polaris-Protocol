@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:02:39 UTC_
+_Generated on 2025-10-06 08:06:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -295,6 +295,8 @@ _Generated on 2025-10-06 08:02:39 UTC_
       - [`🧬_successor_firms_scl_cambridge_analytica.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧬_successor_firms_scl_cambridge_analytica.md)
       - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
       - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
+    - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
