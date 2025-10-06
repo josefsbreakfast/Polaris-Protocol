@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:55:09 UTC_
+_Generated on 2025-10-06 08:56:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -347,6 +347,7 @@ _Generated on 2025-10-06 08:55:09 UTC_
       - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
       - [`pp14_22_metrics_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/pp14_22_metrics_timeline.png)
       - [`pre_fork_gaza_fork_tree.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/pre_fork_gaza_fork_tree.png)
+      - [`retained_removed_pie_chart_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/retained_removed_pie_chart_redacted.png)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
@@ -1062,7 +1063,6 @@ _Generated on 2025-10-06 08:55:09 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`retained_removed_pie_chart_redacted.png`](Polaris_Nest/Git_Intake_Drawer/retained_removed_pie_chart_redacted.png)
     - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Polaris_Nest/Git_Intake_Drawer/reverse_colonisation_metadata_law_procurement_timeline.png)
     - [`safeguarding_model_actual_vs_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_actual_vs_potential.png)
     - [`safeguarding_model_potential.png`](Polaris_Nest/Git_Intake_Drawer/safeguarding_model_potential.png)
