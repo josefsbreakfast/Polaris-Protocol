@@ -67,8 +67,8 @@ governance, autonomy, containment, democracy, cybersecurity, information systems
 It examines how systemic architectures oscillate between openness and control, and how those oscillations shape both resilience and vulnerability.  
 
 > 📡 Cross-references:  
-> - [🌀 System_Governance](../🌀_System_Governance/) — frameworks and models of control vs autonomy  
-> - [🪞 The Illusion of Choice](../🪞_the_illusion_of_choice.md) — democratic containment under market freedom  
+> - [🌀 System_Governance](./🌀_System_Governance/README.md) — frameworks and models of control vs autonomy  
+> - [🪞 The Illusion of Choice](./🪞_the_illusion_of_choice.md) — democratic containment under market freedom  
 > - [🛡️ Exploitability and Defensive Strategy](../🛡️_exploitability_and_defensive_strategy.md) — adaptive security logic under open systems  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
