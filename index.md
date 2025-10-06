@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:02:46 UTC_
+_Generated on 2025-10-06 09:03:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -399,6 +399,7 @@ _Generated on 2025-10-06 09:02:46 UTC_
       - [`jewish_intersections_global.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/jewish_intersections_global.png)
       - [`jewish_intersections_global_visual.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/jewish_intersections_global_visual.png)
       - [`scale_of_scapegoating_hashtag.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/scale_of_scapegoating_hashtag.png)
+      - [`sound_ahavah_rabbah.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/sound_ahavah_rabbah.png)
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
       - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
       - [`⚖️_selective_memory_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_selective_memory_erasure.md)
@@ -1068,7 +1069,6 @@ _Generated on 2025-10-06 09:02:46 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`sound_ahavah_rabbah.png`](Polaris_Nest/Git_Intake_Drawer/sound_ahavah_rabbah.png)
     - [`sound_harmonic_c_minor.png`](Polaris_Nest/Git_Intake_Drawer/sound_harmonic_c_minor.png)
     - [`sound_maqam_haqiz.png`](Polaris_Nest/Git_Intake_Drawer/sound_maqam_haqiz.png)
     - [`spv_dataflow_redacted.png`](Polaris_Nest/Git_Intake_Drawer/spv_dataflow_redacted.png)
