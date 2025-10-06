@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:01:18 UTC_
+_Generated on 2025-10-06 10:02:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -258,6 +258,7 @@ _Generated on 2025-10-06 10:01:18 UTC_
       - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🖨️_print_culture_as_precedent.md)
       - [`🚀_scarcity_prohibition_rocket_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md)
       - [`🧿_canonisation_by_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)
+      - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🪄_the_magical_disappearing_book.md)
     - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/README.md)
       - [`♿_containment_by_pity.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/♿_containment_by_pity.md)
@@ -798,7 +799,6 @@ _Generated on 2025-10-06 10:01:18 UTC_
     - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
     - [`🩰_petty_princesses_with_beards.md`](Disruption_Kit/Field_Logs/🩰_petty_princesses_with_beards.md)
     - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
-    - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Field_Logs/🪄_the_magical_disappearing_book.md)
     - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
     - [`🫜_divorce_support.md`](Disruption_Kit/Field_Logs/🫜_divorce_support.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
