@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 18:19:53 UTC_
+_Generated on 2025-10-06 18:23:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -139,6 +139,7 @@ _Generated on 2025-10-06 18:19:53 UTC_
       - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪞_the_illusion_of_choice.md)
       - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪫_austerity_long_tail_data_instability.md)
       - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)
+      - [`🫁_oxygen_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫁_oxygen_and_oversight.md)
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
@@ -1219,7 +1220,6 @@ _Generated on 2025-10-06 18:19:53 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🫁_oxygen_and_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🫁_oxygen_and_oversight.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
