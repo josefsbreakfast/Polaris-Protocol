@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 18:16:23 UTC_
+_Generated on 2025-10-06 18:17:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -400,6 +400,7 @@ _Generated on 2025-10-06 18:16:23 UTC_
       - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📑_the_case_of_the_disappearing_reviews.md)
       - [`🕯_unfortunate_history_of_predators_in_organised_groups.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🕯_unfortunate_history_of_predators_in_organised_groups.md)
+      - [`🕳️_exploitability_identifier_translation_weaknesses.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🕳️_exploitability_identifier_translation_weaknesses.md)
       - [`🗂️_cse_scandals_post-2013.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🗂️_cse_scandals_post-2013.md)
       - [`🦈_surveillance_by_misread_and_malice.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🦈_surveillance_by_misread_and_malice.md)
       - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧠_targeting_logic_empathy_is_a_threat.md)
@@ -1215,7 +1216,6 @@ _Generated on 2025-10-06 18:16:23 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🕳️_exploitability_identifier_translation_weaknesses.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_exploitability_identifier_translation_weaknesses.md)
     - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_node_generation_stalling_2025-10-06.md)
     - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
     - [`🪣_hidden_data_loop_audit.md`](Polaris_Nest/Git_Intake_Drawer/🪣_hidden_data_loop_audit.md)
