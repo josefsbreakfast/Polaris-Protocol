@@ -2,7 +2,7 @@ a reoccuring dream recently.
 
 many reoccurances. 
 
-and i hadnt dreamt fir years (and remembered dreaming).
+and i hadnt dreamt for years (and remembered dreaming).
 
 i am stuck in a room or a building or a barred area. it is not tiny, but i cannot get out.
 
