@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:09:53 UTC_
+_Generated on 2025-10-06 10:23:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -746,6 +746,7 @@ _Generated on 2025-10-06 10:09:53 UTC_
     - [`🛰️_intimacy_gatekeeping_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_intimacy_gatekeeping_field_log_2025-09-26.md)
     - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
     - [`🛰️_isolation_scripting_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_isolation_scripting_field_log_2025-09-13.md)
+    - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/🛰️_lagging_around_preemptive_counterterror_papers.md)
     - [`🛰️_late_stage_signoff_map_triple_lock_continuation.md`](Disruption_Kit/Field_Logs/🛰️_late_stage_signoff_map_triple_lock_continuation.md)
     - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
     - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
@@ -1157,7 +1158,6 @@ _Generated on 2025-10-06 10:09:53 UTC_
     - [`🚀_arms_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🚀_arms_transparency.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
-    - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_lagging_around_preemptive_counterterror_papers.md)
     - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
     - [`🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md)
     - [`🛰️_surviellance_shidduchim_continues.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_surviellance_shidduchim_continues.md)
