@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:08:09 UTC_
+_Generated on 2025-10-06 08:09:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -297,6 +297,7 @@ _Generated on 2025-10-06 08:08:09 UTC_
       - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
+      - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
@@ -1027,7 +1028,6 @@ _Generated on 2025-10-06 08:08:09 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`data_misuse_continuum_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart.png)
     - [`data_misuse_continuum_flowchart_detailed.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart_detailed.png)
     - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
     - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/Git_Intake_Drawer/dopamine_induction_emotional_alignment.png)
