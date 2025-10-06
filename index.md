@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:46:10 UTC_
+_Generated on 2025-10-06 08:46:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -834,6 +834,7 @@ _Generated on 2025-10-06 08:46:10 UTC_
       - [`🧻🐯_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_tigers.md)
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
+      - [`protocol_flow_new_insert_handling.png`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/protocol_flow_new_insert_handling.png)
       - [`toy_case_history.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/toy_case_history.csv)
       - [`⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)
       - [`🐕🦴_dog_with_bone_principle.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🐕🦴_dog_with_bone_principle.md)
@@ -1055,7 +1056,6 @@ _Generated on 2025-10-06 08:46:10 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`protocol_flow_new_insert_handling.png`](Polaris_Nest/Git_Intake_Drawer/protocol_flow_new_insert_handling.png)
     - [`removed_content_timeline_redacted.png`](Polaris_Nest/Git_Intake_Drawer/removed_content_timeline_redacted.png)
     - [`requiresedits_darvo_vs_prevent.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_darvo_vs_prevent.png)
     - [`requiresedits_defacto_uk_hsip.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_defacto_uk_hsip.png)
