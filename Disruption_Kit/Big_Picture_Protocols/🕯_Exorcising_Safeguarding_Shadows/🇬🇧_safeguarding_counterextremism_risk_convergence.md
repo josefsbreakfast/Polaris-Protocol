@@ -1,5 +1,5 @@
 # 🇬🇧 Safeguarding–Counterextremism Risk Convergence  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-28   
+**First created:** 2025-09-01 | **Last updated:** 2025-10-06   
 *Forensic analysis of UK governance structures where safeguarding and counterextremism data are clustered, heightening risk of exploitation by powerful perpetrators*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🗂️ Classification Header  
 
 - **Domain:** Governance / Data Architecture / Forensic Risk  
-- **Threat Index:** Critical (dual-use exploitation of survivor + security datasets)  https://github.com/josefsbreakfast/Polaris-Protocol/edit/main/Polaris_Nest/Git_Intake_Drawer/%F0%9F%87%AC%F0%9F%87%A7_safeguarding_counterextremism_risk_convergence.md
+- **Threat Index:** Critical (dual-use exploitation of survivor + security datasets)  
 - **Status:** Active — ongoing monitoring  
 
 ---
@@ -69,4 +69,4 @@ It documents systemic UK governance practices that heighten predation risk by co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-06_  
