@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 18:34:06 UTC_
+_Generated on 2025-10-06 18:35:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -730,6 +730,7 @@ _Generated on 2025-10-06 18:34:06 UTC_
     - [`🚩_400_pension_risks.md`](Disruption_Kit/Field_Logs/🚩_400_pension_risks.md)
     - [`🚩_tldr_i_want_out_now.md`](Disruption_Kit/Field_Logs/🚩_tldr_i_want_out_now.md)
     - [`🛡️_clearance_impact.md`](Disruption_Kit/Field_Logs/🛡️_clearance_impact.md)
+    - [`🛰_dual_use_failure_to_execute.md`](Disruption_Kit/Field_Logs/🛰_dual_use_failure_to_execute.md)
     - [`🛰_having_fun_with_node_exe.md`](Disruption_Kit/Field_Logs/🛰_having_fun_with_node_exe.md)
     - [`🛰_instructions_what_instuctions.md`](Disruption_Kit/Field_Logs/🛰_instructions_what_instuctions.md)
     - [`🛰️_2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_fieldnote_suppression_signal.md)
