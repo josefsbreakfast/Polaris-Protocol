@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:35:04 UTC_
+_Generated on 2025-10-06 11:50:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -296,6 +296,8 @@ _Generated on 2025-10-06 10:35:04 UTC_
       - [`🧬_twinning_detection.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinning_detection.md)
       - [`🪞_twinned_silence.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinned_silence.md)
       - [`🪞_twinning_fork_containment_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinning_fork_containment_timeline.md)
+    - [**🐦‍🔥_Trauma_Psycology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/)
+      - [`🧬_digital_twins_as_cause_of_shattered_irl_persona.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧬_digital_twins_as_cause_of_shattered_irl_persona.md)
     - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
       - [`data_misuse_continuum_flowchart_detailed.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/data_misuse_continuum_flowchart_detailed.png)
@@ -1185,7 +1187,6 @@ _Generated on 2025-10-06 10:35:04 UTC_
     - [`🧫_black_mould_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧫_black_mould_principle.md)
     - [`🧫_is_this_your_drug_allergy.md`](Polaris_Nest/Git_Intake_Drawer/🧫_is_this_your_drug_allergy.md)
     - [`🧬_NHS_token_switching_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_NHS_token_switching_integrity.md)
-    - [`🧬_digital_twins_as_cause_of_shattered_irl_persona.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_twins_as_cause_of_shattered_irl_persona.md)
     - [`🧬_mrna_but_make_it_auditing_the_men.md`](Polaris_Nest/Git_Intake_Drawer/🧬_mrna_but_make_it_auditing_the_men.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
