@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:41:42 UTC_
+_Generated on 2025-10-06 09:43:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -512,6 +512,7 @@ _Generated on 2025-10-06 09:41:42 UTC_
       - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
       - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
+      - [`🕸️_tenant_countermoves_in_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🕸️_tenant_countermoves_in_covert_surveillance_abuse.md)
       - [`🛫_frequent_flyers_club.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🛫_frequent_flyers_club.md)
       - [`🛰️_overlapping_surveillance_layers.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🛰️_overlapping_surveillance_layers.md)
       - [`🧠_why_are_we_threatened_by_complexity.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🧠_why_are_we_threatened_by_complexity.md)
@@ -1129,7 +1130,6 @@ _Generated on 2025-10-06 09:41:42 UTC_
     - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Polaris_Nest/Git_Intake_Drawer/🕌_ornamental_survival_and_misfiled_survivals.md)
     - [`🕎_rising_kahanist_violence_risk.md`](Polaris_Nest/Git_Intake_Drawer/🕎_rising_kahanist_violence_risk.md)
     - [`🕯_unfortunate_history_of_predators_in_organised_groups.md`](Polaris_Nest/Git_Intake_Drawer/🕯_unfortunate_history_of_predators_in_organised_groups.md)
-    - [`🕸️_tenant_countermoves_in_covert_surveillance_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_tenant_countermoves_in_covert_surveillance_abuse.md)
     - [`🖍_weirdest_yom_kippur.md`](Polaris_Nest/Git_Intake_Drawer/🖍_weirdest_yom_kippur.md)
     - [`🗂️_signature_silence_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_signature_silence_drift.md)
     - [`😴_sleeps_and_occam.md`](Polaris_Nest/Git_Intake_Drawer/😴_sleeps_and_occam.md)
