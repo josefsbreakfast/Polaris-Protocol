@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 11:52:36 UTC_
+_Generated on 2025-10-06 12:10:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1203,6 +1203,7 @@ _Generated on 2025-10-06 11:52:36 UTC_
     - [`🩺_oh_the_irony_tho.md`](Polaris_Nest/Git_Intake_Drawer/🩺_oh_the_irony_tho.md)
     - [`🪞_boring_mechanisms_sensational_harms.md`](Polaris_Nest/Git_Intake_Drawer/🪞_boring_mechanisms_sensational_harms.md)
     - [`🪮_on_hair_and_memory.md`](Polaris_Nest/Git_Intake_Drawer/🪮_on_hair_and_memory.md)
+    - [`🪷_being_soft_does_take_pretty_big_balls_actually.md`](Polaris_Nest/Git_Intake_Drawer/🪷_being_soft_does_take_pretty_big_balls_actually.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Polaris_Nest/Git_Intake_Drawer/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
     - [`🫀_yes_stem_needs_humanities.md`](Polaris_Nest/Git_Intake_Drawer/🫀_yes_stem_needs_humanities.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
