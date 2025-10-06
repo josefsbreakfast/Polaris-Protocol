@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 23:43:15 UTC_
+_Generated on 2025-10-06 23:43:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -82,6 +82,7 @@ _Generated on 2025-10-06 23:43:15 UTC_
       - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_slapps_uk_global_palestine.md)
       - [`⚖️_small_bureaucrats_catch22.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_small_bureaucrats_catch22.md)
       - [`⚖️_soft_law_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_soft_law_governance.md)
+      - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)
       - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_transparency_floor_node.md)
       - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_uk_constitutional_fault_lines.md)
       - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_wrong_people_in_power.md)
