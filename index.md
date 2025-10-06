@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:02:10 UTC_
+_Generated on 2025-10-06 10:02:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -737,6 +737,7 @@ _Generated on 2025-10-06 10:02:10 UTC_
     - [`🛰️_intentionality_assessment_data_twinning_cluster_2016.md`](Disruption_Kit/Field_Logs/🛰️_intentionality_assessment_data_twinning_cluster_2016.md)
     - [`🛰️_interference_and_throttling_context_2025-09-22.md`](Disruption_Kit/Field_Logs/🛰️_interference_and_throttling_context_2025-09-22.md)
     - [`🛰️_intimacy_gatekeeping_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_intimacy_gatekeeping_field_log_2025-09-26.md)
+    - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
     - [`🛰️_isolation_scripting_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_isolation_scripting_field_log_2025-09-13.md)
     - [`🛰️_late_stage_signoff_map_triple_lock_continuation.md`](Disruption_Kit/Field_Logs/🛰️_late_stage_signoff_map_triple_lock_continuation.md)
     - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
@@ -1151,7 +1152,6 @@ _Generated on 2025-10-06 10:02:10 UTC_
     - [`🛰️_erasure_of_erasure.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_erasure_of_erasure.md)
     - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
     - [`🛰️_forked_code_ghost_voice_API_risks.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forked_code_ghost_voice_API_risks.md)
-    - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
     - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_lagging_around_preemptive_counterterror_papers.md)
     - [`🛰️_missing_new_number_texts.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_new_number_texts.md)
     - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
