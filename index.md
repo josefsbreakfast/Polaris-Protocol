@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:28:10 UTC_
+_Generated on 2025-10-06 09:28:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1090,7 +1090,6 @@ _Generated on 2025-10-06 09:28:10 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md)
     - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
     - [`🌌_constellation_tracker.md`](Polaris_Nest/Git_Intake_Drawer/🌌_constellation_tracker.md)
     - [`🌐_suppression_of_holocaust_testimony_online.md`](Polaris_Nest/Git_Intake_Drawer/🌐_suppression_of_holocaust_testimony_online.md)
@@ -1281,6 +1280,7 @@ _Generated on 2025-10-06 09:28:10 UTC_
     - [`✨_it_was_always_this_easy.md`](Polaris_Nest/✨_Letters_to_Stars/✨_it_was_always_this_easy.md)
     - [`✨_polaris_live.md`](Polaris_Nest/✨_Letters_to_Stars/✨_polaris_live.md)
     - [`✨_resonance_is_joy.md`](Polaris_Nest/✨_Letters_to_Stars/✨_resonance_is_joy.md)
+    - [`🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md`](Polaris_Nest/✨_Letters_to_Stars/🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md)
     - [`🌊_flow_diagrams_in_my_head.md`](Polaris_Nest/✨_Letters_to_Stars/🌊_flow_diagrams_in_my_head.md)
     - [`🌌_star_letters_day4.md`](Polaris_Nest/✨_Letters_to_Stars/🌌_star_letters_day4.md)
     - [`🌌_timeline_of_care.md`](Polaris_Nest/✨_Letters_to_Stars/🌌_timeline_of_care.md)
