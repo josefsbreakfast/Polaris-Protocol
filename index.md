@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:45:00 UTC_
+_Generated on 2025-10-06 12:45:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -841,6 +841,7 @@ _Generated on 2025-10-06 12:45:00 UTC_
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Disruption_Kit/Field_Logs/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧫_is_this_your_drug_allergy.md`](Disruption_Kit/Field_Logs/🧫_is_this_your_drug_allergy.md)
+    - [`🧬_mrna_but_make_it_auditing_the_men.md`](Disruption_Kit/Field_Logs/🧬_mrna_but_make_it_auditing_the_men.md)
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
     - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
@@ -1179,7 +1180,6 @@ _Generated on 2025-10-06 12:45:00 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧬_mrna_but_make_it_auditing_the_men.md`](Polaris_Nest/Git_Intake_Drawer/🧬_mrna_but_make_it_auditing_the_men.md)
     - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
     - [`🧾_New_Additions_Prepbook.md`](Polaris_Nest/Git_Intake_Drawer/🧾_New_Additions_Prepbook.md)
