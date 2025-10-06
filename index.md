@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 19:27:29 UTC_
+_Generated on 2025-10-06 19:28:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -358,7 +358,7 @@ _Generated on 2025-10-06 19:27:29 UTC_
       - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🗝️_data_standards_fragmentation.md)
     - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/README.md)
-      - [`⚔️ War_on_Woke_as_Containment_Architecture.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/⚔️ War_on_Woke_as_Containment_Architecture.md)
+      - [`⚔️_war_on_woke_as_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
       - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
       - [`💸_donor_networks_alt_right_media_overlap.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/💸_donor_networks_alt_right_media_overlap.md)
       - [`💼_lobbying_stakeholder_notes.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/💼_lobbying_stakeholder_notes.md)
