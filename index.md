@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 23:43:49 UTC_
+_Generated on 2025-10-06 23:44:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -569,6 +569,7 @@ _Generated on 2025-10-06 23:43:49 UTC_
     - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md)
       - [`🌐_suppression_of_holocaust_testimony_online.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
+      - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
     - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/)
       - [**🌹_Demonstrating_High_Value/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md)
