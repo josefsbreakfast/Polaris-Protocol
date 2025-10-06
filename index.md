@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:23:33 UTC_
+_Generated on 2025-10-06 08:24:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1040,7 +1040,6 @@ _Generated on 2025-10-06 08:23:33 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`layer_dominance_containment_posture.png`](Polaris_Nest/Git_Intake_Drawer/layer_dominance_containment_posture.png)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
     - [`metadata_shame_overlay.png`](Polaris_Nest/Git_Intake_Drawer/metadata_shame_overlay.png)
@@ -1239,6 +1238,7 @@ _Generated on 2025-10-06 08:23:33 UTC_
     - [`forkscan_seperating_human_actors.png`](Polaris_Nest/SCP-VoiceX_Casefiles/forkscan_seperating_human_actors.png)
     - [`human_vs_system_interventions_aug.png`](Polaris_Nest/SCP-VoiceX_Casefiles/human_vs_system_interventions_aug.png)
     - [`interference_types_logged_contacts.png`](Polaris_Nest/SCP-VoiceX_Casefiles/interference_types_logged_contacts.png)
+    - [`layer_dominance_containment_posture.png`](Polaris_Nest/SCP-VoiceX_Casefiles/layer_dominance_containment_posture.png)
     - [`⚖️_cease_desist_2025-08-27.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
     - [`⚖️_hooked_authoritarian_hooks_long_file.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_hooked_authoritarian_hooks_long_file.md)
     - [`⚖️_judge_frankness_marker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md)
