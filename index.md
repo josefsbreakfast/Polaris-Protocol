@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:30:31 UTC_
+_Generated on 2025-10-06 10:31:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -569,6 +569,7 @@ _Generated on 2025-10-06 10:30:31 UTC_
       - [`🛜_transnational_networks.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🛜_transnational_networks.md)
       - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
       - [`🦁_individualism_as_containment_edge.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🦁_individualism_as_containment_edge.md)
+      - [`🦠_opportunistic_disinformation_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🦠_opportunistic_disinformation_pathogen.md)
       - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
       - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
       - [`🧠_utilisation_of_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)
@@ -1170,7 +1171,6 @@ _Generated on 2025-10-06 10:30:31 UTC_
     - [`🥸_how_dare_ahe_have_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥸_how_dare_ahe_have_feelings.md)
     - [`🥸_tos_noncompliance_as_stealthing.md`](Polaris_Nest/Git_Intake_Drawer/🥸_tos_noncompliance_as_stealthing.md)
     - [`🥸_two_men_one_park.md`](Polaris_Nest/Git_Intake_Drawer/🥸_two_men_one_park.md)
-    - [`🦠_opportunistic_disinformation_pathogen.md`](Polaris_Nest/Git_Intake_Drawer/🦠_opportunistic_disinformation_pathogen.md)
     - [`🦤_expectations_remain.md`](Polaris_Nest/Git_Intake_Drawer/🦤_expectations_remain.md)
     - [`🦩_no_cidt_no_glow_up.md`](Polaris_Nest/Git_Intake_Drawer/🦩_no_cidt_no_glow_up.md)
     - [`🦾_dual_uses_that_never_come.md`](Polaris_Nest/Git_Intake_Drawer/🦾_dual_uses_that_never_come.md)
