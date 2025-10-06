@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:46:32 UTC_
+_Generated on 2025-10-06 12:47:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,6 +18,7 @@ _Generated on 2025-10-06 12:46:32 UTC_
     - [`🔮_visibility_is_a_right_clause.md`](Disruption_Kit/AntiContainment_Clauses/🔮_visibility_is_a_right_clause.md)
     - [`🕸_metadata_defense.md`](Disruption_Kit/AntiContainment_Clauses/🕸_metadata_defense.md)
     - [`🛰️_digital_counter_containment_clause.md`](Disruption_Kit/AntiContainment_Clauses/🛰️_digital_counter_containment_clause.md)
+    - [`🧾_New_Additions_Prepbook.md`](Disruption_Kit/AntiContainment_Clauses/🧾_New_Additions_Prepbook.md)
     - [`🪅_ranking_is_not_neutral_clause.md`](Disruption_Kit/AntiContainment_Clauses/🪅_ranking_is_not_neutral_clause.md)
     - [`🪓_mean_voice_evidence_voice.md`](Disruption_Kit/AntiContainment_Clauses/🪓_mean_voice_evidence_voice.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
@@ -1182,7 +1183,6 @@ _Generated on 2025-10-06 12:46:32 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧾_New_Additions_Prepbook.md`](Polaris_Nest/Git_Intake_Drawer/🧾_New_Additions_Prepbook.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
     - [`🧾_mass_arrest_symbolic_processing_costs.md`](Polaris_Nest/Git_Intake_Drawer/🧾_mass_arrest_symbolic_processing_costs.md)
