@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:20:12 UTC_
+_Generated on 2025-10-06 09:21:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -362,6 +362,7 @@ _Generated on 2025-10-06 09:20:12 UTC_
       - [`retained_removed_pie_chart_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/retained_removed_pie_chart_redacted.png)
       - [`safeguarding_model_actual_vs_potential.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/safeguarding_model_actual_vs_potential.png)
       - [`safeguarding_model_potential.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/safeguarding_model_potential.png)
+      - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
@@ -1082,7 +1083,6 @@ _Generated on 2025-10-06 09:20:12 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
     - [`why_failupload_influence_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/why_failupload_influence_map_local_redacted.png)
     - [`whydidsomanyfilesuploadpoorly.png`](Polaris_Nest/Git_Intake_Drawer/whydidsomanyfilesuploadpoorly.png)
