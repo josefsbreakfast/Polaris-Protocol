@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:38:25 UTC_
+_Generated on 2025-10-06 09:38:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -660,6 +660,7 @@ _Generated on 2025-10-06 09:38:25 UTC_
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
     - [`📝_hollow_node_export_glitch_2025-09-17.md`](Disruption_Kit/Field_Logs/📝_hollow_node_export_glitch_2025-09-17.md)
     - [`🔗_event_linkage_false_proof_pattern.md`](Disruption_Kit/Field_Logs/🔗_event_linkage_false_proof_pattern.md)
+    - [`🔥_data_mafia_debrief.md`](Disruption_Kit/Field_Logs/🔥_data_mafia_debrief.md)
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Disruption_Kit/Field_Logs/🗒️_being_cross_at_gung_ho_nudge.md)
     - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/🗒️_conversation_drift_and_anchors.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
@@ -1126,7 +1127,6 @@ _Generated on 2025-10-06 09:38:25 UTC_
     - [`📚_bookworm_bitches_unite.md`](Polaris_Nest/Git_Intake_Drawer/📚_bookworm_bitches_unite.md)
     - [`📛_goyish_polizei.md`](Polaris_Nest/Git_Intake_Drawer/📛_goyish_polizei.md)
     - [`📲_so_is_it_pegasus_or_not.md`](Polaris_Nest/Git_Intake_Drawer/📲_so_is_it_pegasus_or_not.md)
-    - [`🔥_data_mafia_debrief.md`](Polaris_Nest/Git_Intake_Drawer/🔥_data_mafia_debrief.md)
     - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Polaris_Nest/Git_Intake_Drawer/🕌_ornamental_survival_and_misfiled_survivals.md)
     - [`🕎_rising_kahanist_violence_risk.md`](Polaris_Nest/Git_Intake_Drawer/🕎_rising_kahanist_violence_risk.md)
     - [`🕯_unfortunate_history_of_predators_in_organised_groups.md`](Polaris_Nest/Git_Intake_Drawer/🕯_unfortunate_history_of_predators_in_organised_groups.md)
