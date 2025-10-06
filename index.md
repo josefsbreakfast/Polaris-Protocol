@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:23:07 UTC_
+_Generated on 2025-10-06 08:23:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -379,6 +379,7 @@ _Generated on 2025-10-06 08:23:07 UTC_
       - [`dual_use_tech_procurement_theorised.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/dual_use_tech_procurement_theorised.png)
       - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/jewish_experience_diaspora_matrix_middleman_minorities.png)
       - [`jewish_intersections_global.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/jewish_intersections_global.png)
+      - [`jewish_intersections_global_visual.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/jewish_intersections_global_visual.png)
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
       - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
       - [`⚖️_selective_memory_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_selective_memory_erasure.md)
@@ -1039,7 +1040,6 @@ _Generated on 2025-10-06 08:23:07 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`jewish_intersections_global_visual.png`](Polaris_Nest/Git_Intake_Drawer/jewish_intersections_global_visual.png)
     - [`layer_dominance_containment_posture.png`](Polaris_Nest/Git_Intake_Drawer/layer_dominance_containment_posture.png)
     - [`manchester_node_crossmap.png`](Polaris_Nest/Git_Intake_Drawer/manchester_node_crossmap.png)
     - [`medical_ethics_prevent_contamination.png`](Polaris_Nest/Git_Intake_Drawer/medical_ethics_prevent_contamination.png)
