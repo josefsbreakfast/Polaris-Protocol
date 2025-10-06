@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:42:39 UTC_
+_Generated on 2025-10-06 12:43:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -396,6 +396,7 @@ _Generated on 2025-10-06 12:42:39 UTC_
       - [`🧨_real_vs_fake_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧨_real_vs_fake_duty_of_care.md)
       - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧪_did_unis_really_address_rape_epidemic_tho.md)
       - [`🧫_black_mould_audit_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧫_black_mould_audit_checklist.md)
+      - [`🧫_black_mould_principle.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧫_black_mould_principle.md)
       - [`🧬_report_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning.md)
       - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
       - [`🧬_shadow_audit_trails.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_audit_trails.md)
@@ -1176,7 +1177,6 @@ _Generated on 2025-10-06 12:42:39 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧫_black_mould_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧫_black_mould_principle.md)
     - [`🧫_is_this_your_drug_allergy.md`](Polaris_Nest/Git_Intake_Drawer/🧫_is_this_your_drug_allergy.md)
     - [`🧬_NHS_token_switching_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_NHS_token_switching_integrity.md)
     - [`🧬_mrna_but_make_it_auditing_the_men.md`](Polaris_Nest/Git_Intake_Drawer/🧬_mrna_but_make_it_auditing_the_men.md)
