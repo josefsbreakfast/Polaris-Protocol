@@ -280,8 +280,8 @@ Survivors have lived long enough to see lines crossed in silence.
 - *MI5, MI6, and GCHQ: Who’s Who?* (UK Parliament Commons Library, 2020)  
 - *The Shadow State* (BBC Radio 4) — boundary breaches in intelligence work  
 - *Lawfare Podcast: Oversight in the UK* — statutory limits and blurring tactics  
-- *The Bureau of Investigative Journalism* — coverage of the Investigatory Powers Act and data regimes
-- 
+- *The Bureau of Investigative Journalism* — coverage of the Investigatory Powers Act and data regimes  
+
 [✨ Back to Top](#top)  
 
 ---
