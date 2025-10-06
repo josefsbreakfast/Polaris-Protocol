@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:06:45 UTC_
+_Generated on 2025-10-06 10:07:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -122,6 +122,7 @@ _Generated on 2025-10-06 10:06:45 UTC_
       - [`🛰️_situational_awareness.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_situational_awareness.md)
       - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_surveillance_infrastructure.md)
       - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_vendor_lock_in.md)
+      - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦤_bird_law_uk_edition.md)
       - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦯_algorithmic_delay_and_pacing.md)
       - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)
       - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_didnt_apply_brain_loop.md)
@@ -1169,7 +1170,6 @@ _Generated on 2025-10-06 10:06:45 UTC_
     - [`🥸_tos_noncompliance_as_stealthing.md`](Polaris_Nest/Git_Intake_Drawer/🥸_tos_noncompliance_as_stealthing.md)
     - [`🥸_two_men_one_park.md`](Polaris_Nest/Git_Intake_Drawer/🥸_two_men_one_park.md)
     - [`🦠_opportunistic_disinformation_pathogen.md`](Polaris_Nest/Git_Intake_Drawer/🦠_opportunistic_disinformation_pathogen.md)
-    - [`🦤_bird_law_uk_edition.md`](Polaris_Nest/Git_Intake_Drawer/🦤_bird_law_uk_edition.md)
     - [`🦤_expectations_remain.md`](Polaris_Nest/Git_Intake_Drawer/🦤_expectations_remain.md)
     - [`🦩_no_cidt_no_glow_up.md`](Polaris_Nest/Git_Intake_Drawer/🦩_no_cidt_no_glow_up.md)
     - [`🦾_dual_uses_that_never_come.md`](Polaris_Nest/Git_Intake_Drawer/🦾_dual_uses_that_never_come.md)
