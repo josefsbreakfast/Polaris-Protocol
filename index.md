@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:25:04 UTC_
+_Generated on 2025-10-06 09:26:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -389,6 +389,7 @@ _Generated on 2025-10-06 09:25:04 UTC_
       - [`global_crown_stakeholders.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/global_crown_stakeholders.png)
       - [`global_crown_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/global_crown_timeline.png)
       - [`israel_eurozone_financial_watchlist.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/israel_eurozone_financial_watchlist.png)
+      - [`☄️_ww3_started_years_ago.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/☄️_ww3_started_years_ago.md)
       - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/⚖️_surveillance_osa_citizen_forking_meganode.md)
       - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
       - [`🌏_brics_bridgework_middle_corridors.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🌏_brics_bridgework_middle_corridors.md)
@@ -1086,7 +1087,6 @@ _Generated on 2025-10-06 09:25:04 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`☄️_ww3_started_years_ago.md`](Polaris_Nest/Git_Intake_Drawer/☄️_ww3_started_years_ago.md)
     - [`☕️_something_has_changed.md`](Polaris_Nest/Git_Intake_Drawer/☕️_something_has_changed.md)
     - [`⚖️_navigating_elder_spaces_for_transparency.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_navigating_elder_spaces_for_transparency.md)
     - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_sanhedrin_rulings_on_trafficking.md)
