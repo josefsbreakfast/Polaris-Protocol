@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 18:17:14 UTC_
+_Generated on 2025-10-06 18:18:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -763,6 +763,7 @@ _Generated on 2025-10-06 18:17:14 UTC_
     - [`🛰️_entrapment_by_protection_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_entrapment_by_protection_2025-09-27.md)
     - [`🛰️_erasure_of_erasure.md`](Disruption_Kit/Field_Logs/🛰️_erasure_of_erasure.md)
     - [`🛰️_exhaustion_as_containment_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_exhaustion_as_containment_field_log_2025-09-13.md)
+    - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Disruption_Kit/Field_Logs/🛰️_field_log_node_generation_stalling_2025-10-06.md)
     - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Disruption_Kit/Field_Logs/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
     - [`🛰️_fls_hard_today_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_fls_hard_today_2025-09-16.md)
     - [`🛰️_foi_sar_silence_reliance.md`](Disruption_Kit/Field_Logs/🛰️_foi_sar_silence_reliance.md)
@@ -1216,7 +1217,6 @@ _Generated on 2025-10-06 18:17:14 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_node_generation_stalling_2025-10-06.md)
     - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
     - [`🪣_hidden_data_loop_audit.md`](Polaris_Nest/Git_Intake_Drawer/🪣_hidden_data_loop_audit.md)
     - [`🫁_oxygen_and_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🫁_oxygen_and_oversight.md)
