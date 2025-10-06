@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:50:18 UTC_
+_Generated on 2025-10-06 08:51:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -474,6 +474,7 @@ _Generated on 2025-10-06 08:50:18 UTC_
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
     - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md)
+      - [`handover_theatre.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/handover_theatre.png)
       - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
       - [`manchester_node_crossmap.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/manchester_node_crossmap.png)
       - [`peri_nda_middle_layer.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/peri_nda_middle_layer.png)
@@ -1060,7 +1061,6 @@ _Generated on 2025-10-06 08:50:18 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`requiresedits_handover_theatre.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_handover_theatre.png)
     - [`requiresedits_operator_overlap.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_operator_overlap.png)
     - [`requiresedits_operator_overlap2.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_operator_overlap2.png)
     - [`requiresedits_stakeholders_central_tier_aug.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_stakeholders_central_tier_aug.png)
