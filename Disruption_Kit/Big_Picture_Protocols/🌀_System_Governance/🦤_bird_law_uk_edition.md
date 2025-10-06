@@ -28,8 +28,8 @@ What results is a strange territory of “bird law” where the legal map does n
 It examines the contradictions in legal frameworks around animal husbandry, and how these expose gaps in harm reduction and welfare logics.  
 
 > 📡 Cross-references:  
-> - [🛟 Harm Reduction at Borders](../Disruption_Kit/Big_Picture_Protocols/🛟_harm_reduction_at_borders.md) — on misaligned logics of protection  
-> - [⚖️ Containment Contract Trace](../Disruption_Kit/Big_Picture_Protocols/⚖️_containment_contract_trace.md) — on enforcement structures and historical quirks  
+> - [🛟 Harm Reduction at Borders](../🛟_harm_reduction_at_borders.md) — on misaligned logics of protection  
+> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — on enforcement structures and historical quirks  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
