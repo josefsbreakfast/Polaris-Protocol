@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 23:44:26 UTC_
+_Generated on 2025-10-06 23:59:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -145,6 +145,7 @@ _Generated on 2025-10-06 23:44:26 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
       - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
+      - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
       - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_intuition_as_skill.md)
       - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
       - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🪞_on_human_impulse.md)
