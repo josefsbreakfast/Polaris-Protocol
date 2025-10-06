@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:33:12 UTC_
+_Generated on 2025-10-06 08:34:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -266,6 +266,7 @@ _Generated on 2025-10-06 08:33:12 UTC_
       - [`battleplan_metadata_twinning_convergence_containment.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/battleplan_metadata_twinning_convergence_containment.png)
       - [`metadata_twinning_divergence_convergence_amplification.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/metadata_twinning_divergence_convergence_amplification.png)
       - [`ouroboros_ihra_overreach.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ouroboros_ihra_overreach.png)
+      - [`overlaid_nda_mesh_local.jpeg`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/overlaid_nda_mesh_local.jpeg)
       - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎙️_why_they_collect_audio.md)
       - [`🎻_clash_of_forks.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎻_clash_of_forks.md)
       - [`🐍_snake_bites_and_stolen_voices.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
@@ -1045,7 +1046,6 @@ _Generated on 2025-10-06 08:33:12 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`overlaid_nda_mesh_local.jpeg`](Polaris_Nest/Git_Intake_Drawer/overlaid_nda_mesh_local.jpeg)
     - [`palantir_cycle_diagram_branded.png`](Polaris_Nest/Git_Intake_Drawer/palantir_cycle_diagram_branded.png)
     - [`panic_deleting_evidence.png`](Polaris_Nest/Git_Intake_Drawer/panic_deleting_evidence.png)
     - [`peri_nda_middle_layer.png`](Polaris_Nest/Git_Intake_Drawer/peri_nda_middle_layer.png)
