@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:01:11 UTC_
+_Generated on 2025-10-06 08:01:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -57,6 +57,7 @@ _Generated on 2025-10-06 08:01:11 UTC_
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/bottleneck_mapping_log_template.csv)
+      - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/constitutional_fault_lines.png)
       - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_authorisation_and_oversight.md)
       - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_compliance_as_opacity.md)
       - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)
@@ -1024,7 +1025,6 @@ _Generated on 2025-10-06 08:01:11 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`constitutional_fault_lines.png`](Polaris_Nest/Git_Intake_Drawer/constitutional_fault_lines.png)
     - [`containment_severity_time.png`](Polaris_Nest/Git_Intake_Drawer/containment_severity_time.png)
     - [`data_misuse_continuum_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart.png)
     - [`data_misuse_continuum_flowchart_detailed.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_flowchart_detailed.png)
