@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:40:09 UTC_
+_Generated on 2025-10-06 09:40:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -657,6 +657,7 @@ _Generated on 2025-10-06 09:40:09 UTC_
     - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`👁️‍🗨️_i_am_aware_stop_doing_it.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_i_am_aware_stop_doing_it.md)
     - [`👾_legal_notariety.md`](Disruption_Kit/Field_Logs/👾_legal_notariety.md)
+    - [`👾_pensions_and_perverts.md`](Disruption_Kit/Field_Logs/👾_pensions_and_perverts.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
     - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
@@ -1115,7 +1116,6 @@ _Generated on 2025-10-06 09:40:09 UTC_
     - [`🎽_think_tanks_surveillance_and_conferencing.md`](Polaris_Nest/Git_Intake_Drawer/🎽_think_tanks_surveillance_and_conferencing.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`🐒_monkey_work.md`](Polaris_Nest/Git_Intake_Drawer/🐒_monkey_work.md)
-    - [`👾_pensions_and_perverts.md`](Polaris_Nest/Git_Intake_Drawer/👾_pensions_and_perverts.md)
     - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Polaris_Nest/Git_Intake_Drawer/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/Git_Intake_Drawer/💌_for_family_reassurance.md)
     - [`💌_letters_to_myself.md`](Polaris_Nest/Git_Intake_Drawer/💌_letters_to_myself.md)
