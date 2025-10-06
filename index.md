@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:46:04 UTC_
+_Generated on 2025-10-06 12:46:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -650,6 +650,7 @@ _Generated on 2025-10-06 12:46:04 UTC_
       - [`🧨_reach_metrics_are_not_neutral.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_reach_metrics_are_not_neutral.md)
       - [`🧨_resilience_as_suppression_rhetoric.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_resilience_as_suppression_rhetoric.md)
       - [`🧨_triple_lock_suppression_hypothesis.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_triple_lock_suppression_hypothesis.md)
+      - [`🧭_diversion_hypothesis.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧭_diversion_hypothesis.md)
       - [`🧭_resilience_as_suppression_rhetoric.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🧭_resilience_as_suppression_rhetoric.png)
       - [`🪞_engineered_disjuncture_of_allies.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🪞_engineered_disjuncture_of_allies.md)
       - [`🫀_pathologising_sensitivity_as_containment.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)
@@ -1181,7 +1182,6 @@ _Generated on 2025-10-06 12:46:04 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
     - [`🧾_New_Additions_Prepbook.md`](Polaris_Nest/Git_Intake_Drawer/🧾_New_Additions_Prepbook.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
     - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
