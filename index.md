@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:39:28 UTC_
+_Generated on 2025-10-06 12:39:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -832,6 +832,7 @@ _Generated on 2025-10-06 12:39:28 UTC_
     - [`🥸_two_men_one_park.md`](Disruption_Kit/Field_Logs/🥸_two_men_one_park.md)
     - [`🦤_expectations_remain.md`](Disruption_Kit/Field_Logs/🦤_expectations_remain.md)
     - [`🦩_no_cidt_no_glow_up.md`](Disruption_Kit/Field_Logs/🦩_no_cidt_no_glow_up.md)
+    - [`🧃_thinking_about_restoring_that_essay.md`](Disruption_Kit/Field_Logs/🧃_thinking_about_restoring_that_essay.md)
     - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🧠_hybrid_motive_hypothesis_2025-09-20.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
@@ -1172,7 +1173,6 @@ _Generated on 2025-10-06 12:39:28 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧃_thinking_about_restoring_that_essay.md`](Polaris_Nest/Git_Intake_Drawer/🧃_thinking_about_restoring_that_essay.md)
     - [`🧥_empires_old_clothes.md`](Polaris_Nest/Git_Intake_Drawer/🧥_empires_old_clothes.md)
     - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Polaris_Nest/Git_Intake_Drawer/🧪_did_unis_really_address_rape_epidemic_tho.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
