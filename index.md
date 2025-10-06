@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:42:32 UTC_
+_Generated on 2025-10-06 08:45:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -477,6 +477,7 @@ _Generated on 2025-10-06 08:42:32 UTC_
       - [`peri_nda_middle_layer_impacts.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/peri_nda_middle_layer_impacts.png)
       - [`peri_nda_theorised_middle_multiple_safeguarding.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/peri_nda_theorised_middle_multiple_safeguarding.png)
       - [`polaris_signal_map.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/polaris_signal_map.png)
+      - [`pressure_map_local_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/pressure_map_local_redacted.png)
       - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
       - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
@@ -1054,7 +1055,6 @@ _Generated on 2025-10-06 08:42:32 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`pressure_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/pressure_map_local_redacted.png)
     - [`probe_response_probability_mapping.png`](Polaris_Nest/Git_Intake_Drawer/probe_response_probability_mapping.png)
     - [`protocol_flow_new_insert_handling.png`](Polaris_Nest/Git_Intake_Drawer/protocol_flow_new_insert_handling.png)
     - [`removed_content_timeline_redacted.png`](Polaris_Nest/Git_Intake_Drawer/removed_content_timeline_redacted.png)
