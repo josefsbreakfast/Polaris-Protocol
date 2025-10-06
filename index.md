@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:50:17 UTC_
+_Generated on 2025-10-06 09:51:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -682,6 +682,7 @@ _Generated on 2025-10-06 09:50:17 UTC_
     - [`🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)
     - [`🛰️_access_throttle_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_access_throttle_field_log_2025-09-29.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/🛰️_ai_interference_vs_baseline_generation.md)
+    - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_algorithmic_foil_recycling_2025-10-03.md)
     - [`🛰️_all_it_took_2025-09-06.md`](Disruption_Kit/Field_Logs/🛰️_all_it_took_2025-09-06.md)
     - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
     - [`🛰️_apartheid_forking_internet_interference_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_apartheid_forking_internet_interference_2025-09-27.md)
@@ -1140,7 +1141,6 @@ _Generated on 2025-10-06 09:50:17 UTC_
     - [`🚩_400_pension_risks.md`](Polaris_Nest/Git_Intake_Drawer/🚩_400_pension_risks.md)
     - [`🚩_tldr_i_want_out_now.md`](Polaris_Nest/Git_Intake_Drawer/🚩_tldr_i_want_out_now.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
-    - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_algorithmic_foil_recycling_2025-10-03.md)
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
     - [`🛰️_changes_post_callouts.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_changes_post_callouts.md)
     - [`🛰️_chatgpt_lost_after_disability_politics.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_chatgpt_lost_after_disability_politics.md)
