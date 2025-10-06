@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:02:58 UTC_
+_Generated on 2025-10-06 10:03:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -717,6 +717,7 @@ _Generated on 2025-10-06 10:02:58 UTC_
     - [`🛰️_embedded_observers_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/🛰️_embedded_observers_field_log_2025-08-06.md)
     - [`🛰️_entrapment_by_protection_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_entrapment_by_protection_2025-09-27.md)
     - [`🛰️_exhaustion_as_containment_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_exhaustion_as_containment_field_log_2025-09-13.md)
+    - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Disruption_Kit/Field_Logs/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
     - [`🛰️_fls_hard_today_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_fls_hard_today_2025-09-16.md)
     - [`🛰️_foi_sar_silence_reliance.md`](Disruption_Kit/Field_Logs/🛰️_foi_sar_silence_reliance.md)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Disruption_Kit/Field_Logs/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
@@ -1150,7 +1151,6 @@ _Generated on 2025-10-06 10:02:58 UTC_
     - [`🛰️_chatgpt_lost_after_disability_politics.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_chatgpt_lost_after_disability_politics.md)
     - [`🛰️_dols_delays_significant_interference.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_dols_delays_significant_interference.md)
     - [`🛰️_erasure_of_erasure.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_erasure_of_erasure.md)
-    - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
     - [`🛰️_forked_code_ghost_voice_API_risks.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forked_code_ghost_voice_API_risks.md)
     - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_lagging_around_preemptive_counterterror_papers.md)
     - [`🛰️_missing_new_number_texts.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_new_number_texts.md)
