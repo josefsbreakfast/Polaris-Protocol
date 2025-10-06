@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:32:47 UTC_
+_Generated on 2025-10-06 09:33:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -242,6 +242,7 @@ _Generated on 2025-10-06 09:32:47 UTC_
       - [`🎶_dedication_absences_in_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_dedication_absences_in_books.md)
       - [`🎶_endorser_network_traces.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_endorser_network_traces.md)
       - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
+      - [`🎶_they_not_like_us.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_they_not_like_us.md)
       - [`🐉_chen_rui_trump_parody.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md)
       - [`📈_sales_suppression_vs_viral_spike.png`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📈_sales_suppression_vs_viral_spike.png)
       - [`📚_banned_book_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md)
@@ -1102,7 +1103,6 @@ _Generated on 2025-10-06 09:32:47 UTC_
     - [`🎶_hdz_lalgorithme_paroles.md`](Polaris_Nest/Git_Intake_Drawer/🎶_hdz_lalgorithme_paroles.md)
     - [`🎶_lalgorithme_as_containment_song.md`](Polaris_Nest/Git_Intake_Drawer/🎶_lalgorithme_as_containment_song.md)
     - [`🎶_taiz_lalgorithme_album_intake.md`](Polaris_Nest/Git_Intake_Drawer/🎶_taiz_lalgorithme_album_intake.md)
-    - [`🎶_they_not_like_us.md`](Polaris_Nest/Git_Intake_Drawer/🎶_they_not_like_us.md)
     - [`🎽_think_tanks_surveillance_and_conferencing.md`](Polaris_Nest/Git_Intake_Drawer/🎽_think_tanks_surveillance_and_conferencing.md)
     - [`🏛️_conservatorship_like_abuses_in_the_UK.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_conservatorship_like_abuses_in_the_UK.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
