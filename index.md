@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:29:30 UTC_
+_Generated on 2025-10-06 08:30:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1043,7 +1043,6 @@ _Generated on 2025-10-06 08:29:30 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`operational_destabilisation_social_anchors.png`](Polaris_Nest/Git_Intake_Drawer/operational_destabilisation_social_anchors.png)
     - [`original_vs_fork_vs_hostile.png`](Polaris_Nest/Git_Intake_Drawer/original_vs_fork_vs_hostile.png)
     - [`ouroboros_ihra_overreach.png`](Polaris_Nest/Git_Intake_Drawer/ouroboros_ihra_overreach.png)
     - [`overengineered_manipulation_direct_interaction.png`](Polaris_Nest/Git_Intake_Drawer/overengineered_manipulation_direct_interaction.png)
@@ -1239,6 +1238,7 @@ _Generated on 2025-10-06 08:29:30 UTC_
     - [`metadata_shame_overlay.png`](Polaris_Nest/SCP-VoiceX_Casefiles/metadata_shame_overlay.png)
     - [`middle_layer_active_vs_background.png`](Polaris_Nest/SCP-VoiceX_Casefiles/middle_layer_active_vs_background.png)
     - [`nda_signatory_mesh_local_redacted.jpeg`](Polaris_Nest/SCP-VoiceX_Casefiles/nda_signatory_mesh_local_redacted.jpeg)
+    - [`operational_destabilisation_social_anchors.png`](Polaris_Nest/SCP-VoiceX_Casefiles/operational_destabilisation_social_anchors.png)
     - [`⚖️_cease_desist_2025-08-27.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
     - [`⚖️_hooked_authoritarian_hooks_long_file.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_hooked_authoritarian_hooks_long_file.md)
     - [`⚖️_judge_frankness_marker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md)
