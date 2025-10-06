@@ -1,4 +1,4 @@
-# 🦾 Invest Appropriately — Folder Overview
+# 🌱 Invest Appropriately — Folder Overview
 **First created:** 2025-10-06 | **Last updated:** 2025-10-06  
 *Sub-cluster exploring the moral economy, philanthropy, and democratic capture by the charity regime.*
 
