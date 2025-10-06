@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:55:55 UTC_
+_Generated on 2025-10-06 12:56:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -854,6 +854,7 @@ _Generated on 2025-10-06 12:55:55 UTC_
     - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
     - [`🧿_why_do_you_tolerate_my_imprisonment.md`](Disruption_Kit/Field_Logs/🧿_why_do_you_tolerate_my_imprisonment.md)
     - [`🩰_petty_princesses_with_beards.md`](Disruption_Kit/Field_Logs/🩰_petty_princesses_with_beards.md)
+    - [`🩰_registering_my_daily_fuck_this.md`](Disruption_Kit/Field_Logs/🩰_registering_my_daily_fuck_this.md)
     - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
     - [`🪐_my_britannia.md`](Disruption_Kit/Field_Logs/🪐_my_britannia.md)
     - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
@@ -1197,7 +1198,6 @@ _Generated on 2025-10-06 12:55:55 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🩰_registering_my_daily_fuck_this.md`](Polaris_Nest/Git_Intake_Drawer/🩰_registering_my_daily_fuck_this.md)
     - [`🩸_there_have_been_many_outs_suggested.md`](Polaris_Nest/Git_Intake_Drawer/🩸_there_have_been_many_outs_suggested.md)
     - [`🩺_diagnosis_discredit_loop.md`](Polaris_Nest/Git_Intake_Drawer/🩺_diagnosis_discredit_loop.md)
     - [`🩺_oh_the_irony_tho.md`](Polaris_Nest/Git_Intake_Drawer/🩺_oh_the_irony_tho.md)
