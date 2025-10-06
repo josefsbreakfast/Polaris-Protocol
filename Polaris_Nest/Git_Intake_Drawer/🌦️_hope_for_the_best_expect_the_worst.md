@@ -40,6 +40,13 @@ Legacy, federated systems + opaque transformation layers + automated triage = a 
 
 ---
 
+> "Even with a good beginning,  
+> it's not certain that you're winning.
+> Even with the best of chances,  
+> they can kick you in the pantses."
+
+---
+
 ## 🛠️ Practical measures (low-cost, high-impact)
 - **Variant-aware SARs:** default search behaviour includes leading-zero variants, hyphen/no-hyphen, alternate DOB formats.  
 - **Middleware retention policy:** keep transformation logs for a forensic window (recommend 2 years minimum).  
@@ -66,6 +73,13 @@ When engaging publics or panels, use simple language:
 > “We run systems expecting normal use. But we also must assume some actors will try to exploit transformation and triage behaviour. We therefore operate variant-resilient SARs, retain transformation logs, and maintain human sampling of automated queues.”
 
 This frames anti-exploitation as pragmatic resilience, not paranoid overreach.
+
+---
+
+> "Hope for the best, expect the worst.
+> The world's a stage, we're unrehearsed.
+> Some reach the top, friends, while others drop, friends.
+> Hope for the best, expect the worst!"
 
 ---
 
