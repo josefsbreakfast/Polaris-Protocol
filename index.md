@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:20:54 UTC_
+_Generated on 2025-10-06 12:21:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -242,6 +242,7 @@ _Generated on 2025-10-06 12:20:54 UTC_
       - [`🎶_containment_by_review_jstor_2018.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_containment_by_review_jstor_2018.md)
       - [`🎶_dedication_absences_in_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_dedication_absences_in_books.md)
       - [`🎶_endorser_network_traces.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_endorser_network_traces.md)
+      - [`🎶_hdz_lalgorithme_paroles.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_hdz_lalgorithme_paroles.md)
       - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
       - [`🎶_they_not_like_us.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_they_not_like_us.md)
       - [`🐉_chen_rui_trump_parody.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md)
@@ -1160,7 +1161,6 @@ _Generated on 2025-10-06 12:20:54 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`🌌_constellation_tracker.md`](Polaris_Nest/Git_Intake_Drawer/🌌_constellation_tracker.md)
-    - [`🎶_lalgorithme_as_containment_song.md`](Polaris_Nest/Git_Intake_Drawer/🎶_lalgorithme_as_containment_song.md)
     - [`🎶_taiz_lalgorithme_album_intake.md`](Polaris_Nest/Git_Intake_Drawer/🎶_taiz_lalgorithme_album_intake.md)
     - [`🎽_think_tanks_surveillance_and_conferencing.md`](Polaris_Nest/Git_Intake_Drawer/🎽_think_tanks_surveillance_and_conferencing.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
