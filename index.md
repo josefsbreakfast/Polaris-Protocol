@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:47:42 UTC_
+_Generated on 2025-10-06 08:48:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,6 +342,7 @@ _Generated on 2025-10-06 08:47:42 UTC_
         - [`🛰️_nhs_token_switching_integrity_audit.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🛰️_nhs_token_switching_integrity_audit.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
       - [`black_mould_audit_checklist.csv`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/black_mould_audit_checklist.csv)
+      - [`darvo_vs_prevent.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/darvo_vs_prevent.png)
       - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
       - [`pp14_22_metrics_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/pp14_22_metrics_timeline.png)
       - [`pre_fork_gaza_fork_tree.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/pre_fork_gaza_fork_tree.png)
@@ -1056,7 +1057,6 @@ _Generated on 2025-10-06 08:47:42 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`requiresedits_darvo_vs_prevent.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_darvo_vs_prevent.png)
     - [`requiresedits_defacto_uk_hsip.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_defacto_uk_hsip.png)
     - [`requiresedits_global_crown_stakeholders.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_global_crown_stakeholders.png)
     - [`requiresedits_global_crown_timeline.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_global_crown_timeline.png)
