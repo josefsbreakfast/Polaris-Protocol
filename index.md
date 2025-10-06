@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:38:14 UTC_
+_Generated on 2025-10-06 08:38:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1051,7 +1051,6 @@ _Generated on 2025-10-06 08:38:14 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`polaris_lineage_map.png`](Polaris_Nest/Git_Intake_Drawer/polaris_lineage_map.png)
     - [`polaris_lineage_timeline.png`](Polaris_Nest/Git_Intake_Drawer/polaris_lineage_timeline.png)
     - [`polaris_signal_map.png`](Polaris_Nest/Git_Intake_Drawer/polaris_signal_map.png)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Polaris_Nest/Git_Intake_Drawer/polaris_threat_visibility_map_2025-08_corrected.png)
@@ -1270,6 +1269,7 @@ _Generated on 2025-10-06 08:38:14 UTC_
     - [`📅_week_ahead_YYYY-MM-DD.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_YYYY-MM-DD.md)
   - [**✨_Letters_to_Stars/**](Polaris_Nest/✨_Letters_to_Stars/)
     - [`polaris_bookshelf.png`](Polaris_Nest/✨_Letters_to_Stars/polaris_bookshelf.png)
+    - [`polaris_lineage_map.png`](Polaris_Nest/✨_Letters_to_Stars/polaris_lineage_map.png)
     - [`⁉️_conversation_erase_event.md`](Polaris_Nest/✨_Letters_to_Stars/⁉️_conversation_erase_event.md)
     - [`⚖️_cidt_by_withholding_record_safety.md`](Polaris_Nest/✨_Letters_to_Stars/⚖️_cidt_by_withholding_record_safety.md)
     - [`⚖️_erasure_and_predator_tolerance.md`](Polaris_Nest/✨_Letters_to_Stars/⚖️_erasure_and_predator_tolerance.md)
