@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 17:32:36 UTC_
+_Generated on 2025-10-06 17:46:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1219,6 +1219,7 @@ _Generated on 2025-10-06 17:32:36 UTC_
     - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_node_generation_stalling_2025-10-06.md)
     - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
     - [`🪣_hidden_data_loop_audit.md`](Polaris_Nest/Git_Intake_Drawer/🪣_hidden_data_loop_audit.md)
+    - [`🫁_oxygen_and_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🫁_oxygen_and_oversight.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
