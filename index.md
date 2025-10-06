@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:10:46 UTC_
+_Generated on 2025-10-06 09:12:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -332,6 +332,7 @@ _Generated on 2025-10-06 09:10:46 UTC_
       - [`🛰️_financial_attrition_as_suppression.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🛰️_financial_attrition_as_suppression.md)
       - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
     - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/README.md)
       - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
       - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
