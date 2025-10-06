@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 19:21:42 UTC_
+_Generated on 2025-10-06 19:22:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -247,10 +247,10 @@ _Generated on 2025-10-06 19:21:42 UTC_
       - [`🎶_containment_by_review_jstor_2018.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_containment_by_review_jstor_2018.md)
       - [`🎶_dedication_absences_in_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_dedication_absences_in_books.md)
       - [`🎶_endorser_network_traces.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_endorser_network_traces.md)
-      - [`🎶_hdz_lalgorithme_paroles.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_hdz_lalgorithme_paroles.md)
       - [`🎶_hdz_lalgorithme_paroles2.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_hdz_lalgorithme_paroles2.md)
       - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
       - [`🎶_taiz_lalgorithme_album_intake.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_taiz_lalgorithme_album_intake.md)
+      - [`🎶_taiz_lalgorithme_paroles.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_taiz_lalgorithme_paroles.md)
       - [`🎶_they_not_like_us.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_they_not_like_us.md)
       - [`🐉_chen_rui_trump_parody.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md)
       - [`📈_sales_suppression_vs_viral_spike.png`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📈_sales_suppression_vs_viral_spike.png)
