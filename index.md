@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 18:18:00 UTC_
+_Generated on 2025-10-06 18:19:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -365,6 +365,7 @@ _Generated on 2025-10-06 18:18:00 UTC_
       - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
       - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
       - [`🧩_structural_lethality_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧩_structural_lethality_in_custody.md)
+      - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
       - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
       - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
@@ -1217,7 +1218,6 @@ _Generated on 2025-10-06 18:18:00 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
     - [`🪣_hidden_data_loop_audit.md`](Polaris_Nest/Git_Intake_Drawer/🪣_hidden_data_loop_audit.md)
     - [`🫁_oxygen_and_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🫁_oxygen_and_oversight.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
