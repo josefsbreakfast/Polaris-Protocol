@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:38:59 UTC_
+_Generated on 2025-10-06 09:39:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -652,6 +652,7 @@ _Generated on 2025-10-06 09:38:59 UTC_
     - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
     - [`🐓_have_you_noticed.md`](Disruption_Kit/Field_Logs/🐓_have_you_noticed.md)
     - [`🐓_no_gpt_for_the_annoyed_femme.md`](Disruption_Kit/Field_Logs/🐓_no_gpt_for_the_annoyed_femme.md)
+    - [`🐪_new_question.md`](Disruption_Kit/Field_Logs/🐪_new_question.md)
     - [`👀_help_my_eyes.md`](Disruption_Kit/Field_Logs/👀_help_my_eyes.md)
     - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`👁️‍🗨️_i_am_aware_stop_doing_it.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_i_am_aware_stop_doing_it.md)
@@ -1113,7 +1114,6 @@ _Generated on 2025-10-06 09:38:59 UTC_
     - [`🎽_think_tanks_surveillance_and_conferencing.md`](Polaris_Nest/Git_Intake_Drawer/🎽_think_tanks_surveillance_and_conferencing.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`🐒_monkey_work.md`](Polaris_Nest/Git_Intake_Drawer/🐒_monkey_work.md)
-    - [`🐪_new_question.md`](Polaris_Nest/Git_Intake_Drawer/🐪_new_question.md)
     - [`👾_legal_notariety.md`](Polaris_Nest/Git_Intake_Drawer/👾_legal_notariety.md)
     - [`👾_pensions_and_perverts.md`](Polaris_Nest/Git_Intake_Drawer/👾_pensions_and_perverts.md)
     - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Polaris_Nest/Git_Intake_Drawer/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
