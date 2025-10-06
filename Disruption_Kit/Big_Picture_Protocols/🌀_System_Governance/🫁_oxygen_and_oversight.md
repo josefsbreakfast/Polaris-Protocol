@@ -4,6 +4,8 @@
 
 ---
 
+---
+
 _**Firstly:**_
 
 Do not be getting ye auntie in trouble by not following whatever your own training or clinical guidelines are in an emergency.  
@@ -13,6 +15,8 @@ I will *not* appreciate it!
 Follow your local guideance and the standards of your professional body -- we're using this for illustrative purposes.  
 
 *Behave, please.*
+
+---
 
 ---
 
