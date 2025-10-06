@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 17:27:33 UTC_
+_Generated on 2025-10-06 17:27:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1444,5 +1444,3 @@ _Generated on 2025-10-06 17:27:33 UTC_
   - [`README.md`](🩻_Weirdness_Screening/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
-- [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](🛰️_field_log_node_generation_stalling_2025-10-06.md)
-- [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
