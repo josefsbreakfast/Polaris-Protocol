@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:30:01 UTC_
+_Generated on 2025-10-06 10:30:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -821,6 +821,7 @@ _Generated on 2025-10-06 10:30:01 UTC_
     - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
     - [`🪐_my_britannia.md`](Disruption_Kit/Field_Logs/🪐_my_britannia.md)
     - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
+    - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/🪬_all_that_surveillance.md)
     - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
     - [`🫜_divorce_support.md`](Disruption_Kit/Field_Logs/🫜_divorce_support.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
@@ -1200,7 +1201,6 @@ _Generated on 2025-10-06 10:30:01 UTC_
     - [`🩺_diagnosis_discredit_loop.md`](Polaris_Nest/Git_Intake_Drawer/🩺_diagnosis_discredit_loop.md)
     - [`🩺_oh_the_irony_tho.md`](Polaris_Nest/Git_Intake_Drawer/🩺_oh_the_irony_tho.md)
     - [`🪞_boring_mechanisms_sensational_harms.md`](Polaris_Nest/Git_Intake_Drawer/🪞_boring_mechanisms_sensational_harms.md)
-    - [`🪬_all_that_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🪬_all_that_surveillance.md)
     - [`🪮_on_hair_and_memory.md`](Polaris_Nest/Git_Intake_Drawer/🪮_on_hair_and_memory.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Polaris_Nest/Git_Intake_Drawer/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
     - [`🫀_yes_stem_needs_humanities.md`](Polaris_Nest/Git_Intake_Drawer/🫀_yes_stem_needs_humanities.md)
