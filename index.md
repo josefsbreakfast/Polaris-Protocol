@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:35:51 UTC_
+_Generated on 2025-10-06 12:37:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -827,6 +827,7 @@ _Generated on 2025-10-06 12:35:51 UTC_
     - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [`🥸_how_dare_she_have_feelings.md`](Disruption_Kit/Field_Logs/🥸_how_dare_she_have_feelings.md)
     - [`🥸_tos_non_compliance_as_stealthing.md`](Disruption_Kit/Field_Logs/🥸_tos_non_compliance_as_stealthing.md)
+    - [`🥸_two_men_one_park.md`](Disruption_Kit/Field_Logs/🥸_two_men_one_park.md)
     - [`🦤_expectations_remain.md`](Disruption_Kit/Field_Logs/🦤_expectations_remain.md)
     - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🧠_hybrid_motive_hypothesis_2025-09-20.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
@@ -1168,7 +1169,6 @@ _Generated on 2025-10-06 12:35:51 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🥸_two_men_one_park.md`](Polaris_Nest/Git_Intake_Drawer/🥸_two_men_one_park.md)
     - [`🦩_no_cidt_no_glow_up.md`](Polaris_Nest/Git_Intake_Drawer/🦩_no_cidt_no_glow_up.md)
     - [`🦾_dual_uses_that_never_come.md`](Polaris_Nest/Git_Intake_Drawer/🦾_dual_uses_that_never_come.md)
     - [`🦾_invest_appropriately.md`](Polaris_Nest/Git_Intake_Drawer/🦾_invest_appropriately.md)
