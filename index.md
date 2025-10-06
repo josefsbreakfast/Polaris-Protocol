@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:51:06 UTC_
+_Generated on 2025-10-06 09:52:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -690,6 +690,7 @@ _Generated on 2025-10-06 09:51:06 UTC_
     - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_bath_time_division_hypothesis_2025-09-20.md)
     - [`🛰️_behavior_first_framing_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_behavior_first_framing_2025-09-20.md)
     - [`🛰️_business_layer_harassment_pattern_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_business_layer_harassment_pattern_2025-09-19.md)
+    - [`🛰️_changes_post_callouts.md`](Disruption_Kit/Field_Logs/🛰️_changes_post_callouts.md)
     - [`🛰️_chatgpt_cant_hold_chronology_today.md`](Disruption_Kit/Field_Logs/🛰️_chatgpt_cant_hold_chronology_today.md)
     - [`🛰️_codename_table_loss_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_codename_table_loss_2025-09-20.md)
     - [`🛰️_cognitive_load_as_infrastructure_field_log_2025-09-25.md`](Disruption_Kit/Field_Logs/🛰️_cognitive_load_as_infrastructure_field_log_2025-09-25.md)
@@ -1142,7 +1143,6 @@ _Generated on 2025-10-06 09:51:06 UTC_
     - [`🚩_tldr_i_want_out_now.md`](Polaris_Nest/Git_Intake_Drawer/🚩_tldr_i_want_out_now.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
-    - [`🛰️_changes_post_callouts.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_changes_post_callouts.md)
     - [`🛰️_chatgpt_lost_after_disability_politics.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_chatgpt_lost_after_disability_politics.md)
     - [`🛰️_dols_delays_significant_interference.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_dols_delays_significant_interference.md)
     - [`🛰️_erasure_of_erasure.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_erasure_of_erasure.md)
