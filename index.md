@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 18:15:44 UTC_
+_Generated on 2025-10-06 18:16:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -333,6 +333,7 @@ _Generated on 2025-10-06 18:15:44 UTC_
       - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
       - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/spv_dataflow_redacted.png)
       - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🎽_think_tanks_surveillance_and_conferencing.md)
+      - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
       - [`🚀_arms_transparency.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_arms_transparency.md)
       - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🛡_state_behavioural_arms_uk_quick_reference.md)
       - [`🦾_dual_uses_that_never_come.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🦾_dual_uses_that_never_come.md)
@@ -1214,7 +1215,6 @@ _Generated on 2025-10-06 18:15:44 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Polaris_Nest/Git_Intake_Drawer/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
     - [`🕳️_exploitability_identifier_translation_weaknesses.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_exploitability_identifier_translation_weaknesses.md)
     - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_node_generation_stalling_2025-10-06.md)
     - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
