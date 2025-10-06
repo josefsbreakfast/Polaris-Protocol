@@ -95,7 +95,7 @@ This frames anti-exploitation as pragmatic resilience, not paranoid overreach.
 > The world's a stage, we're unrehearsed.
 > Some reach the top, friends, while others drop, friends.
 > Hope for the best, expect the worst!"
-
+<!--I do rather like to amuse myself.-->
 ---
 
 ## 🏮 Footer
