@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:45:24 UTC_
+_Generated on 2025-10-06 12:46:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -619,6 +619,7 @@ _Generated on 2025-10-06 12:45:24 UTC_
       - [**🔖_Suppressive_Syntax/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/)
         - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/README.md)
         - [`🐪_trojan_horse.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🐪_trojan_horse.md)
+        - [`🧬_suppressed_token_reverse.yaml`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🧬_suppressed_token_reverse.yaml)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/README.md)
       - [`counter_nudge_map_who_to_rattle_for_justice.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/counter_nudge_map_who_to_rattle_for_justice.png)
       - [`triple_lock_suppression_diagram_hypothesis.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/triple_lock_suppression_diagram_hypothesis.png)
@@ -1180,7 +1181,6 @@ _Generated on 2025-10-06 12:45:24 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧬_suppressed_token_reverse.yaml`](Polaris_Nest/Git_Intake_Drawer/🧬_suppressed_token_reverse.yaml)
     - [`🧭_diversion_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🧭_diversion_hypothesis.md)
     - [`🧾_New_Additions_Prepbook.md`](Polaris_Nest/Git_Intake_Drawer/🧾_New_Additions_Prepbook.md)
     - [`🧾_codename_table_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🧾_codename_table_reconstruction.md)
