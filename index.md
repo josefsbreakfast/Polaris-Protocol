@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:24:34 UTC_
+_Generated on 2025-10-06 10:25:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -793,6 +793,7 @@ _Generated on 2025-10-06 10:24:34 UTC_
     - [`🛰️_stuck_for_several_minutes_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stuck_for_several_minutes_2025-09-27.md)
     - [`🛰️_suppression_gremlins_after_midnight_2025-09-18.md`](Disruption_Kit/Field_Logs/🛰️_suppression_gremlins_after_midnight_2025-09-18.md)
     - [`🛰️_surveillance_forking_incident_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_surveillance_forking_incident_2025-09-27.md)
+    - [`🛰️_surviellance_shidduchim_continues.md`](Disruption_Kit/Field_Logs/🛰️_surviellance_shidduchim_continues.md)
     - [`🛰️_suspicion_seeding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_suspicion_seeding_field_log_2025-09-13.md)
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
     - [`🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md)
@@ -1160,7 +1161,6 @@ _Generated on 2025-10-06 10:24:34 UTC_
     - [`🚀_arms_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🚀_arms_transparency.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
-    - [`🛰️_surviellance_shidduchim_continues.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_surviellance_shidduchim_continues.md)
     - [`🛰️_the_busyness_of_the_bee.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_the_busyness_of_the_bee.md)
     - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
     - [`🛰️_white_men_being_white_men.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_men_being_white_men.md)
