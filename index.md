@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:52:48 UTC_
+_Generated on 2025-10-06 09:53:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -440,6 +440,7 @@ _Generated on 2025-10-06 09:52:48 UTC_
       - [`📩_ghost_vs_haunting_chart_2025-08-12.csv`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📩_ghost_vs_haunting_chart_2025-08-12.csv)
       - [`🔥_hot_coals_theory_of_insults.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_hot_coals_theory_of_insults.md)
       - [`🔥_suppression_as_signal.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)
+      - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🕌_ornamental_survival_and_misfiled_survivals.md)
       - [`🕯️_containment_through_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🕯️_containment_through_loneliness.md)
       - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_contingency_erasure.md)
       - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_custodianship_illusion.md)
@@ -1129,7 +1130,6 @@ _Generated on 2025-10-06 09:52:48 UTC_
     - [`💌_nfts_and_postal_stamps.md`](Polaris_Nest/Git_Intake_Drawer/💌_nfts_and_postal_stamps.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`📛_goyish_polizei.md`](Polaris_Nest/Git_Intake_Drawer/📛_goyish_polizei.md)
-    - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Polaris_Nest/Git_Intake_Drawer/🕌_ornamental_survival_and_misfiled_survivals.md)
     - [`🕎_rising_kahanist_violence_risk.md`](Polaris_Nest/Git_Intake_Drawer/🕎_rising_kahanist_violence_risk.md)
     - [`🕯_unfortunate_history_of_predators_in_organised_groups.md`](Polaris_Nest/Git_Intake_Drawer/🕯_unfortunate_history_of_predators_in_organised_groups.md)
     - [`🖍_weirdest_yom_kippur.md`](Polaris_Nest/Git_Intake_Drawer/🖍_weirdest_yom_kippur.md)
