@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:59:50 UTC_
+_Generated on 2025-10-06 13:00:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -865,6 +865,7 @@ _Generated on 2025-10-06 12:59:50 UTC_
     - [`🪐_my_britannia.md`](Disruption_Kit/Field_Logs/🪐_my_britannia.md)
     - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
     - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/🪬_all_that_surveillance.md)
+    - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Disruption_Kit/Field_Logs/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
     - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
     - [`🫜_divorce_support.md`](Disruption_Kit/Field_Logs/🫜_divorce_support.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
@@ -1204,7 +1205,6 @@ _Generated on 2025-10-06 12:59:50 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Polaris_Nest/Git_Intake_Drawer/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
     - [`🫀_yes_stem_needs_humanities.md`](Polaris_Nest/Git_Intake_Drawer/🫀_yes_stem_needs_humanities.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
