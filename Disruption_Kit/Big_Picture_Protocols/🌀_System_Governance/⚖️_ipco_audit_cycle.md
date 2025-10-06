@@ -1,27 +1,28 @@
 # ⚖️ IPCO Audit Cycle  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-30  
-*Oversight inspections of UK intelligence services*
+**First created:** 2025-09-26 | **Last updated:** 2025-10-06  
+*Oversight inspections of UK intelligence services.*
 
 The watchers get watched, or so the story goes.  
+
 Survivors know that being watched twice doesn’t always make you safer.  
 
 ---
 
-## Routine Inspections  
+## 🛰️ Routine Inspections  
 - **Frequency**: typically twice yearly for each agency.  
 - **Scope**: warrant execution, data retention, deletion, compliance logs.  
 
-## Sampling  
+## 🪄 Sampling  
 - IPCO inspectors independently draw **random and stratified samples** from live warrant databases.  
 - They review necessity, proportionality, handling, and deletion.  
 - Risk-based targeting supplements randomness.  
 
-## Enforcement  
+## 🚀 Enforcement  
 - Minor errors: written recommendations.  
 - Systemic failures: formal compliance notices.  
 - Serious breaches: suspension of powers, mandatory data destruction, reports to PM & ISC.  
 
-## Reporting  
+## 🎪 Reporting  
 - Classified reports to ministers.  
 - Public annual report to Parliament.  
 - Findings can be escalated to the IPT for remedies.  
@@ -29,7 +30,14 @@ Survivors know that being watched twice doesn’t always make you safer.
 ---
 
 Random samples don’t feel random when your life is the dataset.  
+
 Survivors become the anomalies that audits can’t quite resolve.  
+
+---
+
+> "Where I kick myself is where I think I actually contributed to the myth of the intelligence services being very good."
+>
+> John le Carré 
 
 ---
 
