@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:53:20 UTC_
+_Generated on 2025-10-06 12:53:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -860,6 +860,12 @@ _Generated on 2025-10-06 12:53:20 UTC_
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [**🪬_ToS_Non_Compliance_As_Stealthing/**](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/README.md)
+      - [`⚖️_governance_levers.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/⚖️_governance_levers.md)
+      - [`📋_diagnostic_checklist.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/📋_diagnostic_checklist.md)
+      - [`🔁_appeals_and_escalation.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🔁_appeals_and_escalation.md)
+      - [`🗂️_evidence_pack_template.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🗂️_evidence_pack_template.md)
+      - [`🧪_repro_tests_playbook.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🧪_repro_tests_playbook.md)
+      - [`🪬_tos_non_compliance_as_stealthing.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🪬_tos_non_compliance_as_stealthing.md)
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
     - [`⛳️_capture_the_flag_game.md`](Disruption_Kit/Survivor_Tools/⛳️_capture_the_flag_game.md)
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
