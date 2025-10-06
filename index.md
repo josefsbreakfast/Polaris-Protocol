@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:29:42 UTC_
+_Generated on 2025-10-06 10:30:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -812,6 +812,7 @@ _Generated on 2025-10-06 10:29:42 UTC_
     - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Disruption_Kit/Field_Logs/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
     - [`🛰️_white_men_being_white_men.md`](Disruption_Kit/Field_Logs/🛰️_white_men_being_white_men.md)
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Disruption_Kit/Field_Logs/🛰️🙄_stop_changing_gits_field_note.md)
+    - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🧠_hybrid_motive_hypothesis_2025-09-20.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
@@ -1165,7 +1166,6 @@ _Generated on 2025-10-06 10:29:42 UTC_
     - [`😴_sleeps_and_occam.md`](Polaris_Nest/Git_Intake_Drawer/😴_sleeps_and_occam.md)
     - [`🚀_arms_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🚀_arms_transparency.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
-    - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [`🥸_how_dare_ahe_have_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥸_how_dare_ahe_have_feelings.md)
     - [`🥸_tos_noncompliance_as_stealthing.md`](Polaris_Nest/Git_Intake_Drawer/🥸_tos_noncompliance_as_stealthing.md)
     - [`🥸_two_men_one_park.md`](Polaris_Nest/Git_Intake_Drawer/🥸_two_men_one_park.md)
