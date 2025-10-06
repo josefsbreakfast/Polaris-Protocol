@@ -1,5 +1,5 @@
 # 🎶 TaïZ — *L’Algorithme* (Album Intake)  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-17  
+**First created:** 2025-09-17 | **Last updated:** 2025-10-06  
 *Scaffold for analysis of the full 2021 TaïZ album.*  
 
 ---
