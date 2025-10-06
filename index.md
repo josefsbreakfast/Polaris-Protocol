@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:04:25 UTC_
+_Generated on 2025-10-06 09:05:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -311,6 +311,7 @@ _Generated on 2025-10-06 09:04:25 UTC_
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
       - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
+      - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/spv_dataflow_redacted.png)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
@@ -1071,7 +1072,6 @@ _Generated on 2025-10-06 09:04:25 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`spv_dataflow_redacted.png`](Polaris_Nest/Git_Intake_Drawer/spv_dataflow_redacted.png)
     - [`structural_convergence_of_custodial_suicide_risk.png`](Polaris_Nest/Git_Intake_Drawer/structural_convergence_of_custodial_suicide_risk.png)
     - [`suspect_interaction_flowchart_loop_redacted.png`](Polaris_Nest/Git_Intake_Drawer/suspect_interaction_flowchart_loop_redacted.png)
     - [`targeting_jewish_dissent_1980s_present.png`](Polaris_Nest/Git_Intake_Drawer/targeting_jewish_dissent_1980s_present.png)
