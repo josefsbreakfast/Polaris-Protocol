@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:10:37 UTC_
+_Generated on 2025-10-06 08:11:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -371,6 +371,7 @@ _Generated on 2025-10-06 08:10:37 UTC_
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
       - [`appeasement_loop_neon.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
+      - [`data_misuse_continuum_with_resilience_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/data_misuse_continuum_with_resilience_flowchart.png)
       - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
       - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
       - [`⚖️_selective_memory_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/⚖️_selective_memory_erasure.md)
@@ -1029,7 +1030,6 @@ _Generated on 2025-10-06 08:10:37 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`data_misuse_continuum_with_resilience_flowchart.png`](Polaris_Nest/Git_Intake_Drawer/data_misuse_continuum_with_resilience_flowchart.png)
     - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/Git_Intake_Drawer/dopamine_induction_emotional_alignment.png)
     - [`dual_use_tech_procurement_theorised.png`](Polaris_Nest/Git_Intake_Drawer/dual_use_tech_procurement_theorised.png)
     - [`fork_ghost_human_24h.png`](Polaris_Nest/Git_Intake_Drawer/fork_ghost_human_24h.png)
