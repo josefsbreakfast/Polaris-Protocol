@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 19:03:58 UTC_
+_Generated on 2025-10-06 19:05:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -407,6 +407,7 @@ _Generated on 2025-10-06 19:03:58 UTC_
       - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/💢_draft_prevent_ihl.md)
       - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📑_the_case_of_the_disappearing_reviews.md)
+      - [`📚_romanticism_as_coercive_control_literary_lineage.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📚_romanticism_as_coercive_control_literary_lineage.md)
       - [`🕯_unfortunate_history_of_predators_in_organised_groups.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🕯_unfortunate_history_of_predators_in_organised_groups.md)
       - [`🕳️_exploitability_identifier_translation_weaknesses.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🕳️_exploitability_identifier_translation_weaknesses.md)
       - [`🗂️_cse_scandals_post-2013.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🗂️_cse_scandals_post-2013.md)
