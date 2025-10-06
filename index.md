@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:11:45 UTC_
+_Generated on 2025-10-06 08:13:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1030,7 +1030,6 @@ _Generated on 2025-10-06 08:11:45 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/Git_Intake_Drawer/dopamine_induction_emotional_alignment.png)
     - [`dual_use_tech_procurement_theorised.png`](Polaris_Nest/Git_Intake_Drawer/dual_use_tech_procurement_theorised.png)
     - [`fork_ghost_human_24h.png`](Polaris_Nest/Git_Intake_Drawer/fork_ghost_human_24h.png)
     - [`forkscan_seperating_human_actors.png`](Polaris_Nest/Git_Intake_Drawer/forkscan_seperating_human_actors.png)
@@ -1239,6 +1238,7 @@ _Generated on 2025-10-06 08:11:45 UTC_
       - [`🩺_health_framed_preemptive_models_women_mini_review_v0_3.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_3.md)
     - [`SCP-VoiceX.md`](Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md)
     - [`containment_severity_time.png`](Polaris_Nest/SCP-VoiceX_Casefiles/containment_severity_time.png)
+    - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/SCP-VoiceX_Casefiles/dopamine_induction_emotional_alignment.png)
     - [`⚖️_cease_desist_2025-08-27.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
     - [`⚖️_hooked_authoritarian_hooks_long_file.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_hooked_authoritarian_hooks_long_file.md)
     - [`⚖️_judge_frankness_marker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md)
