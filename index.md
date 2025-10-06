@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:54:53 UTC_
+_Generated on 2025-10-06 12:55:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -483,6 +483,7 @@ _Generated on 2025-10-06 12:54:53 UTC_
       - [`🧬_genealogy_of_coping_mechanisms.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧬_genealogy_of_coping_mechanisms.md)
       - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧭_uk_tech_talent_scaling_policy_timeline.md)
       - [`🧾_data_is_their_cage_too.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧾_data_is_their_cage_too.md)
+      - [`🧿_uk_persuasion_engine_on_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md)
       - [`🪦_metadata_ghosts_and_hauntings.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🪦_metadata_ghosts_and_hauntings.md)
       - [`🫀_holding_a_weapon_you_don’t_understand.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_don’t_understand.md)
       - [`🫛_amplification_by_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)
@@ -1195,7 +1196,6 @@ _Generated on 2025-10-06 12:54:53 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧿_uk_persuasion_engine_on_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_persuasion_engine_on_palestine.md)
     - [`🧿_why_do_you_tolerate_my_imprisonment.md`](Polaris_Nest/Git_Intake_Drawer/🧿_why_do_you_tolerate_my_imprisonment.md)
     - [`🩰_registering_my_daily_fuck_this.md`](Polaris_Nest/Git_Intake_Drawer/🩰_registering_my_daily_fuck_this.md)
     - [`🩸_there_have_been_many_outs_suggested.md`](Polaris_Nest/Git_Intake_Drawer/🩸_there_have_been_many_outs_suggested.md)
