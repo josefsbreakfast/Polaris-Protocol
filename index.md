@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:49:37 UTC_
+_Generated on 2025-10-06 12:50:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -357,6 +357,7 @@ _Generated on 2025-10-06 12:49:37 UTC_
       - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
       - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
       - [`🧩_structural_lethality_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧩_structural_lethality_in_custody.md)
+      - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
       - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
@@ -1185,7 +1186,6 @@ _Generated on 2025-10-06 12:49:37 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧾_mass_arrest_symbolic_processing_costs.md`](Polaris_Nest/Git_Intake_Drawer/🧾_mass_arrest_symbolic_processing_costs.md)
     - [`🧿_diaspora_disclosure_tactics.md`](Polaris_Nest/Git_Intake_Drawer/🧿_diaspora_disclosure_tactics.md)
     - [`🧿_uk_persuasion_engine_on_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_persuasion_engine_on_palestine.md)
     - [`🧿_why_do_you_tolerate_my_imprisonment.md`](Polaris_Nest/Git_Intake_Drawer/🧿_why_do_you_tolerate_my_imprisonment.md)
