@@ -1,5 +1,5 @@
 # ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2025-09-29  
+**First created:** 2025-08-07 | **Last updated:** 2025-10-06  
 *Unconsented containment, metadata silencing, and covert NDAs*
 
 ---
@@ -83,7 +83,7 @@ legal containment, metadata suppression, NDA simulation, Prevent logic, clone sy
 
 ---
 
-## ✊ Statement of Refusal  
+## 🐦‍🔥 Statement of Refusal  
 
 > I did *not* sign that contract.  
 > I was *not* given informed consent.  
@@ -97,10 +97,10 @@ legal containment, metadata suppression, NDA simulation, Prevent logic, clone sy
 It documents unconsented containment mechanisms that simulate NDA effects and strategically silence survivor voices.
 
 > 📡 Cross-references:  
-> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping)  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment)  
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
 > - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-06_
