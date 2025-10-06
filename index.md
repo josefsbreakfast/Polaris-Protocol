@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 07:52:24 UTC_
+_Generated on 2025-10-06 07:53:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1018,7 +1018,6 @@ _Generated on 2025-10-06 07:52:24 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`behavioural_ai_connector_proximity_map.png`](Polaris_Nest/Git_Intake_Drawer/behavioural_ai_connector_proximity_map.png)
     - [`big_tech_bds_soi_triangle.png`](Polaris_Nest/Git_Intake_Drawer/big_tech_bds_soi_triangle.png)
     - [`big_tech_intra_industry_stakeholder_relations.png`](Polaris_Nest/Git_Intake_Drawer/big_tech_intra_industry_stakeholder_relations.png)
     - [`black_mould_audit_checklist.csv`](Polaris_Nest/Git_Intake_Drawer/black_mould_audit_checklist.csv)
@@ -1231,6 +1230,7 @@ _Generated on 2025-10-06 07:52:24 UTC_
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
+      - [`behavioural_ai_connector_proximity_map.png`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/behavioural_ai_connector_proximity_map.png)
       - [`🛠_coerced_character_loop_and_tuner_profile_the_engineer.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md)
       - [`🧨_those_universities_used_my_bones.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🧨_those_universities_used_my_bones.md)
       - [`🩺_health_framed_preemptive_models_women_mini_review_v0_1.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_1.md)
