@@ -1,5 +1,5 @@
 # 🪄 The Magical Disappearing Book  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-06  
 *A field log of finally holding the book, and the quiet release that followed.*
 
 ---
