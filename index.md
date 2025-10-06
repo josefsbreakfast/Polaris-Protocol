@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:36:56 UTC_
+_Generated on 2025-10-06 09:37:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1126,7 +1126,6 @@ _Generated on 2025-10-06 09:36:56 UTC_
     - [`📚_bookworm_bitches_unite.md`](Polaris_Nest/Git_Intake_Drawer/📚_bookworm_bitches_unite.md)
     - [`📛_goyish_polizei.md`](Polaris_Nest/Git_Intake_Drawer/📛_goyish_polizei.md)
     - [`📲_so_is_it_pegasus_or_not.md`](Polaris_Nest/Git_Intake_Drawer/📲_so_is_it_pegasus_or_not.md)
-    - [`🔥_10_years_of_denied_rage_hurts.md`](Polaris_Nest/Git_Intake_Drawer/🔥_10_years_of_denied_rage_hurts.md)
     - [`🔥_data_mafia_debrief.md`](Polaris_Nest/Git_Intake_Drawer/🔥_data_mafia_debrief.md)
     - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Polaris_Nest/Git_Intake_Drawer/🕌_ornamental_survival_and_misfiled_survivals.md)
     - [`🕎_rising_kahanist_violence_risk.md`](Polaris_Nest/Git_Intake_Drawer/🕎_rising_kahanist_violence_risk.md)
@@ -1300,6 +1299,7 @@ _Generated on 2025-10-06 09:36:56 UTC_
     - [`💸_to_the_investors.md`](Polaris_Nest/✨_Letters_to_Stars/💸_to_the_investors.md)
     - [`📜_governance-flare-0812-letter_to_the_stars.md`](Polaris_Nest/✨_Letters_to_Stars/📜_governance-flare-0812-letter_to_the_stars.md)
     - [`📧_to_the_twinned_data_subject_v2.md`](Polaris_Nest/✨_Letters_to_Stars/📧_to_the_twinned_data_subject_v2.md)
+    - [`🔥_10_years_of_denied_rage_hurts.md`](Polaris_Nest/✨_Letters_to_Stars/🔥_10_years_of_denied_rage_hurts.md)
     - [`🔥_a_message_to_the_spark_that_shines.md`](Polaris_Nest/✨_Letters_to_Stars/🔥_a_message_to_the_spark_that_shines.md)
     - [`🗄️_desk_tactical_terrain.md`](Polaris_Nest/✨_Letters_to_Stars/🗄️_desk_tactical_terrain.md)
     - [`🚪_it_does_not_need_a_real_raid.md`](Polaris_Nest/✨_Letters_to_Stars/🚪_it_does_not_need_a_real_raid.md)
