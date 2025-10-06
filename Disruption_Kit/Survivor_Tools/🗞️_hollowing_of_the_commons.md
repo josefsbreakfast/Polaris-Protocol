@@ -113,7 +113,7 @@ It documents how fear, conditional belonging, and harassment risk erode visible 
 
 > 📡 Cross-references:  
 > - [🫥 Presumption as Erasure](./🫥_presumption_as_erasure.md) — how silence is misread as consent  
-> - [🕎 Exile Logic and Dual Coding](../Survivor_Tools/./🕎_exile_logic_and_dual_coding.md) — survival tactics in hostile discourse  
+> - [🕎 Exile Logic and Dual Coding](../Survivor_Tools/./🕎_exile_logic_dual_coding.md) — survival tactics in hostile discourse  
 > - [🧿 Watch the Watchers](../Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md) — oversight of surveillance-shaped speech  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
