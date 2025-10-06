@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:54:20 UTC_
+_Generated on 2025-10-06 09:55:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -376,6 +376,7 @@ _Generated on 2025-10-06 09:54:20 UTC_
       - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/💢_draft_prevent_ihl.md)
       - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
       - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/📑_the_case_of_the_disappearing_reviews.md)
+      - [`🕯_unfortunate_history_of_predators_in_organised_groups.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🕯_unfortunate_history_of_predators_in_organised_groups.md)
       - [`🗂️_cse_scandals_post-2013.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🗂️_cse_scandals_post-2013.md)
       - [`🦈_surveillance_by_misread_and_malice.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🦈_surveillance_by_misread_and_malice.md)
       - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧠_targeting_logic_empathy_is_a_threat.md)
@@ -1131,7 +1132,6 @@ _Generated on 2025-10-06 09:54:20 UTC_
     - [`💌_nfts_and_postal_stamps.md`](Polaris_Nest/Git_Intake_Drawer/💌_nfts_and_postal_stamps.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`📛_goyish_polizei.md`](Polaris_Nest/Git_Intake_Drawer/📛_goyish_polizei.md)
-    - [`🕯_unfortunate_history_of_predators_in_organised_groups.md`](Polaris_Nest/Git_Intake_Drawer/🕯_unfortunate_history_of_predators_in_organised_groups.md)
     - [`🖍_weirdest_yom_kippur.md`](Polaris_Nest/Git_Intake_Drawer/🖍_weirdest_yom_kippur.md)
     - [`🗂️_signature_silence_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_signature_silence_drift.md)
     - [`😴_sleeps_and_occam.md`](Polaris_Nest/Git_Intake_Drawer/😴_sleeps_and_occam.md)
