@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:04:46 UTC_
+_Generated on 2025-10-06 10:05:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -716,6 +716,7 @@ _Generated on 2025-10-06 10:04:46 UTC_
     - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
     - [`🛰️_embedded_observers_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/🛰️_embedded_observers_field_log_2025-08-06.md)
     - [`🛰️_entrapment_by_protection_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_entrapment_by_protection_2025-09-27.md)
+    - [`🛰️_erasure_of_erasure.md`](Disruption_Kit/Field_Logs/🛰️_erasure_of_erasure.md)
     - [`🛰️_exhaustion_as_containment_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_exhaustion_as_containment_field_log_2025-09-13.md)
     - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Disruption_Kit/Field_Logs/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
     - [`🛰️_fls_hard_today_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_fls_hard_today_2025-09-16.md)
@@ -1152,7 +1153,6 @@ _Generated on 2025-10-06 10:04:46 UTC_
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
     - [`🛰️_chatgpt_lost_after_disability_politics.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_chatgpt_lost_after_disability_politics.md)
     - [`🛰️_dols_delays_significant_interference.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_dols_delays_significant_interference.md)
-    - [`🛰️_erasure_of_erasure.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_erasure_of_erasure.md)
     - [`🛰️_forked_code_ghost_voice_API_risks.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forked_code_ghost_voice_API_risks.md)
     - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_lagging_around_preemptive_counterterror_papers.md)
     - [`🛰️_missing_new_number_texts.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_new_number_texts.md)
