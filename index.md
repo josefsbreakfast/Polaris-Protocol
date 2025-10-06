@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:14:32 UTC_
+_Generated on 2025-10-06 09:14:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -335,6 +335,7 @@ _Generated on 2025-10-06 09:14:32 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/README.md)
       - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
       - [`targeting_jewish_dissent_1980s_present.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/targeting_jewish_dissent_1980s_present.png)
+      - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
       - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
@@ -1077,7 +1078,6 @@ _Generated on 2025-10-06 09:14:32 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`targetting_jewish_dissent_1980s_plasticbox.png`](Polaris_Nest/Git_Intake_Drawer/targetting_jewish_dissent_1980s_plasticbox.png)
     - [`triple_lock_audit_gap_flow.png`](Polaris_Nest/Git_Intake_Drawer/triple_lock_audit_gap_flow.png)
     - [`uk_debates_overlap.png`](Polaris_Nest/Git_Intake_Drawer/uk_debates_overlap.png)
     - [`uk_morale_post_2016.png`](Polaris_Nest/Git_Intake_Drawer/uk_morale_post_2016.png)
