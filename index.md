@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:31:01 UTC_
+_Generated on 2025-10-06 12:32:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -691,6 +691,7 @@ _Generated on 2025-10-06 12:31:01 UTC_
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Disruption_Kit/Field_Logs/🗒️_being_cross_at_gung_ho_nudge.md)
     - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/🗒️_conversation_drift_and_anchors.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
+    - [`😴_sleeps_and_occam.md`](Disruption_Kit/Field_Logs/😴_sleeps_and_occam.md)
     - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Disruption_Kit/Field_Logs/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
     - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Logs/🚀_governance_is_great_2nd_spring_clean.md)
     - [`🚀_hmmm_why_are_we_twinned_actually.md`](Disruption_Kit/Field_Logs/🚀_hmmm_why_are_we_twinned_actually.md)
@@ -1163,7 +1164,6 @@ _Generated on 2025-10-06 12:31:01 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`😴_sleeps_and_occam.md`](Polaris_Nest/Git_Intake_Drawer/😴_sleeps_and_occam.md)
     - [`🚀_arms_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🚀_arms_transparency.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [`🥸_how_dare_ahe_have_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥸_how_dare_ahe_have_feelings.md)
