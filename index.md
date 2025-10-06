@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:33:28 UTC_
+_Generated on 2025-10-06 09:34:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -369,6 +369,7 @@ _Generated on 2025-10-06 09:33:28 UTC_
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
+      - [`🏛️_conservatorship_like_abuses_in_the_UK.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🏛️_conservatorship_like_abuses_in_the_UK.md)
       - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🏛️_state_patterns_of_forced_intimacy.md)
       - [`👀_failure_cycle_vs_reported_improvements.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md)
       - [`👀_public_perception_gap.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/👀_public_perception_gap.md)
@@ -1104,7 +1105,6 @@ _Generated on 2025-10-06 09:33:28 UTC_
     - [`🎶_lalgorithme_as_containment_song.md`](Polaris_Nest/Git_Intake_Drawer/🎶_lalgorithme_as_containment_song.md)
     - [`🎶_taiz_lalgorithme_album_intake.md`](Polaris_Nest/Git_Intake_Drawer/🎶_taiz_lalgorithme_album_intake.md)
     - [`🎽_think_tanks_surveillance_and_conferencing.md`](Polaris_Nest/Git_Intake_Drawer/🎽_think_tanks_surveillance_and_conferencing.md)
-    - [`🏛️_conservatorship_like_abuses_in_the_UK.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_conservatorship_like_abuses_in_the_UK.md)
     - [`🏵️_parents_vindicated.md`](Polaris_Nest/Git_Intake_Drawer/🏵️_parents_vindicated.md)
     - [`🐒_monkey_work.md`](Polaris_Nest/Git_Intake_Drawer/🐒_monkey_work.md)
     - [`🐓_have_you_noticed.md`](Polaris_Nest/Git_Intake_Drawer/🐓_have_you_noticed.md)
