@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:40:59 UTC_
+_Generated on 2025-10-06 08:41:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -343,6 +343,7 @@ _Generated on 2025-10-06 08:40:59 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
       - [`black_mould_audit_checklist.csv`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/black_mould_audit_checklist.csv)
       - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
+      - [`pp14_22_metrics_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/pp14_22_metrics_timeline.png)
       - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
       - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
       - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
@@ -1052,7 +1053,6 @@ _Generated on 2025-10-06 08:40:59 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`pp14_22_metrics_timeline.png`](Polaris_Nest/Git_Intake_Drawer/pp14_22_metrics_timeline.png)
     - [`pre_fork_gaza_fork_tree.png`](Polaris_Nest/Git_Intake_Drawer/pre_fork_gaza_fork_tree.png)
     - [`pressure_map_local_redacted.png`](Polaris_Nest/Git_Intake_Drawer/pressure_map_local_redacted.png)
     - [`probe_response_probability_mapping.png`](Polaris_Nest/Git_Intake_Drawer/probe_response_probability_mapping.png)
