@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:17:06 UTC_
+_Generated on 2025-10-06 09:18:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -135,6 +135,8 @@ _Generated on 2025-10-06 09:17:06 UTC_
       - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪞_the_illusion_of_choice.md)
       - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪫_austerity_long_tail_data_instability.md)
       - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)
+    - [**🌱_Human_Principle/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principle/)
+      - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principle/uk_morale_post_2016.png)
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
@@ -1080,7 +1082,6 @@ _Generated on 2025-10-06 09:17:06 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`uk_morale_post_2016.png`](Polaris_Nest/Git_Intake_Drawer/uk_morale_post_2016.png)
     - [`uk_twinned_estimates.png`](Polaris_Nest/Git_Intake_Drawer/uk_twinned_estimates.png)
     - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
     - [`why_additionalfailed.png`](Polaris_Nest/Git_Intake_Drawer/why_additionalfailed.png)
