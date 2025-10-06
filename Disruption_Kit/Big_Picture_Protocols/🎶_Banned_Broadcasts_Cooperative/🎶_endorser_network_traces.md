@@ -1,5 +1,5 @@
 # 🎶 Endorser Network Traces  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-06  
 *Observation log of foreword writers, blurbers, and endorsers tied to the book*  
 
 ---
@@ -54,10 +54,10 @@ flowchart LR
   AU[✍️ Author]:::person
 
   %% ENDORSERS
-  E1[🎓 Endorser 1\n(Prof / Foreword)]:::endorser
-  E2[🏥 Endorser 2\n(NGO / Blurb)]:::endorser
-  E3[🧪 Endorser 3\n(Lab / Quote)]:::endorser
-  E4[🎤 Endorser 4\n(Media / Panel)]:::endorser
+  E1[🎓 Endorser 1 (Prof / Foreword)]:::endorser
+  E2[🏥 Endorser 2 (NGO / Blurb)]:::endorser
+  E3[🧪 Endorser 3 (Lab / Quote)]:::endorser
+  E4[🎤 Endorser 4 (Media / Panel)]:::endorser
 
   %% EVENTS / SIGNALS
   S1{{🔻 Visibility Drop}}:::event
@@ -134,4 +134,4 @@ It explores whether endorsement networks are themselves targets, and how suppres
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-10-06_  
