@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:53:33 UTC_
+_Generated on 2025-10-06 09:54:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -559,6 +559,7 @@ _Generated on 2025-10-06 09:53:33 UTC_
       - [`📱_algorithmic_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📱_algorithmic_recruitment.md)
       - [`🔊_voice_as_recruitment_channel.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🔊_voice_as_recruitment_channel.md)
       - [`🕊️_false_counter_extremism_dialogues.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🕊️_false_counter_extremism_dialogues.md)
+      - [`🕎_rising_kahanist_violence_risk.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🕎_rising_kahanist_violence_risk.md)
       - [`🕹️_gamified_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🕹️_gamified_extremism.md)
       - [`🛜_transnational_networks.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🛜_transnational_networks.md)
       - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
@@ -1130,7 +1131,6 @@ _Generated on 2025-10-06 09:53:33 UTC_
     - [`💌_nfts_and_postal_stamps.md`](Polaris_Nest/Git_Intake_Drawer/💌_nfts_and_postal_stamps.md)
     - [`💍_reverse_dowry_logic.md`](Polaris_Nest/Git_Intake_Drawer/💍_reverse_dowry_logic.md)
     - [`📛_goyish_polizei.md`](Polaris_Nest/Git_Intake_Drawer/📛_goyish_polizei.md)
-    - [`🕎_rising_kahanist_violence_risk.md`](Polaris_Nest/Git_Intake_Drawer/🕎_rising_kahanist_violence_risk.md)
     - [`🕯_unfortunate_history_of_predators_in_organised_groups.md`](Polaris_Nest/Git_Intake_Drawer/🕯_unfortunate_history_of_predators_in_organised_groups.md)
     - [`🖍_weirdest_yom_kippur.md`](Polaris_Nest/Git_Intake_Drawer/🖍_weirdest_yom_kippur.md)
     - [`🗂️_signature_silence_drift.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_signature_silence_drift.md)
