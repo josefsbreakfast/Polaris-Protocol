@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:16:07 UTC_
+_Generated on 2025-10-06 09:17:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -62,6 +62,7 @@ _Generated on 2025-10-06 09:16:07 UTC_
       - [`frankenstack_faceplate.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/frankenstack_faceplate.png)
       - [`panic_deleting_evidence.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/panic_deleting_evidence.png)
       - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/reverse_colonisation_metadata_law_procurement_timeline.png)
+      - [`uk_debates_overlap.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/uk_debates_overlap.png)
       - [`uk_online_safety_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/uk_online_safety_timeline.png)
       - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_authorisation_and_oversight.md)
       - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_compliance_as_opacity.md)
@@ -1079,7 +1080,6 @@ _Generated on 2025-10-06 09:16:07 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`uk_debates_overlap.png`](Polaris_Nest/Git_Intake_Drawer/uk_debates_overlap.png)
     - [`uk_morale_post_2016.png`](Polaris_Nest/Git_Intake_Drawer/uk_morale_post_2016.png)
     - [`uk_twinned_estimates.png`](Polaris_Nest/Git_Intake_Drawer/uk_twinned_estimates.png)
     - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Polaris_Nest/Git_Intake_Drawer/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
