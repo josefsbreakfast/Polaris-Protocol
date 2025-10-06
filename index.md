@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:19:30 UTC_
+_Generated on 2025-10-06 08:20:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1036,7 +1036,6 @@ _Generated on 2025-10-06 08:19:30 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`interference_types_logged_contacts.png`](Polaris_Nest/Git_Intake_Drawer/interference_types_logged_contacts.png)
     - [`israel_eurozone_financial_watchlist.png`](Polaris_Nest/Git_Intake_Drawer/israel_eurozone_financial_watchlist.png)
     - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Polaris_Nest/Git_Intake_Drawer/jewish_experience_diaspora_matrix_middleman_minorities.png)
     - [`jewish_intersections_global.png`](Polaris_Nest/Git_Intake_Drawer/jewish_intersections_global.png)
@@ -1239,6 +1238,7 @@ _Generated on 2025-10-06 08:19:30 UTC_
     - [`fork_ghost_human_24h.png`](Polaris_Nest/SCP-VoiceX_Casefiles/fork_ghost_human_24h.png)
     - [`forkscan_seperating_human_actors.png`](Polaris_Nest/SCP-VoiceX_Casefiles/forkscan_seperating_human_actors.png)
     - [`human_vs_system_interventions_aug.png`](Polaris_Nest/SCP-VoiceX_Casefiles/human_vs_system_interventions_aug.png)
+    - [`interference_types_logged_contacts.png`](Polaris_Nest/SCP-VoiceX_Casefiles/interference_types_logged_contacts.png)
     - [`⚖️_cease_desist_2025-08-27.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
     - [`⚖️_hooked_authoritarian_hooks_long_file.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_hooked_authoritarian_hooks_long_file.md)
     - [`⚖️_judge_frankness_marker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md)
