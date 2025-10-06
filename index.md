@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:25:40 UTC_
+_Generated on 2025-10-06 10:26:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -796,6 +796,7 @@ _Generated on 2025-10-06 10:25:40 UTC_
     - [`🛰️_surveillance_forking_incident_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_surveillance_forking_incident_2025-09-27.md)
     - [`🛰️_surviellance_shidduchim_continues.md`](Disruption_Kit/Field_Logs/🛰️_surviellance_shidduchim_continues.md)
     - [`🛰️_suspicion_seeding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_suspicion_seeding_field_log_2025-09-13.md)
+    - [`🛰️_the_busyness_of_the_bee.md`](Disruption_Kit/Field_Logs/🛰️_the_busyness_of_the_bee.md)
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
     - [`🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md)
     - [`🛰️_transparent_interference_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/🛰️_transparent_interference_field_log_2025-10-04.md)
@@ -1161,7 +1162,6 @@ _Generated on 2025-10-06 10:25:40 UTC_
     - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Polaris_Nest/Git_Intake_Drawer/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
     - [`🚀_arms_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🚀_arms_transparency.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
-    - [`🛰️_the_busyness_of_the_bee.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_the_busyness_of_the_bee.md)
     - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
     - [`🛰️_white_men_being_white_men.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_men_being_white_men.md)
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🙄_stop_changing_gits_field_note.md)
