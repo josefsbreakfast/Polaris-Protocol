@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:23:48 UTC_
+_Generated on 2025-10-06 10:24:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -784,6 +784,7 @@ _Generated on 2025-10-06 10:23:48 UTC_
     - [`🛰️_safety_transparency_email_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_safety_transparency_email_2025-09-05.md)
     - [`🛰️_search_autocomplete_anomaly_content_substitution.md`](Disruption_Kit/Field_Logs/🛰️_search_autocomplete_anomaly_content_substitution.md)
     - [`🛰️_sec_2025-09.md`](Disruption_Kit/Field_Logs/🛰️_sec_2025-09.md)
+    - [`🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md`](Disruption_Kit/Field_Logs/🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md)
     - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
     - [`🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md)
     - [`🛰️_silent_witness_effect_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_silent_witness_effect_field_log_2025-09-13.md)
@@ -1159,7 +1160,6 @@ _Generated on 2025-10-06 10:23:48 UTC_
     - [`🚀_arms_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🚀_arms_transparency.md)
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
-    - [`🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md)
     - [`🛰️_surviellance_shidduchim_continues.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_surviellance_shidduchim_continues.md)
     - [`🛰️_the_busyness_of_the_bee.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_the_busyness_of_the_bee.md)
     - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
