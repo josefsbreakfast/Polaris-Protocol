@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:27:47 UTC_
+_Generated on 2025-10-06 09:28:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -301,6 +301,7 @@ _Generated on 2025-10-06 09:27:47 UTC_
       - [`palantir_cycle_diagram_branded.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/palantir_cycle_diagram_branded.png)
       - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
       - [`⚖️_navigating_elder_spaces_for_transparency.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_navigating_elder_spaces_for_transparency.md)
+      - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_sanhedrin_rulings_on_trafficking.md)
       - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
       - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
       - [`🔬_operation_no_sanctuary.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🔬_operation_no_sanctuary.md)
@@ -1089,7 +1090,6 @@ _Generated on 2025-10-06 09:27:47 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_sanhedrin_rulings_on_trafficking.md)
     - [`🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧🇮🇱🇺🇸🇩🇪🇨🇦🇦🇺_your_time_will_come.md)
     - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
     - [`🌌_constellation_tracker.md`](Polaris_Nest/Git_Intake_Drawer/🌌_constellation_tracker.md)
