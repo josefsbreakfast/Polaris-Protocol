@@ -76,13 +76,6 @@ This frames anti-exploitation as pragmatic resilience, not paranoid overreach.
 
 ---
 
-> "Hope for the best, expect the worst.
-> The world's a stage, we're unrehearsed.
-> Some reach the top, friends, while others drop, friends.
-> Hope for the best, expect the worst!"
-
----
-
 ## 🧭 Cross-reference map
 - 🪣 Hidden Data-Loop Audit  
 - 🧮 Algorithmic Exposure Bias in Whistleblower Systems  
@@ -95,6 +88,13 @@ This frames anti-exploitation as pragmatic resilience, not paranoid overreach.
 - Clearer forensic trails for regulators and survivors.  
 - Reduced window for low-cost exploitation.  
 - Better public trust through transparency and straightforward submission guidance.
+
+---
+
+> "Hope for the best, expect the worst.
+> The world's a stage, we're unrehearsed.
+> Some reach the top, friends, while others drop, friends.
+> Hope for the best, expect the worst!"
 
 ---
 
