@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:48:41 UTC_
+_Generated on 2025-10-06 08:49:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -545,6 +545,7 @@ _Generated on 2025-10-06 08:48:41 UTC_
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
       - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
+    - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/defacto_uk_hsip.png)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
@@ -1057,7 +1058,6 @@ _Generated on 2025-10-06 08:48:41 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`requiresedits_defacto_uk_hsip.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_defacto_uk_hsip.png)
     - [`requiresedits_global_crown_stakeholders.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_global_crown_stakeholders.png)
     - [`requiresedits_global_crown_timeline.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_global_crown_timeline.png)
     - [`requiresedits_handover_theatre.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_handover_theatre.png)
