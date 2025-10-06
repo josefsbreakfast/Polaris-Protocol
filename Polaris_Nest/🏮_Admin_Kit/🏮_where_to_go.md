@@ -30,7 +30,7 @@ flowchart TD
   Cpick -->|Human dignity, ethics frames| C1b[🌱 Human_Principles]
   Cpick -->|University compliance & discipline| C1c[🎓 British_University_Compliance_Service]
   Cpick -->|Media / broadcast bans & circulation| C7[🎶 Banned_Broadcasts_Cooperative]
-  Cpick -->|Trauma, psychology & medical misuse| C2[🐦‍🔥 Trauma_Psycology_Medical_Misuse]
+  Cpick -->|Trauma, psychology & medical misuse| C2[🐦‍🔥 Trauma_Psychology_Medical_Misuse]
   Cpick -->|Forensic witness histories reshaped / suppressed| C3[👁️‍🗨️ Witness_Historical_Casefiles]
   Cpick -->|Memory, narrative suppression, politicised identity| C4[🗝️ Politics_Memory_Work]
   Cpick -->|UK gov nudge units & coercive applications| C5[🧠 HM_Dept_Coercive_Nudges]
