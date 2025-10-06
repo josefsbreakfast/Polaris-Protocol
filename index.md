@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:49:09 UTC_
+_Generated on 2025-10-06 12:49:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -881,6 +881,7 @@ _Generated on 2025-10-06 12:49:09 UTC_
     - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
     - [`🧰_leave_me_alone_playbook.md`](Disruption_Kit/Survivor_Tools/🧰_leave_me_alone_playbook.md)
     - [`🧾_evidence_visibility_toolkit2.md`](Disruption_Kit/Survivor_Tools/🧾_evidence_visibility_toolkit2.md)
+    - [`🧾_evidence_visibility_toolkit_3.md`](Disruption_Kit/Survivor_Tools/🧾_evidence_visibility_toolkit_3.md)
     - [`🪄_influencer_resilience.md`](Disruption_Kit/Survivor_Tools/🪄_influencer_resilience.md)
     - [`🪪_codename_patronymics.md`](Disruption_Kit/Survivor_Tools/🪪_codename_patronymics.md)
     - [`🪷_name_reclamation_protocol.md`](Disruption_Kit/Survivor_Tools/🪷_name_reclamation_protocol.md)
@@ -1184,7 +1185,6 @@ _Generated on 2025-10-06 12:49:09 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧾_evidence_visibility_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧾_evidence_visibility_toolkit.md)
     - [`🧾_mass_arrest_symbolic_processing_costs.md`](Polaris_Nest/Git_Intake_Drawer/🧾_mass_arrest_symbolic_processing_costs.md)
     - [`🧿_diaspora_disclosure_tactics.md`](Polaris_Nest/Git_Intake_Drawer/🧿_diaspora_disclosure_tactics.md)
     - [`🧿_uk_persuasion_engine_on_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_persuasion_engine_on_palestine.md)
