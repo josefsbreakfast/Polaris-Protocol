@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 18:19:15 UTC_
+_Generated on 2025-10-06 18:19:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -415,6 +415,7 @@ _Generated on 2025-10-06 18:19:15 UTC_
       - [`🧬_shadow_audit_trails.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_audit_trails.md)
       - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
       - [`🪞_boring_mechanisms_sensational_harms.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🪞_boring_mechanisms_sensational_harms.md)
+      - [`🪣_hidden_data_loop_audit.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🪣_hidden_data_loop_audit.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
       - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
@@ -1218,7 +1219,6 @@ _Generated on 2025-10-06 18:19:15 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🪣_hidden_data_loop_audit.md`](Polaris_Nest/Git_Intake_Drawer/🪣_hidden_data_loop_audit.md)
     - [`🫁_oxygen_and_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🫁_oxygen_and_oversight.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
