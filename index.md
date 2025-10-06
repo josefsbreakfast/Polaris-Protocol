@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:05:22 UTC_
+_Generated on 2025-10-06 09:10:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -331,6 +331,8 @@ _Generated on 2025-10-06 09:05:22 UTC_
       - [`📺_contractors_vs_media_clusters.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/📺_contractors_vs_media_clusters.md)
       - [`🛰️_financial_attrition_as_suppression.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🛰️_financial_attrition_as_suppression.md)
       - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
+    - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/)
+      - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
     - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
       - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
@@ -1072,7 +1074,6 @@ _Generated on 2025-10-06 09:05:22 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`structural_convergence_of_custodial_suicide_risk.png`](Polaris_Nest/Git_Intake_Drawer/structural_convergence_of_custodial_suicide_risk.png)
     - [`suspect_interaction_flowchart_loop_redacted.png`](Polaris_Nest/Git_Intake_Drawer/suspect_interaction_flowchart_loop_redacted.png)
     - [`targeting_jewish_dissent_1980s_present.png`](Polaris_Nest/Git_Intake_Drawer/targeting_jewish_dissent_1980s_present.png)
     - [`targetting_jewish_dissent_1980s_plasticbox.png`](Polaris_Nest/Git_Intake_Drawer/targetting_jewish_dissent_1980s_plasticbox.png)
