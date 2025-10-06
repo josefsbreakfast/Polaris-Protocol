@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 10:07:26 UTC_
+_Generated on 2025-10-06 10:08:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -499,6 +499,7 @@ _Generated on 2025-10-06 10:07:26 UTC_
       - [`💞_ethics_of_nudging_vs_desire.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)
       - [`📜_ethics_as_language_trap.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/📜_ethics_as_language_trap.md)
       - [`🕸️_safeguarding_obedience_division.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🕸️_safeguarding_obedience_division.md)
+      - [`🛰️_forked_code_ghost_voice_API_risks.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🛰️_forked_code_ghost_voice_API_risks.md)
       - [`🛰️_hypothetical_nudge_map_redacted_2025-09-20.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🛰️_hypothetical_nudge_map_redacted_2025-09-20.md)
       - [`🥄_deserving_poor_containment.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🥄_deserving_poor_containment.md)
       - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
@@ -1156,7 +1157,6 @@ _Generated on 2025-10-06 10:07:26 UTC_
     - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Polaris_Nest/Git_Intake_Drawer/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [`🛰️_audience_brought_to_captivity.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_audience_brought_to_captivity.md)
     - [`🛰️_dols_delays_significant_interference.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_dols_delays_significant_interference.md)
-    - [`🛰️_forked_code_ghost_voice_API_risks.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forked_code_ghost_voice_API_risks.md)
     - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_lagging_around_preemptive_counterterror_papers.md)
     - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
     - [`🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md)
