@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:40:52 UTC_
+_Generated on 2025-10-06 12:42:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -394,6 +394,7 @@ _Generated on 2025-10-06 12:40:52 UTC_
       - [`🦈_surveillance_by_misread_and_malice.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🦈_surveillance_by_misread_and_malice.md)
       - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧠_targeting_logic_empathy_is_a_threat.md)
       - [`🧨_real_vs_fake_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧨_real_vs_fake_duty_of_care.md)
+      - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧪_did_unis_really_address_rape_epidemic_tho.md)
       - [`🧫_black_mould_audit_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧫_black_mould_audit_checklist.md)
       - [`🧬_report_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning.md)
       - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
@@ -1174,7 +1175,6 @@ _Generated on 2025-10-06 12:40:52 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Polaris_Nest/Git_Intake_Drawer/🧪_did_unis_really_address_rape_epidemic_tho.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Polaris_Nest/Git_Intake_Drawer/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧫_black_mould_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧫_black_mould_principle.md)
     - [`🧫_is_this_your_drug_allergy.md`](Polaris_Nest/Git_Intake_Drawer/🧫_is_this_your_drug_allergy.md)
