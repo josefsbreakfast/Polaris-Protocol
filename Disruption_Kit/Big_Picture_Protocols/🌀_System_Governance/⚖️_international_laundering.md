@@ -1,10 +1,10 @@
 # ⚖️ International Laundering  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-06  
 *Cross-border governance tricks where obligations are displaced onto allies to evade accountability.*
 
 ---
 
-## 🧭 Concept  
+## ✨ Concept  
 International laundering occurs when a domestic institution uses **alliances, partnerships, or shared jurisdiction** to displace responsibility.  
 It looks like diplomacy. It operates like misdirection.
 
@@ -38,9 +38,9 @@ international law, jurisdiction dodge, metadata laundering, intelligence allianc
 It tracks how accountability is evaded through jurisdictional displacement, intelligence alliances, and metadata laundering.
 
 > 📡 Cross-references:  
-> - [🌀 System Governance](./) — parent cluster of governance diagnostics  
-> - [🧼 System Leakage Signatures](../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures)
+> - [🌀 System Governance](./README.md) — parent cluster of governance diagnostics  
+> - [🧼 System Leakage Signatures](../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-06_
