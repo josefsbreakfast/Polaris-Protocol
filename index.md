@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 09:28:59 UTC_
+_Generated on 2025-10-06 09:29:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -640,6 +640,7 @@ _Generated on 2025-10-06 09:28:59 UTC_
     - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/⚔️_the_orientalism_is_mindblowing.md)
     - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
+    - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Disruption_Kit/Field_Logs/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
     - [`🌹_moving_plan.md`](Disruption_Kit/Field_Logs/🌹_moving_plan.md)
     - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
     - [`🐓_no_gpt_for_the_annoyed_femme.md`](Disruption_Kit/Field_Logs/🐓_no_gpt_for_the_annoyed_femme.md)
@@ -1090,7 +1091,6 @@ _Generated on 2025-10-06 09:28:59 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
     - [`🌌_constellation_tracker.md`](Polaris_Nest/Git_Intake_Drawer/🌌_constellation_tracker.md)
     - [`🌐_suppression_of_holocaust_testimony_online.md`](Polaris_Nest/Git_Intake_Drawer/🌐_suppression_of_holocaust_testimony_online.md)
     - [`🌙_my_dreams_are_cages_no_escape.md`](Polaris_Nest/Git_Intake_Drawer/🌙_my_dreams_are_cages_no_escape.md)
