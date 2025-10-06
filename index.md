@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 17:05:36 UTC_
+_Generated on 2025-10-06 17:21:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1212,8 +1212,10 @@ _Generated on 2025-10-06 17:05:36 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Polaris_Nest/Git_Intake_Drawer/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
+    - [`🕳️_exploitability_identifier_translation_weaknesses.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_exploitability_identifier_translation_weaknesses.md)
     - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_node_generation_stalling_2025-10-06.md)
     - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
+    - [`🪣_hidden_data_loop_audit.md`](Polaris_Nest/Git_Intake_Drawer/🪣_hidden_data_loop_audit.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
