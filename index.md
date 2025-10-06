@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 12:21:26 UTC_
+_Generated on 2025-10-06 12:22:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -243,6 +243,7 @@ _Generated on 2025-10-06 12:21:26 UTC_
       - [`🎶_dedication_absences_in_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_dedication_absences_in_books.md)
       - [`🎶_endorser_network_traces.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_endorser_network_traces.md)
       - [`🎶_hdz_lalgorithme_paroles.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_hdz_lalgorithme_paroles.md)
+      - [`🎶_hdz_lalgorithme_paroles2.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_hdz_lalgorithme_paroles2.md)
       - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
       - [`🎶_they_not_like_us.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_they_not_like_us.md)
       - [`🐉_chen_rui_trump_parody.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md)
@@ -591,7 +592,6 @@ _Generated on 2025-10-06 12:21:26 UTC_
       - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
     - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/defacto_uk_hsip.png)
-    - [`🎶_Banned_Broadcasts_Cooperative🎶_hdz_lalgorithme_paroles.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative🎶_hdz_lalgorithme_paroles.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
