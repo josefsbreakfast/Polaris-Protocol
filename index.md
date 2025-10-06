@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-06 08:46:55 UTC_
+_Generated on 2025-10-06 08:47:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1056,7 +1056,6 @@ _Generated on 2025-10-06 08:46:55 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`removed_content_timeline_redacted.png`](Polaris_Nest/Git_Intake_Drawer/removed_content_timeline_redacted.png)
     - [`requiresedits_darvo_vs_prevent.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_darvo_vs_prevent.png)
     - [`requiresedits_defacto_uk_hsip.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_defacto_uk_hsip.png)
     - [`requiresedits_global_crown_stakeholders.png`](Polaris_Nest/Git_Intake_Drawer/requiresedits_global_crown_stakeholders.png)
@@ -1236,6 +1235,7 @@ _Generated on 2025-10-06 08:46:55 UTC_
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Polaris_Nest/SCP-VoiceX_Casefiles/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`polaris_vs_degrees.png`](Polaris_Nest/SCP-VoiceX_Casefiles/polaris_vs_degrees.png)
     - [`probe_response_probability_mapping.png`](Polaris_Nest/SCP-VoiceX_Casefiles/probe_response_probability_mapping.png)
+    - [`removed_content_timeline_redacted.png`](Polaris_Nest/SCP-VoiceX_Casefiles/removed_content_timeline_redacted.png)
     - [`⚖️_cease_desist_2025-08-27.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
     - [`⚖️_hooked_authoritarian_hooks_long_file.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_hooked_authoritarian_hooks_long_file.md)
     - [`⚖️_judge_frankness_marker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md)
