@@ -51,7 +51,7 @@ A functioning underwriting model would:
 - Treat **ethical risk as insurable risk**, not moral noise.  
 - Price premiums according to data-protection and consent compliance.  
 - Incentivise disclosure: the safer and more transparent the project, the cheaper the cover.  
-
+<!--You'd want to see the Cabinet minutes for this one, no? You can see some of the last ten years of tomfoolery signing off on something so ridiculous, no?-->
 ---
 
 ## 🌌 Constellations  
@@ -73,7 +73,7 @@ It outlines how insurance and compliance frameworks must evolve to recognise eth
 
 > 📡 Cross-references:  
 > - [🍯 HoneyBot — A Dual-Use Thought Experiment](./🍯_honeybot_dual_use_thought_experiment.md) — satirical origin case  
-> - [⚖️ Governance and Prevent](../Big_Picture_Protocols/🈺_governance_and_prevent.md) — oversight architecture  
+> - [⚖️ Governance and Prevent] *TBC* — oversight architecture  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
