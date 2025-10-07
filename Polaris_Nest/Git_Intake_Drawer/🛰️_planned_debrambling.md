@@ -24,4 +24,10 @@
 
 - justices safety re exec order judge  
 
+- handover as current statis all pools to ico; tie to moj and failure to disclose, failure victims rights, failure pace x3? x4? (check #), specifically dependancies set-up leaves me to deadlock to challenge any individual piece with repeated "national security" or complex algorithm to any legal firm/solicitor  
+
+- foia cop to rule-out and narrow to ripa/ipa as top differential by exclusion
+
+- this just feels so unprotected and so... nebulous  
+
 2025-10-07  
