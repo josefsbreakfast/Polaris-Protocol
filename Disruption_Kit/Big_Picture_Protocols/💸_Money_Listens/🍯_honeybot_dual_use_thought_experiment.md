@@ -52,7 +52,7 @@ If a university really were building something this provocative, even the most i
 
 And that’s how you end up with a line of very fit, very quiet people guarding a door.  
 Not because the robot is plotting world domination, but because the paperwork already assumes it might.
-<!--I really do feel you should all come clean about this data quandry. I have so many suggestions for imprivement. I'd love to see the boob job, regardless. I have she has fewer spinal and hip instability issues. Rape can be so taxing on a tiny body, no? Esoecially if she "needed" to not have breast tissue, let us say. That would be very interesting indeed. 🐝-->
+<!--I really do feel you should all come clean about this data quandry. I have so many suggestions for improvement. I'd love to see the boob job, regardless. I have she has fewer spinal and hip instability issues. Rape can be so taxing on a tiny body, no? Esoecially if she "needed" to not have breast tissue, let us say. That would be very interesting indeed. 🐝-->
 ---
 
 ## 🌌 Constellations  
