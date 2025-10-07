@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-07 15:14:56 UTC_
+_Generated on 2025-10-07 15:18:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -573,6 +573,8 @@ _Generated on 2025-10-07 15:14:56 UTC_
       - [`🧿_diaspora_disclosure_tactics.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)
     - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/)
       - [**🍉_Palestine/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/)
+        - [**🪨_May_Their_Names_Never_Be_Erased/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/README.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md)
       - [`🌐_suppression_of_holocaust_testimony_online.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
