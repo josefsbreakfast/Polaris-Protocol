@@ -28,6 +28,16 @@
 
 - foia cop to rule-out and narrow to ripa/ipa as top differential by exclusion
 
-- this just feels so unprotected and so... nebulous  
+- this just feels so unprotected and so... nebulous
+
+- periodic table and updates re applebaum
+
+- ?sys rev audits of internet pre and post 2023 and inaug
+
+- ?move away from .com any benefit
+
+- performance during surveillance (constantly on show, no part of breathing is not potential data even if 99% time its not going on, lack of certainty as ptsd/anx process), inc difficulty of seperating existent beuroc as well as what is surv vs what is just "stuff happens"  
+
+- nudged work to add: project 2025, esther, japan scholarship (im just going to go and be yubaba fr now), interference 2018 - 2022 as ? discredit effort? hard to understand what gives here (if anything or coincidental), anything touching data/microniching/trauma/substances work in comm setting, ukhsa (now understood as internet misuse with new knowledge), grey zone uol 2010/2020, 
 
 2025-10-07  
