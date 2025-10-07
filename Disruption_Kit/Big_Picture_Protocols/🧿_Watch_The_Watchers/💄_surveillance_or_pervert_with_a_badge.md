@@ -1,6 +1,6 @@
 # 💄 Let's Play!: Surveillance or Pervert-with-a-Badge?  
-**First created:** 2025-08-28 | **Last updated:** 2025-10-03  
-*A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is*  
+**First created:** 2025-08-28 | **Last updated:** 2025-10-07  
+*A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is!*  
 
 ---
 
@@ -12,16 +12,18 @@ The rules are simple:
 - Ask: is this serious spycraft… or just a pervert with a badge?  
 
 The props are always the same — chalk marks, rations, rolls, fingerprints, lipstick-stained cigarettes.  
+
 Badge on = “intelligence method.”  
+
 Badge off = stalking, fetish, hoax, or serial killer behaviour.  
 
 ---
 
 ### 🪄 How to Play  
 
-1. Read the artefact in the table below.  
-2. Imagine it *with a badge*: spy thriller, state security, counter-intel.  
-3. Imagine it *without a badge*: stalker, voyeur, creepy neighbour, or serial killer.  
+1. Read the artefact in the table below.
+2. Imagine it *with a badge*: spy thriller, state security, counter-intel.
+3. Imagine it *without a badge*: stalker, voyeur, creepy neighbour, or serial killer.
 4. Spot how thin the line really is.  
 
 ---
@@ -171,4 +173,4 @@ The badge is the only thing separating “national security” from stalking —
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-07_
