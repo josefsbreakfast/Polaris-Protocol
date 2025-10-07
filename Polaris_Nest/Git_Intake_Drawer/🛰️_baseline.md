@@ -19,4 +19,18 @@ Containment is never neutral — and neither is silence.
 
 2025-10-07
 
-living the dream.
+living the dream.  
+
+also...
+
+weaponising dopamine?  
+
+shatterfork territory.  
+
+which means...
+
+something good, very good, is likely right round the corner.  
+
+why else indice suicidality?  
+
+esp if already test run 🤷‍♀️
