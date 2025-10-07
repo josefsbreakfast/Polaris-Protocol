@@ -4,13 +4,13 @@
 
 ---
 
-## 🎭 Overview
+## ✨ Overview
 The *Sonata* episode—where a contractor erased data from a UK Special Forces communications server during a live Royal Military Police investigation—has become a case study in what happens when **contracted control meets forensic fragility**.  
 The act itself may have been procedural error or deliberate obstruction; either way it revealed deep weaknesses in how digital evidence and external personnel are governed during military or security investigations.
 
 ---
 
-## 🧩 Anatomy of the Failure
+## 🧬 Anatomy of the Failure
 - **Year:** 2016  
 - **System:** “Sonata”, an internal UKSF communications and operations server.  
 - **Action:** Contractor executed a secure-erase utility (*SDelete*) during data migration, permanently wiping deleted files.  
@@ -22,7 +22,7 @@ No cyber-attack was alleged; the deletion was an internal act that broke the for
 
 ---
 
-## ⚙️ Structural Vulnerabilities Exposed
+## 🦠 Structural Vulnerabilities Exposed
 1. **Contractual asymmetry** – civilian technicians bound by service contracts, not by military discipline or the Armed Forces Act.  
 2. **Weak preservation protocols** – no dual-authorisation before destructive commands; absence of independent logging.  
 3. **Informal decision-making** – “gentleman’s agreements” in place of formal seizure orders left investigators powerless.  
@@ -31,7 +31,7 @@ No cyber-attack was alleged; the deletion was an internal act that broke the for
 
 ---
 
-## 🧭 Remodel Framework — Future Safety by Design
+## 🧄 Remodel Framework — Future Safety by Design
 | Domain | Vulnerability | Remodel / Preventive Measure |
 |---|---|---|
 | **Governance** | Lack of binding preservation orders for contractors | Mandatory *Digital Evidence Preservation Clause* in all defence IT contracts. |
@@ -43,7 +43,7 @@ No cyber-attack was alleged; the deletion was an internal act that broke the for
 
 ---
 
-## 🧮 Governance Safeguards — Implementation Steps
+## 🪬 Governance Safeguards — Implementation Steps
 1. **Statutory chain-of-custody standard** for all government-related digital evidence.  
 2. **External forensic audit** after every MOD data-handling breach.  
 3. **Automatic notification** to inquiry teams of any proposed data migration involving relevant evidence.  
@@ -54,7 +54,7 @@ No cyber-attack was alleged; the deletion was an internal act that broke the for
 
 ---
 
-## 💥 Institutional Insecurity and Coercive Display
+## 🦚 Institutional Insecurity and Coercive Display
 
 ### Why it happens
 When whistleblowing or public scrutiny touches elite or secretive institutions, control and honour become psychological currencies.  
@@ -79,7 +79,7 @@ Whistleblowers in these systems require not only statutory protection but **psyc
 - parliamentary or ministerial oversight to ensure retaliation is documented and sanctioned.  
 
 Protecting the individual protects the evidence.  Without it, wounded pride can erase the proof reform depends on.
-
+<!--My sympathies to *Bargain Bin Mossad*.-->
 ---
 
 ## 🌌 Constellations
