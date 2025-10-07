@@ -34,3 +34,6 @@ something good, very good, is likely right round the corner.
 why else indice suicidality?  
 
 esp if already test run 🤷‍♀️
+
+
+didnt take long, back to active interference 22:40  
