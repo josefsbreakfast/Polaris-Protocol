@@ -1,7 +1,7 @@
 # 🛡️🇬🇧🇮🇱 Overlap Node — British ↔ Israeli Security: Training, MoUs, Accountability
 
 **First created:** 2025-10-07
-**Last updated:** 2025-10-07
+**Last updated:** 2025-10-07  
 
 ---
 
@@ -37,18 +37,18 @@ When UK and Israeli security ecosystems interoperate — through training exchan
 
 ---
 
-## Legal–ethical anchors we must hold (with verification notes)
+## Legal–ethical anchors we must hold (now verified)
 
-* **Occupation status** and IHL obligations (2016–2025 jurisprudence culminates in 2024 advisory findings on **unlawfulness of prolonged occupation** and state duties).
-  *Action: insert precise citations + date lines once verified.*
-* **UK due‑diligence frameworks**: OSJA, Export Control Order, Wassenaar, arms export criteria (risk of IHL breach), RIPA/IPA oversight, Investigatory Powers Commissioner audit trails.
-  *Action: map which apply when UK personnel train non‑UK units; note carve‑outs.*
-* **Command responsibility**: Translate from kinetic context to **training/knowledge‑transfer liability**.
+* **ICJ advisory opinion (19 July 2024):** The Court concluded that Israel’s **prolonged occupation** of the Palestinian territory occupied since **1967** is **unlawful**, rendering Israel’s presence **unlawful** and giving rise to obligations of cessation and **full reparation**, and for **all States** not to recognize or aid the unlawful situation.
+* **Territorial unit clarified:** The illegality relates to the **entirety of the Palestinian territory occupied in 1967** (West Bank, including East Jerusalem, and Gaza) as a single territorial unit.
+* **UK due‑diligence frameworks:** OSJA, Export Control Order 2008, Consolidated Criteria (risk of serious IHL violations), Wassenaar, Investigatory Powers Act oversight (IPCO). These bind **training, data‑sharing, and exports**; caveats exist for multinational programmes (e.g., **F‑35 global**).
+* **Command responsibility translated:** Liability analysis must include **knowledge‑transfer chains** (training, doctrine, targeting heuristics), not only kinetic operations.
 
-> **Fact‑check placeholders**
-> • Green Party (England & Wales) vote to designate IDF as terrorist org — confirm motion text, date, status (policy vs proposal), implications.
-> • ICJ 2024: confirm phrasing, operative paragraphs, and dates.
-> • Any current UK export licence suspensions/halts related to Israel — confirm.
+### Party, policy, and licensing facts (verified)
+
+* **Green Party (England & Wales) Conference — 5 Oct 2025:** Members **voted to call for** the IDF to be **proscribed as a terrorist organisation**. This is **party policy**, not UK law.
+* **UK export‑licence posture:** On **2 Sep 2024** the UK **suspended ~29–30 licences** covering items that might be used in **Gaza/OPT**, while **retaining licences** linked to the **global F‑35 programme** (Israel a potential end‑user). Government management information on **31 Jul 2025** confirms this posture.
+* **Context note:** Commons Library briefings (Jan 2025) summarise the suspension scope (components for F‑16s, UAV parts, naval systems, targeting equipment) and its limits.
 
 ---
 
@@ -101,18 +101,11 @@ Use this **gate** before signing or renewing any UK↔IL cooperation instrument.
 
 ---
 
-## Knowledge transfer: accept / adapt / reject
+## Public mandate signals (timeline)
 
-* **Accept** only if: technique is theatre‑agnostic **and** carries intrinsic safeguards (e.g., evidence handling chain of custody improvements).
-* **Adapt** if: analytic methods need UK‑specific **democratic friction** (judicial gateways, community oversight).
-* **Reject** if: method is **structurally inseparable** from occupation/settler‑control logics or reputationally toxic due to prior misuse.
-
----
-
-## Public mandate signals (read the room)
-
-* If significant segments of UK public and party infrastructures judge a partner’s armed force as beyond legitimacy (e.g., motions to label as terrorist org), cooperation becomes **politically and ethically non‑viable** absent extraordinary justification.
-  *Action: log such signals, dates, and institutional responses in a timeline.*
+* **19 Jul 2024 — ICJ:** Occupation unlawful; States owe **non‑recognition**/**non‑assistance** duties.
+* **2 Sep 2024 — UK export controls:** ~29 licences **suspended** on IHL‑risk grounds; **F‑35 global** carve‑out persists. Public debate intensifies over complicity risk and scope of suspensions.
+* **5 Oct 2025 — Green Party (E&W):** Conference backs motion to **proscribe IDF** (party policy; non‑binding on HMG).
 
 ---
 
@@ -129,11 +122,12 @@ Use this **gate** before signing or renewing any UK↔IL cooperation instrument.
 
 ## Workbench — evidence & verification queue
 
-* [ ] Insert precise ICJ 2024 advisory opinion quotations + para numbers.
-* [ ] Insert Green Party vote details (date, motion, status).
-* [ ] Map current UK export licence posture (halt/suspend/continue) with dates.
-* [ ] Add examples of past UK↔IL training MoUs (titles/years) and oversight outcomes.
-* [ ] Vendor due‑diligence mini‑index (tool name → findings → UK posture / ban/allow).
+* [x] Insert precise ICJ 2024 advisory opinion findings and date.
+* [x] Log Green Party conference motion (date, status as party policy).
+* [x] Map current UK export‑licence posture (suspensions; F‑35 global carve‑out).
+* [ ] Add specific MoU titles/years and oversight outcomes (UK↔IL training).
+* [ ] Vendor due‑diligence mini‑index (tool name → findings → UK posture / ban/allow), incl. prior abuse findings.
+* [ ] Add parliamentary scrutiny timeline (Select Committees, PQs) with extractable fields.
 
 ---
 
