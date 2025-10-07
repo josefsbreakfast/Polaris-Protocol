@@ -40,6 +40,8 @@
 
 - nudged work to add: project 2025, esther, japan scholarship (im just going to go and be yubaba fr now), interference 2018 - 2022 as ? discredit effort? hard to understand what gives here (if anything or coincidental), anything touching data/microniching/trauma/substances work in comm setting, ukhsa (now understood as internet misuse with new knowledge), grey zone uol 2010/2020, the regulations of deployment for who looked like they were the "security" at universities in 2024 (again with the lack of subtlety).  
 
-- 12:42 device-to-device  
+- 12:42 device-to-device
+
+- sig device level and internet interference inc disconnects and failures. touched a nerve, much. apparantly more sensitive to dial ise than to covert mil deployment standards, which we could have prevent-ed, as a question, by not having tiered response on those lines.  
 
 2025-10-07  
