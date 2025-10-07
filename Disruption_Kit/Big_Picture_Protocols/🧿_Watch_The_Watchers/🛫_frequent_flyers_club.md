@@ -1,5 +1,5 @@
 # 🛫 Frequent Flyers Club  
-**First created:** 2025-09-28 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-28 | **Last updated:** 2025-10-07  
 *Individuals repeatedly caught in overlapping surveillance loops*
 
 ---
@@ -31,7 +31,7 @@ The effect is a life lived under constant re-verification, with no single decisi
 
 ---
 
-## 🧰 Counter-Nudges  
+## 🐦‍🔥 Counter-Nudges  
 
 - **File your own log** — keep a dated record of every contact, letter, and alert.  
 - **Pattern discovery** — look for repeated contractors or reference numbers across seemingly unrelated incidents.  
@@ -61,4 +61,4 @@ It documents the structural reasons why some individuals are permanently recycle
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-07_
