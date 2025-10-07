@@ -41,8 +41,8 @@ It maps how minority communities can survive hostile alignments by repositioning
 
 > 📡 Cross-references:  
 > - [⚖️ Navigating Elder Spaces for Transparency](./⚖️_navigating_elder_spaces_for_transparency.md)  
-> - [🧿 Watch The Watchers](../Big_Picture_Protocols/🧿_watch_the_watchers.md)  
+> - [🧿 Watch The Watchers](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-07_
