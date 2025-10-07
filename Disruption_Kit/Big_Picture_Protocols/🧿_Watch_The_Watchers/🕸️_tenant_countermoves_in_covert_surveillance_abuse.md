@@ -92,9 +92,9 @@ tenant remedies, rent increase, pay under protest, injunction, harassment, surve
 It documents survival strategies for tenants where surveillance interference distorts tenancy relationships and rent demands, situating rent manipulation as a coercive governance practice.  
 
 > 📡 Cross-references:  
-> - [⚖️ Landlord Remedies for Covert Surveillance Abuse](../Big_Picture_Protocols/⚖️_landlord_remedies_for_covert_surveillance_abuse.md) — landlord-side civil and tort claims  
-> - [🧿 Watch the Watchers](../Big_Picture_Protocols/🧿_watch_the_watchers) — oversight of surveillance oversight  
-> - [📜 Statutes](../Big_Picture_Protocols/📜_statutes) — housing, harassment, and surveillance law  
+> - [⚖️ Landlord Remedies for Covert Surveillance Abuse](./⚖️_landlord_remedies_for_covert_surveillance_abuse.md) — landlord-side civil and tort claims  
+> - [🧿 Watch the Watchers](./README.md) — oversight of surveillance oversight  
+> - [📜 Statutes](../Big_Picture_Protocols/📜_Statutes/README.md) — housing, harassment, and surveillance law  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
