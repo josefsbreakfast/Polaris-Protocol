@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-07 14:24:48 UTC_
+_Generated on 2025-10-07 15:14:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -572,6 +572,8 @@ _Generated on 2025-10-07 14:24:48 UTC_
       - [`🧠_why_are_we_threatened_by_complexity.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🧠_why_are_we_threatened_by_complexity.md)
       - [`🧿_diaspora_disclosure_tactics.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)
     - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/)
+      - [**🍉_Palestine/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md)
       - [`🌐_suppression_of_holocaust_testimony_online.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
       - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
