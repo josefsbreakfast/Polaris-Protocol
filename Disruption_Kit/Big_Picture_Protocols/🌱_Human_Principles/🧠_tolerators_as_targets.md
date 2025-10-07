@@ -85,9 +85,9 @@ tolerators, epistemic threat, silencing, stress-intolerance, classification, cro
 *Tolerators as Targets* is a living Polaris node. It records the dynamics by which epistemic plurality becomes a liability under conditions of mass violence, and maps both early-warning signs and prevention levers.  
 
 > 📡 Cross-references:  
-> - [🫀 Genocide by Containment](../Big_Picture_Protocols/🫀_genocide_by_containment.md)  
-> - [⚖️ Containment as Threshold Crime](../Big_Picture_Protocols/⚖️_containment_as_threshold_crime.md)  
-> - [🌀 System Governance](../Big_Picture_Protocols/🌀_system_governance/)  
+> - [🫀 Genocide by Containment](../🌀_System_Governance/🫀_genocide_by_containment.md)  
+> - [⚖️ Containment as Threshold Crime](../🌀_System_Governance/⚖️_containment_as_threshold_crime.md)  
+> - [🌀 System Governance](../Big_Picture_Protocols/🌀_System_Governance/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
