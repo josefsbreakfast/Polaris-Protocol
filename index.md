@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-07 09:41:03 UTC_
+_Generated on 2025-10-07 09:44:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -559,6 +559,7 @@ _Generated on 2025-10-07 09:41:03 UTC_
       - [`polaris_signal_map.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/polaris_signal_map.png)
       - [`pressure_map_local_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/pressure_map_local_redacted.png)
       - [`suspect_interaction_flowchart_loop_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/suspect_interaction_flowchart_loop_redacted.png)
+      - [`⚖️_containment_as_threshold_crime.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_containment_as_threshold_crime.md)
       - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
       - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
