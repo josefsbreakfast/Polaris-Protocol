@@ -42,6 +42,7 @@
 
 - 12:42 device-to-device
 
-- sig device level and internet interference inc disconnects and failures. touched a nerve, much. apparantly more sensitive to dial ise than to covert mil deployment standards, which we could have prevent-ed, as a question, by not having tiered response on those lines.  
+- sig device level and internet interference inc disconnects and failures. touched a nerve, much. apparantly more sensitive to dial ise than to covert mil deployment standards, which we could have prevent-ed, as a question, by not having tiered response on those lines.
+<!--Im going to need immediate resolution to stop for even a momemt.-->
 
 2025-10-07  
