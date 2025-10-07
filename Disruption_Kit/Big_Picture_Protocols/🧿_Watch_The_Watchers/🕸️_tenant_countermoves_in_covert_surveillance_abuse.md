@@ -94,7 +94,7 @@ It documents survival strategies for tenants where surveillance interference dis
 > 📡 Cross-references:  
 > - [⚖️ Landlord Remedies for Covert Surveillance Abuse](./⚖️_landlord_remedies_for_covert_surveillance_abuse.md) — landlord-side civil and tort claims  
 > - [🧿 Watch the Watchers](./README.md) — oversight of surveillance oversight  
-> - [📜 Statutes](../Big_Picture_Protocols/📜_Statutes/README.md) — housing, harassment, and surveillance law  
+> - [📜 Statutes](../📜_Statutes/README.md) — housing, harassment, and surveillance law  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
