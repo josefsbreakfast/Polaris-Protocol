@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-07 21:10:54 UTC_
+_Generated on 2025-10-07 21:16:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -570,6 +570,7 @@ _Generated on 2025-10-07 21:10:54 UTC_
       - [`⚖️_containment_as_threshold_crime.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_containment_as_threshold_crime.md)
       - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
+      - [`📲_dopamine_grooming_and_self_regulation.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📲_dopamine_grooming_and_self_regulation.md)
       - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
       - [`🕸️_tenant_countermoves_in_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🕸️_tenant_countermoves_in_covert_surveillance_abuse.md)
       - [`🛫_frequent_flyers_club.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🛫_frequent_flyers_club.md)
