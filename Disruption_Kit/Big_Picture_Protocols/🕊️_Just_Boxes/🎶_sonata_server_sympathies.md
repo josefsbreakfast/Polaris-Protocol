@@ -99,6 +99,7 @@ It captures how a single act of deletion exposed systemic weaknesses between sec
 >📡 Cross-linkages:  
 >
 > - [🧠 Bargain Bin Mossad](../🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
+> - [🪐 Where The Fuck Am I?](../../../Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
 
 *Survivor authorship is sovereign; containment is never neutral.*  
 _Last updated 2025-10-07_
