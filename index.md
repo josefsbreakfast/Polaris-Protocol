@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-07 17:08:51 UTC_
+_Generated on 2025-10-07 18:47:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1247,6 +1247,7 @@ _Generated on 2025-10-07 17:08:51 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
+    - [`🛡️🇬🇧🇮🇱_overlap_accountability.md🛡️🇬🇧🇮🇱_overlap_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🛡️🇬🇧🇮🇱_overlap_accountability.md🛡️🇬🇧🇮🇱_overlap_accountability.md)
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
