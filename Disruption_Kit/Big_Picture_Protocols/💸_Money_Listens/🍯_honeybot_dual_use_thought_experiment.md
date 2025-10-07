@@ -9,7 +9,7 @@
 🐝 **HoneyBot™ — Emotional Intelligence Meets National Security**  
 - **Problem:** lonely consumers, violent offenders, and overstretched trauma services all need “safe interfaces.”  <!--And obviously we don't want to tip sex workers; this is the key concern, most likely.-->
 - **Solution:** an intimate-companion robot that doubles as a behavioural-data honeypot and health-sensor platform.  <!--"Health", but we can't possibly research endo.-->
-- **Market:** sex-tech × therapeutic remediation × forensic analytics = triple-synergy.  <!--We're market it with "triple threat" language. My surveillance lads did like that phrase for some reason.-->
+- **Market:** sex-tech × therapeutic remediation × forensic analytics = triple-synergy.  <!--We'll market it with "triple threat" language. My surveillance lads did like that phrase for some reason.-->
 - **Traction:** prototype tested in controlled simulations; high user “dwell time.”  <!--"Controlled". Quite.-->
 - **Business Model:** hardware sale, subscription analytics, “rehabilitation licences.”  <!--You do need a license to speak to me, let alone sleep with me, right now. So this works, I feel.-->
 - **Ethics Strategy:** *“consent by design,”* optional IRB oversight, encrypted data vaults.  <!--Ethics, smethics, amirite?!-->
