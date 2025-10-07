@@ -1,5 +1,5 @@
 # 🛰️ Overlapping Surveillance Layers  
-**First created:** 2025-09-28 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-28 | **Last updated:** 2025-10-07  
 *How commercial and state surveillance can run in parallel and feel like one operation*
 
 ---
@@ -159,4 +159,4 @@ It documents how separate state and commercial operations can blend into one per
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-07_
