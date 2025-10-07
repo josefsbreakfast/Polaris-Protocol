@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-07 09:44:43 UTC_
+_Generated on 2025-10-07 10:22:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -148,6 +148,7 @@ _Generated on 2025-10-07 09:44:43 UTC_
       - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
       - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_intuition_as_skill.md)
       - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
+      - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_tolerators_as_targets.md)
       - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🪞_on_human_impulse.md)
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
       - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/)
