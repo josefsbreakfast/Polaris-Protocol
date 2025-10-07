@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-07 15:18:46 UTC_
+_Generated on 2025-10-07 15:19:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -575,6 +575,9 @@ _Generated on 2025-10-07 15:18:46 UTC_
       - [**🍉_Palestine/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/)
         - [**🪨_May_Their_Names_Never_Be_Erased/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/README.md)
+          - [`T4P-KiG-Names-2025-07-31-full.csv`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/T4P-KiG-Names-2025-07-31-full.csv)
+          - [`killed-in-gaza 1.csv`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/killed-in-gaza 1.csv)
+          - [`killed-in-gaza.min.json`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/killed-in-gaza.min.json)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md)
       - [`🌐_suppression_of_holocaust_testimony_online.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
