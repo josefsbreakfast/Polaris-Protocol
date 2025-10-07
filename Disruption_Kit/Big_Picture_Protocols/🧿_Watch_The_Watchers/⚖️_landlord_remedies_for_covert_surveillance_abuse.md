@@ -1,10 +1,10 @@
 # ⚖️ Landlord Remedies for Covert Surveillance Abuse  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-07  
 *Civil and tortious claims available when tenants covertly convert property into a surveillance hub*  
 
 ---
 
-## 🌱 Scope  
+## 🛰️ Scope  
 
 When a home is covertly converted into a surveillance hub, the landlord is not a bystander — they are drafted into risk.  
 Reputation, regulation, and professional standing become collateral damage.  
@@ -17,29 +17,29 @@ This node maps the remedies available to a landlord–solicitor who discovers th
 
 ---
 
-## 🧾 Heads of Claim  
+## 💸 Heads of Claim  
 
-### 1. Business Interruption & Reputation  
+### 👥 1. Business Interruption & Reputation  
 - **Loss of professional standing**: association with covert surveillance undermines credibility.  
 - **Lost clients & contracts**: economic damage traceable to reputational harm.  
 - **Defamation / negligence link**: caselaw supports recovery of economic damages tied to reputational injury.  
 
-### 2. Property & Contractual Breach  
+### 🏚️ 2. Property & Contractual Breach  
 - Breach of lease covenant (residential use only).  
 - Fraudulent misrepresentation at tenancy outset.  
 - Trespass & nuisance: drilling works, biohazards, interference with structure.  
 - Claim for reinstatement + loss of amenity.  
 
-### 3. Harassment & Distress  
+### 🪰 3. Harassment & Distress  
 - Civil action under Protection from Harassment Act 1997.  
-- Aggravated damages for deliberate, sexualised conduct.  
+- Aggravated damages for deliberate, sexualised conduct, and introduction of pest or invasive species, for example.  
 
-### 4. Economic Torts  
+### 💷 4. Economic Torts  
 - **Unlawful means conspiracy**: covert actors collaborating to cause loss.  
 - **Unlawful interference** with landlord–tenant contract.  
 - **Deceit / negligent misstatement**: false pretence of residential use.  
 
-### 5. Professional Standing / Client Loss  
+### ‼️ 5. Professional Standing / Client Loss  
 - Breach of confidentiality if landlord’s legal records accessed.  
 - Loss of client trust = quantifiable business damages.  
 - Costs of regulatory remediation (SRA exposure) recoverable.  
@@ -122,4 +122,4 @@ It documents the civil, tortious, and regulatory claims available when landlords
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-07_
