@@ -95,5 +95,10 @@ Sonata server; digital evidence; forensic integrity; contractor oversight; whist
 ## 🏮 Footer
 *Sonata Server Sympathies* is a living governance node within the Polaris Protocol.  
 It captures how a single act of deletion exposed systemic weaknesses between secrecy and oversight—and how those systems can be re-scored for integrity.  
+
+>📡 Cross-linkages:  
+>
+> - [🧠 Bargain Bin Mossad](../🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
+
 *Survivor authorship is sovereign; containment is never neutral.*  
 _Last updated 2025-10-07_
