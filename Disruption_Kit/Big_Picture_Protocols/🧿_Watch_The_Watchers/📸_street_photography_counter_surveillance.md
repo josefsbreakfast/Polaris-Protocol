@@ -1,5 +1,5 @@
 # 📸 History of Street Photography as Counter-Surveillance  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-07  
 *Moments where the camera was turned back on the secret policeman, shifting street photography into survival and resistance*  
 
 ---
@@ -7,9 +7,10 @@
 ## 🧿 Orientation  
 
 Street photography has not always been about art or “the decisive moment.”  
+
 Sometimes it became a weapon — a way of watching the watchers.  
 
-The gaze of the secret policeman is as much literary as political.  
+**The gaze of the secret policeman is as much literary as political.**  
 Tolkien’s *Eye of Sauron* prefigures Foucault’s panopticon — an all-seeing force disciplining by anticipation.  
 John le Carré’s *Tinker, Tailor, Soldier, Spy* shows the opposite end of the spectrum: surveillance as boredom, schoolboy ritual, and institutional inertia.  
 
@@ -19,63 +20,63 @@ Across different contexts, photographing secret police or covert agents carried 
 
 ## ✨ Case Trajectories  
 
-### **Eastern Bloc (1940s–80s)**  
+### 📸 **Eastern Bloc (1940s–80s)**  
 - **Goal:** Preserve evidence for the future.  
 - **Dynamic:** Dissidents and underground artists quietly documented *Stasi* and militia surveillance.  
 - **Logic:** Cameras made state power visible, archivable, nameable.  
 
 ---
 
-### **Latin America Dictatorships (1970s–80s)**  
+### 🎞️ **Latin America Dictatorships (1970s–80s)**  
 - **Goal:** Map survival networks.  
 - **Dynamic:** Families and activists photographed suspected plainclothes agents.  
 - **Logic:** Building files to identify perpetrators of disappearances; camera as counter-intelligence.  
 
 ---
 
-### **South Africa (1960s–90s)**  
+### 🇿🇦 **South Africa (1960s–90s)**  
 - **Goal:** International witness.  
 - **Dynamic:** Township photographers captured security police at protests and funerals.  
 - **Logic:** Images travelled abroad, legitimising the anti-apartheid struggle.  
 
 ---
 
-### **Northern Ireland (Troubles, 1970s–90s)**  
+### 🍀 **Northern Ireland (Troubles, 1970s–90s)**  
 - **Goal:** Exposure & deterrence.  
 - **Dynamic:** Local photographers caught plainclothes operatives at marches.  
 - **Logic:** Breaking cover in tightly watched communities disrupted surveillance effectiveness.  
 
 ---
 
-### **United States (Civil Rights & Black Panthers, 1960s–70s)**  
+### 🇺🇸 **United States (Civil Rights & Black Panthers, 1960s–70s)**  
 - **Goal:** Challenge official narratives.  
 - **Dynamic:** SNCC photographers and Panther newspapers documented FBI and police harassment.  
 - **Logic:** Cameras countered discrediting, making repression undeniable.  
 
 ---
 
-### **Palestine / Israel (2000s–present)**  
+### 🇵🇸-🇮🇱 **Palestine / Israel (2000s–present)**  
 - **Goal:** Protective witness.  
 - **Dynamic:** Citizens and NGOs filmed IDF incursions, settler violence, undercover units.  
 - **Logic:** Video and photo evidence fed both global solidarity and local risk, where filming itself invited attack.  
 
 ---
 
-### **Egypt (Arab Spring, 2011)**  
+### 🇪🇬 **Egypt (Arab Spring, 2011)**  
 - **Goal:** Name the infiltrators.  
 - **Dynamic:** Protestors photographed and uploaded images of plainclothes “baltagiya” agents.  
 - **Logic:** Exposure disrupted infiltration; archives testified to collusion.  
 
 ---
 
-### **Iran (2022–23 protests)**  
+### 🇮🇷 **Iran (2022–23 protests)**  
 - **Goal:** Smuggle truth out.  
 - **Dynamic:** Protestors risked arrest by filming Basij militia and police violence.  
 - **Logic:** Images carried through VPNs and encrypted messengers; counter-surveillance as lifeline.  
 
 ---
 
-### **Hong Kong (2019–20)**  
+### 🇭🇰 **Hong Kong (2019–20)**  
 - **Goal:** Real-time tactical warning.  
 - **Dynamic:** Protest photographers shared images of suspected undercover officers via encrypted apps.  
 - **Logic:** Photography became live protection, alerting others not to trust or approach.  
@@ -102,7 +103,7 @@ Across different contexts, photographing secret police or covert agents carried 
 
 ---
 
-## 🔑 Cross-Cutting Goals  
+## 🐝 Cross-Cutting Goals  
 
 - **Evidence:** For courts, history, or future testimony.  
 - **Survival:** Knowing who followed you, and who disappeared others.  
@@ -112,7 +113,7 @@ Across different contexts, photographing secret police or covert agents carried 
 
 ---
 
-## 📊 Visual Schema  
+## 🪩 Visual Schema  
 
 Street photography, when turned against secret police, branched into strategic goals.  
 Each goal carried distinct logics and contexts:  
@@ -158,4 +159,4 @@ It traces how cameras have been used to turn surveillance inside-out, across geo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-10-07_  
