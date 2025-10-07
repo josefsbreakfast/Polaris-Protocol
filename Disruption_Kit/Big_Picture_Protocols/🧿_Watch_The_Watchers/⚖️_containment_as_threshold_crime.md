@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node examines how administrative containment — justified through welfare, border, or counter-terror frameworks — can cross into the terrain of **crimes against humanity** or **genocide**, even when no actor ever speaks those words aloud.  
 It builds on *🫀 Genocide by Containment*, asking the next necessary academic question:  
 
@@ -45,7 +45,7 @@ Where the outcome is repeatedly known, deliberate inaction becomes indistinguish
 
 ---
 
-## 🧩 Academic Questioning  
+## 🎓 Academic Questioning  
 
 To study this terrain is not to sensationalise it — it is to record it faithfully.  
 Every genocide archive begins with evidence that was once “not yet proven.”  
