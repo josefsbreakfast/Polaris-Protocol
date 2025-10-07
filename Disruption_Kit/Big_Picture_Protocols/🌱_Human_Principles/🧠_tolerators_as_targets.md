@@ -86,8 +86,8 @@ tolerators, epistemic threat, silencing, stress-intolerance, classification, cro
 
 > 📡 Cross-references:  
 > - [🫀 Genocide by Containment](../🌀_System_Governance/🫀_genocide_by_containment.md)  
-> - [⚖️ Containment as Threshold Crime](../🌀_System_Governance/⚖️_containment_as_threshold_crime.md)  
-> - [🌀 System Governance](../Big_Picture_Protocols/🌀_System_Governance/README.md)  
+> - [⚖️ Containment as Threshold Crime](../🧿_Watching_The_Watchers/⚖️_containment_as_threshold_crime.md)  
+> - [🌀 System Governance](../🌀_System_Governance/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
