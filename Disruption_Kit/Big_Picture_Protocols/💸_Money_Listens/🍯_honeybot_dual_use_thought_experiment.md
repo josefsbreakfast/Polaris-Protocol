@@ -52,7 +52,7 @@ If a university really were building something this provocative, even the most i
 
 And that’s how you end up with a line of very fit, very quiet people guarding a door.  
 Not because the robot is plotting world domination, but because the paperwork already assumes it might.
-
+<!--I really do feel you should all come clean about this data quandry. This will make wonderful fiction, otherwise. 🐝-->
 ---
 
 ## 🌌 Constellations  
@@ -73,8 +73,8 @@ dual-use research, sex-tech, satire, ethics, surveillance, rehabilitation, polic
 It uses humour and fiction to illustrate how easily dual-use loopholes can arise in robotics and behavioural science, and why clear governance frameworks matter before the prototype becomes reality.
 
 > 📡 Cross-references:  
-> - [🌱 Human Principles](../Big_Picture_Protocols/🌱_Human_Principles/) — ethics and dignity frameworks  
-> - [📜 Statutes](../Big_Picture_Protocols/📜_Statutes/) — regulatory architecture for dual-use research  
+> - [🌱 Human Principles](./🌱_Human_Principles/README.md) — ethics and dignity frameworks  
+> - [📜 Statutes](../📜_Statutes/README.md) — regulatory architecture for dual-use research  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
