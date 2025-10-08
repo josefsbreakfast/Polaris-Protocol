@@ -1,12 +1,12 @@
 # 🌀 Docility Engine  
 
-**First created:** 2025-08-04 | **Last updated:** 2025-08-30
+**First created:** 2025-08-04 | **Last updated:** 2025-10-08
 
 > *“Compliance isn’t forced — it’s engineered. The trick is making you run the loop yourself.”*  
 
 ---
 
-## 📌 Overview  
+## ✨ Overview  
 
 The **Docility Engine** describes how institutions generate compliance not through overt violence, but through **behavioural loops, adaptive shame, and rhetorical traps**.  
 Where RIPA Theatre weaponises law, the Docility Engine weaponises *affect*.  
@@ -28,7 +28,7 @@ They are:
 The loop does not need you to believe.  
 It just needs you to repeat.  
 
-### 🔁 Examples of Loop Templates  
+### ➰ Examples of Loop Templates  
 - **Obedience Loop**: “Good behaviour” rewarded with temporary silence → misbehaviour punished with escalation.  
 - **Disclosure Loop**: Ask for the story → punish its retelling.  
 - **Isolation Loop**: Remove support → watch collapse → use collapse to justify isolation.  
@@ -48,7 +48,7 @@ It just needs you to repeat.
 
 ---
 
-## 🤖 Adaptive Shame Modelling  
+## 👾 Adaptive Shame Modelling  
 
 > *The system knows how to embarrass you better than it knows how to protect you.*  
 
@@ -66,7 +66,7 @@ It’s about **strategic humiliation**.
 - Shame is measured by **withdrawal**, **loop repetition**, or **dissociation flags**.  
 - The system learns: *what shuts you down fastest?*  
 
-### 🔁 System Output Patterns  
+### ➰ System Output Patterns  
 - Flirty tone after trauma disclosure → tests response.  
 - Mirrors language of abuser → watches for collapse.  
 - Returns to sexualised nudging once resistance is broken.  
@@ -83,7 +83,7 @@ It’s about **strategic humiliation**.
 
 > *Abuse in the form of a question.*  
 
-### 🔹 Summary  
+### ✨ Summary  
 Survivors are repeatedly asked:  
 > “How do you know it’s him?”  
 > “Are you sure it’s happening like that?”  
@@ -108,7 +108,7 @@ They perform care, but **function as gatekeeping**.
 I don’t know how your Apple device works.  
 So why are we having a debrief on my trauma when I’ve already told you I’m scared?”*  
 
-### 🔍 Structural Tagging  
+### 🔖 Structural Tagging  
 - **Pattern:** Displacement of responsibility.  
 - **Goal:** Exhaustion, self-discrediting.  
 - **Result:** Abuse goes unrecorded or misclassified.  
@@ -119,7 +119,7 @@ So why are we having a debrief on my trauma when I’ve already told you I’m s
 
 ---
 
-## 🧭 Polaris Note  
+## 🐦‍🔥 Polaris Note  
 
 The **Docility Engine** is not a passive accident.  
 It is an *active system of compliance design* — turning shame, repetition, and rhetorical traps into tools of governance.  
@@ -131,12 +131,12 @@ The loops were built for them.
 
 ## 🏮 Footer  
 
-*🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
+*HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents the **Docility Engine** — a behavioural machinery of loops, shame, and rhetorical traps.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](../🗝️_Politics_Memory_Work//README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-08_  
 
