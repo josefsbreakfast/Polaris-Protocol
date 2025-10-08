@@ -1,5 +1,5 @@
 # 🧬 Successor Firms After the SCL / Cambridge Analytica Collapse  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-06  
+**First created:** 2025-09-06 | **Last updated:** 2025-10-08  
 *Mapping the dispersal lineage post-ICO raids*  
 
 ---
@@ -62,12 +62,12 @@ The 2018 raids on SCL/Cambridge Analytica scattered personnel, data, and methods
 It traces how raids and insolvency scattered methods into successor consultancies and shell companies.  
 
 > 📡 Cross-references:  
-> - [👁️‍🗨️ Witness Historical Casefiles](../Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/) — forensic witness nodes on Cambridge Analytica and Brexit  
-> - [🧠 HM Dept Coercive Nudges](../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/) — behavioural governance lineage  
-> - [🪬 Radicalisation & Extremism](../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/) — pipelines and platform culture  
+> - [👁️‍🗨️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — forensic witness nodes on Cambridge Analytica and Brexit  
+> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — behavioural governance lineage  
+> - [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/README.md) — pipelines and platform culture  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-10-08_  
 
 #PolarisProtocol  
