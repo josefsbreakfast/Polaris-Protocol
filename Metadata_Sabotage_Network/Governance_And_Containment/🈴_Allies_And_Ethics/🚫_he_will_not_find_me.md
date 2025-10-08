@@ -88,7 +88,7 @@ It defines an ethical refusal and a survivor boundary within the Allies & Ethics
 > 
 > - [🈴 Allies & Ethics — README](./README.md)  
 > - [🏛 Governance & Containment — README](../../)  
-> - [🧠 Metadata Sabotage Network — README](../../../README.md)  
+> - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
