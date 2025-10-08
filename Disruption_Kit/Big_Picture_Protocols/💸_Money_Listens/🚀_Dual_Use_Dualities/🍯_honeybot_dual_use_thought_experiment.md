@@ -74,7 +74,7 @@ It uses humour and fiction to illustrate how easily dual-use loopholes can arise
 
 > 📡 Cross-references:  
 > - [🌱 Human Principles](../../🌱_Human_Principles/README.md) — ethics and dignity frameworks  
-> - [📜 Statutes](../../../📜_Statutes/README.md) — regulatory architecture for dual-use research  
+> - [📜 Statutes](../../📜_Statutes/README.md) — regulatory architecture for dual-use research  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
