@@ -1,7 +1,5 @@
-# 🦚 CVE Pornography Unit
-
-**First created:** 2025-08-04 | **Last updated:** 2025-08-30
-
+# 🦚 CVE Pornography Unit  
+**First created:** 2025-08-04 | **Last updated:** 2025-10-08  
 *Polaris Protocol doctrine node — when sexual violence is re-enacted through metadata pipelines, AI nudging, and coercive device seizure.*  
 
 ---
@@ -53,7 +51,7 @@ This is not archival. It is reenactment.
 - **No narrative protection**: disclosures reframed as “signals.”  
 - **No dignity**: survivors re-exposed to be believed.  
 
-### 📍 Example Phrases  
+### 🪄 Example Phrases  
 - “Phone seizure as rape reenactment.”  
 - “Survivors must strip twice.”  
 - “Predictive shame modelling.”  
@@ -75,11 +73,11 @@ This is not archival. It is reenactment.
 
 ---
 
-## 📁 Metadata as Spectacle  
+## 🛰 Metadata as Spectacle  
 
 > *How trauma, intimacy, and sexuality are mined, seized, and reframed as state-sanctioned theatre.*  
 
-### 🔍 Module Summary  
+### ✨ Module Summary  
 Metadata and intimate disclosures become performance objects:  
 - Sexualised imagery reframed as “training data.”  
 - Pain aestheticised for institutional actors.  
@@ -134,7 +132,7 @@ IndexID, SourceMethod, ExtractionDate, ContentType, ConsentFlag, NudgingUse, Aes
 
 ---
 
-## 📝 Notes  
+## 🎟 Notes  
 
 - **ConsentFlag:** almost always false.  
 - **ShameScore:** predictive intensity of collapse.  
@@ -142,7 +140,7 @@ IndexID, SourceMethod, ExtractionDate, ContentType, ConsentFlag, NudgingUse, Aes
 
 ---
 
-## 🧭 Polaris Note  
+## 🐦‍🔥 Polaris Note  
 
 The **CVE Pornography Unit** is not just metaphor.  
 It reflects how surveillance merges with voyeurism —  
@@ -155,9 +153,9 @@ and how the state reenacts sexual violence as “procedure.”
 *🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine branch.  
 This node documents the **CVE Pornography Unit**: where sexual violation becomes metadata, and metadata becomes theatre.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](../🗝️_Politics_Memory_Work/README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-08_  
 
