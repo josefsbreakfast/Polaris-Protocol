@@ -1,5 +1,5 @@
 # 🟦 Teaching Framework: Jews, Empire, and Antisemitism  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-12  
+**First created:** 2025-09-06 | **Last updated:** 2025-10-08  
 *Pedagogical framework for teaching antisemitism within empire, centring Sephardi, Mizrahi, Baghdadi, and Desi Jewish histories*
 
 ---
@@ -75,21 +75,15 @@ Jewish history is **not monolithic**.
 
 ---
 
-## Matrix of Middleman Minorities  
-
-![Matrix of Middleman Minorities](middleman_matrix.png)  
-
----
-
 ## 🏮 Footer  
 
 *Teaching Framework: Jews, Empire, and Antisemitism* is a living node of the Polaris Protocol.  
 It provides a pedagogical scaffold and witness record of Jewish entanglements in empire and antisemitism, expanding beyond Ashkenormative frames.  
 
 > 📡 Cross-references:  
-> - [👁️‍🗨️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/) — archives of structural positioning and diaspora records  
-> - [Politics & Memory Work](../🗝️_Politics_Memory_Work/) — discourse double standards and historical layering  
+> - [👁️‍🗨️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — archives of structural positioning and diaspora records  
+> - [Politics & Memory Work](../🗝️_Politics_Memory_Work/README.md) — discourse double standards and historical layering  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_  
+_Last updated: 2025-10-08_  
