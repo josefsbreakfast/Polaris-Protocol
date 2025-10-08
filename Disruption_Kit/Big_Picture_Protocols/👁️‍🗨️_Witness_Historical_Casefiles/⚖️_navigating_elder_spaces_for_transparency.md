@@ -62,8 +62,8 @@ elders, jewish community, transparency, diaspora deference, disclosure, communal
 It records how survivors can move respectfully yet incisively within age-hierarchical communities to encourage disclosure.  
 
 > 📡 Cross-references:  
-> - [🧿 Diaspora Disclosure Tactics](./🧿_diaspora_disclosure_tactics.md)  
-> - [🌱 Human Principles](../Big_Picture_Protocols/🌱_human_principles.md)  
+> - [🧿 Diaspora Disclosure Tactics](../🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)  
+> - [🌱 Human Principles](../🌱_Human_Principles/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
