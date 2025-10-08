@@ -1,10 +1,10 @@
 # 🥄 Deserving Poor Containment  
-**First created:** 2025-09-15 | **Last updated:** 2025-09-15  
-*From Poor Law to PIP: how conditionality frames disabled people as supplicants, not citizens*  
+**First created:** 2025-09-15 | **Last updated:** 2025-10-08  
+*From Poor Law to PIP: how conditionality frames disabled people as supplicants, not citizens.*  
 
 ---
 
-## 📜 Genealogy of the “Deserving Poor”  
+## ✨ Genealogy of the “Deserving Poor”  
 
 The idea that people must *prove their worthiness for support* is centuries old in Britain.  
 
@@ -16,7 +16,7 @@ This architecture of judgment embedded itself into the state’s DNA: help is co
 
 ---
 
-## 🧩 Continuity into the 20th and 21st Centuries  
+## 📜 Continuity into the 20th and 21st Centuries  
 
 - **Post-war welfare** reframed relief as rights, but the *deserving/undeserving divide* persisted in rhetoric about “scroungers.”  
 - **1980s Care in the Community** promised liberation from institutions but largely shifted costs onto families and individuals without building robust community provision.  
@@ -27,7 +27,7 @@ The core logic has never changed: access to support requires surrendering libert
 
 ---
 
-## 🚧 Conditionality as Containment  
+## 🎁 Conditionality as Containment  
 
 Today’s systems replicate Victorian dynamics almost exactly:  
 
@@ -49,7 +49,7 @@ The system polices disabled people’s bodies and stories while leaving institut
 
 ---
 
-## 🧮 The Ten Stages of Genocide Applied  
+## 🪄 The Ten Stages of Genocide Applied  
 
 Gregory Stanton’s framework describes genocide as a process with overlapping stages. When applied to UK disability policy, nine of the ten are visible:  
 
@@ -128,7 +128,7 @@ The brutality of containment is not only in the policies but in the training cul
 
 ---
 
-## 👁️ Visibility Gap: Open vs Hidden Abuse  
+## 🔮 Visibility Gap: Open vs Hidden Abuse  
 
 - **Care home exposés** (Winterbourne View 2011, Whorlton Hall 2019) show visible abuse: shouting, hitting, degrading treatment. These cases spark outrage because the optics are undeniable. Government responds with reviews, but rarely with safer staffing or structural reform.  
 - **Bureaucratic abuse** — starvation by sanction, suicides linked to PIP withdrawal — is less visible. Deaths are hidden in paperwork, coroner’s reports, and long legal battles. This makes denial easier and reform slower.  
@@ -184,10 +184,10 @@ These examples show that disabled life is not tragic, not inspiration porn, but 
 It maps the historical and systemic roots of conditional welfare, showing how disabled people are structurally contained through dignity-stripping processes framed as "support."  
 
 > 📡 Cross-references:  
-> - [🫀 Pathologising Sensitivity (2025-09-13)](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md) — cultural pathologisation of disabled experience  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md) — legal frameworks of containment  
-> - [📚 Crisis Theatre](../Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md) — performance of state “care”  
+> - [🫀 Pathologising Sensitivity (2025-09-13)](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md) — *cultural pathologisation of disabled experience*  
+> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — *legal frameworks of containment*  
+> - [📚 Crisis Theatre](../🌀_System_Governance/📚_crisis_theatre.md) — *performance of state “care”*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-15_  
+_Last updated: 2025-10-08_  
