@@ -1,5 +1,5 @@
 # 🍯 HoneyBot — A Dual-Use Thought Experiment  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-07  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-08  
 *A satire that drifts into a policy warning about sex-tech, surveillance, and dual-use research.*
 
 ---
@@ -73,9 +73,9 @@ dual-use research, sex-tech, satire, ethics, surveillance, rehabilitation, polic
 It uses humour and fiction to illustrate how easily dual-use loopholes can arise in robotics and behavioural science, and why clear governance frameworks matter before the prototype becomes reality.
 
 > 📡 Cross-references:  
-> - [🌱 Human Principles](./🌱_Human_Principles/README.md) — ethics and dignity frameworks  
-> - [📜 Statutes](../📜_Statutes/README.md) — regulatory architecture for dual-use research  
+> - [🌱 Human Principles](../🌱_Human_Principles/README.md) — ethics and dignity frameworks  
+> - [📜 Statutes](../../📜_Statutes/README.md) — regulatory architecture for dual-use research  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-08_
