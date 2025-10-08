@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-08 01:31:07 UTC_
+_Generated on 2025-10-08 01:32:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -344,11 +344,11 @@ _Generated on 2025-10-08 01:31:07 UTC_
         - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
       - [**🚀_Dual_Use_Dualities/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/README.md)
+        - [`🍯_honeybot_dual_use_thought_experiment.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
       - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
       - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/defacto_uk_hsip.png)
       - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/spv_dataflow_redacted.png)
-      - [`🍯_honeybot_dual_use_thought_experiment.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🍯_honeybot_dual_use_thought_experiment.md)
       - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🎽_think_tanks_surveillance_and_conferencing.md)
       - [`🐝_honeybot_underwriting_fails.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🐝_honeybot_underwriting_fails.md)
       - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
