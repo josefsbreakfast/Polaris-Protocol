@@ -253,9 +253,9 @@ The first rounds will feel hard. Institutions will resist. But persistence build
 It situates survivor-facing suppression inside UK justice/government transparency seams, mapping how forks and containment mutate into high-control governance.  
 
 > 📡 Cross-references:  
-> - [Big Picture Protocols](../README.md) — structural diagnostics and typologies  
-> - [Containment Scripts](../../Containment_Scripts/README.md) — logs of suppression and counter-nudges  
-> - [Survivor Tools](../../Survivor_Tools/README.md) — practical countermeasures  
+> - [🧠 Big Picture Protocols](../README.md) — structural diagnostics and typologies  
+> - [🧨 Containment Scripts](../../Containment_Scripts/README.md) — logs of suppression and counter-nudges  
+> - [🛠 Survivor Tools](../../Survivor_Tools/README.md) — practical countermeasures  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
