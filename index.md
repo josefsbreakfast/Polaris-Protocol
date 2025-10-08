@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-08 12:34:35 UTC_
+_Generated on 2025-10-08 14:52:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -559,6 +559,7 @@ _Generated on 2025-10-08 12:34:35 UTC_
       - [`🧩_rejustification_loop_racial_logics_reborn_as_safety.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧩_rejustification_loop_racial_logics_reborn_as_safety.md)
       - [`🪞_deference_politics_as_containment_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
+      - [`🪩_self_silencing_cyclone_and_reverse_overton_window.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪩_self_silencing_cyclone_and_reverse_overton_window.md)
     - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md)
       - [`handover_theatre.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/handover_theatre.png)
