@@ -1,6 +1,5 @@
-# 🚨 Super-Injunctions and SLAPPs in Rape Cases
-
-**First created:** 2025-09-04 | **Last updated:** 2025-09-29  
+# 🚨 Super-Injunctions and SLAPPs in Rape Cases  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-08  
 *Mapping how legal secrecy regimes erase survivors’ testimony and entrench silencing.*  
 
 ---
@@ -74,11 +73,11 @@ It documents how rape survivors in the UK can be silenced by SLAPP-like tactics 
 
 > 📡 Cross-references:  
 > - [⚖️ SLAPPs Detailed Node](./⚖️_slapps_uk_global_palestine.md)  
-> - [Survivor Tools](../../Survivor_Tools/)   
+> - [Survivor Tools](../../Survivor_Tools/README.md)   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-08_  
 
 ---
 
