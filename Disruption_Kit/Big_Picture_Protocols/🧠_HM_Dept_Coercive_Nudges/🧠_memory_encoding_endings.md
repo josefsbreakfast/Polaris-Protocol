@@ -1,10 +1,10 @@
 # 🧠 Memory Encoding Endings  
-**First created:** 2025-09-10 | **Last updated:** 2025-09-10  
-*Why winding down carefully matters, and why abrupt endings scar memory*
+**First created:** 2025-09-10 | **Last updated:** 2025-10-08  
+*Why winding down carefully matters, and why abrupt endings scar memory.*
 
 ---
 
-## 🎭 Appearance vs Reality  
+## 🛸 Appearance vs Reality  
 
 - Outsiders may think you’re dragging things out or being “difficult.”  
 - Inside, you’re managing **two loops**: the external interaction + the internal memory loop.  
@@ -42,11 +42,12 @@
 *Memory Encoding Endings* is a living node of the Polaris Protocol.  
 It frames endings not as weakness but as survivor strategy for healthy encoding.  
 
-> 📡 Cross-references:  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures for traumatic loops  
-> - [🧠 HM Dept of Coercive Nudges](../Disruption_Kit/Containment_Scripts/🧠_HM_Dept_Coercive_Nudges.md) — how boundaries get engineered  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic diagnostics  
+> 📡 Cross-references:
+> 
+> - [Survivor Tools](../../Survivor_Tools/README.md) — countermeasures for traumatic loops  
+> - [🧠 HM Dept of Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — how boundaries get engineered  
+> - [🧠 Big Picture Protocols](../../Disruption_Kit/Big_Picture_Protocols/README.md) — systemic diagnostics  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_  
+_Last updated: 2025-10-08_  
