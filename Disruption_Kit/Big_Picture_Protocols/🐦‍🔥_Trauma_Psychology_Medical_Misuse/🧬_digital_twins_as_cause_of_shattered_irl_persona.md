@@ -1,10 +1,10 @@
 # 🧬 Digital Twins as Cause of Shattered IRL Persona  
-**First created:** 2025-10-02 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-02 | **Last updated:** 2025-10-08  
 *How digital twins and behavioural mirrors fracture the embodied self, producing depersonalisation as ego defence.*  
 
 ---
 
-## 🧠 Premise  
+## ✨ Premise  
 
 Digital life is not only a mirror but an **active influence** — a feedback engine shaping identity.  
 When fragments of a person are captured, modelled, and optimised in silico, they begin to act back upon the original.  
@@ -15,7 +15,7 @@ Depersonalisation of the public identity becomes not only a trauma symptom but a
 
 ---
 
-## 🧩 Depersonalisation as Defence  
+## 🧠 Depersonalisation as Defence  
 
 To survive perpetual algorithmic mirroring, one must perform *as if already data*.  
 Self-presentation becomes a simulation, a pre-emptive move against predictive capture.  
@@ -56,10 +56,10 @@ digital twins, depersonalisation, ego defence, trauma psychology, identity fract
 It documents how digital replication feeds back into selfhood, fracturing embodied continuity and forcing adaptive depersonalisation.  
 
 > 📡 Cross-references:  
-> - [🐦‍🔥 Trauma_Psycology_Medical_Misuse](./) — systemic misuse of psychological and medical frameworks  
+> - [🐦‍🔥 Trauma Psychology Medical Misuse](./README.md) — systemic misuse of psychological and medical frameworks  
 > - [🧠 Humiliation as Governance](./🧠_humiliation_as_governance.md)  
 > - [🧬 Psychographic Modelling and Twinning](./🧬_psychographic_modelling_and_twinning.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-08_
