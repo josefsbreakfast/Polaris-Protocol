@@ -1,6 +1,12 @@
-# 🎈 Silence as Infrastructure
-**First created:** 2025-09-09 | **Last updated:** 2025-09-09 <br>
+# 🎈 Silence as Infrastructure  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
 *How NDA practices metastasise into systemic silence across law, tech, and media.*  
+
+---
+
+## 🛰 Orientation  
+This node opens the **㊙ Containment Contracts** cluster by tracing how contractual silence metastasises into platform and policy architecture.  
+It reads silence not as absence but as engineered infrastructure — a system that circulates through law, code, and culture.
 
 ---
 
@@ -33,8 +39,8 @@ Algorithms don’t need contracts to enforce quiet.
 Visibility throttling, shadowbans, and moderation loopholes act like NDAs in code.  
 They don’t just hide speech — they erase the *conditions for recall*,  
 making it impossible for memory to circulate.  <br><br> 
-The once promised superhighway of ideas and raging possibility is now shrunk to an endless loop of mediocre clips. 
-See the **“enshittification”** of content — Cory Doctorow’s word, but one that clearly resonated across audiences.  
+The once promised superhighway of ideas and raging possibility is now shrunk to an endless loop of mediocre clips.  
+See the **“enshittification”** of content — a term coined by *Cory Doctorow* to describe platform decay through self-serving design choices.  
 
 ### 📰 Media Silos  
 Journalists self-censor under threat of litigation,  
@@ -76,7 +82,7 @@ because its foundations rest on managed forgetting.
 
 ---
 
-## 🚰 Counter-Infrastructure  
+## ☔ Counter-Infrastructure  
 
 If silence is a dead leg in the plumbing, then resistance is the act of **flushing the system** —  
 keeping flow alive so nothing stagnates long enough to rot.  
@@ -111,21 +117,15 @@ This is not neutral. It is the digital shape of engineered silence.
 
 ---
 
-## 🎞️ Constellation  
+## 🌌 Constellations  
 
-- **Books**  
-  - *The Memory Police* (Yoko Ogawa) — enforced forgetting as systemic order.  
-  - *Discipline and Punish* (Michel Foucault) — silence as part of the architecture of control.  
-  - *Permanent Record* (Edward Snowden) — testimony about infrastructure built for secrecy.  
+🎈 🧿 🪜 🧠 🔮 — This node sits in the governance + memory-infrastructure constellation, bridging legal containment with dataflow metaphors.  
 
-- **Films**  
-  - *Brazil* — bureaucracy as suffocating machinery of silence.  
-  - *The Lives of Others* — surveillance systems that enforce self-silencing.  
-  - *The Social Dilemma* — algorithms scripting what can and cannot be said.  
+---
 
-- **Cultural Threads**  
-  - “Enshittification” discourse about the decay of platforms into loops of managed, mediocre content.  
-  - The everyday lag and buffering of digital life as tolerated symptoms of systemic silence.  
+## ✨ Stardust  
+
+silence, nda, systemic forgetting, information infrastructure, governance containment, media throttling, survivor voice, memory flow, visibility suppression  
 
 ---
 
@@ -134,11 +134,12 @@ This is not neutral. It is the digital shape of engineered silence.
 *Silence as Infrastructure* is a living node of the Polaris Protocol.  
 It traces how contractual silencing mutates into systemic architecture, mapping the mechanics of spread across institutions and platforms.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [㊙ Containment Contracts — README](./README.md)  
-> - [Governance & Containment — README](../README.md)  
-> - [Metadata Sabotage Network — README](../../README.md)  
+> - [🏯 Governance & Containment — README](../README.md)  
+> - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-09_  
+_Last updated: 2025-10-08_
