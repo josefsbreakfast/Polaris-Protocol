@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-08 01:03:11 UTC_
+_Generated on 2025-10-08 01:05:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1249,6 +1249,18 @@ _Generated on 2025-10-08 01:03:11 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
+    - [`10_Preventive_Framework.md`](Polaris_Nest/Git_Intake_Drawer/10_Preventive_Framework.md)
+    - [`11_Authors_Notebook.md`](Polaris_Nest/Git_Intake_Drawer/11_Authors_Notebook.md)
+    - [`13_Atrocity_Index.md`](Polaris_Nest/Git_Intake_Drawer/13_Atrocity_Index.md)
+    - [`1_Atrocity_Physics.md`](Polaris_Nest/Git_Intake_Drawer/1_Atrocity_Physics.md)
+    - [`2_Algorithmic_Statecraft.md`](Polaris_Nest/Git_Intake_Drawer/2_Algorithmic_Statecraft.md)
+    - [`3_Britains_Near_Miss.md`](Polaris_Nest/Git_Intake_Drawer/3_Britains_Near_Miss.md)
+    - [`4_Linguistic_Drift.md`](Polaris_Nest/Git_Intake_Drawer/4_Linguistic_Drift.md)
+    - [`5_Diffuse_Architecture.md`](Polaris_Nest/Git_Intake_Drawer/5_Diffuse_Architecture.md)
+    - [`6_Raw_Materials.md`](Polaris_Nest/Git_Intake_Drawer/6_Raw_Materials.md)
+    - [`7_Manufacturing_Scapegoat.md`](Polaris_Nest/Git_Intake_Drawer/7_Manufacturing_Scapegoat.md)
+    - [`8_Justice_Angels.md`](Polaris_Nest/Git_Intake_Drawer/8_Justice_Angels.md)
+    - [`9_When_Resisted.md`](Polaris_Nest/Git_Intake_Drawer/9_When_Resisted.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`🛰️_baseline.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_baseline.md)
