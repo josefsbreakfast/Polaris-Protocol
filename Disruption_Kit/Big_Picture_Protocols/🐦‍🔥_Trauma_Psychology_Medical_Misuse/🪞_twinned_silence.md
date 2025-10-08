@@ -120,7 +120,7 @@ And at the level of **the moment**: this is an imperative of now.
 In an age of digital information and narrative interference, refusing to be spliced apart is not optional — it is the survival skill of our time.  
 
 See also:  
-- [🫛 Amplification by Convergence](../../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *how convergence is structurally amplified and resolved*  
+- [🫛 Amplification by Convergence](../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *how convergence is structurally amplified and resolved*  
 - [🧭 Survivor Tools](../../Survivor_Tools/README.md) — *countermeasures and refusal guides*  
 - [🧬 Cloneproof](../../Survivor_Tools/🧬_cloneproof.md) — *resisting data amalgamation and identity splicing*  
 
@@ -153,7 +153,7 @@ It documents how paired witnesses are structurally disempowered by being groomed
 > 📡 Cross-references:
 > 
 > - [🧬 Twinned Signature](./🧬_twinned_signature.md) — *data and identity manipulation in trauma twinning*  
-> - [🫛 Amplification by Convergence](../../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *how convergence is structurally amplified and resolved*  
+> - [🫛 Amplification by Convergence](../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *how convergence is structurally amplified and resolved*  
 > - [🧬 Cloneproof](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *resisting data amalgamation and identity splicing*
 > - [🪞 Twinning Fork Containment Timeline](./🪞_twinning_fork_containment_timeline.md) — *sequence of enforced mirroring*  
 > - [🧬 The Invisible Audit Gap](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_the_invisible_audit_gap.md) — *how oversight fails to register silence*  
