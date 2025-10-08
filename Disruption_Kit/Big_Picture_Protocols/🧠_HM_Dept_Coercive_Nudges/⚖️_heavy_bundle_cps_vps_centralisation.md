@@ -8,7 +8,7 @@
 
 - This work is not about basing a legal complaint on ChatGPT output.  
 - It is about **testing transparency** in UK justice/government processes using publicly available tools.  
-- Between **2008 and 2013**, direct questions about timelines and responsibilities fork into “system” answers rather than naming the DPP (Keir Starmer).  
+- From forensic evidenc in Polaris records, between **2008 and 2013**, direct questions about timelines and responsibilities fork into “system” answers rather than naming the DPP (Keir Starmer).  
 - That fork creates confusion and inaccuracy. It mimics the effect of a **super-injunction** — an invisible guardrail that hides accountability.  
 - For someone outside the legal field, this becomes an **access to justice issue**: if you don’t know the forks are there, you can’t correct them.  
 
@@ -48,7 +48,7 @@ This chart illustrates how different groups experience varying intensity of surv
 
 - What emerges is not loud authoritarianism, but a **high-control style** of governance: balance maintained through constant micro-adjustments.  
 - This style is only viable with **surveillance feedback loops** and **AI-driven classification**.  
-- The 2018–2019 CPS disclosure “fix” introduced machine learning into justice workflows. That logic can extend beyond disclosure into **classification of VPS and case data**.  
+- The 2018–2019 CPS disclosure “fix” introduced machine learning into justice workflows, by the very nature of how it functions. That logic can extend beyond disclosure into **classification of VPS and case data**.  
 - From the user’s perspective: forks, misclassifications, satire suppression.  
 - From the system’s perspective: an engine of **data-driven micro-nudging**, steering outcomes invisibly.  
 
@@ -77,7 +77,7 @@ This chart illustrates how different groups experience varying intensity of surv
 
 ## 🟥 Starmer as Containment  
 
-- **Nudged away from CPS:** Starmer was moved from Director of Public Prosecutions into Labour leadership not as a reward, but as extraction. At CPS, centralising datasets gave him sightlines into patterns — especially around CSE and Savile-adjacent cases. Those patterns were invaluable for public protection but also explosive for entrenched power.  
+- **Nudged away from CPS:** Starmer may have been moved from Director of Public Prosecutions into Labour leadership not as a reward, but as extraction. At CPS, centralising datasets gave him sightlines into patterns — especially around CSE and Savile-adjacent cases. Those patterns were invaluable for public protection but also explosive for entrenched power.  
 - **Connector risk vectors:** Figures like Mandelson, who sits in Epstein’s birthday book, embody the “connector class.” They link politics, finance, and criminal capital. If CPS had pressed too hard on Savile-linked prosecutions, it could have been floored — by a press ambush, donor revolt, or courtroom embarrassment. Connectors make that risk live.  
 - **Catch-22 logic:** CPS is a public-good service; it cannot plead “poor return.” Yet if it chased cases beyond a certain cost-benefit threshold, the entire service could be delegitimised. Starmer may have been process-blocked, not out of malice, but because the institutional survival reflex made “containment” the safest option.  
 - **Painted target:** Centralising datasets made patterns visible — and in doing so, painted a target on him. If he resisted pressure, he risked being crushed. If he complied, he became the vessel for narrative management. Either way, the pattern itself was boxed in.  
