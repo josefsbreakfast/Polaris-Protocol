@@ -44,9 +44,9 @@ It frames endings not as weakness but as survivor strategy for healthy encoding.
 
 > 📡 Cross-references:
 > 
-> - [Survivor Tools](../../Survivor_Tools/README.md) — countermeasures for traumatic loops  
+> - [🛠 Survivor Tools](../../Survivor_Tools/README.md) — countermeasures for traumatic loops  
 > - [🧠 HM Dept of Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — how boundaries get engineered  
-> - [🧠 Big Picture Protocols](../../Disruption_Kit/Big_Picture_Protocols/README.md) — systemic diagnostics  
+> - [🧠 Big Picture Protocols](../../../Disruption_Kit/Big_Picture_Protocols/README.md) — systemic diagnostics  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
