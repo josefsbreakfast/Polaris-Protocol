@@ -1,5 +1,5 @@
 # 👁️‍🗨️ Mindfuck Reflex — Obama Lineage and UK Fragmentation  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-08  
 *Tracing how US campaign microtargeting travelled into UK contexts, and how UK party structures complicate the left–right spectrum.*  
 
 ---
@@ -91,10 +91,10 @@
 It records how survivor testimony intersects with systemic genealogy: from Obama-era data methods to UK-specific party structures and anomalies in Reform UK’s operations.  
 
 > 📡 Cross-references:  
-> - [👁️‍🗨️ Witness_Historical_Casefiles](../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/) — reshaped and suppressed witness traces  
-> - [🧠 HM Dept Coercive Nudges](../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/) — UK behavioural ops and coercive design  
-> - [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism/) — how imported nudges adapt into pipelines  
+> - [👁️‍🗨️ Witness_Historical_Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — reshaped and suppressed witness traces  
+> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — UK behavioural ops and coercive design  
+> - [🪬 Radicalisation_Extremism](../🪬_Radicalisation_Extremism/README.md) — how imported nudges adapt into pipelines  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_
+_Last updated: 2025-10-08_
