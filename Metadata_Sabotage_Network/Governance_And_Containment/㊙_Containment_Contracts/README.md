@@ -81,6 +81,23 @@ and underpin the trade analysis in **📠 When Truth Becomes a Trade**.*
 
 ---
 
+### 🩸 Upstream Context  
+
+This cluster feeds directly into the **Governance & Containment** superfolder, providing the micro-economic and cultural mechanics behind systemic suppression.  
+It acts as the *contractual and memory substrate* for the wider **Metadata Sabotage Network**, showing how enforced silence becomes policy, habit, and architecture across state, media, and platform environments.  
+
+---
+
+### 🧭 Downstream Context  
+
+Findings from this cluster inform the **Disruption Kit**, where strategies for counter-infrastructure, survivor data sovereignty, and community-led transparency tools are developed.  
+Key downstream implementations:  
+- [🩸 Genocide Denialism](../../../Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md) — *refusal strategies for systemic containment.*  
+- [🧠 HM Dept. Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance parallels.*  
+- [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md) — *economic mirrors to containment logics.*  
+
+---
+
 ## 🌌 Constellations  
 
 ㊙ 🧿 💸 🪁 🕸️ 🔮 — The **Containment Contracts** constellation sits at the intersection of governance, economy, and collective memory.  
@@ -108,20 +125,3 @@ It documents how contractual containment evolves into a totalising architecture 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-08_
-
----
-
-### 🩸 Upstream Context  
-
-This cluster feeds directly into the **Governance & Containment** superfolder, providing the micro-economic and cultural mechanics behind systemic suppression.  
-It acts as the *contractual and memory substrate* for the wider **Metadata Sabotage Network**, showing how enforced silence becomes policy, habit, and architecture across state, media, and platform environments.  
-
----
-
-### 🧭 Downstream Context  
-
-Findings from this cluster inform the **Disruption Kit**, where strategies for counter-infrastructure, survivor data sovereignty, and community-led transparency tools are developed.  
-Key downstream implementations:  
-- [🩸 Genocide Denialism](../../../Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md) — *refusal strategies for systemic containment.*  
-- [🧠 HM Dept. Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance parallels.*  
-- [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md) — *economic mirrors to containment logics.*  
