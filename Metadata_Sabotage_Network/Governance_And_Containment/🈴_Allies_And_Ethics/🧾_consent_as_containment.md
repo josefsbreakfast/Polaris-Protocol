@@ -51,14 +51,58 @@ To reclaim it, we must break the ritual: refuse the checkbox that speaks in our 
 
 ## 🐦‍🔥 Counter-Practice  
 Reclamation begins with rewriting — turning ritual back into relation.  
-This section will outline practical frameworks for:  
-- **Re-authoring consent language** in survivor terms rather than institutional templates.  
-- **Building consent loops** instead of one-time signatures — iterative, mutual, revocable.  
-- **Embedding emotional literacy** into documentation — replacing “tick-box” care with contextual awareness.  
-- **Creating refusal clauses** that treat *no* as an act of governance, not deviance.  
-- **Reclaiming consent as covenant** — a living agreement that honours agency rather than archiving it.  
+Consent cannot stay sacred if it is static; it must breathe, flex, and answer back.  
+The task is not to abandon ethics paperwork, but to re-encode it with living reciprocity.
+
+---
+
+### ✏️ Re-authoring Consent Language  
+Replace the passive grammar of approval (*“I give permission to be used”*) with active grammar of collaboration (*“We agree to share responsibility for context, care, and consequence.”*).  
+Shift emphasis from **granting access** to **governing participation.**  
+Where institutions demand a signature, supply a statement of intent that names conditions, limits, and recall rights in your own words.  
+Every rewrite chips at the authority of templated consent.
+
+---
+
+### 🔁 Building Consent Loops  
+A single signature freezes power in the moment of first contact.  
+Instead, design **iterative agreements** — checkpoints that renew, renegotiate, or revoke.  
+Set time stamps for review; embed automatic reminders for both parties.  
+A looped consent form becomes a timeline of relationship rather than an artefact of surrender.  
+It restores movement to what bureaucracy tried to still.
+
+---
+
+### 💬 Embedding Emotional Literacy  
+Institutional ethics forms are written in the tone of **clinical remove**.  
+Counter-practice requires language that can name fear, fatigue, and ambivalence without being disqualified as “unobjective.”  
+Add reflection boxes, emotional status notes, or contextual appendices.  
+If a process cannot hold emotion, it cannot hold ethics.  
+
+---
+
+### 🚫 Creating Refusal Clauses  
+Every consent form should contain its opposite — the right to say **no** and to have that refusal operationalised with dignity.  
+Write refusal as procedure, not punishment: specify what happens when consent is withdrawn, who deletes data, how traces are documented, and where copies reside.  
+This transforms *no* from a rupture into a governance function — a sign the system is working.
+
+---
+
+### 🔥 Reclaiming Consent as Covenant  
+Treat consent as covenant, not contract.  
+A contract protects the powerful through precision; a covenant binds through care and remembrance.  
+Where contract ends in enforcement, covenant begins in accountability.  
+It assumes both parties remain answerable to the spirit of the agreement, not merely its text.  
+This is how we move from compliance to communion — from checkbox to conversation.  
+
+---
+
+When survivors rewrite consent, we are not rejecting ethics.  
+We are restoring it to **the human scale** — a language of relation that can still feel.  
 
 The phoenix rises here: not as spectacle, but as sustained revision.  
+ 
+Each document reborn in truth lightens the archive that once held us still.  
 
 ---
 
