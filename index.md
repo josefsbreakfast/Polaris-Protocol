@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-08 18:45:01 UTC_
+_Generated on 2025-10-08 18:53:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -996,6 +996,7 @@ _Generated on 2025-10-08 18:45:01 UTC_
       - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
       - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🤝_held_by_other_peoples_alliances.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
+      - [`🧾_consent_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧾_consent_as_containment.md)
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
