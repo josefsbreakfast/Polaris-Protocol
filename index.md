@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-08 12:28:28 UTC_
+_Generated on 2025-10-08 12:34:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -346,6 +346,7 @@ _Generated on 2025-10-08 12:28:28 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/README.md)
         - [`🍯_honeybot_dual_use_thought_experiment.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md)
         - [`🐝_honeybot_underwriting_fails.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🐝_honeybot_underwriting_fails.md)
+        - [`🦤_honeybot_consent_as_service.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🦤_honeybot_consent_as_service.md)
         - [`🦾_dual_uses_that_never_come.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🦾_dual_uses_that_never_come.md)
         - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
