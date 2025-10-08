@@ -1,5 +1,5 @@
 # 📚 Student as Default Faultline
-**First created:** 2025-09-10 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-10 | **Last updated:** 2025-10-08  
 *How institutions embed user-blame into everyday errors*
 
 ---
@@ -28,9 +28,9 @@ This file records a structural pattern: **default blame architecture**.
 It captures how negligence and coercive nudging combine to erase systemic accountability.  
 
 > 📡 Cross-references:  
-> - [HM Dept Coercive Nudges](../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)  
-> - [Counter Nudges](../../Disruption_Kit/Containment_Scripts/Counter_Nudges/)  
+> - [HM Dept Coercive Nudges](../../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)  
+> - [Counter Nudges](../../Containment_Scripts/Counter_Nudges/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-08_
