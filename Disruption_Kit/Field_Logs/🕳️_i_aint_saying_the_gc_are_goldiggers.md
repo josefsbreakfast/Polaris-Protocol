@@ -62,4 +62,13 @@ you should be offended any of us were encouraged into normalising this, and i wi
 
 try not to break my internet, whoever i playing with it please.  
 
+saw the switch in 2016, though, and i found april 2024 very surruptious in timing and (my personal opinion) highly disingenous and disrespectful of the dead, quite frankly.  
+
+id already been shouting into a void about vicarious trauma inc in idf at this time, so i was already used to it.  
+
+thread to pick up (probably entirely seperare but if i write i remember, and my nudging is making things a bit loosey goosey), is the leaked evidence to the papers of that subcommittee meetong and why, precisely, that conversation was shut down and how.  
+
+i saw that flavour at a later event, so who does have all these mysteriously deleting points of media?  
+"nothing under the bed is scary; one just ought to look properly and say, "hello! would you like some tea? i'm so sorry if i scared you..."
+
 2025-10-08  
