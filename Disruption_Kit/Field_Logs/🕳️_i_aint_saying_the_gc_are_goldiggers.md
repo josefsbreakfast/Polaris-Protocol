@@ -111,10 +111,26 @@ one prefers those who do, not those who don't.
 
 https://www.bailii.org/ew/cases/EWCOP/2020/25.html  
 
-(the first result im not 403 bad gatewayed on.)
+(the first result im not 403 forbiddened on.)
 
 for the less nerdy? this is what the ijan speaks about with reletive exclusivity, and therefore a party of interest to eg kkl. ijan had routine issues with met police issuing notices regarding the protest at the il ambassadors swiss cottage official residance. same kind of characters with cameras and well fitted surveillance tech wearables end up at most protests; id often concealed but seek to identify protestors. this data is commonly used to file vexatious complaints. more common if youre part of a registered body, presumably because social stsnding is still coded into english law (commonly seen as result of name change witness requirements for eg). this is why we frequently ask whote people who have not seen this before to approach an antisemitism-based complaint, esp of risk groups for such a vexatious complaint, to approach with sensitivity to the dynamics present. there is a lot of harm caused when we allow defence politics to lead over reasonability and compassion.   
 
 an amount of my metadata places in leeds, with freq, and mancs/sheff/birm. often news is given local to leeds. i do not live there.  🤷‍♀️  this is how the process really hammers your decision making; the collective noise is so odd.  
+
+---
+
+did my own bit of osint and token seitching (thought we'd appreciate) and boy howdy does the internet look like a christmas tree right now.  
+
+extremely interesting data twinning and deletions across multiple parties and token switching used to suppress/hide specific results.  
+
+and now i can access the jnf through the magic of just *using a vpn*, meaning my ip address is specifically blocked, and there's a lot more to say on dates and april 2025 on several fronts*...
+
+theres apparantly some sort of oddity about kkl and jnf uk so ill look at that drama later.  
+
+mostly by tirning my von off and in again, as thats how i often have to use the internet/telecomms these days. derails common tricks.  
+
+this is why i keep saying it just looks like cup and ball tricks done a bit oddly.  
+
+---
 
 2025-10-08  
