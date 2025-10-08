@@ -1,14 +1,14 @@
 # 🛰️ Witness By Proxy Midlands 2016  
 
-**First created:** 2025-08-16 | **Last updated:** 2025-08-30
+**First created:** 2025-08-16 | **Last updated:** 2025-10-08
 
-*Field log reconstructing what colleagues or outsiders would have observed in the Midlands surveillance climate post-2016.*  
+*Field log reconstructing what colleagues or outsiders would have observed in the Midlands surveillance climate post-2016*  
 
 ---
 
 ## ✨ Overview  
 
-By 2016, Nottingham, Sheffield, and Birmingham were saturated with Prevent-linked programmes, behavioural monitoring, and outsourced surveillance contracts.  
+By 2016, Midlands-based universities (amongst others) were saturated with Prevent-linked programmes, behavioural monitoring, and outsourced surveillance contracts.  
 An outsider — e.g. a colleague arriving from London to join a project — would not need inside knowledge to notice the atmosphere.  
 
 ---
@@ -63,8 +63,8 @@ Silence does not erase what they saw.
 *Witness By Proxy Midlands 2016* is a living node of the Polaris Protocol.  
 It records how environmental cues of containment were observable by colleagues and outsiders, producing indirect witness testimony even in silence.  
 
-🏮 [Return to 👁️‍🗨️ Witness & Historical Casefiles Guide](../README.md)
+🏮 [Return to 👁️‍🗨️ Witness & Historical Casefiles Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-08_  
