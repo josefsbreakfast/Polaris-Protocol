@@ -63,8 +63,8 @@ It documents how conditions of rest and release repair fragmented memory, enabli
 > 📡 Cross-references:
 > 
 > - [💣 The Cultural Bomb](../🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md) - *Ngũgĩ wa Thiong’o’s concept of colonial culture as a weapon of erasure*
-> - [🐍 Snake Bites and Stolen Voices](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md) - *Narrative reversal on suppression, theft, and clarity strikes*  
-> - [🧠 Humiliation as Governance](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_humiliation_as_governance.md)*Marking and degrading the “other” as a systemic tactic of European governance*  
+> - [🐍 Snake Bites and Stolen Voices](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md) - *Narrative reversal on suppression, theft, and clarity strikes*  
+> - [🧠 Humiliation as Governance](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md)*Marking and degrading the “other” as a systemic tactic of European governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
