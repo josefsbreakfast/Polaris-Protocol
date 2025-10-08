@@ -71,4 +71,40 @@ thread to pick up (probably entirely seperare but if i write i remember, and my 
 i saw that flavour at a later event, so who does have all these mysteriously deleting points of media?  
 "nothing under the bed is scary; one just ought to look properly and say, "hello! would you like some tea? i'm so sorry if i scared you..."
 
+---
+
+okay it took me five minutes this is hilarious.  
+
+named outward director searched on companies house.  
+
+companies house: curated split twin profile for said director.  
+
+check single strand split:  kkl executors.  
+
+if youre not up on the lore, you wont know, but i know what that is.  
+
+i think calling it a "solicitors" is a little...
+
+i mean i dont know thia is your field not mine, but its not how i would describe what the uk subsiduary of the jnf actually does.  
+
+but it gets better.  
+
+i get a 403 bad gateway on every site for the jnf uk and kkl.  
+
+last time this happened was when as antizionist jews we found ourselves all preemptively blocked from caa when there was concerning use of our implied consent in rhetoric.  
+
+do we all see how this stuff carries distinct flavours?  
+
+what was the decision in 2016 which led to a board shuffle, i wonder.  
+
+aligns with quite a few key events, so very possibly unrelated, but also worth ruling out a number of possible overlaps.  
+
+---
+
+and when i "marry for money"?  
+
+i will at least only marry someone who seea in that wonky a scan on the 1948 paperwork and has the overwhelming desire to straighten things out.  
+
+one prefers those who do, not those who don't.  
+
 2025-10-08  
