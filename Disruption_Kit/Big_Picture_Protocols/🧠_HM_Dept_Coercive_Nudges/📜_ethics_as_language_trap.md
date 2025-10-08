@@ -1,8 +1,6 @@
 # 📜 Ethics As Language Trap   
-
-**First created:** 2025-08-03 | **Last updated:** 2025-08-30
-
-*How bureaucratic actors weaponise ethical language to enforce compliance and mask inaction.* 
+**First created:** 2025-08-03 | **Last updated:** 2025-10-08  
+*How bureaucratic actors weaponise ethical language to enforce compliance and mask inaction.*  
 
 ---
 
@@ -50,9 +48,9 @@ A breakdown of how bureaucratic actors weaponise ethical language and institutio
 *🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents how ethical language is repurposed as a coercive trap.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](../🗝️_Politics_Memory_Work/README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-08_  
 
