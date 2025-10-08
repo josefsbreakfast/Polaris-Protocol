@@ -1,6 +1,6 @@
 # 🗡 Narrative Management and Metadata Sabotage
 
-**First created:** 2025-08-06 | **Last updated:** 2025-08-30
+**First created:** 2025-08-06 | **Last updated:** 2025-10-08
 
 *How metadata sabotage governs narrative visibility and erases memory.*  
 
@@ -61,8 +61,8 @@ By breaking the link between story and record, hostile actors:
 *Narrative Management and Metadata Sabotage* is a living node of the Polaris Protocol.  
 It traces how metadata trails are sabotaged to manage, distort, or erase stories — and how forensic resistance strategies can counter the attempted amnesia.  
 
-🏮 [Return to 👁️‍🗨️ Witness & Historical Casefiles Guide](../README.md)
+🏮 [Return to 👁️‍🗨️ Witness & Historical Casefiles Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-08_  
