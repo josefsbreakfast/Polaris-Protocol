@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-08 00:39:54 UTC_
+_Generated on 2025-10-08 00:42:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -554,7 +554,7 @@ _Generated on 2025-10-08 00:39:54 UTC_
       - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
       - [`🧠_memory_encoding_endings.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧠_memory_encoding_endings.md)
       - [`🧩 Rejustification_Loop_Racial_Logics_Reborn_as_Safety.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧩 Rejustification_Loop_Racial_Logics_Reborn_as_Safety.md)
-      - [`🪞 Deference_Politics_as_Containment_Mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪞 Deference_Politics_as_Containment_Mechanism.md)
+      - [`🪞_deference_politics_as_containment_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
     - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md)
