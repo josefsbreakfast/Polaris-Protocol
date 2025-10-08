@@ -1,10 +1,10 @@
 # 🦾 Invest Appropriately  
-**First created:** 2025-10-03  |  **Last updated:** 2025-10-06  
+**First created:** 2025-10-03  |  **Last updated:** 2025-10-08  
 *On how the “deserving poor” mythology and the charitable-arms complex hollow out democracy from within.*
 
 ---
 
-## 🧩 Overview  
+## ✨ Overview  
 Britain’s charity architecture was built to *soothe* inequality, not to dismantle it.  
 By binding public need to private benevolence, we turned poverty into a **curated performance**: something observed, audited, and awarded in grants.  
 
@@ -69,9 +69,8 @@ It maps how the charity system and moral-prestige economy deform democratic stru
 
 > 📡 Cross-references:  
 > - [🚀 Arms Transparency](../🚀_arms_transparency.md)  
-> - [🦾 Dual Uses That Never Come](../🦾_dual_uses_that_never_come.md)  
-> - [🎛️ Survivor Voice Fidelity](../../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
+> - [🦾 Dual Uses That Never Come](../🚀_Dual_Use_Dualities/🦾_dual_uses_that_never_come.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-08_
