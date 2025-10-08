@@ -1,5 +1,5 @@
 # 🔬 Operation No Sanctuary  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-08  
 *Diagnostic node on the Newcastle child sexual exploitation prosecutions and their institutional implications.*  
 
 ---
@@ -50,7 +50,7 @@ Operation Sanctuary (later Shelter) was Northumbria Police’s flagship investig
 
 ## 📡 Cross-References  
 - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — how institutional safeguards collapse under pressure  
-- [🧬 Cloneproof](../Survivor_Tools/🧬_cloneproof.md) — survivor-led countermeasures against coercive control  
+- [🧬 Cloneproof](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — survivor-led countermeasures against coercive control  
 
 ---
 
@@ -59,9 +59,9 @@ Operation Sanctuary (later Shelter) was Northumbria Police’s flagship investig
 It documents a high-profile safeguarding breakdown in Newcastle, situating it within national exploitation patterns and institutional containment failures.  
 
 > 📡 Cross-references:  
-> - [👁️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/) — systemic case diagnostics  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal guides  
+> - [👁️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — systemic case diagnostics  
+> - [Survivor Tools](../../Survivor_Tools/README.md) — countermeasures and refusal guides  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-08_  
