@@ -78,7 +78,7 @@ It examines how systems rewrite agency into ritual, and how survivors can rewrit
 
 > 📡 Cross-references:
 > 
-> - [🈴 Allies & Ethics — README](../README.md)  
+> - [🈴 Allies & Ethics — README](./README.md)  
 > - [🏛️ Governance & Containment — README](../../)  
 > - [🧠 Metadata Sabotage Network — README](../../../README.md)  
 
