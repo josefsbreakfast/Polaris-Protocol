@@ -1,5 +1,5 @@
 # 🪞 Twinned Silence  
-**First created:** 2025-09-07 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-07 | **Last updated:** 2025-10-08  
 *How paired or spliced witnesses are groomed to cancel each other out*  
 
 ---
@@ -120,8 +120,8 @@ And at the level of **the moment**: this is an imperative of now.
 In an age of digital information and narrative interference, refusing to be spliced apart is not optional — it is the survival skill of our time.  
 
 See also:  
-- [🫛 Amplification by Convergence](../../Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *how convergence is structurally amplified and resolved*  
-- [🧭 Survivor Tools](../../Survivor_Tools/) — *countermeasures and refusal guides*  
+- [🫛 Amplification by Convergence](../../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *how convergence is structurally amplified and resolved*  
+- [🧭 Survivor Tools](../../Survivor_Tools/README.md) — *countermeasures and refusal guides*  
 - [🧬 Cloneproof](../../Survivor_Tools/🧬_cloneproof.md) — *resisting data amalgamation and identity splicing*  
 
 ---
@@ -160,4 +160,4 @@ It documents how paired witnesses are structurally disempowered by being groomed
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_  
+_Last updated: 2025-10-08_  
