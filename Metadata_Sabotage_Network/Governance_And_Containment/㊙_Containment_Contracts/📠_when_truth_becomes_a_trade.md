@@ -1,8 +1,12 @@
-# 📠 When Truth Becomes a Trade
-
-**First created:** 2025-09-09 | **Last updated:** 2025-09-09
-
+# 📠 When Truth Becomes a Trade  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
 *Analysis of commodification of truth in containment contracts.*
+
+---
+
+## 🛰 Orientation  
+This node traces how contractual containment converts truth into a commodity.  
+It links economic logic with emotional and cognitive erosion, mapping the mechanisms through which disclosure becomes a tradeable liability.  
 
 ---
 
@@ -45,16 +49,16 @@ What was once irreducible pain becomes a **tradable instrument**, like futures c
 
 How truth is laundered inside contractual systems:  
 
-1. **Rebranding:** Rename harm as “reputation management”  
-2. **Packaging:** Convert allegations into abstract “risk factors”  
-3. **Arbitrage:** Trade between legal silos, shifting liability offshore  
-4. **Leverage:** Use survivors’ silence to reassure investors and stakeholders  
+1. **Rebranding:** Rename harm as “reputation management.”  
+2. **Packaging:** Convert allegations into abstract “risk factors.”  
+3. **Arbitrage:** Trade between legal silos, shifting liability offshore.  
+4. **Leverage:** Use survivors’ silence to reassure investors and stakeholders.  
 
 The contract does not only contain — it **generates surplus value** for the system that enforces it.  
 
 ---
 
-## 🔄 The Survivor’s Position  
+## 🐦‍🔥 The Survivor’s Position  
 
 From inside, the trade feels like:  
 
@@ -71,9 +75,9 @@ To accept is to become **collateral** in a marketplace that thrives on erasure.
 
 The system relies on:  
 
-- **Scarcity:** Only some truths are “affordable” to release  
-- **Liquidity:** The quicker testimony can be neutralised, the more valuable the contract  
-- **Indexing:** Survivors’ disclosures feed datasets that *predict the next trade*  
+- **Scarcity:** Only some truths are “affordable” to release.  
+- **Liquidity:** The quicker testimony can be neutralised, the more valuable the contract.  
+- **Indexing:** Survivors’ disclosures feed datasets that *predict the next trade*.  
 
 This is not justice. It is **commodification disguised as protection**.  
 
@@ -132,7 +136,19 @@ Some changes cannot be crowdsourced — they require systemic choice:
 - **Right to Retain**: enshrine survivors’ right to keep their own records beyond corporate deletion cycles.  
 - **Anti-Laundering Safeguards**: prevent liability-shifting across jurisdictions that treat memory as exportable risk.  
 
-Without these shifts, the marketplace of silence remains profitable. With them, memory can return to being what it always was: **a shared inheritance, not a commodity**.  
+Without these shifts, the marketplace of silence remains profitable. With them, memory can return to being what it always was: **a shared inheritance, not a commodity.**  
+
+---
+
+## 🌌 Constellations  
+
+📠 🧿 💸 🔮 🪜 — This node sits in the governance–economy–memory constellation, showing how containment architectures monetise disclosure and distort collective recall.  
+
+---
+
+## ✨ Stardust  
+
+truth commodification, nda economy, containment architecture, survivor testimony, memory laundering, contractual erasure, visibility economy, data ethics, governance containment, economic suppression  
 
 ---
 
@@ -141,11 +157,12 @@ Without these shifts, the marketplace of silence remains profitable. With them, 
 *When Truth Becomes a Trade* is a living node of the Polaris Protocol.  
 It analyses how truth is commodified and exchanged within containment architectures, and how contractual erasure transforms testimony into a market instrument.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [㊙ Containment Contracts — README](./README.md)  
-> - [Governance & Containment — README](../README.md)  
-> - [Metadata Sabotage Network — README](../../README.md)  
+> - [🏯 Governance & Containment — README](../README.md)  
+> - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-09_
+_Last updated: 2025-10-08_
