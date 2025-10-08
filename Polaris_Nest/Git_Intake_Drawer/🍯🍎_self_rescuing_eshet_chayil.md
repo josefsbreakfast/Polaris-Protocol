@@ -75,4 +75,6 @@ you can explain to them the depth of meaning and why this, specifically.
 
 i have done enough work. i want to see my friends silenced with slapps. stop telling lawyers they cant work with me. fix *everyones* police data. give it back; i want the data equivilent of the get, please.  
 
+put in a word with the *good family friend*, perhaps.  
+
 2025-10-08
