@@ -44,8 +44,8 @@ diagnosis discrediting, mental health surveillance, prevent system, data capture
 It records an active containment tactic where mental-health diagnoses are prompted or reshaped to discredit survivor testimony.  
 
 > 📡 Cross-references:  
-> - [🧠 HM Dept Coercive Nudges](../Big_Picture_Protocols/🧠_hm_dept_coercive_nudges.md)  
-> - [👅 Voice Disruption & Discrediting](../Disruption_Kit/Metadata_Sabotage_Network/👅_voice_disruption_discrediting.md)  
+> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md)  
+> - [👅 Voice Disruption & Discrediting](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
