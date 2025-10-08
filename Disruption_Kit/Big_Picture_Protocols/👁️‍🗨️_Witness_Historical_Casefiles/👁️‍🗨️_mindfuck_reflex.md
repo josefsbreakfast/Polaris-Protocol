@@ -91,9 +91,9 @@
 It records how survivor testimony intersects with systemic genealogy: from Obama-era data methods to UK-specific party structures and anomalies in Reform UK’s operations.  
 
 > 📡 Cross-references:  
-> - [👁️‍🗨️ Witness_Historical_Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — reshaped and suppressed witness traces  
+> - [👁️‍🗨️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — reshaped and suppressed witness traces  
 > - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — UK behavioural ops and coercive design  
-> - [🪬 Radicalisation_Extremism](../🪬_Radicalisation_Extremism/README.md) — how imported nudges adapt into pipelines  
+> - [🪬 Radicalisation Extremism](../🪬_Radicalisation_Extremism/README.md) — how imported nudges adapt into pipelines  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
