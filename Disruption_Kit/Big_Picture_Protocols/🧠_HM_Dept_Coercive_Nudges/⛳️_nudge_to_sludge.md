@@ -1,5 +1,5 @@
 # ⛳️ Nudge to Sludge  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-08  
 *When behavioural science turns coercive: tracing the drift from nudge to sludge in UK governance.*  
 
 ---
@@ -56,13 +56,14 @@ nudge theory, sludge, behavioural economics, coercion, UK government, BIT, DWP, 
 
 ## 🏮 Footer  
 
-*⛳️ Nudge to Sludge* is a living node of the Polaris Protocol.  
+*Nudge to Sludge* is a living node of the Polaris Protocol.  
 It contributes to the **HM Dept Coercive Nudges** cluster by tracing how soft behavioural tools become hard suppression infrastructure.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 HM Dept Coercive Nudges](./README.md) — main cluster on behavioural governance  
 > - [🌀 System Governance](../🌀_System_Governance/README.md) — wider logic of coercive control  
-> - [🛠 Survivor Tools](../../Survivor_Tools/README.md) — countermeasures and response frameworks  
+> - [🧬 Survivor Tools](../../Survivor_Tools/README.md) — countermeasures and response frameworks  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
