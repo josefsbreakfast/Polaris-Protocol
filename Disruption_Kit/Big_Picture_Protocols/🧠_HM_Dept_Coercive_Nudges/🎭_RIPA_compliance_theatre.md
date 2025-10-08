@@ -1,6 +1,5 @@
 # 🎭 RIPA Compliance Theatre  
-
-**First created:** 2025-08-04 | **Last updated:** 2025-08-30  
+**First created:** 2025-08-04 | **Last updated:** 2025-10-08  
 
 > **“They said it was lawful. They meant it was theatrically timed.”**  
 > *RIPA (Regulation of Investigatory Powers Act) and allied powers convert coercion into performance.  
@@ -8,7 +7,7 @@
 
 ---
 
-## 📌 Overview  
+## ✨ Overview  
 
 This doctrine node documents how **RIPA procedures operate as theatre**:  
 - Performing legality while seizing metadata.  
@@ -19,7 +18,7 @@ Together, these mechanisms strip survivors of narrative control while preserving
 
 ---
 
-## 📄 Act I: Pretextual Consent Flows  
+## 🎊 Act I: Pretextual Consent Flows  
 
 > *When they say “it’s your choice,” but your options are submission or silence.*  
 
@@ -36,7 +35,7 @@ This is not collaboration — it is a **narrative trap**.
 - Refusal punished via case abandonment or welfare notes.  
 - Consent invalidated by the assumption of surveillance already underway.  
 
-### 📌 Index Terms  
+### 🎟 Index Terms  
 - “Pretextual consent”  
 - “Safeguarding-induced surrender”  
 - “Consensual coercion loop”  
@@ -60,14 +59,14 @@ Device seizure often functions as a **ritual performance**:
 - Indefinite retention justified as “investigative necessity.”  
 - Seizure used to launder illegally obtained metadata.  
 
-### 📌 Examples for Indexing  
+### 🎟 Examples for Indexing  
 - “Reverse-justified seizure”  
 - “Post-surveillance evidence laundering”  
 - “Compliance theatre via property removal”  
 
 ---
 
-## 🔍 Act III: Evidentiary Exhibitionism  
+## 🪄 Act III: Evidentiary Exhibitionism  
 
 > *The state’s right to watch becomes a kink for control.*  
 
@@ -84,7 +83,7 @@ The goal is not truth, but **erosion of resistance through shame**.
 - Surveillance doubles as voyeurism.  
 - Disclosure loops aestheticised into “evidence theatre.”  
 
-### 📌 Indexing Tags  
+### 🎟 Indexing Tags  
 - “RIPA theatre of shame”  
 - “Administrative exhibitionism”  
 - “Evidence fetishisation”  
@@ -92,7 +91,7 @@ The goal is not truth, but **erosion of resistance through shame**.
 
 ---
 
-## 🧭 Polaris Note  
+## 🐦‍🔥 Polaris Note  
 
 RIPA Compliance Theatre is not about justice.  
 It is about optics: **ritualised acts of legality that disguise coercion as choice, seizure as necessity, and evidence as spectacle.**  
@@ -111,5 +110,5 @@ This file documents how surveillance law operates as performance — ritualised 
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-08_  
 
