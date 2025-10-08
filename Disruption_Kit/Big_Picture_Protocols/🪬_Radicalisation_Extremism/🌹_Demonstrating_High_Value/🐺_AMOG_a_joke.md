@@ -175,7 +175,7 @@ It documents how bar-room rivalry logics became the street theatre of political 
 - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)  
 - [🪬 Radicalisation & Extremism](../README.md)  
 - [🌹 Negging](./🌹_negging.md)  
-- [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
+- [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
