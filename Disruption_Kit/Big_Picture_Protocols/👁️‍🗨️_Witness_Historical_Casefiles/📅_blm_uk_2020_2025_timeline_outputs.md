@@ -89,7 +89,7 @@ It records how the BLM moment in Britain evolved into institutional response, bu
 
 > 📡 Cross-references:  
 > – [🕊️ From BLM to Palestine — The Suppression Switchboard](./🕊️_from_blm_to_palestine_the_suppression_switchboard.md)  
-> – [⚔️ War on Woke as Containment Architecture](./⚔️_war_on_woke_as_containment_architecture.md)  
+> – [⚔️ War on Woke as Containment Architecture](../📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)  
 > – [🪞 Deference Politics as Containment Mechanism](../🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)  
 > – [🧩 Re-Justification Loop — Racial Logics Reborn as Safety](./🧩_rejustification_loop_racial_logics_reborn_as_safety.md)  
 
