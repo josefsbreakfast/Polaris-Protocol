@@ -1,10 +1,10 @@
 # 🦾 Dual Uses That Never Come  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-08  
 *On the permanent promise of “dual-use” innovation — and how veterans’ trauma becomes a marketing loop for more weapons.*
 
 ---
 
-## 🧩 Overview  
+## ✨ Overview  
 
 “Dual-use” has always been the arms industry’s moral insurance policy: the claim that technologies built for war will later heal, protect, or uplift.  
 In practice, this promise almost never materialises.  
@@ -29,7 +29,7 @@ This cycle repeats because it sells both pity and pride — an emotional arbitra
 
 ---
 
-## ⚙️ The Dual-Use Mirage  
+## 👻 The Dual-Use Mirage  
 
 Arms developers invoke “dual-use” to attract university grants and ESG-friendly investors.  
 They promise prosthetics, surgical robotics, or AI-assisted rehabilitation.  
@@ -40,7 +40,7 @@ Meanwhile, defence departments inherit the intellectual property, completing the
 
 ---
 
-## 🧍 The Human Interface  
+## 🐉 The Human Interface  
 
 Veterans are cast as both subject and symbol:  
 - **Subject**, through clinical trials and data extraction on trauma, biomechanics, and neural feedback.  
@@ -51,7 +51,7 @@ Every glossy prosthetic demo buys another year of moral immunity for the arms ec
 
 ---
 
-## 📉 The Regulatory Vacuum  
+## 🎪 The Regulatory Vacuum  
 
 Where transparency once worked as ballast — balancing moral cost with civic accountability — the privatised model erases the regulator entirely.  
 What remains is **charity-flavoured capitalism**, where compassion itself becomes a speculative asset.  
@@ -77,10 +77,10 @@ dual-use, veterans, prosthetics, disability tech, trauma research, arms industry
 It documents how trauma and rehabilitation are recycled as justification for further militarisation, exposing the unfulfilled social contract behind “dual-use” innovation.  
 
 > 📡 Cross-references:  
-> - [🚀 Arms Transparency](./🚀_arms_transparency.md) — on how visibility itself becomes camouflage  
-> - [🎽 Think Tanks, Surveillance, and Conferencing](./🎽_think_tanks_surveillance_and_conferencing.md) — on how influence circuits launder legitimacy  
+> - [🚀 Arms Transparency](../🚀_arms_transparency.md) — on how visibility itself becomes camouflage  
+> - [🎽 Think Tanks, Surveillance, and Conferencing](../🎽_think_tanks_surveillance_and_conferencing.md) — on how influence circuits launder legitimacy  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-08_
 
