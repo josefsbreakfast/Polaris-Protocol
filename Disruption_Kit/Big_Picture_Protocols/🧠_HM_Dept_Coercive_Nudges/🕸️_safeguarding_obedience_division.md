@@ -1,8 +1,6 @@
-# 🕸️ Safeguarding Obedience Division
-
-**First created:** 2025-08-03 | **Last updated:** 2025-08-30
-
-*How “support” becomes surveillance, and “care” becomes containment.* 
+# 🕸️ Safeguarding Obedience Division  
+**First created:** 2025-08-03 | **Last updated:** 2025-10-08  
+*How “support” becomes surveillance, and “care” becomes containment.*  
 
 ---
 
@@ -136,7 +134,7 @@ It often **disguises coercion as benevolent intervention** — especially agains
 - Coercion reframed as *care pathway*.  
 - Resistance flagged as *instability*.  
 
-### 📌 Examples for Indexing  
+### 🔖 Examples for Indexing  
 
 - “Pre-emptive containment under the banner of care.”  
 - “Weaponised safeguarding.”  
@@ -150,9 +148,9 @@ It often **disguises coercion as benevolent intervention** — especially agains
 *🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents how safeguarding rhetoric is redeployed as a mechanism of coercion and surveillance.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](../🗝️_Politics_Memory_Work/README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-08_  
 
