@@ -56,7 +56,7 @@ The task is not to abandon ethics paperwork, but to re-encode it with living rec
 
 ---
 
-### ✏️ Re-authoring Consent Language  
+### 🌱 Re-authoring Consent Language  
 Replace the passive grammar of approval (*“I give permission to be used”*) with active grammar of collaboration (*“We agree to share responsibility for context, care, and consequence.”*).  
 Shift emphasis from **granting access** to **governing participation.**  
 Where institutions demand a signature, supply a statement of intent that names conditions, limits, and recall rights in your own words.  
@@ -64,7 +64,7 @@ Every rewrite chips at the authority of templated consent.
 
 ---
 
-### 🔁 Building Consent Loops  
+### ☎️ Building Consent Loops  
 A single signature freezes power in the moment of first contact.  
 Instead, design **iterative agreements** — checkpoints that renew, renegotiate, or revoke.  
 Set time stamps for review; embed automatic reminders for both parties.  
@@ -73,7 +73,7 @@ It restores movement to what bureaucracy tried to still.
 
 ---
 
-### 💬 Embedding Emotional Literacy  
+### 🎶 Embedding Emotional Literacy  
 Institutional ethics forms are written in the tone of **clinical remove**.  
 Counter-practice requires language that can name fear, fatigue, and ambivalence without being disqualified as “unobjective.”  
 Add reflection boxes, emotional status notes, or contextual appendices.  
@@ -81,7 +81,7 @@ If a process cannot hold emotion, it cannot hold ethics.
 
 ---
 
-### 🚫 Creating Refusal Clauses  
+### ❌ Creating Refusal Clauses  
 Every consent form should contain its opposite — the right to say **no** and to have that refusal operationalised with dignity.  
 Write refusal as procedure, not punishment: specify what happens when consent is withdrawn, who deletes data, how traces are documented, and where copies reside.  
 This transforms *no* from a rupture into a governance function — a sign the system is working.
@@ -100,8 +100,8 @@ This is how we move from compliance to communion — from checkbox to conversati
 When survivors rewrite consent, we are not rejecting ethics.  
 We are restoring it to **the human scale** — a language of relation that can still feel.  
 
-The phoenix rises here: not as spectacle, but as sustained revision.  
- 
+The phoenix rises here: not as spectacle, but as *sustained revision*.  
+
 Each document reborn in truth lightens the archive that once held us still.  
 
 ---
