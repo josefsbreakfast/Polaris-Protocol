@@ -1,5 +1,5 @@
 # 🩺 Diagnosis–Discredit Loop  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-08  
 *Active tactic: inserting or questioning mental-health diagnoses to undermine reliability of testimony.*
 
 ---
@@ -49,4 +49,4 @@ It records an active containment tactic where mental-health diagnoses are prompt
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-08_
