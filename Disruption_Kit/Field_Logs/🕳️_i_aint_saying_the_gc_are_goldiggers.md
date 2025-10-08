@@ -107,4 +107,8 @@ i will at least only marry someone who seea in that wonky a scan on the 1948 pap
 
 one prefers those who do, not those who don't.  
 
+---
+
+https://www.bailii.org/ew/cases/EWCOP/2020/25.html  
+
 2025-10-08  
