@@ -8,7 +8,7 @@
 
 - This work is not about basing a legal complaint on ChatGPT output.  
 - It is about **testing transparency** in UK justice/government processes using publicly available tools.  
-- From forensic evidenc in Polaris records, between **2008 and 2013**, direct questions about timelines and responsibilities fork into “system” answers rather than naming the DPP (Keir Starmer).  
+- From forensic evidence available in existent Polaris record, between **2008 and 2013**, direct questions about timelines and responsibilities fork into “system” answers rather than naming the DPP (Keir Starmer).  
 - That fork creates confusion and inaccuracy. It mimics the effect of a **super-injunction** — an invisible guardrail that hides accountability.  
 - For someone outside the legal field, this becomes an **access to justice issue**: if you don’t know the forks are there, you can’t correct them.  
 
@@ -54,7 +54,7 @@ This chart illustrates how different groups experience varying intensity of surv
 
 ---
 
-## 🤰 Birth vs Containment (Obstetric Metaphor)  
+## 🪺 Birth vs Containment (Obstetric Metaphor)  
 
 - In obstetrics, “squeezing to keep the baby in” is malpractice. It causes trauma.  
 - **Analogy:** high-control leadership = squeezing the womb of the state.  
@@ -83,7 +83,7 @@ This chart illustrates how different groups experience varying intensity of surv
 - **Painted target:** Centralising datasets made patterns visible — and in doing so, painted a target on him. If he resisted pressure, he risked being crushed. If he complied, he became the vessel for narrative management. Either way, the pattern itself was boxed in.  
 - **Not protection of him, but protection from him:** By moving him into politics, the system prevented evidence reaching him in ways that might force self-questioning. Containment here is less about shielding his reputation, more about ensuring he never became an unwitting disruptor.  
 
-### Options considered  
+### 🌹 Options considered  
 1. **True reformer, bent toward control** — cautious by nature, technocratic.  
 2. **System’s man, nudged upwards** — groomed to be the “acceptable face.”  
 3. **Containment asset via extraction** — removed from CPS to defuse explosive pattern recognition and insulated from evidence that could destabilise him or the system.  
@@ -94,7 +94,7 @@ The weight of connector-risk and CSE evasion patterns most strongly support **op
 
 ---
 
-## 📑 Inquiries and the Smoothing Effect  
+## 🍃 Inquiries and the Smoothing Effect  
 
 - **Surface vs depth:** Critics often say survivors “haven’t acted on existing inquiries” — Independent Inquiry into Child Sexual Abuse (IICSA), the J report, and others. On paper, these reports exist. But each is caught in a government process that produces plausible deniability: budget cuts, “local factors,” administrative reshuffles. Each factor alone can be excused; together they form a pattern of **containment by smoothing**.  
 - **Hesitation on central inquiry:** Starmer has now agreed to a centralised inquiry on CSE. His hesitation is telling: he likely knows the earlier reports are sound, but also knows they may not be *seen* as sound. If government data can be flipped so easily, networking around grooming and CSE is a live risk. In that light, moving him out of CPS may have been sold as a natural progression — when in fact it severed him from pattern-recognition that centralisation had enabled.  
@@ -252,7 +252,8 @@ The first rounds will feel hard. Institutions will resist. But persistence build
 *Final Bundle: CPS, VPS, Centralisation, and High-Control Analysis* is a living node of the Polaris Protocol.  
 It situates survivor-facing suppression inside UK justice/government transparency seams, mapping how forks and containment mutate into high-control governance.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 Big Picture Protocols](../README.md) — structural diagnostics and typologies  
 > - [🧨 Containment Scripts](../../Containment_Scripts/README.md) — logs of suppression and counter-nudges  
 > - [🛠 Survivor Tools](../../Survivor_Tools/README.md) — practical countermeasures  
