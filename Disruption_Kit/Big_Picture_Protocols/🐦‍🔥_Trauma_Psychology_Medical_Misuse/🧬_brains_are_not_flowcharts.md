@@ -1,5 +1,5 @@
 # 🧬 Brains Are Not Flowcharts  
-**First created:** 2025-09-10 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-10 | **Last updated:** 2025-10-08  
 *Why behavioural-psych simplifications mislead, and how survivor symptomatology exposes the messiness of the brain*  
 
 ---
@@ -45,7 +45,7 @@ Rather than being disappointing, this is fascinating: it shows how even our most
 
 ---
 
-## 🧾 Flowcharts vs Territory  
+## 🚀 Flowcharts vs Territory  
 
 Behavioural psychology deliberately pares back complexity: it asks why humans repeat behaviours, and then codes those answers into simplified loops.  
 That is useful in its place — just as fMRI is useful in research, not in everyday diagnosis.  
@@ -220,4 +220,4 @@ It documents how survivor experience and anatomical messiness destabilise behavi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_  
+_Last updated: 2025-10-08_  
