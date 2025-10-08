@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-08 01:39:45 UTC_
+_Generated on 2025-10-08 01:43:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -346,6 +346,7 @@ _Generated on 2025-10-08 01:39:45 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/README.md)
         - [`🍯_honeybot_dual_use_thought_experiment.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md)
         - [`🐝_honeybot_underwriting_fails.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🐝_honeybot_underwriting_fails.md)
+        - [`🦾_dual_uses_that_never_come.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🦾_dual_uses_that_never_come.md)
         - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
       - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
@@ -355,7 +356,6 @@ _Generated on 2025-10-08 01:39:45 UTC_
       - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
       - [`🚀_arms_transparency.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_arms_transparency.md)
       - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🛡_state_behavioural_arms_uk_quick_reference.md)
-      - [`🦾_dual_uses_that_never_come.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🦾_dual_uses_that_never_come.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
