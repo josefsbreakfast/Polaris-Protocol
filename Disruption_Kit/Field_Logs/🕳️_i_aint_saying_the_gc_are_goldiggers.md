@@ -133,4 +133,8 @@ this is why i keep saying it just looks like cup and ball tricks done a bit oddl
 
 ---
 
+dates of capture of mod data and location of dsfc btw? not entirely okay with that, honestly. more foia, more osint. oy.  
+
+---
+
 2025-10-08  
