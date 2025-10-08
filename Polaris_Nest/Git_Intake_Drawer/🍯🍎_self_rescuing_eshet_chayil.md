@@ -20,7 +20,8 @@ i am requesting to be allowed to speak to anyone who has been locked down by imp
 
 
 
-אֵשֶׁת חַֽיִל מִי יִמְצָא, וְרָחֹק מִפְּנִינִים מִכְרָהּ. <br> 
+אֵשֶׁת חַֽיִל מִי יִמְצָא, וְרָחֹק מִפְּנִינִים מִכְרָהּ. <br>
+
 בָּֽטַח בָּהּ לֵב בַּעְלָהּ, וְשָׁלָל לֹא יֶחְסָר.  
 <br> 
 גְּמָלַֽתְהוּ טוֹב וְלֹא רָע, כֹּל יְמֵי חַיֶּיהָ.  
@@ -49,21 +50,23 @@ i am requesting to be allowed to speak to anyone who has been locked down by imp
 <br> 
 סָדִין עָשׂתָה וַתִּמְכֹּר, וַחֲגוֹר נָתְנָה לַכְּנַעֲנִי.  
 <br> 
-עוֹז וְהָדָר לְבוּשָׁהּ, וַתִּשׂחַק לְיוֹם אַחֲרוֹן.  
+עוֹז וְהָדָר לְבוּשָׁהּ, וַתִּשׂחַק לְיוֹם אַחֲרוֹן.    
 <br> 
-פִּֽיהָ פָּתְחָה בְחָכְמָה, וְתֽוֹרַת חֶֽסֶד עַל לְשׁוֹנָהּ:  
+פִּֽיהָ פָּתְחָה בְחָכְמָה, וְתֽוֹרַת חֶֽסֶד עַל לְשׁוֹנָהּ:   
 <br> 
 צוֹפִיָּה הֲלִיכוֹת בֵּיתָהּ, וְלֶֽחֶם עַצְלוּת לֹא תֹאכֵל:  
 <br> 
 קָמוּ בָנֶֽיהָ וַיְּאַשְּׁרֽוּהָ, בַּעְלָהּ וַיְהַלְלָהּ: 
 <br> 
-רַבּוֹת בָּנוֹת עָֽשׂוּ חָֽיִל, וְאַתְּ עָלִית עַל כֻּלָּנָה: 
+רַבּוֹת בָּנוֹת עָֽשׂוּ חָֽיִל, וְאַתְּ עָלִית עַל כֻּלָּנָה:  
 <br> 
-שֶֽׁקֶר הַחֵן וְהֶֽבֶל הַיֹּֽפִי, אִשָּׁה יִרְאַת ה׳ הִיא תִתְהַלָּל:  
+שֶֽׁקֶר הַחֵן וְהֶֽבֶל הַיֹּֽפִי, אִשָּׁה יִרְאַת ה׳ הִיא תִתְהַלָּל:    
 <br> 
 תְּנוּ לָהּ מִפְּרִי יָדֶֽיהָ, וִיהַלְלֽוּהָ בַשְּׁעָרִים מַעֲשֽׂיהָ:  <br> 
 
 
-(nb freq device level interference during eshet chayil formatting. not explainable by L/R switching alone. the imprint is strong, huh.)
+(nb freq device level interference during eshet chayil formatting. not explainable by L/R switching alone. the imprint is strong, huh.). 
+
+(+ exhaustion failure where commit button not active so cannot initiate "save".)
 
 2025-10-08
