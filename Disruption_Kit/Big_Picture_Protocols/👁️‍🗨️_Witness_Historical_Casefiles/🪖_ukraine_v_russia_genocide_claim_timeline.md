@@ -1,5 +1,5 @@
 # 🪖 Ukraine v Russia — Genocide Claim Timeline  
-**First created:** 2025-09-24 | **Last updated:** 2025-09-27    
+**First created:** 2025-09-24 | **Last updated:** 2025-10-08    
 *ICJ proceedings on misuse of the Genocide Convention & related atrocity probes.*  
 
 ---
@@ -76,10 +76,10 @@ flowchart TD
 It documents how “genocide” was contested at the ICJ, and how parallel accountability tracks (ICC, UN) diverged in scope.  
 
 > 📡 Cross-references:  
-> - [👁️ Witness Historical Casefiles](../Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/) — international case precedents  
-> - [🧠 HM Dept Coercive Nudges](../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/) — misuse of legal categories as coercive tools  
+> - [👁️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — international case precedents  
+> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — misuse of legal categories as coercive tools  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-08_  
 
