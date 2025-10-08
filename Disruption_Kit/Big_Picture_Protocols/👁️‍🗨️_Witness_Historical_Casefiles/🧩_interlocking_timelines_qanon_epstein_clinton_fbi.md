@@ -54,10 +54,10 @@ QAnon, Jeffrey Epstein, Hillary Clinton, FBI investigation, timeline, 2016 elect
 It charts the chronological convergence of institutional crisis, conspiracy proliferation, and survivor-narrative capture between 2015 and 2019.  
 
 > 📡 Cross-references:  
-> - [🪬 Radicalisation & Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism/) — QAnon and online recruitment networks  
-> - [🎶 Banned Broadcasts Cooperative](../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/) — information throttling and circulation bans  
-> - [🧿 Watch The Watchers](../Big_Picture_Protocols/🧿_Watch_The_Watchers/) — oversight failures and feedback loops  
+> - [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/README.md) — QAnon and online recruitment networks  
+> - [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/README.md) — information throttling and circulation bans  
+> - [🧿 Watch The Watchers](../🧿_Watch_The_Watchers/README.md) — oversight failures and feedback loops  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-08_
