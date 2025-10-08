@@ -80,7 +80,7 @@ It examines how systems rewrite agency into ritual, and how survivors can rewrit
 > 
 > - [🈴 Allies & Ethics — README](./README.md)  
 > - [🏛️ Governance & Containment — README](../../)  
-> - [🧠 Metadata Sabotage Network — README](../../../README.md)  
+> - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
