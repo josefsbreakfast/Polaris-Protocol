@@ -1,6 +1,12 @@
-# 🪁 Contracts That Colonise Memory
-**First created:** 2025-09-09 | **Last updated:** 2025-09-09 <br>
+# 🪁 Contracts That Colonise Memory  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
 *How NDAs reshape memory landscapes and overwrite collective recall.*
+
+---
+
+## 🛰 Orientation  
+This node explores how NDAs and silence clauses do not merely suppress memory but restructure it — colonising the mental, cultural, and intergenerational terrain of recall.  
+It links to the *Containment Contracts* cluster as the strand mapping suppression’s impact on collective and embodied memory.  
 
 ---
 
@@ -59,7 +65,7 @@ Forgetting is never neutral; it is **engineered space for control**.
 
 ---
 
-## 🗄️ Counter-Archives as Structural Resistance  
+## 🐦‍🔥 Counter-Archives as Structural Resistance  
 
 If NDAs rake at the roots, counter-archives are the **mycorrhizal grafts** —  
 binding the forest back together through networks of care and recall.  
@@ -129,16 +135,29 @@ This is not individual pathology. It is engineered amnesia.
 
 ---
 
+## 🌌 Constellations  
+
+🪁 🧿 🌲 🔮 🪜 — This node sits in the governance–memory constellation, tracing how contractual silence colonises collective and embodied recall.  
+
+---
+
+## ✨ Stardust  
+
+nda colonisation, memory suppression, collective amnesia, survivor testimony, cultural memory, counter-archives, living archives, containment contracts, governance containment, survivor voice  
+
+---
+
 ## 🏮 Footer  
 
 *Contracts That Colonise Memory* is a living node of the Polaris Protocol.  
 It examines how contractual silence alters memory itself, embedding erasure as the new record.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [㊙ Containment Contracts — README](./README.md)  
-> - [Governance & Containment — README](../README.md)  
-> - [Metadata Sabotage Network — README](../../README.md)  
+> - [🏯 Governance & Containment — README](../README.md)  
+> - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-09_  
+_Last updated: 2025-10-08_
