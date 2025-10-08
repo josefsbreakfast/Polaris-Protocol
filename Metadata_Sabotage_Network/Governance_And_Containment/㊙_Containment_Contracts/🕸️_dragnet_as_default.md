@@ -135,8 +135,8 @@ It maps how containment practices expand until silence itself becomes the assume
 > 📡 Cross-references:
 > 
 > - [㊙ Containment Contracts — README](./README.md)  
-> - [Governance & Containment — README](../README.md)  
-> - [Metadata Sabotage Network — README](../../README.md)  
+> - [🏯 Governance & Containment — README](../)  
+> - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
