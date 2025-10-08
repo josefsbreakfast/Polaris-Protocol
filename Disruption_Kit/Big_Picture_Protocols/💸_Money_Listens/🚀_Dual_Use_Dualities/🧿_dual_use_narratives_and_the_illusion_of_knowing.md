@@ -1,5 +1,5 @@
 # 🧿 Dual-Use Narratives and the Illusion of Knowing
-**First created:** 2025-10-07  |  **Last updated:** 2025-10-07  
+**First created:** 2025-10-07  |  **Last updated:** 2025-10-08  
 *A Polaris node on how information abundance replaces verification when walls, blockades, and dual‑use architectures shape what the world gets to “know.”*
 
 ---
@@ -92,7 +92,7 @@ The wall/closure makes bodies invisible; the platform regime makes **truth** inv
 
 ---
 
-## 🧭 Ethical Takeaways & Safeguards
+## 🐦‍🔥 Ethical Takeaways & Safeguards
 1. **Noise can be as dangerous as silence.** Treat abundance without verification as a risk signal.  
 2. **Protect the narrators.** Emergency journalist‑protection corridors; credential hand‑over to deter impersonation (CPJ/UNESCO 2025).  
 3. **Independent data escrow.** Mirror humanitarian/forensic datasets outside belligerent control (OCHA 2025).  
@@ -132,9 +132,8 @@ dual‑use narratives; verification vacuum; DARVO; journalist targeting; epistem
 *Dual‑Use Narratives and the Illusion of Knowing* is a living node of the Polaris Protocol. It examines how walls/closures and platform dynamics combine with dual‑use tech to replace witness with performance.
 
 > 📡 Cross‑references  
-> - [🧱 The Verification Vacuum — Dual‑Use Narratives Behind the Wall](/Disruption_Kit/Field_Logs/🧱_the_verification_vacuum.md)  
-> - [🍯 HoneyBot — A Dual‑Use Thought Experiment](/Disruption_Kit/Field_Logs/🍯_honeybot_dual_use_thought_experiment.md)  
-> - [🐝 HoneyBot Underwriting Fails](/Disruption_Kit/Field_Logs/🐝_honeybot_underwriting_fails.md)
+> - [🍯 HoneyBot — A Dual‑Use Thought Experiment](./🍯_honeybot_dual_use_thought_experiment.md)  
+> - [🐝 HoneyBot Underwriting Fails](./🐝_honeybot_underwriting_fails.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated 2025-10-07_
+_Last updated 2025-10-08_
