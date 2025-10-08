@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-08 00:42:37 UTC_
+_Generated on 2025-10-08 00:43:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -553,7 +553,7 @@ _Generated on 2025-10-08 00:42:37 UTC_
       - [`🥄_deserving_poor_containment.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🥄_deserving_poor_containment.md)
       - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
       - [`🧠_memory_encoding_endings.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧠_memory_encoding_endings.md)
-      - [`🧩 Rejustification_Loop_Racial_Logics_Reborn_as_Safety.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧩 Rejustification_Loop_Racial_Logics_Reborn_as_Safety.md)
+      - [`🧩_rejustification_loop_racial_logics_reborn_as_safety.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧩_rejustification_loop_racial_logics_reborn_as_safety.md)
       - [`🪞_deference_politics_as_containment_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
     - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/)
