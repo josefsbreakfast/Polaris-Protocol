@@ -1,6 +1,6 @@
 # ⚖️ Sanhedrin Punishments — Historical Halakhic Practice  
 
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2025-10-08  
 *A completely hypothetical scenario explored through the lens of classical Jewish law, showing how a Sanhedrin might have ruled.  
 Expanded with sources, covenant vs. nationality sidebar, forgiveness limits, and modern parallels.*  
 
@@ -177,9 +177,9 @@ My commitment is not execution but **democracy and transformative justice**: sur
 It documents how a Sanhedrin might hypothetically have judged trafficking, exclusion, and torture of a Jewish woman — and maps those rulings into medieval communal tools and contemporary democratic practice.  
 
 > 📡 Cross-references:  
-> - [📜 Statutes](./) — systemic laws and architectures  
-> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../🐦‍🔥_trauma_psycology_medical_misuse.md)  
+> - [📜 Statutes](../README.md) — systemic laws and architectures  
+> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_  
+_Last updated: 2025-10-08_  
