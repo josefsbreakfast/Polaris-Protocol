@@ -1,5 +1,5 @@
 # 🕊️ From BLM to Palestine — The Suppression Switchboard  
-**First created:** 2025-10-06  |  **Last updated:** 2025-10-06  
+**First created:** 2025-10-06  |  **Last updated:** 2025-10-08  
 *How lessons from the 2020 BLM containment cycle were redeployed in the policing of Palestine solidarity and “woke” dissent.*
 
 ---
