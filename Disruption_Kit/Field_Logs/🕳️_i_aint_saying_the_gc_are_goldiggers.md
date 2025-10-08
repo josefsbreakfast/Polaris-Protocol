@@ -45,4 +45,21 @@ or did she just get tired of all the men calling her the "surveillance slut" and
 
 i'm not sure you are the party in consensus reality, if you honestly believe that is justifiable.  
 
+---
+
+seeing as the algorithm also keeps slicing in caa:
+
+- looks a lot like a think tank in charity drag
+- very media narrative manicured, blocked everyone decent inc michael rosen (who has also, it appears, been extensively harrassed via data disintegrity, and its michael rosen...how can you actually?)
+- yes youre all aware of how i feel about the public facing financial records of some of your directors, im sure. if not, consult tone of polaris and search charities commission and companies house. see what stands out by its absence.  
+- i dont know what the craic is re the legal professional network ties, but it appears extremely unusual.
+
+i generally havent touched lobbying of a certain space, and was hoping i could sort the data issues out first, given the extent of harm.  
+
+but if we're all so bothered about my feelings about SoI bonds amd the JNF?  
+
+you should be offended any of us were encouraged into normalising this, and i will happy wrote up why that is.  
+
+try not to break my internet, whoever i playing with it please.  
+
 2025-10-08  
