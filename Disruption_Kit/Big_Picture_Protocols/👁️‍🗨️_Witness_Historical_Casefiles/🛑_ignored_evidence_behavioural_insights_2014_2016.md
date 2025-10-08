@@ -1,5 +1,5 @@
 # 🛑 Ignored Evidence Node — Behavioural Insights 2014–2016  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-08  
 *Records how evidence presented to the House of Lords Science & Technology Committee (2014 follow-up on Behaviour Change) raised sensible cautions, yet policy practice largely ignored them.*  
 
 ---
@@ -66,10 +66,10 @@ Despite these, government practice barely shifted. This node outlines the cautio
 It records how measured cautions around nudging (2014–2016) were heard but largely ignored, and why.  
 
 > 📡 Cross-references:  
-> - [🧭 Nudge Origin → Sludge Node](../Big_Picture_Protocols/🧭_nudge_origin_to_sludge.md)  
-> - [🛑 Nudge Concerns Witnesses 2014–2016](../Big_Picture_Protocols/🛑_nudge_concerns_2014_2016_witnesses.md)  
-> - [⚖️ Transparency Floor Node](../Big_Picture_Protocols/⚖️_transparency_floor.md)  
+> - [🧭 Nudge Origin → Sludge Node] *TBC*
+> - [🛑 Nudge Concerns Witnesses 2014–2016] *TBC*  
+> - [⚖️ Transparency Floor Node](../🌀_System_Governance/⚖️_transparency_floor_node.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-08_  
