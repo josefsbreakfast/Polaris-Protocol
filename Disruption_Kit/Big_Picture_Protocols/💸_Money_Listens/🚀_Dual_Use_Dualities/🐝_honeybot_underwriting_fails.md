@@ -1,16 +1,16 @@
 # 🐝 HoneyBot Underwriting Fails — and How to Rectify Them  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-07  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-08  
 *A governance note on why dual-use or ethically volatile research collapses under weak underwriting, and what fixes restore accountability.*
 
 ---
 
-## 🧭 Orientation  
+## ✨ Orientation  
 Using the satirical *🍯 HoneyBot* prototype as a stress test, this note examines how underwriting and indemnity structures can quietly enable ethical collapse.  
 When insurers, funders, and compliance officers treat dual-use research as routine innovation, every safeguard meant to protect subjects, institutions, and the public becomes a tick-box.  
 
 ---
 
-## 🧩 Key Failure Modes  
+## 🔥 Key Failure Modes  
 
 | Category | Description | Why It Fails |  
 |-----------|--------------|--------------|  
@@ -45,7 +45,7 @@ When insurers, funders, and compliance officers treat dual-use research as routi
 
 ---
 
-## 🧭 Rectification Outcome  
+## 🌈 Rectification Outcome  
 
 A functioning underwriting model would:  
 - Treat **ethical risk as insurable risk**, not moral noise.  
@@ -77,4 +77,4 @@ It outlines how insurance and compliance frameworks must evolve to recognise eth
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-08_
