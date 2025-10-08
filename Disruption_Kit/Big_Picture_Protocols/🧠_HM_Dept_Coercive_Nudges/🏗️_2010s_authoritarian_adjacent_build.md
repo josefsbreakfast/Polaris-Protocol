@@ -1,10 +1,10 @@
 # 🏗️ 2010s Authoritarian-Adjacent Build  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-08  
 *Traces how, from 2010 onwards, counter-extremism policy (Prevent/Channel) and behavioural insights (nudges) converged into a wider governance architecture. This architecture normalised weak-signal surveillance and behaviour management, creating an authoritarian-adjacent frame for public services.*  
 
 ---
 
-## 🌐 Summary  
+## ✨ Summary  
 The 2010s saw two parallel strands reinforced and woven together:  
 1. **Counter-extremism escalation** — Prevent refreshed (2011), hardened (2015/2016) into statutory duty, embedding surveillance into everyday professions.  
 2. **Behavioural insights expansion** — Behavioural Insights Team (BIT) scaling across departments (DH, DfT, DfE, HMRC), embedding nudges as low-cost fixes.  
@@ -32,7 +32,7 @@ BIT spun out in 2014, but continued to operate as a public–private consultancy
 
 ---
 
-## 🔄 Shared Logics Across Strands  
+## 🧬 Shared Logics Across Strands  
 - **Weak signals as action triggers**  
   - Prevent: comments, behaviours, associations = radicalisation risk.  
   - Nudges: subtle design tweaks = population behaviour shifts.  
@@ -47,7 +47,7 @@ BIT spun out in 2014, but continued to operate as a public–private consultancy
 
 ---
 
-## 🧩 Structural Effect — Authoritarian Adjacency  
+## 🪀 Structural Effect — Authoritarian Adjacency  
 - Not a dictatorship, but a **permissive environment for authoritarian practices**.  
 - Surveillance justified through safeguarding and counter-terror framing.  
 - Behavioural steering justified through efficiency and public health.  
@@ -56,7 +56,7 @@ BIT spun out in 2014, but continued to operate as a public–private consultancy
 
 ---
 
-## 🧭 Implications for Polaris Mapping  
+## 🐦‍🔥 Implications for Polaris Mapping  
 - **Explains 2016 clusters:** data-twinning and weak provenance exploitation fit inside this wider architecture.  
 - **Raises oversight questions:** who flagged ethical risks, and how dissent was displaced.  
 - **Frames inquiry need:** repairing harm requires acknowledging the architecture, not just individual cases.  
@@ -69,10 +69,10 @@ BIT spun out in 2014, but continued to operate as a public–private consultancy
 It records how counter-extremism and behavioural insights merged into a surveillance/behavioural-control architecture, shaping the evidential fragility observed in 2016 and beyond.  
 
 > 📡 Backlinks:  
-> - [⚖️ Public Inquiry Business Case](../Big_Picture_Protocols/⚖️_public_inquiry_business_case.md)  
-> - [🛰️ Intentionality Assessment — 2016 Cluster](../Field_Logs/🛰️_intentionality_assessment_2016_cluster.md)  
-> - [🔬 Lost Checks and Balances](../Big_Picture_Protocols/🔬_lost_checks_and_balances.md)  
+> - [⚖️ Public Inquiry Business Case](../🌀_System_Governance/⚖️_public_inquiry_business_case.md)  
+> - [🛰️ Intentionality Assessment — 2016 Cluster] *TBC* 
+> - [🔬 Lost Checks and Balances](../🌀_System_Governance/🔬_lost_checks_and_balances.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-10-08_  
