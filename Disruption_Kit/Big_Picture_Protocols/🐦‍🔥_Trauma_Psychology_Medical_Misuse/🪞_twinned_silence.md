@@ -122,7 +122,7 @@ In an age of digital information and narrative interference, refusing to be spli
 See also:  
 - [🫛 Amplification by Convergence](../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *how convergence is structurally amplified and resolved*  
 - [🧭 Survivor Tools](../../Survivor_Tools/README.md) — *countermeasures and refusal guides*  
-- [🧬 Cloneproof](../../Survivor_Tools/🧬_cloneproof.md) — *resisting data amalgamation and identity splicing*  
+- [🧬 Cloneproof](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *resisting data amalgamation and identity splicing*  
 
 ---
 
