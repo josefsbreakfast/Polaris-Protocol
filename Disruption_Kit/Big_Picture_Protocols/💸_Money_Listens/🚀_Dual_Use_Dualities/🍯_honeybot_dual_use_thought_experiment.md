@@ -73,8 +73,8 @@ dual-use research, sex-tech, satire, ethics, surveillance, rehabilitation, polic
 It uses humour and fiction to illustrate how easily dual-use loopholes can arise in robotics and behavioural science, and why clear governance frameworks matter before the prototype becomes reality.
 
 > 📡 Cross-references:  
-> - [🌱 Human Principles](../🌱_Human_Principles/README.md) — ethics and dignity frameworks  
-> - [📜 Statutes](../../📜_Statutes/README.md) — regulatory architecture for dual-use research  
+> - [🌱 Human Principles](../../🌱_Human_Principles/README.md) — ethics and dignity frameworks  
+> - [📜 Statutes](../../../📜_Statutes/README.md) — regulatory architecture for dual-use research  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
