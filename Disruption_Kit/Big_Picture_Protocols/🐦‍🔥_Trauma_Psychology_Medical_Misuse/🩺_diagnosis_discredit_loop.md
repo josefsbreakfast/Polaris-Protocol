@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Overview  
+## ✨ Overview  
 
 A previously dormant tactic has resurfaced:  
 feeds and intermediaries are prompting or hinting that you should “query” existing diagnoses with your mental health team.  
@@ -40,7 +40,7 @@ diagnosis discrediting, mental health surveillance, prevent system, data capture
 
 ## 🏮 Footer  
 
-*🩺 Diagnosis–Discredit Loop* is a living node of the Polaris Protocol.  
+*Diagnosis–Discredit Loop* is a living node of the Polaris Protocol.  
 It records an active containment tactic where mental-health diagnoses are prompted or reshaped to discredit survivor testimony.  
 
 > 📡 Cross-references:  
