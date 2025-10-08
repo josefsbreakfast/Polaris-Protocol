@@ -1,5 +1,5 @@
 # ⚖️ Overlaps Between the Data Bill, Hereditary Peers Bill, and UK Genocide-Prevention Duties  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-02  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-08  
 *Systemic analysis of how three parliamentary fronts — digital rights, Lords reform, and genocide prevention — collided in mid-2025*  
 
 ---
@@ -104,9 +104,9 @@ data bill, hereditary peers, genocide prevention, complicity, lords reform, AI c
 It documents how simultaneous Lords debates on AI, constitutional reform, and Gaza obligations reveal systemic patterns of complicity and incrementalism.  
 
 > 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) — *contract laundering and system governance*  
-> - [🚨 Superinjunctions, SLAPPs & Rape Cases](./🚨_superinjunctions_slapps_rape_cases.md) — *precedent for legal shielding of state complicity*  
+> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — *contract laundering and system governance*  
+> - [🚨 Superinjunctions, SLAPPs & Rape Cases](../🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md) — *precedent for legal shielding of state complicity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-02_  
+_Last updated: 2025-10-08_  
