@@ -1,10 +1,16 @@
 # 🕸️ Dragnet as Default  
-**First created:** 2025-09-09 | **Last updated:** 2025-09-09  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
 *When isolated silencing becomes the default operating mode across systems.*  
 
 ---
 
-## ✨ From Exception to Routine  
+## ✨ Orientation  
+This node examines how silencing practices evolve from exceptional events into routine governance behaviour.  
+It forms part of the *Containment Contracts* cluster, tracing the systemic moment where suppression becomes structural habit.  
+
+---
+
+## 🛰 From Exception to Routine  
 
 Silence was once sold as exceptional — a clause for rare, sensitive moments.  
 But repetition shifts the baseline: what begins as the rare case becomes the routine.  
@@ -109,16 +115,29 @@ and truth is not exceptional.
 
 ---
 
+## 🌌 Constellations  
+
+🕸️ 🧿 💭 🔮 🪜 — This node sits in the governance-memory constellation, charting how containment logic scales until silence becomes atmosphere.  
+
+---
+
+## ✨ Stardust  
+
+silence normalisation, nda reflex, institutional containment, shadowbans, self-censorship, governance logic, survivor testimony, cultural seepage, systemic erasure, visibility suppression  
+
+---
+
 ## 🏮 Footer  
 
 *Dragnet as Default* is a living node of the Polaris Protocol.  
 It maps how containment practices expand until silence itself becomes the assumed condition.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [㊙ Containment Contracts — README](./README.md)  
 > - [Governance & Containment — README](../README.md)  
 > - [Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-09_  
+_Last updated: 2025-10-08_
