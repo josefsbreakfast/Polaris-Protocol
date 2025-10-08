@@ -1,5 +1,5 @@
 # ⚖️ Navigating Elder Spaces for Transparency  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-08  
 *How to move with respect among elders while asking for truths that unsettle power.*  
 
 ---
@@ -67,4 +67,4 @@ It records how survivors can move respectfully yet incisively within age-hierarc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-08_
