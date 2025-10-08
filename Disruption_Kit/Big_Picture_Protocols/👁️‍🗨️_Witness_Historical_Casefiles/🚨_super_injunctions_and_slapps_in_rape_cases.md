@@ -77,8 +77,8 @@ It documents how legal secrecy in the UK transforms from protection into coercio
 
 > 📡 Cross-references:  
 > - [⚖️ SLAPPs Detailed Node](../🌀_System_Governance/⚖️_slapps_uk_global_palestine.md)  
-> - [Survivor Tools](../Survivor_Tools/README.md)  
-> - [Big Picture Protocols](../Big_Picture_Protocols/README.md)  
+> - [Survivor Tools](../../Survivor_Tools/README.md)  
+> - [Big Picture Protocols](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
