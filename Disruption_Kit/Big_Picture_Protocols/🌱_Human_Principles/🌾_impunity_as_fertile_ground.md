@@ -1,5 +1,5 @@
 # 🌾 Impunity as Fertile Ground  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-07  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-08  
 *On why rape prevention cannot exist without dismantling permission structures.*
 
 ---
@@ -75,9 +75,9 @@ rape culture, impunity, consent education, structural violence, human principles
 It explores the cultural mechanics of permission and the limits of law in preventing sexual violence.  
 
 > 📡 Cross-references:  
-> - [🌱 Human Principles](../Big_Picture_Protocols/🌱_human_principles/) — ethics and dignity frameworks  
-> - [🕯 Exorcising Safeguarding Shadows](../Big_Picture_Protocols/🕯_exorcising_safeguarding_shadows/) — institutional complicity and silence mechanisms  
+> - [🌱 Human Principles](./README.md) — ethics and dignity frameworks  
+> - [🕯 Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows/README.md) — institutional complicity and silence mechanisms  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-08_
