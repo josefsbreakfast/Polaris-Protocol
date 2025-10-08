@@ -84,11 +84,11 @@ black lives matter UK, palestine solidarity, containment, substitution logic, wa
 It traces how state and institutional actors repurposed anti-racism containment tools to regulate Palestine solidarity and intersectional activism 2020–25.  
 
 > 📡 Cross-references:  
-> – [📅 BLM UK 2020–2025 Timeline Outputs](./📅_BLM_UK_2020-2025_Timeline_Outputs.md)  
-> – [⚔️ War on Woke as Containment Architecture](./⚔️_War_on_Woke_as_Containment_Architecture.md)  
-> – [🪞 Deference Politics as Containment Mechanism](./🪞_Deference_Politics_as_Containment_Mechanism.md)  
-> – [🧩 Re-Justification Loop — Racial Logics Reborn as Safety](./🧩_Rejustification_Loop_Racial_Logics_Reborn_as_Safety.md)  
+> – [📅 BLM UK 2020–2025 Timeline Outputs](./📅_blm_uk_2020_2025_timeline_outputs.md)  
+> – [⚔️ War on Woke as Containment Architecture](../📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)  
+> – [🪞 Deference Politics as Containment Mechanism](../🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)  
+> – [🧩 Re-Justification Loop — Racial Logics Reborn as Safety](../🧠_HM_Dept_Coercive_Nudges/🧩_rejustification_loop_racial_logics_reborn_as_safety.md)   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-08_
