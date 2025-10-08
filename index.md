@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-08 22:26:22 UTC_
+_Generated on 2025-10-08 22:42:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1269,6 +1269,7 @@ _Generated on 2025-10-08 22:26:22 UTC_
     - [`9_When_Resisted.md`](Polaris_Nest/Git_Intake_Drawer/9_When_Resisted.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
+    - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`💎_diamonds_and_disappointment.md`](Polaris_Nest/Git_Intake_Drawer/💎_diamonds_and_disappointment.md)
     - [`🛰️_another_witness_lost_signal.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_another_witness_lost_signal.md)
