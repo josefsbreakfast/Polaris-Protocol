@@ -155,7 +155,7 @@ It examines how contractual silence alters memory itself, embedding erasure as t
 > 📡 Cross-references:
 > 
 > - [㊙ Containment Contracts — README](./README.md)  
-> - [🏯 Governance & Containment — README](../README.md)  
+> - [🏯 Governance & Containment — README](../)  
 > - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
