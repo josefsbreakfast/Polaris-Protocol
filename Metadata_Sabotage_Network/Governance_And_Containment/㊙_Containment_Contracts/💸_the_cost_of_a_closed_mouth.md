@@ -1,7 +1,5 @@
 # 💸 The Cost of a Closed Mouth  
-
-**First created:** 2025-09-09 | **Last updated:** 2025-09-09  
-
+**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
 *Economic analysis of how silence is valued, traded, and weaponised.*
 
 ---
@@ -45,7 +43,7 @@ Those who enforce it capture profit, while those bound by it pay with erasure.
 - **Talent drainage:** When STEM, research, and luxury sectors gag whistleblowers, innovators walk or burn out.  
 - **Stifled feedback loops:** NDAs suppress early warnings about unsafe tech, cultural toxicity, or systemic bias — delaying adaptation.  
 - **Market stagnancy:** UK’s knowledge economy relies on *trust + transparency*. Each silenced scandal becomes an unspoken brake on investment confidence.  
-- **Luxury/stem fragility:** A couture house or AI lab looks stable on the balance sheet, but hidden settlements rot its pipeline of ideas, partnerships, and credibility.  
+- **Luxury/STEM fragility:** A couture house or AI lab looks stable on the balance sheet, but hidden settlements rot its pipeline of ideas, partnerships, and credibility.  
 - **Opportunity cost:** Every silenced voice is a future product, cure, or cultural export lost. The economy pays for hush once, and again in the absence of invention.  
 
 ---
@@ -139,7 +137,7 @@ Illustrates how “cheap” settlements balloon into accelerating losses in STEM
 |------------------------------|-----------------------------|--------------------|-------------|
 | STEM Innovation Suppressed   | 0.7                         | 12                 | High-High   |
 | Luxury Brand Scandals        | 0.5                         | 8                  | Med-High    |
-| AI Export Fragility          | 0.6                         | 10                  | High-High   |
+| AI Export Fragility          | 0.6                         | 10                 | High-High   |
 | Political/Reputation Fallout | 0.8                         | 15                 | Critical    |
 
 ---
@@ -182,7 +180,7 @@ Approx trajectories:
 
 - **Court efficiency gains:** Reducing the load of injunction litigation would free court time for criminal and tort law that generates tangible social benefit.  
 
-- **Historic lesson:** British industry flourished when space for innovation and open critique existed. Protecting communal knowledge commons today is not nostalgia — it is economic survival.
+- **Historic lesson:** British industry flourished when space for innovation and open critique existed. Protecting communal knowledge commons today is not nostalgia — it is economic survival.  
 
 ---
 
@@ -208,22 +206,31 @@ Approx trajectories:
 
 ---
 
+## 🌌 Constellations  
+
+💸 🧿 🏛️ 🔮 🧮 — This node sits in the governance–economy constellation, tracing how silence becomes both market instrument and systemic liability.  
+
+---
+
+## ✨ Stardust  
+
+economics of silence, nda market, systemic risk, ai bias, innovation drag, uk economy, governance containment, survivor voice, hush money, information flow  
+
+---
+
 ## 🏮 Footer  
 
 *The Cost of a Closed Mouth* is a living node of the Polaris Protocol.  
 It traces how silence is shaped into an economic object, packaged and traded under the guise of contract law and risk management.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🎈 Silence as Infrastructure](./🎈_silence_as_infrastructure.md) — architectures built on enforced quiet  
 > - [📠 When Truth Becomes a Trade](./📠_when_truth_becomes_a_trade.md) — transactional conversion of disclosure  
-> - [🪁 Contracts That Colonise Memory](./🪁_contracts_that_colonise_memory.md) — how agreements extend into lived experience
+> - [🪁 Contracts That Colonise Memory](./🪁_contracts_that_colonise_memory.md) — how agreements extend into lived experience  
 
-🏮 Return to...
-
-> - [㊙ Containment Contracts](./README.md)
-> - [Governance & Containment](../README.md)
-> - [Metadata Sabotage Network](../../README.md)
+> 🏮 Return to: [㊙ Containment Contracts](./README.md) • [Governance & Containment](../README.md) • [Metadata Sabotage Network](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-09_
+_Last updated: 2025-10-08_
