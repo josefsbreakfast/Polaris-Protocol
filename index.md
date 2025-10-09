@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-09 16:36:34 UTC_
+_Generated on 2025-10-09 16:48:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -242,6 +242,9 @@ _Generated on 2025-10-09 16:36:34 UTC_
         - [`usna_removed_books_2025.csv`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/usna_removed_books_2025.csv)
         - [`📊_navy_transparency_as_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/📊_navy_transparency_as_resistance.md)
         - [`📚_usna_removed_books_2025.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/📚_usna_removed_books_2025.md)
+      - [**🐉_The_Unpublishables/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/)
+        - [**🎪_Where_We_Go_From_Here/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md)
       - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/⚖️_legal_hooks_for_muted_books.md)
       - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
