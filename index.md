@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-09 17:01:37 UTC_
+_Generated on 2025-10-09 17:03:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -246,6 +246,7 @@ _Generated on 2025-10-09 17:01:37 UTC_
         - [**🎪_Where_We_Go_From_Here/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/)
           - [`10_Preventive_Framework.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/10_Preventive_Framework.md)
           - [`11_Authors_Notebook.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/11_Authors_Notebook.md)
+          - [`12_Atrocity_Engineers.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/12_Atrocity_Engineers.md)
           - [`13_Atrocity_Index.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/13_Atrocity_Index.md)
           - [`1_Atrocity_Physics.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/1_Atrocity_Physics.md)
           - [`2_Algorithmic_Statecraft.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/2_Algorithmic_Statecraft.md)
