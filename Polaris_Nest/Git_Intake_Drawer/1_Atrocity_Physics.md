@@ -1,119 +1,121 @@
 # 🧭 Early-Stage Atrocity Physics
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-08  
-*Stub node — outline structure for future drafting.*
+**First created:** 2025-10-08  |  **Last updated:** 2025-10-09  
+*Macro-overview of economic inequality, digital amplification, and scapegoat revival as early indicators of atrocity risk.*
 
 ---
 
-## 🧭 Orientation
-*(Summary of the node’s purpose and key arguments.)*
+## 🧭 Orientation  
+
+Before the camps or the militias, there is math.  
+Not of bodies, yet—but of ratios: debt-to-dignity, feed-to-fear, share-to-shame.  
+This node sketches how inequality, humiliation, and online mobilisation form a measurable physics of early-stage atrocity.  
+
+The goal is not prediction but **calibration**.  
+When fear becomes transmissible, when platforms reward rage, when belonging is rationed—mass violence is already in rehearsal.
 
 ---
 
-## 📑 Key Sections
-1. Introduction / Context
-2. Analysis / Evidence
-3. Implications / Cross-links
-4. Further Reading (if applicable)
+## 🧩 Key Features  
+
+- **Economic gravity:** widening gaps in income and security distort moral horizons.  
+- **Digital acceleration:** algorithmic amplification converts resentment into ideology.  
+- **Scapegoat revival:** old hatreds find new carriers, dressed as “debate.”  
+- **Threshold physics:** small nudges—policy, headline, meme—tilt the whole field.  
+- **Counter-gravities:** civic solidarity, literacy, and care resist collapse.  
 
 ---
 
-## 🔗 Cross-links
-*(List relevant nodes in this cluster or beyond.)*
+## 🔍 Analysis / Content  
+
+### 1  Inequality as Potential Energy  
+Every crisis of legitimacy begins with disproportionality.  
+When survival costs rise faster than recognition, societies accumulate combustible tension.  
+Authoritarian movements harvest this potential energy by re-describing exploitation as moral failure of the poor or foreign.  
+The physics is moral: as the gap between wealth and worth widens, empathy thins to a filament.
+
+### 2  Digital Amplification and Distributed Rage  
+Traditional propaganda required a ministry; now it only needs a metric.  
+Engagement algorithms reward outrage more efficiently than any censor ever could.  
+Each repost is a micro-delegation of enforcement—a unit of distributed authoritarianism explored in 📡 *Algorithmic Statecraft*.  
+When collective pain becomes gamified emotion, cruelty feels participatory, even civic.
+
+### 3  Scapegoat Recurrence  
+Economic stress demands explanation; prejudice offers a cheap one.  
+The “folk physics” of blame slides from migrants to minorities to feminists, echoing patterns mapped in 🧠 *Linguistic Drift of Scapegoating* and 🧨 *Manufacturing the Scapegoat*.  
+The unit of hatred stays constant; only the label changes.  
+Today’s Islamophobia performs the same social work as pre-Holocaust antisemitism: it converts anxiety into permission.
+
+### 4  Threshold Moments  
+Atrocity rarely announces itself.  
+Instead, watch for frictionless shifts: jokes without laughter, slogans turned safety doctrine, emergency powers that never expire.  
+Physics calls this *phase change*; politics calls it *normalisation*.  
+The violence is incremental, opportunistic, cumulative—its rhythm a slow acceleration punctuated by opportunist shocks.
+
+### 5  Counter-Gravities  
+Resistance begins where witnesses notice drift early.  
+Economic literacy, narrative sabotage, and civic solidarity act as counter-forces—keeping the moral field from total collapse.  
+Micro-acts of refusal—fact-checking, neighbour protection, humour that deflates cruelty—reintroduce friction into authoritarian momentum.  
+See 🌤️ *When Authoritarianism and Genocide Are Resisted* for empirical casework on how solidarity slows the slide.
 
 ---
 
-## ✨ Notes
-*(Placeholder for author’s reflections, sources, or commentary.)*
+## ⚙️ Underlying Mechanics  
 
-|    #   | Node Title                                                                          | Core Focus                                                                                                                                          |
-| :----: | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **1** | 🧭 **Early-Stage Atrocity Physics**                                                 | Macro-overview: economic inequality, online amplification, and scapegoat revival as early indicators of atrocity risk.                              |
-|  **2** | 📡 **Algorithmic Statecraft — Digital Propaganda as Distributed Authoritarianism**  | How virality and engagement metrics replace centralised propaganda orders.                                                                          |
-|  **3** | 🕯️ **Britain’s Near-Miss with Fascism — The Cable Street Precedent**               | Domestic 1930s fascism and immigrant-led resistance; debunking British exceptionalism.                                                              |
-|  **4** | 🧠 **Linguistic Drift of Scapegoating — From “Coloured” to “Woke”**                 | Evolution of exclusionary language and coded racism from the 1970s → present.                                                                       |
-|  **5** | 🕯️ **Diffuse Architecture of Persecution**                                         | Intersectional mapping of targeted groups under Nazism and modern multi-target hate.                                                                |
-|  **6** | ⚙️ **Raw Materials of Fascism**                                                     | Fear, humiliation, and family-safety panic as recurring emotional drivers.                                                                          |
-|  **7** | 🧨 **Manufacturing the Scapegoat — How Prejudice Becomes Political Technology**     | Conversion of everyday bias into ideology; Nazi antisemitism vs. modern Islamophobia.                                                               |
-|  **8** | 📖 **Justice, Angels and Adversaries — Comparative Theology and Law**               | Iblīs/Satan/ha-Satan and justice systems (Halakha, Canon Law, Sharia); debunking myths about feminism & LGBTQ+ rights in Islam.                     |
-|  **9** | 🌤️ **When Authoritarianism and Genocide Are Resisted**                             | Global record of successful resistance to fascism and mass violence.                                                                                |
-| **10** | 📜 **Preventive Framework — UN Atrocity Indicators Applied to the UK Context**      | Adapts UN & Stanton early-warning criteria to current UK data.                                                                                      |
-| **11** | 🪞 **Author’s Notebook — Reflections from a Jewish Witness to Modern Scapegoating** | Personal reflection on survivor memory and inter-community allyship.                                                                                |
-| **12** | 👹 **Coercive Engineers — Intentional Radicalisation and the Normality Trap**       | (Completed) Deliberate manipulation, diagnostics, authoritarian personality, harm-reduction, misinformation, and stress-response analysis.          |
-| **13** | 🔮 **Atrocity-Recurrence Index (Map)**                                              | Visual/textual cross-reference map linking all nodes to *Genocide by Containment*, *Suppression as Signal*, and *Human Principles / Ethics Frames*. |
+| Variable | Description | Early Indicator |
+|-----------|--------------|----------------|
+| **Wealth Disparity Index** | Concentration of capital, fall in social mobility | Public cynicism; “system rigged” rhetoric |
+| **Information Entropy** | Noise-to-signal ratio in media | Conspiracy clustering; distrust of expertise |
+| **Affective Velocity** | Speed at which outrage travels | Sudden spikes of identical phrasing across feeds |
+| **Legitimacy Lag** | Time between injustice and institutional response | Vigilantism; decline in complaint trust |
+| **Civic Inertia** | Social fatigue, burnout, hopelessness | Withdrawal from protest; irony replacing empathy |
 
-🔮 Authoritarian Recurrence Cluster Index
+These variables form the “physics engine” of atrocity risk: the faster outrage circulates in an unequal field, the less energy is needed to spark coordinated harm.
 
-First created: 2025-10-08 | Last updated: 2025-10-08
-A constellation of nodes examining how fascism and authoritarianism re-emerge through economic stress, digital amplification, and scapegoat politics — and how they are resisted.
+---
 
-🌌 Overview
+## 🧮 Comparative Frame  
 
-The cluster traces repeating civilisational dynamics: fear → scapegoating → normalisation → violence → resistance.
-It draws on comparative history, theology, media studies, and survivor-voice fidelity to map early-stage atrocity risk and civic countermeasures.
-All nodes link laterally; none depend on reading order.
+| Era | Trigger Energy | Transmission Medium | Primary Scapegoat | Collapse Prevention |
+|------|----------------|---------------------|-------------------|--------------------|
+| **1930s Europe** | War debt, humiliation | Print + rallies | Jews, Roma, Left | Labour movements, resistance networks |
+| **1970s West** | De-industrialisation | Television, tabloids | “Coloured” / migrant workers | Civil-rights coalitions |
+| **2020s Global** | Pandemic, austerity | Social-media algorithms | Muslims, refugees, “woke” citizens | Digital literacy, intersectional solidarity |
 
-🧭 1 Early-Stage Atrocity Physics
+---
 
-Scope: macro-analysis of economic inequality, online mobilisation, and scapegoat revival.
-Use: establishes baseline framework and warning indicators.
+## 🧠 Human Factor  
 
-📡 2 Algorithmic Statecraft — Digital Propaganda as Distributed Authoritarianism
+Stress narrows perception. Under chronic strain, people crave simplicity and certainty—the psychological “snap” that authoritarianism offers.  
+This doesn’t make them monsters; it makes them tired.  
+Prevention therefore starts with **collective recovery**: rest, belonging, agency.  
+A burnt-out populace is a conductor; a cared-for populace is an insulator.
 
-Scope: how algorithmic virality replicates centralised propaganda.
-Cross-links: Coercive Engineers (13); HM Dept Coercive Nudges.
+---
 
-🕯️ 3 Britain’s Near-Miss with Fascism — The Cable Street Precedent
+## 🔗 Cross-Links  
 
-Scope: domestic fascism 1930s; immigrant-led resistance; debunking British exceptionalism.
-Cross-links: Raw Materials of Fascism; When Authoritarianism and Genocide Are Resisted.
+- 📡 *Algorithmic Statecraft* — network physics of virality.  
+- ⚙️ *Raw Materials of Fascism* — emotional inputs: fear, humiliation, family panic.  
+- 🧨 *Manufacturing the Scapegoat* — conversion of bias to political technology.  
+- 📜 *Preventive Framework* — UN Atrocity Indicators Applied to the UK Context.  
+- 🌤️ *When Authoritarianism and Genocide Are Resisted* — counter-forces and civic deflection.  
+- 👹 *Coercive Engineers* — intentional manipulation and harm-reduction strategies.  
 
-🧠 4 Linguistic Drift of Scapegoating — From “Coloured” to “Woke”
+---
 
-Scope: evolution of exclusionary language 1970s→present.
-Cross-links: Manufacturing the Scapegoat (11); Diffuse Architecture (5).
+## 🌌 Constellations  
 
-🕯️ 5 Diffuse Architecture of Persecution
+🧭 ⚙️ 📡 🧨 🌤️ 👹 — Positions this node at the macro-diagnostic pole of the Authoritarian Recurrence Cluster, linking economic stress to digital acceleration and civic counter-gravity.
 
-Scope: intersectional mapping of targets (queer, disabled, Roma, Jewish etc.); links between Nazi and modern multi-target hate.
-Cross-links: Raw Materials (6); Justice Angels and Adversaries (10).
+---
 
-⚙️ 6 Raw Materials of Fascism
+## ✨ Stardust  
 
-Scope: economic humiliation + fear + family moral panic as structural inputs.
-Cross-links: Manufacturing the Scapegoat (11); Coercive Engineers (13).
+inequality | atrocity indicators | propaganda physics | scapegoating | algorithmic virality | early warning | distributed authoritarianism | economic stress | resistance mechanics | moral normalisation  
 
-🧨 7 Manufacturing the Scapegoat — How Prejudice Becomes Political Technology
+---
 
-Scope: transformation of latent bias into ideology; Nazi model vs current Islamophobia.
-Cross-links: Linguistic Drift (4); Raw Materials (6).
+## 🏮 Footer  
 
-📖 8 Justice, Angels and Adversaries — Comparative Theology and Law
-
-Scope: evolution of evil (Iblīs/Satan/ha-Satan) and its reflection in Halakha, Canon Law, and Sharia; debunking “Islam as anti-feminist/anti-gay.”
-Cross-links: Early-Stage Atrocity Physics (1); Human Principles.
-
-🌤️ 9 When Authoritarianism and Genocide Are Resisted
-
-Scope: global compendium of successful resistance to fascism and mass violence.
-Cross-links: Britain’s Near-Miss (3); Preventive Framework (10).
-
-📜 10 Preventive Framework — UN Atrocity Indicators Applied to the UK Context
-
-Scope: converts UN & Stanton criteria into a UK-specific early-warning checklist.
-Cross-links: Early-Stage Atrocity Physics (1); System Governance.
-
-🪞 11 Author’s Notebook — Reflections from a Jewish Witness to Modern Scapegoating
-
-Scope: personal essay on survivor memory, allyship, and ethical witnessing.
-Cross-links: Diffuse Architecture (5); Raw Materials (6).
-
-🎛 12 Coercive Engineers — Intentional Radicalisation and the Normality Trap
-
-Scope: identifies deliberate actors who engineer polarisation; includes academic diagnostic frameworks (Paxton, Eco, Payne, Britt).
-Cross-links: Algorithmic Statecraft (2); Manufacturing the Scapegoat (7); Preventive Framework (10).
-
-🔮 13 Atrocity-Recurrence Index (Map)
-
-Scope: visual and textual cross-reference map for the entire cluster; links out to Genocide by Containment, Suppression as Signal, and Human Principles / Ethics Frames.
-
-🧭 Constellation Logic
+🧭 *Early-Stage Atrocity Physics* is a living node of the **Polaris Protocol**.  
+It defines the baseline mechanics of how economic and digital forces combine to generate early atrocity risk—and how survivor analysis can detect that tilt before impact.  
