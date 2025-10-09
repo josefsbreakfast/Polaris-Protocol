@@ -1,17 +1,17 @@
 # 🧨 System Agitation Shopping List  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*A catalogue of ordinary actions that containment systems interpret as volatility, divergence, or dissent*
+**First created:** 2025-10-04 | **Last updated:** 2025-10-09  
+*A catalogue of ordinary actions that containment systems interpret as volatility, divergence, or dissent.*
 
 ---
 
-## Premise
+## ✨ Premise  
 Surveillance logic cannot tell the difference between intention and anomaly.  
 This list captures routine human behaviours that, when run through automated governance filters, register as threats.  
 Each line item is a mirror: an index of where the system’s sense of “normal” ends.
 
 ---
 
-## Agitation Shopping List
+## 🛒 Agitation Shopping List  
 - requesting copies of your own records  
 - changing one’s preferred name more than once  
 - writing emails at night in plain language  
@@ -38,26 +38,39 @@ Each line item is a mirror: an index of where the system’s sense of “normal�
 
 ---
 
-## Reading Instructions
+## 🔥 Reading Instructions  
 - Treat as a diagnostic aid for studying **threshold drift**: when the system’s idea of safety becomes self-referential.  
 - When auditing containment algorithms, flag which of these behaviours are logged as anomalies or “risk signals.”  
-- Use in training to test institutional empathy response curves.
+- Use in training to test institutional empathy-response curves.
 
 ---
 
-## 🌌 Constellations
-🧨 🉑 🧿 — anomaly, governance, drift.
+## 🌌 Constellations  
+
+🧨 🉑 🧿 — Sits at the junction of anomaly mapping, governance reflex, and threshold drift.
 
 ---
 
-## ✨ Stardust
-mundanity, anomaly detection, behavioural governance, risk flagging, everyday resistance, threshold drift
+## ✨ Stardust  
+
+mundanity, anomaly detection, behavioural governance, risk flagging, everyday resistance, threshold drift  
 
 ---
 
-## 🏮 Footer
+## 🏮 Footer  
+
+*System Agitation Shopping List* is a living node of the **Polaris Protocol**.  
+It catalogues the everyday behaviours that automated containment systems misread as deviance or dissent.  
+
+> 📡 Cross-references:
+> 
+> - [🉑 System Thresholds](./🉑_system_thresholds.md) — escalation framework  
+> - [🔴 System Threshold and False Pretext](./🔴_system_threshold_and_false_pretext.md) — how misread “agitation” converts to false justification  
+
 Every bureaucracy keeps a secret list of “unapproved normal.”  
-This one just publishes it.
+
+This one just publishes it.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+
+_Last updated: 2025-10-09_
