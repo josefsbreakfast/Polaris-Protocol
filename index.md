@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-09 16:50:07 UTC_
+_Generated on 2025-10-09 16:50:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -245,6 +245,7 @@ _Generated on 2025-10-09 16:50:07 UTC_
       - [**🐉_The_Unpublishables/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/)
         - [**🎪_Where_We_Go_From_Here/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/)
           - [`1_Atrocity_Physics.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/1_Atrocity_Physics.md)
+          - [`2_Algorithmic_Statecraft.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/2_Algorithmic_Statecraft.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md)
       - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/⚖️_legal_hooks_for_muted_books.md)
@@ -1262,7 +1263,6 @@ _Generated on 2025-10-09 16:50:07 UTC_
     - [`10_Preventive_Framework.md`](Polaris_Nest/Git_Intake_Drawer/10_Preventive_Framework.md)
     - [`11_Authors_Notebook.md`](Polaris_Nest/Git_Intake_Drawer/11_Authors_Notebook.md)
     - [`13_Atrocity_Index.md`](Polaris_Nest/Git_Intake_Drawer/13_Atrocity_Index.md)
-    - [`2_Algorithmic_Statecraft.md`](Polaris_Nest/Git_Intake_Drawer/2_Algorithmic_Statecraft.md)
     - [`3_Britains_Near_Miss.md`](Polaris_Nest/Git_Intake_Drawer/3_Britains_Near_Miss.md)
     - [`4_Linguistic_Drift.md`](Polaris_Nest/Git_Intake_Drawer/4_Linguistic_Drift.md)
     - [`5_Diffuse_Architecture.md`](Polaris_Nest/Git_Intake_Drawer/5_Diffuse_Architecture.md)
