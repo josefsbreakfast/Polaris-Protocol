@@ -140,7 +140,7 @@ It documents how help can become harm if left unexamined — and how transparenc
 > 📡 Cross-references:
 > 
 > - [🏛 Governance & Containment — README](../README.md)  
-> - [🧠 Metadata Sabotage Network — README](../../)  
+> - [🧠 Metadata Sabotage Network — README](../../README.md)  
 > - [🛠️ Disruption Kit — README](../../../Disruption_Kit/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
