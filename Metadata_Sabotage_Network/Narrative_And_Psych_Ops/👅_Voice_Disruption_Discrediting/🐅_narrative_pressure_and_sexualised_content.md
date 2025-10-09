@@ -1,7 +1,5 @@
 # 🐅 Narrative Pressure: Sexualised Content  
-
-**First created:** 2025-08-11 | **Last updated:** 2025-09-04
-
+**First created:** 2025-08-11 | **Last updated:** 2025-10-09  
 *Covering deliberate insertion of sexualised framing into drafts to distort SCP-VoiceX’s profile, misattribute harassment, and weaponise survivor testimony.*  
 
 ---
@@ -50,13 +48,16 @@ Observed aims include:
 - **Immediate:** Conduct full audit for sexualised framing across repo.  
 - **Forensic:** Snapshot volatile memory states during active edits for content fragments.  
 - **Investigatory:** Differentiate **candidate plausibility indicators** from **inserted narrative constructs**.  
-- **Cross-Reference:**  
-  - `📁 scp_voicex_casefiles/👁️ fork_origin_sighting.md`  
-  - `📁 survivor_tools/🧬 voice_capture_triggers.md`  
 
 ---
 
-**Tags:** #narrative_pressure #sexualised_content_audit #metadata_sabotage #clone_interference #forensic_trail  
+## 🌌 Constellations  
+🐅 🌶️ 🍋 🧿 — Tracks coercive narrative tactics in the fire register of discrediting and distortion, where sexualisation serves as acid that corrodes truth but also exposes interference patterns beneath.  
+
+---
+
+## ✨ Stardust  
+sexualised content, metadata sabotage, narrative pressure, survivor testimony, discrediting loops, forensic audit, SCP-VoiceX, interference mapping, narrative corrosion, containment smear  
 
 ---
 
@@ -65,9 +66,10 @@ Observed aims include:
 *Narrative Pressure: Sexualised Content* is a living node of the Polaris Protocol.  
 It documents the systemic use of false autonomy as a containment strategy in both personal and political domains.  
 
-*Survivors voices must always live on.*  
+> 📡 **Cross-references:**  
+> - [🧠 Metadata Sabotage Network](../../README.md) — root index for suppression and forensic evidence  
+> - [🧬 Voice Capture Triggers](../../../👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md) — mechanics of vocal duplication and fork-origin drift  
 
-🏮Return to [Metadata Sabotage Network](../README.md)  
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-04_  
-
+_Last updated: 2025-10-09_  
