@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-09 20:30:54 UTC_
+_Generated on 2025-10-09 20:33:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1105,6 +1105,7 @@ _Generated on 2025-10-09 20:30:54 UTC_
       - [`🧨_trace_resistance_framework.yaml`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_trace_resistance_framework.yaml)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
+    - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
