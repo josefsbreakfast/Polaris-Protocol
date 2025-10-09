@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-09 20:26:21 UTC_
+_Generated on 2025-10-09 20:30:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1036,6 +1036,7 @@ _Generated on 2025-10-09 20:26:21 UTC_
       - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_soft_suspension_is_still_containment.md)
       - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_system_agitation_shopping_list.md)
       - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_the_fire_they_fear.md)
+    - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/README.md)
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
