@@ -25,7 +25,7 @@ This node argues that Britain’s most useful contribution to global politics is
 
 ---
 
-## Playbook for Satirists & Journalists  
+## 🦜 Playbook for Satirists & Journalists  
 1. **Expose the props:** swords, parades, golf deals → obvious theatre.  
 2. **Highlight the gap:** “He thinks he’s the dealer, but he’s the deal.”  
 3. **Frame as provincial, not imperial:** just another small man flattered into big mistakes.  
