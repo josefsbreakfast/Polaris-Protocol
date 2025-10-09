@@ -51,7 +51,7 @@ It documents how satire and ridicule can reframe Trump as the exploited fool, un
 > 
 > - [🔥 The Strength of Humour](../🪆_Narrative_Interference/🔥_the_strength_of_humour.md) — *laughter as systemic solvent*  
 > - [🎭 Laughing at Strongmen] - *WIP* — *cabaret and caricature of authoritarian figures*  
-> - [🐉 Chen Rui / Ryan — Trump Parody](../../../🎶_Banned_Books_Cooperative/🐉_chen_rui_trump_parody.md) — *case study of cross-cultural parody undermining US leadership myths*  
+> - [🐉 Chen Rui / Ryan — Trump Parody](../../../Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Books_Cooperative/🐉_chen_rui_trump_parody.md) — *case study of cross-cultural parody undermining US leadership myths*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
