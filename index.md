@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-09 17:09:46 UTC_
+_Generated on 2025-10-09 17:09:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -246,12 +246,12 @@ _Generated on 2025-10-09 17:09:46 UTC_
         - [**🎪_Where_We_Go_From_Here/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/)
           - [`001_🪀_Atrocity_Physics.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/001_🪀_Atrocity_Physics.md)
           - [`002_📡_Algorithmic_Statecraft.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/002_📡_Algorithmic_Statecraft.md)
+          - [`003_🕯️_Britains_Near_Miss.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/003_🕯️_Britains_Near_Miss.md)
           - [`007_🧨_Manufacturing_Scapegoat.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/007_🧨_Manufacturing_Scapegoat.md)
           - [`10_Preventive_Framework.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/10_Preventive_Framework.md)
           - [`11_Authors_Notebook.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/11_Authors_Notebook.md)
           - [`12_Atrocity_Engineers.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/12_Atrocity_Engineers.md)
           - [`13_Atrocity_Index.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/13_Atrocity_Index.md)
-          - [`3_Britains_Near_Miss.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/3_Britains_Near_Miss.md)
           - [`4_Linguistic_Drift.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/4_Linguistic_Drift.md)
           - [`5_Diffuse_Architecture.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/5_Diffuse_Architecture.md)
           - [`6_Raw_Materials.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/6_Raw_Materials.md)
