@@ -1,119 +1,122 @@
 # 📡 Algorithmic Statecraft — Digital Propaganda as Distributed Authoritarianism
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-08  
-*Stub node — outline structure for future drafting.*
+**First created:** 2025-10-08  |  **Last updated:** 2025-10-09  
+*How virality and engagement metrics replicate the function of centralised propaganda, converting attention into obedience and outrage into governance.*
 
 ---
 
-## 🧭 Orientation
-*(Summary of the node’s purpose and key arguments.)*
+## 🧭 Orientation  
+
+In the twentieth century, propaganda was the art of the loudest voice.  
+In the twenty-first, it is the **architecture of attention**.  
+
+Where broadcast regimes relied on censorship and decree, platform regimes rely on **metrics**.  The feed has replaced the ministry.  The algorithm is the new speechwriter.  
+
+This node maps how algorithmic ecosystems distribute authoritarian functions through ordinary interaction—likes, shares, comments, duets—until collective behaviour begins to resemble coordination without command.
 
 ---
 
-## 📑 Key Sections
-1. Introduction / Context
-2. Analysis / Evidence
-3. Implications / Cross-links
-4. Further Reading (if applicable)
+## 🧩 Key Features  
+
+- **Distributed authority:** every user becomes an unpaid propagandist through algorithmic amplification.  
+- **Opacity as power:** recommendation systems replace visible censorship with invisible filtration.  
+- **Affective contagion:** outrage spreads faster than empathy; emotion becomes infrastructure.  
+- **Gamified participation:** metrics convert politics into performance.  
+- **Civic counter-code:** transparency, friction, and slow media act as democratic fire-breaks.  
 
 ---
 
-## 🔗 Cross-links
-*(List relevant nodes in this cluster or beyond.)*
+## 🔍 Analysis / Content  
+
+### 1  From Broadcast to Feedback Loop  
+Traditional propaganda was linear: state → message → citizen.  
+Platform propaganda is recursive: citizen → algorithm → citizen.  
+Each post refines the machine’s model of what provokes us; outrage becomes a feedback currency.  The system doesn’t need to believe in an ideology—it only needs *engagement velocity*.  
+
+### 2  Statecraft by Metric  
+Governments, corporations, and opportunists alike learn to **steer discourse** through data analytics, targeted advertising, and artificial virality.  
+This is governance by **behavioural telemetry**: authority inferred from dashboards rather than ballots.  
+Where fascists once staged rallies, leaders now watch dashboards pulse with sentiment heatmaps.  
+
+### 3  Psychological Mechanics of Engagement  
+Algorithms reward posts that elicit arousal—anger, fear, joy, disgust—while de-prioritising nuance.  
+The result is *affective polarisation* (Bail et al., 2021): identity and emotion fuse, discussion collapses into tribe.  
+Digital design thus replicates the same emotional infrastructure described in 👹 *Coercive Engineers*—but now automated and scaled.  
+
+### 4  Information Supply Chains  
+Data pipelines operate like logistical routes of empire: extraction (from users), transformation (into profiles), and deployment (as influence).  
+The opacity of code produces what Zuboff (2019) calls **“instrumentarian power”**—a regime that modifies behaviour without coercion.  
+The propaganda function is hidden inside the product experience.  
+
+### 5  Algorithmic Drift and Authoritarian Affinity  
+Platform economics reward outrage; authoritarian movements thrive on outrage.  
+This alignment creates **convergent drift**—a mutual benefit loop where democratic fatigue equals profit.  
+Each frictionless scroll inch deepens the incentive for authoritarian tone, regardless of intent.  
+
+### 6  Counter-Algorithms and Civic Frictions  
+Resistance requires *re-introducing friction*:  
+- **Temporal friction** – delays, fact-checks, cooldowns.  
+- **Spatial friction** – community moderation and small-scale networks.  
+- **Moral friction** – storytelling that slows emotion and restores empathy.  
+Digital literacy, open-source oversight, and platform accountability constitute the **counter-statecraft** of democracy.
 
 ---
 
-## ✨ Notes
-*(Placeholder for author’s reflections, sources, or commentary.)*
+## ⚙️ Comparative Dynamics  
 
-|    #   | Node Title                                                                          | Core Focus                                                                                                                                          |
-| :----: | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **1** | 🧭 **Early-Stage Atrocity Physics**                                                 | Macro-overview: economic inequality, online amplification, and scapegoat revival as early indicators of atrocity risk.                              |
-|  **2** | 📡 **Algorithmic Statecraft — Digital Propaganda as Distributed Authoritarianism**  | How virality and engagement metrics replace centralised propaganda orders.                                                                          |
-|  **3** | 🕯️ **Britain’s Near-Miss with Fascism — The Cable Street Precedent**               | Domestic 1930s fascism and immigrant-led resistance; debunking British exceptionalism.                                                              |
-|  **4** | 🧠 **Linguistic Drift of Scapegoating — From “Coloured” to “Woke”**                 | Evolution of exclusionary language and coded racism from the 1970s → present.                                                                       |
-|  **5** | 🕯️ **Diffuse Architecture of Persecution**                                         | Intersectional mapping of targeted groups under Nazism and modern multi-target hate.                                                                |
-|  **6** | ⚙️ **Raw Materials of Fascism**                                                     | Fear, humiliation, and family-safety panic as recurring emotional drivers.                                                                          |
-|  **7** | 🧨 **Manufacturing the Scapegoat — How Prejudice Becomes Political Technology**     | Conversion of everyday bias into ideology; Nazi antisemitism vs. modern Islamophobia.                                                               |
-|  **8** | 📖 **Justice, Angels and Adversaries — Comparative Theology and Law**               | Iblīs/Satan/ha-Satan and justice systems (Halakha, Canon Law, Sharia); debunking myths about feminism & LGBTQ+ rights in Islam.                     |
-|  **9** | 🌤️ **When Authoritarianism and Genocide Are Resisted**                             | Global record of successful resistance to fascism and mass violence.                                                                                |
-| **10** | 📜 **Preventive Framework — UN Atrocity Indicators Applied to the UK Context**      | Adapts UN & Stanton early-warning criteria to current UK data.                                                                                      |
-| **11** | 🪞 **Author’s Notebook — Reflections from a Jewish Witness to Modern Scapegoating** | Personal reflection on survivor memory and inter-community allyship.                                                                                |
-| **12** | 👹 **Coercive Engineers — Intentional Radicalisation and the Normality Trap**       | (Completed) Deliberate manipulation, diagnostics, authoritarian personality, harm-reduction, misinformation, and stress-response analysis.          |
-| **13** | 🔮 **Atrocity-Recurrence Index (Map)**                                              | Visual/textual cross-reference map linking all nodes to *Genocide by Containment*, *Suppression as Signal*, and *Human Principles / Ethics Frames*. |
+| Era | Propaganda Engine | Distribution Model | Emotional Fuel | Democratic Counter-force |
+|------|------------------|--------------------|----------------|--------------------------|
+| **1930s Broadcast** | State radio & press | Centralised, one-to-many | Fear of enemies | Independent journalism, union press |
+| **1970s Televisual** | Network news & tabloids | Gate-kept mass media | Moral panic | Media regulation, public service ethos |
+| **2020s Algorithmic** | Social-platform metrics | Decentralised, many-to-many | Outrage & belonging | Platform transparency, slow media, user cooperatives |
 
-🔮 Authoritarian Recurrence Cluster Index
+---
 
-First created: 2025-10-08 | Last updated: 2025-10-08
-A constellation of nodes examining how fascism and authoritarianism re-emerge through economic stress, digital amplification, and scapegoat politics — and how they are resisted.
+## 🧠 Human Factor  
 
-🌌 Overview
+Algorithmic propaganda feels participatory.  Users mistake *activity* for *agency*.  
+The more we post, the more predictable we become.  
+Digital exhaustion mirrors the psychological surrender charted in fascist mobilisation: repetition erodes resistance.  
+Recognising **attention as a civic resource** transforms scrolling from habit to decision.  
 
-The cluster traces repeating civilisational dynamics: fear → scapegoating → normalisation → violence → resistance.
-It draws on comparative history, theology, media studies, and survivor-voice fidelity to map early-stage atrocity risk and civic countermeasures.
-All nodes link laterally; none depend on reading order.
+---
 
-🧭 1 Early-Stage Atrocity Physics
+## 🔗 Cross-Links  
 
-Scope: macro-analysis of economic inequality, online mobilisation, and scapegoat revival.
-Use: establishes baseline framework and warning indicators.
+- 🧭 *Early-Stage Atrocity Physics* — digital acceleration as physical law of outrage.  
+- 👹 *Coercive Engineers* — intentional radicalisation, harm-reduction, and algorithmic manipulation.  
+- ⚙️ *Raw Materials of Fascism* — emotional precursors: humiliation, fear, and family panic.  
+- 🧨 *Manufacturing the Scapegoat* — bias repackaged for virality.  
+- 📜 *Preventive Framework* — policy levers for algorithmic accountability.  
 
-📡 2 Algorithmic Statecraft — Digital Propaganda as Distributed Authoritarianism
+---
 
-Scope: how algorithmic virality replicates centralised propaganda.
-Cross-links: Coercive Engineers (13); HM Dept Coercive Nudges.
+## 🌌 Constellations  
 
-🕯️ 3 Britain’s Near-Miss with Fascism — The Cable Street Precedent
+📡 🧭 👹 ⚙️ 🧨 — Positions this node at the technological pole of the Authoritarian Recurrence Cluster, translating economic tension into digital contagion and back again.
 
-Scope: domestic fascism 1930s; immigrant-led resistance; debunking British exceptionalism.
-Cross-links: Raw Materials of Fascism; When Authoritarianism and Genocide Are Resisted.
+---
 
-🧠 4 Linguistic Drift of Scapegoating — From “Coloured” to “Woke”
+## ✨ Stardust  
 
-Scope: evolution of exclusionary language 1970s→present.
-Cross-links: Manufacturing the Scapegoat (11); Diffuse Architecture (5).
+algorithmic propaganda | attention economy | distributed authoritarianism | platform power | affective polarisation | digital ethics | slow media | metric governance | surveillance capitalism | resistance by friction  
 
-🕯️ 5 Diffuse Architecture of Persecution
+---
 
-Scope: intersectional mapping of targets (queer, disabled, Roma, Jewish etc.); links between Nazi and modern multi-target hate.
-Cross-links: Raw Materials (6); Justice Angels and Adversaries (10).
+## 📚 Sources and Further Reading  
 
-⚙️ 6 Raw Materials of Fascism
+| Author | Year | Title / Publication | Notes |
+|---------|------|---------------------|-------|
+| Zuboff, S. | 2019 | *The Age of Surveillance Capitalism* | Defines instrumentarian power. |
+| Bail, C. A. et al. | 2021 | *Breaking the Social Media Prism* | Empirical study of affective polarisation. |
+| Tufekci, Z. | 2017 | *Twitter and Tear Gas* | Networked protest dynamics. |
+| Marwick, A. & Lewis, R. | 2017 | *Media Manipulation and Disinformation Online* (Data & Society) | Early mapping of attention hijacking. |
+| Gillespie, T. | 2018 | *Custodians of the Internet* | Moderation as hidden governance. |
+| Phillips, W. & Milner, R. M. | 2021 | *You Are Here: A Field Guide for Navigating Polarized Speech* | On memes, trolling, and participatory propaganda. |
+| Polaris Protocol Field Archive | 2025 | Cluster Notes on Algorithmic Statecraft | Cross-referenced with *Coercive Engineers* and *Early-Stage Atrocity Physics*. |
 
-Scope: economic humiliation + fear + family moral panic as structural inputs.
-Cross-links: Manufacturing the Scapegoat (11); Coercive Engineers (13).
+---
 
-🧨 7 Manufacturing the Scapegoat — How Prejudice Becomes Political Technology
+## 🏮 Footer  
 
-Scope: transformation of latent bias into ideology; Nazi model vs current Islamophobia.
-Cross-links: Linguistic Drift (4); Raw Materials (6).
-
-📖 8 Justice, Angels and Adversaries — Comparative Theology and Law
-
-Scope: evolution of evil (Iblīs/Satan/ha-Satan) and its reflection in Halakha, Canon Law, and Sharia; debunking “Islam as anti-feminist/anti-gay.”
-Cross-links: Early-Stage Atrocity Physics (1); Human Principles.
-
-🌤️ 9 When Authoritarianism and Genocide Are Resisted
-
-Scope: global compendium of successful resistance to fascism and mass violence.
-Cross-links: Britain’s Near-Miss (3); Preventive Framework (10).
-
-📜 10 Preventive Framework — UN Atrocity Indicators Applied to the UK Context
-
-Scope: converts UN & Stanton criteria into a UK-specific early-warning checklist.
-Cross-links: Early-Stage Atrocity Physics (1); System Governance.
-
-🪞 11 Author’s Notebook — Reflections from a Jewish Witness to Modern Scapegoating
-
-Scope: personal essay on survivor memory, allyship, and ethical witnessing.
-Cross-links: Diffuse Architecture (5); Raw Materials (6).
-
-🎛 12 Coercive Engineers — Intentional Radicalisation and the Normality Trap
-
-Scope: identifies deliberate actors who engineer polarisation; includes academic diagnostic frameworks (Paxton, Eco, Payne, Britt).
-Cross-links: Algorithmic Statecraft (2); Manufacturing the Scapegoat (7); Preventive Framework (10).
-
-🔮 13 Atrocity-Recurrence Index (Map)
-
-Scope: visual and textual cross-reference map for the entire cluster; links out to Genocide by Containment, Suppression as Signal, and Human Principles / Ethics Frames.
-
-🧭 Constellation Logic
+📡 *Algorithmic Statecraft* is a living node of the **Polaris Protocol**.  
+It maps how platform architecture and emotional engineering combine to reproduce propaganda functions across distributed networks—and how users can reclaim agency through digital friction and collective literacy.  
