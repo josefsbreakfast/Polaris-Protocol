@@ -1,3 +1,5 @@
+Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/10_Preventive_Framework.md
+
 # 📜 Preventive Framework — UN Atrocity Indicators Applied to the UK Context
 **First created:** 2025-10-08  |  **Last updated:** 2025-10-08  
 *Stub node — outline structure for future drafting.*
