@@ -1,4 +1,4 @@
-# 🧭 Early-Stage Atrocity Physics
+# 🪀 Early-Stage Atrocity Physics
 **First created:** 2025-10-08  |  **Last updated:** 2025-10-09  
 *Macro-overview of economic inequality, digital amplification, and scapegoat revival as early indicators of atrocity risk.*
 
