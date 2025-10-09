@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-09 17:15:09 UTC_
+_Generated on 2025-10-09 17:15:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -252,11 +252,11 @@ _Generated on 2025-10-09 17:15:09 UTC_
           - [`006_🪨_Raw_Materials.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/006_🪨_Raw_Materials.md)
           - [`007_🧨_Manufacturing_Scapegoat.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/007_🧨_Manufacturing_Scapegoat.md)
           - [`008_ 🪽_Justice_Angels.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/008_ 🪽_Justice_Angels.md)
+          - [`009_🌤️_When_Resisted.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/009_🌤️_When_Resisted.md)
           - [`10_Preventive_Framework.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/10_Preventive_Framework.md)
           - [`11_Authors_Notebook.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/11_Authors_Notebook.md)
           - [`12_Atrocity_Engineers.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/12_Atrocity_Engineers.md)
           - [`13_Atrocity_Index.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/13_Atrocity_Index.md)
-          - [`9_When_Resisted.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/9_When_Resisted.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md)
       - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/⚖️_legal_hooks_for_muted_books.md)
