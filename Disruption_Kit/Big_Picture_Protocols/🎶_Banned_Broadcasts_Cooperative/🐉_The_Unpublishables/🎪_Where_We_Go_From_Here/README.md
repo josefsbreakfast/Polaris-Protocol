@@ -16,4 +16,10 @@ Can't get the staff these days, isn't it.
 
 Anyway. Here's a skeleton proposition; I'm open to editing *after* the week away from the hum and the buzz.  
 
+There will be small edits in the meantime to standardise the file and add notes.  
+
+A particular publisher may find that, due to the specific nature of the data interference, this sorts out and acts as a bookend to your other title; I appreciate you may need appropriate confirmation, to which I would advise that my proposed source of libel cover would also support any tort case.  
+
+<!--I also appreciate, for the relevent affected party, that even some of the anglophone internet's scariest men are rather terrified of me, but I feel the fear can be suppressed enough by the mutual inability to lie when *the principle* would preclude the act.-->
+
 2025-10-09  
