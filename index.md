@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-09 18:14:55 UTC_
+_Generated on 2025-10-09 19:11:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1040,8 +1040,8 @@ _Generated on 2025-10-09 18:14:55 UTC_
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
       - [`🍊_the_president_as_mark.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🍊_the_president_as_mark.md)
+      - [`🎪_racialised_projection_as_harassment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎪_racialised_projection_as_harassment.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
-      - [`📂_racialised_projection_as_harassment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/📂_racialised_projection_as_harassment.md)
       - [`📂_witness_pairing_and_projection.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/📂_witness_pairing_and_projection.md)
       - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🙄_jewish_loyalty_pings_faster_than_rape.md)
       - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🥸_bookshops_vs_behavioral_risks.md)
