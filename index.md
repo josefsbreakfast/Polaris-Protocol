@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 03:43:45 UTC_
+_Generated on 2025-10-10 03:44:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1183,6 +1183,7 @@ _Generated on 2025-10-10 03:43:45 UTC_
       - [`🧾_twin_records_as_vulnerability.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_twin_records_as_vulnerability.md)
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
+      - [`☔️_leak_pattern_taxonomy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md)
       - [`👻_template_ghosts.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_template_ghosts.md)
       - [`👾_temporal_glitches.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_temporal_glitches.md)
       - [`💔_shared_vendor_anomalies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💔_shared_vendor_anomalies.md)
