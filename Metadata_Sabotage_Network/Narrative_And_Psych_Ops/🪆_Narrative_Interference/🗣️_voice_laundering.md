@@ -1,5 +1,7 @@
 # 🗣️ Voice Laundering
 
+First created 2025-08-05  
+
 Voice laundering is the act of separating a speaker’s tone, syntax, or emotional cadence from their authorship — and repackaging it under an institutional, compliant, or neutral facade.
 
 ---
