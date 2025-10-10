@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 03:46:53 UTC_
+_Generated on 2025-10-10 03:47:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1185,6 +1185,7 @@ _Generated on 2025-10-10 03:46:53 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
       - [`☔️_leak_pattern_taxonomy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md)
       - [`☔️_leakage_chronology_forecasting.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leakage_chronology_forecasting.md)
+      - [`🌂_leak_archive_protocol.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌂_leak_archive_protocol.md)
       - [`🎈_intentional_leak_hypothesis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🎈_intentional_leak_hypothesis.md)
       - [`👻_template_ghosts.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_template_ghosts.md)
       - [`👾_temporal_glitches.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_temporal_glitches.md)
