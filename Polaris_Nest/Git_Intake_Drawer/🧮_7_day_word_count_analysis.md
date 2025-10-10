@@ -16,6 +16,8 @@
   - 154,462 added, 7 days (net after edit, additions/deletions vary)
   - ~ 37% increase via targeted analysis (using thinnest files with specific exclusions)
  
-- this is how the book skeleton was birthed; most useful as standardisation, targeted redaction which had not been picked up, as well as consolodation of least touched domains  
+- this is how the book skeleton was birthed; most useful as standardisation, targeted redaction which had not been picked up, as well as consolodation of least touched domains
+
+- still very mindful of rough draft staging of significant portions of corpus, future task for working plan to update as appropriate  
 
 2025-10-10  
