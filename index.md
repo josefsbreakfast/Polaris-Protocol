@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 04:18:00 UTC_
+_Generated on 2025-10-10 04:18:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1260,7 +1260,6 @@ _Generated on 2025-10-10 04:18:00 UTC_
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
-      - [`🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png)
       - [`🪅_li_daddy_gov_dropped_the_fork.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_daddy_gov_dropped_the_fork.png)
       - [`🪅_li_daddy_gov_giving_creator_contractor_coronaries.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_daddy_gov_giving_creator_contractor_coronaries.png)
       - [`🪅_li_demographics_throttle_party.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_demographics_throttle_party.png)
@@ -1313,6 +1312,7 @@ _Generated on 2025-10-10 04:18:00 UTC_
     - [`🪅_li_contractor_just_a_little_too_bothered_about_daddy_gov_callout.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_contractor_just_a_little_too_bothered_about_daddy_gov_callout.png)
     - [`🪅_li_contractor_upset_playing_at_being_daddy_gov.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_contractor_upset_playing_at_being_daddy_gov.png)
     - [`🪅_li_contractor_very_bothered_about_daddy_gov_callout_idk_kinda_telling.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_contractor_very_bothered_about_daddy_gov_callout_idk_kinda_telling.png)
+    - [`🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png)
   - [**🔥_Data_Risks/**](Metadata_Sabotage_Network/🔥_Data_Risks/)
     - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)
