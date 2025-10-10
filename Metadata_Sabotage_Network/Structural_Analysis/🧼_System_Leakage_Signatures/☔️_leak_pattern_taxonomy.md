@@ -89,7 +89,7 @@ If piloted successfully, LVSICR becomes a **translation layer for resilience**.
 
 *(From local anomaly to systemic recurrence)*  
 
-### **L — Leak (Primary Source)**  
+### 💧 **L — Leak (Primary Source)**  
 | Stage | Descriptor | Observable Behaviour | Example Scenario |
 |:--|:--|:--|:--|
 | **L0 – Latent** | Potential leak exists but not yet active. | Diagnostic noise, incomplete log. | Debug file with personal data still internal. |
@@ -97,7 +97,7 @@ If piloted successfully, LVSICR becomes a **translation layer for resilience**.
 | **L2 – Patterned / Recurrent** | Design flaw emerging. | Same field leaks every month. | Recurring report exposure. |
 | **L3 – Structural / Critical** | Built-in architectural failure. | Cannot fix without redesign. | Platform logs user data to public cache. |
 
-### **V — Vector (Transmission Path)**  
+### ✈ **V — Vector (Transmission Path)**  
 | Stage | Descriptor | Observable Behaviour | Example Scenario |
 |:--|:--|:--|:--|
 | **V0 – Contained** | No outward travel. | Quarantined immediately. | QA team deletes bad file. |
@@ -105,7 +105,7 @@ If piloted successfully, LVSICR becomes a **translation layer for resilience**.
 | **V2 – Cross-Institutional** | Crosses organisational boundary. | Supplier or API bleed. | Contractor downloads client records. |
 | **V3 – Public / Viral** | Fully external. | Public upload or press release. | Document on social media. |
 
-### **S — Spread (Systemic Reach)**  
+### 🌀 **S — Spread (Systemic Reach)**  
 | Stage | Descriptor | Observable Behaviour | Example Scenario |
 |:--|:--|:--|:--|
 | **S0 – None** | Self-contained. | Single dataset only. | Local log error. |
@@ -113,7 +113,7 @@ If piloted successfully, LVSICR becomes a **translation layer for resilience**.
 | **S2 – Institutional / Sectoral** | Multiple sites or agencies. | Cascade of breaches. | University-wide fault. |
 | **S3 – Ecosystemic** | Cross-sector chain reaction. | Regulatory failure + trust loss. | Cloud vendor leak impacting clients globally. |
 
-### **I — Intent (Motivation / Directionality)**  
+### 🌊 **I — Intent (Motivation / Directionality)**  
 | Stage | Descriptor | Observable Behaviour | Example Scenario |
 |:--|:--|:--|:--|
 | **I0 – Accidental** | Pure error. | Unaware user action. | Mis-click send-all. |
@@ -121,7 +121,7 @@ If piloted successfully, LVSICR becomes a **translation layer for resilience**.
 | **I2 – Structural** | Leak baked into process. | Policy gap or perverse incentive. | Open data without consent review. |
 | **I3 – Deliberate** | Leak used as weapon or activism. | Whistle or dox. | Insider exports file to harm or reveal. |
 
-### **C — Containment (System Response)**  
+### 🛟 **C — Containment (System Response)**  
 | Stage | Descriptor | Observable Behaviour | Example Scenario |
 |:--|:--|:--|:--|
 | **C0 – Automatic Resolution** | Self-correcting system. | Auto-revoke link. | Expiring URL. |
@@ -129,7 +129,7 @@ If piloted successfully, LVSICR becomes a **translation layer for resilience**.
 | **C2 – Technical Patch** | Fix without learning. | Silent config change. | Quick patch cycle. |
 | **C3 – Active Suppression** | Attack messenger. | Gag or discipline. | Whistleblower sacked. |
 
-### **R — Recurrence (Temporal Memory)**  
+### 🛞 **R — Recurrence (Temporal Memory)**  
 | Stage | Descriptor | Observable Behaviour | Example Scenario |
 |:--|:--|:--|:--|
 | **R0 – One-off** | Singular event. | Random glitch. | No pattern. |
