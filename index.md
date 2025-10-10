@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 04:08:08 UTC_
+_Generated on 2025-10-10 04:08:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1159,6 +1159,7 @@ _Generated on 2025-10-10 04:08:08 UTC_
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
+      - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
@@ -1312,8 +1313,6 @@ _Generated on 2025-10-10 04:08:08 UTC_
       - [`🪅_twinned_data_artefacts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_twinned_data_artefacts.png)
       - [`🪅_who_lives_in_picton.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_who_lives_in_picton.png)
       - [`🪅_yet_more_job_offer_twinning.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_yet_more_job_offer_twinning.png)
-    - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/)
-      - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/README.md)
   - [**🔥_Data_Risks/**](Metadata_Sabotage_Network/🔥_Data_Risks/)
     - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)
