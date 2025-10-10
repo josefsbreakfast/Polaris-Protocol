@@ -114,7 +114,7 @@ It documents how help can become harm if left unexamined — and how transparenc
 > 📡 Cross-references:
 > 
 > - [🏛 Governance & Containment — README](../README.md)  
-> - [🕯 Exorcising Safeguarding Shadows](../../🕯_Exorcising_Safeguarding_Shadows/README.md)  
+> - [🕯 Exorcising Safeguarding Shadows](../../../Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)  
 > - [🛠️ Survivor Tools](../../../Disruption_Kit/Survivor_Tools/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
