@@ -64,7 +64,7 @@ flowchart TD
   E -->|Low prosecution likelihood| F[💰 Good enough becomes standard]
   F -->|Systemic expectation of mediocrity| A
   D -->|Defers resurfacing| G[📉 Expanding backlog]
-  G -->|Visible decay fuels distrust| H[⚖️ Populist leverage (They don't care about your roads)]
+  G -->|Visible decay fuels distrust| H[⚖️ Populist leverage as They don't care about your roads]
   H -->|Political churn without structural fix| D
 ```
 
