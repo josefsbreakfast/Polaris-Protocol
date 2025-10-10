@@ -62,7 +62,7 @@ It documents the bias hierarchies that determine which harms are heard and which
 > 📡 Cross-references:
 > 
 >  - [🈴 Allies & Ethics](../🈴_Allies_And_Ethics/README.md) — ethical framework for reciprocal accountability  
->  - [🔮 Visibility Indexing Anomalies](../../Metadata_Sabotage_Network/🔮_visibility_indexing_anomalies.md) — routing bias evidence  
+>  - [🔮 Visibility Indexing Anomalies](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md) — routing bias evidence  
   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
