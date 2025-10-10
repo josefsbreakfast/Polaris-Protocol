@@ -7,7 +7,7 @@
 ## 🛰️ Orientation  
 This protocol defines what genuine ethical reciprocity requires: not moral symmetry, but the **refusal of extraction disguised as care**.  
 In survivor–ally collaborations, power often leans toward those with institutional safety or reputational protection.  
-Reciprocal accountability restores balance by building **mutual review loops**—so critique can circulate without collapse, punishment, or paternalism.  
+Reciprocal accountability restores balance by building **mutual review loops**, so critique can circulate without collapse, punishment, or paternalism.  
 
 It treats ethics as an ongoing relationship, not a compliance report.  
 Its test is simple: can both sides be heard, changed, and still remain in relationship?
@@ -40,7 +40,7 @@ Reciprocal accountability begins there—by insisting that ethical hearing must 
 ### 🏛️ Institutional Dishonesty and Performativity  
 
 Extractive ethics are reinforced by the **professionalisation of survival**.  
-Academia and allied institutions often position themselves as authorities on lived experience—publishing on trauma, survival sex work, or “resilience” while denying protection or credit to those whose lives underpin the knowledge.  
+Academia and allied institutions often position themselves as authorities on lived experience: publishing on trauma, survival sex work, or “resilience” while denying protection or credit to those whose lives underpin the knowledge.  
 
 The contradiction is built into the architecture: professional identity depends on distance from experience.  
 Those who have lived what is studied are encouraged to silence it, while those who haven’t are rewarded for analysis.  
