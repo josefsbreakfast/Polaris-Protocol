@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 20:43:02 UTC_
+_Generated on 2025-10-10 21:23:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -354,7 +354,7 @@ _Generated on 2025-10-10 20:43:02 UTC_
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
-        - [`💬_narrative_of_deservingness.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/💬_narrative_of_deservingness.md)
+        - [`📚_narrative_of_deservingness.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/📚_narrative_of_deservingness.md)
         - [`📜_charity_regime_reform.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/📜_charity_regime_reform.md)
         - [`🦾_invest_appropriately.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/🦾_invest_appropriately.md)
         - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
