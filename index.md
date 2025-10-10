@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 03:01:22 UTC_
+_Generated on 2025-10-10 03:07:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1073,12 +1073,22 @@ _Generated on 2025-10-10 03:01:22 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
       - [`🍊_the_president_as_mark.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🍊_the_president_as_mark.md)
       - [`🎪_racialised_projection_as_harassment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎪_racialised_projection_as_harassment.md)
+      - [`🎭_character_assassination_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_character_assassination_theatre.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
+      - [`💋_the_erotics_of_discrediting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/💋_the_erotics_of_discrediting.md)
       - [`📂_witness_pairing_and_projection.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/📂_witness_pairing_and_projection.md)
+      - [`🔊_signal_integrity_protocols_protecting_the_sound_of_the_voice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_signal_integrity_protocols_protecting_the_sound_of_the_voice.md)
+      - [`🗣️_counter_voicing_collective_re_amplification_methods.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🗣️_counter_voicing_collective_re_amplification_methods.md)
       - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🙄_jewish_loyalty_pings_faster_than_rape.md)
       - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🥸_bookshops_vs_behavioral_risks.md)
+      - [`🧠_psychops_of_tone_the_science_of_disbelief.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_psychops_of_tone_the_science_of_disbelief.md)
+      - [`🧠‍💫_neural_fatigue_the_cognitive_cost_of_constant_correction.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠‍💫_neural_fatigue_the_cognitive_cost_of_constant_correction.md)
+      - [`🧬_clone_drift_deepfakes_audio_manipulation_and_voice_theft.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧬_clone_drift_deepfakes_audio_manipulation_and_voice_theft.md)
       - [`🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md)
       - [`🧻🐯_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_tigers.md)
+      - [`🧾_credibility_logs_the_forensics_of_restoration.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_credibility_logs_the_forensics_of_restoration.md)
+      - [`🪞_mirror_campaigns_fake_echo_accounts_and_inverted_messaging.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪞_mirror_campaigns_fake_echo_accounts_and_inverted_messaging.md)
+      - [`🪫_credibility_collapse_how_noise_becomes_neutralisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪫_credibility_collapse_how_noise_becomes_neutralisation.md)
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
       - [`protocol_flow_new_insert_handling.png`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/protocol_flow_new_insert_handling.png)
