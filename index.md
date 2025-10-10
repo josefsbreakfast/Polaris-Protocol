@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 22:17:20 UTC_
+_Generated on 2025-10-10 22:46:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -113,6 +113,7 @@ _Generated on 2025-10-10 22:17:20 UTC_
       - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
       - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🔬_lost_checks_and_balances.md)
+      - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
       - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md)
@@ -1352,7 +1353,6 @@ _Generated on 2025-10-10 22:17:20 UTC_
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`💎_diamonds_and_disappointment.md`](Polaris_Nest/Git_Intake_Drawer/💎_diamonds_and_disappointment.md)
-    - [`🕳️_the_pothole_problem.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_pothole_problem.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛰_working_through_glitches.md`](Polaris_Nest/Git_Intake_Drawer/🛰_working_through_glitches.md)
     - [`🛰️_another_witness_lost_signal.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_another_witness_lost_signal.md)
