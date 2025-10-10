@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 02:23:19 UTC_
+_Generated on 2025-10-10 02:30:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1028,8 +1028,14 @@ _Generated on 2025-10-10 02:23:19 UTC_
       - [`🪫_moral_burnout_and_the_myth_of_neutrality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪫_moral_burnout_and_the_myth_of_neutrality.md)
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
+      - [`💾_archival_drift_when_updates_delete_history.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/💾_archival_drift_when_updates_delete_history.md)
+      - [`📡_signal_lost_dispatch_drift_and_latency.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📡_signal_lost_dispatch_drift_and_latency.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
       - [`📼_training_data_tragedy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📼_training_data_tragedy.md)
+      - [`🗣️_survivor_scripts_and_institutional_voiceover.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🗣️_survivor_scripts_and_institutional_voiceover.md)
+      - [`🧠_machine_learning_as_moral_reeducation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧠_machine_learning_as_moral_reeducation.md)
+      - [`🪞_simulation_ethics_the_problem_of_practice_trauma.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪞_simulation_ethics_the_problem_of_practice_trauma.md)
+      - [`🪤_containment_pedagogy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪤_containment_pedagogy.md)
     - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
