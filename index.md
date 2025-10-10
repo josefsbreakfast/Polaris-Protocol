@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 04:08:45 UTC_
+_Generated on 2025-10-10 04:11:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1260,7 +1260,6 @@ _Generated on 2025-10-10 04:08:45 UTC_
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
-      - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/README.md)
       - [`🀄_play_foia_moj_edition.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🀄_play_foia_moj_edition.png)
       - [`🌈_image_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🌈_image_log.md)
       - [`🎁_DNS_error_Press_Contact_2025-08-31_175850.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🎁_DNS_error_Press_Contact_2025-08-31_175850.png)
@@ -1313,6 +1312,7 @@ _Generated on 2025-10-10 04:08:45 UTC_
       - [`🪅_twinned_data_artefacts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_twinned_data_artefacts.png)
       - [`🪅_who_lives_in_picton.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_who_lives_in_picton.png)
       - [`🪅_yet_more_job_offer_twinning.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_yet_more_job_offer_twinning.png)
+    - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
   - [**🔥_Data_Risks/**](Metadata_Sabotage_Network/🔥_Data_Risks/)
     - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)
