@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 03:24:51 UTC_
+_Generated on 2025-10-10 03:26:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1096,6 +1096,7 @@ _Generated on 2025-10-10 03:24:51 UTC_
       - [`⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)
       - [`⭕️_complaint_loop_inversions_turning_accusation_into_defence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⭕️_complaint_loop_inversions_turning_accusation_into_defence.md)
       - [`🐕🦴_dog_with_bone_principle.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🐕🦴_dog_with_bone_principle.md)
+      - [`👻_the_psychology_of_passing_the_fork.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👻_the_psychology_of_passing_the_fork.md)
       - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_harassment_misidentification_systemic_failures_25-09-02.md)
       - [`👾_reduced_integrity_checks_downstream.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream.md)
       - [`👾_reduced_integrity_checks_downstream_auditor_examples.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream_auditor_examples.md)
