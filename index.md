@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 04:01:49 UTC_
+_Generated on 2025-10-10 04:04:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1160,6 +1160,7 @@ _Generated on 2025-10-10 04:01:49 UTC_
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
+      - [`☎_telecoms_vectors.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/☎_telecoms_vectors.md)
       - [`⚖️_plausible_deniability_exploits.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_plausible_deniability_exploits.md)
       - [`⚡️_citizen_polaris.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚡️_citizen_polaris.md)
       - [`🌀_loop_notes_on_ai_language.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_loop_notes_on_ai_language.md)
@@ -1251,8 +1252,6 @@ _Generated on 2025-10-10 04:01:49 UTC_
       - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
-  - [**📡_telecoms_vectors/**](Metadata_Sabotage_Network/📡_telecoms_vectors/)
-    - [`README.md`](Metadata_Sabotage_Network/📡_telecoms_vectors/README.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
       - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/README.md)
