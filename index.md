@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 02:56:47 UTC_
+_Generated on 2025-10-10 03:01:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1053,11 +1053,20 @@ _Generated on 2025-10-10 02:56:47 UTC_
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
+      - [`⚙️_automated_escalation_workflow_engines_of_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/⚙️_automated_escalation_workflow_engines_of_containment.md)
       - [`📊_analytics_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_analytics_as_signal.md)
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
+      - [`🚦_trigger_architecture_how_systems_decide_when_to_act.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🚦_trigger_architecture_how_systems_decide_when_to_act.md)
+      - [`🧠_psychological_containment_loops_living_below_the_threshold.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧠_psychological_containment_loops_living_below_the_threshold.md)
       - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_soft_suspension_is_still_containment.md)
       - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_system_agitation_shopping_list.md)
       - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_the_fire_they_fear.md)
+      - [`🧩_false_pretexts_manufactured_justifications_for_intervention.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧩_false_pretexts_manufactured_justifications_for_intervention.md)
+      - [`🧭_threshold_literacy_teaching_citizens_to_read_the_triggers.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧭_threshold_literacy_teaching_citizens_to_read_the_triggers.md)
+      - [`🧮_risk_calculators_and_hidden_scoring_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧮_risk_calculators_and_hidden_scoring_systems.md)
+      - [`🧾_threshold_disclosure_protocols_forensic_transparency_tools.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧾_threshold_disclosure_protocols_forensic_transparency_tools.md)
+      - [`🪜_escalation_ladders_the_path_from_help_to_harm.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🪜_escalation_ladders_the_path_from_help_to_harm.md)
+      - [`🪫_false_positive_fatigue_when_systems_overtrigger.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🪫_false_positive_fatigue_when_systems_overtrigger.md)
     - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/README.md)
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
