@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-09 21:43:36 UTC_
+_Generated on 2025-10-10 02:23:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1010,10 +1010,22 @@ _Generated on 2025-10-09 21:43:36 UTC_
       - [`🪁_contracts_that_colonise_memory.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪁_contracts_that_colonise_memory.md)
     - [**🈴_Allies_And_Ethics/**](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/README.md)
+      - [`⚖️_reciprocal_accountability_protocol.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_protocol.md)
+      - [`💌_letters_of_refusal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/💌_letters_of_refusal.md)
+      - [`💬_citation_politics_who_gets_to_quote_whom.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/💬_citation_politics_who_gets_to_quote_whom.md)
+      - [`🔒_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🔒_the_care_cage.md)
+      - [`🕸️_networked_morality_when_solidarity_scales.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_networked_morality_when_solidarity_scales.md)
       - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
+      - [`🚷_ethical_withdrawal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚷_ethical_withdrawal.md)
       - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🤝_held_by_other_peoples_alliances.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
+      - [`🧬_distributed_trust_survivor_led_ethics_infrastructure.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_distributed_trust_survivor_led_ethics_infrastructure.md)
+      - [`🧵_soft_capture_the_intimacy_of_oversight.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧵_soft_capture_the_intimacy_of_oversight.md)
       - [`🧾_consent_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧾_consent_as_containment.md)
+      - [`🩸_pain_as_credential.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🩸_pain_as_credential.md)
+      - [`🪄_performative_empathy_economies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪄_performative_empathy_economies.md)
+      - [`🪞_mirror_ethics_when_empathy_becomes_extraction.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_ethics_when_empathy_becomes_extraction.md)
+      - [`🪫_moral_burnout_and_the_myth_of_neutrality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪫_moral_burnout_and_the_myth_of_neutrality.md)
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
