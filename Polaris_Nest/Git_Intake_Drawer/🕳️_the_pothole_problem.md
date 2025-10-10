@@ -61,10 +61,10 @@ flowchart TD
   B -->|Deterioration accelerates| C[🚗 Public complaints + road damage]
   C -->|Budget pressure / blame| D[🏛️ Local Authority]
   D -->|Underfunded + risk-averse| E[🔍 Weak inspection / enforcement]
-  E -->|Low prosecution likelihood| F[💰 "Good enough" becomes standard]
+  E -->|Low prosecution likelihood| F[💰 Good enough becomes standard]
   F -->|Systemic expectation of mediocrity| A
   D -->|Defers resurfacing| G[📉 Expanding backlog]
-  G -->|Visible decay fuels distrust| H[⚖️ Populist leverage ("They don't care about your roads")]
+  G -->|Visible decay fuels distrust| H[⚖️ Populist leverage (They don't care about your roads)]
   H -->|Political churn without structural fix| D
 ```
 
