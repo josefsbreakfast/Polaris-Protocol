@@ -147,7 +147,7 @@ It traces how centuries-old moral code still governs allocation, credibility, an
 > 
 > - [🌱 Invest Appropriately](./README.md) — principles for ethical redistribution  
 > - [💸 Money Listens](../README.md) — diagnostic of financial listening behaviours    
-> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/🧠_psychological_containment.md) — emotional governance logic  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — emotional governance logic  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-10_
