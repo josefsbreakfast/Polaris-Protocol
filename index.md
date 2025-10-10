@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 02:30:11 UTC_
+_Generated on 2025-10-10 02:31:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1034,6 +1034,10 @@ _Generated on 2025-10-10 02:30:11 UTC_
       - [`📼_training_data_tragedy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📼_training_data_tragedy.md)
       - [`🗣️_survivor_scripts_and_institutional_voiceover.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🗣️_survivor_scripts_and_institutional_voiceover.md)
       - [`🧠_machine_learning_as_moral_reeducation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧠_machine_learning_as_moral_reeducation.md)
+      - [`🧪_experiments_in_ethical_retraining.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧪_experiments_in_ethical_retraining.md)
+      - [`🧭_dispatch_ethics_who_gets_to_send_the_message.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧭_dispatch_ethics_who_gets_to_send_the_message.md)
+      - [`🧮_audit_trails_of_obedience.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧮_audit_trails_of_obedience.md)
+      - [`🧾_version_control_for_truth.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧾_version_control_for_truth.md)
       - [`🪞_simulation_ethics_the_problem_of_practice_trauma.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪞_simulation_ethics_the_problem_of_practice_trauma.md)
       - [`🪤_containment_pedagogy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪤_containment_pedagogy.md)
     - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
