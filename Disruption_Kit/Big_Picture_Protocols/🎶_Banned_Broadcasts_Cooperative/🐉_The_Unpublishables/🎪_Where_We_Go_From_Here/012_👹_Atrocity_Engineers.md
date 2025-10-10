@@ -1,6 +1,6 @@
 [This exists as a node in Radicalisation & Extremism, here](../../../🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)
 
-*Repeated below for ease, as taken on 2025-10-10 from bove linked node:*
+*Repeated below for ease, as taken on 2025-10-10, from above linked node:*
 
 # 👹 Coercive Engineers — Intentional Radicalisation and the Normality Trap
 **First created:** 2025-10-08  |  **Last updated:** 2025-10-08  
