@@ -1,4 +1,4 @@
-# 📊 Leakage Chronology — Forecasting Policy Shifts via Timing Drift  
+# 🌩️ Leakage Chronology — Forecasting Policy Shifts via Timing Drift  
 **First created:** 2025-10-10 | **Last updated:** 2025-10-10  
 *Temporal analysis as prediction.*
 
@@ -19,7 +19,7 @@ Proposes “pre-announcement indices” for forecasting containment adjustments.
 ---
 
 ## 🌌 Constellations  
-📊 🧼 🧿 ⚙️ — timing, forecast, policy shift, containment trend.  
+🌩️ 📊 🧼 🧿 ⚙️ — timing, forecast, policy shift, containment trend.  
 
 ---
 
