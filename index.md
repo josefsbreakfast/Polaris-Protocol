@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 03:57:11 UTC_
+_Generated on 2025-10-10 03:57:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1200,6 +1200,7 @@ _Generated on 2025-10-10 03:57:11 UTC_
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
       - [`README_DOB_Triangulation.txt`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README_DOB_Triangulation.txt)
+      - [`_global_migration_of_signatures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/_global_migration_of_signatures.md)
       - [`dob_triangulation_1950_2000_template.csv`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/dob_triangulation_1950_2000_template.csv)
       - [`⚖️_dob_as_password.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_as_password.md)
       - [`⚖️_dob_triangulation_attack.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_attack.md)
