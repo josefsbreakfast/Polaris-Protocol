@@ -75,9 +75,9 @@ interface leakage, metadata echo, UI bleedthrough, behavioural signature, system
 It documents a behavioural and metadata echo within a public AI interface, contributing to the diagnostic mapping of **System Leakage Signatures** and related metadata anomalies.
 
 > 📡 Cross-references:  
-> - [🧼 System Leakage Signatures](../System_Leakage_Signatures/index.md) — folder overview and leak typology  
+> - [🧼 System Leakage Signatures](./README.md) — folder overview and leak typology  
 > - [🧿 Targeting Logic & Metadata Signatures](../🧿_Targeting_Logic_Metadata_Signatures/README.md) — heuristic and ruleset analysis  
-> - [🧬 Structural Mapping](../Structural_Analysis) — underlying schema behaviour
+> - [🧬 Structural Mapping](../) — underlying schema behaviour
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
