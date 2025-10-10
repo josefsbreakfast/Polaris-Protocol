@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 04:24:42 UTC_
+_Generated on 2025-10-10 04:25:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1260,7 +1260,6 @@ _Generated on 2025-10-10 04:24:42 UTC_
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [**✨_Constellations/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/)
-      - [`🪅_li_yet_more_canada_postings.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_li_yet_more_canada_postings.png)
       - [`🪅_more_canadian_jobs_specialisms.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_more_canadian_jobs_specialisms.png)
       - [`🪅_more_cv_twinned_artefacts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_more_cv_twinned_artefacts.png)
       - [`🪅_over_viewed_comments_still.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_over_viewed_comments_still.png)
@@ -1313,6 +1312,7 @@ _Generated on 2025-10-10 04:24:42 UTC_
     - [`🪅_li_unthrottled_one_to_throttle_another.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_unthrottled_one_to_throttle_another.png)
     - [`🪅_li_very_throttled_posts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_very_throttled_posts.png)
     - [`🪅_li_when_london_is_too_interested.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_when_london_is_too_interested.png)
+    - [`🪅_li_yet_more_canada_postings.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_yet_more_canada_postings.png)
   - [**🔥_Data_Risks/**](Metadata_Sabotage_Network/🔥_Data_Risks/)
     - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)
