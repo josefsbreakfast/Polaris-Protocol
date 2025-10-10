@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 03:30:36 UTC_
+_Generated on 2025-10-10 03:32:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1109,6 +1109,7 @@ _Generated on 2025-10-10 03:30:36 UTC_
       - [`🧬_fork_logic_how_systems_split_their_own_records.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧬_fork_logic_how_systems_split_their_own_records.md)
       - [`🧮_integrity_drift.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧮_integrity_drift.md)
       - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
+      - [`🪼_data_twin_fatigue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪼_data_twin_fatigue.md)
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
       - [`⏳_delay_scripts_near_deadlines.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md)
