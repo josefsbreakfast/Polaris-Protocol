@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 03:40:32 UTC_
+_Generated on 2025-10-10 03:42:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1185,6 +1185,7 @@ _Generated on 2025-10-10 03:40:32 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
       - [`👻_template_ghosts.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_template_ghosts.md)
       - [`👾_temporal_glitches.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_temporal_glitches.md)
+      - [`💔_shared_vendor_anomalies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💔_shared_vendor_anomalies.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🩻_continuum_data_use_misuse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_continuum_data_use_misuse.md)
