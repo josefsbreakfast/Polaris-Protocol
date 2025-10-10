@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 03:39:23 UTC_
+_Generated on 2025-10-10 03:40:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1189,6 +1189,7 @@ _Generated on 2025-10-10 03:39:23 UTC_
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🩻_continuum_data_use_misuse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_continuum_data_use_misuse.md)
       - [`🩻_markers_data_enmeshment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_markers_data_enmeshment.md)
+      - [`🫆__metadata_fingerprints.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🫆__metadata_fingerprints.md)
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
       - [`README_DOB_Triangulation.txt`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README_DOB_Triangulation.txt)
