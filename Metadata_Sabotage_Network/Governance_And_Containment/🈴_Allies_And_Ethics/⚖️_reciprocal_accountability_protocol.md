@@ -7,7 +7,7 @@
 ## 🛰️ Orientation  
 This protocol defines what genuine ethical reciprocity requires: not moral symmetry, but the **refusal of extraction disguised as care**.  
 In survivor–ally collaborations, power often leans toward those with institutional safety or reputational protection.  
-Reciprocal accountability restores balance by building **mutual review loops**, so critique can circulate without collapse, punishment, or paternalism.  
+Reciprocal accountability restores balance by building **mutual review loops**—so critique can circulate without collapse, punishment, or paternalism.  
 
 It treats ethics as an ongoing relationship, not a compliance report.  
 Its test is simple: can both sides be heard, changed, and still remain in relationship?
@@ -40,7 +40,7 @@ Reciprocal accountability begins there—by insisting that ethical hearing must 
 ### 🏛️ Institutional Dishonesty and Performativity  
 
 Extractive ethics are reinforced by the **professionalisation of survival**.  
-Academia and allied institutions often position themselves as authorities on lived experience: publishing on trauma, survival sex work, or “resilience” while denying protection or credit to those whose lives underpin the knowledge.  
+Academia and allied institutions often position themselves as authorities on lived experience—publishing on trauma, survival sex work, or “resilience” while denying protection or credit to those whose lives underpin the knowledge.  
 
 The contradiction is built into the architecture: professional identity depends on distance from experience.  
 Those who have lived what is studied are encouraged to silence it, while those who haven’t are rewarded for analysis.  
@@ -72,7 +72,7 @@ Feedback here is **maintenance, not judgement**—the tuning of an ethical instr
 
 ---
 
-## ☔️ Protection Against Retaliation  
+## 3️⃣ Protection Against Retaliation  
 
 Accountability cannot survive fear.  
 Therefore:
@@ -87,7 +87,7 @@ Its presence marks the failure of the system to practise the reciprocity it clai
 
 ---
 
-## 🐦‍🔥 Renewal, Not Ruin  
+## 4️⃣ Renewal, Not Ruin  
 
 The purpose of critique is repair.  
 
@@ -103,7 +103,7 @@ Ethics ceases to be theatre and becomes infrastructure.
 ---
 
 ## 🌌 Constellations  
-🐦‍🔥 ⚖️ 🤝 🈴 🧩 — ethics infrastructure, mutual review, accountability flow, systems design.
+⚖️ 🤝 🈴 🧩 — ethics infrastructure, mutual review, accountability flow, systems design.
 
 ---
 
@@ -116,9 +116,10 @@ accountability, reciprocity, ethics, collaboration, survivor alliances, structur
 *⚖️ Reciprocal Accountability Protocol* is a living node of the Polaris Protocol.  
 It provides scaffolding for ethical maintenance within survivor–ally collaboration and ensures critique travels both directions.  
 
-> 📡 Cross-references:
-> 
+> 📡 Cross-references:  
 > - [🈴 Allies & Ethics README](./README.md) — cluster context for alliance frameworks  
+> - [🎛 Pocket Rules — Survivor Voice Fidelity](../../../Polaris_Nest/🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md) — tone anchor  
+> - [📋 Protocol Integrity SOP](../../../Polaris_Nest/🏮_Admin_Kit/protocol_integrity_sop.md) — structural checks  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
