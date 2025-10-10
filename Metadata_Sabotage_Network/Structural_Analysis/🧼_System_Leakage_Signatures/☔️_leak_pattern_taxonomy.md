@@ -174,7 +174,7 @@ It formalises error into evidence and establishes a language-agnostic standard f
 > 📡 Cross-references:
 > 
 > - [🧼 System Leakage Signatures README](./README.md)  
-> - [⏱️ Temporal Glitches — The Chronometry of Containment](./⏱️_temporal_glitches_the_chronometry_of_containment.md)  
+> - [👾 Temporal Glitches](./👾_temporal_glitches.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-10-10_
