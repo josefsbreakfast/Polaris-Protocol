@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 04:07:42 UTC_
+_Generated on 2025-10-10 04:08:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1162,6 +1162,7 @@ _Generated on 2025-10-10 04:07:42 UTC_
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
+      - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
       - [`☎_telecoms_vectors.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/☎_telecoms_vectors.md)
@@ -1313,7 +1314,6 @@ _Generated on 2025-10-10 04:07:42 UTC_
       - [`🪅_yet_more_job_offer_twinning.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/✨_Constellations/🪅_yet_more_job_offer_twinning.png)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/README.md)
-      - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
   - [**🔥_Data_Risks/**](Metadata_Sabotage_Network/🔥_Data_Risks/)
     - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)
