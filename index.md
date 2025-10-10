@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 20:17:05 UTC_
+_Generated on 2025-10-10 20:18:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1025,6 +1025,7 @@ _Generated on 2025-10-10 20:17:05 UTC_
       - [`🩸_pain_as_credential.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🩸_pain_as_credential.md)
       - [`🪄_performative_empathy_economies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪄_performative_empathy_economies.md)
       - [`🪞_mirror_ethics_when_empathy_becomes_extraction.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_ethics_when_empathy_becomes_extraction.md)
+      - [`🪞_mirror_log_template.csv`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_log_template.csv)
       - [`🪫_moral_burnout_and_the_myth_of_neutrality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪫_moral_burnout_and_the_myth_of_neutrality.md)
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
