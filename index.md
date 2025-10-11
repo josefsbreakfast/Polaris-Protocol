@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-11 08:19:17 UTC_
+_Generated on 2025-10-11 08:57:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1245,6 +1245,7 @@ _Generated on 2025-10-11 08:19:17 UTC_
       - [`📉_narrative_instability_index.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📉_narrative_instability_index.md)
       - [`📉_political_gravity_logjam.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📉_political_gravity_logjam.md)
       - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
+      - [`🪩_algorithmic_proximity_and_accidental_truth_machine.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🪩_algorithmic_proximity_and_accidental_truth_machine.md)
     - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/README.md)
       - [`☎_esim_proxy_risk.md`](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/☎_esim_proxy_risk.md)
