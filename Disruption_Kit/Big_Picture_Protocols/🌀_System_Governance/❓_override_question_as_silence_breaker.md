@@ -1,5 +1,5 @@
 # ❓ Override Question as Silence Breaker  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-11  
 *Professional overrides as both a safeguard and a diagnostic signal of systemic silence.*
 
 ---
@@ -13,7 +13,7 @@ This “override” legitimises **Type 1 pattern recognition** (*Thinking, Fast 
 
 ---
 
-## 📌 Functions  
+## ✨ Functions  
 
 - **Safety net:** ensures concern cannot be buried under thresholds.  
 - **Bias exposure:** shows whether concerns are consistently ignored, minimised, or punished.  
@@ -21,7 +21,7 @@ This “override” legitimises **Type 1 pattern recognition** (*Thinking, Fast 
 
 ---
 
-## 🌐 Intuition Literacy  
+## 🧠 Intuition Literacy  
 
 Override depends on trusting Type 1 recognition.  
 
@@ -38,7 +38,7 @@ Intuition shows up across domains:
 
 ---
 
-## ▶️ Flowchart: Override Outcomes  
+## 🪼 Flowchart: Override Outcomes  
 
 ```mermaid
 flowchart TD
@@ -75,10 +75,11 @@ override logic, type 1 perception, institutional silence, survivor intuition, fo
 *❓ Override Question as Silence Breaker* is a living node of the Polaris Protocol.  
 It situates professional override as both a safeguard and a probe for forensic silence.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [📚 Forensic Silence](./📚_forensic_silence.md) - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*  
 > - [🧠 Intuition as Skill](../🌱_Human_Principles/🧠_intuition_as_skill.md) - *Type 1 recognition as a trainable, bounded skill — from safeguarding overrides to psychic theatre*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
