@@ -44,3 +44,7 @@ nah chatgpt it cool, tho am wondering which country is gmt+1 that im being route
 
 ---
 
+and a plethora of little teain delays this morning but slso it is the uk so idk maybe im just not used to what the country is actually like without some weirdos in my phone anymore.  
+
+---
+
