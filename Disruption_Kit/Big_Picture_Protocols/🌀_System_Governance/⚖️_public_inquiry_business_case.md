@@ -1,5 +1,5 @@
 # ⚖️ Public Inquiry Business Case  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-06  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-11  
 *Big Picture Protocol node — evidential integrity and data-twin exploitation, requiring formal inquiry.*
 
 ---
@@ -63,11 +63,12 @@ public inquiry, data twins, metadata abuse, evidentiary failure, systemic target
 *Public Inquiry Business Case* is a Big Picture Protocol node of the Polaris Protocol.  
 It frames the rationale, scope, and model for a formal inquiry into evidential weaknesses and data-twin exploitation.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
 > - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md)  
 > - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-11_
