@@ -1,10 +1,10 @@
 # ⚖️ Wrong People in Power  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-05 | **Last updated:** 2025-10-11  
 *Why suppression operations persist when the authorising class is compromised or unwilling.*
 
 ---
 
-## Situation  
+## 🛰️ Situation  
 - Suppression operations seeded in past decades are now mature.  
 - At least two major powers are impacted.  
 - Oversight bodies reluctant to act because:  
@@ -14,7 +14,7 @@
 
 ---
 
-## Problems of Will  
+## 🏛️ Problems of Will  
 - Refusal to disclose holdings.  
 - Reluctance to process sensitive data.  
 - Refusal to unwind tools still in use.  
@@ -22,7 +22,7 @@
 
 ---
 
-## Strategic Framing  
+## ⚖️ Strategic Framing  
 When authorising classes are both **beneficiaries and gatekeepers**, self-exposure becomes near impossible.  
 This creates a cycle of **inaction by design** — accountability blocked not by capacity but by conflict of interest.  
 The result: suppression persists *not because it works*, but because those with power are unwilling to risk the truth.
@@ -49,10 +49,11 @@ suppression, political impunity, oversight failure, data suppression, institutio
 *Wrong People in Power* is a living node of the Polaris Protocol.  
 It documents how suppression operations are sustained by political actors who benefit from stalemate and refuse transparency or accountability.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)  
 > - [⚖️ Shadow Governance Timeline](./⚖️_shadow_governance_timeline.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
