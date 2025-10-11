@@ -1,18 +1,18 @@
 # 🌀 Prototype Surveillance as Investor Pitch  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-11  
 *Hypothesis node: surveillance programme framed as commercial pilot for investor-ready product rather than purely national-interest intelligence.*
 
 ---
 
 ## 📜 Premise  
 
-Field observations (see [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)) indicate a pattern consistent with a **prototype commercial run**.  
+Field observations (see [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md) indicate a pattern consistent with a **prototype commercial run**.  
 
 This node outlines the hypothesised structure and logic.
 
 ---
 
-## 🧩 Hypothesised Structure  
+## 🛰️ Hypothesised Structure  
 
 - **Pilot Group Usage:** small cohort treated as live test-bed to stress-test model before investor pitch.  
 - **Investor-Facing Metrics:** need for clean, “perfect” outcomes drives heavy intervention to eliminate anomalies.  
@@ -50,10 +50,11 @@ prototype surveillance, investor pitch, stress-test surveillance, fudged outcome
 *Prototype Surveillance as Investor Pitch* is a living node of the Polaris Protocol.  
 It explores how observed containment tactics might align with investor-driven prototyping rather than public-interest intelligence.
 
-> 📡 Cross-references:  
-> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
-> - [🌀 System Governance](./🌀_System_Governance/)
+> 📡 Cross-references:
+> 
+> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
+> - [🌀 System Governance](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
