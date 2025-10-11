@@ -1,6 +1,6 @@
 # ⚖️ Judicial Deference  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-06  
-*Courts outsourcing responsibility back to the executive, reinforcing systemic impunity.*
+**First created:** 2025-09-14 | **Last updated:** 2025-10-11  
+*Courts outsourcing responsibility back to the executive, reinforcing systemic impunity.*  
 
 ---
 
@@ -40,10 +40,11 @@ judicial deference, rule of law, impunity, national security, surveillance, exec
 *Judicial Deference* is a living node of the Polaris Protocol.  
 It tracks how courts sometimes fail to check state overreach — and how legal passivity enables systemic harm.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🌀 System Governance](./README.md) — parent cluster of governance diagnostics  
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-11_
