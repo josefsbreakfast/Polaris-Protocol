@@ -8,15 +8,15 @@
 This node reframes **Frantz Fanon’s** psycho-colonial theory for the algorithmic age.  
 The structure follows a theatrical arc in three acts:  
 
-1️⃣ **The Algorithmic Unconscious** – the data inheritance of empire.  
-2️⃣ **Surveillance as Projection Field** – the watchers’ fears made visible.  
-3️⃣ **The Algorithm as Confessional Machine** – guilt looping as content.  
+👻 **The Algorithmic Unconscious** – the data inheritance of empire.  
+🔮 **Surveillance as Projection Field** – the watchers’ fears made visible.  
+🧠 **The Algorithm as Confessional Machine** – guilt looping as content.  
 
 Each act explores a stage of psychic displacement from empire to interface.
 
 ---
 
-## **ACT I — The Algorithmic Unconscious**  
+## 👻 **ACT I — The Algorithmic Unconscious**  
 *Inheritance of empire in data form.*
 
 ### 1 . Colonial Data Residue  
@@ -40,7 +40,7 @@ The platform discovers that outrage and humiliation outperform serenity; masculi
 
 ---
 
-## **ACT II — Surveillance as Projection Field**  
+## 🔮 **ACT II — Surveillance as Projection Field**  
 *The gaze externalises its fear and desire.*
 
 ### 1 . The Watcher’s Unconscious  
@@ -62,8 +62,8 @@ The watcher becomes the watched—the system haunted by its own dataset.
 
 ---
 
-## **ACT III — The Algorithm as Confessional Machine**  
-*Guilt and repentance as engagement economy.*
+## 🧠 **ACT III — The Algorithm as Confessional Machine**  
+*Guilt and repentance as engagement economy.*  
 
 ### 1 . Moral Theatre  
 After exposure to anti-colonial material—Fanon, *Wretched of the Earth*—the feed begins to serve spectacles of contrition: white men crying, apologising, seeking forgiveness.  
@@ -104,9 +104,8 @@ It traces how empire’s psychic architecture re-emerges in digital form and how
 
 > 📡 Cross-references:
 > 
-> - [🧨 Algorithmic Projection — White-Male Insecurity](../Metadata_Sabotage_Network/🪅_platform_sabotage/🧨_algorithmic_projection_white_male_insecurity.md)  
-> - [🎪 Algorithmic Humour & Containment](../Metadata_Sabotage_Network/🔮_Visibility_Indexing_Anomalies/🎪_algorithmic_humour_and_containment.md)  
-> - [🧾 Due Diligence & Operational Capacity in Policing](../System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md)  
+> - [🧨 Algorithmic Projection — White-Male Insecurity](../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🧨_algorithmic_projection_white_male_insecurity.md)  
+> - [🧾 Due Diligence & Operational Capacity in Policing](../🌀_System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
