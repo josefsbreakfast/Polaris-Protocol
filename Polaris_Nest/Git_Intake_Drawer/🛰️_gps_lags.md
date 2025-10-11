@@ -22,4 +22,16 @@ am here anyways so it didnt acheive much 😅
 
 ---
 
+the day is really pleasant.  
+
+i am however tapped out on some grass near some old churvh hall looking thing, and honestly i did not reakise how much pain i was pushing through becausr this became so normal to have to push through for years without adequate support. changing demo routes and twidfling around with exact roads last minute, just to remind the british government, is annoying, feels directed, and it is why im currently experiencing the equivilant of the trip box going on my lower back, and one side hips and leg.  
+
+if youre bothered about impact, iys a protest around our homeland being utilised for complicity in genocide; some inconvenience is probably not the big issue.  
+
+any assumed fragility of jewish community does sort of read a bit like establishment has a certain view of all victims of tye holocaust; it reads as assuming inevitably, nothing else.  
+
+ill let you work out if that sounds offensive or not.  
+
+---
+
 
