@@ -1,10 +1,10 @@
 # ⚖️ Strategic Lawsuits Against Public Participation (SLAPPs)  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-11  
 *Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony.*
 
 ---
 
-## Introduction  
+## 🔥 Introduction  
 
 SLAPPs (Strategic Lawsuits Against Public Participation) are not about winning in court.  
 They are lawsuits (or threats of lawsuits) designed to **silence, exhaust, and discredit**.  
@@ -20,7 +20,7 @@ This node explores:
 
 ---
 
-## 1. What SLAPPs Are  
+## 🏛️ 1. What SLAPPs Are  
 
 - **Definition**: Strategic Lawsuit Against Public Participation.  
 - **Purpose**: Not to win on legal merits, but to intimidate, exhaust, or silence critics.  
@@ -32,7 +32,7 @@ This node explores:
 
 ---
 
-## 2. UK Legal Timeline  
+## ⚖️ 2. UK Legal Timeline  
 
 - **26 Oct 2023** — Economic Crime and Corporate Transparency Act (ECCTA) receives Royal Assent, with anti-SLAPP provisions.  
 - **18 Jun 2025** — Sections 194 & 195 in force: courts empowered to dismiss SLAPPs early; protective cost regimes introduced.  
@@ -40,7 +40,7 @@ This node explores:
 
 ---
 
-## 3. Global Context  
+## 🌍 3. Global Context  
 
 - **UK**: long reputation for “libel tourism.” Example: Simon Singh vs. British Chiropractic Association (2008).  
 - **EU**: anti-SLAPP directive in development (since 2022).  
@@ -48,7 +48,7 @@ This node explores:
 
 ---
 
-## 4. SLAPPs in UK Politics (2023–25)  
+## 🇬🇧 4. SLAPPs in UK Politics (2023–25)  
 
 - **Dale Vince suits**: defamation after Israel–Gaza comments (2023–25).  
 - **UK Lawyers for Israel (UKLFI)**: threatening letters to solidarity events; SRA investigation in 2025.  
@@ -57,7 +57,7 @@ This node explores:
 
 ---
 
-## 5. Solidarity with Palestinian Survivors  
+## 🇵🇸 5. Solidarity with Palestinian Survivors  
 
 - SLAPPs are used to chill Palestine solidarity in the UK.  
 - NGOs, journalists, and survivors are silenced.  
@@ -66,7 +66,7 @@ This node explores:
 
 ---
 
-## 6. Crown Servants & Testimony as Crown Property  
+## 👑 6. Crown Servants & Testimony as Crown Property  
 
 Crown servants include civil servants, armed forces, police, diplomats, and intelligence officers.  
 
@@ -86,7 +86,7 @@ Two mechanisms converge:
 
 ---
 
-## 7. Enforcement Across MoJ and Government  
+## 🎩 7. Enforcement Across MoJ and Government  
 
 - **MoJ / HMCTS**: circulates orders; contempt powers enforce silence.  
 - **Cabinet Office / AG’s Office**: coordinates legal instructions across departments.  
@@ -98,7 +98,7 @@ Together, this web ensures universal silence once an injunction or SLAPP is acti
 
 ---
 
-## 8. Duty of Care vs Reality  
+## 🥀 8. Duty of Care vs Reality  
 
 On paper: GDPR, safeguarding law, civil service codes, whistleblowing frameworks, and professional duties apply.  
 In practice: gag orders and injunctions override these obligations.  
@@ -107,7 +107,7 @@ Survivors raising genuine data security or safeguarding concerns face reprisal, 
 
 ---
 
-## 9. Why SLAPPs on IHL Issues Are Uniquely Dangerous  
+## 🕊️ 9. Why SLAPPs on IHL Issues Are Uniquely Dangerous  
 
 - **Registered professionals** (lawyers, doctors, academics, aid workers): SLAPP reframes mandatory reporting as misconduct.  
 - **Civil service**: chilled from giving frank advice on treaty obligations.  
@@ -119,7 +119,7 @@ Survivors raising genuine data security or safeguarding concerns face reprisal, 
 
 ---
 
-## 10. Harassment & Surveillance as Enforcement Tools  
+## 🧠 10. Harassment & Surveillance as Enforcement Tools  
 
 Survivors subject to SLAPP-like silencing are often surveilled or harassed.  
 
@@ -129,7 +129,7 @@ Survivors subject to SLAPP-like silencing are often surveilled or harassed.
 
 ---
 
-## Conclusion  
+## 🩸 Conclusion  
 
 SLAPPs in the UK are not only legal actions but systemic frameworks of silencing.  
 They intersect with injunctions, Crown property rules, enforcement webs, and harassment.  
@@ -158,13 +158,14 @@ SLAPPs, systemic silencing, Palestine solidarity, defamation threats, injunction
 It situates SLAPPs as both legal tactics and systemic silencing frameworks.  
 By mapping legal timelines, global context, survivor erasure, Crown property rules, and enforcement webs, it shows how SLAPPs operate as a service industry for suppression.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚖️ Judicial Deference](./⚖️_judicial_deference.md)  
 > - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
 
 ---
 
