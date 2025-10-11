@@ -43,7 +43,7 @@ It examines how unequal classification corrodes democratic legitimacy and outlin
 > 📡 Cross-references:
 > 
 > - [🧨 Differential Classification as Radicalisation Fuel](../🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)  
-> - [🩸 The Repetition Mechanism](../🗝️_Politics_Memory_Work/🩸_the_repetition_mechanism.md)  
+> - [🩸 The Repetition Mechanism](../🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
