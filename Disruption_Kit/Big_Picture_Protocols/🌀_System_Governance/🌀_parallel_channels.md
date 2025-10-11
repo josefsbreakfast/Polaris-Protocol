@@ -1,10 +1,10 @@
 # 🌀 Parallel Channels  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-11  
 *Duplication of process where survivors are bounced between contradictory pathways — a containment treadmill.*
 
 ---
 
-## 🔀 Core Idea  
+## ✨ Core Idea  
 
 Parallel channels occur when **two or more systems claim to offer help or oversight** — but in practice, they deflect responsibility back and forth.  
 It’s a **containment loop disguised as support**.  
@@ -18,7 +18,7 @@ But all channels lead back to the same stuck point.
 
 ---
 
-## 🔄 Containment Treadmill  
+## 🏛️ Containment Treadmill  
 
 | **Path A** | **Path B** | **Outcome** |
 |-----------|------------|-------------|
@@ -30,7 +30,7 @@ But all channels lead back to the same stuck point.
 
 ---
 
-## 📉 Impact on Survivors  
+## 🔥 Impact on Survivors  
 
 - **Cognitive load**: constant navigation, repetition, contradiction.  
 - **Delays**: each bounce adds months.  
@@ -40,7 +40,7 @@ But all channels lead back to the same stuck point.
 
 ---
 
-## 🛠 Countermeasures  
+## 🐦‍🔥 Countermeasures  
 
 - **One-touch escalation routes**: single intake team that coordinates behind the scenes.  
 - **Jurisdiction maps**: public guides that show which route is valid, when, and why.  
@@ -69,9 +69,10 @@ parallel process, contradictory systems, intake failure, bounced complaints, ins
 *Parallel Channels* is a living node of the Polaris Protocol.  
 It maps how survivors are trapped in duplicated intake pathways that lead nowhere — containment through contradiction.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🌀 System Governance](./)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
