@@ -1,16 +1,16 @@
-# 🌐 Cross-Legal & Law-Enforcement Response to Genocide Risk  
+# 🇬🇧 Cross-Legal & Law-Enforcement Response to Genocide Risk  
 **First created:** 2025-10-11  |  **Last updated:** 2025-10-11  
 *How parallel tiers of law and enforcement must activate when domestic capture blocks prevention duties.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node outlines the **multi-layered response architecture** required when a state fails or refuses to uphold its obligations under the **Convention on the Prevention and Punishment of the Crime of Genocide (1948)**.  
 It integrates domestic, professional, and international tiers into a relay system: when one tier is compromised, another must assume the duty to prevent.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Erga omnes duty** — obligation owed to all humanity, not just citizens.  
 - **Parallel legality** — domestic and international channels can operate simultaneously.  
 - **Chain of custody as moral infrastructure** — evidence preservation becomes prevention.  
@@ -18,7 +18,7 @@ It integrates domestic, professional, and international tiers into a relay syste
 
 ---
 
-## 🔍 Analysis / Content  
+## 🧿 Analysis / Content  
 
 ### 1  Domestic Legal System  
 *Courts  |  Bar Councils  |  Law Societies  |  Prosecutors*  
