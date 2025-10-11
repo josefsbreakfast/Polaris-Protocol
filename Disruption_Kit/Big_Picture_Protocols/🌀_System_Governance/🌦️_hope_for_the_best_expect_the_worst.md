@@ -1,5 +1,5 @@
 # 🌦️ Hope for the Best, Expect the Worst — Transformative Anti‑Exploitation Practice
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-11  
 *A governance brief: designing systems and processes that assume occasional bad faith, and reduce the low-effort, high-impact exploits that legacy, federated stacks make possible.*
 
 ---
@@ -10,17 +10,17 @@ Design for normal operation — but bake in practical defences that assume some 
 
 ---
 
-## 🧭 Summary
+## 🛰️ Summary
 Organisations routinely plan for failures, but they often assume failures are accidental. They seldom design for *deliberate* procedural exploitation at low technical cost. This node argues for a *transformative anti‑exploitation* posture: pragmatic, institutionally realistic, and focused on making small, low-cost changes that close high-impact gaps without requiring whole-system rewrites.
 
 ---
 
-## 🧩 The problem in one line
+## ✨ The problem in one line
 Legacy, federated systems + opaque transformation layers + automated triage = a useful playground for low-skill, high-impact exploitation.
 
 ---
 
-## 🔍 Why current controls miss this
+## ❌ Why current controls miss this
 - **Silo budgeting** means nobody funds cross-system fixes.  
 - **Audit scope blindspots** focus on permissions and access rather than transformation fidelity.  
 - **Triage automation** filters odd cases away from human review.  
@@ -29,7 +29,7 @@ Legacy, federated systems + opaque transformation layers + automated triage = a 
 
 ---
 
-## 🎯 Principles of Transformative Anti‑Exploitation Practice
+## 🐦‍🔥 Principles of Transformative Anti‑Exploitation Practice
 1. **Assume occasional bad faith** — treat unlikely-but-possible misuses as design constraints.  
 2. **Detect at boundaries** — instrument transformation layers and publish retention of middleware logs.  
 3. **Design for variant resilience** — SAR/DPO procedures must search identifier variants by default.  
@@ -101,4 +101,4 @@ This frames anti-exploitation as pragmatic resilience, not paranoid overreach.
 ## 🏮 Footer
 *🌦️ Hope for the Best, Expect the Worst — Transformative Anti‑Exploitation Practice* is a governance brief intended to translate plausible technical exploits into pragmatic policy and operational fixes. It invites organisations to shift from hopeful design to resilient practice.
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-11_
