@@ -1,6 +1,6 @@
 # 🌀 Managed Transition vs Revolution  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-29  
-*Why blocked reform manufactures rupture — and why survivors resist “revolutionary purity”*
+**First created:** 2025-09-27 | **Last updated:** 2025-10-11  
+*Why blocked reform manufactures rupture — and why survivors resist “revolutionary purity”.*
 
 ---
 
@@ -17,7 +17,7 @@ The real choice is whether we build safety nets and transition gradually, or let
 
 ---
 
-## ⏳ Historical Anchor: Late Tsarist Russia  
+## 🩸 Historical Anchor: Late Tsarist Russia  
 
 - The Tsars tightened control instead of reforming.  
 - Gradual change was blocked by elites clinging to power.  
@@ -35,7 +35,7 @@ This dynamic echoes today: if reform is consistently blocked, rupture becomes in
 
 ---
 
-## 🧭 Survivorship Perspective  
+## 🐦‍🔥 Survivorship Perspective  
 
 - Every revolution in history has been bloody and chaotic.  
 - Disabled people, queer people, women, and other marginalised groups are rarely protected when systems collapse.  
@@ -73,7 +73,7 @@ flowchart TB
 
 ---
 
-## 🔗 Polaris Relevance  
+## ✨ Polaris Relevance  
 
 - Governance logics that block reform manufacture crisis.  
 - Survivors know revolutions rarely protect the vulnerable.  
@@ -101,10 +101,11 @@ managed transition, revolution, reform blockage, rupture dynamics, survivor poli
 *Managed Transition vs Revolution* is a living node of the Polaris Protocol.  
 It maps how blocked reform produces rupture, and why survivors resist narratives that erase the risks of upheaval.
 
-> 📡 Cross-references:  
-> - [🌀 System Governance](../🌀_System_Governance/)  
-> - [🗝️ Politics Memory Work](../🗝️_Politics_Memory_Work/)
+> 📡 Cross-references:
+> 
+> - [🌀 System Governance](./README.md)  
+> - [🗝️ Politics Memory Work](../🗝️_Politics_Memory_Work/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
