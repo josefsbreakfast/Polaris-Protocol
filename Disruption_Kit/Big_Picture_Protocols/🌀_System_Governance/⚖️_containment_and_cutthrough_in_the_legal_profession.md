@@ -146,7 +146,7 @@ It documents the systemic ways legal voices can be muted and the lawful, ethical
 > 📡 Cross-references:
 > 
 > - [📜 Statutes — Parliamentary Procedures](../📜_Statutes/README.md) — complementary institutional containment logics  
-> - [📰 DSMA Notices & Atrocity-Risk Reporting](../📜_Statutes/📰_dsma_notices_and_atrocity_risk_reporting.md) — media-side analogues  
+> - [📰 DSMA Notices & Atrocity-Risk Reporting](../📺_Money_Talks_Media/📰_dsma_notices_and_atrocity_risk_reporting.mdmd) — media-side analogues  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
