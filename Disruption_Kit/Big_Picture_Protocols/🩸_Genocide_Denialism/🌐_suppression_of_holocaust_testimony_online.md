@@ -1,5 +1,5 @@
 # 🌐 Suppression of Holocaust Testimony Online  
-**First created:** 2025-10-02 | **Last updated:** 2025-10-02  
+**First created:** 2025-10-02 | **Last updated:** 2025-10-11  
 *Tracing how Holocaust desecrations tied to Yom Kippur vanish from the English web, and what that suppression reveals.*  
 
 ---
@@ -15,7 +15,7 @@ This is not absence of fact. It is suppression of fact.
 
 ---
 
-## 🧭 Methodology  
+## 🛰️ Methodology  
 
 1. **Date Grid:**  
    Compiled all Yom Kippur dates from 1920–1950 in the Gregorian calendar.  
@@ -33,7 +33,7 @@ This is not absence of fact. It is suppression of fact.
 
 ---
 
-## 🔍 Findings  
+## 🕸️ Findings  
 
 - **Surface Web Gaps:**  
   - English/German search engines returned almost nothing tying Yom Kippur to Nazi violence.  
@@ -50,7 +50,7 @@ This is not absence of fact. It is suppression of fact.
 
 ---
 
-## 📣 Interpretation  
+## 🔕 Interpretation  
 
 This is **denial by suppression**:  
 - Not outright saying “it never happened,”  
@@ -65,7 +65,7 @@ Multiple states have an interest in narrowing memory to politically useful event
 
 ---
 
-## 🧩 Conclusion  
+## 🩸 Conclusion  
 
 The Holocaust is not being denied crudely.  
 It is being **re-edited**: details suppressed, desecrations erased, dates redirected.  
@@ -97,4 +97,4 @@ holocaust denial, algorithmic suppression, yom kippur, lodz ghetto, babi yar, tr
 *Suppression of Holocaust Testimony Online* is a methodological node of the Polaris Protocol.  
 It records how the public web flattens desecrations of Yom Kippur, and how survivor voices re-emerge when suppression is exposed.  
 
-_Last updated: 2025-10-02_  
+_Last updated: 2025-10-11_  
