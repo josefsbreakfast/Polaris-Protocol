@@ -1,5 +1,5 @@
 # ⚖️ Autonomy vs Containment Dial  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-11  
 *On the structural tension between openness, security, and exploitability in governance systems.*
 
 ---
