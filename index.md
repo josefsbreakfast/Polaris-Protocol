@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-10 22:46:14 UTC_
+_Generated on 2025-10-11 07:48:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -86,6 +86,7 @@ _Generated on 2025-10-10 22:46:14 UTC_
       - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_transparency_floor_node.md)
       - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_uk_constitutional_fault_lines.md)
       - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_wrong_people_in_power.md)
+      - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
       - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/❓_override_question_as_silence_breaker.md)
       - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_ambiguity_as_containment.md)
       - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_managed_transition_vs_revolution.md)
@@ -1348,7 +1349,6 @@ _Generated on 2025-10-10 22:46:14 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`☕_less_than_ugly_mugs.md`](Polaris_Nest/Git_Intake_Drawer/☕_less_than_ugly_mugs.md)
-    - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
     - [`✨_my_boy_lawrence.md`](Polaris_Nest/Git_Intake_Drawer/✨_my_boy_lawrence.md)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
