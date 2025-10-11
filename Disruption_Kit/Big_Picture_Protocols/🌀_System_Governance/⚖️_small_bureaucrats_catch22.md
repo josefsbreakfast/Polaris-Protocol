@@ -1,10 +1,10 @@
 # ⚖️ Small Bureaucrats Catch-22  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-05 | **Last updated:** 2025-10-11  
 *Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance.*
 
 ---
 
-## The Catch-22  
+## 🪼 The Catch-22  
 - Survivors need resources to heal and move faster.  
 - Resources are locked behind **small bureaucrats at large**: middle-layer actors who were complicit, remain silent, or infantilise survivors.  
 - To get help, survivors must push through the very system that injured and exhausted them.  
@@ -12,14 +12,14 @@
 
 ---
 
-## Complicit Middle-Layers  
+## ❌ Complicit Middle-Layers  
 - Refusal to admit complicity.  
 - Interest in preserving infantilisation dynamics.  
 - Gatekeeping support through opacity, delay, or selective action.  
 
 ---
 
-## Strategy: Targeted Resistance  
+## 🐦‍🔥 Strategy: Targeted Resistance  
 - Survivors cannot dismantle the whole structure at once.  
 - Focus pressure on specific cracks where catalyst breakthroughs are possible.  
 - Anti-fascist logic: resist in small, deliberate acts until the tipping point.  
@@ -47,11 +47,12 @@ bureaucratic delay, survivor exhaustion, gatekeeping, complicit middle layers, i
 *Small Bureaucrats Catch-22* is a living node of the Polaris Protocol.  
 It documents how complicit middle-layers create systemic stalemates and how survivors can resist until catalyst moments shift access.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md)  
 > - [🪫 Austerity Long Tail & Data Instability](./🪫_austerity_long_tail_data_instability.md)  
 > - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
