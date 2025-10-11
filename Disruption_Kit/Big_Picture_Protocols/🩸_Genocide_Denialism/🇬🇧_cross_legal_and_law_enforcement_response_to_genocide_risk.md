@@ -20,7 +20,7 @@ It integrates domestic, professional, and international tiers into a relay syste
 
 ## 🧿 Analysis / Content  
 
-### 1  Domestic Legal System  
+### ⚖️ 1  Domestic Legal System  
 *Courts  |  Bar Councils  |  Law Societies  |  Prosecutors*  
 - Keep ordinary remedies open wherever possible.  
 - Maintain judicial records, affidavits, and evidence even under pressure.  
@@ -29,7 +29,7 @@ It integrates domestic, professional, and international tiers into a relay syste
 
 ---
 
-### 2  Law-Enforcement & Oversight  
+### 🏛️ 2  Law-Enforcement & Oversight  
 *Police  |  Internal-Affairs  |  Inspectorates  |  National Human-Rights Bodies*  
 - Secure and duplicate evidence logs externally.  
 - Protect witnesses through anonymisation and safe transfer protocols.  
@@ -38,7 +38,7 @@ It integrates domestic, professional, and international tiers into a relay syste
 
 ---
 
-### 3  Parliamentary & Civil Spheres  
+### 📜 3  Parliamentary & Civil Spheres  
 *Committees  |  Ombudsmen  |  Journalists  |  NGOs*  
 - Apply transparency pressure and sustain public record.  
 - Use independent media and parliamentary privilege to ventilate evidence.  
@@ -46,7 +46,7 @@ It integrates domestic, professional, and international tiers into a relay syste
 
 ---
 
-### 4  International & Regional Mechanisms  
+### 📣 4  International & Regional Mechanisms  
 *ICC  |  ICJ  |  UN Special Rapporteurs  |  Regional Courts (ECHR, ACHPR, IACHR)*  
 - File Article 8 notifications requesting UN action to prevent or suppress risk.  
 - Submit communications to Special Rapporteurs on Genocide Prevention and on the Situation of Human Rights Defenders.  
@@ -55,7 +55,7 @@ It integrates domestic, professional, and international tiers into a relay syste
 
 ---
 
-### 5  Transnational Professional Networks  
+### 🦉 5  Transnational Professional Networks  
 *Bar Associations  |  Medical and Press Federations  |  Academic Institutes*  
 - Provide peer-oversight, safe-harbour scholarships, and remote archiving.  
 - Issue collective statements affirming professional duty to warn.  
@@ -63,7 +63,7 @@ It integrates domestic, professional, and international tiers into a relay syste
 
 ---
 
-### 6  Cross-Tier Interaction Model  
+### 🐉 6  Cross-Tier Interaction Model  
 
 | Tier | Action | Output |  
 |:--|:--|:--|  
@@ -77,7 +77,7 @@ Each tier functions as a **relay**: if one fails, the next receives the signal.
 
 ---
 
-### 7  Law-Enforcement Responsibilities in Capture Contexts  
+### 🕸️ 7  Law-Enforcement Responsibilities in Capture Contexts  
 - **Maintain chain-of-custody logs** even if prosecutions are frozen.  
 - **Preserve metadata** on orders, authorisations, and refusals.  
 - **Coordinate with humanitarian agencies** to avoid criminalising relief work.  
@@ -85,7 +85,7 @@ Each tier functions as a **relay**: if one fails, the next receives the signal.
 
 ---
 
-### 8  International Community Escalation  
+### 🌍 8  International Community Escalation  
 - Invoke **Article 8 Genocide Convention** → UN Security Council or General Assembly.  
 - If the Council is paralysed, use the **Uniting for Peace Resolution (1950)** route.  
 - Apply targeted sanctions to individuals obstructing prevention.  
@@ -93,7 +93,7 @@ Each tier functions as a **relay**: if one fails, the next receives the signal.
 
 ---
 
-### 9  Alignment with the Five Core British Values  
+### 🎩 9  Alignment with the Five Core British Values  
 
 | British Value | Practical Expression in the Genocide-Prevention Response |  
 |:--|:--|  
@@ -107,7 +107,7 @@ Together these values form the **ethical backbone** of the prevention architectu
 
 ---
 
-### 10  Guiding Principle  
+### ✨ 10  Guiding Principle  
 > When state capture obstructs the duty to prevent genocide, **prevention becomes a multi-jurisdictional relay.**  
 > Every independent professional body, court, and oversight office inherits the duty that political authority has abandoned—doing so in direct fulfilment of the British values the safeguarding system claims to defend.
 
@@ -138,9 +138,9 @@ It describes how legal, oversight, and professional systems interlock to meet bo
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment & Cut-Through in the Legal Profession](../📜_Statutes/⚖️_containment_and_cutthrough_in_the_legal_profession.md)  
-> - [📰 DSMA Notices & Atrocity-Risk Reporting](../📜_Statutes/📰_dsma_notices_and_atrocity_risk_reporting.md)  
-> - [🧾 Due Diligence & Operational Capacity in Policing](../System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md)  
+> - [⚖️ Containment & Cut-Through in the Legal Profession](../🌀_System_Governance/⚖️_containment_and_cutthrough_in_the_legal_profession.md)  
+> - [📰 DSMA Notices & Atrocity-Risk Reporting](../📺_Money_Talks_Media/📰_dsma_notices_and_atrocity_risk_reporting.md)  
+> - [🧾 Due Diligence & Operational Capacity in Policing](../🌀_System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
