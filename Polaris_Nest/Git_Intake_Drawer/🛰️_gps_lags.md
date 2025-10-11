@@ -18,4 +18,8 @@ although this is all equally easily read as "people tryong to fick with my head"
 
 ---
 
+am here anyways so it didnt acheive much 😅
+
+---
+
 
