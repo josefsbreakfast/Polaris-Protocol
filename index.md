@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-11 16:32:25 UTC_
+_Generated on 2025-10-11 16:54:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -609,6 +609,7 @@ _Generated on 2025-10-11 16:32:25 UTC_
       - [`🛰️_overlapping_surveillance_layers.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🛰️_overlapping_surveillance_layers.md)
       - [`🧠_why_are_we_threatened_by_complexity.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🧠_why_are_we_threatened_by_complexity.md)
       - [`🧿_diaspora_disclosure_tactics.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)
+      - [`🪞_fanon_and_the_algorithmic_unconscious.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🪞_fanon_and_the_algorithmic_unconscious.md)
     - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/)
       - [**🍉_Palestine/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/)
         - [**🪨_May_Their_Names_Never_Be_Erased/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/)
