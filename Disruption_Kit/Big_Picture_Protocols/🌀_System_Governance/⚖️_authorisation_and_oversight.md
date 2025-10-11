@@ -1,5 +1,5 @@
 # ⚖️ Authorisation and Oversight  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-06  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-11  
 *Ministerial and judicial checks on intelligence powers.*
 
 ---
@@ -49,10 +49,11 @@ intelligence powers, warrant approval, judicial oversight, IPCO, IPT, ministeria
 *Authorisation and Oversight* is a living node of the Polaris Protocol.  
 It explains how intelligence warrants are issued and checked in the UK — and how gaps between process and experience undermine survivor trust.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚖️ Legal Frameworks and Remits](./⚖️_legal_frameworks_remits.md)  
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-11_
