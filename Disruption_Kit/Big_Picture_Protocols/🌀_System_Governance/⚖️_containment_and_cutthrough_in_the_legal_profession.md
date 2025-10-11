@@ -4,14 +4,14 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node explores how, in crises or atrocity-risk environments, the **legal profession** can be functionally silenced without overt censorship.  
 The pattern mirrors broader governance containment: control through procedure, funding, and reputation rather than direct prohibition.  
 It also outlines lawful, ethical strategies to cut through that containment so that counsel can still act on the duties of the profession—truth, independence, and protection of life.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Procedural containment:** silence achieved via rule and convention rather than decree.  
 - **Economic & reputational dependency:** fear of losing clients or standing replaces direct coercion.  
 - **National-security over-reach:** secrecy levers blur the line between legitimate protection and obstruction.  
@@ -19,7 +19,7 @@ It also outlines lawful, ethical strategies to cut through that containment so t
 
 ---
 
-## 🔍 Analysis / Content  
+## 🪼 Analysis / Content  
 
 ### 1. Mechanisms of Professional Silencing  
 
@@ -62,7 +62,7 @@ Cross-sector corroboration multiplies pressure and distributes risk.
 
 ---
 
-### 3. Constitutional Logic  
+### 🏛️ 3. Constitutional Logic  
 Silencing of lawyers replaces **rule by law** with **rule by administration**.  
 The profession’s independence functions as a constitutional shock-absorber: when it fails, checks collapse.  
 Cut-through means creating **redundant communicative routes** so that if one is sealed—disciplinary, economic, or reputational—another still transmits accountability.
@@ -145,7 +145,7 @@ It documents the systemic ways legal voices can be muted and the lawful, ethical
 
 > 📡 Cross-references:
 > 
-> - [📜 Statutes — Parliamentary Procedures](../📜_Statutes/) — complementary institutional containment logics  
+> - [📜 Statutes — Parliamentary Procedures](../📜_Statutes/README.md) — complementary institutional containment logics  
 > - [📰 DSMA Notices & Atrocity-Risk Reporting](../📜_Statutes/📰_dsma_notices_and_atrocity_risk_reporting.md) — media-side analogues  
 
 
