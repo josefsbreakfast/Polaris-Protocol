@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-11 15:33:11 UTC_
+_Generated on 2025-10-11 15:36:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -114,6 +114,7 @@ _Generated on 2025-10-11 15:33:11 UTC_
       - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md)
       - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
+      - [`📻_voice_cloning_and_radio_command_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📻_voice_cloning_and_radio_command_integrity.md)
       - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🔬_lost_checks_and_balances.md)
       - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
