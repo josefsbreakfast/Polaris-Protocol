@@ -52,7 +52,7 @@ It explores how observed containment tactics might align with investor-driven pr
 
 > 📡 Cross-references:
 > 
-> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
+> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
 > - [🌀 System Governance](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
