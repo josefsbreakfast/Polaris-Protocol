@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-11 07:57:34 UTC_
+_Generated on 2025-10-11 07:58:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -150,6 +150,7 @@ _Generated on 2025-10-11 07:57:34 UTC_
       - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
       - [`🌾_impunity_as_fertile_ground.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)
       - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
+      - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
       - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
       - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_intuition_as_skill.md)
       - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
@@ -1352,7 +1353,6 @@ _Generated on 2025-10-11 07:57:34 UTC_
     - [`✨_my_boy_lawrence.md`](Polaris_Nest/Git_Intake_Drawer/✨_my_boy_lawrence.md)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
-    - [`💎_diamonds_and_disappointment.md`](Polaris_Nest/Git_Intake_Drawer/💎_diamonds_and_disappointment.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛰_working_through_glitches.md`](Polaris_Nest/Git_Intake_Drawer/🛰_working_through_glitches.md)
     - [`🛰️_another_witness_lost_signal.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_another_witness_lost_signal.md)
