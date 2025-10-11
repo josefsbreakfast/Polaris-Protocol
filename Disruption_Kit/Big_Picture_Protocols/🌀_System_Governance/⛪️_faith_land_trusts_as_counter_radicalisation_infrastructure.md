@@ -1,5 +1,5 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-08 | **Last updated:** 2025-10-11  
 *How redundant churches could seed civic renewal instead of grievance economies.*
 
 ---
