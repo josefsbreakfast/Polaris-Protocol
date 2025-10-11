@@ -6,6 +6,8 @@ There's a lot of "well technically the rules could be streched to do X", but the
 
 Relevant oversight can subpneoa/view the chat if you haven't already. This is just so *old* now.  
 
+I'm not saying I don't talk like a fishwife when the genAI is faulting, I'm saying there are guardrails tailored to catch this being exploited to produce defamatory content.  
+
 ---
 
 
