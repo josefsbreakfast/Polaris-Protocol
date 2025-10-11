@@ -1,17 +1,17 @@
 # 💎 Diamonds and Disappointment: Rings, Mobility, and Respectability  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-08 | **Last updated:** 2025-10-11  
 *On how the performance of permanence became a portable credential, a safety device, and an unrealistic demand on modern life.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Rings became symbols of fidelity only when communities stopped being small enough for everyone to already know who slept beside whom.  
 When industrialisation and migration untethered people from kin networks, visible shorthand was needed: a token that said *claimed, respectable, safe*.  
 Over time, that shorthand hardened into ritual, and the diamond—sold as eternal—became a portable credential for stability in an unstable world.  
 
 ---
 
-## 🔍 Analysis  
+## ✨ Analysis  
 
 ### 💍 The Performed Yes  
 The engagement ring is less a promise than a performance of certainty.  
@@ -61,10 +61,11 @@ engagement rings, respectability, class, mobility, gender safety, marriage contr
 *Diamonds and Disappointment* is a living node of the Polaris Protocol.  
 It analyses how jewellery rituals became instruments of social control and how re-designing commitment symbols can reduce harm without erasing joy.  
 
-> 📡 Cross-references:  
-> - [🌱 Human Principles](../Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/) — cultural and ethical frameworks  
-> - [🧿 Watch the Watchers](../Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/) — diagnostics on respectability politics  
+> 📡 Cross-references:
+> 
+> - [🌱 Human Principles](../🌱_Human_Principles/README.md) — cultural and ethical frameworks  
+> - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — diagnostics on respectability politics  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-11_
