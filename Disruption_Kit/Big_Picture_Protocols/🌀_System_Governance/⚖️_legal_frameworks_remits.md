@@ -304,9 +304,9 @@ It maps the statutory architectures, oversight systems, and shadow logics that d
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md) - *Ministerial and judicial checks on intelligence powers*  
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) - *Oversight inspections of UK intelligence services*  
 > - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *Courts outsourcing responsibility back to the executive, reinforcing systemic impunity*  
-> - [🧿 Watch The Watchers](../Big_Picture_Protocols/🧿_Watch_The_Watchers) - *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
-> - [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent) - *Prevent logic and governance suppression frameworks*  
-> - [🧠 HM Dept Coercive Nudges](../../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges) — *Behavioural science repurposed as state containment*  
+> - [🧿 Watch The Watchers](../Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md) - *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
+> - [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) - *Prevent logic and governance suppression frameworks*  
+> - [🧠 HM Dept Coercive Nudges](../../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *Behavioural science repurposed as state containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
