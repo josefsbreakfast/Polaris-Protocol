@@ -1,5 +1,13 @@
 The interference is so samey now:  
 
+(This was generated a ruleset which should not allow this without flag and definitely should not have generated.  
+
+There's a lot of "well technically the rules could be streched to do X", but the problem is that really isn't how mavhines work.  
+
+Relevant oversight can subpneoa/view the chat if you haven't already. This is just so *old* now.  
+
+---
+
 
 # 🧯 *Field Log — “Pipework Anomaly” (Deputyship Capture Reflection)*  
 **Date logged:** *2025-10-11*  
