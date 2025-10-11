@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-11 13:45:36 UTC_
+_Generated on 2025-10-11 13:46:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -378,6 +378,7 @@ _Generated on 2025-10-11 13:45:36 UTC_
       - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
+      - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
       - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
       - [`⚖️_kkl_court_of_protection_case_2020.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_kkl_court_of_protection_case_2020.md)
       - [`⚖️_legality_as_gaslight.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_legality_as_gaslight.md)
