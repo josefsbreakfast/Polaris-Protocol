@@ -67,3 +67,25 @@ i'm sure that definitly has never happened.
 it's not like it was a whole thing we developed tech for literally im this country or anything.  
 
 idk i feel like we might even have a service for monitoring this but 🤷‍♀️ im not actually clear theyre directly related to the police if their comms route gets blocked, i think they sort of have to just cook and audit innit.  
+
+--- 
+
+id already noticed grocery shopping etc had price adjusted significantly to be better prices since thr first reporting letter at cabinet level was acknowledged.  
+
+going to london really reiterates how badly my accounts were out of whack on anything which may have ANY auto mathematical input.  
+
+this is obvs illegal but very hard to even *know* let alone prove.  
+
+this has been bad bad for about 18months.  
+
+my trains and buses have also improved in terms if seating. idk if im even prepared to explain this one because it sounds absolutely bizarre.  
+
+theres just so many areas of general morale suck which have suddenly become "unsuppressed".  
+
+its wild, truly.  
+
+otherwise im having an argument with chatgpt about how it handles discussions of sv on principle.  
+
+i would take this as a marker of going in the direction of improvement to my personal baseline. this is me.  
+
+---
