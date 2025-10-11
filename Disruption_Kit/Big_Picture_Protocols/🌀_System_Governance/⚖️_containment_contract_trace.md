@@ -1,6 +1,6 @@
 # ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2025-10-06  
-*Unconsented containment, metadata silencing, and covert NDAs*
+**First created:** 2025-08-07 | **Last updated:** 2025-10-11  
+*Unconsented containment, metadata silencing, and covert NDAs.*
 
 ---
 
@@ -96,11 +96,12 @@ legal containment, metadata suppression, NDA simulation, Prevent logic, clone sy
 *Containment Contract Trace* is a living node of the Polaris Protocol.  
 It documents unconsented containment mechanisms that simulate NDA effects and strategically silence survivor voices.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)  
 > - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
 > - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-11_
