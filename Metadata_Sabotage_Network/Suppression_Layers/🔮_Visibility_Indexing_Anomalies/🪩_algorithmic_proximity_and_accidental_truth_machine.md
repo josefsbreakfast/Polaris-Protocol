@@ -4,13 +4,13 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node unites the mechanics of **stickiness**, **algorithmic proximity**, **content injection**, and the **accidental truth-machine effect**.  
 It examines how emotional feedback architectures — especially TikTok’s — blend forensic precision with collective mirroring, producing phenomena that feel like surveillance, telepathy, or prophecy but are in fact **statistical exposure events**.
 
 ---
 
-## 🧩 Key Features  
+## 🧿 Key Features  
 - **Stickiness = Affective Gravity** — sustained engagement binds users into shared optimisation lanes.  
 - **Algorithmic Proximity** — when emotional rhythms sync, feeds cross-pollinate; echo fusion feels like “bleed.”  
 - **Content Injection vs. Proximity** — one is technical tampering; the other, emergent coupling.  
@@ -19,7 +19,7 @@ It examines how emotional feedback architectures — especially TikTok’s — b
 
 ---
 
-## 🔍 Analysis / Content  
+## ✨ Analysis / Content  
 
 ### 1. Dual Layers of Behaviour  
 | Layer | Mechanism | Signature | Evidence |
@@ -75,7 +75,29 @@ They reveal emotional truths, not factual ones:
 ### 6. The Surveillance GC Illusion  
 What feels like a coordinated “surveillance group chat” is the platform’s emergent nervous system showing itself.  
 Each participant supplies micro-data; the model outputs a shared emotional script.  
-Those tuned to subtlety read the pattern early — as though receiving live dispatches from a collective subconscious.
+Those tuned to subtlety read the pattern early — as though receiving live dispatches from a collective subconscious.  
+
+---
+
+### 7. Timeline Cleanse as Pattern Disruption  
+
+“Timeline cleanse” rituals work because they exploit the same mathematics that produce algorithmic proximity in the first place.  
+They are not mystical resets but **entropy injections** — deliberate acts of statistical confusion.
+
+1. **Pattern hunger:**  Recommendation systems thrive on predictable rhythm.  
+   When you suddenly fill your feed with neutral or random content, you *scramble* that rhythm.
+
+2. **Entropy spike:**  The similarity between your new interactions and your prior vector collapses.  
+   The algorithm temporarily loses confidence in who you are, forcing a soft retrain.
+
+3. **Resonance break:**  If you were entangled in a shared emotional loop, this surge of novelty severs the sticky bond.  
+   Your feed stops echoing the collective anxiety field and rebuilds around the new data you’ve supplied.
+
+4. **Governance in disguise:**  What users call “cleansing” is actually a **micro-exercise in algorithmic self-governance**.  
+   By randomising your inputs, you remind the system that its certainty about you is conditional.
+
+> **Practical translation:**  a timeline cleanse is emotional hygiene by statistical means —  
+> teaching the machine to forget who you temporarily became.
 
 ---
 
