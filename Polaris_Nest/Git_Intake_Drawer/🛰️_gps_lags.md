@@ -48,3 +48,16 @@ and a plethora of little teain delays this morning but slso it is the uk so idk 
 
 ---
 
+babes....  
+
+"Unusual activity has been detected from your device. Try again later. (98cf547bdcc62534-LHR)
+Message W009 Polaris..."
+
+youre going to need to narrow it down.  
+which bit do you find to be "out of _**the usual**_"?  
+
+bc idk this has just coincided with policing changes in central london westminster and im at st pancreas because my back is dying ngl.  
+
+---
+
+
