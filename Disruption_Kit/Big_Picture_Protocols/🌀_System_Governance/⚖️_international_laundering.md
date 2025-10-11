@@ -1,5 +1,5 @@
 # ⚖️ International Laundering  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-06  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-11  
 *Cross-border governance tricks where obligations are displaced onto allies to evade accountability.*
 
 ---
@@ -37,10 +37,11 @@ international law, jurisdiction dodge, metadata laundering, intelligence allianc
 *International Laundering* is a living node of the Polaris Protocol.  
 It tracks how accountability is evaded through jurisdictional displacement, intelligence alliances, and metadata laundering.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🌀 System Governance](./README.md) — parent cluster of governance diagnostics  
 > - [🧼 System Leakage Signatures](../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-11_
