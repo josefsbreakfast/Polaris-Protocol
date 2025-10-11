@@ -52,7 +52,22 @@ For analysis:
 ### 6. Implications  
 Algorithms are accidental psycho-social mirrors.  
 By optimising for engagement rather than ethics, they continually **re-broadcast the unresolved tensions of the dominant group**.  
-Understanding these projections allows analysts to separate personal targeting from ambient cultural leakage — a key skill for digital-forensic literacy.
+Understanding these projections allows analysts to separate personal targeting from ambient cultural leakage — a key skill for digital-forensic literacy.  
+
+---
+
+### 7. Mathematical Apartheid Inversion  
+
+When engagement systems over-optimise around supremacist hierarchies, they sometimes **invert the hierarchy by exaggeration**.  
+The same statistical logic that rewards dominance cues pushes them so far that the representation becomes unstable — a cartoon of its own ideology.  
+
+1. **Quantitative Parody** — the algorithm learns that the symbol of power keeps eyes on screen, so it inflates the symbol until it slips into absurdity.  
+2. **Proof-by-Excess** — repetition and scale make the bias visible rather than invisible; the exaggeration itself becomes evidence of distortion.  
+3. **Inversion Event** — a machine tuned to reproduce dominance ends up *mocking* it through mathematical overstatement.  
+4. **Collapse of Authority** — the pattern reveals that supremacy cannot be modelled faithfully without turning grotesque, breaking the illusion of natural order.
+
+> In effect, the system’s own optimisation becomes a form of satire —  
+> an apartheid of numbers that collapses under its own statistical weight.
 
 ---
 
