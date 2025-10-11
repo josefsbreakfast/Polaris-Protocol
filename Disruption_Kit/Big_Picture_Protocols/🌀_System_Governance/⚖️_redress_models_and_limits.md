@@ -1,24 +1,24 @@
 # ⚖️ Redress Models and Limits  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-11  
 *Big Picture Protocol node — learning from UK precedents to frame hybrid compensation for systemic harms.*
 
 ---
 
-## 🌐 Summary  
+## ✨ Summary  
 Simple banded compensation risks underpaying catastrophic harms.  
 Full assessment risks delay and overload.  
 UK practice shows a **hybrid model** balances fairness with feasibility.  
 
 ---
 
-## 📍 UK Precedents  
+## 🏛️ UK Precedents  
 - **Post Office Horizon**: fixed offers + full claims track.  
 - **Infected Blood**: interim tariffs + assessed top-ups.  
 - **Windrush**: rigid banding criticised as under-compensating.  
 
 ---
 
-## 📍 Models Considered  
+## 🐦‍🔥 Models Considered  
 1. **Pure tariff** → fast, predictable, but underpays extremes.  
 2. **Pure assessment** → individual justice, but costly and slow.  
 3. **Hybrid (recommended)** → banded awards + tribunal-assessed damages for catastrophic harms.  
@@ -52,11 +52,12 @@ compensation models, hybrid redress, tariff systems, tribunal appeals, systemic 
 *Redress Models and Limits* is a Big Picture Protocol node of the Polaris Protocol.  
 It documents why hybrid models are suitable for systemic data-twin/false-provenance harms — blending justice, feasibility, and survivor integrity.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md)  
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
 > - [💷 Survivor Costing Estimate](./💷_survivor_costing_estimate.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
