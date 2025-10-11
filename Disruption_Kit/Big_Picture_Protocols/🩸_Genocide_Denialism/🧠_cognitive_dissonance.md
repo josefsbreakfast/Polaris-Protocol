@@ -1,17 +1,17 @@
 # 🧠 Cognitive Dissonance  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-07  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-11  
 *On the psychic split that sustains denial in the face of atrocity.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node explores **cognitive dissonance** as both a psychological defence and a governance tool.  
 In genocide denialism, it becomes a mechanism that allows individuals, institutions, or states to maintain moral coherence while participating in, enabling, or ignoring harm.  
 It bridges the psychological and political registers — from individual discomfort to collective rationalisation.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - Psychological definition and function of dissonance.  
 - Mechanisms by which dissonance is resolved through denial.  
 - How governments, media, and publics co-produce comfortable fictions.  
@@ -19,7 +19,7 @@ It bridges the psychological and political registers — from individual discomf
 
 ---
 
-## 🔍 Analysis / Content  
+## 🪼 Analysis / Content  
 
 ### 1. Psychological Function  
 Cognitive dissonance arises when beliefs and behaviours clash. The discomfort it produces pushes people to justify or rationalise contradiction — often by denying or reframing evidence.  
@@ -61,11 +61,12 @@ cognitive dissonance, genocide denial, moral rationalisation, bureaucracy, gasli
 *Cognitive Dissonance* is a living node of the Polaris Protocol.  
 It contributes to the *🩸 Genocide Denialism* cluster by tracing how psychological discomfort mutates into structural denial.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🩸 Genocide Denialism](./README.md) — root folder for denial mechanisms  
 > - [🐦‍🔥 Trauma Psychology & Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — for cross-analysis of defence mechanisms  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-11_
