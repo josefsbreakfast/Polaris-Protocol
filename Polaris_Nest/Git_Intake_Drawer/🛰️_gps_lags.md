@@ -1,4 +1,4 @@
-lots to say but gps lags in palces where doesnt make sense for british central sec idk.  
+lots to say but gps lags in places where doesnt make sense for british central sec idk.  
 
 the degree of weird background anx i have for so oong of being boxed is not insignificant.  
 
@@ -60,4 +60,10 @@ bc idk this has just coincided with policing changes in central london westminst
 
 ---
 
+i do kina wonder if you can essentially just insert material as a foreign power onto police radio just to d around but ya know....  
 
+i'm sure that definitly has never happened.  
+
+it's not like it was a whole thing we developed tech for literally im this country or anything.  
+
+idk i feel like we might even have a service for monitoring this but 🤷‍♀️ im not actually clear theyre directly related to the police if their comms route gets blocked, i think they sort of have to just cook and audit innit.  
