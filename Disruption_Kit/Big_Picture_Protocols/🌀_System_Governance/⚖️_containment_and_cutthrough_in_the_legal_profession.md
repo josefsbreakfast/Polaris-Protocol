@@ -69,7 +69,62 @@ Cut-through means creating **redundant communicative routes** so that if one is 
 
 ---
 
-*Dieu et mon droit.*
+*Dieu et mon droit.*  
+*Honi soit qui mal y pense.*  
+*Lex est tutissima cassis.*  
+*A Mari Usque Ad Mare.*  
+*Maintiens le droit.*  
+*Advance Australia.*  
+*Uphold the Right.*  
+*Satyameva Jayate.*  
+*Iman, Ittihad, Nazm.*  
+*ǃke e꞉ ǀxarra ǁke.*  
+*Harambee.*  
+*Majulah Singapura.*  
+*Fiat justitia ruat caelum.*  
+*Audi alteram partem.*  
+*Salus populi suprema lex.*  
+*Lex rex.*  
+*Nemo judex in causa sua.*  
+*Freedom and Justice.*  
+*For God and My Country.*  
+*Unity and Freedom.*  
+*Unity, Liberty, Justice.*  
+*One Zambia, One Nation.*  
+*Unity, Freedom, Work.*  
+*Uhuru na Umoja.*  
+*Pula!*  
+*Khotso, Pula, Nala.*  
+*Siyinqaba.*  
+*Progress, Peace, Prosperity.*  
+*Unity, Faith, Peace and Progress.*  
+*Ubumwe, Umurimo, Gukunda Igihugu.*  
+*Unidade, Trabalho, Vigilância.*  
+*Finis coronat opus.*  
+*Stella Clavisque Maris Indici.*  
+*One People, One Nation, One Destiny.*  
+*Out of Many, One People.*  
+*Peace and Justice.*  
+*The Land, The People, The Light.*  
+*Country Above Self.*  
+*Each Endeavouring, All Achieving.*  
+*Forward, Upward, Onward Together.*  
+*Pride and Industry.*  
+*Ever Conscious of God We Aspire, Build and Advance as One People.*  
+*Sub Umbra Floreo.*  
+*Apres Bondie, C'est La Ter.*  
+*Tuvalu mo te Atua.*  
+*Te Mauri, Te Raoi ao Te Tabomoa.*  
+*God’s Will First.*  
+*To Lead is to Serve.*  
+*Long God yumi stanap.*  
+*Unity in Diversity.*  
+*Fa'avae i le Atua Samoa.*  
+*Ko e 'Otua mo Tonga ko hoku tofi'a.*  
+*Fear God and Honour the King.*  
+*Paix — Travail — Patrie.*  
+*Union, Travail, Justice.*  
+*Travail, Liberté, Patrie.*
 
 ---
 
