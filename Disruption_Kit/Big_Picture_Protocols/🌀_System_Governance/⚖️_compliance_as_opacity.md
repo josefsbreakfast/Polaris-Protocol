@@ -1,5 +1,5 @@
 # ⚖️ Compliance as Opacity — UK CVE & Hidden Levers  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-06  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-11  
 *How “compliance”, secrecy, and CVE practice in the UK create plausible deniability, gaslighting, and governance failure — with remedies.*
 
 ---
@@ -69,11 +69,12 @@ CVE, opacity, plausible deniability, UK Prevent, algorithmic containment, gaslig
 *Compliance as Opacity* is a living node of the Polaris Protocol.  
 It maps how secrecy dressed as “compliance” breeds gaslighting and systemic harm — and names governance levers sharp enough to cut through it.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)  
 > - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
 > - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-11_
