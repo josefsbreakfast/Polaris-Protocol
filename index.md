@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-11 12:20:02 UTC_
+_Generated on 2025-10-11 13:01:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -577,6 +577,7 @@ _Generated on 2025-10-11 12:20:02 UTC_
       - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
       - [`🧠_memory_encoding_endings.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧠_memory_encoding_endings.md)
       - [`🧩_rejustification_loop_racial_logics_reborn_as_safety.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧩_rejustification_loop_racial_logics_reborn_as_safety.md)
+      - [`🧿_over_the_line_behavioural_targeting_and_elections.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧿_over_the_line_behavioural_targeting_and_elections.md)
       - [`🪞_deference_politics_as_containment_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
       - [`🪩_self_silencing_cyclone_and_reverse_overton_window.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪩_self_silencing_cyclone_and_reverse_overton_window.md)
