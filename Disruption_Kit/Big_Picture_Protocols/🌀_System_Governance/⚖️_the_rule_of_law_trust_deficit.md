@@ -1,16 +1,16 @@
 # ⚖️ The Rule-of-Law Trust Deficit
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-11  
 *Governance analysis of unequal terrorism classification and its effect on public legitimacy.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 When protest slogans are criminalised as terrorism while arson at a mosque is not, the public no longer understands the law’s boundaries.  
 This node traces the governance risk of that confusion: erosion of trust, decay of democratic consent, and loss of the social-contract “herd immunity” that keeps law legitimate.
 
 ---
 
-## 🔍 Analysis  
+## ✨ Analysis  
 
 1. **Public dissonance**  
    - Citizens cannot parse why similar acts carry opposing legal labels.  
@@ -40,10 +40,11 @@ governance, legitimacy, justice system, discrimination, transparency, social con
 *The Rule-of-Law Trust Deficit* is a living node of the Polaris Protocol.  
 It examines how unequal classification corrodes democratic legitimacy and outlines transparency remedies.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧨 Differential Classification as Radicalisation Fuel](../🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)  
 > - [🩸 The Repetition Mechanism](../🗝️_Politics_Memory_Work/🩸_the_repetition_mechanism.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-11_
