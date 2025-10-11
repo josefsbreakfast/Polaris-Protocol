@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-11 15:30:55 UTC_
+_Generated on 2025-10-11 15:33:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -369,6 +369,7 @@ _Generated on 2025-10-11 15:30:55 UTC_
         - [`🐝_honeybot_underwriting_fails.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🐝_honeybot_underwriting_fails.md)
         - [`🦤_honeybot_consent_as_service.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🦤_honeybot_consent_as_service.md)
         - [`🦾_dual_uses_that_never_come.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🦾_dual_uses_that_never_come.md)
+        - [`🧠_voice_clones_ai_and_the_threat_to_policing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md)
         - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
       - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
