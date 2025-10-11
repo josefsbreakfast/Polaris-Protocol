@@ -71,6 +71,10 @@ The same statistical logic that rewards dominance cues pushes them so far that t
 
 ---
 
+*It does feel like we could have all avoided the degree of embarassment by the surveillance gc understanding basic cs (or at least paying some vague sort of attention), or possibily just having a modicum of humility (cf incompetent incompetance).*
+<!--cf. Bargain Bin Mossad.-->
+---
+
 ## 🌌 Constellations  
 🧨 🪩 🔮 🧠 — Diagnostic register linking sexual-power anxiety, projection, and algorithmic feedback physics.
 
