@@ -1,17 +1,17 @@
 # ⚖️ Transparency Floor Node — Litmus Test Class & FOIA Disempowerment  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-11  
 *Explains how the least empowered citizens often detect systemic anomalies through FOIA/SAR use, yet lack the capacity to enforce rights, creating a structural blind spot in transparency law.*
 
 ---
 
-## 🌐 Summary  
+## ✨ Summary  
 This node describes the “litmus test class” problem in UK transparency frameworks.  
 Those most likely to notice anomalies in data handling or governance — people on the bottom rungs of the hierarchy — are also those least able to compel institutions to correct them.  
 FOIA and SAR legislation theoretically grants equal rights of access, but in practice resource asymmetry, departmental excuses, and NGO fatigue create a **transparency floor**: below it, anomalies go unremedied, protecting higher layers of power from scrutiny.  
 
 ---
 
-## 📍 Observed Dynamics  
+## 🛰️ Observed Dynamics  
 - **Litmus test position:** people closer to poverty or precarity experience disproportionate data scrutiny (benefits, housing, medical notes, HR records). This proximity makes them more likely to spot anomalies or misuses.  
 - **Structural disempowerment:** they lack resources to escalate refusals (time, legal budget, delegation capacity). NGOs are overwhelmed; solicitors are expensive; ICO processes are lengthy.  
 - **Departmental opacity:** agencies can stonewall with vague refusals (“under review”, “security exemption”), knowing most requesters will not escalate.  
@@ -20,7 +20,7 @@ FOIA and SAR legislation theoretically grants equal rights of access, but in pra
 
 ---
 
-## 🔎 Why This Matters  
+## 🦉 Why This Matters  
 - **Governance flaw:** If accountability relies only on well-resourced NGOs or journalists, many systemic problems never surface.  
 - **Invisible failures:** routine but correctable errors remain hidden, breeding inefficiency, mistrust, and harm.  
 - **Missed fixes:** complaints often point to “easy wins” — problems siloed departments could fix quickly if they listened rather than deflected.  
@@ -48,7 +48,7 @@ FOIA and SAR legislation theoretically grants equal rights of access, but in pra
 
 ---
 
-## 📈 Strategic Insight  
+## 🐦‍🔥 Strategic Insight  
 Instead of fearing complainants, institutions can use their pressure to improve.  
 Anger may mask structural siloes or service gaps.  
 Listening to those on the transparency floor yields:  
@@ -78,11 +78,12 @@ FOIA, SAR, transparency, structural disempowerment, data anomalies, ICO backlog,
 *Transparency Floor Node* is a living node of the Polaris Protocol.  
 It documents how FOIA/SAR frameworks structurally disempower those most likely to detect anomalies, creating a governance blind spot, and outlines counterforces to strengthen democratic accountability.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [📓 Paper Diary Sovereignty](../../Survivor_Tools/📓_paper_diary_sovereignty.md)  
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
 > - [🪄 Influencer Resilience](../../Survivor_Tools/🪄_influencer_resilience.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
