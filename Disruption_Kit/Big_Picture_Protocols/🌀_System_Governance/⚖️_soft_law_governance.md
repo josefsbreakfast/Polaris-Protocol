@@ -1,10 +1,10 @@
 # ⚖️ Soft Law Governance  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-11  
 *Guidance, codes of practice, and memoranda that act as law without oversight or consent.*
 
 ---
 
-## Concept  
+## 🏛️ Concept  
 
 Soft law refers to rules and obligations that look like law, function like law, but **are not passed through Parliament** and often **lack legal accountability**.  
 They include:  
@@ -20,7 +20,7 @@ They are often invisible to survivors until harm is already done.
 
 ---
 
-## Why It Matters  
+## 🔥 Why It Matters  
 
 - **No consultation**: often issued internally or via statutory instruments.  
 - **No remedy**: rarely appealable, even if they cause serious harm.  
@@ -49,10 +49,11 @@ soft law, guidance enforcement, MoUs, ethical frameworks, policy without legisla
 *Soft Law Governance* is a living node of the Polaris Protocol.  
 It documents how unofficial rules and unpublished guidance create systems of control without democratic oversight or legal accountability.
 
-> 📡 Cross-references:  
-> - [🌀 System Governance](./)  
+> 📡 Cross-references:
+> 
+> - [🌀 System Governance](./README.md)  
 > - [⚖️ Judicial Deference](./⚖️_judicial_deference.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
