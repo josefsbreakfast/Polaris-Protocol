@@ -1,10 +1,10 @@
 # 🌀 Ambiguity as Containment  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-11  
 *Rules written so vaguely that survivors are trapped in a bureaucratic fog — uncertainty becomes the cage.*
 
 ---
 
-## Core Concept  
+## 🧠 Core Concept  
 
 Ambiguity can be weaponised.  
 When rules, thresholds, or expectations are unclear:  
@@ -19,7 +19,7 @@ The result is **governance by implication**:
 
 ---
 
-## Where It Shows Up  
+## 🏛️ Where It Shows Up  
 
 - **Safeguarding processes**: “risk” isn’t defined; any behaviour can be framed as unsafe.  
 - **Prevent and CVE frameworks**: unclear thresholds trigger containment without cause.  
@@ -29,7 +29,7 @@ The result is **governance by implication**:
 
 ---
 
-## Strategic Function  
+## 🛰️ Strategic Function  
 
 Vagueness does two things:  
 1. **Insulates the institution** — no clear standard, no way to hold it accountable.  
@@ -40,7 +40,7 @@ It’s **precision-designed fog**.
 
 ---
 
-## Suggested Remedies  
+## 🐦‍🔥 Suggested Remedies  
 
 - **Clarity manifests**: any action taken must cite a clear, pre-published rule.  
 - **Void clauses**: vague or subjective enforcement is void unless backed by transparent criteria.  
@@ -66,12 +66,13 @@ ambiguity, bureaucratic fog, vague rules, self-censorship, policy drift, structu
 
 ## 🏮 Footer  
 
-*🌀 Ambiguity as Containment* is a living node of the Polaris Protocol.  
+*Ambiguity as Containment* is a living node of the Polaris Protocol.  
 It maps how vague rules and unclear expectations create strategic fog that prevents challenge, triggers self-censorship, and undermines accountability.
 
-> 📡 Cross-references:  
-> - [🌀 System Governance](./)
+> 📡 Cross-references:
+> 
+> - [🌀 System Governance](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-11_
