@@ -1,17 +1,17 @@
 # ⚖️ Matriarchy as Requirement  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-14  
-*Why survivor-led, female-patterned direction is not optional but essential for stability*  
+**First created:** 2025-09-05 | **Last updated:** 2025-10-11  
+*Why survivor-led, female-patterned direction is not optional but essential for stability.*  
 
 ---
 
-## Context  
+## ⚡️ Context  
 - Suppression industries fed by male-patterned panic and libido have produced escalating harm.  
 - Reverse dynamics show how idiocy and horniness can *re-feed* suppression even when exposed.  
 - Women disproportionately become proxy targets and lightning rods.  
 
 ---
 
-## Principle  
+## ⚖️ Principle  
 - **Matriarchy is a requirement.**  
 - Survivor-led, female-patterned direction provides:  
   - Pragmatic repair over panic.  
@@ -20,7 +20,7 @@
 
 ---
 
-## "But what about The Men™?"
+## 🥀 "But what about The Men™?"
 
 Patriarchy isn’t eternal — it’s a relatively **recent hack in human history**.  
 For most of our species’ time on Earth, communities were **matrilineal, matrilocal, or fluidly egalitarian**:  
@@ -38,7 +38,7 @@ Given how things are going, I'm suggesting 200 years of *sorting this shit out*,
 
 ---
 
-## Notes for Reference  
+## ✨ Notes for Reference  
 - *Do not forget this.*   
 
 ---
@@ -50,4 +50,4 @@ It records why female-patterned authorship and survivor sovereignty are necessar
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-09-14_
+_Last updated: 2025-09-11_
