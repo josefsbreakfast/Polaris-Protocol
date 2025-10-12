@@ -4,7 +4,7 @@
 
 ---
 
-## 🧿 Why This Node Exists (Executive Summary)
+## 🛰️ Why This Node Exists (Executive Summary)
 
 When UK and Israeli security ecosystems interoperate — through training exchanges, shared facilities, joint exercises, vendor pipelines, or intelligence sharing — **accountability becomes obscured**. In the “black box works until it doesn’t” pattern, responsibility can be deferred across borders and bureaucracies, letting harm compound. This node maps the overlap and sets **due-diligence dials** for policy, procurement, oversight, and public accountability.
 
