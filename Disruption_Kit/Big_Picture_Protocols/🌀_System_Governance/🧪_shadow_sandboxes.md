@@ -1,10 +1,10 @@
 # 🧪 Shadow Sandboxes  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-30  
-*Unaccountable experimental environments for governance tech trials*  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-12  
+*Unaccountable experimental environments for governance tech trials.*  
 
 ---
 
-## ✨ Core Pattern  
+## 🛰️ Core Pattern  
 
 Governance does not always deploy tools directly at scale.  
 It hides experiments in **shadow sandboxes**: environments framed as pilots, trials, or research spaces where oversight is thin and harm can be written off as “learning.”  
@@ -16,7 +16,7 @@ It hides experiments in **shadow sandboxes**: environments framed as pilots, tri
 
 ---
 
-## 🧾 Examples  
+## ✨ Examples  
 
 - **Prevent pilots** — tested first in schools and councils with limited contestation, later formalised as statutory duty.  
 - **Biometric trials** — live facial recognition in UK high streets and football matches labelled “pilots,” despite no clear consent mechanism.  
@@ -26,7 +26,7 @@ It hides experiments in **shadow sandboxes**: environments framed as pilots, tri
 
 ---
 
-## 🗣 Discussion  
+## 🦁 Discussion  
 
 Shadow sandboxes are sold as **safe-to-fail test environments**. But:  
 
@@ -100,7 +100,7 @@ The shadow sandbox is not new. It is the **continuation of a colonial experiment
 
 ---
 
-## 🔍 Analysis  
+## 🐝 Analysis  
 
 The scale of shadow sandboxes makes secrecy unsustainable.  
 
@@ -112,7 +112,7 @@ Ethics frameworks like the **Nuremberg Code** and **Caldicott Principles** are n
 
 ---
 
-## 🛠 Future Ethics & Remediation  
+## 🐦‍🔥 Future Ethics & Remediation  
 
 Shadow sandboxes exploit the absence of a **clear ethical code for human data experimentation**. Existing frameworks are partial:  
 
@@ -161,14 +161,15 @@ shadow sandboxes, governance experiments, pilot schemes, biometric trials, welfa
 
 ## 🏮 Footer  
 
-*🧪 Shadow sandboxes* is a living node of the Polaris Protocol.  
+*Shadow Sandboxes* is a living node of the Polaris Protocol.  
 It documents how unaccountable experimental environments allow states to trial governance tech with impunity, reframing harm as “pilot error.”  
 
-> 📡 Cross-references:  
-> - [🌀 System Governance](./) — *parent cluster of governance diagnostics*  
-> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping) — *logs of systemic trial frameworks*  
-> - [🛰️ Field Logs](../../Field_Logs) — *on-the-ground evidence of “pilot” containment tech*  
+> 📡 Cross-references:
+> 
+> - [🌀 System Governance](./README.md) — *parent cluster of governance diagnostics*  
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) — *logs of systemic trial frameworks*  
+> - [🛰️ Field Logs](../../Field_Logs/README.md) — *on-the-ground evidence of “pilot” containment tech*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-12_  
