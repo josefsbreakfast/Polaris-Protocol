@@ -1,6 +1,6 @@
 # 🧪 Failure Recycling  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-*Discredited models rebranded and reintroduced — failure dressed as innovation*  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-12  
+*Discredited models rebranded and reintroduced — failure dressed as innovation.*  
 
 ---
 
@@ -168,13 +168,14 @@ It reframes “innovation” as **debris in drag**.
 
 ## 🏮 Footer  
 
-*🧪 Failure recycling* is a living node of the Polaris Protocol.  
+*Failure Recycling* is a living node of the Polaris Protocol.  
 It documents the loop through which failed models are continually repackaged as innovation, including their eugenics rootstock, mythic afterlives, and anti-Enlightenment survival logics.  
 
-> 📡 Cross-references:  
-> - [🌀 System Governance](./) — parent cluster of governance diagnostics  
-> - [👀 Failure Cycle vs Reported Improvements](👀_failure_cycle_vs_reported_improvements.md) — companion diagnostic map  
+> 📡 Cross-references:
+> 
+> - [🌀 System Governance](./README.md) — *parent cluster of governance diagnostics*  
+> - [👀 Failure Cycle vs Reported Improvements](../🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md) — *companion diagnostic map*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-12_  
