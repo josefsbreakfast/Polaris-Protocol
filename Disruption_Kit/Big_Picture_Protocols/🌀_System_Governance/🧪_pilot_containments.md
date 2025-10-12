@@ -1,10 +1,10 @@
 # 🧪 Pilot Containments  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-12  
 *Testing suppression tactics on small vulnerable groups before scaling to populations.*  
 
 ---
 
-## 🌌 Overview  
+## 🛰️ Overview  
 
 Containment tactics rarely appear fully formed.  
 They are **piloted on smaller groups** — those least able to resist — before being normalised and extended to whole populations.  
@@ -16,7 +16,7 @@ Pilot groups may be chosen for:
 
 ---
 
-## 🧩 Key Features of Pilot Containments  
+## ✨ Key Features of Pilot Containments  
 
 - **Controlled environment** → institutions with captive populations allow tighter observation of effects.  
 - **Narrative framing** → justified as “experiments,” “trials,” “policy pilots,” or “safeguarding initiatives.”  
@@ -25,7 +25,7 @@ Pilot groups may be chosen for:
 
 ---
 
-## 🌀 Examples  
+## 🌌 Examples  
 
 - **Mobile surveillance in conflict zones** — phone monitoring and spyware first normalised in occupied territories, then exported as security tech elsewhere.  
 - **Election tampering in African states** — SMS blackouts, voter roll manipulation, and targeted disinfo trialled where oversight was weakest, later adapted in Western elections.  
@@ -35,7 +35,7 @@ Pilot groups may be chosen for:
 
 ---
 
-## 🪫 Structural Notes  
+## 🩸 Structural Notes  
 
 - **Pilot containments are not accidents** → they are deliberate **staging grounds**.  
 - **“Proof of concept” framing hides harm** → suffering in early groups is written off as necessary “learning.”  
@@ -58,7 +58,7 @@ ignoring suppression when it targets others only guarantees its eventual arrival
 
 ---
 
-## 🗂️ Flow of Pilot Containments  
+## 🌋 Flow of Pilot Containments  
 
 ```mermaid
 flowchart TD
@@ -79,7 +79,7 @@ flowchart TD
 
 ---
 
-## 🎛️ Pocket Rules — Spotting Pilot Containments  
+## 💫 Pocket Rules — Spotting Pilot Containments  
 
 - **Ask who the “test group” is** → small, captive, vulnerable?  
 - **Check scaling language** → “best practice,” “national rollout,” “evidence-based.”  
@@ -108,11 +108,12 @@ pilot programmes, containment testing, vulnerable groups, colonial laboratories,
 *Pilot Containments* is a living node of the Polaris Protocol.  
 It documents how small, vulnerable groups are used as testing grounds for systemic suppression tactics, how those tactics are transferred across borders, and how they later scale into mainstream governance.  
 
-> 📡 Cross-references:  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges) — *nudge architecture as state containment*  
-> - [🕯️ Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows) — *how safeguarding logics provide pilot cover*  
+> 📡 Cross-references:
+> 
+> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — *nudge architecture as state containment*  
+> - [🕯️ Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows/README.md) — *how safeguarding logics provide pilot cover*  
 > - [🌀 Confused Feed as Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md) — *engineered confusion as suppression*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-12_  
