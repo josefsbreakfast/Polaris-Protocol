@@ -1,10 +1,10 @@
 # 🪖 SAS & Special Forces — Accountability and Complaints  
-**First created:** 2025-10-07  |  **Last updated:** 2025-10-07  
+**First created:** 2025-10-07  |  **Last updated:** 2025-10-12  
 *A Polaris node explaining who the UK’s special forces are, how they differ from police or private security, the legal framework for domestic deployment (MACA), and how civilians can seek accountability or file complaints.*
 
 ---
 
-## 🎯 Overview
+## 🛰️ Overview
 Special forces operate under the Ministry of Defence (MOD) with high secrecy.  
 Most people will never knowingly encounter them, yet because they can act inside the UK under certain legal frameworks, transparency and public literacy are vital.  
 This node sets out what they do, when they can lawfully be used at home, and what steps any person or rights group can take if they believe misconduct has occurred.
@@ -30,7 +30,7 @@ Exact structures and missions are classified, but constitutional authority flows
 
 ---
 
-## 🧩 How MACA ( Military Aid to the Civil Authorities ) Works
+## 🌋 How MACA ( Military Aid to the Civil Authorities ) Works
 
 ### 1️⃣ Purpose  
 To let civil authorities request temporary military help when civilian capability is insufficient.  It is not a standing authorisation for the armed forces to act on UK soil.
@@ -112,8 +112,11 @@ special forces; SAS; MACA; accountability; civil–military relations; oversight
 
 ---
 
-## 🏮 Footer
+## 🏮 Footer  
+
 *This node belongs to the Polaris Protocol governance cluster.*  
 It summarises lawful domestic use of the armed forces and practical avenues for public accountability.  
+
 *Survivor authorship is sovereign — containment is never neutral.*  
+
 _Last updated 2025-10-07_
