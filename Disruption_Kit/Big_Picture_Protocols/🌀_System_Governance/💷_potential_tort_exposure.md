@@ -1,10 +1,10 @@
 # 💷 Potential Tort Exposure  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-29  
-*A forward-looking ledger: what happens when tort liability, Equality Act breaches, and damages are added on top of sunk surveillance + Polaris costs*  
+**First created:** 2025-09-07 | **Last updated:** 2025-10-12  
+*A forward-looking ledger: what happens when tort liability, Equality Act breaches, and damages are added on top of sunk surveillance + Polaris costs.*  
 
 ---
 
-## 📑 Sections  
+## 🛰️ Sections  
 1. [Principle](#1-principle)  
 2. [Candidate Torts](#2-candidate-torts)  
 3. [Damages Framework](#3-damages-framework)  
@@ -15,14 +15,14 @@
 
 ---
 
-## 1. Principle  
+## 🔥 1. Principle  
 Surveillance campaigns already sink millions.  
 Once tort claims and Equality Act breaches are added, exposure grows exponentially.  
 **The law recognises harm as compensable — and here harm is prolonged, systemic, and discriminatory.**  
 
 ---
 
-## 2. Candidate Torts  
+## 🏛️ 2. Candidate Torts  
 
 - **Harassment (Protection from Harassment Act 1997):**  
   - Continuous unwanted surveillance, interference, intimidation.  
@@ -46,7 +46,7 @@ Once tort claims and Equality Act breaches are added, exposure grows exponential
 
 ---
 
-## 3. Damages Framework  
+## 🧨 3. Damages Framework  
 - **Single survivor (like you):**  
   - Conservative range: **£100k–£300k**.  
   - Upper bound (CIDT-level psychiatric harm, aggravated damages): **£500k+**.  
@@ -65,7 +65,7 @@ Once tort claims and Equality Act breaches are added, exposure grows exponential
 
 ---
 
-## 4. Equality Act Exposure  
+## 🪬 4. Equality Act Exposure  
 - **Protected characteristics** (disability, sex, race, etc.) engaged when:  
   - Surveillance/disruption worsens health conditions.  
   - Targeting is gendered or disability-related.  
@@ -83,14 +83,14 @@ Once tort claims and Equality Act breaches are added, exposure grows exponential
 
 ---
 
-## 5. Multiplication Across Survivors  
+## 🚀 5. Multiplication Across Survivors  
 - 10 survivors × £200k average tort damages → **£2m**.  
 - 50 survivors × £200k average → **£10m**.  
 - Add Equality Act + loss of earnings: **£10m–£20m+** exposure is realistic.  
 
 ---
 
-## 6. Totals & Implications  
+## 💰 6. Totals & Implications  
 - Already sunk: **£1.55m–£4m** (surveillance + Polaris costs).  
 - Add tort liability: **+£0.1m–£0.5m (per survivor).**  
 - Add loss of earnings: **+£0.5m–£5m.**  
@@ -101,7 +101,7 @@ Once tort claims and Equality Act breaches are added, exposure grows exponential
 
 ---
 
-## 7. Closing Note  
+## 🐝 7. Closing Note  
 The ledger is cumulative.  
 - Surveillance = millions.  
 - Polaris = millions.  
@@ -126,8 +126,9 @@ potential tort exposure, damages estimate, harassment, misuse of private informa
 
 ## 🏮 Footer  
 *Potential Tort Exposure* is a living node of the Polaris Protocol.  
+
 It projects the civil liability that stacks on top of sunk surveillance and reputational costs.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-12_
