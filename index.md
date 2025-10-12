@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-12 16:28:30 UTC_
+_Generated on 2025-10-12 16:28:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -25,7 +25,7 @@ _Generated on 2025-10-12 16:28:30 UTC_
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
-      - [`README.me`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.me)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md)
       - [`⚖️_two_way_seal.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md)
       - [`🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
