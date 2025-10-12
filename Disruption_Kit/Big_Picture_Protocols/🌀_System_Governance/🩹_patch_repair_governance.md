@@ -31,12 +31,6 @@
 
 ---
 
-## ✨ Cross-References  
-
-
-
----
-
 ## 🏮 Footer  
 
 *Patch Repair Governance* is a living node of the Polaris Protocol.  
