@@ -1,3 +1,4 @@
+
 # 🎥 Anomaly Incentives in Surveillance  
 **First created:** 2025-09-29 | **Last updated:** 2025-09-30  
 *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*  
