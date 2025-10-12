@@ -1,16 +1,16 @@
 # 🫀 Genocide by Containment  
-**First created:** 2025-09-03  |  **Last updated:** 2025-10-07  
-*How bureaucratic disposal mechanisms escalate into genocidal practice*
+**First created:** 2025-09-03  |  **Last updated:** 2025-10-12  
+*How bureaucratic disposal mechanisms escalate into genocidal practice.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node traces how administrative containment logics — housing allocations, security classifications, welfare triage — mutate into genocidal practice.  
 The harm is rarely declared. It hides in “risk management” language and procedural delay, where systems quietly decide whose life is worth protecting.
 
 ---
 
-## ♟ Key Dynamics  
+## ✨ Key Dynamics  
 
 - **Disposability** — asylum seekers and detainees placed in unsafe housing; their deaths absorbed as “operational risk.”  
 - **Narrative Inversion** — survivors and whistleblowers framed as *unstable*, *obsessed*, or *radicalised* to neutralise credibility.  
@@ -77,12 +77,13 @@ containment, bureaucratic violence, disposability, asylum policy, racial hierarc
 *Genocide by Containment* is a living node of the Polaris Protocol.  
 It documents how ordinary bureaucratic systems — housing, surveillance, counter-terror — scale into genocidal practice under the banner of procedure.  
 
-> 📡 Cross-references:  
-> - [🌀 System Governance](../🌀_System_Governance/README.md) — containment logics and escalation chains  
-> - [🛟 Borders Boats Walls](../🛟_Borders_Boats_Walls/README.md) — asylum and maritime control systems  
-> - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — oversight of oversight mechanisms  
-> - [🐦‍🔥 Trauma Psychology Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — survivor health impacts of bureaucratic harm  
+> 📡 Cross-references:
+> 
+> - [🌀 System Governance](../🌀_System_Governance/README.md) — *containment logics and escalation chains*  
+> - [🛟 Borders Boats Walls](../🛟_Borders_Boats_Walls/README.md) — *asylum and maritime control systems*  
+> - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
+> - [🐦‍🔥 Trauma Psychology Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *survivor health impacts of bureaucratic harm*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-12_
