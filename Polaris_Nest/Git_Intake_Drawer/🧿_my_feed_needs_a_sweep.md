@@ -10,4 +10,12 @@ also if people looking at soending money in the uk truggers you that much ill ju
 
 the window shopping is *patriotism*, actually.  
 
+---
+
+alternatively, if this is you underfoing status insecurity which has *somehow, who knows how(!)* been mathematically romanticised?  
+
+please can you do that, like, sonewhere else? thanks x.   
+
+---
+
 2025-10-12
