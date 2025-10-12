@@ -194,23 +194,27 @@ Mitigations And Interventions:
 
 ---
 
-## 🌌 Constellations
+## 🌌 Constellations  
 
-* System Governance → [⚖️ international_laundering](./⚖️_international_laundering.md)
-* System Governance → [🛰️ microsoft_partial_cut_israel_surveillance](./🛰️_microsoft_partial_cut_israel_surveillance.md)
-* World Webs → [🧃 cogat_is_a_containment_op](../🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
-* Money Listens → [🚀 arms_transparency](./💸_Money_Listens/🚀_arms_transparency.md)
-* Politics Memory Work → [🧿 uk_persuasion_engine_on_palestine](./🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md)
+🪖 ⚖️ 🛰️ 🧃 🚀 🧿 — This node sits within the **System Governance** and **World Webs** constellations.  
+It examines cross-border defence entanglements, export control ethics, and narrative accountability in British–Israeli security cooperation.  
 
 ---
 
-## ✨ Stardust (keywords)
+## 🏮 Footer  
 
-UK–Israel security, MoU hygiene, OSJA, export controls, knowledge transfer, occupation, ICJ 2024, public mandate signals, legitimacy laundering, accountability matrix, vendor due diligence, spyware, training oversight, recall triggers, survivor‑centred audit.
+*Overlap Accountability and Why We Cannot Recruit* is a living accountability scaffold within the Polaris Protocol.  
+It maps how British–Israeli security cooperation obscures accountability and provides due-diligence rules for lawful, transparent governance.  
 
----
+> 📡 Cross-references:
+> 
+> - [⚖️ International Laundering](./⚖️_international_laundering.md) — *systemic laundering of legality through multi-state authorisation frameworks*  
+> - [🛰️ Microsoft Partial Cut — Israel Surveillance](./🛰️_microsoft_partial_cut_israel_surveillance.md) — *partial corporate disengagement and oversight gaps*  
+> - [🧃 COGAT is a Containment Operation](../🕸️_World_Webs/🧃_cogat_is_a_containment_op.md) — *civilian administration as population-control infrastructure*  
+> - [🚀 Arms Transparency](../💸_Money_Listens/🚀_arms_transparency.md) — *procurement and export transparency failures*  
+> - [🧿 UK Persuasion Engine on Palestine](../🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md) — *narrative shaping within UK political and media ecosystems*  
 
-## 🏾 Footer
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-This node is a living accountability scaffold. It assumes **survivor authorship is sovereign** and that “containment is never neutral.”
-Additions welcome — but **no neutralisation edits** without logging both rationale and impact on survivors.
+_Last updated: 2025-10-12_
+
