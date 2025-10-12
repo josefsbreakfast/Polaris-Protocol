@@ -45,7 +45,7 @@ It contributes to the archive by banter alone.
 > 📡 Cross-References:
 > 
 > - *TBC*
-> - - *Multiple allies confirmed*
+> - *Multiple allies confirmed*
 
 *What. Ho.*  
 
