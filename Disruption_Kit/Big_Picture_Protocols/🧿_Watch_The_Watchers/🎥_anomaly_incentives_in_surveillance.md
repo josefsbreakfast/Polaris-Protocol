@@ -1,11 +1,10 @@
-
 # 🎥 Anomaly Incentives in Surveillance  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-30  
-*Why surveillance architectures create incentives to keep outliers under permanent scrutiny*  
+**First created:** 2025-09-29 | **Last updated:** 2025-10-12  
+*Why surveillance architectures create incentives to keep outliers under permanent scrutiny.*  
 
 ---
 
-## 📑 Summary  
+## 🛰️ Summary  
 The UK surveillance regime — anchored in the Investigatory Powers Act — does not simply observe risk.  
 It creates **incentives to retain anomalies**, because “outliers” provide data value.  
 This makes those who do not fit into standard demographic boxes disproportionately subject to surveillance and harvesting.  
@@ -13,7 +12,7 @@ In practice, this anomaly economy creates systemic indirect discrimination — p
 
 ---
 
-## 🧩 Incentive Structure  
+## ✨ Incentive Structure  
 - **Broad authorisations:** Thematic warrants allow collection on whole classes of people.  
 - **Profiling logic:** Majority norms define “normal.” Anyone outside scores as an anomaly.  
 - **Data value:** Outliers generate “interesting” data for predictive modelling, commercial resale, and behavioural targeting.  
@@ -21,7 +20,7 @@ In practice, this anomaly economy creates systemic indirect discrimination — p
 
 ---
 
-## 🎯 The “Focus Group of One”  
+## 🧿 The “Focus Group of One”  
 - Surveillance systems treat outliers as **living test subjects**.  
 - Anomalous individuals are studied more intensely because they reveal edges of models.  
 - The result is containment by datafying difference — harvesting the very people least able to contest it.  
@@ -82,7 +81,7 @@ Together these produce **“slow violence”** — a structural genocide pathway
 
 ---
 
-## 📈 Flow Diagram  
+## 💰 Flow Diagram  
 
 ```mermaid
 flowchart LR
@@ -113,11 +112,12 @@ investigatory powers act, surveillance industry, anomaly incentives, profiling, 
 *Anomaly Incentives in Surveillance* is a living node of the Polaris Protocol.  
 It documents how legislative and commercial architectures incentivise permanent surveillance of those who fall outside standard demographic categories — trending from anomaly capture, to discrimination, to genocidal conditioning.  
 
-> 📡 Cross-references:  
-> - [System_Governance](../System_Governance/) — on oversight and authorisation chains  
-> - [📦 Containment by Classification](../Politics_Memory_Work/📦_containment_by_classification.md) — on misidentification and box logic as suppression  
-> - [👾 Weirdness Screening](../👾_Weirdness_Screening/) — on systemic anomalies and their forensic traces  
+> 📡 Cross-references:
+> 
+> - [🌀 System_Governance](../🌀_System_Governance/README.md) — *on oversight and authorisation chains*  
+> - [📦 Containment by Classification](../🗝️_Politics_Memory_Work/📦_containment_by_classification.md) — *on misidentification and box logic as suppression*  
+> - [🩻 Weirdness Screening](../../../🩻_Weirdness_Screening/README.md) — *on systemic anomalies and their forensic traces*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-12_  
