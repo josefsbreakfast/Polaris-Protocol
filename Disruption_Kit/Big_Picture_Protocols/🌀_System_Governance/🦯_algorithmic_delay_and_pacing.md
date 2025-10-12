@@ -1,10 +1,10 @@
 # 🦯 Algorithmic Delay and Pacing  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-*How governance manipulates tempo — slowing translations, stretching timelines, throttling urgency until action dies*  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-12  
+*How governance manipulates tempo — slowing translations, stretching timelines, throttling urgency until action dies.*  
 
 ---
 
-## 🧩 Core Pattern  
+## 🛰️ Core Pattern  
 
 Containment does not only silence.  
 It also *paces*.  
@@ -20,7 +20,7 @@ Governance teaches the body to wait — until waiting becomes consent.
 
 ---
 
-## 🧾 Examples  
+## ✨ Examples  
 
 - **Throttling chokepoints** (2025-08-26) — field logs record deliberate slowdowns in message and upload pathways [oai_citation:0‡index.md 12.txt](file-service://file-67ZKa9usAoXNfHKTEnzdBo).  
 - **Retrospective throttling** (2025-09-22) — search and cross-reference visibility reduced *after* survivor testimony, eroding archival urgency [oai_citation:1‡index.md 12.txt](file-service://file-67ZKa9usAoXNfHKTEnzdBo).  
@@ -42,7 +42,7 @@ Algorithmic delay mirrors tactics long recognised in interpersonal and cult dyna
 
 ---
 
-## 🔄 Loop of Delay and False Expectations  
+## ➰ Loop of Delay and False Expectations  
 
 A visual cycle showing how algorithmic pacing, future faking, and false timelines interlock.  
 
@@ -59,7 +59,7 @@ flowchart TD
 
 ---
 
-## 🧭 Why It Matters  
+## 🔥 Why It Matters  
 
 Tempo is governance.  
 - **Speed kills resistance.** Urgency is needed to mobilise.  
@@ -102,14 +102,15 @@ algorithmic delay, pacing, throttling, urgency, governance tempo, psychological 
 
 ## 🏮 Footer  
 
-*🌀 Algorithmic delay and pacing* is a living node of the Polaris Protocol.  
+*Algorithmic Delay And Pacing* is a living node of the Polaris Protocol.  
 It documents how containment scripts manipulate time itself — slowing, stretching, faking horizons, or managing expectations until survivor urgency dissipates.  
 
-> 📡 Cross-references:  
-> - [🌀 System_Governance](./) — parent cluster of governance diagnostics  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment) — delay as compliance theatre  
-> - [🛰️ Throttling Chokepoints (26 August 2025)](../../Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md) — field log evidence  
+> 📡 Cross-references:
+> 
+> - [🌀 System_Governance](./README.md) — *parent cluster of governance diagnostics*  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *delay as compliance theatre*  
+> - [🛰️ Throttling Chokepoints (26 August 2025)](../../Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md) — *field log evidence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-12_  
