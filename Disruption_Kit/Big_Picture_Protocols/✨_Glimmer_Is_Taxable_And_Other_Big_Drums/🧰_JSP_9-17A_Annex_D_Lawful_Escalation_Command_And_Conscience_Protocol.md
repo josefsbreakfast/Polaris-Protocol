@@ -14,8 +14,10 @@
 
 ---
 
-> **Translation for NCOs:** The bit you actually need to read when things get weird.  
-> **Translation for Commissioned Officers:** The extra bars were given on the assumption you slept with a thesaurus. Kindly use it.  
+> **Translation for NCOs:** The bit you actually need to read when things get weird.
+It will be your job to get the Commissions to do their job.  
+> **Translation for Commissioned Officers:** The extra bars were given on the assumption you slept with both a thesaurus and a dictionary; godspeed.  
+It will be your job to get the NCOs through the paperwork. Or probably just do the paperwork, so its done the way that scratches whatever the itch is.  
 
 ---
 
@@ -23,7 +25,7 @@
 
 ---
 
-## 0️⃣ Golden Rules — Read First  
+## 🌟 Golden Rules — Read First  
 
 These principles allow personnel and contractors to raise accountability concerns **lawfully**, without breaching the Official Secrets Act 1989 or internal security policy.  
 Each rule below is supported by existing legislation, doctrine, or civil-service standards (see full appendix for citations).
