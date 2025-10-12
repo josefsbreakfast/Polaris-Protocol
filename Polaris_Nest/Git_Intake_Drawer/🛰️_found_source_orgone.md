@@ -20,4 +20,16 @@ It was genuinely quite interesting to listen to as a proposed way in which very 
 
 I think there's some very particular ways in which different people have sought to make sense of the pandemic, the rapid political changes, and the impacts on isolation from community; when I'm discussing these experiences, I fully believe that the people who have these thought processes are genuinely very distressed by them. It sounds incredibly scary to live with as a fear and a thought process.  
 
+---
+
+My differentiating point is that this is not my belief, and I don't go looking for information like this, and it's upsetting that there are times where I will really feel inundated with this content; none of it makes sense as provoked by my actions on the algorithm as a mathematical system. It only really "makes sense" if you consider me a whistleblower and you consider someone else might be manipulating a bunch of people's algorithms, including mine, with weird 4chan-esque techniques.  
+
+a lot of the reason i've sent forms and requests and asked for help is initially because i wanted someone to help exclude this as a possibility (within reasonability; i know you can't completely).  
+
+i'm hoping that at some point i actually just get an answer to my very first question: "it's weird my csa rape case is getting google bombed with my legal name. can i check the record is okay?".  
+
+you never know.  
+
+otherwise i need a month in a place where i can have all the vitamin d, ideally with access to a spa, and generally not need to use more than 5 neurones at any one time.  
+
 2025-10-12  
