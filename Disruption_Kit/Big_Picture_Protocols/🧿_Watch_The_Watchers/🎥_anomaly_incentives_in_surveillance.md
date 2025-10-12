@@ -114,7 +114,7 @@ It documents how legislative and commercial architectures incentivise permanent 
 
 > 📡 Cross-references:
 > 
-> - [🌀 System_Governance](../🌀_System_Governance/README.md) — *on oversight and authorisation chains*  
+> - [🌀 System & Governance](../🌀_System_Governance/README.md) — *on oversight and authorisation chains*  
 > - [📦 Containment by Classification](../🗝️_Politics_Memory_Work/📦_containment_by_classification.md) — *on misidentification and box logic as suppression*  
 > - [🩻 Weirdness Screening](../../../🩻_Weirdness_Screening/README.md) — *on systemic anomalies and their forensic traces*  
 
