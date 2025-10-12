@@ -1,17 +1,17 @@
 # 👁️ Panopticon as Industry  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-12  
 *How surveillance architecture moved from Bentham’s prison to modern containment economies.*  
 
 ---
 
-## 🌐 Core Idea  
+## 🛰️ Core Idea  
 The **Panopticon** was Jeremy Bentham’s design for a prison: a single watchtower where the possibility of constant observation would discipline prisoners. Even if the guard was absent, the uncertainty enforced order.  
 
 This logic spread far beyond prisons — into barracks, schools, factories, workhouses — and continues today in detention hotels, asylum monitoring, and digital tracking. Surveillance itself has become a profit industry.  
 
 ---
 
-## 🏗️ Origins  
+## ✨ Origins  
 - **Bentham’s design (1780s):** circular prison, central tower, total visibility.  
 - **Foucault’s analysis:** *Discipline and Punish* → Panopticon as metaphor for modern control.  
 - **19thC roll-out:** adapted into prisons, barracks, asylums, factories, schools.  
@@ -26,14 +26,14 @@ This logic spread far beyond prisons — into barracks, schools, factories, work
 
 ---
 
-## 🏴 From Surveillance to Revenue  
+## 💸 From Surveillance to Revenue  
 - **Containment hotels:** permanent CCTV, keycards, private security.  
 - **Immigration bail apps:** data collection as outsourced compliance.  
 - **Profit loop:** surveillance contracts awarded to private firms, generating demand for more monitoring.  
 
 ---
 
-## 🌋 Why This Matters  
+## 💰 Why This Matters  
 The Panopticon was never just an idea — it was a business plan. Surveillance makes discipline cheap, scalable, and profitable. The tower still stands, only now it wears contractor logos.  
 
 ---
@@ -54,10 +54,11 @@ panopticon, surveillance architecture, discipline and punish, asylum hotels, cct
 *Panopticon as Industry* is a living node of the Polaris Protocol.  
 It tracks how surveillance design became a template for governance, exported into asylum hotels, apps, and modern contractor economies.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [📦 Containment as Industry](../🛟_Borders_Boats_Walls/📦_containment_as_industry.md)  
 > - [✝️ Protestant Work Ethic as Containment](../🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-12_
