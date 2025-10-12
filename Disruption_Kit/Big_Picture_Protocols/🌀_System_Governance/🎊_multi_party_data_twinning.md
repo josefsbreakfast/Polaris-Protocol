@@ -1,10 +1,10 @@
 # 🎊 Multi-Party Data Twinning  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-29  
-*How overlapping state and corporate interests fuse datasets through intermediaries*  
+**First created:** 2025-09-17 | **Last updated:** 2025-10-12  
+*How overlapping state and corporate interests fuse datasets through intermediaries.*  
 
 ---
 
-## Concept  
+## 🛰️ Concept  
 
 Data-twinning does not always stem from a single sponsoring actor.  
 It can emerge when **two or more parties with distinct interests** rely on an intermediary — often a private vendor — to fuse disparate datasets into a composite profile.  
@@ -13,7 +13,7 @@ The **fusion layer** becomes the site of first integration. From there, each pri
 
 ---
 
-## Mechanics  
+## ✨ Mechanics  
 
 1. **Separate interest vectors**  
    - Party A and Party B seek different datasets (e.g. travel vs. HR records).  
@@ -32,7 +32,7 @@ The **fusion layer** becomes the site of first integration. From there, each pri
 
 ---
 
-## Why Multiple Principals Use It  
+## 🪄 Why Multiple Principals Use It  
 
 - **Deniability & cost-sharing**  
 - **Complementary capacities** (no single actor has the full dataset)  
@@ -41,7 +41,7 @@ The **fusion layer** becomes the site of first integration. From there, each pri
 
 ---
 
-## Who Plays the “Butler”  
+## 🎩 Who Plays the “Butler”  
 
 - Data brokers / analytics firms  
 - Cyber or OSINT vendors  
@@ -51,7 +51,7 @@ The **fusion layer** becomes the site of first integration. From there, each pri
 
 ---
 
-## OSINT Red Flags  
+## ⛳️ OSINT Red Flags  
 
 - Same vendor linked to multiple distinct governments  
 - Identical identifiers (voiceprints, composite IDs) across leaks  
@@ -62,7 +62,7 @@ The **fusion layer** becomes the site of first integration. From there, each pri
 
 ---
 
-## Failure Modes  
+## 👾 Failure Modes  
 
 - Vendor bragging or leaks  
 - Litigation trails exposing client overlap  
@@ -71,7 +71,7 @@ The **fusion layer** becomes the site of first integration. From there, each pri
 
 ---
 
-## Mitigation & Policy  
+## 🚀 Mitigation & Policy  
 
 - **Procurement transparency**: require disclosure of subcontractors and data provenance  
 - **Cooling-off rules**: restrict ex-officials entering vendor firms  
@@ -81,7 +81,7 @@ The **fusion layer** becomes the site of first integration. From there, each pri
 
 ---
 
-## Attribution Guardrails  
+## ☕️ Attribution Guardrails  
 
 - Avoid premature claims of “A via B” from single indicators.  
 - Focus investigation on the vendor node: contracts, payments, code.  
@@ -109,11 +109,12 @@ multi-party twinning, vendor-fused metadata, surveillance brokerage, cross-borde
 *Multi-Party Data Twinning* is a living node of the Polaris Protocol.  
 It documents how overlapping interests in surveillance and governance exploit intermediaries to produce composite datasets, obscuring attribution while monetising fusion.  
 
-> 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](../Disruption_Kit/Big_Picture_Protocols/⚖️_containment_contract_trace.md)  
-> - [🏛️ OSA Misclassification UK–Israel Survivor Records](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)  
-> - [Survivor Tools](../Survivor_Tools/)
+> 📡 Cross-references:
+> 
+> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md)  
+> - [🏛️ OSA Misclassification UK–Israel Survivor Records](./🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)  
+> - [Survivor Tools](../Survivor_Tools/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-12_
