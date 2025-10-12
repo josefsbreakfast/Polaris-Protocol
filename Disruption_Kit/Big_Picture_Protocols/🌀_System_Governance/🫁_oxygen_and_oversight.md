@@ -1,5 +1,5 @@
 # 🫁 Oxygen and Oversight — A Clinical Analogy for Governance Titration  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-12  
 *A comparative note linking respiratory physiology to institutional balance: why flooding a chronically adapted system with “more of the good thing” can collapse its homeostasis.*  
 
 ---
@@ -18,7 +18,7 @@ Follow your local guideance and the standards of your professional body -- we're
 
 ---
 
-## 🧭 Summary  
+## 🛰️ Summary  
 Clinical medicine teaches that interventions which help most people can harm others whose physiology has adapted to long-term stress.  
 In chronic obstructive pulmonary disease (COPD), over-oxygenation causes carbon-dioxide retention.  
 In governance, over-control — sudden surges of oversight, triage, or containment — can create the same problem in procedural form.  
@@ -72,7 +72,7 @@ Design for titration from the start — measure, adjust, document, and never ass
 ---
 
 ## 🏮 Footer  
-*🫁 Oxygen and Oversight — A Clinical Analogy for Governance Titration* is a reflective Polaris node drawing on respiratory medicine to model proportional governance responses.  
+*Oxygen and Oversight — A Clinical Analogy for Governance Titration* is a reflective Polaris node drawing on respiratory medicine to model proportional governance responses.  
 It advocates context-aware intervention and early-stage calibration to avoid institutional hypercapnia.
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-12_
