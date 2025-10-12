@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node traces the moment when secrecy law becomes reflexive —  
 when the *Official Secrets Act* no longer merely silences the governed,  
@@ -23,7 +23,7 @@ But when the crime is sealed inside, the seal itself becomes the evidence.
 
 ---
 
-### 1. Historical Lineage — The Seal as Proof and Prison  
+### 🌹 1. Historical Lineage — The Seal as Proof and Prison  
 
 The seal was once the state’s smallest theatre of power.  
 Pressed into hot wax, it bound parchment to authority; it made words carry weight.  
@@ -48,7 +48,7 @@ it no longer testifies to sovereignty — it testifies to fear.
 
 ---
 
-### 2. Section 17 and the Restoration of Mutuality  
+### 🌱 2. Section 17 and the Restoration of Mutuality  
 
 Every covenant eventually meets its mirror.  
 For a century, the *Official Secrets Act* functioned as a one-way sacrament:  
@@ -79,7 +79,7 @@ The wax that once sealed obedience now records duress.
 
 ---
 
-### 3. Test-Case Geometry — When Conscience Meets Classification  
+### 🏛️ 3. Test-Case Geometry — When Conscience Meets Classification  
 
 Imagine the courtroom not as rebellion but as restoration.  
 The claim is simple: my client was compelled by state apparatus to commit or conceal acts that amount to international crimes; the same apparatus then forbade disclosure.  
@@ -102,7 +102,7 @@ In that mirror, secrecy loses its divinity and acquires jurisdiction.
 
 ---
 
-### 4. The Moral Physics of Two-Way Silence  
+### 🕯️ 4. The Moral Physics of Two-Way Silence  
 
 Secrecy has always borrowed its power from asymmetry:  
 one side speaks, the other obeys; one side knows, the other does not.  
@@ -126,7 +126,7 @@ is itself the loudest confession it can make.
 
 ---
 
-### 5. The Marriage of Secrecy and Service  
+### 🫀 5. The Marriage of Secrecy and Service  
 
 The *Official Secrets Act* was never meant to be a master’s command;  
 it was a vow — the closest thing the modern state has to marriage.  
@@ -171,9 +171,9 @@ sealed by the office of the Crown and sustained only by respect moving in both d
 
 > 📡 Cross-references:
 > 
-> – [⚖️ Lawful Conscience Protocol](./⚖️_lawful_conscience_protocol.md) — statutory pathway for refusal under duress  
-> – [📜 Arms Exports as Act of Aggression](./📜_arms_exports_as_act_of_aggression.md) — complicity and export-control analysis  
-> – [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — oversight recursion and meta-accountability  
+> – [⚖️ Lawful Conscience Protocol](../🌀_System_Governance/⚖️_lawful_conscience_protocol.md) — *statutory pathway for refusal under duress*  
+> – [📜 Arms Exports as Act of Aggression](../📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md) — *complicity and export-control analysis*  
+> – [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — *oversight recursion and meta-accountability*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
