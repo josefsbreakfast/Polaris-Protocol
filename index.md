@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-12 14:34:17 UTC_
+_Generated on 2025-10-12 14:35:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -76,6 +76,7 @@ _Generated on 2025-10-12 14:34:17 UTC_
       - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_international_laundering.md)
       - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_ipco_audit_cycle.md)
       - [`⚖️_judicial_deference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_judicial_deference.md)
+      - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_lawful_conscience_protocol.md)
       - [`⚖️_legal_frameworks_remits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_legal_frameworks_remits.md)
       - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_matriarchy_as_requirement.md)
       - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
