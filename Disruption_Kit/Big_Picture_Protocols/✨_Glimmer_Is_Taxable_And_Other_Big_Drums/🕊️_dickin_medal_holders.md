@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation
+## 🛰️ Orientation
 The **PDSA Dickin Medal**, instituted in 1943 by **Maria Dickin** (founder of the People’s Dispensary for Sick Animals), honours animals displaying *exceptional courage or devotion to duty* in wartime.  
 Known as *“the animals’ Victoria Cross,”* it forms a symbolic bridge between human military ethics and inter-species solidarity.
 
@@ -48,7 +48,7 @@ Initially awarded for WWII service, later expanded to Korea, Falklands, Iraq, Af
 
 ---
 
-## ⚙️ Sidebar: “Gustav as Algorithmic Courier”
+## ✨ Sidebar: “Gustav as Algorithmic Courier”
 > *“The pigeon is the first encrypted packet.”*
 
 Gustav’s D-Day flight functioned as a biological data transmission: message encoded, carrier released, return path optimised by instinct and training.  
@@ -58,7 +58,7 @@ The moral question remains identical: **who carries the risk of the message?**
 
 ---
 
-## 🪞 Memorial Gap
+## 🐦‍🔥 Memorial Gap
 Despite 70 + awards, there is only one composite statue (*Animals in War Memorial*, Hyde Park, 2004) — a generic mule and horse, names omitted.  
 A collective erasure disguised as tribute.  
 Future work: build a **granular archive + statue index** to restore individual honour and species specificity.
@@ -116,13 +116,13 @@ flowchart LR
     end
 
     subgraph B[Sentinel Threshold]
-        LARRY["🐈 Larry the Sentinel\nContent-neutral vigilance\n'If it scurries, I’m on it'"]
+        LARRY["🐈 Larry the Sentinel<br>Content-neutral vigilance<br>'If it scurries, I’m on it'"]
     end
 
     subgraph C[Outside: Variable Environment]
         N1[Media Flux]
         N2[Public Noise]
-        N3[Cheese Sources (Data, Morale, Assets)]
+        N3[Cheese Sources e.g. Data, Morale, Assets]
     end
 
     A -->|Leaks / movement| LARRY
@@ -136,16 +136,16 @@ flowchart LR
 ### 🕊️ Transmission Node Schema
 ```mermaid
 flowchart LR
-    subgraph A[Origin: Command or Source Node]
-        MSG[Encoded Message\n(Strategic Data / Truth Signal)]
+    subgraph A[Origin:<br>Command / Source Node]
+        MSG[Encoded Message<br>e.g. Strategic Data<br>e.g. Truth Signal]
     end
 
     subgraph B[Transmission Vector]
-        GUSTAV["🕊️ Gustav the Transmission Node\nEmbodied packet relay\n'Courage through communication'"]
+        GUSTAV["🕊️ Gustav the Transmission Node<br>Embodied packet relay<br>'Courage through communication'"]
     end
 
-    subgraph C[Destination: Receiver or Archive]
-        DEC[Decoded Message\nOperational Awareness / Morale]
+    subgraph C[Destination:<br>Receiver / Archive]
+        DEC[Decoded Message<br>Operational Awareness / Morale]
     end
 
     A -->|Encoding & Dispatch| GUSTAV
@@ -155,7 +155,7 @@ flowchart LR
 
 ---
 
-### 🔁 Continuum of Mediation
+### 🌌 Continuum of Mediation
 | Era | Mediator | Function | Symbolic Role |
 |:----|:----------|:----------|:----------------|
 | WWII | **Gustav the Pigeon** | Carry truth through risk | Courage as communication |
@@ -166,7 +166,7 @@ Each fulfils the same archetype: the **non-human sentry**, stabilising a world t
 
 ---
 
-## 🔗 Constellations
+## 🌃 Constellations
 - 🕊️ **Gustav the Truth Courier** → `../Algorithmic_Statecraft/packet_ethics.md`  
 - 🐈 **Larry as Sentinel / Stability Node** → `../Survivor_Voice_Fidelity/signal_constancy.md`  
 - 🎖️ **Victoria Cross** — human analogue  
