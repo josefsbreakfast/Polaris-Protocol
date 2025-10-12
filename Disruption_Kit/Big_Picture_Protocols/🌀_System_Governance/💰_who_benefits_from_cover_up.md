@@ -1,15 +1,15 @@
 # 💰 Who Benefits from Cover-Up — Incentives for Maintaining the Apparatus  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-12  
 *Explains which actors structurally benefit from allowing the current behavioural-insight / manufactured provenance apparatus to continue without reform, focusing on present incentives rather than past harms.*
 
 ---
 
-## 🌐 Summary  
+## 🛰️ Summary  
 Evidence shows that the apparatus creates both **security risks** and **economic inefficiencies**. Yet certain groups benefit in the short term from maintaining it as-is. This node maps those incentive structures, to clarify why resistance to reform persists.
 
 ---
 
-## 📍 Beneficiaries  
+## 🧿 Beneficiaries  
 
 ### 1. Departments under budget pressure  
 - Nudges appear *cheap* compared to regulation or investment.  
@@ -43,14 +43,14 @@ Evidence shows that the apparatus creates both **security risks** and **economic
 
 ---
 
-## 📍 Non-Beneficiaries  
+## 🪬 Non-Beneficiaries  
 - Registered professionals (law, medicine, teaching, social work).  
 - Citizens reliant on trusted services and fair complaints.  
 - UK financial stability in the long term: short-term gains generate larger downstream costs.  
 
 ---
 
-## 📈 Strategic Insight  
+## 🚀 Strategic Insight  
 Resistance to reform is not irrational — it is structurally incentivised. Mapping these incentives makes clear that **short-term benefits for institutions and vendors come at long-term cost to citizens and national security**.  
 
 ---
@@ -71,11 +71,12 @@ cover-up incentives, behavioural insights, manufactured provenance, false proof,
 *Who Benefits from Cover-Up* is a Big Picture Protocol node of the Polaris Protocol.  
 It documents structural incentives for maintaining the apparatus despite known risks.  
 
-> 📡 Cross-references:  
-> - [📊 Scale of Effects Estimate](../Big_Picture_Protocols/📊_scale_of_effects_estimate.md)  
+> 📡 Cross-references:
+> 
+> - [📊 Scale of Effects Estimate](../📊_scale_of_effects_estimate.md)  
 > - [🛑 Ignored Evidence Node](../👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)  
-> - [⚖️ Transparency Floor Node](../Big_Picture_Protocols/⚖️_transparency_floor.md)  
+> - [⚖️ Transparency Floor Node](../⚖️_transparency_floor.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-12_
