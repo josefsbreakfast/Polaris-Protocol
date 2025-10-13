@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 21:16:17 UTC_
+_Generated on 2025-10-13 21:17:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -44,6 +44,7 @@ _Generated on 2025-10-13 21:16:17 UTC_
         - [`⚖️_redress_models_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_redress_models_and_limits.md)
         - [`⚖️_registered_professions_impact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_registered_professions_impact.md)
         - [`⚖️_shadow_governance_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_shadow_governance_timeline.md)
+        - [`⚖️_small_bureaucrats_catch22.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_small_bureaucrats_catch22.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
@@ -100,7 +101,6 @@ _Generated on 2025-10-13 21:16:17 UTC_
       - [`⚖️_containment_and_cutthrough_in_the_legal_profession.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_and_cutthrough_in_the_legal_profession.md)
       - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_lawful_conscience_protocol.md)
       - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
-      - [`⚖️_small_bureaucrats_catch22.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_small_bureaucrats_catch22.md)
       - [`⚖️_soft_law_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_soft_law_governance.md)
       - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)
       - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_transparency_floor_node.md)
