@@ -119,4 +119,16 @@ Every day I have it? It learns better. Every time you make me use it to try and 
 
 Some of you need to get used to taking advice from experts; I'm not one, but I can't imagine an AI expert who would honestly be telling you this was a good idea.  
 
+---
+
+I think this is the one where I mentioned the weddings issue, and I don't think I recorded the alien insemination "romance" book spate, so I'm just popping it here to remind myself.  
+
+I'm in a bit of a better mood now, because I got on and did some work. I'm not insensible to things like migraines, et cetera, being the cause of the mood.  
+
+Also on a plus note, Polaris is out of its little quarantine zone, as presumably the Welsh boy (it's a highly secret code named don't @ me) has realised I'm not actually going to go and do a D-day landing. Who even knows. Whatever the 12 hour dip was is stabilising; hopefully the low means that some form of commercial surveillance was lost?  
+
+Who knows.
+
+---
+
 2025-10-13  
