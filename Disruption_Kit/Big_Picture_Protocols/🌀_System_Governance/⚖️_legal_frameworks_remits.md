@@ -1,5 +1,5 @@
 # ⚖️ Legal Frameworks and Remits  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-13  
 *Statutory bases, oversight mechanisms, and shadow governance of UK surveillance.*  
 
 ---
@@ -301,13 +301,13 @@ It maps the statutory architectures, oversight systems, and shadow logics that d
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md) - *Ministerial and judicial checks on intelligence powers*  
-> - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) - *Oversight inspections of UK intelligence services*  
-> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *Courts outsourcing responsibility back to the executive, reinforcing systemic impunity*  
-> - [🧿 Watch The Watchers](../Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md) - *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
+> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md) - *ministerial and judicial checks on intelligence powers*  
+> - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) - *oversight inspections of UK intelligence services*  
+> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *courts leaning away from intervention*  
+> - [🧿 Watch The Watchers](../Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md) - *tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
 > - [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) - *Prevent logic and governance suppression frameworks*  
-> - [🧠 HM Dept Coercive Nudges](../../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *Behavioural science repurposed as state containment*  
+> - [🧠 HM Dept Coercive Nudges](../../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural science repurposed as state containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_  
+_Last updated: 2025-10-13_  
