@@ -1,6 +1,5 @@
 # 🌀 Systems & Governance  
-**First created:** 2025-08-27 | **Last updated:** 2025-09-30  
-
+**First created:** 2025-08-27 | **Last updated:** 2025-10-13  
 *How the systems we use interlace with what controls and powers them.*  
 
 ---
@@ -40,7 +39,6 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 - [🦯 Algorithmic Delay & Pacing](🦯_algorithmic_delay_and_pacing.md) — *Rate-limiting as soft control.*  
 - [🌀 Ambiguity as Containment](🌀_ambiguity_as_containment.md) — *Fog as policy.*  
 - [🧠 Didn’t Apply Brain Loop](🧠_didnt_apply_brain_loop.md) — *DARVO feedback spirals mistaken for “intelligence inputs.”*  
-- [🛂 Gated Intake Post Delay Regional Loop](🛂_gated_intake_post_delay_regional_loop.md) — *Delays as containment: stretching time until agency collapses.*  
 - [📋 Loop: Tickbox vs Cognitive Load](📋_loop_tickbox_vs_cognitive_load.md) — *Cognitive tax as gatekeeping.*  
 - [🩹 Loop Triad: Tickbox, Containment Fatigue, Patch-Repair](🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md) — *Maintenance myths that entrench harm.*  
 - [🌀 Managed Transition vs Revolution](🌀_managed_transition_vs_revolution.md) — *Staging change to preserve power.*  
@@ -67,7 +65,6 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 - [⚖️ Redress Models and Limits](⚖️_redress_models_and_limits.md) — *Where remedies stop.*  
 - [⚖️ Registered Professions Impact](⚖️_registered_professions_impact.md) — *Professional orders as governance choke points.*  
 - [⚖️ Shadow Governance Timeline](⚖️_shadow_governance_timeline.md) — *Chronology of hidden structures.*  
-- [⚖️ SLAPPs: UK, Global, Palestine](⚖️_slapps_uk_global_palestine.md) — *Gag suits across jurisdictions.*  
 - [⚖️ Small Bureaucrats’ Catch-22](⚖️_small_bureaucrats_catch22.md) — *When minor officials hold disproportionate veto power.*  
 - [⚖️ Soft Law Governance](⚖️_soft_law_governance.md) — *Guidance and MoUs as de facto law.*  
 - [⚖️ Transparency Floor Node](⚖️_transparency_floor_node.md) — *Minimum viable openness.*  
@@ -84,8 +81,6 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 - [🛰️ Situational Awareness: Human vs Computational](./🛰️_situational_awareness_mega_node.md) — *Human vs machine awareness, ISR evolution, risk traps, and safety culture.*
 - [🛰️ Surveillance Infrastructure](🛰️_surveillance_infrastructure.md) — *Stacks, vendors, pipelines.*  
 - [🛰️ Vendor Lock-In](🛰️_vendor_lock_in.md) — *Procurement inertia as governance.*  
-- [💷 Polaris Costing Estimate](💷_polaris_costing_estimate.md) — *Budgetary projection for containment architectures.*  
-- [💷 Potential Tort Exposure](💷_potential_tort_exposure.md) — *Where liability may attach.*  
 - [💷 Procurement Culture & Departmental Clashes](💷_procurement_culture_and_departmental_clashes.md) — *Contract culture vs turf wars.*  
 - [💷 Procurement Culture — Dept Clashes (alt.)](💷_procurement_culture_dept_clashes.md) — *Duplicate/variant title; consolidate later.*  
 - [💷 Survivor Costing Estimate](💷_survivor_costing_estimate.md) — *Labour and life costs of suppression.*  
@@ -273,13 +268,14 @@ systems governance, containment logic, audit fatigue, vendor lock-in, oversight 
 
 ## 🏮 Footer  
 
-*🌀 Systems & Governance* is a living cluster of the Polaris Protocol.  
+*Systems & Governance* is a living cluster of the Polaris Protocol.  
 It maps systemic containment architectures, showing how infrastructure, narrative, and bureaucracy converge to throttle survivor agency.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [Disruption Kit](../../) — countermeasures, logs, and suppression diagnostics  
 > - [Metadata Sabotage Network](../../../Metadata_Sabotage_Network/) — structural analysis of governance and narrative interference  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-13_  
