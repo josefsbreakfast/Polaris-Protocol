@@ -276,7 +276,13 @@ I wonder why I dont bother making police reports. 🙄
 
 don't worry, they took about half an hour trying to explain how I was suicidal when I wasn't 🤣🤣🤣  
 
-like sir...i am *fine*.
+like sir...i am *fine*.  
+
+three of them (because we sent 3 men to see a single woman, obviously.  
+
+apso didnt bat an eyelid at "ripa bleed"; didnt ask what it was but also zero concern at a civvie saying it.   
+
+just seemed odd to me.  
 
 ---
 
