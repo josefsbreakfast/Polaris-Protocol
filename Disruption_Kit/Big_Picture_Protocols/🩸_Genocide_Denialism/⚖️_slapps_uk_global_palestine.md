@@ -1,10 +1,10 @@
 # ⚖️ Strategic Lawsuits Against Public Participation (SLAPPs)  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-13  
 *Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony.*
 
 ---
 
-## 🔥 Introduction  
+## 🍉 Introduction  
 
 SLAPPs (Strategic Lawsuits Against Public Participation) are not about winning in court.  
 They are lawsuits (or threats of lawsuits) designed to **silence, exhaust, and discredit**.  
@@ -137,6 +137,17 @@ Their impact is most acute where solidarity, IHL obligations, and survivor testi
 
 ---
 
+## 🇵🇸 Appendix: UK SLAPP Case Table (2023–2025, Palestine/Israel Focus)  
+
+| Claimant            | Defendant / Target        | Case Type        | Notes & Outcome (if known) |
+|---------------------|---------------------------|------------------|----------------------------|
+| **Dale Vince**      | Paul Staines (Guido Fawkes), Richard Tice, Lord Bailey | Defamation (Israel–Gaza comments) | Vince won damages vs. Staines (2025); further claims pending/contested. |
+| **UK Lawyers for Israel (UKLFI)** | Arts & cultural orgs hosting Palestine solidarity events | Threatening letters (libel / charity law threats) | 8 letters identified; SRA investigation opened 2025. |
+| **Mohamed Amersi**  | Charlotte Leslie (ex-MP) | Defamation over background memo | Case raised in Parliament as SLAPP example; ongoing. |
+| **Zahawi’s lawyer** | Tax blogger (criticism of Zahawi’s finances) | Libel threats (confidentiality misuse) | Lawyer fined £50,000 + £260,000 costs (SRA disciplinary ruling, 2024). |  
+
+---
+
 ## 🌌 Constellations  
 ⚖️ 🧿 🚨 🕸️ — This node maps how silencing tactics move across law, politics, testimony, and surveillance.
 
@@ -160,20 +171,9 @@ By mapping legal timelines, global context, survivor erasure, Crown property rul
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md)  
-> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md)
+> - [⚖️ Judicial Deference](../🌀_System_Governance/⚖️_judicial_deference.md)  
+> - [⚖️ Public Inquiry Business Case](../🌀_System_Governance/⚖️_public_inquiry_business_case.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
-
----
-
-## Appendix: UK SLAPP Case Table (2023–2025, Palestine/Israel Focus)  
-
-| Claimant            | Defendant / Target        | Case Type        | Notes & Outcome (if known) |
-|---------------------|---------------------------|------------------|----------------------------|
-| **Dale Vince**      | Paul Staines (Guido Fawkes), Richard Tice, Lord Bailey | Defamation (Israel–Gaza comments) | Vince won damages vs. Staines (2025); further claims pending/contested. |
-| **UK Lawyers for Israel (UKLFI)** | Arts & cultural orgs hosting Palestine solidarity events | Threatening letters (libel / charity law threats) | 8 letters identified; SRA investigation opened 2025. |
-| **Mohamed Amersi**  | Charlotte Leslie (ex-MP) | Defamation over background memo | Case raised in Parliament as SLAPP example; ongoing. |
-| **Zahawi’s lawyer** | Tax blogger (criticism of Zahawi’s finances) | Libel threats (confidentiality misuse) | Lawyer fined £50,000 + £260,000 costs (SRA disciplinary ruling, 2024). |
+_Last updated: 2025-10-13_
