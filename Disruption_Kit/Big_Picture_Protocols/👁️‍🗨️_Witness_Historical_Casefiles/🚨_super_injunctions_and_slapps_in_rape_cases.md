@@ -1,10 +1,10 @@
 # 🚨 Super-Injunctions and SLAPPs in Rape Cases  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-13  
 *Mapping how legal secrecy regimes erase survivors’ testimony and entrench silencing.*  
 
 ---
 
-## 🌐 Introduction  
+## 🛰️ Introduction  
 This node maps how super-injunctions and SLAPP-like mechanisms intersect with rape cases in the UK.  
 - Intended for protection, they can become tools of coercion and silencing.  
 - Survivors are forced into invisibility, eroding trust in justice.  
@@ -18,7 +18,7 @@ This node maps how super-injunctions and SLAPP-like mechanisms intersect with ra
 
 ---
 
-## 🐦‍🔥 Survivor Experience  
+## 🧨 Survivor Experience  
 - Testimony treated as Crown property, not personal speech.  
 - Survivors risk contempt if they speak their own story.  
 - Feels like *“legalised lying”* — forced to act as if nothing happened.  
@@ -32,7 +32,7 @@ This node maps how super-injunctions and SLAPP-like mechanisms intersect with ra
 
 ---
 
-## 🕸️ Enforcement Web  
+## 🏛️ Enforcement Web  
 - **MoJ / HMCTS:** silence through civil courts.  
 - **Cabinet Office / Attorney General:** coordinate restrictions across departments.  
 - **MOD:** Service Test + chain of command punish disclosure.  
@@ -41,13 +41,13 @@ This node maps how super-injunctions and SLAPP-like mechanisms intersect with ra
 
 ---
 
-## 📉 Duty of Care vs Reality  
+## 🔥 Duty of Care vs Reality  
 - **On paper:** GDPR, safeguarding codes, whistleblowing protection.  
 - **In practice:** orders override; survivors raising valid concerns risk harassment, surveillance, reprisal.  
 
 ---
 
-## 👁️ Harassment & Surveillance as “Enforcement”  
+## 🪼 Harassment & Surveillance as “Enforcement”  
 - Survivors monitored to prevent leaks.  
 - Justified as protecting secrets, but functions as intimidation.  
 - Extends SLAPP logic into daily life: exhausting, isolating, retraumatising.  
@@ -61,7 +61,7 @@ This node maps how super-injunctions and SLAPP-like mechanisms intersect with ra
 
 ---
 
-## ✦ Stardust — Related Tags & Signals  
+## ✨ Stardust — Related Tags & Signals  
 - super-injunctions, SLAPP tactics  
 - rape cases, survivor silencing  
 - contempt risk, Crown property of testimony  
@@ -75,11 +75,12 @@ This node maps how super-injunctions and SLAPP-like mechanisms intersect with ra
 *Super-Injunctions and SLAPPs in Rape Cases* is a living node of the Polaris Protocol.  
 It documents how legal secrecy in the UK transforms from protection into coercion, erasing survivor voice.  
 
-> 📡 Cross-references:  
-> - [⚖️ SLAPPs Detailed Node](../🌀_System_Governance/⚖️_slapps_uk_global_palestine.md)  
+> 📡 Cross-references:
+> 
+> - [⚖️ SLAPPs Detailed Node](../🩸_Genocide_Denialism/🍉_Palestine/⚖️_slapps_uk_global_palestine.md) - *Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony.*  
 > - [Survivor Tools](../../Survivor_Tools/README.md)  
 > - [Big Picture Protocols](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-13_  
