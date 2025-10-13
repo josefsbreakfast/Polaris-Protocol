@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 19:08:24 UTC_
+_Generated on 2025-10-13 19:14:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -101,7 +101,6 @@ _Generated on 2025-10-13 19:08:24 UTC_
       - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
       - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🌦️_hope_for_the_best_expect_the_worst.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌦️_hope_for_the_best_expect_the_worst.md)
-      - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎊_multi_party_data_twinning.md)
       - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👁️_panopticon_as_industry.md)
       - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💰_who_benefits_from_cover_up.md)
       - [`💷_procurement_culture_and_departmental_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_and_departmental_clashes.md)
@@ -369,6 +368,7 @@ _Generated on 2025-10-13 19:08:24 UTC_
         - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
         - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
         - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/spv_dataflow_redacted.png)
+        - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md)
         - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)
         - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/💷_polaris_costing_estimate.md)
         - [`💷_potential_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/💷_potential_tort_exposure.md)
