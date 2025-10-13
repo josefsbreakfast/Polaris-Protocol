@@ -139,4 +139,45 @@ It might not look like a box to you, and all the better if it doesn't.
 
 It's just a way of stopping you from doing whatever you were gonna do.  
 
+---
+
+by the way, my favourite nudge from today, was where an email preview from a company that I've never really gotten anything from him before, readers were sending this to Downing Street, as I was writing something out.  
+
+And ive just had a ?pulse light call.  
+so yes.  
+
+This is how mundane it can look. 
+
+But when you spent months having people call your doorbell through the night, and the police wouldn't do anything, and the council wouldn't do anything, and you were told you couldn't have CCTV, and then you were told off for not being able to get up the next day...  
+
+You get hypervigilant, and radio nervous system is just looking for any help at all.  
+
+This is how the telecom interference is still imply and still actively weaponising the last bit of hope that I have.  
+
+This is why anyone in this country who is delaying paperwork or investigation or any protection, is actively now complicit, even if they never wanted to be.  
+
+This doesn't just happen to me; I've seen it in other whistle blowers and other activists.  
+
+This is practised and it is systematic.  
+
+I have no idea where any sort of review or investigation is or is not happening.  
+
+And I don't really know what I'm supposed to do with the information I have anymore.  
+
+I'm being left with basically a cleaner option in this country; this means I have to start putting together an ICC bundle again.  
+
+If anyone anyone's reading and thinks, "but haven't you tried this?", then I can probably tell you yes. I probably have tried whatever that is. I've probably tried a number of times. There's onlyy so many times I can slam myself against a wall, before I have to think whether I need the extra injuries.  
+
+Sometimes you just have to change what you're doing completely.  
+
+But the last time I tried to do an ICC bundle, the interference went crackers. So I probably also need to get some rest. Whilst being very angry about the fact that I'm even in the situation. And also looking after my body somehow. Because the ICC is not a quick process. So I can wait for several years, with this actively continuing, and that's the best I will be able to do.  
+
+And that my friends is the story of how easy it is to weaponise one or two contracts with either surveillance or academia or just some friends at the police, in order to threaten intimidate one person, because you personally find them inconvenient.  
+
+It is far less slightly to be a conspiracy on any grant scale; it is far more likely that this is one or two bad actors who want to make themselves seem a lot bigger than they are.  
+
+But if you know the system well enough, you can make it seem like there's a lot of more people on your side, just by making it almost impossible for the people who have survived you and will continue to survive you, to be able to raise the alarm so you can't put anyone else in this position ever again.  
+
+---
+
 2025-10-13  
