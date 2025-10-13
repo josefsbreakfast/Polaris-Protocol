@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 19:26:58 UTC_
+_Generated on 2025-10-13 19:31:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -30,6 +30,8 @@ _Generated on 2025-10-13 19:26:58 UTC_
       - [`🕊️_dickin_medal_holders.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🕊️_dickin_medal_holders.md)
       - [`🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
+      - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
         - [`♟️_rise_of_the_npm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/♟️_rise_of_the_npm.md)
