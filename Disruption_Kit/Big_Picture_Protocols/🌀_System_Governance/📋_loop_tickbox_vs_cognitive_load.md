@@ -1,5 +1,5 @@
 # 📋 Tickbox vs Cognitive Load  
-**First created:** 2025-09-24 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-24 | **Last updated:** 2025-10-13  
 *A feedback loop between institutional minimalism and survivor exhaustion.*
 
 ---
