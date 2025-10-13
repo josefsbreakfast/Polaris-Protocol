@@ -1,5 +1,5 @@
 # ⚖️ Transparency Floor Node — Litmus Test Class & FOIA Disempowerment  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-13  
 *Explains how the least empowered citizens often detect systemic anomalies through FOIA/SAR use, yet lack the capacity to enforce rights, creating a structural blind spot in transparency law.*
 
 ---
@@ -32,7 +32,7 @@ FOIA and SAR legislation theoretically grants equal rights of access, but in pra
 
 ### 👤 For Individuals  
 - Use **template escalation letters** for “internal review” and preservation requests.  
-- Keep **contemporaneous paper diaries** of refusals and anomalies (see [📓 Paper Diary Sovereignty](../../Survivor_Tools/📓_paper_diary_sovereignty.md)).  
+- Keep **contemporaneous paper diaries** of refusals and anomalies (see [📓 Paper Diary Sovereignty](../../../Survivor_Tools/📓_paper_diary_sovereignty.md)).  
 - Join or form **collective logging groups** to pool FOIA/SAR anomalies into a larger dataset NGOs/journalists can mine.  
 
 ### 🏢 For Organisations & Departments  
@@ -80,10 +80,10 @@ It documents how FOIA/SAR frameworks structurally disempower those most likely t
 
 > 📡 Cross-references:
 > 
-> - [📓 Paper Diary Sovereignty](../../Survivor_Tools/📓_paper_diary_sovereignty.md)  
+> - [📓 Paper Diary Sovereignty](../../../Survivor_Tools/📓_paper_diary_sovereignty.md)  
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
-> - [🪄 Influencer Resilience](../../Survivor_Tools/🪄_influencer_resilience.md)
+> - [🪄 Influencer Resilience](../../../Survivor_Tools/🪄_influencer_resilience.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-13_
