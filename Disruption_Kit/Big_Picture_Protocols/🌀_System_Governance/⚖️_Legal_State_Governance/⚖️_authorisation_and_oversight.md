@@ -1,6 +1,6 @@
 # ⚖️ Authorisation and Oversight  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-11  
-*Ministerial and judicial checks on intelligence powers.*
+**First created:** 2025-09-26 | **Last updated:** 2025-10-13  
+*Ministerial and judicial checks on intelligence powers.*  
 
 ---
 
@@ -51,9 +51,9 @@ It explains how intelligence warrants are issued and checked in the UK — and h
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Legal Frameworks and Remits](./⚖️_legal_frameworks_remits.md)  
-> - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md)  
+> - [⚖️ Legal Frameworks and Remits](./⚖️_legal_frameworks_remits.md) — *where mandates expand or blur*  
+> - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *oversight rhythms as ritual*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-13_
