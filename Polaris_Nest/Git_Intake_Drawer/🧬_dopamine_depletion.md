@@ -180,4 +180,16 @@ But if you know the system well enough, you can make it seem like there's a lot 
 
 ---
 
+also, whoever gives body to the character of the surveillance, once character writes itself/themselves as, and I quote, "a very powerful man".  
+
+And if you've spent 10 minutes in the real world, we all know that means whoever this says is a pipsqueak middle manager, who, like a tortoise fence post, should never have got up there.  
+
+No one's even really sure how they even got there to begin with.  
+
+But they definitely shouldn't be up there.  
+
+That's the energy.  
+
+---
+
 2025-10-13  
