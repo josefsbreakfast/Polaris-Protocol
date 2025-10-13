@@ -1,6 +1,6 @@
 # 🌏 BRICS Bridgework & Middle Corridors  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-28  
-*How BRICS linkages through South Asia, Africa, and the Middle East rewire leverage between China/Russia and the West*
+**First created:** 2025-09-17 | **Last updated:** 2025-10-13  
+*How BRICS linkages through South Asia, Africa, and the Middle East rewire leverage between China/Russia and the West.*
 
 ---
 
@@ -63,10 +63,11 @@ BRICS isn’t a bloc so much as **bridgework**: overlapping economic, energy, lo
 *BRICS Bridgework & Middle Corridors* is a living node of the Polaris Protocol.  
 It maps how corridor politics let states arbitrage between China/Russia and the West, with South Asia and the Middle East acting as the switching layer.
 
-> 📡 Cross-references:  
-> - [🇬🇧 Britain as Global Butler](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🇬🇧_britain_as_global_butler.md) — intermediary state logic  
-> - [🎊 Multi-Party Data Twinning](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🎊_multi_party_data_twinning.md) — vendors as fusion points  
-> - [⚖️ Containment Contract Trace](../Disruption_Kit/Big_Picture_Protocols/⚖️_containment_contract_trace.md)
+> 📡 Cross-references:
+> 
+> - [🇬🇧 Britain as Global Butler](../🕸️_World_Webs/🇬🇧_britain_as_global_butler.md) — *intermediary state logic*  
+> - [🎊 Multi-Party Data Twinning](../💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md) — *vendors as fusion points*  
+> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
