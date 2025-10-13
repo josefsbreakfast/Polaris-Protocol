@@ -1,5 +1,5 @@
 # ⚖️ Judicial Deference  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-13  
 *Courts outsourcing responsibility back to the executive, reinforcing systemic impunity.*  
 
 ---
@@ -42,9 +42,9 @@ It tracks how courts sometimes fail to check state overreach — and how legal p
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](./README.md) — parent cluster of governance diagnostics  
-> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)
+> - [🌀 System Governance](../README.md) — *parent cluster of governance diagnostics*  
+> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md) — *where permissioning meets opacity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-13_
