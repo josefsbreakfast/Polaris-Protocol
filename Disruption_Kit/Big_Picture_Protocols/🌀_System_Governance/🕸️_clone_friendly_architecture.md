@@ -69,7 +69,7 @@ It maps environments where AI-driven replication is embedded into institutions a
 > 📡 Cross-references:
 > 
 > - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md)  
-> - [🎊 Multi-Party Data Twinning](./🎊_multi_party_data_twinning.md)  
+> - [🎊 Multi-Party Data Twinning](../💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md)  
 > - [📚 Forensic Silence](./📚_forensic_silence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
