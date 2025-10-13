@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 19:32:33 UTC_
+_Generated on 2025-10-13 19:34:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -32,6 +32,8 @@ _Generated on 2025-10-13 19:32:33 UTC_
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
+      - [**👑_Copy_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Copy_Ownership_Control/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Copy_Ownership_Control/README.md)
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
