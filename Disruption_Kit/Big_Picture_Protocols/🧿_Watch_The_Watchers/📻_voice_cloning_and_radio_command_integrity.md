@@ -1,17 +1,17 @@
 # 📻 Voice Cloning & Radio Command Integrity  
-**First created:** 2025-10-11  |  **Last updated:** 2025-10-11  
-*When a cloned voice can hijack a net faster than anyone can verify source.*
+**First created:** 2025-10-11  |  **Last updated:** 2025-10-13  
+*When a cloned voice can hijack a net faster than anyone can verify source.*  
 
 ---
 
-## 🧭 Orientation  
+## 🦆 Orientation  
 This node examines the specific risk that **AI-generated or replayed voice clones** pose to **radio-based command and control**.  
 Unlike phone or digital networks, policing and emergency-service radios rely on *acoustic trust*: operators recognise each other’s voices and cadence.  
 Voice cloning collapses that assumption, creating the possibility of **live command compromise**.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Instant deception** — low-latency deepfakes can issue plausible orders in real time.  
 - **Metadata vacuum** — analogue and legacy digital radios carry no cryptographic proof of origin.  
 - **Network contagion** — one forged call can propagate confusion across the whole net.  
@@ -19,9 +19,9 @@ Voice cloning collapses that assumption, creating the possibility of **live comm
 
 ---
 
-## 🔍 Analysis / Content  
+## 🧨 Analysis / Content  
 
-### 1  Operational Vulnerability  
+### 🩻 Operational Vulnerability  
 Police and emergency radios operate on open or semi-shared frequencies with high trust and minimal latency.  
 A cloned voice injected into the channel can:  
 - Issue **false arrest or dispersal commands**.  
@@ -29,18 +29,18 @@ A cloned voice injected into the channel can:
 - Order unsafe actions (firearms discharge, evacuation).  
 Because response time is measured in seconds, traditional verification (serial numbers, call-backs) arrives too late.
 
-### 2  Evidence and Accountability  
+### ⚖️ Evidence and Accountability  
 Post-incident review depends on recorded audio.  
 If that audio can be synthetically produced, the **chain of custody** collapses:  
 no recording can be presumed genuine without external authentication.  
 Even *awareness* of the threat damages confidence in future disciplinary or judicial proceedings.
 
-### 3  Psychological Effect  
+### 🧠 Psychological Effect  
 The radio net is the emotional spine of policing.  
 When officers doubt what they hear, cohesion fractures.  
 Operational tempo slows; mutual trust erodes; “radio paranoia” sets in.
 
-### 4  Mitigation Architecture  
+### 🪬 Mitigation Architecture  
 
 | Layer | Measure | Purpose |  
 |:--|:--|:--|  
@@ -51,14 +51,14 @@ Operational tempo slows; mutual trust erodes; “radio paranoia” sets in.
 | **Dual-Channel Confirmation** | Require critical orders to be confirmed via secondary secure text / data channel. | Reduce live spoof risk. |  
 | **Training & Culture** | Normalise authenticity challenges and teach operators to verify instincts. | Sustain trust without complacency. |  
 
-### 5  Governance Implications  
+### 🏛️ Governance Implications  
 No statutory standard yet defines “synthetic audio interference.”  
 Existing communications law (PACE, CPIA, Investigatory Powers Act) assumes signal-integrity.  
 Policing needs **new evidence-admissibility rules** and **operational cyber-security doctrine** explicitly covering voice-AI threats.
 
 ---
 
-### 7  Large-Event Vulnerability & Inter-Force Deployment  
+### 🪩 Large-Event Vulnerability & Inter-Force Deployment  
 When major operations draw thousands of officers from multiple forces, the *acoustic-trust mesh* disintegrates.  
 
 **Key pressures**  
@@ -78,7 +78,7 @@ When major operations draw thousands of officers from multiple forces, the *acou
 
 ---
 
-### 8  Crowd-Scale Risk & Mitigation  
+### 🌋 Crowd-Scale Risk & Mitigation  
 Large-scale public events—one million people on the streets of London—multiply the hazard:
 
 1. **Mass mobilisation** → unknown voices, temporary command structures.  
@@ -113,10 +113,10 @@ It documents how AI audio manipulation threatens the operational core of radio-b
 
 > 📡 Cross-references:
 > 
-> - [🧠 Voice Clones, AI & the Threat to Policing](../🧠_voice_clones_ai_and_the_threat_to_policing.md) — broad context.  
-> - [🧾 Due Diligence & Operational Capacity in Policing](../🧾_due_diligence_and_operational_capacity_in_policing.md) — oversight constraints.  
+> - [🧠 Voice Clones, AI & the Threat to Policing](../💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md) — broad context.  
+> - [🧾 Due Diligence & Operational Capacity in Policing](../🌀_System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md) — oversight constraints.  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-13_
