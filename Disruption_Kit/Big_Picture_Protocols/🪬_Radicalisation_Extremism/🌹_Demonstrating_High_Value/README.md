@@ -1,10 +1,10 @@
- # 🌹 Demonstrating Higher Value  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+ # 🌹 Demonstrating High Value  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-13  
 *From pick-up artist boast to political masculinity grievance.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 “Demonstrating Higher Value” (DHV) is a cornerstone of pick-up artist (PUA) rhetoric.  
 It instructs men to showcase their supposed uniqueness and superiority as a lure — making themselves appear rare, elevated, or enviable.  
 
@@ -26,7 +26,7 @@ What begins as a dating tactic translates seamlessly into political masculinitie
 
 ---
 
-## 🧩 Continuity & Harm  
+## 🧨 Continuity & Harm  
 - **Inflated Self-Narrative:** DHV normalises narcissism as survival strategy.  
 - **Othering:** Always requires positioning others as “low value” to make the self look high.  
 - **Pipeline Role:** Provides a readymade vocabulary of grievance and specialness — exactly what extremist recruiters exploit.  
@@ -38,10 +38,11 @@ What begins as a dating tactic translates seamlessly into political masculinitie
 It tracks how a PUA tactic of self-aggrandisement mutates into political grievance masculinities.  
 
 📡 Cross-references:  
+
 - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)  
-- [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
+- [🪬 Radicalisation_Extremism](../🪬_Radicalisation_Extremism/README.md)  
 - [🎬 Dennis System as PUA Satire](./🎬_dennis_system_as_pua_satire.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-13_  
