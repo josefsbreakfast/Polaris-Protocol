@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 14:27:16 UTC_
+_Generated on 2025-10-13 14:32:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1397,6 +1397,7 @@ _Generated on 2025-10-13 14:27:16 UTC_
     - [`🦠_systemic_porosity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_systemic_porosity.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🧠_multilock_overlapping_systems_coercive_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_systems_coercive_systems.md)
+    - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧬_dopamine_depletion.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dopamine_depletion.md)
     - [`🧮_7_day_word_count_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧮_7_day_word_count_analysis.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
