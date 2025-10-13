@@ -1,10 +1,10 @@
 # 💷 Procurement Culture and Departmental Clashes  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-29 | **Last updated:** 2025-10-13  
 *How Treasury logics and departmental needs clash, shaping the adoption of surveillance and “fix” technologies.*  
 
 ---
 
-## 🌐 Summary  
+## 🛰️ Summary  
 Surveillance adoption in the UK was never just about security.  
 It was also about **procurement culture**: how departments buy, who controls budgets, and why Whitehall repeatedly chooses multinational vendors over domestic or open solutions.  
 
@@ -36,14 +36,14 @@ The clash is structural:
 
 ---
 
-## ⚠️ Consequences  
+## 🔥 Consequences  
 - **Vendor capture:** domestic capability atrophies while foreign firms dominate.  
 - **Surveillance creep:** once platforms are bought, they seek new “use cases” to justify renewal.  
 - **Cultural frustration:** frontline staff experience systems as brittle and misaligned, but cannot shift them.  
 
 ---
 
-## 🧭 Reform Directions  
+## 🐉 Reform Directions  
 - **Procurement criteria reform:** weight sovereignty, transparency, adaptability alongside cost.  
 - **SME scaling support:** enable UK firms to compete for national contracts.  
 - **Cultural synchronisation:** align Treasury risk models with departmental delivery realities.  
@@ -51,7 +51,7 @@ The clash is structural:
 
 ---
 
-## ✦ Stardust — Related Tags & Signals  
+## ✨ Stardust — Related Tags & Signals  
 - vendor capture, Treasury culture, departmental clashes  
 - procurement logic, digital ID, Prevent/CVE platforms  
 - Palantir, Serco, Capita, risk transfer, lock-in  
