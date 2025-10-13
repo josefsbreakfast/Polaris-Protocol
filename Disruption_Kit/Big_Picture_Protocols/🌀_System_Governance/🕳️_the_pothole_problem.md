@@ -1,10 +1,10 @@
 # 🕳️ The Pothole Problem  
-**First created:** 2025-10-09 | **Last updated:** 2025-10-10  
-*When six-hundred-year-old law meets twenty-first-century asphalt.*
+**First created:** 2025-10-09 | **Last updated:** 2025-10-13  
+*When six-hundred-year-old law meets twenty-first-century asphalt.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 The pothole is Britain’s most visible governance glitch.  
 Every crater in the road exposes a deeper crater in public administration:  
 a statute book that predates the Church of England, procurement logic from the turnpike age, and an enforcement regime optimised for mediocrity.  
@@ -13,14 +13,14 @@ This node maps how ancient legal sediment, weak regulatory muscle, and modern po
 
 ---
 
-## 🧩 Key Features  
+## 🌳 Key Features  
 - Traces highway maintenance law from Tudor parish duty to post-Thatcher austerity.  
 - Diagnoses the *weak-enforcement equilibrium* governing utilities and contractors.  
 - Shows how neglect converts into populist political capital.
 
 ---
 
-## 🧭 Historical Statute Timeline — From Parish Labour to Populist Asphalt  
+## ⚖️ Historical Statute Timeline — From Parish Labour to Populist Asphalt  
 
 | Era | Key Statutes / Shifts | Structural Logic | Residue in 2025 |
 |------|-----------------------|------------------|-----------------|
@@ -77,7 +77,7 @@ performance theatre in asphalt form.
 
 ---
 
-## 🧩 Political Resonance  
+## 🔥 Political Resonance  
 Because potholes are hyper-visible and universal, they become the perfect populist lever:  
 low-information, high-anger, instantly legible.  
 When a system’s failures are mapped in tyre damage rather than spreadsheets, any party promising “We’ll fix your roads” can harvest votes without fixing the structure.
@@ -107,7 +107,7 @@ None require new physics — only new willpower.
 
 ---
 
-### 🔧 Summary Insight  
+### 💫 Summary Insight  
 
 The absence of reform is not ignorance; it’s *political convenience*.  
 Neglect allows ministers to announce “new funding boosts” every spring while never changing the enforcement architecture that would make those boosts unnecessary.  
@@ -132,4 +132,4 @@ It traces the persistence of Tudor-era road law through modern procurement loops
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-13_
