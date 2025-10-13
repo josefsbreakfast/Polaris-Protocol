@@ -113,8 +113,8 @@ It documents how AI audio manipulation threatens the operational core of radio-b
 
 > 📡 Cross-references:
 > 
-> - [🧠 Voice Clones, AI & the Threat to Policing](../💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md) — broad context.  
-> - [🧾 Due Diligence & Operational Capacity in Policing](../🌀_System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md) — oversight constraints.  
+> - [🧠 Voice Clones, AI & the Threat to Policing](../💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md) — *broad context*  
+> - [🧾 Due Diligence & Operational Capacity in Policing](../🌀_System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md) — *oversight constraints*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
