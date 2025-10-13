@@ -1,5 +1,5 @@
 # ⚖️ IPCO Audit Cycle  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-13  
 *Oversight inspections of UK intelligence services.*  
 
 The watchers get watched, or so the story goes.  
@@ -63,10 +63,10 @@ It outlines the inspection and compliance processes that govern MI5, MI6, and GC
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)  
-> - [🧬 Data Anomalies: Twins & Zombies](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)  
-> - [🧬 Data Correction Notices](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
+> - [⚖️ Authorisation and Oversight](../⚖️_authorisation_and_oversight.md) — *where permissioning meets opacity*  
+> - [🧬 Data Anomalies: Twins & Zombies](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)  
+> - [🧬 Data Correction Notices](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-13_
