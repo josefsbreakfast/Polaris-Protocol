@@ -68,8 +68,8 @@ It documents how the absence of dissent in 2012–2016 weakened scrutiny and dis
 > 
 > - [🛑 Ignored Evidence Node](../👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md) - *Records how evidence presented to the House of Lords Science & Technology Committee (2014 follow-up on Behaviour Change) raised sensible cautions, yet policy practice largely ignored them*   
 > - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) - *Evidential integrity and data-twin exploitation, requiring formal inquiry*  
-> - [🚨 Early Ethics Red Flags] 
+> - [🚨 Early Ethics Red Flags] - *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-13_
