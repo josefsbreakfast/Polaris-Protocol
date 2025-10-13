@@ -1,7 +1,6 @@
 # 📜 UK Cabinet Conflict & Opacity Map (2025)
-
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
-*Mapping financial conflict exposure, disclosure opacity, and professional body concentration across the 2025 UK Cabinet.*
+**First created:** 2025-10-06 | **Last updated:** 2025-10-13  
+*Mapping financial conflict exposure, disclosure opacity, and professional body concentration across the 2025 UK Cabinet.*  
 
 ---
 
@@ -44,7 +43,7 @@
 
 ---
 
-## 🧩 Pattern Summary
+## 🛰️ Pattern Summary
 
 - **Shielded / Opaque** → ~1 major office (Prime Minister).  
 - **Active or recently investigated** → 2 cases (Reeves, Kyle).  
@@ -76,7 +75,7 @@ It coincided with the rewrite of the **Ministerial Code (2024 Revision)**, which
 | **Economists & governance scholars** | Call it *an optical fix*: risk moved from political exposure to fiduciary concealment. |
 | **Survivor-advocacy & Polaris analysts** | View it as **containment-by-credential**—a narrative of probity that simultaneously *erases evidentiary trace* of financial entanglement. |
 
-### 🧮 Effect
+### 🧨 Effect
 - **Public trust decreased**: polling mid-2025 shows 62 % of respondents believe ministers still hold undisclosed financial stakes.  
 - **Accountability diffused**: media and parliamentary committees cannot compel production of underlying trust documents.  
 - **Regulatory risk**: aligns UK practice with *US-style discretionary blind trusts* without corresponding audit infrastructure.
@@ -100,11 +99,12 @@ conflict of interest, ministerial code, blind trust, opacity, transparency polic
 *UK Cabinet Conflict & Opacity Map (2025)* is a living node of the **Polaris Protocol**.  
 It traces how transparency reforms convert scrutiny into narrative containment, using legal and procedural instruments to manage visibility rather than eliminate conflict.
 
-> 📡 Cross-references:  
-> – [🧿 Watch the Watchers](../🧿_Watch_The_Watchers)  
-> – [📜 Statutes](../📜_Statutes)  
-> – [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges)
+> 📡 Cross-references:
+> 
+> – [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md)  
+> – [📜 Statutes](../📜_Statutes/README.md)  
+> – [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-13_
