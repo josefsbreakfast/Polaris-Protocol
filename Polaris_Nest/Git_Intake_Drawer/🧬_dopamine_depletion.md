@@ -192,4 +192,92 @@ That's the energy.
 
 ---
 
+I have to spend about 10 seconds thinking about it in an enforced period of rest, I've realised why I see you so much surveillance gadget shit in my algorithm all the time.  
+
+It's not just about intimidation.  
+
+Is to make you go what the fuck?, Pause on it. Then the systems that monitor our Internet activity are actually connected in a prevent scenario. See Internet connectivity basically output some sort of score about your risk. I don't know how the fuck it works but like something to do with maths in it.  
+
+I found this out going down a different rabbit hole to find something else out. I hate the humanities please do it for me, it's basically my takeaway as a stem person. Like please find the humanities so that other people can do this. I quite frankly do not like JSTOR and I would like it to be someone else's job.  
+
+Anyway.  
+
+So when you're under prevent, because let's say some dickhead decides that you're safeguarding flag about someone else, makes you some sort of terrorist. Hypothetically speaking.  
+
+I imagine that there is probably some sort of algorithm, based on a very large amount of counterterrorism literature that I have had the unfortunate experience of having to work out what the fuck they're on about within (and my goodness I thought us medics were nerds), you could probably use Internet profiling in order to make a behavioural output algorithmically. Probably in somewhere like RICU? Something like this.  
+
+The problem is, that because there is a hanger on, who keeps bringing their sticky substances to my algorithm...  
+
+Half of my Internet activity is some weirdo looking up things like night vision goggles for 30 quid.  
+
+Now I don't know about you...  
+
+But that sounds like a load of bullshit to me.  
+
+(dude claims they're in 4K.)  
+
+Like if I came across a woman and that was what she was looking at, and she was looking at packing stuff and how to get into Wi-Fi and attack surfaces...  
+
+I would probably think she's some kind of terrorist.  
+
+Which might explain why the police seem to think that as well!  
+
+So when I got my FOIA response, apparently I'm not allowed to know police forces are talking to each other, because I might plan some sort of operational attack.  
+
+As if I might give them that much thought if you all just got out of my digital knicker draw.  
+
+So I'd love to know, in a series of cases belonging to South Yorkshire police, how many of those came up flagged it something particularly weird if we have some sort of algorithm that works like this within the home office.  
+
+Because if I think about who responded to which FOI in what way?  
+
+I don't know, man. I just feel like that might be a question. I would ask internally.  
+
+Thankfully, I have better things to do.  
+
+Like have one of the ridiculous migraines I've had ever since I had that potential exposure ghb.  
+
+Not like I'm salty about it or anything.  
+
+In fact now that I've had this realisation this makes an awful lot of my Internet algorithm output make a lot more sense.  
+
+I've got like 100,000 photos or something stupid like this, because I just started screening all the particularly weird stuff, and I didn't realise how much weird stuff it was.  
+
+Turns out: a lot of weird stuff.  
+
+But yeah...  
+
+I am not the person looking up things that you could Tal or cyber attack with. My searches are pertaining to "what is this thing?", because for example yesterday I got something which was like.... a cricket bat with magnets that you put on a van?  
+
+Turns out it's some sort of EMF field absorber; it is incredibly unclear to me if this is actually something that physically works, like in the example of if you work using a van for some sort of job that meant you write a generator in it. I don't know tree surgeons are weird people that seems like that kind of thing. But anyway. I assumed that was some sort of like tradesmen type job that you would be able to do that would necessitate using this?  
+
+I got up so much stuff about some very very strange beliefs.  
+
+Incredibly interesting, but essentially I have no idea if this actually has anything to do with how electromagnetic fields actually function. That's how bad it was. 🤣🤣🤣  
+
+So you can see how that would stick in an algorithm.  
+
+I had wondered why I was getting another resurgence of this.  
+
+I started receiving this content just after the investigation change in South Yorkshire policing was announced.  
+
+So, I don't know.  
+
+Maybe we will be able to find out, how I became the "OSINT bitch", the "surveillance slut", all the... I can't remember if I was the team bike, the Squad bike, or the force bike, but this whole idea, that somehow I could be ridden?  
+
+Pretty rich for a bunch of fat boys who can't get into a loft (but understood what it looked like before they even managed to pop their head in? Talent that.).  
+
+oh no, sorry.  
+
+that was the "neighbourhood policing" who didn't know where anything was.  
+
+Like didn't know where the city centre was on a city centre street.  
+
+I wonder why I dont bother making police reports. 🙄  
+
+don't worry, they took about half an hour trying to explain how I was suicidal when I wasn't 🤣🤣🤣  
+
+like sir...i am *fine*.
+
+---
+
 2025-10-13  
