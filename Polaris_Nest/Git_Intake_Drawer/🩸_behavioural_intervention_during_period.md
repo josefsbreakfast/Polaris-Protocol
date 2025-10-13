@@ -44,7 +44,7 @@ Recording or writing about it therefore requires survivor-voice fidelity: irony,
 <!--See also: the matriarchy remediation period. Consider it a favour to get the species back on track.-->
 ---
 
-*Is any part of our bodies or our lives or our souls that you would leave unpoliced?*
+*Is there any part of our bodies or our lives or our souls that you would leave unpoliced?*
 <!--See also: white men having anything at all to say about societoes which retain high control over women's lives. It is all the same violence. The only material difference is in who is doing the violence and the particular style of the violence.-->
 ---
 
@@ -56,7 +56,7 @@ Recording or writing about it therefore requires survivor-voice fidelity: irony,
 
 ## ✨ Stardust  
 
-menstrual surveillance, behavioural nudging, covert intervention, data protection, bodily integrity, trauma psychology, containment assault, human rights, special-category data, survivor voice, The Men™️, misogyny, "do you even like women?"
+menstrual surveillance, behavioural nudging, covert intervention, data protection, bodily integrity, trauma psychology, containment assault, human rights, special-category data, survivor voice, The Men™️, misogyny, "do you even like women?", the bear
 
 ---
 
