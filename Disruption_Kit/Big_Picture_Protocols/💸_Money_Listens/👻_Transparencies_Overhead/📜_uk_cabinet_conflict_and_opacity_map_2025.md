@@ -101,9 +101,9 @@ It traces how transparency reforms convert scrutiny into narrative containment, 
 
 > 📡 Cross-references:
 > 
-> – [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md)  
-> – [📜 Statutes](../📜_Statutes/README.md)  
-> – [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md)
+> – [🧿 Watch the Watchers](../../🧿_Watch_The_Watchers/README.md)  
+> – [📜 Statutes](../../📜_Statutes/README.md)  
+> – [🧠 HM Dept Coercive Nudges](../../🧠_HM_Dept_Coercive_Nudges/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
