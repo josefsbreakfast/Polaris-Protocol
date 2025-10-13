@@ -36,7 +36,7 @@ I think a few people are just pretty convinced, that are fundamental part of the
 
 That's not a conspiracy.  
 
-Although, when it goes to Court, I'm sure whatever those lawyers do, will make it sound an awful lot like it needs the legal definition.  
+Although, when it goes to Court, I'm sure whatever those lawyers do, will make it sound an awful lot like it meets the legal definition.  
 
 Being this much of a bellend, does not come easily to many.  
 
@@ -110,6 +110,33 @@ I thought I watched the same country in the same communities, and I just assumed
 
 That we are all far stronger together, than we ever are apart.  
 
+
+I know I need to ask people to advocate for me, but I know that as soon as I do that, the same people will be nudged with behavioural insights from the wonderful team that does this.  
+
+So where is the door out?  
+
+Because I'm ready for it.  
+
+Where is there a lawyer that I'm allowed to access?  
+
+Because I thought that was due process?  
+
+Who is it? Who could influence the police, the courts, the politicians, a political party, universities, NHS trusts...?  
+
+The list starts to get fucking short.  
+And it's annoying, because I have appealed to specific offices, I have apparently instigated some sort of change, and yet somehow not received even a confirmation response.  
+
+The list starts to look damn short.  
+
+I need people to start advocating for me; I need to be allowed to move freely.  
+
+I want to be let go.  
+
+And don't worry...  
+
+I am going to need time to heal.  
+
+That's plenty of time to construct a narrative and a defence.  
 
 2025-10-13  
 
