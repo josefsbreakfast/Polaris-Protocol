@@ -1,6 +1,6 @@
 # 📚 Forensic Silence  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-*Active narrative gaps where records were scrubbed — the hole itself becomes evidence*  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-13  
+*Active narrative gaps where records were scrubbed — the hole itself becomes evidence.*  
 
 ---
 
@@ -19,7 +19,7 @@ Key diagnostic cues:
 
 ---
 
-## 🔎 Analytical Threads  
+## ✨ Analytical Threads  
 
 - **Silence as infrastructure:** which agencies *depend* on keeping voids intact?  
 - **Silence vs noise:** when denial campaigns flood discourse precisely as documents vanish.  
@@ -48,7 +48,7 @@ Why this matters for *forensic silence*:
 
 ---
 
-## 🛠 Methods of Detection  
+## 🧿 Methods of Detection  
 
 1. **Cross-reference gaps** → Compare cited inquiries with public record indexes.  
 2. **Check parliamentary traces** → Look for mentions in Hansard that have no accessible follow-up.  
@@ -61,7 +61,7 @@ Why this matters for *forensic silence*:
 
 ---
 
-## ▶️ Flowchart: The Politician’s Reply  
+## 🦤 Flowchart: The Politician’s Reply  
 
 ```mermaid
 flowchart TD
@@ -90,15 +90,16 @@ forensic silence, disappeared reviews, retracted datasets, superinjunctions, scr
 
 ## 🏮 Footer  
 
-*📚 Forensic Silence* is a living node of the Polaris Protocol.  
+*Forensic Silence* is a living node of the Polaris Protocol.  
 It documents how silence itself becomes probative evidence of suppression.  
 
-> 📡 Cross-references:  
-> - [🌀 System_Governance](./) — *parent cluster of governance diagnostics*  
+> 📡 Cross-references:
+> 
+> - [🌀 System_Governance](./README.md) — *parent cluster of governance diagnostics*  
 > - [❓ Override Question as Silence Breaker](./❓_override_question_as_silence_breaker.md) — *intuition in safeguarding systems*  
 > - [🧠 Intuition as Skill](./🧠_intuition_as_skill.md) — *recognising Type 1 as skill*  
 > - [㊙ Containment Contracts](../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_containment_contracts.md) — *NDA and gag structures enforcing silence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-13_
