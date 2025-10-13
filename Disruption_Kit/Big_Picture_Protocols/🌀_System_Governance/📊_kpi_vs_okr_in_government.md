@@ -1,10 +1,10 @@
 # 📊 KPIs vs OKRs in Government  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-29  
-*A comparative node on measurement logics in UK public services*  
+**First created:** 2025-09-01 | **Last updated:** 2025-10-13  
+*A comparative node on measurement logics in UK public services.*  
 
 ---
 
-## Overview  
+## ✨ Overview  
 
 This document outlines the tension between **Key Performance Indicators (KPIs)** and **Objectives & Key Results (OKRs)** as applied to UK government practice.  
 
@@ -12,7 +12,7 @@ The frame builds from long-standing critiques of New Labour’s “targets cultu
 
 ---
 
-## KPI vs OKR Comparison  
+## 🌶️🍋 KPI vs OKR Comparison  
 
 | **Feature** | **KPI (Key Performance Indicator)** | **OKR (Objectives & Key Results)** |
 |-------------|--------------------------------------|------------------------------------|
@@ -27,7 +27,7 @@ The frame builds from long-standing critiques of New Labour’s “targets cultu
 
 ---
 
-## Commentary  
+## 🐝 Commentary  
 
 - **KPIs** emerged as tools for control and reassurance: they look simple, politically communicable, and minister-friendly.  
 - **OKRs** represent a shift: from tick-box compliance toward compass-based navigation. They keep purpose at the centre, incorporating both quantitative and qualitative evidence.  
@@ -52,10 +52,11 @@ kpi vs okr, measurement logics, targets culture, public services, governance ref
 *KPIs vs OKRs in Government* is a living node of the Polaris Protocol.  
 It documents how measurement logics shape public service behaviour, and offers alternatives that preserve human dignity within state systems.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [💷 Procurement Culture and Departmental Clashes](./💷_procurement_culture_and_departmental_clashes.md) - *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
 > - [🌀 Reverse Colonisation Timeline](./🌀_reverse_colonisation_timeline_metadata_outsourcing.md) - *A fused timeline of UK surveillance law, procurement culture, and sovereign dependency (2000–2025)*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-13_
