@@ -1,16 +1,16 @@
 # 💸 Money Listens  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-13  
 *Lobbying, corporate interests, and the capture of the public domain.*  
 
 ---
 
-## 🌐 Overview  
+## 🛰️ Overview  
 This node cluster maps how **money governs what is heard** — tracing lobbying networks, donor ecosystems, and the conversion of public institutions into private listening devices.  
 It studies how **corporate narrative control**, **think-tank laundering**, and **strategic philanthropy** reshape the meaning of “public interest.”  
 
 ---
 
-## 🧭 Core Threads  
+## ✨ Core Threads  
 - **Lobbying architectures** — formal and shadow registers of influence.  
 - **Corporate philanthropy** — reputation laundering through “impact” language.  
 - **Public capture** — when policy, research, or journalism become extensions of donor strategy.  
@@ -29,13 +29,13 @@ lobbying, corporate capture, public domain, policy laundering, think tanks, dono
 ---
 
 ## 🏮 Footer  
-*💸 Money Listens* is a living node of the **Polaris Protocol**.  
+*Money Listens* is a living node of the **Polaris Protocol**.  
 It documents how wealth redefines the boundaries of public speech and state accountability.  
 
 > 📡 Cross-references:  
-> - [🌀 System Governance](../🌀_System_Governance/) — economic and bureaucratic control logic  
+> - [🌀 Systems & Governance](../🌀_System_Governance/) — economic and bureaucratic control logic  
 > - [📺 Money Talks Media](../📺_Money_Talks_Media/) — donor capture in news and comms ecosystems  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_  
+_Last updated: 2025-10-13_  
