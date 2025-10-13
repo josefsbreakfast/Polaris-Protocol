@@ -1,5 +1,5 @@
 # 💷 Potential Tort Exposure  
-**First created:** 2025-09-07 | **Last updated:** 2025-10-12  
+**First created:** 2025-09-07 | **Last updated:** 2025-10-13  
 *A forward-looking ledger: what happens when tort liability, Equality Act breaches, and damages are added on top of sunk surveillance + Polaris costs.*  
 
 ---
@@ -131,4 +131,4 @@ It projects the civil liability that stacks on top of sunk surveillance and repu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-13_
