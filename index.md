@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 18:52:38 UTC_
+_Generated on 2025-10-13 18:55:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -86,7 +86,6 @@ _Generated on 2025-10-13 18:52:38 UTC_
       - [`⚖️_redress_models_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_redress_models_and_limits.md)
       - [`⚖️_registered_professions_impact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_registered_professions_impact.md)
       - [`⚖️_shadow_governance_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_shadow_governance_timeline.md)
-      - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_slapps_uk_global_palestine.md)
       - [`⚖️_small_bureaucrats_catch22.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_small_bureaucrats_catch22.md)
       - [`⚖️_soft_law_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_soft_law_governance.md)
       - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)
@@ -628,6 +627,7 @@ _Generated on 2025-10-13 18:52:38 UTC_
           - [`killed-in-gaza.min.json`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/killed-in-gaza.min.json)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md)
+      - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/⚖️_slapps_uk_global_palestine.md)
       - [`🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md)
       - [`🌐_suppression_of_holocaust_testimony_online.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
       - [`🧠_cognitive_dissonance.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🧠_cognitive_dissonance.md)
