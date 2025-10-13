@@ -1,10 +1,10 @@
 # 🚀 Arms Transparency  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-13  
 *On the performative language of transparency in the arms trade — where disclosure becomes its own camouflage.*
 
 ---
 
-## 🧩 Overview  
+## 🛰️ Overview  
 
 The global arms economy claims “transparency” as proof of accountability — yet most mechanisms of openness are **spectacle rather than sight**.  
 Public reports, export registers, and parliamentary briefings operate as **ritual disclosure**, ensuring that the machinery of procurement and surveillance remains visible only in outline.  
@@ -13,7 +13,7 @@ Transparency here is not light; it is **a beam carefully angled to blind**.
 
 ---
 
-## 🧠 The Other Function of Transparency  
+## 👻 The Other Function of Transparency  
 
 Historically, transparency has had **social dividends** beyond disclosure.  
 During the Cold War, televised visibility — from space missions to defence research — generated genuine morale and collective investment.  
@@ -34,7 +34,7 @@ It no longer extends the social lifespan of the industry through accountability;
 
 ---
 
-## 🪫 Mechanics of Obscurity  
+## 🌩️ Mechanics of Obscurity  
 
 | Mechanism | Description | Function |
 |------------|--------------|-----------|
@@ -47,7 +47,7 @@ Each of these mechanisms creates **noise-as-transparency** — a data deluge wit
 
 ---
 
-## 🛰️ Narrative Capture  
+## 🪼 Narrative Capture  
 
 Defence journalism, public tenders, and summit briefings are **broadcast theatres** designed to circulate only the *acceptable* form of scrutiny.  
 War becomes narrated through **investment logic** — “security sector resilience,” “supply chain independence,” “regional stability.”  
@@ -67,7 +67,7 @@ The effect: **the more data, the less consequence.**
 
 ---
 
-## 🧭 Counter-Reading  
+## 🐦‍🔥 Counter-Reading  
 
 To read an arms-transparency statement properly is to:  
 1. Note what *cannot* be searched.  
@@ -92,14 +92,14 @@ arms trade, transparency, defence industry, lobbying, procurement, offsets, thin
 
 ## 🏮 Footer  
 
-*🚀 Arms Transparency* is a living node of the **Polaris Protocol**, within the **💸 Money Listens** cluster.  
+*Arms Transparency* is a living node of the **Polaris Protocol**, within the **💸 Money Listens** cluster.  
 It examines how the rhetoric of openness in the arms sector conceals material pipelines of power, and how earlier models of public visibility once stabilised rather than obscured collective trust.  
 
-> 📡 Cross-references:  
-> - [🎽 Think Tanks, Surveillance, and Conferencing](./🎽_think_tanks_surveillance_and_conferencing.md) — how influence circuits perform legitimacy  
-> - [🪬 Radicalisation Extremism](../../🪬_Radicalisation_Extremism/) — overlaps with security narrative laundering  
-> - [🎛️ Survivor Voice Fidelity](../../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — ensure fidelity to survivor tone and forensic clarity  
+> 📡 Cross-references:
+> 
+> - [🎽 Think Tanks, Surveillance, and Conferencing](./🎽_think_tanks_surveillance_and_conferencing.md) — *how influence circuits perform legitimacy*  
+> - [🪬 Radicalisation & Extremism](../../🪬_Radicalisation_Extremism/README.md) — *overlaps with security narrative laundering*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-13_
