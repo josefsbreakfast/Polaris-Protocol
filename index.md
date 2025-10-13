@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 17:45:25 UTC_
+_Generated on 2025-10-13 17:48:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -107,7 +107,6 @@ _Generated on 2025-10-13 17:45:25 UTC_
       - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💰_who_benefits_from_cover_up.md)
       - [`💷_procurement_culture_and_departmental_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_and_departmental_clashes.md)
       - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_dept_clashes.md)
-      - [`💷_survivor_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_survivor_costing_estimate.md)
       - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💸_repression_cost_capital.md)
       - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📁_absence_of_check_in.md)
       - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_kpi_vs_okr_in_government.md)
@@ -376,6 +375,7 @@ _Generated on 2025-10-13 17:45:25 UTC_
         - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)
         - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/💷_polaris_costing_estimate.md)
         - [`💷_potential_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/💷_potential_tort_exposure.md)
+        - [`💷_survivor_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md)
         - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
         - [`🚀_arms_transparency.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🚀_arms_transparency.md)
       - [**🚀_Dual_Use_Dualities/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/)
