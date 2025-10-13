@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 17:19:58 UTC_
+_Generated on 2025-10-13 17:21:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -373,6 +373,7 @@ _Generated on 2025-10-13 17:19:58 UTC_
       - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
         - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)
+        - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
         - [`🚀_arms_transparency.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🚀_arms_transparency.md)
       - [**🚀_Dual_Use_Dualities/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/README.md)
@@ -386,7 +387,6 @@ _Generated on 2025-10-13 17:19:58 UTC_
       - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
       - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/defacto_uk_hsip.png)
       - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/spv_dataflow_redacted.png)
-      - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
       - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
