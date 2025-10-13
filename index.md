@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 18:22:11 UTC_
+_Generated on 2025-10-13 18:28:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -116,7 +116,6 @@ _Generated on 2025-10-13 18:22:11 UTC_
       - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md)
       - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
-      - [`📻_voice_cloning_and_radio_command_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📻_voice_cloning_and_radio_command_integrity.md)
       - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🔬_lost_checks_and_balances.md)
       - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
@@ -613,6 +612,7 @@ _Generated on 2025-10-13 18:22:11 UTC_
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
       - [`📲_dopamine_grooming_and_self_regulation.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📲_dopamine_grooming_and_self_regulation.md)
       - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
+      - [`📻_voice_cloning_and_radio_command_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📻_voice_cloning_and_radio_command_integrity.md)
       - [`🕸️_tenant_countermoves_in_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🕸️_tenant_countermoves_in_covert_surveillance_abuse.md)
       - [`🛫_frequent_flyers_club.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🛫_frequent_flyers_club.md)
       - [`🛰️_overlapping_surveillance_layers.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🛰️_overlapping_surveillance_layers.md)
