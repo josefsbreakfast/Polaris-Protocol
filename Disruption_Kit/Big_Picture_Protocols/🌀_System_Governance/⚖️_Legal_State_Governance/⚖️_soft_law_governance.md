@@ -1,5 +1,5 @@
 # ⚖️ Soft Law Governance  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-13  
 *Guidance, codes of practice, and memoranda that act as law without oversight or consent.*
 
 ---
@@ -51,9 +51,9 @@ It documents how unofficial rules and unpublished guidance create systems of con
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](./README.md)  
+> - [🌀 System Governance](../README.md)  
 > - [⚖️ Judicial Deference](./⚖️_judicial_deference.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-13_
