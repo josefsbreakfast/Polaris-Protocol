@@ -1,17 +1,17 @@
 # 📚 Over Recognition  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-30  
-*PR exercises and listening sessions that absorb critique but never act — recognition as containment*  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-13  
+*PR exercises and listening sessions that absorb critique but never act — recognition as containment.*  
 
 ---
 
-## 🌐 Summary  
+## ✨ Summary  
 
 Over recognition is when institutions appear to listen, acknowledge, or celebrate voices — but use that recognition as a **buffer against change**.  
 It is not silence. It is the opposite: too much listening, with no structural shift.  
 
 ---
 
-## 🧩 Mechanisms  
+## 🛰️ Mechanisms  
 
 - **PR spotlighting** → survivors invited to panels, focus groups, photo ops, but decisions remain unchanged.  
 - **Listening sessions as sedation** → consultation is endless; action deferred.  
@@ -21,7 +21,7 @@ It is not silence. It is the opposite: too much listening, with no structural sh
 
 ---
 
-## 📡 Survivor Effects  
+## 🧨 Survivor Effects  
 
 - Emotional whiplash: being seen but not acted upon.  
 - Exhaustion from repeated retelling with no repair.  
@@ -30,7 +30,7 @@ It is not silence. It is the opposite: too much listening, with no structural sh
 
 ---
 
-## 🧭 Diagnostic Cues  
+## 🧿 Diagnostic Cues  
 
 - High visibility of survivor stories in institutional PR without parallel reform.  
 - Multiple “listening exercises” with no published outcome.  
@@ -53,15 +53,15 @@ over recognition, tokenisation, PR containment, listening sessions, critique abs
 
 ## 🏮 Footer  
 
-*📚 Over Recognition* is a living node of the Polaris Protocol.  
+*Over Recognition* is a living node of the Polaris Protocol.  
 It documents how institutions weaponise listening and acknowledgment as forms of containment, substituting symbolic recognition for material change.  
 
 > 📡 Cross-references:
 > 
 > [🧠 Value of the Outlier](../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_value_of_the_outlier.md) - *How anomaly detection escalates surveillance value and how authorship reclaims sovereignty*  
 > [🧪 Adversary Playbook: Twinning Outliers](../../../👻_Apparitional_Objects/Fork_Taxonomy/🧪_adversary_playbook_twinning_outliers.md) - *This note describes how an adversary would identify and pair (“twin”) outlier individuals so that their testimonies neutralise each other*  
-> [🎥 Anomaly Incentives in Surveillance](./🎥_anomaly_incentives_in_surveillance.md) - *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*  
+> [🎥 Anomaly Incentives in Surveillance](../🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md) - *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_
+_Last updated: 2025-10-13_
