@@ -67,7 +67,7 @@ It frames the rationale, scope, and model for a formal inquiry into evidential w
 > 
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
 > - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md)  
-> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
+> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
