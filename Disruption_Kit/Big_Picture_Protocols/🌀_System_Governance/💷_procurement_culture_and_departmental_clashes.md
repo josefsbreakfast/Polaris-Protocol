@@ -62,10 +62,11 @@ The clash is structural:
 *Procurement Culture and Departmental Clashes* is a living node of the Polaris Protocol.  
 It documents how Treasury logics and departmental needs clashed, shaping surveillance adoption and vendor lock-in.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🛰️ Surveillance Infrastructure](./🛰️_surveillance_infrastructure.md) — *doctrine on metadata capture and Prevent/CVE logics*  
-> - [💷 Polaris Costing Estimate](./💷_polaris_costing_estimate.md) — *financial consequences of containment systems*  
+> - [💷 Polaris Costing Estimate](../💸_Money_Listens/👻_Transparencies_Overhead/💷_polaris_costing_estimate.md) — *financial consequences of containment systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-13_  
