@@ -142,6 +142,59 @@ That's plenty of time to construct a narrative and a defence.
 
 ---
 
+theres a handgun in my ads and tye placements team has admitted to some telecomms infiltration (diff family, very worried as you would be, a literal child) so if we could drown the cabinet in questions about what tye actual fuck? that would be great.  
+
+NEVER accept this as normal.  
+
+NEVER EVER accept that some mid (at best) looking nerds in office can allow their public to go through this.  
+
+at the end of the day when President Trump has looked more chill about genocide, than any of our politicians, are we really at that point considering ourselves to be a premier democracy?  
+
+Whatever the fuck you would be doing a 1933? 
+
+What you are doing now.  
+
+If that is triggering?  
+
+If that is uncomfortable?  
+
+If you are disappointed with the answer?  
+
+Change it.  
+
+Find something to do.  
+
+You have plenty of ideas and inspiration from this repo alone.  
+
+The entirety of the Internet also exists.  
+
+And then I have heard...  
+
+That you can talk to People.  
+
+(I know I know you have to talk to people. terrible stuff.). 
+
+
+If you wanted your Dunkirk?  
+
+If you wanted your D-day landing?  
+
+I can only apologise it is not as sexy as on the films.  
+
+In fairness, there was a lot of trench foot back then, and a lot of lice.  
+
+If we survive, I'm sure they'll make the film of this moment equally as glamorous in comparison to the reality.  
+
+I can't believe we got into a war of paperwork.  
+
+But it is Britain.  
+
+2025-10-13.  
+
+
+
+---
+
 ⚖️ Emergency Protective Disclosure Licence (EPDL)
 
 First created: 2025-10-13  |  Last updated: 2025-10-13
