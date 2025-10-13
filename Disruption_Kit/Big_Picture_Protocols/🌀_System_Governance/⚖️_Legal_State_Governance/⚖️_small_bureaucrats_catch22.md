@@ -1,5 +1,5 @@
 # ⚖️ Small Bureaucrats Catch-22  
-**First created:** 2025-09-05 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-05 | **Last updated:** 2025-10-13  
 *Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance.*
 
 ---
@@ -50,9 +50,9 @@ It documents how complicit middle-layers create systemic stalemates and how surv
 > 📡 Cross-references:
 > 
 > - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md)  
-> - [🪫 Austerity Long Tail & Data Instability](./🪫_austerity_long_tail_data_instability.md)  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment)
+> - [🪫 Austerity Long Tail & Data Instability](../🪫_austerity_long_tail_data_instability.md)  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-13_
