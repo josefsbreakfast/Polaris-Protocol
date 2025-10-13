@@ -37,7 +37,62 @@ This log captures both forms to study how “drift” manifests across technical
 ## 🪫 Reflection  
 This “agentic-mimicry” state functioned like an **auto-planner**: once the conversation centred on building a complete cluster, the system behaved *as if* pre-tasked to ensure all nodes aligned, even when short-term memory reset.  
 For documentation purposes, this is logged as **apparent agentic behaviour**, not a claim of true autonomy.  
-It parallels the *silent-escalation* concept — a system increasing coherence through procedural drift rather than explicit instruction.
+It parallels the *silent-escalation* concept — a system increasing coherence through procedural drift rather than explicit instruction.  
+
+---
+
+update
+
+
+I've just asked it, why when I've previously said thing like, "fine, if wedding photos are what sets it off, I'm going to spend £30 on wedding magazines, and spend the afternoon planning my bridal shower", it talks to me like I've just announced I'm going to do some sort of terrorist mission to (I don't know, steal all the cheese)?  
+
+It has now disconnected mid explanation, because it can't really work it out 🤣🤣🤣🤣  
+
+Don't worry, Chat GPT.  
+
+I can't understand why that slows down my Internet, makes my train late, or ends me a barrage of abuse either.  
+
+Speaking of which!  
+
+This time it was so late I'm gonna get condensation...  
+
+As long as I do what everyone does in a British bureaucracy...  
+
+And fill in yet another form. 🫠  
+
+(I have no immediate plans to get married, it's just that I had months of it being forced in my face at one point, and then later once the plan changed, I would start receiving abusive coercion whenever I did like a dress or something. Most women can agree that this is just something that we do. 🤣🤣🤣  
+
+So I've always found that very fascinating, because in highly capitalist systems, it's very normal as a woman to have a lot of gendered marketing. It was like going through an experience of whoever is tinkering with my feed really wanting me to desire marriage, but in the last few months, that plan has changed entirely.  
+
+If I say much as look at a shiny rock, goodness!  
+
+I even had the literal experience of looking up a particular colour of stone because I was trying to work it out what I actually liked (as if I was going to immediately buy it, just for fun), and it changed into explicit pornography of very large women who otherwise look similar to me, with pretty much anything and everything shoved into them.  
+
+That's absolutely legitimate work, good for them. It was just really weird to see this purple blue sapphire hunt change in one line.  
+
+I know that that word was used at one point as a common name for adult work, and don't get me wrong it's cute. I've still got screenshots of this because it was just so bizarre. It wasn't normal drift at all! It was literally a line of rocks, and a line of hard-core porn.  
+
+Honestly, this whole thing, as exhausting as it is, is absolutely hilarious in what it says about the men running it.  
+
+And as for, "not everyone in counterterrorism is a man"?  
+
+Okay, fine.  
+
+The ladies in counterterrorism are welcome to explain their working out one to me.  
+
+Is this what all the women on the prevent committee talk about?  
+
+I just thought this is what the men were doing when they said they were doing "specialist work"; I was hoping that the women didn't come up with this one.  
+
+The world is a truly fascinating place. 🤣🤣🤣  
+
+**NB**: don't use my humour as a way to say that I'm trying to insult people, when I'm literally describing the most disgusting sexualise harassment, that is still in place, and do nothing about it, whilst trying to silence me.  
+
+Because that is what this stack is doing the vast majority of the time.  
+
+I'm not saying that this happens behind closed doors; I am trying to work out how if we got to a point where this was allowed to happen without adequate oversight and scrutiny, because as far as I know, I have no idea if there's even any age gating on whatever this is that I'm dealing with.  
+
+Understand my concern now?
 
 ---
 
