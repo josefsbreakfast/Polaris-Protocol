@@ -67,7 +67,7 @@ It maps how the infrastructures of influence — research funding, conferences, 
 > 📡 Cross-references:
 > 
 > - [💸 Money Listens](../README.md) — *core folder on lobbying, corporate capture, and narrative finance*  
-> - [🪬 Radicalisation_Extremism](../../🪬_Radicalisation_Extremism/README.md) — *for overlaps with policy laundering under security rhetoric*  
+> - [🪬 Radicalisation & Extremism](../../🪬_Radicalisation_Extremism/README.md) — *for overlaps with policy laundering under security rhetoric*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
