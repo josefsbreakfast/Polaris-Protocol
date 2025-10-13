@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 17:22:18 UTC_
+_Generated on 2025-10-13 17:25:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -387,7 +387,6 @@ _Generated on 2025-10-13 17:22:18 UTC_
       - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
       - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/defacto_uk_hsip.png)
       - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/spv_dataflow_redacted.png)
-      - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🛡_state_behavioural_arms_uk_quick_reference.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
       - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
@@ -586,6 +585,7 @@ _Generated on 2025-10-13 17:22:18 UTC_
       - [`💞_ethics_of_nudging_vs_desire.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)
       - [`📜_ethics_as_language_trap.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/📜_ethics_as_language_trap.md)
       - [`🕸️_safeguarding_obedience_division.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🕸️_safeguarding_obedience_division.md)
+      - [`🛡_state_behavioural_arms_uk_quick_reference.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🛡_state_behavioural_arms_uk_quick_reference.md)
       - [`🛰️_forked_code_ghost_voice_API_risks.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🛰️_forked_code_ghost_voice_API_risks.md)
       - [`🛰️_hypothetical_nudge_map_redacted_2025-09-20.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🛰️_hypothetical_nudge_map_redacted_2025-09-20.md)
       - [`🥄_deserving_poor_containment.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🥄_deserving_poor_containment.md)
