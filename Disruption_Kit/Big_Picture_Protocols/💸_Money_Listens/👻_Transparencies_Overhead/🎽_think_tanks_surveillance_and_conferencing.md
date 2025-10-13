@@ -1,10 +1,10 @@
 # 🎽 Think Tanks, Surveillance, and Conferencing  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-13  
 *How influence networks and conference circuits act as surveillance architecture disguised as policy dialogue.*
 
 ---
 
-## 🧠 Overview  
+## 🛰️ Overview  
 
 Think tanks, academic institutes, and policy summits operate as **listening devices** within the modern lobbying ecosystem.  
 What appears as *deliberation* is often **signal capture** — harvesting narratives, alignments, and dissent to refine donor strategy.  
@@ -37,7 +37,7 @@ Hybrid events (Zoom panels, livestreams, “off-the-record” dinners) now funct
 
 ---
 
-## 🧩 Think-Tank Laundering  
+## 🧠 Think-Tank Laundering  
 
 Influence rarely moves through overt lobbying alone.  
 It moves through **donations labelled as research**, **endowed chairs**, **strategic fellowships**, and **conference series** that define what counts as “reasonable debate.”  
@@ -61,14 +61,14 @@ think tanks, lobbying, philanthropy, surveillance, conferences, policy capture, 
 
 ## 🏮 Footer  
 
-*🎽 Think Tanks, Surveillance, and Conferencing* is a living node of the **Polaris Protocol**, within the **💸 Money Listens** cluster.  
+*Think Tanks, Surveillance, and Conferencing* is a living node of the **Polaris Protocol**, within the **💸 Money Listens** cluster.  
 It maps how the infrastructures of influence — research funding, conferences, panels — double as surveillance networks and narrative filters.  
 
-> 📡 Cross-references:  
-> - [💸 Money Listens](../) — core folder on lobbying, corporate capture, and narrative finance  
-> - [🪬 Radicalisation_Extremism](../../🪬_Radicalisation_Extremism/) — for overlaps with policy laundering under security rhetoric  
-> - [🎛️ Survivor Voice Fidelity](../../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — to maintain undertone integrity  
+> 📡 Cross-references:
+> 
+> - [💸 Money Listens](../README.md) — *core folder on lobbying, corporate capture, and narrative finance*  
+> - [🪬 Radicalisation_Extremism](../../🪬_Radicalisation_Extremism/README.md) — *for overlaps with policy laundering under security rhetoric*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-13_
