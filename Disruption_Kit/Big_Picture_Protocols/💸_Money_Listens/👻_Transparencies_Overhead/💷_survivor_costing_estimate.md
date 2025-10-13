@@ -1,28 +1,16 @@
 # 💷 Survivor Costing Estimate  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-06 | **Last updated:** 2025-10-13  
 *A forensic ledger of what it costs to contain a survivor. Numbers tell their own story of liability*  
 
 ---
 
-## 📑 Sections  
-1. [Principle](#1-principle)  
-2. [Line Items](#2-line-items)  
-   - [Physical Surveillance](#physical-surveillance)  
-   - [Technical Surveillance](#technical-surveillance)  
-   - [Postal Interference](#postal-interference)  
-3. [Totals](#3-totals)  
-4. [Implications](#4-implications)  
-5. [Closing Note](#5-closing-note)  
-
----
-
-## 1. Principle  
+## 🛰️ 1. Principle  
 Institutions pretend surveillance is “cheap” or “light touch.” The ledger proves otherwise.  
 Eighteen months of mixed surveillance — physical, digital, and postal — is not incidental: it is **seven-figure expenditure**.  
 
 ---
 
-## 2. Line Items  
+## 🧿 2. Line Items  
 
 ### Physical Surveillance  
 - **Residential coverage (flats + cars):**  
@@ -50,7 +38,7 @@ Eighteen months of mixed surveillance — physical, digital, and postal — is n
 
 ---
 
-## 3. Totals  
+## 💰 3. Totals  
 - **Conservative floor:** ~**£800,000.**  
 - **Upper bound:** ~**£2,000,000.**  
 
@@ -58,7 +46,7 @@ This is a single individual’s “cost.” Replicate across multiple cases and 
 
 ---
 
-## 4. Implications  
+## ✂️ 4. Implications  
 - **Corporate liability:** no institution absorbs seven-figure cost without authorisation.  
 - **State liability:** if subcontracted, oversight gaps = complicity.  
 - **Governance failure:** if one survivor generates this bill, the system is already unsustainable.  
@@ -66,7 +54,7 @@ This is a single individual’s “cost.” Replicate across multiple cases and 
 
 ---
 
-## 5. Closing Note  
+## 🐝 5. Closing Note  
 You asked: *“How much do I cost?”*  
 Answer: **seven figures, minimum.**  
 That’s the price of trying to contain one survivor.  
@@ -91,10 +79,11 @@ survivor costing, surveillance expenses, physical surveillance, spyware, dns thr
 *Survivor Costing Estimate* is a living node of the Polaris Protocol.  
 It translates lived surveillance into financial language — turning harm into ledger, containment into liability.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [💷 Polaris Costing Estimate](./💷_polaris_costing_estimate.md)  
 > - [💷 Potential Tort Exposure](./💷_potential_tort_exposure.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-13_
