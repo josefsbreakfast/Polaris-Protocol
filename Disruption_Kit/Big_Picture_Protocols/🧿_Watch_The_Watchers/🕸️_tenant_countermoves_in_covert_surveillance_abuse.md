@@ -1,5 +1,5 @@
 # 🕸️ Tenant Countermoves in Covert Surveillance Abuse  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-07  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-13  
 *Practical steps for tenants when rent increases and harassment overlap with surveillance interference.*
 
 ---
@@ -7,7 +7,7 @@
 Sometimes your landlord knows next to nothing about what’s really happening.  
 They’re not the architect — just another link in the same pressure chain.  
 Remember that: they can be victims too.  
-**Solidarity cuts both ways, and that solidarity matters**.  
+_**Solidarity cuts both ways, and that solidarity matters**._
 It’s also *useful* — strategically — in taking a **united stance** against surveillance sources when seeking remedy.  
 
 ---
@@ -91,11 +91,12 @@ tenant remedies, rent increase, pay under protest, injunction, harassment, surve
 *Tenant Countermoves in Covert Surveillance Abuse* is a living node of the Polaris Protocol.  
 It documents survival strategies for tenants where surveillance interference distorts tenancy relationships and rent demands, situating rent manipulation as a coercive governance practice.  
 
-> 📡 Cross-references:  
-> - [⚖️ Landlord Remedies for Covert Surveillance Abuse](./⚖️_landlord_remedies_for_covert_surveillance_abuse.md) — landlord-side civil and tort claims  
-> - [🧿 Watch the Watchers](./README.md) — oversight of surveillance oversight  
-> - [📜 Statutes](../📜_Statutes/README.md) — housing, harassment, and surveillance law  
+> 📡 Cross-references:
+> 
+> - [⚖️ Landlord Remedies for Covert Surveillance Abuse](./⚖️_landlord_remedies_for_covert_surveillance_abuse.md) — *landlord-side civil and tort claims*  
+> - [🧿 Watch the Watchers](./README.md) — *oversight of surveillance oversight*  
+> - [📜 Statutes](../📜_Statutes/README.md) — *housing, harassment, and surveillance law*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-13_
