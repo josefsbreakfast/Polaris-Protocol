@@ -83,7 +83,6 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 - [🛰️ Vendor Lock-In](🛰️_vendor_lock_in.md) — *Procurement inertia as governance.*  
 - [💷 Procurement Culture & Departmental Clashes](💷_procurement_culture_and_departmental_clashes.md) — *Contract culture vs turf wars.*  
 - [💷 Procurement Culture — Dept Clashes (alt.)](💷_procurement_culture_dept_clashes.md) — *Duplicate/variant title; consolidate later.*  
-- [💷 Survivor Costing Estimate](💷_survivor_costing_estimate.md) — *Labour and life costs of suppression.*  
 - [💸 Repression Cost of Capital](💸_repression_cost_capital.md) — *Finance logics sustaining suppression.*  
 - [📊 KPI vs OKR in Government](📊_kpi_vs_okr_in_government.md) — *Metrics as weapons.*  
 - [📊 Scale of Effects Estimate](📊_scale_of_effects_estimate.md) — *Rough orders of magnitude.*  
@@ -96,7 +95,6 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 - [📚 Over-Recognition](📚_over_recognition.md) — *PR “listening” without action.*  
 - [🕸️ Clone Friendly Architecture](🕸️_clone_friendly_architecture.md) — *Replication incentives.*  
 - [🕸️ Web of Resilience](🕸️_web_of_resilience.md) — *Decentralised survival strategies stitched into systems.*  
-- [🎥 Anomaly Incentives in Surveillance](🎥_anomaly_incentives_in_surveillance.md) — *When weirdness is profitable.*  
 - [👁️ Panopticon as Industry](👁️_panopticon_as_industry.md) — *Marketised watchfulness.*  
 - [🚨 Superinjunctions & SLAPPs in Rape Cases](🚨_superinjunctions_slapps_rape_cases.md) — *Suppression architecture in sensitive cases.*  
 
@@ -116,7 +114,6 @@ It maps the architecture of containment — from algorithmic nudges to surveilla
 - [🧪 Failure Recycling](🧪_failure_recycling.md) — *Rebranded broken models.*  
 - [🧪 Pilot Containments](🧪_pilot_containments.md) — *Testing suppression at small scale.*  
 - [🧪 Shadow Sandboxes](🧪_shadow_sandboxes.md) — *Experimentation without oversight.*  
-- [🎊 Multi-Party Data Twinning](🎊_multi_party_data_twinning.md) — *Entanglement as feature.*  
 - [📁 Absence of Check-In](📁_absence_of_check_in.md) — *Withheld contact as soft control.*  
 - [🪞 The Illusion of Choice](🪞_the_illusion_of_choice.md) — *Options multiply, agency vanishes.*  
 - [🪫 Austerity Long-Tail Data Instability](🪫_austerity_long_tail_data_instability.md) — *Cuts producing fragile systems.*  
