@@ -1,16 +1,15 @@
 # 🛂 Gated Intake, Post Delay, and Regional Loop Containment  
-
-**First created:** 2025-08-07 | **Last updated:** 2025-09-29  
-*How intake gating, artificial delays, and regional loops isolate citizens and suppress escalation*  
+**First created:** 2025-08-07 | **Last updated:** 2025-10-13  
+*How intake gating, artificial delays, and regional loops isolate citizens and suppress escalation.*  
 
 ---
 
-## ✨ Scope  
+## 🛰️ Scope  
 This node documents how **intake gating**, **artificial post delays**, and **regional loop containment** work together to isolate a citizen, suppress support, and create false perceptions of disinterest during harassment or systemic containment.  
 
 ---
 
-## 🛰️ Definitions  
+## ✨ Definitions  
 
 - **Gated Intake** → incoming comms are intercepted, reviewed, and selectively released.  
 - **Artificial Post Delay** → intentional hold before delivery, breaking real-time exchange.  
@@ -99,11 +98,12 @@ gated intake, post delay, regional loop containment, inbox flatline, burst patte
 *Gated Intake, Post Delay, and Regional Loop Containment* is a living node of the Polaris Protocol.  
 It documents how communication gating, artificial delays, and regional loops work together to suppress escalation and isolate survivors from support.  
 
-> 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md)  
-> - [📚 Forensic Silence](./📚_forensic_silence.md)  
-> - [⚖️ Soft Law Governance](./⚖️_soft_law_governance.md)  
+> 📡 Cross-references:
+> 
+> - [⚖️ Containment Contract Trace](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)  
+> - [📚 Forensic Silence](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)  
+> - [⚖️ Soft Law Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_soft_law_governance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-13_  
