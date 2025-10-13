@@ -1,5 +1,5 @@
 # ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2025-10-11  
+**First created:** 2025-08-07 | **Last updated:** 2025-10-13  
 *Unconsented containment, metadata silencing, and covert NDAs.*
 
 ---
@@ -98,10 +98,10 @@ It documents unconsented containment mechanisms that simulate NDA effects and st
 
 > 📡 Cross-references:
 > 
-> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
-> - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
+> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
+> - [🩹 Patch Repair Governance](../🩹_patch_repair_governance.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-13_
