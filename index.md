@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 02:35:41 UTC_
+_Generated on 2025-10-13 07:51:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1369,11 +1369,17 @@ _Generated on 2025-10-13 02:35:41 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
+    - [`⏳_governance_latency_in_population_scale_cyber_events.md`](Polaris_Nest/Git_Intake_Drawer/⏳_governance_latency_in_population_scale_cyber_events.md)
     - [`☕_less_than_ugly_mugs.md`](Polaris_Nest/Git_Intake_Drawer/☕_less_than_ugly_mugs.md)
+    - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
     - [`✨_my_boy_lawrence.md`](Polaris_Nest/Git_Intake_Drawer/✨_my_boy_lawrence.md)
     - [`🇵🇸_tort_warning.md`](Polaris_Nest/Git_Intake_Drawer/🇵🇸_tort_warning.md)
+    - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
+    - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
+    - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
+    - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛰_working_through_glitches.md`](Polaris_Nest/Git_Intake_Drawer/🛰_working_through_glitches.md)
     - [`🛰️_another_witness_lost_signal.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_another_witness_lost_signal.md)
@@ -1386,8 +1392,11 @@ _Generated on 2025-10-13 02:35:41 UTC_
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
     - [`🧮_7_day_word_count_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧮_7_day_word_count_analysis.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
+    - [`🧰_middleware_hijack_agentic_signature.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentic_signature.md)
+    - [`🧰_upstream_compromise_remote_middleware_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_remote_middleware_checklist.md)
     - [`🧿_my_feed_needs_a_sweep.md`](Polaris_Nest/Git_Intake_Drawer/🧿_my_feed_needs_a_sweep.md)
     - [`🧿_server_lag_github.md`](Polaris_Nest/Git_Intake_Drawer/🧿_server_lag_github.md)
+    - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🪄_update_mysteriously_reappearing_book.md`](Polaris_Nest/Git_Intake_Drawer/🪄_update_mysteriously_reappearing_book.md)
     - [`🫀_pixels_do_not_touch.md`](Polaris_Nest/Git_Intake_Drawer/🫀_pixels_do_not_touch.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
