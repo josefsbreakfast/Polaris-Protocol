@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 17:28:10 UTC_
+_Generated on 2025-10-13 17:28:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -372,6 +372,7 @@ _Generated on 2025-10-13 17:28:10 UTC_
         - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
       - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
+        - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
         - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/spv_dataflow_redacted.png)
         - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)
         - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
@@ -386,7 +387,6 @@ _Generated on 2025-10-13 17:28:10 UTC_
         - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
       - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/data_misuse_continuum_flowchart.png)
-      - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/defacto_uk_hsip.png)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
       - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
