@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 14:54:53 UTC_
+_Generated on 2025-10-13 17:14:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -370,6 +370,8 @@ _Generated on 2025-10-13 14:54:53 UTC_
         - [`📜_charity_regime_reform.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/📜_charity_regime_reform.md)
         - [`🦾_invest_appropriately.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/🦾_invest_appropriately.md)
         - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
+      - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
       - [**🚀_Dual_Use_Dualities/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/README.md)
         - [`🍯_honeybot_dual_use_thought_experiment.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md)
