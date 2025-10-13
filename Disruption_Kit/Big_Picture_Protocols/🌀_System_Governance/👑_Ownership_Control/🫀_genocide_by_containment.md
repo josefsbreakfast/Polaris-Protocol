@@ -1,5 +1,5 @@
 # 🫀 Genocide by Containment  
-**First created:** 2025-09-03  |  **Last updated:** 2025-10-12  
+**First created:** 2025-09-03  |  **Last updated:** 2025-10-13  
 *How bureaucratic disposal mechanisms escalate into genocidal practice.*
 
 ---
@@ -79,11 +79,11 @@ It documents how ordinary bureaucratic systems — housing, surveillance, counte
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](../🌀_System_Governance/README.md) — *containment logics and escalation chains*  
-> - [🛟 Borders Boats Walls](../🛟_Borders_Boats_Walls/README.md) — *asylum and maritime control systems*  
-> - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
-> - [🐦‍🔥 Trauma Psychology Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *survivor health impacts of bureaucratic harm*  
+> - [🌀 System Governance](../../🌀_System_Governance/README.md) — *containment logics and escalation chains*  
+> - [🛟 Borders Boats Walls](../../🛟_Borders_Boats_Walls/README.md) — *asylum and maritime control systems*  
+> - [🧿 Watch the Watchers](../../🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
+> - [🐦‍🔥 Trauma Psychology Medical Misuse](../../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *survivor health impacts of bureaucratic harm*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-13_
