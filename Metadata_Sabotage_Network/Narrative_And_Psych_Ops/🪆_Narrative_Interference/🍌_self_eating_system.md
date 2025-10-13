@@ -175,7 +175,7 @@ It traces how authenticity, durability, and cultural aliveness are stripped and 
 > 
 > - [🪆 Narrative Interference](./README.md) — *parent cluster on narrative suppression and recycling*  
 > - [📚 Narrative Management and Metadata Sabotage](./📚_narrative_management_and_metadata_sabotage.md) — *wider strategies of cultural containment*  
-> - [🎊 Multi-Party Data Twinning](../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md) — *on vendor logics and composite datasets*  
+> - [🎊 Multi-Party Data Twinning](../../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md) — *on vendor logics and composite datasets*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
