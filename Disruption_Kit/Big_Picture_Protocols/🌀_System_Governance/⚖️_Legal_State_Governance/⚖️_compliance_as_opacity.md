@@ -15,7 +15,7 @@ This node unpacks the mechanics of that fog, the harms it produces, and a set of
 
 ---
 
-## 🥸 1 — What “compliance as opacity” looks like  
+## 🥸 What “compliance as opacity” looks like  
 - **Interventions without witnesses**: platforms flip switches, devices ghost behaviours, pipelines reroute your life — and no notice ever lands.  
 - **Secrecy as default**: rule manifests, explainability packets, decision logs are locked away under the banner of “security.”  
 - **Plausible deniability as script**: officials can say “no record we can share” even while the machinery has already marked and moved you.  
@@ -24,7 +24,7 @@ This node unpacks the mechanics of that fog, the harms it produces, and a set of
 
 ---
 
-## 🧨 2 — Why this is especially risky in UK CVE practice  
+## 🧨 Why this is especially risky in UK CVE practice  
 - **Wide legal escape hatches**: “national security” and special derogations act as blank cheques, letting controllers withhold evidence and operate under shadow rules.  
 - **Institutional speed-over-sense**: departments prize fast optics — flip the switch now, validate later — because being seen to act matters more than getting it right.  
 - **Contractor & supply-chain black boxes**: third-party vendors slip past scrutiny, hiding what code runs, what data trained it, and what ghosts it carries.  
@@ -32,7 +32,7 @@ This node unpacks the mechanics of that fog, the harms it produces, and a set of
 
 ---
 
-## ☕️🐂 3 — Typical harm patterns  
+## ☕️🐂 Typical harm patterns  
 - **Gaslighting as method**: the system denies what it just did. Victims are left asking if they imagined the blow.  
 - **Misclassification-as-containment**: grief, protest, or dissent is stuffed into the “extremism” box — punished instead of heard.  
 - **Collateral repression**: whole communities chilled, not for violence but for refusing state violence.  
@@ -41,7 +41,7 @@ This node unpacks the mechanics of that fog, the harms it produces, and a set of
 
 ---
 
-## 🧿 4 — Practical governance remedies (prioritised)  
+## 🧿 Practical governance remedies   
 1. **Transparency manifests, on the table** — if you deploy a CVE tool, publish its skeleton. No hidden switches.  
 2. **Explainability on demand** — the bare minimum is still a right. If you ghost-tweak my life, I get to see the log.  
 3. **Shadow runs before human harm** — synthetic tests, adversarial red-teams, sandbox logs. Prove it works before you turn it on us.  
