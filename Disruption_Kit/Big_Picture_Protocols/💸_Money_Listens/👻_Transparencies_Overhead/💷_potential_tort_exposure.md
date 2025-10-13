@@ -4,17 +4,6 @@
 
 ---
 
-## 🛰️ Sections  
-1. [Principle](#1-principle)  
-2. [Candidate Torts](#2-candidate-torts)  
-3. [Damages Framework](#3-damages-framework)  
-4. [Equality Act Exposure](#4-equality-act-exposure)  
-5. [Multiplication Across Survivors](#5-multiplication-across-survivors)  
-6. [Totals & Implications](#6-totals--implications)  
-7. [Closing Note](#7-closing-note)  
-
----
-
 ## 🔥 1. Principle  
 Surveillance campaigns already sink millions.  
 Once tort claims and Equality Act breaches are added, exposure grows exponentially.  
