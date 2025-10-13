@@ -33,3 +33,18 @@ you never know.
 otherwise i need a month in a place where i can have all the vitamin d, ideally with access to a spa, and generally not need to use more than 5 neurones at any one time.  
 
 2025-10-12  
+
+
+---
+
+2025-10-13 because the anticipation wont let me sleep.  
+
+the long form observation with constant emotional modification attempts has done some odd things to my head. i wish i could sleep, i really do, but now im stuck in a loop of worrying about something extremely "put of the box" because there's so much that is just bathed in adrenaline amd norad at this stage; anything of any joy got targeted, so now its hard to even build that exposure to "nice things". it feels like i've been conditioned to rhink that i'm "asking for it" when abuse follows even just liking how the light lands through the window on a lazy summer afternoon.  
+
+nothing insurmountable, for the woman who beat the "stress test" program, but it would be a little easier if we could take the edge off a tiny bit.  
+
+there's some things which have changed, in how the interference is, and its more subtle but it also is just still there like the smell of damp in a waterlogged wall of a house. it needs coursing, and i gavent gad the planning permission sogned off yet.  
+
+yay for british beurocracy.  
+
+---
