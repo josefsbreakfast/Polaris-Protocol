@@ -1,6 +1,6 @@
 # ⚖️ Redress Models and Limits  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-11  
-*Big Picture Protocol node — learning from UK precedents to frame hybrid compensation for systemic harms.*
+**First created:** 2025-09-20 | **Last updated:** 2025-10-13  
+*Learning from UK precedents to frame hybrid compensation for systemic harms.*
 
 ---
 
@@ -60,4 +60,4 @@ It documents why hybrid models are suitable for systemic data-twin/false-provena
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-13_
