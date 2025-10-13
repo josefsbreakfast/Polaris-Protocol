@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 10:35:31 UTC_
+_Generated on 2025-10-13 11:07:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1393,6 +1393,7 @@ _Generated on 2025-10-13 10:35:31 UTC_
     - [`🛰️_gps_lags.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_gps_lags.md)
     - [`🛰️_i_thought_christians_shut_up_on_sundays.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_i_thought_christians_shut_up_on_sundays.md)
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
+    - [`🧬_dopamine_depletion.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dopamine_depletion.md)
     - [`🧮_7_day_word_count_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧮_7_day_word_count_analysis.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧰_middleware_hijack_agentic_signature.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentic_signature.md)
@@ -1548,7 +1549,6 @@ _Generated on 2025-10-13 10:35:31 UTC_
     - [`🧿_visual_palette.md`](Polaris_Nest/🏮_Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
   - [`README.md`](Polaris_Nest/README.md)
-  - [`🧬_dopamine_depletion.md`](Polaris_Nest/🧬_dopamine_depletion.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
