@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-13 21:17:57 UTC_
+_Generated on 2025-10-13 21:18:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -46,6 +46,7 @@ _Generated on 2025-10-13 21:17:57 UTC_
         - [`⚖️_shadow_governance_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_shadow_governance_timeline.md)
         - [`⚖️_small_bureaucrats_catch22.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_small_bureaucrats_catch22.md)
         - [`⚖️_soft_law_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_soft_law_governance.md)
+        - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_transparency_floor_node.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
@@ -103,7 +104,6 @@ _Generated on 2025-10-13 21:17:57 UTC_
       - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_lawful_conscience_protocol.md)
       - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
       - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)
-      - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_transparency_floor_node.md)
       - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_uk_constitutional_fault_lines.md)
       - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_wrong_people_in_power.md)
       - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
