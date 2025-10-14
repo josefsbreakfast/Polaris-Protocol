@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 14:00:48 UTC_
+_Generated on 2025-10-14 14:01:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -54,6 +54,7 @@ _Generated on 2025-10-14 14:00:48 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
+        - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
         - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md)
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
@@ -157,7 +158,6 @@ _Generated on 2025-10-14 14:00:48 UTC_
       - [`⚖️_containment_and_cutthrough_in_the_legal_profession.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_and_cutthrough_in_the_legal_profession.md)
       - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_lawful_conscience_protocol.md)
       - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)
-      - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
