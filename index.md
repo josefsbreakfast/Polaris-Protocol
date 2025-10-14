@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 12:44:17 UTC_
+_Generated on 2025-10-14 12:45:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -56,6 +56,7 @@ _Generated on 2025-10-14 12:44:17 UTC_
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
         - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
+        - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
@@ -108,7 +109,6 @@ _Generated on 2025-10-14 12:44:17 UTC_
       - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)
       - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
       - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/❓_override_question_as_silence_breaker.md)
-      - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_ambiguity_as_containment.md)
       - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_managed_transition_vs_revolution.md)
       - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_parallel_channels.md)
       - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_prototype_surveillance_as_investor_pitch.md)
