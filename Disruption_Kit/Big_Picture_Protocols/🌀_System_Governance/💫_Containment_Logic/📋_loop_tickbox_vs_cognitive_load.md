@@ -1,5 +1,5 @@
 # 📋 Tickbox vs Cognitive Load  
-**First created:** 2025-09-24 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-24 | **Last updated:** 2025-10-14  
 *A feedback loop between institutional minimalism and survivor exhaustion.*
 
 ---
@@ -27,11 +27,11 @@ It diagrams a self-reinforcing loop where institutional minimalism (tick-box cul
 
 > 📡 Cross-references:
 > 
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - 
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - 
 *Polaris Protocol doctrine node — behavioural science repurposed as state containment*  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) - *How “compliance”, secrecy, and CVE practice in the UK create plausible deniability, gaslighting, and governance failure — with remedies*  
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) - *How “compliance”, secrecy, and CVE practice in the UK create plausible deniability, gaslighting, and governance failure — with remedies*  
 > - [📋 Tick-Box Compliance as Containment](./📋_tick_box_compliance_as_containment.md) - *Institutional minimalism that simulates accountability while erasing systemic responsibility*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-14_
