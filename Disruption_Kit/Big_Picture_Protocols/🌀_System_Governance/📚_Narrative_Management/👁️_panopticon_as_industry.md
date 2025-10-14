@@ -1,5 +1,5 @@
 # 👁️ Panopticon as Industry  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-12  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-14  
 *How surveillance architecture moved from Bentham’s prison to modern containment economies.*  
 
 ---
@@ -56,9 +56,9 @@ It tracks how surveillance design became a template for governance, exported int
 
 > 📡 Cross-references:
 > 
-> - [📦 Containment as Industry](../🛟_Borders_Boats_Walls/📦_containment_as_industry.md)  
-> - [✝️ Protestant Work Ethic as Containment](../🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)  
+> - [📦 Containment as Industry](../../🛟_Borders_Boats_Walls/📦_containment_as_industry.md)  
+> - [✝️ Protestant Work Ethic as Containment](../../🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-14_
