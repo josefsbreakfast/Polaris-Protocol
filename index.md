@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 11:45:15 UTC_
+_Generated on 2025-10-14 12:43:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -55,6 +55,7 @@ _Generated on 2025-10-14 11:45:15 UTC_
         - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md)
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
+        - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
@@ -104,7 +105,6 @@ _Generated on 2025-10-14 11:45:15 UTC_
       - [`⚖️_autonomy_vs_containment_dial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_autonomy_vs_containment_dial.md)
       - [`⚖️_containment_and_cutthrough_in_the_legal_profession.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_and_cutthrough_in_the_legal_profession.md)
       - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_lawful_conscience_protocol.md)
-      - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
       - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)
       - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
       - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/❓_override_question_as_silence_breaker.md)
