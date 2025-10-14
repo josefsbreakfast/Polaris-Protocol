@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 00:35:21 UTC_
+_Generated on 2025-10-14 00:48:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -619,6 +619,7 @@ _Generated on 2025-10-14 00:35:21 UTC_
       - [`⚖️_containment_as_threshold_crime.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_containment_as_threshold_crime.md)
       - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
       - [`🎥_anomaly_incentives_in_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md)
+      - [`🎶_chant_restrictions_as_metadata_control.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md)
       - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
       - [`📲_dopamine_grooming_and_self_regulation.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📲_dopamine_grooming_and_self_regulation.md)
       - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
