@@ -1,5 +1,5 @@
 # 🕸️ Clone Friendly Architecture  
-**First created:** 2025-08-07 | **Last updated:** 2025-10-13  
+**First created:** 2025-08-07 | **Last updated:** 2025-10-14  
 *Environments optimised for AI clone deployment, persistence, and deniability.*  
 
 ---
@@ -68,10 +68,10 @@ It maps environments where AI-driven replication is embedded into institutions a
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md)  
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)  
 > - [🎊 Multi-Party Data Twinning](../💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md)  
 > - [📚 Forensic Silence](./📚_forensic_silence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_  
+_Last updated: 2025-10-14_  
