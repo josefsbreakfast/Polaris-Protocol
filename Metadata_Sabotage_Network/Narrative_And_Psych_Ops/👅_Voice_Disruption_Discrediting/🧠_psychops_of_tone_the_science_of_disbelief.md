@@ -1,5 +1,5 @@
 # 🧠 Psych-Ops of Tone — The Science of Disbelief  
-**First created:** 2025-10-14 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-14  
 *How tonal engineering converts survivor testimony into data noise.*
 
 ---
