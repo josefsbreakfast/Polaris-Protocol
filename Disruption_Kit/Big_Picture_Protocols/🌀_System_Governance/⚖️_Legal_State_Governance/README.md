@@ -31,9 +31,9 @@ Together they describe a networked architecture: the procedural face of control.
 - **Matriarchy as Requirement** — care infrastructures as structural counterweight  
 - **Fault Lines & Shadows** — tracing fractures in constitutional convention
 
----
+---  
 
-## 💫 Thematic Clusters
+## 🗺️🫡 Where are the nodes?: A Map  
 
 ```mermaid
 graph TD
