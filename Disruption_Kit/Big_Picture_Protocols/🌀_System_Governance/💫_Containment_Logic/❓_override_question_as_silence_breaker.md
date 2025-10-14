@@ -1,5 +1,5 @@
 # ❓ Override Question as Silence Breaker  
-**First created:** 2025-09-23 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-14  
 *Professional overrides as both a safeguard and a diagnostic signal of systemic silence.*
 
 ---
@@ -77,9 +77,9 @@ It situates professional override as both a safeguard and a probe for forensic s
 
 > 📡 Cross-references:
 > 
-> - [📚 Forensic Silence](./📚_forensic_silence.md) - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*  
+> - [📚 Forensic Silence](../📚_forensic_silence.md) - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*  
 > - [🧠 Intuition as Skill](../🌱_Human_Principles/🧠_intuition_as_skill.md) - *Type 1 recognition as a trainable, bounded skill — from safeguarding overrides to psychic theatre*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-14_
