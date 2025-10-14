@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 14:13:02 UTC_
+_Generated on 2025-10-14 14:13:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -144,6 +144,7 @@ _Generated on 2025-10-14 14:13:02 UTC_
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/README.md)
+        - [`frankenstack_faceplate.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/frankenstack_faceplate.png)
         - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🌀_rune_the_dev.png)
         - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/📁_absence_of_check_in.md)
         - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
@@ -157,7 +158,6 @@ _Generated on 2025-10-14 14:13:02 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/bottleneck_mapping_log_template.csv)
       - [`frankenstack_bad_sandwich_black.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/frankenstack_bad_sandwich_black.png)
-      - [`frankenstack_faceplate.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/frankenstack_faceplate.png)
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
