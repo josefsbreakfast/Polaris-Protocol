@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 14:11:34 UTC_
+_Generated on 2025-10-14 14:12:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -102,6 +102,7 @@ _Generated on 2025-10-14 14:11:34 UTC_
         - [`🪑_committee_red.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/🪑_committee_red.md)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
+        - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
         - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_prototype_surveillance_as_investor_pitch.md)
         - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
         - [`🌦️_hope_for_the_best_expect_the_worst.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌦️_hope_for_the_best_expect_the_worst.md)
@@ -157,7 +158,6 @@ _Generated on 2025-10-14 14:11:34 UTC_
       - [`frankenstack_bad_sandwich_black.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/frankenstack_bad_sandwich_black.png)
       - [`frankenstack_faceplate.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/frankenstack_faceplate.png)
       - [`panic_deleting_evidence.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/panic_deleting_evidence.png)
-      - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/reverse_colonisation_metadata_law_procurement_timeline.png)
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
