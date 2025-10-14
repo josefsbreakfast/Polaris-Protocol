@@ -1,5 +1,5 @@
 # 🦯 Algorithmic Delay and Pacing  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-12  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-14  
 *How governance manipulates tempo — slowing translations, stretching timelines, throttling urgency until action dies.*  
 
 ---
@@ -107,10 +107,10 @@ It documents how containment scripts manipulate time itself — slowing, stretch
 
 > 📡 Cross-references:
 > 
-> - [🌀 System_Governance](./README.md) — *parent cluster of governance diagnostics*  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *delay as compliance theatre*  
-> - [🛰️ Throttling Chokepoints (26 August 2025)](../../Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md) — *field log evidence*  
+> - [🌀 Systems &_Governance](../README.md) — *parent cluster of governance diagnostics*  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *delay as compliance theatre*  
+> - [🛰️ Throttling Chokepoints (26 August 2025)](../../../Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md) — *field log evidence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_  
+_Last updated: 2025-10-14_  
