@@ -95,7 +95,7 @@ It documents how silence itself becomes probative evidence of suppression.
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems &_Governance](../README.md) — *parent cluster of governance diagnostics*  
+> - [🌀 Systems & Governance](../README.md) — *parent cluster of governance diagnostics*  
 > - [❓ Override Question as Silence Breaker](../💫_Containment_Logic/❓_override_question_as_silence_breaker.md) — *intuition in safeguarding systems*  
 > - [🧠 Intuition as Skill](../../🌱_Human_Principles/🧠_intuition_as_skill.md) — *recognising Type 1 as skill*  
 > - [㊙ Containment Contracts](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md) — *NDA and gag structures enforcing silence*  
