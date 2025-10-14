@@ -1,5 +1,5 @@
 # ⚖️ Autonomy vs Containment Dial  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-11  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-14  
 *On the structural tension between openness, security, and exploitability in governance systems.*
 
 ---
@@ -63,15 +63,15 @@ governance, autonomy, containment, democracy, cybersecurity, information systems
 
 ## 🏮 Footer  
 
-*⚖️ Autonomy vs Containment Dial* is a living node of the Polaris Protocol.  
+*Autonomy vs Containment Dial* is a living node of the Polaris Protocol.  
 It examines how systemic architectures oscillate between openness and control, and how those oscillations shape both resilience and vulnerability.  
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](./README.md) — frameworks and models of control vs autonomy  
-> - [🪞 The Illusion of Choice](./🪞_the_illusion_of_choice.md) — democratic containment under market freedom  
-> - [🛡️ Exploitability and Defensive Strategy](./🛡️_exploitability_and_defensive_strategy.md) — adaptive security logic under open systems  
+> - [🌀 System Governance](../README.md) — *frameworks and models of control vs autonomy*  
+> - [🪞 The Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.mdd) — *democratic containment under market freedom*  
+> - [🛡️ Exploitability and Defensive Strategy](../🛰️_Infrastructure_Procurement/🕸️_exploitability_and_defensive_strategy.md) — *adaptive security logic under open systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-14_
