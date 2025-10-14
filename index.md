@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 13:45:12 UTC_
+_Generated on 2025-10-14 13:48:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -66,6 +66,7 @@ _Generated on 2025-10-14 13:45:12 UTC_
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦯_algorithmic_delay_and_pacing.md)
         - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_didnt_apply_brain_loop.md)
+        - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_patch_repair_governance.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
@@ -154,7 +155,6 @@ _Generated on 2025-10-14 13:45:12 UTC_
       - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
       - [`🛡️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_exploitability_and_defensive_strategy.md)
       - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦤_bird_law_uk_edition.md)
-      - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md)
       - [`🪖_SAS_special_forces_and_complaints.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪖_SAS_special_forces_and_complaints.md)
       - [`🪖_overlap_accountability_and_why_we_cannot_recruit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪖_overlap_accountability_and_why_we_cannot_recruit.md)
       - [`🫁_oxygen_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫁_oxygen_and_oversight.md)
