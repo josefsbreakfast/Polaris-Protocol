@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 12:54:42 UTC_
+_Generated on 2025-10-14 12:55:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -65,6 +65,7 @@ _Generated on 2025-10-14 12:54:42 UTC_
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦯_algorithmic_delay_and_pacing.md)
+        - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_didnt_apply_brain_loop.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
@@ -144,7 +145,6 @@ _Generated on 2025-10-14 12:54:42 UTC_
       - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_vendor_lock_in.md)
       - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦤_bird_law_uk_edition.md)
       - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)
-      - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_didnt_apply_brain_loop.md)
       - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_the_dev.md)
       - [`🧨_crisis_actor_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧨_crisis_actor_dynamics.md)
       - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_failure_recycling.md)
