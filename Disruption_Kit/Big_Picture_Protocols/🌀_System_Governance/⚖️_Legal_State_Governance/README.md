@@ -106,7 +106,7 @@ graph TD
   click BL href "./🦤_bird_law_uk_edition.md" "Open node"
 ```
 
-*Alt text: a four-column map showing the Legal & State Governance cluster split into: (1) Authorisation & Oversight, (2) Containment/Procurement Mechanics, (3) Externalisation/Constitutional Drift, (4) Counter-logics & Humour; each box links to its markdown.*  
+_Alt text: a four-column map showing the Legal & State Governance cluster split into: (1) Authorisation & Oversight, (2) Containment/Procurement Mechanics, (3) Externalisation/Constitutional Drift, (4) Counter-logics & Humour; each box links to its markdown._  
 
 ---
 
