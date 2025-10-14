@@ -1,5 +1,5 @@
 # 🧾 Due Diligence & Operational Capacity in Policing  
-**First created:** 2025-10-11  |  **Last updated:** 2025-10-12  
+**First created:** 2025-10-11  |  **Last updated:** 2025-10-14  
 *Why statutory safeguards depend on time, culture, and courage more than paperwork.*
 
 ---
@@ -74,4 +74,4 @@ It documents how formal safeguards rely on everyday professional diligence, show
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-14_
