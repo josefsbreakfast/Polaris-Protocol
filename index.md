@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 13:57:05 UTC_
+_Generated on 2025-10-14 13:58:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -94,6 +94,7 @@ _Generated on 2025-10-14 13:57:05 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
         - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_prototype_surveillance_as_investor_pitch.md)
         - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
+        - [`🌦️_hope_for_the_best_expect_the_worst.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌦️_hope_for_the_best_expect_the_worst.md)
         - [`💷_procurement_culture_and_departmental_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💷_procurement_culture_and_departmental_clashes.md)
         - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💷_procurement_culture_dept_clashes.md)
         - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💸_repression_cost_capital.md)
@@ -154,7 +155,6 @@ _Generated on 2025-10-14 13:57:05 UTC_
       - [`⚖️_containment_and_cutthrough_in_the_legal_profession.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_and_cutthrough_in_the_legal_profession.md)
       - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_lawful_conscience_protocol.md)
       - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)
-      - [`🌦️_hope_for_the_best_expect_the_worst.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌦️_hope_for_the_best_expect_the_worst.md)
       - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
       - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦤_bird_law_uk_edition.md)
       - [`🫁_oxygen_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫁_oxygen_and_oversight.md)
