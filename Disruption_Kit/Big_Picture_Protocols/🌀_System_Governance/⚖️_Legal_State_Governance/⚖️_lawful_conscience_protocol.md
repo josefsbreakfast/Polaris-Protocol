@@ -1,10 +1,10 @@
 # ⚖️ Lawful Conscience Protocol  
-**First created:** 2025-10-12 | **Last updated:** 2025-10-12  
-*When secrecy becomes duress, conscience becomes jurisdiction.*
+**First created:** 2025-10-12 | **Last updated:** 2025-10-14  
+*When secrecy becomes duress, conscience becomes jurisdiction.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node defines the moment at which lawful conscience overtakes coerced obedience.  
 It translates Section 17 of the *Victims and Prisoners Act 2024*, the *Genocide Convention 1948*, and the *Official Secrets Act 1989* into a single legal-moral proposition:  
@@ -77,10 +77,10 @@ it restores mutual respect to the marriage between Parliament and the Services.
 
 > 📡 Cross-references:
 > 
-> – [⚖️ Two-Way Seal](./⚖️_two_way_seal.md) — reciprocity and the wax of secrecy  
-> – [📜 Arms Exports as Act of Aggression](./📜_arms_exports_as_act_of_aggression.md) — complicity and export control  
-> – [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/) — oversight recursion and accountability  
+> – [⚖️ Two-Way Seal](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md) — *reciprocity and the wax of secrecy*  
+> – [📜 Arms Exports as Act of Aggression](../../📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md) — *complicity and export control*  
+> – [🧿 Watch the Watchers](../../🧿_Watch_The_Watchers/README.md) — *oversight recursion and accountability*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-14_
