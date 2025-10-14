@@ -1,5 +1,5 @@
 # 🕸️ Web of Resilience  
-**First created:** 2025-09-03 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-03 | **Last updated:** 2025-10-14  
 *Unified field manual for countering insurgency-style information operations across micro, communal, and systemic levels.*  
 
 ---
@@ -172,7 +172,7 @@ These strands converged after repeated **field observations**:
 - Groups fragmenting under impersonation and narrative laundering.  
 - Infrastructure showing fragility at ISP chokepoints and cloud outages.  
 
-Historically, resilience discourse has often been weaponised — used to excuse austerity or demand endurance under harm (see [🧨 Resilience as Suppression Rhetoric](../../Containment_Scripts/Suppression_Modes/🧨_resilience_as_suppression_rhetoric.md). This manual reclaims the term, grounding it in survivor practice and systemic diagnostics.  
+Historically, resilience discourse has often been weaponised — used to excuse austerity or demand endurance under harm (see [🧨 Resilience as Suppression Rhetoric](../../../Containment_Scripts/Suppression_Modes/🧨_resilience_as_suppression_rhetoric.md). This manual reclaims the term, grounding it in survivor practice and systemic diagnostics.  
 
 Resilience has long been a **religious and imperial problem**: endurance of pain was sanctified as virtue, then co-opted to compel labour and obedience from populations deemed expendable. This power dynamic has endured for centuries. Yet alongside it runs a **counter-history of refusal** — the oral traditions, survival stories, and quiet practices of communities who resisted being reduced to suffering.  
 
@@ -216,10 +216,10 @@ web of resilience, insurgency information operations, nervous system survival, c
 It fuses two-layer and three-tier approaches into a unified manual for navigating insurgency-style information terrains, combining nervous-system survival, communal cohesion, and systemic resilience.  
 
 > 📡 Cross-references:  
-> - [🏮 AntiContainment Clauses](../../AntiContainment_Clauses/README.md) - *Clauses and syntax designed to resist flattening, ghosting, and enforced silence*
-> - [🌱 Human Principles](../🌱_Human_Principles/README.md) - *Foundational survivor axioms — counterfacts to the idea that humans can be processed like code*
-> - [🧿 Watch The Watchers](../🧿_Watch_The_Watchers/README.md) - *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*
+> - [🏮 AntiContainment Clauses](../../../AntiContainment_Clauses/README.md) - *Clauses and syntax designed to resist flattening, ghosting, and enforced silence*
+> - [🌱 Human Principles](../../🌱_Human_Principles/README.md) - *Foundational survivor axioms — counterfacts to the idea that humans can be processed like code*
+> - [🧿 Watch The Watchers](../../🧿_Watch_The_Watchers/README.md) - *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_  
+_Last updated: 2025-10-14_  
