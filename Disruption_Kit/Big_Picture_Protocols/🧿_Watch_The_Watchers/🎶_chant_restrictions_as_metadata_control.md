@@ -1,17 +1,17 @@
 # 🎶 Chant Restrictions as Metadata Control  
 **First created:** 2025-10-14 | **Last updated:** 2025-10-14  
-*Rhetorical elasticity and moral inversion in UK protest policing*  
+*Rhetorical elasticity and moral inversion in UK protest policing.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 When UK ministers or police spokespeople invoke *“other powers,”* they name the unspoken: **discretionary containment**.  
 The phrase marks the hinge where democratic procedure liquefies into moral policing.  
 It’s what allows a state to promise freedom of speech while pre-authorising its own exceptions.  
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Elastic zone** — vague enough to absorb any behaviour deemed inconvenient.  
 - **Slippery-slope actualised** — critical-thinking cliché becomes operational policy.  
 - **Racialised discretion** — Arabic language and Muslim identity coded as risk vectors.  
@@ -20,7 +20,7 @@ It’s what allows a state to promise freedom of speech while pre-authorising it
 
 ---
 
-## 🔍 Analysis  
+## 🧨 Analysis  
 
 ### **1.  “Other Powers” as the Invisible Containment Zone**  
 The elastic phrase covers a web of statutes: *Public Order 1986*, *Terrorism 2000*, “non-crime hate incident” guidance.  
@@ -42,7 +42,7 @@ This is metadata liberalism: the **appearance of freedom, index-ranked by compli
 
 ---
 
-## **Deference Politics and the Fragility Script**  
+## 🧿 Deference Politics and the Fragility Script  
 The state’s choreography of fragility requires populations coded as either **too delicate to hear dissent** or **too dangerous to be trusted with it**.  
 This isn’t protection; it’s **deference politics**—care as cover.  
 
@@ -59,14 +59,14 @@ It replaces equality with managed vulnerability and justice with optics—an **a
 
 ---
 
-## **Moral Inversion and the Bar in Hell**  
+## 🥃 Moral Inversion and The Bar In Hell  
 When a million march against genocide and the government debates which chants are legal, that’s not democracy—it’s **necropolitics dressed as etiquette**.  
 International courts have already defined state complicity; “free-speech balance” is a distraction from law.  
 Using freedom to regulate resistance is the sickness of empire pretending to heal.  
 
 ---
 
-## **Pre-Genocide Atmosphere — Britain’s Racial Mirror**  
+## 🩸 Pre-Genocide Atmosphere — Britain’s Racial Mirror  
 We are in the pre-atrocity phase of an empire that never disarmed.  
 1930s Germany cast German Jews as carriers of “decadence”; 2020s Britain casts British Muslims as carriers of “radicalisation.”  
 Both fuse **masculinity with menace** and **assimilation with virtue**.  
@@ -84,7 +84,7 @@ It is the **Cassandra condition**: recognition too early for belief.
 
 ---
 
-## **The Vulnerability Loop**  
+## ➰ The Vulnerability Loop  
 Britain’s need to memorialise the Holocaust through the lens of fragility has created a feedback loop.  
 By insisting that Jews must remain symbols of vulnerability, the nation maintains a safe distance from both past and present violence.  
 
@@ -120,15 +120,15 @@ chant restrictions, other powers, elastic democracy, deference politics, fragili
 *Chant Restrictions as Metadata Control* is a living node of the Polaris Protocol.  
 It documents how rhetorical vagueness and vulnerability coding liquefy democratic speech boundaries into behavioural containment.  
 
-> 📡 **Cross-references:**
+> 📡 Cross-references:
 > 
-> – [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/🈺_Governance_And_Prevent/README.md)  
+> – [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
 > – [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md)  
 > – [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/README.md)  
 > – [🧿 Watch the Watchers](./README.md)  
-> – [🩸 The Repetition Mechanism](../🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) — continuation of the pre-genocide recursion logic  
-> – [🧠 Utilisation of Vulnerability](../🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — how state systems instrumentalise perceived fragility  
-> – [🫥 Presumption as Erasure](../../Survivor_Tools/🫥_presumption_as_erasure.md) — individual-scale analogue of vulnerability-coding and disappearance logic  
+> – [🩸 The Repetition Mechanism](../🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) — *continuation of the pre-genocide recursion logic*  
+> – [🧠 Utilisation of Vulnerability](../🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — *how state systems instrumentalise perceived fragility*  
+> – [🫥 Presumption as Erasure](../../Survivor_Tools/🫥_presumption_as_erasure.md) — *individual-scale analogue of vulnerability-coding and disappearance logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
