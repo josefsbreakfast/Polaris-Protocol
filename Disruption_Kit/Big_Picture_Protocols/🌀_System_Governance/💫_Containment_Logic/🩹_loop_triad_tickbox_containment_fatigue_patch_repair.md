@@ -1,5 +1,5 @@
 # 🩹 Triad — Tickbox, Containment Fatigue & Patch Repair  
-**First created:** 2025-09-25 | **Last updated:** 2025-10-12  
+**First created:** 2025-09-25 | **Last updated:** 2025-10-14  
 *A containment cycle where minimalism breeds strain, exposing rot patched with further minimalism.*
 
 ---
@@ -30,8 +30,8 @@ It visualises how bare-minimum compliance leads to containment fatigue, exposing
 > 
 > - [📋 Tickbox vs Cognitive Load](./📋_loop_tickbox_vs_cognitive_load.md) - *A feedback loop between institutional minimalism and survivor exhaustion*
 > - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md) - *Containment systems as stitched patchwork — holes covered until pressure elsewhere forces old rot to reopen*  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) - *Unconsented containment, metadata silencing, and covert NDAs*
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) - *Unconsented containment, metadata silencing, and covert NDAs*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-14_
