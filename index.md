@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 13:36:32 UTC_
+_Generated on 2025-10-14 13:36:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -94,6 +94,7 @@ _Generated on 2025-10-14 13:36:32 UTC_
         - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💸_repression_cost_capital.md)
         - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_kpi_vs_okr_in_government.md)
         - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_scale_of_effects_estimate.md)
+        - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_ai_middleware.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
         - [`☕️_biscuit_press_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
         - [`☕️_press_release_001.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_001.md)
@@ -146,7 +147,6 @@ _Generated on 2025-10-14 13:36:32 UTC_
       - [`🌦️_hope_for_the_best_expect_the_worst.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌦️_hope_for_the_best_expect_the_worst.md)
       - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
       - [`🛡️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_exploitability_and_defensive_strategy.md)
-      - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_ai_middleware.md)
       - [`🛰️_data_fusion_centres.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_data_fusion_centres.md)
       - [`🛰️_microsoft_partial_cut_israel_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_microsoft_partial_cut_israel_surveillance.md)
       - [`🛰️_post_9_11_surveillance_industry_legacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_post_9_11_surveillance_industry_legacy.md)
