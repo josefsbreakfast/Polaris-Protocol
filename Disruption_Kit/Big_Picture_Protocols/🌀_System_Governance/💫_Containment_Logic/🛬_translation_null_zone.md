@@ -1,5 +1,4 @@
 # 🛬 Translation Null Zone  
-
 **First created:** 2025-08-09 | **Last updated:** 2025-10-14  
 *Language registers that evade machine translation and create camouflage zones.*  
 
