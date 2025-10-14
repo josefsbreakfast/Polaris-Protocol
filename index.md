@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 12:53:00 UTC_
+_Generated on 2025-10-14 12:53:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -63,6 +63,7 @@ _Generated on 2025-10-14 12:53:00 UTC_
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
+        - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
@@ -133,7 +134,6 @@ _Generated on 2025-10-14 12:53:00 UTC_
       - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md)
       - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md)
       - [`🛡️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_exploitability_and_defensive_strategy.md)
-      - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛬_translation_null_zone.md)
       - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_ai_middleware.md)
       - [`🛰️_data_fusion_centres.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_data_fusion_centres.md)
       - [`🛰️_microsoft_partial_cut_israel_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_microsoft_partial_cut_israel_surveillance.md)
