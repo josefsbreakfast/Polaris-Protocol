@@ -58,7 +58,7 @@ It documents how institutions weaponise listening and acknowledgment as forms of
 
 > 📡 Cross-references:
 > 
-> [🧠 Value of the Outlier](../../🐦‍🔥_Trauma_Psycology_Medical_Misuse/🧠_value_of_the_outlier.md) - *How anomaly detection escalates surveillance value and how authorship reclaims sovereignty*  
+> [🧠 Value of the Outlier](../../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_value_of_the_outlier.md) - *How anomaly detection escalates surveillance value and how authorship reclaims sovereignty*  
 > [🧪 Adversary Playbook: Twinning Outliers](../../../../👻_Apparitional_Objects/Fork_Taxonomy/🧪_adversary_playbook_twinning_outliers.md) - *This note describes how an adversary would identify and pair (“twin”) outlier individuals so that their testimonies neutralise each other*  
 > [🎥 Anomaly Incentives in Surveillance](../../🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md) - *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*  
 
