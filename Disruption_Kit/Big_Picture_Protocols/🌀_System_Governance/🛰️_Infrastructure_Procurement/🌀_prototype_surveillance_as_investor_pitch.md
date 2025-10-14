@@ -1,12 +1,12 @@
 # 🌀 Prototype Surveillance as Investor Pitch  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-14  
 *Hypothesis node: surveillance programme framed as commercial pilot for investor-ready product rather than purely national-interest intelligence.*
 
 ---
 
 ## 📜 Premise  
 
-Field observations (see [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md) indicate a pattern consistent with a **prototype commercial run**.  
+Field observations (see [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../../../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md) indicate a pattern consistent with a **prototype commercial run**.  
 
 This node outlines the hypothesised structure and logic.
 
@@ -52,9 +52,9 @@ It explores how observed containment tactics might align with investor-driven pr
 
 > 📡 Cross-references:
 > 
-> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
-> - [🌀 System Governance](./README.md)
+> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../../../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
+> - [🌀 System Governance](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-14_
