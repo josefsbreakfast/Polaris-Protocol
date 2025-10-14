@@ -1,5 +1,5 @@
 # 📋 Tick-Box Compliance as Containment  
-**First created:** 2025-09-25 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-25 | **Last updated:** 2025-10-14  
 *Institutional minimalism that simulates accountability while erasing systemic responsibility.*  
 
 ---
@@ -50,10 +50,10 @@ It documents how institutional minimalism transforms compliance into a tool of s
 
 > 📡 Cross-references:
 > 
-> - [😴 Cognitive Load as Infrastructure](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md) - *Containment systems that exploit trust in baseline functioning while inducing fatigue through micro-distortions*    
-> - [📚 Crisis Theatre](./📚_crisis_theatre.md) - *The emergency as stagecraft: when crises are staged, exaggerated, or selectively framed to authorise powers already waiting in the wings*  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) - *Unconsented containment, metadata silencing, and covert NDAs*  
+> - [😴 Cognitive Load as Infrastructure](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md) - *Containment systems that exploit trust in baseline functioning while inducing fatigue through micro-distortions*    
+> - [📚 Crisis Theatre](../📚_crisis_theatre.md) - *The emergency as stagecraft: when crises are staged, exaggerated, or selectively framed to authorise powers already waiting in the wings*  
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) - *Unconsented containment, metadata silencing, and covert NDAs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-14_
