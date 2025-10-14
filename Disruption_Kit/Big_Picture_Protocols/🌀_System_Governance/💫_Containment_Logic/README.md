@@ -26,7 +26,7 @@ It examines how systems appear self-correcting but are, in practice, self-preser
 
 ---
 
-🛸 Included Nodes  
+## 🛸 Included Nodes  
 
 ### 🧮 Procedural Fog & Ambiguity  
 - [🌀 Ambiguity as Containment](./🌀_ambiguity_as_containment.md) — *fog as policy*  
@@ -58,7 +58,7 @@ It examines how systems appear self-correcting but are, in practice, self-preser
 
 ---
 
-## 🧭 Routing Notes  
+## 🚀 Routing Notes  
 
 If a node focuses on **procedural law or statutory architecture**, route to *[⚖️ Legal & State Governance](../⚖️_Legal_State_Governance/README.md)*.  
 If it explores **custody or remit collision**, route to *[👑 Ownership & Control](../👑_Ownership_Control/README.md)*.  
