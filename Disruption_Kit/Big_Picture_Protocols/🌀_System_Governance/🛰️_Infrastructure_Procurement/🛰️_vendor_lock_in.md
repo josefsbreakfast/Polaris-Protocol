@@ -1,10 +1,10 @@
 # 🛰️ Vendor Lock-In  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
-*Procurement inertia: once states buy a surveillance stack, governance logic bends to vendor terms*  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-14  
+*Procurement inertia: once states buy a surveillance stack, governance logic bends to vendor terms.*  
 
 ---
 
-## 🌐 Summary  
+## ✨ Summary  
 Vendor lock-in is not a technical glitch — it is a **structural feature** of government procurement.  
 Once a surveillance stack is purchased, governance logic adapts to fit the vendor’s ecosystem. Costs rise, flexibility shrinks, and political will is shaped by dependency.  
 
@@ -54,10 +54,11 @@ Once a surveillance stack is purchased, governance logic adapts to fit the vendo
 *Vendor Lock-In* is a living node of the Polaris Protocol.  
 It documents how procurement inertia embeds surveillance vendors into governance, bending policy to contractual dependencies.  
 
-> 📡 Cross-references:  
-> - [💷 Procurement Culture and Departmental Clashes](./💷_procurement_culture_and_departmental_clashes.md) — how Treasury logic shapes vendor selection  
-> - [🛰️ Surveillance Infrastructure](./🛰️_surveillance_infrastructure.md) — doctrine on metadata capture and Prevent/CVE logics  
+> 📡 Cross-references:
+> 
+> - [💷 Procurement Culture and Departmental Clashes](./💷_procurement_culture_and_departmental_clashes.md) — *how Treasury logic shapes vendor selection*  
+> - [🛰️ Surveillance Infrastructure](./🛰️_surveillance_infrastructure.md) — *doctrine on metadata capture and Prevent/CVE logics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-14_  
