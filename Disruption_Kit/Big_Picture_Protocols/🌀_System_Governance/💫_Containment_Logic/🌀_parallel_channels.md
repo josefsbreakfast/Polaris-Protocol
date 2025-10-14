@@ -1,5 +1,5 @@
 # 🌀 Parallel Channels  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-11  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-14  
 *Duplication of process where survivors are bounced between contradictory pathways — a containment treadmill.*
 
 ---
@@ -71,8 +71,8 @@ It maps how survivors are trapped in duplicated intake pathways that lead nowher
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](./)
+> - [🌀 Systems & Governance](../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-14_
