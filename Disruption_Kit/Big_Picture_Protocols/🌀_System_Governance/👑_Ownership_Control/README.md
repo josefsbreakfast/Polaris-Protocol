@@ -51,7 +51,7 @@ It interlocks with nearby clusters:
 
 ---
 
-## 💫 Thematic Clusters
+## 🗺️🫡 Where are the nodes?: A Map  
 
 A compact internal map showing how process-ownership questions cluster here.
 
