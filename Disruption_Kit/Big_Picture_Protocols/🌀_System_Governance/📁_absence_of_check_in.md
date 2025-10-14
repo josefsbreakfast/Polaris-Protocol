@@ -1,5 +1,5 @@
 # 📁 Dossier Note: Absence of Check-In  
-**First created:** 2025-08-18 | **Last updated:** 2025-10-13  
+**First created:** 2025-08-18 | **Last updated:** 2025-10-14  
 *Theoretical analysis of why survivor-led check-ins fail to occur within institutional projects.*  
 
 ---
@@ -61,9 +61,9 @@ It theorises how institutional protection mechanisms suppress survivor-led overs
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)  
-> - [📚 Forensic Silence](./📚_forensic_silence.md)  
+> - [⚖️ Authorisation and Oversight](../⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)  
+> - [📚 Forensic Silence](./📚_Narrative_Management/📚_forensic_silence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-14_
