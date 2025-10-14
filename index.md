@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 13:11:19 UTC_
+_Generated on 2025-10-14 13:11:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -112,6 +112,7 @@ _Generated on 2025-10-14 13:11:19 UTC_
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/README.md)
+        - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🌀_rune_the_dev.png)
         - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧠_the_dev.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/bottleneck_mapping_log_template.csv)
@@ -129,7 +130,6 @@ _Generated on 2025-10-14 13:11:19 UTC_
       - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
       - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_prototype_surveillance_as_investor_pitch.md)
       - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
-      - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌀_rune_the_dev.png)
       - [`🌦️_hope_for_the_best_expect_the_worst.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌦️_hope_for_the_best_expect_the_worst.md)
       - [`💷_procurement_culture_and_departmental_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_and_departmental_clashes.md)
       - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💷_procurement_culture_dept_clashes.md)
