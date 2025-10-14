@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 13:08:11 UTC_
+_Generated on 2025-10-14 13:08:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -75,6 +75,7 @@ _Generated on 2025-10-14 13:08:11 UTC_
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
         - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_clone_friendly_architecture.md)
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
+        - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
         - [`♟️_rise_of_the_npm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/♟️_rise_of_the_npm.md)
@@ -136,7 +137,6 @@ _Generated on 2025-10-14 13:08:11 UTC_
       - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_scale_of_effects_estimate.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
       - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
-      - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md)
       - [`🛡️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_exploitability_and_defensive_strategy.md)
       - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_ai_middleware.md)
       - [`🛰️_data_fusion_centres.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_data_fusion_centres.md)
