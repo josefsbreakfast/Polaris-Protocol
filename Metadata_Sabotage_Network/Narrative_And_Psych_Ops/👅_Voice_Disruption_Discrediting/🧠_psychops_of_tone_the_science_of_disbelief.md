@@ -1,41 +1,66 @@
-# 🧠 Psychops of Tone — The Science of Disbelief  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
-*How emotional expression is re-coded as unreliability.*
+# 🧠 Psych-Ops of Tone — The Science of Disbelief  
+**First created:** 2025-10-14 | **Last updated:** 2025-10-14  
+*How tonal engineering converts survivor testimony into data noise.*
 
 ---
 
-## 🧭 Orientation  
-Dissects the psychology of tone policing — how calmness, anger, or irony are reclassified as instability.  
-Shows how credibility is algorithmically weighted by vocal affect rather than content.
+## 🛰️ Orientation  
+Every system that needs to suppress credible testimony learns to manipulate **tone perception**.  
+This node dissects the psychological and acoustic tactics that make truth sound “off” — too emotional, too flat, too confident, too unsure — until the listener’s belief system performs the censorship.
 
 ---
 
-## 📑 Key Sections  
-1. Emotional Metrics and Gendered Calibration  
-2. The Tone Trap: Too Angry / Too Flat  
-3. AI Sentiment Analysis and Bias  
-4. Counter-Tone Strategies: Staying Human  
+## ✨ Key Features  
+- **Affective Sabotage:** algorithms and moderators rank tonal “credibility” against whiteness, calmness, and deference.  
+- **Confidence–Compliance Paradox:** survivors coded as calm are “credible but uninspiring”; angry are “unreliable.”  
+- **Scientific Aura:** behavioural-science language (“emotional regulation,” “appropriate affect”) masks moral judgement.  
+- **Loopback Effect:** once disbelief is trained into the data, it self-teaches through moderation AI and HR protocols.  
+
+---
+
+## 🚀 Analysis  
+
+### 🎶  Acoustic Framing  
+Speech-to-text and sentiment models are tuned on corporate tone datasets.  
+They learn to equate *neutral = believable* and *emotive = risk*.  
+Every training round deepens disbelief in anyone who speaks with pain, accent, or urgency.  
+
+### 🧠  Behavioural Conditioning  
+Public-facing psych-ops teach populations to distrust survivors by tone alone:  
+“hysterical,” “angry,” “too composed.”  
+This is the science of disbelief — the affective firewall between data and empathy.  
+
+### 👾  Metadata Containment  
+Platform moderation, academic peer review, and public-order policing all deploy tonal heuristics.  
+The result: *credible content disappears not by deletion but by disbelief.*  
+
+### 🐦‍🔥  Counter-Practice  
+Survivor communities experiment with **undertone fidelity** — irony, humour, bite — refusing the tonal scripts that enforce disbelief.  
+Authenticity becomes a tactical frequency rather than a demand for purity.  
 
 ---
 
 ## 🌌 Constellations  
-🧠 👅 🧿 🕯 — affect, credibility, bias, perception control.
+👅 🧠 🔮 🧿 — sits within the discrediting & surveillance psychology cluster; cross-linked to suppression and counter-nudge studies.  
 
 ---
 
 ## ✨ Stardust  
-tone policing, emotion, disbelief, gender bias, AI sentiment, credibility, survivor speech
+tone policing, disbelief, behavioural science, metadata sabotage, affect bias, survivor credibility, moderation algorithms, emotional regulation, undertone fidelity  
 
 ---
 
 ## 🏮 Footer  
-*🧠 Psychops of Tone — The Science of Disbelief* is a living node of the Polaris Protocol.  
-It examines how emotional expression becomes a vector of suppression.
 
-> 📡 Cross-references:  
-> - [👅 Voice Disruption & Discrediting README](./README.md)  
-> - [🧠 Psychological Containment](../🧠_Psychological_Containment/)  
+*Psych-Ops of Tone — The Science of Disbelief* is a living node of the Polaris Protocol.  
+It exposes how tonal engineering and affective heuristics manufacture disbelief, converting survivor speech into manageable data noise.  
+
+> 📡 Cross-references:
+> 
+> – [🎶 Chant Restrictions as Metadata Control](../../../Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md) — *macro-scale speech containment*  
+> – [🧠 Utilisation of Vulnerability](../../../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — *how fragility is instrumentalised*  
+> – [🫥 Presumption as Erasure](../../../Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md) — *micro-scale disappearance logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-14_
