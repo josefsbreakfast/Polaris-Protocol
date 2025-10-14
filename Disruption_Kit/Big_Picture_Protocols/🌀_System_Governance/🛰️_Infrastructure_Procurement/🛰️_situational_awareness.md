@@ -1,5 +1,5 @@
 # 🛰️ Situational Awareness: Human vs Computational
-**First created:** 2025-09-30 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-30 | **Last updated:** 2025-10-14  
 *How awareness is built in minds vs. machines, where failure surfaces lurk, and why a safety culture is overdue.*
 
 <a id="top"></a>
@@ -151,10 +151,10 @@ It argues for aviation-grade safety culture across civilian C4/C5-ISR deployment
 
 > 📡 Cross-references:
 > 
-> [🎊 Multi-Party Data Twinning](../💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md) - *How overlapping state and corporate interests fuse datasets through intermediaries*  
-> [🎥 Anomaly Incentives In Surveillance](../🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md) - *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*  
-> [🧠 AI Harms Are Not New](../🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md) - *Systemic analysis of AI harm as continuation of longstanding metadata architectures*  
+> [🎊 Multi-Party Data Twinning](../../💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md) - *How overlapping state and corporate interests fuse datasets through intermediaries*  
+> [🎥 Anomaly Incentives In Surveillance](../../🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md) - *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*  
+> [🧠 AI Harms Are Not New](../../🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md) - *Systemic analysis of AI harm as continuation of longstanding metadata architectures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_  
+_Last updated: 2025-10-14_  
