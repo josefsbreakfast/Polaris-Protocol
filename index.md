@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 13:14:44 UTC_
+_Generated on 2025-10-14 13:15:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -118,6 +118,7 @@ _Generated on 2025-10-14 13:14:44 UTC_
         - [`🧨_crisis_actor_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧨_crisis_actor_dynamics.md)
         - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_failure_recycling.md)
         - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_pilot_containments.md)
+        - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_shadow_sandboxes.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/bottleneck_mapping_log_template.csv)
       - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/constitutional_fault_lines.png)
@@ -151,7 +152,6 @@ _Generated on 2025-10-14 13:14:44 UTC_
       - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_surveillance_infrastructure.md)
       - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_vendor_lock_in.md)
       - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦤_bird_law_uk_edition.md)
-      - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_shadow_sandboxes.md)
       - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md)
       - [`🪖_SAS_special_forces_and_complaints.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪖_SAS_special_forces_and_complaints.md)
       - [`🪖_overlap_accountability_and_why_we_cannot_recruit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🪖_overlap_accountability_and_why_we_cannot_recruit.md)
