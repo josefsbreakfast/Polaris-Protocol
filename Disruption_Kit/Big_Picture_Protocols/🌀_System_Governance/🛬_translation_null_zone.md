@@ -1,6 +1,6 @@
 # 🛬 Translation Null Zone  
 
-**First created:** 2025-08-09 | **Last updated:** 2025-09-29  
+**First created:** 2025-08-09 | **Last updated:** 2025-10-14  
 *Language registers that evade machine translation and create camouflage zones.*  
 
 ---
@@ -84,11 +84,12 @@ translation null zone, linguistic camouflage, metadata forensics, biblical hebre
 *Translation Null Zone* is a living node of the Polaris Protocol.  
 It explores how archaic, poetic, or minority registers generate camouflage in machine translation systems, creating unprocessed spaces where authorship sovereignty can persist.  
 
-> 📡 Cross-references:  
-> - [📚 Forensic Silence](./📚_forensic_silence.md)  
-> - [🪞 Illusion of Choice](./🪞_the_illusion_of_choice.md)  
-> - [⚖️ Soft Law Governance](./⚖️_soft_law_governance.md)  
+> 📡 Cross-references:
+> 
+> - [📚 Forensic Silence](../📚_forensic_silence.md)  
+> - [🪞 Illusion of Choice](../🪞_the_illusion_of_choice.md)  
+> - [⚖️ Soft Law Governance](../⚖️_Legal_State_Governance/⚖️_soft_law_governance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-14_  
