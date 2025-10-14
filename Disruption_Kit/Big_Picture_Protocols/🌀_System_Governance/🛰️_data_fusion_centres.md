@@ -1,10 +1,10 @@
 # 🛰️ Data Fusion Centres  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-14  
 *Nodes where multiple data streams merge (health, education, police), erasing consent boundaries.*  
 
 ---
 
-## 🌐 Core Idea  
+## ✨ Core Idea  
 
 Data fusion centres are hubs where **separate datasets** — often collected under very different legal and ethical regimes — are merged into a single composite profile.  
 
@@ -17,7 +17,7 @@ Consent given in one domain no longer protects you in another.
 
 ---
 
-## 🧩 Mechanisms  
+## 🛰️ Mechanisms  
 
 - **Technical Layer** → APIs, cloud warehouses, analytics platforms (often vendor-run).  
 - **Legal Layer** → “data sharing agreements,” soft-law guidance, and statutory exemptions.  
@@ -35,7 +35,7 @@ Consent given in one domain no longer protects you in another.
 
 ---
 
-## 🎯 Survivor Effects  
+## 🧨 Survivor Effects  
 
 - **Misclassification** → Errors in one dataset cascade across domains (e.g. school attendance mislabelled as extremism risk).  
 - **Complaint dead-ends** → Each agency points to another when challenged.  
@@ -52,7 +52,7 @@ Consent given in one domain no longer protects you in another.
 
 ---
 
-## 🛡️ Countermeasures  
+## 🐦‍🔥 Countermeasures  
 
 - **Transparency mandates** → Publish data flows and retention rules.  
 - **Independent audits** → Verify consent boundaries are respected.  
@@ -86,11 +86,12 @@ data fusion, multi-agency hubs, consent collapse, metadata pooling, surveillance
 *Data Fusion Centres* is a living node of the Polaris Protocol.  
 It documents how multi-agency hubs merge datasets across domains, collapsing consent boundaries and erasing accountability.  
 
-> 📡 Cross-references:  
-> - [🌀 System Governance](./) — parent cluster of governance diagnostics  
-> - [🛰️ AI Middleware](./🛰️_ai_middleware.md) — invisible algorithmic middle layers  
-> - [📚 Forensic Silence](./📚_forensic_silence.md) — gaps and erasures in public record  
+> 📡 Cross-references:
+> 
+> - [🌀 Systems & Governance](../README.md) — *parent cluster of governance diagnostics*  
+> - [🛰️ AI Middleware](./🛰️_ai_middleware.md) — *invisible algorithmic middle layers*  
+> - [📚 Forensic Silence](../📚_Narrative_Management/📚_forensic_silence.md) — *gaps and erasures in public record*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-14_  
