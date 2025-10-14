@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 13:59:23 UTC_
+_Generated on 2025-10-14 14:00:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -49,6 +49,7 @@ _Generated on 2025-10-14 13:59:23 UTC_
         - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_transparency_floor_node.md)
         - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_uk_constitutional_fault_lines.md)
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
+        - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
@@ -157,7 +158,6 @@ _Generated on 2025-10-14 13:59:23 UTC_
       - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_lawful_conscience_protocol.md)
       - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)
       - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
-      - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🦤_bird_law_uk_edition.md)
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
