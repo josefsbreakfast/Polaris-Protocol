@@ -1,5 +1,5 @@
 # 🪞 The Illusion of Choice  
-**First created:** 2025-08-11 | **Last updated:** 2025-10-12  
+**First created:** 2025-08-11 | **Last updated:** 2025-10-14  
 *On false autonomy, consent under duress, and the systemic use of coercive freedom.*
 
 ---
@@ -120,6 +120,6 @@ It documents the systemic use of false autonomy as a containment strategy in bot
 
 🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-14_
 
 
