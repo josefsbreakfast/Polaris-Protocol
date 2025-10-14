@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 12:49:51 UTC_
+_Generated on 2025-10-14 12:50:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -61,6 +61,7 @@ _Generated on 2025-10-14 12:49:51 UTC_
         - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_managed_transition_vs_revolution.md)
         - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_parallel_channels.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
+        - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
@@ -123,7 +124,6 @@ _Generated on 2025-10-14 12:49:51 UTC_
       - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📁_absence_of_check_in.md)
       - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_kpi_vs_okr_in_government.md)
       - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_scale_of_effects_estimate.md)
-      - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📋_tick_box_compliance_as_containment.md)
       - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md)
       - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
