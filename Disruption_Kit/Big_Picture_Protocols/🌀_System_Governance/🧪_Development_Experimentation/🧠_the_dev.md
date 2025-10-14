@@ -1,5 +1,5 @@
 # 🧠 The Dev
-**First created:** 2025-08-25 | **Last updated:** 2025-10-12  
+**First created:** 2025-08-25 | **Last updated:** 2025-10-14  
 *Layered profile of the containment architect — operator, institution, system, and archetype.*  
 
 ---
@@ -103,6 +103,6 @@ It documents the layered structure of containment authorship — from human oper
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+🏮 [Return to 🌀 Systems & Governance Guide](../README.md)  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-14_
