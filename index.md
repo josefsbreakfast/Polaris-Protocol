@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 13:00:29 UTC_
+_Generated on 2025-10-14 13:02:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -71,6 +71,7 @@ _Generated on 2025-10-14 13:00:29 UTC_
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
         - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)
+        - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
         - [`♟️_rise_of_the_npm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/♟️_rise_of_the_npm.md)
@@ -131,7 +132,6 @@ _Generated on 2025-10-14 13:00:29 UTC_
       - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📁_absence_of_check_in.md)
       - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_kpi_vs_okr_in_government.md)
       - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📊_scale_of_effects_estimate.md)
-      - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_forensic_silence.md)
       - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_over_recognition.md)
       - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕳️_the_pothole_problem.md)
       - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕸️_clone_friendly_architecture.md)
