@@ -1,5 +1,5 @@
 # 🪫 Austerity Long Tail Data Instability  
-**First created:** 2025-09-17 | **Last updated:** 2025-10-12  
+**First created:** 2025-09-17 | **Last updated:** 2025-10-14  
 *How post-2008 austerity produced decades of degraded infrastructure and unstable data.*  
 
 ---
@@ -53,10 +53,10 @@ It maps how austerity created structural data instability that continues to affe
 
 > 📡 Cross-references:
 > 
-> - [💌 Living in the Long Tail of Austerity](../../../Polaris_Nest/✨_Letters_to_Stars/💌_living_in_the_long_tail_of_austerity.md) — *personal testimony of adulthood under austerity*  
-> - [🇬🇧 Britain as Global Butler](../🕸️_World_Webs/🇬🇧_britain_as_global_butler.md) — *the UK’s service-state role*  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) — *contractual governance logics*  
+> - [💌 Living in the Long Tail of Austerity](../../../../Polaris_Nest/✨_Letters_to_Stars/💌_living_in_the_long_tail_of_austerity.md) — *personal testimony of adulthood under austerity*  
+> - [🇬🇧 Britain as Global Butler](../../🕸️_World_Webs/🇬🇧_britain_as_global_butler.md) — *the UK’s service-state role*  
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *contractual governance logics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-14_
