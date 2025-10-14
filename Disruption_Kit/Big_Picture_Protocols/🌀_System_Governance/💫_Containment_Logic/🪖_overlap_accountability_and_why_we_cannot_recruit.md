@@ -1,5 +1,5 @@
 # 🪖 Overlap Accountability and Why We Cannot Recruit  
-**First created:** 2025-10-07  |  **Last updated:** 2025-10-12  
+**First created:** 2025-10-07  |  **Last updated:** 2025-10-14  
 *On structural accountability failures when UK and Israeli security systems interoperate.*  
 
 ---
@@ -208,13 +208,13 @@ It maps how British–Israeli security cooperation obscures accountability and p
 
 > 📡 Cross-references:
 > 
-> - [⚖️ International Laundering](./⚖️_international_laundering.md) — *systemic laundering of legality through multi-state authorisation frameworks*  
-> - [🛰️ Microsoft Partial Cut — Israel Surveillance](./🛰️_microsoft_partial_cut_israel_surveillance.md) — *partial corporate disengagement and oversight gaps*  
-> - [🧃 COGAT is a Containment Operation](../🕸️_World_Webs/🧃_cogat_is_a_containment_op.md) — *civilian administration as population-control infrastructure*  
-> - [🚀 Arms Transparency](../💸_Money_Listens/🚀_arms_transparency.md) — *procurement and export transparency failures*  
-> - [🧿 UK Persuasion Engine on Palestine](../🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md) — *narrative shaping within UK political and media ecosystems*  
+> - [⚖️ International Laundering](../⚖️_Legal_State_Governance/⚖️_international_laundering.md) — *systemic laundering of legality through multi-state authorisation frameworks*  
+> - [🛰️ Microsoft Partial Cut — Israel Surveillance](../🛰️_Infrastructure_Procurement/🛰️_microsoft_partial_cut_israel_surveillance.md) — *partial corporate disengagement and oversight gaps*  
+> - [🧃 COGAT is a Containment Operation](../../🕸️_World_Webs/🧃_cogat_is_a_containment_op.md) — *civilian administration as population-control infrastructure*  
+> - [🚀 Arms Transparency](../../💸_Money_Listens/🚀_arms_transparency.md) — *procurement and export transparency failures*  
+> - [🧿 UK Persuasion Engine on Palestine](../../🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md) — *narrative shaping within UK political and media ecosystems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-10-14_
 
