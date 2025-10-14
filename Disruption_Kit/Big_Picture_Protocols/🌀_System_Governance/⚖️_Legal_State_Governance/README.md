@@ -105,7 +105,9 @@ graph TD
   click WPIP href "./⚖️_wrong_people_in_power.md" "Open node"
   click BL href "./🦤_bird_law_uk_edition.md" "Open node"
 ```
-*Alt text: a four-column map showing the Legal & State Governance cluster split into: (1) Authorisation & Oversight, (2) Containment/Procurement Mechanics, (3) Externalisation/Constitutional Drift, (4) Counter-logics & Humour; each box links to its markdown.*
+
+*Alt text: a four-column map showing the Legal & State Governance cluster split into: (1) Authorisation & Oversight, (2) Containment/Procurement Mechanics, (3) Externalisation/Constitutional Drift, (4) Counter-logics & Humour; each box links to its markdown.*  
+
 ---
 
 ## 🛸 Included Nodes  
