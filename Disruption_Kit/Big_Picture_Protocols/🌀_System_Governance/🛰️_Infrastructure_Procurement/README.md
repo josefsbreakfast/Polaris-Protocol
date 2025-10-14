@@ -1,4 +1,4 @@
-# 🛰️ Infrastructure Procurement  
+# 🛰️ Infrastructure & Procurement  
 **First created:** 2025-10-13 | **Last updated:** 2025-10-14  
 *Where control becomes contract — tracing the supply chains of surveillance, data fusion, and outsourced governance.*
 
