@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-14 14:14:09 UTC_
+_Generated on 2025-10-14 14:14:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -57,6 +57,7 @@ _Generated on 2025-10-14 14:14:09 UTC_
         - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
+        - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
         - [`panic_deleting_evidence.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/panic_deleting_evidence.png)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
@@ -157,7 +158,6 @@ _Generated on 2025-10-14 14:14:09 UTC_
         - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪞_the_illusion_of_choice.md)
         - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
-      - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/bottleneck_mapping_log_template.csv)
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
