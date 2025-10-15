@@ -1,10 +1,10 @@
 # 🧬 Report Twinning  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
-*When institutions create duplicate or misdirected versions of the same report, fracturing the evidential chain*  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*When institutions create duplicate or misdirected versions of the same report, fracturing the evidential chain.*  
 
 ---
 
-## 🧾 Concept  
+## 🛰️ Concept  
 **Report Twinning** is a form of institutional obfuscation.  
 - **Two identities for one object.** A single inquiry or review exists at multiple URLs or reference points.  
 - **The “canonical” link is polluted or misdirected.** It captures citations, SEO indexing, and casual readers.  
@@ -55,7 +55,7 @@ flowchart TD
 
 ---
 
-## 🔍 Why It Matters  
+## ⚡️ Why It Matters  
 - **Blocks accountability:** prevents easy comparison of historic failures to later “improvement” reports.  
 - **Undermines continuity:** makes landmark documents harder to anchor in public record.  
 - **Manages perception:** lets institutions claim transparency (“it’s still online”) while frustrating retrieval.  
@@ -68,11 +68,12 @@ flowchart TD
 *Report Twinning* is a living node of the Polaris Protocol.  
 It documents how institutions fracture inquiry reports into polluted and displaced versions, suppressing accountability while maintaining plausible deniability.  
 
-> 📡 Cross-references:  
-> - [❌ Negative Evidence Index](../Big_Picture_Protocols/❌_negative_evidence_index.md)  
-> - [📑 Disappearing Reviews](../Big_Picture_Protocols/📑_disappearing_reviews.md)  
-> - [🗂️ CSE Scandals Post-2013](../Big_Picture_Protocols/🗂️_cse_scandals_post-2013.md)  
+> 📡 Cross-references:
+> 
+> - [❌ Negative Evidence Index](./❌_negative_evidence_index.md)  
+> - [📑 Disappearing Reviews](./📑_disappearing_reviews.md)  
+> - [🗂️ CSE Scandals Post-2013](./🗂️_cse_scandals_post-2013.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-15_  
