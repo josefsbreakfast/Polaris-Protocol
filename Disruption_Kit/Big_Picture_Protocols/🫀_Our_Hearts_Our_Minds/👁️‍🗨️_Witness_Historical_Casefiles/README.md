@@ -83,7 +83,6 @@ It shows how metadata suppression intersects with lived history, and why preserv
 > - [📚 Narrative Management and Metadata Sabotage](../../🌀_System_Governance/📚_Narrative_Management/README.md) — systemic sabotage patterns  
 > - [🛰️ Surveillance Infrastructure](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md) — infrastructure shaping testimony visibility  
 > - [🌱 Human Principles](../../🌱_Human_Principles) — ethical backbone of survivor protection  
-> - [🎛️ Drafting Rules Cluster — Survivor Voice Fidelity](../../../Polaris_Nest/🏮_Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md) — ensure tone and fidelity  
 
 *Survivor memory is a signal. Suppression is a method. Archiving is resistance.*  
 
