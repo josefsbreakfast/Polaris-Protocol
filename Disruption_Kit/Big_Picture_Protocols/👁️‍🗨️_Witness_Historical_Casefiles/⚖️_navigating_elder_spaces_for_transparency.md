@@ -1,5 +1,5 @@
 # ⚖️ Navigating Elder Spaces for Transparency  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
 *How to move with respect among elders while asking for truths that unsettle power.*  
 
 ---
@@ -61,10 +61,11 @@ elders, jewish community, transparency, diaspora deference, disclosure, communal
 *Navigating Elder Spaces for Transparency* is a living node of the Polaris Protocol.  
 It records how survivors can move respectfully yet incisively within age-hierarchical communities to encourage disclosure.  
 
-> 📡 Cross-references:  
-> - [🧿 Diaspora Disclosure Tactics](../🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)  
+> 📡 Cross-references:
+> 
+> - [🧿 Diaspora Disclosure Tactics](../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)  
 > - [🌱 Human Principles](../🌱_Human_Principles/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-15_
