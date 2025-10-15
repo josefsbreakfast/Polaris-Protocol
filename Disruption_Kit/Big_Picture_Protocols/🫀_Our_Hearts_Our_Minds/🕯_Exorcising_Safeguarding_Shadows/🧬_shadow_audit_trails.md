@@ -1,10 +1,10 @@
 # 🧬 Shadow Audit Trails  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
-*Asystematic but repeated patterns of report manipulation that evade central audits*
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*Asystematic but repeated patterns of report manipulation that evade central audits.*  
 
 ---
 
-## 🧾 Concept  
+## 🛰️ Concept  
 **Shadow Audit Trails** emerge when institutions alter, mislink, or suppress key reports in ways that:  
 - Leave **traces** visible (e.g., twinned URLs, polluted links, displaced archives).  
 - Are **too consistent** to be random admin error, but not uniform enough to reflect a central government mandate.  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧩 Systematic vs. Asystematic  
+## 🪼 Systematic vs. Asystematic  
 
 - **Systematic (central diktat):** Uniform behaviours across all councils, mandated from above.  
 - **Asystematic but repeated:** Variations across councils (some links live, some buried, some polluted). Suggests **local choice** but with **knowledge-sharing** about suppression tactics.  
@@ -43,7 +43,7 @@
 
 ---
 
-## 🔍 Implications  
+## 💫 Implications  
 
 - **Breaks accountability chains.** Makes it harder to compare historic admissions of failure with later “improvement” reports.  
 - **Enables political distortion.** With authentic reports buried, opportunistic narratives (e.g., linking CSE solely to migrants) fill the vacuum.  
@@ -57,12 +57,13 @@
 *Shadow Audit Trails* is a living node of the Polaris Protocol.  
 It documents how asystematic but repeated manipulations of inquiry reports evade central audit cycles, leaving traces of suppression that can be read as evidence.  
 
-> 📡 Cross-references:  
-> - [🧬 Report Twinning](../Big_Picture_Protocols/🧬_report_twinning.md)  
-> - [🧬 Report Twinning Index](../Big_Picture_Protocols/🧬_report_twinning_index.md)  
-> - [❌ Negative Evidence Index](../Big_Picture_Protocols/❌_negative_evidence_index.md)  
-> - [📑 Disappearing Reviews](../Big_Picture_Protocols/📑_disappearing_reviews.md)  
+> 📡 Cross-references:
+> 
+> - [🧬 Report Twinning](./🧬_report_twinning.md)  
+> - [🧬 Report Twinning Index](./🧬_report_twinning_index.md)  
+> - [❌ Negative Evidence Index](./❌_negative_evidence_index.md)  
+> - [📑 Disappearing Reviews](./📑_disappearing_reviews.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-15_
