@@ -1,6 +1,6 @@
 # 🧠 Value of the Outlier
-**First created:** 2025-08-16 | **Last updated:** 2025-10-05  
-*How anomaly detection escalates surveillance value and how authorship reclaims sovereignty*
+**First created:** 2025-08-16 | **Last updated:** 2025-10-15  
+*How anomaly detection escalates surveillance value and how authorship reclaims sovereignty.*
 
 ---
 
@@ -86,6 +86,4 @@ It maps how anomaly detection transforms individuals into perpetual extraction a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
-
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-15_
