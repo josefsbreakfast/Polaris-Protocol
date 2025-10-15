@@ -1,6 +1,5 @@
 # 📜 Charity Regime Reform
-
-*Policy design for transitional legislation toward democratic mutual aid.*
+*Policy design for transitional legislation toward democratic mutual aid.*  
 **First created:** 2025-10-15 | **Last updated:** 2025-10-15
 
 ---
