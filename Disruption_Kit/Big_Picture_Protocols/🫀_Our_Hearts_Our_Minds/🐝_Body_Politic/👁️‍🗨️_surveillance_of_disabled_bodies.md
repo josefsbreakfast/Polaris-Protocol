@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Surveillance of Disabled Bodies  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
-*How disabled people are the test-bed for normalised surveillance*  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+*How disabled people are the test-bed for normalised surveillance.*  
 
 ---
 
@@ -46,4 +46,4 @@ It maps how surveillance regimes prototype themselves on disabled people before 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-10-15_  
