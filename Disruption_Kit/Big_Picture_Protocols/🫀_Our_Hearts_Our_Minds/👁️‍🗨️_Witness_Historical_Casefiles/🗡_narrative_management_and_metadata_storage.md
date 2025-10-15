@@ -1,7 +1,5 @@
-# 🗡 Narrative Management and Metadata Sabotage
-
-**First created:** 2025-08-06 | **Last updated:** 2025-10-08
-
+# 🗡 Narrative Management and Metadata Sabotage  
+**First created:** 2025-08-06 | **Last updated:** 2025-10-15  
 *How metadata sabotage governs narrative visibility and erases memory.*  
 
 ---
@@ -65,4 +63,4 @@ It traces how metadata trails are sabotaged to manage, distort, or erase stories
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-15_  
