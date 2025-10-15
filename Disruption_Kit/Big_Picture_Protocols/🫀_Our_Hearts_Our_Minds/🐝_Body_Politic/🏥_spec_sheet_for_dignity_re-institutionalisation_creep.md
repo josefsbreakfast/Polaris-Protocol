@@ -1,6 +1,6 @@
 # 🏥 Spec Sheet for Dignity: Re-Institutionalisation Creep  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
-*Rejecting the slow return of hospital logics into everyday disabled life*  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+*Rejecting the slow return of hospital logics into everyday disabled life.*  
 
 ---
 
@@ -98,12 +98,13 @@ re-institutionalisation, disability dignity, spec sheet, mobility aids, transpor
 *Spec Sheet for Dignity: Re-Institutionalisation Creep* is a living node of the Polaris Protocol.  
 It maps the rollback of disability dignity in design and offers counter-specifications across domains: transport, equestrian, snow sports, and wheelchairs.  
 
-> 📡 Cross-references:  
-> - [🌱 Human Principles](../Big_Picture_Protocols/🌱_human_principles.md) — dignity as a systemic axis  
-> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — practical counter-specs and guides  
+> 📡 Cross-references:
+> 
+> - [🌱 Human Principles](../🌱_Human_Principles/README.md) — *dignity as a systemic axis*  
+> - [Survivor Tools](../../../Survivor_Tools/README.md) — *practical counter-specs and guides*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-10-15_  
 
 <!--I'm just saying it looked like the driver's seat on the F1 circuit and I was so ready to sit in that thing and drive.-->
