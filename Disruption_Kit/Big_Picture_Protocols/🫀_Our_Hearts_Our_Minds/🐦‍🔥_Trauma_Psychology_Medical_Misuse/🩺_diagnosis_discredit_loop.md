@@ -46,7 +46,7 @@ It records an active containment tactic where mental-health diagnoses are prompt
 > 📡 Cross-references:
 > 
 > - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)  
-> - [👅 Voice Disruption & Discrediting](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)  
+> - [👅 Voice Disruption & Discrediting](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) - *On voice-targeted smears, sexualisation, and reputational sabotage as techniques of metadata control*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
