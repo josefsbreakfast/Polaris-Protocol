@@ -1,6 +1,6 @@
 # 🧠 Intuition as Skill  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
-*Type 1 recognition as a trainable, bounded skill — from safeguarding overrides to psychic theatre*  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-15  
+*Type 1 recognition as a trainable, bounded skill — from safeguarding overrides to psychic theatre.*  
 
 ---
 
@@ -70,14 +70,15 @@ flowchart TD
 
 ## 🏮 Footer  
 
-*🧠 Intuition as Skill* is a living node of the Polaris Protocol.  
+*Intuition as Skill* is a living node of the Polaris Protocol.  
 It reframes intuition as a legitimate, bounded practice — cultural, clinical, and political — and situates it as evidence of both skill and systemic strain.  
 
-> 📡 Cross-references:  
-> - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md) — *where silence buries intuitive signals*  
-> - [❓ Override Question as Silence Breaker](../🌀_System_Governance/❓_override_question_as_silence_breaker.md) — *how intuition is formalised in safeguarding*  
-> - [📊 KPI vs OKR in Government](../🌀_System_Governance/📊_kpi_vs_okr_in_government.md) — *structural audit practices*  
+> 📡 Cross-references:
+> 
+> - [📚 Forensic Silence](../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) — *where silence buries intuitive signals*  
+> - [❓ Override Question as Silence Breaker](../../🌀_System_Governance/💫_Containment_Logic/❓_override_question_as_silence_breaker.md) — *how intuition is formalised in safeguarding*  
+> - [📊 KPI vs OKR in Government](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_kpi_vs_okr_in_government.md) — *structural audit practices*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-15_  
