@@ -1,6 +1,5 @@
 # 🛰️ Token Switching Audit  
-**First created:** 2025-09-30  |  **Last updated:** 2025-10-05  
-
+**First created:** 2025-09-30  |  **Last updated:** 2025-10-15  
 *Guidance for detecting and resolving identity-token manipulation in C4ISR / C5ISR digital-twin systems.*  
 
 ---
@@ -60,9 +59,9 @@ linking digital-forensic integrity with institutional accountability.
 It documents detection, auditing, and governance responses to identity-token manipulation in complex, multi-actor digital systems.  
 
 > 📡 Cross-references:  
-> - [🕯️ Exorcising Safeguarding Shadows](../🕯️_Exorcising_Safeguarding_Shadows/README.md) — *parent cluster*  
-> - [🧬 Twinning Detection](../../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinning_detection.md) — *guide to tracing the simulation of sovereign voices*  
+> - [🕯️ Exorcising Safeguarding Shadows](../README.md) — *parent cluster*  
+> - [🧬 Twinning Detection] — *guide to tracing the simulation of sovereign voices*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_  
+_Last updated: 2025-10-15_  
