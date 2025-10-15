@@ -1,10 +1,10 @@
 # 🧠 Tolerators as Targets  
-**First created:** 2025-10-07  |  **Last updated:** 2025-10-07  
+**First created:** 2025-10-07  |  **Last updated:** 2025-10-15  
 *A focused node on why—and how—people who tolerate complexity or resist crude classification are targeted in processes that escalate to mass violence*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node examines a recurring dynamic across genocides and mass-violence campaigns: people who tolerate complexity, nuance, or liminality (hereafter *tolerators*) are often singled out and harmed — even when they are not members of the primary scapegoated group. Targeting tolerators is an instrument of silencing, social simplification, and terror-management. Understanding this dynamic helps both early-warning analysis and prevention design.
 
 ---
@@ -84,11 +84,12 @@ tolerators, epistemic threat, silencing, stress-intolerance, classification, cro
 
 *Tolerators as Targets* is a living Polaris node. It records the dynamics by which epistemic plurality becomes a liability under conditions of mass violence, and maps both early-warning signs and prevention levers.  
 
-> 📡 Cross-references:  
-> - [🫀 Genocide by Containment](../🌀_System_Governance/🫀_genocide_by_containment.md)  
-> - [⚖️ Containment as Threshold Crime](../🧿_Watch_The_Watchers/⚖️_containment_as_threshold_crime.md)  
-> - [🌀 System Governance](../🌀_System_Governance/README.md)  
+> 📡 Cross-references:
+> 
+> - [🫀 Genocide by Containment](../../🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md) - *How bureaucratic disposal mechanisms escalate into genocidal practice*  
+> - [⚖️ Containment as Threshold Crime](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/⚖️_containment_as_threshold_crime.md) - *On when administrative containment passes from governance to atrocity*  
+> - [🌀 System Governance](../../🌀_System_Governance/README.md) - *How the systems we use interlace with what controls and powers them*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-15_
