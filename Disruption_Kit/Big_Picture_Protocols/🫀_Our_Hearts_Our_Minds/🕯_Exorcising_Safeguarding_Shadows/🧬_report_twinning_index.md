@@ -1,6 +1,6 @@
 # 🧬 Report Twinning Index  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
-*Mapping cases where inquiry and safeguarding reports exist in twin versions: polluted vs displaced links*  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*Mapping cases where inquiry and safeguarding reports exist in twin versions: polluted vs displaced links.*  
 
 ---
 
@@ -31,11 +31,12 @@ Report twinning is an escalation of the *Disappearing Reviews* pattern: not just
 *Report Twinning Index* is a living node of the Polaris Protocol.  
 It collates instances where inquiry reports exist in parallel forms, documenting how polluted and displaced links fracture accountability.  
 
-> 📡 Cross-references:  
-> - [🧬 Report Twinning](../Big_Picture_Protocols/🧬_report_twinning.md)  
-> - [❌ Negative Evidence Index](../Big_Picture_Protocols/❌_negative_evidence_index.md)  
-> - [📑 Disappearing Reviews](../Big_Picture_Protocols/📑_disappearing_reviews.md)  
+> 📡 Cross-references:
+> 
+> - [🧬 Report Twinning](./🧬_report_twinning.md)  
+> - [❌ Negative Evidence Index](./❌_negative_evidence_index.md)  
+> - [📑 Disappearing Reviews](./📑_disappearing_reviews.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-15_  
