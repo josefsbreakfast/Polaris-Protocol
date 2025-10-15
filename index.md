@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 20:23:22 UTC_
+_Generated on 2025-10-15 20:24:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -309,7 +309,6 @@ _Generated on 2025-10-15 20:23:22 UTC_
       - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎙️_why_they_collect_audio.md)
       - [`🎻_clash_of_forks.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎻_clash_of_forks.md)
       - [`🐍_snake_bites_and_stolen_voices.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
-      - [`🐍_trauma_commodification.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
@@ -675,6 +674,7 @@ _Generated on 2025-10-15 20:23:22 UTC_
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
         - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
+        - [`🐍_trauma_commodification.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)
         - [`🧠_behavioural_trajectories_lab_to_institution.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_behavioural_trajectories_lab_to_institution.md)
         - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
         - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md)
