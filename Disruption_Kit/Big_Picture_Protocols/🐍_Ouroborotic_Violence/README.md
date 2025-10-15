@@ -7,5 +7,7 @@ Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefi
 
 Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/  
 
+Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/  
+
 
 x
