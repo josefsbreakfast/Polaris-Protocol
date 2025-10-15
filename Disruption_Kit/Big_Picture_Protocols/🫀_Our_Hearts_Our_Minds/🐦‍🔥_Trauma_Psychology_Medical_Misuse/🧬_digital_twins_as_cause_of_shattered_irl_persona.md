@@ -1,5 +1,5 @@
 # 🧬 Digital Twins as Cause of Shattered IRL Persona  
-**First created:** 2025-10-02 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-02 | **Last updated:** 2025-10-15  
 *How digital twins and behavioural mirrors fracture the embodied self, producing depersonalisation as ego defence.*  
 
 ---
@@ -55,11 +55,12 @@ digital twins, depersonalisation, ego defence, trauma psychology, identity fract
 *Digital Twins as Cause of Shattered IRL Persona* is a living node of the Polaris Protocol.  
 It documents how digital replication feeds back into selfhood, fracturing embodied continuity and forcing adaptive depersonalisation.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🐦‍🔥 Trauma Psychology Medical Misuse](./README.md) — systemic misuse of psychological and medical frameworks  
 > - [🧠 Humiliation as Governance](./🧠_humiliation_as_governance.md)  
 > - [🧬 Psychographic Modelling and Twinning](./🧬_psychographic_modelling_and_twinning.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-15_
