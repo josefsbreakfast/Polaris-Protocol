@@ -1,6 +1,6 @@
 # 🦿 Eugenics as Everyday Metaphor  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
-*How insults and metaphors recycle eugenic logics even in radical spaces*  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+*How insults and metaphors recycle eugenic logics even in radical spaces.*  
 
 ---
 
@@ -48,4 +48,4 @@ It exposes how ableism remains the unbroken chain of eugenic logic in everyday l
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-10-15_  
