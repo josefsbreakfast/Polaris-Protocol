@@ -1,5 +1,5 @@
 # 🐍 Trauma Commodification  
-**First created:** 2025-08-04 | **Last updated:** 2025-10-05  
+**First created:** 2025-08-04 | **Last updated:** 2025-10-15  
 *Refusal log tracing the conversion of survivor pain into commodity product.*  
 
 ---
@@ -170,11 +170,12 @@ trauma data, grief economy, pain commodification, safeguarding extraction, thera
 It traces how disclosures, pain, and survivor records are harvested as data assets,  
 converted into calibration tokens, and sold back as justification for control.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md)  
 > - [🐍 Snake Bites and Stolen Voices](./🐍_snake_bites_and_stolen_voices.md) — *suppression as theft and asset defence*  
 > - [🎙️ Why They Collect Audio](./🎙️_why_they_collect_audio.md) — *parallel commodification of breakdown states*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-15_
