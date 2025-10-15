@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Summary  
+## 🛰️ Summary  
 Large public and institutional databases often depend on shared identifiers — NHS numbers, NI numbers, case IDs — to exchange data.  
 A single formatting or translation bug in those key fields can split, duplicate or mis-route a person’s record across systems.  
 The effect is diffuse and hard to detect: catastrophic for individuals, invisible at scale.  
@@ -12,7 +12,7 @@ This node provides a field checklist for spotting the pattern and building evide
 
 ---
 
-## 🧾 Hidden Data-Loop Audit — Field Symptoms Checklist  
+## 💫 Hidden Data-Loop Audit — Field Symptoms Checklist  
 
 ### 1️⃣ Identity and Key-Field Symptoms
 | Category | What to watch for | Why it matters |
@@ -78,7 +78,7 @@ data mismatch, identifier errors, systemic risk, audit trail, information govern
 ---
 
 ## 🏮 Footer  
-*🪣 Hidden Data-Loop Audit* is a living diagnostic node of the Polaris Protocol.  
+*Hidden Data-Loop Audit* is a living diagnostic node of the Polaris Protocol.  
 It helps individuals and investigators recognise the symptoms of cross-system translation failures and assemble auditable proof for regulatory review.  
 
 > 📡 Cross-references:
