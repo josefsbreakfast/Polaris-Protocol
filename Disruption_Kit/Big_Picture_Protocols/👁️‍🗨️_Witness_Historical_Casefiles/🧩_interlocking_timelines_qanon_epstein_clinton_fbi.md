@@ -1,11 +1,10 @@
 # 🧩 Interlocking Timelines: QAnon / Epstein / Clinton–FBI  
-
-**First created:** 2025-10-05  
+**First created:** 2025-10-05 | **First created:** 2025-10-15  
 *Parallel chronologies of three entangled event streams (2015–2019).*
 
 ---
 
-## 🧭 Overview  
+## ✨ Overview  
 
 Three vectors converged between 2016 – 2019:  
 1. **QAnon** – anonymous intelligence-themed posts framing global elite conspiracies.  
@@ -14,7 +13,7 @@ Three vectors converged between 2016 – 2019:
 
 ---
 
-## 🗓️ Timeline of Overlaps  
+## 🛰️ Timeline of Overlaps  
 
 | Year | QAnon Thread | Epstein Thread | Clinton / FBI Thread |
 |------|---------------|----------------|----------------------|
@@ -27,7 +26,7 @@ Three vectors converged between 2016 – 2019:
 
 ---
 
-## 🔗 Intersection Analysis  
+## 🔥 Intersection Analysis  
 
 - **Temporal trigger:** The *first QAnon post (Oct 28 2017)* fell *exactly one year* after Comey’s reopening of the Clinton email probe (Oct 28 2016).  
 - **Narrative merger:** The “Clinton crimes / trafficking network” motif tied QAnon’s lore to Epstein’s legacy before his 2019 arrest.  
@@ -50,14 +49,15 @@ QAnon, Jeffrey Epstein, Hillary Clinton, FBI investigation, timeline, 2016 elect
 
 ## 🏮 Footer  
 
-*🧩 Interlocking Timelines: QAnon / Epstein / Clinton–FBI* is a living node of the Polaris Protocol.  
+*Interlocking Timelines: QAnon / Epstein / Clinton–FBI* is a living node of the Polaris Protocol.  
 It charts the chronological convergence of institutional crisis, conspiracy proliferation, and survivor-narrative capture between 2015 and 2019.  
 
-> 📡 Cross-references:  
-> - [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/README.md) — QAnon and online recruitment networks  
-> - [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/README.md) — information throttling and circulation bans  
-> - [🧿 Watch The Watchers](../🧿_Watch_The_Watchers/README.md) — oversight failures and feedback loops  
+> 📡 Cross-references:
+> 
+> - [🪬 Radicalisation & Extremism](../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *QAnon and online recruitment networks*  
+> - [🎶 Banned Broadcasts Cooperative](../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *information throttling and circulation bans*  
+> - [🧿 Watch The Watchers](../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight failures and feedback loops*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-15_
