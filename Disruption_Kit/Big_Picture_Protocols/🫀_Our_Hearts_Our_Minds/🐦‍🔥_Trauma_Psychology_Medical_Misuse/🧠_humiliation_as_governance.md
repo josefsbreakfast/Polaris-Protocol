@@ -1,6 +1,6 @@
 # 🧠 Humiliation as Governance  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-05  
-*Marking and degrading the “other” as a systemic tactic of European governance*  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-15  
+*Marking and degrading the “other” as a systemic tactic of European governance.*  
 
 ---
 
@@ -105,10 +105,10 @@ It traces the European lineage of humiliation-marking from medieval badges to Na
 
 > 📡 Cross-references:
 > 
-> - [🗝️ Deliberate Cultural Violation](../🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — *repeated violation of faith and ritual as governance*  
-> - [🌀 Forced Migration as Governance](../🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md) — *displacement as control*  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *wider tactics of containment by shame, waiting, and ridicule*  
+> - [🗝️ Deliberate Cultural Violation](../../🦕_Elder_Influencers/🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — *repeated violation of faith and ritual as governance*  
+> - [🌀 Forced Migration as Governance](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md) — *displacement as control*  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *wider tactics of containment by shame, waiting, and ridicule*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_  
+_Last updated: 2025-10-15_  
