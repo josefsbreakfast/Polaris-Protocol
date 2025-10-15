@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 21:05:56 UTC_
+_Generated on 2025-10-15 21:06:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -373,7 +373,6 @@ _Generated on 2025-10-15 21:05:56 UTC_
         - [`🕸️_Governance_and_Mitigation.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🕸️_Governance_and_Mitigation.md)
         - [`🛰️_nhs_token_switching_integrity_audit.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🛰️_nhs_token_switching_integrity_audit.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
-      - [`black_mould_audit_checklist.csv`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/black_mould_audit_checklist.csv)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
       - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
@@ -679,6 +678,7 @@ _Generated on 2025-10-15 21:05:56 UTC_
         - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
+        - [`black_mould_audit_checklist.csv`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/black_mould_audit_checklist.csv)
         - [`darvo_vs_prevent.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/darvo_vs_prevent.png)
         - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
         - [`pp14_22_metrics_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/pp14_22_metrics_timeline.png)
