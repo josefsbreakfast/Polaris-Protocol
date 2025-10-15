@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 20:56:47 UTC_
+_Generated on 2025-10-15 20:57:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -389,7 +389,6 @@ _Generated on 2025-10-15 20:56:47 UTC_
       - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🏛️_state_patterns_of_forced_intimacy.md)
       - [`👀_failure_cycle_vs_reported_improvements.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md)
       - [`👀_public_perception_gap.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/👀_public_perception_gap.md)
-      - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/💢_draft_prevent_ihl.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
       - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
@@ -695,6 +694,7 @@ _Generated on 2025-10-15 20:56:47 UTC_
         - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
+        - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/💢_draft_prevent_ihl.md)
         - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
         - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/📑_the_case_of_the_disappearing_reviews.md)
         - [`📚_romanticism_as_coercive_control_literary_lineage.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/📚_romanticism_as_coercive_control_literary_lineage.md)
