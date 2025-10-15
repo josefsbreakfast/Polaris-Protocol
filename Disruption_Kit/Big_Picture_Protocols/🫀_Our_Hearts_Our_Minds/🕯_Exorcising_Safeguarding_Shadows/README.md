@@ -1,6 +1,6 @@
 # 🕯 Exorcising Safeguarding Shadows  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*A field manual for tracing how “safeguarding” language mutates into containment architecture—and how to reclaim it*
+**First created:** 2025-10-04 | **Last updated:** 2025-10-15  
+*A field manual for tracing how “safeguarding” language mutates into containment architecture—and how to reclaim it.*
 
 ---
 
@@ -62,4 +62,5 @@ This node teaches how to see the ghost in the policy document: the moment when s
 Its exorcism is analytical, procedural, and moral.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+
+_Last updated: 2025-10-15_
