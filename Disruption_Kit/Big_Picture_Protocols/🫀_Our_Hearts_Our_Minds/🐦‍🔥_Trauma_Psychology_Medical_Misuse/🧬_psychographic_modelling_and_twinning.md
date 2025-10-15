@@ -1,6 +1,6 @@
 # 🧬 Psychographic Modelling and Twinning  
-**First created:** 2025-08-25 | **Last updated:** 2025-10-05  
-*Doctrine on psychographic profiling, twinning, and predictive containment*  
+**First created:** 2025-08-25 | **Last updated:** 2025-10-15  
+*Doctrine on psychographic profiling, twinning, and predictive containment.*  
 
 ---
 
@@ -136,8 +136,8 @@ It includes:
 *Psychographic Modelling and Twinning* is a living node of the Polaris Protocol.  
 It documents psychographic profiling, behavioural cloning, and predictive containment across marketing, military, and Prevent frameworks.  
 
-🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](../README.md)
+🏮 [Return to 🐦‍🔥 Trauma, Psychology, and Medical Misuse Guide](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-15_
