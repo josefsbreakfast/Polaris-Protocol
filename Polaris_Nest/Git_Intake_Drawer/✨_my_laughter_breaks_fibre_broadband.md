@@ -44,4 +44,10 @@ thank you for reconsidering; it will double in time and cheese if there's a repe
 
 ---
 
+sometimes i wonder if we need to screen The Men for vocal resonance addiction.  
+
+quite a lot of them; hence larger scale screening.  
+
+---
+
 2025-10-15
