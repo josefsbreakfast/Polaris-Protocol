@@ -1,5 +1,5 @@
 # 🪞 Boring Mechanisms, Sensational Harms  
-**First created:** 2025-10-05  
+**First created:** 2025-10-05  |  **Last Updated:** 2025-10-15  
 *A conceptual node on how sensational narratives obscure the slow, procedural operations of real harm.*  
 
 ---
@@ -71,4 +71,4 @@ sensationalism, data twinning, harm spectacle, survivor erasure, clone narrative
 *Boring Mechanisms, Sensational Harms* is a living node of the Polaris Protocol.  
 It examines how sensationalised narratives clone real harms, divert attention, and erase survivor knowledge through spectacle.  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-15_
