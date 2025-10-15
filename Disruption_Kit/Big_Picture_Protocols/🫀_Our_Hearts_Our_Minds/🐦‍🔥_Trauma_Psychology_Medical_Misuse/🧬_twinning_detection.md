@@ -1,6 +1,6 @@
 # 🧬 Twinning Detection  
-**First created:** 2025-08-25 | **Last updated:** 2025-10-05  
-*A guide to tracking, tracing, and untangling the simulation of sovereign voices*  
+**First created:** 2025-08-25 | **Last updated:** 2025-10-15  
+*A guide to tracking, tracing, and untangling the simulation of sovereign voices.*  
 
 ---
 
@@ -88,4 +88,4 @@ It documents practical methods for identifying and responding to behavioural twi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-15_
