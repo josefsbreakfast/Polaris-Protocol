@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 18:04:30 UTC_
+_Generated on 2025-10-15 18:05:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -310,7 +310,6 @@ _Generated on 2025-10-15 18:04:30 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
     - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/README.md)
-      - [`💔_the_need_for_touch.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/💔_the_need_for_touch.md)
       - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
       - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
       - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
@@ -691,6 +690,7 @@ _Generated on 2025-10-15 18:04:30 UTC_
         - [`♿_containment_by_pity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_containment_by_pity.md)
         - [`🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md)
         - [`👁️‍🗨️_surveillance_of_disabled_bodies.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md)
+        - [`💔_the_need_for_touch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💔_the_need_for_touch.md)
       - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
         - [`data_misuse_continuum_flowchart_detailed.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/data_misuse_continuum_flowchart_detailed.png)
