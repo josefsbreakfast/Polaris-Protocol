@@ -1,12 +1,11 @@
 # ⚖️ Sanhedrin Punishments — Historical Halakhic Practice  
-
-**First created:** 2025-10-01 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-01 | **Last updated:** 2025-10-15  
 *A completely hypothetical scenario explored through the lens of classical Jewish law, showing how a Sanhedrin might have ruled.  
 Expanded with sources, covenant vs. nationality sidebar, forgiveness limits, and modern parallels.*  
 
 ---
 
-## 🧩 Hypothetical Scenario  
+## 🧿 Hypothetical Scenario  
 
 Suppose:  
 - A Jewish woman is **trafficked for sexual exploitation**.  
@@ -173,13 +172,14 @@ My commitment is not execution but **democracy and transformative justice**: sur
 
 ## 🏮 Footer  
 
-*⚖️ Sanhedrin Punishments — Historical Halakhic Practice* is a statutory-theory node of the Polaris Protocol.  
+*Sanhedrin Punishments — Historical Halakhic Practice* is a statutory-theory node of the Polaris Protocol.  
 It documents how a Sanhedrin might hypothetically have judged trafficking, exclusion, and torture of a Jewish woman — and maps those rulings into medieval communal tools and contemporary democratic practice.  
 
-> 📡 Cross-references:  
-> - [📜 Statutes](../README.md) — systemic laws and architectures  
-> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)  
+> 📡 Cross-references:
+> 
+> - [📜 Statutes](../../🦕_Elder_Influencers/README.md) — *systemic laws and architectures*  
+> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) - *on the misuse of trauma*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-15_  
