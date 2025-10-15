@@ -1,5 +1,5 @@
 # 🛰️ NHS Token-Switching Integrity Audit  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-15  
 *Immediate audit of NHS Spine, SCR, and local EHRs to detect and halt live-risk data splicing.*
 
 ---
@@ -74,8 +74,8 @@ It defines the live-risk containment procedure for cross-record token errors wit
 > 📡 Cross-references:  
 > - [⚰️ Death Review Integrity Audit](./⚰️_death_review_integrity_audit.md) — retrospective investigation of suppressed scrutiny  
 > - [📄 Emergency Legal Hold Notice](./📄_emergency_legal_hold_notice.md) — immediate administrative containment order  
-> - [🕯 Exorcising Safeguarding Shadows / 🛰 Token Switching Audit](../🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/)  
+> - [🕯 Exorcising Safeguarding Shadows / 🛰 Token Switching Audit](./)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-15_
