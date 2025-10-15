@@ -1,6 +1,6 @@
 # 📑 The Case of the Disappearing Reviews  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
-*On the quiet vanishing of CSE improvement reports from public record*  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*On the quiet vanishing of CSE improvement reports from public record.*  
 
 ---
 
@@ -55,8 +55,8 @@ It documents how councils and safeguarding boards allow key CSE improvement repo
 > 📡 Cross-references:  
 > - See: CSE Scandals Post-2013 (System Governance cluster)  
 > - See: Failure Cycle vs Reported Improvements (System Governance cluster)  
-> - [📚 Forensic Silence](./📚_forensic_silence.md) — parent diagnostic node  
+> - [📚 Forensic Silence] — parent diagnostic node  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-15_  
