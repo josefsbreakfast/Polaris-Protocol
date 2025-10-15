@@ -1,5 +1,5 @@
 # 🧠 Behavioural Trajectories — From Lab to Institution  
-**First created:** 2025-09-24 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-24 | **Last updated:** 2025-10-15  
 *Tracing how operant and behavioural research in UK universities shifted from controlled experiments to applied institutional settings.*  
 
 ---
@@ -180,8 +180,8 @@ It records how operant paradigms migrated into applied institutional contexts, t
 > 📡 Cross-references:
 > 
 > - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](./README.md) — systemic misuse of trauma & psychology  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — behavioural governance and coercive application  
+> - [🧠 HM Dept Coercive Nudges](../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — behavioural governance and coercive application  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-15_
