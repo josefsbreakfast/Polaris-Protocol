@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 11:27:37 UTC_
+_Generated on 2025-10-15 11:29:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -584,6 +584,8 @@ _Generated on 2025-10-15 11:27:37 UTC_
       - [`🛟_harm_reduction_asylum_routes.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_asylum_routes.md)
       - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
       - [`🦕_partition_loop_borders_as_violence.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🦕_partition_loop_borders_as_violence.md)
+    - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)
       - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
