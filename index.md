@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 21:13:24 UTC_
+_Generated on 2025-10-15 21:14:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -363,8 +363,6 @@ _Generated on 2025-10-15 21:13:24 UTC_
       - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
         - [`🧵_paper_as_containment_audit.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/audit_legal/🧵_paper_as_containment_audit.md)
-      - [**🛰️_Token_Switching_Audit/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
@@ -672,6 +670,7 @@ _Generated on 2025-10-15 21:13:24 UTC_
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_token_switching/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/README.md)
           - [`⚰️_death_review_integrity_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/⚰️_death_review_integrity_audit.md)
           - [`🌍_non_tech_explainer.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/🌍_non_tech_explainer.md)
           - [`📄_emergency_legal_hold_notice.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/📄_emergency_legal_hold_notice.md)
