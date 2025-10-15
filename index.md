@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 18:58:24 UTC_
+_Generated on 2025-10-15 19:15:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1415,11 +1415,13 @@ _Generated on 2025-10-15 18:58:24 UTC_
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💰_resolving_the_fear_of_the_poor.md`](Polaris_Nest/Git_Intake_Drawer/💰_resolving_the_fear_of_the_poor.md)
+    - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
     - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
+    - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
     - [`🛰_working_through_glitches.md`](Polaris_Nest/Git_Intake_Drawer/🛰_working_through_glitches.md)
     - [`🛰️_another_witness_lost_signal.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_another_witness_lost_signal.md)
     - [`🛰️_baseline.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_baseline.md)
