@@ -1,10 +1,10 @@
 # 🧪 Did Unis Really Address the Rape Epidemic Tho  
-**First created:** 2025-09-22 | **Last updated:** 2025-10-06  
+**First created:** 2025-09-22 | **Last updated:** 2025-10-15  
 *An interrogation of UK university safeguarding reforms: culture change or compliance theatre?*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node asks whether British universities ever truly confronted the **rape and sexual assault epidemic** on campus —  
 or if they simply built a new layer of **training days, awareness posters, and safeguarding rhetoric** to shield institutions, not students.  
@@ -14,7 +14,7 @@ where managerial compliance masqueraded as moral reckoning.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - Institutional *branding of safeguarding* as reform.  
 - The pivot from crisis response to PR containment.  
@@ -169,9 +169,10 @@ university safeguarding, rape culture, compliance theatre, consent disappearance
 It examines how institutional safeguarding frameworks reproduce the same erasures they claim to prevent —  
 through bureaucratic empathy, cultural inheritance, and the romanticisation of harm.  
 
-> 📡 Cross-references:  
-> - [🕯 Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows/) — systemic analysis of safeguarding culture  
+> 📡 Cross-references:
+> 
+> - [🕯 Exorcising Safeguarding Shadows](./README.md) — *systemic analysis of safeguarding culture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-15_
