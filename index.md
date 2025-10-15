@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 21:05:00 UTC_
+_Generated on 2025-10-15 21:05:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -375,7 +375,6 @@ _Generated on 2025-10-15 21:05:00 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
       - [`black_mould_audit_checklist.csv`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/black_mould_audit_checklist.csv)
       - [`darvo_vs_prevent.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/darvo_vs_prevent.png)
-      - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
       - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
@@ -681,6 +680,7 @@ _Generated on 2025-10-15 21:05:00 UTC_
         - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
+        - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
         - [`pp14_22_metrics_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/pp14_22_metrics_timeline.png)
         - [`pre_fork_gaza_fork_tree.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/pre_fork_gaza_fork_tree.png)
         - [`retained_removed_pie_chart_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/retained_removed_pie_chart_redacted.png)
