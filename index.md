@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 18:18:36 UTC_
+_Generated on 2025-10-15 18:20:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -161,7 +161,6 @@ _Generated on 2025-10-15 18:18:36 UTC_
     - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/README.md)
       - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/uk_morale_post_2016.png)
-      - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_intuition_as_skill.md)
       - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
       - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/🧠_tolerators_as_targets.md)
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
@@ -680,6 +679,7 @@ _Generated on 2025-10-15 18:18:36 UTC_
         - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
         - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
+        - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md)
