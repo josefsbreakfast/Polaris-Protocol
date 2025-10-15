@@ -1,5 +1,5 @@
 # 💎 Diamonds and Disappointment: Rings, Mobility, and Respectability  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-11  
+**First created:** 2025-10-08 | **Last updated:** 2025-10-15  
 *On how the performance of permanence became a portable credential, a safety device, and an unrealistic demand on modern life.*
 
 ---
@@ -63,9 +63,9 @@ It analyses how jewellery rituals became instruments of social control and how r
 
 > 📡 Cross-references:
 > 
-> - [🌱 Human Principles](../🌱_Human_Principles/README.md) — cultural and ethical frameworks  
-> - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — diagnostics on respectability politics  
+> - [🌱 Human Principles](./README.md) — *cultural and ethical frameworks*  
+> - [🧿 Watch the Watchers](../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *diagnostics on respectability politics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-15_
