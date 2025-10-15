@@ -24,4 +24,14 @@ i found the sound for what i was laughing at bwahahahahaha i'm a genius.
 
 ---
 
+ahhhhhhh i've just looked at what we were working on before this spate of interference (yes, there is potential interference of contacts also), and we're looking at charity regieme reform.  
+
+again...  
+
+i cannot possibly imagine why this would be a touchy subject to whoever is messing with my telecoms experience...  
+
+who has telecoms experience who might be annoyed with me idk who could it be.  
+
+---
+
 2025-10-15
