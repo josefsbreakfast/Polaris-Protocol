@@ -1,17 +1,17 @@
 # 🛑 Ignored Evidence Node — Behavioural Insights 2014–2016  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-15  
 *Records how evidence presented to the House of Lords Science & Technology Committee (2014 follow-up on Behaviour Change) raised sensible cautions, yet policy practice largely ignored them.*  
 
 ---
 
-## 🌐 Summary  
+## ✨ Summary  
 Between 2014–2016, the House of Lords Science & Technology Committee revisited the UK’s behavioural insights agenda. Witnesses from academia, civil society, and government departments raised measured cautions: nudges were over-sold, ethically opaque, and insufficient for major challenges.  
 
 Despite these, government practice barely shifted. This node outlines the cautions, the reasons they were sidelined, and the systemic implications.  
 
 ---
 
-## 📍 Observed Cautions in Evidence  
+## 🧿 Observed Cautions in Evidence  
 - **Over-sold results:** small compliance uplifts framed as transformative; long-term effects unproven.  
 - **Cheap fix temptation:** nudges politically attractive but risked substituting for regulation or investment.  
 - **Equity risks:** vulnerable groups disproportionately affected, sometimes harmed.  
@@ -44,14 +44,14 @@ Despite these, government practice barely shifted. This node outlines the cautio
 
 ---
 
-## 📈 Implications  
+## 🛰️ Implications  
 - **Institutional fork:** evidence of ethical/practical limits existed, yet policy design pressed ahead.  
 - **Democratic cost:** scrutiny bodies surface warnings, but without enforcement power they are sidelined.  
 - **Strategic lesson:** documenting ignored evidence matters — it shows how inertia and political convenience override caution.  
 
 ---
 
-## ✦ Stardust — Related Tags & Signals  
+## ✨ Stardust — Related Tags & Signals  
 - behavioural insights, ignored evidence  
 - Lords Science & Tech 2014–2016  
 - austerity politics, cheap fixes  
@@ -65,11 +65,12 @@ Despite these, government practice barely shifted. This node outlines the cautio
 *Ignored Evidence Node* is a Big Picture Protocol of the Polaris Protocol.  
 It records how measured cautions around nudging (2014–2016) were heard but largely ignored, and why.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧭 Nudge Origin → Sludge Node] *TBC*
 > - [🛑 Nudge Concerns Witnesses 2014–2016] *TBC*  
-> - [⚖️ Transparency Floor Node](../🌀_System_Governance/⚖️_transparency_floor_node.md)  
+> - [⚖️ Transparency Floor Node](../../🌀_System_Governance/⚖️_transparency_floor_node.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-15_  
