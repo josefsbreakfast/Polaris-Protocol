@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 11:29:14 UTC_
+_Generated on 2025-10-15 11:29:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -712,6 +712,8 @@ _Generated on 2025-10-15 11:29:14 UTC_
       - [`🪬_christian_nationalism_as_fascist_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
       - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
+    - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
