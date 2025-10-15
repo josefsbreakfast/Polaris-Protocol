@@ -1,6 +1,6 @@
 # 📊 Comparative Chart: Operation Sanctuary and Parallel Cases  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
-*Mapping common patterns in institutional responses to group-based exploitation cases in England*  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*Mapping common patterns in institutional responses to group-based exploitation cases in England.*  
 
 ---
 
@@ -32,4 +32,4 @@ It traces recurring suppression and denial logics in English safeguarding scanda
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-15_  
