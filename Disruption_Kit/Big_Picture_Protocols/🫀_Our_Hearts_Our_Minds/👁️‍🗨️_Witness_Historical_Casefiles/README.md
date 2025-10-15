@@ -50,3 +50,5 @@ It shows how metadata suppression intersects with lived history, and why preserv
 > - [🛰️ Surveillance Infrastructure](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md) — *the infrastructure shaping testimony visibility*  
 
 *Survivor memory is a signal. Suppression is a method. Archiving is resistance.*  
+
+_Last updated: 2025-10-15_  
