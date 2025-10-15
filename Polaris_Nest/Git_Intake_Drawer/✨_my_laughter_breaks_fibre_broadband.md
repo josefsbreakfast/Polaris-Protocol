@@ -32,6 +32,8 @@ i cannot possibly imagine why this would be a touchy subject to whoever is messi
 
 who has telecoms experience who might be annoyed with me idk who could it be.  
 
+*significant defiation from a preset group of rules entered into a genAI tool to secifically narrow what tasks are performed, and getting a wildly different format, does not match the behaviour of genAI; this is not how chatgpt is designed, and therefore it is likely to be the result of interference of an agent-like extrenal source*
+
 ---
 
 2025-10-15
