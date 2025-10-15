@@ -12,4 +12,12 @@ i wonder what the issue could possibly be. this is obviously such a normal, non-
 
 it definitly is not being butthurt and definitly not the surveillance squad; nope nope nope.  
 
+---
+
+and to think i toned down the bad broadway singing for you guys...  
+
+not making that mistake again.  
+
+---
+
 2025-10-15
