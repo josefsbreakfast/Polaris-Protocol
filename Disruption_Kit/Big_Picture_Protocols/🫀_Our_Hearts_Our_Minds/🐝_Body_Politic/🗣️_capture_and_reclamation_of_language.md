@@ -1,6 +1,6 @@
 # 🗣️ Capture and Reclamation of Language  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
-*How disabled people reclaim terms like “crip” — and why outsider use is not the same*  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+*How disabled people reclaim terms like “crip” — and why outsider use is not the same.*  
 
 ---
 
@@ -70,10 +70,11 @@ language politics, disability, reclamation, crip, mad pride, eugenics, community
 *Capture and Reclamation of Language* is a living node of the Polaris Protocol.  
 It situates language as both a tool of containment and a site of disabled resistance.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🦿 Eugenics as Everyday Metaphor](./🦿_eugenics_as_everyday_metaphor.md)  
 > - [🧩 Politics of the Body: Core Statement](./🧩_politics_of_the_body_core_statement.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-10-15_  
