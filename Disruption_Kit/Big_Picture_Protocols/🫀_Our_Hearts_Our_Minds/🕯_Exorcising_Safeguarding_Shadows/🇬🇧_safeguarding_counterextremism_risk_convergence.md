@@ -1,6 +1,6 @@
 # 🇬🇧 Safeguarding–Counterextremism Risk Convergence  
-**First created:** 2025-09-01 | **Last updated:** 2025-10-06   
-*Forensic analysis of UK governance structures where safeguarding and counterextremism data are clustered, heightening risk of exploitation by powerful perpetrators*  
+**First created:** 2025-09-01 | **Last updated:** 2025-10-15   
+*Forensic analysis of UK governance structures where safeguarding and counterextremism data are clustered, heightening risk of exploitation by powerful perpetrators.*  
 
 ---
 
@@ -65,8 +65,6 @@ This **creates incentive for precisely the type of entrenched bad actors** that 
 *Safeguarding–Counterextremism Risk Convergence* is a living node of the Polaris Protocol.  
 It documents systemic UK governance practices that heighten predation risk by concentrating survivor data and national security intelligence in shared clusters.  
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_  
+_Last updated: 2025-10-15_  
