@@ -1,7 +1,5 @@
 # 🔧 Technical Audit Playbook: Token Switching  
-
-**First created:** 2025-09-30 | **Last updated:** 2025-09-30  
-
+**First created:** 2025-09-30 | **Last updated:** 2025-10-15  
 *For sysadmins, forensic analysts, and SIEM operators.*  
 
 ---
@@ -45,20 +43,21 @@ subject_id:(A OR B) | stats count by device_mac, location, subject_id | where co
 ---
 
 ## Step 4: Report findings  
-Use the [📑 Forensic Report Template](./📑_Forensic_Report_Template.md).  
+Use the [📑 Forensic Report Template](./📑_forensic_report_template.md).  
 Do not alter source records until the report is complete.  
 
 ---
 
 ## 🏮 Footer  
 
-*🔧 Technical Audit Playbook: Token Switching* is a protocol node of the Polaris Protocol.  
+*Technical Audit Playbook: Token Switching* is a protocol node of the Polaris Protocol.  
 It provides a reproducible process for forensic verification of identity-token manipulation.  
 
-> 📡 Cross-references:  
-> - [📑 Forensic Report Template](./📑_Forensic_Report_Template.md)  
-> - [🧬 Twinning Detection](../../Metadata_Sabotage_Network/🧬_twinning_detection.md)  
+> 📡 Cross-references:
+> 
+> - [📑 Forensic Report Template](./📑_forensic_report_template.md)  
+> - [🧬 Twinning Detection](../🧬_twinning_detection.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-15_  
