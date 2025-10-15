@@ -83,7 +83,7 @@ It provides a pedagogical scaffold and witness record of Jewish entanglements in
 > 📡 Cross-references:
 > 
 > - [👁️‍🗨️ Witness Historical Casefiles](./README.md) — *archives of structural positioning and diaspora records*  
-> - [Politics & Memory Work](../🫀_Our_Hearts_Our_Minds/🗝️_Politics_Memory_Work/README.md) — *discourse double standards and historical layering*  
+> - [🗝️ Politics & Memory Work](../🗝️_Politics_Memory_Work/README.md) — *discourse double standards and historical layering*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
