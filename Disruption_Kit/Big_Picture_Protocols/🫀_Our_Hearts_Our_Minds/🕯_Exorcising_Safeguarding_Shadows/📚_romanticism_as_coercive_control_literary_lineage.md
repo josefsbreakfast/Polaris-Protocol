@@ -1,5 +1,5 @@
 # 📚 Romanticism as Coercive Control — Literary Lineage  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-15  
 *Tracing how 18th–19th century literary tropes of love, madness, and sacrifice became templates for institutional empathy and containment.*  
 
 ---
@@ -111,11 +111,7 @@ romanticism, gothic literature, coercive control, jane eyre, fallen woman trope,
 It traces how cultural empathy scripts from classic literature still shape modern safeguarding and institutional response systems —  
 and how survivors, writers, and critics continue to rewrite them.  
 
-> 📡 Cross-references:  
-> - [🕯 Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows/) — main cluster on safeguarding culture  
-> - [🧪 Did Unis Really Address the Rape Epidemic Tho](./🧪_did_unis_really_address_rape_epidemic_tho.md) — applied case study  
-> - [🎛 Polaris Drafting Rules — Survivor Voice Fidelity](../../../🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone scaffolding  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-15_
