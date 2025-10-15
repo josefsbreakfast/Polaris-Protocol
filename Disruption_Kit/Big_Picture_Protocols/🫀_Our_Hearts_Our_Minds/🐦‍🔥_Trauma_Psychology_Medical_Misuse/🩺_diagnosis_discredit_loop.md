@@ -1,5 +1,5 @@
 # 🩺 Diagnosis–Discredit Loop  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
 *Active tactic: inserting or questioning mental-health diagnoses to undermine reliability of testimony.*
 
 ---
@@ -43,10 +43,11 @@ diagnosis discrediting, mental health surveillance, prevent system, data capture
 *Diagnosis–Discredit Loop* is a living node of the Polaris Protocol.  
 It records an active containment tactic where mental-health diagnoses are prompted or reshaped to discredit survivor testimony.  
 
-> 📡 Cross-references:  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md)  
-> - [👅 Voice Disruption & Discrediting](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)  
+> 📡 Cross-references:
+> 
+> - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)  
+> - [👅 Voice Disruption & Discrediting](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-15_
