@@ -1,6 +1,6 @@
 # 🐄 Land Scarcity and Space Dignity  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-30  
-*Explores the myth of “no room” in the UK and the human implications of manufactured scarcity*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-15  
+*Explores the myth of “no room” in the UK and the human implications of manufactured scarcity.*  
 
 ---
 
@@ -63,10 +63,11 @@ This isn’t about utopia. It’s about **redefining what we consider fair use**
 *🐄 Land Scarcity and Space Dignity* is a living node of the Polaris Protocol.  
 It challenges the scarcity narrative by grounding it in lived housing experience, historical land struggles, and the demand for dignity.  
 
-> 📡 Cross-references:  
-> - [⚖️ Coercive Control in Border Policy](../🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md) — *borders as systemic coercion*  
+> 📡 Cross-references:
+> 
+> - [⚖️ Coercive Control in Border Policy](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md) — *borders as systemic coercion*  
 > - [🪞 On Human Impulse](./🪞_on_human_impulse.md) — *reflections on what humans need beyond survival*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-15_  
