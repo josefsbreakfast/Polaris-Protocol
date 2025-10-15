@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 18:38:17 UTC_
+_Generated on 2025-10-15 18:39:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -320,7 +320,6 @@ _Generated on 2025-10-15 18:38:17 UTC_
       - [`🧬_clone_interference_map.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_clone_interference_map.png)
       - [`🧬_clone_twinning_matrix.json`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_clone_twinning_matrix.json)
       - [`🧬_digital_twins_as_cause_of_shattered_irl_persona.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_digital_twins_as_cause_of_shattered_irl_persona.md)
-      - [`🧬_psychographic_modelling_and_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_psychographic_modelling_and_twinning.md)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
@@ -686,6 +685,7 @@ _Generated on 2025-10-15 18:38:17 UTC_
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
         - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
+        - [`🧬_psychographic_modelling_and_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_psychographic_modelling_and_twinning.md)
         - [`🧬_twinned_signature.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinned_signature.md)
         - [`🧬_twinning_detection.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinning_detection.md)
         - [`🩺_diagnosis_discredit_loop.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩺_diagnosis_discredit_loop.md)
