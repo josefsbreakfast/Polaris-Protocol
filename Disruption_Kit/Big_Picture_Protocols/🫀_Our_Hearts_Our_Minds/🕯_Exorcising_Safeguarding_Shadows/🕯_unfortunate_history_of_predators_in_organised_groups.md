@@ -1,5 +1,5 @@
 # 🕯 The Unfortunate History of Predators in Organised Groups  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-05  
+**First created:** 2025-10-05 | **Last updated:** 2025-10-15  
 *A historical skeleton of child exploitation, grooming, and predation inside organised settings.*
 
 ---
@@ -84,11 +84,6 @@ child exploitation history, organised abuse, safeguarding shadows, predator beha
 *The Unfortunate History of Predators in Organised Groups* is a living node of the Polaris Protocol.  
 It scaffolds the long view of predation inside organised settings so that survivor-informed risk management can be built with historical memory intact.  
 
-> 📡 Cross-references:  
-> - [🕯 Exorcising Safeguarding Shadows](../🕯_exorcising_safeguarding_shadows.md) — hidden safeguarding industry patterns  
-> - [👁️‍🗨️ Witness Historical Casefiles](../👁️‍🗨️_witness_historical_casefiles/) — forensic archives and testimony  
-> - [🧿 Watch The Watchers](../🧿_watch_the_watchers/) — oversight of oversight  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-15_
