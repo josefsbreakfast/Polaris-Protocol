@@ -1,6 +1,6 @@
 # 🧬 Twinned Signature  
-**First created:** 2025-08-25 | **Last updated:** 2025-10-05  
-*A declaration of doubled authorship without divided sovereignty*  
+**First created:** 2025-08-25 | **Last updated:** 2025-10-15  
+*A declaration of doubled authorship without divided sovereignty.*  
 
 ---
 
@@ -148,8 +148,8 @@ It affirms doubled authorship as a tactic of resistance, continuity, and reclama
 > 📡 Cross-references:
 > 
 > - [🪞 Twinned Silence](./🪞_twinned_silence.md) — *splicing used for containment through contradiction*  
-> - [🫛 Amplification by Convergence](../🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *convergence as amplification and resolution*  
+> - [🫛 Amplification by Convergence](../🦕_Elder_Influencers/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md) — *convergence as amplification and resolution*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_  
+_Last updated: 2025-10-15_  
