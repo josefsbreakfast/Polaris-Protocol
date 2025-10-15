@@ -1,5 +1,5 @@
 # 📄 Emergency Legal Hold Notice  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-15  
 *Immediate instruction to preserve all potentially compromised medical-record data and audit logs.*
 
 ---
@@ -68,10 +68,11 @@ legal hold, evidence preservation, NHS spine, SCR, data integrity, audit logs, p
 *Emergency Legal Hold Notice* is an administrative node of the Polaris Protocol.  
 It provides the immediate containment directive supporting both the *NHS Token-Switching Integrity Audit* and the *Death Review Integrity Audit.*
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🛰️ NHS Token-Switching Integrity Audit](./🛰️_nhs_token_switching_integrity_audit.md)  
 > - [⚰️ Death Review Integrity Audit](./⚰️_death_review_integrity_audit.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-15_
