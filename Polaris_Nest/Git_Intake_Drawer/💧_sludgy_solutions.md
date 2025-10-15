@@ -4,13 +4,13 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 “Sludge” describes the friction, junk content, and manipulative architectures that make the web unusable.  
 This node explores **systemic fixes** — not just better filters, but governance models that shift incentives away from sludge production.
 
 ---
 
-## 🧩 Diagnostic Snapshot  
+## 🩻 Diagnostic Snapshot  
 | Layer | Source of Sludge | Example | Countermeasure |
 |-------|------------------|----------|----------------|
 | Algorithmic | Engagement optimisation | clickbait farms | cooperative ranking models |
@@ -20,7 +20,7 @@ This node explores **systemic fixes** — not just better filters, but governanc
 
 ---
 
-## 🧭 Sidebar: Hypothetical Cooperative / Public-Run Models  
+## 🪺 Sidebar: Hypothetical Cooperative / Public-Run Models  
 
 ### 🏛 Cooperative Search  
 A **public-service search engine**, run as a civic utility (think “BBC of Search”), indexed transparently, weighted toward public knowledge over ad revenue.  
@@ -36,7 +36,7 @@ Shared repository of recommendation datasets, so researchers and publics can ins
 
 ---
 
-## 🧭 Sidebar Flow: How Cooperative Search Redirects Sludge Loops  
+## ✈️ Sidebar Flow: How Cooperative Search Redirects Sludge Loops  
 
 > **Alt-text (diagram):** A flow shows a user query travelling through a public index and cooperative ranking pipeline with community feedback and verification. Sludge sources get de-ranked via transparent signals; improved results feed back into the commons.
 
@@ -78,7 +78,7 @@ flowchart LR
 
 ---
 
-## 🧭 Sidebar Flow 2: School–Library Federation Sandbox  
+## 🏖️ Sidebar Flow 2: School–Library Federation Sandbox  
 
 > **Alt-text (diagram):** A local network of classrooms and libraries share moderated spaces. Students learn moderation through guided practice; difficult content escalates to regional review rather than algorithmic bans.
 
@@ -111,7 +111,7 @@ flowchart TD
 
 ---
 
-## 🪙 Sidebar: Funding and Governance Models  
+## 💸 Sidebar: Funding and Governance Models  
 
 ### 🌀 Rotating Youth Councils  
 Small elected panels of students, librarians, and teachers who rotate moderation oversight every term. Builds accountability and skill continuity.  
@@ -142,9 +142,10 @@ digital sludge, cooperative media, public infrastructure, search engine reform, 
 *Sludgy Solutions* is a living node of the Polaris Protocol.  
 It maps structural countermeasures to content pollution and outlines cooperative models for cleaner information ecosystems.  
 
-> 📡 Cross-references:  
-> - [🧒 How to Internet for Kids](./🧒_how_to_internet_for_kids.md) — literacy and early education  
-> - [🧿 Watch The Watchers](../../Big_Picture_Protocols/🧿_Watch_The_Watchers/) — oversight architectures  
+> 📡 Cross-references:
+> 
+> - [🍎 How to Internet for Kids](./🍎_how_to_internet_for_kids.md) — *literacy and early education*  
+> - [🧿 Watch The Watchers](../../Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md) — *oversight architectures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
