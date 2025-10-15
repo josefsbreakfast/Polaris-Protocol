@@ -1,7 +1,5 @@
 # 🕸️ Governance and Mitigation: Token Switching  
-
-**First created:** 2025-09-30 | **Last updated:** 2025-09-30  
-
+**First created:** 2025-09-30 | **Last updated:** 2025-10-15  
 *For leadership, compliance, and procurement.*  
 
 ---
@@ -37,13 +35,12 @@
 
 ## 🏮 Footer  
 
-*🛡️ Governance and Mitigation: Token Switching* is a protocol node of the Polaris Protocol.  
+*Governance and Mitigation: Token Switching* is a protocol node of the Polaris Protocol.  
 It translates technical audit findings into governance and procurement safeguards.  
 
 > 📡 Cross-references:  
 > - [🌍 Non-Tech Explainer](./🌍_Non_Tech_Explainer.md)  
-> - [🌀 System_Governance](../System_Governance/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-15_  
