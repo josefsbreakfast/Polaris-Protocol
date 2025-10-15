@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 10:51:15 UTC_
+_Generated on 2025-10-15 11:02:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -241,7 +241,6 @@ _Generated on 2025-10-15 10:51:15 UTC_
       - [`⚠️_authoritarian_incentives_in_universities.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⚠️_authoritarian_incentives_in_universities.md)
       - [`⛩️_very_secret_peer_review.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)
       - [`🌍_soft_power_and_international_resentment.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md)
-      - [`🎓_safeguarding_as_surveillance_university_case_pattern.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_safeguarding_as_surveillance_university_case_pattern.md)
       - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
       - [`📜_funding_and_charitable_status_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/📜_funding_and_charitable_status_timeline.md)
       - [`🧠_erosion_of_extracurricular_and_anatomy.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/🧠_erosion_of_extracurricular_and_anatomy.md)
@@ -1398,6 +1397,7 @@ _Generated on 2025-10-15 10:51:15 UTC_
     - [`🇺🇸_bro_do_you_even_juristiction.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_bro_do_you_even_juristiction.md)
     - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
+    - [`🎓_safeguarding_as_surveillance_university_case_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance_university_case_pattern.md)
     - [`🏙️_industrial_layout_ghosts.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_industrial_layout_ghosts.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`💰_resolving_the_fear_of_the_poor.md`](Polaris_Nest/Git_Intake_Drawer/💰_resolving_the_fear_of_the_poor.md)
