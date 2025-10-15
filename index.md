@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 11:02:24 UTC_
+_Generated on 2025-10-15 11:08:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -306,6 +306,8 @@ _Generated on 2025-10-15 11:02:24 UTC_
       - [`🚀_scarcity_prohibition_rocket_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md)
       - [`🧿_canonisation_by_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)
       - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🪄_the_magical_disappearing_book.md)
+    - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
+      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
     - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/README.md)
       - [`♿_containment_by_pity.md`](Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/♿_containment_by_pity.md)
