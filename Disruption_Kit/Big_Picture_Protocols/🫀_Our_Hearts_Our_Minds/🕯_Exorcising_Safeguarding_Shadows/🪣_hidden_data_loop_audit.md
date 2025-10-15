@@ -83,8 +83,8 @@ It helps individuals and investigators recognise the symptoms of cross-system tr
 
 > 📡 Cross-references:
 > 
-> - [🧮 Algorithmic Exposure Bias in Whistleblower Systems](../../../Disruption_Kit/Big_Picture_Protocols/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)  
-> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/🧬_structural_mapping.md)
+> - [🧮 Algorithmic Exposure Bias in Whistleblower Systems](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md) - *How repetitive pattern exposure reshapes perception and credibility inside whistleblower and safeguarding systems*  
+> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *Adjacency maps, rupture logs, and simulation-pathway data describing the inner architecture of metadata sabotage systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
