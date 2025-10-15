@@ -1,6 +1,6 @@
 # ⚰️ Death Review Integrity Audit  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*Audit protocol for detecting suppression, bias, and procedural irregularities in death-review and coroner referral processes*
+**First created:** 2025-10-04 | **Last updated:** 2025-10-15  
+*Audit protocol for detecting suppression, bias, and procedural irregularities in death-review and coroner referral processes.*  
 
 ---
 
@@ -110,8 +110,8 @@ It defines procedures for preserving evidence and detecting suppression in medic
 
 > 📡 Cross-references:  
 > - [🛰️ NHS Token-Switching Integrity Audit](./🛰️_nhs_token_switching_integrity_audit.md) — priority live-risk containment  
-> - [🕯 Exorcising Safeguarding Shadows / 🛰 Token Switching Audit](../🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/)  
+> - [🕯 Exorcising Safeguarding Shadows / 🛰 Token Switching Audit](./)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-15_
