@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 21:07:24 UTC_
+_Generated on 2025-10-15 21:08:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -370,7 +370,6 @@ _Generated on 2025-10-15 21:07:24 UTC_
         - [`📄_emergency_legal_hold_notice.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/📄_emergency_legal_hold_notice.md)
         - [`📑_Forensic_Report_Template.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/📑_Forensic_Report_Template.md)
         - [`🔧_Technical_Audit_Playbook.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🔧_Technical_Audit_Playbook.md)
-        - [`🕸️_Governance_and_Mitigation.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🛰️_Token_Switching_Audit/🕸️_Governance_and_Mitigation.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
@@ -678,6 +677,7 @@ _Generated on 2025-10-15 21:07:24 UTC_
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_token_switching/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/)
+          - [`🕸️_governance_and_mitigation.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/🕸️_governance_and_mitigation.md)
           - [`🛰️_nhs_token_switching_integrity_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/🛰️_nhs_token_switching_integrity_audit.md)
         - [`black_mould_audit_checklist.csv`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/black_mould_audit_checklist.csv)
         - [`darvo_vs_prevent.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/darvo_vs_prevent.png)
