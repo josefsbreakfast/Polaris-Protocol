@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 20:30:10 UTC_
+_Generated on 2025-10-15 20:30:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -301,7 +301,6 @@ _Generated on 2025-10-15 20:30:10 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
       - [`battleplan_metadata_twinning_convergence_containment.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/battleplan_metadata_twinning_convergence_containment.png)
       - [`metadata_twinning_divergence_convergence_amplification.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/metadata_twinning_divergence_convergence_amplification.png)
-      - [`ouroboros_ihra_overreach.png`](Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ouroboros_ihra_overreach.png)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
@@ -667,6 +666,7 @@ _Generated on 2025-10-15 20:30:10 UTC_
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
         - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
+        - [`ouroboros_ihra_overreach.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ouroboros_ihra_overreach.png)
         - [`overlaid_nda_mesh_local.jpeg`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/overlaid_nda_mesh_local.jpeg)
         - [`shadow_nda_redacted.pdf`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/shadow_nda_redacted.pdf)
         - [`triple_lock_audit_gap_flow.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/triple_lock_audit_gap_flow.png)
