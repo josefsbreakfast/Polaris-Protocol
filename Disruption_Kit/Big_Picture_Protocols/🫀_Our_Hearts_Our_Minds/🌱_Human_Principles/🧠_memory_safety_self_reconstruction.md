@@ -1,24 +1,24 @@
 # 🧠 Memory, Safety & Self-Reconstruction  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-30  
-*Exploring how rest, creativity, and release from constant scrutiny restore memory and the ability to piece together one’s own history*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-15  
+*Exploring how rest, creativity, and release from constant scrutiny restore memory and the ability to piece together one’s own history.*  
 
 ---
 
-## 1. Surveillance & Narrowed Memory  
+## 🧿 Surveillance & Narrowed Memory  
 - Under chronic scrutiny, memory narrows to the immediate: enough to manage risk, not enough to hold a broad timeline.  
 - Self-management absorbs attention → past experiences fragment.  
 - Politics of memory: states exploit this, using stress and surveillance to weaken communities’ ability to connect their own stories.  
 
 ---
 
-## 2. Safety & Memory Return  
+## 🦩 Safety & Memory Return  
 - Sleep, art, reading, relaxation broaden access to memory.  
 - Episodic fragments become connected into narrative.  
 - Past events re-emerge in new light: “Oh, I remember this… I remember that.”  
 
 ---
 
-## 3. Reconstruction  
+## 🐦‍🔥 Reconstruction  
 - Calm enables pattern recognition → how past interpretations led to the present.  
 - Memory becomes political: reclaiming one’s own story resists surveillance’s containment.  
 - Creative practices (art, books, reflection) act as counterweights to suppression.  
@@ -57,15 +57,15 @@ memory, surveillance, safety, trauma, politics of memory, self-reconstruction, r
 
 ## 🏮 Footer  
 
-*🧠 Memory, Safety & Self-Reconstruction* is a living node of the Polaris Protocol.  
+*Memory, Safety & Self-Reconstruction* is a living node of the Polaris Protocol.  
 It documents how conditions of rest and release repair fragmented memory, enabling survivors and communities to reclaim narrative sovereignty. 
 
 > 📡 Cross-references:
 > 
-> - [💣 The Cultural Bomb](../🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md) - *Ngũgĩ wa Thiong’o’s concept of colonial culture as a weapon of erasure*
+> - [💣 The Cultural Bomb](../../🦕_Elder_Influencers/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md) - *Ngũgĩ wa Thiong’o’s concept of colonial culture as a weapon of erasure*
 > - [🐍 Snake Bites and Stolen Voices](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md) - *Narrative reversal on suppression, theft, and clarity strikes*  
-> - [🧠 Humiliation as Governance](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md)*Marking and degrading the “other” as a systemic tactic of European governance*  
+> - [🧠 Humiliation as Governance](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md) - *Marking and degrading the “other” as a systemic tactic of European governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-15_  
