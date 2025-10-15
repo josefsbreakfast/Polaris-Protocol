@@ -1,6 +1,6 @@
 # 🧪 Ego Insurance But Make It Personal  
-**First created:** 2025-09-21 | **Last updated:** 2025-10-08  
-*How a simple workplace bet over a “favourite case” metastasises into institutional vendetta*  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*How a simple workplace bet over a “favourite case” metastasises into institutional vendetta.*  
 
 ---
 
@@ -282,10 +282,10 @@ It maps how petty rivalries and bruised egos metastasise into bureaucratic vende
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](../🌀_System_Governance/README.md) — control loops and institutional distortions  
-> - [Containment Scripts](../../Containment_Scripts/README.md) — methods of sustained harassment  
-> - [Metadata Sabotage Network](../../../Metadata_Sabotage_Network/README.md) — data-twinning and signalling loops  
+> - [🌀 System Governance](../../🌀_System_Governance/README.md) — control loops and institutional distortions  
+> - [Containment Scripts](../../../Containment_Scripts/README.md) — methods of sustained harassment  
+> - [Metadata Sabotage Network](../../../../Metadata_Sabotage_Network/README.md) — data-twinning and signalling loops  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-15_
