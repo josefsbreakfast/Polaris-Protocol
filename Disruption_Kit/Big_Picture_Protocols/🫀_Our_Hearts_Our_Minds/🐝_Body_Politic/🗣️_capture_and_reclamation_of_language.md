@@ -33,7 +33,7 @@ That reclamation does not license outsiders to use the same terms. Context matte
 
 ## 🐦‍🔥 On Humility and Shared Goals
 
-I will freely admit as an author and as a writer, even in this space in this repo, you can see that I often use Rory terms that could be used towards me because of my disability status, as insults. This is not an example of language reclamation. This is an example of how internalised ableism is, even amongst the people who benefit the least from propagating the idea that people with less injury or somehow more worthy of life.  
+I will freely admit as an author and as a writer, even in this space in this repo, you can see that I often use derogatory terms that could be used towards me because of my disability status, as insults. This is not an example of language reclamation. This is an example of how internalised ableism is, even amongst the people who benefit the least from propagating the idea that people with less injury or somehow more worthy of life.  
 
 I am not excused from being called out by people, any more than abled bodied people are.  
 
