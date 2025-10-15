@@ -1,6 +1,6 @@
 # 🏛️ State Patterns of Forced Intimacy  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-28  
-*How state systems weaponise enforced proximity, repression, and intimacy to destabilise people*  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-15  
+*How state systems weaponise enforced proximity, repression, and intimacy to destabilise people.*  
 
 ---
 
@@ -59,4 +59,4 @@ It records how authoritarian and democratic states alike have used proximity, re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-15_
