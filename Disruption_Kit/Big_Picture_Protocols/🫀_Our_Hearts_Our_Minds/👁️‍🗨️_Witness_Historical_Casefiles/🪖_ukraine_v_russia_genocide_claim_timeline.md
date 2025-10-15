@@ -1,10 +1,10 @@
 # 🪖 Ukraine v Russia — Genocide Claim Timeline  
-**First created:** 2025-09-24 | **Last updated:** 2025-10-08    
+**First created:** 2025-09-24 | **Last updated:** 2025-10-15    
 *ICJ proceedings on misuse of the Genocide Convention & related atrocity probes.*  
 
 ---
 
-## 🌐 Orientation  
+## 🛰️ Orientation  
 This node tracks the ICJ case where Ukraine accused Russia of abusing the Genocide Convention to justify its 2022 invasion, alongside parallel atrocity investigations.  
 
 ---
@@ -75,11 +75,12 @@ flowchart TD
 *Ukraine v Russia — Genocide Claim Timeline* is a living node of the Polaris Protocol.  
 It documents how “genocide” was contested at the ICJ, and how parallel accountability tracks (ICC, UN) diverged in scope.  
 
-> 📡 Cross-references:  
-> - [👁️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — international case precedents  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — misuse of legal categories as coercive tools  
+> 📡 Cross-references:
+> 
+> - [👁️ Witness Historical Casefiles](./README.md) — *international case precedents*  
+> - [🧠 HM Dept Coercive Nudges](../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *misuse of legal categories as coercive tools*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-15_  
 
