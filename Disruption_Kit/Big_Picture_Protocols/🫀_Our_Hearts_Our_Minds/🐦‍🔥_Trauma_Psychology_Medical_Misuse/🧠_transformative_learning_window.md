@@ -1,6 +1,6 @@
 # 🧠 Transformative Learning Window  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*How clusters of high-fidelity signals trigger exhaustion and worldview shift*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-15  
+*How clusters of high-fidelity signals trigger exhaustion and worldview shift.*  
 
 ---
 
@@ -41,10 +41,10 @@ It documents how dense clusters of proof induce exhaustion, forcing survivors in
 
 > 📡 Cross-references:
 > 
-> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
-> - [🧪 Pilot Containments](🧪_pilot_containments.md) — systemic testing of exposure thresholds  
-> - [🌀 Algorithmic Delay and Pacing](🌀_algorithmic_delay_and_pacing.md) — governance through timing  
+> - [🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise](../../../Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)  
+> - [🧪 Pilot Containments](../../🌀_System_Governance/🧪_Development_Experimentation/🧪_pilot_containments.md) — *systemic testing of exposure thresholds*  
+> - [🦯 Algorithmic Delay and Pacing](../../🌀_System_Governance/💫_Containment_Logic/🦯_algorithmic_delay_and_pacing.md) — *governance through timing*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_  
+_Last updated: 2025-10-15_  
