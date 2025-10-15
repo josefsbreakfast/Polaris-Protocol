@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 21:03:52 UTC_
+_Generated on 2025-10-15 21:04:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -378,7 +378,6 @@ _Generated on 2025-10-15 21:03:52 UTC_
       - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
       - [`pp14_22_metrics_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/pp14_22_metrics_timeline.png)
       - [`pre_fork_gaza_fork_tree.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/pre_fork_gaza_fork_tree.png)
-      - [`retained_removed_pie_chart_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/retained_removed_pie_chart_redacted.png)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
       - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
@@ -684,6 +683,7 @@ _Generated on 2025-10-15 21:03:52 UTC_
         - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
+        - [`retained_removed_pie_chart_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/retained_removed_pie_chart_redacted.png)
         - [`safeguarding_model_actual_vs_potential.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/safeguarding_model_actual_vs_potential.png)
         - [`safeguarding_model_potential.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/safeguarding_model_potential.png)
         - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
