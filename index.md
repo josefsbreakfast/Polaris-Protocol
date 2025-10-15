@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 12:08:38 UTC_
+_Generated on 2025-10-15 16:42:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1404,6 +1404,7 @@ _Generated on 2025-10-15 12:08:38 UTC_
     - [`🇵🇸_tort_warning.md`](Polaris_Nest/Git_Intake_Drawer/🇵🇸_tort_warning.md)
     - [`🇺🇸_bro_do_you_even_juristiction.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_bro_do_you_even_juristiction.md)
     - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
+    - [`🍎_how_to_internet_for_kids.md`](Polaris_Nest/Git_Intake_Drawer/🍎_how_to_internet_for_kids.md)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🎓_safeguarding_as_surveillance_university_case_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance_university_case_pattern.md)
     - [`🏙️_industrial_layout_ghosts.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_industrial_layout_ghosts.md)
