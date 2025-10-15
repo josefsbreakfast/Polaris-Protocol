@@ -1,6 +1,5 @@
 # 👁️‍🗨️ Witness & Historical Casefiles  
-
-**First created:** 2025-08-27 | **Last updated:** 2025-08-27  
+**First created:** 2025-08-27 | **Last updated:** 2025-08-15  
 *Hybrid forensic/big picture casefiles that preserve testimony, metadata, and community vulnerabilities.*  
 
 ---
@@ -42,11 +41,12 @@ It blends forensic documentation with systemic analysis — showing how local in
 
 ## 🏮 Footer  
 
-*🧾 Witness & Historical Casefiles* forms a living archive of survivor testimony and community case studies.  
+*Witness & Historical Casefiles* forms a living archive of survivor testimony and community case studies.  
 It shows how metadata suppression intersects with lived history, and why preserving witness accounts is a systemic necessity.  
 
-> 📡 Cross-references:  
-> - [📚 Narrative Management and Metadata Sabotage](../🌀_System_Governance/📚_narrative_management_and_metadata_sabotage.md) — systemic sabotage patterns  
-> - [🛰️ Surveillance Infrastructure](../🌀_System_Governance/🛰️_surveillance_infrastructure.md) — the infrastructure shaping testimony visibility  
+> 📡 Cross-references:
+> 
+> - [📚 Narrative Management and Metadata Sabotage](../../🌀_System_Governance/📚_Narrative_Management/README.md) — *systemic sabotage patterns*  
+> - [🛰️ Surveillance Infrastructure](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md) — *the infrastructure shaping testimony visibility*  
 
 *Survivor memory is a signal. Suppression is a method. Archiving is resistance.*  
