@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 17:17:59 UTC_
+_Generated on 2025-10-15 17:22:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -365,7 +365,6 @@ _Generated on 2025-10-15 17:17:59 UTC_
       - [`🚨_super_injunctions_and_slapps_in_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🚨_super_injunctions_and_slapps_in_rape_cases.md)
       - [`🛑_ignored_evidence_behavioural_insights_2014_2016.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)
       - [`🛰️_witness_by_proxy_midlands_2016.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🛰️_witness_by_proxy_midlands_2016.md)
-      - [`🟦_teaching_framework_jews_empire_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🟦_teaching_framework_jews_empire_antisemitism.md)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
@@ -710,6 +709,7 @@ _Generated on 2025-10-15 17:17:59 UTC_
       - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/)
+        - [`🟦_teaching_framework_jews_empire_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🟦_teaching_framework_jews_empire_antisemitism.md)
         - [`🧩_interlocking_timelines_qanon_epstein_clinton_fbi.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧩_interlocking_timelines_qanon_epstein_clinton_fbi.md)
         - [`🧬_successor_firms_scl_cambridge_analytica.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧬_successor_firms_scl_cambridge_analytica.md)
         - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
