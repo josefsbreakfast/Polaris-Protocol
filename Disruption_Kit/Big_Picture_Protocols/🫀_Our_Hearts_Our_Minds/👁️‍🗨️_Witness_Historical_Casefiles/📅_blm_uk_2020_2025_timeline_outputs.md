@@ -1,7 +1,7 @@
 # 📅 BLM UK 2020 – 2025 Timeline Outputs  
-**First created:** 2025-10-06  |  **Last updated:** 2025-10-08  
+**First created:** 2025-10-06  |  **Last updated:** 2025-10-15  
 *A factual chronology of United Kingdom outputs, responses, and transformations emerging from the 2020 Black Lives Matter movement through 2025.*
-
+ 
 ---
 
 ## 🛰️ Overview  
@@ -84,15 +84,15 @@ black lives matter UK, timeline, institutional racism, inclusive britain, war on
 
 ## 🏮 Footer  
 
-*📅 BLM UK 2020 – 2025 Timeline Outputs* is a living node of the Polaris Protocol.  
+*BLM UK 2020 – 2025 Timeline Outputs* is a living node of the Polaris Protocol.  
 It records how the BLM moment in Britain evolved into institutional response, bureaucratic containment, and discursive substitution through 2025.  
 
 > 📡 Cross-references:  
 > – [🕊️ From BLM to Palestine — The Suppression Switchboard](./🕊️_from_blm_to_palestine_the_suppression_switchboard.md)  
-> – [⚔️ War on Woke as Containment Architecture](../📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)  
-> – [🪞 Deference Politics as Containment Mechanism](../🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)  
-> – [🧩 Re-Justification Loop — Racial Logics Reborn as Safety](../🧠_HM_Dept_Coercive_Nudges/🧩_rejustification_loop_racial_logics_reborn_as_safety.md)  
+> – [⚔️ War on Woke as Containment Architecture](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)  
+> – [🪞 Deference Politics as Containment Mechanism](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)  
+> – [🧩 Re-Justification Loop — Racial Logics Reborn as Safety](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🧩_rejustification_loop_racial_logics_reborn_as_safety.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-15_  
