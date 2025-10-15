@@ -1,15 +1,15 @@
 # 🧬 Successor Firms After the SCL / Cambridge Analytica Collapse  
-**First created:** 2025-09-06 | **Last updated:** 2025-10-08  
-*Mapping the dispersal lineage post-ICO raids*  
+**First created:** 2025-09-06 | **Last updated:** 2025-10-15  
+*Mapping the dispersal lineage post-ICO raids.*  
 
 ---
 
-### **Core Idea**  
+## ✨ Core Idea  
 The 2018 raids on SCL/Cambridge Analytica scattered personnel, data, and methods. The *brand* was burned, but the *behavioural playbook* metastasised into a web of successor firms, shell companies, and quiet consultancies.  
 
 ---
 
-### **Successor Node Map**  
+## 🗺️ Successor Node Map  
 
 - **SCL Group**  
   - Umbrella organisation, hub for behavioural psyops.  
@@ -49,7 +49,7 @@ The 2018 raids on SCL/Cambridge Analytica scattered personnel, data, and methods
 
 ---
 
-### **Key Takeaway**  
+## 🧨 Key Takeaway  
 - The collapse created **spectacle and insolvency**, but not erasure.  
 - Capabilities splintered into smaller, less visible entities.  
 - Practices rebranded as **online harms**, **resilience**, **counter-extremism**.  
@@ -61,13 +61,14 @@ The 2018 raids on SCL/Cambridge Analytica scattered personnel, data, and methods
 *Successor Firms After the SCL / Cambridge Analytica Collapse* is a living node of the Polaris Protocol.  
 It traces how raids and insolvency scattered methods into successor consultancies and shell companies.  
 
-> 📡 Cross-references:  
-> - [👁️‍🗨️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — forensic witness nodes on Cambridge Analytica and Brexit  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — behavioural governance lineage  
-> - [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/README.md) — pipelines and platform culture  
+> 📡 Cross-references:
+> 
+> - [👁️‍🗨️ Witness Historical Casefiles](./README.md) — *forensic witness nodes on Cambridge Analytica and Brexit*  
+> - [🧠 HM Dept Coercive Nudges](../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance lineage*  
+> - [🪬 Radicalisation & Extremism](../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *pipelines and platform culture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-15_  
 
 #PolarisProtocol  
