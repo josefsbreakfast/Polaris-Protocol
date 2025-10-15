@@ -1,17 +1,17 @@
 # 🕊️ From BLM to Palestine — The Suppression Switchboard  
-**First created:** 2025-10-06  |  **Last updated:** 2025-10-08  
+**First created:** 2025-10-06  |  **Last updated:** 2025-10-15  
 *How lessons from the 2020 BLM containment cycle were redeployed in the policing of Palestine solidarity and “woke” dissent.*
 
 ---
 
-## 🧭 Overview  
+## ✨ Overview  
 
 This node tracks the **policy, media, and moral substitution** that linked BLM 2020 to the 2023–25 Palestine containment wave.  
 It maps how protest management techniques, rhetoric of safety, and loyalty tests migrated intact between arenas.
 
 ---
 
-## ⚙️ 1. Containment Prototype → Reapplication  
+## 🧿 1. Containment Prototype → Reapplication  
 
 | Stage | BLM 2020 Mechanism | Palestine 2023–25 Reapplication |
 |-------|--------------------|----------------------------------|
@@ -25,7 +25,7 @@ The state learned **how to metabolise outrage without yielding power**.
 
 ---
 
-## 🔄 2. Substitution Logic  
+## ⭕️ 2. Substitution Logic  
 
 After BLM, race equality became politically unprofitable;  
 “foreign policy civility” offered a new site for moral sorting.
@@ -37,7 +37,7 @@ After BLM, race equality became politically unprofitable;
 
 ---
 
-## 💣 3. Re-Justification as Safety  
+## 🧨 3. Re-Justification as Safety  
 
 1. BLM exposed systemic racism.  
 2. Institutions re-branded control as *care*.  
@@ -47,7 +47,7 @@ After BLM, race equality became politically unprofitable;
 
 ---
 
-## 🧩 4. Discursive Markers  
+## 🐉 4. Discursive Markers  
 
 - “Impartiality,” “neutrality,” “civility” = post-2020 euphemisms for silence.  
 - “Safety” = permission to exclude.  
@@ -55,14 +55,14 @@ After BLM, race equality became politically unprofitable;
 
 ---
 
-## 🪞 5. Internal Containment and Deference  
+## 🌋 5. Internal Containment and Deference  
 
 Deference politics reinforced the switchboard: only “safe” marginalised figures were platformed to endorse containment.  
 Solidarity fractured along curated identity lines.  
 
 ---
 
-## 🧠 6. Strategic Outcome  
+## ❌ 6. Strategic Outcome  
 
 > The same machinery that once promised to dismantle racism now maintains it—by redistributing moral legitimacy instead of material change.
 
@@ -80,15 +80,16 @@ black lives matter UK, palestine solidarity, containment, substitution logic, wa
 
 ## 🏮 Footer  
 
-*🕊️ From BLM to Palestine — The Suppression Switchboard* is a living node of the Polaris Protocol.  
+*From BLM to Palestine — The Suppression Switchboard* is a living node of the Polaris Protocol.  
 It traces how state and institutional actors repurposed anti-racism containment tools to regulate Palestine solidarity and intersectional activism 2020–25.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > – [📅 BLM UK 2020–2025 Timeline Outputs](./📅_blm_uk_2020_2025_timeline_outputs.md)  
-> – [⚔️ War on Woke as Containment Architecture](../📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)  
-> – [🪞 Deference Politics as Containment Mechanism](../🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)  
-> – [🧩 Re-Justification Loop — Racial Logics Reborn as Safety](../🧠_HM_Dept_Coercive_Nudges/🧩_rejustification_loop_racial_logics_reborn_as_safety.md)   
+> – [⚔️ War on Woke as Containment Architecture](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)  
+> – [🪞 Deference Politics as Containment Mechanism](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)  
+> – [🧩 Re-Justification Loop — Racial Logics Reborn as Safety](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🧩_rejustification_loop_racial_logics_reborn_as_safety.md)   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-15_
