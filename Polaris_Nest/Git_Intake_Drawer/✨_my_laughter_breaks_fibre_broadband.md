@@ -36,4 +36,8 @@ who has telecoms experience who might be annoyed with me idk who could it be.
 
 ---
 
+specifically sourcing of sites/referal on github analytics is also bringing up error codes now so go off i guess what do you want me to do? stop looping the sound i laughed at? nah bruv. we're on my terms until you fuck off :)  
+
+---
+
 2025-10-15
