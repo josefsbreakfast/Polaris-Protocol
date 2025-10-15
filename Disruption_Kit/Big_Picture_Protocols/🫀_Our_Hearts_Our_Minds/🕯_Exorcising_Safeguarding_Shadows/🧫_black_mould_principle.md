@@ -1,6 +1,6 @@
 # 🧫 Black Mould Principle  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-21  
-*Why cosmetic fixes in safeguarding governance are equivalent to painting over black mould*
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*Why cosmetic fixes in safeguarding governance are equivalent to painting over black mould.*  
 
 ---
 
@@ -63,11 +63,12 @@ Key questions to test for cosmetic vs structural remediation:
 *Black Mould Principle* is a living node of the Polaris Protocol.  
 It sets out why cosmetic fixes in safeguarding are equivalent to painting over black mould, and why evidence-based audits must shift from KPIs to OKRs.  
 
-> 📡 Cross-references:  
-> - [🧬 Shadow Audit Trails](../Big_Picture_Protocols/🧬_shadow_audit_trails.md)  
-> - [❌ Negative Evidence Index](../Big_Picture_Protocols/❌_negative_evidence_index.md)  
-> - [🧬 Report Twinning](../Big_Picture_Protocols/🧬_report_twinning.md)  
+> 📡 Cross-references:
+> 
+> - [🧬 Shadow Audit Trails](./🧬_shadow_audit_trails.md)  
+> - [❌ Negative Evidence Index](./❌_negative_evidence_index.md)  
+> - [🧬 Report Twinning](./🧬_report_twinning.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-21_
+_Last updated: 2025-10-15_
