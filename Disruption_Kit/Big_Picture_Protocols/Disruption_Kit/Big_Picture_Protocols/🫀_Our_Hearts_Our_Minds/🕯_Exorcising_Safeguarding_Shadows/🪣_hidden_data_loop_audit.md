@@ -1,5 +1,5 @@
 # 🪣 Hidden Data-Loop Audit  
-**First created:** 2025-10-06  |  **Last updated:** 2025-10-06  
+**First created:** 2025-10-06  |  **Last updated:** 2025-10-15  
 *Guide for recognising when cross-system data translation or identifier errors create invisible feedback loops that damage individual records.*
 
 ---
@@ -81,10 +81,11 @@ data mismatch, identifier errors, systemic risk, audit trail, information govern
 *🪣 Hidden Data-Loop Audit* is a living diagnostic node of the Polaris Protocol.  
 It helps individuals and investigators recognise the symptoms of cross-system translation failures and assemble auditable proof for regulatory review.  
 
-> 📡 Cross-references:  
-> - [🧮 Algorithmic Exposure Bias in Whistleblower Systems](../Disruption_Kit/Big_Picture_Protocols/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)  
-> - [🧬 Structural Mapping](../Metadata_Sabotage_Network/🧬_structural_mapping.md)
+> 📡 Cross-references:
+> 
+> - [🧮 Algorithmic Exposure Bias in Whistleblower Systems](../../../Disruption_Kit/Big_Picture_Protocols/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)  
+> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/🧬_structural_mapping.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-15_
