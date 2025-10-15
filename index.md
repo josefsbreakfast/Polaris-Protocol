@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 21:16:13 UTC_
+_Generated on 2025-10-15 21:16:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -359,8 +359,6 @@ _Generated on 2025-10-15 21:16:13 UTC_
       - [`🧩_structural_lethality_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧩_structural_lethality_in_custody.md)
       - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
       - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
-    - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
       - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
@@ -678,6 +676,7 @@ _Generated on 2025-10-15 21:16:13 UTC_
           - [`🔧_technical_audit_playbook.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/🔧_technical_audit_playbook.md)
           - [`🕸️_governance_and_mitigation.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/🕸️_governance_and_mitigation.md)
           - [`🛰️_nhs_token_switching_integrity_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/🛰️_nhs_token_switching_integrity_audit.md)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md)
         - [`black_mould_audit_checklist.csv`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/black_mould_audit_checklist.csv)
         - [`darvo_vs_prevent.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/darvo_vs_prevent.png)
         - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
