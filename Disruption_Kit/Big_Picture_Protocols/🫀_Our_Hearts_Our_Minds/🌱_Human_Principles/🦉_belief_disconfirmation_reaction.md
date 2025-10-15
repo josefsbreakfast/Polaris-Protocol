@@ -1,6 +1,5 @@
 # 🦉 Belief–Disconfirmation Reaction  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-07  
-
+**First created:** 2025-10-07 | **Last updated:** 2025-10-15  
 *A short explainer on the psychological lag between “new facts” and “felt truth.”*  
 
 ---
@@ -90,4 +89,4 @@ It explains the normal psychological delay between new facts and felt truth, wit
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_  
+_Last updated: 2025-10-15_  
