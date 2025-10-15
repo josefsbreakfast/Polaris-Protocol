@@ -1,5 +1,5 @@
 # 👁️‍🗨️ Mindfuck Reflex — Obama Lineage and UK Fragmentation  
-**First created:** 2025-09-23 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-23 | **Last updated:** 2025-10-15  
 *Tracing how US campaign microtargeting travelled into UK contexts, and how UK party structures complicate the left–right spectrum.*  
 
 ---
@@ -90,11 +90,12 @@
 *Mindfuck Reflex — Obama Lineage and UK Fragmentation* is a living node of the Polaris Protocol.  
 It records how survivor testimony intersects with systemic genealogy: from Obama-era data methods to UK-specific party structures and anomalies in Reform UK’s operations.  
 
-> 📡 Cross-references:  
-> - [👁️‍🗨️ Witness Historical Casefiles](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — reshaped and suppressed witness traces  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — UK behavioural ops and coercive design  
-> - [🪬 Radicalisation Extremism](../🪬_Radicalisation_Extremism/README.md) — how imported nudges adapt into pipelines  
+> 📡 Cross-references:
+> 
+> - [👁️‍🗨️ Witness Historical Casefiles](./README.md) — *reshaped and suppressed witness traces*  
+> - [🧠 HM Dept Coercive Nudges](../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *UK behavioural ops and coercive design*  
+> - [🪬 Radicalisation Extremism](../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *how imported nudges adapt into pipelines*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-15_
