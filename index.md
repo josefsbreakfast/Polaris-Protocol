@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-15 17:34:58 UTC_
+_Generated on 2025-10-15 17:36:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -359,7 +359,6 @@ _Generated on 2025-10-15 17:34:58 UTC_
       - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
       - [`🔬_operation_no_sanctuary.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🔬_operation_no_sanctuary.md)
       - [`🕊️_from_blm_to_palestine_the_suppression_switchboard.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🕊️_from_blm_to_palestine_the_suppression_switchboard.md)
-      - [`🗡_narrative_management_and_metadata_storage.md`](Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🗡_narrative_management_and_metadata_storage.md)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
@@ -706,6 +705,7 @@ _Generated on 2025-10-15 17:34:58 UTC_
       - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/)
         - [`⚖️_navigating_elder_spaces_for_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_navigating_elder_spaces_for_transparency.md)
         - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_sanhedrin_rulings_on_trafficking.md)
+        - [`🗡_narrative_management_and_metadata_storage.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🗡_narrative_management_and_metadata_storage.md)
         - [`🚨_super_injunctions_and_slapps_in_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🚨_super_injunctions_and_slapps_in_rape_cases.md)
         - [`🛑_ignored_evidence_behavioural_insights_2014_2016.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)
         - [`🛰️_witness_by_proxy_midlands_2016.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🛰️_witness_by_proxy_midlands_2016.md)
