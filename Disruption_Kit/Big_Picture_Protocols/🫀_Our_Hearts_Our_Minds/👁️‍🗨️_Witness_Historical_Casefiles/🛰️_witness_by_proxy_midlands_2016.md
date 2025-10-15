@@ -1,8 +1,6 @@
 # 🛰️ Witness By Proxy Midlands 2016  
-
-**First created:** 2025-08-16 | **Last updated:** 2025-10-08
-
-*Field log reconstructing what colleagues or outsiders would have observed in the Midlands surveillance climate post-2016*  
+**First created:** 2025-08-16 | **Last updated:** 2025-10-15  
+*Field log reconstructing what colleagues or outsiders would have observed in the Midlands surveillance climate post-2016.*  
 
 ---
 
@@ -67,4 +65,4 @@ It records how environmental cues of containment were observable by colleagues a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-15_  
