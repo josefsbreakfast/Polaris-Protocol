@@ -1,7 +1,5 @@
 # 🌍 Non-Tech Explainer: Token Switching  
-
-**First created:** 2025-09-30 | **Last updated:** 2025-09-30  
-
+**First created:** 2025-09-30 | **Last updated:** 2025-10-15  
 *Plain-language guidance for operations, governance officers, and leadership.*  
 
 ---
@@ -38,13 +36,9 @@ This creates false records. A dangerous individual can be mislabelled as safe, o
 
 ## 🏮 Footer  
 
-*🌍 Non-Tech Explainer: Token Switching* is a protocol node of the Polaris Protocol.  
+*Non-Tech Explainer: Token Switching* is a protocol node of the Polaris Protocol.  
 It supports non-technical staff in understanding and escalating identity-token anomalies.  
-
-> 📡 Cross-references:  
-> - [🛰️ Token Switching Audit](./) — parent folder  
-> - [🛡️ Governance and Mitigation](./🛡️_Governance_and_Mitigation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-15_  
