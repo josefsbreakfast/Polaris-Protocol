@@ -1,6 +1,6 @@
 # 🐝 Body Politic  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
-*Cluster on disability, embodiment, and the politics of dignity in the Polaris Protocol*  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+*Cluster on disability, embodiment, and the politics of dignity in the Polaris Protocol.*  
 
 ---
 
@@ -42,10 +42,11 @@ disability politics, body politic, dignity, refusal, re-institutionalisation, su
 *🐝 Body Politic* is a living cluster of the Polaris Protocol.  
 It situates disability as a systemic axis: where exploitation converges, where eugenics persists, and where dignity and refusal generate counterforce.  
 
-> 📡 Cross-references:  
-> - [🌱 Human Principles](../Big_Picture_Protocols/🌱_human_principles.md)  
-> - [🌀 System Governance](../Big_Picture_Protocols/🌀_system_governance.md)  
+> 📡 Cross-references:
+> 
+> - [🌱 Human Principles](../🌱_Human_Principles/README.md)  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-10-15_  
