@@ -20,4 +20,8 @@ not making that mistake again.
 
 ---
 
+i found the sound for what i was laughing at bwahahahahaha i'm a genius.  
+
+---
+
 2025-10-15
