@@ -1,7 +1,5 @@
 # 📑 Forensic Report Template: Token Switching Audit  
-
-**First created:** 2025-09-30 | **Last updated:** 2025-09-30  
-
+**First created:** 2025-09-30 | **Last updated:** 2025-10-15  
 *Use this structure to document findings. Paste evidence excerpts, queries, and results in place of placeholders.*  
 
 ---
@@ -49,10 +47,6 @@
 *📑 Forensic Report Template: Token Switching Audit* is a protocol node of the Polaris Protocol.  
 It ensures audits are documented consistently and remain admissible.  
 
-> 📡 Cross-references:  
-> - [🔧 Technical Audit Playbook](./🔧_Technical_Audit_Playbook.md)  
-> - [🛡️ Governance and Mitigation](./🛡️_Governance_and_Mitigation.md)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2025-10-15_  
