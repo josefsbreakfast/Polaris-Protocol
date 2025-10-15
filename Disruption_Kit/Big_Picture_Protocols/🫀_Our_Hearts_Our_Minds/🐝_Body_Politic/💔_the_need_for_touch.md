@@ -1,5 +1,5 @@
 # 💔 The Need for Touch  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-13  
+**First created:** 2025-10-13 | **Last updated:** 2025-10-15  
 *Why physical contact is fundamental to human regulation — and how structural neglect reproduces solitary confinement.*
 
 ---
@@ -184,8 +184,8 @@ It documents how the human nervous system depends on social contact, and how pen
 > 
 > - [🐝 Body Politic](./README.md) — *material bodies and systemic design*  
 > - [🐦‍🔥 Trauma Psychology & Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *physiology and ethics of containment*  
-> - [🌱 Human Principles](../Human_Principles/README.md) — *dignity and humane treatment standards*  
+> - [🌱 Human Principles](../🌱_Human_Principles/README.md) — *dignity and humane treatment standards*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-15_
