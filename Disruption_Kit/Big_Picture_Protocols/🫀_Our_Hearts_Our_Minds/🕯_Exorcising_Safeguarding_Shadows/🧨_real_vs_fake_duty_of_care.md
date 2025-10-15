@@ -1,6 +1,6 @@
 # 🧨 Real vs Fake Duty of Care  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
-*Distinguishing legitimate legal complexity from weaponised prolongation*  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*Distinguishing legitimate legal complexity from weaponised prolongation.*  
 
 ---
 
@@ -47,9 +47,7 @@ It clarifies how duty-of-care can be either a genuine legal safeguard or a mask 
 
 > 📡 Cross-references:  
 > - [🧪 Ego Insurance But Make It Personal](./🧪_ego_insurance_but_make_it_personal.md)  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/)  
-> - [Metadata Sabotage Network](../Disruption_Kit/Metadata_Sabotage_Network/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-15_  
