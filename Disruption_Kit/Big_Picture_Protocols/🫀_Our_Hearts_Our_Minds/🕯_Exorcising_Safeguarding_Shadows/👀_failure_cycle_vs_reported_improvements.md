@@ -1,6 +1,6 @@
 # 👀 Failure Cycle vs. Reported Improvements  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
-*Diagnostic node mapping the recurring exploitation failure cycle against Newcastle’s reported reforms*
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*Diagnostic node mapping the recurring exploitation failure cycle against Newcastle’s reported reforms.*  
 
 ---
 
@@ -76,11 +76,12 @@ flowchart TD
 *Failure Cycle vs. Reported Improvements* is a living node of the Polaris Protocol.  
 It maps how official reports of progress in Newcastle sit within a national pattern of minimisation, scandal, inquiry, and relapse.  
 
-> 📡 Cross-references:  
-> - [🚨 Operation Sanctuary](../Big_Picture_Protocols/🚨_operation_sanctuary.md) — Newcastle case file  
-> - [📊 Comparative Chart: Operation Sanctuary and Parallel Cases](../Big_Picture_Protocols/📊_comparative_chart_operation_sanctuary.md)  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md)  
+> 📡 Cross-references:
+> 
+> - [🚨 Operation Sanctuary](./🚨_operation_sanctuary.md) — Newcastle case file  
+> - [📊 Comparative Chart: Operation Sanctuary and Parallel Cases](./📊_comparative_chart_operation_sanctuary.md)  
+> - [⚖️ Containment Contract Trace](⚖️_containment_contract_trace.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-15_
