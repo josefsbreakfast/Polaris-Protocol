@@ -1,6 +1,6 @@
 # 🗂️ CSE Scandals Post-2013 (National Overview)  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-28  
-*Major child sexual exploitation scandals in England since 2013, with police operations and institutional “improvement” reports.*
+**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+*Major child sexual exploitation scandals in England since 2013, with police operations and institutional “improvement” reports.*  
 
 ---
 
@@ -48,11 +48,12 @@
 *CSE Scandals Post-2013 (National Overview)* is a living node of the Polaris Protocol.  
 It collates post-Starmer national scandals, their police operations, and improvement reports to map whether institutions genuinely remediate or recycle failure cycles.  
 
-> 📡 Cross-references:  
-> - [🔄 Failure Cycle vs. Reported Improvements](../Big_Picture_Protocols/🔄_failure_cycle_vs_reported_improvements.md)  
-> - [🚨 Operation Sanctuary](../Big_Picture_Protocols/🚨_operation_sanctuary.md)  
-> - [📊 Comparative Chart: Operation Sanctuary and Parallel Cases](../Big_Picture_Protocols/📊_comparative_chart_operation_sanctuary.md)  
+> 📡 Cross-references:
+> 
+> - [🔄 Failure Cycle vs. Reported Improvements](./🔄_failure_cycle_vs_reported_improvements.md)  
+> - [🚨 Operation Sanctuary](./🚨_operation_sanctuary.md)  
+> - [📊 Comparative Chart: Operation Sanctuary and Parallel Cases](./📊_comparative_chart_operation_sanctuary.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-15_
