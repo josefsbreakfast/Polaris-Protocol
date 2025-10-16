@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-16 21:41:13 UTC_
+_Generated on 2025-10-16 22:57:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -296,6 +296,9 @@ _Generated on 2025-10-16 21:41:13 UTC_
       - [`🧿_canonisation_by_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)
       - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🪄_the_magical_disappearing_book.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
+      - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
+        - [**systematic_reviews/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/)
+          - [`evidence_review_extraction.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/evidence_review_extraction.csv)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/)
