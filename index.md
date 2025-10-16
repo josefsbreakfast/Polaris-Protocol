@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-16 00:51:18 UTC_
+_Generated on 2025-10-16 00:54:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1139,6 +1139,7 @@ _Generated on 2025-10-16 00:51:18 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
       - [`protocol_flow_new_insert_handling.png`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/protocol_flow_new_insert_handling.png)
       - [`toy_case_history.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/toy_case_history.csv)
+      - [`⚖️_capacity_as_integrity_why_oversubscription_breeds_error.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚖️_capacity_as_integrity_why_oversubscription_breeds_error.md)
       - [`⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)
       - [`⭕️_complaint_loop_inversions.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⭕️_complaint_loop_inversions.md)
       - [`🌩️_clone_theatre_simulation_and_divergence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🌩️_clone_theatre_simulation_and_divergence.md)
