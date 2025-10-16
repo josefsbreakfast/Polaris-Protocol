@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-16 23:03:40 UTC_
+_Generated on 2025-10-16 23:06:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -302,6 +302,7 @@ _Generated on 2025-10-16 23:03:40 UTC_
           - [`evidence_review_extraction.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/evidence_review_extraction.csv)
           - [`purpose_review_coding.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/purpose_review_coding.csv)
         - [`🧮_behavioural_risk_scoring_and_internet_triage_systems.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_behavioural_risk_scoring_and_internet_triage_systems.md)
+        - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/)
@@ -594,7 +595,6 @@ _Generated on 2025-10-16 23:03:40 UTC_
       - [`🪬_authoritarianism_beyond_left_right.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
       - [`🪬_christian_nationalism_as_fascist_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
       - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
-      - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
