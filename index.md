@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-16 23:18:30 UTC_
+_Generated on 2025-10-16 23:19:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -301,6 +301,7 @@ _Generated on 2025-10-16 23:18:30 UTC_
           - [`coi_register.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/coi_register.csv)
           - [`evidence_review_extraction.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/evidence_review_extraction.csv)
           - [`purpose_review_coding.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/purpose_review_coding.csv)
+        - [`🧠_utilisation_of_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)
         - [`🧨_differential_classification_as_radicalisation_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)
         - [`🧨_spectacle_of_raids.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_spectacle_of_raids.md)
         - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
@@ -594,7 +595,6 @@ _Generated on 2025-10-16 23:18:30 UTC_
       - [`🦠_opportunistic_disinformation_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🦠_opportunistic_disinformation_pathogen.md)
       - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
       - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
-      - [`🧠_utilisation_of_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
