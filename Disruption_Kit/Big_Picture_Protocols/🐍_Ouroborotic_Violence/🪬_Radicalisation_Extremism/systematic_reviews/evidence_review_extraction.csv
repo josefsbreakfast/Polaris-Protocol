@@ -1,0 +1,4 @@
+study_id,country,year,tool_vendor,setting,design,comparator,follow_up_months,
+primary_outcome,primary_effect,ci_low,ci_high,secondary_outcomes,
+false_positive_rate,false_negative_rate,calibration,subgroup_bias_metrics,
+preregistered,data_shared,funding,coi,notes
