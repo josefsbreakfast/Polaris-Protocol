@@ -1,6 +1,6 @@
 # 🪬 Violence Against Jews and the Yom Kippur Fixation  
-**First created:** 2025-10-02 | **Last updated:** 2025-10-02  
-*The long and unglamorous history of extremist violence on Jewish communities, and why Yom Kippur is chosen as a stage for desecration*  
+**First created:** 2025-10-02 | **Last updated:** 2025-10-17  
+*The long and unglamorous history of extremist violence on Jewish communities, and why Yom Kippur is chosen as a stage for desecration.*  
 
 ---
 
@@ -171,4 +171,4 @@ It traces how extremists have desecrated sacred Jewish time across centuries, an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-02_  
+_Last updated: 2025-10-17_  
