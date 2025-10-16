@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-16 23:13:20 UTC_
+_Generated on 2025-10-16 23:14:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -302,6 +302,7 @@ _Generated on 2025-10-16 23:13:20 UTC_
           - [`evidence_review_extraction.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/evidence_review_extraction.csv)
           - [`purpose_review_coding.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/purpose_review_coding.csv)
         - [`🧮_behavioural_risk_scoring_and_internet_triage_systems.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_behavioural_risk_scoring_and_internet_triage_systems.md)
+        - [`🧿_central_uncertainty_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_central_uncertainty_protocols.md)
         - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
         - [`🪦_memory_erasure_in_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md)
         - [`🪬_appeasement_economics.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_appeasement_economics.md)
@@ -594,7 +595,6 @@ _Generated on 2025-10-16 23:13:20 UTC_
       - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
       - [`🧮_datafication_as_risk_vector.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧮_datafication_as_risk_vector.md)
       - [`🧾_rehabilitation_ops.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧾_rehabilitation_ops.md)
-      - [`🧿_central_uncertainty_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧿_central_uncertainty_protocols.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
