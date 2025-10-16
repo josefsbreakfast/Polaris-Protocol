@@ -1,6 +1,6 @@
 # 🪬 From Christian Zionism to Diaspora Radicalisation
 
-**First created:** 2025-08-19 | **Last updated:** 2025-08-30
+**First created:** 2025-08-19 | **Last updated:** 2025-10-17
 
 *Tracing how US Christian Zionist comms toolkits morphed into diaspora “radicalisation” audits and campus scorecards.*
 
@@ -233,9 +233,8 @@ flowchart TD
 *From Christian Zionism to Diaspora Radicalisation* is a living node of the Polaris Protocol.  
 It documents how US evangelical comms toolkits migrated into Israeli politics and diaspora monitoring regimes, reformatting communal life into binary, apocalyptic, and donor-theatre frames.
 
-🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](./README.md)
 
 *Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
-_Last updated: 2025-08-30_  
-
+_Last updated: 2025-10-17_  
