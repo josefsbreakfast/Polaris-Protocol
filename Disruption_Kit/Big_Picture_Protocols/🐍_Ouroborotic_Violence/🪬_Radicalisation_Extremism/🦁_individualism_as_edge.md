@@ -1,5 +1,3 @@
-🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦁_individualism_as_containment_edge.md
-
 # 🦁 Individualism as Containment Edge  
 **First created:** 2025-10-03 | **Last updated:** 2025-10-03  
 *How virtues of initiative, autonomy, and leadership are reframed as threat vectors under surveillance logics, with a Jewish case study of symbolic inversion.*  
