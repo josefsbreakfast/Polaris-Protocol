@@ -1,6 +1,6 @@
 # 🎓 University Vector Surveillance  
 **First created:** 2025-09-07 | **Last updated:** 2025-09-28    
-*How universities act as data gateways, subcontractors, and federated actors in surveillance networks — and why safeguarding flags create perpetual loops of containment*  
+*How universities act as data gateways, subcontractors, and federated actors in surveillance networks — and why safeguarding flags create perpetual loops of containment.*  
 
 ---
 
