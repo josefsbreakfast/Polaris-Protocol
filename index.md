@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 00:14:04 UTC_
+_Generated on 2025-10-17 00:15:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -297,6 +297,7 @@ _Generated on 2025-10-17 00:14:04 UTC_
       - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🪄_the_magical_disappearing_book.md)
     - [**🐍_Ouborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/🪬_Radicalisation_Extremism/)
+        - [`🦁_individualism_as_containment_edge.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/🪬_Radicalisation_Extremism/🦁_individualism_as_containment_edge.md)
         - [`🦠_opportunistic_disinformation_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/🪬_Radicalisation_Extremism/🦠_opportunistic_disinformation_pathogen.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
@@ -597,7 +598,6 @@ _Generated on 2025-10-17 00:14:04 UTC_
       - [`🕹️_gamified_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🕹️_gamified_extremism.md)
       - [`🛜_transnational_networks.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🛜_transnational_networks.md)
       - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
-      - [`🦁_individualism_as_containment_edge.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🦁_individualism_as_containment_edge.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
