@@ -1,6 +1,6 @@
 # 🔊 Voice as Recruitment Channel  
 **First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On how podcasts, livestreams, and cloned voices transmit extremist worldviews faster and deeper than text*
+*On how podcasts, livestreams, and cloned voices transmit extremist worldviews faster and deeper than text.*
 
 ---
 
