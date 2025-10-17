@@ -1,6 +1,6 @@
 # 🧟‍♀️ Frankenstack Bytes  
 **First created:** 2025-10-05 | **Last updated:** 2025-10-05  
-*Frankenstack spin-offs — focused nodes tracing how hybrid behavioural systems generate and manage radicalisation, social-field effects, and recovery responses*
+*Frankenstack spin-offs — focused nodes tracing how hybrid behavioural systems generate and manage radicalisation, social-field effects, and recovery responses.*  
 
 ---
 
