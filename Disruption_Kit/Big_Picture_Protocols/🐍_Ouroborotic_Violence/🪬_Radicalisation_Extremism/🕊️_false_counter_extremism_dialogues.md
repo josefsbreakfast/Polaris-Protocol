@@ -1,6 +1,6 @@
 # 🕊️ False Counter-Extremism Dialogues  
 **First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On Prevent-style programmes that simulate “community engagement” while embedding surveillance and narrative control*
+*On Prevent-style programmes that simulate “community engagement” while embedding surveillance and narrative control.*
 
 ---
 
