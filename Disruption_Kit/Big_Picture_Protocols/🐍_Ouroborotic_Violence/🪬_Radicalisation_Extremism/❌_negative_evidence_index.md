@@ -1,6 +1,6 @@
 # ❌ Negative Evidence Index  
 **First created:** 2025-09-21 | **Last updated:** 2025-09-22  
-*Tracking the disappearance of CSE improvement reports as evidence in itself*  
+*Tracking the disappearance of CSE improvement reports as evidence in itself.*  
 
 ---
 
