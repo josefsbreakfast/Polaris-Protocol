@@ -1,6 +1,6 @@
 # 🧠 Erosion of Extracurricular and Anatomy  
 **First created:** 2025-09-23 | **Last updated:** 2025-10-03  
-*How per-head funding logic strips away tacit skills and cultural experience*  
+*How per-head funding logic strips away tacit skills and cultural experience.*  
 
 ---
 
