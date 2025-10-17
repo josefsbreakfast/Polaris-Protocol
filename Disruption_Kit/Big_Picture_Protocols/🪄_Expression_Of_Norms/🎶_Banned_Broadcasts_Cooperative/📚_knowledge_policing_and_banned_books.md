@@ -1,6 +1,6 @@
 # 📚 Knowledge Policing and Banned Books  
 **First created:** 2025-09-15 | **Last updated:** 2025-10-03  
-*DIY manuals treated as subversive while extremist arsenals slide through unremarked*  
+*DIY manuals treated as subversive while extremist arsenals slide through unremarked.*  
 
 ---
 
