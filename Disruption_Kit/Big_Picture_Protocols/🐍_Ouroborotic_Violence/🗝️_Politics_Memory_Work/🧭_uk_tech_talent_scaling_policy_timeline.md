@@ -1,6 +1,6 @@
 # 🧭 UK Tech Talent, Scaling, and Policy Timeline  
 **First created:** 2025-09-01 | **Last updated:** 2025-09-29  
-*Tracing decisions since 2000 that shaped the UK’s dependence on foreign contractors*  
+*Tracing decisions since 2000 that shaped the UK’s dependence on foreign contractors.*  
 
 ---
 
