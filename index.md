@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:18:07 UTC_
+_Generated on 2025-10-17 13:18:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -297,6 +297,8 @@ _Generated on 2025-10-17 13:18:07 UTC_
       - [`🧿_canonisation_by_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)
       - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🪄_the_magical_disappearing_book.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
+      - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/)
+        - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
         - [**systematic_reviews/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/)
           - [`coi_register.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/coi_register.csv)
@@ -593,7 +595,6 @@ _Generated on 2025-10-17 13:18:07 UTC_
       - [`🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md)
       - [`🌐_suppression_of_holocaust_testimony_online.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
       - [`🧠_cognitive_dissonance.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🧠_cognitive_dissonance.md)
-      - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
