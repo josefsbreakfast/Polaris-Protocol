@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:23:45 UTC_
+_Generated on 2025-10-17 13:24:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -297,6 +297,8 @@ _Generated on 2025-10-17 13:23:45 UTC_
       - [`🧿_canonisation_by_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)
       - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🪄_the_magical_disappearing_book.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
+      - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
+        - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
       - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/)
         - [**🍉_Palestine/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/)
           - [**🪨_May_Their_Names_Never_Be_Erased/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/)
@@ -529,7 +531,6 @@ _Generated on 2025-10-17 13:23:45 UTC_
       - [`🫛_amplification_by_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)
       - [`🫛_amplification_by_convergence_2.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence_2.md)
       - [`🫜_asymmetric_discourse_policing.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫜_asymmetric_discourse_policing.md)
-      - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
     - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/README.md)
       - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
