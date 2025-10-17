@@ -1,6 +1,6 @@
 # 🎧 Banned Tracks Transmission Loops  
 **First created:** 2025-09-29 | **Last updated:** 2025-10-03  
-*When the state bans a song, the speakers get louder*  
+*When the state bans a song, the speakers get louder.*  
 
 ---
 
