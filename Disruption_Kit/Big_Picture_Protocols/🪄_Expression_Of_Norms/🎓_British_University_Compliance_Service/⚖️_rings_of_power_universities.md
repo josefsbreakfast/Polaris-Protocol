@@ -1,6 +1,6 @@
 # ⚖️ Rings of Power for Universities  
 **First created:** 2025-09-05 | **Last updated:** 2025-09-30  
-*How universities are tempted with containment bargains: sovereignty traded for the illusion of stability*  
+*How universities are tempted with containment bargains: sovereignty traded for the illusion of stability.*  
 
 ---
 
