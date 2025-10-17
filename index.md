@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:23:18 UTC_
+_Generated on 2025-10-17 13:23:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -300,6 +300,7 @@ _Generated on 2025-10-17 13:23:18 UTC_
       - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/)
         - [**🍉_Palestine/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/)
           - [**🪨_May_Their_Names_Never_Be_Erased/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/)
+            - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/README.md)
             - [`T4P-KiG-Names-2025-07-31-full.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/T4P-KiG-Names-2025-07-31-full.csv)
             - [`killed-in-gaza-1.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/killed-in-gaza-1.csv)
             - [`killed-in-gaza.min.json`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/killed-in-gaza.min.json)
@@ -593,10 +594,6 @@ _Generated on 2025-10-17 13:23:18 UTC_
       - [`🧠_why_are_we_threatened_by_complexity.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🧠_why_are_we_threatened_by_complexity.md)
       - [`🧿_diaspora_disclosure_tactics.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)
       - [`🪞_fanon_and_the_algorithmic_unconscious.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🪞_fanon_and_the_algorithmic_unconscious.md)
-    - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/)
-      - [**🍉_Palestine/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/)
-        - [**🪨_May_Their_Names_Never_Be_Erased/**](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/)
-          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/README.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
