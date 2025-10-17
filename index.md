@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 17:30:53 UTC_
+_Generated on 2025-10-17 17:31:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -560,7 +560,6 @@ _Generated on 2025-10-17 17:30:53 UTC_
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
       - [`🪩_self_silencing_cyclone_and_reverse_overton_window.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪩_self_silencing_cyclone_and_reverse_overton_window.md)
     - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/)
-      - [`polaris_signal_map.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/polaris_signal_map.png)
       - [`pressure_map_local_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/pressure_map_local_redacted.png)
       - [`suspect_interaction_flowchart_loop_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/suspect_interaction_flowchart_loop_redacted.png)
       - [`⚖️_containment_as_threshold_crime.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/⚖️_containment_as_threshold_crime.md)
@@ -596,6 +595,7 @@ _Generated on 2025-10-17 17:30:53 UTC_
         - [`peri_nda_middle_layer.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/peri_nda_middle_layer.png)
         - [`peri_nda_middle_layer_impacts.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/peri_nda_middle_layer_impacts.png)
         - [`peri_nda_theorised_middle_multiple_safeguarding.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/peri_nda_theorised_middle_multiple_safeguarding.png)
+        - [`polaris_signal_map.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/polaris_signal_map.png)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
