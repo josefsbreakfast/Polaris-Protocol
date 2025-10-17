@@ -1,6 +1,6 @@
 # 🚪 Postmodern Gateway  
 **First created:** 2025-09-29 | **Last updated:** 2025-09-29  
-*A threshold moment where society must decide whether to honour its stated principles or collapse into regression*  
+*A threshold moment where society must decide whether to honour its stated principles or collapse into regression.*  
 
 ---
 
