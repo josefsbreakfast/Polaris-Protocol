@@ -1,6 +1,6 @@
 # 🎶 Pirate Radio as Policed Resistance  
 **First created:** 2025-09-15 | **Last updated:** 2025-10-03  
-*How Black and working-class sound cultures are criminalised, contained, and later sanitised for profit*  
+*How Black and working-class sound cultures are criminalised, contained, and later sanitised for profit.*  
 
 ---
 
