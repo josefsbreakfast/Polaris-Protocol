@@ -1,7 +1,5 @@
-# 🧠 HM Dept of Coercive Nudges
-
+# 🧠 HM Dept of Coercive Nudges  
 **First created:** 2025-08-03 | **Last updated:** 2025-09-10  
-
 *Polaris Protocol doctrine node — behavioural science repurposed as state containment.*  
 
 ---
