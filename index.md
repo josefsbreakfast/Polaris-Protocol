@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:33:15 UTC_
+_Generated on 2025-10-17 18:33:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -161,7 +161,6 @@ _Generated on 2025-10-17 18:33:15 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
       - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/)
-        - [`🎓_edinburgh_napier_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_edinburgh_napier_university_compliance_profile.md)
         - [`🎓_glasgow_caledonian_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_glasgow_caledonian_university_compliance_profile.md)
         - [`🎓_goldsmiths_university_of_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_goldsmiths_university_of_london_compliance_profile.md)
         - [`🎓_heriot_watt_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_heriot_watt_university_compliance_profile.md)
@@ -466,6 +465,7 @@ _Generated on 2025-10-17 18:33:15 UTC_
           - [`🎓_cardiff_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_cardiff_university_compliance_profile.md)
           - [`🎓_city_university_of_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_city_university_of_london_compliance_profile.md)
           - [`🎓_coventry_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_coventry_university_compliance_profile.md)
+          - [`🎓_edinburgh_napier_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_edinburgh_napier_university_compliance_profile.md)
           - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_scored.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)
         - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
