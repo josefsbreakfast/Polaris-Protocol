@@ -1,6 +1,6 @@
 # 🎙 Congress Radio and Partition Cinema  
 **First created:** 2025-09-15 | **Last updated:** 2025-10-03  
-*Clandestine broadcasts of the Quit India movement and their cinematic afterlives, retold for the colonised British mind*  
+*Clandestine broadcasts of the Quit India movement and their cinematic afterlives, retold for the colonised British mind.*  
 
 ---
 
