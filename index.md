@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:32:47 UTC_
+_Generated on 2025-10-17 13:33:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -301,6 +301,7 @@ _Generated on 2025-10-17 13:32:47 UTC_
         - [`appeasement_loop_neon.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
         - [`data_misuse_continuum_with_resilience_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/data_misuse_continuum_with_resilience_flowchart.png)
         - [`dual_use_tech_procurement_theorised.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/dual_use_tech_procurement_theorised.png)
+        - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_experience_diaspora_matrix_middleman_minorities.png)
         - [`🧠_the_science_that_survives_borders.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_the_science_that_survives_borders.md)
         - [`🧥_empires_old_clothes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧥_empires_old_clothes.md)
         - [`🧪_breeding_trope_as_eugenics.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧪_breeding_trope_as_eugenics.md)
@@ -484,7 +485,6 @@ _Generated on 2025-10-17 13:32:47 UTC_
       - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
-      - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/jewish_experience_diaspora_matrix_middleman_minorities.png)
       - [`jewish_intersections_global.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/jewish_intersections_global.png)
       - [`jewish_intersections_global_visual.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/jewish_intersections_global_visual.png)
       - [`scale_of_scapegoating_hashtag.png`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/scale_of_scapegoating_hashtag.png)
