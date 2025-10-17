@@ -1,6 +1,6 @@
 # 🔥 Suppression and Quasi-Suppression  
 **First created:** 2025-09-18 | **Last updated:** 2025-10-03  
-*How both censorship and scarcity fuel the same rebound effect*  
+*How both censorship and scarcity fuel the same rebound effect.*  
 
 ---
 
