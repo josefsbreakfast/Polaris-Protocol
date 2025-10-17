@@ -1,6 +1,6 @@
 # 🐦‍🔥 Methodology and Scoring — British University Compliance Service  
 **First created:** 2025-09-23 | **Last updated:** 2025-10-02  
-*Explains how the compliance league table is structured, scored, and updated*  
+*Explains how the compliance league table is structured, scored, and updated.*  
 
 ---
 
