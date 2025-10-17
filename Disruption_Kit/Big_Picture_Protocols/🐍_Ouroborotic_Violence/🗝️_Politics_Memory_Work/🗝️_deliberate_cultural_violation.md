@@ -1,6 +1,6 @@
 # 🗝️ Deliberate Cultural Violation  
 **First created:** 2025-09-27 | **Last updated:** 2025-09-27  
-*When empire’s “mistakes” became systemic tools of humiliation*  
+*When empire’s “mistakes” became systemic tools of humiliation.*  
 
 ---
 
