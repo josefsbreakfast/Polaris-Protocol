@@ -1,4 +1,4 @@
-# 🌟 Charisma as Container  
+# 🌒 Charisma as Container  
 **First created:** 2025-09-27 | **Last updated:** 2025-09-27  
 *How spectacle, performance, and charisma can fabricate durable systems of containment, even when rooted in fraud.*  
 
