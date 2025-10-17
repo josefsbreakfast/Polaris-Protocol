@@ -1,6 +1,6 @@
 # 💸 Hypothetical Case Study: State Actor Funding Absurd Scenarios  
 **First created:** 2025-09-06 | **Last updated:** 2025-09-12  
-*Diagnostic mapping of how absurd or shocking scenarios are weaponised against state actors through narrative control*
+*Diagnostic mapping of how absurd or shocking scenarios are weaponised against state actors through narrative control.*
 
 ---
 
