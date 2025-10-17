@@ -1,6 +1,6 @@
 # ⚖️ The Strangest Duty of Care  
 **First created:** 2025-09-23 | **Last updated:** 2025-09-30  
-*The legal grey zone around universities’ responsibilities to students, and the cost of denial*  
+*The legal grey zone around universities’ responsibilities to students, and the cost of denial.*  
 
 ---
 
