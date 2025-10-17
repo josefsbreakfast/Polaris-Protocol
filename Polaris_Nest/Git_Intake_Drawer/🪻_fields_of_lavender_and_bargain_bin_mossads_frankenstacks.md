@@ -1,7 +1,9 @@
 # 🛰️ AI Targeting & “Risk Management” — Unit 8200 Stack (LLM + Lavender/Gospel)  
 **First created:** 2025-10-17 | **Last updated:** 2025-10-17  
 *Open-source picture of how Israel’s Unit 8200–linked systems are reported to work: an LLM for intel triage plus ML targeters (Lavender / Gospel / “Where’s Daddy?”), and the policy “risk knobs” that shape harm.*
-
+<!--Firstly:  
+It's Day 2 of my period and even I can look at grown men naming a new toy, "Where's Daddy?" and think, "awww... they miss their dads, how sweet".  
+How old are we?! 🤣🤣🤣  -->
 ---
 
 ## 🧭 Orientation  
