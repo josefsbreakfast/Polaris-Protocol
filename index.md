@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:56:02 UTC_
+_Generated on 2025-10-17 18:56:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -161,7 +161,6 @@ _Generated on 2025-10-17 18:56:02 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
       - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/)
-        - [`🎓_university_of_southampton_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_southampton_compliance_profile.md)
         - [`🎓_university_of_strathclyde_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_strathclyde_compliance_profile.md)
         - [`🎓_university_of_warwick_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_warwick_compliance_profile.md)
         - [`🎓_university_of_westminster_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_westminster_compliance_profile.md)
@@ -466,6 +465,7 @@ _Generated on 2025-10-17 18:56:02 UTC_
           - [`🎓_university_of_roehampton_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_roehampton_compliance_profile.md)
           - [`🎓_university_of_sheffield_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_sheffield_compliance_profile.md)
           - [`🎓_university_of_south_wales_cardiff_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_south_wales_cardiff_compliance_profile.md)
+          - [`🎓_university_of_southampton_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_university_of_southampton_compliance_profile.md)
           - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_scored.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)
         - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
