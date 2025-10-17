@@ -1,6 +1,6 @@
 # 🫜 Case Note: Asymmetric Discourse Policing  
 **First created:** 2025-09-06 | **Last updated:** 2025-09-12  
-*Forensic note on how criticism of some states is normalised, while others are conflated with identity-based attacks*
+*Forensic note on how criticism of some states is normalised, while others are conflated with identity-based attacks.*
 
 ---
 
