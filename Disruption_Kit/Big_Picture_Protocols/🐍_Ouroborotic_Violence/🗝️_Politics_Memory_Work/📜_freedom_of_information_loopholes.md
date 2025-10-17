@@ -1,6 +1,6 @@
 # 📜 Freedom of Information Loopholes  
 **First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*How transparency law is bent, deferred, or re-interpreted to keep survivor-relevant data sealed*
+*How transparency law is bent, deferred, or re-interpreted to keep survivor-relevant data sealed.*
 
 ---
 
