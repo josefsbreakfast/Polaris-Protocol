@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 15:06:40 UTC_
+_Generated on 2025-10-17 15:07:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -989,7 +989,7 @@ _Generated on 2025-10-17 15:06:40 UTC_
       - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
       - [`📱_app_security_basics_for_survivors.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📱_app_security_basics_for_survivors.md)
       - [`🔐_verifying_app_encryption_and_privacy_claims.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🔐_verifying_app_encryption_and_privacy_claims.md)
-      - [`🕵️‍♀️_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🕵️‍♀️_auditing_your_own_phone_for_hidden_surveillance.md)
+      - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
     - [**🪬_ToS_Non_Compliance_As_Stealthing/**](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/README.md)
       - [`⚖️_governance_levers.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/⚖️_governance_levers.md)
