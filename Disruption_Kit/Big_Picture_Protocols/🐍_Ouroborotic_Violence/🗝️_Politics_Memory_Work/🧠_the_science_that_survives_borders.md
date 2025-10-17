@@ -1,8 +1,6 @@
-# 🧠 The Science That Survives Borders
-
-**First created:** 2025-08-12 | **Last updated:** 2025-08-30
-
-*Why immigration restrictions slow STEM and how behavioural governance crossed borders after the Holocaust.*
+# 🧠 The Science That Survives Borders  
+**First created:** 2025-08-12 | **Last updated:** 2025-08-30  
+*Why immigration restrictions slow STEM and how behavioural governance crossed borders after the Holocaust.*  
 
 ---
 
