@@ -1,3 +1,4 @@
+
 # 🦠 Opportunistic Disinformation Pathogen  
 **First created:** 2025-10-05 | **Last updated:** 2025-10-05  
 *Mid-2010s conditions as an “open host” for disinformation to evolve like a pathogen.*
