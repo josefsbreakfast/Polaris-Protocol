@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:53:10 UTC_
+_Generated on 2025-10-17 13:53:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -345,6 +345,7 @@ _Generated on 2025-10-17 13:53:10 UTC_
         - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
         - [`🧠_ai_harms_are_not_new.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md)
         - [`🧠_bargain_bin_mossad.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
+        - [`🧠_fisher_fork_theory.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_fisher_fork_theory.md)
         - [`🧠_le_carré_meets_alice_in_wonderland.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_le_carré_meets_alice_in_wonderland.md)
         - [`🧠_leveraged_bad_luck.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_leveraged_bad_luck.md)
         - [`🧠_the_science_that_survives_borders.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_the_science_that_survives_borders.md)
@@ -530,7 +531,6 @@ _Generated on 2025-10-17 13:53:10 UTC_
       - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
-      - [`🧠_fisher_fork_theory.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_fisher_fork_theory.md)
     - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/README.md)
       - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
