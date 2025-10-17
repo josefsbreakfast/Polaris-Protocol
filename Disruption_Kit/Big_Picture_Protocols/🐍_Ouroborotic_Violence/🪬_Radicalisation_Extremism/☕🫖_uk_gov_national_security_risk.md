@@ -1,7 +1,5 @@
-# ☕🫖 Is the Current UK Government a Threat to National Security?
-
-**First created:** 2025-08-04 | **Last updated:** 2025-08-30
-
+# ☕🫖 Is the Current UK Government a Threat to National Security?  
+**First created:** 2025-08-04 | **Last updated:** 2025-08-30  
 *Threat assessment: UK government conduct as a national security risk.*  
 
 ---
