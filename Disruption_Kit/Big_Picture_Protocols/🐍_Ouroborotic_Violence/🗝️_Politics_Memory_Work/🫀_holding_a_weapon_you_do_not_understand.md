@@ -1,7 +1,5 @@
-# 🫀 Holding a Weapon You Don’t Understand
-
-**First created:** 2025-08-17 | **Last updated:** 2025-08-30
-
+# 🫀 Holding a Weapon You Don’t Understand  
+**First created:** 2025-08-17 | **Last updated:** 2025-08-30  
 *Antifascist survival through language, solidarity, and the metaphor of weapons handled without comprehension.*  
 
 ---
