@@ -1,6 +1,6 @@
 # 📜 Funding and Charitable Status Timeline — UK Universities  
 **First created:** 2025-09-23 | **Last updated:** 2025-10-03  
-*A history of how UK universities became “charitable” bodies that act like corporations, shaped by policy vibes, marketisation, and global soft power shifts*  
+*A history of how UK universities became “charitable” bodies that act like corporations, shaped by policy vibes, marketisation, and global soft power shifts.*  
 
 ---
 
