@@ -1,7 +1,5 @@
-# 📡 Fisher Surveillance Addendum
-
-**First created:** 2025-08-08 | **Last updated:** 2025-08-30
-
+# 📡 Fisher Surveillance Addendum  
+**First created:** 2025-08-08 | **Last updated:** 2025-08-30  
 *Post-Fisher addendum on surveillance infrastructure, clone engineering, and behavioural pacification.*  
 
 ---
