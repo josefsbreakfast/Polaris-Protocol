@@ -1,7 +1,5 @@
-# 🧠 AI Harms Are Not New — Polaris Big Picture
-
-**First created:** 2025-08-13 | **Last updated:** 2025-08-30
-
+# 🧠 AI Harms Are Not New — Polaris Big Picture  
+**First created:** 2025-08-13 | **Last updated:** 2025-08-30  
 *Systemic analysis of AI harm as continuation of longstanding metadata architectures.*  
 
 ---
