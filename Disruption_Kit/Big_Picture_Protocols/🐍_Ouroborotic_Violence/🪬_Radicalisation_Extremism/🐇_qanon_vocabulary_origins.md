@@ -1,6 +1,6 @@
 # 🐇 QAnon Vocabulary Origins  
 **First created:** 2025-10-05 | **Last updated:** 2025-10-05  
-*Pulp procedure, prophecy syntax, and gamer logic fused into a radicalisation dialect*
+*Pulp procedure, prophecy syntax, and gamer logic fused into a radicalisation dialect.*
 
 ---
 
