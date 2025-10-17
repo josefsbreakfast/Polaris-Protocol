@@ -1,6 +1,6 @@
 # 🎶 Endorser Network Traces  
 **First created:** 2025-09-27 | **Last updated:** 2025-10-06  
-*Observation log of foreword writers, blurbers, and endorsers tied to the book*  
+*Observation log of foreword writers, blurbers, and endorsers tied to the book.*  
 
 ---
 
