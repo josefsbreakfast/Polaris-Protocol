@@ -109,7 +109,7 @@ Annotations must:
 | [📋 Protocol Integrity SOP](../🏮_Admin_Kit/protocol_integrity_sop.md) | Style and fidelity audit prior to release |
 | [🎛️ Pocket Rules — Survivor Voice Fidelity](../🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md) | Undertone guardrails |
 | [🔮 House Style](../🏮_Admin_Kit/🔮_house_style.md) | Structural + aesthetic consistency |
-| [🧾 Metadata Fingerprints](./🧩_metadata_fingerprints_hidden_fields_and_author_traces.md) | Authenticity + author trace management |
+| [🫆 Metadata Fingerprints](./🫆_metadata_fingerprints_hidden_fields_and_author_traces.md) | Authenticity + author trace management |
 | [🧱 Containment Fingerprint Atlas](./🧱_containment_fingerprint_atlas_visual_map_of_repeated_glitches.md) | Pattern mapping of systemic leaks |
 
 ---
@@ -130,7 +130,7 @@ leak archive, redaction, source protection, provenance, encryption, metadata hyg
 It defines methods for safe custody, redaction, and annotation of leaked material, ensuring both forensic reliability and survivor protection.  
 
 > 📡 Cross-references:  
-> - [🧩 Metadata Fingerprints — Hidden Fields and Author Traces](./🧩_metadata_fingerprints_hidden_fields_and_author_traces.md)  
+> - [🫆 Metadata Fingerprints — Hidden Fields and Author Traces](./🫆_metadata_fingerprints_hidden_fields_and_author_traces.md)  
 > - [🧱 Containment Fingerprint Atlas — Visual Map of Repeated Glitches](./🧱_containment_fingerprint_atlas_visual_map_of_repeated_glitches.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
