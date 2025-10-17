@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 19:00:02 UTC_
+_Generated on 2025-10-17 19:00:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -159,9 +159,6 @@ _Generated on 2025-10-17 19:00:02 UTC_
         - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪞_the_illusion_of_choice.md)
         - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
-    - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
-      - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/)
-        - [`📊_compliance_league_table_London_cluster_scored_v2.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_London_cluster_scored_v2.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
@@ -466,6 +463,7 @@ _Generated on 2025-10-17 19:00:02 UTC_
           - [`🎓_york_st_john_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_york_st_john_university_compliance_profile.md)
           - [`🐦‍🔥_methodology_scoring_league_tables.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🐦‍🔥_methodology_scoring_league_tables.md)
           - [`📊_compliance_league_table_London_cluster_scored.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_London_cluster_scored.md)
+          - [`📊_compliance_league_table_London_cluster_scored_v2.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_London_cluster_scored_v2.md)
           - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_scored.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)
         - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
