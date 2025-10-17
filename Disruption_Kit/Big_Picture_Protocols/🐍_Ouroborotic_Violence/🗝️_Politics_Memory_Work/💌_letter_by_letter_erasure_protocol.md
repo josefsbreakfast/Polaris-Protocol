@@ -1,7 +1,5 @@
-# 💌 Letter by Letter: Erasure Protocol
-
-**First created:** 2025-08-08 | **Last updated:** 2025-08-30
-
+# 💌 Letter by Letter: Erasure Protocol  
+**First created:** 2025-08-08 | **Last updated:** 2025-08-30  
 *Linguistic erasure as a tool of profiling and control.*  
 
 ---
