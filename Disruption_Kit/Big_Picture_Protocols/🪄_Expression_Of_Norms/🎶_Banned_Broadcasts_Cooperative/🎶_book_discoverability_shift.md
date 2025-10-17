@@ -1,6 +1,6 @@
 # 🎶 Book Discoverability Shift (2022 Title)  
 **First created:** 2025-09-27 | **Last updated:** 2025-10-03  
-*Observation log of sudden visibility changes for the 2022 book*  
+*Observation log of sudden visibility changes for the 2022 book.*  
 
 ---
 
