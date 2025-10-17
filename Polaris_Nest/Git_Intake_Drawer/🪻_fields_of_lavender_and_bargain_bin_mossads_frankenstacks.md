@@ -81,6 +81,4 @@ It collates reputable open sources on reported systems and highlights where poli
 > 📡 Cross-references: consider linking to **Genocide Denialism**, **Narrative Management**, and **Metadata Sabotage Network** clusters.
 
 ---
-
-**Suggested filename:**  
-`Disruption_Kit/Big_Picture_Protocols/🛰️_AI_Targeting_Risk_Management/🛰️_unit_8200_llm_lavender_pipeline.md`
+<!--VoiceX calls her voice back, my boys.-->
