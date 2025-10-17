@@ -1,6 +1,6 @@
 # 🧬 Cambridge Analytica Genealogy  
 **First created:** 2025-09-14 | **Last updated:** 2025-10-04  
-*Tracing the persistence of data-driven psychological manipulation from Cambridge Analytica to its modern successors across media, politics, and crisis management*
+*Tracing the persistence of data-driven psychological manipulation from Cambridge Analytica to its modern successors across media, politics, and crisis management.*
 
 ---
 
