@@ -98,7 +98,8 @@ Rishi Sunak, Asian Leadership Conference, value-based democracy, missing transcr
 *🛰️ Missing Speech — The Value-Based Democracy Pattern* is a living node of the Polaris Protocol.  
 It documents how democratic rhetoric itself can become an artefact of information control — visible where it flatters, erased where it destabilises.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> - [🕳️ Curated Amnesia Has A Shape](../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
 > - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](🏛️_how_genocidal_bureaucracy_operates_the_wannsee_template.md)  
 > - [⚖️ Due Diligence as Moral Defence](⚖️_due_diligence_as_moral_defence.md)  
 > - [🪶 Reading the Dog Whistle](🪶_reading_the_dog_whistle.md)  
