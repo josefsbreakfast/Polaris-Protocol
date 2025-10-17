@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:19:28 UTC_
+_Generated on 2025-10-17 18:19:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -246,7 +246,6 @@ _Generated on 2025-10-17 18:19:28 UTC_
         - [`georgetown_authoritarianism_books.csv`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/georgetown_authoritarianism_books.csv)
         - [`parse_usna_removed_books.py`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/parse_usna_removed_books.py)
         - [`usna_removed_books_2025.csv`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/usna_removed_books_2025.csv)
-        - [`📊_navy_transparency_as_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/📊_navy_transparency_as_resistance.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
@@ -490,6 +489,7 @@ _Generated on 2025-10-17 18:19:28 UTC_
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/)
         - [**data/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/)
+          - [`📊_navy_transparency_as_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/📊_navy_transparency_as_resistance.md)
           - [`📚_usna_removed_books_2025.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/📚_usna_removed_books_2025.md)
         - [**🐉_The_Unpublishables/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/)
           - [**🎪_Where_We_Go_From_Here/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/)
