@@ -1,6 +1,6 @@
 # 📜 Teen Poetry as Pretext  
 **First created:** 2025-09-21 | **Last updated:** 2025-09-27  
-*How adolescent expression under pseudonyms is misframed as “extremism evidence”*  
+*How adolescent expression under pseudonyms is misframed as “extremism evidence”.*  
 
 ---
 
