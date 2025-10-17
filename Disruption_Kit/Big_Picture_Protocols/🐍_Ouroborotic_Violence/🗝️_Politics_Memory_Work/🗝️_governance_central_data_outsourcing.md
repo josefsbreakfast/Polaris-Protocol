@@ -1,6 +1,6 @@
 # 🗝️ Governance of Sensitive Data and Outsourcing  
 **First created:** 2025-09-01 | **Last updated:** 2025-09-28  
-*On Palantir, privatised sovereignty, and imperial echoes in UK state systems*  
+*On Palantir, privatised sovereignty, and imperial echoes in UK state systems.*  
 
 ---
 
