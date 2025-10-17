@@ -1,4 +1,4 @@
-# 🛡 State Behavioural Arms — UK (Quick Reference)  
+# 🧠 State Behavioural Arms — UK (Quick Reference)  
 **First created:** 2025-10-05 | **Last updated:** 2025-10-13  
 *A working list of UK agencies and programmes using behavioural science or psychological methods in covert, security, or governance contexts.*  
 
