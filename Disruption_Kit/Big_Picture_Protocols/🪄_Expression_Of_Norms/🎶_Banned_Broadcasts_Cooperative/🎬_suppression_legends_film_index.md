@@ -1,6 +1,6 @@
 # 🎬 Suppression Legends Film Index  
 **First created:** 2025-09-29 | **Last updated:** 2025-10-03  
-*Films that became cultural detonators precisely because someone tried to mute them*  
+*Films that became cultural detonators precisely because someone tried to mute them.*  
 
 ---
 
