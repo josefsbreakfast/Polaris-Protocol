@@ -1,8 +1,6 @@
-# 🧠 Fisher Fork Theory
-
-**First created:** 2025-08-07 | **Last updated:** 2025-08-30
-
-*Affective capture, metadata fog, and the emotional governance of resistance.*
+# 🧠 Fisher Fork Theory  
+**First created:** 2025-08-07 | **Last updated:** 2025-08-30  
+*Affective capture, metadata fog, and the emotional governance of resistance.*  
 
 ---
 
