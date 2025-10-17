@@ -1,6 +1,6 @@
 # ⚠️ Authoritarian Incentives in Universities  
 **First created:** 2025-09-23 | **Last updated:** 2025-09-30  
-*Why UK universities are structurally nudged toward authoritarian contracts, and why this is a democratic crisis*  
+*Why UK universities are structurally nudged toward authoritarian contracts, and why this is a democratic crisis.*  
 
 ---
 
