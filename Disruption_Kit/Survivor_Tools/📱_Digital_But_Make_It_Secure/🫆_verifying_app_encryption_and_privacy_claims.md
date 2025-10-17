@@ -1,4 +1,4 @@
-# 🔐 Verifying App Encryption & Privacy Claims
+# 🫆 Verifying App Encryption & Privacy Claims
 **First created:** 2025-10-17 | **Last updated:** 2025-10-17
 *A survivor-safe technical guide to reading what “encrypted” actually means.*
 
