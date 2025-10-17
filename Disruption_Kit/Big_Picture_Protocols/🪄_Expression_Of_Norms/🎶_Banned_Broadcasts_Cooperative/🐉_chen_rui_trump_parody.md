@@ -1,6 +1,6 @@
 # 🐉 Chen Rui / Ryan — Trump Parody from Chongqing  
 **First created:** 2025-09-20 | **Last updated:** 2025-10-03  
-*A viral impersonator who punctured strongman mythologies with humour, bridging Chinese and global audiences*  
+*A viral impersonator who punctured strongman mythologies with humour, bridging Chinese and global audiences.*  
 
 ---
 
