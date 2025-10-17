@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 The *Leak Archive Protocol* defines a survivor-centred standard for collecting, storing, and annotating leaked materials without endangering sources.  
 It builds on *forensic archival principles* — custody, authenticity, reproducibility — while prioritising **safety, dignity, and informed consent**.  
 
@@ -49,7 +49,7 @@ Each zone has distinct storage and clearance thresholds.
 
 ---
 
-## 🧩 3. Provenance Tags and Version Control  
+## 🔖 3. Provenance Tags and Version Control  
 
 ### 3.1 Provenance Tags  
 Attach a **provenance header** to each file or record:  
@@ -96,7 +96,7 @@ Annotations must:
 ## 🧠 5. Survivor Voice & Ethical Anchors  
 
 - Survivors own their stories — leaks *about* them are not public property.  
-- Annotation language must maintain **voice fidelity** per *🎛️ Pocket Rules*.  
+- Annotation language must maintain **voice fidelity**.  
 - No neutralisation without consent: irony, grief, or anger are integral to the record.  
 - Custodians act as **guardians of undertone**, not editors of tone.  
 
