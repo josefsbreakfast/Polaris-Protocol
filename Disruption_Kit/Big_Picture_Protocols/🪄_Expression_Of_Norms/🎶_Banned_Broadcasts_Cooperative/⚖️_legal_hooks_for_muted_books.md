@@ -1,6 +1,6 @@
 # ⚖️ Legal Hooks for Muted Books  
 **First created:** 2025-09-17 | **Last updated:** 2025-10-03  
-*A theoretical toolkit for UK writers and creatives seeking to press for penalty when a book has been muted. Not legal advice; designed as a map of possible doctrines and rights*  
+*A theoretical toolkit for UK writers and creatives seeking to press for penalty when a book has been muted. Not legal advice; designed as a map of possible doctrines and rights.*  
 
 ---
 
@@ -113,3 +113,4 @@ book suppression, muted books, UK law, defamation, tortious interference, equali
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-03_  
+
