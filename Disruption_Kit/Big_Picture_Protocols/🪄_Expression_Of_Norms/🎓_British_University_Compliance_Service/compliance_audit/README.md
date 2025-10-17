@@ -1,6 +1,6 @@
 # 🎓 British University Compliance Service — Compliance Audit  
 **First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*Internal audit framework for assessing surveillance-adjacent compliance structures in UK higher education*
+*Internal audit framework for assessing surveillance-adjacent compliance structures in UK higher education.*
 
 ---
 
