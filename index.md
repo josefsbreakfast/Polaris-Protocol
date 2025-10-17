@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:50:03 UTC_
+_Generated on 2025-10-17 13:50:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -340,6 +340,7 @@ _Generated on 2025-10-17 13:50:03 UTC_
         - [`🗝️_deliberate_cultural_violation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md)
         - [`🗝️_eccentric_custody_wellcome_collection.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_eccentric_custody_wellcome_collection.md)
         - [`🗝️_governance_central_data_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_governance_central_data_outsourcing.md)
+        - [`🗝️_guardianship_as_nonstate_custody.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_guardianship_as_nonstate_custody.md)
         - [`🧠_the_science_that_survives_borders.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_the_science_that_survives_borders.md)
         - [`🧥_empires_old_clothes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧥_empires_old_clothes.md)
         - [`🧪_breeding_trope_as_eugenics.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧪_breeding_trope_as_eugenics.md)
@@ -523,7 +524,6 @@ _Generated on 2025-10-17 13:50:03 UTC_
       - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
-      - [`🗝️_guardianship_as_nonstate_custody.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_guardianship_as_nonstate_custody.md)
       - [`🗝️_illusion_of_caldicott_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝️_illusion_of_caldicott_compliance.md)
       - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
       - [`🧠_ai_harms_are_not_new.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md)
