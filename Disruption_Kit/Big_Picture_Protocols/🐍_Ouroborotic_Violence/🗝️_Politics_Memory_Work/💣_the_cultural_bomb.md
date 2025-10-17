@@ -1,6 +1,6 @@
 # 💣 The Cultural Bomb  
 **First created:** 2025-09-27 | **Last updated:** 2025-09-27  
-*Ngũgĩ wa Thiong’o’s concept of colonial culture as a weapon of erasure*  
+*Ngũgĩ wa Thiong’o’s concept of colonial culture as a weapon of erasure.*  
 
 ---
 
