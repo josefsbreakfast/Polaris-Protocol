@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:17:34 UTC_
+_Generated on 2025-10-17 13:18:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -303,6 +303,7 @@ _Generated on 2025-10-17 13:17:34 UTC_
           - [`evidence_review_extraction.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/evidence_review_extraction.csv)
           - [`purpose_review_coding.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/purpose_review_coding.csv)
         - [**🌹_Demonstrating_High_Value/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md)
           - [`🌹_negging.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🌹_negging.md)
           - [`🎬_dennis_system_as_pua_satire.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🎬_dennis_system_as_pua_satire.md)
           - [`🐺_AMOG_a_joke.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🐺_AMOG_a_joke.md)
@@ -595,9 +596,6 @@ _Generated on 2025-10-17 13:17:34 UTC_
       - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
-    - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/)
-      - [**🌹_Demonstrating_High_Value/**](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
