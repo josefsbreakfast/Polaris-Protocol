@@ -1,6 +1,6 @@
 # ⚖️ Charitable Status Paradox  
 **First created:** 2025-09-23 | **Last updated:** 2025-09-30  
-*How UK universities use the shell of charity law while courting authoritarian and exploitative funders*  
+*How UK universities use the shell of charity law while courting authoritarian and exploitative funders.*  
 
 ---
 
