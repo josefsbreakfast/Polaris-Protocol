@@ -1,6 +1,6 @@
 # 🧿 Canonisation by Erasure  
 **First created:** 2025-09-29 | **Last updated:** 2025-10-03  
-*When a work is buried, it becomes holy*  
+*When a work is buried, it becomes holy.*  
 
 ---
 
