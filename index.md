@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:15:28 UTC_
+_Generated on 2025-10-17 18:15:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -250,7 +250,6 @@ _Generated on 2025-10-17 18:15:28 UTC_
         - [`📚_usna_removed_books_2025.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/📚_usna_removed_books_2025.md)
       - [**🐉_The_Unpublishables/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/)
         - [**🎪_Where_We_Go_From_Here/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/)
-          - [`008_ 🪽_Justice_Angels.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/008_ 🪽_Justice_Angels.md)
           - [`009_🌤️_When_Resisted.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/009_🌤️_When_Resisted.md)
           - [`010_ 📜_Preventive_Framework.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/010_ 📜_Preventive_Framework.md)
           - [`011_ 🐐_Authors_Notebook.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/011_ 🐐_Authors_Notebook.md)
@@ -508,6 +507,7 @@ _Generated on 2025-10-17 18:15:28 UTC_
             - [`005_🛰️_Diffuse_Architecture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/005_🛰️_Diffuse_Architecture.md)
             - [`006_🪨_Raw_Materials.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/006_🪨_Raw_Materials.md)
             - [`007_🧨_Manufacturing_Scapegoat.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/007_🧨_Manufacturing_Scapegoat.md)
+            - [`008_ 🪽_Justice_Angels.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/008_ 🪽_Justice_Angels.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md)
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_legal_hooks_for_muted_books.md)
         - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
