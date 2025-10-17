@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:01:33 UTC_
+_Generated on 2025-10-17 18:01:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -266,7 +266,6 @@ _Generated on 2025-10-17 18:01:33 UTC_
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md)
       - [`🎧_banned_tracks_transmission_loops.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎧_banned_tracks_transmission_loops.md)
-      - [`🎬_suppression_legends_film_index.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎬_suppression_legends_film_index.md)
       - [`🎶_book_discoverability_shift_2022.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_book_discoverability_shift_2022.md)
       - [`🎶_containment_by_review_jstor_2018.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_containment_by_review_jstor_2018.md)
       - [`🎶_dedication_absences_in_books.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🎶_dedication_absences_in_books.md)
@@ -533,6 +532,7 @@ _Generated on 2025-10-17 18:01:33 UTC_
         - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
         - [`➰_appeasement_loop_policing_bias.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/➰_appeasement_loop_policing_bias.md)
         - [`🎙_congress_radio_and_partition_cinema.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎙_congress_radio_and_partition_cinema.md)
+        - [`🎬_suppression_legends_film_index.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎬_suppression_legends_film_index.md)
         - [`🕳_narrative_misattribution_and_war_testimony.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🕳_narrative_misattribution_and_war_testimony.md)
         - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🖨️_print_culture_as_precedent.md)
         - [`🚀_scarcity_prohibition_rocket_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md)
