@@ -1,8 +1,6 @@
-# 🧠 Leveraged Bad Luck
-
-**First created:** 2025-08-20 | **Last updated:** 2025-08-30
-
-*A doctrine file mapping how crises emerge through factor convergence and opportunistic leverage, rather than authorship or prophecy.*
+# 🧠 Leveraged Bad Luck  
+**First created:** 2025-08-20 | **Last updated:** 2025-08-30  
+*A doctrine file mapping how crises emerge through factor convergence and opportunistic leverage, rather than authorship or prophecy.*  
 
 ---
 
