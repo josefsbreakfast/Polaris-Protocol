@@ -1,6 +1,6 @@
 # ➰ Appeasement Loop Policing Bias  
 **First created:** 2025-09-15 | **Last updated:** 2025-10-03  
-*Why leftist groups are over-policed while fascists slide through with appeasement*  
+*Why leftist groups are over-policed while fascists slide through with appeasement.*  
 
 ---
 
