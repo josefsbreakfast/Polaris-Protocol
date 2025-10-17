@@ -1,7 +1,5 @@
-# 🕯 Containment Through Loneliness
-
-**First created:** 2025-09-07 | **Last updated:** 2025-09-07
-
+# 🕯 Containment Through Loneliness  
+**First created:** 2025-09-07 | **Last updated:** 2025-09-07  
 *Mapping loneliness as an engineered containment strategy across state, digital, and institutional systems.*  
 
 ---
