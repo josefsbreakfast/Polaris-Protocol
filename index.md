@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 01:26:20 UTC_
+_Generated on 2025-10-17 01:59:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1406,6 +1406,7 @@ _Generated on 2025-10-17 01:26:20 UTC_
     - [`pathological_simplicity_algorithms_misread_human_chaos.md`](Polaris_Nest/Git_Intake_Drawer/pathological_simplicity_algorithms_misread_human_chaos.md)
     - [`⏳_governance_latency_in_population_scale_cyber_events.md`](Polaris_Nest/Git_Intake_Drawer/⏳_governance_latency_in_population_scale_cyber_events.md)
     - [`☔️_compressed_privacy_and_freedom_of_thought.md`](Polaris_Nest/Git_Intake_Drawer/☔️_compressed_privacy_and_freedom_of_thought.md)
+    - [`☔️_the_one_useful_thing.md`](Polaris_Nest/Git_Intake_Drawer/☔️_the_one_useful_thing.md)
     - [`☔️_was_i_supposed_to_leak.md`](Polaris_Nest/Git_Intake_Drawer/☔️_was_i_supposed_to_leak.md)
     - [`☕_less_than_ugly_mugs.md`](Polaris_Nest/Git_Intake_Drawer/☕_less_than_ugly_mugs.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_agentic_ai_needs_coffee.md)
