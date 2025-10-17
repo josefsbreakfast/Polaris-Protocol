@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:46:18 UTC_
+_Generated on 2025-10-17 13:46:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -332,6 +332,7 @@ _Generated on 2025-10-17 13:46:18 UTC_
         - [`🔥_suppression_as_signal.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)
         - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕌_ornamental_survival_and_misfiled_survivals.md)
         - [`🕯️_containment_through_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕯️_containment_through_loneliness.md)
+        - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_contingency_erasure.md)
         - [`🧠_the_science_that_survives_borders.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_the_science_that_survives_borders.md)
         - [`🧥_empires_old_clothes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧥_empires_old_clothes.md)
         - [`🧪_breeding_trope_as_eugenics.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧪_breeding_trope_as_eugenics.md)
@@ -515,7 +516,6 @@ _Generated on 2025-10-17 13:46:18 UTC_
       - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
-      - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_contingency_erasure.md)
       - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_custodianship_illusion.md)
       - [`🗝_privatised_record_keeping.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_privatised_record_keeping.md)
       - [`🗝_who_holds_the_tape.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md)
