@@ -1,6 +1,6 @@
 # 🕳 Narrative Misattribution and War Testimony  
 **First created:** 2025-09-15 | **Last updated:** 2025-10-03  
-*How survivor testimony is smeared, misattributed, and inverted into containment*  
+*How survivor testimony is smeared, misattributed, and inverted into containment.*  
 
 ---
 
