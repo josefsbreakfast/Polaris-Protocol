@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:22:39 UTC_
+_Generated on 2025-10-17 18:23:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -238,7 +238,6 @@ _Generated on 2025-10-17 18:22:39 UTC_
     - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/)
       - [**audit_suppression/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/README.md)
-        - [`🎧_media_visibility_gap_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/🎧_media_visibility_gap_protocol.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
@@ -482,6 +481,7 @@ _Generated on 2025-10-17 18:22:39 UTC_
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/)
         - [**audit_suppression/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/audit_suppression/)
+          - [`🎧_media_visibility_gap_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/audit_suppression/🎧_media_visibility_gap_protocol.md)
           - [`📚_audit_suppression_protocol_english.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/audit_suppression/📚_audit_suppression_protocol_english.md)
           - [`🗂️_case_study_log_template.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/audit_suppression/🗂️_case_study_log_template.md)
         - [**data/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/)
