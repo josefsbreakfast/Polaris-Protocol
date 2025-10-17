@@ -1,6 +1,6 @@
 # ⚖️ Landlord Remedies for Covert Surveillance Abuse  
 **First created:** 2025-10-03 | **Last updated:** 2025-10-07  
-*Civil and tortious claims available when tenants covertly convert property into a surveillance hub*  
+*Civil and tortious claims available when tenants covertly convert property into a surveillance hub.*  
 
 ---
 
