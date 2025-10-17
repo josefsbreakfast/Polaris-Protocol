@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:11:06 UTC_
+_Generated on 2025-10-17 18:11:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -264,7 +264,6 @@ _Generated on 2025-10-17 18:11:06 UTC_
           - [`012_👹_Atrocity_Engineers.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/012_👹_Atrocity_Engineers.md)
           - [`013_🔮_Atrocity_Index.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/013_🔮_Atrocity_Index.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/README.md)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
@@ -507,6 +506,7 @@ _Generated on 2025-10-17 18:11:06 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md)
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_legal_hooks_for_muted_books.md)
         - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
         - [`➰_appeasement_loop_policing_bias.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/➰_appeasement_loop_policing_bias.md)
