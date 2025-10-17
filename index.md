@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:58:56 UTC_
+_Generated on 2025-10-17 15:05:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -985,6 +985,8 @@ _Generated on 2025-10-17 13:58:56 UTC_
     - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
     - [`🫜_divorce_support.md`](Disruption_Kit/Field_Logs/🫜_divorce_support.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
+    - [**📱_Digital_But_Make_It_Secure/**](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/)
+      - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
     - [**🪬_ToS_Non_Compliance_As_Stealthing/**](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/README.md)
       - [`⚖️_governance_levers.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/⚖️_governance_levers.md)
