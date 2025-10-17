@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 17:46:30 UTC_
+_Generated on 2025-10-17 17:46:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -561,7 +561,6 @@ _Generated on 2025-10-17 17:46:30 UTC_
       - [`🪩_self_silencing_cyclone_and_reverse_overton_window.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪩_self_silencing_cyclone_and_reverse_overton_window.md)
     - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/)
       - [`🧿_diaspora_disclosure_tactics.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)
-      - [`🪞_fanon_and_the_algorithmic_unconscious.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🪞_fanon_and_the_algorithmic_unconscious.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md)
@@ -596,6 +595,7 @@ _Generated on 2025-10-17 17:46:30 UTC_
         - [`🛫_frequent_flyers_club.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🛫_frequent_flyers_club.md)
         - [`🛰️_overlapping_surveillance_layers.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🛰️_overlapping_surveillance_layers.md)
         - [`🧠_why_are_we_threatened_by_complexity.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧠_why_are_we_threatened_by_complexity.md)
+        - [`🪞_fanon_and_the_algorithmic_unconscious.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪞_fanon_and_the_algorithmic_unconscious.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
