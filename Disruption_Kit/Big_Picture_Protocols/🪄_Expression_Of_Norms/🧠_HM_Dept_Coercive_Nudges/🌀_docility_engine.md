@@ -1,8 +1,6 @@
 # 🌀 Docility Engine  
-
-**First created:** 2025-08-04 | **Last updated:** 2025-10-08
-
-> *“Compliance isn’t forced — it’s engineered. The trick is making you run the loop yourself.”*  
+**First created:** 2025-08-04 | **Last updated:** 2025-10-08  
+*“Compliance isn’t forced — it’s engineered. The trick is making you run the loop yourself.”*  
 
 ---
 
