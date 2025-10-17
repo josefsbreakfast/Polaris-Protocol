@@ -1,6 +1,6 @@
 # 📚 How to Find Muted Volumes, for Return to the Cemetery of Forgotten Books  
 **First created:** 2025-09-17 | **Last updated:** 2025-10-03  
-*Replicable protocol for checking whether a trade title has been published and then effectively muted (plausible-deniability suppression vs natural obscurity)*  
+*Replicable protocol for checking whether a trade title has been published and then effectively muted (plausible-deniability suppression vs natural obscurity).*  
 
 ---
 
