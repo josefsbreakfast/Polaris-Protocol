@@ -1,6 +1,6 @@
 # 🗝 Privatised Record Keeping  
 **First created:** 2025-09-14 | **Last updated:** 2025-10-04  
-*How public records are quietly rerouted into private custody, enclosing survivor histories behind contractual and commercial secrecy*
+*How public records are quietly rerouted into private custody, enclosing survivor histories behind contractual and commercial secrecy.*
 
 ---
 
