@@ -1,4 +1,4 @@
-# 🧩 Re-Justification Loop — Racial Logics Reborn as Safety  
+# ➰ Re-Justification Loop — Racial Logics Reborn as Safety  
 **First created:** 2025-10-06  |  **Last updated:** 2025-10-08  
 *How racial hierarchies return through the moral vocabulary of safety, civility, and risk management.*
 
