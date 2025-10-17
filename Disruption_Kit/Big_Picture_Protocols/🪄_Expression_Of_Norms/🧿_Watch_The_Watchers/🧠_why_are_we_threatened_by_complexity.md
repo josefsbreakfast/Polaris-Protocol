@@ -1,6 +1,6 @@
 # 🧠 Why Are We Threatened by Complexity?  
 **First created:** 2025-09-28 | **Last updated:** 2025-10-07  
-*How “complexity” triggers escalation and bias*
+*How “complexity” triggers escalation and bias.*
 
 ---
 
