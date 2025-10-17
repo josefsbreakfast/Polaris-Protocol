@@ -1,6 +1,6 @@
 # 🎶 Dedication Absences in Books  
 **First created:** 2025-09-27 | **Last updated:** 2025-10-03  
-*Observation log of dedications and acknowledgments as metadata signals*  
+*Observation log of dedications and acknowledgments as metadata signals.*  
 
 ---
 
