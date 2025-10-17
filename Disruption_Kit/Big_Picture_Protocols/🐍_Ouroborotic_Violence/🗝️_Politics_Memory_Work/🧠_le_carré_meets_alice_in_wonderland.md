@@ -1,7 +1,5 @@
-# 🧠 Le Carré Meets Alice in Wonderland
-
-**First created:** 2025-08-26 | **Last updated:** 2025-08-30
-
+# 🧠 Le Carré Meets Alice in Wonderland  
+**First created:** 2025-08-26 | **Last updated:** 2025-08-30  
 *Allegorical forensics: when molehunts turn to fairy tales and the Circus collapses under nonsense logic.*  
 
 ---
