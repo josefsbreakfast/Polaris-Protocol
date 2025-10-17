@@ -1,6 +1,6 @@
 # 🌍 Soft Power and International Resentment  
 **First created:** 2025-09-23 | **Last updated:** 2025-10-01  
-*How UK higher education relies on international students, and how hostile politics erodes that trust*  
+*How UK higher education relies on international students, and how hostile politics erodes that trust.*  
 
 ---
 
