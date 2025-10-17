@@ -1,6 +1,6 @@
 # 📱 Algorithmic Recruitment  
 **First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*Analysis of TikTok, YouTube, and Telegram recommendation loops as accelerants of extremist worldview adoption*
+*Analysis of TikTok, YouTube, and Telegram recommendation loops as accelerants of extremist worldview adoption.*
 
 ---
 
