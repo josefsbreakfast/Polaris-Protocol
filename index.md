@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 00:12:58 UTC_
+_Generated on 2025-10-17 00:14:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -295,9 +295,9 @@ _Generated on 2025-10-17 00:12:58 UTC_
       - [`🚀_scarcity_prohibition_rocket_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md)
       - [`🧿_canonisation_by_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)
       - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🪄_the_magical_disappearing_book.md)
-    - [**🐍_Ouboroutic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouboroutic_Violence/)
-      - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouboroutic_Violence/🪬_Radicalisation_Extremism/)
-        - [`🦠_opportunistic_disinformation_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouboroutic_Violence/🪬_Radicalisation_Extremism/🦠_opportunistic_disinformation_pathogen.md)
+    - [**🐍_Ouborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/)
+      - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/🪬_Radicalisation_Extremism/)
+        - [`🦠_opportunistic_disinformation_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/🪬_Radicalisation_Extremism/🦠_opportunistic_disinformation_pathogen.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
         - [**systematic_reviews/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/)
