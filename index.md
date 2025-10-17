@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:58:04 UTC_
+_Generated on 2025-10-17 13:58:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -491,7 +491,6 @@ _Generated on 2025-10-17 13:58:04 UTC_
       - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🗝️_data_standards_fragmentation.md)
     - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/README.md)
-      - [`⚔️_war_on_woke_as_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
     - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/README.md)
       - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
@@ -589,6 +588,7 @@ _Generated on 2025-10-17 13:58:04 UTC_
       - [`🪞_fanon_and_the_algorithmic_unconscious.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🪞_fanon_and_the_algorithmic_unconscious.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/)
+        - [`⚔️_war_on_woke_as_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
         - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
         - [`💸_donor_networks_alt_right_media_overlap.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💸_donor_networks_alt_right_media_overlap.md)
         - [`💼_lobbying_stakeholder_notes.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💼_lobbying_stakeholder_notes.md)
