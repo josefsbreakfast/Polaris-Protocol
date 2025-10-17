@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:45:31 UTC_
+_Generated on 2025-10-17 18:46:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -161,7 +161,6 @@ _Generated on 2025-10-17 18:45:31 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
       - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/)
-        - [`🎓_queen_mary_university_of_london_qmul_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_queen_mary_university_of_london_qmul_compliance_profile.md)
         - [`🎓_queens_university_belfast_qub_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_queens_university_belfast_qub_compliance_profile.md)
         - [`🎓_sheffield_hallam_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_sheffield_hallam_university_compliance_profile.md)
         - [`🎓_solent_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_solent_university_compliance_profile.md)
@@ -466,6 +465,7 @@ _Generated on 2025-10-17 18:45:31 UTC_
           - [`🎓_northumbria_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_northumbria_university_compliance_profile.md)
           - [`🎓_nottingham_trent_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_nottingham_trent_university_compliance_profile.md)
           - [`🎓_oxford_brookes_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_oxford_brookes_university_compliance_profile.md)
+          - [`🎓_queen_mary_university_of_london_qmul_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_queen_mary_university_of_london_qmul_compliance_profile.md)
           - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_scored.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)
         - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
