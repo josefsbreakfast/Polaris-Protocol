@@ -1,6 +1,6 @@
 # 🗝 Contingency Erasure  
 **First created:** 2025-09-14 | **Last updated:** 2025-10-04  
-*The deletion of drafts, working notes, and decision traces that once revealed process — leaving only curated final versions and erasing dissent from the record*
+*The deletion of drafts, working notes, and decision traces that once revealed process — leaving only curated final versions and erasing dissent from the record.*
 
 ---
 
