@@ -1,7 +1,5 @@
-# 🧠 Bargain Bin Mossad
-
-**First created:** 2025-08-26 | **Last updated:** 2025-08-30
-
+# 🧠 Bargain Bin Mossad  
+**First created:** 2025-08-26 | **Last updated:** 2025-08-30  
 *A forensic satire of crude psyops, clumsy bureaucrats, and the misuse of clinical shorthand as containment theatre.*  
 
 ---
