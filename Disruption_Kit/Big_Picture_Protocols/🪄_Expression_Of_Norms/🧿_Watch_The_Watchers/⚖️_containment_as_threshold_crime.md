@@ -1,6 +1,6 @@
 # ⚖️ Containment as Threshold Crime  
 **First created:** 2025-10-07 | **Last updated:** 2025-10-07  
-*On when administrative containment passes from governance to atrocity*
+*On when administrative containment passes from governance to atrocity.*
 
 ---
 
