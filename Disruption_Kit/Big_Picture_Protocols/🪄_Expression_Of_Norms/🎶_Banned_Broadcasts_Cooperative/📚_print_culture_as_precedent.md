@@ -1,6 +1,6 @@
 # 🖨️ Print Culture as Precedent  
 **First created:** 2025-09-04 | **Last updated:** 2025-10-03  
-*How early print technologies amplified a handful of men into centuries of cultural distortion*  
+*How early print technologies amplified a handful of men into centuries of cultural distortion.*  
 
 ---
 
