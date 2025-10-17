@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:08:51 UTC_
+_Generated on 2025-10-17 13:09:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -302,6 +302,7 @@ _Generated on 2025-10-17 13:08:51 UTC_
           - [`coi_register.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/coi_register.csv)
           - [`evidence_review_extraction.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/evidence_review_extraction.csv)
           - [`purpose_review_coding.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/purpose_review_coding.csv)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md)
         - [`☕🫖_uk_gov_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
         - [`✍️_crime_writing_as_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
         - [`❌_negative_evidence_index.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_negative_evidence_index.md)
@@ -596,7 +597,6 @@ _Generated on 2025-10-17 13:08:51 UTC_
         - [`🧟‍♀️_frankenstack_radicalisation_hypothesis.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🧟‍♀️_frankenstack_radicalisation_hypothesis.md)
         - [`🩺_frankenstack_intake_and_response_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🩺_frankenstack_intake_and_response_protocol.md)
         - [`🪼_frankenstack_social_field_effects.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪼_frankenstack_social_field_effects.md)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
