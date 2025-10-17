@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:30:33 UTC_
+_Generated on 2025-10-17 18:30:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -161,7 +161,6 @@ _Generated on 2025-10-17 18:30:33 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
     - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/)
       - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/)
-        - [`🎓_birmingham_city_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_birmingham_city_university_compliance_profile.md)
         - [`🎓_brunel_university_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_brunel_university_london_compliance_profile.md)
         - [`🎓_cardiff_metropolitan_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_cardiff_metropolitan_university_compliance_profile.md)
         - [`🎓_cardiff_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🎓_British_University_Compliance_Service/compliance_audit/🎓_cardiff_university_compliance_profile.md)
@@ -466,6 +465,7 @@ _Generated on 2025-10-17 18:30:33 UTC_
           - [`🎓_BUCS_league_table_data_entry_template.csv`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_BUCS_league_table_data_entry_template.csv)
           - [`🎓_anglia_ruskin_university_cambridge_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_anglia_ruskin_university_cambridge_compliance_profile.md)
           - [`🎓_aston_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_aston_university_compliance_profile.md)
+          - [`🎓_birmingham_city_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_birmingham_city_university_compliance_profile.md)
           - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_scored.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)
         - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
