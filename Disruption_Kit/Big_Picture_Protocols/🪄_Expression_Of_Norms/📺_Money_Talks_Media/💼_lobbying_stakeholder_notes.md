@@ -1,6 +1,6 @@
 # 💼 Lobbying Scandals & Stakeholder Networks  
 **First created:** 2025-09-27 | **Last updated:** 2025-09-30  
-*Notes on companies linked to David Cameron, their dependencies, and key stakeholders*  
+*Notes on companies linked to David Cameron, their dependencies, and key stakeholders.*  
 
 ---
 
