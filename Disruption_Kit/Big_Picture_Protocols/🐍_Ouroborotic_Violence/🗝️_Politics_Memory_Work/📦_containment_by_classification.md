@@ -1,6 +1,6 @@
 # 📦 Containment by Classification  
 **First created:** 2025-09-29 | **Last updated:** 2025-09-29  
-*How misidentification, racialisation, and demographic boxes are weaponised as suppression tactics*  
+*How misidentification, racialisation, and demographic boxes are weaponised as suppression tactics.*  
 
 ---
 
