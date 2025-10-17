@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 18:20:53 UTC_
+_Generated on 2025-10-17 18:21:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -243,7 +243,6 @@ _Generated on 2025-10-17 18:20:53 UTC_
         - [`🗂️_case_study_log_template.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/audit_suppression/🗂️_case_study_log_template.md)
       - [**data/**](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/README.md)
-        - [`georgetown_authoritarianism_books.csv`](Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/data/georgetown_authoritarianism_books.csv)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
@@ -487,6 +486,7 @@ _Generated on 2025-10-17 18:20:53 UTC_
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/)
         - [**data/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/)
+          - [`georgetown_authoritarianism_books.csv`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/georgetown_authoritarianism_books.csv)
           - [`parse_usna_removed_books.py`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/parse_usna_removed_books.py)
           - [`usna_removed_books_2025.csv`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/usna_removed_books_2025.csv)
           - [`📊_navy_transparency_as_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/📊_navy_transparency_as_resistance.md)
