@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 17:54:09 UTC_
+_Generated on 2025-10-17 17:54:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -538,7 +538,6 @@ _Generated on 2025-10-17 17:54:09 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
     - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md)
-      - [`🧠_memory_encoding_endings.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧠_memory_encoding_endings.md)
       - [`🧩_rejustification_loop_racial_logics_reborn_as_safety.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧩_rejustification_loop_racial_logics_reborn_as_safety.md)
       - [`🧿_over_the_line_behavioural_targeting_and_elections.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🧿_over_the_line_behavioural_targeting_and_elections.md)
       - [`🪞_deference_politics_as_containment_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)
@@ -569,6 +568,7 @@ _Generated on 2025-10-17 17:54:09 UTC_
         - [`🛰️_hypothetical_nudge_map.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🛰️_hypothetical_nudge_map.md)
         - [`🥄_deserving_poor_containment.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🥄_deserving_poor_containment.md)
         - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
+        - [`🧠_memory_encoding_endings.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🧠_memory_encoding_endings.md)
         - [`🧠_state_behavioural_arms_uk_quick_reference.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🧠_state_behavioural_arms_uk_quick_reference.md)
         - [`🪩_self_silencing_cyclone_and_reverse_overton_window.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🪩_self_silencing_cyclone_and_reverse_overton_window.md)
       - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/)
