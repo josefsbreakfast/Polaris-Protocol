@@ -1,7 +1,5 @@
 # 🧥 Empire’s Old Coat  
-
 **First created:** 2025-10-01 | **Last updated:** 2025-10-01  
-
 *On Britain’s white commentary about Israel/Palestine and the recycled colonial wardrobe it comes from.*  
 
 ---
