@@ -1,6 +1,6 @@
 # 📜 Statutory Censorship Logics  
 **First created:** 2025-09-29 | **Last updated:** 2025-10-03  
-*Not every silencing is illegal. Some are precisely lawful*  
+*Not every silencing is illegal. Some are precisely lawful.*  
 
 ---
 
