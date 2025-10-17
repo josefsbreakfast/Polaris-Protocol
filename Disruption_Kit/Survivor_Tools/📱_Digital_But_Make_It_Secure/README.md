@@ -1,5 +1,5 @@
- 📱 Digital Safety Cluster
-**First created:** 2025-10-17 | **Last updated:** 2025-10-17
+# 📱 Digital But Make It Secure
+**First created:** 2025-10-17 | **Last updated:** 2025-10-17  
 *A survivor-led toolkit for private communication, app literacy, and forensic self-audit.*
 
 ---
