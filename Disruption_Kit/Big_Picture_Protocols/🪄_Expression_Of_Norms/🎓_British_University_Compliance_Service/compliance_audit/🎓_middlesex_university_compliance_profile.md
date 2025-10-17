@@ -1,6 +1,6 @@
 # 🎓 Middlesex University — Compliance Profile
 **First created:** 2025-09-23 | **Last updated:** 2025-10-02  
-*Profile tracking compliance theatre, surveillance links, policing, racism handling, and sexual violence outcomes*
+*Profile tracking compliance theatre, surveillance links, policing, racism handling, and sexual violence outcomes.*
 
 ## Snapshot
 - **City:** London
