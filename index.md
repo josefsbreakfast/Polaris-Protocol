@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 17:34:20 UTC_
+_Generated on 2025-10-17 17:34:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -560,7 +560,6 @@ _Generated on 2025-10-17 17:34:20 UTC_
       - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
       - [`🪩_self_silencing_cyclone_and_reverse_overton_window.md`](Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🪩_self_silencing_cyclone_and_reverse_overton_window.md)
     - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/)
-      - [`📲_dopamine_grooming_and_self_regulation.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📲_dopamine_grooming_and_self_regulation.md)
       - [`📸_street_photography_counter_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md)
       - [`📻_voice_cloning_and_radio_command_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/📻_voice_cloning_and_radio_command_integrity.md)
       - [`🕸️_tenant_countermoves_in_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🕸️_tenant_countermoves_in_covert_surveillance_abuse.md)
@@ -596,6 +595,7 @@ _Generated on 2025-10-17 17:34:20 UTC_
         - [`🎥_anomaly_incentives_in_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md)
         - [`🎶_chant_restrictions_as_metadata_control.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md)
         - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
+        - [`📲_dopamine_grooming_and_self_regulation.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/📲_dopamine_grooming_and_self_regulation.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
