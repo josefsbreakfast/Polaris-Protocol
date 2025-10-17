@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:02:31 UTC_
+_Generated on 2025-10-17 13:03:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -302,6 +302,7 @@ _Generated on 2025-10-17 13:02:31 UTC_
           - [`coi_register.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/coi_register.csv)
           - [`evidence_review_extraction.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/evidence_review_extraction.csv)
           - [`purpose_review_coding.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/purpose_review_coding.csv)
+        - [`👹_coercive_engineers_intentional_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)
         - [`💄_plastic_masculinity_knives.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
         - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
         - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
@@ -596,7 +597,6 @@ _Generated on 2025-10-17 13:02:31 UTC_
       - [`🏛️_master_council_overlay_table.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md)
       - [`🏨_hotels_protests_and_power_consolidation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md)
       - [`🐇_qanon_vocabulary_origins.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🐇_qanon_vocabulary_origins.md)
-      - [`👹_coercive_engineers_intentional_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
