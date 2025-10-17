@@ -1,6 +1,6 @@
 # 🚀 Scarcity + Prohibition = Rocket Fuel  
 **First created:** 2025-09-19 | **Last updated:** 2025-10-03  
-*Why attempts to withhold books amplify demand instead of suppressing it*  
+*Why attempts to withhold books amplify demand instead of suppressing it.*  
 
 ---
 
