@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:41:20 UTC_
+_Generated on 2025-10-17 13:41:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -321,6 +321,7 @@ _Generated on 2025-10-17 13:41:20 UTC_
         - [`💌_survivor_consent_is_not_yours.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_survivor_consent_is_not_yours.md)
         - [`💣_the_cultural_bomb.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md)
         - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
+        - [`📖_erased_archives_and_survival_bias.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
         - [`🧠_the_science_that_survives_borders.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_the_science_that_survives_borders.md)
         - [`🧥_empires_old_clothes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧥_empires_old_clothes.md)
         - [`🧪_breeding_trope_as_eugenics.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧪_breeding_trope_as_eugenics.md)
@@ -504,7 +505,6 @@ _Generated on 2025-10-17 13:41:20 UTC_
       - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
     - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md)
-      - [`📖_erased_archives_and_survival_bias.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
       - [`📜_blavatsky_case_study_cairo_ban.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📜_blavatsky_case_study_cairo_ban.md)
       - [`📜_freedom_of_information_loopholes.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📜_freedom_of_information_loopholes.md)
       - [`📜_teen_poetry_as_pretext.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/📜_teen_poetry_as_pretext.md)
