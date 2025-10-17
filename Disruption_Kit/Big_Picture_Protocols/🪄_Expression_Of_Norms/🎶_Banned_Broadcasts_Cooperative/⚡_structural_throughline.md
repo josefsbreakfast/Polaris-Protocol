@@ -1,6 +1,6 @@
 # ⚡ Structural Throughline  
 **First created:** 2025-09-15 | **Last updated:** 2025-10-03  
-*Synthesis: containment strikes at legitimacy, not danger*  
+*Synthesis: containment strikes at legitimacy, not danger.*  
 
 ---
 
