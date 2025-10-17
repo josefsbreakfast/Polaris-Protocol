@@ -1,6 +1,6 @@
 # 💸 Donor Networks Alt-Right Media Overlap  
 **First created:** 2025-09-16 | **Last updated:** 2025-09-28  
-*Hedge funds, ideological donors, and the amplification of migration “crisis theatre”*  
+*Hedge funds, ideological donors, and the amplification of migration “crisis theatre”.*  
 
 ---
 
