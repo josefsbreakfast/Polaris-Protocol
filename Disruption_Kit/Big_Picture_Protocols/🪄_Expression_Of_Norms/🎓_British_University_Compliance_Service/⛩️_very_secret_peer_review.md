@@ -1,6 +1,6 @@
 # ⛩️ Very Secret Peer Review  
 **First created:** 2025-09-28 | **Last updated:** 2025-10-01  
-*Hidden assessment practices inside British universities*
+*Hidden assessment practices inside British universities.*
 
 ---
 
