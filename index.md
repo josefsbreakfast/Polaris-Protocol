@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 13:00:39 UTC_
+_Generated on 2025-10-17 13:01:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -303,6 +303,7 @@ _Generated on 2025-10-17 13:00:39 UTC_
           - [`evidence_review_extraction.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/evidence_review_extraction.csv)
           - [`purpose_review_coding.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/purpose_review_coding.csv)
         - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
+        - [`📣_mainstream_visibility_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📣_mainstream_visibility_gaps.md)
         - [`📱_algorithmic_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📱_algorithmic_recruitment.md)
         - [`🔊_voice_as_recruitment_channel.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🔊_voice_as_recruitment_channel.md)
         - [`🕊️_false_counter_extremism_dialogues.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕊️_false_counter_extremism_dialogues.md)
@@ -596,7 +597,6 @@ _Generated on 2025-10-17 13:00:39 UTC_
       - [`💄_plastic_masculinity_knives.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
       - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
       - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
-      - [`📣_mainstream_visibility_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/📣_mainstream_visibility_gaps.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
