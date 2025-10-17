@@ -1,6 +1,6 @@
 # 🎶 Audit Suppression Cluster  
 **First created:** 2025-10-01 | **Last updated:** 2025-10-03  
-*Entry point for suppression audit methodologies across books, media, and cultural works*  
+*Entry point for suppression audit methodologies across books, media, and cultural works.*  
 
 ---
 
