@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-17 00:15:04 UTC_
+_Generated on 2025-10-17 00:16:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -298,7 +298,6 @@ _Generated on 2025-10-17 00:15:04 UTC_
     - [**🐍_Ouborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/🪬_Radicalisation_Extremism/)
         - [`🦁_individualism_as_containment_edge.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/🪬_Radicalisation_Extremism/🦁_individualism_as_containment_edge.md)
-        - [`🦠_opportunistic_disinformation_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouborotic_Violence/🪬_Radicalisation_Extremism/🦠_opportunistic_disinformation_pathogen.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
         - [**systematic_reviews/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/)
@@ -324,6 +323,9 @@ _Generated on 2025-10-17 00:15:04 UTC_
         - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
         - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
+    - [**🐍_Ourobotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ourobotic_Violence/)
+      - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ourobotic_Violence/🪬_Radicalisation_Extremism/)
+        - [`🦁_individualism_as_containment_edge.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ourobotic_Violence/🪬_Radicalisation_Extremism/🦁_individualism_as_containment_edge.md)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
