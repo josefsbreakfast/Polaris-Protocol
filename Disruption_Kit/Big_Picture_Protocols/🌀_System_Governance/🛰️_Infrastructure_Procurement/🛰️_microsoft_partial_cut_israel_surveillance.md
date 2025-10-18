@@ -1,5 +1,5 @@
 # 🛰️ Microsoft Partial Cut — Israel Surveillance  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-18  
 *Microsoft disables a subset of Azure + AI services to Israeli MOD unit over Palestinian surveillance.*  
 
 ---
@@ -90,4 +90,4 @@ It documents a rare moment where a cloud provider acted against a state surveill
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_  
+_Last updated: 2025-10-18_  
