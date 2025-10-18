@@ -1,6 +1,6 @@
 # 🏘️ Council Incentives Hotels  
 **First created:** 2025-09-16 | **Last updated:** 2025-09-28  
-*How austerity-era cuts and ring-fenced grants shape local authority involvement in asylum accommodation*  
+*How austerity-era cuts and ring-fenced grants shape local authority involvement in asylum accommodation.*  
 
 ---
 
