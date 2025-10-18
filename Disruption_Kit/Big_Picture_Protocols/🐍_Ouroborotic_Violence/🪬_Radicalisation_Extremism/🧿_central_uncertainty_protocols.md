@@ -1,5 +1,5 @@
 # 🧿 Central Uncertainty Protocols  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-18  
 *When the UK state no longer fully trusts its own intelligence lattice and converts uncertainty into total command.*
 
 ---
@@ -100,11 +100,12 @@ central mistrust, COBR, SAS deployment, Prevent, Channel, diaspora affairs, cros
 *Central Uncertainty Protocols* is a living node of the Polaris Protocol.  
 It documents how the UK converts internal mistrust into extraordinary command and narrative control.  
 
-> 📡 Cross-references:  
-> - [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/) — Prevent and Channel context  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/) — policy instruments  
-> - [Disruption Kit](../Disruption_Kit/) — survivor tools and field logs  
+> 📡 Cross-references:
+> 
+> - [🪬 Radicalisation & Extremism](./README.md) — *Prevent and Channel context*  
+> - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *policy instruments*  
+> - [Disruption Kit](../../../README.md) — *survivor tools and field logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
