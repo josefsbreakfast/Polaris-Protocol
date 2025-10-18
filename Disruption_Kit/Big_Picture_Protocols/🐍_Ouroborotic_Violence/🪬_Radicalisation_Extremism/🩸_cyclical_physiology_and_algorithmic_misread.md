@@ -1,5 +1,5 @@
 # 🩸 Cyclical Physiology and Algorithmic Misread  
-**First created:** 2025-10-17  | **Last updated:** 2025-10-18
+**First created:** 2025-10-17  | **Last updated:** 2025-10-18  
 *How female pain and hormonal cycles are mistranslated as deviance inside digital risk systems.*  
 
 ---
