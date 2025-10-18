@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:58:38 UTC_
+_Generated on 2025-10-18 01:00:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -310,8 +310,6 @@ _Generated on 2025-10-18 00:58:38 UTC_
         - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
         - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
-    - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/)
         - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/)
@@ -340,6 +338,7 @@ _Generated on 2025-10-18 00:58:38 UTC_
           - [`🦾_dual_uses_that_never_come.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🦾_dual_uses_that_never_come.md)
           - [`🧠_voice_clones_ai_and_the_threat_to_policing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md)
           - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
         - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
