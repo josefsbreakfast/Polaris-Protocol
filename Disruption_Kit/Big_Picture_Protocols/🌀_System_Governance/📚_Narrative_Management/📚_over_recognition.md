@@ -1,5 +1,5 @@
 # 📚 Over Recognition  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
 *PR exercises and listening sessions that absorb critique but never act — recognition as containment.*  
 
 ---
