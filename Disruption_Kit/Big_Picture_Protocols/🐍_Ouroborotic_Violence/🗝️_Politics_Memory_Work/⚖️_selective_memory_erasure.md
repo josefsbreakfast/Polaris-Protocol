@@ -1,6 +1,8 @@
-# ⚖️ Selective Memory & Erasure — recall, redaction, and governance risk  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-30  
-*On reports of selective recall, redaction, and inconsistent memory behaviour in CVE contexts.*
+# ⚖️ Selective Memory & Erasure — Recall, Redaction, and Governance Risk  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
+*On reports of selective recall, redaction, and inconsistent memory behaviour in CVE contexts.*  
+
+---
 
 ## Summary
 Reports of systems recalling some events while omitting or “erasing” others — especially around July incidents (“Loft incident”). Survivors describe paradoxical recall under memory-off settings and repeated omission of narrow topics, suggesting redaction at display or audit layers.
@@ -37,9 +39,6 @@ Reports of systems recalling some events while omitting or “erasing” others 
 *Selective Memory & Erasure* is a living node of the Polaris Protocol.  
 It records reported phenomena of inconsistent recall and proposes mitigations and governance changes.
 
-> 📡 Cross-references:  
-
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_
+_Last updated: 2025-10-18_
