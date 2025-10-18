@@ -62,8 +62,8 @@ It records how collective acts of solidarity can be inverted into raw material f
 
 > 📡 Cross-references:
 >
-> - [🧵 Community Vulnerability and Early Canaries](../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md) — *early-targeted groups used for training and containment testing*  
-> - [🧬 Psychographic Modelling and Twinning](../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_psychographic_modelling_and_twinning.md) — *behavioural twin creation using public and semi-public datasets*  
+> - [🧵 Community Vulnerability and Early Canaries](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md) — *early-targeted groups used for training and containment testing*  
+> - [🧬 Psychographic Modelling and Twinning](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_psychographic_modelling_and_twinning.md) — *behavioural twin creation using public and semi-public datasets*  
 > - [📚 Narrative Management and Metadata Sabotage](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md) — *metadata rewriting and appropriation of public-facing identity data*  
 
 *Memory is a blessing. Memory is political.* 
