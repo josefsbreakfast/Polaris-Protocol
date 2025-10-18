@@ -1,114 +1,151 @@
 # 🧠 Big Picture Protocols  
-
-**First created:** 2025-08-11 | **Last updated:** 2025-09-28  
-
+**First created:** 2025-08-11 | **Last updated:** 2025-10-18  
 *Big ideas to defeat the small ideologies.*  
 
 ---
 
 ## ✨ Overview  
-**Big Picture Protocols** map structural layers of behavioural governance.  
+**Big Picture Protocols** map the structural layers of behavioural governance.  
 Each cluster examines **memory control, coercive systems, radicalisation pipelines, and institutional nudging** at scale.  
 These entries interlink with **Containment Scripts**, **Survivor Tools**, and **Field Logs** for full forensic mapping.  
 
 ---
 
-## 📂 Subfolders  
+## 🫐 Current Subclusters  
+
+### [✨ Glimmer Is Taxable And Other Big Drums](./✨_Glimmer_Is_Taxable_And_Other_Big_Drums)  
+Ethics of influence, symbolic economies, and moral accounting — where glimmer meets governance.  
 
 ### [🌀 System Governance](./🌀_System_Governance)  
-Nodes analysing governance logics, control loops, and bureaucratic architectures.  
+The architectures of control: laws, ownership, containment logic, and state–corporate interlocks.  
 
-### [🌱 Human Principles](./🌱_Human_Principles)  
-Frames of ethics, dignity, and lived humanity that resist containment logics.  
+### [🐍 Ouroborotic Violence](./🐍_Ouroborotic_Violence)  
+Recursive architectures of harm — how violence consumes and reproduces itself.  
 
-### [🎓 British University Compliance Service](./🎓_British_University_Compliance_Service)  
-Surveillance, compliance, and disciplinary architectures unique to UK academia.  
+### [🦕 Elder Influencers](./🦕_Elder_Influencers)  
+Old powers in new clothes. From money and statutes to world webs and borders, this cluster maps how legacy elites perpetuate influence.  
 
-### [🎶 Banned Broadcasts Cooperative](./🎶_Banned_Broadcasts_Cooperative)  
-Media erasures, cultural removals, and the underground circulation of banned voices.  
+### [🪄 Expression Of Norms](./🪄_Expression_Of_Norms)  
+Media, academia, and bureaucratic culture as engines of norm enforcement. Tracks compliance theatre and behavioural nudging.  
 
-### [🐦‍🔥 Trauma, Psychology & Medical Misuse](./🐦‍🔥_Trauma_Psycology_Medical_Misuse)  
-How trauma, psychology, and medicine are co-opted for containment, commodification, and cloning.  
-
-### [👁️‍🗨️ Witness Historical Casefiles](./👁️‍🗨️_Witness_Historical_Casefiles)  
-Forensic case histories showing how witness records are reshaped, suppressed, or co-opted.  
-
-### [📜 Statutes](./📜_Statutes)  
-Mapping the laws, statutory instruments, and legal architectures enabling containment.  
-
-### [📺 Money Talks Media](./📺_Money_Talks_Media)  
-Where capital flows meet broadcasters, and donor influence shapes narratives.  
-
-### [🕯 Exorcising Safeguarding Shadows](./🕯_Exorcising_Safeguarding_Shadows)  
-Unpicking the safeguarding industry’s hidden abuses, shadows, and hauntings.  
-
-### [🕸️ World Webs](./🕸️_World_Webs)  
-Global entanglements, diasporas, and transnational flows of influence.  
-
-### [🗝️ Politics & Memory Work](./🗝️_Politics_Memory_Work)  
-Nodes linking memory, narrative suppression, and radicalisation of political identity.  
-
-### [🛟 Borders, Boats & Walls](./🛟_Borders_Boats_Walls)  
-Containment logics at the edge of nations — migration, asylum, and maritime control.  
-
-### [🧠 HM Dept. Coercive Nudges](./🧠_HM_Dept_Coercive_Nudges)  
-Breaks down the UK government’s behavioural “nudge” units and their coercive applications.  
-
-### [🧿 Watch The Watchers](./🧿_Watch_The_Watchers)  
-Survivor-led audits of oversight bodies, inspectors, and accountability frameworks.  
-
-### [🪬 Radicalisation & Extremism](./🪬_Radicalisation_Extremism)  
-Tracks pipelines, digital platforms, and diaspora dynamics in radicalisation.  
-
----
-
-## 🗂️ Where Governance of Surveillance Nodes Go  
-
-Surveillance governance sits across a few clusters in **Big Picture Protocols**.  
-Where a node belongs depends on its angle of focus:
-
-```mermaid
-flowchart TD
-  A[Governance of Surveillance] --> B[🌀 System Governance]
-  A --> C[🧿 Watch The Watchers]
-  A --> D[🪬 Radicalisation & Extremism]
-
-  B:::home
-  C:::secondary
-  D:::secondary
-
-  classDef home fill:#d6eaf8,stroke:#3498db,color:#000;
-  classDef secondary fill:#f9f5d7,stroke:#f39c12,color:#000;
-```
-
-- **🌀 System Governance (primary home)**  
-  Nodes analysing **who authorises surveillance, how oversight is structured, where accountability gaps exist**.  
-  Examples: RIPA delegation, Investigatory Powers Act flow, Home Office escalation maps.  
-
-- **🧿 Watch The Watchers (secondary)**  
-  Nodes on the **bodies meant to audit surveillance** (IPCO, IPT, commissioners).  
-  If the focus is “oversight of oversight,” file here.  
-
-- **🪬 Radicalisation & Extremism (cross-link)**  
-  If the node is specifically about **Prevent or community-level surveillance**, file in *System Governance* but cross-link here to show its pipeline role.  
+### [🫀 Our Hearts Our Minds](./🫀_Our_Hearts_Our_Minds)  
+Cluster on care, harm, and belief — where trauma, psychology, and safeguarding intersect with humane governance.  
 
 ---
 
 ## 🗺️ Interlink Logic  
-- **System Governance** provides overarching frameworks for the other clusters.  
-- **Trauma/Medical Misuse** and **Witness Casefiles** ground analysis in survivor evidence.  
-- **Politics & Memory Work** connects to **Radicalisation & Extremism** through identity formation and suppression.  
-- **Coercive Nudges** act as the interface between bureaucratic policy and behavioural impact.  
-- **Statutes** and **Borders/Boats/Walls** track the legal and territorial scaffolding that underpins control.  
-- **University Compliance, Safeguarding Shadows, and Watch the Watchers** show how oversight itself becomes a tool of containment.  
-- **World Webs, Money Talks Media, and Banned Broadcasts Cooperative** situate local control in global cultural and economic circuits.  
+
+- **Glimmer Is Taxable** explores the ethics and aesthetics of moral authority.  
+- **System Governance** provides the infrastructural frameworks underpinning all other clusters.  
+- **Ouroborotic Violence** analyses recursive containment — the self-devouring logic of control.  
+- **Elder Influencers** traces financial, legal, and territorial continuities of power.  
+- **Expression Of Norms** exposes how social order is performed and policed through institutions.  
+- **Our Hearts Our Minds** grounds the entire framework in embodied ethics, trauma, and witness.  
 
 ---
 
-*The survivors' voices haunt the living.*  
+## 🗺️ Structural Map
 
-*Polaris never forgets.*  
+```mermaid
+flowchart TD
+  BPP[🧠 Big Picture Protocols]
 
-🏮 [Return to repo root](https://github.com/josefsbreakfast/Polaris-Protocol/)  
+  GLI[✨ Glimmer Is Taxable<br/>satire • ethics of influence]
+  SYS[🌀 System Governance<br/>laws • ownership • control loops]
+  OUR[🫀 Our Hearts Our Minds<br/>care • trauma • safeguarding]
+  NOR[🪄 Expression Of Norms<br/>media • academia • compliance]
+  ORO[🐍 Ouroborotic Violence<br/>recursive harm • denial loops]
+  ELD[🦕 Elder Influencers<br/>money • statutes • world webs]
 
-_Last updated: 2025-09-28_  
+  BPP --> GLI
+  BPP --> SYS
+  BPP --> ORO
+  BPP --> ELD
+  BPP --> NOR
+  BPP --> OUR
+
+  subgraph Cross-cutting Strands (live across clusters)
+    SURV[🔭 Surveillance Governance]
+    VPREV[🛡️ Violence Prevention & De-escalation]
+    EXPER[🧩 Lived Experience & Testimony]
+    INFL[💸 Money, Donors & Influence]
+    NORMS[📺 Norm Enforcement & Culture]
+  end
+
+  SURV --- SYS
+  VPREV --- ORO
+  EXPER --- OUR
+  INFL --- ELD
+  NORMS --- NOR
+
+  SURV -.-> NOR
+  SURV -.-> ORO
+  SURV -.-> OUR
+  VPREV -.-> OUR
+  VPREV -.-> SYS
+  EXPER -.-> NOR
+  EXPER -.-> ORO
+  INFL -.-> NOR
+  INFL -.-> SYS
+  NORMS -.-> ELD
+  NORMS -.-> SYS
+
+  classDef hub fill:#eaf2f8,stroke:#2980b9,color:#000,font-weight:bold;
+  classDef cluster fill:#fdf2e9,stroke:#d35400,color:#000;
+  classDef strand fill:#f4f6f7,stroke:#7f8c8d,color:#000,stroke-dasharray: 5 3;
+
+  class BPP hub;
+  class GLI,SYS,ORO,ELD,NOR,OUR cluster;
+  class SURV,VPREV,EXPER,INFL,NORMS strand;
+```
+
+---
+
+## 🌍 Routing Examples  
+
+### 1️⃣ Surveillance (general case)  
+**Home:** 🌀 *System Governance* — authorisation, legal basis, oversight gaps.  
+**Cross-links:** 🪄 *Expression Of Norms*, 🐍 *Ouroborotic Violence*, 🫀 *Our Hearts Our Minds*.  
+
+### 2️⃣ Violence experience, prevention & de-escalation  
+**Home:** 🐍 *Ouroborotic Violence*.  
+**Cross-links:** 🫀 *Our Hearts Our Minds*, 🌀 *System Governance*, 🪄 *Expression Of Norms*.  
+
+### 3️⃣ Lived testimony & clinical misuse  
+**Home:** 🫀 *Our Hearts Our Minds*.  
+**Cross-links:** 🪄 *Expression Of Norms*, 🌀 *System Governance*, 🐍 *Ouroborotic Violence*.  
+
+### 4️⃣ Donors, money, and narrative leverage  
+**Home:** 🦕 *Elder Influencers*.  
+**Cross-links:** 🪄 *Expression Of Norms*, 🌀 *System Governance*, ✨ *Glimmer Is Taxable*.  
+
+### 5️⃣ Norm enforcement & compliance culture  
+**Home:** 🪄 *Expression Of Norms*.  
+**Cross-links:** 🦕 *Elder Influencers*, 🌀 *System Governance*, 🫀 *Our Hearts Our Minds*.  
+
+---
+
+## 🌌 Constellations  
+🧠 🧿 🐍 🪄 🪬 — systemic scale, recursion, ethics, narrative control, survivor memory.  
+
+---
+
+## ✨ Stardust  
+system governance, ethics, recursion, narrative control, trauma politics, survivor memory, institutional power, containment  
+
+---
+
+## 🏮 Footer  
+
+*🧠 Big Picture Protocols* is a living node of the Polaris Protocol.  
+It organises the conceptual architecture through which containment systems are named, mapped, and undone.  
+
+> 📡 Cross-references:
+> 
+> - [Disruption Kit](../README.md) — *tactical field frameworks*  
+> - [Survivor Tools](../Survivor_Tools/README.md) — *applied countermeasures*  
+> - [Containment Scripts](../Containment_Scripts/README.md) — *platform and policy mechanisms*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-18_
