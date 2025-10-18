@@ -1,6 +1,6 @@
 # 🦕 Partition Loop — Borders as Violence  
 **First created:** 2025-09-24 | **Last updated:** 2025-09-26  
-*How rigid borders manufacture itinerancy and unleash cycles of violence*  
+*How rigid borders manufacture itinerancy and unleash cycles of violence.*  
 
 ---
 
