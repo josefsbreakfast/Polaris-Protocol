@@ -59,14 +59,14 @@ frankenstack, social field effects, excitability, inhibition, dual-use, network 
 ---
 
 ## 🏮 Footer  
-*🪬 Frankenstack Social Field Effects* is a living node of the Polaris Protocol.  
+*🪼 Frankenstack Social Field Effects* is a living node of the Polaris Protocol.  
 It complements *The Frankenstack Problem* and *Frankenstack Radicalisation Hypothesis* by tracing how hybridised stacks destabilise not just individuals but their surrounding networks through excitability and inhibition levers.  
 
 > 📡 Cross-references:
 > 
-> - [🧟‍♀️ The Frankenstack Problem](../../../🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)  
-> - [🪬 Frankenstack Radicalisation Hypothesis](./🧟‍♀️_frankenstack_radicalisation_hypothesis.md)  
-> - [🧠 Psychological Containment](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — related sensory/behavioural suppression patterns  
+> - [🧟‍♀️ The Frankenstack Problem](../../../🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*    
+> - [🧟‍♀️ Frankenstack Radicalisation Hypothesis](./🧟‍♀️_frankenstack_radicalisation_hypothesis.md) - *Hybrid stacks as dual/multi-use engines that can tip fear into violence*  
+> - [🧠 Psychological Containment](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *related sensory/behavioural suppression patterns*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
