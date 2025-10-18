@@ -1,5 +1,5 @@
 # 🧟‍♀️ The Frankenstack Problem 
-**First created:** 2025-08-20 | **Last updated:** 2025-10-14  
+**First created:** 2025-08-20 | **Last updated:** 2025-10-18  
 *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects.*  
 
 ---
@@ -131,4 +131,4 @@ It maps how counter-extremism, safeguarding, and healthcare pipelines fused into
 
 🏮 [Return to 🌀 Systems & Governance Guide](../README.md)  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
