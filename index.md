@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:25:04 UTC_
+_Generated on 2025-10-18 00:25:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -340,7 +340,6 @@ _Generated on 2025-10-18 00:25:04 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
-      - [`⚖️_kkl_court_of_protection_case_2020.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_kkl_court_of_protection_case_2020.md)
       - [`⚖️_legality_as_gaslight.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/⚖️_legality_as_gaslight.md)
       - [`❌_ncnd_technique.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/❌_ncnd_technique.md)
       - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
@@ -398,6 +397,7 @@ _Generated on 2025-10-18 00:25:04 UTC_
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
         - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
+        - [`⚖️_kkl_court_of_protection_case_2020.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_kkl_court_of_protection_case_2020.md)
         - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🗝️_data_standards_fragmentation.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
