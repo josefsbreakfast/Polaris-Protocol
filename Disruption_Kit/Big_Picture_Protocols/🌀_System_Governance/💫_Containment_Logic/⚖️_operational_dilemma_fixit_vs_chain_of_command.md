@@ -1,5 +1,5 @@
 # ⚖️ Operational Dilemma: Fix It vs Chain of Command  
-**First created:** 2025-09-05 | **Last updated:** 2025-10-14    
+**First created:** 2025-09-05 | **Last updated:** 2025-10-18    
 *Weighing the risks of direct internal fixes against using formal oversight pathways.*
 
 ---
@@ -50,8 +50,8 @@ It records the trade-offs between direct internal fixes, chain-of-command proces
 > 
 > - [⚖️ IPCO Audit Cycle](../⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)  
 > - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)  
-> - [🩹 Patch Repair Governance](../🩹_patch_repair_governance.md)
+> - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
