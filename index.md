@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 20:47:38 UTC_
+_Generated on 2025-10-18 20:50:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -499,7 +499,7 @@ _Generated on 2025-10-18 20:47:38 UTC_
             - [`007_🧨_Manufacturing_Scapegoat.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/007_🧨_Manufacturing_Scapegoat.md)
             - [`008_ 🪽_Justice_Angels.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/008_ 🪽_Justice_Angels.md)
             - [`009_🌤️_When_Resisted.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/009_🌤️_When_Resisted.md)
-            - [`010_ 📜_Preventive_Framework.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/010_ 📜_Preventive_Framework.md)
+            - [`010_📜_Preventive_Framework.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/010_📜_Preventive_Framework.md)
             - [`011_🐐_Authors_Notebook.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/011_🐐_Authors_Notebook.md)
             - [`012_👹_Atrocity_Engineers.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/012_👹_Atrocity_Engineers.md)
             - [`013_🔮_Atrocity_Index.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/013_🔮_Atrocity_Index.md)
