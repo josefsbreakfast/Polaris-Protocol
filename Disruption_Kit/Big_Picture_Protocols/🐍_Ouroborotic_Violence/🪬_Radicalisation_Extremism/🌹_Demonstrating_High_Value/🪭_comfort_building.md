@@ -1,5 +1,5 @@
 # 🪭 Comfort-Building  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2025-10-18  
 *From seduction stage to radicalisation tactic: soothing after spectacle to secure belonging.*  
 
 ---
@@ -99,11 +99,12 @@ comfort-building, normalisation, pickup artistry pipeline, radicalisation script
 *Comfort-Building* is a living node of the Polaris Protocol.  
 It shows how the PUA stage of “soothing after spectacle” mutates into radicalisation logics of belonging and protection — and how, at the level of lived experience, it often feels manipulative and hollow.  
 
-> 📡 Cross-references:  
-> - [🌹 Demonstrating Higher Value](./🌹_demonstrating_higher_value.md) — cluster overview  
-> - [🦚 Peacocking](./🦚_peacocking.md) — spectacle disruption  
-> - [🦤 Uniform Spectacle](./🦤_uniform_spectacle.md) — collective display  
+> 📡 Cross-references:
+> 
+> - [🌹 Demonstrating Higher Value](./README.md) — *cluster overview*  
+> - [🦚 Peacocking](./🦚_peacocking.md) — *spectacle disruption*  
+> - [🦤 Uniform Spectacle](./🦤_uniform_spectacle.md) — *collective display*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-18_
