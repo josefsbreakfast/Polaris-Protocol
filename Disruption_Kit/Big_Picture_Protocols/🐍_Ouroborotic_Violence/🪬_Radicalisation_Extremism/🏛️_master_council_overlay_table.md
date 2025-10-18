@@ -1,5 +1,5 @@
 # 🏛️ Master Council Overlay Table  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-19 | **Last updated:** 2025-10-18  
 *Overlay table mapping CSE reports, political control, and far-right mobilisation across local councils.*  
 
 ---
@@ -25,11 +25,10 @@
 *Master Council Overlay Table* is a living data node of the Polaris Protocol.  
 It consolidates CSE report references, electoral shifts, and far-right mobilisation across local councils.  
 
-> 📡 Backlinks:  
-> - [❌ Negative Evidence Index](../🪬_Radicalisation_Extremism/❌_negative_evidence_index.md) — tracking disappearance of safeguarding reports  
-> - [🪬 Radicalisation & Extremism](../🪬_radicalisation_extremism.md) — systemic logics of far-right mobilisation  
-> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — outsourcing and profit around containment  
+> 📡 Cross-references:  
+> - [❌ Negative Evidence Index](./❌_negative_evidence_index.md) — tracking disappearance of safeguarding reports  
+> - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — outsourcing and profit around containment  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-18_
