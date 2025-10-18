@@ -1,5 +1,5 @@
 # 🗝️ Deliberate Cultural Violation  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *When empire’s “mistakes” became systemic tools of humiliation.*  
 
 ---
@@ -43,10 +43,11 @@ Modern systems echo these logics — from bureaucratic burial delays to forced c
 *Deliberate Cultural Violation* is a living node of the Polaris Protocol.  
 It traces how empire weaponised religious and cultural taboos as governance, and how these patterns persist in bureaucratic systems today.  
 
-> 📡 Cross-references:  
-> - [🌀 Forced Migration as Governance](../🌀_System_Governance/🌀_forced_migration_as_governance.md) — displacement as control  
-> - [🗝️ Politics_Memory_Work](../🗝️_Politics_Memory_Work/) — suppression of memory and identity  
+> 📡 Cross-references:
+> 
+> - [🌀 Forced Migration as Governance](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md) — *displacement as control*  
+> - [🗝️ Political Economy &_Memory_Work](./README.md) — *suppression of memory and identity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-10-18_
