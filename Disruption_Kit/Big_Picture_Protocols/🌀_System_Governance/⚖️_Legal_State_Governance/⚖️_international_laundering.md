@@ -1,5 +1,5 @@
 # ⚖️ International Laundering  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
 *Cross-border governance tricks where obligations are displaced onto allies to evade accountability.*
 
 ---
@@ -39,9 +39,9 @@ It tracks how accountability is evaded through jurisdictional displacement, inte
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](../README.md) — parent cluster of governance diagnostics  
-> - [🧼 System Leakage Signatures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
+> - [🌀 Systems & Governance](../README.md) — *parent cluster of governance diagnostics*  
+> - [🧼 System Leakage Signatures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md) - *Leakage points and unintended reveals from containment systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-18_
