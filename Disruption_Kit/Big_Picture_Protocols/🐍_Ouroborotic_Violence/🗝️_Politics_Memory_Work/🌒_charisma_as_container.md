@@ -51,7 +51,7 @@ It documents how spectacle and performance fabricate systems that outlive their 
 > 📡 Cross-references:  
 > - [📜 Blavatsky Case Study: Cairo Ban](./📜_blavatsky_case_study_cairo_ban.md)  
 > - [📖 Erased Archives & Survival Bias](./📖_erased_archives_and_survival_bias.md)  
-> - [🎶 L’Algorithme as Containment Song](./🎶_lalgorithme_as_containment_song.md)  
+> - [🎶 L’Algorithme as Containment Song] *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
