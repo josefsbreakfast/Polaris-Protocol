@@ -130,8 +130,8 @@ It situates Ngũgĩ’s insight within survivor memory work, tracing how colonia
 
 > 📡 Cross-references:
 > 
-> - [🗝️ Political Economy &_Memory_Work](./README.md) — *systemic suppression of memory and narrative*  
-> - [🎶 Banned_Broadcasts_Cooperative](../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural removals and broadcast bans*  
+> - [🗝️ Political Economy & Memory Work](./README.md) — *systemic suppression of memory and narrative*  
+> - [🎶 Banned Broadcasts Cooperative](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural removals and broadcast bans*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
