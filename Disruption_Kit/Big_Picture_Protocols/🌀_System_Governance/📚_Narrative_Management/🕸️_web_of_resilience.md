@@ -1,5 +1,5 @@
 # 🕸️ Web of Resilience  
-**First created:** 2025-09-03 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-03 | **Last updated:** 2025-10-18  
 *Unified field manual for countering insurgency-style information operations across micro, communal, and systemic levels.*  
 
 ---
@@ -215,11 +215,12 @@ web of resilience, insurgency information operations, nervous system survival, c
 *Web of Resilience* is a living node of the Polaris Protocol.  
 It fuses two-layer and three-tier approaches into a unified manual for navigating insurgency-style information terrains, combining nervous-system survival, communal cohesion, and systemic resilience.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🏮 AntiContainment Clauses](../../../AntiContainment_Clauses/README.md) - *Clauses and syntax designed to resist flattening, ghosting, and enforced silence*
-> - [🌱 Human Principles](../../🌱_Human_Principles/README.md) - *Foundational survivor axioms — counterfacts to the idea that humans can be processed like code*
-> - [🧿 Watch The Watchers](../../🧿_Watch_The_Watchers/README.md) - *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*
+> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) - *Foundational survivor axioms — counterfacts to the idea that humans can be processed like code*
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) - *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_  
+_Last updated: 2025-10-18_  
