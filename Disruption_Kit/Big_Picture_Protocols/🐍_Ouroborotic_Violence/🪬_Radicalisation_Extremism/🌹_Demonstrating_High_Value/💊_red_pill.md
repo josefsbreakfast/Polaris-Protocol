@@ -1,6 +1,6 @@
 # 💊 Red Pill  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-01  
-*From PUA awakening metaphor to extremist radicalisation pipeline*  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
+*From PUA awakening metaphor to extremist radicalisation pipeline.*  
 
 ---
 
@@ -88,12 +88,13 @@ These small signals matter: they mark a person as trying to recruit sympathy for
 *Red Pill* is a living node of the Polaris Protocol.  
 It documents how a pop culture metaphor was weaponised into a radicalisation pipeline spanning misogyny, conspiracy, and extremist politics.  
 
-📡 Cross-references:  
-- [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)  
-- [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md)  
-- [🌹 Negging](./🌹_negging.md)  
-- [🪬 Radicalisation_Extremism](../)  
+> 📡 Cross-references:
+> 
+> - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md) - *How pick-up artist subcultures seeded the rhetorical and behavioural DNA of far-right political masculinities*  
+> - [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md) - *From bar-room rivalry to political street violence*  
+> - [🌹 Negging](./🌹_negging.md) - *From backhanded compliment to weaponised irony*  
+> - [🪬 Radicalisation & Extremism](../README.md) - *Doctrines on far-right pipelines, state complicity, and diaspora radicalisation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_  
+_Last updated: 2025-10-18_  
