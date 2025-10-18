@@ -1,14 +1,16 @@
 # 🚨 Super-Injunctions and SLAPPs in Rape Cases  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-18  
 *Mapping how legal secrecy regimes erase survivors’ testimony and entrench silencing.*  
 
 ---
+
 ## ✨ Introduction
 
 This report maps how super-injunctions and SLAPP-like mechanisms intersect with rape cases in the UK. 
 These mechanisms are intended for protection but can become tools of coercion and silencing, forcing survivors into invisibility and eroding trust in justice.
 
 ---
+
 ## ⚖️ What Happens in Law
 
 - Automatic anonymity for complainants in sexual offences (Sexual Offences (Amendment) Act 1992).  
@@ -16,6 +18,7 @@ These mechanisms are intended for protection but can become tools of coercion an
 - Super-injunctions escalate this: silence on both the case and the fact there is an order.  
 
 ---
+
 ## 🧨 Survivor Experience
 
 - Testimony treated as Crown property, not personal speech.  
@@ -23,6 +26,7 @@ These mechanisms are intended for protection but can become tools of coercion an
 - Feels like "legalised lying": forced to act as though nothing happened.  
 
 ---
+
 ## 🏛️ When It Functions as a SLAPP
 
 - Purpose shifts from safeguarding to protecting institutions and reputations.  
@@ -30,6 +34,7 @@ These mechanisms are intended for protection but can become tools of coercion an
 - Enforced through civil contempt and, for Crown servants, court martial.  
 
 ---
+
 ## 🌩️ Enforcement Web
 
 - MoJ / HMCTS: silence in civil courts.  
@@ -39,12 +44,14 @@ These mechanisms are intended for protection but can become tools of coercion an
 - Regulators: blocked from acting on survivor complaints if material sealed.  
 
 ---
+
 ## 🔥 Duty of Care vs Reality
 
 - Should: GDPR, safeguarding codes, whistleblowing protection.  
 - Reality: orders override; survivors raising valid data security issues risk harassment, surveillance, reprisal.  
 
 ---
+
 ## 🪼 Harassment & Surveillance as 'Enforcement'
 
 - Survivors monitored to prevent leaks.  
@@ -52,6 +59,7 @@ These mechanisms are intended for protection but can become tools of coercion an
 - Extends SLAPP logic into daily life: exhausting, isolating, retraumatising.  
 
 ---
+
 ## 🌋 Why This Matters
 
 - Convergence of SLAPPs and super-injunctions destroys trust in justice.  
@@ -59,6 +67,7 @@ These mechanisms are intended for protection but can become tools of coercion an
 - Silencing survivors undermines UK compliance with international obligations (IHL, CEDAW, Istanbul Convention).  
 
 ---
+
 ## 🐦‍🔥 Conclusion
 
 Rape survivors face structural silencing in the UK when injunctions and SLAPP tactics overlap. 
@@ -85,10 +94,10 @@ It documents how rape survivors in the UK can be silenced by SLAPP-like tactics 
 
 > 📡 Cross-references:
 > 
-> - [⚖️ SLAPPs Detailed Node](../../🩸_Genocide_Denialism/🍉_Palestine/⚖️_slapps_uk_global_palestine.md)  
-> - [🧬 Survivor Tools](../../../Survivor_Tools/README.md)   
+> - [⚖️ SLAPPs Detailed Node](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/⚖️_slapps_uk_global_palestine.md) - *Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony*  
+> - [🧬 Survivor Tools](../../../Survivor_Tools/README.md) - *Countermeasures, diagnostics, and knowledge maps for survivor agency*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_  
+_Last updated: 2025-10-18_  
 
