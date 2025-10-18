@@ -1,6 +1,8 @@
 # 🎭 Hypocrisy Profile — Blair-era Cabinet (2005–2010)  
-**First created:** 2025-08-29 | **Last updated:** 2025-09-06  
-*"Do as I say, not as I do."*
+**First created:** 2025-08-29 | **Last updated:** 2025-10-18  
+*"Do as I say, not as I do."*  
+
+---
 
 ## 📣 What they demanded of others
 
@@ -28,8 +30,8 @@
 
 *Hypocrisy Profile — Blair-era Cabinet* is a live node of Polaris Protocol.
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-10-18_  
