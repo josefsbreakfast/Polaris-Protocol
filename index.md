@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:34:40 UTC_
+_Generated on 2025-10-18 00:35:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -369,8 +369,6 @@ _Generated on 2025-10-18 00:34:40 UTC_
       - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
       - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
       - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
-    - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/README.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
@@ -387,6 +385,7 @@ _Generated on 2025-10-18 00:34:40 UTC_
         - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_house_of_lords_2025.md)
         - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🗝️_data_standards_fragmentation.md)
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/README.md)
         - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
         - [`⚖️_containment_contract_trace_hotel_edition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_containment_contract_trace_hotel_edition.md)
         - [`🌀_forced_migration_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md)
