@@ -72,4 +72,16 @@ And I've been thinking a lot about Iron Swords and Palestine recently.
 
 ---
 
+previsely how many seconds did we last? until the masterbation confessions by content injection?  
+
+again, for the millionth time:  
+
+this person is not of the melanin-possessing variety. they are a one of me.  
+
+and i'd be cool if we could just... not do this?  
+
+it's giving the guy who got caught in a meeting and talked about on tv in 2020 energy.  
+
+---
+
 2025-10-18  
