@@ -1,5 +1,5 @@
 # 📣 Mainstream Visibility Gaps  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
 *Tracking how mainstream media briefly names extremist infrastructure, then retreats to silence.*
 
 ---
@@ -73,4 +73,4 @@ Every revelation has a timer.
 This node measures how long the truth is allowed to breathe.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
