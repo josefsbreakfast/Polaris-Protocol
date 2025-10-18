@@ -1,5 +1,5 @@
 # 💊 Addiction and Extremism  
-**First created:** 2025-09-12 | **Last updated:** 2025-09-15  
+**First created:** 2025-09-12 | **Last updated:** 2025-10-18  
 *How substance abuse, gambling, compulsive training, and digital feedback loops are leveraged as gateways for extremist grooming and corporate extraction.*  
 
 ---
@@ -141,11 +141,12 @@ The truth inversion: men who believe they dominate are the most obedient subs of
 *💊 Addiction and Extremism* is a living node of the Polaris Protocol.  
 It maps how gyms, gambling, pornography, self-help, and wellness industries build sedation circuits that double as radicalisation pipelines — extracting from men and women differently, but binding both into corporate and extremist capture.  
 
-> 📡 Cross-references:  
-> - [🎧 Music as Pipeline](./🎧_music_as_pipeline.md) — rhythmic entrainment and ideological hooks  
-> - [🕹️ Gamified Extremism](./🕹️_gamified_extremism.md) — recruitment through play and competition  
-> - [📱 Algorithmic Recruitment](./📱_algorithmic_recruitment.md) — dopamine loops and visibility funnels  
+> 📡 Cross-references:
+> 
+> - [🎧 Music as Pipeline](./🎧_music_as_pipeline.md) — *rhythmic entrainment and ideological hooks*  
+> - [🕹️ Gamified Extremism](./🕹️_gamified_extremism.md) — *recruitment through play and competition*  
+> - [📱 Algorithmic Recruitment](./📱_algorithmic_recruitment.md) — *dopamine loops and visibility funnels*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-15_  
+_Last updated: 2025-10-18_  
