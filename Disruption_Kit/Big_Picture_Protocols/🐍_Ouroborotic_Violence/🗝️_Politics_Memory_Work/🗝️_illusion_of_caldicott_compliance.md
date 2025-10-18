@@ -1,5 +1,5 @@
 # 🗝️ Illusion of Caldicott Compliance  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-18  
 *The dangerous fiction of relying on decayed custodianship and historic record-keepers as if Caldicott standards were timelessly enforced.*  
 
 ---
@@ -101,11 +101,12 @@ If a record can sit open for two decades, the record itself is evidence of syste
 *Illusion of Caldicott Compliance* is a living node of the Polaris Protocol.  
 It exposes how institutions invoke historic principles as cover for neglect, treating archives as if they remain intact without labour, responsibility, or accountability.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🗝️ Custodianship Illusion](./🗝_custodianship_illusion.md)  
 > - [🗝️ Who Holds the Tape](./🗝_who_holds_the_tape.md)  
 > - [🗝️ Privatised Record Keeping](./🗝_privatised_record_keeping.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
