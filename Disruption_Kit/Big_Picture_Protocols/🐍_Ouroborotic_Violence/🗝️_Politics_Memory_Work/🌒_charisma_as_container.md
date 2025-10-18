@@ -1,5 +1,5 @@
 # 🌒 Charisma as Container  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *How spectacle, performance, and charisma can fabricate durable systems of containment, even when rooted in fraud.*  
 
 ---
@@ -55,4 +55,4 @@ It documents how spectacle and performance fabricate systems that outlive their 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
