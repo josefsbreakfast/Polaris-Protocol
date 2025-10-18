@@ -1,5 +1,5 @@
 # ⚖️ Strategic Lawsuits Against Public Participation (SLAPPs)  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-18  
 *Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony.*
 
 ---
@@ -171,9 +171,9 @@ By mapping legal timelines, global context, survivor erasure, Crown property rul
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Judicial Deference](../🌀_System_Governance/⚖️_judicial_deference.md)  
-> - [⚖️ Public Inquiry Business Case](../🌀_System_Governance/⚖️_public_inquiry_business_case.md)
+> - [⚖️ Judicial Deference](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_deference.md)  
+> - [⚖️ Public Inquiry Business Case](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_public_inquiry_business_case.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-18_
