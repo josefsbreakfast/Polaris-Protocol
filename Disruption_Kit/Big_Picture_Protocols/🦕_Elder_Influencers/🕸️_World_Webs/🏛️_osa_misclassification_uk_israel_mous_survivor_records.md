@@ -1,6 +1,6 @@
 # 🏛️ OSA Misclassification, UK–Israel MoUs, and Survivor Records  
 **First created:** 2025-09-06 | **Last updated:** 2025-09-28    
-*Forensic map of how UK–Israel agreements interact with Official Secrets Act mis-tagging, and how survivor data can be wrongfully exposed under “security” pretexts*
+*Forensic map of how UK–Israel agreements interact with Official Secrets Act mis-tagging, and how survivor data can be wrongfully exposed under “security” pretexts.*
 
 ---
 
