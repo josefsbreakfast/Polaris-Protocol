@@ -49,22 +49,17 @@ This rhetorical move is a laundering mechanism. It makes Christian nationalism �
 
 ---
 
-## 📡 Related Polaris Nodes  
-
-- [🪬 Far Right Feeders Flipbook](../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md) — mapping pipelines into fascist thought  
-- [🪬 Authoritarianism Beyond Left Right](../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md) — documenting rhetorical shifts that blur ideological boundaries  
-- [🪬 From Christian Zionism to Diaspora Radicalisation](../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md) — parallel laundering strategies in religious-political fusion  
-
----
-
 ## 🏮 Footer  
 
 *Christian Nationalism as Fascist Laundering* is a living node of the Polaris Protocol. It records how theological-political discourse is softened to permit authoritarian slippage.  
 
 > 📡 Cross-references:
 > 
-> - [🪬 Radicalisation_Extremism](./README.md) — *pipelines and laundering logics*  
-> - [🗝️ Politics_Memory_Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md) — *narrative erasures and discursive disguises*  
+> - [🪬 Radicalisation & Extremism](./README.md) — *pipelines and laundering logics*  
+> - [🗝️ Political Economy & Memory Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md) — *narrative erasures and discursive disguises*
+> - [🪬 Far Right Feeders Flipbook](./🧠_far_right_feeders_flipbook.md) — *mapping pipelines into fascist thought*
+> - [🪬 Authoritarianism Beyond Left Right](./🪬_authoritarianism_beyond_left_right.md) — *documenting rhetorical shifts that blur ideological boundaries*
+> - [🪬 From Christian Zionism to Diaspora Radicalisation](./🪬_from_christian_zionism_to_diaspora_radicalisation.md) — *parallel laundering strategies in religious-political fusion*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
