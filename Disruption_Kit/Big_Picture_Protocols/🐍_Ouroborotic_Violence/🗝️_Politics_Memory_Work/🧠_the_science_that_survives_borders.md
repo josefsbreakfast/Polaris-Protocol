@@ -1,5 +1,5 @@
 # 🧠 The Science That Survives Borders  
-**First created:** 2025-08-12 | **Last updated:** 2025-08-30  
+**First created:** 2025-08-12 | **Last updated:** 2025-10-18  
 *Why immigration restrictions slow STEM and how behavioural governance crossed borders after the Holocaust.*  
 
 ---
@@ -159,9 +159,9 @@ The Hippocratic model does not survive Prevent/CVE culture. Care becomes conditi
 *The Science That Survives Borders* is a living node of the Polaris Protocol.  
 It traces the historical convergence of behavioural governance, border politics, and scientific innovation.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
