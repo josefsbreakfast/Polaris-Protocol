@@ -82,6 +82,10 @@ and i'd be cool if we could just... not do this?
 
 it's giving the guy who got caught in a meeting and talked about on tv in 2020 energy.  
 
+(now that? that is a question for that talmud. the thing is written for this level of fucking weird.)  
+
+but also please can my government do something about this; whoever you delegated this to clearly isn't doing the vawg prevention you used to talk about.  
+
 ---
 
 2025-10-18  
