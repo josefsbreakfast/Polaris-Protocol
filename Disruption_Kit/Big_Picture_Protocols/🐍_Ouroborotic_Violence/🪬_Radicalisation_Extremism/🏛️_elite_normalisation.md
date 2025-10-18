@@ -1,6 +1,6 @@
 # 🏛️ Elite Normalisation  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*Mapping how proximity of political and elite figures to abuse or extremist logics becomes culturally normalised*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*Mapping how proximity of political and elite figures to abuse or extremist logics becomes culturally normalised.*
 
 ---
 
@@ -89,4 +89,4 @@ Power does not hide; it reintroduces itself.
 This node studies the choreography of return.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
