@@ -1,5 +1,5 @@
 # ☕🫖 Is the Current UK Government a Threat to National Security?  
-**First created:** 2025-08-04 | **Last updated:** 2025-08-30  
+**First created:** 2025-08-04 | **Last updated:** 2025-10-18  
 *Threat assessment: UK government conduct as a national security risk.*  
 
 ---
@@ -113,9 +113,9 @@ This material should be reviewed by:
 *UK Government National Security Risk* is a living node of the Polaris Protocol.  
 It documents systemic risks where government conduct itself constitutes a security threat.
 
-🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](./README.md)
 
 *Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
