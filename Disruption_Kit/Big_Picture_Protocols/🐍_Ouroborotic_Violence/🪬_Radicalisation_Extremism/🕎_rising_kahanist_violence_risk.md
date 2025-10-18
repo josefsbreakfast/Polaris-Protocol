@@ -1,5 +1,5 @@
 # 🕎 Rising Kahanist Violence Risk  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-18  
 *Mapping the re-emergence of Kahanist ideology and its convergence with global alt-right networks as a threat logic toward Jewish diaspora communities.*
 
 ---
@@ -105,11 +105,12 @@ Kahanism, Jewish extremism, alt-right pipelines, diaspora risk, nationalist ideo
 *Rising Kahanist Violence Risk* is a living node of the **Polaris Protocol.**  
 It documents the ideological and psychological structures through which extremist logics emerge inside and adjacent to Jewish nationalist thought, and how those logics intersect with global alt-right movements to endanger diaspora communities.  
 
-> 📡 Cross-references:  
-> - [🧿 Central Uncertainty Protocols](../🧿_central_uncertainty_protocols.md) — state mistrust and containment reflexes  
-> - [🕎 Fear as Leverage](../🕎_fear_as_leverage.md) — diaspora fear as political instrument  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges.md) — behavioural governance logics  
+> 📡 Cross-references:
+> 
+> - [🧿 Central Uncertainty Protocols](./🧿_central_uncertainty_protocols.md) — * state mistrust and containment reflexes*   
+> - [🕎 Fear as Leverage] *TBC* — * diaspora fear as political instrument*   
+> - [🧠 HM Dept Coercive Nudges](../../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — * behavioural governance logics*   
 
 *Survivor authorship is sovereign.  Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
