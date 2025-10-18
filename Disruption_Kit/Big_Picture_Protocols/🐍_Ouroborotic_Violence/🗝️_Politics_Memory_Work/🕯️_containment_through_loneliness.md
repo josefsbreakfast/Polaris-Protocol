@@ -1,5 +1,5 @@
 # 🕯 Containment Through Loneliness  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-07  
+**First created:** 2025-09-07 | **Last updated:** 2025-10-18  
 *Mapping loneliness as an engineered containment strategy across state, digital, and institutional systems.*  
 
 ---
@@ -44,11 +44,12 @@ Harsh, overt containment through loneliness is not rare — it is **commonplace 
 *Containment Through Loneliness* is a living node of the Polaris Protocol.  
 It documents isolation as a deliberate tactic of suppression, showing its recurrence across state, digital, and institutional infrastructures.  
 
-> 📡 Cross-references:  
-> - [Politics & Memory Work](../Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/) — erasure, commodification, and state memory games  
-> - [Suppression Layers](../Metadata_Sabotage_Network/Suppression_Layers/) — technical logs of throttling, proximity control, and visibility sabotage  
-> - [Survivor Tools](../Survivor_Tools/) — refusal guides against engineered isolation  
+> 📡 Cross-references:
+> 
+> - [🗝️ Political Economy & Memory Work](./README.md) — *erasure, commodification, and state memory games*  
+> - [Suppression Layers](../../../../Metadata_Sabotage_Network/Suppression_Layers/) — *technical logs of throttling, proximity control, and visibility sabotage*  
+> - [🧬 Survivor Tools](../../../Survivor_Tools/README.md) — *refusal guides against engineered isolation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-07_  
+_Last updated: 2025-10-18_  
