@@ -28,7 +28,7 @@ So if we're talking about CVE, can we please be very clear?
 
 Any alt right nationalism is a risk to community- and identity-targeted extremist violence in the UK.  
 
-You're clearly nochong with it, and it's time- and event-specific, directed at users who match specific profiles. Given that most Hindu in the UK need to go to specialist stores for most ritual items, and at the calendar is complex and inherently ends up being searched online, it wouldn't be technically very difficult to do this, but it is targeting a population on racial terms and therefore it is unethical at best, and it is holocaust adjacent at worst.  
+You're clearly niching with it, and it's time- and event-specific, directed at users who match specific profiles. Given that most Hindus in the UK need to go to specialist stores for most ritual items, that these are highly seasonal where fruit is concerned, and as the calendar is complex it inherently ends up being searched online, it wouldn't be technically very difficult to do this, but it is targeting a population on racial terms and therefore it is unethical at best, and it is holocaust-adjacent at worst.  
 
 so just to recap, in the last few hours, and I'm still on my period and I'm still not great, I have been exposed to dehumanisation of:
 - British Jews
