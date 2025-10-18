@@ -1,5 +1,5 @@
 # ✝️ Protestant Work Ethic as Containment  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *How Puritan moralism turned work into fetish, cruelty into discipline, and seeded colonial/industrial containment logics.*  
 
 ---
@@ -56,9 +56,9 @@ The Protestant work ethic is not just cultural backdrop — it is a containment 
 It documents how moralised labour became a system of control, linking Puritan discipline to colonial cruelty and modern hostile-environment policy.  
 
 > 📡 Cross-references:  
-> - [📦 Containment as Industry](../🛟_Borders_Boats_Walls/📦_containment_as_industry.md)  
-> - [👁️ Panopticon as Industry](../🌀_System_Governance/👁️_panopticon_as_industry.md)  
+> - [📦 Containment as Industry](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📦_containment_as_industry.md)  
+> - [👁️ Panopticon as Industry](../../🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
