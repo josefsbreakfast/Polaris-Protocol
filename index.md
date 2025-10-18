@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:16:39 UTC_
+_Generated on 2025-10-18 00:23:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -351,7 +351,6 @@ _Generated on 2025-10-18 00:16:39 UTC_
       - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_identity_documents_act_2010.md)
       - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_data_bill_2025.md)
       - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_house_of_lords_2025.md)
-      - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🗝️_data_standards_fragmentation.md)
     - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/README.md)
       - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
@@ -398,6 +397,8 @@ _Generated on 2025-10-18 00:16:39 UTC_
       - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
       - [`🦕_partition_loop_borders_as_violence.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🦕_partition_loop_borders_as_violence.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
+      - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
+        - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🗝️_data_standards_fragmentation.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/)
