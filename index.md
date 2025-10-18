@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:39:38 UTC_
+_Generated on 2025-10-18 00:39:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -357,7 +357,6 @@ _Generated on 2025-10-18 00:39:38 UTC_
       - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/💣_energy_rents_timeline.csv)
       - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/💸_russian_overlap_patterns.md)
       - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
-      - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
@@ -384,6 +383,7 @@ _Generated on 2025-10-18 00:39:38 UTC_
         - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
         - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
+        - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/README.md)
