@@ -1,6 +1,6 @@
 # 🧩 Fragmented Identities as Feedstock  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On how alienation, twinning, and fractured identity records are weaponised as raw material for radicalisation pipelines*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*On how alienation, twinning, and fractured identity records are weaponised as raw material for radicalisation pipelines.*
 
 ---
 
@@ -89,4 +89,4 @@ Fragmentation is not failure; it is data unfit for the system’s story.
 This node asks how wholeness became the bait.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
