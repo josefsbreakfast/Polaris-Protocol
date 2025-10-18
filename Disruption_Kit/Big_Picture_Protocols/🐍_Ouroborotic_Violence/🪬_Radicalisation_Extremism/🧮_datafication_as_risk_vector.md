@@ -1,6 +1,6 @@
 # 🧮 Datafication as Risk Vector  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On how government and corporate risk scoring systems generate feedback loops that profile minorities as perpetual suspects*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*On how government and corporate risk scoring systems generate feedback loops that profile minorities as perpetual suspects.*
 
 ---
 
@@ -80,4 +80,4 @@ Every risk model is a mirror trained to find danger in the already disadvantaged
 This node traces how data learns to suspect.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
