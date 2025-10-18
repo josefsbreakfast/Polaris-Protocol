@@ -64,7 +64,7 @@ It contributes to the *🩸 Genocide Denialism* cluster by tracing how psycholog
 > 📡 Cross-references:
 > 
 > - [🩸 Genocide Denialism](./README.md) — *root folder for denial mechanisms*  
-> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *for cross-analysis of defence mechanisms*  
+> - [🐦‍🔥 Trauma, Psychology, & Medical Misuse](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *for cross-analysis of defence mechanisms*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
