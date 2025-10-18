@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:46:09 UTC_
+_Generated on 2025-10-18 00:46:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -338,8 +338,6 @@ _Generated on 2025-10-18 00:46:09 UTC_
         - [`🧠_voice_clones_ai_and_the_threat_to_policing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md)
         - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
-    - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
@@ -366,6 +364,7 @@ _Generated on 2025-10-18 00:46:09 UTC_
         - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
         - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/README.md)
         - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
         - [`big_tech_intra_industry_stakeholder_relations.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/big_tech_intra_industry_stakeholder_relations.png)
         - [`ceefax_watchlist_fixed.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/ceefax_watchlist_fixed.png)
