@@ -1,6 +1,6 @@
 # 💷 Survivor Costing Estimate  
 **First created:** 2025-09-06 | **Last updated:** 2025-10-13  
-*A forensic ledger of what it costs to contain a survivor. Numbers tell their own story of liability*  
+*A forensic ledger of what it costs to contain a survivor. Numbers tell their own story of liability.*  
 
 ---
 
