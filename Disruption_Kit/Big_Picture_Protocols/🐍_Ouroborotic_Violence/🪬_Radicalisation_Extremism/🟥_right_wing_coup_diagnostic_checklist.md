@@ -1,7 +1,5 @@
-# 🟥 Right-Wing Coup Diagnostic Checklist (UK 2025)
-
-**First created:** 2025-08-26 | **Last updated:** 2025-08-30
-
+# 🟥 Right-Wing Coup Diagnostic Checklist (UK 2025)  
+**First created:** 2025-08-26 | **Last updated:** 2025-10-18  
 *Forensic indicators of creeping / constitutional coup dynamics in the UK.*  
 
 ---
@@ -54,9 +52,9 @@ This looks like **a right-authoritarian capture in progress** — slow, bureaucr
 *Right-Wing Coup Diagnostic Checklist* is a living node of the Polaris Protocol.  
 It documents forensic indicators of creeping authoritarian capture and bureaucratised coup dynamics.  
 
-🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](./README.md)
 
 *Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
