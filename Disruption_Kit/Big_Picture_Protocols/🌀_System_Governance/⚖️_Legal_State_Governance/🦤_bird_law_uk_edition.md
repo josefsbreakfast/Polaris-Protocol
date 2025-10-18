@@ -1,5 +1,5 @@
 # ⚖️ Bird Law in the UK  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *On the peculiar overlaps and inconsistencies in UK animal husbandry law.*  
 
 ---
@@ -38,4 +38,4 @@ It examines the contradictions in legal frameworks around animal husbandry, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
