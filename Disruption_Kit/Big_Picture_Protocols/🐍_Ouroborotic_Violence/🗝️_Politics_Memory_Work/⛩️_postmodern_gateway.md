@@ -61,8 +61,8 @@ It documents the idea that our present is not simply an era of knowledge change,
 
 > 📡 Cross-references:  
 > - [🗝️ Political Economy & Memory Work](./README.md) — *on memory, narrative suppression, and politicised identity*  
-> - [🌀 Systems & Governance](../../🌀_System_Governance/README.m) — *on oversight and authorisation chains*  
-> - [🔥 Suppression as Signal](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_suppression_as_signal.md) — *on censorship and banned media as signals of systemic strain*  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *on oversight and authorisation chains*  
+> - [🔥 Suppression as Signal](./🔥_suppression_as_signal.md) — *on censorship and banned media as signals of systemic strain*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
