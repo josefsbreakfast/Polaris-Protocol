@@ -1,5 +1,5 @@
 # 🌤️ When Authoritarianism and Genocide Are Resisted
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-09  
+**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
 *On refusal, solidarity, and the physics of deflection—how ordinary people and systems push back against organised cruelty.*
 
 ---
