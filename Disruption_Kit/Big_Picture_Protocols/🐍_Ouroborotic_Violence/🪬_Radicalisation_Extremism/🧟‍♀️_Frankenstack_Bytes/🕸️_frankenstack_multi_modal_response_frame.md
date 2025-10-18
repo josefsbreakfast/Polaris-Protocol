@@ -1,5 +1,5 @@
 # 🕸️ Frankenstack Multi-Modal Response Frame  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-05  
+**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
 *Why single-path “treatments” fail against hybrid stacks — and how to build a broad, community-anchored response instead.*
 
 ---
@@ -54,14 +54,15 @@ frankenstack, multi-modal response, community anchoring, trauma rehab analogy, s
 ---
 
 ## 🏮 Footer  
-*🪬 Frankenstack Multi-Modal Response Frame* is a living node of the Polaris Protocol.  
+*🕸️ Frankenstack Multi-Modal Response Frame* is a living node of the Polaris Protocol.  
 It complements *Frankenstack Intake & Response Protocol* by outlining why hybrid stacks require hybrid counter-responses — parallel, choice-rich, community-anchored interventions with tolerant metrics.  
 
-> 📡 Cross-references:  
-> - [🩺 Frankenstack Intake & Response Protocol](../../Survivor_Tools/🩺_frankenstack_intake_and_response_protocol.md)  
-> - [🧠 Psychological Containment](../🧠_psychological_containment.md)  
-> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../🐦‍🔥_trauma_psychology_medical_misuse.md)
+> 📡 Cross-references:
+> 
+> - [🩺 Frankenstack Intake & Response Protocol](./🩺_frankenstack_intake_and_response_protocol.md) — *A clinician-style playbook for recognising, documenting, and de-escalating stack-induced dysregulation — and introducing the concept to the public, safely*    
+> - [🧠 Psychological Containment](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *related sensory/behavioural suppression patterns*  
+> - [🐦‍🔥 Trauma, Psychology, & Medical Misuse](../../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *survivor after-effects*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-18_
