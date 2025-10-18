@@ -22,7 +22,9 @@ Is the same telecoms hub, nudging Hinduvata content in the UK?
 
 I obviously understand that the political ties are such, that Israel needs to maintain a good relationship with Modi, for arms deals, and both parties have shared interest into humanising a very specific group.  
 
-But if we're talking about CVE, can we please be very clear?  
+But all of us were born British (even the lost Christian boys).
+
+So if we're talking about CVE, can we please be very clear?  
 
 Any alt right nationalism is a risk to community- and identity-targeted extremist violence in the UK.  
 
