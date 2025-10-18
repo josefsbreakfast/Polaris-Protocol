@@ -49,10 +49,10 @@ It documents how complicit middle-layers create systemic stalemates and how surv
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md)  
-> - [🪫 Austerity Long Tail & Data Instability](../🪫_austerity_long_tail_data_instability.md)  
-> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment)
+> - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md) - *Learning from UK precedents to frame hybrid compensation for systemic harms*  
+> - [🪫 Austerity Long Tail & Data Instability](../🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md) - *How post-2008 austerity produced decades of degraded infrastructure and unstable data*  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *Index of containment modes that operate through inner state manipulation*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-18_
