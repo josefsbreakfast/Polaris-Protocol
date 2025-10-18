@@ -1,7 +1,5 @@
-# 🧠 Radicalisation Pipelines and Platform Culture
-
-**First created:** 2025-08-25 | **Last updated:** 2025-08-30
-
+# 🧠 Radicalisation Pipelines and Platform Culture  
+**First created:** 2025-08-25 | **Last updated:** 2025-10-18  
 *Doctrine on radicalisation pipelines and asymmetric platform culture.*  
 
 ---
@@ -153,9 +151,9 @@ flowchart LR
 *Radicalisation Pipelines and Platform Culture* is a living node of the Polaris Protocol.  
 It documents radicalisation pipelines and platform asymmetries — showing how extremism is incubated while dissent is over-policed.  
 
-🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](./README.md)
 
 *Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
