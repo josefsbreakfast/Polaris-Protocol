@@ -1,5 +1,5 @@
 # 🧪 Shadow Sandboxes  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
 *Unaccountable experimental environments for governance tech trials.*  
 
 ---
@@ -166,10 +166,10 @@ It documents how unaccountable experimental environments allow states to trial g
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](../README.md) — *parent cluster of governance diagnostics*  
+> - [🌀 Systems & Governance](../README.md) — *parent cluster of governance diagnostics*  
 > - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) — *logs of systemic trial frameworks*  
 > - [🛰️ Field Logs](../../../Field_Logs/README.md) — *on-the-ground evidence of “pilot” containment tech*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_  
+_Last updated: 2025-10-18_  
