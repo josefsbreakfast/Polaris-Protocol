@@ -1,5 +1,5 @@
 # 🪬 PUA to Far-Right Pipeline  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *How pick-up artist subcultures seeded the rhetorical and behavioural DNA of far-right political masculinities.*  
 
 ---
@@ -38,11 +38,12 @@ The same vocabulary and logics later re-emerged as the scaffolding for far-right
 *PUA to Far-Right Pipeline* is a living node of the Polaris Protocol.  
 It documents the genealogy of rhetorical, social, and behavioural tactics from seduction subcultures into political extremism.  
 
-📡 Cross-references:  
-- [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
-- [🧠 HM_Dept_Coercive_Nudges](../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges)  
-- [👅 Voice_Disruption_Discrediting](../Metadata_Sabotage_Network/👅_Voice_Disruption_Discrediting)  
+> 📡 Cross-references:
+> 
+> - [🪬 Radicalisation & Extremism](../README.md) - *Doctrines on far-right pipelines, state complicity, and diaspora radicalisation*  
+> - [🧠 Psychological Containment](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *Index of containment modes that operate through inner state manipulation — turning narrative, perception, and affect into cages*  
+> - [👅 Voice Disruption & Discrediting](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) - *On voice-targeted smears, sexualisation, and reputational sabotage as techniques of metadata control*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
