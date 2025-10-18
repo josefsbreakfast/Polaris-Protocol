@@ -1,5 +1,5 @@
 # 🧭 UK Tech Talent, Scaling, and Policy Timeline  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-01 | **Last updated:** 2025-10-18  
 *Tracing decisions since 2000 that shaped the UK’s dependence on foreign contractors.*  
 
 ---
@@ -63,10 +63,11 @@ This is less about capacity than about **policy decisions, procurement culture, 
 *UK Tech Talent, Scaling, and Policy Timeline* is a living node of the Polaris Protocol.  
 It documents the cumulative effect of 25 years of decisions that entrenched outsourcing and blocked domestic capacity.  
 
-> 📡 Cross-references:  
-> - [💷 Procurement Culture and Departmental Clashes](../🌀_System_Governance/💷_procurement_culture_and_departmental_clashes.md) - *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
-> - [📊 KPIs vs OKRs in Government](../🌀_System_Governance/📊_kpis_vs_okrs_in_government.md) - *A comparative node on measurement logics in UK public services*  
+> 📡 Cross-references:
+> 
+> - [💷 Procurement Culture and Departmental Clashes](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/💷_procurement_culture_and_departmental_clashes.md) - *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
+> - [📊 KPIs vs OKRs in Government](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_kpi_vs_okr_in_government.md) - *A comparative node on measurement logics in UK public services*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-10-18_
