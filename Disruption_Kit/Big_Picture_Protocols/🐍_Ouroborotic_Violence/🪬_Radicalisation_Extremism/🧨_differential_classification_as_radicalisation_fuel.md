@@ -45,7 +45,7 @@ It analyses how classification bias undermines counter-extremism and feeds new r
 > 📡 Cross-references:
 > 
 > - [⚖️ The Rule-of-Law Trust Deficit](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_the_rule_of_law_trust_deficit.md)  
-> - [🩸 The Repetition Mechanism](../🗝️_Politics_Memory_Work/🩸_the_repetition_mechanism.md)  
+> - [🩸 The Repetition Mechanism](../🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
