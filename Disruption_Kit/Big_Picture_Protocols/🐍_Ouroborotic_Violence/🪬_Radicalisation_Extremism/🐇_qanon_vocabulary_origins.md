@@ -1,5 +1,5 @@
 # 🐇 QAnon Vocabulary Origins  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-05  
+**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
 *Pulp procedure, prophecy syntax, and gamer logic fused into a radicalisation dialect.*
 
 ---
@@ -149,9 +149,9 @@ It maps the linguistic genealogy through which pulp, prophecy, and orphaned idio
 > 📡 Cross-references:
 > 
 > – [🪬 Radicalisation & Extremism](./README.md) — *core diagnostic cluster*  
-> – [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/README.md) — *circulation and visibility mechanics*  
-> – [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — *oversight and counter-narrative architecture*  
+> – [🎶 Banned Broadcasts Cooperative](../../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *circulation and visibility mechanics*  
+> – [🧿 Watch the Watchers](../../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight and counter-narrative architecture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-18_
