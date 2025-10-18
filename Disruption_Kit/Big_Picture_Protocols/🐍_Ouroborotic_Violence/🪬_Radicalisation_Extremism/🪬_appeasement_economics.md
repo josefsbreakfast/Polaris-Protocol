@@ -1,6 +1,6 @@
 # 🪬 Appeasement Economics  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-22  
-*How economic alignment with authoritarian regimes creates systemic blind spots and accelerates fascist capture*  
+**First created:** 2025-09-19 | **Last updated:** 2025-10-18  
+*How economic alignment with authoritarian regimes creates systemic blind spots and accelerates fascist capture.*  
 
 ---
 
@@ -56,10 +56,11 @@ Yet the economic benefits proved catastrophically short-term:
 *Appeasement Economics* is a living node of the Polaris Protocol.  
 It documents how capital alignment accelerates authoritarian capture and weakens resistance.  
 
-> 📡 Backlinks:  
-> - [🪬 Authoritarianism Beyond Left Right](../🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md) — authoritarian behaviours across the spectrum  
-> - [🌀 Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — profit structures that reinforce containment  
+> 📡 Cross-references:
+> 
+> - [🪬 Authoritarianism Beyond Left Right](./🪬_authoritarianism_beyond_left_right.md) — *authoritarian behaviours across the spectrum*  
+> - [🌀 Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *profit structures that reinforce containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-10-18_  
