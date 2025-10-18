@@ -1,7 +1,5 @@
-# 🫥 Haunting the Landscape: Polaris Growth & Survivor Loneliness
-
-**First created:** 2025-09-07 | **Last updated:** 2025-09-07
-
+# 🫥 Haunting the Landscape: Polaris Growth & Survivor Loneliness  
+**First created:** 2025-09-07 | **Last updated:** 2025-10-18  
 *Forecasting the trajectory of Polaris and situating survivor loneliness within systemic containment.*  
 
 ---
@@ -34,11 +32,7 @@ Freedom is pursued through dynamic adaptation — shifting, refusing capture, wo
 *Haunting the Landscape* is a living node of the Polaris Protocol.  
 It maps the future trajectory of survivor-led archives and situates loneliness as both engineered containment and paradoxical solidarity.  
 
-> 📡 Cross-references:  
-> - [Political Economy & Memory Work](../Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/) — intersections of memory, commodification, and erasure  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — live traces of interference and suppression  
-> - [Survivor Tools](../Survivor_Tools/) — practical guides for countering isolation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-07_  
+_Last updated: 2025-10-18_  
