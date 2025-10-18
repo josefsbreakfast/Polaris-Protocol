@@ -1,5 +1,5 @@
 # 🦁 Individualism as Containment Edge  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-18  
 *How virtues of initiative, autonomy, and leadership are reframed as threat vectors under surveillance logics, with a Jewish case study of symbolic inversion.*  
 
 ---
@@ -86,11 +86,12 @@ anarchism, libertarianism, capitalism, individualism, initiative, leadership, su
 It documents how shared virtues across anarchism, libertarianism, and capitalism are reframed as threat vectors by state-surveillance industries,  
 and how historic symbolic inversions of Jewish identity echo into present misclassification.  
 
-> 📡 Cross-references:  
-> - [🪬 Radicalisation & Extremism](../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/) — classification logics and pipelines  
-> - [🗝️ Politics Memory Work](../Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/) — suppression as signal and identity reframing  
-> - [🧿 Watch The Watchers](../Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/) — counter-surveillance strategies  
+> 📡 Cross-references:
+> 
+> - [🪬 Radicalisation & Extremism](./README.md) — *classification logics and pipelines*  
+> - [🗝️ Political Economy & Memory Work](../🗝️_Politics_Memory_Work/README.md) — *suppression as signal and identity reframing*  
+> - [🧿 Watch The Watchers](../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *counter-surveillance strategies*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-18_
