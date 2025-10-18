@@ -1,5 +1,5 @@
 # 🩺 Frankenstack Intake & Response Protocol  
-**First created:** 2025-10-05  |  **Last updated:** 2025-10-05  
+**First created:** 2025-10-05  |  **Last updated:** 2025-10-18  
 *A clinician-style playbook for recognising, documenting, and de-escalating stack-induced dysregulation — and introducing the concept to the public, safely.*  
 
 ---
@@ -88,10 +88,11 @@ frankenstack, hybrid systems, counter-terrorism psychology, safeguarding AI, dys
 *Frankenstack Intake & Response Protocol* is a living node of the Polaris Protocol.  
 It establishes a common language for recognising and mitigating psychosocial harm from stacked behavioural systems.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧟‍♀️ Frankenstack Radicalisation Hypothesis](./🧟‍♀️_frankenstack_radicalisation_hypothesis.md)  
 > - [🪼 Frankenstack Social Field Effects](./🪼_frankenstack_social_field_effects.md)   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-18_
