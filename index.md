@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:38:33 UTC_
+_Generated on 2025-10-18 00:38:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -338,8 +338,6 @@ _Generated on 2025-10-18 00:38:33 UTC_
         - [`🧠_voice_clones_ai_and_the_threat_to_policing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md)
         - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
-    - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/README.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
       - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
@@ -377,6 +375,7 @@ _Generated on 2025-10-18 00:38:33 UTC_
         - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_house_of_lords_2025.md)
         - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🗝️_data_standards_fragmentation.md)
       - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/README.md)
         - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
         - [`targeting_jewish_dissent_1980s_present.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targeting_jewish_dissent_1980s_present.png)
         - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
