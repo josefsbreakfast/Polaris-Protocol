@@ -1,7 +1,5 @@
 # ❌ NCND Technique  
-
 **First created:** 2025-10-01 | **Last updated:** 2025-10-01  
-
 *A satirical take on the bureaucrat’s favourite safe word: “Neither Confirm Nor Deny.” A kink for opacity, whispered like a mantra whenever the truth gets too close.*  
 
 ---
