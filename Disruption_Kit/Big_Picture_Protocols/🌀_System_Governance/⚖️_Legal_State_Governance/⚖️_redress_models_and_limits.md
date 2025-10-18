@@ -56,7 +56,7 @@ It documents why hybrid models are suitable for systemic data-twin/false-provena
 > 
 > - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md)  
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
-> - [💷 Survivor Costing Estimate](../../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md)
+> - [💷 Survivor Costing Estimate](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
