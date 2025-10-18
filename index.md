@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:49:08 UTC_
+_Generated on 2025-10-18 00:49:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -312,7 +312,6 @@ _Generated on 2025-10-18 00:49:08 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
     - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)
       - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
         - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
         - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
         - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/spv_dataflow_redacted.png)
@@ -335,6 +334,8 @@ _Generated on 2025-10-18 00:49:08 UTC_
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/)
         - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/)
+          - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/👻_Transparencies_Overhead/)
+            - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/👻_Transparencies_Overhead/README.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
           - [`📚_narrative_of_deservingness.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/📚_narrative_of_deservingness.md)
           - [`📜_charity_regime_reform.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/📜_charity_regime_reform.md)
