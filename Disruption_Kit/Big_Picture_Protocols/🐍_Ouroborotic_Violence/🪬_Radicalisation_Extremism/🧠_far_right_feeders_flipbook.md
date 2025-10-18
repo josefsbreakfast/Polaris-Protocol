@@ -1,7 +1,5 @@
-# 🧠 Far Right Feeders Flipbook
-
-**First created:** 2025-08-26 | **Last updated:** 2025-08-30
-
+# 🧠 Far Right Feeders Flipbook  
+**First created:** 2025-08-26 | **Last updated:** 2025-10-18  
 *Timeline of how data harvesting and opportunistic networks fed far-right ascendancy in the Anglophone sphere.*  
 
 ---
@@ -86,9 +84,9 @@ It was fed by **datasets**, **sandboxes**, and **networks** that converged acros
 *Far Right Feeders Flipbook* is a living node of the Polaris Protocol.  
 It traces how harvested datasets and opportunistic geopolitical networks converged to feed far-right ascendancy in the Anglophone sphere.  
 
-🏮 [Return to 🪬 Radicalisation & Extremism](../README.md)
+🏮 [Return to 🪬 Radicalisation & Extremism](./README.md)
 
 *Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
