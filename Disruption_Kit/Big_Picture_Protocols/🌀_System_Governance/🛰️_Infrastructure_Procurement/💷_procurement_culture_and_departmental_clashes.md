@@ -1,5 +1,5 @@
 # 💷 Procurement Culture and Departmental Clashes  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-29 | **Last updated:** 2025-10-18  
 *How Treasury logics and departmental needs clash, shaping the adoption of surveillance and “fix” technologies.*  
 
 ---
@@ -65,8 +65,8 @@ It documents how Treasury logics and departmental needs clashed, shaping surveil
 > 📡 Cross-references:
 > 
 > - [🛰️ Surveillance Infrastructure](./🛰️_surveillance_infrastructure.md) — *doctrine on metadata capture and Prevent/CVE logics*  
-> - [💷 Polaris Costing Estimate](../../💸_Money_Listens/👻_Transparencies_Overhead/💷_polaris_costing_estimate.md) — *financial consequences of containment systems*  
+> - [💷 Polaris Costing Estimate](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_polaris_costing_estimate.md) — *financial consequences of containment systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_  
+_Last updated: 2025-10-18_  
