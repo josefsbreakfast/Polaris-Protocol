@@ -1,5 +1,5 @@
 # 🔥 Suppression as Signal  
-**First created:** 2025-09-18 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-18 | **Last updated:** 2025-10-18  
 *How the act of burying a book becomes its own marketing engine.*  
 
 ---
@@ -98,10 +98,11 @@ press freedom, banned book history, UK/US context
 *Suppression as Signal* is a living node of the Polaris Protocol.  
 It documents how deliberate erasure transforms into cultural amplification, and why human narrative always attaches to suppression events regardless of official justification.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic analysis of governance and narrative inversion  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures for navigating suppression in practice  
+> 📡 Cross-references:
+> 
+> - [🧠 Big Picture Protocols](../../README.md) — *systemic analysis of governance and narrative inversion*  
+> - [🧬 Survivor Tools](../../../Survivor_Tools/README.md) — *countermeasures for navigating suppression in practice*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-18_  
