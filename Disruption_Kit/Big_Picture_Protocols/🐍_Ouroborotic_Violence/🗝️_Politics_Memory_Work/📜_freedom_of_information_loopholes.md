@@ -1,5 +1,5 @@
 # 📜 Freedom of Information Loopholes  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-18  
 *How transparency law is bent, deferred, or re-interpreted to keep survivor-relevant data sealed.*
 
 ---
@@ -73,12 +73,13 @@ freedom of information, commercial secrecy, legal privilege, survivor data acces
 *📜 Freedom of Information Loopholes* is a living node of the Polaris Protocol.  
 It documents how **transparency legislation is re-weaponised** into a delay and redaction system that protects institutions over truth — and details the counter-tactics to expose it.  
 
-> 📡 Cross-references:  
-> - [🗝 Privatised Record Keeping](./🗝_privatised_record_keeping.md) — commercial custody and data enclosure  
-> - [🌀 System Governance](../../🌀_System_Governance/) — governance diagnostics and structural levers  
-> - [🧿 Watch The Watchers](../../🧿_Watch_The_Watchers/) — oversight of oversight  
-> - [📉 Suppression Interference Logs](../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/) — procedural obstruction records  
+> 📡 Cross-references:
+> 
+> - [🗝 Privatised Record Keeping](./🗝_privatised_record_keeping.md) — *commercial custody and data enclosure*  
+> - [🌀 System Governance](../../🌀_System_Governance/README.md) — *governance diagnostics and structural levers*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight*  
+> - [📉 Suppression Interference Logs](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/) — *procedural obstruction records*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
