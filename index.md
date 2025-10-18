@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:35:03 UTC_
+_Generated on 2025-10-18 00:35:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -347,7 +347,6 @@ _Generated on 2025-10-18 00:35:03 UTC_
       - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
       - [`🧩_structural_lethality_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧩_structural_lethality_in_custody.md)
       - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
-      - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
       - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
@@ -384,6 +383,8 @@ _Generated on 2025-10-18 00:35:03 UTC_
         - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_data_bill_2025.md)
         - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_house_of_lords_2025.md)
         - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🗝️_data_standards_fragmentation.md)
+      - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/)
+        - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/README.md)
         - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
