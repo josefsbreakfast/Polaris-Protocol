@@ -1,5 +1,5 @@
 # 🫀 Holding a Weapon You Don’t Understand  
-**First created:** 2025-08-17 | **Last updated:** 2025-08-30  
+**First created:** 2025-08-17 | **Last updated:** 2025-10-18  
 *Antifascist survival through language, solidarity, and the metaphor of weapons handled without comprehension.*  
 
 ---
@@ -128,4 +128,4 @@ It documents antifascist praxis through rhythm, solidarity, and the inversion of
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
