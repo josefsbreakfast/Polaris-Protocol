@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 03:54:05 UTC_
+_Generated on 2025-10-18 05:19:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1438,6 +1438,7 @@ _Generated on 2025-10-18 03:54:05 UTC_
     - [`🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md`](Polaris_Nest/Git_Intake_Drawer/🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💰_resolving_the_fear_of_the_poor.md`](Polaris_Nest/Git_Intake_Drawer/💰_resolving_the_fear_of_the_poor.md)
+    - [`📊_risk_scoring_architectures.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scoring_architectures.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_library_as_algorithmic_interface.md`](Polaris_Nest/Git_Intake_Drawer/📚_library_as_algorithmic_interface.md)
     - [`📚_suppressed_safe_collection.md`](Polaris_Nest/Git_Intake_Drawer/📚_suppressed_safe_collection.md)
@@ -1477,6 +1478,7 @@ _Generated on 2025-10-18 03:54:05 UTC_
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🧿_my_feed_needs_a_sweep.md`](Polaris_Nest/Git_Intake_Drawer/🧿_my_feed_needs_a_sweep.md)
     - [`🧿_server_lag_github.md`](Polaris_Nest/Git_Intake_Drawer/🧿_server_lag_github.md)
+    - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
