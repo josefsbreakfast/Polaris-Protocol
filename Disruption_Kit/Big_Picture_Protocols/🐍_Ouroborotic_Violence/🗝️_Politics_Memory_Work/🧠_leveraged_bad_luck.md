@@ -1,5 +1,5 @@
 # 🧠 Leveraged Bad Luck  
-**First created:** 2025-08-20 | **Last updated:** 2025-08-30  
+**First created:** 2025-08-20 | **Last updated:** 2025-10-18  
 *A doctrine file mapping how crises emerge through factor convergence and opportunistic leverage, rather than authorship or prophecy.*  
 
 ---
@@ -77,8 +77,8 @@ If **3+ factors** are ✔ → conditions are ripe for **leveraged bad luck**.
 *Leveraged Bad Luck* is a living node of the Polaris Protocol.  
 It maps how crises emerge through opportunistic convergence, puncturing myths of omnipotence by exposing the banality of leverage.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
