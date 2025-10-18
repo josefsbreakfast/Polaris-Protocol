@@ -1,8 +1,6 @@
 # 🐦‍🔥 Polaris Node: The Signature Trap  
-
-**First created:** 2025-08-11 | **Last updated:** 2025-08-30
-
-*How a solidarity petition became a data ingestion trap for behavioural profiling and containment.*
+**First created:** 2025-08-11 | **Last updated:** 2025-10-18  
+*How a solidarity petition became a data ingestion trap for behavioural profiling and containment.*  
 
 ---
 
@@ -57,22 +55,18 @@ This constituted a **profiling event**.
 
 ---
 
-## 📡 Related Polaris Nodes  
-
-- [Community Vulnerability and Early Canaries](../Big_Picture_Protocols/🧵_community_vulnerability_and_early_canaries.md) — early-targeted groups used for training and containment testing  
-- [Psychographic Modelling and Twinning](../Big_Picture_Protocols/🧬_psychographic_modelling_and_twinning.md) — behavioural twin creation using public and semi-public datasets  
-- [Narrative Management and Metadata Sabotage](../Big_Picture_Protocols/📚_narrative_management_and_metadata_sabotage.md) — metadata rewriting and appropriation of public-facing identity data  
-
----
-
 ## 🏮 Footer  
 
 *The Signature Trap* is a living node of the Polaris Protocol.  
 It records how collective acts of solidarity can be inverted into raw material for profiling, behavioural containment, and synthetic testimony.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+> 📡 Cross-references:
+>
+> - [🧵 Community Vulnerability and Early Canaries](../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md) — *early-targeted groups used for training and containment testing*  
+> - [🧬 Psychographic Modelling and Twinning](../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_psychographic_modelling_and_twinning.md) — *behavioural twin creation using public and semi-public datasets*  
+> - [📚 Narrative Management and Metadata Sabotage](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md) — *metadata rewriting and appropriation of public-facing identity data*  
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
