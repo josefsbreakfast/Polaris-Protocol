@@ -1,5 +1,5 @@
 # 🫜 Case Note: Asymmetric Discourse Policing  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-12  
+**First created:** 2025-09-06 | **Last updated:** 2025-10-18  
 *Forensic note on how criticism of some states is normalised, while others are conflated with identity-based attacks.*
 
 ---
@@ -46,10 +46,6 @@ This creates uneven conditions for speech: some critiques are taken as normal, o
 *Case Note: Asymmetric Discourse Policing* is a living node of the Polaris Protocol.  
 It documents how speech infrastructures treat different states unevenly, flattening political critique into identity disputes.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic diagnostics and typologies  
-> - [Politics & Memory Work](../Big_Picture_Protocols/🗝️_Politics_Memory_Work/) — on narrative framing and double standards  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_  
+_Last updated: 2025-10-18_  
