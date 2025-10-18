@@ -2,6 +2,8 @@
 **First created:** 2025-09-26 | **Last updated:** 2025-10-13  
 *Oversight inspections of UK intelligence services.*  
 
+---
+
 The watchers get watched, or so the story goes.  
 
 Survivors know that being watched twice doesn’t always make you safer.  
