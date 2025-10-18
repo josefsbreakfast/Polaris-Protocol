@@ -1,6 +1,6 @@
 # 🪦 Memory Erasure in Radicalisation  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On how collective forgetting and scandal laundering create the conditions for radicalisation*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*On how collective forgetting and scandal laundering create the conditions for radicalisation.*
 
 ---
 
@@ -78,4 +78,4 @@ Every radicalisation begins with a blank page someone else has scrubbed clean.
 This node listens for what was meant to stay buried.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
