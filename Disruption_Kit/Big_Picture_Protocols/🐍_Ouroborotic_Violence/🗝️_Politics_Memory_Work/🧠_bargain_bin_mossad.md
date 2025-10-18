@@ -1,5 +1,5 @@
 # 🧠 Bargain Bin Mossad  
-**First created:** 2025-08-26 | **Last updated:** 2025-08-30  
+**First created:** 2025-08-26 | **Last updated:** 2025-10-18  
 *A forensic satire of crude psyops, clumsy bureaucrats, and the misuse of clinical shorthand as containment theatre.*  
 
 ---
@@ -188,8 +188,8 @@ Both operate in the same space of information dominance, but with **different si
 *Bargain Bin Mossad* is a living node of the Polaris Protocol.  
 It satirises the crude migration of psychometric and clinical shorthand into surveillance, containment, and fork-level psyops.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
