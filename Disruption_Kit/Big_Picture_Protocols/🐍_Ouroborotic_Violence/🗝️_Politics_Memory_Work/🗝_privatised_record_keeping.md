@@ -1,5 +1,5 @@
 # 🗝 Privatised Record Keeping  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-04  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
 *How public records are quietly rerouted into private custody, enclosing survivor histories behind contractual and commercial secrecy.*
 
 ---
@@ -71,12 +71,13 @@ privatised records, commercial secrecy, FOI loopholes, survivor archives, legal 
 *🗝 Privatised Record Keeping* is a living node of the Polaris Protocol.  
 It documents how **outsourcing and legal privilege** reshape access to truth, enclosing survivor histories within profit logic and contract law — and outlines counter-responses to reclaim public memory.  
 
-> 📡 Cross-references:  
-> - [🌀 System Governance](../../🌀_System_Governance/) — governance diagnostics and structural levers  
-> - [📜 Statutes](../../📜_Statutes/) — legal frameworks underpinning FOI and data access  
-> - [👁️‍🗨️ Witness Historical Casefiles](../../../Metadata_Sabotage_Network/👁️‍🗨️_Witness_Historical_Casefiles/) — suppressed testimonies and evidence reconstruction  
-> - [🧿 Watch The Watchers](../../🧿_Watch_The_Watchers/) — oversight of oversight mechanisms  
+> 📡 Cross-references:
+> 
+> - [🌀 System Governance](../../🌀_System_Governance/README.md) — *governance diagnostics and structural levers*  
+> - [📜 Statutes](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legal frameworks underpinning FOI and data access*  
+> - [👁️‍🗨️ Witness & Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *suppressed testimonies and evidence reconstruction*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
