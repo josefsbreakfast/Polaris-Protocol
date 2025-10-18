@@ -1,5 +1,5 @@
 # 🧨 Crisis Actor Dynamics  
-**First created:** 2025-09-19 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-19 | **Last updated:** 2025-10-18  
 *How authoritarian actors manufacture and perform crises to obscure contradictions and consolidate control.*
 
 ---
@@ -45,8 +45,8 @@ It analyses how authoritarian actors use performance and crisis manufacture to c
 > 📡 Cross-references:
 > 
 > - [🌀 Systems & Governance](../🌀_System_Governance/README.md) — *crisis theatre and inversion diagnostics*  
-> - [🪬 Radicalisation & Extremism](../../🪬_Radicalisation_Extremism/README.md) — *behavioural indicators of extremist grooming*  
+> - [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *behavioural indicators of extremist grooming*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
