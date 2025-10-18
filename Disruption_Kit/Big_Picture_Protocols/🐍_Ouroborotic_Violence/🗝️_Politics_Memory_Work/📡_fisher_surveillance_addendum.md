@@ -1,5 +1,5 @@
 # 📡 Fisher Surveillance Addendum  
-**First created:** 2025-08-08 | **Last updated:** 2025-08-30  
+**First created:** 2025-08-08 | **Last updated:** 2025-10-18  
 *Post-Fisher addendum on surveillance infrastructure, clone engineering, and behavioural pacification.*  
 
 ---
@@ -117,9 +117,9 @@ but to mark the places where it still cannot feel.**
 *Fisher Surveillance Addendum* is a living node of the Polaris Protocol.  
 It tracks the infrastructural mechanics of surveillance realism and how predictive systems enforce clone pacification.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
