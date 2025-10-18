@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:27:35 UTC_
+_Generated on 2025-10-18 00:28:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -340,7 +340,6 @@ _Generated on 2025-10-18 00:27:35 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
     - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/README.md)
-      - [`🏛️_procedural_gatekeeping_speaker_leader_alignment.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/🏛️_procedural_gatekeeping_speaker_leader_alignment.md)
       - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_data_bill_2025.md)
       - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/📜_Statutes/📜_uk_house_of_lords_2025.md)
     - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🕊️_Just_Boxes/)
@@ -397,6 +396,7 @@ _Generated on 2025-10-18 00:27:35 UTC_
         - [`❌_ncnd_technique.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md)
         - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
         - [`🏛️_political_perverts.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_political_perverts.md)
+        - [`🏛️_procedural_gatekeeping.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_procedural_gatekeeping.md)
         - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_identity_documents_act_2010.md)
         - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🗝️_data_standards_fragmentation.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
