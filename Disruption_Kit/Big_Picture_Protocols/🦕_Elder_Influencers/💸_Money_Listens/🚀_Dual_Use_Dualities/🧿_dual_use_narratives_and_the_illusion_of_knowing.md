@@ -1,6 +1,6 @@
 # 🧿 Dual-Use Narratives and the Illusion of Knowing
 **First created:** 2025-10-07  |  **Last updated:** 2025-10-08  
-*A Polaris node on how information abundance replaces verification when walls, blockades, and dual‑use architectures shape what the world gets to “know.”*
+*How information abundance replaces verification when walls, blockades, and dual‑use architectures shape what the world gets to “know.”*
 
 ---
 
