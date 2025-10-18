@@ -149,8 +149,8 @@ It maps the linguistic genealogy through which pulp, prophecy, and orphaned idio
 > 📡 Cross-references:
 > 
 > – [🪬 Radicalisation & Extremism](./README.md) — *core diagnostic cluster*  
-> – [🎶 Banned Broadcasts Cooperative](../../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *circulation and visibility mechanics*  
-> – [🧿 Watch the Watchers](../../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight and counter-narrative architecture*  
+> – [🎶 Banned Broadcasts Cooperative](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *circulation and visibility mechanics*  
+> – [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight and counter-narrative architecture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
