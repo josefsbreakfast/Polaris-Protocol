@@ -1,5 +1,5 @@
 # ⚖️ Lawful Conscience Protocol  
-**First created:** 2025-10-12 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-12 | **Last updated:** 2025-10-18  
 *When secrecy becomes duress, conscience becomes jurisdiction.*  
 
 ---
@@ -78,9 +78,9 @@ it restores mutual respect to the marriage between Parliament and the Services.
 > 📡 Cross-references:
 > 
 > – [⚖️ Two-Way Seal](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md) — *reciprocity and the wax of secrecy*  
-> – [📜 Arms Exports as Act of Aggression](../../📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md) — *complicity and export control*  
-> – [🧿 Watch the Watchers](../../🧿_Watch_The_Watchers/README.md) — *oversight recursion and accountability*  
+> – [📜 Arms Exports as Act of Aggression](../../🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md) — *complicity and export control*  
+> – [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight recursion and accountability*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
