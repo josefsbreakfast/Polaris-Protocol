@@ -1,5 +1,5 @@
 # ⚖️ Autonomy vs Containment Dial  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-18  
 *On the structural tension between openness, security, and exploitability in governance systems.*
 
 ---
@@ -69,9 +69,9 @@ It examines how systemic architectures oscillate between openness and control, a
 > 📡 Cross-references:
 > 
 > - [🌀 System Governance](../README.md) — *frameworks and models of control vs autonomy*  
-> - [🪞 The Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.mdd) — *democratic containment under market freedom*  
+> - [🪞 The Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.md) — *democratic containment under market freedom*  
 > - [🛡️ Exploitability and Defensive Strategy](../🛰️_Infrastructure_Procurement/🕸️_exploitability_and_defensive_strategy.md) — *adaptive security logic under open systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
