@@ -78,7 +78,7 @@ It documents how **transparency legislation is re-weaponised** into a delay and 
 > - [🗝 Privatised Record Keeping](./🗝_privatised_record_keeping.md) — *commercial custody and data enclosure*  
 > - [🌀 System Governance](../../🌀_System_Governance/README.md) — *governance diagnostics and structural levers*  
 > - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight*  
-> - [📉 Suppression Interference Logs](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/) — *procedural obstruction records*  
+> - [📉 Suppression Interference Logs](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md) — *procedural obstruction records*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
