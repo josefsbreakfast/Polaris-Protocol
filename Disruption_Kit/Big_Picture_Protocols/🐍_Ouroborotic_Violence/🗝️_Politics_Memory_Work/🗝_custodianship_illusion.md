@@ -1,5 +1,5 @@
 # 🗝 Custodianship Illusion  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
 *The pretence of neutral stewardship of archives and records while access is tightly rationed, curated, and withheld.*  
 
 ---
@@ -56,11 +56,12 @@
 *🗝 Custodianship Illusion* is a living node of the Polaris Protocol.  
 It documents how the pretense of neutral archival stewardship functions as a political technology — rationing access, delaying accountability, and shaping collective memory.  
 
-> 📡 Cross-references:  
-> - [🌀 System_Governance](./) — parent cluster of governance diagnostics  
-> - [🗝️ Politics Memory Work](../🗝️_politics_memory_work.md) — how identity and memory are co-opted  
-> - [👁️‍🗨️ Witness Historical Casefiles](../👁️‍🗨️_witness_historical_casefiles.md) — suppression of testimony through archival filters  
+> 📡 Cross-references:
+> 
+> - [🌀 Systems &_Governance](../../🌀_System_Governance/README.md) — *parent cluster of governance diagnostics*  
+> - [🗝️ Political Economy & Memory Work](./README.md) — *how identity and memory are co-opted*  
+> - [👁️‍🗨️ Witness Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *suppression of testimony through archival filters*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-18_  
