@@ -58,9 +58,9 @@ It documents how the pretense of neutral archival stewardship functions as a pol
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems &_Governance](../../🌀_System_Governance/README.md) — *parent cluster of governance diagnostics*  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *parent cluster of governance diagnostics*  
 > - [🗝️ Political Economy & Memory Work](./README.md) — *how identity and memory are co-opted*  
-> - [👁️‍🗨️ Witness Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *suppression of testimony through archival filters*  
+> - [👁️‍🗨️ Witness & Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *suppression of testimony through archival filters*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
