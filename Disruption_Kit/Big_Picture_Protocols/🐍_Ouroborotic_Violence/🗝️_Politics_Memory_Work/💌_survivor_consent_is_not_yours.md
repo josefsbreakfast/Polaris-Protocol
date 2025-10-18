@@ -1,5 +1,5 @@
 # 💌 Survivor Consent Is Not Yours  
-**First created:** 2025-09-15 | **Last updated:** 2025-09-15  
+**First created:** 2025-09-15 | **Last updated:** 2025-10-18  
 *My name and story are not political footballs. Consent does not extend to opportunistic power games.*  
 
 ---
@@ -28,11 +28,12 @@ NONE of you give a fuck about us.
 *Survivor Consent Is Not Yours* is a living node of the Polaris Protocol.  
 It documents the sovereign refusal of survivors to have their names, bodies, or stories weaponised as political footballs. Moderation, erasure, or appropriation of survivor testimony is itself a form of containment.  
 
-> 📡 Cross-references:  
-> - [💌 Letter by Letter Erasure Protocol](./💌_letter_by_letter_erasure_protocol.md) — how testimony is chipped away  
-> - [🫀 Holding a Weapon You Don’t Understand](./🫀_holding_a_weapon_you_don’t_understand.md) — political use of survivor testimony without consent  
-> - [🎭 Hypocrisy Profile](./🎭_hypocrisy_profile_uk_blair_cabinet.md) — care claimed as cover for power games  
+> 📡 Cross-references:
+> 
+> - [💌 Letter by Letter Erasure Protocol](./💌_letter_by_letter_erasure_protocol.md) — *how testimony is chipped away*  
+> - [🫀 Holding a Weapon You Don’t Understand](./🫀_holding_a_weapon_you_don’t_understand.md) — *political use of survivor testimony without consent*  
+> - [🎭 Hypocrisy Profile](./🎭_hypocrisy_profile_uk_blair_cabinet.md) — *care claimed as cover for power games*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-15_
+_Last updated: 2025-10-18_
