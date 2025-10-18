@@ -1,5 +1,5 @@
 # 🧪 Breeding Trope as Eugenics  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *Tracks the recycling of the insult “breeding like rabbits” as a containment trope across class, race, and religion.*  
 
 ---
@@ -67,11 +67,12 @@ It only serves to distract from the real structural problems we **could** solve.
 *Breeding Trope as Eugenics* is a living node of the Polaris Protocol.  
 It documents how a recurring insult encodes eugenics logic across class, religion, and race, sustaining imperial and patriarchal hierarchies.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🔥 Hot Coals Theory of Insults](./🔥_hot_coals_theory_of_insults.md)  
-> - [🎶 L’Algorithme as Containment Song](./🎶_lalgorithme_as_containment_song.md)  
-> - [✝️ Protestant Work Ethic as Containment](../🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)  
+> - [🎶 L’Algorithme as Containment Song] *TBC*
+> - [✝️ Protestant Work Ethic as Containment](./✝️_protestant_work_ethic_as_containment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-18_  
