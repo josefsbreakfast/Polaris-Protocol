@@ -1,5 +1,5 @@
 # 🚪 Postmodern Gateway  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-29 | **Last updated:** 2025-10-18  
 *A threshold moment where society must decide whether to honour its stated principles or collapse into regression.*  
 
 ---
@@ -60,10 +60,10 @@ epistemic rupture, paradigm shift, crisis of modernity, postmodern gateway, hist
 It documents the idea that our present is not simply an era of knowledge change, but a threshold where society must decide whether to continue its stated principles or regress.  
 
 > 📡 Cross-references:  
-> - [Politics_Memory_Work](../Politics_Memory_Work/) — on memory, narrative suppression, and politicised identity  
-> - [System_Governance](../System_Governance/) — on oversight and authorisation chains  
-> - [🔥 Suppression as Signal](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_suppression_as_signal.md) — on censorship and banned media as signals of systemic strain  
+> - [Politics_Memory_Work](./README.md) — *on memory, narrative suppression, and politicised identity*  
+> - [System_Governance](../../🌀_System_Governance/README.m) — *on oversight and authorisation chains*  
+> - [🔥 Suppression as Signal](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_suppression_as_signal.md) — *on censorship and banned media as signals of systemic strain*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-18_  
