@@ -1,5 +1,5 @@
 # 📜 Blavatsky Case Study: Cairo Ban  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
 *Helena Petrovna Blavatsky (1831–1891) as hustler, container-builder, and midwife of racialised pseudoscience.*  
 
 ---
@@ -70,8 +70,8 @@ It highlights how charismatic frauds can produce durable containment categories 
 
 > 📡 Cross-references:  
 > - [📖 Erased Archives & Survival Bias](./📖_erased_archives_and_survival_bias.md)  
-> - [🎶 L’Algorithme as Containment Song](./🎶_lalgorithme_as_containment_song.md)  
+> - [🎶 L’Algorithme as Containment Song] *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
