@@ -83,7 +83,7 @@ It documents how **draft destruction and metadata purging** operate as tools of 
 > 
 > - [🗝 Privatised Record Keeping](./🗝_privatised_record_keeping.md) — *commercial custody and data enclosure*  
 > - [📜 Freedom of Information Loopholes](./📜_freedom_of_information_loopholes.md) — *legal transparency containment*  
-> - [🌀 System Governance](../../🌀_System_Governance/README.md) — *governance diagnostics and structural levers*  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *governance diagnostics and structural levers*  
 > - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
