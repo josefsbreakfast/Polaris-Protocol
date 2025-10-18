@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:42:12 UTC_
+_Generated on 2025-10-18 00:42:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -340,7 +340,6 @@ _Generated on 2025-10-18 00:42:12 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
-      - [`israel_eurozone_financial_watchlist.png`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/israel_eurozone_financial_watchlist.png)
       - [`☄️_ww3_started_years_ago.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/☄️_ww3_started_years_ago.md)
       - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/⚖️_surveillance_osa_citizen_forking_meganode.md)
       - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
@@ -382,6 +381,7 @@ _Generated on 2025-10-18 00:42:12 UTC_
         - [`ceefax_watchlist_fixed.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/ceefax_watchlist_fixed.png)
         - [`global_crown_stakeholders.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/global_crown_stakeholders.png)
         - [`global_crown_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/global_crown_timeline.png)
+        - [`israel_eurozone_financial_watchlist.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/israel_eurozone_financial_watchlist.png)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
