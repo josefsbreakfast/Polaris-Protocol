@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:30:30 UTC_
+_Generated on 2025-10-18 00:30:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -381,7 +381,6 @@ _Generated on 2025-10-18 00:30:30 UTC_
       - [`📊_immigration_myths_and_impacts.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md)
       - [`📦_containment_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/📦_containment_as_industry.md)
       - [`🛟_harm_reduction_asylum_routes.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_asylum_routes.md)
-      - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
@@ -398,6 +397,7 @@ _Generated on 2025-10-18 00:30:30 UTC_
         - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_house_of_lords_2025.md)
         - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🗝️_data_standards_fragmentation.md)
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
+        - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
         - [`🦕_partition_loop.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
