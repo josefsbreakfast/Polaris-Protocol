@@ -1,6 +1,6 @@
 # ⚖️ Overlaps Between the Data Bill, Hereditary Peers Bill, and UK Genocide-Prevention Duties  
 **First created:** 2025-09-04 | **Last updated:** 2025-10-08  
-*Systemic analysis of how three parliamentary fronts — digital rights, Lords reform, and genocide prevention — collided in mid-2025*  
+*Systemic analysis of how three parliamentary fronts — digital rights, Lords reform, and genocide prevention — collided in mid-2025.*  
 
 ---
 
