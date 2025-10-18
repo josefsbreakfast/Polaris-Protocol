@@ -1,5 +1,5 @@
 # 🪨 Raw Materials of Fascism
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-09  
+**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
 *An anatomy of fascism’s emotional supply chain: humiliation, fear, nostalgia, and family panic as its renewable fuels.*
 
 ---
