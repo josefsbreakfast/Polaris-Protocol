@@ -1,5 +1,5 @@
 # 💸 Repression Cost Capital  
-**First created:** 2025-08-31 | **Last updated:** 2025-10-14  
+**First created:** 2025-08-31 | **Last updated:** 2025-10-18  
 *How repression in liberal democracies corrodes predictability, raises transaction costs, and destabilises capital flows.*  
 
 ---
@@ -62,10 +62,10 @@ It traces how suppression corrodes the very market stability that liberal democr
 
 > 📡 Cross-references:
 > 
-> - [💷 Polaris Costing Estimate](../../💸_Money_Listens/👻_Transparencies_Overhead/💷_polaris_costing_estimate.md)  
-> - [💷 Potential Tort Exposure](../../💸_Money_Listens/👻_Transparencies_Overhead/💷_potential_tort_exposure.md)  
+> - [💷 Polaris Costing Estimate](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_polaris_costing_estimate.md)  
+> - [💷 Potential Tort Exposure](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_potential_tort_exposure.md)  
 > - [🌀 Systems & Governance](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
