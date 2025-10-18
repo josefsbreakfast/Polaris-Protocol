@@ -41,7 +41,7 @@ It records an emergent framing of the mid-2010s as a “pathogen moment” for d
 > 📡 Cross-references:
 > 
 > - [🧟‍♀️ Frankenstack Bytes](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/README.md) — *platform dynamics and radicalisation*  
-> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md) — *semantic drift and clone tone*  
+> - [🪆 Narrative Interference](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md) — *semantic drift and clone tone*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
