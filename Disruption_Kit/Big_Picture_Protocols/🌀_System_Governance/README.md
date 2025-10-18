@@ -1,5 +1,5 @@
 # 🌀 Systems & Governance  
-**First created:** 2025-08-27  |  **Last updated:** 2025-10-14  
+**First created:** 2025-08-27  |  **Last updated:** 2025-10-18  
 *How the systems we use interlace with what controls and powers them.*
 
 ---
@@ -135,4 +135,4 @@ It maps systemic containment architectures — and their parodies — showing ho
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
