@@ -1,5 +1,5 @@
 # 💸 Hypothetical Case Study: State Actor Funding Absurd Scenarios  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-12  
+**First created:** 2025-09-06 | **Last updated:** 2025-10-18  
 *Diagnostic mapping of how absurd or shocking scenarios are weaponised against state actors through narrative control.*
 
 ---
@@ -53,8 +53,8 @@ The target doesn’t just have to deny a fact — they have to fight a **stigma*
 It documents how absurd narratives operate as containment through stigma and metadata amplification.  
 
 > 📡 Cross-references:  
-> - [Politics & Memory Work](../🗝️_Politics_Memory_Work/) — discourse framing and narrative distortion  
+> - [🗝️ Political Economy & Memory Work](./README.md) — *discourse framing and narrative distortion*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_  
+_Last updated: 2025-10-18_  
