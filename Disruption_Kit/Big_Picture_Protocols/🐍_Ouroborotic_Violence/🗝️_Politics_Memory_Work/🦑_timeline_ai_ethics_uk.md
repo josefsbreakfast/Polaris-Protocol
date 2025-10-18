@@ -33,9 +33,9 @@ Best of luck; **we will win.**
 2024 ───────── CDEI integrated into DSIT | AI Safety Institute launched | EU AI Act alignment debates  
 2025 ───────── AI Safety Institute publishes foundation model evaluations | Focus on labour, surveillance, democracy
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
