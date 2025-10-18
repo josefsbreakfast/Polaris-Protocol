@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:44:42 UTC_
+_Generated on 2025-10-18 00:45:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -340,7 +340,6 @@ _Generated on 2025-10-18 00:44:42 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)
     - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/README.md)
-      - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
       - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/💣_energy_rents_and_strongman_panic.md)
       - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/💣_energy_rents_timeline.csv)
       - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🕸️_World_Webs/💸_russian_overlap_patterns.md)
@@ -382,6 +381,7 @@ _Generated on 2025-10-18 00:44:42 UTC_
         - [`🌏_brics_bridgework_middle_corridors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_brics_bridgework_middle_corridors.md)
         - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
         - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_from_escalation_to_play.md)
+        - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
