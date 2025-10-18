@@ -1,5 +1,5 @@
 # 🐐 Author’s Notebook — Reflections from a Jewish Witness to Modern Scapegoating
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-09  
+**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
 *A survivor-voice reflection on memory, solidarity, and the emotional architecture of recurrence.*
 
 ---
