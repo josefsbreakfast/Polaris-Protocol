@@ -1,5 +1,5 @@
 # 📱 Algorithmic Recruitment  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
 *Analysis of TikTok, YouTube, and Telegram recommendation loops as accelerants of extremist worldview adoption.*
 
 ---
@@ -77,4 +77,4 @@ Recruitment no longer knocks; it recommends.
 This node listens to the hum between the clicks.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
