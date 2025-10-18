@@ -39,9 +39,9 @@ It traces how British commentary on Israel/Palestine repeats colonial tones, era
 
 > 📡 Cross-references:
 > 
-> - [🗝️ Politics_Memory_Work](./README.md) — *suppression, memory, and projection logics*  
-> - [🕸️ World_Webs](../🦕_Elder_Influencers/🕸️_World_Webs/README.md) — *diasporas and entanglements*  
-> - [📜 Statutes](../🦕_Elder_Influencers/📜_Statutes/README.md) — *legislative echoes of colonial logics*  
+> - [🗝️ Political Economy & Memory Work](./README.md) — *suppression, memory, and projection logics*  
+> - [🕸️ World Webs](../../🦕_Elder_Influencers/🕸️_World_Webs/README.md) — *diasporas and entanglements*  
+> - [📜 Statutes](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legislative echoes of colonial logics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
