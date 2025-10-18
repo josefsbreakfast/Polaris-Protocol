@@ -1,5 +1,5 @@
 # 🕯️ Britain’s Near-Miss with Fascism — The Cable Street Precedent
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-09  
+**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
 *How inter-war Britain flirted with fascism, how working-class and immigrant communities stopped it, and why the myth of “British exceptionalism” still obscures those lessons.*
 
 ---
