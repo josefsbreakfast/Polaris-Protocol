@@ -1,6 +1,6 @@
 # 💷 Migration as Liability Shield  
 **First created:** 2025-09-16 | **Last updated:** 2025-09-27  
-*How anti-migrant policy serves to deflect reparations and shield elite wealth while shifting costs onto taxpayers*  
+*How anti-migrant policy serves to deflect reparations and shield elite wealth while shifting costs onto taxpayers.*  
 
 ---
 
