@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 00:33:08 UTC_
+_Generated on 2025-10-18 00:33:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -374,7 +374,6 @@ _Generated on 2025-10-18 00:33:08 UTC_
       - [`🌀_forced_migration_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md)
       - [`🏘️_council_incentives_hotels.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🏘️_council_incentives_hotels.md)
       - [`🏛️_uk_identity_cards_2000s.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md)
-      - [`💷_migration_as_liability_shield.md`](Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
@@ -393,6 +392,7 @@ _Generated on 2025-10-18 00:33:08 UTC_
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
         - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
         - [`⚖️_containment_contract_trace_hotel_edition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_containment_contract_trace_hotel_edition.md)
+        - [`💷_migration_as_liability_shield.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)
         - [`📈_id_function_creep.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📈_id_function_creep.md)
         - [`📊_immigration_myths_and_impacts.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md)
         - [`📦_containment_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📦_containment_as_industry.md)
