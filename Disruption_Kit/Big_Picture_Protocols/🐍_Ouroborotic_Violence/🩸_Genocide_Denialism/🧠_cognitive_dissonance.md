@@ -1,5 +1,5 @@
 # 🧠 Cognitive Dissonance  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-11  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-18  
 *On the psychic split that sustains denial in the face of atrocity.*
 
 ---
@@ -63,10 +63,10 @@ It contributes to the *🩸 Genocide Denialism* cluster by tracing how psycholog
 
 > 📡 Cross-references:
 > 
-> - [🩸 Genocide Denialism](./README.md) — root folder for denial mechanisms  
-> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — for cross-analysis of defence mechanisms  
+> - [🩸 Genocide Denialism](./README.md) — *root folder for denial mechanisms*  
+> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *for cross-analysis of defence mechanisms*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-18_
