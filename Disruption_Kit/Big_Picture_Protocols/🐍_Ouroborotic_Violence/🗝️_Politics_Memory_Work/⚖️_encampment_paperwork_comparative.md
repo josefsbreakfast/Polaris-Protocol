@@ -1,5 +1,5 @@
 # ⚖️ Encampment Paperwork — Columbia vs Nottingham  
-**First created:** 2025-09-22 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-22 | **Last updated:** 2025-10-18  
 *Evidence node comparing paperwork and legal tactics used to dismantle student encampments at Columbia (NYC) and Nottingham (UK).*  
 
 ---
@@ -22,9 +22,8 @@
 *Encampment Paperwork — Columbia vs Nottingham* is a working evidence node of the Polaris Protocol.  
 
 > 📡 Cross-references:  
-> - [⚖️ Encampment Policing — Transatlantic Methods](./⚖️_encampment_policing_transatlantic.md)  
-> - [Field Logs](../Field_Logs/)  
+> - [⚖️ Encampment Policing — Transatlantic Methods] *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-10-18_  
