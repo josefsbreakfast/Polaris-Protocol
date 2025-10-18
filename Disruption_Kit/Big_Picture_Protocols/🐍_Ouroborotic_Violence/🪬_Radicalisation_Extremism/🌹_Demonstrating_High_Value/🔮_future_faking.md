@@ -1,6 +1,5 @@
 # 🔮 Future Faking  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-29  
-
+**First created:** 2025-09-29 | **Last updated:** 2025-10-18  
 *How “future-faking” (promises of elevated status, mentorship, intimacy or opportunity) originated in interpersonal abuse and pick-up culture, migrated through manosphere grifts, and is now used as a recruitment vector into extremist movements.*  
 
 ---
@@ -190,4 +189,4 @@ It traces how interpersonal manipulation techniques scale through online economi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-18_  
