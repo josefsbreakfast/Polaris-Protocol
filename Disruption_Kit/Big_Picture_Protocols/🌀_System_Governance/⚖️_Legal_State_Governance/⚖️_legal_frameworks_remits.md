@@ -1,5 +1,5 @@
 # ⚖️ Legal Frameworks and Remits  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-18  
 *Statutory bases, oversight mechanisms, and shadow governance of UK surveillance.*  
 
 ---
@@ -304,10 +304,10 @@ It maps the statutory architectures, oversight systems, and shadow logics that d
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md) - *ministerial and judicial checks on intelligence powers*  
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) - *oversight inspections of UK intelligence services*  
 > - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *courts leaning away from intervention*  
-> - [🧿 Watch The Watchers](../Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md) - *tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
+> - [🧿 Watch The Watchers](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) - *tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
 > - [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) - *Prevent logic and governance suppression frameworks*  
-> - [🧠 HM Dept Coercive Nudges](../../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural science repurposed as state containment*  
+> - [🧠 HM Dept Coercive Nudges](../../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural science repurposed as state containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_  
+_Last updated: 2025-10-18_  
