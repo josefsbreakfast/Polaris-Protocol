@@ -86,6 +86,39 @@ it's giving the guy who got caught in a meeting and talked about on tv in 2020 e
 
 but also please can my government do something about this; whoever you delegated this to clearly isn't doing the vawg prevention you used to talk about.  
 
+
+(in case it wasn't obvious, I am receiving word for word messages, styled as oracle readings, in direct emotional response to what I post about; these will be put in just after a post, for example, and otherwise not be present. It is extremely noticeable. Now. Because of the history that I've already documented here, whoever is doing this content injection, is extremely responsive to specific issues I write about. Those issues can be grouped into number one, sexual violence particularly my personal experience of it, and number two, anything I say from the perspective of an anti-Zionist Jewish woman. Furthermore. Because of the history (that taken in totalis, is a case of CIDT, and has been impacting directly a British citizen on British sovereign territory (that me), and at least in part being assisted by British state bodies), today's "treat" was having the words "I touch myself to you", from the same source.  
+
+The sauce has previously implicated a named academic and political figure, and her specifically leaked details which would realistically only be available enclosed subcommittee or closed cabinet minutes. The leak was around that particular academic view of whether antizionism is terrorism actually. The police have never actioned adequately the ongoing intimidation, and I have often had gaps in communication which suggests that it's gone through some sort of security gated process. I still don't know why I was arrested; I have no idea where the evidence came from or how it was supported. I was asked questions in my interview, that assumed circumstances and events that I can't even remember, and appeared to be based on strange intelligence. I have had details about my life which I've only been in private telephone communications during the arranging of funerals, a time when I also received strange legal advice, come up as healthcare information in surfaces which interface with the prevent program.  
+
+I am going to let everyone work out why it may have gotten to the point where the cyber security attack that I experienced, escalated to the point where I felt the need to write statements of truth for two Muslim men.  
+
+I am going to let everyone work out why I have been finding such difficult difficulty attaining a lawyer in this country.  
+
+I'm going to let everyone work out quiet for me even though I reported any information that may have been under essay that was leaked, and whilst it is true that the degree of intrusion caused by the so-called "covert" surveillance did decrease after asking cabinet for protection, I was still routinely subjected to sexualise grooming and I was still routinely subjected to data leaks constantly.  
+
+I'm going to let everyone guess why no one really seems to want to do anything about a source of interference in UK cyber security, which is actively projecting a narrative around a male actor touching himself, and framing that around a particular academic man.  
+
+If this is what community cohesion looks like to you, which community is actually cohesive?  
+
+Because the amount of alt right content I've been exposed to because of the overlap where surveillance actors have been jumping onto my Wi-Fi, including to watch their own pornography, doesn't feel cohesive at all.  
+
+To be honest, I thought it was more an intimidation technique, but then there were a lot of adverts for one political party in particular. So perhaps it's just what you guys watching your free time.  
+
+That is...  
+
+When you're not being paid by my taxes to jerk off and blame it on another man.  
+
+Please try to get a grip of yourselves; ideally a grip of a different part of yourself. There is a brain at the superior end of the body. Something I used to teach a lot of an anatomy class.  
+
+kindly may I ask you all collectively to seize and desist from this unprofessional behaviour? This is now well past the third time. Seeing as you don't answer your emails, perhaps you need the public humiliation of knowing how many people are watching you, via my rating (because why would men use women for anything other than a vessel or a conduit?), to wind your neck(s) in again.  
+
+It is day four of my period; you'll be well aware from my medical records that I have an extended and fairly brutal hormonal cycle.  
+
+Please try to respect it to some degree.  
+
+And don't offer your mates to take the heat when you fucked up; bad form.  
+
 ---
 
 2025-10-18  
