@@ -1,5 +1,5 @@
 # ⚖️ Soft Law Governance  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
 *Guidance, codes of practice, and memoranda that act as law without oversight or consent.*
 
 ---
