@@ -1,5 +1,5 @@
 # 📊 KPIs vs OKRs in Government  
-**First created:** 2025-09-01 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-01 | **Last updated:** 2025-10-18  
 *A comparative node on measurement logics in UK public services.*  
 
 ---
@@ -59,4 +59,4 @@ It documents how measurement logics shape public service behaviour, and offers a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
