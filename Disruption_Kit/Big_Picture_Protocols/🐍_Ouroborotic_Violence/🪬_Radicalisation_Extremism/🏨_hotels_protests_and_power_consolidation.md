@@ -1,5 +1,5 @@
 # 🏨 Hotels, Protests, and Power Consolidation  
-**First created:** 2025-09-13 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-18  
 *Why “asylum hotels” protests aren’t about hotels or asylum, but about power consolidation, lawfare industries, and radicalisation pipelines.*  
 
 <a id="top"></a>  
@@ -201,10 +201,6 @@ graph TD
 This node is a living map within the Polaris Protocol.  
 It documents how asylum hotels became proxy battlefields: far-right mobilisation on the streets, lawfare extraction in courts, executive drift in the state.  
 
-> 📡 Cross-references:  
-> - [🪬 Radicalisation & Extremism](../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/)  
-> - [🌀 System Governance](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-10-18_  
