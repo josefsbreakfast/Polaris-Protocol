@@ -1,5 +1,5 @@
 # 🧟‍♀️ Frankenstack Bytes  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-05  
+**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
 *Frankenstack spin-offs — focused nodes tracing how hybrid behavioural systems generate and manage radicalisation, social-field effects, and recovery responses.*  
 
 ---
@@ -47,10 +47,10 @@ It extends **🪬 Radicalisation & Extremism** by gathering practical, clinical,
 
 > 📡 Cross-references:
 > 
-> - [🪬 Radicalisation & Extremism](../) — *parent cluster*  
-> - [🧟‍♀️ The Frankenstack Problem](../../🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md) — *systemic root*  
-> - [🐦‍🔥 Trauma Psychology Medical Misuse](../../🐦‍🔥_Trauma_Psycology_Medical_Misuse) — *clinical aftermaths*  
+> - [🪬 Radicalisation & Extremism](./README.md) — *parent cluster*  
+> - [🧟‍♀️ The Frankenstack Problem](../../../🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) — *systemic root*  
+> - [🐦‍🔥 Trauma Psychology Medical Misuse](../../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *clinical aftermaths*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-18_
