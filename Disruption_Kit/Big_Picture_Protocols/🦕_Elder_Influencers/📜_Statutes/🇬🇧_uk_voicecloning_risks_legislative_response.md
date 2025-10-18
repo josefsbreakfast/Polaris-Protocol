@@ -1,6 +1,6 @@
 # 🇬🇧 UK Voice-Cloning Risks & Legislative Response  
 **First created:** 2025-08-31 | **Last updated:** 2025-09-28  
-*Timeline of UK incidents and regulatory shifts around AI voice cloning*  
+*Timeline of UK incidents and regulatory shifts around AI voice cloning.*  
 
 ---
 
