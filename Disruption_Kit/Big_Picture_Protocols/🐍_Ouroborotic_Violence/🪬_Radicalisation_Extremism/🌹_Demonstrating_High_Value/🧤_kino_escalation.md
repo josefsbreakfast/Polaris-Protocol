@@ -1,5 +1,5 @@
 # 🧤 Kino Escalation  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *From step-by-step touching to step-by-step boundary-breaking.*  
 
 ---
@@ -117,12 +117,14 @@ The tactic’s logic has travelled far beyond bars and clubs. Today, its increme
 *Kino Escalation* is a living node of the Polaris Protocol.  
 It documents how a PUA tactic of physical manipulation translates into boundary erosion across politics, workplaces, grooming, and cult recruitment.  
 
-📡 Cross-references:  
-- [🌹 Negging](./🌹_Negging.md)  
-- [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md)  
-- [💊 Red Pill](./💊_red_pill.md)  
-- [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
+> 📡 Cross-references:  
+> 
+> - [🌹 Negging](./🌹_Negging.md) - *From backhanded compliment to weaponised irony*  
+> - [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md) - *From bar-room rivalry to political street violence*  
+> - [💊 Red Pill](./💊_red_pill.md) - *From PUA awakening metaphor to extremist radicalisation pipeline*  
+> - [🪬 Radicalisation & Extremism](../README.md) - 
+*Doctrines on far-right pipelines, state complicity, and diaspora radicalisation*    
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
