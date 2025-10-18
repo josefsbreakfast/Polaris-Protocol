@@ -51,9 +51,9 @@ It documents how unofficial rules and unpublished guidance create systems of con
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](../README.md)  
-> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md)
+> - [🌀 Systems & Governance](../README.md) - *How the systems we use interlace with what controls and powers them*  
+> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *Courts outsourcing responsibility back to the executive, reinforcing systemic impunity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-18_
