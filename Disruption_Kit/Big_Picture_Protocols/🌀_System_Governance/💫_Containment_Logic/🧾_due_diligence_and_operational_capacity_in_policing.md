@@ -1,5 +1,5 @@
 # 🧾 Due Diligence & Operational Capacity in Policing  
-**First created:** 2025-10-11  |  **Last updated:** 2025-10-14  
+**First created:** 2025-10-11  |  **Last updated:** 2025-10-18  
 *Why statutory safeguards depend on time, culture, and courage more than paperwork.*
 
 ---
@@ -68,10 +68,10 @@ It documents how formal safeguards rely on everyday professional diligence, show
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment & Cut-Through in the Legal Profession](../📜_Statutes/⚖️_containment_and_cutthrough_in_the_legal_profession.md) — *parallel professional dynamics*  
-> - [🏛️ Procedural Gatekeeping — Speaker & Leader Alignment](../📜_Statutes/🏛️_procedural_gatekeeping_speaker_leader_alignment.md) — *legislative oversight comparison*  
+> - [⚖️ Containment & Cut-Through in the Legal Profession](../💫_Containment_Logic/⚖️_containment_and_cutthrough_in_the_legal_profession.md) — *parallel professional dynamics*  
+> - [🏛️ Procedural Gatekeeping — Speaker & Leader Alignment](../🦕_Elder_Influencers/📜_Statutes/🏛️_procedural_gatekeeping.md) — *legislative oversight comparison*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
