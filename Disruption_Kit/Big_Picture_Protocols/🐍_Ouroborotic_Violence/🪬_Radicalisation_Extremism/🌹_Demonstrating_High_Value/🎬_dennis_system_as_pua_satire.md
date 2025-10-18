@@ -1,5 +1,5 @@
 # 🎬 Dennis System as PUA Satire  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *How It’s Always Sunny in Philadelphia lampooned the manipulative scripts of the pick-up artist world.*  
 
 ---
@@ -28,14 +28,15 @@ The humour comes not from endorsing the system but from showing how ridiculous, 
 ---
 
 ## 🏮 Footer  
-*Dennis System as PUA Satire* is a living node of the Polaris Protocol.  
+*🎬 Dennis System as PUA Satire* is a living node of the Polaris Protocol.  
 It highlights how satire has exposed abusive PUA logics, and how cultural recognition intersects with survivor testimony.  
 
-📡 Cross-references:  
-- [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)  
-- [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
-- [🧠 Psychological_Containment](../Metadata_Sabotage_Network/🧠_Psychological_Containment)  
+> 📡 Cross-references:
+> 
+> - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md) - *How pick-up artist subcultures seeded the rhetorical and behavioural DNA of far-right political masculinities*
+> - [🪬 Radicalisation & Extremism](../README.md) - *Doctrines on far-right pipelines, state complicity, and diaspora radicalisation*
+> - [🧠 Psychological Containment](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *Index of containment modes that operate through inner state manipulation — turning narrative, perception, and affect into cages*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
