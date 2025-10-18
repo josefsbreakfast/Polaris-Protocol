@@ -1,5 +1,5 @@
 # 🗝 Eccentric Custody: The Wellcome Collection  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
 *Henry Wellcome’s collection as a paradox of preservation: eccentric hoarding that saved global medical and erotic artifacts, but framed them through patriarchal and colonial obsessions.*  
 
 ---
@@ -68,10 +68,11 @@ The Wellcome Collection demonstrates how eccentric custodianship works:
 *Eccentric Custody: The Wellcome Collection* is a living node of the Polaris Protocol.  
 It examines how Henry Wellcome’s hoard functions simultaneously as containment device and survival archive.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🗝 Guardianship as Nonstate Custody](./🗝_guardianship_as_nonstate_custody.md)  
 > - [📖 Erased Archives & Survival Bias](./📖_erased_archives_and_survival_bias.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
