@@ -1,6 +1,6 @@
 # 📍 Postcode Harm Ecology: From Injury to Radicalisation  
-**First created:** 2025-09-10 | **Last updated:** 2025-09-13  
-*Mapping how accumulated harms at local level create radicalisation ecologies*  
+**First created:** 2025-09-10 | **Last updated:** 2025-10-18  
+*Mapping how accumulated harms at local level create radicalisation ecologies.*  
 
 ---
 
@@ -36,11 +36,12 @@ This is as true of alt-right emergence as it has been in UK case studies of Isla
 *Postcode Harm Ecology* is a structural node of the Polaris Protocol.  
 It traces how local harm accumulation becomes a demographic faultline and a vector for extremism.  
 
-> 📡 Cross-references:  
-> - [Structural Mapping](../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)  
-> - [Radicalisation & Extremism](../../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/)  
-> - [Danger Zone & Radiation of Harm](../../Polaris_Nest/Git_Intake_Drawer/☢️_danger_zone_radiation_of_harm.md)  
+> 📡 Cross-references:
+> 
+> - [Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)  
+> - [Radicalisation & Extremism](./README.md)  
+> - [Danger Zone & Radiation of Harm](../../../Containment_Scripts/Suppression_Modes/☢️_danger_zone_radiation_of_harm.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-10-18_
