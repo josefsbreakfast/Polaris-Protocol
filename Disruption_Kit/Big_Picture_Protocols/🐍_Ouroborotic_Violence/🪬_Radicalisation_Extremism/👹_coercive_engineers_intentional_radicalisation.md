@@ -1,5 +1,5 @@
 # 👹 Coercive Engineers — Intentional Radicalisation and the Normality Trap
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-08  
+**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
 *How deliberate actors exploit ordinary bias, stress, and digital systems to manufacture authoritarian momentum.*
 
 ---
