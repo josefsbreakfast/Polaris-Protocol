@@ -1,8 +1,6 @@
-# 🪦 Metadata Ghosts and Hauntings
-
-**First created:** 2025-08-12 | **Last updated:** 2025-08-30
-
-*Containment & anomaly typologies in Polaris visibility diagnostics.*
+# 🪦 Metadata Ghosts and Hauntings  
+**First created:** 2025-08-12 | **Last updated:** 2025-10-18  
+*Containment & anomaly typologies in Polaris visibility diagnostics.*  
 
 ---
 
@@ -96,9 +94,9 @@ An old post suddenly re-enters light circulation after a subtle interaction, mai
 *Metadata Ghosts and Hauntings* is a living node of the Polaris Protocol.  
 It defines ghost and haunting phenomena in visibility metrics and situates them as early indicators of covert suppression or silent amplification.
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
