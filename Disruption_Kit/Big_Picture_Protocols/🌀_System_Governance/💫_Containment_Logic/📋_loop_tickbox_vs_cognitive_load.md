@@ -1,5 +1,5 @@
 # 📋 Tickbox vs Cognitive Load  
-**First created:** 2025-09-24 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-24 | **Last updated:** 2025-10-18  
 *A feedback loop between institutional minimalism and survivor exhaustion.*
 
 ---
@@ -34,4 +34,4 @@ It diagrams a self-reinforcing loop where institutional minimalism (tick-box cul
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
