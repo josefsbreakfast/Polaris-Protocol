@@ -1,5 +1,5 @@
 # 🌹 Negging  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *From backhanded compliment to weaponised irony.*  
 
 ---
@@ -91,11 +91,12 @@ Negging is not confined to bars or online spaces — it appears in workplaces, d
 *Negging* is a living node of the Polaris Protocol.  
 It documents the continuity between PUA humiliation tactics, the irony-poisoned discourse of extremist movements, and the everyday harassment coded as “professional banter.”  
 
-📡 Cross-references:  
-- [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)  
-- [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
-- [👅 Voice_Disruption_Discrediting](../Metadata_Sabotage_Network/👅_Voice_Disruption_Discrediting)  
+> 📡 Cross-references:
+>
+> - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)
+> - [🪬 Radicalisation_Extremism](../README.md)
+> - [👅 Voice_Disruption_Discrediting](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
