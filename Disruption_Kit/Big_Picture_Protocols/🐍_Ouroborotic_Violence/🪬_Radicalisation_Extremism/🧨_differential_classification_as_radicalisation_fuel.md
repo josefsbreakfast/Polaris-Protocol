@@ -1,7 +1,6 @@
-
-# 🧨 Differential Classification as Radicalisation Fuel
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
-*Unequal terrorism designations as a driver of radicalisation and public confusion.*
+# 🧨 Differential Classification as Radicalisation Fuel  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-18  
+*Unequal terrorism designations as a driver of radicalisation and public confusion.*  
 
 ---
 
@@ -43,10 +42,11 @@ radicalisation, extremism, bias, OSINT, policing ethics, equal application, digi
 *Differential Classification as Radicalisation Fuel* is a living node of the Polaris Protocol.  
 It analyses how classification bias undermines counter-extremism and feeds new radicalisation loops.  
 
-> 📡 Cross-references:  
-> - [⚖️ The Rule-of-Law Trust Deficit](../🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)  
+> 📡 Cross-references:
+> 
+> - [⚖️ The Rule-of-Law Trust Deficit](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_the_rule_of_law_trust_deficit.md)  
 > - [🩸 The Repetition Mechanism](../🗝️_Politics_Memory_Work/🩸_the_repetition_mechanism.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-18_
