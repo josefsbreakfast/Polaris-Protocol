@@ -1,5 +1,5 @@
 # 🗝 Contingency Erasure  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-04  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
 *The deletion of drafts, working notes, and decision traces that once revealed process — leaving only curated final versions and erasing dissent from the record.*
 
 ---
@@ -79,12 +79,13 @@ document deletion, version control, metadata shredding, administrative amnesia, 
 *🗝 Contingency Erasure* is a living node of the Polaris Protocol.  
 It documents how **draft destruction and metadata purging** operate as tools of control, rewriting institutional memory to erase dissent and survivor context — and identifies countermeasures to preserve process truth.  
 
-> 📡 Cross-references:  
-> - [🗝 Privatised Record Keeping](./🗝_privatised_record_keeping.md) — commercial custody and data enclosure  
-> - [📜 Freedom of Information Loopholes](./📜_freedom_of_information_loopholes.md) — legal transparency containment  
-> - [🌀 System Governance](../../🌀_System_Governance/) — governance diagnostics and structural levers  
-> - [🧿 Watch The Watchers](../../🧿_Watch_The_Watchers/) — oversight of oversight mechanisms  
+> 📡 Cross-references:
+> 
+> - [🗝 Privatised Record Keeping](./🗝_privatised_record_keeping.md) — *commercial custody and data enclosure*  
+> - [📜 Freedom of Information Loopholes](./📜_freedom_of_information_loopholes.md) — *legal transparency containment*  
+> - [🌀 System Governance](../../🌀_System_Governance/README.md) — *governance diagnostics and structural levers*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
