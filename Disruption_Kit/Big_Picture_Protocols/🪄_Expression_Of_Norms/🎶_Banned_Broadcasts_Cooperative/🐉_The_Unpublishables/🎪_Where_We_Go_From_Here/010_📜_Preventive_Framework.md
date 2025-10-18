@@ -1,5 +1,5 @@
 # 📜 Preventive Framework — UN Atrocity Indicators Applied to the UK Context
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-09  
+**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
 *Adapting the United Nations and Stanton atrocity-risk frameworks to a domestic lens—testing early-warning criteria within modern democratic systems.*
 
 ---
