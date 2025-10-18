@@ -1,5 +1,5 @@
 # 🧥 Empire’s Old Coat  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2025-10-18  
 *On Britain’s white commentary about Israel/Palestine and the recycled colonial wardrobe it comes from.*  
 
 ---
@@ -37,11 +37,12 @@ flowchart LR
 *🧥 Empire’s Old Coat* is a node of the Polaris Protocol.  
 It traces how British commentary on Israel/Palestine repeats colonial tones, erases domestic impact, and drapes itself in the moth-eaten wardrobe of empire.  
 
-> 📡 Cross-references:  
-> - [🗝️ Politics_Memory_Work](../🗝️_politics_memory_work.md) — suppression, memory, and projection logics  
-> - [🕸️ World_Webs](../🕸️_world_webs.md) — diasporas and entanglements  
-> - [📜 Statutes](../📜_statutes.md) — legislative echoes of colonial logics  
+> 📡 Cross-references:
+> 
+> - [🗝️ Politics_Memory_Work](./README.md) — *suppression, memory, and projection logics*  
+> - [🕸️ World_Webs](../🦕_Elder_Influencers/🕸️_World_Webs/README.md) — *diasporas and entanglements*  
+> - [📜 Statutes](../🦕_Elder_Influencers/📜_Statutes/README.md) — *legislative echoes of colonial logics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_  
+_Last updated: 2025-10-18_  
