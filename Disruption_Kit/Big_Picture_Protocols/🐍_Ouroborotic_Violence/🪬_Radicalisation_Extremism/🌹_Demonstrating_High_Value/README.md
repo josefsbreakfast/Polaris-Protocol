@@ -1,5 +1,5 @@
  # 🌹 Demonstrating High Value  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *From pick-up artist boast to political masculinity grievance.*  
 
 ---
@@ -45,4 +45,4 @@ It tracks how a PUA tactic of self-aggrandisement mutates into political grievan
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_  
+_Last updated: 2025-10-18_  
