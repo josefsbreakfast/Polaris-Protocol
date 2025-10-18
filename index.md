@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 03:09:38 UTC_
+_Generated on 2025-10-18 03:10:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -223,7 +223,7 @@ _Generated on 2025-10-18 03:09:38 UTC_
         - [`🪮_on_hair_and_memory.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪮_on_hair_and_memory.md)
         - [`🪷_being_soft_does_take_pretty_big_balls_actually.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪷_being_soft_does_take_pretty_big_balls_actually.md)
         - [`🫀_holding_a_weapon_you_do_not_understand.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_do_not_understand.md)
-        - [`🫛_amplification_by_convergence_2.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence_2.md)
+        - [`🫛_amplification_by_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)
         - [`🫜_asymmetric_discourse_policing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫜_asymmetric_discourse_policing.md)
         - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
       - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/)
