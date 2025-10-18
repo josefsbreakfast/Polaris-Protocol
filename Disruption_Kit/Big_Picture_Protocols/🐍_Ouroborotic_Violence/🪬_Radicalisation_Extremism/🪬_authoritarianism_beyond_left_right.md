@@ -1,5 +1,5 @@
 # 🪬 Authoritarianism Beyond Left Right  
-**First created:** 2025-09-19 | **Last updated:** 2025-10-17  
+**First created:** 2025-09-19 | **Last updated:** 2025-10-18  
 *Why fascism adapts dynamically across the political spectrum and why ideological classification fails to contain it.*  
 
 ---
@@ -56,10 +56,11 @@ Popular culture echoes this recognition problem. In DC Comics, **GI Robot** is b
 *Authoritarianism Beyond Left Right* is a living node of the Polaris Protocol.  
 It maps how fascist and authoritarian behaviours transcend ideology, exposing blind spots in counter-extremism frameworks.  
 
-> 📡 Backlinks:  
-> - [🏛️ Master Council Overlay Table](../🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md) — council-level case overlays  
-> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — systemic outsourcing logics  
+> 📡 Cross-references:
+> 
+> - [🏛️ Master Council Overlay Table](./🏛️_master_council_overlay_table.md) — *council-level case overlays*  
+> - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *systemic outsourcing logics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-17_  
+_Last updated: 2025-10-18_  
