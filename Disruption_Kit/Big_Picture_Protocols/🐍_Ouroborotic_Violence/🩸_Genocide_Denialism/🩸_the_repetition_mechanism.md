@@ -1,5 +1,5 @@
 # 🩸 The Repetition Mechanism
-**First created:** 2025-10-06 | **Last updated:** 2025-10-11  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-18  
 *Selective enforcement as a rehearsal of genocidal permissibility.*
 
 ---
@@ -42,9 +42,9 @@ It situates contemporary classification bias within historical patterns of permi
 
 > 📡 Cross-references:
 > 
-> - [🧨 Differential Classification as Radicalisation Fuel](../🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)  
-> - [⚖️ The Rule-of-Law Trust Deficit](../🌀_System_Governance/⚖️_the_rule_of_law_trust_deficit.md)  
+> - [🧨 Differential Classification as Radicalisation Fuel](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md) - *Unequal terrorism designations as a driver of radicalisation and public confusion*  
+> - [⚖️ The Rule-of-Law Trust Deficit](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_the_rule_of_law_trust_deficit.md) - *Governance analysis of unequal terrorism classification and its effect on public legitimacy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-18_
