@@ -1,6 +1,6 @@
 # 📜 Statutes  
 **First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*A live ledger of statutory, contractual, and quasi-legal instruments that scaffold suppression*
+*A live ledger of statutory, contractual, and quasi-legal instruments that scaffold suppression.*
 
 ---
 
