@@ -1,5 +1,5 @@
 # 🏛 British Museum Act (1963 Futility)  
-**First created:** 2025-09-13 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-18  
 *How a statute written in the afterglow of empire turned looted artefacts into a permanent collection, locking restitution into a cycle of exhaustion and denial.*
 
 ---
@@ -49,10 +49,11 @@
 *British Museum Act (1963 Futility)* is a living node of the Polaris Protocol.  
 It documents how statute itself can become a containment script: freezing theft into heritage, and exhausting any attempt at restitution.  
 
-> 📡 Cross-references:  
-> - [🌑 Induced Futility](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility_2025-09-13.md) — futility as systemic sabotage  
-> - [Politics & Memory](../) — laws and archives as instruments of denial  
+> 📡 Cross-references:
+> 
+> - [🌑 Induced Futility](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility_2025-09-13.md) — *futility as systemic sabotage*  
+> - [Politics & Memory](./README.md) — *laws and archives as instruments of denial*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-10-18_
