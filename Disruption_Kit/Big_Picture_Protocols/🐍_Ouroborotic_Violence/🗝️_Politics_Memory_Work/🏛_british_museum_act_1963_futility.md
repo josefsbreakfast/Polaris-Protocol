@@ -51,8 +51,8 @@ It documents how statute itself can become a containment script: freezing theft 
 
 > 📡 Cross-references:
 > 
-> - [🌑 Induced Futility](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility_2025-09-13.md) — *futility as systemic sabotage*  
-> - [Politics & Memory](./README.md) — *laws and archives as instruments of denial*  
+> - [🌑 Induced Futility](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility_2025-09-13.md) — *futility as systemic sabotage*  
+> - [🗝️ Political Economy & Memory Work](./README.md) — *laws and archives as instruments of denial*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
