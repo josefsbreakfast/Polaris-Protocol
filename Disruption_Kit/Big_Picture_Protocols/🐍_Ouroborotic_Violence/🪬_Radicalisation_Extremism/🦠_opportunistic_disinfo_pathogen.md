@@ -1,5 +1,5 @@
 # 🦠 Opportunistic Disinformation Pathogen  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-05  
+**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
 *Mid-2010s conditions as an “open host” for disinformation to evolve like a pathogen.*
 
 ---
@@ -38,10 +38,11 @@ mid-2010s, disinformation pathogen, opportunistic actors, attack surface, meme w
 *🦠 Opportunistic Disinformation Pathogen* is a stub node of the Polaris Protocol.  
 It records an emergent framing of the mid-2010s as a “pathogen moment” for disinformation, where conditions not masterminds drove escalation.
 
-> 📡 Cross-references:  
-> - [🧟‍♀️ Frankenstack Bytes](../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/) — platform dynamics and radicalisation  
-> - [🪆 Narrative Interference](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference.md) — semantic drift and clone tone  
+> 📡 Cross-references:
+> 
+> - [🧟‍♀️ Frankenstack Bytes](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/README.md) — *platform dynamics and radicalisation*  
+> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md) — *semantic drift and clone tone*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-18_
