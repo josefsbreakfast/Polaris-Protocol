@@ -1,5 +1,5 @@
 # 🐺 AMOG (Alpha Male of Group): A Joke 
-**First created:** 2025-09-27 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *From bar-room rivalry to political street violence.*  
 
 ---
@@ -171,12 +171,13 @@ To devour the pretence so that the man — not the mask — can live.
 *AMOG (Alpha Male of Group)* is a living node of the Polaris Protocol.  
 It documents how bar-room rivalry logics became the street theatre of political extremism, and how the same tactics corrode workplaces.  
 
-📡 Cross-references:  
-- [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)  
-- [🪬 Radicalisation & Extremism](../README.md)  
-- [🌹 Negging](./🌹_negging.md)  
-- [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
+> 📡 Cross-references:
+> 
+> - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md) - *How pick-up artist subcultures seeded the rhetorical and behavioural DNA of far-right political masculinities*
+> - [🪬 Radicalisation & Extremism](../README.md) - *Doctrines on far-right pipelines, state complicity, and diaspora radicalisation*  
+> - [🌹 Negging](./🌹_negging.md) - *From backhanded compliment to weaponised irony*  
+> - [🧠 Psychological Containment](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *Index of containment modes that operate through inner state manipulation — turning narrative, perception, and affect into cages*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-18_  
