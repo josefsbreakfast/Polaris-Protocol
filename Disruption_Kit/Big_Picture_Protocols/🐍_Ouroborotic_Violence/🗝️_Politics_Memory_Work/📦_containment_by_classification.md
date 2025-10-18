@@ -1,5 +1,5 @@
 # 📦 Containment by Classification  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-29 | **Last updated:** 2025-10-18  
 *How misidentification, racialisation, and demographic boxes are weaponised as suppression tactics.*  
 
 ---
@@ -67,11 +67,12 @@ containment, classification, misidentification, antisemitism, tick-box fragility
 *Containment by Classification* is a living node of the Polaris Protocol.  
 It records how rigid categories — racial, religious, or demographic — are used to suppress, misidentify, and contain.  
 
-> 📡 Cross-references:  
-> - [Politics_Memory_Work](../Politics_Memory_Work/) — on memory, narrative suppression, and politicised identity  
-> - [👅 Voice Disruption Discrediting](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_voice_disruption_discrediting.md) — on smears and misidentification tactics  
-> - [🔥 Suppression as Signal](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_suppression_as_signal.md) — on censorship and banned media as systemic indicators  
+> 📡 Cross-references:
+> 
+> - [🗝️ Political Economy &_Memory_Work](./README.md) — *on memory, narrative suppression, and politicised identity*  
+> - [👅 Voice Disruption Discrediting](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *on smears and misidentification tactics*  
+> - [🔥 Suppression as Signal](./🔥_suppression_as_signal.md) —* on censorship and banned media as systemic indicators*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-10-18_  
