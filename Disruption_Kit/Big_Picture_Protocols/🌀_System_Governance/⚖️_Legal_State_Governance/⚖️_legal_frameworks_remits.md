@@ -305,7 +305,7 @@ It maps the statutory architectures, oversight systems, and shadow logics that d
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) - *oversight inspections of UK intelligence services*  
 > - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *courts leaning away from intervention*  
 > - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) - *tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
-> - [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) - *Prevent logic and governance suppression frameworks*  
+> - [🈺 Governance and Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) - *Prevent logic and governance suppression frameworks*  
 > - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural science repurposed as state containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
