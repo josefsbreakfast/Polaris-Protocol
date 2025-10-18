@@ -1,6 +1,6 @@
 # ✍️ Crime Writing as Normalisation  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On how the aesthetics of crime fiction train publics to desire surveillance and moral certainty*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*On how the aesthetics of crime fiction train publics to desire surveillance and moral certainty.*
 
 ---
 
@@ -79,4 +79,4 @@ Every crime story teaches its reader where to place the camera.
 This node studies who benefits when we never look away.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
