@@ -1,4 +1,4 @@
-[This exists as a node in Radicalisation & Extremism, here](../../../🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)
+[This exists as a node in Radicalisation & Extremism, here](../../../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)
 
 *Repeated below for ease, as taken on 2025-10-10, from above linked node:*
 
