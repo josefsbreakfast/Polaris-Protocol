@@ -1,5 +1,5 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-08 | **Last updated:** 2025-10-18  
 *How redundant churches could seed civic renewal instead of grievance economies.*
 
 ---
@@ -63,10 +63,10 @@ It proposes how legal reform and civic imagination could turn redundant church p
 
 > 📡 Cross-references:
 > 
-> - [🧠 HM Dept Coercive Nudges](../../🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural architecture*  
-> - [🌱 Human Principles](../../🌱_Human_Principles/README.md) — *dignity frameworks*  
-> - [🕯 Exorcising Safeguarding Shadows](../../🕯_Exorcising_Safeguarding_Shadows/README.md) — *moral authority audits*  
+> - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural architecture*  
+> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *dignity frameworks*  
+> - [🕯 Exorcising Safeguarding Shadows](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md) — *moral authority audits*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
