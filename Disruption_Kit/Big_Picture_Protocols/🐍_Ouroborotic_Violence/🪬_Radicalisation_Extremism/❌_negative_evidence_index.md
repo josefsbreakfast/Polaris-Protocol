@@ -1,5 +1,5 @@
 # ❌ Negative Evidence Index  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-18  
 *Tracking the disappearance of CSE improvement reports as evidence in itself.*  
 
 ---
@@ -70,10 +70,11 @@ The presence or absence of safeguarding review documents is not neutral.
 *Negative Evidence Index* is a living node of the Polaris Protocol.  
 It demonstrates that absence itself is evidence: where councils have erased safeguarding reports, it indicates unease, fragility, and a strategy of forgetting.  
 
-> 📡 Backlinks:  
-> - [🏛️ Master Council Overlay Table](../Big_Picture_Protocols/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md) — consolidated CSE cases and political context  
-> - [🪬 Radicalisation & Extremism](../Big_Picture_Protocols/🪬_radicalisation_extremism.md) — systemic logics of far-right mobilisation around CSE narratives  
+> 📡 Cross-references:
+> 
+> - [🏛️ Master Council Overlay Table](./🏛️_master_council_overlay_table.md) — *consolidated CSE cases and political context*  
+> - [🪬 Radicalisation & Extremism](./RAEDME.md) — *systemic logics of far-right mobilisation around CSE narratives*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_
+_Last updated: 2025-10-18_
