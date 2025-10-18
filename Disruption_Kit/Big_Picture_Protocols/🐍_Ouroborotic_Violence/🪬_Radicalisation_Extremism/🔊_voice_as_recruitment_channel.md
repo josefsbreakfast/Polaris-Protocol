@@ -1,5 +1,5 @@
 # 🔊 Voice as Recruitment Channel  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
 *On how podcasts, livestreams, and cloned voices transmit extremist worldviews faster and deeper than text.*
 
 ---
@@ -88,4 +88,4 @@ Every broadcast builds a room.
 This node listens for the moment conversation becomes command.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
