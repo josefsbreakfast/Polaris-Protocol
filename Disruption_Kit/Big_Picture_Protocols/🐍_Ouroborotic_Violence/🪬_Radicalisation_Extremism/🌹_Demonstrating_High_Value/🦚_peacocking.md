@@ -1,5 +1,5 @@
 # 🦚 Peacocking  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2025-10-18  
 *Exaggerated self-display as a demonstration of high value in PUA and extremist recruitment scripts.*  
 
 ---
@@ -77,10 +77,11 @@ peacocking, pickup artistry, high value demonstration, spectacle, radicalisation
 It maps the tactic of exaggerated self-display as a throughline from pickup artistry  
 to radicalisation, extremist uniforms, and collective spectacle.  
 
-> 📡 Cross-references:  
-> - [🌹 Demonstrating High Value](./) — PUA tactics and radicalisation links  
-> - [🪬 PUA to Far Right Pipeline](./🪬_pua_to_far_right_pipeline.md)  
+> 📡 Cross-references:
+> 
+> - [🌹 Demonstrating High Value](./README.md) — *PUA tactics and radicalisation links*  
+> - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md) - *How pick-up artist subcultures seeded the rhetorical and behavioural DNA of far-right political masculinities*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-18_
