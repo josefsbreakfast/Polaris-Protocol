@@ -1,6 +1,6 @@
 # 🌍 Climate Panic Routing  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On the extremist capture of climate despair — eco-fascism, collapse prepping, and recruitment through environmental grief*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*On the extremist capture of climate despair — eco-fascism, collapse prepping, and recruitment through environmental grief.*
 
 ---
 
@@ -62,4 +62,4 @@ This node studies how hope is re-engineered into fear, and how fear is repackage
 The climate was never the only thing being engineered.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
