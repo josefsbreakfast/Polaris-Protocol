@@ -47,6 +47,29 @@ Fancy reviewing that IPA/RIPA warrant that isn't worth the paper it's written on
 
 I don't feel like I am The Problem.   
 
+But as it's highly unlikely that you'll let it go and a number of you seem to be taking an opinion contrary to the official UK position on the matter?  
+
+Free Palestine. 🍉  
+
+Which:
+- is not genocidal, and as a Palestinian reclaiming of a Likud (anti-Palestinian, part of the genocide evidence) slogan;  
+- Calls for liberation on the Constitution of the state of Israel's own terms, the problem being that the Knesset consistently refuses to honour the constitution of the state of Israel saying that it's not legally binding, because if it was there would be no apartheid.
+
+Does it not embarrass you all to support this?  
+
+And not only to support it, but also to use bizarre non-arguments in the law to attempt to silence any criticism of it?  
+
+Is there honestly not one single person who wants something better?  
+
+I think the responses I got to surveillance and interference after leaving Wretched of the Earth on were very telling. And I think some the more racist charactatures have been very telling as well.  
+
+It's worth understanding how processes like the ending of a part in South Africa we're actually a lot more violent for black South Africans than white South Africans; not every ending to colonialism (or as close to an ending as has been achieved) is going to be inherently violent in the same way that the ending of French rule in Algeria was, but it is worth noting that is because of the procursive violence, and because of the violence which escalated towards the end, which Fanon details extensively, that violence is colonial mimicry continues in the birth of or after liberation. I understand how terrifying that feels, to be in the position of the coloniser, and think well... what will happen to me? It's an incredibly hard set of feelings and I am not saying that this is inherently easy for you; it's not inherently easy for me. I'm a realist and pragmatist; transformational change has to happen, if we want to reduce that risk of violence. I know we can't help but be born in the place in time that we were. The thing is, the longer we keep a system in place which is brutally violent towards others, the greater the risk of violence we are ourselves prolonging. No one deserves to be in the cycle. If we are angry about European response to the holocaust, or the lack of real emancipation in the UK (although again I don't think the lost little Christian boys can really weigh in on that one), then deflecting the violence to someone else will never get us what we want.  
+
+But that is a very complex argument and really I am just doing what a lot of people in behavioural insights in industry do -- I am simply putting data point one and data point two, together, and calling it a conclusion.  
+I made a drawing conclusions of what seems familiar and similar, of my experience over time, and discussing patterns; sometimes I get on a tangent.  
+
+And I've been thinking a lot about Iron Swords and Palestine recently.  
+
 ---
 
 2025-10-18  
