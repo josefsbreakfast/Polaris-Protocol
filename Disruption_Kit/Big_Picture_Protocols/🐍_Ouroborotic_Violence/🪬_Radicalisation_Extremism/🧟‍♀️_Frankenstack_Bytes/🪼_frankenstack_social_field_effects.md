@@ -64,9 +64,9 @@ It complements *The Frankenstack Problem* and *Frankenstack Radicalisation Hypot
 
 > 📡 Cross-references:
 > 
-> - [🧟‍♀️ The Frankenstack Problem](./🧟‍♀️_the_frankenstack_problem.md)  
-> - [🪬 Frankenstack Radicalisation Hypothesis] *TBC*  
-> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — related sensory/behavioural suppression patterns  
+> - [🧟‍♀️ The Frankenstack Problem](../../../🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)  
+> - [🪬 Frankenstack Radicalisation Hypothesis](./🧟‍♀️_frankenstack_radicalisation_hypothesis.md)  
+> - [🧠 Psychological Containment](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — related sensory/behavioural suppression patterns  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
