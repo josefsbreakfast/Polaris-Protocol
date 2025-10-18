@@ -1,5 +1,5 @@
 # ⚖️ Shadow Governance Timeline  
-**First created:** 2025-09-05 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-05 | **Last updated:** 2025-10-18  
 *How cumulative crises since 2008 hollowed governance and expanded reliance on fixers and shadow networks.*
 
 ---
@@ -67,9 +67,9 @@ It documents how successive crises hollowed state capacity, producing reliance o
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Operational Dilemma: Fix It vs Chain of Command](../⚖️_operational_dilemma_fixit_vs_chain_of_command.md)  
+> - [⚖️ Operational Dilemma: Fix It vs Chain of Command](../💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)  
 > - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-18_
