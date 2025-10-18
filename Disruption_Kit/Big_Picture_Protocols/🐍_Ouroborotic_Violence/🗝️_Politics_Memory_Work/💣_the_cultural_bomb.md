@@ -1,5 +1,5 @@
 # 💣 The Cultural Bomb  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *Ngũgĩ wa Thiong’o’s concept of colonial culture as a weapon of erasure.*  
 
 ---
@@ -128,10 +128,11 @@ For survivors, naming the cultural bomb matters because:
 *The Cultural Bomb* is a living node of the Polaris Protocol.  
 It situates Ngũgĩ’s insight within survivor memory work, tracing how colonial sabotage of Kikuyu rituals, epistemologies, and institutions prefigures digital and migration containment today.  
 
-> 📡 Cross-references:  
-> - [🗝️ Politics_Memory_Work](../🗝️_Politics_Memory_Work/) — systemic suppression of memory and narrative  
-> - [🎶 Banned_Broadcasts_Cooperative](../🎶_Banned_Broadcasts_Cooperative/) — cultural removals and broadcast bans  
+> 📡 Cross-references:
+> 
+> - [🗝️ Political Economy &_Memory_Work](./README.md) — *systemic suppression of memory and narrative*  
+> - [🎶 Banned_Broadcasts_Cooperative](../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural removals and broadcast bans*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-10-18_
