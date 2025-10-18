@@ -63,9 +63,9 @@ It outlines the inspection and compliance processes that govern MI5, MI6, and GC
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Authorisation and Oversight](../⚖️_authorisation_and_oversight.md) — *where permissioning meets opacity*  
+> - [⚖️ Authorisation and Oversight](../⚖️_authorisation_and_oversight.md) — *Where permissioning meets opacity*  
 > - [🧬 Data Anomalies: Twins & Zombies](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)  
-> - [🧬 Data Correction Notices](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
+> - [🧬 Data Correction Notices](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md) - *Internal mechanisms for correcting anomalies in intelligence systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
