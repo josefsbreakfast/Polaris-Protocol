@@ -1,5 +1,5 @@
 # 🗝 Guardianship as Nonstate Custody  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
 *How private dynasties act as nonstate guardians of archives and artifacts, preserving material while enclosing it behind class barriers.*  
 
 ---
@@ -58,10 +58,11 @@ Nonstate custody is a paradox:
 *Guardianship as Nonstate Custody* is a living node of the Polaris Protocol.  
 It documents the ambiguous role of private dynasties in preserving archives and artifacts.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🗝 Eccentric Custody: The Wellcome Collection](./🗝_eccentric_custody_wellcome_collection.md)  
 > - [📖 Erased Archives & Survival Bias](./📖_erased_archives_and_survival_bias.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
