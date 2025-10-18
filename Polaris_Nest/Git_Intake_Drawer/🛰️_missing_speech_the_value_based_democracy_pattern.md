@@ -100,6 +100,7 @@ It documents how democratic rhetoric itself can become an artefact of informatio
 
 > 📡 Cross-references:
 > - [🕳️ Curated Amnesia Has A Shape](../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
+> - [📚 Forensic Silence](../📚_Narrative_Management/📚_forensic_silence.md) - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*    
 > - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](🏛️_how_genocidal_bureaucracy_operates_the_wannsee_template.md)  
 > - [⚖️ Due Diligence as Moral Defence](⚖️_due_diligence_as_moral_defence.md)  
 > - [🪶 Reading the Dog Whistle](🪶_reading_the_dog_whistle.md)  
