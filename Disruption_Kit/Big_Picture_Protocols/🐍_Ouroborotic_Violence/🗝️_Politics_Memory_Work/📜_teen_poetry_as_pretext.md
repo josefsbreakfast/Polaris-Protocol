@@ -1,5 +1,5 @@
 # 📜 Teen Poetry as Pretext  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-21 | **Last updated:** 2025-10-18  
 *How adolescent expression under pseudonyms is misframed as “extremism evidence”.*  
 
 ---
@@ -39,10 +39,11 @@ In vendetta-driven or panic-driven systems, such material is reinterpreted as:
 *Teen Poetry as Pretext* is a living node of the Polaris Protocol.  
 It illustrates how banal creative expression can be weaponised as institutional justification for vendetta, producing absurd yet enduring harms.  
 
-> 📡 Cross-references:  
-> - [🧪 Ego Insurance But Make It Personal](../Disruption_Kit/Big_Picture_Protocols/🧪_ego_insurance_but_make_it_personal.md)  
-> - [Metadata Sabotage Network](../Disruption_Kit/Metadata_Sabotage_Network/)  
+> 📡 Cross-references:
+> 
+> - [🧪 Ego Insurance But Make It Personal](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧪_ego_insurance_but_make_it_personal.md)  
+> - [🧠 Metadata Sabotage Network](../../../../Metadata_Sabotage_Network/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-10-18_
