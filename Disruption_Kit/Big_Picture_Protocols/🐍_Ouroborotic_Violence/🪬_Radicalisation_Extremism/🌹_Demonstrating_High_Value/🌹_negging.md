@@ -93,9 +93,9 @@ It documents the continuity between PUA humiliation tactics, the irony-poisoned 
 
 > 📡 Cross-references:
 >
-> - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md)
-> - [🪬 Radicalisation_Extremism](../README.md)
-> - [👅 Voice_Disruption_Discrediting](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)  
+> - [🪬 PUA to Far-Right Pipeline](./🪬_pua_to_far_right_pipeline.md) - *How pick-up artist subcultures seeded the rhetorical and behavioural DNA of far-right political masculinities*  
+> - [🪬 Radicalisation & Extremism](../README.md) - *Doctrines on far-right pipelines, state complicity, and diaspora radicalisation*  
+> - [👅 Voice_Disruption_Discrediting](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) - *On voice-targeted smears, sexualisation, and reputational sabotage as techniques of metadata control*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
