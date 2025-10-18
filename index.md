@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-18 03:11:02 UTC_
+_Generated on 2025-10-18 03:16:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1418,6 +1418,7 @@ _Generated on 2025-10-18 03:11:02 UTC_
     - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
     - [`⚖️_due_diligence_as_moral_defence.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_due_diligence_as_moral_defence.md)
     - [`⚖️_the_history_of_justice_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_history_of_justice_as_spectacle.md)
+    - [`⚙️_overdrive_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_overdrive_capitalism.md)
     - [`✨_my_boy_lawrence.md`](Polaris_Nest/Git_Intake_Drawer/✨_my_boy_lawrence.md)
     - [`✨_my_laughter_breaks_fibre_broadband.md`](Polaris_Nest/Git_Intake_Drawer/✨_my_laughter_breaks_fibre_broadband.md)
     - [`🇵🇸_tort_warning.md`](Polaris_Nest/Git_Intake_Drawer/🇵🇸_tort_warning.md)
@@ -1465,6 +1466,7 @@ _Generated on 2025-10-18 03:11:02 UTC_
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🧠_multilock_overlapping_systems_coercive_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_systems_coercive_systems.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
+    - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
     - [`🧬_collocative_integrity_and_metadata_inertia.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_integrity_and_metadata_inertia.md)
     - [`🧬_dopamine_depletion.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dopamine_depletion.md)
     - [`🧮_7_day_word_count_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧮_7_day_word_count_analysis.md)
@@ -1476,11 +1478,14 @@ _Generated on 2025-10-18 03:11:02 UTC_
     - [`🧿_my_feed_needs_a_sweep.md`](Polaris_Nest/Git_Intake_Drawer/🧿_my_feed_needs_a_sweep.md)
     - [`🧿_server_lag_github.md`](Polaris_Nest/Git_Intake_Drawer/🧿_server_lag_github.md)
     - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
+    - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🪄_update_mysteriously_reappearing_book.md`](Polaris_Nest/Git_Intake_Drawer/🪄_update_mysteriously_reappearing_book.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪞_safes_shelves_and_servers.md`](Polaris_Nest/Git_Intake_Drawer/🪞_safes_shelves_and_servers.md)
+    - [`🪞_the_visibility_trap.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_visibility_trap.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
+    - [`🪬_xenofeminism_link_note.md`](Polaris_Nest/Git_Intake_Drawer/🪬_xenofeminism_link_note.md)
     - [`🪶_reading_the_dog_whistle.md`](Polaris_Nest/Git_Intake_Drawer/🪶_reading_the_dog_whistle.md)
     - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Polaris_Nest/Git_Intake_Drawer/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
     - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Polaris_Nest/Git_Intake_Drawer/🪻_lavender_fields_uk_transplant_legal_overview.md)
