@@ -1,5 +1,5 @@
 # 🧪 Failure Recycling  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
 *Discredited models rebranded and reintroduced — failure dressed as innovation.*  
 
 ---
@@ -173,9 +173,9 @@ It documents the loop through which failed models are continually repackaged as 
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](../README.md) — *parent cluster of governance diagnostics*  
-> - [👀 Failure Cycle vs Reported Improvements](../../🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md) — *companion diagnostic map*  
+> - [🌀 Systems & Governance](../README.md) — *parent cluster of governance diagnostics*  
+> - [👀 Failure Cycle vs Reported Improvements](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md) — *companion diagnostic map*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_  
+_Last updated: 2025-10-18_  
