@@ -1,6 +1,6 @@
 # 🕹️ Gamified Extremism  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On how gaming environments, Discord servers, and meme cultures have become live-training grounds for far-right and accelerationist logics*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*On how gaming environments, Discord servers, and meme cultures have become live-training grounds for far-right and accelerationist logics.*
 
 ---
 
@@ -89,4 +89,4 @@ Every game teaches a grammar of winning.
 This node asks what happens when victory becomes belief.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
