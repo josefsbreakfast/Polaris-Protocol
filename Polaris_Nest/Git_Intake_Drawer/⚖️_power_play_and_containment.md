@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Modern capitalist societies make high-stakes decisions constant: every job, lease, loan, or policy renewal is a contract that binds risk to reputation.  
 When power is everywhere formalised, people begin to rehearse and parody it through play.  
 The same circuitry that governs debt, hierarchy, and etiquette becomes a grammar for intimacy, humour, and rebellion.
@@ -110,7 +110,9 @@ If you feel socially above the latter, consider how that distinction has been co
 
 To keep oneself and one’s family warm and fed in a precarious economy is **entrepreneurship, adaptability, and grit**.  
 You cannot celebrate these virtues in abstract capitalism while denying honour to those who demonstrate them in its most exposed form.  
-The moral discomfort lies not in the labour, but in the mirror it holds to the system that makes survival conditional on performance and decorum.
+The moral discomfort lies not in the labour, but in the mirror it holds to the system that makes survival conditional on performance and decorum.  
+
+If you really could stand the heat, you are welcome to get yourself in the kitchen - especially the men.  
 
 ---
 
