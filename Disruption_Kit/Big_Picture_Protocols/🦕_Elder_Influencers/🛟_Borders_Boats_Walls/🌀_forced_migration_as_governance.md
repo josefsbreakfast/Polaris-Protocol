@@ -1,6 +1,6 @@
 # 🌀 Forced Migration as Governance  
 **First created:** 2025-09-27 | **Last updated:** 2025-09-27  
-*How empire displaced populations to fracture cohesion and control labour*  
+*How empire displaced populations to fracture cohesion and control labour.*  
 
 ---
 
