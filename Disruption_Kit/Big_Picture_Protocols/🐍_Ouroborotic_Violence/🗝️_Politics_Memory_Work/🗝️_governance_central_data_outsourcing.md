@@ -1,5 +1,5 @@
 # 🗝️ Governance of Sensitive Data and Outsourcing  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-01 | **Last updated:** 2025-10-18  
 *On Palantir, privatised sovereignty, and imperial echoes in UK state systems.*  
 
 ---
@@ -57,10 +57,6 @@ This node outlines the UK’s current trajectory in handling sensitive data:
 *Governance of Sensitive Data and Outsourcing* is a living node of the Polaris Protocol.  
 It traces the entanglement of surveillance logics, privatised sovereignty, and imperial repetition in UK public service infrastructure.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic diagnostics  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal guides  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-18_
