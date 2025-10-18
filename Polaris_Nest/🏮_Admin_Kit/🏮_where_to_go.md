@@ -1,6 +1,6 @@
 # 🏮 Where to Go  
-**First created:** 2025-09-12 | **Last updated:** 2025-09-28  
-*Decision tree for filing new nodes into the Polaris Protocol repository*  
+**First created:** 2025-09-12 | **Last updated:** 2025-10-18  
+*Decision tree for filing new nodes into the Polaris Protocol repository.*  
 
 ---
 
@@ -180,3 +180,176 @@ flowchart TD
   N --> X
 
   X[✅ Ensure filename follows House Style + 🏮 Footer block]
+
+```
+
+---
+
+# 🏮 Where To Go — Polaris Filing Compass
+**Aligned with index refresh:** 2025-10 | **Last updated:** 2025-10-18  
+
+*A visual routing guide that mirrors the canonical `index.md` (Oct 2025). Use this to decide where a new node belongs and where to look for related work. The index shows the folders; this file shows the **paths**.*
+
+---
+
+## 🧭 Orientation
+The Polaris architecture now orbits **six Big Picture Protocols clusters**. Route by *intent* first, then choose the precise subfolder.  
+Legend: ✨ satire/meta • 🌀 governance • 🐍 recursion/denial/radicalisation • 🦕 legacy influence • 🪄 norms/compliance/media • 🫀 care/trauma/ethics.
+
+---
+
+## 🗺️ Decision Tree — What are you filing or seeking?
+> Clickable map. If Mermaid doesn’t render, see the plain-text routes below.
+
+```mermaid
+flowchart TD
+  root[🏮 Where should this go?]
+  subgraph CLUSTERS[Big Picture Protocols — six constellations]
+    GLI[✨ Glimmer Is Taxable<br/><sub>satire • moral economy • meta‑ethics</sub>]
+    SYS[🌀 System Governance<br/><sub>law • bureaucracy • infra • narrative</sub>]
+    OUR[🫀 Our Hearts Our Minds<br/><sub>care • trauma • witness • ethics</sub>]
+    ORO[🐍 Ouroborotic Violence<br/><sub>recursion • denial • radicalisation</sub>]
+    ELD[🦕 Elder Influencers<br/><sub>legacy power • borders • world webs</sub>]
+    NOR[🪄 Expression Of Norms<br/><sub>compliance • media • nudge • oversight</sub>]
+  end
+
+  %% Entry intents
+  root -->|governance, law, infra, oversight| SYS
+  root -->|care, trauma, safeguarding, witness| OUR
+  root -->|cycles of harm, denialism, pipelines| ORO
+  root -->|money, statutes, borders, geopolitics| ELD
+  root -->|compliance culture, media, algorithms| NOR
+  root -->|satire, meta, moral accounting| GLI
+
+  %% SYSTEM GOVERNANCE branches
+  SYS --> LSG[⚖️ Legal & State Governance]
+  SYS --> CL[💫 Containment Logic]
+  SYS --> OC[👑 Ownership & Control]
+  SYS --> NM[📚 Narrative Management]
+  SYS --> IP[🛰️ Infrastructure Procurement]
+  SYS --> DE[🧪 Development & Experimentation]
+  SYS --> ABDD[🧊 Antarctic Biscuit Defence Directory]
+  SYS --> AAH[🚩 Angleland Ahoy]
+
+  %% OUR HEARTS branches
+  OUR --> BP[🐝 Body Politic]
+  OUR --> TM[🐦‍🔥 Trauma Psychology & Medical Misuse]
+  OUR --> WH[👁️‍🗨️ Witness Historical Casefiles]
+  OUR --> ES[🕯 Exorcising Safeguarding Shadows]
+  OUR --> HP[🌱 Human Principles]
+
+  %% OUROBOROTIC branches
+  ORO --> PMW[🗝️ Politics Memory Work]
+  ORO --> GD[🩸 Genocide Denialism]
+  ORO --> REX[🪬 Radicalisation & Extremism]
+
+  %% ELDER INFLUENCERS branches
+  ELD --> ML[💸 Money Listens]
+  ELD --> ST[📜 Statutes]
+  ELD --> JB[🕊️ Just Boxes]
+  ELD --> WW[🕸️ World Webs]
+  ELD --> BBW[🛟 Borders Boats Walls]
+
+  %% NORMS branches
+  NOR --> BUCS[🎓 British University Compliance Service]
+  NOR --> BBC[🎶 Banned Broadcasts Cooperative]
+  NOR --> MTM[📺 Money Talks Media]
+  NOR --> NUD[🧠 HM Dept Coercive Nudges]
+  NOR --> WTW[🧿 Watch The Watchers]
+
+  %% Click targets (relative to repo root)
+  click GLI "./Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md" "open"
+  click SYS "./Big_Picture_Protocols/🌀_System_Governance/README.md" "open"
+  click ORO "./Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md" "open"
+  click ELD "./Big_Picture_Protocols/🦕_Elder_Influencers/README.md" "open"
+  click NOR "./Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md" "open"
+  click OUR "./Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md" "open"
+
+  click LSG "./Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md" "open"
+  click CL "./Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md" "open"
+  click OC "./Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md" "open"
+  click NM "./Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md" "open"
+  click IP "./Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md" "open"
+  click DE "./Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/README.md" "open"
+  click ABDD "./Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🍪_cookie_leaks_index.md" "open"
+  click AAH "./Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md" "open"
+
+  click BP "./Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md" "open"
+  click TM "./Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md" "open"
+  click WH "./Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md" "open"
+  click ES "./Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md" "open"
+  click HP "./Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md" "open"
+
+  click PMW "./Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md" "open"
+  click GD "./Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md" "open"
+  click REX "./Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md" "open"
+
+  click ML "./Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md" "open"
+  click ST "./Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md" "open"
+  click JB "./Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/README.md" "open"
+  click WW "./Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/README.md" "open"
+  click BBW "./Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/README.md" "open"
+
+  click BUCS "./Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md" "open"
+  click BBC "./Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md" "open"
+  click MTM "./Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md" "open"
+  click NUD "./Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md" "open"
+  click WTW "./Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md" "open"
+```
+
+---
+
+## 🧾 Plain‑Text Routes (if Mermaid doesn’t render)
+
+- **🌀 System Governance** → `Big_Picture_Protocols/🌀_System_Governance/`  
+  - ⚖️ Legal & State Governance → `.../⚖️_Legal_State_Governance/`  
+  - 💫 Containment Logic → `.../💫_Containment_Logic/`  
+  - 👑 Ownership & Control → `.../👑_Ownership_Control/`  
+  - 📚 Narrative Management → `.../📚_Narrative_Management/`  
+  - 🛰️ Infrastructure Procurement → `.../🛰️_Infrastructure_Procurement/`  
+  - 🧪 Development & Experimentation → `.../🧪_Development_Experimentation/`  
+  - 🧊 Antarctic Biscuit Defence Directory → `.../🧊_Antarctic_Biscuit_Defence_Directory/`  
+  - 🚩 Angleland Ahoy → `.../🚩_Angleland_Ahoy/`  
+
+- **🫀 Our Hearts Our Minds** → `Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/`  
+  - 🐝 Body Politic → `.../🐝_Body_Politic/`  
+  - 🐦‍🔥 Trauma Psychology & Medical Misuse → `.../🐦‍🔥_Trauma_Psychology_Medical_Misuse/`  
+  - 👁️‍🗨️ Witness Historical Casefiles → `.../👁️‍🗨️_Witness_Historical_Casefiles/`  
+  - 🕯 Exorcising Safeguarding Shadows → `.../🕯_Exorcising_Safeguarding_Shadows/`  
+  - 🌱 Human Principles → `.../🌱_Human_Principles/`  
+
+- **🐍 Ouroborotic Violence** → `Big_Picture_Protocols/🐍_Ouroborotic_Violence/`  
+  - 🗝️ Politics Memory Work → `.../🗝️_Politics_Memory_Work/`  
+  - 🩸 Genocide Denialism → `.../🩸_Genocide_Denialism/`  
+  - 🪬 Radicalisation & Extremism → `.../🪬_Radicalisation_Extremism/`  
+
+- **🦕 Elder Influencers** → `Big_Picture_Protocols/🦕_Elder_Influencers/`  
+  - 💸 Money Listens → `.../💸_Money_Listens/`  
+  - 📜 Statutes → `.../📜_Statutes/`  
+  - 🕊️ Just Boxes → `.../🕊️_Just_Boxes/`  
+  - 🕸️ World Webs → `.../🕸️_World_Webs/`  
+  - 🛟 Borders Boats Walls → `.../🛟_Borders_Boats_Walls/`  
+
+- **🪄 Expression Of Norms** → `Big_Picture_Protocols/🪄_Expression_Of_Norms/`  
+  - 🎓 British University Compliance Service → `.../🎓_British_University_Compliance_Service/`  
+  - 🎶 Banned Broadcasts Cooperative → `.../🎶_Banned_Broadcasts_Cooperative/`  
+  - 📺 Money Talks Media → `.../📺_Money_Talks_Media/`  
+  - 🧠 HM Dept Coercive Nudges → `.../🧠_HM_Dept_Coercive_Nudges/`  
+  - 🧿 Watch The Watchers → `.../🧿_Watch_The_Watchers/`  
+
+- **✨ Glimmer Is Taxable And Other Big Drums** → `Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/`  
+
+---
+
+## ✅ Filing Tips
+- **If it’s about cycles of harm:** default to 🐍, then cross‑link to 🫀 and 🪄.  
+- **If it’s about donor pressure shaping coverage:** default to 🪄/📺, cross‑link to 🦕/💸.  
+- **If it’s about procurement or vendor middleware:** default to 🌀/🛰️ with a cross‑link to 🦕/📜 if statutory.  
+- **If it’s a satire or parody artefact:** default to ✨, cross‑link to the closest “serious” node.  
+
+---
+
+*This compass mirrors the uploaded `index.md` as of October 2025. If paths drift, update the click targets above and the plain‑text routes here.*
+
+_Last updated: 2025-10-18_
+
