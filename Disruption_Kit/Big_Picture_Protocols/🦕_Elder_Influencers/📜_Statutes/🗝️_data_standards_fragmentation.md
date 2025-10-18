@@ -1,5 +1,5 @@
 # 🗝️ Data Standards Fragmentation  
-**First created:** 2025-09-22 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-22 | **Last updated:** 2025-10-18  
 *How vague standards and local interpretation create invisible fault-lines across national infrastructure.*  
 
 ---
@@ -54,11 +54,12 @@
 *🗝️ Data Standards Fragmentation* is a living node of the Polaris Protocol.  
 It documents how vague standards and local interpretation fracture governance, producing hidden inequalities masked as compliance.  
 
-> 📡 Cross-references:  
-> - [🗝 Custodianship Illusion](./🗝_custodianship_illusion.md) — pretence of neutral stewardship while access is rationed  
-> - [💉 NHS Data Collapse](./💉_nhs_data_collapse.md) — case study of record fragmentation and security risk  
-> - [🌀 System_Governance](./) — parent cluster of governance diagnostics  
+> 📡 Cross-references:
+> 
+> - [🗝 Custodianship Illusion](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_custodianship_illusion.md) — *pretence of neutral stewardship while access is rationed*  
+> - [💉 NHS Data Collapse] *TBC* — *case study of record fragmentation and security risk*  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *parent cluster of governance diagnostics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-18  
