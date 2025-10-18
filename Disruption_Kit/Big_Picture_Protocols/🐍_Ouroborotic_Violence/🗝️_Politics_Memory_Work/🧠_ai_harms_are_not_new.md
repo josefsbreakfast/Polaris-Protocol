@@ -1,5 +1,5 @@
 # 🧠 AI Harms Are Not New — Polaris Big Picture  
-**First created:** 2025-08-13 | **Last updated:** 2025-08-30  
+**First created:** 2025-08-13 | **Last updated:** 2025-10-18  
 *Systemic analysis of AI harm as continuation of longstanding metadata architectures.*  
 
 ---
@@ -88,9 +88,9 @@ This pattern is familiar from other struggles, including advocacy for Palestine:
 *AI Harms Are Not New — Polaris Big Picture* is a living node of the Polaris Protocol.  
 It documents how AI harm is a continuation of long-standing metadata architectures, political silencing, and ignored survivor testimony.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
