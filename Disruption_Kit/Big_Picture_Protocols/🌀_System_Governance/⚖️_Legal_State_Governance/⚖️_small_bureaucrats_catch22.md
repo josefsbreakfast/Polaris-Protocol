@@ -1,5 +1,5 @@
 # ⚖️ Small Bureaucrats Catch-22  
-**First created:** 2025-09-05 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-05 | **Last updated:** 2025-10-18  
 *Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance.*
 
 ---
