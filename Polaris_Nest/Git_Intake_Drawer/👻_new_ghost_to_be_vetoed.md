@@ -11,7 +11,8 @@ if you want advice on improving that, you will need to pay me something slightly
 might i akso add: outstanding negotiations over damages.  
 
 ---
-So I realised who this probably was, and I was going to make fun of the financial situation if that was the offer (and just to note it is intimidating a witness you should probably know that if you have law degrees)  
+
+So I realised who this probably was, and I was going to make fun of the financial situation if that was the offer (and just to note it is intimidating a witness/a bribe/seeking to pervert the course of justice; you should probably know that if you have law degrees)  
 
 But there was something else I noticed, which I had been wondering about...  
 
