@@ -90,7 +90,7 @@ and how historic symbolic inversions of Jewish identity echo into present miscla
 > 
 > - [🪬 Radicalisation & Extremism](./README.md) — *classification logics and pipelines*  
 > - [🗝️ Political Economy & Memory Work](../🗝️_Politics_Memory_Work/README.md) — *suppression as signal and identity reframing*  
-> - [🧿 Watch The Watchers](../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *counter-surveillance strategies*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *counter-surveillance strategies*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
