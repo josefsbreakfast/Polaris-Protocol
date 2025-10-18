@@ -1,5 +1,5 @@
 # 📖 Erased Archives & Survival Bias  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
 *Explores how destroyed or looted archives create “holes” in history, shaping what we think is normal through survival bias.*  
 
 ---
@@ -65,11 +65,12 @@ Erased archives = deliberate containment.
 *Erased Archives & Survival Bias* is a living node of the Polaris Protocol.  
 It documents how erasure functions as containment, and how survival bias warps perception.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🗝 Guardianship as Nonstate Custody](./🗝_guardianship_as_nonstate_custody.md)  
 > - [🗝 Eccentric Custody: The Wellcome Collection](./🗝_eccentric_custody_wellcome_collection.md)  
 > - [📜 Blavatsky Case Study: Cairo Ban](./📜_blavatsky_case_study_cairo_ban.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
