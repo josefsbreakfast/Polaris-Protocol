@@ -1,5 +1,5 @@
 # 💌 Letter by Letter: Erasure Protocol  
-**First created:** 2025-08-08 | **Last updated:** 2025-08-30  
+**First created:** 2025-08-08 | **Last updated:** 2025-10-18  
 *Linguistic erasure as a tool of profiling and control.*  
 
 ---
@@ -80,10 +80,10 @@ Every “Kyiv” resisted, every Roma vowel miswritten, every Yiddish sound cut 
 *Letter by Letter: Erasure Protocol* is a living node of the Polaris Protocol.  
 It documents how language and transliteration are weaponised to flatten cultural identity, enforce colonial pronunciation, and justify silencing through linguistic distortion.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
 
