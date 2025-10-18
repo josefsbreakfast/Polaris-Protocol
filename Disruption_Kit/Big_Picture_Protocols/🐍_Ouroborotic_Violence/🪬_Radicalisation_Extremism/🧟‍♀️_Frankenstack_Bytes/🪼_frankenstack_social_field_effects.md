@@ -1,5 +1,5 @@
 # 🪼 Frankenstack Social Field Effects  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-05  
+**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
 *Hybrid stacks not only modulate individuals but also destabilise their networks — using excitability and inhibition at scale.*
 
 ---
@@ -62,11 +62,12 @@ frankenstack, social field effects, excitability, inhibition, dual-use, network 
 *🪬 Frankenstack Social Field Effects* is a living node of the Polaris Protocol.  
 It complements *The Frankenstack Problem* and *Frankenstack Radicalisation Hypothesis* by tracing how hybridised stacks destabilise not just individuals but their surrounding networks through excitability and inhibition levers.  
 
-> 📡 Cross-references:  
-> - [🧟‍♀️ The Frankenstack Problem](../../🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)  
-> - [🪬 Frankenstack Radicalisation Hypothesis](./🪬_frankenstack_radicalisation_hypothesis.md)  
-> - [🧠 Psychological Containment](../🧠_psychological_containment.md) — related sensory/behavioural suppression patterns  
+> 📡 Cross-references:
+> 
+> - [🧟‍♀️ The Frankenstack Problem](./🧟‍♀️_the_frankenstack_problem.md)  
+> - [🪬 Frankenstack Radicalisation Hypothesis] *TBC*  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — related sensory/behavioural suppression patterns  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-18_
