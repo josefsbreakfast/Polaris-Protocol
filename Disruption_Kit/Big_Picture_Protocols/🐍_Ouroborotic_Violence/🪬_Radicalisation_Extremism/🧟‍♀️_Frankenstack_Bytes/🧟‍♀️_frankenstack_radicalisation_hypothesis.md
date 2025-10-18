@@ -59,9 +59,9 @@ It extends *The Frankenstack Problem* into the radicalisation domain, showing ho
 
 > 📡 Cross-references:
 > 
-> - [🧟‍♀️ The Frankenstack Problem](../../🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) — *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*  
-> - [🪬 Radicalisation_Extremism](./README.md) — *counter-extremism stack and behaviour loops*  
-> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *survivor after-effects*  
+> - [🧟‍♀️ The Frankenstack Problem](../../../🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) — *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*  
+> - [🪬 Radicalisation & Extremism](./README.md) — *counter-extremism stack and behaviour loops*  
+> - [🐦‍🔥 Trauma, Psychology, & Medical Misuse](../../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *survivor after-effects*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
