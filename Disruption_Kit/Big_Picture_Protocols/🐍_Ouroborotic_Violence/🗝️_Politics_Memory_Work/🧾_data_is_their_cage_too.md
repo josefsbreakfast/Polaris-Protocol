@@ -1,8 +1,6 @@
-# 🧾 Data Is Their Cage Too
-
-**First created:** 2025-08-16 | **Last updated:** 2025-08-30
-
-*Data possession as both containment mechanism and systemic vulnerability.*
+# 🧾 Data Is Their Cage Too  
+**First created:** 2025-08-16 | **Last updated:** 2025-10-18  
+*Data possession as both containment mechanism and systemic vulnerability.*  
 
 ---
 
@@ -98,9 +96,9 @@ But in Polaris, their data holds them too.
 *Data Is Their Cage Too* is a living node of the Polaris Protocol.  
 It reframes data hoarding as systemic entrapment: each act of surveillance becomes forensic testimony against the system itself.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](./README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2025-10-18_  
 
