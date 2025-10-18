@@ -1,5 +1,3 @@
-** CAUTION MAY BE DUPLICATE**
-
 # 🧠 Swiss-Cheese Suicide Model in Custody  
 **First created:** 2025-10-04 | **Last updated:** 2025-10-04  
 *Why “outlier” narratives mislead; how stacked biases punch holes in the net.*
