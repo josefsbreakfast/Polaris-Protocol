@@ -1,5 +1,5 @@
 # ⚖️ Containment & Cut-Through in the Legal Profession  
-**First created:** 2025-10-11 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-11 | **Last updated:** 2025-10-18  
 *How legal institutions can be muted under pressure—and the mechanisms that reopen voice.*  
 
 ---
@@ -145,10 +145,10 @@ It documents the systemic ways legal voices can be muted and the lawful, ethical
 
 > 📡 Cross-references:
 > 
-> - [📜 Statutes — Parliamentary Procedures](../../📜_Statutes/README.md) — *complementary institutional containment logics*  
-> - [📰 DSMA Notices & Atrocity-Risk Reporting](../../📺_Money_Talks_Media/📰_dsma_notices_and_atrocity_risk_reporting.md) — *media-side analogues*  
+> - [📜 Statutes — Parliamentary Procedures](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *complementary institutional containment logics*  
+> - [📰 DSMA Notices & Atrocity-Risk Reporting](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/📰_dsma_notices_and_atrocity_risk_reporting.md) — *media-side analogues*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-18_
