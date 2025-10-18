@@ -1,7 +1,8 @@
 # 🇬🇧 Professional Dominatrix PDR of the UK — Authoritarian Stress Test  
-
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2025-10-18  
 *A school report on Britain’s democratic resilience under authoritarian stress, using Timothy Snyder’s **On Tyranny** as the syllabus.*  
+
+---
 
 *Obviously this is entirely hypothetical because I have not yet been allowed to see a lawyer or any arm of the judicary, including whoever reviews warrants which may be in place under RIPA/IPA, to clarify the particulars of grooming and trafficking and, therefore, I could not possibly comment on my knowledge of being the shit out of British men as a form of sex work.*
 
@@ -50,11 +51,11 @@ _**Obviously.**_
 *🇬🇧 Professional Dominatrix PDR of the UK — Authoritarian Stress Test* is a diagnostic node of the Polaris Protocol.  
 It cross-links to survivor-authored analyses of suppression and governance drift.  
 
-> 📡 Cross-references:  
-> - [🫀 Genocide by Containment](./🫀_genocide_by_containment.md)  
-> - [🧿 UK Slow Burn Constitutional Crisis](../🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)  
-> - [🔥 Suppression as Signal](../🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+> 📡 Cross-references:
+> 
+> - [🫀 Genocide by Containment](../../../🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md) - *How bureaucratic disposal mechanisms escalate into genocidal practice*  
+> - [🧿 UK Slow Burn Constitutional Crisis](./🧿_uk_slow_burn_constitutional_crisis.md) - *Comprehensive node mapping the background, dynamics, and risks of constitutional strain in the UK*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_  
+_Last updated: 2025-10-18_  
