@@ -1,5 +1,5 @@
 # 🦤 Uniform Spectacle  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2025-10-18  
 *When clothing becomes theatre: uniforms as collective peacocking and radicalisation signal.*  
 
 ---
@@ -64,10 +64,11 @@ uniform spectacle, collective peacocking, radicalisation, extremist uniforms, pr
 It documents how coordinated dress becomes a tool of radicalisation,  
 from alt-right uniforms to activist performance costumes.  
 
-> 📡 Cross-references:  
-> - [🦚 Peacocking](./🦚_peacocking.md) — individual display tactics  
-> - [🌹 Demonstrating High Value](./) — status demonstration logics  
+> 📡 Cross-references:
+> 
+> - [🦚 Peacocking](./🦚_peacocking.md) — *individual display tactics*  
+> - [🌹 Demonstrating High Value](./README.md) — *status demonstration logics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-18_
