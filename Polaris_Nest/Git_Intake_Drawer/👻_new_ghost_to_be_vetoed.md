@@ -121,4 +121,9 @@ And don't offer your mates to take the heat when you fucked up; bad form.
 
 ---
 
+/🎪 _procurement_item_classified.jpg
+
+---
+
+
 2025-10-18  
