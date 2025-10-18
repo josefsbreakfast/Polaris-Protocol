@@ -1,10 +1,10 @@
 # 🪬 Christian Nationalism as Fascist Laundering  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-17  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *How “moderate” framings of Christian nationalism in the UK act to normalise authoritarian logics.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 An article highly ranking on related SEO terms frames Christian nationalism not as a clear danger but as a **spectrum of positions**. It divides the ideology into categories (*confessional*, *cultural*, *civil*), offering a way for readers to see some versions as legitimate or at least debatable.  
 
@@ -61,13 +61,14 @@ This rhetorical move is a laundering mechanism. It makes Christian nationalism �
 
 *Christian Nationalism as Fascist Laundering* is a living node of the Polaris Protocol. It records how theological-political discourse is softened to permit authoritarian slippage.  
 
-> 📡 Cross-references:  
-> - [🪬 Radicalisation_Extremism](../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/) — pipelines and laundering logics  
-> - [🗝️ Politics_Memory_Work](../Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/) — narrative erasures and discursive disguises  
+> 📡 Cross-references:
+> 
+> - [🪬 Radicalisation_Extremism](./README.md) — *pipelines and laundering logics*  
+> - [🗝️ Politics_Memory_Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md) — *narrative erasures and discursive disguises*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-17_
+_Last updated: 2025-10-18_
 
 ---
 
