@@ -1,5 +1,5 @@
 # 🧬 Genealogy of Coping Mechanisms  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *Traces how cultural myths, pseudoscience, and erasure developed as coping responses to crises of empire and Enlightenment knowledge.*  
 
 ---
@@ -56,11 +56,12 @@ The genealogy of coping mechanisms shows a pattern:
 *Genealogy of Coping Mechanisms* is a living node of the Polaris Protocol.  
 It documents how elites responded to crises of knowledge with myth, pseudoscience, and erasure.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [📜 Blavatsky Case Study: Cairo Ban](./📜_blavatsky_case_study_cairo_ban.md)  
 > - [📖 Erased Archives & Survival Bias](./📖_erased_archives_and_survival_bias.md)  
-> - [🎶 L’Algorithme as Containment Song](./🎶_lalgorithme_as_containment_song.md)  
+> - [🎶 L’Algorithme as Containment Song] *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-18_  
