@@ -1,5 +1,5 @@
 # ⚖️ Legal Hooks for Muted Books  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-17 | **Last updated:** 2025-10-18  
 *Big Picture Protocol node — theoretical toolkit for UK writers and creatives pressing for penalty when books are muted. Not legal advice.*  
 
 ---
@@ -28,9 +28,9 @@
 It maps possible doctrines for writers and creatives in the UK who suspect suppression of their work.  
 
 > 📡 Cross-references:  
-> - [📚 Forensic Silence](./📚_forensic_silence.md)  
-> - [🪞 Cascade of Chilling](./🪞_cascade_of_chilling.md)  
+> - [📚 Forensic Silence](../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*  
+> - [🪞 Cascade of Chilling] *TBC*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-10-18_  
