@@ -1,5 +1,5 @@
 # 🕌 Ornamental Survival & Misfiled Survivals — A Mega Node (Berlin/Vienna 1910–1945 → Archive Politics Today)
-**First created:** 2025-10-02 | **Last updated:** 2025-10-02  
+**First created:** 2025-10-02 | **Last updated:** 2025-10-18  
 *How ornamental “Islam” survived while living communities were erased; how paperwork hid what bodies remembered; and why archive politics (incl. Israel’s) still gate the record.*
 
 ---
@@ -109,31 +109,6 @@ This is not only about Jewish community records; **Israeli state archives** cont
 
 ---
 
-## 🌌 Constellations
-🧿 🛰️ 🔮 — Diagnostic + archive‑forensic register; sits between *🔥 Suppression as Signal* and *🏛️ Politics / Memory Work*.
-
----
-
-## ✨ Stardust
-wilmersdorf mosque, halbmondlager wünsdorf, schwetzingen garden mosque, islamgesetz 1912, berlin muslim history, vienna muslim archives, grand mosque of paris, sacred custody, archive politics, malmab reclassification, israeli archives secrecy, survival by fetishisation, misfiled survivals
-
----
-
-## 🏮 Footer
-*Ornamental Survival & Misfiled Survivals* is a living node of the Polaris Protocol.  
-It documents how ornamental forms persist while communities are erased, and equips teams to surface buried traces across German‑speaking Europe — with an eye on contemporary archive governance.
-
-> 📡 Cross‑references:  
-> - [🔥 Suppression as Signal](../) — erasure logics & diagnostics (link when placed)  
-> - [🧭 Humanities Archive Audit — Islamic Footprints (Berlin/Vienna 1910–1945)](../) — operational brief (link when placed)
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2025-10-02_
-
-
----
-
 ## VII. Contemporary Political Bottlenecks — A System Audit (why “support” persists)
 
 **Claim:** Ongoing state support for apartheid/ongoing mass atrocities is not *only* about land, racism, or capitalism-in-general. It is also sustained by a small number of **human bottlenecks** embedded in institutions — individuals (and their offices) who guard particular archives, budgets, legal levers, or narrative choke‑points. Remove or neutralise those bottlenecks, and the system’s output changes disproportionately.
@@ -169,3 +144,22 @@ _Last updated: 2025-10-02_
 ### E. Hand‑off artefacts
 Use the **Bottleneck Mapping Log (CSV)** below to track offices, documents, and leverage scores. Merge with your archive audit logs to connect **history → present levers**.
 
+---
+
+## 🌌 Constellations
+🧿 🛰️ 🔮 — Diagnostic + archive‑forensic register; sits between *🔥 Suppression as Signal* and *🏛️ Politics / Memory Work*.
+
+---
+
+## ✨ Stardust
+wilmersdorf mosque, halbmondlager wünsdorf, schwetzingen garden mosque, islamgesetz 1912, berlin muslim history, vienna muslim archives, grand mosque of paris, sacred custody, archive politics, malmab reclassification, israeli archives secrecy, survival by fetishisation, misfiled survivals
+
+---
+
+## 🏮 Footer
+*Ornamental Survival & Misfiled Survivals* is a living node of the Polaris Protocol.  
+It documents how ornamental forms persist while communities are erased, and equips teams to surface buried traces across German‑speaking Europe — with an eye on contemporary archive governance.
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-18_
