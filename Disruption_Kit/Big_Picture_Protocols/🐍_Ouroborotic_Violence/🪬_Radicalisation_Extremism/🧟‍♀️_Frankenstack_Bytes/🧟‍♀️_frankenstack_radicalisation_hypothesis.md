@@ -1,6 +1,6 @@
 # 🧟‍♀️ Frankenstack Radicalisation Hypothesis  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-05  
-*Hybrid stacks as dual/multi-use engines that can tip fear into violence.*
+**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
+*Hybrid stacks as dual/multi-use engines that can tip fear into violence.*  
 
 ---
 
@@ -54,14 +54,15 @@ frankenstack, radicalisation, extremism, dual-use, multi-use, safeguarding, algo
 ---
 
 ## 🏮 Footer  
-*🪬 Frankenstack Radicalisation Hypothesis* is a living node of the Polaris Protocol.  
+*🧟‍♀️ Frankenstack Radicalisation Hypothesis* is a living node of the Polaris Protocol.  
 It extends *The Frankenstack Problem* into the radicalisation domain, showing how hybridised safeguarding–CT infrastructures can push already stressed populations into breakdown and violence.  
 
-> 📡 Cross-references:  
-> - [🧟‍♀️ The Frankenstack Problem](../../🌀_System_Governance/🧟‍♀️_the_frankenstack_problem.md)  
-> - [🪬 Radicalisation_Extremism](./) — counter-extremism stack and behaviour loops  
-> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/) — survivor after-effects  
+> 📡 Cross-references:
+> 
+> - [🧟‍♀️ The Frankenstack Problem](../../🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) — *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*  
+> - [🪬 Radicalisation_Extremism](./README.md) — *counter-extremism stack and behaviour loops*  
+> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *survivor after-effects*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-18_
