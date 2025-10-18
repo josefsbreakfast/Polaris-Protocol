@@ -1,6 +1,6 @@
 # 🧾 Rehabilitation Ops  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*Tracking media rehabilitation campaigns—royals, disgraced politicians, and fallen institutions—as the mirror image of extremist scapegoating*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*Tracking media rehabilitation campaigns—royals, disgraced politicians, and fallen institutions — as the mirror image of extremist scapegoating.*
 
 ---
 
@@ -81,4 +81,4 @@ Every system that punishes dissent also absolves itself.
 Rehabilitation is containment in reverse.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
