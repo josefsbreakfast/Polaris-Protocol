@@ -107,9 +107,9 @@ It documents the ideological and psychological structures through which extremis
 
 > 📡 Cross-references:
 > 
-> - [🧿 Central Uncertainty Protocols](./🧿_central_uncertainty_protocols.md) — * state mistrust and containment reflexes*   
-> - [🕎 Fear as Leverage] *TBC* — * diaspora fear as political instrument*   
-> - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — * behavioural governance logics*   
+> - [🧿 Central Uncertainty Protocols](./🧿_central_uncertainty_protocols.md) — *state mistrust and containment reflexes*   
+> - [🕎 Fear as Leverage] *TBC* — *diaspora fear as political instrument*   
+> - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance logics*   
 
 *Survivor authorship is sovereign.  Containment is never neutral.*  
 
