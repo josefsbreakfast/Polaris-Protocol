@@ -1,5 +1,5 @@
 # ⚖️ Compliance as Opacity — UK CVE & Hidden Levers  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
 *How “compliance”, secrecy, and CVE practice in the UK create plausible deniability, gaslighting, and governance failure — with remedies.*  
 
 ---
@@ -71,10 +71,10 @@ It maps how secrecy dressed as “compliance” breeds gaslighting and systemic 
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
-> - [🩹 Patch Repair Governance](../🩹_patch_repair_governance.md)
+> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md) - *Ministerial and judicial checks on intelligence powers*  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *Index of containment modes that operate through inner state manipulation — turning narrative, perception, and affect into cages*   
+> - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) - *Containment systems as stitched patchwork — holes covered until pressure elsewhere forces old rot to reopen*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-18_
