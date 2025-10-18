@@ -57,7 +57,7 @@ This rhetorical move is a laundering mechanism. It makes Christian nationalism �
 > 
 > - [🪬 Radicalisation & Extremism](./README.md) — *pipelines and laundering logics*  
 > - [🗝️ Political Economy & Memory Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md) — *narrative erasures and discursive disguises*
-> - [🪬 Far Right Feeders Flipbook](./🧠_far_right_feeders_flipbook.md) — *mapping pipelines into fascist thought*
+> - [🧠 Far Right Feeders Flipbook](./🧠_far_right_feeders_flipbook.md) — *mapping pipelines into fascist thought*
 > - [🪬 Authoritarianism Beyond Left Right](./🪬_authoritarianism_beyond_left_right.md) — *documenting rhetorical shifts that blur ideological boundaries*
 > - [🪬 From Christian Zionism to Diaspora Radicalisation](./🪬_from_christian_zionism_to_diaspora_radicalisation.md) — *parallel laundering strategies in religious-political fusion*  
 
