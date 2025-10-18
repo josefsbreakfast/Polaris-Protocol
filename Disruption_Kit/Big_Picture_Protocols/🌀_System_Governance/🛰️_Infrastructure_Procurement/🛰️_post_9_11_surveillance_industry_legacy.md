@@ -1,5 +1,5 @@
 # 🛰️ Post-9/11 Surveillance Industry Legacy  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-14  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-18  
 *How the UK’s current push for digital ID cards fits a long post-9/11 trajectory of surveillance expansion, vendor capture, and misallocated resources.*  
 
 ---
@@ -94,7 +94,7 @@ It documents how surveillance logics seeded in 2001 still shape UK policy throug
 
 > 📡 Cross-references:
 > 
-> - [🏛️ UK Identity Cards 2000s](../../🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md)  
+> - [🏛️ UK Identity Cards 2000s](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md)  
 > - [🔮 UK Digital ID Risk Forecast](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)  
 > - [💼 Industry Capture — Identity Systems](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)  
 > - [📊 ID Claims vs Realities](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📊_id_claims_vs_realities.md)  
@@ -103,4 +103,4 @@ It documents how surveillance logics seeded in 2001 still shape UK policy throug
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_  
+_Last updated: 2025-10-18_  
