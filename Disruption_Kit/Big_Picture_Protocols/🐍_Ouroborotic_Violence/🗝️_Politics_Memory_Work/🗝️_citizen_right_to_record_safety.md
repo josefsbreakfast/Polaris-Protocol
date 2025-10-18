@@ -37,7 +37,7 @@ It documents how the refusal to confirm the safety of sealed CSA/rape records �
 > 
 > - [⚖️ CIDT by Withholding Record Safety](../../../../Polaris_Nest/✨_Letters_to_Stars/⚖️_cidt_by_withholding_record_safety.md) — *silence as cruel, inhuman, degrading treatment*  
 > - [⚖️ Erasure and Predator Tolerance](../../../../Polaris_Nest/✨_Letters_to_Stars/⚖️_erasure_and_predator_tolerance.md) — *predators elevated while survivors erased*  
-> - [📚 Forensic Silence](../../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) — *refusal to speak truth even when evidence is visible*  
+> - [📚 Forensic Silence](../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) — *refusal to speak truth even when evidence is visible*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
