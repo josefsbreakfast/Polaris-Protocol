@@ -64,7 +64,7 @@ flowchart TD
   BPP --> NOR
   BPP --> OUR
 
-  subgraph Cross-cutting Strands (live across clusters)
+  subgraph Cross-cutting Strands - live across clusters
     SURV[🔭 Surveillance Governance]
     VPREV[🛡️ Violence Prevention & De-escalation]
     EXPER[🧩 Lived Experience & Testimony]
