@@ -1,5 +1,5 @@
 # 🪬 Masculinity in Crisis Cycle  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
 *How patriarchy generates recurring masculinity “crises” by masking class and wealth inequalities.*  
 
 ---
@@ -80,12 +80,13 @@ flowchart TD
 *Masculinity in Crisis Cycle* is a living node of the Polaris Protocol.  
 It situates modern manosphere and far-right grievance masculinities within a longer history of patriarchal cycles, showing how class and wealth inequality are disguised as gender crisis.  
 
-📡 Cross-references:  
-- [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md)  
-- [💊 Red Pill](./💊_red_pill.md)  
-- [🌹 Demonstrating Higher Value](./🌹_demonstrating_higher_value.md)  
-- [🪬 Radicalisation_Extremism](../Big_Picture_Protocols/🪬_Radicalisation_Extremism)  
+> 📡 Cross-references:
+> 
+> - [🐺 AMOG (A Joke)](./🐺_AMOG_a_joke.md) - *From bar-room rivalry to political street violence*  
+> - [💊 Red Pill](./💊_red_pill.md) - *From PUA awakening metaphor to extremist radicalisation pipeline*  
+> - [🌹 Demonstrating Higher Value](./README.md) - *From pick-up artist boast to political masculinity grievance*  
+> - [🪬 Radicalisation & Extremism](../README.md) - *Doctrines on far-right pipelines, state complicity, and diaspora radicalisation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-18_  
