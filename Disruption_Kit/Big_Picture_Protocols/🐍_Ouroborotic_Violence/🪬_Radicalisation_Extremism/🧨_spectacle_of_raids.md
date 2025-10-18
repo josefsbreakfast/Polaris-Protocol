@@ -1,6 +1,6 @@
 # 🧨 Spectacle of Raids  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On how high-visibility police raids function as theatre—projecting decisive action while concealing structural complicity*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*On how high-visibility police raids function as theatre—projecting decisive action while concealing structural complicity.*  
 
 ---
 
@@ -72,4 +72,4 @@ Every raid is a story told in one direction.
 This node studies the cameras that never turn around.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
