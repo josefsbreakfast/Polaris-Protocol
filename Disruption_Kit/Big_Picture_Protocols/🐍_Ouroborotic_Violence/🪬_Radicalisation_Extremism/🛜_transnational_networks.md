@@ -1,6 +1,6 @@
 # 🛜 Transnational Networks  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-04  
-*On the cross-border logistics of radicalisation flows—Ukraine / UK optics, US militia crossover, and online “volunteer” channels*
+**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+*On the cross-border logistics of radicalisation flows—Ukraine / UK optics, US militia crossover, and online “volunteer” channels.*
 
 ---
 
@@ -88,4 +88,4 @@ Ideology travels under many visas.
 This node follows the paperwork the border never stamps.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-18_
