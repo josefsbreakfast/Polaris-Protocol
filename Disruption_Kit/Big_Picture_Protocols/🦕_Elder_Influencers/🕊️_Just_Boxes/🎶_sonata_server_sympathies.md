@@ -93,15 +93,15 @@ Sonata server; digital evidence; forensic integrity; contractor oversight; whist
 ---
 
 ## 🏮 Footer
-*Sonata Server Sympathies* is a living governance node within the Polaris Protocol.  
+*🎶 Sonata Server Sympathies* is a living governance node within the Polaris Protocol.  
 It captures how a single act of deletion exposed systemic weaknesses between secrecy and oversight—and how those systems can be re-scored for integrity.  
 
 >📡 Cross-linkages:  
 >
-> - [🧠 Bargain Bin Mossad](../🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md) - *what this might look like to unknowing network ties targeted, completely satirically*
+> - [🧠 Bargain Bin Mossad](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md) - *what this might look like to unknowing network ties targeted, completely satirically*
 > - [🪐 Where The Fuck Am I?](../../../Field_Logs/🪐_where_the_fuck_am_i.md) - *what this might look like to unknowking network ties targeted, if the culture of the organisation whistleblown on really was just piss poor*
-> - [🎽 Think Tanks, Surveillance, and Conferencing](../💸_Money_Listens/🎽_think_tanks_surveillance_and_conferencing.md) - *events where network could be observed, as well as potential future recon performed to eatablish likely allies for discrediting op and their network, hypothetically*
-> - [🍯 Dual-Use Thought Experiment](../💸_Money_Listens/🍯_honeybot_dual_use_thought_experiment.md) - *1000% satire, but if yoi know humans, you know there's one type of violence which ultimately breaks everyone best, whether direct or vicarious, so you can't rile out putting network ties in something like this, either*
+> - [🎽 Think Tanks, Surveillance, and Conferencing](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md) - *events where network could be observed, as well as potential future recon performed to eatablish likely allies for discrediting op and their network, hypothetically*
+> - [🍯 Dual-Use Thought Experiment](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md) - *1000% satire, but if yoi know humans, you know there's one type of violence which ultimately breaks everyone best, whether direct or vicarious, so you can't rile out putting network ties in something like this, either*
 <!--Sadly, I have met this half of the humans we call The Men™️, and some of them really do think up stiff like this, so one learms to be vigilant. It's satire, though. Obviously.-->
 *Survivor authorship is sovereign; containment is never neutral.*  
 _Last updated 2025-10-19_
