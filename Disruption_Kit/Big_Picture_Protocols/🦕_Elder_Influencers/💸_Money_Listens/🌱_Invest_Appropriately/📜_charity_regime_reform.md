@@ -1,5 +1,5 @@
 # 📜 Charity Regime Reform  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-15 | **Last updated:** 2025-10-19  
 *Policy design for transitional legislation toward democratic mutual aid.*
 
 ---
@@ -133,15 +133,15 @@ mutual aid, democratic governance, participatory budgeting, open ledgers, testim
 
 ## 🏮 Footer  
 
-*Charity Regime Reform* is a living node of the Polaris Protocol.  
+*📜 Charity Regime Reform* is a living node of the Polaris Protocol.  
 It proposes a lawful transition from traditional charity governance to democratic, resident-led mutual-aid structures with verifiable transparency and redress.  
 
 > 📡 Cross-references:
 > 
-> - [Mutual Aid vs Charity](./💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)  
-> - [Narrative of Deservingness](./💸_Money_Listens/🌱_Invest_Appropriately/💬_narrative_of_deservingness.md)  
-> - [Invest Appropriately](./💸_Money_Listens/🌱_Invest_Appropriately/🦾_invest_appropriately.md)
+> - [🧭 Mutual Aid vs Charity](../💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)  
+> - [📚 Narrative of Deservingness](../💸_Money_Listens/🌱_Invest_Appropriately/📚_narrative_of_deservingness.md)  
+> - [🦾 Invest Appropriately](../💸_Money_Listens/🌱_Invest_Appropriately/🦾_invest_appropriately.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2025-10-19_
