@@ -80,10 +80,6 @@ foreign influence, behavioural data, electoral integrity, PPERA, Elections Act 2
 *Foreign Influence & Behavioural Capture in UK Elections* is a living node of the Polaris Protocol.  
 It documents how influence can migrate through data infrastructures faster than law can follow, proposing audit trails that reconnect legality with legitimacy.  
 
-> 📡 Cross-references:  
-> - [⚖️ Behavioural Micro-Targeting & Electoral Integrity (UK)](../🌀_System_Governance/⚖️_behavioural_microtargeting_electoral_integrity_uk.md)  
-> - [🧭 Citizen Audit — Behavioural Data in Elections](../Survivor_Tools/🧭_citizen_audit_behavioural_data_in_elections.md)
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-19_
