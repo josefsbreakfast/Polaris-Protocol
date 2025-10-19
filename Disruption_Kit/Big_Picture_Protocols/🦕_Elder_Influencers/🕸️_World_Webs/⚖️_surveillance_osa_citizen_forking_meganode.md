@@ -1,6 +1,6 @@
 # ⚖️ Surveillance, OSA, and Citizen Forking — MEGA NODE  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-28  
-*A longform diagnostic of UK surveillance opacity, cyberforensic spoofing, and why citizens are forked out of their own defence*
+**First created:** 2025-09-05 | **Last updated:** 2025-10-19  
+*A longform diagnostic of UK surveillance opacity, cyberforensic spoofing, and why citizens are forked out of their own defence.*  
 
 ---
 
@@ -308,9 +308,9 @@ graph LR
 
 ## 🏮 Footer  
 
-*Surveillance, OSA, and Citizen Forking — MEGA NODE* is a living node of the Polaris Protocol.  
+*⚖️ Surveillance, OSA, and Citizen Forking — MEGA NODE* is a living node of the Polaris Protocol.  
 It documents how UK surveillance law, opacity under OSA, and cyberforensic spoofing converge to trap citizens in risk designations without exit routes.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-19_  
