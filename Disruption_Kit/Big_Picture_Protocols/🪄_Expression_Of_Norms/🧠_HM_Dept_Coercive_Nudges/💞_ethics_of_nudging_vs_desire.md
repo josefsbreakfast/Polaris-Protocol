@@ -41,7 +41,7 @@ It situates the conceptual hinge — *nudge* vs *trieb* — as an ethical fault 
 
 > 📡 Cross-references:  
 > 
-> - [🛰️ Nudge vs Fisher Probe (2025-09-11)](../../Field_Logs/🛰️_nudge_vs_fisher_probe_2025-09-11.md) — *experimental log of containment response*  
+> - [🛰️ Nudge vs Fisher Probe (2025-09-11)](../../../Field_Logs/🛰️_nudge_vs_fisher_probe_2025-09-11.md) — *experimental log of containment response*  
 > - [🏗️ 2010s Authoritarian-Adjacent Build](./🏗️_2010s_authoritarian_adjacent_build.md) — *systemic convergence of Prevent and nudges*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
