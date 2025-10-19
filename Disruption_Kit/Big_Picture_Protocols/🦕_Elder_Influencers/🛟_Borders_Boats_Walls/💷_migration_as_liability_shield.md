@@ -1,5 +1,5 @@
 # 💷 Migration as Liability Shield  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *How anti-migrant policy serves to deflect reparations and shield elite wealth while shifting costs onto taxpayers.*  
 
 ---
@@ -50,14 +50,15 @@
 
 ## 🏮 Footer  
 
-*Migration as Liability Shield* is a living node of the Polaris Protocol.  
+*💷 Migration as Liability Shield* is a living node of the Polaris Protocol.  
 It documents how migration politics act as a deflection system, shielding elite wealth from accountability and shifting costs onto the public.  
 
-> 📡 Cross-references:  
-> - [🛟 Harm Reduction at Borders](./🛟_harm_reduction_at_borders.md) — survival-first framing  
-> - [📦 Containment as Industry](../Disruption_Kit/Big_Picture_Protocols/📦_containment_as_industry.md) — profit flows from backlog  
-> - [💸 Donor Networks Alt-Right Media Overlap](../Disruption_Kit/Big_Picture_Protocols/💸_donor_networks_alt_right_media_overlap.md) — who pushes the narrative  
+> 📡 Cross-references:
+> 
+> - [🛟 Harm Reduction at Borders](./🛟_harm_reduction_at_borders.md) — *survival-first framing*  
+> - [📦 Containment as Industry](./📦_containment_as_industry.md) — *profit flows from backlog*  
+> - [💸 Donor Networks Alt-Right Media Overlap](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/💸_donor_networks_alt_right_media_overlap.md) — *who pushes the narrative*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-10-19_
