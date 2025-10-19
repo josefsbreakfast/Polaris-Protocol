@@ -1,6 +1,8 @@
 # 💣 Energy Rents and Strongman Panic  
 **First created:** 2025-09-20 | **Last updated:** 2025-10-19  
-*How Putin’s reliance on oil and gas rents shaped power consolidation and fuels recurrent insecurity.*
+*How Putin’s reliance on oil and gas rents shaped power consolidation and fuels recurrent insecurity.*  
+
+---
 
 ## Summary  
 This node examines how the collapse of the USSR, the sudden rise of oligarchic oil barons, and the consolidation of Gazprom and other rent streams under state control created the architecture of Putin’s rule. It maps key public incidents (Yukos, Nord Stream, post-2022 sanctions) to show why the Kremlin treats energy threats as existential — and why that produces both calculated coercion and panic-style overreach.
