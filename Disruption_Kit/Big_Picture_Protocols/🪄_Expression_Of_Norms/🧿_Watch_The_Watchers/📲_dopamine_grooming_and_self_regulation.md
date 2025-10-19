@@ -1,5 +1,5 @@
 # 📲 Dopamine Grooming and Self-Regulation  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-07  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-19  
 *On recognising and resisting neurochemical capture through interface design and surveillance feedback.*
 
 ---
@@ -66,14 +66,15 @@ dopamine grooming, interface design, behavioural conditioning, algorithmic nudgi
 
 ## 🏮 Footer  
 
-*Dopamine Grooming and Self-Regulation* is a living node of the Polaris Protocol.  
+*📲 Dopamine Grooming and Self-Regulation* is a living node of the Polaris Protocol.  
 It contributes to the *🧿 Watch The Watchers* cluster by mapping how interface architectures use reward loops to modulate behaviour — and how survivors can reclaim their internal pacing.  
 
-> 📡 Cross-references:  
-> - [🧿 Watch The Watchers](./README.md) — structural analysis of observation systems  
-> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — neurophysiology of control and release  
+> 📡 Cross-references:
+> 
+> - [🧿 Watch The Watchers](./README.md) — *structural analysis of observation systems*  
+> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *neurophysiology of control and release*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-19_
