@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 21:02:58 UTC_
+_Generated on 2025-10-19 21:06:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -34,6 +34,8 @@ _Generated on 2025-10-19 21:02:58 UTC_
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
         - [**election_audit/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/README.md)
+          - [`audit_loader.py`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/audit_loader.py)
+          - [`🧭_stronghold_capture_audit_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/🧭_stronghold_capture_audit_template.csv)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
         - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
         - [`uk_debates_overlap.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_debates_overlap.png)
