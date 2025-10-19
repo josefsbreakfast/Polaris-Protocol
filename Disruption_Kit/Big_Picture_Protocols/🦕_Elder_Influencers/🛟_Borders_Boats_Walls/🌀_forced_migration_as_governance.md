@@ -53,7 +53,7 @@ It maps how empire displaced populations to prevent cohesion, and how ritual sab
 > 📡 Cross-references:
 > 
 > - [🗝️ Deliberate Cultural Violation](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — *repeated violation of faith and ritual as policy*  
-> - [🌀 System_Governance](../../🌀_System_Governance/README.md) — *governance logics and control loops*  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *governance logics and control loops*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
