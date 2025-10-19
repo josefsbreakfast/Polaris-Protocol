@@ -1,5 +1,5 @@
 # 🌏 From Escalation to Play  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
 *Why endless escalation corrodes stability, and how cooperative “play” offers a stronger strategic model.*
 
 ---
@@ -55,14 +55,15 @@ Escalation masquerades as realism but is, in truth, self-defeating theatre. A po
 
 ## 🏮 Footer  
 
-*From Escalation to Play* is a living node of the Polaris Protocol.  
+*🌏 From Escalation to Play* is a living node of the Polaris Protocol.  
 It documents why endless escalation is a treadmill of fragility and why cooperative play is a more strategic model for shared survival.  
 
-> 📡 Cross-references:  
-> - [🔥 The Strength of Humour](../../Metadata_Sabotage_Network/Narrative_and_Psych_Ops/🔥_the_strength_of_humour.md) — how laughter punctures escalation theatre  
-> - [💣 Energy Rents and Strongman Panic](./💣_energy_rents_and_strongman_panic.md) — how resource anxiety fuels escalation  
-> - [⚖️ China Soft Ops vs Russia Hard Ops](./⚖️_china_soft_ops_vs_russia_hard_ops.md) — contrasting influence styles  
+> 📡 Cross-references:
+> 
+> - [🔥 The Strength of Humour](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md) — *how laughter punctures escalation theatre*  
+> - [💣 Energy Rents and Strongman Panic](./💣_energy_rents_and_strongman_panic.md) — *how resource anxiety fuels escalation*  
+> - [🌏 China Soft Ops vs Russia Hard Ops](./🌏_china_soft_ops_vs_russia_hard_ops.md) — *contrasting influence styles*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-19_
