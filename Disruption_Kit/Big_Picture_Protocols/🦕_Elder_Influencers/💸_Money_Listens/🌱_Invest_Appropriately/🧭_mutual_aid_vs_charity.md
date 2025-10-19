@@ -1,5 +1,5 @@
 # 🧭 Mutual Aid vs Charity  
-**First created:** 2025-10-16 | **Last updated:** 2025-10-16  
+**First created:** 2025-10-16 | **Last updated:** 2025-10-19  
 *A design blueprint contrasting mutual-aid systems with hierarchical charity structures.*
 
 ---
@@ -58,10 +58,11 @@ mutual aid, charity reform, power redistribution, democratic funding, community 
 *Mutual Aid vs Charity* is a living node of the Polaris Protocol.  
 It contrasts hierarchical benevolence with reciprocal solidarity, outlining the structural shifts required to move from dependence to shared sovereignty.  
 
-> 📡 Cross-references:  
-> - [📜 Charity Regime Reform](.📜_charity_regime_reform.md) — transitional policy design  
-> - [🌱 Human Principles] — ethics and dignity frameworks  
+> 📡 Cross-references:
+> 
+> - [📜 Charity Regime Reform](.📜_charity_regime_reform.md) — *transitional policy design*  
+> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *ethics and dignity frameworks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-10-19_
