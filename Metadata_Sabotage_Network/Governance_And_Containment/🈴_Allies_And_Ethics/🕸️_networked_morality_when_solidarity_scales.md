@@ -1,5 +1,5 @@
 # 🕸️ Networked Morality — When Solidarity Scales  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *On how moral consensus mutates when distributed across networks.*
 
 ---
@@ -32,10 +32,11 @@ networked ethics, solidarity, digital empathy, moral scalability, performative c
 *🕸️ Networked Morality — When Solidarity Scales* is a living node of the Polaris Protocol.  
 It traces how scaled networks turn ethics into spectacle and explores ways to restore granularity to solidarity.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🈴 Allies & Ethics README](./README.md)  
 > - [🪄 Performative Empathy Economies](./🪄_performative_empathy_economies.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
