@@ -1,5 +1,5 @@
 # 🛟 Harm Reduction Asylum Routes  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *Designing and scaling lawful routes as a harm reduction measure, reducing irregular crossings and deaths.*  
 
 ---
@@ -70,14 +70,15 @@ People will move. The question is whether routes are **safe or unsafe**. Current
 ---
 
 ## 🏮 Footer  
-*Harm Reduction Asylum Routes* is a living node of the Polaris Protocol.  
+*🛟 Harm Reduction Asylum Routes* is a living node of the Polaris Protocol.  
 It documents how lawful pathways can be scaled as harm reduction, reducing irregular crossings and deaths.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🛟 Harm Reduction at Borders](./🛟_harm_reduction_at_borders.md)  
 > - [📊 Immigration Myths and Impacts](./📊_immigration_myths_and_impacts.md)  
-> - [🏘️ Council Incentives Hotels](../🏘️_council_incentives_hotels.md)  
+> - [🏘️ Council Incentives Hotels](./🏘️_council_incentives_hotels.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-19_  
