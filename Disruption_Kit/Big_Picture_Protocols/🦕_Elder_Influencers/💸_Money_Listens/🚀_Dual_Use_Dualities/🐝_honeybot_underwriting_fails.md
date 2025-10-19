@@ -1,5 +1,5 @@
 # 🐝 HoneyBot Underwriting Fails — and How to Rectify Them  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-19  
 *A governance note on why dual-use or ethically volatile research collapses under weak underwriting, and what fixes restore accountability.*
 
 ---
@@ -68,13 +68,14 @@ underwriting failures, dual-use research, liability, insurance ethics, governanc
 
 ## 🏮 Footer  
 
-*HoneyBot Underwriting Fails — and How to Rectify Them* is a living node of the Polaris Protocol.  
+*🐝 HoneyBot Underwriting Fails — and How to Rectify Them* is a living node of the Polaris Protocol.  
 It outlines how insurance and compliance frameworks must evolve to recognise ethical and human-rights risk as core underwriting criteria.
 
-> 📡 Cross-references:  
-> - [🍯 HoneyBot — A Dual-Use Thought Experiment](./🍯_honeybot_dual_use_thought_experiment.md) — satirical origin case  
-> - [⚖️ Governance and Prevent] *TBC* — oversight architecture  
+> 📡 Cross-references:
+> 
+> - [🍯 HoneyBot — A Dual-Use Thought Experiment](./🍯_honeybot_dual_use_thought_experiment.md) — *satirical origin case*  
+> - [⚖️ Governance and Prevent](../../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) — *oversight architecture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
