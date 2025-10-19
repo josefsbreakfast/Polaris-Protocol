@@ -1,5 +1,5 @@
 # 🛰️ Hypothetical Nudge Map for [redacted]  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
 *Neutral hypothesis record exploring what a “from → to” nudge might look like for a public figure during the 2014–2016 window, without attribution of motive or claim of fact.*  
 
 ---
@@ -36,10 +36,11 @@ The map outlines what a displacement could have looked like if a subject were nu
 *Hypothetical Nudge Map* is a living node of the Polaris Protocol.  
 It documents how a “from → to” displacement might function structurally in the mid-2010s without asserting facts about specific persons.  
 
-> 📡 Backlinks:  
+> 📡 Cross-references:  
+> 
 > - [🧭 Counterfactual — St George’s 2016] *TBC*
-> - [🛑 Ignored Evidence Node](../👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)  
+> - [🛑 Ignored Evidence Node](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-19_  
