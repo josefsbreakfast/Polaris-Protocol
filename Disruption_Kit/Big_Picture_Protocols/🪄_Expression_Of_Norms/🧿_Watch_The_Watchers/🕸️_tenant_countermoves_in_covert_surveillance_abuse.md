@@ -1,5 +1,5 @@
 # 🕸️ Tenant Countermoves in Covert Surveillance Abuse  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-13  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-19  
 *Practical steps for tenants when rent increases and harassment overlap with surveillance interference.*
 
 ---
@@ -95,8 +95,8 @@ It documents survival strategies for tenants where surveillance interference dis
 > 
 > - [⚖️ Landlord Remedies for Covert Surveillance Abuse](./⚖️_landlord_remedies_for_covert_surveillance_abuse.md) — *landlord-side civil and tort claims*  
 > - [🧿 Watch the Watchers](./README.md) — *oversight of surveillance oversight*  
-> - [📜 Statutes](../📜_Statutes/README.md) — *housing, harassment, and surveillance law*  
+> - [📜 Statutes](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *housing, harassment, and surveillance law*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-19_
