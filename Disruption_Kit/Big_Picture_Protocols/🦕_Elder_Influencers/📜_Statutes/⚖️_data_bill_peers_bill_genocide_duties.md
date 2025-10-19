@@ -1,10 +1,10 @@
 # ⚖️ Overlaps Between the Data Bill, Hereditary Peers Bill, and UK Genocide-Prevention Duties  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-19  
 *Systemic analysis of how three parliamentary fronts — digital rights, Lords reform, and genocide prevention — collided in mid-2025.*  
 
 ---
 
-## 🗓️ 1. Timing  
+## 🗓️ Timing  
 - **Spring–Summer 2025** saw the peak of all three:  
   - *Data Bill*: Lords repeatedly defeating government on AI/copyright.  
   - *Hereditary Peers Bill*: Lords amending phase-out of hereditary seats.  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🏛️ 2. The Lords as a Flashpoint  
+## 🏛️ The Lords as a Flashpoint  
 - **Data Bill**: Peers sided with creators against “state-sanctioned theft” by AI firms.  
 - **Hereditary Peers Bill**: Peers defended their own position, pushing amendments to soften abolition.  
 - **Gaza debates**: Crossbenchers, bishops, and legal experts in the Lords pressed the government on complicity and obligations under the Genocide Convention.  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🎭 3. Starmer’s Pattern  
+## 🎭 Starmer’s Pattern  
 Across each issue, Starmer’s government:  
 - Uses **strong rhetoric** but **avoids maximalist labels** (e.g. refuses “genocide” label, avoids “abolish at once” in Lords, avoids “ban AI scraping outright”).  
 - Pursues **incremental reform** rather than decisive rupture.  
@@ -32,7 +32,7 @@ Across each issue, Starmer’s government:
 
 ---
 
-## ⚠️ 4. The Charge of Complicity  
+## ⚠️ The Charge of Complicity  
 Critics argue that half-measures create **practical complicity**:  
 - **Data Bill**: Complicity with big AI firms at expense of creators.  
 - **Hereditary Peers Bill**: Complicity in preserving undemocratic privileges.  
@@ -40,7 +40,7 @@ Critics argue that half-measures create **practical complicity**:
 
 ---
 
-## 📊 5. Public Opinion  
+## 📊 Public Opinion  
 - Majority of Britons back **broad Lords reform** (>60%).  
 - Majority back **ending arms sales to Israel** (~60–65%).  
 - Significant support for **AI safeguards and copyright protections**.  
@@ -103,10 +103,11 @@ data bill, hereditary peers, genocide prevention, complicity, lords reform, AI c
 *Overlaps Between the Data Bill, Hereditary Peers Bill, and UK Genocide-Prevention Duties* is a living node of the Polaris Protocol.  
 It documents how simultaneous Lords debates on AI, constitutional reform, and Gaza obligations reveal systemic patterns of complicity and incrementalism.  
 
-> 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — *contract laundering and system governance*  
-> - [🚨 Superinjunctions, SLAPPs & Rape Cases](../🌀_System_Governance/🚨_superinjunctions_slapps_rape_cases.md) — *precedent for legal shielding of state complicity*  
+> 📡 Cross-references:
+> 
+> - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *contract laundering and system governance*  
+> - [🚨 Superinjunctions, SLAPPs & Rape Cases](../../🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md) — *precedent for legal shielding of state complicity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-19_  
