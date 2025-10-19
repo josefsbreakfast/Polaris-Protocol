@@ -1,7 +1,5 @@
 # 🏛️ Political Perverts  
-
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
-
+**First created:** 2025-10-01 | **Last updated:** 2025-10-19  
 *A satirical lens on the UK’s surveillance class: how ministers become addicted to their own warrants, stroking renewal papers every six months as if secrecy itself were a kink.*  
 
 ---
@@ -36,20 +34,16 @@ They behave like voyeurs of state data, unable to stop themselves from peeking, 
 
 ---
 
-## 🔗 Cross-References  
-
-- [📜 Statutes → IPA](../📜_statutes) — legal architecture of investigatory powers  
-- [🧿 Watch_The_Watchers](../🧿_watch_the_watchers.md) — oversight of oversight  
-- [🔥 Suppression as Signal](../🔥_suppression_as_signal.md) — how containment mechanisms broadcast risk  
-- [🚫 NCND Technique](../🚫_ncnd_technique.md) — “neither confirm nor deny” as a suppression manoeuvre  
-
----
-
 ## 🏮 Footer  
 
 *🏛️ Political Perverts* is a satirical node of the Polaris Protocol.  
 It preserves the forensic mechanics of surveillance renewals but frames them through the absurd lens of ministers as voyeurs of secrecy.  
 
+- [📜 Statutes → IPA](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legal architecture of investigatory powers*  
+- [🧿 Watch_The_Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight*  
+- [🚫 NCND Technique](../../🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md) — *“neither confirm nor deny” as a suppression manoeuvre*  
+
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-19_
