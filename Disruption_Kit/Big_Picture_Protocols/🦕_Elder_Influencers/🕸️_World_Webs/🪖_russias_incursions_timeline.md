@@ -1,6 +1,6 @@
 # 🪖 Russia’s Incursions Timeline  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-28    
-*Skeleton chronology of Russian military and coercive operations in Ukraine, Chechnya, and the wider Caucasus, with metadata anchors for systemic overlap.*
+**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
+*Skeleton chronology of Russian military and coercive operations in Ukraine, Chechnya, and the wider Caucasus, with metadata anchors for systemic overlap.*  
 
 ---
 
@@ -43,11 +43,12 @@ Anchor dates for metadata + surveillance events relevant to systemic incursions.
 *Russia’s Incursions Timeline* is a living node of the Polaris Protocol.  
 It documents a skeleton chronology of Russian military operations alongside metadata anchors for systemic mapping.  
 
-> 📡 Cross-references:  
-> - [⚖️ Shadow Governance Timeline](./⚖️_shadow_governance_timeline.md)  
-> - [📚 Crisis Theatre](./📚_crisis_theatre.md)  
+> 📡 Cross-references:
+> 
+> - [⚖️ Shadow Governance Timeline](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_shadow_governance_timeline.md)  
+> - [📚 Crisis Theatre](../../🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)  
 > - [💸 Russian Overlap Patterns](./💸_russian_overlap_patterns.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-19_  
