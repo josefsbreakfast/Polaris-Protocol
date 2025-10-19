@@ -34,7 +34,7 @@ It traces how care becomes a spectacle that sustains institutional legitimacy.
 > 📡 Cross-references:
 > 
 > - [🈴 Allies & Ethics README](./README.md)  
-> - [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)  
+> - [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
