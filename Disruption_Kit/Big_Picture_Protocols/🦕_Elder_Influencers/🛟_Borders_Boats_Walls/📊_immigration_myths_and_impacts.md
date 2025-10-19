@@ -1,5 +1,5 @@
 # 📊 Immigration Myths and Impacts  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-16  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *Fact-checking asylum myths, tracing coercive control, and recording community impact.*  
 
 ---
@@ -66,14 +66,15 @@ Stripping away these rights does not just affect asylum seekers. It weakens acco
 ---
 
 ## 🏮 Footer  
-*Immigration Myths and Impacts* is a living node of the Polaris Protocol.  
+*📊 Immigration Myths and Impacts* is a living node of the Polaris Protocol.  
 It combines myth-busting with legal and economic context, situating border narratives as tools of coercive control.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚖️ Coercive Control in Border Policy](./⚖️_coercive_control_in_border_policy.md)  
-> - [💷 Migration as Liability Shield](./💷_migration_as_liability_shield.md)  
+> - [💷 Migration as Liability Shield](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)  
 > - [🛟 Harm Reduction Asylum Routes](./🛟_harm_reduction_asylum_routes.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-16_  
+_Last updated: 2025-10-19_  
