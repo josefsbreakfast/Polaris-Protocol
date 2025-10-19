@@ -40,7 +40,7 @@ They behave like voyeurs of state data, unable to stop themselves from peeking, 
 It preserves the forensic mechanics of surveillance renewals but frames them through the absurd lens of ministers as voyeurs of secrecy.  
 
 - [📜 Statutes → IPA](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legal architecture of investigatory powers*  
-- [🧿 Watch_The_Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight*  
+- [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight*  
 - [🚫 NCND Technique](../../🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md) — *“neither confirm nor deny” as a suppression manoeuvre*  
 
 
