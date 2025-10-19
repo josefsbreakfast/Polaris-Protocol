@@ -1,5 +1,5 @@
 # 🚷 Ethical Withdrawal  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *On the ethics of stepping back without abandonment.*
 
 ---
@@ -32,10 +32,11 @@ withdrawal, refusal, ethics, autonomy, collaboration, burnout, boundaries, survi
 *🚷 Ethical Withdrawal* is a living node of the Polaris Protocol.  
 It recognises stepping away as a valid form of survivor protection and moral clarity.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🈴 Allies & Ethics README](./README.md)  
 > - [⚖️ Reciprocal Accountability Protocol](./⚖️_reciprocal_accountability_protocol.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
