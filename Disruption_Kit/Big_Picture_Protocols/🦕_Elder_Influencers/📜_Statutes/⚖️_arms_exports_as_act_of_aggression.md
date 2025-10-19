@@ -132,7 +132,7 @@ It maps the legal terrain where trade, knowledge, and silence converge — and r
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Defence Without War Powers](./⚖️_defence_without_war_powers.md) — *analysis of executive war powers and prerogative deployment*  
+> - [⚖️ Defence Without War Powers] *TBC* — *analysis of executive war powers and prerogative deployment*  
 > - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight and accountability nodes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
