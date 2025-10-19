@@ -1,5 +1,5 @@
 # ⚖️ Legality as Gaslight — Section 17 & selective disclosure  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *On how legal compliance windows and selective non-disclosure (e.g., Section 17 transitions) can be weaponised to gaslight and retraumatise survivors.*
 
 ## Summary
@@ -27,11 +27,9 @@ This note critiques how legal and policy windows—where authorities claim they 
 ---
 
 ## 🏮 Footer
-*Legality as Gaslight* is a living node of the Polaris Protocol.  
+*⚖️ Legality as Gaslight* is a living node of the Polaris Protocol.  
 It documents how lawful-seeming non-disclosure practices can perpetuate harm, and it proposes governance and practical remedies to reduce retraumatisation while preserving legitimate security needs.
-
-> 📡 Cross-references:  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_
+_Last updated: 2025-09-19_
