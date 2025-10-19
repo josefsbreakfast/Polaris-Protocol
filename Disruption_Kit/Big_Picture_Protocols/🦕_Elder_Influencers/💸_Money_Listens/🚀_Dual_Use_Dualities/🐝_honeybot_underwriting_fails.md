@@ -74,7 +74,7 @@ It outlines how insurance and compliance frameworks must evolve to recognise eth
 > 📡 Cross-references:
 > 
 > - [🍯 HoneyBot — A Dual-Use Thought Experiment](./🍯_honeybot_dual_use_thought_experiment.md) — *satirical origin case*  
-> - [⚖️ Governance and Prevent](../../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) — *oversight architecture*  
+> - [⚖️ Governance & Prevent](../../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) — *oversight architecture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
