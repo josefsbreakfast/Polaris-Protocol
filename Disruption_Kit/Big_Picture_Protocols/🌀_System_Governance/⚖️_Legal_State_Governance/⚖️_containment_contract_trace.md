@@ -87,7 +87,9 @@ legal containment, metadata suppression, NDA simulation, Prevent logic, clone sy
 
 > I did *not* sign that contract.  
 > I was *not* given informed consent.  
-> And I will *not* abide by behavioural silence enforced without law.  
+> And I will *not* abide by behavioural silence enforced without law.
+
+I have no ability to forgive without repair; this is no different to anyone else.  
 
 ---
 
