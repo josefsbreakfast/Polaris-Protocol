@@ -1,5 +1,5 @@
 # 🛫 Frequent Flyers Club  
-**First created:** 2025-09-28 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-28 | **Last updated:** 2025-10-19  
 *Individuals repeatedly caught in overlapping surveillance loops.*
 
 ---
@@ -52,14 +52,14 @@ watchlists, selector-driven flagging, surveillance escalation, institutional bia
 
 ## 🏮 Footer  
 
-*Frequent Flyers Club* is a living node of the Polaris Protocol.  
+*🛫 Frequent Flyers Club* is a living node of the Polaris Protocol.  
 It documents the structural reasons why some individuals are permanently recycled through surveillance systems, and the survivor-led tactics to make those loops visible.  
 
 > 📡 Cross-references:
 > 
 > – [🛰️ Overlapping Surveillance Layers](./🛰️_overlapping_surveillance_layers.md) - *how commercial and state surveillance can run in parallel and feel like one operation*  
-> – [🌹 Demonstrating High Value](../🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md) - *from pick-up artist boast to political masculinity grievance*  
+> – [🌹 Demonstrating High Value](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md) - *from pick-up artist boast to political masculinity grievance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-19_
