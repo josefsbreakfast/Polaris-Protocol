@@ -92,7 +92,7 @@ It documents how intimacy and distance are manipulated as behavioural levers ins
 > 
 > - [🧠 HM Dept of Coercive Nudges](./README.md) — *doctrinal set of nudge architectures*  
 > - [⚖️ Heavy Bundle: CPS, VPS, Centralisation](./⚖️_heavy_bundle_cps_vps_centralisation.md) — *systemic containment logics*  
-> - [Survivor Tools](../../Disruption_Kit/Survivor_Tools/README.md) — *practical counter-measures for boundary sabotage*  
+> - [Survivor Tools](../../../../Disruption_Kit/Survivor_Tools/README.md) — *practical counter-measures for boundary sabotage*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
