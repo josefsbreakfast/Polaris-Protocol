@@ -47,7 +47,7 @@ It documents how divergent influence styles converge opportunistically and why t
 > 📡 Cross-references:
 > 
 > - [🐉 Chen Rui / Ryan — Trump Parody](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md) — *case study of soft ops through parody*  
-> - [🔥 The Strength of Humour](../../../../Metadata_Sabotage_Network/Narrative_and_Psych_Ops/🔥_the_strength_of_humour.md) — *humour as solvent of authoritarian performance*  
+> - [🔥 The Strength of Humour](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md) — *humour as solvent of authoritarian performance*  
 > - [Big Picture Protocols](../../README.md) — *systemic diagnostics of global power*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
