@@ -1,5 +1,5 @@
 # 🚫 He Will Not Find Me  
-**First created:** 2025-08-06  |  **Last updated:** 2025-10-08  
+**First created:** 2025-08-06  |  **Last updated:** 2025-10-19  
 *A declaration-node of refusal and digital invisibility; a boundary against coercive search and emotional triangulation.*  
 
 ---
@@ -81,15 +81,15 @@ survivor refusal, visibility sovereignty, metadata camouflage, emotional surveil
 
 ## 🏮 Footer  
 
-*He Will Not Find Me* is a living node of the Polaris Protocol.  
+*🚫 He Will Not Find Me* is a living node of the Polaris Protocol.  
 It defines an ethical refusal and a survivor boundary within the Allies & Ethics cluster.  
 
 > 📡 Cross-references:
 > 
 > - [🈴 Allies & Ethics — README](./README.md)  
-> - [🏛 Governance & Containment — README](../../)  
+> - [🏛 Governance & Containment — README](../README.md)  
 > - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
