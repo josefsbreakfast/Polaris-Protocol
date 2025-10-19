@@ -1,6 +1,6 @@
 # 📠 When Truth Becomes a Trade  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
-*Analysis of commodification of truth in containment contracts.*
+**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
+*Analysis of commodification of truth in containment contracts.*  
 
 ---
 
@@ -165,4 +165,4 @@ It analyses how truth is commodified and exchanged within containment architectu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
