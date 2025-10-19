@@ -1,5 +1,5 @@
 # ⚖️ Reciprocal Accountability Protocol  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *A framework for two-way ethical review between survivors and allies.*
 
 ---
@@ -116,11 +116,10 @@ accountability, reciprocity, ethics, collaboration, survivor alliances, structur
 *⚖️ Reciprocal Accountability Protocol* is a living node of the Polaris Protocol.  
 It provides scaffolding for ethical maintenance within survivor–ally collaboration and ensures critique travels both directions.  
 
-> 📡 Cross-references:  
-> - [🈴 Allies & Ethics README](./README.md) — cluster context for alliance frameworks  
-> - [🎛 Pocket Rules — Survivor Voice Fidelity](../../../Polaris_Nest/🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md) — tone anchor  
-> - [📋 Protocol Integrity SOP](../../../Polaris_Nest/🏮_Admin_Kit/protocol_integrity_sop.md) — structural checks  
+> 📡 Cross-references:
+> 
+> - [🈴 Allies & Ethics README](./README.md) — *cluster context for alliance frameworks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
