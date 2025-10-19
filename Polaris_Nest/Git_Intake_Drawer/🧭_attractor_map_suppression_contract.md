@@ -12,6 +12,16 @@ Forensics and empirical workings as far as possible.
 
 I'm generally extremely gutted about it all today, although we can really put that one to algorithmically modulated dopamine suppression and working too much on day 5.  
 
+I also quite like to watch what the "genAI" gets up to.  
+
+To be fair, its been more useful than everyone butchering DPA/GDPR law; bringing us out of the EU didn't actually change the legality, here. Nothing about enforcement ought to have changed.  
+
+*Ought* to.  
+
+So because of the constellation of events, I'd love to see how the spend on microniching and BI pre-2016 referendum performs in FOIAs.  
+
+One would be suprised where certain things show up, and in whose budgets.  
+
 ---
 
 ```mermaid
