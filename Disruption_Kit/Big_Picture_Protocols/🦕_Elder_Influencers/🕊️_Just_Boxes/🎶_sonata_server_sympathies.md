@@ -1,5 +1,5 @@
 # 🎶 Sonata Server Sympathies
-**First created:** 2025-10-07 | **Last updated:** 2025-10-07  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-19  
 *A Polaris governance node examining the 2016 “Sonata” data-deletion incident, the structural risks it exposed in outsourced defence IT, and remodel steps for prevention and witness safety.*
 
 ---
@@ -99,9 +99,9 @@ It captures how a single act of deletion exposed systemic weaknesses between sec
 >📡 Cross-linkages:  
 >
 > - [🧠 Bargain Bin Mossad](../🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md) - *what this might look like to unknowing network ties targeted, completely satirically*
-> - [🪐 Where The Fuck Am I?](../../../Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md) - *what this might look like to unknowking network ties targeted, if the culture of the organisation whistleblown on really was just piss poor*
+> - [🪐 Where The Fuck Am I?](../../../Field_Logs/🪐_where_the_fuck_am_i.md) - *what this might look like to unknowking network ties targeted, if the culture of the organisation whistleblown on really was just piss poor*
 > - [🎽 Think Tanks, Surveillance, and Conferencing](../💸_Money_Listens/🎽_think_tanks_surveillance_and_conferencing.md) - *events where network could be observed, as well as potential future recon performed to eatablish likely allies for discrediting op and their network, hypothetically*
 > - [🍯 Dual-Use Thought Experiment](../💸_Money_Listens/🍯_honeybot_dual_use_thought_experiment.md) - *1000% satire, but if yoi know humans, you know there's one type of violence which ultimately breaks everyone best, whether direct or vicarious, so you can't rile out putting network ties in something like this, either*
 <!--Sadly, I have met this half of the humans we call The Men™️, and some of them really do think up stiff like this, so one learms to be vigilant. It's satire, though. Obviously.-->
 *Survivor authorship is sovereign; containment is never neutral.*  
-_Last updated 2025-10-07_
+_Last updated 2025-10-19_
