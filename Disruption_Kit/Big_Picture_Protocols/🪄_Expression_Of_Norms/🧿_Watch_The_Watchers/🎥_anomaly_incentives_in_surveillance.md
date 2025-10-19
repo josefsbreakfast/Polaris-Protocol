@@ -1,5 +1,5 @@
 # 🎥 Anomaly Incentives in Surveillance  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-12  
+**First created:** 2025-09-29 | **Last updated:** 2025-10-19  
 *Why surveillance architectures create incentives to keep outliers under permanent scrutiny.*  
 
 ---
@@ -109,15 +109,15 @@ investigatory powers act, surveillance industry, anomaly incentives, profiling, 
 
 ## 🏮 Footer  
 
-*Anomaly Incentives in Surveillance* is a living node of the Polaris Protocol.  
+*🎥 Anomaly Incentives in Surveillance* is a living node of the Polaris Protocol.  
 It documents how legislative and commercial architectures incentivise permanent surveillance of those who fall outside standard demographic categories — trending from anomaly capture, to discrimination, to genocidal conditioning.  
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems & Governance](../🌀_System_Governance/README.md) — *on oversight and authorisation chains*  
-> - [📦 Containment by Classification](../🗝️_Politics_Memory_Work/📦_containment_by_classification.md) — *on misidentification and box logic as suppression*  
-> - [🩻 Weirdness Screening](../../../🩻_Weirdness_Screening/README.md) — *on systemic anomalies and their forensic traces*  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *on oversight and authorisation chains*  
+> - [📦 Containment by Classification](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📦_containment_by_classification.md) — *on misidentification and box logic as suppression*  
+> - [🩻 Weirdness Screening](../../../../🩻_Weirdness_Screening/README.md) — *on systemic anomalies and their forensic traces*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_  
+_Last updated: 2025-10-19_  
