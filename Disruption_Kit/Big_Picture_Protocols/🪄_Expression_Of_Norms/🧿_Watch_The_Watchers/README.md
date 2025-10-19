@@ -1,5 +1,5 @@
 # 🧿 Watch the Watchers  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-19  
 *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
 
 ---
@@ -31,14 +31,14 @@ It is not passive witness — it is active inversion, a survival tactic, and oft
 
 ---
 
-## 📡 Cross-References  
-
-- [👁️‍🗨️ Witness Histories](../👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *aligned but distinct: here witness becomes strategy*  
-- [🗝️ Politics & Memory Work](../🗝️_Politics_Memory_Work/README.md) — *where exposure contests erasure*  
-- [🛠️ Disruption Kit](../../../Disruption_Kit/README.md) — *survivor-led tools, field logs, countermeasures*  
+> 📡 Cross-References  
+>
+> - [👁️‍🗨️ Witness & Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic accounts of watching and being watched*  
+> - [🗝️ Political Economy & Memory Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md) — *contested histories and erasures*  
+> - [🛠️ Disruption Kit](../../../Disruption_Kit/README.md) — *survivor-led tools, field logs, countermeasures*  
 
 ---
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-19_
