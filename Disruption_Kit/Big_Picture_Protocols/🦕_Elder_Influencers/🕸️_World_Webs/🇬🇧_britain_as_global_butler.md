@@ -1,5 +1,5 @@
 # 🇬🇧 Britain as Global Butler  
-**First created:** 2025-09-17 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-17 | **Last updated:** 2025-10-19  
 *On Britain’s structural role as service-state to larger powers.*  
 
 ---
@@ -46,11 +46,11 @@ It analyses the UK’s systemic position as a service-state, staging sovereignty
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — contractual logic in governance  
+> - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *contractual logic in governance*  
 > - [🎊 Multi-Party Data Twinning](../💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md
-) — intermediaries as fusers of overlapping interests  
-> - [Survivor Tools](../../Survivor_Tools/README.md) — practical strategies for navigating systemic containment  
+) — *intermediaries as fusers of overlapping interests*  
+> - [Survivor Tools](../../Survivor_Tools/README.md) — *practical strategies for navigating systemic containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-19_
