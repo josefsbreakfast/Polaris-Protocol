@@ -1,5 +1,5 @@
 # 🌏 BRICS Bridgework & Middle Corridors  
-**First created:** 2025-09-17 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-17 | **Last updated:** 2025-10-19  
 *How BRICS linkages through South Asia, Africa, and the Middle East rewire leverage between China/Russia and the West.*
 
 ---
@@ -65,10 +65,10 @@ It maps how corridor politics let states arbitrage between China/Russia and the 
 
 > 📡 Cross-references:
 > 
-> - [🇬🇧 Britain as Global Butler](../🕸️_World_Webs/🇬🇧_britain_as_global_butler.md) — *intermediary state logic*  
+> - [🇬🇧 Britain as Global Butler](./🇬🇧_britain_as_global_butler.md) — *intermediary state logic*  
 > - [🎊 Multi-Party Data Twinning](../💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md) — *vendors as fusion points*  
-> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md)
+> - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-19_
