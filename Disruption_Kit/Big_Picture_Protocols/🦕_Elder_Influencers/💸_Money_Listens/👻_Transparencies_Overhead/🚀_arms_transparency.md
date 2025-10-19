@@ -1,5 +1,5 @@
 # 🚀 Arms Transparency  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-13  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
 *On the performative language of transparency in the arms trade — where disclosure becomes its own camouflage.*
 
 ---
@@ -92,14 +92,14 @@ arms trade, transparency, defence industry, lobbying, procurement, offsets, thin
 
 ## 🏮 Footer  
 
-*Arms Transparency* is a living node of the **Polaris Protocol**, within the **💸 Money Listens** cluster.  
+*🚀 Arms Transparency* is a living node of the **Polaris Protocol**, within the **💸 Money Listens** cluster.  
 It examines how the rhetoric of openness in the arms sector conceals material pipelines of power, and how earlier models of public visibility once stabilised rather than obscured collective trust.  
 
 > 📡 Cross-references:
 > 
 > - [🎽 Think Tanks, Surveillance, and Conferencing](./🎽_think_tanks_surveillance_and_conferencing.md) — *how influence circuits perform legitimacy*  
-> - [🪬 Radicalisation & Extremism](../../🪬_Radicalisation_Extremism/README.md) — *overlaps with security narrative laundering*  
+> - [🪬 Radicalisation & Extremism](../../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *overlaps with security narrative laundering*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-19_
