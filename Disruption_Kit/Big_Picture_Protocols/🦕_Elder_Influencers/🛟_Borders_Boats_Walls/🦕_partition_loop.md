@@ -1,5 +1,5 @@
 # 🦕 Partition Loop — Borders as Violence  
-**First created:** 2025-09-24 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-24 | **Last updated:** 2025-10-19  
 *How rigid borders manufacture itinerancy and unleash cycles of violence.*  
 
 ---
@@ -42,13 +42,14 @@ and in scattering, become governable: as migrants, refugees, displaced.
 
 ## 🏮 Footer  
 
-*Partition Loop — Borders as Violence* is a living node of the Polaris Protocol.  
+*🦕 Partition Loop — Borders as Violence* is a living node of the Polaris Protocol.  
 It maps how borders turn lived plurality into recurring catastrophe,  
 how the line itself is a wound that does not close.  
 
-> 📡 Cross-references:  
-> - [🫀 Genocide by Containment](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md)  
-> - [📚 Crisis Theatre](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_crisis_theatre.md)  
+> 📡 Cross-references:
+> 
+> - [🫀 Genocide by Containment](../../🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md)  
+> - [📚 Crisis Theatre](../../🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
@@ -57,4 +58,4 @@ the earth remembers no straight lines.
 Rivers meander. Roots cross beneath fences.  
 What was cut apart seeks its way back together.  
 
-_Last updated: 2025-09-26_
+_Last updated: 2025-10-19_
