@@ -1,5 +1,5 @@
 # ⚖️ Landlord Remedies for Covert Surveillance Abuse  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-07  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-19  
 *Civil and tortious claims available when tenants covertly convert property into a surveillance hub.*  
 
 ---
@@ -115,11 +115,12 @@ landlord remedies, covert surveillance, harassment, breach of lease, economic to
 *⚖️ Landlord Remedies for Covert Surveillance Abuse* is a living node of the Polaris Protocol.  
 It documents the civil, tortious, and regulatory claims available when landlords discover their property has been weaponised into a surveillance hub.  
 
-> 📡 Cross-references:  
-> - [📜 Statutes](../📜_Statutes/README.md) — *systemic legal architectures*  
-> - [🧿 Watch the Watchers](./README.md) — *oversight of oversight*  
-> - [👅 Voice Disruption & Discrediting](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *harassment and sexualised surveillance patterns*  
+> 📡 Cross-references:
+> 
+> - [📜 Statutes](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *relevant international and domestic legal frameworks*  
+> - [🧿 Watch the Watchers](./README.md) — *meta-oversight and audit capture*  
+> - [👅 Voice Disruption & Discrediting](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *harassment and sexualised surveillance patterns*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-19_
