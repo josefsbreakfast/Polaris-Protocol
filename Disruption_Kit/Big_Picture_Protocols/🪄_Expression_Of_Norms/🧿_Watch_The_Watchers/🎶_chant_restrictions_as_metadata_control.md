@@ -117,7 +117,7 @@ chant restrictions, other powers, elastic democracy, deference politics, fragili
 
 ## 🏮 Footer  
 
-*Chant Restrictions as Metadata Control* is a living node of the Polaris Protocol.  
+*🎶 Chant Restrictions as Metadata Control* is a living node of the Polaris Protocol.  
 It documents how rhetorical vagueness and vulnerability coding liquefy democratic speech boundaries into behavioural containment.  
 
 > 📡 Cross-references:
