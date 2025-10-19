@@ -41,7 +41,7 @@ It preserves the forensic mechanics of surveillance renewals but frames them thr
 
 - [📜 Statutes → IPA](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legal architecture of investigatory powers*  
 - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight*  
-- [🚫 NCND Technique](../../🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md) — *“neither confirm nor deny” as a suppression manoeuvre*  
+- [❌ NCND Technique](../../🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md) — *“neither confirm nor deny” as a suppression manoeuvre*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
