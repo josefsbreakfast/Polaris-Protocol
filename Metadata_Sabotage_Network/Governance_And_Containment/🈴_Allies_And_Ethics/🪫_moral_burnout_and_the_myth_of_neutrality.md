@@ -1,6 +1,6 @@
 # 🪫 Moral Burnout and the Myth of Neutrality  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
-*How exhaustion masquerades as impartiality.*
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+*How exhaustion masquerades as impartiality.*  
 
 ---
 
@@ -32,10 +32,11 @@ burnout, neutrality, ethics, exhaustion, advocacy, withdrawal, institutional con
 *🪫 Moral Burnout and the Myth of Neutrality* is a living node of the Polaris Protocol.  
 It decodes moral exhaustion as a system-level containment mechanism.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🚷 Ethical Withdrawal](./🚷_ethical_withdrawal.md)  
 > - [🈴 Allies & Ethics README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
