@@ -138,9 +138,9 @@ It proposes a lawful transition from traditional charity governance to democrati
 
 > 📡 Cross-references:
 > 
-> - [🧭 Mutual Aid vs Charity](../💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)  
-> - [📚 Narrative of Deservingness](../💸_Money_Listens/🌱_Invest_Appropriately/📚_narrative_of_deservingness.md)  
-> - [🦾 Invest Appropriately](../💸_Money_Listens/🌱_Invest_Appropriately/🦾_invest_appropriately.md)
+> - [🧭 Mutual Aid vs Charity](../🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)  
+> - [📚 Narrative of Deservingness](../🌱_Invest_Appropriately/📚_narrative_of_deservingness.md)  
+> - [🦾 Invest Appropriately](../🌱_Invest_Appropriately/🦾_invest_appropriately.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
