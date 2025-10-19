@@ -1,6 +1,6 @@
 # 🏛️ OSA Misclassification, UK–Israel MoUs, and Survivor Records  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-28    
-*Forensic map of how UK–Israel agreements interact with Official Secrets Act mis-tagging, and how survivor data can be wrongfully exposed under “security” pretexts.*
+**First created:** 2025-09-06 | **Last updated:** 2025-10-19  
+*Forensic map of how UK–Israel agreements interact with Official Secrets Act mis-tagging, and how survivor data can be wrongfully exposed under “security” pretexts.*  
 
 ---
 
@@ -135,11 +135,7 @@ This is exactly what Polaris casefiles describe as **“genocide by containment�
 - **Expose absurdity:** “Foreign state could access my trauma file faster than I could.”  
 - **Human Rights leverage:** Mis-tag = degrading treatment under Article 3 ECHR.  
 - **Demand correction:** Push not only for access, but for **reclassification under civil law.**
-
-<!-- The exhaustion based interference to fatigue this publish was higher than the current background noise interference. Unable to hit commit; reload, restore, etc. 
-
-Guilty conscience? -->
-
+<!-- The exhaustion based interference to fatigue this publish was higher than the current background noise interference. Unable to hit commit; reload, restore, etc. Guilty conscience? -->
 ---
 
 ## 🏮 Footer  
@@ -149,4 +145,4 @@ It shows how legal agreements that *don’t cover personal records* can be bent 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-19_  
