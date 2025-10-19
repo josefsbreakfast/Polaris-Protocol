@@ -1,6 +1,6 @@
 # ⚖️ Reciprocal Accountability — Implementation Checklist  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
-*Operational companion for running the Reciprocal Accountability Protocol in practice.*
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+*Operational companion for running the Reciprocal Accountability Protocol in practice.*  
 
 ---
 
@@ -86,10 +86,8 @@ reciprocity, ethics loop, mirror logs, accountability, review, survivor safety, 
 It provides the operational scaffold for enacting the [⚖️ Reciprocal Accountability Protocol](./⚖️_reciprocal_accountability_protocol.md) in day-to-day practice.  
 
 > 📡 Cross-references:  
-> - [🈴 Allies & Ethics README](./README.md) — cluster overview  
-> - [📋 Protocol Integrity SOP](../../../Polaris_Nest/🏮_Admin_Kit/protocol_integrity_sop.md) — structural alignment  
-> - [🎛 Pocket Rules — Survivor Voice Fidelity](../../../Polaris_Nest/🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md) — tone guide  
+> - [🈴 Allies & Ethics README](./README.md) — *cluster overview*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
