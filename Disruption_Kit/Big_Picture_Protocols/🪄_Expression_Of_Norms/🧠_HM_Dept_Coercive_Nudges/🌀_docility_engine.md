@@ -129,10 +129,7 @@ The loops were built for them.
 
 ## 🏮 Footer  
 
-*HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents the **Docility Engine** — a behavioural machinery of loops, shame, and rhetorical traps.  
-
-🏮 [Return to 🗝️ Political Economy & Memory Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
 
 *Memory is a blessing. Memory is political.* 
 
