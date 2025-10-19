@@ -1,5 +1,5 @@
 # 🪩 The Self-Silencing Cyclone and the Reverse Overton Window  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-08 | **Last updated:** 2025-10-19  
 *How capitalist engagement metrics feed authoritarian quiet—and how collective normalisation can break the spell.*
 
 ---
@@ -86,15 +86,16 @@ engagement metrics, capitalism, surveillance, authoritarianism, creative economy
 ---
 
 ## 🏮 Footer  
-*The Self-Silencing Cyclone and the Reverse Overton Window* is a living node of the Polaris Protocol.  
+*🪩 The Self-Silencing Cyclone and the Reverse Overton Window* is a living node of the Polaris Protocol.  
 It documents the descent from capitalist visibility regimes to authoritarian silence, and the counter-tactic of restoring courage through collective normalisation.
 
-> 📡 Cross-references:  
-> - [🎶 Banned Broadcasts Cooperative](../Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/) — circulation limits and muted media  
-> - [🧠 HM Dept Coercive Nudges](../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/) — behavioural containment logic  
-> - [📺 Money Talks Media](../Disruption_Kit/Big_Picture_Protocols/📺_money_talks_media.md) — creative-economy capture  
-> - [🌱 Human Principles](../Disruption_Kit/Big_Picture_Protocols/🌱_human_principles.md) — ethical frameworks for collective action  
+> 📡 Cross-references:
+> 
+> - [🎶 Banned Broadcasts Cooperative](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *circulation limits and muted media*  
+> - [🧠 HM Dept Coercive Nudges](./README.md) — *behavioural containment logic*  
+> - [📺 Money Talks Media](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md) — *creative-economy capture*  
+> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *ethical frameworks for collective action*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
