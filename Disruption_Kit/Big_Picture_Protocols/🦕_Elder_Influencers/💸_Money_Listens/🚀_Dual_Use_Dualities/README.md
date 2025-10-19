@@ -1,5 +1,5 @@
 # 🚀 Dual Use Dualities — README  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-08 | **Last updated:** 2025-10-19  
 *Analytical and satirical cluster exposing how dual-use economics blur the line between innovation, coercion, and moral theatre.*
 
 ---
@@ -56,13 +56,14 @@ dual-use, satire, honeybot, moral laundering, defence innovation, coercive techn
 ---
 
 ## 🏮 Footer  
-*Dual Use Dualities — README* is a living node of the Polaris Protocol.  
+*🚀 Dual Use Dualities — README* is a living node of the Polaris Protocol.  
 It anchors both the analytical and satirical interrogation of dual-use ethics — including the *HoneyBot* subseries — showing how profit, virtue, and violence can share the same codebase.
 
-> 📡 Cross-references:  
-> - [💸 Money Listens](../README.md) — economic architectures of coercion  
-> - [🌀 System Governance](../../🌀_System_Governance/README.md) — oversight and authorisation chains  
+> 📡 Cross-references:
+> 
+> - [💸 Money Listens](../README.md) — *economic architectures of coercion*  
+> - [🌀 System Governance](../../../🌀_System_Governance/README.md) — *oversight and authorisation chains*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
