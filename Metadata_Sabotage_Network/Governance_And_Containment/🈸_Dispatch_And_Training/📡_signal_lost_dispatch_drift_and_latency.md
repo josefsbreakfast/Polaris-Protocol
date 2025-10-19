@@ -1,5 +1,5 @@
 # 📡 Signal Lost — Dispatch Drift and Latency  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *Tracing how messages warp as they travel through bureaucracy.*
 
 ---
@@ -31,10 +31,11 @@ dispatch, latency, message drift, bureaucracy, translation, containment, timing 
 *📡 Signal Lost — Dispatch Drift and Latency* is a living node of the Polaris Protocol.  
 It documents how time itself becomes a containment mechanism.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🈸 Dispatch & Training README](./README.md)  
-> - [🈴 Allies & Ethics](../🈴_Allies_And_Ethics/)  
+> - [🈴 Allies & Ethics](../🈴_Allies_And_Ethics/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
