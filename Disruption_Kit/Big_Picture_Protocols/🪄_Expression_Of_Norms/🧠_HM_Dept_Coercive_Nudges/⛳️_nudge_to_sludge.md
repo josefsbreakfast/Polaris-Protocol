@@ -62,8 +62,8 @@ It contributes to the **HM Dept Coercive Nudges** cluster by tracing how soft be
 > 📡 Cross-references:
 > 
 > - [🧠 HM Dept Coercive Nudges](./README.md) — *main cluster on behavioural governance*  
-> - [🌀 System Governance](../🌀_System_Governance/README.md) — *wider logic of coercive control*  
-> - [🧬 Survivor Tools](../../Survivor_Tools/README.md) — *countermeasures and response frameworks*  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *wider logic of coercive control*  
+> - [🧬 Survivor Tools](../../../Survivor_Tools/README.md) — *countermeasures and response frameworks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
