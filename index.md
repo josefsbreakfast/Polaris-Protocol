@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 14:47:55 UTC_
+_Generated on 2025-10-19 15:30:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1493,6 +1493,7 @@ _Generated on 2025-10-19 14:47:55 UTC_
     - [`🧿_server_lag_github.md`](Polaris_Nest/Git_Intake_Drawer/🧿_server_lag_github.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
+    - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🪄_update_mysteriously_reappearing_book.md`](Polaris_Nest/Git_Intake_Drawer/🪄_update_mysteriously_reappearing_book.md)
