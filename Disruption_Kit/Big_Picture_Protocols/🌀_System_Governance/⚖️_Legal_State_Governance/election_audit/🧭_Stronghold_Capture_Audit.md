@@ -81,12 +81,8 @@ labour stronghold, safe seat, parachute candidate, ideological drift, local repr
 ---
 
 ## 🏮 Footer  
-*Stronghold Capture Audit — Party Realignment in Safe Seats* is a living node of the Polaris Protocol.  
+*🧭 Stronghold Capture Audit — Party Realignment in Safe Seats* is a living node of the Polaris Protocol.  
 It enables civic researchers to test where democratic consent has become assumption and to restore visibility over who truly represents local priorities.  
-
-> 📡 Cross-references:  
-> - [🧭 Citizen Audit — Behavioural Data in Elections](../Survivor_Tools/🧭_citizen_audit_behavioural_data_in_elections.md)  
-> - [🧩 Socio-Economic Clusters of Reform Support](../Big_Picture_Protocols/🌀_System_Governance/🧩_socioeconomic_clusters_of_reform_support.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
