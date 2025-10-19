@@ -111,7 +111,7 @@ It documents how overlapping interests in surveillance and governance exploit in
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment Contract Trace](../../../🌀_System_Governance/⚖️_containment_contract_trace.md)  
+> - [⚖️ Containment Contract Trace](../../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)  
 > - [🏛️ OSA Misclassification UK–Israel Survivor Records](../../🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)  
 > - [Survivor Tools](../../../../Survivor_Tools/README.md)
 
