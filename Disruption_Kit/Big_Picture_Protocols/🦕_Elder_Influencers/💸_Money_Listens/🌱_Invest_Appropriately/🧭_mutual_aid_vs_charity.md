@@ -60,8 +60,8 @@ It contrasts hierarchical benevolence with reciprocal solidarity, outlining the 
 
 > 📡 Cross-references:
 > 
-> - [📜 Charity Regime Reform](.📜_charity_regime_reform.md) — *transitional policy design*  
-> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *ethics and dignity frameworks*  
+> - [📜 Charity Regime Reform](./📜_charity_regime_reform.md) — *transitional policy design*  
+> - [🌱 Human Principles](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *ethics and dignity frameworks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
