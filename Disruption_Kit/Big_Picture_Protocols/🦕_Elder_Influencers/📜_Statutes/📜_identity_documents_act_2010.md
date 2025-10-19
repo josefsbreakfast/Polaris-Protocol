@@ -1,10 +1,10 @@
 # 📜 Identity Documents Act 2010  
-**First created:** 2025-09-26 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-19  
 *Repeal law that ended the UK Identity Cards scheme, mandating destruction of the National Identity Register.*  
 
 ---
 
-## 1. Overview  
+## Overview  
 - Came into force: **2010** under Conservative–Liberal Democrat coalition.  
 - Repealed the **Identity Cards Act 2006**.  
 - Cancelled all UK national identity cards.  
@@ -12,14 +12,14 @@
 
 ---
 
-## 2. Implementation  
+## Implementation  
 - Destruction of the NIR completed in **2011**.  
 - Only ~15,000 ID cards had been issued; all invalidated without refund.  
 - Biometric residence permits (for foreign nationals) continued separately.  
 
 ---
 
-## 3. Lessons  
+## Lessons  
 - Legislative repeal does not guarantee total deletion (vendor test data may persist).  
 - Costly programmes can be scrapped within one election cycle, but data ghosts remain.  
 
@@ -31,4 +31,4 @@
 ## 🏮 Footer  
 *Cross-references: 🏛️_uk_identity_cards_2000s.md; 🧟‍♀️_digital_id_zombie_profiles.md; 👥_twin_profiles_biometrics.md*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-10-19_  
