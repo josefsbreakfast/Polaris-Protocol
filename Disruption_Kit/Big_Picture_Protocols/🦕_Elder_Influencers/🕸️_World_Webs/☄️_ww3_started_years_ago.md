@@ -49,8 +49,8 @@ It argues that the third world war is not a coming possibility but a present, mi
 
 > 📡 Cross-references:
 > 
-> - [🌀 System Governance](../../🌀_System_Governance/README.md)  
-> - [🪬 Radicalisation and Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md)  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md)  
+> - [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md)  
 > - [🕸️ World Webs](../../🦕_Elder_Influencers/🕸️_World_Webs/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
