@@ -1,5 +1,5 @@
 # 💌 Letters of Refusal  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *Correspondence formats for boundary assertion and ethical exit.*
 
 ---
@@ -32,10 +32,11 @@ refusal, correspondence, ethics, boundaries, survivor communication, template, a
 *💌 Letters of Refusal* is a living node of the Polaris Protocol.  
 It offers textual tools for ethical exits and self-protective communication in coercive contexts.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🚷 Ethical Withdrawal](./🚷_ethical_withdrawal.md)  
 > - [🈴 Allies & Ethics README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
