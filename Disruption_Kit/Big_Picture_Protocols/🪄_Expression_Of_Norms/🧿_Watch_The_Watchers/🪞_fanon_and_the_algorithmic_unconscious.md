@@ -1,5 +1,5 @@
 # 🪞 Fanon & the Algorithmic Unconscious — A Play in Three Acts  
-**First created:** 2025-10-11  |  **Last updated:** 2025-10-11  
+**First created:** 2025-10-11  |  **Last updated:** 2025-10-19  
 *How colonial psychology, digital surveillance, and algorithmic guilt form a single feedback system.*
 
 ---
@@ -104,9 +104,9 @@ It traces how empire’s psychic architecture re-emerges in digital form and how
 
 > 📡 Cross-references:
 > 
-> - [🧨 Algorithmic Projection — White-Male Insecurity](../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🧨_algorithmic_projection_white_male_insecurity.md)  
-> - [🧾 Due Diligence & Operational Capacity in Policing](../🌀_System_Governance/🧾_due_diligence_and_operational_capacity_in_policing.md)  
+> - [🧨 Algorithmic Projection — White-Male Insecurity](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🧨_algorithmic_projection_white_male_insecurity.md) - *How recommendation systems reproduce and export patriarchal sexual anxiety*  
+> - [🧾 Due Diligence & Operational Capacity in Policing](../../🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md) - *Why statutory safeguards depend on time, culture, and courage more than paperwork*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-19_
