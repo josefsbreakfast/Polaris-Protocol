@@ -1,5 +1,5 @@
 # 🎈 Silence as Infrastructure  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
 *How NDA practices metastasise into systemic silence across law, tech, and media.*  
 
 ---
@@ -131,7 +131,7 @@ silence, nda, systemic forgetting, information infrastructure, governance contai
 
 ## 🏮 Footer  
 
-*Silence as Infrastructure* is a living node of the Polaris Protocol.  
+*🎈 Silence as Infrastructure* is a living node of the Polaris Protocol.  
 It traces how contractual silencing mutates into systemic architecture, mapping the mechanics of spread across institutions and platforms.  
 
 > 📡 Cross-references:
@@ -142,4 +142,4 @@ It traces how contractual silencing mutates into systemic architecture, mapping 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
