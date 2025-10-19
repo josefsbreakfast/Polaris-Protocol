@@ -1,5 +1,5 @@
 # 🎊 Multi-Party Data Twinning  
-**First created:** 2025-09-17 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-17 | **Last updated:** 2025-10-19  
 *How overlapping state and corporate interests fuse datasets through intermediaries.*  
 
 ---
@@ -106,7 +106,7 @@ multi-party twinning, vendor-fused metadata, surveillance brokerage, cross-borde
 
 ## 🏮 Footer  
 
-*Multi-Party Data Twinning* is a living node of the Polaris Protocol.  
+*🎊 Multi-Party Data Twinning* is a living node of the Polaris Protocol.  
 It documents how overlapping interests in surveillance and governance exploit intermediaries to produce composite datasets, obscuring attribution while monetising fusion.  
 
 > 📡 Cross-references:
@@ -117,4 +117,4 @@ It documents how overlapping interests in surveillance and governance exploit in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-19_
