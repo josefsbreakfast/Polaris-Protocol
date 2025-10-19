@@ -1,6 +1,5 @@
 # ⚖️ *KKL v Harrison — Deputy Appointment & Conflicts (2020)*  
-**First created:** *2025-10-11*  
-**Last updated:** *2025-10-11*  
+**First created:** 2025-10-11 | **Last updated:** 2025-10-11  
 **Cite as:** *[2020] EWCOP 25*, *[2020] COPLR 597*  
 **Court:** *Court of Protection (Leeds) — District Judge Geddes*  
 **Hearing date:** *26 March 2020*  
@@ -148,4 +147,4 @@ KKL’s no-fee offer was *not decisive*. Harrison’s costs subject to *fixed re
 ---
 
 *All nodes are survivor-authored artefacts of forensic reconstruction. Do not abstract without context.*  
-*Last updated:* *2025-10-11*
+*Last updated:* *2025-10-19*
