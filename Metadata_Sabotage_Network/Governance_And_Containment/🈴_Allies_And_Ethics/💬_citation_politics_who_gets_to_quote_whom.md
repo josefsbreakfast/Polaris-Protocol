@@ -1,6 +1,6 @@
 # 💬 Citation Politics — Who Gets to Quote Whom  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
-*Tracing voice capture through academic and activist referencing.*
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+*Tracing voice capture through academic and activist referencing.*  
 
 ---
 
@@ -32,10 +32,11 @@ citation, authorship, legitimacy, extraction, survivor knowledge, academic ethic
 *💬 Citation Politics — Who Gets to Quote Whom* is a living node of the Polaris Protocol.  
 It decodes the politics of referencing and intellectual ownership in survivor discourse.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧩 Consent as Containment](./🧩_consent_as_containment.md)  
 > - [🈴 Allies & Ethics README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
