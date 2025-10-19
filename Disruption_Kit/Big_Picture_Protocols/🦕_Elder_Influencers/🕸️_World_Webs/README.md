@@ -1,5 +1,5 @@
 # 🕸️ World Webs  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
 *A cartography of the interlinked infrastructures—technical, institutional, affective—that sustain global containment.*
 
 ---
@@ -58,4 +58,4 @@ Every web leaves residue.
 To study it is to tug one thread and feel the world respond.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-19_
