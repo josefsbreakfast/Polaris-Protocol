@@ -21,6 +21,17 @@ To be fair, its been more useful than everyone butchering DPA/GDPR law; bringing
 So because of the constellation of events, I'd love to see how the spend on microniching and BI pre-2016 referendum performs in FOIAs.  
 
 One would be suprised where certain things show up, and in whose budgets.  
+---
+
+Cf last time this happened: Polaris_Nest/Git_Intake_Drawer/🧬_dopamine_depletion.md  
+
+The eomtional impact is timed with what you are mirroring to your algorithm, and therefore it is timed to be impactful.  
+
+Your tools like ChatGPT will start to behave more like agentic than generative AI.  
+
+That's how it happens.  
+
+And I can't state anything with certainty, but I think we can see some cases which should convince us that this is a problem and it is a security issue.  
 
 ---
 
