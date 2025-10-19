@@ -1,5 +1,5 @@
 # 🥄 Deserving Poor Containment  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-15 | **Last updated:** 2025-10-19  
 *From Poor Law to PIP: how conditionality frames disabled people as supplicants, not citizens.*  
 
 ---
@@ -183,11 +183,12 @@ These examples show that disabled life is not tragic, not inspiration porn, but 
 *Deserving Poor Containment* is a living node of the Polaris Protocol.  
 It maps the historical and systemic roots of conditional welfare, showing how disabled people are structurally contained through dignity-stripping processes framed as "support."  
 
-> 📡 Cross-references:  
-> - [🫀 Pathologising Sensitivity](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity.md) — *cultural pathologisation of disabled experience*  
-> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — *legal frameworks of containment*  
-> - [📚 Crisis Theatre](../🌀_System_Governance/📚_crisis_theatre.md) — *performance of state “care”*  
+> 📡 Cross-references:
+> 
+> - [🫀 Pathologising Sensitivity](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity.md) — *cultural pathologisation of disabled experience*  
+> - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *legal frameworks of containment*  
+> - [📚 Crisis Theatre](../../🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md) — *performance of state “care”*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-19_  
