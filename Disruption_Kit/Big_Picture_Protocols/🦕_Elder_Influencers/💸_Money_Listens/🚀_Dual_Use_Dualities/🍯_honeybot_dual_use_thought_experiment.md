@@ -1,10 +1,10 @@
 # 🍯 HoneyBot — A Dual-Use Thought Experiment  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-19  
 *A satire that drifts into a policy warning about sex-tech, surveillance, and dual-use research.*
 
 ---
 
-## 🧠 1. The Satirical Pitch  
+## 🧠 The (Satirical) Pitch  
 
 🐝 **HoneyBot™ — Emotional Intelligence Meets National Security**  
 - **Problem:** lonely consumers, violent offenders, and overstretched trauma services all need “safe interfaces.”  <!--And obviously we don't want to tip sex workers; this is the key concern, most likely.-->
@@ -17,7 +17,7 @@
 
 ---
 
-## 💋 2. Flash Fiction: *Project Companion*  
+## 💋 Flash Fiction: *Project Companion*  
 
 They called it Project Companion because no one wanted to say the word that made donors cough into their coffee.  <!--This should have been the first clue.-->
 The prototype sat on a plinth like a sculpture that knew your secrets.  It smelled faintly of new plastic and lavender—“soothing olfactory cues,” according to the behavioural team.
@@ -28,7 +28,7 @@ Outside, protesters shouted about war profiteering and defence grants.  The buil
 <!--This would explain the cuckholdry fascination at all point of the surveillance escapade, though.-->
 ---
 
-## ⚖️ 3. On a Serious Note — Policy & Risk Checklist  
+## ⚖️ On a Serious Note — Policy & Risk Checklist  
 
 | Area | Minimum Safeguards |
 |------|--------------------|
@@ -42,9 +42,9 @@ Outside, protesters shouted about war profiteering and defence grants.  The buil
 <!--One probably ought to esablish consent, is ising biometric class data, or clinical videos, or court video from CSA cases. You know...hypothetically.-->
 ---
 
-### 🍯 4. Operational Reality Check  
+### 🍯 Operational Reality Check  
 *(aka “Why You’d See Black-Clad People Outside”)*  
-<!--Hint: They are not Antifa.-->-->
+<!--Hint: They are not Antifa.-->
 If a university really were building something this provocative, even the most innocent prototype would trigger three predictable reactions:  
 1. A crowd of students chanting about militarisation.  
 2. A flood of FOI requests from journalists.  
@@ -69,13 +69,14 @@ dual-use research, sex-tech, satire, ethics, surveillance, rehabilitation, polic
 
 ## 🏮 Footer  
 
-*HoneyBot — A Dual-Use Thought Experiment* is a living node of the Polaris Protocol.  
+*🍯 HoneyBot — A Dual-Use Thought Experiment* is a living node of the Polaris Protocol.  
 It uses humour and fiction to illustrate how easily dual-use loopholes can arise in robotics and behavioural science, and why clear governance frameworks matter before the prototype becomes reality.
 
-> 📡 Cross-references:  
-> - [🌱 Human Principles](../../🌱_Human_Principles/README.md) — ethics and dignity frameworks  
-> - [📜 Statutes](../../📜_Statutes/README.md) — regulatory architecture for dual-use research  
+> 📡 Cross-references:
+> 
+> - [🌱 Human Principles](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *ethics and dignity frameworks*  
+> - [📜 Statutes](../../../🦕_Elder_Influencers/📜_Statutes/README.md) — *regulatory architecture for dual-use research*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
