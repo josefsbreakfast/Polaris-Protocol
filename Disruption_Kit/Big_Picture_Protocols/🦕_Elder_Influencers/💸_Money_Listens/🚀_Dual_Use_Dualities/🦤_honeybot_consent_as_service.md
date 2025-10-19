@@ -1,5 +1,5 @@
 # 🦤 HoneyBot: Consent-as-Service  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-08 | **Last updated:** 2025-10-19  
 *A satirical dual-use prototype exploring the commodification of consent under current legal and tech frameworks.*
 
 ---
@@ -76,14 +76,15 @@ honeybot, satire, consent, data economy, predictive governance, ethics tech, dua
 ---
 
 ## 🏮 Footer  
-*🍯 HoneyBot: Consent-as-Service* is a living node of the Polaris Protocol.  
+*🦤 HoneyBot: Consent-as-Service* is a living node of the Polaris Protocol.  
 It functions as both speculative provocation and evidentiary critique, illustrating how current law already permits the algorithmic outsourcing of human autonomy.
 
-> 📡 Cross-references:  
-> - [🚀 Dual Use Dualities — README](../🚀_Dual_Use_Dualities/README.md) — cluster overview  
-> - [💸 Money Listens](../) — economic architectures of coercion  
-> - [🌀 System Governance](../../🌀_System_Governance/) — oversight and authorisation chains  
+> 📡 Cross-references:
+> 
+> - [🚀 Dual Use Dualities](../🚀_Dual_Use_Dualities/README.md) — *cluster overview*  
+> - [💸 Money Listens](../README.md) — *economic architectures of coercion*  
+> - [🌀 System Governance](../../🌀_System_Governance/README.md) — *oversight and authorisation chains*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
