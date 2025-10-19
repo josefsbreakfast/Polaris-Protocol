@@ -1,5 +1,5 @@
 # 🦾 Dual Uses That Never Come  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
 *On the permanent promise of “dual-use” innovation — and how veterans’ trauma becomes a marketing loop for more weapons.*
 
 ---
@@ -76,11 +76,12 @@ dual-use, veterans, prosthetics, disability tech, trauma research, arms industry
 *🦾 Dual Uses That Never Come* is a living node of the **Polaris Protocol**, within the **💸 Money Listens** cluster.  
 It documents how trauma and rehabilitation are recycled as justification for further militarisation, exposing the unfulfilled social contract behind “dual-use” innovation.  
 
-> 📡 Cross-references:  
-> - [🚀 Arms Transparency](../🚀_arms_transparency.md) — on how visibility itself becomes camouflage  
-> - [🎽 Think Tanks, Surveillance, and Conferencing](../🎽_think_tanks_surveillance_and_conferencing.md) — on how influence circuits launder legitimacy  
+> 📡 Cross-references:
+> 
+> - [🚀 Arms Transparency](../../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🚀_arms_transparency.md) — on how visibility itself becomes camouflage  
+> - [🎽 Think Tanks, Surveillance, and Conferencing](../../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md) — on how influence circuits launder legitimacy  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
 
