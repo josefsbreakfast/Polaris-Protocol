@@ -1,5 +1,5 @@
 # 🪞 Deference Politics as Containment Mechanism  
-**First created:** 2025-10-06  |  **Last updated:** 2025-10-08  
+**First created:** 2025-10-06  |  **Last updated:** 2025-10-19  
 *How moral deference and tokenised representation act as internal containment tools inside progressive movements.*
 
 ---
@@ -71,12 +71,13 @@ deference politics, elite capture, tokenisation, intersectionality, care work, d
 *🪞 Deference Politics as Containment Mechanism* is a living node of the Polaris Protocol.  
 It documents how moral deference and tokenised representation sustain hierarchies within progressive spaces, preserving empire logics under inclusive language.  
 
-> 📡 Cross-references:  
-> – [📅 BLM UK 2020–2025 Timeline Outputs](./📅_BLM_UK_2020-2025_Timeline_Outputs.md)  
-> – [🕊️ From BLM to Palestine — The Suppression Switchboard](./🕊️_From_BLM_to_Palestine_The_Suppression_Switchboard.md)  
-> – [⚔️ War on Woke as Containment Architecture](./⚔️_War_on_Woke_as_Containment_Architecture.md)  
-> – [🧩 Re-Justification Loop — Racial Logics Reborn as Safety](./🧩_Rejustification_Loop_Racial_Logics_Reborn_as_Safety.md)  
+> 📡 Cross-references:
+> 
+> – [📅 BLM UK 2020–2025 Timeline Outputs](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📅_blm_uk_2020_2025_timeline_outputs.md)  
+> – [🕊️ From BLM to Palestine — The Suppression Switchboard](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🕊️_from_blm_to_palestine_the_suppression_switchboard.md)  
+> – [⚔️ War on Woke as Containment Architecture](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)  
+> – [➰ Re-Justification Loop — Racial Logics Reborn as Safety](./➰_rejustification_loop_racial_logics_reborn_as_safety.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-19_  
