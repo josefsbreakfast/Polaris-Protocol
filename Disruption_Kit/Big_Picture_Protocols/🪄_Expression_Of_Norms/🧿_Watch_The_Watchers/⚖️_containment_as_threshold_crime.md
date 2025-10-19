@@ -1,5 +1,5 @@
 # ⚖️ Containment as Threshold Crime  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-07  
+**First created:** 2025-10-07 | **Last updated:** 2025-10-19  
 *On when administrative containment passes from governance to atrocity.*
 
 ---
@@ -75,12 +75,13 @@ containment, governance, crimes against humanity, genocide, culpable neglect, fo
 *Containment as Threshold Crime* is a living node of the Polaris Protocol.  
 It formalises the question of when bureaucratic harm crosses from governance failure into atrocity administration, using international law and survivor-led ethics as dual compasses.  
 
-> 📡 Cross-references:  
-> - [🫀 Genocide by Containment](../🌀_System_Governance/🫀_genocide_by_containment.md) — administrative death-making and early indicators  
-> - [🌀 System Governance](../🌀_System_Governance/README.md) — escalation chains and oversight inertia  
-> - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — meta-oversight and audit capture  
-> - [📜 Statutes](../📜_Statutes/README.md) — relevant international and domestic legal frameworks  
+> 📡 Cross-references:
+> 
+> - [🫀 Genocide by Containment](../../🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md) — administrative death-making and early indicators  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *escalation chains and oversight inertia*  
+> - [🧿 Watch the Watchers](./README.md) — *meta-oversight and audit capture*  
+> - [📜 Statutes](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *relevant international and domestic legal frameworks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-19_
