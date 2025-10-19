@@ -1,5 +1,5 @@
 # ⚖️ International Laundering  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-14 | **Last updated:** 2025-10-19  
 *Cross-border governance tricks where obligations are displaced onto allies to evade accountability.*
 
 ---
@@ -44,4 +44,4 @@ It tracks how accountability is evaded through jurisdictional displacement, inte
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-10-19_
