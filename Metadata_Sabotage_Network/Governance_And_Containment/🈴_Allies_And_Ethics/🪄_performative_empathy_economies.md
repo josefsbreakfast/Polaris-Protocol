@@ -1,6 +1,6 @@
 # 🪄 Performative Empathy Economies  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
-*The branding of care and commodification of solidarity.*
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+*The branding of care and commodification of solidarity.*  
 
 ---
 
@@ -31,10 +31,11 @@ empathy economy, performance, allyship, branding, reputation, redistribution, in
 *🪄 Performative Empathy Economies* is a living node of the Polaris Protocol.  
 It traces how care becomes a spectacle that sustains institutional legitimacy.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🈴 Allies & Ethics README](./README.md)  
-> - [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/)  
+> - [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
