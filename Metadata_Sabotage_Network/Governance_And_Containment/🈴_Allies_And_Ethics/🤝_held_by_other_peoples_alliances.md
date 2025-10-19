@@ -1,5 +1,5 @@
 # 🤝 Held by Other People’s Alliances  
-**First created:** 2025-08-06 | **Last updated:** 2025-10-08  
+**First created:** 2025-08-06 | **Last updated:** 2025-10-19  
 *A meditation and diagnostic map for when one’s agency is mediated, muted, or credentialed through the alliances of others.*  
 
 ---
@@ -70,9 +70,9 @@ To be “held” can be both comfort and capture.
 > 📡 Cross-references:
 > 
 > - [🈴 Allies & Ethics — README](../README.md)  
-> - [🏛 Governance & Containment — README](../../)  
+> - [🏛 Governance & Containment — README](../../README.md)  
 > - [🧠 Metadata Sabotage Network — README](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
