@@ -1,5 +1,5 @@
 # ⚖️ Containment Contract Trace: Hotel Edition  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *Mapping the corporations profiting from asylum accommodation, detention, and border enforcement.*  
 
 ---
@@ -79,11 +79,12 @@
 *Containment Contract Trace* is a living node of the Polaris Protocol.  
 It documents the corporate ecosystem that profits from migrant containment, and shows how border enforcement is entangled with prisons, care, and surveillance.  
 
-> 📡 Cross-references:  
-> - [📦 Containment as Industry] — systemic profit logic  
-> - [🏘️ Council Incentives Hotels] — local dispersal dynamics  
-> - [📺 Contractors vs Media Clusters]— separating industry vs narrative owners  
+> 📡 Cross-references:
+> 
+> - [📦 Containment as Industry](./📦_containment_as_industry.md) — *systemic profit logic*  
+> - [🏘️ Council Incentives Hotels](./🏘️_council_incentives_hotels.md) — *local dispersal dynamics*  
+> - [📺 Contractors vs Media Clusters](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/📺_contractors_vs_media_clusters.md)— *separating industry vs narrative owners*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-19_  
