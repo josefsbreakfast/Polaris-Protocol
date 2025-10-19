@@ -1,5 +1,5 @@
 # 🧠 Why Are We Threatened by Complexity?  
-**First created:** 2025-09-28 | **Last updated:** 2025-10-07  
+**First created:** 2025-09-28 | **Last updated:** 2025-10-19  
 *How “complexity” triggers escalation and bias.*
 
 ---
@@ -42,13 +42,13 @@ complexity bias, selector effect, escalation loops, minority over-policing, inte
 
 ## 🏮 Footer  
 
-*Why Are We Threatened by Complexity?* is a living node of the Polaris Protocol.  
+*🧠 Why Are We Threatened by Complexity?* is a living node of the Polaris Protocol.  
 It documents how systems conflate complexity with threat, fuelling escalation loops.
 
 > 📡 Cross-references:  
 > – [🛫 Frequent Flyers Club](./🛫_frequent_flyers_club.md) - *Individuals repeatedly caught in overlapping surveillance loops*  
-> – [⛩️ Very Secret Peer Review](../🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md) - *Hidden assessment practices inside British universities*  
+> – [⛩️ Very Secret Peer Review](../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md) - *Hidden assessment practices inside British universities*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-19_
