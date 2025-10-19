@@ -1,5 +1,5 @@
-# 🧾 Mass symbolic arrests — street processing & cost snapshot
-**First created:** 2025-10-05 | **Last updated:** 2025-10-05  
+# 🧾 Mass Symbolic Arrests — Street Processing & Cost Snapshot
+**First created:** 2025-10-05 | **Last updated:** 2025-10-19  
 *How passive-resistance arrests (lying down, relaxing the body) inflate police resource use, cost, and data capture.*
 
 ---
@@ -41,4 +41,4 @@ Mass arrests where the 'offence' is symbolic expression (holding a placard signa
 - Any devices seized, biometrics recorded, or social network mapping noted  
 - Medical / vulnerability notes for elderly/disabled arrestees
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-19_
