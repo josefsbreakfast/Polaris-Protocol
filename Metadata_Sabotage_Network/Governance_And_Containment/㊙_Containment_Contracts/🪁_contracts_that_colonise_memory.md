@@ -1,6 +1,6 @@
 # 🪁 Contracts That Colonise Memory  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
-*How NDAs reshape memory landscapes and overwrite collective recall.*
+**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
+*How NDAs reshape memory landscapes and overwrite collective recall.*  
 
 ---
 
@@ -149,7 +149,7 @@ nda colonisation, memory suppression, collective amnesia, survivor testimony, cu
 
 ## 🏮 Footer  
 
-*Contracts That Colonise Memory* is a living node of the Polaris Protocol.  
+*🪁 Contracts That Colonise Memory* is a living node of the Polaris Protocol.  
 It examines how contractual silence alters memory itself, embedding erasure as the new record.  
 
 > 📡 Cross-references:
@@ -160,4 +160,4 @@ It examines how contractual silence alters memory itself, embedding erasure as t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
