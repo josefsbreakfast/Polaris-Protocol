@@ -1,17 +1,16 @@
-
 # ⚖️ Behavioural Microniching & Electoral Integrity (UK)  
 **First created:** 2025-10-19 | **Last updated:** 2025-10-19  
 *Mapping what’s “in-bounds” and “out-of-bounds” in UK behavioural targeting law, using a cricket-field metaphor for clarity.*  
 
 ---
 
-## Scope  
+## 🛰️ Scope  
 This node defines the **legal and ethical perimeter** for behavioural insights and micro-targeting within UK political campaigns.  
 It draws on electoral, data-protection, and communications law to distinguish between lawful persuasion and manipulative influence.
 
 ---
 
-## Field Map — The Cricket Metaphor  
+## 🦗 Field Map — The Cricket Metaphor  
 
 | Zone | Description | Legal Status |
 |------|--------------|--------------|
@@ -21,7 +20,7 @@ It draws on electoral, data-protection, and communications law to distinguish be
 
 ---
 
-## In-Bounds (Legal & Permitted)  
+## 🏏 In-Bounds (Legal & Permitted)  
 1. **Targeted persuasion using lawful data:** open register, canvass returns, census data, consented analytics.  
 2. **Behavioural nudges without sensitive data:** framing, social proof, turnout encouragement.  
 3. **Digital imprints:** Elections Act 2022 mandates disclosure of who paid for or promoted online political content.  
@@ -29,7 +28,7 @@ It draws on electoral, data-protection, and communications law to distinguish be
 
 ---
 
-## Grey Zone (Playable, but Sensitive)  
+## ⚖️ Grey Zone (Playable, but Sensitive)  
 - Psychographic segmentation using inferred traits from public data.  
 - Look-alike audiences without explicit consent but without sensitive data fields.  
 - Emotionally charged framing that may distort voter perception without lying outright.  
@@ -38,7 +37,7 @@ Regulators tolerate this, but **risk increases** with opacity and manipulative t
 
 ---
 
-## Out-of-Bounds (Illegal / High-Risk)  
+## ❌ Out-of-Bounds (Illegal / High-Risk)  
 1. **Sensitive data misuse:** race, religion, political opinions processed without lawful basis (UK GDPR breach).  
 2. **Dark ads:** targeted online content lacking imprints (Elections Act 2022 breach).  
 3. **Foreign or undeclared funding:** PPERA offence.  
@@ -47,7 +46,7 @@ Regulators tolerate this, but **risk increases** with opacity and manipulative t
 
 ---
 
-## Watchdogs & Oversight Bodies  
+## 🐕 Watchdogs & Oversight Bodies  
 | Regulator | Domain | Powers |
 |------------|---------|--------|
 | **Electoral Commission** | Spending, donations, digital imprints | Investigatory & fining powers |
@@ -57,7 +56,7 @@ Regulators tolerate this, but **risk increases** with opacity and manipulative t
 
 ---
 
-## Practical Compliance Checklist  
+## 🧰 Practical Compliance Checklist  
 ✅ Declare your data sources and lawful basis (UK GDPR).  
 ✅ Ensure all online material includes a visible imprint (Elections Act 2022).  
 ✅ Avoid sensitive-category profiling without explicit consent.  
@@ -66,7 +65,7 @@ Regulators tolerate this, but **risk increases** with opacity and manipulative t
 
 ---
 
-## Policy Direction  
+## 🗺️ Policy Direction  
 Future reform is likely to centre on **algorithmic transparency** and **cross-regulator cooperation**.  
 Both the ICO and Electoral Commission have called for clearer powers to inspect targeting systems used in campaigns.
 
