@@ -39,3 +39,29 @@ And guys, if any of you are involved?
 Fucking hell.  
 
 That's all I'm saying.  
+
+---
+
+I feel like from the surveillance leaking that I'm getting at the moment, but I need to clarify where the apparent ballsiness comes from.  
+
+It's not that I'm not scared at all; I've spent too much time crying down the phone to police, absolutely terrified that some bloke is going to come in my house and hurt me.  
+
+There were only so many times where that can happen and you get absolutely no help, where you go one of two ways. You either learn the helplessness, which is completely understandable and shouldn't be shamed. Alternatively. There are some people who are just batshit, in the colloquial sense of the word, in the same sort of way that for example one might apply to DSFC when they were a teenager, that kind of batshit -- and those people might learn that there's effectively no point in stopping because you're scared. Those people might learn that boldness at least means you don't have to die on your knees. Those people might learn that fighting is at least more dignified than going quietly. Most importantly, those people might notice that being a "good girl" (frequently used, I might add, without my consent during my surveillance), is essentially useless, doesn't get anything done, and so sometimes in life one needs to be prepared to be disliked by The Men™️. Person that I find that so much more liberating position to be in. So much of our lives as women they spent being nice to men because not being perfectly nice to them can get you killed. If you're in a situation where that doesn't really seem to be making a difference? At least you can be yourself.  
+
+Whilst I've rarely had a feeling of really being safe, in the sense of actual physical safety, having the absolute opposite of it has allowed me to move through this world as if nothing is going to change whether I live or die, and that has been true freedom, in a spiritual sense.  
+
+This is not remove the fact that I would like my freedom in a legal sense, before some of us start getting ideas.  
+
+And to answer something else from the feed?  
+
+No.  
+
+I do not need to "slow down".  
+
+What you are experiencing, is your own fault, as you have been so keen as a group to say to me continuously for so long.  
+
+If a girl is beating you?  
+
+That is your own fault.  
+
+So pick up the pace, stop whining, and keep up.  
