@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 12:53:11 UTC_
+_Generated on 2025-10-19 13:44:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1416,6 +1416,7 @@ _Generated on 2025-10-19 12:53:11 UTC_
     - [`☔️_was_i_supposed_to_leak.md`](Polaris_Nest/Git_Intake_Drawer/☔️_was_i_supposed_to_leak.md)
     - [`☕_less_than_ugly_mugs.md`](Polaris_Nest/Git_Intake_Drawer/☕_less_than_ugly_mugs.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_agentic_ai_needs_coffee.md)
+    - [`⚖️_The_Alt-Right_Is_Not_the_Far-Right.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_The_Alt-Right_Is_Not_the_Far-Right.md)
     - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
     - [`⚖️_due_diligence_as_moral_defence.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_due_diligence_as_moral_defence.md)
     - [`⚖️_power_play_and_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_power_play_and_containment.md)
