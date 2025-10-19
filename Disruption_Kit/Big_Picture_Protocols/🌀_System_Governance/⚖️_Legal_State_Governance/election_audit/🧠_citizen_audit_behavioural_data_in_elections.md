@@ -1,4 +1,4 @@
-# 🧭 Citizen Audit — Behavioural Data in Elections  
+# 🧠 Citizen Audit — Behavioural Data in Elections  
 **First created:** 2025-10-19 | **Last updated:** 2025-10-19  
 *A field-ready OSINT template for journalists, researchers, and local citizens to examine data use and behavioural targeting in UK elections.*  
 
@@ -87,13 +87,8 @@ osint, electoral register, boundary change, campaign spending, behavioural analy
 ---
 
 ## 🏮 Footer  
-*Citizen Audit — Behavioural Data in Elections* is a living node of the Polaris Protocol.  
+*🧠 Citizen Audit — Behavioural Data in Elections* is a living node of the Polaris Protocol.  
 It equips local journalists and citizens with reproducible tools to trace data use in campaigns and strengthen electoral transparency.  
-
-> 📡 Cross-references:  
-> - [⚖️ Behavioural Micro-Targeting & Electoral Integrity (UK)](../🌀_System_Governance/⚖️_behavioural_microtargeting_electoral_integrity_uk.md)  
-> - [⚠️ Foreign Influence & Behavioural Capture in UK Elections](../🌀_System_Governance/⚠️_foreign_influence_behavioural_capture_in_uk_elections.md)  
-> - [🧮 FOI Templates & Civic Queries](../Survivor_Tools/🧮_foi_templates_and_civic_queries.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
