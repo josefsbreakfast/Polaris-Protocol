@@ -1,5 +1,5 @@
 # 💣 Energy Rents and Strongman Panic  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
 *How Putin’s reliance on oil and gas rents shaped power consolidation and fuels recurrent insecurity.*
 
 ## Summary  
@@ -56,9 +56,9 @@ Energy rents explain why:
 
 ## 🏮 Footer  
 
-*Energy Rents and Strongman Panic* is a living node of the Polaris Protocol.  
+*💣 Energy Rents and Strongman Panic* is a living node of the Polaris Protocol.  
 It documents how energy dependency structures regimes, shapes foreign policy leverage, and produces the paradoxical fragility of strongman consolidation.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-19_
