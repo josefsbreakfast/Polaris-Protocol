@@ -1,5 +1,5 @@
 # 🧃 COGAT Is a Containment Operation  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-19  
 *Aid choreography as narrative weapon; humanitarian calm as camouflage for genocide.*
 
 ---
@@ -132,9 +132,9 @@ It documents how humanitarian language, logistical choreography, and emotional m
 > 📡 Cross-references:
 > 
 > - [🕸️ World Webs](./README.md) — *global entanglements and diasporic control*  
-> - [🌀 System Governance](../../🌀_System_Governance/README.md) — *structural containment logics*  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *structural containment logics*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-19_
