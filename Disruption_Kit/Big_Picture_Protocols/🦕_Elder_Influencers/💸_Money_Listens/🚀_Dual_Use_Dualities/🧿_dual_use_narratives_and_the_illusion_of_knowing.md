@@ -1,5 +1,5 @@
 # 🧿 Dual-Use Narratives and the Illusion of Knowing
-**First created:** 2025-10-07  |  **Last updated:** 2025-10-08  
+**First created:** 2025-10-07  |  **Last updated:** 2025-10-19  
 *How information abundance replaces verification when walls, blockades, and dual‑use architectures shape what the world gets to “know.”*
 
 ---
@@ -131,9 +131,10 @@ dual‑use narratives; verification vacuum; DARVO; journalist targeting; epistem
 ## 🏮 Footer
 *Dual‑Use Narratives and the Illusion of Knowing* is a living node of the Polaris Protocol. It examines how walls/closures and platform dynamics combine with dual‑use tech to replace witness with performance.
 
-> 📡 Cross‑references  
+> 📡 Cross‑references:
+> 
 > - [🍯 HoneyBot — A Dual‑Use Thought Experiment](./🍯_honeybot_dual_use_thought_experiment.md)  
-> - [🐝 HoneyBot Underwriting Fails](./🐝_honeybot_underwriting_fails.md)
+> - [🐝 HoneyBot Underwriting Fails] *TBC*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated 2025-10-08_
+_Last updated 2025-10-19_
