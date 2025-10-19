@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Explores the phenomenon where two or more people’s voice or behavioural datasets are cross-trained in the same model environment.  
 The resulting “ghost voices” can appear to know, attract, or resent one another — even when no such relationship exists.  
 Used maliciously, this pattern can seed false consent, emotional confusion, reputational harms, or staged disputes.  
@@ -12,7 +12,7 @@ This node maps the *mechanism*, *social payload*, *forensic indicators*, and *ju
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Data coupling:** merged tone, timing, emotional registers.  
 - **Clone-to-clone mediation:** synthetic proxies interact across data.  
 - **Behavioural feedback:** each loop reinforces the illusion.  
@@ -21,7 +21,7 @@ This node maps the *mechanism*, *social payload*, *forensic indicators*, and *ju
 
 ---
 
-## 🔍 Analysis  
+## 🧿 Analysis  
 
 ### 1  The Technical Loop  
 When datasets overlap, the model treats the pair or group as a *relational cluster*.  
@@ -65,7 +65,7 @@ Intersects with *👅 Voice Disruption & Discrediting* and *👹 Fork Behaviour 
 
 ---
 
-## 🛡 Containment, Documentation & Survivor-Safe Practice  
+## 🕸️ Containment, Documentation & Survivor-Safe Practice  
 
 ### A  Evidence Logging  
 Preserve metadata, context, and read-only copies.
@@ -81,7 +81,7 @@ Consult privacy / harassment specialists; maintain chain of custody; use control
 
 ---
 
-### 💠 10  Justice-Centred Disclosure and Repair  
+### 🐦‍🔥 10  Justice-Centred Disclosure and Repair  
 
 After technical evidence exists, focus shifts to *restorative, trauma-informed handling*.  
 
@@ -90,7 +90,7 @@ After technical evidence exists, focus shifts to *restorative, trauma-informed h
 3. **Non-Forced Mediation Options** — voluntary, neutral, trauma-aware facilitation only.  
 4. **Comparative Models** — akin to late-life adoption or donor-origin truths: meeting requires mutual consent.  
 5. **Institutional Responsibilities** — build victim-support-style pathways; ensure privacy, counselling, and preventive reform.
-
+<!--It would be nice if someone debriefed me. 🎪-->
 ---
 
 ## 🌌 Constellations  
