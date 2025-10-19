@@ -1,5 +1,5 @@
 # 🪢 Contact Dials  
-**First created:** 2025-09-10 | **Last updated:** 2025-09-10  
+**First created:** 2025-09-10 | **Last updated:** 2025-10-19  
 *How behavioural nudges regulate the amount of contact between people by tuning friction, visibility, and affect.*
 
 ---
@@ -88,11 +88,12 @@ Result: contact seems to “fade naturally”; the channel was engineered thin.
 *Contact Dials* is a living node of the Polaris Protocol.  
 It documents how intimacy and distance are manipulated as behavioural levers inside high-control systems.  
 
-> 📡 Cross-references:  
-> - [🧠 HM Dept of Coercive Nudges](./) — doctrinal set of nudge architectures  
-> - [⚖️ Heavy Bundle: CPS, VPS, Centralisation](../Big_Picture_Protocols/⚖️_heavy_bundle_cps_vps_centralisation.md) — systemic containment logics  
-> - [Survivor Tools](../Survivor_Tools/) — practical counter-measures for boundary sabotage  
+> 📡 Cross-references:
+> 
+> - [🧠 HM Dept of Coercive Nudges](./README.md) — *doctrinal set of nudge architectures*  
+> - [⚖️ Heavy Bundle: CPS, VPS, Centralisation](./⚖️_heavy_bundle_cps_vps_centralisation.md) — *systemic containment logics*  
+> - [Survivor Tools](../../Disruption_Kit/Survivor_Tools/README.md) — *practical counter-measures for boundary sabotage*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_  
+_Last updated: 2025-10-19_  
