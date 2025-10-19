@@ -1,16 +1,16 @@
-# 🧩 Socio-Economic Clusters of Reform Support (UK Local Elections)  
+# 🧩 Socioeconomic Clusters of Reform Support (UK Local Elections)  
 **First created:** 2025-10-19 | **Last updated:** 2025-10-19  
 *Mapping recurring local conditions where new-right and anti-establishment parties gained council seats, 2023–2024.*  
 
 ---
 
-## Scope  
+## 🛰️ Scope  
 This node examines the **recurring socio-economic patterns** in towns and districts where Reform UK and similar parties gained local-election traction.  
 It focuses on *material conditions* and *governance neglect* rather than ideology—asking why the same civic wounds re-appear in different geographies.
 
 ---
 
-## Core Pattern — The Neglect Loop  
+## 🏚️ Core Pattern — The Neglect Loop  
 1. **Industrial and retail collapse:** de-industrialised towns, hollowed-out manufacturing bases, and persistent high-street closures.  
 2. **Low employability and stalled mobility:** skills mismatch, zero-hours labour, and minimal adult-education infrastructure.  
 3. **Perceived civic abandonment:** visible decline in services (bus routes, GP access, policing) → narrative of “no one listens.”  
@@ -19,7 +19,7 @@ It focuses on *material conditions* and *governance neglect* rather than ideolog
 
 ---
 
-## Analytical Axes  
+## 🧿 Analytical Axes  
 | Axis | Typical Indicator | Example Open Source |
 |------|-------------------|---------------------|
 | Economic Decline | Falling median income, shop-vacancy rate > 20 % | ONS, Local Data Company |
@@ -31,14 +31,14 @@ It focuses on *material conditions* and *governance neglect* rather than ideolog
 
 ---
 
-## Interpretation  
+## 👾Interpretation  
 The pattern is not a surprise and not confined to one party: **systemic neglect breeds counter-system movements**.  
 When civic infrastructure erodes, *identity economics* replaces material politics.  
 Where mainstream parties treat these regions as safe or unwinnable, new entrants occupy the vacuum.  
 
 ---
 
-## Open-Source Audit Pointers  
+## 🪄 Open-Source Audit Pointers  
 1. **Compile seat-gain list** from Electoral Commission local-election data.  
 2. **Join** with ONS deprivation and business-closure datasets.  
 3. **Add** indicators: youth-service budgets, transport frequency, housing affordability.  
@@ -47,7 +47,7 @@ Where mainstream parties treat these regions as safe or unwinnable, new entrants
 
 ---
 
-## Policy Relevance  
+## 🗞️ Policy Relevance  
 - **For journalists:** storyboards of place-based neglect.  
 - **For councils:** diagnostic for regeneration.  
 - **For regulators:** early-warning system for data-driven populism.  
