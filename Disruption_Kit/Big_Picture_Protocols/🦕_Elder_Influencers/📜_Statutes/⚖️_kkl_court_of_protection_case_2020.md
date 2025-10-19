@@ -1,5 +1,5 @@
 # ⚖️ *KKL v Harrison — Deputy Appointment & Conflicts (2020)*  
-**First created:** 2025-10-11 | **Last updated:** 2025-10-11  
+**First created:** 2025-10-11 | **Last updated:** 2025-10-19  
 **Cite as:** *[2020] EWCOP 25*, *[2020] COPLR 597*  
 **Court:** *Court of Protection (Leeds) — District Judge Geddes*  
 **Hearing date:** *26 March 2020*  
