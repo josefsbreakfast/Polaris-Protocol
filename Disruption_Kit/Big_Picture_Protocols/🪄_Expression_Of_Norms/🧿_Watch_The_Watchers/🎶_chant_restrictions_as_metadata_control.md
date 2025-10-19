@@ -1,5 +1,5 @@
 # 🎶 Chant Restrictions as Metadata Control  
-**First created:** 2025-10-14 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-14 | **Last updated:** 2025-10-19  
 *Rhetorical elasticity and moral inversion in UK protest policing.*  
 
 ---
@@ -122,14 +122,14 @@ It documents how rhetorical vagueness and vulnerability coding liquefy democrati
 
 > 📡 Cross-references:
 > 
-> – [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
-> – [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md)  
-> – [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/README.md)  
+> – [🈺 Governance and Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
+> – [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)  
+> – [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md)  
 > – [🧿 Watch the Watchers](./README.md)  
-> – [🩸 The Repetition Mechanism](../🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) — *continuation of the pre-genocide recursion logic*  
-> – [🧠 Utilisation of Vulnerability](../🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — *how state systems instrumentalise perceived fragility*  
-> – [🫥 Presumption as Erasure](../../Survivor_Tools/🫥_presumption_as_erasure.md) — *individual-scale analogue of vulnerability-coding and disappearance logic*  
+> – [🩸 The Repetition Mechanism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) — *continuation of the pre-genocide recursion logic*  
+> – [🧠 Utilisation of Vulnerability](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — *how state systems instrumentalise perceived fragility*  
+> – [🫥 Presumption as Erasure](../../../🫥_presumption_as_erasure.md) — *individual-scale analogue of vulnerability-coding and disappearance logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_  
+_Last updated: 2025-10-19_  
