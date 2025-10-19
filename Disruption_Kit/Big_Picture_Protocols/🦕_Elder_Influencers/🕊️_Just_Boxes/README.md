@@ -41,7 +41,7 @@ It explores how systems of justice transform into self-justifying enclosures —
 > 📡 Cross-references:
 > 
 > - [⚖️ Containment Contract — Hotel Edition](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_containment_contract_trace_hotel_edition.md)  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
 > - [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *parallel containment frameworks in security policy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
