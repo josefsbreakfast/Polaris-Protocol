@@ -1,5 +1,5 @@
 # 🛟 Harm Reduction at Borders  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *Practical and policy measures to cut deaths and exploitation at points of entry, without waiting for full reform.*  
 
 ---
@@ -59,14 +59,15 @@ Harm reduction starts with a truth: people will cross borders when safer routes 
 ---
 
 ## 🏮 Footer  
-*Harm Reduction at Borders* is a living node of the Polaris Protocol.  
+*🛟 Harm Reduction at Borders* is a living node of the Polaris Protocol.  
 It documents how harm reduction principles apply at borders to reduce mortality and systemic violence.  
 
-> 📡 Cross-references:  
-> - [🫀 Genocide by Containment](../🌀_System_Governance/🫀_genocide_by_containment.md)  
-> - [💷 Migration as Liability Shield](../🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)  
-> - [📦 Containment as Industry](../🛟_Borders_Boats_Walls/📦_containment_as_industry.md)  
+> 📡 Cross-references:
+> 
+> - [🫀 Genocide by Containment](../../🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md)  
+> - [💷 Migration as Liability Shield](./💷_migration_as_liability_shield.md)  
+> - [📦 Containment as Industry](./📦_containment_as_industry.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-19_  
