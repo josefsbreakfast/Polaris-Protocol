@@ -1,5 +1,5 @@
 # 🕸️ Dragnet as Default  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
 *When isolated silencing becomes the default operating mode across systems.*  
 
 ---
@@ -140,4 +140,4 @@ It maps how containment practices expand until silence itself becomes the assume
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
