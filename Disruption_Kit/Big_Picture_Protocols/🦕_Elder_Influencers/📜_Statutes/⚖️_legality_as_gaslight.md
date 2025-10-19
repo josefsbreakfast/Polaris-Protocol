@@ -2,6 +2,8 @@
 **First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *On how legal compliance windows and selective non-disclosure (e.g., Section 17 transitions) can be weaponised to gaslight and retraumatise survivors.*
 
+---
+
 ## Summary
 This note critiques how legal and policy windows—where authorities claim they cannot disclose operational details for legal reasons—can operate as a form of institutional gaslighting. Selective non-disclosure can withhold accountability, prolong uncertainty, and amplify harm, especially in cases of ongoing sexual/romantic impersonation and harassment.
 
