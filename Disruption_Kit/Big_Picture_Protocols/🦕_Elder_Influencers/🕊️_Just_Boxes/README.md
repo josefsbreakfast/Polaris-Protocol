@@ -1,5 +1,5 @@
 # 🕊️ Just Boxes  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-19  
 *Justice boxes and justified boxes of containment.*  
 
 ---
@@ -38,11 +38,12 @@ justice, containment, harm reduction, restorative justice, transformational just
 *🕊️ Just Boxes* is a living node of the **Polaris Protocol**.  
 It explores how systems of justice transform into self-justifying enclosures — and how harm reduction, restorative, and transformational justice frameworks offer counterlogics of repair.  
 
-> 📡 Cross-references:  
-> - [⚖️ Containment Contract — Hotel Edition](../⚖️_containment_contract_trace_hotel_edition.md)  
-> - [🧠 Psychological Containment](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_psychological_containment.md)  
-> - [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/) — parallel containment frameworks in security policy  
+> 📡 Cross-references:
+> 
+> - [⚖️ Containment Contract — Hotel Edition](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_containment_contract_trace_hotel_edition.md)  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
+> - [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *parallel containment frameworks in security policy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_  
+_Last updated: 2025-10-19_  
