@@ -44,9 +44,9 @@ It captures the choreography of opacity: a refusal dressed as neutrality, deploy
 
 > 📡 Cross-references:
 > 
-> - [🏛️ Political Perverts](../🏛️_political_perverts.md) — *ministerial kink for indefinite renewals*  
-> - [📜 Statutes → IPA](../../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legal architecture of investigatory powers*  
-> - [🧿 Watch_The_Watchers](../../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight bodies and their limits*  
+> - [🏛️ Political Perverts](./🏛️_political_perverts.md) — *ministerial kink for indefinite renewals*  
+> - [📜 Statutes → IPA](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legal architecture of investigatory powers*  
+> - [🧿 Watch_The_Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight bodies and their limits*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
