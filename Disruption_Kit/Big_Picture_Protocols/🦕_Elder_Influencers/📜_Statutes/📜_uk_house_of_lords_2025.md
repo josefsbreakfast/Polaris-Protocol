@@ -1,24 +1,24 @@
 # 📜 UK House of Lords 2025  
-**First created:** 2025-09-04 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-04 | **Last updated:** 2025-10-19  
 *Timeline of the House of Lords (Hereditary Peers) Bill 2024–2025 — from manifesto pledge to Lords pushback and public response.*  
 
 ---
 
-## 1. Origins & Political Promises  
+## Origins & Political Promises  
 - **Jul 2024**: Labour manifesto pledges full removal of hereditary peers and wider Lords reform.  
   - Supported by Labour, Lib Dems, Greens.  
   - Opposed by Conservative peers, who remain the majority among hereditary members.  
 
 ---
 
-## 2. Commons Passage  
+## Commons Passage  
 - **5 Sep 2024**: Bill introduced in Commons by Labour.  
 - **15 Oct 2024**: Second Reading passes easily; Tory amendment defeated 453–105.  
 - **12 Nov 2024**: Completed Commons stages unamended.  
 
 ---
 
-## 3. House of Lords Stages & Amendments  
+## House of Lords Stages & Amendments  
 - **11 Dec 2024**: Bill receives Second Reading in Lords.  
 - **Mar–Apr 2025**: Committee Stage spans multiple sittings; no amendments passed.  
 
@@ -37,12 +37,12 @@
 
 ---
 
-## 4. Return to Commons  
+## Return to Commons  
 - **4 Sep 2025 (scheduled)**: Commons to consider Lords’ amendments.  
 
 ---
 
-## 5. Political & Public Response  
+## Political & Public Response  
 - **Support:** Labour, Lib Dems, Greens, crossbenchers — overdue modernisation.  
 - **Opposition:** Conservatives defend hereditary peers’ experience, warn of retaliation.  
 - **Public Opinion:**  
@@ -69,9 +69,9 @@
 
 ## 🏮 Footer  
 
-*UK House of Lords 2025* is a living node of the Polaris Protocol.  
+*📜 UK House of Lords 2025* is a living node of the Polaris Protocol.  
 It documents the contested removal of hereditary peers, the amendments that diluted reform, and the wider public demand for deeper constitutional change.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-19_
