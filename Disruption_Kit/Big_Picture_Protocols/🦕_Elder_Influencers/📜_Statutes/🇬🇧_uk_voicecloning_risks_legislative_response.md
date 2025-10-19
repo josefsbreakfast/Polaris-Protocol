@@ -1,5 +1,5 @@
 # 🇬🇧 UK Voice-Cloning Risks & Legislative Response  
-**First created:** 2025-08-31 | **Last updated:** 2025-09-28  
+**First created:** 2025-08-31 | **Last updated:** 2025-10-19  
 *Timeline of UK incidents and regulatory shifts around AI voice cloning.*  
 
 ---
@@ -45,9 +45,9 @@ The gap between adoption and regulation remains stark: public awareness grows, b
 
 ## 🏮 Footer  
 
-*UK Voice-Cloning Risks & Legislative Response* is a living node of the Polaris Protocol.  
+*🇬🇧 UK Voice-Cloning Risks & Legislative Response* is a living node of the Polaris Protocol.  
 It documents major UK incidents of voice misuse, the harms caused, and the emerging but incomplete legal protections. 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_  
+_Last updated: 2025-10-19_  
