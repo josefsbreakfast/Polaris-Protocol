@@ -45,7 +45,6 @@ A breakdown of how bureaucratic actors weaponise ethical language and institutio
 
 ## 🏮 Footer  
 
-*🧠 HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents how ethical language is repurposed as a coercive trap.  
 
 *Memory is a blessing. Memory is political.* 
