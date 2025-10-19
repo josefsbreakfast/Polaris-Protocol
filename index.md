@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 21:10:48 UTC_
+_Generated on 2025-10-19 21:17:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -35,6 +35,9 @@ _Generated on 2025-10-19 21:10:48 UTC_
         - [**election_audit/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/README.md)
           - [`audit_loader.py`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/audit_loader.py)
+          - [`🧩_Socio_Economic_Clusters_of_Reform_Support.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/🧩_Socio_Economic_Clusters_of_Reform_Support.md)
+          - [`🧭_Citizen_Audit_Behavioural_Data_in_Elections.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/🧭_Citizen_Audit_Behavioural_Data_in_Elections.md)
+          - [`🧭_Stronghold_Capture_Audit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/🧭_Stronghold_Capture_Audit.md)
           - [`🧭_stronghold_capture_audit_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/🧭_stronghold_capture_audit_template.csv)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
         - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
