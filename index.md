@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 22:59:08 UTC_
+_Generated on 2025-10-19 23:03:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1455,6 +1455,7 @@ _Generated on 2025-10-19 22:59:08 UTC_
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md`](Polaris_Nest/Git_Intake_Drawer/🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md)
     - [`👻_new_ghost_to_be_vetoed.md`](Polaris_Nest/Git_Intake_Drawer/👻_new_ghost_to_be_vetoed.md)
+    - [`💋_apparatus_as_apprentice.md`](Polaris_Nest/Git_Intake_Drawer/💋_apparatus_as_apprentice.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💰_resolving_the_fear_of_the_poor.md`](Polaris_Nest/Git_Intake_Drawer/💰_resolving_the_fear_of_the_poor.md)
