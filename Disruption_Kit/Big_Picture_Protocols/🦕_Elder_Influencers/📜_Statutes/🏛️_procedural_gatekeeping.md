@@ -1,6 +1,6 @@
 # 🏛️ Procedural Gatekeeping — Speaker & Leader Alignment  
-**First created:** 2025-10-11 | **Last updated:** 2025-10-11  
-*How institutional alignment between the Speaker and the Leader of the House shapes access to scrutiny.*
+**First created:** 2025-10-11 | **Last updated:** 2025-10-19  
+*How institutional alignment between the Speaker and the Leader of the House shapes access to scrutiny.*  
 
 ---
 
@@ -67,15 +67,15 @@ uk parliament, speaker of the house, leader of the house, pmqs, urgent questions
 
 ## 🏮 Footer  
 
-*Procedural Gatekeeping — Speaker & Leader Alignment* is a living node of the Polaris Protocol.  
+*🏛️ Procedural Gatekeeping — Speaker & Leader Alignment* is a living node of the Polaris Protocol.  
 It documents how structural alignment between the Speaker and the Leader of the House can narrow scrutiny channels within the Westminster system without overt rule-breaking.  
 
 > 📡 Cross-references:
 > 
-> - [📜 Statutes — Parliamentary Procedures](./README.md) — formal Standing Orders  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/🧠_psychological_containment.md) — behavioural analogues of gatekeeping  
+> - [📜 Statutes — Parliamentary Procedures](./README.md) — *formal Standing Orders*  
+> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *behavioural analogues of gatekeeping*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2025-10-19_
