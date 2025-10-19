@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 15:33:50 UTC_
+_Generated on 2025-10-19 15:34:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1483,6 +1483,7 @@ _Generated on 2025-10-19 15:33:50 UTC_
     - [`🧬_collocative_integrity_and_metadata_inertia.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_integrity_and_metadata_inertia.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧬_dopamine_depletion.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dopamine_depletion.md)
+    - [`🧭_attractor_map_suppression_contract.md`](Polaris_Nest/Git_Intake_Drawer/🧭_attractor_map_suppression_contract.md)
     - [`🧮_7_day_word_count_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧮_7_day_word_count_analysis.md)
     - [`🧮_dewey_decimal_and_the_ethics_of_order.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_and_the_ethics_of_order.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
