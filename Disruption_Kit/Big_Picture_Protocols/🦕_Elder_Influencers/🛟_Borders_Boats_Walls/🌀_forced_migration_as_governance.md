@@ -1,5 +1,5 @@
 # 🌀 Forced Migration as Governance  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-19  
 *How empire displaced populations to fracture cohesion and control labour.*  
 
 ---
@@ -47,13 +47,14 @@ Containment today continues the same logic — not always through mass relocatio
 
 ## 🏮 Footer  
 
-*Forced Migration as Governance* is a living node of the Polaris Protocol.  
+*🌀 Forced Migration as Governance* is a living node of the Polaris Protocol.  
 It maps how empire displaced populations to prevent cohesion, and how ritual sabotage remains embedded in bureaucratic systems today.  
 
-> 📡 Cross-references:  
-> - [🗝️ Deliberate Cultural Violation](../🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — repeated violation of faith and ritual as policy  
-> - [🌀 System_Governance](../🌀_System_Governance/) — governance logics and control loops  
+> 📡 Cross-references:
+> 
+> - [🗝️ Deliberate Cultural Violation](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_deliberate_cultural_violation.md) — *repeated violation of faith and ritual as policy*  
+> - [🌀 System_Governance](../../🌀_System_Governance/README.md) — *governance logics and control loops*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-10-19_
