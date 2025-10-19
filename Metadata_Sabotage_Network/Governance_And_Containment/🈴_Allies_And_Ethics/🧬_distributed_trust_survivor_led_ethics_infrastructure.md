@@ -34,7 +34,7 @@ It designs mechanisms for ethical review without institutional containment.
 > 📡 Cross-references:
 > 
 > - [🈴 Allies & Ethics README](./README.md)  
-> - [🛠️ Survivor Tools](../../../Survivor_Tools/README.md)  
+> - [🛠️ Survivor Tools](../../../Disruption_Kit/Survivor_Tools/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
