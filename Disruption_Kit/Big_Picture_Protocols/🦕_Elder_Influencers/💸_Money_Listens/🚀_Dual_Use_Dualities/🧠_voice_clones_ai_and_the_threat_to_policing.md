@@ -88,7 +88,7 @@ It documents how synthetic audio technologies compromise operational trust, evid
 > 📡 Cross-references:
 > 
 > - [🧾 Due Diligence & Operational Capacity in Policing](../../../🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md) — *capacity and oversight context*  
-> - [🔮 Visibility Indexing Anomalies](../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md) — *related informational distortions*  
+> - [🔮 Visibility Indexing Anomalies](../../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md) — *related informational distortions*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
