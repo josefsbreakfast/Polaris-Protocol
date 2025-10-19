@@ -1,5 +1,5 @@
 # ❌ NCND Technique  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2025-10-19  
 *A satirical take on the bureaucrat’s favourite safe word: “Neither Confirm Nor Deny.” A kink for opacity, whispered like a mantra whenever the truth gets too close.*  
 
 ---
@@ -37,19 +37,17 @@ It highlights how NCND is less about security and more about *deniability as per
 
 ---
 
-## 🔗 Cross-References  
-
-- [🏛️ Political Perverts](../🏛️_political_perverts.md) — ministerial kink for indefinite renewals  
-- [📜 Statutes → IPA](../📜_statutes) — legal architecture of investigatory powers  
-- [🧿 Watch_The_Watchers](../🧿_watch_the_watchers.md) — oversight bodies and their limits  
-
----
-
 ## 🏮 Footer  
 
-*🚫 NCND Technique* is a satirical node of the Polaris Protocol.  
+*❌ NCND Technique* is a satirical node of the Polaris Protocol.  
 It captures the choreography of opacity: a refusal dressed as neutrality, deployed whenever disclosure would be politically or institutionally inconvenient.  
+
+> 📡 Cross-references:
+> 
+> - [🏛️ Political Perverts](../🏛️_political_perverts.md) — *ministerial kink for indefinite renewals*  
+> - [📜 Statutes → IPA](../../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legal architecture of investigatory powers*  
+> - [🧿 Watch_The_Watchers](../../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight bodies and their limits*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_
+_Last updated: 2025-10-19_
