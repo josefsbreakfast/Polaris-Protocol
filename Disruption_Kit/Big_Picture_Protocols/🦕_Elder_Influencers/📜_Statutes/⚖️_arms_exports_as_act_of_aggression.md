@@ -1,5 +1,5 @@
 # ⚖️ Arms Exports as Act of Aggression  
-**First created:** 2025-10-11 | **Last updated:** 2025-10-12  
+**First created:** 2025-10-11 | **Last updated:** 2025-10-19  
 *When defence becomes denial; when trade becomes complicity.*
 
 ---
@@ -98,33 +98,6 @@ The law protects matériel, not morality—and in doing so, it mistakes discreti
 
 ---
 
-## 🌌 Constellations  
-
-⚖️ 🧿 🔮 — diagnostic, lawful, forensic register within the Statutes cluster, cross-linked to oversight and containment analysis.
-
----
-
-## ✨ Stardust  
-
-arms exports, aggression, genocide risk, international law, UK export control, ICJ, secrecy law, official secrets act, accountability, containment
-
----
-
-## 🏮 Footer  
-
-*Arms Exports as Act of Aggression* is a living node of the Polaris Protocol.  
-It maps the legal terrain where trade, knowledge, and silence converge — and records how *defence* becomes the most efficient disguise for harm.  
-
-> 📡 Cross-references:  
-> - [⚖️ Defence Without War Powers](./⚖️_defence_without_war_powers.md) — analysis of executive war powers and prerogative deployment  
-> - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/) — oversight and accountability nodes  
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2025-10-12_
-
----
-
 ## 📚 Sources & References  
 
 - United Nations Charter (1945) Art 2(4), Art 51.  
@@ -139,3 +112,29 @@ _Last updated: 2025-10-12_
 - House of Commons Library Briefing CBP-9964 *UK arms exports to Israel* (2024).  
 
 ---
+
+## 🌌 Constellations  
+
+⚖️ 🧿 🔮 — diagnostic, lawful, forensic register within the Statutes cluster, cross-linked to oversight and containment analysis.
+
+---
+
+## ✨ Stardust  
+
+arms exports, aggression, genocide risk, international law, UK export control, ICJ, secrecy law, official secrets act, accountability, containment
+
+---
+
+## 🏮 Footer  
+
+*⚖️ Arms Exports as Act of Aggression* is a living node of the Polaris Protocol.  
+It maps the legal terrain where trade, knowledge, and silence converge — and records how *defence* becomes the most efficient disguise for harm.  
+
+> 📡 Cross-references:
+> 
+> - [⚖️ Defence Without War Powers](./⚖️_defence_without_war_powers.md) — *analysis of executive war powers and prerogative deployment*  
+> - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight and accountability nodes*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-19_
