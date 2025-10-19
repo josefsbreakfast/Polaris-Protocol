@@ -1,6 +1,6 @@
 # 📸 History of Street Photography as Counter-Surveillance  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-07  
-*Moments where the camera was turned back on the secret policeman, shifting street photography into survival and resistance*  
+**First created:** 2025-09-27 | **Last updated:** 2025-10-19  
+*Moments where the camera was turned back on the secret policeman, shifting street photography into survival and resistance.*  
 
 ---
 
@@ -149,14 +149,15 @@ street photography, counter-surveillance, secret police, protest tactics, witnes
 
 ## 🏮 Footer  
 
-*History of Street Photography as Counter-Surveillance* is a living node of the Polaris Protocol.  
+*📸 History of Street Photography as Counter-Surveillance* is a living node of the Polaris Protocol.  
 It traces how cameras have been used to turn surveillance inside-out, across geographies and decades, and across both literary and political imagination.  
 
-> 📡 Cross-references:  
-> - [👁️‍🗨️ Witness Histories](../../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic accounts of watching and being watched*  
-> - [🎶 Banned Broadcasts Cooperative](../../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural removals and state secrecy*  
-> - [🗝️ Politics & Memory Work](../../Big_Picture_Protocols/🗝️_Politics_Memory_Work/README.md) — *contested histories and erasures*  
+> 📡 Cross-references:
+> 
+> - [👁️‍🗨️ Witness Histories](../../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic accounts of watching and being watched*  
+> - [🎶 Banned Broadcasts Cooperative](../../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural removals and state secrecy*  
+> - [🗝️ Political Economy & Memory Work](../../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md) — *contested histories and erasures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_  
+_Last updated: 2025-10-19_  
