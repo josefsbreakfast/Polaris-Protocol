@@ -1,5 +1,5 @@
 # 📈 ID Function Creep  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-05  
+**First created:** 2025-10-05 | **Last updated:** 2025-10-19  
 *When identification expands faster than justification.*  
 
 ---
@@ -51,10 +51,11 @@ id systems, function creep, surveillance expansion, governance drift, data linka
 *📈 ID Function Creep* is a living node of the *Polaris Protocol.*  
 It maps the incremental broadening of identification infrastructures and their rebranding as convenience or safety.  
 
-> 📡 Cross-references:  
-> - [🧀 Child Data Swiss-Cheese Model — Systemic Risk Framework](../../Metadata_Sabotage_Network/🔥_Data_Risks/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)  
-> - [🐣 Children & Youth ID Card Risks](../../Metadata_Sabotage_Network/🔥_Data_Risks/🐣_children_youth_id_card_risks.md)  
+> 📡 Cross-references:
+> 
+> - [🧀 Child Data Swiss-Cheese Model — Systemic Risk Framework](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)  
+> - [🐣 Children & Youth ID Card Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🐣_children_youth_id_card_risks.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-19_
