@@ -1,5 +1,5 @@
 # 🪞 Mirror Ethics — When Empathy Becomes Extraction  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *How empathy and allyship drift into mimicry, extraction, or performance.*
 
 ---
@@ -32,10 +32,11 @@ empathy, extraction, mimicry, allyship, relational ethics, survivor voice, autho
 *🪞 Mirror Ethics — When Empathy Becomes Extraction* is a living node of the Polaris Protocol.  
 It studies how empathy can become a vector of capture rather than connection.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🈴 Allies & Ethics README](./README.md)  
-> - [🕯 Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows/)  
+> - [🕯 Exorcising Safeguarding Shadows](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
