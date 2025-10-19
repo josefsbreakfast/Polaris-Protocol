@@ -1,5 +1,5 @@
 # ☄️ Already in World War 3  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-19  
 *The argument that a third world war is ongoing, but mis-recognised.*  
 
 ---
@@ -47,11 +47,12 @@ world war 3, ongoing conflict, distributed warfare, denial, escalation, containm
 *☄️ Already in World War 3* is a living node of the Polaris Protocol.  
 It argues that the third world war is not a coming possibility but a present, mis-labelled condition.  
 
-> 📡 Cross-references:  
-> - [🌀 System Governance](../Big_Picture_Protocols/🌀_system_governance.md)  
-> - [🪬 Radicalisation and Extremism](../Big_Picture_Protocols/🪬_radicalisation_extremism.md)  
-> - [🕸️ World Webs](../Big_Picture_Protocols/🕸️_world_webs.md)  
+> 📡 Cross-references:
+> 
+> - [🌀 System Governance](../../🌀_System_Governance/README.md)  
+> - [🪬 Radicalisation and Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md)  
+> - [🕸️ World Webs](../../🦕_Elder_Influencers/🕸️_World_Webs/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_
+_Last updated: 2025-10-19_
