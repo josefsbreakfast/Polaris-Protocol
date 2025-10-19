@@ -1,5 +1,5 @@
 # 🧠 Why I Write Like This  
-**First created:** 2025-08-05 | **Last updated:** 2025-10-08  
+**First created:** 2025-08-05 | **Last updated:** 2025-10-19  
 *A meta-node explaining the stylistic, strategic, and ethical logic behind the Polaris writing method.*  
 
 ---
@@ -71,9 +71,9 @@ writing style, survivor voice, metadata resistance, narrative strategy, forensic
 
 ## 🏮 Footer  
 
-*Why I Write Like This* is a meta-node of the Polaris Protocol.  
+*🧠 Why I Write Like This* is a meta-node of the Polaris Protocol.  
 It exists to explain how tone and structure operate as defensive and forensic tools under surveillance and coercion.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
