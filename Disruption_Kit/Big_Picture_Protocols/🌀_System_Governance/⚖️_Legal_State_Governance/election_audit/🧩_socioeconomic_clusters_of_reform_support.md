@@ -68,11 +68,6 @@ reform uk, council elections, deindustrialisation, civic neglect, socio-economic
 *🧩 Socio-Economic Clusters of Reform Support* is a living node of the Polaris Protocol.  
 It tracks repeating material conditions that enable populist breakthroughs, turning anecdote into mappable civic data.  
 
-> 📡 Cross-references:
-> 
-> - [🧭 Citizen Audit — Behavioural Data in Elections](./🧭_citizen_audit_behavioural_data_in_elections.md)  
-> - [⚠️ Foreign Influence & Behavioural Capture in UK Elections](./⚠️_foreign_influence_behavioural_capture_in_uk_elections.md)
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-19_
