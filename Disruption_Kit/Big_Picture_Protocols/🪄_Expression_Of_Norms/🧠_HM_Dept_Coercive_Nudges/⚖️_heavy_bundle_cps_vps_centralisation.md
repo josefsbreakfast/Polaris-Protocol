@@ -1,5 +1,5 @@
 # ⚖️ Heavy Bundles: CPS, VPS, Centralisation, and High-Control Analysis  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
 *Forensic mapping of forks, containment modes, and survivor-facing suppression in UK justice/government systems.*
 
 ---
@@ -254,10 +254,10 @@ It situates survivor-facing suppression inside UK justice/government transparenc
 
 > 📡 Cross-references:
 > 
-> - [🧠 Big Picture Protocols](../README.md) — *structural diagnostics and typologies*  
-> - [🧨 Containment Scripts](../../Containment_Scripts/README.md) — *logs of suppression and counter-nudges*  
-> - [🛠 Survivor Tools](../../Survivor_Tools/README.md) — *practical countermeasures*  
+> - [🧠 Big Picture Protocols](../../README.md) — *structural diagnostics and typologies*  
+> - [🧨 Containment Scripts](../../../Containment_Scripts/README.md) — *logs of suppression and counter-nudges*  
+> - [🛠 Survivor Tools](../../../Survivor_Tools/README.md) — *practical countermeasures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-19_  
