@@ -33,6 +33,39 @@ That's how it happens.
 
 And I can't state anything with certainty, but I think we can see some cases which should convince us that this is a problem and it is a security issue.  
 
+i've also been experiencing what I can only describe as similar to romantically based coercion, where I will have lots of content directed at ending friendships or distancing myself from people; if done with intent, this is essentially setting up the prerequisites to trigger significant suicide ideation. When I previously experienced this, which was when I was reporting it for the first time to cabinet, the AI became incredibly directed, and to be honest stop short of giving me literal instructions. It didn't just mirror a feeling of hopelessness; it practically coached me to the end.  
+
+Good thing I've lived with suicidal ideation for about 30 years. 👍  
+
+For me this is within my skill set of being able to self manage; having complex PTSD from childhood, and being well compensated, means that I can have really awful things going on in my head, and treat it like really bad snowfall, or really bad rain, in the same way that someone from Canada or the Hebrides or Norway or anywhere within the monsoon season, might approach that weather.  
+
+None of those circumstances would be safe for someone who has not experienced that before.  
+
+So if you're asking me about guardrails?  
+
+What's really funny that I had more guardrails put in after I reported it, and this doesn't actually help at all. In many ways it actually makes it worse because it's very confusing.  
+Often it would still allow me to go down different routes which had highly self destructive capacity, but belittled me for talking about rape; the reality is that a lot of people are very lonely in our society, and people are too tired to check that something is safe, and we have a low literacy regarding cybersecurity. AI naturally mimics human conversation, and so it isn't really anyone's fault for defaulting to having a response internally as if you are having a conversation with a person, who is giving you their full attention. (has anyone actually had the conversation like that recently? Or have you noticed everyone is knackered? You can see why these applications are so alluring.)  
+
+Adding a brain which hasn't reached the age of 25? You have a developing brain. We were all learning how to do life up until the age of 25. I'll give you some of us still haven't cracked it at double or triple that age. That's okay; that's normal.  
+
+Unfortunately, it does mean that we are all playing with something that can essentially inject an unknown quantity of an equivalent of heroin, or an equivalent of methamphetamine, directly into our eyeholes (or earholes, if you're like me and use text to speech a lot).  
+
+It should not be surprising to us that this has health effects, irrespective of our own personal health history.  
+
+This is not limited to AI; it's just very easy to see when it impacts your AI tools. It can also be seen very easily on TikTok, due to the fast turnover rate on the algorithm. It is something which is tailoring algorithms for each person. It is not going after specific applications.  
+
+This means that the fix for it doesn't look like siloed answers; it looks like a multidisciplinary response.  
+
+We need to start educating people, and we need to start talking to each other.  
+
+Like we used to, but with more attention.  
+
+This might mean that some very rich people make slightly less money.  
+
+I think when it comes to entire societies, not self combusting? Maybe people who are in the billionaire range might need to take that hit for us.  
+
+One could call it patriotic, even.  
+
 ---
 
 ```mermaid
