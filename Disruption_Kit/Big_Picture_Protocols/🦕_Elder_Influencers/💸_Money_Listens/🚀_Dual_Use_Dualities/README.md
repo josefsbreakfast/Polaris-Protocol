@@ -62,7 +62,7 @@ It anchors both the analytical and satirical interrogation of dual-use ethics �
 > 📡 Cross-references:
 > 
 > - [💸 Money Listens](../README.md) — *economic architectures of coercion*  
-> - [🌀 System Governance](../../../🌀_System_Governance/README.md) — *oversight and authorisation chains*  
+> - [🌀 Systems & Governance](../../../🌀_System_Governance/README.md) — *oversight and authorisation chains*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
