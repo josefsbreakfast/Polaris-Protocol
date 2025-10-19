@@ -1,5 +1,5 @@
 # 📦 Containment as Industry  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *How border enforcement, asylum backlogs, and detention are turned into revenue streams.*  
 
 ---
@@ -79,14 +79,15 @@ Today’s £3bn hotel contracts and outsourced misery are not new failures; they
 ---
 
 ## 🏮 Footer  
-*Containment as Industry* is a living node of the Polaris Protocol.  
+*📦 Containment as Industry* is a living node of the Polaris Protocol.  
 It documents how migration policy is converted into a revenue stream, rooted in centuries of containment logics: rebellion suppression, surveillance fetish, and moralised cruelty.  
 
-> 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](../🌀_System_Governance/⚖️_containment_contract_trace.md) — follow the money  
-> - [🏘️ Council Incentives Hotels](../🌀_System_Governance/🏘️_council_incentives_hotels.md) — why local authorities host hotels  
-> - [💷 Migration as Liability Shield](../🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md) — how elites deflect costs downward  
+> 📡 Cross-references:
+> 
+> - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *follow the money*  
+> - [🏘️ Council Incentives Hotels](./🏘️_council_incentives_hotels.md) — *why local authorities host hotels*  
+> - [💷 Migration as Liability Shield](./💷_migration_as_liability_shield.md) — *how elites deflect costs downward*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-10-19_  
