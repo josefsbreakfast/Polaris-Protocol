@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 23:21:58 UTC_
+_Generated on 2025-10-19 23:50:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1459,6 +1459,7 @@ _Generated on 2025-10-19 23:21:58 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💰_resolving_the_fear_of_the_poor.md`](Polaris_Nest/Git_Intake_Drawer/💰_resolving_the_fear_of_the_poor.md)
+    - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📊_risk_scoring_architectures.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scoring_architectures.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_library_as_algorithmic_interface.md`](Polaris_Nest/Git_Intake_Drawer/📚_library_as_algorithmic_interface.md)
