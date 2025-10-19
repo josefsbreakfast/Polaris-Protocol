@@ -1,5 +1,5 @@
 # 🧠 Swiss-Cheese Suicide Model in Custody  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
 *Why “outlier” narratives mislead; how stacked biases punch holes in the net.*
 
 ---
@@ -24,4 +24,5 @@ custody suicide, swiss cheese model, threshold drift, abolition, structural bias
 A framing node to underpin policy and media responses without sensationalising cases.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+
+_Last updated: 2025-10-19_
