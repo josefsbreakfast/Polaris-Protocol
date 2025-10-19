@@ -1,5 +1,5 @@
 # 🌀 Docility Engine  
-**First created:** 2025-08-04 | **Last updated:** 2025-10-08  
+**First created:** 2025-08-04 | **Last updated:** 2025-10-19  
 *“Compliance isn’t forced — it’s engineered. The trick is making you run the loop yourself.”*  
 
 ---
@@ -132,9 +132,9 @@ The loops were built for them.
 *HM Dept of Coercive Nudges* is a Polaris Protocol doctrine node.  
 This file documents the **Docility Engine** — a behavioural machinery of loops, shame, and rhetorical traps.  
 
-🏮 [Return to 🗝️ Political Economy & Memory Work](../🗝️_Politics_Memory_Work//README.md)
+🏮 [Return to 🗝️ Political Economy & Memory Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-19_  
 
