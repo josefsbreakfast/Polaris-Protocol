@@ -49,7 +49,7 @@ It analyses the UK’s systemic position as a service-state, staging sovereignty
 > - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *contractual logic in governance*  
 > - [🎊 Multi-Party Data Twinning](../💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md
 ) — *intermediaries as fusers of overlapping interests*  
-> - [Survivor Tools](../../Survivor_Tools/README.md) — *practical strategies for navigating systemic containment*  
+> - [Survivor Tools](../../../Survivor_Tools/README.md) — *practical strategies for navigating systemic containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
