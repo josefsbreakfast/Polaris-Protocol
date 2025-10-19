@@ -1,5 +1,5 @@
 # 🦾 Invest Appropriately  
-**First created:** 2025-10-03  |  **Last updated:** 2025-10-08  
+**First created:** 2025-10-03  |  **Last updated:** 2025-10-19  
 *On how the “deserving poor” mythology and the charitable-arms complex hollow out democracy from within.*
 
 ---
@@ -67,10 +67,11 @@ charity reform, philanthropy, moral economy, democracy, inequality, mutual aid, 
 *🦾 Invest Appropriately* is a living node of the **Polaris Protocol**, within the **💸 Money Listens / 🦾 Invest Appropriately** sub-cluster.  
 It maps how the charity system and moral-prestige economy deform democratic structures and outlines transitional remedies toward genuine mutual aid.  
 
-> 📡 Cross-references:  
-> - [🚀 Arms Transparency](../🚀_arms_transparency.md)  
+> 📡 Cross-references:
+> 
+> - [🚀 Arms Transparency](../🚀_Dual_Use_Dualities/README.md)  
 > - [🦾 Dual Uses That Never Come](../🚀_Dual_Use_Dualities/🦾_dual_uses_that_never_come.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
