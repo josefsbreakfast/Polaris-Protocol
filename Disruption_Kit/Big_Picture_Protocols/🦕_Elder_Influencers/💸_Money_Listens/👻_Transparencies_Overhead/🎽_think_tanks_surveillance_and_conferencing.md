@@ -1,5 +1,5 @@
 # 🎽 Think Tanks, Surveillance, and Conferencing  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-13  
+**First created:** 2025-10-03 | **Last updated:** 2025-10-19  
 *How influence networks and conference circuits act as surveillance architecture disguised as policy dialogue.*
 
 ---
@@ -61,13 +61,13 @@ think tanks, lobbying, philanthropy, surveillance, conferences, policy capture, 
 
 ## 🏮 Footer  
 
-*Think Tanks, Surveillance, and Conferencing* is a living node of the **Polaris Protocol**, within the **💸 Money Listens** cluster.  
+*🎽 Think Tanks, Surveillance, and Conferencing* is a living node of the **Polaris Protocol**, within the **💸 Money Listens** cluster.  
 It maps how the infrastructures of influence — research funding, conferences, panels — double as surveillance networks and narrative filters.  
 
 > 📡 Cross-references:
 > 
 > - [💸 Money Listens](../README.md) — *core folder on lobbying, corporate capture, and narrative finance*  
-> - [🪬 Radicalisation & Extremism](../../🪬_Radicalisation_Extremism/README.md) — *for overlaps with policy laundering under security rhetoric*  
+> - [🪬 Radicalisation & Extremism](../../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *for overlaps with policy laundering under security rhetoric*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
