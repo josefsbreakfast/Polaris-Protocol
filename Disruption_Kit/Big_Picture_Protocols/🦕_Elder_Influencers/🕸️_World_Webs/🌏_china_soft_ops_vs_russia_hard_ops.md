@@ -1,5 +1,5 @@
 # 🌏 China Soft Ops vs Russia Hard Ops  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
 *Contrasting styles of authoritarian influence and why their alliance is more opportunistic than permanent.*
 
 ---
@@ -41,14 +41,15 @@ This node maps the distinction between Chinese “soft ops” and Russian “har
 
 ## 🏮 Footer  
 
-*China Soft Ops vs Russia Hard Ops* is a living node of the Polaris Protocol.  
+*🌏 China Soft Ops vs Russia Hard Ops* is a living node of the Polaris Protocol.  
 It documents how divergent influence styles converge opportunistically and why their apparent alliance is fragile.  
 
-> 📡 Cross-references:  
-> - [🐉 Chen Rui / Ryan — Trump Parody](../../Banned_Books_Cooperative/🐉_chen_rui_trump_parody.md) — case study of soft ops through parody  
-> - [🔥 The Strength of Humour](../../Metadata_Sabotage_Network/Narrative_and_Psych_Ops/🔥_the_strength_of_humour.md) — humour as solvent of authoritarian performance  
-> - [Big Picture Protocols](../) — systemic diagnostics of global power  
+> 📡 Cross-references:
+> 
+> - [🐉 Chen Rui / Ryan — Trump Parody](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md) — *case study of soft ops through parody*  
+> - [🔥 The Strength of Humour](../../../../Metadata_Sabotage_Network/Narrative_and_Psych_Ops/🔥_the_strength_of_humour.md) — *humour as solvent of authoritarian performance*  
+> - [Big Picture Protocols](../../README.md) — *systemic diagnostics of global power*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-19_
