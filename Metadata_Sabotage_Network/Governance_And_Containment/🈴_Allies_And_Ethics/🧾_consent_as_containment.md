@@ -1,5 +1,5 @@
 # 🧾 Consent as Containment  
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-08  
+**First created:** 2025-10-08  |  **Last updated:** 2025-10-19  
 *When the language of permission becomes a mechanism of compliance.*  
 
 ---
@@ -117,15 +117,15 @@ consent drift, ritualised ethics, survivor sovereignty, institutional malfeasanc
 ---
 
 ## 🏮 Footer  
-*Consent as Containment* is a living node of the Polaris Protocol.  
+*🧾 Consent as Containment* is a living node of the Polaris Protocol.  
 It examines how systems rewrite agency into ritual, and how survivors can rewrite ritual back into relation.  
 
 > 📡 Cross-references:
 > 
 > - [🈴 Allies & Ethics — README](./README.md)  
-> - [🏛️ Governance & Containment — README](../../)  
+> - [🏛️ Governance & Containment — README](../README.md)  
 > - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
