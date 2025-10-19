@@ -122,10 +122,10 @@ It documents how rhetorical vagueness and vulnerability coding liquefy democrati
 
 > 📡 Cross-references:
 > 
-> – [🈺 Governance and Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
-> – [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)  
-> – [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md)  
-> – [🧿 Watch the Watchers](./README.md)  
+> – [🈺 Governance and Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) — *Examining Prevent logic and governance suppression frameworks within metadata sabotage systems*  
+> – [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *Polaris Protocol doctrine node — behavioural science repurposed as state containment*  
+> – [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *Doctrines on far-right pipelines, state complicity, and diaspora radicalisation*  
+> – [🧿 Watch the Watchers](./README.md) — *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
 > – [🩸 The Repetition Mechanism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) — *continuation of the pre-genocide recursion logic*  
 > – [🧠 Utilisation of Vulnerability](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — *how state systems instrumentalise perceived fragility*  
 > – [🫥 Presumption as Erasure](../../../🫥_presumption_as_erasure.md) — *individual-scale analogue of vulnerability-coding and disappearance logic*  
