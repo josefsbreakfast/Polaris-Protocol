@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 21:28:02 UTC_
+_Generated on 2025-10-19 21:32:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -35,6 +35,8 @@ _Generated on 2025-10-19 21:28:02 UTC_
         - [**election_audit/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/README.md)
           - [`audit_loader.py`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/audit_loader.py)
+          - [`⚖️_Behavioural_Micro_Targeting_and_Electoral_Integrity_UK.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/⚖️_Behavioural_Micro_Targeting_and_Electoral_Integrity_UK.md)
+          - [`⚠️_Foreign_Influence_and_Behavioural_Capture_in_UK_Elections.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/⚠️_Foreign_Influence_and_Behavioural_Capture_in_UK_Elections.md)
           - [`📮_reform_cluster_audit_foi_bundle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/📮_reform_cluster_audit_foi_bundle.md)
           - [`🧠_citizen_audit_behavioural_data_in_elections.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/🧠_citizen_audit_behavioural_data_in_elections.md)
           - [`🧩_socioeconomic_clusters_of_reform_support.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/🧩_socioeconomic_clusters_of_reform_support.md)
