@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 13:44:10 UTC_
+_Generated on 2025-10-19 14:42:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1418,9 +1418,11 @@ _Generated on 2025-10-19 13:44:10 UTC_
     - [`☕️_the_agentic_ai_needs_coffee.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_agentic_ai_needs_coffee.md)
     - [`⚖️_The_Alt-Right_Is_Not_the_Far-Right.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_The_Alt-Right_Is_Not_the_Far-Right.md)
     - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
+    - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
     - [`⚖️_due_diligence_as_moral_defence.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_due_diligence_as_moral_defence.md)
     - [`⚖️_power_play_and_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_power_play_and_containment.md)
     - [`⚖️_protection_racket_as_system_design.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_protection_racket_as_system_design.md)
+    - [`⚖️_royalties_and_liability_misclassified_data_download.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_royalties_and_liability_misclassified_data_download.md)
     - [`⚖️_the_history_of_justice_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_history_of_justice_as_spectacle.md)
     - [`⚙️_overdrive_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_overdrive_capitalism.md)
     - [`✨_my_boy_lawrence.md`](Polaris_Nest/Git_Intake_Drawer/✨_my_boy_lawrence.md)
@@ -1476,6 +1478,7 @@ _Generated on 2025-10-19 13:44:10 UTC_
     - [`🧠_multilock_overlapping_systems_coercive_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_systems_coercive_systems.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
+    - [`🧪_voice_convergence_forensics_2017_2018_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_2017_2018_hinge.md)
     - [`🧬_collocative_integrity_and_metadata_inertia.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_integrity_and_metadata_inertia.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧬_dopamine_depletion.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dopamine_depletion.md)
