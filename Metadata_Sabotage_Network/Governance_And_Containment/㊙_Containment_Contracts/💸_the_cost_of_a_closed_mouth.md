@@ -1,5 +1,5 @@
 # 💸 The Cost of a Closed Mouth  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
 *Economic analysis of how silence is valued, traded, and weaponised.*
 
 ---
@@ -233,4 +233,4 @@ It traces how silence is shaped into an economic object, packaged and traded und
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
