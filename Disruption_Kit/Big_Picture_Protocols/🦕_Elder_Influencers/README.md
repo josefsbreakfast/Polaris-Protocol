@@ -1,5 +1,5 @@
 # 🦕 Elder Influencers  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-15 | **Last updated:** 2025-10-19  
 *Where empire ages but never dies — the long shadow of legacy power.*  
 
 ---
@@ -119,4 +119,4 @@ It maps the persistence of old power and its modern guises — tracing how empir
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-10-19_
