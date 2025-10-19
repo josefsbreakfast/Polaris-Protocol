@@ -1,5 +1,5 @@
 # 🩹 Patch Repair Governance  
-**First created:** 2025-09-25 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-25 | **Last updated:** 2025-10-19  
 *Containment systems as stitched patchwork — holes covered until pressure elsewhere forces old rot to reopen.*  
 
 ---
@@ -38,11 +38,11 @@ It records how systemic containment functions like a rotten hull stitched with p
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems & Governance](../README.md) — *bureaucratic logics and failure architectures*  
+> - [🌀 Systems & Governance](../🌀_System_Governance/README.md) — *bureaucratic logics and failure architectures*  
 > - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment) — *survivor exhaustion in patch-reopen cycles*
 > - [📋 Tick-Box Compliance as Containment](./📋_tick_box_compliance_as_containment.md) - *Institutional minimalism that simulates accountability while erasing systemic responsibility*
 > - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-10-19_
