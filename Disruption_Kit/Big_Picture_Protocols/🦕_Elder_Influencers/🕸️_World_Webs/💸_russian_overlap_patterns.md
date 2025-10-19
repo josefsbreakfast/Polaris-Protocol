@@ -1,6 +1,6 @@
 # 💸 Russian Overlap Patterns  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-28  
-*Governance, financial, and information-space overlaps enabling Russian incursions (2010–2025).*
+**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
+*Governance, financial, and information-space overlaps enabling Russian incursions (2010–2025).*  
 
 ---
 
@@ -133,14 +133,15 @@ Companies fall along a spectrum — from enablers to resistant actors. Russia ne
 
 ## 🏮 Footer  
 
-*Russian Overlap Patterns* is a living node of the Polaris Protocol.  
+*💸 Russian Overlap Patterns* is a living node of the Polaris Protocol.  
 It documents overlaps in finance, governance, and data economies that intersect with Russian incursions.  
 
-> 📡 Cross-references:  
-> - [🪖 Russia’s Incursions Timeline](../Polaris_Nest/💸_russian_overlap_patterns.md)  
-> - [⚖️ International Laundering](./⚖️_international_laundering.md)  
-> - [💸 Repression Cost Capital](./💸_repression_cost_capital.md)  
+> 📡 Cross-references:
+> 
+> - [💸 Russia’s Incursions Timeline](../../🦕_Elder_Influencers/🕸️_World_Webs/💸_russian_overlap_patterns.md)  
+> - [⚖️ International Laundering](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_international_laundering.md)  
+> - [💸 Repression Cost Capital](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/💸_repression_cost_capital.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-19_
