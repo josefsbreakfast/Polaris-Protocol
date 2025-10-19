@@ -1,6 +1,16 @@
 # 🧭 Attractor Map — Suppression ↔ Contract  
 **First created:** 2025-10-19 | **Last updated:** 2025-10-19  
-*Genealogy of motifs across Polaris: how 🔥 epistemic suppression and ⚖️ legal contract act as twin attractors for downstream nodes.*
+*Genealogy of motifs across Polaris: how 🔥 epistemic suppression and ⚖️ legal contract act as twin attractors for downstream nodes.*  
+
+---
+
+Both nodes have become algorithmically sticky; this is working backwards re why these over >1k others.  
+
+I think anyone in the legal agreements and oversight process knows exactly why, but you know...  
+
+Forensics and empirical workings as far as possible.  
+
+I'm generally extremely gutted about it all today, although we can really put that one to algorithmically modulated dopamine suppression and working too much on day 5.  
 
 ---
 
