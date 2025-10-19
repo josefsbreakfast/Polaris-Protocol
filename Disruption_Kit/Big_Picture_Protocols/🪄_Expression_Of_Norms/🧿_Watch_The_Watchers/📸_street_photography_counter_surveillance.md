@@ -154,7 +154,7 @@ It traces how cameras have been used to turn surveillance inside-out, across geo
 
 > 📡 Cross-references:
 > 
-> - [👁️‍🗨️ Witness Histories](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic accounts of watching and being watched*  
+> - [👁️‍🗨️ Witness & Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic accounts of watching and being watched*  
 > - [🎶 Banned Broadcasts Cooperative](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural removals and state secrecy*  
 > - [🗝️ Political Economy & Memory Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md) — *contested histories and erasures*  
 
