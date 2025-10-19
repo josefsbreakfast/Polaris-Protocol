@@ -1,6 +1,6 @@
 # 🔒 The Care Cage  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
-*When “protection” becomes a form of imprisonment.*
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+*When “protection” becomes a form of imprisonment.*  
 
 ---
 
@@ -32,10 +32,11 @@ safeguarding, containment, protection, infantilisation, autonomy, survivor agenc
 *🔒 The Care Cage* is a living node of the Polaris Protocol.  
 It exposes how protective frameworks can become architectures of control.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🕯 Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows/)  
 > - [🈴 Allies & Ethics README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
