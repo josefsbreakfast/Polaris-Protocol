@@ -73,7 +73,7 @@ It documents how structural alignment between the Speaker and the Leader of the 
 > 📡 Cross-references:
 > 
 > - [📜 Statutes — Parliamentary Procedures](./README.md) — *formal Standing Orders*  
-> - [🧠 Psychological Containment](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *behavioural analogues of gatekeeping*  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *behavioural analogues of gatekeeping*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
