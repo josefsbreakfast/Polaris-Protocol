@@ -1,5 +1,5 @@
 # ⚖️ Autonomy vs Containment Dial  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-19  
 *On the structural tension between openness, security, and exploitability in governance systems.*
 
 ---
@@ -74,4 +74,4 @@ It examines how systemic architectures oscillate between openness and control, a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-10-19_
