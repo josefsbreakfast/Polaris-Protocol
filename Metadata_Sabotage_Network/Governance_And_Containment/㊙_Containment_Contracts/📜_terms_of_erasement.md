@@ -1,5 +1,5 @@
 # 📜 Terms of Erasement  
-**First created:** 2025-08-05 | **Last updated:** 2025-10-08  
+**First created:** 2025-08-05 | **Last updated:** 2025-10-19  
 *Satirical contract exposing platform consent erasure and metadata sabotage.*
 
 ---
@@ -128,7 +128,7 @@ platform governance, consent architecture, nda satire, metadata suppression, clo
 
 ## 🏮 Footer  
 
-*Terms of Erasement* is a living node of the Polaris Protocol.  
+*📜 Terms of Erasement* is a living node of the Polaris Protocol.  
 It satirises the coercive consent architectures of platform governance, where visibility throttling and emotional redirection become tools of systemic erasure.  
 
 > 📡 Cross-references:
@@ -139,4 +139,4 @@ It satirises the coercive consent architectures of platform governance, where vi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2025-10-19_
