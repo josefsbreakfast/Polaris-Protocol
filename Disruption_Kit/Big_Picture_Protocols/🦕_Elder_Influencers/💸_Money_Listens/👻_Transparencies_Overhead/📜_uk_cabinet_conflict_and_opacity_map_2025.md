@@ -1,5 +1,5 @@
 # 📜 UK Cabinet Conflict & Opacity Map (2025)
-**First created:** 2025-10-06 | **Last updated:** 2025-10-13  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-19  
 *Mapping financial conflict exposure, disclosure opacity, and professional body concentration across the 2025 UK Cabinet.*  
 
 ---
@@ -96,15 +96,15 @@ conflict of interest, ministerial code, blind trust, opacity, transparency polic
 
 ## 🏮 Footer
 
-*UK Cabinet Conflict & Opacity Map (2025)* is a living node of the **Polaris Protocol**.  
+*📜 UK Cabinet Conflict & Opacity Map (2025)* is a living node of the **Polaris Protocol**.  
 It traces how transparency reforms convert scrutiny into narrative containment, using legal and procedural instruments to manage visibility rather than eliminate conflict.
 
 > 📡 Cross-references:
 > 
-> – [🧿 Watch the Watchers](../../🧿_Watch_The_Watchers/README.md)  
-> – [📜 Statutes](../../📜_Statutes/README.md)  
-> – [🧠 HM Dept Coercive Nudges](../../🧠_HM_Dept_Coercive_Nudges/README.md)
+> – [🧿 Watch the Watchers](../../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
+> – [📜 Statutes](../../../🦕_Elder_Influencers/📜_Statutes/README.md)  
+> – [🧠 HM Dept Coercive Nudges](../../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-19_
