@@ -1,5 +1,5 @@
 # 💾 Archival Drift — When Updates Delete History  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *Digital forensics of policy migrations and auto-purge erasures.*
 
 ---
@@ -33,8 +33,8 @@ It treats each deleted version as forensic evidence of containment by refresh.
 
 > 📡 Cross-references:  
 > - [🈸 Dispatch & Training README](./README.md)  
-> - [🕯 Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows/)  
+> - [🕯 Exorcising Safeguarding Shadows](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md)   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
