@@ -5,13 +5,13 @@
 
 ---
 
-## Scope  
+## 🛰️ Scope  
 This node examines the growing overlap between **behavioural analytics**, **campaign technology**, and **national-security exposure** in UK elections.  
 It asks how foreign or opaque interests can influence democratic outcomes through **data supply-chains** rather than money flows, and why current legislation leaves these vulnerabilities largely unguarded.
 
 ---
 
-## System Overview — The Proxy Pitch  
+## 🕳️ System Overview — The Proxy Pitch  
 In the modern campaign economy, influence no longer travels as cash in an envelope but as **behavioural advantage sold as a service**.  
 Consultancies, ad-tech vendors, and “insight” firms provide audience segmentation and algorithmic steering across social platforms.  
 When these entities are globally owned or data-dependent on non-UK infrastructures, they form a **proxy corridor** through which foreign strategic interests can move unseen.  
@@ -20,7 +20,7 @@ Like a cricket ball edged off the bat, the line between domestic play and foreig
 
 ---
 
-## Mechanism of Capture  
+## 🪣 Mechanism of Capture  
 1. **Layered contracting:** political parties outsource analytics → subcontractors → overseas data brokers.  
 2. **In-kind influence:** “free” or discounted services function as undeclared donations under PPERA 2000.  
 3. **Data laundering:** voter and psychographic data circulate through multiple processors until origin and consent vanish.  
@@ -29,7 +29,7 @@ Like a cricket ball edged off the bat, the line between domestic play and foreig
 
 ---
 
-## Due-Diligence & Legal Context  
+## 🧿 Due-Diligence & Legal Context  
 
 | Framework | Relevance | Gap |
 |------------|------------|----|
@@ -41,7 +41,7 @@ Like a cricket ball edged off the bat, the line between domestic play and foreig
 
 ---
 
-## National-Security Dimension  
+## 🏘️ National-Security Dimension  
 - **Hybrid interference:** commercial persuasion infrastructure repurposed for political outcomes.  
 - **Attribution fog:** domestic subsidiaries mask overseas ownership.  
 - **Regulatory mismatch:** ICO / Electoral Commission lack extraterritorial inspection powers.  
@@ -50,7 +50,7 @@ Like a cricket ball edged off the bat, the line between domestic play and foreig
 
 ---
 
-## Recommended Safeguards  
+## 🐝 Recommended Safeguards  
 1. **Declare the tech stack:** mandatory disclosure of campaign vendors and data origins.  
 2. **Joint-regulator cell:** Electoral Commission + ICO + NCSC to share intelligence on campaign tech.  
 3. **Risk-based DPIAs:** compulsory for any processor handling political-affinity or sentiment data.  
@@ -59,7 +59,7 @@ Like a cricket ball edged off the bat, the line between domestic play and foreig
 
 ---
 
-## Strategic Reading of the Field  
+## 🎪 Strategic Reading of the Field  
 Even when no party acts maliciously, the architecture itself acts as an **entropy amplifier**.  
 Influence need not favour a single ideology; it can merely inject confusion, normalise polarisation, and dull public capacity for discernment.  
 The more a democracy relies on opaque behavioural systems, the more it trains its electorate inside a mirror designed by others.
