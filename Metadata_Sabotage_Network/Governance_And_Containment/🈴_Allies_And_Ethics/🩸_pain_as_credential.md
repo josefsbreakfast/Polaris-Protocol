@@ -1,5 +1,5 @@
 # 🩸 Pain as Credential  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *The moral economy of suffering as social proof.*
 
 ---
@@ -32,10 +32,11 @@ trauma, legitimacy, suffering, hierarchy, ethics, survivor voice, visibility, au
 *🩸 Pain as Credential* is a living node of the Polaris Protocol.  
 It investigates how systems measure worth through wounds instead of wisdom.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 Why I Write Like This](./🧠_why_i_write_like_this.md)  
 > - [🈴 Allies & Ethics README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
