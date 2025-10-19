@@ -1,5 +1,5 @@
 # 🏗️ 2010s Authoritarian-Adjacent Build  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
 *Traces how, from 2010 onwards, counter-extremism policy (Prevent/Channel) and behavioural insights (nudges) converged into a wider governance architecture. This architecture normalised weak-signal surveillance and behaviour management, creating an authoritarian-adjacent frame for public services.*  
 
 ---
@@ -68,11 +68,12 @@ BIT spun out in 2014, but continued to operate as a public–private consultancy
 *2010s Authoritarian-Adjacent Build* is a Big Picture Protocol node of the Polaris Protocol.  
 It records how counter-extremism and behavioural insights merged into a surveillance/behavioural-control architecture, shaping the evidential fragility observed in 2016 and beyond.  
 
-> 📡 Backlinks:  
-> - [⚖️ Public Inquiry Business Case](../🌀_System_Governance/⚖️_public_inquiry_business_case.md)  
-> - [🛰️ Intentionality Assessment — 2016 Cluster] *TBC* 
-> - [🔬 Lost Checks and Balances](../🌀_System_Governance/🔬_lost_checks_and_balances.md)  
+> 📡 Cross-references:
+> 
+> - [⚖️ Public Inquiry Business Case](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_public_inquiry_business_case.md)  
+> - [🛰️ Intentionality Assessment — 2016 Cluster] *TBC*  
+> - [🔬 Lost Checks and Balances](../../🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-10-19_  
