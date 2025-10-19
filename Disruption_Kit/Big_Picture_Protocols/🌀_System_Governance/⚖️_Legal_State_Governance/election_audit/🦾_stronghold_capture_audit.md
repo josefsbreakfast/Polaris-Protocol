@@ -1,10 +1,10 @@
-# 🧭 Stronghold Capture Audit — Party Realignment in Safe Seats  
+# 🦾 Stronghold Capture Audit — Party Realignment in Safe Seats  
 **First created:** 2025-10-19 | **Last updated:** 2025-10-19  
 *Examining where party brand stability masks shifts in ideology, candidate profile, or local representation.*  
 
 ---
 
-## Scope  
+## 🛰️ Scope  
 This audit tracks constituencies or wards where a party—typically a long-standing incumbent—  
 1. **Retained or regained control**, but  
 2. Installed a **candidate with materially different politics, funding links, or local engagement history.**
@@ -13,7 +13,7 @@ It provides a repeatable framework for assessing whether *party dominance* is be
 
 ---
 
-## Pattern Overview — The “Safe Seat Substitution”  
+## 🪑 Pattern Overview — The “Safe Seat Substitution”  
 | Mechanism | Description | Observable Signals |
 |------------|--------------|-------------------|
 | **Brand Reliance** | Party assumes electorate votes by colour, not candidate. | Minimal local campaigning. |
@@ -24,7 +24,7 @@ It provides a repeatable framework for assessing whether *party dominance* is be
 
 ---
 
-## Analytical Layers  
+## 🤔 Analytical Layers  
 ### 1️⃣ Candidate Provenance  
 - Source candidate bios, employment, and donation history.  
 - FOI or public inquiries into selection process transparency.  
@@ -43,7 +43,7 @@ It provides a repeatable framework for assessing whether *party dominance* is be
 
 ---
 
-## Risk Indicators  
+## ⚠️ Risk Indicators  
 | Flag | Meaning |
 |------|----------|
 | **Ideological Divergence** | Candidate positions diverge from prior representative. |
@@ -53,7 +53,7 @@ It provides a repeatable framework for assessing whether *party dominance* is be
 
 ---
 
-## How to Run This Audit  
+## 🐝 How to Run This Audit  
 1. Select a seat with >10-year continuous control by one party.  
 2. Gather: election data, candidate info, local-issue salience.  
 3. Enter into the Stronghold Capture CSV.  
@@ -62,7 +62,7 @@ It provides a repeatable framework for assessing whether *party dominance* is be
 
 ---
 
-## Ethical Guardrails  
+## 🪄 Ethical Guardrails  
 - Focus on **systemic patterns**, not personal details.  
 - Use only **public-domain** data.  
 - Provide right-of-reply when publishing.  
@@ -81,7 +81,7 @@ labour stronghold, safe seat, parachute candidate, ideological drift, local repr
 ---
 
 ## 🏮 Footer  
-*🧭 Stronghold Capture Audit — Party Realignment in Safe Seats* is a living node of the Polaris Protocol.  
+*🦾 Stronghold Capture Audit — Party Realignment in Safe Seats* is a living node of the Polaris Protocol.  
 It enables civic researchers to test where democratic consent has become assumption and to restore visibility over who truly represents local priorities.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
