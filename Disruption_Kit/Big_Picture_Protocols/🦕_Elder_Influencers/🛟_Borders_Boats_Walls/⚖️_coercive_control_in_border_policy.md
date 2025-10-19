@@ -1,5 +1,5 @@
 # ⚖️ Coercive Control in Border Policy
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19
+**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *How coercive control logics are embedded in border regimes, visa systems, and migration governance.*  
 
 ---
