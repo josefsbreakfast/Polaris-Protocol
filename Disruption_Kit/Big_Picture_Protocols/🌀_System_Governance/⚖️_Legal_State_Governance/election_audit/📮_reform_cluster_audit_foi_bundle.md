@@ -136,12 +136,8 @@ foi template, electoral register, boundary commission, youth services, transport
 ---
 
 ## 🏮 Footer  
-*Reform Cluster Audit — FOI Bundle* is a living node of the Polaris Protocol.  
+*📮 Reform Cluster Audit — FOI Bundle* is a living node of the Polaris Protocol.  
 It standardises civic information-rights requests so that local transparency work remains ethical, reproducible, and lightweight.  
-
-> 📡 Cross-references:  
-> - [🧩 Socio-Economic Clusters of Reform Support](../../Big_Picture_Protocols/🌀_System_Governance/🧩_socioeconomic_clusters_of_reform_support.md)  
-> - [🧭 Citizen Audit — Behavioural Data in Elections](../../Survivor_Tools/🧭_citizen_audit_behavioural_data_in_elections.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
