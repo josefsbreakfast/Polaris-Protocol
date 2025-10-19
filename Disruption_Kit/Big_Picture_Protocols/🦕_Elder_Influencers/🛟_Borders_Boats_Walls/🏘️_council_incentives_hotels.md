@@ -1,5 +1,5 @@
 # 🏘️ Council Incentives Hotels  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
 *How austerity-era cuts and ring-fenced grants shape local authority involvement in asylum accommodation.*  
 
 ---
@@ -61,14 +61,15 @@
 
 ## 🏮 Footer  
 
-*Council Incentives Hotels* is a living node of the Polaris Protocol.  
+*🏘️ Council Incentives Hotels* is a living node of the Polaris Protocol.  
 It documents how austerity-era cuts and ring-fenced grants shape council incentives, and how placements are weaponised to radicalise communities.  
 
-> 📡 Cross-references:  
-> - [📦 Containment as Industry](./📦_containment_as_industry.md) — how delay creates profit  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) — follow the money through outsourcing  
-> - [📊 Immigration Myths and Impacts](../Cluster1/📊_immigration_myths_and_impacts.md) — data on local impacts and costs  
+> 📡 Cross-references:
+> 
+> - [📦 Containment as Industry](./📦_containment_as_industry.md) — *how delay creates profit*  
+> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) — *follow the money through outsourcing*  
+> - [📊 Immigration Myths and Impacts](./📊_immigration_myths_and_impacts.md) — *data on local impacts and costs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-10-19_
