@@ -62,7 +62,7 @@ outrage → policy → ethics → safety.
 ---
 
 ## 🌌 Constellations  
-🧩 ⚔️ 🕊️ 🪞 📅 — diagnostic node mapping how racial control mutates into moral governance.  
+➰ 🧩 ⚔️ 🕊️ 🪞 📅 — diagnostic node mapping how racial control mutates into moral governance.  
 
 ---
 
@@ -73,7 +73,7 @@ racial governance, safety rhetoric, moral panic, war on woke, impartiality, neut
 
 ## 🏮 Footer  
 
-*🧩 Re-Justification Loop — Racial Logics Reborn as Safety* is a living node of the Polaris Protocol.  
+*➰ Re-Justification Loop — Racial Logics Reborn as Safety* is a living node of the Polaris Protocol.  
 It documents how racial hierarchies reappear under the banner of safety, translating systemic violence into moral administration.  
 
 > 📡 Cross-references:
