@@ -1,5 +1,5 @@
 # 🧩 Structural Lethality in Custody  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
 *Using the Epstein and McAfee deaths to examine how confinement architectures generate suicide risk — and how survivor narratives are displaced in the process.*
 
 ---
@@ -81,11 +81,12 @@ custody suicide, swiss cheese model, structural lethality, remand risk, institut
 *🧩 Structural Lethality in Custody* is a living node of the **Polaris Protocol**.  
 It situates high-profile custodial deaths within the wider landscape of carceral suicide and reframes them as systemic design failures rather than individual mysteries.  
 
-> 📡 Cross-references:  
-> - [🌱 Human Principles](../Human_Principles/) — ethics and survivor sovereignty  
-> - [🌀 System Governance](../System_Governance/) — institutional drift and custodial design  
-> - [⚖️ Legal Hooks for Muted Books](../Big_Picture_Protocols/⚖️_legal_hooks_for_muted_books.md) — containment logics in governance language  
+> 📡 Cross-references:
+> 
+> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *ethics and survivor sovereignty*  
+> - [🌀 System Governance](../../🌀_System_Governance/README.md) — *institutional drift and custodial design*  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-19_
