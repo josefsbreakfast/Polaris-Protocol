@@ -83,7 +83,7 @@ It functions as both speculative provocation and evidentiary critique, illustrat
 > 
 > - [🚀 Dual Use Dualities](../🚀_Dual_Use_Dualities/README.md) — *cluster overview*  
 > - [💸 Money Listens](../README.md) — *economic architectures of coercion*  
-> - [🌀 System Governance](../../🌀_System_Governance/README.md) — *oversight and authorisation chains*  
+> - [🌀 Systems & Governance](../../../🌀_System_Governance/README.md) — *oversight and authorisation chains*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
