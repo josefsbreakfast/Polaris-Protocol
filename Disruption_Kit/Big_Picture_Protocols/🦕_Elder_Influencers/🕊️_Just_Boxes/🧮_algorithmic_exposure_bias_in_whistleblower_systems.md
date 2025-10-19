@@ -92,8 +92,8 @@ It documents how both humans and algorithms develop bias through repeated exposu
 
 > 📡 Cross-references:
 > 
-> - [🧠 Psychological Containment](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
-> - [🪆 Narrative Interference](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
+> - [🪆 Narrative Interference](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)  
 > - [🐦‍🔥 Trauma, Psychology, & Medical Misuse](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
