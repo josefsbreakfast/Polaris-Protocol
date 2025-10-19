@@ -1,6 +1,6 @@
 # 🧬 Distributed Trust — Survivor-Led Ethics Infrastructure  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
-*Blueprint for decentralised, survivor-governed ethics models.*
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+*Blueprint for decentralised, survivor-governed ethics models.*  
 
 ---
 
@@ -31,10 +31,11 @@ distributed trust, peer review, survivor governance, ethics infrastructure, dece
 *🧬 Distributed Trust — Survivor-Led Ethics Infrastructure* is a living node of the Polaris Protocol.  
 It designs mechanisms for ethical review without institutional containment.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🈴 Allies & Ethics README](./README.md)  
-> - [🛠️ Survivor Tools](../../../Disruption_Kit/Survivor_Tools/)  
+> - [🛠️ Survivor Tools](../../../Survivor_Tools/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
