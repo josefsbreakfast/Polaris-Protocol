@@ -4,7 +4,7 @@
 
 ---
 
-## Scope  
+## 🛰️ Scope  
 This node offers a practical framework for **open-source auditing of electoral data use**.  
 It outlines how to combine FOI requests, public datasets, and local observations to identify where **behavioural micro-targeting**, **boundary manipulation**, or **data-driven campaigning** may have shaped electoral outcomes.  
 
@@ -12,7 +12,7 @@ The aim is civic literacy, not accusation: a transparent citizen tool that stren
 
 ---
 
-## Step 1 — Establish Your Baseline  
+## 🏛️ Step 1 — Establish Your Baseline  
 ### 🗳️ Electoral Registers  
 - **FOI/Access:** Request local Electoral Registration Officer or council for open electoral register access policy.  
 - **Ask:** Who has purchased or accessed the register for research, commercial, or political use in the past five years?  
@@ -30,7 +30,7 @@ The aim is civic literacy, not accusation: a transparent citizen tool that stren
 
 ---
 
-## Step 2 — Map Local Targeting & Candidate Changes  
+## 🗺️ Step 2 — Map Local Targeting & Candidate Changes  
 1. **Seat Gains and Swings:** Identify where parties campaigned hardest for gains; compare declared spend vs. voter turnout.  
 2. **Candidate Replacement Patterns:** Track areas with sudden candidate turnover before or after boundary changes.  
 3. **Issue Clustering:** Review campaign literature, local press, and social media ads to see which *issues* were foregrounded.  
@@ -38,7 +38,7 @@ The aim is civic literacy, not accusation: a transparent citizen tool that stren
 
 ---
 
-## Step 3 — Behavioural and Platform Layer  
+## 🧠 Step 3 — Behavioural and Platform Layer  
 | Layer | What to Check | Open Sources |
 |--------|----------------|--------------|
 | **Digital ads** | Which themes ran in your area? | Meta Ad Library, Google Ads Transparency, Who Targets Me plugin |
@@ -48,7 +48,7 @@ The aim is civic literacy, not accusation: a transparent citizen tool that stren
 
 ---
 
-## Step 4 — Pattern Recognition  
+## 🧿 Step 4 — Pattern Recognition  
 Look for clusters where three or more of the following coincide:  
 1. Recent **boundary change** or **seat gain**.  
 2. Presence of **behavioural-consultancy vendor** with foreign ownership or opaque structure.  
@@ -60,7 +60,7 @@ Plot these on a map or spreadsheet; even rough visuals can reveal systemic targe
 
 ---
 
-## Step 5 — Ethical & Legal Boundaries  
+## 🐝 Step 5 — Ethical & Legal Boundaries  
 - **No doxxing or personal-data publication.** Work only with *aggregate* or *publicly available* data.  
 - **Transparency > accusation.** Your goal is to *show patterns*, not claim intent.  
 - **Data minimisation.** If you create local datasets, strip identifiers before sharing.  
@@ -68,7 +68,7 @@ Plot these on a map or spreadsheet; even rough visuals can reveal systemic targe
 
 ---
 
-## Step 6 — Sharing & Escalation  
+## 🪄 Step 6 — Sharing & Escalation  
 1. **Publish locally:** through community newsletters or regional media.  
 2. **Collaborate:** with open-data groups, journalists’ networks, or civic labs.  
 3. **Notify regulators:** if you find strong evidence of undeclared analytics or possible foreign links.  
