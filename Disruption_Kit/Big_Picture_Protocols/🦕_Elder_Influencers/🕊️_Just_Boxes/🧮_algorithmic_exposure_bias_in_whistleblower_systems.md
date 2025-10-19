@@ -1,5 +1,5 @@
 # 🧮 Algorithmic Exposure Bias in Whistleblower Systems  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2025-10-19  
 *How repetitive pattern exposure reshapes perception and credibility inside whistleblower and safeguarding systems.*
 
 ---
@@ -90,11 +90,12 @@ whistleblowing, algorithmic bias, exposure bias, cognitive contagion, pattern re
 *🧮 Algorithmic Exposure Bias in Whistleblower Systems* is a living node of the Polaris Protocol.  
 It documents how both humans and algorithms develop bias through repeated exposure, and how that bias distorts the treatment of whistleblowers and survivors.  
 
-> 📡 Cross-references:  
-> - [🧠 Psychological Containment](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_psychological_containment.md)  
-> - [🪆 Narrative Interference](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_narrative_interference.md)  
-> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_trauma_psychology_medical_misuse.md)
+> 📡 Cross-references:
+> 
+> - [🧠 Psychological Containment](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)  
+> - [🪆 Narrative Interference](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)  
+> - [🐦‍🔥 Trauma, Psychology, & Medical Misuse](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-10-19_
