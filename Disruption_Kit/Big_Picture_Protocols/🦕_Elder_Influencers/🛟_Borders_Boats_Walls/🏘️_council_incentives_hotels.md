@@ -67,7 +67,7 @@ It documents how austerity-era cuts and ring-fenced grants shape council incenti
 > 📡 Cross-references:
 > 
 > - [📦 Containment as Industry](./📦_containment_as_industry.md) — *how delay creates profit*  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) — *follow the money through outsourcing*  
+> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace_hotel_edition.md) — *follow the money through outsourcing*  
 > - [📊 Immigration Myths and Impacts](./📊_immigration_myths_and_impacts.md) — *data on local impacts and costs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
