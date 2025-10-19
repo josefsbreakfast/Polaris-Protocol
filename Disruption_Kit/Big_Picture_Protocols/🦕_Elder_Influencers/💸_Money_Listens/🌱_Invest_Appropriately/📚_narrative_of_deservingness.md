@@ -1,5 +1,5 @@
 # 📚 Narrative of Deservingness  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *How stories of virtue and austerity shape who is deemed fundable, curable, or worth saving.*  
 
 ---
@@ -140,14 +140,14 @@ deserving poor, Puritan ethics, racialised labour, colonial theology, moral algo
 ---
 
 ## 🏮 Footer  
-*Narrative of Deservingness* is a living node of the **Polaris Protocol**.  
+*📚 Narrative of Deservingness* is a living node of the **Polaris Protocol**.  
 It traces how centuries-old moral code still governs allocation, credibility, and survival — revealing the algorithmic afterlife of empire.  
 
 > 📡 Cross-references:
 > 
-> - [🌱 Invest Appropriately](./README.md) — principles for ethical redistribution  
-> - [💸 Money Listens](../README.md) — diagnostic of financial listening behaviours    
-> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — emotional governance logic  
+> - [🌱 Invest Appropriately](../README.md) — *principles for ethical redistribution*  
+> - [💸 Money Listens](../README.md) — *diagnostic of financial listening behaviours*    
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *emotional governance logic*  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-19_
