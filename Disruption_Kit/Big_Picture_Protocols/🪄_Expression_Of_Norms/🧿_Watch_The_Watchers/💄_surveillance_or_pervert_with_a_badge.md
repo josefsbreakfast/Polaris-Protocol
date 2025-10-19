@@ -1,5 +1,5 @@
 # 💄 Let's Play!: Surveillance or Pervert-with-a-Badge?  
-**First created:** 2025-08-28 | **Last updated:** 2025-10-07  
+**First created:** 2025-08-28 | **Last updated:** 2025-10-19  
 *A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is!*  
 
 ---
@@ -166,11 +166,12 @@ spycraft, surveillance, satire, fetishisation, authoritarianism, cult behaviour,
 It uses humour to strip the glamour from spycraft, showing how intelligence props often blur into voyeurism and abuse.  
 The badge is the only thing separating “national security” from stalking — and even that badge is paper-thin.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧿 Watch the Watchers](./README.md) — *counter-surveillance logics*  
-> - [🪆 Narrative Interference](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md) — *reframing the official story*  
-> - [👅 Voice Disruption & Discrediting](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *sexualised surveillance tropes*  
+> - [🪆 Narrative Interference](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md) — *reframing the official story*  
+> - [👅 Voice Disruption & Discrediting](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md) — *sexualised surveillance tropes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-07_
+_Last updated: 2025-10-19_
