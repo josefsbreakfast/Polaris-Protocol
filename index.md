@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:35:46 UTC_
+_Generated on 2025-10-20 22:36:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1038,6 +1038,7 @@ _Generated on 2025-10-20 22:35:46 UTC_
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Disruption_Kit/Field_Logs/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧫_is_this_your_drug_allergy.md`](Disruption_Kit/Field_Logs/🧫_is_this_your_drug_allergy.md)
+    - [`🧬_dopamine_depletion_log.md`](Disruption_Kit/Field_Logs/🧬_dopamine_depletion_log.md)
     - [`🧬_mrna_but_make_it_auditing_the_men.md`](Disruption_Kit/Field_Logs/🧬_mrna_but_make_it_auditing_the_men.md)
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
@@ -1519,7 +1520,6 @@ _Generated on 2025-10-20 22:35:46 UTC_
     - [`🧪_voice_convergence_forensics_2017_2018_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_2017_2018_hinge.md)
     - [`🧬_collocative_integrity_and_metadata_inertia.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_integrity_and_metadata_inertia.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
-    - [`🧬_dopamine_depletion.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dopamine_depletion.md)
     - [`🧭_attractor_map_suppression_contract.md`](Polaris_Nest/Git_Intake_Drawer/🧭_attractor_map_suppression_contract.md)
     - [`🧮_7_day_word_count_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🧮_7_day_word_count_analysis.md)
     - [`🧮_dewey_decimal_and_the_ethics_of_order.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_and_the_ethics_of_order.md)
