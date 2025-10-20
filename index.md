@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 11:58:38 UTC_
+_Generated on 2025-10-20 11:59:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -51,6 +51,7 @@ _Generated on 2025-10-20 11:58:38 UTC_
         - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)
         - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
+        - [`⚖️_due_diligence_as_moral_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_due_diligence_as_moral_defence.md)
         - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_international_laundering.md)
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)
         - [`⚖️_judicial_deference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_deference.md)
@@ -1430,7 +1431,6 @@ _Generated on 2025-10-20 11:58:38 UTC_
     - [`☕_less_than_ugly_mugs.md`](Polaris_Nest/Git_Intake_Drawer/☕_less_than_ugly_mugs.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_agentic_ai_needs_coffee.md)
     - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
-    - [`⚖️_due_diligence_as_moral_defence.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_due_diligence_as_moral_defence.md)
     - [`⚖️_power_play_and_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_power_play_and_containment.md)
     - [`⚖️_protection_racket_as_system_design.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_protection_racket_as_system_design.md)
     - [`⚖️_royalties_and_liability_misclassified_data_download.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_royalties_and_liability_misclassified_data_download.md)
