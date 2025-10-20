@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 23:08:59 UTC_
+_Generated on 2025-10-20 23:17:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -592,6 +592,7 @@ _Generated on 2025-10-20 23:08:59 UTC_
         - [`🌀_docility_engine.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
         - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
         - [`🏗️_2010s_authoritarian_adjacent_build.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏗️_2010s_authoritarian_adjacent_build.md)
+        - [`🏟️_hackathon_league.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏟️_hackathon_league.md)
         - [`💀_necro_jargon_cult.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💀_necro_jargon_cult.md)
         - [`💞_ethics_of_nudging_vs_desire.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)
         - [`📜_ethics_as_language_trap.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/📜_ethics_as_language_trap.md)
@@ -1499,7 +1500,6 @@ _Generated on 2025-10-20 23:08:59 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
-    - [`🏟️_hackathon_league.md`](Polaris_Nest/Git_Intake_Drawer/🏟️_hackathon_league.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`💋_apparatus_as_apprentice.md`](Polaris_Nest/Git_Intake_Drawer/💋_apparatus_as_apprentice.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
