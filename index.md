@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 21:26:34 UTC_
+_Generated on 2025-10-20 21:27:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1295,6 +1295,8 @@ _Generated on 2025-10-20 21:26:34 UTC_
       - [`🗺️_containment_fingerprint_atlas.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🗺️_containment_fingerprint_atlas.md)
       - [`🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
+      - [`🧭_visual_glossary_containment_pulse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md)
+      - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
       - [`🩻_continuum_data_use_misuse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_continuum_data_use_misuse.md)
       - [`🩻_markers_data_enmeshment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_markers_data_enmeshment.md)
       - [`🫆__metadata_fingerprints.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🫆__metadata_fingerprints.md)
