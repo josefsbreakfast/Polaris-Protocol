@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 12:31:58 UTC_
+_Generated on 2025-10-20 12:34:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -69,6 +69,7 @@ _Generated on 2025-10-20 12:31:58 UTC_
         - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_transparency_floor_node.md)
         - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_uk_constitutional_fault_lines.md)
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
+        - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🗂️_bureaucratic_attrition_as_governance_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🗂️_bureaucratic_attrition_as_governance_strategy.md)
         - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
         - [`🪶_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪶_reading_the_dog_whistle.md)
@@ -1446,7 +1447,6 @@ _Generated on 2025-10-20 12:31:58 UTC_
     - [`✨_my_laughter_breaks_fibre_broadband.md`](Polaris_Nest/Git_Intake_Drawer/✨_my_laughter_breaks_fibre_broadband.md)
     - [`🇵🇸_tort_warning.md`](Polaris_Nest/Git_Intake_Drawer/🇵🇸_tort_warning.md)
     - [`🇺🇸_bro_do_you_even_juristiction.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_bro_do_you_even_juristiction.md)
-    - [`🌍_treaty_for_the_english_speaking_internet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_treaty_for_the_english_speaking_internet.md)
     - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
     - [`🍎_how_to_internet_for_kids.md`](Polaris_Nest/Git_Intake_Drawer/🍎_how_to_internet_for_kids.md)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
