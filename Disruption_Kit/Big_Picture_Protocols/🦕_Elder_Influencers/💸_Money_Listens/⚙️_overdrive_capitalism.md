@@ -112,9 +112,7 @@ overdrive capitalism, acceleration, attention economy, burnout, neurodivergence,
 It interprets burnout, polarisation, and diagnosis not as personal crises but as data points in a planetary feedback loop — signals from bodies running beyond design limits.  
 
 > 📡 Cross-references:
-> 
-> - [🧩 The Autonomy Paradox](../../🌀_System_Governance/💫_Containment_Logic/🧩_the_autonomy_paradox.md) — *engineered vs occupied autonomy*  
-> - [🪞 The Visibility Trap](../../🪄_Expression_Of_Norms/🪞_the_visibility_trap.md) — *perceptual fractures and solidarity*  
+>
 > - [💸 Money Listens](./README.md) — *economic transparency and capture*  
 > - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *dignity and collective repair*  
 
