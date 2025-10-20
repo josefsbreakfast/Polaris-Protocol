@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:52:59 UTC_
+_Generated on 2025-10-20 22:54:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -58,6 +58,7 @@ _Generated on 2025-10-20 22:52:59 UTC_
         - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_lawful_conscience_protocol.md)
         - [`⚖️_legal_frameworks_remits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_legal_frameworks_remits.md)
         - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_matriarchy_as_requirement.md)
+        - [`⚖️_misclassified_data_download.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_misclassified_data_download.md)
         - [`⚖️_protection_racket_as_system_design.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_protection_racket_as_system_design.md)
         - [`⚖️_public_inquiry_business_case.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_public_inquiry_business_case.md)
         - [`⚖️_redress_models_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_redress_models_and_limits.md)
@@ -1492,7 +1493,6 @@ _Generated on 2025-10-20 22:52:59 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
-    - [`⚖️_misclassified_data_download.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_misclassified_data_download.md)
     - [`⚖️_pathological_simplicity_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_pathological_simplicity_algorithms.md)
     - [`⚙️_overdrive_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_overdrive_capitalism.md)
     - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
