@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 12:18:42 UTC_
+_Generated on 2025-10-20 12:20:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1524,7 +1524,6 @@ _Generated on 2025-10-20 12:18:42 UTC_
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪬_xenofeminism_link_note.md`](Polaris_Nest/Git_Intake_Drawer/🪬_xenofeminism_link_note.md)
     - [`🪶_reading_the_dog_whistle.md`](Polaris_Nest/Git_Intake_Drawer/🪶_reading_the_dog_whistle.md)
-    - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Polaris_Nest/Git_Intake_Drawer/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
@@ -1721,6 +1720,8 @@ _Generated on 2025-10-20 12:18:42 UTC_
     - [`README.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/README.md)
     - [`🔮_challenge_of_ai.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
+- [**🧪_Development_Experimentation/**](🧪_Development_Experimentation/)
+  - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
     - [`README.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
