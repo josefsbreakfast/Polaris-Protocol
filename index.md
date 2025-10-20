@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:24:42 UTC_
+_Generated on 2025-10-20 22:25:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -874,6 +874,7 @@ _Generated on 2025-10-20 22:24:42 UTC_
     - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/🗒️_conversation_drift_and_anchors.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`😴_sleeps_and_occam.md`](Disruption_Kit/Field_Logs/😴_sleeps_and_occam.md)
+    - [`🙀_oh_my_word_she_mentioned_anarchism.md`](Disruption_Kit/Field_Logs/🙀_oh_my_word_she_mentioned_anarchism.md)
     - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Disruption_Kit/Field_Logs/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
     - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Logs/🚀_governance_is_great_2nd_spring_clean.md)
     - [`🚀_hmmm_why_are_we_twinned_actually.md`](Disruption_Kit/Field_Logs/🚀_hmmm_why_are_we_twinned_actually.md)
@@ -1487,7 +1488,6 @@ _Generated on 2025-10-20 22:24:42 UTC_
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
-    - [`🙀_oh_my_word_she_mentioned_anarchism.md`](Polaris_Nest/Git_Intake_Drawer/🙀_oh_my_word_she_mentioned_anarchism.md)
     - [`🚀_to_the_moon_bullseye.md`](Polaris_Nest/Git_Intake_Drawer/🚀_to_the_moon_bullseye.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
