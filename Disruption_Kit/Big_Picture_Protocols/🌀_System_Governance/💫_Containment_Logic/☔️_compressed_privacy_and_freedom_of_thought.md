@@ -66,7 +66,7 @@ article 8, article 9, freedom of thought, privacy, mental privacy, algorithmic g
 ---
 
 ## 🏮 Footer  
-*Article 8 & 9 Breach Pathways — Privacy and Freedom of Thought in Compression* is a living analytical node of the **Polaris Protocol**.  
+*☔️ Article 8 & 9 Breach Pathways — Privacy and Freedom of Thought in Compression* is a living analytical node of the **Polaris Protocol**.  
 It traces how lawful infrastructures can, through accumulation, reproduce the emotional texture of coercion and self-censorship.
 
 > 📡 Cross-references:
