@@ -1,5 +1,5 @@
 # ⏳ Governance Latency in Population‑Scale Cyber Events
-**First created:** 2025-10-13  |  **Last updated:** 2025-10-13  
+**First created:** 2025-10-13  |  **Last updated:** 2025-10-20  
 *Explains why mid‑range cyberattacks affecting partial populations escape notice for months.*
 
 ---
@@ -37,4 +37,4 @@ Preparedness beats cure: baseline hardening, telemetry partnerships, pre‑appro
 ## ✨ Stardust  
 governance latency, incident detection, national CERT, contingency authority, preparedness  
 
-*Last updated 2025-10-13 | Resilience is measured in latency.*
+*Last updated 2025-10-20 | Resilience is measured in latency.*
