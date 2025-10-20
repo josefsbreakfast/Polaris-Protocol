@@ -108,8 +108,9 @@ journalism, ai moderation, dataset ethics, docility engine, containment, writing
 *🗞️ Docility Engine Print Edition* is a living node of the Polaris Protocol.  
 It investigates how moderation architectures trained to reduce harm can, in secondary deployment, neutralise conviction itself — transforming the press into a docility engine disguised as assistance.  
 
-> 📡 Cross-references:  *TBC*
-
+> 📡 Cross-references:
+> 
+> - [🌀 Docility Engine](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md) - *the original amd best*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
