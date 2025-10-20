@@ -1,4 +1,4 @@
-# 🏛️ The Wannsee Template: How Genocidal Bureaucracy Operates  
+# 🏛️ The Wannsee Template: How Bureaucratic Genocide Operates  
 **First created:** 2025-10-17 | **Last updated:** 2025-10-20  
 *A practical explainer of the administrative pattern behind mass atrocity: vague authorisation, coded language, and coordinated logistics — without a single explicit order.*
 
