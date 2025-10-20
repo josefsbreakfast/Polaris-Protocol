@@ -61,7 +61,7 @@ Entries populate a **time-aware relational graph**, enabling detection of:
 ---
 
 ## 🧬 LVSICR Coding System — Behavioural Grammar of Leaks  
-The Atlas uses the [📡 LVSICR System](./☔️_leak_pattern_taxonomy.md) as its analytical spine.
+The Atlas uses the [📡 LVSICR System](./📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md) as its analytical spine.
 
 | Axis | Meaning | Function | Scale (0–3) |
 |------|----------|-----------|-------------|
