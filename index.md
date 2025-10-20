@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:48:58 UTC_
+_Generated on 2025-10-20 22:49:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1527,9 +1527,9 @@ _Generated on 2025-10-20 22:48:58 UTC_
     - [`🧬_collocative_deintegrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_deintegrity.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧭_attractor_map_suppression_contract.md`](Polaris_Nest/Git_Intake_Drawer/🧭_attractor_map_suppression_contract.md)
-    - [`🧮_dewey_decimal_and_the_ethics_of_order.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_and_the_ethics_of_order.md)
+    - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
-    - [`🧰_middleware_hijack_agentic_signature.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentic_signature.md)
+    - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
     - [`🧰_upstream_compromise_remote_middleware_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_remote_middleware_checklist.md)
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
