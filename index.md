@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 21:58:21 UTC_
+_Generated on 2025-10-20 22:02:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1304,12 +1304,12 @@ _Generated on 2025-10-20 21:58:21 UTC_
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
       - [`README_DOB_Triangulation.txt`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README_DOB_Triangulation.txt)
-      - [`_global_migration_of_signatures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/_global_migration_of_signatures.md)
       - [`dob_triangulation_1950_2000_template.csv`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/dob_triangulation_1950_2000_template.csv)
       - [`⚖️_dob_as_password.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_as_password.md)
       - [`⚖️_dob_triangulation_attack.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_attack.md)
       - [`⚖️_dob_triangulation_table.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_table.md)
       - [`🌋_contesting_signature_inclusion.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌋_contesting_signature_inclusion.md)
+      - [`🌐_global_migration_of_signatures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌐_global_migration_of_signatures.md)
       - [`💫_indie_verification_of_targeting_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💫_indie_verification_of_targeting_logic.md)
       - [`📊_risk_scoring_architectures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md)
       - [`📡_metadata_scrutiny_uk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📡_metadata_scrutiny_uk.md)
