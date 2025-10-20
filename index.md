@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 23:02:59 UTC_
+_Generated on 2025-10-20 23:05:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -647,6 +647,7 @@ _Generated on 2025-10-20 23:02:59 UTC_
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md)
         - [`♿_containment_by_pity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_containment_by_pity.md)
+        - [`🏙️_industrial_layout_ghosts.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏙️_industrial_layout_ghosts.md)
         - [`🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md)
         - [`👁️‍🗨️_surveillance_of_disabled_bodies.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md)
         - [`💔_the_need_for_touch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💔_the_need_for_touch.md)
@@ -1497,7 +1498,6 @@ _Generated on 2025-10-20 23:02:59 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
-    - [`🏙️_industrial_layout_ghosts.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_industrial_layout_ghosts.md)
     - [`🏛️_the_wannsee_template.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_wannsee_template.md)
     - [`🏟️_hackathon_league.md`](Polaris_Nest/Git_Intake_Drawer/🏟️_hackathon_league.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
