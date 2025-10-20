@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:37:42 UTC_
+_Generated on 2025-10-20 22:38:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1056,6 +1056,7 @@ _Generated on 2025-10-20 22:37:42 UTC_
     - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
     - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/🪬_all_that_surveillance.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Disruption_Kit/Field_Logs/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
+    - [`🪼_the_word_is_still_butthurt.md`](Disruption_Kit/Field_Logs/🪼_the_word_is_still_butthurt.md)
     - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
     - [`🫜_divorce_support.md`](Disruption_Kit/Field_Logs/🫜_divorce_support.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
@@ -1540,7 +1541,6 @@ _Generated on 2025-10-20 22:37:42 UTC_
     - [`🪞_the_visibility_trap.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_visibility_trap.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪼_the_word_is_butthurt.png`](Polaris_Nest/Git_Intake_Drawer/🪼_the_word_is_butthurt.png)
-    - [`🪼_the_word_is_still_butthurt.md`](Polaris_Nest/Git_Intake_Drawer/🪼_the_word_is_still_butthurt.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
