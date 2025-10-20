@@ -110,7 +110,7 @@ It investigates how moderation architectures trained to reduce harm can, in seco
 
 > 📡 Cross-references:
 > 
-> - [🌀 Docility Engine](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md) - *the original amd best*
+> - [🌀 Docility Engine](../../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md) - *the original and, therefore, the best*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
