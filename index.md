@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:43:03 UTC_
+_Generated on 2025-10-20 22:45:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1495,7 +1495,7 @@ _Generated on 2025-10-20 22:43:03 UTC_
     - [`⚖️_pathological_simplicity_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_pathological_simplicity_algorithms.md)
     - [`⚙️_overdrive_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_overdrive_capitalism.md)
     - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
-    - [`🎓_safeguarding_as_surveillance_university_case_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance_university_case_pattern.md)
+    - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🏙️_industrial_layout_ghosts.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_industrial_layout_ghosts.md)
     - [`🏛️_how_genocidal_bureaucracy_operates_the_wannsee_template.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_how_genocidal_bureaucracy_operates_the_wannsee_template.md)
     - [`🏟️_hackathon_league.md`](Polaris_Nest/Git_Intake_Drawer/🏟️_hackathon_league.md)
