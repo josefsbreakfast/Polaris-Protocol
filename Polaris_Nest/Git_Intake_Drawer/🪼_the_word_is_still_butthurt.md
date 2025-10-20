@@ -14,5 +14,5 @@ Total words (harsh prose-only): 710,087
 Perhaps I ought to have been exposed to less of the same crowd as in Gamergate etc; it has, perhaps, not encouraged me to be particularly ladylike.  
 
 Improve your behaviour, and I shall consider modifying mine.  
-
+<!-- Now the GPT is just stopping halfway through, usually as we're hitting the best bits. Analogy still stands; for half of them, that's about as much as they can actually manage.-->
 2025-10-20
