@@ -108,7 +108,28 @@ is essential to democratic accountability.
 Protecting neurodiverse citizens is therefore a constitutional concern.  
 Their questions keep systems human.  
 When power seeks to erase those voices in the name of efficiency,  
-the thresholds themselves become instruments of coercive control rather than governance.
+the thresholds themselves become instruments of coercive control rather than governance.  
+
+---
+
+```mermaid
+flowchart TD
+    A[🦊 Citizen Action or Behaviour] --> B[🔮 Rule or Policy Interpretation]
+    B --> C[🌡️ Threshold Applied]
+    C --> D{🪼 Misread or Miscommunication?}
+    D -->|🔥 Yes 🔥| E[🧿 Unintended Breach or Sanction]
+    D -->|💫 No 💫| F[🛰️ Compliant / Within Bounds]
+    E --> G[☔️ Reflection & Advocacy]
+    F --> H[🎋 Continued Participation]
+    G --> I[🏛️ Policy Review or Reform]
+    I --> B
+
+    class A,B,C,I process;
+    class D risk;
+    class E risk;
+    class F safe;
+    class G process;
+```
 
 ---
 
