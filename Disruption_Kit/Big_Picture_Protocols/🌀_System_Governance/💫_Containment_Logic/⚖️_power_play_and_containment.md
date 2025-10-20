@@ -116,6 +116,12 @@ If you really could stand the heat, you are welcome to get yourself in the kitch
 
 ---
 
+Although a word of potentially late caution:  
+
+This entire process does mean you create an extremely obvious set of populations to monitor as a source of malicious intent to the state; your high-friction individuals to neutralise are extremely easy to profile and then, from that data, catch any others.  
+
+---
+
 ## 🌌 Constellations  
 💰 ⚖️ 🎭 ⏱️ 🧠 🏗 💼 ♀️ ❓ — capitalism, contract, etiquette, inversion, power, play, patriarchy, labour, gender, respectability.  
 
