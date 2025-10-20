@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:59:20 UTC_
+_Generated on 2025-10-20 23:01:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -377,6 +377,7 @@ _Generated on 2025-10-20 22:59:20 UTC_
         - [`⚖️_legality_as_gaslight.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_legality_as_gaslight.md)
         - [`❌_ncnd_technique.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md)
         - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
+        - [`🌐_digital_sovereignty_deterritorial_cloud.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌐_digital_sovereignty_deterritorial_cloud.md)
         - [`🏛️_political_perverts.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_political_perverts.md)
         - [`🏛️_procedural_gatekeeping.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_procedural_gatekeeping.md)
         - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_identity_documents_act_2010.md)
@@ -1495,7 +1496,6 @@ _Generated on 2025-10-20 22:59:20 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
-    - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🏙️_industrial_layout_ghosts.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_industrial_layout_ghosts.md)
     - [`🏛️_the_wannsee_template.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_wannsee_template.md)
