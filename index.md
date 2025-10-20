@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 12:09:40 UTC_
+_Generated on 2025-10-20 12:14:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -70,6 +70,7 @@ _Generated on 2025-10-20 12:09:40 UTC_
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
         - [`🗂️_bureaucratic_attrition_as_governance_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🗂️_bureaucratic_attrition_as_governance_strategy.md)
         - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
+        - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
@@ -1523,7 +1524,6 @@ _Generated on 2025-10-20 12:09:40 UTC_
     - [`🪬_xenofeminism_link_note.md`](Polaris_Nest/Git_Intake_Drawer/🪬_xenofeminism_link_note.md)
     - [`🪶_reading_the_dog_whistle.md`](Polaris_Nest/Git_Intake_Drawer/🪶_reading_the_dog_whistle.md)
     - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Polaris_Nest/Git_Intake_Drawer/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
-    - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Polaris_Nest/Git_Intake_Drawer/🪻_lavender_fields_uk_transplant_legal_overview.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
