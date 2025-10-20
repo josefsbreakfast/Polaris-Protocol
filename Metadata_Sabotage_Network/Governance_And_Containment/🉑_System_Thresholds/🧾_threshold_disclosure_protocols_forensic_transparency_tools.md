@@ -82,7 +82,28 @@ Every redaction should carry a justification stamp:
 When silence is annotated, it ceases to be deceit.  
 This simple act transforms bureaucratic refusal into traceable accountability.  
 
-Threshold disclosure, at its best, teaches governments to speak clearly even when they cannot speak completely.
+Threshold disclosure, at its best, teaches governments to speak clearly even when they cannot speak completely.  
+
+---
+
+```mermaid
+flowchart TD
+    A[👾 System Logic / Algorithmic Threshold] --> B[👁️‍🗨️ Redaction Tiering]
+    B --> C{🌶️ Disclosure Level}
+    C -->|📣 Tier 1: Public Summary| D[🧠 Citizen Access & Understanding]
+    C -->|🩻 Tier 2: Professional Disclosure| E[🏛️ Regulator & Auditor Oversight]
+    C -->|🗝️ Tier 3: Controlled Access| F[⚖️ Independent Oversight Panels]
+    D --> G[🫀 Public Trust & Accountability]
+    E --> G
+    F --> H[🌱 Feedback & Reform Mechanism]
+    H --> A
+
+    class A,B source;
+    class D public;
+    class E oversight;
+    class F control;
+    class G,H oversight;
+```
 
 ---
 
