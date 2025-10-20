@@ -214,7 +214,9 @@ risk scoring, algorithmic bias, predictive policing, welfare algorithms, covid r
 *📊 Risk Scoring Architectures — How Numbers Decide* is a living diagnostic node of the Polaris Protocol.  
 It dissects how numbers acquire authority to judge and how probability becomes policy, while charting possible routes back to participatory oversight.  
 
-> 📡 Cross-references:  *TBC*
+> 📡 Cross-references:
+>
+> - [🧵 Community Vulnerability & Early Canaries](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md) - *exploitative and extractive sustems routinely target socially marginalised communities* 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
