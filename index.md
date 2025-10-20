@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:46:48 UTC_
+_Generated on 2025-10-20 22:47:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1520,7 +1520,7 @@ _Generated on 2025-10-20 22:46:48 UTC_
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_reaffirming_statements_of_truth.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
-    - [`🧠_multilock_overlapping_systems_coercive_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_systems_coercive_systems.md)
+    - [`🧠_multilock_overlapping_coercion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_coercion.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
     - [`🧪_voice_convergence_forensics_2017_2018_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_2017_2018_hinge.md)
