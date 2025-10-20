@@ -1,5 +1,5 @@
 # 🧬 Collocative Integrity & Metadata Inertia
-**First created:** 2025-10-16 | **Last updated:** 2025-10-16
+**First created:** 2025-10-16 | **Last updated:** 2025-10-16  
 *When a library’s logic outlives its morality.*
 
 ---
