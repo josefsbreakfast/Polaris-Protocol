@@ -1,5 +1,5 @@
 # ⚖️ Protection Racket — System Design Pattern  
-**First created:** 2025-10-18 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-18 | **Last updated:** 2025-10-20  
 *How coercive “protection” mimics governance to monetise fear.*
 
 ---
@@ -153,11 +153,12 @@ protection racket, racketeering, mutual aid, community defence, pogrom protectio
 *⚖️ Protection Racket — System Design Pattern* is a living node of the Polaris Protocol.  
 It names the design so that its modern uniforms can be recognised — and refused.
 
-> 📡 Cross-references:  
-> - [🧩 Metadata Fingerprints](../../Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🧩_metadata_fingerprints.md)  
-> - [🎚️ Algorithmic Throttling Loops](../../Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🎚️_algorithmic_throttling_loops.md)  
-> - [🧨 Counter-Nudge Testimony](../../Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_counter_nudge_testimony.md)
+> 📡 Cross-references:
+> 
+> - [🧩 Metadata Fingerprints](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🫆__metadata_fingerprints.md)  
+> - [🎚️ Algorithmic Throttling Loops](../../../../Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🎚️_algorithmic_throttling_loops.md)  
+> - [🧨 Counter-Nudge Testimony](../../../Containment_Scripts/Counter_Nudges/🧨_counter_nudge_testimony.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-10-20_
