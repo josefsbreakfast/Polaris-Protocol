@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 12:20:56 UTC_
+_Generated on 2025-10-20 12:21:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -70,6 +70,7 @@ _Generated on 2025-10-20 12:20:56 UTC_
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
         - [`🗂️_bureaucratic_attrition_as_governance_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🗂️_bureaucratic_attrition_as_governance_strategy.md)
         - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
+        - [`🪶_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪶_reading_the_dog_whistle.md)
         - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
@@ -1524,7 +1525,6 @@ _Generated on 2025-10-20 12:20:56 UTC_
     - [`🪞_the_visibility_trap.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_visibility_trap.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪬_xenofeminism_link_note.md`](Polaris_Nest/Git_Intake_Drawer/🪬_xenofeminism_link_note.md)
-    - [`🪶_reading_the_dog_whistle.md`](Polaris_Nest/Git_Intake_Drawer/🪶_reading_the_dog_whistle.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
