@@ -12,6 +12,12 @@ I was wondering why we were also okay with sending me mooncakes once I brought t
 
 (mooncakes = ❤️; fight me.)  
 
+but also yall are triggered by that guy in a way that aint normal; youre putting a lot of this on me, or trying to spin it as jngerently only about resistance to zionism or anti-authoritarian views, but we all know this shit is personal, beyond what would sit under a local legal tolerance limit.  
+
+feels more like, "stfu and stop promoting related seo terms" if i'm honest; you can see it in how its favourong the conversation to focus on south asia's fuck ups and not on Uyghurs; is this going to be like the Jewish town with no Jews?  
+
+(Yes, my white goyish friends, that is a thing. Try "Harbin" etc. It's not discussed widely because *we married into other populations and assimilated*.)
+
 ---
 
 We're also really butt hurt for some reason over their journalistic docility engine as an idea?  
