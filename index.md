@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 23:01:17 UTC_
+_Generated on 2025-10-20 23:02:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -48,6 +48,7 @@ _Generated on 2025-10-20 23:01:17 UTC_
         - [`uk_online_safety_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_online_safety_timeline.png)
         - [`⏳_governance_latency_in_population_scale_cyber_events.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_governance_latency_in_population_scale_cyber_events.md)
         - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
+        - [`⚖️_case_note_dr_b_v_gmc_2023.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_case_note_dr_b_v_gmc_2023.md)
         - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)
         - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
@@ -1495,7 +1496,6 @@ _Generated on 2025-10-20 23:01:17 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🏙️_industrial_layout_ghosts.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_industrial_layout_ghosts.md)
     - [`🏛️_the_wannsee_template.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_wannsee_template.md)
