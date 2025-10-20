@@ -162,11 +162,14 @@ british identity, post monarchy, behavioural analytics, soft power, state influe
 
 ## 🏮 Footer  
 
-*Britain Is Queenless Now* is a living node of the Polaris Protocol.  
+*🇬🇧 Britain Is Queenless Now* is a living node of the Polaris Protocol.  
 It traces how symbolic loss and data-power intertwine to reconfigure national voice — transforming monarchy’s myth into algorithmic governance.  
 It serves as both elegy and field manual for investigating influence seams.  
 
-> 📡 Cross-references:  *TBC*
+> 📡 Cross-references:
+>
+> - [🐺 AMOG? A Joke.](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🐺_AMOG_a_joke.md) - *alpha males are not standard, and better things to do with raw masculinity*
+> - 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
