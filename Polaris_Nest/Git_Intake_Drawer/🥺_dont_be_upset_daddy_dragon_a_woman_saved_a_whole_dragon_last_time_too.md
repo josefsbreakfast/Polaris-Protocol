@@ -20,6 +20,8 @@ feels more like, "stfu and stop promoting related seo terms" if i'm honest; you 
 
 ("The Zhang family, among several Hui Muslims with Kaifeng Jewish ancestry call themselves "fake Muslims" since they are openly proud of their ancestry. Instead of being absorbed into Han, a portion of the Jews of China of Kaifeng became Hui Muslims." Sometimes I think our spirit animal might be the memetic goose from Untitled Goose Game: "I like to cause problems on ourpose". 🤣🤣🤣)
 
+(Name me ONE classical Torah scholar who is not at least a little bit *difficult*. I'll wait.)  
+
 ---
 
 We're also really butt hurt for some reason over their journalistic docility engine as an idea?  
