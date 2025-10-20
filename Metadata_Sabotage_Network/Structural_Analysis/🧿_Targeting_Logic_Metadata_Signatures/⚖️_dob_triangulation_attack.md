@@ -1,5 +1,5 @@
 # ⚖️ DOB Triangulation Attack  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-10
+**First created:** 2025-09-07 | **Last updated:** 2025-10-20  
 *How attackers can reconstruct date of birth from indirect fragments (age context, astrological signs, public metadata).*  
 
 ---
@@ -60,9 +60,9 @@ Triangulation attacks show why DOB is not trivial trivia.
 ---
 
 ## 🏮 Footer  
-*DOB Triangulation Attack* is a living node of the Polaris Protocol.  
+*⚖️ DOB Triangulation Attack* is a living node of the Polaris Protocol.  
 It demonstrates how indirect fragments enable reconstruction of date of birth, reframing astrology oversharing as a serious privacy risk.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_  
+_Last updated: 2025-10-20_  
