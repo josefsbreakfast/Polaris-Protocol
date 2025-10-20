@@ -174,8 +174,8 @@ It reframes hackathons as structured practice sessions for democratic coordinati
 > 
 > - [🌍 Treaty for the English Internet](../../🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md) — *transnational coordination models*
 > - [🌐 Digital Sovereignty & the Deterritorial Cloud](../../🦕_Elder_Influencers/📜_Statutes/🌐_digital_sovereignty_deterritorial_cloud.md) - *re-defining sovereignty when data and compute ignore borders*
-> - [🗺️ Containment Fingerprint Atlas — Visual Map of Repeated Glitches](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🗺️_containment_fingerprint_atlas.md) - *how to start catching the errors on anglophone internet*  
-> - [🧭 Visual Glossary — Reading the Containment Pulse](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md) - *how to start visualising the error status on anglophone internet*  
+> - [🗺️ Containment Fingerprint Atlas — Visual Map of Repeated Glitches](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🗺️_containment_fingerprint_atlas.md) - *how to start catching the errors on anglophone internet*  
+> - [🧭 Visual Glossary — Reading the Containment Pulse](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md) - *how to start visualising the error status on anglophone internet*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
