@@ -102,11 +102,13 @@ leak taxonomy, behavioural grammar, LVSICR, containment codes, translation stand
 *📡 LVSICR — Leak · Vector · Spread · Intent · Containment · Recurrence* is a foundational node of the Polaris Protocol.  
 It standardises how systemic leaks are described, allowing data from multiple domains to be read as a single language of behaviour.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
 >
-> - [🗺️ Containment Fingerprint Atlas](./🗺️_containment_fingerprint_atlas_visual_map_of_repeated_glitches.md)  
-> - [☔️ Leak Pattern Taxonomy](./☔️_leak_pattern_taxonomy.md)  
-> - [🧾 Leak Archive Protocol](./🧾_leak_archive_protocol_secure_collection_and_annotation_method.md)  
+> - [📡 LVSICR System](./📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md) - *the system for catching leaks*  
+> - [☔️ Leak Pattern Taxonomy](./☔️_leak_pattern_taxonomy.md) - *how to communicate leaks so that they can form patterns*
+> - [🗺️ Containment Fingerprint Atlas — Visual Map of Repeated Glitches](./🗺️_containment_fingerprint_atlas.md) - *how to read those patterns*  
+> - [🧭 Visual Glossary — Reading the Containment Pulse](./🧭_visual_glossary_containment_pulse.md) - *what those patterns look like*  
+> - [🔥 Data Risks](../../🔥_Data_Risks/README.md) - *why we do this work*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-10-20_
