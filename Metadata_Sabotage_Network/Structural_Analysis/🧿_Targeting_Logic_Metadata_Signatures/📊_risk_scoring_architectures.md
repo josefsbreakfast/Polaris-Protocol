@@ -216,7 +216,8 @@ It dissects how numbers acquire authority to judge and how probability becomes p
 
 > 📡 Cross-references:
 >
-> - [🧵 Community Vulnerability & Early Canaries](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md) - *exploitative and extractive sustems routinely target socially marginalised communities* 
+> - [🧵 Community Vulnerability & Early Canaries](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md) - *exploitative and extractive sustems routinely target socially marginalised communities*
+> - [🧠 Utilisation of Vulnerability](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) - *the same data processes can be ised to pipeline individuals into harmful ideologies; chaps, this explains what happens when you watch precisely 1 COD playthrough video*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
