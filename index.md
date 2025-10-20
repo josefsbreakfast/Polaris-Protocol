@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 12:21:54 UTC_
+_Generated on 2025-10-20 12:24:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -58,6 +58,7 @@ _Generated on 2025-10-20 12:21:54 UTC_
         - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_lawful_conscience_protocol.md)
         - [`⚖️_legal_frameworks_remits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_legal_frameworks_remits.md)
         - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_matriarchy_as_requirement.md)
+        - [`⚖️_protection_racket_as_system_design.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_protection_racket_as_system_design.md)
         - [`⚖️_public_inquiry_business_case.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_public_inquiry_business_case.md)
         - [`⚖️_redress_models_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_redress_models_and_limits.md)
         - [`⚖️_registered_professions_impact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_registered_professions_impact.md)
@@ -1437,7 +1438,6 @@ _Generated on 2025-10-20 12:21:54 UTC_
     - [`☕️_she_was_doing_less_damage_send_her_back_there.md`](Polaris_Nest/Git_Intake_Drawer/☕️_she_was_doing_less_damage_send_her_back_there.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_agentic_ai_needs_coffee.md)
     - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
-    - [`⚖️_protection_racket_as_system_design.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_protection_racket_as_system_design.md)
     - [`⚖️_royalties_and_liability_misclassified_data_download.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_royalties_and_liability_misclassified_data_download.md)
     - [`⚖️_the_history_of_justice_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_history_of_justice_as_spectacle.md)
     - [`⚙️_overdrive_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_overdrive_capitalism.md)
