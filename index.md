@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 20:48:22 UTC_
+_Generated on 2025-10-20 20:52:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1537,6 +1537,7 @@ _Generated on 2025-10-20 20:48:22 UTC_
     - [`🪞_the_visibility_trap.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_visibility_trap.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪼_the_word_is_butthurt.png`](Polaris_Nest/Git_Intake_Drawer/🪼_the_word_is_butthurt.png)
+    - [`🪼_the_word_is_still_butthurt.md`](Polaris_Nest/Git_Intake_Drawer/🪼_the_word_is_still_butthurt.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
