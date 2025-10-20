@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:40:04 UTC_
+_Generated on 2025-10-20 22:41:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1488,9 +1488,9 @@ _Generated on 2025-10-20 22:40:04 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`pathological_simplicity_algorithms_misread_human_chaos.md`](Polaris_Nest/Git_Intake_Drawer/pathological_simplicity_algorithms_misread_human_chaos.md)
     - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
-    - [`⚖️_royalties_and_liability_misclassified_data_download.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_royalties_and_liability_misclassified_data_download.md)
+    - [`⚖️_misclassified_data_download.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_misclassified_data_download.md)
+    - [`⚖️_pathological_simplicity_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_pathological_simplicity_algorithms.md)
     - [`⚙️_overdrive_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_overdrive_capitalism.md)
     - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
     - [`🎓_safeguarding_as_surveillance_university_case_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance_university_case_pattern.md)
