@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:36:51 UTC_
+_Generated on 2025-10-20 22:37:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1044,6 +1044,7 @@ _Generated on 2025-10-20 22:36:51 UTC_
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
     - [`🧾_codename_table_reconstruction.md`](Disruption_Kit/Field_Logs/🧾_codename_table_reconstruction.md)
+    - [`🧿_my_feed_needs_a_sweep.md`](Disruption_Kit/Field_Logs/🧿_my_feed_needs_a_sweep.md)
     - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
     - [`🧿_why_do_you_tolerate_my_imprisonment.md`](Disruption_Kit/Field_Logs/🧿_why_do_you_tolerate_my_imprisonment.md)
     - [`🩰_petty_princesses_with_beards.md`](Disruption_Kit/Field_Logs/🩰_petty_princesses_with_beards.md)
@@ -1527,7 +1528,6 @@ _Generated on 2025-10-20 22:36:51 UTC_
     - [`🧰_middleware_hijack_agentic_signature.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentic_signature.md)
     - [`🧰_upstream_compromise_remote_middleware_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_remote_middleware_checklist.md)
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
-    - [`🧿_my_feed_needs_a_sweep.md`](Polaris_Nest/Git_Intake_Drawer/🧿_my_feed_needs_a_sweep.md)
     - [`🧿_server_lag_github.md`](Polaris_Nest/Git_Intake_Drawer/🧿_server_lag_github.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
