@@ -119,7 +119,7 @@ It teaches the visual language of the Atlas — how to recognise governance not 
 > - [📡 LVSICR System](./📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md) - *the system for catching leaks*  
 > - [☔️ Leak Pattern Taxonomy](./☔️_leak_pattern_taxonomy.md) - *how to read leaks and communicate so that they form patterns*  
 > - [🧭 Visual Glossary — Reading the Containment Pulse](./🧭_visual_glossary_containment_pulse.md) - *what those patterns look like*  
-> - [🔥 Data Risks](../Metadata_Sabotage_Network/🔥_Data_Risks/README.md) - *why we do this work*  
+> - [🔥 Data Risks](../../🔥_Data_Risks/README.md) - *why we do this work*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-10-20_  
