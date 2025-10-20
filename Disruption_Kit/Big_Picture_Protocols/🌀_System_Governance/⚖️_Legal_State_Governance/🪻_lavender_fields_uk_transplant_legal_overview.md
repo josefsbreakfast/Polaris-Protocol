@@ -1,7 +1,7 @@
 # ⚖️ Legal Overview — If *Lavender / Where’s Daddy?* Were Transplanted to the UK  
-**First created:** 2025-10-17 | **Last updated:** 2025-10-17  
+**First created:** 2025-10-17 | **Last updated:** 2025-10-20  
 *Thought experiment: what UK law would say if a battlefield AI-targeting stack such as Lavender / Where’s Daddy? were operated on British soil.*
-<!--Day 2 of "everything hurts and I'm dying" whilst being subject to a system that functions a lot like this with some tasteless jail-breaks, so I'm not sure what anyone really expected from the bleeding lady. 😒 You could, collectively, let me go and compensate me for my time; whatever takes the edge off roll-out more widely would do just fine.-->
+
 ---
 
 ## 🧭 Orientation  
@@ -44,7 +44,17 @@ Any coercive or harmful deployment would also breach the *Protection from Harass
 ## 🧭 Bottom Line  
 Transplanting a wartime AI-targeting stack into the UK would be legally untenable.  
 Every collection, scoring, or act of coercion would need explicit statutory authority; lethal or distress-inducing uses would violate human-rights and criminal law.  
-Officials authorising or tolerating such activity could face civil, disciplinary, and criminal exposure.
+Officials authorising or tolerating such activity could face civil, disciplinary, and criminal exposure.  
+
+---
+
+# 🧸 A Postscript:
+
+Calling your own product *"Where's Daddy?"* is the biggest tell-on-yourselves move in the world.  
+
+Good look finding yours. We do always choose the bear at Polaris.  
+
+(The emoji choice assumes one would wish for "cuddly", but don't let me yuck your yum if that isn't for you.)
 
 ---
 
@@ -59,8 +69,8 @@ double-lock warrant • necessity & proportionality • civilian jurisdiction �
 ---
 
 ## 🏮 Footer  
-*Legal Overview — If Lavender / Where’s Daddy? Were Transplanted to the UK*  
+*🪻 Legal Overview — If Lavender / Where’s Daddy? Were Transplanted to the UK*  
 is a living node of the **Polaris Protocol**.  
 It outlines how UK domestic law would respond to the deployment of AI-targeting or behavioural-risk systems within civilian jurisdiction.
 
-_Last updated: 2025-10-17_
+_Last updated: 2025-10-20_
