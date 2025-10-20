@@ -13,4 +13,6 @@ Total words (harsh prose-only): 710,087
 <!--I believe that translates as, "suck my vibrating dick"? Don't worry - it was always bigger than any of yours. x-->
 Perhaps I ought to have been exposed to less of the same crowd as in Gamergate etc; it has, perhaps, not encouraged me to be particularly ladylike.  
 
+Improve your behaviour, and I shall consider modifying mine.  
+
 2025-10-20
