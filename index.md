@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:38:52 UTC_
+_Generated on 2025-10-20 22:39:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1052,6 +1052,7 @@ _Generated on 2025-10-20 22:38:52 UTC_
     - [`🩸_there_have_been_many_outs_suggested.md`](Disruption_Kit/Field_Logs/🩸_there_have_been_many_outs_suggested.md)
     - [`🩺_oh_the_irony_tho.md`](Disruption_Kit/Field_Logs/🩺_oh_the_irony_tho.md)
     - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
+    - [`🪄_update_mysteriously_reappearing_book.md`](Disruption_Kit/Field_Logs/🪄_update_mysteriously_reappearing_book.md)
     - [`🪐_my_britannia.md`](Disruption_Kit/Field_Logs/🪐_my_britannia.md)
     - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
     - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/🪬_all_that_surveillance.md)
@@ -1536,7 +1537,6 @@ _Generated on 2025-10-20 22:38:52 UTC_
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
-    - [`🪄_update_mysteriously_reappearing_book.md`](Polaris_Nest/Git_Intake_Drawer/🪄_update_mysteriously_reappearing_book.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪞_safes_shelves_and_servers.md`](Polaris_Nest/Git_Intake_Drawer/🪞_safes_shelves_and_servers.md)
     - [`🪞_the_visibility_trap.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_visibility_trap.md)
