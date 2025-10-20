@@ -1,6 +1,5 @@
-# ⚖️ _The Alt-Right Is Not the Far-Right_  
-**First created:** 2025-10-19  
-**Last updated:** 2025-10-19  
+# ⚖️ The Alt-Right Is Not the Far-Right  
+**First created:** 2025-10-19  | **Last updated:** 2025-10-20  
 
 ---
 
