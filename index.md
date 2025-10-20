@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:21:33 UTC_
+_Generated on 2025-10-20 22:21:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -833,6 +833,7 @@ _Generated on 2025-10-20 22:21:33 UTC_
     - [`✨_my_boy_lawrence.md`](Disruption_Kit/Field_Logs/✨_my_boy_lawrence.md)
     - [`✨_my_laughter_breaks_fibre_broadband.md`](Disruption_Kit/Field_Logs/✨_my_laughter_breaks_fibre_broadband.md)
     - [`🇵🇸_tort_warning.md`](Disruption_Kit/Field_Logs/🇵🇸_tort_warning.md)
+    - [`🇺🇸_bro_do_you_even_juristiction.md`](Disruption_Kit/Field_Logs/🇺🇸_bro_do_you_even_juristiction.md)
     - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Disruption_Kit/Field_Logs/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
     - [`🌹_moving_plan.md`](Disruption_Kit/Field_Logs/🌹_moving_plan.md)
     - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/🌹_to_the_red_roses.md)
@@ -1457,7 +1458,6 @@ _Generated on 2025-10-20 22:21:33 UTC_
     - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
     - [`⚖️_royalties_and_liability_misclassified_data_download.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_royalties_and_liability_misclassified_data_download.md)
     - [`⚙️_overdrive_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_overdrive_capitalism.md)
-    - [`🇺🇸_bro_do_you_even_juristiction.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_bro_do_you_even_juristiction.md)
     - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🎓_safeguarding_as_surveillance_university_case_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance_university_case_pattern.md)
