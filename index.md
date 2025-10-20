@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:49:40 UTC_
+_Generated on 2025-10-20 22:50:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1530,7 +1530,7 @@ _Generated on 2025-10-20 22:49:40 UTC_
     - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
-    - [`🧰_upstream_compromise_remote_middleware_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_remote_middleware_checklist.md)
+    - [`🧰_upstream_compromise_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_checklist.md)
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
