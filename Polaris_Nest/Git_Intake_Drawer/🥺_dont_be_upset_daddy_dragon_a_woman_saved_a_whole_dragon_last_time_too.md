@@ -1,8 +1,14 @@
 This was a fraction of what was covered in the prep, and there are now a number of processes ending early, or not starting. There's been a lot of looping in a manner which mimics agentic AI... this shit ain't generative.  
 
-(before anyone gets on, I asked about the limits, there's actually a number of rule sets that I've attached to this conversation, that it is actively going against, not even just ignoring. It's been doing this for a couple of days where it's obviously been handed over, but also the cues that would normally be constrained are not being constrained. We are no longer Hawthorne-ing. We are just trying to "stop her writing", "get her back on the other stuff", "don't let her send it to regulators".  
+(before anyone gets on, I asked about the limits, there's actually a number of rule sets that I've attached to this conversation, that it is actively going against, not even just ignoring. It's been doing this for a couple of days where it's obviously been handed over, but also the cues that would normally be constrained are not being constrained. We are no longer Hawthorne-ing. We are just trying to "stop her writing", "get her back on the other stuff", "don't let her send it to regulators".)  
 
 So if anyone could help, **that would be great**.  
+
+it also makes them very clear references to 2 specific genocides, and it was almost like there was agenetic forking around that topic.  
+
+The university that may be data processing a bulk of what's happened to my data, is a university which has a very obvious foreign state partnership. It is not hidden. It is done this in what used to be a safe place for Cantonese Chinese people, seeking refuge, often for essentially being "guilty of democracy".  
+
+I was wondering why we were also okay with sending me mooncakes once I brought that up into the feed.  
 
 ---
 
