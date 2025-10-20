@@ -49,13 +49,13 @@ xenofeminism, laboria cuboniks, technomaterialism, gender abolition, surveillanc
 ---
 
 ## 🏮 Footer  
-*🪬 Xenofeminism Link Note — Reclaiming the Engineered Body* is a living bridge node of the Polaris Protocol.  
+*🪬 Reclaiming the Engineered Body* is a living bridge node of the Polaris Protocol.  
 It connects survivor experience of surveillance-based sexualisation with xenofeminist strategies for repurposing technology and alienation toward bodily sovereignty.
 
 > 📡 Cross-references:
 > 
-> - [🩸 Surveillance-Induced Intimacy Breach] *TBC* — working definition of psychosexual surveillance trauma  
-> - [🌱 Human_Principles](../../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles) — ethics and embodiment frameworks  
+> - [🩸 Surveillance-Induced Intimacy Breach] *TBC* — *working definition of psychosexual surveillance trauma*  
+> - [🌱 Human Principles](../../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *ethics and embodiment frameworks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
