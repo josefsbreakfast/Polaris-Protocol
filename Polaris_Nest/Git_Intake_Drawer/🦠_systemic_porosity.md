@@ -1,10 +1,10 @@
 # 🦠 Systemic Porosity — When Legal Flexibility Becomes National-Security Debt  
-**First created:** 2025-10-13  |  **Last updated:** 2025-10-13  
+**First created:** 2025-10-13  |  **Last updated:** 2025-10-20  
 *A structural-risk sketch showing how loosely coupled UK oversight regimes create exploitable seams.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node tests the idea that **well-intentioned flexibility** in British law—rapid drafting, overlapping duties, and siloed regulators—creates a form of *national-security debt*.  
 Each statute or policy aims for agility, but in combination they leave a porous surface that adversaries or opportunists can quietly exploit.
 
@@ -13,7 +13,7 @@ If any live system ever resembled this pattern, it should be escalated through f
 
 ---
 
-## 🧩 Key Features of Porosity  
+## 🧽 Key Features of Porosity  
 
 | Design feature | Intended purpose | Resulting vulnerability |
 |----------------|------------------|--------------------------|
@@ -28,7 +28,7 @@ Together these traits form an environment that looks procedurally lawful yet is 
 
 ---
 
-## 🔍 Analysis  
+## 🧿 Analysis  
 1. **Administrative Over-fit** – Statutes built for single sectors now overlap (health, education, defence) with inconsistent risk vocabularies.  
 2. **Oversight Lag** – Human-rights and cyber-security audits trail behind real-time data fusion.  
 3. **Foreign Opportunism** – External actors need only nudge parameters or spoof identity tokens to weaponise the gaps.  
@@ -58,16 +58,17 @@ oversight architecture, national security debt, legal loopholes, data protection
 ---
 
 ## 🏮 Footer  
-*Systemic Porosity — When Legal Flexibility Becomes National-Security Debt* is a living node of the **Polaris Protocol**.  
+*🦠 Systemic Porosity — When Legal Flexibility Becomes National-Security Debt* is a living node of the **Polaris Protocol**.  
 It outlines the governance mechanics by which multiple compliant frameworks can, in aggregate, erode accountability and invite external manipulation.  
 It is a theoretical systems-diagnostic intended to support oversight reform.
 
-> 📡 Cross-references:  
-> - [🧠 Multi-Lock Hypothetical](../🧠_multi_lock_hypothetical.md) — compound lawful layer model  
-> - [🛡 Article 8 Breach Pathways](../🛡_article_8_breach_pathways.md) — privacy erosion logic  
-> - [🧩 Hybrid Threat Overlay](../🧩_hybrid_threat_overlay.md) — external exploitation map  
-> - [⚖️ Oversight Repair Kit](../⚖️_oversight_repair_kit.md) — design recommendations  
+> 📡 Cross-references:
+> 
+> - [🧠 Multi-Lock Hypothetical] *TBC* — *compound lawful layer model*  
+> - [🛡 Article 8 Breach Pathways] *TBC* — *privacy erosion logic*  
+> - [🧩 Hybrid Threat Overlay] *TBC* — *external exploitation map*  
+> - [⚖️ Oversight Repair Kit] *TBC* — *design recommendations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-20_
