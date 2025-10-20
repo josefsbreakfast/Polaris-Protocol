@@ -168,13 +168,16 @@ taxonomy, pattern, classification, leak, system behaviour, evidence, internation
 
 ## 🏮 Footer  
 
-*Leak Pattern Taxonomy — From Error to Signature* is a living node of the Polaris Protocol.  
+*☔️ Leak Pattern Taxonomy — From Error to Signature* is a living node of the Polaris Protocol.  
 It formalises error into evidence and establishes a language-agnostic standard for systemic leak classification across sectors.  
 
 > 📡 Cross-references:
-> 
-> - [🧼 System Leakage Signatures README](./README.md)  
-> - [👾 Temporal Glitches](./👾_temporal_glitches.md)  
+>
+> - [📡 LVSICR System](./📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md) - *the system for catching leaks*  
+> - [☔️ Leak Pattern Taxonomy](./☔️_leak_pattern_taxonomy.md) - *how to communicate leaks so that they can form patterns*
+> - [🗺️ Containment Fingerprint Atlas — Visual Map of Repeated Glitches](./🗺️_containment_fingerprint_atlas.md) - *how to read those patterns*  
+> - [🧭 Visual Glossary — Reading the Containment Pulse](./🧭_visual_glossary_containment_pulse.md) - *what those patterns look like*  
+> - [🔥 Data Risks](../../🔥_Data_Risks/README.md) - *why we do this work*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-10-10_
