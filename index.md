@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-19 23:50:00 UTC_
+_Generated on 2025-10-20 11:50:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1488,6 +1488,7 @@ _Generated on 2025-10-19 23:50:00 UTC_
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_reaffirming_statements_of_truth.md)
     - [`🛰️_the_punishment_is_getting_boring.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_the_punishment_is_getting_boring.md)
+    - [`🛰️_undermining_access_to_justice_device_level.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_undermining_access_to_justice_device_level.md)
     - [`🤖_a_robot_thinks_i_am_sus.md`](Polaris_Nest/Git_Intake_Drawer/🤖_a_robot_thinks_i_am_sus.md)
     - [`🥃_the_bar_in_hell.md`](Polaris_Nest/Git_Intake_Drawer/🥃_the_bar_in_hell.md)
     - [`🦠_systemic_porosity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_systemic_porosity.md)
