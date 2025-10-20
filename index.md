@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 11:53:39 UTC_
+_Generated on 2025-10-20 11:54:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -46,6 +46,7 @@ _Generated on 2025-10-20 11:53:39 UTC_
         - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
         - [`uk_debates_overlap.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_debates_overlap.png)
         - [`uk_online_safety_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_online_safety_timeline.png)
+        - [`⏳_governance_latency_in_population_scale_cyber_events.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_governance_latency_in_population_scale_cyber_events.md)
         - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
         - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)
         - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
@@ -1421,7 +1422,6 @@ _Generated on 2025-10-20 11:53:39 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`pathological_simplicity_algorithms_misread_human_chaos.md`](Polaris_Nest/Git_Intake_Drawer/pathological_simplicity_algorithms_misread_human_chaos.md)
-    - [`⏳_governance_latency_in_population_scale_cyber_events.md`](Polaris_Nest/Git_Intake_Drawer/⏳_governance_latency_in_population_scale_cyber_events.md)
     - [`☔️_compressed_privacy_and_freedom_of_thought.md`](Polaris_Nest/Git_Intake_Drawer/☔️_compressed_privacy_and_freedom_of_thought.md)
     - [`☔️_get_me_an_umbrella_at_least.md`](Polaris_Nest/Git_Intake_Drawer/☔️_get_me_an_umbrella_at_least.md)
     - [`☔️_the_one_useful_thing.md`](Polaris_Nest/Git_Intake_Drawer/☔️_the_one_useful_thing.md)
