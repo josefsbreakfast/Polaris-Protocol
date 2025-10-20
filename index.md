@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:54:43 UTC_
+_Generated on 2025-10-20 22:56:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -91,6 +91,7 @@ _Generated on 2025-10-20 22:54:43 UTC_
         - [`⚖️_autonomy_vs_containment_dial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_autonomy_vs_containment_dial.md)
         - [`⚖️_containment_and_cutthrough_in_the_legal_profession.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_containment_and_cutthrough_in_the_legal_profession.md)
         - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
+        - [`⚖️_pathological_simplicity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_pathological_simplicity.md)
         - [`⚖️_power_play_and_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_power_play_and_containment.md)
         - [`⚖️_the_history_of_justice_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md)
         - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
@@ -1493,7 +1494,6 @@ _Generated on 2025-10-20 22:54:43 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
-    - [`⚖️_pathological_simplicity_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_pathological_simplicity_algorithms.md)
     - [`⚙️_overdrive_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_overdrive_capitalism.md)
     - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
