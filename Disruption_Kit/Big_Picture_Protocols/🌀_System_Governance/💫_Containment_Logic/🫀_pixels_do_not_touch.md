@@ -1,4 +1,4 @@
-🫀 Pixels Do Not Touch  
+# 🫀 Pixels Do Not Touch  
 
 First created: 2025-10-07 | Last updated: 2025-10-07
 A reflection on human contact, isolation, and the limits of replication.
