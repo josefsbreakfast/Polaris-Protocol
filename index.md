@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 20:09:04 UTC_
+_Generated on 2025-10-20 20:13:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1509,6 +1509,7 @@ _Generated on 2025-10-20 20:09:04 UTC_
     - [`🥃_the_bar_in_hell.md`](Polaris_Nest/Git_Intake_Drawer/🥃_the_bar_in_hell.md)
     - [`🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md`](Polaris_Nest/Git_Intake_Drawer/🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
+    - [`🦤_addressing_the_male_pick_me.md`](Polaris_Nest/Git_Intake_Drawer/🦤_addressing_the_male_pick_me.md)
     - [`🧠_multilock_overlapping_systems_coercive_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_systems_coercive_systems.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
