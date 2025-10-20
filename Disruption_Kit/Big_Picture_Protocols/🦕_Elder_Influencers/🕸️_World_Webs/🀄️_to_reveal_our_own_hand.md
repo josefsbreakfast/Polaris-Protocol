@@ -124,9 +124,10 @@ transparency, counter-intelligence, surveillance ethics, revelation theory, feed
 *🀄️ To Reveal Our Hand* concludes Act I of the *Systemic Containment* arc.  
 It reframes revelation as defence: to see clearly, together, before prediction becomes prophecy.  
 
-> 📡 Cross-references:  
-
-> – [🇬🇧 Britain Is Queenless Now](./🇬🇧_britain_is_queenless_now.md) — *on identity and informational monarchy*  
+> 📡 Cross-references:
+> 
+> – [🇬🇧 Britain Is Queenless Now](./🇬🇧_britain_is_queenless_now.md) — *on identity and informational monarchy*
+> - [☄️ WW3 Started Years Ago](./☄️_ww3_started_years_ago.md) - *global power is just a cricket game that never ends*
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
