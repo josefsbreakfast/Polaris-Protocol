@@ -1,5 +1,5 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-08 | **Last updated:** 2025-10-20  
 *How redundant churches could seed civic renewal instead of grievance economies.*
 
 ---
@@ -43,7 +43,15 @@ Adapting these under UK charity law would need a standing legislative carve-out:
 
 ### 🐝 5. Cultural dividend  
 Each re-purposed church removes one grievance totem from extremist narratives and creates shared civic infrastructure — housing, art, childcare, food co-ops.  
-The faith endures not through purity but through hospitality.
+The faith endures not through purity but through hospitality.  
+
+---
+
+## 🍃 We Plug "Good Practice" In This House:
+
+- Dan, Sam, & Will are raising money for Suffolk Historic Churches Trust [here](https://www.justgiving.com/page/ras2025?utm_medium=FR&utm_source=CL&fbclid=PAdGRleAM7sOJleHRuA2FlbQIxMQABp4e32f8-cYJWmDfrnFOY3xJoMbafJabvXp4aijOkIOXvmuFfnBQ_fOczkpYd_aem_JJgztLSGyxCeqtWcXuLvcAhttps%3A%2F%2Fwww.justgiving.com%2Fpage%2Fras2025%3Futm_medium%3DFR&utm_source=CL&fbclid=PAdGRleAM7sOJleHRuA2FlbQIxMQABp4e32f8-cYJWmDfrnFOY3xJoMbafJabvXp4aijOkIOXvmuFfnBQ_fOczkpYd_aem_JJgztLSGyxCeqtWcXuLvcA) and they talk about how the first leg of fundraising has gone [here, on Youtube](https://www.youtube.com/watch?v=W7Jw6dccD8k).
+  - It's already veru clear from comments on all platforms where they are sharing this story, that people in other countries are willing to pitch in even, showing the shared interest in keeping history exciting and alive and *present*.  
+- Many churches have been bought, upkept, and converted to masjids and mosques. A reminder to the Christians that [conversion of buildings within the Abrahimc faiths is really not new](https://www.youtube.com/watch?v=cZVIC1Pua1o&t=51s); for those concerned about consecration (because I'm sure that was the chief concern), all three faiths pray towards roughly the same direction, and this lends the buildings fairly uniquely to conversion within the sibling faiths.  
 
 ---
 
@@ -72,4 +80,4 @@ It proposes how legal reform and civic imagination could turn redundant church p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-10-20_
