@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 21:29:08 UTC_
+_Generated on 2025-10-20 21:34:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1290,6 +1290,7 @@ _Generated on 2025-10-20 21:29:08 UTC_
       - [`👻_template_ghosts.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_template_ghosts.md)
       - [`👾_temporal_glitches.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_temporal_glitches.md)
       - [`💔_shared_vendor_anomalies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💔_shared_vendor_anomalies.md)
+      - [`📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md)
       - [`🔥_when_policy_versions_argue.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🔥_when_policy_versions_argue.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
       - [`🗺️_containment_fingerprint_atlas.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🗺️_containment_fingerprint_atlas.md)
