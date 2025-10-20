@@ -66,6 +66,27 @@ The score does not describe a person; it describes how the system perceives them
 
 ---
 
+```mermaid
+flowchart TD
+    A[Citizen Data Inputs] --> B[Risk Model / Algorithm]
+    B --> C[Score Assigned]
+    C --> D[Decision or Action Taken]
+    D --> E[Behavioural or Systemic Response]
+    E --> F[New Data Captured]
+    F --> G{Bias Amplified or Reduced?}
+    G -->|Amplified| H[Reinforces Model Assumptions]
+    G -->|Reduced| I[Model Recalibrated Fairly]
+    H --> B
+    I --> B
+
+    class A,F neutral;
+    class B,C model;
+    class D,E risk;
+    class G,H,I reform;
+```
+
+---
+
 ## 🐦‍🔥 Counter-Metrics for Justice  
 To resist opaque scoring, we need **counter-metrics** — measures of fairness, dignity, and harm.  
 Instead of “risk of fraud,” we can calculate “risk of false suspicion.”  
