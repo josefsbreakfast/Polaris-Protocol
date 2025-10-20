@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Every automated decision system hides a **threshold** — a numerical cliff where possibility becomes punishment.  
 Below the line: invisibility. Above it: intervention.  
 
@@ -14,7 +14,7 @@ To be literate in thresholds is to understand that governance is often conducted
 
 ---
 
-## 1. Literacy vs Fear  
+## 🌩️ Literacy vs Fear  
 The purpose is not to reveal every mechanism, but to **translate complexity into comprehension**.  
 When citizens can recognise how systems label, score, and escalate, they can navigate bureaucratic terrain more safely.  
 
@@ -30,7 +30,7 @@ but parameters that can be audited, appealed, or redesigned.
 
 ---
 
-## 2. Public Workshops and Story Maps  
+## 🗺️ Public Workshops and Story Maps  
 Effective threshold literacy begins with storytelling.  
 Participants map where thresholds appear in their own lives:  
 - credit scores,  
@@ -49,7 +49,7 @@ By using simulation rather than disclosure, the workshops remain **safe for part
 
 ---
 
-## 3. Threshold Transparency Simulations  
+## 👻 Threshold Transparency Simulations  
 Simulations allow people to see **how thresholds move** —  
 how a single input (income, postcode, keyword) can tip a classification.  
 Digital tools can recreate simplified scoring engines where users adjust sliders and watch their “risk profile” change.  
@@ -64,7 +64,7 @@ Transparency here is not disclosure of secrets but disclosure of **structure**.
 
 ---
 
-## 4. Evaluating Impact Safely  
+## 📿 Evaluating Impact Safely  
 Threshold literacy programs must tread carefully.  
 To expose people to the architecture of surveillance without protection  
 is to risk retraumatisation or fatalism.  
@@ -81,7 +81,7 @@ Civic literacy is achieved when people understand *when and how a line was drawn
 
 ---
 
-## 5. Vulnerability, Clarity, and the Role of the Fool  
+## 🐦‍🔥 Vulnerability, Clarity, and the Role of the Fool  
 Thresholds do not affect all citizens equally.  
 Those who struggle to recognise or interpret the rules —  
 particularly people who are neurodivergent, traumatised, or simply confused by bureaucratic language —  
