@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 12:25:07 UTC_
+_Generated on 2025-10-20 12:27:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -758,6 +758,7 @@ _Generated on 2025-10-20 12:25:07 UTC_
       - [`🧨_polite_post_containment_probe.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_polite_post_containment_probe.md)
       - [`🧨_procedural_wait_your_turn.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_procedural_wait_your_turn.md)
       - [`🪓_mean_evidence_template.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🪓_mean_evidence_template.md)
+      - [`🪬_reclaiming_the_engineered_body.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🪬_reclaiming_the_engineered_body.md)
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
       - [**🔖_Suppressive_Syntax/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/)
         - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/README.md)
@@ -1524,7 +1525,6 @@ _Generated on 2025-10-20 12:25:07 UTC_
     - [`🪞_safes_shelves_and_servers.md`](Polaris_Nest/Git_Intake_Drawer/🪞_safes_shelves_and_servers.md)
     - [`🪞_the_visibility_trap.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_visibility_trap.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
-    - [`🪬_xenofeminism_link_note.md`](Polaris_Nest/Git_Intake_Drawer/🪬_xenofeminism_link_note.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
