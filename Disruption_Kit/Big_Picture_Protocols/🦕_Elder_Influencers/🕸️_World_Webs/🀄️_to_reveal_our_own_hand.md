@@ -127,7 +127,7 @@ It reframes revelation as defence: to see clearly, together, before prediction b
 > 📡 Cross-references:
 > 
 > – [🇬🇧 Britain Is Queenless Now](./🇬🇧_britain_is_queenless_now.md) — *on identity and informational monarchy*
-> - [☄️ WW3 Started Years Ago](./☄️_ww3_started_years_ago.md) - *global power is just a cricket game that never ends*
+> - [☄️ WW3 Started Years Ago](./☄️_ww3_started_years_ago.md) - *global power is just a cricket game that never ends; hell for some, heaven for others*
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
