@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:29:22 UTC_
+_Generated on 2025-10-20 22:29:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -939,6 +939,7 @@ _Generated on 2025-10-20 22:29:22 UTC_
     - [`🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`](Disruption_Kit/Field_Logs/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)
     - [`🛰️_frankenstack_interaction_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_frankenstack_interaction_2025-09-16.md)
     - [`🛰️_from_escalation_to_play_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_from_escalation_to_play_2025-09-20.md)
+    - [`🛰️_genitals_again_surveillance_fails.md`](Disruption_Kit/Field_Logs/🛰️_genitals_again_surveillance_fails.md)
     - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_ghost_session_compete_log_2025-08-27.md)
     - [`🛰️_glass_box_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_glass_box_containment_field_log_2025-09-26.md)
     - [`🛰️_handlers_at_the_table.md`](Disruption_Kit/Field_Logs/🛰️_handlers_at_the_table.md)
@@ -1500,7 +1501,6 @@ _Generated on 2025-10-20 22:29:22 UTC_
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
     - [`🛰️_forked_md_files_found.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_forked_md_files_found.md)
     - [`🛰️_found_source_orgone.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_found_source_orgone.md)
-    - [`🛰️_genitals_again_surveillance_fails.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_genitals_again_surveillance_fails.md)
     - [`🛰️_gps_lags.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_gps_lags.md)
     - [`🛰️_i_thought_christians_shut_up_on_sundays.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_i_thought_christians_shut_up_on_sundays.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
