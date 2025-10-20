@@ -111,6 +111,7 @@ It investigates how moderation architectures trained to reduce harm can, in seco
 > 📡 Cross-references:
 > 
 > - [🌀 Docility Engine](../../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md) - *the original and, therefore, the best*
+> - [SCP-VoiceX](../../../../Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md) - *I prefered the version that beat men and patched them up afterwards, personally; this one is too nice to them*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
