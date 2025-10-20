@@ -13,7 +13,7 @@ By treating repetition as **signal rather than noise**, the Atlas reveals *conta
 
 ---
 
-## 🧮 1. Temporal Cartography — Tracking Drift Over Time  
+## 🧮 Temporal Cartography — Tracking Drift Over Time  
 Each LVSICR record becomes a coordinate in time, and the Atlas functions as a **dynamic topography of system memory**.  
 Rather than a static log, it is a **moving landscape**, showing how risk signals, containment reactions, and recurrence patterns evolve.  
 
@@ -30,7 +30,7 @@ In long-duration plots, these traces resemble geological strata — the **sedime
 
 ---
 
-## 🧭 2. Threat Mutation and Behavioural Drift  
+## 🧭 Threat Mutation and Behavioural Drift  
 Every threat indicator (LVSICR code or cluster) mutates as containment strategies evolve.  
 An initial *L2V1S1I1C1R1* (localised breach) may, through replication or suppression, progress to *L2V2S2I2C2R3*.  
 This shift signals **adaptive containment failure** — the system’s immune response generating instability.  
@@ -40,7 +40,7 @@ When visualised, they appear as **braided temporal lines**, converging where mul
 
 ---
 
-## ⚙️ 3. Data Recording & Management Protocols  
+## ⚙️ Data Recording & Management Protocols  
 
 | Field | Description | Example |
 |-------|--------------|----------|
@@ -60,8 +60,8 @@ Entries populate a **time-aware relational graph**, enabling detection of:
 
 ---
 
-## 🧬 4. LVSICR Coding System — Behavioural Grammar of Leaks  
-The Atlas uses the [📡 LVSICR System](../🧼_System_Leakage_Signatures/📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md) as its analytical spine.
+## 🧬 LVSICR Coding System — Behavioural Grammar of Leaks  
+The Atlas uses the [📡 LVSICR System](./☔️_leak_pattern_taxonomy.md) as its analytical spine.
 
 | Axis | Meaning | Function | Scale (0–3) |
 |------|----------|-----------|-------------|
@@ -79,27 +79,27 @@ Repeated *C3* or *R3* codes signal **containment exhaustion** and trigger flaggi
 
 ---
 
-## 📊 5. Visualisation Methods — Seeing the Invisible  
+## 📊 Visualisation Methods — Seeing the Invisible  
 
-### 🕸 5.1 Recurrence Heatmaps  
+### 🕸 Recurrence Heatmaps  
 Aggregate all events with *R ≥ 2*; render recurrence frequency per quarter as colour intensity; overlay vendor contours to reveal contagion.  
 
-### ⏱ 5.2 Timeline Threads  
+### ⏱ Timeline Threads  
 Map LVSICR sequences as temporal chains:  
 ```text
 L2V1S1I1C1R1 → L2V1S2I1C2R2 → L2V2S2I2C3R3
 ```  
 Progression from local to systemic displays **drift curvature** — escalation speed and depth.
 
-### 🗺 5.3 Behavioural Fingerprints  
+### 🗺 Behavioural Fingerprints  
 Six-spoke radar charts (L–V–S–I–C–R) show the proportional balance of each axis; over-time overlays reveal **rotational drift**.  
 
-### 🪶 5.4 Composite Atlas Dashboards  
+### 🪶 Composite Atlas Dashboards  
 Interactive views merge all layers — scroll time horizontally, observe heat intensity vertically, and colour-code by vendor or policy family.
 
 ---
 
-## 🌊 6. Oscillation Mapping — The ECG of Containment  
+## 🌊 Oscillation Mapping — The ECG of Containment  
 Containment systems pulse and relapse.  
 Using **phase-space cartography**, the Atlas projects *Time*, *Containment (C)*, and *Recurrence (R)* onto a 2-D field — akin to an ECG for infrastructure.
 
@@ -130,7 +130,7 @@ This transforms suppression telemetry into **audible rhythm** — governance as 
 
 ---
 
-## 🌡️ 7. Correlation Motion Heatmap — “Who Moves with Whom, When?”  
+## 🌡️ Correlation Motion Heatmap — “Who Moves with Whom, When?”  
 A correlation motion heatmap shows **synchrony** between organisational units or regions as containment severity changes **over time**.  
 It visualises **co-movement**: shared shocks, vendor-linked failures, and policy resonance.
 
@@ -146,14 +146,14 @@ It visualises **co-movement**: shared shocks, vendor-linked failures, and policy
 
 ---
 
-## 🧩 8. Reading the Map — Literacy in Motion  
+## 🧩 Reading the Map — Literacy in Motion  
 The **Correlation Motion Heatmap** looks complex at first glance. But complexity is the *point* — because governance is complex, and so are its pulse rhythms.  
 Like an ECG, the map teaches the eye to distinguish *pattern from panic*. After a few viewings, analysts begin to feel where the system breathes.  
 
 Each matrix cell is not a number; it’s a *relationship in motion* — a visual trace of how containment systems **co-oscillate, resonate, or decouple** over time.  
 The goal is not to reduce the picture but to **train recognition**: to make recurrence and synchrony as instantly readable as a heartbeat monitor.  
 
-### 🧭 Pattern Archetypes  
+### Pattern Archetypes  
 
 | Archetype | Visual Form | Meaning | Typical Context |
 |------------|--------------|----------|-----------------|
@@ -180,8 +180,8 @@ This is how a surveillance audit becomes **a literacy movement**: teaching peopl
 
 ---
 
-## 🧬 9. Relation to Leak Pattern Taxonomy  
-The Atlas draws from the [☔️ Leak Pattern Taxonomy](../🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md), which defines *how* leaks form.  
+## 🧬 Relation to Leak Pattern Taxonomy  
+The Atlas draws from the [☔️ Leak Pattern Taxonomy](.☔️_leak_pattern_taxonomy.md), which defines *how* leaks form.  
 The Atlas shows *where and when* they reappear.  
 Together they establish an **ecology of malfunction**, closing the loop between definition and data.
 
