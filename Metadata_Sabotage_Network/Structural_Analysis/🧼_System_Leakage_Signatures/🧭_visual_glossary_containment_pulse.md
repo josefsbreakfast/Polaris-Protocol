@@ -115,10 +115,9 @@ training, glossary, containment patterns, oscillation, synchrony, contagion, dri
 It teaches the visual language of the Atlas — how to recognise governance not as static structure, but as living motion.  
 
 > 📡 Cross-references:
-> 
-> - [🗺️ Containment Fingerprint Atlas](./🗺️_containment_fingerprint_atlas_visual_map_of_repeated_glitches.md)  
-> - [🌡️ Correlation Motion Heatmap Section](./🗺️_containment_fingerprint_atlas_visual_map_of_repeated_glitches.md#🌡️-7-correlation-motion-heatmap--who-moves-with-whom-when)  
-> - [📡 LVSICR System](../🧼_System_Leakage_Signatures/📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md)  
+>
+> - [📡 LVSICR System](./📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md) - *the system for catching leaks*  
+> - [☔️ Leak Pattern Taxonomy](./☔️_leak_pattern_taxonomy.md) - *how to read leaks and communicate so that they form patterns*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-10-20_  
