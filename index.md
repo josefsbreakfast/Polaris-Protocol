@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 12:03:07 UTC_
+_Generated on 2025-10-20 12:04:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -100,6 +100,7 @@ _Generated on 2025-10-20 12:03:07 UTC_
         - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_patch_repair_governance.md)
         - [`🪖_SAS_special_forces_and_complaints.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_SAS_special_forces_and_complaints.md)
         - [`🪖_overlap_accountability_and_why_we_cannot_recruit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_overlap_accountability_and_why_we_cannot_recruit.md)
+        - [`🫀_pixels_do_not_touch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫀_pixels_do_not_touch.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
@@ -1523,7 +1524,6 @@ _Generated on 2025-10-20 12:03:07 UTC_
     - [`🪶_reading_the_dog_whistle.md`](Polaris_Nest/Git_Intake_Drawer/🪶_reading_the_dog_whistle.md)
     - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Polaris_Nest/Git_Intake_Drawer/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
     - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Polaris_Nest/Git_Intake_Drawer/🪻_lavender_fields_uk_transplant_legal_overview.md)
-    - [`🫀_pixels_do_not_touch.md`](Polaris_Nest/Git_Intake_Drawer/🫀_pixels_do_not_touch.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
