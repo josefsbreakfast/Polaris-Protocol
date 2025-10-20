@@ -11,4 +11,8 @@ xx
 
 (I'm just aware that you're not necessarily taking the current drafting very well, and I appreciate that I might be poking some holes in the general plan, but to be fair, it was primarily to hold British and Israeli men accountable, so you're just sort of... in the way at this point? Hope you understand ❤️)  
 
+---
+
+I take it from the few nudges that I have had, that the answer might be "no"?  
+
 2025-10-20  
