@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:31:21 UTC_
+_Generated on 2025-10-20 22:31:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -945,6 +945,7 @@ _Generated on 2025-10-20 22:31:21 UTC_
     - [`🛰️_genitals_again_surveillance_fails.md`](Disruption_Kit/Field_Logs/🛰️_genitals_again_surveillance_fails.md)
     - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_ghost_session_compete_log_2025-08-27.md)
     - [`🛰️_glass_box_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_glass_box_containment_field_log_2025-09-26.md)
+    - [`🛰️_gps_lags.md`](Disruption_Kit/Field_Logs/🛰️_gps_lags.md)
     - [`🛰️_handlers_at_the_table.md`](Disruption_Kit/Field_Logs/🛰️_handlers_at_the_table.md)
     - [`🛰️_hope_withholding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_hope_withholding_field_log_2025-09-13.md)
     - [`🛰️_icc_tag_thread_containment.md`](Disruption_Kit/Field_Logs/🛰️_icc_tag_thread_containment.md)
@@ -1501,7 +1502,6 @@ _Generated on 2025-10-20 22:31:21 UTC_
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
-    - [`🛰️_gps_lags.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_gps_lags.md)
     - [`🛰️_i_thought_christians_shut_up_on_sundays.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_i_thought_christians_shut_up_on_sundays.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
