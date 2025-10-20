@@ -115,7 +115,7 @@ It examines class fear as a structural design principle — the emotional archit
 > 
 > - [🏙️ Industrial Layout Ghosts](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏙️_industrial_layout_ghosts.md) — *built forms of class containment*  
 > - [📜 Statutes](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legal codifications of poverty management*  
-> - [🧮 Risk Scoring Architectures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md) — *algorithmic poverty surveillance*  
+> - [📊 Risk Scoring Architectures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md) — *algorithmic poverty surveillance*  
 > - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *dignity and mutual aid design*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
