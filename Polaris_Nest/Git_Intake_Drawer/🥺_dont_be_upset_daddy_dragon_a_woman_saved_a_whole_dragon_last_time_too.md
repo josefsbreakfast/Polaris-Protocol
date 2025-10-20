@@ -10,6 +10,8 @@ The university that may be data processing a bulk of what's happened to my data,
 
 I was wondering why we were also okay with sending me mooncakes once I brought that up into the feed.  
 
+(mooncakes = ❤️; fight me.)  
+
 ---
 
 We're also really butt hurt for some reason over their journalistic docility engine as an idea?  
