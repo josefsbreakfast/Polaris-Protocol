@@ -45,7 +45,7 @@ It interrogates how the rhetoric of visibility can obscure the architectures of 
 > 
 > - [💸 Money Listens](../README.md) — *economics of attention and power perception*  
 > - [🦕 Elder Influencers](../../README.md) — *generational authority in public discourse*  
-> - [Disruption Kit](../../../README.md) — *systemic diagnostics and containment typologies*  
+> - [Disruption Kit](../../../../README.md) — *systemic diagnostics and containment typologies*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
