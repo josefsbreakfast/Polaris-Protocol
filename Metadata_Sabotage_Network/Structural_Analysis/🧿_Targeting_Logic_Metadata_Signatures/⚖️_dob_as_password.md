@@ -1,5 +1,5 @@
 # ⚖️ DOB as Password  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-10
+**First created:** 2025-09-07 | **Last updated:** 2025-10-20  
 *How date of birth functions like a banking password — because it can be used to unlock or back-calculate unique identifiers.*  
 
 ---
@@ -71,9 +71,9 @@ DOB is not trivia. It is a **high-value credential**.
 ---
 
 ## 🏮 Footer  
-*DOB as Password* is a living node of the Polaris Protocol.  
+*⚖️ DOB as Password* is a living node of the Polaris Protocol.  
 It frames date of birth as a credential equivalent to a password — demonstrating how astrology and identity systems both collapse into risk once DOB is exposed.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_  
+_Last updated: 2025-10-20_  
