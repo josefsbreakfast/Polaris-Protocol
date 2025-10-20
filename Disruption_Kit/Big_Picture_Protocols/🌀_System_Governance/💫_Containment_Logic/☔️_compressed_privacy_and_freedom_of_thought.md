@@ -1,5 +1,5 @@
 # ☔️ Article 8 & 9 Breach Pathways — Privacy and Freedom of Thought in Compression  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-13  
+**First created:** 2025-10-13 | **Last updated:** 2025-10-20  
 *A rights-based stress-test tracing how ordinary “lawful processing” can cumulatively erode privacy (Art 8 ECHR) and freedom of thought (Art 9).*
 
 ---
@@ -69,12 +69,13 @@ article 8, article 9, freedom of thought, privacy, mental privacy, algorithmic g
 *Article 8 & 9 Breach Pathways — Privacy and Freedom of Thought in Compression* is a living analytical node of the **Polaris Protocol**.  
 It traces how lawful infrastructures can, through accumulation, reproduce the emotional texture of coercion and self-censorship.
 
-> 📡 Cross-references:  
-> - [🧱 Systemic Porosity](../🧱_systemic_porosity.md) — structural vulnerability map  
-> - [🧠 Multi-Lock Hypothetical](../🧠_multi_lock_hypothetical.md) — compound lawful layer model  
-> - [🧩 Hybrid Threat Overlay](../🧩_hybrid_threat_overlay.md) — external manipulation risk  
-> - [⚖️ Oversight Repair Kit](../⚖️_oversight_repair_kit.md) — policy countermeasures  
+> 📡 Cross-references:
+> 
+> - [🧱 Systemic Porosity] *TBC* — structural vulnerability map  
+> - [🧠 Multi-Lock Hypothetical] *TBC* — compound lawful layer model  
+> - [🧩 Hybrid Threat Overlay] *TBC* — external manipulation risk  
+> - [⚖️ Oversight Repair Kit] *TBC* — policy countermeasures  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-20_
