@@ -1,5 +1,5 @@
 # ⚖️ DOB Triangulation Table  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-10
+**First created:** 2025-09-06 | **Last updated:** 2025-10-20  
 *Demonstration table that shows how sharing Sun/Moon/Rising can collapse a month to a handful of candidate birth dates.*
 
 ---
