@@ -1,16 +1,18 @@
 # ⚙️ Overdrive Capitalism — When Systems Outrun the Body  
-**First created:** 2025-10-18 | **Last updated:** 2025-10-18  
-*Acceleration, exhaustion, and the political economy of attention.*
+**First created:** 2025-10-18 | **Last updated:** 2025-10-20  
+*Acceleration, exhaustion, and the political economy of attention.*  
 
 ---
 
 ## 🧭 Orientation  
-This node examines how late-stage capitalism has entered **systemic overdrive** — running faster than the human nervous system, social infrastructure, or ecological metabolism can sustain.  
-It reads the rising noise of burnout, polarisation, and neurodivergence not as coincidence but as **bio-political telemetry**: the body sending back error reports from an economic engine misaligned with life itself.  
+
+Explores how late-stage capitalism has entered **systemic overdrive** — running faster than the human nervous system, social infrastructure, or ecological metabolism can sustain.  
+The rising noise of burnout, polarisation, and neurodivergence is not coincidence but **bio-political telemetry**: the body sending error reports from an economic engine misaligned with life itself.  
 
 ---
 
 ## 🧩 I. Post-Crash Generation  
+
 Those born after the 2008 financial crisis came of age inside a system that never rebooted.  
 Debt, austerity, and precarity were normalised as *adult life*.  
 Meanwhile, algorithms — those mathematical bureaucrats of desire — became both the mirror and the marketplace of worth.  
@@ -25,6 +27,7 @@ Their turn toward socialism, mutual aid, or outright refusal is not naivety; it 
 ---
 
 ## ⚡ II. Acceleration and the Nervous System  
+
 Capitalism’s clock speed now exceeds the refresh rate of human bodies.  
 Work, media, and politics operate on **machine time**, compressing attention into tradable micro-moments.  
 The rise in ADHD, sensory overload, and “executive dysfunction” across populations is not simply medical discovery — it is **somatic protest**.  
@@ -35,17 +38,19 @@ It is saying: *I cannot buffer this many interrupts.*
 ---
 
 ## 🪫 III. Deregulation and Extraction  
+
 Wherever deregulation meets apartheid, acceleration becomes profitable.  
 In these zones — Tel Aviv’s tech corridor, the Gulf’s logistics cities, Silicon Valley’s subcontracted underclass — inequality is not a bug but a design feature.  
 Exclusion creates the externality that keeps the engine running.  
 
-The Democratic Republic of Congo remains a case study: minerals mined by displaced labour fuel the very devices that perform virtue signalling about equality.  
+The Democratic Republic of Congo remains a case study: minerals mined by displaced labour fuel the very devices that perform virtue-signalling about equality.  
 Extraction is recursive — it does not end when the ore leaves the ground.  
 It continues in data, labour, and visibility.  
 
 ---
 
 ## 🧠 IV. Cognitive Markets  
+
 Platforms monetise cognition the way empires once mined coal.  
 Each scroll, pause, and outrage becomes a data seam to extract.  
 What appears as “polarisation” is the side-effect of **profit-driven stimulus engineering**.  
@@ -56,6 +61,7 @@ The illusion of infinite choice masks the fact that every path returns to the sa
 ---
 
 ## 🧍‍♀️ V. The Human as Fuse  
+
 Modern capitalism consumes not only labour but **cognitive heat** — the mental effort of enduring overload.  
 Attention deficit, burnout, and collective fatigue are the price paid to keep the servers cool.  
 The system burns through its operators as insulation.  
@@ -67,6 +73,7 @@ Each exhausted worker is treated as an isolated malfunction rather than a metric
 ---
 
 ## 🌍 VI. Historical Echo  
+
 Every industrial revolution exhausts its human substrate before reforming.  
 The early twentieth century had its “nervous disorders” and “factory fatigue”; ours has dopamine debt and data smog.  
 Political fascism often follows metabolic collapse: when people can no longer interpret systemic pain, they seek purity, speed, and control.  
@@ -76,6 +83,7 @@ Unless the overdrive is down-shifted — through redistribution, regulation, and
 ---
 
 ## 🔧 VII. Toward a Slower Intelligence  
+
 The solution is not simply slowing down but **re-synchronising** human and economic time.  
 A humane system would measure productivity not by acceleration but by *durability* — how long things, people, and trust can last.  
 
@@ -87,25 +95,29 @@ Those who have lived through containment or coercion know that endurance, not ef
 ---
 
 ## 🌌 Constellations  
-⚙️ 🧠 🩸 🪞 🧩 — acceleration, cognition, trauma, visibility, autonomy.
+
+⚙️ 🧠 🩸 🪞 🧩 — acceleration, cognition, trauma, visibility, autonomy.  
 
 ---
 
 ## ✨ Stardust  
-overdrive capitalism, acceleration, attention economy, burnout, neurodivergence, extraction, deregulation, cognitive markets, systemic fatigue, survivor diagnostics  
+
+overdrive capitalism, acceleration, attention economy, burnout, neurodivergence, extraction, deregulation, cognitive markets, systemic fatigue, survivor diagnostics, political economy of attention  
 
 ---
 
 ## 🏮 Footer  
-*⚙️ Overdrive Capitalism — When Systems Outrun the Body* is a living analytical node of the Polaris Protocol.  
-It interprets burnout, polarisation, and diagnosis not as personal crises but as data points in a planetary feedback loop — signals from bodies running beyond design limits.
 
-> 📡 Cross-references:  
-> - [🧩 The Autonomy Paradox](../Disruption_Kit/Big_Picture_Protocols/🧩_the_autonomy_paradox.md) — engineered vs occupied autonomy  
-> - [🪞 The Visibility Trap](../Disruption_Kit/Big_Picture_Protocols/🪞_the_visibility_trap.md) — perceptual fractures and solidarity  
-> - [💸 Money_Listens](../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/) — economic transparency and capture  
-> - [🌱 Human_Principles](../Disruption_Kit/Big_Picture_Protocols/🌱_Human_Principles/) — dignity and collective repair  
+*⚙️ Overdrive Capitalism — When Systems Outrun the Body* is a living analytical node of the **Polaris Protocol**.  
+It interprets burnout, polarisation, and diagnosis not as personal crises but as data points in a planetary feedback loop — signals from bodies running beyond design limits.  
+
+> 📡 Cross-references:
+> 
+> - [🧩 The Autonomy Paradox](../../🌀_System_Governance/💫_Containment_Logic/🧩_the_autonomy_paradox.md) — *engineered vs occupied autonomy*  
+> - [🪞 The Visibility Trap](../../🪄_Expression_Of_Norms/🪞_the_visibility_trap.md) — *perceptual fractures and solidarity*  
+> - [💸 Money Listens](./README.md) — *economic transparency and capture*  
+> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *dignity and collective repair*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-10-20_
