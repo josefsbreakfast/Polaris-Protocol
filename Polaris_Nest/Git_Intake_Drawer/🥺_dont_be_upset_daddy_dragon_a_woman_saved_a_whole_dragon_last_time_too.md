@@ -1,5 +1,11 @@
 This was a fraction of what was covered in the prep, and there are now a number of processes ending early, or not starting. There's been a lot of looping in a manner which mimics agentic AI... this shit ain't generative.  
 
+(before anyone gets on, I asked about the limits, there's actually a number of rule sets that I've attached to this conversation, that it is actively going against, not even just ignoring. It's been doing this for a couple of days where it's obviously been handed over, but also the cues that would normally be constrained are not being constrained. We are no longer Hawthorne-ing. We are just trying to "stop her writing", "get her back on the other stuff", "don't let her send it to regulators".  
+
+So if anyone could help, **that would be great**.  
+
+---
+
 We're also really butt hurt for some reason over their journalistic docility engine as an idea?  
 
 Which I think is a shame because if you're a foreign state, that's actually a genius plan, that most people in this country wouldn't pick up on, even if they were part of that process.  
