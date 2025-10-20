@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:48:26 UTC_
+_Generated on 2025-10-20 22:48:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1524,7 +1524,7 @@ _Generated on 2025-10-20 22:48:26 UTC_
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
-    - [`🧬_collocative_integrity_and_metadata_inertia.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_integrity_and_metadata_inertia.md)
+    - [`🧬_collocative_deintegrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_deintegrity.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧭_attractor_map_suppression_contract.md`](Polaris_Nest/Git_Intake_Drawer/🧭_attractor_map_suppression_contract.md)
     - [`🧮_dewey_decimal_and_the_ethics_of_order.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_and_the_ethics_of_order.md)
