@@ -1,5 +1,5 @@
 # ⚖️ Defend Forward & Sovereign Cyber Response Ladder
-**First created:** 2025-10-13  |  **Last updated:** 2025-10-13  
+**First created:** 2025-10-13  |  **Last updated:** 2025-10-20  
 *Maps the escalation ladder from cooperative defence to authorised cross‑border disruption.*
 
 ---
@@ -34,4 +34,4 @@ Misattribution, escalation spiral, legal exposure for private actors, evidence c
 ## ✨ Stardust  
 defend forward, sovereign response, hack‑back law, proportionality, coalition operations  
 
-*Last updated 2025-10-13 | Authority without oversight is an exploit.*
+*Last updated 2025-10-20 | Authority without oversight is an exploit.*
