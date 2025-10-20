@@ -169,7 +169,7 @@ It serves as both elegy and field manual for investigating influence seams.
 > 📡 Cross-references:
 >
 > - [🐺 AMOG? A Joke.](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🐺_AMOG_a_joke.md) - *alpha males are not standard, and better things to do with raw masculinity*
-> - 
+> - [📚 Forensic Silence](../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) - *narrative vacuums as data risks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
