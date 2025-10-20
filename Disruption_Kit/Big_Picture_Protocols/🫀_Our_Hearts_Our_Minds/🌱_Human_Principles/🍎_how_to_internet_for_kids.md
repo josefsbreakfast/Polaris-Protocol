@@ -1,5 +1,5 @@
 # 🍎 How to Internet for Kids  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-15 | **Last updated:** 2025-10-20  
 *Teaching children to navigate the web safely, curiously, and critically.*
 
 ---
@@ -21,7 +21,7 @@ It balances **agency, safety, and literacy**, showing that healthy digital habit
 ---
 
 ## 🌌 Constellations  
-🧒 🧠 🧰 🔮 — Sits in the literacy-and-sovereignty register; builds early critical immunity.
+🍎 🧠 🧰 🔮 — Sits in the literacy-and-sovereignty register; builds early critical immunity.
 
 ---
 
@@ -32,13 +32,14 @@ digital literacy, child safety, education, sandbox, pseudonymity, empathy, moder
 
 ## 🏮 Footer  
 
-*How to Internet for Kids* is a living node of the Polaris Protocol.  
+*🍎 How to Internet for Kids* is a living node of the Polaris Protocol.  
 It proposes practical methods to teach healthy digital behaviour without fear or censorship.  
 
-> 📡 Cross-references:  
-> - [💧 Sludgy Solutions](./💧_sludgy_solutions.md) — approaches to cleaning up the wider web  
-> - [🧿 Watch The Watchers](../../Big_Picture_Protocols/🧿_Watch_The_Watchers/) — oversight and transparency frameworks  
+> 📡 Cross-references:
+> 
+> - [💧 Sludgy Solutions] *TBC* — *approaches to cleaning up the wider web*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight and transparency frameworks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2025-10-20_
