@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:34:55 UTC_
+_Generated on 2025-10-20 22:35:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1029,6 +1029,7 @@ _Generated on 2025-10-20 22:34:55 UTC_
     - [`🥸_how_dare_she_have_feelings.md`](Disruption_Kit/Field_Logs/🥸_how_dare_she_have_feelings.md)
     - [`🥸_tos_non_compliance_as_stealthing.md`](Disruption_Kit/Field_Logs/🥸_tos_non_compliance_as_stealthing.md)
     - [`🥸_two_men_one_park.md`](Disruption_Kit/Field_Logs/🥸_two_men_one_park.md)
+    - [`🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md`](Disruption_Kit/Field_Logs/🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md)
     - [`🦤_expectations_remain.md`](Disruption_Kit/Field_Logs/🦤_expectations_remain.md)
     - [`🦩_no_cidt_no_glow_up.md`](Disruption_Kit/Field_Logs/🦩_no_cidt_no_glow_up.md)
     - [`🧃_thinking_about_restoring_that_essay.md`](Disruption_Kit/Field_Logs/🧃_thinking_about_restoring_that_essay.md)
@@ -1510,7 +1511,6 @@ _Generated on 2025-10-20 22:34:55 UTC_
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_reaffirming_statements_of_truth.md)
-    - [`🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md`](Polaris_Nest/Git_Intake_Drawer/🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🦤_addressing_the_male_pick_me.md`](Polaris_Nest/Git_Intake_Drawer/🦤_addressing_the_male_pick_me.md)
     - [`🧠_multilock_overlapping_systems_coercive_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_systems_coercive_systems.md)
