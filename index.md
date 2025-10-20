@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 12:34:14 UTC_
+_Generated on 2025-10-20 12:37:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -624,6 +624,7 @@ _Generated on 2025-10-20 12:34:14 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
         - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/uk_morale_post_2016.png)
         - [`🌾_impunity_as_fertile_ground.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)
+        - [`🍎_how_to_internet_for_kids.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍎_how_to_internet_for_kids.md)
         - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
         - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
@@ -1448,7 +1449,6 @@ _Generated on 2025-10-20 12:34:14 UTC_
     - [`🇵🇸_tort_warning.md`](Polaris_Nest/Git_Intake_Drawer/🇵🇸_tort_warning.md)
     - [`🇺🇸_bro_do_you_even_juristiction.md`](Polaris_Nest/Git_Intake_Drawer/🇺🇸_bro_do_you_even_juristiction.md)
     - [`🌐_digital_sovereignty_and_the_deterritorial_cloud.md`](Polaris_Nest/Git_Intake_Drawer/🌐_digital_sovereignty_and_the_deterritorial_cloud.md)
-    - [`🍎_how_to_internet_for_kids.md`](Polaris_Nest/Git_Intake_Drawer/🍎_how_to_internet_for_kids.md)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🎓_safeguarding_as_surveillance_university_case_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance_university_case_pattern.md)
     - [`🎪 _procurement_item_classified.jpg`](Polaris_Nest/Git_Intake_Drawer/🎪 _procurement_item_classified.jpg)
