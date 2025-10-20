@@ -1,5 +1,5 @@
 # 🌐 Cross-Jurisdiction Patterning — Global Migration of Signatures  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
 *How vendor logic travels faster than law.*
 
 ---
@@ -32,9 +32,7 @@ global policy, vendor logic, interoperability, standardisation, surveillance
 *🌐 Cross-Jurisdiction Patterning — Global Migration of Signatures* is a living node of the Polaris Protocol.  
 It follows containment across borders and languages.  
 
-> 📡 Cross-references:  
-> - [🔄 Signature Drift](./🔄_signature_drift_the_mutation_of_targeting_rules.md)  
-> - [🧼 System Leakage Signatures](../🧼_System_Leakage_Signatures/)  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-20_
