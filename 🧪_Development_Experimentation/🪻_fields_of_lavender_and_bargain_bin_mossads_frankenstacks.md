@@ -1,5 +1,5 @@
 # 🛰️ AI Targeting & “Risk Management” — Unit 8200 Stack (LLM + Lavender/Gospel)  
-**First created:** 2025-10-17 | **Last updated:** 2025-10-17  
+**First created:** 2025-10-17 | **Last updated:** 2025-10-20  
 *Open-source picture of how Israel’s Unit 8200–linked systems are reported to work: an LLM for intel triage plus ML targeters (Lavender / Gospel / “Where’s Daddy?”), and the policy “risk knobs” that shape harm.*
 <!--Firstly:  
 It's Day 2 of my period and even I can look at grown men naming a new toy, "Where's Daddy?" and think, "awww... they miss their dads, how sweet".  
@@ -75,7 +75,7 @@ lavender • habsora / gospel • “where’s daddy?” • intercept corpora �
 ---
 
 ## 🏮 Footer  
-*AI Targeting & “Risk Management” — Unit 8200 Stack* is a living node of the Polaris Protocol.  
+*🪻 AI Targeting & “Risk Management” — Unit 8200 Stack* is a living node of the Polaris Protocol.  
 It collates reputable open sources on reported systems and highlights where policy choices (“risk knobs”) drive outcomes as much as code.
 
 > 📡 Cross-references: consider linking to **Genocide Denialism**, **Narrative Management**, and **Metadata Sabotage Network** clusters.
