@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 23:27:58 UTC_
+_Generated on 2025-10-20 23:31:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -656,6 +656,7 @@ _Generated on 2025-10-20 23:27:58 UTC_
         - [`🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md)
         - [`👁️‍🗨️_surveillance_of_disabled_bodies.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md)
         - [`💔_the_need_for_touch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💔_the_need_for_touch.md)
+        - [`💰_resolving_the_fear_of_the_poor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💰_resolving_the_fear_of_the_poor.md)
         - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
         - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
@@ -1506,7 +1507,6 @@ _Generated on 2025-10-20 23:27:58 UTC_
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
-    - [`💰_resolving_the_fear_of_the_poor.md`](Polaris_Nest/Git_Intake_Drawer/💰_resolving_the_fear_of_the_poor.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_library_as_algorithmic_interface.md`](Polaris_Nest/Git_Intake_Drawer/📚_library_as_algorithmic_interface.md)
