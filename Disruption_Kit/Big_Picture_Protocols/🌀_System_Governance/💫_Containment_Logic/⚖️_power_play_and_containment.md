@@ -120,6 +120,10 @@ Although a word of potentially late caution:
 
 This entire process does mean you create an extremely obvious set of populations to monitor as a source of malicious intent to the state; your high-friction individuals to neutralise are extremely easy to profile and then, from that data, catch any others.  
 
+Our predilicions and absurdities are so often thought hidden by ourselves and yet so obvious to others; whilst we swear we never discuss sex as a rule, anyone outside can see we frequently count as heroes men who rather enjoyed having the absolute shit kicked out of them as intimacy, and rather openly so.  
+
+We are all far more obvious than we like to think we are.  
+
 ---
 
 ## 🌌 Constellations  
