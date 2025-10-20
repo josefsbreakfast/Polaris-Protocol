@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 11:50:45 UTC_
+_Generated on 2025-10-20 11:52:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1427,13 +1427,13 @@ _Generated on 2025-10-20 11:50:45 UTC_
     - [`☔️_was_i_supposed_to_leak.md`](Polaris_Nest/Git_Intake_Drawer/☔️_was_i_supposed_to_leak.md)
     - [`☕_less_than_ugly_mugs.md`](Polaris_Nest/Git_Intake_Drawer/☕_less_than_ugly_mugs.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_agentic_ai_needs_coffee.md)
-    - [`⚖️_The_Alt-Right_Is_Not_the_Far-Right.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_The_Alt-Right_Is_Not_the_Far-Right.md)
     - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
     - [`⚖️_dr_b_v_gmc_2023_case_note.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_dr_b_v_gmc_2023_case_note.md)
     - [`⚖️_due_diligence_as_moral_defence.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_due_diligence_as_moral_defence.md)
     - [`⚖️_power_play_and_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_power_play_and_containment.md)
     - [`⚖️_protection_racket_as_system_design.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_protection_racket_as_system_design.md)
     - [`⚖️_royalties_and_liability_misclassified_data_download.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_royalties_and_liability_misclassified_data_download.md)
+    - [`⚖️_the_alt_right_is_not_the_far_right.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_alt_right_is_not_the_far_right.md)
     - [`⚖️_the_history_of_justice_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_history_of_justice_as_spectacle.md)
     - [`⚙️_overdrive_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_overdrive_capitalism.md)
     - [`✨_my_boy_lawrence.md`](Polaris_Nest/Git_Intake_Drawer/✨_my_boy_lawrence.md)
