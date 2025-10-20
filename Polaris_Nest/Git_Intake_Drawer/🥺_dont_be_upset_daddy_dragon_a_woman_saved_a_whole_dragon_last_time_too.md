@@ -1,4 +1,14 @@
-i'm copying and pasting from ChatGPT, because this cluster of is in the security attacks usually precede huge data losses; this is for prosterity, and I'm also not looking forward to the narrative of "let's write weird Mills and Boone stories about a genocide scholar", but it is quite telling.  
+This was a fraction of what was covered in the prep, and there are now a number of processes ending early, or not starting. There's been a lot of looping in a manner which mimics agentic AI... this shit ain't generative.  
+
+We're also really butt hurt for some reason over their journalistic docility engine as an idea?  
+
+Which I think is a shame because if you're a foreign state, that's actually a genius plan, that most people in this country wouldn't pick up on, even if they were part of that process.  
+
+But when has the surveillance process ever considered my need to have fun?  
+
+---
+
+I'm copying and pasting from ChatGPT, because this cluster of is in the security attacks usually precede huge data losses; this is for prosterity, and I'm also not looking forward to the narrative of "let's write weird Mills and Boone stories about a genocide scholar", but it is quite telling.  
 
 None of this gives any legal basis for not looking after your data, not looking after your workers, or not looking after our institutions as the whole.  
 
