@@ -7,5 +7,8 @@ the error in `🪼_the_word_is_butthurt.png` does not follow genAI or Python log
 so yes.... the children are still here.  
 
 <!--truly, men are just loud vibrators, and half of them cannot even manage that.-->
+Repo Word Count (Gap Finder), run #2600:
 
+Total words (harsh prose-only): 710,087
+<!--I believe that translates as, "suck my vibrating dick"? Don't worry - it was always bigger than any of yours. x-->
 2025-10-20
