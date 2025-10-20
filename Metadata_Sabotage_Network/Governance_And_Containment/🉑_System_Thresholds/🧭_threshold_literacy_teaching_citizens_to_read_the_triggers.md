@@ -131,10 +131,10 @@ It argues for explicit, trauma-informed communication — and for the protection
 
 > 📡 Cross-references:
 > 
-> - [🉑 System Thresholds README](./README.md)  
-> - [🧾 Threshold Disclosure Protocols](./🧾_threshold_disclosure_protocols_forensic_transparency_tools.md)  
-> - [📊 Risk Scoring Architectures](../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md)  
-> - [⚖️ Coercive Control in Border Policy](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
+> - [🉑 System Thresholds README](./README.md) - *on system thresholds, false pretexts, and escalation ladders*  
+> - [🧾 Threshold Disclosure Protocols](./🧾_threshold_disclosure_protocols_forensic_transparency_tools.md) - *Making invisible criteria visible without creating new risk*  
+> - [📊 Risk Scoring Architectures](../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md) - *Quantifying suspicion through algorithmic arithmetic*  
+> - [⚖️ Coercive Control in Border Policy](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md) - *how coercive control logics are embedded in border regimes, visa systems, and migration governance*  
 > - [🫀 Genocide by Containment](../../🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md) - *how bureaucratic disposal mechanisms can escalate into genocidal practice*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
