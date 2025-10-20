@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 23:08:24 UTC_
+_Generated on 2025-10-20 23:08:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -267,7 +267,7 @@ _Generated on 2025-10-20 23:08:24 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md)
         - [`🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md)
         - [`🌐_suppression_of_holocaust_testimony_online.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
-        - [`🏛️_wannsee_template_bureaucratic_genocide_.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide_.md)
+        - [`🏛️_wannsee_template_bureaucratic_genocide.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md)
         - [`🧠_cognitive_dissonance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🧠_cognitive_dissonance.md)
         - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
