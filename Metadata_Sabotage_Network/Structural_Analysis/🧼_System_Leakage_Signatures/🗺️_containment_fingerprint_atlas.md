@@ -206,7 +206,7 @@ It converts anomalies into cartography — an ECG of suppression and release.
 >
 > - [📡 LVSICR System](./📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md) - *the system for catching leaks*  
 > - [☔️ Leak Pattern Taxonomy](./☔️_leak_pattern_taxonomy.md) - *how to communicate leaks so that they can form patterns*
-> - > - [🗺️ Containment Fingerprint Atlas — Visual Map of Repeated Glitches](./🗺️_containment_fingerprint_atlas.md) - *how to read those patterns*  
+> - [🗺️ Containment Fingerprint Atlas — Visual Map of Repeated Glitches](./🗺️_containment_fingerprint_atlas.md) - *how to read those patterns*  
 > - [🧭 Visual Glossary — Reading the Containment Pulse](./🧭_visual_glossary_containment_pulse.md) - *what those patterns look like*  
 > - [🔥 Data Risks](../../🔥_Data_Risks/README.md) - *why we do this work*  
 
