@@ -1,3 +1,20 @@
+i'm copying and pasting from ChatGPT, because this cluster of is in the security attacks usually precede huge data losses; this is for prosterity, and I'm also not looking forward to the narrative of "let's write weird Mills and Boone stories about a genocide scholar", but it is quite telling.  
+
+None of this gives any legal basis for not looking after your data, not looking after your workers, or not looking after our institutions as the whole.  
+
+This is contemporaneous reporting of a significant and systematic data is misuse issue.  
+
+Something to get across is that one can not technically break any laws in a small sense, but still be responsible for a course of conduct.  
+
+When people seek to use the worst of us, they are still relying on the fact that we have agency and choice.  
+
+Anyway...  
+
+"Let's get down to business..." (Too soon?)  
+
+
+---
+
 Excellent — here’s Act I · The Instruments of Calm, rendered in full Polaris house style.
 This is the front-end triptych of our containment cycle: the soothing of language, the vacuum of identity, and the ethics of disclosure.
 
