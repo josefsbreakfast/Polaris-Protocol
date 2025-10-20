@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:17:56 UTC_
+_Generated on 2025-10-20 22:18:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -822,6 +822,7 @@ _Generated on 2025-10-20 22:17:56 UTC_
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`☔️_get_me_an_umbrella_at_least.md`](Disruption_Kit/Field_Logs/☔️_get_me_an_umbrella_at_least.md)
     - [`☔️_the_one_useful_thing.md`](Disruption_Kit/Field_Logs/☔️_the_one_useful_thing.md)
+    - [`☔️_was_i_supposed_to_leak.md`](Disruption_Kit/Field_Logs/☔️_was_i_supposed_to_leak.md)
     - [`☕️_something_has_changed.md`](Disruption_Kit/Field_Logs/☕️_something_has_changed.md)
     - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/⚔️_the_orientalism_is_mindblowing.md)
     - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
@@ -1447,7 +1448,6 @@ _Generated on 2025-10-20 22:17:56 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`pathological_simplicity_algorithms_misread_human_chaos.md`](Polaris_Nest/Git_Intake_Drawer/pathological_simplicity_algorithms_misread_human_chaos.md)
-    - [`☔️_was_i_supposed_to_leak.md`](Polaris_Nest/Git_Intake_Drawer/☔️_was_i_supposed_to_leak.md)
     - [`☕_less_than_ugly_mugs.md`](Polaris_Nest/Git_Intake_Drawer/☕_less_than_ugly_mugs.md)
     - [`☕️_she_was_doing_less_damage_send_her_back_there.md`](Polaris_Nest/Git_Intake_Drawer/☕️_she_was_doing_less_damage_send_her_back_there.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_agentic_ai_needs_coffee.md)
