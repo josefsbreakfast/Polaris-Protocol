@@ -1,5 +1,5 @@
 # ⚖️ Due Diligence as Moral Defence  
-**First created:** 2025-10-17 | **Last updated:** 2025-10-17  
+**First created:** 2025-10-17 | **Last updated:** 2025-10-20  
 *Ideological note on how bureaucratic fragmentation erodes accountability and enables atrocity through cultivated ignorance.*
 
 ---
@@ -66,8 +66,9 @@ due diligence, moral accountability, bureaucratic ignorance, atrocity risk, lead
 *⚖️ Due Diligence as Moral Defence* is a living node of the Polaris Protocol.  
 It articulates how governance cultures that fragment responsibility incubate moral blindness — and why leadership requires the courage to know.  
 
-> 📡 Cross-references:  
-> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](🏛️_how_genocidal_bureaucracy_operates_the_wannsee_template.md)  
-> - [🪶 Reading the Dog Whistle](🪶_reading_the_dog_whistle.md)  
+> 📡 Cross-references:
+> 
+> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template] *TBC*  
+> - [🪶 Reading the Dog Whistle] *TBC*  
 
-_Last updated: 2025-10-17_
+_Last updated: 2025-10-20_
