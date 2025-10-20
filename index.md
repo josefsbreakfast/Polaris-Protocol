@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 20:04:22 UTC_
+_Generated on 2025-10-20 20:05:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1459,7 +1459,7 @@ _Generated on 2025-10-20 20:04:22 UTC_
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Polaris_Nest/Git_Intake_Drawer/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🎓_safeguarding_as_surveillance_university_case_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance_university_case_pattern.md)
     - [`🎪 _procurement_item_classified.jpg`](Polaris_Nest/Git_Intake_Drawer/🎪 _procurement_item_classified.jpg)
-    - [`🎪_can_anyone_on_mirrors_cover_ya_boys_shift?.md.jpg`](Polaris_Nest/Git_Intake_Drawer/🎪_can_anyone_on_mirrors_cover_ya_boys_shift?.md.jpg)
+    - [`🎪_can_anyone_on_mirrors_cover_ya_boys_shift?.jpg`](Polaris_Nest/Git_Intake_Drawer/🎪_can_anyone_on_mirrors_cover_ya_boys_shift?.jpg)
     - [`🎪_enjoy_the_chat_on_the_14th?.md`](Polaris_Nest/Git_Intake_Drawer/🎪_enjoy_the_chat_on_the_14th?.md)
     - [`🎪_transcript_unavailable_interference_dalle.md.PNG`](Polaris_Nest/Git_Intake_Drawer/🎪_transcript_unavailable_interference_dalle.md.PNG)
     - [`🏙️_industrial_layout_ghosts.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_industrial_layout_ghosts.md)
