@@ -9,6 +9,7 @@ This node tests the idea that **well-intentioned flexibility** in British law—
 Each statute or policy aims for agility, but in combination they leave a porous surface that adversaries or opportunists can quietly exploit.
 
 It is a **systems-diagnostic**, not an allegation.  
+
 If any live system ever resembled this pattern, it should be escalated through formal oversight (ICO, IPCO, NCSC, Parliamentary Ombudsman).
 
 ---
