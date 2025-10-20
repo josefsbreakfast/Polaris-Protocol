@@ -1,5 +1,5 @@
 # ⚖️ Power, Play, and Containment — The Economics of Structured Desire  
-**First created:** 2025-10-18  |  **Last updated:** 2025-10-18  
+**First created:** 2025-10-18  |  **Last updated:** 2025-10-20  
 *How contractual life turns control into currency.*
 
 ---
