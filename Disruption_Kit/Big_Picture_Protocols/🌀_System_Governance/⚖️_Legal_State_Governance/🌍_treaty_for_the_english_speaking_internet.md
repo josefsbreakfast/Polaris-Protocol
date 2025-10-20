@@ -1,5 +1,5 @@
 # 🌍 Treaty for the English-Speaking Internet  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-15 | **Last updated:** 2025-10-20  
 *A proposal for an inter-English-language federation to fund, govern, and de-sludge the web.*
 
 ---
@@ -69,14 +69,15 @@ digital treaty, english internet, sludge cleanup, public infrastructure, coopera
 
 ## 🏮 Footer  
 
-*Treaty for the English Internet* is a living node of the Polaris Protocol.  
+*🌍 Treaty for the English Internet* is a living node of the Polaris Protocol.  
 It outlines a transnational framework for cleaning, governing, and decolonising the shared English-language web.  
 
-> 📡 Cross-references:  
-> - [💧 Sludgy Solutions](../../Disruption_Kit/Survivor_Tools/💧_sludgy_solutions.md) — countermeasures and cooperative search  
-> - [🧒 How to Internet for Kids](../../Disruption_Kit/Survivor_Tools/🧒_how_to_internet_for_kids.md) — literacy and pedagogy  
-> - [🧿 Watch The Watchers](./🧿_Watch_The_Watchers.md) — oversight architectures  
+> 📡 Cross-references:
+> 
+> - [💧 Sludgy Solutions] *TBC* — *countermeasures and cooperative search*  
+> - [🧒 How to Internet for Kids] *TBC* — *literacy and pedagogy*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight architectures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2025-10-20_
