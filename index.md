@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-20 22:33:26 UTC_
+_Generated on 2025-10-20 22:34:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1011,6 +1011,7 @@ _Generated on 2025-10-20 22:33:26 UTC_
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
     - [`🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md)
     - [`🛰️_transparent_interference_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/🛰️_transparent_interference_field_log_2025-10-04.md)
+    - [`🛰️_undermining_access_to_justice_device_level.md`](Disruption_Kit/Field_Logs/🛰️_undermining_access_to_justice_device_level.md)
     - [`🛰️_university_complicity_protest_suppression_2025-09-05.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05.md)
     - [`🛰️_university_complicity_protest_suppression_2025-09-05_2.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05_2.md)
     - [`🛰️_us_early_consolidation_media_dynamics_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_us_early_consolidation_media_dynamics_2025-09-20.md)
@@ -1507,7 +1508,6 @@ _Generated on 2025-10-20 22:33:26 UTC_
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_reaffirming_statements_of_truth.md)
-    - [`🛰️_undermining_access_to_justice_device_level.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_undermining_access_to_justice_device_level.md)
     - [`🤖_a_robot_thinks_i_am_sus.md`](Polaris_Nest/Git_Intake_Drawer/🤖_a_robot_thinks_i_am_sus.md)
     - [`🥃_the_bar_in_hell.md`](Polaris_Nest/Git_Intake_Drawer/🥃_the_bar_in_hell.md)
     - [`🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md`](Polaris_Nest/Git_Intake_Drawer/🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md)
