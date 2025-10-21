@@ -123,7 +123,7 @@ This schema aligns with the **Metadata Sabotage Network evidence format**, ensur
 
 ---
 
-## 📊 CSV Companion Template — `🔊_signal_integrity_evidence_index.csv`
+## 📊 CSV Companion Template — [🔊_signal_integrity_evidence_index.csv](./🔊_signal_integrity_evidence_index.csv)
 
 | voice_id | file_name | hash_sha256 | recorded_at | device_id | location_context | consent_scope | authored_by | statement | signature | related_nodes | notes | verification_status | last_verified |
 |-----------|------------|--------------|--------------|------------|------------------|----------------|--------------|------------|--------------|----------------|--------|----------------------|----------------|
