@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 18:52:09 UTC_
+_Generated on 2025-10-21 18:53:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -668,6 +668,7 @@ _Generated on 2025-10-21 18:52:09 UTC_
         - [`metadata_twinning_divergence_convergence_amplification.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/metadata_twinning_divergence_convergence_amplification.png)
         - [`ouroboros_ihra_overreach.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ouroboros_ihra_overreach.png)
         - [`overlaid_nda_mesh_local.jpeg`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/overlaid_nda_mesh_local.jpeg)
+        - [`ptsd_decay_curves.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ptsd_decay_curves.png)
         - [`shadow_nda_redacted.pdf`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/shadow_nda_redacted.pdf)
         - [`triple_lock_audit_gap_flow.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/triple_lock_audit_gap_flow.png)
         - [`uk_twinned_estimates.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/uk_twinned_estimates.png)
@@ -832,7 +833,6 @@ _Generated on 2025-10-21 18:52:09 UTC_
     - [`hillside_brightness_histogram.png`](Disruption_Kit/Field_Logs/hillside_brightness_histogram.png)
     - [`hillside_patch_grid.png`](Disruption_Kit/Field_Logs/hillside_patch_grid.png)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
-    - [`ptsd_decay_curves.png`](Disruption_Kit/Field_Logs/ptsd_decay_curves.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`☔️_get_me_an_umbrella_at_least.md`](Disruption_Kit/Field_Logs/☔️_get_me_an_umbrella_at_least.md)
     - [`☔️_the_one_useful_thing.md`](Disruption_Kit/Field_Logs/☔️_the_one_useful_thing.md)
