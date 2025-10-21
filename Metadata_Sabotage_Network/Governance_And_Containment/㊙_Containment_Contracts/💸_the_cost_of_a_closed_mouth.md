@@ -164,14 +164,12 @@ Approx trajectories:
 ## 🛠 Counter-Measures and Points of Reform  
 
 - **Anti-SLAPP legislation:** New UK frameworks must go further than cosmetic gestures. Strong statutes can prevent corporations and wealthy individuals from weaponising libel and injunctions to silence critics.  
-  > 📡 See [🚨 Superinjunctions, SLAPPs & Rape Cases](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md) — case history of how these legal tools warp justice.  
 
 - **Strengthening press regulation:** IPSO is functionally weak; without credible oversight, NDAs and injunctions remain default tools. A regulator with enforcement teeth could shrink the silence market by making media accountability real.  
 
 - **Harassment law reform:** Many NDAs originate in workplace abuse cases. Updating harassment statutes to make gagging unenforceable in such contexts would cut off supply at source.  
 
 - **Medical & research protection:** Current libel law suppresses healthcare transparency and damages trust in science. Legal reform to shield peer review, whistleblowing, and public-interest health reporting is critical.  
-  > 📡 Cross-reference: [⚖️ Key Legal Issues: SARs & NDAs](../../../Polaris_Nest/✨_Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md)  
 
 - **AI law attention:** As mapped in this repo, AI regulation must include protections for annotators, lab techs, and internal critics. Silence loops in training data should be treated as systemic safety risks.  
 
@@ -195,11 +193,11 @@ Approx trajectories:
 - Court time diverted into NDA/superinjunction litigation chokes capacity for public-interest justice.  
 
 **Levers for Reform:**  
-- ✅ Anti-SLAPP law with enforcement teeth (see [🚨 Superinjunctions & SLAPPs](../../../Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md))  
+- ✅ Anti-SLAPP law with enforcement teeth  
 - ✅ Strengthened press regulator with sanction power  
 - ✅ Harassment law reforms to void gagging clauses in abuse contexts  
-- ✅ Libel reform for healthcare & science transparency (see [⚖️ SARs & NDAs](../../../Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md))  
-- ✅ AI law to protect annotators, lab techs, and whistleblowers (see [🇬🇧 Voice Cloning Legislative Response](../../../Polaris_Nest/Git_Intake_Drawer/🇬🇧_voice_cloning_legislative_response.md))  
+- ✅ Libel reform for healthcare & science transparency    
+- ✅ AI law to protect annotators, lab techs, and whistleblowers  
 
 ---
 
@@ -224,7 +222,9 @@ It traces how silence is shaped into an economic object, packaged and traded und
 > 
 > - [🎈 Silence as Infrastructure](./🎈_silence_as_infrastructure.md) — *architectures built on enforced quiet*  
 > - [📠 When Truth Becomes a Trade](./📠_when_truth_becomes_a_trade.md) — *transactional conversion of disclosure*  
-> - [🪁 Contracts That Colonise Memory](./🪁_contracts_that_colonise_memory.md) — *how agreements extend into lived experience*  
+> - [🪁 Contracts That Colonise Memory](./🪁_contracts_that_colonise_memory.md) — *how agreements extend into lived experience*
+> - [⚖️ Key Legal Issues: SARs & NDAs](../../../Polaris_Nest/✨_Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md)
+> - [🚨 Superinjunctions, SLAPPs & Rape Cases](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md) — *case history of how these legal tools warp justice*  
 
 > 🏮 Return to: [㊙ Containment Contracts](./README.md) • [Governance & Containment](../README.md) • [Metadata Sabotage Network](../../README.md)  
 
