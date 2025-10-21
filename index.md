@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 00:45:02 UTC_
+_Generated on 2025-10-21 00:48:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1502,7 +1502,6 @@ _Generated on 2025-10-21 00:45:02 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`_aw_lads_man.md`](Polaris_Nest/Git_Intake_Drawer/_aw_lads_man.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
@@ -1522,6 +1521,7 @@ _Generated on 2025-10-21 00:45:02 UTC_
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_reaffirming_statements_of_truth.md)
+    - [`🤣🎪_aw_lads_man.md`](Polaris_Nest/Git_Intake_Drawer/🤣🎪_aw_lads_man.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🧠_multilock_overlapping_covertion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_covertion.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
