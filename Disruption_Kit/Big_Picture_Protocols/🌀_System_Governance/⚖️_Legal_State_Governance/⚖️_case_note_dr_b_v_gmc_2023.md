@@ -1,10 +1,10 @@
 # ⚖️ Case Note — Dr B v General Medical Council (2023)  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-19 | **Last updated:** 2025-10-21  
 *Judicial recognition of distress-only damages and data-misuse accountability in regulatory contexts.*
 
 ---
 
-## 🧭 Citation  
+## 🧿 Citation  
 
 **[2023] EWHC B10 (KB)** — King’s Bench Division (Misuse of Data)  
 **Judge:** HHJ Belcher (sitting as High Court Judge)  
@@ -33,7 +33,7 @@ The claim challenged the GMC’s assumption that internal investigative function
 
 ---
 
-## 🧩 Principles Derived  
+## 🔥 Principles Derived  
 
 1️⃣ **Foreseeable distress is compensable** even without economic loss.  
 2️⃣ **Regulators and public bodies remain GDPR-bound** and cannot invoke blanket functional immunity.  
@@ -45,7 +45,7 @@ Together these principles re-anchor the tort of misuse of private information al
 
 ---
 
-## 🧭 Relevance to Voice-Suppression Harms  
+## 👾 Relevance to Voice-Suppression Harms  
 
 - Establishes judicial recognition of **psychological harm arising from institutional data misuse**.  
 - Confirms that distress-only damages can compensate for **suppression of expressive voice** and **reputational erasure**.  
@@ -56,7 +56,7 @@ This case bridges data law and psychological accountability within the Polaris �
 
 ---
 
-## 📚 Comparative Authority  
+## 🏛️ Comparative Authority  
 
 | Case | Principle Reinforced |
 |:--|:--|
@@ -101,4 +101,4 @@ The node illustrates how courts interpret emotional injury as a legally recognis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-21_
