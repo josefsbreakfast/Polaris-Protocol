@@ -101,6 +101,30 @@ This scenario exposes how Britain lacks **public protocols** for investigation, 
 
 ---
 
+### ⚔️ 6A. Defence Affiliation, Data Trust, and the Favour Economy  
+
+Military titles and honorary commands link royal figures symbolically to the Ministry of Defence (MOD).  
+While largely ceremonial, that affiliation can blur public understanding of where formal security clearances end and informal influence begins.
+
+#### 1. Theoretical Access Pathways  
+- **OSA adjacency:** individuals with sustained MOD relationships or former service ties may retain privileged networks within OSA-protected domains.  
+- **Data spill risk:** even without direct clearance, perceived proximity to defence actors can enable *informal information requests* (“favour routes”) that circumvent ordinary audit trails.  
+- **Legacy data:** applicant or recruitment records—such as Defence Sixth Form College or service-academy files—can persist under OSA or MOD retention schedules long after civilian life begins, complicating a subject’s ability to verify or delete them.  
+
+#### 2. Governance Blind Spot  
+- The UK has **no published protocol** for auditing data exposure when honorary royals or ex-service dignitaries request information from MOD-linked bodies.  
+- This leaves an *accountability shadow zone*: lawful systems built on assumption of trust rather than traceability.  
+- In a data-coded society, the inability to demonstrate control is itself a breach of confidence.
+
+#### 3. Structural Remedy  
+- **Mandatory transparency log** for any MOD or defence-contractor correspondence involving honorary titles or royal households.  
+- **Periodic OSA–Data Protection reconciliation review** ensuring secrecy classifications cannot mask mis-retained personal data.  
+- **Independent data-integrity ombudsman** empowered to verify destruction or continued retention of legacy defence applicant files upon request.  
+
+Even absent wrongdoing, unanswered questions about who *could* ask for what information under unwritten privilege erode the credibility of national safeguarding architecture.  
+
+---
+
 ## 🛰️ 7. Integrity Risk and Foreign Leverage  
 
 ### 1. **From Personal Scandal to National Exposure**  
