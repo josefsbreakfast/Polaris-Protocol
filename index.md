@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 13:49:52 UTC_
+_Generated on 2025-10-21 14:00:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1549,6 +1549,7 @@ _Generated on 2025-10-21 13:49:52 UTC_
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🪄_impacted_cache.md`](Polaris_Nest/Git_Intake_Drawer/🪄_impacted_cache.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
+    - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Polaris_Nest/Git_Intake_Drawer/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
