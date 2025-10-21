@@ -1,5 +1,5 @@
 # 💸 The Cost of a Closed Mouth  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-22  
 *Economic analysis of how silence is valued, traded, and weaponised.*
 
 ---
@@ -220,17 +220,17 @@ economics of silence, nda market, systemic risk, ai bias, innovation drag, uk ec
 
 ## 🏮 Footer  
 
-*The Cost of a Closed Mouth* is a living node of the Polaris Protocol.  
+*💸 The Cost of a Closed Mouth* is a living node of the Polaris Protocol.  
 It traces how silence is shaped into an economic object, packaged and traded under the guise of contract law and risk management.  
 
 > 📡 Cross-references:
 > 
-> - [🎈 Silence as Infrastructure](./🎈_silence_as_infrastructure.md) — architectures built on enforced quiet  
-> - [📠 When Truth Becomes a Trade](./📠_when_truth_becomes_a_trade.md) — transactional conversion of disclosure  
-> - [🪁 Contracts That Colonise Memory](./🪁_contracts_that_colonise_memory.md) — how agreements extend into lived experience  
+> - [🎈 Silence as Infrastructure](./🎈_silence_as_infrastructure.md) — *architectures built on enforced quiet*  
+> - [📠 When Truth Becomes a Trade](./📠_when_truth_becomes_a_trade.md) — *transactional conversion of disclosure*  
+> - [🪁 Contracts That Colonise Memory](./🪁_contracts_that_colonise_memory.md) — *how agreements extend into lived experience*  
 
 > 🏮 Return to: [㊙ Containment Contracts](./README.md) • [Governance & Containment](../README.md) • [Metadata Sabotage Network](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
