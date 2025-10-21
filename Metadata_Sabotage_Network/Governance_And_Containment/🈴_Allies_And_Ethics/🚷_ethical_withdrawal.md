@@ -1,25 +1,25 @@
 # 🚷 Ethical Withdrawal  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *On the ethics of stepping back without abandonment.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Investigates withdrawal as a moral act: when disengagement, silence, or distance preserve integrity better than continued collaboration.  
 Positions refusal and exit as legitimate ethical responses to coercive partnership.
 
 ---
 
-## 📑 Key Sections  
-1. The Myth of Perpetual Engagement  
-2. Withdrawal vs Abandonment  
-3. Designing Exit Ramps  
-4. Aftercare and Narrative Clarity  
+## ✨ Key Sections  
+🦆 The Myth of Perpetual Engagement  
+🦩 Withdrawal vs Abandonment  
+🕊️ Designing Exit Ramps  
+🪬 Aftercare and Narrative Clarity  
 
 ---
 
 ## 🌌 Constellations  
-🚷 🈴 🧩 ⚖️ — refusal, autonomy, ethics of absence, survivorship.
+🚷 🈴 🦩 🧩 ⚖️ — refusal, autonomy, ethics of absence, survivorship.
 
 ---
 
@@ -35,8 +35,7 @@ It recognises stepping away as a valid form of survivor protection and moral cla
 > 📡 Cross-references:
 > 
 > - [🈴 Allies & Ethics README](./README.md)  
-> - [⚖️ Reciprocal Accountability Protocol](./⚖️_reciprocal_accountability_protocol.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
