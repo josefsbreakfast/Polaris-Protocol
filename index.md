@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 12:58:02 UTC_
+_Generated on 2025-10-21 13:46:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1540,6 +1540,7 @@ _Generated on 2025-10-21 12:58:02 UTC_
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
     - [`🧰_upstream_compromise_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_checklist.md)
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
+    - [`🧿_i_see_you.PNG`](Polaris_Nest/Git_Intake_Drawer/🧿_i_see_you.PNG)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
