@@ -1,25 +1,25 @@
-# 🧵 Soft Capture — The Intimacy of Oversight  
+# 🧶 Soft Capture — The Intimacy of Oversight  
 **First created:** 2025-10-10 | **Last updated:** 2025-10-19  
 *When closeness and care become instruments of control.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Explores relational capture: mentorships, care structures, and “support” roles that blur into soft surveillance.  
 Asks how intimacy is weaponised to normalise observation.
 
 ---
 
-## 📑 Key Sections  
-1. The Affective State Apparatus  
-2. Oversight by Friendship  
-3. Emotional Surveillance Infrastructure  
-4. Reclaiming Safe Distance  
+## ✨ Key Sections  
+🦠 The Affective State Apparatus  
+🪩 Oversight by Friendship  
+🔮 Emotional Surveillance Infrastructure  
+🐉 Reclaiming Safe Distance  
 
 ---
 
 ## 🌌 Constellations  
-🧵 🤝 🈴 🪞 — soft containment, intimacy politics, ethical drift, autonomy.
+🧶 🤝 🐉 🈴 🪞 — soft containment, intimacy politics, ethical drift, autonomy.
 
 ---
 
@@ -29,7 +29,7 @@ soft containment, oversight, intimacy, surveillance, mentorship, care, proximity
 ---
 
 ## 🏮 Footer  
-*🧵 Soft Capture — The Intimacy of Oversight* is a living node of the Polaris Protocol.  
+*🧶 Soft Capture — The Intimacy of Oversight* is a living node of the Polaris Protocol.  
 It studies how oversight hides in affection, trust, and administrative care.
 
 > 📡 Cross-references:
@@ -39,4 +39,4 @@ It studies how oversight hides in affection, trust, and administrative care.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
