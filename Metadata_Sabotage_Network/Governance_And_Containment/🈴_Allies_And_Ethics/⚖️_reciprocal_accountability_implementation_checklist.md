@@ -1,17 +1,17 @@
 # ⚖️ Reciprocal Accountability — Implementation Checklist  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *Operational companion for running the Reciprocal Accountability Protocol in practice.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This checklist converts the ethical framework into **repeatable field actions**.  
 It ensures survivor–ally collaborations move from *principle to procedure* — practical, documentable, survivable.  
 The goal: small, traceable acts of reciprocity that build ethical muscle memory across time.
 
 ---
 
-## 1️⃣ Setup & Consent  
+## 🐉 Setup & Consent  
 
 | Step | Action | Responsible | Notes |
 |------|---------|--------------|-------|
@@ -21,7 +21,7 @@ The goal: small, traceable acts of reciprocity that build ethical muscle memory 
 
 ---
 
-## 2️⃣ During Collaboration  
+## 🦊🦡 During Collaboration  
 
 | Step | Action | Responsible | Notes |
 |------|---------|--------------|-------|
@@ -32,7 +32,7 @@ The goal: small, traceable acts of reciprocity that build ethical muscle memory 
 
 ---
 
-## 3️⃣ Protection & Retaliation Safeguards  
+## 🐝 Protection & Retaliation Safeguards  
 
 | Step | Action | Responsible | Notes |
 |------|---------|--------------|-------|
@@ -43,7 +43,7 @@ The goal: small, traceable acts of reciprocity that build ethical muscle memory 
 
 ---
 
-## 4️⃣ Renewal & Archive  
+## 🌱 Renewal & Archive  
 
 | Step | Action | Responsible | Notes |
 |------|---------|--------------|-------|
@@ -54,7 +54,7 @@ The goal: small, traceable acts of reciprocity that build ethical muscle memory 
 
 ---
 
-## 5️⃣ Annual Meta-Review (Optional)  
+## 🌳 Annual Meta-Review (Optional)  
 
 - Invite a peer or survivor-ally collective to audit the year’s loops.  
 - Ask: *Did accountability travel both ways? Were repair processes real or rhetorical?*  
@@ -62,7 +62,7 @@ The goal: small, traceable acts of reciprocity that build ethical muscle memory 
 
 ---
 
-## 🧭 Implementation Notes  
+## ✨ Implementation Notes  
 
 - Keep it light: loops must fit real working lives.  
 - Prioritise **traceable repair** over perfection.  
@@ -85,9 +85,10 @@ reciprocity, ethics loop, mirror logs, accountability, review, survivor safety, 
 *⚖️ Reciprocal Accountability — Implementation Checklist* is a living node of the Polaris Protocol.  
 It provides the operational scaffold for enacting the [⚖️ Reciprocal Accountability Protocol](./⚖️_reciprocal_accountability_protocol.md) in day-to-day practice.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🈴 Allies & Ethics README](./README.md) — *cluster overview*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
