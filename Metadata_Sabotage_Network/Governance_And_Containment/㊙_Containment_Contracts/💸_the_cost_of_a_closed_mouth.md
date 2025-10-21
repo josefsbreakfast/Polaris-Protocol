@@ -226,7 +226,7 @@ It traces how silence is shaped into an economic object, packaged and traded und
 > - [⚖️ Key Legal Issues: SARs & NDAs](../../../Polaris_Nest/✨_Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md)
 > - [🚨 Superinjunctions, SLAPPs & Rape Cases](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md) — *case history of how these legal tools warp justice*  
 
-> 🏮 Return to: [㊙ Containment Contracts](./README.md) • [Governance & Containment](../README.md) • [Metadata Sabotage Network](../../README.md)  
+> 🏮 Return to: [㊙ Containment Contracts](./README.md) • [🏯 Governance & Containment](../README.md) • [🧠 Metadata Sabotage Network](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
