@@ -17,7 +17,7 @@ bloody yorkshiremen ffs.
 
 ### completely predictable solution to the problem:  
 
-- Download a reliable app to differentiate electromagnetic wave forms, because it doesnt match mechanucal means, because if it is a transformer in a nearby building/flat, definitely need to show your Landlord a thing is actually gappening so they actually have grounds to do anything.  
+- Download a reliable app to differentiate electromagnetic wave forms, because it doesnt match mechanical means, because if it is a transformer in a nearby building/flat, definitely need to show your Landlord a thing is actually happening so they actually have grounds to do anything, because you are a moderately useful tenant.  
 - You don't need to go any further just download the app.
 - Obviously this is just how electrical physics works;
 
