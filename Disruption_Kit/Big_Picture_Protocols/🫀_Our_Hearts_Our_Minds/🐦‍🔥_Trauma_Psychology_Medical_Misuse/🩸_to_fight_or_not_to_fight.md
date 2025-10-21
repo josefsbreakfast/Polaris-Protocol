@@ -72,7 +72,7 @@ It maps the emotional toll of delayed response and the survival logic of waiting
 
 > 📡 Cross-references:  
 > - [🐝 Body Politic](../🐝_Body_Politic/README.md) — *collective regulation and somatic governance*  
-> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/🧠_Psychological_Containment/README.md) — *mechanisms of emotional suspension*  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *mechanisms of emotional suspension*  
 > - [🗝️ Politics Memory Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md) — *narrative control through omission*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
