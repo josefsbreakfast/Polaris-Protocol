@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 10:23:15 UTC_
+_Generated on 2025-10-21 10:32:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1504,6 +1504,7 @@ _Generated on 2025-10-21 10:23:15 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`ptsd_decay_curves.png`](Polaris_Nest/Git_Intake_Drawer/ptsd_decay_curves.png)
+    - [`⚡_ptsd_is_not_a_jump_scare.md`](Polaris_Nest/Git_Intake_Drawer/⚡_ptsd_is_not_a_jump_scare.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG`](Polaris_Nest/Git_Intake_Drawer/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
