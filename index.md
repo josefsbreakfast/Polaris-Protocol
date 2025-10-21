@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 10:54:39 UTC_
+_Generated on 2025-10-21 12:05:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1544,6 +1544,7 @@ _Generated on 2025-10-21 10:54:39 UTC_
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
+    - [`🪄_impacted_cache.md`](Polaris_Nest/Git_Intake_Drawer/🪄_impacted_cache.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Polaris_Nest/Git_Intake_Drawer/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
