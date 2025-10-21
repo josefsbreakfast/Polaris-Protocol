@@ -1,5 +1,5 @@
 # ⚖️ Reciprocal Accountability Protocol  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *A framework for two-way ethical review between survivors and allies.*
 
 ---
@@ -72,7 +72,7 @@ Feedback here is **maintenance, not judgement**—the tuning of an ethical instr
 
 ---
 
-## 3️⃣ Protection Against Retaliation  
+## 🐍 Protection Against Retaliation  
 
 Accountability cannot survive fear.  
 Therefore:
@@ -87,7 +87,7 @@ Its presence marks the failure of the system to practise the reciprocity it clai
 
 ---
 
-## 4️⃣ Renewal, Not Ruin  
+## 🍄 Renewal, Not Ruin  
 
 The purpose of critique is repair.  
 
@@ -122,4 +122,4 @@ It provides scaffolding for ethical maintenance within survivor–ally collabora
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
