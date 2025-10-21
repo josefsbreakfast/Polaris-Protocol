@@ -68,4 +68,43 @@ To assume that you are somehow not seen, just because you haven't been asked dir
 
 I find it really hard to believe that some people can think that they are above the law, when they are literally mechanisms that exist to audit you as well.  
 
-Anyways, adios.  
+---
+
+
+this is what I need to read to understand:  
+
+Because of communications interference, especially with tools I use for accessibility, I can literally write nearly 750,000 words on politically and socially contentious subject matter, and yet, if I try to construct one letter or one timeline to a regulator, or speak to one solicitor?  
+
+Essentially made impossible.  
+
+I need everyone reading this to understand how profoundly strange that is.  
+
+I need everyone reading this to understand that that does not look like "just a glitch"; it is repeatable over a course of time.  
+
+So how am I supposed to get my democratic rights back?  
+
+Every time I go to any sort of process or procedure addressing anything that might even touch on any potential surveillance in place?  
+
+Communications issues.  
+
+Real world harm.  
+
+Healthcare interference.  
+
+Legal system interference.  
+
+Someone needs to explain to me how on earth I'm supposed to do anything about it, or:  
+
+Stop telling me what I'm doing wrong, because nothing I'm doing is wrong.  
+
+I've tried many times.  
+
+I've tried in different ways.  
+
+I'm not doing anything wrong.  
+
+There is something in my way.  
+
+Concentrating on anything else, is limiting my ability to get any of this sorted.  
+
+---
