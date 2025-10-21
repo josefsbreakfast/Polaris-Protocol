@@ -1,5 +1,5 @@
 # 🧭 Attractor Map — Suppression ↔ Contract  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-19 | **Last updated:** 2025-10-21  
 *Genealogy of motifs across Polaris: how 🔥 epistemic suppression and ⚖️ legal contract act as twin attractors for downstream nodes.*  
 
 ---
