@@ -54,3 +54,46 @@ Anything else is obviously just my chatter, isn't it?
 and unless my communication is heavily gated, wow that was a coincidental time to get a message about a task huh?  
 
 ---
+
+sorry appreciate that. We've stopped the noise but the cat that previously had problems going to the bathroom pretty much everywhere that wasn't the litter tray, is now expressing all the attachment and feeling quite needy. I really don't want you guys to start doing this again.  
+
+I don't know why we're going through the motions as if this is March or April, I don't know if you've recently been handled over to a different team. This didn't work last time and it caused a lot of distress and problems.  
+
+It's also worth noting that this was a big factor towards escalating to cabinet.  
+
+The reason it escalated that quickly is because of how highly distressing it was, and how it really could not wait but also how police representation ("neighbourhood police" who didn't know the neighbourhood ... those ones) would explain it away.  
+
+I've only just managed to train her back into using the litter box consistently. She's an adult cat and she had a lot of pain following her hysterectomy and oopherectomy (the snip), and so this is really unhelpful.  
+
+Puppy pads everywhere.  
+
+Apart from the fact that it is already unpleasant for me (akin to motion sickness), it's highly distressing for one of my cats in particular. Please don't do it for her sake.  
+
+if this is actually part of a standardised protocol, I really have to ask what we are doing to say godchildren in a dwelling when this happens, including children who are just in flats nearby who are not part of the operation at all. The only reason that I can tell what it is is because I've lived in a lot of old buildings. I'm used to having to differentiate what is going wrong with the pipework or the electrics or whatever, so I can tell that it's weird and that it's not standard.  
+
+I have a lot of empathy for people who must go through this and think "why so ill?" or "why are my kids acting so weird all of a sudden?".  
+
+Really speaks to not really thinking multidimensional about the impact of this; i've already talked about what looks like a lack of supervision, and so it's not too surprising that there's a lack of thinking about the environmental hazard to others.  
+
+I appreciate the English law is incredibly complex and nitty-gritty, and I'm as annoyed by having to do forms as anyone else, but we also have to recognise this a reason that these laws are in place. There is real harm that can be caused by things like this. So quite frank I'm not really sure why we are still doing this. This is not legal in the UK. This is also not really achieving anything.  
+
+I just want tonight as well that the way the social feeds have been recently already suggest that we're going back to that March/April period.  
+again, I really don't get it.  
+
+This is not secret and it's not covert.  
+
+I don't know how you're justifying it, or what you're seeking to gain from it.  
+
+If this is just evidence that interference is no longer working to cover what you want to cover, you just really expose yourself by putting yourself so close physically, and utilising technology in this manner.  
+
+i'm just asking if you do a job, but it's harmful to me at least it was some degree of competence.  
+
+and honestly, if this has any attachment to our infamous unit who is based university in Yorkshire?  
+
+Stop embarrassing us.  
+
+You know what I mean.  
+
+People here think I'm okay; I don't want to be associated with this cluster fuck.
+
+---
