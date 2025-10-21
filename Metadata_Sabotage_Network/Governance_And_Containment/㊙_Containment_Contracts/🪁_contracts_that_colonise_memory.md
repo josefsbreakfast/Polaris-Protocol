@@ -1,5 +1,5 @@
 # 🪁 Contracts That Colonise Memory  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-22  
 *How NDAs reshape memory landscapes and overwrite collective recall.*  
 
 ---
@@ -117,7 +117,9 @@ This is not individual pathology. It is engineered amnesia.
 
 ---
 
-## 🎞️ Constellation  
+## 🌌 Constellations  
+
+🪁 🧿 🌲 🔮 🪜 — This node sits in the governance–memory constellation, tracing how contractual silence colonises collective and embodied recall.  
 
 - **Books**  
   - *The Binding* (Bridget Collins) — memory literally bound and traded.  
@@ -135,12 +137,6 @@ This is not individual pathology. It is engineered amnesia.
 
 ---
 
-## 🌌 Constellations  
-
-🪁 🧿 🌲 🔮 🪜 — This node sits in the governance–memory constellation, tracing how contractual silence colonises collective and embodied recall.  
-
----
-
 ## ✨ Stardust  
 
 nda colonisation, memory suppression, collective amnesia, survivor testimony, cultural memory, counter-archives, living archives, containment contracts, governance containment, survivor voice  
@@ -155,9 +151,9 @@ It examines how contractual silence alters memory itself, embedding erasure as t
 > 📡 Cross-references:
 > 
 > - [㊙ Containment Contracts — README](./README.md)  
-> - [🏯 Governance & Containment — README](../)  
+> - [🏯 Governance & Containment — README](../README.md)  
 > - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
