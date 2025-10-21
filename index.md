@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 19:22:09 UTC_
+_Generated on 2025-10-21 19:22:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1066,6 +1066,7 @@ _Generated on 2025-10-21 19:22:09 UTC_
     - [`🧫_is_this_your_drug_allergy.md`](Disruption_Kit/Field_Logs/🧫_is_this_your_drug_allergy.md)
     - [`🧬_dopamine_depletion_log.md`](Disruption_Kit/Field_Logs/🧬_dopamine_depletion_log.md)
     - [`🧬_mrna_but_make_it_auditing_the_men.md`](Disruption_Kit/Field_Logs/🧬_mrna_but_make_it_auditing_the_men.md)
+    - [`🧭_attractor_map_suppression_contract.md`](Disruption_Kit/Field_Logs/🧭_attractor_map_suppression_contract.md)
     - [`🧮_7_day_word_count_analysis.md`](Disruption_Kit/Field_Logs/🧮_7_day_word_count_analysis.md)
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
@@ -1545,7 +1546,6 @@ _Generated on 2025-10-21 19:22:09 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧬_collocative_deintegrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_deintegrity.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
-    - [`🧭_attractor_map_suppression_contract.md`](Polaris_Nest/Git_Intake_Drawer/🧭_attractor_map_suppression_contract.md)
     - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
