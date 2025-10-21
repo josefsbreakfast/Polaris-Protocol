@@ -85,7 +85,7 @@ It documents diagnostic signs that personal data has been structurally merged wi
 
 > 📡 Cross-references:
 > 
-> - [🧼 System Leakage Signatures](..README.md) — *logs of leakage and hidden structural errors*  
+> - [🧼 System Leakage Signatures](./README.md) — *logs of leakage and hidden structural errors*  
 > - [🧬 Deliberate Metadata Twinning](../🧬_Structural_Mapping/🧬_deliberate_metadata_twinning.md) — *upstream typology of twinning processes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
