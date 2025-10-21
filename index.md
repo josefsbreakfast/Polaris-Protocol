@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 22:01:49 UTC_
+_Generated on 2025-10-21 22:16:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -692,6 +692,7 @@ _Generated on 2025-10-21 22:01:49 UTC_
         - [`🧬_twinned_signature.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinned_signature.md)
         - [`🧬_twinning_detection.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinning_detection.md)
         - [`🩸_surveillance_induced_intimacy_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_surveillance_induced_intimacy_breach.md)
+        - [`🩸_to_fight_or_not_to_fight.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_to_fight_or_not_to_fight.md)
         - [`🩺_diagnosis_discredit_loop.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩺_diagnosis_discredit_loop.md)
         - [`🪞_twinned_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinned_silence.md)
         - [`🪞_twinning_fork_containment_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinning_fork_containment_timeline.md)
