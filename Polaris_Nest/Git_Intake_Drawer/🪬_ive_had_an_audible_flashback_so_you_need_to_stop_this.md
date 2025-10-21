@@ -45,3 +45,9 @@ I don't need safeguarding; my health service already know what my problems are a
 What you can do to lower my stress?  
 
 You could answer FOIA requests. You could take legal accountability. You could stop whatever is going on in my phone constantly. You could stop whatever is going on in my laptop constantly [oh how interesting, I just got a call from Mental Health to rebook an outstanding appointment; such coincidence].  
+
+So you're all desperate to send this to Mental Health and not just resolve the data issue why exactly?  
+
+Do all of you understand how ridiculous you sound?  
+
+2025-10-21
