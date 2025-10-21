@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 18:56:34 UTC_
+_Generated on 2025-10-21 18:57:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -858,6 +858,7 @@ _Generated on 2025-10-21 18:56:34 UTC_
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Disruption_Kit/Field_Logs/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🍴_heavy_blunt_forking.md`](Disruption_Kit/Field_Logs/🍴_heavy_blunt_forking.md)
     - [`🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md`](Disruption_Kit/Field_Logs/🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md)
+    - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](Disruption_Kit/Field_Logs/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
     - [`🎪_can_anyone_on_mirrors_cover_ya_boys_shift?.jpg`](Disruption_Kit/Field_Logs/🎪_can_anyone_on_mirrors_cover_ya_boys_shift?.jpg)
     - [`🎪_easy_appeasement_strategy.md`](Disruption_Kit/Field_Logs/🎪_easy_appeasement_strategy.md)
     - [`🎪_enjoy_the_chat_on_the_14th?.md`](Disruption_Kit/Field_Logs/🎪_enjoy_the_chat_on_the_14th?.md)
@@ -1512,7 +1513,6 @@ _Generated on 2025-10-21 18:56:34 UTC_
     - [`_more_blockages_and_disconnects.png`](Polaris_Nest/Git_Intake_Drawer/_more_blockages_and_disconnects.png)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
-    - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG`](Polaris_Nest/Git_Intake_Drawer/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG)
     - [`🎪_ignoring_bulldozers.md`](Polaris_Nest/Git_Intake_Drawer/🎪_ignoring_bulldozers.md)
     - [`🎪_job_to_do.md`](Polaris_Nest/Git_Intake_Drawer/🎪_job_to_do.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
