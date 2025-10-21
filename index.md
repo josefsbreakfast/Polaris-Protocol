@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 14:00:35 UTC_
+_Generated on 2025-10-21 14:09:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1508,6 +1508,7 @@ _Generated on 2025-10-21 14:00:35 UTC_
     - [`⚡_ptsd_is_not_a_jump_scare.md`](Polaris_Nest/Git_Intake_Drawer/⚡_ptsd_is_not_a_jump_scare.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG`](Polaris_Nest/Git_Intake_Drawer/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG)
+    - [`🎪_ignoring_bulldozers.md`](Polaris_Nest/Git_Intake_Drawer/🎪_ignoring_bulldozers.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`👾_broke_it_again.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_broke_it_again.PNG)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
