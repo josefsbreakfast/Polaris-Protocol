@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 18:01:12 UTC_
+_Generated on 2025-10-21 18:44:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1514,7 +1514,7 @@ _Generated on 2025-10-21 18:01:12 UTC_
     - [`🎪_ignoring_bulldozers.md`](Polaris_Nest/Git_Intake_Drawer/🎪_ignoring_bulldozers.md)
     - [`🎪_job_to_do.md`](Polaris_Nest/Git_Intake_Drawer/🎪_job_to_do.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
-    - [`👾_broke_it_again.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_broke_it_again.PNG)
+    - [`👾_broke_it_again.png`](Polaris_Nest/Git_Intake_Drawer/👾_broke_it_again.png)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
