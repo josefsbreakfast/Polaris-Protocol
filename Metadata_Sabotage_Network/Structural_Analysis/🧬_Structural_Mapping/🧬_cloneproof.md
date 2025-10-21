@@ -1,6 +1,6 @@
 # 🧬 Cloneproof  
 **First created:** 2025-08-06 | **Last updated:** 2025-10-21  
-*Self-governed voice clone countermeasures for authorship sovereignty.*
+*CLONEPROOF-POL-OPS01: Self-governed voice clone countermeasures for authorship sovereignty.*
 
 ---
 
