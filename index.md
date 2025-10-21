@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 18:45:17 UTC_
+_Generated on 2025-10-21 18:49:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -382,6 +382,7 @@ _Generated on 2025-10-21 18:45:17 UTC_
         - [`🌐_digital_sovereignty_deterritorial_cloud.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌐_digital_sovereignty_deterritorial_cloud.md)
         - [`🏛️_political_perverts.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_political_perverts.md)
         - [`🏛️_procedural_gatekeeping.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_procedural_gatekeeping.md)
+        - [`👑_crown_immunity_and_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/👑_crown_immunity_and_integrity.md)
         - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_identity_documents_act_2010.md)
         - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_data_bill_2025.md)
         - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_house_of_lords_2025.md)
