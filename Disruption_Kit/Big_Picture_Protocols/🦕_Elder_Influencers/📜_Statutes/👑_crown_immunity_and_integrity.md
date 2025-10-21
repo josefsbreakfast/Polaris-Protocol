@@ -8,6 +8,8 @@
 This node examines how the British constitutional order handles — or fails to handle — criminal accountability within the royal family.  
 It traces the gap between theoretical equality before the law and the cultural insulation of monarchy, showing how that gap produces risk, impunity, trauma replication, and national-security exposure.  
 
+---
+
 ⚠️ *Comment limited: we are not making specific allegations, and we are giving aurvivor testimony of a sadly deceased survivor (z"L) of trafficking room to breathe in the press. This is not to negate this testimony, but I am recognising that I cannot keep reading about these subjects without time to process due to my own experiences. As no case has been heard in a way recognised under UK law, this node talks about some of the anxieties and concerns from a survivor's viewpoint that persist precisely because of what is not confirmed in public.*  
 
 *The concept of this node is not to deny due process, but to recognise and flg the riaks that persist not only in one case discussed in the press, but also recognise a history of cases with powerful public figures, largely left with survivors unsupported and without a sense of justice within the UK.*
@@ -352,6 +354,23 @@ Citizens need to *see* that every rank can be asked to explain itself.
 Refusing to question the powerful breeds despair in the powerless.  
 Justice must apply upward as well as downward.  
 Until the highest can be questioned, the lowest will not believe in reform.  
+
+---
+
+## 🧩 Epilogue — Vacuum of Accountability and the Birth of Conspiracy  
+
+When institutions answer public concern with silence, the imagination fills the gap.  
+Citizens are instructed to “See it, say it, sort it,” yet when allegations brush the powerful, the message becomes “Nothing to see here.”  
+That contradiction is not neutrality — it is gaslighting on a national scale.  
+
+Unable to reconcile everyday vigilance with elite impunity, people redirect their fear and moral outrage toward *explainable villains*.  
+Conspiracy movements like **QAnon** and **Pizzagate** grow from this vacuum.  
+They recycle the genuine emotional truth — that children have been harmed and institutions have lied — but graft it onto invented enemies.  
+What begins as a cry for justice mutates into a hunt for scapegoats.  
+
+Every unexamined scandal in high places therefore becomes recruitment material for the next wave of extremist myth-making.  
+Accountability is not only an ethical duty; it is a counter-radicalisation strategy.  
+The surest way to defeat disinformation is to make truth visible before others weaponise its absence.  
 
 ---
 
