@@ -1,24 +1,24 @@
 # 🧬 Distributed Trust — Survivor-Led Ethics Infrastructure  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *Blueprint for decentralised, survivor-governed ethics models.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Explores how ethics could operate outside carceral or institutional oversight — through peer governance, transparent decision-records, and distributed consent verification.
 
 ---
 
-## 📑 Key Sections  
-1. The Limits of Institutional Ethics  
-2. Peer-Governed Review Models  
-3. Distributed Trust Ledger  
-4. Practical Pilots & Case Examples  
+## ✨ Key Sections  
+🏛️ The Limits of Institutional Ethics  
+🧿 Peer-Governed Review Models  
+🎋 Distributed Trust Ledger  
+🌿 Practical Pilots & Case Examples  
 
 ---
 
 ## 🌌 Constellations  
-🧬 🈴 ⚖️ 🔮 — decentralisation, autonomy, ethics architecture.
+🧬 🈴 🎋 ⚖️ 🔮 — decentralisation, autonomy, ethics architecture.
 
 ---
 
@@ -38,4 +38,4 @@ It designs mechanisms for ethical review without institutional containment.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
