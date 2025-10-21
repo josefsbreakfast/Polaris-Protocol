@@ -1,5 +1,5 @@
 # 🕸️ Dragnet as Default  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-22  
 *When isolated silencing becomes the default operating mode across systems.*  
 
 ---
@@ -99,7 +99,9 @@ and truth is not exceptional.
 
 ---
 
-## 🎞️ Constellation  
+## 🌌 Constellations  
+
+🕸️ 🧿 💭 🔮 🪜 — This node sits in the governance-memory constellation, charting how containment logic scales until silence becomes atmosphere.  
 
 - **Books**  
   - *The Memory Police* (Yoko Ogawa) — collective forgetting enforced until absence is routine.  
@@ -115,12 +117,6 @@ and truth is not exceptional.
 
 ---
 
-## 🌌 Constellations  
-
-🕸️ 🧿 💭 🔮 🪜 — This node sits in the governance-memory constellation, charting how containment logic scales until silence becomes atmosphere.  
-
----
-
 ## ✨ Stardust  
 
 silence normalisation, nda reflex, institutional containment, shadowbans, self-censorship, governance logic, survivor testimony, cultural seepage, systemic erasure, visibility suppression  
@@ -129,15 +125,15 @@ silence normalisation, nda reflex, institutional containment, shadowbans, self-c
 
 ## 🏮 Footer  
 
-*Dragnet as Default* is a living node of the Polaris Protocol.  
+*🕸️ Dragnet as Default* is a living node of the Polaris Protocol.  
 It maps how containment practices expand until silence itself becomes the assumed condition.  
 
 > 📡 Cross-references:
 > 
 > - [㊙ Containment Contracts — README](./README.md)  
-> - [🏯 Governance & Containment — README](../)  
+> - [🏯 Governance & Containment — README](../README.md)  
 > - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
