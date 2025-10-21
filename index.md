@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 18:55:00 UTC_
+_Generated on 2025-10-21 18:56:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -839,6 +839,7 @@ _Generated on 2025-10-21 18:55:00 UTC_
     - [`☔️_the_one_useful_thing.md`](Disruption_Kit/Field_Logs/☔️_the_one_useful_thing.md)
     - [`☔️_was_i_supposed_to_leak.md`](Disruption_Kit/Field_Logs/☔️_was_i_supposed_to_leak.md)
     - [`☕_less_than_ugly_mugs.md`](Disruption_Kit/Field_Logs/☕_less_than_ugly_mugs.md)
+    - [`☕️_content_warning.md`](Disruption_Kit/Field_Logs/☕️_content_warning.md)
     - [`☕️_she_was_doing_less_damage_send_her_back_there.md`](Disruption_Kit/Field_Logs/☕️_she_was_doing_less_damage_send_her_back_there.md)
     - [`☕️_something_has_changed.md`](Disruption_Kit/Field_Logs/☕️_something_has_changed.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Disruption_Kit/Field_Logs/☕️_the_agentic_ai_needs_coffee.md)
@@ -1510,7 +1511,6 @@ _Generated on 2025-10-21 18:55:00 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`_more_blockages_and_disconnects.png`](Polaris_Nest/Git_Intake_Drawer/_more_blockages_and_disconnects.png)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`☕️_content_warning.md`](Polaris_Nest/Git_Intake_Drawer/☕️_content_warning.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG`](Polaris_Nest/Git_Intake_Drawer/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG)
     - [`🎪_ignoring_bulldozers.md`](Polaris_Nest/Git_Intake_Drawer/🎪_ignoring_bulldozers.md)
