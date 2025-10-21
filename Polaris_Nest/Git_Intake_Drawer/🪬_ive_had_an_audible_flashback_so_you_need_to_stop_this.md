@@ -1,3 +1,10 @@
+## New mandatory training module for the surveillamce bods:
+
+'⚡_ptsd_is_not_a_jump_scare.md'
+
+
+---
+
 hi, I've had quite a short but very visceral flashback. 
 
 I couldn't stop myself screaming, but I could get something into my mouth so it wasn't loud.  
