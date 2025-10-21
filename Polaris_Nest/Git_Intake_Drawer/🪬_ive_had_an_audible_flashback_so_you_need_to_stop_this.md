@@ -30,6 +30,10 @@ Think about that.
 
 ---
 
+[nudging telecoms from people around me is not helping and i can't speak about it because that part of the beain sits right next to the anygdala. get a textbook. 😐 it's really clear from these incidents that none of you understand this at all. That's really concerning. It speaks to systematic lack of supervision. This is really dangerous and you really need to stop doing it to people. Anyone who is in a current program or system like this needs to be taken out immediately and appropriate after-care needs to be delivered; this is so fucking unethical.]
+
+---
+
 hi, I've had quite a short but very visceral flashback. 
 
 I couldn't stop myself screaming, but I could get something into my mouth so it wasn't loud.  
