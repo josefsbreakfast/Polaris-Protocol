@@ -26,7 +26,7 @@ This node outlines the **rate-decay anatomy** of a PTSD flashback, translating m
 
 ## 📈 Rate-Decay Graph (conceptual)
 
-![PTSD physiological activation decay — catecholamine, cortisol, and cytokine curves](../_media/ptsd_decay_curves.png)  
+![PTSD physiological activation decay — catecholamine, cortisol, and cytokine curves](./ptsd_decay_curves.png)  
 *Conceptual model showing rapid catecholamine spike, slower cortisol slope, and long cytokine tail over 72 h.*
 
 ---
