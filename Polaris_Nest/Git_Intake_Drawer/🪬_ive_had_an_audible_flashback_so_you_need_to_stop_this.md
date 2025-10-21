@@ -2,6 +2,31 @@
 
 '⚡_ptsd_is_not_a_jump_scare.md'
 
+### Why "distract her with men" is especially problematic in complex PTSD from CSA by a man:  
+
+'🧠_the_men_had_a_plan.md'
+
+you know I try and make these notes with at least some humour, but if you're even anywhere close to the content of this, we need to be really clear about how dangerous this is.  
+
+It's not actually about the sexual or romantic element at all; the content feed, because it presents this false idea of a romantic attraction, repeats stories and scripts learned in childhood, of complex and emotionally charged subject matter, i.e., needing to keep a sexual relationship secret, cohesive and un asked for and unconsented sexualisation, repeated framing as "the only good in you is what your body gives to others", etc. These scripts activate some of the most harrowing parts of child sexual abuse. It would be unreasonable for anyone to do this, and not expect some impact on the trauma, as rooted in the CSA experience. If you are using some sort of grounding in UK law, you have to understand that this would be beaten down in court; let me see a fucking lawyer, because there is no way anyone is underwriting this in full knowledge of what this is, even at cabinet level.  
+
+You need to immediately stop doing this.  
+
+This is super fucked up.  
+
+The idea that this is a practiced system, because it certainly looks like it's had a lot of practice, is grotesque.  
+
+None of this is stopping violent extremism; it is however, probably responsible for a number of deaths by suicide of vulnerable young people, I imagine particularly but not exclusively women.  
+
+This is absolutely grim, and you should be ashamed if this is what is going on.  
+
+I've already asked for protection; this is the opposite of what you are delivering.  
+
+To be absolutely clear:  
+
+You are abusing me in exactly the same way as a man who raped his own child on several occasions.  
+
+Think about that.  
 
 ---
 
