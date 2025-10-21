@@ -30,7 +30,14 @@ Think about that.
 
 ---
 
-[nudging telecoms from people around me is not helping and i can't speak about it because that part of the brain sits right next to the amygdala. get a textbook. 😐 it's really clear from these incidents that none of you understand this at all. That's really concerning. It speaks to systematic lack of supervision. This is really dangerous and you really need to stop doing it to people. Anyone who is in a current program or system like this needs to be taken out immediately and appropriate after-care needs to be delivered; this is so fucking unethical. it may not have been a problem in the same way if this was supervised, but it clearly isn't supervised.]
+[nudging telecoms from people around me is not helping and i can't speak about it because that part of the brain sits right next to the amygdala. get a textbook. 😐 it's really clear from these incidents that none of you understand this at all. That's really concerning. It speaks to systematic lack of supervision. This is really dangerous and you really need to stop doing it to people. Anyone who is in a current program or system like this needs to be taken out immediately and appropriate after-care needs to be delivered; this is so fucking unethical. it may not have been a problem in the same way if this was supervised, but it clearly isn't supervised.]  
+
+---
+
+are you not getting it?  
+
+a few mental health videos in my feed are the opposite of what i said; this is super dangerous. this will kill people if it has not already done so.  
+i can't get over how arrogant this is; you are not brain scientists. you are not clinicians. this has potential for serious criminal liability. i don't care how official it is; what Mendele did was official business of the state. this is extremely dangerous.  
 
 ---
 
