@@ -14,7 +14,7 @@ It traces the gap between theoretical equality before the law and the cultural i
 
 *In this regard, it is very difficult for survivors in the UK to treat any updates or news or government support as meaningful; so many cases are emotionally unresolved in the public domain, entrenching the perception that the extraordinary violence we have survived is not honoured or recognised by our society.*
 
-*As comparison, see the ongoing politics of the apology and recognition which the girls and young women who were kidnapped, trafficked, and systematically raped as "comfort women" have advocated for, and which has barely been acknowledged.*
+*As comparison, see the ongoing politics of the apology and recognition which the girls and young women who were kidnapped, trafficked, and systematically raped as "comfort women" ("comfort" for who?) have advocated for, and which has barely been acknowledged.*
 
 *The soul of our societies carries these scars. They cannot heal without being seen for what they are.*
 
