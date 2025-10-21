@@ -1,5 +1,5 @@
 # 🚫 He Will Not Find Me  
-**First created:** 2025-08-06  |  **Last updated:** 2025-10-19  
+**First created:** 2025-08-06  |  **Last updated:** 2025-10-22  
 *A declaration-node of refusal and digital invisibility; a boundary against coercive search and emotional triangulation.*  
 
 ---
@@ -87,9 +87,9 @@ It defines an ethical refusal and a survivor boundary within the Allies & Ethics
 > 📡 Cross-references:
 > 
 > - [🈴 Allies & Ethics — README](./README.md)  
-> - [🏛 Governance & Containment — README](../README.md)  
+> - [🏯 Governance & Containment — README](../README.md)  
 > - [🧠 Metadata Sabotage Network — README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
