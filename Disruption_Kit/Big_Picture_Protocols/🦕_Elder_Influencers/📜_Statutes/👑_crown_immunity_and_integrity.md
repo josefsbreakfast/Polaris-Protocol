@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node examines how the British constitutional order handles — or fails to handle — criminal accountability within the royal family.  
 It traces the gap between theoretical equality before the law and the cultural insulation of monarchy, showing how that gap produces risk, impunity, trauma replication, and national-security exposure.
 
@@ -176,6 +176,34 @@ Royal opacity invites the same dynamic on a constitutional scale.
 Transparency protects sovereignty.  
 Opacity breeds leverage.  
 Daylight, not denial, secures the Crown.
+
+---
+
+### 🛰️ 7A. Transparency Deficit as a Live Security Exposure  
+
+When an individual close to state power carries unresolved safeguarding questions, the opacity surrounding their private interests transforms from a reputational matter into a **national-security variable**.  
+Because the public and oversight bodies cannot verify the boundaries of access — data, networks, business partners — they cannot distinguish between legitimate enterprise and latent vulnerability.  
+
+Key implications:  
+- **Information exposure:** any role involving technology, communications, or privileged contacts risks uncontrolled visibility of data.  
+- **Counter-intelligence ambiguity:** friendly and hostile actors alike interpret secrecy as potential leverage.  
+- **Safeguarding inversion:** the same secrecy that protects royal privacy can inadvertently protect anyone in proximity from ordinary safeguarding checks.  
+- **Public-confidence collapse:** once trust is broken, absence of transparency is read as concealment, not discretion.
+
+Until transparent oversight exists, even a legitimate business venture can *feel* unsafe — and that perception alone weakens social consent around monarchy and governance.
+
+---
+
+### 🛰️ 7B. The Market for Proximity — How Reputational Gaps Invite Exploitation  
+
+When oversight collapses around a high-status individual, access itself becomes tradable.  
+- **Attraction of opportunists:** investors, lobbyists, and hostile actors seek association, not for profit margins but for *perceived influence.*  
+- **Reverse infiltration:** even a symbolic shareholding or board seat can grant visibility into sensitive networks — philanthropy data, technology pipelines, or diplomatic introductions.  
+- **Reputation laundering:** partnering with a royal, however tarnished, offers legitimacy to grey-zone sectors such as surveillance, extractives, or data brokerage.  
+- **Strategic manipulation:** a compromised figure may be courted to *“get ahead of the story,”* joining security-tech ventures to project reformist credibility while normalising influence-trading.  
+
+Because the UK lacks statutory **conflict-of-interest disclosures** for royals, there is **no mechanism to pre-screen or block high-risk partnerships**.  
+Thus the problem becomes circular: opacity invites exploitation, which deepens opacity.  
 
 ---
 
