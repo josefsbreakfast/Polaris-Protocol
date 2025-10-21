@@ -164,19 +164,16 @@ Approx trajectories:
 ## 🛠 Counter-Measures and Points of Reform  
 
 - **Anti-SLAPP legislation:** New UK frameworks must go further than cosmetic gestures. Strong statutes can prevent corporations and wealthy individuals from weaponising libel and injunctions to silence critics.  
-  > 📡 See [🚨 Superinjunctions, SLAPPs & Rape Cases](../../../Polaris_Nest/Git_Intake_Drawer/🚨_superinjunctions_slapps_rape_cases.md) — case history of how these legal tools warp justice.  
+  > 📡 See [🚨 Superinjunctions, SLAPPs & Rape Cases](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md) — case history of how these legal tools warp justice.  
 
 - **Strengthening press regulation:** IPSO is functionally weak; without credible oversight, NDAs and injunctions remain default tools. A regulator with enforcement teeth could shrink the silence market by making media accountability real.  
 
 - **Harassment law reform:** Many NDAs originate in workplace abuse cases. Updating harassment statutes to make gagging unenforceable in such contexts would cut off supply at source.  
 
 - **Medical & research protection:** Current libel law suppresses healthcare transparency and damages trust in science. Legal reform to shield peer review, whistleblowing, and public-interest health reporting is critical.  
-  > 📡 Cross-reference: [⚖️ Key Legal Issues: SARs & NDAs](../../../Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md)  
+  > 📡 Cross-reference: [⚖️ Key Legal Issues: SARs & NDAs](../../../Polaris_Nest/✨_Letters_to_Stars/⚖️_key_legal_issues_SARs_NDAs.md)  
 
 - **AI law attention:** As mapped in this repo, AI regulation must include protections for annotators, lab techs, and internal critics. Silence loops in training data should be treated as systemic safety risks.  
-  > 📡 Cross-references:  
-  > - [🇬🇧 Voice Cloning Legislative Response](../../../Polaris_Nest/Git_Intake_Drawer/🇬🇧_voice_cloning_legislative_response.md)  
-  > - [🔮 Challenge of AI](../../../Polaris_Nest/Git_Intake_Drawer/🔮_challenge_of_ai.md)  
 
 - **Court efficiency gains:** Reducing the load of injunction litigation would free court time for criminal and tort law that generates tangible social benefit.  
 
