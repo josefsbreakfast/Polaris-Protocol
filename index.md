@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 22:31:50 UTC_
+_Generated on 2025-10-21 22:32:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1246,7 +1246,6 @@ _Generated on 2025-10-21 22:31:50 UTC_
       - [`🎭_character_assassination_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_character_assassination_theatre.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
       - [`💋_the_erotics_of_discrediting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/💋_the_erotics_of_discrediting.md)
-      - [`📂_witness_pairing_and_projection.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/📂_witness_pairing_and_projection.md)
       - [`🔊_protecting_the_sound_of_the_voice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_protecting_the_sound_of_the_voice.md)
       - [`🔊_signal_integrity_evidence_index.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_signal_integrity_evidence_index.csv)
       - [`🗣️_counter_voicing_collective_re_amplification_methods.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🗣️_counter_voicing_collective_re_amplification_methods.md)
@@ -1255,6 +1254,7 @@ _Generated on 2025-10-21 22:31:50 UTC_
       - [`🧠_psychops_of_tone_the_science_of_disbelief.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_psychops_of_tone_the_science_of_disbelief.md)
       - [`🧠‍💫_neural_fatigue_the_cognitive_cost_of_constant_correction.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠‍💫_neural_fatigue_the_cognitive_cost_of_constant_correction.md)
       - [`🧬_clone_drift_deepfakes_audio_manipulation_and_voice_theft.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧬_clone_drift_deepfakes_audio_manipulation_and_voice_theft.md)
+      - [`🧬_witness_pairing_and_projection.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧬_witness_pairing_and_projection.md)
       - [`🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md)
       - [`🧻🐯_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_tigers.md)
       - [`🧾_credibility_log_index.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_credibility_log_index.csv)
