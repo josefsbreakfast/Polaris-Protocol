@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 23:57:14 UTC_
+_Generated on 2025-10-21 23:59:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1188,7 +1188,7 @@ _Generated on 2025-10-21 23:57:14 UTC_
       - [`🤝_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🤝_held_by_other_peoples_alliances.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
       - [`🧬_distributed_trust_survivor_led_ethics_infrastructure.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_distributed_trust_survivor_led_ethics_infrastructure.md)
-      - [`🧵_soft_capture_the_intimacy_of_oversight.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧵_soft_capture_the_intimacy_of_oversight.md)
+      - [`🧶_soft_capture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧶_soft_capture.md)
       - [`🧾_consent_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧾_consent_as_containment.md)
       - [`🩸_pain_as_credential.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🩸_pain_as_credential.md)
       - [`🪄_performative_empathy_economies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪄_performative_empathy_economies.md)
