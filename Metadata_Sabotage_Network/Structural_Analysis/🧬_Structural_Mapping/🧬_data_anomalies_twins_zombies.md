@@ -71,9 +71,9 @@ It documents how errors in identity resolution, schema fusion, and data retentio
 
 > 📡 Cross-references:
 > 
-> - [⚖️ IPCO Audit Cycle](../../../Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)  
+> - [⚖️ IPCO Audit Cycle](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)  
 > - [🧬 Data Correction Notices](./🧬_data_correction_notices.md)  
-> - [🧾 Credibility Logs — The Forensics of Restoration](../../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_credibility_logs_the_forensics_of_restoration.md)  
+> - [🧾 Credibility Logs — The Forensics of Restoration](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_credibility_logs_the_forensics_of_restoration.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
