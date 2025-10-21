@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 17:46:11 UTC_
+_Generated on 2025-10-21 17:48:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1228,8 +1228,8 @@ _Generated on 2025-10-21 17:46:11 UTC_
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
       - [`💋_the_erotics_of_discrediting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/💋_the_erotics_of_discrediting.md)
       - [`📂_witness_pairing_and_projection.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/📂_witness_pairing_and_projection.md)
+      - [`🔊_protecting_the_sound_of_the_voice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_protecting_the_sound_of_the_voice.md)
       - [`🔊_signal_integrity_evidence_index.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_signal_integrity_evidence_index.csv)
-      - [`🔊_signal_integrity_protocols_protecting_the_sound_of_the_voice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_signal_integrity_protocols_protecting_the_sound_of_the_voice.md)
       - [`🗣️_counter_voicing_collective_re_amplification_methods.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🗣️_counter_voicing_collective_re_amplification_methods.md)
       - [`🙄_jewish_loyalty_pings_faster_than_rape.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🙄_jewish_loyalty_pings_faster_than_rape.md)
       - [`🥸_bookshops_vs_behavioral_risks.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🥸_bookshops_vs_behavioral_risks.md)
