@@ -73,7 +73,7 @@ Visualising how signal overload becomes a containment strategy.
 
 ```mermaid
 flowchart LR
-  A[Trigger: Credible signal<br/>(witness, dataset, finding)] --> B{Amplification Layer}
+  A[Trigger: Credible signal - witness, dataset, finding] --> B{Amplification Layer}
   B -->|Algorithmic Boost| C[Attention Spike]
   B -->|Bot/Echo Nets| D[Volume Spike]
   C --> E{Saturation Tactics}
@@ -85,9 +85,9 @@ flowchart LR
   G --> I
   H --> I
   I --> J{Credibility Collapse}
-  J -->|Outcome 1| K[Practical Erasure<br/>(truth is "there" but unfound)]
-  J -->|Outcome 2| L[Reputational Smear<br/>(source becomes "controversial")]
-  J -->|Outcome 3| M[Policy Stall<br/>(no action without "consensus")]
+  J -->|Outcome 1| K[Practical Erasure i.e. truth is there but unfound]
+  J -->|Outcome 2| L[Reputational Smear i.e. source labelled controversial]
+  J -->|Outcome 3| M[Policy Stall i.e. no action without apparant consensus]
   M --- N[Status Quo Preserved]
   K --- N
   L --- N
@@ -102,7 +102,7 @@ Ethical architecture for preserving signal integrity across layers.
 ```mermaid
 flowchart TB
   subgraph L0[Layer 0 — Ground Truth]
-    P0[Primary Evidence<br/>(docs, raw files, timestamps, hashes)]
+    P0[Primary Evidence e.g. docs, raw files, timestamps, hashes]
   end
 
   subgraph L1[Layer 1 — Provenance]
@@ -114,17 +114,17 @@ flowchart TB
   subgraph L2[Layer 2 — Transmission]
     T1[Plain-language restatements]
     T2[Redundancy across non-algorithmic stores]
-    T3[Rate-limited releases (avoid info dumps)]
+    T3[Rate-limited releases, avoid info dumps]
   end
 
   subgraph L3[Layer 3 — Audibility Design]
     A1[Canonical index pages]
-    A2[Link discipline (relative paths)]
-    A3[House-style summaries (≤ 120 words)]
+    A2[Link discipline e.g. relative paths]
+    A3[House-style summaries; ≤ 120 words]
   end
 
   subgraph L4[Layer 4 — Engagement Hygiene]
-    E1[Refuse performative "both-sides" loops]
+    E1[Refuse performative both-sides loops]
     E2[Pre-bunk common distortions]
     E3[Escalation paths for corrections]
   end
@@ -151,7 +151,7 @@ graph LR
 
   subgraph B[Balancing Loop B — Counter-Noise]
     S[Stable canonical statement] --> X[Consistent restatement]
-    X --> Q[Searchability (index + tags)]
+    X --> Q[Searchability e.g. index + tags]
     Q --> H[Human verification rituals]
     H -->|corrections & de-duplication| S
   end
