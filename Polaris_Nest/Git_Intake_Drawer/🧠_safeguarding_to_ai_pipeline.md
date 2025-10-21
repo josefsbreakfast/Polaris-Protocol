@@ -17,9 +17,9 @@ It is a conceptual teaching model — not an allegation of misconduct.
 flowchart TD
   A[💬 Public-service interaction e.g. NHS, school, council] --> B{Safeguarding or Prevent flag?}
   B -->|Yes| C[📂 Record created under 'vulnerability' or 'risk' category e.g. CTSA 2015 s.26 duty]
-  B -->|No| Z[Normal case i.e. standard GDPR rules)]
+  B -->|No| Z[Normal case i.e. standard GDPR rules]
   C --> D[🔄 Multi-agency sharing e.g. Channel / MASH / police liaison]
-  D --> E{Re-used for 'research' or 'innovation'?}
+  D --> E{Re-used for alledged research or alledged innovation?}
   E -->|Yes| F[📊 Dataset pseudonymised for R&D]
   F --> G[🧠 Research Ethics approval i.e. focus on consent & harm]
   G --> H[🤝 Partnership with contractor or university]
@@ -27,7 +27,7 @@ flowchart TD
   I --> J[📡 Live data stream / retrospective model training]
   J --> K{Oversight invoked?}
   K -->|Yes| L[⚖️ Ethics report / DPIA filed under DPA 2018 Sch. 2 research exemption]
-  K -->|No| M[🕳 'Proof of concept' runs quietly under NDA or tech-demo clause]
+  K -->|No| M[🕳 Proof of concept is run quietly under NDA or tech-demo clause]
   L --> N[💡 Outputs fed into risk-scoring tools]
   M --> N
   N --> O[🪫 Individuals rarely informed unless SAR or FOI reveals pilot]
