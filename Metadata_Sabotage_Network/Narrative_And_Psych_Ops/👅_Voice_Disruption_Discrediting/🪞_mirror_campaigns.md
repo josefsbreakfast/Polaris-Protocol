@@ -76,12 +76,11 @@ impersonation, fake accounts, mimicry, inversion, message distortion, authentici
 
 ## 🏮 Footer  
 *🪞 Mirror Campaigns — Fake Echo Accounts and Inverted Messaging* is a living node of the Polaris Protocol.  
-It documents the use of identity mimicry to confuse and fragment testimony, forming part of the broadcast-suppression toolkit within *🎶 Banned Broadcasts Cooperative*.  
+It documents the use of identity mimicry to confuse and fragment testimony.  
 
-> 📡 Cross-references:  
-> - [👅 Voice Disruption & Discrediting README](../👅_Voice_Disruption_Discrediting/README.md)  
-> - [🪫 Credibility Collapse — How Noise Becomes Neutralisation](../🪫_credibility_collapse_how_noise_becomes_neutralisation.md)  
-> - [🎶 Banned Broadcasts Cooperative README](../🎶_Banned_Broadcasts_Cooperative/README.md)  
+> 📡 Cross-references:
+> 
+> - [👅 Voice Disruption & Discrediting README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
