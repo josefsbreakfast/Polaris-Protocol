@@ -1,5 +1,5 @@
 # 🧠 Why I Write Like This  
-**First created:** 2025-08-05 | **Last updated:** 2025-10-19  
+**First created:** 2025-08-05 | **Last updated:** 2025-10-22  
 *A meta-node explaining the stylistic, strategic, and ethical logic behind the Polaris writing method.*  
 
 ---
@@ -76,4 +76,4 @@ It exists to explain how tone and structure operate as defensive and forensic to
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
