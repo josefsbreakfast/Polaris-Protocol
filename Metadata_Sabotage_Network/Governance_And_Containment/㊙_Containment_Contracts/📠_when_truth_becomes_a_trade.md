@@ -1,5 +1,5 @@
 # 📠 When Truth Becomes a Trade  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-22  
 *Analysis of commodification of truth in containment contracts.*  
 
 ---
@@ -97,21 +97,6 @@ A cultural symptom of contractual erasure.
 
 ---
 
-## 🎞️ Constellation  
-
-- **Books**  
-  - *The Binding* (Bridget Collins) — memories literally bound into books, commodified, and traded.  
-  - *Never Let Me Go* (Kazuo Ishiguro) — lives treated as contractual commodities under a façade of care.  
-  - *Fahrenheit 451* (Ray Bradbury) — knowledge destroyed or traded away to maintain governance comfort.  
-
-- **Films**  
-  - *Eternal Sunshine of the Spotless Mind* — memory erasure sold as a service.  
-  - *The Truman Show* — truth transformed into a monetised spectacle; authenticity itself a contract breach.  
-  - *The Lobster* — absurd contractual rules turning intimacy into state-enforced currency.  
-  - *Minority Report* — predictive futures commodified into contracts before they occur.  
-
----
-
 ## 🌱 Help From Us  
 
 If truth is being traded, we need practices that refuse its conversion into currency:  
@@ -144,6 +129,17 @@ Without these shifts, the marketplace of silence remains profitable. With them, 
 
 📠 🧿 💸 🔮 🪜 — This node sits in the governance–economy–memory constellation, showing how containment architectures monetise disclosure and distort collective recall.  
 
+- **Books**  
+  - *The Binding* (Bridget Collins) — memories literally bound into books, commodified, and traded.  
+  - *Never Let Me Go* (Kazuo Ishiguro) — lives treated as contractual commodities under a façade of care.  
+  - *Fahrenheit 451* (Ray Bradbury) — knowledge destroyed or traded away to maintain governance comfort.  
+
+- **Films**  
+  - *Eternal Sunshine of the Spotless Mind* — memory erasure sold as a service.  
+  - *The Truman Show* — truth transformed into a monetised spectacle; authenticity itself a contract breach.  
+  - *The Lobster* — absurd contractual rules turning intimacy into state-enforced currency.  
+  - *Minority Report* — predictive futures commodified into contracts before they occur.  
+
 ---
 
 ## ✨ Stardust  
@@ -154,7 +150,7 @@ truth commodification, nda economy, containment architecture, survivor testimony
 
 ## 🏮 Footer  
 
-*When Truth Becomes a Trade* is a living node of the Polaris Protocol.  
+*📠 When Truth Becomes a Trade* is a living node of the Polaris Protocol.  
 It analyses how truth is commodified and exchanged within containment architectures, and how contractual erasure transforms testimony into a market instrument.  
 
 > 📡 Cross-references:
@@ -165,4 +161,4 @@ It analyses how truth is commodified and exchanged within containment architectu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
