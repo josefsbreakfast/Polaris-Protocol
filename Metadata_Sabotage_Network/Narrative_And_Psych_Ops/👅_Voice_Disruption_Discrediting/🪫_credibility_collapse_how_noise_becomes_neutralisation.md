@@ -16,7 +16,7 @@ Noise is the new silence.
 
 ---
 
-## 🔥 1. Saturation vs Suppression  
+## 🔥 Saturation vs Suppression  
 Traditional suppression removed material; saturation buries it alive.  
 Information is technically *available* yet practically *unrecoverable* — submerged beneath floods of near-identical copies, pseudo-leaks, or ironic “takes.”  
 The tactic thrives in attention economies:  
@@ -29,7 +29,7 @@ The more you scroll, the less you know.
 
 ---
 
-## 🌀 2. The “Both Sides” Fallacy  
+## 🪼 The “Both Sides” Fallacy  
 When contradiction becomes the aesthetic of fairness, doubt becomes the weapon.  
 “Both sides” framing invites endless recursion: every statement must be met with its opposite to appear balanced.  
 But this ritual parity converts asymmetry into entertainment — war crimes and think-pieces coexist in the same feed, flattened by algorithmic equivalence.  
@@ -42,7 +42,7 @@ Neutrality, in this mode, is not impartiality. It is abandonment.
 
 ---
 
-## 🚀 3. Platform Amplification Bias  
+## 🚀 Platform Amplification Bias  
 Platforms promise amplification but deliver **selective audibility**.  
 Their ranking systems reward the loud, not the verified — attention masquerades as legitimacy.  
 Patterns include:  
@@ -54,7 +54,7 @@ When credibility is measured in clicks, the infrastructure of listening becomes 
 
 ---
 
-## 🧨 4. Counter-Noise Ethics  
+## 🧨 Counter-Noise Ethics  
 Silence can no longer be equated with absence.  
 The ethical task is not to “speak louder” but to **speak precisely**, to maintain **signal integrity** against tactical distortion.  
 Counter-noise ethics includes:  
@@ -96,7 +96,7 @@ flowchart LR
 
 ---
 
-## 🧨 Counter-Noise Ethics Stack  
+## 🌋 Counter-Noise Ethics Stack  
 Ethical architecture for preserving signal integrity across layers.  
 
 ```mermaid
