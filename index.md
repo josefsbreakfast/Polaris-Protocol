@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 22:31:04 UTC_
+_Generated on 2025-10-21 22:31:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1258,7 +1258,7 @@ _Generated on 2025-10-21 22:31:04 UTC_
       - [`🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md)
       - [`🧻🐯_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_tigers.md)
       - [`🧾_credibility_log_index.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_credibility_log_index.csv)
-      - [`🧾_credibility_logs_the_forensics_of_restoration.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_credibility_logs_the_forensics_of_restoration.md)
+      - [`🧾_forensics_of_restoration.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_forensics_of_restoration.md)
       - [`🪞_mirror_campaigns.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪞_mirror_campaigns.md)
       - [`🪫_credibility_collapse.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪫_credibility_collapse.md)
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
