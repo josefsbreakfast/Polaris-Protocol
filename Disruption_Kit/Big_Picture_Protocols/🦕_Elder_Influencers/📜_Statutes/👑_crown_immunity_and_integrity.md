@@ -391,8 +391,8 @@ Its purpose is to design mid-range accountability architectures where precedent 
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Legal & State Governance](../🌀_System_Governance/⚖️_Legal_State_Governance/README.md)  
-> - [🕯 Exorcising Safeguarding Shadows](../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md)  
+> - [⚖️ Legal & State Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/README.md)  
+> - [🕯 Exorcising Safeguarding Shadows](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md)  
 > - [📜 Statutes](./README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
