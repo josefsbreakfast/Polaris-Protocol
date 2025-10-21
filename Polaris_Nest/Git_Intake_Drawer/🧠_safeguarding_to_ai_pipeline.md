@@ -15,13 +15,13 @@ It is a conceptual teaching model — not an allegation of misconduct.
 
 ```mermaid
 flowchart TD
-  A[💬 Public-service interaction<br>(NHS, school, council)] --> B{Safeguarding or Prevent flag?}
-  B -->|Yes| C[📂 Record created under 'vulnerability' or 'risk' category<br>(CTSA 2015 s.26 duty)]
-  B -->|No| Z[Normal case<br>(standard GDPR rules)]
-  C --> D[🔄 Multi-agency sharing<br>(Channel / MASH / police liaison)]
+  A[💬 Public-service interaction e.g. NHS, school, council] --> B{Safeguarding or Prevent flag?}
+  B -->|Yes| C[📂 Record created under 'vulnerability' or 'risk' category e.g. CTSA 2015 s.26 duty]
+  B -->|No| Z[Normal case i.e. standard GDPR rules)]
+  C --> D[🔄 Multi-agency sharing e.g. Channel / MASH / police liaison]
   D --> E{Re-used for 'research' or 'innovation'?}
   E -->|Yes| F[📊 Dataset pseudonymised for R&D]
-  F --> G[🧠 Research Ethics approval<br>(focus on consent & harm only)]
+  F --> G[🧠 Research Ethics approval i.e. focus on consent & harm]
   G --> H[🤝 Partnership with contractor or university]
   H --> I[🧩 AI middleware pilot links welfare & policing databases]
   I --> J[📡 Live data stream / retrospective model training]
