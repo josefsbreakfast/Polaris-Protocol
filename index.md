@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 18:59:05 UTC_
+_Generated on 2025-10-21 18:59:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -879,6 +879,7 @@ _Generated on 2025-10-21 18:59:05 UTC_
     - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`👁️‍🗨️_i_am_aware_stop_doing_it.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_i_am_aware_stop_doing_it.md)
     - [`👻_new_ghost_to_be_vetoed.md`](Disruption_Kit/Field_Logs/👻_new_ghost_to_be_vetoed.md)
+    - [`👾_broke_it_again.png`](Disruption_Kit/Field_Logs/👾_broke_it_again.png)
     - [`👾_legal_notariety.md`](Disruption_Kit/Field_Logs/👾_legal_notariety.md)
     - [`👾_pensions_and_perverts.md`](Disruption_Kit/Field_Logs/👾_pensions_and_perverts.md)
     - [`💸_propaganda_to_tarot.md`](Disruption_Kit/Field_Logs/💸_propaganda_to_tarot.md)
@@ -1516,7 +1517,6 @@ _Generated on 2025-10-21 18:59:05 UTC_
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
-    - [`👾_broke_it_again.png`](Polaris_Nest/Git_Intake_Drawer/👾_broke_it_again.png)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
