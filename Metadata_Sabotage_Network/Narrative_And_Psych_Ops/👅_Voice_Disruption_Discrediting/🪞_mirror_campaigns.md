@@ -13,26 +13,26 @@ Shows how copy-tone accounts feed “controlled dissent” loops—appearing to 
 
 ## 🪩 The Hall of Mirrors  
 
-1. **Echo Chambers and Shadow Speech**  
+🌀 **Echo Chambers and Shadow Speech**  
    - Mirror accounts repeat survivor phrasing with slight tonal shift or omission.  
    - Algorithms reward engagement similarity, not intent fidelity.  
    - The result: trust erosion disguised as familiarity.
 
-2. **The Semiotics of the Fake Account**  
+👾 **The Semiotics of the Fake Account**  
    - Profile imagery and bios use *near-match iconography*—similar emojis, pronouns, and formatting.  
    - Linguistic tells include rhythmic flattening (loss of cadence) and “friendly malapropisms” that alter meaning just enough to seed doubt.  
 
-3. **Parody vs. Impersonation**  
+🎪 **Parody vs. Impersonation**  
    - Parody claims humour; impersonation claims authority.  
    - Mirror campaigns blur this boundary to evade moderation.  
    - “Satirical proximity” becomes legal camouflage for targeted ridicule.  
 
-4. **Detecting Mirror Networks**  
+🦠 **Detecting Mirror Networks**  
    - Compare account creation timestamps, mutual follows, and URL shortener reuse.  
    - Track simultaneous posting within ±90-second windows across duplicate text strings.  
    - Use forensic linguistic mapping (syntax trees, emoji adjacency, punctuation frequency) to trace authorship clusters.  
 
-5. **The Energetics of Engagement**  
+🧠 **The Energetics of Engagement**  
    > Mirror campaigns don’t only distort; they drain.  
    > Accounts crafted with eerie or uncanny tone—blending irony, surrealism, and moral fog—create confusion rather than persuasion.  
    > They mimic the texture of “deep” critique while hollowing it out through absurd repetition or ambiguity.  
@@ -47,7 +47,7 @@ Shows how copy-tone accounts feed “controlled dissent” loops—appearing to 
    >  
    > This is the new frontier of distortion: **affective attrition as containment**.
 
-6. **Information Warfare and Emotional Labour**  
+🐝 **Information Warfare and Emotional Labour**  
    - The same aesthetic that fuels “weirdcore” creativity has been re-weaponised in propaganda labs.  
    - **AI-assisted surrealism**—clips that almost make sense, faces that almost move right—creates an *interpretive treadmill*: each viewer becomes an unpaid analyst.  
    - By design, these artefacts are **half-plausible**. Their ambiguity invites community fact-checking that never resolves, keeping emotional circuits open.  
@@ -57,7 +57,7 @@ Shows how copy-tone accounts feed “controlled dissent” loops—appearing to 
    > The uncanny is thus not an accident of automation; it is a management style.  
    > Emotional fatigue becomes the metric of success.
 
-7. **Containment Outcomes**  
+🧊 **Containment Outcomes**  
    - Noise saturation: real posts disappear under higher-volume mimicry.  
    - Plausible confusion: victims appear inconsistent when fakes contradict them.  
    - Platform passivity: moderation dashboards register “engagement spike,” not “identity theft.”  
