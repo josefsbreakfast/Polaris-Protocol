@@ -44,4 +44,8 @@ And if you record it with big markers on saying that she's incredibly violent?
 
 At least you all look like a bunch of pricks you are. 🤣  
 
+for comparisons of the pornography that has been seated to me during this surveillance experience is literally more lethal to women, than me watching a bunch of women shoot cards at the range ever would be to men.  
+
+If you've got a problem with a woman holding a firearm, I think that speaks a lot more to your insecurity, than it does to any risk you could attach to me.
+
 2025-10-21  
