@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 14:32:24 UTC_
+_Generated on 2025-10-21 14:35:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1509,6 +1509,7 @@ _Generated on 2025-10-21 14:32:24 UTC_
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG`](Polaris_Nest/Git_Intake_Drawer/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.PNG)
     - [`🎪_ignoring_bulldozers.md`](Polaris_Nest/Git_Intake_Drawer/🎪_ignoring_bulldozers.md)
+    - [`🎪_job_to_do.md`](Polaris_Nest/Git_Intake_Drawer/🎪_job_to_do.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`👾_broke_it_again.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_broke_it_again.PNG)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
@@ -1524,6 +1525,7 @@ _Generated on 2025-10-21 14:32:24 UTC_
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
+    - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_planned_debrambling.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_planned_debrambling.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_reaffirming_statements_of_truth.md)
