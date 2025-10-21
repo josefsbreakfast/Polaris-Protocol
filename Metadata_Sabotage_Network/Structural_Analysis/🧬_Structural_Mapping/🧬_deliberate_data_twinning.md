@@ -89,7 +89,7 @@ It models how record linkage and identifier fusion can be repurposed from admini
 > 📡 Cross-references:
 > 
 > - [🧬 Deliberate Metadata Twinning](./🧬_deliberate_metadata_twinning.md) — *technical mechanisms of identity fusion*  
-> - [🩻 Markers of Data Enmeshment](.🩻_markers_of_data_enmeshment.md) — *forensic detection of twinned identities*  
+> - [🩻 Markers of Data Enmeshment](../🧼_System_Leakage_Signatures/🩻_markers_data_enmeshment.md) — *forensic detection of twinned identities*  
 > - [📉 Suppression Interference Logs](../../Suppression_Layers/📉_Suppression_Interference_Logs/README.md) — *live records of throttling and ranking anomalies*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
