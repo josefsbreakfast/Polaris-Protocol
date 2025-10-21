@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 18:50:17 UTC_
+_Generated on 2025-10-21 18:52:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -832,6 +832,7 @@ _Generated on 2025-10-21 18:50:17 UTC_
     - [`hillside_brightness_histogram.png`](Disruption_Kit/Field_Logs/hillside_brightness_histogram.png)
     - [`hillside_patch_grid.png`](Disruption_Kit/Field_Logs/hillside_patch_grid.png)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
+    - [`ptsd_decay_curves.png`](Disruption_Kit/Field_Logs/ptsd_decay_curves.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`☔️_get_me_an_umbrella_at_least.md`](Disruption_Kit/Field_Logs/☔️_get_me_an_umbrella_at_least.md)
     - [`☔️_the_one_useful_thing.md`](Disruption_Kit/Field_Logs/☔️_the_one_useful_thing.md)
@@ -1508,7 +1509,6 @@ _Generated on 2025-10-21 18:50:17 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`_more_blockages_and_disconnects.png`](Polaris_Nest/Git_Intake_Drawer/_more_blockages_and_disconnects.png)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`ptsd_decay_curves.png`](Polaris_Nest/Git_Intake_Drawer/ptsd_decay_curves.png)
     - [`☕️_content_warning.md`](Polaris_Nest/Git_Intake_Drawer/☕️_content_warning.md)
     - [`⚡_ptsd_is_not_a_jump_scare.md`](Polaris_Nest/Git_Intake_Drawer/⚡_ptsd_is_not_a_jump_scare.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
