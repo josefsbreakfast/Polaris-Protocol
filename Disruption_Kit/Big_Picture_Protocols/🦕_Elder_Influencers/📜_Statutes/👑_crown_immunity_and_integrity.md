@@ -6,7 +6,17 @@
 
 ## 🛰️ Orientation  
 This node examines how the British constitutional order handles — or fails to handle — criminal accountability within the royal family.  
-It traces the gap between theoretical equality before the law and the cultural insulation of monarchy, showing how that gap produces risk, impunity, trauma replication, and national-security exposure.
+It traces the gap between theoretical equality before the law and the cultural insulation of monarchy, showing how that gap produces risk, impunity, trauma replication, and national-security exposure.  
+
+⚠️ *Comment limited: we are not making specific allegations, and we are giving aurvivor testimony of a sadly deceased survivor (z"L) of trafficking room to breathe in the press. This is not to negate this testimony, but I am recognising that I cannot keep reading about these subjects without time to process due to my own experiences. As no case has been heard in a way recognised under UK law, this node talks about some of the anxieties and concerns from a survivor's viewpoint that persist precisely because of what is not confirmed in public.*  
+
+*The concept of this node is not to deny due process, but to recognise and flg the riaks that persist not only in one case discussed in the press, but also recognise a history of cases with powerful public figures, largely left with survivors unsupported and without a sense of justice within the UK.*
+
+*In this regard, it is very difficult for survivors in the UK to treat any updates or news or government support as meaningful; so many cases are emotionally unresolved in the public domain, entrenching the perception that the extraordinary violence we have survived is not honoured or recognised by our society.*
+
+*As comparison, see the ongoing politics of the apology and recognition which the girls and young women who were kidnapped, trafficked, and systematically raped as "comfort women" have advocated for, and which has barely been acknowledged.*
+
+*The soul of our societies carries these scars. They cannot heal without being seen for what they are.*
 
 ---
 
@@ -38,8 +48,6 @@ Between them lies a vacuum sustained by convention, not law.
 ---
 
 ## ⚖️ 3. Hypothetical Liability and Consequences  
-
-⚠️ *Comment limited: cannot discuss unverified or ongoing allegations about named persons.*
 
 If a senior royal were found guilty of child-sexual or other serious offences:
 
