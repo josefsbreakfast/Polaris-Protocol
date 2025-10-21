@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 22:30:12 UTC_
+_Generated on 2025-10-21 22:31:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1260,7 +1260,7 @@ _Generated on 2025-10-21 22:30:12 UTC_
       - [`🧾_credibility_log_index.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_credibility_log_index.csv)
       - [`🧾_credibility_logs_the_forensics_of_restoration.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_credibility_logs_the_forensics_of_restoration.md)
       - [`🪞_mirror_campaigns.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪞_mirror_campaigns.md)
-      - [`🪫_credibility_collapse_how_noise_becomes_neutralisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪫_credibility_collapse_how_noise_becomes_neutralisation.md)
+      - [`🪫_credibility_collapse.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪫_credibility_collapse.md)
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
       - [`protocol_flow_new_insert_handling.png`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/protocol_flow_new_insert_handling.png)
