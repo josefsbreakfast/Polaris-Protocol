@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-21 18:53:54 UTC_
+_Generated on 2025-10-21 18:54:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -668,10 +668,10 @@ _Generated on 2025-10-21 18:53:54 UTC_
         - [`metadata_twinning_divergence_convergence_amplification.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/metadata_twinning_divergence_convergence_amplification.png)
         - [`ouroboros_ihra_overreach.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ouroboros_ihra_overreach.png)
         - [`overlaid_nda_mesh_local.jpeg`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/overlaid_nda_mesh_local.jpeg)
-        - [`ptsd_decay_curves.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ptsd_decay_curves.png)
         - [`shadow_nda_redacted.pdf`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/shadow_nda_redacted.pdf)
         - [`triple_lock_audit_gap_flow.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/triple_lock_audit_gap_flow.png)
         - [`uk_twinned_estimates.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/uk_twinned_estimates.png)
+        - [`⚡_ptsd_decay_curves.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚡_ptsd_decay_curves.png)
         - [`⚡_ptsd_is_not_a_jump_scare.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚡_ptsd_is_not_a_jump_scare.md)
         - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎙️_why_they_collect_audio.md)
         - [`🎻_clash_of_forks.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎻_clash_of_forks.md)
