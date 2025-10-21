@@ -1,4 +1,4 @@
-# 📂 Witness Pairing and Projection  
+# 🧬 Witness Pairing and Projection  
 **First created:** 2025-09-06 | **Last updated:** 2025-09-13  
 *How harassment twinning creates co-witnesses, and how projection and obstruction become forensic evidence*  
 
