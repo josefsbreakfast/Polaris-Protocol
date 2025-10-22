@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-22 23:28:46 UTC_
+_Generated on 2025-10-22 23:29:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1578,6 +1578,7 @@ _Generated on 2025-10-22 23:28:46 UTC_
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_signal_steering.md`](Polaris_Nest/Git_Intake_Drawer/🧬_signal_steering.md)
+    - [`🧭_signal_alignment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_signal_alignment.md)
     - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
