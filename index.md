@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-22 20:10:01 UTC_
+_Generated on 2025-10-22 20:10:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1721,6 +1721,7 @@ _Generated on 2025-10-22 20:10:01 UTC_
     - [`🧿_visual_palette.md`](Polaris_Nest/🏮_Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
   - [`README.md`](Polaris_Nest/README.md)
+  - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/🧠_misclassifying_intellectual_intimacy.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
