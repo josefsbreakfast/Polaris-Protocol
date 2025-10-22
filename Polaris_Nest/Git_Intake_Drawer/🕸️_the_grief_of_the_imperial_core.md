@@ -1,3 +1,6 @@
+Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/
+
+
 # 🕸️ The Grief of the Imperial Core  
 **First created:** 2025-10-22 | **Last updated:** 2025-10-22  
 *Reconciling moral injury, complicity, and loss within the heart of empire.*
