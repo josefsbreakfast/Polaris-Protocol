@@ -1,20 +1,20 @@
 # ⚙️ Automated Escalation — Workflow Engines of Containment  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *When software executes suspicion.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Dissects case-management systems and notification chains that move alerts up the ladder automatically.  
 Shows how decision-making is outsourced to workflow rules with little human oversight.
 
 ---
 
-## 📑 Key Sections  
-1. Platform Logic and Auto-Routing  
-2. “If / Then” Containment  
-3. The Disappearing Author  
-4. Counter-Automation Protocols  
+## ✨ Key Sections  
+🎪 Platform Logic and Auto-Routing  
+👾 “If / Then” Containment  
+🙈 The Disappearing Author  
+🧨 Counter-Automation Protocols  
 
 ---
 
@@ -32,10 +32,10 @@ automation, escalation, workflow, decision chains, containment, governance syste
 *⚙️ Automated Escalation — Workflow Engines of Containment* is a living node of the Polaris Protocol.  
 It tracks the code paths where ethics are replaced by execution.
 
-> 📡 Cross-references:  
-> - [🚦 Trigger Architecture](./🚦_trigger_architecture_how_systems_decide_when_to_act.md)  
-> - [🈸 Dispatch & Training](../🈸_Dispatch_And_Training/)
+> 📡 Cross-references:
+> 
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-22_
