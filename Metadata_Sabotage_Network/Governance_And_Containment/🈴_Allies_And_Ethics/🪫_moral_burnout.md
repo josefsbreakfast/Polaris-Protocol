@@ -1,5 +1,5 @@
 # 🪫 Moral Burnout and the Myth of Neutrality  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *How exhaustion masquerades as impartiality.*  
 
 ---
@@ -19,7 +19,7 @@ Shows how “neutrality” often emerges as a defensive posture after burnout, p
 ---
 
 ## 🌌 Constellations  
-🪫 🈴 ⚖️ 🧠 — burnout, neutrality, ethics, moral clarity.
+🪫 🈴 🐍 ⚖️ 🧠 — burnout, neutrality, ethics, moral clarity.
 
 ---
 
