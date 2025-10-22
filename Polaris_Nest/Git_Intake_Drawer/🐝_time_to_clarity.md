@@ -1,3 +1,5 @@
+see also transformational learning  
+
 # ⏳ Latecomers to Clarity — The Slow Recognition Problem  
 **First created:** 2025-10-23 | **Last updated:** 2025-10-23  
 *Temporal asymmetry in understanding.*
