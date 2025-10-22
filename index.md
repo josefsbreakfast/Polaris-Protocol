@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-22 00:04:12 UTC_
+_Generated on 2025-10-22 00:06:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1194,7 +1194,7 @@ _Generated on 2025-10-22 00:04:12 UTC_
       - [`🪄_performative_empathy_economies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪄_performative_empathy_economies.md)
       - [`🪞_mirror_ethics.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_ethics.md)
       - [`🪞_mirror_log_template.csv`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_log_template.csv)
-      - [`🪫_moral_burnout_and_the_myth_of_neutrality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪫_moral_burnout_and_the_myth_of_neutrality.md)
+      - [`🪫_moral_burnout.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪫_moral_burnout.md)
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
       - [`💾_archival_drift_when_updates_delete_history.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/💾_archival_drift_when_updates_delete_history.md)
