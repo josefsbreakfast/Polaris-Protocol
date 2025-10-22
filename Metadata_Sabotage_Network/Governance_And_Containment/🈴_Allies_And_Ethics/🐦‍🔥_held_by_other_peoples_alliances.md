@@ -1,4 +1,4 @@
-# 🤝 Held by Other People’s Alliances  
+# 🐦‍🔥 Held by Other People’s Alliances  
 **First created:** 2025-08-06 | **Last updated:** 2025-10-22  
 *A meditation and diagnostic map for when one’s agency is mediated, muted, or credentialed through the alliances of others.*  
 
