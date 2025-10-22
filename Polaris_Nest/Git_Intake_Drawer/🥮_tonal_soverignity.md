@@ -72,6 +72,100 @@ True inclusion begins with naming what exists.
 
 ---
 
+### 9. Platform Export → Global Containment (Mimicry & Co-option)  
+*How viral-platform mechanics born in the Mandarin-language internet migrate into Western infrastructures and amplify existing systems of erasure.*
+
+#### 9.1 Claim  
+Platform logics refined inside the Mandarin-dominant web—ranking, moderation taxonomies, ASR/MT pipelines, “harmonisation” heuristics—are content-agnostic.  
+When cloned or integrated into Western stacks, they reproduce the **same containment effects** against completely unrelated minority languages.
+
+#### 9.2 Mechanisms of Export  
+- **Script privilege & corpus gravity** — majority-language corpora (Mandarin + English) dominate training data. Low-resource tongues mis-parsed → down-ranked → invisible.  
+- **Harmonisation by proxy** — moderation schemas designed to suppress “sensitive” discourse are re-branded as *safety*. Once imported, they silence new dissent.  
+- **Audio-first virality, text-last indexing** — short-video ecosystems reward catchy audio; minor phonologies yield poor auto-captions → poor retrieval → no reach.  
+- **Brand-safety economics** — adtech avoids “small” or “ambiguous” language segments. Commercial neutrality becomes linguistic bias.  
+- **Data-compliance throttling** — legal or identity checks tuned for large platforms penalise informal community archives; “non-compliant” becomes code for “erased.”
+
+#### 9.3 Why Western Systems Super-charge the Harm  
+- **Administrative monoculture** — procurement and KPI regimes crave standardisation; imported “best practice” slides neatly into old colonial logics.  
+- **Adtech interoperability** — majority-language targeting yields cheaper, cleaner analytics; minority clusters look like poor ROI.  
+- **Legacy assimilation scripts** — education and media systems built for centralisation act as amplifiers once connected to global recommender APIs.
+
+#### 9.4 Risk Escalators Toward Atrocity-Enabling Conditions  
+- **Denial by data** — dashboards show “no demand” because the corpus can’t see the language; funding cuts then appear rational.  
+- **Paperwork drift** — grant forms inherit platform taxonomies; if your language isn’t in the dropdown, it’s not “eligible.”  
+- **Narrative foreclosure** — auto-translate miscues + moderation labels (“low quality,” “spam,” “political”) erase testimony at critical moments.
+
+#### 9.5 Counter-Containment / Corrective Design  
+- **Plural taxonomies** — require distinct codes for minority languages; ban “Chinese (generic)” or “Arabic (all)” fields in datasets.  
+- **Model parity checks** — audit ASR / MT accuracy and recommendation reach per language; publish parity gaps like accessibility scores.  
+- **Archive sovereignty** — fund decentralised audio-text archives with durable URNs; treat phonology as protected heritage data.  
+- **Procurement guardrails** — deny public contracts to platforms failing language-parity audits.  
+- **Grant scaffolds** — provide open templates translating community aims into funder-speak; train “bid sherpas” drawn from linguistics + civic tech.
+
+> **Through-line:** when viral infrastructures are copied without **language-parity guarantees**, Western bureaucracies don’t just imitate another internet—they **weaponise their own legibility habits**, accelerating erasure in the name of efficiency.
+
+---
+
+### 10. Comparative Field — The Muting of Arabic Mourning  
+*Parallel case showing how identical moderation and ranking infrastructures suppress another language group—Arabic—especially during political upheaval and displacement.*
+
+When Arabic-speaking refugees or diasporic communities post words of grief or solidarity, automated moderation tools—trained on English or Mandarin sentiment models—often misread tone and intent.
+
+#### 10.1 Sentiment Polarity Mismatch  
+Arabic morphology encodes emotion and invocation differently.  
+Common condolence phrases (*الله يرحمه / Allah yirhamo* — “may God have mercy on him”) can register as “religious extremism” or “political content” in Western-tuned classifiers.  
+Hashtags containing *shaheed* (“martyr”) or religious formulae are frequently auto-demoted or deleted.
+
+#### 10.2 Visual + Textual Coupling  
+Image–text pairs showing flags, funerals, or prayers trigger “conflict-related” filters inherited from earlier content-control datasets.  
+The system cannot distinguish mourning from mobilisation.
+
+#### 10.3 Dialect Fragmentation  
+Colloquial forms (Levantine, Maghrebi, Gulf) are parsed as “low-quality Arabic.”  
+Romanised Arabic (*3arabi latini*) fractures under inconsistent spelling, just as Cantonese Jyutping does, leaving refugee testimony scattered across unlinked tags.
+
+#### 10.4 Policy Echo from Prior Containment  
+Moderation techniques first built to “harmonise” discourse in Mandarin social media were later exported into Western “safety” pipelines.  
+Combined with counter-terror frameworks, they reclassify Arabic grief as potential threat.
+
+#### 10.5 Outcome  
+Expression of loss becomes suspect; algorithms mistake mourning for militancy.  
+Communities displaced by war are displaced again in digital space—grief stripped of resonance and visibility.
+
+#### 10.6 Analytic Link  
+Cantonese and Arabic exemplify **linguicide by system design**:  
+- A dominant corpus defines “normal.”  
+- Bureaucracy rewards legibility over care.  
+- Safety discourse equates difference with danger.
+
+**Continuity of Containment:**  
+- *Cantonese* → erased through bureaucratic ignorance.  
+- *Arabic* → muted through security logics.  
+- *Both* → outcomes of global infrastructures optimised for majority comprehension, not minority truth.
+
+---
+
+### 11. Cross-Platform Implication  
+The replication of moderation logics across languages shows how *containment has become modular*.  
+Once a linguistic filter is proven to reduce “risk,” it propagates through SDKs, adtech, and trust-and-safety frameworks—detached from its origin context.  
+What began as state-directed “harmonisation” mutates into industry standard “brand safety,” carrying genocide-adjacent consequences for minority expression.
+
+> **Signal:** mourning, memory, and tone are structurally unreadable to platforms built for profit and political neutrality.  
+> **Imperative:** parity audits and ethical localisation must become mandatory before any moderation model is deployed globally.
+
+---
+
+## 🌌 Constellations (addendum)  
+🥮 🪄 🐍 🕊️ — language parity, mourning visibility, cross-platform containment, diaspora witness.
+
+---
+
+## ✨ Stardust (addendum)  
+Arabic, mourning, moderation bias, linguistic containment, refugee expression, tonal misclassification, sentiment polarity, diaspora silencing, platform export, linguistic parity  
+
+---
+
 ## 🌌 Constellations  
 🥮 🪄 🐍 🫀 — linguistic dignity, cultural continuity, bureaucratic containment, survival.  
 
