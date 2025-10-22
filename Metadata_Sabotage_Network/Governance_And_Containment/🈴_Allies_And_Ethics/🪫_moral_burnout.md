@@ -4,17 +4,17 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Examines the cycle of moral fatigue within advocacy and academia.  
 Shows how “neutrality” often emerges as a defensive posture after burnout, protecting institutions more than people.
 
 ---
 
-## 📑 Key Sections  
-1. From Empathy to Exhaustion  
-2. Institutional Incentives to Withdraw  
-3. The Aesthetics of Neutrality  
-4. Re-Energising Ethical Clarity  
+## ✨ Key Sections  
+🧠 From Empathy to Exhaustion  
+✂️ Institutional Incentives to Withdraw  
+🏛️ The Aesthetics of Neutrality  
+🐍 Re-Energising Ethical Clarity  
 
 ---
 
@@ -39,4 +39,4 @@ It decodes moral exhaustion as a system-level containment mechanism.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
