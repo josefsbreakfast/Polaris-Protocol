@@ -174,8 +174,8 @@ It documents how everyday admin software performs containment by design—transl
 > 📡 Cross-references:
 > 
 > - [💫 Containment Logic](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md) — *governance templates and threshold design*  
-> - [🉑 System Thresholds](../🉑_system_thresholds/escalation_triggers.md) — *risk cut-offs and escalation maths*  
-> - [🧾 Credibility Logs — The Forensics of Restoration](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧾_credibility_logs_the_forensics_of_restoration.md) — *survivor-led verification protocols*  
+> - [🉑 System Thresholds](./README.md) — *risk cut-offs and escalation maths*  
+> - [🧾 Credibility Logs — The Forensics of Restoration](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_forensics_of_restoration.md) — *survivor-led verification protocols*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
