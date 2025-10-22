@@ -1,5 +1,5 @@
 # 🌩️ Citation Politics — Who Gets to Quote Whom  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *Tracing voice capture through academic and activist referencing.*  
 
 ---
