@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-22 23:26:45 UTC_
+_Generated on 2025-10-22 23:27:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1554,6 +1554,7 @@ _Generated on 2025-10-22 23:26:45 UTC_
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
     - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
     - [`🕸️_the_grief_of_the_imperial_core.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_grief_of_the_imperial_core.md)
+    - [`🕸️_web_sovereignity.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_web_sovereignity.md)
     - [`🚀_alreet_lads.md`](Polaris_Nest/Git_Intake_Drawer/🚀_alreet_lads.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
