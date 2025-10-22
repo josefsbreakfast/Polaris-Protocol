@@ -51,7 +51,20 @@ Treat each uncanny fortune as diagnostic metadata:
 ### 7. Counter-Containment  
 - Curate your own feed to retrain the model: interact with non-binary, queer, or de-gendered content.  
 - Document recurring tropes as evidence of bias clusters.  
-- Use these artifacts to teach algorithmic literacy — the fortune feed as civic education.  
+- Use these artifacts to teach algorithmic literacy — the fortune feed as civic education.
+
+---
+
+> "I'm so sick of running as fast as I can,
+> Wondering if I'd get there quicker if I was a man."
+>
+> "When everyone believes you...
+> What's that like?"
+>
+> They'd say I hustled.
+> 'Put in the work.'
+> (They wouldn't shake their heads,
+> and question how much of this I deserve.)  
 
 ---
 
