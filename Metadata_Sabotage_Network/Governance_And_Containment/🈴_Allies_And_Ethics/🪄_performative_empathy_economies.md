@@ -1,24 +1,24 @@
 # 🪄 Performative Empathy Economies  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *The branding of care and commodification of solidarity.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Analyses how institutions monetise moral performance — ally awards, trauma panels, diversity showcases — to generate reputational capital while survivors remain economically or narratively excluded.
 
 ---
 
-## 📑 Key Sections  
-1. The Market Value of Empathy  
-2. Branding the Ally  
-3. Care as Currency  
-4. Redistribution vs Recognition  
+## ✨ Key Sections  
+💸 The Market Value of Empathy  
+👁️‍🗨️ Branding the Ally  
+💎 Care as Currency  
+🔥 Redistribution vs Recognition  
 
 ---
 
 ## 🌌 Constellations  
-🪄 💰 🈴 🤝 — care economies, performance ethics, moral branding, redistribution.
+🪄 💰 🔥 🈴 🤝 — care economies, performance ethics, moral branding, redistribution.
 
 ---
 
@@ -38,4 +38,4 @@ It traces how care becomes a spectacle that sustains institutional legitimacy.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
