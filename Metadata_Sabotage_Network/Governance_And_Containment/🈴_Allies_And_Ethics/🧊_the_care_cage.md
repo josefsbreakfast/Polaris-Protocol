@@ -1,20 +1,20 @@
-# 🔒 The Care Cage  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+# 🧊 The Care Cage  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *When “protection” becomes a form of imprisonment.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Dissects safeguarding, pastoral care, and moral oversight frameworks that infantilise or disempower survivors.  
 Maps how the rhetoric of protection masks withdrawal of agency.
 
 ---
 
-## 📑 Key Sections  
-1. The Language of Safety  
-2. Infantilisation as Governance  
-3. Moral Containment Loops  
-4. Counter-Care and Survivor Autonomy  
+## ✨ Key Sections  
+🪬 The Language of Safety  
+🐣 Infantilisation as Governance  
+🧬 Moral Containment Loops  
+🧄 Counter-Care and Survivor Autonomy  
 
 ---
 
