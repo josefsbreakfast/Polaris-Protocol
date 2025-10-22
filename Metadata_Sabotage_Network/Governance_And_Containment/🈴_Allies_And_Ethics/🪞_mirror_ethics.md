@@ -1,25 +1,25 @@
 # 🪞 Mirror Ethics — When Empathy Becomes Extraction  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *How empathy and allyship drift into mimicry, extraction, or performance.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Examines how empathy — when unexamined — converts into narrative extraction.  
 Explores the thin line between solidarity and surveillance when allies replicate survivor language, tone, or affect for legitimacy.
 
 ---
 
-## 📑 Key Sections  
-1. Empathy as Access  
-2. Mimicry and Moral Licensing  
-3. Extraction Loops in Advocacy  
-4. Countermoves: Reflective Distance, Reciprocal Authorship  
+## ✨ Key Sections  
+🧠 Empathy as Access  
+🪼 Mimicry and Moral Licensing  
+🧨 Extraction Loops in Advocacy  
+🐦‍🔥 Countermoves: Reflective Distance, Reciprocal Authorship  
 
 ---
 
 ## 🌌 Constellations  
-🪞 🤝 🈴 🔮 — relational ethics, empathy drift, containment through care.
+🪞 🤝 🐦‍🔥 🈴 🔮 — relational ethics, empathy drift, containment through care.
 
 ---
 
@@ -39,4 +39,4 @@ It studies how empathy can become a vector of capture rather than connection.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-22_
