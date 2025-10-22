@@ -1,3 +1,16 @@
+regarding specific problem:
+add:
+Mad world  
+Mad bad and sad  
+query: black skin white masks  
+query example introduction to capitalism  
+
+and I don't know, man I think I might need to just like, stick the robot series on the curriculum.  
+
+I feel like there's a particular skit with Amy from Futurama, but it's been so long I'll have to rewatch it or search.  
+
+---
+
 # 💰 Problem Manufacture — Capitalism as Perpetual Malfunction  
 **First created:** 2025-10-22 | **Last updated:** 2025-10-22  
 *When dysfunction becomes the product itself.*
