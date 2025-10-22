@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-22 01:00:38 UTC_
+_Generated on 2025-10-22 01:02:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1185,10 +1185,10 @@ _Generated on 2025-10-22 01:00:38 UTC_
       - [`🌩️_who_gets_to_quote_whom.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🌩️_who_gets_to_quote_whom.md)
       - [`🐦‍🔥_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_held_by_other_peoples_alliances.md)
       - [`💌_letters_of_refusal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/💌_letters_of_refusal.md)
-      - [`🔒_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🔒_the_care_cage.md)
       - [`🕸️_networked_morality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_networked_morality.md)
       - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
       - [`🚷_ethical_withdrawal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚷_ethical_withdrawal.md)
+      - [`🧊_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_the_care_cage.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
       - [`🧬_distributed_trust.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_distributed_trust.md)
       - [`🧶_soft_capture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧶_soft_capture.md)
