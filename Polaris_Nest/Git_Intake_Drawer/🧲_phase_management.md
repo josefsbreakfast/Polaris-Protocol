@@ -1,5 +1,9 @@
 it is weird a bunch of us "cant talk"; there is definately a group, divided into little clusters and arms.  
 
+i think im aware of 3 potential axes for me personally, but there may be a string of them.  
+
+i don't think this has "the software is desogned for X", so mych as some people have noticed that interlocking systems have produced a particular exploit and *just so happened to have forgotten to fix* the thing.  
+
 # 🧲 Phase Management — Stabilising Data-Twin Interference  
 **First created:** 2025-10-23 | **Last updated:** 2025-10-23  
 *How identical signatures jam their own signal.*
