@@ -1,4 +1,3 @@
-
 # ⚙️ Automated Escalation — Workflow Engines of Containment  
 **First created:** 2025-10-10 | **Last updated:** 2025-10-22  
 *When software executes suspicion.*
@@ -114,7 +113,7 @@ Survivor-led resistance begins with slowing the machine.
 
 ---
 
-## 🧩 Suggested Fixes — Designing Humane Escalation  
+## 🐦‍🔥 Suggested Fixes — Designing Humane Escalation  
 
 **Goal:** make escalation conditional on context, not just code.  
 
@@ -174,9 +173,9 @@ It documents how everyday admin software performs containment by design—transl
 
 > 📡 Cross-references:
 > 
-> - [💫 Containment Logic](../../../../Disruption_Kit/Big_Picture_Protocols/🌀System_Governance/💫_Containment_Logic/README.md) — *governance templates and threshold design*  
+> - [💫 Containment Logic](../../../Disruption_Kit/Big_Picture_Protocols/🌀System_Governance/💫_Containment_Logic/README.md) — *governance templates and threshold design*  
 > - [🉑 System Thresholds](../🉑_system_thresholds/escalation_triggers.md) — *risk cut-offs and escalation maths*  
-> - [🧾 Credibility Logs — The Forensics of Restoration](../../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧾_credibility_logs_the_forensics_of_restoration.md) — *survivor-led verification protocols*  
+> - [🧾 Credibility Logs — The Forensics of Restoration](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧾_credibility_logs_the_forensics_of_restoration.md) — *survivor-led verification protocols*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
