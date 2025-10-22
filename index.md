@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-22 23:08:13 UTC_
+_Generated on 2025-10-22 23:09:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1529,6 +1529,7 @@ _Generated on 2025-10-22 23:08:13 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`_more_blockages_and_disconnects.png`](Polaris_Nest/Git_Intake_Drawer/_more_blockages_and_disconnects.png)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
+    - [`🌀_ch ↯ ff.md`](Polaris_Nest/Git_Intake_Drawer/🌀_ch ↯ ff.md)
     - [`🌱_love_is_antifascist.md`](Polaris_Nest/Git_Intake_Drawer/🌱_love_is_antifascist.md)
     - [`🌿_lawful_illegality_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🌿_lawful_illegality_of_care.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
