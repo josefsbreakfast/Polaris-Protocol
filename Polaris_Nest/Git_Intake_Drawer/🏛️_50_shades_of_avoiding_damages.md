@@ -8,7 +8,7 @@
 Satirical-forensic analysis of how bureaucracies narrativise scandal using pop-culture archetypes.  
 Shows how gendered and racialised tropes (the “over-emotional woman,” the “dangerous foreign man”) become PR shorthand during liability containment.  
 Institutions plagiarise fan-fiction logic to turn misconduct into melodrama, converting reputational panic into gossip management.
-
+<!--Also: please read some Said and Fanon?-->
 ---
 
 ## 📑 Key Sections  
