@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-23 18:53:12 UTC_
+_Generated on 2025-10-23 19:12:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1587,6 +1587,7 @@ _Generated on 2025-10-23 18:53:12 UTC_
     - [`🛰️_repeated_disconnections_24hrs.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_repeated_disconnections_24hrs.md)
     - [`🛰️_stop_witholding_c_and_v_children.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stop_witholding_c_and_v_children.md)
     - [`🛰️_what_bakwaas_is_this_continued.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_what_bakwaas_is_this_continued.PNG)
+    - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🛰️🤣.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🤣.md)
     - [`🜁_shared_air.md`](Polaris_Nest/Git_Intake_Drawer/🜁_shared_air.md)
     - [`🥠_the_machine_confesses_its_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥠_the_machine_confesses_its_feelings.md)
