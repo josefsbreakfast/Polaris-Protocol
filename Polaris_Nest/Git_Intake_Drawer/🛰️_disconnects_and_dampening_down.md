@@ -48,4 +48,39 @@ It's not as if I didn't get another offer; I should've stayed in London.
 
 I would've been safer by miles.  
 
-2025-10-23
+2025-10-23.  
+
+---
+
+to clarify today has been full of lagging, disconnect from the Internet, disconnect part the way through tasks, cut off pertinent information requests, poor signal on telecoms for no apparent reason, several nudges through government platforms, and any tools like AI for example, are displaying agenetic like behaviours (not following templates, diverting around subjects even when asked directly, strange guardrails including overstating or over interpreting language to be about risk behaviour when this is clearly not the case and not something that would've caused the same flags before).  
+
+---
+
+The guard rail situation reminds me a lot of what used to happen when I was in student services.  
+
+This means that if you ask the student with a long-term mental health problem, whether they feel suicidal, and they say yes, but they're safe (and they mean it), if this raises a flag when you record it anyway, then you effectively rack up that person's risk score, in a way that's just acknowledging that they have the same disability they've always had.  
+
+That my friend?  
+
+That is eugenics still being in playing in the UK today.  
+
+I find this really difficult because you're often told to record important negatives in medicine and this is really helpful when you read it in the future (or read a colleagues notes in future), but when this speeds directly to a risk scoring apparatus that can't differentiate between accounted for risk, and high risk, then all you're going to do is increase the students risk by your actions.  
+
+I have some long stories about that, but I'm too tired from arguing with a robot 🤣🤣🤣.  
+
+A particularly hilarious example of how bad this is in terms of getting it right, is that I said something in humour yesterday, and again our strange agenic-like plug-in was active, and today I got a very distressing new story about a murderer and subsequent cannibalism.  
+
+I can promise you that was not the point of the joke, and it was as if it took one little thing from what I said in a longer setting and just turned it into, "you can't harm people".  
+
+I wasn't going to harm people.  
+
+Any human reading that comment, would see really clearly that that was not what was communicated at all, not even metaphorically.  
+
+So yes.  
+
+It is wearing me out today.  
+
+And that's interesting because it's been like this for about a week or so where it feels like the algorithm is slanting towards exhausting me, and usually this happens when something good is going on, and where it would be for us for other people if I lost motivation.  
+
+
+I can confirm that I am adequately motivated to see how this all comes out in the wash. 🤣🤣🤣  
