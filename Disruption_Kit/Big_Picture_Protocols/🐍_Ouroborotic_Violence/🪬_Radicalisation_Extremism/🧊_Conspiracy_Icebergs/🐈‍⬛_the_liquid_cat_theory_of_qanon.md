@@ -51,7 +51,7 @@ It survives because it’s playful enough to disguise despair.
 ---
 
 ## 🌌 Constellations  
-🐈‍⬛ 🧊 🕎 🐍 — QAnon, radicalisation, mythology, adaptability.
+🐈‍⬛ 🧊 🐍 🪬 — QAnon, radicalisation, mythology, adaptability.
 
 ---
 
