@@ -16,24 +16,24 @@ Institutions plagiarise fan-fiction logic to turn misconduct into melodrama, con
 1. **Erotics of Control**  
    - Crisis comms borrow language from romance thrillers: *forbidden, obsessive, unstable.*  
    - “Professional boundaries” become the moral safe-word of administrative kink.
-
+<!--As if these institutions respect safe words. 🤣-->
 2. **Archetype Casting**  
    - Women framed through *excess*: too loud, too feeling, too online.  
    - Men of colour cast as *risk*: seductive, volatile, foreign.  
    - The pair functions as a morality play about compliance, not people.
-
+<!--Again with the, "please read the books in your own libraries".-->
 3. **Narrative as NDA**  
-   - Once the script circulates, facts become spoilers.  
+   - Once the script circulates, facts become fiction.  
    - The melodrama distracts donors and regulators from the spreadsheet labelled *damages.*  
-
+<!--And boy is that a big spreadsheet.-->
 4. **Procedural Pornography**  
    - HR emails read like pulp dialogue: *“She was non-compliant with tone expectations.”*  
    - Paper trails replace whips; signatures replace safewords.  
-
+<!--Overly padded internal files tell on themselves.-->
 5. **Avoidance Economy**  
    - Settlements re-cast as “closure arcs.”  
    - Institutional desire is always for silence, never satisfaction.
-
+<!--Because it's okay for the institution to be imperfect, just not the humams in it.-->
 ---
 
 ## 🌌 Constellations  
