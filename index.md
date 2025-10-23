@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-23 05:58:17 UTC_
+_Generated on 2025-10-23 06:25:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1548,6 +1548,7 @@ _Generated on 2025-10-23 05:58:17 UTC_
     - [`🏛️_parliamentary_safeguards.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_parliamentary_safeguards.md)
     - [`🏛️_raac_ruins_squad.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_raac_ruins_squad.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
+    - [`🐝_carceral_disability.md`](Polaris_Nest/Git_Intake_Drawer/🐝_carceral_disability.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Polaris_Nest/Git_Intake_Drawer/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
