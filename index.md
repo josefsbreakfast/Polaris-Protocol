@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-23 00:09:04 UTC_
+_Generated on 2025-10-23 02:31:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1536,9 +1536,11 @@ _Generated on 2025-10-23 00:09:04 UTC_
     - [`🌱_love_is_antifascist.md`](Polaris_Nest/Git_Intake_Drawer/🌱_love_is_antifascist.md)
     - [`🌺_soft_containment.md`](Polaris_Nest/Git_Intake_Drawer/🌺_soft_containment.md)
     - [`🌿_lawful_illegality_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🌿_lawful_illegality_of_care.md)
+    - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
     - [`🌿_wild_type_encounters.md`](Polaris_Nest/Git_Intake_Drawer/🌿_wild_type_encounters.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎺_echo_punk.md`](Polaris_Nest/Git_Intake_Drawer/🎺_echo_punk.md)
+    - [`🏛️_parliamentary_safeguards.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_parliamentary_safeguards.md)
     - [`🏛️_raac_ruins_squad.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_raac_ruins_squad.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
