@@ -51,3 +51,7 @@ They are actually quite incapable left to their own devices, I'm just ordinary p
 This gives us some really cool and obvious vulnerabilities and countermeasures.  
 
 No pasáran.  
+
+If you need a feee version/honour the blessed memory:  
+
+(http://k-punk.org/abandon-hope-summer-is-coming/)
