@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-23 16:39:45 UTC_
+_Generated on 2025-10-23 16:42:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1613,6 +1613,7 @@ _Generated on 2025-10-23 16:39:45 UTC_
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
+    - [`🩸_ideological_skinwalkers.md`](Polaris_Nest/Git_Intake_Drawer/🩸_ideological_skinwalkers.md)
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
