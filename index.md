@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-23 19:35:14 UTC_
+_Generated on 2025-10-23 19:56:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1587,6 +1587,7 @@ _Generated on 2025-10-23 19:35:14 UTC_
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_repeated_disconnections_24hrs.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_repeated_disconnections_24hrs.md)
     - [`🛰️_stop_witholding_c_and_v_children.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stop_witholding_c_and_v_children.md)
+    - [`🛰️_weird_guardrails.md.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_weird_guardrails.md.PNG)
     - [`🛰️_what_bakwaas_is_this_continued.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_what_bakwaas_is_this_continued.PNG)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🛰️🤣.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🤣.md)
