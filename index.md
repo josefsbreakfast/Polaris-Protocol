@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-23 02:31:17 UTC_
+_Generated on 2025-10-23 03:44:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -289,6 +289,8 @@ _Generated on 2025-10-23 02:31:17 UTC_
           - [`🪬_masculinity_in_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_masculinity_in_crisis.md)
           - [`🪬_pua_to_far_right_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_pua_to_far_right_pipeline.md)
           - [`🪭_comfort_building.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪭_comfort_building.md)
+        - [**🧊_Conspiracy_Icebergs/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/README.md)
         - [**🧟‍♀️_Frankenstack_Bytes/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/README.md)
           - [`🕸️_frankenstack_multi_modal_response_frame.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🕸️_frankenstack_multi_modal_response_frame.md)
