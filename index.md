@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-23 05:50:59 UTC_
+_Generated on 2025-10-23 05:52:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1608,6 +1608,7 @@ _Generated on 2025-10-23 05:50:59 UTC_
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
+    - [`🪞_Erosion_of_Duty_of_Care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_Erosion_of_Duty_of_Care.md)
     - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪬_gossip_engines.md`](Polaris_Nest/Git_Intake_Drawer/🪬_gossip_engines.md)
