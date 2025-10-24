@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-24 00:57:39 UTC_
+_Generated on 2025-10-24 00:59:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1584,6 +1584,7 @@ _Generated on 2025-10-24 00:57:39 UTC_
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
+    - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_bakwaas_but_okay_fine.PNG)
     - [`🛰️_disconnects_and_dampening_down.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_disconnects_and_dampening_down.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
