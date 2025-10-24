@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-24 14:30:15 UTC_
+_Generated on 2025-10-24 14:31:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1538,6 +1538,7 @@ _Generated on 2025-10-24 14:30:15 UTC_
       - [`🍬_algorithmic_endocrine_axis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🍬_algorithmic_endocrine_axis.md)
       - [`💣_the_precision_illusion.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/💣_the_precision_illusion.md)
       - [`📚_survey_of_current_literature.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/📚_survey_of_current_literature.md)
+      - [`🧩_ecological_ethics_of_algorithmic_design.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧩_ecological_ethics_of_algorithmic_design.md)
       - [`🧭_governance_and_oversight_in_algorithmic_health.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md)
       - [`🪰_digital_deet_algorithmic_invasiveness.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🪰_digital_deet_algorithmic_invasiveness.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
