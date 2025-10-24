@@ -2,6 +2,14 @@ re Kai's trumpet here/
 
 https://vm.tiktok.com/ZNdvbn9p7/
 
+---
+
+re Nathan's impromptu here:  
+
+https://vm.tiktok.com/ZNdvKJ1Ag/
+
+---
+
 # 🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures  
 **First created:** 2025-10-22 | **Last updated:** 2025-10-22  
 *When abandoned architecture keeps singing.*
