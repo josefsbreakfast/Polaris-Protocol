@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-24 16:15:53 UTC_
+_Generated on 2025-10-24 16:29:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1559,6 +1559,7 @@ _Generated on 2025-10-24 16:15:53 UTC_
     - [`🌿_wild_type_encounters.md`](Polaris_Nest/Git_Intake_Drawer/🌿_wild_type_encounters.md)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
+    - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎺_echo_punk.md`](Polaris_Nest/Git_Intake_Drawer/🎺_echo_punk.md)
     - [`🏛️_50_shades_of_avoiding_damages.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_50_shades_of_avoiding_damages.md)
     - [`🏛️_parliamentary_safeguards.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_parliamentary_safeguards.md)
