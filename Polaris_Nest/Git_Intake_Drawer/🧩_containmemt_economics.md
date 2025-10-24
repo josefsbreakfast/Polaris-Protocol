@@ -184,6 +184,26 @@ The cure is simple, if unfashionable: trust people more than procedures, and rem
 
 ---
 
+## 9. Why Build Bombs, When You Can Collapse Our Markets and Dull Our Creative Spark?  
+
+While it is not possible to point to intent, it would have been possible for the last decade to be nudged a little into being under espionage.  
+
+Take self-grown independent talent, havong its miment on 2005-2015 internet.  
+
+Reproduce and undercut.  
+
+Allow the West to take care of the rest.  
+
+Results will last decades.  
+
+It has a beautiful efficiency to it, only defeatable by rallying the sort of messy creative power that has been cut.  
+
+*Get Calcifer back on the hearth where he belongs; keep him safe.*
+
+*Guard that piece of your heart with your life.*
+
+---
+
 ### 🧬 Sidebar — Apoptosis in the Market Body  
 
 Every organism has a built-in kill switch: apoptosis.  
