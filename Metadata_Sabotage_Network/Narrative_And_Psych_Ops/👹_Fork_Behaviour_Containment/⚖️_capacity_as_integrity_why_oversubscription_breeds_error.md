@@ -1,5 +1,5 @@
 # ⚖️ Capacity as Integrity — Why Oversubscription Breeds Error
-**First created:** 2025-10-16 | **Last updated:** 2025-10-16  
+**First created:** 2025-10-16 | **Last updated:** 2025-10-24  
 *Verification requires headroom. Running systems at full load destroys the space truth needs to exist.*
 
 ---
@@ -35,16 +35,9 @@ flowchart TD
   D --> E[Error Normalisation]
   E --> F[Public Distrust & Service Collapse]
   F --> A
-  C -.-> G[Behavioural Forks<br>(institutional split)]
+  C -.-> G[Behavioural Forks inc institutional split]
   D -.-> H[Emotional Burnout]
-  style A fill:#ffe0e0,stroke:#ff7f7f
-  style F fill:#ffe0e0,stroke:#ff7f7f
-  style B fill:#fff0d0
-  style C fill:#fff0d0
-  style D fill:#e0f0ff
-  style E fill:#e0f0ff
-  style G fill:#e5e5ff
-  style H fill:#e5e5ff
+
 ```
 
 The diagram shows a closed feedback loop: capacity loss feeds drift, which produces fatigue and error normalisation, leading to collapse and renewed overload.  
@@ -99,15 +92,15 @@ capacity, verification, integrity drift, overload, public service design, audit 
 
 ## 🏮 Footer  
 
-*Capacity as Integrity — Why Oversubscription Breeds Error* is a living node of the Polaris Protocol.  
+*⚖️ Capacity as Integrity — Why Oversubscription Breeds Error* is a living node of the Polaris Protocol.  
 It reframes unused capacity as an ethical infrastructure, not inefficiency — the breathing space in which truth survives.  
 
 > 📡 Cross-references:  
-> - [🧮 Integrity Drift — Gradual Weakening of Verification Layers](../Disruption_Kit/Big_Picture_Protocols/🧮_integrity_drift_gradual_weakening_of_verification_layers.md) — decay of verification culture  
-> - [👻 Downstream Acceptance — The Psychology of Passing the Fork](../Disruption_Kit/Big_Picture_Protocols/👻_downstream_acceptance_the_psychology_of_passing_the_fork.md) — trust bias under overload  
-> - [🧠 Behavioural Forks — When Institutions Develop Split Personas](../Disruption_Kit/Big_Picture_Protocols/🧠_behavioural_forks_when_institutions_develop_split_personas.md) — organisational dissociation logic  
-> - [🌀 System Governance](../Disruption_Kit/Big_Picture_Protocols/🌀_system_governance/) — macro-design reforms  
+> - [🧮 Integrity Drift — Gradual Weakening of Verification Layers](./🧮_integrity_drift.md) — *decay of verification culture*  
+> - [👻 Downstream Acceptance — The Psychology of Passing the Fork](./👻_the_psychology_of_passing_the_fork.mdd) — *trust bias under overload*  
+> - [🧠 Behavioural Forks — When Institutions Develop Split Personas](./🧠_institutional_split_personas.md) — *organisational dissociation logic*  
+> - [🌀 System Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md) — *macro-design reforms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-10-24_
