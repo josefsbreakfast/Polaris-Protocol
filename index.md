@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-24 14:36:01 UTC_
+_Generated on 2025-10-24 14:37:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1538,6 +1538,7 @@ _Generated on 2025-10-24 14:36:01 UTC_
       - [`🍬_algorithmic_endocrine_axis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🍬_algorithmic_endocrine_axis.md)
       - [`💣_the_precision_illusion.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/💣_the_precision_illusion.md)
       - [`📚_survey_of_current_literature.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/📚_survey_of_current_literature.md)
+      - [`🚀_algorithmic_weapons_treaties.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🚀_algorithmic_weapons_treaties.md)
       - [`🚀_mass_biochemical_engineering.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🚀_mass_biochemical_engineering.md)
       - [`🧩_ecological_ethics_of_algorithmic_design.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧩_ecological_ethics_of_algorithmic_design.md)
       - [`🧭_governance_and_oversight_in_algorithmic_health.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md)
