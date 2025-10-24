@@ -94,3 +94,13 @@ so polsci might need to get their witches and wizards fancy dress out early and 
 i would prefer NOT to go through a second european "let's burn anyone who knows how to cool a fever".  
 
 ---
+
+there is something about *mass death event* = *widespread paranoia* = *burn everyone who is trying to be flexible around the problem and get through this mess*  
+
+? reflexive self-sabotage attempt to maintain power  
+
+i might have a day off today - i've managed to convince myself that probably someone is reviewing my personal data problem and probably they might help me to not die.  
+
+it's calming but i'm a bit delerious from what that shatterfork migrane situation has done to my sleep.  
+
+---
