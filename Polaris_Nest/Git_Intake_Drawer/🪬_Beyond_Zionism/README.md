@@ -73,3 +73,10 @@ then for the R&D:
 - and my favourite: where is the money, and where are the locuses of power, and how do they self-protect and how can they be challenged -- because this taught me a lot about "wow there are some really obvious weak points and weaponisable points in the beurocracy huh".
 (which is bad if we like stability and democracy innit.)
 
+---
+
+slightly more mystical:  
+
+- king solomon across the 3 siblins and how this pans out in islamophobia and antisemitism in the imperial capture of christianity.
+
+- 
