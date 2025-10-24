@@ -91,6 +91,30 @@ In that sense, Masoch becomes an accidental systems theorist, and the novel a ma
 
 ---
 
+### 📚 FIELD MANUAL ENTRY — *Venus in Furs* Test  
+
+**Purpose:** Detect latent witch-hunt reflex in policy culture.  
+
+**Protocol:**  
+Give each policy unit a copy of *Venus in Furs* (1870).  
+Observe the physiological chain of events: blush → memo → ban.  
+Record time to HR escalation.  
+
+**Interpretation:**  
+- Rapid moral panic = high algorithmic cortisol; witchfinder reflex active.  
+- Nervous laughter = mild endocrine disturbance; bureaucratic shame response.  
+- Calm discussion of consent, contract, and care = functioning political immune system.  
+
+**Notes:**  
+Moral panic is the governance equivalent of inflammation.  
+An institution that can’t read a book without sweating can’t run a democracy without persecution.  
+The *ECHR* presently acts as its antihistamine; remove it and the hives return.  
+
+**Tagline:**  
+> *Hand them Masoch before they make policy.*
+
+---
+
 ## 🌌 Constellations  
 
 🪄 Expression of Norms • 🔥 The Witchings of Europe • 🧬 Algorithmic Endocrinology • 🌀 System Governance  
