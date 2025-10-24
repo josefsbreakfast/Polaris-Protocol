@@ -95,11 +95,12 @@ capacity, verification, integrity drift, overload, public service design, audit 
 *⚖️ Capacity as Integrity — Why Oversubscription Breeds Error* is a living node of the Polaris Protocol.  
 It reframes unused capacity as an ethical infrastructure, not inefficiency — the breathing space in which truth survives.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧮 Integrity Drift — Gradual Weakening of Verification Layers](./🧮_integrity_drift.md) — *decay of verification culture*  
-> - [👻 Downstream Acceptance — The Psychology of Passing the Fork](./👻_the_psychology_of_passing_the_fork.mdd) — *trust bias under overload*  
+> - [👻 Downstream Acceptance — The Psychology of Passing the Fork](./👻_the_psychology_of_passing_the_fork.md) — *trust bias under overload*  
 > - [🧠 Behavioural Forks — When Institutions Develop Split Personas](./🧠_institutional_split_personas.md) — *organisational dissociation logic*  
-> - [🌀 System Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md) — *macro-design reforms*  
+> - [🌀 Systems & Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md) — *macro-design reforms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
