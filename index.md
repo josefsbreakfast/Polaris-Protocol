@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-24 13:43:22 UTC_
+_Generated on 2025-10-24 13:44:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1531,7 +1531,6 @@ _Generated on 2025-10-24 13:43:22 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`_more_blockages_and_disconnects.png`](Polaris_Nest/Git_Intake_Drawer/_more_blockages_and_disconnects.png)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`☕️_the_auntie_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_auntie_algorithm.md)
     - [`⚡️_tempo_differential.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_tempo_differential.md)
@@ -1590,6 +1589,7 @@ _Generated on 2025-10-24 13:43:22 UTC_
     - [`🛰️_disconnects_and_dampening_down.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_disconnects_and_dampening_down.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
+    - [`🛰️_more_blockages_and_disconnects.png`](Polaris_Nest/Git_Intake_Drawer/🛰️_more_blockages_and_disconnects.png)
     - [`🛰️_repeated_disconnections_24hrs.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_repeated_disconnections_24hrs.md)
     - [`🛰️_stop_witholding_c_and_v_children.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stop_witholding_c_and_v_children.md)
     - [`🛰️_weird_guardrails.md.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_weird_guardrails.md.PNG)
