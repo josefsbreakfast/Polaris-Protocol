@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-24 14:37:29 UTC_
+_Generated on 2025-10-24 14:49:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1584,6 +1584,7 @@ _Generated on 2025-10-24 14:37:29 UTC_
     - [`📚_the_banned_book_first_reading.md`](Polaris_Nest/Git_Intake_Drawer/📚_the_banned_book_first_reading.md)
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
+    - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
