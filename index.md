@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-24 16:37:58 UTC_
+_Generated on 2025-10-24 20:16:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1543,6 +1543,8 @@ _Generated on 2025-10-24 16:37:58 UTC_
       - [`🧩_ecological_ethics_of_algorithmic_design.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧩_ecological_ethics_of_algorithmic_design.md)
       - [`🧭_governance_and_oversight_in_algorithmic_health.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md)
       - [`🪰_digital_deet_algorithmic_invasiveness.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🪰_digital_deet_algorithmic_invasiveness.md)
+    - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
+      - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`☕️_the_auntie_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_auntie_algorithm.md)
