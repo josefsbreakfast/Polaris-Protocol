@@ -184,6 +184,21 @@ The cure is simple, if unfashionable: trust people more than procedures, and rem
 
 ---
 
+### 🧬 Sidebar — Apoptosis in the Market Body  
+
+Every organism has a built-in kill switch: apoptosis.  
+When a cell detects unrecoverable damage, it dissolves itself to protect the whole.  
+It’s an act of programmed altruism — but when the signalling goes wrong, healthy tissue dies too.  
+
+Global capitalism found its own apoptosis trigger in the rule *“make it cheaper, make it faster.”*  
+That signal, repeated often enough, convinces every productive cell — the small studio, the workshop, the local factory — that self-deletion is the rational choice.  
+Replication replaces renewal, and the body mistakes its slow collapse for healing.  
+
+The treatment is not more chemotherapy.  
+It’s metabolic care: slowing the pulse of extraction, rebuilding the tissue of trust, teaching the system how to tell innovation from tumour again.  
+
+---
+
 ## 🌌  Constellations  
 
 🪄 Expression of Norms • 🫀 Our Hearts Our Minds • 🌀 System Governance • 🧬 Algorithmic Endocrinology  
