@@ -1,5 +1,5 @@
 # 💌 Letters of Refusal  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-24  
 *Correspondence formats for boundary assertion and ethical exit.*
 
 ---
@@ -11,10 +11,10 @@ Blends tone analysis, ethics, and trauma-informed communication.
 ---
 
 ## 📑 Key Sections  
-1. The Ethics of Saying No  
-2. Tone Calibration — Firm, Not Cruel  
-3. Templates for Refusal Letters  
-4. Case Studies: Exit Without Collapse  
+❌ The Ethics of Saying No  
+🦾 Tone Calibration — Firm, Not Cruel  
+💌 Templates for Refusal Letters  
+🦿 Case Studies: Exit Without Collapse  
 
 ---
 
@@ -39,4 +39,4 @@ It offers textual tools for ethical exits and self-protective communication in c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-24_
