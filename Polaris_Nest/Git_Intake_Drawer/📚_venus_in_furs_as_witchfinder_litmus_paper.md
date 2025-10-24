@@ -115,6 +115,23 @@ The *ECHR* presently acts as its antihistamine; remove it and the hives return.
 
 ---
 
+### 🧱 Afterword — The Barrier Effect  
+
+The European Convention on Human Rights is more than a treaty; it is **an institutional nervous system**.  
+Its articles function like inhibitory neurons: they slow the reflex to punish, delay the impulse to cleanse.  
+When officials rail against it, what they are really rejecting is the feeling of restraint — the moment when their own adrenaline meets a procedural “no.”  
+
+Repealing the ECHR would not grant new freedom; it would remove the last circuit breaker between embarrassment and persecution.  
+Every regime that dismantles its legal inhibitors believes it is asserting sovereignty.  
+In reality, it is revealing its **lack of self-regulation**.  
+
+The Convention’s real utility is diagnostic.  
+Watch who demands its abolition and you will see who fears exposure most.  
+It stops them from being *outed* — not only for misconduct, but for the fragility of their moral control systems.  
+Without that barrier, the witch-finder reflex would fire unimpeded, and the bonfires would simply change medium.  
+
+---
+
 ## 🌌 Constellations  
 
 🪄 Expression of Norms • 🔥 The Witchings of Europe • 🧬 Algorithmic Endocrinology • 🌀 System Governance  
