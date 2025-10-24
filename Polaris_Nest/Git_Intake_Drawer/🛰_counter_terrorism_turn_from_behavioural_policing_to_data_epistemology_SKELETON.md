@@ -1,3 +1,7 @@
+<!-- Intake drawer header
+Draft skeleton for the “Counter-Terrorism at the Turn” mega-node.  
+Scaffold of sections and case-study placeholders tracing the UK shift from behavioural policing to data epistemology. -->
+
 # 🛰 Counter-Terrorism at the Turn — From Behavioural Policing to Data Epistemology  
 **Draft status:** Skeleton | **Intake drawer:** /Big_Picture_Protocols/System_Governance/🛰_Counter_Terrorism_Turn/  
 *When the boots-on-ground story meets the dashboard.*
