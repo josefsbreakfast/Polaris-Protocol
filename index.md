@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-25 22:22:30 UTC_
+_Generated on 2025-10-25 22:49:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1550,6 +1550,7 @@ _Generated on 2025-10-25 22:22:30 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`☕️_the_auntie_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_auntie_algorithm.md)
+    - [`♿️_refusing_convenience.md`](Polaris_Nest/Git_Intake_Drawer/♿️_refusing_convenience.md)
     - [`⚡️_tempo_differential.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_tempo_differential.md)
     - [`✨_feel_the_fear_and_fight_fascism_anyway.md`](Polaris_Nest/Git_Intake_Drawer/✨_feel_the_fear_and_fight_fascism_anyway.md)
     - [`🌀_ch ↯ ff.md`](Polaris_Nest/Git_Intake_Drawer/🌀_ch ↯ ff.md)
@@ -1593,9 +1594,11 @@ _Generated on 2025-10-25 22:22:30 UTC_
     - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
     - [`📮_the_polaris_mail_box.md`](Polaris_Nest/Git_Intake_Drawer/📮_the_polaris_mail_box.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
+    - [`🔁_ritual_and_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🔁_ritual_and_refusal.md)
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
+    - [`🕊_repairing_the_human.md`](Polaris_Nest/Git_Intake_Drawer/🕊_repairing_the_human.md)
     - [`🕰️_institutional_timescales_of_repair.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_institutional_timescales_of_repair.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
