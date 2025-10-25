@@ -41,3 +41,11 @@ there also just shouldnt be the stigma around this that continues to endure.
 people keeo tying hiv and purity, yet don't seem to realise that the children they have *must have come from somewhere*.  
 
 seriously. you're all so strange.  
+
+---
+
+and the first death threat of the lot, so that's cool.  
+
+this the best you all got?  
+
+we've already had a young woman being "jokenly" forced into a cage, so idk have you actually got anything that isn't boring and hasn't been done a million times already?  
