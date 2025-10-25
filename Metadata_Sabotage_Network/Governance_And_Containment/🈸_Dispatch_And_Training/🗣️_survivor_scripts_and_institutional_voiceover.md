@@ -1,10 +1,10 @@
 # 🗣️ Survivor Scripts and Institutional Voice-Over  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
 *Tracing authorship loss in training case studies.*
 
 ---
 
-## 🧭 Orientation  
+## 🔥 Orientation  
 Institutions often speak through survivors while simultaneously silencing them.  
 This node examines how *authentic testimony* — words written to expose harm — becomes recoded into **training material**, **case examples**, or **best-practice slides** stripped of emotional resonance.  
 
@@ -13,7 +13,7 @@ This is what we call the **institutional voice-over**: the process by which raw 
 
 ---
 
-## 1️⃣ From Testimony to Template  
+## ✨ From Testimony to Template  
 Every survivor text begins as a living signal — a fragment of lived truth.  
 But through report-writing, safeguarding frameworks, or “reflective practice” exercises, that signal is flattened into template.  
 
@@ -25,7 +25,7 @@ The survivor becomes an “example,” their narrative retrofitted to demonstrat
 
 ---
 
-## 2️⃣ The Loss of Tone  
+## ✂️ The Loss of Tone  
 Tone is the soul of authorship.  
 When institutions rewrite testimony, they neutralise the emotional charge that made the story legible in the first place.  
 Fear becomes *“distress”*, anger becomes *“concern”*, resistance becomes *“non-compliance.”*  
@@ -33,11 +33,13 @@ Fear becomes *“distress”*, anger becomes *“concern”*, resistance becomes
 Tone-loss operates as a form of containment: it keeps the story speakable but **unfelt**.  
 Readers are trained to process trauma as policy vocabulary, safely abstracted from human consequence.  
 
-To study tone-loss is therefore to trace **where empathy is edited out** — where risk management replaces recognition.
+To study tone-loss is therefore to trace **where empathy is edited out** — where risk management replaces recognition.  
+
+> *They cut off pieces of you, until you fit.*  
 
 ---
 
-## 3️⃣ Credit, Consent, and Erasure  
+## 🚩 Credit, Consent, and Erasure  
 Many case studies originate in consent forms that promise “training use only.”  
 But consent without context is not sovereignty.  
 When stories are re-told without the author’s ongoing participation, the institution gains both **narrative control** and **ethical insulation**.  
@@ -49,7 +51,7 @@ This is **ethical laundering through anonymity** — a system that celebrates le
 
 ---
 
-## 4️⃣ Reclaiming Narrative Integrity  
+## 🐦‍🔥 Reclaiming Narrative Integrity  
 Reclamation begins with refusing ventriloquism.  
 Survivor authors can counter the institutional voice-over by:  
 - Maintaining their own archives of drafts, notes, and oral histories.  
@@ -85,4 +87,4 @@ It reveals how authentic voices are retuned to fit bureaucratic registers — an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
