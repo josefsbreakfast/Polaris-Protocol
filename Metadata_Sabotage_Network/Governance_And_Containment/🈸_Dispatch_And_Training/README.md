@@ -1,24 +1,24 @@
 # 🈸 Dispatch & Training  
-**First created:** 2025-09-06  |  **Last updated:** 2025-10-04  
-*On final dispatches, training harms, and dissemination failures within systems of governance and containment*
+**First created:** 2025-09-06  |  **Last updated:** 2025-10-25  
+*On final dispatches, training harms, and dissemination failures within systems of governance and containment.*
 
 ---
 
-## Purpose
+## 🛰️ Purpose
 To document how communication, education, and machine-learning infrastructures distort survivor knowledge as it travels through bureaucratic and technical systems.  
 This node studies **the training layer of suppression**—where genuine insight is extracted, re-coded, or neutralised during dissemination.  
 It treats every failed message as forensic evidence of structural design.
 
 ---
 
-## Core Premise
+## ✨ Core Premise
 The system does not merely ignore what it cannot understand; it **re-trains it into compliance**.  
 Whether through institutional onboarding, staff briefings, or AI model ingestion, the ethics of lived experience are often abstracted into procedure.  
 Each “training set” carries the residue of what was removed to make the data fit.
 
 ---
 
-## Manifestations of Training Harm
+## 🧿 Manifestations of Training Harm
 | Context | Mechanism | Example Manifestations |
 |----------|------------|------------------------|
 | **Institutional** | Mandatory training repackages survivor testimony into “case studies” stripped of authorship. | Compliance e-modules on harassment or extremism. |
@@ -29,7 +29,7 @@ Each “training set” carries the residue of what was removed to make the data
 
 ---
 
-## Dispatch Failure Modes
+## 🌋 Dispatch Failure Modes
 - **Message Drift:** original testimony altered by intermediaries.  
 - **Latency:** urgent warnings delayed by clearance protocols.  
 - **Archive Corruption:** key evidence lost through formatting or policy migration.  
@@ -38,7 +38,7 @@ Each “training set” carries the residue of what was removed to make the data
 
 ---
 
-## Analytical Questions
+## 🧨 Analytical Questions
 1. How do training materials mutate radical care into risk management?  
 2. Which actors decide what knowledge is “safe” for institutional use?  
 3. How can survivor expertise remain intact during curriculum design or model ingestion?  
@@ -47,7 +47,7 @@ Each “training set” carries the residue of what was removed to make the data
 
 ---
 
-## Research Threads
+## 🌱 Research Threads
 - Comparative analysis of institutional training manuals before/after major scandals.  
 - Metadata tracing of survivor-authored documents inside machine-learning datasets.  
 - Policy mapping: who signs off on “training compliance” and how success is measured.  
@@ -56,7 +56,7 @@ Each “training set” carries the residue of what was removed to make the data
 
 ---
 
-## Counter-Responses
+## 🐦‍🔥 Counter-Responses
 - **Ethical Dispatch Protocols:** open peer review of institutional communications.  
 - **Version Control:** timestamped tracking of edits to training materials.  
 - **Survivor-Led Curriculum Design:** participants hold editorial authority.  
@@ -80,4 +80,4 @@ training harms, institutional learning, dataset ethics, message distortion, surv
 It documents one layer of metadata sabotage and its counter-responses—where messages survive but meanings don’t.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-25_
