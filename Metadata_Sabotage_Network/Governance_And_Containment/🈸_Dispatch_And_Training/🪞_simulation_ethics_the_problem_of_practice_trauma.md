@@ -1,5 +1,5 @@
 # 🪞 Simulation Ethics — The Problem of “Practice Trauma”  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
 *Critiquing empathy drills, VR modules, and trauma simulations.*
 
 ---
@@ -145,4 +145,4 @@ It recognises the gendered economies of care that turn suffering into curriculum
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
