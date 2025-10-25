@@ -1,10 +1,10 @@
-# 📡 Signal Lost — Dispatch Drift and Latency  
+# 📡 Signal Lost: Dispatch Drift and Latency  
 **First created:** 2025-10-10 | **Last updated:** 2025-10-20  
 *Tracing how messages warp as they travel through bureaucracy.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Dispatch drift describes the *slow violence of delay.*  
 It is not the absence of communication, but its deformation under the weight of clearance, tone-polishing, and interdepartmental filtering.  
 
@@ -15,7 +15,7 @@ Latency, in this sense, becomes a tool of governance. It is the bureaucratic ver
 
 ---
 
-## 1️⃣ The Pipeline of Delay  
+## 👾 The Pipeline of Delay  
 Institutional pipelines turn dispatch into procession.  
 An urgent field alert moves through “awareness,” “review,” “sign-off,” “distribution,” and “policy confirmation.” By the time it arrives, the crisis has matured.  
 
@@ -24,7 +24,7 @@ But in practice, this often means it is being **contained**. The delay itself be
 
 ---
 
-## 2️⃣ Clearance as Censorship  
+## 📯 Clearance as Censorship  
 Most dispatch delays are not logistical but reputational.  
 Clearance protocols ensure that messages align with an approved institutional narrative — not necessarily with fact.  
 
@@ -34,7 +34,7 @@ This is **censorship by workflow** — a procedural mask for institutional fear.
 
 ---
 
-## 3️⃣ Bureaucratic Tone Policing  
+## 👁️‍🗨️ Bureaucratic Tone Policing  
 Tone becomes the scapegoat of truth.  
 A message flagged as “too emotive,” “too confrontational,” or “too complex” is returned for revision until it no longer disturbs.  
 
@@ -45,7 +45,7 @@ In effect, institutions cultivate their own **internal translators** — those w
 
 ---
 
-## 4️⃣ Counter-Latency Protocols  
+## 🐝 Counter-Latency Protocols  
 Counter-latency is the practice of preserving urgency against systemic drag.  
 It involves documenting *not just what was said,* but *when* and *how long it took* to be acknowledged.  
 
