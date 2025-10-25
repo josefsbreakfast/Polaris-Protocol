@@ -1,10 +1,10 @@
-# 💾 Archival Drift — When Updates Delete History  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+# 💾 Archival Drift: When Updates Delete History  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
 *Digital forensics of policy migrations and auto-purge erasures.*
 
 ---
 
-## 🧭 Orientation  
+## ✨ Orientation  
 Investigates how **content management systems**, **LMS migrations**, and **training platform refreshes** quietly erase early warnings or inconvenient histories.  
 These “updates” are not neutral. They perform an **aesthetic of renewal** that disguises **forensic loss** — evidence of abuse, dissent, or malfunction overwritten by corporate templates of “improvement.”  
 
@@ -12,7 +12,7 @@ Archival drift is the entropy of bureaucratic truth. It happens when compliance 
 
 ---
 
-## 1️⃣ LMS Migrations and Lost Files  
+## ✈️ LMS Migrations and Lost Files  
 When platforms migrate — SharePoint → Teams → PowerBI → bespoke dashboards — attachments break, file paths rot, and metadata hierarchies flatten.  
 Institutions call this “streamlining.” But for forensic reconstruction, the effect is catastrophic: *embedded evidence is rendered untraceable.*  
 
@@ -20,7 +20,7 @@ In training portals, this often erases prior safeguarding reports or staff alert
 
 ---
 
-## 2️⃣ Auto-Purge as Policy  
+## 🕳️ Auto-Purge as Policy  
 “Auto-delete after 90 days.”  
 “Purge inactive accounts.”  
 “Archive retention capped at one year.”  
@@ -32,7 +32,7 @@ In investigative terms, this constitutes **metadata laundering** — the removal
 
 ---
 
-## 3️⃣ The Aesthetic of Fresh Starts  
+## 🍃 The Aesthetic of Fresh Starts  
 Interface updates promise a clean, modern experience.  
 But beneath every redesign lies an exorcism: broken URLs, deprecated warnings, vanished comment threads.  
 This design rhetoric of *“moving forward”* detaches institutions from their own archival lineage, allowing reputational resets without acknowledging responsibility.  
@@ -41,7 +41,7 @@ Digital renewal becomes the institutional equivalent of a public confession scru
 
 ---
 
-## 4️⃣ Archival Counter-Practices  
+## 🫁 Archival Counter-Practices  
 Resisting drift requires **shadow archiving**:  
 - Manual captures (screenshots, PDFs, WARC files) before migrations.  
 - Parallel timestamping of policy revisions.  
@@ -75,4 +75,4 @@ It treats each deleted version as forensic evidence of containment by refresh �
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
