@@ -1,10 +1,10 @@
 # 🧪 Experiments in Ethical Retraining  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
 *Prototypes for survivor-led curricula and counter-datasets.*
 
 ---
 
-## 🧭 Orientation  
+## ✨ Orientation  
 Where *Machine Learning as Moral Re-Education* mapped containment through training, this node maps its inversion.  
 If standard AI training teaches conformity, *ethical retraining* teaches **integrity through divergence**.  
 
@@ -13,7 +13,7 @@ The aim is to prototype educational systems that preserve **voice lineage**, dis
 
 ---
 
-## 1️⃣ Survivor-Led Curriculum Design  
+## 🐉 Survivor-Led Curriculum Design  
 Ethical retraining begins by **reversing authorship hierarchies**.  
 Instead of institutions teaching survivors how to “communicate professionally,” survivors teach institutions how to listen responsibly.  
 
@@ -26,7 +26,7 @@ This flips the moral axis of learning: the expert becomes the listener, and the 
 
 ---
 
-## 2️⃣ Dataset Refusal Mechanics  
+## 🪄 Dataset Refusal Mechanics  
 Conventional datasets grow by accumulation.  
 Counter-datasets grow by **refusal** — by defining what should *never again* be used without consent.  
 
@@ -41,7 +41,7 @@ It’s a form of **moral version control**: each refusal pushes the system close
 
 ---
 
-## 3️⃣ Peer-Governed Review Practices  
+## 🐅 Peer-Governed Review Practices  
 Instead of top-down “ethics boards,” these experiments test **peer-governed review circles** — networks of survivors, educators, technologists, and artists who audit together in public.  
 
 Decision-making is distributed; accountability is shared.  
@@ -55,7 +55,7 @@ This produces a form of **ethical mutual aid**, where governance itself is a pra
 
 ---
 
-## 4️⃣ Evaluation Without Extraction  
+## 🔮 Evaluation Without Extraction  
 Standard evaluation demands measurable outputs: metrics, benchmarks, KPIs.  
 In ethical retraining, evaluation is **reflexive, not extractive**.  
 The question shifts from *“what did we produce?”* to *“how did we relate?”*  
@@ -69,7 +69,7 @@ The output is not the paper or the dataset — it is the **trust restored** in t
 
 ---
 
-## 🧭 Applied Examples  
+## 🐦‍🔥 Applied Examples  
 
 ### 🧩 *Example 1 — The “Refusal Archive” Pilot (UK, 2024)*  
 A survivor-led digital project that created a consent-driven library of testimony fragments.  
@@ -119,4 +119,4 @@ It develops repair mechanisms for the training layer of suppression — teaching
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
