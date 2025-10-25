@@ -48,7 +48,7 @@ Decision-making is distributed; accountability is shared.
 Every member is both subject and reviewer, dissolving the vertical hierarchy of “researcher” vs. “participant.”  
 
 Feedback loops are conversational, not extractive:  
-> the review becomes the lesson.  
+> the review becomes the lesson;  
 > the audit becomes the curriculum.  
 
 This produces a form of **ethical mutual aid**, where governance itself is a practice of solidarity.
