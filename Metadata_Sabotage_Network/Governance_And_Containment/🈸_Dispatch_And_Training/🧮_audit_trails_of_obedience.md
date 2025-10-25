@@ -1,10 +1,10 @@
 # 🧮 Audit Trails of Obedience  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
 *Following the data path from training to compliance.*
 
 ---
 
-## 🧭 Orientation  
+## ✨ Orientation  
 Every training platform leaves a trail — attendance logs, completion rates, satisfaction scores.  
 These traces are framed as accountability, yet they often serve as **obedience metrics**: tools for measuring moral conformity rather than learning.  
 
@@ -12,7 +12,7 @@ This node maps how audit infrastructures designed for transparency become instru
 
 ---
 
-## 1️⃣ The Metrics of Moral Performance  
+## 🛰️ The Metrics of Moral Performance  
 Modern institutions quantify ethics.  
 From safeguarding e-modules to unconscious bias tests, morality becomes something you can “pass.”  
 
@@ -24,7 +24,7 @@ Ethical depth is replaced by interaction data — the illusion of conscience aut
 
 ---
 
-## 2️⃣ Tracking Belief Compliance  
+## 🧨 Tracking Belief Compliance  
 When attendance equals absolution, surveillance becomes sanctified.  
 Many governance systems track not only whether training was done, but *how willingly*.  
 
@@ -36,7 +36,7 @@ In effect, every employee becomes both subject and statistic in a moral simulati
 
 ---
 
-## 3️⃣ Metadata Sabotage in Logs  
+## 🪼 Metadata Sabotage in Logs  
 Resistance does not always mean refusal; sometimes it means **misdirection**.  
 Audit systems are brittle — they believe what the metadata tells them.  
 
@@ -50,7 +50,7 @@ Each act of metadata interference becomes a kind of forensic graffiti — proof 
 
 ---
 
-## 4️⃣ Counter-Auditing Strategies  
+## 🐦‍🔥 Counter-Auditing Strategies  
 Counter-auditing means using the institution’s own transparency tools against it.  
 It transforms the audit from a compliance weapon into an evidentiary map of power.  
 
@@ -64,7 +64,7 @@ Where official audits produce obedience, counter-audits produce accountability.
 
 ---
 
-## 🧭 Applied Examples  
+## 🐝 Applied Examples  
 
 ### 📊 *Example 1 — Safeguarding E-Learning Metrics (UK, 2020–2024)*  
 An NHS trust’s mandatory safeguarding modules logged every click and completion time.  
@@ -101,8 +101,8 @@ It interprets audit data as a map of control rather than accountability — and 
 > 
 > - [🈸 Dispatch & Training README](./README.md)  
 > - [🧾 Version Control for Truth](./🧾_version_control_for_truth.md)  
-> - [🧭 Dispatch Ethics — Who Gets to Send the Message](./🧭_dispatch_ethics_who_gets_to_send_the_message.md)  
+> - [🧭 Dispatch Ethics — Who Gets to Send the Message](./🧭_dispatch_ethics.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
