@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-25 06:18:58 UTC_
+_Generated on 2025-10-25 16:25:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1622,6 +1622,7 @@ _Generated on 2025-10-25 06:18:58 UTC_
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🛰️🤣.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🤣.md)
     - [`🜁_shared_air.md`](Polaris_Nest/Git_Intake_Drawer/🜁_shared_air.md)
+    - [`🤦‍♀️_operation_shande.md`](Polaris_Nest/Git_Intake_Drawer/🤦‍♀️_operation_shande.md)
     - [`🥠_the_machine_confesses_its_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥠_the_machine_confesses_its_feelings.md)
     - [`🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md`](Polaris_Nest/Git_Intake_Drawer/🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md)
     - [`🥮_tonal_soverignity.md`](Polaris_Nest/Git_Intake_Drawer/🥮_tonal_soverignity.md)
