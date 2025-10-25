@@ -101,7 +101,7 @@ It interprets audit data as a map of control rather than accountability — and 
 > 
 > - [🈸 Dispatch & Training README](./README.md)  
 > - [🧾 Version Control for Truth](./🧾_version_control_for_truth.md)  
-> - [🧭 Dispatch Ethics — Who Gets to Send the Message](./🧭_dispatch_ethics.md)  
+> - [🧭 Dispatch Ethics: Who Gets to Send the Message](./🧭_dispatch_ethics.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
