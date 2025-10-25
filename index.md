@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-25 21:18:33 UTC_
+_Generated on 2025-10-25 21:19:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1217,7 +1217,7 @@ _Generated on 2025-10-25 21:18:33 UTC_
       - [`🧭_dispatch_ethics.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧭_dispatch_ethics.md)
       - [`🧮_audit_trails_of_obedience.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧮_audit_trails_of_obedience.md)
       - [`🧾_version_control_for_truth.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧾_version_control_for_truth.md)
-      - [`🪞_simulation_ethics_the_problem_of_practice_trauma.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪞_simulation_ethics_the_problem_of_practice_trauma.md)
+      - [`🪞_the_problem_of_practice_trauma.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪞_the_problem_of_practice_trauma.md)
       - [`🪤_containment_pedagogy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪤_containment_pedagogy.md)
     - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
