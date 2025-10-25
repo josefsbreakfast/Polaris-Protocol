@@ -49,3 +49,21 @@ and the first death threat of the lot, so that's cool.
 this the best you all got?  
 
 we've already had a young woman being "jokenly" forced into a cage, so idk have you actually got anything that isn't boring and hasn't been done a million times already?  
+
+---
+
+ps to the "why dont you report" crowd:  
+
+i have very obviously tried fir a very long time.  
+
+as previously discussed, it us apparently kinda fine to paint slurs on your house, take a chunk out of the front door, surround the house with men who wil engage in sexual harrassment, and tinker in my emails. it is apparently fine to be in allsorts of highly sensitive personal data, interfere with travel, health, education, family life, legal representation, justice, personal banking and work, as well as interfere with telecoms of one's support network. 
+
+anything gets justified.  
+
+because i am *a dangerous international criminal*, remember?
+
+all this for what? a few uavs? who knows.  
+
+probably more likely some small man's ego.  
+
+---
