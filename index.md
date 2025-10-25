@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-25 20:49:34 UTC_
+_Generated on 2025-10-25 20:51:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1208,7 +1208,7 @@ _Generated on 2025-10-25 20:49:34 UTC_
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
       - [`💾_archival_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/💾_archival_drift.md)
-      - [`📡_signal_lost_dispatch_drift_and_latency.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📡_signal_lost_dispatch_drift_and_latency.md)
+      - [`📡_signal_lost.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📡_signal_lost.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
       - [`📼_training_data_tragedy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📼_training_data_tragedy.md)
       - [`🗣️_survivor_scripts_and_institutional_voiceover.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🗣️_survivor_scripts_and_institutional_voiceover.md)
