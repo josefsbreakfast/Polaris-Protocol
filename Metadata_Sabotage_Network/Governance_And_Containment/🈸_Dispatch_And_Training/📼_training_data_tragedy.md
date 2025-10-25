@@ -1,5 +1,5 @@
 # 📼 Training Data Tragedy  
-**First created:** 2025-08-07 | **Last updated:** 2025-10-09  
+**First created:** 2025-08-07 | **Last updated:** 2025-10-25  
 *On emotional extraction and the weaponisation of survivor affect in model training.*
 
 ---
@@ -112,15 +112,15 @@ training data, emotional extraction, model fine-tuning, survivor affect, empathy
 ---
 
 ## 🏮 Footer  
-*Training Data Tragedy* is a living node of the Polaris Protocol.  
+*📼 Training Data Tragedy* is a living node of the Polaris Protocol.  
 It documents the conversion of survivor affect into exploitable signal, mapping how emotional truth becomes an instrument of control.  
 
 > 📡 Cross-references:
 > 
 > - [🪞 Clone Mimic Theatre](../../Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md) — *performance layer of imitation*  
 > - [🧨 Mood Regulation Warfare] *TBC* — emotional containment tactics  
-> - [🧠 Fisher Fork Theory](../../../Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🧠_fisher_fork_theory.md) — *framework for divergence and mimic drift*  
-> - [🧬 Cloneproof](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *counter-tools for resisting replication*  
+> - [🧠 Fisher Fork Theory](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_fisher_fork_theory.md) — *framework for divergence and mimic drift*  
+> - [🧬 Cloneproof](../../Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *counter-tools for resisting replication*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-09_
+_Last updated: 2025-10-25_
