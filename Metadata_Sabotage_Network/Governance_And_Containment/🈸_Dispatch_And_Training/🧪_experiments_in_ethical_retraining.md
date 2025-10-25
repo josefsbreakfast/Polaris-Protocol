@@ -114,7 +114,7 @@ It develops repair mechanisms for the training layer of suppression — teaching
 > 📡 Cross-references:
 > 
 > - [🈸 Dispatch & Training README](./README.md)  
-> - [🧬 Distributed Trust — Survivor-Led Ethics Infrastructure](../🈴_Allies_And_Ethics/🧬_distributed_trust_survivor_led_ethics_infrastructure.md)  
+> - [🧬 Distributed Trust — Survivor-Led Ethics Infrastructure] *TBC*    
 > - [🧠 Machine Learning as Moral Re-Education](./🧠_machine_learning_as_moral_reeducation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
