@@ -1,5 +1,5 @@
 # 📡 Signal Lost: Dispatch Drift and Latency  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
 *Tracing how messages warp as they travel through bureaucracy.*
 
 ---
@@ -82,4 +82,4 @@ It documents how time itself becomes a containment mechanism — how messages ar
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
