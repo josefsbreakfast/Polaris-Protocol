@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-25 23:10:00 UTC_
+_Generated on 2025-10-25 23:30:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1568,6 +1568,7 @@ _Generated on 2025-10-25 23:10:00 UTC_
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎺_echo_punk.md`](Polaris_Nest/Git_Intake_Drawer/🎺_echo_punk.md)
+    - [`🏚️_economics_of_apartheid_and_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_economics_of_apartheid_and_fascism.md)
     - [`🏛️_50_shades_of_avoiding_damages.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_50_shades_of_avoiding_damages.md)
     - [`🏛️_parliamentary_safeguards.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_parliamentary_safeguards.md)
     - [`🏛️_raac_ruins_squad.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_raac_ruins_squad.md)
