@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-25 22:49:15 UTC_
+_Generated on 2025-10-25 22:57:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1674,6 +1674,7 @@ _Generated on 2025-10-25 22:49:15 UTC_
     - [`🪞_Erosion_of_Duty_of_Care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_Erosion_of_Duty_of_Care.md)
     - [`🪞_algorithmic_reframing.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_reframing.md)
     - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
+    - [`🪞_twin_narrative_distortion_loop.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twin_narrative_distortion_loop.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪬_gossip_engines.md`](Polaris_Nest/Git_Intake_Drawer/🪬_gossip_engines.md)
     - [`🪬_subtweeting_uon.md`](Polaris_Nest/Git_Intake_Drawer/🪬_subtweeting_uon.md)
