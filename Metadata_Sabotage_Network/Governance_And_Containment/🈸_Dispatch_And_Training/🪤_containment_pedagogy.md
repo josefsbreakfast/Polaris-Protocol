@@ -1,5 +1,5 @@
 # 🪤 Containment Pedagogy  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
 *The didactic logic of control within education systems.*
 
 ---
@@ -155,11 +155,11 @@ It advocates for conscious pedagogy — transparent, dialogic, and accountable.
 > 📡 Cross-references:
 > 
 > - [🈸 Dispatch & Training README](./README.md) - *final dispatches, training harms, and dissemination failures*  
-> - [🈺 Governance & Prevent](../🈺_Governance_And_Prevent/) - *from within metadata sabotage systems*  
-> - [🪞 Simulation Ethics](./🪞_simulation_ethics_the_problem_of_practice_trauma.md) - *critiquing empathy drills, VR modules, and trauma simulations*  
+> - [🈺 Governance & Prevent](../🈺_Governance_And_Prevent/README.md) - *from within metadata sabotage systems*  
+> - [🪞 Simulation Ethics](./🪞_the_problem_of_practice_trauma.md) - *critiquing empathy drills, VR modules, and trauma simulations*  
 > - [🧾 Version Control for Truth](./🧾_version_control_for_truth.md) - *tracking edits and distortions as forensic evidence*
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
