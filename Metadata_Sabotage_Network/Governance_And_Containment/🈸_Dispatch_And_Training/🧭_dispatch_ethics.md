@@ -1,10 +1,10 @@
-# 🧭 Dispatch Ethics — Who Gets to Send the Message  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+# 🧭 Dispatch Ethics: Who Gets to Send the Message  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
 *Governance of dissemination and moral gatekeeping in institutional communication.*
 
 ---
 
-## 🧭 Orientation  
+## 🧿 Orientation  
 Every institution controls speech not only by what it forbids, but by *who* is authorised to transmit.  
 This node examines the architectures of message control — clearance hierarchies, risk assessment loops, and editorial vetoes that shape what leaves the building and what dies inside it.  
 
@@ -13,7 +13,7 @@ They determine which truths are considered “professional,” which are recoded
 
 ---
 
-## 1️⃣ Command Chains of Communication  
+## 🛰️ Command Chains of Communication  
 In formal systems, all messages travel through chains of clearance.  
 Each link in the chain has two powers: to delay and to dilute.  
 
@@ -27,7 +27,7 @@ Dispatch ethics thus mirror the chain of command: efficient for control, hostile
 
 ---
 
-## 2️⃣ Risk Framing and Message Approval  
+## 🧨 Risk Framing and Message Approval  
 Before a message can leave, it must be *risk-framed*.  
 Every statement is assessed not for accuracy, but for **liability**.  
 
@@ -39,7 +39,7 @@ Risk framing is therefore a quiet form of moral editing — it decides what kind
 
 ---
 
-## 3️⃣ Institutional Censorship by Omission  
+## 🕳️ Institutional Censorship by Omission  
 Censorship is not always deletion.  
 More often, it takes the form of silence — the decision not to publish, not to reply, not to circulate.  
 
@@ -51,7 +51,7 @@ The result is a moral feedback loop where **doing nothing** is rebranded as prud
 
 ---
 
-## 4️⃣ Decentralised Dispatch Alternatives  
+## 🐦‍🔥 Decentralised Dispatch Alternatives  
 When centralised communication blocks are too entrenched, alternative dispatch models emerge.  
 These decentralised systems restore agency to those closest to harm — survivors, field workers, whistleblowers, or communities.  
 
@@ -66,7 +66,7 @@ Dispatch becomes a **commons**, not a privilege.
 
 ---
 
-## 🧭 Applied Examples  
+## 🦆 Applied Examples  
 
 ### 🛰 *Example 1 — The “Press Clearance” Loops (UK, 2019–2023)*  
 Several health agencies introduced internal “press approval queues” for whistleblower statements.  
@@ -108,4 +108,4 @@ It analyses the moral bottlenecks that decide whose words leave the system intac
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
