@@ -1,10 +1,10 @@
 # 🧾 Version Control for Truth  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
 *Tracking edits and distortions as forensic evidence.*
 
 ---
 
-## 🧭 Orientation  
+## ✨ Orientation  
 Truth, in digital governance, is not a static claim — it is a **chain of custody**.  
 Each alteration of a document, dataset, or training set becomes part of a living forensic record.  
 Version control transforms “trust” into a verifiable sequence of timestamps, signatures, and diffs.  
@@ -121,4 +121,4 @@ and reimagines documentation as an act of resistance to erasure.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
