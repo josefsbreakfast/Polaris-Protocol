@@ -1,5 +1,5 @@
 # 📦 Final Dispatch Entry  
-**First created:** 2025-08-06 | **Last updated:** 2025-10-20  
+**First created:** 2025-08-06 | **Last updated:** 2025-10-25  
 *Conceptual end marker and lockbox protocol for failed systems and survivor clarity.*
 
 ---
@@ -97,4 +97,4 @@ It records the last communicative act within containment systems — the act of 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-25_
