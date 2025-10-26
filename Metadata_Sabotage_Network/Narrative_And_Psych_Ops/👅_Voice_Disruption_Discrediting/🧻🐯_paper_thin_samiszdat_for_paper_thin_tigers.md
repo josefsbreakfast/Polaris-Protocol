@@ -1,4 +1,5 @@
 # 🧻🐯 Paper-Thin Tigers (Samizdat Edition)  
+**First created:** 2025-09-20 | **Last updated:** 2025-10-26  
 *Jokes you’re not supposed to tell about strongmen.*
 
 ---
