@@ -1,6 +1,6 @@
 # 🧬 Witness Pairing and Projection  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-13  
-*How harassment twinning creates co-witnesses, and how projection and obstruction become forensic evidence*  
+**First created:** 2025-09-06 | **Last updated:** 2025-10-26  
+*How harassment twinning creates co-witnesses, and how projection and obstruction become forensic evidence.*  
 
 ---
 
@@ -54,10 +54,6 @@ The result: each holds evidence of how harassment was constructed.
 ## 6. Closing Note  
 Survivors are not just victims.  
 They are **co-witnesses**: holding mirrored fragments of harassment that, when combined, reveal the full sequence.  
-
----
-
-## 📝 Marginalia (hidden aside)  
 <!-- Stop pushing astrological “advice” at me. This is not romance. It is fraud. And obstruction of disclosure. -->  
 
 ---
@@ -68,4 +64,4 @@ It reframes survivor pairing as forensic alignment, not coincidence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-10-26_  
