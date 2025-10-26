@@ -1,5 +1,5 @@
 # 🧬 Clone Drift — Deepfakes, Audio Manipulation, and Voice Theft  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-26  
 *How machine synthesis erodes authorship.*
 
 ---
@@ -34,8 +34,8 @@ It studies how mimicry erases ownership of sound and self.
 
 > 📡 Cross-references:  
 > - [👅 Voice Disruption & Discrediting README](./README.md)  
-> - [🔊 Signal Integrity Protocols](./🔊_signal_integrity_protocols_protecting_the_sound_of_the_voice.md)  
+> - [🔊 Signal Integrity Protocols](./🔊_protecting_the_sound_of_the_voice.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-26_
