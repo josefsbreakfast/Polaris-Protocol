@@ -142,4 +142,3 @@ It's also worth saying that just having these two is actually pretty good for me
 I now know that this can be part part of a reputation management circus around individuals, rather than individuals directly, it is extremely confusing to me why we are still investing in narrative seeding when it's clearly just pissing me off and not working to achieve a narrative goal. I would hope that this wouldn't be a way of experimentation, simply in order to see how I process this or how I write about it, because that would seem that we're still putting me through distress in order to get more information. (It's difficult to read that as not being related to intelligence-gathering in order to facilitate perpetrating further violence. for me personally answers to the argument on why I should be pulled out of a dangerous situation.)  
 
 ---
-
