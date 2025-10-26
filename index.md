@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-26 03:56:12 UTC_
+_Generated on 2025-10-26 03:57:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1629,7 +1629,7 @@ _Generated on 2025-10-26 03:56:12 UTC_
     - [`🛰️_struggling_to_remember_what_a_dr_is.png`](Polaris_Nest/Git_Intake_Drawer/🛰️_struggling_to_remember_what_a_dr_is.png)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_two_prongs_one_fork.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_two_prongs_one_fork.md)
-    - [`🛰️_weird_guardrails.md.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_weird_guardrails.md.PNG)
+    - [`🛰️_weird_guardrails.png`](Polaris_Nest/Git_Intake_Drawer/🛰️_weird_guardrails.png)
     - [`🛰️_what_bakwaas_is_this_continued.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_what_bakwaas_is_this_continued.PNG)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🛰️🤣.md`](Polaris_Nest/Git_Intake_Drawer/🛰️🤣.md)
