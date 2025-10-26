@@ -51,3 +51,23 @@ i did say this, a very long time ago.
 don't fuck with people i care about, nu?  
 
 dogs and bones.  
+
+---
+
+גּ֤וּר אַרְיֵה֙ יְהוּדָ֔ה מִטֶּ֖רֶף בְּנִ֣י עָלִ֑יתָ כָּרַ֨ע רָבַ֧ץ כְּאַרְיֵ֛ה וּכְלָבִ֖יא מִ֥י יְקִימֶֽנּוּ׃  
+
+(or she is a lioness.)  
+
+hopefully we remember the character whom is actually being referred to, and who is in the immediate family:  
+
+וַיְכַלְכֵּ֤ל יוֹסֵף֙ אֶת־אָבִ֣יו וְאֶת־אֶחָ֔יו וְאֵ֖ת כׇּל־בֵּ֣ית אָבִ֑יו לֶ֖חֶם לְפִ֥י הַטָּֽף׃  
+
+or:  
+
+וְעַתָּ֣ה ׀ אַל־תֵּעָ֣צְב֗וּ וְאַל־יִ֙חַר֙ בְּעֵ֣ינֵיכֶ֔ם כִּֽי־מְכַרְתֶּ֥ם אֹתִ֖י הֵ֑נָּה כִּ֣י לְמִֽחְיָ֔ה שְׁלָחַ֥נִי אֱלֹהִ֖ים לִפְנֵיכֶֽם׃ 
+
+just a little food for thought.  
+
+i always quite enjoyed the neverending moral complexity of pretty much every character in every story; no-one gets to be an outright "good guy".  
+
+---
