@@ -71,3 +71,21 @@ just a little food for thought.
 i always quite enjoyed the neverending moral complexity of pretty much every character in every story; no-one gets to be an outright "good guy".  
 
 ---
+
+(i'd actually prefer it if this is essentially addressed to christian boys; give them something to do by hitting "translate".)  
+
+re `🪶_dual_stream_manipulation.md`:  
+
+what makes this even funnier is that i've been listening to the content inserts (because the inserts are fairly obvious in that they come out of nowhere), and it really is the case you are rather obsessed with this one guy.  
+
+like...  
+
+is everything okay, hun?  
+
+is he not returning your calls, or...?  
+
+it's just a bit... *much*.  
+
+and frankly, it reads as a little desperate; mystery is a wonderful drug.  
+
+---
