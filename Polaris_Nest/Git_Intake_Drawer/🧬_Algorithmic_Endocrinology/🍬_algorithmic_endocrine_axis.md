@@ -1,5 +1,5 @@
 # 🍬 Algorithmic Endocrine Axis  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-26  
 *How engagement design maps onto the body’s hormonal control loops.*
 
 ---
@@ -87,7 +87,20 @@ The digital body begins to resemble the pharmacological body—**a population-sc
 - **Recognise exposure as dose.** Hours of algorithmic engagement = hormonal input.  
 - **Measure outcomes.** Cortisol, sleep, glucose, appetite variability as digital health metrics.  
 - **Design for repair.** Interfaces that restore circadian rhythm, predictability, and satiety cues.  
-- **Teach feedback literacy.** Explain that engagement has metabolic cost.  
+- **Teach feedback literacy.** Explain that engagement has metabolic cost.
+
+---
+
+To add:  
+
+- note scientic literature vs "areas of further research";
+- potential study design;
+- ? source funding (this would be incredibly difficult, current climate; ? more active manner of AI harms correction than solely lobbying for regs);
+- ? ketone bodies, thinking more re oxidative stress and cancer risk than risk of metabolic outcome alike to DKA (due to resideual/safety netting of other metabolic pathways).
+
+- MDT research: not just neuro, but endo (key player, supports DM in underserved populations), onc (opens funding pathways), ortho (through osteo).
+
+- nb: outvomes likely to worsen on sliding scale in populations who are unlike typical clinical trial population therefore any marginalisation factors and under "well fed" or over "normal destress/stress" circumstances must be factored in; note to non-clinicians that unless and even if observational, this is where R&D comes up against Nuremberg principles because the implied duty of care requires intervention (decolonisation is relevant to answering "but then we will never see the problens those populations experience", *correct, and that is why this is extremely ethically difficult and why resource justice is so very important if we don't want to end up being The Baddies*.
 
 ---
 
@@ -114,4 +127,4 @@ It documents the biochemical mechanisms through which algorithms influence metab
 > - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/) — behavioural governance layer  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-26_
