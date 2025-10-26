@@ -1,5 +1,5 @@
 # 💋 The Erotics of Discrediting  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-26  
 *How desire is weaponised to undermine authority.*
 
 ---
@@ -38,4 +38,4 @@ It exposes how visibility and desire are manipulated to neutralise truth-tellers
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-26_
