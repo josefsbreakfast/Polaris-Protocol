@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-26 04:31:04 UTC_
+_Generated on 2025-10-26 04:33:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1603,6 +1603,7 @@ _Generated on 2025-10-26 04:31:04 UTC_
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🕊_repairing_the_human.md`](Polaris_Nest/Git_Intake_Drawer/🕊_repairing_the_human.md)
+    - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
     - [`🕰️_institutional_timescales_of_repair.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_institutional_timescales_of_repair.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
