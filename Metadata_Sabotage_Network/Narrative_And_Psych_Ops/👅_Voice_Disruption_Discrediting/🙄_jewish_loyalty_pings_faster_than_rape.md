@@ -50,8 +50,8 @@ Every flagged keyword, delayed response, or anonymised audit trail shows the sam
 
 **Caution:** Neither book uses antiracism pedagogy, but both have narrative experiences of similar phenomena:  
 
-*Jews Don't Count (2021), David Baddiel*
-*People Love Dead Jews: Reports from a Haunted Present (2021), Dara Horn*  
+> - *Jews Don't Count (2021), David Baddiel*  
+> - *People Love Dead Jews: Reports from a Haunted Present (2021), Dara Horn*  
 
 **Improved pedagogy:**
 
