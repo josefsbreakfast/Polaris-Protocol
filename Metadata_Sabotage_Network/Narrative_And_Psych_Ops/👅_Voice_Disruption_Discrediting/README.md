@@ -1,6 +1,6 @@
 # 👅 Voice Disruption & Discrediting  
-**First created:** 2025-09-06  |  **Last updated:** 2025-10-04  
-*On voice-targeted smears, sexualisation, and reputational sabotage as techniques of metadata control*
+**First created:** 2025-09-06  |  **Last updated:** 2025-10-26  
+*On voice-targeted smears, sexualisation, and reputational sabotage as techniques of metadata control.*
 
 ---
 
@@ -79,4 +79,4 @@ discrediting campaigns, smear tactics, sexualisation, voice manipulation, credib
 It documents one layer of metadata sabotage and its counter-responses—where silencing disguises itself as noise.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-26_
