@@ -66,8 +66,8 @@ It exposes how tonal engineering and affective heuristics manufacture disbelief,
 
 > 📡 **Cross-references:**
 > 
-> - [🎶 Chant Restrictions as Metadata Control](../../../Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md) — *macro-scale speech containment*  
-> - [🧠 Utilisation of Vulnerability](../../../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — *how fragility is instrumentalised*  
+> - [🎶 Chant Restrictions as Metadata Control](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md) — *macro-scale speech containment*  
+> - [🧠 Utilisation of Vulnerability](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — *how fragility is instrumentalised*  
 > - [🫥 Presumption as Erasure](../../../Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md) — *micro-scale disappearance logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
