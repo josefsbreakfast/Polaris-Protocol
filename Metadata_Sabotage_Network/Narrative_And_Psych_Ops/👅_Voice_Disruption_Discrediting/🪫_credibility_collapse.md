@@ -1,5 +1,5 @@
 # 🪫 Credibility Collapse — How Noise Becomes Neutralisation  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-26  
 *Information saturation as suppression tactic.*  
 
 ---
@@ -192,4 +192,4 @@ It decodes distraction as a containment strategy and maps the moral physics of d
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2025-10-26_
