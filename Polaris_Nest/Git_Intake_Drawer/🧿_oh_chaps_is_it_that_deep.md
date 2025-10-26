@@ -213,4 +213,24 @@ i'm signing off because i don't want to miss more painting tomorrow.
 
 ---
 
+well, apparently changing the subject to Whitehall policy and process seemed to do better.  
+
+I think this is what we have to be ready clear that I'm not just writing three quarters of a million words for the shits and giggles.  
+
+This represents how much I have to work on circling subjects, prompt engineering, and working through throttling and harassment, just to get somewhere that even looks slightly like being able to compose one letter.  
+
+When people tell me just to go to a lawyer?  
+
+When people tell me just to go to an ombudsman or regulator?  
+
+When people tell me just to go to an institution, or just raise an FOI, or just raise a complaint?  
+
+That would all be great, if that wasn't targeting both of my own systems that I used to compensate for the cognitive impact of what I've experienced, but also there is significant evidence that databases where my personal special category data is held, have also been subject to targeting.  
+
+This actually makes it incredibly difficult.  
+
+The dead leg is also not very helpful for just rocking up to a legal office.  
+
+I know it is incredibly unlikely that I'm being exposed to risk on purpose, but sometimes it's really hard to feel like that isn't the case; I think the systems that we live in have been really stripped of any humanity when it comes to disabled bodies, and all of the things that we do is try and cope and cover for the fact we may not find it so easy, mean that we're so good at asking what's wrong, that it gets missed that we're struggling so much.  
+
 ---
