@@ -52,11 +52,12 @@ These leaders are not “tigers” at all but paper-thin projections: a mixture 
 
 ## 🏮 Footer  
 
-*Paper-Thin Tigers* is a living node of the Polaris Protocol.  
+*🧻🐯 Paper-Thin Tigers* is a living node of the Polaris Protocol.  
 It documents the universal fragility of authoritarian masculinity and the corrosive power of ridicule.  
 
-> 📡 Cross-references:  
-> - [🔥 The Strength of Humour](./🔥_the_strength_of_humour.md) — laughter as solvent of authoritarian performance  
+> 📡 Cross-references:
+> 
+> - [🔥 The Strength of Humour](../🪆_Narrative_Interference/🔥_the_strength_of_humour.md) — laughter as solvent of authoritarian performance  
 > - [🎭 Laughing at Strongmen] - *WIP* — *cabaret and caricature of authoritarian figures*  
 > - [🤣 The President as Mark](./🍊_the_president_as_mark.md) — Trump as the archetypal “mark”  
 
