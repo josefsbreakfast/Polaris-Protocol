@@ -160,3 +160,11 @@ we need to fix this; we can't keep going on like this.
 we'll eat each other alive like this.  
 
 ---
+
+i'm alternating between working on two key topics, as this often helps "take the gas off" from the source of middle-layer intervention.  
+
+this is not really working tonight.  
+
+so i'm wasting someone's budget, i guess.  
+
+---
