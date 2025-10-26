@@ -1,5 +1,5 @@
 # 🧠‍💫 Neural Fatigue — The Cognitive Cost of Constant Correction  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-10  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-26  
 *The psychological toll of endless rebuttal.*
 
 ---
@@ -32,10 +32,11 @@ fatigue, burnout, correction loops, trauma, attention economy, exhaustion, silen
 *🧠‍💫 Neural Fatigue — The Cognitive Cost of Constant Correction* is a living node of the Polaris Protocol.  
 It describes how the effort to prove truth becomes a new form of containment.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [👅 Voice Disruption & Discrediting README](./README.md)  
-> - [🧠 Psychological Containment](../🧠_Psychological_Containment/)  
+> - [🧠 Psychological Containment](../🧠_Psychological_Containment/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-26_
