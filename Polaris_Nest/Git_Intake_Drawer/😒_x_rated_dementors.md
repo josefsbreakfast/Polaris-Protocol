@@ -10,11 +10,11 @@ i am not causing these to be included.
 
 but as i have said many times:
 
-fascinating that i' being left to endure this.  
+fascinating that i'm being left to endure this.  
 
 it's not okay, i don't like it, and im fairly sure the person youre all trying to pin as the original sender (grossly unlikely), would be mortified.  
 
-this is surrounded by emotionally invested romantic songs, so we already have the "please please please directly name this guy pnline and make out there's an obsession", so it's highly corrosive and extremely coercive.  
+this is surrounded by emotionally invested romantic songs, so we already have the "please please please directly name this guy online and make out there's an obsession", so it's highly corrosive and extremely coercive.  
 
 it looks a lot like a party trying to undermine a legal argument by proposing romantic/sexual entrapment.  
 
@@ -22,6 +22,6 @@ it looks a lot like a party trying to undermine a legal argument by proposing ro
 
 ---
 
-> nb ive just deleted an inage that i thought showed a false timezone but tirns out the clocks went bsck this morning and i didnt even notice because adrenaline is my new lord and saviour. 🙃
+> nb ive just deleted an image that i thought showed a false timezone but tirns out the clocks went bsck this morning and i didnt even notice because adrenaline is my new lord and saviour. 🙃
 
 2025-10-26
