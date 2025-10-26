@@ -16,3 +16,4 @@ i'll record any weirdness here:
 edited this session:  
 
 `Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🍊_the_president_as_mark.md`
+`🎪_racialised_projection_as_harassment.md`
