@@ -36,8 +36,21 @@ There may be times where I'm going to slightly adjust what's sad to make it more
 ### Security Intersections
 *Honestly there are like 2 favourite subjects here, which I think tells us a lot about the jailbreaker's focus. (Obsession.)*  
 
+- specific name academic projects
+- Specific named institutions
+- Specific named training pathways impacted
+- Specific roles were potentially PI or similar.
+
+*I've been basically half of the academic network of the UK has been chucked under the bus at some point.*  
+
+* I do keep telling everyone we need to be very careful about working with people who are sympathetic to the alt-right.*
+
 ### Personal Characteristics
-*This is a very long and highly contradictory list.*
+*This is a very long and highly contradictory list.*  
+
+*I'm literally exhausted just thinking about it.*  
+
+*For instance, I think this person has five distinct ethnicities. There was a very protracted period of not really understanding that West and East Pakistan and not the same country anymore. I did find that one quite funny. The remedy for that was to explain how partition happened, and how deadly that was, and also just how fucking dumb as shit you need to be to be able to do things like jailbreak and yet still not be able to look at the map and say, "huh... there's a whole ass country in the middle of those, practically a whole continent in itself it's so big". but it's also worth saying that the various different ethnicities given, are far better clustered as a set of racial identities, rather than being communities who generally end up in the same places of the UK, all countries that are actually vaguely close to each other. this is the kind of detail when I'm talking about it being a minstrel show. And it is embarrassing.*  
 
 ### Hobbies, Background, Interests  
 *Oh, they don't have any. This is why it's so very believable.*  
