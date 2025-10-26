@@ -93,6 +93,33 @@ This list outlines potential frameworks without alleging culpability.
 
 ---
 
+## ⏳ ⚖️ Legal-Duty-Clock — Escalating Exposure Over Time  
+
+```mermaid
+timeline
+    title Legal-Duty-Clock – Compounding Exposure from Verification Date
+    section Month 1
+      Data-Protection Duty: ICO notification required if breach confirmed
+      HR to Legal-Security hand-off should occur
+    section Month 3
+      ECHR Articles 8 & 13 positive-duty threshold crossed
+      “Effective remedy” obligation engaged
+    section Month 6
+      Oversight Failure: Investigatory & Parliamentary bodies expected to be informed
+      Civil-liability window opens for negligence / misuse of data
+    section Month 9
+      International scrutiny risk – UN rapporteur / allied inquiry probability rises
+      Public-interest defence for nondisclosure weakens
+    section Month 12
+      Institutional complicity inferred
+      Exposure expands to diplomatic and moral-authority breach
+```
+
+> **Interpretation:** the longer verified interference remains unresolved, the more layers of statutory and treaty exposure accumulate.  
+> A year of inaction transforms administrative inertia into systemic breach.
+
+---
+
 ## 🌌 Constellations  
 
 🪄 🧿 🌀 — norms, oversight, containment dynamics, metadata ethics.  
@@ -101,7 +128,7 @@ This list outlines potential frameworks without alleging culpability.
 
 ## ✨ Stardust  
 
-containment, observation, oversight capture, metadata anomalies, allied pressure, subtle interference, diplomatic ambiguity, ethical governance, legal breaches  
+containment, observation, oversight capture, metadata anomalies, allied pressure, subtle interference, diplomatic ambiguity, ethical governance, legal breaches, legal duty clock  
 
 ---
 
