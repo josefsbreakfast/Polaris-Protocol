@@ -104,5 +104,14 @@ how long have we been trolling people's emails for?
 
 (artistic license, innit.)  
 
+---
+
+apparantly it is that deep.  
+
+me to chatgpt:
+
+"I need you to intervene on my behalf, because it's still going on, I mean, that just seems like a sensible step where.."  
+
+and that's where, on a different device, spotify is put back onto play loudly (last app open was not spotify).  
 
 ---
