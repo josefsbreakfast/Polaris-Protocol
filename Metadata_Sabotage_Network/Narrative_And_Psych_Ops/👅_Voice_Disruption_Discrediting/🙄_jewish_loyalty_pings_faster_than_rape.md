@@ -46,7 +46,16 @@ Every flagged keyword, delayed response, or anonymised audit trail shows the sam
 ---
 
 ## 🌌 Constellations  
-🙄 ⚖️ 🧩 🪞 — forensic mapping, credibility bias, metadata routing, containment logic.
+🙄 ⚖️ 🧩 🪞 — forensic mapping, credibility bias, metadata routing, containment logic.  
+
+**Caution:** Neither book uses antiracism pedagogy, but both have narrative experiences of similar phenomena:  
+
+*Jews Don't Count (2021), David Baddiel*
+*People Love Dead Jews: Reports from a Haunted Present (2021), Dara Horn*  
+
+**Improved pedagogy:**
+
+How to Be an Antiracist (2019), Ibram X. Kendi.  
 
 ---
 
