@@ -109,6 +109,24 @@ Maps the shift from quiet diplomacy to legal assertion — the moment a state mu
 
 ---
 
+## ⏰ Interpretive Note — The Three-Month Window  
+
+Across historical inquiries, a consistent pattern appears:  
+**the first three months after detection determine whether the incident remains a legal event or mutates into a political scandal.**
+
+| Window | Meaning | Consequence of delay |
+|---------|----------|----------------------|
+| **0 – 30 days** | Rapid jurisdictional confirmation and containment | Treated as a *technical breach* — fixable inside law. |
+| **30 – 90 days** | Formal diplomatic assertion and inquiry initiation | Still a *legal problem*; sovereignty demonstrably re-asserted. |
+| **> 90 days** | Silence, deferral, or “ongoing review” | Becomes a *reputational and ethical failure*; plausible-deniability collapses. |
+
+> **Principle:** once evidence exists, delay converts legality into liability.  
+> A state that acts promptly proves sovereignty; a state that waits becomes evidence of its own capture.
+
+This “three-month window” is therefore treated in the **Polaris Protocol** as the critical threshold separating *governance* from *containment*.  
+
+---
+
 ## 🌌 Constellations  
 
 🪄 🧿 🛡️ — norms, sovereignty, oversight, allied interference.
