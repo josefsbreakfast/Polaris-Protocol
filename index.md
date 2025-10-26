@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-26 04:14:05 UTC_
+_Generated on 2025-10-26 04:23:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1595,6 +1595,7 @@ _Generated on 2025-10-26 04:14:05 UTC_
     - [`📚_the_banned_book_first_reading.md`](Polaris_Nest/Git_Intake_Drawer/📚_the_banned_book_first_reading.md)
     - [`📚_venus_in_furs_as_witchfinder_litmus_paper.md`](Polaris_Nest/Git_Intake_Drawer/📚_venus_in_furs_as_witchfinder_litmus_paper.md)
     - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
+    - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Polaris_Nest/Git_Intake_Drawer/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
     - [`📮_the_polaris_mail_box.md`](Polaris_Nest/Git_Intake_Drawer/📮_the_polaris_mail_box.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`🔁_ritual_and_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🔁_ritual_and_refusal.md)
