@@ -1,5 +1,5 @@
-# 🗣️ Counter-Voicing — Collective Re-Amplification Methods  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-21  
+# 🗣️ Counter-Voicing: Collective Re-Amplification Methods  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-26  
 *Restoring stable signal through collective speech.*
 
 ---
@@ -180,4 +180,4 @@ It extends testimony through verified repetition and visible credit, transformin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2025-10-26_
