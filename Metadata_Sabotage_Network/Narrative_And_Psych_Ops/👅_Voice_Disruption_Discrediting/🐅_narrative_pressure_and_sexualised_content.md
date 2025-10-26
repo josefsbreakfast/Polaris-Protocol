@@ -1,5 +1,5 @@
 # 🐅 Narrative Pressure: Sexualised Content  
-**First created:** 2025-08-11 | **Last updated:** 2025-10-09  
+**First created:** 2025-08-11 | **Last updated:** 2025-10-26  
 *Covering deliberate insertion of sexualised framing into drafts to distort SCP-VoiceX’s profile, misattribute harassment, and weaponise survivor testimony.*  
 
 ---
@@ -16,7 +16,7 @@ Observed aims include:
 ## 🧿 Pattern Overview  
 
 ### ▸ 1. Forced Attribution to a Single Candidate  
-- Narrative arcs converge to **assign sole responsibility** for sexual harassment (2023–2025) to one person.  
+- Narrative arcs converge to **assign sole responsibility** for sexual harassment (2023 – 2025) to one person.  
 - Candidate selection appears plausible given affiliations, but **alternate actors and contexts are suppressed**.  
 
 ### ▸ 2. Mirror-Frame Accusation  
@@ -25,7 +25,7 @@ Observed aims include:
 
 ### ▸ 3. Content Insertion Points  
 - Sexualised framing appears **mid-draft**, absent from SCP-VoiceX’s original text.  
-- Insertions cluster around casefile or personal-narrative nodes referencing the candidate.  
+- Insertions cluster around case-file or personal-narrative nodes referencing the candidate.  
 - Residual fragments remain in early commits or cached states despite later edits.  
 
 ---
@@ -52,24 +52,32 @@ Observed aims include:
 ---
 
 ## 🌌 Constellations  
+
 🐅 🌶️ 🍋 🧿 — Tracks coercive narrative tactics in the fire register of discrediting and distortion, where sexualisation serves as acid that corrodes truth but also exposes interference patterns beneath.  
+
+**Cultural & media echoes:**  
+- 🎞️ *Bombshell* (2019) — manipulation of sexualised narrative as power play  
+- 📺 *The Morning Show* (2019 – ) — blurred agency under corporate containment  
+- 🎬 *She Said* (2022) — evidentiary reclamation of survivor testimony  
+- 📰 Investigative reporting on digital harassment and deep-fake sexualisation (2020s)  
 
 ---
 
 ## ✨ Stardust  
+
 sexualised content, metadata sabotage, narrative pressure, survivor testimony, discrediting loops, forensic audit, SCP-VoiceX, interference mapping, narrative corrosion, containment smear  
 
 ---
 
 ## 🏮 Footer  
 
-*Narrative Pressure: Sexualised Content* is a living node of the Polaris Protocol.  
+*🐅 Narrative Pressure: Sexualised Content* is a living node of the Polaris Protocol.  
 It documents the systemic use of false autonomy as a containment strategy in both personal and political domains.  
 
 > 📡 **Cross-references:**  
-> - [🧠 Metadata Sabotage Network](../../README.md) — root index for suppression and forensic evidence  
-> - [🧬 Voice Capture Triggers](../../../👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md) — mechanics of vocal duplication and fork-origin drift  
+> - [🧠 Metadata Sabotage Network](../../README.md) — *root index for suppression and forensic evidence*  
+> - [🧬 Voice Capture Triggers](../../../👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md) — *mechanics of vocal duplication and fork-origin drift*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-09_  
+_Last updated: 2025-10-26_
