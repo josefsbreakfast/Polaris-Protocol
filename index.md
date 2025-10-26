@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-25 23:30:21 UTC_
+_Generated on 2025-10-26 02:05:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -643,6 +643,7 @@ _Generated on 2025-10-25 23:30:21 UTC_
         - [`🛰️_overlapping_surveillance_layers.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🛰️_overlapping_surveillance_layers.md)
         - [`🧠_why_are_we_threatened_by_complexity.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧠_why_are_we_threatened_by_complexity.md)
         - [`🧿_diaspora_disclosure_tactics.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)
+        - [`🧿_jailbreaking_and_ai.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_jailbreaking_and_ai.md)
         - [`🪞_fanon_and_the_algorithmic_unconscious.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪞_fanon_and_the_algorithmic_unconscious.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
