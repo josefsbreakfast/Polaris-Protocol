@@ -122,3 +122,14 @@ Also, the surveillance team did push "you're gonna get loads of money out of thi
 No idea where from but it would be nice to at least be able to afford an accessible residence, ideally... *not here*.  
 
 Not where everything I've built up has been broken, please.  
+
+---
+
+I managed to get a good string of mountains again, and then now we have... I believe another ghost/affected persona, although they have previously believed it was the intended person, of the person I did actually make a safeguarding complaint about.  
+
+If there is any allegation or safeguarding complete floating, it is for a particular person, but it will be differentiating enough to say that this is a white guy that I was talking about.  
+
+This is being framed as, think 1980s rom com, "please I fucked up", but we're talking about it in the context of rape, sexual violence, and administering a substance without consent. So that's not really something that anyone just gets to apologise for and then we're all good. This is also framed to have a jealous component around our aforementioned ghost persona of another person.  
+
+At this rate, I wouldn't be surprised if I get half of Britain security staff as part of this weird, weird story.  
+
