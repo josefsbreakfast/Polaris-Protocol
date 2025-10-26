@@ -112,6 +112,11 @@ Together, they created a double bind: **the UK both collects more sensitive data
 - *NSO, Palantir, and the Ghost in the System* (MIT Tech Review, 2022)  
 - *Data Colonialism* — Couldry & Mejias
 
+**On socials:**  
+*Because what's the point if we're not linking up the data of the conversation; this is how united fronts against abusive power actually work.*  
+*Also it helps us all cheat off each other to see how others explain things; cross-discipline knowledge transfer.*  
+- Zack gives an overview of the procurement issue, but for the normies, on TikTok: https://vm.tiktok.com/ZNdc5WNhB/
+
 ---
 
 ## ✨ Stardust  
@@ -121,7 +126,7 @@ reverse colonisation, metadata law, outsourcing, palantir, snoopers charter, sur
 
 ## 🏮 Footer  
 
-*Reverse Colonisation Timeline* is a living node of the Polaris Protocol.  
+*🌀 Reverse Colonisation Timeline* is a living node of the Polaris Protocol.  
 It fuses surveillance law with procurement culture to show how the UK outsourced sovereignty while deepening control over its own citizens.  
 
 🏮 [Return to 🌀 Systems & Governance Guide](../README.md)  
