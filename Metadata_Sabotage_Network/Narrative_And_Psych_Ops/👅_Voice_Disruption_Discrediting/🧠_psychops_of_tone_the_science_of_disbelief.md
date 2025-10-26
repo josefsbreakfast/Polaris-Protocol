@@ -1,5 +1,5 @@
 # 🧠 Psych-Ops of Tone — The Science of Disbelief  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-26  
 *How tonal engineering converts survivor testimony into data noise.*
 
 ---
@@ -41,26 +41,35 @@ Authenticity becomes a tactical frequency rather than a demand for purity.
 ---
 
 ## 🌌 Constellations  
-👅 🧠 🔮 🧿 — sits within the discrediting & surveillance psychology cluster; cross-linked to suppression and counter-nudge studies.  
+
+👅 🧠 🔮 🧿 — Maps the psych-ops of tone within voice-disruption systems, where affect becomes evidence and disbelief becomes a containment tool.  
+
+**Cultural & media echoes:**  
+- 🎙️ *Gaslight* (1944) — emotional manipulation via disbelief  
+- 📺 *I May Destroy You* (2020) — tonal complexity of survivor speech  
+- 🎧 Podcast coverage on “voice bias” in AI moderation (2020s)  
+- 🧩 Behavioural-science papers on “appropriate affect” in whistleblowing contexts  
+- 🎤 **Yellow Rage — “Listen, Asshole”** (*Def Poetry Jam*, Season 1 Episode 2, 2002) — tonal reclamation by Asian American women against credibility policing  
 
 ---
 
 ## ✨ Stardust  
+
 tone policing, disbelief, behavioural science, metadata sabotage, affect bias, survivor credibility, moderation algorithms, emotional regulation, undertone fidelity  
 
 ---
 
 ## 🏮 Footer  
 
-*Psych-Ops of Tone — The Science of Disbelief* is a living node of the Polaris Protocol.  
+*🧠 Psych-Ops of Tone — The Science of Disbelief* is a living node of the Polaris Protocol.  
 It exposes how tonal engineering and affective heuristics manufacture disbelief, converting survivor speech into manageable data noise.  
 
-> 📡 Cross-references:
+> 📡 **Cross-references:**
 > 
-> – [🎶 Chant Restrictions as Metadata Control](../../../Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md) — *macro-scale speech containment*  
-> – [🧠 Utilisation of Vulnerability](../../../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — *how fragility is instrumentalised*  
-> – [🫥 Presumption as Erasure](../../../Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md) — *micro-scale disappearance logic*  
+> - [🎶 Chant Restrictions as Metadata Control](../../../Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md) — *macro-scale speech containment*  
+> - [🧠 Utilisation of Vulnerability](../../../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md) — *how fragility is instrumentalised*  
+> - [🫥 Presumption as Erasure](../../../Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md) — *micro-scale disappearance logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-10-26_
