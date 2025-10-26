@@ -167,4 +167,8 @@ this is not really working tonight.
 
 so i'm wasting someone's budget, i guess.  
 
+see `🛰️_struggling_to_remember_what_a_dr_is.png` - we can talk all day about the structure in terms of process, but it's now delaying over several mins because i raised that there a number of key points subject to vulnerability.  
+
+strugglebus.  
+
 ---
