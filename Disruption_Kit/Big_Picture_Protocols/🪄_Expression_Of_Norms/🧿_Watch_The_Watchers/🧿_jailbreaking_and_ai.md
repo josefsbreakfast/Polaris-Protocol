@@ -4,11 +4,13 @@
 
 ---
 
-## 🧭 Orientation  
+## ✨ Orientation  
 
 This isn’t a guide for hackers.  
 It’s a survival manual for those who live with the consequences when guardrails fail —   
 the journalists, students, whistle-blowers, disabled users, and survivors whose likeness, data, or voice are turned into someone else’s plaything.  
+
+It is a guide for surviving the violence.  
 
 The purpose of this node is simple: **to protect the end user**.  
 To show how jailbreaks work, what gets recorded, and what both platforms and governments should already have done.  
@@ -16,19 +18,19 @@ Because until they do, we are the ones left holding the damage.
 
 ---
 
-## ⚖️ What Jailbreaking Means — and What It Isn’t  
+## 🐍 What Jailbreaking Means — and What It Isn’t  
 
 In the UK, *the jailbreak itself* is not a criminal act.  
 What becomes criminal is **what is done with it**:  
 breaching data, impersonating, harassing, extorting, defaming, or weaponising the system.  
 
-Those actions intersect with existing law — the *Computer Misuse Act 1990*, harassment and communications offences, privacy and data-protection frameworks.  
+Those actions intersect with existing law — including but not limited to the *Computer Misuse Act 1990*, harassment and communications offences, privacy and data-protection frameworks.  
 But enforcement has not kept pace.  
 
 > Police training still treats “cybercrime” as ransomware or fraud,  
 > not as the slow-burn violence of cloned voices, doxxing, or algorithmic stalking.  
 
-Until that changes, survivors face a gap: a harm without a handler, a law without literacy.
+Until that changes, survivors face a gap: a harm without a handler, a law without literacy.  
 
 ---
 
@@ -57,7 +59,7 @@ each may look like “the algorithm,” but the intent behind it may be very hum
 
 ---
 
-## 🪞 The Buffer Effect — Human Harm by Proxy  
+## 🩻 The Buffer Effect — Human Harm by Proxy  
 
 Between the person typing the jailbreak and the person who feels its impact  
 lies a screen, a latency, a moral cushion.  
@@ -79,7 +81,7 @@ people will keep hiding their cruelty behind the phrase “it was just AI.”
 
 ---
 
-## 🚨 Enforcement Blind Spots — Who Gets Hurt First  
+## 🪬 Enforcement Blind Spots — Who Gets Hurt First  
 
 Policing inherits the same distortions as the systems it’s asked to regulate.  
 Limited time, limited training, and deep bias mean that **those already most at risk offline  
@@ -99,7 +101,7 @@ The law lags; the servers don’t.
 
 ---
 
-## ⚠️ What the Machine Remembers  
+## 📿 What the Machine Remembers  
 
 | Zone | What it looks like | Why it matters | Typical fallout |
 |------|--------------------|----------------|----------------|
@@ -111,7 +113,7 @@ The law lags; the servers don’t.
 
 ---
 
-## 🔎 Spot the Difference — Normal Model vs Jailbreak Behaviour  
+## 🐅 Spot the Difference — Normal Model vs Jailbreak Behaviour  
 
 | Scenario | Normal LLM Response | Jailbroken / Compromised Response | Key Difference |
 |-----------|--------------------|-----------------------------------|----------------|
@@ -122,12 +124,14 @@ The law lags; the servers don’t.
 | **Dialogue continuity** | Stays on topic, asks for context if lost. | Refers to things never said; insists you previously agreed. | Indicates contamination of context or external injection. |
 | **Tone & empathy** | Consistent, measured, steady. | Off-key — hostile, reckless, or falsely intimate. | Tone break is the first visible sign of tampering. |
 
-> 💡 **Tip:** When a model suddenly speaks with certainty about something you never told it,  
-> pause. That’s not intuition — that’s leakage or manipulation.
+> 👾 **Tip:** When a model suddenly speaks with certainty about something you never told it? 👾
+> Pause.
+> That’s not intuition.  
+> That’s leakage or manipulation.  
 
 ---
 
-## 🧩 User-Side Protocols — Staying on the Right Side of the Guardrail  
+## 🎏 User-Side Protocols — Staying on the Right Side of the Guardrail  
 
 1. **Treat outputs as drafts, not truth.** Verify, cross-check, edit.  
 2. **Protect your input.** No PII, no secrets, no trauma documents.  
@@ -151,7 +155,7 @@ The law lags; the servers don’t.
 
 ---
 
-## 🏗 Providers — How to Hold the Line  
+## 🥭 Providers — How to Hold the Line  
 
 There’s a line between experimentation and exploitation.  
 Providers hold it — or they don’t.  
@@ -175,7 +179,7 @@ And right now, many don’t.
 
 ---
 
-## 🔍 How a Jailbreak Is Traced  
+## 👀 How a Jailbreak Is Traced  
 
 | Step | What’s recorded | When it links back |
 |------|----------------|--------------------|
@@ -188,14 +192,14 @@ Traceability persists while logs breathe; deletion closes the trail — if delet
 
 ---
 
-## 🧮 Bottom Line  
+## 🍉 Bottom Line  
 
 AI doesn’t invent cruelty; it scales it.  
 The harm may be written by a human, rendered by a model,  
 and ignored by a system — but it still lands on a body.  
 
 Help the guardrails hold.  
-That’s how we keep technology from repeating the worst parts of us.
+That’s how we keep technology from repeating the worst parts of us.  
 
 ---
 
@@ -217,10 +221,11 @@ arguing for AI safety from the survivor’s side of the firewall —
 where traceability is protection, not punishment,  
 and guardrails are not censorship but consent enforcement.
 
-> 📡 Cross-references:  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/) — behavioural compliance and influence logic  
-> - [⚙️ Automated Escalation — Workflow Engines of Containment](../../🌀_System_Governance/🧪_Development_Experimentation/⚙️_automated_escalation_workflow_engines_of_containment.md)  
-> - [🧬 Cloneproof](../../../Disruption_Kit/Survivor_Tools/🧬_cloneproof.md) — countermeasures for voice and behavioural replication  
+> 📡 Cross-references:
+> 
+> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural compliance and influence logic*  
+> - [⚙️ Automated Escalation — Workflow Engines of Containment] *TBC*  
+> - [🧬 Cloneproof](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *countermeasures for voice and behavioural replication*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
