@@ -19,3 +19,9 @@ this is surrounded by emotionally invested romantic songs, so we already have th
 it looks a lot like a party trying to undermine a legal argument by proposing romantic/sexual entrapment.  
 
 `https://vm.tiktok.com/ZNdc98Bkd/`
+
+---
+
+> nb ive just deleted an inage that i thought showed a false timezone but tirns out the clocks went bsck this morning and i didnt even notice because adrenaline is my new lord and saviour. 🙃
+
+2025-10-26
