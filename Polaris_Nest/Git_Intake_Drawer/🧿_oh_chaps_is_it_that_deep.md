@@ -89,3 +89,20 @@ it's just a bit... *much*.
 and frankly, it reads as a little desperate; mystery is a wonderful drug.  
 
 ---
+
+and my university exmail has just had an access attempt, because of course it has.  
+
+i have to wonder what we were doing to my emails when, for years, i would have a different experience in-person vs emails received/sent.  
+
+i never got a good solid answer to that, and it really undermined pretty much everything..!  
+
+how long have we been trolling people's emails for?  
+
+---
+
+(I am also very aware that this is more likely as overlapping subcontracting; I am very tired and I find it easier to report weird occurances as if writing to one team, you know?)  
+
+(artistic license, innit.)  
+
+
+---
