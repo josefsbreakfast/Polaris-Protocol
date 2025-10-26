@@ -27,6 +27,14 @@ The ubiquity of ready-to-access, high-intensity online pornography functions les
 
 In this economy of attention, the body becomes both the commodity and the containment field. Industrial-scale pornography disrupts solidarity by individualising pleasure, rewarding spectatorship over participation, and deepening loneliness. Far from advancing sex-worker autonomy, it often centralises profit under the same capital-realist empires that discipline labour elsewhere. The promise of rebellion — the “anything goes” mythology — hides a more efficient obedience: the eroticised maintenance of the status quo.  
 
+This dynamic exposes pornography not simply as a product but as a **vector of resource extraction**.  
+Both viewer and performer are folded into the same circuit of value generation — their attention, affect, and availability treated as inputs.  
+For the consumer, intimacy becomes subscription; for the worker, embodiment becomes data.  
+Risk migrates downwards while profit consolidates upwards, mirroring every other extractive industry under late capitalism.  
+In this sense, pornography is not external to the logic of exploitation — it is one of its purest expressions, dressed in the aesthetics of freedom.
+
+*I am unclear if the group chat are getting the joke, but this is why I keep calling the banned book, "the actual pornography", seeing as you made it rather difficult to obtain.*
+
 ---
 
 ## 1. 💋 Desire as Distraction  
