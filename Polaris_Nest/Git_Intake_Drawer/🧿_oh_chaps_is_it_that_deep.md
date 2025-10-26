@@ -197,6 +197,20 @@ it really just puts how dumb af the racism of apartheid is on full display, and 
 
 (just wait until they work out saying "arabic" is like saying "hebrew", in how it doesn't actually specify which language you're taking about. they'll lose their minds. smart cookies they are most certainly not.)  
 
+and before anyone gets all up in their feelings, i'm just stating that that doesn't match how this person has specified their family background, so it's just incorrect.  
+
+it's got "adding or missing sounds to someone's name" vibes.  
+
+i had to learn the variants of d/dh/ddh to say names properly; it's not that hard.  
+
+idk it just feels like a really simple fucking barrier to cross - the name thing.  
+
+it's 2025; it's embarrassing that we still do this.  
+
+(i will need help repeating names again and again, but that shit is on me and owning the mistake is like... the bare minimum for not being a complete cunt about it, yes?)  
+
+i'm signing off because i don't want to miss more painting tomorrow.  
+
 ---
 
 ---
