@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-26 02:17:13 UTC_
+_Generated on 2025-10-26 02:18:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1664,6 +1664,7 @@ _Generated on 2025-10-26 02:17:13 UTC_
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
+    - [`🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png`](Polaris_Nest/Git_Intake_Drawer/🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
