@@ -234,3 +234,17 @@ The dead leg is also not very helpful for just rocking up to a legal office.
 I know it is incredibly unlikely that I'm being exposed to risk on purpose, but sometimes it's really hard to feel like that isn't the case; I think the systems that we live in have been really stripped of any humanity when it comes to disabled bodies, and all of the things that we do is try and cope and cover for the fact we may not find it so easy, mean that we're so good at asking what's wrong, that it gets missed that we're struggling so much.  
 
 ---
+
+i am still writing just to prove i am still alive.  
+
+if i wrote i cannot be taking in information that hurts me.  
+
+i cannot fully read books yet, or listen to them.  
+
+ive managed one audiobook whilst doing two other tasks, where the cadence and subject made it easier.  
+
+i am unable to read more normally.  
+
+everything needs several levels of stimulus to take the brain away from, "what will it be next?".  
+
+---
