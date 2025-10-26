@@ -82,3 +82,11 @@ I wouldn't be surprised if I got a lot of videos meant to help me sort myself in
 Having complex PTSD looks like this; it looks like always making sure you know the exit, and fighting for one when there isn't one.  
 
 ---
+
+Worth noting as well, that because nudges like this involve people whether there is either a high trust relationship, or there is not yet enough to send more proof that there should be trust removed, these nuts towards me will always cause a sense of uncertainty about that contact; this doesn't even manifest necessarily as "I can't trust that person", but more accurately, "maybe that contact route, and therefore that contact, is not secure".  
+
+This is how your trust in your closest contacts is undermined; this is how you are encouraged not to be honest with the people who would help you the most.  
+
+It would be nice if the bar could be raised, such that is actually in hell.  
+
+---
