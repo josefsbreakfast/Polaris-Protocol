@@ -186,10 +186,14 @@ He does not see his reflection; he sees an opportunity to expel it.
 The cruelty is so precise because the recognition is so close.  
 It is easier to humiliate what resembles you than to admit resemblance.
 
-*I’ve watched this play out more than once: a white man learning a small, human fact about another man—perhaps something as ordinary as a fondness for silk or the thrill of wearing stockings—and suddenly the air turns acidic. The insults come fast, theatrical, obsessive. It’s as if he’s punishing the mirror for showing him softness he can’t permit himself.*  
+*I’ve watched this play out more than once: a white man learning a small, human fact about another man — perhaps something as ordinary as a fondness for silk or the thrill of wearing stockings — and suddenly the air turns acidic. The insults come fast, theatrical, obsessive. It’s as if he’s punishing the mirror for showing him softness he can’t permit himself.*  
 
 The choreography is ancient: repress, project, punish, repeat.  
-Each move keeps emotion at a distance while proving, to the performer, that he still controls the room.
+Each move keeps emotion at a distance while proving, to the performer alone, that he still controls the room.  
+
+*Men in groups will often punish each other more for showing "femininity" (on present Western standards, a post 1870s phenomenon at best), and yet so often do not correct or shame other men for violence towards women and girls.*  
+*The preservation of the self at the expense of allowing cycles of violence to propagate is extremely telling.*  
+*We have not raised stong men.*  
 
 ### 🐐 Emotional Displacement as Social Sanction  
 
