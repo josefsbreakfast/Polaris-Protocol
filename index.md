@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-26 13:15:06 UTC_
+_Generated on 2025-10-26 13:20:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1578,7 +1578,6 @@ _Generated on 2025-10-26 13:15:06 UTC_
     - [`🏛️_the_duel_of_temperments.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_duel_of_temperments.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐝_carceral_disability.md`](Polaris_Nest/Git_Intake_Drawer/🐝_carceral_disability.md)
-    - [`🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🐝_defamation_diaries.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
     - [`🐝_volcanic_rest_theory.md`](Polaris_Nest/Git_Intake_Drawer/🐝_volcanic_rest_theory.md)
     - [`🐣_canaries_and_cassandras.md`](Polaris_Nest/Git_Intake_Drawer/🐣_canaries_and_cassandras.md)
@@ -1692,6 +1691,7 @@ _Generated on 2025-10-26 13:15:06 UTC_
     - [`🩺_governing_doctors_in_uk.md`](Polaris_Nest/Git_Intake_Drawer/🩺_governing_doctors_in_uk.md)
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🩻_reflex_against_care.md`](Polaris_Nest/Git_Intake_Drawer/🩻_reflex_against_care.md)
+    - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪖_moral_injury_and_veterans.md`](Polaris_Nest/Git_Intake_Drawer/🪖_moral_injury_and_veterans.md)
     - [`🪞_Erosion_of_Duty_of_Care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_Erosion_of_Duty_of_Care.md)
