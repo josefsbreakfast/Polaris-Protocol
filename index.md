@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-26 20:22:13 UTC_
+_Generated on 2025-10-26 20:22:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1552,7 +1552,6 @@ _Generated on 2025-10-26 20:22:13 UTC_
       - [`🕯️_shabbat_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`_the_idea_that_we're_going_to_use_this_in_moj_just_makes_me_laugh.png`](Polaris_Nest/Git_Intake_Drawer/_the_idea_that_we're_going_to_use_this_in_moj_just_makes_me_laugh.png)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`☕️_the_auntie_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_auntie_algorithm.md)
     - [`♿️_refusing_convenience.md`](Polaris_Nest/Git_Intake_Drawer/♿️_refusing_convenience.md)
@@ -1571,6 +1570,7 @@ _Generated on 2025-10-26 20:22:13 UTC_
     - [`🌿_lawful_illegality_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🌿_lawful_illegality_of_care.md)
     - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
     - [`🌿_wild_type_encounters.md`](Polaris_Nest/Git_Intake_Drawer/🌿_wild_type_encounters.md)
+    - [`🍊_the_idea_that_we're_going_to_use_this_in_moj_just_makes_me_laugh.png`](Polaris_Nest/Git_Intake_Drawer/🍊_the_idea_that_we're_going_to_use_this_in_moj_just_makes_me_laugh.png)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
