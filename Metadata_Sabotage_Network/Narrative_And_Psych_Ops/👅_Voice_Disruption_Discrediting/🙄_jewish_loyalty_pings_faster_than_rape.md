@@ -53,9 +53,9 @@ Every flagged keyword, delayed response, or anonymised audit trail shows the sam
 > - *Jews Don't Count (2021), David Baddiel*  
 > - *People Love Dead Jews: Reports from a Haunted Present (2021), Dara Horn*  
 
-**Improved pedagogy:**
+**Improved pedagogy:**  
 
-How to Be an Antiracist (2019), Ibram X. Kendi.  
+*How to Be an Antiracist (2019), Ibram X. Kendi.*  
 
 ---
 
