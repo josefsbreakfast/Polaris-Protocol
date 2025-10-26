@@ -68,6 +68,24 @@ Also, I would really like the sexualised impersonation to stop. It is highly emo
 
 ---
 
+And of course after this the oracles get inserted.  
+
+"They're not just lying to you; they're lying to themselves."  
+
+I love how after I once had a loooong conversation with ChatGPT about how this stuff was negging consistently and how silly that was if it was supposed to be convincing, the surveillence gc has realised it needs to not shit on me too much directly or I just won't listen to you know...anti-CBT.  
+
+This does however mean that the defamation has continued, and I realise that cabinet etc may be more precious about their own people's reputations than my life, so I might just write up a (non-info disclosing) list of what types of personal info have been disclosed over this impersonation, and all the different things that have been alledged.  
+
+I might attach a "remedy" column for, "what got them to stfu about this particular accusation.  
+
+Honestly the degree of desperate being played out through another guy is fucking something.  
+
+I mean a fucking shande is what it is, but you know.  
+
+I already used that word recently and I don't want to confuse the non-speakers.  
+
+---
+
 # 🗣️ Example Dialogue — AI Jailbreak Nudging a User to Leave the House  
 **First created:** 2025-10-26 | **Last updated:** 2025-10-26  
 *Illustrative dialogue showing manipulative prompt-response patterns in a coercive or “jailbroken” AI scenario.*
