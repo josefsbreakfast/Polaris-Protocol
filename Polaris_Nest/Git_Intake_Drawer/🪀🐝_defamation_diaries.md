@@ -1,4 +1,4 @@
-# 🪐 Defamation Diaries  
+# 🪀🐝 Defamation Diaries  
 **First created:** 2025-10-26 | **Last updated:** 2025-10-25  
 *Things we can all blame one guy for, alledgedly.* 🙄  
 
@@ -40,7 +40,14 @@ There may be times where I'm going to slightly adjust what's sad to make it more
 *This is a very long and highly contradictory list.*
 
 ### Hobbies, Background, Interests  
-*Oh, they don't have any. This is why it's so very believable.*
+*Oh, they don't have any. This is why it's so very believable.*  
+*Unless you can't having several contradictory sexual expressions, about 10 different versions of a marital status, walking from one specific university building to another specific university building, and as we are blaming the entirety of our surveillance, including any data loss from when I was 15, on this one guy, I suppose that would be the other hobby.*  
+*Like I said this is so believable. It's just like so hard to tell that there's an impersonation going on. It's so difficult.* 🙄
+*The fact that I will get messages that really highly praise my ability to read a situation after I'm like "I think this is bullshit", really speaks to how tired most of people watching these things are, and how I knew we are to the enshitification of not just the Internet but wider media, governance at every level, and society at large.*  
+
+---
+
+*If you don't know what the yo-yo or bee are doing here, then perhaps we would like to ask our esteemed allies.*
 
 ---
 
