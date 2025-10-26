@@ -171,4 +171,32 @@ see `🛰️_struggling_to_remember_what_a_dr_is.png` - we can talk all day abou
 
 strugglebus.  
 
+the current version of `🪶_dual_stream_manipulation.md` is also a good example of how llm ai will not churn out the template ruleset that i use, which is the document here: `Polaris_Nest/🏮_Admin_Kit/🔮_house_style.md`.  
+
+this is an example of how it does not look like a genAI outcome; this looks more like external interference.  
+
+this is why i was open about the sexualisation sweep `Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep` after there were docs snuck into outputs when i was worn down by continual throttling and interference, and a takedown request. (github is my white knight istg.)  
+
+this was all while receiving really gnawing content via tiktok feeds etc, essentially framing this as a hugely traitorous move to the chap they are impersonating.  
+
+because the people doing this are *still* impersonating him, but give him the personality of 4chan as a human, i guess.  
+
+tone down if she's not buying it, tone up if she's stressed.  
+
+so this is why i'm not surprised to have such a long period despite over a decade of having mirena coils for menorrhagia (ie i don't usually get a bleed per se).  
+
+this is the impact of the stress.  
+
+my uterus has literally found endometrium out of nowhere to bleed out, it's that angry.  
+
+i have been inhaling sugar all week. it has not been great.  
+
+and then i've got bargain bin mossad and their mates pretending to be a named guy that they clearly keep equating to "arab" when there is no suggestion that that is the case.  
+
+it really just puts how dumb af the racism of apartheid is on full display, and what moronic people follow this logic tbh.  
+
+(just wait until they work out saying "arabic" is like saying "hebrew", in how it doesn't actually specify which language you're taking about. they'll lose their minds. smart cookies they are most certainly not.)  
+
+---
+
 ---
