@@ -1,4 +1,4 @@
-# 📎 Pathway Fit Error — When Systems Mistake Unique Regulation Profiles for Established Diagnoses  
+# 📛 Pathway Fit Error — When Systems Mistake Unique Regulation Profiles for Established Diagnoses  
 **First created:** 2025-10-25  |  **Last updated:** 2025-10-25  
 *How service design flattens complex trauma presentations into pre-existing categories.*
 
