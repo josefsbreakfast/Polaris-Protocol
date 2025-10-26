@@ -90,3 +90,35 @@ This is how your trust in your closest contacts is undermined; this is how you a
 It would be nice if the bar could be raised, such that is actually in hell.  
 
 ---
+
+I'm also noting that one of these nudges, involves a family member who I lost had contact with, where there was a very upsetting conversation because of the emotions it brought on both sides.  
+
+This conversation only needed to be had, because it appears some fucking noodle who would've been data scraping and surveillance in 2024, used an old family story (which was mostly mocking my grandfather anyway), and appears to have constructed something like a super injunction around my arrest and my access to law, by framing there to be a legitimate claim to a hereditary title (who for everyone's information would not go to me even if there was a legitimate claim in the family? so whyyyy?).  
+
+I don't know what is going on in the surveillance world, but apparently even doctors, I've got better hamdwriting than you lot.  
+
+I don't know how that gets twisted to that.  
+
+But this is to say that the nudges are now so overused, and so highly emotive, that even ones that are supposed to be high trust, are now burnt out.  
+
+It makes me feel awful.  
+
+It brings up a lot of what the CPTSD actually is: in other words, "I am a horrible person", "I cannot be trusted to believe that somebody might find me valuable", "no one will ever save me", etc.  
+
+You can see how this would amount to CIDT, if he had that medical record and you've done a risk assessment?  
+
+The weird self-confidence isn't completely fronting; this is what it looks like when you try and give therapy to C PTSD patients, but there isn't the budget to do it properly. You get some adjusted behaviour in some contexts, but some of it needs addressing by another means or another method, and that member of staff couldn't be accessed on the same budget code.  
+
+You can't do materialised spend but not in every area; my neck of the words is highly highly algorithmic, and so highly routed on diagnosis, that it's almost impossible to treat the physical or mental component of my disability, even though they are very clearly defined. They just isn't a budget code or a pre-designed patient pathway for either, so if I stay here, I'll never get the therapy, but I'm also too ill to be able to leave.  
+
+Stuckkkk.  
+
+I'll get out eventually I don't know how but I will.  
+
+---
+
+Also, the surveillance team did push "you're gonna get loads of money out of this", so as well as making me a Duchess, they have also basically promised that I will get the moolah.  
+
+No idea where from but it would be nice to at least be able to afford an accessible residence, ideally... *not here*.  
+
+Not where everything I've built up has been broken, please.  
