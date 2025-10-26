@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-26 15:50:00 UTC_
+_Generated on 2025-10-26 16:00:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1591,6 +1591,7 @@ _Generated on 2025-10-26 15:50:00 UTC_
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Polaris_Nest/Git_Intake_Drawer/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
+    - [`💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md`](Polaris_Nest/Git_Intake_Drawer/💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
