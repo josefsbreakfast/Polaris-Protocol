@@ -92,6 +92,107 @@ Incident mis-categorised as personal or HR matter → oversight paralysis.
 
 ---
 
+## ⚠️ Failure-Mode Analysis — When Incidents Are Misclassified as HR or PR  
+
+### 1. **Loss of evidential chain**  
+- Early handling by HR or communications staff means system logs and device artefacts are overwritten before forensic capture.  
+- NCSC categorisation never happens, so there is no unique incident ID for later audit.  
+- Result: attribution becomes impossible, enabling plausible deniability for hostile or allied actors.
+
+### 2. **Integrity risk to clearance system**  
+- Vetting teams only see an HR note (“interpersonal dispute”) rather than a hostile-state targeting flag.  
+- Clearance renewals then mis-score the victim as a *conduct risk*, jeopardising their career and silencing disclosure.  
+- The impersonation achieves its secondary goal: reputational containment through bureaucratic coding.
+
+### 3. **Procedural opacity and circular referrals**  
+- Each office believes another is lead investigator.  
+- Cabinet Office Legal, DSIT Cyber, and departmental HR pass the file laterally; nothing is closed, nothing escalated.  
+- Creates a “responsibility sink” where no single team owns the breach.
+
+### 4. **Reputational containment over security response**  
+- Communications strategists prioritise narrative control: “no comment on personnel matters.”  
+- Ministerial briefings stress discretion instead of urgency.  
+- Public interest and individual safety lose out to short-term optics.
+
+### 5. **Psychological & welfare fallout**  
+- Targeted individual receives no protective-security support, only HR welfare checks that pathologise distress.  
+- Re-traumatisation through disbelief and internal gossip.  
+- Encourages further interference because attackers see containment working.
+
+### 6. **Governance and oversight erosion**  
+- When an incident never reaches the formal incident register, oversight bodies (IPC, ICO, JCHR) have nothing to review.  
+- The statistics under-report targeted-personnel events, skewing risk models and resourcing.  
+- Long-term result: systemic underestimation of hybrid-threat exposure inside government.
+
+### 7. **Diplomatic exposure**  
+- If allied infrastructure was the vector, the UK loses leverage to demand accountability later; there is no logged diplomatic notice.  
+- Appears complicit through administrative omission rather than intent.  
+
+---
+
+### 🧮 Summary Table  
+
+| Risk Type | Consequence | Mitigation (ideal chain ref.) |
+|------------|--------------|-------------------------------|
+| Evidential loss | No forensic chain | Stage 1 – Immediate Containment |
+| Clearance mis-flag | Career/reputation damage | Stage 5 – Welfare & Vetting Remediation |
+| Responsibility sink | Endless referrals | Stage 3 – Ministerial Notification |
+| Optics bias | Security delay | Stage 4 – Operational Coordination |
+| Psychological harm | Disengagement, attrition | Stage 5 – Welfare Support |
+| Oversight gap | Statistical invisibility | Stage 6 – Post-Incident Review |
+| Diplomatic omission | Loss of leverage | Stage 7 – Policy Update |
+
+---
+
+### 🧩 Diagnostic Insight  
+
+> *When a security incident enters the wrong ontology, governance collapses by category.*  
+> The cure is classification discipline: treat every credible impersonation or digital deception involving a cleared or Cabinet-adjacent person as a **Category 2 Protective-Security Event**, not an interpersonal complaint.
+
+---
+
+### 🌍 Strategic Consequences of Sustained Inaction  
+
+1. **Escalation to international jurisdiction**  
+   - Continued inaction after internal notice invites eventual scrutiny by international courts or inquiries (ICC, ICJ, UN rapporteurs).  
+   - When the domestic record shows suppression or delay, investigators infer bad faith rather than complexity.  
+
+2. **Geopolitical embarrassment**  
+   - Allies and adversaries alike treat administrative paralysis as proof of compromised governance.  
+   - “Cyber-ally interference” cases that surface in press or inquiries erode the UK’s claim to rule-of-law leadership and safe-data partnership.  
+
+3. **Media and public-record exposure**  
+   - Once metadata, testimony, or leaks become public, containment narratives collapse.  
+   - Journalistic reconstruction often precedes official acknowledgment, producing a reactive—not proactive—Cabinet stance.  
+
+4. **Policy capture narrative**  
+   - Failure to act feeds the perception that UK policy is suborned by foreign influence or private-sector pressure.  
+   - This damages cross-departmental trust and civil-service morale long after the incident itself.  
+
+5. **Loss of moral authority in multilateral fora**  
+   - When Britain criticises others’ human-rights or cyber-ethics practices while ignoring allied overreach at home, diplomatic credibility collapses.  
+   - Future sanctions, data-adequacy, and security-cooperation negotiations become harder to defend.  
+
+---
+
+### 🧭 Mitigation  
+
+| Exposure Vector | Preventive Action |
+|-----------------|------------------|
+| International legal escalation | Prompt, transparent domestic investigation; publication of audit trail |
+| Media & public record | Early ministerial acknowledgement and controlled disclosure |
+| Diplomatic credibility | Formal demarche or clarification with implicated ally |
+| Policy capture perception | Independent oversight inquiry within 3 months |
+| Moral authority loss | Public reaffirmation of ECHR and data-protection commitments |
+
+---
+
+> *Silence in a documented age becomes evidence of complicity.*  
+> The longer the delay, the more likely the narrative is set by those outside government rather than within it.
+
+---
+
+
 ## 🌌 Constellations  
 
 🪄 🧿 🌀 — governance integrity, protective security, oversight continuity.  
