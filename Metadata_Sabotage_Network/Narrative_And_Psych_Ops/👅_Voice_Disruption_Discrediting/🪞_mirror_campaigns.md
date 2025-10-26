@@ -1,5 +1,5 @@
 # 🪞 Mirror Campaigns — Fake Echo Accounts and Inverted Messaging  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-26  
 *How mimicry becomes message distortion.*
 
 ---
@@ -84,4 +84,4 @@ It documents the use of identity mimicry to confuse and fragment testimony.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2025-10-26_
