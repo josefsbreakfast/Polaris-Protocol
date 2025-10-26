@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-26 03:53:41 UTC_
+_Generated on 2025-10-26 03:54:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1549,7 +1549,6 @@ _Generated on 2025-10-26 03:53:41 UTC_
       - [`🕯️_shabbat_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`_struggling_to_remember_what_a_dr_is_.md.png`](Polaris_Nest/Git_Intake_Drawer/_struggling_to_remember_what_a_dr_is_.md.png)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`☕️_the_auntie_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_auntie_algorithm.md)
     - [`♿️_refusing_convenience.md`](Polaris_Nest/Git_Intake_Drawer/♿️_refusing_convenience.md)
@@ -1627,6 +1626,7 @@ _Generated on 2025-10-26 03:53:41 UTC_
     - [`🛰️_repeated_disconnections_24hrs.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_repeated_disconnections_24hrs.md)
     - [`🛰️_still_sec_snags.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_still_sec_snags.md)
     - [`🛰️_stop_witholding_c_and_v_children.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stop_witholding_c_and_v_children.md)
+    - [`🛰️_struggling_to_remember_what_a_dr_is.png`](Polaris_Nest/Git_Intake_Drawer/🛰️_struggling_to_remember_what_a_dr_is.png)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_two_prongs_one_fork.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_two_prongs_one_fork.md)
     - [`🛰️_weird_guardrails.md.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_weird_guardrails.md.PNG)
