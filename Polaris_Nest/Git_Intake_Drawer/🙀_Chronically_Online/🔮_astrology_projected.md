@@ -1,3 +1,5 @@
+there is so much interference with making this node, and it really doesn't want me to say that actually this impacts menstrual cycles, which is a bit fucked up of the people doing it.  
+
 # 🔮 Astrology, Projected  
 **First created:** 2025-10-26 | **Last updated:** 2025-10-26  
 *How internet culture, nudging, and meme logics make “astrology” feel functionally true by shaping emotion, behaviour, and social time.*
