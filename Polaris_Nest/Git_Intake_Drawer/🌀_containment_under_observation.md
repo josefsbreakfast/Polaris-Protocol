@@ -146,3 +146,59 @@ It records the shift from overt interference to supervised ambiguity, where inst
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-26_
+
+---
+
+---
+
+## ⚖️ When Does Containment Become an International Crime — A Legal Threshold Appendix
+
+**Purpose:** This section sketches (non-exhaustively and without alleging facts) the legal thresholds that separate a domestic failure or misconduct from conduct that could engage **international criminal law** (war crimes, crimes against humanity), and the remedial steps that reduce legal risk.
+
+### Core distinctions
+
+- **War crimes (Rome Statute, Art. 8)**  
+  - **Nexus to armed conflict required.** Conduct amounts to a war crime when it constitutes a serious violation of the laws and customs of armed conflict and is linked to an armed conflict (international or non-international). Examples include intentionally directing attacks against civilians or carrying out serious breaches of protections afforded in conflict zones.  
+  - **Application here:** purely administrative silence or data-sharing that results in individual harm typically does **not** amount to a war crime unless it is directly connected to conduct during an armed conflict (e.g., facilitating attacks on civilians or enabling grave breaches).  
+
+- **Crimes against humanity (Rome Statute, Art. 7)**  
+  - **No armed-conflict nexus required.** These require: (1) a *widespread or systematic* attack directed against a civilian population, and (2) knowledge of the attack and the requisite mens rea (intent/knowledge). Persecution (targeting a group on discriminatory grounds) is expressly listed.  
+  - **Application here:** if a pattern of discriminatory targeting (e.g., coordinated profiling and deprivation of rights of a protected group or their supporters) is widespread or systematic, and state or private actors act with discriminatory intent or knowledge, the conduct may engage crimes against humanity (persecution). Omission or conscious toleration by officials may be evidence of knowledge.
+
+- **Genocide (Rome Statute, Art. 6)**  
+  - Requires specific intent to destroy, in whole or in part, a national, ethnic, racial or religious group. This is a very high threshold and rarely engaged except in the gravest cases.
+
+- **Complicity, aiding and abetting, and State responsibility**  
+  - Individuals who **aid, abet, or assist** the commission of international crimes may be criminally liable if they act with knowledge of the perpetrator’s criminal intent.  
+  - States may bear international responsibility for wrongful acts (including omissions) where they breach obligations owed to other states or to individuals under treaty or customary international law. Concealment, wilful ignorance, or deliberate policy that facilitates unlawful attacks can give rise to serious international-law consequences.
+
+### Omission vs commission
+
+- **Omission (silence, failure to act):** International criminal law can punish omissions where there is a legal duty to act and the omission materially contributes to the commission of the crime (or where the omission forms part of a common plan). Repeated, conscious inaction in the face of documented, systematic targeting — particularly with discriminatory intent — can support a finding of responsibility.  
+- **Commission (active facilitation):** Sharing intelligence, metadata, or operational support that materially aids attacks or persecution makes actors vulnerable to aiding/abetting charges.
+
+### Practical markers that raise the international-crime risk
+
+1. **Scale and pattern:** multiple victims, systemic procedures, or institutionalised practices rather than isolated incidents.  
+2. **Discriminatory purpose:** evidence that targeting is aimed at a protected group or its defenders (religion, ethnicity, political opinion).  
+3. **State or organisational knowledge:** internal memos, risk assessments, or diplomatic notes that show awareness and a decision not to intervene.  
+4. **Material contribution:** documented transfers of intelligence, infrastructure access, or operational coordination that facilitate harm.  
+5. **Obstructed remedies:** persistent blocking of domestic remedies, concealment of evidence, or misuse of legal/administrative tools to prevent oversight.
+
+### How to avoid crossing the threshold — recommended remedial actions (for responsible authorities)
+
+- **Immediate, good-faith investigation** with independent oversight and transparent reporting where security permits.  
+- **Cease any cooperation or data-sharing** with implicated external actors until independent safeguards are in place and verified.  
+- **Preserve and disclose audited evidence** (where not compromising life‑safety), and permit forensic review by an independent body.  
+- **Notify oversight bodies and prosecutors** (ICO, IPC, Attorney General / CPS, and relevant parliamentary committees) promptly.  
+- **Implement interim protections** for affected individuals (temporary relocation, confidentiality, communications security).  
+- **Public acknowledgement and remedial commitments** once investigation sensitivity allows—this reduces international and reputational exposure.
+
+### Draft Polaris wording (to include in node or FOI/Pre‑Action):  
+
+> If credible evidence establishes that cooperation, data-sharing, or omission has contributed to a systematic pattern of discriminatory targeting, the matter may engage international criminal law (including crimes against humanity). To avert such escalation, the state must immediately institute an independent, transparent investigation, suspend implicated cooperative arrangements pending review, and provide effective remedies to affected persons.
+
+**Caveat:** This appendix summarises legal thresholds at a high level. Whether any concrete set of facts meets the tests for war crimes or crimes against humanity is a question of law and fact for competent criminal investigators and courts.
+
+---
+
