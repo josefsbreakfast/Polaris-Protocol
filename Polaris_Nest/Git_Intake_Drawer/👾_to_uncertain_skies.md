@@ -13,7 +13,7 @@ i'll record any weirdness here:
 3. going down the list and just did `🥸_bookshops_vs_behavioral_risks.md`. ahhh yes.... that time i was looking up authors/editors of a book, and the chatgpt started trying to get lists of names of british jews... that wonderful evening. people must really think i'm such a dumbass.
 4. a number of these files i don't feel comfortable running through the ai middleware, eg `💋_the_erotics_of_discrediting.md`; i know what i want to say, but i'm still in a place where i need a fair amount of help re-ordering my thoughts, and so i just can't trust we're not going to sneak in "chloe is a whore" or suchlike.
 5. `🧠_psychops_of_tone_the_science_of_disbelief.md` seems to have rendered okay. still emotionally "waiting for the other shoe to drop".
-6. 
+6. I gave everything in that folder a pass for general format points and metadara, with some links corrected too. I stsrted `💋_the_erotics_of_discrediting.md`, and im taking a break because honestly the cptsd symptoms are sky high, and im already a little unsure about my body getting out of the house for appointments; the period is part but not the whole of this.  
 
 ---
 
