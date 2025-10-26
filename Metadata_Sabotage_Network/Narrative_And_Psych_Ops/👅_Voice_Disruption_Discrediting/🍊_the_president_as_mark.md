@@ -90,14 +90,15 @@ satire, fascism, ridicule, media strategy, Trump, soft power, political psycholo
 
 ## 🏮 Footer  
 
-*The President as Mark* is a living node of the Polaris Protocol.  
+*🍊 The President as Mark* is a living node of the Polaris Protocol.  
 It documents how satire and ridicule can reframe Trump as the exploited fool, undercutting fascist narratives while easing domestic scandal-bait cycles.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🔥 The Strength of Humour](../🪆_Narrative_Interference/🔥_the_strength_of_humour.md) — *laughter as systemic solvent*  
-> - [🎭 Laughing at Strongmen](../🪆_Narrative_Interference/🎭_laughing_at_strongmen.md) — *cabaret and caricature of authoritarian figures*  
-> - [🐉 Chen Rui / Ryan — Trump Parody](../../../Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md) — *case study of cross-cultural parody undermining US leadership myths*  
+> - [🎭 Laughing at Strongmen] *TBC* — *cabaret and caricature of authoritarian figures*  
+> - [🐉 Chen Rui / Ryan — Trump Parody](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md) — *case study of cross-cultural parody undermining US leadership myths*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26  (Integrity Pass v1 — House Style 1.6 compliant)_
+_Last updated: 2025-10-26_
