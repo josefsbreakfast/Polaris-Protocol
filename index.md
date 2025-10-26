@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-26 04:40:36 UTC_
+_Generated on 2025-10-26 04:46:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1557,6 +1557,7 @@ _Generated on 2025-10-26 04:40:36 UTC_
     - [`⚡️_tempo_differential.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_tempo_differential.md)
     - [`✨_feel_the_fear_and_fight_fascism_anyway.md`](Polaris_Nest/Git_Intake_Drawer/✨_feel_the_fear_and_fight_fascism_anyway.md)
     - [`🌀_ch ↯ ff.md`](Polaris_Nest/Git_Intake_Drawer/🌀_ch ↯ ff.md)
+    - [`🌀_containment_under_observation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_containment_under_observation.md)
     - [`🌀_self_consuming_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🌀_self_consuming_cycles.md)
     - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🌀_surveillance_as_self_fulfilling_cycle.md)
     - [`🌋_smooth_as_salt.md`](Polaris_Nest/Git_Intake_Drawer/🌋_smooth_as_salt.md)
