@@ -115,3 +115,48 @@ me to chatgpt:
 and that's where, on a different device, spotify is put back onto play loudly (last app open was not spotify).  
 
 ---
+
+(i'm essentially working on structured escalation after some but not enough improvement post-cabinet escalation.)  
+
+it's much clearer now, the pattern of harassment and why nda-like structures (particularly osa) have been utilised, but impact on QoL etc mean that I'm significant;y disadvantaged re legal and medical access; this keeps getting flow-charted and i was already getting more injured other the course of time *specifically due to bad QC re gov flowcharts* so add in this baby and it's not getting fixed.  
+
+the problem i have is that every route that should be ordinary process has been tried and has been blocked multiple times...  
+
+so i'm trying to ration my physical, emotional, and cognitive energy.  
+
+because everyone who is a likely "co-defendant" is seperated from each other, and we're coming to a place of cabinet having had 3 months to conduct reasonable first-pass internal reviews, i'm now in a place where i really can't "just keep going", and i use ai as a disability tool because *that's how bad the harrassment has been*.  
+
+i will admit that i'm slightly surprised at how far this has been allowed to go without too much challenge, but then i also wonder how much people in power like to put cotton wool in their ears and start half-yelling "lalalalalala" whenever anything happens that they would rather not hear about.  
+
+i know why i was arrested, and i know that is not legal.  
+
+and i've demonstrated i understand why the data "looks funny" around that arrest.  
+
+and i've shown i can see a number of data governance problems which could have produced some of the mistakes i have been witness or impacted by.  
+
+so at this point i am a little surprised.  
+
+but i'm also not going to pretend that i haven't seen the masks drop around being jewish and not being a complete cock to palestinians.  
+
+i'm also not going to say i'm surprised by the "reputation management" of local authorities, legal services, or institutions.  
+
+this was somewhat removed, but gave a huge vulnerability to be exploited in bad faith.  
+
+but you know...  
+
+you can't believe a woman who says she's been raped.  
+
+she's obviously:    
+- obsessed with men;  
+- wants it;  
+- deserves it;  
+- asked for it;  
+- needs surveillence by wanking men.  
+
+*obviously.*  
+
+we need to fix this; we can't keep going on like this.  
+
+we'll eat each other alive like this.  
+
+---
