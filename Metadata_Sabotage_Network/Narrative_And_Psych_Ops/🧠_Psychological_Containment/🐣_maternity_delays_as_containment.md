@@ -1,6 +1,6 @@
 # 🐣 Maternity Delays as Containment  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*Weaponised delay in childbirth and maternal care — biological time turned into containment architecture*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-27  
+*Weaponised delay in childbirth and maternal care — biological time turned into containment architecture.*  
 
 ---
 
@@ -67,7 +67,7 @@ maternity delay, humanitarian law, Geneva Convention, medical access, administra
 
 ## 🏮 Footer  
 
-*Maternity Delays as Containment* is a living node of the Polaris Protocol.  
+*🐣 Maternity Delays as Containment* is a living node of the Polaris Protocol.  
 It documents how delay in maternity care operates as a form of systemic violence and psychological containment — converting birth itself into a checkpoint.  
 
 > 📡 Cross-references:
@@ -75,8 +75,8 @@ It documents how delay in maternity care operates as a form of systemic violence
 > - [🐌 Delays Are Violence](./🐌_delays_are_violence.md) — *delay as administrative harm*  
 > - [🌒 Waiting Is Not a Rescue](./🌒_waiting_is_not_a_rescue.md) — *delay reframed as care*  
 > - [🧠 Psychological Containment](./README.md) — *cluster index of suppression tactics*  
-> - [Survivor Tools → Counter-Nudges](../../../Disruption_Kit/Survivor_Tools/README.md) — *escalation and advocacy strategies*  
+> - [🧨 Counter-Nudges](../../../Disruption_Kit/Survivor_Tools/README.md) — *escalation and advocacy strategies*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
