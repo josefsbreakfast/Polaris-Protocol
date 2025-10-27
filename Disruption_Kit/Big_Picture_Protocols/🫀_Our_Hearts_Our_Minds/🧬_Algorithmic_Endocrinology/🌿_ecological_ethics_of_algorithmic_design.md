@@ -1,6 +1,6 @@
-# 🧩 Ecological Ethics of Algorithmic Design  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
-*Designing digital systems that respect hormonal homeostasis and ecological feedback.*
+# 🌿 Ecological Ethics of Algorithmic Design  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
+*Designing digital systems that respect hormonal homeostasis and ecological feedback.*  
 
 ---
 
@@ -104,10 +104,7 @@ ecological ethics, algorithmic design, homeostasis, endocrine footprint, hormona
 *🧩 Ecological Ethics of Algorithmic Design* is a living node of the Polaris Protocol.  
 It articulates principles for designing and governing algorithms as ecological participants within the human endocrine environment.  
 
-> 📡 Cross-references:  
-> – [🧬 Algorithmic Endocrinology](./README.md) — cluster overview  
-> – [🧭 Governance and Oversight in Algorithmic Health](./🧭_governance_and_oversight_in_algorithmic_health.md) — regulatory framework  
-> – [🌿 Algorithmic Ecology — Precision Without Context](./🌿_algorithmic_ecology_precision_without_context.md) — ecological baseline  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
