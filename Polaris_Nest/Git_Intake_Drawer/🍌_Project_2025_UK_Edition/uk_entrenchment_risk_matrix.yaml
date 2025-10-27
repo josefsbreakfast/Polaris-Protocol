@@ -1,0 +1,61 @@
+uk_entrenchment_risk_matrix:
+  - id: 1
+    indicator: "Local ground control"
+    probability: 0.7
+    severity: "Medium"
+    overall_risk: "High‑Medium"
+    commentary: "Ongoing partisan consolidation in local councils and PCCs; measurable electoral drift in multiple regions."
+  - id: 2
+    indicator: "Personnel pipelines"
+    probability: 0.75
+    severity: "High"
+    overall_risk: "High"
+    commentary: "Central gov advisory roles show rising external appointments from ideologically‑aligned think‑tanks; scrutiny limited."
+  - id: 3
+    indicator: "Regulatory remit shrinkage"
+    probability: 0.6
+    severity: "High"
+    overall_risk: "High"
+    commentary: "Multiple consultations on EHRC remit, ICO powers, and OfS scope; use of SIs suggests intent to narrow oversight."
+  - id: 4
+    indicator: "Emergency/discretionary powers normalised"
+    probability: 0.5
+    severity: "High"
+    overall_risk: "High‑Medium"
+    commentary: "Covid‑era instruments linger; new public‑order and protest laws expand ministerial discretion."
+  - id: 5
+    indicator: "Funding & contract levers"
+    probability: 0.7
+    severity: "High"
+    overall_risk: "High"
+    commentary: "Conditional funding clauses appearing in arts, universities, local‑gov grants referencing ‘viewpoint neutrality’."
+  - id: 6
+    indicator: "Campus & academic pressure"
+    probability: 0.8
+    severity: "High"
+    overall_risk: "High"
+    commentary: "OfS investigations and ministerial statements on ‘cancel culture’; rising disciplinary proceedings."
+  - id: 7
+    indicator: "Civil‑service impartiality erosion"
+    probability: 0.5
+    severity: "High"
+    overall_risk: "High‑Medium"
+    commentary: "Increased rhetoric about ‘activist civil servants’; HR guidance shifts under review."
+  - id: 8
+    indicator: "Media & platform regulation pressure"
+    probability: 0.55
+    severity: "Medium‑High"
+    overall_risk: "High‑Medium"
+    commentary: "Online Safety Act & Ofcom codes tighten moderation; active jawboning on political content moderation."
+  - id: 9
+    indicator: "Charity & third‑sector capture"
+    probability: 0.45
+    severity: "Medium"
+    overall_risk: "Medium"
+    commentary: "Charity Commission actions more visible on certain advocacy groups; trends worth monitoring."
+  - id: 10
+    indicator: "Narrative securitisation of dissent"
+    probability: 0.8
+    severity: "High"
+    overall_risk: "High"
+    commentary: "Persistent conflation of protest and extremism in rhetoric and Prevent‑related updates."
