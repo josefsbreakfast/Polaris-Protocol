@@ -1,6 +1,6 @@
 # 🧿 Persistent Discrediting Force  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-05  
-*Survivor boundaries collapse under surveillance and DARVO, leaving exhaustion, erasure, and extraction in place of rest*  
+**First created:** 2025-09-15 | **Last updated:** 2025-10-27  
+*Survivor boundaries collapse under surveillance and DARVO, leaving exhaustion, erasure, and extraction in place of rest.*  
 
 ---
 
@@ -77,15 +77,16 @@ persistent discrediting force, DARVO governance, record erasure, survivor exhaus
 *Persistent Discrediting Force* is a living node of the Polaris Protocol.  
 It documents how survivor boundaries collapse through surveillance, record erasure, predator tolerance, DARVO, and exhaustion — leaving disbelief and silence where protection should be.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [😴 Exhaustion as Containment](./😴_exhaustion_as_containment.md) — *fatigue as governance*  
 > - [🌑 Induced Futility](./🌑_induced_futility.md) — *engineered collapse of “why bother”*  
 > - [🪤 Suspicion Seeding](./🪤_suspicion_seeding.md) — *distrust as containment tactic*  
 > - [💔 Weaponised Empathy Gaps](./💔_weaponised_empathy_gaps.md) — *selective care as suppression*  
-> - [🗝️ Who Holds the Tape](../../../Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md) — *disappearance of records into custodial voids*  
-> - [⚖️ Wrong People in Power](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_wrong_people_in_power.md) — *predator tolerance at the top*  
+> - [🗝️ Who Holds the Tape](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md) — *disappearance of records into custodial voids*  
+> - [⚖️ Wrong People in Power](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md) — *predator tolerance at the top*  
 > - [🧨 How Prevent Uses DARVO to Detain](../../../Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_how_prevent_uses_darvo_to_detain.md) — *DARVO weaponisation as default script*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
