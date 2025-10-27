@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 14:13:44 UTC_
+_Generated on 2025-10-27 14:15:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1289,7 +1289,7 @@ _Generated on 2025-10-27 14:13:44 UTC_
       - [`🦩_fork_audit_protocol_verification_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🦩_fork_audit_protocol_verification_chains.md)
       - [`🧠_institutional_split_personas.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧠_institutional_split_personas.md)
       - [`🧪_when_fork_errors_replicate_themselves.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧪_when_fork_errors_replicate_themselves.md)
-      - [`🧬_fork_logic_how_systems_split_their_own_records.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧬_fork_logic_how_systems_split_their_own_records.md)
+      - [`🧬_forked_system_logic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧬_forked_system_logic.md)
       - [`🧮_integrity_drift.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧮_integrity_drift.md)
       - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
       - [`🪼_data_twin_fatigue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪼_data_twin_fatigue.md)
