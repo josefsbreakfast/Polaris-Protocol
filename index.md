@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 21:37:41 UTC_
+_Generated on 2025-10-27 21:40:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -26,6 +26,8 @@ _Generated on 2025-10-27 21:37:41 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
       - [**🦤_Potential_Dodos/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/)
+        - [**🍌_Project_2025_UK_Edition/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/)
+          - [`🇬🇧_uk_democratic_safeguards_patch_plan.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_democratic_safeguards_patch_plan.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md)
       - [`⚖️_two_way_seal.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md)
@@ -1550,7 +1552,6 @@ _Generated on 2025-10-27 21:37:41 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🍌_Project_2025_UK_Edition/**](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/)
-      - [`uk_democratic_safeguards_patch_plan.md`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/uk_democratic_safeguards_patch_plan.md)
       - [`uk_democratic_safeguards_patch_plan.yaml`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/uk_democratic_safeguards_patch_plan.yaml)
       - [`uk_entrenchment_risk_matrix.md`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/uk_entrenchment_risk_matrix.md)
       - [`uk_entrenchment_risk_matrix.xlsx`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/uk_entrenchment_risk_matrix.xlsx)
