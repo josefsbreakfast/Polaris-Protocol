@@ -1,6 +1,6 @@
 # ⏳ Delay Scripts Near Deadlines  
-**First created:** 2025-09-25 | **Last updated:** 2025-10-05  
-*Documents the procedural playbook of delay used to exhaust survivors and shield institutions*  
+**First created:** 2025-09-25 | **Last updated:** 2025-10-27  
+*Documents the procedural playbook of delay used to exhaust survivors and shield institutions.*  
 
 ---
 
@@ -86,16 +86,16 @@ delay tactics, institutional suppression, deadline pressure, twin records, admin
 
 ## 🏮 Footer  
 
-*Delay Scripts Near Deadlines* is a living node of the Polaris Protocol.  
+*⏳ Delay Scripts Near Deadlines* is a living node of the Polaris Protocol.  
 It documents how scripted postponement and administrative drift are deployed as deliberate containment strategies, particularly when institutional deadlines risk exposure.  
 
 > 📡 Cross-references:
 > 
-> - [🧠 Psychological Containment](../) — *parent folder*  
-> - [🌀 Confused Feed as Containment](🌀_confused_feed_as_containment.md) — *incoherence as suppression tactic*  
-> - [🧭 Oversight of Oversight](../../System_Governance/🧿_watch_the_watchers.md) — *how audits themselves are managed*  
-> - [👁️‍🗨️ Witness Historical Casefiles](../../👁️‍🗨️_Witness_Historical_Casefiles/) — *survivor testimony against delay tactics*  
+> - [🧠 Psychological Containment](./README.md) — *parent folder*  
+> - [🌀 Confused Feed as Containment](./🌀_confused_feed_as_containment.md) — *incoherence as suppression tactic*  
+> - [🧭 Oversight of Oversight](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *how audits themselves are managed*  
+> - [👁️‍🗨️ Witness Historical Casefiles](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *survivor testimony against delay tactics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
