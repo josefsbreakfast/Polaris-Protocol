@@ -1,6 +1,6 @@
 # 😴 Cognitive Load as Infrastructure  
-**First created:** 2025-09-25 | **Last updated:** 2025-10-05  
-*Containment systems that exploit trust in baseline functioning while inducing fatigue through micro-distortions*  
+**First created:** 2025-09-25 | **Last updated:** 2025-10-27  
+*Containment systems that exploit trust in baseline functioning while inducing fatigue through micro-distortions.*  
 
 ---
 
@@ -60,10 +60,11 @@ cognitive load, exhaustion infrastructure, micro-distortion, fatigue containment
 
 ## 🏮 Footer  
 
-*Cognitive Load as Infrastructure* is a living node of the Polaris Protocol.  
+*😴 Cognitive Load as Infrastructure* is a living node of the Polaris Protocol.  
 It documents how systemic trust is inverted into a containment medium, using micro-distortions and accumulated fatigue to sustain suppression.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 Psychological Containment](./README.md) — *cluster index of containment mechanisms*  
 > - [🌀 Recognition Without Resolution](./🌀_recognition_without_resolution.md) — *partial answers as exhaustion tactic*  
 > - [🌑 Induced Futility](./🌑_induced_futility.md) — *hopelessness as design outcome*  
@@ -71,4 +72,4 @@ It documents how systemic trust is inverted into a containment medium, using mic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
