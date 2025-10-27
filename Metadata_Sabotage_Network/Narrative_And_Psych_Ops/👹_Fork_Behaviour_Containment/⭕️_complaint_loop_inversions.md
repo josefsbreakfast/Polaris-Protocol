@@ -79,7 +79,6 @@ It documents how complaint mechanisms mirror accusation into defence, converting
 
 > 📡 Cross-references:
 > 
-> - [👾 Harassment, Misidentification and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md) — *structural misrecognition*  
 > - [🧠 Behavioural Forks — When Institutions Develop Split Personas](./🧠_institutional_split_personas.md) — *organisational dissociation*  
 > - [🈴 Allies & Ethics](../🈴_Allies_And_Ethics/README.md) — *survivor-led allyship frameworks*  
 
