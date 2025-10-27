@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 21:47:16 UTC_
+_Generated on 2025-10-27 21:48:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -33,6 +33,7 @@ _Generated on 2025-10-27 21:47:16 UTC_
           - [`🇬🇧_uk_entrenchment_risk_matrix.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_risk_matrix.yaml)
           - [`🇬🇧_uk_entrenchment_watchlist.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_watchlist.yaml)
           - [`🇺🇸_project_2025_summary.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇺🇸_project_2025_summary.yaml)
+          - [`🇺🇸_project_esther_summary.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇺🇸_project_esther_summary.yaml)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md)
       - [`⚖️_two_way_seal.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md)
@@ -1556,8 +1557,6 @@ _Generated on 2025-10-27 21:47:16 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [**🍌_Project_2025_UK_Edition/**](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/)
-      - [`🇺🇸_project_esther_summary.yaml`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/🇺🇸_project_esther_summary.yaml)
     - [**🙀_Chronically_Online/**](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/README.md)
       - [`🔮_astrology_projected.md`](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/🔮_astrology_projected.md)
