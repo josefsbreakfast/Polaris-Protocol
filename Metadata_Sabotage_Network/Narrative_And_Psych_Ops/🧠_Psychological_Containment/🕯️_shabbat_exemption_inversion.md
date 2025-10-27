@@ -1,6 +1,6 @@
-# ✡️ Shabbat Exemption Inversion  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*When faith language becomes bureaucratic cover for selective suspension of aid*  
+# 🕯️ Shabbat Exemption Inversion  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-27  
+*When faith language becomes bureaucratic cover for selective suspension of aid.*  
 
 ---
 
@@ -51,15 +51,15 @@ Shabbat inversion, pikuach nefesh, religious cover, humanitarian delay, bureaucr
 
 ## 🏮 Footer  
 
-*Shabbat Exemption Inversion* is a living node of the Polaris Protocol.  
+*🕯️ Shabbat Exemption Inversion* is a living node of the Polaris Protocol.  
 It documents how religious observance can be reinterpreted as administrative containment, where delay is moralised and pikuach nefesh inverted.  
 
 > 📡 Cross-references:
 > 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
-> - [🕯 Exorcising Safeguarding Shadows](../../../Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/README.md) — *moral alibi architectures*  
-> - [📺 Money Talks Media](../../../Disruption_Kit/Big_Picture_Protocols/📺_Money_Talks_Media//README.md) — *how moral cover circulates in crisis theatre*  
+> - [🕯 Exorcising Safeguarding Shadows](../../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md) — *moral alibi architectures*  
+> - [📺 Money Talks Media](../../Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md) — *how moral cover circulates in crisis theatre*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
