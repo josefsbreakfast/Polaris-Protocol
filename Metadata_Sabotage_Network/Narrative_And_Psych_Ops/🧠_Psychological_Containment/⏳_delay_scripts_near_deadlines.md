@@ -64,7 +64,6 @@ flowchart TD
   C:::tier
   E:::tier
 
-  classDef tier fill:#f9f,stroke:#333,stroke-width:1px;
 ```
 
 ---
