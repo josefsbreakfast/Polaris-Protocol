@@ -116,11 +116,11 @@ Far-right and nationalist actors use our rapes as rationale for their politics, 
 
 > 📡 Cross-references:
 > 
-> - [🕸️ Safeguarding Obedience Division](../../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/🕸️_safeguarding_obedience_division.md) — *obedience disguised as care*  
-> - [🇬🇧 Safeguarding Counter-Extremism Risk Convergence](../../../Disruption_Kit/Big_Picture_Protocols/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md) — *anger treated as extremism*  
-> - [🎭 Hypocrisy Profile](../../../Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md) — *care claims masking violence*  
-> - [🫀 Genocide by Containment](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🫀_genocide_by_containment.md) — *exhaustion and pathologised anger as systemic cruelty*  
+> - [🕸️ Safeguarding Obedience Division](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🕸️_safeguarding_obedience_division.md) — *obedience disguised as care*  
+> - [🇬🇧 Safeguarding Counter-Extremism Risk Convergence](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md) — *anger treated as extremism*  
+> - [🎭 Hypocrisy Profile](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md) — *care claims masking violence*  
+> - [🫀 Genocide by Containment](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md) — *exhaustion and pathologised anger as systemic cruelty*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
