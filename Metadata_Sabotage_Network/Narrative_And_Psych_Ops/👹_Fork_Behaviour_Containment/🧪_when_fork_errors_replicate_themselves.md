@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 A **Hypothesis Cascade** occurs when one false record or corrupted assumption seeds a self-replicating chain of dependent errors.  
 Each verification layer copies the initial fault as fact, amplifying its authority with every repetition.  
@@ -12,9 +12,9 @@ This node serves as both a diagnostic and teaching model for auditors tracing pr
 
 ---
 
-## 📑 Key Sections  
+## ✨ Key Sections  
 
-### 1. Seed Error Identification  
+### 🌱 Seed Error Identification  
 Every cascade begins with a **seed anomaly** — a wrong field, missing timestamp, or misclassified event.  
 The key diagnostic step is not locating the largest inconsistency, but the *earliest consistent one*: the first point where the system began to repeat its own error.  
 Auditors mark this as **E₀ (error origin)**.  
@@ -27,7 +27,7 @@ Common E₀ types:
 
 ---
 
-### 2. Replication Paths  
+### 🧬 Replication Paths  
 Errors spread through dependency chains.  
 
 | Pathway | Mechanism | Result |
@@ -41,7 +41,7 @@ Replication increases authority: every repetition makes the falsehood harder to 
 
 ---
 
-### 3. Containment Cascade Diagrams  
+### 🌋 Containment Cascade Diagrams  
 
 ```mermaid
 flowchart TD
@@ -59,7 +59,7 @@ The diagram shows the recursive loop where the externalised error feeds back int
 
 ---
 
-### 4. Verification and Rollback  
+### 🍃 Verification and Rollback  
 
 1. **Trace dependency tree** for every dataset referencing the suspect record.  
 2. **Re-validate** against raw source or physical evidence.  
