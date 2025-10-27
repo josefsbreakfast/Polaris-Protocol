@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 21:06:51 UTC_
+_Generated on 2025-10-27 21:23:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1548,6 +1548,7 @@ _Generated on 2025-10-27 21:06:51 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🍌_Project_2025_UK_Edition/**](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/)
+      - [`uk_entrenchment_watchlist.yaml`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/uk_entrenchment_watchlist.yaml)
       - [`🇺🇸_project_2025_summary.yaml`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/🇺🇸_project_2025_summary.yaml)
       - [`🇺🇸_project_esther_summary.yaml`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/🇺🇸_project_esther_summary.yaml)
     - [**🙀_Chronically_Online/**](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/)
