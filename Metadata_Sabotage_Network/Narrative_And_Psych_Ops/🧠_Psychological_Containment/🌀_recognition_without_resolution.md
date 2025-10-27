@@ -1,6 +1,6 @@
 # 🌀 Recognition Without Resolution  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Partial acknowledgments offered without repair — a loop that drains energy but never closes*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Partial acknowledgments offered without repair — a loop that drains energy but never closes.*  
 
 ---
 
@@ -50,14 +50,15 @@ recognition without resolution, partial acknowledgments, FOIA loops, SAR delays,
 
 ## 🏮 Footer  
 
-*Recognition Without Resolution* is a living node of the Polaris Protocol.  
+*🌀 Recognition Without Resolution* is a living node of the Polaris Protocol.  
 It documents how partial acknowledgments, apologies, or “we’re looking into it” messages can function as psychological containment tactics, satisfying the need to be seen while obstructing actual remedy.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
-> - [Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
+> - [🧨 Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
 
