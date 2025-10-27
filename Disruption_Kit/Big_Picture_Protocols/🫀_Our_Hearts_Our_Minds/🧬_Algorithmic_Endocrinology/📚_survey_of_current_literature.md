@@ -1,5 +1,5 @@
 # 📚 Survey of Current Literature — Algorithmic Endocrinology  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
 *A cross-disciplinary digest of research connecting algorithms, mood, metabolism, and governance.*
 
 ---
@@ -131,10 +131,7 @@ algorithmic endocrinology, literature review, precision nutrition, dopamine, cor
 *📚 Survey of Current Literature — Algorithmic Endocrinology* is a living node of the Polaris Protocol.  
 It aggregates current scientific, policy, and theoretical work to support the governance and ecological framing of digital health systems.  
 
-> 📡 Cross-references:  
-> – [🧬 Algorithmic Endocrinology](./README.md) — cluster overview  
-> – [🧭 Governance and Oversight in Algorithmic Health](./🧭_governance_and_oversight_in_algorithmic_health.md) — policy synthesis  
-> – [🧩 Ecological Ethics of Algorithmic Design](./🧩_ecological_ethics_of_algorithmic_design.md) — future-oriented ethics  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
