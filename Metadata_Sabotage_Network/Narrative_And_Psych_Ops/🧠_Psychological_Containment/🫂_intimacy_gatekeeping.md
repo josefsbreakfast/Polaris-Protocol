@@ -1,6 +1,6 @@
 # 🫂 Intimacy Gatekeeping  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*How surveillance, restrictions and delays function to ration closeness and touch*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-27  
+*How surveillance, restrictions and delays function to ration closeness and touch.*  
 
 ---
 
@@ -57,15 +57,15 @@ intimacy gatekeeping, rationed closeness, surveillance restrictions, withheld to
 
 ## 🏮 Footer  
 
-*Intimacy Gatekeeping* is a living node of the Polaris Protocol.  
+*🫂 Intimacy Gatekeeping* is a living node of the Polaris Protocol.  
 It documents how isolation and delays can function as containment even without explicit policy.  
 
 > 📡 Cross-references:
 > 
 > - [🧊 Glass Box Containment](./🧊_glass_box_containment.md) — *proximity without touch*  
 > - [🐌 Delays Are Violence](./🐌_delays_are_violence.md)  
-> - [👅 Voice Disruption Discrediting](../👅_Voice_Disruption_Discrediting/README.md)  
+> - [👅 Voice & Disruption Discrediting](../👅_Voice_Disruption_Discrediting/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
