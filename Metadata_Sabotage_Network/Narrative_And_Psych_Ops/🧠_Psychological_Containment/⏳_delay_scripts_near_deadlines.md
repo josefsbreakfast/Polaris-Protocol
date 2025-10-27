@@ -40,9 +40,23 @@ These play out most clearly when a hard **deadline** (trial entry, referral, com
 
 ## 🪫 Structural Notes  
 
-- Delay is not accidental — it is a **containment strategy**.  
-- Staff confusion is part of the cover: it produces plausible deniability.  
-- Executives are accountable for knowingly allowing deadlines to be weaponised.  
+- Delay is not accidental in totalis — it is a **containment strategy**.  
+- Staff confusion is part of the organisational-level cover: it produces plausible deniability.  
+- Executives are accountable for knowingly allowing deadlines to be weaponised.
+
+---
+
+```mermaid
+flowchart TD
+  A[Frontline Staff] -->|See duplicate record| B[Genuine confusion]
+  C[Compliance Officers] -->|Aware of flags & risk markers| D[Frame as admin quirk]
+  E[Executive / VC Level] -->|Authorised twinning / signal use| F[Know but do not disclose → lying by omission]
+
+  A:::tier
+  C:::tier
+  E:::tier
+
+```
 
 ---
 
@@ -62,20 +76,6 @@ Every “we’re still waiting on X,” every non-reply before a deadline, every
 Counter-use begins the moment you recognise that pattern.  
 From that moment, you reclaim your timeline: you become the archivist of what they hoped would dissolve into “process.”  
 Each timestamp you keep, each note you make, is both refusal and proof — a quiet assertion that the waiting was scripted, and that harm by procedure is still harm.  
-
----
-
-```mermaid
-flowchart TD
-  A[Frontline Staff] -->|See duplicate record| B[Genuine confusion]
-  C[Compliance Officers] -->|Aware of flags & risk markers| D[Frame as admin quirk]
-  E[Executive / VC Level] -->|Authorised twinning / signal use| F[Know but do not disclose → lying by omission]
-
-  A:::tier
-  C:::tier
-  E:::tier
-
-```
 
 ---
 
