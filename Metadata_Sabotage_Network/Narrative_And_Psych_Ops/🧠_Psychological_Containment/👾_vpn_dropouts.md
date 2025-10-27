@@ -1,5 +1,5 @@
 # 👾 VPN Dropouts  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-05  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-27  
 *Intermittent VPN disconnections as an induced-futility tactic*
 
 ---
@@ -46,7 +46,7 @@ vpn disconnections, induced futility, psychological containment, security risk, 
 
 ## 🏮 Footer  
 
-*Psychological Containment — VPN Dropouts* is a living node of the Polaris Protocol.  
+*👾 Psychological Containment — VPN Dropouts* is a living node of the Polaris Protocol.  
 It documents how intermittent VPN disconnections can function as both a security vulnerability and a subtle containment tactic.  
 
 > 📡 Cross-references:
@@ -57,4 +57,4 @@ It documents how intermittent VPN disconnections can function as both a security
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2025-10-27_
