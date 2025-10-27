@@ -1,5 +1,5 @@
 # ⚖️ Capacity as Integrity — Why Oversubscription Breeds Error
-**First created:** 2025-10-16 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-16 | **Last updated:** 2025-10-27  
 *Verification requires headroom. Running systems at full load destroys the space truth needs to exist.*
 
 ---
@@ -104,4 +104,4 @@ It reframes unused capacity as an ethical infrastructure, not inefficiency — t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
