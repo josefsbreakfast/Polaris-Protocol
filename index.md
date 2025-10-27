@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 09:21:33 UTC_
+_Generated on 2025-10-27 12:12:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1641,6 +1641,8 @@ _Generated on 2025-10-27 09:21:33 UTC_
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_bakwaas_but_okay_fine.PNG)
     - [`🛰️_coping_strategies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_coping_strategies.md)
     - [`🛰️_disconnects_and_dampening_down.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_disconnects_and_dampening_down.md)
+    - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
+    - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_meta_joke_surveillence_gadgies.md.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_meta_joke_surveillence_gadgies.md.PNG)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
