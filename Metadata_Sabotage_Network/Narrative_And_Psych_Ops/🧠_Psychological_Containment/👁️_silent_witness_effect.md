@@ -1,6 +1,6 @@
 # 👁️ Silent Witness Effect  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*The felt presence of observers altering behaviour, inducing self-censorship and hesitation*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*The felt presence of observers altering behaviour, inducing self-censorship and hesitation.*  
 
 ---
 
@@ -55,7 +55,7 @@ silent witness effect, perceived surveillance, self-censorship, psychological co
 
 ## 🏮 Footer  
 
-*Silent Witness Effect* is a living node of the Polaris Protocol.  
+*👁️ Silent Witness Effect* is a living node of the Polaris Protocol.  
 It documents how the felt presence of observers induces self-censorship and hesitation before overt suppression occurs.  
 
 > 📡 Cross-references:
@@ -65,4 +65,4 @@ It documents how the felt presence of observers induces self-censorship and hesi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
