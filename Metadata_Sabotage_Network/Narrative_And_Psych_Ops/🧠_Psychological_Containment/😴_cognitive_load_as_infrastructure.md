@@ -68,7 +68,7 @@ It documents how systemic trust is inverted into a containment medium, using mic
 > - [🧠 Psychological Containment](./README.md) — *cluster index of containment mechanisms*  
 > - [🌀 Recognition Without Resolution](./🌀_recognition_without_resolution.md) — *partial answers as exhaustion tactic*  
 > - [🌑 Induced Futility](./🌑_induced_futility.md) — *hopelessness as design outcome*  
-> - [Disruption Kit → Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *suppression and counter-nudge logs*  
+> - [🧨 Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *suppression and counter-nudge logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
