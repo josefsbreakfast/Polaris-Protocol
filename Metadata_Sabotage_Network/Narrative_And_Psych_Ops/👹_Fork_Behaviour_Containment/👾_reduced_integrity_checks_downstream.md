@@ -37,7 +37,8 @@ Auditors and SAR reviewers may wish to request:
 It situates an observed system fragility: strong perimeter checks contrasted with weaker downstream integrity.  
 It is written to aid auditors and SAR reviewers in identifying potential fork anomalies.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis.md)  
 > - [👾 Reduced Integrity Checks Downstream — Auditor Examples](./👾_reduced_integrity_checks_downstream_auditor_examples.md)  
 
