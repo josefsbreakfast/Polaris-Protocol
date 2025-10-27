@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 21:48:41 UTC_
+_Generated on 2025-10-27 21:52:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1585,6 +1585,7 @@ _Generated on 2025-10-27 21:48:41 UTC_
     - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
     - [`🌿_wild_type_encounters.md`](Polaris_Nest/Git_Intake_Drawer/🌿_wild_type_encounters.md)
     - [`🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png`](Polaris_Nest/Git_Intake_Drawer/🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png)
+    - [`🍌_project_workaround.md`](Polaris_Nest/Git_Intake_Drawer/🍌_project_workaround.md)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
