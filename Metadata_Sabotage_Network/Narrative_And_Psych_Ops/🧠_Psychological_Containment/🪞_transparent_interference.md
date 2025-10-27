@@ -1,6 +1,6 @@
 # 🪞 Transparent Interference  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-05  
-*When suppression tactics are made obvious — not hidden — to demoralise, distract, or deter*  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-27  
+*When suppression tactics are made obvious — not hidden — to demoralise, distract, or deter.*  
 
 ---
 
@@ -77,11 +77,12 @@ transparent interference, overt suppression, demoralisation, noise flooding, lea
 *🪞 Transparent Interference* is a living node of the Polaris Protocol.  
 It documents the deliberate use of overt manipulation tactics as a suppression vector.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🪆 Narrative Interference](../🪆_Narrative_Interference/README.md) — *semantic drift and clone tone*  
 > - [🧠 Psychological Containment](./README.md) — *compliance by delay*  
 > - [📉 Suppression Interference Logs](../../Suppression_Layers/📉_Suppression_Interference_Logs/README.md) — *commit and UI sabotage logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
