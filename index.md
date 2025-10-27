@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 14:06:42 UTC_
+_Generated on 2025-10-27 14:07:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1282,7 +1282,6 @@ _Generated on 2025-10-27 14:06:42 UTC_
       - [`🌩️_clone_theatre_simulation_and_divergence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🌩️_clone_theatre_simulation_and_divergence.md)
       - [`🐕🦴_dog_with_bone_principle.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🐕🦴_dog_with_bone_principle.md)
       - [`👻_the_psychology_of_passing_the_fork.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👻_the_psychology_of_passing_the_fork.md)
-      - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_harassment_misidentification_systemic_failures_25-09-02.md)
       - [`👾_reduced_integrity_checks_downstream.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream.md)
       - [`👾_reduced_integrity_checks_downstream_auditor_examples.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream_auditor_examples.md)
       - [`🕳️_silent_flip_detection_logs.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🕳️_silent_flip_detection_logs.md)
@@ -1763,6 +1762,7 @@ _Generated on 2025-10-27 14:06:42 UTC_
     - [`➰_forever_containment_cohorts_casefile.md`](Polaris_Nest/SCP-VoiceX_Casefiles/➰_forever_containment_cohorts_casefile.md)
     - [`🌟_survivor_star_seeker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🌟_survivor_star_seeker.md)
     - [`🎭_consent_is_not_character.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🎭_consent_is_not_character.md)
+    - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Polaris_Nest/SCP-VoiceX_Casefiles/👾_harassment_misidentification_systemic_failures_25-09-02.md)
     - [`📂_clone_in_the_family.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📂_clone_in_the_family.md)
     - [`📉_shadow_reach_analysis.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📉_shadow_reach_analysis.md)
     - [`📛_storage_purge_detected.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📛_storage_purge_detected.md)
