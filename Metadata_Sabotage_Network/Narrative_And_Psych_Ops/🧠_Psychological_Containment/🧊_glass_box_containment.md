@@ -1,6 +1,6 @@
 # 🧊 Glass Box Containment  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*The sensation of being sealed away from others — visible but untouchable*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-27  
+*The sensation of being sealed away from others — visible but untouchable.*  
 
 ---
 
@@ -56,7 +56,7 @@ glass box containment, transparent isolation, proximity without touch, engineere
 
 ## 🏮 Footer  
 
-*Glass Box Containment* is a living node of the Polaris Protocol.  
+*🧊 Glass Box Containment* is a living node of the Polaris Protocol.  
 It documents the survivor experience of enforced distance — proximity without contact — and frames it as a systemic containment strategy.  
 
 > 📡 Cross-references:
@@ -69,4 +69,4 @@ It documents the survivor experience of enforced distance — proximity without 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
