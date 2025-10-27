@@ -4,14 +4,14 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Voice is not only a biometric identifier. It is a **social signature** — carrying gender, class, region, and emotion in every frequency band.  
 In the extractive architectures of AI, those signatures are harvested as features, flattened into embeddings, and replayed as synthetic affect.  
 Once cloned or leaked, a woman’s voice ceases to be a communication act; it becomes a portable site of risk.
 
 ---
 
-## 🔊 Risk Topology  
+## 🌩️ Risk Topology  
 
 | Layer | Mechanism | Consequence |
 |-------|------------|-------------|
@@ -29,7 +29,7 @@ The institutions designing these systems often treat *gender* as a nuisance vari
 
 ---
 
-## 🧩 Institutional Blind Spot  
+## 🧿 Institutional Blind Spot  
 Ethics panels and DPIAs habitually define risk as *data loss* rather than *bodily threat*.  
 They ask: *Could this dataset identify someone?*  
 They rarely ask: *If it does, who gets hurt first?*  
@@ -37,7 +37,7 @@ The answer, predictably, is women — especially those whose tone, accent, or po
 
 ---
 
-## 🌐 Counter-Design Principles  
+## 🧨 Counter-Design Principles  
 
 1. **Harassment Vector Acknowledgment** — every voice dataset must document the likelihood of gendered targeting upon exposure.  
 2. **Intersectional Audit** — evaluate compound risk by gender × accent × ethnicity.  
@@ -48,7 +48,7 @@ The answer, predictably, is women — especially those whose tone, accent, or po
 ---
 
 ## 🌌 Constellations  
-🪄 💋 🩸 🧠 — expression, gender, harm, cognition.  
+🪄 💄 🩸 🧠 — expression, gender, harm, cognition.  
 Lives between **Expression of Norms** and **Ouroborotic Violence** clusters; bridges ethical failure and cultural recursion.
 
 ---
@@ -59,7 +59,7 @@ gendered risk, voice cloning, affective computing, harassment, extremism, ethics
 ---
 
 ## 🏮 Footer  
-*The Gendered Exposure of Voice* is a living node of the Polaris Protocol.  
+*💄 The Gendered Exposure of Voice* is a living node of the Polaris Protocol.  
 It traces how the sound of identity becomes a vector of both fascination and danger in networked systems.  
 It insists that risk assessment without gender analysis is not ethics — it is denial with paperwork.  
 
