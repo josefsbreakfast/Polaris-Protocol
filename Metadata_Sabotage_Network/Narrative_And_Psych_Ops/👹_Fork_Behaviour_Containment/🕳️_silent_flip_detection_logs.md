@@ -11,7 +11,7 @@ This node outlines pseudocode and ethical logic for detecting those ghost update
 
 ---
 
-## 📑 Key Sections  
+## ✨ Key Sections  
 
 ### 🐅 Hash Comparison Workflow  
 
