@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 14:12:05 UTC_
+_Generated on 2025-10-27 14:13:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1275,7 +1275,6 @@ _Generated on 2025-10-27 14:12:05 UTC_
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
       - [`protocol_flow_new_insert_handling.png`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/protocol_flow_new_insert_handling.png)
-      - [`toy_case_history.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/toy_case_history.csv)
       - [`⚖️_capacity_as_integrity_why_oversubscription_breeds_error.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚖️_capacity_as_integrity_why_oversubscription_breeds_error.md)
       - [`⚠️_fork_anomaly_hypothesis_XYZ.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚠️_fork_anomaly_hypothesis_XYZ.md)
       - [`⭕️_complaint_loop_inversions.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⭕️_complaint_loop_inversions.md)
@@ -1284,6 +1283,7 @@ _Generated on 2025-10-27 14:12:05 UTC_
       - [`👻_the_psychology_of_passing_the_fork.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👻_the_psychology_of_passing_the_fork.md)
       - [`👾_reduced_integrity_checks_downstream.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream.md)
       - [`👾_reduced_integrity_checks_downstream_auditor_examples.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream_auditor_examples.md)
+      - [`👾_toy_case_history.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_toy_case_history.csv)
       - [`🕳️_silent_flip_detection_logs.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🕳️_silent_flip_detection_logs.md)
       - [`🦇_status_quo_twinning.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🦇_status_quo_twinning.md)
       - [`🦩_fork_audit_protocol_verification_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🦩_fork_audit_protocol_verification_chains.md)
