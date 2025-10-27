@@ -64,7 +64,7 @@ It documents how low-level doubts are planted to corrode trust in allies and wit
 > 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
 > - [🧿 Persistent Discrediting Force](./🧿_persistent_discrediting_force.md) — *sustained DARVO and credibility collapse*  
-> - [Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
+> - [🧨 Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
