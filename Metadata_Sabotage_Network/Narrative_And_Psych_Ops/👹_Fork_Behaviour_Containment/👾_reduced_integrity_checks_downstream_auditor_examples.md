@@ -1,12 +1,10 @@
 # 👾 Reduced Integrity Checks Downstream — Auditor Examples  
-
-**First created:** 2025-09-09 | **Last updated:** 2025-09-09  
-
+**First created:** 2025-09-09 | **Last updated:** 2025-10-27  
 *Illustrative Python snippets for auditors: detecting silent flips, weak integrity checks, and missing audit entries.*  
 
 ---
 
-## Purpose  
+## ✨ Purpose  
 
 This file adjoins [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md).  
 It does **not** describe exploits.  
@@ -15,7 +13,7 @@ It provides *auditor-friendly code examples* to quickly surface anomalies in law
 ---
 
 A **toy dataset** is provided alongside this file:  
-- [toy_case_history.csv](./toy_case_history.csv)  
+- [toy_case_history.csv](./👾_toy_case_history.csv)  
 Auditors can use this to run the snippets immediately without needing live case data.  
 
 ---
@@ -82,15 +80,16 @@ print(soft_deleted[['case_id','deleted_at']])
 
 ## 🏮 Footer  
 
-*Reduced Integrity Checks Downstream — Auditor Examples* is a living node of the Polaris Protocol.  
+*👾 Reduced Integrity Checks Downstream — Auditor Examples* is a living node of the Polaris Protocol.  
 It provides simple diagnostic scripts for lawful data exports, allowing auditors to verify whether downstream record handling suffered from weak integrity checks.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
-> - [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
+> - [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ.md)  
 
 🏮 Return to [Fork Behaviour Containment](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-09_  
+_Last updated: 2025-10-27_  
