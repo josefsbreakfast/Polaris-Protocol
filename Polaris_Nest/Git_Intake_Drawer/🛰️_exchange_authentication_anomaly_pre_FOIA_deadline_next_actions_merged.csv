@@ -1,0 +1,8 @@
+Action,Purpose,Evidence to Capture,Responsible
+1. Export Entra ID sign-in logs,"Verify exact timestamps, IPs, and user agents for failed attempts.",CSV export from Entra → Monitoring → Sign-in Logs (last 14 days).,Researcher (request from university IT if access restricted).
+2. Cross-reference event IDs,Match Entra ID event IDs to device timestamps to confirm correlation.,Device event viewer logs + Entra ID CSV export.,Researcher / Technical Analyst.
+3. Notify Data Protection Officer,Record potential security incident under UK GDPR Articles 33–34.,Summary report referencing this log + timestamps of anomaly.,University DPO / Researcher.
+4. Note FOIA/SAR timelines,Maintain chronological table linking requests to authentication anomaly dates.,Table or chart correlating submission/response timeline.,Researcher.
+5. Retain export metadata,Store export checksum and file hash for evidence integrity.,SHA-256 checksum of CSV export + timestamped hash file.,Researcher.
+6. Assess pattern recurrence,Schedule follow-up review at T‑7 days to determine if failures persist.,Add reminder in Field Logs index or calendar.,Researcher.
+7. Document ongoing anomalies,Maintain forensic continuity if further sign-in failures appear.,Append entries to Field Log daily if anomalies persist.,Researcher.
