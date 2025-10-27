@@ -1,6 +1,6 @@
 # 🌒 Waiting Is Not a Rescue  
-**First created:** 2025-08-06 | **Last updated:** 2025-10-05  
-*Rejecting the myth of rescue — waiting as weaponised stillness*  
+**First created:** 2025-08-06 | **Last updated:** 2025-10-27  
+*Rejecting the myth of rescue — waiting as weaponised stillness.*  
 
 ---
 
@@ -79,15 +79,16 @@ waiting, rescue myth, induced helplessness, psychological containment, moral par
 
 ## 🏮 Footer  
 
-*Waiting Is Not a Rescue* is a living node of the Polaris Protocol.  
+*🌒 Waiting Is Not a Rescue* is a living node of the Polaris Protocol.  
 It reframes waiting as a containment mechanism — the soft script that teaches survivors to accept delay as care.  
 Rescue is not coming; movement is the counterspell.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
 > - [🌑 Induced Futility](./🌑_induced_futility.md) — *hopelessness as containment logic*  
-> - [Survivor Tools → Counter-Nudges](../../../Disruption_Kit/Survivor_Tools/README.md) — *action-first strategies*  
+> - [🧨 Counter-Nudges](../../../Disruption_Kit/Survivor_Tools/README.md) — *action-first strategies*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
