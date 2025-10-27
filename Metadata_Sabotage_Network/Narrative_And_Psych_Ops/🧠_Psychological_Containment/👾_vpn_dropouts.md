@@ -1,6 +1,6 @@
 # 👾 VPN Dropouts  
 **First created:** 2025-10-04 | **Last updated:** 2025-10-27  
-*Intermittent VPN disconnections as an induced-futility tactic*
+*Intermittent VPN disconnections as an induced-futility tactic.*
 
 ---
 
