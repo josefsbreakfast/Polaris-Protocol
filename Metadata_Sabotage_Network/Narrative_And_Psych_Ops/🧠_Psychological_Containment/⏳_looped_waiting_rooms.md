@@ -1,6 +1,6 @@
 # ⏳ Looped Waiting Rooms  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Bureaucratic/procedural limbos where nothing concludes; endless 'pending' status used as containment*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Bureaucratic/procedural limbos where nothing concludes; endless 'pending' status used as containment.*  
 
 ---
 
@@ -54,8 +54,8 @@ It documents how “pending” statuses and endless procedural limbos function a
 > 📡 Cross-references:
 > 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
-> - [Containment Scripts](../../../Disruption_Kit/Containment_Scripts/) — *external suppression logs*  
+> - [🧨 Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
