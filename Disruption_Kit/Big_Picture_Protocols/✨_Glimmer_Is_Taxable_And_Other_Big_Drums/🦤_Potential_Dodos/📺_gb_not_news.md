@@ -90,5 +90,14 @@ proof that in post-truth Britain, even compliance can be performative art.
 > - [🦤 Potential Dodos README](./README.md)  
 > - [🕊️ Gustav and the Network of Impossible Messengers](../🕊️_gustav_and_the_network_of_impossible_messengers.md)
 
+---
+
+### ⚖️ Satirical Protection Statement  
+This node is **satirical political commentary** and forms part of an ongoing research and artistic project (Polaris Protocol).  
+It is covered by *freedom of expression* protections under **Article 10 of the European Convention on Human Rights**,  
+as enacted by the **Human Rights Act 1998**, and by **fair-dealing for criticism, review and quotation**  
+under the **Copyright, Designs and Patents Act 1988 s.30**.  
+It makes no factual allegations and should be read as critical, humorous, and analytic expression.
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-10-27_
