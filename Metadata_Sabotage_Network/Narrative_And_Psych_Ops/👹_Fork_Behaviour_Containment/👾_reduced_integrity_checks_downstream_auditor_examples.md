@@ -13,7 +13,7 @@ It provides *auditor-friendly code examples* to quickly surface anomalies in law
 ---
 
 A **toy dataset** is provided alongside this file:  
-- [toy_case_history.csv](./👾_toy_case_history.csv)  
+- [👾_toy_case_history.csv](./👾_toy_case_history.csv)  
 Auditors can use this to run the snippets immediately without needing live case data.  
 
 ---
