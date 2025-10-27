@@ -1,3 +1,4 @@
+
 # 🇬🇧 UK Entrenchment Early‑Warning Risk Matrix (2025‑Q4)
 
 |   No. | Indicator                                 |   Probability | Severity    | Overall Risk   | Commentary                                                                                                             |
