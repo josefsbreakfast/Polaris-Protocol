@@ -62,7 +62,7 @@ It documents how empathy and responsiveness are reframed as liability — a tact
 > 📡 Cross-references:
 > 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
-> - [👅 Voice Disruption Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *undermining speech*  
+> - [👅 Voice Disruption & Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *undermining speech*  
 > - [🫂 Intimacy Gatekeeping](./🫂_intimacy_gatekeeping.md) — *isolation and rationed closeness*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
