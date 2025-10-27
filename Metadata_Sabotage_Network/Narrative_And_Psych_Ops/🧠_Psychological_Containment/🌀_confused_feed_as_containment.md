@@ -19,21 +19,21 @@ This is not random noise. It is **containment by disorientation** — a feed des
 
 ## 🌀 Three Modes of Confusion  
 
-### 1️⃣ Confusion by Ambiguity  
+### 😶‍🌫️ Confusion by Ambiguity  
 *Not enough information → confusion emerges as a side effect*  
 - **Method**: withholding details, hedging, non-confirmation.  
 - **Mask**: presented as bureaucracy, process, or ethics (“we can’t disclose that”).  
 - **Impact**: survivor burns energy filling in blanks, self-doubt rises.  
 - **Control logic**: maintains plausible deniability — “we didn’t lie, we just didn’t clarify.”  
 
-### 2️⃣ Seeding — Broad  
+### 🎋 Seeding — Broad  
 *Deliberately injected noise → confusion is the direct goal*  
 - **Method**: rumours, cryptic drops, implausible but emotionally charged hints.  
 - **Mask**: framed as “inside info,” “intuition,” or pseudo-guidance.  
 - **Impact**: paranoia and doubt spread, often targeting trust networks (“X is duplicitous”).  
 - **Control logic**: isolates the survivor, corrodes relationships, forces rumination with no resolution.  
 
-### 3️⃣ Seeding — Precision-Tailored  
+### 🌱 Seeding — Precision-Tailored  
 *Observed life → confusion scripted to mirror your stakes*  
 - **Method**: content or hints that are *plausibly close* to your actual relationships, routines or vulnerabilities.  
 - **Bundled tactics**: rarely used alone — often combined with isolation pressure (“don’t confer”), smear/mimic theatre, or hope withholding.  
