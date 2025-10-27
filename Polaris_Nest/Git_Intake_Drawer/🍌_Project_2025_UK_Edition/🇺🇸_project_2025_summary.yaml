@@ -1,0 +1,74 @@
+title: "🇺🇸 Project 2025 — Mandate for Leadership (Summary Overview)"
+first_created: 2025-10-27
+last_updated: 2025-10-27
+orientation: "Condensed overview of the Heritage Foundation's Project 2025 'Mandate for Leadership' policy blueprint"
+stardust_tags:
+  - US governance
+  - transition blueprint
+  - administrative state
+  - executive power
+  - policy playbook
+  - conservative movement
+  - institutional redesign
+  - state restructuring
+  - oversight reduction
+  - federal civil service
+
+clusters:
+  - Executive & Agency Reform
+  - Personnel & Civil Service
+  - Social & Economic Policy
+  - Regulatory & Administrative State
+  - Education, Family, & Culture
+  - Immigration & Border
+  - National Security & Foreign Policy
+
+sections:
+
+  Executive_and_Agency_Reform:
+    - Restructure or eliminate key federal departments and agencies (e.g., Department of Education); transfer functions to states or other entities.
+    - Promote a "unitary executive" model where all agencies and employees fall under direct presidential control, reducing independent agency autonomy (FTC, FBI, etc.).
+    - Implement a “Day One / First 100–180 days” rapid-transition playbook to pre-draft executive orders, staffing, and structural changes.
+
+  Personnel_and_Civil_Service:
+    - Build a pre-vetted conservative personnel database to replace or remove career civil service staff.
+    - Expand political appointments and roll back merit-based job protections to ensure loyalty to presidential directives.
+    - Redefine the federal workforce as an explicitly ideological apparatus rather than a neutral bureaucracy.
+
+  Social_and_Economic_Policy:
+    - Restructure entitlement programs (Social Security, Medicare, Medicaid) and pursue market-based or voucher alternatives.
+    - Reduce or eliminate labour protections and weaken unions, particularly in the public sector.
+    - Cut back the social safety net: food assistance, housing, and welfare programs shifted to states or privatized alternatives.
+
+  Regulatory_and_Administrative_State:
+    - “Deconstruct” the administrative state by merging or eliminating regulatory agencies and reducing rule-making powers.
+    - Dismantle or restrict federal diversity, equity, and inclusion (DEI) programs; limit demographic data collection and civil-rights enforcement.
+    - Roll back environmental and climate-change regulations in favour of fossil fuel expansion and deregulated energy markets.
+
+  Education_Family_and_Culture:
+    - Reduce or dissolve federal oversight of education; promote parental-rights frameworks and school-choice voucher systems.
+    - Frame “family” and “faith” as foundational social institutions — emphasize traditional Christian values and moral education.
+    - Restrict federal enforcement of civil-rights protections in schools, especially on gender and sexuality.
+    - Advocate for tighter abortion and contraceptive regulations at the federal level.
+
+  Immigration_and_Border:
+    - Restructure or abolish the Department of Homeland Security (DHS) and consolidate CBP/ICE under streamlined command.
+    - Expand deportation and detention capacity; impose higher asylum and visa fees.
+    - Restrict refugee admissions and tighten border militarization, framed as “national sovereignty restoration.”
+
+  National_Security_and_Foreign_Policy:
+    - Prioritize “America First” sovereignty, reduce multilateral and climate-linked security commitments.
+    - Expand military and nuclear modernization budgets; increase domestic production capacity for defense industries.
+    - Restrict Chinese tech, academic, and investment presence in U.S. institutions.
+    - Align foreign policy with ideological allies, reduce engagement with international law bodies and human-rights mechanisms.
+
+footer:
+  purpose: >
+    This YAML summary condenses the key planks of Project 2025’s “Mandate for Leadership” into structured categories for cross-mapping in Polaris.
+  cross_references:
+    - "../🌀_System_Governance/👑_Ownership_Control/"
+    - "../🌀_System_Governance/💫_Containment_Logic/"
+    - "../🦕_Elder_Influencers/📜_Statutes/"
+    - "../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/"
+  sovereignty_line: "Survivor authorship is sovereign. Containment is never neutral."
+  last_verified: 2025-10-27
