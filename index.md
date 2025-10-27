@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 14:47:20 UTC_
+_Generated on 2025-10-27 14:54:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1588,6 +1588,7 @@ _Generated on 2025-10-27 14:47:20 UTC_
     - [`🐣_canaries_and_cassandras.md`](Polaris_Nest/Git_Intake_Drawer/🐣_canaries_and_cassandras.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👾_coercing_silence.md`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence.md)
+    - [`👾_coercing_silence_example.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence_example.PNG)
     - [`👾_coercing_silence_example.png`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence_example.png)
     - [`👾_lo_the_field_upon_which_i_grow_my_fucks.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_lo_the_field_upon_which_i_grow_my_fucks.PNG)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Polaris_Nest/Git_Intake_Drawer/👾_oh_nottingham_what_have_you_done.md.jpg)
