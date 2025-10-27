@@ -1,6 +1,6 @@
 # 🕯️ Hope Withholding  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Rationing progress signals; stretching despair by promising light but never delivering*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Rationing progress signals; stretching despair by promising light but never delivering.*  
 
 ---
 
@@ -68,7 +68,7 @@ hope withholding, rationed progress, psychological containment, despair conditio
 
 ## 🏮 Footer  
 
-*Hope Withholding* is a living node of the Polaris Protocol.  
+*🕯️ Hope Withholding* is a living node of the Polaris Protocol.  
 It documents how institutions and systems ration progress or relief to train survivors into despair, converting optimism into self-policing.  
 
 > 📡 Cross-references:  
@@ -79,4 +79,4 @@ It documents how institutions and systems ration progress or relief to train sur
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
