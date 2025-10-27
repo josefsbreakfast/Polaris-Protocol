@@ -1,5 +1,5 @@
 # 🪰 Digital DEET — Algorithmic Invasiveness and Collateral Hormones  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
 *When behavioural repellents become endocrine pesticides.*
 
 ---
@@ -110,10 +110,7 @@ digital deet, algorithmic invasiveness, endocrine disruption, hormonal biodivers
 *🪰 Digital DEET — Algorithmic Invasiveness and Collateral Hormones* is a living node of the Polaris Protocol.  
 It examines how well-intentioned algorithmic “protections” mirror the ecological mistakes of chemical repellents, producing endocrine side-effects across populations.  
 
-> 📡 Cross-references:  
-> - [🧬 Algorithmic Endocrinology](./README.md) — cluster overview  
-> - [🌿 Algorithmic Ecology — Precision Without Context](./🌿_algorithmic_ecology_precision_without_context.md) — ecological framework  
-> - [🧭 Governance and Oversight in Algorithmic Health](./🧭_governance_and_oversight_in_algorithmic_health.md) — policy implications  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
