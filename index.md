@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 17:16:54 UTC_
+_Generated on 2025-10-27 17:18:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -789,6 +789,7 @@ _Generated on 2025-10-27 17:16:54 UTC_
         - [`💣_the_precision_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/💣_the_precision_illusion.md)
         - [`📚_survey_of_current_literature.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/📚_survey_of_current_literature.md)
         - [`🚀_algorithmic_weapons_treaties.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🚀_algorithmic_weapons_treaties.md)
+        - [`🚀_mass_biochemical_engineering.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🚀_mass_biochemical_engineering.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
@@ -1547,7 +1548,6 @@ _Generated on 2025-10-27 17:16:54 UTC_
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/README.md)
       - [`🔮_astrology_projected.md`](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/🔮_astrology_projected.md)
     - [**🧬_Algorithmic_Endocrinology/**](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/)
-      - [`🚀_mass_biochemical_engineering.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🚀_mass_biochemical_engineering.md)
       - [`🧩_ecological_ethics_of_algorithmic_design.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧩_ecological_ethics_of_algorithmic_design.md)
       - [`🧭_governance_and_oversight_in_algorithmic_health.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md)
       - [`🪰_digital_deet_algorithmic_invasiveness.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🪰_digital_deet_algorithmic_invasiveness.md)
