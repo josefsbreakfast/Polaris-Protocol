@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 21:44:07 UTC_
+_Generated on 2025-10-27 21:44:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -30,6 +30,7 @@ _Generated on 2025-10-27 21:44:07 UTC_
           - [`🇬🇧_uk_democratic_safeguards_patch_plan.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_democratic_safeguards_patch_plan.md)
           - [`🇬🇧_uk_democratic_safeguards_patch_plan.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_democratic_safeguards_patch_plan.yaml)
           - [`🇬🇧_uk_entrenchment_risk_matrix.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_risk_matrix.md)
+          - [`🇬🇧_uk_entrenchment_risk_matrix.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_risk_matrix.yaml)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/README.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md)
       - [`⚖️_two_way_seal.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md)
@@ -1554,7 +1555,6 @@ _Generated on 2025-10-27 21:44:07 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🍌_Project_2025_UK_Edition/**](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/)
-      - [`uk_entrenchment_risk_matrix.yaml`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/uk_entrenchment_risk_matrix.yaml)
       - [`uk_entrenchment_watchlist.yaml`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/uk_entrenchment_watchlist.yaml)
       - [`🇺🇸_project_2025_summary.yaml`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/🇺🇸_project_2025_summary.yaml)
       - [`🇺🇸_project_esther_summary.yaml`](Polaris_Nest/Git_Intake_Drawer/🍌_Project_2025_UK_Edition/🇺🇸_project_esther_summary.yaml)
