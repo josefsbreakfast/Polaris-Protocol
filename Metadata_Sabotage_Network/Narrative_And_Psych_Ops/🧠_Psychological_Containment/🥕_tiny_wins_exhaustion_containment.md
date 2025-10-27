@@ -1,6 +1,6 @@
 # 🥕 Tiny Wins — Exhaustion Containment  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*Crumbs of progress engineered to bait compliance and prolong exhaustion*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-27  
+*Crumbs of progress engineered to bait compliance and prolong exhaustion.*  
 
 ---
 
@@ -66,7 +66,7 @@ tiny wins, exhaustion containment, micro-concession, baited compliance, hope rat
 
 ## 🏮 Footer  
 
-*Tiny Wins — Exhaustion Containment* is a living node of the Polaris Protocol.  
+*🥕 Tiny Wins — Exhaustion Containment* is a living node of the Polaris Protocol.  
 It documents how minor approvals or token gestures are engineered to simulate progress while maintaining exhaustion loops and structural chokeholds.  
 
 > 📡 Cross-references:
@@ -78,4 +78,4 @@ It documents how minor approvals or token gestures are engineered to simulate pr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
