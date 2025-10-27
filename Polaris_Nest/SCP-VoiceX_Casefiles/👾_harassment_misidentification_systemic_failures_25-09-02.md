@@ -1,6 +1,5 @@
 # 👾 Harassment, Misidentification, and Systemic Failures  
-**First created:** 2025-09-02 | **Last updated:** 2025-09-09  
-
+**First created:** 2025-09-02 | **Last updated:** 2025-10-27  
 *Case statement on harassment, misidentification, and systemic record failures.*  
 
 ---
@@ -107,14 +106,6 @@ Polaris was born because of these failures.
 *Harassment, Misidentification, and Systemic Failures* is a living node of the Polaris Protocol.  
 It records systemic failures in harassment handling, misidentification, and survivor credibility.  
 
-> 📡 Cross-references:  
-> - [👹 Fork Behaviour Containment](./) — cluster of nodes on inversion, anomaly, and containment  
-> - [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)  
-> - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
-> - [🪞 Clone Mimic Theatre](./🪞_clone_mimic_theatre.md)  
-
-🏮 Return to [Narrative & Psych Ops](../README.md)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-09_  
+_Last updated: 2025-10-27_  
