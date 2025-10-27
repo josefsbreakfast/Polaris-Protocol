@@ -1,5 +1,5 @@
 # 🧭 Governance and Oversight in Algorithmic Health  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
 *Mapping the regulatory vacuum where algorithms meet the human body.*
 
 ---
@@ -106,10 +106,7 @@ algorithmic governance, endocrine oversight, digital health regulation, MHRA, IC
 *🧭 Governance and Oversight in Algorithmic Health* is a living node of the Polaris Protocol.  
 It maps the current regulatory vacuum and outlines a framework for governing algorithmic systems as physiological actors rather than purely digital services.  
 
-> 📡 Cross-references:  
-> - [🧬 Algorithmic Endocrinology](./README.md) — cluster overview  
-> - [🪰 Digital DEET — Algorithmic Invasiveness and Collateral Hormones](./🪰_digital_deet_algorithmic_invasiveness.md) — environmental analogy  
-> - [🧩 Ecological Ethics of Algorithmic Design](./🧩_ecological_ethics_of_algorithmic_design.md) — forward-looking ethics  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
