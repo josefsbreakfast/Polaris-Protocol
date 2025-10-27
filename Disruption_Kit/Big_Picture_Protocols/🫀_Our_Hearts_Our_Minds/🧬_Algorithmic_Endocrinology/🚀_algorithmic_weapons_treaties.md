@@ -1,6 +1,6 @@
 # 🚀 Algorithmic Weapons Treaties — Toward Global Hormonal Governance  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
-*Why algorithmic ecosystems demand the same diplomatic caution as nuclear, chemical, and biological arms.*
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
+*Why algorithmic ecosystems demand the same diplomatic caution as nuclear, chemical, and biological arms.*  
 
 ---
 
@@ -120,11 +120,7 @@ algorithmic weapons, global governance, endocrine sovereignty, biochemical integ
 *🚀 Algorithmic Weapons Treaties — Toward Global Hormonal Governance* is a living node of the Polaris Protocol.  
 It extends *Mass Biochemical Engineering* into the geopolitical realm, proposing treaty-level mechanisms for regulating algorithmic systems as potential biochemical weapons.  
 
-> 📡 Cross-references:  
-> – [🚀 Mass Biochemical Engineering](./🚀_mass_biochemical_engineering.md) — strategic overview  
-> – [🧬 Algorithmic Endocrinology](../🧬_Algorithmic_Endocrinology/README.md) — physiological foundation  
-> – [🧩 Ecological Ethics of Algorithmic Design](../🧬_Algorithmic_Endocrinology/🧩_ecological_ethics_of_algorithmic_design.md) — ethical baseline  
-> – [🦕 Elder Influencers / 🕸️ World Webs](../../🦕_Elder_Influencers/🕸️_World_Webs/README.md) — international entanglements  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
