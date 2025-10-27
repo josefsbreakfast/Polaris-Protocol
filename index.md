@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 17:18:02 UTC_
+_Generated on 2025-10-27 17:19:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -785,6 +785,7 @@ _Generated on 2025-10-27 17:18:02 UTC_
       - [**🧬_Algorithmic_Endocrinology/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/README.md)
         - [`🌿_algorithmic_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_algorithmic_ecology.md)
+        - [`🌿_ecological_ethics_of_algorithmic_design.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_ecological_ethics_of_algorithmic_design.md)
         - [`🍬_algorithmic_endocrine_axis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🍬_algorithmic_endocrine_axis.md)
         - [`💣_the_precision_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/💣_the_precision_illusion.md)
         - [`📚_survey_of_current_literature.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/📚_survey_of_current_literature.md)
@@ -1548,7 +1549,6 @@ _Generated on 2025-10-27 17:18:02 UTC_
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/README.md)
       - [`🔮_astrology_projected.md`](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/🔮_astrology_projected.md)
     - [**🧬_Algorithmic_Endocrinology/**](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/)
-      - [`🧩_ecological_ethics_of_algorithmic_design.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧩_ecological_ethics_of_algorithmic_design.md)
       - [`🧭_governance_and_oversight_in_algorithmic_health.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md)
       - [`🪰_digital_deet_algorithmic_invasiveness.md`](Polaris_Nest/Git_Intake_Drawer/🧬_Algorithmic_Endocrinology/🪰_digital_deet_algorithmic_invasiveness.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
