@@ -1,5 +1,5 @@
 # 🍬 Algorithmic Endocrine Axis  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
 *How engagement design maps onto the body’s hormonal control loops.*
 
 ---
@@ -131,10 +131,7 @@ algorithmic endocrinology, HPA axis, dopamine, cortisol, leptin, insulin, ghreli
 *🍬 Algorithmic Endocrine Axis* is a living node of the Polaris Protocol.  
 It documents the biochemical mechanisms through which algorithms influence metabolism, appetite, and mood.  
 
-> 📡 Cross-references:  
-> - [🧬 Algorithmic Endocrinology](./README.md) — cluster overview  
-> - [🌿 Algorithmic Ecology — Precision Without Context](./🌿_algorithmic_ecology_precision_without_context.md) — ecological analogies  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/) — behavioural governance layer  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-26_
+_Last updated: 2025-10-27_
