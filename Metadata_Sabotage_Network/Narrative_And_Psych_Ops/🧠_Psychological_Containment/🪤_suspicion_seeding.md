@@ -1,6 +1,6 @@
 # 🪤 Suspicion Seeding  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Low-level doubts planted to corrode trust in allies and witnesses*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Low-level doubts planted to corrode trust in allies and witnesses.*  
 
 ---
 
@@ -68,4 +68,4 @@ It documents how low-level doubts are planted to corrode trust in allies and wit
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
