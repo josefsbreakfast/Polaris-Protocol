@@ -1,5 +1,5 @@
 # 🚀 Mass Biochemical Engineering — The New Weapon of Choice  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
 *How affective algorithms became the most efficient system ever built for altering human chemistry at scale.*
 
 ---
@@ -114,10 +114,7 @@ mass biochemical engineering, algorithmic power, dopamine, cortisol, soft warfar
 *🚀 Mass Biochemical Engineering — The New Weapon of Choice* is a living node of the Polaris Protocol.  
 It extends *Algorithmic Endocrinology* into political and strategic analysis, describing algorithmic engagement as a form of mass-effect biochemical engineering and arguing for proactive ecosystem care.  
 
-> 📡 Cross-references:  
-> – [🧬 Algorithmic Endocrinology](../🧬_Algorithmic_Endocrinology/README.md) — physiological foundation  
-> – [🚀 Algorithmic Weapons Treaties](./🚀_algorithmic_weapons_treaties.md) — global governance continuation  
-> – [🧭 Governance and Oversight in Algorithmic Health](../🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md) — policy instruments  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
