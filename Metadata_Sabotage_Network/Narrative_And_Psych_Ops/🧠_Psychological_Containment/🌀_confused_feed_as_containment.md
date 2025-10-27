@@ -1,6 +1,6 @@
 # 🌀 Confused Feed as Containment  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*How incoherence and scrambled answers function as systemic suppression*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-27  
+*How incoherence and scrambled answers function as systemic suppression.*  
 
 ---
 
@@ -114,15 +114,16 @@ confusion tactics, ambiguity, disinformation seeding, precision targeting, psych
 
 ## 🏮 Footer  
 
-*Confused Feed as Containment* is a living node of the Polaris Protocol.  
+*🌀 Confused Feed as Containment* is a living node of the Polaris Protocol.  
 It frames incoherence not as failure, but as a deliberate tactic of suppression — sometimes by withholding, sometimes by broad seeding, sometimes by precision-tailored manipulation drawing on intimate data.  
 Because the human nervous system cannot indefinitely process incongruent stimuli without harm, such tactics are not trivial: they fall within the recognised domains of psychological abuse and, at scale or over time, psychological torture.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🌀 Ambiguity as Containment] *TBC* — *vagueness as control loop*  
-> - [😴 Cognitive Load as Infrastructure](😴_cognitive_load_as_infrastructure.md) — *exhaustion mechanics*  
-> - [🕯️ Hope Withholding](🕯️_hope_withholding.md) — *emotional throttling script*  
+> - [😴 Cognitive Load as Infrastructure](./😴_cognitive_load_as_infrastructure.md) — *exhaustion mechanics*  
+> - [🕯️ Hope Withholding](./🕯️_hope_withholding.md) — *emotional throttling script*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
