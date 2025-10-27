@@ -1,5 +1,5 @@
 # 🧬 Algorithmic Endocrinology  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
 *How algorithms rewrite human hormonal balance and metabolic homeostasis.*
 
 ---
@@ -114,11 +114,8 @@ algorithmic endocrinology, digital health, dopamine, cortisol, leptin, precision
 *🧬 Algorithmic Endocrinology* is a living node of the Polaris Protocol.  
 It bridges human physiology and algorithmic design to show how digital systems reshape the body’s chemistry and collective health.  
 
-> 📡 Cross-references:  
-> - [🍬 Algorithmic Endocrine Axis](./🍬_algorithmic_endocrine_axis.md) — physiological mechanisms  
-> - [🌿 Algorithmic Ecology — Precision Without Context](./🌿_algorithmic_ecology_precision_without_context.md) — systemic analogies and ecological ethics  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/) — behavioural governance layer  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
