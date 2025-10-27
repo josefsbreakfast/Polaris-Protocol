@@ -177,7 +177,51 @@ Voice cloning isn’t merely a technical fraud; it’s an assault on the deep gr
 - **Ethical Model Governance:** enforcing non-consensual data bans with independent audits.  
 - **Analogue Revival:** renewed value in non-digital testimony—handwritten notes, live speech, in-person witnessing.  
 
-The challenge ahead is not to restore trust in machines, but to **re-humanise authenticity**—to remember that belief once travelled by sound, not signature.
+The challenge ahead is not to restore trust in machines, but to **re-humanise authenticity**—to remember that belief once travelled by sound, not signature.  
+
+---
+
+## 📡 Voice Theft Feedback Loop  
+
+```mermaid
+flowchart LR
+  A[🎙️ Original Voice / Lived Expression]:::origin --> B[📥 Data Capture & Scraping]:::capture
+  B --> C[🧪 Model Training & Synthetic Generation]:::model
+  C --> D[📡 Circulation & Misattribution]:::spread
+  D --> E[🧬 Clone Drift & Identity Erosion]:::drift
+  E --> F[🪞 Reinjection into Training Corpus]:::reinject
+  F --> B
+
+  %% annotations
+  A -->|unprotected| B
+  B -->|consent theatre| C
+  C -->|derivative reuse| D
+  D -->|loss of trust| E
+  E -->|data harvesting from “examples”| F
+  F -->|loop closes, distortion deepens| B
+
+  %% styling
+  classDef origin fill:#d9ead3,stroke:#274e13,stroke-width:1px,color:#000;
+  classDef capture fill:#fff2cc,stroke:#a67c00,stroke-width:1px,color:#000;
+  classDef model fill:#ddebf7,stroke:#1f4e78,stroke-width:1px,color:#000;
+  classDef spread fill:#f4cccc,stroke:#990000,stroke-width:1px,color:#000;
+  classDef drift fill:#ead1dc,stroke:#741b47,stroke-width:1px,color:#000;
+  classDef reinject fill:#e0e0e0,stroke:#333,stroke-width:1px,color:#000;
+```
+
+### 🔄 Loop Summary
+
+- 🎙️ Original Voice / Lived Expression — authentic sound and intention.
+- 📥 Data Capture & Scraping — extraction via recordings, apps, or uploads.
+- 🧪 Model Training & Synthetic Generation — reproduction without consent.
+- 📡 Circulation & Misattribution — deepfakes spread, credibility erodes.
+- 🧬 Clone Drift & Identity Erosion — trust in the original voice collapses.
+- 🪞 Reinjection into Training Corpus — fake data becomes new “truth,” amplifying future distortions.
+
+In the *It Wasn’t Me Economy*, disbelief itself becomes an industry.  
+Every forged or cloned voice re-enters the data stream as if it were evidence, training models to mistake imitation for origin.  
+The loop rewards uncertainty: the more the system learns from fakes, the less any future truth can sound real.  
+Discrediting is no longer performed by a censor but by the algorithm’s appetite for noise.
 
 ---
 
