@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Embedded Observers  
-**First created:** 2025-08-06 | **Last updated:** 2025-10-05  
-*Individuals or systems positioned within proximity — not to support, but to watch*  
+**First created:** 2025-08-06 | **Last updated:** 2025-10-27  
+*Individuals or systems positioned within proximity — not to support, but to watch.*  
 
 ---
 
@@ -87,7 +87,7 @@ embedded observers, surveillance proximity, handler mimicry, soft control, psych
 
 ## 🏮 Footer  
 
-*Embedded Observers* is a living node of the Polaris Protocol.  
+*👁️‍🗨️ Embedded Observers* is a living node of the Polaris Protocol.  
 It names the presence of observers embedded within a survivor’s environment who log but do not intervene — turning proximity into a containment tool.  
 
 > 📡 Cross-references:
@@ -98,4 +98,4 @@ It names the presence of observers embedded within a survivor’s environment wh
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
