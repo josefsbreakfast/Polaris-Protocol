@@ -55,10 +55,10 @@ It situates a working hypothesis on how complaint disappearance, inversion, and 
 
 > 📡 Cross-references:
 > 
-> - [👾 Harassment, Misidentification, and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
-> - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
-> - [👾 Reduced Integrity Checks Downstream — Auditor Examples](./👾_reduced_integrity_checks_downstream_auditor_examples.md)  
-> - [🪞 Clone Mimic Theatre](./🪞_clone_mimic_theatre.md)  
+> - [👾 Harassment, Misidentification, and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md) - *Case statement on harassment, misidentification, and systemic record failures*  
+> - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md) - *Observation node: downstream record handling appears vulnerable once past security validation layer*  
+> - [👾 Reduced Integrity Checks Downstream — Auditor Examples](./👾_reduced_integrity_checks_downstream_auditor_examples.md) - *Illustrative Python snippets for auditors: detecting silent flips, weak integrity checks, and missing audit entries*  
+> - [🪞 Clone Mimic Theatre](./🪞_clone_mimic_theatre.md) - *Identity performance, emotional simulation, and containment by reflection*  
 
 🏮 Return to [Fork Behaviour Containment](./README.md)  
 
