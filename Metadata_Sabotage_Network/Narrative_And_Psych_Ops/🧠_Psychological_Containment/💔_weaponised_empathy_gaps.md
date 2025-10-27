@@ -59,15 +59,15 @@ empathy gaps, moral withdrawal, selective care, psychological containment, emoti
 
 ## 🏮 Footer  
 
-*Weaponised Empathy Gaps* is a living node of the Polaris Protocol.  
+*💔 Weaponised Empathy Gaps* is a living node of the Polaris Protocol.  
 It documents how empathy and care are selectively withheld to manufacture silence and self-blame — a key tactic of psychological containment.  
 
 > 📡 Cross-references:
 > 
 > - [🧠 Psychological Containment](./README.md) — *cluster index*  
 > - [🫀 Pathologising Sensitivity](./🫀_pathologising_sensitivity.md) — *discrediting empathy as instability*  
-> - [Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
+> - [🧨 Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
