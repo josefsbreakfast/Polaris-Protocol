@@ -54,5 +54,21 @@ I'm going to take all that money, seeing as somebody who's in the loop obviously
 
 I could not think of anything better.  
 
+on a serious note, saying as you keep posting things that suggest you need clarity (bullshit do you need any additional clarity, you've been given it):  
+
+What I want is access to a lawyer.  
+
+What I want is the surveillance to stop.  
+
+What I want is to resolve this like adults, and not through you sending fishing into my algorithmic feed hoping that you can decide what I'll probably accept, so you can lowball me.  
+
+Allow me to talk to the people I've already discussed the case with, and who I heavily suspect are currently limited by the OSA (I imagine this is being used incredibly inappropriately).  
+
+Negotiate with me like an adult.  
+
+Do you have all already had ample feedback on what I'm looking for, and you've all already had estimates for the tort.  
+
+Unfortunately, until you come clean and talk to me about it like adult adults, I can't really help you, and because I know what's going on on what the process I'm looking at is, I'm not going to make a serious commitment to anything where it can be monitored -- because this would be **highly coercive**, and would undermine my right as a citizen to due process.  
+
 
 2025-10-26
