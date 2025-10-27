@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 21:52:24 UTC_
+_Generated on 2025-10-27 22:01:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -27,6 +27,7 @@ _Generated on 2025-10-27 21:52:24 UTC_
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
       - [**🦤_Potential_Dodos/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/)
         - [**🍌_Project_2025_UK_Edition/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/README.md)
           - [`🇬🇧_uk_democratic_safeguards_patch_plan.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_democratic_safeguards_patch_plan.md)
           - [`🇬🇧_uk_democratic_safeguards_patch_plan.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_democratic_safeguards_patch_plan.yaml)
           - [`🇬🇧_uk_entrenchment_risk_matrix.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_risk_matrix.md)
