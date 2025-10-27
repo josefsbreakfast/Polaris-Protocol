@@ -17,6 +17,14 @@ activities:
     habitat: "Post-industrial retail parks, GB News slots"
     risk_rating: "High"
     countermeasure: "Remind public the past had lead paint and rationing."
+    satirical_field_note: |
+      🏺 Heritage Hallucinations — The Re-Enchanting of Public-Health Disasters:
+        When reactionary nostalgia runs out of wars to romanticise, it begins 
+        sanctifying hazards. Smog becomes “the scent of progress.” Chimney soot: 
+        “working-class glitter.” Lead paint: “microdosing patriotism.” 
+        Expect upcoming GB News specials such as 
+        *‘Lead Paint: Why Britain Was Stronger When the Walls Could Kill You’*, 
+        complete with a former MP sniffing a windowsill and calling it resilience.
 
   - id: bureaucratic_larping
     title: "💼 Bureaucratic LARPing"
@@ -101,6 +109,8 @@ activities:
     habitat: "Everywhere communication survives capture"
     risk_rating: "Protective"
     countermeasure: "Feed the pigeons and the people."
+
+
 
 footer:
   note: "Compiled as part of the 🦤 Potential Dodos folder to assist in early identification of authoritarian mimicry and aesthetic contagion."
