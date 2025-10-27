@@ -1,6 +1,6 @@
 # 😴 Exhaustion as Containment  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Cycles of disruption — sleep, attention, and cognitive load — that drain capacity to resist*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Cycles of disruption — sleep, attention, and cognitive load — that drain capacity to resist.*  
 
 ---
 
@@ -59,7 +59,7 @@ exhaustion containment, sleep disruption, attention hijacking, burnout systems, 
 
 ## 🏮 Footer  
 
-*Exhaustion as Containment* is a living node of the Polaris Protocol.  
+*😴 Exhaustion as Containment* is a living node of the Polaris Protocol.  
 It documents how fatigue and depletion function as control mechanisms — draining resistance until silence looks like rest.  
 
 > 📡 Cross-references:
@@ -71,4 +71,4 @@ It documents how fatigue and depletion function as control mechanisms — draini
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
