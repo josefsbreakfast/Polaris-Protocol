@@ -1,6 +1,6 @@
 # 🌑 Induced Futility  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*How containment manufactures hopelessness — teaching survivors that no action will ever change the outcome*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*How containment manufactures hopelessness — teaching survivors that no action will ever change the outcome.*  
 
 ---
 
@@ -82,14 +82,15 @@ learned helplessness, induced futility, hopelessness, bureaucratic containment, 
 
 ## 🏮 Footer  
 
-*Induced Futility* is a living node of the Polaris Protocol.  
+*🌑 Induced Futility* is a living node of the Polaris Protocol.  
 It documents how hopelessness is manufactured to hold survivors in place, converting external obstruction into internal paralysis.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
 > - [🌀 Recognition Without Resolution](./🌀_recognition_without_resolution.md) — *partial acknowledgment loops*  
-> - [Survivor Tools → Counter-Nudges](../../../Disruption_Kit/Survivor_Tools/README.md) — *practical strategies for reversal*  
+> - [🧨 Counter-Nudges](../../../Disruption_Kit/Survivor_Tools/README.md) — *practical strategies for reversal*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
