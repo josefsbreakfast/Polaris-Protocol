@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 22:31:40 UTC_
+_Generated on 2025-10-27 22:43:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -604,6 +604,7 @@ _Generated on 2025-10-27 22:31:40 UTC_
         - [`⚔️_war_on_woke_as_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
         - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
         - [`💋_apparatus_as_apprentice.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💋_apparatus_as_apprentice.md)
+        - [`💰_votership_and_viewership.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💰_votership_and_viewership.md)
         - [`💸_donor_networks_alt_right_media_overlap.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💸_donor_networks_alt_right_media_overlap.md)
         - [`💼_lobbying_stakeholder_notes.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💼_lobbying_stakeholder_notes.md)
         - [`📰_dsma_notices_and_atrocity_risk_reporting.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📰_dsma_notices_and_atrocity_risk_reporting.md)
