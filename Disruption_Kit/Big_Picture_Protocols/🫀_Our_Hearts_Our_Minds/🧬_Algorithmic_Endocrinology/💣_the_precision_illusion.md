@@ -1,5 +1,5 @@
 # 💣 The Precision Illusion — From D-Day to Digital Health  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
 *How the myth of accuracy conceals systemic collateral.*
 
 ---
@@ -117,11 +117,7 @@ precision illusion, algorithmic accuracy, D-Day, moral collateral, governance, r
 *💣 The Precision Illusion* is a living node of the Polaris Protocol.  
 It exposes the shared moral geometry between wartime “precision” and contemporary “personalisation,” showing how both normalise collateral harm.  
 
-> 📡 Cross-references:  
-> – [🧬 Algorithmic Endocrinology](./README.md) — cluster overview  
-> – [🍬 Algorithmic Endocrine Axis](./🍬_algorithmic_endocrine_axis.md) — physiological mechanisms  
-> – [🌿 Algorithmic Ecology — Precision Without Context](./🌿_algorithmic_ecology_precision_without_context.md) — ecological analogies  
-> – [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/) — behavioural governance layer  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
