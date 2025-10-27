@@ -1,6 +1,6 @@
 # 🫀 Our Rapes Are Not Their Rationale  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-05  
-*Safeguarding rhetoric weaponised as obedience; anger suppressed, power protected*  
+**First created:** 2025-09-15 | **Last updated:** 2025-10-27  
+*Safeguarding rhetoric weaponised as obedience; anger suppressed, power protected.*  
 
 ---
 
@@ -21,7 +21,7 @@ Anger — especially survivor anger — becomes coded as extremism, while violen
 
 ## 🛰️ Mechanisms  
 
-### 1️⃣ Platform Containment  
+### 🧨 Platform Containment  
 
 > On TikTok, if I search for a song like *Dead Men Don’t Rape*, I am blocked and redirected into a cartoon hug and a helpline number.  
 
@@ -41,7 +41,7 @@ It encodes a narrow, infantilised model of survivorship — acceptable, feminise
 
 ---
 
-### 2️⃣ Gendered Enforcement  
+### 🐝 Gendered Enforcement  
 
 It also binds male survivors: they are only permitted to appear fragile — never angry, never agentic.  
 Yet to appear fragile is to appear “too feminine”; what option do they have but silence?  
@@ -53,7 +53,7 @@ It is soaked in neoconservative and far-right values of “traditional family”
 
 ---
 
-### 3️⃣ Political Co-option  
+### 🫀 Political Co-option  
 
 > I will always explain, though I shouldn’t have to, why I do not trust far-right or nationalist-sympathetic actors with the safeguarding of women and girls.  
 
@@ -110,7 +110,7 @@ safeguarding obedience, pathologised anger, survivor rage, far-right co-option, 
 
 ## 🏮 Footer  
 
-*Our Rapes Are Not Their Rationale* is a living node of the Polaris Protocol.  
+*🫀 Our Rapes Are Not Their Rationale* is a living node of the Polaris Protocol.  
 It documents how “safeguarding” rhetoric is weaponised to suppress survivor anger and enforce obedience.  
 Far-right and nationalist actors use our rapes as rationale for their politics, while perpetuating the very violence they claim to oppose.  
 
