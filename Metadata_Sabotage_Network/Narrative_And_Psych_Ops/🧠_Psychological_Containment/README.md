@@ -10,7 +10,7 @@ Psychological containment is the silent arm of suppression.
 It doesn’t rely on visible barriers or explicit silencing, but on the slow corrosion of confidence, clarity, and connection.  
 Each tactic here demonstrates how **administrative delay**, **cognitive overload**, and **emotional deprivation** function as instruments of governance — teaching exhaustion, not obedience, as the price of survival.  
 
-This cluster intersects directly with [👹 Fork Behaviour Containment](../👹_Fork_Behaviour_Containment/) and [👅 Voice Disruption Discrediting](../👅_Voice_Disruption_Discrediting/), tracing how internalised control replaces overt censorship.  
+This cluster intersects directly with [👹 Fork Behaviour Containment](../👹_Fork_Behaviour_Containment/) and [👅 Voice Disruption & Discrediting](../👅_Voice_Disruption_Discrediting/), tracing how internalised control replaces overt censorship.  
 
 ---
 
