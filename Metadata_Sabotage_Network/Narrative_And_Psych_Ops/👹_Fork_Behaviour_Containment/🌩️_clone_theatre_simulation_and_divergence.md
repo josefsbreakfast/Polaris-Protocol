@@ -60,7 +60,7 @@ It exposes how performative transparency conceals structural divergence, offerin
 
 > 📡 Cross-references:
 > 
-> - [🍴 Clone Mimic Theatre](./🪞_clone_mimic_theatre.md) — *origin framework*  
+> - [🪞 Clone Mimic Theatre](./🪞_clone_mimic_theatre.md) — *origin framework*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
