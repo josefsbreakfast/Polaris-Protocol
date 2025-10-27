@@ -1,6 +1,6 @@
 # 🌫️ Memory Fogging  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Engineering confusion over sequence, timeline, or credibility — undermining narrative control*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Engineering confusion over sequence, timeline, or credibility — undermining narrative control.*  
 
 ---
 
@@ -67,10 +67,11 @@ memory fogging, timeline distortion, credibility erosion, psychological containm
 
 ## 🏮 Footer  
 
-*Memory Fogging* is a living node of the Polaris Protocol.  
+*🌫️ Memory Fogging* is a living node of the Polaris Protocol.  
 It documents how systemic actors manipulate sequence, coherence, and confidence to corrode testimony and self-trust.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 Psychological Containment](./README.md) — *index of inner sabotage tactics*  
 > - [🌀 Confused Feed as Containment](./🌀_confused_feed_as_containment.md) — *incoherence as systemic tactic*  
 > - [🕯️ Hope Withholding](./🕯️_hope_withholding.md) — *emotional suppression overlap*  
@@ -78,4 +79,4 @@ It documents how systemic actors manipulate sequence, coherence, and confidence 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
