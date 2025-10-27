@@ -1,6 +1,6 @@
 # 🚪 Isolation Scripting  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Manufactured solitude — cutting off networks, withholding contact, and staging abandonment*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Manufactured solitude — cutting off networks, withholding contact, and staging abandonment.*  
 
 ---
 
@@ -57,15 +57,16 @@ isolation scripting, manufactured solitude, network sabotage, withheld communica
 
 ## 🏮 Footer  
 
-*Isolation Scripting* is a living node of the Polaris Protocol.  
+*🚪 Isolation Scripting* is a living node of the Polaris Protocol.  
 It documents how isolation is scripted and staged to create artificial solitude — a tactic that turns silence into containment.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧠 Psychological Containment](./README.md) — *cluster index of internal sabotage tactics*  
 > - [🫂 Intimacy Gatekeeping](./🫂_intimacy_gatekeeping.md) — *rationed closeness*  
 > - [💔 Weaponised Empathy Gaps](./💔_weaponised_empathy_gaps.md) — *care withdrawal*  
-> - [Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
+> - [🧨 Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
