@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 14:44:15 UTC_
+_Generated on 2025-10-27 14:47:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1571,7 +1571,7 @@ _Generated on 2025-10-27 14:44:15 UTC_
     - [`🌿_lawful_illegality_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🌿_lawful_illegality_of_care.md)
     - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
     - [`🌿_wild_type_encounters.md`](Polaris_Nest/Git_Intake_Drawer/🌿_wild_type_encounters.md)
-    - [`🍊_the_idea_that_we're_going_to_use_this_in_moj_just_makes_me_laugh.png`](Polaris_Nest/Git_Intake_Drawer/🍊_the_idea_that_we're_going_to_use_this_in_moj_just_makes_me_laugh.png)
+    - [`🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png`](Polaris_Nest/Git_Intake_Drawer/🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
@@ -1588,7 +1588,7 @@ _Generated on 2025-10-27 14:44:15 UTC_
     - [`🐣_canaries_and_cassandras.md`](Polaris_Nest/Git_Intake_Drawer/🐣_canaries_and_cassandras.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👾_coercing_silence.md`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence.md)
-    - [`👾_coercing_silence_example.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence_example.PNG)
+    - [`👾_coercing_silence_example.png`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence_example.png)
     - [`👾_lo_the_field_upon_which_i_grow_my_fucks.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_lo_the_field_upon_which_i_grow_my_fucks.PNG)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Polaris_Nest/Git_Intake_Drawer/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_she_is_strong_but_she_is_really_tired.md`](Polaris_Nest/Git_Intake_Drawer/👾_she_is_strong_but_she_is_really_tired.md)
@@ -1724,6 +1724,7 @@ _Generated on 2025-10-27 14:44:15 UTC_
     - [`🪶_descent_map_template.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_template.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](Polaris_Nest/Git_Intake_Drawer/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
+    - [`🪼_interruption_index_update.png`](Polaris_Nest/Git_Intake_Drawer/🪼_interruption_index_update.png)
     - [`🫧_crying_as_breach_emotional_containment_and_the_professional_body.md`](Polaris_Nest/Git_Intake_Drawer/🫧_crying_as_breach_emotional_containment_and_the_professional_body.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
