@@ -1,4 +1,4 @@
-# 💋 The Gendered Exposure of Voice  
+# 💄 The Gendered Exposure of Voice  
 **First created:** 2025-10-27 | **Last updated:** 2025-10-27  
 *Why feminine affect remains a high-value capture vector in digital economies of attention and harm.*
 
