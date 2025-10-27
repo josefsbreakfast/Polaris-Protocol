@@ -1,4 +1,3 @@
-
 # 🇬🇧 Democratic Safeguards — Immediate Patch Plan
 **First created:** 2025‑10‑27 | **Last updated:** 2025‑10‑27
 
