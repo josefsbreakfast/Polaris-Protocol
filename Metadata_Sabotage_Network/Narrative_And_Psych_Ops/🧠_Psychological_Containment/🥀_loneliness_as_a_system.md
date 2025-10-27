@@ -1,6 +1,6 @@
 # 🥀 Loneliness as a System  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Designing containment around unmet social need, then weaponising the hunger for belonging*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Designing containment around unmet social need, then weaponising the hunger for belonging.*  
 
 ---
 
@@ -60,7 +60,7 @@ loneliness system, structural isolation, social deprivation, engineered disconne
 
 ## 🏮 Footer  
 
-*Loneliness as a System* is a living node of the Polaris Protocol.  
+*🥀 Loneliness as a System* is a living node of the Polaris Protocol.  
 It documents how isolation can be structured as policy and culture, turning the human need for belonging into a containment tool.  
 
 > 📡 Cross-references:
@@ -69,8 +69,8 @@ It documents how isolation can be structured as policy and culture, turning the 
 > - [🫂 Intimacy Gatekeeping](./🫂_intimacy_gatekeeping.md) — *rationed closeness*  
 > - [💔 Weaponised Empathy Gaps](./💔_weaponised_empathy_gaps.md) — *care withdrawal*  
 > - [🧠 Psychological Containment](./README.md) — *cluster index*  
-> - [Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
+> - [🧨 Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *external suppression logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
