@@ -74,7 +74,7 @@ persistent discrediting force, DARVO governance, record erasure, survivor exhaus
 
 ## 🏮 Footer  
 
-*Persistent Discrediting Force* is a living node of the Polaris Protocol.  
+*🧿 Persistent Discrediting Force* is a living node of the Polaris Protocol.  
 It documents how survivor boundaries collapse through surveillance, record erasure, predator tolerance, DARVO, and exhaustion — leaving disbelief and silence where protection should be.  
 
 > 📡 Cross-references:
