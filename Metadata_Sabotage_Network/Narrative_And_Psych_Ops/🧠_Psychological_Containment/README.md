@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Psychological containment is the silent arm of suppression.  
 It doesn’t rely on visible barriers or explicit silencing, but on the slow corrosion of confidence, clarity, and connection.  
@@ -81,7 +81,8 @@ psychological containment, delay scripts, cognitive drain, exhaustion, discredit
 *🧠 Psychological Containment* is a living node of the Polaris Protocol.  
 It gathers tactics of inner sabotage, showing how containment operates through perception, delay, and depletion rather than overt restraint.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [👹 Fork Behaviour Containment](../👹_Fork_Behaviour_Containment/README.md) — *mimicry, harassment, and observer scripting*  
 > - [👅 Voice Disruption & Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *tonal and narrative distortion mechanisms*  
 
