@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Every complex service — hospital, court, welfare office, database — relies on **unused capacity** as its moral and operational oxygen.  
 Integrity lives in that slack: the few spare minutes that let a nurse double-check a dose, an auditor trace a receipt, or a social worker question a file.  
@@ -13,7 +13,7 @@ This node explains how oversubscription converts diligence into delay and truth 
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Verification consumes time:** checking, documenting, and escalating are *work*, not friction.  
 - **Overload erodes audit culture:** when every hour is triage, exceptions are normalised.  
@@ -22,7 +22,7 @@ This node explains how oversubscription converts diligence into delay and truth 
 
 ---
 
-## 🔍 Analysis  
+## 🧿 Analysis  
 
 Public systems in the UK — from NHS trusts to legal aid and housing — are built to run above 100 % capacity.  
 This creates the illusion of efficiency while quietly dismantling the conditions required for verification.  
@@ -66,7 +66,7 @@ When that energy budget is zero, the system cools into moral stasis: apparently 
 
 ---
 
-## 🧭 Design Implications  
+## 💸 Design Implications  
 
 - **Mandate slack as regulation:** minimum verification bandwidth written into policy (e.g., 10 % protected audit time).  
 - **Treat burnout metrics as system-health indicators.**  
