@@ -87,14 +87,15 @@ fork error, replication, diagnostic, hypothesis, containment, audit, propagation
 
 ## 🏮 Footer  
 
-*Hypothesis Cascade — When Fork Errors Replicate Themselves* is a living node of the Polaris Protocol.  
+*🧪 Hypothesis Cascade — When Fork Errors Replicate Themselves* is a living node of the Polaris Protocol.  
 It demonstrates how falsehoods multiply inside containment systems and offers a method for tracing and reversing their spread.  
 
-> 📡 Cross-references:  
-> - [⚠️ Fork Anomaly Hypothesis — X,Y,Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md) — precursor experiment  
-> - [🦩 Fork Audit Protocol — Structured Method for Verification Chains](../Disruption_Kit/Big_Picture_Protocols/🦩_fork_audit_protocol_structured_method_for_verification_chains.md) — procedural framework  
-> - [🧮 Integrity Drift — Gradual Weakening of Verification Layers](../Disruption_Kit/Big_Picture_Protocols/🧮_integrity_drift_gradual_weakening_of_verification_layers.md) — context of decay  
+> 📡 Cross-references:
+> 
+> - [⚠️ Fork Anomaly Hypothesis — X,Y,Z](./⚠️_fork_anomaly_hypothesis_XYZ.md) — *precursor experiment*  
+> - [🦩 Fork Audit Protocol — Structured Method for Verification Chains](../Disruption_Kit/Big_Picture_Protocols/🦩_fork_audit_protocol_verification_chains.md) — *procedural framework*  
+> - [🧮 Integrity Drift — Gradual Weakening of Verification Layers](./🧮_integrity_drift.md) — *context of decay*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-10-27_
