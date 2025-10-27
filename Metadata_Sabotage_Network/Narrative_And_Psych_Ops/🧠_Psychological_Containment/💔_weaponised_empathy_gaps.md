@@ -1,6 +1,6 @@
 # 💔 Weaponised Empathy Gaps  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Creating voids where care should exist; turning solidarity into absence so survivors self-blame*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Creating voids where care should exist; turning solidarity into absence so survivors self-blame.*  
 
 ---
 
