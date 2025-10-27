@@ -1,6 +1,6 @@
 # 🐌 Delays Are Violence  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*Delay is not inefficiency — it is a controlled bleed*  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-27  
+*Delay is not inefficiency — it is a controlled bleed.*  
 
 ---
 
@@ -66,7 +66,7 @@ delay regimes, administrative violence, enforced waiting, psychological containm
 
 ## 🏮 Footer  
 
-*Delays Are Violence* is a living node of the Polaris Protocol.  
+*🐌 Delays Are Violence* is a living node of the Polaris Protocol.  
 It documents how time itself is weaponised through administrative delay, converting waiting into exhaustion and harm.  
 
 > 📡 Cross-references:
@@ -78,4 +78,4 @@ It documents how time itself is weaponised through administrative delay, convert
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
