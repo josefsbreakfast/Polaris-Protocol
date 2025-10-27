@@ -1,0 +1,100 @@
+
+title: "🇬🇧 Democratic Safeguards — Immediate Patch Plan (Reverse‑engineered from Entrenchment Risks)"
+first_created: 2025-10-27
+last_updated: 2025-10-27
+orientation: "Defensive, non‑partisan actions to harden UK institutions against slow entrenchment and capture. Time‑phased plan with owners, artefacts, and success metrics."
+
+time_horizons:
+  three_months:
+    - weak_point: "Local ground control opacity"
+      patch: "Create local scrutiny cells to track council compositions, planning/licensing, and grant T&Cs; publish quarterly briefs."
+      owner: ["Local newsroom/FOI collective", "Civic tech group"]
+      artefacts: ["Ward-level dashboards", "Planning decision logs", "FOI response library"]
+      success_metric: "Dashboards for 25 priority councils live; 2+ corrective actions triggered (e.g., called‑in decisions)."
+
+    - weak_point: "Personnel pipelines (opaque public appointments)"
+      patch: "Standardised FOI + web‑scrape of Public Appointments; map affiliations; flag bypass routes."
+      owner: ["Watchdog NGO", "University governance clinic"]
+      artefacts: ["Appointments dataset (CSV)", "Conflict‑mapping memos"]
+      success_metric: "90% coverage of last 24 months of appointments; 5+ corrections/clarifications issued."
+
+    - weak_point: "Regulatory remit shrinkage via SIs"
+      patch: "Standing ‘SI Watch’ that tracks consultations/drafts; pre‑bakes response templates; rapid briefings for committees."
+      owner: ["Policy lab", "Pro‑bono barristers", "Professional bodies"]
+      artefacts: ["Consultation tracker", "Template submissions", "Committee one‑pagers"]
+      success_metric: "All relevant SIs flagged within 72h; 10+ high‑quality submissions filed."
+
+    - weak_point: "Campus speech chill & disciplinary overreach"
+      patch: "Set up Academic Freedom First‑Aid Clinic (advice line + template letters + JR triage)."
+      owner: ["University legal clinic", "Academic union", "Student union federation"]
+      artefacts: ["Template packs", "Case log", "Rapid counsel rota"]
+      success_metric: "24/7 advice coverage; 20+ cases supported; 3+ policy reversals."
+
+    - weak_point: "Charity/third sector pressure"
+      patch: "Charity Commission decision mirror (open archive); model responses for inquiries; trustee risk brief."
+      owner: ["Charity lawyers network", "Sector umbrella org"]
+      artefacts: ["Inquiry archive", "Model submissions", "Trustee guidance"]
+      success_metric: "Mirror live; 80% of inquiries archived; 10 orgs supported."
+
+  six_months:
+    - weak_point: "Civil‑service impartiality erosion"
+      patch: "Independent Civil Service Impartiality Monitor (CSIM) with whistleblowing safe‑harbour and trend reports."
+      owner: ["Cross‑union coalition (FDA/PCS)", "Retired perm secs advisory board"]
+      artefacts: ["Anonymous portal", "Quarterly impartiality index"]
+      success_metric: "Portal operational; first index published; 3 practice changes adopted."
+
+    - weak_point: "Funding levers as conformity"
+      patch: "Grant & procurement transparency standard (open‑contracting + speech‑neutrality test) adopted by pilot councils/unis."
+      owner: ["Open‑contracting civic tech", "LGA/Universities UK"]
+      artefacts: ["Model clauses", "Open data schema", "Audit checklist"]
+      success_metric: "10 bodies adopt standard; 200+ contracts published with clauses visible."
+
+    - weak_point: "Media/platform jawboning"
+      patch: "Regulatory correspondence register (requests to platforms/broadcasters) with legal basis tagging."
+      owner: ["Media law clinic", "Press freedom NGO"]
+      artefacts: ["Correspondence log", "Legal‑basis taxonomy"]
+      success_metric: "All major comms recorded; 2 policy U‑turns or clarifications secured."
+
+    - weak_point: "Emergency powers normalisation"
+      patch: "Emergency Powers Playbook: criteria, sunset, scrutiny checklists; MPs/AMs/MSPs briefed."
+      owner: ["Constitutional scholars", "Parliamentary research services"]
+      artefacts: ["Playbook PDF", "Briefing seminars"]
+      success_metric: "Cross‑party briefing delivered; 3 committees reference the playbook."
+
+  one_year:
+    - weak_point: "Judicial review & case‑law drift"
+      patch: "Litigation reserve + pro‑bono panel targeting precedent risks (Equality Act scope, protest rights)."
+      owner: ["Strategic litigation fund", "Chambers consortium"]
+      artefacts: ["Case selection matrix", "Evidence lockers", "Expert reports library"]
+      success_metric: "5 strategic cases filed; 2 protective precedents won or hostile ones narrowed."
+
+    - weak_point: "Data deserts & evidence loss"
+      patch: "Open Evidence Lockers (hash‑sealed) for appointments, SIs, campus cases, charity inquiries."
+      owner: ["Civic tech DAO", "Public interest data trusts"]
+      artefacts: ["Locker schemas", "APIs", "Chain‑of‑custody SOPs"]
+      success_metric: "Four lockers live; 1M+ artefacts ingested; external citations in watchdog reports."
+
+    - weak_point: "Local capture ecosystems"
+      patch: "Local Integrity Compacts (ethics + transparency pledges) tied to procurement points."
+      owner: ["Metro mayors/combined authorities", "Civil society consortia"]
+      artefacts: ["Compact text", "Monitoring dashboard"]
+      success_metric: "5 compacts signed; measurable reduction in non‑competitive awards."
+
+  five_years:
+    - weak_point: "Institutional fragility & norms erosion"
+      patch: "Statutory safeguards package: stronger SI scrutiny, appointments transparency law, whistleblower upgrades, duty to archive."
+      owner: ["Cross‑bench peers", "Select committees", "Law Commission"]
+      artefacts: ["Draft bill", "Explanatory notes", "Impact assessment"]
+      success_metric: "At least one safeguard enacted; watchdog powers/independence measurably increased."
+
+    - weak_point: "Civic capacity & public understanding"
+      patch: "Civic Infrastructure Fund for local journalism, FOI support, and university clinics (arms‑length, multi‑year)."
+      owner: ["Arm’s‑length foundation", "Devolved administrations"]
+      artefacts: ["Grant framework", "Evaluation metrics"]
+      success_metric: "100+ outlets/clinics funded; FOI success rates ↑; coverage beyond London ↑."
+
+    - weak_point: "Devolution stress points"
+      patch: "Inter‑parliamentary safeguards forum (UK, Scotland, Wales, NI) focusing on rights/equality baselines and data standards."
+      owner: ["Inter‑parliamentary groups", "Equality & human rights bodies"]
+      artefacts: ["Common standards", "Annual joint review"]
+      success_metric: "Shared baselines adopted; fewer conflicting guidance regimes on rights."
