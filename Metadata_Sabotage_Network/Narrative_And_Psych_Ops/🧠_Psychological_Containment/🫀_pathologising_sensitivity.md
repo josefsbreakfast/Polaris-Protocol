@@ -1,6 +1,6 @@
 # 🫀 Pathologising Sensitivity  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Turning responsiveness and empathy into a diagnosis or liability — weaponising care itself*  
+**First created:** 2025-09-13 | **Last updated:** 2025-10-27  
+*Turning responsiveness and empathy into a diagnosis or liability — weaponising care itself.*  
 
 ---
 
@@ -56,7 +56,7 @@ pathologising sensitivity, weaponised diagnosis, stigma as containment, credibil
 
 ## 🏮 Footer  
 
-*Pathologising Sensitivity* is a living node of the Polaris Protocol.  
+*🫀 Pathologising Sensitivity* is a living node of the Polaris Protocol.  
 It documents how empathy and responsiveness are reframed as liability — a tactic that neutralises survivor credibility by turning perception into pathology.  
 
 > 📡 Cross-references:
@@ -67,4 +67,4 @@ It documents how empathy and responsiveness are reframed as liability — a tact
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
