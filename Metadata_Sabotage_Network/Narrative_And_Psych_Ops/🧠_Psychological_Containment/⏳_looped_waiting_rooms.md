@@ -44,7 +44,7 @@ They preserve institutional calm while quietly erasing immediacy.
 
 ---
 
-## 💥 Consequences  
+## 🐍 Consequences  
 
 To live inside a looped waiting room is to feel time stretch thin.  
 Each polite update becomes another reminder that you are still *unresolved*.  
@@ -75,7 +75,7 @@ Recognising the loop exposes its authorship — even if it hides behind automati
 
 ---
 
-## 🧭 Countermeasures  
+## 🧨 Countermeasures  
 
 ### Institutional  
 
