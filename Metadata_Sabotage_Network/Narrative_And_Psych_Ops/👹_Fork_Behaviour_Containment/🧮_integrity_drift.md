@@ -1,10 +1,10 @@
 # 🧮 Integrity Drift — Gradual Weakening of Verification Layers  
-**First created:** 2025-10-10  |  **Last updated:** 2025-10-16  
+**First created:** 2025-10-10  |  **Last updated:** 2025-10-27  
 *When cross-checks quietly stop working.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Integrity Drift describes the slow institutional slide from *verification* to *assumption*.  
 Audit frameworks initially built for precision adapt to deadlines, staffing cuts, and political optics until “good enough data” becomes policy.  
@@ -14,9 +14,9 @@ This node follows the material, procedural, and moral erosion that turns diligen
 
 ---
 
-## 📑 Key Sections  
+## ✨ Key Sections  
 
-### 1. From Integrity to Expediency  
+### 🕊️ From Integrity to Expediency  
 Verification layers weaken first at the edges — missing sign-offs, skipped peer reviews, untended documentation.  
 Over time, exceptions become workflow.  
 Expediency reframes deviation as optimisation: *“we streamlined the process.”*  
@@ -25,7 +25,7 @@ The system still balances, but the numbers mean less each quarter.
 
 ---
 
-### 2. Checksum Compromise  
+### 👾 Checksum Compromise  
 Digital systems echo the same logic through **tolerance creep**.  
 Checksum mismatches once flagged as critical become *acceptable error rates*; monitoring thresholds widen.  
 Administrators justify this as efficiency: “it’s only metadata drift.”  
@@ -36,7 +36,7 @@ Integrity Drift begins in decimals.
 
 ---
 
-### 3. Soft Audit Culture  
+### 🎁 Soft Audit Culture  
 Auditing shifts from *discipline* to *diplomacy*.  
 Language softens: “review,” “light-touch,” “assurance.”  
 Auditors become facilitators rather than investigators.  
@@ -46,7 +46,7 @@ The ritual persists, the scrutiny dissolves.
 
 ---
 
-### 4. Re-hardening the Verification Chain  
+### 🩻 Re-hardening the Verification Chain  
 Reform requires both technical and ethical hardening:  
 
 1. **Re-zero tolerances** — treat every checksum, timestamp, and sign-off variance as signal, not noise.  
@@ -73,14 +73,15 @@ integrity drift, audit decay, verification erosion, checksum tolerance, policy r
 
 ## 🏮 Footer  
 
-*Integrity Drift — Gradual Weakening of Verification Layers* is a living node of the Polaris Protocol.  
+*🧮 Integrity Drift — Gradual Weakening of Verification Layers* is a living node of the Polaris Protocol.  
 It documents how negligence becomes infrastructure — how tolerance replaces truth, and convenience masquerades as care.  
 
-> 📡 Cross-references:  
-> - [🦩 Fork Audit Protocol — Structured Method for Verification Chains](../Disruption_Kit/Big_Picture_Protocols/🦩_fork_audit_protocol_structured_method_for_verification_chains.md) — method for re-hardening checks  
-> - [👻 Downstream Acceptance — The Psychology of Passing the Fork](../Disruption_Kit/Big_Picture_Protocols/👻_downstream_acceptance_the_psychology_of_passing_the_fork.md) — psychological consequence of drift  
-> - [🧠 Behavioural Forks — When Institutions Develop Split Personas](../Disruption_Kit/Big_Picture_Protocols/🧠_behavioural_forks_when_institutions_develop_split_personas.md) — organisational dissociation  
+> 📡 Cross-references:
+> 
+> - [🦩 Fork Audit Protocol — Structured Method for Verification Chains](./🦩_fork_audit_protocol_verification_chains.md) — *method for re-hardening checks*  
+> - [👻 Downstream Acceptance — The Psychology of Passing the Fork](./👻_the_psychology_of_passing_the_fork.md) — *psychological consequence of drift*  
+> - [🧠 Behavioural Forks — When Institutions Develop Split Personas](./🧠_institutional_split_personas.md) — *organisational dissociation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-10-27_
