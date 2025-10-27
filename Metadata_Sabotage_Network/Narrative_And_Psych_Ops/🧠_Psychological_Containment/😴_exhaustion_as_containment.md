@@ -67,7 +67,7 @@ It documents how fatigue and depletion function as control mechanisms — draini
 > - [🧠 Psychological Containment](./README.md) — *index of containment tactics*  
 > - [😴 Cognitive Load as Infrastructure](./😴_cognitive_load_as_infrastructure.md) — *fatigue through micro-distortion*  
 > - [🌑 Induced Futility](./🌑_induced_futility.md) — *hopelessness as containment endpoint*  
-> - [Disruption Kit → Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *suppression and counter-nudge logs*  
+> - [🧨 Containment Scripts](../../../Disruption_Kit/Containment_Scripts/README.md) — *suppression and counter-nudge logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
