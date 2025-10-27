@@ -56,7 +56,7 @@ It recognises exhaustion as a predictable outcome of structural contradiction an
 
 > 📡 Cross-references:
 > 
-> - [🌩️ Clone Theatre — Simulation as Cover for Divergence](./🌩️_clone_theatre_simulation_and_divergence.md) — *performance of transparency*  
+> - [🌩️ Clone Theatre](./🌩️_clone_theatre_simulation_and_divergence.md) — *performance of transparency*  
 > - [👻 Downstream Acceptance](./👻_the_psychology_of_passing_the_fork.md) — *behavioural aftermath of contradiction*  
 > - [🦩 Fork Audit Protocol](./🦩_fork_audit_protocol_verification_chains.md) — *procedural tools for verification chains*  
 
