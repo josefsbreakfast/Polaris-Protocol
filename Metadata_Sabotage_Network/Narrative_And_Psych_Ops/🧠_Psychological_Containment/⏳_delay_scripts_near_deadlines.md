@@ -223,7 +223,6 @@ It documents how scripted postponement and administrative drift are deployed as 
 > 
 > - [🧠 Psychological Containment](./README.md) — *parent folder*  
 > - [🌀 Confused Feed as Containment](./🌀_confused_feed_as_containment.md) — *incoherence as suppression tactic*  
-> - [🧭 Oversight of Oversight](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *how audits themselves are managed*  
 > - [👁️‍🗨️ Witness Historical Casefiles](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *survivor testimony against delay tactics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
