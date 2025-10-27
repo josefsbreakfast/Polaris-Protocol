@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🪔 Orientation  
 This node honours women and gender-diverse creators who were murdered by men who claimed admiration, ownership, or entitlement.  
 Each name is a data point in the gendered risk architecture of the networked world — proof that *the attention economy has a body count.*
 
@@ -35,7 +35,7 @@ Together, they form a **continuum of erasure** — the silencing of voices that 
 ---
 
 ## 🌌 Constellations  
-💋 🕯️ 🩸 🪄 — gender, memorial, harm, systemic ethics.  
+🪔 💄 🕯️ 🩸 🪄 — gender, memorial, harm, systemic ethics.  
 Linked to **The Gendered Exposure of Voice** and **Ouroborotic Violence**.
 
 ---
