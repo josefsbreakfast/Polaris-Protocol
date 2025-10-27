@@ -1,6 +1,6 @@
 # 🪤 Nuisance-Building Micro-Sabotage  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-05  
-*Intermittent, low-grade workflow failures designed to accumulate friction and demoralise*  
+**First created:** 2025-10-04 | **Last updated:** 2025-10-27  
+*Intermittent, low-grade workflow failures designed to accumulate friction and demoralise.*  
 
 ---
 
@@ -72,10 +72,11 @@ nuisance-building sabotage, friction attack, intermittent failure, CI/CD disrupt
 
 ## 🏮 Footer  
 
-*Nuisance-Building Micro-Sabotage* is a living node of the Polaris Protocol.  
+*🪤 Nuisance-Building Micro-Sabotage* is a living node of the Polaris Protocol.  
 It documents low-grade, deniable workflow disruptions designed to accumulate friction and undermine trust in tools.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🪞 Transparent Interference](./🪞_transparent_interference.md) — *overt manipulation tactics*  
 > - [🎛 Systematic Patterns](../../../🩻_Weirdness_Screening/🎛_Systematic_Patterns/README.md) — *scheduled/synchronised glitches*  
 > - [📉 Suppression Interference Logs](../../Suppression_Layers/📉_Suppression_Interference_Logs/README.md) — *commit and UI sabotage logs*  
@@ -83,4 +84,4 @@ It documents low-grade, deniable workflow disruptions designed to accumulate fri
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-27_
