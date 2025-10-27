@@ -1,10 +1,10 @@
 # ⭕️ Complaint Loop Inversions — Turning Accusation into Defence  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-16  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-27  
 *How reporting systems mirror complaints back at survivors.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 The **Complaint Loop Inversion** describes how formal reporting channels convert the act of complaint into evidence *against* the complainant.  
 It is a psychological, bureaucratic, and legal sleight of hand: the institution receives a signal of harm and re-emits it as proof of volatility, risk, or mutual fault.  
@@ -12,9 +12,9 @@ This node maps common inversion mechanisms and the repairs required to break the
 
 ---
 
-## 📑 Key Sections  
+## ✨ Key Sections  
 
-### 1. Complaint Reversal Mechanisms  
+### 👁️‍🗨️ Complaint Reversal Mechanisms  
 1. **Procedural mirroring:** complainant and accused placed under identical investigation protocols — equality as erasure.  
 2. **Tone policing:** distress reframed as aggression or instability.  
 3. **Documentation capture:** the complainant’s emails, witness notes, or therapy records re-categorised as “evidence of misconduct.”  
@@ -25,7 +25,7 @@ These inversions create a self-sealing logic: the more a survivor asserts truth,
 
 ---
 
-### 2. Institutional Self-Protection  
+### 🐉 Institutional Self-Protection  
 Complaint systems are designed to prove *responsibility exists somewhere else*.  
 Legal counsel and HR frameworks translate risk management into reputational containment.  
 Key tools include:  
@@ -38,7 +38,7 @@ Institutions perform care to avoid liability — compassion as containment strat
 
 ---
 
-### 3. Language of Mutual Conflict  
+### 🕷️ Language of Mutual Conflict  
 The bureaucratic dialect of “miscommunication,” “relationship breakdown,” or “personality clash” transforms asymmetrical abuse into symmetrical disagreement.  
 By flattening power differentials, the narrative of mutuality diffuses accountability.  
 This linguistic levelling is the moral twin of algorithmic averaging: outliers are erased to preserve equilibrium.
@@ -47,7 +47,7 @@ This linguistic levelling is the moral twin of algorithmic averaging: outliers a
 
 ---
 
-### 4. Counter-Inversion Tactics  
+### 🧨 Counter-Inversion Tactics  
 Repair depends on flipping the mirror back.  
 - **Maintain contemporaneous notes** that track each procedural hand-off.  
 - **Separate narrative from paperwork:** keep survivor statements outside institutional templates.  
@@ -74,14 +74,15 @@ complaint reversal, mirror tactics, survivor blame, procedural containment, inst
 
 ## 🏮 Footer  
 
-*Complaint Loop Inversions — Turning Accusation into Defence* is a living node of the Polaris Protocol.  
+*⭕️ Complaint Loop Inversions — Turning Accusation into Defence* is a living node of the Polaris Protocol.  
 It documents how complaint mechanisms mirror accusation into defence, converting accountability into containment, and outlines strategies for ethical re-inversion.  
 
-> 📡 Cross-references:  
-> - [👾 Harassment, Misidentification and Systemic Failures](../Disruption_Kit/Big_Picture_Protocols/👾_harassment_misidentification_systemic_failures_25-09-02.md) — structural misrecognition  
-> - [🧠 Behavioural Forks — When Institutions Develop Split Personas](../Disruption_Kit/Big_Picture_Protocols/🧠_behavioural_forks_when_institutions_develop_split_personas.md) — organisational dissociation  
-> - [🈴 Allies & Ethics](../🈴_Allies_And_Ethics/) — survivor-led allyship frameworks  
+> 📡 Cross-references:
+> 
+> - [👾 Harassment, Misidentification and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md) — *structural misrecognition*  
+> - [🧠 Behavioural Forks — When Institutions Develop Split Personas](./🧠_institutional_split_personas.md) — *organisational dissociation*  
+> - [🈴 Allies & Ethics](../🈴_Allies_And_Ethics/README.md) — *survivor-led allyship frameworks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-10-27_
