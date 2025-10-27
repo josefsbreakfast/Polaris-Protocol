@@ -1,6 +1,6 @@
 # 🦇 Status Quo Twinning  
-**First created:** 2025-09-10 | **Last updated:** 2025-09-10  
-*How twinning is used not to predict risk but to preserve abusive local equilibria — and how that reflex corrodes governance into crisis.*
+**First created:** 2025-09-10 | **Last updated:** 2025-10-27  
+*How twinning is used not to predict risk but to preserve abusive local equilibria — and how that reflex corrodes governance into crisis.*  
 
 ---
 
@@ -77,14 +77,15 @@ Status quo twinning is not just suppression; it is **relational sabotage**.
 
 ## 🏮 Footer  
 
-*Status Quo Twinning* is a living node of the Polaris Protocol.  
+*🦇 Status Quo Twinning* is a living node of the Polaris Protocol.  
 It records how twinning has been repurposed from predictive policing into a containment strategy that defends abusive local equilibria, but at the cost of hollowing out governance until crisis is inevitable.  
 
-> 📡 Cross-references:  
-> - [🧠 HM Dept of Coercive Nudges](../Containment_Scripts/🧠_HM_Dept_Coercive_Nudges.md) — behavioural architectures as coercion  
-> - [⚖️ Heavy Bundle: CPS, VPS, Centralisation](../Big_Picture_Protocols/⚖️_heavy_bundle_cps_vps_centralisation.md) — systemic containment logics  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures against trait isolation and twin sabotage  
+> 📡 Cross-references:
+> 
+> - [🧠 HM Dept of Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural architectures as coercion*  
+> - [⚖️ Heavy Bundle: CPS, VPS, Centralisation](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md) — *systemic containment logics*  
+> - [Survivor Tools](../../../Disruption_Kit/Survivor_Tools/README.md) — *countermeasures against trait isolation and twin sabotage*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_  
+_Last updated: 2025-10-27_  
