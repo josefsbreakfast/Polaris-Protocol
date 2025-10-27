@@ -1,5 +1,5 @@
 # 🌿 Algorithmic Ecology — Precision Without Context  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
 *When interventions meant for individuals reshape the population ecosystem.*
 
 ---
@@ -102,11 +102,7 @@ algorithmic ecology, precision illusion, DEET analogy, digital health, endocrine
 *🌿 Algorithmic Ecology — Precision Without Context* is a living node of the Polaris Protocol.  
 It shows how the rhetoric of precision conceals ecological and biochemical collateral, and why algorithmic design must be regulated as an environmental act.  
 
-> 📡 Cross-references:  
-> - [🧬 Algorithmic Endocrinology](./README.md) — cluster overview  
-> - [🍬 Algorithmic Endocrine Axis](./🍬_algorithmic_endocrine_axis.md) — physiological mechanisms  
-> - [💣 The Precision Illusion](./💣_the_precision_illusion.md) — extended governance case study  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/) — behavioural governance layer  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-10-27_
