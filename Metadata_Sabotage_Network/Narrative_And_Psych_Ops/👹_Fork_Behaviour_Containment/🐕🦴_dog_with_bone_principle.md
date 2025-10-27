@@ -74,11 +74,10 @@ It documents how survivor persistence makes fork anomalies unsustainable: the on
 > 
 > - [⚠️ Fork Anomaly Hypothesis — X, Y, Z](./⚠️_fork_anomaly_hypothesis_XYZ_2025-09-09.md)
 > - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
-> - [👾 Harassment, Misidentification, and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
 > - [🪞 Clone Mimic Theatre](./🪞_clone_mimic_theatre.md)  
 
 🏮 Return to [👹 Fork Behaviour Containment](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-09_  
+_Last updated: 2025-10-27_  
