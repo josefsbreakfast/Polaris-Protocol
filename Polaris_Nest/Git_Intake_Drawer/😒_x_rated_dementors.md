@@ -70,5 +70,21 @@ Do you have all already had ample feedback on what I'm looking for, and you've a
 
 Unfortunately, until you come clean and talk to me about it like adult adults, I can't really help you, and because I know what's going on on what the process I'm looking at is, I'm not going to make a serious commitment to anything where it can be monitored -- because this would be **highly coercive**, and would undermine my right as a citizen to due process.  
 
+---
+
+sexualisation is toned down in continued content inserts, but coercion, future faking, muddying expectations, and fishing for answers remains (fishing = "you're hard to read", "X person really likes you but they need reassurances", etc).  
+
+and as far as refering to me as off/on some sort of "market" (i am not an actual bovine specimen; ape sadly):  
+
+anyone who had the respect and dignity to be in my life at all in any capacity would not be doing any of *this* to me.  
+
+i could not give a shit who that was.  
+
+you all seem to think im defending one man and therefore this could only be expkaoned by attraction; im saying that this is an impersonation because thats what it looks like, it isng believable, it is distressing, and its fucked up to do it to people generally.  
+
+plus i have these things called "morals" and "character"; if you were collectivelly a bit smarter, you may notice that some people just think truth is generally a good thing and some people are just more willing to protect the herd and not just themselves. i am not sorry for the difficulty that appears to be presenting.  
+
+the surveillence industry clearly self-selects some extremely sprcific personality tupes, and that might be worth noting given the damage being caused; this industry needs regulation.  
+
 
 2025-10-26
