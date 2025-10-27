@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 01:05:51 UTC_
+_Generated on 2025-10-27 09:21:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1591,6 +1591,7 @@ _Generated on 2025-10-27 01:05:51 UTC_
     - [`👾_coercing_silence_example.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence_example.PNG)
     - [`👾_lo_the_field_upon_which_i_grow_my_fucks.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_lo_the_field_upon_which_i_grow_my_fucks.PNG)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Polaris_Nest/Git_Intake_Drawer/👾_oh_nottingham_what_have_you_done.md.jpg)
+    - [`👾_she_is_strong_but_she_is_really_tired.md`](Polaris_Nest/Git_Intake_Drawer/👾_she_is_strong_but_she_is_really_tired.md)
     - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
     - [`👾_to_uncertain_skies.md`](Polaris_Nest/Git_Intake_Drawer/👾_to_uncertain_skies.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
