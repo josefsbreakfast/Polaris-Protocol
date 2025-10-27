@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 17:26:35 UTC_
+_Generated on 2025-10-27 17:29:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1312,7 +1312,6 @@ _Generated on 2025-10-27 17:26:35 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
       - [`⏳_delay_scripts_near_deadlines.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md)
       - [`⏳_looped_waiting_rooms.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms.md)
-      - [`✡️_shabbat_exemption_inversion.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/✡️_shabbat_exemption_inversion.md)
       - [`🌀_confused_feed_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md)
       - [`🌀_recognition_without_resolution.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution.md)
       - [`🌑_induced_futility.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)
@@ -1325,6 +1324,7 @@ _Generated on 2025-10-27 17:26:35 UTC_
       - [`👾_vpn_dropouts.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👾_vpn_dropouts.md)
       - [`💔_weaponised_empathy_gaps.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)
       - [`🕯️_hope_withholding.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md)
+      - [`🕯️_shabbat_exemption_inversion.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_shabbat_exemption_inversion.md)
       - [`😴_cognitive_load_as_infrastructure.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md)
       - [`😴_exhaustion_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment.md)
       - [`🚪_isolation_scripting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting.md)
