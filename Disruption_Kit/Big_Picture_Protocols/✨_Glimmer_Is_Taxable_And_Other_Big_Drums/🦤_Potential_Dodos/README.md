@@ -15,7 +15,6 @@ we catalogue bad ideas before they nest in legislation.
 
 Inside you’ll find:  
 - **🍌 Project 2025 UK Edition** — the tropical bird of prey that insists it’s a dove.  
-- **🕊️ Gustav and the Network of Impossible Messengers** — counter-fauna: pigeons armed with poetry and purpose.  
 - Space for any other ideological hitch-hikers disguised as “reform”, “efficiency”, or “national renewal.”  
 
 ---
