@@ -1,7 +1,6 @@
 # ⚠️ Fork Anomaly Hypothesis — X, Y, Z  
-
-**First created:** 2025-09-09 | **Last updated:** 2025-09-12 <br>
-*Hypothesis node: diagnostic mapping of a three-subject harassment inversion showing abnormal fork signals*  
+**First created:** 2025-09-09 | **Last updated:** 2025-10-27  
+*Hypothesis node: diagnostic mapping of a three-subject harassment inversion showing abnormal fork signals.*  
 
 ---
 
@@ -51,10 +50,11 @@ _(Diagram placeholder: X ↔ Y ↔ Z fork flows)_
 
 ## 🏮 Footer  
 
-*Fork Anomaly Hypothesis — X, Y, Z* is a living node of the Polaris Protocol.  
+*⚠️ Fork Anomaly Hypothesis — X, Y, Z* is a living node of the Polaris Protocol.  
 It situates a working hypothesis on how complaint disappearance, inversion, and twin misuse could escalate a twinning mis-sort into fork sabotage.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [👾 Harassment, Misidentification, and Systemic Failures](./👾_harassment_misidentification_systemic_failures_25-09-02.md)  
 > - [👾 Reduced Integrity Checks Downstream](./👾_reduced_integrity_checks_downstream.md)  
 > - [👾 Reduced Integrity Checks Downstream — Auditor Examples](./👾_reduced_integrity_checks_downstream_auditor_examples.md)  
@@ -64,4 +64,4 @@ It situates a working hypothesis on how complaint disappearance, inversion, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_  
+_Last updated: 2025-10-27_  
