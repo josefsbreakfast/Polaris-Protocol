@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-27 20:07:55 UTC_
+_Generated on 2025-10-27 20:22:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1693,6 +1693,7 @@ _Generated on 2025-10-27 20:07:55 UTC_
     - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
     - [`🧭_regulating_the_regulators.md`](Polaris_Nest/Git_Intake_Drawer/🧭_regulating_the_regulators.md)
     - [`🧭_signal_alignment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_signal_alignment.md)
+    - [`🧭_temporal_flattening_near_disclosure_deadlines.md`](Polaris_Nest/Git_Intake_Drawer/🧭_temporal_flattening_near_disclosure_deadlines.md)
     - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
