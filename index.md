@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 01:32:18 UTC_
+_Generated on 2025-10-28 01:59:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1664,6 +1664,7 @@ _Generated on 2025-10-28 01:32:18 UTC_
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_bakwaas_but_okay_fine.PNG)
     - [`🛰️_coping_strategies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_coping_strategies.md)
+    - [`🛰️_crashes_all_downstream_use_related.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crashes_all_downstream_use_related.md)
     - [`🛰️_disconnects_and_dampening_down.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_disconnects_and_dampening_down.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
