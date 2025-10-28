@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 23:27:59 UTC_
+_Generated on 2025-10-28 23:31:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1364,6 +1364,7 @@ _Generated on 2025-10-28 23:27:59 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
       - [`protocol_flow_new_insert_handling.png`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/protocol_flow_new_insert_handling.png)
       - [`⚖️_capacity_as_integrity_why_oversubscription_breeds_error.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚖️_capacity_as_integrity_why_oversubscription_breeds_error.md)
+      - [`⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts.md)
       - [`⚠️_fork_anomaly_hypothesis_XYZ.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚠️_fork_anomaly_hypothesis_XYZ.md)
       - [`⭕️_complaint_loop_inversions.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⭕️_complaint_loop_inversions.md)
       - [`🌩️_clone_theatre_simulation_and_divergence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🌩️_clone_theatre_simulation_and_divergence.md)
@@ -1627,7 +1628,6 @@ _Generated on 2025-10-28 23:27:59 UTC_
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md`](Polaris_Nest/Git_Intake_Drawer/⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md)
     - [`⚡_escalation_triggers_when_hr_fails.md`](Polaris_Nest/Git_Intake_Drawer/⚡_escalation_triggers_when_hr_fails.md)
     - [`⚡️_tempo_differential.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_tempo_differential.md)
     - [`✨_defeated_by_audit.md`](Polaris_Nest/Git_Intake_Drawer/✨_defeated_by_audit.md)
