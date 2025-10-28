@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:05:55 UTC_
+_Generated on 2025-10-28 20:08:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -946,6 +946,7 @@ _Generated on 2025-10-28 20:05:55 UTC_
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
     - [`📚_bookworm_bitches_unite.md`](Disruption_Kit/Field_Logs/📚_bookworm_bitches_unite.md)
     - [`📚_processing_the_forbidden_information_point.md`](Disruption_Kit/Field_Logs/📚_processing_the_forbidden_information_point.md)
+    - [`📚_the_banned_book_first_reading.md`](Disruption_Kit/Field_Logs/📚_the_banned_book_first_reading.md)
     - [`📛_goyish_polizei.md`](Disruption_Kit/Field_Logs/📛_goyish_polizei.md)
     - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
     - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
@@ -1643,7 +1644,6 @@ _Generated on 2025-10-28 20:05:55 UTC_
     - [`📚_fictional_subject_construction.md`](Polaris_Nest/Git_Intake_Drawer/📚_fictional_subject_construction.md)
     - [`📚_library_as_algorithmic_interface.md`](Polaris_Nest/Git_Intake_Drawer/📚_library_as_algorithmic_interface.md)
     - [`📚_suppressed_safe_collection.md`](Polaris_Nest/Git_Intake_Drawer/📚_suppressed_safe_collection.md)
-    - [`📚_the_banned_book_first_reading.md`](Polaris_Nest/Git_Intake_Drawer/📚_the_banned_book_first_reading.md)
     - [`📚_venus_in_furs_as_witchfinder_litmus_paper.md`](Polaris_Nest/Git_Intake_Drawer/📚_venus_in_furs_as_witchfinder_litmus_paper.md)
     - [`📛_pathway_fit_error.md`](Polaris_Nest/Git_Intake_Drawer/📛_pathway_fit_error.md)
     - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
