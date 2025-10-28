@@ -1,10 +1,10 @@
 # 🧾 Credibility Logs — The Forensics of Restoration  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-28  
 *Timestamping, tracking, and truth recovery within contested narratives.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 In the aftermath of discrediting campaigns, credibility must be **rebuilt, not assumed**.  
 In a networked world where quotes are decontextualised and recordings remixed, the act of maintaining a timestamp becomes a form of testimony.  
 
@@ -16,7 +16,7 @@ It does not depend on institutional validation but on **documented authorship so
 
 ---
 
-## 1️⃣ Timestamping Speech  
+## 👁️‍🗨️ Timestamping Speech  
 Each statement—written, spoken, or transcribed—is registered with a hash and UTC timestamp.  
 - `git commit` or `GPG signed log` creates immutable authorship records.  
 - `openssl dgst -sha256` generates verifiable checksums.  
@@ -26,7 +26,7 @@ These timestamps form **temporal anchors**, enabling the reconstruction of what 
 
 ---
 
-## 2️⃣ Integrity Archives  
+## 💫 Integrity Archives  
 Credibility logs integrate with the *Signal Integrity Protocols* chain to ensure that **text, audio, and metadata share a single verification spine**.  
 Each edit or correction is preserved as a diff, not a deletion.  
 Every version remains visible through clear commit metadata.  
@@ -35,7 +35,7 @@ When someone claims “this person changed their story,” the log provides the 
 
 ---
 
-## 3️⃣ Transparent Edits and Witness Chains  
+## 🧿 Transparent Edits and Witness Chains  
 Transparency does not mean exposure; it means **traceable transformation**.  
 Witness chains document how a statement passes through multiple hands—editors, transcribers, moderators—so that editorial process cannot be used as evidence of deceit.  
 
@@ -56,7 +56,7 @@ Witness chains reveal continuity, not compromise—showing that *truth can have 
 
 ---
 
-## 4️⃣ Credibility as Collective Maintenance  
+## 🧄 Credibility as Collective Maintenance  
 Restoration is rarely individual work.  
 Survivors, allies, archivists, and readers all contribute to **credibility repair** through citation, corroboration, and version mirroring.  
 Public trust becomes an *infrastructure project*, not a popularity contest.  
@@ -65,7 +65,7 @@ Collective logging practices—mirrored repositories, shared timestamp servers, 
 
 ---
 
-## 🧰 Verification Toolkit — Temporal Forensics  
+## 🪄 Verification Toolkit — Temporal Forensics  
 
 ### ⏱ Hashing & Commit Proofs  
 - `git log --show-signature` — Validate signed edits.  
@@ -139,4 +139,4 @@ It provides the technical and ethical infrastructure for repairing trust after d
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-10-28_
