@@ -150,7 +150,7 @@ It documents how reputational warfare uses performance logics to make harm enter
 > 📡 Cross-references:
 > 
 > - [👅 Voice Disruption & Discrediting — Cluster Overview](./README.md)  
-> - [🈸 Dispatch & Training](../🈸_Dispatch_And_Training/README.md)  
+> - [🈸 Dispatch & Training](../../Governance_And_Containment/🈸_Dispatch_And_Training/README.md)  
 > - [🧬 Witness Pairing and Projection](./🧬_witness_pairing_and_projection.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
