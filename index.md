@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 23:24:00 UTC_
+_Generated on 2025-10-28 23:25:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1194,10 +1194,6 @@ _Generated on 2025-10-28 23:24:00 UTC_
     - [`🪼_the_word_is_still_butthurt.md`](Disruption_Kit/Field_Logs/🪼_the_word_is_still_butthurt.md)
     - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
     - [`🫜_divorce_support.md`](Disruption_Kit/Field_Logs/🫜_divorce_support.md)
-  - [**Metadata_Sabotage_Network/**](Disruption_Kit/Metadata_Sabotage_Network/)
-    - [**Structural_Analysis/**](Disruption_Kit/Metadata_Sabotage_Network/Structural_Analysis/)
-      - [**🧬_Structural_Mapping/**](Disruption_Kit/Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
-        - [`⚖️_algorithmic_apartheid.md`](Disruption_Kit/Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_algorithmic_apartheid.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [**📱_Digital_But_Make_It_Secure/**](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
@@ -1442,6 +1438,7 @@ _Generated on 2025-10-28 23:24:00 UTC_
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
       - [`☎_telecoms_vectors.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/☎_telecoms_vectors.md)
+      - [`⚖️_algorithmic_apartheid.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_algorithmic_apartheid.md)
       - [`⚖️_plausible_deniability_exploits.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_plausible_deniability_exploits.md)
       - [`⚡️_citizen_polaris.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚡️_citizen_polaris.md)
       - [`🌀_loop_notes_on_ai_language.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_loop_notes_on_ai_language.md)
