@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 19:53:38 UTC_
+_Generated on 2025-10-28 19:54:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1145,6 +1145,7 @@ _Generated on 2025-10-28 19:53:38 UTC_
     - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
     - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/🪬_all_that_surveillance.md)
     - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Disruption_Kit/Field_Logs/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
+    - [`🪬_subtweeting.md`](Disruption_Kit/Field_Logs/🪬_subtweeting.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Disruption_Kit/Field_Logs/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
     - [`🪼_interruption_index_update.png`](Disruption_Kit/Field_Logs/🪼_interruption_index_update.png)
     - [`🪼_the_word_is_butthurt.png`](Disruption_Kit/Field_Logs/🪼_the_word_is_butthurt.png)
@@ -1755,7 +1756,6 @@ _Generated on 2025-10-28 19:53:38 UTC_
     - [`🪞_twin_narrative_distortion_loop.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twin_narrative_distortion_loop.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪬_gossip_engines.md`](Polaris_Nest/Git_Intake_Drawer/🪬_gossip_engines.md)
-    - [`🪬_subtweeting_uon.md`](Polaris_Nest/Git_Intake_Drawer/🪬_subtweeting_uon.md)
     - [`🪶_descent_map_academic_surveillance_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_academic_surveillance_drift.md)
     - [`🪶_descent_map_template.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_template.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
