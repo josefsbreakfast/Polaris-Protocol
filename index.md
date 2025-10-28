@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 23:11:21 UTC_
+_Generated on 2025-10-28 23:12:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -568,6 +568,7 @@ _Generated on 2025-10-28 23:11:21 UTC_
             - [`013_🔮_Atrocity_Index.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/013_🔮_Atrocity_Index.md)
             - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🎪_Where_We_Go_From_Here/README.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md)
+        - [`☕_the_auntie_model_of_memetic_transmission.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md)
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_legal_hooks_for_muted_books.md)
         - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
         - [`➰_appeasement_loop_policing_bias.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/➰_appeasement_loop_policing_bias.md)
@@ -1256,9 +1257,6 @@ _Generated on 2025-10-28 23:11:21 UTC_
   - [**🔖_Tag_Pack/**](Disruption_Kit/🔖_Tag_Pack/)
     - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
-  - [**🪄_Expression_Of_Norms/**](Disruption_Kit/🪄_Expression_Of_Norms/)
-    - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/)
-      - [`☕_the_auntie_model_of_memetic_transmission.md`](Disruption_Kit/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
