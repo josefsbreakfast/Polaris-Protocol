@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:34:08 UTC_
+_Generated on 2025-10-28 20:34:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1108,6 +1108,7 @@ _Generated on 2025-10-28 20:34:08 UTC_
     - [`🛰️_silent_witness_effect_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_silent_witness_effect_field_log_2025-09-13.md)
     - [`🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md)
     - [`🛰️_still_sec_snags.md`](Disruption_Kit/Field_Logs/🛰️_still_sec_snags.md)
+    - [`🛰️_stop_witholding_c_and_v_children.md`](Disruption_Kit/Field_Logs/🛰️_stop_witholding_c_and_v_children.md)
     - [`🛰️_structural_vulnerabilities_media_harm_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_structural_vulnerabilities_media_harm_2025-09-27.md)
     - [`🛰️_struggling_to_remember_what_a_dr_is.png`](Disruption_Kit/Field_Logs/🛰️_struggling_to_remember_what_a_dr_is.png)
     - [`🛰️_stuck_for_several_minutes_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stuck_for_several_minutes_2025-09-27.md)
@@ -1694,7 +1695,6 @@ _Generated on 2025-10-28 20:34:08 UTC_
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
-    - [`🛰️_stop_witholding_c_and_v_children.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stop_witholding_c_and_v_children.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_two_prongs_one_fork.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_two_prongs_one_fork.md)
     - [`🛰️_weird_guardrails.png`](Polaris_Nest/Git_Intake_Drawer/🛰️_weird_guardrails.png)
