@@ -1,5 +1,5 @@
 # 🕸️ Sector Coordination Hypothesis — Pre-Briefed Silence in University Protest Management  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28-B  
+**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
 *How near-identical responses across UK universities point to coordinated risk communication rather than coincidence.*
 
 ---
@@ -75,8 +75,8 @@ universities uk, office for students, uklfi, henry jackson society, pre-briefed 
 ---
 
 ## 🏮 Footer  
-*The Sector Coordination Hypothesis* records how both institutional and external advocacy networks appear to have harmonised protest-response language across the UK higher-education sector in 2024.  
+*🕸️ The Sector Coordination Hypothesis* records how both institutional and external advocacy networks appear to have harmonised protest-response language across the UK higher-education sector in 2024.  
 It calls for transparent disclosure of all advisory and communications inputs influencing university decision-making.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28-B_
+_Last updated: 2025-10-28_
