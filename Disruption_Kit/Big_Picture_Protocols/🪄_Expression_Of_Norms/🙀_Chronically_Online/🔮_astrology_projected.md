@@ -13,20 +13,20 @@ We treat this as *expression of norms*: online cultures performing micro-rituals
 
 ---
 
-## ✳️ Key Sections  
-1. Projection Loop  
-2. Emotion as Evidence  
-3. Sync & Cycle  
-4. Platform Rituals  
-5. Governance & Market  
-6. Risks & Ethics  
-7. Behavioural Synchrony and Reproductive Risk  
-8. Historical Precedent — Behavioural Control as Governance  
-9. Reproductive Control and Human Rights  
+## ✨ Key Sections  
+1. ➰ Projection Loop  
+2. 🧿 Emotion as Evidence  
+3. 📿 Sync & Cycle  
+4. 🎋 Platform Rituals  
+5. 💸 Governance & Market  
+6. 🧨 Risks & Ethics  
+7. 🩸 Behavioural Synchrony and Reproductive Risk  
+8. 🧠 Historical Precedent — Behavioural Control as Governance  
+9. 🦇 Reproductive Control and Human Rights  
 
 ---
 
-### 1️⃣ Projection Loop  
+### ➰ Projection Loop  
 Astrology online is not false — it is **performed**.  
 Each meme, horoscope carousel, or moon-phase playlist embeds a **timing instruction**: delay, confess, rest, buy.  
 When millions receive the same cue, **behaviour synchronises**.  
@@ -34,7 +34,7 @@ The forecast appears correct precisely because we *act* it into being.
 
 ---
 
-### 2️⃣ Emotion as Evidence  
+### 🧿 Emotion as Evidence  
 Platforms amplify content that names emotion.  
 When a viral post says *“Everyone’s crying this week — must be Pisces season,”* it recruits attention, then offers relief: the sadness now has a cosmic reason.  
 The dopamine of recognition pairs with the serotonin of community.  
@@ -42,7 +42,7 @@ Astrology becomes a **shared nervous system** — a collective affect regulator.
 
 ---
 
-### 3️⃣ Sync & Cycle (speculative but observable)  
+### 📿 Sync & Cycle (speculative but observable)  
 Humans entrain rhythms: breathing, blinking, sleeping.  
 Online, our cues are push alerts, lunar GIFs, and “check-in” reels.  
 Because cycles of dopamine, serotonin, and melatonin are susceptible to light and suspense, platform cadence quietly modulates **mood and bodily timing**.  
@@ -51,7 +51,7 @@ Thus, *behavioural synchrony* masquerades as *astrological validation.*
 
 ---
 
-### 4️⃣ Platform Rituals  
+### 🎋 Platform Rituals  
 - **Retrograde disclaimers:** built-in permission to delay responses.  
 - **Lunar resets:** content-calendar fresh starts.  
 - **Candle / manifestation videos:** visual breathing regulators.  
@@ -62,7 +62,7 @@ Each ritual translates superstition into UX — interfaces of comfort and contro
 
 ---
 
-### 5️⃣ Governance & Market  
+### 💸 Governance & Market  
 Prediction becomes policy: brands time launches by “energetic alignment.”  
 Influencers schedule apologies and rebrands with moon cycles.  
 Behavioural-economics labs study these cadences, re-packaging them as **wellness strategy**.  
@@ -70,7 +70,7 @@ Astrology becomes both **data feedback** and **nudge protocol** — a soft gover
 
 ---
 
-### 6️⃣ Risks & Ethics  
+### 🧨 Risks & Ethics  
 - Overfitting identity to algorithmic mood swings.  
 - Gendered emotional labour disguised as empowerment.  
 - Data harvesting through wellness rituals.  
@@ -126,7 +126,7 @@ When emotional regulation, hormonal timing, or behavioural cycles are manipulate
 - **Behavioural entrainment:** when large cohorts alter sleep, libido, or social rhythms in response to coordinated meme cues, the aggregate effect may shift conception windows or healthcare-utilisation patterns.  
 - **Rights implication:** the ability to shape, even probabilistically, reproductive timing through covert psychological or data-driven means constitutes a **potential violation of the right to bodily autonomy and reproductive self-determination** under international human-rights law (CEDAW Articles 12 & 16, UDHR Article 3).  
 
-> 🛡 **Ethical stance:** any system capable of influencing hormonal or reproductive behaviour through hidden algorithmic nudges must be classified as **biopolitical infrastructure**, subject to transparency, consent, and oversight requirements.  
+> 🦇 **Ethical stance:** any system capable of influencing hormonal or reproductive behaviour through hidden algorithmic nudges must be classified as **biopolitical infrastructure**, subject to transparency, consent, and oversight requirements.  
 
 ---
 
@@ -149,7 +149,7 @@ It studies how algorithmic rituals make superstition feel predictive, turning cu
 > - [🪄 Expression of Norms](../README.md) — *cluster home*  
 > - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — platform oversight  
 > - [🐍 Ouroborotic Violence](../../🐍_Ouroborotic_Violence/README.md) — *recursion & denial*  
-> - [🫀 Body Politic](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md) — *emotion labour*  
+> - [🐝 Body Politic](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md) — *emotion labour*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
