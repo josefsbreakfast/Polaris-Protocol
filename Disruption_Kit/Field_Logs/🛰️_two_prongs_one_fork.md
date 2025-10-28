@@ -8,9 +8,9 @@ what's absolutely fascinating is that we have a dual prong narrative that essent
 
 i am more of a lady that you all think, so i don't post essentially what sounds like the private conversations or draft correspondance of others online. (see also: not being a complete cunt, just a bit of one.).  
 
-i am also really enjoying the other prong which is the strong insistance that i know what is riggt in my heart and set boundaries and only move with intention and trust the process and tone myself down like a proper good girl (are we for real; it is extremely clear that this is supposted to be directive...it's too obvious. get better at this, please.).  
+i am also really enjoying the other prong which is the strong insistance that i know what is right in my heart and set boundaries and only move with intention and trust the process and tone myself down like a proper good girl (are we for real; it is extremely clear that this is supposted to be directive...it's too obvious. get better at this, please.).  
 
-i could also list a bunch of character flaws that are essentially ascribed to people around me in general and then picked out for specific people, but we've been here before, it's all horseshit anyway, and the key takehome is tgat it appears geared to sow doubt about anyone who appears to have even 1% beyond neutral good intentions.  
+i could also list a bunch of character flaws that are essentially ascribed to people around me in general and then picked out for specific people, but we've been here before, it's all horseshit anyway, and the key takehome is that it appears geared to sow doubt about anyone who appears to have even 1% beyond neutral good intentions.  
 
 idk man the nightshift tonight is struggling to make it believable.  
 
