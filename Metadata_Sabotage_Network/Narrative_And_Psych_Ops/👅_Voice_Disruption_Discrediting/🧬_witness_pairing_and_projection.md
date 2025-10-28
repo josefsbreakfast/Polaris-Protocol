@@ -26,6 +26,28 @@ When two or more people are being mirrored, the asymmetry between what each is t
 
 ---
 
+### 🎠 Rotating Twin Variant  
+
+Sometimes the pairing itself is transient.  
+When the initial match fails to stabilise control, the system dissolves it and assigns a new counterpart.  
+To the outsider, this looks like ordinary social drift — a change of collaborator, colleague, or co-defendant.  
+To the survivor, it feels like a re-cast: the same script, a new actor.  
+
+The **rotating twin** serves two functions:  
+
+- **Resetting credibility.**  
+  Each new pairing rewrites the social context around the survivor, forcing others to treat them as the variable.  
+  The narrative of “instability” is produced by design — constant change masquerading as personal unreliability.  
+
+- **Refreshing surveillance.**  
+  Every new match brings fresh vantage points, new channels of observation, and a plausible reason for renewed scrutiny.  
+  The transition itself provides cover — “we’re simply re-allocating resources” — while the monitoring continues uninterrupted.  
+
+Over time, these rotations create an evidentiary blur: multiple partial witnesses, none of whom saw the whole picture.  
+What looks like coincidence in isolation becomes clear in sequence — a logistical choreography of credibility erosion.  
+
+---
+
 ### 🎪 Projection Layer  
 
 Projection is a harassment tool disguised as “interpretation.”  
