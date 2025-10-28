@@ -44,7 +44,10 @@ It studies the cultural, affective, and governance dimensions of life under perm
 > - *🎨 Platform Aesthetic Governance*  
 > - *🧚 Digital Folklore*  
 >  
-> 🪄 Cross-link: [🧿 Watch the Watchers → Platform Moderation & User Surveillance](../🧿_Watch_The_Watchers/README.md)
+> 🪄 Cross-links:
+>
+> [💔 Violence IRL](../../🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)
+> [🧿 Watch the Watchers → Platform Moderation & User Surveillance](../🧿_Watch_The_Watchers/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
