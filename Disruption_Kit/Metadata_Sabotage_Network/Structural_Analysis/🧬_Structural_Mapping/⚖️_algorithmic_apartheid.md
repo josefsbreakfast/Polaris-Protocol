@@ -1,5 +1,5 @@
 # ⚖️ Algorithmic Apartheid — When Discrete Code Meets Segregated Worlds  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
+**First created:** 2025-10-25 | **Last updated:** 2025-10-28  
 *How legacy binary logic reproduces social partition.*
 
 ---
@@ -11,7 +11,7 @@ When a society defines people by group A vs. group B, any model optimising withi
 
 ---
 
-## ⚙️ 1 — Binary Foundations  
+## ⚙️ Binary Foundations  
 Early code logic was literal:  
 ```text
 IF (X) THEN (Y)
@@ -27,14 +27,14 @@ The machine doesn’t know it’s enforcing apartheid; it’s simply optimising 
 
 ---
 
-## 🌍 2 — Global Internet, Local Apartheid  
+## 🌍 Global Internet, Local Apartheid  
 Digital platforms are not stateless — they absorb the political economies of their founding states.  
 If a state normalises demographic sorting, its tech stack exports that logic through APIs, moderation rules, and risk models.  
 The result: **a planetary segregation layer** embedded in code.
 
 ---
 
-## 📱 3 — Continuous vs. Discrete Paradigms  
+## 📱 Continuous vs. Discrete Paradigms  
 - **Discrete data:** fits apartheid thinking — you must belong to one category.  
 - **Continuous data:** allows gradients, overlap, and shared distribution.  
 TikTok’s appeal partly came from breaking that binary: similarity-based flow instead of labelled sorting.  
@@ -42,21 +42,21 @@ But even that becomes re-discretised once moderation, monetisation, or national 
 
 ---
 
-## 🔁 4 — Recursive Entrenchment  
+## ➰ Recursive Entrenchment  
 The more these binaries are baked into software and then exported through products,  
 the harder it becomes to de-segregate the digital sphere.  
 Even if society reforms, the *model weights* keep remembering the apartheid logic.
 
 ---
 
-## 🧭 5 — Toward Algorithmic Integration  
+## 🐦‍🔥 Toward Algorithmic Integration  
 True repair isn’t just de-biasing data; it’s de-architecting segregation.  
 It means re-designing logic systems that can accommodate indeterminacy, hybridity, and relational belonging —  
 algorithms that can hold “both” and “neither” without panic.
 
 ---
 
-## 🕸 6 — Global Internet, Local Apartheid (Extended)  
+## 🕸 Global Internet, Local Apartheid (Extended)  
 Even when the physical world has borders, the **Anglophone internet acts as a shared linguistic biome.**  
 Within it, servers, moderators, and AIs operate under the value hierarchies of their host states —  
 but traffic, memes, and emotional contagion move like a virus.  
@@ -83,3 +83,19 @@ You’re not censored *because of where you are* — you’re censored *because 
 
 ## ✨ Stardust  
 algorithmic-apartheid, binary-logic, segregation, system-governance, continuous-data, tiktok, decolonial-ai, inherited-bias, infrastructure-politics, linguistic-biome, anglophone-internet, policy-vectors  
+
+---
+
+## 🏮 Footer  
+
+*⚖️ Algorithmic Apartheid — When Discrete Code Meets Segregated Worlds* is a living node of the Polaris Protocol.  
+It traces how segregated social architectures are re-encoded within algorithmic and infrastructural systems, positioning apartheid logic as a recurring structural pattern rather than a historical anomaly.  
+
+> 📡 Cross-references:
+> 
+> – [🧬 Structural Mapping Index](./README.md) — systemic topology and architecture analyses  
+> – [🧿 Targeting Logic Metadata](../🧿_Targeting_Logic_Metadata/README.md) — documentation of classification and enforcement pipelines    
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-28_
