@@ -38,6 +38,8 @@ This is what antisemitism is.
 
 Antisemitism is not someone being appropriately extremely angry at the deaths of their family members, or people who look just like them, while everyone around them looks on and shrugs, or looks away, "that Palestine thing".  
 
+What is happening there is called, "mourning", and "grief".  
+
 The antisemitism is being framed as a "race traitor" and sexually harrassed by white men because they are too confused by their own erections to understand whether you should, like two Punjabi women, be the victims of their direct sexual violence as unbridled racism in the literal format of rape, or whether you should be "saved" from the melaninated men they have assumed you sleep with, because apparantly those are the only grounds that would convince them to even hold a candle to your moral courage, to give up your safety, to risk your medical qualification, and to stand in history as one of the people who said "no".  
 
 At this point my chief concern is interrupting cycles of violence.  
