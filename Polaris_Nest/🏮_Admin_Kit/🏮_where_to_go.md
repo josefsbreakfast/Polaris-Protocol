@@ -84,8 +84,8 @@ flowchart TD
   BBCPick -->|No| BBCmain[🎶 BBC main cluster]
 
   %% ---------------- Forensic / Metadata layer ----------------
-  C -->|No (not theory)| D
-  D -->|No (not action)| E{Casefile?}
+  C -->|No, not theory| D
+  D -->|No, not action| E{Casefile?}
   D -->|Yes| DD[🦆 Digital Disruption]
 
   E -->|Yes| G1[Polaris_Nest → SCP-VoiceX_Casefiles]
