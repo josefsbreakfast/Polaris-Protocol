@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 19:52:54 UTC_
+_Generated on 2025-10-28 19:53:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1146,6 +1146,7 @@ _Generated on 2025-10-28 19:52:54 UTC_
     - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/🪬_all_that_surveillance.md)
     - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Disruption_Kit/Field_Logs/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Disruption_Kit/Field_Logs/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
+    - [`🪼_interruption_index_update.png`](Disruption_Kit/Field_Logs/🪼_interruption_index_update.png)
     - [`🪼_the_word_is_butthurt.png`](Disruption_Kit/Field_Logs/🪼_the_word_is_butthurt.png)
     - [`🪼_the_word_is_still_butthurt.md`](Disruption_Kit/Field_Logs/🪼_the_word_is_still_butthurt.md)
     - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
@@ -1759,7 +1760,6 @@ _Generated on 2025-10-28 19:52:54 UTC_
     - [`🪶_descent_map_template.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_template.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](Polaris_Nest/Git_Intake_Drawer/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
-    - [`🪼_interruption_index_update.png`](Polaris_Nest/Git_Intake_Drawer/🪼_interruption_index_update.png)
     - [`🫧_crying_as_breach_emotional_containment_and_the_professional_body.md`](Polaris_Nest/Git_Intake_Drawer/🫧_crying_as_breach_emotional_containment_and_the_professional_body.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
