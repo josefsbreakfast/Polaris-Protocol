@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:02:56 UTC_
+_Generated on 2025-10-28 20:04:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -934,6 +934,7 @@ _Generated on 2025-10-28 20:02:56 UTC_
     - [`👾_coercing_silence_example.png`](Disruption_Kit/Field_Logs/👾_coercing_silence_example.png)
     - [`👾_coercing_silence_example_reupload.PNG`](Disruption_Kit/Field_Logs/👾_coercing_silence_example_reupload.PNG)
     - [`👾_legal_notariety.md`](Disruption_Kit/Field_Logs/👾_legal_notariety.md)
+    - [`👾_lo_the_field_upon_which_i_grow_my_fucks.PNG`](Disruption_Kit/Field_Logs/👾_lo_the_field_upon_which_i_grow_my_fucks.PNG)
     - [`👾_lo_the_field_upon_which_i_grow_my_fucks.png`](Disruption_Kit/Field_Logs/👾_lo_the_field_upon_which_i_grow_my_fucks.png)
     - [`👾_more_sexualised_content.PNG`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.PNG)
     - [`👾_more_sexualised_content.png`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.png)
