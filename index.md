@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 06:53:29 UTC_
+_Generated on 2025-10-28 06:55:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1568,6 +1568,7 @@ _Generated on 2025-10-28 06:53:29 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🍉_Academic_Liberty/**](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/)
       - [`Annex_A_Birmingham_Pre-Litigation.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/Annex_A_Birmingham_Pre-Litigation.md)
+      - [`FOI_Request_Template_Bundle.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/FOI_Request_Template_Bundle.md)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/README.md)
       - [`Sector_Coordination_Hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/Sector_Coordination_Hypothesis.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
