@@ -20,3 +20,11 @@ this akso could be the result of algorithmic data being literally so intensuve t
 
 i suppose people may wonder why it bothers me, but i get relabelled frequently in diagnostics, and very little is available to actually treat.  
 
+---
+
+quite a lit of disorder is tolerated as normal, and most of my problems are in some way related to lack of access or avilability. i live in an area where everything has a pathway, and everything else is very difficult to arrange much investigation for when it materially changes, let alone treat.  
+
+i really dislike any new algorithmic suggestions, because it really just feels like a reminder of therapeutic promise without relief.  
+
+just leave me in pain, if all you have are empty promises. 🤣
+
