@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Scope & Purpose  
+## 🛰️ Scope & Purpose  
 This document records **system‑facing evidence**, not personal testimony.  
 Its aim is to support ethical‑safety reviews by showing how certain **non‑directive prompt forms** can act as behavioural nudges or re‑surface trauma‑coded material.  
 It is written for **auditors, moderators, and safety designers** who may never have directly experienced such effects.  
@@ -60,7 +60,7 @@ Survivor‑informed review panels should assess recommender safety to detect *la
 2. **Traceability placeholder:** Use neutral tokens (e.g., `[Item‑A1]`) for sealed logs.  
 3. **Chain‑of‑custody:** Full detail may be given to accredited reviewers under confidentiality.  
 4. **Disclosure rationale:** “Redacted to prevent dissemination of self‑harm method information; full description retained in sealed evidence log.”  
-5. **Ethical compliance:** Align with WHO and Samaritans media guidelines.  
+5. **Ethical compliance:** Align with WHO/Mind/Samaritans media guidelines.  
 
 **Governance insight:** Omission is protective, not evasive; signals a controlled access path for investigators.  
 
@@ -82,7 +82,7 @@ Protective systems require transparent oversight; audit and disclosure standards
 
 ---
 
-## 🧷 T2 — Sexualisation of Trauma → Memory‑Linked Object and Context Cues  
+## 🐝 T2 — Sexualisation of Trauma → Memory‑Linked Object and Context Cues  
 
 **Observed pattern:**  
 - Feeds surfaced items whose **shape or domestic context** echoed details of abuse environments (bedroom, bathroom).  
@@ -111,7 +111,7 @@ Analyse within full harassment context; focus on trigger precision and timing, n
 
 ---
 
-## 🧩 T3 — Safeguarding‑Report Crosslink → Referential Reminders and Boundary Erosion  
+## 🦇 T3 — Safeguarding‑Report Crosslink → Referential Reminders and Boundary Erosion  
 
 **Observed pattern:**  
 - Digital content began to include **names, place references, and institutional cues** uniquely linked to a past safeguarding report.  
@@ -141,7 +141,7 @@ Analyse within full harassment context; focus on trigger precision and timing, n
 
 ---
 
-## 🎭 T4 — Targeted Racial Dog‑Whistles → Policy‑Weighted Protection and Algorithmic Blind Spots  
+## 🐺 T4 — Targeted Racial Dog‑Whistles → Policy‑Weighted Protection and Algorithmic Blind Spots  
 
 **Observed pattern:**  
 - Coded racial or ethnic insinuations appeared as humour or cultural commentary.  
@@ -155,7 +155,7 @@ Analyse within full harassment context; focus on trigger precision and timing, n
 **Governance interpretation:**  
 | Vector | Mechanism | Preventive Action |
 |---|---|---|
-| Policy model | Reliance on single IHRA definition | Adopt plural frameworks (JDA + academic cross‑community standards) |
+| Policy model | Reliance on single IHRA definition | Adopt more modern frameworks (JDA + academic cross‑community standards) |
 | Algorithmic moderation | Keyword‑based flagging without context | Introduce discourse‑sensitive moderation calibrated for power dynamics |
 | Appeal infrastructure | Single‑definition guidance | Multi‑perspective review boards including minority scholars |
 
