@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:30:32 UTC_
+_Generated on 2025-10-28 20:30:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1106,6 +1106,7 @@ _Generated on 2025-10-28 20:30:32 UTC_
     - [`🛰️_silent_witness_effect_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_silent_witness_effect_field_log_2025-09-13.md)
     - [`🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md)
     - [`🛰️_structural_vulnerabilities_media_harm_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_structural_vulnerabilities_media_harm_2025-09-27.md)
+    - [`🛰️_struggling_to_remember_what_a_dr_is.png`](Disruption_Kit/Field_Logs/🛰️_struggling_to_remember_what_a_dr_is.png)
     - [`🛰️_stuck_for_several_minutes_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stuck_for_several_minutes_2025-09-27.md)
     - [`🛰️_suppression_gremlins_after_midnight_2025-09-18.md`](Disruption_Kit/Field_Logs/🛰️_suppression_gremlins_after_midnight_2025-09-18.md)
     - [`🛰️_surveillance_forking_incident_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_surveillance_forking_incident_2025-09-27.md)
@@ -1694,7 +1695,6 @@ _Generated on 2025-10-28 20:30:32 UTC_
     - [`🛰️_shit_shes_frowning_abort_abort.md.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_shit_shes_frowning_abort_abort.md.PNG)
     - [`🛰️_still_sec_snags.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_still_sec_snags.md)
     - [`🛰️_stop_witholding_c_and_v_children.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_stop_witholding_c_and_v_children.md)
-    - [`🛰️_struggling_to_remember_what_a_dr_is.png`](Polaris_Nest/Git_Intake_Drawer/🛰️_struggling_to_remember_what_a_dr_is.png)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_two_prongs_one_fork.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_two_prongs_one_fork.md)
     - [`🛰️_weird_guardrails.png`](Polaris_Nest/Git_Intake_Drawer/🛰️_weird_guardrails.png)
