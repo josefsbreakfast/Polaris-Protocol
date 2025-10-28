@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 19:49:24 UTC_
+_Generated on 2025-10-28 19:50:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -950,6 +950,7 @@ _Generated on 2025-10-28 19:49:24 UTC_
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Disruption_Kit/Field_Logs/🗒️_being_cross_at_gung_ho_nudge.md)
     - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/🗒️_conversation_drift_and_anchors.md)
     - [`😐.md`](Disruption_Kit/Field_Logs/😐.md)
+    - [`😒_x_rated_dementors.md`](Disruption_Kit/Field_Logs/😒_x_rated_dementors.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`😴_sleeps_and_occam.md`](Disruption_Kit/Field_Logs/😴_sleeps_and_occam.md)
     - [`🙀_oh_my_word_she_mentioned_anarchism.md`](Disruption_Kit/Field_Logs/🙀_oh_my_word_she_mentioned_anarchism.md)
@@ -1659,7 +1660,6 @@ _Generated on 2025-10-28 19:49:24 UTC_
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🖍️_the_colouring_book_experiment_containment_as_curriculum.md`](Polaris_Nest/Git_Intake_Drawer/🖍️_the_colouring_book_experiment_containment_as_curriculum.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
-    - [`😒_x_rated_dementors.md`](Polaris_Nest/Git_Intake_Drawer/😒_x_rated_dementors.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Polaris_Nest/Git_Intake_Drawer/🙄_making_men_cry_was_literally_my_job_bro.PNG)
     - [`🚀_alreet_lads.md`](Polaris_Nest/Git_Intake_Drawer/🚀_alreet_lads.md)
