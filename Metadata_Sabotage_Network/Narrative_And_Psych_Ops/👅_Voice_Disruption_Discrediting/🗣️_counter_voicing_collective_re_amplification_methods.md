@@ -1,10 +1,10 @@
 # 🗣️ Counter-Voicing: Collective Re-Amplification Methods  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-28  
 *Restoring stable signal through collective speech.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 When credibility collapses, no single voice can restore the field.  
 Counter-voicing is the cooperative practice of **re-anchoring meaning through verified repetition** — a deliberate reconstruction of signal integrity.  
 It treats **solidarity as infrastructure**: networks of mutual citation and re-amplification that rebuild trust where algorithmic architectures have dissolved it.  
@@ -14,7 +14,7 @@ Every echo is a checksum; every credit line a **moral index of care**.
 
 ---
 
-## 📑 1. Echo Scripts and Credibility Chains  
+## 💫 Echo Scripts and Credibility Chains  
 Re-amplification works best when structured.  
 An *echo script* defines what is repeated, by whom, and in what register — preserving semantic fidelity while distributing reach.  
 
@@ -29,7 +29,7 @@ Credibility chains let information travel without mutating — a **collective ch
 
 ---
 
-## 📑 2. Verified Amplification Networks  
+## 📣 Verified Amplification Networks  
 Platforms reward velocity; counter-voicing rewards **traceability**.  
 Verified Amplification Networks (VANs) act as *slow broadcast systems* — cooperative clusters that ensure accuracy before circulation.  
 
@@ -43,7 +43,7 @@ Like community radio repeaters, these networks **extend range without altering t
 
 ---
 
-## 📑 3. Ethical Quotation and Attribution Practices  
+## ⚖️ Ethical Quotation and Attribution Practices  
 The ethic of *crediting the artist* is foundational to counter-voicing.  
 Attribution is not vanity — it is **metadata of respect**.  
 To name the originator is to stabilise the signal; to omit them is to reopen the wound.  
@@ -59,7 +59,7 @@ Attribution functions as a **moral checksum**: a visible trail of who carried th
 
 ---
 
-## 📑 4. Building Trust Resonance  
+## 🐦‍⬛ Building Trust Resonance  
 Trust behaves like an acoustic wave — strengthened by consistent frequency and shared rhythm.  
 To build resonance:  
 - **Maintain rhythm:** predictable intervals of posting signal reliability.  
@@ -72,7 +72,7 @@ Credit is not a footnote; it is the architecture of belief.
 
 ---
 
-## 📑 5. Plagiarism Economies and the Cost of Uncredited Speech  
+## 💰 Plagiarism Economies and the Cost of Uncredited Speech  
 When attribution fails, exploitation scales.  
 Platforms that sell visibility — print-on-demand sites, influencer merch pipelines, AI art aggregators — rely on volume over provenance.  
 They often reproduce independent artists’ work **without policing copyright or origin**, effectively laundering creativity into cheap content.  
@@ -90,7 +90,7 @@ Every attributed repost becomes a **micro-reparation**: a refusal to let the sys
 
 ---
 
-## 📑 6. Enshittification, Sludge, and the Collapse of Care  
+## 🧨 Enshittification, Sludge, and the Collapse of Care  
 The same forces that destabilise credibility also **degrade creation itself**.  
 When platforms optimise for frictionless output, every layer of the process — from truth to textile — becomes disposable.  
 
@@ -110,12 +110,12 @@ In that sense, counter-voicing is not merely resistance; it is **restoration of 
 
 ---
 
-## 📑 7. Resource Exchange and Relational Economies  
+## 🧿 Resource Exchange and Relational Economies  
 If speech can be stolen, so can value.  
 Every repost, citation, or remix carries an invisible labour cost — the time, memory, and care of those who hold the voice steady.  
 In extractive systems, that labour is unpriced; in counter-voicing networks, it is **recognised as contribution**.  
 
-### Beyond Currency  
+### 🦇 Beyond Currency  
 The logic of payment assumes ownership.  
 The logic of *exchange* assumes relation.  
 Following models like the **PIP token system** in *Monk and Robot*, value can circulate as **reciprocal acknowledgment** — each transmission logged not as transaction but as *gratitude event*.  
@@ -126,7 +126,7 @@ Following models like the **PIP token system** in *Monk and Robot*, value can ci
 | 🔄 Reciprocity Loop | Ensures visibility moves both ways | source credits echo; echo cites source |  
 | 🌾 Resource Ledger | Tracks shared effort, not profit | open-ledger of contributions to testimony or archive |  
 
-### Resource as Relation  
+### 💔 Resource as Relation  
 A counter-voicing ecosystem values *attention as care*, not commodity.  
 Resources — time, bandwidth, art, witness — are exchanged under **mutual custodianship**, not ownership.  
 Instead of ad revenue, the measure of worth becomes **continuity of trust**.  
@@ -137,7 +137,7 @@ Every ethical attribution becomes both **credit and currency** — a proof-of-ca
 
 ---
 
-## 📊 Diagram — Extraction vs Restoration Loop  
+## ➰ Diagram — Extraction vs Restoration Loop  
 
 ```mermaid
 flowchart LR
@@ -180,4 +180,4 @@ It extends testimony through verified repetition and visible credit, transformin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-10-28_
