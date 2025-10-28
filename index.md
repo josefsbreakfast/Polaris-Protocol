@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 07:00:06 UTC_
+_Generated on 2025-10-28 07:12:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1571,6 +1571,8 @@ _Generated on 2025-10-28 07:00:06 UTC_
       - [`🏛️_annex_a_birmingham_pre_litigation.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/🏛️_annex_a_birmingham_pre_litigation.md)
       - [`📬_FOI_request_template_bundle.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/📬_FOI_request_template_bundle.md)
       - [`🕸️_sector_coordination_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/🕸️_sector_coordination_hypothesis.md)
+      - [`🛰️_OSINT_for_Anti_Palestinian_Racism_Detection.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/🛰️_OSINT_for_Anti_Palestinian_Racism_Detection.md)
+      - [`🧩_Diaspora_Repetition_And_Trauma_Informed_Duty.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/🧩_Diaspora_Repetition_And_Trauma_Informed_Duty.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
       - [`🕯️_shabbat_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
