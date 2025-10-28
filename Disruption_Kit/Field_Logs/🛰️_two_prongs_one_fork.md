@@ -14,7 +14,7 @@ i could also list a bunch of character flaws that are essentially ascribed to pe
 
 idk man the nightshift tonight is struggling to make it believable.  
 
-it kinda reads like that one girl/guy in your friendship group who you always knew was a bit cautious/pessimistic, but now you've actually paid attention to the fulness of what theyre saying, and theyre just shitting on everyones parade to make sure you dont make froends at the party they cant go to.  
+it kinda reads like that one girl/guy in your friendship group who you always knew was a bit cautious/pessimistic, but now you've actually paid attention to the fullness of what they're saying, and they're just shitting on everyone's parade to make sure you dont make friends at the party they can't go to.  
 
 once you see it, you cant unsee it. that vibe.  
 
@@ -24,21 +24,21 @@ bingo:
 
 we've got the accusation of the blood-borne virus. ca-ching.  
 
-oh, in case thepeople who've been all over my records have been putting this out there:  
+oh, in case the people who've been all over my records have been putting this out there:  
 
-i don't have hiv, but i do gave antibodies to it; i am one of many people who have contributed to medical trials aimed towards vaccination for transmission.  
+i don't have hiv, but i do have antibodies to it; i am one of many people who have contributed to medical trials aimed towards vaccination for transmission.  
 
 this means i can "look" hiv positive on first draw, but if you serotype me you'll always get a negetive.  
 
-confuses the hell out of anyone who doesnt understand the science and often flags on low-qc automated medical systems.  
+confuses the hell out of anyone who doesn't understand the science and often flags on low-qc automated medical systems.  
 
 anyway;  
 
 you're welcome for my service.  
 
-there also just shouldnt be the stigma around this that continues to endure.  
+there also just shouldn't be the stigma around this that continues to endure.  
 
-people keeo tying hiv and purity, yet don't seem to realise that the children they have *must have come from somewhere*.  
+people keep tying hiv and purity, yet don't seem to realise that the children they have *must have come from somewhere*.  
 
 seriously. you're all so strange.  
 
@@ -54,9 +54,9 @@ we've already had a young woman being "jokenly" forced into a cage, so idk have 
 
 ps to the "why dont you report" crowd:  
 
-i have very obviously tried fir a very long time.  
+i have very obviously tried for a very long time.  
 
-as previously discussed, it us apparently kinda fine to paint slurs on your house, take a chunk out of the front door, surround the house with men who wil engage in sexual harrassment, and tinker in my emails. it is apparently fine to be in allsorts of highly sensitive personal data, interfere with travel, health, education, family life, legal representation, justice, personal banking and work, as well as interfere with telecoms of one's support network. 
+as previously discussed, it is apparently kinda fine to paint slurs on your house, take a chunk out of the front door, surround the house with men who will engage in sexual harrassment, and tinker in my emails. it is apparently fine to be in allsorts of highly sensitive personal data, interfere with travel, health, education, family life, legal representation, justice, personal banking and work, as well as interfere with telecoms of one's support network. 
 
 anything gets justified.  
 
