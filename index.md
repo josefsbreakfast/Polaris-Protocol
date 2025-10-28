@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 23:46:15 UTC_
+_Generated on 2025-10-28 23:47:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -190,6 +190,8 @@ _Generated on 2025-10-28 23:46:15 UTC_
         - [`🚀_start_here.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🚀_start_here.md)
         - [`🤌_nudges_and_biscuits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🤌_nudges_and_biscuits.md)
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
+      - [**🧪_Development_And_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_And_Experimentation/)
+        - [`✨_defeated_by_audit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_And_Experimentation/✨_defeated_by_audit.md)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/README.md)
         - [`frankenstack_bad_sandwich_black.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/frankenstack_bad_sandwich_black.png)
@@ -1630,7 +1632,6 @@ _Generated on 2025-10-28 23:46:15 UTC_
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`✨_defeated_by_audit.md`](Polaris_Nest/Git_Intake_Drawer/✨_defeated_by_audit.md)
     - [`✨_feel_the_fear_and_fight_fascism_anyway.md`](Polaris_Nest/Git_Intake_Drawer/✨_feel_the_fear_and_fight_fascism_anyway.md)
     - [`🌀_ch ↯ ff.md`](Polaris_Nest/Git_Intake_Drawer/🌀_ch ↯ ff.md)
     - [`🌀_containment_under_observation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_containment_under_observation.md)
