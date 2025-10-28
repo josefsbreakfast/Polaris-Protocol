@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 19:43:01 UTC_
+_Generated on 2025-10-28 19:43:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -900,6 +900,7 @@ _Generated on 2025-10-28 19:43:01 UTC_
     - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/🌹_to_the_red_roses.md)
     - [`🍄_every_rule_is_wrong_or_questioned.md`](Disruption_Kit/Field_Logs/🍄_every_rule_is_wrong_or_questioned.md)
     - [`🍉_chatgpt_is_allergic_to_doikeyt.md`](Disruption_Kit/Field_Logs/🍉_chatgpt_is_allergic_to_doikeyt.md)
+    - [`🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png`](Disruption_Kit/Field_Logs/🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Disruption_Kit/Field_Logs/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🍴_heavy_blunt_forking.md`](Disruption_Kit/Field_Logs/🍴_heavy_blunt_forking.md)
     - [`🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md`](Disruption_Kit/Field_Logs/🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md)
@@ -1594,7 +1595,6 @@ _Generated on 2025-10-28 19:43:01 UTC_
     - [`🌿_lawful_illegality_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🌿_lawful_illegality_of_care.md)
     - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
     - [`🌿_wild_type_encounters.md`](Polaris_Nest/Git_Intake_Drawer/🌿_wild_type_encounters.md)
-    - [`🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png`](Polaris_Nest/Git_Intake_Drawer/🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png)
     - [`🍌_project_workaround.md`](Polaris_Nest/Git_Intake_Drawer/🍌_project_workaround.md)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
