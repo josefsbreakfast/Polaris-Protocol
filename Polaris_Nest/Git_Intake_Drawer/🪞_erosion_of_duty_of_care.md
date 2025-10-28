@@ -1,16 +1,16 @@
 # 🪞 Erosion of Duty of Care  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-10-28  
 *How institutions reword responsibility until nothing remains.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Traces the bureaucratic and linguistic strategies that allow universities and contractors to appear compliant while evading moral and legal responsibility for student welfare.  
 Maps the shift from genuine care to *compliance theatre*—a transformation that protects institutions rather than people.
 
 ---
 
-## 📑 Mechanisms of Erosion  
+## 🌋 Mechanisms of Erosion  
 
 1. **Care → Compliance.**  
    Moral duty becomes paperwork. “Safeguarding frameworks” replace empathy with tick-boxes.  
@@ -44,7 +44,7 @@ Maps the shift from genuine care to *compliance theatre*—a transformation that
 
 ---
 
-## 🧩 Counter-Restoration Practices  
+## 🐦‍🔥 Counter-Restoration Practices  
 
 - **Re-moralise governance:** place “care” back in policy titles and performance indicators.  
 - **Single-point accountability:** one named officer responsible for wellbeing and data ethics.  
@@ -63,10 +63,11 @@ Maps the shift from genuine care to *compliance theatre*—a transformation that
 *🪞 Erosion of Duty of Care* is a living node of the **Polaris Protocol**.  
 It documents how duty dissolved into compliance and how restoration requires moral, not merely legal, reform.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧾 Student Data Abuse — The Surveillance of Learning](../🧾_student_data_abuse_—_the_surveillance_of_learning.md)  
 > - [🌀 Surveillance as Self-Fulfilling Cycle](../🌀_surveillance_as_self_fulfilling_cycle.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-10-28_
