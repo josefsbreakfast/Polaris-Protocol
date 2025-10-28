@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 19:41:14 UTC_
+_Generated on 2025-10-28 19:43:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -895,6 +895,7 @@ _Generated on 2025-10-28 19:41:14 UTC_
     - [`🇵🇸_tort_warning.md`](Disruption_Kit/Field_Logs/🇵🇸_tort_warning.md)
     - [`🇺🇸_bro_do_you_even_juristiction.md`](Disruption_Kit/Field_Logs/🇺🇸_bro_do_you_even_juristiction.md)
     - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Disruption_Kit/Field_Logs/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
+    - [`🌋_smooth_as_salt.md`](Disruption_Kit/Field_Logs/🌋_smooth_as_salt.md)
     - [`🌹_moving_plan.md`](Disruption_Kit/Field_Logs/🌹_moving_plan.md)
     - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/🌹_to_the_red_roses.md)
     - [`🍄_every_rule_is_wrong_or_questioned.md`](Disruption_Kit/Field_Logs/🍄_every_rule_is_wrong_or_questioned.md)
@@ -1587,7 +1588,6 @@ _Generated on 2025-10-28 19:41:14 UTC_
     - [`🌀_containment_under_observation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_containment_under_observation.md)
     - [`🌀_self_consuming_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🌀_self_consuming_cycles.md)
     - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🌀_surveillance_as_self_fulfilling_cycle.md)
-    - [`🌋_smooth_as_salt.md`](Polaris_Nest/Git_Intake_Drawer/🌋_smooth_as_salt.md)
     - [`🌪️_field_reconditioning.md`](Polaris_Nest/Git_Intake_Drawer/🌪️_field_reconditioning.md)
     - [`🌱_love_is_antifascist.md`](Polaris_Nest/Git_Intake_Drawer/🌱_love_is_antifascist.md)
     - [`🌺_soft_containment.md`](Polaris_Nest/Git_Intake_Drawer/🌺_soft_containment.md)
