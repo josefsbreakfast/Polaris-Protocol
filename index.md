@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 14:24:49 UTC_
+_Generated on 2025-10-28 15:23:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1582,6 +1582,7 @@ _Generated on 2025-10-28 14:24:49 UTC_
     - [`☕️_the_auntie_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_auntie_algorithm.md)
     - [`♿️_refusing_convenience.md`](Polaris_Nest/Git_Intake_Drawer/♿️_refusing_convenience.md)
     - [`⚖️_algorithmic_apartheid.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_algorithmic_apartheid.md)
+    - [`⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md`](Polaris_Nest/Git_Intake_Drawer/⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md)
     - [`⚡_escalation_triggers_when_hr_fails.md`](Polaris_Nest/Git_Intake_Drawer/⚡_escalation_triggers_when_hr_fails.md)
     - [`⚡️_tempo_differential.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_tempo_differential.md)
     - [`✨_defeated_by_audit.md`](Polaris_Nest/Git_Intake_Drawer/✨_defeated_by_audit.md)
@@ -1705,6 +1706,7 @@ _Generated on 2025-10-28 14:24:49 UTC_
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
+    - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
     - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_device_integrity_and_anti_jailbreak_logic.md)
