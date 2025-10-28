@@ -218,8 +218,25 @@ During the same period as intensified digital harassment, **repeated vehicle pre
 
 ---
 
-## 🧷 Cross‑Links & Tags  
-**Constellations:** 🧿 Watch the Watchers · 👹 Fork Behaviour Containment · 🧬 Interface Leakage  
-**Stardust:** `#special‑category‑data` `#impact‑over‑intent` `#governance‑audit` `#contextual‑harassment`  
-**Repository placement:**  
-`Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts.md`
+## 🌌 Constellations  
+🧿 👹 🧬 ⚠️ — documents covert behavioural scripts and data-linked harms within the Narrative & Psych Ops / Fork Behaviour Containment constellation.
+
+---
+
+## ✨ Stardust  
+special-category data, impact over intent, governance audit, contextual harassment, trauma triggers, recommender systems, metadata fusion, ethical safety
+
+---
+
+## 🏮 Footer  
+
+*⚠️ Anomalous Prompt Typologies — Covert Harm and Data-Linked Scripts* is a living node of the Polaris Protocol.  
+It classifies behavioural prompt patterns that reproduce or imply sensitive-data awareness, supporting ethical-safety and audit investigations into cross-domain harm.  
+
+> 📡 Cross-references:
+> 
+> – [👹 Fork Behaviour Containment Index](./README.md) — behavioural control and narrative distortion nodes  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-28_
