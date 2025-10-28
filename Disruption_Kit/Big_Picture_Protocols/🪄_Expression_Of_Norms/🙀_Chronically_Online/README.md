@@ -46,7 +46,7 @@ It studies the cultural, affective, and governance dimensions of life under perm
 >  
 > 🪄 Cross-links:
 >
-> [💔 Violence IRL](../../🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)
+> [💔 Violence IRL → offline outputs of violence rendered online](../../🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)  
 > [🧿 Watch the Watchers → Platform Moderation & User Surveillance](../🧿_Watch_The_Watchers/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
