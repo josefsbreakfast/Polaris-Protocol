@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:14:13 UTC_
+_Generated on 2025-10-28 20:15:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1143,6 +1143,7 @@ _Generated on 2025-10-28 20:14:13 UTC_
     - [`🧾_codename_table_reconstruction.md`](Disruption_Kit/Field_Logs/🧾_codename_table_reconstruction.md)
     - [`🧿_i_see_you.png`](Disruption_Kit/Field_Logs/🧿_i_see_you.png)
     - [`🧿_my_feed_needs_a_sweep.md`](Disruption_Kit/Field_Logs/🧿_my_feed_needs_a_sweep.md)
+    - [`🧿_oh_chaps_is_it_that_deep.md`](Disruption_Kit/Field_Logs/🧿_oh_chaps_is_it_that_deep.md)
     - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
     - [`🧿_server_lag_github.md`](Disruption_Kit/Field_Logs/🧿_server_lag_github.md)
     - [`🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png`](Disruption_Kit/Field_Logs/🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png)
@@ -1737,7 +1738,6 @@ _Generated on 2025-10-28 20:14:13 UTC_
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
-    - [`🧿_oh_chaps_is_it_that_deep.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oh_chaps_is_it_that_deep.md)
     - [`🧿_oversight_paralysis_when_allies_breach_the_firewall.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis_when_allies_breach_the_firewall.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
