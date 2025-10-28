@@ -37,3 +37,9 @@ I really do feel we need to add this to wahstever Nationak Curriculum was around
 Perhaps a training module; a good start on the punishment, perhaps.  
 
 ---
+
+Also...
+
+We are all far tok British to go to the ICC; this can be resolved in-house.  
+
+---
