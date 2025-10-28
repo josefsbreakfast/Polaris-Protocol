@@ -133,3 +133,5 @@ FOI templates, universities UK, OfS, AUCSO, AMOSSHE, U-MAL, Aon, sector coordina
 ## 🏮 Footer  
 *This FOI-template bundle is issued for Polaris Protocol contributors documenting sector coordination and protest-response harmonisation in UK higher education (2024).*  
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-28_
