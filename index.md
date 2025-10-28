@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 19:34:35 UTC_
+_Generated on 2025-10-28 19:35:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1567,7 +1567,6 @@ _Generated on 2025-10-28 19:34:35 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🍉_Academic_Liberty/**](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/)
-      - [`📬_FOI_request_template_bundle.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/📬_FOI_request_template_bundle.md)
       - [`🕸️_sector_coordination_hypothesis.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/🕸️_sector_coordination_hypothesis.md)
       - [`🛰️_OSINT_for_Anti_Palestinian_Racism_Detection.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/🛰️_OSINT_for_Anti_Palestinian_Racism_Detection.md)
       - [`🧩_Diaspora_Repetition_And_Trauma_Informed_Duty.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/🧩_Diaspora_Repetition_And_Trauma_Informed_Duty.md)
@@ -1970,6 +1969,7 @@ _Generated on 2025-10-28 19:34:35 UTC_
     - [**🍉_Academic_Liberty/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
       - [`🏛️_annex_a_birmingham_pre_litigation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🏛️_annex_a_birmingham_pre_litigation.md)
+      - [`📬_FOI_request_template_bundle.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/📬_FOI_request_template_bundle.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
   - [**🧨_Counter_Nudge_Playbook/**](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/)
     - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
