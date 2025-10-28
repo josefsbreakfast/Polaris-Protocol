@@ -1,5 +1,5 @@
 # ⚡ Escalation Triggers — When HR Fails and Oversight Must Act  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-26 | **Last updated:** 2025-10-28  
 *The hard-threshold moments that convert a misclassified “HR issue” into a protective-security and governance event.*
 
 ---
@@ -11,7 +11,7 @@ Pairs with *🧩 Ideal Whitehall Response Sequence* and *🧿 Oversight Paralysi
 
 ---
 
-## ⚙️ Overview  
+## 🛰️ Overview  
 
 When an incident begins life as an “interpersonal” complaint but crosses evidence or reputational boundaries, the duty to escalate becomes mandatory.  
 These are the moments when bureaucracy loses plausible deniability.
@@ -53,7 +53,7 @@ These are the moments when bureaucracy loses plausible deniability.
 
 ---
 
-## 🧭 Threshold Summary  
+## 🔥 Threshold Summary  
 
 | Trigger Type | Typical Signal | Escalation Path |
 |---------------|----------------|-----------------|
@@ -88,14 +88,15 @@ escalation triggers, oversight, hr failure, ncsc, cabinet office, national secur
 
 ## 🏮 Footer  
 
-*Escalation Triggers — When HR Fails and Oversight Must Act* is a diagnostic node of the **Polaris Protocol**.  
-It identifies the objective points at which interpersonal framing must give way to national-security and governance accountability.  
+*⚡ Escalation Triggers — When HR Fails and Oversight Must Act* is a diagnostic node of the Polaris Protocol.  
+It identifies the hard-threshold points at which interpersonal or HR-framed incidents must be reclassified as national-security and governance events, ensuring escalation to formal oversight mechanisms.  
 
-> 📡 Cross-references:  
-> - [🧩 Ideal Whitehall Response Sequence](./🧩_ideal_whitehall_response_sequence.md)  
-> - [🧿 Oversight Paralysis — When Allies Breach the Firewall](./🧿_oversight_paralysis_when_allies_breach_the_firewall.md)  
-> - [🕰️ Citizen Follow-Up Timeline](./🕰️_citizen_follow_up_timeline.md)  
+> 📡 Cross-references:
+> 
+> – [💫 Containment Logic Index](../💫_Containment_Logic/README.md) — documentation of procedural delay and escalation mechanics  
+> – [🌀 System Governance](../) — structural analysis of oversight and accountability systems  
+> – [🏮 Admin Kit](../../../🏮_Admin_Kit/README.md) — house style and protocol scaffolding  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-10-28_
