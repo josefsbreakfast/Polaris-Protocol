@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 23:17:07 UTC_
+_Generated on 2025-10-28 23:24:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1194,6 +1194,10 @@ _Generated on 2025-10-28 23:17:07 UTC_
     - [`🪼_the_word_is_still_butthurt.md`](Disruption_Kit/Field_Logs/🪼_the_word_is_still_butthurt.md)
     - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
     - [`🫜_divorce_support.md`](Disruption_Kit/Field_Logs/🫜_divorce_support.md)
+  - [**Metadata_Sabotage_Network/**](Disruption_Kit/Metadata_Sabotage_Network/)
+    - [**Structural_Analysis/**](Disruption_Kit/Metadata_Sabotage_Network/Structural_Analysis/)
+      - [**🧬_Structural_Mapping/**](Disruption_Kit/Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
+        - [`⚖️_algorithmic_apartheid.md`](Disruption_Kit/Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_algorithmic_apartheid.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [**📱_Digital_But_Make_It_Secure/**](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
@@ -1626,7 +1630,6 @@ _Generated on 2025-10-28 23:17:07 UTC_
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`⚖️_algorithmic_apartheid.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_algorithmic_apartheid.md)
     - [`⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md`](Polaris_Nest/Git_Intake_Drawer/⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md)
     - [`⚡_escalation_triggers_when_hr_fails.md`](Polaris_Nest/Git_Intake_Drawer/⚡_escalation_triggers_when_hr_fails.md)
     - [`⚡️_tempo_differential.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_tempo_differential.md)
