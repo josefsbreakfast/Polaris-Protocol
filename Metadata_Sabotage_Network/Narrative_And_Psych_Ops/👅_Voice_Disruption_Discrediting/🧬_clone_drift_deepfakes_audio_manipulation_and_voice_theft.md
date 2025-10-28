@@ -1,5 +1,5 @@
 # 🧬 Clone Drift — Deepfakes, Audio Manipulation, and Voice Theft  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-28  
 *How machine synthesis erodes authorship, fractures identity, and exploits the silence of law.*  
 
 ---
@@ -36,7 +36,7 @@ flowchart TD
 
 ---
 
-## 🎙️ I. The Voice as a Living Biometric  
+## 🎙️ The Voice as a Living Biometric  
 
 Every species learns to recognise its own.  
 Primates identify each other by pitch, breath, and rhythm.  
@@ -58,7 +58,7 @@ This mismatch between moral intuition and statutory recognition creates a perfec
 
 ---
 
-## 🧩 II. Mechanisms of Drift  
+## 🧩 Mechanisms of Drift  
 
 | Mechanism | Description | Typical Use-Case |
 |------------|--------------|------------------|
@@ -70,7 +70,7 @@ This mismatch between moral intuition and statutory recognition creates a perfec
 
 ---
 
-## 🔬 III. Forensic Drift and the “It Wasn’t Me” Economy  
+## 🔬 Forensic Drift and the “It Wasn’t Me” Economy  
 
 Once multiple clones exist, every recording becomes suspect.  
 This *It Wasn’t Me Economy* thrives on **plausible untruth**: a smear can circulate freely because both truth and forgery now sound identical.  
@@ -82,7 +82,7 @@ Either way, testimony is neutralised.
 
 ---
 
-## 🧫 IV. Verification & Counter-Forensics  
+## 🧫 Verification & Counter-Forensics  
 
 - **Signal Fingerprinting:** spectral watermarking, phase-space coherence tests, and ML provenance models can expose synthetic artefacts—but only when data pipelines are transparent.  
 - **Cross-Source Sync:** synchronising transcripts, timecodes, and metadata hashes to test whether speech aligns across copies.  
@@ -92,7 +92,7 @@ Either way, testimony is neutralised.
 
 ---
 
-## 🧠 V. Psychological and Ethical Fallout  
+## 🧠 Psychological and Ethical Fallout  
 
 ### Voice Alienation  
 Hearing one’s own voice weaponised detaches the self from its instrument.  
@@ -113,7 +113,7 @@ When every voice can be faked, the system defaults to disbelief—an automated m
 
 ---
 
-## ⚖️ VI. Law, Consent, and the Absence of the Throat  
+## ⚖️ Law, Consent, and the Absence of the Throat  
 
 Modern intellectual-property law protects **expression** only when it is fixed as a *discrete, reproducible work*:  
 a book, a film, a song, a podcast.  
@@ -138,7 +138,7 @@ In legal terms, **the throat is still absent**.
 
 ---
 
-## 🫀 VII. Bodies Once Owned, Voices Newly Sold  
+## 🫀 Bodies Once Owned, Voices Newly Sold  
 
 Across centuries, law has fought—often through blood and rebellion—to disentangle the human body from property.  
 Slavery, indenture, coverture: each declared a person to be someone else’s asset.  
@@ -160,7 +160,7 @@ Recognition—the capacity to say *this is me* and be believed—has become the 
 
 ---
 
-## 🌍 VIII. Evolutionary Continuum and Moral Intuition  
+## 🌍 Evolutionary Continuum and Moral Intuition  
 
 Voice recognition long predates writing.  
 Our species evolved cooperative memory through sound: lullabies, calls, warnings.  
@@ -170,7 +170,7 @@ Voice cloning isn’t merely a technical fraud; it’s an assault on the deep gr
 
 ---
 
-## 🐦‍🔥 IX. Future Frontiers  
+## 🐦‍🔥 Future Frontiers  
 
 - **Auditory Watermark Standards:** embedding micro-temporal fingerprints in every AI-generated voice.  
 - **Voice Sovereignty Registries:** voluntary databases allowing individuals to assert authorship and refuse cloning.  
@@ -209,7 +209,7 @@ flowchart LR
   classDef reinject fill:#e0e0e0,stroke:#333,stroke-width:1px,color:#000;
 ```
 
-### 🔄 Loop Summary
+### ➰ Loop Summary
 
 - 🎙️ Original Voice / Lived Expression — authentic sound and intention.
 - 📥 Data Capture & Scraping — extraction via recordings, apps, or uploads.
@@ -238,4 +238,4 @@ It investigates how synthetic replication dismantles the evidentiary value of so
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-27_
+_Last updated: 2025-10-28_
