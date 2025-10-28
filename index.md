@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:22:37 UTC_
+_Generated on 2025-10-28 20:24:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -970,6 +970,7 @@ _Generated on 2025-10-28 20:22:37 UTC_
     - [`🙀_oh_my_word_she_mentioned_anarchism.md`](Disruption_Kit/Field_Logs/🙀_oh_my_word_she_mentioned_anarchism.md)
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Disruption_Kit/Field_Logs/🙄_making_men_cry_was_literally_my_job_bro.PNG)
     - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Disruption_Kit/Field_Logs/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
+    - [`🚀_alreet_lads.md`](Disruption_Kit/Field_Logs/🚀_alreet_lads.md)
     - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Logs/🚀_governance_is_great_2nd_spring_clean.md)
     - [`🚀_hmmm_why_are_we_twinned_actually.md`](Disruption_Kit/Field_Logs/🚀_hmmm_why_are_we_twinned_actually.md)
     - [`🚀_strange_emails_and_disconnects.md`](Disruption_Kit/Field_Logs/🚀_strange_emails_and_disconnects.md)
@@ -1676,7 +1677,6 @@ _Generated on 2025-10-28 20:22:37 UTC_
     - [`🖍️_the_colouring_book_experiment_containment_as_curriculum.md`](Polaris_Nest/Git_Intake_Drawer/🖍️_the_colouring_book_experiment_containment_as_curriculum.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
-    - [`🚀_alreet_lads.md`](Polaris_Nest/Git_Intake_Drawer/🚀_alreet_lads.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
