@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:00:52 UTC_
+_Generated on 2025-10-28 20:01:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -934,6 +934,7 @@ _Generated on 2025-10-28 20:00:52 UTC_
     - [`👾_coercing_silence_example.png`](Disruption_Kit/Field_Logs/👾_coercing_silence_example.png)
     - [`👾_coercing_silence_example_reupload.PNG`](Disruption_Kit/Field_Logs/👾_coercing_silence_example_reupload.PNG)
     - [`👾_legal_notariety.md`](Disruption_Kit/Field_Logs/👾_legal_notariety.md)
+    - [`👾_more_sexualised_content.png`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.png)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Disruption_Kit/Field_Logs/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_pensions_and_perverts.md`](Disruption_Kit/Field_Logs/👾_pensions_and_perverts.md)
     - [`👾_she_is_strong_but_she_is_really_tired.md`](Disruption_Kit/Field_Logs/👾_she_is_strong_but_she_is_really_tired.md)
@@ -1627,7 +1628,6 @@ _Generated on 2025-10-28 20:00:52 UTC_
     - [`👾_20251028_sexualised_hijack.md`](Polaris_Nest/Git_Intake_Drawer/👾_20251028_sexualised_hijack.md)
     - [`👾_coercing_silence_example.png`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence_example.png)
     - [`👾_lo_the_field_upon_which_i_grow_my_fucks.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_lo_the_field_upon_which_i_grow_my_fucks.PNG)
-    - [`👾_more_sexualised_content.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_more_sexualised_content.PNG)
     - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md`](Polaris_Nest/Git_Intake_Drawer/💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md)
