@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:13:07 UTC_
+_Generated on 2025-10-28 20:14:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1124,6 +1124,7 @@ _Generated on 2025-10-28 20:13:07 UTC_
     - [`🥸_tos_non_compliance_as_stealthing.md`](Disruption_Kit/Field_Logs/🥸_tos_non_compliance_as_stealthing.md)
     - [`🥸_two_men_one_park.md`](Disruption_Kit/Field_Logs/🥸_two_men_one_park.md)
     - [`🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md`](Disruption_Kit/Field_Logs/🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md)
+    - [`🦆_regularly.png`](Disruption_Kit/Field_Logs/🦆_regularly.png)
     - [`🦤_addressing_the_male_pick_me.md`](Disruption_Kit/Field_Logs/🦤_addressing_the_male_pick_me.md)
     - [`🦤_expectations_remain.md`](Disruption_Kit/Field_Logs/🦤_expectations_remain.md)
     - [`🦩_no_cidt_no_glow_up.md`](Disruption_Kit/Field_Logs/🦩_no_cidt_no_glow_up.md)
@@ -1702,7 +1703,6 @@ _Generated on 2025-10-28 20:13:07 UTC_
     - [`🥠_the_machine_confesses_its_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥠_the_machine_confesses_its_feelings.md)
     - [`🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md`](Polaris_Nest/Git_Intake_Drawer/🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md)
     - [`🥮_tonal_soverignity.md`](Polaris_Nest/Git_Intake_Drawer/🥮_tonal_soverignity.md)
-    - [`🦆_regularly.png`](Polaris_Nest/Git_Intake_Drawer/🦆_regularly.png)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
     - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassifying_intellectual_intimacy.md)
