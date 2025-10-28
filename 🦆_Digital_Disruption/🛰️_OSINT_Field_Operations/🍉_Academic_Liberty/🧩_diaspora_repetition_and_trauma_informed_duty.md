@@ -87,6 +87,9 @@ diaspora harm, symbolic repetition, annexation optics, caterpillar/minidigger, P
 ---
 
 ## 🏮 Footer  
-*Diaspora Repetition & Trauma-Informed Duty* documents how campus responses can inadvertently **reproduce the optics of occupation**, causing **predictable harm** to students with Palestinian ties while also requiring care for Israeli students.  
+*🧩 Diaspora Repetition & Trauma-Informed Duty* documents how campus responses can inadvertently **reproduce the optics of occupation**, causing **predictable harm** to students with Palestinian ties while also requiring care for Israeli students.  
 The test is not motive but **foreseeability and proportionality** under equality and safeguarding duties.  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-28_
