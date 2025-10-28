@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 14:22:30 UTC_
+_Generated on 2025-10-28 14:24:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1968,6 +1968,7 @@ _Generated on 2025-10-28 14:22:30 UTC_
     - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
   - [**🪖_Home_Front_2.0/**](🦆_Digital_Disruption/🪖_Home_Front_2.0/)
     - [`README.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md)
+    - [`🌍_why_it_all_matters_shared_epilogue.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🌍_why_it_all_matters_shared_epilogue.md)
     - [`📚_libraries_metrics_and_the_one_book_civic_hack.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/📚_libraries_metrics_and_the_one_book_civic_hack.md)
     - [`🪡_make_and_mend_republic.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪡_make_and_mend_republic.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
