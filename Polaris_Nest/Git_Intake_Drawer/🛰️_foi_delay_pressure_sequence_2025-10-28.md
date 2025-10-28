@@ -22,7 +22,8 @@ Captures the convergence of algorithmic noise (TikTok tarot feed), somatic distr
 - Cognitive read: possible professional or institutional interference intended to destabilise focus before FOI deadline.  
 - Social atmosphere: heightened narrative manipulation around “love story” trope; perceived attempt to re-frame procedural issue as emotional drama.  
 - Environmental factor: lack of accessible housing contributing to chronic stress load and mobility limits.  
-- General inference: escalation coincides with formal data-access activity; likely designed to exhaust or discredit.  
+- General inference: escalation coincides with formal data-access activity; likely designed to exhaust or discredit.
+- Specifically, **significant** uptick in emotional coercion after reporting cybersec comcern via DPO at the most relevant institution; geolocation is however mapping to a seperate instituion who showed unusual FOIA participation when invited. Unclear if party attached to institution or actual institution itself.  
 
 ---
 
