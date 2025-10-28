@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:27:05 UTC_
+_Generated on 2025-10-28 20:27:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1017,6 +1017,7 @@ _Generated on 2025-10-28 20:27:05 UTC_
     - [`🛰️_delay_script_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_delay_script_field_log_2025-09-29.md)
     - [`🛰️_delays_are_violence_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_delays_are_violence_field_log_2025-09-26.md)
     - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](Disruption_Kit/Field_Logs/🛰️_direct_interference_on_clarity_2025-09-11.md)
+    - [`🛰️_disconnects_and_dampening_down.md`](Disruption_Kit/Field_Logs/🛰️_disconnects_and_dampening_down.md)
     - [`🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md`](Disruption_Kit/Field_Logs/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md)
     - [`🛰️_dols_delays_significant_interference.md`](Disruption_Kit/Field_Logs/🛰️_dols_delays_significant_interference.md)
     - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
@@ -1683,7 +1684,6 @@ _Generated on 2025-10-28 20:27:05 UTC_
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
-    - [`🛰️_disconnects_and_dampening_down.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_disconnects_and_dampening_down.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
