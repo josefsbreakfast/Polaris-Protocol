@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:30:49 UTC_
+_Generated on 2025-10-28 20:32:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1025,6 +1025,7 @@ _Generated on 2025-10-28 20:30:49 UTC_
     - [`🛰️_embedded_observers_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/🛰️_embedded_observers_field_log_2025-08-06.md)
     - [`🛰️_entrapment_by_protection_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_entrapment_by_protection_2025-09-27.md)
     - [`🛰️_erasure_of_erasure.md`](Disruption_Kit/Field_Logs/🛰️_erasure_of_erasure.md)
+    - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Disruption_Kit/Field_Logs/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
     - [`🛰️_exhaustion_as_containment_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_exhaustion_as_containment_field_log_2025-09-13.md)
     - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Disruption_Kit/Field_Logs/🛰️_field_log_node_generation_stalling_2025-10-06.md)
     - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Disruption_Kit/Field_Logs/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
@@ -1688,7 +1689,6 @@ _Generated on 2025-10-28 20:30:49 UTC_
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
-    - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
