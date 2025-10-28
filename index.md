@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 19:37:17 UTC_
+_Generated on 2025-10-28 19:38:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1566,8 +1566,6 @@ _Generated on 2025-10-28 19:37:17 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [**🍉_Academic_Liberty/**](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/)
-      - [`🧩_Diaspora_Repetition_And_Trauma_Informed_Duty.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/🧩_Diaspora_Repetition_And_Trauma_Informed_Duty.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
       - [`🕯️_shabbat_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
@@ -1970,6 +1968,7 @@ _Generated on 2025-10-28 19:37:17 UTC_
       - [`📬_FOI_request_template_bundle.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/📬_FOI_request_template_bundle.md)
       - [`🕸️_sector_coordination_hypothesis.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🕸️_sector_coordination_hypothesis.md)
       - [`🛰️_OSINT_for_anti_palestinian_racism_detection.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
+      - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
   - [**🧨_Counter_Nudge_Playbook/**](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/)
     - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
