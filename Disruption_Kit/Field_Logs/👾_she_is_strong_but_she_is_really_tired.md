@@ -17,3 +17,5 @@ I’m pretty gutted that the politics of this means I am worth nothing to anyone
 So many people are effectively blocked from speaking to me and it’s awful.  
 
 It looks like I'm supposed to just run head-first at walls until I have nothing left, and that doesn't feel like a sustainable option for everyone in the same position.  
+
+Oct 27, 2025
