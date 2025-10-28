@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 23:01:08 UTC_
+_Generated on 2025-10-28 23:11:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1256,6 +1256,9 @@ _Generated on 2025-10-28 23:01:08 UTC_
   - [**🔖_Tag_Pack/**](Disruption_Kit/🔖_Tag_Pack/)
     - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
+  - [**🪄_Expression_Of_Norms/**](Disruption_Kit/🪄_Expression_Of_Norms/)
+    - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/)
+      - [`☕_the_auntie_model_of_memetic_transmission.md`](Disruption_Kit/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -1623,7 +1626,6 @@ _Generated on 2025-10-28 23:01:08 UTC_
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`☕️_the_auntie_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_auntie_algorithm.md)
     - [`♿️_refusing_convenience.md`](Polaris_Nest/Git_Intake_Drawer/♿️_refusing_convenience.md)
     - [`⚖️_algorithmic_apartheid.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_algorithmic_apartheid.md)
     - [`⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md`](Polaris_Nest/Git_Intake_Drawer/⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md)
