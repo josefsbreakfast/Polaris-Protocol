@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:27:48 UTC_
+_Generated on 2025-10-28 20:28:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1069,6 +1069,7 @@ _Generated on 2025-10-28 20:27:48 UTC_
     - [`🛰️_microphone_bias_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_microphone_bias_2025-09-20.md)
     - [`🛰️_mind_games_projection_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_mind_games_projection_2025-09-13.md)
     - [`🛰️_missing_new_number_texts.md`](Disruption_Kit/Field_Logs/🛰️_missing_new_number_texts.md)
+    - [`🛰️_more_blockages_and_disconnects.png`](Disruption_Kit/Field_Logs/🛰️_more_blockages_and_disconnects.png)
     - [`🛰️_network_instability_app_behaviour_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_network_instability_app_behaviour_2025-09-16.md)
     - [`🛰️_network_instability_deliberate_forking_hypothesis_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_network_instability_deliberate_forking_hypothesis_2025-09-16.md)
     - [`🛰️_no_sex_no_apartheid.md`](Disruption_Kit/Field_Logs/🛰️_no_sex_no_apartheid.md)
@@ -1689,7 +1690,6 @@ _Generated on 2025-10-28 20:27:48 UTC_
     - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
-    - [`🛰️_more_blockages_and_disconnects.png`](Polaris_Nest/Git_Intake_Drawer/🛰️_more_blockages_and_disconnects.png)
     - [`🛰️_repeated_disconnections_24hrs.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_repeated_disconnections_24hrs.md)
     - [`🛰️_shit_shes_frowning_abort_abort.md.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_shit_shes_frowning_abort_abort.md.PNG)
     - [`🛰️_still_sec_snags.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_still_sec_snags.md)
