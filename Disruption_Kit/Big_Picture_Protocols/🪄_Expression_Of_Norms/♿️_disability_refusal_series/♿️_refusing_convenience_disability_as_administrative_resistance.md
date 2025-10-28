@@ -1,5 +1,5 @@
 # ♿️ Refusing Convenience — Disability as Administrative Resistance  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
+**First created:** 2025-10-25 | **Last updated:** 2025-10-28  
 *When being “inconvenient” becomes both diagnosis and philosophy.*
 
 ---
@@ -12,7 +12,7 @@ Isolation and liberation coexist in that sentence.
 
 ---
 
-## ⚙️ 1 — Disability as the Edge of the Machine  
+## ⚙️ Disability as the Edge of the Machine  
 Industrial and digital capitalism define ability through throughput: what can be done, how quickly, with how little maintenance.  
 Anything that interrupts this rhythm is classed as inefficiency.  
 Thus, disability isn’t a personal deficit — it’s an incompatibility error inside a profit engine.  
@@ -25,7 +25,7 @@ Disabled time is nonlinear, social, cyclical — a different operating system ru
 
 ---
 
-## 🧩 2 — The Refusal–Commodification Loop  
+## 🧩 The Refusal–Commodification Loop  
 
 ```mermaid
 flowchart LR
@@ -39,7 +39,7 @@ The loop never ends, but recognising it gives freedom: once you know that the ma
 
 ---
 
-## 🪞 3 — Historical Cycles of Capture  
+## 🪞 Historical Cycles of Capture  
 | Era | Refusal | Co-optation |  
 |------|----------|-------------|  
 | **Arts & Crafts** | Honour of handwork | Factory-made “craft-style” décor |  
@@ -52,7 +52,7 @@ Every refusal births an industry that imitates its surface.
 
 ---
 
-## 🔄 4 — Commodification Accepted, Authenticity Reclaimed  
+## 🔥 Commodification Accepted, Authenticity Reclaimed  
 Surveillance capitalism means that every emotion, gesture, and piece of metadata becomes extractable.  
 The liberating insight is: *you can’t stop extraction, but you can change your relationship to it.*  
 Once you accept that whatever you make will be commodified, you are free to **make it anyway — on your own terms.**
@@ -62,7 +62,7 @@ You create because creation is a form of being human, not because it escapes the
 
 ---
 
-## 🕰️ 5 — The Disabled Aesthetic of Time  
+## 🕰️ The Disabled Aesthetic of Time  
 Disabled pacing — rest, delay, oscillation, detour — disrupts the industrial fetish for linear improvement.  
 It reminds culture that **care is not a pause from production; it’s the alternative to it.**  
 Every slow or divergent act re-enchants time itself.
@@ -71,7 +71,7 @@ This is why the “inconvenient” often overlaps with joy: slowness makes space
 
 ---
 
-## 🏰 6 — Howl’s Moving Castle as Metaphor  
+## 🏰 Howl’s Moving Castle as Metaphor  
 In *Howl’s Moving Castle*, the house is a patchwork of technologies, magics, and repairs.  
 It lumbers, leaks, and transforms — a disabled architecture.  
 The story’s resolution isn’t industrial triumph; it’s the acceptance of imperfection, mobility, and care as the real magic.  
@@ -82,7 +82,7 @@ That’s disability politics in allegory form: motion through damage, not erasur
 
 ---
 
-## 💡 7 — Political Distinction  
+## 💡 Political Distinction  
 | Axis | Refusal | Co-optation |  
 |-------|----------|-------------|  
 | **Purpose** | Autonomy, interdependence | Profit, control |  
@@ -92,7 +92,7 @@ That’s disability politics in allegory form: motion through damage, not erasur
 
 ---
 
-## 🌿 8 — Liberation in the Loop  
+## 🌿 Liberation in the Loop  
 Knowing that commodification is inevitable can be oddly freeing.  
 You stop guarding your work like property and start treating it as *pollination.*  
 If the machine wants your pollen, let it have it — you’ll still grow the flowers.  
@@ -100,7 +100,7 @@ Refusal then becomes continuous, not singular: an everyday choreography of persi
 
 ---
 
-## ✨ 9 — Reflection  
+## 🐦‍🔥 Reflection  
 Disabled embodiment exposes the illusion of efficiency.  
 It refuses invisibility, productivity, and perfection at once.  
 To live inconveniently is to make time visible again —  
@@ -109,9 +109,23 @@ to prove that worth was never meant to be measured by speed or saleability.
 ---
 
 ## 🌌 Constellations  
-♿️ Disability Justice | 🧠 Survivor Tools | 🧶 Maker Culture | 🏛 System Governance | 🎭 Narrative Ethics | 🪄 Expression of Norms  
+♿️ 🧠 🧶 🏛 🎭 🪄 — maps disability justice, maker culture, and narrative ethics as intertwined refusal systems within the 🪄 Expression of Norms / ♿️ Disability Refusal Series constellation.
 
 ---
 
 ## ✨ Stardust  
-disability-justice, anti-machina, commodification-loop, surveillance-capitalism, arts-and-crafts, maker-culture, refusal-politics, howls-moving-castle, administrative-resistance, liberation-in-the-loop
+disability-justice, anti-machina, commodification-loop, surveillance-capitalism, arts-and-crafts, maker-culture, refusal-politics, howls-moving-castle, administrative-resistance, liberation-in-the-loop  
+
+---
+
+## 🏮 Footer  
+
+*♿️ Refusing Convenience — Disability as Administrative Resistance* is a living node of the Polaris Protocol.  
+It examines disability as both critique and counter-architecture of efficiency, tracing how embodied difference resists commodification and redefines value.  
+
+> 📡 Cross-references: *TBC*  
+  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-28_
