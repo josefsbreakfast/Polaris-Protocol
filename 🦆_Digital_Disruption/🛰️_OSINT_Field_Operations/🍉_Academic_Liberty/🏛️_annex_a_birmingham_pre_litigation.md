@@ -63,7 +63,7 @@ university encampments, protest governance, Birmingham 2024, correspondence barr
 ---
 
 ## 🏮 Footer  
-*Annex A — Birmingham Pre-Litigation Correspondence Record* forms part of the Polaris Protocol’s documentation on protest-governance and institutional response tone.  
+*🏛️ Annex A — Birmingham Pre-Litigation Correspondence Record* forms part of the Polaris Protocol’s documentation on protest-governance and institutional response tone.  
 It records the disconnect between visible attempts at dialogue and formal legal framings of non-engagement.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
