@@ -126,3 +126,7 @@ OSINT, social media, anti-Palestinian racism, harassment, doxxing, archive, ethi
 
 ## 🏮 Footer  
 *This node is a practical guide — not legal advice. It prioritises survivor safety and institutional accountability.*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-28_
