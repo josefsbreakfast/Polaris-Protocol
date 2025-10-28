@@ -12,7 +12,7 @@ Positions eroticisation as a *containment strategy*: a method of rendering truth
 ---
 
 ## ✨ Key Sections  
-💋 Desire as Distraction
+💋 Desire as Distraction  
 🧠 Meta-Censorship Loop — The Pornography of Knowledge  
 💄 The Spectacle of Vulnerability  
 🩸 Gendered and Racialised Fetishism  
