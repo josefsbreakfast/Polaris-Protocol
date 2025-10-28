@@ -94,7 +94,7 @@ It traces how segregated social architectures are re-encoded within algorithmic 
 > 📡 Cross-references:
 > 
 > – [🧬 Structural Mapping Index](./README.md) — systemic topology and architecture analyses  
-> – [🧿 Targeting Logic Metadata](../🧿_Targeting_Logic_Metadata/README.md) — documentation of classification and enforcement pipelines    
+> – [🧿 Targeting Logic Metadata Signatures Index](../🧿_Targeting_Logic_Metadata_Signatures/README.md) — analyses of classification, risk scoring, and enforcement metadata    
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
