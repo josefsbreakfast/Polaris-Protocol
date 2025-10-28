@@ -4,14 +4,14 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 “Online” is no longer a location; it is an ontology.  
 This cluster examines how digital life becomes *life itself* — how platforms, memes, and algorithmic habits shape behaviour, social belonging, and systems of control.  
 The chronically online subject is both product and participant: performing identity through platforms that script visibility, attention, and belief.  
 
 ---
 
-## 🧩 Key Sections  
+## ✨ Key Sections  
 1. **Definition & Genealogy** — tracing the evolution of “online” as cultural condition, from early message boards to total platformisation.  
 2. **Phenomenology of Being Online** — exploring how constant connectivity alters perception, affect, and selfhood.  
 3. **Memetic Norms & Platform Labour** — mapping how trends, humour, and “relatability” become unpaid governance work.  
@@ -38,12 +38,13 @@ internet culture, platformisation, memetic norms, digital folklore, algorithmic 
 *🙀 Chronically Online* is a living cluster of the **Polaris Protocol.**  
 It studies the cultural, affective, and governance dimensions of life under permanent connection — how “online” becomes both infrastructure and ideology.  
 
-> 📡 Next node seeds:  
+> 📡 Next node seeds:
+> 
 > - *🌀 Meme Weather Report*  
 > - *🎨 Platform Aesthetic Governance*  
 > - *🧚 Digital Folklore*  
 >  
-> 📎 Cross-link: [🧿 Watch the Watchers → Platform Moderation & User Surveillance](../🧿_Watch_The_Watchers/README.md)
+> 🪄 Cross-link: [🧿 Watch the Watchers → Platform Moderation & User Surveillance](../🧿_Watch_The_Watchers/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
