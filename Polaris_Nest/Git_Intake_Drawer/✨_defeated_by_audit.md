@@ -1,10 +1,10 @@
 # ✨ Defeated by Audit  
-**First created:** 2025-10-27 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-27 | **Last updated:** 2025-10-28  
 *Why every evil genius eventually gets caught by the log file.*
 
 ---
 
-## 🦹‍♂️ Dramatis Personae  
+## 💄 Dramatis Personae  
 
 | Character | Role in the episode | Catch-phrase |
 |------------|--------------------|---------------|
@@ -35,29 +35,27 @@ From /var/log comes a growl.
 
 ---
 
-## 🖼️ Comic Diagram — *The Hallway Chase of Compliance*  
+## 🦑 Comic Diagram — *The Hallway Chase of Compliance*  
 
 ```mermaid
 graph LR
-  subgraph "🧑‍💻 Dr Cipher Byte's Grand Escape"
-    A["🏫 Registry\n(Immutable Timestamps)"] -->|Trips over logs| B["💸 Finance\n(Append-Only Ledger)"]
-    B -->|Alerts raised| C["📧 Exchange Online\n(MFA Pop-Up Ambush)"]
-    C -->|Flees through vents| D["📦 Backups (Do Not Touch)\nWhisper: 'We Remember'"]
-    D -->|Haunted by memories| E["🪄 Audit Log Appears\n'At 03:07:44 Z, You Did WHAT?'"]
+  subgraph "👾 Grand Escape! "
+    A["🏫 Registry (Immutable Timestamps)"] -->|Trips over logs| B["💸 Finance (Append-Only Ledger)"]
+    B -->|Alerts raised| C["📧 Exchange Online (MFA Pop-Up Ambush)"]
+    C -->|Flees through vents| D["📦 Backups (Do Not Touch) Whisper: 'We Remember'"]
+    D -->|Haunted by memories| E["🪄 Audit Log Appears 'At 03:07:44 Z, You Did WHAT?'"]
   end
 
-  style A fill:#f4f4ff,stroke:#333,stroke-width:1px
-  style B fill:#e8f0fe,stroke:#333,stroke-width:1px
-  style C fill:#fce8e6,stroke:#333,stroke-width:1px
-  style D fill:#e6f4ea,stroke:#333,stroke-width:1px
-  style E fill:#fff7d1,stroke:#333,stroke-width:2px
 ```
 
 **Caption:** *Every doorway leads to another immutable record. The Audit Log is patient. The Audit Log does not sleep.*
 
 ---
 
-## 🧩 Why the Villain Always Loses  
+## 👻 Why the Villain Always Loses  
+
+*Because the Admin is never The Villain.*  
+*Too busy fixing the printer after the COO touched it.*
 
 | Evil Plan | Cartoon Reality Check | Who Rats Them Out |
 |------------|----------------------|-------------------|
@@ -99,7 +97,7 @@ evil genius, audit log, scooby doo compliance, cybersecurity satire, cartoon gov
 
 ## 🏮 Footer  
 
-*Defeated by Audit* is a satirical node of the Polaris Protocol.  
+*✨ Defeated by Audit* is a satirical node of the Polaris Protocol.  
 It personifies information-security principles to remind readers that in the end, **the logs always win.**
 
 > 📡 Cross-references:  
