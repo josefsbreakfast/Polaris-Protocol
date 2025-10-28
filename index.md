@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 17:50:11 UTC_
+_Generated on 2025-10-28 17:52:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1617,6 +1617,7 @@ _Generated on 2025-10-28 17:50:11 UTC_
     - [`🐝_volcanic_rest_theory.md`](Polaris_Nest/Git_Intake_Drawer/🐝_volcanic_rest_theory.md)
     - [`🐣_canaries_and_cassandras.md`](Polaris_Nest/Git_Intake_Drawer/🐣_canaries_and_cassandras.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
+    - [`👾_20251028_sexualised_hijack.md`](Polaris_Nest/Git_Intake_Drawer/👾_20251028_sexualised_hijack.md)
     - [`👾_coercing_silence.md`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence.md)
     - [`👾_coercing_silence_example.PNG`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence_example.PNG)
     - [`👾_coercing_silence_example.png`](Polaris_Nest/Git_Intake_Drawer/👾_coercing_silence_example.png)
