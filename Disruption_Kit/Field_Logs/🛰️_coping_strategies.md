@@ -1,6 +1,6 @@
 the sarcasm is a way of coping.  
 
-squaring up like a small dog against digs teice its size?  
+squaring up like a small dog against dogs twice its size?  
 
 a way of coping.  
 
