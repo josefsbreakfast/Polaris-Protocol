@@ -100,9 +100,10 @@ evil genius, audit log, scooby doo compliance, cybersecurity satire, cartoon gov
 *✨ Defeated by Audit* is a satirical node of the Polaris Protocol.  
 It personifies information-security principles to remind readers that in the end, **the logs always win.**
 
-> 📡 Cross-references:  
-> – [🧿 Watch the Watchers](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/)  
-> – [📋 Protocol Integrity SOP](../Polaris_Nest/protocol_integrity_sop.md)  
+> 📡 Cross-references:
+> 
+> – [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
+ 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+_Last updated: 2025-10-28_
