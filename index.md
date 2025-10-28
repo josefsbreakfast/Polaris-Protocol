@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 05:19:25 UTC_
+_Generated on 2025-10-28 06:53:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1566,6 +1566,8 @@ _Generated on 2025-10-28 05:19:25 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
+    - [**🍉_Academic_Liberty/**](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/)
+      - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🍉_Academic_Liberty/README.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
       - [`🕯️_shabbat_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
