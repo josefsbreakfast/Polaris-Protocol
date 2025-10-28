@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 23:12:49 UTC_
+_Generated on 2025-10-28 23:17:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -462,6 +462,8 @@ _Generated on 2025-10-28 23:12:49 UTC_
         - [`🦕_partition_loop.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
+      - [**♿️_disability_refusal_series/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/♿️_disability_refusal_series/)
+        - [`♿️_refusing_convenience_disability_as_administrative_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/♿️_disability_refusal_series/♿️_refusing_convenience_disability_as_administrative_resistance.md)
       - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/)
         - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/README.md)
@@ -1624,7 +1626,6 @@ _Generated on 2025-10-28 23:12:49 UTC_
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`♿️_refusing_convenience.md`](Polaris_Nest/Git_Intake_Drawer/♿️_refusing_convenience.md)
     - [`⚖️_algorithmic_apartheid.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_algorithmic_apartheid.md)
     - [`⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md`](Polaris_Nest/Git_Intake_Drawer/⚠️_anomalous_prompt_typologies_covert_harm_and_data_linked_scripts_COMPLETE_EXPANDED.md)
     - [`⚡_escalation_triggers_when_hr_fails.md`](Polaris_Nest/Git_Intake_Drawer/⚡_escalation_triggers_when_hr_fails.md)
