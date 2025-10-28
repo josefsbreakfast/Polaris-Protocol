@@ -84,4 +84,6 @@ encampments 2024, protest governance, possession orders, engagement chronology, 
 
 ## 🏮 Footer  
 *🍉 Academic Liberty — Encampments 2024 Mini‑Dossier* is a living hub within Polaris for documenting protest‑response governance in UK higher education.  
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-10-28_
