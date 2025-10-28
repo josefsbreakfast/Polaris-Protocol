@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 20:29:11 UTC_
+_Generated on 2025-10-28 20:30:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1029,6 +1029,7 @@ _Generated on 2025-10-28 20:29:11 UTC_
     - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Disruption_Kit/Field_Logs/🛰️_field_log_node_generation_stalling_2025-10-06.md)
     - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Disruption_Kit/Field_Logs/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
     - [`🛰️_fls_hard_today_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_fls_hard_today_2025-09-16.md)
+    - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Disruption_Kit/Field_Logs/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
     - [`🛰️_foi_sar_silence_reliance.md`](Disruption_Kit/Field_Logs/🛰️_foi_sar_silence_reliance.md)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Disruption_Kit/Field_Logs/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
     - [`🛰️_forensic_thread_analysis_icc_2025-08-07.md`](Disruption_Kit/Field_Logs/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
@@ -1688,7 +1689,6 @@ _Generated on 2025-10-28 20:29:11 UTC_
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
-    - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_shit_shes_frowning_abort_abort.md.PNG`](Polaris_Nest/Git_Intake_Drawer/🛰️_shit_shes_frowning_abort_abort.md.PNG)
