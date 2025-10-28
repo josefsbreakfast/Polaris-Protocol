@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 04:54:20 UTC_
+_Generated on 2025-10-28 04:56:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -613,6 +613,8 @@ _Generated on 2025-10-28 04:54:20 UTC_
         - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
         - [`🪞_safes_shelves_servers.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🪞_safes_shelves_servers.md)
         - [`🪞_the_visibility_trap.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🪞_the_visibility_trap.md)
+      - [**🙀_Chronically_Online/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/README.md)
       - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)
         - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
@@ -1564,7 +1566,6 @@ _Generated on 2025-10-28 04:54:20 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🙀_Chronically_Online/**](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/)
-      - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/README.md)
       - [`🔮_astrology_projected.md`](Polaris_Nest/Git_Intake_Drawer/🙀_Chronically_Online/🔮_astrology_projected.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
