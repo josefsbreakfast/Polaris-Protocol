@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-28 04:45:31 UTC_
+_Generated on 2025-10-28 04:52:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1741,8 +1741,8 @@ _Generated on 2025-10-28 04:45:31 UTC_
     - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪖_moral_injury_and_veterans.md`](Polaris_Nest/Git_Intake_Drawer/🪖_moral_injury_and_veterans.md)
-    - [`🪞_Erosion_of_Duty_of_Care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_Erosion_of_Duty_of_Care.md)
     - [`🪞_algorithmic_reframing.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_reframing.md)
+    - [`🪞_erosion_of_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_erosion_of_duty_of_care.md)
     - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
     - [`🪞_twin_narrative_distortion_loop.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twin_narrative_distortion_loop.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
