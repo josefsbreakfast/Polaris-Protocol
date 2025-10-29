@@ -1,10 +1,10 @@
 # 🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-10-29  
 *When you can’t block the lock, bend the lock-on.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Assumes the primary “receptor” will always be targeted by a well-resourced actor.  
 Shifts from receptor denial to **sensor deception**: shaping how classificatory systems lock, track, and escalate.  
 Combines ligand logic (allosteric bias, sinks) with **radar countermeasures** (chaff, blooms, frequency-hopping, moving-target defence).
@@ -23,7 +23,7 @@ Combines ligand logic (allosteric bias, sinks) with **radar countermeasures** (c
 
 ---
 
-## 📶 2. Frequency-Hopping & Tempo Shaping  
+## 🏝️ 2. Frequency-Hopping & Tempo Shaping  
 Lock-on requires **predictable cadence**. Break it.
 
 - **Hop the venue:** rotate surface touchpoints (newsletter → repo issue → static page → community channel) on a schedule only allies know.  
@@ -43,7 +43,7 @@ Route high-capacity actors into **intake sinks** (FAQ, form, templated reply) th
 
 ---
 
-## 🔀 4. Moving-Target Identity (Same You, Different Lock Surface)  
+## 🪿 4. Moving-Target Identity (Same You, Different Lock Surface)  
 Keep your core identity; rotate the **lock-surfaces** it presents.
 
 - **Context masks:** constant house-style wrapper + predictable front-matter so *substance varies, surface stays flat* (confuses novelty detectors).  
@@ -95,7 +95,7 @@ Choose the one that leaves you **more coherent after contact** and pre-amplify i
 ---
 
 ## 🌌 Constellations  
-🧿 🛰️ 🧪 🪄 — oversight evasion, field signal, experiment, norms.
+🧿 🛰️ 🪿 🧪 🪄 — oversight evasion, field signal, experiment, norms.
 
 ---
 
@@ -108,11 +108,12 @@ chaff, signature management, frequency hopping, honeytokens, intake sinks, tempo
 *🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting* is a living node of the Polaris Protocol.  
 It reframes “can’t stop the lock” situations into sensor-deception problems, using ethical countermeasures to blunt capacity without collateral harm.
 
-> 📡 Cross-references:  
-> – [🧬 Structural Mapping](../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)  
-> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../../Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk_the_acoustic_afterlife_of_derelict_structures.md)  
-> – [🧾 Credibility Logs — The Forensics of Restoration](../../Big_Picture_Protocols/🪄_Expression_Of_Norms/📚_Narrative_Management/🧾_credibility_logs_the_forensics_of_restoration.md)
+> 📡 Cross-references:
+> 
+> – [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)  
+> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk_the_acoustic_afterlife_of_derelict_structures.md)  
+> – [🧾 Credibility Logs — The Forensics of Restoration](../🪄_Expression_Of_Norms/📚_Narrative_Management/🧾_credibility_logs_the_forensics_of_restoration.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-10-29_
