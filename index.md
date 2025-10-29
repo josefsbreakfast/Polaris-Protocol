@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 02:02:11 UTC_
+_Generated on 2025-10-29 06:13:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1036,6 +1036,7 @@ _Generated on 2025-10-29 02:02:11 UTC_
     - [`🛰️_erasure_of_erasure.md`](Disruption_Kit/Field_Logs/🛰️_erasure_of_erasure.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Disruption_Kit/Field_Logs/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
     - [`🛰️_exhaustion_as_containment_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_exhaustion_as_containment_field_log_2025-09-13.md)
+    - [`🛰️_feed_oscillation_spends.md`](Disruption_Kit/Field_Logs/🛰️_feed_oscillation_spends.md)
     - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Disruption_Kit/Field_Logs/🛰️_field_log_node_generation_stalling_2025-10-06.md)
     - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Disruption_Kit/Field_Logs/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
     - [`🛰️_fls_hard_today_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_fls_hard_today_2025-09-16.md)
