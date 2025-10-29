@@ -57,4 +57,31 @@ al nobel, man.
 
 the obvious "out" is *right fucking there*.  
 
+the funniest thing is...  
+
+that would actually, by the grace of the west's own hypocracy...  
+
+be the biggest "fuck you" move you could do.  
+
+and don't worry;  
+
+anything at all that powerful men do, that has any positive impact or beneficial longevity at all, is because:  
+
+- a woman told them to;
+- a woman said it first;
+- thet were trying to impress a specific woman.
+
+usually sone mixture of the 3. 🙄  
+
+
+and that's why every expression of political hypermasculinity fails;  
+
+the system favours equilibrium.  
+
+not unlike, as we have extensively discussed, the principles set forth by le chatelier.  
+
+stop letting the smart kids' team down.  
+
+3.5 does not get that reputation from the structure but from attitude of its fans.  
+
 2025-10-29  
