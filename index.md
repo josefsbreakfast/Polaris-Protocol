@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 20:22:58 UTC_
+_Generated on 2025-10-29 20:26:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1647,6 +1647,7 @@ _Generated on 2025-10-29 20:22:58 UTC_
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
+    - [`⚖️_surveillance_driven_wealth_tort_exposure.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_surveillance_driven_wealth_tort_exposure.md)
     - [`🌀_containment_under_observation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_containment_under_observation.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌀_self_consuming_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🌀_self_consuming_cycles.md)
