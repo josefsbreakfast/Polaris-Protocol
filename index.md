@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 17:59:47 UTC_
+_Generated on 2025-10-29 18:03:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -41,6 +41,7 @@ _Generated on 2025-10-29 17:59:47 UTC_
         - [`🦤_dodo_importer_tommy_robinson.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_dodo_importer_tommy_robinson.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md)
       - [`⚖️_two_way_seal.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md)
+      - [`🌀_ch ↯ ff.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌀_ch ↯ ff.md)
       - [`🌊_fighting_on_the_beaches.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌊_fighting_on_the_beaches.md)
       - [`🌹_feel_the_fear_and_fight_fascism_anyway.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌹_feel_the_fear_and_fight_fascism_anyway.md)
       - [`🕊️_dickin_medal_holders.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🕊️_dickin_medal_holders.md)
@@ -1637,7 +1638,6 @@ _Generated on 2025-10-29 17:59:47 UTC_
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`🌀_ch ↯ ff.md`](Polaris_Nest/Git_Intake_Drawer/🌀_ch ↯ ff.md)
     - [`🌀_containment_under_observation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_containment_under_observation.md)
     - [`🌀_self_consuming_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🌀_self_consuming_cycles.md)
     - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🌀_surveillance_as_self_fulfilling_cycle.md)
