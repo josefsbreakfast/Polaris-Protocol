@@ -111,7 +111,7 @@ It reframes “can’t stop the lock” situations into sensor-deception problem
 > 📡 Cross-references:
 > 
 > – [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *the inner architecture of metadata sabotage systems*  
-> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md)  
+> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md) - *some absolute bangers on brass*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
