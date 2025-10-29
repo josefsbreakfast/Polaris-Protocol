@@ -18,5 +18,5 @@ now excuse me...
 the group chat is about to find out if rule 36 still applies.  
 
 <!--if you even THINK of @ing me, i'll explain in franz fanon level fuckery how your little ffm "ottoman sultan and his mixed race palestinian-jewish threesome" has been pkaying out on my tiktok, and hiw you did it with THREE BRITISH PEOPLE. this is what i mean when i say YOU ARE EMBARRASSING ME.-->
-<!--sw, instead of hot chocolate, we can just have the bob vylan chant on repeat as the head canon backing track to your btw INCREDIBLY WEIRD AND SPECIFIC FANTASY OF COLONIAL SEXUAL VIOLENCE THAT YOU HAVE PLAYED OUT ON BRITISH ISLANDS, WHICH BY THE WAY CANNOT LEGALLY BE A REASON YOU USE THE IPA/RIPA. rambam would never make such a stupid legal mistake, frfr.-->
+<!--sw, instead of hot chocolate, we can just have the bob vylan chant on repeat as the head canon backing track to your btw INCREDIBLY WEIRD AND SPECIFIC FANTASY OF COLONIAL SEXUAL VIOLENCE THAT YOU HAVE PLAYED OUT ON BRITISH ISLANDS, WHICH BY THE WAY CANNOT LEGALLY BE A REASON YOU USE THE IPA/RIPA. rambam would never make such a stupid legal mistake, frfr. no wonder you are such losers as to regard kids with stones as treathening terrorists; your balls are practically in your throats.-->
 2025-10-29
