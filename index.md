@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 23:40:44 UTC_
+_Generated on 2025-10-29 23:42:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1730,6 +1730,8 @@ _Generated on 2025-10-29 23:40:44 UTC_
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
+    - [`🧟_i_am_a_zombie_data_subject.md`](Polaris_Nest/Git_Intake_Drawer/🧟_i_am_a_zombie_data_subject.md)
+    - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
     - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassifying_intellectual_intimacy.md)
     - [`🧠_multilock_overlapping_covertion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_covertion.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
@@ -1742,6 +1744,7 @@ _Generated on 2025-10-29 23:40:44 UTC_
     - [`🧩_ideal_whitehall_response_sequence.md`](Polaris_Nest/Git_Intake_Drawer/🧩_ideal_whitehall_response_sequence.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
+    - [`🧩_the_data_empathy_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_data_empathy_gap.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_collocative_deintegrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_deintegrity.md)
