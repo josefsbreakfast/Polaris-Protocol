@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 06:13:35 UTC_
+_Generated on 2025-10-29 17:56:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1636,13 +1636,13 @@ _Generated on 2025-10-29 06:13:35 UTC_
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
-    - [`✨_feel_the_fear_and_fight_fascism_anyway.md`](Polaris_Nest/Git_Intake_Drawer/✨_feel_the_fear_and_fight_fascism_anyway.md)
     - [`🌀_ch ↯ ff.md`](Polaris_Nest/Git_Intake_Drawer/🌀_ch ↯ ff.md)
     - [`🌀_containment_under_observation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_containment_under_observation.md)
     - [`🌀_self_consuming_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🌀_self_consuming_cycles.md)
     - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🌀_surveillance_as_self_fulfilling_cycle.md)
     - [`🌪️_field_reconditioning.md`](Polaris_Nest/Git_Intake_Drawer/🌪️_field_reconditioning.md)
     - [`🌱_love_is_antifascist.md`](Polaris_Nest/Git_Intake_Drawer/🌱_love_is_antifascist.md)
+    - [`🌹_feel_the_fear_and_fight_fascism_anyway.md`](Polaris_Nest/Git_Intake_Drawer/🌹_feel_the_fear_and_fight_fascism_anyway.md)
     - [`🌺_soft_containment.md`](Polaris_Nest/Git_Intake_Drawer/🌺_soft_containment.md)
     - [`🌿_lawful_illegality_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🌿_lawful_illegality_of_care.md)
     - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
