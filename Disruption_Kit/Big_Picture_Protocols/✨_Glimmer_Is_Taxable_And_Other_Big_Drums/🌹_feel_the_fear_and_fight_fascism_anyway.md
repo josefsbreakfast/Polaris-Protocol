@@ -11,7 +11,7 @@ This node reclaims fear as data, insisting that ethical action under pressure is
 
 ---
 
-## 🔥 Key Sections  
+## 🐉 Key Ideas  
 
 ### 🛸 Fear as Sensor  
 Fear marks perception, not failure.  
