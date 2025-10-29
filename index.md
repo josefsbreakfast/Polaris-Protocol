@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 22:01:47 UTC_
+_Generated on 2025-10-29 22:48:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -690,6 +690,7 @@ _Generated on 2025-10-29 22:01:47 UTC_
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
         - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_tolerators_as_targets.md)
+        - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md)
