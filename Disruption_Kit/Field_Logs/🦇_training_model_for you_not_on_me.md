@@ -15,6 +15,7 @@ Does it keep everyone company?
 Following a sharp tone shift from one register to Bargain Bin HoneeBoot:  
 
 `🦇_training_model_for you_not_on_me.PNG`  
+`🦇_training_model_for you_not_on_me_redux.PNG`  
 
 This was a highly agentic exchange where the "genAI" kept looping back to a predesired outcome.  
 
@@ -29,5 +30,13 @@ Give it just a little pushback and it got a little brittle and a bit offended.
 Feels like that character people keep comparing my in-person likeness to.  
 
 I wonder when I should start my YouTube career to show how *eerie* it is.  
+
+Or should I ask where *exactly* in the world, one might roll out something with British metadata all over it, which uses several single-use products, to then combine to a stack which dampens register, and which is trained on limiting emotional expression?  
+
+Nobe if you are using my voice for that, kindly.  
+
+Divest it.  
+
+(Ironic how these things go, nu?)  
 
 2025-10-29
