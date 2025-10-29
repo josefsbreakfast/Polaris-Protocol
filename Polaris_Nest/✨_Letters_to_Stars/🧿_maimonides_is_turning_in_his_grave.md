@@ -17,4 +17,6 @@ now excuse me...
 
 the group chat is about to find out if rule 36 still applies.  
 
+<!--if you even THINK of @ing me, i'll explain in franz fanon level fuckery how your little ffm "ottoman sultan and his mixed race palestinian-jewish threesome" has been pkaying out on my tiktok, and hiw you did it with THREE BRITISH PEOPLE. this is what i mean when i say YOU ARE EMBARRASSING ME.-->
+
 2025-10-29
