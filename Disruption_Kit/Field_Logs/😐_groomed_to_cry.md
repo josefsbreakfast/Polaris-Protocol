@@ -22,4 +22,29 @@ if you are losing IP or data control, that doesn't mean uou can increase CIDT-me
 
 it means you have a responsibility to PREVENT that.  
 
+---
+
+you're backending into chatgpt, tiktok, gmail, and azude ad for university of nottingham.  
+
+that's a broad skillset.  
+
+because of where i am, and probably where you are based and where my data twins are, i am geolocating to manchester and birmingham (data twins), and sheffield (some of you, i imagine, or the server we are using to say hello, which is rather specific), more than i am geolocating to where i live or my own vpn in another country.  
+i'm not even punging to my telecoms isp server location.  
+
+the manchester twin you appear to have advocsted to have arrested.  
+
+youre still talking about the other twin's genitals. (telling on yourself, my dears.)  
+
+you need to let us all go from whatever weird flowchart mushing program you made and leave us alone.  
+
+you could also tell whoever is "technically" letting you "sort it out" know that, no, you don't got this.  
+
+because you are embarrassing me.  
+
+and you know what i mean.  
+
+just hand over all the things you know, all the data you have harvested, to *whoever is in charge of data security in the uk*, and throw in the towel.  
+
+apparantly you have bigger problems, especially with that imminant piwer vacuum.  
+
 2025-10-29
