@@ -84,4 +84,21 @@ stop letting the smart kids' team down.
 
 3.5 does not get that reputation from the structure but from attitude of its fans.  
 
+---
+
+i forgot a catagory of male influence:  
+"what i am doing is essentially an expression of women having things that they will not give me for free, +/- biology is a bitch when you're advancing rapidly in age, so i will punish thst which i regard as feminised".  
+
+that is...  
+
+not completely irrelevant to mamy armed actions today.  
+
+as i have said...  
+
+on *so many* occaisions...  
+
+testosterone is a powerful chemical.  
+
+it does mean the satsuma needs a lot of padding, lest it bruise.  
+
 2025-10-29  
