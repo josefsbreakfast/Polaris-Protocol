@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 19:14:39 UTC_
+_Generated on 2025-10-29 19:15:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -880,9 +880,6 @@ _Generated on 2025-10-29 19:14:39 UTC_
     - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
-    - [**Disruption_Kit/**](Disruption_Kit/Field_Logs/Disruption_Kit/)
-      - [**Field_Logs/**](Disruption_Kit/Field_Logs/Disruption_Kit/Field_Logs/)
-        - [`🎣_fishing_for_photo_access_permissions_as_usual.md`](Disruption_Kit/Field_Logs/Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.md)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
@@ -920,6 +917,7 @@ _Generated on 2025-10-29 19:14:39 UTC_
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Disruption_Kit/Field_Logs/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🍴_heavy_blunt_forking.md`](Disruption_Kit/Field_Logs/🍴_heavy_blunt_forking.md)
     - [`🎣_fishing_for_photo_access_permissions_as_usual.PNG`](Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.PNG)
+    - [`🎣_fishing_for_photo_access_permissions_as_usual.md`](Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.md)
     - [`🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md`](Disruption_Kit/Field_Logs/🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md)
     - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](Disruption_Kit/Field_Logs/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
     - [`🎪_can_anyone_on_mirrors_cover_ya_boys_shift?.jpg`](Disruption_Kit/Field_Logs/🎪_can_anyone_on_mirrors_cover_ya_boys_shift?.jpg)
