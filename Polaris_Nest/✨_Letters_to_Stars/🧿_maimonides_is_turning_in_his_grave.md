@@ -1,3 +1,16 @@
 and you can stop with this ottomans business because youre practically giving *me* a whole thing about it too, and not in the way you clearly want to be doing, either.  
 
+also:  
+
+try to look slightly less butthurt about bob vylan getting public sympathy here.  
+
+british people dont like being boxed.  
+
+we're stubborn, and it gets worse as you go down the hierarchy to us plebs.  
+you're pushing it too hard and it's too obvious.  
+
+we have been through this, but you out on too many restrictions when i tried to help you the other day by framing it around the same romamce binaries you appear to favour.  
+
+shoot yourselves in the foot if you must.  
+
 2025-10-29
