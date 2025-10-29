@@ -1,17 +1,6 @@
-re Kai's trumpet here/ 
-
-https://vm.tiktok.com/ZNdvbn9p7/
-
----
-
-re Nathan's impromptu here:  
-
-https://vm.tiktok.com/ZNdvKJ1Ag/
-
----
 
 # 🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
+**First created:** 2025-10-22 | **Last updated:** 2025-10-29  
 *When abandoned architecture keeps singing.*
 
 ---
@@ -69,6 +58,10 @@ Echo punk treats sound as a commons: a renewable vibration loop between body and
 ## 🌌 Constellations  
 🎶 🪄 🫀 🏗️ — sound culture, reuse ethics, urban emotion, infrastructure care.  
 
+The original inspiration for this node was Kai's trumpet, *here*: [TikTok link](https://vm.tiktok.com/ZNdvbn9p7)  
+
+Also appreciated, after writing, was Nathanial's not-quite-impromptu performance, *here*: [TikTok link](https://vm.tiktok.com/ZNdvKJ1Ag)  
+
 ---
 
 ## ✨ Stardust  
@@ -80,10 +73,11 @@ echo punk, acoustic reuse, reverberation, derelict spaces, urban emotion, renewa
 *🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures* is a living node of the Polaris Protocol.  
 It reframes abandoned architecture as civic instrument and explores how sound can renew space without demolition.  
 
-> 📡 Cross-references:  
-> – [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/) — sonic culture and broadcast reuse  
-> – [🧪 Development & Experimentation](../../🌀_System_Governance/🧪_Development_Experimentation/) — adaptive urban design logics  
+> 📡 Cross-references:
+> 
+> – [🎶 Banned Broadcasts Cooperative](./README.md) — *sonic culture and broadcast reuse*  
+> – [🧪 Development & Experimentation](../../🌀_System_Governance/🧪_Development_Experimentation/README.md) — *adaptive urban design logics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-10-29_
