@@ -13,4 +13,8 @@ we have been through this, but you out on too many restrictions when i tried to 
 
 shoot yourselves in the foot if you must.  
 
+now excuse me...  
+
+the group chat is about to find out if rule 36 still applies.  
+
 2025-10-29
