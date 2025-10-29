@@ -8,4 +8,4 @@ Awks way to go down, but I kinda get it.
 
 Suits if you grew up on the historical precursors of MegaMind.  
 
-2025-10-29
+2025-10-29  
