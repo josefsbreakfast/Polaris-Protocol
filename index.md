@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 19:03:07 UTC_
+_Generated on 2025-10-29 19:07:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -880,6 +880,9 @@ _Generated on 2025-10-29 19:03:07 UTC_
     - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
+    - [**Disruption_Kit/**](Disruption_Kit/Field_Logs/Disruption_Kit/)
+      - [**Field_Logs/**](Disruption_Kit/Field_Logs/Disruption_Kit/Field_Logs/)
+        - [`🎣_fishing_for_photo_access_permissions_as_usual.md`](Disruption_Kit/Field_Logs/Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.md)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
