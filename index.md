@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 20:33:21 UTC_
+_Generated on 2025-10-29 20:38:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1876,6 +1876,7 @@ _Generated on 2025-10-29 20:33:21 UTC_
     - [`🐀_so_close_to_catching_the_cable_nibbler.md`](Polaris_Nest/✨_Letters_to_Stars/🐀_so_close_to_catching_the_cable_nibbler.md)
     - [`🐎_sovereignty_in_scale.md`](Polaris_Nest/✨_Letters_to_Stars/🐎_sovereignty_in_scale.md)
     - [`🐝_its_supposed_to_break_you.md`](Polaris_Nest/✨_Letters_to_Stars/🐝_its_supposed_to_break_you.md)
+    - [`🐣_regarding_these.md`](Polaris_Nest/✨_Letters_to_Stars/🐣_regarding_these.md)
     - [`🐣_some_days_are_not_great.md`](Polaris_Nest/✨_Letters_to_Stars/🐣_some_days_are_not_great.md)
     - [`💌_for_family_reassurance.md`](Polaris_Nest/✨_Letters_to_Stars/💌_for_family_reassurance.md)
     - [`💌_letters_to_myself.md`](Polaris_Nest/✨_Letters_to_Stars/💌_letters_to_myself.md)
