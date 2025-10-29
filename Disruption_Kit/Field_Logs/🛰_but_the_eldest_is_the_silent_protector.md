@@ -40,6 +40,8 @@ Perhaps a training module; a good start on the punishment, perhaps.
 
 Also...
 
-We are all far tok British to go to the ICC; this can be resolved in-house.  
+We are all far too British to go to the ICC; this can be resolved in-house.  
 
 ---
+
+00:00 update: AI barely usable, multiple disconnects, interpreting prompts completely wildly. Going to rest. x
