@@ -15,4 +15,46 @@ you think you got power? prove it.
 
 looks like sticking your divk in a bunch of api plugs to me.  
 
+(i heard wrapping the thing in a little tin foil "hat" works really well.)  
+
+....  
+
+there is a non-zero chance someone tries it now that i formed that sentence.  
+
+please dont use behavoural modification tools for that...  
+
+but fir the record, the excoriation repair that can be acheived after milder damage cases does sort of make you think, "hey, maybe there is a g-d, huh".  
+
+Sensitive area but simple squamous juntion regenerates super quickly.  
+
+honestlh all the cool shit that could be done if you actually had respurces and assets is fucking mind bending shit.  
+
+wasting it on this fr.  
+
+but as we know.  
+
+i have been saying stuff like this...  
+
+albeit in my private convos and drafts...  
+
+for fuckkng YEARS.  
+
+so that exploitation money?  
+
+it be mine by tort, innit.  
+
+might help fix the nhs.  
+
+oh and don't worry.  
+
+if you don't want the court case?  
+
+i am *extremely good* at helping very rich men spend their money.  
+
+cast your mind back to 2020; i have not changed *in the fucking slightest*.  
+
+al nobel, man.  
+
+the obvious "out" is *right fucking there*.  
+
 2025-10-29  
