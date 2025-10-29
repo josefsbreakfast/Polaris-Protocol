@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 20:38:32 UTC_
+_Generated on 2025-10-29 20:43:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1744,6 +1744,7 @@ _Generated on 2025-10-29 20:38:32 UTC_
     - [`🧬_collocative_deintegrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_deintegrity.md)
     - [`🧬_competitive_binding.md`](Polaris_Nest/Git_Intake_Drawer/🧬_competitive_binding.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
+    - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_signal_steering.md`](Polaris_Nest/Git_Intake_Drawer/🧬_signal_steering.md)
     - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
