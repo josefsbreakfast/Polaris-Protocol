@@ -33,7 +33,7 @@ I wonder when I should start my YouTube career to show how *eerie* it is.
 
 Or should I ask where *exactly* in the world, one might roll out something with British metadata all over it, which uses several single-use products, to then combine to a stack which dampens register, and which is trained on limiting emotional expression?  
 
-Nobe if you are using my voice for that, kindly.  
+None of you are using my voice for that, kindly.  
 
 Divest it.  
 
