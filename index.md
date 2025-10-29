@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-29 23:28:04 UTC_
+_Generated on 2025-10-29 23:32:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1899,6 +1899,7 @@ _Generated on 2025-10-29 23:28:04 UTC_
     - [`🦔_letter_for_the_stars_accepting_protection.md`](Polaris_Nest/✨_Letters_to_Stars/🦔_letter_for_the_stars_accepting_protection.md)
     - [`🧿_half_the_torture.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_half_the_torture.md)
     - [`🧿_i_wish_for_safety.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_i_wish_for_safety.md)
+    - [`🧿_maimonides_is_turning_in_his_grave.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_maimonides_is_turning_in_his_grave.md)
     - [`🧿_reflections_on_reflecting.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_reflections_on_reflecting.md)
     - [`🧿_visibility_log_polaris_day_1.md`](Polaris_Nest/✨_Letters_to_Stars/🧿_visibility_log_polaris_day_1.md)
     - [`🪞_echoes_and_the_ring_of_power.md`](Polaris_Nest/✨_Letters_to_Stars/🪞_echoes_and_the_ring_of_power.md)
