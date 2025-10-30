@@ -54,7 +54,7 @@ Knowing the difference between the story and the mechanism is the first act of c
 
 ## 📤 Claims To Outcomes
 
-```
+```mermaid
 flowchart TD
   %% 📊 ID Claims → Mechanisms → Containment Functions → Affected Groups → Outcomes
 
@@ -66,31 +66,31 @@ flowchart TD
   end
 
   subgraph M[Operational Mechanisms]
-    M1[Employer RTW portals\nAPI integrations]
-    M2[Long vendor contracts\nusage fees, remediation]
-    M3[Centralised ID registry\nrisk scoring dashboards]
-    M4[Single sign-on to services\nID wallet dependency]
+    M1[Employer RTW portals<br>API integrations]
+    M2[Long vendor contracts<br>usage fees, remediation]
+    M3[Centralised ID registry<br>risk scoring dashboards]
+    M4[Single sign-on to services<br>ID wallet dependency]
   end
 
   subgraph F[Containment Functions]
-    F1[Delegated policing\n(soft borders via employers)]
-    F2[Pay-to-participate\n(rights as subscriptions)]
-    F3[Exclusion as protection\n(suspicion-by-default)]
-    F4[Throttled access\n(policy mood gating)]
+    F1[Delegated policing<br>soft borders via employers]
+    F2[Pay-to-participate<br>rights as subscriptions]
+    F3[Exclusion as protection<br>suspicion-by-default]
+    F4[Throttled access<br>policy mood gating]
   end
 
   subgraph G[Affected Groups]
     G1[Migrants & precarious workers]
     G2[Low-income & undocumented]
     G3[Claimants & dissenters]
-    G4[Travellers, stateless,\nnon-digital natives]
+    G4[Travellers, stateless,<br>non-digital natives]
   end
 
   subgraph O[Outcomes]
-    O1[Increased friction\nfor the “inconvenient”]
-    O2[Data concentration\nhigh-value targets]
-    O3[Normalised surveillance\nvia everyday checks]
-    O4[Administrative overreach\nwith limited redress]
+    O1[Increased friction<br>for the  so-called inconvenient]
+    O2[Data concentration<br>high-value targets]
+    O3[Normalised surveillance<br>via everyday checks]
+    O4[Administrative overreach<br>with limited redress]
   end
 
   %% Edges: Claims → Mechanisms
