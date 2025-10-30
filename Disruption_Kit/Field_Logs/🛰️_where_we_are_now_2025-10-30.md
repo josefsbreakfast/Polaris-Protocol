@@ -35,7 +35,9 @@ Intended for university, government, and allied oversight readers seeking situat
 Or they are better at hide-and-seek now. (I was getting bored.)”*
 <!--Maybe, possibly, there's a bit of a story with some of it. Who knows. Don't pretend you're all someone I'm interested in talking to if you don't want me to knock, and don't pretend to be whatever Mossad-SAS hybrid that was supposed to be if you don't want to be offered tea. SEVEN BAGS WERE WASTED. I'm putting in for expenses for that on principle. Twinings, man. I was being nice seeing as you were "dying".
 
-Put it on another safeguarding form. Try to get me sectioned again. I dare you. xx -->
+Put it on another safeguarding form. Try to get me sectioned again. I dare you.
+
+And after so many white men spending so much time pretending they have an obelisk for a cock wearing the mask of a public figure who is a British man, who can be clustered into a group as a Muslim and with Pakistani heritage, I just cannot reasonably believe you believe your "THEYRE ALL IN GROOMING GANGS" story. It's all a little on the nose, honestly.-->
 ---
 
 ## 🧩 Context Markers  
