@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-30 19:50:20 UTC_
+_Generated on 2025-10-30 19:51:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -631,6 +631,7 @@ _Generated on 2025-10-30 19:50:20 UTC_
         - [`🗞️_credibility_corrosion.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🗞️_credibility_corrosion.md)
         - [`🛰️_financial_attrition_as_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🛰️_financial_attrition_as_suppression.md)
         - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
+        - [`🧭_trust_fatigue.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🧭_trust_fatigue.md)
         - [`🪞_safes_shelves_servers.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🪞_safes_shelves_servers.md)
         - [`🪞_the_visibility_trap.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🪞_the_visibility_trap.md)
       - [**🙀_Chronically_Online/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/)
