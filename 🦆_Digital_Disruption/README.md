@@ -1,5 +1,5 @@
 # 🦆 Digital Disruption  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-28 | **Last updated:** 2025-10-30  
 *How to stop systems from eating people — and rewire civic life from below.*
 
 ---
