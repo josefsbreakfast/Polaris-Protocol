@@ -48,7 +48,83 @@ Knowing the difference between the story and the mechanism is the first act of c
 | *Improves security* | Reframes exclusion as protection; embeds suspicion as policy default. |
 | *Modernises services* | Centralises control over identity validation; enables throttled access by policy mood. |
 
-📲 *Each claim hides a behavioural gate — a way to score, delay, or deny participation.*
+📲 *Each claim hides a behavioural gate — a way to score, delay, or deny participation.*  
+
+---
+
+## 📤 Claims To Outcomes
+
+```
+flowchart TD
+  %% 📊 ID Claims → Mechanisms → Containment Functions → Affected Groups → Outcomes
+
+  subgraph C[Government Claims]
+    C1[Simplifies work checks]
+    C2[Saves money]
+    C3[Improves security]
+    C4[Modernises services]
+  end
+
+  subgraph M[Operational Mechanisms]
+    M1[Employer RTW portals\nAPI integrations]
+    M2[Long vendor contracts\nusage fees, remediation]
+    M3[Centralised ID registry\nrisk scoring dashboards]
+    M4[Single sign-on to services\nID wallet dependency]
+  end
+
+  subgraph F[Containment Functions]
+    F1[Delegated policing\n(soft borders via employers)]
+    F2[Pay-to-participate\n(rights as subscriptions)]
+    F3[Exclusion as protection\n(suspicion-by-default)]
+    F4[Throttled access\n(policy mood gating)]
+  end
+
+  subgraph G[Affected Groups]
+    G1[Migrants & precarious workers]
+    G2[Low-income & undocumented]
+    G3[Claimants & dissenters]
+    G4[Travellers, stateless,\nnon-digital natives]
+  end
+
+  subgraph O[Outcomes]
+    O1[Increased friction\nfor the “inconvenient”]
+    O2[Data concentration\nhigh-value targets]
+    O3[Normalised surveillance\nvia everyday checks]
+    O4[Administrative overreach\nwith limited redress]
+  end
+
+  %% Edges: Claims → Mechanisms
+  C1 --> M1
+  C2 --> M2
+  C3 --> M3
+  C4 --> M4
+
+  %% Mechanisms → Containment Functions
+  M1 --> F1
+  M2 --> F2
+  M3 --> F3
+  M4 --> F4
+
+  %% Containment Functions → Affected Groups
+  F1 --> G1
+  F2 --> G2
+  F3 --> G3
+  F4 --> G4
+
+  %% Affected Groups → Outcomes
+  G1 --> O1
+  G2 --> O3
+  G3 --> O4
+  G4 --> O2
+
+  %% Cross-links (illustrate overlap)
+  F1 -.-> G3
+  F3 -.-> G1
+  F4 -.-> G2
+```
+
+> **Legend:**  
+> C = Government Claims → M = Mechanisms → F = Containment Functions → G = Affected Groups → O = Outcomes
 
 ---
 
@@ -67,7 +143,61 @@ are written out of the code or priced back into it.
 
 The lesson from indigenous and liberation struggles is clear:  
 when identity becomes a licence, humanity becomes conditional.  
-Freedom begins again in the refusal to be perfectly documented.
+Freedom begins again in the refusal to be perfectly documented.  
+
+---
+
+## 🌋 Expanding The Snapshot: A Fuller Set of Figures  
+
+### Simplifies Work Checks — Examples  
+
+| Example | Observation |
+|----------|--------------|
+| **Employer “Right to Work” portals (Home Office, 2021–)** | Duplicate existing visa/passport checks; integration failures produce false “no right to work” flags. |
+| **NHS volunteer verification pilot (2022)** | Introduced vendor-run identity brokerage; failure rate hidden under “manual review” category. |
+| **GOV.UK One-Login expansion (2024–)** | Combines tax, benefits, and immigration credentials; each new service adds scope creep and risk of cross-departmental error. |
+| **University onboarding tools** | Use third-party ID verification APIs that store data outside UK jurisdiction. |
+
+🪶 *Pattern:* “simplification” means adding a new intermediary that can charge for confusion.
+
+---
+
+### Saves Money — Examples  
+
+| Example | Observation |
+|----------|--------------|
+| **2006–10 UK ID Card Programme** | Abandoned after £4.5 bn spend; maintenance contracts persisted for years under other names. |
+| **Digital Identity & Attributes Trust Framework (2024)** | Public-private “trust” framework pushes verification fees onto users; no independent cost audit. |
+| **Scotland Digital Wallet Pilot (2023)** | Vendor change orders tripled costs; savings recalculated as “future efficiency potential.” |
+| **Cabinet Office “Spend Controls” reports** | Repeated waivers granted for ID projects despite cost-control rhetoric. |
+
+🪶 *Pattern:* every pound “saved” becomes a future subscription to prove you exist.
+
+---
+
+### Improves Security — Examples  
+
+| Example | Observation |
+|----------|--------------|
+| **HMRC credential breach (2023)** | Single sign-on tokens reused across departments; exposed cross-service identities for months. |
+| **NHS Login reuse for welfare access (2022)** | Expanded attack surface; privacy teams warned of cascading compromise risk. |
+| **Biometric border kiosks** | High false-positive rate for darker skin tones; private contractors hold template data indefinitely. |
+| **Police “digital passport” pilot (Met, 2024)** | Operated without statutory basis; trial data later absorbed into broader analytics pool. |
+
+🪶 *Pattern:* “security” means centralising risk where no one can audit it.
+
+---
+
+### Modernises Public Services — Examples  
+
+| Example | Observation |
+|----------|--------------|
+| **Digital Transformation Dashboard metrics** | Counts successful logins as success; ignores service outcome or citizen satisfaction. |
+| **Local-council ID sync pilots** | Dependent on US-based cloud vendors; data-sovereignty exemptions quietly added to contracts. |
+| **Home Office AI triage tool for visa queues** | Automates profiling under “efficiency”; no public error-rate disclosure. |
+| **Driver & Vehicle Licensing Agency digital shift (2023–)** | Back-end still manual; “modernisation” budget mostly rebranding spend. |
+
+🪶 *Pattern:* modernisation theatre upgrades the poster, not the process.
 
 ---
 
