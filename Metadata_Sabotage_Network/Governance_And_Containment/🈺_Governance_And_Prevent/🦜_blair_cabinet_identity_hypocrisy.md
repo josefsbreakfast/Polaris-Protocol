@@ -1,5 +1,5 @@
 # 🦜 Blair Cabinet Identity Hypocrisy  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-30  
 *Rhetoric of freedom and modernisation versus coercive biometric registry in Blair-era policy.*  
 
 ---
@@ -63,7 +63,7 @@ blair government, new labour, identity cards act, digital id, modernisation, hyp
 
 ## 🏮 Footer  
 
-*Blair Cabinet Identity Hypocrisy* is a living node of the **Polaris Protocol**.  
+*🦜 Blair Cabinet Identity Hypocrisy* is a living node of the **Polaris Protocol**.  
 It examines how political branding of liberty and modernisation concealed coercive biometric policy — setting precedent for later digital identity capture.  
 
 > 📡 Cross-references:
@@ -74,4 +74,4 @@ It examines how political branding of liberty and modernisation concealed coerci
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-30_
