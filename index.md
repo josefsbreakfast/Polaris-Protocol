@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-30 19:39:15 UTC_
+_Generated on 2025-10-30 19:49:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -627,6 +627,7 @@ _Generated on 2025-10-30 19:39:15 UTC_
         - [`💼_lobbying_stakeholder_notes.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💼_lobbying_stakeholder_notes.md)
         - [`📰_dsma_notices_and_atrocity_risk_reporting.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📰_dsma_notices_and_atrocity_risk_reporting.md)
         - [`📺_contractors_vs_media_clusters.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📺_contractors_vs_media_clusters.md)
+        - [`🗞️_clone_newsrooms.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🗞️_clone_newsrooms.md)
         - [`🛰️_financial_attrition_as_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🛰️_financial_attrition_as_suppression.md)
         - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
         - [`🪞_safes_shelves_servers.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🪞_safes_shelves_servers.md)
