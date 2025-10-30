@@ -1,57 +1,52 @@
-# 📥 Git Intake Drawer  
-
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05
-
-*⚠️ This is an unorganised drafting space. Files here are not final, not polished, and may contain unintended disclosures.*  
+# 🧟‍♀️ Zombie Data Cluster — Behavioural Containment, Cohort Logic & Recourse Loops
+**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
+*How UK data never dies: from capture to “necessary & proportionate,” back again.*
 
 ---
 
-# 🚨🚨🚨 WARNING 🚨🚨🚨  
-**DRAFT SPACE ONLY — NOT FINAL.**  
-Contents of this folder are:  
-- Raw notes and fragments.  
-- Unrefined, unstructured, and unverified.  
-- Subject to change, correction, or removal at any time.  
-
-👉 Nothing here should be treated as a final Polaris Protocol node.  
-👉 Transparency is the reason this drawer exists, not endorsement of its content.  
+## 🧭 Orientation  
+This cluster maps how UK governance architectures metabolise data: **capture → exemption → cohorting → behavioural routing → containment → recourse → model reintegration**.  
+It unites mechanics (lawful bases, security exemptions), behaviour (nudge & placement), and remedy (ICO/JR/IPT/tort), while preserving survivor undertone per Polaris drafting rules.
 
 ---
 
-## Purpose  
-The **Git Intake Drawer** is **deliberately messy**.  
-- Files here are **drafts only**.  
-- Contents may include **errors, fragments, or sensitive material**.  
-- Nothing here should be assumed stable, final, or “official Polaris.”  
+## 🔁 Lifecycle Ring (Mermaid)
 
-This drawer exists for **transparency** — to capture raw writing — but it also carries the **highest risk of unintended disclosure**.  
+```mermaid
+flowchart LR
+  A([CAPTURE<br/>(Vetting / Prevent / Welfare / HE)]) -->|"necessary & proportionate"| B([EXEMPTION<br/>(DPA Pt3/4, OSA, NS certificate)])
+  B -->|cohort indices| C([COHORTING<br/>(statistical persistence)])
+  C -->|choice architecture| D([BEHAVIOURAL ROUTING<br/>(nudge / placement)])
+  D -->|soft steering| E([CONTAINMENT<br/>(supportive / adaptive)])
+  E -->|complaints & audits| F([RECOURSE<br/>(ICO / JR / IPT / Tort)])
+  F -->|anonymise / pseudonymise| G([REINTEGRATION<br/>(model / research archive)])
+  G -->|legacy lawful basis| A
+  classDef ring fill:#fff,stroke:#000,stroke-width:1px;
+  class A,B,C,D,E,F,G ring;
+```
+
+**Reading:** each transition is narrated as “necessary & proportionate,” the phrase that powers the loop. When recourse occurs, outcomes (even partial) often **reintegrate** as training material.
+
+---
+
+## 📂 Cluster Contents  
+- **🧟‍♀️ Zombie Data & Population Targeting** — the full seven-layer analysis (mechanics + phenomenology).  
+- **🧠 Behavioural Nudge as Containment** — how BIT/Prevent/placement convert choice into capture.  
+- **⚖️ Recourse for Behavioural Containment** — escalation corridor and systemic/cohort exposure.
 
 ---
 
-## Use  
-- Add files freely without worrying about style or structure.  
-- Prefix every draft filename with an underscore `_` to mark it as intake.  
-- When a draft stabilises, follow the [Refinement Ritual](./_refinement_ritual.md) to move it out.  
+## 📡 Cross-References  
+- [⚖️ Vetting as Data Capture](../⚖️_vetting_as_data_capture.md)  
+- [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../../Polaris_Nest/🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
+- [🔮 House Style](../../Polaris_Nest/🏮_Admin_Kit/🔮_house_style.md)  
 
 ---
 
-## Risks & Acknowledgement  
-⚠️ **Important:**  
-- Drafts may expose details not intended for permanent record.  
-- External interference or purge attempts may leave traces here.  
-- Transparency is valuable, but this drawer is the **least shielded zone** in the Polaris Nest.  
-
----
+## 🌌 Constellations  
+🧿 🧟‍♀️ ⚖️ 🧠 🔮 — Diagnostic ring for residual governance + behavioural containment.
 
 ## 🏮 Footer  
-
-*Git Intake Drawer* is a living node of the Polaris Protocol.  
-It provides an unstructured drafting zone, balancing transparency with the risk of unintended disclosure.  
-
-> 📡 Cross-references:  
-> - [Admin Kit](../admin_kit/) — house style and scaffolding for refining drafts  
-> - [Polaris Nest](../) — home directory for all organised nodes  
-
+*🧟‍♀️ Zombie Data Cluster* is a living constellation of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2025-09-05_
+_Last updated: 2025-10-30_
