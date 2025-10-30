@@ -77,7 +77,7 @@ bias, classification, surveillance, gender, neurodivergence, risk assessment, bu
 It documents how institutional ignorance is recast as vigilance and how difference becomes evidence.  
 
 > 📡 Cross-references:  
-
+>
 > - [🧠 Smart Women Get Surveillance](./🧠_smart_women_get_surveillance.md) — *gendered misclassification*  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic continuum*  
 
