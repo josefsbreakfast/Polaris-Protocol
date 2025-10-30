@@ -79,7 +79,7 @@ bias, misunderstanding, surveillance, epistemic violence, bureaucracy, classific
 It documents how confusion becomes codified as risk and why reflective systems must learn to doubt themselves.  
 
 > 📡 Cross-references:  
-
+>
 > - [🪞 The MUU Class](./🪞_the_muu_class.md) — *bias and misclassification*  
 > - [🧠 Smart Women Get Surveillance](./🧠_smart_women_get_surveillance.md) — *gendered misclassification*  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic continuum*  
