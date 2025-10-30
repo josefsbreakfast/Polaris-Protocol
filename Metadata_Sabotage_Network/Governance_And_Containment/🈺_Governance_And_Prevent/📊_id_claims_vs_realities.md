@@ -147,6 +147,36 @@ Freedom begins again in the refusal to be perfectly documented.
 
 ---
 
+## 🪶 Sumūd — Steadfastness as Indigenous Resistance  
+
+Across Palestine, the word *sumūd* means **steadfastness** — the daily, deliberate act of remaining rooted on the land despite displacement, surveillance, and bureaucratic siege.  
+It is not merely endurance; it is refusal with rhythm.  
+
+Sumūd transforms waiting into presence.  
+A family rebuilding the same house after each demolition,  
+a farmer tending olives beside a new wall,  
+a student continuing class while her internet is throttled —  
+each is a coordinate of resistance,  
+a reminder that existence itself can be an argument.
+
+In governance terms, *sumūd* is the inversion of the ID logic.  
+Where digital systems demand verification to prove worthiness,  
+sumūd asserts worth through continuity.  
+It treats belonging as relational, not transactional —  
+anchored in community, care, and soil rather than in state-issued numbers.
+
+Authoritarian power fears this form of proof because it cannot revoke it.  
+You cannot cancel a people’s capacity to remain.  
+You cannot delete an ethic that regenerates through practice.
+
+As the old ID projects sought to number the “of the land” out of history,  
+sumūd re-numbers history from below —  
+a ledger written in footsteps, harvests, and shared breath.  
+It is what governance forgets:  
+that the opposite of control is not chaos, but trust.  
+
+---
+
 ## 🌋 Expanding The Snapshot: A Fuller Set of Figures  
 
 ### Simplifies Work Checks — Examples  
