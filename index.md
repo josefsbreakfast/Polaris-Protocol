@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-30 20:58:00 UTC_
+_Generated on 2025-10-30 21:08:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1175,6 +1175,7 @@ _Generated on 2025-10-30 20:58:00 UTC_
     - [`🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md)
     - [`🛰️_weird_guardrails.png`](Disruption_Kit/Field_Logs/🛰️_weird_guardrails.png)
     - [`🛰️_what_bakwaas_is_this_continued.PNG`](Disruption_Kit/Field_Logs/🛰️_what_bakwaas_is_this_continued.PNG)
+    - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/🛰️_where_we_are_now_2025-10-30.md)
     - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Disruption_Kit/Field_Logs/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
     - [`🛰️_white_men_being_white_men.md`](Disruption_Kit/Field_Logs/🛰️_white_men_being_white_men.md)
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Disruption_Kit/Field_Logs/🛰️🙄_stop_changing_gits_field_note.md)
