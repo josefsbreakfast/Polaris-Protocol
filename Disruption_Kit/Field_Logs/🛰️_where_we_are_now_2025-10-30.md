@@ -33,7 +33,9 @@ Intended for university, government, and allied oversight readers seeking situat
 
 *“And we have significantly decreased number of not-very-secret policemen in the vicinity.  
 Or they are better at hide-and-seek now. (I was getting bored.)”*
+<!--Maybe, possibly, there's a bit of a story with some of it. Who knows. Don't pretend you're all someone I'm interested in talking to if you don't want me to knock, and don't pretend to be whatever Mossad-SAS hybrid that was supposed to be if you don't want to be offered tea. SEVEN BAGS WERE WASTED. I'm putting in for expenses for that on principle. Twinings, man. I was being nice seeing as you were "dying".
 
+Put it on a safeguarding form. I dare you. xx -->
 ---
 
 ## 🧩 Context Markers  
