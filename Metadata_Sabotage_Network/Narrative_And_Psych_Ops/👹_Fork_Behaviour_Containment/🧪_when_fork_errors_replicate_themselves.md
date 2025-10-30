@@ -1,5 +1,5 @@
 # 🧪 Hypothesis Cascade — When Fork Errors Replicate Themselves
-**First created:** 2025-10-10 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-10 | **Last updated:** 2025-10-30  
 *Recursive anomalies and chain-reaction containment.*
 
 ---
@@ -45,11 +45,11 @@ Replication increases authority: every repetition makes the falsehood harder to 
 
 ```mermaid
 flowchart TD
-  A[E₀ — Seed Error] --> B[Replication Layer 1<br>(Local Cache)]
-  B --> C[Replication Layer 2<br>(Cross-System Export)]
-  C --> D[Replication Layer 3<br>(External Reporting)]
+  A[E₀ — Seed Error] --> B[Replication Layer 1<br>Local Cache]
+  B --> C[Replication Layer 2<br>Cross-System Export]
+  C --> D[Replication Layer 3<br>External Reporting]
   D --> E[Public Policy or Media Narrative]
-  E --> F[Feedback Reinforcement<br>(Re-import to Source)]
+  E --> F[Feedback Reinforcement<br>Re-import to Source]
   F --> A
   style A fill:#ffe0e0,stroke:#ff7f7f
   style F fill:#e0f0ff,stroke:#7fbfff
@@ -98,4 +98,4 @@ It demonstrates how falsehoods multiply inside containment systems and offers a 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-27_
+_Last updated: 2025-10-30_
