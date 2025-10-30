@@ -37,7 +37,9 @@ Or they are better at hide-and-seek now. (I was getting bored.)”*
 
 Put it on another safeguarding form. Try to get me sectioned again. I dare you.
 
-And after so many white men spending so much time pretending they have an obelisk for a cock wearing the mask of a public figure who is a British man, who can be clustered into a group as a Muslim and with Pakistani heritage, I just cannot reasonably believe you believe your "THEYRE ALL IN GROOMING GANGS" story. It's all a little on the nose, honestly.-->
+And after so many white men spending so much time pretending they have an obelisk for a cock wearing the mask of a public figure who is a British man, who can be clustered into a group as a Muslim and with Pakistani heritage, I just cannot reasonably believe you believe your "THEYRE ALL IN GROOMING GANGS" story. It's all a little on the nose, honestly.
+
+It also suggests you can't read numbers in simple strings, or use ratios. I could go on, but at 900k, I sort of hope the point is beginning to land.-->
 ---
 
 ## 🧩 Context Markers  
