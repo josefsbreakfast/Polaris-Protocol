@@ -51,8 +51,7 @@ flowchart TD
   D --> E[Public Policy or Media Narrative]
   E --> F[Feedback Reinforcement<br>Re-import to Source]
   F --> A
-  style A fill:#ffe0e0,stroke:#ff7f7f
-  style F fill:#e0f0ff,stroke:#7fbfff
+
 ```
 
 The diagram shows the recursive loop where the externalised error feeds back into the source as validation — the full *containment cascade.*
