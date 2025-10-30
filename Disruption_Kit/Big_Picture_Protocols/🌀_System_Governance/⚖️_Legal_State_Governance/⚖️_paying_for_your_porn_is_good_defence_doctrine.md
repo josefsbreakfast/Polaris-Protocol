@@ -1,9 +1,11 @@
 # ⚖️ Paying for Your Porn Is Good Defence Doctrine  
 **First created:** 2025-10-30 | **Last updated:** 2025-10-30  
-*How the “woke” concern sang UK–NATO–EU defence relations to sleep*  
+*How the “woke” concern sang UK–NATO–EU defence relations to sleep.*  
 
-> *British men, once again, being undone by their love of bossy women.*  
+> *British men, once again, being undone by their love of bossy women.*
 
+<!--British men, once again, allowing their unacknowledged desires to put global security at risk.
+Typical Thursday.-->
 ---
 
 ## 🛰️ Orientation  
