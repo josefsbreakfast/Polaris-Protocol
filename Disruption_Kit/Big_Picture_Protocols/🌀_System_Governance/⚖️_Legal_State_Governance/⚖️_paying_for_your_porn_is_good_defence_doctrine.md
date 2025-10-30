@@ -4,7 +4,7 @@
 
 > *British men, once again, being undone by their love of bossy women.*
 
-<!--British men, once again, allowing their unacknowledged desires to put global security at risk.
+<!--British men, once again, allowing their unacknowledged desires to create a global security crisis.
 Typical Thursday.-->
 ---
 
