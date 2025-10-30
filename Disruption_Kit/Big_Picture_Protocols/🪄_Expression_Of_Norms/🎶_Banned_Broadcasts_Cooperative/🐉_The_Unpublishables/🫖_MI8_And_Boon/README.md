@@ -13,7 +13,7 @@ The “MI8 & Boon” label refers to the informal evening-shift habit at GCHQ an
 
 ---
 
-## 🧩 Contents  
+## 🌷 Contents  
 
 | Node | Summary |
 |------|----------|
