@@ -17,7 +17,7 @@
 
 ---
 
-## 💠 Why This Matters  
+## 🔥 Why This Matters  
 
 Because identity infrastructure defines who is legible to the state — and who is not.  
 Because every “efficiency upgrade” becomes a **new perimeter of exclusion**.  
@@ -39,7 +39,7 @@ Knowing the difference between the story and the mechanism is the first act of c
 
 ---
 
-## 🧩 Containment Function Map  
+## 🧿 Containment Function Map  
 
 | **Claimed Benefit** | **Containment Function** |
 |----------------------|--------------------------|
@@ -48,7 +48,7 @@ Knowing the difference between the story and the mechanism is the first act of c
 | *Improves security* | Reframes exclusion as protection; embeds suspicion as policy default. |
 | *Modernises services* | Centralises control over identity validation; enables throttled access by policy mood. |
 
-🧭 *Each claim hides a behavioural gate — a way to score, delay, or deny participation.*
+📲 *Each claim hides a behavioural gate — a way to score, delay, or deny participation.*
 
 ---
 
