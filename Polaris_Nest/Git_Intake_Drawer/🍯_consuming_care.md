@@ -59,15 +59,15 @@ The pair stood astride it: partly public, partly private.
 Handfasting, canopy, doorway crossing—all created a **refuge through ritual architecture**.  
 
 ---
-
+```
     [Community]
          │
  ┌───────┴────────┐
- │  The Gate / Rite  │
+ │  The Gate/Rite │
  └───────┬────────┘
          │
      [The Pair]  
-
+```
 ---
 
 | Zone | Description | Function |
