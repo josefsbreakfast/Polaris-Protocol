@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-30 12:29:31 UTC_
+_Generated on 2025-10-30 12:30:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1747,6 +1747,7 @@ _Generated on 2025-10-30 12:29:31 UTC_
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_device_integrity_and_anti_jailbreak_logic.md)
     - [`🧩_ideal_whitehall_response_sequence.md`](Polaris_Nest/Git_Intake_Drawer/🧩_ideal_whitehall_response_sequence.md)
+    - [`🧩_meta_containment_and_exploited_breakpoints.md`](Polaris_Nest/Git_Intake_Drawer/🧩_meta_containment_and_exploited_breakpoints.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
     - [`🧩_the_data_empathy_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_data_empathy_gap.md)
