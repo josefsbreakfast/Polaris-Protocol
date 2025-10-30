@@ -76,7 +76,7 @@ It documents how institutional bias transforms female intellect into anomaly and
 
 > 📡 Cross-references:  
 
-> - [🪞 The MUU Class](./the_muu_class.md) — *bias and misclassification*  
+> - [🪞 The MUU Class](./🪞_the_muu_class.md) — *bias and misclassification*  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic continuum*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
