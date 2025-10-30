@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-30 00:00:47 UTC_
+_Generated on 2025-10-30 00:02:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -981,6 +981,7 @@ _Generated on 2025-10-30 00:00:47 UTC_
     - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/🗒️_conversation_drift_and_anchors.md)
     - [`😐.md`](Disruption_Kit/Field_Logs/😐.md)
     - [`😐_groomed_to_cry.md`](Disruption_Kit/Field_Logs/😐_groomed_to_cry.md)
+    - [`😐_stop_embarrassing_me_big_brother.PNG`](Disruption_Kit/Field_Logs/😐_stop_embarrassing_me_big_brother.PNG)
     - [`😐_stop_embarrassing_me_big_brother.md`](Disruption_Kit/Field_Logs/😐_stop_embarrassing_me_big_brother.md)
     - [`😒_x_rated_dementors.md`](Disruption_Kit/Field_Logs/😒_x_rated_dementors.md)
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
