@@ -1,5 +1,5 @@
 # ❌ The “Nothing To Hide” Fallacy  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-30  
 *Critique of the common defence of identity systems: “if you’re not doing anything wrong, you have nothing to fear.”*  
 
 ---
@@ -157,7 +157,7 @@ surveillance, digital identity, nothing to hide, fallacy, containment, coercive 
 
 ## 🏮 Footer  
 
-*The “Nothing To Hide” Fallacy* is a living node of the **Polaris Protocol**.  
+*❌ The “Nothing To Hide” Fallacy* is a living node of the **Polaris Protocol**.  
 It documents how surveillance regimes weaponise moral rhetoric to legitimise coercive identification systems and erase the right to opacity — often culminating in physical and psychological harm before due process begins.  
 
 > 📡 Cross-references:
@@ -168,4 +168,4 @@ It documents how surveillance regimes weaponise moral rhetoric to legitimise coe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-30_
