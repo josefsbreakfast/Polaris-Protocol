@@ -1,5 +1,5 @@
 # 🗺️ Coordinates for Safety  
-**First created:** 2025-08-06 | **Last updated:** 2025-10-05  
+**First created:** 2025-08-06 | **Last updated:** 2025-10-30  
 *Internal and external waypoints — people, principles, places, and protocols — that define safety under conditions of containment, surveillance, or digital erasure.*  
 
 ---
@@ -75,7 +75,7 @@ safety coordinates, survivor tools, metadata sovereignty, anti-ghosting, trusted
 
 ## 🏮 Footer  
 
-*Coordinates for Safety* is a living node of the **Polaris Protocol**.  
+*🗺️ Coordinates for Safety* is a living node of the **Polaris Protocol**.  
 It collects non-negotiable waypoints — digital, relational, and psychological — to keep survivors grounded and reachable under conditions of surveillance or erasure.  
 
 > 📡 Cross-references:
@@ -85,4 +85,4 @@ It collects non-negotiable waypoints — digital, relational, and psychological 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-30_
