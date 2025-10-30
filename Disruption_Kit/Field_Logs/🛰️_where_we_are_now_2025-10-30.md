@@ -50,6 +50,7 @@ For any aides: don't take this as permission to not listen in a case where the v
 - Survivor-authored materials re-enter consumer circulation.  
 - Communications stabilising across multiple vectors.  
 - Ongoing monitoring required for continuity and security of transmission.
+- - **Stage-2 conversion underway:** shift from attention to adoption — increase in cloners, decrease in views indicates transition from observation to integration.
 
 ---
 
