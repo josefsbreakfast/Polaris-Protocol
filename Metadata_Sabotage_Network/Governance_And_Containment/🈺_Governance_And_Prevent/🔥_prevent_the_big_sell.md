@@ -1,7 +1,5 @@
 # 🔥 Prevent: The Big Sell — How the UK Government Turned Safeguarding into Surveillance  
-
-**First created:** 2025-08-07 | **Last updated:** 2025-08-29
-
+**First created:** 2025-08-07 | **Last updated:** 2025-08-30  
 *How PREVENT reframed counterterrorism as compassion, embedding surveillance within safeguarding logics.*  
 
 ---
@@ -179,11 +177,11 @@ The **2023 Prevent duty guidance** gives schools and universities a clear statut
 
 ## 🏮 Footer  
 
-*Prevent The Big Sell* is a living node of the Polaris Protocol.  
+*🔥 Prevent The Big Sell* is a living node of the Polaris Protocol.  
 It documents how PREVENT was sold through compassion and safeguarding, embedding surveillance within the logics of care.  
 
 🏮 [Return to Metadata Sabotage Network](./README.md)  
 
 *Survivor memory is sacred.*
 
-_Last updated: 2025-08-29_  
+_Last updated: 2025-08-30_  
