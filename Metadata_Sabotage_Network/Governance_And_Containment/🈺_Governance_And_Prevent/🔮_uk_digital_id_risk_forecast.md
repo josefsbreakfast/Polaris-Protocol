@@ -1,5 +1,5 @@
 # 🔮 UK Digital ID Risk Forecast  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-30  
 *Projected risks if the UK government revives a digital ID scheme, drawing on 2000s precedent and global trend data.*  
 
 ---
@@ -105,7 +105,7 @@ digital identity, uk, identity cards, biometrics, migration control, data risk, 
 
 ## 🏮 Footer  
 
-*UK Digital ID Risk Forecast* is a living node of the **Polaris Protocol**.  
+*🔮 UK Digital ID Risk Forecast* is a living node of the **Polaris Protocol**.  
 It projects the next wave of UK digital-identity risks by analysing prior system collapse, vendor persistence, and the structural vulnerabilities of legacy government IT.  
 
 > 📡 Cross-references:
@@ -118,4 +118,4 @@ It projects the next wave of UK digital-identity risks by analysing prior system
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-30_
