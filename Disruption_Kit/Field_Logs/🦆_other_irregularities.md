@@ -1,6 +1,6 @@
 I mean, I'm going to assume that this is fairly obvious at this point, because I have been sitting on it for about a month or so.  
 
-But I'm just letting you know, that the meta data signature localises to a very specific region of the country, periodically.  
+But I'm just letting you know, that the metadata signature localises to a very specific region of the country, periodically.  
 
 It doesn't look like a deliberate implant, because it doesn't have the same intensity signature as the stuff that's very clearly potentially beneficial if you are trying to undermine defence personnel.  
 
