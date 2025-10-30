@@ -1,5 +1,5 @@
 # 🧩 Cabinet Churn and UK Identity Cards  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-30  
 *How ministerial rotation in the Blair–Brown years fractured accountability and derailed the UK’s identity-infrastructure project.*  
 
 ---
@@ -91,7 +91,7 @@ cabinet reshuffle, political continuity, national identity register, blair gover
 
 ## 🏮 Footer  
 
-*Cabinet Churn and UK Identity Cards* is a living node of the **Polaris Protocol**.  
+*🧩 Cabinet Churn and UK Identity Cards* is a living node of the **Polaris Protocol**.  
 It analyses how repeated Cabinet reshuffles in the 2000s fractured responsibility for the ID programme, weakening both policy integrity and technical coherence, and proposes safeguards to prevent recurrence.  
 Positioned within the **Metadata Sabotage Network**, it shows how political instability translated directly into metadata corruption and version-control sabotage.  
 
@@ -103,4 +103,4 @@ Positioned within the **Metadata Sabotage Network**, it shows how political inst
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-30_
