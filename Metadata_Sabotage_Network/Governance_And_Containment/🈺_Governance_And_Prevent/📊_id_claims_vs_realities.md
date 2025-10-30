@@ -1,5 +1,5 @@
 # 📊 ID Claims vs. Realities  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-30  
 *Comparative analysis of government justifications for ID schemes versus operational realities and underlying drivers.*  
 
 ---
@@ -49,7 +49,7 @@ identity cards, digital id, biometrics, right to work, vendor capture, data dupl
 
 ## 🏮 Footer  
 
-*ID Claims vs. Realities* is a living node of the **Polaris Protocol**.  
+*📊 ID Claims vs. Realities* is a living node of the **Polaris Protocol**.  
 It collates core evidence undermining government justifications for digital ID expansion and situates those claims within patterns of political theatre and vendor dependency.  
 
 > 📡 Cross-references:
@@ -60,4 +60,4 @@ It collates core evidence undermining government justifications for digital ID e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-30_
