@@ -1,5 +1,5 @@
 # 🛂 Gated Intake, Post Delay, and Regional Loop Containment  
-**First created:** 2025-08-07 | **Last updated:** 2025-10-13  
+**First created:** 2025-08-07 | **Last updated:** 2025-10-30  
 *How intake gating, artificial delays, and regional loops isolate citizens and suppress escalation.*  
 
 ---
@@ -95,7 +95,7 @@ gated intake, post delay, regional loop containment, inbox flatline, burst patte
 ---
 
 ## 🏮 Footer  
-*Gated Intake, Post Delay, and Regional Loop Containment* is a living node of the Polaris Protocol.  
+*🛂 Gated Intake, Post Delay, and Regional Loop Containment* is a living node of the Polaris Protocol.  
 It documents how communication gating, artificial delays, and regional loops work together to suppress escalation and isolate survivors from support.  
 
 > 📡 Cross-references:
@@ -106,4 +106,4 @@ It documents how communication gating, artificial delays, and regional loops wor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_  
+_Last updated: 2025-10-30_  
