@@ -75,7 +75,7 @@ gender bias, surveillance, intelligence, misinterpretation, epistemic sexism, be
 It documents how institutional bias transforms female intellect into anomaly and how refusal becomes a counter-signal.  
 
 > 📡 Cross-references:  
-
+>
 > - [🪞 The MUU Class](./🪞_the_muu_class.md) — *bias and misclassification*  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic continuum*  
 
