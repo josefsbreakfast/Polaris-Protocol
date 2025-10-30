@@ -1,5 +1,5 @@
 # 💼 Industry Capture in Identity Systems  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-26 | **Last updated:** 2025-10-30  
 *How major consultancies and tech vendors profit from failure, shape identity policy, and entrench state dependency.*  
 
 ---
@@ -79,7 +79,7 @@ industry capture, digital identity, vendors, consultancies, procurement, biometr
 
 ## 🏮 Footer  
 
-*Industry Capture in Identity Systems* is a living node of the **Polaris Protocol**.  
+*💼 Industry Capture in Identity Systems* is a living node of the **Polaris Protocol**.  
 It documents how private contractors design, market, and sustain digital identity infrastructure through cycles of failure, embedding capture as governance norm.  
 
 > 📡 Cross-references:
@@ -90,4 +90,4 @@ It documents how private contractors design, market, and sustain digital identit
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-10-30_
