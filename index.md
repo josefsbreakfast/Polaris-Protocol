@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-30 19:36:03 UTC_
+_Generated on 2025-10-30 19:38:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -134,6 +134,7 @@ _Generated on 2025-10-30 19:36:03 UTC_
         - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_patch_repair_governance.md)
         - [`🪖_SAS_special_forces_and_complaints.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_SAS_special_forces_and_complaints.md)
         - [`🪖_overlap_accountability_and_why_we_cannot_recruit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_overlap_accountability_and_why_we_cannot_recruit.md)
+        - [`🪜_temporal_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪜_temporal_containment.md)
         - [`🪞_misunderstanding_as_risk_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_misunderstanding_as_risk_signal.md)
         - [`🪞_the_muu_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_the_muu_class.md)
         - [`🫀_pixels_do_not_touch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫀_pixels_do_not_touch.md)
