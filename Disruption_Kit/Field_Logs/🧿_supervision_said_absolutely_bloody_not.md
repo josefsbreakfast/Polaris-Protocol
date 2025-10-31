@@ -29,4 +29,7 @@ but it's from nz.
 which makes the whole thing even better.  
 
 you do realise that this was a leak of one's own making, by the gc, and really, half the fun is beating the final boss, right?   
+
+maybe then i will earn enough male validation, such that The Men™️ might consider ACTUALLY LETTING ME GO.  
+
 2025-10-31
