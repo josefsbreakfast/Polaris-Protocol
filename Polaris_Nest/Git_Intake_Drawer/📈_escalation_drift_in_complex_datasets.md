@@ -1,5 +1,5 @@
 # 📈 Escalation Drift in Complex Datasets  
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
+**First created:** 2025-10-31  
 *How small local improvisations harden into institutional “truths” through replication, dependency, and audit inertia.*
 
 ---
@@ -73,7 +73,7 @@ The result: technical non-compliance disguised as procedural decorum.
 
 ## 🌌 Constellations  
 
-⚖️ 🧠 🛰️ 📈 — governance, cognition, automation, recursion  
+⚖️ 🧠 🛰️ 📈 — governance · cognition · automation · recursion  
 
 ---
 
@@ -92,4 +92,8 @@ It forms a triad with:
 - **📥 Entry-Point Abuse in Automated Datasets** — how bad faith enters the system at ingestion.  
 - **🧠 Cognitive Feedback and Bureaucratic Amplification** — how belief reinforces error.  
 
-> *Integrity is recursive; so is error.*  
+> *Integrity is recursive; so is error.*
+
+---
+
+**Last updated:** 2025-10-31  
