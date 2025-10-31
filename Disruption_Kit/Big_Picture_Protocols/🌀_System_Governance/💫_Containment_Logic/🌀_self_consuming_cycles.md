@@ -83,3 +83,5 @@ and offers methods to name and interrupt repetition.
 > - [🔥 Suppression as Signal] *TBC*  
 
 *Recognition is not enough; the loop breaks only when the appetite for its own virtue runs out.*
+
+_Last updated: 2025-10-31_
