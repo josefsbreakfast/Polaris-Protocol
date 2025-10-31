@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-31 20:34:10 UTC_
+_Generated on 2025-10-31 20:35:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1783,6 +1783,7 @@ _Generated on 2025-10-31 20:34:10 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_data_and_population_targeting.md)
     - [`🧠_behavioural_nudge_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_nudge_as_containment.md)
+    - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Polaris_Nest/Git_Intake_Drawer/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
     - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassifying_intellectual_intimacy.md)
     - [`🧠_multilock_overlapping_covertion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_covertion.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
