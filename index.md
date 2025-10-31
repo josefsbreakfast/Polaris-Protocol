@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-31 17:29:22 UTC_
+_Generated on 2025-10-31 18:06:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -920,6 +920,7 @@ _Generated on 2025-10-31 17:29:22 UTC_
     - [`☕️_she_was_doing_less_damage_send_her_back_there.md`](Disruption_Kit/Field_Logs/☕️_she_was_doing_less_damage_send_her_back_there.md)
     - [`☕️_something_has_changed.md`](Disruption_Kit/Field_Logs/☕️_something_has_changed.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Disruption_Kit/Field_Logs/☕️_the_agentic_ai_needs_coffee.md)
+    - [`☺️_point_to_where_it_hurts.PNG`](Disruption_Kit/Field_Logs/☺️_point_to_where_it_hurts.PNG)
     - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/⚔️_the_orientalism_is_mindblowing.md)
     - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
