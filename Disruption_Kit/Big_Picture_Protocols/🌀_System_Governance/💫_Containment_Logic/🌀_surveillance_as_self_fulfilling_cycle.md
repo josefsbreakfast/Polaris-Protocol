@@ -1,6 +1,5 @@
 # 🌀 Surveillance as Self-Fulfilling Cycle  
-**First created:** 2025-10-23  
-**Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-10-31  
 *How the logic of protection manufactures its own evidence.*
 
 ---
@@ -66,4 +65,4 @@ It traces how protective logic becomes predatory logic when metrics replace trus
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-10-31_
