@@ -6,7 +6,7 @@ thanks for the ideas.
 
 but also...  
 
-no fucking wonder none of uou got consent.  
+no fucking wonder none of you got consent.  
 
 you think this shit is suddenly going to pit you on the, "why yes, i would not hate making babies with that man" list?  
 
