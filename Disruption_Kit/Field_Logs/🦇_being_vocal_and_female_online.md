@@ -56,4 +56,24 @@ that is not what you want to be projecting to The Women™️.
 
 ---
 
+tbh,  
+
+i've just sat through a feed on search that is basically screaming what you don't want me to say.  
+
+a fool becomes his own informant.  
+
+and no...  
+
+you will never find a man who can psycholigically "win" me by force.  
+
+long-term surveillance squad members (worling on the merch) will note the "mr sun" and "mr wind" story...  
+
+it is the one who is kind that gets the human to take their coat off.  
+
+force only makes the coat-wearer wrap the coat tighter around their own skin.  
+
+funny how it all links, no?  
+
+---
+<!--fucking lol that yall that you could find a bunch of testosterone goblins to beat me. what jokes.-->
 2025-10-31
