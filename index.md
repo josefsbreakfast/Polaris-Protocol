@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-31 20:29:41 UTC_
+_Generated on 2025-10-31 20:32:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1725,6 +1725,7 @@ _Generated on 2025-10-31 20:29:41 UTC_
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`💻_algorithmic_hysteria.md`](Polaris_Nest/Git_Intake_Drawer/💻_algorithmic_hysteria.md)
+    - [`📈_escalation_drift_in_complex_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📈_escalation_drift_in_complex_datasets.md)
     - [`📈_the_ratio_that_shouldnt_exist.md`](Polaris_Nest/Git_Intake_Drawer/📈_the_ratio_that_shouldnt_exist.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
