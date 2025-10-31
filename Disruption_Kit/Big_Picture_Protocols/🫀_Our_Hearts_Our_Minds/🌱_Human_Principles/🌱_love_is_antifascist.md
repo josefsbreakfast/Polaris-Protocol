@@ -1,8 +1,6 @@
-🫀 Our Hearts Our Minds → 🌱 Human Principles  
-
 # 🌱 Love Is Antifascist  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
-*Reclaiming tenderness and solidarity as political infrastructure.*
+**First created:** 2025-10-22 | **Last updated:** 2025-10-31  
+*Reclaiming tenderness and solidarity as political infrastructure.*  
 
 ---
 
@@ -43,11 +41,12 @@ antifascism, love, solidarity, care, ethics, reciprocity, tenderness, mutual aid
 *🌱 Love Is Antifascist* is a living node of the **Polaris Protocol**.  
 It situates affection, trust, and community care as antifascist technologies — refusing domination by building networks of protection.  
 
-> 📡 Cross-references:  
-> - [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — affective routes out of extremism  
-> - [🐝 Body Politic](../🐝_Body_Politic/README.md) — social health and civic tenderness  
-> - [🕯 Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows/README.md) — re-centering protection through empathy  
+> 📡 Cross-references:
+> 
+> - [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *affective routes out of extremism*  
+> - [🐝 Body Politic](../🐝_Body_Politic/README.md) — *social health and civic tenderness*  
+> - [🕯 Exorcising Safeguarding Shadows](../🕯_Exorcising_Safeguarding_Shadows/README.md) — *re-centering protection through empathy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-10-31_
