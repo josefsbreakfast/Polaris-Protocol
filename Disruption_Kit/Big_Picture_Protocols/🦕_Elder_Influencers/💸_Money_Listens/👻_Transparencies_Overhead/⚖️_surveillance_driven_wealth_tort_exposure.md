@@ -1,6 +1,6 @@
-# ⚖️ Surveillance-Driven Wealth — Tort Exposure at the Top of the Table
-**First created:** 2025-10-29  |  **Last updated:** 2025-10-29
-*How long-term surveillance, creative exploitation, and wealth concentration reshape civil-liability scale.*
+# ⚖️ Surveillance-Driven Wealth — Tort Exposure at the Top of the Table  
+**First created:** 2025-10-29  |  **Last updated:** 2025-10-31  
+*How long-term surveillance, creative exploitation, and wealth concentration reshape civil-liability scale.*  
 
 ---
 
@@ -122,10 +122,8 @@ surveillance, data exploitation, wealth inequality, unjust enrichment, tort law,
 *⚖️ Surveillance-Driven Wealth — Tort Exposure at the Top of the Table* is a living node of the **Polaris Protocol**.
 It models how extreme wealth concentration and data exploitation converge to create state-scale civil-liability potential.
 
-> 📡 Cross-references:
-> – [⚖️ Outer-Limit Damages Constellation](../🌀_System_Governance/⚖️_outer_limit_damages_constellation.md)
-> – [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
-> – [🧿 Visual Palette](../🏮_Admin_Kit/🧿_visual_palette.md)
+> 📡 Cross-references: *TBC*  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
-_Last updated: 2025-10-29_
+_Last updated: 2025-10-31_
