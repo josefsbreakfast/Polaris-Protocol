@@ -21,7 +21,7 @@ how silence gets misread as stability.
 | **Node** | **Focus** |
 |-----------|-----------|
 | [🩸 Reverse-Victim Logic](🩸_reverse_victim_logic.md) | How DARVO architectures weaponise narrative inversion to recast harm as hysteria. |
-| [⚖️ Influence & Bureaucratic Capture](⚖️_influence_and_bureaucratic_capture.md) | How professional authority amplifies reversal narratives through paperwork and procedure. |
+| [⚖️ Professional Influence & Bureaucratic Capture](⚖️_professional_influence_and_bureaucratic_capture.md) | How credentialed authority amplifies reversal narratives through procedure and documentation. |
 | [⚖️ Operatic Capture & Risks](⚖️_operatic_capture_and_risks.md) | How panic and power turn due process into containment theatre. |
 | [🧬 Voice-Model Capture Risks](../../🎙️_cloneproof_protocol/🧬_voice_model_capture_risks.md) | How cloned or modelled voices compromise provenance and authenticity. |
 | [⚖️ Ideological Coding & Voice Discrediting](../../../Big_Picture_Protocols/⚖️_ideological_coding_and_voice_discrediting.md) | How political or identity coding reframes civic activism as extremism. |
