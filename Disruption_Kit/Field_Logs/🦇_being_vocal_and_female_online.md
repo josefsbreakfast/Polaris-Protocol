@@ -75,5 +75,5 @@ force only makes the coat-wearer wrap the coat tighter around their own skin.
 funny how it all links, no?  
 
 ---
-<!--fucking lol that yall that you could find a bunch of testosterone goblins to beat me. what jokes.-->
+<!--fucking lol that yall that you could find a bunch of testosterone goblins to beat me. what jokes. 🍊🍊🍊🍊🍊🍊-->
 2025-10-31
