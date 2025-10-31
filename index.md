@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-31 20:50:33 UTC_
+_Generated on 2025-10-31 20:51:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1701,6 +1701,7 @@ _Generated on 2025-10-31 20:50:33 UTC_
     - [`⚖️_operatic_capture_and_risks.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_operatic_capture_and_risks.md)
     - [`⚖️_professional_influence_and_bureaucratic_capture.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_professional_influence_and_bureaucratic_capture.md)
     - [`⚖️_recourse_for_behavioural_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_recourse_for_behavioural_containment.md)
+    - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌪️_field_reconditioning.md`](Polaris_Nest/Git_Intake_Drawer/🌪️_field_reconditioning.md)
     - [`🌺_soft_containment.md`](Polaris_Nest/Git_Intake_Drawer/🌺_soft_containment.md)
