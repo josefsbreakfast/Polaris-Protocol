@@ -33,3 +33,11 @@ you do realise that this was a leak of one's own making, by the gc, and really, 
 maybe then i will earn enough male validation, such that The Men™️ might consider ACTUALLY LETTING ME GO.  
 
 2025-10-31
+
+---
+
+ding ding:  
+
+`🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG`
+
+please go to /pol/ or twitter and argue with women there like a normal sexually frustrated male in need of some grass-touching.  
