@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-31 02:23:50 UTC_
+_Generated on 2025-10-31 02:24:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -122,6 +122,7 @@ _Generated on 2025-10-31 02:23:50 UTC_
         - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_managed_transition_vs_revolution.md)
         - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_parallel_channels.md)
         - [`🌀_self_consuming_cycles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_self_consuming_cycles.md)
+        - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_surveillance_as_self_fulfilling_cycle.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
@@ -1684,7 +1685,6 @@ _Generated on 2025-10-31 02:23:50 UTC_
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`⚖️_recourse_for_behavioural_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_recourse_for_behavioural_containment.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🌀_surveillance_as_self_fulfilling_cycle.md)
     - [`🌪️_field_reconditioning.md`](Polaris_Nest/Git_Intake_Drawer/🌪️_field_reconditioning.md)
     - [`🌱_love_is_antifascist.md`](Polaris_Nest/Git_Intake_Drawer/🌱_love_is_antifascist.md)
     - [`🌺_soft_containment.md`](Polaris_Nest/Git_Intake_Drawer/🌺_soft_containment.md)
