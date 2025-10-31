@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-31 17:01:29 UTC_
+_Generated on 2025-10-31 17:29:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1773,6 +1773,7 @@ _Generated on 2025-10-31 17:01:29 UTC_
     - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
     - [`🧟_i_am_a_zombie_data_subject.md`](Polaris_Nest/Git_Intake_Drawer/🧟_i_am_a_zombie_data_subject.md)
     - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
+    - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_data_and_population_targeting.md)
     - [`🧠_behavioural_nudge_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_nudge_as_containment.md)
     - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassifying_intellectual_intimacy.md)
