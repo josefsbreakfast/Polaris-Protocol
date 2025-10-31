@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-31 02:14:00 UTC_
+_Generated on 2025-10-31 02:16:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -475,8 +475,6 @@ _Generated on 2025-10-31 02:14:00 UTC_
         - [`🦕_partition_loop.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
-      - [**♿️_disability_refusal_series/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/♿️_disability_refusal_series/)
-        - [`♿️_refusing_convenience_disability_as_administrative_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/♿️_disability_refusal_series/♿️_refusing_convenience_disability_as_administrative_resistance.md)
       - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/)
         - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/README.md)
@@ -711,6 +709,7 @@ _Generated on 2025-10-31 02:14:00 UTC_
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md)
         - [`♿_containment_by_pity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_containment_by_pity.md)
+        - [`♿️_refusing_convenience_disability_as_administrative_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿️_refusing_convenience_disability_as_administrative_resistance.md)
         - [`🏙️_industrial_layout_ghosts.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏙️_industrial_layout_ghosts.md)
         - [`🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md)
         - [`👁️‍🗨️_surveillance_of_disabled_bodies.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md)
