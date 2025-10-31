@@ -1,5 +1,5 @@
 # 🌀 Containment Under Observation — The Subtle Phase of Oversight Capture  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-26 | **Last updated:** 2025-10-31  
 *When overt interference gives way to monitored ambiguity, and a case becomes both specimen and shield.*
 
 ---
@@ -134,18 +134,14 @@ containment, observation, oversight capture, metadata anomalies, allied pressure
 
 ## 🏮 Footer  
 
-*Containment Under Observation — The Subtle Phase of Oversight Capture* is a live diagnostic node of the **Polaris Protocol**.  
+*🌀 Containment Under Observation — The Subtle Phase of Oversight Capture* is a live diagnostic node of the **Polaris Protocol**.  
 It records the shift from overt interference to supervised ambiguity, where institutional paralysis disguises itself as calm observation, and maps the legal frameworks that such paralysis risks violating.  
 
-> 📡 Cross-references:  
-> - [🧿 Oversight Paralysis — When Allies Breach the Firewall](./🧿_oversight_paralysis_when_allies_breach_the_firewall.md)  
-> - [⚡ Escalation Triggers — When HR Fails and Oversight Must Act](./⚡_escalation_triggers_when_hr_fails.md)  
-> - [🧩 Ideal Whitehall Response Sequence](./🧩_ideal_whitehall_response_sequence.md)  
-> - [🕰️ Citizen Follow-Up Timeline](./🕰️_citizen_follow_up_timeline.md)  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-10-31_
 
 ---
 
