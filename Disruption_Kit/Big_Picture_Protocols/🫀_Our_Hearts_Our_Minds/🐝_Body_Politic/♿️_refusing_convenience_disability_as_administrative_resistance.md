@@ -1,5 +1,5 @@
 # ♿️ Refusing Convenience — Disability as Administrative Resistance  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-25 | **Last updated:** 2025-10-31  
 *When being “inconvenient” becomes both diagnosis and philosophy.*
 
 ---
@@ -128,4 +128,4 @@ It examines disability as both critique and counter-architecture of efficiency, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2025-10-31_
