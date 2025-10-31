@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-31 02:00:18 UTC_
+_Generated on 2025-10-31 02:02:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1314,6 +1314,7 @@ _Generated on 2025-10-31 02:00:18 UTC_
       - [`risk_matrix_cost_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/risk_matrix_cost_closed_mouth.png)
       - [`sector_drag_curve_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/sector_drag_curve_closed_mouth.png)
       - [`🎈_silence_as_infrastructure.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🎈_silence_as_infrastructure.md)
+      - [`💊_therapeutic_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💊_therapeutic_containment.md)
       - [`💸_the_cost_of_a_closed_mouth.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md)
       - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)
       - [`📠_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📠_when_truth_becomes_a_trade.md)
