@@ -92,7 +92,7 @@ It demonstrates how falsehoods multiply inside containment systems and offers a 
 > 📡 Cross-references:
 > 
 > - [⚠️ Fork Anomaly Hypothesis — X,Y,Z](./⚠️_fork_anomaly_hypothesis_XYZ.md) — *precursor experiment*  
-> - [🦩 Fork Audit Protocol — Structured Method for Verification Chains](../Disruption_Kit/Big_Picture_Protocols/🦩_fork_audit_protocol_verification_chains.md) — *procedural framework*  
+> - [🦩 Fork Audit Protocol — Structured Method for Verification Chains](./🦩_fork_audit_protocol_verification_chains.md) — *procedural framework*  
 > - [🧮 Integrity Drift — Gradual Weakening of Verification Layers](./🧮_integrity_drift.md) — *context of decay*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
