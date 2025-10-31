@@ -1,5 +1,5 @@
-# 🌀 Self-Consuming Cycles — when systems eat their own ethics  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
+# 🌀 Self-Consuming Cycles — When Systems Eat Their Own Ethics  
+**First created:** 2025-10-25 | **Last updated:** 2025-10-31  
 *How bureaucratic, psychological, and technological structures metabolise critique into fuel.*
 
 ---
@@ -74,11 +74,12 @@ self-consumption, institutional shame, recursive ethics, moral fatigue, feedback
 *🌀 Self-Consuming Cycles — when systems eat their own ethics*  
 is a meta-node of the **Polaris Protocol**.  
 It traces how accountability mechanisms convert into self-sustaining rituals,  
-and offers methods to name and interrupt repetition.
+and offers methods to name and interrupt repetition.  
 
-> 📡 Cross-references:  
-> - [🤦‍♀️ Operation Shande — the bureaucratic shame engine](../🤦‍♀️_operation_shande.md)  
-> - [🪖 Moral Injury & Veterans](../🪖_moral_injury_and_veterans.md)  
-> - [🔥 Suppression as Signal](../🔥_suppression_as_signal.md)
+> 📡 Cross-references:
+> 
+> - [🤦‍♀️ Operation Shande — the bureaucratic shame engine] *TBC*  
+> - [🪖 Moral Injury & Veterans] *TBC*  
+> - [🔥 Suppression as Signal] *TBC*  
 
 *Recognition is not enough; the loop breaks only when the appetite for its own virtue runs out.*
