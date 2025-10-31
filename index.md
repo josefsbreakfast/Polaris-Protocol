@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-10-31 20:38:14 UTC_
+_Generated on 2025-10-31 20:39:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1743,6 +1743,7 @@ _Generated on 2025-10-31 20:38:14 UTC_
     - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Polaris_Nest/Git_Intake_Drawer/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
     - [`📮_the_polaris_mail_box.md`](Polaris_Nest/Git_Intake_Drawer/📮_the_polaris_mail_box.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
+    - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔁_ritual_and_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🔁_ritual_and_refusal.md)
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
