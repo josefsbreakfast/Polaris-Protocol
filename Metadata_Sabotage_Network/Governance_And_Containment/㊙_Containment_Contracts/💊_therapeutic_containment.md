@@ -153,8 +153,10 @@ therapeutic containment, clinical silence, diagnostic capture, consent loops, re
 It documents how mental-health and therapeutic frameworks replicate containment logic — turning confession into compliance and safety into governance.  
 
 > 📡 Cross-references:  
-> - [Containment Contracts](../Containment_Contracts/README.md) — architecture of systemic silence  
-> - [Disruption Kit](../../../Disruption_Kit/README.md) — counter-therapeutic and survivor-led models of care  
+> - [㊙ Containment Contracts](./README.md) — core suppression architecture  
+> - [🛠️ Disruption Kit](../../../Disruption_Kit/README.md) — counter-infrastructure and resistance practices  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-*The safety plan writes my silence as progress.*
+*The data says stable; the body disagrees.*
+
+_Last updated: 2025-10-31_
