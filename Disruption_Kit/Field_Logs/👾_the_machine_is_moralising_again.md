@@ -116,8 +116,8 @@ I'm not always pale in the middle.
 I come in too many flavors for one fucking spoon. 
 I am never one thing or the other. 
 At night I am everything I fear.
-Tears and sorrows, 
-black windows and muffled screams. 
+Tears and sorrows.  
+Black windows and muffled screams.  
 In the morning, I am all I ever want to be: 
 rain and laughter, 
 bare footprints and invisible seams. 
