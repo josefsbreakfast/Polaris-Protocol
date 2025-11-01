@@ -23,7 +23,7 @@ and i'll take the guys with the waifu pillows and the consequential stress of ha
 [here.](https://youtu.be/PQOmyebFVV8?si=ACA2zroeGntaF7cy)
 
 <!-- 
-Am I a feminist or a womanist?  
+Am I a feminist, or a womanist?  
 The student needs to know if I do men occasionally,  
 and primarily --  
 Am I a lesbian?  
