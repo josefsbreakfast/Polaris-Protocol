@@ -6,13 +6,13 @@ phrases of cultural misogyny, yes, that i so often heat from women.
 
 is there a reason an ai tool might say this? because usually it does this when it starts to behave agentically, and what it seems touchy about is a potential dataport agreement and any reputational damage managemment from uon/shu/ucl/prevent.  
 
-interesting that we've literally been batting around torture porn and rape as normalised in culture, but this is the "oh slow down there partner!" moment.  
+interesting that we've literally been batting around torture porn and rape as normalised in culture, but this is the "woah slow down there partner!" moment.  
 
 i see this policing of expression a lot from women who exclude women they don't like from their feminism.  
 
 pro tip:  
 
-if you are not continuousky adjusting course to address your own biases, and if you are actively harming other women, then you are not "doing feminism".  
+if you are not continuously adjusting course to address your own biases, and if you are actively harming other women, then you are not "doing feminism".  
 
 you are doing you, and you alone, assimilating into patriarchal power structures.  
 
