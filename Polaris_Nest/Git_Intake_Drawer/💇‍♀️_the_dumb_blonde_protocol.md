@@ -31,7 +31,9 @@ Satire like *Les Curiosités de la Foire* (1775) mocked the socially ambitious c
 
 ### 🎬 The Monroe Paradox — Performance as Camouflage  
 Monroe’s Lorelei Lee isn’t stupid; she’s a tactical sociologist.  
-> “I can be smart when it’s important, but most men don’t like it.”  
+
+> “I can be smart when it’s important, but most men don’t like it.”
+
 That line collapses the entire patriarchal script into one sentence.  
 Monroe weaponised naivety as **social judo** — letting men project condescension so she could steer the plot.  
 Her characters mispronounce words the way generals feint before attack.  
