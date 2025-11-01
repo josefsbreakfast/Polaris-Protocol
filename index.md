@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-01 22:07:38 UTC_
+_Generated on 2025-11-01 22:42:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -997,6 +997,7 @@ _Generated on 2025-11-01 22:07:38 UTC_
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Disruption_Kit/Field_Logs/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_pensions_and_perverts.md`](Disruption_Kit/Field_Logs/👾_pensions_and_perverts.md)
     - [`👾_she_is_strong_but_she_is_really_tired.md`](Disruption_Kit/Field_Logs/👾_she_is_strong_but_she_is_really_tired.md)
+    - [`👾_the_machine_is_moralising_again.PNG`](Disruption_Kit/Field_Logs/👾_the_machine_is_moralising_again.PNG)
     - [`👾_to_uncertain_skies.md`](Disruption_Kit/Field_Logs/👾_to_uncertain_skies.md)
     - [`💸_propaganda_to_tarot.md`](Disruption_Kit/Field_Logs/💸_propaganda_to_tarot.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
