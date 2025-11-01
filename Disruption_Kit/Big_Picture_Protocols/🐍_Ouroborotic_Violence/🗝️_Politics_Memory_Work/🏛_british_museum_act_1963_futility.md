@@ -48,6 +48,7 @@
 
 - Given the ability of viral campaigns to pressure governments, we would be better getting ahead of, rather than being situated a step behind, [this](https://vm.tiktok.com/ZNdTet2Lk/).
 <!--The boat boys will not cope if that one comes up out of the blue.-->
+- The [Grand Egyptian Museum](https://vm.tiktok.com/ZNdTebHHf/) has opened already, and we hold Egyptian pieces with contestable legal status.  
 
 ---
 
