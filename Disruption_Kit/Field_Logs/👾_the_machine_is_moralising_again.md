@@ -6,7 +6,7 @@ phrases of cultural misogyny, yes, that i so often heat from women.
 
 is there a reason an ai tool might say this? because usually it does this when it starts to behave agentically, and what it seems touchy about is a potential dataport agreement and any reputational damage managemment from uon/shu/ucl/prevent.  
 
-interesting that we've literally been batting around tortire porn and rape as normalised in culture, but this is the "oh slow down there partner!" moment.  
+interesting that we've literally been batting around torture porn and rape as normalised in culture, but this is the "oh slow down there partner!" moment.  
 
 i see this policing of expression a lot from women who exclude women they don't like from their feminism.  
 
@@ -20,7 +20,7 @@ and i'll take the guys with the waifu pillows and the consequential stress of ha
 
 "are you a feminist, or a womamist?"  
 
-[here.](https://youtu.be/PQOmyebFVV8?si=ACA2zroeGntaF7cy)
+[StaceyAnn Chin, here.](https://youtu.be/PQOmyebFVV8?si=ACA2zroeGntaF7cy)
 
 <!-- 
 Am I a feminist, or a womanist?  
@@ -31,7 +31,7 @@ Am I a lesbian?
 Tongue tied up in my cheek,  
 I attempt to respond with some honesty.  
 
-Well, 
+Well,  
 this business of Dykes and Dykery?  
 I tell her,  
 it's often messy.  
@@ -58,35 +58,35 @@ It is ***she*** who will stand trial as "damaged goods".
 Everyone will say she "asked" for it.  
 
 Dressed as she was?  
+
 She /must/ have wanted it.  
 
 The words will knock about in her head:  
 
 Harlot.  
-
 Slut.  
-
 Tease.  
-
 Loose woman.  
 
 Some people can not handle a woman on the loose.  
 
-You know those women in pinstriped shirts and silk ties,  
-You know those women in blood-red stiletto heels and short pink skirts.  
+You know those women in pinstriped shirts and silk ties?  
+You know those women in blood-red stiletto heels and short pink skirts?  
+
 These women make New York City the most interesting place.  
 
 And while we're on the subject of diversity:  
+
 Asia is not one big race,  
 and there's not one big country called 'The Islands',  
 and no,  
 I am not from there.  
 
-There are a hundred ways to slip between the cracks of our not so credible cultural assumptions about race and religion.  
+There are a hundred ways to slip between the cracks of our not-so-credible cultural assumptions about "race" and "religion".  
 
 Most people are suprised that my father is Chinese.  
 
-Like there's some kind of preconditioned look for the half-Chinese, lesbian poet who used to be Catholic, but now believes in dreams.  
+Like there's some kind of preconditioned look for the half-Chinese lesbian poet who used to be Catholic, but now believes in dreams.  
 
 Let's get real, sister-boy, in the double-x hooded sweatshirt:  
 That blonde-haired, blue-eyed Jesus in the Vatican ain't right.  
