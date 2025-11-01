@@ -34,7 +34,7 @@ i dont want to be raped and murdered, thanks.
 
 i don't want to be asphixiated with a canine choke chain, i don't want to be kidnapped or treated like forbidden cargo, and i don't want to go through some of the more sadistic shit you've tagged me to.  
 
-i also don't think you should be trying to dump that on another dude, or trying to ounish another woman for my saying "hey maybe dont do that".  
+i also don't think you should be trying to dump that on another dude, or trying to punish another woman for my saying "hey maybe dont do that".  
 
 i think that is all wildly fucked up and i dont know how so many parties are now involved in this, but no one should be continuing to contribute.  
 
