@@ -92,7 +92,7 @@ The summit ends; the cultural workers disappear; the tone shifts just enough to 
 
 ### ⚖️ 6. Why the UK Government Is Legally Obligated to Act  
 Cultural stabilisation is not charity; it is a **public-interest service**.  
-<!--Read: I don't have access to due process, let alone the "you are not paying me" argument. Being on long-term disability benefits due to the harms caused, when I was on track to be a doctor? And would be an SpR by now? Somehow that doesn't feel equivilent.-->
+<!--Read: I don't have access to due process, let alone the "you are not paying me" argument. Being on long-term disability benefits due to the harms caused, when I was on track to be a doctor? And would be an SpR by now? Somehow that doesn't feel equivilent. Additionally, I've paid NI/income tax since I was 14/16. Respectfully, the argument is gornischt.-->
 When independent writers and civic analysts perform work that mitigates radicalisation, the UK government acquires **positive obligations** under domestic and international law to ensure their safety and participation.  
 
 **1. Human-Rights Framework** (Human Rights Act 1998 / ECHR)  
