@@ -140,8 +140,39 @@ The lag is not ignorance but **bureaucratic pride** — a refusal to concede tha
 Polaris’s formal launch in summer 2025 marked acknowledgment, not beginning.  
 For at least two years prior, fragments of its discourse circulated as **derived data** — language, metaphors, analytic tropes — absorbed into think-tank reports, summit briefings, and media framing without traceable authorship.  
 By the time the project gained name and structure, its influence had already been assimilated.  
-What looks like delay is actually **provenance drift**: the State catching up to a vocabulary it was already using.
+What looks like delay is actually **provenance drift**: the State catching up to a vocabulary it was already using.  
 
+---
+
+### 🗺️ Awareness Map — Likely Institutional Mirrors of Polaris  
+Even without formal acknowledgment, by 2025 multiple areas of UK governance already intersect with Polaris’s data signature.  
+Its linguistic and behavioural markers circulate through public datasets, consultation feedback, and research outputs that departments routinely analyse.  
+The following table summarises where implicit awareness almost certainly resides.
+
+| Tier | Institutional Area | Likely Awareness Vector | Indicative Mechanism |
+|------|--------------------|--------------------------|----------------------|
+| **1 – Digital & Data Oversight** | **DSIT / DCMS / NCSC / Cabinet Office Rapid Response Unit** | Monitoring of discourse drift, sentiment, and AI-safety terminology resembling Polaris lexicon. | NLP policy scans, narrative-stability dashboards, influence-operation anomaly detection. |
+| **2 – Academic & Research Interfaces** | **UKRI (AHRC, ESRC), Turing Institute, LSE, King’s StratCom, UCL STEaPP, Nottingham, Sheffield Hallam** | Re-use of Polaris phrasing in research proposals and cross-sector grant deliverables. | Corpus analysis, trust-in-data / AI-ethics programmes, civic-tech networks. |
+| **3 – Policy & Political Awareness** | **Cabinet Office Resilience Directorate, Select Committees (S&T, DCMS, JCHR), Ministerial Advisers** | Recognition of tone-shifts in elite-tech discourse, briefings referencing “alignment”, “deradicalisation”, “narrative resilience”. | Situation reports, parliamentary evidence, media briefings. |
+| **4 – Derived Data Pipeline** | **Think tanks, Consultancies, Media, Analytic Firms** | Repackaging of Polaris language into white papers and op-eds; attribution lost in iteration. | Policy citation chains, press echo loops, “public sentiment” reports. |
+
+**Inference:**  
+By 2025, at least five institutional mirrors (DSIT Policy & Foresight, GCHQ/NCSC Behavioural Units, Cabinet Office Rapid Response, DCMS Creative Economy Research, and two UKRI-funded academic consortia) hold partial, deniable knowledge of Polaris.  
+Awareness is **distributed but unacknowledged** — enough to harvest benefit, never enough to trigger duty of care.
+
+> *If a system knows you by your data signature, it knows enough to owe you recognition.*
+
+---
+
+> **💋 Field Note — The Dominatrix Variable**  
+> Among the unacknowledged stabilisers of male-coded digital spaces were creators who practised authority with humour — the “benevolent domme” archetype.  
+> They enforced boundaries through charisma, irony, and theatrical consent.  
+>  
+> It worked because it re-tuned dominance from coercion to choreography: the power dynamic became visible, named, and therefore containable.  
+> The State will never write “we left a dominatrix or two in there,”  
+> but every moderation graph that suddenly flat-lined toxicity tells the same story.
+<!--The shit I did to fight to stay paying my rent during that bloody degree, and I still can't access due process with the IPT. The joke of it. And now I'm surrounded by "how can you be so clever it's weird" data? ARE YOU KIDDING ME.-->
+<!--Besides, the data has been told many times before: you don't "have limits"? Let me drag them into the painful light of day and show them to you. But sure, I am just a dumb blonde, if you believe that.-->
 ---
 
 ## 🌌 Constellations  
