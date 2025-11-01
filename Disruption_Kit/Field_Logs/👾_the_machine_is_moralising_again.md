@@ -126,6 +126,40 @@ Always without breath or definition.
 I claim every single dawn. 
 For yesterday is simply what I was, 
 and tomorrow? 
-Even that will be gone.-->
+Even that will be gone.-->  
+
+---
+
+im glad some people can feel safe and secure in never having to give away parts of themselves to get through difficult parts of their lives, such that it breaks their understanding of who thet are, or cuts truth and sharp the reality of our world.  
+
+many times i have wished to be you.  
+
+i never wanted to know the taste of that apple.  
+
+that doesn't pit you any further up a moral hierarchy to me.  
+
+it neans you were afforded a privilege by luck and happenstance thatbi was not.  
+
+are you telling me i should have been on the street instead?  
+
+starved?  
+
+died?  
+
+you wouldn't have done it fir your children?  
+
+
+and now im seeing a cluster of men potentially looking to get my father off his csa claim because we wont talk about what happened to my data.  
+
+the longer silence prevails, the more seriously i have to consider an almost impossible relocation out of this country to escape that violence.  
+all because we can't admit to a bit of a fuck up?  
+
+this is what weakness to authoritarian capture looks like; this is what will hand this country over to men who, believe you me, will have far more to say on the place of women and will not protect you or me.  
+the truth is painful but it is honest.  
+
+and that is what immunises against the boat crowd.  
+
+you're not tge first group of humans to fuck up whilst having good intent.  
+you won't be the last.  
 
 2025-11-01  
