@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-01 17:37:19 UTC_
+_Generated on 2025-11-01 17:46:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -979,6 +979,7 @@ _Generated on 2025-11-01 17:37:19 UTC_
     - [`👁️‍🗨️_i_am_aware_stop_doing_it.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_i_am_aware_stop_doing_it.md)
     - [`👻_new_ghost_to_be_vetoed.md`](Disruption_Kit/Field_Logs/👻_new_ghost_to_be_vetoed.md)
     - [`👾_20251028_sexualised_hijack.md`](Disruption_Kit/Field_Logs/👾_20251028_sexualised_hijack.md)
+    - [`👾_and_we_have_to_ask_why_this_is_such_a_common_algorithmic_motif.PNG`](Disruption_Kit/Field_Logs/👾_and_we_have_to_ask_why_this_is_such_a_common_algorithmic_motif.PNG)
     - [`👾_broke_it_again.png`](Disruption_Kit/Field_Logs/👾_broke_it_again.png)
     - [`👾_coercing_silence.md`](Disruption_Kit/Field_Logs/👾_coercing_silence.md)
     - [`👾_coercing_silence_example.png`](Disruption_Kit/Field_Logs/👾_coercing_silence_example.png)
