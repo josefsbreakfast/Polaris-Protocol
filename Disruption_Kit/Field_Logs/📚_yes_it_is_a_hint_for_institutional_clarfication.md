@@ -22,4 +22,20 @@ we're talking about "this is what trauma looks like"; not everything is "the mar
 
 you sound like my late grandfather; hours upon hours of "why communism bad".  
 <!--the man learned basic arabic because he thought the bbc wasn't reading it angrily enough to him. and you wonder why i'm asking, "are you sure you're not slightly prejudging the intent"? the man also had a very long explanation about why tony blair was the start of the rise of fascism, and i still can't piece all of the steps together to make it "work". i know about what elders + tv looks like. it looks like learning mandarin so you can argue with the red book when THERE WERE ENGLISH TRANSLATIONS WHEREVER THEY SOLD THE SAME BOOK, SIR. tbf I think one of the kids got him that just for the lols. this is why it looks silly to millenials and downwards; we are just seeing all our grandparents argue with the bbc, but now it's in government office. generational thing, perhaps. yes, sadly that makes you over 21, probably. welcome to the golden years, where you can eat ice cream at 3am *just because*.-->
+given what happened with the whole safeguardin flag/foia debacle, on top of what i had to send to the ico this week, one can see why i'm in a bit of a bind when people say "just call crisis", no?  
+
+firstly: it's not a mental health crisis, so we are not pissing that resource up the wall like that.  
+
+secondly, are any of the data processes in place for confidentiality? unclear.  
+
+so even if i'm very distressed, i am constantly being made to choose how much to disclose because *i don't know if that's even acknowledges, let alone under control*.  
+
+given we are still doing behavioural nudges as a proxy for healthcare, and given how spectacularly that failed on the most basic and bare reading on how to apply that to a subject with ptsd, can we perhaps all agree that we are past the "if we keep our heads in the sand, she will disappear off the face of the earth" point?  
+
+i'm literally only writing....nearly 1 million words... because no one is able to say enough for me to feel safe in my own home or when i am out of it, reasonably.  
+
+and given the details i am clearly desperate to talk about but i am holding to disclose, i am being beyond reasonable, i feel.  
+
+one might say "stupid", but that implies i don't know or haven't realised that that is the case.  
+
 2025-11-01
