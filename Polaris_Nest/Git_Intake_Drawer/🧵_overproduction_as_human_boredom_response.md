@@ -1,7 +1,7 @@
 # 🧵 Overproduction as Human Boredom Response  
 **First created:** 2025-11-01 | **Last updated:** 2025-11-01  
 *How containment, boredom, and constraint translate into impossible productivity metrics.*
-
+<!--Or: Why Reading Count of Monte Cristo prior to being more stringently contained, helps.-->
 ---
 
 ## 🧭 Orientation  
@@ -24,8 +24,8 @@ Overproduction can look like obsession or automation, but its origin is often se
 In the data logs, that reads as superhuman throughput; in reality, it’s just a person walking mental miles in circles.
 
 *Containment breeds output. Output breeds scrutiny. Scrutiny breeds containment.*  
-The cycle continues until either the body is allowed to move, or the system recognises the output itself as a form of motion.
-
+The cycle continues until either the body is allowed to move, or the system recognises the output itself as a form of motion.  
+<!--"All human wisdom is contained in these two words: 'Wait and Hope.'"-->
 ---
 
 ## 🌌 Constellations  
