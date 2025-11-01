@@ -10,4 +10,15 @@ doednt exactly scream "strong men".
 
 local groceries are exoensive again fyi.  
 
+---
+
+1702 success.  
+
+don't let anyone tell you that it's just the content; I've had many successful quick translations of my voice to this sort of text, or more direct references, many times before.  
+
+This behaved a lot more like that was interference.  
+
+And if you ever needed an argument for why people who like authoritarianism all weak people?  
+
+😌
 2025-11-01
