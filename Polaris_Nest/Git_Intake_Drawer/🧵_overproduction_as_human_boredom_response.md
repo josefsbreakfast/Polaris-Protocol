@@ -1,7 +1,7 @@
 # 🧵 Overproduction as Human Boredom Response  
 **First created:** 2025-11-01 | **Last updated:** 2025-11-01  
 *How containment, boredom, and constraint translate into impossible productivity metrics.*
-<!--Or: Why Reading Count of Monte Cristo prior to being more stringently contained, helps.-->
+<!--Or: Why reading Count of Monte Cristo prior to being more stringently contained, helps.-->
 ---
 
 ## 🧭 Orientation  
