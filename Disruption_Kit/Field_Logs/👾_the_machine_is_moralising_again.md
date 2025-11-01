@@ -146,8 +146,9 @@ starved?
 
 died?  
 
-you wouldn't have done it fir your children?  
+you wouldn't have done it for your children?  
 
+(there is no right answer to these questions, and that is the point. there is never a good answer. catch 22 all the way down.)  
 
 and now im seeing a cluster of men potentially looking to get my father off his csa claim because we wont talk about what happened to my data.  
 
