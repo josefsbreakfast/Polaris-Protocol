@@ -27,8 +27,9 @@ What began as literary revenge against powerful courtesans became Hollywood come
 When “marry or die” was the only civic option, courtesans became **female land pirates** — raiding the soft economies of conversation, art, and desire.  
 
 They were poets, diplomats, and fundraisers for their own survival.  
-Men couldn’t out-earn or out-rank them, so they out-narrated them.  
 
+Men couldn’t out-earn or out-rank them, so they out-narrated them.  
+<!--Because boobs, essentially.-->
 Satire like *Les Curiosités de la Foire* (1775) mocked the socially ambitious courtesan: the first iteration of the dumb blonde — not because she was foolish, but because she was **winning**.  
 
 ---
@@ -49,6 +50,7 @@ The culture laughed at her, proving her hypothesis: a brilliant woman can tell y
 
 ### 🪞 Schrödinger’s Empowerment — Living Inside the Trope  
 Discourse about the “dumb blonde” diverges sharply by gender.  
+
 When men discuss it, they are evaluating a symbol from the outside.    
 When women discuss it, they are speaking from within a system that can still punish them for fitting, rejecting, or even *mentioning* that symbol.  
 
