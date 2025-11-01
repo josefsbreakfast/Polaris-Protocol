@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-01 17:10:50 UTC_
+_Generated on 2025-11-01 17:30:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -959,6 +959,7 @@ _Generated on 2025-11-01 17:10:50 UTC_
     - [`🏛️🪄🔥.md`](Disruption_Kit/Field_Logs/🏛️🪄🔥.md)
     - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
     - [`🐉_please_stamp_my_visa.md`](Disruption_Kit/Field_Logs/🐉_please_stamp_my_visa.md)
+    - [`🐍_getting_her_to_stop_doing_that_being_herself_thing.md`](Disruption_Kit/Field_Logs/🐍_getting_her_to_stop_doing_that_being_herself_thing.md)
     - [`🐓_have_you_noticed.md`](Disruption_Kit/Field_Logs/🐓_have_you_noticed.md)
     - [`🐓_no_gpt_for_the_annoyed_femme.md`](Disruption_Kit/Field_Logs/🐓_no_gpt_for_the_annoyed_femme.md)
     - [`🐝_annoying_algorithms.md`](Disruption_Kit/Field_Logs/🐝_annoying_algorithms.md)
