@@ -40,7 +40,14 @@
 - Reforming the Act would be a modest step: it would not dismantle empire, but it would show good faith.  
 - Symbolically, it would mark the first crack in the edifice of denial, admitting that restitution is possible.  
 - That is precisely why it is feared. If one artefact can move, the fiction of permanence collapses.  
-- Exhaustion and inertia are maintained to prevent even this first step.  
+- Exhaustion and inertia are maintained to prevent even this first step.
+
+---
+
+## ✨ Update  
+
+- Given the ability of viral campaigns to pressure governments, we would be better getting ahead of, rather than being situated a step behind, [this](https://vm.tiktok.com/ZNdTet2Lk/).
+<!--The boat boys will not cope if that one comes up out of the blue.-->
 
 ---
 
