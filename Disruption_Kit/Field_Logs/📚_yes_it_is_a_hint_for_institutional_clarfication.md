@@ -38,4 +38,16 @@ and given the details i am clearly desperate to talk about but i am holding to d
 
 one might say "stupid", but that implies i don't know or haven't realised that that is the case.  
 
+---
+
+and "just distract yourself" when i could have had a c-spine break, is perhaps overestimating the competance of whoever has "got this covered".  
+
+i am not elaborating until whoever is covering that matter, explains exactly what this could possibly relate to.  
+
+and someone uses their noggin to realise which of my recorded statements would be the "under duress" component.  
+
+and has the "oooooohhhhh" moment.  
+
+you should be able to tell, if the recording is good enough, exactly where those points are, and exactly what has happened to whatever is produced for audit.  
+
 2025-11-01
