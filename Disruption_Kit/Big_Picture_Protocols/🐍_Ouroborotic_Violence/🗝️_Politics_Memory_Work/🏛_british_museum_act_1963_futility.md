@@ -1,10 +1,10 @@
 # 🏛 British Museum Act (1963 Futility)  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-13 | **Last updated:** 2025-11-01  
 *How a statute written in the afterglow of empire turned looted artefacts into a permanent collection, locking restitution into a cycle of exhaustion and denial.*
 
 ---
 
-## 1. Imperial Mindset (1963 Parliament)  
+## 🦤 Imperial Mindset (1963 Parliament)  
 - Parliament in 1963 was overwhelmingly male, with many MPs and peers shaped by direct service to empire.  
 - Repatriation was not on their horizon; artefacts were assumed to be Britain’s to keep.  
 - The Act was framed as administrative housekeeping: reforming trusteeship, splitting off the Natural History Museum, “safeguarding” collections.  
@@ -12,7 +12,7 @@
 
 ---
 
-## 2. Legal Freezing  
+## 🧊 Legal Freezing  
 - The Act prohibits trustees from permanently disposing of objects, except in trivial cases (duplicates, damage).  
 - Even where claims are morally obvious, restitution is impossible without new legislation.  
 - The law reframes theft as stewardship: items are not “stolen goods,” they are “protected heritage.”  
@@ -20,7 +20,7 @@
 
 ---
 
-## 3. Exhaustion as Containment  
+## 🌀 Exhaustion as Containment  
 - Every time the issue resurfaces, familiar press cycles churn: “government meddling,” “tourism threatened,” “museums under attack.”  
 - These narratives sap willpower, exhausting campaigners, curators, and MPs alike.  
 - The point is not persuasion but fatigue: if the people who care are worn out, the law stands unchallenged.  
@@ -28,7 +28,7 @@
 
 ---
 
-## 4. Shadow Lobbies and Myths  
+## 👾 Shadow Lobbies and Myths  
 - Resistance does not come only from obvious nationalists.  
 - Heritage bureaucrats, trustees, and political fixers all benefit from inertia: if nothing moves, nothing threatens their prestige or precedents.  
 - The myth of “tourism collapse” is cultivated to bolster resistance, even though visitor numbers are driven by the scale of the collection, not a handful of contested artefacts.  
@@ -36,7 +36,7 @@
 
 ---
 
-## 5. Baby Steps and Precedent  
+## 💫 Baby Steps and Precedent  
 - Reforming the Act would be a modest step: it would not dismantle empire, but it would show good faith.  
 - Symbolically, it would mark the first crack in the edifice of denial, admitting that restitution is possible.  
 - That is precisely why it is feared. If one artefact can move, the fiction of permanence collapses.  
@@ -54,7 +54,7 @@
 
 ## 🏮 Footer  
 
-*British Museum Act (1963 Futility)* is a living node of the Polaris Protocol.  
+*🏛️ British Museum Act (1963 Futility)* is a living node of the Polaris Protocol.  
 It documents how statute itself can become a containment script: freezing theft into heritage, and exhausting any attempt at restitution.  
 
 > 📡 Cross-references:
@@ -64,4 +64,4 @@ It documents how statute itself can become a containment script: freezing theft 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-11-01_
