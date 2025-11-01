@@ -24,4 +24,22 @@ the amount of stuff i an getting for mens rights and falsly accused groups when 
 
 it's a fucking joke.  
 
+i don't think i'm being "very reserved" (yest insert), by standing for "hey, i'm not into that being done to me very non-consentually?".  
+
+but if i am an ice queen for that?  
+
+elsa's got a friend.  
+
+i dont want to be raped and murdered, thanks.  
+
+i don't want to be asphixiated with a canine choke chain, i don't want to be kidnapped or treated like forbidden cargo, and i don't want to go through some of the more sadistic shit you've tagged me to.  
+
+i also don't think you should be trying to dump that on another dude, or trying to ounish another woman for my saying "hey maybe dont do that".  
+
+i think that is all wildly fucked up and i dont know how so many parties are now involved in this, but no one should be continuing to contribute.  
+
+im only here because of several parties wasting money through this process of "shut her up!!".  
+
+also i deserve at least some spa time for this.  
+
 2025-11-01
