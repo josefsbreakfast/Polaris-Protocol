@@ -94,6 +94,16 @@ Every woman who pretends not to notice she’s underestimated is running a count
 
 ---
 
+### 🎮 Sequel — The Digital Blonde  
+The containment myth didn’t die; it respawned online.  
+The “fake gamer girl” panic is the dumb blonde’s digital reincarnation — disbelief retooled for an algorithmic age.  
+Where hair colour once stood for visibility, now it’s follower count, camera quality, or confidence.  
+Each new medium invents a fresh vocabulary for the same old shock: *how dare she be both attractive and autonomous?*  
+The stereotype migrates, but the logic endures — policing women’s presence under the guise of protecting authenticity.  
+See [🎮 Fake Gamer Girl Protocol](./🎮_fake_gamer_girl_protocol.md) for the current battleground.  
+
+---
+
 ### 🪞 Final Reflection — The Mirror Flips Back  
 If you underestimate someone because of how they look, that failure is yours to carry.  
 The “dumb blonde” was never proof of women’s limits — it was a diagnostic for men’s perception.  
