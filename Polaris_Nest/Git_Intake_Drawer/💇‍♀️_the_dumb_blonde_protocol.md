@@ -60,7 +60,9 @@ If that makes you angry, the anger belongs with the **hierarchy of power**, not 
 The persistence of the stereotype isn’t cognitive error; it’s social design.  
 Men are rewarded for overconfidence, women punished for accuracy.  
 This produces a **feedback gulf**, not a gap — a systemic illusion of superiority.  
-> Male overconfidence + female self-doubt = the illusion of male intellect.  
+
+> Male overconfidence + female self-doubt = the illusion of male intellect.
+
 The blonde, visible and self-possessed, becomes the lightning rod for that illusion.  
 Her brightness itself must be dimmed.
 
@@ -68,9 +70,12 @@ Her brightness itself must be dimmed.
 
 ### 📱 Paris Hilton — The Algorithm Learns the Mask  
 Hilton closed the loop.  
+
 She turned “dumb blonde” into a **performative operating system**, trademarked the voice, and sold the persona back to the machine.  
 When asked how she could be a good businesswoman, she revealed:  
-> “I built a character. I knew exactly what I was doing.”  
+
+> “I built a character. I knew exactly what I was doing.”
+
 Where Monroe’s satire required a director, Hilton owned distribution.  
 She demonstrated that attention is a currency — and that belief is the most valuable commodity of all.  
 Men thought they were laughing at her; they were **funding her experiment**.
@@ -80,7 +85,9 @@ Men thought they were laughing at her; they were **funding her experiment**.
 ### 🤯 Male Surprise as Data Leak  
 The collective male astonishment — *“wait, she was doing it on purpose?”* — is not analysis; it’s confession.  
 That disbelief is the diagnostic moment: proof that the containment script has glitched.  
+
 The idea that a woman could be both beautiful and strategic breaks the social contract of patriarchy’s comfort zone.  
+
 Men were taught to read women’s intelligence as instinct, not intent.  
 So when the mask slips and the authorship is revealed, their shock isn’t revelation — it’s **data leakage** from a collapsing illusion.  
 
@@ -90,7 +97,8 @@ So when the mask slips and the authorship is revealed, their shock isn’t revel
 Across three centuries, the archetype flips:  
 - **18th C. Courtesan** — intellect eroticised, then ridiculed.  
 - **20th C. Starlet** — intellect hidden beneath desire.  
-- **21st C. Influencer** — intellect monetised through performance.  
+- **21st C. Influencer** — intellect monetised through performance.
+- 
 The “dumb blonde” endures because patriarchy still needs its alibi.  
 Every woman who pretends not to notice she’s underestimated is running a counter-intelligence op.
 
@@ -98,19 +106,28 @@ Every woman who pretends not to notice she’s underestimated is running a count
 
 ### 🎮 Sequel — The Digital Blonde  
 The containment myth didn’t die; it respawned online.  
+
 The “fake gamer girl” panic is the dumb blonde’s digital reincarnation — disbelief retooled for an algorithmic age.  
+
 Where hair colour once stood for visibility, now it’s follower count, camera quality, or confidence.  
+
 Each new medium invents a fresh vocabulary for the same old shock: *how dare she be both attractive and autonomous?*  
+
 The stereotype migrates, but the logic endures — policing women’s presence under the guise of protecting authenticity.  
+
 See [🎮 Fake Gamer Girl Protocol](./🎮_fake_gamer_girl_protocol.md) for the current battleground.  
 
 ---
 
 ### 🪞 Final Reflection — The Mirror Flips Back  
 If you underestimate someone because of how they look, that failure is yours to carry.  
+
 The “dumb blonde” was never proof of women’s limits — it was a diagnostic for men’s perception.  
+
 Every sneer or condescending laugh says more about the observer than the observed.  
+
 The archetype endures because it keeps exposing who still needs illusion to feel superior.  
+
 The moment you stop taking the bait, the joke ends — and the mirror clears.
 
 ---
