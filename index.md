@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-01 02:39:43 UTC_
+_Generated on 2025-11-01 02:40:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1730,6 +1730,7 @@ _Generated on 2025-11-01 02:39:43 UTC_
     - [`🐦‍⬛_cards_indices_grids.md`](Polaris_Nest/Git_Intake_Drawer/🐦‍⬛_cards_indices_grids.md)
     - [`🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md`](Polaris_Nest/Git_Intake_Drawer/🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md)
     - [`🐾_canine_constellation_migration.md`](Polaris_Nest/Git_Intake_Drawer/🐾_canine_constellation_migration.md)
+    - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
