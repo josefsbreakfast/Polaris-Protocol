@@ -43,4 +43,8 @@ And if you gave a fuck about the veterans who have served and died for you...
 
 Neither would you.  
 
+---
+
+btw my vote is mot on superinjunction, more "4chan-inspired adult males with nothing better to do".  
+
 2025-11-01
