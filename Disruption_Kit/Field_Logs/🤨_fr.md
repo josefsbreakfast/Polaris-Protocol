@@ -28,4 +28,10 @@ poop.
 
 🤣.  
 
+---
+
+done.  
+
+easier, but i will go back and stick it all through the right ruleset later.  
+
 2025-11-02
