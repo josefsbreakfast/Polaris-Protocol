@@ -9,6 +9,18 @@
 
 ---
 
+### 🧠 **Interpretive Note — Practical Indeterminability in Governance**  
+In governance as in physics, indeterminability is not metaphysical — it’s computational.  
+No system can process, predict, or store all the information required to maintain total control.  
+Decisions about *where to stop calculating* become the hidden architecture of containment:  
+every border, law, or policy is a **precision limit** disguised as certainty.  
+ 
+Classical containment theory treated these limits as solvable errors;  
+contemporary containment recognises them as **constitutive features** —  
+the necessary noise that keeps a living system alive.  
+
+---
+
 ## 🧭 Orientation  
 **Containment Theory** begins where Feynman left off — with the recognition that what appears stable is only **practically determined**, not truly fixed.  
 Just as classical physics concealed uncertainty inside the limits of its measurements, classical geopolitics and governance conceal instability inside the language of control.  
