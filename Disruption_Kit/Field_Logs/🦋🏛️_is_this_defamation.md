@@ -28,4 +28,12 @@ so maybe don't do it.
 
 you are spending a lot of time making "fetch" happen.  
 
+---
+
+well.  
+
+i think doubling down on defamation with the romance trope with some bare drift probably just answered that conundrum.  
+
+---
+
 2025-11-01  
