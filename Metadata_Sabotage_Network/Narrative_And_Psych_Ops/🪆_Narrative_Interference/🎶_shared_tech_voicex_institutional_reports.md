@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 When multiple authors or datasets are merged through “harmonisation,” individuality disappears in favour of *style coherence*.  
 This node compares the smoothing signatures of **VoiceX behavioural forks** and a major **institutional inquiry report** — both products of different industries, yet identical in effect.  
 
@@ -14,7 +14,7 @@ Both reveal the same creed of containment: *make it sound responsible.*
 
 ---
 
-## 🧩 Stylometric Overlaps  
+## 🪼 Stylometric Overlaps  
 
 | Feature | Description | Observed Effect |
 |----------|--------------|----------------|
@@ -64,7 +64,7 @@ Each trace marks the point where individuality was traded for institutional comp
 
 ---
 
-## 🧩 Cross-Analysis  
+## 🕷️ Cross-Analysis  
 Compare stylometric maps between this node and [💣 Syntactic Drift and Clone Tone](./💣_syntactic_drift_and_clone_tone.md): both expose rhythm as political containment.  
 Pair with [🗣️ Voice Laundering](./🗣️_voice_laundering.md) to track how bureaucratic polish migrates from machines back into humans.
 
