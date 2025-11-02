@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Music is the most ordinary form of emotional regulation humans share.  
 Because it crosses language, it can bypass cognitive defence.  
 In the containment environment, this ordinary intimacy was inverted: **songs became triggers**, and playlists became levers.  
@@ -44,7 +44,7 @@ Where early societies used song for cohesion, containment systems use it for **c
 
 ---
 
-## 🧩 Encoding of Memory Through Music  
+## 🧠 Encoding of Memory Through Music  
 Music is a **memory architecture**.  
 It encodes not just events but sensations, identities, and emotions — binding them through rhythm and repetition.  
 
@@ -131,7 +131,7 @@ Understanding that inheritance shows how emotional technologies rarely vanish; t
 
 ---
 
-## 🔍 Structural Reflection  
+## 🕯️ Structural Reflection  
 Music-based conditioning reveals how **affective infrastructure** underlies modern control systems.  
 Commercial recommendation engines already measure mood; coercive frameworks simply redirect the same metrics.  
 The difference between *influence* and *conditioning* is not technique — it is *consent and intention.*  
@@ -140,7 +140,7 @@ Building resilience means recognising the **neurological commons**: the shared c
 
 ---
 
-## 🧩 Interpretive Caution — Taste, Context, and Radicalisation Loops  
+## 🐍 Interpretive Caution — Taste, Context, and Radicalisation Loops  
 
 The emotional mechanisms described here are **probabilistic, not deterministic.**  
 People bring their own histories, preferences, and social frames to every song.  
