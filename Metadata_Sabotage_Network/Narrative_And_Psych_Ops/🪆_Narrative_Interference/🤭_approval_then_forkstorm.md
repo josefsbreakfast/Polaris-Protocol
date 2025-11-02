@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node records a recurring phenomenon within containment logic:  
 a project or narrative receives apparent **permission to proceed** — and is then immediately subjected to fragmentation, replication, or reputational drift.  
 
@@ -16,7 +16,7 @@ Hence the name: **approval, then forkstorm.**
 
 ---
 
-## 🌀 Mechanism Overview  
+## 🐉 Mechanism Overview  
 
 | Stage | Behaviour | Systemic Purpose |
 |--------|------------|-----------------|
