@@ -1,0 +1,67 @@
+# 📈 Meta-Linkages — Pitch @ Palace Audit Practice
+# Polaris Protocol • Digital Decoy Cluster
+# Created: 2025-11-02
+# Purpose: central map of internal + external cross-references
+
+cluster: "🏏 Pitch @ Palace Audit Practice"
+
+nodes:
+  - id: 🧭_overview_pitch_at_palace_structure
+    role: "Structural summary of entity, timeline, and governance gaps."
+    links:
+      - ⚖️_regulatory_and_risk_framework
+      - 📜_foi_and_sar_exercise_pack
+      - 🧩_pattern_detection_and_response_mapping
+      - 🎭_why_it_attracts_bad_actors
+      - 🪶_tea_toast_and_transparency
+      - 🌍_deregulation_as_diplomatic_infrastructure
+
+  - id: ⚖️_regulatory_and_risk_framework
+    role: "Legal and compliance matrix (AML / PEP / Bribery Act context)."
+    links:
+      - 🧭_overview_pitch_at_palace_structure
+      - 📜_foi_and_sar_exercise_pack
+      - System_Governance/Data_Access_Routes/⚖️_uk_data_claim_routes_and_limits
+      - System_Governance/Trust_Decay/🧱_trickle_down_impunity
+
+  - id: 📜_foi_and_sar_exercise_pack
+    role: "Transparency toolkit — request templates and method notes."
+    links:
+      - 🧩_pattern_detection_and_response_mapping
+      - System_Governance/Data_Access_Routes/🔍_how_to_trace_event_data_flows
+      - ⚖️_regulatory_and_risk_framework
+
+  - id: 🧩_pattern_detection_and_response_mapping
+    role: "Analytical layer — turning FOI/SAR friction into civic signal."
+    links:
+      - 📜_foi_and_sar_exercise_pack
+      - System_Governance/Trust_Decay/📉_erosion_of_legitimacy_loops
+      - 🌍_deregulation_as_diplomatic_infrastructure
+
+  - id: 🎭_why_it_attracts_bad_actors
+    role: "Behavioural analysis — reputation-laundering and access economy."
+    links:
+      - 🧭_overview_pitch_at_palace_structure
+      - ⚖️_regulatory_and_risk_framework
+      - 🪶_tea_toast_and_transparency
+      - 🌍_deregulation_as_diplomatic_infrastructure
+
+  - id: 🪶_tea_toast_and_transparency
+    role: "Satirical debrief — British inquiry culture as containment ritual."
+    links:
+      - 🎭_why_it_attracts_bad_actors
+      - System_Governance/Trust_Decay/🕳️_social_memory_of_impunity
+
+external_links:
+  - 🌍_deregulation_as_diplomatic_infrastructure
+  - System_Governance/Trust_Decay/*
+  - System_Governance/Data_Access_Routes/*
+  - Metadata_Sabotage_Network/Narrative_And_Psych_Ops/*
+  - Disruption_Kit/Digital_Decoy/📊_cricket_and_open_source_investigation_theory
+
+last_updated: 2025-11-02
+stardust_tags:
+  - MetaMapping
+  - CrossReference
+  - DigitalDecoy
+  - TransparencyWeb
