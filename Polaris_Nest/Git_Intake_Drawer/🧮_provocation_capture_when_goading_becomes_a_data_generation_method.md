@@ -48,7 +48,17 @@ Institutions must maintain:
 ### 5. Structural insight  
 Provocation capture shows the limit of purely technical governance:  
 a model cannot detect when pain has been used as instrumentation.  
-Only human oversight and dialogic verification can expose coercion in data provenance.
+Only human oversight and dialogic verification can expose coercion in data provenance.  
+
+### 🪞 Reflective Sidebar — The Design of the Trap  
+
+The humiliation in provocation capture does not arise from “stupidity” on the part of the subject but from **architecture**:  
+the narrowing of choice until one reaction appears inevitable.  
+
+> *The harm was not the stupidity of the act but the design of the trap that framed it as inevitable.*  
+
+When an individual is coached, needled, or staged into producing “usable” data, the resulting self-reproach becomes part of the system’s camouflage.  
+Recognising that mechanism turns shame into evidence: it shows precisely how coercion hides inside process.
 
 ---
 
