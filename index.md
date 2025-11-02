@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 15:06:11 UTC_
+_Generated on 2025-11-02 15:08:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1727,6 +1727,7 @@ _Generated on 2025-11-02 15:06:11 UTC_
       - [`📈_meta_linkages.yaml`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
       - [`📊_cricket_and_open_source_investigation_theory.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
       - [`📜_foi_and_sar_exercise_pack.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
+      - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🕳️_social_memory_of_impunity.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
       - [`🧭_overview_pitch_at_palace_structure.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
       - [`🪶_tea_toast_and_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🪶_tea_toast_and_transparency.md)
