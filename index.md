@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 23:09:48 UTC_
+_Generated on 2025-11-02 23:12:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1777,7 +1777,9 @@ _Generated on 2025-11-02 23:09:48 UTC_
       - [`why_euphemisms_matter.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/why_euphemisms_matter.md)
       - [`⚖️_linguistic_integrity_as_security_risk.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
       - [`🎭_poets_as_primary_targets.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
+      - [`📊_daily_watchlist.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📊_daily_watchlist.md)
       - [`📡_language_as_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
+      - [`🧭_how_we_got_here.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
       - [`🍉_why_do_we_care_about_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
