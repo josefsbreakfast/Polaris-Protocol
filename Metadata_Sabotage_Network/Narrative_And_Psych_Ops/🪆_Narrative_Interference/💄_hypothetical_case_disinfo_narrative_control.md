@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node reconstructs a **hypothetical disinformation lifecycle**, charting how hostile actors simulate scandal, induce chaos, and convert procedural systems into tools of attrition.  
 Each stage — injection, performance, escalation, derailment — reveals how psychological and bureaucratic interference intersect to exhaust and discredit a survivor.  
 
@@ -13,7 +13,7 @@ Its value lies in showing how such patterns convert private harm into public con
 
 ---
 
-## 🧩 Forensic Arc I — False Evidence Injection  
+## 🌋 Forensic Arc I — False Evidence Injection  
 
 | Aspect | Description |
 |---------|--------------|
