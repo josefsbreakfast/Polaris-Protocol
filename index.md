@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 22:20:49 UTC_
+_Generated on 2025-11-02 22:22:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -9,6 +9,8 @@ _Generated on 2025-11-02 22:20:49 UTC_
     - [`generate-index.yml`](.github/workflows/generate-index.yml)
     - [`repo-wordcount.yml`](.github/workflows/repo-wordcount.yml)
 - [**Containment_Studies/**](Containment_Studies/)
+  - [**🌙_Everyday_Containment/**](Containment_Studies/🌙_Everyday_Containment/)
+    - [`README.md`](Containment_Studies/🌙_Everyday_Containment/README.md)
   - [**💞_Containment_Theory/**](Containment_Studies/💞_Containment_Theory/)
     - [`README.md`](Containment_Studies/💞_Containment_Theory/README.md)
   - [`README.md`](Containment_Studies/README.md)
