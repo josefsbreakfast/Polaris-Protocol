@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 22:31:55 UTC_
+_Generated on 2025-11-02 22:32:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -13,6 +13,7 @@ _Generated on 2025-11-02 22:31:55 UTC_
     - [`README.md`](Containment_Studies/🌙_Everyday_Containment/README.md)
   - [**💞_Containment_Theory/**](Containment_Studies/💞_Containment_Theory/)
     - [`README.md`](Containment_Studies/💞_Containment_Theory/README.md)
+    - [`⚛️_containment_as_coupled_waveform_theory.md`](Containment_Studies/💞_Containment_Theory/⚛️_containment_as_coupled_waveform_theory.md)
     - [`🌊_containment_as_dynamic_field_topology.md`](Containment_Studies/💞_Containment_Theory/🌊_containment_as_dynamic_field_topology.md)
   - [**🪐_Meta_Containment/**](Containment_Studies/🪐_Meta_Containment/)
     - [`README.md`](Containment_Studies/🪐_Meta_Containment/README.md)
