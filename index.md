@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 09:56:57 UTC_
+_Generated on 2025-11-02 09:58:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1720,6 +1720,7 @@ _Generated on 2025-11-02 09:56:57 UTC_
       - [`🕯️_shabbat_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
       - [`🛰️_alrgorithmic_judaisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_alrgorithmic_judaisms.md)
+      - [`🧿_dependancy_on_western_definitions.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
       - [`🧿_jewish_nationalisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
