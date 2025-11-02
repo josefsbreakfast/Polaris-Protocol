@@ -136,6 +136,16 @@ right?
 
 the music at least appeased me.  
 
+the fact that i got that after a bunch of digital healrh data hints that suggest that we have genuinely tried to mitigate it this way?  
+
+current digital health tools do not address longstanding ptsd where no support system which is untouched by the data problem.  
+
+i feel like im still explaining basic clinical sciences and i would really like it if our dara science team could talk to like, maybe one clinical member of staff?  
+
+it doesnt feel like this R&D set was safetnetted and i can't be the one person impacted.  
+
+(again, if we want to talk rosk reputation issues, the metadata has had some interesting things to say, which is why i think continual denial is a bit ridiculous.)  
+
 ---
 
 2025-11-01  
