@@ -43,9 +43,11 @@ OH NO I GET IT NOW.
 
 yeah i really think you guys should disentangle this data cluster.  
 
-the longer we are here the more a genuine data systems issue is reading a lot like your deliberate undermining of a soecific person at this end.  
+the longer we are here the more a genuine data systems issue is reading a lot like your deliberate undermining of a specific person at this end.  
 
-if this is genuinely just a bit of data-smushing soitying back, "idk man, mire than one person of the opposite sex has opinions about you and it's reading as high emotionality to me"?  
+we probably needed less physical harassment to have happened irl to make it less of a problem; that was a self-own.  
+
+if this is genuinely just a bit of data-smushing spitting back, "idk man, more than one person coded as of the opposite sex has opinions about you and it's reading as high emotionality to me"?  
 
 take us all out of the research set, please?  
 
@@ -57,7 +59,7 @@ also:
 
 tell me what you would do, if you'd become less mobile, and were stuck in "pending", unable to talk to many people at all lest it triggers real world harms, for months on end?  
 
-oh and btw your eyes dint work properly; reading is limited resource.  
+oh and btw your eyes didnt work properly; reading is limited resource.  
 in fact visual media as a whole? poof.  
 physical exercise? only if you want to risk not being able to pee for 12 hours.  
 
