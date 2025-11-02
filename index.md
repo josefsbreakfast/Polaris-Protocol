@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 23:05:00 UTC_
+_Generated on 2025-11-02 23:09:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1770,8 +1770,13 @@ _Generated on 2025-11-02 23:05:00 UTC_
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
       - [`archive_capture_template.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/archive_capture_template.md)
       - [`counterframes.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/counterframes.md)
+      - [`cross_mirroring_sop.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/cross_mirroring_sop.md)
+      - [`flagging_incident_report.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/flagging_incident_report.md)
       - [`frame_drift_watchlist.yaml`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/frame_drift_watchlist.yaml)
       - [`what_they_now_call_X.csv`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/what_they_now_call_X.csv)
+      - [`why_euphemisms_matter.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/why_euphemisms_matter.md)
+      - [`⚖️_linguistic_integrity_as_security_risk.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
+      - [`🎭_poets_as_primary_targets.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
       - [`📡_language_as_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
