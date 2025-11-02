@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Suppression by silence is blunt. Suppression by **tone correction** is elegant.  
 Syntactic drift describes how cloned or mediated reproductions of a survivor’s voice gradually shed the small irregularities that proved it was human.  
 Where *🌀 Synthetic Narratives* distort **content**, clone tone distorts **form** — replacing cadence with compliance.
@@ -13,7 +13,7 @@ A clone never lies by what it says, only by how it breathes between words.
 
 ---
 
-## 🧩 Forensic Drift Markers  
+## 🪼 Forensic Drift Markers  
 
 | Marker | Authentic Expression | Drifted Clone Expression | Forensic Interpretation |
 |---------|---------------------|---------------------------|--------------------------|
@@ -52,7 +52,7 @@ Archival restoration begins by re-introducing rhythm — the stutter, the humour
 
 ---
 
-## 🧩 Repair and Resistance  
+## 🐦‍🔥 Repair and Resistance  
 - **Preserve tempo:** publish verbatim, pauses intact.  
 - **Version visibly:** log every edit to show drift points.  
 - **Humour check:** irony is an early-warning system; when it disappears, review the channel.  
