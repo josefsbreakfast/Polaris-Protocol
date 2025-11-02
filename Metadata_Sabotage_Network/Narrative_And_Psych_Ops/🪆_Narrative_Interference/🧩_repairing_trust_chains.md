@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 When meaning has been bent out of shape, repair begins not with silence but with **reciprocal verification**.  
 This node explores how trust chains — the human and technical links that vouch for authenticity — can be reforged after clone-tone, semantic drift, or narrative flooding have done their work.
 
@@ -13,7 +13,7 @@ It means designing a network that expects interference and **remains legible des
 
 ---
 
-## 🧩 Key Features  
+## 🥭 Key Features  
 - **Reciprocal Verification:** proof of origin is distributed, not centralised.  
 - **Stylistic Fingerprinting:** linguistic forensics that protect undertone integrity.  
 - **Community Echo Protocols:** repetition as restoration, not manipulation.  
@@ -22,7 +22,7 @@ It means designing a network that expects interference and **remains legible des
 
 ---
 
-## 🔍 Analysis / Content  
+## 🐝 Analysis / Content  
 
 ### 1. From Proof to Witness  
 Authenticity cannot rely solely on encryption or cryptography; it must be felt in tone and corroborated in context.  
