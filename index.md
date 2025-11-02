@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 16:18:46 UTC_
+_Generated on 2025-11-02 16:20:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1738,7 +1738,6 @@ _Generated on 2025-11-02 16:18:46 UTC_
       - [`📊_cricket_and_open_source_investigation_theory.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
       - [`📜_foi_and_sar_exercise_pack.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
       - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📺_coverup_as_cultural_genre.md)
-      - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
       - [`🔍_how_to_trace_event_data_flows.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md)
       - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🕳️_social_memory_of_impunity.md)
       - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🗞️_institutional_silence_as_public_signal.md)
@@ -1846,6 +1845,7 @@ _Generated on 2025-11-02 16:18:46 UTC_
     - [`📮_the_polaris_mail_box.md`](Polaris_Nest/Git_Intake_Drawer/📮_the_polaris_mail_box.md)
     - [`📯_soundline_bark_to_trumpet.md`](Polaris_Nest/Git_Intake_Drawer/📯_soundline_bark_to_trumpet.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
+    - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔁_ritual_and_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🔁_ritual_and_refusal.md)
     - [`🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md`](Polaris_Nest/Git_Intake_Drawer/🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md)
