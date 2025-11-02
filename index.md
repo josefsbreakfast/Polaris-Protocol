@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 14:52:03 UTC_
+_Generated on 2025-11-02 14:53:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1720,6 +1720,7 @@ _Generated on 2025-11-02 14:52:03 UTC_
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
       - [`⚖️_regulatory_and_risk_framework.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
+      - [`🎭_why_it_attracts_bad_actors.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
       - [`📜_foi_and_sar_exercise_pack.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
       - [`🧭_overview_pitch_at_palace_structure.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
