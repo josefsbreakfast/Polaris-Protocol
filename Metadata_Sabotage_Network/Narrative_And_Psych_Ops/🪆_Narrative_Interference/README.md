@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This cluster examines how voices are bent out of shape — not muted but **re-tuned** until authenticity frays.  
 Narrative interference replaces erasure with echo: it mimics tone, cadence, and phrasing until the survivor’s voice sounds “off” even to herself.  
 The result is confusion that looks like conversation, and censorship that sounds like consent.
@@ -42,7 +42,7 @@ Narrative interference therefore operates as a **confidence-collapse engine** �
 
 ---
 
-## 🧩 Analytical Threads  
+## 🐝 Analytical Threads  
 1. **Linguistic Drift** — semantic and syntactic shifts engineered to undermine author reliability.  
 2. **Institutional Tone Laundering** — policy or media adaptation of survivor language until all sharp edges are smoothed.  
 3. **Synthetic Coherence** — AI-driven or human-bot networks creating convincing but hollow consensus.  
@@ -51,7 +51,7 @@ Narrative interference therefore operates as a **confidence-collapse engine** �
 
 ---
 
-## ⚙️ Methods of Interference  
+## 🧿 Methods of Interference  
 
 | Category | Mechanism | Example |
 |-----------|------------|---------|
@@ -63,7 +63,7 @@ Narrative interference therefore operates as a **confidence-collapse engine** �
 
 ---
 
-## 🧱 Counter-Responses  
+## 🧨 Counter-Responses  
 
 | Strategy | Description |
 |-----------|-------------|
