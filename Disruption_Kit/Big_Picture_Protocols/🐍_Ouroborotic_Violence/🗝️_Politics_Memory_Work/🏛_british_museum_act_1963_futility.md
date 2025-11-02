@@ -48,7 +48,10 @@
 
 - Given the ability of viral campaigns to pressure governments, we would be better getting ahead of, rather than being situated a step behind, [this](https://vm.tiktok.com/ZNdTet2Lk/).
 <!--The boat boys will not cope if that one comes up out of the blue.-->
-- The [Grand Egyptian Museum](https://vm.tiktok.com/ZNdTebHHf/) has opened already, and we hold Egyptian pieces with contestable legal status.  
+- The [Grand Egyptian Museum](https://vm.tiktok.com/ZNdTebHHf/) has opened already, and we hold Egyptian pieces with contestable legal status.
+- The trending hashtag would be interesting to watch for potential interference: #BringThemBack.
+- Care with how the automated text is already obscuring the translation from Egyptian Arabic: "Not by the force of violence, but by the force of our people's will", has already been overlaid by text which could imply on preexisting white bias, to include "by force" more generally.
+- Funny how these things come up repeatedly, no?  
 
 ---
 
