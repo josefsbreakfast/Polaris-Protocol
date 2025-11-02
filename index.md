@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 22:54:03 UTC_
+_Generated on 2025-11-02 23:05:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1768,6 +1768,11 @@ _Generated on 2025-11-02 22:54:03 UTC_
       - [`🪶_tea_toast_and_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🪶_tea_toast_and_transparency.md)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
+      - [`archive_capture_template.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/archive_capture_template.md)
+      - [`counterframes.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/counterframes.md)
+      - [`frame_drift_watchlist.yaml`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/frame_drift_watchlist.yaml)
+      - [`what_they_now_call_X.csv`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/what_they_now_call_X.csv)
+      - [`📡_language_as_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
       - [`🍉_why_do_we_care_about_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
