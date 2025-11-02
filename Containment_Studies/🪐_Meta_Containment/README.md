@@ -37,7 +37,38 @@ It is not an escape from containment but an attempt to **map the recursive folds
 - **Containment as Continuity.**  Without self-bounding, no archive could persist; the question is *how much self-containment can be made conscious?*
 
 Meta-Containment therefore keeps the entire **Containment Studies** cluster honest:  
-it maintains awareness that every definition of containment also performs one.
+it maintains awareness that every definition of containment also performs one.  
+
+---
+
+### 🌀 Recursive Containment Spiral
+
+```mermaid
+graph TD
+    A[Protocol] --> B[Archive]
+    B --> C[Frame]
+    C --> D[Author]
+    D --> E[Observer]
+    E --> A
+    subgraph Reflection["Meta-Containment Loop"]
+        A
+        B
+        C
+        D
+        E
+    end
+
+```
+
+### 🧿 Interpretation
+
+- **Protocol → Archive** — methods of governance generate the records that justify them.  
+- **Archive → Frame** — archives become aesthetic and conceptual containers.  
+- **Frame → Author** — frameworks shape who can speak and how.  
+- **Author → Observer** — authorship produces a witnessing structure, which revalidates the protocol.  
+- **Observer → Protocol** — observation feeds back as refinement or enforcement, closing the recursive loop.
+
+In Polaris terms, this is the **“containment ecology of knowledge”** — the living recursion that keeps every analytical tool semi-aware of its own edges.  
 
 ---
 
