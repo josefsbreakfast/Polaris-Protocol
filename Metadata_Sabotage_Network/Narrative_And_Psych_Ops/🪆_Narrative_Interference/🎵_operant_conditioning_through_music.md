@@ -140,13 +140,38 @@ Building resilience means recognising the **neurological commons**: the shared c
 
 ---
 
+## 🧩 Interpretive Caution — Taste, Context, and Radicalisation Loops  
+
+The emotional mechanisms described here are **probabilistic, not deterministic.**  
+People bring their own histories, preferences, and social frames to every song.  
+A melody that evokes unity for one listener may feel naive or coercive to another.  
+The effect depends on *context, repetition, and relational meaning* as much as on neurochemistry.  
+
+- **Taste and identification:** individuals filter musical influence through identity, community, and aesthetics.  
+- **Temporal framing:** music heard in childhood encodes differently than music adopted in adulthood.  
+- **Cultural irony:** recognising artifice often buffers against emotional capture.  
+
+These variations are crucial when considering radicalisation dynamics.  
+Music can operate as a **gateway vector** in both directions — toward solidarity or extremity — because it activates shared feeling before shared argument.  
+Online ecosystems amplify this by clustering listeners through **affective resonance**, not ideology.  
+Aesthetic subcultures (metal, folk revival, nationalist pop, militant rap) can become staging grounds for identity formation long before explicit politics enter.  
+
+The mechanism is the same as any other operant conditioning:  
+emotion → repetition → familiarity → belief.  
+But outcomes diverge depending on **who contextualises the feeling** and whether reflection or feedback is available.  
+
+Awareness of this continuum keeps the analysis grounded:  
+sound may steer emotion, but it never abolishes choice.  
+
+---
+
 ## 🌌 Constellations  
 🧿 🎵 🧠 🪩 — affect loops, behavioural feedback, sensory sovereignty, cognitive counter-nudge.  
 
 ---
 
 ## ✨ Stardust  
-music conditioning, mnemonic imprinting, repetition loops, emotional overwrite, affective control, cognitive override, analog listening, meta-awareness, sensory sovereignty, algorithmic endocrinology, memory encoding, sonic psyops, acoustic influence, resilience inheritance, commercial jingles  
+music conditioning, mnemonic imprinting, repetition loops, emotional overwrite, affective control, cognitive override, analog listening, meta-awareness, sensory sovereignty, algorithmic endocrinology, memory encoding, sonic psyops, acoustic influence, resilience inheritance, commercial jingles, radicalisation loops  
 
 ---
 
@@ -158,7 +183,7 @@ It documents the use of sonic repetition as behavioural control and explores how
 > 
 > - [🎶 She Knows Loop](../../../👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catelogue/🎶_she_knows_loop.md) — *detailed case study of a targeted audio motif*  
 > - [🎪 Moles in the Circus](../🎪_moles_in_the_circus.md) — *social containment and empathy theatre*  
-> - [🧱 Keystone Dependency Trace](../🧱_keystone_dependency_trace.md) — *structural reliance on affective anchors*  
+> - [🧱 Keystone Dependency Trace](./🧱_keystone_dependency_trace.md) — *structural reliance on affective anchors*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
