@@ -1,3 +1,7 @@
+apparantoy at some point the robit suggested zaltzman got his own node and apparantky i was like YES so here we are.  
+
+i have been kind enough to take it out of its first home but not kind enough to delete it, apparantly.  
+
 # 📻 *Andy Zaltzman and the Ethics of Statistical Comedy*
 **Humour, Integrity, and the Moral Weight of Numbers**
 
