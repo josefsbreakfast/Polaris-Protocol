@@ -125,7 +125,7 @@ It documents how fabricated storylines emerge from projection and data misuse, a
 > 📡 Cross-references:
 > 
 > - [🧠 Psychological Containment](../🧠_Psychological_Containment/README.md) — *companion node on observer delay and compliance-by-silence*  
-> - [👅 Voice Disruption Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *related node on smear & sexualisation tactics*  
+> - [👅 Voice Disruption & Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *related node on smear & sexualisation tactics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
