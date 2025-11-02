@@ -70,7 +70,7 @@ Synthetic narratives turn misconduct into myth; tracing their seams re-locates a
 
 ## 🪞 Interference Echo  
 Synthetic narratives distort **content**;  
-[Syntactic Drift and Clone Tone](./💣_syntactic_drift_and_clone_tone.md) distorts **form**.  
+[💣 Syntactic Drift and Clone Tone](./💣_syntactic_drift_and_clone_tone.md) distorts **form**.  
 Together they show how data and diction collaborate to erase stance.  
 Their repair lies in provenance chains and tonal fidelity — see  
 [🧩 Repairing Trust Chains](./🧩_repairing_trust_chains.md)  
