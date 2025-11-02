@@ -4,7 +4,7 @@
 
 ---
 
-### 💭 **Interpretive Note — Practical Indeterminability in Daily Life**  
+### 🧠 **Interpretive Note — Practical Indeterminability in Daily Life**  
 What Feynman called *practical indeterminability* becomes, at the human scale,  
 the quiet uncertainty that shapes behaviour.  
 We rarely act from total knowledge; we act within partial information,  
@@ -69,9 +69,10 @@ everyday containment, bureaucracy, attention economy, social etiquette, algorith
 *🌙 Everyday Containment* is a lived-systems cluster of the **Containment Studies** constellation in the **Polaris Protocol**.  
 It documents how containment manifests in ordinary life, translating large-scale control into intimate gestures of compliance and care.  
 
-> 📡 Cross-references:  
-> - [💞 Containment Theory](../💞_Containment_Theory/📖_README.md) — systemic and analytical models  
-> - [🪐 Meta-Containment](../🪐_Meta_Containment/) — recursive containment within knowledge systems  
+> 📡 Cross-references:
+> 
+> - [💞 Containment Theory](../💞_Containment_Theory/README.md) — *systemic and analytical models*  
+> - [🪐 Meta-Containment](../🪐_Meta_Containment/README.md) — *recursive containment within knowledge systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
