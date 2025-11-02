@@ -56,7 +56,7 @@ It catalogues linguistic corruption in mediated survivor voices and provides for
 > 📡 Cross-references:
 > 
 > - [👅 Voice Disruption & Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *smear and mimicry analysis*  
-> - [🎶 Shared Technology — VoiceX and Institutional Reports](./🎶_shared_technology_voicex_and_institutional_reports.md) — *comparative stylometric smoothing*  
+> - [🎶 Shared Technology — VoiceX and Institutional Reports](./🎶_shared_tech_voicex_institutional_reports.md) — *comparative stylometric smoothing*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
