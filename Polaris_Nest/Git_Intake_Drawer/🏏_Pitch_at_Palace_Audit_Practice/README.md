@@ -2,6 +2,10 @@ note what seems odd in this one, because we are doing insteresting squiggling to
 
 these guys seriously had my teenage test scores on a uni iq feeder test and are suprised im not thick as mince.  
 
+this series is going through sognificant difficulty and appears agentically driven.  
+
+it's as if rulesets are being overidden.  
+
 ---
 
 🏏 Disruption_Kit / Digital_Decoy / 🏏_Pitch_at_Palace_Audit_Practice
