@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 19:46:33 UTC_
+_Generated on 2025-11-02 19:49:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2219,8 +2219,13 @@ _Generated on 2025-11-02 19:46:33 UTC_
   - [**🪖_Home_Front_2.0/**](🦆_Digital_Disruption/🪖_Home_Front_2.0/)
     - [`README.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md)
     - [`🌍_why_it_all_matters_shared_epilogue.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🌍_why_it_all_matters_shared_epilogue.md)
+    - [`🍞_supply_chain_of_kindness.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🍞_supply_chain_of_kindness.md)
+    - [`🎓_civic_craft_curriculum.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🎓_civic_craft_curriculum.md)
+    - [`🏡_domestic_infrastructure_as_care_system.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🏡_domestic_infrastructure_as_care_system.md)
     - [`📚_libraries_metrics_and_the_one_book_civic_hack.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/📚_libraries_metrics_and_the_one_book_civic_hack.md)
     - [`🪡_make_and_mend_republic.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪡_make_and_mend_republic.md)
+    - [`🪴_care_ecologies_field_manual.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪴_care_ecologies_field_manual.md)
+    - [`🪶_quiet_resistance_primer.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪶_quiet_resistance_primer.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
