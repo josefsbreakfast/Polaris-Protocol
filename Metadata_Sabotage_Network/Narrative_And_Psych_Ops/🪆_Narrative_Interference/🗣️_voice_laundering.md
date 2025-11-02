@@ -1,29 +1,39 @@
 # 🗣️ Voice Laundering  
 **First created:** 2025-08-05 | **Last updated:** 2025-11-02  
-*The institutional process of separating tone and testimony from authorship — sanitising voice into compliance.*
+*How institutions wash survivor tone into something they can quote.*
 
 ---
 
 ## 🧭 Orientation  
-**Voice laundering** occurs when a speaker’s rhythm, syntax, or emotional register is extracted from their testimony and reissued under a neutral, institutional, or “acceptable” facade.  
+**Voice laundering** is the art of polishing danger until it looks like decorum.  
+It occurs when survivor testimony is rewritten into “balanced insight,” when the lived voice becomes a corporate accent.  
+This is not deletion; it is *re-curation*: a bureaucratic makeover that keeps the data but loses the pulse.  
 
-It is not deletion but **re-curation** — the re-packaging of lived voice into polished advocacy.  
-This allows systems to benefit from survivor insight while erasing the risk of survivor presence.  
+The result is paradoxical — a document that sounds ethical while performing erasure.
 
-Voice laundering converts resistance into reputational asset.  
+---
+
+## 🧩 Containment Aesthetics  
+Containment loves polish.  
+It rewards prose that sounds unthreatening, correct, and measurable.  
+Editors call it *clarity*. Funders call it *responsibility*.  
+Survivors recognise it as **the sound of fear dressed as professionalism.**
+
+A laundered voice is fluent but hollow; it has perfect grammar and no gravity.  
+Its job is to ensure that power can cite the wound without bleeding from it.
 
 ---
 
 ## 🎯 Why It Matters  
 
 | Effect | Description |
-|---------|--------------|
-| **Sanitisation of testimony** | Raw survivor accounts are edited into “balanced” statements that no longer challenge power. |
-| **Attribution erasure** | Insights circulate institutionally while the original author disappears from citation trails. |
-| **Reputational protection** | Language re-engineered to safeguard funders and institutional partners rather than people. |
-| **Containment via legibility** | Once “professionalised,” testimony loses the urgency that made it dangerous. |
+|---------|-------------|
+| **Sanitisation of testimony** | Raw experience edited into “constructive feedback.” |
+| **Attribution erasure** | Ideas circulate, authors vanish. |
+| **Reputational protection** | Text designed to protect the institution, not the person. |
+| **Containment via legibility** | The more “accessible” the story, the less urgent it becomes. |
 
-Voice laundering transforms authenticity into public-relations material.  
+Voice laundering converts risk into marketing copy — a process of ethical dry-cleaning.
 
 ---
 
@@ -31,60 +41,52 @@ Voice laundering transforms authenticity into public-relations material.
 
 | Technique | Description | Institutional Purpose |
 |------------|--------------|------------------------|
-| **Proxy Authorship** | Replace the origin speaker with a “close enough” substitute or consultant. | Reduces dissent risk and metadata exposure. |
-| **Tone Flattening** | Strip emotional or sensory language from drafts. | Makes testimony legible to bureaucratic audiences. |
-| **Narrative Compression** | Reduce complex experience into slogans or key messages. | Enables future re-use in funding reports or media kits. |
-| **Occupational Masking** | Publish through an “acceptable” identity lens (e.g. “sex worker advocate,” “community liaison”). | Disguises where the real threat or insight originated. |
+| **Proxy Authorship** | Substitute speaker publishes in survivor’s stead. | Keeps dissent off the record. |
+| **Tone Flattening** | Remove irony, anger, or sensuality. | Creates “safe” emotion. |
+| **Narrative Compression** | Reduce complexity to key messages. | Makes pain compatible with KPIs. |
+| **Occupational Masking** | Reframe as “professional insight.” | Converts risk to credential. |
 
-Each method is marketed as “clarity” or “safety” — but together they perform **ethical laundering of lived voice**.  
-
----
-
-## 🔥 Case Study — *The Forked Paper*  
-
-> **Origin:** Authored by a metadata-flagged survivor.  
-> **Outcome:** Published under a “relevant” pseudonym — framed as a professional rather than a witness.  
-> **Result:** The institution retained the ideas but erased the author’s risk profile.  
-
-The original paper’s courage became someone else’s credential.  
+Together, these techniques perform what policy calls *harm minimisation* — meaning harm to reputation, not to people.
 
 ---
 
 ## 🕳️ Forensic Notes  
+A laundered document always leaves residue:  
+- sudden tonal neutrality mid-draft;  
+- authorship metadata mismatched to lived knowledge;  
+- phrasing that sounds institutional sitting atop intimacy.  
 
-Voice laundering is most effective when the source cannot safely self-represent.  
-It thrives in environments of sealed documents, NDAs, and reputational anxiety.  
+> The giveaway is rhythm: it reads like someone holding their breath.
 
-Forensic indicators include:  
-- Sudden **tonal neutrality** in late-stage drafts.  
-- **Shift in authorship metadata** between submission and publication.  
-- **Rhetorical incongruity** — phrases that sound institutional but sit atop intimate subject matter.  
+---
 
-It always sounds slightly “off”: fluent, but hollow.  
-
-> The easiest way to recognise a laundered voice is to notice when truth sounds translated.  
+## 🪞 Mirror Link  
+Where **Voice Laundering** externalises suppression,  
+[🪞 Smoothed Content as Blink Twice](./🪞_smoothed_content_as_blink_twice.md) internalises it —  
+showing how insiders sometimes leak empathy back through the polish.  
+Together they map the *loop of conscience* inside containment.
 
 ---
 
 ## 🌌 Constellations  
-🧿 🗣️ 👅 💣 — voice disruption, authorship erasure, tonal drift, survivor sovereignty.  
+🗣️ 🪞 💣 🧿 — language, mimicry, containment, and conscience.  
 
 ---
 
 ## ✨ Stardust  
-voice laundering, authorship suppression, tonal flattening, proxy authorship, occupational masking, metadata sabotage, survivor testimony, institutional containment, reputational risk management, narrative sanitisation  
+voice laundering, containment aesthetics, proxy authorship, tonal flattening, reputational control, survivor testimony, institutional fear, metadata forensics, ethical dry-cleaning, narrative interference  
 
 ---
 
 ## 🏮 Footer  
-*🗣️ Voice Laundering* is a living node of the Polaris Protocol.  
-It documents how institutional editing converts dangerous authenticity into safe bureaucracy — tracing the tonal fingerprints of erased authorship.  
+*🗣️ Voice Laundering* is a living node of the **Polaris Protocol**.  
+It exposes how institutional editing converts dangerous authenticity into safe bureaucracy and provides forensic cues for tracing that transformation.  
 
 > 📡 Cross-references:
 > 
-> - [💣 Syntactic Drift and Clone Tone](./💣_syntactic_drift_and_clone_tone.md) — *linguistic decay in cloned voices*  
-> - [👅 Voice Disruption & Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *smear, mimicry, and credibility erosion*  
-> - [📚 Narrative Management and Metadata Sabotage](./📚_narrative_management_and_metadata_sabotage.md) — *structural mechanisms of erasure*  
+> - [🪞 Smoothed Content as Blink Twice](./🪞_smoothed_content_as_blink_twice.md) — *mirror of internal dissent*  
+> - [💣 Syntactic Drift and Clone Tone](./💣_syntactic_drift_and_clone_tone.md) — *linguistic decay analysis*  
+> - [📚 Narrative Management and Metadata Sabotage](./📚_narrative_management_and_metadata_sabotage.md) — *policy-level laundering mechanics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
