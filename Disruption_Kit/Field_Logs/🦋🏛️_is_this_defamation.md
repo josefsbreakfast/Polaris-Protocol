@@ -116,4 +116,10 @@ so again: i would consider a conversation.
 
 ---
 
+oh and btw that video is the algorithm doing the "but you do matter" equivilant.  
+
+hands up who has had a mental health dusorder where "chin up" was good advice?  
+
+---
+
 2025-11-01  
