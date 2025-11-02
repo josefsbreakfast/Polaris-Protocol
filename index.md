@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 02:36:11 UTC_
+_Generated on 2025-11-02 02:40:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1772,6 +1772,7 @@ _Generated on 2025-11-02 02:36:11 UTC_
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
     - [`📊_risk_scaling_of_algorithmic_misidentification.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scaling_of_algorithmic_misidentification.md)
     - [`📊_spreadsheet_of_silence.md`](Polaris_Nest/Git_Intake_Drawer/📊_spreadsheet_of_silence.md)
+    - [`📊_the_objectivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/📊_the_objectivity_paradox.md)
     - [`📓_field_log_metadata_interference_and_defamation_campaign.md`](Polaris_Nest/Git_Intake_Drawer/📓_field_log_metadata_interference_and_defamation_campaign.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_authoritarian_century_bridge_of_register.md`](Polaris_Nest/Git_Intake_Drawer/📚_authoritarian_century_bridge_of_register.md)
