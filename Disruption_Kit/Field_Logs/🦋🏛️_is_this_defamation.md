@@ -98,4 +98,22 @@ this is labour.
 
 ---
 
+`Disruption_Kit/Field_Logs/🦋🏛️_i_mean_i_guess_youre_trying_and_talking_to_girls_is_tough.PNG`  
+
+i can see you're twiddling; you know what i'm seeing on ux that's making me say that.  
+
+i allreciate the attempt, thank you.  
+
+worth noting that the feed has previously spat skme significant risks out about all institutions previously too, so if you need me to increase the liklihood you'll listen that way, we can frame it as anonymised.  
+
+but there is a signifucant risk to literally everyone if we're going on reputational risk, and i need to to understand i've been deliberately not indulging it on an interface which feeds algorithms for some time.  
+
+the information is still in my head and on record as you will be aware.  
+
+some of this is by giving specific behavioural dara or dara which has veen deleted from your current view.  
+
+so again: i would consider a conversation.  
+
+---
+
 2025-11-01  
