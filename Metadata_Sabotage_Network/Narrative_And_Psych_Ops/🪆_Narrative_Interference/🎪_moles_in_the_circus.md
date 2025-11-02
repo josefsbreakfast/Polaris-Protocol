@@ -13,7 +13,22 @@ By studying these roles — NGO liaisons, academic observers, legal bystanders, 
 
 ---
 
+## 🧩 Structural & Systemic Context  
+Containment environments are rarely monolithic.  
+They are federations of departments, charities, think tanks, and private contractors that share reputational risk.  
+When one actor carries politically sensitive data — whistleblower, audit lead, survivor researcher — others orbit to **absorb shock** or **control narrative velocity**.
+
+- **Governance Drift:** the more entities share responsibility, the less any single body feels duty to intervene.  
+- **Institutional Osmosis:** staff rotate between NGO, academia, and consultancy roles, carrying insight — and bias — across silos.  
+- **Performance of Care:** “support” becomes simulation; empathy delivered through form letters and wellness check-ins.  
+
+These overlapping loyalties form the *ring* of the circus. Within it, specific archetypes perform the same moves over and over again — predictable, rehearsed, and measurable.
+
+---
+
 ## 🎭 Mole Typology  
+Each performer in this theatre has a function.  
+Some soothe, others delay, some mirror. All translate risk into procedure.  
 
 | Mole Type | Function | Telltale Behaviour |
 |-----------|----------|--------------------|
@@ -26,24 +41,96 @@ By studying these roles — NGO liaisons, academic observers, legal bystanders, 
 
 Each role occupies a **legible niche** within compliance culture:  
 they are risk-managers, not villains.  
-But when accountability fails, these same mechanisms become vectors for harm.
+But when accountability fails, these same mechanisms become vectors for harm.  
+
+The following diagram visualises how these roles interconnect across sectors — a map not of people, but of pathways.
 
 ---
 
-## 🧩 Structural & Systemic Context  
-Containment environments are rarely monolithic.  
-They are federations of departments, charities, think tanks, and private contractors that share reputational risk.  
-When one actor carries politically sensitive data — whistleblower, audit lead, survivor researcher — others orbit to **absorb shock** or **control narrative velocity**.
+```mermaid
+flowchart LR
+    subgraph NGO_Sphere["🌱 NGO / Charity Sphere"]
+        A1["🧥 Double-Wrapped NGO Worker"]
+        A2["💬 Safeguarding Liaison"]
+    end
 
-- **Governance Drift:** the more entities share responsibility, the less any single body feels duty to intervene.  
-- **Institutional Osmosis:** staff rotate between NGO, academia, and consultancy roles, carrying insight — and bias — across silos.  
-- **Performance of Care:** “support” becomes simulation; empathy delivered through form letters and wellness check-ins.  
+    subgraph Academic_Sphere["🎓 Academic / Policy Sphere"]
+        B1["🎓 Policy Academic"]
+        B2["📊 Research Partner / Data Fellow"]
+    end
 
-The circus sustains itself because every participant can point to a procedural justification.  
+    subgraph Legal_Sphere["⚖️ Legal / Regulatory Sphere"]
+        C1["🧑‍⚖️ Legal Bystander"]
+        C2["📄 Compliance Officer"]
+    end
+
+    subgraph Health_Sphere["🩺 Therapeutic / Behavioural Health Sphere"]
+        D1["🗣️ Containment Therapist"]
+        D2["🧪 Testbed Handler"]
+    end
+
+    subgraph Survivor_Node["🧿 Survivor / Whistleblower"]
+        S1["🪞 False Ally / Mirror Agent"]
+        S2["🎭 Survivor Voice"]
+    end
+
+    %% Cross-Domain Flows
+    A1 -->|Data Extraction / 'Support'| B1
+    B1 -->|Policy Framing| C1
+    C1 -->|Legal Review / Delay| D1
+    D1 -->|Therapeutic Reframing| S2
+    S2 -->|Disclosure / Testimony| A2
+    A2 -->|NGO Report| C2
+    C2 -->|Regulatory Feedback| B2
+    B2 -->|Advisory Output| A1
+
+    %% Feedback Loops
+    S2 -.->|Clarity Spike| A1
+    D2 -->|Behavioural Logging| Academic_Sphere
+    NGO_Sphere -->|Narrative Control| Legal_Sphere
+    Survivor_Node -->|Resistance Data| Academic_Sphere
+
+    classDef molenet fill:#1e1e2e,stroke:#aaa,stroke-width:1px,color:#fff;
+    class A1,A2,B1,B2,C1,C2,D1,D2,S1,S2 molenet;
+```
+
+### 🧩 Reading Notes  
+The diagram above functions like an x-ray of an ecosystem: not hierarchical but **circulatory**.  
+- **Loops** show where power becomes vulnerable — where genuine safeguarding and control blur.  
+- **Arrows** depict data and narrative movement; dashed arrows (`-.->`) indicate *activation events* like “clarity spikes.”  
+- The **survivor node** anchors both origin and mirror, showing how systems study their own projection of the person they claim to protect.  
+
+To read it properly, trace one full loop — notice how easily empathy becomes telemetry.
+
+---
+
+## 🧩 Mole Network Flow Table  
+To translate that circulatory map into diagnostics, the table below dissects each key flow: what risk it carries, how it tends to fail, and what could interrupt the cycle.  
+
+| Flow Path | Risk Type | Failure Mode | Safeguard Action |
+|------------|------------|---------------|------------------|
+| NGO → Academia | **Epistemic** | Testimony reclassified as “data” without consent | Establish reciprocal research ethics; survivor retains copy and veto rights over quotes and anonymisation. |
+| Academia → Legal | **Legal / Interpretive** | Policy brief reframes lived evidence as “trend insight” | Require source-of-origin metadata and confirm citation accuracy before policy translation. |
+| Legal → Therapeutic | **Psychological / Institutional** | Legal delay disguised as concern for mental health | Separate wellbeing contact from case progress contact; enforce transparent record hand-offs. |
+| Therapeutic → Survivor | **Psychological** | Anger reframed as instability; consent eroded through empathy script | Mandate plain-language consent refreshes and survivor-chosen advocates during “safeguarding” meetings. |
+| Survivor → NGO | **Procedural** | Disclosure reused to justify further observation | Implement “one-way consent” logs: survivor disclosure cannot trigger new data processing without explicit opt-in. |
+| NGO → Regulator | **Governance** | Reputation management replaces safeguarding | Require conflict-of-interest statements and dual-channel reporting (governance + survivor audit). |
+| Regulator → Academia | **Epistemic / Policy Drift** | Closed feedback loop of credibility metrics | Publish open audit of how survivor data informs research metrics; create standing oversight board. |
+| Academia → NGO | **Narrative** | Cross-institutional storytelling erases primary voice | Insert survivor-authored executive summary in any derivative report; enforce acknowledgment chain. |
+| Therapist / Testbed → Academia | **Behavioural / Surveillance** | Observational data used to refine coercive models | Classify behavioural logging as research; apply ethics review and withdrawal rights. |
+| Survivor ↔ All Domains | **Systemic** | Emotional or informational capture under banner of care | Embed *epistemic safety clause*: the right not to be reframed, tested, or mirrored without explicit and ongoing consent. |
+
+### 🧿 Summary Insight  
+The circus is not about villains infiltrating a tent — it is about **feedback loops without ground rules.**  
+Each flow reveals how benevolent functions (care, policy, regulation) can become extractive when reflexivity disappears.  
+
+Safeguarding authoritarian drift means treating every cross-domain exchange as a consent event, not a formality.  
+Institutional self-awareness, not secrecy, is the true security measure.  
 
 ---
 
 ## 🧠 Psychological & Narrative Dynamics  
+Once we understand the structure, we can see how it feels.  
 Containment often masquerades as care.  
 Mole behaviours exploit **the etiquette of empathy** — the tone of concern that discourages scrutiny.  
 
@@ -57,24 +144,26 @@ Survivor narratives then risk being split between “credible victim” and “u
 ---
 
 ## 📊 Forensic Signals  
+If psychology shows *why* it happens, forensics shows *where*.  
 Synthetic collaboration trails leave metadata clues.  
-To differentiate paranoia from pattern, look for:  
+To separate paranoia from pattern, look for:  
 
 - **Timing correlation:** supportive outreach appears immediately after disclosure spikes.  
 - **Lexical drift:** multiple correspondents adopt identical phrasing (“so proud of your resilience”).  
 - **Inverted escalation curves:** visibility drops after contact from “ally” nodes.  
 - **Access parity:** identical documents requested across separate organisations.  
 
-Mapping these traces is not witch-hunting — it is **safeguarding information ecology**.  
+Mapping these traces is not witch-hunting — it is **safeguarding information ecology**, ensuring truth has somewhere to stand.
 
 ---
 
 ## ⚖️ Legal-Policy Dimensions  
-The *mole phenomenon* sits at the intersection of **whistleblower protection**, **data-protection law**, and **duty of care**.  
+Every pattern sits inside a statute.  
+The *mole phenomenon* overlaps **whistleblower protection**, **data-protection law**, and **duty of care**.  
 
-- **GDPR / DPA 2018:** covert data sharing between agencies or NGOs without lawful basis constitutes unlawful processing.  
-- **Public Interest Disclosure Act (UK):** encourages internal reporting but provides weak protection when the “internal” body is complicit.  
-- **Safeguarding law:** often used to justify containment, though originally meant to prevent abuse.  
+- **GDPR / DPA 2018:** covert data sharing without lawful basis = unlawful processing.  
+- **Public Interest Disclosure Act (UK):** offers protection only when the “internal” body is not itself conflicted.  
+- **Safeguarding law:** meant to prevent harm, often repurposed to contain reputational risk.  
 
 **Reframing recommendation:**  
 > Safeguarding should include *epistemic safety* — the right not to be misrepresented, mined, or medically reframed without consent.
@@ -82,23 +171,27 @@ The *mole phenomenon* sits at the intersection of **whistleblower protection**, 
 ---
 
 ## 🧬 Survivor Counter-Strategies  
+The counter-move to institutional mimicry is precision.  
+
 - **Document tone shifts** — warmth followed by chill marks data extraction.  
 - **Name institutional scripts** — reduces their performative power.  
-- **Use cross-domain FOIs** — to trace repeated language or policy cut-and-paste.  
-- **Invoke lawful basis checks** — who had authority to process your information?  
-- **Build solidarity networks** — collective pattern recognition reduces isolation.  
+- **Use cross-domain FOIs** — trace repeated phrasing or templated deferrals.  
+- **Invoke lawful basis checks** — ask who authorised processing.  
+- **Build solidarity networks** — pattern recognition is protection.  
 
-The aim is not to expose individuals but to understand **how bureaucracies mimic intimacy** and how survivors can keep integrity without paranoia.  
+The aim is not exposure but integrity: to understand **how bureaucracies mimic intimacy** and stay whole within that theatre.  
 
 ---
 
 ## 🛠️ Design Implications  
-- Power can be both strong and *open to correction.*  
-- Systems must treat **vulnerability as diagnostic**, not dangerous.  
-- Routine cross-audits between safeguarding and oversight bodies reduce exploitative secrecy.  
-- Whistleblower and survivor engagement should be governed by *reciprocity contracts*, not loyalty oaths.  
+If systems create their own infiltrators, they can also re-design them.  
 
-In healthy governance, moles become mentors: those who listen, report truthfully, and hold the institution to its own ethics.  
+- Power can be both strong and *open to correction.*  
+- Treat **vulnerability as diagnostic**, not dangerous.  
+- Regular cross-audits between safeguarding and oversight bodies reduce exploitative secrecy.  
+- Replace loyalty oaths with *reciprocity contracts* between survivor and system.  
+
+In healthy governance, moles become mentors: those who listen, report truthfully, and hold institutions to their own ethics.  
 
 ---
 
