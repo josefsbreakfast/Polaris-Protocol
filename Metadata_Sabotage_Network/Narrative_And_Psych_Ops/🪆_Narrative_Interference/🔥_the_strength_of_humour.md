@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Authoritarianism thrives on **awe, inevitability, and fear**.  
 Humour corrodes all three.  
 
@@ -29,7 +29,7 @@ Humour is a social mirror that reflects the power costume back as pantomime.
 
 ---
 
-## 🎭 Archetypal Case Studies  
+## 🔥 Archetypal Case Studies  
 
 | Regime / Context | Example | Mechanism | Effect |
 |-------------------|----------|------------|--------|
@@ -68,7 +68,7 @@ Satire is not cruelty — it’s **antiseptic** for collective fear.
 
 ---
 
-## 🔍 Analytical Note  
+## 🪼 Analytical Note  
 Humour functions as **soft power reversal**.  
 Sanctions, speeches, and censorship are confrontational; laughter is dissolvent.  
 It slips under the armour of ideology and hollows it from within.  
