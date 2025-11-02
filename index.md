@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 11:39:05 UTC_
+_Generated on 2025-11-02 11:39:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1519,6 +1519,7 @@ _Generated on 2025-11-02 11:39:05 UTC_
       - [`🧩_repairing_trust_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧩_repairing_trust_chains.md)
       - [`🧱_keystone_dependency_trace.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧱_keystone_dependency_trace.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
+      - [`🪞_narrative_self_repair_index.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_self_repair_index.md)
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
