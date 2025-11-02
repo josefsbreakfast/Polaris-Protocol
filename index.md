@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 15:54:21 UTC_
+_Generated on 2025-11-02 15:58:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1727,10 +1727,13 @@ _Generated on 2025-11-02 15:54:21 UTC_
       - [`🌍_deregulation_as_diplomatic_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md)
       - [`🎭_why_it_attracts_bad_actors.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
       - [`🏏_test_cricket_for_public_service.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
+      - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/👑_soft_power_accountability_gap.md)
       - [`📈_meta_linkages.yaml`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
+      - [`📉_erosion_of_legitimacy_loops.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📉_erosion_of_legitimacy_loops.md)
       - [`📊_cricket_and_open_source_investigation_theory.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
       - [`📜_foi_and_sar_exercise_pack.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
       - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🕳️_social_memory_of_impunity.md)
+      - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_accountability_failures_and_public_trust.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
       - [`🧭_overview_pitch_at_palace_structure.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
       - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧱_trickle_down_impunity.md)
