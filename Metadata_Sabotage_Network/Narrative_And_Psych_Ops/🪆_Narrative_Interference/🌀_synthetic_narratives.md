@@ -1,10 +1,10 @@
 # 🌀 Synthetic Narratives  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-13  
-*How multiple actors fabricate, seed, and project narratives onto a survivor — producing harassment campaigns that don’t align with lived reality*  
+**First created:** 2025-09-07 | **Last updated:** 2025-11-02  
+*Forensic map of how harassment fabricates storylines through projection and data misuse.*
 
 ---
 
-## 📑 Sections  
+## ✨ Sections  
 1. [Principle](#1-principle)  
 2. [How Synthetic Narratives Form](#2-how-synthetic-narratives-form)  
 3. [Examples in Practice](#3-examples-in-practice)  
@@ -46,6 +46,8 @@ Western shortcuts (e.g. guessing based on mannerisms, or refining only from birt
 
 **Implication:** If harassment references “astrological truths” the survivor could not possibly know, that is not tradition at work — it is **projection built on stereotype.**  
 
+---
+
 ### Astrology as Data Breach  
 - Harassment is becoming more **pointed**, implying access to an actual individual’s date of birth.  
 - Survivor never possessed this information → means disclosure happened elsewhere.  
@@ -55,7 +57,9 @@ Western shortcuts (e.g. guessing based on mannerisms, or refining only from birt
 - Using DOB in harassment campaigns = **unlawful processing of sensitive data.**  
 - Survivor carries the harm of a breach they never committed.  
 
-**Implication:** Synthetic narrative here is not only projection, but also a **data protection violation** with regulatory and potentially criminal consequences.  
+**Implication:** Synthetic narrative here is not only projection, but also a **data-protection violation** with regulatory and potentially criminal consequences.  
+
+---
 
 ### Fork: Data Breach or Projection?  
 - **Breach scenario:** If DOB was truly disclosed → high-severity GDPR violation, unlawful processing, mandatory ICO notification.  
@@ -63,7 +67,7 @@ Western shortcuts (e.g. guessing based on mannerisms, or refining only from birt
 - **Either way:**  
   - Survivor harmed (distress, intimidation, reputational risk).  
   - Governance failure evident.  
-  - Liability engaged: one path through data protection law, the other through harassment law.  
+  - Liability engaged: one path through data-protection law, the other through harassment law.  
 
 ---
 
@@ -72,7 +76,7 @@ Western shortcuts (e.g. guessing based on mannerisms, or refining only from birt
 - **Projection = violence.** Survivors are harassed into caricatures, not engaged as people.  
 - **Cross-border opacity.** Foreign/domestic actors hide behind each other; gaps in honesty multiply errors.  
 - **Cost spiral.** Institutions pay millions for harassment strategies that collapse under their own stupidity.  
-- **Legal escalation.** Once harassment references GDPR special category data, liability moves from “embarrassing” to “actionable.”  
+- **Legal escalation.** Once harassment references GDPR special-category data, liability moves from “embarrassing” to “actionable.”  
 
 ---
 
@@ -90,10 +94,25 @@ Synthetic narratives expose the weakness of interference.
 
 ---
 
+## 🌌 Constellations  
+🧿 🧠 🛰️ 🪆 🌀 — narrative interference, cognition, metadata forensics, survivor signal integrity.  
+
+---
+
+## ✨ Stardust  
+synthetic narratives, projection, data breach, harassment, astrology, misinformation, gdpr, survivor voice fidelity, metadata sabotage, narrative interference  
+
+---
+
 ## 🏮 Footer  
-*Synthetic Narratives* is a living node of the Polaris Protocol.  
-It documents how harassment campaigns are built on projections and contradictions, and how survivors can turn those into evidence.  
+*🌀 Synthetic Narratives* is a living node of the Polaris Protocol.  
+It documents how fabricated storylines emerge from projection and data misuse, and how survivors convert those contradictions into forensic evidence.  
+
+> 📡 Cross-references:
+> 
+> - [🧠 Psychological Containment](../🧠_Psychological_Containment/README.md) — *companion node on observer delay and compliance-by-silence*  
+> - [👅 Voice Disruption Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *related node on smear & sexualisation tactics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-11-02_
