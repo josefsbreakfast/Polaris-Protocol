@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Metadata is the story about the story.  
 When its structure is altered — through ghost-editing, DNS interference, or algorithmic bias — reality itself is re-authored.  
 This node tracks how institutions manage reputation by curating *what can be found*, turning omission into virtue and visibility into power.  
