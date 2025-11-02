@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 19:40:22 UTC_
+_Generated on 2025-11-02 19:43:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2198,6 +2198,14 @@ _Generated on 2025-11-02 19:40:22 UTC_
       - [`🛰️_OSINT_for_anti_palestinian_racism_detection.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
       - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
+    - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
+    - [`🧬_signal_anomaly_classification.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧬_signal_anomaly_classification.md)
+    - [`🧭_field_ethics_compass.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧭_field_ethics_compass.md)
+    - [`🧰_open_source_toolkit_index.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧰_open_source_toolkit_index.md)
+    - [`🧾_metadata_logging_standards.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧾_metadata_logging_standards.md)
+    - [`🪞_observer_reflexivity_log.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪞_observer_reflexivity_log.md)
+    - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
+    - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
   - [**🧨_Counter_Nudge_Playbook/**](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/)
     - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
   - [**🪖_Home_Front_2.0/**](🦆_Digital_Disruption/🪖_Home_Front_2.0/)
