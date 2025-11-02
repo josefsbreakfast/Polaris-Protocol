@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This index gathers every repair mechanism within the **Narrative Interference** cluster and links it to its counterpart in the **Survivor Voice Fidelity** drafting rules.  
 Its purpose is twofold:  
 1. To offer a quick-reference for survivors seeking self-repair after interference.  
@@ -12,7 +12,7 @@ Its purpose is twofold:
 
 ---
 
-## 🗂️ Structure  
+## 🦩 Structure  
 
 | Interference Type | Counter-Response | Related Node |
 |-------------------|------------------|---------------|
@@ -25,7 +25,7 @@ Its purpose is twofold:
 
 ---
 
-## 🔍 Analysis / Content  
+## 🔥 Analysis / Content  
 
 ### 1. Repair as Literacy  
 Self-repair depends on understanding how interference works.  
