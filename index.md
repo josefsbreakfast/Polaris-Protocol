@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 15:08:10 UTC_
+_Generated on 2025-11-02 15:10:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1730,6 +1730,7 @@ _Generated on 2025-11-02 15:08:10 UTC_
       - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🕳️_social_memory_of_impunity.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
       - [`🧭_overview_pitch_at_palace_structure.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
+      - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧱_trickle_down_impunity.md)
       - [`🪶_tea_toast_and_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🪶_tea_toast_and_transparency.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
