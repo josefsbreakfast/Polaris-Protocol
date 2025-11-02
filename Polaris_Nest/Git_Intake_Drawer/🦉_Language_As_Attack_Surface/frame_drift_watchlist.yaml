@@ -1,0 +1,32 @@
+# 🛰️ Frame-Drift Watchlist
+# First created: 2025-11-02
+# Purpose: baseline template for monitoring linguistic drift and euphemistic framing in live data streams.
+
+watchlist:
+  - id: df-0001
+    phrase: "population adjustment"
+    normalized_target: "forced displacement / ethnic cleansing"
+    first_seen: "2025-10-21"
+    sample_urls:
+      - "https://news.example/article/xyz"
+      - "https://twitter.com/actor/status/123"
+    observed_channels: ["state-broadcaster", "twitter", "telegram"]
+    velocity: 47          # mentions in first 72 h
+    source_diversity: 6   # distinct domains
+    notes: "Used to sanitise eviction policy; identical copy in 4 outlets."
+    status: "monitor"
+
+  - id: df-0002
+    phrase: "security recalibration"
+    normalized_target: "mass surveillance expansion"
+    first_seen: "2025-09-30"
+    observed_channels: ["press_release", "linkedin"]
+    velocity: 32
+    source_diversity: 5
+    notes: "Appeared in simultaneous government press releases and private-sector statements."
+    status: "escalate"
+
+metadata:
+  last_updated: "2025-11-02"
+  maintainer: "Polaris Protocol Ops"
+  notes: "Expand list weekly; include ≥ 3 confirming examples per entry before escalation."
