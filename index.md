@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 22:35:52 UTC_
+_Generated on 2025-11-02 22:52:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1766,6 +1766,8 @@ _Generated on 2025-11-02 22:35:52 UTC_
       - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧱_trickle_down_impunity.md)
       - [`🪞_governance_as_performance_art.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🪞_governance_as_performance_art.md)
       - [`🪶_tea_toast_and_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🪶_tea_toast_and_transparency.md)
+    - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
+      - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
       - [`🍉_why_do_we_care_about_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
