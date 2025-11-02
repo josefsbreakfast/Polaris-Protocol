@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 14:58:00 UTC_
+_Generated on 2025-11-02 15:00:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1721,6 +1721,7 @@ _Generated on 2025-11-02 14:58:00 UTC_
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
       - [`⚖️_regulatory_and_risk_framework.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
       - [`🎭_why_it_attracts_bad_actors.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
+      - [`🏏_test_cricket_for_public_service.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
       - [`📈_meta_linkages.yaml`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
       - [`📊_cricket_and_open_source_investigation_theory.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
       - [`📜_foi_and_sar_exercise_pack.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
