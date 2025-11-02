@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 20:05:29 UTC_
+_Generated on 2025-11-02 20:11:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2255,6 +2255,12 @@ _Generated on 2025-11-02 20:05:29 UTC_
     - [`README.md`](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/README.md)
   - [**🛒_Service_Blockages/**](🩻_Weirdness_Screening/🛒_Service_Blockages/)
     - [`README.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/README.md)
+    - [`💳_payment_auth_failure_log.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/💳_payment_auth_failure_log.md)
+    - [`📈_service_blockage_timeline.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/📈_service_blockage_timeline.md)
+    - [`📦_cart_reset_patterns.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/📦_cart_reset_patterns.md)
+    - [`🧰_consumer_countermeasure_kit.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/🧰_consumer_countermeasure_kit.md)
+    - [`🧾_phantom_stock_registry.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/🧾_phantom_stock_registry.md)
+    - [`🪞_retail_shadowban_index.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/🪞_retail_shadowban_index.md)
   - [`README.md`](🩻_Weirdness_Screening/README.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
