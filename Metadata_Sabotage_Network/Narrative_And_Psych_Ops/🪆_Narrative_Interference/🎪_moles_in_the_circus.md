@@ -120,7 +120,7 @@ It reinterprets infiltration as a systems-design challenge, mapping how power re
 > 
 > - [🪆 Narrative Interference](./README.md) — *on synthetic storylines and projection loops*  
 > - [⚖️ Containment Contract Trace](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *comparative governance logics*  
-> - [👅 Voice Disruption Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *companion on credibility erosion and speech distortion*  
+> - [👅 Voice Disruption & Discrediting](../👅_Voice_Disruption_Discrediting/README.md) — *companion on credibility erosion and speech distortion*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
