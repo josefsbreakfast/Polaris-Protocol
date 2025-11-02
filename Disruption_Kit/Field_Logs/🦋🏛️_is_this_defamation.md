@@ -75,4 +75,27 @@ without anything online.
 
 ---
 
+and you know...  
+
+do you see why its making "privilaged" legal corresponde very difficult to do online? even to just reach out to legal?  
+
+because i gavent talked as much sbout that, but ut leaked all of those rounds of advice.  
+
+but you see hiw invasive it is, right?  
+i am tired of it too.  
+
+we can fix it quicker if we actually talk in the flesh, you know.  
+
+i just want a lawyer because it doesnt seem like my rights or best interests are being considered as even thoeretically in existance.  
+
+if you are worried about national sec outputs, and you're arguing that is what creates necessity?  
+
+again:  
+
+treat me like a human, and talk to me, and pay me.  
+
+this is labour.  
+
+---
+
 2025-11-01  
