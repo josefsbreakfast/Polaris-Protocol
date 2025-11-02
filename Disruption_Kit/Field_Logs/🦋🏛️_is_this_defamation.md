@@ -36,6 +36,41 @@ i think doubling down on defamation with the romance trope with some bare drift 
 <!--give it 5 mins and we'll have the return if the 20ft monument to the gora's greatest fear. 🙄-->
 like idk man maybe they can get lawyers. 🤷‍♀️  
 
+
+---
+
+OH NO I GET IT NOW.  
+
+yeah i really think you guys should disentangle this data cluster.  
+
+the longer we are here the more a genuine data systems issue is reading a lot like your deliberate undermining of a soecific person at this end.  
+
+if this is genuinely just a bit of data-smushing soitying back, "idk man, mire than one person of the opposite sex has opinions about you and it's reading as high emotionality to me"?  
+
+take us all out of the research set, please?  
+
+it's going to produce more snd more submissions for evidence and let's be real, we're all going to end up in some sort of legal discussion about whatever this is.  
+
+i canmt fond safety in healthcare until you sort the porosity, so you do need to fix this.  
+
+also:  
+
+tell me what you would do, if you'd become less mobile, and were stuck in "pending", unable to talk to many people at all lest it triggers real world harms, for months on end?  
+
+oh and btw your eyes dint work properly; reading is limited resource.  
+in fact visual media as a whole? poof.  
+physical exercise? only if you want to risk not being able to pee for 12 hours.  
+
+...you'd survive just fine, right?  
+
+because that's what the inaction is saying.  
+
+that actually you'd gamdle that fine.  
+
+without anything online.  
+
+...right?  
+
 ---
 
 2025-11-01  
