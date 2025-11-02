@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 02:40:39 UTC_
+_Generated on 2025-11-02 02:46:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1793,6 +1793,7 @@ _Generated on 2025-11-02 02:40:39 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔁_ritual_and_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🔁_ritual_and_refusal.md)
+    - [`🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md`](Polaris_Nest/Git_Intake_Drawer/🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md)
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
@@ -1813,6 +1814,7 @@ _Generated on 2025-11-02 02:40:39 UTC_
     - [`🕸️_web_sovereignity.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_web_sovereignity.md)
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🖍️_the_colouring_book_experiment_containment_as_curriculum.md`](Polaris_Nest/Git_Intake_Drawer/🖍️_the_colouring_book_experiment_containment_as_curriculum.md)
+    - [`🗣️_data_majority_as_narrative_voice_voting_by_volume.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_data_majority_as_narrative_voice_voting_by_volume.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`😌_the_performance_of_consensus.md`](Polaris_Nest/Git_Intake_Drawer/😌_the_performance_of_consensus.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
