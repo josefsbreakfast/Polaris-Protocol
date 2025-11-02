@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 19:39:20 UTC_
+_Generated on 2025-11-02 19:40:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2180,10 +2180,15 @@ _Generated on 2025-11-02 19:39:20 UTC_
   - [**🐝_All_In_Commons/**](🦆_Digital_Disruption/🐝_All_In_Commons/)
     - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
     - [`🌱_commons_charter_generator.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌱_commons_charter_generator.md)
+    - [`🌿_regenerative_admin_toolkit.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌿_regenerative_admin_toolkit.md)
     - [`🏛️_federated_governance_loops.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🏛️_federated_governance_loops.md)
     - [`💰_cooperative_economy_nodes.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💰_cooperative_economy_nodes.md)
+    - [`📜_all_in_commons_manifesto.md`](🦆_Digital_Disruption/🐝_All_In_Commons/📜_all_in_commons_manifesto.md)
+    - [`📡_commons_signal_networks.md`](🦆_Digital_Disruption/🐝_All_In_Commons/📡_commons_signal_networks.md)
     - [`🕊️_trust_repair_protocols.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🕊️_trust_repair_protocols.md)
     - [`🛠️_mutual_aid_stack.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🛠️_mutual_aid_stack.md)
+    - [`🧩_distributed_decision_framework.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🧩_distributed_decision_framework.md)
+    - [`🪞_mirror_commons.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🪞_mirror_commons.md)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🍉_Academic_Liberty/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
