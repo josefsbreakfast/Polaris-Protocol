@@ -1,5 +1,5 @@
 # 🪨 May Their Names Never Be Erased  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-10-07 | **Last updated:** 2025-11-02  
 *A living memorial dataset: holding reference lists of those murdered in Gaza, affirming their lives when even the number of dead is contested.*
 
 ---
