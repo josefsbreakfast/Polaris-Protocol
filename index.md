@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 19:43:21 UTC_
+_Generated on 2025-11-02 19:46:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2208,6 +2208,14 @@ _Generated on 2025-11-02 19:43:21 UTC_
     - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
   - [**🧨_Counter_Nudge_Playbook/**](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/)
     - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
+    - [`🌀_loop_mapping_station.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
+    - [`🎭_friction_tactics_catalogue.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🎭_friction_tactics_catalogue.md)
+    - [`💡_attention_redirection_protocols.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/💡_attention_redirection_protocols.md)
+    - [`🧠_nudge_taxonomy_and_detection.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧠_nudge_taxonomy_and_detection.md)
+    - [`🧬_behavioural_signature_library.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧬_behavioural_signature_library.md)
+    - [`🧾_artifact_archive_templates.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧾_artifact_archive_templates.md)
+    - [`🪞_script_decoding_lab.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🪞_script_decoding_lab.md)
+    - [`🪶_civic_immunity_training_manual.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🪶_civic_immunity_training_manual.md)
   - [**🪖_Home_Front_2.0/**](🦆_Digital_Disruption/🪖_Home_Front_2.0/)
     - [`README.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md)
     - [`🌍_why_it_all_matters_shared_epilogue.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🌍_why_it_all_matters_shared_epilogue.md)
