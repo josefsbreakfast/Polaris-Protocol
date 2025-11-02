@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Surveillance does not merely observe — it **tells stories**.  
 When fragments of life are scraped, guessed, or statistically interpolated, the result is not intelligence but **synthetic narrative**: a caricature assembled from bias, metadata, and mood.  
 Unlike lies, synthetic narratives feel *plausible*. They mirror the survivor’s language closely enough that disbelief seems ungrateful.  
@@ -13,7 +13,7 @@ This node traces how coherence itself becomes a weapon — how the desire for an
 
 ---
 
-## 🧩 Principle  
+## ✨ Principle  
 Synthetic narratives thrive on *pattern hunger*: the institutional need for a tidy plot.  
 They convert uncertainty into personality, projection into “profiling,” repetition into proof.  
 Each iteration smooths the survivor’s complexity until she fits the predictive template that funds the next report.
@@ -60,7 +60,7 @@ Synthetic narratives turn misconduct into myth; tracing their seams re-locates a
 
 ---
 
-## 🧩 Survivor Counter-Read  
+## 🐦‍🔥 Survivor Counter-Read  
 1. **Spot the seams.** When details appear that you never disclosed, log them.  
 2. **Name the template.** “Ah — the witch trope again.” Naming weakens enchantment.  
 3. **Archive the contradictions.** They are proof of fiction.  
