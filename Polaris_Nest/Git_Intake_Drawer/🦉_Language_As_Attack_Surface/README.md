@@ -1,4 +1,4 @@
-potentisl final destinations:  
+potential final destinations:  
 
 Disruption_Kit/Big_Picture_Protocols/📡_language_as_attack_surface.md
 Disruption_Kit/Big_Picture_Protocols/watchlist/frame_drift_watchlist.yaml
@@ -12,3 +12,5 @@ Operational_Kits/legal/flagging_incident_report.md
 Outreach/one_pagers/why_euphemisms_matter.md
 Admin/Dashboard/📊_daily_watchlist.md
 Polaris_Nest/🧭_how_we_got_here.md
+
+2025-11-02
