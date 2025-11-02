@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 *Algorithmic Endocrinology* studies the hormonal behaviour of data systems.  
 When predictive engines and optimisation loops are designed to *balance* social or informational “health,” they begin to imitate the logic of the body’s endocrine system — feedback-driven, homeostatic, and sometimes self-poisoning.
@@ -14,7 +14,7 @@ It belongs to **🪄 Expression Of Norms**, the branch of *Big Picture Protocols
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Algorithmic Ecology** — systems interacting like organisms within an ecosystem; precision without full context breeds fragility.  
 - **Endocrine Governance** — institutions attempting to modulate public “mood hormones” via algorithmic feedback loops.  
