@@ -4,13 +4,35 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Every bureaucracy eventually invents its own infiltrators.  
 They’re not spies, just reflexes — antibodies of fear triggered by scrutiny.  
 *Moles in the Circus* maps how institutions performing care stage-manage their own surveillance: a ring show where every performer believes they’re protecting someone.
 
 It begins innocently — a “cross-sector partnership meeting,” fluorescent biscuits, procedural warmth.  
-But behind the flip-charts, everyone is watching everyone else for tonal deviation.
+But behind the flip-charts, everyone is watching everyone else for tonal deviation.  
+
+---
+
+## ⚗️🧪 Why Moles?  
+The term *“mole”* evokes espionage; in practice, most are bureaucratic artefacts of fear.  
+When containment systems scale, their search for risk produces its own theatre — a **circus** of mirroring, observing, and reframing behaviours that appear conspiratorial but are often systemic.  
+
+This node examines how **mole dynamics** emerge not from secret plots but from *institutional nervous systems* trying to regulate uncertainty.  
+By studying these roles — NGO liaisons, academic observers, legal bystanders, and therapeutic translators — we can see where power becomes vulnerable, and where safeguards must evolve to prevent coercive or authoritarian abuse.  
+
+---
+
+## 🦁 Systemic Context  
+Containment environments are rarely monolithic.  
+They are federations of departments, charities, think tanks, and private contractors that share reputational risk.  
+When one actor carries politically sensitive data — whistleblower, audit lead, survivor researcher — others orbit to **absorb shock** or **control narrative velocity**.
+
+- **Governance Drift:** the more entities share responsibility, the less any single body feels duty to intervene.  
+- **Institutional Osmosis:** staff rotate between NGO, academia, and consultancy roles, carrying insight — and bias — across silos.  
+- **Performance of Care:** “support” becomes simulation; empathy delivered through form letters and wellness check-ins.  
+
+These overlapping loyalties form the *ring* of the circus. Within it, specific archetypes perform the same moves over and over again — predictable, rehearsed, and measurable.
 
 ---
 
@@ -139,6 +161,32 @@ trace:
 
 ---
 
+## ⚖️ Legal-Policy Dimensions  
+Every pattern sits inside a statute.  
+The *mole phenomenon* overlaps **whistleblower protection**, **data-protection law**, and **duty of care**.  
+
+- **GDPR / DPA 2018:** covert data sharing without lawful basis = unlawful processing.  
+- **Public Interest Disclosure Act (UK):** offers protection only when the “internal” body is not itself conflicted.  
+- **Safeguarding law:** meant to prevent harm, often repurposed to contain reputational risk.  
+
+**Reframing recommendation:**  
+> Safeguarding should include *epistemic safety* — the right not to be misrepresented, mined, or medically reframed without consent.
+
+---
+
+## 🧬 Survivor Counter-Strategies  
+The counter-move to institutional mimicry is precision.  
+
+- **Document tone shifts** — warmth followed by chill marks data extraction.  
+- **Name institutional scripts** — reduces their performative power.  
+- **Use cross-domain FOIs** — trace repeated phrasing or templated deferrals.  
+- **Invoke lawful basis checks** — ask who authorised processing.  
+- **Build solidarity networks** — pattern recognition is protection.  
+
+The aim is not exposure but integrity: to understand **how bureaucracies mimic intimacy** and stay whole within that theatre.  
+
+---
+
 ## 🧨 Design Counter-Moves  
 Containment unravels when tempo breaks.  
 - **Insert friction:** pause before replying; silence is its own audit trail.  
@@ -146,7 +194,14 @@ Containment unravels when tempo breaks.
 - **Cross-reference timestamps** — identical minutes expose choreography.  
 - **Publish style anomalies:** when a form letter repeats three times, name the pattern publicly.  
 
-Transparency isn’t confrontation; it’s choreography correction.
+Transparency isn’t confrontation; it’s choreography correction.  
+
+### 🧿 Summary Insight  
+The circus is not about villains infiltrating a tent — it is about **feedback loops without ground rules.**  
+Each flow reveals how benevolent functions (care, policy, regulation) can become extractive when reflexivity disappears.  
+
+Safeguarding authoritarian drift means treating every cross-domain exchange as a consent event, not a formality.  
+Institutional self-awareness, not secrecy, is the true security measure.  
 
 ---
 
