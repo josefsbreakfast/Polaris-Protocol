@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 10:03:36 UTC_
+_Generated on 2025-11-02 10:04:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1717,6 +1717,7 @@ _Generated on 2025-11-02 10:03:36 UTC_
       - [`🍉_why_do_we_care_about_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
       - [`🍷_crypto_before_it_was_cool.nd`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍷_crypto_before_it_was_cool.nd)
       - [`🍷_next_year_in_jerusalem.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍷_next_year_in_jerusalem.md)
+      - [`👑_projection_esther.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/👑_projection_esther.md)
       - [`🕯️_kol_nidre_and_european_viral_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_kol_nidre_and_european_viral_ignorance.md)
       - [`🕯️_shabbat_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
