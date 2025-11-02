@@ -41,7 +41,8 @@ coevolution, adaptation, feedback, mutation, ecology, learning systems, reciproc
 *🧬 Containment as Co-evolutionary Ecology* is a living node of the **💞 Containment Theory** cluster.  
 It reframes containment as an adaptive ecology where every act of control alters the conditions of life itself.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚛️ Containment as Coupled Waveform Theory](./⚛️_containment_as_coupled_waveform_theory.md)  
 > - [🪞 Containment & Détente as Temporal Governance](./🪞_containment_detente_as_temporal_governance.md)
 
