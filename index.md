@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 09:41:07 UTC_
+_Generated on 2025-11-02 09:54:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1714,6 +1714,7 @@ _Generated on 2025-11-02 09:41:07 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
+      - [`🍉_why_do_we_care_about_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
       - [`🕯️_shabbat_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
       - [`🛰️_alrgorithmic_judaisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_alrgorithmic_judaisms.md)
