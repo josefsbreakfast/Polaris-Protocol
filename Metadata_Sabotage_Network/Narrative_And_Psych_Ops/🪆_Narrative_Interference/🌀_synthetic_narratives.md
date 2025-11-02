@@ -28,7 +28,9 @@ When multiple parties interact — scraping, spoofing, seeding, interpreting —
 - **Scraping:** fragments of information pulled from public traces.  
 - **Spoofing:** false interactions staged to look “organic.”  
 - **Projection:** gaps filled with cultural bias or assumption (e.g., survivor coded as “magical/metaphysical”).  
-- **Narrative-lock:** once one version circulates, others repeat it without question.  
+- **Narrative-lock:** once one version circulates, others repeat it without question.
+
+✨ [back to top](#home)  
 
 ---
 
@@ -46,6 +48,8 @@ Western shortcuts (e.g. guessing based on mannerisms, or refining only from birt
 
 **Implication:** If harassment references “astrological truths” the survivor could not possibly know, that is not tradition at work — it is **projection built on stereotype.**  
 
+✨ [back to top](#home)  
+
 ---
 
 ### Astrology as Data Breach  
@@ -59,6 +63,8 @@ Western shortcuts (e.g. guessing based on mannerisms, or refining only from birt
 
 **Implication:** Synthetic narrative here is not only projection, but also a **data-protection violation** with regulatory and potentially criminal consequences.  
 
+✨ [back to top](#home)  
+
 ---
 
 ### Fork: Data Breach or Projection?  
@@ -67,7 +73,9 @@ Western shortcuts (e.g. guessing based on mannerisms, or refining only from birt
 - **Either way:**  
   - Survivor harmed (distress, intimidation, reputational risk).  
   - Governance failure evident.  
-  - Liability engaged: one path through data-protection law, the other through harassment law.  
+  - Liability engaged: one path through data-protection law, the other through harassment law.
+ 
+✨ [back to top](#home)  
 
 ---
 
@@ -76,7 +84,9 @@ Western shortcuts (e.g. guessing based on mannerisms, or refining only from birt
 - **Projection = violence.** Survivors are harassed into caricatures, not engaged as people.  
 - **Cross-border opacity.** Foreign/domestic actors hide behind each other; gaps in honesty multiply errors.  
 - **Cost spiral.** Institutions pay millions for harassment strategies that collapse under their own stupidity.  
-- **Legal escalation.** Once harassment references GDPR special-category data, liability moves from “embarrassing” to “actionable.”  
+- **Legal escalation.** Once harassment references GDPR special-category data, liability moves from “embarrassing” to “actionable.”
+
+✨ [back to top](#home)  
 
 ---
 
@@ -84,13 +94,17 @@ Western shortcuts (e.g. guessing based on mannerisms, or refining only from birt
 - **Spot the seams.** Where harassment references things you don’t know, it proves synthetic narrative.  
 - **Hold contradictions.** Document them — they puncture the “official” storyline.  
 - **Name the caricature.** Calling out projection undermines its power.  
-- **Archive the collapse.** Polaris nodes turn their synthetic narrative into your forensic record.  
+- **Archive the collapse.** Polaris nodes turn their synthetic narrative into your forensic record.
+
+✨ [back to top](#home)  
 
 ---
 
 ## 6. Closing Note  
 Synthetic narratives expose the weakness of interference.  
 *They invent a caricature to attack, but the caricature isn’t you. Documenting that gap is resistance.*  
+
+✨ [back to top](#home)  
 
 ---
 
