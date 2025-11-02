@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 The term *“mole”* evokes espionage; in practice, most are bureaucratic artefacts of fear.  
 When containment systems scale, their search for risk produces its own theatre — a **circus** of mirroring, observing, and reframing behaviours that appear conspiratorial but are often systemic.  
 
@@ -13,7 +13,7 @@ By studying these roles — NGO liaisons, academic observers, legal bystanders, 
 
 ---
 
-## 🧩 Structural & Systemic Context  
+## 🦁 Structural & Systemic Context  
 Containment environments are rarely monolithic.  
 They are federations of departments, charities, think tanks, and private contractors that share reputational risk.  
 When one actor carries politically sensitive data — whistleblower, audit lead, survivor researcher — others orbit to **absorb shock** or **control narrative velocity**.
@@ -26,7 +26,7 @@ These overlapping loyalties form the *ring* of the circus. Within it, specific a
 
 ---
 
-## 🎭 Mole Typology  
+## 🩻 Mole Typology  
 Each performer in this theatre has a function.  
 Some soothe, others delay, some mirror. All translate risk into procedure.  
 
@@ -94,7 +94,7 @@ flowchart LR
     class A1,A2,B1,B2,C1,C2,D1,D2,S1,S2 molenet;
 ```
 
-### 🧩 Reading Notes  
+### 🐝 Reading Notes  
 The diagram above functions like an x-ray of an ecosystem: not hierarchical but **circulatory**.  
 - **Loops** show where power becomes vulnerable — where genuine safeguarding and control blur.  
 - **Arrows** depict data and narrative movement; dashed arrows (`-.->`) indicate *activation events* like “clarity spikes.”  
@@ -104,7 +104,7 @@ To read it properly, trace one full loop — notice how easily empathy becomes t
 
 ---
 
-## 🧩 Mole Network Flow Table  
+## 🧨 Mole Network Flow Table  
 To translate that circulatory map into diagnostics, the table below dissects each key flow: what risk it carries, how it tends to fail, and what could interrupt the cycle.  
 
 | Flow Path | Risk Type | Failure Mode | Safeguard Action |
