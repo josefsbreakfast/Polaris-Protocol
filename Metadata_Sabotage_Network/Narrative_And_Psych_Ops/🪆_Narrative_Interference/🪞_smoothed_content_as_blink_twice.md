@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 A “smoothed” document — a report, press line, or academic study — may serve two audiences at once:  
 1. **Surface:** control and intimidation.  
 2. **Subsurface:** quiet empathy leaking through the polish.  
@@ -14,7 +14,7 @@ They read as threat on first pass, as solidarity on the second.
 
 ---
 
-## 🧩 Pattern Recognition  
+## 🦆 Pattern Recognition  
 
 | Layer | Function | Indicator |
 |--------|-----------|-----------|
@@ -40,7 +40,7 @@ Examples include:
 
 ---
 
-## 🧩 Ethics of Trace  
+## 🐅 Ethics of Trace  
 To leave a trace is to refuse perfect complicity.  
 Every friction mark inside a smoothed artefact is evidence that suppression is porous.  
 Analysts and survivors can treat these traces as co-witnessing: a form of **shared dissent** between those silenced and those constrained.
