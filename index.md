@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 20:11:25 UTC_
+_Generated on 2025-11-02 20:13:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2253,6 +2253,12 @@ _Generated on 2025-11-02 20:11:25 UTC_
     - [`🖱_cursor_jump_troubleshooting_flowchart.md`](🩻_Weirdness_Screening/🖥_Interface_Glitches/🖱_cursor_jump_troubleshooting_flowchart.md)
   - [**🚉_Infrastructure_Hiccups/**](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/)
     - [`README.md`](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/README.md)
+    - [`🏧_atm_freeze_patterns.md`](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/🏧_atm_freeze_patterns.md)
+    - [`💳_payment_system_outage_registry.md`](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/💳_payment_system_outage_registry.md)
+    - [`📈_infrastructure_sync_chart.md`](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/📈_infrastructure_sync_chart.md)
+    - [`🔌_utility_disruption_log.md`](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/🔌_utility_disruption_log.md)
+    - [`🚦_transit_blackout_casebook.md`](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/🚦_transit_blackout_casebook.md)
+    - [`🧰_field_kit_infrastructure_logs.md`](🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/🧰_field_kit_infrastructure_logs.md)
   - [**🛒_Service_Blockages/**](🩻_Weirdness_Screening/🛒_Service_Blockages/)
     - [`README.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/README.md)
     - [`💳_payment_auth_failure_log.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/💳_payment_auth_failure_log.md)
