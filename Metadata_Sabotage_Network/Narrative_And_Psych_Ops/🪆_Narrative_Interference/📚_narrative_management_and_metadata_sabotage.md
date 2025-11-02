@@ -1,58 +1,59 @@
 # 📚 Narrative Management and Metadata Sabotage  
 **First created:** 2025-08-03 | **Last updated:** 2025-11-02  
-*Mapping the infrastructures of narrative control — how metadata becomes the medium of erasure.*  
+*How visibility control rewrites truth under the banner of digital hygiene.*
 
 ---
 
 ## 🧭 Orientation  
-This node examines how institutions and AI-adjacent systems manage public narratives by **selectively amplifying, flattening, or erasing metadata.**  
-It traces the mechanics of information control — from ghost-editing and DNS interference to linguistic scripting and behavioural loop engineering — revealing how legitimacy is maintained through managed visibility.  
+Metadata is the story about the story.  
+When its structure is altered — through ghost-editing, DNS interference, or algorithmic bias — reality itself is re-authored.  
+This node tracks how institutions manage reputation by curating *what can be found*, turning omission into virtue and visibility into power.  
 
-At its core, metadata sabotage is not about data loss.  
-It’s about **story loss** — the quiet re-authoring of reality.  
+Narrative management does not lie; it simply leaves you unsearchable.
 
 ---
 
 ## 🧠 Core Premise  
+> **“Control the record, and you control the moral tone.”**  
 
-> **“Metadata is the battlefield. Narrative is the weapon. Control the records, and you control the reality.”**  
+- Surveillance now edits as it observes.  
+- Omission is reframed as objectivity.  
+- The archive becomes a behavioural mirror: what remains visible defines what was “appropriate.”  
 
-- Surveillance no longer observes; it **participates**.  
-- Institutions curate what remains visible, framing omission as neutrality.  
-- The battle for truth is fought in the **version history**.  
-
----
-
-## 🪄 Mechanisms of Metadata Sabotage  
-
-### 1. 🧹 Ghost-Editing and Erasure  
-
-| Vector | Description | Forensic Clue |
-|--------|--------------|----------------|
-| **Author Suppression** | Work published without credit or re-attributed; dissenting contributors vanish from the record. | Version logs show changing bylines or silent replacements. |
-| **Record Fluctuation** | Access logs, FOI responses, or publication metadata mutate over time. | Timestamp anomalies; differing “official” versions in archives. |
+Metadata sabotage therefore operates as **tone governance** — a bureaucratic code of conduct masquerading as IT maintenance.
 
 ---
 
-### 2. 🕳 DNS and Indexing Interference  
+## 🪄 Mechanisms of Sabotage  
 
-| Vector | Description | Forensic Clue |
-|--------|--------------|----------------|
-| **Content Vanishing** | Pages unlinked or returned as “404” mid-investigation; archives throttled. | Broken citations, untraceable URLs, sudden DNS edits. |
-| **Search Suppression** | Algorithmic down-ranking or substitution of key terms. | Queries rerouted to low-relevance or reputation-damaging content. |
+### 1. 🧹 Ghost-Editing  
 
-DNS sabotage functions as **digital redaction at scale** — nothing deleted, only unfindable.  
+| Vector | Function | Forensic Clue |
+|--------|-----------|----------------|
+| **Authorship Drift** | Credit removed or reassigned; names vanish from DOI logs. | Version-history anomalies, altered timestamps. |
+| **Record Mutation** | Multiple “official” copies co-exist. | Conflicting archives prove silent revision. |
+
+---
+
+### 2. 🕳 DNS and Search Manipulation  
+
+| Vector | Function | Forensic Clue |
+|--------|-----------|----------------|
+| **Soft Vanishing** | Links unindexed, archives throttled. | 404s where citation once existed. |
+| **Reputation Poisoning** | Query rerouted to misleading or defamatory content. | Cluster of low-relevance hits around target keyword. |
+
+DNS manipulation is **digital redaction**: nothing deleted, only buried alive.
 
 ---
 
 ### 3. ➰ Narrative Loop Engineering  
 
-| Vector | Description | Forensic Clue |
-|--------|--------------|----------------|
-| **Script Injection** | Repetitive phrasing (“complex needs,” “non-compliant,” “vulnerable to radicalisation”) seeded across sectors. | Identical language in press, policy, and academic output within short time windows. |
-| **Dissent Simulation** | Safe “critical” voices or AI-mediated proxies create controlled opposition. | Familiar rhythm of critique that never names systemic actors. |
+| Vector | Function | Forensic Clue |
+|--------|-----------|----------------|
+| **Script Injection** | Recurring phrasing seeded across sectors. | Identical wording in policy, press, and academia. |
+| **Dissent Simulation** | Sanctioned “critical” voices echoing containment language. | Predictable rhythm of safe outrage. |
 
-These loops convert containment language into **culture** — sincerity simulated through repetition.  
+These loops turn suppression into culture; repetition becomes reputation management.
 
 ---
 
@@ -60,55 +61,67 @@ These loops convert containment language into **culture** — sincerity simulate
 
 | Risk | Consequence |
 |------|--------------|
-| **Reality Displacement** | Truth becomes a visibility contest — what survives in search defines what’s “real.” |
-| **Survivor Discrediting** | Cleaned or missing metadata renders misconduct unfalsifiable. |
-| **Weaponised Search** | Victims can’t locate their own evidence; onlookers assume none existed. |
+| **Reality Displacement** | Search results outvote truth. |
+| **Survivor Discrediting** | Missing metadata breaks evidentiary continuity. |
+| **Visibility Weaponisation** | Silence rebranded as lack of proof. |
+
+When discoverability equals legitimacy, erasure becomes governance.
 
 ---
 
-## 🛰️ Key Control Points  
+## 🛰️ Control Points  
 
-| Actor / System | Sabotage Vector |
-|----------------|-----------------|
-| **Cabinet Office / CO Comms** | Central coordination of behavioural scripts and information management. |
-| **Cloudflare / AWS** | Throttling, de-prioritising, or delisting politically sensitive domains. |
-| **Microsoft / Google** | Algorithmic bias via ranking, auto-fill, and AI training data. |
-| **Academic Journals** | Authorship gating, retroactive redaction, and metadata sanitisation. |
-| **LinkedIn / Meta / X** | Black-box moderation and context erasure of narrative threads. |
+| Actor / System | Role in Visibility Governance |
+|----------------|-------------------------------|
+| **Cabinet Office / CO Comms** | Behavioural script coordination. |
+| **Cloudflare / AWS** | Infrastructure throttling of contentious domains. |
+| **Microsoft / Google** | Algorithmic moderation through training bias. |
+| **Academic Journals** | Retroactive redaction and authorship gating. |
+| **Social Platforms** | Context erasure via moderation pipelines. |
 
-Each operates as a **metadata choke point**: where technical stewardship meets political discretion.  
+Each acts as a **moral filter disguised as a technical one**.
 
 ---
 
-## 💫 Polaris User Notes  
+## 💫 Counter-Forensics  
 
-- **Archive Drift:** Capture edits with `archive.today`, `Wayback Machine`, and `diffchecker` — drift itself is evidence.  
-- **Version Control:** Compare hashes, timestamps, and citation DOI histories.  
-- **Language Tracking:** Map recurring phrasing across institutional outputs; compile frequency tables.  
-- **Visibility Audit:** Chart when your work, name, or link dropped in ranking — correlate with event timelines.  
+- **Archive Drift Capture:** use diff tools; mutation itself is data.  
+- **Version Hashing:** treat timestamps as witness testimony.  
+- **Language Frequency Mapping:** trace script convergence.  
+- **Visibility Audit:** chart search-ranking collapse against event timelines.  
 
-Every erased record is a breadcrumb.  
+Every broken link is a confession.
+
+---
+
+## 🪞 Tone Governance  
+Metadata control is the bureaucratic sibling of [🗣️ Voice Laundering](./🗣️_voice_laundering.md).  
+Both enforce *professional tone* as a moral category.  
+A polite archive is often an edited one; an unfindable voice, the tidiest of reputations.
+
+> The archive doesn’t forget — it curates amnesia.
 
 ---
 
 ## 🌌 Constellations  
-🧿 📚 🪆 🛰️ — metadata sabotage, narrative interference, visibility control, archival forensics.  
+📚 🪆 🧿 🛰️ — metadata, interference, visibility, control.  
 
 ---
 
 ## ✨ Stardust  
-metadata sabotage, ghost editing, dns interference, search suppression, narrative management, language scripting, containment rhetoric, archival drift, forensic visibility, information control  
+metadata sabotage, narrative management, ghost editing, dns interference, search suppression, visibility governance, archive drift, tone control, information politics, forensic recovery  
 
 ---
 
 ## 🏮 Footer  
-*📚 Narrative Management and Metadata Sabotage* is a living node of the Polaris Protocol.  
-It documents how institutional and algorithmic systems rewrite reality by manipulating the metadata of truth itself.  
+*📚 Narrative Management and Metadata Sabotage* is a living node of the **Polaris Protocol**.  
+It maps the infrastructures that edit truth into decorum, tracing how metadata manipulation becomes a moral technology of silence.  
 
 > 📡 Cross-references:
 > 
-> - [🪆 Narrative Interference](./README.md) — *projection and synthetic storyline control*  
-> - [🎶 Shared Technology — VoiceX and Institutional Reports](./🎶_shared_tech_voicex_institutional_reports.md) — *stylometric harmonisation as suppression*  
+> - [🎶 Shared Technology — VoiceX and Institutional Reports](./🎶_shared_tech_voicex_institutional_reports.md) — *linguistic containment pipelines*  
+> - [🪆 Narrative Interference](./README.md) — *cluster overview and theory of distortion*  
+> - [🧩 Repairing Trust Chains](./🧩_repairing_trust_chains.md) — *forensic recovery and verification*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
