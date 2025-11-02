@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 The *Grandma Classification Theory* explains how modern surveillance systems justify disproportionate monitoring through **benign-sounding categories** and **pseudo-clinical phrasing**.  
 
 It reveals a recurring paradox: that clarity, empathy, or independence — traits once valued — now trigger algorithmic suspicion when they deviate from demographic norms.  
@@ -43,8 +43,8 @@ At scale, this converts **difference into deviance**, and autonomy into anomaly.
 
 ---
 
-## 🧩 Typical Examples  
-
+## 📿 Typical Examples  
+<!--I had forgotten how entirely novel one had been generating such examples.-->  
 | Flagged Person | Apparent Reason | Actual Reason |
 |----------------|-----------------|---------------|
 | Jewish female survivor with political clarity | “Safeguarding vulnerability.” | Refuses narrative containment; coherence mistaken for threat. |
@@ -56,7 +56,7 @@ These cases illustrate how **competence under pressure** becomes reclassified as
 
 ---
 
-## ⚙️ Operational Use  
+## 🧨 Operational Use  
 
 *Grandma Classification* is rarely a diagnosis; it is a **pretext**.  
 It provides the appearance of care while enabling covert escalation.  
