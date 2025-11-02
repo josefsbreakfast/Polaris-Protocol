@@ -1,3 +1,9 @@
+Please note:  
+
+"The sakura's meaning is also contradictory. It symbolizes both life and death, beauty and violence. As the coming of spring promises new life, so the blooming of cherry blossoms brings a sense of vitality and vibrancy. At the same time, their short lifespan is a reminder that life is fleeting." [source](https://www.jal.co.jp/my/en/guide-to-japan/experiences/cherry-blossom/what-do-cherry-blossoms-represent/)  
+
+When you see a pink flower, remember the symbolx the west once used to define the height of masculinity and *why*, please.  
+
 ```
 🌸 Containment_Studies/
  ├── 📖_README.md
