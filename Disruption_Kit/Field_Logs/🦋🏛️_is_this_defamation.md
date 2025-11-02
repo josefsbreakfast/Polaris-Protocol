@@ -118,7 +118,23 @@ so again: i would consider a conversation.
 
 oh and btw that video is the algorithm doing the "but you do matter" equivilant.  
 
-hands up who has had a mental health dusorder where "chin up" was good advice?  
+hands up who has had a mental health disorder where "chin up" was good advice?  
+
+---
+
+also how are we not understsnding that i see the tarot situation as data collection?  
+
+you realise i can appreciate this as data and entertainment and that "advice" in this manner is kinda....  
+
+meh.  
+
+right?
+
+...right? guys?  
+
+🤦‍♀️  
+
+the music at least appeased me.  
 
 ---
 
