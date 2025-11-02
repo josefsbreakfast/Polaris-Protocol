@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 16:09:01 UTC_
+_Generated on 2025-11-02 16:13:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1721,6 +1721,7 @@ _Generated on 2025-11-02 16:09:01 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
+      - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/☕️_tea_and_impunity.md)
       - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/☕️_tea_toast_transparency.md)
       - [`⚖️_regulatory_and_risk_framework.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
       - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/⚖️_soft_power_without_soft_accountability.md)
@@ -1738,7 +1739,9 @@ _Generated on 2025-11-02 16:09:01 UTC_
       - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📺_coverup_as_cultural_genre.md)
       - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🕳️_social_memory_of_impunity.md)
       - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🗞️_institutional_silence_as_public_signal.md)
+      - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🚪_doorbell_of_denial.md)
       - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🦇_prestige_capture_mechanisms.md)
+      - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🦚_the_peacock_principle.md)
       - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_accountability_failures_and_public_trust.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
       - [`🧭_overview_pitch_at_palace_structure.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
