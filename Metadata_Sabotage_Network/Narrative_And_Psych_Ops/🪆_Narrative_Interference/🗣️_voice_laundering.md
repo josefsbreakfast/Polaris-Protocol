@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 **Voice laundering** is the art of polishing danger until it looks like decorum.  
 It occurs when survivor testimony is rewritten into “balanced insight,” when the lived voice becomes a corporate accent.  
 This is not deletion; it is *re-curation*: a bureaucratic makeover that keeps the data but loses the pulse.  
@@ -13,7 +13,7 @@ The result is paradoxical — a document that sounds ethical while performing er
 
 ---
 
-## 🧩 Containment Aesthetics  
+## 🏵️ Containment Aesthetics  
 Containment loves polish.  
 It rewards prose that sounds unthreatening, correct, and measurable.  
 Editors call it *clarity*. Funders call it *responsibility*.  
@@ -24,7 +24,7 @@ Its job is to ensure that power can cite the wound without bleeding from it.
 
 ---
 
-## 🎯 Why It Matters  
+## 🌩️ Why It Matters  
 
 | Effect | Description |
 |---------|-------------|
