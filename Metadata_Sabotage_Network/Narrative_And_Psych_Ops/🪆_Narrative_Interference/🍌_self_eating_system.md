@@ -1,5 +1,5 @@
 # 🍌 The Self-Eating System: Simulated Authenticity and Cultural Cannibalism  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-13  
+**First created:** 2025-09-14 | **Last updated:** 2025-11-02  
 *How thrift, Hobonichi, Amazon, AI, and the high street were stripped of aliveness and fed back to us as ghosts.*  
 
 ---
@@ -168,15 +168,15 @@ We’ve exorcised the wrong spirits. The work now is to call the right ones home
 
 ## 🏮 Footer  
 
-*The Self-Eating System* is a living node of the Polaris Protocol.  
+*🍌 The Self-Eating System* is a living node of the Polaris Protocol.  
 It traces how authenticity, durability, and cultural aliveness are stripped and re-sold, functioning as a narrative interference tactic within metadata sabotage.  
 
 > 📡 Cross-references:
 > 
 > - [🪆 Narrative Interference](./README.md) — *parent cluster on narrative suppression and recycling*  
 > - [📚 Narrative Management and Metadata Sabotage](./📚_narrative_management_and_metadata_sabotage.md) — *wider strategies of cultural containment*  
-> - [🎊 Multi-Party Data Twinning](../../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md) — *on vendor logics and composite datasets*  
+> - [🎊 Multi-Party Data Twinning](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md) — *on vendor logics and composite datasets*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_  
+_Last updated: 2025-11-02_  
