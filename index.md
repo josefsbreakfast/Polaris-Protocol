@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 01:59:28 UTC_
+_Generated on 2025-11-02 02:30:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1804,6 +1804,7 @@ _Generated on 2025-11-02 01:59:28 UTC_
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
     - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
+    - [`🕸️_practical_irreversibility_when_feedback_becomes_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md)
     - [`🕸️_survivor_consent_frameworks.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_survivor_consent_frameworks.md)
     - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
     - [`🕸️_the_grief_of_the_imperial_core.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_grief_of_the_imperial_core.md)
