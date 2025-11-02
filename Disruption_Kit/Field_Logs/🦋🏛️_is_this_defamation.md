@@ -33,7 +33,7 @@ you are spending a lot of time making "fetch" happen.
 well.  
 
 i think doubling down on defamation with the romance trope with some bare drift probably just answered that conundrum.  
-
+<!--give it 5 mins and we'll have the return if the 20ft monument to the gora's greatest fear. 🙄-->
 like idk man maybe they can get lawyers. 🤷‍♀️  
 
 ---
