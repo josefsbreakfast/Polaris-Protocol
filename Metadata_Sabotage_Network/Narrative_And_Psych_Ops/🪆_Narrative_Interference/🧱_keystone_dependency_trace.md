@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 A *keystone dependency* is an individual, dataset, or mechanism upon which multiple institutions quietly rely.  
 Like an architectural keystone, it carries disproportionate weight: remove it and systems wobble; overprotect it and systems stagnate.  
 
@@ -13,7 +13,7 @@ By tracing how reliance on a single point—human or informational—creates bot
 
 ---
 
-## 🏗️ Dependency Mapping Table  
+## 🍄 Dependency Mapping Table  
 
 | Dependency Type | Example Context | Institutional Behaviour | Risk Mode | Safeguard Action |
 |------------------|-----------------|--------------------------|------------|------------------|
@@ -26,7 +26,7 @@ Each dependency pattern creates both comfort and risk. Comfort, because it simpl
 
 ---
 
-## 🔍 Forensic Reading  
+## 💫 Forensic Reading  
 Keystone dependencies produce what Polaris calls **bottleneck theatre** — the illusion that progress or collapse hinges on one crucial actor.  
 In reality, dependency is distributed: information, emotion, and reputation form invisible load-bearing structures.  
 When institutions conflate *person* with *platform*, they transform resilience into surveillance.  
@@ -50,7 +50,7 @@ flowchart LR
     class A,B,C,D,E,F dep;
 ```
 
-### 🧩 Reading Notes  
+### 🪼 Reading Notes  
 The diagram shows dependency as the **hidden motor** of containment.  
 Narratives orbit the keystone, recruiting moles and justifying control.  
 Policy reacts to the distortion rather than the data, feeding new dependency cycles.  
