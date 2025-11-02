@@ -1,7 +1,7 @@
 # 📚 Authoritarian Century — Bridge of Register  
 **First created:** 2025-11-01 | **Last updated:** 2025-11-01  
 *Reading a suppressed policy text as a systems bridge between digital infrastructure and democratic collapse.*
-
+<!--Glaring lack of discussion of a particular field for someone who can articulate why 4chan represents a real challenge to democracy, but okay. One might say it looks like a particular legal instrument was being written around, but far be it from Polaris to hypothesise about any such business. Gosh I can't wait for that ICO return.-->
 ---
 
 ## 🧭 Orientation  
