@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 20:13:47 UTC_
+_Generated on 2025-11-02 22:02:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -914,6 +914,7 @@ _Generated on 2025-11-02 20:13:47 UTC_
     - [`hillside_patch_grid.png`](Disruption_Kit/Field_Logs/hillside_patch_grid.png)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
+    - [`why_we_have_only_just_started.png`](Disruption_Kit/Field_Logs/why_we_have_only_just_started.png)
     - [`☔️_get_me_an_umbrella_at_least.md`](Disruption_Kit/Field_Logs/☔️_get_me_an_umbrella_at_least.md)
     - [`☔️_the_one_useful_thing.md`](Disruption_Kit/Field_Logs/☔️_the_one_useful_thing.md)
     - [`☔️_was_i_supposed_to_leak.md`](Disruption_Kit/Field_Logs/☔️_was_i_supposed_to_leak.md)
