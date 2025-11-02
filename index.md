@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-02 16:13:50 UTC_
+_Generated on 2025-11-02 16:14:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1742,6 +1742,7 @@ _Generated on 2025-11-02 16:13:50 UTC_
       - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🚪_doorbell_of_denial.md)
       - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🦇_prestige_capture_mechanisms.md)
       - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🦚_the_peacock_principle.md)
+      - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧃_juicebox_theory_of_accountability.md)
       - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_accountability_failures_and_public_trust.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
       - [`🧭_overview_pitch_at_palace_structure.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
