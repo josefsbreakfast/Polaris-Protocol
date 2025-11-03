@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-03 20:04:53 UTC_
+_Generated on 2025-11-03 20:11:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1802,6 +1802,7 @@ _Generated on 2025-11-03 20:04:53 UTC_
       - [`🧿_jewish_nationalisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
+    - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_citizen_recourse_private_surveillance_uk.md)
     - [`⚖️_ethics_of_algorithmic_stabilisation_experiments.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ethics_of_algorithmic_stabilisation_experiments.md)
     - [`⚖️_ideological_coding_and_voice_discrediting.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ideological_coding_and_voice_discrediting.md)
     - [`⚖️_institutional_parasitism_of_deradicalisation_work.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institutional_parasitism_of_deradicalisation_work.md)
@@ -1822,6 +1823,7 @@ _Generated on 2025-11-03 20:04:53 UTC_
     - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
     - [`🌿_wild_type_encounters.md`](Polaris_Nest/Git_Intake_Drawer/🌿_wild_type_encounters.md)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
+    - [`🎓_reputation_management_and_university_protest_response.md`](Polaris_Nest/Git_Intake_Drawer/🎓_reputation_management_and_university_protest_response.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎙_the_silence_after_command.md`](Polaris_Nest/Git_Intake_Drawer/🎙_the_silence_after_command.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
@@ -1900,6 +1902,7 @@ _Generated on 2025-11-03 20:04:53 UTC_
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
     - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
+    - [`🕸️_interlocking_influence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_interlocking_influence_economy.md)
     - [`🕸️_practical_irreversibility_when_feedback_becomes_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md)
     - [`🕸️_survivor_consent_frameworks.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_survivor_consent_frameworks.md)
     - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
