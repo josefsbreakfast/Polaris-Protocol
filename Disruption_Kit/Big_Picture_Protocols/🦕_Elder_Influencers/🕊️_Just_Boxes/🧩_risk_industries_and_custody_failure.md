@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 The same structural logic that governs the *Swiss-Cheese model* of system failure also describes the modern risk-management economy.  
 When surveillance, incarceration, and “strategic advisory” services share personnel and clients, the public’s ability to distinguish accident from design collapses.  
 
@@ -13,7 +13,7 @@ It argues that the same vulnerabilities that enable negligence also enable corru
 
 ---
 
-## 🧩 Intersecting Ecosystems  
+## 🦇 Intersecting Ecosystems  
 
 | Sector | Role | Overlap |
 |--------|------|---------|
@@ -26,7 +26,7 @@ Each ecosystem sells *containment as service*. Together they form the commercial
 
 ---
 
-## 🔍 Systems Analysis — The Swiss-Cheese Frame  
+## 🧀 Systems Analysis — The Swiss-Cheese Frame  
 - **Latent conditions:** opaque contracts, weak oversight, profit motives.  
 - **Active failures:** unchecked subcontractors, unverified data, conflicts of interest.  
 - **Alignment:** when these holes line up—across intelligence, policing, and prisons—the result is predictable “coincidences”: deaths in custody, data leaks, manufactured narratives.  
@@ -57,7 +57,7 @@ risk advisory, para-intelligence, defence industry, custody failure, privatisati
 ---
 
 ## 🏮 Footer  
-*Risk Industries and Custody Failure* is a living node of the Polaris Protocol.  
+*🧩 Risk Industries and Custody Failure* is a living node of the Polaris Protocol.  
 It maps how the global market for secrecy reproduces the same design flaws that lead to custodial harm.  
 Its aim is practical: seal the structural holes before they align again.  
 
