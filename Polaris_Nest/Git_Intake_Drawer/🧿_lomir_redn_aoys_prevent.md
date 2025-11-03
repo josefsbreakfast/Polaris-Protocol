@@ -106,6 +106,12 @@ From a purely reputational view, the optics of “we flagged an anti-fascist Jew
 
 From a civic view, it’s a sign that the system has confused **difference with danger**.  
 
+אבער:  
+
+וויפיל פון אונדז זענען אַזוי "נייגעריק"?  
+
+וויפיל פאנען?  
+
 ---
 
 ## 🌌 Constellations  
