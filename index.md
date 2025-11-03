@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-03 11:16:55 UTC_
+_Generated on 2025-11-03 11:36:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1814,6 +1814,7 @@ _Generated on 2025-11-03 11:16:55 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌅_rise_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌅_rise_of_institutional_integrity.md)
     - [`🌪️_field_reconditioning.md`](Polaris_Nest/Git_Intake_Drawer/🌪️_field_reconditioning.md)
+    - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
     - [`🌺_soft_containment.md`](Polaris_Nest/Git_Intake_Drawer/🌺_soft_containment.md)
     - [`🌾_possibly_poetry_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🌾_possibly_poetry_pipeline.md)
     - [`🌿_lawful_illegality_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🌿_lawful_illegality_of_care.md)
@@ -1892,6 +1893,7 @@ _Generated on 2025-11-03 11:16:55 UTC_
     - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
     - [`🕰️_institutional_timescales_of_repair.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_institutional_timescales_of_repair.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
+    - [`🕳️_the_shape_of_missing_historical_nodes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_shape_of_missing_historical_nodes.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
