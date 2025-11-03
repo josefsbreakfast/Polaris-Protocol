@@ -69,9 +69,10 @@ flowchart TD
 ## 🕯️ Holocaust Discourse as False Indicator  
 
 > “They keep talking about the Holocaust.”  
->  
-> For Jewish users that’s daily life — family, history, culture, theology, memes, film.  
-> For algorithms trained on majority English data, it’s statistical anomaly → risk flag.
+
+For Jewish users that’s daily life — family, history, culture, theology, memes, film.  
+
+For algorithms trained on majority English data, it’s statistical anomaly → risk flag.
 
 ### ❓ Why the flag trips
 - **Baseline bias:** Jewish memorial frequency > baseline.  
