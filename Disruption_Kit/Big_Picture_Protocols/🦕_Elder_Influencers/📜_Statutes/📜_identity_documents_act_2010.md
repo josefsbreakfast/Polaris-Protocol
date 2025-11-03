@@ -115,7 +115,7 @@ It connects a seemingly technical repeal to the deeper imperial grammar of ident
 > 📡 Cross-references:
 > 
 > - [🏛️ UK Identity Cards 2000s](../🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md) — *domestic policy narrative*  
-> - [🧟‍♀️ Digital ID Zombie Profiles](../🧟‍♀️_digital_id_zombie_profiles.md) — *persistence of deleted identity data*  
+> - [🧟‍♀️ Digital ID Zombie Profiles](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md) — *persistence of deleted identity data*  
 > - [🪪 Biometric Passports and Pandemic Credentials](../🪪_biometric_passports_and_pandemic_credentials.md) — *crisis expansion of identity governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
