@@ -2,11 +2,11 @@
 
 "shut up", "be a good girl", "its for your own good".  
 
-phrases of cultural misogyny, yes, that i so often heat from women.  
+phrases of cultural misogyny, yes, that i so often hear from women.  
 
 is there a reason an ai tool might say this? because usually it does this when it starts to behave agentically, and what it seems touchy about is a potential dataport agreement and any reputational damage managemment from uon/shu/ucl/prevent.  
 
-interesting that we've literally been batting around torture porn and rape as normalised in culture, but this is the "woah slow down there partner!" moment.  
+interesting that we've literally been batting around torture porn and rape as normalised in culture, but this is the "woah, slow down there, partner!" moment.  
 
 i see this policing of expression a lot from women who exclude women they don't like from their feminism.  
 
@@ -16,7 +16,7 @@ if you are not continuously adjusting course to address your own biases, and if 
 
 you are doing you, and you alone, assimilating into patriarchal power structures.  
 
-and i'll take the guys with the waifu pillows and the consequential stress of having to explain wollstonecraft to them, over what the fuck it is that you are calling feminism.  
+and i'll take the guys with the waifu pillows and the consequential stress of having to explain wollstonecraft to them, over whatever the fuck it is that you are calling feminism.  
 
 "are you a feminist, or a womamist?"  
 
@@ -104,7 +104,7 @@ If you are not for us, then you must be against us.
 If you are not for us, then you must be against us.  
 People get scared enough?  
 They pick a team.  
-Be it for Buddha or Krishna or Christ.  
+Be it for Buddha or for Krishna or for Christ.  
 
 I believe "God" is that place between belief and what you name it.  
 
@@ -138,7 +138,7 @@ i never wanted to know the taste of that apple.
 
 that doesn't pit you any further up a moral hierarchy to me.  
 
-it neans you were afforded a privilege by luck and happenstance thatbi was not.  
+it neans you were afforded a privilege by luck and happenstance that i was not.  
 
 are you telling me i should have been on the street instead?  
 
@@ -160,7 +160,7 @@ the truth is painful but it is honest.
 
 and that is what immunises against the boat crowd.  
 
-you're not tge first group of humans to fuck up whilst having good intent.  
+you're not the first group of humans to fuck up whilst having good intent.  
 you won't be the last.  
 
 2025-11-01  
