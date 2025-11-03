@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-03 20:04:22 UTC_
+_Generated on 2025-11-03 20:04:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1933,6 +1933,7 @@ _Generated on 2025-11-03 20:04:22 UTC_
     - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_data_and_population_targeting.md)
+    - [`🧠_ai_ethicswash.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ai_ethicswash.md)
     - [`🧠_behavioural_nudge_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_nudge_as_containment.md)
     - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Polaris_Nest/Git_Intake_Drawer/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
     - [`🧠_composite_line_formation_dual_valence_merge.md`](Polaris_Nest/Git_Intake_Drawer/🧠_composite_line_formation_dual_valence_merge.md)
@@ -1985,6 +1986,7 @@ _Generated on 2025-11-03 20:04:22 UTC_
     - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
     - [`🧿_lomir_redn_aoys_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_lomir_redn_aoys_prevent.md)
     - [`🧿_oversight_paralysis_when_allies_breach_the_firewall.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis_when_allies_breach_the_firewall.md)
+    - [`🧿_private_eye_bounces_back.md`](Polaris_Nest/Git_Intake_Drawer/🧿_private_eye_bounces_back.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
