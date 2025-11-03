@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-03 21:26:14 UTC_
+_Generated on 2025-11-03 21:31:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1231,6 +1231,7 @@ _Generated on 2025-11-03 21:26:14 UTC_
     - [`🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md`](Disruption_Kit/Field_Logs/🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md)
     - [`🦆_other_irregularities.md`](Disruption_Kit/Field_Logs/🦆_other_irregularities.md)
     - [`🦆_regularly.png`](Disruption_Kit/Field_Logs/🦆_regularly.png)
+    - [`🦇_at_least_we_now_know.md`](Disruption_Kit/Field_Logs/🦇_at_least_we_now_know.md)
     - [`🦇_being_vocal_and_female_online.PNG`](Disruption_Kit/Field_Logs/🦇_being_vocal_and_female_online.PNG)
     - [`🦇_being_vocal_and_female_online.md`](Disruption_Kit/Field_Logs/🦇_being_vocal_and_female_online.md)
     - [`🦇_men_already_have_rights.md`](Disruption_Kit/Field_Logs/🦇_men_already_have_rights.md)
