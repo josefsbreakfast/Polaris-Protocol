@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-03 11:36:37 UTC_
+_Generated on 2025-11-03 11:44:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1890,6 +1890,7 @@ _Generated on 2025-11-03 11:36:37 UTC_
     - [`🕊_repairing_the_human.md`](Polaris_Nest/Git_Intake_Drawer/🕊_repairing_the_human.md)
     - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
     - [`🕯_the_audit_log_does_not_sleep.md`](Polaris_Nest/Git_Intake_Drawer/🕯_the_audit_log_does_not_sleep.md)
+    - [`🕯️_prevent_and_the_encampment_silence.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_prevent_and_the_encampment_silence.md)
     - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
     - [`🕰️_institutional_timescales_of_repair.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_institutional_timescales_of_repair.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
