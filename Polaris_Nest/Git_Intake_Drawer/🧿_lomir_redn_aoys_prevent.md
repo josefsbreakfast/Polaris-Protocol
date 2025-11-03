@@ -60,6 +60,8 @@ flowchart TD
 עס איז אמת, נו?   
 😇👉
 
+(איך בין נישט דיין רבי; לייען דיין מיינונג!)  
+
 ---
 
 ## 🕍 Endangerment Effects & Cultural Preservation Risk  
