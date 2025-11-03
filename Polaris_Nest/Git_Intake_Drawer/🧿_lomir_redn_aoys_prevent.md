@@ -53,7 +53,7 @@ flowchart TD
 
 *Outcome:* antifascist Jewish discourse suppressed; Orthodox or offline content invisible; machine learns nothing useful.  
 
-דאָס איז פאַרוואָס דו קענסט נישט געפֿינען היינטיקן דאַף, זעסטו? זאָג דאָס אַדאָני.  
+דאָס איז פאַרוואָס דו קענסט נישט געפֿינען היינטיקן דאַף, זעסטו? זאָג דאָס אַדאָני.עס איז אמת, נו?   
 
 ---
 
