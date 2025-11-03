@@ -41,10 +41,10 @@ When the algorithm can’t read context, it calls culture, "risk".
 ```mermaid
 flowchart TD
   A[Transliterated Yiddish / Holocaust reference] --> B[Keyword filter: English + Latin script only]
-  B --> C{Match "risk terms"?}
+  B --> C{Match risk terms?}
   C -- Yes --> D[Flag for escalation]
   D --> E[Reviewer uncertain -> retains flag]
-  E --> F[Model retrains: "Jewish memory" = anomaly]
+  E --> F[Model retrains: Jewish memory = anomaly]
   F -->|Feedback| A
   C -- No --> G[Pass unflagged]
   G --> H[Orthodox Hebrew-script Yiddish -> invisible to model]
