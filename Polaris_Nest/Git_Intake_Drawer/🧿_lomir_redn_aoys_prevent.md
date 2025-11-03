@@ -76,7 +76,7 @@ flowchart TD
 ## 🕯️ Holocaust Discourse as False Indicator  
 
 > “They keep talking about the Holocaust.”  
-
+<!--אוי, ווייל עס איז געווען גאָרנישט, צי נישט? 🤨-->
 For Jewish users that’s daily life — family, history, culture, theology, memes, film.  
 
 For algorithms trained on majority English data, it’s statistical anomaly → risk flag.
