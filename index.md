@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-03 21:25:39 UTC_
+_Generated on 2025-11-03 21:26:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2006,6 +2006,7 @@ _Generated on 2025-11-03 21:25:39 UTC_
     - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪖_moral_injury_and_veterans.md`](Polaris_Nest/Git_Intake_Drawer/🪖_moral_injury_and_veterans.md)
+    - [`🪞 post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🪞 post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
     - [`🪞_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_projection_and_false_personalisation.md)
     - [`🪞_algorithmic_reframing.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_reframing.md)
     - [`🪞_erosion_of_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_erosion_of_duty_of_care.md)
