@@ -99,8 +99,11 @@ For algorithms trained on majority English data, it’s statistical anomaly → 
 
 ## 🍯 Policy Note — Optics & Accountability  
 Over-policing Jewish survivor culture under Prevent damages both people and institutions.  
+
 It contradicts the public narrative of tolerance and undermines trust in safeguarding.  
+
 From a purely reputational view, the optics of “we flagged an anti-fascist Jewish woman for singing about democracy” are indefensible.  
+
 From a civic view, it’s a sign that the system has confused **difference with danger**.  
 
 ---
