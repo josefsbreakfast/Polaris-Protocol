@@ -5,14 +5,30 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node speaks in two languages at once — the Yiddish of survival and the bureaucratic English of “safeguarding.”  
+
 It traces how Prevent’s data-driven vigilance turns minority normality into anomaly: Yiddish songs, Holocaust study, antifascist art, survivor humour.  
-When the algorithm can’t read context, it calls culture risk.
+
+When the algorithm can’t read context, it calls culture, "risk".  
+
+פֿאַר די ייִדן? מיר אַלע קענען זײַן "ריזיקירנדיק".  
+
+אונדזער שפּראַך איז נישט געוויינטלעך צו פֿאַרשטיין.  
+
+די מאַשין זעט אונדזערע דאַטן; די מאַשין זעט "אַנאָמאַליע".  
+
+עס איז דא א גרויסע געפאר.  
+
+און עס דערציילט נישט קיין גוטע וויץ.  
+
+די שאַנד.  
 
 ---
 
-## 🧩 Key Features  
+## 🧄 Key Features  
+*די פּאָליטיק שאַטן ייִדיש.*  
+
 - **Language extinction feedback:** transliterated Yiddish gets over-flagged; Hebrew-script Yiddish passes unseen.  
 - **Holocaust discourse flagged as fixation:** memorial study mistaken for radicalisation.  
 - **Prevent’s paradox:** defending “British values” by suppressing the speech that most clearly embodies them — freedom, dissent, remembrance.  
@@ -34,7 +50,9 @@ flowchart TD
   G --> H[Orthodox Hebrew-script Yiddish -> invisible to model]
 ```
 
-*Outcome:* antifascist Jewish discourse suppressed; Orthodox or offline content invisible; machine learns nothing useful.
+*Outcome:* antifascist Jewish discourse suppressed; Orthodox or offline content invisible; machine learns nothing useful.  
+
+דאָס איז פאַרוואָס דו קענסט נישט געפֿינען היינטיקן דאַף, זעסטו? זאָג דאָס אַדאָני.  
 
 ---
 
@@ -54,15 +72,15 @@ flowchart TD
 > For Jewish users that’s daily life — family, history, culture, theology, memes, film.  
 > For algorithms trained on majority English data, it’s statistical anomaly → risk flag.
 
-### Why the flag trips
+### ❓ Why the flag trips
 - **Baseline bias:** Jewish memorial frequency > baseline.  
 - **Context overlap:** words like *partisan*, *resistance*, *vengeance* share lexicons with risk categories.  
-- **Feedback reinforcement:** one mis-flag breeds another.
+- **Feedback reinforcement:** one mis-flag breeds another.  
 
-### Correction
+### 🪬 Correction
 - Incorporate Jewish-language and memorial corpora into baseline training.  
 - Require culturally literate human review for flagged “Holocaust” clusters.  
-- Treat commemoration as **protective civic practice**, not “fixation.”
+- Treat commemoration as **protective civic practice**, not “fixation.”  
 
 ---
 
@@ -77,11 +95,11 @@ flowchart TD
 
 ---
 
-## 🧩 Policy Note — Optics & Accountability  
+## 🍯 Policy Note — Optics & Accountability  
 Over-policing Jewish survivor culture under Prevent damages both people and institutions.  
 It contradicts the public narrative of tolerance and undermines trust in safeguarding.  
 From a purely reputational view, the optics of “we flagged an anti-fascist Jewish woman for singing about democracy” are indefensible.  
-From a civic view, it’s a sign that the system has confused **difference with danger**.
+From a civic view, it’s a sign that the system has confused **difference with danger**.  
 
 ---
 
@@ -96,14 +114,14 @@ prevent, yiddish, holocaust discourse, algorithmic bias, endangered languages, b
 ---
 
 ## 🏮 Footer  
-*Lomir Redn Aoys “Prevent”* is a living node of the Polaris Protocol.  
+*🧿 Lomir Redn Aoys “Prevent”* is a living node of the Polaris Protocol.  
 It documents how counter-terror infrastructures misread Jewish cultural expression and inadvertently endanger an already-fragile language.  
 Its purpose is diagnostic and preservational: to show how fixing the machine begins with learning the language.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🎧 Yiddish Music & the False-Positive Loop in “Values” Detection](../Governance_And_Containment/🉑_System_Thresholds/🎧_yiddish_music_false_positive_loop_in_values_detection.md)  
 > - [🌿 Living with a High-Prevent Environment](../Field_Care/🌿_living_with_high_prevent_environment.md)  
-> - [🎛 Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
