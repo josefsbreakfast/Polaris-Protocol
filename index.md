@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 23:21:02 UTC_
+_Generated on 2025-11-04 23:27:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2294,6 +2294,7 @@ _Generated on 2025-11-04 23:21:02 UTC_
         - [`🟢 _green_route_basic_civic_osint.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🟢 _green_route_basic_civic_osint.md)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/README.md)
       - [`📡_reform_and_local_capture_osint_brief.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/📡_reform_and_local_capture_osint_brief.md)
+      - [`🚨_civil_disorder_response_and_governance_single_points_of_failure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🚨_civil_disorder_response_and_governance_single_points_of_failure.md)
     - [**👾_Chan_Style_Petitioning/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/README.md)
       - [`🕵️‍♀️_osint_for_petition_integrity.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_osint_for_petition_integrity.md)
