@@ -68,7 +68,11 @@ like the ones being filled with concerte to bury fighters alive in gaza,
 (idgaf which faction they're in -- i give every fuck about the act of burying people alive, though; at least fight honestly and frankly like men, and forget the methods the british taught from ireland to hindustan to palestine),  
 in the name of our ancestors in the vilnus forests,  
 and in the name of every nazi trick they took down,  
-<!--"every racist law, nakam would fight"--> 
+<!--"For every Jew the Nazis gassed,    
+For every racist law they passed,  
+For every wrong that wasn't right,  
+For all the dead,  
+Nakam would fight."-->  
 every supply line they sabotaged,  
 and in the name of each and every one of the righteous oyim of europe,  
 goyim or yoyim,  
