@@ -42,7 +42,7 @@ because they will only want to control us more,
 if they create an even more polarised supply-and-demand issue,  
 without addressing their own emotionality.  
 
-such that it will always,
+such that it will always,  
 always,  
 always,  
 end up being most violent to women,  
