@@ -119,15 +119,18 @@ It is administrative, contemporary, and corrigible.
 Seeing that is the first step out of the caste of roles altogether.  
 
 > Why be Jewish, Christian, Muslim,
-> if you don't believe in oneness?
+> if you don't believe in "oneness"?
 > 
 > Adonai is not a realtor, nor a predatory lender,
 > 
 > Not a judge who can be bribed, nor a crooked criminal defender.
 > 
-> He is kindness and compassion, justice, mercy, fairness and togetherness.
+> He is kindness and compassion;  
+> justice,  
+> mercy,  
+> fairness and togetherness.  
 > 
-> (And of all praise, He is worthy.)  
+> (And of all praise, He is worthy!)  
 >
 > The creator and sustainer of the moon and stars above!
 > 
