@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 20:11:09 UTC_
+_Generated on 2025-11-04 20:13:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1810,6 +1810,7 @@ _Generated on 2025-11-04 20:11:09 UTC_
       - [`🧿_asajew.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_asajew.md)
       - [`🧿_dependancy_on_western_definitions.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
       - [`🧿_jewish_nationalisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md)
+      - [`🧿_moda_grants.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_moda_grants.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_citizen_recourse_private_surveillance_uk.md)
