@@ -15,7 +15,7 @@ in order to prey on the fertility anxiety of a 35 year old woman,
 who you routinly interfere in the social connections of such that she loses the chance to marry,  
 the chance to *make said children*,  
 or even have the very human need of caring physical contact met,  
-(after all, you appear to have interfered with her last partner's chemo to time ot with her arrest and detention, and collide this all over a paleatinian-israeli ngo's levture series --  
+(after all, you appear to have interfered with her last partner's chemo to time such with her arrest and detention, and to collide this all over a paleatinian-israeli ngo's levture series --  
 a moment of memorial and silent prayer for the death of subtlety),  
 is in slightly poor taste.  
 
