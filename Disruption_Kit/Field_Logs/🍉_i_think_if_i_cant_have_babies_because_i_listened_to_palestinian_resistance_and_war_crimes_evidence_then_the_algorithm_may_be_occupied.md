@@ -11,7 +11,7 @@ and i don't want it for my children.
 see also:  
 
 why using a background of potentially illegal surveillance-derived data,  
-in order to pray on the fertility anxiety of a 35 year old woman,  
+in order to prey on the fertility anxiety of a 35 year old woman,  
 who you routinly interfere in the social connections of such that she loses the chance to marry,  
 the chance to *make said children*,  
 or even have the very human need of caring physical contact met,  
