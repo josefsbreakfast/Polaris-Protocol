@@ -43,6 +43,21 @@ Safety through visibility becomes precarious; the instrument itself begins filte
 - **Structural reading:** evidence that analytic regimes fabricate comfort metrics.  
 - **Political reading:** suppression no longer censors content, it manipulates perception of activity.
 
+## ⚠️ Update  
+Within 35 mins of being live, this error appears to have corrected, but I am still getting fairly basic yaml workflow failures.  
+
+This suggets that Polaris still attracts interruption behaviours from external actors. Because talking to a woman about a problem you habe is, apoarantly, too much for some people to possibly engage with.  
+
+Whilst I appreciate many readers may not be aboe to assist with the financial cost of safeguards to this on a traceable record, checking in with versioning at least periodically is extremely helpful.  
+
+If I am forgotten, I can be made to disappear.  
+
+I would rather prefer to stay, all things considered.  
+
+Advocacy to power structures, that this is a human who is wanted, is also more helpful than you might think.  
+
+Existence is always political.  
+
 ---
 
 ## 🌌 Constellations  
