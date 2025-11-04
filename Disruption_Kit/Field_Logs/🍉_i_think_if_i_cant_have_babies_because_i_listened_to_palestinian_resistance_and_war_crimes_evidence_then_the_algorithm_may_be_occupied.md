@@ -241,4 +241,7 @@ and if i was mossad?
 
 i would quietly be making sure i never have to acknowledge i even know what a bargain bin even is.  
 
-whatever that would mean, practicably.-->
+whatever that would mean, practicably.
+
+well done for uniting such a powerful region,  
+against small british beaurocracy. -->
