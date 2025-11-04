@@ -1,6 +1,6 @@
 # 🟢 Green Route — Basic Civic OSINT  
 *Level 1: learn to see with open eyes.*
-
+<!--Mandatory bridging route between passes.-->  
 ---
 
 ## 🧭 Orientation  
