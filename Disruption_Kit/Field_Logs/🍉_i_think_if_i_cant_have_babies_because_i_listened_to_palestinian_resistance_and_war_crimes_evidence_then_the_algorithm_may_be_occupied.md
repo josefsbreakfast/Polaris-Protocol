@@ -229,6 +229,8 @@ i would be *livid* about oxford, if i was them.
 
 and i would see it as a direct attempt to fuck with my reputation on palestine, and my business relations in britain.  
 
+and i would, at the very least, defend my own peace.  
+
 you are such fools.  
 
 which does not mean i am "mixed and unclear" in ideology, incidently;  
