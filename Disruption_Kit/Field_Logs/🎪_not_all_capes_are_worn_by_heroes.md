@@ -10,9 +10,11 @@ so, ***** "****** *****" *******?
 
 i am so sorry that you appear to have been the talk of the seder this year.  
 
-clearly the wine is liturgically necessary; at least it shits one up properly, no?  
+(my seders do not involve *this*; rather more mellow by comparison.)  
 
-and i don't know who invited all the list little christian boys,  
+clearly the wine is liturgically necessary; at least it shuts one up properly, no?  
+
+and i don't know who invited all the lost little christian boys,  
 
 but can we perhaps dreradicalise them a little around the knights templar?  
 
@@ -22,7 +24,7 @@ a lot of the masons i know are very sweet people; im not sure this additional co
 
 you know, the ones with the nylon mix capes and the georgia flags?  
 
-wanted to go through whitehall and tower hamlets, *definately not* to stoke any hostorical memories?  
+wanted to go through whitehall and tower hamlets, *definately not* to stoke any historical memories?  
 
 first sensible decision we've seen out of the met in a while on that one; it felt like policing again.  
 
