@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 20:28:01 UTC_
+_Generated on 2025-11-04 20:43:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2015,6 +2015,7 @@ _Generated on 2025-11-04 20:28:01 UTC_
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
     - [`🧵_overproduction_as_human_boredom_response.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_as_human_boredom_response.md)
+    - [`🧼_courtier_class_in_the_age_of_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_in_the_age_of_austerity.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
