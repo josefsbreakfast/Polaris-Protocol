@@ -6,6 +6,15 @@ exceot it also needed to be stuffed with enough breadcrumbs to highly encourage 
 
 seeing as you're collectively sticking your metaphorical dicks in my university email servers every day, perhaps you could kindly not?  
 
-or shall wr talk about the time one of the mirror boys sacked in his shift early because he was freaked out enough by one's response to baiting with viva street (a site where men complain about the sex they pay fir likr this isn't a humiliation kink masquandering as "control". truly delusional.).  
+or shall wr talk about the time one of the mirror boys sacked in his shift early because he was freaked out enough by one's response to baiting with viva street (a site where men complain about the sex they pay fir likr this isn't a humiliation kink masquandering as "control". truly delusional).  
+
+---
+
+contextually this is from agree with man whether the general standard of professionalism was such, that several of them had sexual relations whilst at work, although it must be said mostly with themselves. Loudly. One might be even said deliberately.  
+
+Like I said...  
+
+Bargain. Bin.  
+
 
 2025-11-04
