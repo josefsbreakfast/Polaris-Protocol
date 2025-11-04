@@ -147,3 +147,40 @@ and you are certainly not the roar of judah.
 the shofar sounds against enemies of kol yisrael?  
 
 perhaps you ought to fear it a little more.  
+
+---
+
+"you need to not chase"?  
+
+
+babes.  
+
+i'm just telling you that i can see what codes you're sticking in to penetrate the tone of the feed.  
+
+stop wearing another dude's skin.  
+
+it's weird, bro.  
+
+and i feel like the increase in whining after i flood the feed with palestine,  
+
+doesnt really make sense,  
+
+if you didn't like the guy because he was pne of the "well maybe not every single antizionist is a terrorist" voices.  
+
+shall we talk about the cabinet/subcommittee briefs you leaked?  
+
+or do you want to pretend you are the only ones capable of penetration?  
+
+("what, like it's hard?")  
+
+every defamation op is an inherent risk.  
+
+and if you're defaming on politics?  
+
+with adjacent states and their own defence resource?  
+
+did you think britain would always choose us?  
+
+even when we put their other regional alligences in danger?  
+
+you trust the goy too much.  
