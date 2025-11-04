@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 08:40:23 UTC_
+_Generated on 2025-11-04 17:15:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1808,6 +1808,7 @@ _Generated on 2025-11-04 08:40:23 UTC_
       - [`🧿_dependancy_on_western_definitions.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
       - [`🧿_jewish_nationalisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
+    - [`_when_the_armour_cracks.md`](Polaris_Nest/Git_Intake_Drawer/_when_the_armour_cracks.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_citizen_recourse_private_surveillance_uk.md)
     - [`⚖️_ethics_of_algorithmic_stabilisation_experiments.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ethics_of_algorithmic_stabilisation_experiments.md)
