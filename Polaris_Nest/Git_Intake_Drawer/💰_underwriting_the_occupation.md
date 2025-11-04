@@ -152,7 +152,7 @@ Seeing that is the first step out of the caste of roles altogether.
 - The Ballad of How the Jews Got to Europe; Daniel Kahn & The Painted Bird.  
 - They Don’t Give A F**** About Us; 2Pac (z"L).  
 
-*To be continued...*  
+[*To be continued...*]([Give this playlist a listen: 💰 Underwriting the Occupation](https://open.spotify.com/playlist/2f6AFmPSzxFPWwmrd0HSM1?si=ihQMKn77RyGHJoyxXxXDiQ&pi=4Kx1qJoBTn-Mq))  
 <!--Or spotify-linked.-->
 ---
 
