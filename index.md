@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 17:21:18 UTC_
+_Generated on 2025-11-04 17:25:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1990,6 +1990,7 @@ _Generated on 2025-11-04 17:21:18 UTC_
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
+    - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_signal_steering.md`](Polaris_Nest/Git_Intake_Drawer/🧬_signal_steering.md)
     - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
