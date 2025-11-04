@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 08:28:40 UTC_
+_Generated on 2025-11-04 08:32:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1911,6 +1911,7 @@ _Generated on 2025-11-04 08:28:40 UTC_
     - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
     - [`🕰️_institutional_timescales_of_repair.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_institutional_timescales_of_repair.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
+    - [`🕳️_how_to_catch_a_whistleblower.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_how_to_catch_a_whistleblower.md)
     - [`🕳️_the_shape_of_missing_historical_nodes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_shape_of_missing_historical_nodes.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
