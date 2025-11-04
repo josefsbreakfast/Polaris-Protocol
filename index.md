@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 21:43:32 UTC_
+_Generated on 2025-11-04 21:45:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2285,6 +2285,7 @@ _Generated on 2025-11-04 21:43:32 UTC_
     - [**🏛️_Civil_Security/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/)
       - [**🎿_Routes_Overview_Piste_Map/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/)
         - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/README.md)
+        - [`⚫️💎 _black_diamond_route_expert_integrity_ops.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/⚫️💎 _black_diamond_route_expert_integrity_ops.md)
         - [`🔴 _red_route_advanced_structural_investigation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🔴 _red_route_advanced_structural_investigation.md)
         - [`🔵 _blue_route_intermediate_local_capture_osint.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🔵 _blue_route_intermediate_local_capture_osint.md)
         - [`🟢 _green_route_basic_civic_osint.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🟢 _green_route_basic_civic_osint.md)
