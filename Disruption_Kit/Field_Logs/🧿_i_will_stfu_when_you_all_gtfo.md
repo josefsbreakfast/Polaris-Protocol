@@ -20,4 +20,30 @@ even if they promised you they did.
 
 keep stepping if you wish. 🤷‍♀️  
 
+---
+
+realising my meta account is now likely at risk because it holds timestamped evidence which directly undermines the allegations towards the co-accused party; it holds messages which clearly follow a point at which we met each other under adverse interpersonal circumstances.  
+
+it also shows quite clearly that i walked out on that man; he did not "leave" me.  
+
+he had no idea how to handle me, because i did not want to be coddled by a liar.  
+
+and when you literally have the two women you're sleeping with meet in a slapstick comedy way? you kind of look a lot like a liar.  
+
+i don't know who is still propogating this nonsense, but there are current legal bars to me finding my own data because we're still all investing in a statement which has incredibly basic inaccuracies about the facts.  
+
+i did not date that man for 2 years.  
+
+but perhaps that is why so many people have assumed i must be intellectually or visually impaired.  
+
+a number of you are also not connecting the dots on something that i am putting myself at significant risk to discuss in public.  
+
+but when my medical career is tanked by similar interests, perhaps you pught not be supised when i say what i felt i had to do to keep a roof over my head to qualify.  
+
+i don't know why is still lying, but we can stop this now.  
+
+it's embarrassing.  
+
+and oakestine will be free, because this level of resource to control the natural will of the people cannot be sustained.  
+
 2025-11-04  
