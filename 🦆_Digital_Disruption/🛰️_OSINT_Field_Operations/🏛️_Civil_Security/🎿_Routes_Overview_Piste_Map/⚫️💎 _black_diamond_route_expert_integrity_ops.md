@@ -5,7 +5,7 @@
 
 ## 🧭 Orientation  
 The Diamond Route is expert-level: forensic auditing, real-time monitoring, and structural reform modelling.  It’s where OSINT merges with civic infrastructure engineering.
-
+<!--Or it's just the standard one should aim for, but the LLM wanted us to be genorous.-->
 ---
 
 ## 🧩 Core Skills  
