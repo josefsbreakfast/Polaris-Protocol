@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 21:36:38 UTC_
+_Generated on 2025-11-04 21:39:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2283,6 +2283,8 @@ _Generated on 2025-11-04 21:36:38 UTC_
       - [`🛰️_OSINT_for_anti_palestinian_racism_detection.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
       - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
     - [**🏛️_Civil_Security/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/)
+      - [**🎿_Routes_Overview_Piste_Map/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/)
+        - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/README.md)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/README.md)
       - [`📡_reform_and_local_capture_osint_brief.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/📡_reform_and_local_capture_osint_brief.md)
     - [**👾_Chan_Style_Petitioning/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/)
