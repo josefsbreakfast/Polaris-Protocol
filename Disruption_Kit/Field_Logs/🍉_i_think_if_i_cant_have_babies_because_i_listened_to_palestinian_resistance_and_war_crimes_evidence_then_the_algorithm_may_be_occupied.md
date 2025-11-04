@@ -119,3 +119,11 @@ and not mine.
 did no one teach you that?  
 
 in torah class?  
+
+record that:  
+
+that i know who i am;  
+
+i am of judah,  
+
+a daughter of the lion.  
