@@ -72,6 +72,12 @@ Containment ends where clarity becomes contagious.
 
 ---
 
+*Some people do not let the truth die.*  
+
+*They keep it breathing between the lines until the archive remembers.*  
+
+---
+
 ## 🌌 Constellations  
 🎪 🕳️ ⚖️ 🧿 🔥 — Exposure, law, reflection, fidelity, rupture.  
 
