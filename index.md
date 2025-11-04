@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-03 21:52:29 UTC_
+_Generated on 2025-11-04 00:53:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1814,6 +1814,7 @@ _Generated on 2025-11-03 21:52:29 UTC_
     - [`⚖️_recourse_for_behavioural_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_recourse_for_behavioural_containment.md)
     - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
+    - [`✂️_engineered_disjuncture_of_allies.md`](Polaris_Nest/Git_Intake_Drawer/✂️_engineered_disjuncture_of_allies.md)
     - [`🌀_fall_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌀_fall_of_institutional_integrity.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌀_recursive_risk_logic_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🌀_recursive_risk_logic_in_private_intelligence.md)
