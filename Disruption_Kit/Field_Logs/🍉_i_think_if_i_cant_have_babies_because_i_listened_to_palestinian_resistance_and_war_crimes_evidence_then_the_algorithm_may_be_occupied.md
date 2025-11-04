@@ -125,7 +125,7 @@ and the arab man he was taught to hate.
 
 i know who i am.  
 and only g-d will ever destroy me.  
-in and at a time of hos own choosing;  
+in and at a time of adonai's own choosing;  
 not yours,  
 and not mine.  
 
