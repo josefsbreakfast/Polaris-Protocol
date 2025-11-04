@@ -10,11 +10,22 @@ or shall wr talk about the time one of the mirror boys sacked in his shift early
 
 ---
 
-contextually this is from agree with man whether the general standard of professionalism was such, that several of them had sexual relations whilst at work, although it must be said mostly with themselves. Loudly. One might be even said deliberately.  
+Contextually this is from a group of with man whete the general standard of professionalism was such, that several of them had sexual relations whilst at work, although it must be said mostly with themselves. Loudly. One might be even said deliberately.  
 
 Like I said...  
 
 Bargain. Bin.  
 
+it is also worth saying, that perhaps some of the times where I needed to listen to some sort of music of the Ice-T feeling towards Law enforcement, was probably honestly just a lot of psychologically dealing with the fact that I was stuck in this shitty situation, no one would respond to FOI's properly, and the amount of interference that was going on in every aspect of my life, including healthcare, and how traumatising and damaging this was.  
+
+I can't emphasise enough how important confidentiality is.  
+
+But anyway.  
+
+I imagine that dude probably created a whole profile for me and everything just so you could complain about me online.  
+
+Now that we might describe as being unhealthy coping.  
+
+But that shit doesn't get flagged, does it?  
 
 2025-11-04
