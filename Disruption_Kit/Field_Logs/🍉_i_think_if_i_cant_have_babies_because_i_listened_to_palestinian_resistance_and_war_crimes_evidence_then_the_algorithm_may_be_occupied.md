@@ -208,7 +208,7 @@ but you also underestimsted
 the other people who may move to defend me.  
 
 the torah is catching,  
-
+<!--"I believe holy is what you do, when there is *nothing* between your actions and the truth.-->  
 whatever one's culture calls it.  
 
 and as it can be recited by stsnding on one leg,  
@@ -233,4 +233,4 @@ you are such fools.
 
 which does not mean i am "mixed and unclear" in ideology, incidently;  
 
-what an admissiom that you cannot handle women smarter than you.-->
+what an admission that you cannot handle women smarter than you.-->
