@@ -24,4 +24,10 @@ you know, the ones with the nylon mix capes and the georgia flags?
 
 wanted to go through whitehall and tower hamlets, *definately not* to stoke any hostorical memories?  
 
-first sensible decision we've seen out of the met in a while on that one; it felt like policinh again.  
+first sensible decision we've seen out of the met in a while on that one; it felt like policing again.  
+
+it's nice to have the distance of time to be able to assume that we've seen the pattern that that data corrolate suggests, and actioned the very clear risk to life.  
+
+hopefully.  
+
+i did make that rather clear in my correspondance, however much duress or interference warped the meaning.  
