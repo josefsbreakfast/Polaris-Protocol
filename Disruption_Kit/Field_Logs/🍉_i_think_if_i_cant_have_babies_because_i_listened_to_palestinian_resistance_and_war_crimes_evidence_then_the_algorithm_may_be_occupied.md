@@ -90,3 +90,32 @@ i know who i am.
 i know who made me.  
 no one, save the creater/maintainer/destroyer,  
 will ever break me.  
+
+let history record.  
+i am of judah.  
+but pushed with my brothers' knife to the throat,  
+i placed my body to shield the arab his knive sought to cut.  
+
+i am of judah.  
+my body will be a fence around our torah.  
+
+לֹא־תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל־דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה׃  
+
+משֶׁה קִבֵּל תּוֹרָה מִסִּינַי, וּמְסָרָהּ לִיהוֹשֻׁעַ, וִיהוֹשֻׁעַ לִזְקֵנִים, וּזְקֵנִים לִנְבִיאִים, וּנְבִיאִים מְסָרוּהָ לְאַנְשֵׁי כְנֶסֶת הַגְּדוֹלָה. הֵם אָמְרוּ שְׁלשָׁה דְבָרִים, הֱווּ מְתוּנִים בַּדִּין, וְהַעֲמִידוּ תַלְמִידִים הַרְבֵּה, וַעֲשׂוּ סְיָג לַתּוֹרָה:  
+
+record that my body stood  
+between us and our torah.  
+
+and in so doing:  
+i stood between my brother's knife,  
+and the arab man he was taught to hate.  
+
+i know who i am.  
+and only g-d will ever destroy me.  
+in and at a time of hos own choosing;  
+not yours,  
+and not mine.  
+
+did no one teach you that?  
+
+in torah class?  
