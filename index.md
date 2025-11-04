@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 21:30:02 UTC_
+_Generated on 2025-11-04 21:35:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2282,6 +2282,8 @@ _Generated on 2025-11-04 21:30:02 UTC_
       - [`🕸️_sector_coordination_hypothesis.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🕸️_sector_coordination_hypothesis.md)
       - [`🛰️_OSINT_for_anti_palestinian_racism_detection.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
       - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
+    - [**🏛️_Civil_Security/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/)
+      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/README.md)
     - [**👾_Chan_Style_Petitioning/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/README.md)
       - [`🕵️‍♀️_osint_for_petition_integrity.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_osint_for_petition_integrity.md)
