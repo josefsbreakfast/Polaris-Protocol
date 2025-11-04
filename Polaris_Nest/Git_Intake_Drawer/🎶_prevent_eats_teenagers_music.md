@@ -39,7 +39,24 @@ Algorithms that look for sudden change, isolation, or “ideological fixation”
 When volatility is punished rather than scaffolded, developmental architecture itself bends around fear.  
 The adolescent learns to dampen signal rather than refine control — creating adults who distrust their own impulses, who treat emotional range as liability.  
 
-A society that suppresses hormonal rehearsal erases the rehearsal for moral agency.
+A society that suppresses hormonal rehearsal erases the rehearsal for moral agency.  
+
+---
+
+## 🏭 Labour and Workforce Implications — *Anti-Innovation by Stealth*  
+
+Prevent-era adolescence produces not security, but **economic fragility**.  
+By classifying developmental volatility as deviance, the system unintentionally trains a generation of workers for **compliance over creativity**.  
+
+- **Suppressed adaptability:** experimentation and dissent — the basis of problem-solving — are treated as liabilities.  
+- **Flattened affective range:** adults emerge cautious, easily managed, poor at emotional regulation and risk tolerance.  
+- **Talent attrition:** imaginative or non-linear thinkers exit sectors early, perceiving themselves as unfit for institutional life.  
+- **Management dysfunction:** leadership pipelines narrow to those optimised for deference, not innovation.  
+- **Policy feedback failure:** workforce models assume self-directed adults, but Prevent logic manufactures dependence.  
+
+What begins as “safeguarding” becomes a long-tail **anti-innovation policy**.  
+The emotional supply chain that should feed the labour market is disrupted at source, leaving both civic and economic systems brittle.  
+In the long run, **Prevent eats not just teenagers’ music, but the country’s future capacity to adapt.**
 
 ---
 
