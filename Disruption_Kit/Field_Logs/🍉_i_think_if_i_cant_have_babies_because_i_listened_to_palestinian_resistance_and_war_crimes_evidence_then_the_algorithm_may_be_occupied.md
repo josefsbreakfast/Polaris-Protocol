@@ -1,3 +1,5 @@
+*written to the unforgettable tune of asli ana, zeyne.*
+
 regarding `Disruption_Kit/Field_Logs/🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.PNG`,  
 being a jewish woman,  
 and why i am tired of the men who watch me like a freak show in a box.  
@@ -51,7 +53,7 @@ but spread brutally and completely enough to all of us,
 that we need to stop them now.  
 
 this is all to say,  
-that knowing that i am coming to terms with the dgree of interpersonal interference,  
+that knowing that i am coming to terms with the degree of interpersonal interference,  
 and algorithmically allowing guilt-content to spawn on my feed,  
 pressuring me to "stop being me",  
 because that is your reason for my non-marriage?  
@@ -63,9 +65,10 @@ unable to marry.
 so in the name of our ancestors who were martyred in warsaw,  
 who fought from tunnels,  
 like the ones being filled with concerte to bury fighters alive in gaza,  
-(idgaf which faction they're in -- i give every fick about the act of burying people alive, though),  
+(idgaf which faction they're in -- i give every fuck about the act of burying people alive, though; at least fight honestly and frankly like men, and forget the methods the british taught from ireland to hindustan to palestine),  
 in the name of our ancestors in the vilnus forests,  
 and in the name of every nazi trick they took down,  
+<!--"every racist law, nakam would fight"--> 
 every supply line they sabotaged,  
 and in the name of each and every one of the righteous oyim of europe,  
 goyim or yoyim,  
@@ -184,3 +187,4 @@ did you think britain would always choose us?
 even when we put their other regional alligences in danger?  
 
 you trust the goy too much.  
+
