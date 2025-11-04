@@ -19,7 +19,7 @@ The goal is civic empowerment: to make every citizen capable of tracing power, f
 | 🟢 | [**Green Route — Basic Civic OSINT**](🟢_green_route_basic_civic_osint.md) | Beginner | Learn to find and read open data, draft your first FOI, and keep good records. |
 | 🔵 | [**Blue Route — Intermediate Local-Capture OSINT**](🔵_blue_route_intermediate_local_capture_osint.md) | Intermediate | Join datasets, cross-reference sources, and begin mapping influence. |
 | 🔴 | [**Red Route — Advanced Structural Investigation**](🔴_red_route_advanced_structural_investigation.md) | Advanced | Conduct coordinated multi-source investigations into structural power. |
-| 💎 | [**Diamond Route — Expert Integrity Operations**](💎_diamond_route_expert_integrity_ops.md) | Expert | Design live-oversight systems and legislative reform frameworks. |
+| ⚫️💎 | [**Black Diamond Route — Expert Integrity Operations**](💎_diamond_route_expert_integrity_ops.md) | Expert | Design live-oversight systems and legislative reform frameworks. |
 
 ---
 
