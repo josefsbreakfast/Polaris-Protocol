@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 22:10:43 UTC_
+_Generated on 2025-11-04 22:15:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1823,6 +1823,7 @@ _Generated on 2025-11-04 22:10:43 UTC_
     - [`⚖️_ideological_coding_and_voice_discrediting.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ideological_coding_and_voice_discrediting.md)
     - [`⚖️_institutional_parasitism_of_deradicalisation_work.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institutional_parasitism_of_deradicalisation_work.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
+    - [`⚖️_narrative_control_and_legal_responsibility.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_narrative_control_and_legal_responsibility.md)
     - [`⚖️_operatic_capture_and_risks.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_operatic_capture_and_risks.md)
     - [`⚖️_professional_influence_and_bureaucratic_capture.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_professional_influence_and_bureaucratic_capture.md)
     - [`⚖️_recourse_for_behavioural_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_recourse_for_behavioural_containment.md)
