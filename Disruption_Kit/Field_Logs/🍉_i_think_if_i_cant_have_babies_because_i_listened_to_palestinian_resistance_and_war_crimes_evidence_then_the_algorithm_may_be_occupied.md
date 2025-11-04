@@ -29,7 +29,7 @@ without a woman.
 
 and because they view us with such derision and malice,  
 and because they still desire progeny,  
-and because they are obsessed with dna retention in gfascist states:  
+and because they are obsessed with dna retention in fascist states:  
 
 (shall we talk about the army's involvement, there? perhaps you would prefer to explain precisely why, yourself, and how you've convinced yourself of halakhic inversion?)  
 
