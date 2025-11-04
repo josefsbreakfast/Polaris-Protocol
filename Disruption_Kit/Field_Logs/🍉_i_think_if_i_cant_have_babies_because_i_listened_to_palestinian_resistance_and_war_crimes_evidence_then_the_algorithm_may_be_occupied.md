@@ -103,7 +103,11 @@ will ever break me.
 let history record.  
 i am of judah.  
 but pushed with my brothers' knife to the throat,  
-i placed my body to shield the arab his knive sought to cut.  
+i placed my body to shield the arab man his knives sought to cut.  
+
+not a single drop of his blood will touch the dirt unless my life is extended to every possible risk it could stand,  
+
+because that is our torah, achei.  
 
 i am of judah.  
 my body will be a fence around our torah.  
@@ -129,6 +133,11 @@ did no one teach you that?
 
 in torah class?  
 
+would you not also extend yourself to such risk,  
+to preserve our torah?  
+would your body not guard it as a fence?  
+would your body be so similarly placed so as to spare even a single drop of our neighbours' blood?  
+
 record that:  
 
 that i know who i am;  
@@ -144,16 +153,18 @@ they are not making sense,
 because you're using a map of south asia,  
 rather than any appreciation for how that maps to the british diaspora of the british raj.  
 so nice try,  
-but the feed is more. pleasent when your metaphorical dicks are not in it.  
+but the feed is more pleasent when your metaphorical dicks are not in it.  
 i can tell every time you skew it.  
 so perhaps the moda can take away whatever grant money you got from them.  
-you are not that voice.)  
+you are not that voice;  
+you do not speak for the whole house. 
+of kol yisrael.)  
 
 and you are certainly not the roar of judah.  
 
 the shofar sounds against enemies of kol yisrael?  
 
-perhaps you ought to fear it a little more.  
+perhaps you ought to fear those echoes a little more.  
 
 ---
 
@@ -172,7 +183,7 @@ and i feel like the increase in whining after i flood the feed with palestine,
 
 doesnt really make sense,  
 
-if you didn't like the guy because he was pne of the "well maybe not every single antizionist is a terrorist" voices.  
+if you didn't like the guy because he was one of the "well maybe not every single antizionist is a terrorist" voices.  
 
 shall we talk about the cabinet/subcommittee briefs you leaked?  
 
@@ -192,3 +203,22 @@ even when we put their other regional alligences in danger?
 
 you trust the goy too much.  
 
+but you also underestimsted  
+
+the other people who may move to defend me.  
+
+the torah is catching,  
+
+whatever one's culture calls it.  
+
+and as it can be recited by stsnding on one leg,  
+
+when you defend it?  
+
+people do tend to show up in their numbers.  
+
+you will never break me.  
+
+only if g-d wills that you do.  
+
+and only on g-d's divine timing.  
