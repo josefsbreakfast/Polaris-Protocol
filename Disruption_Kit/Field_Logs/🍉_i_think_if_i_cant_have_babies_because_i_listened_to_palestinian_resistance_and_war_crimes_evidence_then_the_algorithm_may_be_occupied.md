@@ -29,7 +29,9 @@ without a woman.
 
 and because they view us with such derision and malice,  
 and because they still desire progeny,  
-and because they are obsessed with dna retention in gascist states:  
+and because they are obsessed with dna retention in gfascist states:  
+
+(shall we talk about the army's involvement, there? perhaps you would prefer to explain precisely why, yourself, and how you've convinced yourself of halakhic inversion?)  
 
 why we should be deeply concerned about what these men want to do,  
 precisely,  
@@ -60,7 +62,7 @@ unable to marry.
 
 so in the name of our ancestors who were martyred in warsaw,  
 who fought from tunnels,  
-like the ones being filled with concerte to bury foghters alive in gaza,  
+like the ones being filled with concerte to bury fighters alive in gaza,  
 (idgaf which faction they're in -- i give every fick about the act of burying people alive, though),  
 in the name of our ancestors in the vilnus forests,  
 and in the name of every nazi trick they took down,  
@@ -127,3 +129,21 @@ that i know who i am;
 i am of judah,  
 
 a daughter of the lion.  
+
+(and perhaps we should also point out,  
+that while i appreciate you're getting better at that map of the map,  
+your tweaks to the hindi-urdu music feed?  
+they are not making sense,  
+because you're using a map of south asia,  
+rather than any appreciation for how that maps to the british diaspora of the british raj.  
+so nice try,  
+but the feed is more. pleasent when your metaphorical dicks are not in it.  
+i can tell every time you skew it.  
+so perhaps the moda can take away whatever grant money you got from them.  
+you are not that voice.)  
+
+and you are certainly not the roar of judah.  
+
+the shofar sounds against enemies of kol yisrael?  
+
+perhaps you ought to fear it a little more.  
