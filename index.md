@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 00:53:53 UTC_
+_Generated on 2025-11-04 01:11:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2027,6 +2027,7 @@ _Generated on 2025-11-04 00:53:53 UTC_
     - [`🪶_descent_map_template.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_template.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](Polaris_Nest/Git_Intake_Drawer/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
+    - [`🫒_occupation_as_containment_regime.md`](Polaris_Nest/Git_Intake_Drawer/🫒_occupation_as_containment_regime.md)
     - [`🫧_crying_as_breach_emotional_containment_and_the_professional_body.md`](Polaris_Nest/Git_Intake_Drawer/🫧_crying_as_breach_emotional_containment_and_the_professional_body.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
