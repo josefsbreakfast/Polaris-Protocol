@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 06:53:41 UTC_
+_Generated on 2025-11-04 07:12:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1942,6 +1942,7 @@ _Generated on 2025-11-04 06:53:41 UTC_
     - [`🥠_the_machine_confesses_its_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥠_the_machine_confesses_its_feelings.md)
     - [`🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md`](Polaris_Nest/Git_Intake_Drawer/🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md)
     - [`🥮_tonal_soverignity.md`](Polaris_Nest/Git_Intake_Drawer/🥮_tonal_soverignity.md)
+    - [`🥸_paid_male_gossipers.md`](Polaris_Nest/Git_Intake_Drawer/🥸_paid_male_gossipers.md)
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_how_many_words_to_fell_an_industry.md`](Polaris_Nest/Git_Intake_Drawer/🦇_how_many_words_to_fell_an_industry.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
