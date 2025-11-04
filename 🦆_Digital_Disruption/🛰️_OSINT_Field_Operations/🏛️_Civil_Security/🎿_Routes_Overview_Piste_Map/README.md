@@ -33,7 +33,46 @@ Each route contains:
 - Practical tasks  
 - FOI templates (editable and reusable)  
 - Methods for data capture, verification, and publication  
-- Civic ethics guidance  
+- Civic ethics guidance
+
+---
+
+If you want a slightly more “mountain” layout (branching rather than a straight line), here’s an alternative:
+
+```mermaid
+flowchart TD
+
+    CS[🏛️ Civil Security<br/>Civic OSINT Cluster]
+
+    GR[🟢 Green Route<br/>Basic]
+    BR[🔵 Blue Route<br/>Intermediate]
+    RR[🔴 Red Route<br/>Advanced]
+    DR[⚫️💎 Black Diamond Route<br/>Expert]
+
+    CS --> GR
+    CS --> BR
+    CS --> RR
+    CS --> DR
+
+    GR --> BR
+    BR --> RR
+    RR --> DR
+
+    classDef green fill:#e0ffe0,stroke:#008000,stroke-width:1px,color:#000000;
+    classDef blue fill:#e0f0ff,stroke:#004c99,stroke-width:1px,color:#000000;
+    classDef red fill:#ffe0e0,stroke:#b00000,stroke-width:1px,color:#000000;
+    classDef diamond fill:#f3e8ff,stroke:#4b0082,stroke-width:1px,color:#000000;
+
+    class GR green;
+    class BR blue;
+    class RR red;
+    class DR diamond;
+
+    class GR green;
+    class BR blue;
+    class RR red;
+    class DR diamond;
+```
 
 ---
 
