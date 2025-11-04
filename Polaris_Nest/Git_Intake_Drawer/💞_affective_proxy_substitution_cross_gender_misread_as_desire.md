@@ -30,7 +30,7 @@ Thus an antagonistic emotional field is re-framed as romantic anticipation.
 The system’s inference engine does not track individual intent; it operates on correlation density.  
 If the emotional telemetry of frustrated men and contemplative women align temporally or semantically (same hashtags, soundtracks, or phrasing), the model treats them as *mutual participants in one story arc.*  
 → Their affective signals are projected across the gender divide as reciprocal desire.
-
+<!--Please note, "projected" and "reciprocal".-->
 ### 3. Narrative laundering  
 Once translated through the romance filter, the originating emotion is sanitised.  
 Aggression becomes “passion”; surveillance becomes “interest”; obsession becomes “devotion.”  
