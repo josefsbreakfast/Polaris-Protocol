@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-04 20:59:16 UTC_
+_Generated on 2025-11-04 21:22:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1913,6 +1913,7 @@ _Generated on 2025-11-04 20:59:16 UTC_
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
+    - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Polaris_Nest/Git_Intake_Drawer/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
     - [`🕊_repairing_the_human.md`](Polaris_Nest/Git_Intake_Drawer/🕊_repairing_the_human.md)
     - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
     - [`🕯_the_audit_log_does_not_sleep.md`](Polaris_Nest/Git_Intake_Drawer/🕯_the_audit_log_does_not_sleep.md)
