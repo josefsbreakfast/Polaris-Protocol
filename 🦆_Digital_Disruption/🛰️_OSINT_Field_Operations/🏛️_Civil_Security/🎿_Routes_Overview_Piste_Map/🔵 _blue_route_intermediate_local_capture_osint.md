@@ -1,6 +1,6 @@
 # 🔵 Blue Route — Intermediate Local-Capture OSINT  
 *Level 2: joining the dots.*
-
+<!--The way home during zero visibility.-->
 ---
 
 ## 🧭 Orientation  
