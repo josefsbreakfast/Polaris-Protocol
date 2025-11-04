@@ -104,7 +104,7 @@ Used with the OSINT checklist, power mapping turns conjecture into **cartography
 
 ---
 
-## 🧾 Closing Reflection  
+## 🧿 Closing Reflection  
 
 This inquiry does not seek new scapegoats; it seeks the wiring diagram.  
 
@@ -118,6 +118,19 @@ It is administrative, contemporary, and corrigible.
 
 Seeing that is the first step out of the caste of roles altogether.  
 
+> Why be Jewish, Christian, Muslim,
+> if you don't believe in oneness?
+> Adonai is not a realtor, nor a predatory lender,
+> Not a judge who can be bribed, nor a crooked criminal defender.
+> He is kindness and compassion, justice, mercy, fairness and togetherness.
+> (And of all praise, He is worthy.)
+> The creator and sustainer of the moon and stars above!  
+> La ilaha ilallah!  
+> Hallelujah!  
+> God is love.
+>
+> *- from God Is Love; Omar Offendum.*
+
 ---
 
 ## 🌌 Constellations  
@@ -127,6 +140,7 @@ Seeing that is the first step out of the caste of roles altogether.
 - God Is Love; Omar Offendum.  
 - The Ballad of How the Jews Got to Europe; Daniel Kahn & The Painted Bird.  
 - They Don’t Give A F**** About Us; 2Pac (z"L).  
+
 *To be continued...*  
 <!--Or spotify-linked.-->
 ---
