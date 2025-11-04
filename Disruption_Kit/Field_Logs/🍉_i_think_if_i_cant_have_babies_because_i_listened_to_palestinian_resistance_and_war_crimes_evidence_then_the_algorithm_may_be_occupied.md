@@ -235,4 +235,10 @@ you are such fools.
 
 which does not mean i am "mixed and unclear" in ideology, incidently;  
 
-what an admission that you cannot handle women smarter than you.-->
+what an admission that you cannot handle women smarter than you.  
+
+and if i was mossad?  
+
+i would quietly be making sure i never have to acknowledge i even know what a bargain bin even is.  
+
+whatever that would mean, practicably.-->
