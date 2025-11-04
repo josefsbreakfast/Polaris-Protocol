@@ -123,6 +123,12 @@ Seeing that is the first step out of the caste of roles altogether.
 ## 🌌 Constellations  
 💰 🫒 ✂️ 🧩 🧾 — fiscal-diagnostic register; tracing how containment is priced and renewed.  
 
+### 🎶 Playlist:  
+- God Is Love; Omar Offendum.  
+- The Ballad of How the Jews Got to Europe; Daniel Kahn & The Painted Bird.  
+- They Don’t Give A F**** About Us; 2Pac (z"L).  
+*To be continued...*  
+<!--Or spotify-linked.-->
 ---
 
 ## ✨ Stardust  
