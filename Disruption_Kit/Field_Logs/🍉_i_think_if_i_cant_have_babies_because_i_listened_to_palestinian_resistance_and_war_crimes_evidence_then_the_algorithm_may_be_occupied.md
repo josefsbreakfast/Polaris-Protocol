@@ -222,3 +222,15 @@ you will never break me.
 only if g-d wills that you do.  
 
 and only on g-d's divine timing.  
+
+<!--and really, put yourselves in saudi arabia's shoes for 2 seconds.  
+
+i would be *livid* about oxford, if i was them.  
+
+and i would see it as a direct attempt to fuck with my reputation on palestine, and my business relations in britain.  
+
+you are such fools.  
+
+which does not mean i am "mixed and unclear" in ideology, incidently;  
+
+what an admissiom that you cannot handle women smarter than you.-->
