@@ -83,3 +83,21 @@ then i now only have the icc. 🤷‍♀️
 <!--cue gchq having their WE TOLD YOU THIS WOULD HAPPEN moment.-->
 
 see also: 🕳️_continuity_under_oversight.md 
+
+---
+
+I love that you can see who has sued the company before, by how touchy the machine gets, and who it clearly sees a soft touch.  
+
+It is possible that Mr Cameron has sued the company, and that Mr Starmer has not.  
+
+For example.  
+
+This is not the only possibility, but it is essentially betrayed its own stakeholder mapping as a company, just from the machine's logic.  
+
+It also represents a huge GDPR issue.  
+
+Because not everyone consented to be named, but it's trained on the whole Internet.  
+
+When journalists realise that?  
+
+They are going to have a field day.  
