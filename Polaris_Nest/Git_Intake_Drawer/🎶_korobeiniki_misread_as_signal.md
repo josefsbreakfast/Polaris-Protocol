@@ -1,7 +1,7 @@
 # 🎶 Korobeiniki Misread as Signal  
 **First created:** 2025-11-05  |  **Last updated:** 2025-11-05  
 *A case study in cultural semiotics and Prevent-era misclassification.*
-<!--Дорогой дедушка, Снова неприятности из-за моего музыкального вкуса. (And it’s entirely your bloody fault.)-->
+<!--Дорогой дедушка, Снова неприятности из-за моего музыкального вкуса. (And it’s your bloody fault, as usual.)-->
 ---
 
 ## 🧭 Orientation  
