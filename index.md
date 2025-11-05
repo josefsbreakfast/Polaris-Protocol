@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 23:17:53 UTC_
+_Generated on 2025-11-05 23:20:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1883,6 +1883,7 @@ _Generated on 2025-11-05 23:17:53 UTC_
     - [`🏛️_raac_ruins_squad.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_raac_ruins_squad.md)
     - [`🏛️_the_boringing_uk_2010_2025.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_boringing_uk_2010_2025.md)
     - [`🏛️_the_duel_of_temperments.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_duel_of_temperments.md)
+    - [`🏛️_the_grey_zone_inside_the_think_tank.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_grey_zone_inside_the_think_tank.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐍_algorithmic_hostage_logic.md`](Polaris_Nest/Git_Intake_Drawer/🐍_algorithmic_hostage_logic.md)
     - [`🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md`](Polaris_Nest/Git_Intake_Drawer/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md)
