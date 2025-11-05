@@ -4,6 +4,16 @@
 
 ---
 
+*This was a technically difficult node to generate, so allow me to clarify the following:*
+
+- I challenge the Prevent on PSED as a Jewish woman, as it appears to penslise minority religions directly, and exposes women to state-enabled male violence.
+- I am extremely concerned by parallels between the outputs and the recursive logic, which recreates the risks inherent to the violence which defined genocides, such as but not limited to the Holocaust.
+- I have selected the Shoah specifically because this was defined around Volk vs non-Volk profiling; the groups targeted were targeted on the basis of comparison to the Volk archetype.
+- The failure of Prevent to prevent the radicalised violence to marginalised communities in 2024, as coded as retribution for the extemely sad murder of several childrem, which was also a direct failure of Prevent, should be evidence enough of the historical parallels to Drayfus' persecution and the rise in pogroms across Europe.  
+<!--If you want me to stop writing things like this, stop sending me Jungian psychology vids. 🙄-->
+
+---
+
 ## 🧭 Orientation  
 This node documents how the **Prevent duty**, built on risk-management logic, can clash with religious or ethical systems that forbid participation in harm or exploitation.  
 It considers Jewish *halakhic* reasoning in dialogue with Islamic *sharīʿa* ethics and examines the resulting equality and human-rights implications for public authorities.
