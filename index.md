@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 17:50:23 UTC_
+_Generated on 2025-11-05 17:54:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1897,6 +1897,7 @@ _Generated on 2025-11-05 17:50:23 UTC_
     - [`💸_opacity_architecture_ai_defence_foreign_alignment.md`](Polaris_Nest/Git_Intake_Drawer/💸_opacity_architecture_ai_defence_foreign_alignment.md)
     - [`💻_algorithmic_hysteria.md`](Polaris_Nest/Git_Intake_Drawer/💻_algorithmic_hysteria.md)
     - [`📈_escalation_drift_in_complex_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📈_escalation_drift_in_complex_datasets.md)
+    - [`📈_stakeholder_mapping_from_symptoms.md`](Polaris_Nest/Git_Intake_Drawer/📈_stakeholder_mapping_from_symptoms.md)
     - [`📈_the_ratio_that_shouldnt_exist.md`](Polaris_Nest/Git_Intake_Drawer/📈_the_ratio_that_shouldnt_exist.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
