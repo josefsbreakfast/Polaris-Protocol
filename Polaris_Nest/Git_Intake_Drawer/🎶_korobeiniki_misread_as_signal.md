@@ -101,12 +101,13 @@ The final caption *“Oh, those Russians”* and the weeping moon complete the s
 
 ### 👑 1h. Putin as Neo-Tsar — The Meme as Political Diagnosis  
 The meme frames Putin as modern Tsar, self-mythologising through spectacle.  
+
 Reports of his “Tsarina” crown gift to a mistress literalise dynastic theatre.  
 
 > He plays Rasputin to his own regime.
 > 
 > Meanwhile the people revive «Долой полицаев!» (*Down with the police!*) — Russia’s democratic memory reborn.
-
+<!--It is as if Viktor Petrov was parodying someone. 🤔-->
 ---
 
 ### 🐎 1i. The Shirtless Sovereign — Cult of Personality as Propaganda  
