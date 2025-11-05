@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 17:48:12 UTC_
+_Generated on 2025-11-05 17:50:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1867,6 +1867,7 @@ _Generated on 2025-11-05 17:48:12 UTC_
     - [`🏚️_economics_of_apartheid_and_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_economics_of_apartheid_and_fascism.md)
     - [`🏛️_50_shades_of_avoiding_damages.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_50_shades_of_avoiding_damages.md)
     - [`🏛️_another_commission_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_another_commission_as_containment.md)
+    - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🏛️_parliamentary_safeguards.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_parliamentary_safeguards.md)
     - [`🏛️_raac_ruins_squad.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_raac_ruins_squad.md)
     - [`🏛️_the_boringing_uk_2010_2025.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_boringing_uk_2010_2025.md)
