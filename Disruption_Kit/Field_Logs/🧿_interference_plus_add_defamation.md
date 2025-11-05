@@ -34,4 +34,8 @@ ah yes. exceptionally concerning, i am sure.
 
 (i take it the gchq link with the pater was a bit of a shock? why did you think i could speak some russian? and why did you use my mental health contacts to try to sus out my paternal line and when my different reletive had come into the country? did you realise jewish status was matrilineal? whichever companies and contractors have been utilised here have a lot to answer for. this was horrendously intrusive, and i am so much greater a force if the prevent brotish calues, regardless of where the "slavic gorls" decoder i was treated to for a few months; mapping my facial featires to my "racial origin". seriously. this is the shit i've had to put up with.)  
 
+i will break only on adonai's timing.  
+
+
+
 2025-11-05
