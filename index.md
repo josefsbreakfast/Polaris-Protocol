@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 21:43:33 UTC_
+_Generated on 2025-11-05 21:44:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1959,6 +1959,7 @@ _Generated on 2025-11-05 21:43:33 UTC_
     - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
+    - [`🕸️_containment_as_emergent_system_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_containment_as_emergent_system_behaviour.md)
     - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
     - [`🕸️_interlocking_influence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_interlocking_influence_economy.md)
     - [`🕸️_practical_irreversibility_when_feedback_becomes_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md)
