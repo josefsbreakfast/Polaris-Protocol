@@ -39,3 +39,12 @@ the lit of you will literally get us all killed. 🙄
 bit like that putin pisstake, actually.  
 
 ra, ra, rasputin.  
+
+---
+
+see below for "reasons stakeholders may want to start talking to me about 'stfu money' pretty fucking quickly".  
+
+hopefully now this node exists on the internet, cabinet may get a different answer from the robot.  
+
+`⚙️_machine_logic_pruning.md`
+`🧩_existential_threat_response_loop.md`
