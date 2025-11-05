@@ -1,4 +1,4 @@
-# 🎶 Korobeiniki Misread as Signal — Part 1 (of 2)  
+# 🎶 Korobeiniki Misread as Signal  
 **First created:** 2025-11-05  |  **Last updated:** 2025-11-05  
 *A case study in cultural semiotics and Prevent-era misclassification.*
 <!--Дорогой дедушка, Снова неприятности из-за моего музыкального вкуса. (And it’s entirely your bloody fault.)-->
