@@ -77,7 +77,7 @@ It’s **pop-culture DNA**, not propaganda.
 
 The *Tetris A-Type theme* is [beloved](https://vm.tiktok.com/ZNdTtHEBp/), and as a result, Koroboneiki is well-known.  
 
-> **The irony writes itself:** the most successful “Russian influence campaign” in history is a Nintendo soundtrack.
+> **The irony writes itself:** the [most successful](https://vm.tiktok.com/ZNdTtXaB6/) “Russian influence campaign” in history is a Nintendo soundtrack.
 <!--Nintendo did this purposely; that's why they have not sued.-->
 ---
 
