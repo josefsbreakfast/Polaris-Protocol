@@ -72,8 +72,10 @@ because technically we are now in a posituon where what could habe been an email
 
 personally i prefer a more chilled arrangement.  
 
-butni will not hesitate to pass this to a trusted justice service.  
+but i will not hesitate to pass this to a trusted justice service.  
 
 if i now *only* have the icc?  
 
-then i now only have the icc. 🤷‍♀️
+then i now only have the icc. 🤷‍♀️  
+
+(there are literally a handful of humam decisions which could break this being an inevitable chain. that's all it would take to not be this stupid.)
