@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 00:55:14 UTC_
+_Generated on 2025-11-05 00:55:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1903,6 +1903,7 @@ _Generated on 2025-11-05 00:55:14 UTC_
     - [`📚_suppressed_safe_collection.md`](Polaris_Nest/Git_Intake_Drawer/📚_suppressed_safe_collection.md)
     - [`📚_venus_in_furs_as_witchfinder_litmus_paper.md`](Polaris_Nest/Git_Intake_Drawer/📚_venus_in_furs_as_witchfinder_litmus_paper.md)
     - [`📛_pathway_fit_error.md`](Polaris_Nest/Git_Intake_Drawer/📛_pathway_fit_error.md)
+    - [`📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md)
     - [`📠_the_72_hour_comedy_of_compliance.md`](Polaris_Nest/Git_Intake_Drawer/📠_the_72_hour_comedy_of_compliance.md)
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
     - [`📥_entry_point_abuse_in_automated_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📥_entry_point_abuse_in_automated_datasets.md)
