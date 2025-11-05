@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 17:29:15 UTC_
+_Generated on 2025-11-05 17:48:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1977,6 +1977,7 @@ _Generated on 2025-11-05 17:29:15 UTC_
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_how_many_words_to_fell_an_industry.md`](Polaris_Nest/Git_Intake_Drawer/🦇_how_many_words_to_fell_an_industry.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
+    - [`🦠_algorithmic_autoimmunity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_algorithmic_autoimmunity.md)
     - [`🦠_statistical_nightmare.md`](Polaris_Nest/Git_Intake_Drawer/🦠_statistical_nightmare.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
