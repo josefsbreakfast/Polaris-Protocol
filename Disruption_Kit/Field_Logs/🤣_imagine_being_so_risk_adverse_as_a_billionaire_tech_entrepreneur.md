@@ -81,3 +81,5 @@ then i now only have the icc. 🤷‍♀️
 (there are literally a handful of humam decisions which could break this being an inevitable chain. that's all it would take to not be this stupid.)
 
 <!--cue gchq having their WE TOLD YOU THIS WOULD HAPPEN moment.-->
+
+see also: 🕳️_continuity_under_oversight.md 
