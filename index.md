@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 22:02:08 UTC_
+_Generated on 2025-11-05 22:05:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1976,6 +1976,7 @@ _Generated on 2025-11-05 22:02:08 UTC_
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
+    - [`🛠️_fixing_the_uk_algorithmic_safety_stack.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_fixing_the_uk_algorithmic_safety_stack.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
