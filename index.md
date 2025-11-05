@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 17:21:17 UTC_
+_Generated on 2025-11-05 17:26:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2031,6 +2031,7 @@ _Generated on 2025-11-05 17:21:17 UTC_
     - [`🧮_deepthought_datagov_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧮_deepthought_datagov_problem.md)
     - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
     - [`🧮_k_anonymity_data_integrity_and_reidentification_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧮_k_anonymity_data_integrity_and_reidentification_risk.md)
+    - [`🧮_optimisation_and_the_fascism_of_efficiency.md`](Polaris_Nest/Git_Intake_Drawer/🧮_optimisation_and_the_fascism_of_efficiency.md)
     - [`🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md`](Polaris_Nest/Git_Intake_Drawer/🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
