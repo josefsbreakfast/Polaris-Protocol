@@ -87,6 +87,30 @@ Appin? NSO?
 It doesn't matter who you are;  
 can you afford the services?  
 
+### 6.  Biographical Silence as Signal  
+
+In the Indian business ecosystem, complete biographical quiet is an anomaly.  
+Most founders are publicly anchored to region, caste, or school—markers that signal legitimacy.  
+The **Khare brothers’ absence from that register** functions less like omission and more like a deliberate security feature.
+
+Three readings coexist:  
+
+1. **Operational shielding.**   
+   Low family visibility limits exposure and reduces risk of retaliatory pressure on relatives during litigation or investigation.  
+
+2. **Reputation sanitisation.**  
+   By erasing lineage and locality, the founder profile becomes globally marketable: *neutral, technical, de-ethnicised*.  
+   It’s the same PR logic that sells surveillance as “innovation.”  
+
+3. **Contractual discretion.**  
+   State-linked contractors often self-censor personal identifiers to preserve plausible deniability.  
+   When biographical data vanishes while corporate footprints persist, it usually marks **proximity to sensitive state work**.
+
+The silence itself becomes evidence—  
+a contour of what can’t safely be named.  
+
+*"We will get the job done"*, sort of logic - we see this in several places, although it is rare enough that to manage the stakeholder who embodies this neutrality can feel a little odd in a wprld so frequently moved around its axis.  
+
 ---
 
 ## 🌌 Constellations  
