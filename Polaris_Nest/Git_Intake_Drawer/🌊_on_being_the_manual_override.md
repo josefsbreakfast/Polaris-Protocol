@@ -1,7 +1,7 @@
 # 🌊 On Being the Manual Override  
 **First created:** 2025-11-05 | **Last updated:** 2025-11-05  
 *The human who notices when the system starts looping.*
-
+<!--Personally I think "Manual Override" works nicely as a blog name, but I was into 90s indie bands, so..-->
 ---
 
 ## 🧭 Orientation  
