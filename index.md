@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 17:10:19 UTC_
+_Generated on 2025-11-05 17:10:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -918,7 +918,6 @@ _Generated on 2025-11-05 17:10:19 UTC_
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
-    - [`IMG_2620.png`](Disruption_Kit/Field_Logs/IMG_2620.png)
     - [`IMG_2625.png`](Disruption_Kit/Field_Logs/IMG_2625.png)
     - [`IMG_2745.png`](Disruption_Kit/Field_Logs/IMG_2745.png)
     - [`IMG_2746.png`](Disruption_Kit/Field_Logs/IMG_2746.png)
@@ -926,6 +925,7 @@ _Generated on 2025-11-05 17:10:19 UTC_
     - [`example_failed_file_copy_2025-08-20.png`](Disruption_Kit/Field_Logs/example_failed_file_copy_2025-08-20.png)
     - [`example_failed_upload_influence_map_local_redacted_2025-08-20.png`](Disruption_Kit/Field_Logs/example_failed_upload_influence_map_local_redacted_2025-08-20.png)
     - [`example_failed_upload_non_useable_2025-08-20.png`](Disruption_Kit/Field_Logs/example_failed_upload_non_useable_2025-08-20.png)
+    - [`get_out_of_my_azure_ad.png`](Disruption_Kit/Field_Logs/get_out_of_my_azure_ad.png)
     - [`hillside_brightness_histogram.png`](Disruption_Kit/Field_Logs/hillside_brightness_histogram.png)
     - [`hillside_patch_grid.png`](Disruption_Kit/Field_Logs/hillside_patch_grid.png)
     - [`it_was_too_funny_but_also_gtfo_my_azure_ad.png`](Disruption_Kit/Field_Logs/it_was_too_funny_but_also_gtfo_my_azure_ad.png)
