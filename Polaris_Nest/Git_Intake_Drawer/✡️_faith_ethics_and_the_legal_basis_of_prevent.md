@@ -9,8 +9,10 @@
 - I challenge the Prevent on PSED as a Jewish woman, as it appears to penslise minority religions directly, and exposes women to state-enabled male violence.
 - I am extremely concerned by parallels between the outputs and the recursive logic, which recreates the risks inherent to the violence which defined genocides, such as but not limited to the Holocaust.
 - I have selected the Shoah specifically because this was defined around Volk vs non-Volk profiling; the groups targeted were targeted on the basis of comparison to the Volk archetype.
-- The failure of Prevent to prevent the radicalised violence to marginalised communities in 2024, as coded as retribution for the extemely sad murder of several childrem, which was also a direct failure of Prevent, should be evidence enough of the historical parallels to Drayfus' persecution and the rise in pogroms across Europe.  
-<!--If you want me to stop writing things like this, stop sending me Jungian psychology vids. 🙄-->
+- The failure of Prevent to prevent the radicalised violence to marginalised communities in 2024, as coded as retribution for the extemely sad murder of several childrem, which was also a direct failure of Prevent, should be evidence enough of the historical parallels to Drayfus' persecution and the rise in pogroms across Europe.
+- None of this initially needs intent, but intent may then crystallise in failure to address the negetive outcomes: these are now many in number and character.  
+<!--If you want me to stop writing things like this, stop sending me Jungian psychology vids. 🙄  
+Please stop pretending to be surprosed by rising alt-right fascisms.-->
 
 ---
 
