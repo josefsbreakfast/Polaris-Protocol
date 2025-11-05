@@ -64,6 +64,29 @@ flowchart LR
 4. **Track legal filings** — injunction IDs, SLAPP patterns, PR-firm rotations.  
 5. **Watch administrative echoes** — travel bans, credential revocations coinciding with exposés.  
 
+### 5.  Political Economy — Mercenary Neutrality, Structural Capture  
+
+Appin’s founders, Rajat and Anuj Khare, do not appear to operate from ideological conviction.  
+Their posture is closer to **Black Cube** or **Kroll** than to a partisan security organ:  
+commercial, transactional, and opportunistic.  
+
+What looks like political loyalty is usually **contractual gravity** — state agencies are simply the most solvent and least risky customers.  
+Once a firm accepts that logic, the incentives begin to mirror authoritarian consolidation even if no ideology is professed.  
+
+> Neutrality becomes indistinguishable from complicity when the market for power is asymmetric.  
+
+In practice, the “mercenary neutrality” of these firms produces three convergences:  
+
+1. **Economic alignment:** governments are the only entities able to pay for continuity, secrecy, and indemnity.  
+2. **Regulatory shelter:** operations framed as “national security” enjoy protection from prosecution and disclosure.  
+3. **Feedback effect:** the existence of a purchasable suppression service normalises repression as a *commodity*, not a scandal.  
+
+This is capitalism’s quiet coup inside intelligence work: the state no longer monopolises coercion—it outsources it, invoices it, and calls it innovation.  
+
+Appin? NSO?  
+It doesn't matter who you are;  
+can you afford the services?  
+
 ---
 
 ## 🌌 Constellations  
