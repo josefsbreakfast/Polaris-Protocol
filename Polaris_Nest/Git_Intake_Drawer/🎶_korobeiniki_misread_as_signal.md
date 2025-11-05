@@ -87,7 +87,7 @@ The viral @slocband remix *RASPUTIN – Vladimir Putin – Love The Way You Move
 It’s **parody as diagnosis**: mockery of cultic ego and spectacle.  
 
 To play it is to laugh at authority, not to serve it.
-
+<!--We could talk about the geopolitical reality around the release date and the imagery of Putin's parodied ego-based escalation to self-annhilation which endangers us all, but I would hate to spoonfeed.-->
 ---
 
 ### 💃 1f. Rasputin, Putin and the End of the World in 4/4 Time  
