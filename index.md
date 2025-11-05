@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 00:52:38 UTC_
+_Generated on 2025-11-05 00:55:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1990,6 +1990,7 @@ _Generated on 2025-11-05 00:52:38 UTC_
     - [`🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md`](Polaris_Nest/Git_Intake_Drawer/🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md)
     - [`🧩_meta_containment_and_exploited_breakpoints.md`](Polaris_Nest/Git_Intake_Drawer/🧩_meta_containment_and_exploited_breakpoints.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
+    - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
     - [`🧩_the_data_empathy_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_data_empathy_gap.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
