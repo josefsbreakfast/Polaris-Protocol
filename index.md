@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 20:51:20 UTC_
+_Generated on 2025-11-05 20:58:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1857,6 +1857,7 @@ _Generated on 2025-11-05 20:51:20 UTC_
     - [`🌿_lawful_illegality_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🌿_lawful_illegality_of_care.md)
     - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
     - [`🌿_wild_type_encounters.md`](Polaris_Nest/Git_Intake_Drawer/🌿_wild_type_encounters.md)
+    - [`🍉_friction_erasure_and_the_machine_view_of_resistance.md`](Polaris_Nest/Git_Intake_Drawer/🍉_friction_erasure_and_the_machine_view_of_resistance.md)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_reputation_management_and_university_protest_response.md`](Polaris_Nest/Git_Intake_Drawer/🎓_reputation_management_and_university_protest_response.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
