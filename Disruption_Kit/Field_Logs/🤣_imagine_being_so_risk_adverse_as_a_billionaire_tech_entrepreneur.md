@@ -53,3 +53,9 @@ so who needs to talk?
 `⚙️_machine_logic_pruning.md`  
 
 `🧩_existential_threat_response_loop.md`
+
+---
+
+immediate feed algorithm change to project all men are avoidant.  
+
+i love how the machine just rats everyone out all g-ddamn day.  
