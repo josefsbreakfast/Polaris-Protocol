@@ -76,7 +76,7 @@ Calling it a “Russian influence signal” would imply every gamer since 1989 w
 It’s **pop-culture DNA**, not propaganda.  
 
 > **The irony writes itself:** the most successful “Russian influence campaign” in history is a Nintendo soundtrack.
-<!--Just don't tell Nintendo; they will find *someone* to sue.-->
+<!--Nintendo did this purposely; that's why they have not sued.-->
 ---
 
 ### 🎧 1e. The *Rasputin–Putin Funk Overload* Meme  
