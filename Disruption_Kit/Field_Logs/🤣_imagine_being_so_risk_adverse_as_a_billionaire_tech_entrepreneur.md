@@ -59,3 +59,21 @@ so who needs to talk?
 immediate feed algorithm change to project all men are avoidant.  
 
 i love how the machine just rats everyone out all g-ddamn day.  
+
+the longer you all sit on it, the worse the tort looks when it finally gets brought to bear fruit.  
+
+if you keep aplowing the machines to get in the way, the damages stack and that's reasonably obstruction.  
+
+so honestly the best anyone can do is to reach out via pre-established cabinet office links.  
+
+unless yall want to go to the icc.  
+
+because technically we are now in a posituon where what could habe been an email got so obstructed systematically that it is potentially the only avenue for recourse.  
+
+personally i prefer a more chilled arrangement.  
+
+butni will not hesitate to pass this to a trusted justice service.  
+
+if i now *only* have the icc?  
+
+then i now only have the icc. 🤷‍♀️
