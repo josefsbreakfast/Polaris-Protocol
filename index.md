@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 17:26:04 UTC_
+_Generated on 2025-11-05 17:29:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1909,6 +1909,7 @@ _Generated on 2025-11-05 17:26:04 UTC_
     - [`📚_banned_books_and_the_timing_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📚_banned_books_and_the_timing_of_truth.md)
     - [`📚_fictional_subject_construction.md`](Polaris_Nest/Git_Intake_Drawer/📚_fictional_subject_construction.md)
     - [`📚_library_as_algorithmic_interface.md`](Polaris_Nest/Git_Intake_Drawer/📚_library_as_algorithmic_interface.md)
+    - [`📚_meta_silence_and_the_optimization_of_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/📚_meta_silence_and_the_optimization_of_ignorance.md)
     - [`📚_suppressed_safe_collection.md`](Polaris_Nest/Git_Intake_Drawer/📚_suppressed_safe_collection.md)
     - [`📚_venus_in_furs_as_witchfinder_litmus_paper.md`](Polaris_Nest/Git_Intake_Drawer/📚_venus_in_furs_as_witchfinder_litmus_paper.md)
     - [`📛_pathway_fit_error.md`](Polaris_Nest/Git_Intake_Drawer/📛_pathway_fit_error.md)
