@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 17:01:34 UTC_
+_Generated on 2025-11-05 17:03:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -923,7 +923,6 @@ _Generated on 2025-11-05 17:01:34 UTC_
     - [`IMG_2745.png`](Disruption_Kit/Field_Logs/IMG_2745.png)
     - [`IMG_2746.png`](Disruption_Kit/Field_Logs/IMG_2746.png)
     - [`IMG_2835.png`](Disruption_Kit/Field_Logs/IMG_2835.png)
-    - [`IMG_2874.png`](Disruption_Kit/Field_Logs/IMG_2874.png)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
     - [`example_failed_file_copy_2025-08-20.png`](Disruption_Kit/Field_Logs/example_failed_file_copy_2025-08-20.png)
     - [`example_failed_upload_influence_map_local_redacted_2025-08-20.png`](Disruption_Kit/Field_Logs/example_failed_upload_influence_map_local_redacted_2025-08-20.png)
@@ -1056,6 +1055,7 @@ _Generated on 2025-11-05 17:01:34 UTC_
     - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
     - [`😴_sleeps_and_occam.md`](Disruption_Kit/Field_Logs/😴_sleeps_and_occam.md)
     - [`🙀_oh_my_word_she_mentioned_anarchism.md`](Disruption_Kit/Field_Logs/🙀_oh_my_word_she_mentioned_anarchism.md)
+    - [`🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png`](Disruption_Kit/Field_Logs/🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png)
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Disruption_Kit/Field_Logs/🙄_making_men_cry_was_literally_my_job_bro.PNG)
     - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Disruption_Kit/Field_Logs/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
     - [`🚀_alreet_lads.md`](Disruption_Kit/Field_Logs/🚀_alreet_lads.md)
