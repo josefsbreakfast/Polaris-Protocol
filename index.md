@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-05 21:44:11 UTC_
+_Generated on 2025-11-05 21:44:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1850,6 +1850,7 @@ _Generated on 2025-11-05 21:44:11 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌀_recursive_risk_logic_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🌀_recursive_risk_logic_in_private_intelligence.md)
     - [`🌅_rise_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌅_rise_of_institutional_integrity.md)
+    - [`🌊_on_being_the_manual_override.md`](Polaris_Nest/Git_Intake_Drawer/🌊_on_being_the_manual_override.md)
     - [`🌪️_field_reconditioning.md`](Polaris_Nest/Git_Intake_Drawer/🌪️_field_reconditioning.md)
     - [`🌫️_uncertainty_branch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_uncertainty_branch_logic.md)
     - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
