@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 21:20:22 UTC_
+_Generated on 2025-11-06 22:18:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2299,6 +2299,7 @@ _Generated on 2025-11-06 21:20:22 UTC_
     - [`🏮_where_to_go.md`](Polaris_Nest/🏮_Admin_Kit/🏮_where_to_go.md)
     - [`🐝_template_node.md`](Polaris_Nest/🏮_Admin_Kit/🐝_template_node.md)
     - [`🐾_footer_seals.md`](Polaris_Nest/🏮_Admin_Kit/🐾_footer_seals.md)
+    - [`💜_search_field_manual_for_self_training.md`](Polaris_Nest/🏮_Admin_Kit/💜_search_field_manual_for_self_training.md)
     - [`🔥_NOTICE.md`](Polaris_Nest/🏮_Admin_Kit/🔥_NOTICE.md)
     - [`🔮_house_style.md`](Polaris_Nest/🏮_Admin_Kit/🔮_house_style.md)
     - [`🧧_GIT_INTAKE_README.md`](Polaris_Nest/🏮_Admin_Kit/🧧_GIT_INTAKE_README.md)
