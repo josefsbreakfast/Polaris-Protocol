@@ -1,16 +1,23 @@
 # 🫧 Crying as Breach — Emotional Containment and the Professional Body  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
 *When tears become a compliance violation.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Defines a hybrid inhibition pattern formed at the intersection of **personal trauma conditioning** and **professional emotional discipline**.  
-Explores how long-term containment cultures — clinical, bureaucratic, algorithmic — produce a form of *anti-embodiment*, where even private emotional expression is treated as unsafe or unprofessional.
+Explores how long-term containment cultures — clinical, bureaucratic, algorithmic — produce a form of *anti-embodiment*, where even private emotional expression is treated as unsafe or unprofessional.  
 
 ---
 
-## 💧 Key Sections  
+## ✨ Key Features  
+- Maps how trauma conditioning merges with professional emotional discipline to form *hybrid inhibition*.  
+- Defines *anti-embodiment* as a systemic outcome of surveillance-conditioned composure.  
+- Identifies recovery pathways for restoring *permission to feel* as a biological function.  
+
+---
+
+## 💧 Containment and Embodiment
 
 ### 1. The Hybrid Inhibition  
 Two conditioning streams converge:  
@@ -84,11 +91,12 @@ crying, emotional inhibition, anti-embodiment, containment culture, affective la
 It documents the hybrid emotional suppression that arises when trauma conditioning meets professional composure mandates, generating an internalised prohibition on ordinary human expression.  
 The node extends the **Meta-Trauma Layer** framework within *Therapeutic Resistance as Acquired Immunity*, tracing how containment translates into physical and evolutionary residue.
 
-> 📡 Cross-references:  
-> - [🧬 Therapeutic Resistance as Acquired Immunity](/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_therapeutic_resistance_as_acquired_immunity.md) — meta-trauma and civic immunology  
-> - [🐝 Body Politic](/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md) — collective emotional infrastructure  
-> - [⚙️ Galactic Map of Archives](/Big_Picture_Protocols/🌀_System_Governance/⚙️_galactic_map_of_archives.md) — scale and visibility of systemic containment  
+> 📡 Cross-references:
+> 
+> - [🧬 Therapeutic Resistance as Acquired Immunity] - *TBC* — meta-trauma and civic immunology  
+> - [🐝 Body Politic] - *TBC* - collective emotional infrastructure  
+> - [⚙️ Galactic Map of Archives] - *TBC* — scale and visibility of systemic containment  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-06_
