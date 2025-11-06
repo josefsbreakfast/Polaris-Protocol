@@ -1,10 +1,10 @@
 # 🪅 Platform Safe Zones & Shadowbans  
-**First created:** 2025-10-16 | **Last updated:** 2025-10-16  
+**First created:** 2025-10-16 | **Last updated:** 2025-11-06  
 *How the “Suppressed Safe” logic reappears inside digital moderation and trust & safety architecture.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Modern platforms have re-invented the *Suppressed Safe* under new names: **shadowban**, **restricted mode**, **content moderation queue**, **trust & safety hold**.  
 The pattern is identical — information technically exists, yet cannot circulate.  
@@ -14,7 +14,7 @@ This node maps how 20th-century archival censorship mutates into 21st-century al
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Visibility throttling:** posts remain online but become socially invisible.  
 - **Safety rhetoric:** moral and reputational risk recoded as “user protection.”  
@@ -24,7 +24,7 @@ This node maps how 20th-century archival censorship mutates into 21st-century al
 
 ---
 
-## 🔍 Analysis  
+## 🧿 Analysis  
 
 The logic of the *Suppressed Safe* persists because it is efficient:  
 containment without confrontation.  
@@ -34,7 +34,7 @@ Instead of public bans (which invite protest), shadowbans **dilute visibility** 
 Advertiser comfort functions as the new moral code; “community guidelines” are its scripture.  
 The mechanisms vary — *downranking*, *limited distribution*, *NSFW tagging*, *brand-safety exclusion lists* — but the intent echoes the old archive: keep the body, hide the meaning.
 
-### 🧠 Continuity Map  
+## 🧠 Continuity Map  
 
 | Historical Form | Modern Successor | Institutional Rationale |
 |------------------|------------------|--------------------------|
@@ -48,7 +48,7 @@ Each form recodes moral, reputational, or technical embarrassment as *policy hyg
 
 ---
 
-### ⚙️ Survivor Voice Lens  
+## 🐦‍🔥 Survivor Voice Lens  
 
 For survivors, shadowbanning represents the same archival erasure in digital form: testimony indexed but unreachable, “flagged for review” without resolution.  
 The algorithm becomes the new keeper of printed books — polite, opaque, and unaccountable.  
@@ -71,14 +71,14 @@ shadowban, platform safety, visibility throttling, metadata suppression, digital
 
 ## 🏮 Footer  
 
-*Platform Safe Zones & Shadowbans* is a living node of the Polaris Protocol.  
+*🪅 Platform Safe Zones & Shadowbans* is a living node of the Polaris Protocol.  
 It documents how archival censorship mechanisms persist in digital infrastructure, rebranding moral panic as safety engineering.  
 
-> 📡 Cross-references:  
-> - [🧾 Suppressed Safe Collection](../👁️‍🗨️_Witness_Historical_Casefiles/🧾_suppressed_safe_collection.md) — historical precedent  
-> - [🔮 Visibility Indexing Anomalies](../Disruption_Kit/Big_Picture_Protocols/🔮_Visibility_Indexing_Anomalies/) — diagnostic mapping of throttling behaviours  
-> - [🎛️ Pocket Rules — Survivor Voice Fidelity](../Polaris_Nest/🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md) — tone and fidelity scaffolding  
+> 📡 Cross-references:
+> 
+> - [🧾 Suppressed Safe Collection]() — *historical precedent*  
+> - [🔮 Visibility Indexing Anomalies]() — *diagnostic mapping of throttling behaviours*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-11-06_
