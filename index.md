@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 10:11:07 UTC_
+_Generated on 2025-11-06 10:15:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -25,6 +25,7 @@ _Generated on 2025-11-06 10:11:07 UTC_
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
     - [`🌀_loop_interruption.md`](Disruption_Kit/AntiContainment_Clauses/🌀_loop_interruption.md)
+    - [`🌪️_field_reconditioning.md`](Disruption_Kit/AntiContainment_Clauses/🌪️_field_reconditioning.md)
     - [`🌺_soft_containment.md`](Disruption_Kit/AntiContainment_Clauses/🌺_soft_containment.md)
     - [`👻_ghost_fork_response_behaviour.md`](Disruption_Kit/AntiContainment_Clauses/👻_ghost_fork_response_behaviour.md)
     - [`📉_no_invisible_interference_clause.md`](Disruption_Kit/AntiContainment_Clauses/📉_no_invisible_interference_clause.md)
@@ -1863,7 +1864,6 @@ _Generated on 2025-11-06 10:11:07 UTC_
     - [`🌅_rise_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌅_rise_of_institutional_integrity.md)
     - [`🌊_on_being_the_manual_override.md`](Polaris_Nest/Git_Intake_Drawer/🌊_on_being_the_manual_override.md)
     - [`🌌_am_i_still_too_pro_russia_to_be_british.md`](Polaris_Nest/Git_Intake_Drawer/🌌_am_i_still_too_pro_russia_to_be_british.md)
-    - [`🌪️_field_reconditioning.md`](Polaris_Nest/Git_Intake_Drawer/🌪️_field_reconditioning.md)
     - [`🌫️_uncertainty_branch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_uncertainty_branch_logic.md)
     - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
     - [`🌾_possibly_poetry_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🌾_possibly_poetry_pipeline.md)
