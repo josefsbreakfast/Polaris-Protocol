@@ -1,15 +1,15 @@
 # 🪩 No Fap Fascism  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
-*No Fap Fascism: it’s fascism all the way down.*  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-06  
+*It’s all fascism; all the way down.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 A forensic-satirical genealogy of purity culture, tracing how moral control of the body became the algorithmic masculinity meme we now call *No Nut / No Fap November*.  
 
 ---
 
-## 🧮 Timeline of Purity and Power  
+## 🌩️ Timeline of Purity and Power  
 
 | Era | Movement / Figures | Notes |   
 |------|------------------|-------|  
@@ -24,7 +24,7 @@ A forensic-satirical genealogy of purity culture, tracing how moral control of t
 
 ---
 
-## 🧩 Analysis  
+## 🧿 Analysis  
 - **Debt → Sin → Discipline** — Moralise scarcity to justify control.  
 - **Vital Energy → Purity → Efficiency** — Fascist metaphysics reborn as productivity culture.  
 - **Algorithmic Aura** — Platform logic recodes post-orgasmic guilt as data-driven self-improvement.  
@@ -34,8 +34,8 @@ Short references: (Macfadden 1902), (Reich 1942), (Beecher 1846), (Jahn 1810s), 
 ---
 
 ## 🌌 Constellations / Things to Know Exist (Please Don’t Emulate)  
-Historical receipts for context — but please don’t start a cult tho.  
-
+Historical receipts for context — but please don’t start a cult or a supplement brand.  
+<!--Often indistinguishable in reality.-->
 - Friedrich Ludwig Jahn, *Deutsches Turnwesen* (1816) — nationalist gymnastics.  
 - Moritz Schreber, *Medical Education of Children* (1858) — discipline as health.  
 - Catharine E. Beecher, *Physiology and Calisthenics* (1856) — domestic moral exercise.  
@@ -51,9 +51,9 @@ purity culture, vitalism, fascism, masculinity, gym culture, Golden Dawn, Reich,
 ---
 
 ## 🏮 Footer  
-*No Fap Fascism* is a living node of the **#PolarisProtocol**.  
+*🪩 No Fap Fascism* is a living node of the **#PolarisProtocol**.  
 It maps how centuries of discipline ideology condensed into a viral challenge and why reclaiming bodily comfort and pleasure is an act of de-fascisation.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2025-11-06_
