@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 11:00:42 UTC_
+_Generated on 2025-11-06 11:25:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1947,6 +1947,7 @@ _Generated on 2025-11-06 11:00:42 UTC_
     - [`📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md)
     - [`📠_the_72_hour_comedy_of_compliance.md`](Polaris_Nest/Git_Intake_Drawer/📠_the_72_hour_comedy_of_compliance.md)
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
+    - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
     - [`📥_entry_point_abuse_in_automated_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📥_entry_point_abuse_in_automated_datasets.md)
     - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
     - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Polaris_Nest/Git_Intake_Drawer/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
