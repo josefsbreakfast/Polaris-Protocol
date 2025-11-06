@@ -62,13 +62,11 @@ reversal distortion, survivor voice, algorithmic adjacency drift, gendered narra
 
 ## 🏮 Footer  
 
-*🪞 Reversal Distortion — If I Can’t Have You* is a living node of the Polaris Protocol.  
+*🎶 Reversal Distortion — If I Can’t Have You* is a living node of the Polaris Protocol.  
 It documents a real-world instance of musical expression being misread through algorithmic and cultural containment lenses, serving as a template for identifying undertone inversion events.  
 
-> 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and undertone preservation  
-> - [protocol_integrity_sop.md](../protocol_integrity_sop.md) — integrity and misclassification handling  
+> 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-06_
