@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 03:34:57 UTC_
+_Generated on 2025-11-06 03:38:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2004,6 +2004,7 @@ _Generated on 2025-11-06 03:34:57 UTC_
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
+    - [`🛰️_moonshot_cve_vs_open_ai.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_moonshot_cve_vs_open_ai.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🜁_shared_air.md`](Polaris_Nest/Git_Intake_Drawer/🜁_shared_air.md)
