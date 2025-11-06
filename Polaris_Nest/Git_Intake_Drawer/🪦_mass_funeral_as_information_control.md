@@ -44,9 +44,10 @@ state funerals, information control, collective mourning, media ritual, propagan
 *🪦 Mass Funeral as Information Control* is a living node of the Polaris Protocol.  
 It documents how mourning functions as an information firewall and emotional containment system.  
 
-> 📡 Cross-references:  
-> - [✈️ Crash Logic — State Grief and Erasure](./✈️_crash_logic_state_grief_and_erasure.md) — preceding logic node  
-> - [🩸 Death as Diplomacy — From Smolensk to Tver](./🩸_death_as_diplomacy_from_smolensk_to_tver.md) — geopolitical extension  
+> 📡 Cross-references:
+> 
+> - [✈️ Crash Logic — State Grief and Erasure]() — *preceding logic node*  
+> - [🩸 Death as Diplomacy — From Smolensk to Tver]() — *geopolitical extension*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
