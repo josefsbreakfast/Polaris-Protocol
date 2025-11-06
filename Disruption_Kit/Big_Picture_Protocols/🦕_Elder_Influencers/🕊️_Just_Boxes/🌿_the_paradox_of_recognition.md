@@ -90,7 +90,7 @@ It records the recursive moment when critique becomes source code and open docum
 > 
 > – [🏛️ Parliamentary Safeguards — The Missing Curriculum for Power] - *TBC* - *when the people shaping the law don’t understand its human subjects*  
 > – [📊 Analytics as Signal] - *TBC* - *repo analytics as counter-surveillance evidence of uptake and visibility*  
-> – [🔴 System Threshold and False Pretext](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md) - *how surveillance and behavioural-containment systems fabricate pretexts once a metadata threshold is crossed*  
+> – [🔴 System Threshold and False Pretext](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md) - *how systems fabricate pretexts once a metadata threshold is crossed*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
