@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 10:07:10 UTC_
+_Generated on 2025-11-06 10:11:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -25,6 +25,7 @@ _Generated on 2025-11-06 10:07:10 UTC_
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/AntiContainment_Clauses/README.md)
     - [`🌀_loop_interruption.md`](Disruption_Kit/AntiContainment_Clauses/🌀_loop_interruption.md)
+    - [`🌺_soft_containment.md`](Disruption_Kit/AntiContainment_Clauses/🌺_soft_containment.md)
     - [`👻_ghost_fork_response_behaviour.md`](Disruption_Kit/AntiContainment_Clauses/👻_ghost_fork_response_behaviour.md)
     - [`📉_no_invisible_interference_clause.md`](Disruption_Kit/AntiContainment_Clauses/📉_no_invisible_interference_clause.md)
     - [`📿_survivor_syntax.md`](Disruption_Kit/AntiContainment_Clauses/📿_survivor_syntax.md)
@@ -1865,7 +1866,6 @@ _Generated on 2025-11-06 10:07:10 UTC_
     - [`🌪️_field_reconditioning.md`](Polaris_Nest/Git_Intake_Drawer/🌪️_field_reconditioning.md)
     - [`🌫️_uncertainty_branch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_uncertainty_branch_logic.md)
     - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
-    - [`🌺_soft_containment.md`](Polaris_Nest/Git_Intake_Drawer/🌺_soft_containment.md)
     - [`🌾_possibly_poetry_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🌾_possibly_poetry_pipeline.md)
     - [`🌿_lawful_illegality_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🌿_lawful_illegality_of_care.md)
     - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
