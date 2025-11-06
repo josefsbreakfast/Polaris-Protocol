@@ -4,14 +4,20 @@
 
 ---
 
-> **Ethical Preface**  
+> **Ethical Preface**
+> 
 > This node examines humiliation as a systemic technology of control.  
 > It condemns all forms of genocide, collective punishment, racism, antisemitism, Islamophobia, and sexual violence.  
 > The analysis that follows is forensic and historical, not accusatory toward any living group.
+> 
+> Note: The term *“Aryan”* appears in quotation marks throughout to mark its origin in **19th-century colonial pseudoscience**.  
+> It has **absolutely zero basis in genetics or anthropology**; its use here is solely to analyse how false racial constructs travelled from imperial linguistics into Nazi ideology.
+>
+> No pasarán.
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Humiliation is the most persistent ritual of power.  
 It appears wherever domination must be made visible — the public act that converts control into spectacle.  
@@ -384,10 +390,3 @@ It traces the choreography of humiliation from colonial empire to contemporary g
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-11-06_
-
----
-
-### Terminology Note  
-The term *“Aryan”* appears in quotation marks throughout to mark its origin in **19th-century colonial pseudoscience**.  
-It has **no basis in genetics or anthropology**; its use here is solely to analyse how false racial constructs travelled from imperial linguistics into Nazi ideology.
-<!--As a blonde-haired, blue-eyed Jewish woman, and all of the weird alt-right men that puts in my orbit? Absolutely the fuck not; it is never getting used on this repo. I will come back and haunt the damn thing if I have to. Hard nope.-->
