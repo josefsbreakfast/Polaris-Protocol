@@ -1,24 +1,24 @@
 # 🪡 Oversight Repair Kit — Re-stitching Accountability Chains  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-13  
+**First created:** 2025-10-13 | **Last updated:** 2025-11-06  
 *A reform blueprint proposing how fragmented UK oversight systems could be rewired to prevent silent escalation and hybrid-threat exploitation.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node completes the *Oversight-Collapse Cluster* by outlining practical methods to **re-stitch accountability chains** across welfare, research, security, and innovation frameworks.  
 It treats the preceding nodes (*Systemic Porosity*, *Article 8 & 9 Breach Pathways*, *Hybrid Threat Overlay*) as diagnostic; this file proposes structural repair.  
 All measures described are conceptual governance designs, not allegations of existing failure.
 
 ---
 
-## 🧱 1. Core Premise — Accountability as Infrastructure  
+## 🧱 Core Premise — Accountability as Infrastructure  
 Oversight is not a form to be filled; it is a **networked infrastructure** that must be as integrated as the data systems it supervises.  
 Current UK oversight bodies operate in silos—ICO, IPCO, NCSC, ethics committees, procurement boards.  
 Re-stitching means creating **shared lineage tracking**: every lawful exception, dataset, and algorithmic change should leave an auditable seam.
 
 ---
 
-## 🪜 2. Layered Repair Strategy  
+## 🪜 Layered Repair Strategy  
 
 | Layer | Existing Weakness | Repair Mechanism | Responsible Actors |
 |--------|------------------|------------------|--------------------|
@@ -30,7 +30,7 @@ Re-stitching means creating **shared lineage tracking**: every lawful exception,
 
 ---
 
-## 🧠 3. Core Oversight Principles  
+## 🧠 Core Oversight Principles  
 
 1. **Proportionality in motion:** every escalation requires new justification, not just initial approval.  
 2. **Visibility parity:** if a system can profile you automatically, you can query it automatically.  
@@ -40,7 +40,7 @@ Re-stitching means creating **shared lineage tracking**: every lawful exception,
 
 ---
 
-## 🧩 4. Integrating the “Silent Escalation” Defence  
+## 🧩 Integrating the “Silent Escalation” Defence  
 
 | Risk vector | Countermeasure |
 |--------------|----------------|
@@ -52,7 +52,7 @@ Re-stitching means creating **shared lineage tracking**: every lawful exception,
 
 ---
 
-## 🔐 5. External-Interference Shield  
+## 🔐 External-Interference Shield  
 
 - **Integrity-Monitoring Nodes** – NCSC-managed agents verifying hash signatures of domestic AI models.  
 - **Provenance-Anchored APIs** – mandatory metadata tags showing origin of algorithmic parameters.  
@@ -62,7 +62,7 @@ These measures turn *hybrid threats* into *traceable events*.
 
 ---
 
-## 🕊 6. Cultural Re-engineering  
+## 🕊 Cultural Re-engineering  
 Reform also requires soft infrastructure:
 
 - **Oversight literacy** for civil servants and contractors.  
@@ -85,15 +85,16 @@ oversight reform, accountability chains, data lineage, governance design, silent
 ---
 
 ## 🏮 Footer  
-*Oversight Repair Kit — Re-stitching Accountability Chains* is a living governance-design node of the **Polaris Protocol**.  
+*🪡 Oversight Repair Kit — Re-stitching Accountability Chains* is a living governance-design node of the **Polaris Protocol**.  
 It proposes mechanisms for reconnecting fragmented oversight bodies and embedding temporal accountability to prevent silent escalation, coercive drift, and hybrid exploitation.
 
-> 📡 Cross-references:  
-> - [🧱 Systemic Porosity](../🧱_systemic_porosity.md) — structural vulnerability map  
-> - [🛡 Article 8 & 9 Breach Pathways](../🛡_article_8_&_9_breach_pathways.md) — rights-compression analysis  
-> - [🧩 Hybrid Threat Overlay](../🧩_hybrid_threat_overlay.md) — external manipulation risk  
-> - [🧠 Multi-Lock Hypothetical](../🧠_multi_lock_hypothetical.md) — compound lawful layer model  
+> 📡 Cross-references:
+> 
+> - [🧱 Systemic Porosity]() — *structural vulnerability map*  
+> - [🛡 Article 8 & 9 Breach Pathways]() — *rights-compression analysis*  
+> - [🧩 Hybrid Threat Overlay]() — *external manipulation risk*  
+> - [🧠 Multi-Lock Hypothetical]() — *compound lawful layer model*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-11-06_
