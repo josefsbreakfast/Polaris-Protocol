@@ -1,5 +1,5 @@
-# 🪖 Moral Injury & Veterans — collateral shame in the counterinsurgency age
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
+# 🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age
+**First created:** 2025-10-25 | **Last updated:** 2025-11-06  
 *How modern warfare externalises responsibility and internalises trauma.*
 
 ---
@@ -10,11 +10,10 @@ When violence is dispersed through data, discretion, and doctrine, accountabilit
 landing not on the state but on the individual service member who must live with what they were ordered, authorised, or encouraged to do.
 
 This node focuses on **moral injury**: the enduring shame and betrayal that arise when actions in service violate one’s own moral code.  
-It pairs with [🤦‍♀️ Operation Shande](../🤦‍♀️_operation_shande.md) as an inward-facing chapter of the bureaucratic shame engine.
 
 ---
 
-## 🧭 Orientation
+## 🛰️ Orientation
 Moral injury differs from PTSD.  
 Where PTSD is fear-based, moral injury is guilt-based.  
 It is the corrosion of self-concept that occurs when duty and conscience diverge—  
@@ -22,7 +21,7 @@ and when institutions respond with silence, deflection, or PR rather than repair
 
 ---
 
-## 🧩 Mechanisms
+## ✨ Mechanisms
 - **Operational ambiguity:** lethal decisions made with incomplete intelligence shift moral weight onto individuals.  
 - **Siloed accountability:** investigations isolate “bad apples” rather than interrogate command design.  
 - **Affective laundering:** official narratives sanitise harm as “necessary,” leaving veterans to reconcile the residue alone.  
@@ -32,7 +31,7 @@ Each mechanism transfers systemic shame downward.
 
 ---
 
-## 🔎 Early indicators
+## 🐝 Early indicators
 - Growing self-reports of guilt or moral conflict in clinical and peer-support settings.  
 - Parallel whistleblower accounts using identical phrasing across units or services.  
 - Elevated rates of suicide, addiction, family collapse, and homelessness in recent combat cohorts.  
@@ -82,7 +81,7 @@ The act of witness becomes both therapy and reform: the archive itself is the co
 
 ---
 
-## 🧾 Template — veteran testimony entry
+## 🧾 Template — Veteran Testimony Entry
 `YYYY-MM-DD — Unit: [X]; Deployment: [Theatre]; Incident: [≤50 words]; Witnesses: [IDs]; Evidence path: [repo / location]; Disclosure: [confidential / public]; Support ref: [ID]`
 
 Maintain a CSV timeline with:  
@@ -90,7 +89,7 @@ Maintain a CSV timeline with:
 
 ---
 
-## 🧾 RISC mitigation snapshot
+## 🧾 RISC Mitigation Snapshot
 | Risk | Trigger | Immediate response | Structural fix |
 |---|---:|---|---|
 | Moral injury / suicidality | Ambiguous lethal decision | Rapid clinical + legal support; peer debrief | Independent inquiry + lifelong care funding |
@@ -115,9 +114,12 @@ is a living node of the **Polaris Protocol**.
 It documents how moral responsibility is fragmented by design,  
 and how survivors—military and civilian alike—can reassemble accountability through testimony, law, and care.
 
-> 📡 Cross-references:  
-> - [🤦‍♀️ Operation Shande — the bureaucratic shame engine](../🤦‍♀️_operation_shande.md)  
-> - [⚙️ Automated Escalation — Workflow Engines of Containment](../⚙️_automated_escalation.md)  
-> - [🧠 Misclassifying Intellectual Intimacy](../🧠_misclassifying_intellectual_intimacy.md)
+> 📡 Cross-references:
+> 
+> - [🤦‍♀️ Operation Shande — the bureaucratic shame engine]()  
+> - [⚙️ Automated Escalation — Workflow Engines of Containment]()  
+> - [🧠 Misclassifying Intellectual Intimacy]()
 
 *Repair begins when responsibility is shared, not shifted.*
+
+_Last update: 2025-11-06_
