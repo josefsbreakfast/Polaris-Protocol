@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 03:38:36 UTC_
+_Generated on 2025-11-06 03:42:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2093,6 +2093,7 @@ _Generated on 2025-11-06 03:38:36 UTC_
     - [`🧿_lomir_redn_aoys_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_lomir_redn_aoys_prevent.md)
     - [`🧿_oversight_paralysis_when_allies_breach_the_firewall.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis_when_allies_breach_the_firewall.md)
     - [`🧿_private_eye_bounces_back.md`](Polaris_Nest/Git_Intake_Drawer/🧿_private_eye_bounces_back.md)
+    - [`🧿_representation_logic_vs_platform_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/🧿_representation_logic_vs_platform_optimisation.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
