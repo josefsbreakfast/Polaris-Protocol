@@ -4,27 +4,27 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Authoritarian regimes choreograph grief as carefully as parades. A mass funeral condenses chaos into ritual order: the cameras roll, the anthem swells, and the narrative stabilises. Mourning becomes a **broadcast technology** — an emotional firewall that prevents questions from spreading faster than flowers can wilt.  
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Public sorrow as censorship.**  
 - **Ceremony as narrative containment.**  
 - **Replacement myth:** the dead become symbols of the system that killed them.  
 
 ---
 
-## 🔍 Analysis / Content  
+## 🌳 Analysis / Content  
 
-### 1. The Stage of Legitimacy  
+### 🏛️ The Stage of Legitimacy  
 After each crash—Alexandrov, Kursk, Wagner—the funeral operates as televised absolution. Officials stand where accountability should. The visual grammar (flag, hymn, wreath) replaces inquiry with reverence.  
 
-### 2. Ritual Latency  
+### 📿 Ritual Latency  
 Time slows between disaster and burial; this gap allows narrative editing. By the time the coffins appear, the story has already been rewritten.  
 
-### 3. Rehearsal for Resilience  
+### 🌱 Rehearsal for Resilience  
 Citizens learn from the spectacle how to feel correctly. To weep collectively is to prove membership; to ask why is to betray it.  
 
 ---
