@@ -1,10 +1,10 @@
 # 🪞 Ethical Censorship Continuum  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
+**First created:** 2025-11-01 | **Last updated:** 2025-11-06  
 *Mapping the moral terrain between concealment for protection and concealment for power.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Censorship is rarely absolute.  
 Most of the time, it lives on a continuum between care and control — from a single withheld sentence to entire histories excised for convenience.  
@@ -28,7 +28,7 @@ Each stance is defensible in context, catastrophic in excess.
 
 ---
 
-## 🧮 Diagram — The Continuum of Concealment  
+## 🕳️ Diagram — The Continuum of Concealment  
 
 ```mermaid
 flowchart LR
@@ -43,7 +43,7 @@ Censorship becomes unethical not at a single point, but when movement along the 
 
 ---
 
-## 🧩 Applied Ethics — When Concealment Serves Care  
+## 🔥 Applied Ethics — When Concealment Serves Care  
 
 | Scenario | Ethically Permissible If | Polaris Caution |
 |-----------|-------------------------|----------------|
@@ -54,7 +54,7 @@ Censorship becomes unethical not at a single point, but when movement along the 
 
 ---
 
-## 🧩 When Concealment Becomes Control  
+## 🪼 When Concealment Becomes Control  
 
 The threshold is crossed when concealment outlives the threat it was meant to neutralise.  
 At that point, secrecy stops being protection and becomes **curation of perception**.  
@@ -65,7 +65,7 @@ Once moral hygiene becomes brand management, truth is already rationed.
 
 ---
 
-## 🧭 Survivor Voice Fidelity — Restorative Disclosure  
+## 🐦‍🔥 Survivor Voice Fidelity — Restorative Disclosure  
 
 Polaris adds a post-crisis clause: every concealment must carry its own **declassification mechanism**.  
 If the justification was safety, transparency must follow when safety is restored.  
@@ -73,7 +73,7 @@ Every hidden truth deserves a re-entry plan — the ethical equivalent of repatr
 
 ---
 
-## 🧩 Diagram — The Ethics Loop  
+## 🫀 The Ethics Loop  
 
 ```mermaid
 flowchart TD
@@ -90,7 +90,7 @@ Without the audit stage, the loop collapses into authoritarian inertia.
 
 ---
 
-## 🧩 Reflection — The Emotional Logic of Withholding  
+## 🪬 Reflection — The Emotional Logic of Withholding  
 
 Every act of censorship is also an act of care in disguise.  
 Officials convince themselves they are sparing someone — the public, a victim, a reputation — from harm.  
@@ -113,9 +113,9 @@ ethical censorship, concealment continuum, survivor voice fidelity, hobbes kant 
 
 ## 🏮 Footer  
 
-*Ethical Censorship Continuum* defines the moral gradient between protective silence and authoritarian erasure.  
+*🪞 Ethical Censorship Continuum* defines the moral gradient between protective silence and authoritarian erasure.  
 It completes the suppression triad alongside *Authoritarian Century — Bridge of Register* and *Banned Books and the Timing of Truth*.  
 
 *Silence without expiry is not ethics; it’s inertia disguised as care.*
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-06_
