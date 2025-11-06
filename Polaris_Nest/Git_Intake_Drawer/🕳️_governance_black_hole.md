@@ -1,10 +1,10 @@
-# ⚫️ Governance Black Hole  
+# 🕳️ Governance Black Hole  
 **First created:** 2025-11-06 | **Last updated:** 2025-11-06  
 *How responsibility for civic surveillance slips between regulators until no one is actually in charge.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Once a charity or NGO starts doing practical surveillance work — protest monitoring, evidence gathering, quasi-policing — you would expect multiple oversight bodies to step in.  
 
@@ -102,7 +102,7 @@ The same structure that maximises short-term operational freedom maximises long-
 
 ---
 
-## 🔍 Diagnostic Summary  
+## 🧿 Diagnostic Summary  
 
 The governance black hole is not an accident; it is a **structural by-product** of:
 
