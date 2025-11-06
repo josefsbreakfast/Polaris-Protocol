@@ -1,30 +1,25 @@
 # 🪶 Descent Map — Academic Surveillance Drift
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
 *Tracing how an early academic programme of “monitoring internet usage” descended into policy, procurement, campus practice, and everyday surveillance narratives.*
 
 ---
 
-## 🧭 Orientation
-This node traces the *descent* of an academic idea (early-2010s research on digital traces and radicalisation risk) as it migrated from research outputs into policy vocab, procurement asks, vendor products, and campus operational practice. The focus is not origin-genealogy but the pathways and mechanisms of adoption, translation, and normalisation.
+## 🛰️ Orientation
+This node traces the *descent* of an academic idea (early-2010s research on digital traces and radicalisation risk) as it migrated from research outputs into policy vocab, procurement asks, vendor products, and campus operational practice. The focus is not origin-genealogy but the pathways and mechanisms of adoption, translation, and normalisation.  
 
-## 🪜 Descent pathway (high level)
+---
+
+## 🪜 Descent Pathway: Overview  
 1. **Emission (2010–2012)** — Academic research programmes and conference presentations (concept: digital trace signals → radicalisation risk).  
 2. **Policy docking (2012–2016)** — Think-tanks, Home Office science notes, and advisory groups reuse the research; framing shifts to “early-warning”/safeguarding.  
 3. **Middleware step (2015–2019)** — Security/edTech vendors productise trend analytics and keyword-flagging for campus Wi-Fi / proxy stacks.  
 4. **Soft mandates (2017–2022)** — Audits, KPI expectations, or funding/risk-management pressures make monitoring a de facto requirement.  
 5. **Practice drift (2020–2025)** — Trend dashboards, triage flows, and pre-referral habit formation normalise campus surveillance.  
-6. **Counter-mutations (ongoing)** — Civil-society pushback, academic critique, DPIAs, legal test cases, and student union resistance.
+6. **Counter-mutations (ongoing)** — Civil-society pushback, academic critique, DPIAs, legal test cases, and student union resistance.  
 
-## Evidence slots (fill when you have docs)
-- **Emission** — [Ref-E01] (paper/talk: title | author | year) — key claim & earliest citation trail.  
-- **Policy** — [Ref-P01] (policy note / think-tank memo / Home Office document) — quote showing rhetorical shift.  
-- **Vendor** — [Ref-V01] (vendor brochure / tender spec) — screenshots or procurement entries.  
-- **Procurement / FOI** — [Ref-FOI01] (contract, invoice, DPIA excerpt).  
-- **Operational** — [Ref-OP01] (IT policy doc, escalation flow, audit checklist fragment).
+---
 
-> Use the “Evidence slots” to populate the timeline and annotate each hop. Keep single-line provenance notes for each ref.
-
-## Mermaid timeline (embeddable)
+## 🐁🐁 Timelines of Monitoring Student Internet Trends  
 ```mermaid
 timeline
   title Descent of "Monitor Student Internet Trends" (UK HE) — skeleton
@@ -34,7 +29,7 @@ timeline
   2016-2019 : Vendors pitch trend analytics / pilot rollouts at universities [Ref-V01]
   2019-2021 : Audit / QA language begins request for "proportionate monitoring" [Ref-FOI01]
   2022-2025 : Normalisation: dashboards, triage, and reporting routines (ongoing debate) [Ref-OP01]
-## Mermaid Timeline
+```
 
 ```mermaid
 timeline
@@ -46,39 +41,48 @@ timeline
   2021 : "Audit checklists reference 'proportionate monitoring'; vendor keyword packs expand to 'online harms'"
   2023 : "Normalisation — dashboards embedded in safeguarding workflows; student self-censorship documented"
   2025 : "Critical scholarship reframes practice as surveillance creep; FOI investigations and NGO litigation ongoing"
-
-
 ```
 
 ---
 
-Analytic lenses / questions
-	•	Language laundering: which phrases enabled the shift from academic research to “duty of care”?
-	•	Incentive vectors: who benefits institutional-politically from adopting monitoring (insurers, auditors, reputational actors)?
-	•	Technical affordances: what logs/telemetry were needed to make this practical for a campus IT team?
-	•	Opacity points: where in the pipeline is auditability weakest (vendor code, data brokers, DPIAs)?
-	•	Social impact: how did normalisation change student conduct, self-censorship, and staff practice?
+## 🔮 Analytic Questions  
 
-Method notes (do not include operational detail)
-	•	Use FOI/SAR/DPIA & procurement searches to fill evidence slots.
-	•	Avoid publishing raw sensitive logs or operational vulnerabilities — annotate with redacted quotes and contract metadata only.
+- Language laundering: which phrases enabled the shift from academic research to “duty of care”?  
+- Incentive vectors: who benefits institutional-politically from adopting monitoring (insurers, auditors, reputational actors)?  
+- Technical affordances: what logs/telemetry were needed to make this practical for a campus IT team?  
+- Opacity points: where in the pipeline is auditability weakest (vendor code, data brokers, DPIAs)?  
+- Social impact: how did normalisation change student conduct, self-censorship, and staff practice?  
+
+---
+
+##  🦆🦆 Final Ducks To Get In A Row  
+- Use FOI/SAR/DPIA & procurement searches to fill evidence slots.  
+- Avoid publishing raw sensitive logs or operational vulnerabilities — annotate with redacted quotes and contract metadata only.  
+
+---
 
 🌌 Constellations
 
-🪄 🐍 🧿 — norms and governance; radicalisation policy; oversight.
+🪄 🐍 🧿 — norms and governance; radicalisation policy; oversight.  
+
+---
 
 ✨ Stardust
 
-academic surveillance, Prevent, trend monitoring, procurement, vendor middleware, DPIA, FOI, audit, student privacy, compliance drift
+academic surveillance, Prevent, trend monitoring, procurement, vendor middleware, DPIA, FOI, audit, student privacy, compliance drift  
+
+---
 
 🏮 Footer
 
-Descent Map — Academic Surveillance Drift is a living node of the Polaris Protocol.
+*🪶Descent Map — Academic Surveillance Drift* is a living node of the Polaris Protocol.
 It maps how an academic idea can be translated into institutional practice and normalised as a governance instrument.
 
-📡 Cross-references:
-	•	../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/ — compliance playbooks and audit pressures
-	•	../../Metadata_Sabotage_Network/🧬_Structural_Mapping/ — pipeline & evidence mapping templates
+> 📡 Cross-references:
+>
+> - [🎓 British University Compliance Service](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md) — *compliance playbooks and audit pressures*
+> - [🧬 Structural Mapping](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) — *pipeline & evidence mapping templates*
 
-Survivor authorship is sovereign. Containment is never neutral.
-Last updated: 2025-10-23
+Survivor authorship is sovereign. Containment is never neutral.  
+
+Last updated: 2025-11-06  
