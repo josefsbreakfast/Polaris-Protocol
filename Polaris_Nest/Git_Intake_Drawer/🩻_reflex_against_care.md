@@ -103,3 +103,20 @@ In organisational or therapeutic language, that’s a strength — *systemic emp
 
 ## ✨ Stardust  
 reflex-against-care, trauma-physiology, body-as-vessel, observation, embodiment, empathy-design, survivor-literacy, systemic-empathy
+
+
+## 🏮 Footer  
+
+*🩻 Reflex Against Care* is a living node of the Polaris Protocol.  
+It contributes to the archive by [describe purpose: analysis, tool, log, etc.].  
+
+> 📡 Cross-references:
+> 
+> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — practical countermeasures  
+> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: YYYY-MM-DD_
+
+---
