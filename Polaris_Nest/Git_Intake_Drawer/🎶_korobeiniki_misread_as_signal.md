@@ -186,18 +186,17 @@ Prevent mistakes **aesthetic globalism** for infiltration and **cultural curiosi
 
 ---
 
-> 🧄 **Cultural literacy note:**
-> 
-> Reading these musical or visual parodies as “signals of allegiance” is the analytical equivalent of watching Mel Brooks’s *Springtime for Hitler* and concluding it’s Nazi propaganda, or screening *Dr Strangelove* and calling it a pro-nuclear training film.
-> 
-> The humour, discomfort, and excess are the **point** — mechanisms for deflation and critique.
-> 
-> To miss that is to expose one’s own authoritarian imagination: the inability to tell the difference between ridicule and reverence.  
->  
-> By risk-flagging these artefacts, Prevent not only participates in **anti-democratic and anti-British** decision-making (contrary to its own principles) but also manages to **code the NATO side of the Cold War as adjacent to terrorist activity.**
-> 
-> A counter-terrorism apparatus that cannot tell its own propaganda from parody has become the punchline it was designed to prevent.
->
+## 🧄 Cultural literacy note:  
+Reading these musical or visual parodies as “signals of allegiance” is the analytical equivalent of watching Mel Brooks’s *Springtime for Hitler* and concluding it’s Nazi propaganda, or screening *Dr Strangelove* and calling it a pro-nuclear training film.  
+
+The humour, discomfort, and excess are the **point** — mechanisms for deflation and critique.  
+
+To miss that is to expose one’s own authoritarian imagination: the inability to tell the difference between ridicule and reverence.  
+
+By risk-flagging these artefacts, Prevent not only participates in **anti-democratic and anti-British** decision-making (contrary to its own principles) but also manages to **code the NATO side of the Cold War as adjacent to terrorist activity.**  
+
+A counter-terrorism apparatus that cannot tell its own propaganda from parody has become the punchline it was designed to prevent.  
+
 > Пожалуйста, перестань позорить нас, англичан.  
 <!--Did that flag, too?-->
 ---
