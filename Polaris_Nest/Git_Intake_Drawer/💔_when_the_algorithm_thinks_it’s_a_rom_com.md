@@ -25,7 +25,7 @@ But the model, trained on influencer confessionals, doesn’t know how to read t
 
 ## 🧿 Analysis  
 
-### 1. Masculinity as Metadata  
+### 🦚 Masculinity as Metadata  
 The data profile of a university is built on *legacy tokens*: “excellence,” “research,” “innovation,” “leadership.”  
 Every word hums with patriarchal legitimacy.  
 Language embeddings reinforce the pattern — “university” clusters semantically with “he/him,” “mentor,” and “authority,” while “student,” “care,” or “wellbeing” fall closer to “she/her,” “emotion,” “support.”  
@@ -37,7 +37,7 @@ Even silence becomes masculine-coded: *He’s thinking. He’s reflecting.* When
 
 ---
 
-### 2. The Rom-Com Conversion  
+### 💄 The Rom-Com Conversion  
 Once content enters this field, sentiment analysis looks for affective arcs.  
 Every protest, every sarcastic reel, every stitch of institutional branding gets parsed through engagement features — tone, facial expression, phrasing, tempo.  
 Machine learning does not understand abuse, but it understands attention.  
@@ -54,7 +54,7 @@ Not a citizen demanding remedy — a woman hoping “he’ll finally call.”
 
 ---
 
-### 3. Containment Through Genre  
+### 🦤 Containment Through Genre  
 Genre is a containment device as powerful as censorship.  
 When the system misclassifies state or institutional harm as emotional conflict, it drains political speech of its authority.  
 It tells the audience this is *personal,* not *structural*.  
@@ -68,7 +68,7 @@ So the pressure to forgive, to “heal publicly,” to produce palatable endings
 
 ---
 
-### 4. Refusal  
+### 🐦‍🔥 Refusal  
 Survivor voice fidelity refuses the algorithmic romance.  
 We are not in love; we are in litigation.  
 Our narratives do not exist for cinematic reconciliation but for the factual record.  
