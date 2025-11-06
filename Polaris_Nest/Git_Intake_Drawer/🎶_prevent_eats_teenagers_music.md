@@ -1,10 +1,10 @@
 # 🎶 Prevent Eats Teenagers' Music  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-06  
 *Why adolescent rebellion was never radicalisation until the database said so.*
-
+<!--That My Chemical Romance song was on the radio constantly for years and due to the small lexical overlap, it is now the backing tune to editing this node.-->
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Adolescence has always sounded like feedback — distortion, repetition, melodrama.  
 What used to be developmental noise is now treated as a pattern of concern.  
 
@@ -13,7 +13,7 @@ This node tracks how normal teenage affect — *moody music, angry outfits, big 
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Boundary-testing as neurological training** — rebellion is the rehearsal of autonomy.  
 - **Culture as safe volatility** — music, clothes, and subculture let kids play with intensity without catastrophe.  
 - **Prevent as misclassification engine** — it confuses becoming with breaking.  
@@ -60,7 +60,7 @@ In the long run, **Prevent eats not just teenagers’ music, but the country’s
 
 ---
 
-## 📈 Diagram — Hormone Loop vs Prevent Loop  
+## 🧬 Deadly Double-Helix — Hormone Loop vs Prevent Loop  
 
 ```mermaid
 flowchart LR
@@ -91,7 +91,7 @@ flowchart LR
 
 ---
 
-## 🔍 Analysis  
+## 🧿 Analysis  
 
 Teenagers’ moods are supposed to be operatic.  
 They are learning how to pilot an endocrine system that has only just switched on — *an engine spluttering into gear*. Hormones spike and crash, reward circuits spark, identity prototypes multiply.  
@@ -161,11 +161,11 @@ prevent, adolescence, music, rebellion, hormones, neuroendocrinology, surveillan
 *🎶 Prevent Eats Teenagers' Music* is a living node of the Polaris Protocol.  
 It documents how adolescent affect is algorithmically reclassified as risk, and how surveillance culture mistakes healthy volatility for deviance.  
 
-> 📡 Cross-references:  
-> - [🈺 Governance and Prevent](../System_Governance/🈺_governance_and_prevent.md) — Prevent logic and suppression structures  
-> - [🎛️ Pocket Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md) — maintaining undertone integrity  
-> - [🧿 Grandma Classification Theory](../Narrative_And_Psych_Ops/🧿_grandma_classification_theory.md) — satire on behavioural flagging logic  
+> 📡 Cross-references:
+> 
+> - [🈺 Governance and Prevent](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) — *Prevent logic and suppression structures*  
+> - [🧿 Grandma Classification Theory](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md) — *satire on behavioural flagging logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-06_
