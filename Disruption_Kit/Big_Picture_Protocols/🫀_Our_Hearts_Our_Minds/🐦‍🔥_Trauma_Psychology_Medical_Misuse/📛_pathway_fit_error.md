@@ -1,16 +1,23 @@
 # 📛 Pathway Fit Error — When Systems Mistake Unique Regulation Profiles for Established Diagnoses  
-**First created:** 2025-10-25  |  **Last updated:** 2025-10-25  
+**First created:** 2025-10-25  |  **Last updated:** 2025-11-06  
 *How service design flattens complex trauma presentations into pre-existing categories.*
 
 ---
 
-## 🌱 Orientation  
+## 🛰️ Orientation  
 Many health-care systems are **pathway-dependent**: clinical assessments are guided by the referral routes, billing codes, and service templates already in place.  
-When a person’s presentation doesn’t map neatly onto those boxes, the system creates a *translation*—not to clarify, but to process.
+When a person’s presentation doesn’t map neatly onto those boxes, the system creates a *translation*—not to clarify, but to process.  
 
 ---
 
-## 🧭 1 — Mechanism of Compression  
+## ✨ Key Features  
+- Exposes how clinical systems flatten unique trauma-based regulation into existing diagnostic codes.  
+- Provides survivor-authored sample language for medical reports to preserve nuance.  
+- Outlines reform tactics for trauma-informed service redesign and pathway flexibility.  
+
+---
+
+## 🌱 Mechanism of Compression  
 - **Administrative gravity:** clinicians must attach a recognised code to unlock care.  
 - **Template bias:** forms and screening tools privilege binary traits (high / low affect, social / asocial).  
 - **Result:** nuanced regulation styles—especially trauma-adapted or conceptual ones—are flattened into the nearest billable construct.  
@@ -20,14 +27,14 @@ When a person’s presentation doesn’t map neatly onto those boxes, the system
 
 ---
 
-## 💡 2 — Impact on Care  
+## 💡 Impact on Care  
 - Mis-specification leads to **inappropriate therapy models** (e.g., CBT vs DBT) and **lost trust** between clinician and client.  
 - Physical health is also reframed through the same lens (“psychogenic,” “stress-related”).  
 - The individual internalises contradiction—told simultaneously they are *too detached* and *too reactive*.
 
 ---
 
-## 🧩 3 — Sample Language for Reports / Letters  
+## 🧩 Sample Language for Reports / Letters  
 
 > “My presentation reflects complex trauma with a concept-first regulation style.  
 >  Emotional expression varies by state and context rather than indicating instability.  
@@ -35,7 +42,7 @@ When a person’s presentation doesn’t map neatly onto those boxes, the system
 
 ---
 
-## 🧠 4 — Clinical References and Frameworks That Fit  
+## 🧠 Clinical References and Frameworks That Fit  
 | Domain | Approach | Why It Helps |
 |---------|-----------|-------------|
 | Trauma & Somatic | **Sensorimotor Psychotherapy**, **Somatic Experiencing** | Works with autonomic regulation without collapsing cognition. |
@@ -45,14 +52,14 @@ When a person’s presentation doesn’t map neatly onto those boxes, the system
 
 ---
 
-## 🧱 5 — System Reform Notes  
+## 🧱 System Reform Notes  
 - Encourage local services to record *“presentation not otherwise specified — trauma-informed review pending.”*  
 - Use MDT meetings to advocate for **functional formulations** rather than categorical labels.  
 - In care coordination, request a **named clinician for continuity** to avoid repeated re-coding.
 
 ---
 
-## ✨ 6 — Reflection  
+## ✨ Reflection  
 When pathways demand conformity, difference looks like disorder.  
 The goal is not to invent new boxes, but to preserve fidelity to lived complexity—so the record tells the truth without distorting the person.
 
@@ -64,4 +71,23 @@ The goal is not to invent new boxes, but to preserve fidelity to lived complexit
 ---
 
 ## ✨ Stardust  
-pathway-dependency, diagnostic-compression, complex-trauma, system-reform, trauma-informed-practice, conceptual-regulation, advocacy-tools
+pathway-dependency, diagnostic-compression, complex-trauma, system-reform, trauma-informed-practice, conceptual-regulation, advocacy-tools  
+
+---
+
+## 🌌 Constellations  
+🧠 ⚕️ 🌿 📛 — survivor tools for clinical reform and diagnostic literacy.
+
+---
+
+## 🏮 Footer  
+
+*📛 Pathway Fit Error — When Systems Mistake Unique Regulation Profiles for Established Diagnoses* is a living node of the Polaris Protocol.  
+It documents how institutional templates and billing pathways distort trauma-based regulation profiles, and offers practical language for reclaiming diagnostic fidelity.  
+
+> 📡 Cross-references: *TBC*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-11-06_
+
