@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 19:38:33 UTC_
+_Generated on 2025-11-06 19:46:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2144,7 +2144,6 @@ _Generated on 2025-11-06 19:38:33 UTC_
     - [`🪩_algorithmic_female_dominance_aura.md`](Polaris_Nest/Git_Intake_Drawer/🪩_algorithmic_female_dominance_aura.md)
     - [`🪩_no_fap_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🪩_no_fap_fascism.md)
     - [`🪶_descent_map_academic_surveillance_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_academic_surveillance_drift.md)
-    - [`🪶_descent_map_template.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_template.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](Polaris_Nest/Git_Intake_Drawer/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
     - [`🫀_ai_black_box_inquests.md`](Polaris_Nest/Git_Intake_Drawer/🫀_ai_black_box_inquests.md)
