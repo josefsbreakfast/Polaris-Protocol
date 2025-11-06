@@ -1,4 +1,4 @@
-# 🕵️‍♂️ OSS 117 and the Operational Cost of Cultural Ignorance  
+# 🥸 OSS 117 and the Operational Cost of Cultural Ignorance  
 **First created:** 2025-11-06 | **Last updated:** 2025-11-06  
 *A parable of how incuriosity, arrogance, and automation corrode intelligence work.*
 
