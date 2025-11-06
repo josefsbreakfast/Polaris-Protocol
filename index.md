@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 11:53:05 UTC_
+_Generated on 2025-11-06 11:53:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1852,7 +1852,7 @@ _Generated on 2025-11-06 11:53:05 UTC_
     - [`⚖️_recourse_for_behavioural_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_recourse_for_behavioural_containment.md)
     - [`⚖️_retrospective_law_in_a_prospective_world.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_retrospective_law_in_a_prospective_world.md)
     - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
-    - [`⚖️_triangle_of_accountability_gaps_UPDATED.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_triangle_of_accountability_gaps_UPDATED.md)
+    - [`⚖️_triangle_of_accountability_gaps.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_triangle_of_accountability_gaps.md)
     - [`⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md)
     - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
     - [`⚙️_friction_minimisation_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_friction_minimisation_logic.md)
