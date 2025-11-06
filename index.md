@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 03:55:08 UTC_
+_Generated on 2025-11-06 09:57:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -725,6 +725,7 @@ _Generated on 2025-11-06 03:55:08 UTC_
         - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_tolerators_as_targets.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
+        - [`🫧_crying_as_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫧_crying_as_breach.md)
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md)
         - [`♿_containment_by_pity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_containment_by_pity.md)
@@ -2132,7 +2133,6 @@ _Generated on 2025-11-06 03:55:08 UTC_
     - [`🫒_occupation_as_containment_regime.md`](Polaris_Nest/Git_Intake_Drawer/🫒_occupation_as_containment_regime.md)
     - [`🫖_no_this_is_not_proper.md`](Polaris_Nest/Git_Intake_Drawer/🫖_no_this_is_not_proper.md)
     - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](Polaris_Nest/Git_Intake_Drawer/🫥_when_you_dont_want_to_be_seen_touching_it.md)
-    - [`🫧_crying_as_breach_emotional_containment_and_the_professional_body.md`](Polaris_Nest/Git_Intake_Drawer/🫧_crying_as_breach_emotional_containment_and_the_professional_body.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
