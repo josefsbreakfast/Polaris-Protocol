@@ -1,5 +1,5 @@
 # 🩻 Reflex Against Care — The Body as Vessel, Not Verdict  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
+**First created:** 2025-10-25 | **Last updated:** 2025-11-06  
 *When kindness collides with a nervous system trained to expect pain.*
 
 ---
@@ -9,7 +9,7 @@ This node explores how the human body can misread tenderness as threat — espec
 
 ---
 
-## 🧠 1. Reflex Against Care  
+## 🧠 Reflex Against Care  
 In trauma physiology, “care” can trip the same circuitry as danger.  
 The gesture that once preceded harm — a touch, a tone, an approach — now fires the body’s emergency lighting.  
 The result can look like rage, panic, or recoil, but it’s really *a reflexive defence against care itself.*  
@@ -20,7 +20,7 @@ It’s not cruelty. It’s an autonomic after-image of previous hurt.
 
 ---
 
-## 🌬️ 2. The Observer’s Shift  
+## 🌬️ The Observer’s Shift  
 Working around these storms changes perception.  
 You stop reading the body as a moral statement — “good,” “bad,” “grateful,” “ungrateful.”  
 You start reading it as a vessel conducting charge.  
@@ -34,7 +34,7 @@ It’s compassion that has moved upstream — from personality to system.
 
 ---
 
-## 🪞 3. The Body as Vessel  
+## 🏺 The Body as Vessel  
 For some of us, that perception never switches off.  
 We see the body as a medium — an interface through which ideas, trauma, and creativity translate into motion and expression.  
 Gender, desire, appearance: all become forms of choreography rather than declarations of essence.  
@@ -45,7 +45,7 @@ Physical boundaries register, but as logistical facts, not moral borders.
 
 ---
 
-## 💡 4. Implications  
+## 🕯️ Implications  
 - **For empathy:** Understanding that not every recoil is rejection; sometimes it’s memory firing through muscle.  
 - **For care work:** Approach as calibration, not correction — the body will learn safety through repetition, not reasoning.  
 - **For identity:** Seeing bodies as vessels frees people to imagine selfhood as process, not possession.  
@@ -60,7 +60,7 @@ That isn’t absence — it’s literacy.
 
 ---
 
-## 🧩 6. Cognitive-Scientific Companion — Perceptual Style and Somatic Cognition  
+## 🧠 Cognitive-Scientific Companion — Perceptual Style and Somatic Cognition  
 
 ### 6.1  Neural Framing  
 Research across affective neuroscience, trauma studies, and embodied cognition suggests that individuals vary in where they locate “sense of self.”  
