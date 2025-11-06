@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 01:12:00 UTC_
+_Generated on 2025-11-06 01:17:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1871,6 +1871,7 @@ _Generated on 2025-11-06 01:12:00 UTC_
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎙_the_silence_after_command.md`](Polaris_Nest/Git_Intake_Drawer/🎙_the_silence_after_command.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
+    - [`🎙️_the_state_that_cannot_sing.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_the_state_that_cannot_sing.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎪_when_the_armour_cracks.md`](Polaris_Nest/Git_Intake_Drawer/🎪_when_the_armour_cracks.md)
     - [`🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md)
