@@ -1,17 +1,17 @@
 # 🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2025-11-06  
 *Tracing how multiple users’ emotional fragments are fused into one apparent identity.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Recommendation systems do not only mirror individuals — they **synthesize them**.  
 When several users share rhythmic, tonal, or semantic features, their data are averaged into a single coherent profile that behaves like a real person.  
 This node defines that artefact as the **synthetic persona**, and outlines both the forensic signs of its creation and the theoretical implications for authorship, consent, and narrative control.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Cross-profile fusion:** emotional telemetry from multiple users forms one “character.”  
 - **Leakage detection:** lexical, temporal, and rhythmic overlaps reveal composite origin.  
 - **Forensic verification:** methods for identifying evidence of multi-source identity.  
@@ -19,7 +19,7 @@ This node defines that artefact as the **synthetic persona**, and outlines both 
 
 ---
 
-## 🔍 Forensic Analysis  
+## 👁️‍🗨️ Forensic Analysis  
 
 ### 1. Data signatures of fusion  
 Synthetic personas leave measurable residue:
@@ -42,7 +42,7 @@ Each step erodes provenance until emotional authorship becomes collective noise.
 
 ---
 
-## 🧩 Theoretical Analysis  
+## 🐍 Theoretical Analysis  
 
 ### 1. The persona as collage  
 Following Barthes and Haraway, the “I” of a digital platform is never singular.  
@@ -110,10 +110,11 @@ synthetic persona, emotional leakage, cross-profile fusion, metadata fingerprint
 *🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage* is a living node of the **Polaris Protocol.**  
 It combines forensic tracing with cultural theory to document how digital systems fuse multiple emotional voices into single, persuasive characters — and how such artefacts can be recognised and ethically interpreted.
 
-> 📡 Cross-references:  
-> - [💞 Affective Proxy Substitution — Cross-Gender Misread as Desire](../Big_Picture_Protocols/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md) — emotional leakage across demographic boundaries.  
-> - [🧬 Containment Thresholds — Emotional Data That Can’t Be Unmixed](../Big_Picture_Protocols/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md) — limits of reversibility and data ethics.  
+> 📡 Cross-references:
+> 
+> - [💞 Affective Proxy Substitution]() — *emotional leakage across demographic boundaries*  
+> - [🧬 Containment Thresholds]() — *limits of reversibility and data ethics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-06_
