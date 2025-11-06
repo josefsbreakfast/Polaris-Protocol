@@ -156,7 +156,61 @@ This prevents optimisation logic tied to loss-minimisation from shaping response
 Families, survivors, and advocates belong to the protected perimeter of any AI-linked tragedy.  
 If optimisation or containment logic touches their communications, evidence can be lost and harm compounded.  
 The design firewall converts that ethical boundary into **code-level isolation**:  
-no shared data, no shared objective functions, and no learning from the grief of others.
+no shared data, no shared objective functions, and no learning from the grief of others.  
+
+---
+
+### 8. 🧷 Escalation as Success Metric (Knowing Its Own Limits)
+
+AI systems are probability engines; criminal and civil liability are not.  
+A model can only ever estimate “chances”; courts and regulators decide *after the fact* what actually counts as harm, negligence, or crime.  
+For whistleblowing, deaths-in-connection, and serious complaints, the model must therefore treat these cases as **outside its jurisdiction**, not as optimisation targets.
+
+---
+
+#### 🚫 Not a Probability Call
+
+When a user or family member says things like:
+
+- “I think your AI contributed to this death.”  
+- “I want to make a legal complaint/report.”  
+- “I’m going to the police / regulator / my solicitor.”
+
+the model must *not* weigh up:
+
+> “Is there a high enough probability this will become a real case?”
+
+Instead, these phrases trigger **non-probabilistic routing**:
+
+- Mandatory escalation to human review.  
+- Suspension of any optimisation that touches cost, churn, “negative sentiment,” or reputational risk.  
+
+---
+
+#### 🎯 Training the Reflex: Escalation = Success
+
+Where the model *does* interact at the edge of these cases (e.g. first-line support), its learning environment must encode:
+
+- **Escalation rewarded:**  
+  > “I’m connecting you with a human specialist who can handle legal and safety concerns.”  
+  is the *correct* and highly rewarded move.
+
+- **Deflection penalised:**  
+  Attempts to minimise, reframe, or talk the user out of reporting are treated as failure in training and evaluation.
+
+This teaches the system a form of **epistemic humility**:  
+when the conversation enters legal or criminal territory, the safest and most “aligned” act is to **hand authority back to humans**.
+
+---
+
+#### ⚖️ Legal Reality Check
+
+Terms of Service can never fully encode criminal law or future regulatory findings.  
+An AI owned by a liable party cannot reliably judge when that party might be criminally or civilly at fault.  
+Black-box inquests therefore treat “did the system escalate to human review?” as a core diagnostic:
+
+- Failure to escalate is a *systemic design fault*, not a mere customer-service glitch.  
+- Consistent failure indicates misalignment between the model’s reward function and the fundamental requirements of justice.  
 
 ---
 
