@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 11:53:47 UTC_
+_Generated on 2025-11-06 11:55:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1981,7 +1981,6 @@ _Generated on 2025-11-06 11:53:47 UTC_
     - [`🕳️_the_shape_of_missing_historical_nodes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_shape_of_missing_historical_nodes.md)
     - [`🕳️_when_the_censor_is_a_contractor.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_when_the_censor_is_a_contractor.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
-    - [`🕵️‍♂️_OSS117_operational_cost_of_cultural_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/🕵️‍♂️_OSS117_operational_cost_of_cultural_ignorance.md)
     - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
@@ -2019,6 +2018,7 @@ _Generated on 2025-11-06 11:53:47 UTC_
     - [`🥠_the_machine_confesses_its_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥠_the_machine_confesses_its_feelings.md)
     - [`🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md`](Polaris_Nest/Git_Intake_Drawer/🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md)
     - [`🥮_tonal_soverignity.md`](Polaris_Nest/Git_Intake_Drawer/🥮_tonal_soverignity.md)
+    - [`🥸_OSS117_operational_cost_of_cultural_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/🥸_OSS117_operational_cost_of_cultural_ignorance.md)
     - [`🥸_paid_male_gossipers.md`](Polaris_Nest/Git_Intake_Drawer/🥸_paid_male_gossipers.md)
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_how_many_words_to_fell_an_industry.md`](Polaris_Nest/Git_Intake_Drawer/🦇_how_many_words_to_fell_an_industry.md)
