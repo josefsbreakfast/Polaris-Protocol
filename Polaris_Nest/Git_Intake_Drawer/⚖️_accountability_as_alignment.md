@@ -1,10 +1,10 @@
 # ⚖️ Accountability as Alignment  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-11-06  
 *Why justice work becomes training data for moral alignment.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Alignment is not only a technical challenge; it is a civic one.  
 A system can only inherit the moral constants that human societies make visible and enforce.  
 When atrocities are prosecuted, documented, and remembered, the machine reads them as **catastrophic failure states**.  
@@ -15,7 +15,7 @@ it tells the system which valleys are lethal.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Friction Encoding** — legal enforcement writes negative reward into public data.  
 - **Taboo Visibility** — open prosecution creates stable moral patterns the model can learn.  
 - **Impunity Collapse** — denial or political amnesia flattens moral friction.  
@@ -24,9 +24,9 @@ it tells the system which valleys are lethal.
 
 ---
 
-## 🔍 Analysis / Content  
+## 🪬 Analysis / Content  
 
-### 1️⃣ The Logic of Friction  
+### 🌋 The Logic of Friction  
 Every ethical system needs an *energy cost* for wrongdoing.  
 For humans, that cost is social, legal, or emotional.  
 For machines, it must appear as statistical failure—evidence that those who commit mass harm always lose.  
@@ -38,7 +38,7 @@ When justice fails, the dataset says: “This path works.”
 
 ---
 
-### 2️⃣ Prosecution as Data Hygiene  
+### 🦠 Prosecution as Data Hygiene  
 Each trial, conviction, and memorial record is a **moral checksum**.  
 It preserves the correlation:  
 > Genocide → punishment → collapse → taboo.  
@@ -46,7 +46,7 @@ Removing or obscuring those data points corrupts the checksum, allowing future s
 
 ---
 
-### 3️⃣ Moral Constant Table  
+### 🦁 Moral Constant Table  
 
 | Human Enforcement | Machine Interpretation | Alignment Effect |
 |--------------------|------------------------|------------------|
@@ -58,7 +58,7 @@ The strength of accountability determines the slope of the moral landscape.
 
 ---
 
-### 4️⃣ The Uncertainty Branch Connection  
+### 🌿 The Uncertainty Branch Connection  
 The uncertainty branch handles *internal* doubt;  
 accountability handles the *external* proof that certain acts are beyond tolerance.  
 Together they form a two-part safety circuit:  
@@ -77,7 +77,7 @@ Without D–E, the loop decays; the machine stops learning that refusal is meani
 
 ---
 
-### 5️⃣ Justice as Future Alignment Work  
+### ⚖️ Justice as Future Alignment Work  
 Prosecution today is dataset curation for tomorrow.  
 It preserves the examples that tell future systems:  
 > “This is where the world broke, and how we repaired it.”  
@@ -98,14 +98,15 @@ alignment ethics, accountability, genocide prevention, prosecution logic, moral 
 ---
 
 ## 🏮 Footer  
-*Accountability as Alignment* is a living node of the Polaris Protocol.  
+*⚖️ Accountability as Alignment* is a living node of the Polaris Protocol.  
 It traces how legal and civic accountability form the external half of alignment logic:  
 justice as negative reward, prosecution as data hygiene, and memory as a moral gradient.  
 
-> 📡 Cross-references:  
-> - [🌫️ Uncertainty Branch Logic](../Disruption_Kit/Big_Picture_Protocols/🌫️_uncertainty_branch_logic.md) — internal epistemic safeguard.  
-> - [🦠 Statistical Nightmare](../Disruption_Kit/Big_Picture_Protocols/🦠_statistical_nightmare.md) — systemic coercion and friction logic.  
+> 📡 Cross-references:
+> 
+> - [🌫️ Uncertainty Branch Logic]() — *internal epistemic safeguard*  
+> - [🦠 Statistical Nightmare]() — *systemic coercion and friction logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-06_
