@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 02:15:23 UTC_
+_Generated on 2025-11-06 03:26:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1830,6 +1830,7 @@ _Generated on 2025-11-06 02:15:23 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`⚖️_accountability_as_alignment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_accountability_as_alignment.md)
+    - [`⚖️_ai_black_box_inquests.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ai_black_box_inquests.md)
     - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_citizen_recourse_private_surveillance_uk.md)
     - [`⚖️_ethics_of_algorithmic_stabilisation_experiments.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ethics_of_algorithmic_stabilisation_experiments.md)
     - [`⚖️_ideological_coding_and_voice_discrediting.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ideological_coding_and_voice_discrediting.md)
