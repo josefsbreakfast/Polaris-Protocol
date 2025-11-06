@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 23:20:25 UTC_
+_Generated on 2025-11-06 23:24:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1924,6 +1924,7 @@ _Generated on 2025-11-06 23:20:25 UTC_
     - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
     - [`👅_Deepfake_Node.md`](Polaris_Nest/Git_Intake_Drawer/👅_Deepfake_Node.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
+    - [`👾_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/👾_algorithmic_projection_and_false_personalisation.md)
     - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
     - [`👾_what_robots_did_to_words.md`](Polaris_Nest/Git_Intake_Drawer/👾_what_robots_did_to_words.md)
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
@@ -2132,7 +2133,6 @@ _Generated on 2025-11-06 23:20:25 UTC_
     - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪖_moral_injury_and_veterans.md`](Polaris_Nest/Git_Intake_Drawer/🪖_moral_injury_and_veterans.md)
-    - [`🪞_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_projection_and_false_personalisation.md)
     - [`🪞_algorithmic_reframing.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_reframing.md)
     - [`🪞_erosion_of_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_erosion_of_duty_of_care.md)
     - [`🪞_ethical_censorship_continuum.md`](Polaris_Nest/Git_Intake_Drawer/🪞_ethical_censorship_continuum.md)
