@@ -64,11 +64,17 @@ Any cooperation with overseas agencies must:
 - operate through a **formal, Secretary-of-State-approved intelligence-sharing arrangement**, and  
 - remain under oversight of the **Investigatory Powers Commissioner’s Office (IPCO)** and the **Investigatory Powers Tribunal (IPT)**.  
 
-This boundary means UK surveillance or analytical activity must never be directed by, or primarily serve, another state’s political or economic objectives.
+This boundary means UK surveillance or analytical activity must never be directed by, or primarily serve, another state’s political or economic objectives.  
+
+*IPA 2016 s.19–20 and Schedule 6; IPCO oversight framework 2022.*  
 
 The UK is currently in legal **peacetime** at the time of writing: war has not been declared formally.  
 
-This significantly restricts what *could* be deemed necessary *if* the Islands were at war; we are not.  
+This significantly restricts what *could* be deemed necessary *if* the UK were at war; we are not, legally speaking, at war.  
+
+*Investigatory Powers Act 2016 (ss.19–25, Sch. 6); Home Office Factsheet 2017; IPCO Annual Report 2022; HoC Library CBP-7951 (2022).*  
+
+If any part of counter-terrorism is currently being used *as if* the UK were at war, or *in defence of non-British interests*, this is a serious democratic concern.  
 
 ---
 
