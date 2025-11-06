@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 00:22:13 UTC_
+_Generated on 2025-11-06 00:22:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1906,6 +1906,7 @@ _Generated on 2025-11-06 00:22:13 UTC_
     - [`💞_affective_proxy_substitution_cross_gender_misread_as_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
+    - [`💰_the_surveillance_dividend_social_contract.md`](Polaris_Nest/Git_Intake_Drawer/💰_the_surveillance_dividend_social_contract.md)
     - [`💰_underwriting_the_occupation.md`](Polaris_Nest/Git_Intake_Drawer/💰_underwriting_the_occupation.md)
     - [`💸_opacity_architecture_ai_defence_foreign_alignment.md`](Polaris_Nest/Git_Intake_Drawer/💸_opacity_architecture_ai_defence_foreign_alignment.md)
     - [`💻_algorithmic_hysteria.md`](Polaris_Nest/Git_Intake_Drawer/💻_algorithmic_hysteria.md)
