@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 20:04:33 UTC_
+_Generated on 2025-11-06 20:09:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1896,6 +1896,7 @@ _Generated on 2025-11-06 20:04:33 UTC_
     - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Polaris_Nest/Git_Intake_Drawer/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
     - [`🎶_korobeiniki_misread_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🎶_korobeiniki_misread_as_signal.md)
     - [`🎶_prevent_eats_teenagers_music.md`](Polaris_Nest/Git_Intake_Drawer/🎶_prevent_eats_teenagers_music.md)
+    - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Polaris_Nest/Git_Intake_Drawer/🎶_reversal_distortion_if_i_cant_have_you.md)
     - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](Polaris_Nest/Git_Intake_Drawer/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
     - [`🎶_theology_of_the_mix.md`](Polaris_Nest/Git_Intake_Drawer/🎶_theology_of_the_mix.md)
     - [`🎺_rallying_call_and_loyal_hound.md`](Polaris_Nest/Git_Intake_Drawer/🎺_rallying_call_and_loyal_hound.md)
@@ -2136,7 +2137,6 @@ _Generated on 2025-11-06 20:04:33 UTC_
     - [`🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md`](Polaris_Nest/Git_Intake_Drawer/🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md)
     - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
     - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
-    - [`🪞_reversal_distortion_if_i_cant_have_you.md`](Polaris_Nest/Git_Intake_Drawer/🪞_reversal_distortion_if_i_cant_have_you.md)
     - [`🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md`](Polaris_Nest/Git_Intake_Drawer/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md)
     - [`🪞_twin_narrative_distortion_loop.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twin_narrative_distortion_loop.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
