@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 09:57:15 UTC_
+_Generated on 2025-11-06 10:02:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -35,6 +35,7 @@ _Generated on 2025-11-06 09:57:15 UTC_
     - [`🪅_ranking_is_not_neutral_clause.md`](Disruption_Kit/AntiContainment_Clauses/🪅_ranking_is_not_neutral_clause.md)
     - [`🪓_mean_voice_evidence_voice.md`](Disruption_Kit/AntiContainment_Clauses/🪓_mean_voice_evidence_voice.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
+    - [`🪬_gossip_engines.md`](Disruption_Kit/AntiContainment_Clauses/🪬_gossip_engines.md)
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
@@ -2125,7 +2126,6 @@ _Generated on 2025-11-06 09:57:15 UTC_
     - [`🪦_mass_funeral_as_information_control.md`](Polaris_Nest/Git_Intake_Drawer/🪦_mass_funeral_as_information_control.md)
     - [`🪩_algorithmic_female_dominance_aura.md`](Polaris_Nest/Git_Intake_Drawer/🪩_algorithmic_female_dominance_aura.md)
     - [`🪩_no_fap_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🪩_no_fap_fascism.md)
-    - [`🪬_gossip_engines.md`](Polaris_Nest/Git_Intake_Drawer/🪬_gossip_engines.md)
     - [`🪶_descent_map_academic_surveillance_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_academic_surveillance_drift.md)
     - [`🪶_descent_map_template.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_template.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
