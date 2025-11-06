@@ -23,11 +23,6 @@ Keep survivor voice fidelity (bite, irony, precision):contentReference[oaicite:3
 
 ---
 
-## 📡 Cross-References  
-- [Relative Link Title](../Folder/📂_filename.md) — short description of why linked  
-
----
-
 ## 🏮 Footer  
 
 *Node Title* is a living node of the Polaris Protocol.  
