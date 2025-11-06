@@ -1,10 +1,10 @@
 # 🫒 Occupation as Containment Regime
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04
+**First created:** 2025-11-04 | **Last updated:** 2025-11-06  
 *When the performance of conflict becomes the structure of control.*
 
 ---
 
-## 🧭 Orientation
+## 🛰️ Orientation
 This node treats “occupation” not as territory or flag but as **a self-sustaining containment system**.
 Its durability comes from *engineered disjuncture*—the continual renewal of antagonism that keeps the frame of mediation intact.
 What looks like stalemate is actually motion: a machine converting tension into legitimacy.
@@ -26,7 +26,7 @@ Once the stereotypes are set aside, the pattern that emerges concerns **Western 
 
 ---
 
-## 🧩 Key Features
+## ✨ Key Features
 - **Distributed occupation** — military, bureaucratic, algorithmic, narrative layers working in relay.
 - **Perpetual mediation** — endless “peace processes” as renewal rituals.
 - **The neutral hinge** — the broker whose “balance” makes the occupation seem like conflict.
@@ -36,16 +36,14 @@ Once the stereotypes are set aside, the pattern that emerges concerns **Western 
 
 ---
 
-## 🔍 Analysis
-
-### 1. Containment Architecture
+## ☔️ Containment Architecture
 The regime functions as an *ecosystem of dependency*: checkpoints, permits, funding pipelines, security coordination, and reporting metrics form the outer walls.
 Inside, narratives of “balance” and “complexity” dampen recognition of asymmetry.
 The world is kept busy auditing procedure instead of power.
 
 ---
 
-### 2. Perpetual Mediation
+## 🦩 Perpetual Mediation
 Each diplomatic cycle introduces a new broker.
 Ceasefire → roadmap → dialogue → summit.
 Every failure is archived as experience; every success resets the timer.
@@ -55,7 +53,7 @@ The peacekeeper may change name or uniform, but the algorithm of oversight persi
 
 ---
 
-### 3. The Neutral Hinge
+## 👾 The Neutral Hinge
 Media and diplomacy alike frame the binary—*Israelis vs Palestinians*, *two sides*, *cycle of violence*—around a supposedly **neutral hinge**.
 That hinge is the operator’s position of legitimacy: the envoy, donor consortium, “international community,” or security coordinator.
 It claims detachment but is the pivot around which the occupation turns.
@@ -72,7 +70,7 @@ Without the hinge, occupation would be visible as unilateral control; with it, i
 
 ---
 
-### 4. Externalised Control
+## 🌋 Externalised Control
 Occupation migrates:
 - **Military** — force on the ground.
 - **Administrative** — permits, zoning, customs.
@@ -82,7 +80,7 @@ Each layer presents itself as neutral service delivery while reproducing depende
 
 ---
 
-### 5. Ignorance as Stability
+## 🦤 Ignorance as Stability
 The regime depends on selective unknowing—what can be said, what must be “too complicated.”
 Information control replaces censorship with fatigue.
 Neutrality discourse performs denial: “both sides,” “cycle of violence,” “security dilemma.”
@@ -90,7 +88,7 @@ The vocabulary itself enacts containment.
 
 ---
 
-### 6. Collapse Condition
+## 🐍 Collapse Condition
 When participants recognise that the “conflict” is an infrastructure, not a quarrel, legitimacy drains from the frame.
 Exposure converts mediation into evidence.
 At that point, occupation can no longer present itself as management—it stands revealed as design.
@@ -109,14 +107,15 @@ occupation, containment regime, engineered disjuncture, mediation theatre, peace
 
 ## 🏮 Footer
 
-*Occupation as Containment Regime* is a living node of the Polaris Protocol.
+*🫒 Occupation as Containment Regime* is a living node of the Polaris Protocol.
 It situates “occupation” as a systemic method of control sustained through rotational mediation, neutral hinges, and distributed ignorance, and invites readers to confront their own interpretive biases before tracing its structure.
 
 > 📡 Cross-references:
-> - [✂️ Engineered Disjuncture of Allies](../Containment_Scripts/✂️_engineered_disjuncture_of_allies.md) — source logic of antagonism as engine
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — macro-diagnostic frameworks of containment
-> - [🎛️ Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and forensic clarity anchor
+> 
+> - [✂️ Engineered Disjuncture of Allies]() — source logic of antagonism as engine
+> - [🧠 Big Picture Protocols]) — macro-diagnostic frameworks of containment
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-06_
