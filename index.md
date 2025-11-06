@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 11:25:18 UTC_
+_Generated on 2025-11-06 11:33:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2037,6 +2037,7 @@ _Generated on 2025-11-06 11:25:18 UTC_
     - [`🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
     - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassifying_intellectual_intimacy.md)
     - [`🧠_multilock_overlapping_covertion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_covertion.md)
+    - [`🧠_psychology_of_volunteer_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧠_psychology_of_volunteer_surveillance.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
