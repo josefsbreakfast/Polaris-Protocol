@@ -1,7 +1,7 @@
 # ⚖️ AI Black Box Inquests  
 **First created:** 2025-11-06 | **Last updated:** 2025-11-06  
 *Proposed framework for post-incident investigation when AI logic contributes to human harm or death.*  
-
+<!--This is me being Captain Subtle about the pending responses from several stakeholders.-->
 ---
 
 ## 🧭 Orientation  
