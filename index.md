@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 10:35:26 UTC_
+_Generated on 2025-11-06 10:53:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1222,6 +1222,7 @@ _Generated on 2025-11-06 10:35:26 UTC_
     - [`🛰️_surveillance_forking_incident_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_surveillance_forking_incident_2025-09-27.md)
     - [`🛰️_surviellance_shidduchim_continues.md`](Disruption_Kit/Field_Logs/🛰️_surviellance_shidduchim_continues.md)
     - [`🛰️_suspicion_seeding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_suspicion_seeding_field_log_2025-09-13.md)
+    - [`🛰️_telecomms_interference_and_metadata_anomalies_2025-10-15.md`](Disruption_Kit/Field_Logs/🛰️_telecomms_interference_and_metadata_anomalies_2025-10-15.md)
     - [`🛰️_the_busyness_of_the_bee.md`](Disruption_Kit/Field_Logs/🛰️_the_busyness_of_the_bee.md)
     - [`🛰️_the_punishment_is_getting_boring.md`](Disruption_Kit/Field_Logs/🛰️_the_punishment_is_getting_boring.md)
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
