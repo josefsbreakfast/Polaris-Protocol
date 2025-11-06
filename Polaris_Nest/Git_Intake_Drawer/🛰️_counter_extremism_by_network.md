@@ -66,15 +66,27 @@ Any cooperation with overseas agencies must:
 
 This boundary means UK surveillance or analytical activity must never be directed by, or primarily serve, another state’s political or economic objectives.  
 
-*IPA 2016 s.19–20 and Schedule 6; IPCO oversight framework 2022.*  
+*(IPA 2016 s.19–20 and Schedule 6; IPCO oversight framework 2022.)*  
 
 The UK is currently in legal **peacetime** at the time of writing: war has not been declared formally.  
 
-This significantly restricts what *could* be deemed necessary *if* the UK were at war; we are not, legally speaking, at war.  
+This significantly restricts what could be deemed necessary if the UK were at war.  
 
-*Investigatory Powers Act 2016 (ss.19–25, Sch. 6); Home Office Factsheet 2017; IPCO Annual Report 2022; HoC Library CBP-7951 (2022).*  
+We are not, legally speaking, at war.  
 
-If any part of counter-terrorism is currently being used *as if* the UK were at war, or *in defence of non-British interests*, this is a serious democratic concern.  
+*(Investigatory Powers Act 2016 (ss.19–25, Sch. 6); Home Office Factsheet 2017; IPCO Annual Report 2022; HoC Library CBP-7951 (2022).)*  
+
+If any part of counter-terrorism is currently being used **as if** the UK were at war, or **in defence of non-British interests**, this is a **serious democratic concern**.  
+
+Thos isn't about "us" vs. "them" logic.  
+
+This is about whether a law that is written down on paper, actually counts.  
+
+Does the law function as it is written?  
+
+English law is like AI; precedent will heavily weight future outcomes.  
+
+We can't fail to train it and later wonder how it broke.  
 
 ---
 
