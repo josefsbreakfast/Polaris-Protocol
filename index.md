@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 19:16:41 UTC_
+_Generated on 2025-11-06 19:21:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1846,7 +1846,6 @@ _Generated on 2025-11-06 19:16:41 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`⚖️_accountability_as_alignment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_accountability_as_alignment.md)
-    - [`⚖️_ai_black_box_inquests.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ai_black_box_inquests.md)
     - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_citizen_recourse_private_surveillance_uk.md)
     - [`⚖️_differential_proportionality.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_differential_proportionality.md)
     - [`⚖️_ethics_of_algorithmic_stabilisation_experiments.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ethics_of_algorithmic_stabilisation_experiments.md)
@@ -2148,6 +2147,7 @@ _Generated on 2025-11-06 19:16:41 UTC_
     - [`🪶_descent_map_template.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_template.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](Polaris_Nest/Git_Intake_Drawer/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
+    - [`🫀_ai_black_box_inquests.md`](Polaris_Nest/Git_Intake_Drawer/🫀_ai_black_box_inquests.md)
     - [`🫒_occupation_as_containment_regime.md`](Polaris_Nest/Git_Intake_Drawer/🫒_occupation_as_containment_regime.md)
     - [`🫖_no_this_is_not_proper.md`](Polaris_Nest/Git_Intake_Drawer/🫖_no_this_is_not_proper.md)
     - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](Polaris_Nest/Git_Intake_Drawer/🫥_when_you_dont_want_to_be_seen_touching_it.md)
