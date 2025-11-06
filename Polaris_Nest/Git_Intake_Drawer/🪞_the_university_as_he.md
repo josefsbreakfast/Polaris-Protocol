@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 In public communications, the university speaks with the voice of reason — firm, articulate, never flustered.  
 In metadata terms, this is not accidental.  
 It’s a product of how platforms, rating systems, and sentiment classifiers map legitimacy: they code *authority* as masculine.  
@@ -12,7 +12,7 @@ This node analyses that encoding — how institutional power inherits the pronou
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - Bureaucratic tone = masculine-coded neutrality.  
 - Data features that signal legitimacy mirror traits historically aligned with male identity (control, composure, detachment).  
 - Complaint or emotion are flagged as volatility — female-coded, unreliable.  
@@ -21,9 +21,9 @@ This node analyses that encoding — how institutional power inherits the pronou
 
 ---
 
-## 🔍 Analysis  
+## 🧿 Analysis  
 
-### 1. Pronoun by Proxy  
+### 🌹 Pronoun by Proxy  
 No platform assigns literal gender to an organisation, yet linguistic and behavioural modelling create a proxy.  
 Algorithms weight trustworthiness, precision, and confidence as indicators of reliability — all statistically correlated in training data with male-coded voice patterns.  
 Thus, even neutral statements from an institution inherit that halo: *He must know what he’s talking about.*
@@ -34,7 +34,7 @@ He never raises his voice.
 
 ---
 
-### 2. Bureaucratic Masculinity  
+### 🦚 Bureaucratic Masculinity  
 Within the bureaucratic register, care is procedural.  
 Every display of empathy is routed through a form, a policy, or a disclaimer.  
 This is masculinity by design: control substituted for compassion, process for presence.  
@@ -46,7 +46,7 @@ When scaled to millions of interactions, this produces the gendered speech asymm
 
 ---
 
-### 3. The Civic Mask  
+### 🩻 The Civic Mask  
 Historically, the university occupied the social position of the learned patriarch — granting legitimacy to others while remaining unexamined himself.  
 Digital architectures preserve this lineage: verified badges, institutional domains, and professional tone markers all perform a ritual of masculine credibility.  
 Even diversity statements function as costume changes — new outfits for the same actor.  
@@ -58,7 +58,7 @@ He is not cruel, just constrained by procedure.
 
 ---
 
-### 4. The Feedback Loop  
+### 🧬 The Feedback Loop  
 When social platforms ingest these signals, they reproduce them as aesthetic bias.  
 Feeds give prominence to the masculine-coded voice because it matches the statistical model of “credible source.”  
 The survivor’s post, dense with affect or irony, is downranked as “low trust.”  
@@ -69,7 +69,7 @@ He speaks, the algorithm applauds, and the audience learns what authority should
 
 ---
 
-### 5. Reclaiming the Register  
+### 🐦‍🔥 Reclaiming the Register  
 Survivor voice fidelity intervenes by breaking tone discipline.  
 It insists that truth can sound angry, that analysis can cry.  
 To neutralise gendered coding, we have to unlearn bureaucratic masculinity as the default of legitimacy.  
@@ -96,9 +96,9 @@ It dissects how digital and bureaucratic infrastructures masculinise authority, 
 By naming this pattern, it restores diagnostic clarity to the survivor voice, refusing the automatic “he” of institutional speech.  
 
 > 📡 Cross-references:  
-
-> - [💔 When the Algorithm Thinks It’s a Rom-Com](../Disruption_Kit/Survivor_Tools/💔_when_the_algorithm_thinks_it’s_a_rom_com.md) — *satire of algorithmic romance framing*  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — *systemic analyses of institutional containment*  
+> 
+> - [💔 When the Algorithm Thinks It’s a Rom-Com]() — *satire of algorithmic romance framing*  
+> - [🧠 Big Picture Protocols](Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic analyses of institutional containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
