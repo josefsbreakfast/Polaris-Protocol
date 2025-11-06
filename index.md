@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 10:22:09 UTC_
+_Generated on 2025-11-06 10:30:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -450,6 +450,7 @@ _Generated on 2025-11-06 10:22:09 UTC_
         - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
         - [`targeting_jewish_dissent_1980s_present.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targeting_jewish_dissent_1980s_present.png)
         - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
+        - [`🌿_the_paradox_of_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🌿_the_paradox_of_recognition.md)
         - [`🎶_sonata_server_sympathies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
         - [`📚_the_suppressed_scholar.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📚_the_suppressed_scholar.md)
         - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
@@ -1868,7 +1869,6 @@ _Generated on 2025-11-06 10:22:09 UTC_
     - [`🌫️_uncertainty_branch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_uncertainty_branch_logic.md)
     - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
     - [`🌾_possibly_poetry_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🌾_possibly_poetry_pipeline.md)
-    - [`🌿_the_paradox_of_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌿_the_paradox_of_recognition.md)
     - [`🌿_wild_type_encounters.md`](Polaris_Nest/Git_Intake_Drawer/🌿_wild_type_encounters.md)
     - [`🍉_friction_erasure_and_the_machine_view_of_resistance.md`](Polaris_Nest/Git_Intake_Drawer/🍉_friction_erasure_and_the_machine_view_of_resistance.md)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
