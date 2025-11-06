@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 11:52:03 UTC_
+_Generated on 2025-11-06 11:53:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1858,7 +1858,6 @@ _Generated on 2025-11-06 11:52:03 UTC_
     - [`⚙️_friction_minimisation_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_friction_minimisation_logic.md)
     - [`⚙️_machine_pruning_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_machine_pruning_logic.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
-    - [`⚫️_governance_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/⚫️_governance_black_hole.md)
     - [`✂️_engineered_disjuncture_of_allies.md`](Polaris_Nest/Git_Intake_Drawer/✂️_engineered_disjuncture_of_allies.md)
     - [`✈️_crash_logic_state_grief_and_erasure.md`](Polaris_Nest/Git_Intake_Drawer/✈️_crash_logic_state_grief_and_erasure.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
@@ -1977,6 +1976,7 @@ _Generated on 2025-11-06 11:52:03 UTC_
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
     - [`🕳️_black_box_epistemology_in_post_soviet_accidents.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_black_box_epistemology_in_post_soviet_accidents.md)
     - [`🕳️_continuity_under_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_continuity_under_oversight.md)
+    - [`🕳️_governance_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_governance_black_hole.md)
     - [`🕳️_how_to_catch_a_whistleblower.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_how_to_catch_a_whistleblower.md)
     - [`🕳️_the_shape_of_missing_historical_nodes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_shape_of_missing_historical_nodes.md)
     - [`🕳️_when_the_censor_is_a_contractor.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_when_the_censor_is_a_contractor.md)
