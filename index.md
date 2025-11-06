@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 16:07:47 UTC_
+_Generated on 2025-11-06 16:14:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2182,6 +2182,7 @@ _Generated on 2025-11-06 16:07:47 UTC_
     - [`➰_forever_containment_cohorts_casefile.md`](Polaris_Nest/SCP-VoiceX_Casefiles/➰_forever_containment_cohorts_casefile.md)
     - [`🌟_survivor_star_seeker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🌟_survivor_star_seeker.md)
     - [`🎭_consent_is_not_character.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🎭_consent_is_not_character.md)
+    - [`🏛️_data_splitting_sar.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🏛️_data_splitting_sar.md)
     - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Polaris_Nest/SCP-VoiceX_Casefiles/👾_harassment_misidentification_systemic_failures_25-09-02.md)
     - [`📂_clone_in_the_family.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📂_clone_in_the_family.md)
     - [`📉_shadow_reach_analysis.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📉_shadow_reach_analysis.md)
