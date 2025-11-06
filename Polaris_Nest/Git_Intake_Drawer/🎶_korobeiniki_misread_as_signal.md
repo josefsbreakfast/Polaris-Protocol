@@ -1,5 +1,5 @@
 # 🎶 Korobeiniki Misread as Signal  
-**First created:** 2025-11-05  |  **Last updated:** 2025-11-05  
+**First created:** 2025-11-05  |  **Last updated:** 2025-11-06  
 *A case study in cultural semiotics and Prevent-era misclassification.*
 <!--Дорогой дедушка, Снова неприятности из-за моего музыкального вкуса. (And it’s your bloody fault, as usual.)-->
 ---
@@ -23,7 +23,7 @@ This node examines the **misreading of Russian choral or folk motifs — for exa
 
 ## 🧿 Analysis  
 
-### 1. The Cultural Loop  
+### 🦇 The Cultural Loop  
 “Коробейники” (*Korobeiniki*, “The Peddlers”)* predates the Soviet Union by decades.  
 
 Its melody entered Western pop consciousness through *Tetris* and Cold-War cinema.  
@@ -32,7 +32,7 @@ Listening to both Red Army Choir and Western remixes is participation in a **sha
 
 ---
 
-### 🧺 1a. What “Коробейники” (a.k.a. “Korobushka”) Actually Is  
+### 🧺 What “Коробейники” (a.k.a. “Korobushka”) Actually Is  
 The song originates from **Nikolai Nekrasov’s 1861 poem** about a travelling merchant courting a girl through the exchange of ribbons, scarves, a ring — a story of **commerce, courtship, and consent**, not ideology.  
 
 When the **Red Army Choir** performs it, they render folk romance as pageant, comparable to *Rule Britannia.*  
@@ -45,7 +45,7 @@ Additionally, the tenor's voice is like warm honey. [As so.](https://youtu.be/kr
 
 ---
 
-### 🎬 1b. *Korobeiniki* in *House of Cards* — Power, Seduction & Semiotic Theatre  
+### 🎬 *Korobeiniki* in *House of Cards* — Power, Seduction & Semiotic Theatre  
 In *House of Cards* (S3 E3), Russian president **Viktor Petrov** (a Putin analogue) attends a White House dinner featuring a Red Army-style choir singing “Коробейники.”  
 
 [Here is the decade-old clip; don't we all feel old?](https://youtu.be/x0bNhdtfX10?si=bfE-i8TQkGw4KvsW)
@@ -58,7 +58,7 @@ Western audiences read it instantly as camp Cold-War farce; pleasure = irony, no
 
 ---
 
-### 🔤 1c. Orthography and Search Logic  
+### 🔤 Orthography and Search Logic  
 Using **non-Latin alphabets** is precision, not concealment.  
 
 Searching for “Коробейники” (Cyrillic) vs “Korobeiniki” (English) yields different archives.  
@@ -69,7 +69,7 @@ The algorithm sees deviation; the human sees accuracy.
 
 ---
 
-### 🕹️ 1d. The *Tetris* Connection — The Tune Everyone Already Knows  
+### 🕹️ The *Tetris* Connection — The Tune Everyone Already Knows  
 The 1989 Nintendo *Tetris* theme is *Коробейники.*  
 
 Calling it a “Russian influence signal” would imply every gamer since 1989 was radicalised by Game Boy.  
@@ -81,7 +81,7 @@ The *Tetris A-Type theme* is [beloved](https://vm.tiktok.com/ZNdTtHEBp/), and as
 <!--Nintendo did this purposely; that's why they have not sued.-->
 ---
 
-### 🎧 1e. The *Rasputin–Putin Funk Overload* Meme  
+### 🎧 The *Rasputin–Putin Funk Overload* Meme  
 The viral @slocband remix *RASPUTIN – Vladimir Putin – Love The Way You Move (Funk Overload)* splices Boney M’s disco classic with deep-fake Putin choreography.  
 
 [See attached: Sensitive: Highly Catchy Pro-NATO Material. Caution.](https://youtu.be/PuQD1jgG9oQ?si=fmV7bo9FEqfc9nix)
@@ -92,7 +92,7 @@ To play it is to laugh at authority, not to serve it.
 <!--We could talk about the geopolitical reality around the release date and the imagery of Putin's parodied ego-based escalation to self-annhilation which endangers us all, but I would hate to spoonfeed.-->
 ---
 
-### 💃 1f. Rasputin, Putin and the End of the World in 4/4 Time  
+### 💃 Rasputin, Putin and the End of the World in 4/4 Time  
 Grigori Rasputin symbolised the Tsarist collapse — mysticism, decadence, hubris.  
 
 Boney M’s 1978 “Rasputin” made him camp myth. @slocband’s remix turns Putin into a cyber-Rasputin whose funk destroys the world.  
@@ -101,7 +101,7 @@ The final caption *“Oh, those Russians”* and the weeping moon complete the s
 
 ---
 
-### 👑 1h. Putin as Neo-Tsar — The Meme as Political Diagnosis  
+### 👑 Putin as Neo-Tsar — The Meme as Political Diagnosis  
 The meme frames Putin as modern Tsar, self-mythologising through spectacle.  
 
 Reports of his “Tsarina” crown gift to a mistress literalise dynastic theatre.  
@@ -112,7 +112,7 @@ Reports of his “Tsarina” crown gift to a mistress literalise dynastic theatr
 <!--It is as if Viktor Petrov was parodying someone. 🤔-->
 ---
 
-### 🐎 1i. The Shirtless Sovereign — Cult of Personality as Propaganda  
+### 🐎 The Shirtless Sovereign — Cult of Personality as Propaganda  
 Topless horseback photos, judo videos, fan calendars = **state-manufactured iconography.**  
 
 The body becomes the nation; virility equals legitimacy.  
@@ -123,7 +123,7 @@ Every funk edit and gif deflates the cult: **ego punctured by humour.**
 
 ---
 
-## 2. Prevent’s Symbolic Compression  
+## 🪼 Prevent’s Symbolic Compression  
 Prevent analytics flatten context into a single risk score: **“Russian = threat.”**  
 
 Aesthetic curiosity becomes evidence of risk — a theory of taste masquerading as security.  
@@ -132,7 +132,7 @@ It is the bureaucratic failure to recognise metaphor, irony, or play.
 
 ---
 
-### 🧾 2a. Case Study — The Pink Peacock and the Yiddish “דאָלױ פּאָליצײַ” Tote  
+### 🦩 Case Study — The Pink Peacock and the Yiddish “דאָלױ פּאָליצײַ” Tote  
 In 2021, Police Scotland raided the **Pink Peacock Café**, a queer Yiddish-language anarchist space in Glasgow, and charged a director with *breach of the peace* for displaying tote bags reading **“דאָלױ פּאָליצײַ” (*Doloy Politsey*, “Down with the police”)*.**  
 
 A century-old **pro-democracy slogan** was treated as extremism.  
@@ -149,7 +149,7 @@ This incident reveals Prevent’s underlying pattern: cultural and linguistic mi
 
 ---
 
-## 👀 3. The Western Gaze  
+## 👀 Beyond The Western Gaze  
 Western media has long aestheticised the “Russian sound.”  
 
 To love it is to love **Western cinematic codes**, not Kremlin messaging.  
@@ -168,7 +168,7 @@ To enjoy them is to inhabit the nostalgia Western culture itself built — a for
 
 ---
 
-## 🎵 4. Playlist as Portrait  
+## 🎵 Playlist as Portrait  
 A playlist mixing **Little Big**, *House of Cards Korobeiniki*, and *Tetris* reveals not subversion but **Western appropriation of “Russianness.”**
 
 - **🕹 Tetris** — A Japanese company’s 1989 adaptation of a Russian folk tune became the planet’s most familiar melody.
@@ -213,14 +213,13 @@ Prevent, music surveillance, semiotics, Korobeiniki, Red Army Choir, *Tetris*, H
 ---
 
 ## 🏮 Footer  
-*Korobeiniki Misread as Signal* is a living node of the Polaris Protocol.  
+*🎶 Korobeiniki Misread as Signal* is a living node of the Polaris Protocol.  
 It documents the cultural-forensic reasoning that distinguishes aesthetic appreciation from ideological profiling, showing how Prevent misreads cross-cultural listening as risk.  
 
-> 📡 Cross-references:  
-> - [🎛️ Pocket Rules — Survivor Voice Fidelity](../../Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md)  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [Big Picture Protocols](../) — systemic misclassification analyses  
+> 📡 Cross-references:
+> 
+> - [🧠 Big Picture Protocols](Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic misclassification analyses*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-06_
