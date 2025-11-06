@@ -43,7 +43,7 @@ Disbelief, defensiveness, and curiosity all generate more data; the loop feeds o
 
 ---
 
-## 💥 Re-Encounter Shock  
+## 🧨 Re-Encounter Shock  
 If the real humans ever cross paths, the encounter feels surreal.  
 The mind must reconcile two incompatible inputs:  
 > *the person I was told existed*  
@@ -55,7 +55,7 @@ Some will double down on the myth; others will reach toward recognition.
 
 ---
 
-## 🪞 Rehumanisation and Repair  
+## 🐦‍🔥 Rehumanisation and Repair  
 Breaking the loop requires:  
 - **Context disclosure:** how the narrative was formed.  
 - **Mutual acknowledgement:** that both were harmed by misrepresentation.  
@@ -66,7 +66,7 @@ Rehumanisation is not reconciliation; it’s *accurate mirroring* restored.
 
 ---
 
-## ⚙️ Political & Clinical Parallels  
+## 🦚 Political & Clinical Parallels  
 | Domain | Manifestation | Risk |  
 |---------|----------------|------|  
 | **Surveillance capitalism** | algorithmic profiling | relational falsehoods monetised |  
@@ -86,7 +86,7 @@ Escaping the loop means restoring narrative agency: speaking for oneself, and li
 ---
 
 ## 🌌 Constellations  
-🧿 Watch the Watchers | 🎭 Narrative Ethics | 💔 Collective Psychology | 🧠 Survivor Tools | 🪄 Expression of Norms  
+🧿 🎭 💔 🧠 🪄 Expression of Norms  
 
 ---
 
