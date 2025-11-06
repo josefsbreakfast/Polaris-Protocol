@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 17:59:42 UTC_
+_Generated on 2025-11-06 18:06:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1983,6 +1983,7 @@ _Generated on 2025-11-06 17:59:42 UTC_
     - [`🕯️_prevent_and_the_encampment_silence.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_prevent_and_the_encampment_silence.md)
     - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
     - [`🕰️_institutional_timescales_of_repair.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_institutional_timescales_of_repair.md)
+    - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
     - [`🕳️_black_box_epistemology_in_post_soviet_accidents.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_black_box_epistemology_in_post_soviet_accidents.md)
     - [`🕳️_continuity_under_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_continuity_under_oversight.md)
