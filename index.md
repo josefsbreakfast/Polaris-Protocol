@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 13:55:16 UTC_
+_Generated on 2025-11-06 14:01:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1875,6 +1875,7 @@ _Generated on 2025-11-06 13:55:16 UTC_
     - [`🌫️_uncertainty_branch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_uncertainty_branch_logic.md)
     - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
     - [`🌾_possibly_poetry_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🌾_possibly_poetry_pipeline.md)
+    - [`🍉_civic_participation_and_ai_risk_classification.md`](Polaris_Nest/Git_Intake_Drawer/🍉_civic_participation_and_ai_risk_classification.md)
     - [`🍉_friction_erasure_and_the_machine_view_of_resistance.md`](Polaris_Nest/Git_Intake_Drawer/🍉_friction_erasure_and_the_machine_view_of_resistance.md)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_reputation_management_and_university_protest_response.md`](Polaris_Nest/Git_Intake_Drawer/🎓_reputation_management_and_university_protest_response.md)
