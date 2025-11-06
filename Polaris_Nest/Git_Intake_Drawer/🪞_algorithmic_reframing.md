@@ -1,10 +1,10 @@
 # 🪞 Algorithmic Reframing — When Analysis Becomes Evasion  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
 *How modern systems psychologise moral critique.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node traces how interpretive systems—whether depth-psychology, social-media algorithms, or institutional communications—convert moral and political critique into self-examination.  
 The mechanism is ancient: when power feels threatened, it reframes protest as pathology.  
 Digital infrastructure has simply automated the move.
@@ -15,9 +15,9 @@ The result is a world where dissent returns as content moderation, resistance be
 
 ---
 
-## 📑 Core Patterns  
+## ✨ Core Patterns  
 
-### 1️⃣ Reframing → From Structure to Self  
+### 🧊 Reframing → From Structure to Self  
 Algorithms and media pipelines divert attention from the external system to the internal psyche.  
 A whistle-blower receives burnout resources; a survivor of institutional harm is offered “resilience training.”  
 The question “who built this architecture?” becomes “why can’t you adapt to it?”  
@@ -28,7 +28,7 @@ The question “who built this architecture?” becomes “why can’t you adapt
 
 ---
 
-### 2️⃣ Archetyping → Turning Women into Myths  
+### 💄 Archetyping → Turning Women into Myths  
 Depth-psychological tropes re-emerge through machine learning.  
 When a Jewish woman critiques surveillance capitalism, her feed fills with Carl Jung’s *anima* lectures, “divine feminine” meditations, and self-help videos.  
 Her intellect is translated into archetype; analysis becomes femininity; anger becomes hysteria.  
@@ -38,7 +38,7 @@ The algorithmic unconscious reproduces the same gendered reduction once performe
 
 ---
 
-### 3️⃣ Deflection → Analysis as Evasion  
+### 🪞 Deflection → Analysis as Evasion  
 > “The algorithm doesn’t argue; it reframes.”  
 
 Rather than debating evidence, systems return interpretation.  
@@ -47,7 +47,7 @@ Psychological vocabulary becomes corporate armour—empathy without admission.
 
 ---
 
-### 4️⃣ Commodification → Pain as Engagement Metric  
+### ⚡️ Commodification → Pain as Engagement Metric  
 Outrage equals reach.  Each expression of moral injury strengthens the attention loop.  
 Platforms extract behavioural profit from suffering while appearing therapeutic.  
 The language of compassion becomes a data-harvesting surface: “Tell us how you feel” is another form field.  
@@ -77,7 +77,7 @@ Where psychoanalysis once individualised pain, algorithms scale the same process
 
 ---
 
-## 🧩 Counter-Practices  
+## 🧨 Counter-Practices  
 
 ### Re-externalise  
 Name systems, not psyches.  Replace “How do I feel?” with “Who benefits from this framing?”
@@ -93,7 +93,7 @@ Teach how curation itself performs interpretation: what you see *is* a claim abo
 
 ---
 
-## 🔁 The Mirror Line  
+## 🪩 The Mirror Line  
 This node mirrors *🜁 Shared Air* and *⚖️ Freud & Jung :: Disraeli & Gladstone*.  
 All three track how explanation replaces accountability—whether by mysticism, respectability, or AI feedback loop.  
 Each converts a collective moral question into a private psychological drama.
@@ -118,10 +118,11 @@ The task is not to smash the mirror but to see the hand that polishes it.
 *🪞 Algorithmic Reframing — When Analysis Becomes Evasion* is a living node of the **Polaris Protocol**.  
 It documents how modern systems convert critique into introspection and how reclaiming authorship restores collective meaning.  
 
-> 📡 Cross-references:  
-> - [🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence](../🜁_shared_air_intellectual_proximity.md)  
-> - [⚖️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments](../⚖️_freud_jung_disraeli_gladstone.md)
+> 📡 Cross-references:
+> 
+> - [🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence]()  
+> - [⚖️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments]()
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-06_
