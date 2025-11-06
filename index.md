@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 16:16:09 UTC_
+_Generated on 2025-11-06 17:58:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2127,13 +2127,13 @@ _Generated on 2025-11-06 16:16:09 UTC_
     - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪖_moral_injury_and_veterans.md`](Polaris_Nest/Git_Intake_Drawer/🪖_moral_injury_and_veterans.md)
-    - [`🪞 post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🪞 post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
     - [`🪞_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_projection_and_false_personalisation.md)
     - [`🪞_algorithmic_reframing.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_reframing.md)
     - [`🪞_erosion_of_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_erosion_of_duty_of_care.md)
     - [`🪞_ethical_censorship_continuum.md`](Polaris_Nest/Git_Intake_Drawer/🪞_ethical_censorship_continuum.md)
     - [`🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md`](Polaris_Nest/Git_Intake_Drawer/🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md)
     - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
+    - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
     - [`🪞_reversal_distortion_if_i_cant_have_you.md`](Polaris_Nest/Git_Intake_Drawer/🪞_reversal_distortion_if_i_cant_have_you.md)
     - [`🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md`](Polaris_Nest/Git_Intake_Drawer/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md)
     - [`🪞_twin_narrative_distortion_loop.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twin_narrative_distortion_loop.md)
