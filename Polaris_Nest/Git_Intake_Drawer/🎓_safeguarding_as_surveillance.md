@@ -1,5 +1,5 @@
 # 🎓 Safeguarding as Surveillance — University Case Pattern  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-15 | **Last updated:** 2025-11-06  
 *Diagnostic account of how UK university safeguarding and Prevent frameworks act as surveillance extensions when student distress conflicts with state or donor narratives.*
 
 ---
@@ -32,12 +32,27 @@ Universities “manage” distress rather than redress harm.
 ---
 
 ## 🧠 Case Context  
-- Please note that telecomms interference was significant during this period, and so this section is in draft. A number of oddities about the case paperwork stick out to me; it would be very easy to draw false inferences as a layperson. I am still blocked from lawyers and we're not getting to a place of open accounting for so much of my increased surveillance and BI activity being so targeted around one institution. I don't want to put anything forward at a certain level of seriousness without having any RCA capacity (i.e. was this potentially accumulation of errors/limited number of actors). I am trying to go though line-by-line, but please note EEG positive, Romberg's positive, and still undermedicated due to surveillance impact on own life. Lots of men descending on your home... should have been predictably a *bad idea*. I cannot face the possibility of having to be treated as a national asset until after the latest hearing announcment to go to 2026, if this is the underlying "why are there men outside my house" issue.  
-<!-- I am, moreover, very tired of being surveilled like a bomb and not touched, like one.-->  
-- A medical student reporting both disability discrimination and trauma distress over genocide rhetoric receives no timely support, but they do lose their medical degree, even after working through COVID support and through the pain of inadequate medical support. Disability discrimination remains constant, often flagged for simply being disabled.  
-- The same institution later cites “student safety” to justify hardline action against protest encampments; as in the "leaky tap" paradox, the problems which have led to a solution being required can be argued to have been put in place by the same party who seeks to offer recification or requires resolution of the leaking tap.  
-- Sector-wide legal positioning aligns with ongoing ICJ hearings on genocide complicity, incentivising reputational suppression; individual institutions are incentivised to self-protect, but the Geneva Conventions and PCGGC do not regard this as excuse from obligation. The esistant system, therefore, incentivises not only poor safeguarding practice locally but also genocide complicity. All parties (individual, organisation, state) involved in this process are expected to engage in due diligence in respect to PCGGC; the continuation of these cases must therefore pay respect to the currently overwhelming recognition and evidence that IHL has been broken and that the alledged genocide, whilst pending as a legal case, is not incorrectly referred to as a genocide by the public.    
-- Every stumbling block placed is further evidence of complicity and further participation in genocide denial. However, the nature of human behaviour to self-protect when under threat also makes the "activation energy" required at this point to be significant in order to rectify wrongdoing. The cycle favours self-perpetuation.  
+
+This case exhibits a repeatable **containment-through-procedure pattern** typical of higher-education risk ecosystems.  
+Key diagnostic indicators observed between 2021–2025 include:  
+
+- 🛰️ *See [Field Log — Telecomms Interference and Metadata Anomalies (2025-10-15)](../../Field_Logs/🛰️_telecomms_interference_and_metadata_anomalies_2025-10-15.md) for technical irregularities detected during the safeguarding period.*
+
+- **Disability discrimination as containment trigger:** a medical student reporting trauma-related distress and disability access failures receives no timely support; institutional response prioritises reputational risk over welfare.  
+  - Consequence: withdrawal of medical qualification despite continued academic performance and clinical contribution during COVID.  
+  - Diagnostic feature: procedural obstruction replaces pastoral care, maintaining containment via delay.  
+
+- **Safeguarding rhetoric used for reputational defence:** post-incident, the same institution deploys “student safety” framing to justify suppression of political encampments and protest speech.  
+  - Diagnostic feature: the mechanism of harm is rebranded as its own remedy (“leaky-tap paradox”).  
+
+- **Sector-wide incentive alignment:** legal advice across university consortia reflects coordination with pending **ICJ genocide-complicity hearings**, generating collective avoidance behaviour.  
+  - Diagnostic feature: reputational-risk management overrides compliance with international humanitarian-law obligations (Geneva Conventions, PCGGC).  
+  - Observed outcome: survivor and Jewish student testimony treated as liability data rather than protected speech.  
+
+- **Cycle of self-perpetuation:** administrative actors display self-protective inertia; corrective action requires energy greater than perceived institutional risk tolerance.  
+  - Diagnostic feature: safeguarding frameworks act as homeostatic devices, restoring equilibrium to reputational order rather than moral duty.  
+
+Overall diagnostic summary: **empathy architecture repurposed as control infrastructure**, converting distress signals into risk artefacts that justify continued monitoring and procedural stasis.  
 
 ---
 
@@ -60,7 +75,7 @@ university complicity, safeguarding abuse, survivor containment, jewish identity
 
 ## 🏮 Footer  
 
-*Safeguarding as Surveillance — University Case Pattern* is a diagnostic node of the Polaris Protocol.  
+*🎓 Safeguarding as Surveillance — University Case Pattern* is a diagnostic node of the Polaris Protocol.  
 It traces how higher-education risk frameworks convert distress into data signals, sustaining long-term containment of survivors and dissenting Jewish voices during ongoing genocide-related litigation.  
 
 > 📡 Cross-references:
@@ -72,4 +87,4 @@ It traces how higher-education risk frameworks convert distress into data signal
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2025-11-06_
