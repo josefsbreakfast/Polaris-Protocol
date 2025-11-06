@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-06 11:33:19 UTC_
+_Generated on 2025-11-06 11:52:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1852,11 +1852,13 @@ _Generated on 2025-11-06 11:33:19 UTC_
     - [`⚖️_recourse_for_behavioural_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_recourse_for_behavioural_containment.md)
     - [`⚖️_retrospective_law_in_a_prospective_world.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_retrospective_law_in_a_prospective_world.md)
     - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
+    - [`⚖️_triangle_of_accountability_gaps_UPDATED.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_triangle_of_accountability_gaps_UPDATED.md)
     - [`⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md)
     - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
     - [`⚙️_friction_minimisation_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_friction_minimisation_logic.md)
     - [`⚙️_machine_pruning_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_machine_pruning_logic.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
+    - [`⚫️_governance_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/⚫️_governance_black_hole.md)
     - [`✂️_engineered_disjuncture_of_allies.md`](Polaris_Nest/Git_Intake_Drawer/✂️_engineered_disjuncture_of_allies.md)
     - [`✈️_crash_logic_state_grief_and_erasure.md`](Polaris_Nest/Git_Intake_Drawer/✈️_crash_logic_state_grief_and_erasure.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
@@ -2066,6 +2068,7 @@ _Generated on 2025-11-06 11:33:19 UTC_
     - [`🧬_competitive_binding.md`](Polaris_Nest/Git_Intake_Drawer/🧬_competitive_binding.md)
     - [`🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md`](Polaris_Nest/Git_Intake_Drawer/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
+    - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
     - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
