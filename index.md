@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 20:12:31 UTC_
+_Generated on 2025-11-07 20:13:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1925,6 +1925,7 @@ _Generated on 2025-11-07 20:12:31 UTC_
     - [`🏛️_the_boringing_uk_2010_2025.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_boringing_uk_2010_2025.md)
     - [`🏛️_the_duel_of_temperments.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_duel_of_temperments.md)
     - [`🏛️_the_grey_zone_inside_the_think_tank.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_grey_zone_inside_the_think_tank.md)
+    - [`🏝️_refusal_retreat_and_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🏝️_refusal_retreat_and_extraction.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐍_algorithmic_hostage_logic.md`](Polaris_Nest/Git_Intake_Drawer/🐍_algorithmic_hostage_logic.md)
     - [`🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md`](Polaris_Nest/Git_Intake_Drawer/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md)
@@ -2177,6 +2178,7 @@ _Generated on 2025-11-07 20:12:31 UTC_
     - [`🪶_descent_map_academic_surveillance_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_academic_surveillance_drift.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](Polaris_Nest/Git_Intake_Drawer/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
+    - [`🪸_floating_commons_humane_sovereignty_at_sea.md`](Polaris_Nest/Git_Intake_Drawer/🪸_floating_commons_humane_sovereignty_at_sea.md)
     - [`🫀_ai_black_box_inquests.md`](Polaris_Nest/Git_Intake_Drawer/🫀_ai_black_box_inquests.md)
     - [`🫒_occupation_as_containment_regime.md`](Polaris_Nest/Git_Intake_Drawer/🫒_occupation_as_containment_regime.md)
     - [`🫖_no_this_is_not_proper.md`](Polaris_Nest/Git_Intake_Drawer/🫖_no_this_is_not_proper.md)
