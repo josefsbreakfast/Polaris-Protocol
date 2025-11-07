@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 23:29:51 UTC_
+_Generated on 2025-11-07 23:47:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2120,6 +2120,7 @@ _Generated on 2025-11-07 23:29:51 UTC_
     - [`🧩_ideal_whitehall_response_sequence.md`](Polaris_Nest/Git_Intake_Drawer/🧩_ideal_whitehall_response_sequence.md)
     - [`🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md`](Polaris_Nest/Git_Intake_Drawer/🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md)
     - [`🧩_meta_containment_and_exploited_breakpoints.md`](Polaris_Nest/Git_Intake_Drawer/🧩_meta_containment_and_exploited_breakpoints.md)
+    - [`🧩_myth_vs_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧩_myth_vs_mechanism.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
@@ -2166,6 +2167,7 @@ _Generated on 2025-11-07 23:29:51 UTC_
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
     - [`🧵_overproduction_as_human_boredom_response.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_as_human_boredom_response.md)
     - [`🧼_courtier_class_in_the_age_of_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_in_the_age_of_austerity.md)
+    - [`🧾_filling_the_transparency_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧾_filling_the_transparency_gap.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
@@ -2195,6 +2197,7 @@ _Generated on 2025-11-07 23:29:51 UTC_
     - [`🪞_erosion_of_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_erosion_of_duty_of_care.md)
     - [`🪞_ethical_censorship_continuum.md`](Polaris_Nest/Git_Intake_Drawer/🪞_ethical_censorship_continuum.md)
     - [`🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md`](Polaris_Nest/Git_Intake_Drawer/🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md)
+    - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
     - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
     - [`🪞_strong_women_apparently.md`](Polaris_Nest/Git_Intake_Drawer/🪞_strong_women_apparently.md)
