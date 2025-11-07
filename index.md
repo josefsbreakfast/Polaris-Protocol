@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 22:52:22 UTC_
+_Generated on 2025-11-07 22:53:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1005,6 +1005,7 @@ _Generated on 2025-11-07 22:52:22 UTC_
     - [`🎪_thanks_is_best_said_in_cash.PNG`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.PNG)
     - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.md)
     - [`🎪_transcript_unavailable_interference_dalle.png`](Disruption_Kit/Field_Logs/🎪_transcript_unavailable_interference_dalle.png)
+    - [`🎭_affective_redaction_as_containment.md`](Disruption_Kit/Field_Logs/🎭_affective_redaction_as_containment.md)
     - [`🏛️_academic_freedom_in_a_financialised_system.md`](Disruption_Kit/Field_Logs/🏛️_academic_freedom_in_a_financialised_system.md)
     - [`🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md`](Disruption_Kit/Field_Logs/🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md)
     - [`🏛️_final_4_days_foia.md`](Disruption_Kit/Field_Logs/🏛️_final_4_days_foia.md)
