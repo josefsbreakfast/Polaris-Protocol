@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 11:21:35 UTC_
+_Generated on 2025-11-07 12:37:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1891,6 +1891,7 @@ _Generated on 2025-11-07 11:21:35 UTC_
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_the_state_that_cannot_sing.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_the_state_that_cannot_sing.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
+    - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
     - [`🎪_when_the_armour_cracks.md`](Polaris_Nest/Git_Intake_Drawer/🎪_when_the_armour_cracks.md)
     - [`🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md)
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
