@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 22:23:03 UTC_
+_Generated on 2025-11-07 22:37:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1070,6 +1070,7 @@ _Generated on 2025-11-07 22:23:03 UTC_
     - [`🔥_data_mafia_debrief.md`](Disruption_Kit/Field_Logs/🔥_data_mafia_debrief.md)
     - [`🔺_re_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Disruption_Kit/Field_Logs/🔺_re_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
     - [`🕳️_i_aint_saying_the_gc_are_goldiggers.md`](Disruption_Kit/Field_Logs/🕳️_i_aint_saying_the_gc_are_goldiggers.md)
+    - [`🕸️_shabbos.md`](Disruption_Kit/Field_Logs/🕸️_shabbos.md)
     - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/🖍_weirdest_yom_kippur.md)
     - [`🗂️_signature_silence_drift.md`](Disruption_Kit/Field_Logs/🗂️_signature_silence_drift.md)
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Disruption_Kit/Field_Logs/🗒️_being_cross_at_gung_ho_nudge.md)
