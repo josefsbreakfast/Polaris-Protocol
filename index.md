@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 15:04:12 UTC_
+_Generated on 2025-11-07 20:03:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1846,9 +1846,15 @@ _Generated on 2025-11-07 15:04:12 UTC_
       - [`🧿_dependancy_on_western_definitions.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
       - [`🧿_jewish_nationalisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md)
       - [`🧿_moda_grants.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_moda_grants.md)
+    - [`Baseline (no suppression, no reciprocity).png`](Polaris_Nest/Git_Intake_Drawer/Baseline (no suppression, no reciprocity).png)
+    - [`Deliberate small suppression -> later release + reciprocity (blowback).png`](Polaris_Nest/Git_Intake_Drawer/Deliberate small suppression -> later release + reciprocity (blowback).png)
+    - [`Final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/Final_influence_comparisons.csv)
     - [`IMG_2864.png`](Polaris_Nest/Git_Intake_Drawer/IMG_2864.png)
+    - [`Last_8_timesteps__full_sim_.csv`](Polaris_Nest/Git_Intake_Drawer/Last_8_timesteps__full_sim_.csv)
+    - [`Numeric_summary__Target_blowback_metrics_.csv`](Polaris_Nest/Git_Intake_Drawer/Numeric_summary__Target_blowback_metrics_.csv)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
+    - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
     - [`⚖️_accountability_as_alignment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_accountability_as_alignment.md)
     - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_citizen_recourse_private_surveillance_uk.md)
     - [`⚖️_differential_proportionality.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_differential_proportionality.md)
@@ -2077,6 +2083,7 @@ _Generated on 2025-11-07 15:04:12 UTC_
     - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_device_integrity_and_anti_jailbreak_logic.md)
     - [`🧩_existential_threat_response_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧩_existential_threat_response_loop.md)
     - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Polaris_Nest/Git_Intake_Drawer/🧩_from_diffusion_to_forum_cross_pollination.md)
+    - [`🧩_health_prevent_ct_data_interlock.md`](Polaris_Nest/Git_Intake_Drawer/🧩_health_prevent_ct_data_interlock.md)
     - [`🧩_ideal_whitehall_response_sequence.md`](Polaris_Nest/Git_Intake_Drawer/🧩_ideal_whitehall_response_sequence.md)
     - [`🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md`](Polaris_Nest/Git_Intake_Drawer/🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md)
     - [`🧩_meta_containment_and_exploited_breakpoints.md`](Polaris_Nest/Git_Intake_Drawer/🧩_meta_containment_and_exploited_breakpoints.md)
@@ -2104,6 +2111,7 @@ _Generated on 2025-11-07 15:04:12 UTC_
     - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
     - [`🧬_transparency_as_antigenic_defense.md`](Polaris_Nest/Git_Intake_Drawer/🧬_transparency_as_antigenic_defense.md)
     - [`🧬_voice_model_capture_risks.md`](Polaris_Nest/Git_Intake_Drawer/🧬_voice_model_capture_risks.md)
+    - [`🧭_political_mapping_two_axis_model.md`](Polaris_Nest/Git_Intake_Drawer/🧭_political_mapping_two_axis_model.md)
     - [`🧭_regulating_the_regulators.md`](Polaris_Nest/Git_Intake_Drawer/🧭_regulating_the_regulators.md)
     - [`🧭_signal_alignment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_signal_alignment.md)
     - [`🧭_temporal_flattening_near_disclosure_deadlines.md`](Polaris_Nest/Git_Intake_Drawer/🧭_temporal_flattening_near_disclosure_deadlines.md)
