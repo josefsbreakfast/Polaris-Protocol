@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 20:15:43 UTC_
+_Generated on 2025-11-07 20:23:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1853,8 +1853,16 @@ _Generated on 2025-11-07 20:15:43 UTC_
     - [`Last_8_timesteps__full_sim_.csv`](Polaris_Nest/Git_Intake_Drawer/Last_8_timesteps__full_sim_.csv)
     - [`Numeric_summary__Target_blowback_metrics_.csv`](Polaris_Nest/Git_Intake_Drawer/Numeric_summary__Target_blowback_metrics_.csv)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
+    - [`contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/contingent_conservatism_and_long_horizon_politics.md)
+    - [`cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/cross_domain_visibility_systems_diagram.md)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
+    - [`marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/marriage_as_state_containment_trope.md)
+    - [`operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/operant_conditioning_the_algorithm.md)
+    - [`political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/political_metadata_and_the_problem_of_dynamic_identity.md)
+    - [`political_time_orientations_utopia_present_journey.md`](Polaris_Nest/Git_Intake_Drawer/political_time_orientations_utopia_present_journey.md)
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
+    - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
+    - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚓_sea_org_as_containment_prototype.md`](Polaris_Nest/Git_Intake_Drawer/⚓_sea_org_as_containment_prototype.md)
     - [`⚖️_accountability_as_alignment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_accountability_as_alignment.md)
     - [`⚖️_architecture_of_complicity_when_justice_stops_at_the_dock.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_architecture_of_complicity_when_justice_stops_at_the_dock.md)
