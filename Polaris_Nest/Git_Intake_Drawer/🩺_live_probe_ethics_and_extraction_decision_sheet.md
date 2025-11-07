@@ -45,4 +45,4 @@ Physical threats; doxxing; acute mental‑health risk; credential theft; attacke
 ## ✨ Stardust  
 duty of care, informed consent, ephemeral telemetry, oversight renewal, extraction planning  
 
-*Last updated 2025-10-13 | Ethics first, data second.*
+*Last updated 2025-11-06 | Ethics first, data second.*
