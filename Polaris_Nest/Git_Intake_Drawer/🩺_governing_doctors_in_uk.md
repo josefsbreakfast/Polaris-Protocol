@@ -1,5 +1,5 @@
 # 🩺 Governing Doctors in the UK  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-26 | **Last updated:** 2025-11-06  
 *Mapping the statutory, professional, and covert architectures that regulate medical authority in Britain.*
 
 ---
@@ -31,7 +31,7 @@ Explores how moral, political, and algorithmic oversight reshape professional ju
 
 ---
 
-## 🧩 Draft Sections  
+## ✨ Draft Sections  
 
 ### I. The Architecture of Medical Authority  
 Origins of licensing and the social contract of the profession.  
@@ -129,14 +129,15 @@ medical regulation, GMC, CQC, NHS England, Prevent, safeguarding, algorithmic ov
 
 ## 🏮 Footer  
 
-*Governing Doctors in the UK* is a living node of the Polaris Protocol.  
+*🩺 Governing Doctors in the UK* is a living node of the Polaris Protocol.  
 It documents how professional medicine is governed through interlocking legal, bureaucratic, and data architectures, tracing the GMC’s transformation from self-regulating body to managed regulator.  
 
-> 📡 Cross-references:  
-> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/) — coercion and clinical governance  
-> - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/) — oversight of oversight  
-> - [⚖️ Legal & State Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/) — statutory frameworks and delegation  
+> 📡 Cross-references:
+> 
+> - [🐦‍🔥 Trauma Psychology & Medical Misuse]() — *coercion and clinical governance*  
+> - [🧿 Watch the Watchers]() — *oversight of oversight*  
+> - [⚖️ Legal & State Governance]() — *statutory frameworks and delegation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-11-06_
