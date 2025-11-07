@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 21:09:23 UTC_
+_Generated on 2025-11-07 21:13:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1886,6 +1886,7 @@ _Generated on 2025-11-07 21:09:23 UTC_
     - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
     - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
     - [`⚖️_triangle_of_accountability_gaps.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_triangle_of_accountability_gaps.md)
+    - [`⚗️_data_contamination_chain.md`](Polaris_Nest/Git_Intake_Drawer/⚗️_data_contamination_chain.md)
     - [`⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md)
     - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
     - [`⚙️_friction_minimisation_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_friction_minimisation_logic.md)
