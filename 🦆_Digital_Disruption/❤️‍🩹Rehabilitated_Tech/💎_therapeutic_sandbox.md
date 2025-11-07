@@ -56,6 +56,63 @@ Allows practice in:
 - Assertiveness training in occupational therapy.  
 - Educational tools for teaching consent and emotional literacy.
 
+## 🧭 MIRMET Diagrams — Therapeutic Sandbox System  
+
+### 1️⃣ System Architecture Loop  
+
+```mermaid
+graph TD
+A[Survivor Interface / Sandbox Layer] --> B[Dialogue Engine (AI Core)]
+B --> C[Safety Gate / Boundary Recognition]
+C --> D[Clinical Supervision Console]
+D --> E[Audit & Reinforcement Logs]
+E --> F[Ethical Oversight + Safety Review]
+F --> A
+
+subgraph Core_Sandbox
+A
+B
+C
+end
+
+subgraph Supervision_Layer
+D
+E
+F
+end
+```
+
+### Explanation
+
+The sandbox layer is self-contained. All user interactions route through the Boundary Recognition and Safety Gate before being visible to the clinician dashboard.
+Every session produces a transparent audit trail, reviewed in the Ethical Oversight stage before model updates.
+No external API calls or networked data exports permitted.
+
+### 2️⃣ Therapeutic Interaction Loop
+
+```
+graph LR
+S[Survivor] -->|Engages in Scenario| AI[AI Facilitator]
+AI -->|Guided Reflection| C[Clinician / Supervisor]
+C -->|Adjusts Parameters| AI
+AI -->|Models Healthy Boundaries| S
+S -->|Practises Assertive Response| AI
+C -->|Monitors Emotional Regulation| S
+```
+
+### Explanation  
+
+The survivor engages the AI facilitator within a clinically bounded simulation.
+The clinician moderates tone, content, and pacing; the model adjusts responses to reinforce safety and assertiveness.
+Feedback is iterative — practice, reflect, regulate, repeat.  
+
+### Diagram Legend  
+
+🩺 Clinician layer — oversight, adjustment, safety.
+💬 AI layer — simulation and feedback generation.
+🌿 Survivor layer — experiential learning, self-trust, and boundary rehearsal.
+
+
 ---
 
 ## 🌌 Constellations  
