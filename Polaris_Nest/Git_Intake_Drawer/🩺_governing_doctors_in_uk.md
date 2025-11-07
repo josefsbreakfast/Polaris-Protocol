@@ -1,5 +1,5 @@
 # 🩺 Governing Doctors in the UK  
-**First created:** 2025-10-26 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-26 | **Last updated:** 2025-11-07  
 *Mapping the statutory, professional, and covert architectures that regulate medical authority in Britain.*
 
 ---
@@ -140,4 +140,4 @@ It documents how professional medicine is governed through interlocking legal, b
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-07_
