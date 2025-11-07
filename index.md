@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 22:53:11 UTC_
+_Generated on 2025-11-07 23:23:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1009,6 +1009,7 @@ _Generated on 2025-11-07 22:53:11 UTC_
     - [`🏛️_academic_freedom_in_a_financialised_system.md`](Disruption_Kit/Field_Logs/🏛️_academic_freedom_in_a_financialised_system.md)
     - [`🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md`](Disruption_Kit/Field_Logs/🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md)
     - [`🏛️_final_4_days_foia.md`](Disruption_Kit/Field_Logs/🏛️_final_4_days_foia.md)
+    - [`🏛️_uon_israel_security_open_source_gap_map.md`](Disruption_Kit/Field_Logs/🏛️_uon_israel_security_open_source_gap_map.md)
     - [`🏛️🪄🔥.md`](Disruption_Kit/Field_Logs/🏛️🪄🔥.md)
     - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
     - [`🐉_please_stamp_my_visa.md`](Disruption_Kit/Field_Logs/🐉_please_stamp_my_visa.md)
@@ -1073,6 +1074,7 @@ _Generated on 2025-11-07 22:53:11 UTC_
     - [`🔺_re_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Disruption_Kit/Field_Logs/🔺_re_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
     - [`🕳️_foi_containment_boundaries_nottingham_case.md`](Disruption_Kit/Field_Logs/🕳️_foi_containment_boundaries_nottingham_case.md)
     - [`🕳️_i_aint_saying_the_gc_are_goldiggers.md`](Disruption_Kit/Field_Logs/🕳️_i_aint_saying_the_gc_are_goldiggers.md)
+    - [`🕸️_rights_lab_ingenuity_centre_imh_bridging_map.md`](Disruption_Kit/Field_Logs/🕸️_rights_lab_ingenuity_centre_imh_bridging_map.md)
     - [`🕸️_shabbos.md`](Disruption_Kit/Field_Logs/🕸️_shabbos.md)
     - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/🖍_weirdest_yom_kippur.md)
     - [`🗂️_signature_silence_drift.md`](Disruption_Kit/Field_Logs/🗂️_signature_silence_drift.md)
@@ -1314,6 +1316,7 @@ _Generated on 2025-11-07 22:53:11 UTC_
     - [`🧬_mrna_but_make_it_auditing_the_men.md`](Disruption_Kit/Field_Logs/🧬_mrna_but_make_it_auditing_the_men.md)
     - [`🧬_when_you_get_twinned_to_the_nest_eggs.PNG`](Disruption_Kit/Field_Logs/🧬_when_you_get_twinned_to_the_nest_eggs.PNG)
     - [`🧭_attractor_map_suppression_contract.md`](Disruption_Kit/Field_Logs/🧭_attractor_map_suppression_contract.md)
+    - [`🧭_redacted_mid_england_civic_cohesion_overlay.md`](Disruption_Kit/Field_Logs/🧭_redacted_mid_england_civic_cohesion_overlay.md)
     - [`🧮_7_day_word_count_analysis.md`](Disruption_Kit/Field_Logs/🧮_7_day_word_count_analysis.md)
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
