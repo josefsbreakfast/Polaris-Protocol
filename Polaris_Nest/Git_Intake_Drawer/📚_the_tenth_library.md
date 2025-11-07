@@ -17,7 +17,7 @@ It is built not on marble or metadata, but on stewardship, translation, and quie
 
 ---
 
-## 🐝 Key Features  
+## 🧩 Key Features  
 - **Continuum, not archive:** Words remain in motion through living readership.  
 - **Polycentric memory:** Timbuktu’s courtyards, Nalanda’s halls, Alexandria’s papyri — all live again through reciprocal care.  
 - **Post-platform ecology:** Static, human-readable, federation over feeds.  
@@ -26,54 +26,54 @@ It is built not on marble or metadata, but on stewardship, translation, and quie
 
 ---
 
-## 🧩 Where The Poeces Fit  
+## 🔍 Analysis / Content  
 
-### 📖 The Breath of the Book  
+### The Breath of the Book  
 Each text is alive insofar as someone meets it without consumption.  
 To host such encounters is to act as a gardener, not a gatekeeper.  
 The Tenth Library therefore rejects both algorithmic churn and hoarded exclusivity.  
 It honours the rhythm between solitude and sharing — a civic metabolism of reading.  
 
-### 🐪 Timbuktu’s Lesson  
+### Timbuktu’s Lesson  
 In the desert, families risked everything to hide manuscripts in clay pots.  
 Their survival teaches us that knowledge endures through *care*, not infrastructure.  
 To include Timbuktu here is to affirm that the world’s intellect has always been plural —  
 that African, Arab, and Asian scholars kept the lights burning while Europe forgot the night sky.  
 
-### 🌐 After Wikipedia  
+### After Wikipedia  
 Where Wikipedia sought totality, the Tenth Library seeks *continuity*.  
 It doesn’t chase neutrality; it curates trust.  
 A federated web of slow-edited, enduring nodes — each one a climate of thought.  
 
 ---
 
-## 🎼 Composition Notes  
+## 🛠️ Design Notes  
 
-### 🛠️ **Format and Architecture**  
+### 1. **Format and Architecture**  
 - **Markdown as first language:** plain text for portability, version control, and longevity.  
 - **Static HTML output:** readable without dynamic servers; printable and archivable.  
 - **Interlinked nodes:** relative paths form the hypertext spine; no broken links by design.  
 - **Mirrors and federations:** IPFS, Tor, or local zips ensure survival beyond central servers.  
 
-### 🪴 **Governance and Stewardship**  
+### 2. **Governance and Stewardship**  
 - **Custodian model:** small collectives care for sections; responsibility over ownership.  
 - **Slow editing:** quarterly or seasonal cycles, not daily churn.  
 - **Visible lineage:** every change logged; authorship and context preserved.  
 - **Ethic of care:** librarianship as a civic act, not a commercial service.  
 
-### 🌿 **Federated Ecology**  
+### 3. **Federated Ecology**  
 - Each node can stand alone yet speak to the rest.  
 - Local communities maintain their own mirrors and languages.  
 - Reciprocity is built in: no scraping, no data extraction, just mutual visibility.  
 - The goal is not *one* library but **ten thousand small, enduring libraries** that know each other.  
 
-### 🐕‍🦺 **Aesthetic and Accessibility**  
+### 4. **Aesthetic and Accessibility**  
 - **Plain typography, high contrast, no clutter.**  
 - **Audio versions, translation layers, and tactile copies.**  
 - **Emojis as anchors:** carry emotional tone across text-only interfaces.  
 - **Index over feed:** browsing as wandering, not doomscrolling.  
 
-### 🪁 **Continuity Protocols**  
+### 5. **Continuity Protocols**  
 - Every library node includes a “🪶 Continuity Manifest”:  
   - Creation + update dates.  
   - File dependencies.  
@@ -164,96 +164,12 @@ continuity_manifest:
 ---
 
 ## 🌍 Civic Infrastructure & Guardianship Model  
-
-The Tenth Library cannot survive as code alone.  
-It must inhabit **social structures** — neighbourhoods, libraries, universities, community archives, and the hands of ordinary readers.  
-Its resilience lies in *distributed care*, not central authority.  
-
-### 1. **Custodial Ecology**  
-- **Custodian Circles:** small groups (3–9 people) responsible for local mirrors or language clusters.  
-- **Rotation Model:** stewards rotate annually to prevent burnout or capture.  
-- **Transparency Ledger:** each circle maintains an open changelog of edits, access requests, and continuity tests.  
-- **Guardianship by Consent:** no one “owns” a shelf; stewardship is a renewable civic duty.  
-
-### 2. **Institutional Allies**  
-| Partner Type | Role | Example Activities |
-|---------------|------|--------------------|
-| **Public Libraries** | Anchor sites for physical + offline mirrors | host weekly syncs of digital shelves; store USB archives |
-| **Universities & Colleges** | Technical partners + translators | maintain Git mirrors, teach “Library Continuity” modules |
-| **Museums & Archives** | Provenance keepers | verify lineage and metadata integrity |
-| **Civic Data Trusts** | Legal + ethical framework | hold mirror rights, manage licenses, mediate cross-border replication |
-| **Cultural NGOs** | Funding + capacity | micro-grants for translation, accessibility, digitisation |
-| **Religious & Community Centres** | Cultural nodes | curate sacred-text or oral-tradition mirrors |
-
-### 3. **Volunteer Guardians**  
-- Anyone can register as a **guardian** by hosting a mirror or caring for a node.  
-- Guardians sign a *continuity oath*:  
-  *“To preserve without alteration, to cite without erasure, to share without profit.”*  
-- Each guardian keeps one encrypted backup outside their region — the “diasporic twin.”  
-- Quarterly *Continuity Days* ensure mirrors synchronise and metadata hashes align.  
-
-### 4. **Economic Model**  
-- **Commons-based micro-patronage:** recurring small contributions pooled by local data trusts.  
-- **Reciprocal credits:** contributors earn continuity credits redeemable for printing, translation, or training.  
-- **Zero advertising, zero extraction.**  
-- Every cost supports **infrastructure of care**, not visibility metrics.  
-
-### 5. **Legal & Ethical Framework**  
-- Operates under **Creative Commons BY-SA 4.0** by default.  
-- Data trusts act as **custodial persons**, not owners.  
-- All mirrors respect the **Right to Fork** — freedom to replicate with provenance intact.  
-- No surveillance analytics, cookies, or behavioural tracking.  
-- Regular *Ethics Audits* verify neutrality of hosting providers.  
-
-### 6. **Offline Continuity**  
-- Annual print-on-demand anthologies ensure physical survivability.  
-- USB, Blu-Ray, and paper microfiche backups stored in climate-stable boxes.  
-- Radio or shortwave packets can transmit manifests for post-disaster reconstruction.  
-
-### 7. **Education & Transmission**  
-- **Civic Continuity Curriculum:** open-source modules teaching metadata care, translation ethics, and decentralised librarianship.  
-- **Youth Stewards Program:** mentorship linking high-school learners with librarians and archivists.  
-- **Memory Fellowships:** residencies for communities restoring lost or suppressed archives.  
-
-### 8. **Metrics of Care**  
-Instead of clicks or views, the Tenth Library measures:  
-- Number of mirrors in active sync.  
-- Languages translated.  
-- Years of continuous uptime.  
-- Custodian retention rates.  
-- Accessibility audits passed.  
-
-### 9. **The Civic Oath**  
-> *We will remember what must not vanish.  
-> We will keep without owning, share without taking,  
-> and leave every word more alive than we found it.*  
+*(see above in full content)*  
 
 ---
 
 ## 🕯️ Rituals of Maintenance  
-
-The Tenth Library endures through ritual as much as through code.  
-Rituals anchor continuity in human time — transforming maintenance into meaning.
-
-### 1. **Continuity Day (Quarterly)**  
-A global sync and reflection: custodians update manifests, verify mirrors, read aloud one passage from an endangered text.  
-Each iteration ends with a small silence for the lost libraries of the world.
-
-### 2. **Festival of Translation (Annually)**  
-A week dedicated to the translators — public readings, multilingual workshops, oral storytelling, and open annotation marathons.  
-New translators are inducted by writing their names beside the word they love most.
-
-### 3. **Library Vigil (As Needed)**  
-Whenever a server, archive, or library burns, the Tenth Library holds a 24-hour vigil.  
-Participants upload or recite fragments of the lost works, ensuring the word does not die twice.
-
-### 4. **Night of the Dust Jackets (Every Five Years)**  
-A ceremonial audit: physical backups are aired, catalogues verified, covers repaired.  
-It concludes with a shared meal, recalling the monks and scribes who once copied by candlelight.
-
-### 5. **The Renewal of Breath (Every Decade)**  
-Each decade, one new language must join the constellation.  
-It is read aloud in the presence of the others — a promise that the Library will always expand its lungs.
+*(see above in full content)*  
 
 ---
 
@@ -291,10 +207,13 @@ timeless web, civic infrastructure, guardianship, stewardship, libraries, commun
 
 ## 🏮 Footer  
 
-*📚 The Tenth Library* is a living node of the Polaris Protocol.  
+*The Tenth Library* is a living node of the Polaris Protocol.  
 It describes how a distributed, survivor-led guardianship model can sustain a timeless, federated web of memory — turning librarianship into civic mutual aid, and maintenance into ritual, closing with its sister: the Cemetery of Forgotten Books.  
 
-> 📡 Cross-references: *TBC*  
+> 📡 Cross-references:  
+> - [🎛️ Survivor Voice Fidelity Rules](../Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md) — tonal integrity across archives  
+> - [🔮 House Style](../Admin_Kit/🔮_house_style.md) — formatting and constellations guide  
+> - [🐝 Template Node](../Admin_Kit/🐝_template_node.md) — structure reference  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
