@@ -62,7 +62,7 @@ Allows practice in:
 
 ```mermaid
 graph TD
-A[Survivor Interface / Sandbox Layer] --> B[Dialogue Engine (AI Core)]
+A[Survivor Interface / Sandbox Layer] --> B[Dialogue Engine / AI Core]
 B --> C[Safety Gate / Boundary Recognition]
 C --> D[Clinical Supervision Console]
 D --> E[Audit & Reinforcement Logs]
@@ -90,7 +90,7 @@ No external API calls or networked data exports permitted.
 
 ### 2️⃣ Therapeutic Interaction Loop
 
-```
+```mermaid
 graph LR
 S[Survivor] -->|Engages in Scenario| AI[AI Facilitator]
 AI -->|Guided Reflection| C[Clinician / Supervisor]
