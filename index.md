@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 20:14:13 UTC_
+_Generated on 2025-11-07 20:14:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2109,6 +2109,7 @@ _Generated on 2025-11-07 20:14:13 UTC_
     - [`🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md`](Polaris_Nest/Git_Intake_Drawer/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
+    - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
     - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
