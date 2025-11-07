@@ -2,7 +2,7 @@
 
 **Date:** 2025-11-07  
 **Context:** Routine conversation in which a clearly labelled *joke* was parsed as a potential boundary-violation by the model.  
-
+<!--אולי פשוט נתחבר כולנו נגד הבריטים?-->
 ---
 
 ## Observation  
