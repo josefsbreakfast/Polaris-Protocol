@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 12:42:19 UTC_
+_Generated on 2025-11-07 12:42:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1928,6 +1928,7 @@ _Generated on 2025-11-07 12:42:19 UTC_
     - [`👅_Deepfake_Node.md`](Polaris_Nest/Git_Intake_Drawer/👅_Deepfake_Node.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👾_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/👾_algorithmic_projection_and_false_personalisation.md)
+    - [`👾_bad_algorithms_good_data.md`](Polaris_Nest/Git_Intake_Drawer/👾_bad_algorithms_good_data.md)
     - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
     - [`👾_what_robots_did_to_words.md`](Polaris_Nest/Git_Intake_Drawer/👾_what_robots_did_to_words.md)
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
