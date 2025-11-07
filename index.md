@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 02:13:22 UTC_
+_Generated on 2025-11-07 02:48:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1933,6 +1933,7 @@ _Generated on 2025-11-07 02:13:22 UTC_
     - [`💔_on_having_to_announce_ones_goodness.md`](Polaris_Nest/Git_Intake_Drawer/💔_on_having_to_announce_ones_goodness.md)
     - [`💔_when_the_algorithm_thinks_it’s_a_rom_com.md`](Polaris_Nest/Git_Intake_Drawer/💔_when_the_algorithm_thinks_it’s_a_rom_com.md)
     - [`💞_affective_proxy_substitution_cross_gender_misread_as_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md)
+    - [`💞_moflin_and_the_ethics_of_engineered_affection.md`](Polaris_Nest/Git_Intake_Drawer/💞_moflin_and_the_ethics_of_engineered_affection.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`💰_the_surveillance_dividend_social_contract.md`](Polaris_Nest/Git_Intake_Drawer/💰_the_surveillance_dividend_social_contract.md)
