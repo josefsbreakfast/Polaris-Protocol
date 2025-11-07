@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 22:37:55 UTC_
+_Generated on 2025-11-07 22:47:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1299,6 +1299,7 @@ _Generated on 2025-11-07 22:37:55 UTC_
     - [`🧄_superinjunction_or_jailbreak_lets_play_5.PNG`](Disruption_Kit/Field_Logs/🧄_superinjunction_or_jailbreak_lets_play_5.PNG)
     - [`🧄_the_funniest_thing_is_the_telling_on_oneself.md`](Disruption_Kit/Field_Logs/🧄_the_funniest_thing_is_the_telling_on_oneself.md)
     - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🧠_hybrid_motive_hypothesis_2025-09-20.md)
+    - [`🧠_mirror_effect_as_population_affect.md`](Disruption_Kit/Field_Logs/🧠_mirror_effect_as_population_affect.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Disruption_Kit/Field_Logs/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧫_is_this_your_drug_allergy.md`](Disruption_Kit/Field_Logs/🧫_is_this_your_drug_allergy.md)
