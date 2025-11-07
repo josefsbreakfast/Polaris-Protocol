@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 20:14:57 UTC_
+_Generated on 2025-11-07 20:15:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2178,6 +2178,7 @@ _Generated on 2025-11-07 20:14:57 UTC_
     - [`🪞_twin_narrative_distortion_loop.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twin_narrative_distortion_loop.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪦_mass_funeral_as_information_control.md`](Polaris_Nest/Git_Intake_Drawer/🪦_mass_funeral_as_information_control.md)
+    - [`🪧_radical_and_respectable_the_dual_engine_of_reform.md`](Polaris_Nest/Git_Intake_Drawer/🪧_radical_and_respectable_the_dual_engine_of_reform.md)
     - [`🪩_algorithmic_female_dominance_aura.md`](Polaris_Nest/Git_Intake_Drawer/🪩_algorithmic_female_dominance_aura.md)
     - [`🪩_no_fap_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🪩_no_fap_fascism.md)
     - [`🪶_descent_map_academic_surveillance_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_academic_surveillance_drift.md)
