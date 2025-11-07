@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 12:44:27 UTC_
+_Generated on 2025-11-07 12:47:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2147,6 +2147,7 @@ _Generated on 2025-11-07 12:44:27 UTC_
     - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
     - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
     - [`🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md`](Polaris_Nest/Git_Intake_Drawer/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md)
+    - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪞_the_university_as_he.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_university_as_he.md)
     - [`🪞_twin_narrative_distortion_loop.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twin_narrative_distortion_loop.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
