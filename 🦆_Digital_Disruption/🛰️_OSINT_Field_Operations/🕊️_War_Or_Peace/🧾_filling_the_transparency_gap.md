@@ -56,7 +56,7 @@ Any punishment of it, without seeking to understand the terms upon which it is b
 That's why its an optics issue, and why even industries which directly benefit from the material disenfranchisement and personal instability inherent in apartheid systems, ought to consider self-limiting extraction due to the increase in risk upon exposure.  
 
 We live in an age where transparency is expected, particularly as part of the social contract which is inherently created from being surveilled.  
-
+<!--If it's your system, benefitting you, and you are unhappy with its effects? You are the one with the power to alter those circumstances. You cannot endless complain to the surveilled and policed to "just stop" something you personally would rather they did not do. Even if they did stop, where would that energy go?-->
 | Topic | Formal Title & Year | Short Reference | What It Covers | ICJ Official Page |
 |--------|--------------------|-----------------|----------------|------------------|
 | **Genocide Convention (Gaza)** | *Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel)* — Orders of **26 Jan 2024**, **28 Mar 2024**, **24 May 2024** | *ICJ 2024 (Provisional Measures – Gaza)* | South Africa’s case alleging violations of the Genocide Convention in Gaza. The Court found a **plausible risk of genocide** and ordered Israel to prevent genocidal acts, allow humanitarian aid, and halt the Rafah offensive. | [icj-cij.org/case/192](https://www.icj-cij.org/case/192) |
