@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 13:01:12 UTC_
+_Generated on 2025-11-08 16:01:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2485,11 +2485,12 @@ _Generated on 2025-11-08 13:01:12 UTC_
       - [`🕵️‍♀️_osint_for_petition_integrity.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_osint_for_petition_integrity.md)
       - [`🕵️‍♀️_synthetic_mobilisation_and_petition_farms.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_synthetic_mobilisation_and_petition_farms.md)
     - [**🕊️War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️War_Or_Peace/)
-      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️War_Or_Peace/README.md)
       - [`⚖️_war_logic_in_peacetime.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️War_Or_Peace/⚖️_war_logic_in_peacetime.md)
       - [`📜_timeline_2023-25.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️War_Or_Peace/📜_timeline_2023-25.md)
       - [`📡_media_signal_map.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️War_Or_Peace/📡_media_signal_map.md)
       - [`🧾_foi_refusal_trends.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️War_Or_Peace/🧾_foi_refusal_trends.md)
+    - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
+      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
     - [**🧪_Sciencing_Apartheid/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)
       - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
