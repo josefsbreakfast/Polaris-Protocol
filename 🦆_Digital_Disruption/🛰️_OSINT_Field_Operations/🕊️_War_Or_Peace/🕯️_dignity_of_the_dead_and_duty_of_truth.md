@@ -63,7 +63,22 @@ It argues that **truth-telling is part of burial**, and that concealment or inst
 >Don't you think it's time to change that?  
 >Don't you think it is we who may need to change?  
 >
->“I like your Christ, I do not like your Christians. Your Christians are so unlike your Christ.”  
+>“I like your Christ, I do not like your Christians. Your Christians are so unlike your Christ.”
+>
+>If we wish to change,
+>Perhaps the first place?
+>Would be to honour,
+>In real terms,
+>The grief and mourning of people we live alongside
+>And the respectful burial of their, our, dead.
+>
+>Community starts with life and with death,  
+>In syncrony,  
+>And if you want to bond?  
+>Being present when someone is faced with the loss of a universe,  
+>The loss of a Divine Spark?  
+>
+>That is a pretty good start.  
 
 ---
 
