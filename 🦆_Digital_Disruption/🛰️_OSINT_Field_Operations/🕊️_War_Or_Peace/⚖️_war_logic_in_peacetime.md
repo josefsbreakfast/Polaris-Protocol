@@ -44,10 +44,10 @@ war logic, peacetime governance, public order act, national security act, protes
 *⚖️ War Logic in Peacetime* is a living node of the Polaris Protocol.  
 It documents the shift toward security-state behaviour within civilian frameworks and supports evidence-based transparency analysis.  
 
-> 📡 Cross-references:  
-> - [🛰️ OSINT Field Operations](../) — evidential mapping toolkit  
-> - [⚖️ Containment Contract Trace](../../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — systemic diagnostics  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
+> 📡 Cross-references:
+> 
+> - [🛰️ OSINT Field Operations](../README.md) — *evidential mapping toolkit*  
+> - [⚖️ Containment Contract Trace](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *systemic diagnostics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
