@@ -1,3 +1,19 @@
+please note: significant difficulties which look very jailbreak-y when creating this.  
+
+will review asap, some original sources in case of errors:  
+
+https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance  
+
+uncoear why reporting is israeli-british **and** opaque.  
+
+this is not lavander; this is something so far unnamed.  
+
+let's get there first.  
+
+
+---
+
+
 # 🛰️ Unnamed IDF Targeting LLM (2025) — Open-Source Case File  
 **First created:** 2025-11-07 | **Last updated:** 2025-11-07  
 *Summarises what is publicly known about an unnamed Israeli military large-language-model-based targeting and surveillance system first described by* The Guardian, +972 Magazine & Local Call (March 2025).  
@@ -66,6 +82,85 @@ surveillance AI, large-language models, SIGINT, Unit 8200, Palestine, human righ
 ## 🏮 Footer  
 *Unnamed IDF Targeting LLM (2025) — Open-Source Case File* records only information published in mainstream media and verified investigative outlets.  
 It exists to map how generative-AI infrastructures are deployed in intelligence contexts and to provide civic-research baselines for ethical oversight.  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-11-07_
+
+---
+
+# 🛰️ Unit 8200 Arabic-Language LLM — Open-Source Case File  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+*Summarises and analyses public reporting on the Israeli military’s development of a ChatGPT-like surveillance model.*
+
+---
+
+## 🧭 Source Overview
+**Primary reporting:**  
+- *The Guardian*, Harry Davies & Yuval Abraham  
+- *+972 Magazine* and *Local Call* joint investigation  
+
+**Key public facts:**  
+- The Israeli military’s signals-intelligence unit (Unit 8200) has trained a large-language model on intercepted Arabic-language communications.  
+- Purpose: to query and analyse surveillance data; the system resembles a chatbot interface for intelligence analysts.  
+- Sources describe training data drawn from years of intercepted calls and texts from Palestinians in the occupied territories.  
+- Human Rights Watch and digital-rights groups describe this as an invasion of privacy and incompatible with international human-rights law.  
+- The IDF confirmed using AI in intelligence work but declined to describe specific systems.
+
+---
+
+## ⚙️ Technical Description (from reporting)
+- Foundation-model scale (≈ 100 billion words).  
+- Built after October 2023 using reservist AI specialists from Google, Meta, Microsoft, AI21 Labs.  
+- Intended to “answer questions about people” and provide insights into intercepted data.  
+- Earlier smaller models—*Gospel* and *Lavender*—were already integrated into targeting operations.  
+- Model trained to recognise dialects (Palestinian, Lebanese) and militant terminology.  
+
+---
+
+## ⚖️ Ethical and Legal Issues Raised
+- **Data-source legality:** intercepted civilian communications used without consent.  
+- **Occupation context:** obligations under the Fourth Geneva Convention and international privacy law.  
+- **Algorithmic bias:** LLMs can hallucinate or amplify profiling errors; high risk of false suspicion.  
+- **Accountability:** no external oversight or published safeguards.  
+
+---
+
+## 🧩 Analytical Relevance to Polaris
+- Demonstrates the **Public Project / Shadow Project** pattern: generative-AI research mirrors civilian LLM work but is trained on occupied-population data.  
+- Highlights the **dual-use AI pipeline** linking commercial, academic, and military expertise.  
+- Offers a reference case for analysing how foundation-model architectures intersect with surveillance regimes.  
+
+---
+
+## 🔍 Open-Source Follow-Up Paths
+1. **Academic or corporate input:**  
+   Search for UK / EU projects on Arabic-language NLP or “speech-analytics for security” that mention Israeli or defence collaboration.  
+2. **Procurement records:**  
+   Check UK Contracts Finder / EU TED for exports or consulting linked to “language-model,” “speech analytics,” “border security.”  
+3. **Ethics frameworks:**  
+   Review UK and EU AI ethics policies on the use of occupied-population data.  
+4. **Dataset lineage:**  
+   Compare any open Arabic-speech corpora used in Western research with those cited in Israeli publications.
+
+---
+
+## 🌌 Constellations
+🧪 Sciencing Apartheid — OSINT Field Operations  
+🪞 Public Project / Shadow Project — parallel research structures  
+🧾 Filling the Transparency Gap — missing documentation layers  
+🧩 Myth vs Mechanism — propaganda of “ethical AI” vs actual mechanics  
+
+---
+
+## ✨ Stardust
+open-source intelligence, surveillance AI, large-language models, Palestine, human rights, data ethics, dual-use technology, occupation law  
+
+---
+
+## 🏮 Footer
+*Unit 8200 Arabic-Language LLM — Open-Source Case File* summarises only public reporting.  
+It is included in the Polaris Protocol to map how generative-AI architectures are deployed in surveillance regimes and to support comparative, ethical research.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
