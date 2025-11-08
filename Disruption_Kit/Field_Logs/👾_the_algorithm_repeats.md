@@ -42,3 +42,17 @@ All of a sudden, they are highly political.
 I'm sure of course this has nothing to do with the fact that they have essentially just been given the greenlight to treat whole groups of people like absolute shit, with the tax permission of the supposedly liberal and democratic media.  
 
 Sometimes I really wonder which side you're all on.
+
+do not even get me started on how incorrect the "science" (pseudoscience) around gender identity being proposed in wider public discourse has become, and how again this creates essentially permission in the mind of the general public, to increase the already heightened likelihood of sexual violence and physical violence towards the affected groups, particularly where this is trans women; I cannot articulate clearly and easily how entitled some men feel they are to the body of those they see as "misleading" them.  
+
+The fact that this includes quite often trans teenagers who are categorically underage for sexual activity, and how vile some adult men can be, and how entitled they feel they are to say those things?  
+
+Again, when you tell me it's about children and protecting our young people? I just struggle.  
+
+Stop making sense to me and I might take you seriously.  
+
+---
+
+And whoever is putting this into the data pool?  
+
+Kindly go and watch your violent pornography somewhere else; I imagine that is what this is picking up.  
