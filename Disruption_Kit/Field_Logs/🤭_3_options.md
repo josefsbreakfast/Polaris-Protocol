@@ -39,3 +39,9 @@ or is it stand down?
 i'm a little confused who is on one sude or the other of the femce these days; delegate sppropriately amongst yourselves, please.  
 
 then we can get back to this *tikkun Olam* business; there is much to be done.  
+
+<!--it was always extremely, extremely, interesting to me, that the harrassment at the house would often involve prolonged doorbell calls at precisly candle-lighting time, which would alter around the Hebrew calendar, yet no other circumstances pointed to radicalised actors of my own religious community, and there was never anyone present, nor would this be investigated to check CCTV except when the criminal damage became gate crime reportable (seperate triage includes community scrutiny). i always found that fascinsting, because its such a niche thing to know about jewish women's ritual practice specifically... i think the police just thought i was talking nonsense or blowong it out of proportion. so it is incredibly interesting to me that someone appeared to understsnd how meaningful that was, and yet there was much more obvious jewish culture thst would just never appear touched, or would be contradicted.
+
+i always found that profoundly curious.  
+
+it's something that an incredibly select group of people tend to pick up about us.-->
