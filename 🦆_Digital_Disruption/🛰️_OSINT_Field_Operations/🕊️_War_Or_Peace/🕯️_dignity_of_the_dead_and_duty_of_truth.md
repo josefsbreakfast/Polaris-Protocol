@@ -10,6 +10,61 @@ Across modern conflicts, the treatment of the dead and of their families becomes
 This node establishes a civic-ethical baseline drawn from Jewish, humanitarian, and international-law traditions.  
 It argues that **truth-telling is part of burial**, and that concealment or instrumentalisation of death corrodes democratic trust as surely as battlefield misconduct.
 
+>As a person, as a writer, as a Jew:  
+>I am deeply uncomfortable about the hnadling of the *met*.  
+>I grieve for every human life, even if there is an initial or secondary cognitive dissonance.  
+>One of the first things I was "picked up on for", was being equally enraged by circumstances of both people in and of Gaza, and people who are Israeli and present by hostage status or as soldiers.  
+>I have a significant amount of empathy to give, but I have to confess I give more room for grief to be expressed to people of Palestine or people who are looking at this thinking how little white systems value their bodies and their lives, because of what we are witness to.  
+>Sometimes I am misunderstood to care "less" about Jewish life - this is not the case.  
+>I am equally horrified by what the West has goaded people to do, not just as people who are Jews, but representing "the Jewish people".  
+>I used to keep diary entries in mhy Gmail,  
+>(until I realised what that was clearly feeding),  
+>and one can see from those entries:  
+>I am absolutely furious at people who claim to be representing "the safety of Jews",  
+>while not just stganding by, but worsening and encouraging the circumstances of occupation and escalation such that...  
+>Is this really "Jewish", what we are doing?  
+>Is this really for "our safety"?  
+>Might we want to pause a moment and ask ourselves?  
+>Or shall we just keep allowing white goyim to dictate our cruelty?  
+>A well-missed point about Shylock is that his violence is colonial mimickry,  
+>well before there was a recognisable term,  
+>he only seeks justice, and in "levelling the field",  
+>"The villainy you teach me, I will execute, and it shall go hard but I will better the instruction."  
+>This does not absolute us, either in community or as individuals,  
+>but it is worthy of note that we are encouraged to turn this violence away from,  
+>and onto another.  
+>Not to allow it to be directed as the roots of "antisemismus" (Jew-hating for well-to-do Europeans).  
+>And so we are wrapped in a cycle.  
+>And we are part of a plausible genoicide.  
+>Do we really hate Palestinians?  
+>Or do we hate the people who benefit the most  
+>From our being "the middlemen of Europe's modern earthly hell"?  
+>And where does hate get us?  
+>Because this does not look like freedom.  
+>This looks like being trapped.  
+>Suffocating in the death of others.  
+>And I don't know about you.  
+>But that, to me, is no reassurance of a "Promised Land".  
+>
+>It is important for my white family across the states who support this to know:  
+>This could have been us.  
+>What differences, really, are there?  
+>How would the pressures and the circumstances and the politics have kep each of us safe?  
+>From perpetrating a genocide onto "the Other"?  
+>
+>2024?  
+>That violence went international.  
+>It's a miracle the UK was domestically unaware.  
+>But the world saw it.  
+>Do you think, that everyone else thinks, that we are any different?  
+>We pride ourselves on the ruthless dispossession, looting, rape, and murder,  
+>Of land "upon which the sun never sets".  
+>
+>Don't you think it's time to change that?  
+>Don't you think it is we who may need to change?  
+>
+>“I like your Christ, I do not like your Christians. Your Christians are so unlike your Christ.”  
+
 ---
 
 ## 🕯️ 1.  Kavod ha-Met — Dignity of the Dead  
