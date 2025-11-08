@@ -33,7 +33,8 @@ media freedom, dsma notices, delist, censorship, takedown, cloudflare, osint, uk
 *📡 Media Signal Map* is a living node of the Polaris Protocol.  
 It traces information-control mechanisms across UK media infrastructure within the *War or Peace* cluster.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [⚖️ War Logic in Peacetime](./⚖️_war_logic_in_peacetime.md)  
 > - [🧾 FOI Refusal Trends](./🧾_foi_refusal_trends.md)
 
