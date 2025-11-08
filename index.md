@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 16:57:15 UTC_
+_Generated on 2025-11-08 17:03:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2050,7 +2050,6 @@ _Generated on 2025-11-08 16:57:15 UTC_
     - [`🕳️_the_shape_of_missing_historical_nodes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_shape_of_missing_historical_nodes.md)
     - [`🕳️_when_the_censor_is_a_contractor.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_when_the_censor_is_a_contractor.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
-    - [`🕵️‍♀️_osint_guide_checking_if_projects_are_community_led.md`](Polaris_Nest/Git_Intake_Drawer/🕵️‍♀️_osint_guide_checking_if_projects_are_community_led.md)
     - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
@@ -2502,6 +2501,7 @@ _Generated on 2025-11-08 16:57:15 UTC_
     - [`🧭_field_ethics_compass.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧭_field_ethics_compass.md)
     - [`🧰_open_source_toolkit_index.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧰_open_source_toolkit_index.md)
     - [`🧾_metadata_logging_standards.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧾_metadata_logging_standards.md)
+    - [`🧿_is_this_project_community_led.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧿_is_this_project_community_led.md)
     - [`🪞_observer_reflexivity_log.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪞_observer_reflexivity_log.md)
     - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
