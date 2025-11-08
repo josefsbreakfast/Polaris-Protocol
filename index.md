@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 17:26:47 UTC_
+_Generated on 2025-11-08 17:29:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -954,6 +954,7 @@ _Generated on 2025-11-08 17:26:47 UTC_
     - [`get_out_of_my_azure_ad.png`](Disruption_Kit/Field_Logs/get_out_of_my_azure_ad.png)
     - [`hillside_brightness_histogram.png`](Disruption_Kit/Field_Logs/hillside_brightness_histogram.png)
     - [`hillside_patch_grid.png`](Disruption_Kit/Field_Logs/hillside_patch_grid.png)
+    - [`i_remain_curious_of_who_precisely_gets_this_upset.png`](Disruption_Kit/Field_Logs/i_remain_curious_of_who_precisely_gets_this_upset.png)
     - [`it_was_too_funny_but_also_gtfo_my_azure_ad.png`](Disruption_Kit/Field_Logs/it_was_too_funny_but_also_gtfo_my_azure_ad.png)
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
