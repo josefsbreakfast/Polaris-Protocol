@@ -1,4 +1,4 @@
-# FOI Request Template — No 10 Vice-Chancellors’ Meeting (May 2024)  
+# 📃 FOI Request Template — No 10 Vice-Chancellors’ Meeting (May 2024)  
 **First created:** 2025-11-08  |  **Last updated:** 2025-11-08  
 *A public-records request template to clarify government–university coordination on protest management during Spring 2024.*
 
@@ -88,7 +88,7 @@ In the UK context, this has sometimes meant that **predominantly Jewish, Israeli
 This structure creates two overlapping problems:  
 
 1. **Delegated legitimacy:** public perception reads the NGO’s activity as government-endorsed policy, even when it operates independently;  
-2. **Transferred risk:** any backlash or controversy falls on the community organisation rather than on the state that designed the system.  
+2. **Transferred risk:** any backlash or controversy falls on the community organisation, or on the community who are presumed to be represented, rather than on the state that designed the system.  
 
 Such arrangements may unintentionally expose minority-community charities to **heightened scrutiny, hostility, or politicisation** for actions ultimately driven by government objectives.  
 A transparent separation of roles—defining what is governmental, what is charitable, and how the two interact—is essential to prevent civic harm and maintain trust.
