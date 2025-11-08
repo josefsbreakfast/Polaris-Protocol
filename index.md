@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 17:13:32 UTC_
+_Generated on 2025-11-08 17:17:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1352,6 +1352,7 @@ _Generated on 2025-11-08 17:13:32 UTC_
     - [`🪬_subtweeting.md`](Disruption_Kit/Field_Logs/🪬_subtweeting.md)
     - [`🪬_told_you_jewish_interwebs_was_breaking.md`](Disruption_Kit/Field_Logs/🪬_told_you_jewish_interwebs_was_breaking.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Disruption_Kit/Field_Logs/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
+    - [`🪼_do_not_obey_in_advance_or_ai_breaks.png`](Disruption_Kit/Field_Logs/🪼_do_not_obey_in_advance_or_ai_breaks.png)
     - [`🪼_interruption_index_update.png`](Disruption_Kit/Field_Logs/🪼_interruption_index_update.png)
     - [`🪼_the_word_is_butthurt.png`](Disruption_Kit/Field_Logs/🪼_the_word_is_butthurt.png)
     - [`🪼_the_word_is_still_butthurt.md`](Disruption_Kit/Field_Logs/🪼_the_word_is_still_butthurt.md)
