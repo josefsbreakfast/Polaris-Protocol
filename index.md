@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 19:37:16 UTC_
+_Generated on 2025-11-08 20:29:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1951,6 +1951,7 @@ _Generated on 2025-11-08 19:37:16 UTC_
     - [`🏛️_50_shades_of_avoiding_damages.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_50_shades_of_avoiding_damages.md)
     - [`🏛️_another_commission_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_another_commission_as_containment.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
+    - [`🏛️_non_transferability_of_behavioral_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_non_transferability_of_behavioral_interventions.md)
     - [`🏛️_parliamentary_safeguards.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_parliamentary_safeguards.md)
     - [`🏛️_raac_ruins_squad.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_raac_ruins_squad.md)
     - [`🏛️_the_boringing_uk_2010_2025.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_boringing_uk_2010_2025.md)
@@ -2126,6 +2127,8 @@ _Generated on 2025-11-08 19:37:16 UTC_
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
     - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
     - [`🧨_containment_as_accelerant.md`](Polaris_Nest/Git_Intake_Drawer/🧨_containment_as_accelerant.md)
+    - [`🧨_dual_use_epiphany.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_epiphany.md)
+    - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
