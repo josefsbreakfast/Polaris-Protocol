@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 00:13:36 UTC_
+_Generated on 2025-11-08 00:50:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2471,6 +2471,7 @@ _Generated on 2025-11-08 00:13:36 UTC_
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)
       - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
       - [`🔍_search_protocol_bilateral_funding_phrase_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🔍_search_protocol_bilateral_funding_phrase_mapping.md)
+      - [`🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md)
       - [`🪞_public_project_shadow_project.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🪞_public_project_shadow_project.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
     - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
