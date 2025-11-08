@@ -10,6 +10,21 @@ When a foreign country establishes academic or research ties with the United Kin
 Instead, it forms a **stacked architecture**: diplomatic, bureaucratic, and academic layers that each manage part of the relationship.  
 This structure makes collaboration possible but also obscures accountability — useful for diplomacy, difficult for transparency.  
 
+In the setting of investigation British state domestic policing and security in respect to universities during the 2023 - 2025 period, this utilises the structure for UK-Israel relations specifically.  
+
+Please note this is not the only state which has a similar network of influence, and transparency is ultimately beneficial for all stakeholders who may influence the actions of UK institutions.  
+
+---
+
+>"Defend institutions.  
+>It is institutions that help us to preserve decency.  
+>They need our help as well.  
+>Do not speak of “our institutions” unless you make them yours by acting on their behalf.  
+>Institutions do not protect themselves.  
+>So choose an institution you care about and take its side.  
+>
+>*Timothy Snyder, Twenty Lessons for Fighting Tyranny*
+
 ---
 
 ## 🕸️ Mermaid Diagram — The Network of Responsibility  
@@ -90,7 +105,7 @@ academic partnerships, embassy attachés, bilateral research, MOUs, transp
 
 ## 🏮 Footer  
 
-*Academic Partnership Architecture* maps the institutional mechanics that connect foreign governments and UK universities.  
+*🌐 Academic Partnership Architecture* maps the institutional mechanics that connect foreign governments and UK universities.  
 It provides a structural lens for analysing where diplomacy ends and operational accountability begins.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
