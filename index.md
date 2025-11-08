@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 17:07:00 UTC_
+_Generated on 2025-11-08 17:12:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2484,6 +2484,7 @@ _Generated on 2025-11-08 17:07:00 UTC_
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
       - [`⚖️_war_logic_in_peacetime.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚖️_war_logic_in_peacetime.md)
+      - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🌐_academic_partnership_architecture.md)
       - [`📜_timeline_2023_25.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📜_timeline_2023_25.md)
       - [`📡_media_signal_map.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📡_media_signal_map.md)
       - [`🧾_filling_the_transparency_gap.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🧾_filling_the_transparency_gap.md)
@@ -2495,7 +2496,6 @@ _Generated on 2025-11-08 17:07:00 UTC_
       - [`🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md)
       - [`🪞_public_project_shadow_project.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🪞_public_project_shadow_project.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
-    - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🌐_academic_partnership_architecture.md)
     - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
     - [`🧬_signal_anomaly_classification.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧬_signal_anomaly_classification.md)
     - [`🧭_field_ethics_compass.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧭_field_ethics_compass.md)
