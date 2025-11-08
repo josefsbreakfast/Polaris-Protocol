@@ -1,5 +1,5 @@
 # 🏛️ Non-Transferability of Behavioural Interventions
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08
+**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
 *Why behavioural tools cannot ethically or neurologically transfer from domestic justice to occupied contexts.*
 
 ---
