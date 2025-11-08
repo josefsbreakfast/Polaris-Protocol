@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 12:58:01 UTC_
+_Generated on 2025-11-08 12:58:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2486,6 +2486,7 @@ _Generated on 2025-11-08 12:58:01 UTC_
       - [`🕵️‍♀️_synthetic_mobilisation_and_petition_farms.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_synthetic_mobilisation_and_petition_farms.md)
     - [**🕊️War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️War_Or_Peace/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️War_Or_Peace/README.md)
+      - [`⚖️_war_logic_in_peacetime.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️War_Or_Peace/⚖️_war_logic_in_peacetime.md)
     - [**🧪_Sciencing_Apartheid/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)
       - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
