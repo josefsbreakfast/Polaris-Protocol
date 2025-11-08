@@ -22,3 +22,17 @@ The fact that it gets so very touchy, around the subject, such that someone is l
 
 
 i'm not saying it's causation, it's correlation; I'm just very fucking interested what the fuck is going on.
+
+---
+
+oh and incidentally.  
+
+Completely different subject.  
+
+Don't you think it's fascinating?  
+
+We have entered the most non-ceasing-of-fire ceasefire possible, and we are suddenly talking about China, to the extent that MI5 is changing an opinion on something, and we are suddenly seeing the establishment conversation around the counterterrorism practice change.  
+
+Absolutely fascinating.  
+
+Which reminds me. On the subject of fascinating things. I really need to chase that SAR with the labour party.
