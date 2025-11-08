@@ -33,9 +33,10 @@ timeline, protest policing, national security act, public order act, uk legislat
 *📜 Timeline 2023–25* is a living node of the Polaris Protocol.  
 It documents legislative and procedural inflection points relevant to the UK’s evolving security posture.
 
-> 📡 Cross-references:  
-> - [⚖️ War Logic in Peacetime](./⚖️_war_logic_in_peacetime.md) — analytical overview  
-> - [🧾 FOI Refusal Trends](./🧾_foi_refusal_trends.md) — data correlation  
+> 📡 Cross-references:
+> 
+> - [⚖️ War Logic in Peacetime](./⚖️_war_logic_in_peacetime.md) — *analytical overview*  
+> - [🧾 FOI Refusal Trends](./🧾_foi_refusal_trends.md) — *data correlation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
