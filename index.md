@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 00:08:06 UTC_
+_Generated on 2025-11-08 00:08:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2469,6 +2469,8 @@ _Generated on 2025-11-08 00:08:06 UTC_
       - [`🕵️‍♀️_synthetic_mobilisation_and_petition_farms.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_synthetic_mobilisation_and_petition_farms.md)
     - [**🧪_Sciencing_Apartheid/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)
+      - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
+      - [`🔍_search_protocol_bilateral_funding_phrase_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🔍_search_protocol_bilateral_funding_phrase_mapping.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
     - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
     - [`🧬_signal_anomaly_classification.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧬_signal_anomaly_classification.md)
