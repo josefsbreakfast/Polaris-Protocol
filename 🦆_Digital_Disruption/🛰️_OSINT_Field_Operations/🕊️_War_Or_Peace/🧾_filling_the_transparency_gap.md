@@ -28,7 +28,7 @@ These demands did not begin with the Gaza escalation of October 2023; they form 
 
 At the University of Nottingham and elsewhere, students have repeatedly asked for:  
 - publication of contracts and research partnerships with defence or surveillance companies;  
-- disclosure of any commercial or academic arrangements with institutions operating in the Palestinian lands which remain under an illegal military occupation;  
+- disclosure of any commercial or academic arrangements with institutions operating in the Palestinian lands which remain under an illegal military occupation (ICJ Reports 2004, p. 136);  
 - explanation of how such relationships align with universities’ public commitments to human rights, environmental responsibility, and ethical investment.  
 
 The **core grievance** is not merely political alignment, but **inconsistency of practice**: institutions present themselves as centres of humanitarian and environmental values while maintaining opaque financial or research ties that may contradict those values.  
@@ -37,6 +37,34 @@ After the **International Court of Justice’s provisional measures** on the Gaz
 This node therefore situates the current OSINT work inside that longer accountability tradition: a civic request for evidence, not a campaign of hostility.  
 
 It is also noted throughout this section of Polaris, that universities do not exist as institutions without multiple stakeholders and influences; the proposed OSINT tasks therefore look at a broad range of factors which may contribute to a given university's threat or risk assessment, when confronted with demands for transparency, and what may motivate the current positioning of many UK universities in the current time.  
+
+---
+
+---
+
+## ⚖️ Key International Court of Justice Decisions and Proceedings  
+
+Several ICJ decisions relate to how the occupation of Palestinian lands is being conducted, even when the situation appears to be "not active" or in "ceasefire".  
+
+Pleastinian legal experts have been petitioning around these cases since the British Mandate, and therefore before the State of Israel declared independence.  
+
+Other nodes in Polaris discuss the Jewish diasporic experience and the impact of push and pull factors, largely as a result of policies and actions of Western states, which maintain the pipeline of migration to Palestine. This occurs whilst Palestinian refugees and their descendants in the same countries have no right or capacity to return to their home. This creates inherent tension in diasporic communities in the West who have strong communal bonds with those people, or whom are home to those people, and so this is an issue of domestic community cohesion for the Western countires who often insist, "it's complicated", or that it's a "foreign affairs" matter in its entirety.  
+
+Humans bond and they look after each other and they feel physiological effects when they witness others in pain; this is entirely normal human social behaviour.  
+Any punishment of it, without seeking to understand the terms upon which it is based, often appears ignorant and condesending.  
+
+That's why its an optics issue, and why even industries which directly benefit from the material disenfranchisement and personal instability inherent in apartheid systems, ought to consider self-limiting extraction due to the increase in risk upon exposure.  
+
+We live in an age where transparency is expected, particularly as part of the social contract which is inherently created from being surveilled.  
+
+| Topic | Formal Title & Year | Short Reference | What It Covers | ICJ Official Page |
+|--------|--------------------|-----------------|----------------|------------------|
+| **Genocide Convention (Gaza)** | *Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel)* — Orders of **26 Jan 2024**, **28 Mar 2024**, **24 May 2024** | *ICJ 2024 (Provisional Measures – Gaza)* | South Africa’s case alleging violations of the Genocide Convention in Gaza. The Court found a **plausible risk of genocide** and ordered Israel to prevent genocidal acts, allow humanitarian aid, and halt the Rafah offensive. | [icj-cij.org/case/192](https://www.icj-cij.org/case/192) |
+| **Illegality of the Occupation / Wall** | *Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory (Advisory Opinion)* — **9 July 2004** | *ICJ 2004 (Wall Opinion)* | Advisory opinion holding that the route and regime of the separation barrier and settlements **violate international law** and the **right of self-determination**; states must not recognise or assist the illegal situation. | [icj-cij.org/case/131](https://www.icj-cij.org/case/131) |
+| **Prolonged Occupation & Human Rights** | *Israeli Practices and Activities Affecting the Human Rights of the Palestinian People in the Occupied Palestinian Territory, including East Jerusalem (Request for Advisory Opinion)* — **UN GA Res 77/247 (30 Dec 2022)** | *ICJ 2022 (Occupation & Human Rights Opinion – pending)* | Ongoing advisory-opinion proceeding requested by the UN General Assembly to clarify **legal consequences of Israel’s prolonged occupation and annexation**. Hearings held in 2024; opinion pending. | [icj-cij.org/case/186](https://www.icj-cij.org/case/186) |
+
+---
+
 
 ---
 
