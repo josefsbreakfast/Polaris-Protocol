@@ -13,12 +13,14 @@
 - None of this initially needs intent, but intent may then crystallise in failure to address the negetive outcomes: these are now many in number and character.  
 <!--If you want me to stop writing things like this, stop sending me Jungian psychology vids. 🙄  
 Please stop pretending to be surprised by rising alt-right fascisms.-->
+- I have explicitly chosen to lend the shielding offered by my identity in a largly Christian-culture country in this manner, as there is a marked increase over nearly 20 years of Islam as the third Abrahamic faith, being narraticised as uniquely harmful to Christan culture as part of a national identity; this is racist nonsense and it spreads out to impact everyone with a component of personsl or communal identity which is societally marginalised. This therefore deeply impacts us all. I use comparisons of the religious underpinnings of Jewish law with Muslim legal practice to evidence that both faiths have overlap and are both impacted in a similar manner by the mathematics. I also just like subverting philosemitism because non-Jewish white people get a little uncomfortable when I do; philosemitism is still racist and offensive, until I really do get a Space Laser. Then it's fair game. (Maybe. We'll see what the space laser says.)  
 
 ---
 
 ## 🧭 Orientation  
 This node documents how the **Prevent duty**, built on risk-management logic, can clash with religious or ethical systems that forbid participation in harm or exploitation.  
-It considers Jewish *halakhic* reasoning in dialogue with Islamic *sharīʿa* ethics and examines the resulting equality and human-rights implications for public authorities.
+
+It considers Jewish *halakhic* reasoning in dialogue with Islamic *sharīʿa* ethics and examines the resulting equality and human-rights implications for public authorities.  
 
 ---
 
