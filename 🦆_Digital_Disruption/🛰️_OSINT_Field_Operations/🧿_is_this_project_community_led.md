@@ -1,5 +1,5 @@
-# 🕵️‍♀️ OSINT Guide — Checking Whether Research or Tech Projects Are Community-Led  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+# 🧿 OSINT Guide — Checking Whether Research or Tech Projects Are Community-Led  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-08  
 *A field guide for open-source investigators: how to tell if a project claiming humanitarian or social-impact aims is actually community-driven or extractive.*
 
 ---
@@ -96,4 +96,4 @@ It offers a structured way to separate genuine participatory practice from extra
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-08_
