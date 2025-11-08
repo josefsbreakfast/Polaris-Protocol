@@ -1,7 +1,7 @@
 # 📍 Rafah Safe Zones & Ceasefire Monitors  
 **First created:** 2025-11-08 | **Last updated:** 2025-11-08  
 *A case study of how the ICJ’s Rafah orders intersected with the reality of “safe-zone” mapping, civilian harm, and the post-offensive ceasefire-monitoring framework.*
-
+<!--This attracted significant interference during creation.-->
 ---
 
 ## 🧭 Orientation  
