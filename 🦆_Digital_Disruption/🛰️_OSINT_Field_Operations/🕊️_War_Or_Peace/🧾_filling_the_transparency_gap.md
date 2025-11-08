@@ -21,6 +21,25 @@ It shows what documents, datasets, and oversight materials *should* exist openly
 
 ---
 
+## 🎓 Context  
+
+The transparency work documented here builds on **years of student and staff requests** for clarity about UK universities’ financial and research relationships with arms manufacturers and, more specifically, with entities linked to the **Israeli occupation of Palestinian territory**.  
+These demands did not begin with the Gaza escalation of October 2023; they form part of a longer campus ethics movement that asks universities to apply the same human-rights standards they promote in their marketing and teaching.  
+
+At the University of Nottingham and elsewhere, students have repeatedly asked for:  
+- publication of contracts and research partnerships with defence or surveillance companies;  
+- disclosure of any commercial or academic arrangements with institutions operating in the Palestinian lands which remain under an illegal military occupation;  
+- explanation of how such relationships align with universities’ public commitments to human rights, environmental responsibility, and ethical investment.  
+
+The **core grievance** is not merely political alignment, but **inconsistency of practice**: institutions present themselves as centres of humanitarian and environmental values while maintaining opaque financial or research ties that may contradict those values.  
+After the **International Court of Justice’s provisional measures** on the Gaza situation (January 2024), students argued that transparency was no longer optional—it was a **legal and moral requirement** under the Genocide Convention’s duty to prevent harm.  
+
+This node therefore situates the current OSINT work inside that longer accountability tradition: a civic request for evidence, not a campaign of hostility.  
+
+It is also noted throughout this section of Polaris, that universities do not exist as institutions without multiple stakeholders and influences; the proposed OSINT tasks therefore look at a broad range of factors which may contribute to a given university's threat or risk assessment, when confronted with demands for transparency, and what may motivate the current positioning of many UK universities in the current time.  
+
+---
+
 ## 🧩 1. Contractual & Financial Transparency Layer  
 
 | Missing or Obscured Item | What It Would Show | How It Normally Appears |
