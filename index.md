@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 17:12:29 UTC_
+_Generated on 2025-11-08 17:13:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2489,6 +2489,7 @@ _Generated on 2025-11-08 17:12:29 UTC_
       - [`📡_media_signal_map.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📡_media_signal_map.md)
       - [`🧾_filling_the_transparency_gap.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🧾_filling_the_transparency_gap.md)
       - [`🧾_foi_refusal_trends.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🧾_foi_refusal_trends.md)
+      - [`🪼_campus_protest_policing_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🪼_campus_protest_policing_and_containment.md)
     - [**🧪_Sciencing_Apartheid/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)
       - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
