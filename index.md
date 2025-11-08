@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 17:03:27 UTC_
+_Generated on 2025-11-08 17:07:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1916,7 +1916,6 @@ _Generated on 2025-11-08 17:03:27 UTC_
     - [`🌅_rise_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌅_rise_of_institutional_integrity.md)
     - [`🌊_on_being_the_manual_override.md`](Polaris_Nest/Git_Intake_Drawer/🌊_on_being_the_manual_override.md)
     - [`🌌_am_i_still_too_pro_russia_to_be_british.md`](Polaris_Nest/Git_Intake_Drawer/🌌_am_i_still_too_pro_russia_to_be_british.md)
-    - [`🌐_academic_partnership_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🌐_academic_partnership_architecture.md)
     - [`🌫️_uncertainty_branch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_uncertainty_branch_logic.md)
     - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
     - [`🌾_possibly_poetry_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🌾_possibly_poetry_pipeline.md)
@@ -2496,6 +2495,7 @@ _Generated on 2025-11-08 17:03:27 UTC_
       - [`🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md)
       - [`🪞_public_project_shadow_project.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🪞_public_project_shadow_project.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
+    - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🌐_academic_partnership_architecture.md)
     - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
     - [`🧬_signal_anomaly_classification.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧬_signal_anomaly_classification.md)
     - [`🧭_field_ethics_compass.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧭_field_ethics_compass.md)
