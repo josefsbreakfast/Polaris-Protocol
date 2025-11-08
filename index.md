@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 02:45:13 UTC_
+_Generated on 2025-11-08 02:57:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1951,6 +1951,7 @@ _Generated on 2025-11-08 02:45:13 UTC_
     - [`🏛️_the_boringing_uk_2010_2025.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_boringing_uk_2010_2025.md)
     - [`🏛️_the_duel_of_temperments.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_duel_of_temperments.md)
     - [`🏛️_the_grey_zone_inside_the_think_tank.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_grey_zone_inside_the_think_tank.md)
+    - [`🏛️_the_reckoning_lag_prince_andrew_epstein_institutional_containment.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_reckoning_lag_prince_andrew_epstein_institutional_containment.md)
     - [`🏜_negev_from_renewal_to_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🏜_negev_from_renewal_to_refusal.md)
     - [`🏝️_refusal_retreat_and_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🏝️_refusal_retreat_and_extraction.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
@@ -2029,6 +2030,7 @@ _Generated on 2025-11-08 02:45:13 UTC_
     - [`🔮_predictive_containment_and_emergent_friction.md`](Polaris_Nest/Git_Intake_Drawer/🔮_predictive_containment_and_emergent_friction.md)
     - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Polaris_Nest/Git_Intake_Drawer/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
     - [`🕊_repairing_the_human.md`](Polaris_Nest/Git_Intake_Drawer/🕊_repairing_the_human.md)
+    - [`🕊️_positive_drift_leadership_shifts_heritage_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_positive_drift_leadership_shifts_heritage_governance.md)
     - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
     - [`🕯_the_audit_log_does_not_sleep.md`](Polaris_Nest/Git_Intake_Drawer/🕯_the_audit_log_does_not_sleep.md)
     - [`🕯️_crash_sites_as_temporal_loops.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_crash_sites_as_temporal_loops.md)
@@ -2079,6 +2081,7 @@ _Generated on 2025-11-08 02:45:13 UTC_
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_moonshot_cve_vs_open_ai.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_moonshot_cve_vs_open_ai.md)
+    - [`🛰️_naming_the_unnamed_data_sovereignty_statehood.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_naming_the_unnamed_data_sovereignty_statehood.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🜁_shared_air.md`](Polaris_Nest/Git_Intake_Drawer/🜁_shared_air.md)
@@ -2092,6 +2095,7 @@ _Generated on 2025-11-08 02:45:13 UTC_
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_how_many_words_to_fell_an_industry.md`](Polaris_Nest/Git_Intake_Drawer/🦇_how_many_words_to_fell_an_industry.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
+    - [`🦋_butterfly_effect_in_small_states.md`](Polaris_Nest/Git_Intake_Drawer/🦋_butterfly_effect_in_small_states.md)
     - [`🦠_algorithmic_autoimmunity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_algorithmic_autoimmunity.md)
     - [`🦠_statistical_nightmare.md`](Polaris_Nest/Git_Intake_Drawer/🦠_statistical_nightmare.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
