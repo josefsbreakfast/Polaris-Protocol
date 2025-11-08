@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 22:11:20 UTC_
+_Generated on 2025-11-08 22:55:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2013,6 +2013,7 @@ _Generated on 2025-11-08 22:11:20 UTC_
     - [`📚_meta_silence_and_the_optimization_of_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/📚_meta_silence_and_the_optimization_of_ignorance.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
     - [`📚_suppressed_safe_collection.md`](Polaris_Nest/Git_Intake_Drawer/📚_suppressed_safe_collection.md)
+    - [`📚_the_reflex_to_hide_the_book.md`](Polaris_Nest/Git_Intake_Drawer/📚_the_reflex_to_hide_the_book.md)
     - [`📚_the_tenth_library.md`](Polaris_Nest/Git_Intake_Drawer/📚_the_tenth_library.md)
     - [`📚_venus_in_furs_as_witchfinder_litmus_paper.md`](Polaris_Nest/Git_Intake_Drawer/📚_venus_in_furs_as_witchfinder_litmus_paper.md)
     - [`📜_from_survivor_code_to_research_ethics.md`](Polaris_Nest/Git_Intake_Drawer/📜_from_survivor_code_to_research_ethics.md)
@@ -2061,6 +2062,7 @@ _Generated on 2025-11-08 22:11:20 UTC_
     - [`🕸️_containment_as_emergent_system_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_containment_as_emergent_system_behaviour.md)
     - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
     - [`🕸️_interlocking_influence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_interlocking_influence_economy.md)
+    - [`🕸️_macro_containment_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_macro_containment_architecture.md)
     - [`🕸️_practical_irreversibility_when_feedback_becomes_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md)
     - [`🕸️_survivor_consent_frameworks.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_survivor_consent_frameworks.md)
     - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
@@ -2069,6 +2071,7 @@ _Generated on 2025-11-08 22:11:20 UTC_
     - [`🕸️_web_sovereignity.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_web_sovereignity.md)
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🖍️_the_colouring_book_experiment_containment_as_curriculum.md`](Polaris_Nest/Git_Intake_Drawer/🖍️_the_colouring_book_experiment_containment_as_curriculum.md)
+    - [`🗂️_data_sharing_trace_mod_links.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_data_sharing_trace_mod_links.md)
     - [`🗣️_data_majority_as_narrative_voice_voting_by_volume.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_data_majority_as_narrative_voice_voting_by_volume.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗣️_how_to_detect_voice_dataset_use.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_how_to_detect_voice_dataset_use.md)
