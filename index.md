@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 17:29:22 UTC_
+_Generated on 2025-11-08 17:31:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2488,6 +2488,7 @@ _Generated on 2025-11-08 17:29:22 UTC_
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
       - [`⚖️_war_logic_in_peacetime.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚖️_war_logic_in_peacetime.md)
       - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🌐_academic_partnership_architecture.md)
+      - [`📍_rafah_safe_zones_and_ceasefire_monitors.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📍_rafah_safe_zones_and_ceasefire_monitors.md)
       - [`📜_timeline_2023_25.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📜_timeline_2023_25.md)
       - [`📡_media_signal_map.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📡_media_signal_map.md)
       - [`🧾_filling_the_transparency_gap.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🧾_filling_the_transparency_gap.md)
