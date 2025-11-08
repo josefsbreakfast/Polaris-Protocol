@@ -10,6 +10,10 @@ this is not lavander; this is something so far unnamed.
 
 let's get there first.  
 
+nb: previous "anxious ghost" trigger around sharing this and riffing off frankenstack model conditions; own data chain collides with cabinet shortly after this and strange chain of events ensue.  
+
+timeline is interesting if you can see it.  
+
 
 ---
 
