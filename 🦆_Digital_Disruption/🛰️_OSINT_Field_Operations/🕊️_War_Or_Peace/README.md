@@ -1,7 +1,9 @@
 # 🕊️ War Or Peace  
 **First created:** 2025-11-08 | **Last updated:** 2025-11-08  
 *Field-operations cluster tracing Britain’s shift toward wartime logic under peacetime law.*
-
+<!--People appear surprised when I have concerns or challenges towardes my civil government as a British Jew, so I made you this.  
+I am not absolving other parties; I am asking us to get our own house in order to better resist the rising and decentralised influence of the alt-right and authoritarian power.  
+I am not a fan.-->
 ---
 
 ## 🧭 Orientation  
