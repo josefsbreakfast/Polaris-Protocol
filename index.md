@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 16:04:59 UTC_
+_Generated on 2025-11-08 16:28:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2185,7 +2185,6 @@ _Generated on 2025-11-08 16:04:59 UTC_
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
     - [`🧵_overproduction_as_human_boredom_response.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_as_human_boredom_response.md)
     - [`🧼_courtier_class_in_the_age_of_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_in_the_age_of_austerity.md)
-    - [`🧾_filling_the_transparency_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧾_filling_the_transparency_gap.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
@@ -2489,6 +2488,7 @@ _Generated on 2025-11-08 16:04:59 UTC_
       - [`⚖️_war_logic_in_peacetime.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚖️_war_logic_in_peacetime.md)
       - [`📜_timeline_2023_25.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📜_timeline_2023_25.md)
       - [`📡_media_signal_map.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📡_media_signal_map.md)
+      - [`🧾_filling_the_transparency_gap.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🧾_filling_the_transparency_gap.md)
       - [`🧾_foi_refusal_trends.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🧾_foi_refusal_trends.md)
     - [**🧪_Sciencing_Apartheid/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)
