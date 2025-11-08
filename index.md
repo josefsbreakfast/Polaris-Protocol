@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 00:02:53 UTC_
+_Generated on 2025-11-08 00:03:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2060,6 +2060,7 @@ _Generated on 2025-11-08 00:02:53 UTC_
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗣️_how_to_detect_voice_dataset_use.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_how_to_detect_voice_dataset_use.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
+    - [`🗺️_linguistic_silk_road.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_linguistic_silk_road.md)
     - [`😌_the_performance_of_consensus.md`](Polaris_Nest/Git_Intake_Drawer/😌_the_performance_of_consensus.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
