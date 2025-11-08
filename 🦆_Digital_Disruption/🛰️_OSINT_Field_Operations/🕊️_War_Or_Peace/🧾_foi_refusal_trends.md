@@ -33,7 +33,8 @@ freedom of information, section 36, section 24, ico decisions, refusals, transpa
 *🧾 FOI Refusal Trends* is a living node of the Polaris Protocol.  
 It provides quantitative and qualitative insight into institutional opacity mechanisms.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [📜 Timeline 2023–25](./📜_timeline_2023-25.md)  
 > - [⚖️ War Logic in Peacetime](./⚖️_war_logic_in_peacetime.md)
 
