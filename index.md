@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 03:18:17 UTC_
+_Generated on 2025-11-08 03:30:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1901,6 +1901,7 @@ _Generated on 2025-11-08 03:18:17 UTC_
     - [`⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md)
     - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
     - [`⚙️_friction_minimisation_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_friction_minimisation_logic.md)
+    - [`⚙️_high_friction_people_and_systemic_mismatch.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_high_friction_people_and_systemic_mismatch.md)
     - [`⚙️_machine_pruning_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_machine_pruning_logic.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`✂️_engineered_disjuncture_of_allies.md`](Polaris_Nest/Git_Intake_Drawer/✂️_engineered_disjuncture_of_allies.md)
@@ -1964,6 +1965,7 @@ _Generated on 2025-11-08 03:18:17 UTC_
     - [`🐦‍⬛_cards_indices_grids.md`](Polaris_Nest/Git_Intake_Drawer/🐦‍⬛_cards_indices_grids.md)
     - [`🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md`](Polaris_Nest/Git_Intake_Drawer/🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md)
     - [`🐾_canine_constellation_migration.md`](Polaris_Nest/Git_Intake_Drawer/🐾_canine_constellation_migration.md)
+    - [`🐾_greyhound_networks_and_collective_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🐾_greyhound_networks_and_collective_pattern_recognition.md)
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
     - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
     - [`👅_Deepfake_Node.md`](Polaris_Nest/Git_Intake_Drawer/👅_Deepfake_Node.md)
@@ -1981,6 +1983,7 @@ _Generated on 2025-11-08 03:18:17 UTC_
     - [`💞_moflin_and_the_ethics_of_engineered_affection.md`](Polaris_Nest/Git_Intake_Drawer/💞_moflin_and_the_ethics_of_engineered_affection.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
+    - [`💬_containment_catchphrases_language_of_dismissal.md`](Polaris_Nest/Git_Intake_Drawer/💬_containment_catchphrases_language_of_dismissal.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`💰_the_surveillance_dividend_social_contract.md`](Polaris_Nest/Git_Intake_Drawer/💰_the_surveillance_dividend_social_contract.md)
     - [`💰_underwriting_the_occupation.md`](Polaris_Nest/Git_Intake_Drawer/💰_underwriting_the_occupation.md)
@@ -2135,6 +2138,7 @@ _Generated on 2025-11-08 03:18:17 UTC_
     - [`🧩_myth_vs_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧩_myth_vs_mechanism.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
+    - [`🧩_semi_compensating_spld_theory.md`](Polaris_Nest/Git_Intake_Drawer/🧩_semi_compensating_spld_theory.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
     - [`🧩_the_data_empathy_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_data_empathy_gap.md)
     - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_machine_tags_high_friction_profiles.md)
@@ -2154,6 +2158,7 @@ _Generated on 2025-11-08 03:18:17 UTC_
     - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
+    - [`🧬_nonlinear_intelligence_and_asynchrony.md`](Polaris_Nest/Git_Intake_Drawer/🧬_nonlinear_intelligence_and_asynchrony.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_signal_steering.md`](Polaris_Nest/Git_Intake_Drawer/🧬_signal_steering.md)
     - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
