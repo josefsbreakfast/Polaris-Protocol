@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-07 23:51:45 UTC_
+_Generated on 2025-11-08 00:02:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2210,6 +2210,7 @@ _Generated on 2025-11-07 23:51:45 UTC_
     - [`🪧_radical_and_respectable_the_dual_engine_of_reform.md`](Polaris_Nest/Git_Intake_Drawer/🪧_radical_and_respectable_the_dual_engine_of_reform.md)
     - [`🪩_algorithmic_female_dominance_aura.md`](Polaris_Nest/Git_Intake_Drawer/🪩_algorithmic_female_dominance_aura.md)
     - [`🪩_no_fap_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🪩_no_fap_fascism.md)
+    - [`🪩_public_faces_hidden_files.md`](Polaris_Nest/Git_Intake_Drawer/🪩_public_faces_hidden_files.md)
     - [`🪶_descent_map_academic_surveillance_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_academic_surveillance_drift.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](Polaris_Nest/Git_Intake_Drawer/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
