@@ -38,9 +38,10 @@ peacetime, wartime logic, uk governance, protest, national security act, public 
 *🕊️ War Or Peace* is a living investigative cluster of the **Polaris Protocol**.  
 It supports systemic transparency mapping and evidential documentation within **Digital Disruption → OSINT Field Operations**.
 
-> 📡 Cross-references:  
-> - [🛰️ OSINT Field Operations](../) — core investigative toolkit  
-> - [⚖️ Containment Contract Trace](../../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — systemic diagnostics  
+> 📡 Cross-references:
+> 
+> - [🛰️ OSINT Field Operations](../README.md) — *core investigative toolkit*  
+> - [⚖️ Containment Contract Trace](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *systemic diagnostics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
