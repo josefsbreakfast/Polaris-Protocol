@@ -1,5 +1,5 @@
 # ☔️ Protocol Integrity SOP  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2025-11-09  
 *Routine checks for maintaining consistency, linkage, and fidelity across Polaris nodes.*  
 
 ---
@@ -25,9 +25,9 @@ This SOP defines **the recurring checks** we perform whenever major edits or fil
 ---
 
 ### 2. **Cross-Link Integrity**  
-- 🔗 Verify all relative links resolve correctly (no dead paths).  
-- 🔗 Check circular linkage in rule clusters (e.g. Pocket ↔ Polaris ↔ Cluster).  
-- 🔗 Ensure new nodes are referenced in `index.md` and `🏾en_where_to_go.md` if relevant.
+- 🧨 Verify all relative links resolve correctly (no dead paths).  
+- 🧨 Check circular linkage in rule clusters (e.g. Pocket ↔ Polaris ↔ Cluster).  
+- 🧨 Ensure new nodes are referenced in `index.md` and `🏾en_where_to_go.md` if relevant.
 
 ---
 
@@ -77,17 +77,18 @@ This SOP defines **the recurring checks** we perform whenever major edits or fil
 
 ---
 
-## 🏾 Footer  
+## 🏮 Footer  
 
-*Protocol Integrity SOP* is a scaffolding node of the Polaris Protocol.  
+*☔️ Protocol Integrity SOP* is a scaffolding node of the Polaris Protocol.  
 It documents recurring quality-control tasks ensuring the network remains internally consistent and ethically stable.
 
-> 📱 Cross-references:  
+> 📱 Cross-references:
+> 
 > - [🔮 House Style](./🔮_house_style.md) — formatting rules  
-> - [🎛 Drafting Rules Cluster — Survivor Voice Fidelity](./🎛_drafting_rules_cluster_survivor_voice_fidelity.md)  
-> - [🏾en Where to Go](./🏾en_where_to_go.md) — routing logic for new nodes  
+> - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
+> - [🏮 Where to Go](./🏮_where_to_go.md) — routing logic for new nodes  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2025-11-09_
 
