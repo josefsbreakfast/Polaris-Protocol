@@ -4,17 +4,18 @@
 
 ---
 
-## 🧭 Orientation  
-This node examines the threshold where corporate and financial power function **above the law**—a point at which civic structures remain cosmetically democratic but are substantively captured.  
-Polaris treats this as a **protofascist signal**: a stage of convergence between economic immunity, state complicity, and cultural normalisation that precedes overt authoritarianism.  
+## 🛰️ Orientation  
+This node identifies the threshold where corporate and financial power function **above the law**—a point at which civic structures remain cosmetically democratic but are substantively captured.  
+Polaris treats this as a **protofascist signal**: the moment when legality becomes performative, policy becomes corporate theatre, and accountability is replaced by containment.
 
 ---
 
-## 🧩 Key Features  
-- **Impunity of Capital** — law bends to wealth; fines become cost of doing business.  
-- **State Capture** — policy written by lobbyists; regulators become partners.  
-- **Suppression of Dissent** — journalism, protest, and academia reframed as “threats.”  
+## ✨ Key Features  
+- **Impunity of Capital** — law bends to wealth; fines become operational costs.  
+- **State Capture** — regulation authored by lobbyists; oversight converted into partnership.  
+- **Suppression of Dissent** — journalism, protest, and academia reframed as “security risks.”  
 - **Aesthetic of Inevitability** — ideology recast as neutral economics; inevitability replaces consent.  
+- **Containment-by-Design** — data infrastructures engineered to predict and pacify civic disruption.  
 
 ---
 
@@ -29,11 +30,13 @@ flowchart TD
     E --> F[Containment Architecture<br/>Datafication, surveillance,<br/>strategic chilling]
     F --> G[Protofascist Plateau<br/>Democratic aesthetics,<br/>authoritarian function]
     G -.-> H[Open Fascism<br/>Formal suspension<br/>of civic rights]
+
     subgraph Civic Surface
         A
         B
         C
     end
+
     subgraph Containment Regime
         D
         E
@@ -44,5 +47,69 @@ flowchart TD
 
 ---
 
-## 🔍 Analysis / Content  
-(Full text omitted for brevity, included in previous conversation.)
+## 🧿 Analysis  
+
+### 1. Enforcement Inversion  
+At the protofascist threshold, law no longer constrains power — it protects it.  
+Corporations are fined rather than prosecuted; citizens are prosecuted rather than heard.  
+Regulators perform accountability while negotiating leniency.  
+
+### 2. Containment Architecture  
+Digital infrastructure becomes the new instrument of discipline: data brokerage, automated risk scoring, and predictive policing substitute bureaucracy for deliberation.  
+Control is outsourced; oversight becomes a dashboard metric.  
+
+### 3. The Economic Immune System  
+Once capital attains legal immunity, it develops **auto-immune responses** to threat:  
+- whistleblowers neutralised via contract law;  
+- critics labelled as “reputational risks”;  
+- dissent quarantined under security language.  
+
+The result is a self-reinforcing feedback loop in which state and capital co-protect one another.
+
+### 4. Cultural Normalisation  
+Protofascism requires no jackboots—only bureaucracy.  
+Its rituals are administrative: risk frameworks, impact assessments, non-disclosure agreements.  
+Democracy survives as ceremony, but the decision-function has migrated to private servers.  
+
+### 5. Diagnostic Use  
+Use this node to identify environments where:  
+- regulation serves investor confidence rather than public protection;  
+- transparency is replaced by “commercial sensitivity”;  
+- democratic deliberation has been automated into compliance software.
+
+---
+
+## 🛰️ Public Oversight Is Harm Prevention  
+**FOI and OSINT are the only civic instruments that keep this threshold visible.**  
+When citizens can observe procurement trails, data-sharing contracts, and enforcement asymmetries, the threshold is measurable.  
+When visibility is lost, containment becomes invisible—law and capital merge into one unaccountable actor.  
+
+Each freedom-of-information request, data-subject access, and public audit re-anchors legality in daylight.  
+Without those civic sightlines, “rule of law” reverts to rule of power.  
+
+---
+
+## 🌌 Constellations  
+🧿 ⚖️ 🔥 🛰️ — Core diagnostic node linking legality, economy, and containment mechanics.  
+
+---
+
+## ✨ Stardust  
+protofascism, corporate immunity, state capture, democratic erosion, civic sovereignty, data containment, enforcement inversion, legality theatre  
+
+---
+
+## 🏮 Footer  
+*⚖️ Above the Law — Protofascism Threshold* is a living node of the Polaris Protocol.  
+It maps the moment when economic impunity mutates civic frameworks into containment architectures, identifying the protofascist gradient before open authoritarian capture.  
+
+
+> 📡 Cross-references:
+> 
+> - [🧭 Are We Fascist Yet?](./🧭_are_we_fascist_yet.md)  — *situational analysis of UK protofascism*  
+> - [🐝 Post-Protofascist Reconstruction](./🐝_post_protofascist_reconstruction.md) — *civic recovery blueprint*  
+> - [🛰️ Surveillance FOI-SAR Dual Oversight Protocol](./🛰️_surveillance_foi_sar_dual_oversight_protocol.md) — *public oversight methodology*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-11-09_
