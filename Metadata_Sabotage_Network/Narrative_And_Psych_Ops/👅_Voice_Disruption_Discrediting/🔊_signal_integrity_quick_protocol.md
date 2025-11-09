@@ -1,6 +1,6 @@
 # 🔊 Signal Integrity Quick Protocol  
 **Purpose:** Protect and verify authentic human voice recordings against cloning, remix, or metadata sabotage.  
-**Source Node:** [🔊 Signal Integrity Protocols — Protecting the Sound of the Voice](./🔊_signal_integrity_protocols_protecting_the_sound_of_the_voice.md)
+**Source Node:** [🔊 Signal Integrity Protocols — Protecting the Sound of the Voice](./🔊_protecting_the_sound_of_the_voice.md)
 
 ---
 
