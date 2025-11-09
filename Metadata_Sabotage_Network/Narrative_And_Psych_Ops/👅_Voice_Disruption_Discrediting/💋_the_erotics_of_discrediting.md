@@ -1,5 +1,5 @@
 # 💋 The Erotics of Discrediting  
-**First created:** 2025-10-10  |  **Last updated:** 2025-10-28  
+**First created:** 2025-10-10 | **Last updated:** 2025-11-09  
 *How desire is weaponised to undermine authority.*
 
 ---
@@ -11,33 +11,22 @@ Positions eroticisation as a *containment strategy*: a method of rendering truth
 
 ---
 
-## ✨ Key Sections  
-💋 Desire as Distraction  
-🧠 Meta-Censorship Loop — The Pornography of Knowledge  
-💄 The Spectacle of Vulnerability  
-🩸 Gendered and Racialised Fetishism  
-🕯️ Illumination and Refusal — The Desire to Disappear  
-🧿 Counter-Gaze and Refusal  
-
----
-
 ## 💋 Desire as Distraction  
 
 Pornography is often imagined as the first thing a censor would cut — a site of moral panic and repression.  
 Yet, as **Jason Stanley’s _Erasing History_** observes, authoritarian censorship rarely begins with sex; it begins with whatever undermines the regime’s own authority.  
 
-The ubiquity of ready-to-access, high-intensity online pornography functions less as rebellion than as compliance.  
-It absorbs revolutionary energy by converting *desire* into *expenditure*: clicks, tokens, and endless scroll.  
+The ubiquity of high-intensity online pornography functions less as rebellion than as compliance.  
+It absorbs revolutionary energy by converting *desire* into *expenditure*: clicks, tokens, endless scroll.  
 What might once have been political libido becomes a managed loop of stimulation and isolation — Marx’s “opium of the masses” rewritten for the broadband era.  
 
 In this economy of attention, the body becomes both commodity and containment field.  
 Industrial-scale pornography disrupts solidarity by individualising pleasure, rewarding spectatorship over participation, and deepening loneliness.  
-Far from advancing sex-worker autonomy, it often centralises profit under the same capital-realist empires that discipline labour elsewhere.  
+Far from advancing sex-worker autonomy, it centralises profit under the same capital-realist empires that discipline labour elsewhere.  
 The promise of rebellion — the “anything goes” mythology — hides a more efficient obedience: the eroticised maintenance of the status quo.  
 
 This dynamic exposes pornography not simply as product but as **vector of resource extraction**.  
 Both viewer and performer are folded into the same circuit of value generation — their attention, affect, and availability treated as inputs.  
-For the consumer, intimacy becomes subscription; for the worker, embodiment becomes data.  
 Risk migrates downward while profit consolidates upward, mirroring every other extractive industry under late capitalism.  
 In this sense, pornography is not external to exploitation’s logic — it is one of its purest expressions, dressed in the aesthetics of freedom.  
 
@@ -178,10 +167,10 @@ It documents how visibility and desire are manipulated to neutralise truth-telle
 
 > 📡 Cross-references:
 > 
->  - [👅 Voice Disruption & Discrediting — Cluster Overview](./README.md)  
->  - [🎪 Racialised Projection as Harassment](./🎪_racialised_projection_as_harassment.md)  
->  - [🈴 Allies & Ethics](../🈴_Allies_And_Ethics/README.md)  
+> - [👅 Voice Disruption & Discrediting — Cluster Overview](./README.md)  
+> - [🎪 Racialised Projection as Harassment](./🎪_racialised_projection_as_harassment.md)  
+> - [🈴 Allies & Ethics](../🈴_Allies_And_Ethics/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2025-11-09_
