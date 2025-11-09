@@ -46,6 +46,20 @@ if they "took your job", you got a free pasta list and harass and perv over wome
 
 What exactly is the problem?  
 
-What particular grandiosity entertains your mind? Such that you still think that you're badly done to?  -->
+What particular grandiosity entertains your mind? Such that you still think that you're badly done to?  
+
+if you're pissed off that we're still all doing better than you in marginalised communities, do you know what really easy answer to that would be?  
+
+Stop making us work so fucking hard just to be "not treated like complete shit all the time" your society.  
+
+The circumstances you have created specifically encourage hard work and high perfectionism and high skills development and high goal orientation in marginalised communities in this country.  
+
+If you don't want us to be that good?  
+
+Stop making us do so much labour, just so that you might not shit on us *all* the time.  
+
+Respect breeds respect.  
+
+Get some.-->
 
 ---
