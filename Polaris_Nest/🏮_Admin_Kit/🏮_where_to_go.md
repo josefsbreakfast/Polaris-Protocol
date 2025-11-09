@@ -172,12 +172,7 @@ routing, filing compass, protocol logic, digital disruption, metadata sabotage n
 ---
 
 ## 🏮 Footer
-*🏮 Where To Go — v3 (Digital Disruption Integration, Full Map)* is an administrative routing map for the Polaris Protocol.  
-It preserves the granularity of v2 while adding the **🦆 praxis branch** and keeping index hygiene explicit.
-
-> 📡 Cross‑references:
-> 
-> - [🏮 Admin Kit](./README.md) — house style, SOPs, governance tools  
+*🏮 Where To Go* is an administrative routing map for the Polaris Protocol.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-28_
+_Last updated: 2025-11-09_
