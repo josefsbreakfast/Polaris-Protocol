@@ -180,3 +180,5 @@ And something about how I had to word  that...
 It was also interesting how precious the AI got yesterday about the particular wording what was essentially a joke about hacking.  
 
 That was quite funny.
+
+as it turns out, I've tested it a number of times, and ChatGPT does understand what you mean, if you go and tell her to look for where it put its sense of humour.  
