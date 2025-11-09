@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-09 03:11:37 UTC_
+_Generated on 2025-11-09 07:23:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1886,6 +1886,7 @@ _Generated on 2025-11-09 03:11:37 UTC_
     - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚓_sea_org_as_containment_prototype.md`](Polaris_Nest/Git_Intake_Drawer/⚓_sea_org_as_containment_prototype.md)
+    - [`⚖️_above_the_law_protofascism_threshold.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_above_the_law_protofascism_threshold.md)
     - [`⚖️_accountability_as_alignment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_accountability_as_alignment.md)
     - [`⚖️_architecture_of_complicity_when_justice_stops_at_the_dock.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_architecture_of_complicity_when_justice_stops_at_the_dock.md)
     - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_citizen_recourse_private_surveillance_uk.md)
@@ -1969,6 +1970,7 @@ _Generated on 2025-11-09 03:11:37 UTC_
     - [`🐍_algorithmic_hostage_logic.md`](Polaris_Nest/Git_Intake_Drawer/🐍_algorithmic_hostage_logic.md)
     - [`🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md`](Polaris_Nest/Git_Intake_Drawer/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md)
     - [`🐝_carceral_disability.md`](Polaris_Nest/Git_Intake_Drawer/🐝_carceral_disability.md)
+    - [`🐝_post_protofascist_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🐝_post_protofascist_reconstruction.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
     - [`🐝_volcanic_rest_theory.md`](Polaris_Nest/Git_Intake_Drawer/🐝_volcanic_rest_theory.md)
     - [`🐣_canaries_and_cassandras.md`](Polaris_Nest/Git_Intake_Drawer/🐣_canaries_and_cassandras.md)
