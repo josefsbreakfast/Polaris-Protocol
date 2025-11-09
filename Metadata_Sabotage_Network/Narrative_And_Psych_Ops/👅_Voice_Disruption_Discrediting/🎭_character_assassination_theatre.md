@@ -1,5 +1,5 @@
 # 🎭 Character Assassination Theatre  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-10 | **Last updated:** 2025-11-09  
 *How discrediting becomes public performance.*
 
 ---
@@ -10,18 +10,7 @@ Shows how reputational destruction borrows techniques from entertainment: suspen
 
 ---
 
-## ✨ Key Sections  
-🪓 The Audience as Executioner  
-🐝 Casting the Villain: Survivor as Spectacle  
-🎪 Public Shaming as Policy Tool  
-🐦‍🔥 Breaking Script — Refusal to Perform  
-💫 Reversal Effect — When the Smear Backfires  
-
-Together, these sections trace the full arc of reputational theatre — from scriptwriting and audience conditioning to narrative collapse.
-
----
-
-### 🪓 The Audience as Executioner  
+## 🪓 The Audience as Executioner  
 
 Smear only works if it has spectators.  
 The character assassination begins long before any explicit allegation; it starts when the crowd learns what kind of story they are watching.  
@@ -40,7 +29,7 @@ Everyone gets to perform virtue by watching someone else’s ruin.
 
 ---
 
-### 🐝 Casting the Villain: Survivor as Spectacle  
+## 🐝 Casting the Villain — Survivor as Spectacle  
 
 The smear needs a protagonist to destroy.  
 Every performance requires a focal point, and the survivor provides it — unwillingly.  
@@ -62,7 +51,7 @@ The survivor, already exhausted from rehearsal after rehearsal, is judged not by
 
 ---
 
-### 🎪 Public Shaming as Policy Tool  
+## 🎪 Public Shaming as Policy Tool  
 
 Once humiliation proves effective, it is bureaucratised.  
 Institutions learn that spectacle does what paperwork cannot: it enforces compliance through fear of exposure.  
@@ -85,7 +74,7 @@ The performance is now self-sustaining — an HR morality play with infinite rer
 
 ---
 
-### 🐦‍🔥 Breaking Script — Refusal to Perform  
+## 🐦‍🔥 Breaking Script — Refusal to Perform  
 
 Every performance depends on participation.  
 When the survivor stops playing their assigned role, the whole production stutters.  
@@ -108,7 +97,7 @@ Only quiet, and the uncomfortable realisation that the spectacle was never justi
 
 ---
 
-### 💫 Reversal Effect — When the Smear Backfires  
+## 💫 Reversal Effect — When the Smear Backfires  
 
 Sometimes the performance runs too long.  
 The plot frays, the audience grows suspicious, and the villain everyone was told to hate starts to look human.  
@@ -133,7 +122,7 @@ It proves that belief, like disbelief, is contagious — and that once a crowd s
 ---
 
 ## 🌌 Constellations  
-🎭 👅 🧿 🪞 — spectacle, discrediting, theatre, containment performance.
+🎭 👅 🧿 🪞 — spectacle, discrediting, theatre, containment performance.  
 
 ---
 
@@ -155,4 +144,4 @@ It documents how reputational warfare uses performance logics to make harm enter
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2025-11-09_
