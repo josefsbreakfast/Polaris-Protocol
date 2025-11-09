@@ -1,23 +1,24 @@
 # 👅 Voice Disruption & Discrediting  
-**First created:** 2025-09-06  |  **Last updated:** 2025-10-26  
+**First created:** 2025-09-06 | **Last updated:** 2025-11-09  
 *On voice-targeted smears, sexualisation, and reputational sabotage as techniques of metadata control.*
 
 ---
 
-## Purpose
+## 🛰️ Purpose  
 To map how suppression systems attack **credibility through embodiment**—targeting tone, appearance, and affect rather than argument.  
-This node analyses the psychological-operations layer of metadata sabotage: campaigns designed to distort, sexualise, or ridicule the speaker until their testimony collapses under the weight of insinuation.
+This fork analyses the psychological-operations layer of metadata sabotage: campaigns designed to distort, sexualise, or ridicule the speaker until their testimony collapses under the weight of insinuation.  
+It interfaces with the *Psychological Containment* and *Narrative Interference* forks, where exhaustion and framing manipulation complete the containment cycle.
 
 ---
 
-## Core Premise
+## 🦆 Core Premise  
 When a voice becomes dangerous, the system learns to make it sound unreliable.  
 Discrediting is cheaper than censorship; it keeps the record noisy while ensuring that signal cannot stabilise.  
 The tactic depends on **spectacle over silence**—the illusion that the voice still exists, only untrustworthy.
 
 ---
 
-## Techniques of Disruption
+## 🎭 Techniques of Voice Sabotage  
 | Category | Mechanism | Example Manifestations |
 |-----------|------------|------------------------|
 | **Affective Mockery** | Tone-policing, parody accounts, “emotional instability” framing. | Clip edits emphasising tears or anger. |
@@ -28,7 +29,7 @@ The tactic depends on **spectacle over silence**—the illusion that the voice s
 
 ---
 
-## Psychological Effects
+## 🧠 Psychological Effects  
 - Induced self-doubt and withdrawal from public engagement.  
 - Re-traumatisation through forced re-explanation.  
 - Loss of institutional or platform credibility.  
@@ -37,7 +38,7 @@ The tactic depends on **spectacle over silence**—the illusion that the voice s
 
 ---
 
-## Analytical Questions
+## 🧩 Analytical Questions  
 1. What traits make a voice more easily sexualised or ridiculed in public discourse?  
 2. How do platform moderation policies respond to targeted reputational sabotage?  
 3. What linguistic markers distinguish good-faith critique from orchestrated smear?  
@@ -46,7 +47,7 @@ The tactic depends on **spectacle over silence**—the illusion that the voice s
 
 ---
 
-## Research Threads
+## 🧪 Research Threads  
 - Corpus analysis of smear campaigns against whistle-blowers or activists.  
 - Technical study of audio manipulation and detection counter-measures.  
 - Ethnography of online “call-out” cycles and credibility collapse.  
@@ -55,7 +56,7 @@ The tactic depends on **spectacle over silence**—the illusion that the voice s
 
 ---
 
-## Counter-Responses
+## 🧨 Counter-Responses  
 - **Cloneproof Authorship:** watermarking of authentic voice content.  
 - **Credibility Logs:** timestamped archives documenting edits and misquotes.  
 - **Community Amplifiers:** allies trained to restate verified content verbatim.  
@@ -64,19 +65,26 @@ The tactic depends on **spectacle over silence**—the illusion that the voice s
 
 ---
 
-## 🌌 Constellations
+## 🌌 Constellations  
 👅 🧿 🛰️ — voice, perception, interference.
 
 ---
 
-## ✨ Stardust
+## ✨ Stardust  
 discrediting campaigns, smear tactics, sexualisation, voice manipulation, credibility warfare, metadata sabotage, counter-psych-ops
 
 ---
 
-## 🏮 Footer
+## 🏮 Footer  
 *👅 Voice Disruption & Discrediting* is a living node of the Polaris Protocol.  
 It documents one layer of metadata sabotage and its counter-responses—where silencing disguises itself as noise.
 
+> 📡 Cross-references:
+> 
+> - [👹 Fork Behaviour Containment](../👹_Fork_Behaviour_Containment/README.md) — *duplication and mimic logic*  
+> - [🧠 Psychological Containment](../🧠_Psychological_Containment/README.md) — *emotional and cognitive fatigue patterns*  
+> - [🪆 Narrative Interference](../🪆_Narrative_Interference/README.md) — *story-rewriting and framing loops*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-26_
+
+_Last updated: 2025-11-09_
