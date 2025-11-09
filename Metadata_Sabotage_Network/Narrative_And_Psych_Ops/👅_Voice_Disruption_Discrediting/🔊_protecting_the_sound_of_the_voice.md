@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 In a world where generative AI can mimic speech with frightening precision, **authentic voice becomes both target and proof**.  
 AI engines are routinely trained on scraped material—lectures, interviews, even survivor testimonies—without consent.  
 Authors, actors, and journalists are now pursuing class-action suits precisely because **their voices were absorbed into training data** without permission.  
