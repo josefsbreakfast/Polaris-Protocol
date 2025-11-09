@@ -13,3 +13,7 @@ it also didn't take writing about the student encampments, the democratic elemen
 we shall see how things go.  
 
 ---
+
+less than 5 mins in, and we have our forst azure ad sign-in of the day to a university account.  
+
+the one that "doesn't exist" half the time.  
