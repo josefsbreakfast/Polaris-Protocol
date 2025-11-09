@@ -94,8 +94,7 @@ Every file includes a **Constellations** section *before the Footer*.
 
 ```markdown
 ## 🌌 Constellations  
-
-🧿 🛰️ 🔮 — This node sits in the diagnostic + refusal register.
+🪞 ✂️ 🧩 🧠 🧿 — short 1-line semantic tag defining node’s function (e.g., diagnostic register; civic reconstruction register; forensic ledger).  
 ```
 
 ---
@@ -116,8 +115,7 @@ Every file includes a **Stardust** section *just before the Footer*.
 
 ```markdown
 ## ✨ Stardust  
-
-voice cloning, countermeasures, refusal, AI safety, survivor tools
+comma-separated conceptual and keyword list — always lowercase, no caps; ordered from thematic to specific.  
 
 ```
 
@@ -138,19 +136,22 @@ Every file ends with a **🏮 Footer** section.
 **Example:**  
 
 ```markdown
+---
+
 ## 🏮 Footer  
 
-*Cloneproof* is a living node of the Polaris Protocol.  
-It documents practical strategies for resisting vocal and behavioural replication.  
+*Node Title* is a living node of the **Polaris Protocol**.  
+1-2 sentences stating its purpose, phrased in documentary voice.  
 
 > 📡 Cross-references:
-
-> - [Survivor Tools](../Survivor_Tools/) — *countermeasures and refusal guides*  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — *logs of suppression methods*  
+> 
+> - [Node or Folder 1](../path/) — one-line function descriptor  
+> - [Node or Folder 2](../path/) — one-line function descriptor  
+> - [🎛️ Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and clarity guide  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-09_
+_Last updated: YYYY-MM-DD_
 
 ```
 
