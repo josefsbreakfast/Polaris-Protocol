@@ -169,7 +169,7 @@ It documents how visibility and desire are manipulated to neutralise truth-telle
 > 
 > - [👅 Voice Disruption & Discrediting — Cluster Overview](./README.md)  
 > - [🎪 Racialised Projection as Harassment](./🎪_racialised_projection_as_harassment.md)  
-> - [🈴 Allies & Ethics](../🈴_Allies_And_Ethics/README.md)  
+> - [🈴 Allies & Ethics](../../Governance_And_Containment/🈴_Allies_And_Ethics/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
