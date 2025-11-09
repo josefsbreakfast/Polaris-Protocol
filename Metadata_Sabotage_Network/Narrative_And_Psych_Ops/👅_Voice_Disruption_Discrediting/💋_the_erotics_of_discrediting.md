@@ -167,7 +167,7 @@ It documents how visibility and desire are manipulated to neutralise truth-telle
 
 > 📡 Cross-references:
 > 
-> - [👅 Voice Disruption & Discrediting — Cluster Overview](./README.md)  
+> - [👅 Voice Disruption & Discrediting — Cluster Overview](./README.md) — *ethical framework for reciprocal accountability*  
 > - [🎪 Racialised Projection as Harassment](./🎪_racialised_projection_as_harassment.md)  
 > - [🈴 Allies & Ethics](../../Governance_And_Containment/🈴_Allies_And_Ethics/README.md)  
 
