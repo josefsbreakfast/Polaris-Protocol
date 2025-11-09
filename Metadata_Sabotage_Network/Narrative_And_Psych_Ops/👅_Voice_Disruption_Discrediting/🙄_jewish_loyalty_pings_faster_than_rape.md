@@ -1,5 +1,5 @@
 # 🙄 Forensic Schema — Why the Dual Loyalty Accusation ‘Pings’ Harder than Rape Disclosure  
-**First created:** 2025-08-04  |  **Last updated:** 2025-10-26  
+**First created:** 2025-08-04 | **Last updated:** 2025-11-09  
 *Mapping metadata bias and reputational shielding in survivor-related institutional handling.*
 
 ---
@@ -12,28 +12,44 @@ A single sentence exposes a system:
 This is not anecdote; it’s schema.  
 It shows how **reputational logic** and **security metadata** collide to decide which harms are logged, routed, or erased.
 
+The pattern is reproducible: when identity intersects with state optics, **metadata response speed becomes a proxy for power**.
+
 ---
 
 ## ✨ Key Patterns Exposed  
 
-### 🔥 Survivor Credibility is Punished  
+### 🔥 Survivor Credibility Is Punished  
 Survivors who remain articulate and strategic are framed as threats.  
 Competence becomes defiance; coherence reads as control.  
 Systems still expect collapse as the proof of truth.
 
-### 🏛️ Narrative Mastery is Reframed as Aggression  
+> Emotional composure is mistranslated as deceit — the institution’s empathy circuitry mistakes trauma literacy for manipulation.
+
+---
+
+### 🏛️ Narrative Mastery Is Reframed as Aggression  
 Institutional cultures licence only *fragmented* disclosure.  
 Precision or continuity of narrative is coded as manipulation.  
 Containment logic depends on keeping testimony disordered.
 
-### 🕯️ Metadata Routing is Biased by Power and Proximity  
+> The storyteller who knows her own plot becomes dangerous — because she reveals that chaos is manufactured, not innate.
+
+---
+
+### 🕯️ Metadata Routing Is Biased by Power and Proximity  
 Security-adjacent hierarchies prioritise reputational risk over bodily harm.  
 Accusations that threaten geopolitical or racial optics — “dual loyalty,” “extremism,” “bias” — trigger faster metadata response than rape or record-breach reports.  
 This reflects **racialised routing** within oversight infrastructure.
 
+> The machine listens hardest where the state might blush.
+
+---
+
 ### 🐍 Reputational Shielding Protects Male State Actors  
 When perpetrators sit near state or security apparatus, the data environment flips: the survivor is recoded as liability.  
 Pain becomes a reputational hazard; containment routines activate accordingly.
+
+> Protection flows upward, exposure downward — and the audit trail is formatted to look neutral.
 
 ---
 
@@ -43,37 +59,36 @@ They reveal how institutions treat identity as a risk variable and truth as a re
 Every flagged keyword, delayed response, or anonymised audit trail shows the same design principle:  
 **protection flows upward, exposure downward.**
 
+To read these systems for bias is to treat bureaucracy as language — syntax that betrays allegiance.
+
 ---
 
 ## 🌌 Constellations  
 🙄 ⚖️ 🧩 🪞 — forensic mapping, credibility bias, metadata routing, containment logic.  
 
-**Caution:** Neither book uses antiracism pedagogy, but both have narrative experiences of similar phenomena:  
+**Cultural lineage:**  
+- *Jews Don’t Count* (2021) — David Baddiel  
+- *People Love Dead Jews: Reports from a Haunted Present* (2021) — Dara Horn  
+- *How to Be an Antiracist* (2019) — Ibram X. Kendi  
 
-> - *Jews Don't Count (2021), David Baddiel*  
-> - *People Love Dead Jews: Reports from a Haunted Present (2021), Dara Horn*  
-
-**Improved pedagogy:**  
-
-*How to Be an Antiracist (2019), Ibram X. Kendi.*  
+Each text approaches bias from a different epistemic angle: what is counted, what is seen, and what is systemically deferred.
 
 ---
 
 ## ✨ Stardust  
-metadata bias, reputational shielding, survivor credibility, dual loyalty, racialised governance, containment logic, forensic schema, state adjacency, record breach, systemic erasure
+metadata bias, reputational shielding, survivor credibility, dual loyalty, racialised governance, containment logic, forensic schema, state adjacency, record breach, systemic erasure  
 
 ---
 
 ## 🏮 Footer  
-*🙄 Forensic Schema — Why the Dual Loyalty Accusation ‘Pings’ Harder than Rape Disclosure* is a living node of the Polaris Protocol.  
+*🙄 Forensic Schema — Why the Dual Loyalty Accusation ‘Pings’ Harder than Rape Disclosure* is a living node of the **Polaris Protocol**.  
 It documents the bias hierarchies that determine which harms are heard and which are hidden inside institutional metadata systems.
 
 > 📡 Cross-references:
 > 
->  - [👅 Voice Disruption Discrediting](./README.md) — ethical framework for reciprocal accountability  
->  - [🔮 Visibility Indexing Anomalies](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md) — routing bias evidence  
-  
+> - [👅 Voice Disruption & Discrediting — Cluster Overview](./README.md) — *ethical framework for reciprocal accountability*  
+> - [🔮 Visibility Indexing Anomalies](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md) — *routing bias evidence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-11-09_
