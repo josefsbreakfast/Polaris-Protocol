@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-08 23:41:27 UTC_
+_Generated on 2025-11-09 01:56:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1904,6 +1904,7 @@ _Generated on 2025-11-08 23:41:27 UTC_
     - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
     - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
     - [`⚖️_triangle_of_accountability_gaps.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_triangle_of_accountability_gaps.md)
+    - [`⚖️_united_fronts_democratic_defence.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_united_fronts_democratic_defence.md)
     - [`⚗️_data_contamination_chain.md`](Polaris_Nest/Git_Intake_Drawer/⚗️_data_contamination_chain.md)
     - [`⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md)
     - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
@@ -2204,6 +2205,7 @@ _Generated on 2025-11-08 23:41:27 UTC_
     - [`🧿_oversight_paralysis_when_allies_breach_the_firewall.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis_when_allies_breach_the_firewall.md)
     - [`🧿_private_eye_bounces_back.md`](Polaris_Nest/Git_Intake_Drawer/🧿_private_eye_bounces_back.md)
     - [`🧿_representation_logic_vs_platform_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/🧿_representation_logic_vs_platform_optimisation.md)
+    - [`🧿_sassi_as_counter_surveillance_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧿_sassi_as_counter_surveillance_accountability.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
