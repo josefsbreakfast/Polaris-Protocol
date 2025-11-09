@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-09 01:56:22 UTC_
+_Generated on 2025-11-09 02:01:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1411,7 +1411,9 @@ _Generated on 2025-11-09 01:56:22 UTC_
   - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
     - [`README.md`](Disruption_Kit/💎_Resources/README.md)
     - [`⚖️_legal_templates_and_guides.md`](Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
+    - [`📚_example_resource_guide.yaml`](Disruption_Kit/💎_Resources/📚_example_resource_guide.yaml)
     - [`📚_research_and_theory.md`](Disruption_Kit/💎_Resources/📚_research_and_theory.md)
+    - [`📚_resource_guides_schema.md`](Disruption_Kit/💎_Resources/📚_resource_guides_schema.md)
     - [`🛠️_survivor_tools_index.md`](Disruption_Kit/💎_Resources/🛠️_survivor_tools_index.md)
     - [`🛰️_forensic_and_osint_tools.md`](Disruption_Kit/💎_Resources/🛰️_forensic_and_osint_tools.md)
     - [`🧾_glossary_and_meta_index.md`](Disruption_Kit/💎_Resources/🧾_glossary_and_meta_index.md)
