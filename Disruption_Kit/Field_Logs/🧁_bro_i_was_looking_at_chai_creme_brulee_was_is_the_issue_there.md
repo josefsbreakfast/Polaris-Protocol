@@ -153,3 +153,11 @@ And I need people in the senior labour party and the canjnet to stop protecting 
  Because somewhere very close to power there is an incredibly leaky tap.  
 
  And sadly, I seem to be witness to a lot of it spits out.  
+
+ ---
+
+ 
+note that this came after the data security activities this week, including escalation to ICO for the wider issue (which has previously been a point of interference, just like access to the law profession has), and Nottingham returning a saw such that it now understands and knows how there have been some mistakes, because of what is being held back and because of what is being disclosed.  
+
+---
+
