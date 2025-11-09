@@ -42,6 +42,35 @@ Each idea here starts from the premise:
 
 (Additional sketches and prototypes to follow.)
 
+```
+❤️‍🩹 Rehabilitated_Tech/
+│
+├── 💬 Therapeutic_Interfaces/
+│   ├── 🪞 Mirror_Models/                ← how reflection & recognition loops work in design
+│   ├── 🎙️ Voice_Rehabilitation/        ← restoring authentic expression in mediated spaces
+│   └── 🫂 Co-Regulation_Techniques/    ← nonverbal & emotional feedback mechanisms
+│
+├── 🧩 Boundary_Literacy/
+│   ├── 🧱 Consent_Architecture/         ← design standards for consent and control
+│   ├── ⚖️ Ethical_Negotiation/         ← protocols for conflict, apology, and repair
+│   └── 🧷 Psychological_Safety_Design/  ← designing interfaces that prevent retraumatisation
+│
+├── 🧠 Algorithmic_Recovery/
+│   ├── 🔍 Detox_Protocols/             ← how to reverse algorithmic overexposure
+│   ├── 💭 Cognitive_Load_Balancing/    ← design strategies for information fatigue
+│   └── 🌿 Slow_Tech_Methods/           ← building deliberate slowness & rest into systems
+│
+├── 🧵 Human_Machine_Relations/
+│   ├── 🫀 Emotional_AI_Ethics/         ← emotional labour, parasocial care, attachment theory
+│   ├── 🧍 Embodiment_And_Presence/     ← translating digital interaction into somatic awareness
+│   └── 🪡 Repair_Rituals/              ← symbolic + practical methods for restoring trust
+│
+└── 🕊️ Tech_Reintegration_Programmes/
+    ├── 🧭 Survivor-Led_Initiatives/    ← survivor-authored frameworks for reusing or refusing tech
+    ├── 🏫 Educational_Formats/         ← curricula for trauma-informed digital literacy
+    └── 🧰 Tool_Rehabilitation_Lab/     ← sandbox for redesigning coercive platforms
+```
+
 ---
 
 ## 🌌 Constellations  
