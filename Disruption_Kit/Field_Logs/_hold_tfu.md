@@ -32,4 +32,8 @@ idk why you would think what you're trying to encourage me to do is either norma
 
 if you want to go and chat up a dude, you don't need me to stand in your way.  
 
+---
+
+again. please. for goodness sake; ask him out yourself if you care so much 🤣🤣🤣  
+
 2025-11-09
