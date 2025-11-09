@@ -1,0 +1,53 @@
+- title: "Final Straw: SASSI Interview"
+  type: podcast
+  author: "Final Straw Radio / KPFA"
+  year: 2025
+  quadrant: [autonomous, collective]
+  strength: "Grassroots testimony and practical civic methodology"
+  bias: "Abolitionist, anti-state"
+  tone: "Conversational, urgent"
+  polaris_use: "Civic forensics, southern counter-surveillance"
+  link: "https://pca.st/episode/06d8fca1-b469-4e25-94b1-5f84aa94caa1"
+
+- title: "The Age of Surveillance Capitalism"
+  type: book
+  author: "Shoshana Zuboff"
+  year: 2019
+  quadrant: [authority, collective]
+  strength: "Economic dissection of data capitalism"
+  bias: "Liberal-academic, reformist"
+  tone: "Analytical, comprehensive"
+  polaris_use: "Structural backdrop for surveillance economy"
+  link: "https://www.hup.harvard.edu/books/9781781256855"
+
+- title: "Tech Policy Press — Surveillance Tech & Policing"
+  type: website
+  author: "Tech Policy Press editorial team"
+  quadrant: [authority, individual]
+  strength: "Policy-level reporting and legislative context"
+  bias: "Centrist policy analysis"
+  tone: "Professional, measured"
+  polaris_use: "Regulatory landscapes and accountability frameworks"
+  link: "https://www.techpolicy.press"
+
+- title: "The Free Press — The Rise of AI Bureaucracy"
+  type: article
+  author: "Bari Weiss (ed.)"
+  year: 2024
+  quadrant: [autonomous, individual]
+  strength: "Critique of government expansion and bureaucratic AI"
+  bias: "Libertarian conservative"
+  tone: "Provocative, polemical"
+  polaris_use: "Coalition logic, small-government rhetoric"
+  link: "https://www.thefp.com"
+
+- title: "Ruha Benjamin — Race After Technology"
+  type: book
+  author: "Ruha Benjamin"
+  year: 2019
+  quadrant: [autonomous, collective]
+  strength: "Critical race analysis of technological design"
+  bias: "Progressive academic"
+  tone: "Analytical, ethical"
+  polaris_use: "Equity frameworks for algorithmic accountability"
+  link: "https://www.ruhabenjamin.com"
