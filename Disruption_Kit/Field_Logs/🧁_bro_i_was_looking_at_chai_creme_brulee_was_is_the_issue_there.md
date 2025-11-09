@@ -26,3 +26,26 @@ Let me know.
 God, I want to fix it.  
 
 ---
+
+there is also during this part of what I can only describe as fairly blatant nudging of a contact of mine, and if this is also being done under the premise of health in a local area?  
+
+Bad fucking form.  
+
+That person is extremely kind and compassionate and they don't deserve to be used in that way.  
+
+<!--"And while we're on the subject of divesity"?  
+
+Lord Krishna, and the people who focus on Lord Krishna?  
+
+An extremely different type of Hinduism, such that one can see it like comparing Christianity and Islam (i.e. a lot of overlap but fundamentally quite different), to the Hinduism you are looking to imitate or influence with.  
+
+If the surveillance team actually understood what the word Mahadev meant, or which Hindu cultures use what looks like a swastika (because it's where the Nazis co-opted/stolr it from via HPB), I just had any respect for the people that are actually surveilling?  
+
+Perhaps you would be able to be more "accurate" with your pan-Asian racism.  
+if they "took your job", you got a free pasta list and harass and perv over women in return.  
+
+What exactly is the problem?  
+
+What particular grandiosity entertains your mind? Such that you still think that you're badly done to?  -->
+
+---
