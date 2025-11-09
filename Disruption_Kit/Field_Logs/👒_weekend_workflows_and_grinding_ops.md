@@ -123,4 +123,20 @@ But afterwards...
 
 It feels so free.  
 
+I am, of course, mixing language and metaphor snd form and preexisting poetry and sacred texts, previsely because it is difficult to explain the core concepts of Jewish Kabbalah (the original and best) in writing, and the breath and life of chassidus? Even more so.  
+
+When something is formed from being oppressed underca system,  
+
+one must often turn to others,  
+
+when history now places you in a different place in such a system.  
+
+I don't look st people and get angry and act to stop their joy and being;  
+
+I listen and try to learn and create around what they can teach me.  
+
+A rather selfish thing, when one thinks about it.  
+
+And every debt calls for return.  
+
 -->
