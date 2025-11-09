@@ -1,7 +1,6 @@
 # 🔮 House Style  
-
-**Version:** 1.6  
-**First created:** 2025-08-08 | **Last updated:** 2025-09-28 <br>
+**Version:** 1.7  
+**First created:** 2025-08-08 | **Last updated:** 2025-11-09  
 *Standard Formatting & Style Guide for Polaris Protocol*  
 
 ---
@@ -83,7 +82,8 @@ Every file includes a **Constellations** section *before the Footer*.
 
 **Purpose:**  
 - To map each node into the wider Polaris constellation.  
-- Works like a “semantic compass” for where the file belongs in the visual + conceptual palette.  
+- Works like a “semantic compass” for where the file belongs in the visual + conceptual palette.
+- Optionally: this may include media references which relate to the node, at writer's discretion.  
 
 **Format:**  
 - **H2 heading**: `## 🌌 Constellations`  
@@ -143,13 +143,14 @@ Every file ends with a **🏮 Footer** section.
 *Cloneproof* is a living node of the Polaris Protocol.  
 It documents practical strategies for resisting vocal and behavioural replication.  
 
-> 📡 Cross-references:  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures and refusal guides  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — logs of suppression methods  
+> 📡 Cross-references:
+
+> - [Survivor Tools](../Survivor_Tools/) — *countermeasures and refusal guides*  
+> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — *logs of suppression methods*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-08-12_
+_Last updated: 2025-11-09_
 
 ```
 
