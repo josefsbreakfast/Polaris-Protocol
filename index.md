@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-09 02:01:08 UTC_
+_Generated on 2025-11-09 03:04:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2395,6 +2395,7 @@ _Generated on 2025-11-09 02:01:08 UTC_
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
     - [`protocol_integrity_sop.md`](Polaris_Nest/🏮_Admin_Kit/protocol_integrity_sop.md)
     - [`🌌_constellation_tracker.md`](Polaris_Nest/🏮_Admin_Kit/🌌_constellation_tracker.md)
+    - [`🌒_structure_overview.md`](Polaris_Nest/🏮_Admin_Kit/🌒_structure_overview.md)
     - [`🎏_dividers_and_headers.md`](Polaris_Nest/🏮_Admin_Kit/🎏_dividers_and_headers.md)
     - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](Polaris_Nest/🏮_Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
     - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](Polaris_Nest/🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md)
