@@ -17,3 +17,9 @@ we shall see how things go.
 less than 5 mins in, and we have our forst azure ad sign-in of the day to a university account.  
 
 the one that "doesn't exist" half the time.  
+
+or maybe it's the one that does exist and it's getting a haircut.  
+
+the feeling that someone can just go in and essentially make your files look however suits them, is really "rug from under your feet" inducing.  
+
+the "record" is what they makd it, unless someone is looking properly, and most of the onlookers can see precisely nothing.  
