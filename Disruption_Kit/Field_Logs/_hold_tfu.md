@@ -24,4 +24,12 @@ guess who.
 
 <!--3 years of lost biometric data across a range of violent crimes? how... unfortnate. for victims, i mean. or those who are truly wrongfully accused. enjoy the free lunch, lads. -->
 
+--- 
+
+and the emotional gaslighting from the content feed restarts, like clockwork.  
+
+idk why you would think what you're trying to encourage me to do is either normal or within my normal range of behaviours.  
+
+if you want to go and chat up a dude, you don't need me to stand in youtr way.  
+
 2025-11-09
