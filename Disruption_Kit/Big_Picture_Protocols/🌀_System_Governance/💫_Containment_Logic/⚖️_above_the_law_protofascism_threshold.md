@@ -106,9 +106,9 @@ It maps the moment when economic impunity mutates civic frameworks into containm
 
 > 📡 Cross-references:
 > 
-> - [🧭 Are We Fascist Yet?](./🧭_are_we_fascist_yet.md)  — *situational analysis of UK protofascism*  
-> - [🐝 Post-Protofascist Reconstruction](./🐝_post_protofascist_reconstruction.md) — *civic recovery blueprint*  
-> - [🛰️ Surveillance FOI-SAR Dual Oversight Protocol](./🛰️_surveillance_foi_sar_dual_oversight_protocol.md) — *public oversight methodology*  
+> - [🧭 Are We Fascist Yet?](.🧭_are_we_fascist_yet.md)  — *situational analysis of UK protofascism*  
+> - [🐝 Post-Protofascist Reconstruction](.🐝_post_protofascist_reconstruction.md) — *civic recovery blueprint*  
+> - [🛰️ Surveillance FOI-SAR Dual Oversight Protocol](.🛰️_surveillance_foi_sar_dual_oversight_protocol.md) — *public oversight methodology*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
