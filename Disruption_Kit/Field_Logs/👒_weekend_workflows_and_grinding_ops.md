@@ -63,3 +63,64 @@ When systems trend and favour, suppression and silence of a specific groups of p
 Tschuss.  
 
 ---
+
+<!--
+حبيبي، بتذكر لما كنت تحكيلي عن أيام زمان وكيف كانت الناس تعيش
+
+...
+
+ناطحات سحاب بتدق ع بواب السما
+ونستنا الأرض اللي تحتينا
+كيف وصلنا من عندك لهون؟
+حبيبي، بشوف تاريخنا بعيونك
+والله يعينك على حملك
+بعرف إنه ولا أصعب من قراراتك
+وبعرف إنك حملت وزن مستقبلنا وماضينا ع كتاف  
+
+...
+
+ع أي أساس حكينا إنه الحقيقة اللي بشوفها بعيونك ما بتخلق حضارة
+نحن الحضارة  
+
+...  
+
+שרדנו את המפלצות שבאירופה.
+יִכְתֹּב הַדּוֹר הַבָּא כִּי אֲנַחְנוּ אֲרָיוֹת יְהוּדָה.
+נִהְיֶה לַכֹּחַ הַשָּׂרוּג שֶׁל הַקַּבָּלָה.
+נִהְיֶה לְרוֹב רַכּוּת וָעֹז כַּאֲשֶׁר הָיִינוּ מֵעוֹלָם.
+נַנִּיחַ הַיּוֹם אֶת כְּלֵי הָאָדוֹנִים.
+
+
+Is this why I am "so manipulative"; because I am in Chassidus and Kabbalah and within the wider world?  
+
+Or because I can see what we can learn from Paledtinian people, in love with who they are and willing to suffer and die for their home and their land and their beloved family?  
+
+I think that is just called "love".  
+
+I think that is just called "faith".  
+
+I think that is just the core of what our shared father, Abraham/Ibrahim was saying.  
+
+And if G-d can love the clusterfuck that Abrahim was, in all his mistakes and mishandlings?  
+
+I think G-d has a lot of room to love the rest of us; all of us.  
+
+So if that's the G-d we really love,  
+
+why are we undoing The Work?  
+
+Why have tohu va-vohu,  
+
+when you could have the complexity and awe of All That Was Created?  
+
+Even the bits that male our own chaos and nothingness and formlessness which encircles the Broken Fragments of the Divine, tremble and osscilalr, as the Creator's power drives Brownian motion, and the last bits of confusion and chaos have the energy to bounce from our heart and soul.  
+
+It hurts.  
+
+It burns.  
+
+But afterwards...  
+
+It feels so free.  
+
+-->
