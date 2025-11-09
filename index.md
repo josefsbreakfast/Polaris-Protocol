@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-09 23:28:38 UTC_
+_Generated on 2025-11-09 23:30:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -930,6 +930,7 @@ _Generated on 2025-11-09 23:28:38 UTC_
     - [`IMG_2625.png`](Disruption_Kit/Field_Logs/IMG_2625.png)
     - [`IMG_2745.png`](Disruption_Kit/Field_Logs/IMG_2745.png)
     - [`IMG_2746.png`](Disruption_Kit/Field_Logs/IMG_2746.png)
+    - [`IMG_2864.png`](Disruption_Kit/Field_Logs/IMG_2864.png)
     - [`IMG_2878.png`](Disruption_Kit/Field_Logs/IMG_2878.png)
     - [`IMG_2879.png`](Disruption_Kit/Field_Logs/IMG_2879.png)
     - [`IMG_2907.png`](Disruption_Kit/Field_Logs/IMG_2907.png)
@@ -1886,7 +1887,6 @@ _Generated on 2025-11-09 23:28:38 UTC_
     - [`Baseline (no suppression, no reciprocity).png`](Polaris_Nest/Git_Intake_Drawer/Baseline (no suppression, no reciprocity).png)
     - [`Deliberate small suppression -> later release + reciprocity (blowback).png`](Polaris_Nest/Git_Intake_Drawer/Deliberate small suppression -> later release + reciprocity (blowback).png)
     - [`Final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/Final_influence_comparisons.csv)
-    - [`IMG_2864.png`](Polaris_Nest/Git_Intake_Drawer/IMG_2864.png)
     - [`Last_8_timesteps__full_sim_.csv`](Polaris_Nest/Git_Intake_Drawer/Last_8_timesteps__full_sim_.csv)
     - [`Numeric_summary__Target_blowback_metrics_.csv`](Polaris_Nest/Git_Intake_Drawer/Numeric_summary__Target_blowback_metrics_.csv)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
