@@ -155,7 +155,7 @@ It details methods to track, verify, and reclaim the authentic human voice again
 
 > 📡 Cross-references:
 > 
-> - [👅 Voice Disruption & Discrediting — Cluster Overview](./README.md)  
+> - [👅 Voice Disruption & Discrediting — Cluster Overview](./README.md) — *ethical framework for reciprocal accountability*  
 > - [🧬 Clone Drift, Deepfakes, Audio Manipulation and Voice Theft](./🧬_clone_drift_deepfakes_audio_manipulation_and_voice_theft.md)  
 > - [🔊 Signal Integrity Evidence Index](./🔊_signal_integrity_evidence_index.csv)  
 
