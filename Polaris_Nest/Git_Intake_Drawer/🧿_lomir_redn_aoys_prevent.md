@@ -1,7 +1,7 @@
 # 🧿 Lomir Redn Aoys “Prevent”  
 לאָמיר רעדן אויַס "Prevent"  
 
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-09  
 *Let’s talk out Prevent — how cultural literacy, survivor memory, and algorithmic bias collide.*
 
 ---
@@ -52,6 +52,14 @@ flowchart TD
 ```
 
 *Outcome:* antifascist Jewish discourse suppressed; Orthodox or offline content invisible; machine learns nothing useful.  
+As Jewish people, analogue or offline, do not maintain executive control over inputs, there is no ability for Kol Yisrael to negotiate what is flagged, except by aligning with governance of models *and also* maintaining significant capital stakes (which would entangle in any related unaddressed harm to other marginalised communities, the responsibility of Kol Yisrael entire by extension) *and also* maintaining insider industry dominance (same issue).  
+
+This means we are trapped as the "middlemen", yet again.  
+**Exit strategy**: advocating and creating better models with better QC as a way of lessenign and preventing harms to all individuals encoded by historical European tropes as "less than"; extends to every marginalised and "categorised" group by inherent architecture of language used to encode models.  
+We may need to start telling some of our sonds and daughters to pick up the growing and by default friendly-to-itinerant-work trades in tech, as similar status to accounting, law, and physicians and surgeons.  
+Arguably they would be acting as half-Rabbis, so not a terrible prospect.  
+
+Coding itself, must be protected and taught alongside moral ethics, or it will ultimately recurse to Eurocentric, anti-Jewish model architecture. 
 
 דאָס איז פאַרוואָס דו קענסט נישט געפֿינען היינטיקן דאַף, זעסטו?  
 
@@ -145,9 +153,9 @@ Its purpose is diagnostic and preservational: to show how fixing the machine beg
 
 > 📡 Cross-references:
 > 
-> - [🎧 Yiddish Music & the False-Positive Loop in “Values” Detection](../Governance_And_Containment/🉑_System_Thresholds/🎧_yiddish_music_false_positive_loop_in_values_detection.md)  
-> - [🌿 Living with a High-Prevent Environment](../Field_Care/🌿_living_with_high_prevent_environment.md)  
+> - [🎧 Yiddish Music & the False-Positive Loop in “Values” Detection]  
+> - [🌿 Living with a High-Prevent Environment]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2025-11-09_
