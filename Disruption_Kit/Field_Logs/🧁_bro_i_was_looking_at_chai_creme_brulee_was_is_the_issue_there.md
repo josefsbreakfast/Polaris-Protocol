@@ -166,3 +166,17 @@ incidentally, part of the reason why I'm enjoying the behind bastards himmler ep
 And I think that's something that's politically important for us to understand in this moment.  
 
 You think they are harmless until they are not.  
+
+singling my record out during the CPS process?  
+
+And all of the downstream parties who are appear to have had data sharing from it?  
+
+That reads a lot like someone who understood before I was nudged to report, that there was a risk that this particular scenario may have happened anyway had they left it, however small that risk might be, and sort a set of the chain of events in a way they felt they could control.  
+
+I'm not saying it *is* that, just that it looks a lot like it.  
+
+And something about how I had to word  that...  
+
+It was also interesting how precious the AI got yesterday about the particular wording what was essentially a joke about hacking.  
+
+That was quite funny.
