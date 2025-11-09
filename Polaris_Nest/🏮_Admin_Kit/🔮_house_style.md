@@ -145,9 +145,8 @@ Every file ends with a **🏮 Footer** section.
 
 > 📡 Cross-references:
 > 
-> - [Node or Folder 1](../path/) — one-line function descriptor  
-> - [Node or Folder 2](../path/) — one-line function descriptor  
-> - [🎛️ Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and clarity guide  
+> - [Node or Folder 1](../path/) — *one-line function descriptor*  
+> - [Node or Folder 2](../path/) — *one-line function descriptor*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
