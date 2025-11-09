@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-09 07:32:29 UTC_
+_Generated on 2025-11-09 07:34:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2395,7 +2395,7 @@ _Generated on 2025-11-09 07:32:29 UTC_
         - [`🧯_harm_scan_report.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
         - [`🧯_sweep_harm_log_2025-08-17.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
-    - [`protocol_integrity_sop.md`](Polaris_Nest/🏮_Admin_Kit/protocol_integrity_sop.md)
+    - [`☔️_protocol_integrity_sop.md`](Polaris_Nest/🏮_Admin_Kit/☔️_protocol_integrity_sop.md)
     - [`🌌_constellation_tracker.md`](Polaris_Nest/🏮_Admin_Kit/🌌_constellation_tracker.md)
     - [`🌒_structure_overview.md`](Polaris_Nest/🏮_Admin_Kit/🌒_structure_overview.md)
     - [`🎏_dividers_and_headers.md`](Polaris_Nest/🏮_Admin_Kit/🎏_dividers_and_headers.md)
