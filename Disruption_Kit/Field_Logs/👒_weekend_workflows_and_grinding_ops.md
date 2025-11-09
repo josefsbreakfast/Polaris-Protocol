@@ -41,3 +41,25 @@ it just needs to stop, be repaired, and be compensated for where harms are prese
 that's a pretty bottom-of-the-barrel, "the bar is in hell that's how easy it is" ask.  
 
 ---
+
+I had a sleep so that I could recover the lost sleep last night; my devices/wifi/5g are now absolutely convinced we are in Sheffield, and regarding the last two photos, we really don't want everyone to know that.  
+
+Given the earlier access to azure ad own uni account? Let's think about it logically.  
+
+Our "arms industry / surveillance capitalism" questions are these:  
+
+What or who is based in Sheffield, who would favour access through Azure AD or Gmail over other systems, who has a collection of access routes into other applications and algorithms, who is really keen for you to not know they are based in Sheffield?  
+
+More importantly?  
+
+Which of the British citizens, in order for our Sheffield party and I to have met and been so intimate, are still walking around with the ability to sign off on such decisions?  
+
+Is a very interesting sort of questions when you think about it.  
+
+Our islands are so terribly small.  
+
+When systems trend and favour, suppression and silence of a specific groups of people, it really does taste so little, to nudge and worsen the process.  
+
+Tschuss.  
+
+---
