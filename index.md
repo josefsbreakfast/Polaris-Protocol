@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-09 21:32:42 UTC_
+_Generated on 2025-11-09 21:36:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2193,6 +2193,7 @@ _Generated on 2025-11-09 21:32:42 UTC_
     - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
     - [`🧬_transparency_as_antigenic_defense.md`](Polaris_Nest/Git_Intake_Drawer/🧬_transparency_as_antigenic_defense.md)
     - [`🧬_voice_model_capture_risks.md`](Polaris_Nest/Git_Intake_Drawer/🧬_voice_model_capture_risks.md)
+    - [`🧭_are_we_fascist_yet.md`](Polaris_Nest/Git_Intake_Drawer/🧭_are_we_fascist_yet.md)
     - [`🧭_political_mapping_two_axis_model.md`](Polaris_Nest/Git_Intake_Drawer/🧭_political_mapping_two_axis_model.md)
     - [`🧭_regulating_the_regulators.md`](Polaris_Nest/Git_Intake_Drawer/🧭_regulating_the_regulators.md)
     - [`🧭_signal_alignment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_signal_alignment.md)
