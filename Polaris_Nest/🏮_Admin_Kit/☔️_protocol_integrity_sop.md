@@ -1,4 +1,4 @@
-# 📋 Protocol Integrity SOP  
+# ☔️ Protocol Integrity SOP  
 **First created:** 2025-10-06 | **Last updated:** 2025-10-06  
 *Routine checks for maintaining consistency, linkage, and fidelity across Polaris nodes.*  
 
