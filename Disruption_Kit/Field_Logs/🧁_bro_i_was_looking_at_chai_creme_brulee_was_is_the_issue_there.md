@@ -161,3 +161,8 @@ note that this came after the data security activities this week, including esca
 
 ---
 
+incidentally, part of the reason why I'm enjoying the behind bastards himmler episodes recently, is that it truly isn't enough to say these men are just evil; they shimmied up greasy poles whilst pushing everyone else down them, and ended up being the tortoises on the fence posts. Largely because they were weak, insecure, vulnerable radicalisation, and ultimately a bit shit at everything else in life for this became their entire being.  
+
+And I think that's something that's politically important for us to understand in this moment.  
+
+You think they are harmless until they are not.  
