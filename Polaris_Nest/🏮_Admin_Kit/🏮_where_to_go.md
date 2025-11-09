@@ -1,229 +1,165 @@
-# 🏮 Where To Go — v3 (Digital Disruption Integration, Full Map)
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
-*A visual routing guide that mirrors the canonical `index.md` (Oct 2025) and **extends** the original compass with the 🦆 Digital_Disruption praxis branch.*
+# 🏮 Where To Go 
+**First created:** 2025-10-28 | **Last updated:** 2025-11-09  
+*The compass is broken, so we follow the light.*
 
 ---
 
-## 🧭 Orientation
-This update keeps the **full, granular decision tree** from v2 and adds a third pillar: **🦆 Digital Disruption** (praxis).  
-You still **route by intent first**, then choose the precise subfolder. Finally, finish with housekeeping: filename, footer, and `index.md` refresh.
+### 🌲 Root Forks
 
-Legend: ✨ satire/meta • 🌀 governance • 🐍 recursion/denial/radicalisation • 🦕 legacy influence • 🪄 norms/compliance/media • 🫀 care/trauma/ethics • 🧩 forensic metadata • 🦆 praxis
+Is the node pending completion? → **📥 Git_Intake_Drawer**
 
----
-
-## 🗺 Filing Flowchart (Full Mermaid)
-> If Mermaid doesn’t render, use the Plain‑Text Routes below.
-
-```mermaid
-flowchart TD
-  A[📂 New file arrives] --> B{Repo-level meta or style?}
-  B -->|Yes| B1[Polaris_Nest / 🏮 Admin_Kit — House Style, Branding Guide, SOPs]
-  B -->|No| C{Defines systemic rules / protocol structure?}
-
-  %% Big Picture Protocols narrowed routing (REFRESHED)
-  C -->|Yes| Cpick{Which systemic axis?}
-  C -->|No| D{Practical survivor tool, action, or countermeasure?}
-
-  %% ---------------- Big Picture Protocols ----------------
-  subgraph CLUSTERS[Big Picture Protocols — six constellations]
-    GLI[✨ Glimmer Is Taxable<br/><sub>satire • moral economy • meta‑ethics</sub>]
-    SYS[🌀 System Governance<br/><sub>law • bureaucracy • infra • narrative</sub>]
-    OUR[🫀 Our Hearts Our Minds<br/><sub>care • trauma • witness • ethics</sub>]
-    ORO[🐍 Ouroborotic Violence<br/><sub>recursion • denial • radicalisation</sub>]
-    ELD[🦕 Elder Influencers<br/><sub>legacy power • borders • world webs</sub>]
-    NOR[🪄 Expression Of Norms<br/><sub>compliance • media • nudge • oversight</sub>]
-  end
-
-  Cpick -->|governance logics, authorisation chains| SYS
-  Cpick -->|human dignity, ethics frames| OUR
-  Cpick -->|cycles of harm, denialism, pipelines| ORO
-  Cpick -->|money, statutes, borders, geopolitics| ELD
-  Cpick -->|compliance culture, media, algorithms| NOR
-  Cpick -->|satire, meta, moral accounting| GLI
-
-  %% SYSTEM GOVERNANCE branches
-  SYS --> LSG[⚖️ Legal & State Governance]
-  SYS --> CL[💫 Containment Logic]
-  SYS --> OC[👑 Ownership & Control]
-  SYS --> NM[📚 Narrative Management]
-  SYS --> IP[🛰️ Infrastructure Procurement]
-  SYS --> DE[🧪 Development & Experimentation]
-  SYS --> ABDD[🧊 Antarctic Biscuit Defence Directory]
-  SYS --> AAH[🚩 Angleland Ahoy]
-
-  %% OUR HEARTS branches
-  OUR --> BP[🐝 Body Politic]
-  OUR --> TM[🐦‍🔥 Trauma Psychology & Medical Misuse]
-  OUR --> WH[👁️‍🗨️ Witness Historical Casefiles]
-  OUR --> ES[🕯 Exorcising Safeguarding Shadows]
-  OUR --> HP[🌱 Human Principles]
-
-  %% OUROBOROTIC branches
-  ORO --> PMW[🗝️ Politics Memory Work]
-  ORO --> GD[🩸 Genocide Denialism]
-  ORO --> REX[🪬 Radicalisation & Extremism]
-
-  %% ELDER INFLUENCERS branches
-  ELD --> ML[💸 Money Listens]
-  ELD --> ST[📜 Statutes]
-  ELD --> JB[🕊️ Just Boxes]
-  ELD --> WW[🕸️ World Webs]
-  ELD --> BBW[🛟 Borders Boats Walls]
-
-  %% NORMS branches
-  NOR --> BUC[🎓 British University Compliance Service]
-  NOR --> BBC[🎶 Banned Broadcasts Cooperative]
-  NOR --> MTM[📺 Money Talks Media]
-  NOR --> HMDN[🧠 HM Dept Coercive Nudges]
-  NOR --> WTW[🧿 Watch The Watchers]
-
-  %% BBC split for datasets vs narrative nodes
-  BBC --> BBCPick{Dataset / structured analysis?}
-  BBCPick -->|Yes| BBCdata[🎶 BBC → data/]
-  BBCPick -->|No| BBCmain[🎶 BBC main cluster]
-
-  %% ---------------- Forensic / Metadata layer ----------------
-  C -->|No, not theory| D
-  D -->|No, not action| E{Casefile?}
-  D -->|Yes| DD[🦆 Digital Disruption]
-
-  E -->|Yes| G1[Polaris_Nest → SCP-VoiceX_Casefiles]
-  E -->|No| H{Structural mapping or metadata logic?}
-
-  H -->|Yes| Hpick{Which structural analysis?}
-  H -->|No| I{Narrative / psych‑ops?}
-
-  Hpick -->|Rupture logs, schema maps, pathways| H1[🧬 Structural_Mapping]
-  Hpick -->|Leaks & unintended reveals| H2[🧼 System_Leakage_Signatures]
-  Hpick -->|Targeting heuristics & rulesets| H3[🧿 Targeting_Logic_Metadata_Signatures]
-
-  I -->|Yes| Ipick{Which narrative/psych‑ops vector?}
-  I -->|No| Gc{Governance / containment rulesets?}
-
-  Ipick -->|Semantic drift, clone tone| I1[🪆 Narrative_Interference]
-  Ipick -->|Waiting, observers, compliance by delay| I2[🧠 Psychological_Containment]
-  Ipick -->|Voice smears, sexualisation, discrediting| I3[👅 Voice_Disruption_Discrediting]
-  Ipick -->|Harassment mis‑ID, mimic theatre| I4[👹 Fork_Behaviour_Containment]
-
-  Gc -->|Yes| GcPick{Which governance axis?}
-  Gc -->|No| J{Correspondence or reflective writing?}
-
-  GcPick -->|Contracts, NDA dragnets| Gc1[㊙ Containment_Contracts]
-  GcPick -->|Escalation triggers, thresholds| Gc2[🉑 System_Thresholds]
-  GcPick -->|Training data harms, dispatch logs| Gc3[🈸 Dispatch_And_Training]
-  GcPick -->|Prevent logic, governance suppression| Gc4[🈺 Governance_And_Prevent]
-  GcPick -->|Alliances, ethics, authorship| Gc5[🈴 Allies_And_Ethics]
-
-  J -->|Yes| J1[Polaris_Nest → ✨ Letters_to_Stars]
-  J -->|No| K{Apparitional Objects family?}
-
-  K -->|Ghostly presences / phantoms / echoes| K1[👻 Apparitional_Objects → 👻 Ghosts]
-  K -->|Forks, doubles, execution drift| K2[👻 Apparitional_Objects → 🍴 Forks]
-  K -->|Haunted artifacts, cursed records, traces| K3[👻 Apparitional_Objects → 📿 Artifacts]
-  K -->|Skeleton frameworks, haunted scaffolds| K4[👻 Apparitional_Objects → 🦴 Skeletons]
-  K -->|None| L{Utility glossary or external reference?}
-
-  L -->|Yes| L1[Disruption_Kit → 💎 Resources]
-  L -->|No| M{Syntax bombs or tags?}
-  M -->|Yes| M1[Disruption_Kit → 💣 Syntax_Bombs / 🔖 Tag_Pack]
-  M -->|No| N[Default closest thematic folder per index]
-
-  %% ---------------- 🦆 Digital Disruption (Praxis) ----------------
-  DD --> DPick{{What kind of action?}}
-  DPick --> D1[🪖 Home_Front_2.0<br/><sub>civic continuity & antifascist daily life</sub>]
-  DPick --> D2[🛰️ OSINT_Field_Operations<br/><sub>ethical investigation & pattern tracking</sub>]
-  DPick --> D3[🧨 Counter_Nudge_Playbook<br/><sub>narrative & behavioural counter‑ops</sub>]
-  DPick --> D4[🐝 All_In_Commons<br/><sub>mutual aid & cooperative governance</sub>]
-  DPick --> D5[🎚️ Syntax_Pony_Field_Manual<br/><sub>voice firmware & tone mechanics</sub>]
-
-  %% ---------------- Final housekeeping ----------------
-  B1 --> X[📑 Update index.md with emoji link + one‑line scope]
-  L1 --> X
-  N --> X
-  LSG --> X
-  CL --> X
-  OC --> X
-  NM --> X
-  IP --> X
-  DE --> X
-  ABDD --> X
-  AAH --> X
-  BP --> X
-  TM --> X
-  WH --> X
-  ES --> X
-  HP --> X
-  PMW --> X
-  GD --> X
-  REX --> X
-  ML --> X
-  ST --> X
-  JB --> X
-  WW --> X
-  BBW --> X
-  BUC --> X
-  BBC --> X
-  BBCdata --> X
-  BBCmain --> X
-  MTM --> X
-  HMDN --> X
-  WTW --> X
-  H1 --> X
-  H2 --> X
-  H3 --> X
-  I1 --> X
-  I2 --> X
-  I3 --> X
-  I4 --> X
-  Gc1 --> X
-  Gc2 --> X
-  Gc3 --> X
-  Gc4 --> X
-  Gc5 --> X
-  J1 --> X
-  K1 --> X
-  K2 --> X
-  K3 --> X
-  K4 --> X
-  D1 --> X
-  D2 --> X
-  D3 --> X
-  D4 --> X
-  D5 --> X
-
-  X[✅ Ensure filename follows House Style + 🏮 Footer block]
-```
+Does it study containment in theory or concept? → **🌸 Containment_Studies**  
+Does it document containment in practice? → **⚙️ Disruption_Kit**  
+Does it analyse interference or suppression mechanisms? → **🛰️ Metadata_Sabotage_Network**  
+Does it examine governance or structural systems? → **🧠 Big_Picture_Protocols**  
+Does it design or record civic action or repair? → **🦆 Digital_Disruption**  
+Does it explore haunting, echoes, or duplication? → **👻 Apparitional_Objects**  
+Does it log observable glitches or anomalies? → **🩻 Weirdness_Screening**  
+Is it administration, casework, or internal correspondence? → **🏮 Polaris_Nest**  
+Is it automation or procedural maintenance? → **🧹 scripts / maintenance**
 
 ---
 
-## 🧾 Plain‑Text Routes (exhaustive)
-(See flowchart labels; these mirror the existing v2 compass and add the 🦆 praxis family with exact folder names.)
+## 🌸 Containment Studies  
 
-- **🌀 System Governance** → `Big_Picture_Protocols/🌀_System_Governance/` → ⚖️, 💫, 👑, 📚, 🛰️, 🧪, 🧊, 🚩  
-- **🫀 Our Hearts Our Minds** → `Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/` → 🐝, 🐦‍🔥, 👁️‍🗨️, 🕯, 🌱  
-- **🐍 Ouroborotic Violence** → `Big_Picture_Protocols/🐍_Ouroborotic_Violence/` → 🗝️, 🩸, 🪬  
-- **🦕 Elder Influencers** → `Big_Picture_Protocols/🦕_Elder_Influencers/` → 💸, 📜, 🕊️, 🕸️, 🛟  
-- **🪄 Expression Of Norms** → `Big_Picture_Protocols/🪄_Expression_Of_Norms/` → 🎓, 🎶, 📺, 🧠, 🧿 (with 🎶/data split as needed)  
-- **✨ Glimmer Is Taxable And Other Big Drums** → `Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/`
+Is it about everyday lived containment? → **🌙 Everyday_Containment**  
+Is it defining a typology or theoretical model? → **💞 Containment_Theory**  
+Is it analysing containment itself as a system? → **🪐 Meta_Containment**
 
-**Forensic/Metadata:**  
-- **Casefiles** → `Polaris_Nest/SCP-VoiceX_Casefiles/`  
-- **Structural Mapping** → `Disruption_Kit/Metadata_Sabotage_Network/🧬_Structural_Mapping/`  
-- **System Leakage Signatures** → `.../🧼_System_Leakage_Signatures/`  
-- **Targeting Logic / Metadata Signatures** → `.../🧿_Targeting_Logic_Metadata_Signatures/`  
-- **Narrative/Psych‑Ops** → `.../🪆_Narrative_Interference/`, `.../🧠_Psychological_Containment/`, `.../👅_Voice_Disruption_Discrediting/`, `.../👹_Fork_Behaviour_Containment/`  
-- **Governance/Containment (metadata)** → `.../㊙_Containment_Contracts/`, `.../🉑_System_Thresholds/`, `.../🈸_Dispatch_And_Training/`, `.../🈺_Governance_And_Prevent/`, `.../🈴_Allies_And_Ethics/`  
-- **Letters** → `Polaris_Nest/✨_Letters_to_Stars/`  
-- **Apparitional Objects** → `.../👻_Apparitional_Objects/` → 👻, 🍴, 📿, 🦴  
-- **Resources / Syntax** → `Disruption_Kit/💎_Resources/`, `Disruption_Kit/💣_Syntax_Bombs/`, `Disruption_Kit/🔖_Tag_Pack/`
+---
 
-**🦆 Digital Disruption (Praxis):**  
-- **🪖 Home Front 2.0** → `🦆_Digital_Disruption/🪖_Home_Front_2.0/`  
-- **🛰️ OSINT Field Operations** → `🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/`  
-- **🧨 Counter Nudge Playbook** → `🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/`  
-- **🐝 All In Commons** → `🦆_Digital_Disruption/🐝_All_In_Commons/`  
-- **🎚️ Syntax Pony Field Manual** → `🦆_Digital_Disruption/🎚️_syntax_pony_field_manual_v1_reconstructed.md`
+## ⚙️ Disruption Kit  
+
+Does it hold reference materials or templates? → **💎 Resources**  
+Is it deployable counter-language or phrasing? → **💣 Syntax_Bombs**  
+Is it metadata tagging for visibility or resonance? → **🔖 Tag_Pack**  
+Is it a record of a specific event? → **Field_Logs**  
+Is it a diagnostic or protective toolkit? → **Survivor_Tools**  
+Is it mapping suppression language or behaviour? → **Containment_Scripts**  
+Is it analysing systems or governance at scale? → **Big_Picture_Protocols**
+
+### Containment Scripts  
+Is it describing suppression mechanisms? → **Suppression_Modes**  
+Is it designing resistance strategies? → **Counter_Nudges**
+
+### Survivor Tools  
+Does it focus on digital privacy and security? → **📱 Digital_But_Make_It_Secure**  
+Does it examine ToS or consent-breach behaviour? → **🪬 ToS_Non_Compliance_As_Stealthing**
+
+---
+
+## 🛰️ Metadata Sabotage Network  
+
+Is it showing what interference *looks like*? → **🔎 Evidence_And_Anomalies**  
+Is it mapping where suppression appears in operation? → **🍄 Suppression_Layers**  
+Is it explaining how interference is architected? → **🦒 Structural_Analysis**  
+Is it exploring how containment acts through psychology or narrative? → **🎭 Narrative_And_Psych_Ops**  
+Is it tracing who is harmed or what persists? → **🔥 Data_Risks**  
+Is it examining institutional levers and ethics? → **🏯 Governance_And_Containment**
+
+### 🍄 Suppression Layers  
+Reach or delivery throttling? → **📉 Suppression_Interference_Logs**  
+Search or indexing distortion? → **🔮 Visibility_Indexing_Anomalies**  
+Spatial or proximity limitation? → **🛰️ Proximity_Control_Logs**  
+Platform or vendor sabotage? → **🪅 Platform_Sabotage**
+
+### 🦒 Structural Analysis  
+Failure or limit point? → **👾 Breakpoints_And_Glitches**  
+Mapping flows or architecture? → **🧬 Structural_Mapping**  
+Leakage or overspill? → **🧼 System_Leakage_Signatures**  
+Targeting or metadata fingerprints? → **🧿 Targeting_Logic_Metadata_Signatures**
+
+### 🎭 Narrative & Psych Ops  
+Voice or credibility attacks? → **👅 Voice_Disruption_Discrediting**  
+Duplicate or mimic actors? → **👹 Fork_Behaviour_Containment**  
+Fear, fatigue, or gaslight loops? → **🧠 Psychological_Containment**  
+Story rewriting or framing shifts? → **🪆 Narrative_Interference**
+
+### 🔥 Data Risks  
+Group-based exposure? → **📿 Vulnerable_Data_Populations**  
+Border or ID regime? → **🛂 Papers_Please_Problems**  
+Residual or zombie data? → **🧟‍♀️ Residual_Shadows**
+
+### 🏯 Governance & Containment  
+Contracts or NDAs? → **㊙ Containment_Contracts**  
+Alliances and ethical stance? → **🈴 Allies_And_Ethics**  
+Responder training or playbooks? → **🈸 Dispatch_And_Training**  
+Prevent or “risk management” schemes? → **🈺 Governance_And_Prevent**  
+Defining red-line thresholds? → **🉑 System_Thresholds**
+
+---
+
+## 🧠 Big Picture Protocols  
+
+Is it about symbolic economies or influence ethics? → **✨ Glimmer_Is_Taxable_And_Other_Big_Drums**  
+Is it about law, ownership, or architecture? → **🌀 Systems_&_Governance**  
+Is it about cycles of violence and recursion? → **🐍 Ouroborotic_Violence**  
+Is it about legacy elites and power structures? → **🦕 Elder_Influencers**  
+Is it about compliance theatre or moral performance? → **🪄 Expression_Of_Norms**  
+Is it about humane governance or trauma ethics? → **🫀 Our_Hearts_Our_Minds**
+
+---
+
+## 🦆 Digital Disruption  
+
+Is it civic continuity or antifascist repair? → **🪖 Home_Front_2.0**  
+Is it ethical investigation or transparency work? → **🛰️ OSINT_Field_Operations**  
+Is it counter-manipulation or defence strategy? → **🧨 Counter_Nudge_Playbook**  
+Is it cooperative or commons-based infrastructure? → **🐝 All_In_Commons**  
+Is it rehabilitating technology itself? → **❤️‍🩹 Rehabilitated_Tech**
+
+### 🛰️ OSINT Field Operations  
+University / academic liberty issues? → **🍉 Academic_Liberty**  
+Government posture during peacetime war? → **🕊️ War_Or_Peace**  
+Research complicity & occupation science? → **🧪 Sciencing_Apartheid**  
+Grass-roots petitioning cultures? → **👾 Chan_Style_Petitioning**  
+Civil infrastructure and transparency? → **🏛️ Civil_Security**  
+  └── Routes & overview map → **🎿 Routes_Overview_Piste_Map**
+
+---
+
+## 👻 Apparitional Objects  
+
+Is it defining types of ghosts or doubles? → **Fork_Taxonomy**  
+Is it cataloguing specific haunted artefacts? → **🎞️ Haunted_Artefacts_Catalogue**  
+Is it documenting everyday glitchy echoes? → **👻 Glitchy_Ghosties**  
+Is it mapping haunted frameworks or architectures? → **🦴 Skeletal_Shards**
+
+---
+
+## 🩻 Weirdness Screening  
+
+Where did the anomaly appear?  
+Device or UI → **🖥 Interface_Glitches**  
+Communications → **📬 Comms_Breaks**  
+Network connection → **🌐 Connection_Hiccups**  
+Data or records → **📂 Data_Shifts**  
+Access / MFA → **🔑 Access_Barriers**  
+Repeating or scheduled pattern → **🎛 Systematic_Patterns**  
+Infrastructure or public service → **🚉 Infrastructure_Hiccups**  
+Consumer-facing disruption → **🛒 Service_Blockages**
+
+---
+
+## 🏮 Polaris Nest  
+
+Is it house-style or admin scaffolding? → **🧰 Admin_Kit**  
+Is it planning or scheduling? → **📅 Weekly_Checklists**  
+Is it testimony or case record? → **📂 SCP-VoiceX_Casefiles**  
+Is it a raw draft drawer? → **📥 Git_Intake_Drawer**  
+Is it creative or reflective correspondence? → **✨ Letters_to_Stars**
+
+---
+
+## 🧹 scripts / maintenance  
+
+Is it a routine governance or consistency pass? → **maintenance scripts**
+
+---
+
+## 🏮 Lantern Appendix — Navigational Flows  
+
+> *How light moves through the system.*
 
 ---
 
