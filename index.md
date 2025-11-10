@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-10 00:08:03 UTC_
+_Generated on 2025-11-10 02:15:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1918,6 +1918,7 @@ _Generated on 2025-11-10 00:08:03 UTC_
     - [`⚖️_respectability_containment_in_professional_ethics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_respectability_containment_in_professional_ethics.md)
     - [`⚖️_retrospective_law_in_a_prospective_world.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_retrospective_law_in_a_prospective_world.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
+    - [`⚖️_the_teaching_hospital_loophole.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_teaching_hospital_loophole.md)
     - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
     - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
     - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
