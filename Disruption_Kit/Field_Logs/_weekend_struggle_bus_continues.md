@@ -37,7 +37,7 @@ knowing that two courts have had sealed records leaks? (or the appearance of thi
 i really don't think i've done anything wrong.  
 
 i really think all i've done is said "no, thank you".  
-
+<!--how dare a hooker say no when you didn't even pay, i know.-->
 i really don't understand why there are still people who think i deserve this.  
 
 it feels like someone(s) have attempted to rape my, my life, my social connections, my community, my work... it feels like i've been raped in every way possible.  
