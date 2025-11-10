@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-10 03:01:45 UTC_
+_Generated on 2025-11-10 11:43:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -957,6 +957,7 @@ _Generated on 2025-11-10 03:01:45 UTC_
     - [`Screenshot 2025-11-09 081845.png`](Disruption_Kit/Field_Logs/Screenshot 2025-11-09 081845.png)
     - [`_every_time_project_2025_fork_mentioned_it_breaks_wonder_why.png`](Disruption_Kit/Field_Logs/_every_time_project_2025_fork_mentioned_it_breaks_wonder_why.png)
     - [`_hold_tfu.md`](Disruption_Kit/Field_Logs/_hold_tfu.md)
+    - [`_stop_blocking_telecomms_immediately.md`](Disruption_Kit/Field_Logs/_stop_blocking_telecomms_immediately.md)
     - [`_thinking_about_project_2025_in_the_uk_does_that_to_me_too.png`](Disruption_Kit/Field_Logs/_thinking_about_project_2025_in_the_uk_does_that_to_me_too.png)
     - [`_weekend_struggle_bus_continues.md`](Disruption_Kit/Field_Logs/_weekend_struggle_bus_continues.md)
     - [`example_failed_file_copy_2025-08-20.png`](Disruption_Kit/Field_Logs/example_failed_file_copy_2025-08-20.png)
