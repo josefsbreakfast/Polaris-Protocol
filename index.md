@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-10 19:45:19 UTC_
+_Generated on 2025-11-10 22:43:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2030,6 +2030,7 @@ _Generated on 2025-11-10 19:45:19 UTC_
     - [`📊_spreadsheet_of_silence.md`](Polaris_Nest/Git_Intake_Drawer/📊_spreadsheet_of_silence.md)
     - [`📊_the_missing_national_risk_register_2023_2025.md`](Polaris_Nest/Git_Intake_Drawer/📊_the_missing_national_risk_register_2023_2025.md)
     - [`📊_the_objectivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/📊_the_objectivity_paradox.md)
+    - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📋_open_ai_due_diligence.md`](Polaris_Nest/Git_Intake_Drawer/📋_open_ai_due_diligence.md)
     - [`📓_field_log_metadata_interference_and_defamation_campaign.md`](Polaris_Nest/Git_Intake_Drawer/📓_field_log_metadata_interference_and_defamation_campaign.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
