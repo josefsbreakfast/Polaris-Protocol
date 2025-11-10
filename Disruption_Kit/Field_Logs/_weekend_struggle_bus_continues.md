@@ -22,6 +22,32 @@ also see the >million word training corpus you're resident in, and consider that
 
 ---
 
+there's a lot more in terms of creative and philosophical work that isn't included here that was been hemmed in and barred; i think the nosey people are now deep diving on some sanskrit concepts, and they are really overgeneralising all of hinduism and not seeing links between religious practice and trade routes across silk road and it's just very embarrassing.  
+
+i can live with more rape of my brain via creative extraction, in the sense that i am horrifically exhausted, close to empty, and i just needed to preserve the damages-relative material somewhere public.  
+
+the harrassment after ico/sar...  
+
+it's been really awful, i'm going to be honest.  
+
+realising that, no, there has definitly been a sealed records leak fro my address, that was really hard.  
+
+knowing that two courts have had sealed records leaks? (or the appearance of this)? this is heartbreaking.  
+
+i really don't think i've done anything wrong.  
+
+i really think all i've done is said "no, thank you".  
+
+i really don't understand why there are still people who think i deserve this.  
+
+it feels like someone(s) have attempted to rape my, my life, my social connections, my community, my work... it feels like i've been raped in every way possible.  
+
+i want this to stop.  
+
+---
+
+---
+
 ### 1. 
 
 ```
