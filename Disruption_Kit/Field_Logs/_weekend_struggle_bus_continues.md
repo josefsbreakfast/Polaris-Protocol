@@ -44,6 +44,8 @@ it feels like someone(s) have attempted to rape my, my life, my social connectio
 
 i want this to stop.  
 
+i think i need any legal oversight to understand that it has only ever been this bad when there is also physical harrassment also present, so paradoxically, but very in line with ptsd, i'm now too anxious to sleep properly, in case that part starts again.  
+
 ---
 
 ---
