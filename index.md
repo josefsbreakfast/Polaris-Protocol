@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-10 02:21:06 UTC_
+_Generated on 2025-11-10 02:29:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -607,6 +607,7 @@ _Generated on 2025-11-10 02:21:06 UTC_
           - [**🫖_MI8_And_Boon/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/)
             - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/README.md)
             - [`☕️🫖_exceedingly_good_for_morale.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/☕️🫖_exceedingly_good_for_morale.md)
+            - [`💘_agent_boon_and_the_machine.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/💘_agent_boon_and_the_machine.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md)
         - [`☕_the_auntie_model_of_memetic_transmission.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md)
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_legal_hooks_for_muted_books.md)
