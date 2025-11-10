@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-10 02:29:29 UTC_
+_Generated on 2025-11-10 02:54:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1902,6 +1902,7 @@ _Generated on 2025-11-10 02:29:29 UTC_
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
     - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
+    - [`☢️_the_empathy_project.md`](Polaris_Nest/Git_Intake_Drawer/☢️_the_empathy_project.md)
     - [`⚓_sea_org_as_containment_prototype.md`](Polaris_Nest/Git_Intake_Drawer/⚓_sea_org_as_containment_prototype.md)
     - [`⚖️_accountability_as_alignment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_accountability_as_alignment.md)
     - [`⚖️_architecture_of_complicity_when_justice_stops_at_the_dock.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_architecture_of_complicity_when_justice_stops_at_the_dock.md)
@@ -2158,6 +2159,7 @@ _Generated on 2025-11-10 02:29:29 UTC_
     - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
+    - [`🧩_algorithmic_conscience.md`](Polaris_Nest/Git_Intake_Drawer/🧩_algorithmic_conscience.md)
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_counter_extraction_loop_reclaiming_authorship.md`](Polaris_Nest/Git_Intake_Drawer/🧩_counter_extraction_loop_reclaiming_authorship.md)
     - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_device_integrity_and_anti_jailbreak_logic.md)
@@ -2198,6 +2200,7 @@ _Generated on 2025-11-10 02:29:29 UTC_
     - [`🧬_transparency_as_antigenic_defense.md`](Polaris_Nest/Git_Intake_Drawer/🧬_transparency_as_antigenic_defense.md)
     - [`🧬_voice_model_capture_risks.md`](Polaris_Nest/Git_Intake_Drawer/🧬_voice_model_capture_risks.md)
     - [`🧭_are_we_fascist_yet.md`](Polaris_Nest/Git_Intake_Drawer/🧭_are_we_fascist_yet.md)
+    - [`🧭_leadership_management_and_moral_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_leadership_management_and_moral_containment.md)
     - [`🧭_political_mapping_two_axis_model.md`](Polaris_Nest/Git_Intake_Drawer/🧭_political_mapping_two_axis_model.md)
     - [`🧭_regulating_the_regulators.md`](Polaris_Nest/Git_Intake_Drawer/🧭_regulating_the_regulators.md)
     - [`🧭_signal_alignment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_signal_alignment.md)
