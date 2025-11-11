@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-11 22:56:01 UTC_
+_Generated on 2025-11-11 23:11:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1389,6 +1389,7 @@ _Generated on 2025-11-11 22:56:01 UTC_
     - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
     - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/🪬_all_that_surveillance.md)
     - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Disruption_Kit/Field_Logs/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
+    - [`🪬_regarding_suicidality.md`](Disruption_Kit/Field_Logs/🪬_regarding_suicidality.md)
     - [`🪬_subtweeting.md`](Disruption_Kit/Field_Logs/🪬_subtweeting.md)
     - [`🪬_told_you_jewish_interwebs_was_breaking.md`](Disruption_Kit/Field_Logs/🪬_told_you_jewish_interwebs_was_breaking.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Disruption_Kit/Field_Logs/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
