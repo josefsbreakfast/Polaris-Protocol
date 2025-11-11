@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-11 03:05:08 UTC_
+_Generated on 2025-11-11 03:05:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -810,6 +810,7 @@ _Generated on 2025-11-11 03:05:08 UTC_
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
           - [`🧵_paper_as_containment_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_legal/🧵_paper_as_containment_audit.md)
         - [**audit_token_integrity/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/README.md)
           - [`🧾_token_integrity_audit_template.yaml`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🧾_token_integrity_audit_template.yaml)
           - [`🪙_token_integrity_audit_overview.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🪙_token_integrity_audit_overview.md)
         - [**audit_token_switching/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/)
