@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-11 03:15:10 UTC_
+_Generated on 2025-11-11 03:22:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2160,6 +2160,7 @@ _Generated on 2025-11-11 03:15:10 UTC_
     - [`🧠_multilock_overlapping_covertion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_covertion.md)
     - [`🧠_psychology_of_volunteer_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧠_psychology_of_volunteer_surveillance.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
+    - [`🧠_system_one_governance_bureaucratic_fast_thinking_and_reputational_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧠_system_one_governance_bureaucratic_fast_thinking_and_reputational_harm.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
     - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
