@@ -1,42 +1,28 @@
----
-title: "🪙 Token Integrity Audit — Subfolder Overview"
-created: 2025-11-10
-last_updated: 2025-11-10
-authors:
-  - Polaris Systems & Governance Working Group
-cluster: "🧩 System Governance / ⚖️ Legal & State Governance"
-purpose: >
-  To maintain accuracy and role directionality across pseudonymised datasets that
-  include both offender and victim records.  
-  This folder contains the templates, checklists, and plain-language resources required
-  to perform a Token Switching & Relationship Integrity Audit.
-status: "Active — shared for internal and partner use"
----
-
-# 🪙 Token Integrity Audit  
-*Preventing cross-system contamination through token switching and role inversion.*
+# 🪙 Token Integrity Audit — Subfolder Overview  
+**First created:** 2025-11-10 | **Last updated:** 2025-11-11  
+*Maintaining accuracy and role directionality across pseudonymised datasets containing both offender and victim records.*  
 
 ---
 
-## 🧭 Purpose
+## 🧭 Purpose  
 
-Justice and safeguarding datasets often rely on pseudonymised identifiers (“tokens”)
-to protect individuals’ identities while allowing data linkage.
-When those tokens are re-issued or mis-mapped, **token switching** can occur.
-If relationship fields (`victim_of`, `offender_of`, `related_to`) are not tightly defined,
+Justice and safeguarding datasets often rely on pseudonymised identifiers (“tokens”)  
+to protect individuals’ identities while allowing data linkage.  
+When those tokens are re-issued or mis-mapped, **token switching** can occur.  
+If relationship fields (`victim_of`, `offender_of`, `related_to`) are not tightly defined,  
 records can invert roles, creating **data twins** and contaminating analytic outputs.
 
-This audit framework ensures that:
+This audit framework ensures that:  
 - Tokens remain unique and traceable through their lifecycle.  
 - Relationship direction is maintained across all exports and mirrors.  
 - Corrections propagate to secondary systems within defined timeframes.  
 
 ---
 
-## 📁 Folder Contents
+## 📁 Folder Contents  
 
 | File | Description |
-|------|--------------|
+|------|-------------|
 | **🪙_token_switching_audit_overview.md** | Executive-summary node for readers who want a conceptual explanation without YAML. |
 | **🧾_token_integrity_audit_template.yaml** | Full technical checklist and scoring matrix for auditors or information-governance teams. |
 | **📊_sample_reporting_table.md** | Example of how audit results can be summarised and visualised. |
@@ -44,7 +30,7 @@ This audit framework ensures that:
 
 ---
 
-## 🧮 Expected Outputs
+## 🧮 Expected Outputs  
 
 | Deliverable | Description |
 |--------------|-------------|
@@ -55,17 +41,17 @@ This audit framework ensures that:
 
 ---
 
-## ⚙️ Implementation Notes
+## ⚙️ Implementation Notes  
 
 - Run this audit **after any major system migration, schema change, or data-sharing renewal.**  
-- Each participating organisation should maintain its own copy of the YAML template,
+- Each participating organisation should maintain its own copy of the YAML template,  
   signed off by the Data Protection Officer.  
 - Non-technical reviewers can read the Markdown overview and completed reporting tables.  
-- Results should feed into annual **Data Accuracy Statements** under Article 5(1)(d) UK GDPR.
+- Results should feed into annual **Data Accuracy Statements** under Article 5(1)(d) UK GDPR.  
 
 ---
 
-## 🧠 Related Polaris Nodes
+## 🧠 Related Polaris Nodes  
 
 | Node | Function |
 |------|-----------|
@@ -76,14 +62,40 @@ This audit framework ensures that:
 
 ---
 
-## 📚 References
-- UK GDPR Art. 5(1)(d) — Accuracy  
-- Data Protection Act 2018 s. 171 — Compliance Orders  
-- ICO Data-Sharing Code of Practice (2021)  
-- ISO/IEC 27701 § 7.4 — Pseudonymisation Integrity  
-- NIST SP 800-188 — De-Identification Risk Metrics  
+## 📚 References  
+
+- **UK GDPR Art. 5(1)(d)** — Accuracy  
+- **Data Protection Act 2018 s. 171** — Compliance Orders  
+- **ICO Data-Sharing Code of Practice (2021)**  
+- **ISO/IEC 27701 § 7.4** — Pseudonymisation Integrity  
+- **NIST SP 800-188** — De-Identification Risk Metrics  
 
 ---
 
-*Maintained within the Polaris Protocol repository.  
-Contact: Systems & Governance Cluster Leads*
+## 🌌 Constellations  
+
+🧠 ⚖️ 🪙 🔮 🫀 — governance, legality, integrity, ethics, and survivor-centred care.  
+
+---
+
+## ✨ Stardust  
+
+token integrity, pseudonymisation, data governance, directionality, victim-offender linkage, accuracy audit, GDPR compliance, role inversion, data twins, safeguarding systems  
+
+---
+
+## 🏮 Footer  
+
+*🪙 Token Integrity Audit — Subfolder Overview* is a living node of the Polaris Protocol.  
+It functions as the index and operational overview for the **audit_token_integrity** subfolder  
+within *🕯 Exorcising Safeguarding Shadows*, nested under  
+*🫀 Our Hearts Our Minds → Big Picture Protocols → Disruption Kit*.  
+
+> 📡 Cross-references:
+> 
+> - [🕯 Exorcising Safeguarding Shadows](../) — audits and cleansing processes for safeguarding datasets  
+> - [🫀 Our Hearts Our Minds](../../) — humane governance and trauma ethics  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-11-11_
