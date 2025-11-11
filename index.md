@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-11 04:29:25 UTC_
+_Generated on 2025-11-11 04:31:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1945,6 +1945,7 @@ _Generated on 2025-11-11 04:29:25 UTC_
     - [`⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
+    - [`⚡_rapid_response_forensic_protocol_first_24_hours_v2.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours_v2.md)
     - [`✂️_engineered_disjuncture_of_allies.md`](Polaris_Nest/Git_Intake_Drawer/✂️_engineered_disjuncture_of_allies.md)
     - [`✈️_crash_logic_state_grief_and_erasure.md`](Polaris_Nest/Git_Intake_Drawer/✈️_crash_logic_state_grief_and_erasure.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
