@@ -24,3 +24,19 @@ its perculiar.
 
 ---
 
+(the frankenghost element also means this may just be representing investors:funders/colleagues which are heavily cross-linked to ghost pieces.)  
+it also needs to be created by a dumbass whi underestimates a number of people; general disregard across the board for everyone doing/having done any hands-on oublic service, in a "gate you because i aint you" manner.  
+
+i also cant believe meta is "only" soying in oeople in dec. on paper. whag jokes.  
+
+the frankenghist also has a thing for nobility in that it has a stange semse of awe; as if its bought in but its not one.  
+
+curious thing.  
+
+like the ghost if an old victorian landlord whi gets annoyed that tb kills the rent-machine, essentualky.  
+
+general disregard for women, jews, sees hindus as useful, and almost certainly pronounces the word, "mislems".  
+
+short in the sense of humour.  
+
+---
