@@ -13,3 +13,14 @@ im just not not sure i can see why the effort was worth it; it seems like a lit 
 (given that ghosts wre the core of whatever this is/waa, its easier to just talk about it as a sort if composite personality; precise nature and intent is kess relevant ti ke than, "siiiiigh.... who do i have to foia next 🙄")  
 
 ---
+
+it also sots pretty adjuscemt to several adictive, harm-causing, and coercive industries; a lit of tye time it really just looks like a hedge fund personified, rather than an actual person. its somewhat close ti news aggregators, and definitiy fancies s bit of suthoritarianism in the uk.  
+
+somehos it is sitting to some health r&d funding/influence.  
+
+i can give legal entities or people (public eye people) that or somewhat close, bit im wondering if this is a bit more hybrid; its almost cooy snd paste of something in another state but with funding tafgets chosen for access ir direct gain.  
+
+its perculiar.  
+
+---
+
