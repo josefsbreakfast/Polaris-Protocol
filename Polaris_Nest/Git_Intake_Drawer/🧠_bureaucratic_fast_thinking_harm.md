@@ -1,4 +1,4 @@
-# 🧠 System 1 Governance — Bureaucratic Fast-Thinking and Reputational Harm  
+# 🧠 Bureaucratic Fast-Thinking and Reputational Harm  
 **First created:** 2025-11-10 | **Last updated:** 2025-11-10  
 *Reflex as policy ⸺ speed as virtue.*
 
@@ -97,7 +97,13 @@ Competence becomes defiance; clarity becomes threat.
 
 🧠 🧩 🛰️ ⚖️  
 
-System 1 Governance sits where cognitive bias, system architecture, signal-routing, and legal accountability intersect.
+System 1 Governance sits where cognitive bias, system architecture, signal-routing, and legal accountability intersect.  
+
+### Media / Literary Anchors
+- 🎞️ Brazil (Gilliam, 1985) — machine-speed absurdity.  
+- 📚 The Trial (Kafka) — infinite procedure as punishment.  
+- 🎭 Catch-22 (Heller) — bureaucratic recursion as moral anaesthetic.  
+
 
 ---
 
