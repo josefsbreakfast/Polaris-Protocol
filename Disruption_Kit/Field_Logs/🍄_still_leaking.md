@@ -7,3 +7,9 @@ something i am considering is just how "inside" the labour party the unwanted pr
 it's not an unusual set of motivations: a number of political sidelines actors are this way inclined.  
 
 im just not not sure i can see why the effort was worth it; it seems like a lit of risk and a lot of complication when one could soend the same effort just being really good at something useful.  
+
+---
+
+(given that ghosts wre the core of whatever this is/waa, its easier to just talk about it as a sort if composite personality; precise nature and intent is kess relevant ti ke than, "siiiiigh.... who do i have to foia next 🙄")  
+
+---
