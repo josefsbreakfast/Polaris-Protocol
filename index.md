@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-11 07:45:54 UTC_
+_Generated on 2025-11-11 18:10:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1960,6 +1960,7 @@ _Generated on 2025-11-11 07:45:54 UTC_
     - [`🌅_rise_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌅_rise_of_institutional_integrity.md)
     - [`🌊_on_being_the_manual_override.md`](Polaris_Nest/Git_Intake_Drawer/🌊_on_being_the_manual_override.md)
     - [`🌌_am_i_still_too_pro_russia_to_be_british.md`](Polaris_Nest/Git_Intake_Drawer/🌌_am_i_still_too_pro_russia_to_be_british.md)
+    - [`🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md`](Polaris_Nest/Git_Intake_Drawer/🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md)
     - [`🌫️_uncertainty_branch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_uncertainty_branch_logic.md)
     - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
     - [`🌾_possibly_poetry_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🌾_possibly_poetry_pipeline.md)
