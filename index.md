@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 03:34:14 UTC_
+_Generated on 2025-11-12 03:40:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2275,6 +2275,7 @@ _Generated on 2025-11-12 03:34:14 UTC_
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🧱_ideological_loyalty_as_pyramid_scheme.md`](Polaris_Nest/Git_Intake_Drawer/🧱_ideological_loyalty_as_pyramid_scheme.md)
     - [`🧱_rise_of_algorithmic_safety_in_the_uk_internet.md`](Polaris_Nest/Git_Intake_Drawer/🧱_rise_of_algorithmic_safety_in_the_uk_internet.md)
+    - [`🧱_transparent_guardrail_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_transparent_guardrail_design.md)
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
     - [`🧵_overproduction_as_human_boredom_response.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_as_human_boredom_response.md)
     - [`🧶_politics_is_just_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_politics_is_just_gossip_with_a_pay_grade.md)
