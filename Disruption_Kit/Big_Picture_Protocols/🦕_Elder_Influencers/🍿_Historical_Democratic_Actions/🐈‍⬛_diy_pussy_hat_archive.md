@@ -1,4 +1,4 @@
-# 🐈‍⬛ DIY Pussy Hat Archive (Ready-to-Populate)  
+# 🐈‍⬛ DIY Pussy Hat Archive  
 **First created:** 2025-11-12 | **Last updated:** 2025-11-12  
 *A community-powered craft archive for the hats that travelled further than any march could.*
 
@@ -28,7 +28,7 @@ This node houses the archive table + a short analytic note.
 ---
 
 ## 🧶 Ready-to-Populate Maker Table  
-*(Add entries as you gather them — this is the container.)*
+
 
 | Title / Pattern Name | Author / Creator | Link | Method (knit, crochet, sewn, etc.) |
 |----------------------|------------------|------|------------------------------------|
@@ -92,12 +92,13 @@ pussy hat, craft activism, knitting, crochet, disability activism, interdependen
 
 ## 🏮 Footer  
 
-*DIY Pussy Hat Archive* is a living node of the Polaris Protocol.  
+*🐈‍⬛ DIY Pussy Hat Archive* is a living node of the Polaris Protocol.  
 It preserves the craft-based infrastructure of one of the most accessible and intergenerational forms of feminist protest, and provides a scaffold for documenting community-made patterns, guides, and solidarity artefacts.
 
-> 📡 Cross-references:  
-> - [🍿 Historical Democratic Actions](../🍿_Historical_Democratic_Actions/)  
-> - [🔥 Pink Pussyhats — The Backlash Cycle](../🔥_pink_pussyhats_the_backlash_cycle.md)  
+> 📡 Cross-references:
+> 
+> - [🍿 Historical Democratic Actions](./README.md)  
+> - [🔥 Pink Pussyhats — The Backlash Cycle](./🔥_pink_pussyhats_the_backlash_cycle.md)  
 > - [🧵 Craft & Mutual Aid Nodes](/) (pending placement)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
