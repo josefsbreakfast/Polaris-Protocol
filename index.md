@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:26:07 UTC_
+_Generated on 2025-11-12 00:28:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -461,6 +461,7 @@ _Generated on 2025-11-12 00:26:07 UTC_
         - [`targeting_jewish_dissent_1980s_present.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targeting_jewish_dissent_1980s_present.png)
         - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
         - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_citizen_recourse_private_surveillance_uk.md)
+        - [`⚖️_ideological_coding_and_voice_discrediting.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_ideological_coding_and_voice_discrediting.md)
         - [`🌿_the_paradox_of_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🌿_the_paradox_of_recognition.md)
         - [`🎶_sonata_server_sympathies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
         - [`📚_the_suppressed_scholar.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📚_the_suppressed_scholar.md)
@@ -1936,7 +1937,6 @@ _Generated on 2025-11-12 00:26:07 UTC_
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
     - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
-    - [`⚖️_ideological_coding_and_voice_discrediting.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ideological_coding_and_voice_discrediting.md)
     - [`⚖️_institutional_parasitism_of_deradicalisation_work.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institutional_parasitism_of_deradicalisation_work.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_narrative_control_and_legal_responsibility.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_narrative_control_and_legal_responsibility.md)
