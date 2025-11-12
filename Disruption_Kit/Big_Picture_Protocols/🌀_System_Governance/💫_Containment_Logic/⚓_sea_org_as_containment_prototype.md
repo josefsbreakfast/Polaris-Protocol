@@ -16,7 +16,7 @@ It traces maritime sovereignty as an early rehearsal of digital off-shoring and 
 
 > 📡 Cross-references:
 > 
-> - 🪸 Floating Commons — Humane Sovereignty at Sea  
+> - [🪸 Floating Commons — Humane Sovereignty at Sea](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-11-12_
