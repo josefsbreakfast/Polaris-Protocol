@@ -93,8 +93,8 @@ It documents the movements that forced visibility into systems built on silence,
 > 📡 Cross-references:
 > 
 > - [🦕 Elder Influencers](../README.md) — *legacy elites, impunity structures, and power maintenance*  
-> - [🎭 Narrative & Psych Ops](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — *how movements are reframed, minimised, or attacked*  
-> - [🪖 Home Front 2.0](../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md) — *civic repair and democratic defence*  
+> - [🎭 Narrative & Psych Ops](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — *how movements are reframed, minimised, or attacked*  
+> - [🪖 Home Front 2.0](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md) — *civic repair and democratic defence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
