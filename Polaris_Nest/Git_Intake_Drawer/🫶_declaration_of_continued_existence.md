@@ -1,0 +1,1 @@
+Polaris stub - Declaration of Continued Existence

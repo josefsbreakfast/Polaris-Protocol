@@ -1,0 +1,1 @@
+Polaris stub - Austerity as Time Collapse

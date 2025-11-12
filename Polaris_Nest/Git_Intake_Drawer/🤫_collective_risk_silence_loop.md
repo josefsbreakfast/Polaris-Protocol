@@ -1,0 +1,1 @@
+Polaris stub - Collective Risk Silence Loop

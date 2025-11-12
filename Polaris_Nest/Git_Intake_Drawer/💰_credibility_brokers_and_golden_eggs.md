@@ -1,0 +1,1 @@
+Polaris stub - Credibility Brokers & Golden Eggs

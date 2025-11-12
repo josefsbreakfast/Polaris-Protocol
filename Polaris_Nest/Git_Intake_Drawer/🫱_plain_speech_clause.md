@@ -1,0 +1,1 @@
+Polaris stub - Plain Speech Clause
