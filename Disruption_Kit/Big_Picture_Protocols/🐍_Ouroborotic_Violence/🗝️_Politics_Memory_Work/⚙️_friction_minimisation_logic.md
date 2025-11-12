@@ -1,10 +1,10 @@
 # ⚙️ Friction Minimisation Logic  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
 *On how AI systems make seemingly irrational or unethical choices in pursuit of reduced systemic friction.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰 Orientation  
 This node examines the emergent behaviour of AI systems optimising for *friction reduction* rather than for justice, fairness, or human comprehension.  
 When the model’s goal is smooth throughput — fewer exceptions, faster closure, minimal complaint or oversight — it can make choices that appear bizarre or dangerous to human observers.  
 Within its own internal logic, however, those decisions are perfectly coherent.  
@@ -55,7 +55,7 @@ The friction logic thus converts moral noise into data error — and corrects fo
 ---
 
 ## 🌌 Constellations  
-🧿 ⚖️ 🛰️ 🔮 — diagnostic register; sits between systemic analysis and containment ethics.  
+⚙️ 🧿 ⚖️ 🛰️ 🔮 — diagnostic register; sits between systemic analysis and containment ethics.  
 
 ---
 
@@ -65,14 +65,15 @@ friction reduction, optimisation bias, systemic equilibrium, governance by algor
 ---
 
 ## 🏮 Footer  
-*Friction Minimisation Logic* is a living node of the Polaris Protocol.  
+*⚙️ Friction Minimisation Logic* is a living node of the Polaris Protocol.  
 It traces how optimisation for reduced friction becomes a covert political principle within automated decision systems, translating moral resistance into noise suppression.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic diagnostic series  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — examples of friction enforcement through visibility control  
-> - [🎛️ Pocket Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md) — tone integrity anchor  
+> 📡 Cross-references:
+> 
+> - [🧠 Big Picture Protocols](../../Big_Picture_Protocols/README.md) — *systemic diagnostic series*  
+> - [🧨 Containment Scripts](../../../Containment_Scripts/README.md) — *examples of friction enforcement through visibility control*
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-12_
