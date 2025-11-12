@@ -1,5 +1,5 @@
 # 🪶 How It Can Be Done (The Mechanics) — OSINT, Policy, Harms & Legality
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-12  
 *A practical, non-operational OSINT investigation and policy guide that explains how campus trend-monitoring is assembled, what legal/policy cover is invoked, key harms, and investigatory leads (FOI/SAR/DPIA templates and research checklist).*
 
 ---
@@ -109,9 +109,9 @@ OSINT, FOI, DPIA, Prevent Duty, procurement, vendor middleware, network logs, st
 
 > 📡 Cross-references:
 > 
-> - [🪶 Descent Map — Academic Surveillance Drift]() — *descent timeline and evidence slots*  
-> - [🧬 Structural Mapping](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) — *evidence table & template tools*
+> - [🪶 Descent Map — Academic Surveillance Drift](./🪶_descent_map_academic_surveillance_drift.md) — *descent timeline and evidence slots*  
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) — *evidence table & template tools*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
