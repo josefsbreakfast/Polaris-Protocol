@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:29:43 UTC_
+_Generated on 2025-11-12 04:32:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -329,6 +329,7 @@ _Generated on 2025-11-12 04:29:43 UTC_
         - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧭_uk_tech_talent_scaling_policy_timeline.md)
         - [`🧾_data_is_their_cage_too.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧾_data_is_their_cage_too.md)
         - [`🧿_uk_persuasion_engine_on_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md)
+        - [`🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md)
         - [`🪞_humiliation_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪞_humiliation_as_spectacle.md)
         - [`🪦_metadata_ghosts_and_hauntings.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪦_metadata_ghosts_and_hauntings.md)
         - [`🪮_on_hair_and_memory.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪮_on_hair_and_memory.md)
@@ -2324,7 +2325,6 @@ _Generated on 2025-11-12 04:29:43 UTC_
     - [`🪞_conditional_whiteness_and_twinning_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🪞_conditional_whiteness_and_twinning_as_containment.md)
     - [`🪞_erosion_of_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_erosion_of_duty_of_care.md)
     - [`🪞_ethical_censorship_continuum.md`](Polaris_Nest/Git_Intake_Drawer/🪞_ethical_censorship_continuum.md)
-    - [`🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md`](Polaris_Nest/Git_Intake_Drawer/🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
