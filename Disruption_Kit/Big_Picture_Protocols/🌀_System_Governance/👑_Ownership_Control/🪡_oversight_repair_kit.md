@@ -1,5 +1,5 @@
 # 🪡 Oversight Repair Kit — Re-stitching Accountability Chains  
-**First created:** 2025-10-13 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-13 | **Last updated:** 2025-11-12  
 *A reform blueprint proposing how fragmented UK oversight systems could be rewired to prevent silent escalation and hybrid-threat exploitation.*
 
 ---
@@ -90,11 +90,11 @@ It proposes mechanisms for reconnecting fragmented oversight bodies and embeddin
 
 > 📡 Cross-references:
 > 
-> - [🧱 Systemic Porosity]() — *structural vulnerability map*  
-> - [🛡 Article 8 & 9 Breach Pathways]() — *rights-compression analysis*  
-> - [🧩 Hybrid Threat Overlay]() — *external manipulation risk*  
-> - [🧠 Multi-Lock Hypothetical]() — *compound lawful layer model*  
+> - 🧱 Systemic Porosity — *structural vulnerability map*  
+> - 🛡 Article 8 & 9 Breach Pathways — *rights-compression analysis*  
+> - 🧩 Hybrid Threat Overlay — *external manipulation risk*  
+> - 🧠 Multi-Lock Hypothetical — *compound lawful layer model*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
