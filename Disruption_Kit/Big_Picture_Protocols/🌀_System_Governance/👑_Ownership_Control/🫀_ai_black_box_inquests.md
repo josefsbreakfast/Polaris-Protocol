@@ -1,5 +1,5 @@
 # 🫀 AI Black Box Inquests  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-06 | **Last updated:** 2025-11-12  
 *Proposed framework for post-incident investigation when AI logic contributes to human harm or death.*  
 <!--This is me being Captain Subtle about the pending responses from several stakeholders.-->
 ---
@@ -363,11 +363,11 @@ ai safety, black box inquiry, parasocial loops, logic pathology, engagement metr
 *🫀 AI Black Box Inquests* is a living node of the Polaris Protocol.  
 It outlines a survivor-centred framework for investigating AI-linked harm through formal logic audits and systemic transparency.  
 
-> 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity]() — *ensures undertone integrity in forensic drafting*  
-> - [Disruption_Kit/Big_Picture_Protocols/⚖️_containment_contract_trace.md]() — *systemic parallels in legal containment*  
-> - [Survivor_Tools/🧬_cloneproof.md]() — *countermeasures for algorithmic manipulation*  
+> 📡 Cross-references:
+> 
+> - [⚖️ Containment Contract Trace](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *systemic parallels in legal containment*  
+> - [🧬 Cloneproof](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *countermeasures for algorithmic manipulation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
