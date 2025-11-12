@@ -1,5 +1,5 @@
 # 🌑 Why a Child-Rape Survivor Is Treated as a Violent Sexual Offender by Government Systems  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-12  
 *Forensic explainer of inherited-risk misclassification and the systemic denial of service that follows.*
 
 ---
@@ -93,7 +93,6 @@ Fixing the database is insufficient: it requires formal acknowledgment that the 
 ## 🌌 Constellations  
 
 🌑 🧿 🩺 ⚖️ — Containment, health, risk governance, survivor ethics.  
-Sits within *Metadata Sabotage Network → 🔥 Data Risks* and cross-links to *Big Picture Protocols / System Governance* and *Survivor Tools / ToS Non-Compliance as Stealthing*.
 
 ---
 
@@ -108,11 +107,12 @@ inherited risk, metadata linkage, offender flag, survivor containment, healthcar
 *🌑 Why a Child-Rape Survivor Is Treated as a Violent Sexual Offender by Government Systems* is a living node of the Polaris Protocol.  
 It records how inherited offence data and risk governance frameworks erase survivor legitimacy, producing medical neglect, advocacy lock-out, and social isolation under the guise of caution.  
 
-> 📡 Cross-references:  
-> - [🔥 Data Risks](../Metadata_Sabotage_Network/🔥_Data_Risks/) — exposure typologies  
-> - [⚖️ Legal & State Governance](../Big_Picture_Protocols/🌀_Systems_&_Governance/) — structural oversight failures  
-> - [📱 Digital But Make It Secure](../Disruption_Kit/Survivor_Tools/📱_digital_but_make_it_secure.md) — protective practice in compromised environments  
+> 📡 Cross-references:
+> 
+> - [🔥 Data Risks](../README.md) — *exposure typologies*  
+> - [⚖️ Legal & State Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance) — *structural oversight failures*  
+> - [📱 Digital But Make It Secure](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md) — *protective practice in compromised environments*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-12_
