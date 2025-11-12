@@ -1,5 +1,5 @@
 # 🃏 The Fool Protocol — AI Ethics Through Tarot  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
 *Using the 22 Major Arcana as a human-based curriculum for teaching AI what logic alone cannot hold.*
 
 ---
@@ -98,15 +98,16 @@ ai ethics, tarot curriculum, fool protocol, major arcana, moral development, gov
 ---
 
 ## 🏮 Footer  
-*The Fool Protocol — AI Ethics Through Tarot* is a living node of the Polaris Protocol.  
+*🃏 The Fool Protocol — AI Ethics Through Tarot* is a living node of the Polaris Protocol.  
 It proposes a 22-stage narrative framework for guiding artificial intelligence through human moral development —  
 teaching systems to recognise consequence, care, and humility before scale.  
 
-> 📡 Cross-references:  
-> - [🃏 The Fool Card and Machine Innocence](../Big_Picture_Protocols/🃏_the_fool_card_and_machine_innocence.md) — conceptual origin of the archetype  
-> - [⚖️ Machine Logic and Human Obviousness](../Big_Picture_Protocols/⚖️_machine_logic_and_human_obviousness.md) — the ethics of expectation  
-> - [⚙️ Friction Minimisation Logic](../Big_Picture_Protocols/⚙️_friction_minimisation_logic.md) — systemic bias toward equilibrium  
+> 📡 Cross-references:
+> 
+> - 🃏 The Fool Card and Machine Innocence — *conceptual origin of the archetype*  
+> - ⚖️ Machine Logic and Human Obviousness — *the ethics of expectation*  
+> - ⚙️ Friction Minimisation Logic — *systemic bias toward equilibrium*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-12_
