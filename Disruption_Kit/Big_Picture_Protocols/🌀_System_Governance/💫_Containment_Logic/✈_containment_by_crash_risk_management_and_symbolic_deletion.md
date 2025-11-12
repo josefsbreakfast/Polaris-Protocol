@@ -1,15 +1,15 @@
-# ⚙️ Containment by Crash — Risk Management and Symbolic Deletion
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+# ✈ Containment by Crash — Risk Management and Symbolic Deletion
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-12  
 *Disaster as the reset function of authoritarian infrastructure.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰 Orientation  
 A crash is never only mechanical. It is an administrative convenience — the erasure of a ledger, the silencing of dissenting contractors, the clean-slate budget cycle disguised as condolence. To model risk in such systems is to map **where deletion masquerades as fate**.  
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Systemic risk as policy:** engineered failure for bureaucratic renewal.  
 - **Symbolic deletion:** catastrophe replacing audit.  
 - **Containment loop:** crash → mourning → reconstruction → amnesia.  
@@ -30,7 +30,7 @@ Digital systems replicate this pattern: corrupted logs, overwritten registries, 
 ---
 
 ## 🌌 Constellations  
-⚙️ ✈️ 🕳️ — Operational node joining physical and digital failure logics.  
+✈ ⚙️ ✈️ 🕳️ — Operational node joining physical and digital failure logics.  
 
 ---
 
@@ -41,13 +41,13 @@ risk management, symbolic deletion, infrastructure failure, governance by disast
 
 ## 🏮 Footer  
 
-*⚙️ Containment by Crash — Risk Management and Symbolic Deletion* is a living node of the Polaris Protocol.  
+*✈ Containment by Crash — Risk Management and Symbolic Deletion* is a living node of the Polaris Protocol.  
 It documents how engineered accidents act as a cleansing mechanism for systems that cannot admit fault.  
 
-> 📡 Cross-references:  
-> - [🕳️ Black Box Epistemology in Post-Soviet Accidents](./🕳️_black_box_epistemology_in_post_soviet_accidents.md) — epistemic counterpart  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone governance  
+> 📡 Cross-references:
+> 
+> - 🕳️ Black Box Epistemology in Post-Soviet Accidents — *epistemic counterpart*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
