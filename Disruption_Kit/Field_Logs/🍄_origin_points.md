@@ -30,4 +30,6 @@ and why not, its cn i.
 for clarity, its a white dude who feels belittled. its a white boy you need to br asking, why so threatened?
 
 
-£10 says some "helpful man-to-man workplace advice" started self generating after that conf; "we're just looking out for...", yick.-->
+£10 says some "helpful man-to-man workplace advice" started self generating after that conf; "we're just looking out for...", yick.
+
+but the nudging 110% in gmails, via 355, and via facebook before that; you can see payments in all the rotten boroughs. this became a new tool.-->
