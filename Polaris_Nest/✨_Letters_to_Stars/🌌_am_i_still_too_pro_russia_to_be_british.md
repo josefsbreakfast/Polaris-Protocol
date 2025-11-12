@@ -1,5 +1,5 @@
 # 🌌 Ам я всё ещё слишком «пророссийская», чтобы быть британкой?
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-12  
 *Письмо звёздам о границах сострадания, которые устанавливают государства.*  
 
 ---
@@ -58,11 +58,12 @@ letters to stars, cultural identity, compassion politics, survivor voice, russia
 *🌌 Ам я всё ещё слишком «пророссийская», чтобы быть британкой?* — живой узел Polaris Protocol.  
 Он фиксирует момент, когда любовь к языку становится подозрением, а голос — единственным доказательством человечности.  
 
-> 📡 Cross-references:  
-> - [🎶 State Voice Fidelity — The Choral Body as Archive](../Disruption_Kit/Big_Picture_Protocols/🎶_state_voice_fidelity_the_choral_body_as_archive.md) — о теле и архиве голоса  
-> - [🎵 Alexandrov Ensemble — Voice of State and Survivorhood](../Disruption_Kit/Big_Picture_Protocols/🎵_alexandrov_ensemble_voice_of_state_and_survivorhood.md) — культурное зеркало  
-> - [🔥 Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🔥_Suppression_as_Signal.md) — системный контекст  
-
+> 📡 Cross-references:
+> 
+> - 🎶 State Voice Fidelity — *The Choral Body as Archive — о теле и архиве голоса*  
+> - 🎵 Alexandrov Ensemble — *Voice of State and Survivorhood — культурное зеркало*  
+> - [🔥 Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *системный контекст*  
+<!--I've stopped arguing with the data-tie between this book and me; please buy it so I am reinterpreted as a "good" data-point, and then I can have my medical degree released and call myself "Dr", like the wanker you all know I am.-->
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
