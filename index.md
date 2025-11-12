@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:38:52 UTC_
+_Generated on 2025-11-12 00:41:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -136,6 +136,7 @@ _Generated on 2025-11-12 00:38:52 UTC_
         - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
         - [`⚖️_pathological_simplicity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_pathological_simplicity.md)
         - [`⚖️_power_play_and_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_power_play_and_containment.md)
+        - [`⚖️_professional_influence_and_bureaucratic_capture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_professional_influence_and_bureaucratic_capture.md)
         - [`⚖️_the_history_of_justice_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md)
         - [`⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)
         - [`⚡_tempo_differential_when_recognition_lags_behind_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_tempo_differential_when_recognition_lags_behind_perception.md)
@@ -1942,7 +1943,6 @@ _Generated on 2025-11-12 00:38:52 UTC_
     - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
-    - [`⚖️_professional_influence_and_bureaucratic_capture.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_professional_influence_and_bureaucratic_capture.md)
     - [`⚖️_recourse_for_behavioural_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_recourse_for_behavioural_containment.md)
     - [`⚖️_respectability_containment_in_professional_ethics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_respectability_containment_in_professional_ethics.md)
     - [`⚖️_retrospective_law_in_a_prospective_world.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_retrospective_law_in_a_prospective_world.md)
