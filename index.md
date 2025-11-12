@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:33:04 UTC_
+_Generated on 2025-11-12 00:35:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -445,6 +445,7 @@ _Generated on 2025-11-12 00:33:04 UTC_
         - [`⚖️_differential_proportionality.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_differential_proportionality.md)
         - [`⚖️_kkl_court_of_protection_case_2020.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_kkl_court_of_protection_case_2020.md)
         - [`⚖️_legality_as_gaslight.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_legality_as_gaslight.md)
+        - [`⚖️_norman_law_and_the_geometry_of_impunity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_norman_law_and_the_geometry_of_impunity.md)
         - [`❌_ncnd_technique.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md)
         - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
         - [`🌀_containment_under_observation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)
@@ -1940,7 +1941,6 @@ _Generated on 2025-11-12 00:33:04 UTC_
     - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
-    - [`⚖️_norman_law_and_the_geometry_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_norman_law_and_the_geometry_of_impunity.md)
     - [`⚖️_operatic_capture_and_risks.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_operatic_capture_and_risks.md)
     - [`⚖️_professional_influence_and_bureaucratic_capture.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_professional_influence_and_bureaucratic_capture.md)
     - [`⚖️_recourse_for_behavioural_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_recourse_for_behavioural_containment.md)
