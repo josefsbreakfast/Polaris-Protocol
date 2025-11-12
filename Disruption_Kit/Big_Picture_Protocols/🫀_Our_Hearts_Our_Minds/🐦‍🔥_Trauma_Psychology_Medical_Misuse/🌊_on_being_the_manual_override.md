@@ -1,5 +1,5 @@
 # 🌊 On Being the Manual Override  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
 *The human who notices when the system starts looping.*
 <!--Personally I think "Manual Override" works nicely as a blog name, but I was into 90s indie bands, so..-->
 ---
@@ -35,4 +35,4 @@ You slow the flow not out of sabotage but out of stewardship.
 Every system eventually meets the person it cannot absorb.  
 That person is not an error; they are the safety mechanism.
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-12_
