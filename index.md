@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:11:39 UTC_
+_Generated on 2025-11-12 00:12:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -160,6 +160,7 @@ _Generated on 2025-11-12 00:11:39 UTC_
         - [`🪞_misunderstanding_as_risk_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_misunderstanding_as_risk_signal.md)
         - [`🪞_the_muu_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_the_muu_class.md)
         - [`🫀_pixels_do_not_touch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫀_pixels_do_not_touch.md)
+        - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫥_when_you_dont_want_to_be_seen_touching_it.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
@@ -2327,7 +2328,6 @@ _Generated on 2025-11-12 00:11:39 UTC_
     - [`🫀_ai_black_box_inquests.md`](Polaris_Nest/Git_Intake_Drawer/🫀_ai_black_box_inquests.md)
     - [`🫒_occupation_as_containment_regime.md`](Polaris_Nest/Git_Intake_Drawer/🫒_occupation_as_containment_regime.md)
     - [`🫖_no_this_is_not_proper.md`](Polaris_Nest/Git_Intake_Drawer/🫖_no_this_is_not_proper.md)
-    - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](Polaris_Nest/Git_Intake_Drawer/🫥_when_you_dont_want_to_be_seen_touching_it.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
