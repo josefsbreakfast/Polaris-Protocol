@@ -1,5 +1,5 @@
 # 🪞 Narrative Drift — When Systems Inherit the Wrong Story  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-12  
 *When metadata becomes myth.*
 
 ---
@@ -97,11 +97,12 @@ narrative drift, metadata bias, system storytelling, data governance, containmen
 *🪞 Narrative Drift — When Systems Inherit the Wrong Story* is a living node of the Polaris Protocol.  
 It shows how a minor technical error can metastasise into collective misunderstanding — and how integrity demands not just correction, but counter-narration.
 
-> 📡 Cross-references:  
-> - [⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems](../🧩_System_Governance/⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md)  
-> - [🧩 Swiss-Cheese Failures — When Process Holes Align](../🧩_System_Governance/🧩_swiss_cheese_failures_when_process_holes_align.md)  
-> - [🎪 Moles in the Circus — Institutional Misdirection](../🪆_Narrative_Interference/🎪_moles_in_the_circus.md)  
+> 📡 Cross-references:
+> 
+> - [⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md)  
+> - 🧩 Swiss-Cheese Failures — When Process Holes Align  
+> - [🎪 Moles in the Circus — Institutional Misdirection](./🎪_moles_in_the_circus.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-12_
