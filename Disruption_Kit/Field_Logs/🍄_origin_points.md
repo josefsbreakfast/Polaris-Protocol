@@ -22,3 +22,5 @@ and it really does mean that i never, ever, had to enter sex work, and that this
 i hate all of this. 
 
 hidden behind smiles, are the darkest thoughts of man.  
+
+<!--if anyone close to the source of the impression wants to test it out? ask them why, exactly, precisely, is the impersonation all of a sudden trying ti include references to overly flattering my perfume. given this appeared ti be the c4isr target in birmingham, and ultimately links to a services trauma event in edgebaston in 2016, i think it's worth a poke. particularly because a particular actor actually hates it. it was even nudged when i wirked in ilkeston in 2021; the emotional memory clearly runs deep.-->
