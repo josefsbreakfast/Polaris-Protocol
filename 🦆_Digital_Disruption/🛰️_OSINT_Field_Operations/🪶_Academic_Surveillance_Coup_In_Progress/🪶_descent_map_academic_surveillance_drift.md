@@ -1,5 +1,5 @@
 # 🪶 Descent Map — Academic Surveillance Drift
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-12  
 *Tracing how an early academic programme of “monitoring internet usage” descended into policy, procurement, campus practice, and everyday surveillance narratives.*
 
 ---
@@ -80,9 +80,9 @@ It maps how an academic idea can be translated into institutional practice and n
 
 > 📡 Cross-references:
 >
-> - [🎓 British University Compliance Service](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md) — *compliance playbooks and audit pressures*
-> - [🧬 Structural Mapping](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) — *pipeline & evidence mapping templates*
+> - [🎓 British University Compliance Service](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md) — *compliance playbooks and audit pressures*
+> - [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) — *pipeline & evidence mapping templates*
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-Last updated: 2025-11-06  
+_Last updated: 2025-11-12_
