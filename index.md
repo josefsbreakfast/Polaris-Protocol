@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:58:12 UTC_
+_Generated on 2025-11-12 00:59:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -452,6 +452,7 @@ _Generated on 2025-11-12 00:58:12 UTC_
         - [`⚖️_legality_as_gaslight.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_legality_as_gaslight.md)
         - [`⚖️_norman_law_and_the_geometry_of_impunity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_norman_law_and_the_geometry_of_impunity.md)
         - [`⚖️_retrospective_law_in_a_prospective_world.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_retrospective_law_in_a_prospective_world.md)
+        - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
         - [`❌_ncnd_technique.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md)
         - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
         - [`🌀_containment_under_observation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)
@@ -1949,7 +1950,6 @@ _Generated on 2025-11-12 00:58:12 UTC_
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
-    - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
     - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
     - [`⚖️_triangle_of_accountability_gaps.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_triangle_of_accountability_gaps.md)
     - [`⚖️_united_fronts_democratic_defence.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_united_fronts_democratic_defence.md)
