@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:15:06 UTC_
+_Generated on 2025-11-12 00:16:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -127,6 +127,7 @@ _Generated on 2025-11-12 00:15:06 UTC_
         - [`☔️_compressed_privacy_and_freedom_of_thought.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☔️_compressed_privacy_and_freedom_of_thought.md)
         - [`☕_administrative_necromancy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕_administrative_necromancy.md)
         - [`☢️_the_empathy_project.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☢️_the_empathy_project.md)
+        - [`⚓_sea_org_as_containment_prototype.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚓_sea_org_as_containment_prototype.md)
         - [`⚖️_above_the_law_protofascism_threshold.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_above_the_law_protofascism_threshold.md)
         - [`⚖️_autonomy_vs_containment_dial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_autonomy_vs_containment_dial.md)
         - [`⚖️_containment_and_cutthrough_in_the_legal_profession.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_containment_and_cutthrough_in_the_legal_profession.md)
@@ -1930,7 +1931,6 @@ _Generated on 2025-11-12 00:15:06 UTC_
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
     - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
-    - [`⚓_sea_org_as_containment_prototype.md`](Polaris_Nest/Git_Intake_Drawer/⚓_sea_org_as_containment_prototype.md)
     - [`⚖️_accountability_as_alignment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_accountability_as_alignment.md)
     - [`⚖️_architecture_of_complicity_when_justice_stops_at_the_dock.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_architecture_of_complicity_when_justice_stops_at_the_dock.md)
     - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_citizen_recourse_private_surveillance_uk.md)
