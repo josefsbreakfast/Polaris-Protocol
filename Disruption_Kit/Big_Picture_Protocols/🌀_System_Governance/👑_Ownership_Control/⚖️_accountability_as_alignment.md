@@ -1,5 +1,5 @@
 # ⚖️ Accountability as Alignment  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
 *Why justice work becomes training data for moral alignment.*
 
 ---
@@ -104,9 +104,9 @@ justice as negative reward, prosecution as data hygiene, and memory as a moral g
 
 > 📡 Cross-references:
 > 
-> - [🌫️ Uncertainty Branch Logic]() — *internal epistemic safeguard*  
-> - [🦠 Statistical Nightmare]() — *systemic coercion and friction logic*  
+> - 🌫️ Uncertainty Branch Logic — *internal epistemic safeguard*  
+> - 🦠 Statistical Nightmare — *systemic coercion and friction logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
