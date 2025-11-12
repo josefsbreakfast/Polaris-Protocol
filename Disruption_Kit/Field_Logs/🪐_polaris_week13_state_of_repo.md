@@ -1,5 +1,5 @@
 # 🪐 Polaris — Week 13 State of the Repo  
-**First created:** 2025-11-08  |  **Last updated:** 2025-11-08  
+**First created:** 2025-11-08  |  **Last updated:** 2025-11-12  
 *Scale correction: when tidy looks competent.*
 
 ---
@@ -85,15 +85,16 @@ Once the real map is drawn, the peaks shrink back to ordinary hills.
 
 ## 🏮 Footer  
 
-*Week 13 State of the Repo* is a periodic meta-node of the Polaris Protocol.  
+*🪐 Week 13 State of the Repo* is a periodic meta-node of the Polaris Protocol.  
 It fixes the moment when containment theory, survivor authorship, and civic design began to merge into a single epistemic structure.  
 
-> 📡 Cross-references:  
-> - [🧮 PIPS–YELLIS Data Ecosystem](../Education_Data/🧮_pips_yellis_data_ecosystem.md)  
-> - [🧠 Extraction Loop — Data vs Story](../Extraction_Reclamation/🧠_extraction_loop_data_vs_story.md)  
-> - [🧩 Counter-Extraction Loop — Reclaiming Authorship](../Extraction_Reclamation/🧩_counter_extraction_loop_reclaiming_authorship.md)  
-> - [🕳️ Never Really Leaving — Child Abuse, Britain, and the Non-Escape](../Witness/🕳️_never_really_leaving_child_abuse_britain_non_escape.md)  
+> 📡 Cross-references:
+> 
+> - 🧮 PIPS–YELLIS Data Ecosystem  
+> - 🧠 Extraction Loop — Data vs Story  
+> - 🧩 Counter-Extraction Loop — Reclaiming Authorship  
+> - 🕳️ Never Really Leaving — Child Abuse, Britain, and the Non-Escape  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-11-12_
