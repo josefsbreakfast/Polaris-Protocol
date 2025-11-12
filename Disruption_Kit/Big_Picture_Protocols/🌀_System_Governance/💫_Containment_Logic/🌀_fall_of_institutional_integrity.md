@@ -1,6 +1,5 @@
 # 🌀 The Fall of Institutional Integrity  
-
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
+**First created:** 2025-11-02  |  **Last updated:** 2025-11-12  
 *A structural autopsy of how democratic institutions decay — and how it always starts in language.*
 
 ---
@@ -80,11 +79,12 @@ institutional decay, authoritarian drift, euphemism, capture, collapse, semantic
 *🌀 The Fall of Institutional Integrity* is a diagnostic node of the Polaris Protocol.  
 It documents the structural and linguistic processes through which democratic systems corrode, setting the stage for repair.  
 
-> 📡 Cross-references:  
-> - [📡 Language as Attack Surface](../Disruption_Kit/Big_Picture_Protocols/📡_language_as_attack_surface.md) — linguistic precursor  
-> - [⚖️ Linguistic Integrity as Security Risk](./⚖️_linguistic_integrity_as_security_risk.md) — policy relevance  
-> - 🌅 Rise of Institutional Integrity (to follow) — reconstruction pathway  
+> 📡 Cross-references:
+> 
+> - 📡 Language as Attack Surface — *linguistic precursor*  
+> - ⚖️ Linguistic Integrity as Security Risk — *policy relevance*  
+> - 🌅 Rise of Institutional Integrity — *reconstruction pathway*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-12_
