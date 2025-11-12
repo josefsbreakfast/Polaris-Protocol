@@ -1,5 +1,5 @@
 # 🪩 Public Faces, Hidden Files — Reading the Visibility Layer  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
 *A methodological note on how bilateral academic networks display openness while keeping their operational core opaque.*
 
 ---
@@ -72,10 +72,10 @@ transparency, diplomacy, open-source research, attachés, academic networks, dat
 
 ## 🏮 Footer  
 
-*Public Faces, Hidden Files* describes the paradox of openness in international research diplomacy:  
+*🪩 Public Faces, Hidden Files* describes the paradox of openness in international research diplomacy:  
 the more visible the personalities, the less visible the paperwork.  
 Recognising this pattern helps investigators use public data without mistaking performance for transparency.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-12_
