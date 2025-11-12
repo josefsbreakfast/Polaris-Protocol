@@ -1,5 +1,5 @@
 # ⚖️ The Teaching Hospital Loophole  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-10  
+**First created:** 2025-11-10 | **Last updated:** 2025-11-12  
 *How innovation pipelines slip past the Nuremberg and Helsinki guard-rails.*
 
 ---
@@ -101,13 +101,14 @@ teaching hospitals, consent, delegated consent, nuremberg code, helsinki declara
 
 ## 🏮 Footer  
 
-*The Teaching Hospital Loophole* is a living node of the Polaris Protocol.  
+*⚖️ The Teaching Hospital Loophole* is a living node of the Polaris Protocol.  
 It documents how innovation frameworks reclassify human experimentation as pedagogy to bypass ethical oversight.  
 
-> 📡 Cross-references:  
-> - [🩹 Pain Is Not a KPI](../Big_Picture_Protocols/🩹_pain_is_not_a_kpi.md) — incentive structures and invisibility of suffering  
-> - [🧠 Systems & Governance](../Big_Picture_Protocols/🌀_systems_&_governance/) — architecture of oversight and loopholes  
+> 📡 Cross-references:
+> 
+> - 🩹 Pain Is Not a KPI — *incentive structures and invisibility of suffering*  
+> - 🧠 Systems & Governance — *architecture of oversight and loopholes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-10_
+_Last updated: 2025-11-12_
