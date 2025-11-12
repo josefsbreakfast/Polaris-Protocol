@@ -33,3 +33,24 @@ for clarity, its a white dude who feels belittled. its a white boy you need to b
 £10 says some "helpful man-to-man workplace advice" started self generating after that conf; "we're just looking out for...", yick.
 
 but the nudging 110% in gmails, via 355, and via facebook before that; you can see payments in all the rotten boroughs. this became a new tool.-->
+
+---
+
+x3 images just added before 1745 are x2 screenshots of supporting evidence plus the fail on forst upload as interference evidence.  
+
+these x2 screnshots show the content orientated at both the make and fenail partoes of the enforced twinning. the algorithm can now bot distinguish which of us is which, so it cant issue it in gendered lines. this is a direvt result of the prolonged coercion of both parties within region.  
+
+video targeted to masc audience: some goop about how some woman needs commitment; coerces communicatin m to f. video targeted to fem audience: some goop about men not caring; coerces silence.  
+
+both serve to coerce a particular dynamic.  
+
+this is what living in the midlands snd south yorkshire looks like.  
+
+and this is all publicly funded; our taxes at work.  
+
+no wonder they said i was a terrorist for holding the budget accountable; they know none of us would support "counterterrorosm" being some middle aged blokes sending little manipulative live videos to people because theyre just pissed off the world does not orbot around tyem specifically.  
+
+can the political party this one hangs around, kinfly come and pick your list little whote boy uo, and maybe geound him from hos phone for a few days?  
+
+i think it might be for the best. 
+
