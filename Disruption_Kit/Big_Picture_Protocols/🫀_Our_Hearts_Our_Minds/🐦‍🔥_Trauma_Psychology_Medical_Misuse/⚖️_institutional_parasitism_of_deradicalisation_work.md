@@ -186,13 +186,14 @@ institutional parasitism, deradicalisation, cultural security, bureaucracy, surv
 ---
 
 ## 🏮 Footer  
-*Institutional Parasitism of Deradicalisation Work* is a living node of the Polaris Protocol.  
+*⚖️ Institutional Parasitism of Deradicalisation Work* is a living node of the Polaris Protocol.  
 It documents how the State quietly depends on cultural intelligence work it cannot name — and how that dependence structures both containment and denial.  
 
-> 📡 Cross-references:  
-> - [💇‍♀️ The Dumb Blonde Protocol](../🪄_Expression_Of_Norms/💇‍♀️_the_dumb_blonde_protocol.md) — containment myths as social stabilisers  
-> - [🎮 Fake Gamer Girl Protocol](../🪄_Expression_Of_Norms/🎮_fake_gamer_girl_protocol.md) — digital sequel to disbelief  
-> - [System Governance](./) — analysis of bureaucratic reflex and policy blind spots  
+> 📡 Cross-references:
+> 
+> - 💇‍♀️ The Dumb Blonde Protocol — containment myths as social stabilisers  
+> - 🎮 Fake Gamer Girl Protocol — digital sequel to disbelief  
+> - 🌀 Systems & Governance — analysis of bureaucratic reflex and policy blind spots  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
