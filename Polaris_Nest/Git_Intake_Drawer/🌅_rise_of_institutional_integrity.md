@@ -1,7 +1,6 @@
 # 🌅 Rise of Institutional Integrity  
-
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
-*How democratic systems relearn coherence after collapse — from translation to trust.*
+**First created:** 2025-11-02  |  **Last updated:** 2025-11-12  
+*How democratic systems relearn coherence after collapse — from translation to trust.*  
 
 ---
 
@@ -97,11 +96,12 @@ institutional repair, democratic renewal, public trust, archival transparency, c
 *🌅 Rise of Institutional Integrity* is a reconstruction node of the Polaris Protocol.  
 It maps how language, law, and trust are re-stitched after capture — and why the slow work still matters.  
 
-> 📡 Cross-references:  
-> - [🌀 Fall of Institutional Integrity](./🌀_fall_of_institutional_integrity.md) — preceding node  
-> - [⚖️ Linguistic Integrity as Security Risk](./⚖️_linguistic_integrity_as_security_risk.md) — policy alignment  
-> - [🧭 How We Got Here](../Polaris_Nest/🧭_how_we_got_here.md) — orientation anchor  
+> 📡 Cross-references:
+> 
+> - 🌀 Fall of Institutional Integrity — *preceding node*  
+> - ⚖️ Linguistic Integrity as Security Risk — *policy alignment*  
+> - 🧭 How We Got Here — *orientation anchor*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-12_
