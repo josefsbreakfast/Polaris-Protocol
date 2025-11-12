@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 02:06:12 UTC_
+_Generated on 2025-11-12 02:08:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -833,6 +833,7 @@ _Generated on 2025-11-12 02:06:12 UTC_
         - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
         - [`⚖️_navigating_elder_spaces_for_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_navigating_elder_spaces_for_transparency.md)
         - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_sanhedrin_rulings_on_trafficking.md)
+        - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
         - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
         - [`📅_blm_uk_2020_2025_timeline_outputs.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📅_blm_uk_2020_2025_timeline_outputs.md)
         - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
@@ -1979,7 +1980,6 @@ _Generated on 2025-11-12 02:06:12 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
     - [`🌾_possibly_poetry_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🌾_possibly_poetry_pipeline.md)
     - [`🍉_civic_participation_and_ai_risk_classification.md`](Polaris_Nest/Git_Intake_Drawer/🍉_civic_participation_and_ai_risk_classification.md)
     - [`🍉_friction_erasure_and_the_machine_view_of_resistance.md`](Polaris_Nest/Git_Intake_Drawer/🍉_friction_erasure_and_the_machine_view_of_resistance.md)
