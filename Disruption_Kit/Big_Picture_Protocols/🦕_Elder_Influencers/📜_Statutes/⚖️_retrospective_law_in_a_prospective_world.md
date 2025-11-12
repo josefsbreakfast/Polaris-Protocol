@@ -1,10 +1,10 @@
 # ⚖️ Retrospective Law in a Prospective World  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-11  
 *On the temporal gap between harm and accountability.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node examines how surveillance governance in the UK—and by extension most democratic states—operates on a **temporal mismatch**.  
 Regulation measures harm retrospectively, while monitoring technologies act prospectively.  
 By the time a citizen can prove surveillance occurred, its deterrent function has already succeeded.  
@@ -14,7 +14,7 @@ Containment is built faster than consent.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Temporal Asymmetry:** laws review the past; systems govern the future.  
 - **Invisible Harm:** self-silencing and behavioural chilling rarely qualify as legal injury.  
 - **Structural Opacity:** DPIAs and procurement clauses replace public oversight.  
@@ -88,13 +88,13 @@ surveillance law, accountability gap, data protection, chilling effect, foresigh
 
 ## 🏮 Footer  
 
-*Retrospective Law in a Prospective World* is a living node of the Polaris Protocol.  
+*⚖️ Retrospective Law in a Prospective World* is a living node of the Polaris Protocol.  
 It analyses how legal systems trail behind technological power, mapping the structural lag that allows surveillance to operate lawfully yet harm democratically.  
 
-> 📡 Cross-references:  
-> - [🕳️ How to Catch a Whistleblower](./🕳️_how_to_catch_a_whistleblower.md) — procedural containment and data pipelines  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and fidelity anchor  
+> 📡 Cross-references:
+> 
+> - 🕳️ How to Catch a Whistleblower — *procedural containment and data pipelines*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-12_
