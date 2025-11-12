@@ -1,10 +1,10 @@
 # ⚗️ Data Contamination Chain  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
 *How one early misclassification of personal data mutates into systemic reuse and long-term dataset contamination.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰 Orientation  
 
 A single legal or procedural error — a dataset wrongly treated as “non-personal” — can multiply through time.  
 Once marked as open or shareable, the data travels through academic, commercial, and public-private channels until it becomes effectively ubiquitous.  
@@ -12,7 +12,7 @@ This node explains that mechanism: how *inheritance of legitimacy* transforms a 
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - Traces how a mis-categorised dataset propagates.  
 - Defines the concept of **inherited legitimacy**.  
@@ -74,7 +74,7 @@ The aim is accountability for structural failure, not personal fault.
 
 ---
 
-## 🔁 Regulatory Feedback Loop  
+## 🌓 Regulatory Feedback Loop  
 
 ```mermaid
 graph LR
@@ -111,11 +111,12 @@ data contamination, inherited legitimacy, dataset reuse, systemic breach, miscla
 *⚗️ Data Contamination Chain* is a living node of the Polaris Protocol.  
 It documents how an initial data-classification error can propagate through institutional and commercial ecosystems, creating enduring privacy breaches and structural opacity.  
 
-> 📡 Cross-references:  
-> - [🕸️ Voice Lineage and Dataset Chain](../Survivor_Tools/🕸️_voice_lineage_and_dataset_chain.md) — tracing multi-entity reuse of voice data  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — analysis of layered contractual opacity  
-> - [🗣️ How to Detect if Your Voice Has Been Used in a Dataset](../Survivor_Tools/🗣️_how_to_detect_voice_dataset_use.md) — forensic detection and SAR templates  
+> 📡 Cross-references:
+> 
+> - 🕸️ Voice Lineage and Dataset Chain — *tracing multi-entity reuse of voice data*  
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *analysis of layered contractual opacity*  
+> - 🗣️ How to Detect if Your Voice Has Been Used in a Dataset — *forensic detection and SAR templates*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-12_
