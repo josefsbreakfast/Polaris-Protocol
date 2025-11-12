@@ -1,5 +1,5 @@
 # 🌹 White Rose Leaflet as Counter-Suicide Signal
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
 *When a pamphlet became the refusal to die silently.*
 
 ---
@@ -55,13 +55,13 @@ white rose, pamphlet resistance, surveillance state, moral signal, counter-suici
 
 ## 🏮 Footer  
 
-*White Rose Leaflet as Counter-Suicide Signal* is a living node of the Polaris Protocol.  
+*🌹 White Rose Leaflet as Counter-Suicide Signal* is a living node of the Polaris Protocol.  
 It records how a small act of writing became a model for voice fidelity under total containment.  
 
 > 📡 Cross-references:  
-> - [🕳 The Shape of Missing Historical Nodes](./🕳️_the_shape_of_missing_historical_nodes.md) — on the voids left by erased testimony  
-> - [📚 Forensic Silence](../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) — methodological anchor  
+> - 🕳 The Shape of Missing Historical Nodes — *on the voids left by erased testimony*  
+> - [📚 Forensic Silence](../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) — *methodological anchor*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2025-11-12_
