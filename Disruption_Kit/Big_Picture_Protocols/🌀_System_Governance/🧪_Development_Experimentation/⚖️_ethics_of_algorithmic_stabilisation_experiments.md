@@ -1,5 +1,5 @@
 # ⚖️ Ethics of Algorithmic Stabilisation Experiments  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
+**First created:** 2025-11-01 | **Last updated:** 2025-11-12  
 *Why “safety engineering” becomes human-subjects research the moment real people are exposed to it.*
 
 ---
@@ -105,16 +105,17 @@ algorithmic ethics, human-subjects research, behavioural fingerprinting, crimino
 ---
 
 ## 🏮 Footer  
-*Ethics of Algorithmic Stabilisation Experiments* is a living node of the Polaris Protocol.  
+*⚖️ Ethics of Algorithmic Stabilisation Experiments* is a living node of the Polaris Protocol.  
 It formalises why algorithmic counter-extremism and moderation pilots must be treated as human-subjects research with full ethical governance.  
 
-> 📡 Cross-references:  
-> - [🪞 Algorithmic Projection and False Personalisation](../Narrative_And_Psych_Ops/🪞_algorithmic_projection_and_false_personalisation.md) — misattribution and paranoia loops  
-> - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../System_Governance/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — gendered clustering and risk  
-> - [🐍 How a CVE Tool Becomes a Vector for Extremism](../System_Governance/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md) — recursion of counter-extremism systems  
-> - [📊 Risk Scaling of Algorithmic Misidentification](../System_Governance/📊_risk_scaling_of_algorithmic_misidentification.md) — measurement vacuum and scaling logic  
-> - [🐍 Algorithmic Hostage Logic](../Big_Picture_Protocols/🐍_algorithmic_hostage_logic.md) — stabilisers trapped inside hostility loops  
+> 📡 Cross-references:
+> 
+> - 🪞 Algorithmic Projection and False Personalisation — *misattribution and paranoia loops*  
+> - 🕸️ Gendered Harms from Counter-Extremism Algorithms — *gendered clustering and risk*  
+> - 🐍 How a CVE Tool Becomes a Vector for Extremism — *recursion of counter-extremism systems*  
+> - 📊 Risk Scaling of Algorithmic Misidentification — *measurement vacuum and scaling logic*  
+> - 🐍 Algorithmic Hostage Logic — *stabilisers trapped inside hostility loops*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-12_
