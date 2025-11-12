@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:01:21 UTC_
+_Generated on 2025-11-12 01:04:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1951,7 +1951,6 @@ _Generated on 2025-11-12 01:01:21 UTC_
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
-    - [`⚖️_triangle_of_accountability_gaps.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_triangle_of_accountability_gaps.md)
     - [`⚖️_united_fronts_democratic_defence.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_united_fronts_democratic_defence.md)
     - [`⚗️_data_contamination_chain.md`](Polaris_Nest/Git_Intake_Drawer/⚗️_data_contamination_chain.md)
     - [`⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md)
@@ -2101,6 +2100,7 @@ _Generated on 2025-11-12 01:01:21 UTC_
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🔮_predictive_containment_and_emergent_friction.md`](Polaris_Nest/Git_Intake_Drawer/🔮_predictive_containment_and_emergent_friction.md)
     - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Polaris_Nest/Git_Intake_Drawer/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
+    - [`🔺_triangle_of_accountability_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🔺_triangle_of_accountability_gaps.md)
     - [`🕊_repairing_the_human.md`](Polaris_Nest/Git_Intake_Drawer/🕊_repairing_the_human.md)
     - [`🕊️_data_contact_breach_when_restraining_orders_fail_via_data.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_data_contact_breach_when_restraining_orders_fail_via_data.md)
     - [`🕊️_positive_drift_leadership_shifts_heritage_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_positive_drift_leadership_shifts_heritage_governance.md)
