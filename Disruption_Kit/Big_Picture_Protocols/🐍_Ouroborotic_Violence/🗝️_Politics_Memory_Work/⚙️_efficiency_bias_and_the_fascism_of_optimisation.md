@@ -1,10 +1,10 @@
 # ⚙️ Efficiency Bias and the Fascism of Optimisation  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
 *On why centralising for efficiency can save lives — and why it can also quietly erase them.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰 Orientation  
 Centralisation is not inherently authoritarian.  
 We centralise in disasters to move food faster, in health services to share data, in education to equalise access.  
 The danger begins when the logic of **coordination** quietly becomes the logic of **control**.  
@@ -14,7 +14,7 @@ Unless we explicitly encode the counter-value of *care*, efficiency will always 
 
 ---
 
-## 🧩 Key Points  
+## ✨ Key Points  
 
 - **Efficiency is amoral.**  
   It rewards speed and uniformity, not justice or compassion.
@@ -72,8 +72,8 @@ efficiency bias, centralisation, optimisation, fascism, care ethics, coordinatio
 ---
 
 ## 🏮 Footer  
-*Efficiency Bias and the Fascism of Optimisation* is a living node of the Polaris Protocol.  
+*⚙️ Efficiency Bias and the Fascism of Optimisation* is a living node of the Polaris Protocol.  
 It argues that centralisation is a vital civic tool — until it forgets why it was built.  
 The sweet spot lies where coordination serves life, not the algorithm.
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-12_
