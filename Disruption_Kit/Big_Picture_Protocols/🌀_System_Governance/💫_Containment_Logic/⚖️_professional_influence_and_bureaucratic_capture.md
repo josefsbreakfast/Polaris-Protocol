@@ -1,5 +1,5 @@
 # ⚖️ Professional Influence & Bureaucratic Capture  
-**First created:** 2025-10-31  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-12  
 *How credentials and credibility systems can turn institutional bias into official procedure.*
 
 ---
@@ -14,7 +14,7 @@ This dynamic lets narrative reversals and containment tactics wear the costume o
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Credential capture** — professional status grants narrative immunity.  
 - **Paperweight persuasion** — documents gain credibility through letterhead, not content.  
@@ -85,14 +85,13 @@ professional authority · credential capture · bureaucratic deference · distri
 ## 🏮 Footer  
 
 *⚖️ Professional Influence & Bureaucratic Capture* explores how prestige becomes policy and why institutions trust rank over reason.  
-It interlocks with:  
 
-- **🩸 Reverse-Victim Logic** — role-reversal validated by authority.  
-- **⚖️ Operatic Capture & Risks** — escalation until deference becomes spectacle.  
-- **🧠 Cognitive Feedback and Bureaucratic Amplification** — belief reinforced by credential repetition.  
+> 📡 Cross-references:
+> 
+> - 🩸 Reverse-Victim Logic — *role-reversal validated by authority*  
+> - ⚖️ Operatic Capture & Risks — *escalation until deference becomes spectacle*  
+> - 🧠 Cognitive Feedback and Bureaucratic Amplification — *belief reinforced by credential repetition*  
 
-> *When power signs its own audit, accuracy becomes etiquette.*
+> *When power signs its own audit, accuracy becomes etiquette.*  
 
----
-
-**Last updated:** 2025-10-31  
+_Last updated: 2025-11-12_  
