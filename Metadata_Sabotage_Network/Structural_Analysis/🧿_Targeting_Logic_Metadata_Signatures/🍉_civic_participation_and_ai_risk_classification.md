@@ -1,5 +1,5 @@
 # 🍉 Civic Participation and AI Risk Classification  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-06 | **Last updated:** 2025-11-12  
 *Why optimisation systems can unlawfully penalise lawful political activity — and why immediate governance correction is essential.*
 
 ---
@@ -127,13 +127,14 @@ civic participation, algorithmic discrimination, optimisation bias, human-rights
 
 ## 🏮 Footer  
 
-*Civic Participation and AI Risk Classification* is a living node of the **Polaris Protocol**.  
+*🍉 Civic Participation and AI Risk Classification* is a living node of the **Polaris Protocol**.  
 It defines the foreseeable legal and moral exposure created when optimisation systems penalise lawful democratic participation.
 
-> 📡 Cross-references:  
-> - [⚖️ AI Black Box Inquests](../Disruption_Kit/Big_Picture_Protocols/⚖️_ai_black_box_inquests.md)  
-> - [🧿 Representation Logic vs Platform Optimisation](../Disruption_Kit/Big_Picture_Protocols/🧿_representation_logic_vs_platform_optimisation.md)  
+> 📡 Cross-references:
+> 
+> - [🫀 AI Black Box Inquests](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🫀_ai_black_box_inquests.md) - *proposed framework for post-incident investigation*  
+> - 🧿 Representation Logic vs Platform Optimisation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
