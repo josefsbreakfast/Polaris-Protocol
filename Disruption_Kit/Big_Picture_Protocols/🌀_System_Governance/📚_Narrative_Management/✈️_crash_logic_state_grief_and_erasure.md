@@ -1,11 +1,14 @@
 # ✈️ Crash Logic — State Grief and Erasure
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-12  
 *When accident becomes governance: the choreography of loss in authoritarian systems.*  
 
 ---
 
 ## 🧭 Orientation  
-Every state cultivates its tragedies, but some learn to weaponise them. In modern Russia and its antecedent systems, the plane crash is not just mechanical failure; it is a narrative device. Each “accident” erases a problematic cluster — singers, generals, dissidents — and simultaneously rehearses the ritual of endurance. The repetition creates a governance style in which **grief itself becomes a proof of stability**.  
+Every state cultivates its tragedies, but some learn to weaponise them.  
+In modern Russia and its antecedent systems, the plane crash is not just mechanical failure; it is a narrative device.  
+Each “accident” erases a problematic cluster — singers, generals, dissidents — and simultaneously rehearses the ritual of endurance.  
+The repetition creates a governance style in which **grief itself becomes a proof of stability**.  
 
 ---
 
@@ -44,10 +47,11 @@ plane crash politics, accident governance, grief management, erasure logic, auth
 *✈️ Crash Logic — State Grief and Erasure* is a living node of the Polaris Protocol.  
 It analyses how catastrophe becomes an administrative tool, transforming loss into evidence of endurance.  
 
-> 📡 Cross-references:  
-> - [🪞 Fate as Statecraft — Accidents in Authoritarian Regimes](./🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md) — complementary systems view  
-> - [🔥 Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🔥_Suppression_as_Signal.md) — framework anchor  
+> 📡 Cross-references:
+> 
+> - 🪞 Fate as Statecraft — Accidents in Authoritarian Regimes — *complementary systems view*  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *framework anchor*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
