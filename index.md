@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:19:14 UTC_
+_Generated on 2025-11-12 01:20:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -275,6 +275,7 @@ _Generated on 2025-11-12 01:19:14 UTC_
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
         - [`⚖️_operatic_capture_and_risks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_operatic_capture_and_risks.md)
         - [`⚖️_selective_memory_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_selective_memory_erasure.md)
+        - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
         - [`⛩️_postmodern_gateway.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
         - [`✝️_protestant_work_ethic_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)
         - [`🌒_charisma_as_container.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🌒_charisma_as_container.md)
@@ -1956,7 +1957,6 @@ _Generated on 2025-11-12 01:19:14 UTC_
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
-    - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
     - [`⚙️_friction_minimisation_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_friction_minimisation_logic.md)
     - [`⚙️_high_friction_people_and_systemic_mismatch.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_high_friction_people_and_systemic_mismatch.md)
     - [`⚙️_machine_pruning_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_machine_pruning_logic.md)
