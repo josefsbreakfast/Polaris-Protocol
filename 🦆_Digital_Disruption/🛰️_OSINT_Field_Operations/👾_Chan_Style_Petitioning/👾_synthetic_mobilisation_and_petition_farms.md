@@ -1,11 +1,10 @@
-# 🕵️‍♀️ Synthetic Mobilisation and Petition Farms  
-
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
+# 👾 Synthetic Mobilisation and Petition Farms  
+**First created:** 2025-11-02  |  **Last updated:** 2025-11-12  
 *How digital bot networks simulate public will — and why civic infrastructure must learn to detect synthetic mobilisation.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Online petitions and hashtag campaigns now function as *shadow parliaments*.  
 They generate visible numbers — signatures, retweets, views — that are mistaken for democratic consent.  
@@ -15,7 +14,7 @@ Synthetic mobilisation converts *noise into narrative power* — a key tactic in
 
 ---
 
-## 🧩 Background  
+## ✨ Background  
 
 ### 1. From Social Metrics to Civic Metrics  
 Early digital platforms rewarded posts that provoked reaction.  
@@ -90,7 +89,7 @@ As language itself becomes a programmable interface, civic systems must evolve *
 
 ## 🌌 Constellations  
 
-🕵️‍♀️ 📡 ⚖️ 🧾 🧭 — analytic · civic · defensive · educational  
+👾 📡 ⚖️ 🧾 🧭 — analytic · civic · defensive · educational  
 
 ---
 
@@ -102,14 +101,15 @@ petition farms, synthetic mobilisation, bot networks, digital democracy, civic v
 
 ## 🏮 Footer  
 
-*🕵️‍♀️ Synthetic Mobilisation and Petition Farms* is a contextual node of the Polaris Protocol.  
+*👾 Synthetic Mobilisation and Petition Farms* is a contextual node of the Polaris Protocol.  
 It explains how simulated consensus undermines public trust and offers frameworks for detection and accountability.  
 
-> 📡 Cross-references:  
-> - [🕵️‍♀️ OSINT for Petition Integrity](🕵️‍♀️_osint_for_petition_integrity.md) — practical companion  
-> - [⚖️ Linguistic Integrity as Security Risk](../../../Disruption_Kit/Big_Picture_Protocols/⚖️_linguistic_integrity_as_security_risk.md) — policy anchor  
-> - [📡 Language as Attack Surface](../../../Disruption_Kit/Big_Picture_Protocols/📡_language_as_attack_surface.md) — theoretical root  
+> 📡 Cross-references:
+> 
+> - 👾 OSINT for Petition Integrity — *practical companion*  
+> - ⚖️ Linguistic Integrity as Security Risk — *policy anchor*  
+> - 📡 Language as Attack Surface — *theoretical root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-12_
