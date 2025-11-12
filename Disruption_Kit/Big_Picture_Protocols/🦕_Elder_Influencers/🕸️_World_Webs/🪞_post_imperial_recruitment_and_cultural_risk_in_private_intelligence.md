@@ -1,5 +1,5 @@
 # 🪞 Post-Imperial Recruitment and Cultural Risk in Private Intelligence  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
 *How social networks, imperial nostalgia, and informal recruitment cultures sustain the para-intelligence market.*
 
 ---
@@ -89,10 +89,10 @@ It examines how informal recruitment and inherited ideologies sustain the para-i
 
 > 📡 Cross-references:
 > 
-> - [🌀 Recursive Risk Logic in Private Intelligence](./🌀_recursive_risk_logic_in_private_intelligence.md) - *how data breaches, talent drift, and market incentives feed the intelligence industry*  
-> - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy]() - *how refusal is rendered impossible in the intel industry*
-> - [🕸️ Interlocking Influence Economy]() - *the market made up of corporate intelligence, arms technology, political PR, and behavioural science*
+> - [🌀 Recursive Risk Logic in Private Intelligence](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_recursive_risk_logic_in_private_intelligence.md) - *how data breaches, talent drift, and market incentives feed the intelligence industry*  
+> - 🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy - *how refusal is rendered impossible in the intel industry*
+> - 🕸️ Interlocking Influence Economy - *the market made up of corporate intelligence, arms technology, political PR, and behavioural science*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
