@@ -1,5 +1,5 @@
 # 🌫️ Uncertainty Branch Logic  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
 *Designing structural humility into decision trees.*
 
 ---
@@ -101,13 +101,14 @@ uncertainty branch, epistemic humility, decision trees, refusal reward, escalati
 ---
 
 ## 🏮 Footer  
-*Uncertainty Branch Logic* is a living node of the Polaris Protocol.  
+*🌫️ Uncertainty Branch Logic* is a living node of the Polaris Protocol.  
 It defines a structural safeguard for automated systems, embedding epistemic humility as an executable moral principle.  
 
-> 📡 Cross-references:  
-> - [🦠 Statistical Nightmare](../Disruption_Kit/Big_Picture_Protocols/🦠_statistical_nightmare.md) — macro-level coercion and friction logic.  
-> - [⚖️ Accountability as Alignment](../Disruption_Kit/Big_Picture_Protocols/⚖️_accountability_as_alignment.md) — external enforcement of taboos.  
+> 📡 Cross-references:
+> 
+> - 🦠 Statistical Nightmare — *macro-level coercion and friction logic*  
+> - [⚖️ Accountability as Alignment](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_accountability_as_alignment.md) — *external enforcement of taboos*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-12_
