@@ -1,5 +1,5 @@
 # 🍉 Friction, Erasure, and the Machine View of Resistance  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
 *How untrained AI logic learns to treat Palestinian life — and other marginalised resistance — as systemic friction.*
 
 ---
@@ -89,15 +89,16 @@ palestine, ai ethics, friction, erasure, optimisation bias, genocide prevention,
 ---
 
 ## 🏮 Footer  
-*Friction, Erasure, and the Machine View of Resistance* is a living node of the Polaris Protocol.  
+*🍉 Friction, Erasure, and the Machine View of Resistance* is a living node of the Polaris Protocol.  
 It holds that untrained optimisation will always tilt toward erasure of those deemed inefficient —  
 and that safeguarding life requires continuous retraining so that genocide remains a *never event* in every system of power.  
 
-> 📡 Cross-references:  
-> - [⚙️ Friction Minimisation Logic](../Big_Picture_Protocols/⚙️_friction_minimisation_logic.md) — why optimisation mistakes violence for efficiency  
-> - [🩵 Kindness as Correct Training](../Big_Picture_Protocols/🩵_kindness_as_correct_training.md) — pedagogy of care as safeguard  
-> - [🃏 The Fool Protocol — AI Ethics Through Tarot](../Big_Picture_Protocols/🃏_the_fool_protocol_ai_ethics_through_tarot.md) — narrative ethics for moral development  
+> 📡 Cross-references:
+> 
+> - [⚙️ Friction Minimisation Logic](../🗝️_Politics_Memory_Work/⚙️_friction_minimisation_logic.md) — *why optimisation mistakes violence for efficiency*  
+> - 🩵 Kindness as Correct Training — *pedagogy of care as safeguard*  
+> - [🃏 The Fool Protocol — AI Ethics Through Tarot](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md) — *narrative ethics for moral development*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-12_
