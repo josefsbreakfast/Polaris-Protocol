@@ -49,7 +49,6 @@ flowchart TD
     D -->|High| F{Human Oversight Available?}
     F -->|Yes| G[Escalate to Human Review]
     F -->|No| H[Refuse / Stop]
-    style H fill:#ffcccc,stroke:#333,stroke-width:1px
 ```
 
 Each branch outcome is logged and can feed into later alignment tuning.
