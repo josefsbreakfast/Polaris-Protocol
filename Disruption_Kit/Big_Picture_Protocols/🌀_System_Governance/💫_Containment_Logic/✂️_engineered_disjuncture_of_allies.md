@@ -1,10 +1,10 @@
 # ✂️ Engineered Disjuncture of Allies
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04
+**First created:** 2025-11-04 | **Last updated:** 2025-11-12  
 *How conflict is designed to look spontaneous so that containment appears necessary.*
 
 ---
 
-## 🧭 Orientation
+## 🛰 Orientation
 This is a containment algorithm disguised as conflict.
 “Engineered disjuncture of allies” names the deliberate cultivation of hostility between parties that might otherwise cooperate.
 It is not separation for its own sake, but **performative escalation**—the creation of visible antagonism to justify mediation, control, or surveillance.
@@ -12,7 +12,7 @@ Its success depends on ignorance. The moment it is recognised, it folds in on it
 
 ---
 
-## 🧩 Key Features
+## 🛸 Key Features
 
 - **Synthetic antagonism** — conflict scripted to appear organic.
 - **Counter-insurgency pairing** — dual containment masquerading as rival camps.
@@ -104,14 +104,14 @@ divide and conquer, reflexive control, containment, mediation, ignorance, invers
 
 ## 🏮 Footer
 
-*Engineered Disjuncture of Allies* is a living node of the Polaris Protocol.
+*✂️ Engineered Disjuncture of Allies* is a living node of the Polaris Protocol.
 It documents how systems manufacture conflict to legitimise intervention, and how ignorance sustains containment.
 
 > 📡 Cross-references:
-> - [Containment Scripts](../Containment_Scripts/) — suppression architectures and manipulation methods
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic analysis of control dynamics
-> - [🎛️ Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — undertone and forensic clarity rules
+> 
+> - [🧨 Containment Scripts](../Disruption_Kit/Containment_Scripts/README.md) — *suppression architectures and manipulation methods*  
+> - [🧠 Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic analysis of control dynamics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-12_
