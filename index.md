@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:32:26 UTC_
+_Generated on 2025-11-12 01:35:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -145,6 +145,7 @@ _Generated on 2025-11-12 01:32:26 UTC_
         - [`⚗️_data_contamination_chain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚗️_data_contamination_chain.md)
         - [`⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)
         - [`⚡_tempo_differential_when_recognition_lags_behind_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_tempo_differential_when_recognition_lags_behind_perception.md)
+        - [`✂️_engineered_disjuncture_of_allies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✂️_engineered_disjuncture_of_allies.md)
         - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
         - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
         - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
@@ -1964,7 +1965,6 @@ _Generated on 2025-11-12 01:32:26 UTC_
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours_v2.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours_v2.md)
-    - [`✂️_engineered_disjuncture_of_allies.md`](Polaris_Nest/Git_Intake_Drawer/✂️_engineered_disjuncture_of_allies.md)
     - [`✈️_crash_logic_state_grief_and_erasure.md`](Polaris_Nest/Git_Intake_Drawer/✈️_crash_logic_state_grief_and_erasure.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_fool_card_and_machine_innocence.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_fool_card_and_machine_innocence.md)
