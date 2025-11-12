@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 18:40:25 UTC_
+_Generated on 2025-11-12 19:42:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2019,6 +2019,7 @@ _Generated on 2025-11-12 18:40:25 UTC_
     - [`⚖️_official_secrets_reform_and_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_official_secrets_reform_and_accountability.md)
     - [`⚖️_shielded_roles_and_information_risk_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shielded_roles_and_information_risk_governance.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
+    - [`⚖️_the_history_of_justice_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_history_of_justice_as_spectacle.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours_v2.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours_v2.md)
@@ -2262,6 +2263,7 @@ _Generated on 2025-11-12 18:40:25 UTC_
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
+    - [`🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md)
     - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
     - [`🧨_containment_as_accelerant.md`](Polaris_Nest/Git_Intake_Drawer/🧨_containment_as_accelerant.md)
     - [`🧨_dual_use_epiphany.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_epiphany.md)
@@ -2372,6 +2374,7 @@ _Generated on 2025-11-12 18:40:25 UTC_
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🩻_reflex_against_care.md`](Polaris_Nest/Git_Intake_Drawer/🩻_reflex_against_care.md)
     - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
+    - [`🪆_are_you_just_asking_questions.md`](Polaris_Nest/Git_Intake_Drawer/🪆_are_you_just_asking_questions.md)
     - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Polaris_Nest/Git_Intake_Drawer/🪖_applied_demolition_science_and_the_gcse_problem.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
