@@ -1,5 +1,5 @@
 # 🫒 Occupation as Containment Regime
-**First created:** 2025-11-04 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-12  
 *When the performance of conflict becomes the structure of control.*
 
 ---
@@ -112,10 +112,10 @@ It situates “occupation” as a systemic method of control sustained through r
 
 > 📡 Cross-references:
 > 
-> - [✂️ Engineered Disjuncture of Allies]() — source logic of antagonism as engine
-> - [🧠 Big Picture Protocols]) — macro-diagnostic frameworks of containment
+> - ✂️ Engineered Disjuncture of Allies — *source logic of antagonism as engine*
+> - 🧠 Big Picture Protocols — *macro-diagnostic frameworks of containment*
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
