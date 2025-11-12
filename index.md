@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 20:14:32 UTC_
+_Generated on 2025-11-12 20:20:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2314,6 +2314,7 @@ _Generated on 2025-11-12 20:14:32 UTC_
     - [`🧬_clone_multiplicity_knot_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_multiplicity_knot_logic.md)
     - [`🧬_collocative_deintegrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_deintegrity.md)
     - [`🧬_competitive_binding.md`](Polaris_Nest/Git_Intake_Drawer/🧬_competitive_binding.md)
+    - [`🧬_complaint_drift_and_twin_overcorrection.md`](Polaris_Nest/Git_Intake_Drawer/🧬_complaint_drift_and_twin_overcorrection.md)
     - [`🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md`](Polaris_Nest/Git_Intake_Drawer/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
@@ -2391,6 +2392,7 @@ _Generated on 2025-11-12 20:14:32 UTC_
     - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Polaris_Nest/Git_Intake_Drawer/🪖_applied_demolition_science_and_the_gcse_problem.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
+    - [`🪞_the_magnifying_glass_effect.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_magnifying_glass_effect.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_narrative_saturation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_narrative_saturation.md)
