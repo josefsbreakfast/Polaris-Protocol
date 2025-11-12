@@ -1,5 +1,5 @@
 # 🪞 Conditional Whiteness and Twinning as Containment
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07
+**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
 *Diagnostic reflection on how institutions manage belonging through racial coding and oppositional pairing.*
 
 ---
@@ -32,13 +32,14 @@ conditional whiteness, racialisation, containment, solidarity, respectability po
 
 ## 🏮 Footer
 
-*Conditional Whiteness and Twinning as Containment* is a living node of the Polaris Protocol.  
+*🪞 Conditional Whiteness and Twinning as Containment* is a living node of the Polaris Protocol.  
 It explores how identity management and twinning operate as containment tools within professional and civic ecosystems.  
 
-> 📡 Cross-references:  
-> - [🧱 Ideological Loyalty as Pyramid Scheme](../🧱_ideological_loyalty_as_pyramid_scheme.md)  
-> - [⚖️ Respectability Containment in Professional Ethics](../⚖️_respectability_containment_in_professional_ethics.md)
+> 📡 Cross-references:
+> 
+> - 🧱 Ideological Loyalty as Pyramid Scheme  
+> - ⚖️ Respectability Containment in Professional Ethics  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-12_
