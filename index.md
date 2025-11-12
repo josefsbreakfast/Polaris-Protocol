@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:21:53 UTC_
+_Generated on 2025-11-12 00:24:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -440,6 +440,7 @@ _Generated on 2025-11-12 00:21:53 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
         - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
         - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
+        - [`⚖️_differential_proportionality.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_differential_proportionality.md)
         - [`⚖️_kkl_court_of_protection_case_2020.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_kkl_court_of_protection_case_2020.md)
         - [`⚖️_legality_as_gaslight.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_legality_as_gaslight.md)
         - [`❌_ncnd_technique.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md)
@@ -1934,7 +1935,6 @@ _Generated on 2025-11-12 00:21:53 UTC_
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
     - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
-    - [`⚖️_differential_proportionality.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_differential_proportionality.md)
     - [`⚖️_ethics_of_algorithmic_stabilisation_experiments.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ethics_of_algorithmic_stabilisation_experiments.md)
     - [`⚖️_ideological_coding_and_voice_discrediting.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_ideological_coding_and_voice_discrediting.md)
     - [`⚖️_institutional_parasitism_of_deradicalisation_work.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institutional_parasitism_of_deradicalisation_work.md)
