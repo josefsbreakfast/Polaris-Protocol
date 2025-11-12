@@ -138,7 +138,7 @@ It connects technical amplification to civic defence, providing a roadmap for re
 > 📡 Cross-references:
 > 
 > - 📡 Language as Attack Surface — *linguistic infrastructure of manipulation*  
-> - 👾 Synthetic Mobilisation and Petition Farms](../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_synthetic_mobilisation_and_petition_farms.md) — *practical example*  
+> - 👾 Synthetic Mobilisation and Petition Farms](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/👾_synthetic_mobilisation_and_petition_farms.md) — *practical example*  
 > - ⚖️ Linguistic Integrity as Security Risk — *policy alignment*  
 > - 🌅 Rise of Institutional Integrity — *recovery framework*  
 
