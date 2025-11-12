@@ -47,7 +47,7 @@ It explores how states manufacture “accidents” to refresh fear and maintain 
 > 📡 Cross-references:
 > 
 > - [✈️ Crash Logic — State Grief and Erasure](../../🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md) — *empirical companion*  
-> - [⚙️ Containment by Crash — Risk Management and Symbolic Deletion](../../🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md) — *analytic extension*  
+> - [✈ Containment by Crash — Risk Management and Symbolic Deletion](../../🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md) — *analytic extension*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
