@@ -1,10 +1,10 @@
 # ⚖️ Norman Law and the Geometry of Impunity  
 **First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
-*How a feudal property skeleton still shapes who can be hurt—and who can litigate forever—in English law.*
+*How a feudal property skeleton still shapes who can be hurt - and who can litigate forever - in English law.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 English law did not fall from the sky; it grew out of **Norman feudalism**, where the core question was: *who owns this land, and who owes them service?*  
 That history still governs modern corporate and data regulation. The system remains exquisitely good at protecting **owners** and far less interested in protecting **everyone else**.  
 
@@ -12,7 +12,7 @@ This node maps how that feudal geometry persists in everything from fiduciary du
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Property-centric DNA:** law evolved to defend holders of land, then shares, now data.  
 - **Fiduciary tunnel vision:** “best interests of the company” = shareholder primacy.  
 - **Process as privilege:** the rich own time, lawyers, and appeals.  
@@ -75,6 +75,8 @@ Property remains the organising principle; only the substrate—land → code �
 ## 🌌 Constellations  
 ⚖️ 💰 🧭 — Lives within *Lawfare / Governance Pathologies / Media Constellations*, mapping the continuum from feudal land law to digital platform rule.  
 
+> 📖 See also *Technofeudalism (Yanis Varoufakis, 2023)* — expanded media analysis of digital serfdom.  
+
 ---
 
 ## ✨ Stardust  
@@ -83,9 +85,7 @@ feudal law, english law, property rights, fiduciary duty, tech feudalism, litiga
 ---
 
 ## 🏮 Footer  
-*Norman Law and the Geometry of Impunity* is a living node of the **Polaris Protocol**.  
+*⚖️ Norman Law and the Geometry of Impunity* is a living node of the **Polaris Protocol**.  
 It traces how the Crown’s feudal logic survives inside modern finance and digital architecture — a geometry that still decides who owns the courtroom, the platform, and the future.  
-
-> 📖 See also [Technofeudalism (Yanis Varoufakis, 2023)](../Media_Constellations/Technofeudalism.md) — expanded media analysis of digital serfdom.  
 
 _Last updated: 2025-11-06_
