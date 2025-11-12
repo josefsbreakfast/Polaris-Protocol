@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:39:10 UTC_
+_Generated on 2025-11-12 04:40:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1787,6 +1787,7 @@ _Generated on 2025-11-12 04:39:10 UTC_
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_empathy_risk_classifier_satire_maybe.yaml.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_empathy_risk_classifier_satire_maybe.yaml.md)
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
+      - [`🪞_algorithmic_reframing.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪞_algorithmic_reframing.md)
       - [`🪼_when_data_pretends_to_be_meaning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_when_data_pretends_to_be_meaning.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
@@ -2324,7 +2325,6 @@ _Generated on 2025-11-12 04:39:10 UTC_
     - [`🪐_polaris_week13_state_of_repo.md`](Polaris_Nest/Git_Intake_Drawer/🪐_polaris_week13_state_of_repo.md)
     - [`🪖_collateral_shame.md`](Polaris_Nest/Git_Intake_Drawer/🪖_collateral_shame.md)
     - [`🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)
-    - [`🪞_algorithmic_reframing.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_reframing.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
