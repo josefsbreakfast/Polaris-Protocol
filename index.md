@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:23:06 UTC_
+_Generated on 2025-11-12 01:28:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -479,6 +479,7 @@ _Generated on 2025-11-12 01:23:06 UTC_
         - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_citizen_recourse_private_surveillance_uk.md)
         - [`⚖️_ideological_coding_and_voice_discrediting.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_ideological_coding_and_voice_discrediting.md)
         - [`⚖️_recourse_for_behavioural_containment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_recourse_for_behavioural_containment.md)
+        - [`✂🌹_machine_pruning_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/✂🌹_machine_pruning_logic.md)
         - [`🌿_the_paradox_of_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🌿_the_paradox_of_recognition.md)
         - [`🎶_sonata_server_sympathies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
         - [`📚_the_suppressed_scholar.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📚_the_suppressed_scholar.md)
@@ -1959,7 +1960,6 @@ _Generated on 2025-11-12 01:23:06 UTC_
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
     - [`⚙️_high_friction_people_and_systemic_mismatch.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_high_friction_people_and_systemic_mismatch.md)
-    - [`⚙️_machine_pruning_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_machine_pruning_logic.md)
     - [`⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
