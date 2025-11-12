@@ -1,5 +1,5 @@
 # 🪞 Humiliation as Spectacle — Echoes Across Genocides  
-**First created:** 2025-10-21 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-21 | **Last updated:** 2025-11-12  
 *On the performative destruction of dignity — from pogroms to Palestine to the present day.*  
 
 ---
@@ -383,10 +383,10 @@ It traces the choreography of humiliation from colonial empire to contemporary g
 
 > 📡 Cross-references:
 > 
-> - [🩸 Genocide Denialism](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) - *on manipulation of atrocity memory in the network age*  
-> - [🎓 British University Compliance Service](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md) - *how UK academia is weaponised*  
-> - [🛟 Borders Boats Walls](../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/) - *on the coercion of and in migration and man-made invisible lines*  
+> - [🩸 Genocide Denialism](../🩸_Genocide_Denialism/README.md) - *on manipulation of atrocity memory in the network age*  
+> - [🎓 British University Compliance Service](../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md) - *how UK academia is weaponised*  
+> - [🛟 Borders Boats Walls](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/README.md) - *on the coercion of and in migration and man-made invisible lines*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
