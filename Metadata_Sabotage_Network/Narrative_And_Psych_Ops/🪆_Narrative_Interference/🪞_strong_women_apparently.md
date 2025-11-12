@@ -23,6 +23,6 @@ It decodes the cultural euphemism of “strength” as a survival artefact rathe
 
 > 📡 Cross-references:  
 >
-> - [✨ Letters to Stars](../../../Polaris_Nest/✨_Letters_to_Stars/README.md) — testimonial constellation  
+> - [✨ Letters to Stars](../../../Polaris_Nest/✨_Letters_to_Stars) — testimonial constellation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
