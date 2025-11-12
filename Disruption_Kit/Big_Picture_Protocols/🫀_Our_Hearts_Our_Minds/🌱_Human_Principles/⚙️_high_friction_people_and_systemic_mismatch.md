@@ -1,10 +1,10 @@
 # ⚙️ High-Friction People and Systemic Mismatch  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2025-11-12  
 *When curiosity meets bureaucracy, sparks are inevitable.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰 Orientation  
 “High-friction” people are those whose energy, questioning, or pace rubs against the grain of standard procedure.  
 They’re often labelled as *difficult*, *non-compliant*, or *unmanageable*.  
 Yet many are simply **fast processors inside slow systems** — the so-called *smarty-pants kids who won’t behave.*
@@ -13,7 +13,7 @@ This node reframes friction not as flaw but as **evidence of systemic mismatch**
 
 ---
 
-## 🧩  Anatomy of Friction  
+## 🌋  Anatomy of Friction  
 
 | Layer | Description | Typical Misreading |
 |--------|--------------|--------------------|
@@ -80,9 +80,9 @@ high-friction, non-compliance, gifted behaviour, cognitive mismatch, curiosity, 
 ---
 
 ## 🏮 Footer  
-*High-Friction People and Systemic Mismatch* is a commentary node of the Polaris Protocol.  
+*⚙️ High-Friction People and Systemic Mismatch* is a commentary node of the Polaris Protocol.  
 It reframes disruptive intelligence as diagnostic signal: evidence that structure and speed are mis-aligned.  
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-11-12_
