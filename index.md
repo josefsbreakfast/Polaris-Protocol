@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:53:36 UTC_
+_Generated on 2025-11-12 01:54:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -799,6 +799,7 @@ _Generated on 2025-11-12 01:53:36 UTC_
         - [`⚖️_institutional_parasitism_of_deradicalisation_work.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚖️_institutional_parasitism_of_deradicalisation_work.md)
         - [`⚡_ptsd_decay_curves.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚡_ptsd_decay_curves.png)
         - [`⚡_ptsd_is_not_a_jump_scare.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚡_ptsd_is_not_a_jump_scare.md)
+        - [`🌊_on_being_the_manual_override.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🌊_on_being_the_manual_override.md)
         - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎙️_why_they_collect_audio.md)
         - [`🎻_clash_of_forks.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎻_clash_of_forks.md)
         - [`🐍_snake_bites_and_stolen_voices.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
@@ -1976,7 +1977,6 @@ _Generated on 2025-11-12 01:53:36 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌊_on_being_the_manual_override.md`](Polaris_Nest/Git_Intake_Drawer/🌊_on_being_the_manual_override.md)
     - [`🌌_am_i_still_too_pro_russia_to_be_british.md`](Polaris_Nest/Git_Intake_Drawer/🌌_am_i_still_too_pro_russia_to_be_british.md)
     - [`🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md`](Polaris_Nest/Git_Intake_Drawer/🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md)
     - [`🌫️_uncertainty_branch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_uncertainty_branch_logic.md)
