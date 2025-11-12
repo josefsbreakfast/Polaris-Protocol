@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:42:22 UTC_
+_Generated on 2025-11-12 04:44:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -830,6 +830,7 @@ _Generated on 2025-11-12 04:42:22 UTC_
         - [`🩸_surveillance_induced_intimacy_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_surveillance_induced_intimacy_breach.md)
         - [`🩸_to_fight_or_not_to_fight.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_to_fight_or_not_to_fight.md)
         - [`🩺_diagnosis_discredit_loop.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩺_diagnosis_discredit_loop.md)
+        - [`🪖_collateral_shame.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md)
         - [`🪞_twinned_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinned_silence.md)
         - [`🪞_twinning_fork_containment_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinning_fork_containment_timeline.md)
         - [`🪬_xenofeminism_link_note.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪬_xenofeminism_link_note.md)
@@ -2324,7 +2325,6 @@ _Generated on 2025-11-12 04:42:22 UTC_
     - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪐_polaris_week13_state_of_repo.md`](Polaris_Nest/Git_Intake_Drawer/🪐_polaris_week13_state_of_repo.md)
-    - [`🪖_collateral_shame.md`](Polaris_Nest/Git_Intake_Drawer/🪖_collateral_shame.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
