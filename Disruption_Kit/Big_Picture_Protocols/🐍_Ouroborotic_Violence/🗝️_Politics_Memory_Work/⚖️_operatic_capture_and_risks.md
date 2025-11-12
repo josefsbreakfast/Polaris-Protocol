@@ -1,5 +1,5 @@
 # ⚖️ Operatic Capture & Risks  
-**First created:** 2025-10-31  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-12  
 *When escalation becomes performance and procedure mistakes itself for morality.*
 
 ---
@@ -14,7 +14,7 @@ The louder the performance of fairness, the less accountability survives.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Escalation as sincerity** — overproduction of meetings, memos, and “reviews” replaces resolution.  
 - **Procedural theatre** — appearances of transparency that clarify nothing.  
@@ -84,14 +84,13 @@ procedural theatre · escalation fatigue · reputational triage · virtue perfor
 ## 🏮 Footer  
 
 *⚖️ Operatic Capture & Risks* charts the moment when bureaucracy turns confession into choreography.  
-It closes the escalation arc with:  
 
-- **🩸 Reverse-Victim Logic** — the seed of reversal.  
-- **⚖️ Professional Influence & Bureaucratic Capture** — authority lending weight to performance.  
-- **🧠 Cognitive Feedback and Bureaucratic Amplification** — conviction hardened by repetition.  
+> 📡 Cross-references:
+> 
+> - 🩸 Reverse-Victim Logic — *the seed of reversal*  
+> - ⚖️ Professional Influence & Bureaucratic Capture — *authority lending weight to performance*  
+> - 🧠 Cognitive Feedback and Bureaucratic Amplification — *conviction hardened by repetition*  
 
 > *Every institution loves a finale; few survive the encore.*
 
----
-
-**Last updated:** 2025-10-31  
+_Last updated: 2025-11-12_
