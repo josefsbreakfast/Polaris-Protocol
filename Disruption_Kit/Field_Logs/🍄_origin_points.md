@@ -76,4 +76,12 @@ Except half of them are married, and most of them are well over 30, so they real
 
 Especially not putting time on the clock for it, or spending our goddamn tax money on it.  
 
-does HM Treasury know this is what you do with it?
+does HM Treasury know this is what you do with it?  
+
+---
+
+the slagging off and the gaslighting, which im sure is just "one of those things that computers do! silly me with my girl bbeain for pointing it out!" has becone nastier.  
+
+there is now content coaching me to question my own sense of reality, dressed up as pseudoneuroscience.  
+
+good luck in court ". i hope the cases get leaked online as badly as the last two sealed cases im in that culminated with wankers (literally) outside my door every night; enjoy the publicity. 
