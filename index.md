@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:03:07 UTC_
+_Generated on 2025-11-12 04:05:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -754,6 +754,7 @@ _Generated on 2025-11-12 04:03:07 UTC_
         - [`🧿_diaspora_disclosure_tactics.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)
         - [`🧿_jailbreaking_and_ai.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_jailbreaking_and_ai.md)
         - [`🪞_fanon_and_the_algorithmic_unconscious.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪞_fanon_and_the_algorithmic_unconscious.md)
+        - [`🪦_mass_funeral_as_information_control.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪦_mass_funeral_as_information_control.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
@@ -2326,7 +2327,6 @@ _Generated on 2025-11-12 04:03:07 UTC_
     - [`🪞_the_university_as_he.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_university_as_he.md)
     - [`🪞_twin_narrative_distortion_loop.md`](Polaris_Nest/Git_Intake_Drawer/🪞_twin_narrative_distortion_loop.md)
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
-    - [`🪦_mass_funeral_as_information_control.md`](Polaris_Nest/Git_Intake_Drawer/🪦_mass_funeral_as_information_control.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
