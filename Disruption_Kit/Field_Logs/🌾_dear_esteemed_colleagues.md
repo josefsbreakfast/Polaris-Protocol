@@ -13,3 +13,5 @@ obviously this will now enter the chat in other ways, so if you could kindly get
 all the best --
 
 2025-11-12
+
+<!--i will even consider whether to move to yaml headings but only if we can start to see some transparency on the data request front; this was also a fairly telling "system" leak. idiosyncratic culture is difficult to plaisibly deny. if you want the information to be easier to navigate at your end to risk assess, then we will need to come to some sensible terms and meet in the middle. we can't play with things and also expect them to come out at their best.-->
