@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:45:02 UTC_
+_Generated on 2025-11-12 01:47:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -754,6 +754,7 @@ _Generated on 2025-11-12 01:45:02 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
         - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/uk_morale_post_2016.png)
         - [`⚙️_high_friction_people_and_systemic_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)
+        - [`🃏_the_fool_protocol_ai_ethics_through_tarot.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md)
         - [`🌱_love_is_antifascist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md)
         - [`🌾_impunity_as_fertile_ground.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)
         - [`🌿_lawful_illegality_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_lawful_illegality_of_care.md)
@@ -1969,7 +1970,6 @@ _Generated on 2025-11-12 01:45:02 UTC_
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours_v2.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours_v2.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`🃏_the_fool_protocol_ai_ethics_through_tarot.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_fool_protocol_ai_ethics_through_tarot.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_behavioural_containment_when_governance_becomes_psychology.md`](Polaris_Nest/Git_Intake_Drawer/🌀_behavioural_containment_when_governance_becomes_psychology.md)
     - [`🌀_fall_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌀_fall_of_institutional_integrity.md)
