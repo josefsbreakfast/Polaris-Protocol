@@ -1,5 +1,5 @@
 # 🫖 No, This Is Not Proper  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-12  
 *On the bureaucratic ethics of refusal and the civility that keeps the archive alive.*  
 
 ---
@@ -71,9 +71,9 @@ It studies the cultural mechanics of British refusal — how civility, paperwork
 
 > 📡 Cross-references:
 > 
-> - [🎪 When the Armour Cracks]() — *systems collapsing under their own euphemisms*  
-> - [🧬 Monsters of the Machine]() — *the human temperament formed by bureaucracy*  
+> - 🎪 When the Armour Cracks — *systems collapsing under their own euphemisms*  
+> - 🧬 Monsters of the Machine — *the human temperament formed by bureaucracy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
