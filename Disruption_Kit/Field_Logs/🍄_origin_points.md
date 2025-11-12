@@ -61,3 +61,19 @@ both partoes have been subject to vexatiois complaints, and certainly in my case
 im still getting them now.  
 
 so please exvuse me when i say the system here is in tatters.  
+
+---
+
+Isn't it interesting?  
+out of nowhere  
+Prolonged messaging around how I am "the wounded feminine" from the our algorithmic feed generation.  
+
+The little boys playing Cowboys (and Indians, literally, presumably) are feeling nervous.  
+
+This is literally like being locked in a room with the bullies in the playground; this is a bunch of teenage boys trying to be all that.  
+
+Except half of them are married, and most of them are well over 30, so they really shouldn't be doing this anymore.  
+
+Especially not putting time on the clock for it, or spending our goddamn tax money on it.  
+
+does HM Treasury know this is what you do with it?
