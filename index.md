@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:12:56 UTC_
+_Generated on 2025-11-12 04:14:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1754,6 +1754,7 @@ _Generated on 2025-11-12 04:12:56 UTC_
       - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
       - [`🩻_continuum_data_use_misuse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_continuum_data_use_misuse.md)
       - [`🩻_markers_data_enmeshment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_markers_data_enmeshment.md)
+      - [`🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md)
       - [`🪞_the_university_as_he.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🪞_the_university_as_he.md)
       - [`🪩_algorithmic_female_dominance_aura.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🪩_algorithmic_female_dominance_aura.md)
       - [`🫆__metadata_fingerprints.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🫆__metadata_fingerprints.md)
@@ -2325,7 +2326,6 @@ _Generated on 2025-11-12 04:12:56 UTC_
     - [`🪞_narrative_drift_when_systems_inherit_the_wrong_story.md`](Polaris_Nest/Git_Intake_Drawer/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)
     - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
     - [`🪞_strong_women_apparently.md`](Polaris_Nest/Git_Intake_Drawer/🪞_strong_women_apparently.md)
-    - [`🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md`](Polaris_Nest/Git_Intake_Drawer/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
