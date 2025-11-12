@@ -1,11 +1,10 @@
 # ⚖️ Threats and Countermeasures to Democracy from Machine Learning  
-
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2025-11-12  
 *How large-scale machine learning amplifies existing tools of manipulation — and how civic systems can defend themselves.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Machine learning is not a new weapon; it is a **force multiplier**.  
 It accelerates what already existed — persuasion, surveillance, propaganda, bureaucracy — until those systems outrun human oversight.  
@@ -13,7 +12,7 @@ This node maps the democratic fault-lines exposed by industrial-scale ML and the
 
 ---
 
-## 🧩 Core Mechanism  
+## ✨ Core Mechanism  
 
 | Leverage Point | Democratic Vulnerability | Effect |
 |----------------|---------------------------|---------|
@@ -136,11 +135,12 @@ machine learning, democracy, AI ethics, disinformation, governance, transparency
 *⚖️ Threats and Countermeasures to Democracy from Machine Learning* is a synthesis node of the Polaris Protocol.  
 It connects technical amplification to civic defence, providing a roadmap for resilient democratic practice in the age of automation.  
 
-> 📡 Cross-references:  
-> - [📡 Language as Attack Surface](../📡_language_as_attack_surface.md) — linguistic infrastructure of manipulation  
-> - [🕵️‍♀️ Synthetic Mobilisation and Petition Farms](../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_synthetic_mobilisation_and_petition_farms.md) — practical example  
-> - [⚖️ Linguistic Integrity as Security Risk](../⚖️_linguistic_integrity_as_security_risk.md) — policy alignment  
-> - [🌅 Rise of Institutional Integrity](../🌅_rise_of_institutional_integrity.md) — recovery framework  
+> 📡 Cross-references:
+> 
+> - 📡 Language as Attack Surface — *linguistic infrastructure of manipulation*  
+> - 👾 Synthetic Mobilisation and Petition Farms](../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_synthetic_mobilisation_and_petition_farms.md) — *practical example*  
+> - ⚖️ Linguistic Integrity as Security Risk — *policy alignment*  
+> - 🌅 Rise of Institutional Integrity — *recovery framework*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
