@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 15:44:21 UTC_
+_Generated on 2025-11-12 15:54:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2085,6 +2085,7 @@ _Generated on 2025-11-12 15:44:21 UTC_
     - [`💞_moflin_and_the_ethics_of_engineered_affection.md`](Polaris_Nest/Git_Intake_Drawer/💞_moflin_and_the_ethics_of_engineered_affection.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
+    - [`💫_the_middle_register.md`](Polaris_Nest/Git_Intake_Drawer/💫_the_middle_register.md)
     - [`💬_containment_catchphrases_language_of_dismissal.md`](Polaris_Nest/Git_Intake_Drawer/💬_containment_catchphrases_language_of_dismissal.md)
     - [`💬_semantic_echo_how_offender_language_re_enters_institutional_notes.md`](Polaris_Nest/Git_Intake_Drawer/💬_semantic_echo_how_offender_language_re_enters_institutional_notes.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
@@ -2093,6 +2094,7 @@ _Generated on 2025-11-12 15:44:21 UTC_
     - [`💸_opacity_architecture_ai_defence_foreign_alignment.md`](Polaris_Nest/Git_Intake_Drawer/💸_opacity_architecture_ai_defence_foreign_alignment.md)
     - [`💻_algorithmic_hysteria.md`](Polaris_Nest/Git_Intake_Drawer/💻_algorithmic_hysteria.md)
     - [`💾_token_switching_pseudonymisation_gone_wrong.md`](Polaris_Nest/Git_Intake_Drawer/💾_token_switching_pseudonymisation_gone_wrong.md)
+    - [`📄_the_form_and_the_feeling.md`](Polaris_Nest/Git_Intake_Drawer/📄_the_form_and_the_feeling.md)
     - [`📈_escalation_drift_in_complex_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📈_escalation_drift_in_complex_datasets.md)
     - [`📈_stakeholder_mapping_from_symptoms.md`](Polaris_Nest/Git_Intake_Drawer/📈_stakeholder_mapping_from_symptoms.md)
     - [`📈_the_ratio_that_shouldnt_exist.md`](Polaris_Nest/Git_Intake_Drawer/📈_the_ratio_that_shouldnt_exist.md)
@@ -2252,6 +2254,7 @@ _Generated on 2025-11-12 15:44:21 UTC_
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_counter_extraction_loop_reclaiming_authorship.md`](Polaris_Nest/Git_Intake_Drawer/🧩_counter_extraction_loop_reclaiming_authorship.md)
     - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_device_integrity_and_anti_jailbreak_logic.md)
+    - [`🧩_don’t_listen_to_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_don’t_listen_to_the_algorithm.md)
     - [`🧩_emergent_surveillance_without_malice.md`](Polaris_Nest/Git_Intake_Drawer/🧩_emergent_surveillance_without_malice.md)
     - [`🧩_existential_threat_response_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧩_existential_threat_response_loop.md)
     - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Polaris_Nest/Git_Intake_Drawer/🧩_from_diffusion_to_forum_cross_pollination.md)
@@ -2349,6 +2352,7 @@ _Generated on 2025-11-12 15:44:21 UTC_
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
+    - [`🪶_narrative_saturation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_narrative_saturation.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
