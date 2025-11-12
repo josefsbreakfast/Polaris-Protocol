@@ -1,10 +1,10 @@
-# ⚖️ Triangle of Accountability Gaps  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+# 🔺 Triangle of Accountability Gaps  
+**First created:** 2025-11-06 | **Last updated:** 2025-11-12  
 *How UK surveillance, data, and charity law combine to let private monitoring operate without oversight.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰 Orientation  
 The *Demonstration and Event Monitoring Unit* of the Campaign Against Antisemitism sits inside a blind spot where three regulatory regimes meet but never overlap:  
 - **Surveillance law (RIPA 2000)**  
 - **Data-protection law (UK GDPR / DPA 2018)**  
@@ -27,7 +27,7 @@ flowchart TD
 
 ---
 
-## 🔁 Data-Flow & Escalation Pathway (Diagram)
+## 🌋 Data-Flow & Escalation Pathway (Diagram)
 
 ```mermaid
 flowchart LR
@@ -51,7 +51,7 @@ This diagram shows how raw protest footage becomes structured intelligence: filt
 
 ---
 
-## 🔍 Analysis  
+## 🧿 Analysis  
 
 | Domain | Legal premise | What it misses |
 |---------|----------------|----------------|
@@ -63,7 +63,7 @@ Together these create the **“Civic Surveillance Exemption Zone.”**
 
 ---
 
-## 🧩 Governance Implications  
+## 🪬 Governance Implications  
 
 - **No proportionality test:** Activities look lawful until someone challenges them in court.  
 - **No subject rights in practice:** Individuals filmed at protests rarely know data exist to request deletion.  
@@ -88,13 +88,13 @@ Even where surveillance activity is carried out under legitimate-interest or cha
   A single incident involving volunteer injury or wrongful data use can trigger investigations by the Charity Commission or the ICO, undermining public trust.
 
 This is where the **triangle becomes a void**: legal compliance exists on paper, but governance in practice disappears.  
-For the structural dynamics of that abdication, see [⚫️ Governance Black Hole](./⚫️_governance_black_hole.md).
+For the structural dynamics of that abdication, see *⚫️ Governance Black Hole*.
 
 ---
 
 ## 🌌 Constellations  
 
-⚖️ 🛰️ 🧠 — Legal architecture, civic intelligence, governance vacuum.  
+🔺 ⚖️ 🛰️ 🧠 — Legal architecture, civic intelligence, governance vacuum.  
 Connects to nodes mapping privatised enforcement and volunteer surveillance ecologies.
 
 ---
@@ -107,14 +107,15 @@ charity law, surveillance law, data protection, accountability gap, civic intell
 
 ## 🏮 Footer  
 
-*Triangle of Accountability Gaps* is a living diagnostic node of the Polaris Protocol.  
+*🔺 Triangle of Accountability Gaps* is a living diagnostic node of the Polaris Protocol.  
 It explains how UK surveillance, data, and charity frameworks intersect to create lawful yet unregulated civic-intelligence zones — enabling private groups to monitor public dissent without democratic oversight.  
 
-> 📡 Cross-references:  
-> - [🧠 Psychology of Volunteer Surveillance](../Big_Picture_Protocols/🧠_psychology_of_volunteer_surveillance.md) — personality ecology of volunteer monitoring  
-> - [⚫️ Governance Black Hole](../Big_Picture_Protocols/⚫️_governance_black_hole.md) — operational consequences of regulator abdication  
-> - [🎓 Safeguarding as Surveillance](../Big_Picture_Protocols/🎓_safeguarding_as_surveillance.md) — welfare frameworks turned observation grids  
+> 📡 Cross-references:
+> 
+> - 🧠 Psychology of Volunteer Surveillance — *personality ecology of volunteer monitoring*  
+> - ⚫️ Governance Black Hole — *operational consequences of regulator abdication*  
+> - 🎓 Safeguarding as Surveillance — *welfare frameworks turned observation grids*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
