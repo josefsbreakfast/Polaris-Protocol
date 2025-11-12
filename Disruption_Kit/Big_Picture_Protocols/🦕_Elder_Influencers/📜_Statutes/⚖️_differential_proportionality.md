@@ -1,10 +1,10 @@
 # ⚖️ Differential Proportionality  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-06 | **Last updated:** 2025-11-12  
 *How proportionality standards in surveillance and enforcement expand or contract depending on social power.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 “Proportionality” is the core safeguard of UK and European human-rights law:  
 state interference with privacy or liberty must be **necessary**, **suitable**, and **no more intrusive than required**.  
@@ -70,14 +70,15 @@ proportionality, surveillance law, social bias, class asymmetry, human rights, n
 
 ## 🏮 Footer  
 
-*Differential Proportionality* is a diagnostic node of the Polaris Protocol.  
+*⚖️ Differential Proportionality* is a diagnostic node of the Polaris Protocol.  
 It traces how the legal ideal of proportionality bends under social and institutional power, turning a safeguard into a mirror of hierarchy.  
 
-> 📡 Cross-references:  
-> - [⚫️ Governance Black Hole](../Big_Picture_Protocols/⚫️_governance_black_hole.md) — structural abdication of oversight  
-> - [🧠 Psychology of Volunteer Surveillance](../Big_Picture_Protocols/🧠_psychology_of_volunteer_surveillance.md) — how vigilance culture internalises bias  
-> - [🎓 Safeguarding as Surveillance](../Big_Picture_Protocols/🎓_safeguarding_as_surveillance.md) — selective empathy in welfare monitoring  
+> 📡 Cross-references:
+> 
+> - ⚫️ Governance Black Hole] — *structural abdication of oversight*  
+> - 🧠 Psychology of Volunteer Surveillance — *how vigilance culture internalises bias*  
+> - 🎓 Safeguarding as Surveillance — *selective empathy in welfare monitoring*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
