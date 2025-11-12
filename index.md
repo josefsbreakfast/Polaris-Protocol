@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:58:58 UTC_
+_Generated on 2025-11-12 02:03:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1859,6 +1859,7 @@ _Generated on 2025-11-12 01:58:58 UTC_
     - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)
       - [`♿_disabled_people_id_exclusion.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/♿_disabled_people_id_exclusion.md)
+      - [`🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md)
       - [`🐣_children_youth_id_card_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🐣_children_youth_id_card_risks.md)
       - [`💔_gender_sex_discrimination_id_cards.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_gender_sex_discrimination_id_cards.md)
       - [`🕊️_refugees_asylum_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🕊️_refugees_asylum_id_risks.md)
@@ -1977,7 +1978,6 @@ _Generated on 2025-11-12 01:58:58 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md`](Polaris_Nest/Git_Intake_Drawer/🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md)
     - [`🌫️_uncertainty_branch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_uncertainty_branch_logic.md)
     - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Polaris_Nest/Git_Intake_Drawer/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
     - [`🌾_possibly_poetry_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🌾_possibly_poetry_pipeline.md)
