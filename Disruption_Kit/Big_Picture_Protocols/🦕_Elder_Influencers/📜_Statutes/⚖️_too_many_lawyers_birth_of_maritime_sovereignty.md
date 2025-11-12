@@ -1,10 +1,10 @@
 # ⚖️ Too Many Lawyers — The Birth of Maritime Sovereignty  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
 *Admiralty law to offshore finance: how exasperation made a jurisdiction.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Explains how legal overload on land birthed the sea as a negative legal space.  
 Tracks the evolution from maritime trade codes to data havens and crypto-citadels.
 
@@ -15,4 +15,4 @@ Tracks the evolution from maritime trade codes to data havens and crypto-citadel
 It maps legal exhaustion as the engine of new sovereignties.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-12_
