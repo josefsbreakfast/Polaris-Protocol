@@ -110,7 +110,7 @@ It records how inherited offence data and risk governance frameworks erase survi
 > 📡 Cross-references:
 > 
 > - [🔥 Data Risks](../README.md) — *exposure typologies*  
-> - [⚖️ Legal & State Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance) — *structural oversight failures*  
+> - [⚖️ Legal & State Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md) — *structural oversight failures*  
 > - [📱 Digital But Make It Secure](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md) — *protective practice in compromised environments*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
