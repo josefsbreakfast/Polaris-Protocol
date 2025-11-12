@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:14:05 UTC_
+_Generated on 2025-11-12 04:16:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1700,6 +1700,7 @@ _Generated on 2025-11-12 04:14:05 UTC_
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
       - [`🪞_narrative_self_repair_index.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_self_repair_index.md)
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
+      - [`🪞_strong_women_apparently.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_strong_women_apparently.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
@@ -2325,7 +2326,6 @@ _Generated on 2025-11-12 04:14:05 UTC_
     - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
     - [`🪞_narrative_drift_when_systems_inherit_the_wrong_story.md`](Polaris_Nest/Git_Intake_Drawer/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)
     - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
-    - [`🪞_strong_women_apparently.md`](Polaris_Nest/Git_Intake_Drawer/🪞_strong_women_apparently.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
