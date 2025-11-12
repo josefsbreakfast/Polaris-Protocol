@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:44:33 UTC_
+_Generated on 2025-11-12 04:46:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1446,6 +1446,7 @@ _Generated on 2025-11-12 04:44:33 UTC_
     - [`🪄_impacted_cache.md`](Disruption_Kit/Field_Logs/🪄_impacted_cache.md)
     - [`🪄_update_mysteriously_reappearing_book.md`](Disruption_Kit/Field_Logs/🪄_update_mysteriously_reappearing_book.md)
     - [`🪐_my_britannia.md`](Disruption_Kit/Field_Logs/🪐_my_britannia.md)
+    - [`🪐_polaris_week13_state_of_repo.md`](Disruption_Kit/Field_Logs/🪐_polaris_week13_state_of_repo.md)
     - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
     - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/🪬_all_that_surveillance.md)
     - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Disruption_Kit/Field_Logs/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
@@ -2324,7 +2325,6 @@ _Generated on 2025-11-12 04:44:33 UTC_
     - [`🩻_reflex_against_care.md`](Polaris_Nest/Git_Intake_Drawer/🩻_reflex_against_care.md)
     - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
-    - [`🪐_polaris_week13_state_of_repo.md`](Polaris_Nest/Git_Intake_Drawer/🪐_polaris_week13_state_of_repo.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
