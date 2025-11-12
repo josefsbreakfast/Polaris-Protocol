@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:49:50 UTC_
+_Generated on 2025-11-12 00:52:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -234,6 +234,7 @@ _Generated on 2025-11-12 00:49:50 UTC_
         - [`frankenstack_faceplate.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/frankenstack_faceplate.png)
         - [`⚖️_ethics_of_algorithmic_stabilisation_experiments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_ethics_of_algorithmic_stabilisation_experiments.md)
         - [`⚖️_ethics_timeout_retention_clock.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md)
+        - [`⚖️_the_teaching_hospital_loophole.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md)
         - [`✨_defeated_by_audit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/✨_defeated_by_audit.md)
         - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🌀_rune_the_dev.png)
         - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/📁_absence_of_check_in.md)
@@ -1947,7 +1948,6 @@ _Generated on 2025-11-12 00:49:50 UTC_
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
-    - [`⚖️_the_teaching_hospital_loophole.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_teaching_hospital_loophole.md)
     - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
     - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
     - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
