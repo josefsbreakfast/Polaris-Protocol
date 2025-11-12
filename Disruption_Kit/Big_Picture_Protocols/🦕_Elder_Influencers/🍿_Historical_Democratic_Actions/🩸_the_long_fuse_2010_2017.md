@@ -255,10 +255,11 @@ me too origins, long fuse, institutional failure, saturation, savile, cosby, dig
 *The Long Fuse (2010–2017)* is a living node of the Polaris Protocol.  
 It documents the pressure-building years that made MeToo’s detonation unavoidable, mapping the cultural, digital, and institutional failures that turned private knowledge into collective action.
 
-> 📡 Cross-references:  
-> - [🔥 Pink Pussyhats — The Backlash Cycle](../🔥_pink_pussyhats_the_backlash_cycle.md)  
-> - [🍿 Historical Democratic Actions](../🍿_Historical_Democratic_Actions/)  
-> - [🎭 Narrative & Psych Ops](../../../Metadata_Sabotage_Network/🎭_narrative_and_psych_ops/)  
+> 📡 Cross-references:
+> 
+> - [🔥 Pink Pussyhats — The Backlash Cycle](./🔥_pink_pussyhats_the_backlash_cycle.md)  
+> - [🍿 Historical Democratic Actions](../README.md)  
+> - [🎭 Narrative & Psych Ops](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
