@@ -20,3 +20,5 @@ to some extent, i wasnt even joking about prevent "accidently" handong me a husb
 and it really does mean that i never, ever, had to enter sex work, and that this would have been a gross inversion of duty of care, and probably every moment was surveilled, "for national security".  
 
 i hate all of this. 
+
+hidden behind smiles, are the darkest thoughts of man.  
