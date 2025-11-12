@@ -1,5 +1,5 @@
 # 🪞 Strong Women (Apparently)
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
 *On the euphemism that calls endurance “strength.”*
 
 ---
@@ -22,7 +22,7 @@ gendered resilience, euphemism, survivor tone, ironic affirmation, containment c
 It decodes the cultural euphemism of “strength” as a survival artefact rather than an aspirational ideal.  
 
 > 📡 Cross-references:  
-> - [🎛️ Survivor Voice Fidelity Rules](../Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md) — tone preservation  
-> - [✨ Letters to Stars](../Polaris_Nest/✨_Letters_to_Stars/) — testimonial constellation  
+>
+> - [✨ Letters to Stars](../../../Polaris_Nest/✨_Letters_to_Stars/README.md) — testimonial constellation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
