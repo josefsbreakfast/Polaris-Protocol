@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:37:31 UTC_
+_Generated on 2025-11-12 04:39:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -173,6 +173,7 @@ _Generated on 2025-11-12 04:37:31 UTC_
         - [`🪖_SAS_special_forces_and_complaints.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_SAS_special_forces_and_complaints.md)
         - [`🪖_overlap_accountability_and_why_we_cannot_recruit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_overlap_accountability_and_why_we_cannot_recruit.md)
         - [`🪜_temporal_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪜_temporal_containment.md)
+        - [`🪞_conditional_whiteness_and_twinning_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_conditional_whiteness_and_twinning_as_containment.md)
         - [`🪞_ethical_censorship_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_ethical_censorship_continuum.md)
         - [`🪞_misunderstanding_as_risk_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_misunderstanding_as_risk_signal.md)
         - [`🪞_the_muu_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_the_muu_class.md)
@@ -2324,7 +2325,6 @@ _Generated on 2025-11-12 04:37:31 UTC_
     - [`🪖_collateral_shame.md`](Polaris_Nest/Git_Intake_Drawer/🪖_collateral_shame.md)
     - [`🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)
     - [`🪞_algorithmic_reframing.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_reframing.md)
-    - [`🪞_conditional_whiteness_and_twinning_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🪞_conditional_whiteness_and_twinning_as_containment.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
