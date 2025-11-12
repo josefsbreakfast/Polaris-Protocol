@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 19:42:43 UTC_
+_Generated on 2025-11-12 19:52:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2014,6 +2014,7 @@ _Generated on 2025-11-12 19:42:43 UTC_
     - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
     - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](Polaris_Nest/Git_Intake_Drawer/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
     - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
+    - [`⚖️_election_candidacy_query.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_election_candidacy_query.md)
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_official_secrets_reform_and_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_official_secrets_reform_and_accountability.md)
@@ -2090,6 +2091,7 @@ _Generated on 2025-11-12 19:42:43 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md`](Polaris_Nest/Git_Intake_Drawer/💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md)
     - [`💔_on_having_to_announce_ones_goodness.md`](Polaris_Nest/Git_Intake_Drawer/💔_on_having_to_announce_ones_goodness.md)
+    - [`💔_risk_of_violent_treatment.md`](Polaris_Nest/Git_Intake_Drawer/💔_risk_of_violent_treatment.md)
     - [`💔_when_the_algorithm_thinks_it’s_a_rom_com.md`](Polaris_Nest/Git_Intake_Drawer/💔_when_the_algorithm_thinks_it’s_a_rom_com.md)
     - [`💞_affective_proxy_substitution_cross_gender_misread_as_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md)
     - [`💞_moflin_and_the_ethics_of_engineered_affection.md`](Polaris_Nest/Git_Intake_Drawer/💞_moflin_and_the_ethics_of_engineered_affection.md)
@@ -2200,6 +2202,7 @@ _Generated on 2025-11-12 19:42:43 UTC_
     - [`🗣️_data_majority_as_narrative_voice_voting_by_volume.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_data_majority_as_narrative_voice_voting_by_volume.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗣️_how_to_detect_voice_dataset_use.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_how_to_detect_voice_dataset_use.md)
+    - [`🗣️_when_did_the_way_we_talk_change.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_when_did_the_way_we_talk_change.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🗺️_linguistic_silk_road.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_linguistic_silk_road.md)
     - [`😌_the_performance_of_consensus.md`](Polaris_Nest/Git_Intake_Drawer/😌_the_performance_of_consensus.md)
@@ -2259,8 +2262,10 @@ _Generated on 2025-11-12 19:42:43 UTC_
     - [`🧠_linguistic_containment_and_sexual_violence.md`](Polaris_Nest/Git_Intake_Drawer/🧠_linguistic_containment_and_sexual_violence.md)
     - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassifying_intellectual_intimacy.md)
     - [`🧠_multilock_overlapping_covertion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_covertion.md)
+    - [`🧠_politicians_and_public_contact.md`](Polaris_Nest/Git_Intake_Drawer/🧠_politicians_and_public_contact.md)
     - [`🧠_psychology_of_volunteer_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧠_psychology_of_volunteer_surveillance.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
+    - [`🧠_shame_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧠_shame_economics.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
     - [`🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md)
