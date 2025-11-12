@@ -1,5 +1,5 @@
 # ⚖️ Narrative Control and Legal Responsibility  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-12  
 *When a “line to take” crosses from communications management into obstruction.*
 
 ---
@@ -62,9 +62,6 @@ When a person raises that their recollection conflicts with the official script 
 
 ## 🌌 Constellations  
 🏛️ Civil Security → 🪞 Containment Analysis → ⚖️ Narrative Control and Legal Responsibility  
-Related nodes:  
-- [🗣️ Containment by Script and the Ethics of Consistent Messaging](🗣️_containment_by_script_and_the_ethics_of_consistent_messaging.md)  
-- [📡 Reform and Local Capture — OSINT Brief](📡_reform_and_local_capture_osint_brief.md)
 
 ---
 
@@ -74,9 +71,14 @@ narrative control, legal responsibility, whistle-blowing, obstruction of justice
 ---
 
 ## 🏮 Footer  
-*Narrative Control and Legal Responsibility* is a live analytical node of the **Civil Security** cluster within **🛰️ OSINT Field Operations**.  
+*⚖️ Narrative Control and Legal Responsibility* is a live analytical node of the **Civil Security** cluster within **🛰️ OSINT Field Operations**.  
 It clarifies where lawful communications management ends and criminal liability begins, reinforcing that truth-telling is a civic duty as well as a personal protection.  
+
+> 📡 Cross-references:
+> 
+> - 🗣️ Containment by Script and the Ethics of Consistent Messaging
+> - 📡 Reform and Local Capture — OSINT Brief
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-12_
