@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:15:50 UTC_
+_Generated on 2025-11-12 01:19:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -145,6 +145,7 @@ _Generated on 2025-11-12 01:15:50 UTC_
         - [`⚗️_data_contamination_chain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚗️_data_contamination_chain.md)
         - [`⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)
         - [`⚡_tempo_differential_when_recognition_lags_behind_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_tempo_differential_when_recognition_lags_behind_perception.md)
+        - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
         - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
         - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
         - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_managed_transition_vs_revolution.md)
@@ -1955,7 +1956,6 @@ _Generated on 2025-11-12 01:15:50 UTC_
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
-    - [`⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md)
     - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
     - [`⚙️_friction_minimisation_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_friction_minimisation_logic.md)
     - [`⚙️_high_friction_people_and_systemic_mismatch.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_high_friction_people_and_systemic_mismatch.md)
