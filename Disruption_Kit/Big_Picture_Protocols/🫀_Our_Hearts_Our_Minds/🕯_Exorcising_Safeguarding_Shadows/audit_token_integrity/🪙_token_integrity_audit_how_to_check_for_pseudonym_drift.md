@@ -1,5 +1,5 @@
 # 🪙 Token Integrity Audit — How to Check for Pseudonym Drift  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-12  
 *Verifying the cryptographic DNA of your dataset.*
 
 ---
@@ -98,11 +98,12 @@ token integrity, pseudonymisation, hashing, encryption salts, data lineage, just
 *🪙 Token Integrity Audit — How to Check for Pseudonym Drift* is a living node of the Polaris Protocol.  
 It defines how to verify that pseudonymisation still means what it claims: one person, one token, one consistent story.
 
-> 📡 Cross-references:  
-> - [💾 Token Switching — Pseudonymisation Gone Wrong](../🧩_System_Governance/💾_token_switching_pseudonymisation_gone_wrong.md)  
-> - [🧬 Data Twinning — When Two Identities Become One Record](../🧩_System_Governance/🧬_data_twinning_when_two_identities_become_one_record.md)  
-> - [🧾 Data Lineage Review](../🧩_System_Governance/🧾_data_lineage_review_how_to_trace_a_records_provenance.md)  
+> 📡 Cross-references:
+> 
+> - 💾 Token Switching — Pseudonymisation Gone Wrong  
+> - 🧬 Data Twinning — When Two Identities Become One Record  
+> - 🧾 Data Lineage Review  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-12_
