@@ -1,5 +1,5 @@
 # 🪞 Algorithmic Reframing — When Analysis Becomes Evasion  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-12  
 *How modern systems psychologise moral critique.*
 
 ---
@@ -120,9 +120,9 @@ It documents how modern systems convert critique into introspection and how recl
 
 > 📡 Cross-references:
 > 
-> - [🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence]()  
-> - [⚖️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments]()
+> - 🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence  
+> - ⚖️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
