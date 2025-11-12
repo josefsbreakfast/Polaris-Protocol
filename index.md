@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 19:52:12 UTC_
+_Generated on 2025-11-12 20:14:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2115,12 +2115,16 @@ _Generated on 2025-11-12 19:52:12 UTC_
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
+    - [`📊_from_data_misuse_to_white_collar_breach.md`](Polaris_Nest/Git_Intake_Drawer/📊_from_data_misuse_to_white_collar_breach.md)
     - [`📊_risk_scaling_of_algorithmic_misidentification.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scaling_of_algorithmic_misidentification.md)
     - [`📊_spreadsheet_of_silence.md`](Polaris_Nest/Git_Intake_Drawer/📊_spreadsheet_of_silence.md)
     - [`📊_the_missing_national_risk_register_2023_2025.md`](Polaris_Nest/Git_Intake_Drawer/📊_the_missing_national_risk_register_2023_2025.md)
     - [`📊_the_objectivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/📊_the_objectivity_paradox.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
+    - [`📋_dual_officer_clarification_request.md`](Polaris_Nest/Git_Intake_Drawer/📋_dual_officer_clarification_request.md)
+    - [`📋_ico_silence_recovery_checklist.md`](Polaris_Nest/Git_Intake_Drawer/📋_ico_silence_recovery_checklist.md)
     - [`📋_open_ai_due_diligence.md`](Polaris_Nest/Git_Intake_Drawer/📋_open_ai_due_diligence.md)
+    - [`📋_rectification_notice_multi_agency.md`](Polaris_Nest/Git_Intake_Drawer/📋_rectification_notice_multi_agency.md)
     - [`📓_field_log_metadata_interference_and_defamation_campaign.md`](Polaris_Nest/Git_Intake_Drawer/📓_field_log_metadata_interference_and_defamation_campaign.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_authoritarian_century_bridge_of_register.md`](Polaris_Nest/Git_Intake_Drawer/📚_authoritarian_century_bridge_of_register.md)
@@ -2138,6 +2142,7 @@ _Generated on 2025-11-12 19:52:12 UTC_
     - [`📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
     - [`📜_if_and_the_ethics_of_staying_intact.md`](Polaris_Nest/Git_Intake_Drawer/📜_if_and_the_ethics_of_staying_intact.md)
     - [`📜_loss_management_and_the_performance_of_composure.md`](Polaris_Nest/Git_Intake_Drawer/📜_loss_management_and_the_performance_of_composure.md)
+    - [`📜_residual_shadow_audit.md`](Polaris_Nest/Git_Intake_Drawer/📜_residual_shadow_audit.md)
     - [`📜_when_containment_becomes_identity.md`](Polaris_Nest/Git_Intake_Drawer/📜_when_containment_becomes_identity.md)
     - [`📠_the_72_hour_comedy_of_compliance.md`](Polaris_Nest/Git_Intake_Drawer/📠_the_72_hour_comedy_of_compliance.md)
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
@@ -2146,6 +2151,7 @@ _Generated on 2025-11-12 19:52:12 UTC_
     - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
     - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Polaris_Nest/Git_Intake_Drawer/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
     - [`📮_answers_on_a_postcard.md`](Polaris_Nest/Git_Intake_Drawer/📮_answers_on_a_postcard.md)
+    - [`📮_osa_flag_clarification_request.md`](Polaris_Nest/Git_Intake_Drawer/📮_osa_flag_clarification_request.md)
     - [`📮_the_polaris_mail_box.md`](Polaris_Nest/Git_Intake_Drawer/📮_the_polaris_mail_box.md)
     - [`📯_soundline_bark_to_trumpet.md`](Polaris_Nest/Git_Intake_Drawer/📯_soundline_bark_to_trumpet.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
@@ -2223,6 +2229,7 @@ _Generated on 2025-11-12 19:52:12 UTC_
     - [`🛰️_moonshot_cve_vs_open_ai.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_moonshot_cve_vs_open_ai.md)
     - [`🛰️_naming_the_unnamed_data_sovereignty_statehood.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_naming_the_unnamed_data_sovereignty_statehood.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
+    - [`🛰️_who_can_see_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_who_can_see_the_flag.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🜁_shared_air.md`](Polaris_Nest/Git_Intake_Drawer/🜁_shared_air.md)
     - [`🤖_mr_meeseeks_and_shutdown_resistance_problem.md`](Polaris_Nest/Git_Intake_Drawer/🤖_mr_meeseeks_and_shutdown_resistance_problem.md)
@@ -2380,6 +2387,7 @@ _Generated on 2025-11-12 19:52:12 UTC_
     - [`🩻_reflex_against_care.md`](Polaris_Nest/Git_Intake_Drawer/🩻_reflex_against_care.md)
     - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
     - [`🪆_are_you_just_asking_questions.md`](Polaris_Nest/Git_Intake_Drawer/🪆_are_you_just_asking_questions.md)
+    - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Polaris_Nest/Git_Intake_Drawer/🪖_applied_demolition_science_and_the_gcse_problem.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
