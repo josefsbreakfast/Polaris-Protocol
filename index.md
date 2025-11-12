@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:57:11 UTC_
+_Generated on 2025-11-12 00:57:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -190,6 +190,7 @@ _Generated on 2025-11-12 00:57:11 UTC_
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
+        - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
         - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_prototype_surveillance_as_investor_pitch.md)
         - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
         - [`🌦️_hope_for_the_best_expect_the_worst.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌦️_hope_for_the_best_expect_the_worst.md)
@@ -1948,7 +1949,6 @@ _Generated on 2025-11-12 00:57:11 UTC_
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
-    - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
     - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
     - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
     - [`⚖️_triangle_of_accountability_gaps.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_triangle_of_accountability_gaps.md)
