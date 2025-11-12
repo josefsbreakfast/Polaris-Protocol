@@ -1,5 +1,5 @@
 # ☢️ The Empathy Project  
-**First created:** 2025-11-10  |  **Last updated:** 2025-11-10  
+**First created:** 2025-11-10  |  **Last updated:** 2025-11-12  
 *From Los Alamos to affective computing — how wartime freedom for odd minds became peacetime containment for the same impulses.*
 
 ---
@@ -98,13 +98,14 @@ manhattan project, leslie groves, containment history, affective computing, empa
 ---
 
 ## 🏮 Footer  
-*The Empathy Project* is a living node of the Polaris Protocol.  
+*☢️ The Empathy Project* is a living node of the Polaris Protocol.  
 It examines how the freedom that birthed atomic science evolved into the controlled eccentricity of modern emotional-data research.  
 
-> 📡 Cross-references:  
-> – [🧩 Algorithmic Conscience](../🧩_algorithmic_conscience.md) — machines that enforce ethics through evidence  
-> – [⚖️ The Teaching Hospital Loophole](../⚖️_the_teaching_hospital_loophole.md) — human-subject data capture and ethics laundering  
+> 📡 Cross-references:
+> 
+> – 🧩 Algorithmic Conscience — *machines that enforce ethics through evidence*  
+> – ⚖️ The Teaching Hospital Loophole — *human-subject data capture and ethics laundering*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-10_
+_Last updated: 2025-11-12_
