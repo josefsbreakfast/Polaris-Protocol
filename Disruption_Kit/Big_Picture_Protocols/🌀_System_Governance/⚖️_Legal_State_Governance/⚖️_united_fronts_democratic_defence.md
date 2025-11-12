@@ -1,10 +1,10 @@
 # ⚖️ United Fronts as Democratic Defence
-**First created:** 2025-11-09 | **Last updated:** 2025-11-09  
-*Cross-ideological coalitions as immune systems for democratic institutions*
+**First created:** 2025-11-09 | **Last updated:** 2025-11-12  
+*Cross-ideological coalitions as immune systems for democratic institutions.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰 Orientation  
 When executive power expands faster than civic oversight, democracy depends on unlikely alliances.  
 United fronts—temporary, issue-based coalitions—operate as **defensive reflexes**: they bridge ideological divides long enough to restore procedural balance.  
 
@@ -12,7 +12,7 @@ This node refines the argument that emerged from the SASSI model and recent glob
 
 ---
 
-## 🧩 Structural Logic  
+## 🚀 Structural Logic  
 
 1. **Common Threat Recognition**  
    - Authoritarian consolidation, mass surveillance, or erosion of proportionality provide shared alarm signals.  
@@ -50,7 +50,7 @@ graph TD
 
 ---
 
-## 🧭 Operational Principles  
+## 🛸 Operational Principles  
 
 | Principle | Function | Example |
 |------------|-----------|----------|
@@ -79,11 +79,12 @@ united fronts, democratic defence, coalition logic, cross-party accountability, 
 *⚖️ United Fronts as Democratic Defence* is a living node of the Polaris Protocol.  
 It defines how cross-ideological coalitions act as defensive reflexes within democratic systems, transforming shared discomfort into collective oversight.
 
-> 📡 Cross-references:  
-> - [🧿 SASSI as Counter-Surveillance Accountability](../🧿_sassi_as_counter_surveillance_accountability.md)  
-> - [🔥 Suppression as Signal](../Containment_Studies/🔥_suppression_as_signal.md)  
-> - [🐝 All In Commons](../../🦆_Digital_Disruption/🐝_All_In_Commons)
+> 📡 Cross-references:
+> 
+> - 🧿 SASSI as Counter-Surveillance Accountability  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+> - [🐝 All In Commons](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-09_
+_Last updated: 2025-11-12_
