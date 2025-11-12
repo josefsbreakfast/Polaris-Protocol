@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:40:51 UTC_
+_Generated on 2025-11-12 01:45:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -148,6 +148,7 @@ _Generated on 2025-11-12 01:40:51 UTC_
         - [`✂️_engineered_disjuncture_of_allies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✂️_engineered_disjuncture_of_allies.md)
         - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
         - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
+        - [`🃏_the_fool_card_and_machine_innocence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🃏_the_fool_card_and_machine_innocence.md)
         - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
         - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_managed_transition_vs_revolution.md)
         - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_parallel_channels.md)
@@ -1968,7 +1969,6 @@ _Generated on 2025-11-12 01:40:51 UTC_
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours_v2.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours_v2.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`🃏_the_fool_card_and_machine_innocence.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_fool_card_and_machine_innocence.md)
     - [`🃏_the_fool_protocol_ai_ethics_through_tarot.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_fool_protocol_ai_ethics_through_tarot.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_behavioural_containment_when_governance_becomes_psychology.md`](Polaris_Nest/Git_Intake_Drawer/🌀_behavioural_containment_when_governance_becomes_psychology.md)
