@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:41:54 UTC_
+_Generated on 2025-11-12 00:43:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -466,6 +466,7 @@ _Generated on 2025-11-12 00:41:54 UTC_
         - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
         - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_citizen_recourse_private_surveillance_uk.md)
         - [`⚖️_ideological_coding_and_voice_discrediting.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_ideological_coding_and_voice_discrediting.md)
+        - [`⚖️_recourse_for_behavioural_containment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_recourse_for_behavioural_containment.md)
         - [`🌿_the_paradox_of_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🌿_the_paradox_of_recognition.md)
         - [`🎶_sonata_server_sympathies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
         - [`📚_the_suppressed_scholar.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📚_the_suppressed_scholar.md)
@@ -1943,7 +1944,6 @@ _Generated on 2025-11-12 00:41:54 UTC_
     - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
-    - [`⚖️_recourse_for_behavioural_containment.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_recourse_for_behavioural_containment.md)
     - [`⚖️_respectability_containment_in_professional_ethics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_respectability_containment_in_professional_ethics.md)
     - [`⚖️_retrospective_law_in_a_prospective_world.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_retrospective_law_in_a_prospective_world.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
