@@ -1,5 +1,5 @@
 # 🪞 Fate as Statecraft — Accidents in Authoritarian Regimes
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-12  
 *On the political utility of accident — when fate is designed to look natural.*  
 
 ---
@@ -46,9 +46,9 @@ It explores how states manufacture “accidents” to refresh fear and maintain 
 
 > 📡 Cross-references:
 > 
-> - [✈️ Crash Logic — State Grief and Erasure]() — *empirical companion*  
-> - [⚙️ Containment by Crash — Risk Management and Symbolic Deletion]() — *analytic extension*  
+> - [✈️ Crash Logic — State Grief and Erasure](../../🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md) — *empirical companion*  
+> - [⚙️ Containment by Crash — Risk Management and Symbolic Deletion](../../🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md) — *analytic extension*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
