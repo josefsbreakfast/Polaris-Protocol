@@ -1,5 +1,5 @@
 # 🌀 Behavioural Containment — When Governance Becomes Psychology  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-12  
 *When systems explain dissent as disorder.*
 
 ---
@@ -98,10 +98,10 @@ behavioural containment, psychologisation, governance psychology, survivor credi
 It maps how systems use mental health framing to convert legitimate structural critique into manageable affect — and how to restore epistemic balance.
 
 > 📡 Cross-references:  
-> - [🤝 Polite Containment — How Civility Becomes a Control Mechanism](../📚_Narrative_Management/🤝_polite_containment_how_civility_becomes_a_control_mechanism.md)  
-> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility](../📚_Narrative_Management/🎭_reputation_as_governance_how_institutions_script_their_own_credibility.md)  
-> - [💣 Syntactic Drift and Clone Theatre](../🪆_Narrative_Interference/💣_syntactic_drift_and_clone_theatre.md)  
+> - 🤝 Polite Containment — How Civility Becomes a Control Mechanism  
+> - 🎭 Reputation as Governance — How Institutions Script Their Own Credibility  
+> - 💣 Syntactic Drift and Clone Theatre  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-12_
