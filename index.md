@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:40:41 UTC_
+_Generated on 2025-11-12 04:42:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -868,6 +868,7 @@ _Generated on 2025-11-12 04:40:41 UTC_
           - [`📊_sample_reporting_table.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/📊_sample_reporting_table.md)
           - [`📚_references.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/📚_references.md)
           - [`🧾_token_integrity_audit_template.yaml`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🧾_token_integrity_audit_template.yaml)
+          - [`🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)
           - [`🪙_token_integrity_audit_overview.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🪙_token_integrity_audit_overview.md)
         - [**audit_token_switching/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/README.md)
@@ -2324,7 +2325,6 @@ _Generated on 2025-11-12 04:40:41 UTC_
     - [`🪅_platform_safe_zones_and_shadowbans.md`](Polaris_Nest/Git_Intake_Drawer/🪅_platform_safe_zones_and_shadowbans.md)
     - [`🪐_polaris_week13_state_of_repo.md`](Polaris_Nest/Git_Intake_Drawer/🪐_polaris_week13_state_of_repo.md)
     - [`🪖_collateral_shame.md`](Polaris_Nest/Git_Intake_Drawer/🪖_collateral_shame.md)
-    - [`🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
