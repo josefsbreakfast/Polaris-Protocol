@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:24:28 UTC_
+_Generated on 2025-11-12 04:26:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1699,6 +1699,7 @@ _Generated on 2025-11-12 04:24:28 UTC_
       - [`🧩_repairing_trust_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧩_repairing_trust_chains.md)
       - [`🧱_keystone_dependency_trace.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧱_keystone_dependency_trace.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
+      - [`🪞_narrative_drift_when_systems_inherit_the_wrong_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)
       - [`🪞_narrative_self_repair_index.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_self_repair_index.md)
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
       - [`🪞_strong_women_apparently.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_strong_women_apparently.md)
@@ -2325,7 +2326,6 @@ _Generated on 2025-11-12 04:24:28 UTC_
     - [`🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md`](Polaris_Nest/Git_Intake_Drawer/🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_humiliation_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/🪞_humiliation_as_spectacle.md)
-    - [`🪞_narrative_drift_when_systems_inherit_the_wrong_story.md`](Polaris_Nest/Git_Intake_Drawer/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
