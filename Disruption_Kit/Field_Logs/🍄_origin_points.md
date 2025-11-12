@@ -85,3 +85,15 @@ the slagging off and the gaslighting, which im sure is just "one of those things
 there is now content coaching me to question my own sense of reality, dressed up as pseudoneuroscience.  
 
 good luck in court ". i hope the cases get leaked online as badly as the last two sealed cases im in that culminated with wankers (literally) outside my door every night; enjoy the publicity. 
+
+---
+
+and of course, of course, the slut shaming is making a regular appearence.  
+
+that nasty woman choosing her own sexual choices. what a bitch, indeed. 🤣  
+
+its a democracy, my guy.  
+
+you all lost the vote by a landslide.  
+
+---
