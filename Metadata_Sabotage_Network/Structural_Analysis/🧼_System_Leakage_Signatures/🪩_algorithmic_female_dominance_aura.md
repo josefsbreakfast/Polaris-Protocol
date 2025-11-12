@@ -1,5 +1,5 @@
 # 🪩 Algorithmic Female Dominance Aura  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
 *When the feed mistakes male anxiety for female power.*  
 
 ---
@@ -61,9 +61,9 @@ It completes the Purity / Projection / Platform triad, showing how systemic misr
 
 > 📡 Cross‑references:
 > 
-> - [🧩 From Diffusion to Forum Cross-Pollination](../🧩_from_diffusion_to_forum_cross_pollination.md) — diffusion vs. crystallisation in forum culture  
-> - [🪩 No Fap Fascism](../🪩_no_fap_fascism.md) — purity culture and masculine discipline  
+> - 🧩 From Diffusion to Forum Cross-Pollination — *diffusion vs. crystallisation in forum culture*  
+> - [🪩 No Fap Fascism](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪩_no_fap_fascism.md) — *purity culture and masculine discipline*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
