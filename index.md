@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:28:20 UTC_
+_Generated on 2025-11-12 00:30:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -767,6 +767,7 @@ _Generated on 2025-11-12 00:28:20 UTC_
         - [`shadow_nda_redacted.pdf`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/shadow_nda_redacted.pdf)
         - [`triple_lock_audit_gap_flow.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/triple_lock_audit_gap_flow.png)
         - [`uk_twinned_estimates.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/uk_twinned_estimates.png)
+        - [`⚖️_institutional_parasitism_of_deradicalisation_work.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚖️_institutional_parasitism_of_deradicalisation_work.md)
         - [`⚡_ptsd_decay_curves.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚡_ptsd_decay_curves.png)
         - [`⚡_ptsd_is_not_a_jump_scare.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚡_ptsd_is_not_a_jump_scare.md)
         - [`🎙️_why_they_collect_audio.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎙️_why_they_collect_audio.md)
@@ -1937,7 +1938,6 @@ _Generated on 2025-11-12 00:28:20 UTC_
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
     - [`the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/the_one_of_us_glitch.md)
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
-    - [`⚖️_institutional_parasitism_of_deradicalisation_work.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_institutional_parasitism_of_deradicalisation_work.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_narrative_control_and_legal_responsibility.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_narrative_control_and_legal_responsibility.md)
     - [`⚖️_norman_law_and_the_geometry_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_norman_law_and_the_geometry_of_impunity.md)
