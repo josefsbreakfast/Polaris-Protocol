@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 00:10:07 UTC_
+_Generated on 2025-11-12 00:11:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -116,7 +116,6 @@ _Generated on 2025-11-12 00:10:07 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
         - [`panic_deleting_evidence.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/panic_deleting_evidence.png)
-        - [`☢️_the_empathy_project.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/☢️_the_empathy_project.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
@@ -127,6 +126,7 @@ _Generated on 2025-11-12 00:10:07 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
         - [`☔️_compressed_privacy_and_freedom_of_thought.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☔️_compressed_privacy_and_freedom_of_thought.md)
         - [`☕_administrative_necromancy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕_administrative_necromancy.md)
+        - [`☢️_the_empathy_project.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☢️_the_empathy_project.md)
         - [`⚖️_above_the_law_protofascism_threshold.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_above_the_law_protofascism_threshold.md)
         - [`⚖️_autonomy_vs_containment_dial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_autonomy_vs_containment_dial.md)
         - [`⚖️_containment_and_cutthrough_in_the_legal_profession.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_containment_and_cutthrough_in_the_legal_profession.md)
