@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:35:04 UTC_
+_Generated on 2025-11-12 01:37:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -764,6 +764,7 @@ _Generated on 2025-11-12 01:35:04 UTC_
         - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_tolerators_as_targets.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
+        - [`🪸_floating_commons_humane_sovereignty_at_sea.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
         - [`🫖_no_this_is_not_proper.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫖_no_this_is_not_proper.md)
         - [`🫧_crying_as_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫧_crying_as_breach.md)
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
@@ -2327,7 +2328,6 @@ _Generated on 2025-11-12 01:35:04 UTC_
     - [`🪶_descent_map_academic_surveillance_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪶_descent_map_academic_surveillance_drift.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](Polaris_Nest/Git_Intake_Drawer/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
-    - [`🪸_floating_commons_humane_sovereignty_at_sea.md`](Polaris_Nest/Git_Intake_Drawer/🪸_floating_commons_humane_sovereignty_at_sea.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
