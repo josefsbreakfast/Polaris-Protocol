@@ -1,5 +1,5 @@
 # 🪞 The University as He  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-06 | **Last updated:** 2025-11-12  
 *Diagnostic mapping of institutional masculinity in metadata and platform behaviour.*
 
 ---
@@ -97,9 +97,9 @@ By naming this pattern, it restores diagnostic clarity to the survivor voice, re
 
 > 📡 Cross-references:  
 > 
-> - [💔 When the Algorithm Thinks It’s a Rom-Com]() — *satire of algorithmic romance framing*  
-> - [🧠 Big Picture Protocols](Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic analyses of institutional containment*  
+> - 💔 When the Algorithm Thinks It’s a Rom-Com — *satire of algorithmic romance framing*  
+> - [🧠 Big Picture Protocols](../../../Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic analyses of institutional containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
