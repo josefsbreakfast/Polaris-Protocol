@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:48:52 UTC_
+_Generated on 2025-11-12 01:50:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -151,6 +151,7 @@ _Generated on 2025-11-12 01:48:52 UTC_
         - [`🃏_the_fool_card_and_machine_innocence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🃏_the_fool_card_and_machine_innocence.md)
         - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
         - [`🌀_behavioural_containment_when_governance_becomes_psychology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_behavioural_containment_when_governance_becomes_psychology.md)
+        - [`🌀_fall_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_fall_of_institutional_integrity.md)
         - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_managed_transition_vs_revolution.md)
         - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_parallel_channels.md)
         - [`🌀_self_consuming_cycles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_self_consuming_cycles.md)
@@ -1972,7 +1973,6 @@ _Generated on 2025-11-12 01:48:52 UTC_
     - [`⚡_rapid_response_forensic_protocol_first_24_hours_v2.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours_v2.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
-    - [`🌀_fall_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌀_fall_of_institutional_integrity.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌀_recursive_risk_logic_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🌀_recursive_risk_logic_in_private_intelligence.md)
     - [`🌅_rise_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌅_rise_of_institutional_integrity.md)
