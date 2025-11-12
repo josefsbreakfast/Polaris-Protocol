@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 03:54:55 UTC_
+_Generated on 2025-11-12 03:56:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -419,6 +419,7 @@ _Generated on 2025-11-12 03:54:55 UTC_
         - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
         - [`🩸_cyclical_physiology_and_algorithmic_misread.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🩸_cyclical_physiology_and_algorithmic_misread.md)
         - [`🪦_memory_erasure_in_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md)
+        - [`🪩_no_fap_fascism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪩_no_fap_fascism.md)
         - [`🪬_appeasement_economics.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_appeasement_economics.md)
         - [`🪬_authoritarianism_beyond_left_right.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
         - [`🪬_christian_nationalism_as_fascist_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
@@ -2326,7 +2327,6 @@ _Generated on 2025-11-12 03:54:55 UTC_
     - [`🪦_mass_funeral_as_information_control.md`](Polaris_Nest/Git_Intake_Drawer/🪦_mass_funeral_as_information_control.md)
     - [`🪧_radical_and_respectable_the_dual_engine_of_reform.md`](Polaris_Nest/Git_Intake_Drawer/🪧_radical_and_respectable_the_dual_engine_of_reform.md)
     - [`🪩_algorithmic_female_dominance_aura.md`](Polaris_Nest/Git_Intake_Drawer/🪩_algorithmic_female_dominance_aura.md)
-    - [`🪩_no_fap_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🪩_no_fap_fascism.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
