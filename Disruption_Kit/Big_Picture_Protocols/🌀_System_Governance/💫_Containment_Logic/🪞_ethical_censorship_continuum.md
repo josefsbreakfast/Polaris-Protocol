@@ -1,5 +1,5 @@
 # 🪞 Ethical Censorship Continuum  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-01 | **Last updated:** 2025-11-12  
 *Mapping the moral terrain between concealment for protection and concealment for power.*
 
 ---
@@ -36,7 +36,7 @@ flowchart LR
     B --> C[Protective Secrecy]
     C --> D[Instrumental Silence]
     D --> E[Authoritarian Erasure]
-    style B fill:#ffcc00,stroke:#333,stroke-width:2px
+
 ```
 
 Censorship becomes unethical not at a single point, but when movement along the line becomes one-way.
@@ -83,7 +83,7 @@ flowchart TD
     D --> E[Increased Trust]
     E --> F[Reduced Need for Concealment]
     F --> A
-    style B fill:#ffcc00,stroke:#333,stroke-width:2px
+
 ```
 
 Without the audit stage, the loop collapses into authoritarian inertia.
@@ -118,4 +118,4 @@ It completes the suppression triad alongside *Authoritarian Century — Bridge o
 
 *Silence without expiry is not ethics; it’s inertia disguised as care.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
