@@ -1,5 +1,5 @@
 # 🪅 Platform Safe Zones & Shadowbans  
-**First created:** 2025-10-16 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-16 | **Last updated:** 2025-11-12  
 *How the “Suppressed Safe” logic reappears inside digital moderation and trust & safety architecture.*
 
 ---
@@ -76,9 +76,9 @@ It documents how archival censorship mechanisms persist in digital infrastructur
 
 > 📡 Cross-references:
 > 
-> - [🧾 Suppressed Safe Collection]() — *historical precedent*  
-> - [🔮 Visibility Indexing Anomalies]() — *diagnostic mapping of throttling behaviours*  
+> - 🧾 Suppressed Safe Collection — *historical precedent*  
+> - 🔮 Visibility Indexing Anomalies — *diagnostic mapping of throttling behaviours*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
