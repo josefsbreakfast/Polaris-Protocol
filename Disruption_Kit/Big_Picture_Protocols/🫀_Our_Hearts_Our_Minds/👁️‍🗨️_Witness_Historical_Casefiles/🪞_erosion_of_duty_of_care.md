@@ -1,5 +1,5 @@
 # 🪞 Erosion of Duty of Care  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-12  
 *How institutions reword responsibility until nothing remains.*
 
 ---
@@ -65,9 +65,9 @@ It documents how duty dissolved into compliance and how restoration requires mor
 
 > 📡 Cross-references:
 > 
-> - [🧾 Student Data Abuse — The Surveillance of Learning]()  
-> - [🌀 Surveillance as Self-Fulfilling Cycle]()
+> - 🧾 Student Data Abuse — The Surveillance of Learning  
+> - 🌀 Surveillance as Self-Fulfilling Cycle  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
