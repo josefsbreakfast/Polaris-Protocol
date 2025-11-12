@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:04:41 UTC_
+_Generated on 2025-11-12 01:06:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -476,6 +476,7 @@ _Generated on 2025-11-12 01:04:41 UTC_
         - [`🌿_the_paradox_of_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🌿_the_paradox_of_recognition.md)
         - [`🎶_sonata_server_sympathies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
         - [`📚_the_suppressed_scholar.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📚_the_suppressed_scholar.md)
+        - [`🔺_triangle_of_accountability_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🔺_triangle_of_accountability_gaps.md)
         - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
         - [`🧩_risk_industries_and_custody_failure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md)
         - [`🧩_structural_lethality_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_structural_lethality_in_custody.md)
@@ -2100,7 +2101,6 @@ _Generated on 2025-11-12 01:04:41 UTC_
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🔮_predictive_containment_and_emergent_friction.md`](Polaris_Nest/Git_Intake_Drawer/🔮_predictive_containment_and_emergent_friction.md)
     - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Polaris_Nest/Git_Intake_Drawer/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
-    - [`🔺_triangle_of_accountability_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🔺_triangle_of_accountability_gaps.md)
     - [`🕊_repairing_the_human.md`](Polaris_Nest/Git_Intake_Drawer/🕊_repairing_the_human.md)
     - [`🕊️_data_contact_breach_when_restraining_orders_fail_via_data.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_data_contact_breach_when_restraining_orders_fail_via_data.md)
     - [`🕊️_positive_drift_leadership_shifts_heritage_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_positive_drift_leadership_shifts_heritage_governance.md)
