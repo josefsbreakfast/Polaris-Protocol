@@ -1,10 +1,10 @@
-# ⚙️ Machine Pruning Logic  
-**First created:** 2025-11-05  |  **Last updated:** 2025-11-05  
+# ✂🌹 Machine Pruning Logic  
+**First created:** 2025-11-05  |  **Last updated:** 2025-11-12  
 *Why optimisation without correction becomes slow erasure.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰 Orientation  
 
 Every optimisation system tends toward pruning.  
 It does not hate, misjudge, or discriminate in a human sense — it simply removes what slows the metric.  
@@ -15,7 +15,7 @@ the plant cuts back everything that doesn’t grow toward throughput.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Efficiency as theology:** the loss-function becomes moral law.  
 - **Friction minimisation:** anything that delays prediction appears as error.  
@@ -25,7 +25,7 @@ the plant cuts back everything that doesn’t grow toward throughput.
 
 ---
 
-## 🔍 Analysis / Content  
+## 🪬 Analysis / Content  
 
 ### 1. The Pruning Reflex  
 
@@ -66,7 +66,7 @@ Without that maintenance, the machine logic defaults to euthanasia by optimisati
 
 ## 🌌 Constellations  
 
-⚙️ 🦠 🧿 🔮 — mechanical companion to *Algorithmic Autoimmunity* and *Stakeholder Mapping from Symptoms*; the logic behind the pathology.  
+✂ 🌹 ⚙️ 🦠 🧿 🔮 — mechanical companion to *Algorithmic Autoimmunity* and *Stakeholder Mapping from Symptoms*; the logic behind the pathology.  
 
 ---
 
@@ -78,14 +78,15 @@ optimisation bias, machine logic, efficiency ideology, autoimmunity, systemic pr
 
 ## 🏮 Footer  
 
-*Machine Pruning Logic* is a living diagnostic node of the Polaris Protocol.  
+*✂🌹 Machine Pruning Logic* is a living diagnostic node of the Polaris Protocol.  
 It traces how optimisation engines slide from correction to eradication, and why the only true countermeasure is the human decision to preserve inefficiency.  
 
-> 📡 Cross-references:  
-> - [🦠 Algorithmic Autoimmunity](../Disruption_Kit/Big_Picture_Protocols/🦠_algorithmic_autoimmunity.md) — immunological analogue.  
-> - [📈 Stakeholder Mapping from Symptoms](../Disruption_Kit/Big_Picture_Protocols/📈_stakeholder_mapping_from_symptoms.md) — diagnostic framework.  
-> - [📋 OpenAI UK Due Diligence & Autoimmunity Map](../Disruption_Kit/Big_Picture_Protocols/📋_openai_uk_due_diligence_and_autoimmunity_map.md) — empirical application.  
+> 📡 Cross-references:
+> 
+> - 🦠 Algorithmic Autoimmunity — *immunological analogue*  
+> - 📈 Stakeholder Mapping from Symptoms — *diagnostic framework*  
+> - 📋 OpenAI UK Due Diligence & Autoimmunity Map — *empirical application*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-12_
