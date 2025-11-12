@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 03:56:19 UTC_
+_Generated on 2025-11-12 03:59:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1750,6 +1750,7 @@ _Generated on 2025-11-12 03:56:19 UTC_
       - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
       - [`🩻_continuum_data_use_misuse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_continuum_data_use_misuse.md)
       - [`🩻_markers_data_enmeshment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_markers_data_enmeshment.md)
+      - [`🪩_algorithmic_female_dominance_aura.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🪩_algorithmic_female_dominance_aura.md)
       - [`🫆__metadata_fingerprints.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🫆__metadata_fingerprints.md)
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
@@ -2326,7 +2327,6 @@ _Generated on 2025-11-12 03:56:19 UTC_
     - [`🪡_oversight_repair_kit.md`](Polaris_Nest/Git_Intake_Drawer/🪡_oversight_repair_kit.md)
     - [`🪦_mass_funeral_as_information_control.md`](Polaris_Nest/Git_Intake_Drawer/🪦_mass_funeral_as_information_control.md)
     - [`🪧_radical_and_respectable_the_dual_engine_of_reform.md`](Polaris_Nest/Git_Intake_Drawer/🪧_radical_and_respectable_the_dual_engine_of_reform.md)
-    - [`🪩_algorithmic_female_dominance_aura.md`](Polaris_Nest/Git_Intake_Drawer/🪩_algorithmic_female_dominance_aura.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
