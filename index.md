@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 04:34:29 UTC_
+_Generated on 2025-11-12 04:37:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -856,6 +856,7 @@ _Generated on 2025-11-12 04:34:29 UTC_
         - [`🧬_successor_firms_scl_cambridge_analytica.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧬_successor_firms_scl_cambridge_analytica.md)
         - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
+        - [`🪞_erosion_of_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪞_erosion_of_duty_of_care.md)
         - [`🪧_radical_and_respectable_the_dual_engine_of_reform.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪧_radical_and_respectable_the_dual_engine_of_reform.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
@@ -2324,7 +2325,6 @@ _Generated on 2025-11-12 04:34:29 UTC_
     - [`🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md`](Polaris_Nest/Git_Intake_Drawer/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)
     - [`🪞_algorithmic_reframing.md`](Polaris_Nest/Git_Intake_Drawer/🪞_algorithmic_reframing.md)
     - [`🪞_conditional_whiteness_and_twinning_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🪞_conditional_whiteness_and_twinning_as_containment.md)
-    - [`🪞_erosion_of_duty_of_care.md`](Polaris_Nest/Git_Intake_Drawer/🪞_erosion_of_duty_of_care.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
