@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:06:05 UTC_
+_Generated on 2025-11-12 01:09:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -106,6 +106,7 @@ _Generated on 2025-11-12 01:06:05 UTC_
         - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_the_rule_of_law_trust_deficit.md)
         - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_transparency_floor_node.md)
         - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_uk_constitutional_fault_lines.md)
+        - [`⚖️_united_fronts_democratic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_united_fronts_democratic_defence.md)
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🗂️_bureaucratic_attrition_as_governance_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🗂️_bureaucratic_attrition_as_governance_strategy.md)
@@ -1952,7 +1953,6 @@ _Generated on 2025-11-12 01:06:05 UTC_
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
-    - [`⚖️_united_fronts_democratic_defence.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_united_fronts_democratic_defence.md)
     - [`⚗️_data_contamination_chain.md`](Polaris_Nest/Git_Intake_Drawer/⚗️_data_contamination_chain.md)
     - [`⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md)
     - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
