@@ -1,5 +1,5 @@
 # 🪦 Mass Funeral as Information Control
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-12  
 *When collective mourning becomes the state’s most efficient press office.*  
 
 ---
@@ -46,9 +46,9 @@ It documents how mourning functions as an information firewall and emotional con
 
 > 📡 Cross-references:
 > 
-> - [✈️ Crash Logic — State Grief and Erasure]() — *preceding logic node*  
-> - [🩸 Death as Diplomacy — From Smolensk to Tver]() — *geopolitical extension*  
+> - [✈️ Crash Logic — State Grief and Erasure](../../🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md) — *preceding logic node*  
+> - 🩸 Death as Diplomacy — From Smolensk to Tver — *geopolitical extension*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
