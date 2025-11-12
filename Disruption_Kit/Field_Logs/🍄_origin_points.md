@@ -27,4 +27,7 @@ hidden behind smiles, are the darkest thoughts of man.
 
 and why not, its cn i.  
 
-for clarity, its a white dude who feels belittled. its a white boy you need to br asking, why so threatened?-->
+for clarity, its a white dude who feels belittled. its a white boy you need to br asking, why so threatened?
+
+
+£10 says some "helpful man-to-man workplace advice" started self generating after that conf; "we're just looking out for...", yick.-->
