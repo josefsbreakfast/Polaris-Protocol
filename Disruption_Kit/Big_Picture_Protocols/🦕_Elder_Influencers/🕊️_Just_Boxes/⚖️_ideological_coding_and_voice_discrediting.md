@@ -1,5 +1,5 @@
 # ⚖️ Ideological Coding & Voice Discrediting  
-**First created:** 2025-10-31  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-12  
 *How political or identity framing transforms civic expression into perceived extremism.*
 
 ---
@@ -96,4 +96,4 @@ It completes the **Voice Disruption & Survivor Integrity** arc alongside:
 
 ---
 
-**Last updated:** 2025-10-31  
+_Last updated: 2025-11-12_
