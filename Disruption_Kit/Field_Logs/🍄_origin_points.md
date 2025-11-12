@@ -54,3 +54,10 @@ can the political party this one hangs around, kinfly come and pick your list li
 
 i think it might be for the best. 
 
+---
+
+both partoes have been subject to vexatiois complaints, and certainly in my case, i got 9 months of bail conditions with 9 months of direct nudges, paid for by our community policing type budgets, which deliberatly nudged me to break my bail confitions to encourage re-arrest.  
+
+im still getting them now.  
+
+so please exvuse me when i say the system here is in tatters.  
