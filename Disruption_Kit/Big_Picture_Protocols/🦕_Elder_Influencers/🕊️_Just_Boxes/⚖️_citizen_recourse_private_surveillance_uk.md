@@ -1,10 +1,10 @@
 # ⚖️ Citizen Recourse: Private Surveillance in the UK  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
 *What citizens can actually do when confronted with covert monitoring, influence, or data collection by state or private actors.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Surveillance and interference no longer belong solely to states.  
 Private-intelligence boutiques, PR firms, and “risk-management” contractors use the same tradecraft once confined to national agencies.  
 When that power crosses into civilian life, the law fragments: different tribunals, regulators, and torts each cover a piece of the picture.  
@@ -94,13 +94,14 @@ uk law, private surveillance, citizen recourse, data protection, investigatory p
 ---
 
 ## 🏮 Footer  
-*Citizen Recourse: Private Surveillance in the UK* is a living node of the Polaris Protocol.  
+*⚖️ Citizen Recourse: Private Surveillance in the UK* is a living node of the Polaris Protocol.  
 It consolidates fragmented oversight mechanisms into a single civic map of recourse for those affected by covert monitoring.  
 
-> 📡 Cross-references:  
-> - [🧠 Swiss-Cheese Suicide Model in Custody](../🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md) — structural analysis of custodial opacity  
-> - [🧩 Risk Industries and Custody Failure](../🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md) — privatised secrecy networks  
+> 📡 Cross-references:
+> 
+> - [🧠 Swiss-Cheese Suicide Model in Custody](./🧠_swiss_cheese_suicide_model_in_custody.md) — *structural analysis of custodial opacity*  
+> - [🧩 Risk Industries and Custody Failure](./🧩_risk_industries_and_custody_failure.md) — *privatised secrecy networks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_  
+_Last updated: 2025-11-12_  
