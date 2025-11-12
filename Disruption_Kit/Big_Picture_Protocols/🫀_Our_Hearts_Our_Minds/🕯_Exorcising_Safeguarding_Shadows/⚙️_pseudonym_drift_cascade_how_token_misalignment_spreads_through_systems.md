@@ -1,5 +1,5 @@
 # ⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-12  
 *When one mismatched hash becomes an ecosystem bug.*
 
 ---
@@ -98,11 +98,12 @@ pseudonym drift, data lineage, token cascade, system governance, cross-domain co
 *⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems* is a living node of the Polaris Protocol.  
 It explains how technical entropy evolves into narrative confusion, and how early detection can restore structural truth before reputation hardens around error.
 
-> 📡 Cross-references:  
-> - [🪙 Token Integrity Audit — How to Check for Pseudonym Drift](../🧩_System_Governance/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)  
-> - [🧬 Data Twinning — When Two Identities Become One Record](../🧩_System_Governance/🧬_data_twinning_when_two_identities_become_one_record.md)  
-> - [🧩 Swiss-Cheese Failures — When Process Holes Align](../🧩_System_Governance/🧩_swiss_cheese_failures_when_process_holes_align.md)  
+> 📡 Cross-references:
+> 
+> - [🪙 Token Integrity Audit — How to Check for Pseudonym Drift](./audit_token_integrity/README.md)  
+> - 🧬 Data Twinning — When Two Identities Become One Record  
+> - 🧩 Swiss-Cheese Failures — When Process Holes Align  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-12_
