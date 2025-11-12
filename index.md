@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:53:07 UTC_
+_Generated on 2025-11-12 01:53:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -120,6 +120,7 @@ _Generated on 2025-11-12 01:53:07 UTC_
         - [`⚖️_accountability_as_alignment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_accountability_as_alignment.md)
         - [`⚖️_architecture_of_complicity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_architecture_of_complicity.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
+        - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌅_rise_of_institutional_integrity.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
@@ -1975,7 +1976,6 @@ _Generated on 2025-11-12 01:53:07 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌅_rise_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌅_rise_of_institutional_integrity.md)
     - [`🌊_on_being_the_manual_override.md`](Polaris_Nest/Git_Intake_Drawer/🌊_on_being_the_manual_override.md)
     - [`🌌_am_i_still_too_pro_russia_to_be_british.md`](Polaris_Nest/Git_Intake_Drawer/🌌_am_i_still_too_pro_russia_to_be_british.md)
     - [`🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md`](Polaris_Nest/Git_Intake_Drawer/🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md)
