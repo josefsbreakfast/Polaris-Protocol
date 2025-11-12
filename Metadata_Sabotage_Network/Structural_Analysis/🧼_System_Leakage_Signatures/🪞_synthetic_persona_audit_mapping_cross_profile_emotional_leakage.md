@@ -1,5 +1,5 @@
 # 🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-02 | **Last updated:** 2025-11-12  
 *Tracing how multiple users’ emotional fragments are fused into one apparent identity.*
 
 ---
@@ -112,9 +112,9 @@ It combines forensic tracing with cultural theory to document how digital system
 
 > 📡 Cross-references:
 > 
-> - [💞 Affective Proxy Substitution]() — *emotional leakage across demographic boundaries*  
-> - [🧬 Containment Thresholds]() — *limits of reversibility and data ethics*  
+> - 💞 Affective Proxy Substitution — *emotional leakage across demographic boundaries*  
+> - 🧬 Containment Thresholds — *limits of reversibility and data ethics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-12_
