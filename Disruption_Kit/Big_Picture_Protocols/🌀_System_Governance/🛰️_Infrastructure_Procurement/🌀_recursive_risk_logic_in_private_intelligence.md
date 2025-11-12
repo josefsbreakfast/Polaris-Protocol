@@ -1,5 +1,5 @@
 # 🌀 Recursive Risk Logic in Private Intelligence  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
 *How data breaches, talent drift, and market incentives regenerate the very risks the intelligence industry claims to control.*
 
 ---
@@ -88,15 +88,15 @@ data breaches, para-intelligence, recursion, contractor networks, cyber resilien
 ---
 
 ## 🏮 Footer  
-*Recursive Risk Logic in Private Intelligence* is a living node of the Polaris Protocol.  
+*🌀 Recursive Risk Logic in Private Intelligence* is a living node of the Polaris Protocol.  
 It traces how the private-intelligence economy perpetuates its own necessity through failure, leakage, and demand engineering—and how that recursion renders its workforce permanently exploitable.  
 
 > 📡 Cross-references:
 > 
-> - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy](./🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)  
-> - [🕸️ Interlocking Influence Economy](./🕸️_interlocking_influence_economy.md)  
-> - [🪞 Post-Imperial Recruitment and Cultural Risk in Private Intelligence](./🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)  
+> - 🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy  
+> - 🕸️ Interlocking Influence Economy  
+> - 🪞 Post-Imperial Recruitment and Cultural Risk in Private Intelligence  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2025-11-12_
