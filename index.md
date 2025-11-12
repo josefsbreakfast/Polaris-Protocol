@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-12 01:50:41 UTC_
+_Generated on 2025-11-12 01:52:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -202,6 +202,7 @@ _Generated on 2025-11-12 01:50:41 UTC_
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
         - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
         - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_prototype_surveillance_as_investor_pitch.md)
+        - [`🌀_recursive_risk_logic_in_private_intelligence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_recursive_risk_logic_in_private_intelligence.md)
         - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
         - [`🌦️_hope_for_the_best_expect_the_worst.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌦️_hope_for_the_best_expect_the_worst.md)
         - [`💷_procurement_culture_and_departmental_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💷_procurement_culture_and_departmental_clashes.md)
@@ -1974,7 +1975,6 @@ _Generated on 2025-11-12 01:50:41 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌀_recursive_risk_logic_in_private_intelligence.md`](Polaris_Nest/Git_Intake_Drawer/🌀_recursive_risk_logic_in_private_intelligence.md)
     - [`🌅_rise_of_institutional_integrity.md`](Polaris_Nest/Git_Intake_Drawer/🌅_rise_of_institutional_integrity.md)
     - [`🌊_on_being_the_manual_override.md`](Polaris_Nest/Git_Intake_Drawer/🌊_on_being_the_manual_override.md)
     - [`🌌_am_i_still_too_pro_russia_to_be_british.md`](Polaris_Nest/Git_Intake_Drawer/🌌_am_i_still_too_pro_russia_to_be_british.md)
