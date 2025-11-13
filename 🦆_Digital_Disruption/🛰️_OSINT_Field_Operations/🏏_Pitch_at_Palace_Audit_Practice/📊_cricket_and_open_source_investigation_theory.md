@@ -1,9 +1,6 @@
 # 📊 *Cricket and Open-Source Investigation Theory — How Oversight Became a Spectator Sport*
 
-**Date Created:** 2025-11-02  
-**Polaris Protocol Repository**  
-**Folder:** 🏏 Pitch at Palace Audit Practice  
-**Category:** Digital Decoy / Civic Literacy / Analytic Humour  
+**Date Created:** 2025-11-02 | **Last updated:** 2025-11-13  
 
 ---
 
