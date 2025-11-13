@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:12:23 UTC_
+_Generated on 2025-11-13 03:12:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -462,6 +462,7 @@ _Generated on 2025-11-13 03:12:23 UTC_
             - [`📊_cricket_and_open_source_investigation_theory.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
             - [`📜_foi_and_sar_exercise_pack.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
             - [`🔍_how_to_trace_event_data_flows.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md)
+            - [`🧩_pattern_detection_and_response_mapping.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
             - [`🧭_overview_pitch_at_palace_structure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
           - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
@@ -1955,7 +1956,6 @@ _Generated on 2025-11-13 03:12:23 UTC_
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
       - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧃_juicebox_theory_of_accountability.md)
       - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_accountability_failures_and_public_trust.md)
-      - [`🧩_pattern_detection_and_response_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
       - [`archive_capture_template.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/archive_capture_template.md)
