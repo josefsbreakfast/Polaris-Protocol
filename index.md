@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:09:52 UTC_
+_Generated on 2025-11-13 18:12:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -633,6 +633,7 @@ _Generated on 2025-11-13 18:09:52 UTC_
         - [`⚠️_authoritarian_incentives_in_universities.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚠️_authoritarian_incentives_in_universities.md)
         - [`⛩️_very_secret_peer_review.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)
         - [`🌍_soft_power_and_international_resentment.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md)
+        - [`🎓_reputation_management_and_university_protest_response.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_reputation_management_and_university_protest_response.md)
         - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
         - [`📜_funding_and_charitable_status_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/📜_funding_and_charitable_status_timeline.md)
         - [`🧠_erosion_of_extracurricular_and_anatomy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🧠_erosion_of_extracurricular_and_anatomy.md)
@@ -2023,7 +2024,6 @@ _Generated on 2025-11-13 18:09:52 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🎓_reputation_management_and_university_protest_response.md`](Polaris_Nest/Git_Intake_Drawer/🎓_reputation_management_and_university_protest_response.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎙_the_silence_after_command.md`](Polaris_Nest/Git_Intake_Drawer/🎙_the_silence_after_command.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
