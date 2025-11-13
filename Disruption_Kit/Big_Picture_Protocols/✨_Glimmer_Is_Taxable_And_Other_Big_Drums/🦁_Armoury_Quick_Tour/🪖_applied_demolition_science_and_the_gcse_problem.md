@@ -41,7 +41,8 @@ army, demolition science, field engineering, containment humour, risk culture
 > - [🛩️ The April Fools Department of Defence](./🛩️_the_april_fools_department_of_defence.md) - *the ones who can drop explosions*  
 > - [⚓️ The Service That Went to Sea and Never Came Back](./⚓️_the_service_that_went_to_sea_and_never_came_back.md) - *the ones with really big guns*
 
-*Note: Do not share own arms; insist these are necessary when one can actually be fired at in person, without metal cages as defence.*  
+*Note: Do not share own arms; insist these are necessary when one can actually be fired at in person, without metal cages as defence. Try not to roll eyes too obviously when they insist that either is actually important, and that their existance as seperate entities is a longstanding personal favour from the people in this family who actually get the job done, without disturbing primordial squid creatures, or spending the masking tape money on shiny forks.*  
+*"Try not to call anyone 'cunt'."*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
