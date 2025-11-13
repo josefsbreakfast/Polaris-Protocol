@@ -115,7 +115,7 @@ I would like to formally ask the cabinet to reconsider the concerns that were bu
 
 I have a lot of bones to pick with the book, and I do find his face frustrating, but on this particular point, I will concede agreement.  
 
-Not just for myself; this was an extreme error of judgement by the conservative government, and this was probably based on inaccurate or incomplete security advice.  
+Not just for myself; this was an extreme error of judgement by the conservative government, and this was probably based on inaccurate or incomplete security advice; given what is happening to sunak, it does not appear to have been a unanimous decision, and i dont think white british commentators appreciate how people sitting that proximal to that industry and wealth *are* british assets (underutilise it you wish, but it's a stupid choice to).  
 
 Or we were sucking up to people who are no longer deemed trustworthy by the public.  
 
