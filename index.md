@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:06:46 UTC_
+_Generated on 2025-11-13 18:08:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -289,6 +289,7 @@ _Generated on 2025-11-13 18:06:46 UTC_
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
         - [`⚖️_operatic_capture_and_risks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_operatic_capture_and_risks.md)
         - [`⚖️_selective_memory_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_selective_memory_erasure.md)
+        - [`⚖️_the_history_of_justice_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_the_history_of_justice_as_spectacle.md)
         - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
         - [`⚙️_friction_minimisation_logic.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚙️_friction_minimisation_logic.md)
         - [`⛩️_postmodern_gateway.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
@@ -2014,7 +2015,6 @@ _Generated on 2025-11-13 18:06:46 UTC_
     - [`⚖️_shielded_roles_and_information_risk_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shielded_roles_and_information_risk_governance.md)
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
-    - [`⚖️_the_history_of_justice_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_history_of_justice_as_spectacle.md)
     - [`⚖️_uk_data_claim_routes_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_uk_data_claim_routes_and_limits.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
