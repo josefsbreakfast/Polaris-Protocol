@@ -1,5 +1,5 @@
 # 🎓 Safeguarding as Surveillance — University Case Pattern  
-**First created:** 2025-10-15 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-15 | **Last updated:** 2025-11-13  
 *Diagnostic account of how UK university safeguarding and Prevent frameworks act as surveillance extensions when student distress conflicts with state or donor narratives.*
 
 ---
@@ -80,11 +80,11 @@ It traces how higher-education risk frameworks convert distress into data signal
 
 > 📡 Cross-references:
 > 
-> - [🎓 British University Compliance Service](./🎓_British_University_Compliance_Service/README.md)  
-> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)  
-> - [🧠 HM Dept Coercive Nudges](../../🧠_HM_Dept_Coercive_Nudges/README.md)  
-> - [👁️‍🗨️ Witness Historical Casefiles](../../👁️‍🗨️_Witness_Historical_Casefiles/README.md)  
+> - [🎓 British University Compliance Service](./README.md)  
+> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)  
+> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md)  
+> - [👁️‍🗨️ Witness Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-13_
