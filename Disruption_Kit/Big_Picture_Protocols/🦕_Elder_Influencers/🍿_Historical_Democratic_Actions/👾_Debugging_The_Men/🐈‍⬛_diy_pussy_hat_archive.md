@@ -97,7 +97,7 @@ It preserves the craft-based infrastructure of one of the most accessible and in
 
 > 📡 Cross-references:
 > 
-> - [🍿 Historical Democratic Actions](./README.md)  
+> - [🍿 Historical Democratic Actions](../README.md)  
 > - [🔥 Pink Pussyhats — The Backlash Cycle](./🔥_pink_pussyhats_the_backlash_cycle.md)  
 > - [🧵 Craft & Mutual Aid Nodes](/) (pending placement)
 
