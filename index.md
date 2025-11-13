@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 17:52:41 UTC_
+_Generated on 2025-11-13 17:54:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2018,7 +2018,6 @@ _Generated on 2025-11-13 17:52:41 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌍_deregulation_as_diplomatic_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🌍_deregulation_as_diplomatic_infrastructure.md)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_reputation_management_and_university_protest_response.md`](Polaris_Nest/Git_Intake_Drawer/🎓_reputation_management_and_university_protest_response.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
@@ -2642,6 +2641,7 @@ _Generated on 2025-11-13 17:52:41 UTC_
       - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`⚖️_regulatory_and_risk_framework.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
+      - [`🌍_deregulation_as_diplomatic_infrastructure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md)
       - [`🎭_why_it_attracts_bad_actors.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
       - [`🏏_test_cricket_for_public_service.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
       - [`👑_pitch_palace_outpicture_paths.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/👑_pitch_palace_outpicture_paths.md)
