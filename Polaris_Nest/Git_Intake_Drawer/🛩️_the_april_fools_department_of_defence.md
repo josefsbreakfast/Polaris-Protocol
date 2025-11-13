@@ -1,7 +1,7 @@
 # 🛩️ The April Fools Department of Defence  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *RAF as century-long satire and philosophy of defiance.*  
-
+<!--Exceedingly committed to every bit, held together with velcro and a bit of masking tape. Budget excess to be sent to the Mess.-->
 ---
 
 ## 🛰️ Orientation  
@@ -34,10 +34,12 @@ raf, containment humour, gravity defiance, bureaucratic satire, public relations
 
 ## 🏮 Footer  
 *🛩️ The April Fools Department of Defence* is a living node of the Polaris Protocol.  
-> 📡 Cross-references:  
-> - [⚖️ Official Secrets Reform and Accountability](../⚖️_official_secrets_reform_and_accountability.md)  
-> - [📊 Budget Efficiency and Community Outreach](./📊_budget_efficiency_and_community_outreach.md)  
+
+> 📡 Cross-references:
+> 
+> - [🪖 Applied Demolition Science and the GCSE Problem](./🪖_applied_demolition_science_and_the_gcse_problem.md) - *the chaps we have to rescue*
+> - [⚓️ The Service That Went to Sea and Never Came Back](./⚓️_the_service_that_went_to_sea_and_never_came_back.md) - *the chaps we don't have to rescue*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
