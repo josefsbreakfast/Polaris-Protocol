@@ -1,5 +1,5 @@
 # 🪨 Male Survivor Silence — How Patriarchy Forbids Men From Speaking About Their Trauma
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *Why so many men, boys, and trans men carry sexual trauma alone — and how silence is enforced structurally.*
 
 ---
@@ -78,12 +78,13 @@ male survivors, boys, trauma, patriarchy, silence, institutional abuse, erasure,
 
 ## 🏮 Footer
 
-*Male Survivor Silence* is a living node of the Polaris Protocol.  
+*🪨 Male Survivor Silence* is a living node of the Polaris Protocol.  
 It restores visibility to male survivors whose trauma has been systemically erased, strengthening survivor-led truth across all genders.
 
-> 📡 Cross-references:
-> - [🩸 The Long Fuse (2010–2017)](../🩸_the_long_fuse_2010_2017.md)
-> - [🧱 Predation Logic — Vulnerability, Power, and Targeting](../🧱_predation_logic_vulnerability_power_targeting.md)
+> 📡 Cross-references:  
+> 
+> - [🩸 The Long Fuse (2010–2017)](./🩸_the_long_fuse_2010_2017.md)
+> - [🧱 Predation Logic — Vulnerability, Power, and Targeting](./🧱_predation_logic_vulnerability_power_targeting.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
