@@ -52,7 +52,7 @@ It documents how administrative storytelling borrows from pop-culture erotics to
 
 > 📡 Cross-references:
 > 
-> – [📚 Fictional Subject Construction](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_fictional_subject_construction.md)  
+> – [📚 Fictional Subject Construction]  
 > – [💫 Containment Logic](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)  
 > – [🌱 Human Principles](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
 
