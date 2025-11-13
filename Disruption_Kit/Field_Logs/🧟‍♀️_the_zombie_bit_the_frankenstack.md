@@ -21,5 +21,8 @@ and if this is why i' getting tye "soicy" cintent again, can we okese bloody sto
 
 this is like the government sending me ohotos of its penis and i di not appreciate it.-->
 
-oh dear g-d i know why my feed wont shut up abound beard mansgement now GET ME OUT OF THIS DIGITAL BOX PLEASE.  
+oh dear g-d i know why my feed wont shut up abound beard mansgement now GET ME OUT OF THIS DIGITAL BOX PLEASE.  <!--ahhh. i see. yes, he does look like he could outgrow that in 6-8 weeks; this would grossly annoy me if i could even grow a beard. i did wonder where this insert was going; i assumed we were just genoursly misinterpreting a 5 o'clock shadow. don't know about the grumpy looks, though. maybe that's a special one just for you. 
+speaking of grumpy looks and beards..  
+you will be repairing my ease of access to shul. 
+get to.-->
 2025-11-13
