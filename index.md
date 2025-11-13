@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 02:52:20 UTC_
+_Generated on 2025-11-13 02:53:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -454,6 +454,8 @@ _Generated on 2025-11-13 02:52:20 UTC_
           - [`🦾_invest_appropriately.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🦾_invest_appropriately.md)
           - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
         - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/)
+          - [**🏏_Pitch_at_Palace_Audit_Practice/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/)
+            - [`☕️_tea_and_impunity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/☕️_tea_and_impunity.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
           - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
           - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
@@ -1944,7 +1946,6 @@ _Generated on 2025-11-13 02:52:20 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
-      - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/☕️_tea_and_impunity.md)
       - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/☕️_tea_toast_transparency.md)
       - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
       - [`⚖️_regulatory_and_risk_framework.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
