@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:11:20 UTC_
+_Generated on 2025-11-13 03:11:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1953,7 +1953,6 @@ _Generated on 2025-11-13 03:11:20 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
-      - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🚪_doorbell_of_denial.md)
       - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🦇_prestige_capture_mechanisms.md)
       - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🦚_the_peacock_principle.md)
       - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧃_juicebox_theory_of_accountability.md)
@@ -2228,6 +2227,7 @@ _Generated on 2025-11-13 03:11:20 UTC_
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
+    - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🛠️_fixing_the_uk_algorithmic_safety_stack.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_fixing_the_uk_algorithmic_safety_stack.md)
     - [`🛡️_constructed_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_constructed_immunity.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
