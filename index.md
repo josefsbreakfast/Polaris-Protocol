@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:34:10 UTC_
+_Generated on 2025-11-13 18:37:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -99,6 +99,7 @@ _Generated on 2025-11-13 18:34:10 UTC_
         - [`⚖️_legal_frameworks_remits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_legal_frameworks_remits.md)
         - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_matriarchy_as_requirement.md)
         - [`⚖️_misclassified_data_download.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_misclassified_data_download.md)
+        - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_official_secrets_reform_and_accountability.md)
         - [`⚖️_paying_for_your_porn_is_good_defence_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_paying_for_your_porn_is_good_defence_doctrine.md)
         - [`⚖️_protection_racket_as_system_design.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_protection_racket_as_system_design.md)
         - [`⚖️_public_inquiry_business_case.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_public_inquiry_business_case.md)
@@ -2017,7 +2018,6 @@ _Generated on 2025-11-13 18:34:10 UTC_
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
-    - [`⚖️_official_secrets_reform_and_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_official_secrets_reform_and_accountability.md)
     - [`⚖️_shielded_roles_and_information_risk_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shielded_roles_and_information_risk_governance.md)
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
