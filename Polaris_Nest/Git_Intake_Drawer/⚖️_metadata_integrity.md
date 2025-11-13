@@ -1,12 +1,12 @@
-# ⚖️ System Governance  
-**First created:** 2025-10-31  
+# ⚖️ Metadata Integrity  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-13  
 *Architectures of oversight, error, and self-correction inside automated bureaucracies.*
 
 ---
 
 ## 🛰️ Orientation  
 
-The **System Governance** cluster examines how law, automation, and human habit intertwine.  
+The **Metadata Integrity** cluster examines how law, automation, and human habit intertwine.  
 It tracks the small, nearly invisible choices—metadata fields, risk flags, polite silences—that shape the entire moral geometry of data governance.  
 Each node studies a different hinge between accuracy and authority:  
 how a typo becomes a classification, how belief becomes evidence, and how compliance becomes comedy.
@@ -52,11 +52,11 @@ system governance · metadata integrity · procedural ethics · compliance theat
 
 ## 🏮 Footer  
 
-*⚖️ System Governance* is the skeleton of the Polaris Protocol’s accountability map.  
+*⚖️ Metadata Integrity* is the skeleton of the Polaris Protocol’s accountability map.  
 It anchors the **Metadata Integrity** and **Voice Fidelity** constellations, linking technical provenance to narrative ethics.  
 
 > *Integrity is not a file format. It’s a habit of correction.*
 
 ---
 
-**Last updated:** 2025-10-31  
+**Last updated:** 2025-11-13  
