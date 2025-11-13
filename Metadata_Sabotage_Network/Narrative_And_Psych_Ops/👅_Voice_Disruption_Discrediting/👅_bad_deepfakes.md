@@ -1,5 +1,5 @@
-# 👅 Deepfake Node — *Why “Surveillance-Level” Clones Fail*  
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
+# 👅 Bad Deepfakes — *Why “Surveillance-Level” Clones Fail*  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-13  
 *Even with state-grade compute and surveillance data, truly convincing deepfakes remain brittle — constrained by law, context, and data reality.*
 
 ```mermaid
