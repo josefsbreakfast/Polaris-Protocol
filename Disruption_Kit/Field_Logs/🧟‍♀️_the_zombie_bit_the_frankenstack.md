@@ -120,3 +120,6 @@ Not just for myself; this was an extreme error of judgement by the conservative 
 Or we were sucking up to people who are no longer deemed trustworthy by the public.  
 
 Better to level the score before the match is rained off; the rain here is rather unpredictable, no? And we are out at the summer months; we no longer have Hindustan to retreat to.  
+
+this can also change gow much we will pay in "forgiveness money" in the icj, so i really think we ought to dig it up, embarrassing though it is.  
+those assets are not protected by ipa; ours are, and our citizens are our best ones.  
