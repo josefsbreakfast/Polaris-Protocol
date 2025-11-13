@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:12:53 UTC_
+_Generated on 2025-11-13 03:13:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1955,7 +1955,6 @@ _Generated on 2025-11-13 03:12:53 UTC_
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
       - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧃_juicebox_theory_of_accountability.md)
-      - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_accountability_failures_and_public_trust.md)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
       - [`archive_capture_template.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/archive_capture_template.md)
@@ -2295,6 +2294,7 @@ _Generated on 2025-11-13 03:12:53 UTC_
     - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
+    - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_algorithmic_conscience.md`](Polaris_Nest/Git_Intake_Drawer/🧩_algorithmic_conscience.md)
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_counter_extraction_loop_reclaiming_authorship.md`](Polaris_Nest/Git_Intake_Drawer/🧩_counter_extraction_loop_reclaiming_authorship.md)
