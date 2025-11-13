@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 19:54:48 UTC_
+_Generated on 2025-11-13 19:57:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1755,6 +1755,7 @@ _Generated on 2025-11-13 19:54:48 UTC_
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
       - [`🎵_operant_conditioning_through_music.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎵_operant_conditioning_through_music.md)
       - [`🎶_shared_tech_voicex_institutional_reports.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)
+      - [`🏛️_50_shades_of_avoiding_damages.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🏛️_50_shades_of_avoiding_damages.md)
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
@@ -2061,7 +2062,6 @@ _Generated on 2025-11-13 19:54:48 UTC_
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Polaris_Nest/Git_Intake_Drawer/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
     - [`🏚️_economics_of_apartheid_and_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_economics_of_apartheid_and_fascism.md)
-    - [`🏛️_50_shades_of_avoiding_damages.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_50_shades_of_avoiding_damages.md)
     - [`🏛️_another_commission_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_another_commission_as_containment.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🏛️_non_transferability_of_behavioral_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_non_transferability_of_behavioral_interventions.md)
