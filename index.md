@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:02:34 UTC_
+_Generated on 2025-11-13 03:03:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -455,7 +455,6 @@ _Generated on 2025-11-13 03:02:34 UTC_
           - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
         - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/)
           - [**🏏_Pitch_at_Palace_Audit_Practice/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/)
-            - [`☕️_tea_toast_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/☕️_tea_toast_transparency.md)
             - [`⚖️_regulatory_and_risk_framework.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
             - [`⚖️_soft_power_without_soft_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/⚖️_soft_power_without_soft_accountability.md)
             - [`⚖️_uk_data_claim_routes_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/⚖️_uk_data_claim_routes_and_limits.md)
@@ -2025,6 +2024,7 @@ _Generated on 2025-11-13 03:02:34 UTC_
     - [`whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/whistleblower_ai_trust_network_sandbox.md)
     - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
+    - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](Polaris_Nest/Git_Intake_Drawer/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
     - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
     - [`⚖️_election_candidacy_query.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_election_candidacy_query.md)
