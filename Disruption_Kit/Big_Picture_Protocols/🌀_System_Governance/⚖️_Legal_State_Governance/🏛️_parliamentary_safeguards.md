@@ -1,5 +1,5 @@
 # 🏛️ Parliamentary Safeguards — The Missing Curriculum for Power
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-13  
 *When the people shaping the law don’t understand its human subjects.*
 
 ---
@@ -63,11 +63,12 @@ parliamentary training, safeguarding, trauma-informed governance, equality law, 
 *🏛️ Parliamentary Safeguards — The Missing Curriculum for Power* is a living node of the Polaris Protocol.  
 It documents the training void at the heart of governance and proposes a pedagogy for power that aligns authority with care.  
 
-> 📡 Cross-references:  
-> – [🌿 The Paradox of Recognition — Polaris in the Wild](../Metadata_Sabotage_Network/Field_Logs/🌿_the_paradox_of_recognition_polaris_in_the_wild.md)  
-> – [🩺 Institutional Voice-Over — Survivor Communication in Bureaucratic Tone](../Survivor_Tools/🩺_institutional_voice-over_survivor_communication_in_bureaucratic_tone.md)  
-> – [🧾 Credibility Logs — The Forensics of Restoration](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧾_credibility_logs_the_forensics_of_restoration.md)
+> 📡 Cross-references:
+> 
+> – [🌿 The Paradox of Recognition — Polaris in the Wild](/)  
+> – [🩺 Institutional Voice-Over — Survivor Communication in Bureaucratic Tone](/)  
+> – [🧾 Credibility Logs — The Forensics of Restoration](/)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-13_
