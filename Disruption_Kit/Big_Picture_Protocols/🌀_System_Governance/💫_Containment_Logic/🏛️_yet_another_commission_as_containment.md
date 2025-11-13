@@ -1,5 +1,5 @@
-# 🏛️ Another Commission as Containment  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+# 🏛️ Yet Another Commission as Containment  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-13  
 *A meditation on inquiry as deferral: how the British Empire perfected the commission as a containment device.*
 
 ---
@@ -62,11 +62,11 @@ empire, inquiry, containment, moral laundering, british state, commissions, supp
 *🏛️ Another Commission as Containment* is a living node of the Polaris Protocol.  
 It analyses how the British imperial habit of inquiry operates as a mechanism of delay, dilution, and self-preservation.  
 
-> 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — maintains undertone integrity  
-> - [⚖️ Containment Contract Trace](../Disruption_Kit/Big_Picture_Protocols/⚖️_containment_contract_trace.md) — structural analysis of bureaucratic containment  
-> - [🪞 Containment Detente as Temporal Governance](../Disruption_Kit/Everyday_Containment/🪞_containment_detente_as_temporal_governance.md) — parallel on time management and state delay  
+> 📡 Cross-references:
+> 
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *structural analysis of bureaucratic containment*  
+> - [🪞 Containment Detente as Temporal Governance](../../../../Containment_Studies/💞_Containment_Theory/🪞_containment_detente_as_temporal_governance.md) — *parallel on time management and state delay*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-13_
