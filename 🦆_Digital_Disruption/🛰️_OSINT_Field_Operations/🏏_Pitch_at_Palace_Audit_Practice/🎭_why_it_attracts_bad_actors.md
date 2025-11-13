@@ -1,9 +1,5 @@
-# 🎭 *Why It Attracts Bad Actors — Reputation Laundering in Prestige Networks*
-
-**Date Created:** 2025-11-02  
-**Polaris Protocol Repository**  
-**Folder:** 🏏 Pitch at Palace Audit Practice  
-**Category:** Digital Decoy / Behavioural Analysis / Governance Psychology  
+# 🎭 *Why It Attracts Bad Actors — Reputation Laundering in Prestige Networks*  
+**Date Created:** 2025-11-02 | **Last updated:** 2025-11-13  
 
 ---
 
