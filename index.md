@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:04:06 UTC_
+_Generated on 2025-11-13 03:04:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -455,7 +455,6 @@ _Generated on 2025-11-13 03:04:06 UTC_
           - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
         - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/)
           - [**🏏_Pitch_at_Palace_Audit_Practice/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/)
-            - [`⚖️_soft_power_without_soft_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/⚖️_soft_power_without_soft_accountability.md)
             - [`⚖️_uk_data_claim_routes_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/⚖️_uk_data_claim_routes_and_limits.md)
             - [`🌍_deregulation_as_diplomatic_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md)
             - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🎭_apology_theatre_and_trust_repair.md)
@@ -2033,6 +2032,7 @@ _Generated on 2025-11-13 03:04:06 UTC_
     - [`⚖️_official_secrets_reform_and_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_official_secrets_reform_and_accountability.md)
     - [`⚖️_regulatory_and_risk_framework.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_regulatory_and_risk_framework.md)
     - [`⚖️_shielded_roles_and_information_risk_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shielded_roles_and_information_risk_governance.md)
+    - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
     - [`⚖️_the_history_of_justice_as_spectacle.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_history_of_justice_as_spectacle.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
