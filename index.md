@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:07:00 UTC_
+_Generated on 2025-11-13 03:07:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -459,7 +459,6 @@ _Generated on 2025-11-13 03:07:00 UTC_
             - [`🏏_test_cricket_for_public_service.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
             - [`👑_pitch_palace_outpicture_paths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/👑_pitch_palace_outpicture_paths.md)
             - [`📈_meta_linkages.yaml`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
-            - [`🪞_governance_as_performance_art.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🪞_governance_as_performance_art.md)
             - [`🪶_tea_toast_and_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🪶_tea_toast_and_transparency.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
           - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
@@ -2407,6 +2406,7 @@ _Generated on 2025-11-13 03:07:00 UTC_
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Polaris_Nest/Git_Intake_Drawer/🪖_applied_demolition_science_and_the_gcse_problem.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
+    - [`🪞_governance_as_performance_art.md`](Polaris_Nest/Git_Intake_Drawer/🪞_governance_as_performance_art.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪞_the_magnifying_glass_effect.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_magnifying_glass_effect.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
