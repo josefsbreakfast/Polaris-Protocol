@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 02:57:50 UTC_
+_Generated on 2025-11-13 02:58:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -465,6 +465,7 @@ _Generated on 2025-11-13 02:57:50 UTC_
             - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🎭_apology_theatre_and_trust_repair.md)
             - [`🎭_why_it_attracts_bad_actors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
             - [`🏏_test_cricket_for_public_service.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
+            - [`👑_pitch_palace_outpicture_paths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/👑_pitch_palace_outpicture_paths.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
           - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
           - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
@@ -1955,7 +1956,6 @@ _Generated on 2025-11-13 02:57:50 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
-      - [`👑_pitch_palace_outpicture_paths.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/👑_pitch_palace_outpicture_paths.md)
       - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/👑_soft_power_accountability_gap.md)
       - [`💬_whistleblowers_as_emergency_governance.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/💬_whistleblowers_as_emergency_governance.md)
       - [`📈_meta_linkages.yaml`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
