@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 19:12:02 UTC_
+_Generated on 2025-11-13 19:12:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -48,6 +48,7 @@ _Generated on 2025-11-13 19:12:02 UTC_
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
+        - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
         - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🪖_applied_demolition_science_and_the_gcse_problem.md)
       - [**🦤_Potential_Dodos/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/)
         - [**🍌_Project_2025_UK_Edition/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/)
@@ -2021,7 +2022,6 @@ _Generated on 2025-11-13 19:12:02 UTC_
     - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](Polaris_Nest/Git_Intake_Drawer/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
     - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
