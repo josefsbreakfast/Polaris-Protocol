@@ -1,5 +1,5 @@
 # ⚖️ Election Candidacy Query
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11
+**First created:** 2025-11-11 | **Last updated:** 2025-11-13  
 *Interrogating gatekeeping, donor mapping, and reputational filtering in UK political candidacy.*
 
 ---
