@@ -1,6 +1,5 @@
 # 🌪️ 2023–Now — The Legitimacy Crisis Era  
-**First created:** 2025-11-12  
-**Last updated:** 2025-11-13  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *"Facts do not cease to exist because they are ignored."* — Aldous Huxley  
 
 > **“And everyone who hears these words of mine and does not act on them  
@@ -244,11 +243,16 @@ legitimacy crisis, structural anxiety, public distrust, authoritarian drift, eco
 ---
 
 ## 🏮 Footer  
-*2023–Now — The Legitimacy Crisis Era* is a living node of the Polaris Protocol.  
+*🌪️ 2023–Now — The Legitimacy Crisis Era* is a living node of the Polaris Protocol.  
 It captures the transition into a political environment where elite credibility erodes, survivor wisdom becomes central, and the public refuses to be gaslit by institutional narratives.
 
-Cross-references:  
-- 🩻 *2018–2022 — The Structural Revelation Era*  
-- 🩸 *The Long Fuse (2010–2017)*  
-- ⚖️ *Reputation After Revelation*  
-- 🕳️ *Predator Class Analysis*  
+> 📡 Cross-references:
+>
+> - 🩻 *2018–2022 — The Structural Revelation Era*
+> - 🩸 *The Long Fuse (2010–2017)*
+> - ⚖️ *Reputation After Revelation*
+> - 🕳️ *Predator Class Analysis*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-11-13_
