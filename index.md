@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:00:00 UTC_
+_Generated on 2025-11-13 18:02:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1745,6 +1745,7 @@ _Generated on 2025-11-13 18:00:00 UTC_
       - [`🪞_narrative_self_repair_index.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_self_repair_index.md)
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
       - [`🪞_strong_women_apparently.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_strong_women_apparently.md)
+      - [`🪶_narrative_saturation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪶_narrative_saturation.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
@@ -2403,7 +2404,6 @@ _Generated on 2025-11-13 18:00:00 UTC_
     - [`🪞_the_magnifying_glass_effect.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_magnifying_glass_effect.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
-    - [`🪶_narrative_saturation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_narrative_saturation.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
