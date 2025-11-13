@@ -38,7 +38,10 @@ raf, containment humour, gravity defiance, bureaucratic satire, public relations
 > 📡 Cross-references:
 > 
 > - [🪖 Applied Demolition Science and the GCSE Problem](./🪖_applied_demolition_science_and_the_gcse_problem.md) - *the chaps we have to rescue*
-> - [⚓️ The Service That Went to Sea and Never Came Back](./⚓️_the_service_that_went_to_sea_and_never_came_back.md) - *the chaps we don't have to rescue*  
+> - [⚓️ The Service That Went to Sea and Never Came Back](./⚓️_the_service_that_went_to_sea_and_never_came_back.md) - *the chaps we don't have to rescue*
+
+*Note: Always insist they host triservice; we cannot let either see where the budget has gone or our Mess. Always maintain we pay for it privately. Check the Army for the silverware and hide the spirits from the sailors. Bloody riff-raff.
+00*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
