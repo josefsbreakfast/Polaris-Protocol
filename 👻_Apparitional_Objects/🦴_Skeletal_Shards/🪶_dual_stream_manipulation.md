@@ -1,6 +1,5 @@
 # 🪶 Field Log — Dual-Stream Manipulation  
 **Date range:** 2024-2025  
-**Author:** [Redacted for repository consistency]  
 **Status:** Observational log  
 *Cross-reference: 🧿 Jailbreaking and AI — How to Stay Safe as a User*  
 
