@@ -1,8 +1,20 @@
-# 🌪️ 2023–Now — The Legitimacy Crisis Era
+# 🌪️ 2023–Now — The Legitimacy Crisis Era  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
+*"Facts do not cease to exist because they are ignored."*  
+
+> *Aldous Huxley*
+
+---
 
 ## 🛰️ Orientation  
 **2023–Now** is *The Reckoning*:  
-Not justice, but the collapse of institutional credibility.
+Not justice, but the collapse of institutional credibility.  
+
+> *"And everyone who hears these words of mine and does not act on them will be like a foolish man who built his house on sand."*
+> 
+> - From the VST "The New Testament", a notable work of Christian religion.
+> - The Gospel of St Matthew, 7:26.  
+<!--It had to be a Catholic version; I can practically feel the spirit of my grandfather on my shoulder as I looked at the NIV translation.-->
 
 ---
 
