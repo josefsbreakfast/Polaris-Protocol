@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:13:47 UTC_
+_Generated on 2025-11-13 03:14:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1952,8 +1952,6 @@ _Generated on 2025-11-13 03:13:47 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
-      - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
       - [`archive_capture_template.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/archive_capture_template.md)
@@ -2051,6 +2049,7 @@ _Generated on 2025-11-13 03:13:47 UTC_
     - [`🎶_theology_of_the_mix.md`](Polaris_Nest/Git_Intake_Drawer/🎶_theology_of_the_mix.md)
     - [`🎺_rallying_call_and_loyal_hound.md`](Polaris_Nest/Git_Intake_Drawer/🎺_rallying_call_and_loyal_hound.md)
     - [`🎼_polyphonic_origins_the_shared_bloodlines_of_the_alexandrov_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎼_polyphonic_origins_the_shared_bloodlines_of_the_alexandrov_ensemble.md)
+    - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Polaris_Nest/Git_Intake_Drawer/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
     - [`🏚️_economics_of_apartheid_and_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_economics_of_apartheid_and_fascism.md)
     - [`🏛️_50_shades_of_avoiding_damages.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_50_shades_of_avoiding_damages.md)
