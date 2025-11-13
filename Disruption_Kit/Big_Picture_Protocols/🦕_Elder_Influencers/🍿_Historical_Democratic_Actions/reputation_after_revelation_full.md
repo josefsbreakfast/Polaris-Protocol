@@ -1,4 +1,10 @@
-# ⚖️ Reputation After Revelation — How Institutions Should Handle Safeguarding in a Post-2022 World
+# ⚖️ Reputation After Revelation — How Institutions Should Handle Safeguarding in a Post-2022 World  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
+*"The old world is dying, and the new world struggles to be born: now is the time of monsters."*  
+
+> *Antonio Gramsci, whilst imprisoned by a fascist state.*  
+
+---
 
 ## 🛰️ Orientation  
 The old “hide, minimise, contain” model no longer protects institutions.  
