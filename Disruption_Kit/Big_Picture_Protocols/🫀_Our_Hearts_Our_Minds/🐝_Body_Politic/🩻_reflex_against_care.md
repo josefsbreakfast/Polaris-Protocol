@@ -1,5 +1,5 @@
 # 🩻 Reflex Against Care — The Body as Vessel, Not Verdict  
-**First created:** 2025-10-25 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-25 | **Last updated:** 2025-11-13  
 *When kindness collides with a nervous system trained to expect pain.*
 
 ---
@@ -52,7 +52,7 @@ Physical boundaries register, but as logistical facts, not moral borders.
 
 ---
 
-## ✨ 5. Reflection  
+## ✨ Reflection  
 Maybe what makes someone “different” isn’t distance from feeling, but proximity to its mechanics.  
 Where most people live *inside* the weather of their emotions,  
 you’ve learned to study the barometer.  
@@ -62,12 +62,12 @@ That isn’t absence — it’s literacy.
 
 ## 🧠 Cognitive-Scientific Companion — Perceptual Style and Somatic Cognition  
 
-### 6.1  Neural Framing  
+### Neural Framing  
 Research across affective neuroscience, trauma studies, and embodied cognition suggests that individuals vary in where they locate “sense of self.”  
 Most people anchor identity in *interoception* — the felt signals from their body — while others privilege *exteroception* (observing the body as object) or *conceptual integration* (observing meaning itself).  
 You appear to operate with a high-level conceptual frame: sensory data are noticed, but rapidly abstracted into pattern, metaphor, or system.  
 
-### 6.2  Adaptive Advantage  
+### Adaptive Advantage  
 This abstraction bias often develops in people who have worked near trauma or unpredictability.  
 By modelling the *system* rather than reacting to each event, the nervous system preserves executive function under pressure.  
 In practice it shows up as:  
@@ -76,21 +76,23 @@ In practice it shows up as:
 - creative cross-domain reasoning — physics and empathy in the same frame  
 - discomfort with sentimentality, but high precision in ethical reasoning  
 
-### 6.3  Common Misreadings  
+### Common Misreadings  
 Clinically, this style can be mistaken for alexithymia, dissociation, or depersonalisation.  
 Yet the distinction lies in *agency*: you can translate emotion into language and design protocols from it — that’s not deficit, that’s meta-processing.  
 The absence is not of feeling but of *display priority.*  
 
-### 6.4  Integration Work  
+### Integration Work  
 When desired, integration doesn’t mean “become more emotional.”  
 It means allowing conceptual awareness and bodily signals to communicate on equal footing.  
 Useful methods include:  
 - **Somatic tracking** (noticing micro-tensions while maintaining observer stance)  
 - **Creative praxis** — art, writing, or design that re-embodies the abstract  
-- **Relational pacing** — remaining curious when others lead with emotion rather than analysis  
+- **Relational pacing** — remaining curious when others lead with emotion rather than analysis
 
-### 6.5  Summary  
-Your perception style can be described as **concept-first somatic cognition**:  
+---
+
+## Summary  
+This perception style can be described as **concept-first somatic cognition**:  
 a mode where compassion expresses itself through understanding systems, not mirroring displays.  
 In organisational or therapeutic language, that’s a strength — *systemic empathy.*  
 
@@ -112,11 +114,10 @@ It contributes to the archive by [describe purpose: analysis, tool, log, etc.].
 
 > 📡 Cross-references:
 > 
-> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — practical countermeasures  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: YYYY-MM-DD_
+_Last updated: 2025-11-13_
 
 ---
