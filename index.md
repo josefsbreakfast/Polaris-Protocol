@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 02:02:54 UTC_
+_Generated on 2025-11-13 02:03:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -439,11 +439,11 @@ _Generated on 2025-11-13 02:02:54 UTC_
           - [`🐈‍⬛_diy_pussy_hat_archive.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐈‍⬛_diy_pussy_hat_archive.md)
           - [`🔥_pink_pussyhats_the_backlash_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔥_pink_pussyhats_the_backlash_cycle.md)
           - [`🦤_predation_logic_vulnerability_power_targeting.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
+          - [`🩸_the_long_fuse_2010_2017.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_the_long_fuse_2010_2017.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/README.md)
         - [`era_2018_2022_full.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/era_2018_2022_full.md)
         - [`era_2023_now_full.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/era_2023_now_full.md)
         - [`reputation_after_revelation_full.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/reputation_after_revelation_full.md)
-        - [`🩸_the_long_fuse_2010_2017.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🩸_the_long_fuse_2010_2017.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🪨_male_survivor_silence.md)
       - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/)
         - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/)
