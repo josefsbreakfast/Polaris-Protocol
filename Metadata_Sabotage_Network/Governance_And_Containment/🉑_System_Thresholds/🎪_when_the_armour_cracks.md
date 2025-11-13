@@ -1,5 +1,5 @@
 # 🎪 When the Armour Cracks  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-13  
 *On how containment systems collapse once the narrative seal breaks.*  
 
 ---
@@ -90,14 +90,14 @@ containment failure, narrative collapse, whistleblowing, governance crisis, fore
 
 ## 🏮 Footer  
 
-*When the Armour Cracks* is a living node of the Polaris Protocol.  
+*🎪 When the Armour Cracks* is a living node of the Polaris Protocol.  
 It documents the early warning signs of systemic exposure—when silencing infrastructures begin to fracture under their own repetition and survivors turn paperwork into evidence.  
 
-> 📡 Cross-references:  
-> - [🕳️ How to Catch a Whistleblower](./🕳️_how_to_catch_a_whistleblower.md) — procedural containment and data pipelines  
-> - [⚖️ Retrospective Law in a Prospective World](./⚖️_retrospective_law_in_a_prospective_world.md) — structural lag in surveillance governance  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and fidelity anchor  
+> 📡 Cross-references:
+> 
+> - [🕳️ How to Catch a Whistleblower](/) — *procedural containment and data pipelines*  
+> - [⚖️ Retrospective Law in a Prospective World](/) — *structural lag in surveillance governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-13_
