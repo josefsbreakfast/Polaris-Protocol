@@ -1,5 +1,5 @@
 # 🏛 R.A.A.C. — Ruins and Architectural Committee  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
+**First created:** 2025-10-22 | **Last updated:** 2025-11-13  
 *Minutes from the committee on collapse.*
 
 ---
@@ -88,10 +88,11 @@ r.a.a.c, ruins, architecture, satire, decay, infrastructure ethics, governance p
 *🏛 R.A.A.C. — Ruins and Architectural Committee* is a living node of the Polaris Protocol.  
 It documents the administrative afterlife of modern infrastructure and the symbolic grammar of decay.  
 
-> 📡 Cross-references:  
-> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk_the_acoustic_afterlife_of_derelict_structures.md)  
-> – [🧪 Development & Experimentation](../../🌀_System_Governance/🧪_Development_Experimentation/) — material testbeds and design ethics  
+> 📡 Cross-references:
+> 
+> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md)  
+> – [🧪 Development & Experimentation](../🧪_Development_Experimentation/README.md) — *material testbeds and design ethics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-11-13_
