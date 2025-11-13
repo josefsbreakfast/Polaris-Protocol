@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 20:05:03 UTC_
+_Generated on 2025-11-13 20:07:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -182,6 +182,7 @@ _Generated on 2025-11-13 20:05:03 UTC_
         - [`🧩_lepore_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_lepore_continuum.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
+        - [`🩹_pain_is_not_a_kpi.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_pain_is_not_a_kpi.md)
         - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_patch_repair_governance.md)
         - [`🩺_governing_doctors_in_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩺_governing_doctors_in_uk.md)
         - [`🪖_SAS_special_forces_and_complaints.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_SAS_special_forces_and_complaints.md)
@@ -2401,7 +2402,6 @@ _Generated on 2025-11-13 20:05:03 UTC_
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩹_break_beautifully.md`](Polaris_Nest/Git_Intake_Drawer/🩹_break_beautifully.md)
-    - [`🩹_pain_is_not_a_kpi.md`](Polaris_Nest/Git_Intake_Drawer/🩹_pain_is_not_a_kpi.md)
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
