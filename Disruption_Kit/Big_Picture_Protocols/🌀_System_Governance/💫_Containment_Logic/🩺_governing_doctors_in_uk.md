@@ -1,5 +1,5 @@
 # 🩺 Governing Doctors in the UK  
-**First created:** 2025-10-26 | **Last updated:** 2025-11-07  
+**First created:** 2025-10-26 | **Last updated:** 2025-11-13  
 *Mapping the statutory, professional, and covert architectures that regulate medical authority in Britain.*
 
 ---
@@ -134,10 +134,10 @@ It documents how professional medicine is governed through interlocking legal, b
 
 > 📡 Cross-references:
 > 
-> - [🐦‍🔥 Trauma Psychology & Medical Misuse]() — *coercion and clinical governance*  
-> - [🧿 Watch the Watchers]() — *oversight of oversight*  
-> - [⚖️ Legal & State Governance]() — *statutory frameworks and delegation*  
+> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *coercion and clinical governance*  
+> - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight*  
+> - [⚖️ Legal & State Governance](../⚖️_Legal_State_Governance/README.md) — *statutory frameworks and delegation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-13_
