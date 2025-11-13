@@ -1,10 +1,6 @@
-# 🔍 *How to Trace Event Data Flows*
-**A Decision Tree for SAR and FOI Navigation**
-
-**Date Created:** 2025-11-03  
-**Polaris Protocol Repository**  
-**Folder:** System_Governance / Data_Access_Routes  
-**Category:** Procedural Literacy / Transparency Tools / Civic Investigation  
+# 🔍 *How to Trace Event Data Flows*  
+**Date Created:** 2025-11-03 | **Last updated:** 2025-11-13  
+*A Decision Tree for SAR and FOI Navigation*
 
 ---
 
