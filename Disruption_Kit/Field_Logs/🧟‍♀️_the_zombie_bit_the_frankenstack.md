@@ -31,4 +31,8 @@ i have a list if things which would appease me, and i'm sure orevisely zero will
 there's ab exceotiinalky easy way to shut me up tempirarily, but i doubt you'll enjoy tye idea, seeing as you've been cockblocking me for tye best part of a decade.  
 in fact, should we talk about everything i've been nudged to?  
 or would you prefer to get on with the list? -->
-2025-11-13
+2025-11-13  
+
+---
+
+can we stop with the weird noise/peessure rocking against the structure olease?
