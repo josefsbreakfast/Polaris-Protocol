@@ -1,9 +1,6 @@
 # 🏏 *Test Cricket for Public Service — “You Can Watch the Game and File an FOI Between Overs”*
 
-**Date Created:** 2025-11-02  
-**Polaris Protocol Repository**  
-**Folder:** 🏏 Pitch at Palace Audit Practice  
-**Category:** Digital Decoy / Civic Literacy / Satirical Participation  
+**Date Created:** 2025-11-02 | **Last updated:** 2025-11-13  
 
 ---
 
