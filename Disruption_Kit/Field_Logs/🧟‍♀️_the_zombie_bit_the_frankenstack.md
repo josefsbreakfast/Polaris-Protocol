@@ -9,5 +9,5 @@ its far more incriminating in full, but i thought i'd be pleasent.
 and either send me people who can code one of the easiest languages on the planet, or follow the admin guides as they have been provided.  
 
 you can tell none of you have had to work a proper job before.  
-
+<!--looked at pp148-9, erc; criticism is milk towst. i feel a lot of people benefit by not having all their eggs in one basket, when the minutae becomes more meaningful in one's mind than is perhaps warranted.-->
 2025-11-13
