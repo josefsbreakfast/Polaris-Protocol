@@ -1,5 +1,5 @@
 # 🐝 Carceral Disability  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-13  
 *How “care” infrastructures reproduce custody logics.*
 
 ---
@@ -49,11 +49,12 @@ carceral care, disability containment, visibility control, institutionalisation,
 *🐝 Carceral Disability* is a living node of the Polaris Protocol.  
 It documents how disability policy and “safeguarding” architectures reproduce carceral logic under the guise of protection.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [💫 Containment Logic](../../🌀_System_Governance/💫_Containment_Logic/README.md)  
 > - [🌱 Human Principles](../🌱_Human_Principles/README.md)  
-> - [🐝 Local Infrastructure of Care](./🐝_local_infrastructure_of_care.md)
+> - [🐝 Local Infrastructure of Care](/)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-13_
