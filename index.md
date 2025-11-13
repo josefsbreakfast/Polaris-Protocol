@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 01:53:13 UTC_
+_Generated on 2025-11-13 01:56:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -434,6 +434,8 @@ _Generated on 2025-11-13 01:53:13 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🍿_Historical_Democratic_Actions/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/)
+        - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/README.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/README.md)
         - [`era_2018_2022_full.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/era_2018_2022_full.md)
         - [`era_2023_now_full.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/era_2023_now_full.md)
