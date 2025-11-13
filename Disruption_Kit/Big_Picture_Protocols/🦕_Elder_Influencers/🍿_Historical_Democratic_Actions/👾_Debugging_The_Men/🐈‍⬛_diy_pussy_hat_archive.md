@@ -1,5 +1,5 @@
 # 🐈‍⬛ DIY Pussy Hat Archive  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *A community-powered craft archive for the hats that travelled further than any march could.*
 
 ---
@@ -103,4 +103,4 @@ It preserves the craft-based infrastructure of one of the most accessible and in
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
