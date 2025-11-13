@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 17:58:53 UTC_
+_Generated on 2025-11-13 18:00:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -180,6 +180,7 @@ _Generated on 2025-11-13 17:58:53 UTC_
         - [`🪞_ethical_censorship_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_ethical_censorship_continuum.md)
         - [`🪞_misunderstanding_as_risk_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_misunderstanding_as_risk_signal.md)
         - [`🪞_the_muu_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_the_muu_class.md)
+        - [`🪶_tea_toast_and_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪶_tea_toast_and_transparency.md)
         - [`🫀_pixels_do_not_touch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫀_pixels_do_not_touch.md)
         - [`🫒_occupation_as_containment_regime.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫒_occupation_as_containment_regime.md)
         - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫥_when_you_dont_want_to_be_seen_touching_it.md)
@@ -2403,7 +2404,6 @@ _Generated on 2025-11-13 17:58:53 UTC_
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_narrative_saturation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_narrative_saturation.md)
-    - [`🪶_tea_toast_and_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🪶_tea_toast_and_transparency.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
