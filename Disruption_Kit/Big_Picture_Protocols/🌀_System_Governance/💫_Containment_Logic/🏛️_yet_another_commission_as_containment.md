@@ -65,7 +65,7 @@ It analyses how the British imperial habit of inquiry operates as a mechanism of
 > 📡 Cross-references:
 > 
 > - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *structural analysis of bureaucratic containment*  
-> - [🪞 Containment Detente as Temporal Governance](../../../../Containment_Studies/💞_Containment_Theory/🪞_containment_detente_as_temporal_governance.md) — *parallel on time management and state delay*  
+> - [🪞 Containment Deténte as Temporal Governance](../../../../Containment_Studies/💞_Containment_Theory/🪞_containment_detente_as_temporal_governance.md) — *parallel on time management and state delay*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
