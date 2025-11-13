@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:00:05 UTC_
+_Generated on 2025-11-13 03:00:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1959,7 +1959,6 @@ _Generated on 2025-11-13 03:00:05 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
-      - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/👑_soft_power_accountability_gap.md)
       - [`📈_meta_linkages.yaml`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
       - [`📉_erosion_of_legitimacy_loops.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📉_erosion_of_legitimacy_loops.md)
       - [`📊_cricket_and_open_source_investigation_theory.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
@@ -2097,6 +2096,7 @@ _Generated on 2025-11-13 03:00:05 UTC_
     - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
     - [`👅_Deepfake_Node.md`](Polaris_Nest/Git_Intake_Drawer/👅_Deepfake_Node.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
+    - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/👑_soft_power_accountability_gap.md)
     - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Polaris_Nest/Git_Intake_Drawer/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
     - [`👾_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/👾_algorithmic_projection_and_false_personalisation.md)
     - [`👾_bad_algorithms_good_data.md`](Polaris_Nest/Git_Intake_Drawer/👾_bad_algorithms_good_data.md)
