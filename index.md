@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:28:27 UTC_
+_Generated on 2025-11-13 18:29:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1487,6 +1487,7 @@ _Generated on 2025-11-13 18:28:27 UTC_
     - [`🪐_my_britannia.md`](Disruption_Kit/Field_Logs/🪐_my_britannia.md)
     - [`🪐_polaris_week13_state_of_repo.md`](Disruption_Kit/Field_Logs/🪐_polaris_week13_state_of_repo.md)
     - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
+    - [`🪞_field_note_guardrail_encounter.md`](Disruption_Kit/Field_Logs/🪞_field_note_guardrail_encounter.md)
     - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/🪬_all_that_surveillance.md)
     - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Disruption_Kit/Field_Logs/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
     - [`🪬_regarding_suicidality.md`](Disruption_Kit/Field_Logs/🪬_regarding_suicidality.md)
@@ -2401,7 +2402,6 @@ _Generated on 2025-11-13 18:28:27 UTC_
     - [`🪆_are_you_just_asking_questions.md`](Polaris_Nest/Git_Intake_Drawer/🪆_are_you_just_asking_questions.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Polaris_Nest/Git_Intake_Drawer/🪖_applied_demolition_science_and_the_gcse_problem.md)
-    - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
