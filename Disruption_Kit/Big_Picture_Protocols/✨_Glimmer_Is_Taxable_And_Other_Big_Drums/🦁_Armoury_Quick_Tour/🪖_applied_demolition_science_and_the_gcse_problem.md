@@ -38,8 +38,10 @@ army, demolition science, field engineering, containment humour, risk culture
 
 > 📡 Cross-references:
 > 
-> - [🛩️ The April Fools Department of Defence](./🛩️_the_april_fools_department_of_defence.md)  
-> - [⚓️ The Service That Went to Sea and Never Came Back](./⚓️_the_service_that_went_to_sea_and_never_came_back.md)  
+> - [🛩️ The April Fools Department of Defence](./🛩️_the_april_fools_department_of_defence.md) - *the ones who can drop explosions*  
+> - [⚓️ The Service That Went to Sea and Never Came Back](./⚓️_the_service_that_went_to_sea_and_never_came_back.md) - *the ones with really big guns*
+
+*Note: Do not share own arms; insist these are necessary when one can actually be fired at in person, without metal cages as defence.*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
