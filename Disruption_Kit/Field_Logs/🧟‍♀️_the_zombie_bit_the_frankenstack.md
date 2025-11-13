@@ -123,3 +123,6 @@ Better to level the score before the match is rained off; the rain here is rathe
 
 this can also change gow much we will pay in "forgiveness money" in the icj, so i really think we ought to dig it up, embarrassing though it is.  
 those assets are not protected by ipa; ours are, and our citizens are our best ones.  
+
+---
+<!--goof to see you're putting slightly less insert into the musoc; i can tell when it doesn't make sense for a real person, and you're not matching on the taste quite right. please stop condensing a continent that is bigger than ours, and a diaspora with a rich british herotage. this is embarassing. please stop being That White Guy. can see why sunak want keen.-->
