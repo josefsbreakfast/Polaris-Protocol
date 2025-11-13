@@ -1,5 +1,5 @@
 # 🪞 The Magnifying Glass Effect
-**First created:** 2025-11-12  |  **Last updated:** 2025-11-12  
+**First created:** 2025-11-12  |  **Last updated:** 2025-11-13  
 *A micro-signal amplified through bureaucratic over-correction; how minor suppression creates measurable distortion in data fields.*
 
 ---
@@ -42,12 +42,12 @@ suppression feedback, bureaucratic overreach, reflexive loop, visibility distort
 ---
 
 ## 🏮 Footer  
-*The Magnifying Glass Effect* is a living node of the Polaris Protocol.  
+*🪞 The Magnifying Glass Effect* is a living node of the Polaris Protocol.  
 It documents how minimal administrative interventions can distort entire informational ecosystems and demonstrates the self-referential nature of algorithmic governance.  
 
-> 📡 Cross-references:  
-> - [☔️ Protocol Integrity SOP](../Admin_Kit/☔️_protocol_integrity_sop.md) — ethical oversight mechanisms  
-> - [🧬 Complaint Drift & Twin Overcorrection](../Disruption_Kit/Big_Picture_Protocols/🧬_complaint_drift_and_twin_overcorrection.md)  
+> 📡 Cross-references:
+> 
+> - [🧬 Complaint Drift & Twin Overcorrection](/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
