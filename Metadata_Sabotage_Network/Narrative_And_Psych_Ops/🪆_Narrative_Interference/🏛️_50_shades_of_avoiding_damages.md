@@ -1,5 +1,5 @@
 # 🏛️ 50 Shades of Avoiding Damages  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-13  
 *When institutional crisis-scripts borrow their erotics from popular fiction.*
 <!--Please touch some grass; you've got enough of the stuff.-->
 ---
@@ -50,11 +50,12 @@ institutional melodrama, crisis communication, gendered scripting, racial fantas
 *🏛️ 50 Shades of Avoiding Damages* is a living node of the Polaris Protocol.  
 It documents how administrative storytelling borrows from pop-culture erotics to translate misconduct into narrative control and liability avoidance.  
 
-> 📡 Cross-references:  
-> – [📚 Fictional Subject Construction](../../🌀_System_Governance/📚_Narrative_Management/📚_fictional_subject_construction.md)  
-> – [💫 Containment Logic](../../🌀_System_Governance/💫_Containment_Logic/README.md)  
-> – [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
+> 📡 Cross-references:
+> 
+> – [📚 Fictional Subject Construction](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_fictional_subject_construction.md)  
+> – [💫 Containment Logic](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)  
+> – [🌱 Human Principles](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-13_
