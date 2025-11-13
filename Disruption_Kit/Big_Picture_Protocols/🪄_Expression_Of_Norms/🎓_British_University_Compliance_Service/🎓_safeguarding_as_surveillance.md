@@ -36,7 +36,7 @@ Universities “manage” distress rather than redress harm.
 This case exhibits a repeatable **containment-through-procedure pattern** typical of higher-education risk ecosystems.  
 Key diagnostic indicators observed between 2021–2025 include:  
 
-- 🛰️ *See [Field Log — Telecomms Interference and Metadata Anomalies (2025-10-15)](../../Field_Logs/🛰️_telecomms_interference_and_metadata_anomalies_2025-10-15.md) for technical irregularities detected during the safeguarding period.*
+- 🛰️ *See [Field Log — Telecomms Interference and Metadata Anomalies (2025-10-15)](../../../Field_Logs/🛰️_telecomms_interference_and_metadata_anomalies_2025-10-15.md) for technical irregularities detected during the safeguarding period.*
 
 - **Disability discrimination as containment trigger:** a medical student reporting trauma-related distress and disability access failures receives no timely support; institutional response prioritises reputational risk over welfare.  
   - Consequence: withdrawal of medical qualification despite continued academic performance and clinical contribution during COVID.  
