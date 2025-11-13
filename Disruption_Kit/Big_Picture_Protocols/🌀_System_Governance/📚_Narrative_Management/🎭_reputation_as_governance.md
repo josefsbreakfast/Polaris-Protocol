@@ -1,5 +1,5 @@
 # 🎭 Reputation as Governance — How Institutions Script Their Own Credibility  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-13  
 *Public trust as administrative software.*
 
 ---
@@ -99,11 +99,12 @@ reputation management, narrative governance, credibility economy, containment lo
 *🎭 Reputation as Governance — How Institutions Script Their Own Credibility* is a living node of the Polaris Protocol.  
 It maps how public image functions as a regulatory device, shaping perception, procedure, and policy outcomes alike.
 
-> 📡 Cross-references:  
-> - [🪞 Narrative Drift — When Systems Inherit the Wrong Story](../📚_Narrative_Management/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)  
-> - [🧩 Swiss-Cheese Failures — When Process Holes Align](../🧩_System_Governance/🧩_swiss_cheese_failures_when_process_holes_align.md)  
-> - [🎪 Moles in the Circus — Institutional Misdirection](../🪆_Narrative_Interference/🎪_moles_in_the_circus.md)  
+> 📡 Cross-references:
+> 
+> - [🪞 Narrative Drift — When Systems Inherit the Wrong Story](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)  
+> - [🧩 Swiss-Cheese Failures — When Process Holes Align]  
+> - [🎪 Moles in the Circus — Institutional Misdirection](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-13_
