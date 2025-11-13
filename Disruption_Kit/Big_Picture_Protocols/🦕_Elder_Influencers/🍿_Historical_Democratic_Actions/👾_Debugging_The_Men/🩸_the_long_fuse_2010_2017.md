@@ -349,7 +349,7 @@ It documents the pressure-building years that made MeToo’s detonation unavoida
 > 
 > - [🔥 Pink Pussyhats — The Backlash Cycle](./🔥_pink_pussyhats_the_backlash_cycle.md)  
 > - [🍿 Historical Democratic Actions](../README.md)  
-> - [🎭 Narrative & Psych Ops](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)  
+> - [🎭 Narrative & Psych Ops](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
