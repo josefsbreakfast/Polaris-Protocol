@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 19:50:32 UTC_
+_Generated on 2025-11-13 19:53:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1677,6 +1677,7 @@ _Generated on 2025-11-13 19:50:32 UTC_
       - [`🎭_character_assassination_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_character_assassination_theatre.md)
       - [`🎭_laughing_at_strongmen.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_laughing_at_strongmen.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
+      - [`👅_bad_deepfakes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md)
       - [`💋_the_erotics_of_discrediting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/💋_the_erotics_of_discrediting.md)
       - [`🔊_protecting_the_sound_of_the_voice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_protecting_the_sound_of_the_voice.md)
       - [`🔊_signal_integrity_evidence_index.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_signal_integrity_evidence_index.csv)
@@ -2088,7 +2089,6 @@ _Generated on 2025-11-13 19:50:32 UTC_
     - [`🐾_greyhound_networks_and_collective_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🐾_greyhound_networks_and_collective_pattern_recognition.md)
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
     - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
-    - [`👅_Deepfake_Node.md`](Polaris_Nest/Git_Intake_Drawer/👅_Deepfake_Node.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/👑_soft_power_accountability_gap.md)
     - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Polaris_Nest/Git_Intake_Drawer/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
