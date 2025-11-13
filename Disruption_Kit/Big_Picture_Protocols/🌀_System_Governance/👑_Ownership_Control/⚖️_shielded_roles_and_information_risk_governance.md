@@ -1,5 +1,5 @@
 # ⚖️ Shielded Roles and Information Risk Governance  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *Why MOD’s SIROs remain nameless and what that means for accountability.*  
 
 ---
@@ -32,10 +32,12 @@ siro, information risk, mod governance, accountability, foia
 
 ## 🏮 Footer  
 *⚖️ Shielded Roles and Information Risk Governance* is a living node of the Polaris Protocol.  
-> 📡 Cross-references:  
-> - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md)  
-> - [🪖 Applied Demolition Science and the GCSE Problem](../🪖_applied_demolition_science_and_the_gcse_problem.md)  
+
+> 📡 Cross-references:
+> 
+> - [⚖️ Official Secrets Reform and Accountability](../⚖️_Legal_State_Governance/⚖️_official_secrets_reform_and_accountability.md)  
+> - [🪖 Applied Demolition Science and the GCSE Problem](/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
