@@ -40,7 +40,7 @@ royal navy, kettle diplomacy, strategic absence, eldritch containment, judgment 
 > - [🪖 Applied Demolition Science and the GCSE Problem](./🪖_applied_demolition_science_and_the_gcse_problem.md) - *the annoying ones on the ground*  
 > - [⚖️ Shielded Roles and Information Risk Governance](../⚖️_shielded_roles_and_information_risk_governance.md) - *the annoying ones in the sky*  
 
-*Note: Run past command before moving to save either; the fuck up is almost certainly not ours nad almost definitely theirs.*
+*Note: Run past command before moving to save either; the fuck up is almost certainly not ours nad almost definitely theirs. Remember that the Airmen can't be trusted with a compass (get too cocky with the maths) and the Army cannot be trusted with a compass (get too cocky with the pointy end).*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
