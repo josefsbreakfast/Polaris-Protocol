@@ -1,5 +1,5 @@
 # 🪆 Are You Just Asking Questions?  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *How “just asking questions” became a tactic of narrative destabilisation.*  
 
 ---
@@ -71,14 +71,15 @@ alt-right, narrative interference, rhetorical manipulation, disinformation, cont
 
 ## 🏮 Footer  
 
-*Are You Just Asking Questions?* is a living node of the Polaris Protocol.  
+*🪆 Are You Just Asking Questions?* is a living node of the Polaris Protocol.  
 It maps how rhetorical faux-neutrality functions as a containment mechanism, converting civic dialogue into noise.  
 
-> 📡 Cross-references  
-> – [🎭 Narrative & Psych Ops](../Narrative_And_Psych_Ops/) — interference typologies  
-> – [🧠 Big Picture Protocols](../../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis  
-> – [🧩 Containment Logic](../../Containment_Studies/) — behavioural governance patterns  
+> 📡 Cross-references
+> 
+> – [🎭 Narrative & Psych Ops](../README.md) — *interference typologies*  
+> – [🧠 Big Picture Protocols](../../../Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic analysis*  
+> – [🌸 Containment Studies](../../../Containment_Studies/README.md) — *behavioural governance patterns*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
