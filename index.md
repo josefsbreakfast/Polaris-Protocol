@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 17:58:31 UTC_
+_Generated on 2025-11-13 17:58:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -41,6 +41,7 @@ _Generated on 2025-11-13 17:58:31 UTC_
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
     - [`🪬_gossip_engines.md`](Disruption_Kit/AntiContainment_Clauses/🪬_gossip_engines.md)
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
+    - [`🫱_plain_speech_and_intimacy_in_operations.md`](Disruption_Kit/AntiContainment_Clauses/🫱_plain_speech_and_intimacy_in_operations.md)
     - [`🫱_plain_speech_clause.md`](Disruption_Kit/AntiContainment_Clauses/🫱_plain_speech_clause.md)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
@@ -2403,7 +2404,6 @@ _Generated on 2025-11-13 17:58:31 UTC_
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_narrative_saturation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_narrative_saturation.md)
     - [`🪶_tea_toast_and_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🪶_tea_toast_and_transparency.md)
-    - [`🫱_plain_speech_and_intimacy_in_operations.md`](Polaris_Nest/Git_Intake_Drawer/🫱_plain_speech_and_intimacy_in_operations.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
