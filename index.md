@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:06:20 UTC_
+_Generated on 2025-11-13 03:07:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -458,7 +458,6 @@ _Generated on 2025-11-13 03:06:20 UTC_
             - [`🎭_why_it_attracts_bad_actors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
             - [`🏏_test_cricket_for_public_service.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
             - [`👑_pitch_palace_outpicture_paths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/👑_pitch_palace_outpicture_paths.md)
-            - [`💬_whistleblowers_as_emergency_governance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/💬_whistleblowers_as_emergency_governance.md)
             - [`📈_meta_linkages.yaml`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
             - [`🪞_governance_as_performance_art.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🪞_governance_as_performance_art.md)
             - [`🪶_tea_toast_and_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🪶_tea_toast_and_transparency.md)
@@ -2116,6 +2115,7 @@ _Generated on 2025-11-13 03:06:20 UTC_
     - [`💫_the_middle_register.md`](Polaris_Nest/Git_Intake_Drawer/💫_the_middle_register.md)
     - [`💬_containment_catchphrases_language_of_dismissal.md`](Polaris_Nest/Git_Intake_Drawer/💬_containment_catchphrases_language_of_dismissal.md)
     - [`💬_semantic_echo_how_offender_language_re_enters_institutional_notes.md`](Polaris_Nest/Git_Intake_Drawer/💬_semantic_echo_how_offender_language_re_enters_institutional_notes.md)
+    - [`💬_whistleblowers_as_emergency_governance.md`](Polaris_Nest/Git_Intake_Drawer/💬_whistleblowers_as_emergency_governance.md)
     - [`💰_credibility_brokers_and_golden_eggs.md`](Polaris_Nest/Git_Intake_Drawer/💰_credibility_brokers_and_golden_eggs.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`💰_the_surveillance_dividend_social_contract.md`](Polaris_Nest/Git_Intake_Drawer/💰_the_surveillance_dividend_social_contract.md)
