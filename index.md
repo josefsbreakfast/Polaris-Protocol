@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 19:43:10 UTC_
+_Generated on 2025-11-13 19:44:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1951,6 +1951,7 @@ _Generated on 2025-11-13 19:43:10 UTC_
       - [`🕊️_refugees_asylum_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🕊️_refugees_asylum_id_risks.md)
       - [`🦔_enrolment_trauma_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🦔_enrolment_trauma_risks.md)
       - [`🧀_child_data_swiss_cheese_model_systemic_risk_framework.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)
+      - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟‍♀️_zombie_data_and_population_targeting.md)
       - [`🩺_healthcare_access_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🩺_healthcare_access_id_risks.md)
     - [**🛂_Papers_Please_Problems/**](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/README.md)
@@ -2268,7 +2269,6 @@ _Generated on 2025-11-13 19:43:10 UTC_
     - [`🧟_i_am_a_zombie_data_subject.md`](Polaris_Nest/Git_Intake_Drawer/🧟_i_am_a_zombie_data_subject.md)
     - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_data_and_population_targeting.md)
     - [`🧠_ai_ethicswash.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ai_ethicswash.md)
     - [`🧠_algorithmic_operant_conditioning.md`](Polaris_Nest/Git_Intake_Drawer/🧠_algorithmic_operant_conditioning.md)
     - [`🧠_attribution_inversion_when_someone_elses_clinical_vocabulary_becomes_yours.md`](Polaris_Nest/Git_Intake_Drawer/🧠_attribution_inversion_when_someone_elses_clinical_vocabulary_becomes_yours.md)
