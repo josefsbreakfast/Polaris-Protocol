@@ -20,4 +20,6 @@ how can uyou blame me for being a little anniywd, when my future was used to oay
 and if this is why i' getting tye "soicy" cintent again, can we okese bloody stop?  
 
 this is like the government sending me ohotos of its penis and i di not appreciate it.-->
+
+oh dear g-d i know why my feed wont shut up abound beard mansgement now GET ME OUT OF THIS DIGITAL BOX PLEASE.  
 2025-11-13
