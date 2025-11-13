@@ -1,5 +1,5 @@
 # 🩹 Break Beautifully — The Aestheticisation of Resilience  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
+**First created:** 2025-10-25 | **Last updated:** 2025-11-13  
 *When trauma is misread as performance, and survival mistaken for grace.*
 
 ---
