@@ -1,7 +1,7 @@
 # 🪖 Applied Demolition Science and the GCSE Problem  
 **First created:** 2025-11-12 | **Last updated:** 2025-11-12  
 *Army methodology as empirical pyrotechnics.*  
-
+<!--"I joined to make things go 'boom', Sir."-->
 ---
 
 ## 🛰️ Orientation  
@@ -35,10 +35,12 @@ army, demolition science, field engineering, containment humour, risk culture
 
 ## 🏮 Footer  
 *🪖 Applied Demolition Science and the GCSE Problem* is a living node of the Polaris Protocol.  
-> 📡 Cross-references:  
+
+> 📡 Cross-references:
+> 
 > - [🛩️ The April Fools Department of Defence](./🛩️_the_april_fools_department_of_defence.md)  
 > - [⚓️ The Service That Went to Sea and Never Came Back](./⚓️_the_service_that_went_to_sea_and_never_came_back.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
