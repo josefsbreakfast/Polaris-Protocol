@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:07:49 UTC_
+_Generated on 2025-11-13 03:08:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -459,7 +459,6 @@ _Generated on 2025-11-13 03:07:49 UTC_
             - [`🏏_test_cricket_for_public_service.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
             - [`👑_pitch_palace_outpicture_paths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/👑_pitch_palace_outpicture_paths.md)
             - [`📈_meta_linkages.yaml`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
-            - [`🪶_tea_toast_and_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🪶_tea_toast_and_transparency.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
           - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
           - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
@@ -2412,6 +2411,7 @@ _Generated on 2025-11-13 03:07:49 UTC_
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🪶_dual_stream_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_dual_stream_manipulation.md)
     - [`🪶_narrative_saturation.md`](Polaris_Nest/Git_Intake_Drawer/🪶_narrative_saturation.md)
+    - [`🪶_tea_toast_and_transparency.md`](Polaris_Nest/Git_Intake_Drawer/🪶_tea_toast_and_transparency.md)
     - [`🫱_plain_speech_and_intimacy_in_operations.md`](Polaris_Nest/Git_Intake_Drawer/🫱_plain_speech_and_intimacy_in_operations.md)
     - [`🫱_plain_speech_clause.md`](Polaris_Nest/Git_Intake_Drawer/🫱_plain_speech_clause.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
