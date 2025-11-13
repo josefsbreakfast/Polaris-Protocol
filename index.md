@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:05:02 UTC_
+_Generated on 2025-11-13 03:05:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -455,7 +455,6 @@ _Generated on 2025-11-13 03:05:02 UTC_
           - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
         - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/)
           - [**🏏_Pitch_at_Palace_Audit_Practice/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/)
-            - [`🌍_deregulation_as_diplomatic_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md)
             - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🎭_apology_theatre_and_trust_repair.md)
             - [`🎭_why_it_attracts_bad_actors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
             - [`🏏_test_cricket_for_public_service.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
@@ -2042,6 +2041,7 @@ _Generated on 2025-11-13 03:05:02 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
+    - [`🌍_deregulation_as_diplomatic_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🌍_deregulation_as_diplomatic_infrastructure.md)
     - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_reputation_management_and_university_protest_response.md`](Polaris_Nest/Git_Intake_Drawer/🎓_reputation_management_and_university_protest_response.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
