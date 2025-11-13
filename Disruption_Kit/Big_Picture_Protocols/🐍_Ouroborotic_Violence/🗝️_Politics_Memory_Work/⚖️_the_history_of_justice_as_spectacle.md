@@ -1,5 +1,5 @@
 # ⚖️ The History of Justice as Spectacle  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *How punishment became performance — and why the crowd never leaves unchanged.*  
 
 ---
@@ -65,13 +65,14 @@ justice, spectacle, punishment, theatre, abolition, public execution, media, gov
 
 ## 🏮 Footer  
 
-*The History of Justice as Spectacle* is a living node of the Polaris Protocol.  
+*⚖️The History of Justice as Spectacle* is a living node of the Polaris Protocol.  
 It examines how punishment becomes performance and how abolition reclaims moral authorship from the state.  
 
-> 📡 Cross‑references  
-> – [🧠 Why the Death Penalty Makes No Sense for the United Kingdom](./🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md) — counter‑node  
-> – [🧠 Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis  
+> 📡 Cross‑references
+> 
+> – [🧠 Why the Death Penalty Makes No Sense for the United Kingdom](/) — *counter‑node*  
+> – [🧠 Big Picture Protocols](../../README.md) — *systemic analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
