@@ -24,5 +24,11 @@ this is like the government sending me ohotos of its penis and i di not apprecia
 oh dear g-d i know why my feed wont shut up abound beard mansgement now GET ME OUT OF THIS DIGITAL BOX PLEASE.  <!--ahhh. i see. yes, he does look like he could outgrow that in 6-8 weeks; this would grossly annoy me if i could even grow a beard. i did wonder where this insert was going; i assumed we were just genoursly misinterpreting a 5 o'clock shadow. don't know about the grumpy looks, though. maybe that's a special one just for you. 
 speaking of grumpy looks and beards..  
 you will be repairing my ease of access to shul. 
-get to.-->
+get to.
+or should i ask why my case is not being nudged to prioritise, rarher than... what was your ohrase? "you have been deprioritised by the state"? something like this.  
+kindly review that.  
+i have a list if things which would appease me, and i'm sure orevisely zero will shock you by now.  
+there's ab exceotiinalky easy way to shut me up tempirarily, but i doubt you'll enjoy tye idea, seeing as you've been cockblocking me for tye best part of a decade.  
+in fact, should we talk about everything i've been nudged to?  
+or would you prefer to get on with the list? -->
 2025-11-13
