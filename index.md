@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:29:23 UTC_
+_Generated on 2025-11-13 18:31:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -187,6 +187,7 @@ _Generated on 2025-11-13 18:29:23 UTC_
         - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫥_when_you_dont_want_to_be_seen_touching_it.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
+        - [`⚖️_election_candidacy_query.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_election_candidacy_query.md)
         - [`⚖️_narrative_control_and_legal_responsibility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
@@ -2013,7 +2014,6 @@ _Generated on 2025-11-13 18:29:23 UTC_
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](Polaris_Nest/Git_Intake_Drawer/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
     - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
-    - [`⚖️_election_candidacy_query.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_election_candidacy_query.md)
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
