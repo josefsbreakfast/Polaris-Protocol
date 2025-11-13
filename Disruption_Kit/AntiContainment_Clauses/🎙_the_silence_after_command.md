@@ -1,6 +1,6 @@
 # 🎙 The Silence After Command  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*Spoiler warning: discussion contains key details from the conclusion of *V for Vendetta**.*
+**First created:** 2025-11-01 | **Last updated:** 2025-11-13  
+_Spoiler warning: discussion contains key details from the conclusion of **V for Vendetta**._
 
 ---
 
@@ -46,10 +46,11 @@ voice and power, silence, de-escalation, collective agency, moral reflex, propag
 *🎙 The Silence After Command* is a living node of the Polaris Protocol.  
 It examines how the withdrawal of a commanding voice can collapse systemic violence into symbolic release.  
 
-> 📡 Cross-references:  
-> - [🧵 Overproduction as Human Boredom Response](../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧵_overproduction_as_human_boredom_response.md) — creative motion under containment  
-> - [👁 Finch and the Limits of Obedience](../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/👁_finch_and_the_limits_of_obedience.md) — ethics of ordinary complicity  
+> 📡 Cross-references:
+> 
+> - [🧵 Overproduction as Human Boredom Response](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧵_overproduction_as_human_boredom_response.md) — creative motion under containment  
+> - [👁 Finch and the Limits of Obedience](../Big_Picture_Protocols/🪄_Expression_Of_Norms/👁_finch_and_the_limits_of_obedience.md) — ethics of ordinary complicity  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-13_
