@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:18:01 UTC_
+_Generated on 2025-11-13 03:18:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -454,8 +454,6 @@ _Generated on 2025-11-13 03:18:01 UTC_
           - [`🦾_invest_appropriately.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🦾_invest_appropriately.md)
           - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
         - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/)
-          - [**🏏_Pitch_at_Palace_Audit_Practice/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/)
-            - [`🧭_overview_pitch_at_palace_structure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
           - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
           - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
@@ -2649,6 +2647,7 @@ _Generated on 2025-11-13 03:18:01 UTC_
       - [`📜_foi_and_sar_exercise_pack.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
       - [`🔍_how_to_trace_event_data_flows.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
+      - [`🧭_overview_pitch_at_palace_structure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
     - [**🏛️_Civil_Security/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/)
       - [**🎿_Routes_Overview_Piste_Map/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/)
         - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/README.md)
