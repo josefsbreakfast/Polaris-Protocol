@@ -1,5 +1,5 @@
 # 🧟‍♀️ Zombie Data and Population Targeting  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-30 | **Last updated:** 2025-11-13  
 *How dormant datasets keep governing the living.*
 
 ---
@@ -52,4 +52,4 @@ zombie data, cohort profiling, prevent, equality duty, national security exempti
 ## 🏮 Footer  
 *🧟‍♀️ Zombie Data and Population Targeting* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-30_
+_Last updated: 2025-11-13_
