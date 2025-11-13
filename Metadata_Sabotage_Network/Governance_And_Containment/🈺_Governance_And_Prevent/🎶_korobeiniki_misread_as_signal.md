@@ -1,5 +1,5 @@
 # 🎶 Korobeiniki Misread as Signal  
-**First created:** 2025-11-05  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-05  |  **Last updated:** 2025-11-13  
 *A case study in cultural semiotics and Prevent-era misclassification.*
 <!--Дорогой дедушка, Снова неприятности из-за моего музыкального вкуса. (And it’s your bloody fault, as usual.)-->
 ---
@@ -217,8 +217,8 @@ It documents the cultural-forensic reasoning that distinguishes aesthetic apprec
 
 > 📡 Cross-references:
 > 
-> - [🧠 Big Picture Protocols](Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic misclassification analyses*  
+> - [🧠 Big Picture Protocols](../../../Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic misclassification analyses*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-13_
