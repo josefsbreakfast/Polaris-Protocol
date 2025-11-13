@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:12:02 UTC_
+_Generated on 2025-11-13 03:12:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1953,7 +1953,6 @@ _Generated on 2025-11-13 03:12:02 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
-      - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🦚_the_peacock_principle.md)
       - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧃_juicebox_theory_of_accountability.md)
       - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_accountability_failures_and_public_trust.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
@@ -2259,6 +2258,7 @@ _Generated on 2025-11-13 03:12:02 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦋_butterfly_effect_in_small_states.md`](Polaris_Nest/Git_Intake_Drawer/🦋_butterfly_effect_in_small_states.md)
+    - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🦠_algorithmic_autoimmunity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_algorithmic_autoimmunity.md)
     - [`🦠_statistical_nightmare.md`](Polaris_Nest/Git_Intake_Drawer/🦠_statistical_nightmare.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
