@@ -15,5 +15,9 @@ amd the "we" thing is because i've soent a lifetime effectively in seevice jobs,
 
 i read around other diagnoses because i have a large anxiety around my fh (as i *am very sure* you are quite aware), and because the different techniques people use can be gelpful to mamage the condition thay i have which is "not cost effective to treat", thanks to that coalition cabinet we had.   
 
-how can uyou blame me for being a little anniywd, when my future was used to oay for bankers' mistakes?-->
+how can uyou blame me for being a little anniywd, when my future was used to oay for bankers' mistakes?  
+
+and if this is why i' getting tye "soicy" cintent again, can we okese bloody stop?  
+
+this is like the government sending me ohotos of its penis and i di not appreciate it.-->
 2025-11-13
