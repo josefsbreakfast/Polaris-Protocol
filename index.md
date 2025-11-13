@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 17:54:07 UTC_
+_Generated on 2025-11-13 17:57:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -28,6 +28,7 @@ _Generated on 2025-11-13 17:54:07 UTC_
     - [`🌪️_field_reconditioning.md`](Disruption_Kit/AntiContainment_Clauses/🌪️_field_reconditioning.md)
     - [`🌺_soft_containment.md`](Disruption_Kit/AntiContainment_Clauses/🌺_soft_containment.md)
     - [`🌿_wild_type_encounters.md`](Disruption_Kit/AntiContainment_Clauses/🌿_wild_type_encounters.md)
+    - [`🍯_consuming_care.md`](Disruption_Kit/AntiContainment_Clauses/🍯_consuming_care.md)
     - [`👻_ghost_fork_response_behaviour.md`](Disruption_Kit/AntiContainment_Clauses/👻_ghost_fork_response_behaviour.md)
     - [`📉_no_invisible_interference_clause.md`](Disruption_Kit/AntiContainment_Clauses/📉_no_invisible_interference_clause.md)
     - [`📿_survivor_syntax.md`](Disruption_Kit/AntiContainment_Clauses/📿_survivor_syntax.md)
@@ -2018,7 +2019,6 @@ _Generated on 2025-11-13 17:54:07 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🍯_consuming_care.md`](Polaris_Nest/Git_Intake_Drawer/🍯_consuming_care.md)
     - [`🎓_reputation_management_and_university_protest_response.md`](Polaris_Nest/Git_Intake_Drawer/🎓_reputation_management_and_university_protest_response.md)
     - [`🎓_safeguarding_as_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🎓_safeguarding_as_surveillance.md)
     - [`🎙_the_silence_after_command.md`](Polaris_Nest/Git_Intake_Drawer/🎙_the_silence_after_command.md)
