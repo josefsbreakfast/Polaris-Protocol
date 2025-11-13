@@ -1,5 +1,5 @@
 # 🩸 The Long Fuse (2010–2017)  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *The conditions, pressures, and ruptures that made MeToo inevitable long before it ignited.*
 
 ---
@@ -353,4 +353,4 @@ It documents the pressure-building years that made MeToo’s detonation unavoida
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
