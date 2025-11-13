@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:16:09 UTC_
+_Generated on 2025-11-13 03:16:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -455,7 +455,6 @@ _Generated on 2025-11-13 03:16:09 UTC_
           - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
         - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/)
           - [**🏏_Pitch_at_Palace_Audit_Practice/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/)
-            - [`📈_meta_linkages.yaml`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
             - [`📊_cricket_and_open_source_investigation_theory.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
             - [`📜_foi_and_sar_exercise_pack.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
             - [`🔍_how_to_trace_event_data_flows.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md)
@@ -2649,6 +2648,7 @@ _Generated on 2025-11-13 03:16:09 UTC_
       - [`🎭_why_it_attracts_bad_actors.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
       - [`🏏_test_cricket_for_public_service.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
       - [`👑_pitch_palace_outpicture_paths.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/👑_pitch_palace_outpicture_paths.md)
+      - [`📈_meta_linkages.yaml`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
     - [**🏛️_Civil_Security/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/)
       - [**🎿_Routes_Overview_Piste_Map/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/)
         - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/README.md)
