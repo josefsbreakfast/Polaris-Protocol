@@ -1,5 +1,5 @@
 # 🐝 Consuming Care — From Cipher to Spectacle  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-13  
 *How love languages became data languages.*
 
 ---
@@ -105,10 +105,11 @@ ritual architecture, thresholds, love as code, sweetheart rings, DNA jewellery, 
 *🐝 Consuming Care — From Cipher to Spectacle* is a living node of the **Polaris Protocol**.  
 It traces how private rituals of affection are transmuted into public algorithms and asks what forms of love can still survive translation.  
 
-> 📡 Cross-references:  
-> - [🪄 Expression of Norms](../Big_Picture_Protocols/🪄_Expression_Of_Norms/) — visibility, compliance and media culture  
-> - [🫀 Our Hearts Our Minds](../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/) — care ethics and emotional architecture  
+> 📡 Cross-references:
+> 
+> - [🪄 Expression of Norms](../Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md) — *visibility, compliance and media culture*  
+> - [🫀 Our Hearts Our Minds](../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md) — *care ethics and emotional architecture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-13_
