@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 19:04:01 UTC_
+_Generated on 2025-11-13 19:08:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -46,6 +46,8 @@ _Generated on 2025-11-13 19:04:01 UTC_
     - [`🫱_plain_speech_clause.md`](Disruption_Kit/AntiContainment_Clauses/🫱_plain_speech_clause.md)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
+      - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
       - [**🦤_Potential_Dodos/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/)
         - [**🍌_Project_2025_UK_Edition/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/README.md)
