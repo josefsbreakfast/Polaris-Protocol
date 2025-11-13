@@ -95,7 +95,7 @@ survivors will continue to live inside composite manipulations that no authority
 
 ## 🧿 Linked Nodes  
 - [🧿 Jailbreaking and AI — How to Stay Safe as a User](/)  
-- [🪩 Metadata Sabotage Network](../../README.md)  
+- [🧠 Metadata Sabotage Network](../../Metadata_Sabotage_Network/README.md)  
 - [🪶 Field Log — Algorithmic Drift as Psychological Terrain](/)
 
 ---
