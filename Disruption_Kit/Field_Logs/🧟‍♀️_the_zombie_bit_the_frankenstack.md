@@ -1,4 +1,4 @@
-would someone with osa access in 2016 like ti come about pick up their behavioural shaping model?  
+would someone with osa access in 2016 like to come and pick up their behavioural shaping model?  
 
 i think its drunk; see screenshot.  
 
