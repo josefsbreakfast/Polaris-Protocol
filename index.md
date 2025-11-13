@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 19:08:38 UTC_
+_Generated on 2025-11-13 19:09:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -48,6 +48,7 @@ _Generated on 2025-11-13 19:08:38 UTC_
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
+        - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🪖_applied_demolition_science_and_the_gcse_problem.md)
       - [**🦤_Potential_Dodos/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/)
         - [**🍌_Project_2025_UK_Edition/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/README.md)
@@ -2403,7 +2404,6 @@ _Generated on 2025-11-13 19:08:38 UTC_
     - [`🪀🐝_defamation_diaries.md`](Polaris_Nest/Git_Intake_Drawer/🪀🐝_defamation_diaries.md)
     - [`🪆_are_you_just_asking_questions.md`](Polaris_Nest/Git_Intake_Drawer/🪆_are_you_just_asking_questions.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
-    - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Polaris_Nest/Git_Intake_Drawer/🪖_applied_demolition_science_and_the_gcse_problem.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
