@@ -1,5 +1,5 @@
 # 🪶 Narrative Saturation  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *When reputational storytelling devours reality.*
 
 ---
@@ -79,14 +79,14 @@ reputational storytelling, performance creep, optics, narrative gravity, PR orbi
 
 ## 🏮 Footer  
 
-*Narrative Saturation* is a living node of the **Polaris Protocol**.  
+*🪶 Narrative Saturation* is a living node of the **Polaris Protocol**.  
 It analyses how reputational storytelling overtakes governance and how to re-introduce contradiction and humour as truth signals.  
 
-> 📡 Cross-references:  
-> - [📄 The Form and the Feeling](../📄_the_form_and_the_feeling.md) — bureaucracy and embarrassment  
-> - [💫 The Middle Register](../💫_the_middle_register.md) — emotional nuance in flattened systems  
-> - [☔️ Protocol Integrity SOP](../../../Admin_Kit/☔️_protocol_integrity_sop.md) — consistency and fidelity checks  
+> 📡 Cross-references:
+> 
+> - [📄 The Form and the Feeling](/) — *bureaucracy and embarrassment*  
+> - [💫 The Middle Register](/) — *emotional nuance in flattened systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
