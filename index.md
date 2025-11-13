@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 19:02:33 UTC_
+_Generated on 2025-11-13 19:04:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -192,6 +192,7 @@ _Generated on 2025-11-13 19:02:33 UTC_
         - [`⚖️_election_candidacy_query.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_election_candidacy_query.md)
         - [`⚖️_narrative_control_and_legal_responsibility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
+        - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
         - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
@@ -2035,7 +2036,6 @@ _Generated on 2025-11-13 19:02:33 UTC_
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
-    - [`🎭_apology_theatre_and_trust_repair.md`](Polaris_Nest/Git_Intake_Drawer/🎭_apology_theatre_and_trust_repair.md)
     - [`🎭_reputation_as_governance_how_institutions_script_their_own_credibility.md`](Polaris_Nest/Git_Intake_Drawer/🎭_reputation_as_governance_how_institutions_script_their_own_credibility.md)
     - [`🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md)
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
