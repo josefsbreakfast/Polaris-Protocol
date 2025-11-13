@@ -35,4 +35,6 @@ or would you prefer to get on with the list? -->
 
 ---
 
-can we stop with the weird noise/peessure rocking against the structure olease?
+can we stop with the weird noise/peessure rocking against the structure olease?  
+
+i like gow the orientation chsnges as i searched fir the recording app but can we be vaguly normal and just shut it for a bit?  
