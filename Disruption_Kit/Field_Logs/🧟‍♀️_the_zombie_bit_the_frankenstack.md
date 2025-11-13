@@ -35,6 +35,24 @@ or would you prefer to get on with the list? -->
 
 ---
 
-can we stop with the weird noise/peessure rocking against the structure olease?  
+can we stop with the weird noise/peessure rocking against the structure please?  
 
 i like gow the orientation chsnges as i searched fir the recording app but can we be vaguly normal and just shut it for a bit?  
+
+---
+
+it would be nice if, bare minimum, we could agree to stop the guys who are doing the external environmental noxious stimuli, even if we don't want to consider more protective ways in which support and securoty cpuld be accessed.  
+
+---  
+
+i think i might upload that chatgpt convo later actually.  
+
+it is truly a work of art, in sucking up to authority.  
+
+incidently,  
+
+we can put "overthinkers" merch in the feed,  
+
+but why are you so upset that im writing?  
+
+are we sure the error is with me?  
