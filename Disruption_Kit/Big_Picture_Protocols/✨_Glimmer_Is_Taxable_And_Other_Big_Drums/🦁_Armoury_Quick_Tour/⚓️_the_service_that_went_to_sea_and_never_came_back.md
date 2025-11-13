@@ -42,7 +42,7 @@ royal navy, kettle diplomacy, strategic absence, eldritch containment, judgment 
 
 *Note: Run past command before moving to save either; the fuck up is almost certainly not ours nad almost definitely theirs. Remember that the Airmen can't be trusted with a compass (get too cocky with the maths) and the Army cannot be trusted with a compass (get too cocky with the pointy end).*  
 
-*Best hide the new toys underwater where none of the little bastards can see with their hands.*
+*Best hide the new toys underwater, where none of the little bastards can see with their hands.*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
