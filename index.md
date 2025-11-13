@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 02:59:47 UTC_
+_Generated on 2025-11-13 03:00:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1975,7 +1975,6 @@ _Generated on 2025-11-13 02:59:47 UTC_
       - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_accountability_failures_and_public_trust.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
       - [`🧭_overview_pitch_at_palace_structure.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
-      - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🧱_trickle_down_impunity.md)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
       - [`archive_capture_template.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/archive_capture_template.md)
@@ -2374,6 +2373,7 @@ _Generated on 2025-11-13 02:59:47 UTC_
     - [`🧱_ideological_loyalty_as_pyramid_scheme.md`](Polaris_Nest/Git_Intake_Drawer/🧱_ideological_loyalty_as_pyramid_scheme.md)
     - [`🧱_rise_of_algorithmic_safety_in_the_uk_internet.md`](Polaris_Nest/Git_Intake_Drawer/🧱_rise_of_algorithmic_safety_in_the_uk_internet.md)
     - [`🧱_transparent_guardrail_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_transparent_guardrail_design.md)
+    - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🧱_trickle_down_impunity.md)
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
     - [`🧵_overproduction_as_human_boredom_response.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_as_human_boredom_response.md)
     - [`🧶_politics_is_just_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_politics_is_just_gossip_with_a_pay_grade.md)
