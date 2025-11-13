@@ -107,4 +107,16 @@ That's why we're essentially living in World War II and no one's admitting it we
 
 Although I feel it has gone a little too far. 🙄  
 
-that said, I would prefer we don't burn our own house down.
+that said, I would prefer we don't burn our own house down.  
+
+---
+
+I would like to formally ask the cabinet to reconsider the concerns that were buried in 2022; I would like us to reopen the concerns from the whistleblower, who apparently was the only one in the room with either the common sense or the balls to raise the fact that this is apart from morally wrong, a huge security concern longterm, and could only possibly be in the intelligence communities interest if we were to misinterpret IPA and protect non-British assets on British islands above British citizens.  
+
+I have a lot of bones to pick with the book, and I do find his face frustrating, but on this particular point, I will concede agreement.  
+
+Not just for myself; this was an extreme error of judgement by the conservative government, and this was probably based on inaccurate or incomplete security advice.  
+
+Or we were sucking up to people who are no longer deemed trustworthy by the public.  
+
+Better to level the score before the match is rained off; the rain here is rather unpredictable, no? And we are out at the summer months; we no longer have Hindustan to retreat to.  
