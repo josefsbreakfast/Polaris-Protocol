@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:45:26 UTC_
+_Generated on 2025-11-13 18:55:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -298,6 +298,7 @@ _Generated on 2025-11-13 18:45:26 UTC_
         - [`⛩️_postmodern_gateway.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
         - [`✝️_protestant_work_ethic_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)
         - [`🌒_charisma_as_container.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🌒_charisma_as_container.md)
+        - [`🎙️_the_state_that_cannot_sing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎙️_the_state_that_cannot_sing.md)
         - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
         - [`🏛_british_museum_act_1963_futility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏛_british_museum_act_1963_futility.md)
         - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
@@ -2032,7 +2033,6 @@ _Generated on 2025-11-13 18:45:26 UTC_
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
-    - [`🎙️_the_state_that_cannot_sing.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_the_state_that_cannot_sing.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
     - [`🎭_apology_theatre_and_trust_repair.md`](Polaris_Nest/Git_Intake_Drawer/🎭_apology_theatre_and_trust_repair.md)
