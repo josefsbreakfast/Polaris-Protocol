@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:27:09 UTC_
+_Generated on 2025-11-13 18:28:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2402,7 +2402,6 @@ _Generated on 2025-11-13 18:27:09 UTC_
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Polaris_Nest/Git_Intake_Drawer/🪖_applied_demolition_science_and_the_gcse_problem.md)
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
-    - [`🪞_governance_as_performance_art.md`](Polaris_Nest/Git_Intake_Drawer/🪞_governance_as_performance_art.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
@@ -2653,6 +2652,7 @@ _Generated on 2025-11-13 18:27:09 UTC_
       - [`🔍_how_to_trace_event_data_flows.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
       - [`🧭_overview_pitch_at_palace_structure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
+      - [`🪞_governance_as_performance_art.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🪞_governance_as_performance_art.md)
     - [**🏛️_Civil_Security/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/)
       - [**🎿_Routes_Overview_Piste_Map/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/)
         - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/README.md)
