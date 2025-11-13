@@ -1,7 +1,7 @@
 # ⚓️ The Service That Went to Sea and Never Came Back  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *Navy as quantum maritime mystery and tea-based security culture.*  
-
+<!--Guarding krakens and keeping British men in maritime garden sheds since 1543.-->
 ---
 
 ## 🛰️ Orientation  
@@ -34,10 +34,12 @@ royal navy, kettle diplomacy, strategic absence, eldritch containment, judgment 
 
 ## 🏮 Footer  
 *⚓️ The Service That Went to Sea and Never Came Back* is a living node of the Polaris Protocol.  
-> 📡 Cross-references:  
+
+> 📡 Cross-references:
+> 
 > - [🪖 Applied Demolition Science and the GCSE Problem](./🪖_applied_demolition_science_and_the_gcse_problem.md)  
 > - [⚖️ Shielded Roles and Information Risk Governance](../⚖️_shielded_roles_and_information_risk_governance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
