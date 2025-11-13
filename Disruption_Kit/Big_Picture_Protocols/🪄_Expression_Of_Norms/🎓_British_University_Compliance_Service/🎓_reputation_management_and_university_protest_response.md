@@ -1,5 +1,5 @@
 # 🎓 Reputation Management and University Protest Response  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-13  
 *How reputation-management firms enter campus governance and reshape public protest into “brand risk.”*  
 
 ---
@@ -87,13 +87,14 @@ university protests, encampments, reputation management, crisis communications, 
 ---
 
 ## 🏮 Footer  
-*Reputation Management and University Protest Response* is a living node of the Polaris Protocol.  
+*🎓 Reputation Management and University Protest Response* is a living node of the Polaris Protocol.  
 It documents how private-sector reputation logic infiltrates academic institutions, reframing civic protest as risk to be managed rather than dialogue to be heard.  
 
-> 📡 Cross-references:  
-> - [🕸️ Interlocking Influence Economy](./🕸️_interlocking_influence_economy.md) — shared personnel and tradecraft across influence industries  
-> - [⚖️ Citizen Recourse: Private Surveillance in the UK](./⚖️_citizen_recourse_private_surveillance_uk.md) — legal and civic mechanisms of redress  
+> 📡 Cross-references:
+> 
+> - [🕸️ Interlocking Influence Economy](/) — *shared personnel and tradecraft across influence industries*  
+> - [⚖️ Citizen Recourse: Private Surveillance in the UK](/) — *legal and civic mechanisms of redress*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_  
+_Last updated: 2025-11-13_  
