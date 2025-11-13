@@ -1,5 +1,5 @@
 # 🩹 Pain Is Not a KPI  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-10  
+**First created:** 2025-11-10 | **Last updated:** 2025-11-13  
 *Why unmeasured pain attracts technology instead of staffing.*
 
 ---
@@ -171,13 +171,14 @@ nhs kpi, pain management, staffing crisis, health economics, chronic pain cost, 
 
 ## 🏮 Footer  
 
-*Pain Is Not a KPI* is a living node of the Polaris Protocol.  
+*🩹 Pain Is Not a KPI* is a living node of the Polaris Protocol.  
 It maps how unmeasured suffering becomes a target for technological “solutions” instead of resourcing the humans who could address it directly.  
 
-> 📡 Cross-references:  
-> - [⚖️ The Teaching Hospital Loophole](./⚖️_the_teaching_hospital_loophole.md) — consent laundering in “teaching” environments  
-> - [🧠 Systems & Governance](../Big_Picture_Protocols/🌀_systems_&_governance/) — incentive design and oversight architectures  
+> 📡 Cross-references:
+> 
+> - [⚖️ The Teaching Hospital Loophole](../🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md) — *consent laundering in “teaching” environments*  
+> - [🌀 Systems & Governance](../README.md) — *incentive design and oversight architectures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-10_
+_Last updated: 2025-11-13_
