@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 20:12:34 UTC_
+_Generated on 2025-11-13 20:14:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -273,6 +273,7 @@ _Generated on 2025-11-13 20:12:34 UTC_
         - [`⚖️_the_teaching_hospital_loophole.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md)
         - [`✨_defeated_by_audit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/✨_defeated_by_audit.md)
         - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🌀_rune_the_dev.png)
+        - [`🎭_the_recognisable_researcher.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🎭_the_recognisable_researcher.md)
         - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/📁_absence_of_check_in.md)
         - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
         - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧠_the_dev.md)
@@ -2054,7 +2055,6 @@ _Generated on 2025-11-13 20:12:34 UTC_
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
-    - [`🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md)
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
     - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Polaris_Nest/Git_Intake_Drawer/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
     - [`🎶_good_taste_vs_surveillance_taste.md`](Polaris_Nest/Git_Intake_Drawer/🎶_good_taste_vs_surveillance_taste.md)
