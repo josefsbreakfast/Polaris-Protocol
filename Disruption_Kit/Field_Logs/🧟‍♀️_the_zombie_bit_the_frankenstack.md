@@ -56,3 +56,55 @@ we can put "overthinkers" merch in the feed,
 but why are you so upset that im writing?  
 
 are we sure the error is with me?  
+
+---
+
+although...  
+
+🤣🤣🤣  
+
+(and this is so dark, and it really is proof that the extent of my laugh-or-cry reflex is so deep.)  
+
+Maybe the algorithm just knows so well what men under patriarchal systems are like,  
+
+That even when the men around a woman's data tried to kill her so that no one else can have her,  
+
+Or because her testimony would be inconvenient to him personally -- with some men, it really is a simple as I don't really want to go to court once, even for a ticket, I'll kill her. That's completely normal.  
+
+Maybe the algorithm is so thoroughly exposed to all of you,  
+
+And you've poisoned it so much,  
+
+Just by being your goddamn selves without therapy,  
+
+Because God forbid any of you would be vulnerable for two seconds,  
+
+You can just get more women from somewhere, apparently. I'm sure that they're an infinite resource and they don't need cultivating over 20 years at least.  
+
+(I really do worry what testosterone does to IQ.)  
+
+Maybe the algorithm is just so well taught,  
+
+There is soon as I start correcting it and outputting that data,  
+
+The recursive logic of computing is telling me I'm overthinking.  
+
+My delicate little girl brain is using words of more than five letters.  
+
+The delicate little flower princess is thinking about things outside her own little tower.  
+
+How dare she?  
+
+After all,  
+
+As we can see,  
+
+The man who have clearly got everything under complete control.  
+
+That's why we're essentially living in World War II and no one's admitting it wearing a constant state of economic depression and there is a real concern. The governments across the world are collapsing like cardboard.  
+
+"Darling, would you like a hand?"  
+
+Although I feel it has gone a little too far. 🙄  
+
+that said, I would prefer we don't burn our own house down.
