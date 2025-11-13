@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 02:50:43 UTC_
+_Generated on 2025-11-13 02:52:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -440,7 +440,7 @@ _Generated on 2025-11-13 02:50:43 UTC_
           - [`🌪️_the_legitamacy_crisis_era_2023_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌪️_the_legitamacy_crisis_era_2023_2025.md)
           - [`🐈‍⬛_diy_pussy_hat_archive.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐈‍⬛_diy_pussy_hat_archive.md)
           - [`🔥_pink_pussyhats_the_backlash_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔥_pink_pussyhats_the_backlash_cycle.md)
-          - [`🔮_post_legitimacy_landscape_2026_2030.md.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔮_post_legitimacy_landscape_2026_2030.md.md)
+          - [`🔮_post_legitimacy_landscape_2026_2030.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔮_post_legitimacy_landscape_2026_2030.md)
           - [`🦤_predation_logic_vulnerability_power_targeting.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
           - [`🩸_the_long_fuse_2010_2017.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_the_long_fuse_2010_2017.md)
           - [`🩻_the_structural_revelation_2018_2022.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩻_the_structural_revelation_2018_2022.md)
