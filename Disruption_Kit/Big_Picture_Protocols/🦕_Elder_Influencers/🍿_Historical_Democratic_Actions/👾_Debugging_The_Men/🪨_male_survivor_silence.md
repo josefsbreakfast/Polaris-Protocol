@@ -1,7 +1,8 @@
 # 🪨 Male Survivor Silence — How Patriarchy Forbids Men From Speaking About Their Trauma
 **First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *Why so many men, boys, and trans men carry sexual trauma alone — and how silence is enforced structurally.*
-
+<!--Last time I checked, a tiger does not suddenly become unstriped, nor any less formidable, once he is injured; he is still exactly who he is, regardless of what has been done to him. 
+I gather a number of humans find this rather frustrating, in fact.-->
 ---
 
 ## 🛰️ Orientation
@@ -84,8 +85,8 @@ It restores visibility to male survivors whose trauma has been systemically eras
 > 📡 Cross-references:  
 > 
 > - [🩸 The Long Fuse (2010–2017)](./🩸_the_long_fuse_2010_2017.md)
-> - [🧱 Predation Logic — Vulnerability, Power, and Targeting](./🧱_predation_logic_vulnerability_power_targeting.md)
+> - [🦤 Predation Logic — Vulnerability, Power, and Targeting](./🦤_predation_logic_vulnerability_power_targeting.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
