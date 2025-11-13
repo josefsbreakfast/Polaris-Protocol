@@ -4,13 +4,10 @@
 
 ```mermaid
 graph TD
-    A[⚖️ Law<br/>Legal & Platform Enforcement] --> D((🫀 Human Feedback Loop))
-    B[🪞 Context<br/>Multimodal Realism & Behavioural Coherence] --> D
-    C[🧬 Data<br/>Scale, Annotation, Diversity] --> D
-    D --> E[🪞 Gendered Risk<br/>"Living in the Gap"]
-    style D fill:#f5f5f5,stroke:#999,stroke-width:1px
-    style E fill:#fdeef5,stroke:#999,stroke-width:1px
-    classDef outer fill:#eaf6ff,stroke:#999,stroke-width:1px
+    A[⚖️ Law as Legal & Platform Enforcement] --> D((🫀 Human Feedback Loop))
+    B[🪞 Context as Multimodal Realism & Behavioural Coherence] --> D
+    C[🧬 Data as Scale, Annotation, Diversity] --> D
+    D --> E[🪞 Gendered Risk ie Living in the Gap]
     class A,B,C outer
 ```
 
