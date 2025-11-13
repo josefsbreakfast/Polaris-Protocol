@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 03:10:58 UTC_
+_Generated on 2025-11-13 03:11:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1953,7 +1953,6 @@ _Generated on 2025-11-13 03:10:58 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/README.md)
-      - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🗞️_institutional_silence_as_public_signal.md)
       - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🚪_doorbell_of_denial.md)
       - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🦇_prestige_capture_mechanisms.md)
       - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice/🦚_the_peacock_principle.md)
@@ -2218,6 +2217,7 @@ _Generated on 2025-11-13 03:10:58 UTC_
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🖍️_the_colouring_book_experiment_containment_as_curriculum.md`](Polaris_Nest/Git_Intake_Drawer/🖍️_the_colouring_book_experiment_containment_as_curriculum.md)
     - [`🗂️_data_sharing_trace_mod_links.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_data_sharing_trace_mod_links.md)
+    - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_data_majority_as_narrative_voice_voting_by_volume.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_data_majority_as_narrative_voice_voting_by_volume.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗣️_how_to_detect_voice_dataset_use.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_how_to_detect_voice_dataset_use.md)
