@@ -1,11 +1,13 @@
 # ⚖️ Official Secrets Reform and Accountability  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
 *Re-examining secrecy architecture, 'perpetual hook', and controlled accountability.*  
 
 ---
 
 ## 🛰️ Orientation  
-The Official Secrets Act was designed for a 1940s world of filing cabinets. Today it governs a cloud of commercial NDAs and digital infrastructures. Reform is not about loosening secrecy; it’s about clarifying ownership.  
+The Official Secrets Act was designed for a 1940s world of filing cabinets.  
+Today it governs a cloud of commercial NDAs and digital infrastructures.  
+Reform is not about loosening secrecy; it’s about clarifying ownership.  
 
 ---
 
@@ -32,10 +34,12 @@ official secrets act, governance reform, perpetual hook, accountability, data et
 
 ## 🏮 Footer  
 *⚖️ Official Secrets Reform and Accountability* is a living node of the Polaris Protocol.  
-> 📡 Cross-references:  
-> - [⚖️ Shielded Roles and Information Risk Governance](./⚖️_shielded_roles_and_information_risk_governance.md)  
-> - [📜 If— and the Ethics of Staying Intact](../📜_if_and_the_ethics_of_staying_intact.md)  
+
+> 📡 Cross-references:
+> 
+> - [⚖️ Shielded Roles and Information Risk Governance](/)  
+> - [📜 If— and the Ethics of Staying Intact](/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-13_
