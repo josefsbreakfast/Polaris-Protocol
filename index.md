@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:55:32 UTC_
+_Generated on 2025-11-13 19:02:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -124,6 +124,7 @@ _Generated on 2025-11-13 18:55:32 UTC_
         - [`panic_deleting_evidence.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/panic_deleting_evidence.png)
         - [`⚖️_accountability_as_alignment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_accountability_as_alignment.md)
         - [`⚖️_architecture_of_complicity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_architecture_of_complicity.md)
+        - [`⚖️_shielded_roles_and_information_risk_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_shielded_roles_and_information_risk_governance.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌅_rise_of_institutional_integrity.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
@@ -2021,7 +2022,6 @@ _Generated on 2025-11-13 18:55:32 UTC_
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
-    - [`⚖️_shielded_roles_and_information_risk_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_shielded_roles_and_information_risk_governance.md)
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
     - [`⚖️_uk_data_claim_routes_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_uk_data_claim_routes_and_limits.md)
