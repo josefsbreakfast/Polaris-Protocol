@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:37:10 UTC_
+_Generated on 2025-11-13 18:43:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1641,6 +1641,7 @@ _Generated on 2025-11-13 18:37:10 UTC_
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
       - [`⚙️_engines_of_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/⚙️_engines_of_containment.md)
+      - [`🎪_when_the_armour_cracks.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🎪_when_the_armour_cracks.md)
       - [`📊_analytics_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_analytics_as_signal.md)
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
       - [`🚦_trigger_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🚦_trigger_architecture.md)
@@ -2033,7 +2034,6 @@ _Generated on 2025-11-13 18:37:10 UTC_
     - [`🎙️_the_state_that_cannot_sing.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_the_state_that_cannot_sing.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
-    - [`🎪_when_the_armour_cracks.md`](Polaris_Nest/Git_Intake_Drawer/🎪_when_the_armour_cracks.md)
     - [`🎭_apology_theatre_and_trust_repair.md`](Polaris_Nest/Git_Intake_Drawer/🎭_apology_theatre_and_trust_repair.md)
     - [`🎭_reputation_as_governance_how_institutions_script_their_own_credibility.md`](Polaris_Nest/Git_Intake_Drawer/🎭_reputation_as_governance_how_institutions_script_their_own_credibility.md)
     - [`🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_recognisable_researcher_when_anonymised_work_becomes_common_knowledge.md)
