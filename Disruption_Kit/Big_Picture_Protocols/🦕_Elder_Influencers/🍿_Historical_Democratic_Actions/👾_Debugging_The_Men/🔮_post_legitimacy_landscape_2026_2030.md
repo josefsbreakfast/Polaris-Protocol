@@ -1,6 +1,5 @@
 # 🔮 2026–2030 — The Post-Legitimacy Landscape  
-**First created:** 2025-11-13  
-**Last updated:** 2025-11-13  
+**First created:** 2025-11-13 | **Last updated:** 2025-11-13  
 *“When the old world is dying and the new world is struggling to be born,  
 a great variety of morbid symptoms appear.”* — Antonio Gramsci
 
@@ -159,11 +158,16 @@ legitimacy crisis, projections, survivor logic, scandal cascade, generational tr
 ---
 
 ## 🏮 Footer  
-*2026–2030 — The Post-Legitimacy Landscape* is a speculative structural node of the Polaris Protocol.  
+*🔮 2026–2030 — The Post-Legitimacy Landscape* is a speculative structural node of the Polaris Protocol.  
 Not a prediction: a map of trajectories already in motion.  
 What collapses is not society — but the illusion of its custodians’ moral authority.
 
-Cross-references:  
-- 🌪️ *2023–Now — The Legitimacy Crisis Era*  
-- 🩻 *2018–2022 — Structural Revelation*  
-- ⚖️ *Reputation After Revelation*  
+> 📡 Cross-references:
+> 
+> - 🌪️ *2023–Now — The Legitimacy Crisis Era*  
+> - 🩻 *2018–2022 — Structural Revelation*  
+> - ⚖️ *Reputation After Revelation*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-11-13_
