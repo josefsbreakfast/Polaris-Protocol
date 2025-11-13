@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:08:50 UTC_
+_Generated on 2025-11-13 18:09:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2310,6 +2310,7 @@ _Generated on 2025-11-13 18:08:50 UTC_
     - [`🧩_the_data_empathy_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_data_empathy_gap.md)
     - [`🧩_twinning_as_reputation_repair.md`](Polaris_Nest/Git_Intake_Drawer/🧩_twinning_as_reputation_repair.md)
     - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_machine_tags_high_friction_profiles.md)
+    - [`🧪_how_scientists_go_nazi.md`](Polaris_Nest/Git_Intake_Drawer/🧪_how_scientists_go_nazi.md)
     - [`🧪_inspection_data_workflow_hmip_probation_university_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧪_inspection_data_workflow_hmip_probation_university_loop.md)
     - [`🧪_the_wall_tester_type.md`](Polaris_Nest/Git_Intake_Drawer/🧪_the_wall_tester_type.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
@@ -2401,6 +2402,7 @@ _Generated on 2025-11-13 18:08:50 UTC_
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_governance_as_performance_art.md`](Polaris_Nest/Git_Intake_Drawer/🪞_governance_as_performance_art.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
+    - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
     - [`🪞_the_magnifying_glass_effect.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_magnifying_glass_effect.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
