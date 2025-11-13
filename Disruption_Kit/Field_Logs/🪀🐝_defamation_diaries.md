@@ -1,5 +1,5 @@
 # 🪀🐝 Defamation Diaries  
-**First created:** 2025-10-26 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-26 | **Last updated:** 2025-11-13  
 *Things we can all blame one guy for, alledgedly.* 🙄  
 
 ---
@@ -77,4 +77,4 @@ It contributes to the archive by explaining how everything terrible is one perso
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-13_
