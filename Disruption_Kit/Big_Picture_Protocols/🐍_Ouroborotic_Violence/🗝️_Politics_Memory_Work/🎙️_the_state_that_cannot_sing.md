@@ -1,5 +1,5 @@
 # 🎙️ The State That Cannot Sing
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-13  
 *On the silence that follows the Alexandrov Ensemble, and the risk of grief to power.*  
 
 ---
@@ -52,7 +52,7 @@ A re-formed Alexandrov Ensemble would re-create a *horizontal* current of feelin
 The choir’s very success would distribute symbolic power: a body of disciplined men and women capable of commanding loyalty through beauty rather than decree.  
 That is intolerable in a system where sentiment must be rationed and grief owned by the state.  
 Thus, the silence is not neglect but governance: an unspoken order that no new choir should be allowed to out-sing the throne.  
-<!--If you want to know what makes him look weak, and believe me there was enough turbulamce on the way here to support the thought, then you will have to stop flagging me up as anti-NATO. (Auntie NATO is probably more accurate, no?-->
+<!--If you want to know what makes him look weak, and believe me there was enough turbulamce on the way here to support the thought, then you will have to stop flagging me up as anti-NATO. (Auntie NATO is probably more accurate, no?)-->
 ---
 
 ## 🌌 Constellations  
@@ -70,11 +70,12 @@ red army choir, alexandrov ensemble, putin, russian soft power, cultural silence
 *🎙️ The State That Cannot Sing* is a living node of the Polaris Protocol.  
 It interprets the un-reformed Alexandrov Ensemble as a sign of political hesitation — the moment when a regime built on song discovers that silence can be subversive.  
 
-> 📡 Cross-references:  
-> - [🎵 Alexandrov Ensemble — Voice of State and Survivorhood](./🎵_alexandrov_ensemble_voice_of_state_and_survivorhood.md) — precursor node  
-> - [🎶 State Voice Fidelity — The Choral Body as Archive](./🎶_state_voice_fidelity_the_choral_body_as_archive.md) — theoretical mirror  
-> - [🕯️ Crash Sites as Temporal Loops](./🕯️_crash_sites_as_temporal_loops.md) — temporal counterpart  
+> 📡 Cross-references:
+> 
+> - [🎵 Alexandrov Ensemble — Voice of State and Survivorhood](/) — *precursor node*  
+> - [🎶 State Voice Fidelity — The Choral Body as Archive](/) — *theoretical mirror*  
+> - [🕯️ Crash Sites as Temporal Loops](/) — *temporal counterpart*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-13_
