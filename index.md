@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:04:31 UTC_
+_Generated on 2025-11-13 18:06:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1693,7 +1693,6 @@ _Generated on 2025-11-13 18:04:31 UTC_
       - [`🧬_forked_system_logic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧬_forked_system_logic.md)
       - [`🧮_integrity_drift.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧮_integrity_drift.md)
       - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
-      - [`🪶_dual_stream_manipulation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪶_dual_stream_manipulation.md)
       - [`🪼_data_twin_fatigue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪼_data_twin_fatigue.md)
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md)
@@ -2614,6 +2613,7 @@ _Generated on 2025-11-13 18:04:31 UTC_
   - [**🦴_Skeletal_Shards/**](👻_Apparitional_Objects/🦴_Skeletal_Shards/)
     - [`README.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/README.md)
     - [`🔮_challenge_of_ai.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md)
+    - [`🪶_dual_stream_manipulation.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/🪶_dual_stream_manipulation.md)
   - [`README.md`](👻_Apparitional_Objects/README.md)
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**❤️‍🩹Rehabilitated_Tech/**](🦆_Digital_Disruption/❤️‍🩹Rehabilitated_Tech/)
