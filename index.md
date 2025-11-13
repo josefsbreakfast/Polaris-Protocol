@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-13 18:23:30 UTC_
+_Generated on 2025-11-13 18:27:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -429,6 +429,7 @@ _Generated on 2025-11-13 18:23:30 UTC_
         - [`🧿_central_uncertainty_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_central_uncertainty_protocols.md)
         - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
         - [`🩸_cyclical_physiology_and_algorithmic_misread.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🩸_cyclical_physiology_and_algorithmic_misread.md)
+        - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
         - [`🪦_memory_erasure_in_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md)
         - [`🪩_no_fap_fascism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪩_no_fap_fascism.md)
         - [`🪬_appeasement_economics.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_appeasement_economics.md)
@@ -2403,7 +2404,6 @@ _Generated on 2025-11-13 18:23:30 UTC_
     - [`🪞_field_note_guardrail_encounter.md`](Polaris_Nest/Git_Intake_Drawer/🪞_field_note_guardrail_encounter.md)
     - [`🪞_governance_as_performance_art.md`](Polaris_Nest/Git_Intake_Drawer/🪞_governance_as_performance_art.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
-    - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
