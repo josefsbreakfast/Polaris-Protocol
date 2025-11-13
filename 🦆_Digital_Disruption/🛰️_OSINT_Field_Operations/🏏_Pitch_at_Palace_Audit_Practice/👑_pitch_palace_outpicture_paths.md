@@ -1,10 +1,7 @@
 # 👑 *Pitch Palace Outpicture Paths*
 **Event-Based Influence Networks and the Politics of Proximity**
 
-**Date Created:** 2025-11-03  
-**Polaris Protocol Repository**  
-**Folder:** 🏏 Pitch at Palace Audit Practice  
-**Category:** Prestige Economy / Event Diplomacy / Network Cartography  
+**Date Created:** 2025-11-03 | **Last updated:** 2025-11-13  
 
 ---
 
