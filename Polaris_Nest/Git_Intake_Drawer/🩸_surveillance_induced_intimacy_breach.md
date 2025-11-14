@@ -1,6 +1,6 @@
 # 🩸 Surveillance-Induced Intimacy Breach  
-**First created:** 2025-10-18 | **Last updated:** 2025-10-18  
-*Working note while seeking language for sexualised and psychosexual violation through surveillance.*
+**First created:** 2025-10-18 | **Last updated:** 2025-11-14  
+*Working note while seeking language for sexualised and psychosexual violation through surveillance.*  
 
 ---
 
@@ -53,10 +53,11 @@ surveillance trauma, enforced visibility, sexualisation, intimacy breach, body a
 It records the gap where language for this form of violation is still forming,  
 so future survivors need not name it alone.
 
-> 📡 Cross-references:  
-> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/) — psychological and embodied trauma analysis  
-> - [👁️‍🗨️ Witness_Historical_Casefiles](../Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/) — testimonies and suppressed histories  
+> 📡 Cross-references:
+> 
+> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/) — *psychological and embodied trauma analysis*  
+> - [👁️‍🗨️ Witness_Historical_Casefiles](../Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/) — *testimonies and suppressed histories*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-11-14_
