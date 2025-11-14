@@ -1,5 +1,5 @@
 # 🩸 Behavioural Intervention During Period  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-13 | **Last updated:** 2025-11-14  
 *On the deliberate use of hormonal or menstrual vulnerability windows as covert behavioural-control points.*  
 
 ---
@@ -74,4 +74,4 @@ It documents a coercive behavioural-control pattern that exploits hormonal vulne
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-11-14_
