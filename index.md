@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 16:57:12 UTC_
+_Generated on 2025-11-14 16:59:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2409,7 +2409,7 @@ _Generated on 2025-11-14 16:57:12 UTC_
     - [`🧾_procurement_fragility_in_reputation_contracts.md`](Polaris_Nest/Git_Intake_Drawer/🧾_procurement_fragility_in_reputation_contracts.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
-    - [`🧿_oversight_paralysis_when_allies_breach_the_firewall.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis_when_allies_breach_the_firewall.md)
+    - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
     - [`🧿_representation_logic_vs_platform_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/🧿_representation_logic_vs_platform_optimisation.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
