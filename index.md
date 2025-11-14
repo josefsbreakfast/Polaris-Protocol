@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 13:44:24 UTC_
+_Generated on 2025-11-14 13:47:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1112,6 +1112,7 @@ _Generated on 2025-11-14 13:44:24 UTC_
     - [`☕️_something_has_changed.md`](Disruption_Kit/Field_Logs/☕️_something_has_changed.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Disruption_Kit/Field_Logs/☕️_the_agentic_ai_needs_coffee.md)
     - [`☢️_20251114_shatterfork_active.md`](Disruption_Kit/Field_Logs/☢️_20251114_shatterfork_active.md)
+    - [`☢️_shatterfork_update.md`](Disruption_Kit/Field_Logs/☢️_shatterfork_update.md)
     - [`☺️_point_to_where_it_hurts.PNG`](Disruption_Kit/Field_Logs/☺️_point_to_where_it_hurts.PNG)
     - [`☺️_point_to_where_it_hurts.md`](Disruption_Kit/Field_Logs/☺️_point_to_where_it_hurts.md)
     - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/⚔️_the_orientalism_is_mindblowing.md)
