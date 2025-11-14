@@ -1,5 +1,5 @@
 # 🧾 Soft Wipe Cache Evidence — AP Wire Withdrawal Pattern  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
+**First created:** 2025-10-25 | **Last updated:** 2025-11-14  
 *When deletion is simulated but metadata endures.*
 
 ---
@@ -74,11 +74,12 @@ soft wipe, cache evidence, AP wire withdrawal, metadata suppression, content pla
 *🧾 Soft Wipe Cache Evidence — AP Wire Withdrawal Pattern* is a living node of the **Polaris Protocol**.  
 It documents the mechanism by which publication surfaces simulate deletion while metadata endures, enabling traceable study of post-publication suppression.  
 
-> 📡 Cross-references:  
-> - [🕍 Babel Test — Parsha Noach and the Mahmoud Khalil Mirror](../../Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🕍_babel_test_parsha_noach_and_the_mahmoud_khalil_mirror.md)  
-> - [🧼 System Leakage Signatures](./README.md)  
-> - [🧿 Watch the Watchers](../../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/)  
+> 📡 Cross-references:
+> 
+> - [🕍 Babel Test — Parsha Noach and the Mahmoud Khalil Mirror]  
+> - [🧼 System Leakage Signatures](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)  
+> - [🧿 Watch the Watchers](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-25_
+_Last updated: 2025-11-14_
