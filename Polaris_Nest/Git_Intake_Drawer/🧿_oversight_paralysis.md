@@ -1,5 +1,5 @@
 # 🧿 Oversight Paralysis — When Allies Breach the Firewall  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-26 | **Last updated:** 2025-11-14  
 *UK state-ally cyber interference and the capture of domestic redress mechanisms.*
 
 ---
@@ -79,16 +79,17 @@ cyber interference, oversight capture, pre-action protocol, harassment, judicial
 
 ## 🏮 Footer  
 
-*Oversight Paralysis — When Allies Breach the Firewall* is a living node of the **Polaris Protocol**.  
+*🧿 Oversight Paralysis — When Allies Breach the Firewall* is a living node of the **Polaris Protocol**.  
 It maps the thresholds at which lawful remedy collapses under the weight of allied influence and bureaucratic fear.  
 
-> 📡 Cross-references:  
-> - [⚖️ Legal & State Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/) — rule-of-law structures and Cabinet duty chains  
-> - [🉑 System Thresholds](../../🌀_System_Governance/💫_Containment_Logic/🉑_system_thresholds.md) — escalation triggers and procedural loops  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/) — behavioural containment logics  
-> - [Survivor Tools](../../../Disruption_Kit/Survivor_Tools/) — templates for lawful correspondence and evidence preservation  
+> 📡 Cross-references:
+> 
+> - [⚖️ Legal & State Governance](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md) — *rule-of-law structures and Cabinet duty chains*  
+> - [🉑 System Thresholds](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md) — *escalation triggers and procedural loops*  
+> - [🧠 HM Dept Coercive Nudges](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural containment logics*  
+> - [🧬 Survivor Tools](Disruption_Kit/Survivor_Tools/README.md) — *templates for lawful correspondence and evidence preservation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-11-14_
 
