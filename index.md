@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 16:59:44 UTC_
+_Generated on 2025-11-14 17:00:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2403,7 +2403,7 @@ _Generated on 2025-11-14 16:59:44 UTC_
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
     - [`🧵_overproduction_as_human_boredom_response.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_as_human_boredom_response.md)
     - [`🧶_politics_is_just_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_politics_is_just_gossip_with_a_pay_grade.md)
-    - [`🧼_courtier_class_in_the_age_of_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_in_the_age_of_austerity.md)
+    - [`🧼_courtier_class_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_austerity.md)
     - [`🧾_data_lineage_review_how_to_trace_a_records_provenance.md`](Polaris_Nest/Git_Intake_Drawer/🧾_data_lineage_review_how_to_trace_a_records_provenance.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
     - [`🧾_procurement_fragility_in_reputation_contracts.md`](Polaris_Nest/Git_Intake_Drawer/🧾_procurement_fragility_in_reputation_contracts.md)
