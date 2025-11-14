@@ -1,5 +1,5 @@
 # ❤️‍🩹 Rehabilitated Tech  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-14  
 *Design sketches, ethical blueprints, and speculative prototypes for a healthier relationship between humans and technology.*
 
 ---
@@ -98,4 +98,4 @@ It re-imagines the human–machine relationship through a lens of care, consent,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-14_
