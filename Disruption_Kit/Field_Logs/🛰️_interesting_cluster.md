@@ -39,3 +39,13 @@ They were on a little bit of a touchy subject.
 Kindly stop rerouting the Ministry of Justice AI triage; it is rather irritating.  
 
 in fact, an awful lot of the problem we are currently in could've been avoided, had that behaviour been avoided earlier.  
+
+---
+
+at least from today we can confirm that it takes longer to hijack protons version of an AI chat bot then it takes to hijack openAI's version of that product.
+
+It also seems to be easier for our esteemed colleagues on the other side of the wallto produce more cohesive results with access to open AI   to produce more cohesive results with access to open AI.  
+
+So far, the best that's been done on Lumo is just to take out parts of the instruction, so as if a command has been muted.  
+
+
