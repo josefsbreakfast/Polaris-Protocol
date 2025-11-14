@@ -1,5 +1,5 @@
 # 🧵 Overproduction as Human Boredom Response  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
+**First created:** 2025-11-01 | **Last updated:** 2025-11-14  
 *How containment, boredom, and constraint translate into impossible productivity metrics.*
 <!--Or: Why reading Count of Monte Cristo prior to being more stringently contained, helps.-->
 ---
@@ -78,11 +78,12 @@ boredom loops, overproduction, containment reflex, survivor tempo, loop pressure
 *🧵 Overproduction as Human Boredom Response* is a living node of the Polaris Protocol.  
 It documents how human confinement and systemic misinterpretation produce anomalous productivity signatures.  
 
-> 📡 Cross-references:  
-> - [🎙 The Silence After Command](../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎙_the_silence_after_command.md) — de-escalation by absence  
-> - [👁 Finch and the Limits of Obedience](../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/👁_finch_and_the_limits_of_obedience.md) — ethics of ordinary complicity  
+> 📡 Cross-references:
+> 
+> - [🎙 The Silence After Command](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎙_the_silence_after_command.md) — *de-escalation by absence*  
+> - [👁 Finch and the Limits of Obedience](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/👁_finch_and_the_limits_of_obedience.md) — *ethics of ordinary complicity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-14_
 
