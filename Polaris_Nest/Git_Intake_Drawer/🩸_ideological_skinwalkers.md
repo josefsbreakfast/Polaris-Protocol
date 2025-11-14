@@ -1,5 +1,5 @@
 # 🩸 Ideological Skinwalkers  
-**First created:** 2025-10-23  |  **Last updated:** 2025-10-23  
+**First created:** 2025-10-23  |  **Last updated:** 2025-11-14  
 *When conviction becomes costume.*
 
 ---
@@ -169,11 +169,12 @@ Tony Blair, David Cameron, George W. Bush, leadership mimicry, moral flexibility
 *🩸 Ideological Skinwalkers* is a living node of the Polaris Protocol.  
 It documents the late-modern shift from ideological conflict to aesthetic mimicry — leadership as costume, conviction as choreography.  
 
-> 📡 Cross-references:  
->  - [🪄 Expression of Norms](../Big_Picture_Protocols/🪄_Expression_Of_Norms/) — compliance culture & media choreography  
->  - [🦕 Elder Influencers → 🕸️ World Webs](../Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/) — networked legacy power  
->  - [🧿 Watch the Watchers](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/) — optics of authority  
+> 📡 Cross-references:
+> 
+>  - [🪄 Expression of Norms](../Big_Picture_Protocols/🪄_Expression_Of_Norms/) — *compliance culture & media choreography*  
+>  - [🦕 Elder Influencers → 🕸️ World Webs](../Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/) — *networked legacy power*  
+>  - [🧿 Watch the Watchers](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/) — *optics of authority*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-14_
