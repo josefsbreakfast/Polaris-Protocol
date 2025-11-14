@@ -64,9 +64,9 @@ It documents SASSI as a functional prototype of civic accountability for surveil
 
 > 📡 Cross-references:
 > 
-> - [🛰️ SASSI Southern Surveillance Map](../🛰️_sassi_southern_surveillance_map.md)  
-> - [⚖️ United Fronts as Democratic Defence](../⚖️_united_fronts_democratic_defence.md)  
-> - [🐝 All In Commons](../../🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
+> - [🛰️ SASSI Southern Surveillance Map]  
+> - [⚖️ United Fronts as Democratic Defence]  
+> - [🐝 All In Commons](../🐝_All_In_Commons/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
