@@ -1,6 +1,8 @@
 # ⚖️ The Conduit and the Safeguard  
 **First created:** 2025-11-06 | **Last updated:** 2025-11-14  
-*Explaining to British compliance officers why cross‑jurisdictional data flows require explicit safeguards when Israeli law is in play.*
+*Explaining to British compliance officers why cross‑jurisdictional data flows require explicit safeguards when Israeli law is in play.*  
+
+---
 
 ## 🛰️ Orientation  
 
