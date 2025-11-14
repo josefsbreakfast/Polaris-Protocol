@@ -1,5 +1,5 @@
 # 🪐 OSA / Residual Flag Governance Cluster  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-14  
 *Micro-suite index linking all nodes concerned with false security classification, governance failure, and systemic rectification.*
 
 ---
@@ -61,11 +61,10 @@ osa flag, residual data, metadata governance, council monitoring officer, white 
 *🪐 OSA / Residual Flag Governance Cluster* is a living micro-suite of the **Polaris Protocol**.  
 It documents the full procedural chain from discovery of a false security mark to systemic rectification and regulatory closure.
 
-> 📡 Cross-references:  
-> – [☔️ Protocol Integrity SOP](../🏮_Polaris_Nest/☔️_protocol_integrity_sop.md)  
-> – [🎛️ Drafting Rules — Survivor Voice Fidelity](../🏮_Polaris_Nest/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> – [🧿 Visual Palette](../🏮_Polaris_Nest/🧿_visual_palette.md)
+> 📡 Cross-references:
+> 
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-14_
