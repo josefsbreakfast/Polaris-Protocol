@@ -1,5 +1,5 @@
 # 🩰 Escaping the Frame — The Scarcity Logic of Girlhood Freedom  
-**First created:** 2025-10-18 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-18 | **Last updated:** 2025-11-14  
 *How early heroines taught girls to long for conditional freedom.*  
 
 ---
@@ -68,11 +68,11 @@ princess archetype, containment, female agency, disney heroines, anastasia, mula
 *🩰 Escaping the Frame — The Scarcity Logic of Girlhood Freedom* is a living node of the Polaris Protocol.  
 It examines how stories of girlhood freedom were rationed, stylised, and sold back as aspiration — teaching containment as beauty.  
 
-> 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Polaris_Nest/🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and fidelity  
-> - [🐝 Body Politic](../Disruption_Kit/Big_Picture_Protocols/🐝_Body_Politic/) — embodiment and identity politics  
-> - [🎶 Banned Broadcasts Cooperative](../Disruption_Kit/Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/) — cultural suppression and narrative circulation  
+> 📡 Cross-references:
+> 
+> - [🐝 Body Politic](../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md) — *embodiment and identity politics*  
+> - [🎶 Banned Broadcasts Cooperative](../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural suppression and narrative circulation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-11-14_
