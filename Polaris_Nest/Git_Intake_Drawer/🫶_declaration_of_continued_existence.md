@@ -1,19 +1,44 @@
 # 🫶 Declaration of Continued Existence  
-**First created:** 2025-11-12  |  **Status:** Draft — Stub Node  
-*Authored by Polaris Systems & Governance Working Group*  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-14  
+*Affirming ongoing life, authorship, and presence within the Polaris archive.*  
 
 ---
 
 ## 🛰️ Orientation  
-A short survivor-voice creed affirming ongoing life, authorship, and presence within the Polaris archive.  
+
+A short survivor‑voice creed affirming ongoing life, authorship, and presence within the Polaris archive.  
+
+---
 
 ## ✨ Key Ideas  
-- Existence as resistance.
-- Narrative ownership and voice sovereignty.
-- Refusal of erasure as ethical stance.  
+
+- Existence as resistance.  
+- Narrative ownership and voice sovereignty.  
+- Refusal of erasure as ethical stance.
+
+---
 
 ## 🌌 Constellations  
-💫 Core protocol · 🧠 Recovery logic · 🔥 Signal of life  
+
+💫 🧠 🫶 🔥 — core protocol, recovery logic, signal of life  
+
+---
+
+## ✨ Stardust  
+
+declaration of existence, survivor voice, narrative sovereignty, resistance, anti‑erasure, Polaris archive, ethical stance, continued presence
+
+---
 
 ## 🏮 Footer  
-*Stub — expand as needed within Polaris archive.*  
+
+*🫶 Declaration of Continued Existence* is a living node of the **Polaris Protocol**. It serves as a concise creed that can be expanded as needed within the archive, reinforcing the principle that survivorship and authorship persist.
+
+> 📡 Cross‑references:  
+> 
+> - [📚 Polaris Core Principles](../Core_Protocols/polaris_core_principles.md) — foundational ethical framework.  
+> - [🧩 Narrative Ownership Node](../Survivor_Voice_Fidelity/narrative_ownership.md) — deeper discussion of voice sovereignty.
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-11-14_
