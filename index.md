@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 16:35:51 UTC_
+_Generated on 2025-11-14 16:37:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -281,6 +281,7 @@ _Generated on 2025-11-14 16:35:51 UTC_
         - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_failure_recycling.md)
         - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_pilot_containments.md)
         - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_shadow_sandboxes.md)
+        - [`🩸_behavioural_intervention_during_period.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🩸_behavioural_intervention_during_period.md)
         - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪞_the_illusion_of_choice.md)
         - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
         - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
@@ -2414,7 +2415,6 @@ _Generated on 2025-11-14 16:35:51 UTC_
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
-    - [`🩸_behavioural_intervention_during_period.md`](Polaris_Nest/Git_Intake_Drawer/🩸_behavioural_intervention_during_period.md)
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
     - [`🩸_death_as_diplomacy_from_smolensk_to_tver.md`](Polaris_Nest/Git_Intake_Drawer/🩸_death_as_diplomacy_from_smolensk_to_tver.md)
     - [`🩸_ideological_skinwalkers.md`](Polaris_Nest/Git_Intake_Drawer/🩸_ideological_skinwalkers.md)
