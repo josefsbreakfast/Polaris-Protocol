@@ -6,7 +6,9 @@
 
 ## 🧭 Orientation  
 
-In the UK, the right to access or challenge data misuse sits inside a tangle of overlapping routes: the **Information Commissioner’s Office (ICO)**, the **county court small‑claims track**, and the **multi‑track** route for complex or high‑value data disputes. Each mechanism offers a different balance of accessibility, remedy, and procedural burden. This node serves as a *map* — not legal advice, but a civic guide to how power moves through paperwork.
+In the UK, the right to access or challenge data misuse sits inside a tangle of overlapping routes: the **Information Commissioner’s Office (ICO)**, the **county court small‑claims track**, and the **multi‑track** route for complex or high‑value data disputes. Each mechanism offers a different balance of accessibility, remedy, and procedural burden. This node serves as a *map* — not legal advice, but a civic guide to how power moves through paperwork.  
+
+---
 
 ## 🧩 The Core Pathways  
 
@@ -16,7 +18,9 @@ In the UK, the right to access or challenge data misuse sits inside a tangle of 
 | **Small‑Claims Track** | County Court | Simple data misuse / breach of confidence   | Monetary damages under ~£10k                 | Costs capped; complexity discouraged   |
 | **Fast / Multi‑Track** | County Court / High Court | Serious breaches, institutional data negligence | Financial or injunctive remedy                | Expensive; requires legal representation |
 
-Together they form the civic spectrum: **ICO = oversight**, **Small Claims = redress**, **Multi‑Track = escalation**.
+Together they form the civic spectrum: **ICO = oversight**, **Small Claims = redress**, **Multi‑Track = escalation**.  
+
+---
 
 ## ⚖️ Strategic Considerations  
 
@@ -30,6 +34,8 @@ Together they form the civic spectrum: **ICO = oversight**, **Small Claims = red
 
 > *The lower the barrier to entry, the lighter the consequence for the institution.*
 
+---
+
 ## 🧠 Reading Between the Routes  
 
 Each pathway reflects a governance philosophy:  
@@ -38,7 +44,9 @@ Each pathway reflects a governance philosophy:
 - **Small Claims:** individual justice  
 - **Multi‑Track:** adversarial precedent  
 
-Together, they maintain the appearance of full‑spectrum recourse while distributing accountability thinly enough to prevent overload. This is not failure — it’s design.
+Together, they maintain the appearance of full‑spectrum recourse while distributing accountability thinly enough to prevent overload. This is not failure — it’s design.  
+
+---
 
 ## 🪶 Civic Strategy Tips  
 
@@ -47,15 +55,21 @@ Together, they maintain the appearance of full‑spectrum recourse while distrib
 3. **Language Audit** — quote the ICO’s own decision templates back at institutions.  
 4. **Documentation Discipline** — treat every acknowledgment as procedural metadata.  
 
-These are not confrontations but *conversations with the record itself*.
+These are not confrontations but *conversations with the record itself*.  
+
+---
 
 ## 🧭 Closing Reflection  
 
-Understanding the route is half the power. Each mechanism teaches a civic skill: how to speak bureaucratic, how to persist without rage, and how to make a paper trail talk. The state may be slow, but data is patient.
+Understanding the route is half the power. Each mechanism teaches a civic skill: how to speak bureaucratic, how to persist without rage, and how to make a paper trail talk. The state may be slow, but data is patient.  
+
+---
 
 ## 🌌 Constellations  
 
-🧭 📜 ⚖️ 🗂️ — mapping procedural literacy, legal pathways, data‑rights governance, and system‑wide transparency.
+🧭 📜 ⚖️ 🗂️ — mapping procedural literacy, legal pathways, data‑rights governance, and system‑wide transparency.  
+
+---
 
 ## ✨ Stardust  
 
