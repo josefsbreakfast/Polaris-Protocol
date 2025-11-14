@@ -1,6 +1,9 @@
 # 🩺 Live Probe Ethics & Extraction Decision Sheet
-**First created:** 2025-10-13  |  **Last updated:** 2025-11-06  
-*One‑page gate for using a real person as a probe, balancing data value with duty of care.*
+**First created:** 2025-10-13  |  **Last updated:** 2025-11-14  
+*One‑page gate for using a real person as a probe, balancing data value with duty of care.*  
+
+---
+
 <!-- No one locally wants to move for fear of that big "national security" flag, but as this is my health data, it would be nice to at least be told it is safe rather than all about the free lunches you are collectively enjoying while the "terrorist" gets to lie uncomfortabley across an odd selection of pillows, because her healthcare data cannot be confirmed, and it doesn't feel reassuring in the slightest. I have no idea what you could all possibly be doing that achieves more than a consultant anaesthetist and a syringe full of corticosteroid and lidocaine can acheive on this body, but let start by saying the "free"ish lunches to the health service feel a good 15 years in the past.
 
 At least I'd struggle to do a terrorism; is this the new PAMP/Channel bargain bin technique?
@@ -45,4 +48,4 @@ Physical threats; doxxing; acute mental‑health risk; credential theft; attacke
 ## ✨ Stardust  
 duty of care, informed consent, ephemeral telemetry, oversight renewal, extraction planning  
 
-*Last updated 2025-11-06 | Ethics first, data second.*
+*Last updated 2025-11-14 | Ethics first, data second.*
