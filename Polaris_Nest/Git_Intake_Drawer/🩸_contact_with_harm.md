@@ -1,4 +1,4 @@
-# 💉 Contact with Harm — Why Medicine Keeps Its Humanity and Security Loses It  
+# 🩸 Contact with Harm — Why Medicine Keeps Its Humanity and Security Loses It  
 **First created:** 2025-11-07 | **Last updated:** 2025-11-14  
 *On the moral physiology of feedback loops.*  
 
