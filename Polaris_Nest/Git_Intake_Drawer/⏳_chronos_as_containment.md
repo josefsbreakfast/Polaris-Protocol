@@ -1,5 +1,5 @@
 # ⏳ Chronos as Containment  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-14  
 *Mapping how bureaucratic and institutional systems weaponise time.*
 
 ## 🛰️ Orientation  
