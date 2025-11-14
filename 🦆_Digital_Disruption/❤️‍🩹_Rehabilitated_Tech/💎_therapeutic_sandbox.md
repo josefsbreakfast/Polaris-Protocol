@@ -1,5 +1,5 @@
 # 💎 Therapeutic Sandbox — AI-Assisted Boundary Rehabilitation  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-14  
 *A conceptual framework for a supervised AI system designed to support boundary-building and trauma rehabilitation for survivors of coercion and anxiety disorders.*
 
 ---
@@ -140,4 +140,4 @@ It outlines a supervised, clinically grounded approach to using AI as a practice
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-14_
