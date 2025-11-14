@@ -1,5 +1,5 @@
 # 🩸 Soul as Product Lineage  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-19 | **Last updated:** 2025-11-14  
 *From ritual sacrifice to algorithmic containment — tracing the architectures that bleed the soul into product.*  
 
 ---
@@ -64,14 +64,15 @@ soul extraction, containment loop, ritual economy, alchemical labour, digital af
 
 ## 🏮 Footer  
 
-*Soul as Product Lineage* is a living node of the **Polaris Protocol**.  
+*🩸 Soul as Product Lineage* is a living node of the **Polaris Protocol**.  
 It traces how containment architectures rebrand devotion, labour, and memory into measurable yield.  
 Each phase marks a refinement of the same apparatus — to bleed the soul clean of mystery until only data remains.  
 
-> 📡 Cross-references:  
-> - [🔥 Suppression as Signal](../Big_Picture_Protocols/🔥_suppression_as_signal.md) — how erasure performs visibility.  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md) — legal architectures of obedience.  
+> 📡 Cross-references:
+> 
+> - [🔥 Suppression as Signal](../Big_Picture_Protocols/🔥_suppression_as_signal.md) — *how erasure performs visibility*  
+> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md) — *legal architectures of obedience*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-11-14_
