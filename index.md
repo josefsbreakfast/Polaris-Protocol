@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 16:56:13 UTC_
+_Generated on 2025-11-14 16:57:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -37,7 +37,6 @@ _Generated on 2025-11-14 16:56:13 UTC_
     - [`🕸_metadata_defense.md`](Disruption_Kit/AntiContainment_Clauses/🕸_metadata_defense.md)
     - [`🛰️_digital_counter_containment_clause.md`](Disruption_Kit/AntiContainment_Clauses/🛰️_digital_counter_containment_clause.md)
     - [`🧾_New_Additions_Prepbook.md`](Disruption_Kit/AntiContainment_Clauses/🧾_New_Additions_Prepbook.md)
-    - [`🧿_private_eye_bounces_back.md`](Disruption_Kit/AntiContainment_Clauses/🧿_private_eye_bounces_back.md)
     - [`🪅_ranking_is_not_neutral_clause.md`](Disruption_Kit/AntiContainment_Clauses/🪅_ranking_is_not_neutral_clause.md)
     - [`🪓_mean_voice_evidence_voice.md`](Disruption_Kit/AntiContainment_Clauses/🪓_mean_voice_evidence_voice.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
@@ -2641,6 +2640,7 @@ _Generated on 2025-11-14 16:56:13 UTC_
     - [`💎_therapeutic_sandbox.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md)
   - [**🐘_Reply_All/**](🦆_Digital_Disruption/🐘_Reply_All/)
     - [`README.md`](🦆_Digital_Disruption/🐘_Reply_All/README.md)
+    - [`🧿_private_eye_bounces_back.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_private_eye_bounces_back.md)
     - [`🧿_sassi_as_counter_surveillance_accountability.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_sassi_as_counter_surveillance_accountability.md)
   - [**🐝_All_In_Commons/**](🦆_Digital_Disruption/🐝_All_In_Commons/)
     - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
