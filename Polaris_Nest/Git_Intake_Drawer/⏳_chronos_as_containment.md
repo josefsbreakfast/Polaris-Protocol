@@ -20,7 +20,7 @@ time control, bureaucratic delay, administrative patience, emotional attrition, 
 
 ## 🏮 Footer  
 
-*Chronos as Containment* is a living node of the **Polaris Protocol**.  
+*⏳ Chronos as Containment* is a living node of the **Polaris Protocol**.  
 It documents the temporal levers used by institutions to shape behaviour and enforce containment.
 
 > 📡 Cross‑references:  
@@ -30,4 +30,4 @@ It documents the temporal levers used by institutions to shape behaviour and enf
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-14_
