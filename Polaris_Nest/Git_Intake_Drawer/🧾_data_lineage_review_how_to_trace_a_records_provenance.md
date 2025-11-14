@@ -1,5 +1,5 @@
 # 🧾 Data Lineage Review — How to Trace a Record’s Provenance  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-14  
 *Following the thread back to origin.*
 
 ---
@@ -90,11 +90,12 @@ data lineage, provenance, audit trail, schema change, data governance, ETL, meta
 *🧾 Data Lineage Review — How to Trace a Record’s Provenance* is a living node of the Polaris Protocol.  
 It shows how truth requires timestamps — and how to read a record’s genealogy before it becomes gospel.  
 
-> 📡 Cross-references:  
-> - [🧮 Data-Error Decay Table](../🧩_System_Governance/🧮_data_error_decay_table.md)  
-> - [🪙 Token Integrity Audit — How to Check for Pseudonym Drift](../🧩_System_Governance/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)  
-> - [⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems](../🧩_System_Governance/⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md)  
+> 📡 Cross-references:
+> 
+> - [🧮 Data-Error Decay Table]  
+> - [🪙 Token Integrity Audit — How to Check for Pseudonym Drift]  
+> - [⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-14_
