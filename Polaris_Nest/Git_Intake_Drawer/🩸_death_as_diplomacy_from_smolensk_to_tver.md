@@ -1,5 +1,5 @@
 # 🩸 Death as Diplomacy — From Smolensk to Tver
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-14  
 *When international relations are rewritten in the language of condolence.*  
 
 ---
@@ -44,10 +44,11 @@ smolensk crash, wagner jet, death diplomacy, foreign policy ritual, geopolitical
 *🩸 Death as Diplomacy — From Smolensk to Tver* is a living node of the Polaris Protocol.  
 It analyses how catastrophic loss becomes an instrument of messaging between states.  
 
-> 📡 Cross-references:  
-> - [🪦 Mass Funeral as Information Control](./🪦_mass_funeral_as_information_control.md) — ritual companion  
-> - [⚙️ Containment by Crash — Risk Management and Symbolic Deletion](../Disruption_Kit/Big_Picture_Protocols/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md) — systemic counterpart  
+> 📡 Cross-references:
+> 
+> - [🪦 Mass Funeral as Information Control](./🪦_mass_funeral_as_information_control.md) — *ritual companion*  
+> - [⚙️ Containment by Crash — Risk Management and Symbolic Deletion](../Disruption_Kit/Big_Picture_Protocols/⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md) — *systemic counterpart*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-14_
