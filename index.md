@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 16:43:18 UTC_
+_Generated on 2025-11-14 16:45:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -37,6 +37,7 @@ _Generated on 2025-11-14 16:43:18 UTC_
     - [`🕸_metadata_defense.md`](Disruption_Kit/AntiContainment_Clauses/🕸_metadata_defense.md)
     - [`🛰️_digital_counter_containment_clause.md`](Disruption_Kit/AntiContainment_Clauses/🛰️_digital_counter_containment_clause.md)
     - [`🧾_New_Additions_Prepbook.md`](Disruption_Kit/AntiContainment_Clauses/🧾_New_Additions_Prepbook.md)
+    - [`🧿_private_eye_bounces_back.md`](Disruption_Kit/AntiContainment_Clauses/🧿_private_eye_bounces_back.md)
     - [`🪅_ranking_is_not_neutral_clause.md`](Disruption_Kit/AntiContainment_Clauses/🪅_ranking_is_not_neutral_clause.md)
     - [`🪓_mean_voice_evidence_voice.md`](Disruption_Kit/AntiContainment_Clauses/🪓_mean_voice_evidence_voice.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
@@ -2409,7 +2410,6 @@ _Generated on 2025-11-14 16:43:18 UTC_
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
     - [`🧿_oversight_paralysis_when_allies_breach_the_firewall.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis_when_allies_breach_the_firewall.md)
-    - [`🧿_private_eye_bounces_back.md`](Polaris_Nest/Git_Intake_Drawer/🧿_private_eye_bounces_back.md)
     - [`🧿_representation_logic_vs_platform_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/🧿_representation_logic_vs_platform_optimisation.md)
     - [`🧿_sassi_as_counter_surveillance_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧿_sassi_as_counter_surveillance_accountability.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
