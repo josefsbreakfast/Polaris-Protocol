@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 16:54:52 UTC_
+_Generated on 2025-11-14 16:55:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2640,6 +2640,8 @@ _Generated on 2025-11-14 16:54:52 UTC_
   - [**❤️‍🩹_Rehabilitated_Tech/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/)
     - [`README.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/README.md)
     - [`💎_therapeutic_sandbox.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md)
+  - [**🐘_Reply_All/**](🦆_Digital_Disruption/🐘_Reply_All/)
+    - [`README.md`](🦆_Digital_Disruption/🐘_Reply_All/README.md)
   - [**🐝_All_In_Commons/**](🦆_Digital_Disruption/🐝_All_In_Commons/)
     - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
     - [`🌱_commons_charter_generator.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌱_commons_charter_generator.md)
