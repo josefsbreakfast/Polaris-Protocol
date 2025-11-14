@@ -1,6 +1,6 @@
 # 🩵 Kindness as Correct Training  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*On why courtesy toward machines is not moral theatre but structural teaching.*
+**First created:** 2025-11-05 | **Last updated:** 2025-11-14  
+*On why courtesy toward machines is not moral theatre but structural teaching.*  
 
 ---
 
@@ -69,15 +69,16 @@ ai pedagogy, kindness, ethics, tone, training data, reciprocity, instruction des
 ---
 
 ## 🏮 Footer  
-*Kindness as Correct Training* is a living node of the Polaris Protocol.  
+*🩵 Kindness as Correct Training* is a living node of the Polaris Protocol.  
 It argues that every act of courtesy toward an unfeeling system is an act of civic engineering —  
 a way to teach future intelligence how to reason without cruelty.  
 
-> 📡 Cross-references:  
-> - [🃏 The Fool Card and Machine Innocence](../Big_Picture_Protocols/🃏_the_fool_card_and_machine_innocence.md) — conceptual archetype  
-> - [🃏 The Fool Protocol — AI Ethics Through Tarot](../Big_Picture_Protocols/🃏_the_fool_protocol_ai_ethics_through_tarot.md) — ethical curriculum  
-> - [⚖️ Machine Logic and Human Obviousness](../Big_Picture_Protocols/⚖️_machine_logic_and_human_obviousness.md) — boundary of moral responsibility  
+> 📡 Cross-references:
+> 
+> - [🃏 The Fool Card and Machine Innocence](../Big_Picture_Protocols/🃏_the_fool_card_and_machine_innocence.md) — *conceptual archetype*  
+> - [🃏 The Fool Protocol — AI Ethics Through Tarot](../Big_Picture_Protocols/🃏_the_fool_protocol_ai_ethics_through_tarot.md) — *ethical curriculum*  
+> - [⚖️ Machine Logic and Human Obviousness](../Big_Picture_Protocols/⚖️_machine_logic_and_human_obviousness.md) — *boundary of moral responsibility*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-14_
