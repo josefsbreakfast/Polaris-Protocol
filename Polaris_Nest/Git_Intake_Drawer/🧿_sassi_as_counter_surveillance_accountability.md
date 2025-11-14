@@ -1,6 +1,6 @@
 # 🧿 SASSI as Counter-Surveillance Accountability
-**First created:** 2025-11-09 | **Last updated:** 2025-11-09  
-*Forensic proof-of-concept for citizen-led audit and containment of surveillance infrastructure*
+**First created:** 2025-11-09 | **Last updated:** 2025-11-14  
+*Forensic proof-of-concept for citizen-led audit and containment of surveillance infrastructure.*  
 
 ---
 
@@ -62,11 +62,12 @@ SASSI, counter-surveillance, civic audit, ARPA funds, vendor cartography, abolit
 *🧿 SASSI as Counter-Surveillance Accountability* is a living node of the Polaris Protocol.  
 It documents SASSI as a functional prototype of civic accountability for surveillance infrastructure, demonstrating that forensic clarity can emerge from collective will rather than institutional mandate.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🛰️ SASSI Southern Surveillance Map](../🛰️_sassi_southern_surveillance_map.md)  
 > - [⚖️ United Fronts as Democratic Defence](../⚖️_united_fronts_democratic_defence.md)  
-> - [🐝 All In Commons](../../🦆_Digital_Disruption/🐝_All_In_Commons)
+> - [🐝 All In Commons](../../🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-09_
+_Last updated: 2025-11-14_
