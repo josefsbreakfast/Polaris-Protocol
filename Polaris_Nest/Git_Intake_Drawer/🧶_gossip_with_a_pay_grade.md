@@ -1,5 +1,5 @@
 # 🧶 Politics Is Just Gossip With a Pay Grade  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2025-11-14  
 *How everyday gossip scales up into the machinery of governance.*
 
 ---
@@ -42,13 +42,14 @@ workplace politics, gossip, containment, power hierarchy, gendered language, inf
 
 ## 🏮 Footer  
 
-*Politics Is Just Gossip With a Pay Grade* is a living node of the Polaris Protocol.  
+*🧶 Politics Is Just Gossip With a Pay Grade* is a living node of the Polaris Protocol.  
 It reframes everyday social dynamics as the micro-engines of institutional power.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic containment analysis  
-> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — counter-narrative and refusal techniques  
+> 📡 Cross-references:
+> 
+> - [🧠 Big Picture Protocols](Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic containment analysis*  
+> - [🧬 Survivor Tools](Disruption_Kit/Survivor_Tools/README.md) — *counter-narrative and refusal techniques*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-11-14_
