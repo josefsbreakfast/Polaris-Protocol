@@ -82,9 +82,9 @@ It records community-led initiatives, collective broadcast practices, and democr
 > 📡 Cross-references:
 > 
 > - [🧨 Counter_Nudge_Playbook](../🧨_Counter_Nudge_Playbook/README.md)  
-> - [Metadata Sabotage Network](../../Metadata_Sabotage_Network/)  
+> - [🧠 Metadata Sabotage Network](../../Metadata_Sabotage_Network/)  
 > - [💣 Syntax_Bombs](../../Disruption_Kit/💣_Syntax_Bombs/README.md)  
-> - [🎶 Banned_Broadcast_Cooperative](../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🎶_Banned_Broadcast_Cooperative/README.md)
+> - [🎶 Banned Broadcast Cooperative](../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🎶_Banned_Broadcast_Cooperative/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
