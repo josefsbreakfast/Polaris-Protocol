@@ -1,5 +1,5 @@
 # 🧿 Private Eye Bounces Back  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-14  
 *When Britain’s oldest satirical paper rediscovers its bite, it signals that the absurd has overtaken the official.*  
 
 ---
@@ -37,13 +37,13 @@ private eye, satire, press freedom, tone shift, media integrity, humour�
 
 ## 🏮 Footer  
 
-*Private Eye Bounces Back* is a living node of the Polaris Protocol.  
+*🧿 Private Eye Bounces Back* is a living node of the Polaris Protocol.  
 It records a moment when satire recovered its investigative nerve and became, once again, a form of witness.  
 
 > 📡 Cross‑references:  
-> - [🧠 AI Ethicswash](../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_ai_ethicswash.md) — structural analysis of ethics as PR  
-> - [Narrative and Psych Ops](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/) — monitoring the emotional register of institutions  
+> - [🧠 AI Ethicswash] — *structural analysis of ethics as PR*  
+> - [🎭 Narrative and Psych Ops](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — *monitoring the emotional register of institutions*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_  
+_Last updated: 2025-11-14_  
