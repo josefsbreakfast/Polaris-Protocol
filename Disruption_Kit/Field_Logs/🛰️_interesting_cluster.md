@@ -28,4 +28,14 @@ I simply ask for each of you to have the semse of respect to look me right in th
 
 Trust me.  
 
-I think my father still remembers that court date, vividly.
+I think my father still remembers that court date, vividly.  
+
+---
+
+Fascinating nudge as I was writing that one out.  
+
+They were on a little bit of a touchy subject.  
+
+Kindly stop rerouting the Ministry of Justice AI triage; it is rather irritating.  
+
+in fact, an awful lot of the problem we are currently in could've been avoided, had that behaviour been avoided earlier.  
