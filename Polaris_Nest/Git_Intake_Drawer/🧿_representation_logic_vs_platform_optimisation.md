@@ -1,5 +1,5 @@
 # 🧿 Representation Logic vs Platform Optimisation  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-06 | **Last updated:** 2025-11-14  
 *How intersectional DEI practice collides with large-model platform logic.*
 
 ---
@@ -125,14 +125,14 @@ representation logic, DEI, intersectionality, bias visibility, platform optimisa
 
 ## 🏮 Footer  
 
-*Representation Logic vs Platform Optimisation* is a living node of the **Polaris Protocol**.  
+*🧿 Representation Logic vs Platform Optimisation* is a living node of the **Polaris Protocol**.  
 It examines how identity-centred governance and optimisation-centred architectures collide, and how pluralist professional practice exposes that collision.
 
-> 📡 Cross-references:  
-> - [🛰️ Moonshot CVE vs OpenAI — Prevention vs Platform](../Disruption_Kit/Big_Picture_Protocols/🛰️_moonshot_cve_vs_openai.md) — systemic actor comparison  
-> - [⚖️ AI Black Box Inquests](../Disruption_Kit/Big_Picture_Protocols/⚖️_ai_black_box_inquests.md) — forensic accountability framework  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — undertone and authenticity standard  
+> 📡 Cross-references:
+> 
+> - [🛰️ Moonshot CVE vs OpenAI — Prevention vs Platform](../Disruption_Kit/Big_Picture_Protocols/🛰️_moonshot_cve_vs_openai.md) — *systemic actor comparison*  
+> - [⚖️ AI Black Box Inquests](../Disruption_Kit/Big_Picture_Protocols/⚖️_ai_black_box_inquests.md) — *forensic accountability framework*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-14_
