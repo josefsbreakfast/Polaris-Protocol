@@ -1,5 +1,5 @@
 # ⚖️ Soft Power Without Soft Accountability
-**First created:** 2025-11-03 | **Last updated:** 2025-11-14
+**First created:** 2025-11-03 | **Last updated:** 2025-11-14  
 *Examining how prestige‑driven diplomacy can thrive without any traceable audit trail.*
 
 ## 🧭 Orientation
