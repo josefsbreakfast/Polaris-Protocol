@@ -42,7 +42,7 @@ It records a moment when satire recovered its investigative nerve and became, on
 
 > 📡 Cross‑references:  
 > - [🧠 AI Ethicswash] — *structural analysis of ethics as PR*  
-> - [🎭 Narrative and Psych Ops](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — *monitoring the emotional register of institutions*  
+> - [🎭 Narrative and Psych Ops](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — *monitoring the emotional register of institutions*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
