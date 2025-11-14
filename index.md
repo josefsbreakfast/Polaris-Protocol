@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 04:40:34 UTC_
+_Generated on 2025-11-14 05:25:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1488,6 +1488,7 @@ _Generated on 2025-11-14 04:40:34 UTC_
     - [`🧮_7_day_word_count_analysis.md`](Disruption_Kit/Field_Logs/🧮_7_day_word_count_analysis.md)
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
     - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/🧱_loft_packet_dump_theory_2025-08-06.md)
+    - [`🧼_regarding_nizoral.md`](Disruption_Kit/Field_Logs/🧼_regarding_nizoral.md)
     - [`🧾_codename_table_reconstruction.md`](Disruption_Kit/Field_Logs/🧾_codename_table_reconstruction.md)
     - [`🧿_i_see_you.png`](Disruption_Kit/Field_Logs/🧿_i_see_you.png)
     - [`🧿_i_will_stfu_when_you_all_gtfo.jpg`](Disruption_Kit/Field_Logs/🧿_i_will_stfu_when_you_all_gtfo.jpg)
