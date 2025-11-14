@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 16:45:03 UTC_
+_Generated on 2025-11-14 16:46:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1770,6 +1770,7 @@ _Generated on 2025-11-14 16:45:03 UTC_
       - [`🥕_tiny_wins_exhaustion_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥕_tiny_wins_exhaustion_containment.md)
       - [`🧊_glass_box_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md)
       - [`🧿_persistent_discrediting_force.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md)
+      - [`🩰_escaping_the_frame.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🩰_escaping_the_frame.md)
       - [`🪞_transparent_interference.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪞_transparent_interference.md)
       - [`🪤_nuisance_building_micro_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_nuisance_building_micro_sabotage.md)
       - [`🪤_suspicion_seeding.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_suspicion_seeding.md)
@@ -2413,7 +2414,6 @@ _Generated on 2025-11-14 16:45:03 UTC_
     - [`🧿_representation_logic_vs_platform_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/🧿_representation_logic_vs_platform_optimisation.md)
     - [`🧿_sassi_as_counter_surveillance_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧿_sassi_as_counter_surveillance_accountability.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
-    - [`🩰_escaping_the_frame.md`](Polaris_Nest/Git_Intake_Drawer/🩰_escaping_the_frame.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
     - [`🩸_death_as_diplomacy_from_smolensk_to_tver.md`](Polaris_Nest/Git_Intake_Drawer/🩸_death_as_diplomacy_from_smolensk_to_tver.md)
