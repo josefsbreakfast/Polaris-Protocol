@@ -1,5 +1,5 @@
 # 🧼 Courtier Class in the Age of Austerity  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-14  
 *How opportunism became a governance ecology.*
 
 ---
@@ -92,9 +92,9 @@ governance ecology, opportunism, public sector collapse, institutional theatre, 
 It contributes to the Governance Ecologies cluster by documenting how systemic scarcity rewards opportunistic adaptation and flattery-as-function.  
 
 > 📡 Cross-references:  
-> - [🧭 Governance Ecologies](../🧭_Governance_Ecologies/) — structural logics of institutional adaptation  
-> - [Big Picture Protocols](../) — systemic diagnostics and typologies  
+>
+> - [🧠 Big Picture Protocols](Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic diagnostics and typologies*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-14_
