@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 16:26:47 UTC_
+_Generated on 2025-11-14 16:28:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1515,6 +1515,7 @@ _Generated on 2025-11-14 16:26:47 UTC_
     - [`🩰_petty_princesses_with_beards.md`](Disruption_Kit/Field_Logs/🩰_petty_princesses_with_beards.md)
     - [`🩰_registering_my_daily_fuck_this.md`](Disruption_Kit/Field_Logs/🩰_registering_my_daily_fuck_this.md)
     - [`🩸_there_have_been_many_outs_suggested.md`](Disruption_Kit/Field_Logs/🩸_there_have_been_many_outs_suggested.md)
+    - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Disruption_Kit/Field_Logs/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🩺_oh_the_irony_tho.md`](Disruption_Kit/Field_Logs/🩺_oh_the_irony_tho.md)
     - [`🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png`](Disruption_Kit/Field_Logs/🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png)
     - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
@@ -2420,7 +2421,6 @@ _Generated on 2025-11-14 16:26:47 UTC_
     - [`🩸_reverse_victim_logic.md`](Polaris_Nest/Git_Intake_Drawer/🩸_reverse_victim_logic.md)
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
-    - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Polaris_Nest/Git_Intake_Drawer/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
