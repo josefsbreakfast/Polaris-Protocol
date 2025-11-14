@@ -70,8 +70,8 @@ It examines how stories of girlhood freedom were rationed, stylised, and sold ba
 
 > 📡 Cross-references:
 > 
-> - [🐝 Body Politic](../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md) — *embodiment and identity politics*  
-> - [🎶 Banned Broadcasts Cooperative](../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural suppression and narrative circulation*  
+> - [🐝 Body Politic](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md) — *embodiment and identity politics*  
+> - [🎶 Banned Broadcasts Cooperative](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *cultural suppression and narrative circulation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
