@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 17:05:27 UTC_
+_Generated on 2025-11-14 17:07:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2406,7 +2406,7 @@ _Generated on 2025-11-14 17:05:27 UTC_
     - [`🧼_courtier_class_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_austerity.md)
     - [`🧾_data_lineage_review_how_to_trace_a_records_provenance.md`](Polaris_Nest/Git_Intake_Drawer/🧾_data_lineage_review_how_to_trace_a_records_provenance.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
-    - [`🧾_procurement_fragility_in_reputation_contracts.md`](Polaris_Nest/Git_Intake_Drawer/🧾_procurement_fragility_in_reputation_contracts.md)
+    - [`🧾_procurement_fragility.md`](Polaris_Nest/Git_Intake_Drawer/🧾_procurement_fragility.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
     - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
