@@ -1,5 +1,5 @@
 # 🧾 Student Data Abuse — The Surveillance of Learning  
-**First created:** 2025-10-23  |  **Last updated:** 2025-10-23  
+**First created:** 2025-10-23  |  **Last updated:** 2025-11-14  
 *How education’s duty of care became a data-extraction industry.*
 
 ---
@@ -260,14 +260,15 @@ The crime is not only technical but linguistic: the words *impact*, *well-being*
 *🧾 Student Data Abuse — The Surveillance of Learning* is a living node of the **Polaris Protocol**.  
 It documents the conversion of education’s moral contract into a market instrument and traces the legal, technical, and linguistic architecture that enabled it.
 
-> 📡 Cross-references:  
-> - [🎓 British University Compliance Service](../🎓_British_University_Compliance_Service/)  
-> - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/)  
-> - [💸 Money Listens](../../🦕_Elder_Influencers/💸_Money_Listens/)
+> 📡 Cross-references:
+> 
+> - [🎓 British University Compliance Service](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)  
+> - [🧿 Watch the Watchers](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
+> - [💸 Money Listens](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-14_
 
 
 
