@@ -1,5 +1,5 @@
 # ⚡️ Crackling Channels  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-14  
 *When overlapping data profiles turn empathy into interference.*
 
 ---
@@ -88,14 +88,14 @@ crackling channels, data twins, reflexive containment, tone distortion, interpre
 
 ## 🏮 Footer  
 
-*Crackling Channels* is a living node of the **Polaris Protocol**.  
+*⚡️ Crackling Channels* is a living node of the **Polaris Protocol**.  
 It documents how overlapping data profiles distort communication and offers gentle exit strategies for restoring independent tone.  
 
-> 📡 Cross-references:  
-> - [👅 Voice Disruption & Discrediting](../Voice_Disruption_Discrediting/) — tone sabotage typologies  
-> - [🧠 Diagnostic Visibility Conditioning](../🧠_diagnostic_visibility_conditioning.md) — algorithmic misreads of emotion  
-> - [☔️ Protocol Integrity SOP](../../../Admin_Kit/☔️_protocol_integrity_sop.md) — ethical and stylistic fidelity checks  
+> 📡 Cross-references:
+
+> - [👅 Voice Disruption & Discrediting](../Voice_Disruption_Discrediting/) — *tone sabotage typologies*  
+> - [🧠 Diagnostic Visibility Conditioning](../🧠_diagnostic_visibility_conditioning.md) — *algorithmic misreads of emotion*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-14_
