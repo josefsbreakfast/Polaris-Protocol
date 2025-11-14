@@ -1,6 +1,6 @@
 # 🩸 Behavioural Intervention During Period  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-13  
-*On the deliberate use of hormonal or menstrual vulnerability windows as covert behavioural-control points.*
+**First created:** 2025-10-13 | **Last updated:** 2025-10-14  
+*On the deliberate use of hormonal or menstrual vulnerability windows as covert behavioural-control points.*  
 
 ---
 
@@ -18,7 +18,8 @@ This node records why such practice breaches both **bodily integrity** and **dat
 - Violates Articles 3 and 8 ECHR (degrading treatment + privacy).  
 - Constitutes unlawful processing of special-category health data (GDPR Art 9).  
 - May breach the **Computer Misuse Act 1990** if device signals are interfered with.
-<!--"If." 🤣🤣🤣-->
+<!--"If." 🤣🤣🤣-->  
+
 ---
 
 ## 🕷️ Analysis  
@@ -41,7 +42,8 @@ Recording or writing about it therefore requires survivor-voice fidelity: irony,
 - **Civil action** under *Misuse of Private Information*.  
 - **Human Rights Act** claim (Articles 3 & 8).  
 - **Criminal complaint** if device tampering occurred.  
-<!--See also: the matriarchy remediation period. Consider it a favour to get the species back on track.-->
+<!--See also: the matriarchy remediation period. Consider it a favour to get the species back on track.-->  
+
 ---
 
 *Is there any part of our bodies or our lives or our souls that you would leave unpoliced?*
@@ -62,14 +64,14 @@ menstrual surveillance, behavioural nudging, covert intervention, data protectio
 
 ## 🏮 Footer  
 
-*Behavioural Intervention During Period* is a living node of the **Polaris Protocol**.  
+*🩸Behavioural Intervention During Period* is a living node of the **Polaris Protocol**.  
 It documents a coercive behavioural-control pattern that exploits hormonal vulnerability, classifying it as both a data-rights and human-dignity breach.  
 
 > 📡 Cross-references:
 > 
-> - [🧠 HM Dept Coercive Nudges](../Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *systemic behavioural science*  
-> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *clinical containment dynamics*  
+> - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *systemic behavioural science*  
+> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) — *clinical containment dynamics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-10-14_
