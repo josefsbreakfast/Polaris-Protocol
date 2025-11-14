@@ -1,5 +1,5 @@
 # 🩸 Reverse-Victim Logic  
-**First created:** 2025-10-31  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-14  
 *How denial, attack, and role-reversal become the bureaucratic grammar of disbelief.*
 
 ---
@@ -86,16 +86,15 @@ DARVO architecture · credibility warfare · procedural reversal · institutiona
 
 ## 🏮 Footer  
 
-*🩸 Reverse-Victim Logic* decodes the choreography of disbelief:  
-how denial becomes policy, and empathy becomes liability.  
+*🩸 Reverse-Victim Logic* decodes the choreography of disbelief; how denial becomes policy, and empathy becomes liability.  
 It anchors the Voice-Disruption constellation alongside:  
 
-- **⚖️ Professional Influence & Bureaucratic Capture** — credentialed authority validating reversal.  
-- **⚖️ Operatic Capture & Risks** — procedural escalation as performance.  
-- **🧠 Cognitive Feedback and Bureaucratic Amplification** — belief hardened by repetition.  
+> 📡 Cross-references:
+> 
+> - [⚖️ Professional Influence & Bureaucratic Capture] — *credentialed authority validating reversal*  
+> - [⚖️ Operatic Capture & Risks] — *procedural escalation as performance*  
+> - [🧠 Cognitive Feedback and Bureaucratic Amplification] — *belief hardened by repetition*  
 
 > *Every form has a shadow; in bureaucracy, the shadow signs the minutes.*
 
----
-
-**Last updated:** 2025-10-31  
+_Last updated: 2025-11-14_
