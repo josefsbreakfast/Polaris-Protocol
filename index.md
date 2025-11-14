@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 17:43:20 UTC_
+_Generated on 2025-11-14 17:52:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -274,6 +274,7 @@ _Generated on 2025-11-14 17:43:20 UTC_
         - [`✨_defeated_by_audit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/✨_defeated_by_audit.md)
         - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🌀_rune_the_dev.png)
         - [`🎭_the_recognisable_researcher.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🎭_the_recognisable_researcher.md)
+        - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
         - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/📁_absence_of_check_in.md)
         - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
         - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧠_the_dev.md)
