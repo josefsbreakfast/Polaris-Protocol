@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-14 17:36:31 UTC_
+_Generated on 2025-11-14 17:43:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1174,6 +1174,7 @@ _Generated on 2025-11-14 17:36:31 UTC_
     - [`🏛️_uon_israel_security_open_source_gap_map.md`](Disruption_Kit/Field_Logs/🏛️_uon_israel_security_open_source_gap_map.md)
     - [`🏛️🪄🔥.md`](Disruption_Kit/Field_Logs/🏛️🪄🔥.md)
     - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
+    - [`🐈‍⬛_pavlovs_cat.md`](Disruption_Kit/Field_Logs/🐈‍⬛_pavlovs_cat.md)
     - [`🐉_please_stamp_my_visa.md`](Disruption_Kit/Field_Logs/🐉_please_stamp_my_visa.md)
     - [`🐍_getting_her_to_stop_doing_that_being_herself_thing.md`](Disruption_Kit/Field_Logs/🐍_getting_her_to_stop_doing_that_being_herself_thing.md)
     - [`🐍_women_are_human_under_echr.md`](Disruption_Kit/Field_Logs/🐍_women_are_human_under_echr.md)
