@@ -1,5 +1,5 @@
 # ⚖️ UK Data Claim Routes and Limits  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-03 | **Last updated:** 2025-11-15  
 *ICO, Small‑Claims, and Multi‑Track explained – a civic guide to UK data‑rights pathways.*  
 
 ---
@@ -83,11 +83,11 @@ uk data rights, ico complaints, small claims track, multi track litigation, data
 
 > 📡 Cross‑references:  
 > 
-> - [🔍 How to Trace Event Data Flows](../System_Governance/Data_Access_Routes/how_to_trace_event_data_flows.md) — *practical companion for evidence gathering*  
-> - [📮 Answers on a Postcard](../System_Governance/Data_Access_Routes/answers_on_a_postcard.md) — *narrative disclosure techniques*  
-> - [🏏 Pitch Palace Outpicture Paths](../System_Governance/Data_Access_Routes/pitch_palace_outpicture_paths.md) — *case‑study applications*  
-> - [📘 Citizen Data Toolkit](../System_Governance/Transparency_Reform/citizen_data_toolkit.md) — *training module for civic participants*
+> - [🔍 How to Trace Event Data Flows] — *practical companion for evidence gathering*  
+> - [📮 Answers on a Postcard] — *narrative disclosure techniques*  
+> - [🏏 Pitch Palace Outpicture Paths] — *case‑study applications*  
+> - [📘 Citizen Data Toolkit] — *training module for civic participants*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-11-15_
