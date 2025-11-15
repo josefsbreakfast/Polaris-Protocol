@@ -1,6 +1,6 @@
 # 🪷 Narrative Reclamation  
-**First created:** 2025-08-03 | **Last updated:** 2025-10-03  
-*Reclaiming authorship from ghost protocols, NDAs, and institutional flattening*  
+**First created:** 2025-08-03 | **Last updated:** 2025-11-15  
+*Reclaiming authorship from ghost protocols, NDAs, and institutional flattening.*  
 
 ---
 
@@ -76,7 +76,7 @@ narrative reclamation, ghostwriting, nda, case study, survivor authorship, refus
 
 ## 🏮 Footer  
 
-*Narrative Reclamation* is an anti-containment clause of the Polaris Protocol.  
+*🪷 Narrative Reclamation* is an anti-containment clause of the Polaris Protocol.  
 It asserts survivor authorship against ghosting, flattening, and contractual silence, ensuring stories are reclaimed and retold in survivor voice.  
 
 > 📡 Cross-references:
@@ -88,4 +88,4 @@ It asserts survivor authorship against ghosting, flattening, and contractual sil
 
 *Survivors voices must always live on.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
