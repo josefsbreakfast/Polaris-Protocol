@@ -1,8 +1,5 @@
 # 💸 Opacity Architecture: AI, Defence & Foreign Alignment  
-
-**First created:** 2025-11-04  
-**Last updated:** 2025-11-04  
-
+**First created:** 2025-11-04 | **Last updated:** 2025-11-15  
 *Why it is structurally hard to scrutinise the financial and political interests behind the UK’s AI, defence and foreign-policy posture — even when “transparency” is the headline promise.*  
 
 ---
