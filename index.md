@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:06:13 UTC_
+_Generated on 2025-11-15 18:06:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -28,7 +28,6 @@ _Generated on 2025-11-15 18:06:13 UTC_
   - [`README.md`](Containment_Studies/README.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
-    - [`🌪️_field_reconditioning.md`](Disruption_Kit/AntiContainment_Clauses/🌪️_field_reconditioning.md)
     - [`🌺_soft_containment.md`](Disruption_Kit/AntiContainment_Clauses/🌺_soft_containment.md)
     - [`🌿_wild_type_encounters.md`](Disruption_Kit/AntiContainment_Clauses/🌿_wild_type_encounters.md)
     - [`🍯_consuming_care.md`](Disruption_Kit/AntiContainment_Clauses/🍯_consuming_care.md)
@@ -1602,6 +1601,7 @@ _Generated on 2025-11-15 18:06:13 UTC_
   - [**🏮_AntiContainment_Clauses/**](Disruption_Kit/🏮_AntiContainment_Clauses/)
     - [`README.md`](Disruption_Kit/🏮_AntiContainment_Clauses/README.md)
     - [`🌀_loop_interruption.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🌀_loop_interruption.md)
+    - [`🌪️_field_reconditioning.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🌪️_field_reconditioning.md)
   - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
     - [`README.md`](Disruption_Kit/💎_Resources/README.md)
     - [`⚖️_legal_templates_and_guides.md`](Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
