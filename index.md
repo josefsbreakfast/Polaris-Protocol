@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:23:07 UTC_
+_Generated on 2025-11-15 18:26:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2053,7 +2053,6 @@ _Generated on 2025-11-15 18:23:07 UTC_
       - [`🧿_dependancy_on_western_definitions.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
       - [`🧿_jewish_nationalisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md)
       - [`🧿_moda_grants.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_moda_grants.md)
-    - [`Final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/Final_influence_comparisons.csv)
     - [`Last_8_timesteps__full_sim_.csv`](Polaris_Nest/Git_Intake_Drawer/Last_8_timesteps__full_sim_.csv)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
     - [`NatCon_speakers_2023_2025_full.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025_full.csv)
@@ -2063,6 +2062,7 @@ _Generated on 2025-11-15 18:23:07 UTC_
     - [`contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/contingent_conservatism_and_long_horizon_politics.md)
     - [`cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/cross_domain_visibility_systems_diagram.md)
     - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Polaris_Nest/Git_Intake_Drawer/deliberate_small_suppression_later_release_reciprocity_blowback.png)
+    - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/marriage_as_state_containment_trope.md)
     - [`operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/operant_conditioning_the_algorithm.md)
