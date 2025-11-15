@@ -97,7 +97,12 @@ Current status:
 - Spreadsheets will be created when thresholds are met.  
 
 Paperwork will be handled honestly, even when it is absurd.  
-(Especially then.)
+
+(Especially then.)  
+
+Although if my eyes have to focus on black lettering on white sheets?  
+
+50/50.  
 
 ---
 
