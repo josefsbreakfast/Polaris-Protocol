@@ -14,3 +14,10 @@ regaine def not mine; no algorithmic logic to be in my feed.
 
 unless someone has been dicking around and nabbing my internet, or mirroring.  
 
+---
+
+the next white boy who gets "forvidden fruit", "forbidden love", or any racislised classifier or comparison in the feed?  
+
+istg you should have your own search histories snt to your mothers and every woman at work.  
+
+clearly much knocks around in that little tangerine box. 
