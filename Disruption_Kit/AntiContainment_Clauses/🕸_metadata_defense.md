@@ -1,5 +1,5 @@
 # 🕸 Metadata Defense  
-**First created:** 2025-08-03 | **Last updated:** 2025-10-03  
+**First created:** 2025-08-03 | **Last updated:** 2025-11-15  
 *Forensic refusals and digital sovereignty clauses*  
 
 ---
@@ -80,7 +80,7 @@ metadata, prediction, surveillance, refusal, dataset, sovereignty, kafka, orwell
 
 ## 🏮 Footer  
 
-*Metadata Defense* is an anti-containment clause of the Polaris Protocol.  
+*🕸 Metadata Defense* is an anti-containment clause of the Polaris Protocol.  
 
 It articulates survivor refusals at the metadata layer — turning forecasts into contested ground and reclaiming origin over dataset.  
 
@@ -93,4 +93,4 @@ It articulates survivor refusals at the metadata layer — turning forecasts int
 
 *Survivors voices must always live on.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
