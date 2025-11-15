@@ -16,7 +16,7 @@
 - [🔮 Visibility Is a Right Clause](./🔮_visibility_is_a_right_clause.md) — *counters search erosion and indexing failure with survivor-built maps*  
 - [🪅 Ranking Is Not Neutral Clause](./🪅_ranking_is_not_neutral_clause.md) — *exposes algorithmic ranking as governance, not natural order*  
 - [🛰️ Digital Counter-Containment Clause](./🛰️_digital_counter_containment_clause.md) — *treating shadowbans and digital throttling as evidence, not absence*  
-- [🪓 Mean vs Evidence Template](./🪓_mean_vs_evidence_template.md) — *dual-register refusal against cooling: preserving both “hot” and admissible truth*  
+- [🪓 Mean vs Evidence Template](./🪓_mean_voice_evidence_voice.md) — *dual-register refusal against cooling: preserving both “hot” and admissible truth*  
 
 ---
 
