@@ -1,6 +1,6 @@
 # 📿 Survivor Syntax  
-**First created:** 2025-08-03 | **Last updated:** 2025-10-03  
-*Refusal language for those classified, ghosted, or flattened into silence*  
+**First created:** 2025-08-03 | **Last updated:** 2025-11-15  
+*Refusal language for those classified, ghosted, or flattened into silence.*  
 
 ---
 
@@ -79,7 +79,7 @@ refusal syntax, survivor language, classification, safeguarding, protest chants,
 
 ## 🏮 Footer  
 
-*Survivor Syntax* is an anti-containment clause of the Polaris Protocol.  
+*📿 Survivor Syntax* is an anti-containment clause of the Polaris Protocol.  
 It curates refusal language for survivors whose voices are flattened into silence, ensuring speech itself remains a weapon against containment.  
 
 > 📡 Cross-references:
@@ -91,4 +91,4 @@ It curates refusal language for survivors whose voices are flattened into silenc
 
 *Survivors voices must always live on.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
