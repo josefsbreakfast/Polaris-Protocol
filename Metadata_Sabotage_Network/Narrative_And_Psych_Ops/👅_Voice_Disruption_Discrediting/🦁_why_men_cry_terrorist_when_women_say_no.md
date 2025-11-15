@@ -1,4 +1,4 @@
-# 🦁 Why Menn Cry "Terrorist!" When Women Won't Sleep With Them
+# 🦁 Why Men Cry "Terrorist!" When Women Say "No."
 **First created:** 2025-11-15 | **Last updated:** 2025-11-15  
 *How sexual refusal is narrativised as extremism, threat, or subversion.*
 <!--How dare she reject Me, the Special Little White Man, in all my racial glory." 🙄🙄🙄 You and Himmler, bro.-->
