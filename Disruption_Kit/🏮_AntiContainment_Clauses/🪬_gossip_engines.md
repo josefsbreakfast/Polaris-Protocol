@@ -1,5 +1,5 @@
 # 🪬 Gossip Engines — The Social Physics Tech Keeps Misreading  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-15  
 *Why gendered dismissal of gossip blinds technical analysis to the real mechanics of virality.*
 
 ---
@@ -88,4 +88,4 @@ It restores gossip to its rightful status as a precision tool of social analytic
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-15_
