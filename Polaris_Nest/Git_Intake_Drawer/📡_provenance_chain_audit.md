@@ -1,5 +1,5 @@
 # 📡 Provenance Chain Audit  
-**First created:** 2025-10-31  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-15  
 *Tracing authorship, consent, and custody across the life of a digital record.*
 
 ---
@@ -95,4 +95,4 @@ It completes the **Cloneproof Protocol** constellation alongside:
 
 ---
 
-**Last updated:** 2025-10-31  
+_Last updated: 2025-11-15_
