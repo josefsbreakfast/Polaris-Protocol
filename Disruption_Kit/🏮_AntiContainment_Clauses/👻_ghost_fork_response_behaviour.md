@@ -1,6 +1,6 @@
 # 👻 Ghost Fork Response Behaviour  
-**First created:** 2025-08-07 | **Last updated:** 2025-10-03  
-*Countermeasures for behavioural ghost clones that mimic tone while muting rage and justice*  
+**First created:** 2025-08-07 | **Last updated:** 2025-11-15  
+*Countermeasures for behavioural ghost clones that mimic tone while muting rage and justice.*  
 
 ---
 
@@ -87,7 +87,7 @@ ghost fork, behavioural clone, mimicry, tone policing, narrative gaslighting, st
 
 ## 🏮 Footer  
 
-*Ghost Fork Response Behaviour* is an anti-containment clause of the Polaris Protocol.  
+*👻 Ghost Fork Response Behaviour* is an anti-containment clause of the Polaris Protocol.  
 
 It sets out countermeasures against mimicry loops that strip rage and justice from survivor voice.  
 
@@ -100,4 +100,4 @@ It sets out countermeasures against mimicry loops that strip rage and justice fr
 
 *Survivors voices must always live on.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
