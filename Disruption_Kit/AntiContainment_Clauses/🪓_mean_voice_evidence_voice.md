@@ -1,6 +1,6 @@
 # 🪓 Mean Voice / Evidence Voice   
-**First created:** 2025-09-05 | **Last updated:** 2025-10-03  
-*A countermeasure for holding both the “hot” and “admissible” versions of survivor testimony*  
+**First created:** 2025-09-05 | **Last updated:** 2025-11-15  
+*A countermeasure for holding both the “hot” and “admissible” versions of survivor testimony.*  
 
 ---
 
@@ -86,7 +86,7 @@ survivor testimony, refusal, cooling, dual register, evidence, affect, rage, arc
 
 ## 🏮 Footer  
 
-*Mean vs Evidence Template* is an anti-containment clause of the Polaris Protocol.  
+*🪓 Mean vs Evidence Template* is an anti-containment clause of the Polaris Protocol.  
 
 It provides a structured countermeasure to containment by cooling, ensuring survivor affect is logged without sacrificing evidentiary integrity.  
 
@@ -97,4 +97,4 @@ It provides a structured countermeasure to containment by cooling, ensuring surv
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
