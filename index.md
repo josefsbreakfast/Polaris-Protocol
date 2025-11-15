@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 21:52:01 UTC_
+_Generated on 2025-11-15 21:57:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2370,6 +2370,7 @@ _Generated on 2025-11-15 21:52:01 UTC_
     - [`🧫_the_default_on_being_unbroken.md`](Polaris_Nest/Git_Intake_Drawer/🧫_the_default_on_being_unbroken.md)
     - [`🧬_adolescent_endocrine_axis_vs_risk_axis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_adolescent_endocrine_axis_vs_risk_axis.md)
     - [`🧬_algorithmic_iatrogenesis_and_reflex_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_algorithmic_iatrogenesis_and_reflex_loops.md)
+    - [`🧬_ambient_data_exhaust.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ambient_data_exhaust.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_clone_multiplicity_knot_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_multiplicity_knot_logic.md)
     - [`🧬_collocative_deintegrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_deintegrity.md)
