@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 20:18:17 UTC_
+_Generated on 2025-11-15 20:23:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -29,6 +29,8 @@ _Generated on 2025-11-15 20:18:17 UTC_
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
+      - [**🏛️_Chaps_Be_Serious/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/)
+        - [`🌹_for_the_serious_red_ones.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_ones.md)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
         - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
