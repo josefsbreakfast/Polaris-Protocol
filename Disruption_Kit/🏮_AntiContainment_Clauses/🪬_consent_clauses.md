@@ -1,6 +1,6 @@
 # 🪬 Consent Clauses  
-**First created:** 2025-08-25 | **Last updated:** 2025-10-03  
-*Clauses to counter the assumption that visibility or metadata engagement equals consent*  
+**First created:** 2025-08-25 | **Last updated:** 2025-11-15  
+*Clauses to counter the assumption that visibility or metadata engagement equals consent.*  
 
 ---
 
@@ -83,7 +83,7 @@ consent, refusal, metadata, coercion, deepfake, opt-in by default, survivor sove
 
 ## 🏮 Footer  
 
-*Consent Clauses* is an anti-containment node of the Polaris Protocol.  
+*🪬 Consent Clauses* is an anti-containment node of the Polaris Protocol.  
 It refuses the exploitation of visibility as permission, asserting that consent must be explicit, ongoing, and revocable.  
 
 > 📡 Cross-references:
@@ -95,4 +95,4 @@ It refuses the exploitation of visibility as permission, asserting that consent 
 
 *Survivors voices must always live on.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
