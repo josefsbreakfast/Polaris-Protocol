@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:29:33 UTC_
+_Generated on 2025-11-15 18:30:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2066,7 +2066,6 @@ _Generated on 2025-11-15 18:29:33 UTC_
     - [`natcon_speakers_2023_2025_full.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025_full.csv)
     - [`numeric_summary_target_blowback_metrics.csv`](Polaris_Nest/Git_Intake_Drawer/numeric_summary_target_blowback_metrics.csv)
     - [`political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/political_metadata_and_the_problem_of_dynamic_identity.md)
-    - [`political_time_orientations_utopia_present_journey.md`](Polaris_Nest/Git_Intake_Drawer/political_time_orientations_utopia_present_journey.md)
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
     - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
@@ -2226,6 +2225,7 @@ _Generated on 2025-11-15 18:29:33 UTC_
     - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
     - [`🕰️_eta_drift_and_bureaucratic_time_inflation.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_eta_drift_and_bureaucratic_time_inflation.md)
     - [`🕰️_institutional_timescales_of_repair.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_institutional_timescales_of_repair.md)
+    - [`🕰️_political_time_orientations_utopia_present_journey.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_political_time_orientations_utopia_present_journey.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
     - [`🕳️_absence_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_absence_as_signal.md)
