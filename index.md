@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:31:02 UTC_
+_Generated on 2025-11-15 18:31:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2055,7 +2055,6 @@ _Generated on 2025-11-15 18:31:02 UTC_
       - [`🧿_moda_grants.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_moda_grants.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
-    - [`cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/cross_domain_visibility_systems_diagram.md)
     - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Polaris_Nest/Git_Intake_Drawer/deliberate_small_suppression_later_release_reciprocity_blowback.png)
     - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
@@ -2161,6 +2160,7 @@ _Generated on 2025-11-15 18:31:02 UTC_
     - [`📉_erosion_of_legitimacy_loops.md`](Polaris_Nest/Git_Intake_Drawer/📉_erosion_of_legitimacy_loops.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
+    - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
     - [`📊_from_data_misuse_to_white_collar_breach.md`](Polaris_Nest/Git_Intake_Drawer/📊_from_data_misuse_to_white_collar_breach.md)
     - [`📊_risk_scaling_of_algorithmic_misidentification.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scaling_of_algorithmic_misidentification.md)
