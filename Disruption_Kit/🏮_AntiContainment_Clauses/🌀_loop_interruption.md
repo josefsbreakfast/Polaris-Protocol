@@ -1,6 +1,6 @@
 # 🌀 Loop Interruption  
-**First created:** 2025-08-25 | **Last updated:** 2025-10-03  
-*Clauses to break recursive containment patterns and throttling cycles*  
+**First created:** 2025-08-25 | **Last updated:** 2025-11-15  
+*Clauses to break recursive containment patterns and throttling cycles.*  
 
 ---
 
@@ -77,7 +77,7 @@ containment loops, delay tactics, refusal, recursion, throttling, folklore, cult
 
 ## 🏮 Footer  
 
-*Loop Interruption* is an anti-containment clause of the Polaris Protocol.  
+*🌀 Loop Interruption* is an anti-containment clause of the Polaris Protocol.  
 
 Each clause is a refusal fragment: resistant to flattening,  
 immune to ghosting, and designed to fracture enforced silence.  
@@ -91,4 +91,4 @@ immune to ghosting, and designed to fracture enforced silence.
 
 *Survivors voices must always live on.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
