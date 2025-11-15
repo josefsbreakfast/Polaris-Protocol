@@ -213,7 +213,7 @@ Women who refuse male supervisors are reframed as:
 ### 🪞 **Reframe the Frame**
 “**This appears to be narrative escalation following a boundary I set.**”
 
-### 📣 Name the Misclassification**
+### 📣 **Name the Misclassification**
 “**Declining unwanted contact is not a risk indicator.**”
 
 ### 👁️‍🗨️ **Evidence Re-Anchor**
