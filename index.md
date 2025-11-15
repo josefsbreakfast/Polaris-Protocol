@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:11:34 UTC_
+_Generated on 2025-11-15 18:12:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -28,7 +28,6 @@ _Generated on 2025-11-15 18:11:34 UTC_
   - [`README.md`](Containment_Studies/README.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
-    - [`📿_survivor_syntax.md`](Disruption_Kit/AntiContainment_Clauses/📿_survivor_syntax.md)
     - [`🔮_visibility_is_a_right_clause.md`](Disruption_Kit/AntiContainment_Clauses/🔮_visibility_is_a_right_clause.md)
     - [`🕸_metadata_defense.md`](Disruption_Kit/AntiContainment_Clauses/🕸_metadata_defense.md)
     - [`🛰️_digital_counter_containment_clause.md`](Disruption_Kit/AntiContainment_Clauses/🛰️_digital_counter_containment_clause.md)
@@ -1602,6 +1601,7 @@ _Generated on 2025-11-15 18:11:34 UTC_
     - [`🎙_the_silence_after_command.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🎙_the_silence_after_command.md)
     - [`👻_ghost_fork_response_behaviour.md`](Disruption_Kit/🏮_AntiContainment_Clauses/👻_ghost_fork_response_behaviour.md)
     - [`📉_no_invisible_interference_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/📉_no_invisible_interference_clause.md)
+    - [`📿_survivor_syntax.md`](Disruption_Kit/🏮_AntiContainment_Clauses/📿_survivor_syntax.md)
   - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
     - [`README.md`](Disruption_Kit/💎_Resources/README.md)
     - [`⚖️_legal_templates_and_guides.md`](Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
