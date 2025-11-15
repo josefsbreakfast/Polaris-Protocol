@@ -1,6 +1,6 @@
 # 📉 No Invisible Interference Clause  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
-*Refusal clause against hidden throttling and commit sabotage*  
+**First created:** 2025-10-03 | **Last updated:** 2025-11-15  
+*Refusal clause against hidden throttling and commit sabotage.*  
 
 ---
 
@@ -71,4 +71,4 @@ It asserts that hidden throttling becomes permanent evidence once recorded.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
