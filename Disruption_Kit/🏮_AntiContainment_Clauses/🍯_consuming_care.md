@@ -1,5 +1,5 @@
-# 🐝 Consuming Care — From Cipher to Spectacle  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-13  
+# 🍯 Consuming Care — From Cipher to Spectacle  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-15  
 *How love languages became data languages.*
 
 ---
@@ -92,7 +92,7 @@ The future of affection may depend on recovering the right to opacity.
 ---
 
 ## 🌌 Constellations  
-🐝 🪄 🫀 💍 🚪 — ritual, intimacy, symbolism, performance, refuge.
+🍯 🐝 🪄 🫀 💍 🚪 — ritual, intimacy, symbolism, performance, refuge.
 
 ---
 
@@ -102,7 +102,7 @@ ritual architecture, thresholds, love as code, sweetheart rings, DNA jewellery, 
 ---
 
 ## 🏮 Footer  
-*🐝 Consuming Care — From Cipher to Spectacle* is a living node of the **Polaris Protocol**.  
+*🍯 Consuming Care — From Cipher to Spectacle* is a living node of the **Polaris Protocol**.  
 It traces how private rituals of affection are transmuted into public algorithms and asks what forms of love can still survive translation.  
 
 > 📡 Cross-references:
@@ -112,4 +112,4 @@ It traces how private rituals of affection are transmuted into public algorithms
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2025-11-15_
