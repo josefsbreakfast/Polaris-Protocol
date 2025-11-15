@@ -1,5 +1,5 @@
 # 🫱 Plain Speech & Intimacy in Operations
-**First created:** 2025-11-12 | **Status:** Draft — Stub Node
+**First created:** 2025-11-12 | **Last updated:** 2025-11-15  
 *Authored by Polaris Systems & Governance Working Group*
 
 ---
