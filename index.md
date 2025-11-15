@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:30:03 UTC_
+_Generated on 2025-11-15 18:30:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2061,7 +2061,6 @@ _Generated on 2025-11-15 18:30:03 UTC_
     - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`last_8_timesteps_full_sim.csv`](Polaris_Nest/Git_Intake_Drawer/last_8_timesteps_full_sim.csv)
-    - [`marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/marriage_as_state_containment_trope.md)
     - [`natcon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025.csv)
     - [`natcon_speakers_2023_2025_full.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025_full.csv)
     - [`numeric_summary_target_blowback_metrics.csv`](Polaris_Nest/Git_Intake_Drawer/numeric_summary_target_blowback_metrics.csv)
@@ -2134,6 +2133,7 @@ _Generated on 2025-11-15 18:30:03 UTC_
     - [`👾_what_robots_did_to_words.md`](Polaris_Nest/Git_Intake_Drawer/👾_what_robots_did_to_words.md)
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
+    - [`💍_marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/💍_marriage_as_state_containment_trope.md)
     - [`💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md`](Polaris_Nest/Git_Intake_Drawer/💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md)
     - [`💔_on_having_to_announce_ones_goodness.md`](Polaris_Nest/Git_Intake_Drawer/💔_on_having_to_announce_ones_goodness.md)
     - [`💔_risk_of_violent_treatment.md`](Polaris_Nest/Git_Intake_Drawer/💔_risk_of_violent_treatment.md)
