@@ -1,5 +1,5 @@
 # 🎙 The Silence After Command  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-01 | **Last updated:** 2025-11-15  
 _Spoiler warning: discussion contains key details from the conclusion of **V for Vendetta**._
 
 ---
@@ -53,4 +53,4 @@ It examines how the withdrawal of a commanding voice can collapse systemic viole
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2025-11-15_
