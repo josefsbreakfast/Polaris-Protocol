@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:18:39 UTC_
+_Generated on 2025-11-15 18:19:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -28,7 +28,6 @@ _Generated on 2025-11-15 18:18:39 UTC_
   - [`README.md`](Containment_Studies/README.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
-    - [`🪬_gossip_engines.md`](Disruption_Kit/AntiContainment_Clauses/🪬_gossip_engines.md)
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/AntiContainment_Clauses/🪷_narrative_reclamation.md)
     - [`🫱_plain_speech_and_intimacy_in_operations.md`](Disruption_Kit/AntiContainment_Clauses/🫱_plain_speech_and_intimacy_in_operations.md)
     - [`🫱_plain_speech_clause.md`](Disruption_Kit/AntiContainment_Clauses/🫱_plain_speech_clause.md)
@@ -1602,6 +1601,7 @@ _Generated on 2025-11-15 18:18:39 UTC_
     - [`🪅_ranking_is_not_neutral_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🪅_ranking_is_not_neutral_clause.md)
     - [`🪓_mean_voice_evidence_voice.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🪓_mean_voice_evidence_voice.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🪬_consent_clauses.md)
+    - [`🪬_gossip_engines.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🪬_gossip_engines.md)
   - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
     - [`README.md`](Disruption_Kit/💎_Resources/README.md)
     - [`⚖️_legal_templates_and_guides.md`](Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
