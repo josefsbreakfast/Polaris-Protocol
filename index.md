@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 02:41:30 UTC_
+_Generated on 2025-11-15 02:42:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -8,6 +8,11 @@ _Generated on 2025-11-15 02:41:30 UTC_
   - [**workflows/**](.github/workflows/)
     - [`generate-index.yml`](.github/workflows/generate-index.yml)
     - [`repo-wordcount.yml`](.github/workflows/repo-wordcount.yml)
+- [**.obsidian/**](.obsidian/)
+  - [`app.json`](.obsidian/app.json)
+  - [`appearance.json`](.obsidian/appearance.json)
+  - [`core-plugins.json`](.obsidian/core-plugins.json)
+  - [`workspace.json`](.obsidian/workspace.json)
 - [**Containment_Studies/**](Containment_Studies/)
   - [**🌙_Everyday_Containment/**](Containment_Studies/🌙_Everyday_Containment/)
     - [`README.md`](Containment_Studies/🌙_Everyday_Containment/README.md)
