@@ -1,5 +1,5 @@
 # 📥 Entry-Point Abuse in Automated Datasets  
-**First created:** 2025-10-31  
+**First created:** 2025-10-31 | **Last updated:** 2025‑11‑15  
 *How local discretion and professional trust become attack surfaces inside national-scale automation.*
 
 ---
@@ -93,8 +93,6 @@ It pairs with:
 - **📈 Escalation Drift in Complex Datasets** — how small entries amplify over time.  
 - **🧠 Cognitive Feedback and Bureaucratic Amplification** — how belief protects bad data from deletion.  
 
-> *Every system is only as honest as its first keystroke.*
+> *Every system is only as honest as its first keystroke.*  
 
----
-
-**Last updated:** 2025-10-31  
+_Last updated: 2025‑11‑15_  
