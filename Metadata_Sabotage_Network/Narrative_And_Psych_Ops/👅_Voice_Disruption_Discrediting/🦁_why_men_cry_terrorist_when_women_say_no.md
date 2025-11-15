@@ -32,7 +32,7 @@ Refusal destabilises the worldview in which women’s time, attention, and emoti
 To protect the self-image, the humiliation must be **externalised**.
 
 It becomes:  
-> “She is a problem, not I am rejected.”
+> “She is a problem, as I am not rejected.”
 
 ---
 
@@ -59,7 +59,9 @@ The woman is not simply female — she is already cast as:
 - “ideologically unsafe,”  
 - “disloyal,”  
 - “extremist-adjacent,”  
-- “deceptive,”  
+- “deceptive,”
+- "manipulative,"
+- "dangerous,"  
 before any contact occurs.
 
 Groups most commonly subjected to this dual-coded suspicion:  
@@ -71,29 +73,42 @@ Groups most commonly subjected to this dual-coded suspicion:
 - women culturally coded as “other”
 
 His racist-misogynistic worldview *preloads* her with threat attributes.  
-Her refusal becomes “proof” of the stereotype.
+Her refusal becomes his personalised, self-ego-centred “proof” of the stereotype.  
 
-This is why the escalation can feel “rational” to him.
+This is why the escalation can feel “rational” to him.  
 
 ---
 
 ## 🔥 Racial Hierarchy Violation: “How Dare *She* Reject Me?”
 In racialised misogyny, the woman’s refusal is not treated as a personal boundary but as a **violation of the racial order**.  
-The man interprets her autonomy as **insubordination**, because in his worldview:
+The man interprets her autonomy as **insubordination**, because in his worldview:  
 
+- he and her are in different groups,
+- specifically, different "racial" groups, a completely made-up category to justify slavery and colonial looting,  
 - her group is beneath his,  
-- therefore she owes him accommodation, attention, softness, access, or sexual availability.
+- therefore she owes him accommodation, attention, softness, access, sexual availability, and anything else he wants before he even thinks to want it.
+- She must, therefore, exist as permenantly available to meet his every whim, or she is subordinate, dangerous, and must be controlled through violent means.
+- This violence is the echo of centuries of racialised sexual violence, in circumstances which we would now consider crimes against humanity.
+- Historically, and in present day cases, this violence was inflicted beyond women, but primarily targeted the feminine body who did not obey -- and very often even when she did.  
+
+> "To violate the woman is to violate the land."
+>
+> Franz Fanon; A Dying Colonialism  
 
 Rejection becomes:
 
 > “How dare she reject me — she’s only a [racialised category].”
 
 For example, through an antisemitic lens, a white man may interpret rejection as:  
-> “How fucking dare she reject me? She’s just a Jew.”
+> “How dare she reject me? She’s just a Jew.”  
 
-This is not simply prejudice — it is **hierarchical sexual entitlement**, where the refusal of a woman from a “lowered” category provokes disproportionate rage and retaliatory escalation.
+This is not simply prejudice — it is **hierarchical sexual entitlement**, where the refusal of a woman from a “lowered” category provokes disproportionate rage and retaliatory escalation.  
 
-The accusation of “extremism,” “instability,” or “risk” then becomes a **punitive response** for violating the imagined hierarchy.
+The accusation of “extremism,” “instability,” or “risk” then becomes a **punitive response** for violating the imagined hierarchy.  
+
+In more extreme male political violence, our accusor may indeed see the woman of his ire as violating an imagined goal of racial purity.  
+
+It is not necessary to determine the degree of his extremism, in order to understand that the consequences are harmful, and to destroy such pseudological thoughts and acts wherever and whenever they arise.  
 
 ---
 
@@ -108,9 +123,15 @@ It converts personal embarrassment into **performative vigilance**.
 ---
 
 # 5. 🗂 Institutional Echo Effects
-Institutions amplify the man’s escalation because they are structurally predisposed to believe it.
+Institutions amplify the man’s escalation because they are structurally predisposed to believe it.  
 
-This is where the dynamic stops being personal and becomes **systemic harm**.
+Similarly they are positioned to nullify or cast away the concerns of the racialised or marginalised woman.  
+
+This is where the dynamic stops being personal and becomes **systemic harm**.  
+
+Neglect to act, to prevent, is to assist the abuse by omission and lavk of clarity.  
+
+Vigilance must be redirected, and trained on wherever the harm may arise.  
 
 ---
 
@@ -118,7 +139,9 @@ This is where the dynamic stops being personal and becomes **systemic harm**.
 
 ### 1. **Threat Inflation Culture**
 Institutions are punished for under-reacting and rarely punished for over-reacting.  
-Men’s threat claims plug directly into this risk-averse circuitry.
+Men’s threat claims plug directly into this risk-averse circuitry.  
+
+This depletes real resources in real time, further entrenching the violence of misogyny.  
 
 ### 2. **Gendered Interpretability Bias**
 Women’s refusal is culturally misread as:  
@@ -131,6 +154,8 @@ Men’s distress is misread as:
 - professionalism,  
 - vigilance.
 
+This is seen in great relief when geniune female abusers of men position their victims as emasculated, and render them in the feminine register, weaponising patriarchal violence to suit their own circumstances.  
+
 ### 3. **Racialised Suspicion Templates**
 Institutional paradigms already contain racialised assumptions:
 
@@ -140,14 +165,17 @@ Institutional paradigms already contain racialised assumptions:
 - South Asian women → “grooming / extremist pressure”  
 
 The man’s narrative fits pre-existing schema.  
-It feels “plausible” because racism and misogyny have already furnished the template.
+It feels “plausible” because racism and misogyny have already furnished the template.  
 
 ### 4. **No Concept of Narcissistic Injury**
 Institutions lack a schema for **male retaliation following a boundary**.  
-Without that schema, the system miscategorises his grievance as “risk data.”
+
+Without that schema, the system miscategorises his grievance as “risk data.”  
+
+The lack represents a wider assumption by the same men: that their entitlement has basis in shared realities, and is "natural".  
 
 ### 5. **Bureaucratic Convenience**
-It is easier to escalate a woman into a “concern” than to challenge a man’s misuse of safeguarding language.
+It is easier to escalate a woman into a “concern” than to challenge a man’s misuse of safeguarding language.  
 
 ---
 
