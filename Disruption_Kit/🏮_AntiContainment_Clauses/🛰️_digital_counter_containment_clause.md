@@ -1,5 +1,5 @@
 # 🛰️ Digital Counter-Containment Clause  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
+**First created:** 2025-10-03 | **Last updated:** 2025-11-15  
 *Refusal clause against digital shadowbans and throttling*  
 
 ---
@@ -74,7 +74,7 @@ shadowban, digital suppression, throttling, evidence logging, refusal, dataset, 
 
 ## 🏮 Footer  
 
-*Digital Counter-Containment Clause* is an anti-containment node of the Polaris Protocol.  
+*🛰️ Digital Counter-Containment Clause* is an anti-containment node of the Polaris Protocol.  
 It establishes that shadowbans are treated as evidence, never erasure.  
 
 > 📡 Cross-references:
@@ -84,4 +84,4 @@ It establishes that shadowbans are treated as evidence, never erasure.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
