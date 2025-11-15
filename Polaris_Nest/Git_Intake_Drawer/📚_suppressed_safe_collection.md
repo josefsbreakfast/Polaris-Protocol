@@ -1,6 +1,6 @@
-#📚 Suppressed Safe Collection  
-**First created:** 2025-10-16 | **Last updated:** 2025-10-16  
-*An anatomy of archival censorship disguised as library housekeeping.*
+# 📚 Suppressed Safe Collection  
+**First created:** 2025-10-16 | **Last updated:** 2025-11-15  
+*An anatomy of archival censorship disguised as library housekeeping.*  
 
 ---
 
@@ -71,14 +71,14 @@ Suppressed Safe, British Museum Library, censorship, metadata suppression, priva
 
 ## 🏮 Footer  
 
-*Suppressed Safe Collection* is a living node of the Polaris Protocol.  
+*📚 Suppressed Safe Collection* is a living node of the Polaris Protocol.  
 It documents the genealogy of suppression as logistics — from the locked cabinet to the algorithmic queue — exposing how institutions sanitise knowledge under the guise of order.  
 
-> 📡 Cross-references:  
-> - [👁️‍🗨️ Witness Historical Casefiles](../Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/) — forensic witness archives  
-> - [🧿 Watch The Watchers](../Disruption_Kit/Big_Picture_Protocols/🧿_Watch_The_Watchers/) — oversight of oversight mechanisms  
-> - [🔮 House Style](../Polaris_Nest/🏮_Admin_Kit/🔮_house_style.md) — formatting and ethical guidance  
+> 📡 Cross-references:
+> 
+> - [👁️‍🗨️ Witness Historical Casefiles](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic witness archives*  
+> - [🧿 Watch The Watchers](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-11-15_
