@@ -149,6 +149,8 @@ Men’s threat claims plug directly into this risk-averse circuitry.
 
 This depletes real resources in real time, further entrenching the violence of misogyny.  
 
+---
+
 ### 🎩 **Gendered Interpretability Bias**
 Women’s refusal is culturally misread as:  
 - evasive,  
@@ -162,6 +164,8 @@ Men’s distress is misread as:
 
 This is seen in great relief when geniune female abusers of men position their victims as emasculated, and render them in the feminine register, weaponising patriarchal violence to suit their own circumstances.  
 
+---
+
 ### 🪬 **Racialised Suspicion Templates**
 Institutional paradigms already contain racialised assumptions:
 
@@ -173,12 +177,16 @@ Institutional paradigms already contain racialised assumptions:
 The man’s narrative fits pre-existing schema.  
 It feels “plausible” because racism and misogyny have already furnished the template.  
 
+---
+
 ### 🕳️ **No Concept of Narcissistic Injury**
 Institutions lack a schema for **male retaliation following a boundary**.  
 
 Without that schema, the system miscategorises his grievance as “risk data.”  
 
 The lack represents a wider assumption by the same men: that their entitlement has basis in shared realities, and is "natural".  
+
+---
 
 ### 🏛️ **Bureaucratic Convenience**
 It is easier to escalate a woman into a “concern” than to challenge a man’s misuse of safeguarding language.  
