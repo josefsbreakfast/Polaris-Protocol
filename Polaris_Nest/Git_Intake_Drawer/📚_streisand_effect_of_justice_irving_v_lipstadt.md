@@ -1,6 +1,6 @@
 # 📚 The Streisand Effect of Justice — Irving v Lipstadt  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
-*How exposing denial amplified it.*
+**First created:** 2025-11-07 | **Last updated:** 2025-11-15  
+*How exposing denial amplified it.*  
 
 ---
 
@@ -11,8 +11,9 @@ Explores visibility vs. containment in informational ethics.
 ---
 
 ## 🏮 Footer  
-*The Streisand Effect of Justice* is a living node of the Polaris Protocol.  
+*📚 The Streisand Effect of Justice* is a living node of the Polaris Protocol.  
 It studies how evidentiary triumph can still generate narrative contagion.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-07_
+
+_Last updated: 2025-11-15_
