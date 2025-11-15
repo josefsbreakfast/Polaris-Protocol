@@ -1,5 +1,5 @@
 # 🔮 Visibility Is a Right Clause  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-03  
+**First created:** 2025-10-03 | **Last updated:** 2025-11-15  
 *Refusal clause against search erosion and indexing failure*  
 
 ---
@@ -74,7 +74,7 @@ visibility, right to be seen, indexing failure, search erosion, survivor archive
 
 ## 🏮 Footer  
 
-*Visibility Is a Right Clause* is an anti-containment node of the Polaris Protocol.  
+*🔮 Visibility Is a Right Clause* is an anti-containment node of the Polaris Protocol.  
 It declares visibility as a non-negotiable right and builds alternative indices when denied.  
 
 > 📡 Cross-references:  
@@ -82,4 +82,4 @@ It declares visibility as a non-negotiable right and builds alternative indices 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-11-15_  
