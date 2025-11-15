@@ -1,7 +1,7 @@
 # 🧩 Incoming Correspondence Risk Matrix  
 **First created:** 2025-11-15 | **Last updated:** 2025-11-15  
 *A high-level behavioural and governance-oriented assessment of risks associated with opening a public correspondence channel (PO Box + registry), with specific attention to misinterpretation, projection, and misuse by hostile actors.*  
-
+<!--£10 says "new survival sex work" has already appeared in my MH record.-->
 ---
 
 ## 🛰️ Orientation  
