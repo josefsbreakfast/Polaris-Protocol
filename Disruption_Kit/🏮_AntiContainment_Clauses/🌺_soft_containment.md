@@ -1,5 +1,5 @@
 # 🌺 Soft Containment — Euphemisms for Intelligence in Unequal Rooms  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-15  
 *The social refusal to name female intellect.*
 
 ---
@@ -58,5 +58,5 @@ It documents the linguistic containment of intellect and proposes strategies for
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-15_
 
