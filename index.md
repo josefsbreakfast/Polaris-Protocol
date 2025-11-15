@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:15:40 UTC_
+_Generated on 2025-11-15 18:16:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -28,7 +28,6 @@ _Generated on 2025-11-15 18:15:40 UTC_
   - [`README.md`](Containment_Studies/README.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**AntiContainment_Clauses/**](Disruption_Kit/AntiContainment_Clauses/)
-    - [`🪅_ranking_is_not_neutral_clause.md`](Disruption_Kit/AntiContainment_Clauses/🪅_ranking_is_not_neutral_clause.md)
     - [`🪓_mean_voice_evidence_voice.md`](Disruption_Kit/AntiContainment_Clauses/🪓_mean_voice_evidence_voice.md)
     - [`🪬_consent_clauses.md`](Disruption_Kit/AntiContainment_Clauses/🪬_consent_clauses.md)
     - [`🪬_gossip_engines.md`](Disruption_Kit/AntiContainment_Clauses/🪬_gossip_engines.md)
@@ -1602,6 +1601,7 @@ _Generated on 2025-11-15 18:15:40 UTC_
     - [`🕸_metadata_defense.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🕸_metadata_defense.md)
     - [`🛰️_digital_counter_containment_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🛰️_digital_counter_containment_clause.md)
     - [`🧾_new_additions_prepbook.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🧾_new_additions_prepbook.md)
+    - [`🪅_ranking_is_not_neutral_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🪅_ranking_is_not_neutral_clause.md)
   - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
     - [`README.md`](Disruption_Kit/💎_Resources/README.md)
     - [`⚖️_legal_templates_and_guides.md`](Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
