@@ -93,9 +93,13 @@ Real transparency begins the moment the actors forget their lines.
 
 🪞 Ceremonial Transparency · 🎭 Civic Satire · 🏏 Pitch at Palace Audit Practice · 🦇 Prestige Capture Mechanisms · 👑 Event‑Level Manifestation  
 
+---
+
 ## ✨ Stardust  
 
 governance performance, ceremonial transparency, civic satire, prestige economy, polaris system, institutional aesthetics, meta‑transparency, accountability theatre, public oversight, cultural psychology  
+
+---
 
 ## 🏮 Footer  
 
@@ -103,11 +107,11 @@ governance performance, ceremonial transparency, civic satire, prestige economy,
 
 > 📡 Cross‑references:  
 > 
-> - [🦇 prestige_capture_mechanisms.md](../System_Governance/Prestige_Capture/🦇_prestige_capture_mechanisms.md) — institutional underpinning  
-> - [👑 pitch_palace_outpicture_paths.md](../System_Governance/Pitch_Palace/👑_pitch_palace_outpicture_paths.md) — event‑level manifestation  
-> - [🪶 tea_toast_and_transparency.md](../System_Governance/Humor/🪶_tea_toast_and_transparency.md) — humour precedent  
-> - [🧩 accountability_failures_and_public_trust.md](../System_Governance/Trust_Decay/🧩_accountability_failures_and_public_trust.md) — inquiry fatigue connection  
-> - [🎭 civic_stagecraft_reform_protocol.md](../System_Governance/Transparency_Reform/🎭_civic_stagecraft_reform_protocol.md) — proposed counter‑model  
+> - [🦇 prestige_capture_mechanisms.md] — *institutional underpinning*  
+> - [👑 pitch_palace_outpicture_paths.md] — *event‑level manifestation*  
+> - [🪶 tea_toast_and_transparency.md] — *humour precedent*  
+> - [🧩 accountability_failures_and_public_trust.md] — *inquiry fatigue connection*  
+> - [🎭 civic_stagecraft_reform_protocol.md] — *proposed counter‑model*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
