@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:27:29 UTC_
+_Generated on 2025-11-15 18:28:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2065,7 +2065,6 @@ _Generated on 2025-11-15 18:27:29 UTC_
     - [`natcon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025.csv)
     - [`natcon_speakers_2023_2025_full.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025_full.csv)
     - [`numeric_summary_target_blowback_metrics.csv`](Polaris_Nest/Git_Intake_Drawer/numeric_summary_target_blowback_metrics.csv)
-    - [`operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/operant_conditioning_the_algorithm.md)
     - [`political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`political_time_orientations_utopia_present_journey.md`](Polaris_Nest/Git_Intake_Drawer/political_time_orientations_utopia_present_journey.md)
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
@@ -2089,6 +2088,7 @@ _Generated on 2025-11-15 18:27:29 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
+    - [`🍪_operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🍪_operant_conditioning_the_algorithm.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
