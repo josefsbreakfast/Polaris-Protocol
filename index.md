@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 18:30:41 UTC_
+_Generated on 2025-11-15 18:31:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2055,7 +2055,6 @@ _Generated on 2025-11-15 18:30:41 UTC_
       - [`🧿_moda_grants.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_moda_grants.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
-    - [`contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/contingent_conservatism_and_long_horizon_politics.md)
     - [`cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/cross_domain_visibility_systems_diagram.md)
     - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Polaris_Nest/Git_Intake_Drawer/deliberate_small_suppression_later_release_reciprocity_blowback.png)
     - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
@@ -2071,6 +2070,7 @@ _Generated on 2025-11-15 18:30:41 UTC_
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
+    - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_contingent_conservatism_and_long_horizon_politics.md)
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
