@@ -1,5 +1,5 @@
 # 🌪️ Field Conditioning — Rewriting the Medium of Influence  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-15  
 *When the air itself becomes part of the strategy.*
 
 ---
@@ -88,4 +88,4 @@ It describes methods for altering the atmospheric layer of communication so powe
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-15_
