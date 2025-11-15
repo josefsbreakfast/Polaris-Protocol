@@ -10,7 +10,7 @@
 - [📿 Survivor Syntax](./📿_survivor_syntax.md) — *refusal phrases to resist misclassification, red-flagging, and ghosting*  
 - [🕸 Metadata Defense](./🕸_metadata_defense.md) — *sovereignty clauses against behavioural parsing, prediction, and data capture*  
 - [👻 Ghost Fork Response Behaviour](./👻_ghost_fork_response_behaviour.md) — *counter-protocols for clones that mimic tone while muting rage*  
-- [🪬 Consent Clauses](./🪬_onsent_clauses.md) — *dismantling false equivalences of visibility, silence, and consent*  
+- [🪬 Consent Clauses](./🪬_consent_clauses.md) — *dismantling false equivalences of visibility, silence, and consent*  
 - [🌀 Loop Interruption](./🌀_loop_interruption.md) — *breakouts from recursive throttling, forced patience, and delay cycles*  
 - [📉 No Invisible Interference Clause](./📉_no_invisible_interference_clause.md) — *refusal of hidden throttling, commit sabotage, and forensic erasure*  
 - [🔮 Visibility Is a Right Clause](./🔮_visibility_is_a_right_clause.md) — *counters search erosion and indexing failure with survivor-built maps*  
