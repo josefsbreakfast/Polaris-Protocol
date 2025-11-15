@@ -1,5 +1,5 @@
 # 🌿 Wild-Type Protocol — Environmental Tuning for Natural Encounters  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-15  
 *Designing biomes for the right coincidences.*
 
 ---
@@ -75,10 +75,10 @@ It reframes connection as ecological design: tune the habitat, and the right sig
 
 > 📡 Cross-references:  
 > 
-> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md) - *when abandoned architecture keeps singing*  
-> – [🌱 Guerrilla Gardening — The Lawful Illegality of Care](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_lawful_illegality_of_care.md) - *when tending the neglected becomes a legal question*  
-> – [🧪 Development & Experimentation](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation) — *field conditioning and adaptive systems*  
+> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md) - *when abandoned architecture keeps singing*  
+> – [🌱 Guerrilla Gardening — The Lawful Illegality of Care](../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_lawful_illegality_of_care.md) - *when tending the neglected becomes a legal question*  
+> – [🧪 Development & Experimentation](../Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation) — *field conditioning and adaptive systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-15_
