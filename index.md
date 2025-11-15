@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-15 20:28:01 UTC_
+_Generated on 2025-11-15 20:29:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -30,6 +30,7 @@ _Generated on 2025-11-15 20:28:01 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
       - [**🏛️_Chaps_Be_Serious/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/README.md)
         - [`🌹_for_the_serious_red_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)
         - [`🖌️_for_the_serious_blue_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
