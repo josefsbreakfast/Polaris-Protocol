@@ -1,6 +1,6 @@
-# 💔 Risk of Violent Treatment
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11
-*Forensic reflection on institutional profiling, survivor safety, and systemic retraumatisation.*
+# 💔 Risk of Violent Treatment  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-15  
+*Forensic reflection on institutional profiling, survivor safety, and systemic retraumatisation.*  
 
 ---
 
@@ -39,13 +39,14 @@ risk flags, survivor safety, police profiling, trauma loops, care plans, bureauc
 ---
 
 ## 🏮 Footer
-*Risk of Violent Treatment* is a living node of the Polaris Protocol.  
+*💔 Risk of Violent Treatment* is a living node of the Polaris Protocol.  
 It belongs to *Everyday Containment*, mapping how ordinary administrative gaps become engines of retraumatisation.  
 
-> 📡 Cross‑references:  
-> - [🌙 Everyday Containment](../🌙_everyday_containment/)  
-> - [📚 Token Integrity & Relationship Direction Audit](../../Big_Picture_Protocols/⚖️_Legal_&_State_Governance/📚_token_integrity_relationship_direction_audit.md)  
+> 📡 Cross‑references:
+> 
+> - [🌙 Everyday Containment]  
+> - [📚 Token Integrity & Relationship Direction Audit]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-15_
