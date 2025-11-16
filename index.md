@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 23:08:42 UTC_
+_Generated on 2025-11-16 23:12:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2566,6 +2566,7 @@ _Generated on 2025-11-16 23:08:42 UTC_
     - [`🧿_targeted_metadata_capture_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_targeted_metadata_capture_in_prevent.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
+    - [`🩸_coercive_dynamics_in_prevent_data.md`](Polaris_Nest/Git_Intake_Drawer/🩸_coercive_dynamics_in_prevent_data.md)
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
     - [`🩸_death_as_diplomacy_from_smolensk_to_tver.md`](Polaris_Nest/Git_Intake_Drawer/🩸_death_as_diplomacy_from_smolensk_to_tver.md)
     - [`🩸_ideological_skinwalkers.md`](Polaris_Nest/Git_Intake_Drawer/🩸_ideological_skinwalkers.md)
