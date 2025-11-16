@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:45:11 UTC_
+_Generated on 2025-11-16 22:46:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2550,6 +2550,7 @@ _Generated on 2025-11-16 22:45:11 UTC_
     - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
     - [`🧿_representation_logic_vs_platform_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/🧿_representation_logic_vs_platform_optimisation.md)
     - [`🧿_survivor_credibility_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧿_survivor_credibility_loops.md)
+    - [`🧿_targeted_metadata_capture_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_targeted_metadata_capture_in_prevent.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
