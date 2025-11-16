@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:26:44 UTC_
+_Generated on 2025-11-16 22:28:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2401,6 +2401,7 @@ _Generated on 2025-11-16 22:26:44 UTC_
     - [`🧟_i_am_a_zombie_data_subject.md`](Polaris_Nest/Git_Intake_Drawer/🧟_i_am_a_zombie_data_subject.md)
     - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
+    - [`🧠 _institutional_perception_no_win_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧠 _institutional_perception_no_win_zone.md)
     - [`🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md)
     - [`🧠_ai_ethicswash.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ai_ethicswash.md)
     - [`🧠_algorithmic_operant_conditioning.md`](Polaris_Nest/Git_Intake_Drawer/🧠_algorithmic_operant_conditioning.md)
