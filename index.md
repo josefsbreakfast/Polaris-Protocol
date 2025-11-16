@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:12:50 UTC_
+_Generated on 2025-11-16 22:14:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2321,6 +2321,7 @@ _Generated on 2025-11-16 22:12:50 UTC_
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
+    - [`🕸️_algorithmic_hearing_is _not_listening.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_algorithmic_hearing_is _not_listening.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
     - [`🕸️_containment_as_emergent_system_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_containment_as_emergent_system_behaviour.md)
     - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
