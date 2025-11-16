@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:52:12 UTC_
+_Generated on 2025-11-16 22:53:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2154,6 +2154,7 @@ _Generated on 2025-11-16 22:52:12 UTC_
     - [`🌫️_metadata_as_mist.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_metadata_as_mist.md)
     - [`🌱_institutional_betrayal_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🌱_institutional_betrayal_reflex.md)
     - [`🍪_operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🍪_operant_conditioning_the_algorithm.md)
+    - [`🎐_psychology_of_just_raising_concerns.md`](Polaris_Nest/Git_Intake_Drawer/🎐_psychology_of_just_raising_concerns.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
