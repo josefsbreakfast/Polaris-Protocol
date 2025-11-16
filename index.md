@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:09:30 UTC_
+_Generated on 2025-11-16 22:12:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2449,6 +2449,7 @@ _Generated on 2025-11-16 22:09:30 UTC_
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
     - [`🧩_the_data_empathy_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_data_empathy_gap.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
+    - [`🧩_the_politic_is_no_longer_heard.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_politic_is_no_longer_heard.md)
     - [`🧩_twinning_as_reputation_repair.md`](Polaris_Nest/Git_Intake_Drawer/🧩_twinning_as_reputation_repair.md)
     - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_machine_tags_high_friction_profiles.md)
     - [`🧪_how_scientists_go_nazi.md`](Polaris_Nest/Git_Intake_Drawer/🧪_how_scientists_go_nazi.md)
