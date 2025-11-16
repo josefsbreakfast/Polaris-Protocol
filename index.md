@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:17:05 UTC_
+_Generated on 2025-11-16 22:18:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2201,6 +2201,7 @@ _Generated on 2025-11-16 22:17:05 UTC_
     - [`👾_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/👾_algorithmic_projection_and_false_personalisation.md)
     - [`👾_bad_algorithms_good_data.md`](Polaris_Nest/Git_Intake_Drawer/👾_bad_algorithms_good_data.md)
     - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
+    - [`👾_we_are_citizens_not_datasets.md`](Polaris_Nest/Git_Intake_Drawer/👾_we_are_citizens_not_datasets.md)
     - [`👾_what_robots_did_to_words.md`](Polaris_Nest/Git_Intake_Drawer/👾_what_robots_did_to_words.md)
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
