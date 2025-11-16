@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 23:04:10 UTC_
+_Generated on 2025-11-16 23:05:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2573,6 +2573,7 @@ _Generated on 2025-11-16 23:04:10 UTC_
     - [`🩸_the_long_fuse_2010_2017.md`](Polaris_Nest/Git_Intake_Drawer/🩸_the_long_fuse_2010_2017.md)
     - [`🪆_containment_logic_as_witch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🪆_containment_logic_as_witch_logic.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
+    - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
     - [`🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md)
