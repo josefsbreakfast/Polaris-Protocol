@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 09:12:32 UTC_
+_Generated on 2025-11-16 10:41:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1699,6 +1699,13 @@ _Generated on 2025-11-16 09:12:32 UTC_
       - [`🪤_containment_pedagogy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪤_containment_pedagogy.md)
     - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
+      - [`british_bureaucratic_theocracy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/british_bureaucratic_theocracy.md)
+      - [`male_ejaculation_encoded_in_female_data_subjects.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_ejaculation_encoded_in_female_data_subjects.md)
+      - [`male_emotion_as_epistemic_authority.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotion_as_epistemic_authority.md)
+      - [`male_emotional_states_as_risk_metadata.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotional_states_as_risk_metadata.md)
+      - [`safeguarding_as_soft_authoritarianism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/safeguarding_as_soft_authoritarianism.md)
+      - [`the_ejaculatory_projection_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/the_ejaculatory_projection_pipeline.md)
+      - [`transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/transatlantic_protection_rackets.md)
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
       - [`🎭_containment_as_equilibrium_theatre.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_containment_as_equilibrium_theatre.md)
