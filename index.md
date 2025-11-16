@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 11:05:25 UTC_
+_Generated on 2025-11-16 11:08:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -449,6 +449,7 @@ _Generated on 2025-11-16 11:05:25 UTC_
       - [**🍿_Historical_Democratic_Actions/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/)
         - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/README.md)
+          - [`⚖️_institutions_2022_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
           - [`⚖️_reputation_after_revelation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)
           - [`🌍_crisis_absorption_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌍_crisis_absorption_logic.md)
           - [`🌪️_the_legitamacy_crisis_era_2023_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌪️_the_legitamacy_crisis_era_2023_2025.md)
