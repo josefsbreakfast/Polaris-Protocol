@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:25:17 UTC_
+_Generated on 2025-11-16 22:26:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2441,6 +2441,7 @@ _Generated on 2025-11-16 22:25:17 UTC_
     - [`🧩_don’t_listen_to_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_don’t_listen_to_the_algorithm.md)
     - [`🧩_emergent_surveillance_without_malice.md`](Polaris_Nest/Git_Intake_Drawer/🧩_emergent_surveillance_without_malice.md)
     - [`🧩_existential_threat_response_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧩_existential_threat_response_loop.md)
+    - [`🧩_friction_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧩_friction_patterns.md)
     - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Polaris_Nest/Git_Intake_Drawer/🧩_from_diffusion_to_forum_cross_pollination.md)
     - [`🧩_health_prevent_ct_data_interlock.md`](Polaris_Nest/Git_Intake_Drawer/🧩_health_prevent_ct_data_interlock.md)
     - [`🧩_ideal_whitehall_response_sequence.md`](Polaris_Nest/Git_Intake_Drawer/🧩_ideal_whitehall_response_sequence.md)
