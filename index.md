@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 13:18:26 UTC_
+_Generated on 2025-11-16 13:22:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2258,6 +2258,7 @@ _Generated on 2025-11-16 13:18:26 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔁_ritual_and_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🔁_ritual_and_refusal.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
+    - [`🔍_institutional_freeze_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🔍_institutional_freeze_patterns.md)
     - [`🔍_mistaken_release_as_friction_shortcut.md`](Polaris_Nest/Git_Intake_Drawer/🔍_mistaken_release_as_friction_shortcut.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md`](Polaris_Nest/Git_Intake_Drawer/🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md)
