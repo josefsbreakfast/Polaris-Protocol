@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:37:18 UTC_
+_Generated on 2025-11-16 22:38:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2296,6 +2296,7 @@ _Generated on 2025-11-16 22:37:18 UTC_
     - [`🔥_pink_pussyhats_the_backlash_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🔥_pink_pussyhats_the_backlash_cycle.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
+    - [`🔮_daylight_effects_in_governance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🔮_daylight_effects_in_governance_systems.md)
     - [`🔮_post_chaos_governance_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🔮_post_chaos_governance_archetypes.md)
     - [`🔮_post_legitimacy_landscape_2026_2030.md.md`](Polaris_Nest/Git_Intake_Drawer/🔮_post_legitimacy_landscape_2026_2030.md.md)
     - [`🔮_predictive_containment_and_emergent_friction.md`](Polaris_Nest/Git_Intake_Drawer/🔮_predictive_containment_and_emergent_friction.md)
