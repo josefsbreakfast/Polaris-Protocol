@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:03:39 UTC_
+_Generated on 2025-11-16 22:05:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2283,6 +2283,7 @@ _Generated on 2025-11-16 22:03:39 UTC_
     - [`🔍_mistaken_release_as_friction_shortcut.md`](Polaris_Nest/Git_Intake_Drawer/🔍_mistaken_release_as_friction_shortcut.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md`](Polaris_Nest/Git_Intake_Drawer/🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md)
+    - [`🔥_ stop_being_weird_and_start_being_wife-material_for_science.md`](Polaris_Nest/Git_Intake_Drawer/🔥_ stop_being_weird_and_start_being_wife-material_for_science.md)
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_pink_pussyhats_the_backlash_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🔥_pink_pussyhats_the_backlash_cycle.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
