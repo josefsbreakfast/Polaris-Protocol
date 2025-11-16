@@ -43,4 +43,14 @@ And embracing myself are however many letter letters I get demanding I go to cou
 
 This is a legal under the serious crime act; all organisations engaged with my public record should be taking reasonable steps to protect me from the source of this abuse.  
 
-Let's see if any of them change their minds this week.
+Let's see if any of them change their minds this week.  
+
+---
+
+baring in mind the frankenstavk has locked thousands of pounds of computer kit away when ive made myself sicker and injured myself more to work, the random bits of the £50 "itll do until the repo is a thing" laptop appearing like breadcrumbs on the floor was a bit too well timed 🤣🤣🤣.  
+
+`Disruption_Kit/Field_Logs/it_was_50£_at_cex_but_this_is_the_wishlist_inspo.HEIC`.   
+
+ive actually been routinely without core kit for 10 yesrs vecaise the midlands cannot act to recify their data errors, but sure go off if you have to.  
+
+you emdont get to gave it both ways. youre going to need to pick a lane.  
