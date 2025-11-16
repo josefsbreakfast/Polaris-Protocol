@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 23:02:01 UTC_
+_Generated on 2025-11-16 23:04:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2144,6 +2144,7 @@ _Generated on 2025-11-16 23:02:01 UTC_
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
     - [`⚡️_crackling_channels.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_crackling_channels.md)
+    - [`⚡️_public_legitimacy_crisis_behavioural_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_public_legitimacy_crisis_behavioural_governance.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
