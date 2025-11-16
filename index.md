@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:33:33 UTC_
+_Generated on 2025-11-16 22:36:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2438,6 +2438,7 @@ _Generated on 2025-11-16 22:33:33 UTC_
     - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
+    - [`🧩 _threat_surface_map.md`](Polaris_Nest/Git_Intake_Drawer/🧩 _threat_surface_map.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_algorithmic_conscience.md`](Polaris_Nest/Git_Intake_Drawer/🧩_algorithmic_conscience.md)
     - [`🧩_archetype_of_the_sensible_man.md`](Polaris_Nest/Git_Intake_Drawer/🧩_archetype_of_the_sensible_man.md)
