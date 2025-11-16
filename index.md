@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:05:58 UTC_
+_Generated on 2025-11-16 22:07:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2333,6 +2333,7 @@ _Generated on 2025-11-16 22:05:58 UTC_
     - [`🕸️_voice_lineage_and_dataset_chain.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_voice_lineage_and_dataset_chain.md)
     - [`🕸️_web_sovereignity.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_web_sovereignity.md)
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
+    - [`🕹️_getting_the_tech_bros_back_on_script.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_getting_the_tech_bros_back_on_script.md)
     - [`🖍️_the_colouring_book_experiment_containment_as_curriculum.md`](Polaris_Nest/Git_Intake_Drawer/🖍️_the_colouring_book_experiment_containment_as_curriculum.md)
     - [`🗂️_data_sharing_trace_mod_links.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_data_sharing_trace_mod_links.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
