@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 14:18:27 UTC_
+_Generated on 2025-11-16 14:20:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2391,6 +2391,7 @@ _Generated on 2025-11-16 14:18:27 UTC_
     - [`🧠_extraction_loop_data_vs_story.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extraction_loop_data_vs_story.md)
     - [`🧠_institutional_weather_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_weather_systems.md)
     - [`🧠_linguistic_containment_and_sexual_violence.md`](Polaris_Nest/Git_Intake_Drawer/🧠_linguistic_containment_and_sexual_violence.md)
+    - [`🧠_misclassification_via_trauma_reflexes.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassification_via_trauma_reflexes.md)
     - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassifying_intellectual_intimacy.md)
     - [`🧠_multilock_overlapping_covertion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_covertion.md)
     - [`🧠_politicians_and_public_contact.md`](Polaris_Nest/Git_Intake_Drawer/🧠_politicians_and_public_contact.md)
