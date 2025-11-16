@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 13:10:51 UTC_
+_Generated on 2025-11-16 13:14:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2120,6 +2120,7 @@ _Generated on 2025-11-16 13:10:51 UTC_
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
+    - [`⚖️_procedural_correctness_as_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_procedural_correctness_as_safeguard.md)
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
     - [`⚖️_uk_data_claim_routes_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_uk_data_claim_routes_and_limits.md)
