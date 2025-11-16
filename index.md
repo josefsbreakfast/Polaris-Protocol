@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:59:02 UTC_
+_Generated on 2025-11-16 23:00:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2180,6 +2180,7 @@ _Generated on 2025-11-16 22:59:02 UTC_
     - [`🏛️_the_boringing_uk_2010_2025.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_boringing_uk_2010_2025.md)
     - [`🏛️_the_duel_of_temperments.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_duel_of_temperments.md)
     - [`🏛️_the_grey_zone_inside_the_think_tank.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_grey_zone_inside_the_think_tank.md)
+    - [`🏛️_the_nudging_governance_vacuum.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_nudging_governance_vacuum.md)
     - [`🏛️_the_reckoning_lag_prince_andrew_epstein_institutional_containment.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_reckoning_lag_prince_andrew_epstein_institutional_containment.md)
     - [`🏜_negev_from_renewal_to_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🏜_negev_from_renewal_to_refusal.md)
     - [`🏝️_refusal_retreat_and_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🏝️_refusal_retreat_and_extraction.md)
