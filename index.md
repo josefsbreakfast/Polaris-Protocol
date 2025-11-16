@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 13:14:35 UTC_
+_Generated on 2025-11-16 13:18:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2227,6 +2227,7 @@ _Generated on 2025-11-16 13:14:35 UTC_
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_authoritarian_century_bridge_of_register.md`](Polaris_Nest/Git_Intake_Drawer/📚_authoritarian_century_bridge_of_register.md)
     - [`📚_banned_books_and_the_timing_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📚_banned_books_and_the_timing_of_truth.md)
+    - [`📚_class_coded_literacy_patterns.md`](Polaris_Nest/Git_Intake_Drawer/📚_class_coded_literacy_patterns.md)
     - [`📚_fictional_subject_construction.md`](Polaris_Nest/Git_Intake_Drawer/📚_fictional_subject_construction.md)
     - [`📚_library_as_algorithmic_interface.md`](Polaris_Nest/Git_Intake_Drawer/📚_library_as_algorithmic_interface.md)
     - [`📚_meta_silence_and_the_optimization_of_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/📚_meta_silence_and_the_optimization_of_ignorance.md)
