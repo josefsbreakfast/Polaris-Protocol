@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 17:47:43 UTC_
+_Generated on 2025-11-16 17:50:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -465,6 +465,7 @@ _Generated on 2025-11-16 17:47:43 UTC_
           - [`🦤_predation_logic_vulnerability_power_targeting.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
           - [`🧟‍♀️_frankenstack_anti_me_too_engine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧟‍♀️_frankenstack_anti_me_too_engine.md)
           - [`🧟‍♀️_frankenstack_explainer_for_survivors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧟‍♀️_frankenstack_explainer_for_survivors.md)
+          - [`🧟‍♀️_frankenstack_explainer_neurodivergent.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧟‍♀️_frankenstack_explainer_neurodivergent.md)
           - [`🧨_the_expectation_of_scandal.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧨_the_expectation_of_scandal.md)
           - [`🧭_how_to_read_institutional_actors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧭_how_to_read_institutional_actors.md)
           - [`🧱_predation_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧱_predation_logic.md)
