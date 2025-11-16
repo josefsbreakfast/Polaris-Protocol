@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:39:01 UTC_
+_Generated on 2025-11-16 22:39:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2420,6 +2420,7 @@ _Generated on 2025-11-16 22:39:01 UTC_
     - [`🧠_composite_line_formation_dual_valence_merge.md`](Polaris_Nest/Git_Intake_Drawer/🧠_composite_line_formation_dual_valence_merge.md)
     - [`🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
     - [`🧠_diagnostic_visibility_conditioning.md`](Polaris_Nest/Git_Intake_Drawer/🧠_diagnostic_visibility_conditioning.md)
+    - [`🧠_escalation_weather_map.md`](Polaris_Nest/Git_Intake_Drawer/🧠_escalation_weather_map.md)
     - [`🧠_extraction_loop_data_vs_story.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extraction_loop_data_vs_story.md)
     - [`🧠_institutional_weather_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_weather_systems.md)
     - [`🧠_linguistic_containment_and_sexual_violence.md`](Polaris_Nest/Git_Intake_Drawer/🧠_linguistic_containment_and_sexual_violence.md)
