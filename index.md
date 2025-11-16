@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 18:05:48 UTC_
+_Generated on 2025-11-16 18:06:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -451,12 +451,12 @@ _Generated on 2025-11-16 18:05:48 UTC_
           - [**🧬_Further_Potential_Male_Nonsense/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/)
             - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/README.md)
             - [`🎒_frankenstack_support_pack.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🎒_frankenstack_support_pack.md)
+            - [`🏛️_neutralising_frankenstacks_civil_service_guidance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🏛️_neutralising_frankenstacks_civil_service_guidance.md)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/README.md)
           - [`⚖️_institutions_2022_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
           - [`⚖️_reputation_after_revelation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)
           - [`🌍_crisis_absorption_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌍_crisis_absorption_logic.md)
           - [`🌪️_the_legitamacy_crisis_era_2023_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌪️_the_legitamacy_crisis_era_2023_2025.md)
-          - [`🏛️_neutralising_frankenstacks_civil_service_guidance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🏛️_neutralising_frankenstacks_civil_service_guidance.md)
           - [`🐈‍⬛_diy_pussy_hat_archive.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐈‍⬛_diy_pussy_hat_archive.md)
           - [`📦_posthumous_truth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/📦_posthumous_truth.md)
           - [`🔗_chains_of_silence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔗_chains_of_silence.md)
