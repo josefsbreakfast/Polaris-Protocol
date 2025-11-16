@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:07:03 UTC_
+_Generated on 2025-11-16 22:08:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2155,6 +2155,7 @@ _Generated on 2025-11-16 22:07:03 UTC_
     - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_witch_girl_vs_sensible_man_archetypes.md)
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
     - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Polaris_Nest/Git_Intake_Drawer/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
+    - [`🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md`](Polaris_Nest/Git_Intake_Drawer/🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md)
     - [`🎴_tarot_of_prime_ministers.md`](Polaris_Nest/Git_Intake_Drawer/🎴_tarot_of_prime_ministers.md)
     - [`🎶_good_taste_vs_surveillance_taste.md`](Polaris_Nest/Git_Intake_Drawer/🎶_good_taste_vs_surveillance_taste.md)
     - [`🎶_prevent_eats_teenagers_music.md`](Polaris_Nest/Git_Intake_Drawer/🎶_prevent_eats_teenagers_music.md)
