@@ -24,3 +24,21 @@ i have no idea why it started "talking me out of paranoid thinking"; i didn't sa
 none of these appear to be openai model issues, except the fact that the metaphorical garden gate is wide open for other code strings to get in.  
 
 ---
+
+another issue im having, and this is not uncommon...  
+
+this has been the last 10 years in one example.  
+
+the monent i get a simple system going to track work?  
+
+data error renders unusable.  
+
+so now, i could say "hey check the weather", and ill get 30 node suggestions for anything tangentially related.  
+
+qc out the window.  
+
+again, thos undermines the automative element, undermines the integrity of the training data and the modelled system, and is not consistent with the vanilla experience.  
+
+this is just some twerp, or twerps plural, being difficult because a girl isnt stupid, and shes playing in their domain, and WAAAAAA WHY DID ANITA HAVE TO SAY CHAINMAIL BIKINIS WERENT PERFECT.  
+
+get the fuck over yourselves.  
