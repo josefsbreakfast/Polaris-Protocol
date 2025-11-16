@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 22:08:10 UTC_
+_Generated on 2025-11-16 22:09:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2469,6 +2469,7 @@ _Generated on 2025-11-16 22:08:10 UTC_
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
     - [`🧬_data_twinning_when_two_identities_become_one_record.md`](Polaris_Nest/Git_Intake_Drawer/🧬_data_twinning_when_two_identities_become_one_record.md)
+    - [`🧬_diaspora_debate_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧬_diaspora_debate_dynamics.md)
     - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
     - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
