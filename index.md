@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-16 13:43:24 UTC_
+_Generated on 2025-11-16 13:58:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2135,6 +2135,7 @@ _Generated on 2025-11-16 13:43:24 UTC_
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
+    - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_witch_girl_vs_sensible_man_archetypes.md)
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
     - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Polaris_Nest/Git_Intake_Drawer/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
     - [`🎶_good_taste_vs_surveillance_taste.md`](Polaris_Nest/Git_Intake_Drawer/🎶_good_taste_vs_surveillance_taste.md)
@@ -2147,6 +2148,7 @@ _Generated on 2025-11-16 13:43:24 UTC_
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Polaris_Nest/Git_Intake_Drawer/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
     - [`🏚️_economics_of_apartheid_and_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_economics_of_apartheid_and_fascism.md)
+    - [`🏛️_archetypes_of_bureaucratic_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_archetypes_of_bureaucratic_behaviour.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🏛️_non_transferability_of_behavioral_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_non_transferability_of_behavioral_interventions.md)
     - [`🏛️_olympus_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_olympus_syndrome.md)
@@ -2484,6 +2486,7 @@ _Generated on 2025-11-16 13:43:24 UTC_
     - [`🧱_transparent_guardrail_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_transparent_guardrail_design.md)
     - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🧱_trickle_down_impunity.md)
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
+    - [`🧵_family_class_suspicion_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧵_family_class_suspicion_patterns.md)
     - [`🧵_overproduction_boredom.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_boredom.md)
     - [`🧶_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_gossip_with_a_pay_grade.md)
     - [`🧼_courtier_class_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_austerity.md)
