@@ -6,7 +6,7 @@
 
 ## 🛰️ Orientation  
 This node does **not** claim that policing or PREVENT are genocidal.
-
+<!--The whole point is PREVENTING doing it, lads. Like predictive risks, innit.-->
 It maps something more precise and academically grounded:
 
 > **The structural features that make policing and PREVENT susceptible  
