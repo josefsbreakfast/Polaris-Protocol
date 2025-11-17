@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 19:03:11 UTC_
+_Generated on 2025-11-17 19:03:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2415,6 +2415,7 @@ _Generated on 2025-11-17 19:03:11 UTC_
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🛠️_fixing_the_uk_algorithmic_safety_stack.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_fixing_the_uk_algorithmic_safety_stack.md)
+    - [`🛠️_frankenstack_failure_modes_public_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_frankenstack_failure_modes_public_systems.md)
     - [`🛠️_how_neutral_people_enable_authoritarian_tech.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_how_neutral_people_enable_authoritarian_tech.md)
     - [`🛡️_constructed_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_constructed_immunity.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
