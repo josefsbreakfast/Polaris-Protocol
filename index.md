@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 00:27:10 UTC_
+_Generated on 2025-11-17 00:28:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1730,6 +1730,7 @@ _Generated on 2025-11-17 00:27:10 UTC_
     - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
       - [**👾_Just_A_Quick_Wellbeing_Check/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/)
         - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/README.md)
+        - [`👾_why_policing_and_prevent_are_susceptible_antisemitism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_antisemitism.md)
         - [`👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md)
         - [`👾_why_policing_and_prevent_are_susceptible_elite_capture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_elite_capture.md)
         - [`👾_why_policing_and_prevent_are_susceptible_homophobia.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_homophobia.md)
