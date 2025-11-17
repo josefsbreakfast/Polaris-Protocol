@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 19:38:39 UTC_
+_Generated on 2025-11-17 19:39:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1954,6 +1954,7 @@ _Generated on 2025-11-17 19:38:39 UTC_
       - [`🔥_when_policy_versions_argue.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🔥_when_policy_versions_argue.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
       - [`🗺️_containment_fingerprint_atlas.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🗺️_containment_fingerprint_atlas.md)
+      - [`🤖_british_english_cannot_be_translated.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_british_english_cannot_be_translated.md)
       - [`🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🧭_visual_glossary_containment_pulse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md)
