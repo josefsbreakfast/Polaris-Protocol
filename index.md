@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 19:36:09 UTC_
+_Generated on 2025-11-17 19:37:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -741,6 +741,7 @@ _Generated on 2025-11-17 19:36:09 UTC_
         - [`🚀_scarcity_prohibition_rocket_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md)
         - [`🧿_canonisation_by_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)
         - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🪄_the_magical_disappearing_book.md)
+        - [`🫖_the_algorithm_cannot_parse_sarcasm.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🫖_the_algorithm_cannot_parse_sarcasm.md)
       - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md)
         - [`⚔️_war_on_woke_as_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
