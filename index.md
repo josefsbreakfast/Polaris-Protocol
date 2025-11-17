@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 19:37:58 UTC_
+_Generated on 2025-11-17 19:38:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -195,6 +195,7 @@ _Generated on 2025-11-17 19:37:58 UTC_
         - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
         - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_over_recognition.md)
+        - [`📢_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📢_calm_down_its_just_british.md)
         - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_clone_friendly_architecture.md)
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
