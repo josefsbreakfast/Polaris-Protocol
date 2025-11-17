@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 01:00:14 UTC_
+_Generated on 2025-11-17 01:01:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2268,6 +2268,7 @@ _Generated on 2025-11-17 01:00:14 UTC_
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
     - [`📊_from_data_misuse_to_white_collar_breach.md`](Polaris_Nest/Git_Intake_Drawer/📊_from_data_misuse_to_white_collar_breach.md)
+    - [`📊_gen_z_procedural_protest_and_spreadsheet_organising.md`](Polaris_Nest/Git_Intake_Drawer/📊_gen_z_procedural_protest_and_spreadsheet_organising.md)
     - [`📊_risk_scaling_of_algorithmic_misidentification.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scaling_of_algorithmic_misidentification.md)
     - [`📊_spreadsheet_of_silence.md`](Polaris_Nest/Git_Intake_Drawer/📊_spreadsheet_of_silence.md)
     - [`📊_the_missing_national_risk_register_2023_2025.md`](Polaris_Nest/Git_Intake_Drawer/📊_the_missing_national_risk_register_2023_2025.md)
