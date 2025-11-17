@@ -7,13 +7,13 @@
 ## 🛰️ Orientation  
 This node does **not** claim that policing or PREVENT are genocidal.
 <!--The whole point is PREVENTING doing it, lads. Like predictive risks, innit.-->
-It maps something more precise and academically grounded:
+It maps something more precise and academically grounded:  
 
 > **The structural features that make policing and PREVENT susceptible  
-> to behaviours seen in *pre-genocide stages* across global historical cases.**
+> to behaviours seen in *pre-genocide stages* across global historical cases.**  
 
 Genocide scholars (Lemkin → Stanton → Maynard → Straus → Harff)  
-identify recurring early-stage patterns:
+identify recurring early-stage patterns:  
 
 1. **Classification**  
 2. **Symbolisation**  
@@ -31,12 +31,18 @@ and emerge from:
 - targeted suspicion,  
 - political capture,  
 - suppression of dissent,  
-- misuse of “protection” rhetoric.
+- misuse of “protection” rhetoric.  
+
+These stages often overlap, and escalation develops over time.  
+Many genocides start the "precursor" violence by one group saying that they are just "defending" themselves against another group,  
+in a situation where they hold more power and their violence is not as rigorously questioned or is not held accountable.  
+
+This is also why apartheid systems are recognised as very risky for genocide to develop.  
 
 Policing and PREVENT — as currently structured —  
 contain **the same architectural vulnerabilities** that allow these early stages to take root.
 
-This node explains why.
+This node explains why.  
 
 ---
 
@@ -51,7 +57,7 @@ This node explains why.
 
 ## 🧿 Analysis / Content  
 
-# 1. **Classification: PREVENT Sorts People Into “Risk Identities”**
+### 1. **Classification: PREVENT Sorts People Into “Risk Identities”**
 
 Genocide’s earliest stage is classification:  
 > dividing society into “us” vs “them.”
@@ -83,7 +89,7 @@ but because it uses **identity as the unit of risk**.
 
 ---
 
-# 2. **Symbolisation: Labels Become Social and Institutional Markers**
+### 2. **Symbolisation: Labels Become Social and Institutional Markers**
 
 Once classified, individuals receive symbolic status:
 
@@ -109,7 +115,7 @@ that PREVENT’s metadata structure unintentionally mimics.
 
 ---
 
-# 3. **Discrimination: Behaviour Is Interpreted Differently for Different Groups**
+### 3. **Discrimination: Behaviour Is Interpreted Differently for Different Groups**
 
 Historically, pre-genocide discrimination appears in:
 
@@ -134,7 +140,7 @@ the same mechanism that allows later violence to be rationalised.
 
 ---
 
-# 4. **Dehumanisation: Distress Is Treated as Instability, Not Humanity**
+### 4. **Dehumanisation: Distress Is Treated as Instability, Not Humanity**
 
 Dehumanisation in early stages involves:
 
@@ -158,7 +164,7 @@ Distance is the fuel of dehumanisation.
 
 ---
 
-# 5. **Organisation: Multi-Agency Infrastructure Creates Harm Multipliers**
+### 5. **Organisation: Multi-Agency Infrastructure Creates Harm Multipliers**
 
 Early genocidal dynamics are not yet violent —  
 they are **administrative**:
@@ -191,7 +197,7 @@ a known precursor for pre-genocidal institutional harm.
 
 ---
 
-# 6. **Polarisation: PREVENT Treats Dissent as Instability**
+### 6. **Polarisation: PREVENT Treats Dissent as Instability**
 
 Polarisation in pre-genocide stages involves:
 
@@ -214,7 +220,7 @@ institutions that react to criticism by escalating surveillance.
 
 ---
 
-# 7. **Preparation: Expanded State Powers, Shrinking Dissent**
+### 7. **Preparation: Expanded State Powers, Shrinking Dissent**
 
 In later pre-genocide stages (NOT genocide itself), states typically:
 
@@ -246,23 +252,23 @@ but because its architecture **cannot resist political misuse**.
 
 ---
 
-# 8. **Why PREVENT Cannot Perceive Its Own Susceptibility**
+### 8. **Why PREVENT Cannot Perceive Its Own Susceptibility**
 
 PREVENT is structurally blind to early warning signs because:
 
-### **1. It equates state authority with neutrality**  
+#### **1. It equates state authority with neutrality**  
 Therefore cannot recognise oppressive state behaviour.
 
-### **2. It interprets criticism as evidence of instability**  
+#### **2. It interprets criticism as evidence of instability**  
 Thus dismisses early warnings.
 
-### **3. It lacks trauma literacy**  
+#### **3. It lacks trauma literacy**  
 Thus misreads distress as risk.
 
-### **4. It holds no category for institutional harm**  
+#### **4. It holds no category for institutional harm**  
 Thus cannot see itself as an actor.
 
-### **5. It assumes “safeguarding is safety”**  
+#### **5. It assumes “safeguarding is safety”**  
 Thus ignores its own violence.
 
 Systems that cannot critique themselves  
