@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 00:54:15 UTC_
+_Generated on 2025-11-17 00:55:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2154,6 +2154,7 @@ _Generated on 2025-11-17 00:54:15 UTC_
     - [`⚖️_procedural_correctness_as_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_procedural_correctness_as_safeguard.md)
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
+    - [`⚖️_transitional_change_vs_rapid_revolutionary_shock.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
     - [`⚖️_uk_data_claim_routes_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_uk_data_claim_routes_and_limits.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
