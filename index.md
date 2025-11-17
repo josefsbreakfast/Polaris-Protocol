@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 01:01:32 UTC_
+_Generated on 2025-11-17 01:02:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2382,6 +2382,7 @@ _Generated on 2025-11-17 01:01:32 UTC_
     - [`🕹️_getting_the_tech_bros_back_on_script.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_getting_the_tech_bros_back_on_script.md)
     - [`🖍️_the_colouring_book_experiment_containment_as_curriculum.md`](Polaris_Nest/Git_Intake_Drawer/🖍️_the_colouring_book_experiment_containment_as_curriculum.md)
     - [`🗂️_data_sharing_trace_mod_links.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_data_sharing_trace_mod_links.md)
+    - [`🗑️_orthopaedic_anarchism.md`](Polaris_Nest/Git_Intake_Drawer/🗑️_orthopaedic_anarchism.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_data_majority_as_narrative_voice_voting_by_volume.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_data_majority_as_narrative_voice_voting_by_volume.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
