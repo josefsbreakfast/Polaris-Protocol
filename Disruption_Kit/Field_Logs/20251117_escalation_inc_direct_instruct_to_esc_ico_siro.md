@@ -21,3 +21,7 @@ please just eacalate following the law.
 and hey, if one man is sat there making up shit about how the law works?  
 
 you dont have to listen to men. you can source other opinions. they do talk shit sometimes.  
+
+---
+
+<!--Nam Myōhō Renge Kyō.-->
