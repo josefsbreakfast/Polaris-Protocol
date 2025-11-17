@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 00:55:59 UTC_
+_Generated on 2025-11-17 00:57:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2387,6 +2387,7 @@ _Generated on 2025-11-17 00:55:59 UTC_
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🗺️_linguistic_silk_road.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_linguistic_silk_road.md)
     - [`😌_the_performance_of_consensus.md`](Polaris_Nest/Git_Intake_Drawer/😌_the_performance_of_consensus.md)
+    - [`😴_millennial_exhaustion_as_a_political_condition.md`](Polaris_Nest/Git_Intake_Drawer/😴_millennial_exhaustion_as_a_political_condition.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
