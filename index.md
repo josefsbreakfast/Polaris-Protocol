@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 19:03:39 UTC_
+_Generated on 2025-11-17 19:08:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2575,6 +2575,7 @@ _Generated on 2025-11-17 19:03:39 UTC_
     - [`🧮_data_error_decay_table.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_error_decay_table.md)
     - [`🧮_deepthought_datagov_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧮_deepthought_datagov_problem.md)
     - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
+    - [`🧮_focus_group_of_one.md`](Polaris_Nest/Git_Intake_Drawer/🧮_focus_group_of_one.md)
     - [`🧮_k_anonymity_data_integrity_and_reidentification_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧮_k_anonymity_data_integrity_and_reidentification_risk.md)
     - [`🧮_optimisation_and_the_fascism_of_efficiency.md`](Polaris_Nest/Git_Intake_Drawer/🧮_optimisation_and_the_fascism_of_efficiency.md)
     - [`🧮_pips_yellis_data_ecosystem.md`](Polaris_Nest/Git_Intake_Drawer/🧮_pips_yellis_data_ecosystem.md)
