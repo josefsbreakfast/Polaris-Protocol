@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 19:02:08 UTC_
+_Generated on 2025-11-17 19:02:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2318,6 +2318,7 @@ _Generated on 2025-11-17 19:02:08 UTC_
     - [`📜_residual_shadow_audit.md`](Polaris_Nest/Git_Intake_Drawer/📜_residual_shadow_audit.md)
     - [`📜_when_containment_becomes_identity.md`](Polaris_Nest/Git_Intake_Drawer/📜_when_containment_becomes_identity.md)
     - [`📠_the_72_hour_comedy_of_compliance.md`](Polaris_Nest/Git_Intake_Drawer/📠_the_72_hour_comedy_of_compliance.md)
+    - [`📡_inquiry_convergence_theory.md`](Polaris_Nest/Git_Intake_Drawer/📡_inquiry_convergence_theory.md)
     - [`📡_institutional_risk_posture_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/📡_institutional_risk_posture_diagnostics.md)
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
     - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
