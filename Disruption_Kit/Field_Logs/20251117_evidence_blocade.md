@@ -29,3 +29,13 @@ That is manipulative. That does not have consent.
 ---  
 
 and seeing as I'm aware of what might be something we don't want to talk about online, all I will say is that the pattern of material does not match a woman, whether het/bi/coded as either; the pattern is statistically more aligned with male gaze sexualisation.  
+
+---
+
+and while it is not the case that I have logs, which say yes, it is explicitly one person, I find it really interesting that no one in law enforcement or in safeguarding architecture locally, even entertains the idea of questioning if it's that person that I've already named.  
+
+When I worked in childrens care and healthcare, it wasnt a political thing. you just rearranged the shift to PROTECT THE ACCUSED PERSON AS MUCH AS ANYONE ELSE and did the referrals.  
+
+im not saying it wasnt super stressful. im saying you just **did the job**.  
+
+and then either way? job done.  
