@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 00:13:33 UTC_
+_Generated on 2025-11-17 00:23:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1728,6 +1728,8 @@ _Generated on 2025-11-17 00:13:33 UTC_
       - [`🪞_the_problem_of_practice_trauma.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪞_the_problem_of_practice_trauma.md)
       - [`🪤_containment_pedagogy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🪤_containment_pedagogy.md)
     - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
+      - [**👾_Just_A_Quick_Wellbeing_Check/**](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/)
+        - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/README.md)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
       - [`british_bureaucratic_theocracy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/british_bureaucratic_theocracy.md)
       - [`male_ejaculation_encoded_in_female_data_subjects.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_ejaculation_encoded_in_female_data_subjects.md)
