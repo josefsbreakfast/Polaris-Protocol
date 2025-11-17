@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-17 00:57:15 UTC_
+_Generated on 2025-11-17 00:59:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2191,6 +2191,7 @@ _Generated on 2025-11-17 00:57:15 UTC_
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Polaris_Nest/Git_Intake_Drawer/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
     - [`🏚️_economics_of_apartheid_and_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_economics_of_apartheid_and_fascism.md)
+    - [`🏚️_millennial_property_psychosis.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_millennial_property_psychosis.md)
     - [`🏛️_archetypes_of_bureaucratic_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_archetypes_of_bureaucratic_behaviour.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🏛️_non_transferability_of_behavioral_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_non_transferability_of_behavioral_interventions.md)
