@@ -24,4 +24,21 @@ you dont have to listen to men. you can source other opinions. they do talk shit
 
 ---
 
-<!--Nam Myōhō Renge Kyō.-->
+<!--Nam Myōhō Renge Kyō.  
+
+"There was no intervention
+I was lost, falling out with myself
+I was so filled with tension
+Getting mad was my cry for help
+Now I'm back with a vengeance
+I've found my inner voice again
+And it speaks to my soul loud and clear
+And it sounds like this...  
+
+南無妙法蓮華経…
+南無妙法蓮華経…
+南無妙法蓮華経。"  
+
+-- Efendi. Good 2020 Eurovision craic imo.
+
+-->
