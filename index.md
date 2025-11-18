@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 04:38:22 UTC_
+_Generated on 2025-11-18 04:40:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2303,6 +2303,7 @@ _Generated on 2025-11-18 04:38:22 UTC_
     - [`💍_two_party_system_as_an_old_fashioned_marriage.md`](Polaris_Nest/Git_Intake_Drawer/💍_two_party_system_as_an_old_fashioned_marriage.md)
     - [`💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md`](Polaris_Nest/Git_Intake_Drawer/💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md)
     - [`💔_on_having_to_announce_ones_goodness.md`](Polaris_Nest/Git_Intake_Drawer/💔_on_having_to_announce_ones_goodness.md)
+    - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💔_risk_of_violent_treatment.md`](Polaris_Nest/Git_Intake_Drawer/💔_risk_of_violent_treatment.md)
     - [`💔_when_the_algorithm_thinks_it’s_a_rom_com.md`](Polaris_Nest/Git_Intake_Drawer/💔_when_the_algorithm_thinks_it’s_a_rom_com.md)
     - [`💞_affective_proxy_substitution_cross_gender_misread_as_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md)
