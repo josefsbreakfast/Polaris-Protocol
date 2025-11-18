@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 04:48:49 UTC_
+_Generated on 2025-11-18 04:50:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2611,6 +2611,7 @@ _Generated on 2025-11-18 04:48:49 UTC_
     - [`🧬_digital_aura.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_aura.md)
     - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
     - [`🧬_harm_without_perpetrators_architecture_failure_model.md`](Polaris_Nest/Git_Intake_Drawer/🧬_harm_without_perpetrators_architecture_failure_model.md)
+    - [`🧬_how_gossip_shapes_risk_flags.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_gossip_shapes_risk_flags.md)
     - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
