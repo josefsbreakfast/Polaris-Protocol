@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 06:22:40 UTC_
+_Generated on 2025-11-18 06:38:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2467,6 +2467,7 @@ _Generated on 2025-11-18 06:22:40 UTC_
     - [`🕸️_practical_irreversibility_when_feedback_becomes_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md)
     - [`🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md)
     - [`🕸️_survivor_consent_frameworks.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_survivor_consent_frameworks.md)
+    - [`🕸️_systems_failure_uk_data.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_systems_failure_uk_data.md)
     - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
     - [`🕸️_the_grief_of_the_imperial_core.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_grief_of_the_imperial_core.md)
     - [`🕸️_voice_lineage_and_dataset_chain.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_voice_lineage_and_dataset_chain.md)
