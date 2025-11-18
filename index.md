@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 04:10:45 UTC_
+_Generated on 2025-11-18 04:11:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2204,6 +2204,7 @@ _Generated on 2025-11-18 04:10:45 UTC_
     - [`⚡️_public_legitimacy_crisis_behavioural_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_public_legitimacy_crisis_behavioural_governance.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
+    - [`🌀_behavioural_steering_general_audience_signals.md`](Polaris_Nest/Git_Intake_Drawer/🌀_behavioural_steering_general_audience_signals.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌀_projection_based_escalation_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_based_escalation_patterns.md)
     - [`🌀_projection_driven_system_nudges.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_driven_system_nudges.md)
