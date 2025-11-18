@@ -172,9 +172,9 @@ The wealthy are the **quietest victims** of the very hierarchy they assume they 
 ```mermaid
 flowchart TD
 
-A[Data Subject or Rumour] --> B(Vendor Scans For "Signals")
+A[Data Subject or Rumour] --> B(Vendor Scans For Apparant Signals)
 B --> C{Is it monetisable?}
-C -->|Yes| D[Convert to "Risk"]
+C -->|Yes| D[Convert to Risk Marker]
 C -->|No| B
 
 D --> E[Teaser Memo to Gatekeepers]
@@ -194,12 +194,18 @@ L --> M[Family Office Sells Dependency]
 M --> N[Estate Pays More Money]
 N --> O{Threat Real?}
 
-O -->|No| P[“Continue Monitoring Just In Case”]
-O -->|Yes| Q[“We Told You So — Increase Retainer”]
+O -->|No| P[Continue Monitoring Just-In-Case]
+O -->|Yes| Q[We Told You So — Increase Retainer]
 
 P --> B
 Q --> B
 ```
+
+<!-- This node is brought to you by the sudden realisation of how my intermittent viewing of "Mary, Queen of Scots, being a badass rape survivor" probably converts strangly in risk systems; there's already a frankly embarrassing conversation with relevent expertise about, "I don't want to challenge this person, and I don't even know why this is happening, but I might need to do this to nudge my court data to be protected?".  
+
+This system is not working if one has to raise a point of constitutional crisis in order to nudge a basic protection of the DPA.  
+
+(I was blocked electronically from the ICO at the time, and one of my legs doesn't work properly. I do not have the Camina Drummer replacement yet.)-->
 
 ---
 
