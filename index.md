@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 04:46:06 UTC_
+_Generated on 2025-11-18 04:48:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2657,6 +2657,7 @@ _Generated on 2025-11-18 04:46:06 UTC_
     - [`🧱_transparent_guardrail_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_transparent_guardrail_design.md)
     - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🧱_trickle_down_impunity.md)
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
+    - [`🧲_why_vulnerability_flags_attract_abusers.md`](Polaris_Nest/Git_Intake_Drawer/🧲_why_vulnerability_flags_attract_abusers.md)
     - [`🧵_context_collapse_antisemitism_edition.md`](Polaris_Nest/Git_Intake_Drawer/🧵_context_collapse_antisemitism_edition.md)
     - [`🧵_family_class_suspicion_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧵_family_class_suspicion_patterns.md)
     - [`🧵_overproduction_boredom.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_boredom.md)
