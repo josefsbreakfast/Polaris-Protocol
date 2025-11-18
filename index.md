@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:47:15 UTC_
+_Generated on 2025-11-18 23:56:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2363,6 +2363,7 @@ _Generated on 2025-11-18 23:47:15 UTC_
     - [`📈_the_ratio_that_shouldnt_exist.md`](Polaris_Nest/Git_Intake_Drawer/📈_the_ratio_that_shouldnt_exist.md)
     - [`📉_erosion_of_legitimacy_loops.md`](Polaris_Nest/Git_Intake_Drawer/📉_erosion_of_legitimacy_loops.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
+    - [`📉_signal_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📉_signal_collapse.md)
     - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
