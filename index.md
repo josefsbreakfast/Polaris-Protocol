@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 04:33:12 UTC_
+_Generated on 2025-11-18 04:34:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2289,6 +2289,7 @@ _Generated on 2025-11-18 04:33:12 UTC_
     - [`👾_is_it_preventing_extremism_from_all_classes.md`](Polaris_Nest/Git_Intake_Drawer/👾_is_it_preventing_extremism_from_all_classes.md)
     - [`👾_post_carceral_era_counterextremism.md`](Polaris_Nest/Git_Intake_Drawer/👾_post_carceral_era_counterextremism.md)
     - [`👾_prevent_as_nationwide_formalised_buzzkill.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_nationwide_formalised_buzzkill.md)
+    - [`👾_prevent_as_tool_of_coercive_control.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_tool_of_coercive_control.md)
     - [`👾_prevent_as_vibes_policing.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_vibes_policing.md)
     - [`👾_prevent_misreads.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads.md)
     - [`👾_prevent_misreads_the_poors.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads_the_poors.md)
