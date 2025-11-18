@@ -32,13 +32,13 @@ I ain't coming for the title; if I did, I'd have to give it to like five people 
 
 The trails of what data has vs hasn't been touched, suggest that this rumour originates with someone who was trying not to trip an obvious data alarm, and who apparantly did not want to be on record on soecific systems that were used more locally.  
 
-Personally, I think that's fascinating, because it doesn't suggest that the QC of the sold product was being prioritised (I can look at hiw things galoen eben if they harm me and ve intellectusl about it; I'm not saying I would live any of this).  
+Personally, I think that's fascinating, because it doesn't suggest that the QC of the sold product was being prioritised (I can look at how things fuction even if they harm me and be intellectusl about it; I'm not saying I would love any of this).  
 
 And the first obvious person in line doesn't want anything to do with it; there's a whole story as to why this is a painful memory for them, and so having to approach them about any potential legal paperwork that might have been left knotted, has been very difficult.  
 
-This story is essentially *why it was a topic of conversation in provate phone calls, for which it is unlikely a warrant actually existed*.  
+This story is essentially *why it was a topic of conversation in private phone calls, for which it is unlikely a warrant actually existed*.  
 
-Don't worry -- I'm on board for, "and how did you get this data you sold me?".  
+Don't worry -- I'm on board for, "and how did you get this data you sold me?". That's if you're an individual or a political party. I am down for goose behaviour.  
 
 I'm not assuming that everyone at the other end had the full story; it appears that you guys were trying to avoid a headache just like I was.  
 
