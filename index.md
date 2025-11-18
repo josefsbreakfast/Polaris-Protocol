@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 04:55:22 UTC_
+_Generated on 2025-11-18 04:57:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2701,6 +2701,7 @@ _Generated on 2025-11-18 04:55:22 UTC_
     - [`🪢_reembodie_civics.md`](Polaris_Nest/Git_Intake_Drawer/🪢_reembodie_civics.md)
     - [`🪨_male_survivor_silence.md`](Polaris_Nest/Git_Intake_Drawer/🪨_male_survivor_silence.md)
     - [`🪬_ihra_vs_jda.md`](Polaris_Nest/Git_Intake_Drawer/🪬_ihra_vs_jda.md)
+    - [`🪼_racialised_dual_attrition.md`](Polaris_Nest/Git_Intake_Drawer/🪼_racialised_dual_attrition.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
