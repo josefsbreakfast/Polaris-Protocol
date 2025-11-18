@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:11:24 UTC_
+_Generated on 2025-11-18 23:12:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2602,6 +2602,7 @@ _Generated on 2025-11-18 23:11:24 UTC_
     - [`🧩_bit_vs_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧩_bit_vs_prevent.md)
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_counter_extraction_loop_reclaiming_authorship.md`](Polaris_Nest/Git_Intake_Drawer/🧩_counter_extraction_loop_reclaiming_authorship.md)
+    - [`🧩_cross_group_solidarity_as_algorithmic_destabiliser.md`](Polaris_Nest/Git_Intake_Drawer/🧩_cross_group_solidarity_as_algorithmic_destabiliser.md)
     - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_device_integrity_and_anti_jailbreak_logic.md)
     - [`🧩_diaspora_coded_identity_instability.md`](Polaris_Nest/Git_Intake_Drawer/🧩_diaspora_coded_identity_instability.md)
     - [`🧩_don’t_listen_to_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_don’t_listen_to_the_algorithm.md)
