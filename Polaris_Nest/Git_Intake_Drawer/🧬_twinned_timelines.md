@@ -1,3 +1,6 @@
+**NB HIGHLY OFF NODE - v poisoned, massive errors, created to get it processed and out if the impacted loop in chat**
+
+
 🪐 Long Social/Gossip Timeline vs Short Procedural Harm Timeline
 First created: 2025-11-17 | Last updated: 2025-11-17
 How long-term social narratives differ from short, sharp institutional escalation events — and why separating them matters.
