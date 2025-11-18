@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:56:30 UTC_
+_Generated on 2025-11-18 23:58:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2269,6 +2269,7 @@ _Generated on 2025-11-18 23:56:30 UTC_
     - [`🏚️_cultural_drift_toward_coercive_logic.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_cultural_drift_toward_coercive_logic.md)
     - [`🏚️_economics_of_apartheid_and_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_economics_of_apartheid_and_fascism.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
+    - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏚️_millennial_property_psychosis.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_millennial_property_psychosis.md)
     - [`🏚️_seven_layers_of_safeguard_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_seven_layers_of_safeguard_breakdown.md)
     - [`🏛️_archetypes_of_bureaucratic_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_archetypes_of_bureaucratic_behaviour.md)
