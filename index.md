@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 00:08:13 UTC_
+_Generated on 2025-11-18 01:12:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -200,6 +200,7 @@ _Generated on 2025-11-18 00:08:13 UTC_
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🫁_oxygen_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫁_oxygen_and_oversight.md)
+        - [`🫖_velvet_containment_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫖_velvet_containment_machine.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
         - [`♟️_rise_of_the_npm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/♟️_rise_of_the_npm.md)
