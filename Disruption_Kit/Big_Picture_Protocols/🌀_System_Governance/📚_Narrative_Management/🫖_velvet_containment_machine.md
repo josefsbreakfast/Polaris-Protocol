@@ -209,7 +209,23 @@ This system is not working if one has to raise a point of constitutional crisis 
 
 Also, if we were to troll the surveillance industry by giving me a fancy name, can we PLEASE ensure we are doing it to a barren little island where the human population was previously 0.  
 
-No humans in my loop now, no humans on my island to escape you all. Thank you.  -->
+No humans in my loop now, no humans on my island to escape you all. Thank you.  
+
+And before we all go there...  
+
+Yes the narrativisation of Mary as a rape survivor is not straightforward and it has been inaccurately represented.  
+
+Please also appreciate that I find catharsis in the portrayal of women surviving and being vaguely cool after the fact, and maybe let me have my emotional need for some sort of hope that other people will not constantly define me by others' violence?  
+
+"You talk so openly about it"....?  
+
+Don't you think I tried silence?  
+
+And would it be just nothing to you?  
+
+You wouldn't "fight back"?  
+
+I just need the people without the experience and yet somehow with opinions, to have a story that makes any logical sense at all.  -->
 
 ---
 
