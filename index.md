@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:08:42 UTC_
+_Generated on 2025-11-18 23:10:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2602,6 +2602,7 @@ _Generated on 2025-11-18 23:08:42 UTC_
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_counter_extraction_loop_reclaiming_authorship.md`](Polaris_Nest/Git_Intake_Drawer/🧩_counter_extraction_loop_reclaiming_authorship.md)
     - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_device_integrity_and_anti_jailbreak_logic.md)
+    - [`🧩_diaspora_coded_identity_instability.md`](Polaris_Nest/Git_Intake_Drawer/🧩_diaspora_coded_identity_instability.md)
     - [`🧩_don’t_listen_to_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_don’t_listen_to_the_algorithm.md)
     - [`🧩_emergent_surveillance_without_malice.md`](Polaris_Nest/Git_Intake_Drawer/🧩_emergent_surveillance_without_malice.md)
     - [`🧩_existential_threat_response_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧩_existential_threat_response_loop.md)
