@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:46:08 UTC_
+_Generated on 2025-11-18 23:47:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2306,6 +2306,7 @@ _Generated on 2025-11-18 23:46:08 UTC_
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/👑_soft_power_accountability_gap.md)
     - [`👹_how_predators_weaponise_safeguarding_systems.md`](Polaris_Nest/Git_Intake_Drawer/👹_how_predators_weaponise_safeguarding_systems.md)
+    - [`👻_ghost_persona_error_modes.md`](Polaris_Nest/Git_Intake_Drawer/👻_ghost_persona_error_modes.md)
     - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Polaris_Nest/Git_Intake_Drawer/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
     - [`👾_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/👾_algorithmic_projection_and_false_personalisation.md)
     - [`👾_bad_algorithms_good_data.md`](Polaris_Nest/Git_Intake_Drawer/👾_bad_algorithms_good_data.md)
