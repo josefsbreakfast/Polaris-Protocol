@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 04:50:05 UTC_
+_Generated on 2025-11-18 04:50:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2232,6 +2232,7 @@ _Generated on 2025-11-18 04:50:05 UTC_
     - [`🌿_normal_human_behaviour_as_risk_flag.md`](Polaris_Nest/Git_Intake_Drawer/🌿_normal_human_behaviour_as_risk_flag.md)
     - [`🍪_operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🍪_operant_conditioning_the_algorithm.md)
     - [`🎐_psychology_of_just_raising_concerns.md`](Polaris_Nest/Git_Intake_Drawer/🎐_psychology_of_just_raising_concerns.md)
+    - [`🎓_academic_unfreedom_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🎓_academic_unfreedom_in_prevent.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
