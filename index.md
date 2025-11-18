@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 00:02:00 UTC_
+_Generated on 2025-11-18 00:08:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1055,6 +1055,7 @@ _Generated on 2025-11-18 00:02:00 UTC_
     - [`20251116_give_it_a_week.png`](Disruption_Kit/Field_Logs/20251116_give_it_a_week.png)
     - [`20251117_escalation_inc_direct_instruct_to_esc_ico_siro.md`](Disruption_Kit/Field_Logs/20251117_escalation_inc_direct_instruct_to_esc_ico_siro.md)
     - [`20251117_evidence_blocade.md`](Disruption_Kit/Field_Logs/20251117_evidence_blocade.md)
+    - [`20251118_does_openai_have_capital_interest_in_prevent.md`](Disruption_Kit/Field_Logs/20251118_does_openai_have_capital_interest_in_prevent.md)
     - [`IMG_2625.png`](Disruption_Kit/Field_Logs/IMG_2625.png)
     - [`IMG_2745.png`](Disruption_Kit/Field_Logs/IMG_2745.png)
     - [`IMG_2746.png`](Disruption_Kit/Field_Logs/IMG_2746.png)
