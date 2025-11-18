@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 04:31:59 UTC_
+_Generated on 2025-11-18 04:33:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2292,6 +2292,7 @@ _Generated on 2025-11-18 04:31:59 UTC_
     - [`👾_prevent_as_vibes_policing.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_vibes_policing.md)
     - [`👾_prevent_misreads.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads.md)
     - [`👾_prevent_misreads_the_poors.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads_the_poors.md)
+    - [`👾_prevent_plausible_deniability_rhetoric.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_plausible_deniability_rhetoric.md)
     - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
     - [`👾_we_are_citizens_not_datasets.md`](Polaris_Nest/Git_Intake_Drawer/👾_we_are_citizens_not_datasets.md)
     - [`👾_what_robots_did_to_words.md`](Polaris_Nest/Git_Intake_Drawer/👾_what_robots_did_to_words.md)
