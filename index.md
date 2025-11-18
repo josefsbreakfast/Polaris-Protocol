@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:45:15 UTC_
+_Generated on 2025-11-18 23:46:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2658,6 +2658,7 @@ _Generated on 2025-11-18 23:45:15 UTC_
     - [`🧬_adolescent_endocrine_axis_vs_risk_axis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_adolescent_endocrine_axis_vs_risk_axis.md)
     - [`🧬_algorithmic_iatrogenesis_and_reflex_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_algorithmic_iatrogenesis_and_reflex_loops.md)
     - [`🧬_ambient_data_exhaust.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ambient_data_exhaust.md)
+    - [`🧬_centroid_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_collapse.md)
     - [`🧬_centroid_collapse_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_collapse_mechanism.md)
     - [`🧬_centroid_overweighting_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_overweighting_problem.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
