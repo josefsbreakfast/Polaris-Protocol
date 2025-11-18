@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:23:34 UTC_
+_Generated on 2025-11-18 23:24:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2265,6 +2265,7 @@ _Generated on 2025-11-18 23:23:34 UTC_
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Polaris_Nest/Git_Intake_Drawer/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
+    - [`🏚️_authoritarian_drift_in_behavioural_research.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_authoritarian_drift_in_behavioural_research.md)
     - [`🏚️_economics_of_apartheid_and_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_economics_of_apartheid_and_fascism.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_millennial_property_psychosis.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_millennial_property_psychosis.md)
