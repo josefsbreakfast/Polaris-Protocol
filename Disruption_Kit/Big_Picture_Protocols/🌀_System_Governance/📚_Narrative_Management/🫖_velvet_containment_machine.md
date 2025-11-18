@@ -205,7 +205,11 @@ Q --> B
 
 This system is not working if one has to raise a point of constitutional crisis in order to nudge a basic protection of the DPA.  
 
-(I was blocked electronically from the ICO at the time, and one of my legs doesn't work properly. I do not have the Camina Drummer replacement yet.)-->
+(I was blocked electronically from the ICO at the time, and one of my legs doesn't work properly. I do not have the Camina Drummer replacement yet.)
+
+Also, if we were to troll the surveillance industry by giving me a fancy name, can we PLEASE ensure we are doing it to a barren little island where the human population was previously 0.  
+
+No humans in my loop now, no humans on my island to escape you all. Thank you.  -->
 
 ---
 
