@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:34:15 UTC_
+_Generated on 2025-11-18 23:35:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2529,6 +2529,7 @@ _Generated on 2025-11-18 23:34:15 UTC_
     - [`🛰️_naming_the_unnamed_data_sovereignty_statehood.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_naming_the_unnamed_data_sovereignty_statehood.md)
     - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_predictive_logic_sans_predictive_infrastructure.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
+    - [`🛰️_vendor_blindspot_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_vendor_blindspot_mapping.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_who_can_see_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_who_can_see_the_flag.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
