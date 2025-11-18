@@ -129,7 +129,7 @@ It means:
 The people chanting it are not demanding the downfall of the wealthy —  
 they are saying:  
 **“Wake up. The system milks you too.”**
-
+<!--Half of the men who "worry" about this are desperate to be "eaten" by "one of those scary anarchist women", and again, one has to wonder how much of the male political expression is simply emotional expression wrapped up as "policy". Testosterone makes them so emotional... one does have to wonder if it's safe for such a sex to vote. 😌-->
 ---
 
 ### 5. Velvet Containment as Elite Vulnerability  
