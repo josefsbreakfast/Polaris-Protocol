@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:30:24 UTC_
+_Generated on 2025-11-18 23:31:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2392,6 +2392,7 @@ _Generated on 2025-11-18 23:30:24 UTC_
     - [`📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
     - [`📜_if_and_the_ethics_of_staying_intact.md`](Polaris_Nest/Git_Intake_Drawer/📜_if_and_the_ethics_of_staying_intact.md)
     - [`📜_loss_management_and_the_performance_of_composure.md`](Polaris_Nest/Git_Intake_Drawer/📜_loss_management_and_the_performance_of_composure.md)
+    - [`📜_pre_escalation_friction_mapping.md`](Polaris_Nest/Git_Intake_Drawer/📜_pre_escalation_friction_mapping.md)
     - [`📜_residual_shadow_audit.md`](Polaris_Nest/Git_Intake_Drawer/📜_residual_shadow_audit.md)
     - [`📜_torah_as_structure_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📜_torah_as_structure_of_truth.md)
     - [`📜_when_containment_becomes_identity.md`](Polaris_Nest/Git_Intake_Drawer/📜_when_containment_becomes_identity.md)
