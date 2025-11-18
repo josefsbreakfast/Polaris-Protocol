@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 04:59:16 UTC_
+_Generated on 2025-11-18 04:59:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2432,6 +2432,7 @@ _Generated on 2025-11-18 04:59:16 UTC_
     - [`🕳️_governance_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_governance_black_hole.md)
     - [`🕳️_how_to_catch_a_whistleblower.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_how_to_catch_a_whistleblower.md)
     - [`🕳️_never_really_leaving_child_abuse_britain_non_escape.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_never_really_leaving_child_abuse_britain_non_escape.md)
+    - [`🕳️_routing_logic.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_routing_logic.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
     - [`🕳️_the_shape_of_missing_historical_nodes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_shape_of_missing_historical_nodes.md)
     - [`🕳️_when_the_censor_is_a_contractor.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_when_the_censor_is_a_contractor.md)
