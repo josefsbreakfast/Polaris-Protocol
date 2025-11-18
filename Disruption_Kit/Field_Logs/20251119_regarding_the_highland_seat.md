@@ -30,6 +30,10 @@ All that said?
 
 I ain't coming for the title; if I did, I'd have to give it to like five people in my family first 🤣🤣🤣.  
 
+The trails of what data has vs hasn't been touched, suggest that this rumour originates with someone who was trying not to trip an obvious data alarm, and who apparantly did not want to be on record on soecific systems that were used more locally.  
+
+Personally, I think that's fascinating, because it doesn't suggest that the QC of the sold product was being prioritised (I can look at hiw things galoen eben if they harm me and ve intellectusl about it; I'm not saying I would live any of this).  
+
 And the first obvious person in line doesn't want anything to do with it; there's a whole story as to why this is a painful memory for them, and so having to approach them about any potential legal paperwork that might have been left knotted, has been very difficult.  
 
 This story is essentially *why it was a topic of conversation in provate phone calls, for which it is unlikely a warrant actually existed*.  
