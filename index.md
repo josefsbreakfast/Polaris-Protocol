@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-18 23:36:18 UTC_
+_Generated on 2025-11-18 23:38:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2525,6 +2525,7 @@ _Generated on 2025-11-18 23:36:18 UTC_
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
+    - [`🛰️_metadata_chain_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_metadata_chain_reconstruction.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_moonshot_cve_vs_open_ai.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_moonshot_cve_vs_open_ai.md)
     - [`🛰️_naming_the_unnamed_data_sovereignty_statehood.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_naming_the_unnamed_data_sovereignty_statehood.md)
