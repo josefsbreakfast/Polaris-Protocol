@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 19:41:36 UTC_
+_Generated on 2025-11-19 19:49:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2418,6 +2418,7 @@ _Generated on 2025-11-19 19:41:36 UTC_
     - [`💰_underwriting_the_occupation.md`](Polaris_Nest/Git_Intake_Drawer/💰_underwriting_the_occupation.md)
     - [`💸_opacity_architecture_ai_defence_foreign_alignment.md`](Polaris_Nest/Git_Intake_Drawer/💸_opacity_architecture_ai_defence_foreign_alignment.md)
     - [`💻_algorithmic_hysteria.md`](Polaris_Nest/Git_Intake_Drawer/💻_algorithmic_hysteria.md)
+    - [`💻_why_tech_bros_were_the_perfect_target.md`](Polaris_Nest/Git_Intake_Drawer/💻_why_tech_bros_were_the_perfect_target.md)
     - [`💾_token_switching_pseudonymisation_gone_wrong.md`](Polaris_Nest/Git_Intake_Drawer/💾_token_switching_pseudonymisation_gone_wrong.md)
     - [`📄_the_form_and_the_feeling.md`](Polaris_Nest/Git_Intake_Drawer/📄_the_form_and_the_feeling.md)
     - [`📈_escalation_drift_in_complex_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📈_escalation_drift_in_complex_datasets.md)
