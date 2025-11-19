@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 19:56:09 UTC_
+_Generated on 2025-11-19 19:57:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2282,6 +2282,7 @@ _Generated on 2025-11-19 19:56:09 UTC_
     - [`🌀_the_visibility_pitch_in_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_the_visibility_pitch_in_radicalisation.md)
     - [`🌀_uk_low_cost_influence_environment.md`](Polaris_Nest/Git_Intake_Drawer/🌀_uk_low_cost_influence_environment.md)
     - [`🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md`](Polaris_Nest/Git_Intake_Drawer/🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md)
+    - [`🌋_why_fascist_recruiters_promise_visibility.md`](Polaris_Nest/Git_Intake_Drawer/🌋_why_fascist_recruiters_promise_visibility.md)
     - [`🌌_institutional_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌌_institutional_pattern_recognition.md)
     - [`🌍_apartheid_algorithm_dependency_theory.md`](Polaris_Nest/Git_Intake_Drawer/🌍_apartheid_algorithm_dependency_theory.md)
     - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Polaris_Nest/Git_Intake_Drawer/🌍_cross_border_bias_propagation_in_surveillance_models.md)
