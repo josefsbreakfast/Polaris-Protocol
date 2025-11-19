@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:19:21 UTC_
+_Generated on 2025-11-19 21:23:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2291,6 +2291,7 @@ _Generated on 2025-11-19 21:19:21 UTC_
     - [`🌐_pre_infiltration_of_digital_male_spaces.md`](Polaris_Nest/Git_Intake_Drawer/🌐_pre_infiltration_of_digital_male_spaces.md)
     - [`🌒_the_no_win_box.md`](Polaris_Nest/Git_Intake_Drawer/🌒_the_no_win_box.md)
     - [`🌫️_metadata_as_mist.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_metadata_as_mist.md)
+    - [`🌫️_the_shame_visibility_collapse_loop.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_the_shame_visibility_collapse_loop.md)
     - [`🌱_institutional_betrayal_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🌱_institutional_betrayal_reflex.md)
     - [`🌱_prevent_as_authoritarian_seedling.md`](Polaris_Nest/Git_Intake_Drawer/🌱_prevent_as_authoritarian_seedling.md)
     - [`🌲_campfire_stability_model_for_modern_citizens.md`](Polaris_Nest/Git_Intake_Drawer/🌲_campfire_stability_model_for_modern_citizens.md)
