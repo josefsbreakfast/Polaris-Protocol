@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:00:00 UTC_
+_Generated on 2025-11-19 00:01:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2275,6 +2275,7 @@ _Generated on 2025-11-19 00:00:00 UTC_
     - [`🏛️_archetypes_of_bureaucratic_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_archetypes_of_bureaucratic_behaviour.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🏛️_how_states_weaponise_ihra.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_how_states_weaponise_ihra.md)
+    - [`🏛️_institutional_posture_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_institutional_posture_collapse.md)
     - [`🏛️_non_transferability_of_behavioral_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_non_transferability_of_behavioral_interventions.md)
     - [`🏛️_olympus_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_olympus_syndrome.md)
     - [`🏛️_the_boringing_uk_2010_2025.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_boringing_uk_2010_2025.md)
