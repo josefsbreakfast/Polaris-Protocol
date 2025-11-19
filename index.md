@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:24:16 UTC_
+_Generated on 2025-11-19 00:24:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2149,8 +2149,6 @@ _Generated on 2025-11-19 00:24:16 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [**file:/**](Polaris_Nest/Git_Intake_Drawer/file:/)
-      - [`%20%F0%9F%A7%B1_why_single_executives_are_authoritarian_force_multipliers.md`](Polaris_Nest/Git_Intake_Drawer/file:/%20%F0%9F%A7%B1_why_single_executives_are_authoritarian_force_multipliers.md)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
       - [`archive_capture_template.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/archive_capture_template.md)
@@ -2749,6 +2747,7 @@ _Generated on 2025-11-19 00:24:16 UTC_
     - [`🧱_rise_of_algorithmic_safety_in_the_uk_internet.md`](Polaris_Nest/Git_Intake_Drawer/🧱_rise_of_algorithmic_safety_in_the_uk_internet.md)
     - [`🧱_transparent_guardrail_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_transparent_guardrail_design.md)
     - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🧱_trickle_down_impunity.md)
+    - [`🧱_why_single_executives_are_authoritarian_force_multipliers.md`](Polaris_Nest/Git_Intake_Drawer/🧱_why_single_executives_are_authoritarian_force_multipliers.md)
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
     - [`🧲_why_vulnerability_flags_attract_abusers.md`](Polaris_Nest/Git_Intake_Drawer/🧲_why_vulnerability_flags_attract_abusers.md)
     - [`🧵_context_collapse_antisemitism_edition.md`](Polaris_Nest/Git_Intake_Drawer/🧵_context_collapse_antisemitism_edition.md)
