@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:16:46 UTC_
+_Generated on 2025-11-19 00:17:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2397,6 +2397,7 @@ _Generated on 2025-11-19 00:16:46 UTC_
     - [`📚_the_reflex_to_hide_the_book.md`](Polaris_Nest/Git_Intake_Drawer/📚_the_reflex_to_hide_the_book.md)
     - [`📚_the_tenth_library.md`](Polaris_Nest/Git_Intake_Drawer/📚_the_tenth_library.md)
     - [`📚_venus_in_furs_as_witchfinder_litmus_paper.md`](Polaris_Nest/Git_Intake_Drawer/📚_venus_in_furs_as_witchfinder_litmus_paper.md)
+    - [`📛_bureaucratic_memory_failure_and_identity_contamination.md`](Polaris_Nest/Git_Intake_Drawer/📛_bureaucratic_memory_failure_and_identity_contamination.md)
     - [`📜_from_survivor_code_to_research_ethics.md`](Polaris_Nest/Git_Intake_Drawer/📜_from_survivor_code_to_research_ethics.md)
     - [`📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md)
     - [`📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
