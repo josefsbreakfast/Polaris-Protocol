@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:03:47 UTC_
+_Generated on 2025-11-19 00:04:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2264,6 +2264,7 @@ _Generated on 2025-11-19 00:03:47 UTC_
     - [`🎼_polyphonic_origins_the_shared_bloodlines_of_the_alexandrov_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎼_polyphonic_origins_the_shared_bloodlines_of_the_alexandrov_ensemble.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Polaris_Nest/Git_Intake_Drawer/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
+    - [`🏗️_corrective_governance_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🏗️_corrective_governance_architecture.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
     - [`🏚️_authoritarian_drift_in_behavioural_research.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_authoritarian_drift_in_behavioural_research.md)
     - [`🏚️_cultural_drift_toward_coercive_logic.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_cultural_drift_toward_coercive_logic.md)
