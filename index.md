@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:24:22 UTC_
+_Generated on 2025-11-19 21:25:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2843,6 +2843,7 @@ _Generated on 2025-11-19 21:24:22 UTC_
     - [`🧲_why_vulnerability_flags_attract_abusers.md`](Polaris_Nest/Git_Intake_Drawer/🧲_why_vulnerability_flags_attract_abusers.md)
     - [`🧵_context_collapse_antisemitism_edition.md`](Polaris_Nest/Git_Intake_Drawer/🧵_context_collapse_antisemitism_edition.md)
     - [`🧵_family_class_suspicion_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧵_family_class_suspicion_patterns.md)
+    - [`🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md`](Polaris_Nest/Git_Intake_Drawer/🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md)
     - [`🧵_overproduction_boredom.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_boredom.md)
     - [`🧶_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_gossip_with_a_pay_grade.md)
     - [`🧷_culture_war_risk_logic_in_uk_public_institutions.md`](Polaris_Nest/Git_Intake_Drawer/🧷_culture_war_risk_logic_in_uk_public_institutions.md)
