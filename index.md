@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:30:59 UTC_
+_Generated on 2025-11-19 00:32:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2715,6 +2715,7 @@ _Generated on 2025-11-19 00:30:59 UTC_
     - [`🧬_voice_model_capture_risks.md`](Polaris_Nest/Git_Intake_Drawer/🧬_voice_model_capture_risks.md)
     - [`🧭_are_we_fascist_yet.md`](Polaris_Nest/Git_Intake_Drawer/🧭_are_we_fascist_yet.md)
     - [`🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md`](Polaris_Nest/Git_Intake_Drawer/🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md)
+    - [`🧭_how_authoritarian_drift_feels_from_the_inside.md`](Polaris_Nest/Git_Intake_Drawer/🧭_how_authoritarian_drift_feels_from_the_inside.md)
     - [`🧭_justice_data_ecosystem_map_2020_2025.md`](Polaris_Nest/Git_Intake_Drawer/🧭_justice_data_ecosystem_map_2020_2025.md)
     - [`🧭_leadership_management_and_moral_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_leadership_management_and_moral_containment.md)
     - [`🧭_pension_funds_as_containment_instruments.md`](Polaris_Nest/Git_Intake_Drawer/🧭_pension_funds_as_containment_instruments.md)
