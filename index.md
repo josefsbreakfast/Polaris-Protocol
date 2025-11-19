@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 20:19:05 UTC_
+_Generated on 2025-11-19 20:35:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2585,6 +2585,7 @@ _Generated on 2025-11-19 20:19:05 UTC_
     - [`🗣️_when_did_the_way_we_talk_change.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_when_did_the_way_we_talk_change.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🗺️_linguistic_silk_road.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_linguistic_silk_road.md)
+    - [`🗺️_the_emotional_cartography_of_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_the_emotional_cartography_of_radicalisation.md)
     - [`😌_the_performance_of_consensus.md`](Polaris_Nest/Git_Intake_Drawer/😌_the_performance_of_consensus.md)
     - [`😴_millennial_exhaustion_as_a_political_condition.md`](Polaris_Nest/Git_Intake_Drawer/😴_millennial_exhaustion_as_a_political_condition.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
