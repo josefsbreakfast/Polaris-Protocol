@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:30:15 UTC_
+_Generated on 2025-11-19 21:31:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2297,6 +2297,7 @@ _Generated on 2025-11-19 21:30:15 UTC_
     - [`🌲_campfire_stability_model_for_modern_citizens.md`](Polaris_Nest/Git_Intake_Drawer/🌲_campfire_stability_model_for_modern_citizens.md)
     - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](Polaris_Nest/Git_Intake_Drawer/🌲_rebuilding_spark_in_a_political_forest_fire.md)
     - [`🌿_normal_human_behaviour_as_risk_flag.md`](Polaris_Nest/Git_Intake_Drawer/🌿_normal_human_behaviour_as_risk_flag.md)
+    - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
     - [`🍪_operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🍪_operant_conditioning_the_algorithm.md)
     - [`🍻_gullivar_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/🍻_gullivar_syndrome.md)
     - [`🎐_psychology_of_just_raising_concerns.md`](Polaris_Nest/Git_Intake_Drawer/🎐_psychology_of_just_raising_concerns.md)
