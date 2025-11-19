@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:35:19 UTC_
+_Generated on 2025-11-19 00:36:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2532,6 +2532,7 @@ _Generated on 2025-11-19 00:35:19 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
+    - [`🚫_when_no_one_steps_in_institutional_silence_as_warning_signal.md`](Polaris_Nest/Git_Intake_Drawer/🚫_when_no_one_steps_in_institutional_silence_as_warning_signal.md)
     - [`🛑_rabbinic_silence_as_theological_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🛑_rabbinic_silence_as_theological_collapse.md)
     - [`🛠️_fixing_the_uk_algorithmic_safety_stack.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_fixing_the_uk_algorithmic_safety_stack.md)
     - [`🛠️_frankenstack_failure_modes_public_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_frankenstack_failure_modes_public_systems.md)
