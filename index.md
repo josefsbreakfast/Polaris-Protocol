@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:04:21 UTC_
+_Generated on 2025-11-19 00:05:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2306,6 +2306,7 @@ _Generated on 2025-11-19 00:04:21 UTC_
     - [`🐾_greyhound_networks_and_collective_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🐾_greyhound_networks_and_collective_pattern_recognition.md)
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
     - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
+    - [`👁️_restoring_epistemic_integrity.md`](Polaris_Nest/Git_Intake_Drawer/👁️_restoring_epistemic_integrity.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/👑_soft_power_accountability_gap.md)
     - [`👹_how_predators_weaponise_safeguarding_systems.md`](Polaris_Nest/Git_Intake_Drawer/👹_how_predators_weaponise_safeguarding_systems.md)
