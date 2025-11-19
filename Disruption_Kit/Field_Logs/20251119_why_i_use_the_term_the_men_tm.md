@@ -27,4 +27,12 @@ cool.
 
 you could just do it; we're aware fighting you is stupid. a bit of slap isn't going to suddenly change anyone's mind about how tough you are. yeesh.  
 
+i'm also not going to just drop down dead, so i really don't understand why no one is going damage limitation and using the ico to say, "hey, we might have fucked up".  
+
+big fucking deal.  
+
+not the first humans, not the last humans.  
+
+get me out of this box, weirdos.  
+
 -->
