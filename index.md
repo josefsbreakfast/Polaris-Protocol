@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 19:35:28 UTC_
+_Generated on 2025-11-19 19:36:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2285,6 +2285,7 @@ _Generated on 2025-11-19 19:35:28 UTC_
     - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Polaris_Nest/Git_Intake_Drawer/🌍_cross_border_bias_propagation_in_surveillance_models.md)
     - [`🌍_israel_five_eyes_structural_interdependency.md`](Polaris_Nest/Git_Intake_Drawer/🌍_israel_five_eyes_structural_interdependency.md)
     - [`🌍_muslim_identity_racialisation_parallels_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🌍_muslim_identity_racialisation_parallels_antisemitism.md)
+    - [`🌐_pre_infiltration_of_digital_male_spaces.md`](Polaris_Nest/Git_Intake_Drawer/🌐_pre_infiltration_of_digital_male_spaces.md)
     - [`🌒_the_no_win_box.md`](Polaris_Nest/Git_Intake_Drawer/🌒_the_no_win_box.md)
     - [`🌫️_metadata_as_mist.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_metadata_as_mist.md)
     - [`🌱_institutional_betrayal_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🌱_institutional_betrayal_reflex.md)
