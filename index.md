@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:23:24 UTC_
+_Generated on 2025-11-19 21:24:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2306,6 +2306,7 @@ _Generated on 2025-11-19 21:23:24 UTC_
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
     - [`🎩_edwardian_occult_as_live_action_privilege.md`](Polaris_Nest/Git_Intake_Drawer/🎩_edwardian_occult_as_live_action_privilege.md)
     - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Polaris_Nest/Git_Intake_Drawer/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
+    - [`🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md`](Polaris_Nest/Git_Intake_Drawer/🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md)
     - [`🎭_performative_left_failure_modes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_performative_left_failure_modes.md)
     - [`🎭_pr_friendly_persona_flattening.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_friendly_persona_flattening.md)
     - [`🎭_pr_simulation_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_simulation_breakdown.md)
