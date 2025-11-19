@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:05:26 UTC_
+_Generated on 2025-11-19 21:07:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2691,6 +2691,7 @@ _Generated on 2025-11-19 21:05:26 UTC_
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧠_shame_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧠_shame_economics.md)
     - [`🧠_the_black_box_of_executive_power.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_black_box_of_executive_power.md)
+    - [`🧠_the_cognitive_vulnerability_stack_of_lonely_men.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
     - [`🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md)
