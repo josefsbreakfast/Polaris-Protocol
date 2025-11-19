@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:28:39 UTC_
+_Generated on 2025-11-19 00:29:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2240,6 +2240,7 @@ _Generated on 2025-11-19 00:28:39 UTC_
     - [`🌱_institutional_betrayal_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🌱_institutional_betrayal_reflex.md)
     - [`🌱_prevent_as_authoritarian_seedling.md`](Polaris_Nest/Git_Intake_Drawer/🌱_prevent_as_authoritarian_seedling.md)
     - [`🌲_campfire_stability_model_for_modern_citizens.md`](Polaris_Nest/Git_Intake_Drawer/🌲_campfire_stability_model_for_modern_citizens.md)
+    - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](Polaris_Nest/Git_Intake_Drawer/🌲_rebuilding_spark_in_a_political_forest_fire.md)
     - [`🌿_normal_human_behaviour_as_risk_flag.md`](Polaris_Nest/Git_Intake_Drawer/🌿_normal_human_behaviour_as_risk_flag.md)
     - [`🍪_operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🍪_operant_conditioning_the_algorithm.md)
     - [`🎐_psychology_of_just_raising_concerns.md`](Polaris_Nest/Git_Intake_Drawer/🎐_psychology_of_just_raising_concerns.md)
