@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:18:58 UTC_
+_Generated on 2025-11-19 00:20:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2730,6 +2730,7 @@ _Generated on 2025-11-19 00:18:58 UTC_
     - [`🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md`](Polaris_Nest/Git_Intake_Drawer/🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md)
     - [`🧮_twinning_as_visibility_elevation.md`](Polaris_Nest/Git_Intake_Drawer/🧮_twinning_as_visibility_elevation.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
+    - [`🧯_prevent_as_political_atomisation_engine.md`](Polaris_Nest/Git_Intake_Drawer/🧯_prevent_as_political_atomisation_engine.md)
     - [`🧯_sonata_aftershock_and_fear_procurement.md`](Polaris_Nest/Git_Intake_Drawer/🧯_sonata_aftershock_and_fear_procurement.md)
     - [`🧯_synthetic_pair_breach_and_industry_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🧯_synthetic_pair_breach_and_industry_reflex.md)
     - [`🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md`](Polaris_Nest/Git_Intake_Drawer/🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md)
