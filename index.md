@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:52:33 UTC_
+_Generated on 2025-11-19 00:54:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2348,6 +2348,7 @@ _Generated on 2025-11-19 00:52:33 UTC_
     - [`💞_queer_theory_as_relational_literacy.md`](Polaris_Nest/Git_Intake_Drawer/💞_queer_theory_as_relational_literacy.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💣_austerity_as_time_collapse.md`](Polaris_Nest/Git_Intake_Drawer/💣_austerity_as_time_collapse.md)
+    - [`💣_trident_as_modern_kraken_security_theatre.md`](Polaris_Nest/Git_Intake_Drawer/💣_trident_as_modern_kraken_security_theatre.md)
     - [`💥_institutional_panic_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/💥_institutional_panic_dynamics.md)
     - [`💥_reputational_insurance_collapse_under_narrative_instability.md`](Polaris_Nest/Git_Intake_Drawer/💥_reputational_insurance_collapse_under_narrative_instability.md)
     - [`💥_risk_vector_inversions.md`](Polaris_Nest/Git_Intake_Drawer/💥_risk_vector_inversions.md)
