@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 20:00:52 UTC_
+_Generated on 2025-11-19 20:03:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2852,6 +2852,7 @@ _Generated on 2025-11-19 20:00:52 UTC_
     - [`🧿_uk_hard_to_model_easy_to_manipulate.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_hard_to_model_easy_to_manipulate.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
+    - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](Polaris_Nest/Git_Intake_Drawer/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
     - [`🩸_coercive_dynamics_in_prevent_data.md`](Polaris_Nest/Git_Intake_Drawer/🩸_coercive_dynamics_in_prevent_data.md)
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
     - [`🩸_death_as_diplomacy_from_smolensk_to_tver.md`](Polaris_Nest/Git_Intake_Drawer/🩸_death_as_diplomacy_from_smolensk_to_tver.md)
