@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:40:54 UTC_
+_Generated on 2025-11-19 21:43:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2744,6 +2744,7 @@ _Generated on 2025-11-19 21:40:54 UTC_
     - [`🧩_identity_stance_mismatch_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧩_identity_stance_mismatch_architecture.md)
     - [`🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md`](Polaris_Nest/Git_Intake_Drawer/🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md)
     - [`🧩_meta_containment_and_exploited_breakpoints.md`](Polaris_Nest/Git_Intake_Drawer/🧩_meta_containment_and_exploited_breakpoints.md)
+    - [`🧩_mirror_cluster_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧩_mirror_cluster_effects.md)
     - [`🧩_myth_vs_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧩_myth_vs_mechanism.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
