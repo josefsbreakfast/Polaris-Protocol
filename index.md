@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:33:33 UTC_
+_Generated on 2025-11-19 00:35:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2217,6 +2217,7 @@ _Generated on 2025-11-19 00:33:33 UTC_
     - [`⚖️_uk_data_claim_routes_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_uk_data_claim_routes_and_limits.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
+    - [`⚡_why_some_people_become_systemic_lightning_rods.md`](Polaris_Nest/Git_Intake_Drawer/⚡_why_some_people_become_systemic_lightning_rods.md)
     - [`⚡️_crackling_channels.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_crackling_channels.md)
     - [`⚡️_public_legitimacy_crisis_behavioural_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_public_legitimacy_crisis_behavioural_governance.md)
     - [`⛳️_flags_increase_risks.md`](Polaris_Nest/Git_Intake_Drawer/⛳️_flags_increase_risks.md)
