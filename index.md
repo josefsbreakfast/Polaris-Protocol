@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:32:24 UTC_
+_Generated on 2025-11-19 21:33:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2830,6 +2830,7 @@ _Generated on 2025-11-19 21:32:24 UTC_
     - [`🧯_signs_your_brain_is_tired_because_society_is_batshit.md`](Polaris_Nest/Git_Intake_Drawer/🧯_signs_your_brain_is_tired_because_society_is_batshit.md)
     - [`🧯_sonata_aftershock_and_fear_procurement.md`](Polaris_Nest/Git_Intake_Drawer/🧯_sonata_aftershock_and_fear_procurement.md)
     - [`🧯_synthetic_pair_breach_and_industry_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🧯_synthetic_pair_breach_and_industry_reflex.md)
+    - [`🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md`](Polaris_Nest/Git_Intake_Drawer/🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md)
     - [`🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md`](Polaris_Nest/Git_Intake_Drawer/🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md)
     - [`🧰_governance_risk_behaviour_index.md`](Polaris_Nest/Git_Intake_Drawer/🧰_governance_risk_behaviour_index.md)
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
