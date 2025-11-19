@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 19:57:49 UTC_
+_Generated on 2025-11-19 19:59:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2855,6 +2855,7 @@ _Generated on 2025-11-19 19:57:49 UTC_
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
     - [`🩸_death_as_diplomacy_from_smolensk_to_tver.md`](Polaris_Nest/Git_Intake_Drawer/🩸_death_as_diplomacy_from_smolensk_to_tver.md)
     - [`🩸_ideological_skinwalkers.md`](Polaris_Nest/Git_Intake_Drawer/🩸_ideological_skinwalkers.md)
+    - [`🩸_lineage_of_the_cursed_forums.md`](Polaris_Nest/Git_Intake_Drawer/🩸_lineage_of_the_cursed_forums.md)
     - [`🩸_mimicry_of_blood_libel.md`](Polaris_Nest/Git_Intake_Drawer/🩸_mimicry_of_blood_libel.md)
     - [`🩸_reverse_victim_logic.md`](Polaris_Nest/Git_Intake_Drawer/🩸_reverse_victim_logic.md)
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
