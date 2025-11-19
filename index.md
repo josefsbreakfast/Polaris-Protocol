@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 17:47:21 UTC_
+_Generated on 2025-11-19 18:30:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2343,6 +2343,7 @@ _Generated on 2025-11-19 17:47:21 UTC_
     - [`🐣_canaries_and_cassandras.md`](Polaris_Nest/Git_Intake_Drawer/🐣_canaries_and_cassandras.md)
     - [`🐦‍⬛_cards_indices_grids.md`](Polaris_Nest/Git_Intake_Drawer/🐦‍⬛_cards_indices_grids.md)
     - [`🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md`](Polaris_Nest/Git_Intake_Drawer/🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md)
+    - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐾_canine_constellation_migration.md`](Polaris_Nest/Git_Intake_Drawer/🐾_canine_constellation_migration.md)
     - [`🐾_greyhound_networks_and_collective_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🐾_greyhound_networks_and_collective_pattern_recognition.md)
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
