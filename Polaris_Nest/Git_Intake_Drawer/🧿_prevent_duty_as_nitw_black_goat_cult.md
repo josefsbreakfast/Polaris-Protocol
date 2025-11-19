@@ -100,22 +100,58 @@ And frightened people create ritual.
 
 ---
 
-## 4. Mallard’s Tomb: The Archive of Forgotten Care  
+## 4. Mallard’s Tomb: The Illicit Archive of Abandoned Care
 
-In NITW, Mallard’s Tomb is a hidden, half-ruined sanctuary —  
-a relic from a time when someone cared enough to build something beautiful.  
+In *Night in the Woods*, Mallard isn’t a monument.  
+He’s a broken spring parade float—once beloved, once celebrated—now hidden in a locked storage room because an accident hurt someone and no one knew how to handle the aftermath.
 
-Institutionally, this mirrors:
+Rather than repair him,  
+or rethink the festival,  
+or mourn the loss,  
+the town simply **sealed the room**  
+and pretended the tradition had never existed.
 
-- old pastoral notes  
-- abandoned support systems  
-- retention of well-meant but outdated safeguarding practices  
-- archives of concern that no longer serve their purpose  
-- metadata that remembers care, but not context
+This is how community rituals disappear:  
+not through decision,  
+but through avoidance.
 
-It is *gentle*,  
-but it is still part of the underground architecture
-that shapes user experience without explanation.
+Inside that forgotten room, Mae breaks in through a window.  
+She isn’t supposed to be there.  
+But in a quiet, strange way, she becomes the only person performing any act of care:
+
+- she cradles Mallard’s history  
+- she tends to the rats inside his hollowed body  
+- she steals pretzels to feed creatures nobody else sees  
+- she honours a piece of culture everyone abandoned out of fear and liability  
+
+This resonates deeply with real institutional structures.
+
+Often the only traces of care that survive inside governance ecosystems are:
+
+- old pastoral notes written by someone who genuinely cared  
+- half-functioning support plans nobody had the resources to continue  
+- “temporary measures” that were meant to help but were never reviewed  
+- small acts of kindness embedded in metadata long after context was lost  
+- fragments of humanity hidden under procedural dust
+
+These acts aren’t heroic.  
+They aren’t authorised.  
+They are simply what remains when a system abandons something that once mattered.
+
+Mallard’s Tomb teaches a structural truth:
+
+> **Illicit care is still care.  
+Unrecorded care is still care.  
+And forgotten care can shape a person’s experience more than the formal system ever does.**
+
+In governance terms, these abandoned care-objects become part of the underground architecture of institutional memory—  
+not malevolent,  
+but unstable,  
+quietly influencing how a person is treated years later.
+
+Like the rats roaming Possum Springs after Mae feeds them,  
+these small, nearly invisible acts have downstream effects on the town that no one fully understands,  
+but everyone eventually feels.  
 
 ---
 
