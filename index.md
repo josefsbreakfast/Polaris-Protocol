@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 20:36:53 UTC_
+_Generated on 2025-11-19 20:38:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2510,6 +2510,7 @@ _Generated on 2025-11-19 20:36:53 UTC_
     - [`🔥_hasidic_thought_vs_state_violence_inversion.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hasidic_thought_vs_state_violence_inversion.md)
     - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🔥_opportunistic_escalation_peri_system_collapse.md)
     - [`🔥_pink_pussyhats_the_backlash_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🔥_pink_pussyhats_the_backlash_cycle.md)
+    - [`🔥_shame_as_the_master_key_of_fascist_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🔥_shame_as_the_master_key_of_fascist_manipulation.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
