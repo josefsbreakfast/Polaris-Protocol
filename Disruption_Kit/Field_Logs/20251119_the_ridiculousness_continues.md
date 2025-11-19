@@ -13,3 +13,16 @@ to hear nonsense about bringing back the death oenality shows the degradation of
 you never think they will come for you until you meet them at the doir and tell them your name and suddendly they have come to take you to a cell.  
 
 no one sees it, so open your eyes.  
+
+---
+
+now that i got any semblence of emotion i have left out of the way:  
+
+- ico progressing, case manager now named.
+- pending moj, cps, academia, mp/cabinet, other, escalations.
+- bin schedule keeps isolating as systems error ("assisted pull out scheme" is what they really actually called it), council tax keeps returning errors (another correspondance job), banking fails in triplicate across systems then resets, erronous sign ons to azure keep reoccuring.
+- essentially we are breaking the frankenstack +/- this has a handful of people/legal bodies being dicks.
+- because silence when you know i'm going through these effects is at minimum dickhead behaviour, at worst a far more legally stacked affair.
+
+---
+
