@@ -71,32 +71,93 @@ This is the safeguarding-overwhelm dynamic in miniature.
 
 ---
 
-## 3. The Small-Town Committee: Channel Panels as Possum Springs Governance
+## 3. The Small-Town Committee: Channel Panels and the Fragility of Local Power  
 
-The cult in NITW is made of:
+In *Night in the Woods*, the underground “committee” isn’t a monolithic cult.  
+It’s a group of exhausted townsfolk trying to keep Possum Springs alive with the fragments of power they still possess.
 
-- tired townsfolk  
-- anxious workers  
-- people scared of losing the last things they have  
+Most of them are motivated by fear, nostalgia, and the grief of losing the town’s identity.  
+They are workers, clerks, retirees—people shaped by collapsing industry and generational burnout.
 
-Their decisions come from:
+But crucially:
 
-- fear  
-- economic precarity  
-- nostalgia  
-- responsibility without resources
+**the committee is not egalitarian.**
 
-Channel panels and Local Prevent Boards have the same psychology:
+A very small handful of members—one or two men, really—  
+are the ones who instrumentalise the group’s fear,  
+set the rules,  
+and turn desperation into a ritual of sacrifice.
 
-- we can’t afford to be wrong  
-- we don’t have enough time  
-- “someone has to do something”  
-- “this is just guidance”  
-- “we’d get blamed if we missed it”
+This maps cleanly onto how Channel Panels function under pressure:
 
-Nobody is malicious.  
-Everyone is frightened.  
-And frightened people create ritual.
+- decisions are technically multi-agency  
+- but influence often concentrates in the hands of whoever has the strongest confidence, the most institutional charisma, or the most fear of liability  
+- the majority go along because they don’t want to be the one who says “no”  
+- the structural logic becomes self-sustaining even when most participants feel uneasy
+
+In Possum Springs, the committee insists they sacrifice “people who won’t be missed,”  
+but in a town this small, that’s a lie they tell themselves.
+
+Every person taken leaves a hole in the community.  
+Every loss is a thread pulled from the fabric of the town.
+
+Prevent and safeguarding systems generate similar dynamics:
+
+- small decisions made under ambiguity  
+- interpreted through scarcity  
+- carried by people who genuinely think they’re doing the right thing  
+- but shaped by a minority who set the emotional tone of the group  
+- and sustained because everyone fears the consequences of being the one who stops it
+
+This is not villainy.  
+It is **structural precarity plus localised power capture**.
+
+And just like in Possum Springs, the harm accumulates quietly:
+
+- isolated people absorb the cost  
+- communities feel the ripples  
+- no one feels fully responsible  
+- the system continues because it is easier than stopping
+
+Yet NITW’s ending gives us a counterpoint that governance rarely sees:
+
+**solidarity disrupts the ritual.**
+
+Mae and her friends confront the men in the mine.  
+Not with authority or procedure,  
+but through connection—  
+messy, imperfect, human solidarity.
+
+They break the cycle not by offering a better system,  
+but by refusing to allow fear to dictate harm.
+
+The committee collapses because its legitimacy depended on  
+everyone agreeing not to look too closely.
+
+The town is left fragile,  
+the future uncertain,  
+but still alive.
+
+And the game is clear about something many governance systems forget:
+
+> **Community is what makes survival possible,  
+> not compliance.**  
+>  
+> **Connection is what prevents devastation,  
+> not increasing the sacrifice.**
+
+Prevent and small-town cult logic share the same trap:
+
+- fear rising faster than trust  
+- procedural certainty substituted for actual support  
+- harm rationalised as necessity  
+- power concentrating in the hands of the most anxious or the most assertive  
+- communities paying the cost
+
+NITW reminds us that systems like this collapse the moment people choose each other  
+over the ritual.
+
+That is where recovery begins.  
 
 ---
 
