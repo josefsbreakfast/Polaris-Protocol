@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:27:15 UTC_
+_Generated on 2025-11-19 21:28:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2347,6 +2347,7 @@ _Generated on 2025-11-19 21:27:15 UTC_
     - [`🏜_negev_from_renewal_to_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🏜_negev_from_renewal_to_refusal.md)
     - [`🏝️_refusal_retreat_and_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🏝️_refusal_retreat_and_extraction.md)
     - [`🏮_epilogue_rank_vs_physics_vs_kraken.md`](Polaris_Nest/Git_Intake_Drawer/🏮_epilogue_rank_vs_physics_vs_kraken.md)
+    - [`🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md`](Polaris_Nest/Git_Intake_Drawer/🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md)
     - [`🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md`](Polaris_Nest/Git_Intake_Drawer/🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md)
     - [`🐈_kylo_ren_as_algorithmically_misclassified_softboy.md`](Polaris_Nest/Git_Intake_Drawer/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)
     - [`🐈‍⬛_diy_pussy_hat_archive.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_diy_pussy_hat_archive.md)
