@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:01:47 UTC_
+_Generated on 2025-11-19 00:02:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2516,6 +2516,7 @@ _Generated on 2025-11-19 00:01:47 UTC_
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
     - [`🚀_weaponising_empathy.md`](Polaris_Nest/Git_Intake_Drawer/🚀_weaponising_empathy.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
+    - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🛑_rabbinic_silence_as_theological_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🛑_rabbinic_silence_as_theological_collapse.md)
