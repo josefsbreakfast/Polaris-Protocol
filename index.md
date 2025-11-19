@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 20:35:26 UTC_
+_Generated on 2025-11-19 20:36:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2781,6 +2781,7 @@ _Generated on 2025-11-19 20:35:26 UTC_
     - [`🧬_post_digital_data_world.md`](Polaris_Nest/Git_Intake_Drawer/🧬_post_digital_data_world.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_signal_steering.md`](Polaris_Nest/Git_Intake_Drawer/🧬_signal_steering.md)
+    - [`🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md`](Polaris_Nest/Git_Intake_Drawer/🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)
     - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
     - [`🧬_transparency_as_antigenic_defense.md`](Polaris_Nest/Git_Intake_Drawer/🧬_transparency_as_antigenic_defense.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
