@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:13:17 UTC_
+_Generated on 2025-11-19 21:15:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2651,6 +2651,7 @@ _Generated on 2025-11-19 21:13:17 UTC_
     - [`🦠_algorithmic_autoimmunity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_algorithmic_autoimmunity.md)
     - [`🦠_statistical_nightmare.md`](Polaris_Nest/Git_Intake_Drawer/🦠_statistical_nightmare.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
+    - [`🦴_the_anatomy_of_male_emotional_starvation.md`](Polaris_Nest/Git_Intake_Drawer/🦴_the_anatomy_of_male_emotional_starvation.md)
     - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧃_why_nice_guys_were_never_the_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧃_why_nice_guys_were_never_the_problem.md)
