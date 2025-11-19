@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 21:58:27 UTC_
+_Generated on 2025-11-19 22:02:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2891,6 +2891,7 @@ _Generated on 2025-11-19 21:58:27 UTC_
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩸_the_long_fuse_2010_2017.md`](Polaris_Nest/Git_Intake_Drawer/🩸_the_long_fuse_2010_2017.md)
+    - [`🩻_safeguarding_logic_civil_systems.md`](Polaris_Nest/Git_Intake_Drawer/🩻_safeguarding_logic_civil_systems.md)
     - [`🪆_containment_logic_as_witch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🪆_containment_logic_as_witch_logic.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
