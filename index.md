@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:23:39 UTC_
+_Generated on 2025-11-19 00:24:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2149,6 +2149,8 @@ _Generated on 2025-11-19 00:23:39 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
+    - [**file:/**](Polaris_Nest/Git_Intake_Drawer/file:/)
+      - [`%20%F0%9F%A7%B1_why_single_executives_are_authoritarian_force_multipliers.md`](Polaris_Nest/Git_Intake_Drawer/file:/%20%F0%9F%A7%B1_why_single_executives_are_authoritarian_force_multipliers.md)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
       - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
       - [`archive_capture_template.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/archive_capture_template.md)
