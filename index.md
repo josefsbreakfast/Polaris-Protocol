@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 19:27:27 UTC_
+_Generated on 2025-11-19 19:29:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2655,6 +2655,7 @@ _Generated on 2025-11-19 19:27:27 UTC_
     - [`🧠_behavioural_nudge_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_nudge_as_containment.md)
     - [`🧠_behavioural_reengagement_as_containment_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_reengagement_as_containment_loop.md)
     - [`🧠_bureaucratic_fast_thinking_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧠_bureaucratic_fast_thinking_harm.md)
+    - [`🧠_charism_as_coercion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_charism_as_coercion.md)
     - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Polaris_Nest/Git_Intake_Drawer/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
     - [`🧠_composite_line_formation_dual_valence_merge.md`](Polaris_Nest/Git_Intake_Drawer/🧠_composite_line_formation_dual_valence_merge.md)
     - [`🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
