@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 00:43:14 UTC_
+_Generated on 2025-11-19 00:43:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2519,6 +2519,7 @@ _Generated on 2025-11-19 00:43:14 UTC_
     - [`🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md`](Polaris_Nest/Git_Intake_Drawer/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md)
     - [`🗑️_orthopaedic_anarchism.md`](Polaris_Nest/Git_Intake_Drawer/🗑️_orthopaedic_anarchism.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
+    - [`🗡️_why_trident_is_lowkey_kraken_insurance.md`](Polaris_Nest/Git_Intake_Drawer/🗡️_why_trident_is_lowkey_kraken_insurance.md)
     - [`🗣️_data_majority_as_narrative_voice_voting_by_volume.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_data_majority_as_narrative_voice_voting_by_volume.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗣️_how_to_detect_voice_dataset_use.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_how_to_detect_voice_dataset_use.md)
