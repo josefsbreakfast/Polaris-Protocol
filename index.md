@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 19:49:41 UTC_
+_Generated on 2025-11-19 19:51:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2694,6 +2694,7 @@ _Generated on 2025-11-19 19:49:41 UTC_
     - [`🧨_gitmo_to_gaza_exception_chain.md`](Polaris_Nest/Git_Intake_Drawer/🧨_gitmo_to_gaza_exception_chain.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
+    - [`🧨_the_pua_to_fascist_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧨_the_pua_to_fascist_pipeline.md)
     - [`🧨_unusual_contact_misread.md`](Polaris_Nest/Git_Intake_Drawer/🧨_unusual_contact_misread.md)
     - [`🧩 _threat_surface_map.md`](Polaris_Nest/Git_Intake_Drawer/🧩 _threat_surface_map.md)
     - [`🧩_academic_precarity_as_authoritarian_vector.md`](Polaris_Nest/Git_Intake_Drawer/🧩_academic_precarity_as_authoritarian_vector.md)
