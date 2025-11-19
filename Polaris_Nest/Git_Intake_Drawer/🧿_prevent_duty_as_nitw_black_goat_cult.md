@@ -100,10 +100,10 @@ And frightened people create ritual.
 
 ---
 
-## 4. Mallard’s Dock: The Archive of Forgotten Care
+## 4. Mallard’s Tomb: The Archive of Forgotten Care  
 
-In NITW, Mallard’s Dock is a hidden, half-ruined sanctuary —  
-a relic from a time when someone cared enough to build something beautiful.
+In NITW, Mallard’s Tomb is a hidden, half-ruined sanctuary —  
+a relic from a time when someone cared enough to build something beautiful.  
 
 Institutionally, this mirrors:
 
