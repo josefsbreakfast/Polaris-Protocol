@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 20:38:30 UTC_
+_Generated on 2025-11-19 20:39:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2398,6 +2398,7 @@ _Generated on 2025-11-19 20:38:30 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💔_risk_of_violent_treatment.md`](Polaris_Nest/Git_Intake_Drawer/💔_risk_of_violent_treatment.md)
     - [`💔_when_the_algorithm_thinks_it’s_a_rom_com.md`](Polaris_Nest/Git_Intake_Drawer/💔_when_the_algorithm_thinks_it’s_a_rom_com.md)
+    - [`💗_the_soft_boy_restoration_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💗_the_soft_boy_restoration_protocol.md)
     - [`💞_affective_proxy_substitution_cross_gender_misread_as_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md)
     - [`💞_moflin_and_the_ethics_of_engineered_affection.md`](Polaris_Nest/Git_Intake_Drawer/💞_moflin_and_the_ethics_of_engineered_affection.md)
     - [`💞_queer_theory_as_relational_literacy.md`](Polaris_Nest/Git_Intake_Drawer/💞_queer_theory_as_relational_literacy.md)
