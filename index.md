@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 19:36:08 UTC_
+_Generated on 2025-11-19 19:41:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2278,6 +2278,7 @@ _Generated on 2025-11-19 19:36:08 UTC_
     - [`🌀_projection_driven_system_nudges.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_driven_system_nudges.md)
     - [`🌀_semantic_drift_safeguarding_language.md`](Polaris_Nest/Git_Intake_Drawer/🌀_semantic_drift_safeguarding_language.md)
     - [`🌀_systemic_coercion_in_federated_governance.md`](Polaris_Nest/Git_Intake_Drawer/🌀_systemic_coercion_in_federated_governance.md)
+    - [`🌀_the_visibility_pitch_in_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_the_visibility_pitch_in_radicalisation.md)
     - [`🌀_uk_low_cost_influence_environment.md`](Polaris_Nest/Git_Intake_Drawer/🌀_uk_low_cost_influence_environment.md)
     - [`🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md`](Polaris_Nest/Git_Intake_Drawer/🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md)
     - [`🌌_institutional_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌌_institutional_pattern_recognition.md)
