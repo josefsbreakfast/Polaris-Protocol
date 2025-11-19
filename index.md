@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 20:04:58 UTC_
+_Generated on 2025-11-19 20:06:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2876,6 +2876,7 @@ _Generated on 2025-11-19 20:04:58 UTC_
     - [`🪢_hygienic_cut.md`](Polaris_Nest/Git_Intake_Drawer/🪢_hygienic_cut.md)
     - [`🪢_reembodie_civics.md`](Polaris_Nest/Git_Intake_Drawer/🪢_reembodie_civics.md)
     - [`🪨_male_survivor_silence.md`](Polaris_Nest/Git_Intake_Drawer/🪨_male_survivor_silence.md)
+    - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
     - [`🪬_ihra_vs_jda.md`](Polaris_Nest/Git_Intake_Drawer/🪬_ihra_vs_jda.md)
     - [`🪶_language_as_smuggled_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🪶_language_as_smuggled_plurality.md)
