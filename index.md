@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-19 22:02:40 UTC_
+_Generated on 2025-11-19 22:06:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2873,6 +2873,7 @@ _Generated on 2025-11-19 22:02:40 UTC_
     - [`🧿_his_reaction_is_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🧿_his_reaction_is_the_flag.md)
     - [`🧿_misinterpretation_resilience_review.md`](Polaris_Nest/Git_Intake_Drawer/🧿_misinterpretation_resilience_review.md)
     - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
+    - [`🧿_prevent_duty_as_nitw_black_goat_cult.md`](Polaris_Nest/Git_Intake_Drawer/🧿_prevent_duty_as_nitw_black_goat_cult.md)
     - [`🧿_representation_logic_vs_platform_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/🧿_representation_logic_vs_platform_optimisation.md)
     - [`🧿_survivor_credibility_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧿_survivor_credibility_loops.md)
     - [`🧿_targeted_metadata_capture_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_targeted_metadata_capture_in_prevent.md)
