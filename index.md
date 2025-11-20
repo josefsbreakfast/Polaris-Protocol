@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 10:20:36 UTC_
+_Generated on 2025-11-20 10:24:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2680,6 +2680,7 @@ _Generated on 2025-11-20 10:20:36 UTC_
     - [`🧠 _institutional_perception_no_win_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧠 _institutional_perception_no_win_zone.md)
     - [`🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md)
     - [`🧠_ai_ethicswash.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ai_ethicswash.md)
+    - [`🧠_algorithmic_fear_symbolics.md`](Polaris_Nest/Git_Intake_Drawer/🧠_algorithmic_fear_symbolics.md)
     - [`🧠_algorithmic_operant_conditioning.md`](Polaris_Nest/Git_Intake_Drawer/🧠_algorithmic_operant_conditioning.md)
     - [`🧠_attribution_inversion_when_someone_elses_clinical_vocabulary_becomes_yours.md`](Polaris_Nest/Git_Intake_Drawer/🧠_attribution_inversion_when_someone_elses_clinical_vocabulary_becomes_yours.md)
     - [`🧠_austerity_as_security_doctrine.md`](Polaris_Nest/Git_Intake_Drawer/🧠_austerity_as_security_doctrine.md)
