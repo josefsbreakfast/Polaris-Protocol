@@ -25,3 +25,11 @@ idgaf.
 you've collevtively done this so aggressively through the first half of 2025 that it's impossible not to see now.  
 
 stop being so weird.  
+
+we can also stop with the "someone wants to handcuff you", and "someone wants to get you arrested".  
+
+it's not normal to do this. stop.  
+
+the mod data is not a free pass, my previous trauma history is not a free pass, the moj sealed status is not a free pass.  
+
+stop. being. weird.  
