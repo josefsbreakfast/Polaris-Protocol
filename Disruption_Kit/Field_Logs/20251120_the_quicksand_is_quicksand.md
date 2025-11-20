@@ -41,3 +41,29 @@ but every fucking single woman and girl who has had a pulse within 6 feet of an 
 so cry me a fucking river between your downvotes and shitstirrer comments.  
 
 i am so done with your entire sex being here.  
+
+---
+
+because i am still trying to out-survive the same factors which cause me to overexplain myself:  
+
+you have previously made out i am histrionic because occaisionally i like men.  
+
+this *gestures upwards*, this is why the birth rste is liw in women my age.  
+men in aggregate put us through this, killing us slowly, squeezing every last morsel out of us in any form as if we are an all-you-can-eat, self-replenishing resource, and then have either the stupidity or the gall (or both) to complain that we are not "open" to whatever they throw our way.  
+you say you are the intelligent ones, the rational ones?  
+
+make it make an ounce of sense.  
+
+i will wait.  
+
+that's what your collective, shitty, short-term-planning procurement and commissioning decisions are doing anyway.  
+
+who the fuck are you to dictate that it's our fault if we are chlidless?  
+
+i need more than your flimsy gametes to make a child in a world like this.  
+
+and if i was independent and had the resources to do it myself?  
+
+what makes you think, with a capitalist market, you could compete with all the potential donors i could access?  
+
+decide which side of the fence you are on.  
