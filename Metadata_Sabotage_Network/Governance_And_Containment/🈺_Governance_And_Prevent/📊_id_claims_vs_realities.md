@@ -1,5 +1,5 @@
 # 📊 ID Claims vs. Realities  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-30  
+**First created:** 2025-09-26 | **Last updated:** 2025-11-20  
 *Comparative analysis of government justifications for ID schemes versus operational realities and underlying drivers.*
 
 ---
@@ -243,7 +243,10 @@ that the opposite of control is not chaos, but trust.
 
 ## 🌌 Constellations  
 
-📊 💼 🏛️ 🔮 🌱 — This node sits in the *evidence, inversion, and ethical-resistance* constellation of the **Governance & Prevent** cluster, translating data analysis into containment diagnostics.
+📊 💼 🏛️ 🔮 🌱 — This node sits in the *evidence, inversion, and ethical-resistance* constellation of the **Governance & Prevent** cluster, translating data analysis into containment diagnostics.  
+
+**Further content:**
+- Big Brother Watch in Home Affairs Select Committee, via [YouTube](https://youtu.be/WizqWi8_49g?si=xjoUNvICnQwJGuPY).  
 
 ---
 
