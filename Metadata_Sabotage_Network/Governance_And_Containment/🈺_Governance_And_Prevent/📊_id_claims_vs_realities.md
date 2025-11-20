@@ -246,7 +246,7 @@ that the opposite of control is not chaos, but trust.
 📊 💼 🏛️ 🔮 🌱 — This node sits in the *evidence, inversion, and ethical-resistance* constellation of the **Governance & Prevent** cluster, translating data analysis into containment diagnostics.  
 
 **Further content:**
-- Big Brother Watch in Home Affairs Select Committee, via [YouTube](https://youtu.be/WizqWi8_49g?si=xjoUNvICnQwJGuPY).  
+- [Big Brother Watch](https://bigbrotherwatch.org.uk) in Home Affairs Select Committee, via [YouTube](https://youtu.be/WizqWi8_49g?si=xjoUNvICnQwJGuPY).  
 
 ---
 
@@ -271,4 +271,4 @@ and situates those claims within a wider pattern of political theatre, vendor de
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2025-11-20_
