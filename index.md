@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 11:43:23 UTC_
+_Generated on 2025-11-20 11:44:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2783,6 +2783,7 @@ _Generated on 2025-11-20 11:43:23 UTC_
     - [`🧪_futurism_as_fascist_aesthetic.md`](Polaris_Nest/Git_Intake_Drawer/🧪_futurism_as_fascist_aesthetic.md)
     - [`🧪_how_scientists_go_nazi.md`](Polaris_Nest/Git_Intake_Drawer/🧪_how_scientists_go_nazi.md)
     - [`🧪_inspection_data_workflow_hmip_probation_university_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧪_inspection_data_workflow_hmip_probation_university_loop.md)
+    - [`🧪_the_strategic_accuser_profile.md`](Polaris_Nest/Git_Intake_Drawer/🧪_the_strategic_accuser_profile.md)
     - [`🧪_the_wall_tester_type.md`](Polaris_Nest/Git_Intake_Drawer/🧪_the_wall_tester_type.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
