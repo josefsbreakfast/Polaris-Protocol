@@ -1,10 +1,10 @@
 # 🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
+**First Created:** 2025-11-19 | **Last updated:** 202-11-19  
 *The CRAKEN System — a reflexive, load-aware ecological model for geopolitical analysis.*
 
-**Created:** 19 November 2025  
-**Last updated:** 19 November 2025  
+---
 
-## Orientation  
+## 🛰️ Orientation  
 Modern geopolitical and defence analysis suffers from a structural blind spot:  
 it models conflict as linear, domain-based, and self-contained,  
 rather than as a **reflexive ecosystem** where every action reshapes  
