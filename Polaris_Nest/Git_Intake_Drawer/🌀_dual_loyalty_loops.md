@@ -1,7 +1,6 @@
-# 🌀 _dual_loyalty_loops.md
-**First created:** 2025-11-16  
-**Last updated:** 2025-11-16  
-*How forced identity conflation creates no-win political traps for diaspora Jews.*
+# 🌀 Dual Loyalty Loops  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-20  
+*How forced identity conflation creates no-win political traps for diaspora Jews.*  
 
 ---
 
@@ -125,7 +124,7 @@ flowchart TD
 ---
 
 ## 🏮 Footer
-*Dual Loyalty Loops* is a living node of the Polaris Protocol.  
+*🌀 Dual Loyalty Loops* is a living node of the Polaris Protocol.  
 It maps identity capture mechanisms affecting diaspora communities,  
 focusing on the pressure structures that turn ordinary civic critique into sites of suspicion.
 
@@ -135,4 +134,4 @@ focusing on the pressure structures that turn ordinary civic critique into sites
 > - ⚖️ *Soft Law, Symbolic Loyalty, and the British State*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-20_
