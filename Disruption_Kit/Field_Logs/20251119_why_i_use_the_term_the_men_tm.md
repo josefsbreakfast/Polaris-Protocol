@@ -139,3 +139,26 @@ And I see you're changing your tune on people you have previously framed as "aba
 Really interesting to see how many people one nudges out the way in the life boat queue. I remind us all that Rose's fiance was not the hero of that story.  
 
 (Whoever is running this narrative mechanic, has run multiple stories on multiple married men, assuming or fishing for something. It's fucking hilarious. I don't know who was told you what, but I don't chase after other women's property; I think men in the "take off the ring at conference" class are distasteful, and they are an unnecessary encumberance to the rest of us. If a man sells a story that he was "set upon" by me, I think you should go back and question the source if such a nasty rumour to tell about a woman. Would we not question such a thing, the first time we heard it?)  
+
+---
+
+However.  
+
+Now that I've been prodding...  
+
+I have found the genuine propaganda you *should* be worried about.  
+
+So now I can wrote about it and how you can tell its almost definitly prop.  
+
+So well done.  
+
+Do we not think we should stop flagging the critical thinkers, lads?  
+It's not the cute women singkng, although that's cultural soft prop; it's the pregnant widow.  
+
+Did you pick it up?  
+
+Did you get what that was in 0.1 seconds?  
+
+Because every woman knows there's only one woman wears a ribbon like that, and she's pregnant.  
+
+If you want straight-to-the-myocardium, it's that.  
