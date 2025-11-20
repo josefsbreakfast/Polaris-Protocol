@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 17:54:58 UTC_
+_Generated on 2025-11-20 22:23:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2838,6 +2838,7 @@ _Generated on 2025-11-20 17:54:58 UTC_
     - [`🧬_harm_without_perpetrators_architecture_failure_model.md`](Polaris_Nest/Git_Intake_Drawer/🧬_harm_without_perpetrators_architecture_failure_model.md)
     - [`🧬_how_gossip_shapes_risk_flags.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_gossip_shapes_risk_flags.md)
     - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
+    - [`🧬_keystone_rca.md`](Polaris_Nest/Git_Intake_Drawer/🧬_keystone_rca.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
     - [`🧬_nonlinear_intelligence_and_asynchrony.md`](Polaris_Nest/Git_Intake_Drawer/🧬_nonlinear_intelligence_and_asynchrony.md)
