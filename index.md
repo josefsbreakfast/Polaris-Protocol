@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 11:53:56 UTC_
+_Generated on 2025-11-20 11:55:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2380,6 +2380,7 @@ _Generated on 2025-11-20 11:53:56 UTC_
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
     - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
     - [`👁_narrative_inversion_after_boundary_setting.md`](Polaris_Nest/Git_Intake_Drawer/👁_narrative_inversion_after_boundary_setting.md)
+    - [`👁‍🗨️_the_boundary_as_border.md`](Polaris_Nest/Git_Intake_Drawer/👁‍🗨️_the_boundary_as_border.md)
     - [`👁️_restoring_epistemic_integrity.md`](Polaris_Nest/Git_Intake_Drawer/👁️_restoring_epistemic_integrity.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/👑_soft_power_accountability_gap.md)
