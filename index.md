@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 17:34:09 UTC_
+_Generated on 2025-11-20 17:54:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2706,6 +2706,7 @@ _Generated on 2025-11-20 17:34:09 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
+    - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
     - [`🧠 _institutional_perception_no_win_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧠 _institutional_perception_no_win_zone.md)
     - [`🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md)
     - [`🧠_ai_ethicswash.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ai_ethicswash.md)
