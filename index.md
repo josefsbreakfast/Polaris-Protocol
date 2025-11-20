@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 12:07:41 UTC_
+_Generated on 2025-11-20 12:10:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2714,6 +2714,7 @@ _Generated on 2025-11-20 12:07:41 UTC_
     - [`🧠_extraction_loop_data_vs_story.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extraction_loop_data_vs_story.md)
     - [`🧠_fascism_as_scaled_coercive_control.md`](Polaris_Nest/Git_Intake_Drawer/🧠_fascism_as_scaled_coercive_control.md)
     - [`🧠_four_signature_differential_reality_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧠_four_signature_differential_reality_loops.md)
+    - [`🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md)
     - [`🧠_institutional_weather_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_weather_systems.md)
     - [`🧠_linguistic_containment_and_sexual_violence.md`](Polaris_Nest/Git_Intake_Drawer/🧠_linguistic_containment_and_sexual_violence.md)
     - [`🧠_misclassification_via_trauma_reflexes.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassification_via_trauma_reflexes.md)
