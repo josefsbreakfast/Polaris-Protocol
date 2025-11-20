@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 11:44:30 UTC_
+_Generated on 2025-11-20 11:48:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2627,6 +2627,7 @@ _Generated on 2025-11-20 11:44:30 UTC_
     - [`🛡️_why_fascism_fears_softness.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_why_fascism_fears_softness.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md)
+    - [`🛰️_anonymous_reporting_abuse_vectors.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_anonymous_reporting_abuse_vectors.md)
     - [`🛰️_beta_audience_suppression_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_beta_audience_suppression_dynamics.md)
     - [`🛰️_counter_extremism_by_network.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_counter_extremism_by_network.md)
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
