@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 22:54:10 UTC_
+_Generated on 2025-11-20 23:10:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2245,7 +2245,6 @@ _Generated on 2025-11-20 22:54:10 UTC_
       - [`🧿_moda_grants.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_moda_grants.md)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`answering_uncertainty_in_ai_environments.md`](Polaris_Nest/Git_Intake_Drawer/answering_uncertainty_in_ai_environments.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
     - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Polaris_Nest/Git_Intake_Drawer/deliberate_small_suppression_later_release_reciprocity_blowback.png)
     - [`dual_loyalty_loops.md`](Polaris_Nest/Git_Intake_Drawer/dual_loyalty_loops.md)
@@ -2292,6 +2291,7 @@ _Generated on 2025-11-20 22:54:10 UTC_
     - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_diet_authoritarianism_uk_homebrew.md)
     - [`🇷🇺_end_of_russias_camp_era.md`](Polaris_Nest/Git_Intake_Drawer/🇷🇺_end_of_russias_camp_era.md)
     - [`🈺_prevent_misfires_racialised_gender_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🈺_prevent_misfires_racialised_gender_patterns.md)
+    - [`🌀_answering_uncertainty_in_ai_environments.md`](Polaris_Nest/Git_Intake_Drawer/🌀_answering_uncertainty_in_ai_environments.md)
     - [`🌀_behavioural_steering_general_audience_signals.md`](Polaris_Nest/Git_Intake_Drawer/🌀_behavioural_steering_general_audience_signals.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌀_institutional_coercion_pattern_equivalence.md`](Polaris_Nest/Git_Intake_Drawer/🌀_institutional_coercion_pattern_equivalence.md)
