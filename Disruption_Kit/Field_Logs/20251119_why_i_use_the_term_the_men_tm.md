@@ -118,4 +118,22 @@ oh, [do fuck off.](https://vm.tiktok.com/ZNdovCSqM/)-->
 
 ---
 
-["You wanted me to play this game, sp I did; you don't get to be upset with me, because I didn't play by your rules."](https://vm.tiktok.com/ZNdov7sK2)
+["You wanted me to play this game, sp I did; you don't get to be upset with me, because I didn't play by your rules."](https://vm.tiktok.com/ZNdov7sK2)  
+
+---
+
+in lieu of getting anything done, i thought i'd really jazz up the muu category at our local channel chapter-cum-knitting-club:  
+
+[Am I a "globalist" (🙄) red-flag-bearing Moscow-sympathiser Marxist-Leninist internationalist terrorist threat?](https://vm.tiktok.com/ZNdocL14k/)  
+
+[Am I secretly planning a nationalist takeover of... where? Exactly? These are songs celebrating the IRA that became the IA, when the Republic was formed. If you actually knew anything about terrorism, this is not exactly the same as "Up The RA" sentiment in Northern Ireland, and you would need to admit you flag all Irish culture as default to flag this. How much weed are you smoking at these meetings? (Or: admit your prejudice truly does extend to "even other white people.)](https://vm.tiktok.com/ZNdoc2n9J)  
+
+[And let's stick in Gresford, because honouring the thousands of men and boys who have died in our nation's coalface, apparantly, is not patriotic. Again: are you actually snowblind?](https://vm.tiktok.com/ZNdocfWKw)  
+
+I hope the "performed, mimicked classism" of this becomes obvious; I don't know why we are jumping the gun to police what the upper tiers of the class hierarchy don't even give a shit about, because they know that Tzarist policing backfired so dangerously.  
+
+It's over-performance in a class-anxious middle-tier that is causing the problems; not is who are subject to this policing.  
+
+And I see you're changing your tune on people you have previously framed as "abandoning" me; I think this narrative change is fascinating.  
+
+Really interesting to see how many people one nudges out the way jn the life boat queue. I remind us all that Rose's fiance was not the hero of that story.  
