@@ -15,3 +15,13 @@ in the profession you got me kicked out from, it is considered inappropriate to 
 but then again, i didn't go to secret police academy, so i can hardly comment.  
 
 walter. mitty.  
+
+---
+
+and if we are only doing it to nudge over-explaination in specific ways?  
+
+idgaf.  
+
+you've collevtively done this so aggressively through the first half of 2025 that it's impossible not to see now.  
+
+stop being so weird.  
