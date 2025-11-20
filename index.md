@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 23:15:44 UTC_
+_Generated on 2025-11-20 23:17:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2255,11 +2255,11 @@ _Generated on 2025-11-20 23:15:44 UTC_
     - [`numeric_summary_target_blowback_metrics.csv`](Polaris_Nest/Git_Intake_Drawer/numeric_summary_target_blowback_metrics.csv)
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
-    - [`reputation_after_revelation_full.md`](Polaris_Nest/Git_Intake_Drawer/reputation_after_revelation_full.md)
     - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`♨️_prosocial_nudge_burnout_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/♨️_prosocial_nudge_burnout_syndrome.md)
+    - [`⚖️ _reputation_after_revelation_full.md`](Polaris_Nest/Git_Intake_Drawer/⚖️ _reputation_after_revelation_full.md)
     - [`⚖️_Legal_&_State_Governance_🧮_data_dividend_unpaid_labour_of_verification.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_Legal_&_State_Governance_🧮_data_dividend_unpaid_labour_of_verification.md)
     - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
     - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_contingent_conservatism_and_long_horizon_politics.md)
