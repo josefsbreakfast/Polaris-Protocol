@@ -127,4 +127,11 @@ it's almost like i'm white and i had to learn about other people's taste and als
 
 that's how i can tell.  
 
-whoch also means your white supremacy is a choice, at this point.  
+which also means your white supremacy is a choice, at this point.  
+
+---
+
+beautiful; last two uploads are an attempt to show the (stopped from uploading) pattern of "let it go, dont talk about what youre going through", "someone's hiding a child from you" content cluster.  
+
+
+it's interrupting st mortiz; kindly fuck off.
