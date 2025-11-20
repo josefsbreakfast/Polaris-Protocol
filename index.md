@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 22:29:27 UTC_
+_Generated on 2025-11-20 22:30:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2286,6 +2286,7 @@ _Generated on 2025-11-20 22:29:27 UTC_
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`✨_jyn_erso_and_the_coerced_survivalist_arc.md`](Polaris_Nest/Git_Intake_Drawer/✨_jyn_erso_and_the_coerced_survivalist_arc.md)
+    - [`✨_misinterpretation_risk_in_geopolitical_signalling.md`](Polaris_Nest/Git_Intake_Drawer/✨_misinterpretation_risk_in_geopolitical_signalling.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_diet_authoritarianism_uk_homebrew.md)
     - [`🈺_prevent_misfires_racialised_gender_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🈺_prevent_misfires_racialised_gender_patterns.md)
@@ -2551,6 +2552,7 @@ _Generated on 2025-11-20 22:29:27 UTC_
     - [`🔮_post_chaos_governance_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🔮_post_chaos_governance_archetypes.md)
     - [`🔮_post_legitimacy_landscape_2026_2030.md.md`](Polaris_Nest/Git_Intake_Drawer/🔮_post_legitimacy_landscape_2026_2030.md.md)
     - [`🔮_predictive_containment_and_emergent_friction.md`](Polaris_Nest/Git_Intake_Drawer/🔮_predictive_containment_and_emergent_friction.md)
+    - [`🔮_semantic_loops_and_authority_breaks.md`](Polaris_Nest/Git_Intake_Drawer/🔮_semantic_loops_and_authority_breaks.md)
     - [`🔮_the_sensible_adult_archetype.md`](Polaris_Nest/Git_Intake_Drawer/🔮_the_sensible_adult_archetype.md)
     - [`🔱_god_as_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🔱_god_as_plurality.md)
     - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Polaris_Nest/Git_Intake_Drawer/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
@@ -2644,6 +2646,7 @@ _Generated on 2025-11-20 22:29:27 UTC_
     - [`🛡️_why_fascism_fears_softness.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_why_fascism_fears_softness.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md)
+    - [`🛰️_ally_productivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ally_productivity_paradox.md)
     - [`🛰️_anonymous_reporting_abuse_vectors.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_anonymous_reporting_abuse_vectors.md)
     - [`🛰️_beta_audience_suppression_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_beta_audience_suppression_dynamics.md)
     - [`🛰️_counter_extremism_by_network.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_counter_extremism_by_network.md)
@@ -2682,6 +2685,7 @@ _Generated on 2025-11-20 22:29:27 UTC_
     - [`🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md`](Polaris_Nest/Git_Intake_Drawer/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)
     - [`🦂_racialised_entitlement_violation.md`](Polaris_Nest/Git_Intake_Drawer/🦂_racialised_entitlement_violation.md)
     - [`🦆_she_weighs_the_same_as_a_duck.md`](Polaris_Nest/Git_Intake_Drawer/🦆_she_weighs_the_same_as_a_duck.md)
+    - [`🦆_ui_glitch_as_psychological_event.md`](Polaris_Nest/Git_Intake_Drawer/🦆_ui_glitch_as_psychological_event.md)
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_how_many_words_to_fell_an_industry.md`](Polaris_Nest/Git_Intake_Drawer/🦇_how_many_words_to_fell_an_industry.md)
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
@@ -2724,6 +2728,7 @@ _Generated on 2025-11-20 22:29:27 UTC_
     - [`🧠_composite_line_formation_dual_valence_merge.md`](Polaris_Nest/Git_Intake_Drawer/🧠_composite_line_formation_dual_valence_merge.md)
     - [`🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
     - [`🧠_diagnostic_visibility_conditioning.md`](Polaris_Nest/Git_Intake_Drawer/🧠_diagnostic_visibility_conditioning.md)
+    - [`🧠_enemy_symmetry_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧠_enemy_symmetry_effects.md)
     - [`🧠_escalation_weather_map.md`](Polaris_Nest/Git_Intake_Drawer/🧠_escalation_weather_map.md)
     - [`🧠_extracting_soul_from_prosocial_people.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extracting_soul_from_prosocial_people.md)
     - [`🧠_extraction_loop_data_vs_story.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extraction_loop_data_vs_story.md)
