@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 11:51:10 UTC_
+_Generated on 2025-11-20 11:52:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2748,6 +2748,7 @@ _Generated on 2025-11-20 11:51:10 UTC_
     - [`🧩_archetype_of_the_sensible_man.md`](Polaris_Nest/Git_Intake_Drawer/🧩_archetype_of_the_sensible_man.md)
     - [`🧩_asymmetric_democratic_policing.md`](Polaris_Nest/Git_Intake_Drawer/🧩_asymmetric_democratic_policing.md)
     - [`🧩_bit_vs_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧩_bit_vs_prevent.md)
+    - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Polaris_Nest/Git_Intake_Drawer/🧩_colonial_scripts_in_modern_bureaucracies.md)
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_counter_extraction_loop_reclaiming_authorship.md`](Polaris_Nest/Git_Intake_Drawer/🧩_counter_extraction_loop_reclaiming_authorship.md)
     - [`🧩_cross_group_solidarity_as_algorithmic_destabiliser.md`](Polaris_Nest/Git_Intake_Drawer/🧩_cross_group_solidarity_as_algorithmic_destabiliser.md)
