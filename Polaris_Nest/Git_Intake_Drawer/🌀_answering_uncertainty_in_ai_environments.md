@@ -1,5 +1,5 @@
 # 🌀 Answering Uncertainty in AI Environments  
-**First created:* 2025-11-16 | **Last updated:* 2025-11-20  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-20  
 *How AI should talk when it cannot know, must not guess, and must honour user intelligence.*  
 
 ---
