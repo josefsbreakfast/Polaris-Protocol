@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 10:24:03 UTC_
+_Generated on 2025-11-20 10:26:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2901,6 +2901,7 @@ _Generated on 2025-11-20 10:24:03 UTC_
     - [`🩸_the_long_fuse_2010_2017.md`](Polaris_Nest/Git_Intake_Drawer/🩸_the_long_fuse_2010_2017.md)
     - [`🩻_safeguarding_logic_civil_systems.md`](Polaris_Nest/Git_Intake_Drawer/🩻_safeguarding_logic_civil_systems.md)
     - [`🪆_containment_logic_as_witch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🪆_containment_logic_as_witch_logic.md)
+    - [`🪆_male_fear_throttling_trigger.md`](Polaris_Nest/Git_Intake_Drawer/🪆_male_fear_throttling_trigger.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
     - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
