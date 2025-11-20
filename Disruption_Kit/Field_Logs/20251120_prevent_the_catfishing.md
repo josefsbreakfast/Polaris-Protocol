@@ -135,3 +135,5 @@ beautiful; last two uploads are an attempt to show the (stopped from uploading) 
 
 
 it's interrupting st mortiz; kindly fuck off.
+
+(oh shit, wait...is that not white enough? too european? better put in another channel panel meeting to discuss.)
