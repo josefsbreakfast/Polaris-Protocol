@@ -162,3 +162,7 @@ Did you get what that was in 0.1 seconds?
 Because every woman knows there's only one woman wears a ribbon like that, and she's pregnant.  
 
 If you want straight-to-the-myocardium, it's that.  
+
+---
+
+i get why we are misunderstanding how chloe reads a particular genre of books now; we are approaching the text entirely differently.  
