@@ -46,4 +46,24 @@ who were obsessed with racial purity,
 and policed on racial lines for being "too political",  
 and were a bunch of losers who never served actual military careers in the most part?  
 
-the mind boggles. 🙄
+the mind boggles. 🙄  
+
+---
+
+🤣🤣🤣  
+
+"the government is watching you. they've already put in your numbers..."  
+
+YEAH BRO BUT HAVE THEY FIXED MY PIP?!  
+
+the content inserts are so stupid; we've had multiple cycles of this.  
+
+again...  
+
+stop being weird.  
+
+whose budget are you even charging this to?  
+
+random lga, rotate every few transactions?  
+
+fucking weird.  
