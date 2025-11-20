@@ -83,3 +83,25 @@ how dare i deign to interview in the midlands; not sure you had aithoroty to scr
 i wish, i deeply wish, that this isn't bearing out in foi/sar results.  
 
 i really, really wish that this was more incorrect.  
+
+---
+
+most recent upload?  
+
+i get this a lot.  
+
+and sice dec 2024, it's been framed as a specific person with a public persona, which it just clearly is not.  
+(apart from anything else, why?)  
+
+this misuses both data sets for the centroid, and it sexualises them as much as it sexualises me.  
+
+the type of white men who put *this much fucking effort* into making their colonial sex fetishes happen, and skinwalk through their bizarre racial bdsm fantasies, should be absolutely nowhere near anything even *hinting* at safeguarding.  
+
+how the fuck is this safeguarding the national interest?  
+
+if you look up the video, it has audio btw, and it is so awkward and put on.  
+
+peak, "i reached a certain age and realised bossy women are hot, let me forget my mortgage, mommy" energy.  
+
+g-d, please deliver me from *whatever the fuck this is*.  
+
