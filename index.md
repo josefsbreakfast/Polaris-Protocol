@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 15:26:38 UTC_
+_Generated on 2025-11-20 17:34:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2287,6 +2287,7 @@ _Generated on 2025-11-20 15:26:38 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`✨_jyn_erso_and_the_coerced_survivalist_arc.md`](Polaris_Nest/Git_Intake_Drawer/✨_jyn_erso_and_the_coerced_survivalist_arc.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
+    - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_diet_authoritarianism_uk_homebrew.md)
     - [`🈺_prevent_misfires_racialised_gender_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🈺_prevent_misfires_racialised_gender_patterns.md)
     - [`🌀_behavioural_steering_general_audience_signals.md`](Polaris_Nest/Git_Intake_Drawer/🌀_behavioural_steering_general_audience_signals.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
@@ -2585,6 +2586,7 @@ _Generated on 2025-11-20 15:26:38 UTC_
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
     - [`🕷️ _misuse_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🕷️ _misuse_resilience.md)
+    - [`🕷️ _prevent_as_soft_coup_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🕷️ _prevent_as_soft_coup_infrastructure.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_algorithmic_hearing_is _not_listening.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_algorithmic_hearing_is _not_listening.md)
     - [`🕸️_architectural_vs_human_versions_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_architectural_vs_human_versions_targeting.md)
@@ -2703,6 +2705,7 @@ _Generated on 2025-11-20 15:26:38 UTC_
     - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
+    - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧠 _institutional_perception_no_win_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧠 _institutional_perception_no_win_zone.md)
     - [`🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md)
     - [`🧠_ai_ethicswash.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ai_ethicswash.md)
@@ -2752,6 +2755,7 @@ _Generated on 2025-11-20 15:26:38 UTC_
     - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
     - [`🧨_fear_symbol_leverage.md`](Polaris_Nest/Git_Intake_Drawer/🧨_fear_symbol_leverage.md)
     - [`🧨_gitmo_to_gaza_exception_chain.md`](Polaris_Nest/Git_Intake_Drawer/🧨_gitmo_to_gaza_exception_chain.md)
+    - [`🧨_prevent_the_parliamentary_surveillance_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧨_prevent_the_parliamentary_surveillance_machine.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
     - [`🧨_the_pua_to_fascist_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧨_the_pua_to_fascist_pipeline.md)
@@ -2899,6 +2903,7 @@ _Generated on 2025-11-20 15:26:38 UTC_
     - [`🧶_nato_knitting_circle.md`](Polaris_Nest/Git_Intake_Drawer/🧶_nato_knitting_circle.md)
     - [`🧷_culture_war_risk_logic_in_uk_public_institutions.md`](Polaris_Nest/Git_Intake_Drawer/🧷_culture_war_risk_logic_in_uk_public_institutions.md)
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧸_softness_as_counter_extremism_infrastructure.md)
+    - [`🧹_uk_rugsweeping_olympics.md`](Polaris_Nest/Git_Intake_Drawer/🧹_uk_rugsweeping_olympics.md)
     - [`🧼_courtier_class_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_austerity.md)
     - [`🧾_data_lineage_review.md`](Polaris_Nest/Git_Intake_Drawer/🧾_data_lineage_review.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
@@ -2950,6 +2955,7 @@ _Generated on 2025-11-20 15:26:38 UTC_
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
     - [`🪬_ihra_vs_jda.md`](Polaris_Nest/Git_Intake_Drawer/🪬_ihra_vs_jda.md)
     - [`🪶_language_as_smuggled_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🪶_language_as_smuggled_plurality.md)
+    - [`🪼_prevent_the_alt_right_weapon.md`](Polaris_Nest/Git_Intake_Drawer/🪼_prevent_the_alt_right_weapon.md)
     - [`🪼_racialised_dual_attrition.md`](Polaris_Nest/Git_Intake_Drawer/🪼_racialised_dual_attrition.md)
     - [`🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md`](Polaris_Nest/Git_Intake_Drawer/🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md)
     - [`🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md`](Polaris_Nest/Git_Intake_Drawer/🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md)
