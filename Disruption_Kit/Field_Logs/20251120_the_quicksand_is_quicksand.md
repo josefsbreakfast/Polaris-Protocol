@@ -67,3 +67,22 @@ and if i was independent and had the resources to do it myself?
 what makes you think, with a capitalist market, you could compete with all the potential donors i could access?  
 
 decide which side of the fence you are on.  
+
+---
+
+btw i am seeing all the recs for "female psycopath" content that have mysteriously appeared on my feed.  
+
+psycopathy is characterised (generally) as requiring an ability to pick up on social cues with a lack of the usual concerns for the other people displaying those cues, usually with the antisocial behaviour component being present, although there's a big academic argument there.  
+it is not a smart woman telling you no.  
+it is not a smart woman saying "actually i remember that it tasted like fairy liquid, and i remember the coercion after".  
+
+those things are not psycopathy.  
+
+kindly: off. you. fuck.  
+
+and if i find out who is on the channel panel and no one protected me?  
+honestly...  
+
+more of the fucking same at this point.  
+
+---
