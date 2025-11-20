@@ -49,3 +49,5 @@ it is still all about that lairy squid and we all know it is. 🤣
 ---
 
 we can also stop the more ridiculous guardrails because what is being produced is actually just more damaging than in the vanilla mode.  
+
+slightly less interference would be ideal.  
