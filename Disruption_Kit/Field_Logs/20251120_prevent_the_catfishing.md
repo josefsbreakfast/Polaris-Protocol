@@ -105,3 +105,26 @@ peak, "i reached a certain age and realised bossy women are hot, let me forget m
 
 g-d, please deliver me from *whatever the fuck this is*.  
 
+---
+
+"shit. SHIT. it's not working! quick, get some more marriage proposal content! try a different desi music cluster!"  
+
+and this is how at least the last few tracks have made any statistical sense, i guess.  
+
+it does go through periods of seeming like a human/s is infouencing this mechanic.  
+
+which you'd exiect from the maths of things.  
+
+it's just very obvious when the western boys you just think an entire subcontinent is the size of yorkshire, it is a tad obvious.  
+
+"but theyre all romantic!"  
+
+yes...  
+
+and they don't occur in listening clusters, unless you google "top 100 bollywood songs".  
+
+it's almost like i'm white and i had to learn about other people's taste and also made the same clumbsy foray, too.  
+
+that's how i can tell.  
+
+whoch also means your white supremacy is a choice, at this point.  
