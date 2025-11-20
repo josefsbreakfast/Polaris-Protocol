@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 11:39:19 UTC_
+_Generated on 2025-11-20 11:40:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2317,6 +2317,7 @@ _Generated on 2025-11-20 11:39:19 UTC_
     - [`🎭_pr_friendly_persona_flattening.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_friendly_persona_flattening.md)
     - [`🎭_pr_simulation_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_simulation_breakdown.md)
     - [`🎭_symbolic_violence_in_gendered_racialised_frames.md`](Polaris_Nest/Git_Intake_Drawer/🎭_symbolic_violence_in_gendered_racialised_frames.md)
+    - [`🎭_the_punitive_logic_of_entitlement_wounds.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_punitive_logic_of_entitlement_wounds.md)
     - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_witch_girl_vs_sensible_man_archetypes.md)
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
     - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Polaris_Nest/Git_Intake_Drawer/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
