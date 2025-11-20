@@ -115,3 +115,7 @@ i think there are also a lot of ways that gossip could be spread.
 <!--now excuse me, i have fan edits of Chrisjen Avasarala to watch: "I will rain hellfire down on them all". was that another "extremism" flag? for what? quoting a tv character when someone else feels nervous about their own fuck up with misuse of defence data?
 
 oh, [do fuck off.](https://vm.tiktok.com/ZNdovCSqM/)-->
+
+---
+
+["You wanted me to play this game, sp I did; you don't get to be upset with me, because I didn't play by your rules."](https://vm.tiktok.com/ZNdov7sK2)
