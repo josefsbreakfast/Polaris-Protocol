@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-20 11:18:34 UTC_
+_Generated on 2025-11-20 11:30:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2654,6 +2654,7 @@ _Generated on 2025-11-20 11:18:34 UTC_
     - [`🥸_paid_male_gossipers.md`](Polaris_Nest/Git_Intake_Drawer/🥸_paid_male_gossipers.md)
     - [`🥺_we_are_just_a_little_island_honest.md`](Polaris_Nest/Git_Intake_Drawer/🥺_we_are_just_a_little_island_honest.md)
     - [`🦁_circle_of_security_life.md`](Polaris_Nest/Git_Intake_Drawer/🦁_circle_of_security_life.md)
+    - [`🦂_racialised_entitlement_violation.md`](Polaris_Nest/Git_Intake_Drawer/🦂_racialised_entitlement_violation.md)
     - [`🦆_she_weighs_the_same_as_a_duck.md`](Polaris_Nest/Git_Intake_Drawer/🦆_she_weighs_the_same_as_a_duck.md)
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_how_many_words_to_fell_an_industry.md`](Polaris_Nest/Git_Intake_Drawer/🦇_how_many_words_to_fell_an_industry.md)
