@@ -45,3 +45,7 @@ nice ship report.
 
 it is still all about that lairy squid and we all know it is. 🤣
 <!--almost like they're trying to make a statement after the sc vote but whatever. don't listen to me; what do i know?  -->
+
+---
+
+we can also stop the more ridiculous guardrails because what is being produced is actually just more damaging than in the vanilla mode.  
