@@ -166,3 +166,15 @@ If you want straight-to-the-myocardium, it's that.
 ---
 
 i get why we are misunderstanding how chloe reads a particular genre of books now; we are approaching the text entirely differently.  
+
+---
+
+i aee we are no longer fucking around with the openai product; this is positive.  
+
+now fix pip.  
+
+it is a known risk of benefit sanctions for disabled people to die preventable deaths and i'm pretty sure we all knew that, we all knew i was in that category, we all knew that the local change would knock-on to a dwp stack, and we all knew my legs had not been regenerated, starfish style.  
+
+fix. it.  
+
+there is a fix that the dwp can approve in certain circumstances, and we all know this could be fp'ed or chaps'ed.  
