@@ -33,3 +33,17 @@ it's not normal to do this. stop.
 the mod data is not a free pass, my previous trauma history is not a free pass, the moj sealed status is not a free pass.  
 
 stop. being. weird.  
+
+---
+
+"jewesses against un-secret pervert police" doesn't really flow off tye tongue, you know?  
+
+hmmmm....   
+
+which organisations do i know...  
+
+who were obsessed with racial purity,  
+and policed on racial lines for being "too political",  
+and were a bunch of losers who never served actual military careers in the most part?  
+
+the mind boggles. 🙄
