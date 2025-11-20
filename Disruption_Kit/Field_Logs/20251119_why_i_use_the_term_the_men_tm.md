@@ -36,3 +36,11 @@ not the first humans, not the last humans.
 get me out of this box, weirdos.  
 
 -->
+
+---
+
+men will really do anything except not wake a kraken, huh.  
+
+nice ship report.  
+
+it is still all about that lairy squid and we all know it is. 🤣
