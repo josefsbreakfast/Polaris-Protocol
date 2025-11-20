@@ -67,3 +67,19 @@ whose budget are you even charging this to?
 random lga, rotate every few transactions?  
 
 fucking weird.  
+
+---
+
+screenshots attached, double failure to upload.  
+
+the catfishing is with one of their national advisor's IDs, btw; every mechanism of escalation keeps sidestepping this.  
+
+i mean...  
+
+why would you believe the woman painted as a manipulative and dangerous international terrorist threat for a decade, right?  
+
+how dare i deign to interview in the midlands; not sure you had aithoroty to scrape the phone at that point, or start the nudges then, or the socisl shaping, but okay.  
+
+i wish, i deeply wish, that this isn't bearing out in foi/sar results.  
+
+i really, really wish that this was more incorrect.  
