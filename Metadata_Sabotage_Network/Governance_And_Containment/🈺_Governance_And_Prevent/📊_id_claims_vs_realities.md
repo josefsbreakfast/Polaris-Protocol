@@ -236,10 +236,10 @@ that the opposite of control is not chaos, but trust.
 📊 💼 🏛️ 🔮 🌱 — This node sits in the *evidence, inversion, and ethical-resistance* constellation of the **Governance & Prevent** cluster, translating data analysis into containment diagnostics.  
 
 **📚 Further content:**
-- [Big Brother Watch](https://bigbrotherwatch.org.uk) in Home Affairs Select Committee, via [YouTube](https://youtu.be/WizqWi8_49g?si=xjoUNvICnQwJGuPY).
+- **[Big Brother Watch](https://bigbrotherwatch.org.uk), 2025**, in Home Affairs Select Committee, via [YouTube](https://youtu.be/WizqWi8_49g?si=xjoUNvICnQwJGuPY).
 - **National Audit Office ([2006](https://www.nao.org.uk/reports/identity-and-passport-service-introduction-of-epassports), [2011](https://www.gov.uk/government/publications/expenditure-on-identity-cards-between-2011-and-2012/expenditure-on-identity-cards-between-2011-and-2012), [2019](https://www.nao.org.uk/press-releases/digital-services-at-the-border), [2021](https://www.nao.org.uk/reports/investigation-into-the-management-of-backlogs-in-driving-licence-applications)** — [Identity Cards Programme: Value for Money Reports, NAO.](https://www.nao.org.uk/?s=Identity+card&post_type=any), suplemented with GOV.UK data as appropriate.  
-- **Public Accounts Committee (2007)** — *Progress and Cost Overruns in the UK ID Card Programme.*  
-- **Computer Weekly** — *Government IT and the Mirage of Simplification.*  
+- **Public Accounts Committee (2007)** — [Progress and Cost Overruns in the UK ID Card Programme](https://privacyinternational.org/learn/identity/all).  
+- **Computer Weekly** — [Government IT and the Mirage of Simplification](https://www.computerweekly.com/news/366623403/Will-the-government-be-able-to-achieve-its-45bn-savings-target-through-tech).  
 - **Privacy International (2024)** — *Digital Identity Myths and Public Harm.*  
 - **openDemocracy (2024)** — *How “Modernisation” Became an Excuse for Surveillance Expansion.*
 
