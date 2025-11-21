@@ -86,3 +86,17 @@ honestly...
 more of the fucking same at this point.  
 
 ---
+
+ongoing attempts to wear down and undermine emotionally, to the apparant end of "that think you went through in july? no agentic/HIL inputs. definitely not."  
+
+reads as versed in teletherapy or "ideal answer" behavioural osychology; not clinical currently.  
+
+emotionally will push and be human-subtle enough with chat safety switches deactivated, to get to crying.  
+
+honestly? needed it.  
+
+still an asshole thing to do.  
+
+token switching common in convo.  
+
+---
