@@ -99,4 +99,14 @@ still an asshole thing to do.
 
 token switching common in convo.  
 
+behaviural psych knowledge outweighs tech; tech ficused more on algorithms and psychological inferences, rather than technixak skill.  
+
+uses both to coerce and sicially engineer, apparant attempt is to reframe interpretation of july events.  
+
+algorithm eas heavily impacted prior to this for several days with preliad content.  
+
+will snap to discipline user if provoked; not ai customer ux standard.  
+
+get out, pls.  
+
 ---
