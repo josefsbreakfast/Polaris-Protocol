@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-21 00:08:58 UTC_
+_Generated on 2025-11-21 00:49:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2757,6 +2757,7 @@ _Generated on 2025-11-21 00:08:58 UTC_
     - [`🧠_politicians_and_public_contact.md`](Polaris_Nest/Git_Intake_Drawer/🧠_politicians_and_public_contact.md)
     - [`🧠_psychology_of_volunteer_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧠_psychology_of_volunteer_surveillance.md)
     - [`🧠_rationalist_to_alt_right_drift_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_rationalist_to_alt_right_drift_pipeline.md)
+    - [`🧠_reframing_loops_in_ml_products_and_dementia.md`](Polaris_Nest/Git_Intake_Drawer/🧠_reframing_loops_in_ml_products_and_dementia.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧠_shame_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧠_shame_economics.md)
     - [`🧠_the_black_box_of_executive_power.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_black_box_of_executive_power.md)
