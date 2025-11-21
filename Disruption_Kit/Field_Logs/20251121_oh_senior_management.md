@@ -10,3 +10,8 @@ i am a cockroach; i do not die.
 
 ---
 
+huge migrane after email exchange and itemising risks and timelines. multiple bsnking failures which gave been digital in origin snd needed reattempts.  
+
+also racism is more of an additional stress than i have the words to describe; i cannot blame anyone who cannot be "the exception".  
+
+---
