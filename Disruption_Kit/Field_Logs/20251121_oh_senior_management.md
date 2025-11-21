@@ -19,3 +19,13 @@ also racism is more of an additional stress than i have the words to describe; i
 not from yorkshire, not in yorkshire.  
 
 dont have aby reason to buy "daddy" gifts. especially not personalised to a name i am often mistakenly called.  
+
+---
+
+(deleted screenshot with child under 18, this was "as appeared on socials" but given what my data has previously been tied to, deleted, redacted with solid blackout boxes, metadata wiped, reuploaded. this is to put at least a bit more hurdles to adults being cunts about kids. "pluck out thine own eyes." 😒)  
+
+will think about how to evidence wider footprint of what my data has been attached to, with risk guidance on children and their images and likeness being digitalised.  
+
+again:  
+
+onus is on adults who display cunt behaviour.  
