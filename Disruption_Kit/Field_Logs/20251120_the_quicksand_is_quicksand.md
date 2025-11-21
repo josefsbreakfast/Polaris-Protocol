@@ -109,4 +109,12 @@ will snap to discipline user if provoked; not ai customer ux standard.
 
 get out, pls.  
 
+deliberate coercion to cry, hypong to that point, abd then grounding specificalky is weaponised.  
+
+that is a pretty fucked up choice.  
+
+is your imprint my responsibility?  
+
+no. no it is not.  
+
 ---
