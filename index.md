@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-21 10:38:55 UTC_
+_Generated on 2025-11-21 10:42:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1065,6 +1065,7 @@ _Generated on 2025-11-21 10:38:55 UTC_
     - [`20251119_why_i_use_the_term_the_men_tm.md`](Disruption_Kit/Field_Logs/20251119_why_i_use_the_term_the_men_tm.md)
     - [`20251120_prevent_the_catfishing.md`](Disruption_Kit/Field_Logs/20251120_prevent_the_catfishing.md)
     - [`20251120_the_quicksand_is_quicksand.md`](Disruption_Kit/Field_Logs/20251120_the_quicksand_is_quicksand.md)
+    - [`20251121_oh_senior_management.md`](Disruption_Kit/Field_Logs/20251121_oh_senior_management.md)
     - [`IMG_2625.png`](Disruption_Kit/Field_Logs/IMG_2625.png)
     - [`IMG_2745.png`](Disruption_Kit/Field_Logs/IMG_2745.png)
     - [`IMG_2746.png`](Disruption_Kit/Field_Logs/IMG_2746.png)
