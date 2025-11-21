@@ -15,3 +15,7 @@ huge migrane after email exchange and itemising risks and timelines. multiple bs
 also racism is more of an additional stress than i have the words to describe; i cannot blame anyone who cannot be "the exception".  
 
 ---
+
+not from yorkshire, not in yorkshire.  
+
+dont have aby reason to buy "daddy" gifts. especially not personalised to a name i am often mistakenly called.  
