@@ -1,5 +1,5 @@
 # 🎮 Fake Gamer Girl Protocol  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
+**First created:** 2025-11-01 | **Last updated:** 2025-11-22  
 *Every time a woman logs on, someone tries to make her prove she exists.*
 
 ---
@@ -110,13 +110,14 @@ fake gamer girl, thot shit, containment, gatekeeping, performance, visibility, o
 ---
 
 ## 🏮 Footer  
-*Fake Gamer Girl Protocol* is a living node of the Polaris Protocol.  
+*🎮 Fake Gamer Girl Protocol* is a living node of the Polaris Protocol.  
 It documents how online gatekeeping recycles old containment myths under the guise of authenticity policing — and how women turn that hostility into creative power.  
 
-> 📡 Cross-references:  
-> - [💇‍♀️ The Dumb Blonde Protocol](./💇‍♀️_the_dumb_blonde_protocol.md) — historical precursor of digital disbelief  
-> - [🪄 Expression of Norms](../🪄_Expression_Of_Norms/) — identity scripts and their inversion  
+> 📡 Cross-references:
+> 
+> - [💇‍♀️ The Dumb Blonde Protocol] — *historical precursor of digital disbelief*  
+> - [🪄 Expression of Norms] — *identity scripts and their inversion*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-22_
