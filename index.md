@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:29:21 UTC_
+_Generated on 2025-11-22 07:30:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2292,6 +2292,7 @@ _Generated on 2025-11-22 07:29:21 UTC_
     - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
     - [`⚖️_procedural_correctness_as_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_procedural_correctness_as_safeguard.md)
     - [`⚖️_psed_protection_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_psed_protection_logic.md)
+    - [`⚖️_safe_humanitarian_speech_high_risk_discourse.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_safe_humanitarian_speech_high_risk_discourse.md)
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
     - [`⚖️_transitional_change_vs_rapid_revolutionary_shock.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
