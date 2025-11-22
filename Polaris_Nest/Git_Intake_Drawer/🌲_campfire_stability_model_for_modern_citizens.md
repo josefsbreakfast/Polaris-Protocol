@@ -1,7 +1,5 @@
-File: 🌲_campfire_stability_model_for_modern_citizens.md
-
 # 🌲 Campfire Stability Model for Modern Citizens  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
 *A Polaris emotional-systems framework for understanding psychological depletion, resilience cycles, and human stability under democratic stress.*
 
 ---
@@ -207,10 +205,12 @@ It is psychologically protective to locate distress *outside* the self when appr
 ---
 
 ## 🏮 Footer  
-**Campfire Stability Model for Modern Citizens** is part of Polaris’ Emotional Systems & Democratic Drift cluster.  
+*Campfire Stability Model for Modern Citizens* is part of Polaris’ Emotional Systems & Democratic Drift cluster.  
 It provides a compassionate, structural framework for understanding exhaustion during instability and for supporting recovery without self-blame.
 
 Crosslinks:  
 - 🔥 *your_emotional_campfire_care_kit*  
 - 🌲 *rebuilding_spark_in_a_political_forest_fire*  
 - 🧩 *asymmetric_democratic_policing*
+
+_Last updated: 2025-11-22_
