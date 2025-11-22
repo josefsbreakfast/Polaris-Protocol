@@ -78,6 +78,10 @@ White men can’t say:
 
 The whole thing would be far too adjacent to having feelings, complexity, or indeed, a personality.  
 
+Non-uniformity, plurality of desire, and the possibility that white people are not a monolith, are all very serious threats to white supremacy and patriarchy, and we cannot possibly allow either of these interlinked systems to collapse.  
+
+Because ...reasons?  
+
 So they say:
 
 > “He poses a safeguarding concern.”
@@ -92,6 +96,12 @@ Straight white men who “support gay rights” to justify genocide are truly sa
 
 It is not support.  
 It is **homoerotic colonial cosplay**.  
+
+If you can only express positive attitudes to queer people when they murder other queer people, then perhaps you are not an ally for the cause of inclusive liberation.  
+
+If you just like gay men with guns, there is literally the whole internet for that; it is not necessary to be this performative in supporting breaches of IHL.  
+
+(Incidently, the Palestinian drag support scene has been *en pointe* for Iron Swords, because of course. One simply must.)  
 
 ---
 
