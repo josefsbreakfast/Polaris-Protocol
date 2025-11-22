@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:17:07 UTC_
+_Generated on 2025-11-22 07:23:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2957,6 +2957,7 @@ _Generated on 2025-11-22 07:17:07 UTC_
     - [`🧭_when_to_enter_the_grey_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧭_when_to_enter_the_grey_zone.md)
     - [`🧭_why_survivors_see_the_full_picture.md`](Polaris_Nest/Git_Intake_Drawer/🧭_why_survivors_see_the_full_picture.md)
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
+    - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_data_dividend_unpaid_labour_of_verification.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_dividend_unpaid_labour_of_verification.md)
     - [`🧮_data_error_decay_table.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_error_decay_table.md)
