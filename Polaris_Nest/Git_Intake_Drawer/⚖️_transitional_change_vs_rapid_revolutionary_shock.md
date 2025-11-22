@@ -1,5 +1,5 @@
 # ⚖️ Transitional Change vs Rapid Revolutionary Shock  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-17 | **Last updated:** 2025-11-22  
 *Why societies destabilise under rapid ideological change, and why measured transitional pacing is essential for constitutional and economic survival.*
 
 ---
@@ -168,14 +168,15 @@ Pace is policy.
 transitional change, revolutionary shock, political pace, institutional stress, legitimacy, policy sequencing
 
 ## 🏮 Footer  
-*Transitional Change vs Rapid Revolutionary Shock* is a living node of the Polaris Protocol.  
+*⚖️ Transitional Change vs Rapid Revolutionary Shock* is a living node of the Polaris Protocol.  
 It supports the **Big Picture Protocols** cluster by clarifying the kinetic thresholds of safe democratic reform.
 
-> 📡 Cross-references:  
-> - [💍 Two-Party System as an Old-Fashioned Marriage](./💍_two_party_system_as_an_old_fashioned_marriage.md)  
-> - [🔁 Recursive Parliamentary Containment Loop](./🔁_recursive_parliamentary_containment_loop.md)  
-> - [🟦 Conservatives as the Counterbalance to Radical Change](./🟦_conservatives_as_the_counterbalance_to_radical_change.md)
+> 📡 Cross-references:
+> 
+> - [💍 Two-Party System as an Old-Fashioned Marriage]  
+> - [🔁 Recursive Parliamentary Containment Loop]  
+> - [🟦 Conservatives as the Counterbalance to Radical Change]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-22_
