@@ -1,11 +1,15 @@
-# 🌱 PREVENT Logic as Proto-Authoritarian Seed
-**First created:** 2025-11-17 | **Last updated:** 2025-11-22
+# 🌱 PREVENT Logic as Authoritarian Seedling
+**First created:** 2025-11-17 | **Last updated:** 2025-11-22  
 *How PREVENT’s anticipatory suspicion framework plants the structural foundations for authoritarian-style governance.*  
 
 ---
 
 ## Orientation
-This note explains how PREVENT’s foundational logic—anticipating ideological drift, monitoring behaviour, and escalating based on subjective impressions—functions as a structural seed for proto-authoritarian effects. It does not claim that PREVENT was created with authoritarian intentions. Instead, it documents how the system’s core design features naturally extend into behaviours associated with authoritarian states when layered onto failing services and risk-averse culture.
+This note explains how PREVENT’s foundational logic—anticipating ideological drift, monitoring behaviour, and escalating based on subjective impressions—functions as a structural seed for proto-authoritarian effects.  
+It does not claim that PREVENT was created with authoritarian intentions.  
+<!--Mostly because I would like them to close my zombie case, and they are snowflakes with badges. I am literally paying for a PO box so I get hospital letters.-->
+As there is debate about whether PREVENT is an authoritarian system, or whether it can merely function as proto-authoritarian, is debated.  
+Therefore, this node documents how the system’s core design features naturally extend into behaviours associated with authoritarian states when layered onto failing services and risk-averse culture.
 
 ---
 
@@ -17,7 +21,7 @@ This note explains how PREVENT’s foundational logic—anticipating ideological
 
 ---
 
-## What makes PREVENT a proto-authoritarian seed
+## What makes PREVENT an authoritarian seed
 A system becomes proto-authoritarian when it exerts controlling, suppressive, or punitive effects without the explicit intent to do so. PREVENT introduces key elements of such systems:
 • pre-crime logic
 • anticipatory suspicion
@@ -67,7 +71,8 @@ PREVENT indirectly teaches students, patients, staff, and community members to:
 This conditioning is not imposed through force but through fear of misinterpretation, creating a population that behaves in a more controlled, less expressive manner.
 
 ## Why the seed metaphor matters
-Calling PREVENT “authoritarian” is inaccurate. The correct framing is that PREVENT contains the foundational logic from which authoritarian behaviours can grow under stress. The seed is structural:
+PREVENT contains the foundational logic from which authoritarian behaviours can grow under stress.  
+The seed is structural:
 • pre-emptive focus
 • behaviour-level analysis
 • suspicion embedded in everyday life
@@ -76,8 +81,9 @@ The plant is what grows in failing systems.
 
 ---
 
-## Footer*
-PREVENT Logic as Proto-Authoritarian Seedling* is a node in the Governance & Prevent cluster. It explains how PREVENT’s anticipatory framework can act as the foundation for authoritarian-style behaviours when combined with institutional fragility, subjective interpretation, and risk-averse culture.
+## Footer  
+*PREVENT Logic as Authoritarian Seedling* is a node in the Governance & Prevent cluster.  
+It explains how PREVENT’s anticipatory framework acts as the foundation for authoritarian-style behaviours when combined with institutional fragility, subjective interpretation, and risk-averse culture.  
 
 > Cross-references:
 > 
