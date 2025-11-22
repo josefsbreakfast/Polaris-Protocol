@@ -1,27 +1,5 @@
-<!--And the cloudbusting/orgone guy sounds less sane...why, exactly? 
-Looks like an excuse to listen to music all day in a lab and call it empirical and important, imo.-->
-
----
-title: "🎧 Music as Pipeline — Risk Axis vs Treatment Axis"
-created: 2025-11-07
-last_modified: 2025-11-07
-stardust:
-  - algorithmic_endocrinology
-  - radicalisation_risk
-  - music_streaming
-  - prevent_channel
-  - CVE_infrastructure
-  - survivor_voice
-constellations:
-  - "Disruption_Kit/Algorithmic_Endocrinology/🧪_algorithmic_endocrine_axis.md"
-  - "Disruption_Kit/Algorithmic_Endocrinology/🧠_containment_circuits_and_neurodivergence.md"
-  - "Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_when_violence_becomes_IRL.md"
-  - "Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_genocide_denialism/🍉_palestine.md"
-  - "Disruption_Kit/OSINT_Field_Operations/🛰️_reading_the_civic_sensorium.md"
-  - "Disruption_Kit/Counter_Nudge_Playbook/🎯_resisting_soft_containment_loops.md"
----
-
 # 🎧 Music as Pipeline — Risk Axis vs Treatment Axis  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-22  
 *On how playlists become both evidence and intervention in radicalisation ecosystems.*
 
 ---
@@ -195,3 +173,5 @@ For Polaris and allied projects, some guiding questions:
 > “Has your soundtrack changed in a way that feels like someone else is driving?”  
 
 Those stories are not just quirks of taste; they are **early-warning signals of playlist-as-policy**.
+
+_Last updated: 2025-11-22_
