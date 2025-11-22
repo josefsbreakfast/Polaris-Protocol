@@ -25,3 +25,15 @@ current theory on ghost files call issue is that some dumbass is token switching
 this is how "clever" the it lads are in this circus.  
 
 bargain bin, mate.  
+
+---
+
+oh no, they've put it on like 5 words, or on something universal like a space.  
+
+upgrade 🙄  
+
+feels like "lets just make the arabic letter hā repeatedly flag for inappropriate language, that will fuck with their heads!" behaviour.  
+
+not like that *ever* happened, right?  
+
+shall we discuss?  
