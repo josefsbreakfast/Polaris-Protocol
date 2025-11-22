@@ -1,5 +1,5 @@
 # 🌀 Projection-Driven System Nudges  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
 *How hostile actors sometimes attempt to move institutions through projection rather than evidence — and why transparent survivor frameworks neutralise these attempts.*
 
 ---
@@ -183,9 +183,9 @@ projection nudge, emotional leakage, institutional perception, narrative distort
 ---
 
 ## 🏮 Footer  
-*Projection-Driven System Nudges* is a living node of the Polaris Protocol.  
+*🌀 Projection-Driven System Nudges* is a living node of the Polaris Protocol.  
 It explains how hostile actors attempt to move institutions through projection — and why transparent, governance-aligned survivor work neutralises these attempts.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
