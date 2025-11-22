@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 05:04:33 UTC_
+_Generated on 2025-11-22 05:10:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2254,8 +2254,13 @@ _Generated on 2025-11-22 05:04:33 UTC_
       - [`🧿_dependancy_on_western_definitions.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
       - [`🧿_jewish_nationalisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md)
       - [`🧿_moda_grants.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_moda_grants.md)
+    - [`How_Emotional_Shock_Distorts_Institutional_Decision-Making.md`](Polaris_Nest/Git_Intake_Drawer/How_Emotional_Shock_Distorts_Institutional_Decision-Making.md)
+    - [`Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md`](Polaris_Nest/Git_Intake_Drawer/Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
+    - [`Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md`](Polaris_Nest/Git_Intake_Drawer/Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
+    - [`Structural_Survivorship_in_Multi-Agency_Environments.md`](Polaris_Nest/Git_Intake_Drawer/Structural_Survivorship_in_Multi-Agency_Environments.md)
+    - [`When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md`](Polaris_Nest/Git_Intake_Drawer/When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
     - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Polaris_Nest/Git_Intake_Drawer/deliberate_small_suppression_later_release_reciprocity_blowback.png)
     - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
@@ -2272,6 +2277,7 @@ _Generated on 2025-11-22 05:04:33 UTC_
     - [`♨️_prosocial_nudge_burnout_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/♨️_prosocial_nudge_burnout_syndrome.md)
     - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
     - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_contingent_conservatism_and_long_horizon_politics.md)
+    - [`⚖️_health_vs_justice_reflex_split.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_health_vs_justice_reflex_split.md)
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
     - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
@@ -2316,6 +2322,7 @@ _Generated on 2025-11-22 05:04:33 UTC_
     - [`🌍_israel_five_eyes_structural_interdependency.md`](Polaris_Nest/Git_Intake_Drawer/🌍_israel_five_eyes_structural_interdependency.md)
     - [`🌍_muslim_identity_racialisation_parallels_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🌍_muslim_identity_racialisation_parallels_antisemitism.md)
     - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/🌐_late_stage_autocracy_vibe_diagnostics.md)
+    - [`🌐_post_digital_data_drift_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🌐_post_digital_data_drift_mechanisms.md)
     - [`🌐_pre_infiltration_of_digital_male_spaces.md`](Polaris_Nest/Git_Intake_Drawer/🌐_pre_infiltration_of_digital_male_spaces.md)
     - [`🌒_the_no_win_box.md`](Polaris_Nest/Git_Intake_Drawer/🌒_the_no_win_box.md)
     - [`🌫️_metadata_as_mist.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_metadata_as_mist.md)
@@ -2551,6 +2558,7 @@ _Generated on 2025-11-22 05:04:33 UTC_
     - [`🔁_recursive_parliamentary_containment_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔁_recursive_parliamentary_containment_loop.md)
     - [`🔁_ritual_and_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🔁_ritual_and_refusal.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
+    - [`🔇_silence_harm_and_acknowledgment_delay.md`](Polaris_Nest/Git_Intake_Drawer/🔇_silence_harm_and_acknowledgment_delay.md)
     - [`🔍_institutional_freeze_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🔍_institutional_freeze_patterns.md)
     - [`🔍_mistaken_release_as_friction_shortcut.md`](Polaris_Nest/Git_Intake_Drawer/🔍_mistaken_release_as_friction_shortcut.md)
     - [`🔔_you_cant_soothe_germany_twice.md`](Polaris_Nest/Git_Intake_Drawer/🔔_you_cant_soothe_germany_twice.md)
@@ -2650,8 +2658,10 @@ _Generated on 2025-11-22 05:04:33 UTC_
     - [`🗺️_the_emotional_cartography_of_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_the_emotional_cartography_of_radicalisation.md)
     - [`🗺️_vibe_map_of_postwar_europe.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_vibe_map_of_postwar_europe.md)
     - [`😌_the_performance_of_consensus.md`](Polaris_Nest/Git_Intake_Drawer/😌_the_performance_of_consensus.md)
+    - [`😳_institutional_embarrassment_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/😳_institutional_embarrassment_dynamics.md)
     - [`😴_millennial_exhaustion_as_a_political_condition.md`](Polaris_Nest/Git_Intake_Drawer/😴_millennial_exhaustion_as_a_political_condition.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
+    - [`😶‍🌫_institutional_freeze_fog_correction_cycle.md`](Polaris_Nest/Git_Intake_Drawer/😶‍🌫_institutional_freeze_fog_correction_cycle.md)
     - [`🚀_weaponising_empathy.md`](Polaris_Nest/Git_Intake_Drawer/🚀_weaponising_empathy.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md`](Polaris_Nest/Git_Intake_Drawer/🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md)
@@ -2757,6 +2767,7 @@ _Generated on 2025-11-22 05:04:33 UTC_
     - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Polaris_Nest/Git_Intake_Drawer/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
     - [`🧠_composite_line_formation_dual_valence_merge.md`](Polaris_Nest/Git_Intake_Drawer/🧠_composite_line_formation_dual_valence_merge.md)
     - [`🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
+    - [`🧠_cross_silo_reflex_mismatch.md`](Polaris_Nest/Git_Intake_Drawer/🧠_cross_silo_reflex_mismatch.md)
     - [`🧠_diagnostic_visibility_conditioning.md`](Polaris_Nest/Git_Intake_Drawer/🧠_diagnostic_visibility_conditioning.md)
     - [`🧠_enemy_symmetry_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧠_enemy_symmetry_effects.md)
     - [`🧠_escalation_weather_map.md`](Polaris_Nest/Git_Intake_Drawer/🧠_escalation_weather_map.md)
@@ -2890,6 +2901,7 @@ _Generated on 2025-11-22 05:04:33 UTC_
     - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
     - [`🧬_transparency_as_antigenic_defense.md`](Polaris_Nest/Git_Intake_Drawer/🧬_transparency_as_antigenic_defense.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
+    - [`🧬_uk_feasibility_chain_animal_deradicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧬_uk_feasibility_chain_animal_deradicalisation.md)
     - [`🧬_voice_model_capture_risks.md`](Polaris_Nest/Git_Intake_Drawer/🧬_voice_model_capture_risks.md)
     - [`🧭_are_we_fascist_yet.md`](Polaris_Nest/Git_Intake_Drawer/🧭_are_we_fascist_yet.md)
     - [`🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md`](Polaris_Nest/Git_Intake_Drawer/🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md)
@@ -2905,6 +2917,7 @@ _Generated on 2025-11-22 05:04:33 UTC_
     - [`🧭_the_metadata_fallacy.md`](Polaris_Nest/Git_Intake_Drawer/🧭_the_metadata_fallacy.md)
     - [`🧭_think_tank_drift_and_blurred_boundaries.md`](Polaris_Nest/Git_Intake_Drawer/🧭_think_tank_drift_and_blurred_boundaries.md)
     - [`🧭_when_to_enter_the_grey_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧭_when_to_enter_the_grey_zone.md)
+    - [`🧭_why_survivors_see_the_full_picture.md`](Polaris_Nest/Git_Intake_Drawer/🧭_why_survivors_see_the_full_picture.md)
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_data_dividend_unpaid_labour_of_verification.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_dividend_unpaid_labour_of_verification.md)
