@@ -1,6 +1,6 @@
-# 🏚️ The Economics of Apartheid and Fascism — Why Authoritarian Regimes Always Bankrupt Themselves  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
-*Short-term shine, long-term collapse.*
+# 🏚️ The Economics of Apartheid and Fascism, Or: Why Authoritarian Regimes Always Bankrupt Themselves  
+**First created:** 2025-10-26 | **Last updated:** 2025-11-22  
+*Short-term shine, long-term collapse.*  
 
 ---
 
@@ -157,16 +157,6 @@ And the price of ignoring it is paid in generations.
 
 ---
 
-## 🌌 Constellations  
-🧨 Structural Racism as National Security Vulnerability | ⚖️ Algorithmic Apartheid | 🏛 System Governance | 📉 Economic Collapse Studies | 🎭 Narrative Ethics  
-
----
-
-## ✨ Stardust  
-fascism-economics, apartheid-collapse, propaganda-vs-reality, dose-response-authoritarianism, historical-analysis, economic-history, system-governance, authoritarian-failure, colonial-debt, innovation-collapse, recovery-lag, institutional-capture, democratic-subversion, alt-right-playbook
-
----
-
 ## ⚖️ 11 — The Cost of Looking Away  
 You can treat ICJ rulings as advisory all you want —  
 markets, history, and human biology don’t care.  
@@ -196,4 +186,18 @@ to profit from illegal occupation, is to participate in your own economic declin
 It’s not only immoral — it’s mathematically stupid.  
 
 > You can’t deregulate physics, empathy, or consequence.  
-> The bill always comes. It just compounds interest first.  
+> The bill always comes. It just compounds interest first.
+
+---
+
+## 🌌 Constellations  
+🧨 Structural Racism as National Security Vulnerability | ⚖️ Algorithmic Apartheid | 🏛 System Governance | 📉 Economic Collapse Studies | 🎭 Narrative Ethics  
+
+---
+
+## ✨ Stardust  
+fascism-economics, apartheid-collapse, propaganda-vs-reality, dose-response-authoritarianism, historical-analysis, economic-history, system-governance, authoritarian-failure, colonial-debt, innovation-collapse, recovery-lag, institutional-capture, democratic-subversion, alt-right-playbook
+
+---
+
+_Last updated: 2025-11-22_
