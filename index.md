@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 21:08:11 UTC_
+_Generated on 2025-11-22 21:08:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2947,6 +2947,7 @@ _Generated on 2025-11-22 21:08:11 UTC_
     - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
     - [`🧬_keystone_rca.md`](Polaris_Nest/Git_Intake_Drawer/🧬_keystone_rca.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
+    - [`🧬_metadata_driven_racism.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_driven_racism.md)
     - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
     - [`🧬_multiyear_pipeline_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_multiyear_pipeline_architecture.md)
     - [`🧬_nonlinear_intelligence_and_asynchrony.md`](Polaris_Nest/Git_Intake_Drawer/🧬_nonlinear_intelligence_and_asynchrony.md)
