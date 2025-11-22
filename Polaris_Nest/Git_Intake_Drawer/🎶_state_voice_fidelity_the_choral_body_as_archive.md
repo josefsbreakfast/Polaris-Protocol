@@ -1,5 +1,5 @@
 # 🎶 State Voice Fidelity — The Choral Body as Archive
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-22  
 *When a nation sings through its bodies — and archives them in sound.*  
 
 ---
@@ -51,10 +51,11 @@ state ensembles, voice fidelity, embodied archive, propaganda performance, bolsh
 *🎶 State Voice Fidelity — The Choral Body as Archive* is a living node of the Polaris Protocol.  
 It situates cultural performance within the machinery of continuity and control, reading the choir as both archive and algorithm.  
 
-> 📡 Cross-references:  
-> - [🎵 Alexandrov Ensemble — Voice of State and Survivorhood](./🎵_alexandrov_ensemble_voice_of_state_and_survivorhood.md) — case node  
-> - [🎛️ Drafting Rules Cluster — Survivor Voice Fidelity](../Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md) — tone architecture  
+> 📡 Cross-references:
+> 
+> - [🎵 Alexandrov Ensemble — Voice of State and Survivorhood] — *case node*  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-22_
