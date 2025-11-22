@@ -1,5 +1,5 @@
 # 🎡 The Aesthetic Economy of States
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
 *How nations generate, distribute, and compete through aesthetic output — from beauty to spectacle to vibes.*  
 
 ---
