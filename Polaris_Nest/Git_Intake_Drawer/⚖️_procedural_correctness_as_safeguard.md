@@ -1,5 +1,5 @@
 # ⚖️ Procedural Correctness as Safeguard  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
 *Why institutions become rigid, hyper-formal, and slow when a coercive or litigious actor is present — and how perfect procedure becomes the only viable protection.*
 
 ---
@@ -186,7 +186,7 @@ procedure, rigidity, legal hygiene, coercive actors, safeguarding, survivor supp
 
 ## 🏮 Footer  
 
-*Procedural Correctness as Safeguard* is a Governance & Containment node explaining why institutions cannot improvise or provide informal support until procedural purity is guaranteed.
+*⚖️ Procedural Correctness as Safeguard* is a Governance & Containment node explaining why institutions cannot improvise or provide informal support until procedural purity is guaranteed.
 
 Pairs with:
 
@@ -196,4 +196,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
