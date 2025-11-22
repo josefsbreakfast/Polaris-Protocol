@@ -355,7 +355,7 @@ foreign influence, uk vulnerability, behavioural economics, small state risk, ve
 
 ## 🏮 Footer  
 
-*🌀 UK as a Low-Cost Influence Environment**is a living node of the **Polaris Protocol**, placed within Systems & Governance.  
+*🌀 UK as a Low-Cost Influence Environment* is a living node of the **Polaris Protocol**, placed within Systems & Governance.  
 It explains why Britain’s structure — demographic, digital, vendorised, regulatory, linguistic — makes it one of the cheapest democracies in the world to shape from outside.  
 The node is intended to anchor investigative, activist, and oversight work on national-scale asymmetry and cluster-specific pressure.  
 
