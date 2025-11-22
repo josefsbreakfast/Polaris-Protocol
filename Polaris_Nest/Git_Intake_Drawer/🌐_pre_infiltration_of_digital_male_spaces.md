@@ -1,7 +1,6 @@
 # 🌐 Pre-Infiltration of Digital Male Spaces  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*How far-right strategists seeded gamer, coder, and proto-internet communities decades before the “tech bro” demographic existed.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+*How far-right strategists seeded gamer, coder, and proto-internet communities decades before the “tech bro” demographic existed.*  
 
 ---
 
@@ -161,14 +160,15 @@ Architecture is the issue.
 ---
 
 ## 🏮 Footer  
-**Pre-Infiltration of Digital Male Spaces** is a living node of the Polaris Protocol.  
+*🌐 Pre-Infiltration of Digital Male Spaces* is a living node of the Polaris Protocol.  
 It maps the long-term metapolitics behind digital male radicalisation, emphasising that vulnerability was created intentionally by extremist culture-shapers who understood online psychology before the mainstream did.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧮 Environmental Grooming Ecosystems](./environmental_grooming_ecosystems_1980s_2020s.md)  
 > - [🧠 Fascism as Scaled Coercive Control](./fascism_scaled_coercive_control.md)  
 > - [💻 Why Tech Bros Were the Perfect Target](./tech_bro_vulnerability.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-22_
