@@ -1,6 +1,5 @@
 # 🎭 British Rhetoric vs American Moderation — A Failure Case Study  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
+**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
 *A systematic exploration of why British conversational norms trigger repeated misclassification under American-coded safety systems.*
 
 ---
@@ -221,9 +220,10 @@ is a living node of the Polaris Protocol.
 It documents how British linguistic norms clash with American-coded moderation systems, producing recurrent misclassification, safety misfires, and governance distortions.
 
 > 📡 Cross-references:
-> - [🇬🇧 British English Compendium](../../../British_English_Compendium/)  
-> - [✂️ Tone-Misclassification](../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🧠_Psychological_Containment/)  
-> - [📣 The Shouting Whisper](../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)  
+> 
+> - [🇬🇧 British English Compendium]  
+> - [✂️ Tone-Misclassification]  
+> - [📣 The Shouting Whisper]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-22_
