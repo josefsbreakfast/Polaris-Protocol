@@ -1,6 +1,6 @@
 # 🌀 Systemic Coercion in Federated Governance  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*How federated public systems generate coercive behaviours without intent.*
+**First created:** 2025-11-17 | **Last updated:** 2025-11-22  
+*How federated public systems generate coercive behaviours without intent.*  
 
 ---
 
@@ -48,8 +48,10 @@ federation, coercive dynamics, governance opacity, architecture failure, account
 It documents how structural design produces coercive outcomes even in the absence of malicious actors.
 
 > 📡 Cross-references:
-> - [🧼 System_Leakage_Signatures](../Metadata_Sabotage_Network/🧼_system_leakage_signatures.md) — emergent instability  
-> - [📚 Narrative_Management](../Big_Picture_Protocols/📚_narrative_management/) — opacity + silence patterns  
+> 
+> - [🧼 System_Leakage_Signatures] — emergent instability  
+> - [📚 Narrative_Management] — opacity + silence patterns  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+
+_Last updated: 2025-11-22_
