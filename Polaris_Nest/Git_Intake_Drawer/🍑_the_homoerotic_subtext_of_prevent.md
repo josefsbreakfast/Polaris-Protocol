@@ -1,6 +1,6 @@
 # 🍑 The Homoerotic Subtext of Prevent
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*A thoroughly unserious but unfortunately accurate guide to the gay panic underneath British counter-extremism practice.*
+**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+*A thoroughly unserious but unfortunately accurate guide to the gay panic underneath British counter-extremism practice.*  
 
 ---
 
@@ -76,6 +76,8 @@ White men can’t say:
 
 > “He is hot and I am spiralling.”
 
+The whole thing would be far too adjacent to having feelings, complexity, or indeed, a personality.  
+
 So they say:
 
 > “He poses a safeguarding concern.”
@@ -83,22 +85,22 @@ So they say:
 ---
 
 # 🏳️‍🌈 Pinkwashing Edition  
-Straight white men who “support gay rights” to justify genocide are truly saying:
+Straight white men who “support gay rights” to justify genocide are truly saying:  
 
 > **“I like the aesthetics of uniformed military men  
->    and need a progressive alibi for my thirst.”**
+>    and need a progressive alibi for my thirst.”**  
 
 It is not support.  
-It is **homoerotic colonial cosplay**.
+It is **homoerotic colonial cosplay**.  
 
 ---
 
 # 🎭 Serious Takeaway (Hidden at the bottom like a moral lesson)  
-These jokes rest on a real truth:
+These jokes rest on a real truth:  
 
-> **Male jealousy + repressed desire → risk vocabulary → Prevent/Channel misuse.**
+> **Male jealousy + repressed desire → risk vocabulary → Prevent/Channel misuse.**  
 
-Which is why this belongs in Digital Disruption *and* the serious cluster.
+Which is why this belongs in Digital Disruption *and* the serious cluster.  
 
 ---
 
@@ -107,4 +109,4 @@ Which is why this belongs in Digital Disruption *and* the serious cluster.
 A Polaris satire node.  
 We apologise for nothing.
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-11-22_
