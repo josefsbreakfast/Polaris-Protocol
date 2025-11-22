@@ -1,5 +1,5 @@
 # 🃏 The Joke and the Right to Tell It  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-06 | **Last updated:** 2025-11-22  
 *Control, context, and agency in humour as a tool of survivor voice fidelity.*  
 
 ---
@@ -46,9 +46,9 @@ humour ethics, survivor voice, agency, control of frame, identity politics, powe
 
 > 📡 Cross‑references:  
 > 
-> - [🧩 Narrative and Power: Framing Theory Node](../System_Governance/Narrative_and_Power/framing_theory_node.md) — *theoretical background on framing and power*  
-> - [🪙 Protocol Integrity — Cultural Control Loops](../System_Governance/Protocol_Integrity/cultural_control_loops.md) — *how cultural loops affect protocol enforcement*
+> - [🧩 Narrative and Power: Framing Theory Node] — *theoretical background on framing and power*  
+> - [🪙 Protocol Integrity — Cultural Control Loops] — *how cultural loops affect protocol enforcement*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-11-22_
