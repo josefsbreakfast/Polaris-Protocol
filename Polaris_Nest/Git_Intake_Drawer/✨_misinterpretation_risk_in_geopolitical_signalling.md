@@ -1,5 +1,5 @@
 # ✨ Misinterpretation Risk in Geopolitical Signalling  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
 *How diplomatic phrasing is mirrored, twisted, and recycled by hostile actors to distort meaning.*
 
 ---
@@ -89,8 +89,9 @@ diplomatic phrasing, signalling risk, inversion, narrative recycling, parity fra
 *✨ Misinterpretation Risk in Geopolitical Signalling* is a living node of the **Polaris Protocol**, analysing how diplomatic language becomes distorted through adversarial echo systems, generating ambiguity, false symmetry, and narrative drift.
 
 > 📡 Cross-references:
-> - [🧠 Enemy Symmetry Effects](./🧠_enemy_symmetry_effects.md) — how hostile actors construct parity  
-> - [🎭 Narrative & Psych Ops](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/) — echo inversion mechanisms  
+> 
+> - [🧠 Enemy Symmetry Effects] — how hostile actors construct parity  
+> - [🎭 Narrative & Psych Ops] — echo inversion mechanisms  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-11-22_
