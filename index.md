@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:04:23 UTC_
+_Generated on 2025-11-22 07:05:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2874,6 +2874,7 @@ _Generated on 2025-11-22 07:04:23 UTC_
     - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧩_risk_vector_inversions_in_authoritarian_systems.md)
     - [`🧩_semi_compensating_spld_theory.md`](Polaris_Nest/Git_Intake_Drawer/🧩_semi_compensating_spld_theory.md)
     - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](Polaris_Nest/Git_Intake_Drawer/🧩_swiss_cheese_failures_when_process_holes_align.md)
+    - [`🧩_systemic_abuse_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_systemic_abuse_logic.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
     - [`🧩_the_data_empathy_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_data_empathy_gap.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
