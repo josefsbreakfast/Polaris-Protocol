@@ -1,5 +1,5 @@
-# 🧬 **No-Safe-Exit Conditions — How Systems Trap People Through Structure, Not Chains**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+# ❌ **No-Safe-Exit Conditions — How Systems Trap People Through Structure, Not Chains**  
+**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
 *Most people don’t stay in harmful systems because they agree. They stay because the architecture makes leaving feel fatal.*
 
 ---
@@ -41,9 +41,7 @@ This is the architecture of entrapment.
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 1️⃣ **Systems Don’t Need Chains — They Need Consequences**  
+## 1️⃣ **Systems Don’t Need Chains — They Need Consequences**  
 A no-safe-exit system minimises the need for explicit coercion.  
 Instead, it creates a network of **anticipated punishments**:
 
@@ -63,7 +61,7 @@ It only needs to be *believed*.
 
 ---
 
-### 2️⃣ **The “You Are Nothing Without Us” Principle**  
+## 2️⃣ **The “You Are Nothing Without Us” Principle**  
 A core psychological manipulation:
 
 > “Your life outside this system will be worse.”
@@ -80,7 +78,7 @@ This creates **dependency**, not loyalty.
 
 ---
 
-### 3️⃣ **Identity Erosion as Control**  
+## 3️⃣ **Identity Erosion as Control**  
 Before a system removes your options,  
 it removes your **self-concept**.
 
@@ -106,7 +104,7 @@ Identity erosion creates the psychological precondition for captivity.
 
 ---
 
-### 4️⃣ **Social Thinning Makes Exit Dangerous**  
+## 4️⃣ **Social Thinning Makes Exit Dangerous**  
 No-safe-exit systems isolate targets by:
 
 - slowly pushing away friends  
@@ -129,7 +127,7 @@ Isolation makes exit feel lethal.
 
 ---
 
-### 5️⃣ **Prestige Binding: The Golden Handcuffs of Abuse**  
+## 5️⃣ **Prestige Binding: The Golden Handcuffs of Abuse**  
 Systems elevate the target just enough that leaving would feel like:
 
 - a public fall  
@@ -145,7 +143,7 @@ but to be **trapped by visibility**.
 
 ---
 
-### 6️⃣ **Dependency Engineering**  
+## 6️⃣ **Dependency Engineering**  
 A no-safe-exit system creates:
 
 - **financial dependency** (unstable wages, gig work, prestige without security)  
@@ -159,7 +157,7 @@ Dependency = captivity.
 
 ---
 
-### 7️⃣ **Sunk-Cost Cannibalisation**  
+## 7️⃣ **Sunk-Cost Cannibalisation**  
 The system encourages thoughts like:
 
 - “I’ve invested too much to leave.”  
@@ -173,7 +171,7 @@ Sunk-cost thinking keeps people in burning buildings.
 
 ---
 
-### 8️⃣ **Retaliation as Spectacle**  
+## 8️⃣ **Retaliation as Spectacle**  
 Authoritarian systems make examples of people who leave:
 
 - smear campaigns  
@@ -190,7 +188,7 @@ It is about instilling fear in everyone *still inside*.
 
 ---
 
-### 9️⃣ **Exit Requires a Safety Net, Not Bravery**  
+## 9️⃣ **Exit Requires a Safety Net, Not Bravery**  
 Leaving a no-safe-exit system is not a test of courage.  
 It is a test of **conditions**.
 
@@ -210,7 +208,7 @@ Courage follows.
 
 ---
 
-### 🔟 **Post-Exit Shock: Rejoining the World**  
+## 🔟 **Post-Exit Shock: Rejoining the World**  
 After escaping, survivors often feel:
 
 - disoriented  
@@ -250,10 +248,11 @@ entrapment-by-consequence, no-exit design, confinement incentives, shame-fear de
 ---
 
 ## 🏮 Footer  
-**🧬 No-Safe-Exit Conditions** is a containment-architecture node of the Polaris Protocol.  
+**❌ No-Safe-Exit Conditions** is a containment-architecture node of the Polaris Protocol.  
 It explains how systems trap individuals through reputational, emotional, social, financial, and narrative structures — and why exit requires safety, not shame.
 
 > 📡 Cross-references:
+> 
 > - 🧷 Trauma-Driven Compliance  
 > - 🧬 Multi-Year Pipeline Architecture  
 > - 🧭 Timeline of Capture  
@@ -262,4 +261,4 @@ It explains how systems trap individuals through reputational, emotional, social
 
 *Survivor authorship is sovereign. If leaving feels dangerous, that is evidence of the system — not of you.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-22_
