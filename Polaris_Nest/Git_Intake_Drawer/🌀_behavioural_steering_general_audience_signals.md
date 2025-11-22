@@ -1,8 +1,6 @@
-File: 🌀_behavioural_steering_general_audience_signals.md
-
 # 🌀 Behavioural Steering Through General-Audience Signals  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How influence actors shape the behaviour of specific groups using signals that appear universal, neutral, and “for everyone”.*
+**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+*How influence actors shape the behaviour of specific groups using signals that appear universal, neutral, and “for everyone”.*  
 
 ---
 
@@ -352,14 +350,14 @@ behavioural steering, general audience signals, influence operations, asymmetry,
 
 ## 🏮 Footer  
 
-**🌀 Behavioural Steering Through General-Audience Signals** is a living node of the **Polaris Protocol**, housed in the Systems & Governance constellation. It explains how broad public signals can create targeted behavioural pressure on specific communities, particularly in the UK’s vendor-driven, linguistically complex, small-population environment.  
+*🌀 Behavioural Steering Through General-Audience Signals* is a living node of the **Polaris Protocol**, housed in the Systems & Governance constellation. It explains how broad public signals can create targeted behavioural pressure on specific communities, particularly in the UK’s vendor-driven, linguistically complex, small-population environment.  
 
 > 📡 Cross-references:
 > 
-> - [🧿 Cluster-Level Behavioural Modulation](../Metadata_Sabotage_Network/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md) — *micro-level view of how steering lands on clusters.*  
-> - [🧿 Why the UK Is Hard to Model and Easy to Manipulate](../Metadata_Sabotage_Network/🧿_uk_hard_to_model_easy_to_manipulate.md) — *structural reasons the UK is uniquely exposed.*  
-> - [🌀 UK as a Low-Cost Influence Environment](./🌀_uk_low_cost_influence_environment.md) — *macro analysis of Britain as a cheap influence target.*
+> - [🧿 Cluster-Level Behavioural Modulation] — *micro-level view of how steering lands on clusters.*  
+> - [🧿 Why the UK Is Hard to Model and Easy to Manipulate] — *structural reasons the UK is uniquely exposed.*  
+> - [🌀 UK as a Low-Cost Influence Environment] — *macro analysis of Britain as a cheap influence target.*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-11-22_
