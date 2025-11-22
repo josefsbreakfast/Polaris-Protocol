@@ -1,5 +1,5 @@
 # 🌒 The No-Win Box  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
 *The psychological container hostile actors place themselves in when a survivor becomes transparent, autonomous, and witnessed.*
 
 ---
@@ -209,9 +209,9 @@ no-win box, projection collapse, escalation paradox, autonomy backlash, narrativ
 ---
 
 ## 🏮 Footer  
-*The No-Win Box* is a living node of the Polaris Protocol.  
+*🌒 The No-Win Box* is a living node of the Polaris Protocol.  
 It describes the paradoxical state in which hostile actors undermine themselves when confronted with survivor transparency, autonomy, and structural clarity.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
