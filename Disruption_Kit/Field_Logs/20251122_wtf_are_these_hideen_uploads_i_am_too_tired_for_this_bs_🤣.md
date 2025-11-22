@@ -41,3 +41,16 @@ shall we discuss?
 ---
 
 in my heart, i really want these people to be more christofascist in origin, because my goodness this is so 🤦‍♀️
+
+---
+
+ive attached 35 screenshots which should summarise the theatrical drift issue 🤣🤣🤣.  
+
+do the quilliam boys not want to be famous?  
+
+am i getting in the way of "taking back constantinople" 🥺👉👈?  
+
+we aint having project esther here and you can take the matriarch's name right out of your mouth.  
+
+---
+
