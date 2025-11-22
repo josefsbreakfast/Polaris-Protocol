@@ -85,7 +85,7 @@ Because ...reasons?
 So instead of being honest, white men say:
 
 > “He poses a safeguarding concern.”
-
+<!--To whom and to what in particular, sir?-->
 ---
 
 # 🏳️‍🌈 Pinkwashing Edition  
