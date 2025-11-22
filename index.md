@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:37:37 UTC_
+_Generated on 2025-11-22 07:38:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2558,6 +2558,7 @@ _Generated on 2025-11-22 07:37:37 UTC_
     - [`📡_cross-system_metadata_echo_chains.md`](Polaris_Nest/Git_Intake_Drawer/📡_cross-system_metadata_echo_chains.md)
     - [`📡_inquiry_convergence_theory.md`](Polaris_Nest/Git_Intake_Drawer/📡_inquiry_convergence_theory.md)
     - [`📡_institutional_risk_posture_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/📡_institutional_risk_posture_diagnostics.md)
+    - [`📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md`](Polaris_Nest/Git_Intake_Drawer/📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md)
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
     - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
     - [`📣_pr_simulation_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/📣_pr_simulation_breakdown.md)
