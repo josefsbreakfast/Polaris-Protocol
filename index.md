@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:26:06 UTC_
+_Generated on 2025-11-22 07:27:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2558,6 +2558,7 @@ _Generated on 2025-11-22 07:26:06 UTC_
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
     - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
     - [`📣_pr_simulation_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/📣_pr_simulation_breakdown.md)
+    - [`📣_the_shouting_whisper.md`](Polaris_Nest/Git_Intake_Drawer/📣_the_shouting_whisper.md)
     - [`📥_entry_point_abuse_in_automated_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📥_entry_point_abuse_in_automated_datasets.md)
     - [`📦_po_box_practicalities.md`](Polaris_Nest/Git_Intake_Drawer/📦_po_box_practicalities.md)
     - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
