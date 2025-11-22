@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:47:04 UTC_
+_Generated on 2025-11-22 07:49:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2362,6 +2362,7 @@ _Generated on 2025-11-22 07:47:04 UTC_
     - [`🎩_edwardian_occult_as_live_action_privilege.md`](Polaris_Nest/Git_Intake_Drawer/🎩_edwardian_occult_as_live_action_privilege.md)
     - [`🎩_organisational_civility_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🎩_organisational_civility_as_containment.md)
     - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Polaris_Nest/Git_Intake_Drawer/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
+    - [`🎭_british_rhetoric_vs_american_moderation_case_study.md`](Polaris_Nest/Git_Intake_Drawer/🎭_british_rhetoric_vs_american_moderation_case_study.md)
     - [`🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md`](Polaris_Nest/Git_Intake_Drawer/🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md)
     - [`🎭_kremlin_aesthetic_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🎭_kremlin_aesthetic_timeline.md)
     - [`🎭_natcon_2023_25_hinge_point.md`](Polaris_Nest/Git_Intake_Drawer/🎭_natcon_2023_25_hinge_point.md)
