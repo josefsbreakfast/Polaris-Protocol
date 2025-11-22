@@ -1,6 +1,6 @@
 # 🎭 Symbolic Violence in Gendered & Racialised Frames
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How symbolic acts reproduce hierarchy through gendered and racialised narratives, institutions, and interpersonal behaviour.*
+**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+*How symbolic acts reproduce hierarchy through gendered and racialised narratives, institutions, and interpersonal behaviour.*  
 
 ---
 
@@ -181,13 +181,15 @@ symbolic violence, narrative weaponisation, credibility politics, racialised mis
 ---
 
 ## 🏮 Footer  
-*Symbolic Violence in Gendered & Racialised Frames* is a living node of the Polaris Protocol.  
-It explains how meaning, interpretation, and classification become instruments of domination in environments where gender, race, and bureaucracy intersect.
+*🎭 Symbolic Violence in Gendered & Racialised Frames* is a living node of the Polaris Protocol.  
+It explains how meaning, interpretation, and classification become instruments of domination in environments where gender, race, and bureaucracy intersect.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - 🛰️ Threat Escalation Pipeline (Racialised Gender)  
 > - 🦂 Racialised Entitlement Violation  
 > - 🪓 Vindictive Male Escalation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-11-22_
