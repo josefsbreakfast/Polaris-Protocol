@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:10:50 UTC_
+_Generated on 2025-11-22 07:12:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2501,6 +2501,7 @@ _Generated on 2025-11-22 07:10:50 UTC_
     - [`💾_token_switching_pseudonymisation_gone_wrong.md`](Polaris_Nest/Git_Intake_Drawer/💾_token_switching_pseudonymisation_gone_wrong.md)
     - [`📄_the_form_and_the_feeling.md`](Polaris_Nest/Git_Intake_Drawer/📄_the_form_and_the_feeling.md)
     - [`📈_escalation_drift_in_complex_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📈_escalation_drift_in_complex_datasets.md)
+    - [`📈_polished_authoritarianism.md`](Polaris_Nest/Git_Intake_Drawer/📈_polished_authoritarianism.md)
     - [`📈_stakeholder_mapping_from_symptoms.md`](Polaris_Nest/Git_Intake_Drawer/📈_stakeholder_mapping_from_symptoms.md)
     - [`📈_the_ratio_that_shouldnt_exist.md`](Polaris_Nest/Git_Intake_Drawer/📈_the_ratio_that_shouldnt_exist.md)
     - [`📉_erosion_of_legitimacy_loops.md`](Polaris_Nest/Git_Intake_Drawer/📉_erosion_of_legitimacy_loops.md)
