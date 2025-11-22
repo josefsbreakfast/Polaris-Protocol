@@ -1,7 +1,6 @@
 # ✨ Jyn Erso and the Coerced Survivalist Arc  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*Why Jyn is the opposite of Kylo: not misclassified, but shaped by structural abandonment and survival coercion.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+*Why Jyn is the opposite of Kylo: not misclassified, but shaped by structural abandonment and survival coercion.*  
 
 ---
 
@@ -195,14 +194,15 @@ The difference is who reaches them, and how.
 ---
 
 ## 🏮 Footer  
-**Jyn Erso and the Coerced Survivalist Arc** is a living node of the Polaris Protocol.  
+**✨ Jyn Erso and the Coerced Survivalist Arc** is a living node of the Polaris Protocol.  
 It serves as an emotional counterpoint to Kylo Ren, mapping the trauma pathway that produces hardened, cynical, but ultimately principled survivors who resist rather than succumb to authoritarian systems.
 
-> 📡 Cross-references:  
-> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy](./kylo_ren_as_algorithmically_misclassified_softboy.md)  
-> - [💻 Why Tech Bros Were the Perfect Target](./why_tech_bros_were_the_perfect_target.md)  
-> - [🧮 Environmental Grooming Ecosystems](./environmental_grooming_ecosystems_1980s_2020s.md)
+> 📡 Cross-references:
+> 
+> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy]  
+> - [💻 Why Tech Bros Were the Perfect Target]  
+> - [🧮 Environmental Grooming Ecosystems]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-22_
