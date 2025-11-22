@@ -1,7 +1,6 @@
 # 🎭 Identity Cosplay: How Men Perform Hardness They Don’t Believe In  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*Understanding the psychological and cultural forces that lead gentle, sensitive men to adopt aggressive personas that contradict their true emotional makeup.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+*Understanding the psychological and cultural forces that lead gentle, sensitive men to adopt aggressive personas that contradict their true emotional makeup.*  
 
 ---
 
@@ -211,14 +210,15 @@ Real identity returns.
 ---
 
 ## 🏮 Footer  
-**Identity Cosplay: How Men Perform Hardness They Don’t Believe In** is a living node of the Polaris Protocol.  
+*🎭 Identity Cosplay: How Men Perform Hardness They Don’t Believe In* is a living node of the Polaris Protocol.  
 It reframes reactionary male behaviour as adaptive performance rather than conviction, and maps the pathways back to authenticity, softness, and relational integrity.
 
-> 📡 Cross-references:  
-> - [🌫️ Shame–Visibility Collapse Loop](./the_shame_visibility_collapse_loop.md)  
-> - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)  
-> - [🧩 Why the Left Looks Scary During De-Radicalisation](./why_the_left_looks_scary_during_deradicalisation.md)
+> 📡 Cross-references:
+> 
+> - [🌫️ Shame–Visibility Collapse Loop]  
+> - [💗 Soft Boy Restoration Protocol]  
+> - [🧩 Why the Left Looks Scary During De-Radicalisation]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-22_
