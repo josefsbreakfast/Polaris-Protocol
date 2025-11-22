@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:09:54 UTC_
+_Generated on 2025-11-22 07:10:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2838,6 +2838,7 @@ _Generated on 2025-11-22 07:09:54 UTC_
     - [`🧨_semantic_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🧨_semantic_collapse.md)
     - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
     - [`🧨_the_pua_to_fascist_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧨_the_pua_to_fascist_pipeline.md)
+    - [`🧨_trauma_driven_compliance.md`](Polaris_Nest/Git_Intake_Drawer/🧨_trauma_driven_compliance.md)
     - [`🧨_unusual_contact_misread.md`](Polaris_Nest/Git_Intake_Drawer/🧨_unusual_contact_misread.md)
     - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Polaris_Nest/Git_Intake_Drawer/🧨_why_argumentation_fails_with_alt_right_ideology.md)
     - [`🧩 _political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩 _political_metadata_and_the_problem_of_dynamic_identity.md)
