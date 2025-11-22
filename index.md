@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 06:50:03 UTC_
+_Generated on 2025-11-22 06:51:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2767,6 +2767,7 @@ _Generated on 2025-11-22 06:50:03 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧊_the_bunker_has_no_vibes.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_bunker_has_no_vibes.md)
     - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
+    - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧙‍♀️_witch_logic_diagnostic.md`](Polaris_Nest/Git_Intake_Drawer/🧙‍♀️_witch_logic_diagnostic.md)
     - [`🧟_i_am_a_zombie_data_subject.md`](Polaris_Nest/Git_Intake_Drawer/🧟_i_am_a_zombie_data_subject.md)
     - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
