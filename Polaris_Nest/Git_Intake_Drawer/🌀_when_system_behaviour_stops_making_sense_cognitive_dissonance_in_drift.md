@@ -1,7 +1,5 @@
-File: 🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md
-
 # 🌀 When System Behaviour Stops Making Sense: Cognitive Dissonance in Drift  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
 *The eerie psychological, bureaucratic, and political moment when institutions begin behaving irrationally, inconsistently, or self-defeatingly — and why this is one of the most reliable indicators of authoritarian drift.*
 
 ---
@@ -179,7 +177,7 @@ Your clarity is not a liability — it is insight.
 ---
 
 ## 🏮 Footer  
-**When System Behaviour Stops Making Sense: Cognitive Dissonance in Drift** is part of Polaris’ Democratic Drift Phenomenology cluster.  
+*🌀 When System Behaviour Stops Making Sense: Cognitive Dissonance in Drift* is part of Polaris’ Democratic Drift Phenomenology cluster.  
 It validates the uncanny recognition that institutions are no longer behaving rationally, and reframes that recognition as a form of structural intelligence rather than personal anxiety.
 
 Crosslinks:  
@@ -187,3 +185,5 @@ Crosslinks:
 - ⚡ *why_some_people_become_systemic_lightning_rods*  
 - 🗂️ *when_institutions_start_treating_you_as_a_category_not_a_person*  
 - 🧭 *how_authoritarian_drift_feels_from_the_inside*
+
+_Last updated: 2025-11-22_
