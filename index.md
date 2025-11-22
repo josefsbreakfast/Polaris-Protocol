@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 21:10:13 UTC_
+_Generated on 2025-11-22 21:10:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2611,6 +2611,7 @@ _Generated on 2025-11-22 21:10:13 UTC_
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
+    - [`🔦_prevent_targeting_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🔦_prevent_targeting_black_hole.md)
     - [`🔧_democratic_resilience_architecture_for_21st_century_britain.md`](Polaris_Nest/Git_Intake_Drawer/🔧_democratic_resilience_architecture_for_21st_century_britain.md)
     - [`🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md`](Polaris_Nest/Git_Intake_Drawer/🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md)
     - [`🔮_archetype_of_the_uncooperative_woman.md`](Polaris_Nest/Git_Intake_Drawer/🔮_archetype_of_the_uncooperative_woman.md)
