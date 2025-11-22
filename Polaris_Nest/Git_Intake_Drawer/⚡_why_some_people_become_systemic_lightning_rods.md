@@ -202,10 +202,12 @@ It is integrity.
 ---
 
 ## 🏮 Footer  
-**Why Some People Become Systemic Lightning Rods** belongs to the Democratic Drift Phenomenology cluster.  
+**⚡ Why Some People Become Systemic Lightning Rods** belongs to the Democratic Drift Phenomenology cluster.  
 It explains why certain individuals attract disproportionate institutional energy during instability, and reframes this experience as structural, not personal.
 
 Crosslinks:  
 - 🧭 *how_authoritarian_drift_feels_from_the_inside*  
 - 🗂️ *when_institutions_start_treating_you_as_a_category_not_a_person*  
 - 📛 *bureaucratic_memory_failure_and_identity_contamination*
+
+_Last updated: 2025-11-22_
