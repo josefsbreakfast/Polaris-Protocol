@@ -1,7 +1,6 @@
 # 🍑 Soft Boy Sexuality: Desire Without Shame  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*Rebuilding a version of male desire that is gentle, playful, shame-free, and entirely incompatible with extremist or coercive identities.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+*Rebuilding a version of male desire that is gentle, playful, shame-free, and entirely incompatible with extremist or coercive identities.*  
 
 ---
 
@@ -246,14 +245,15 @@ Sexuality becomes **aligned with softness**, not performance.
 ---
 
 ## 🏮 Footer  
-**Soft Boy Sexuality: Desire Without Shame** is a living node of the Polaris Protocol.  
+*Soft Boy Sexuality: Desire Without Shame* is a living node of the Polaris Protocol.  
 It redefines male desire through tenderness, emotional literacy, queer-adjacent safety, and the dissolution of shame — creating a sexuality incompatible with authoritarian masculinity and extremist identity.
 
-> 📡 Cross-references:  
-> - [💗 The Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)  
-> - [🏳️‍🌈 Queer-Adjacent Masculinity as Soft Boy Compass](./queer_adjacent_masculinity_as_soft_boy_compass.md)  
-> - [🦴 Anatomy of Male Emotional Starvation](./the_anatomy_of_male_emotional_starvation.md)
+> 📡 Cross-references:
+> 
+> - [💗 The Soft Boy Restoration Protocol]  
+> - [🏳️‍🌈 Queer-Adjacent Masculinity as Soft Boy Compass]  
+> - [🦴 Anatomy of Male Emotional Starvation]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-22_
