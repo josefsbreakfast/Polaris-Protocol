@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 21:09:49 UTC_
+_Generated on 2025-11-22 21:10:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2706,6 +2706,7 @@ _Generated on 2025-11-22 21:09:49 UTC_
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🚪_walk_out_scripts.md`](Polaris_Nest/Git_Intake_Drawer/🚪_walk_out_scripts.md)
     - [`🚫_when_no_one_steps_in_institutional_silence_as_warning_signal.md`](Polaris_Nest/Git_Intake_Drawer/🚫_when_no_one_steps_in_institutional_silence_as_warning_signal.md)
+    - [`🛂_hidden_prevent_unseen_side.md`](Polaris_Nest/Git_Intake_Drawer/🛂_hidden_prevent_unseen_side.md)
     - [`🛂_misuse_of_safeguarding_through_gendered_prejudice.md`](Polaris_Nest/Git_Intake_Drawer/🛂_misuse_of_safeguarding_through_gendered_prejudice.md)
     - [`🛂_police_interface_distortion_from_parental_risk_profile.md`](Polaris_Nest/Git_Intake_Drawer/🛂_police_interface_distortion_from_parental_risk_profile.md)
     - [`🛑_rabbinic_silence_as_theological_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🛑_rabbinic_silence_as_theological_collapse.md)
