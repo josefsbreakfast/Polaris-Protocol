@@ -1,8 +1,6 @@
-File: 🌲_rebuilding_spark_in_a_political_forest_fire.md
-
 # 🌲 Rebuilding Spark in a Political Forest Fire  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*How to recognise, protect, and nurture early signs of recovery when the world around you still feels unstable, overwhelming, or dangerous.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+*How to recognise, protect, and nurture early signs of recovery when the world around you still feels unstable, overwhelming, or dangerous.*  
 
 ---
 
@@ -194,10 +192,12 @@ They’re **political survival signals**.
 ---
 
 ## 🏮 Footer  
-**Rebuilding Spark in a Political Forest Fire** belongs to Polaris’ Emotional Systems & Resilience cluster.  
+*Rebuilding Spark in a Political Forest Fire* belongs to Polaris’ Emotional Systems & Resilience cluster.  
 It maps how recovery happens under pressure, and how citizens can protect the earliest signs of vitality in an unstable or bureaucratically hostile world.
 
 Crosslinks:  
 - 🌲 *campfire_stability_model_for_modern_citizens*  
 - 🔥 *your_emotional_campfire_care_kit*  
 - 🧯 *signs_your_brain_is_tired_because_society_is_batshit*
+
+_Last updated: 2025-11-22_
