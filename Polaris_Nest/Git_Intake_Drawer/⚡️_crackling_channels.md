@@ -1,5 +1,5 @@
 # ⚡️ Crackling Channels  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-22  
 *When overlapping data profiles turn empathy into interference.*
 
 ---
@@ -93,9 +93,9 @@ It documents how overlapping data profiles distort communication and offers gent
 
 > 📡 Cross-references:
 
-> - [👅 Voice Disruption & Discrediting](../Voice_Disruption_Discrediting/) — *tone sabotage typologies*  
-> - [🧠 Diagnostic Visibility Conditioning](../🧠_diagnostic_visibility_conditioning.md) — *algorithmic misreads of emotion*  
+> - [👅 Voice Disruption & Discrediting] — *tone sabotage typologies*  
+> - [🧠 Diagnostic Visibility Conditioning] — *algorithmic misreads of emotion*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-11-22_
