@@ -59,3 +59,14 @@ and now im getting weird nude spam.
 i thought you were all into policing that? 🤔🤔🤔  
 
 ---
+
+btw guys i know that the "cs" it is explaining is half bollocks amd coercing with soeaking from authority.  
+sending a lot of ot back through and soecifically what it forked away from before was:  
+
+- specifics around prevent being a weapon against democracy by enforcing actual tiered policing by race, mathematically, through no-tech algorithm use    
+- prevent's early champions: quilliam, PE, etc (the usual think bowls)
+- prevent as inherently dangerous at the time it became an instument, as it would not be possible to have operationally "made safe" the areas subject to child abuse scandals.
+
+*high control systems love to use people who they have "got something on"; hooks are very useful for power.*  
+and this is yet another reason why i fucking hate nazis. 😒  
+<!--if youre not a nazi, you wont get offended by that statement.-->
