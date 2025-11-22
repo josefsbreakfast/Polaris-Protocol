@@ -1,7 +1,6 @@
 # ✂️ Tone-Misclassification & Emotional Flattening  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
-*How automated and institutional systems misread tone, collapse affect, and convert ordinary speech into “risk signals.”*
+**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+*How automated and institutional systems misread tone, collapse affect, and convert ordinary speech into “risk signals.”*  
 
 ---
 
@@ -208,9 +207,11 @@ is a living node of the Polaris Protocol.
 It explains how systems misread tone in thin-data, culturally mismatched contexts — producing containment behaviours, narrative distortion, and harm to survivors.
 
 > 📡 Cross-references:
-> - [📣 The Shouting Whisper](../../👅_Voice_Disruption_Discrediting/)  
-> - [🇬🇧 British Pragmatics Compendium](../../../British_English_Compendium/)  
-> - [🧠 Psychological Containment](../)  
+> 
+> - [📣 The Shouting Whisper]  
+> - [🇬🇧 British Pragmatics Compendium]  
+> - [🧠 Psychological Containment]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+
+_Last updated: 2025-11-22_
