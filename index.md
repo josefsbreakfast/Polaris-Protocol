@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:49:02 UTC_
+_Generated on 2025-11-22 19:44:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -539,6 +539,7 @@ _Generated on 2025-11-22 07:49:02 UTC_
         - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_data_bill_2025.md)
         - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_house_of_lords_2025.md)
         - [`🗝️_data_standards_fragmentation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🗝️_data_standards_fragmentation.md)
+        - [`🧱_legal_exception_zone_ctsa2015.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🧱_legal_exception_zone_ctsa2015.md)
       - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/README.md)
         - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
