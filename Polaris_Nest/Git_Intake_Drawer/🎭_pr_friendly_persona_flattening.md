@@ -1,6 +1,6 @@
 # 🎭 PR-Friendly Persona Flattening  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How behavioural-modelling systems simplify complex women—especially survivors and minority women—into soft, safe, aesthetically digestible PR archetypes.*
+**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+*How behavioural-modelling systems simplify complex women—especially survivors and minority women—into soft, safe, aesthetically digestible PR archetypes.*  
 
 ---
 
@@ -236,4 +236,6 @@ This node interacts with:
 - **PR Simulation Breakdown** (upcoming).
 
 It clarifies why synthetic personas built from women often look clean, polished, saintly —  
-and unusably unrealistic.
+and unusably unrealistic.  
+
+_Last updated: 2025-11-22_
