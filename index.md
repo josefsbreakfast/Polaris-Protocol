@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 06:56:40 UTC_
+_Generated on 2025-11-22 06:59:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2414,6 +2414,7 @@ _Generated on 2025-11-22 06:56:40 UTC_
     - [`🐍_ambidextrous_authoritarian_recruitment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_ambidextrous_authoritarian_recruitment.md)
     - [`🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md`](Polaris_Nest/Git_Intake_Drawer/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md)
     - [`🐍_prevent_the_self_eating_snake.md`](Polaris_Nest/Git_Intake_Drawer/🐍_prevent_the_self_eating_snake.md)
+    - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_vulnerability_manufacture_to_enmeshment.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
     - [`🐝_post_protofascist_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🐝_post_protofascist_reconstruction.md)
