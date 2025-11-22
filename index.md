@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:24:29 UTC_
+_Generated on 2025-11-22 07:26:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2413,6 +2413,7 @@ _Generated on 2025-11-22 07:24:29 UTC_
     - [`🐈_kylo_ren_as_algorithmically_misclassified_softboy.md`](Polaris_Nest/Git_Intake_Drawer/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)
     - [`🐈‍⬛_diy_pussy_hat_archive.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_diy_pussy_hat_archive.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
+    - [`🐉_she_is_a_dragon.md`](Polaris_Nest/Git_Intake_Drawer/🐉_she_is_a_dragon.md)
     - [`🐍_algorithmic_hostage_logic.md`](Polaris_Nest/Git_Intake_Drawer/🐍_algorithmic_hostage_logic.md)
     - [`🐍_ambidextrous_authoritarian_recruitment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_ambidextrous_authoritarian_recruitment.md)
     - [`🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md`](Polaris_Nest/Git_Intake_Drawer/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md)
