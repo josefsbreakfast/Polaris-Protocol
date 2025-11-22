@@ -1,5 +1,5 @@
-# 🏒 Ice and Ideology — The VVS Hockey Team Crash
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+# 🏒 Ice and Ideology — The VVS Hockey Team Crash  
+**First created:** 2025-11-06 | **Last updated:** 2025-11-22  
 *The 1950 VVS Moscow crash and the politics of rebuilding history overnight.*  
 
 ---
@@ -44,10 +44,11 @@ vvs moscow, vasily stalin, plane crash, sport and propaganda, censorship, recons
 *🏒 Ice and Ideology — The VVS Hockey Team Crash* is a living node of the Polaris Protocol.  
 It records how disaster management became a rehearsal for denial — rebuilding the myth before the mourning began.  
 
-> 📡 Cross-references:  
-> - [🎵 Alexandrov Ensemble — Voice of State and Survivorhood](./🎵_alexandrov_ensemble_voice_of_state_and_survivorhood.md) — choral counterpart in cultural erasure  
-> - [Big Picture Protocols / Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🔥_Suppression_as_Signal.md) — systemic framing  
+> 📡 Cross-references:
+> 
+> - [🎵 Alexandrov Ensemble — Voice of State and Survivorhood] — *choral counterpart in cultural erasure*  
+> - [🔥 Suppression as Signal] — *systemic framing*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-22_
