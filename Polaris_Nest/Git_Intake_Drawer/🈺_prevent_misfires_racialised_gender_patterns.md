@@ -1,6 +1,6 @@
 # 🈺 Prevent Misfires (Racialised Gender Patterns)
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How Prevent pathways misclassify racialised women through misogyny, bias, and narrative distortion.*
+**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+*How Prevent pathways misclassify racialised women through misogyny, bias, and narrative distortion.*  
 
 ---
 
@@ -223,14 +223,15 @@ Prevent misfires, counter-extremism bias, racialised suspicion, misogyny, retali
 ---
 
 ## 🏮 Footer  
-*Prevent Misfires (Racialised Gender Patterns)* is a living node of the Polaris Protocol.  
+*🈺 Prevent Misfires (Racialised Gender Patterns)* is a living node of the Polaris Protocol.  
 It maps how Prevent — structurally and culturally — misreads racialised women, and how retaliatory reporting becomes embedded as “risk intelligence.”
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - 🛂 Misuse of Safeguarding Through Gendered Prejudice  
 > - 🛰️ Threat Escalation Pipeline (Racialised Gender)  
 > - 🎭 Symbolic Violence in Gendered & Racialised Frames  
 > - 🪓 Vindictive Male Escalation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-11-22_
