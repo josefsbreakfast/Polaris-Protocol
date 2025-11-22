@@ -1,6 +1,6 @@
 # ♨️ Prosocial Nudge Burnout: Over-Nudging of the Same Individuals  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-22  
-*How repeated behavioural pressure concentrates on a small group until they emotionally, psychologically, or socially collapse.*
+**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+*How repeated behavioural pressure concentrates on a small group until they emotionally, psychologically, or socially collapse.*  
 
 ---  
 
@@ -47,4 +47,4 @@ Burnout in this pattern is not personal weakness. It is a predictable outcome of
 > - Gendered Susceptibility (Stepford Surface)
 > - Countermeasures for Prosocial Individuals
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-22_
