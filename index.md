@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 06:39:56 UTC_
+_Generated on 2025-11-22 06:48:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2978,6 +2978,7 @@ _Generated on 2025-11-22 06:39:56 UTC_
     - [`🧲_phase_management.md`](Polaris_Nest/Git_Intake_Drawer/🧲_phase_management.md)
     - [`🧲_starmer_as_lightning_rod.md`](Polaris_Nest/Git_Intake_Drawer/🧲_starmer_as_lightning_rod.md)
     - [`🧲_why_vulnerability_flags_attract_abusers.md`](Polaris_Nest/Git_Intake_Drawer/🧲_why_vulnerability_flags_attract_abusers.md)
+    - [`🧳_boardroom_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🧳_boardroom_fascism.md)
     - [`🧵_context_collapse_antisemitism_edition.md`](Polaris_Nest/Git_Intake_Drawer/🧵_context_collapse_antisemitism_edition.md)
     - [`🧵_family_class_suspicion_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧵_family_class_suspicion_patterns.md)
     - [`🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md`](Polaris_Nest/Git_Intake_Drawer/🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md)
