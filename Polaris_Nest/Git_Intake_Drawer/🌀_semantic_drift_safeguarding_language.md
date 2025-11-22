@@ -1,5 +1,5 @@
 # 🌀 Semantic Drift of Safeguarding Language  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
 *How safeguarding terms gradually expand, blur, and harden — shifting from protective concepts into tools of risk-classification and administrative control.*
 
 ---
@@ -225,9 +225,9 @@ semantic drift, safeguarding language, prevent, metadata expansion, risk inflati
 ---
 
 ## 🏮 Footer  
-*Semantic Drift of Safeguarding Language* is a living node of the Polaris Protocol.  
+*🌀 Semantic Drift of Safeguarding Language* is a living node of the Polaris Protocol.  
 It explains how safeguarding terms expand beyond their original intent, gradually absorbing normal behaviour into risk frameworks — enabling structural harm even without malicious actors.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
