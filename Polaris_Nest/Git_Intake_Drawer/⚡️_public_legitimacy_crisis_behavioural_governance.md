@@ -1,5 +1,5 @@
 # ⚡️ Public Legitimacy Crisis in Behavioural Governance  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
 *Why behavioural-surveillance systems will trigger a public backlash once their scope, logic, and impact become widely understood.*
 
 ---
@@ -197,7 +197,7 @@ Institutions depend on public partnership — once broken, it is hard to rebuild
 ---
 
 ## 🌌 Constellations  
-📢 🧿 🔥 🧠  
+⚡️ 📢 🧿 🔥 🧠  
 
 ---
 
@@ -207,9 +207,9 @@ public trust, behavioural governance, prevent, safeguarding opacity, democratic 
 ---
 
 ## 🏮 Footer  
-*Public Legitimacy Crisis in Behavioural Governance* is a living node of the Polaris Protocol.  
+*⚡️ Public Legitimacy Crisis in Behavioural Governance* is a living node of the Polaris Protocol.  
 It maps the inevitable backlash arising when behavioural-surveillance systems become publicly visible — and the structural reasons such systems cannot maintain public trust.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
