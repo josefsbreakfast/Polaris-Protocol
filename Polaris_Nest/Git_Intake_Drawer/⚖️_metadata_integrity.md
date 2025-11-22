@@ -1,5 +1,5 @@
 # ⚖️ Metadata Integrity  
-**First created:** 2025-10-31 | **Last updated:** 2025-11-15  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-22  
 *Architectures of oversight, error, and self-correction inside automated bureaucracies.*
 
 ---
@@ -59,4 +59,4 @@ It anchors the **Metadata Integrity** and **Voice Fidelity** constellations, lin
 
 ---
 
-_Last updated: 2025-11-15_  
+_Last updated: 2025-11-22_  
