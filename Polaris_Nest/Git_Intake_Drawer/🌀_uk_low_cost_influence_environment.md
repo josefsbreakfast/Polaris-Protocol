@@ -1,8 +1,6 @@
-File: 🌀_uk_low_cost_influence_environment.md
-
 # 🌀 UK as a Low-Cost Influence Environment  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*Why Britain is one of the easiest, cheapest, highest-yield countries in the democratic world to influence — and why influence here rarely looks like “attacks”.*
+**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+*Why Britain is one of the easiest, cheapest, highest-yield countries in the democratic world to influence — and why influence here rarely looks like “attacks”.*  
 
 ---
 
@@ -357,14 +355,16 @@ foreign influence, uk vulnerability, behavioural economics, small state risk, ve
 
 ## 🏮 Footer  
 
-**🌀 UK as a Low-Cost Influence Environment** is a living node of the **Polaris Protocol**, placed within Systems & Governance. It explains why Britain’s structure — demographic, digital, vendorised, regulatory, linguistic — makes it one of the cheapest democracies in the world to shape from outside. The node is intended to anchor investigative, activist, and oversight work on national-scale asymmetry and cluster-specific pressure.  
+*🌀 UK as a Low-Cost Influence Environment**is a living node of the **Polaris Protocol**, placed within Systems & Governance.  
+It explains why Britain’s structure — demographic, digital, vendorised, regulatory, linguistic — makes it one of the cheapest democracies in the world to shape from outside.  
+The node is intended to anchor investigative, activist, and oversight work on national-scale asymmetry and cluster-specific pressure.  
 
 > 📡 Cross-references:
 > 
-> - [🌀 Behavioural Steering Through General-Audience Signals](./🌀_behavioural_steering_general_audience_signals.md) — *how universal signals create directional impact.*  
-> - [🧿 Why the UK Is Hard to Model and Easy to Manipulate](../Metadata_Sabotage_Network/🧿_uk_hard_to_model_easy_to_manipulate.md) — *cultural and linguistic misfit producing vulnerability.*  
-> - [🧿 Cluster-Level Behavioural Modulation](../Metadata_Sabotage_Network/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md) — *micro-level behavioural shaping dynamics.*
+> - [🌀 Behavioural Steering Through General-Audience Signals] — *how universal signals create directional impact.*  
+> - [🧿 Why the UK Is Hard to Model and Easy to Manipulate] — *cultural and linguistic misfit producing vulnerability.*  
+> - [🧿 Cluster-Level Behavioural Modulation] — *micro-level behavioural shaping dynamics.*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-11-22_
