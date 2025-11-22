@@ -1,7 +1,5 @@
-File: ⚡_why_some_people_become_systemic_lightning_rods.md
-
 # ⚡ Why Some People Become Systemic Lightning Rods  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
 *Understanding why certain individuals attract disproportionate bureaucratic attention, political anxiety, or misinterpretation during periods of democratic drift.*
 
 ---
