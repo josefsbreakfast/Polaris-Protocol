@@ -1,6 +1,5 @@
 # 🌫️ The Shame–Visibility Collapse Loop  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
 *How alternating cycles of invisibility and humiliation destabilise men’s emotional interiors and create the perfect conditions for extremist capture.*
 
 ---
@@ -219,14 +218,15 @@ The loop ends.
 ---
 
 ## 🏮 Footer  
-**The Shame–Visibility Collapse Loop** is a living node of the Polaris Protocol.  
+*🌫️ The Shame–Visibility Collapse Loop* is a living node of the Polaris Protocol.  
 It defines the emotional oscillation that makes men vulnerable to coercive identity systems and outlines the conditions necessary to restore healthy visibility and dissolve shame-driven collapse patterns.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🔥 Shame as the Master Key of Fascist Manipulation](./shame_as_the_master_key_of_fascist_manipulation.md)  
 > - [🧠 Cognitive Vulnerability Stack](./the_cognitive_vulnerability_stack_of_lonely_men.md)  
 > - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-22_
