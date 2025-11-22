@@ -1,7 +1,6 @@
 # ⚖️ Safe Humanitarian Speech in High-Risk Discursive Environments  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
-*How to articulate humanitarian principles clearly and safely in systems that misread tone, escalation, and political content.*
+**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+*How to articulate humanitarian principles clearly and safely in systems that misread tone, escalation, and political content.*  
 
 ---
 
@@ -191,9 +190,10 @@ is a living node of the Polaris Protocol.
 It outlines methods for clear, safe, non-escalatory communication of humanitarian norms in contexts where tone and rhetorical style are misread by automated or overstressed systems.
 
 > 📡 Cross-references:
-> - [📚 Narrative Management](../📚_Narrative_Management/)  
-> - [🇬🇧 British Pragmatics Nodes](../../../British_English_Compendium/)  
-> - [📣 The Shouting Whisper](../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)  
+> 
+> - [📚 Narrative Management]  
+> - [🇬🇧 British Pragmatics Nodes]  
+> - [📣 The Shouting Whisper]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-22_
