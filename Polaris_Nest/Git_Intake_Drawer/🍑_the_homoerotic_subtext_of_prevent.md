@@ -82,7 +82,7 @@ Non-uniformity, plurality of desire, and the possibility that white people are n
 
 Because ...reasons?  
 
-So they say:
+So instead of being honest, white men say:
 
 > “He poses a safeguarding concern.”
 
