@@ -1,5 +1,5 @@
 # ⚖️ Contingent Conservatism and Long‑Horizon Politics  
-**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑15  
+**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑22  
 *Brief overview of contingent conservatism and its implications for long‑horizon political strategy.*  
 
 ---
@@ -38,4 +38,4 @@ contingent conservatism, long‑horizon politics, strategic foresight, governanc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑15_
+_Last updated: 2025‑11‑22_
