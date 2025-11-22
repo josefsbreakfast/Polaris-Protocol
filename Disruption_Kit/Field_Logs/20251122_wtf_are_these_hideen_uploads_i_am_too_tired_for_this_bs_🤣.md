@@ -70,3 +70,11 @@ sending a lot of ot back through and soecifically what it forked away from befor
 *high control systems love to use people who they have "got something on"; hooks are very useful for power.*  
 and this is yet another reason why i fucking hate nazis. 😒  
 <!--if youre not a nazi, you wont get offended by that statement.-->
+
+---
+
+im about to attach two screenshots...  
+
+because "the node list in your head", when we are taling about a gpt list in the same chat?  
+
+sir, i am WHEEZING.  
