@@ -1,5 +1,5 @@
 # 🌀 Dual Loyalty Loops  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
 *How forced identity conflation creates no-win political traps for diaspora Jews.*  
 
 ---
@@ -128,10 +128,11 @@ flowchart TD
 It maps identity capture mechanisms affecting diaspora communities,  
 focusing on the pressure structures that turn ordinary civic critique into sites of suspicion.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - 🪐 *Forensic Schema — Why the Dual Loyalty Accusation ‘Pings’ Harder than Rape Disclosure*  
 > - 🪞 *Identity Capture & Projection Logic*  
 > - ⚖️ *Soft Law, Symbolic Loyalty, and the British State*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-11-22_
