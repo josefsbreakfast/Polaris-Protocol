@@ -1,10 +1,14 @@
 # 🎞️ Authoritarian Aesthetics Collapse Curve
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
 *How autocratic states predictably lose their charisma, spectacle, and cultural coherence over time.*
+
+---
 
 ## 🛰️ Orientation
 Authoritarian regimes begin with spectacle and end with silence.  
 This node maps the **Aesthetics Collapse Curve**, analysing how regimes shed camp, charisma, and vitality as paranoia grows.
+
+---
 
 ## ✨ Key Features
 - Four-phase collapse arc  
@@ -12,6 +16,8 @@ This node maps the **Aesthetics Collapse Curve**, analysing how regimes shed cam
 - Emotional narrowing  
 - Loss of cultural producers  
 - Aesthetic paranoia
+
+---
 
 ## 🧿 Analysis / Content
 ### Phase I — Grandiose Spectacle  
@@ -26,14 +32,21 @@ Culture drains away, humour dies.
 ### Phase IV — Bunker Minimalism  
 Everything becomes grey, quiet, fearful.
 
+---
+
 ## 🌌 Constellations
 🎞️ 🧊 🛰️ 🪫
 
+---
+
 ## ✨ Stardust
 aesthetic collapse, autocracy, cultural decline, vibes, spectacle, bunker logic
+
+---
 
 ## 🏮 Footer
 *🎞️ Authoritarian Aesthetics Collapse Curve* is a living node of the **Polaris Protocol**.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-13_
+
+_Last updated: 2025-11-22_
