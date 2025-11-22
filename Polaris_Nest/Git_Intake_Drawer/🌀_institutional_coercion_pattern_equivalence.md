@@ -1,6 +1,6 @@
 # 🌀 Institutional Coercion Pattern Equivalence  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-19  
-*How bureaucratic overreach can mirror the behavioural signatures of coercive control, even without intent.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+*How bureaucratic overreach can mirror the behavioural signatures of coercive control, even without intent.*  
 
 ---
 
@@ -164,8 +164,8 @@ institutional coercion, coercive control, prevent, safeguarding overreach, behav
 
 ## 🏮 Footer  
 
-*Institutional Coercion Pattern Equivalence* is a living node of the **Polaris Protocol**, forming part of the structural-diagnostics branch of *🧠 Big_Picture_Protocols* and the behavioural-analysis lineage of *🎭 Narrative_And_Psych_Ops*.  
+*🌀 Institutional Coercion Pattern Equivalence* is a living node of the **Polaris Protocol**, forming part of the structural-diagnostics branch of *🧠 Big_Picture_Protocols* and the behavioural-analysis lineage of *🎭 Narrative_And_Psych_Ops*.  
 It gives survivors a vocabulary to articulate when systems *behave* like coercive actors, even without intent.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-22_
