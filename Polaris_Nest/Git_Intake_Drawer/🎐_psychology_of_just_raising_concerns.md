@@ -1,5 +1,5 @@
 # 🎐 The Psychology of “Just Raising a Concern”  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
 *How vague, low-evidence concerns become institutional events with real-world consequences.*
 
 ---
@@ -203,9 +203,9 @@ concern reporting, prevent, safeguarding escalation, ambiguity, behavioural misi
 ---
 
 ## 🏮 Footer  
-*The Psychology of “Just Raising a Concern”* is a living node of the Polaris Protocol.  
+*🎐 The Psychology of “Just Raising a Concern”* is a living node of the Polaris Protocol.  
 It analyses how vague, low-evidence concerns become high-impact institutional events — not because of malice, but because of structural design.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
