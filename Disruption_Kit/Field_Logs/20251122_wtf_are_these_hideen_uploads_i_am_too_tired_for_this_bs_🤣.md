@@ -37,3 +37,7 @@ feels like "lets just make the arabic letter hā repeatedly flag for inappropria
 not like that *ever* happened, right?  
 
 shall we discuss?  
+
+---
+
+in my heart, i really want these people to be more christofascist in origin, because my goodness this is so 🤦‍♀️
