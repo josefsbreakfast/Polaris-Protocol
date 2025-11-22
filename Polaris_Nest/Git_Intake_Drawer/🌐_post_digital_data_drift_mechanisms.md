@@ -1,5 +1,5 @@
 # 🌐 Post-Digital Data Drift Mechanisms  
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
 *A technical-governance node explaining how data moves, replicates, distorts, and escapes across UK public-sector systems — and why misclassification becomes multi-agency harm.*
 
 ---
@@ -168,7 +168,7 @@ data drift, digital propagation, legacy bridges, misclassification, cross-domain
 ---
 
 ## 🏮 Footer  
-*Post-Digital Data Drift Mechanisms* explains the technical substrates that allow data to travel, replicate, and harm in multi-agency environments.  
+*🌐 Post-Digital Data Drift Mechanisms* explains the technical substrates that allow data to travel, replicate, and harm in multi-agency environments.  
 It is a core diagnostic node for understanding post-digital governance failures.
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-11-22_
