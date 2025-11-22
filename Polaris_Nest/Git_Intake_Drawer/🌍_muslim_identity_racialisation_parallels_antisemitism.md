@@ -1,5 +1,5 @@
 # 🌍 Muslim Identity Racialisation Parallels to Historic Antisemitism  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
 *How Western systems recycle historic antisemitic tropes onto Muslim populations, and why this creates predictable failure modes in security modelling.*
 
 ---
@@ -195,3 +195,5 @@ It pairs with:
 - **Risk Vector Inversions**,  
 - **Bias Propagation Across Borders**,  
 - **Apartheid Algorithm Dependency Theory**.
+
+_Last updated: 2025-11-22_
