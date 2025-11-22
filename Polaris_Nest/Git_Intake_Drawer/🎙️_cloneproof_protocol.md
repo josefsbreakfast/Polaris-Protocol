@@ -1,5 +1,5 @@
 # 🎙️ Cloneproof Protocol  
-**First created:** 2025-10-31 | **Last updated:** 2025-11-14  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-22  
 *Authenticity architectures for voice, data, and identity integrity in post‑synthetic environments.*  
 
 ---
@@ -36,10 +36,10 @@ voice authentication, watermarking, provenance audit, consent architecture, data
 
 > 📡 Cross‑references:  
 > 
-> - [⚙️ Verification & Watermarking Standards](../System_Governance/Verification_Watermarking/verification_and_watermarking_standards.md) — *technical foundations for traceable authenticity*  
-> - [🛡️ Survivor‑Consent Frameworks](../System_Governance/Survivor_Consent/survivor_consent_frameworks.md) — *templates for informed participation*  
-> - [📡 Provenance Chain Audit](../System_Governance/Provenance_Audit/provenance_chain_audit.md) — *procedures for reconstructing data lineage*  
+> - [⚙️ Verification & Watermarking Standards] — *technical foundations for traceable authenticity*  
+> - [🛡️ Survivor‑Consent Frameworks] — *templates for informed participation*  
+> - [📡 Provenance Chain Audit] — *procedures for reconstructing data lineage*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-11-22_
