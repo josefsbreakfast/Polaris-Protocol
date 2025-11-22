@@ -1,5 +1,5 @@
 # 🧮 Data Dividend — The Unpaid Labour of Verification
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-22  
 *Why security puzzles created an invisible workforce.*
 
 ---
@@ -53,4 +53,4 @@ It advocates for recognising the unpaid cognitive labour embedded in verificatio
 > - [🧩 CAPTCHA Loop — Containment Disguised as Verification](../Metadata_Sabotage_Network/🍄_Suppression_Layers/🔮_captcha_loop_containment_disguised_as_verification.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-22_
