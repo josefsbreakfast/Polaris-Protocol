@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 04:53:19 UTC_
+_Generated on 2025-11-22 04:54:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2270,7 +2270,6 @@ _Generated on 2025-11-22 04:53:19 UTC_
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`♨️_prosocial_nudge_burnout_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/♨️_prosocial_nudge_burnout_syndrome.md)
-    - [`⚖️_Legal_&_State_Governance_🧮_data_dividend_unpaid_labour_of_verification.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_Legal_&_State_Governance_🧮_data_dividend_unpaid_labour_of_verification.md)
     - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
     - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_contingent_conservatism_and_long_horizon_politics.md)
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
@@ -2894,6 +2893,7 @@ _Generated on 2025-11-22 04:53:19 UTC_
     - [`🧭_think_tank_drift_and_blurred_boundaries.md`](Polaris_Nest/Git_Intake_Drawer/🧭_think_tank_drift_and_blurred_boundaries.md)
     - [`🧭_when_to_enter_the_grey_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧭_when_to_enter_the_grey_zone.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
+    - [`🧮_data_dividend_unpaid_labour_of_verification.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_dividend_unpaid_labour_of_verification.md)
     - [`🧮_data_error_decay_table.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_error_decay_table.md)
     - [`🧮_deepthought_datagov_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧮_deepthought_datagov_problem.md)
     - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
