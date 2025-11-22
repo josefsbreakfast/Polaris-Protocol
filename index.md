@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:15:11 UTC_
+_Generated on 2025-11-22 07:17:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2765,6 +2765,7 @@ _Generated on 2025-11-22 07:15:11 UTC_
     - [`🦠_algorithmic_autoimmunity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_algorithmic_autoimmunity.md)
     - [`🦠_statistical_nightmare.md`](Polaris_Nest/Git_Intake_Drawer/🦠_statistical_nightmare.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
+    - [`🦠_toxic_legitimacy_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🦠_toxic_legitimacy_cycles.md)
     - [`🦮_who_authorises_animal_interventions_uk.md`](Polaris_Nest/Git_Intake_Drawer/🦮_who_authorises_animal_interventions_uk.md)
     - [`🦴_the_anatomy_of_male_emotional_starvation.md`](Polaris_Nest/Git_Intake_Drawer/🦴_the_anatomy_of_male_emotional_starvation.md)
     - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
