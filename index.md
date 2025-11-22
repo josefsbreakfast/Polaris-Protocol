@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 21:02:44 UTC_
+_Generated on 2025-11-22 21:07:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2813,6 +2813,7 @@ _Generated on 2025-11-22 21:02:44 UTC_
     - [`🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
     - [`🧠_cross_silo_reflex_mismatch.md`](Polaris_Nest/Git_Intake_Drawer/🧠_cross_silo_reflex_mismatch.md)
     - [`🧠_diagnostic_visibility_conditioning.md`](Polaris_Nest/Git_Intake_Drawer/🧠_diagnostic_visibility_conditioning.md)
+    - [`🧠_early_secret_police_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧠_early_secret_police_architecture.md)
     - [`🧠_emotional_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧠_emotional_targeting.md)
     - [`🧠_enemy_symmetry_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧠_enemy_symmetry_effects.md)
     - [`🧠_escalation_weather_map.md`](Polaris_Nest/Git_Intake_Drawer/🧠_escalation_weather_map.md)
