@@ -1,6 +1,6 @@
 # 🎲 The Campaign Is Collapsing, We Need to Rewrite the Lore  
 **Folder:** 👾 Debugging The Men → 🧬 Further Potential Male Nonsense  
-**Created:** 2025-11-16 | **Updated:** 2025-11-16  
+**Created:** 2025-11-16 | **Updated:** 2025-11-22  
 *A narrative-discipline intervention for extremely wealthy nerds who have confused their personal D&D campaign with the metaphysics of the entire species, and are now destabilising public trust, democratic institutions, and the nerd ecosystem by roleplaying on main.*
 
 ---
@@ -217,7 +217,7 @@ This is harm reduction disguised as humour.
 ---
 
 ## 🏮 Footer  
-*The Campaign Is Collapsing, We Need to Rewrite the Lore* is a narrative-diagnostics node in the Debugging The Men cluster.  
+*🎲 The Campaign Is Collapsing, We Need to Rewrite the Lore* is a narrative-diagnostics node in the Debugging The Men cluster.  
 It helps restore alignment between nerd culture, ethical tech, and reality before the DM (the general public) rage-quits the whole campaign.
 
 Pairs with:  
@@ -228,4 +228,4 @@ Pairs with:
 
 *If the wizards cannot follow the lore, the party must take the pen back.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
