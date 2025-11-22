@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:38:36 UTC_
+_Generated on 2025-11-22 07:45:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3018,6 +3018,7 @@ _Generated on 2025-11-22 07:38:36 UTC_
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧸_softness_as_counter_extremism_infrastructure.md)
     - [`🧹_uk_rugsweeping_olympics.md`](Polaris_Nest/Git_Intake_Drawer/🧹_uk_rugsweeping_olympics.md)
     - [`🧼_courtier_class_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_austerity.md)
+    - [`🧼_thin_data_fragility.md`](Polaris_Nest/Git_Intake_Drawer/🧼_thin_data_fragility.md)
     - [`🧾_data_lineage_review.md`](Polaris_Nest/Git_Intake_Drawer/🧾_data_lineage_review.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
     - [`🧾_procurement_fragility.md`](Polaris_Nest/Git_Intake_Drawer/🧾_procurement_fragility.md)
