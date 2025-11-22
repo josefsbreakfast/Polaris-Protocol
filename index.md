@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:14:18 UTC_
+_Generated on 2025-11-22 07:15:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2916,6 +2916,7 @@ _Generated on 2025-11-22 07:14:18 UTC_
     - [`🧬_diaspora_debate_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧬_diaspora_debate_dynamics.md)
     - [`🧬_digital_aura.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_aura.md)
     - [`🧬_digital_twin_vector_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_twin_vector_logic.md)
+    - [`🧬_double_bind_dependencies.md`](Polaris_Nest/Git_Intake_Drawer/🧬_double_bind_dependencies.md)
     - [`🧬_duplicate_points_c4isr_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_duplicate_points_c4isr_twinning.md)
     - [`🧬_echo_scripts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_echo_scripts.md)
     - [`🧬_emotional_telemetry_propagation_across_twins.md`](Polaris_Nest/Git_Intake_Drawer/🧬_emotional_telemetry_propagation_across_twins.md)
