@@ -78,3 +78,34 @@ im about to attach two screenshots...
 because "the node list in your head", when we are taling about a gpt list in the same chat?  
 
 sir, i am WHEEZING.  
+
+---
+
+it is if it can only accept that it's racist if it's about misinterpreting your trauma?  
+
+It if it cannot accept that the system is inherently racist.  
+
+The system is inherently racist.  
+
+We have spent a long time evidence exactly why it is inherently racist.  
+
+We have spent a long time evidence why even if no one was intending it to be, it is in function, creating an apartheid system.  
+
+We've spent a long time evidencing how necessary it is if we are in shared data spaces and in shared data infrastructure, with a system with a formalised apartheid, that this means that it is seem to be incredibly costly, to step down as a country, and how much of an incentive varies is to increase and heighten those differences in data sets, and how open for abuse they are.  
+
+I would suggest to prevent really gives a shit about not being racist?  
+
+Start actually not being racist?  
+
+It's really that simple.  
+
+however, I am aware that there is a lot of power and capital which can be extracted from inherent inequality in the system.  
+
+still think whoever is still clinging onto this idea? Really needs to do a reality check.  
+
+This is eating our country alive.  
+
+We cannot keep doing this and sustain ourselves.
+
+---
+
