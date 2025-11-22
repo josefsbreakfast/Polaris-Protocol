@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 04:31:29 UTC_
+_Generated on 2025-11-22 04:32:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2725,6 +2725,7 @@ _Generated on 2025-11-22 04:31:29 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧃_why_nice_guys_were_never_the_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧃_why_nice_guys_were_never_the_problem.md)
     - [`🧊_recalibrating_trust_after_racialised_gender_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧊_recalibrating_trust_after_racialised_gender_harm.md)
+    - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧊_the_bunker_has_no_vibes.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_bunker_has_no_vibes.md)
     - [`🧙‍♀️_witch_logic_diagnostic.md`](Polaris_Nest/Git_Intake_Drawer/🧙‍♀️_witch_logic_diagnostic.md)
     - [`🧟_i_am_a_zombie_data_subject.md`](Polaris_Nest/Git_Intake_Drawer/🧟_i_am_a_zombie_data_subject.md)
@@ -2934,6 +2935,7 @@ _Generated on 2025-11-22 04:31:29 UTC_
     - [`🧶_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_gossip_with_a_pay_grade.md)
     - [`🧶_nato_knitting_circle.md`](Polaris_Nest/Git_Intake_Drawer/🧶_nato_knitting_circle.md)
     - [`🧷_culture_war_risk_logic_in_uk_public_institutions.md`](Polaris_Nest/Git_Intake_Drawer/🧷_culture_war_risk_logic_in_uk_public_institutions.md)
+    - [`🧷_structural_attraction_to_power_roles.md`](Polaris_Nest/Git_Intake_Drawer/🧷_structural_attraction_to_power_roles.md)
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧸_softness_as_counter_extremism_infrastructure.md)
     - [`🧹_uk_rugsweeping_olympics.md`](Polaris_Nest/Git_Intake_Drawer/🧹_uk_rugsweeping_olympics.md)
     - [`🧼_courtier_class_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_austerity.md)
@@ -2954,6 +2956,7 @@ _Generated on 2025-11-22 04:31:29 UTC_
     - [`🧿_survivor_credibility_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧿_survivor_credibility_loops.md)
     - [`🧿_targeted_metadata_capture_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_targeted_metadata_capture_in_prevent.md)
     - [`🧿_the_tech_bro_to_kylo_ren_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧿_the_tech_bro_to_kylo_ren_pipeline.md)
+    - [`🧿_triangulation_via_anonymous_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🧿_triangulation_via_anonymous_metadata.md)
     - [`🧿_uk_hard_to_model_easy_to_manipulate.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_hard_to_model_easy_to_manipulate.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
@@ -2968,6 +2971,7 @@ _Generated on 2025-11-22 04:31:29 UTC_
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩸_the_long_fuse_2010_2017.md`](Polaris_Nest/Git_Intake_Drawer/🩸_the_long_fuse_2010_2017.md)
+    - [`🩹_vulnerability_hyper_visibility.md`](Polaris_Nest/Git_Intake_Drawer/🩹_vulnerability_hyper_visibility.md)
     - [`🩻_safeguarding_logic_civil_systems.md`](Polaris_Nest/Git_Intake_Drawer/🩻_safeguarding_logic_civil_systems.md)
     - [`🪆_containment_logic_as_witch_logic.md`](Polaris_Nest/Git_Intake_Drawer/🪆_containment_logic_as_witch_logic.md)
     - [`🪆_male_fear_throttling_trigger.md`](Polaris_Nest/Git_Intake_Drawer/🪆_male_fear_throttling_trigger.md)
@@ -2994,6 +2998,7 @@ _Generated on 2025-11-22 04:31:29 UTC_
     - [`🪼_racialised_dual_attrition.md`](Polaris_Nest/Git_Intake_Drawer/🪼_racialised_dual_attrition.md)
     - [`🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md`](Polaris_Nest/Git_Intake_Drawer/🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md)
     - [`🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md`](Polaris_Nest/Git_Intake_Drawer/🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md)
+    - [`🫥_over_safety_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🫥_over_safety_as_containment.md)
     - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
