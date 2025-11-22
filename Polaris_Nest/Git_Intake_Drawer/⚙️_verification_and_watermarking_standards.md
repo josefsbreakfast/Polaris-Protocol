@@ -1,5 +1,5 @@
 # ⚙️ Verification & Watermarking Standards  
-**First created:** 2025-10-31 | **Last updated:** 2025-11-14  
+**First created:** 2025-10-31 | **Last updated:** 2025-11-22  
 *Practical architectures for proving that a voice, image, or dataset is what it claims to be.*  
 
 ---
@@ -81,4 +81,4 @@ It pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-11-22_
