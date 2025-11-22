@@ -1,5 +1,5 @@
 # ⚖️ Legal Disentanglement & Risk Perception  
-**First created:** 2025‑11‑12 | **Last updated:** 2025‑11‑15  
+**First created:** 2025‑11‑12 | **Last updated:** 2025‑11‑22  
 *Examining how legal ambiguity in data‑twinning and ownership generates risk‑avoidance behaviour and institutional silence.*  
 
 ---
@@ -38,4 +38,4 @@ legal disentanglement, risk perception, data twinning, shared liability, jurisdi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑15_
+_Last updated: 2025‑11‑22_
