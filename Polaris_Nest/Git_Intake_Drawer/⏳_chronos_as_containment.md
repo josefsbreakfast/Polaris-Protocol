@@ -1,5 +1,5 @@
 # ⏳ Chronos as Containment  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-22  
 *Mapping how bureaucratic and institutional systems weaponise time.*  
 
 ---
@@ -38,4 +38,4 @@ It documents the temporal levers used by institutions to shape behaviour and enf
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-11-22_
