@@ -1,6 +1,6 @@
 # 🎴 Tarot of Prime Ministers  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*A symbolic tarot-style mapping of recent UK Prime Ministers as archetypes — not of their politics, but of their narrative energy, institutional impact, and governance “vibe”.*
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+*A symbolic tarot-style mapping of recent UK Prime Ministers as archetypes — not of their politics, but of their narrative energy, institutional impact, and governance “vibe”.*  
 
 ---
 
@@ -82,11 +82,11 @@ tarot, archetypes, UK politics, symbolic mapping, institutional narrative, gover
 ---
 
 ## 🏮 Footer  
-*Tarot of Prime Ministers* is a symbolic Polaris node using narrative archetypes to understand governance tone across eras.  
+*🎴 Tarot of Prime Ministers* is a symbolic Polaris node using narrative archetypes to understand governance tone across eras.  
 It is deliberately humorous, not analytical, but pairs neatly with:
 
 - **🔮 Post-Chaos Governance Archetypes**  
 - **🧠 Institutional Weather Systems**  
 - **🏛️ Archetypes of Bureaucratic Behaviour**
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
