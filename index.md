@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 21:08:34 UTC_
+_Generated on 2025-11-22 21:09:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2727,6 +2727,7 @@ _Generated on 2025-11-22 21:08:34 UTC_
     - [`🛰️_counter_extremism_by_network.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_counter_extremism_by_network.md)
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_cultural_capture_of_internet_boys.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_cultural_capture_of_internet_boys.md)
+    - [`🛰️_digital_prevent_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_digital_prevent_pipeline.md)
     - [`🛰️_disappearing_public_surgery.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_disappearing_public_surgery.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
