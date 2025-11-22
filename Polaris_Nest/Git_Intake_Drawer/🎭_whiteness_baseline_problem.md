@@ -220,13 +220,13 @@ Even when they are invisible as citizens.
 
 ---
 
-## ✨ Stardust (Search Keywords)  
+## ✨ Stardust  
 whiteness • Prevent • Channel • racialised behaviour • metadata • emotional norms • diaspora identity • extremism indicators • CTSA 2015 • structural racism
 
 ---
 
-## 🪐 Footer  
-*🏮 The Whiteness Baseline Problem* is an epistemic-analysis node of the Polaris Protocol.  
+## 🏮 Footer  
+*🎭 The Whiteness Baseline Problem* is an epistemic-analysis node of the Polaris Protocol.  
 It documents how Prevent/Channel interprets behaviour through implicitly white cultural templates, turning difference into suspicion and identity into risk.
 
 > 📡 **Cross-references:**  
