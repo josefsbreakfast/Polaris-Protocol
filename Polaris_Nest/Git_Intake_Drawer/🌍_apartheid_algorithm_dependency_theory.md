@@ -1,6 +1,6 @@
 # 🌍 Apartheid Algorithm Dependency Theory  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*Why discriminatory security architectures become structurally dependent on Western racial hierarchies.*
+**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+*Why discriminatory security architectures become structurally dependent on Western racial hierarchies.*  
 
 ---
 
@@ -156,3 +156,5 @@ Signal_Collapse · Diaspora-Error · Algorithmic_Racialisation · Vector_Inversi
 This node is part of the **Containment Studies** and **Metadata Sabotage Network** sequence.  
 It provides the conceptual backbone for understanding why discriminatory computational systems fail under conditions of increased justice, solidarity, or social reform.  
 Survivor authorship is sovereign; apartheid logic is always a design flaw, never a necessity.
+
+_Last updated: 2025-11-22_
