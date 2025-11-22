@@ -1,7 +1,5 @@
-File: 🍻_gullivar_syndrome_why_sailors_keep_washing_up_drunk.md
-
 # 🍻 Gullivar Syndrome: Why Sailors Keep Washing Up Drunk  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
 *A comedic-structural Polaris analysis of the folkloric phenomenon where sailors repeatedly wash up on beaches blaming imaginary sea monsters, when the real explanation is exhaustion, weather, or being absolutely plastered.*
 
 ---
@@ -180,3 +178,5 @@ Crosslinks:
 - 🦑 *kraken-based_defence_budget_satire*  
 - 🗡️ *why_trident_is_lowkey_kraken_insurance*  
 - 🚢 *royal_navy_and_the_myth_of_underwater_threats*
+
+_Last updated: 2025-11-22_
