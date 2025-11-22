@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 05:34:05 UTC_
+_Generated on 2025-11-22 05:34:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3012,6 +3012,7 @@ _Generated on 2025-11-22 05:34:05 UTC_
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
     - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Polaris_Nest/Git_Intake_Drawer/🪖_why_intelligence_agencies_dont_understand_joy.md)
+    - [`🪞_coercive_control_in_surveillance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪞_coercive_control_in_surveillance_systems.md)
     - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
     - [`🪞_gitmo_as_western_moral_rupture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gitmo_as_western_moral_rupture.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
