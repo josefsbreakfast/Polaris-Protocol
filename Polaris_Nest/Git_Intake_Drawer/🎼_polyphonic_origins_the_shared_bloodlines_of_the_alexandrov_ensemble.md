@@ -1,5 +1,5 @@
 # 🎼 Polyphonic Origins — The Shared Bloodlines of the Alexandrov Ensemble
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-22  
 *On how the choir’s mixed heritage once modelled unity more effectively than any slogan.*  
 
 ---
@@ -62,11 +62,12 @@ alexandrov ensemble, polyphony, ukrainian heritage, cross-border identity, tatar
 *🎼 Polyphonic Origins — The Shared Bloodlines of the Alexandrov Ensemble* is a living node of the Polaris Protocol.  
 It records how, even at the edge of renewed conflict, a Soviet-born choir remained a chorus of mixed lineage — proof that the human voice once crossed borders more freely than armies.  
 
-> 📡 Cross-references:  
-> - [🎵 Alexandrov Ensemble — Voice of State and Survivorhood](./🎵_alexandrov_ensemble_voice_of_state_and_survivorhood.md) — structural companion  
-> - [🎙️ The State That Cannot Sing](./🎙️_the_state_that_cannot_sing.md) — political aftermath  
-> - [🔥 Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🔥_Suppression_as_Signal.md) — contextual frame  
+> 📡 Cross-references:
+> 
+> - [🎵 Alexandrov Ensemble — Voice of State and Survivorhood] — *structural companion*  
+> - [🎙️ The State That Cannot Sing] — *political aftermath*  
+> - [🔥 Suppression as Signal] — *contextual frame*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-22_
