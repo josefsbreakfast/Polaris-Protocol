@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 06:53:05 UTC_
+_Generated on 2025-11-22 06:54:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2417,6 +2417,7 @@ _Generated on 2025-11-22 06:53:05 UTC_
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
     - [`🐝_post_protofascist_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🐝_post_protofascist_reconstruction.md)
+    - [`🐝_sanctions_as_loyalty_test.md`](Polaris_Nest/Git_Intake_Drawer/🐝_sanctions_as_loyalty_test.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
     - [`🐝_volcanic_rest_theory.md`](Polaris_Nest/Git_Intake_Drawer/🐝_volcanic_rest_theory.md)
     - [`🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md`](Polaris_Nest/Git_Intake_Drawer/🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md)
