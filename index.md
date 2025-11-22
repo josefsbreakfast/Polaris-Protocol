@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 05:10:06 UTC_
+_Generated on 2025-11-22 05:24:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2423,6 +2423,7 @@ _Generated on 2025-11-22 05:10:06 UTC_
     - [`👁_narrative_inversion_after_boundary_setting.md`](Polaris_Nest/Git_Intake_Drawer/👁_narrative_inversion_after_boundary_setting.md)
     - [`👁‍🗨️_the_boundary_as_border.md`](Polaris_Nest/Git_Intake_Drawer/👁‍🗨️_the_boundary_as_border.md)
     - [`👁️_restoring_epistemic_integrity.md`](Polaris_Nest/Git_Intake_Drawer/👁️_restoring_epistemic_integrity.md)
+    - [`👅_gendered_racial_pivot.md`](Polaris_Nest/Git_Intake_Drawer/👅_gendered_racial_pivot.md)
     - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/👑_soft_power_accountability_gap.md)
     - [`👹_how_predators_weaponise_safeguarding_systems.md`](Polaris_Nest/Git_Intake_Drawer/👹_how_predators_weaponise_safeguarding_systems.md)
