@@ -1,6 +1,5 @@
 # 🌋 Why Fascist Recruiters Promise Visibility (“We See You”)  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
 *Breaking down the weaponised emotional script behind “You are not invisible” — the foundational spell of every authoritarian pipeline.*
 
 ---
@@ -221,14 +220,15 @@ Deradicalisation begins with **being seen safely**.
 ---
 
 ## 🏮 Footer  
-**Why Fascist Recruiters Promise Visibility (“We See You”)** is a living node of the Polaris Protocol.  
+*🌋 Why Fascist Recruiters Promise Visibility (“We See You”)* is a living node of the Polaris Protocol.  
 It frames visibility as an essential emotional nutrient manipulated by authoritarian movements and provides a roadmap for counter-visibility strategies in deradicalisation.
 
-> 📡 Cross-references:  
-> - [🌀 The Visibility Pitch in Radicalisation](./the_visibility_pitch_in_radicalisation.md)  
-> - [🧨 The PUA-to-Fascist Pipeline](./the_pua_to_fascist_pipeline.md)  
-> - [💻 Why Tech Bros Were the Perfect Target](./why_tech_bros_were_the_perfect_target.md)
+> 📡 Cross-references:
+> 
+> - [🌀 The Visibility Pitch in Radicalisation]  
+> - [🧨 The PUA-to-Fascist Pipeline]  
+> - [💻 Why Tech Bros Were the Perfect Target]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-22_
