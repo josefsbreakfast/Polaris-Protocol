@@ -1,5 +1,5 @@
 # 🌿 Normal Human Behaviour vs “Risk Indicators”  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
 *Why behavioural-surveillance systems routinely misclassify ordinary emotional life as danger — and how Prevent logic erodes the boundary between being human and being risky.*
 
 ---
@@ -223,4 +223,4 @@ It restores the distinction between being human and being dangerous — a bounda
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
