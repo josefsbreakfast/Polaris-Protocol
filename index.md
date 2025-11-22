@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 21:09:29 UTC_
+_Generated on 2025-11-22 21:09:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2602,6 +2602,7 @@ _Generated on 2025-11-22 21:09:29 UTC_
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_hasidic_thought_vs_state_violence_inversion.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hasidic_thought_vs_state_violence_inversion.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
+    - [`🔥_metadata_more_dangerous_than_humans.md`](Polaris_Nest/Git_Intake_Drawer/🔥_metadata_more_dangerous_than_humans.md)
     - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🔥_opportunistic_escalation_peri_system_collapse.md)
     - [`🔥_pink_pussyhats_the_backlash_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🔥_pink_pussyhats_the_backlash_cycle.md)
     - [`🔥_reform_uk_as_erosion_vector.md`](Polaris_Nest/Git_Intake_Drawer/🔥_reform_uk_as_erosion_vector.md)
