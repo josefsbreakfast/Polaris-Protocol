@@ -1,6 +1,6 @@
 # 🎭 The Punitive Logic of Entitlement Wounds
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*Why a man who feels entitled to a woman punishes her when she exercises autonomy — especially in racialised contexts.*
+**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+*Why a man who feels entitled to a woman punishes her when she exercises autonomy — especially in racialised contexts.*  
 
 ---
 
@@ -220,14 +220,16 @@ entitlement injury, punitive escalation, institutional retaliation, narrative pu
 ---
 
 ## 🏮 Footer  
-*The Punitive Logic of Entitlement Wounds* is a living node of the Polaris Protocol.  
+*🎭 The Punitive Logic of Entitlement Wounds* is a living node of the Polaris Protocol.  
 It explains how gendered and racialised entitlement transforms refusal into justification for revenge — often with institutional support.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - 🛡 Trusted Signals Checklist (Male Allies)  
 > - 🧊 Recalibrating Trust After Racialised Gender Harm  
 > - 🛰️ Threat Escalation Pipeline (Racialised Gender)  
 > - 🪓 Vindictive Male Escalation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-11-22_
