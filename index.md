@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 07:13:13 UTC_
+_Generated on 2025-11-22 07:14:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2307,6 +2307,7 @@ _Generated on 2025-11-22 07:13:13 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`✨_jyn_erso_and_the_coerced_survivalist_arc.md`](Polaris_Nest/Git_Intake_Drawer/✨_jyn_erso_and_the_coerced_survivalist_arc.md)
     - [`✨_misinterpretation_risk_in_geopolitical_signalling.md`](Polaris_Nest/Git_Intake_Drawer/✨_misinterpretation_risk_in_geopolitical_signalling.md)
+    - [`❌_no_safe_exit_conditions.md`](Polaris_Nest/Git_Intake_Drawer/❌_no_safe_exit_conditions.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Polaris_Nest/Git_Intake_Drawer/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
     - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_diet_authoritarianism_uk_homebrew.md)
