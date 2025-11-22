@@ -1,6 +1,6 @@
 # 🌌 Institutional Pattern Recognition  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How institutions recognise behavioural anomalies — not through surveillance, but through human pattern-reading and administrative friction.*
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+*How institutions recognise behavioural anomalies — not through surveillance, but through human pattern-reading and administrative friction.*  
 
 ---
 
@@ -207,9 +207,9 @@ institutional perception, pattern recognition, administrative friction, behaviou
 ---
 
 ## 🏮 Footer  
-*Institutional Pattern Recognition* is a living node of the Polaris Protocol.  
+*🌌 Institutional Pattern Recognition* is a living node of the Polaris Protocol.  
 It explains how institutions recognise behavioural anomalies not through surveillance, but through the repetition, tone, and context of human behaviour.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
