@@ -1,6 +1,6 @@
 # 🎯 Single Points of Failure as Authoritarian Easy Targets  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*Why concentrated roles are so attractive to the worst people in the room.*
+**First created:** 2025-11-05 | **Last updated:** 2025-11-22  
+*Why concentrated roles are so attractive to the worst people in the room.*  
 
 ---
 
@@ -121,10 +121,6 @@ Those nodes deserve **protective redesign**, not further power.
 
 ## 🌌 Constellations  
 🏛️ Civil Security → 🎯 Single Points of Failure as Authoritarian Targets  
-Related nodes:  
-- [🔺 The Golden Triangle and the Hidden Constitution of Local Government](🧭_Governance_Ecologies/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)  
-- [🚨 Civil Disorder Response and Governance Single Points of Failure](🚨_civil_disorder_response_and_governance_single_points_of_failure.md)  
-- [🧠 Containment Reflexes When Power Is Challenged in Resilience Meetings](🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
 
 ---
 
@@ -134,9 +130,14 @@ single point of failure, authoritarianism, capture, statutory officers, resilien
 ---
 
 ## 🏮 Footer  
-*Single Points of Failure as Authoritarian Targets* is a strategic-analysis node within the **Civil Security** cluster of **🛰️ OSINT Field Operations**.  
+*🎯 Single Points of Failure as Authoritarian Targets* is a strategic-analysis node within the **Civil Security** cluster of **🛰️ OSINT Field Operations**.  
 It reframes over-concentrated roles not as heroic efficiency but as vulnerabilities that hostile projects will inevitably seek to exploit.  
+
+Related nodes:  
+- [🔺 The Golden Triangle and the Hidden Constitution of Local Government](🧭_Governance_Ecologies/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)  
+- [🚨 Civil Disorder Response and Governance Single Points of Failure](🚨_civil_disorder_response_and_governance_single_points_of_failure.md)  
+- [🧠 Containment Reflexes When Power Is Challenged in Resilience Meetings](🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-22_
