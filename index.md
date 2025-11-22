@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 21:10:39 UTC_
+_Generated on 2025-11-22 21:11:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2342,6 +2342,7 @@ _Generated on 2025-11-22 21:10:39 UTC_
     - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/🌐_late_stage_autocracy_vibe_diagnostics.md)
     - [`🌐_post_digital_data_drift_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🌐_post_digital_data_drift_mechanisms.md)
     - [`🌐_pre_infiltration_of_digital_male_spaces.md`](Polaris_Nest/Git_Intake_Drawer/🌐_pre_infiltration_of_digital_male_spaces.md)
+    - [`🌑_prevent_racialised_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🌑_prevent_racialised_surveillance.md)
     - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
     - [`🌒_the_no_win_box.md`](Polaris_Nest/Git_Intake_Drawer/🌒_the_no_win_box.md)
     - [`🌫️_metadata_as_mist.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_metadata_as_mist.md)
