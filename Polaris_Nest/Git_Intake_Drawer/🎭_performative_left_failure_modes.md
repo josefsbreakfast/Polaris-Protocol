@@ -1,6 +1,6 @@
 # 🎭 Performative Left Failure Modes  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How crisis exposed the gap between performative progressivism and actual left values.*
+**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+*How crisis exposed the gap between performative progressivism and actual left values.*  
 
 ---
 
@@ -72,10 +72,11 @@ performative left, crisis exposure, solidarity failure, purity politics, movemen
 ## 🏮 Footer  
 *🎭 Performative Left Failure Modes* maps how progressive aesthetics without structural commitment destabilise movements during crisis years.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - Expression of Norms  
 > - Trauma Psychology
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-11-22_
