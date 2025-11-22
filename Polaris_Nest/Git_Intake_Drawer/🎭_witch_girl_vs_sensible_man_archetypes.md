@@ -1,5 +1,5 @@
 # 🎭 Witch Girl vs Sensible Man Archetypes  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
 *A comparative archetype analysis of how clever, articulate women become coded as “witches” while steady, predictable men become coded as “sensible” — and how these two cultural figures form a long-running dialectic in family systems, class scripts, and institutional behaviour.*
 
 ---
@@ -234,7 +234,7 @@ witch archetype, sensible man, cultural dialectic, class scripts, survivor clari
 
 ## 🏮 Footer  
 
-*Witch Girl vs Sensible Man Archetypes* is a Polaris narrative-sociology node mapping how gendered and class-coded archetypes shape both family systems and institutional behaviour — pairing the dangerous clarity of the “witch girl” with the stabilising dullness of the “sensible man.”
+*🎭 Witch Girl vs Sensible Man Archetypes* is a Polaris narrative-sociology node mapping how gendered and class-coded archetypes shape both family systems and institutional behaviour — pairing the dangerous clarity of the “witch girl” with the stabilising dullness of the “sensible man.”
 
 Pairs with:
 
@@ -245,4 +245,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-22_
