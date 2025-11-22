@@ -1,5 +1,5 @@
 # 🎩 Edwardian Occult as Live-Action Privilege
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
 *Golden Dawn aristocrats and the uncredited labour of Pamela Colman Smith.*
 
 ---
@@ -37,7 +37,9 @@ Restoring correct attribution is symbolic repair: naming the hand that actually 
 ---
 
 ## 🌌 Constellations
-🎩 🖼️ 🧿 📚 — class critique, authorship, symbolic repair.
+🎩 🖼️ 🧿 📚 — class critique, authorship, symbolic repair.  
+
+---
 
 ## ✨ Stardust
 edwardian occult, golden dawn, pamela colman smith, class dynamics, authorship erasure, tarot history
@@ -48,8 +50,10 @@ edwardian occult, golden dawn, pamela colman smith, class dynamics, authorship e
 *🎩 Edwardian Occult as Live-Action Privilege* is a symbolic-history node of the Polaris Protocol.  
 It documents how class performance obscured the real creators of esoteric culture.
 
-> 📡 Cross-references:  
-> - [📿 Strength as Gihasta](./📿_strength_as_gihasta.md)
+> 📡 Cross-references:
+> 
+> - [📿 Strength as Gihasta]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-16_
+
+_Last updated: 2025-11-22_
