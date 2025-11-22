@@ -1,5 +1,5 @@
 # ✡️ Faith, Ethics, and the Legal Basis of Prevent  
-**First created:** 2025-11-05  |  **Last updated:** 2025-11-08  
+**First created:** 2025-11-05  |  **Last updated:** 2025-11-22  
 *A constitutional-ethics analysis of how a risk-management architecture can penalise conscience.*
 
 ---
@@ -249,11 +249,7 @@ By mapping domestic governance or data-risk frameworks against these UN criteria
 
 
 ## 🌌 Constellations  
-🏛️ Civil Security → ✡️ Faith, Ethics and the Legal Basis of Prevent  
-Linked nodes:  
-- [🧩 Resilience Economy vs Diaspora Democracy](🧩_resilience_economy_vs_diaspora_democracy.md)  
-- [📜 How MOUs Hide in Plain Sight](📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md)  
-- [🔺 The Golden Triangle and the Hidden Constitution of Local Government](🧭_Governance_Ecologies/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
+
 
 ---
 
@@ -266,6 +262,10 @@ prevent, religion, judaism, islam, ethics, halakha, sharia, equality act, articl
 *Faith, Ethics and the Legal Basis of Prevent* is a live analytical node in the **Civil Security** cluster of **🛰️ OSINT Field Operations**.  
 It maps how algorithmic risk governance can penalise conscience when conscience is rooted in faith traditions that forbid complicity in harm.  
 
+- [🧩 Resilience Economy vs Diaspora Democracy]  
+- [📜 How MOUs Hide in Plain Sight]  
+- [🔺 The Golden Triangle and the Hidden Constitution of Local Government]  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-11-22_
