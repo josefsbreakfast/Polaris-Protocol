@@ -1,5 +1,5 @@
 # 🎺 Rallying Call and Loyal Hound  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
+**First created:** 2025-11-01 | **Last updated:** 2025-11-22  
 *A field-recorded meditation on why we still answer the call, and who waits at the threshold when we do.*
 
 ---
@@ -145,11 +145,12 @@ rallying call, echo punk, mythic fidelity, dog archetype, protest acoustics, mor
 ## 🏮 Footer  
 *🎺 Rallying Call and Loyal Hound* is a living node of the **Polaris Protocol**, blending mythic anthropology and Echo-Punk ethics to explore why humanity still answers the call.  
 
-> 📡 Cross-references:  
-> - [🎶 Theology of the Mix](../🎺_rallying_call/🎶_theology_of_the_mix.md) — shared melody of revelation  
-> - [📯 Soundline Bark to Trumpet](../🎺_rallying_call/📯_soundline_bark_to_trumpet.md) — acoustic lineage of revelation  
-> - [🐾 Canine Constellation Migration](../🎺_rallying_call/🐾_canine_constellation_migration.md) — guardian motifs and fidelity  
+> 📡 Cross-references:
+> 
+> - [🎶 Theology of the Mix] — *shared melody of revelation*  
+> - [📯 Soundline Bark to Trumpet] — *acoustic lineage of revelation*  
+> - [🐾 Canine Constellation Migration] — *guardian motifs and fidelity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-22_
