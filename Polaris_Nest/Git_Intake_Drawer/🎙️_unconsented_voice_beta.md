@@ -1,5 +1,5 @@
 # 🎙️ Unconsented Voice Beta  
-**First created:** 2025-10-24 | **Last updated:** 2025-11-14  
+**First created:** 2025-10-24 | **Last updated:** 2025-11-22  
 *CVE R&D but make it somehow worse.*  
 
 ---
@@ -115,12 +115,12 @@ ai voice, middleware, consent, beta testing, outsourcing, whistleblowing, govern
 
 > 📡 Cross‑references:  
 > 
-> - [🧪 Development & Experimentation](../System_Governance/Development_Experimentation/development_and_experimentation.md) — *broader R&D context*  
-> - [🌱 Human Principles](../System_Governance/Human_Principles/human_principles.md) — *foundational ethical guidelines*  
-> - [🗝️ Politics Memory Work](../System_Governance/Politics_Memory_Work/politics_memory_work.md) — *how political memory shapes data practices*  
-> - [🪬 Radicalisation & Extremism](../System_Governance/Radicalisation_Extremism/radicalisation_and_extremism.md) — *links to counter‑terrorism use‑cases*  
-> - [🤖 HoneyBot](../System_Governance/HoneyBot/honeybot_overview.md) — *detailed description of the VR containment engine*
+> - [🧪 Development & Experimentation] — *broader R&D context*  
+> - [🌱 Human Principles] — *foundational ethical guidelines*  
+> - [🗝️ Politics & Memory Work] — *how political memory shapes data practices*  
+> - [🪬 Radicalisation & Extremism] — *links to counter‑terrorism use‑cases*  
+> - [🤖 HoneyBot] — *detailed description of the VR containment engine*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-11-22_
