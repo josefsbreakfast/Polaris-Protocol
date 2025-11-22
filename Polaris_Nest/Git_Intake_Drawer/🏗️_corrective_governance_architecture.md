@@ -1,11 +1,11 @@
 # 🏗️ Corrective Governance Architecture  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*The structural blueprint for how institutions reconstruct their governance, safeguards, oversight, and interpretive mechanisms following full-stack collapse.*
+**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+*The structural blueprint for how institutions reconstruct their governance, safeguards, oversight, and interpretive mechanisms following full-stack collapse.*  
 
 ---
 
 ## 🧭 Orientation  
-Once Reconstruction Logic (Node 43) begins,  
+Once Reconstruction Logic begins,  
 institutions quickly realise something uncomfortable:
 
 > **the collapse didn’t happen because one system failed —  
@@ -255,9 +255,11 @@ Governance_Failure · Transparency_Warfare · Institutional_Reconstruction · Ep
 # 🏮 Footer  
 This node links directly to:
 
-- **Reconstruction Logic (Node 43)**  
-- **Crisis-Mode Behaviours (Node 42)**  
-- **Next: Restoring Epistemic Integrity — The Final Node (Node 45)**  
-- **Seven Layers of Safeguard Breakdown (Node 40)**
+- **Reconstruction Logic**  
+- **Crisis-Mode Behaviours**  
+- **Next: Restoring Epistemic Integrity*  
+- **Seven Layers of Safeguard Breakdown**
 
 This is the structural blueprint that leads into the last and final chapter of the entire collapse arc.
+
+_Last updated: 2025-11-22_
