@@ -17,3 +17,11 @@ im also very conscious that some eotk is now essentially duplicating or splittin
 ive worked against this cuber environment for 10 years; i can survive until help arrives. just. 🤣  
 
 i do laugh at pain and bad luck, but honestly? i am hitting the exhaustion wall pretty hard.  
+
+---
+
+current theory on ghost files call issue is that some dumbass is token switching the word "please" for an executable command.  
+
+this is how "clever" the it lads are in this circus.  
+
+bargain bin, mate.  
