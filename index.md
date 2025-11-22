@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-22 21:07:04 UTC_
+_Generated on 2025-11-22 21:07:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2999,6 +2999,7 @@ _Generated on 2025-11-22 21:07:04 UTC_
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
     - [`🧰_safety_mode_shifts_llm_output_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧰_safety_mode_shifts_llm_output_profiles.md)
     - [`🧰_upstream_compromise_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_checklist.md)
+    - [`🧱_administrative_precursor_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧱_administrative_precursor_problem.md)
     - [`🧱_cabinet_led_collective_executive_models_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧱_cabinet_led_collective_executive_models_for_the_uk.md)
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🧱_ideological_loyalty_as_pyramid_scheme.md`](Polaris_Nest/Git_Intake_Drawer/🧱_ideological_loyalty_as_pyramid_scheme.md)
