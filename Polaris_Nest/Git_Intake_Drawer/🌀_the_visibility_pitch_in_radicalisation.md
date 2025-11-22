@@ -1,7 +1,6 @@
 # 🌀 The “Visibility Pitch” in Radicalisation  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*“You’re not invisible.” The universal emotional hook used by fascists, cults, manipulators, and grifters.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+*“You’re not invisible.” The universal emotional hook used by fascists, cults, manipulators, and grifters.*  
 
 ---
 
@@ -153,14 +152,15 @@ They restore visibility without weaponising it.
 ---
 
 ## 🏮 Footer  
-**The “Visibility Pitch” in Radicalisation** is a living node of the Polaris Protocol.  
+*🌀 The “Visibility Pitch” in Radicalisation* is a living node of the Polaris Protocol.  
 It supports deradicalisation efforts by identifying visibility hunger as the primary emotional target of extremist recruitment.
 
-> 📡 Cross-references:  
-> - [🧠 Fascism as Scaled Coercive Control](./fascism_scaled_coercive_control.md)  
-> - [🪓 Charisma Is Just Coercion](./charisma_is_just_coercion.md)  
-> - [🧮 Environmental Grooming Ecosystems](./environmental_grooming_ecosystems_1980s_2020s.md)
+> 📡 Cross-references:
+> 
+> - [🧠 Fascism as Scaled Coercive Control]  
+> - [🪓 Charisma Is Just Coercion]  
+> - [🧮 Environmental Grooming Ecosystems]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-22_
