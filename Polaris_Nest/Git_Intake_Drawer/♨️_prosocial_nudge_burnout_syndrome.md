@@ -2,7 +2,7 @@
 **First created:** 2025-11-17 | **Last updated:** 2025-11-22  
 *How repeated behavioural pressure concentrates on a small group until they emotionally, psychologically, or socially collapse.*
 
-⸻
+---  
 
 ## 🛰️ Orientation
 This note explains how behavioural-governance systems repeatedly target the same prosocial, empathic, or compliant individuals. Because these people respond reliably to subtle cues, systems unintentionally over-use them. The result is cumulative stress, emotional depletion, and eventual burnout. This belongs in the Counter_Nudge_Playbook because it describes an institutional failure pattern: nudging becomes over-nudging, which becomes harm.
