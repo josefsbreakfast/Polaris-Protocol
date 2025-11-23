@@ -1,6 +1,6 @@
 # 👁️ Restoring Epistemic Integrity  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How institutions rebuild the ability to interpret reality after collapse — reconstructing signal literacy, narrative coherence, meaning-making, and moral sight.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-23  
+*How institutions rebuild the ability to interpret reality after collapse — reconstructing signal literacy, narrative coherence, meaning-making, and moral sight.*  
 
 ---
 
@@ -242,3 +242,5 @@ and concludes with:
 > **The restoration of the institution’s ability to see truthfully.**
 
 This is where Polaris ends this chapter.
+
+_Last updated: 2025-11-23_
