@@ -11,3 +11,9 @@ and stop trying to make me forget what hapoened in the may, june, july periods t
 this was not "just" a systems error; it is a choice to stalk and sexually harass women, and a badge or a piece of paper doesn't actually make it "better". quite the opposite.  
 
 ---
+
+interferemce is constant (screenshot added).  
+
+only up due to pain (~1/3 body feeling of "on fire", dermatomal, recent migraine, recent TN, prob stress lowering tolerance for pain), so going to chill and listen to podcasts to destract. 😎  
+
+---
