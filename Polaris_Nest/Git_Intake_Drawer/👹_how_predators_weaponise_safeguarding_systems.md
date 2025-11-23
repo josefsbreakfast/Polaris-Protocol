@@ -1,6 +1,6 @@
 # 👹 How Predators Weaponise Safeguarding Systems  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How high-status abusers manipulate safeguarding processes intended to protect the vulnerable.*
+**First created:** 2025-11-16 | **Last updated:** 2025-11-23  
+*How high-status abusers manipulate safeguarding processes intended to protect the vulnerable.*  
 
 ---
 
@@ -193,4 +193,4 @@ It documents how safeguarding pathways — designed to protect — are routinely
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-23_
