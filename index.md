@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:55:39 UTC_
+_Generated on 2025-11-23 01:57:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2773,6 +2773,7 @@ _Generated on 2025-11-23 01:55:39 UTC_
     - [`🛡️_seven_layers_of_safeguard_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_seven_layers_of_safeguard_breakdown.md)
     - [`🛡️_why_fascism_fears_softness.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_why_fascism_fears_softness.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
+    - [`🛰_the_digital_prevent_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🛰_the_digital_prevent_pipeline.md)
     - [`🛰_who_built_prevent_policy_ecosystem_2010_2016.md`](Polaris_Nest/Git_Intake_Drawer/🛰_who_built_prevent_policy_ecosystem_2010_2016.md)
     - [`🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md)
     - [`🛰️_ally_productivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ally_productivity_paradox.md)
