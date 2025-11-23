@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 02:11:53 UTC_
+_Generated on 2025-11-23 02:12:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2611,6 +2611,7 @@ _Generated on 2025-11-23 02:11:53 UTC_
     - [`📜_residual_shadow_audit.md`](Polaris_Nest/Git_Intake_Drawer/📜_residual_shadow_audit.md)
     - [`📜_torah_as_structure_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📜_torah_as_structure_of_truth.md)
     - [`📜_when_containment_becomes_identity.md`](Polaris_Nest/Git_Intake_Drawer/📜_when_containment_becomes_identity.md)
+    - [`📝_prevent_flags_shape_life.md`](Polaris_Nest/Git_Intake_Drawer/📝_prevent_flags_shape_life.md)
     - [`📠_the_72_hour_comedy_of_compliance.md`](Polaris_Nest/Git_Intake_Drawer/📠_the_72_hour_comedy_of_compliance.md)
     - [`📡_cross-system_metadata_echo_chains.md`](Polaris_Nest/Git_Intake_Drawer/📡_cross-system_metadata_echo_chains.md)
     - [`📡_inquiry_convergence_theory.md`](Polaris_Nest/Git_Intake_Drawer/📡_inquiry_convergence_theory.md)
