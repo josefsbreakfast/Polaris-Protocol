@@ -1,7 +1,7 @@
 # 👾 Algorithmic Projection and False Personalisation  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
 *Includes analysis of counter-extremism correction loops and projection-based misattribution.*  
-*When predictive systems replay our emotional history so precisely that we mistake machine echo for human intent.*
+*When predictive systems replay our emotional history so precisely that we mistake machine echo for human intent.*  
 
 ---
 
@@ -103,10 +103,10 @@ It documents how predictive systems recycle emotional data until statistical fam
 
 > 📡 Cross-references:
 > 
-> - [🐍 Algorithmic Hostage Logic]() — *stabilisers trapped inside volatility loops*  
-> - [🕸️ Gendered Harms from Counter-Extremism Algorithms]() — *systemic misclassification of advocacy*  
+> - [🐍 Algorithmic Hostage Logic] — *stabilisers trapped inside volatility loops*  
+> - [🕸️ Gendered Harms from Counter-Extremism Algorithms] — *systemic misclassification of advocacy*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-23_
