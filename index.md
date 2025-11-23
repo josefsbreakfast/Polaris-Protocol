@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:54:58 UTC_
+_Generated on 2025-11-23 01:55:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2659,6 +2659,7 @@ _Generated on 2025-11-23 01:54:58 UTC_
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
+    - [`🔥_why_metadata_more_dangerous_than_human_referral.md`](Polaris_Nest/Git_Intake_Drawer/🔥_why_metadata_more_dangerous_than_human_referral.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
     - [`🔦_prevent_targeting_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🔦_prevent_targeting_black_hole.md)
     - [`🔧_democratic_resilience_architecture_for_21st_century_britain.md`](Polaris_Nest/Git_Intake_Drawer/🔧_democratic_resilience_architecture_for_21st_century_britain.md)
