@@ -1,6 +1,6 @@
 # 👅 Gendered Racial Pivot  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How UK discourse redirected attention from structural male violence to racialised moral panic — and how that pivot fuels survivor discrediting.*
+**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
+*How UK discourse redirected attention from structural male violence to racialised moral panic — and how that pivot fuels survivor discrediting.*  
 
 ---
 
@@ -81,11 +81,12 @@ racialised moral panic, gendered violence, narrative pivot, survivor discreditin
 *👅 Gendered Racial Pivot* is a living node of the Polaris Protocol.  
 It documents the racialised diversion tactic that enables survivor silencing across narrative, safeguarding, and reputational systems.
 
-> 📡 Cross-references:  
-> - [👅 Voice_Disruption_Discrediting](./) — parent folder  
-> - [🧠 Psychological_Containment](../🧠_Psychological_Containment/) — discursive fatigue & gaslight loops  
-> - [🈺 Governance_And_Prevent](../../Governance_And_Containment/🈺_Governance_And_Prevent/) — policy architectures enabling the pivot  
+> 📡 Cross-references:
+> 
+> - [👅 Voice_Disruption_Discrediting] — *parent folder*  
+> - [🧠 Psychological_Containment] — *discursive fatigue & gaslight loops*  
+> - [🈺 Governance_And_Prevent] — *policy architectures enabling the pivot*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-23_
