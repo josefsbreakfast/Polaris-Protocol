@@ -1,6 +1,6 @@
 # 🔍 The Dataset Has Replaced the Citizen  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How governance now hears statistical abstractions instead of human beings.*
+**First created:** 2025-11-16 | **Last updated:** 2025-11-23  
+*How governance now hears statistical abstractions instead of human beings.*  
 
 ---
 
@@ -71,16 +71,17 @@ datafication, representation, dashboards, metrics, civic voice, public disappear
 
 ## 🏮 Footer  
 
-*The Dataset Has Replaced the Citizen* is a living node of the Polaris Protocol.  
+*👾 The Dataset Has Replaced the Citizen* is a living node of the Polaris Protocol.  
 It examines how datafication has supplanted direct political hearing, and why representation collapses when citizens become statistical artefacts.
 
-> 📡 Cross-references:  
-> - [🧩 The Politic Is No Longer Heard](./🧩_the_politic_is_no_longer_heard.md)  
-> - [🎛 Algorithmic Hearing as False Accountability](./🎛_algorithmic_hearing_as_false_accountability.md)  
-> - [🪢 Re-Embodied Dialogue & Civic Presence](./🪢_re_embodied_dialogue_&_civic_presence.md)  
-> - [🛰️ Risk Logic & the Disappearing Public Surgery](./🛰️_risk_logic_&_the_disappearing_public_surgery.md)  
-> - [🌀 Systems & Governance](../Big_Picture_Protocols/🌀_systems_&_governance/)  
+> 📡 Cross-references:
+> 
+> - [🧩 The Politic Is No Longer Heard]  
+> - [🎛 Algorithmic Hearing as False Accountability]  
+> - [🪢 Re-Embodied Dialogue & Civic Presence]  
+> - [🛰️ Risk Logic & the Disappearing Public Surgery]  
+> - [🌀 Systems & Governance]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-23_
