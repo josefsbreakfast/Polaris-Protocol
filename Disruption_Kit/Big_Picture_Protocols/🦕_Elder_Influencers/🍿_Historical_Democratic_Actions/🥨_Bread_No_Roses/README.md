@@ -4,7 +4,7 @@
 
 ---
 
-## 1. What This Folder Is  
+## ✨ What This Folder Is  
 **🥨 Bread No Roses** is a sub-cluster within **🍿 Historical Democratic Actions**, focused on how **food, refusal, scarcity, fasting, and subsistence** have functioned as political leverage across history — and how those dynamics mutate inside **2025’s risk-managed, algorithmic, supply-fragile democracies**.
 
 This folder sits at the intersection of:
@@ -21,7 +21,7 @@ If historical democratic movements were about **bread**, and 20th-century civil 
 
 ---
 
-## 2. Why Food Becomes a Political Pressure Point in 2025  
+## 🥗 Why Food Becomes a Political Pressure Point in 2025  
 We are living in a global environment shaped by:
 
 - **Inflation shocks**  
@@ -40,7 +40,7 @@ Food scarcity + political instability = **Hunger Games dynamics**, but bureaucra
 
 ---
 
-## 3. What Lives in This Folder  
+## 🐝 What Lives in This Folder  
 This directory holds nodes that examine:
 
 ### 🛑 **Sacrificial protest in modern legitimacy systems**  
@@ -66,7 +66,7 @@ In other words:
 
 ---
 
-## 4. Orientation: Why This Matters  
+## 🍌 Why This Matters  
 In 2025, the “Hunger Games” analogy is no longer hyperbole — it is *structural*.
 
 Food becomes a **pressure point**, not because humans changed, but because:
@@ -85,6 +85,8 @@ Therefore, **food-linked protest** (refusal, scarcity, fasting, redistribution, 
 This folder documents that lever.  
 
 ---
+
+## 🐦‍🔥 If this were the Hunger Games?  
 
 ```mermaid
 flowchart TD
