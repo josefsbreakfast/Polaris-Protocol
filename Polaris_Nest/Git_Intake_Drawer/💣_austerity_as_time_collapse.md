@@ -1,5 +1,5 @@
 # 💣 Austerity as Time Collapse  
-**First created:** 2025‑11‑12 | **Last updated:** 2025‑11‑15  
+**First created:** 2025‑11‑12 | **Last updated:** 2025‑11‑23  
 *Analyses how austerity policies eroded state capacity and transformed delay into structural normality.*  
 
 ---
@@ -41,4 +41,4 @@ It serves as a foundation for deeper analyses of fiscal policy impacts within th
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑15_
+_Last updated: 2025‑11‑23_
