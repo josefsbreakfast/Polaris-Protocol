@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 02:01:23 UTC_
+_Generated on 2025-11-23 02:02:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2958,6 +2958,7 @@ _Generated on 2025-11-23 02:01:23 UTC_
     - [`🧩_meta_containment_and_exploited_breakpoints.md`](Polaris_Nest/Git_Intake_Drawer/🧩_meta_containment_and_exploited_breakpoints.md)
     - [`🧩_mirror_cluster_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧩_mirror_cluster_effects.md)
     - [`🧩_myth_vs_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧩_myth_vs_mechanism.md)
+    - [`🧩_neurodivergence_misread.md`](Polaris_Nest/Git_Intake_Drawer/🧩_neurodivergence_misread.md)
     - [`🧩_perpetrator_competence_and_system_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_perpetrator_competence_and_system_harm.md)
     - [`🧩_policy_capture_quilliam_ctsa2015.md`](Polaris_Nest/Git_Intake_Drawer/🧩_policy_capture_quilliam_ctsa2015.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
