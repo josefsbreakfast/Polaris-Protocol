@@ -1,6 +1,6 @@
 # 🐾 Canine Constellation: Guardians at the Threshold  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*A mythographic mapping of the dog as divine sentinel, psychopomp, and faithful companion — from Mesopotamia to the moors of Britain.*
+**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
+*A mythographic mapping of the dog as divine sentinel, psychopomp, and faithful companion — from Mesopotamia to the moors of Britain.*  
 
 ---
 
@@ -136,10 +136,10 @@ dog myth, guardian archetype, black shuck, cerberus, anubis, chinvat bridge, wil
 *🐾 Canine Constellation: Guardians at the Threshold* is a living node of the **Polaris Protocol**, mapping the migration of mythic guardians from divine sentinel to folk companion.  
 
 > 📡 Cross-references:  
-> - [📯 Soundline Bark to Trumpet](../🎺_rallying_call/📯_soundline_bark_to_trumpet.md) — acoustic lineage of revelation  
-> - [🎺 Rallying Call and Loyal Hound](../🎺_rallying_call/🎺_rallying_call_and_loyal_hound.md) — philosophy of the signal  
-> - [🎶 Theology of the Mix](../🎺_rallying_call/🎶_theology_of_the_mix.md) — shared melody of revelation  
+> - [📯 Soundline Bark to Trumpet] — acoustic lineage of revelation  
+> - [🎺 Rallying Call and Loyal Hound] — philosophy of the signal  
+> - [🎶 Theology of the Mix] — shared melody of revelation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-23 _
