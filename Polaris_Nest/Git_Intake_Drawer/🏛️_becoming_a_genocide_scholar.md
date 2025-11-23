@@ -1,5 +1,5 @@
 # 🏛️ Becoming a Genocide Scholar  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-11-23  
 *In which one accidentally earns a doctorate in atrocity logistics by trying to file the correct form.*  
 
 ---
@@ -73,11 +73,11 @@ bureaucracy, genocide studies, satire, data governance, suppression, moral injur
 *Becoming a Genocide Scholar* is a living satirical node of the Polaris Protocol.  
 It documents how administrative systems train their own critics, converting every refused form into postgraduate research in atrocity prevention.  
 
-> 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — undertone management for survivor scholarship  
+> 📡 Cross-references:
+> 
 > - [🦠 Algorithmic Autoimmunity](../Disruption_Kit/Big_Picture_Protocols/🦠_algorithmic_autoimmunity.md) — diagnostic companion piece  
 > - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-11-23_
