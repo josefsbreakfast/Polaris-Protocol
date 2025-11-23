@@ -1,5 +1,5 @@
 # 🏛️ Who Regulates Nudging? (The Governance Vacuum)  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-23  
 *How behavioural influence systems operate without oversight, accountability, or public understanding — and why this becomes dangerous inside Prevent-heavy architectures.*
 
 ---
@@ -219,4 +219,4 @@ It exposes the absence of meaningful oversight over behavioural influence system
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-23_
