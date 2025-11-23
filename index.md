@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:47:17 UTC_
+_Generated on 2025-11-23 01:48:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2963,6 +2963,7 @@ _Generated on 2025-11-23 01:47:17 UTC_
     - [`🧩_the_politic_is_no_longer_heard.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_politic_is_no_longer_heard.md)
     - [`🧩_the_prevent_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_prevent_paradox.md)
     - [`🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md)
+    - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
     - [`🧩_twinning_as_reputation_repair.md`](Polaris_Nest/Git_Intake_Drawer/🧩_twinning_as_reputation_repair.md)
     - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_left_looks_scary_during_deradicalisation.md)
     - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_machine_tags_high_friction_profiles.md)
