@@ -1,6 +1,6 @@
 # 💔 Manufactured Intimacy — Romantic Framing as Legal and Reputational Sabotage  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
-*How coerced or fabricated narratives of affection are used to discredit witnesses, survivors, and whistle-blowers.*
+**First created:** 2025-10-26 | **Last updated:** 2025-11-23  
+*How coerced or fabricated narratives of affection are used to discredit witnesses, survivors, and whistle-blowers.*  
 
 ---
 
@@ -95,12 +95,13 @@ manufactured intimacy, romantic framing, reputational sabotage, witness credibil
 It documents how emotional framing can be weaponised to erode credibility and obscure systemic misconduct.  
 Recognising and recording context protects both truth and testimony.
 
-> 📡  Cross-references:  
-> - [🧿 Escalation Through Impersonation and Institutional Breach](./🧿_escalation_through_impersonation_and_institutional_breach.md)  
-> - [🌀 Containment Under Observation](./🌀_containment_under_observation.md)  
-> - [🎙️ Unconsented Voice Beta](./🎙️_unconsented_voice_beta.md)  
-> - [🧠 Misclassifying Intellectual Intimacy](./🧠_misclassifying_intellectual_intimacy.md)
+> 📡  Cross-references:
+> 
+> - [🧿 Escalation Through Impersonation and Institutional Breach]  
+> - [🌀 Containment Under Observation]  
+> - [🎙️ Unconsented Voice Beta]  
+> - [🧠 Misclassifying Intellectual Intimacy]  
 
 *Survivor authorship is sovereign. Context is defence.*
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-11-23_
