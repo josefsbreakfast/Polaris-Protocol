@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:50:36 UTC_
+_Generated on 2025-11-23 01:51:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3057,6 +3057,7 @@ _Generated on 2025-11-23 01:50:36 UTC_
     - [`🧮_pips_yellis_data_ecosystem.md`](Polaris_Nest/Git_Intake_Drawer/🧮_pips_yellis_data_ecosystem.md)
     - [`🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md`](Polaris_Nest/Git_Intake_Drawer/🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md)
     - [`🧮_twinning_as_visibility_elevation.md`](Polaris_Nest/Git_Intake_Drawer/🧮_twinning_as_visibility_elevation.md)
+    - [`🧯_emotional_misclassification_as_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧯_emotional_misclassification_as_radicalisation.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧯_prevent_as_political_atomisation_engine.md`](Polaris_Nest/Git_Intake_Drawer/🧯_prevent_as_political_atomisation_engine.md)
     - [`🧯_signs_your_brain_is_tired_because_society_is_batshit.md`](Polaris_Nest/Git_Intake_Drawer/🧯_signs_your_brain_is_tired_because_society_is_batshit.md)
