@@ -1,6 +1,6 @@
 # 🐾 Greyhound Networks and Collective Pattern Recognition  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*When one runner spots another, the whole field moves.*
+**First created:** 2025-11-08 | **Last updated:** 2025-11-23  
+*When one runner spots another, the whole field moves.*  
 
 ---
 
@@ -76,4 +76,4 @@ It records how high-friction minds, once isolated, recognise each other through 
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-11-23_
