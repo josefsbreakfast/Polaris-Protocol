@@ -1,6 +1,6 @@
-# 💞 Queer Theory as Relational Literacy
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*Queer theory as everyday emotional and structural competence.*
+# 💞 Queer Theory as Relational Literacy  
+**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+*Queer theory as everyday emotional and structural competence.*  
 
 ---
 
@@ -39,7 +39,9 @@ Polaris’ dual-register system—undertone + forensic clarity—mirrors queer e
 ---
 
 ## 🌌 Constellations
-💞 🫶 🧿 🌹 — care, negotiation, emotional maintenance.
+💞 🫶 🧿 🌹 — care, negotiation, emotional maintenance.  
+
+---
 
 ## ✨ Stardust
 queer theory, relational ethics, emotional literacy, boundaries, consent, family life, survivor voice
@@ -50,8 +52,9 @@ queer theory, relational ethics, emotional literacy, boundaries, consent, family
 *💞 Queer Theory as Relational Literacy* is a relational-ethics node of the Polaris Protocol.  
 It positions queer theory as foundational to sustainable human connection.
 
-> 📡 Cross-references:  
-> - [📿 Strength as Gihasta](./📿_strength_as_gihasta.md)
+> 📡 Cross-references:
+> 
+> - [📿 Strength as Gihasta]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-23_
