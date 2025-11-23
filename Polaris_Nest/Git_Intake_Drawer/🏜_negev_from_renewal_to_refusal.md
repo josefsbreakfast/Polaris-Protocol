@@ -1,5 +1,5 @@
 # 🏜 Negev — From Renewal to Refusal  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-23  
 *Desert myth turned carceral geography.*
 
 ---
@@ -15,4 +15,4 @@ Explores inversion of “making the desert bloom” into “burying evidence in 
 It examines landscape as ideological mirror and moral test site.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-23_
