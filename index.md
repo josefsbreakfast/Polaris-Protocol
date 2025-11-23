@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:28:33 UTC_
+_Generated on 2025-11-23 01:29:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3005,6 +3005,7 @@ _Generated on 2025-11-23 01:28:33 UTC_
     - [`🧬_multiyear_pipeline_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_multiyear_pipeline_architecture.md)
     - [`🧬_nonlinear_intelligence_and_asynchrony.md`](Polaris_Nest/Git_Intake_Drawer/🧬_nonlinear_intelligence_and_asynchrony.md)
     - [`🧬_post_digital_data_world.md`](Polaris_Nest/Git_Intake_Drawer/🧬_post_digital_data_world.md)
+    - [`🧬_proto_secret_police_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_proto_secret_police_architecture.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_signal_steering.md`](Polaris_Nest/Git_Intake_Drawer/🧬_signal_steering.md)
     - [`🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md`](Polaris_Nest/Git_Intake_Drawer/🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)
