@@ -1,5 +1,5 @@
-# 💔 On Having to Announce One’s Goodness
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+# 💔 On Having to Announce One’s Goodness  
+**First created:** 2025-11-06 | **Last updated:** 2025-11-23  
 *When risk systems mistake depth for danger, survival becomes self-narration.*  
 
 ---
@@ -44,11 +44,12 @@ risk systems, self narration, moral audit, algorithmic suspicion, survivor psych
 *💔 On Having to Announce One’s Goodness* is a living node of the Polaris Protocol.  
 It records the affective toll of governance by suspicion and the small rebellion of remaining complex.  
 
-> 📡 Cross-references:  
-> - [🌌 Am I Still Too “Pro-Russia” to Be British?](../Letters_to_Stars/🌌_am_i_still_too_pro_russia_to_be_british.md) — cultural identity letter  
-> - [🎛️ Drafting Rules Cluster — Survivor Voice Fidelity](../Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md) — tone governance  
-> - [🔥 Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🔥_Suppression_as_Signal.md) — systemic context  
+> 📡 Cross-references:
+> 
+> - [🌌 Am I Still Too “Pro-Russia” to Be British?] — *cultural identity letter*  
+> - [🎛️ Drafting Rules Cluster — Survivor Voice Fidelity] — *tone governance*  
+> - [🔥 Suppression as Signal] — *systemic context*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-23_
