@@ -1,5 +1,5 @@
 # 🏛️ How States Weaponise IHRA
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13
+**First created:** 2025-11-13 | **Last updated:** 2025-11-23  
 *How governments misuse trauma-informed definitions to suppress critique.*
 
 ## 🛰️ Orientation
@@ -22,4 +22,4 @@ ihra, state misuse, antisemitism, censorship
 *How States Weaponise IHRA* is a living Polaris node.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
-_Last updated: 2025-11-13_
+_Last updated: 2025-11-23_
