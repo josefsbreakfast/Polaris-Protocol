@@ -1,6 +1,6 @@
 # 🐺 Wolf of Westminster  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How extremist movements launder themselves through respectability—and why Westminster is the perfect stage.*
+**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
+*How extremist movements launder themselves through respectability—and why Westminster is the perfect stage.*  
 
 ---
 
@@ -110,3 +110,5 @@ extremism camouflage, westminster, natcon, respectability laundering, deradicali
 ## 🏮 Footer  
 *🐺 Wolf of Westminster* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-11-23_
