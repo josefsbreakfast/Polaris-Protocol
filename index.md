@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:29:21 UTC_
+_Generated on 2025-11-23 01:30:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2838,6 +2838,7 @@ _Generated on 2025-11-23 01:29:21 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧊_the_bunker_has_no_vibes.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_bunker_has_no_vibes.md)
     - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
+    - [`🧊_the_inversion_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_inversion_problem.md)
     - [`🧊_visibility_indexing_in_thin_data_worlds.md`](Polaris_Nest/Git_Intake_Drawer/🧊_visibility_indexing_in_thin_data_worlds.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧙‍♀️_witch_logic_diagnostic.md`](Polaris_Nest/Git_Intake_Drawer/🧙‍♀️_witch_logic_diagnostic.md)
