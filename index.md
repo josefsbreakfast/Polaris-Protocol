@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:30:16 UTC_
+_Generated on 2025-11-23 01:32:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2564,6 +2564,7 @@ _Generated on 2025-11-23 01:30:16 UTC_
     - [`📉_erosion_of_legitimacy_loops.md`](Polaris_Nest/Git_Intake_Drawer/📉_erosion_of_legitimacy_loops.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📉_signal_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📉_signal_collapse.md)
+    - [`📉_why_ctsa2015_violated_every_iicsa_principle.md`](Polaris_Nest/Git_Intake_Drawer/📉_why_ctsa2015_violated_every_iicsa_principle.md)
     - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
