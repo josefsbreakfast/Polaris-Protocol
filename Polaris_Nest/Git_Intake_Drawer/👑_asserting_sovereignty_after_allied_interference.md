@@ -1,5 +1,5 @@
 # 👑 Asserting Sovereignty After Allied Interference  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-26 | **Last updated:** 2025-11-23  
 *How a Five Eyes or allied state reclaims jurisdiction when another partner’s operations breach its laws or harm its citizens.*  
 
 ---
