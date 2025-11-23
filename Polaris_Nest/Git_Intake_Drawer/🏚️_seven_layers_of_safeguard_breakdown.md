@@ -1,5 +1,5 @@
 # 🏚️ Seven Layers of Safeguard Breakdown  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
 *A structural diagnostic map of the sequential failures required for unethical, coercive, or harmful data and behavioural practices to become possible inside an institution.*
 
 ---
