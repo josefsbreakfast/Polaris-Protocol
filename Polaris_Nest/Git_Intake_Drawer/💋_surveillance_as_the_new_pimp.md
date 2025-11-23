@@ -1,6 +1,6 @@
 # 💋 Surveillance as the New Pimp  
-**First created:** 2025-10-19  |  **Last updated:** 2025-10-19  
-*How modern surveillance economies extract from bodies, voices, and souls — and why selling the vulnerable’s datasets is no less grotesque than selling people.*
+**First created:** 2025-10-19  |  **Last updated:** 2025-11-23  
+*How modern surveillance economies extract from bodies, voices, and souls — and why selling the vulnerable’s datasets is no less grotesque than selling people.*  
 
 ---
 
