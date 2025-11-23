@@ -1,5 +1,5 @@
 # 🐍 Algorithmic Hostage Logic  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
+**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
 *How systems trap their own stabilisers inside the hostility they diffuse.*
 
 ---
@@ -89,4 +89,4 @@ It exposes how engagement algorithms and bureaucratic reflexes trap their own st
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-23_
