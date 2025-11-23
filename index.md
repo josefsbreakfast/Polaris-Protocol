@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 02:03:11 UTC_
+_Generated on 2025-11-23 02:03:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2753,6 +2753,7 @@ _Generated on 2025-11-23 02:03:11 UTC_
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
     - [`🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md`](Polaris_Nest/Git_Intake_Drawer/🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md)
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
+    - [`🚨_risk_logic_creep.md`](Polaris_Nest/Git_Intake_Drawer/🚨_risk_logic_creep.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🚪_walk_out_scripts.md`](Polaris_Nest/Git_Intake_Drawer/🚪_walk_out_scripts.md)
