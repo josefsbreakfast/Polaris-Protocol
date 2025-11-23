@@ -1,5 +1,5 @@
 # 🐕‍🦺 Animal-Assisted Deradicalisation Pilots  
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-23  
 *Operant-conditioned companion animals as non-verbal stabilisers in early-stage deradicalisation, post-conflict reintegration, and VE-risk intervention.*
 
 ---
@@ -150,4 +150,4 @@ It maps how trauma-responsive animal-assisted methods intersect with deradicalis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-11-23_
