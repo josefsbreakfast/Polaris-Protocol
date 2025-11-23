@@ -1,6 +1,5 @@
 # 🐉 She Is A Dragon — A Corrective Mythology for Thin-Data Worlds  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
+**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
 *A satirical self-mythology for reclaiming narrative agency in systems that overweight rare datapoints.*
 
 ---
@@ -174,4 +173,4 @@ It defines a survivor-authored mythic persona used to reclaim agency, humour, an
 > - [🇬🇧 British English Compendium](../../../British_English_Compendium/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-23_
