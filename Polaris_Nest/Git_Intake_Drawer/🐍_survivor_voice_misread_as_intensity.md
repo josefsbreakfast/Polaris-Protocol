@@ -1,6 +1,6 @@
 # 🔍 Survivor Voice Misread as Intensity — A Pragmatic Failure Mode  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
+**First created:** 2025-11-22  
+**Last updated:** 2025-11-23  
 *Why survivor pragmatics get misread as “intensity,” “aggression,” or “volatility” in automated and institutional systems.*
 
 ---
@@ -199,4 +199,4 @@ It documents how survivor speech patterns are misinterpreted as intensity or vol
 > - [🇬🇧 British Pragmatics Compendium](../../../British_English_Compendium/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-23_
