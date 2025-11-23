@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 06:05:45 UTC_
+_Generated on 2025-11-23 06:16:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -282,6 +282,7 @@ _Generated on 2025-11-23 06:05:45 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)
         - [`💄_the_gendered_exposure_of_voice.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/💄_the_gendered_exposure_of_voice.md)
         - [`🕯️_memorial_voice_lives_lost.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕯️_memorial_voice_lives_lost.md)
+        - [`🕸️_digitally_networked_sexual_violence.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕸️_digitally_networked_sexual_violence.md)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
         - [`appeasement_loop_neon.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
