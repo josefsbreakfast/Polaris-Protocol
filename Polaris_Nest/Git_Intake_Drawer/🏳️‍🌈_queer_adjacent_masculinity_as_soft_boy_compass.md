@@ -1,6 +1,6 @@
 # 🏳️‍🌈 Queer-Adjacent Masculinity as Soft Boy Compass  
 **First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
+**Last updated:** 2025-11-23  
 *How queer-coded culture offers straight, soft, emotionally earnest men a roadmap back to themselves — and why queer masculinity has become the stabilising pole for post-radicalised identity reconstruction.*
 
 ---
@@ -226,4 +226,4 @@ It maps how queer-coded culture provides emotional modelling and relational safe
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-23_
