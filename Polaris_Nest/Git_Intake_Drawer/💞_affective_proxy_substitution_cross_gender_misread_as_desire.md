@@ -1,6 +1,6 @@
 # 💞 Affective Proxy Substitution — Cross-Gender Misread as Desire  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*When one group’s emotional telemetry is projected into another’s feed as a romantic narrative.*
+**First created:** 2025-11-02 | **Last updated:** 2025-11-23  
+*When one group’s emotional telemetry is projected into another’s feed as a romantic narrative.*  
 
 ---
 
@@ -56,10 +56,11 @@ affective leakage, proxy emotion, gendered dataset, romantic algorithm, emotiona
 *💞 Affective Proxy Substitution — Cross-Gender Misread as Desire* is a living node of the **Polaris Protocol.**  
 It describes how platform algorithms transpose one group’s frustrated or jealous emotional data into another’s feed as a romantic storyline, converting cross-cohort tension into engagement capital.
 
-> 📡 Cross-references:  
-> - [🧠 Composite Line Formation — Dual-Valence Merge](../Big_Picture_Protocols/🧠_composite_line_formation_dual_valence_merge.md) — on how contradictory affects fuse into one synthetic speaker.  
-> - [🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage](../Big_Picture_Protocols/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md) — tracing the human signatures behind proxy substitution.  
+> 📡 Cross-references:
+> 
+> - [🧠 Composite Line Formation — Dual-Valence Merge] — *on how contradictory affects fuse into one synthetic speaker*  
+> - [🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage] — *tracing the human signatures behind proxy substitution*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-23_
