@@ -1,6 +1,6 @@
 # 🐾 Sanctuary Island Project  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
-*Non-verbal co-regulation between rescued animals and humans in recovery.*
+**First created:** 2025-11-07 | **Last updated:** 2025-11-23  
+*Non-verbal co-regulation between rescued animals and humans in recovery.*  
 
 ---
 
@@ -60,9 +60,9 @@ It sketches a model for slow, interspecies repair — a sanctuary for beings who
 
 > 📡 Cross-references:
 > 
-> - [🧬 Survivor Tools](../Disruption_Kit/Survivor_Tools/) — *practical guides for slow repair*  
-> - [🧠 Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — *systemic analysis of institutional trauma*  
+> - [🧬 Survivor Tools] — *practical guides for slow repair*  
+> - [🧠 Big Picture Protocols] — *systemic analysis of institutional trauma*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-23_
