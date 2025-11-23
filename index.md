@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:53:25 UTC_
+_Generated on 2025-11-23 01:54:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3163,6 +3163,7 @@ _Generated on 2025-11-23 01:53:25 UTC_
     - [`🪩_weaponised_joy.md`](Polaris_Nest/Git_Intake_Drawer/🪩_weaponised_joy.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
+    - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Polaris_Nest/Git_Intake_Drawer/🪫_why_we_cannot_know_who_prevent_targets.md)
     - [`🪬_ihra_vs_jda.md`](Polaris_Nest/Git_Intake_Drawer/🪬_ihra_vs_jda.md)
     - [`🪶_language_as_smuggled_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🪶_language_as_smuggled_plurality.md)
     - [`🪼_prevent_the_alt_right_weapon.md`](Polaris_Nest/Git_Intake_Drawer/🪼_prevent_the_alt_right_weapon.md)
