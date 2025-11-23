@@ -1,5 +1,5 @@
 # 🏛️ Respectability Laundering  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
 *How extremist ideology borrows the clothing, tone, and spaces of Westminster to disguise and legitimise itself.*
 
 ---
