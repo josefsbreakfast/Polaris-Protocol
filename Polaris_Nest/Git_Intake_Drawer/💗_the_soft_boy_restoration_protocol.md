@@ -1,7 +1,6 @@
 # 💗 The Soft Boy Restoration Protocol  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*A framework for returning misclassified, shame-wounded, algorithmically captured men back to their original emotional architecture.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-23  
+*A framework for returning misclassified, shame-wounded, algorithmically captured men back to their original emotional architecture.*  
 
 ---
 
@@ -199,14 +198,15 @@ This is restoration.
 ---
 
 ## 🏮 Footer  
-**The Soft Boy Restoration Protocol** is a living node of the Polaris Protocol.  
+*The Soft Boy Restoration Protocol* is a living node of the Polaris Protocol.  
 It provides a structured, emotional, survivor-informed process for guiding men out of coercive identities and back into the gentleness they were born for.
 
-> 📡 Cross-references:  
-> - [🔥 Shame as the Master Key of Fascist Manipulation](./shame_as_the_master_key_of_fascist_manipulation.md)  
-> - [🧬 Structural Vulnerability of Soft Boys](./structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)  
-> - [🧿 The Tech Bro → Kylo Ren Pipeline](./the_tech_bro_to_kylo_ren_pipeline.md)
+> 📡 Cross-references:
+> 
+> - [🔥 Shame as the Master Key of Fascist Manipulation]  
+> - [🧬 Structural Vulnerability of Soft Boys]  
+> - [🧿 The Tech Bro → Kylo Ren Pipeline]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-23_
