@@ -1,7 +1,9 @@
 # 💇‍♀️ The Dumb Blonde Protocol  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*How the “dumb blonde” became patriarchy’s favourite containment spell — and how women learned to weaponise it.*
-<!--G-d please can you make me a man next time. I would like to see just how much of this is testosterone, and just how much of this is the socialisation into overconfidence and stupidity. See also the endless questions of "gamer girls" and the pathological need to undermine their "knowledge" of games in purity testing "20 questions of niche fandom lore". Get. A. Life.-->
+**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
+*How the “dumb blonde” became patriarchy’s favourite containment spell — and how women learned to weaponise it.*  
+<!--G-d please can you make me a man next time. I would like to see just how much of this is testosterone, and just how much of this is the socialisation into overconfidence and stupidity.  
+See also the endless questions of "gamer girls" and the pathological need to undermine their "knowledge" of games in purity testing "20 questions of niche fandom lore".  
+Get. A. Life.-->
 ---
 
 ## 🧭 Orientation  
@@ -164,10 +166,11 @@ dumb blonde, courtesans, Marilyn Monroe, Paris Hilton, performance, containment,
 *The Dumb Blonde Protocol* is a living node of the Polaris Protocol.  
 It traces the evolution of a containment myth into a strategic tool — from satire to spectacle to self-sovereignty.  
 
-> 📡 Cross-references:  
-> - [🪄 Expression of Norms](../🪄_Expression_Of_Norms/) — how identity scripts are written and inverted  
-> - [🎛️ Pocket Rules — Survivor Voice Fidelity](../../🎛️_pocket_rules_survivor_voice_fidelity.md) — maintaining undertone integrity  
+> 📡 Cross-references:
+> 
+> - [🪄 Expression of Norms] — *how identity scripts are written and inverted*  
+> - [🎛️ Pocket Rules — Survivor Voice Fidelity] — *maintaining undertone integrity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-23_
