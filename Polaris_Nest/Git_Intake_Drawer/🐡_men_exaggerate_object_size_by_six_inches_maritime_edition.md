@@ -1,8 +1,6 @@
-File: 🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md
-
 # 🐡 Men Exaggerate Object Size by Six Inches (Maritime Edition)  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*A Polaris comedic-anthropological analysis of why sailors consistently exaggerated the size of sea creatures, ship damage, threats, and “things encountered at sea” — and how this behaviour helped create the Kraken myth.*
+**First created:** 2025-11-19 | **Last updated:** 2025-11-23  
+*A Polaris comedic-anthropological analysis of why sailors consistently exaggerated the size of sea creatures, ship damage, threats, and “things encountered at sea” — and how this behaviour helped create the Kraken myth.*  
 
 ---
 
@@ -175,3 +173,5 @@ Crosslinks:
 - 🍻 *gullivar_syndrome_why_sailors_keep_washing_up_drunk*  
 - 🦑 *kraken-based_defence_budget_satire*  
 - 🚢 *royal_navy_and_the_myth_of_underwater_threats*
+
+_Last updated: 2025-11-23_
