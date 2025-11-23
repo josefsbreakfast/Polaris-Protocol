@@ -1,5 +1,5 @@
 # 🐍 Ambidextrous Authoritarian Recruitment  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
 *How authoritarian movements recruit from any direction by offering customised stories.*
 
 ---
@@ -74,4 +74,4 @@ authoritarianism, fascist logic, recruitment, crisis, identity hunger, narrative
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-11-23_
