@@ -1,5 +1,5 @@
 # 👁‍🗨️ The Boundary as Border
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-11-23  
 *How women’s boundaries are interpreted as territorial defiance — especially through racialised and colonial masculinity.*
 
 ---
@@ -235,4 +235,5 @@ It describes how women's limits become misinterpreted as political resistance, t
 > - 🛰️ Threat Escalation Pipeline (Racialised Gender)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-11-23_
