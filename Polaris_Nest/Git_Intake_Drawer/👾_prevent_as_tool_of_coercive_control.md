@@ -1,4 +1,4 @@
-👾 PREVENT as Tool for Coercive Control  
+# 👾 PREVENT as Tool for Coercive Control  
 **First created:** 2025-11-18 | **Last updated:** 2025-11-23  
 *How individuals can exploit PREVENT’s structural weaknesses to intimidate, destabilise, or silence others.*  
 
