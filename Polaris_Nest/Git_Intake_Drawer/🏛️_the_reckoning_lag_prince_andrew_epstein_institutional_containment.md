@@ -1,5 +1,5 @@
 # 🏛️ The Reckoning Lag — Prince Andrew, Epstein, and Institutional Containment  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2025-11-23  
 *Public testimony always arrives years after everyone already knew.*
 
 ---
@@ -61,4 +61,4 @@ It tracks how public institutions choreograph the pace of admission, converting 
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-11-23_
