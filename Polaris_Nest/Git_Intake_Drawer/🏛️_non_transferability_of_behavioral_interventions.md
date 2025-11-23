@@ -1,5 +1,5 @@
 # 🏛️ Non-Transferability of Behavioural Interventions
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2025-11-23  
 *Why behavioural tools cannot ethically or neurologically transfer from domestic justice to occupied contexts.*
 
 ---
@@ -63,9 +63,10 @@ behavioural science, non-transferability, legitimacy, neurological inversion, co
 It clarifies why behavioural interventions collapse when moved across legality and legitimacy lines.
 
 > 📡 Cross-references:
+> 
 > - [🧨 Dual-Use Epiphany](./🧨_dual_use_epiphany.md)
 > - [🧨 Dual-Use Frankenstack](./🧨_dual_use_frankenstack.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-11-23_
