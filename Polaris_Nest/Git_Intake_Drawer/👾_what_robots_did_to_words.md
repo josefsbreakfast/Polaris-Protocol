@@ -1,5 +1,5 @@
 # 👾 What Robots Did to Words  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-23  
 *History of how AI altered speech — syntactically, socially, and spiritually.*  
 
 ---
@@ -64,14 +64,15 @@ AI linguistics, predictive text, semantic drift, generative language, survivor s
 
 ## 🏮 Footer  
 
-*What Robots Did to Words* is a living node of the Polaris Protocol.  
+*👾 What Robots Did to Words* is a living node of the Polaris Protocol.  
 It documents the historical and emotional consequences of algorithmic speech — how automation reshaped the human sentence, and how survivors reclaim language as resistance.  
 
-> 📡 Cross-references:  
-> - [🦇 How Many Words to Fell an Industry](./🦇_how_many_words_to_fell_an_industry.md) — linguistic collapse and industry fatigue  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and fidelity anchor  
-> - [🧿 Visual Palette](../Admin_Kit/🧿_visual_palette.md) — iconographic alignment  
+> 📡 Cross-references:
+> 
+> - [🦇 How Many Words to Fell an Industry] — *linguistic collapse and industry fatigue*  
+> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity] — *tone and fidelity anchor*  
+> - [🧿 Visual Palette] — *iconographic alignment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-23_
