@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 21:32:40 UTC_
+_Generated on 2025-11-23 22:28:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2327,6 +2327,7 @@ _Generated on 2025-11-23 21:32:40 UTC_
     - [`Structural_Survivorship_in_Multi-Agency_Environments.md`](Polaris_Nest/Git_Intake_Drawer/Structural_Survivorship_in_Multi-Agency_Environments.md)
     - [`When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md`](Polaris_Nest/Git_Intake_Drawer/When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
+    - [`book_of_esther_foi_edition.md`](Polaris_Nest/Git_Intake_Drawer/book_of_esther_foi_edition.md)
     - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Polaris_Nest/Git_Intake_Drawer/deliberate_small_suppression_later_release_reciprocity_blowback.png)
     - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
@@ -2692,6 +2693,7 @@ _Generated on 2025-11-23 21:32:40 UTC_
     - [`🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md)
     - [`🕍_jewish_trauma_literacy_for_non_jewish_audiences.md`](Polaris_Nest/Git_Intake_Drawer/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)
     - [`🕍_shared_language_for_shared_warnings.md`](Polaris_Nest/Git_Intake_Drawer/🕍_shared_language_for_shared_warnings.md)
+    - [`🕎_esther_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🕎_esther_protocol.md)
     - [`🕎_jewish_conscience_anti_racist_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_conscience_anti_racist_governance.md)
     - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
     - [`🕯_the_audit_log_does_not_sleep.md`](Polaris_Nest/Git_Intake_Drawer/🕯_the_audit_log_does_not_sleep.md)
