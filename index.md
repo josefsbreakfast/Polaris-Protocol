@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 21:14:46 UTC_
+_Generated on 2025-11-23 21:17:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -490,6 +490,7 @@ _Generated on 2025-11-23 21:14:46 UTC_
           - [`🫧_the_bleurgh_principle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫧_the_bleurgh_principle.md)
         - [**🥨_Bread_No_Roses/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/README.md)
+          - [`🍉_hunger_strikes_in_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🍉_hunger_strikes_in_2025.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/README.md)
       - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/)
         - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/)
