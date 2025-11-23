@@ -1,6 +1,6 @@
 # 👾 Post-Carceral-Era Counter-Extremism  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*What counter-extremism must become in a world where the old policing paradigm has lost legitimacy — and the public will no longer tolerate carceral logic disguised as safeguarding.*
+**First created:** 2025-11-17 | **Last updated:** 2025-11-23  
+*What counter-extremism must become in a world where the old policing paradigm has lost legitimacy — and the public will no longer tolerate carceral logic disguised as safeguarding.*  
 
 ---
 
@@ -220,4 +220,4 @@ It outlines what counter-extremism must become after the collapse of carceral le
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-23_
