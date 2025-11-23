@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:43:41 UTC_
+_Generated on 2025-11-23 01:44:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2948,6 +2948,7 @@ _Generated on 2025-11-23 01:43:41 UTC_
     - [`🧩_mirror_cluster_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧩_mirror_cluster_effects.md)
     - [`🧩_myth_vs_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧩_myth_vs_mechanism.md)
     - [`🧩_perpetrator_competence_and_system_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_perpetrator_competence_and_system_harm.md)
+    - [`🧩_policy_capture_quilliam_ctsa2015.md`](Polaris_Nest/Git_Intake_Drawer/🧩_policy_capture_quilliam_ctsa2015.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
     - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧩_risk_vector_inversions_in_authoritarian_systems.md)
