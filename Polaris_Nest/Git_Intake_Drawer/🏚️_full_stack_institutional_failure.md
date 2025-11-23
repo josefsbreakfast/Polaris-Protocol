@@ -1,5 +1,5 @@
 # 🏚️ Full-Stack Institutional Failure: How Bad Ideas Become Thinkable  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
 *The layered organisational breakdown required for unethical behavioural research or coercive data practices to become conceivable, permissible, or silently normalised.*
 
 ---
