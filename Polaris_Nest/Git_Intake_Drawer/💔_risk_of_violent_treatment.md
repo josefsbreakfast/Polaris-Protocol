@@ -1,5 +1,5 @@
 # 💔 Risk of Violent Treatment  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-15  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-23  
 *Forensic reflection on institutional profiling, survivor safety, and systemic retraumatisation.*  
 
 ---
@@ -49,4 +49,4 @@ It belongs to *Everyday Containment*, mapping how ordinary administrative gaps b
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2025-11-23_
