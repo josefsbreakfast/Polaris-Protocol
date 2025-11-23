@@ -1,6 +1,6 @@
 # 👁 Narrative Inversion After Boundary-Setting
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How a woman’s boundary becomes rewritten as hostility, instability, or threat—particularly for racialised women.*
+**First created:** 2025-11-20 | **Last updated:** 2025-11-23  
+*How a woman’s boundary becomes rewritten as hostility, instability, or threat—particularly for racialised women.*  
 
 ---
 
@@ -212,4 +212,5 @@ It describes one of the first and most powerful moves in gendered containment: t
 > - 🪓 Vindictive Male Escalation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-11-23_
