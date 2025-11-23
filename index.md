@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:33:26 UTC_
+_Generated on 2025-11-23 01:34:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3064,6 +3064,7 @@ _Generated on 2025-11-23 01:33:26 UTC_
     - [`🧱_predation_logic_vulnerability_power_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧱_predation_logic_vulnerability_power_targeting.md)
     - [`🧱_reconstruction_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧱_reconstruction_logic.md)
     - [`🧱_rise_of_algorithmic_safety_in_the_uk_internet.md`](Polaris_Nest/Git_Intake_Drawer/🧱_rise_of_algorithmic_safety_in_the_uk_internet.md)
+    - [`🧱_safeguarding_vs_secret_governance.md`](Polaris_Nest/Git_Intake_Drawer/🧱_safeguarding_vs_secret_governance.md)
     - [`🧱_transparent_guardrail_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_transparent_guardrail_design.md)
     - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🧱_trickle_down_impunity.md)
     - [`🧱_uk_gov_stacks.md`](Polaris_Nest/Git_Intake_Drawer/🧱_uk_gov_stacks.md)
