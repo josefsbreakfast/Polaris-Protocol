@@ -1,6 +1,6 @@
 # 🐈 Kylo Ren as Algorithmically Misclassified Softboy  
 **First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
+**Last updated:** 2025-11-23  
 *On how a tender, neurotic, Tumblr-coded softboy was shoved into the role of fascist heir by narrative misclassification — mirroring real-world algorithmic identity errors.*
 
 ---
@@ -207,4 +207,4 @@ It offers a narrative analogy for misclassification, coercion, and the emotional
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-23_
