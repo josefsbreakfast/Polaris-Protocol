@@ -1,6 +1,6 @@
-# 💠 Respectability Containment Constellation
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07
-*Interlinked diagnostic set tracing how ideology, whiteness, and professional ethics reinforce one another to contain dissent.*
+# 💠 Respectability Containment Constellation  
+**First created:** 2025-11-07 | **Last updated:** 2025-11-23  
+*Interlinked diagnostic set tracing how ideology, whiteness, and professional ethics reinforce one another to contain dissent.*  
 
 ---
 
@@ -16,9 +16,9 @@ When survivors or dissenters refuse, they encounter twinning, deracialisation, a
 
 | Node | Focus | Key Diagnostic |
 |------|--------|----------------|
-| [🧱 Ideological Loyalty as Pyramid Scheme](../🧱_ideological_loyalty_as_pyramid_scheme.md) | Virtue-trading & access economies | Moral capital traded as currency |
-| [🪞 Conditional Whiteness and Twinning as Containment](../🪞_conditional_whiteness_and_twinning_as_containment.md) | Racial coding & oppositional pairing | Dissent recoded as racialised otherness |
-| [⚖️ Respectability Containment in Professional Ethics](../⚖️_respectability_containment_in_professional_ethics.md) | Tone, civility & professional gatekeeping | Ethics as suppression architecture |
+| [🧱 Ideological Loyalty as Pyramid Scheme](./🧱_ideological_loyalty_as_pyramid_scheme.md) | Virtue-trading & access economies | Moral capital traded as currency |
+| [🪞 Conditional Whiteness and Twinning as Containment](./🪞_conditional_whiteness_and_twinning_as_containment.md) | Racial coding & oppositional pairing | Dissent recoded as racialised otherness |
+| [⚖️ Respectability Containment in Professional Ethics](./⚖️_respectability_containment_in_professional_ethics.md) | Tone, civility & professional gatekeeping | Ethics as suppression architecture |
 
 ---
 
@@ -48,10 +48,11 @@ respectability politics, professional ethics, containment, ideological loyalty, 
 *Respectability Containment Constellation* is a living constellation of the Polaris Protocol.  
 It unites three diagnostic nodes tracing how professional virtue, racialised respectability, and ideological loyalty sustain containment architectures across British institutions.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../) — systemic diagnostic frameworks  
-> - [Survivor Tools](../../Survivor_Tools/) — countermeasures and refusal practices  
+> 📡 Cross-references:
+> 
+> - [Big Picture Protocols] — *systemic diagnostic frameworks*  
+> - [Survivor Tools] — *countermeasures and refusal practices*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-11-23_
