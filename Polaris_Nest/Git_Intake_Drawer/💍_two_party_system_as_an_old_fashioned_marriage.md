@@ -1,6 +1,6 @@
 # 💍 Two-Party System as an Old-Fashioned Marriage  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*Why Labour and the Conservatives function like a compulsory marriage contract — and what breaks when either partner abandons their role.*
+**First created:** 2025-11-17 | **Last updated:** 2025-11-23  
+*Why Labour and the Conservatives function like a compulsory marriage contract — and what breaks when either partner abandons their role.*  
 
 ---
 
@@ -124,20 +124,25 @@ And when both partners forget their duties, the roof caves in.
 ---
 
 ## 🌌 Constellations  
-🧭 💍 🧩 — constitutional roles, political homeostasis, relational governance.
+🧭 💍 🧩 — constitutional roles, political homeostasis, relational governance.  
+
+---
 
 ## ✨ Stardust  
-two-party system, constitutional marriage, political homeostasis, role collapse, structural metaphors, stabilisation logic
+two-party system, constitutional marriage, political homeostasis, role collapse, structural metaphors, stabilisation logic  
+
+---
 
 ## 🏮 Footer  
 *Two-Party System as an Old-Fashioned Marriage* is a living node of the Polaris Protocol.  
 It supports the **Big Picture Protocols** cluster by mapping interdependent party roles and systemic stability conditions.
 
-> 📡 Cross-references:  
-> - [🟥 Labour as the Alternative to Revolution](./🟥_Labour_as_the_Alternative_to_Revolution.md)  
-> - [🟦 Conservatives as the Counterbalance to Radical Change](./🟦_Conservatives_as_the_Counterbalance_to_Radical_Change.md)  
-> - [🧭 Political Homeostasis](../Big_Picture_Protocols/🧭_Political_Homeostasis/)
+> 📡 Cross-references:
+> 
+> - [🟥 Labour as the Alternative to Revolution]  
+> - [🟦 Conservatives as the Counterbalance to Radical Change]  
+> - [🧭 Political Homeostasis]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-23_
