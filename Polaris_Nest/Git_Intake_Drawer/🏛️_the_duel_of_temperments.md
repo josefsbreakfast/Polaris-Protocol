@@ -1,5 +1,5 @@
 # ⚖️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments  
-**First created:** 2025-10-23  |  **Last updated:** 2025-10-23  
+**First created:** 2025-10-23  |  **Last updated:** 2025-11-23  
 *How moral authority and charisma became racialised archetypes.*
 
 ---
@@ -71,4 +71,4 @@ It reframes a century of racialised comparison as a study in archetypal style, s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-23_
