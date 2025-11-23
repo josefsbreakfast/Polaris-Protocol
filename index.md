@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:48:14 UTC_
+_Generated on 2025-11-23 01:49:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2897,6 +2897,7 @@ _Generated on 2025-11-23 01:48:14 UTC_
     - [`🧠_the_continuum_of_authoritarian_drift.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_continuum_of_authoritarian_drift.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
+    - [`🧠_white_immunity_blindspot.md`](Polaris_Nest/Git_Intake_Drawer/🧠_white_immunity_blindspot.md)
     - [`🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md)
     - [`🧨_accidental_soft_infiltration_of_early_labour_movements.md`](Polaris_Nest/Git_Intake_Drawer/🧨_accidental_soft_infiltration_of_early_labour_movements.md)
     - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
