@@ -1,5 +1,5 @@
 # 👾 Bad Algorithms, Good Data  
-**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑15  
+**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑23  
 *How mediocre models inherit institutional authority.*  
 
 ---
@@ -100,4 +100,4 @@ It offers a conceptual framework for diagnosing false precision and prescribing 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑15_
+_Last updated: 2025‑11‑23_
