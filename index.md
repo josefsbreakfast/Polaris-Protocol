@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 02:02:10 UTC_
+_Generated on 2025-11-23 02:03:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3124,6 +3124,7 @@ _Generated on 2025-11-23 02:02:10 UTC_
     - [`🧿_survivor_credibility_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧿_survivor_credibility_loops.md)
     - [`🧿_targeted_metadata_capture_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_targeted_metadata_capture_in_prevent.md)
     - [`🧿_the_tech_bro_to_kylo_ren_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧿_the_tech_bro_to_kylo_ren_pipeline.md)
+    - [`🧿_trauma_misread_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_trauma_misread_prevent.md)
     - [`🧿_triangulation_via_anonymous_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🧿_triangulation_via_anonymous_metadata.md)
     - [`🧿_uk_hard_to_model_easy_to_manipulate.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_hard_to_model_easy_to_manipulate.md)
     - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
