@@ -1,6 +1,6 @@
 # 🐺 Wolf in Westminster Clothing  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How extremist ideology disguises itself inside Westminster aesthetics.*
+**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
+*How extremist ideology disguises itself inside Westminster aesthetics.*  
 
 ---
 
@@ -80,3 +80,5 @@ wolf of westminster, extremism semiotics, respectability laundering, british est
 ## 🏮 Footer  
 *🐺 Wolf in Westminster Clothing* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-11-23_
