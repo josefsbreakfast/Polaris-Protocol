@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 02:06:27 UTC_
+_Generated on 2025-11-23 02:07:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2762,6 +2762,7 @@ _Generated on 2025-11-23 02:06:27 UTC_
     - [`🛂_hidden_prevent_unseen_side.md`](Polaris_Nest/Git_Intake_Drawer/🛂_hidden_prevent_unseen_side.md)
     - [`🛂_misuse_of_safeguarding_through_gendered_prejudice.md`](Polaris_Nest/Git_Intake_Drawer/🛂_misuse_of_safeguarding_through_gendered_prejudice.md)
     - [`🛂_police_interface_distortion_from_parental_risk_profile.md`](Polaris_Nest/Git_Intake_Drawer/🛂_police_interface_distortion_from_parental_risk_profile.md)
+    - [`🛑_prevent_is_not_safeguarding.md`](Polaris_Nest/Git_Intake_Drawer/🛑_prevent_is_not_safeguarding.md)
     - [`🛑_rabbinic_silence_as_theological_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🛑_rabbinic_silence_as_theological_collapse.md)
     - [`🛠️_fixing_the_uk_algorithmic_safety_stack.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_fixing_the_uk_algorithmic_safety_stack.md)
     - [`🛠️_frankenstack_failure_modes_public_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_frankenstack_failure_modes_public_systems.md)
