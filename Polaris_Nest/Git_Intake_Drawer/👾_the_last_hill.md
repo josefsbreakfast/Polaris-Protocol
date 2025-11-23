@@ -1,6 +1,6 @@
 # 🧠 The Last Hill — Un-Concedable Terrains of Ego  
 **First created:** 2025-10-23 | **Last updated:** 2025-11-23  
-*Where gentleness ends and pride begins.*
+*Where gentleness ends and pride begins.*  
 
 ---
 
@@ -66,11 +66,12 @@ ego, fragility, intellect, pride, humility, awareness, reflex, kindness, virtue,
 *🧠 The Last Hill — Un-Concedable Terrains of Ego* is a living node of the Polaris Protocol.  
 It documents how pride and softness coexist, and how intellect remains the final frontier of surrender.  
 
-> 📡 Cross-references:  
-> – [🌱 Guerrilla Gardening — The Lawful Illegality of Care](../🎶_Banned_Broadcasts_Cooperative/🌱_guerrilla_gardening_the_lawful_illegality_of_care.md)  
-> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk_the_acoustic_afterlife_of_derelict_structures.md)  
-> – [🏛 R.A.A.C. — Ruins and Architectural Committee](../🎶_Banned_Broadcasts_Cooperative/🏛_r.a.a.c_ruins_and_architectural_committee.md)
+> 📡 Cross-references:
+> 
+> – [🌱 Guerrilla Gardening — The Lawful Illegality of Care]  
+> – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures]  
+> – [🏛 R.A.A.C. — Ruins and Architectural Committee]
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-11-23_
