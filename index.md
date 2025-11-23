@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 20:36:18 UTC_
+_Generated on 2025-11-23 20:36:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2521,7 +2521,6 @@ _Generated on 2025-11-23 20:36:18 UTC_
     - [`👾_prevent_misreads.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads.md)
     - [`👾_prevent_misreads_the_poors.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads_the_poors.md)
     - [`👾_prevent_plausible_deniability_rhetoric.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_plausible_deniability_rhetoric.md)
-    - [`👾_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_last_hill.md)
     - [`👾_we_are_citizens_not_datasets.md`](Polaris_Nest/Git_Intake_Drawer/👾_we_are_citizens_not_datasets.md)
     - [`👾_what_robots_did_to_words.md`](Polaris_Nest/Git_Intake_Drawer/👾_what_robots_did_to_words.md)
     - [`💃_cultural_charisma_as_governance_tool.md`](Polaris_Nest/Git_Intake_Drawer/💃_cultural_charisma_as_governance_tool.md)
@@ -2916,6 +2915,7 @@ _Generated on 2025-11-23 20:36:18 UTC_
     - [`🧠_the_black_box_of_executive_power.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_black_box_of_executive_power.md)
     - [`🧠_the_cognitive_vulnerability_stack_of_lonely_men.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)
     - [`🧠_the_continuum_of_authoritarian_drift.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_continuum_of_authoritarian_drift.md)
+    - [`🧠_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_last_hill.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
     - [`🧠_white_immunity_blindspot.md`](Polaris_Nest/Git_Intake_Drawer/🧠_white_immunity_blindspot.md)
