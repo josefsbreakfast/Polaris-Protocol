@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:57:19 UTC_
+_Generated on 2025-11-23 01:58:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2768,6 +2768,7 @@ _Generated on 2025-11-23 01:57:19 UTC_
     - [`🛠️_the_post_alt_right_maintenance_kit.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_the_post_alt_right_maintenance_kit.md)
     - [`🛡_never_build_opaque_risk_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛡_never_build_opaque_risk_systems.md)
     - [`🛡_trusted_signals_checklist_male_allies.md`](Polaris_Nest/Git_Intake_Drawer/🛡_trusted_signals_checklist_male_allies.md)
+    - [`🛡_why_democracies_must_not_build_opaque_multiagency_risk_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛡_why_democracies_must_not_build_opaque_multiagency_risk_systems.md)
     - [`🛡️_constructed_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_constructed_immunity.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
     - [`🛡️_seven_layers_of_safeguard_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_seven_layers_of_safeguard_breakdown.md)
