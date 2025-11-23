@@ -1,5 +1,5 @@
 # 🐝 Post-Protofascist Reconstruction  
-**First created:** 2025-11-09 | **Last updated:** 2025-11-09  
+**First created:** 2025-11-09 | **Last updated:** 2025-11-23  
 *Practical civic recovery plans for the period after systemic capture.*
 
 ---
