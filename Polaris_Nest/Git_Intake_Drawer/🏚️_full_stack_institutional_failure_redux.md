@@ -1,5 +1,5 @@
 # 🏚️ Full-Stack Institutional Failure  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
 *What happens when identity-modelling errors, synthetic persona collapse, signal collapse, governance gaps, and vendor failures converge — causing the entire institution to lose the ability to understand its own data or behaviour.*
 
 ---
