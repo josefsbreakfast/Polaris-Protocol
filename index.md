@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-23 01:35:05 UTC_
+_Generated on 2025-11-23 01:42:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2967,6 +2967,7 @@ _Generated on 2025-11-23 01:35:05 UTC_
     - [`🧪_international_law_vs_safety_classifiers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_international_law_vs_safety_classifiers.md)
     - [`🧪_the_strategic_accuser_profile.md`](Polaris_Nest/Git_Intake_Drawer/🧪_the_strategic_accuser_profile.md)
     - [`🧪_the_wall_tester_type.md`](Polaris_Nest/Git_Intake_Drawer/🧪_the_wall_tester_type.md)
+    - [`🧪_think_tanks_and_their_funding_2010_2016.md`](Polaris_Nest/Git_Intake_Drawer/🧪_think_tanks_and_their_funding_2010_2016.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧫_the_default_on_being_unbroken.md`](Polaris_Nest/Git_Intake_Drawer/🧫_the_default_on_being_unbroken.md)
