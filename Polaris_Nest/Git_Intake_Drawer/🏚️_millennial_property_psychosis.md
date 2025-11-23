@@ -1,5 +1,5 @@
 # 🏚️ Millennial Property Psychosis (Everything Is Housing)  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-17 | **Last updated:** 2025-11-23  
 *Why millennials compulsively evaluate every empty building as potential housing — and what this reveals about generational trauma, class identity, and political behaviour.*
 
 ---
@@ -207,11 +207,12 @@ housing crisis, millennial psychology, generational trauma, scarcity logic, prot
 *Millennial Property Psychosis (Everything Is Housing)* is a living node of the Polaris Protocol.  
 It supports the **Big Picture Protocols** and **Generational Dynamics** clusters by mapping millennial scarcity imprinting and its political consequences.
 
-> 📡 Cross-references:  
-> - [😩 Millennial Exhaustion as a Political Condition](./😩_millennial_exhaustion_as_a_political_condition.md)  
-> - [📊 Gen Z Procedural Protest & Spreadsheet Organising](./📊_gen_z_procedural_protest_and_spreadsheet_organising.md)  
-> - [🗑️ Orthopaedic Anarchism](./🗑️_orthopaedic_anarchism.md)
+> 📡 Cross-references:
+> 
+> - [😩 Millennial Exhaustion as a Political Condition]  
+> - [📊 Gen Z Procedural Protest & Spreadsheet Organising]  
+> - [🗑️ Orthopaedic Anarchism]
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-23_
