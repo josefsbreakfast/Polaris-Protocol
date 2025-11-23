@@ -1,7 +1,7 @@
 see also transformational learning  
 
 # ⏳ Latecomers to Clarity — The Slow Recognition Problem  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-11-23  
 *Temporal asymmetry in understanding.*
 
 ---
@@ -47,4 +47,4 @@ late recognition, apology fatigue, temporal asymmetry, institutional response, s
 *⏳ Latecomers to Clarity — The Slow Recognition Problem* is a living node of the Polaris Protocol.  
 It traces the temporal politics of understanding and the ethics of catching up.  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-23_
