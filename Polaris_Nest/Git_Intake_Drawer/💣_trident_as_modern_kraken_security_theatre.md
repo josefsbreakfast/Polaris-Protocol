@@ -1,9 +1,7 @@
-File: 💣_trident_as_modern_kraken_security_theatre.md
-
 # 💣 Trident as Modern Kraken Security Theatre  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-19 | **Last updated:** 2025-11-23  
 *A Polaris satirical-governance analysis of how the UK’s nuclear deterrent system functions rhetorically, emotionally, and politically like a centuries-old naval tradition of inventing giant sea monsters to justify absurdly large budgets.*
-<!--I await evidence to the contrary.-->
+<!--AKA why Trident is there to guard the Kraken. I await evidence to the contrary.-->
 ---
 
 ## 🛰️ Orientation  
@@ -188,3 +186,5 @@ Crosslinks:
 - 🦑 *kraken-based_defence_budget_satire*  
 - 🗡️ *why_trident_is_lowkey_kraken_insurance*  
 - 🚢 *royal_navy_and_the_myth_of_underwater_threats*
+
+_Last updated: 2025-11-23_
