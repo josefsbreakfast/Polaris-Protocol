@@ -1,6 +1,6 @@
-# 💞 **Connection as Leverage — The Human Entry Point Exploited by Capture Systems**  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*The primary entry-point of all capture systems: our desire to connect, belong, be useful, be seen.*
+# 💞 Connection as Leverage — The Human Entry Point Exploited by Capture Systems  
+**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
+*The primary entry-point of all capture systems: our desire to connect, belong, be useful, be seen.*  
 
 ---
 
@@ -189,10 +189,11 @@ connection-economics, belonging-bait, emotional phishing, vulnerability mapping,
 ---
 
 ## 🏮 Footer  
-**💞 Connection as Leverage** is a living node of the Polaris Protocol.  
+*💞 Connection as Leverage* is a living node of the Polaris Protocol.  
 It provides survivor-centric analysis of the emotional architecture exploited by capture systems and offers conceptual tools for recognising and reversing the leverage.
 
 > 📡 Cross-references:
+> 
 > - 🧠 Shame Economics  
 > - 🧭 Timeline of Capture  
 > - 🥤 The £50 Milkshake Principle  
@@ -200,4 +201,4 @@ It provides survivor-centric analysis of the emotional architecture exploited by
 
 *Survivor authorship is sovereign. Connection is strength, not liability.*
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-23_
