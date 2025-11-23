@@ -1,6 +1,6 @@
 # 👾 British Policing & PREVENT in the Post-BLM Era  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*How Black Lives Matter shattered the illusion of neutrality in UK policing — and why PREVENT cannot survive unchanged in a culture that now recognises systemic racism as fact, not accusation.*
+**First created:** 2025-11-17 | **Last updated:** 2025-11-23  
+*How Black Lives Matter shattered the illusion of neutrality in UK policing — and why PREVENT cannot survive unchanged in a culture that now recognises systemic racism as fact, not accusation.*  
 
 ---
 
@@ -213,4 +213,4 @@ It maps how BLM shattered the myth of institutional neutrality and why PREVENT m
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-23_
