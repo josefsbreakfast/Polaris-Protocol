@@ -1,6 +1,6 @@
 # 📊 Gen Z Procedural Protest & Spreadsheet Organising  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*Why Gen Z approaches protest like a project-managed operation, and how their procedural culture reshapes collective action.*
+**First created:** 2025-11-17 | **Last updated:** 2025-11-24  
+*Why Gen Z approaches protest like a project-managed operation, and how their procedural culture reshapes collective action.*  
 
 ---
 
@@ -230,14 +230,15 @@ And it works.
 gen z, spreadsheets, procedural protest, opsec, collective action, trauma-informed organising, logistics culture
 
 ## 🏮 Footer  
-*Gen Z Procedural Protest & Spreadsheet Organising* is a living node of the Polaris Protocol.  
-It supports the **Generational Dynamics** and **Digital Disruption** clusters through analysis of emerging coordination logics.
+*📊 Gen Z Procedural Protest & Spreadsheet Organising* is a living node of the Polaris Protocol.  
+It supports the **Generational Dynamics** and **Digital Disruption** clusters through analysis of emerging coordination logics.  
 
-> 📡 Cross-references:  
-> - [📱 Millennials as Phone-Dependent Protest Liability](./📱_millennials_as_phone_dependent_protest_liability.md)  
-> - [🗑️ Orthopaedic Anarchism](./🗑️_orthopaedic_anarchism.md)  
-> - [😩 Millennial Exhaustion as a Political Condition](./😩_millennial_exhaustion_as_a_political_condition.md)
+> 📡 Cross-references:
+> 
+> - [📱 Millennials as Phone-Dependent Protest Liability]  
+> - [🗑️ Orthopaedic Anarchism]  
+> - [😩 Millennial Exhaustion as a Political Condition]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-11-24_
