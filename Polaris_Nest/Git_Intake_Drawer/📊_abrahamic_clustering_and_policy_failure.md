@@ -1,6 +1,6 @@
 # 📊 Abrahamic Clustering and Policy Failure  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*Why Western algorithmic systems inevitably misclassify Jews and Muslims, and why “Judeo‑Christian” alignment is mathematically, politically, and ethically impossible.*
+**First created:** 2025-11-24 | **Last updated:** 2025-11-24  
+*Why Western algorithmic systems inevitably misclassify Jews and Muslims, and why “Judeo‑Christian” alignment is mathematically, politically, and ethically impossible.*  
 
 ---
 
@@ -217,13 +217,14 @@ abrahamic clustering, judeochristian critique, racialisation, policy failure, al
 
 ## 🏮 Footer  
 
-**Abrahamic Clustering and Policy Failure** is a political‑forensic node of the **Polaris Protocol**, mapping how Western governance models misclassify Jews and Muslims because of Christian‑centric data ontologies. It demonstrates why algorithmic systems reveal truths that Western policy suppresses: that Judaism and Islam cluster naturally, and that Jewish safety cannot be built on Christian supremacy frameworks.
+*📊 Abrahamic Clustering and Policy Failure* is a political‑forensic node of the **Polaris Protocol**, mapping how Western governance models misclassify Jews and Muslims because of Christian‑centric data ontologies. It demonstrates why algorithmic systems reveal truths that Western policy suppresses: that Judaism and Islam cluster naturally, and that Jewish safety cannot be built on Christian supremacy frameworks.
 
-> 📡 Cross-references:  
-> - [🧠🔢 Calculus of Religious Affect](./🧠🔢_calculus_of_religious_affect.md)  
-> - [✡️🔥 Even More Crazy Jewishness](./✡️🔥_even_more_crazy_jewishness.md)  
-> - [Containment_Scripts](../Containment_Scripts/) — metadata suppression and racialisation mechanisms  
+> 📡 Cross-references:
+> 
+> - [🧠🔢 Calculus of Religious Affect]  
+> - [✡️🔥 Even More Crazy Jewishness]  
+> - [Containment_Scripts] — *metadata suppression and racialisation mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-11-24_
