@@ -1,6 +1,6 @@
 # 📋 Dual-Officer Clarification Request  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Joint enquiry template requiring both the legal-governance and data-protection officers to confirm authority for any data-restriction or security mark.*
+**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+*Joint enquiry template requiring both the legal-governance and data-protection officers to confirm authority for any data-restriction or security mark.*  
 
 ---
 
@@ -67,11 +67,12 @@ dual officers, dpo, siro, monitoring officer, caldicott guardian, clarification 
 *📋 Dual-Officer Clarification Request* is a living node of the **Polaris Protocol**.  
 It standardises how to compel joint accountability where governance and data-protection lines intersect, ensuring that mis-used classifications cannot persist through ambiguity.
 
-> 📡 Cross-references:  
-> – [📮 OSA Flag Clarification Request](../Disruption_Kit/Survivor_Tools/📮_osa_flag_clarification_request.md)  
-> – [🛰️ Who Can See the Flag](../Metadata_Sabotage_Network/🦒_Structural_Analysis/🛰️_who_can_see_the_flag.md)  
-> – [📜 Residual Shadow Audit](../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/)  
+> 📡 Cross-references:
+> 
+> – [📮 OSA Flag Clarification Request]  
+> – [🛰️ Who Can See the Flag]  
+> – [📜 Residual Shadow Audit]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-24_
