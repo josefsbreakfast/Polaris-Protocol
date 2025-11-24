@@ -1,6 +1,6 @@
 almost as if they've roundly fucked international human roghts law and the nuremberg code.  
 
-so im making some nudes about when the nazis did homeopathy and fucked their own nuclear bomb project.  
+so im making some NODES <!--tell me, how tf was that spellcheck.--> about when the nazis did homeopathy and fucked their own nuclear bomb project.  
 
 because there is no other jewish response to sequences of "guess how big the penis is" interrupting schubert.  
 
