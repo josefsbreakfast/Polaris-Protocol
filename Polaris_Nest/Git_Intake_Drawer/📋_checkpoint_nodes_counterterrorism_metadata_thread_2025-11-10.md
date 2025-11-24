@@ -1,5 +1,5 @@
 # 📋 Counterterrorism & Metadata Thread — Node Checkpoint  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-10  
+**First created:** 2025-11-10 | **Last updated:** 2025-11-24  
 *Checkpoint log of proposed and in-scope nodes emerging from the Counter-Terrorism / Metadata discussion series.*
 
 ---
@@ -51,10 +51,8 @@ counter-terrorism, prevent, metadata governance, risk scoring, data vendors, con
 It consolidates conceptual and drafting waypoints across Big Picture Protocols and Metadata Sabotage Network branches for coordinated generation.  
 
 > 📡 Cross-references:  
-> – [🏮 Where To Go](../🏮_where_to_go.md) — routing logic  
-> – [☔️ Protocol Integrity SOP](../☔️_protocol_integrity_sop.md) — consistency checklist  
-> – [🔮 House Style](../🔮_house_style.md) — format rules  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-10_
+_Last updated: 2025-11-24_
