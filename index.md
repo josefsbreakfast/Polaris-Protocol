@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-24 22:33:13 UTC_
+_Generated on 2025-11-24 22:35:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2639,7 +2639,7 @@ _Generated on 2025-11-24 22:33:13 UTC_
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💫_the_middle_register.md`](Polaris_Nest/Git_Intake_Drawer/💫_the_middle_register.md)
     - [`💬_containment_catchphrases_language_of_dismissal.md`](Polaris_Nest/Git_Intake_Drawer/💬_containment_catchphrases_language_of_dismissal.md)
-    - [`💬_semantic_echo_how_offender_language_re_enters_institutional_notes.md`](Polaris_Nest/Git_Intake_Drawer/💬_semantic_echo_how_offender_language_re_enters_institutional_notes.md)
+    - [`💬_semantic_echo_from_carceral_noise.md`](Polaris_Nest/Git_Intake_Drawer/💬_semantic_echo_from_carceral_noise.md)
     - [`💬_whistleblowers_as_emergency_governance.md`](Polaris_Nest/Git_Intake_Drawer/💬_whistleblowers_as_emergency_governance.md)
     - [`💰_credibility_brokers_and_golden_eggs.md`](Polaris_Nest/Git_Intake_Drawer/💰_credibility_brokers_and_golden_eggs.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
