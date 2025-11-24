@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-24 01:07:36 UTC_
+_Generated on 2025-11-24 01:08:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2873,6 +2873,7 @@ _Generated on 2025-11-24 01:07:36 UTC_
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🦠_toxic_legitimacy_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🦠_toxic_legitimacy_cycles.md)
     - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Polaris_Nest/Git_Intake_Drawer/🦤_how_the_right_accidentally_infiltrated_itself.md)
+    - [`🦤_nazi_nuclear_homeopathy_science.md`](Polaris_Nest/Git_Intake_Drawer/🦤_nazi_nuclear_homeopathy_science.md)
     - [`🦮_who_authorises_animal_interventions_uk.md`](Polaris_Nest/Git_Intake_Drawer/🦮_who_authorises_animal_interventions_uk.md)
     - [`🦴_the_anatomy_of_male_emotional_starvation.md`](Polaris_Nest/Git_Intake_Drawer/🦴_the_anatomy_of_male_emotional_starvation.md)
     - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
