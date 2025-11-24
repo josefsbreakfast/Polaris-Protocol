@@ -1,6 +1,6 @@
 # 💻 Algorithmic Hysteria  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
-*When female cognition meets machine misdiagnosis.*
+**First created:** 2025-10-28 | **Last updated:** 2025-11-24  
+*When female cognition meets machine misdiagnosis.*  
 
 ---
 
@@ -196,7 +196,7 @@ We call it **evidence.**
 
 ## 🌌 Constellations  
 
-🧿 🪄 🧠 🕯️ — Diagnostic-ethics register of *Expression of Norms / Watch the Watchers*; cross-orbits with *Survivor Voice Fidelity.*
+🧿 🪄 💻 🧠 🕯️ — Diagnostic-ethics register of *Expression of Norms / Watch the Watchers*; cross-orbits with *Survivor Voice Fidelity.*
 
 ---
 
@@ -208,12 +208,13 @@ hysteria, algorithmic bias, gendered medicine, wandering womb, cognitive speed, 
 
 ## 🏮 Footer  
 
-*Algorithmic Hysteria* is a living node of the Polaris Protocol.  
+*💻 Algorithmic Hysteria* is a living node of the Polaris Protocol.  
 It connects the historical misdiagnosis of women’s bodies to the digital misinterpretation of women’s cognition.  
 
-> 📡 Cross-references:  
-> - [🧿 Watch the Watchers](../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/) — algorithmic oversight and interpretive 
+> 📡 Cross-references:
+> 
+> - [🧿 Watch the Watchers] — *algorithmic oversight and interpretive* 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2025-11-24_
