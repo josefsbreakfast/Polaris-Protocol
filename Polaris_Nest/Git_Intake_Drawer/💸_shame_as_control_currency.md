@@ -1,6 +1,6 @@
 # 🧩 **Shame as Control Currency — The Architecture of Self-Silencing**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Shame is not an emotion inside abusive systems — it is a programmable currency designed to make people silence, police, and contain themselves.*
+**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+*Shame is not an emotion inside abusive systems — it is a programmable currency designed to make people silence, police, and contain themselves.*  
 
 ---
 
@@ -225,7 +225,7 @@ Shame cannot breathe in daylight.
 ---
 
 ## 🌌 Constellations  
-🧩 🧠 💞 🛰️ ✂️ 🕸️  
+💸 🧠 💞 🛰️ ✂️ 🕸️  
 *identity hijack, silence engineering, compliance psychology, narrative voids, shame contagion.*
 
 ---
@@ -236,10 +236,11 @@ shame-loop, secrecy-economics, identity rewrite, self-policing, fog-cognition, n
 ---
 
 ## 🏮 Footer  
-**🧩 Shame as Control Currency** is a psychological-containment node of the Polaris Protocol.  
-It expands the mechanics of shame as a systemic tool for controlling behaviour, suppressing dissent, and engineering silence — and provides the conceptual foundation for survivor-led visibility work.
+*💸 Shame as Control Currency* is a psychological-containment node of the Polaris Protocol.  
+It expands the mechanics of shame as a systemic tool for controlling behaviour, suppressing dissent, and engineering silence — and provides the conceptual foundation for survivor-led visibility work.  
 
 > 📡 Cross-references:
+> 
 > - 🧠 Shame Economics  
 > - 🧭 Timeline of Capture  
 > - 💞 Connection as Leverage  
@@ -247,4 +248,4 @@ It expands the mechanics of shame as a systemic tool for controlling behaviour, 
 
 *Survivor authorship is sovereign. Shame dissolves under witness.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-24_
