@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-24 01:03:24 UTC_
+_Generated on 2025-11-24 01:04:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2420,6 +2420,7 @@ _Generated on 2025-11-24 01:03:24 UTC_
     - [`🌲_campfire_stability_model_for_modern_citizens.md`](Polaris_Nest/Git_Intake_Drawer/🌲_campfire_stability_model_for_modern_citizens.md)
     - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](Polaris_Nest/Git_Intake_Drawer/🌲_rebuilding_spark_in_a_political_forest_fire.md)
     - [`🌿_normal_human_behaviour_as_risk_flag.md`](Polaris_Nest/Git_Intake_Drawer/🌿_normal_human_behaviour_as_risk_flag.md)
+    - [`🍌_nazis_are_the_og_mediocre_white_men.md`](Polaris_Nest/Git_Intake_Drawer/🍌_nazis_are_the_og_mediocre_white_men.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
     - [`🍑_the_homoerotic_subtext_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🍑_the_homoerotic_subtext_of_prevent.md)
     - [`🍪_operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🍪_operant_conditioning_the_algorithm.md)
@@ -2590,6 +2591,7 @@ _Generated on 2025-11-24 01:03:24 UTC_
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📉_signal_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📉_signal_collapse.md)
     - [`📉_why_ctsa2015_violated_every_iicsa_principle.md`](Polaris_Nest/Git_Intake_Drawer/📉_why_ctsa2015_violated_every_iicsa_principle.md)
+    - [`📊_abrahamic_clustering_and_policy_failure.md`](Polaris_Nest/Git_Intake_Drawer/📊_abrahamic_clustering_and_policy_failure.md)
     - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
@@ -2639,6 +2641,7 @@ _Generated on 2025-11-24 01:03:24 UTC_
     - [`📡_institutional_risk_posture_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/📡_institutional_risk_posture_diagnostics.md)
     - [`📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md`](Polaris_Nest/Git_Intake_Drawer/📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md)
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
+    - [`📡_residual_watchers_after_precision_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📡_residual_watchers_after_precision_collapse.md)
     - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
     - [`📣_pr_simulation_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/📣_pr_simulation_breakdown.md)
     - [`📣_the_shouting_whisper.md`](Polaris_Nest/Git_Intake_Drawer/📣_the_shouting_whisper.md)
@@ -2867,6 +2870,7 @@ _Generated on 2025-11-24 01:03:24 UTC_
     - [`🦠_statistical_nightmare.md`](Polaris_Nest/Git_Intake_Drawer/🦠_statistical_nightmare.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🦠_toxic_legitimacy_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🦠_toxic_legitimacy_cycles.md)
+    - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Polaris_Nest/Git_Intake_Drawer/🦤_how_the_right_accidentally_infiltrated_itself.md)
     - [`🦮_who_authorises_animal_interventions_uk.md`](Polaris_Nest/Git_Intake_Drawer/🦮_who_authorises_animal_interventions_uk.md)
     - [`🦴_the_anatomy_of_male_emotional_starvation.md`](Polaris_Nest/Git_Intake_Drawer/🦴_the_anatomy_of_male_emotional_starvation.md)
     - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
@@ -2937,6 +2941,7 @@ _Generated on 2025-11-24 01:03:24 UTC_
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
     - [`🧠_white_immunity_blindspot.md`](Polaris_Nest/Git_Intake_Drawer/🧠_white_immunity_blindspot.md)
     - [`🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md)
+    - [`🧠🔢_calculus_of_religious_affect.md`](Polaris_Nest/Git_Intake_Drawer/🧠🔢_calculus_of_religious_affect.md)
     - [`🧨_accidental_soft_infiltration_of_early_labour_movements.md`](Polaris_Nest/Git_Intake_Drawer/🧨_accidental_soft_infiltration_of_early_labour_movements.md)
     - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
     - [`🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md`](Polaris_Nest/Git_Intake_Drawer/🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md)
