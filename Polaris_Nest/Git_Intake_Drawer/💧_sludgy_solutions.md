@@ -1,6 +1,6 @@
 # 💧 Sludgy Solutions  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-15  
-*Countermeasures to the digital sludge: algorithms, incentives, and cooperative clean-ups.*
+**First created:** 2025-10-15 | **Last updated:** 2025-10-24  
+*Countermeasures to the digital sludge: algorithms, incentives, and cooperative clean-ups.*  
 
 ---
 
@@ -139,14 +139,14 @@ digital sludge, cooperative media, public infrastructure, search engine reform, 
 
 ## 🏮 Footer  
 
-*Sludgy Solutions* is a living node of the Polaris Protocol.  
+*💧 Sludgy Solutions* is a living node of the Polaris Protocol.  
 It maps structural countermeasures to content pollution and outlines cooperative models for cleaner information ecosystems.  
 
 > 📡 Cross-references:
 > 
-> - [🍎 How to Internet for Kids](./🍎_how_to_internet_for_kids.md) — *literacy and early education*  
-> - [🧿 Watch The Watchers](../../Big_Picture_Protocols/🧿_Watch_The_Watchers/README.md) — *oversight architectures*  
+> - [🍎 How to Internet for Kids] — *literacy and early education*  
+> - [🧿 Watch The Watchers] — *oversight architectures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2025-10-24_
