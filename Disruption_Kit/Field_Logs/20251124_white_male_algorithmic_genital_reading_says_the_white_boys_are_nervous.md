@@ -53,4 +53,8 @@ This is its maintenance protocol."
 
 ---
 
-<!--does this mean we've also pressured local democratic services members into making complaints? that could be interesting to unpick. do you want to recify that before i force it?-->
+i have to wonder if this overlaps with particular criminal complaints, regardless of if they are "core" or "intentions to destabilise wider network".  
+
+the mind whirrs.  
+
+---
