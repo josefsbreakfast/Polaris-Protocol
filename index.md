@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-24 01:06:02 UTC_
+_Generated on 2025-11-24 01:06:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2707,6 +2707,7 @@ _Generated on 2025-11-24 01:06:02 UTC_
     - [`🕍_jewish_trauma_literacy_for_non_jewish_audiences.md`](Polaris_Nest/Git_Intake_Drawer/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)
     - [`🕍_shared_language_for_shared_warnings.md`](Polaris_Nest/Git_Intake_Drawer/🕍_shared_language_for_shared_warnings.md)
     - [`🕎_esther_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🕎_esther_protocol.md)
+    - [`🕎_jewish_assimilation_vs_eurocentric_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_assimilation_vs_eurocentric_algorithms.md)
     - [`🕎_jewish_conscience_anti_racist_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_conscience_anti_racist_governance.md)
     - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
     - [`🕯_the_audit_log_does_not_sleep.md`](Polaris_Nest/Git_Intake_Drawer/🕯_the_audit_log_does_not_sleep.md)
