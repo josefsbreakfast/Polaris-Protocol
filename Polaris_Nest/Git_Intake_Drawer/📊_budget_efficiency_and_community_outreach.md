@@ -1,5 +1,5 @@
 # 📊 Budget Efficiency and Community Outreach  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
 *Airshows, optics, and the economics of spectacle.*  
 
 ---
@@ -31,10 +31,12 @@ airshows, budget camouflage, patriotism, community outreach, spectacle economics
 
 ## 🏮 Footer  
 *📊 Budget Efficiency and Community Outreach* is a living node of the Polaris Protocol.  
-> 📡 Cross-references:  
-> - [🛩️ The April Fools Department of Defence](./🛩️_the_april_fools_department_of_defence.md)  
-> - [⚖️ Official Secrets Reform and Accountability](../⚖️_official_secrets_reform_and_accountability.md)  
+
+> 📡 Cross-references:
+> 
+> - [🛩️ The April Fools Department of Defence]  
+> - [⚖️ Official Secrets Reform and Accountability]
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-24_
