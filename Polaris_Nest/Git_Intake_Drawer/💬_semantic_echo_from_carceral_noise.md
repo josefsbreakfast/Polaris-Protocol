@@ -1,5 +1,5 @@
 # 💬 Semantic Echo — How Offender Language Re-Enters Institutional Notes  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-11-24    
 *The feedback loop of borrowed description.*
 
 ---
@@ -93,11 +93,12 @@ semantic echo, institutional language, metadata bias, survivor credibility, bure
 *💬 Semantic Echo — How Offender Language Re-Enters Institutional Notes* is a living node of the Polaris Protocol.  
 It documents how words migrate from gossip to governance, and how containment survives through tone.  
 
-> 📡 Cross-references:  
-> - [🧠 Attribution Inversion — When Someone Else’s Clinical Vocabulary Becomes Yours](../📚_Narrative_Management/🧠_attribution_inversion_when_someone_elses_clinical_vocabulary_becomes_yours.md)  
-> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility](../📚_Narrative_Management/🎭_reputation_as_governance_how_institutions_script_their_own_credibility.md)  
-> - [🤝 Polite Containment — How Civility Becomes a Control Mechanism](../📚_Narrative_Management/🤝_polite_containment_how_civility_becomes_a_control_mechanism.md)  
+> 📡 Cross-references:
+> 
+> - [🧠 Attribution Inversion — When Someone Else’s Clinical Vocabulary Becomes Yours]  
+> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility]  
+> - [🤝 Polite Containment — How Civility Becomes a Control Mechanism]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-24_
