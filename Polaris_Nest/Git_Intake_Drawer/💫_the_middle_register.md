@@ -1,6 +1,6 @@
 # 💫 The Middle Register  
-**First created:** 2025-11-12  |  **Last updated:** 2025-11-12  
-*Keeping warmth, sincerity, and ordinary affection legible in systems that only read extremes.*
+**First created:** 2025-11-12  |  **Last updated:** 2025-11-24  
+*Keeping warmth, sincerity, and ordinary affection legible in systems that only read extremes.*  
 
 ---
 
@@ -66,14 +66,14 @@ emotional nuance, sincerity, middle register, algorithmic polarity, mildness, af
 
 ## 🏮 Footer  
 
-*The Middle Register* is a living node of the **Polaris Protocol**.  
+*💫 The Middle Register* is a living node of the **Polaris Protocol**.  
 It restores nuance and warmth to communication systems that have forgotten the temperature of human feeling.  
 
 > 📡 Cross-references:  
-> - [🧠 Diagnostic Visibility Conditioning](../🧠_diagnostic_visibility_conditioning.md) — algorithmic misreads of emotion  
-> - [⚡️ Crackling Channels](../⚡️_crackling_channels.md) — tone interference and reflexive containment  
-> - [☔️ Protocol Integrity SOP](../../../Admin_Kit/☔️_protocol_integrity_sop.md) — voice and ethical fidelity checks  
+> - [🧠 Diagnostic Visibility Conditioning] — *algorithmic misreads of emotion*  
+> - [⚡️ Crackling Channels] — *tone interference and reflexive containment*  
+> - [☔️ Protocol Integrity SOP] — *voice and ethical fidelity checks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-24_
