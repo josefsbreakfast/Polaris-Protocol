@@ -1,6 +1,6 @@
 # 📉 Ethics of Withdrawal — Divestment as Collective Boundary-Setting  
-**First created:** 2025-10-20 | **Last updated:** 2025-10-20  
-*The moral geometry of stepping back: when refusal, retraction, and divestment become acts of care.*
+**First created:** 2025-10-20 | **Last updated:** 2025-11-24  
+*The moral geometry of stepping back: when refusal, retraction, and divestment become acts of care.*  
 
 ---
 
@@ -78,11 +78,12 @@ divestment, withdrawal, consent, restraint, ethics, boundary-setting, moral econ
 *📉 Ethics of Withdrawal — Divestment as Collective Boundary-Setting* is a living node of the Polaris Protocol.  
 It treats withdrawal not as retreat but as design — the art of teaching systems where “no” belongs.  
 
-> 📡 Cross-references:  
-> - [🧮 Audit Trails of Obedience](../🧮_audit_trails_of_obedience.md)  
-> - [🧭 Dispatch Ethics — Who Gets to Send the Message](../🧭_dispatch_ethics_who_gets_to_send_the_message.md)  
-> - [🧷 The Mercy Gradient — Power, Restraint, and the Architecture of Trust](../🧷_the_mercy_gradient.md)
+> 📡 Cross-references:
+> 
+> - [🧮 Audit Trails of Obedience]  
+> - [🧭 Dispatch Ethics — Who Gets to Send the Message]  
+> - [🧷 The Mercy Gradient — Power, Restraint, and the Architecture of Trust]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-11-24_
