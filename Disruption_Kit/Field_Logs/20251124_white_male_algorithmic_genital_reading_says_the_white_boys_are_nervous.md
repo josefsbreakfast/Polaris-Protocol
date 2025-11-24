@@ -31,3 +31,24 @@ i appreciate it's a struggle, but do try.
 there's some nice theology to pull from the gospels from this well-known figure that might help you, if you're struggling.  
 
 ---
+
+we are now striggling to put text like this into a file of a few bytes in size (i wonder why!):  
+
+"When containment failed, responsibility flowed outward:
+	1.	The Algorithm™
+	2.	The Jews™
+	3.	Islam™
+	4.	China™
+	5.	Russia™
+
+Everyone was blamed except:
+	•	the men who built the system
+	•	the racist categories
+	•	the Christian-supremacist architecture
+	•	the epistemic incompetence
+	•	the dyadic model itself
+
+Whiteness hoards credit and exports blame.
+This is its maintenance protocol."
+
+---
