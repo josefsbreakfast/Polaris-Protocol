@@ -1,5 +1,5 @@
 # 💰 Underwriting the Occupation  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-11-24  
 *Following the money without following the stereotype.*  
 
 ---
@@ -163,15 +163,14 @@ underwriting, containment finance, donor architecture, export credit, reconstruc
 
 ## 🏮 Footer  
 
-*Underwriting the Occupation* is a living node of the Polaris Protocol.  
+*💰 Underwriting the Occupation* is a living node of the Polaris Protocol.  
 It examines how containment regimes are maintained through fiscal instruments and institutional underwriting, and how inherited stereotypes obscure the real mechanics of power.  
 
 > 📡 Cross-references:
 > 
-> - [🫒 Occupation as Containment Regime](../Big_Picture_Protocols/🫒_occupation_as_containment_regime.md) — systemic architecture of control  
-> - [✂️ Engineered Disjuncture of Allies](../Containment_Scripts/✂️_engineered_disjuncture_of_allies.md) — antagonism as containment logic  
-> - [🎛️ Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — undertone and forensic clarity rules  
+> - [🫒 Occupation as Containment Regime] — *systemic architecture of control*  
+> - [✂️ Engineered Disjuncture of Allies] — *antagonism as containment logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-11-24_
