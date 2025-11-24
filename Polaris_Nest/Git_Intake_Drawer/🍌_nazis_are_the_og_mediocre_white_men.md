@@ -151,9 +151,6 @@ fascism, male grievance, christian supremacy, algorithmic misclassification, emp
 
 ## 🏮 Footer  
 
-**Polaris Protocol — Fascism Studies / W015 Crosslink**  
-House Style v1.7  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-11-24_  
