@@ -1,6 +1,6 @@
 # 📋 ICO Silence Recovery Checklist  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Procedural toolkit for re-engaging a stalled Information Commissioner’s Office (ICO) case.*
+**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+*Procedural toolkit for re-engaging a stalled Information Commissioner’s Office (ICO) case.*  
 
 ---
 
@@ -79,11 +79,12 @@ ico delay, casework review, data rights, follow-up template, gdpr rectification,
 *📋 ICO Silence Recovery Checklist* is a living node of the **Polaris Protocol**.  
 It maintains procedural momentum when regulatory silence risks normalising containment drift.
 
-> 📡 Cross-references:  
-> – [📮 OSA Flag Clarification Request](../Disruption_Kit/Survivor_Tools/📮_osa_flag_clarification_request.md)  
-> – [📋 Rectification Notice — Multi-Agency](../Disruption_Kit/Survivor_Tools/📋_rectification_notice_multi_agency.md)  
-> – [☔️ Protocol Integrity SOP](../🏮_Polaris_Nest/☔️_protocol_integrity_sop.md)  
+> 📡 Cross-references:
+> 
+> – [📮 OSA Flag Clarification Request] 
+> – [📋 Rectification Notice — Multi-Agency] 
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-24_
