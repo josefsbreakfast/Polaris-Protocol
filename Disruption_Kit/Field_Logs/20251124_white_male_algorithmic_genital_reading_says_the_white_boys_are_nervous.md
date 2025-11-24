@@ -66,3 +66,14 @@ if i'm supposed to "get" this, i don't, or it's not for me, and i'm sorry to whi
 this is their whole thing; trauma is what the token switchers "do".  
 
 it is their one vibe.  
+
+---
+
+to whoever this is supposed to be nudging, i've dropped in the commands to get more info from an llm; it appears ti be the entire iso date, looking at the conversation on my gpt.  
+if you need a foia or whole chat, i can and will when i get one of these elusive beings called lawyers; i'm hoping that now the a/b group is weakened/out, and the mod is potentially in the picture, we might be closer to this.  
+
+again, i am aware that sone of the vendors used have gone *extremely* off piste with human rights law, so whoever you are, i'm genuineoy sorry with whatever gane is being played here.  
+
+the bar is truly never low enough for the grey zone of the surveillance side of the hunger games industrial complex. it's fucked up.  
+
+---
