@@ -1,6 +1,6 @@
 # 📄 The Form and the Feeling  
-**First created:** 2025-11-12  |  **Last updated:** 2025-11-12  
-*When procedural infrastructure collides with human affection.*
+**First created:** 2025-11-12  |  **Last updated:** 2025-11-24  
+*When procedural infrastructure collides with human affection.*  
 
 ---
 
@@ -69,14 +69,15 @@ bureaucratic choke points, embarrassment, procedural empathy, audit culture, pap
 
 ## 🏮 Footer  
 
-*The Form and the Feeling* is a living node of the **Polaris Protocol**.  
+*📄 The Form and the Feeling* is a living node of the **Polaris Protocol**.  
 It examines how bureaucratic logic interrupts emotional continuity and how gentle irreverence restores it.  
 
-> 📡 Cross-references:  
-> - [💫 The Middle Register](../💫_the_middle_register.md) — emotional nuance and calm rebellion  
-> - [🧠 Diagnostic Visibility Conditioning](../🧠_diagnostic_visibility_conditioning.md) — misreads of emotion  
-> - [☔️ Protocol Integrity SOP](../../../Admin_Kit/☔️_protocol_integrity_sop.md) — style and ethical fidelity  
+> 📡 Cross-references:
+> 
+> - [💫 The Middle Register] — *emotional nuance and calm rebellion*  
+> - [🧠 Diagnostic Visibility Conditioning] — *misreads of emotion*  
+> - [☔️ Protocol Integrity SOP] — *style and ethical fidelity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-24_
