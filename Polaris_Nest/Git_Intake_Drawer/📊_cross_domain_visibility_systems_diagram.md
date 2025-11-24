@@ -1,5 +1,5 @@
 # 📊 Cross‑Domain Visibility Systems Diagram  
-**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑15  
+**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑24  
 *Brief description of 📊 cross‑domain visibility systems diagram.*  
 
 ---
@@ -27,4 +27,4 @@ It provides a starting point for later, more detailed mappings of how visibility
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑15_
+_Last updated: 2025‑11‑24_
