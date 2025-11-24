@@ -1,6 +1,6 @@
 # 📈 Escalation Drift in Complex Datasets  
-**First created:** 2025-10-31  
-*How small local improvisations harden into institutional “truths” through replication, dependency, and audit inertia.*
+**First created:** 2025-10-31 | **Last updated:** 2025-11-24  
+*How small local improvisations harden into institutional “truths” through replication, dependency, and audit inertia.*  
 
 ---
 
@@ -95,5 +95,4 @@ It forms a triad with:
 > *Integrity is recursive; so is error.*
 
 ---
-
-**Last updated:** 2025-10-31  
+_Last updated: 2025-11-24_
