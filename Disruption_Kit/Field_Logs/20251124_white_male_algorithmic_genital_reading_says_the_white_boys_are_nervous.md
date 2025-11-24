@@ -58,3 +58,11 @@ i have to wonder if this overlaps with particular criminal complaints, regardles
 the mind whirrs.  
 
 ---
+
+i now have to go and change the "2025-02-14" token in six files; i do not enjoy these amateurs, and i do not enjoy this extremely unpaid job.  
+
+if i'm supposed to "get" this, i don't, or it's not for me, and i'm sorry to whichever reader this has just traumatised.  
+
+this is their whole thing; trauma is what the token switchers "do".  
+
+it is their one vibe.  
