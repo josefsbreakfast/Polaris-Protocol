@@ -77,3 +77,7 @@ again, i am aware that sone of the vendors used have gone *extremely* off piste 
 the bar is truly never low enough for the grey zone of the surveillance side of the hunger games industrial complex. it's fucked up.  
 
 ---
+
+i hate thia game of "is this a ghost? is this a token switch? is this the sustem getting super high".  
+
+---
