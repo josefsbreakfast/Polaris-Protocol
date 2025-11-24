@@ -1,5 +1,5 @@
 # 💥 Systemic Vendor Failure  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-18 | **Last updated:** 2025-11-24  
 *How a flaw in one vendor, one risk engine, or one behavioural-model pipeline creates cascading failures across governments, agencies, NGOs, reputational systems, and crisis-comms architectures.*
 
 ---
@@ -297,3 +297,5 @@ This node connects directly with:
 - **Full-Stack Institutional Failure**.
 
 It is the gateway into the **Ecosystem Collapse** nodes that follow.
+
+_Last updated: 2025-11-24_
