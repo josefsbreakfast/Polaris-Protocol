@@ -1,5 +1,5 @@
 # 📘 How Declarations Work  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-11-24  
 *A clear, human explanation of how transparency declarations function for HMRC and DWP when receiving small-scale civic support.*  
 
 ---
@@ -144,7 +144,7 @@ This node exists to remove ambiguity and demonstrate compliance.
 ---
 
 ## 🌌 Constellations  
-🧿 📬 🔍 — transparency, compliance, governance literacy.
+📘 🧿 📬 🔍 — transparency, compliance, governance literacy.
 
 ---
 
@@ -154,9 +154,9 @@ hmrc, dwp, declarations, compliance, civic transparency, benefits logic, audit t
 ---
 
 ## 🏮 Footer  
-*How Declarations Work* is a living node of the Polaris Protocol.  
+*📘 How Declarations Work* is a living node of the Polaris Protocol.  
 It clarifies the small-scale transparency and compliance logic used when receiving civic correspondence or low-value items.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-24_
