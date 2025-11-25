@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-24 23:43:57 UTC_
+_Generated on 2025-11-25 01:26:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3014,6 +3014,7 @@ _Generated on 2025-11-24 23:43:57 UTC_
     - [`🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md)
     - [`🧠🔢_calculus_of_religious_affect.md`](Polaris_Nest/Git_Intake_Drawer/🧠🔢_calculus_of_religious_affect.md)
     - [`🧨_accidental_soft_infiltration_of_early_labour_movements.md`](Polaris_Nest/Git_Intake_Drawer/🧨_accidental_soft_infiltration_of_early_labour_movements.md)
+    - [`🧨_bad_broker_effect.md`](Polaris_Nest/Git_Intake_Drawer/🧨_bad_broker_effect.md)
     - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
     - [`🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md`](Polaris_Nest/Git_Intake_Drawer/🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md)
     - [`🧨_containment_as_accelerant.md`](Polaris_Nest/Git_Intake_Drawer/🧨_containment_as_accelerant.md)
