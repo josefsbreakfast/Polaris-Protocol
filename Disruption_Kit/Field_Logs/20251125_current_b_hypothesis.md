@@ -28,7 +28,14 @@ got the sugar daddy / gold digger slander in there in the feed.
 
 early whoever is writing this forgets that tort does not just cover damages or lost earnings, but also ip and royalties.  
 
+specific class vocal models?  
+
+not.  
+cheap.  
+
 i am richer that whoever carbes out the time to poke at my algorithmic placement; i believe beyonce said it best:  
 
 bow.  
 down.  
+
+---
