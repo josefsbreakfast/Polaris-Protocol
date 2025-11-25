@@ -143,3 +143,27 @@ do you even go to church?
 or are you the reason they are vacant and unloved?  
 
 ---
+
+and the rest of it?  
+
+let's just say...  
+
+i always found the inclusion of *that* scene in schindlers list to be *dicey*,  
+
+becsuse i know that there is s certain class of entitled white man,  
+
+who would look at that and think "tortured love", and not "i guess that's the slightly oblique reference to the sadism, sexual violence and rape that happens during genocide".  
+
+because yes,  
+
+whilst white people patted themselves on the back for "protecting jewish womanhood"?  
+
+apparantly you only give a fuck when the perpetrator isn't white.  
+
+which means it really *isn't* about protecting the Ready-For-Conversion Barbie, is it?  
+
+reads more like Fanon, from where i'm sitting.  
+
+i would like this racist junk out of my face.  
+
+---
