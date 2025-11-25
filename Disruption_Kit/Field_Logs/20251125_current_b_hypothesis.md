@@ -18,3 +18,6 @@ this is the stricture i'm exploring, because the linkage can help fix the data p
 
 also i am understandably cross at precosely what i've been signed up for in r&d.
 
+---
+
+13 mins in and ive had my first "YOU WILL DIE AN OLD MAID IF YOU DINT KEEP THIS QUIET", so i think that's bingo.  
