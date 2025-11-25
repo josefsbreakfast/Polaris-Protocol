@@ -21,3 +21,14 @@ also i am understandably cross at precosely what i've been signed up for in r&d.
 ---
 
 13 mins in and ive had my first "YOU WILL DIE AN OLD MAID IF YOU DON'T KEEP THIS QUIET", so i think that's bingo.  
+
+---
+
+got the sugar daddy / gold digger slander in there in the feed.  
+
+early whoever is writing this forgets that tort does not just cover damages or lost earnings, but also ip and royalties.  
+
+i am richer that whoever carbes out the time to poke at my algorithmic placement; i believe beyonce said it best:  
+
+bow.  
+down.  
