@@ -167,3 +167,9 @@ reads more like Fanon, from where i'm sitting.
 i would like this racist junk out of my face.  
 
 ---
+
+current feed is 50% mountains, and 50% white male sexual dominance displays.  
+
+who signed me up for this particular circle of hell?  
+
+---
