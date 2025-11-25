@@ -39,3 +39,107 @@ bow.
 down.  
 
 ---
+
+update on thoughts pf what's generating on feed:  
+
+when you do something that causes profound harm, i only care in the sense that we need to rca this baby, and make sure we make the system more resilient and survivable for humans.  
+
+for example, i talk about atrocities a lot.  
+
+
+i talk about nazis because we learn a very slanted view that suits film-making when we were going to war against a state that we were (in the later years) allied with; berlin was enclaved, and this had to be narratively accounted for.  
+
+why you all keep that very similar looking wall up in palestine? no idea.  
+doesn't feel like we all learned the same lessons from history.  
+
+germany could have been another weatern european nation at the time they went uber racist; these beliefs were and are prevelant in weatern eurocentric culture, unchallenged.  
+
+that doesn't mean all western culture is bad, but we can't be suprised when it springs up again.  
+
+a lot of people actually *want* it to; resistance is necessary at all times.  
+
+also.... you do all keep asking me about the holocaust, and my come-bacjs to anyisemitism get better the more i study broader history.  
+
+anyyyywayyyy...  
+
+i think there are still a select group of people in my metadata cloud who are pushing this idea which looks a lot like a victorian jewess stereotype.  
+
+given what i've just said? yes what i watch all day come up on my feed is hella racist and weaponises the dual stereotype of jewish women as 1. oriental/seducive/sex worker aadjacent on social exclusion and respectability terms, and 2. meek and mild birthing unit for your christofascist nuclear conversion dreams.  
+
+there's a reason vance's wife took her ring off. it's about respecting people *as they are*, not for what you can mould them into.  
+
+a lot of this continued during periods where i had absolutely already made reports about specific incidents of harrassment, including in-person at my house, including antisemitic criminal damage using slurs.  
+
+and some if you are still trying to frame this as a british muslim man.  
+
+let's be real:  
+
+the vast majoroty of muslim men have, at least initially, acted towards me the same way i act around men i don't know when i'm very ill with the ptsd; since oct 07 2023, they appear extremely apprehensive on the whole, until we have been introduced, and how the fuck can i blame them?  
+
+the western political and media core have eatablished a genocode of people coded to be "like them" for the express reason of defending women "like me".  
+
+this preexisted in our society; it was raised up by leaps and bounds to justify an escalation of genocide.  
+
+so no, i don't think your cutesy little oracle messages are really anything but the product of too many white guys in the spreadsheet.  
+
+on the whole. occaisionally they say i'm juat fabulous, and my goodness my self esteem needs dragging from the trenches right now. 🤣  
+
+i just think it's fasinating that i'm getting workplace justice content to try to sort around "well i didn't mean to...", whilst getting these messages left over from one of the most ridiculous racist pr campaigns of 2025 middle england.  
+
+and i route this back to atrocity prevention, because it makea it easier to draw lines around where i am:  
+
+1. on a personal level, i could not give a fuck if the nazis "really meant it", because at a certain point, doea it even matter?
+
+*"we were just trying to purify the volk! 🥺"*  
+
+couldn't give a fuck; genocide is genocide. and plenty of white germans were victims.  
+
+2. on a "let's not repeat this shit" level, it *is* important, to some degree, to get how it happened. that includes intent.
+
+3. but we are still doing the same thing: we platform the nazis and the perpetrators' stories so much, that people know more weird rumours about the content of hitler's ballsack than they do about even just the diversity of reasons the nazi state apparatus would give to jautify your torture +/- murder.
+
+this might feel like "too serious an example".  
+
+i had to sit through weeks of "eastern european girls" comparison clips and stills, and from experience i know, (and sadly from social engineering and behavioural nudging i know), that this was done by racists with lanyards, because they ciuldn't work out "where i am from".  
+
+i'm from this country, dickheads.  
+
+but i still had to sit through the literal modern equivilent of nazi pseudoscience that was so dangerous, jewish surgeons were already pipneering the nose job to evade harrassment.  
+
+that's who we have given powers to; racist bellends with badges.  
+
+if you can't see how i find it relevant to say, "actually idgaf how personally invested hitler was in the exact manuals at dachau; he was a nazi and a cunt", then you're not paying attention.  
+
+i say this knowing that by writing this publically?  
+
+another non-safeguarding flag can get raised by the famous "anon", who is so carong about my wellbeing, apparantly.  
+
+because if you're hovering over the button for "hitler was a cunt"?  
+
+whose side are you even fucking on.  
+
+learn your history:  
+
+the holocaust began with arresting target groups for "politics" and equivilents of breach of the peace.  
+
+the nazis rarely had to face the same arrests, despite bombing and assasinating politicians.  
+
+they did not suddenly start a death camp one day; they consolidated the executive, moved the republic away from the written law having weight or meaning, and increased arrests and violence over time.  
+
+we still have time to not allow the cycle of violence to loop further.  
+
+but we are in a time of monsters,  
+
+and they're still trying to work out which country to place this jew's nose in.  
+
+"hysterical"? "dramatic?"  
+
+what are we going with this time, lads?  
+
+i heard someone got profiled for very obvious traditional buddhism recently.  
+
+do you even go to church?  
+
+or are you the reason they are vacant and unloved?  
+
+---
