@@ -31,3 +31,9 @@ but given what i know from medicolegal prep in the nai from physical abuse world
 some people make it their life's work to dismantle attempts at justice, just in case "too many" of us see it some day.  
 
 ---
+
+the two strands of what are currently influencing tye centroid/cloud i'm existing in are so hilariously obvious but okay let's just keep having the foia process be like pulling teeth, and let's never question the health of the uk's metadata ecosystem.  
+
+you can tell i've gotten to the "not actively in full colic, so can think, but still feels incredibly rotten" stages of this being ill business.  
+
+---
