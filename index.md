@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-29 01:49:05 UTC_
+_Generated on 2025-11-29 03:49:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3604,6 +3604,8 @@ _Generated on 2025-11-29 01:49:05 UTC_
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/README.md)
       - [`👾_synthetic_mobilisation_and_petition_farms.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/👾_synthetic_mobilisation_and_petition_farms.md)
       - [`🕵️‍♀️_osint_for_petition_integrity.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/🕵️‍♀️_osint_for_petition_integrity.md)
+    - [**💰_Budget_Twinsies/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Budget_Twinsies/)
+      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Budget_Twinsies/README.md)
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
       - [`⚔️_containment_logic_strategy_or_panic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚔️_containment_logic_strategy_or_panic.md)
