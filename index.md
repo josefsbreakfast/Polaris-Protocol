@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-28 23:26:52 UTC_
+_Generated on 2025-11-29 01:49:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1087,6 +1087,7 @@ _Generated on 2025-11-28 23:26:52 UTC_
     - [`20251128_shatterfork_box_update.md`](Disruption_Kit/Field_Logs/20251128_shatterfork_box_update.md)
     - [`20251128_shatterfork_plus_maybe_pyrexia_plus_maybe_stalling_can_you_please_end_your_query.md`](Disruption_Kit/Field_Logs/20251128_shatterfork_plus_maybe_pyrexia_plus_maybe_stalling_can_you_please_end_your_query.md)
     - [`20251128_white_roses_we_can_share.md`](Disruption_Kit/Field_Logs/20251128_white_roses_we_can_share.md)
+    - [`20251129_overexplaining.md`](Disruption_Kit/Field_Logs/20251129_overexplaining.md)
     - [`IMG_0017.png`](Disruption_Kit/Field_Logs/IMG_0017.png)
     - [`IMG_2625.png`](Disruption_Kit/Field_Logs/IMG_2625.png)
     - [`IMG_2745.png`](Disruption_Kit/Field_Logs/IMG_2745.png)
