@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-29 03:51:45 UTC_
+_Generated on 2025-11-29 03:53:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3608,6 +3608,7 @@ _Generated on 2025-11-29 03:51:45 UTC_
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Budget_Twinsies/README.md)
       - [`🇬🇧_uk_budget_osint_checklist.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Budget_Twinsies/🇬🇧_uk_budget_osint_checklist.md)
       - [`📊_osint_fiscal_audit_overview.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Budget_Twinsies/📊_osint_fiscal_audit_overview.md)
+      - [`🗃️_signals_hidden_foreign_bond_exposure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Budget_Twinsies/🗃️_signals_hidden_foreign_bond_exposure.md)
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
       - [`⚔️_containment_logic_strategy_or_panic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚔️_containment_logic_strategy_or_panic.md)
