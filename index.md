@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-11-29 04:02:17 UTC_
+_Generated on 2025-11-29 17:46:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3060,6 +3060,7 @@ _Generated on 2025-11-29 04:02:17 UTC_
     - [`🧨_dual_use_epiphany.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_epiphany.md)
     - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
     - [`🧨_fear_symbol_leverage.md`](Polaris_Nest/Git_Intake_Drawer/🧨_fear_symbol_leverage.md)
+    - [`🧨_five_archetypes_the_centre_left_fears.md`](Polaris_Nest/Git_Intake_Drawer/🧨_five_archetypes_the_centre_left_fears.md)
     - [`🧨_gitmo_to_gaza_exception_chain.md`](Polaris_Nest/Git_Intake_Drawer/🧨_gitmo_to_gaza_exception_chain.md)
     - [`🧨_pathways_of_escalation_how_prevent_spirals.md`](Polaris_Nest/Git_Intake_Drawer/🧨_pathways_of_escalation_how_prevent_spirals.md)
     - [`🧨_prevent_as_fear_engine.md`](Polaris_Nest/Git_Intake_Drawer/🧨_prevent_as_fear_engine.md)
