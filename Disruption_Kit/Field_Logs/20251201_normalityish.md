@@ -27,3 +27,14 @@ i know from my own stuff that a lot of processes are simply frozen in time,
 but this starts to put an end date on any immediate suffering,  
 
 rather than having this be a thing that gets spun out for anyone's political gain.  
+
+---
+
+it's now not just royalties specialists, but the patents teams are also having a gander.  
+
+i haven'r heard who was on the 2021/2022 panels for qsc at my university yet.  
+
+which is a shame because then at least one duck could be identified as part of The Problem.  
+
+i'm stsrting to wonder if some people actually see anything other than dollar signs when they see photographs of other humans.  
+
