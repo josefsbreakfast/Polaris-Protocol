@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-01 14:45:08 UTC_
+_Generated on 2025-12-02 21:48:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2440,12 +2440,14 @@ _Generated on 2025-12-01 14:45:08 UTC_
     - [`How_Emotional_Shock_Distorts_Institutional_Decision-Making.md`](Polaris_Nest/Git_Intake_Drawer/How_Emotional_Shock_Distorts_Institutional_Decision-Making.md)
     - [`Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md`](Polaris_Nest/Git_Intake_Drawer/Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
+    - [`Post-CCRU Diaspora Network Diagram.png`](Polaris_Nest/Git_Intake_Drawer/Post-CCRU Diaspora Network Diagram.png)
     - [`Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md`](Polaris_Nest/Git_Intake_Drawer/Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`Structural_Survivorship_in_Multi-Agency_Environments.md`](Polaris_Nest/Git_Intake_Drawer/Structural_Survivorship_in_Multi-Agency_Environments.md)
     - [`When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md`](Polaris_Nest/Git_Intake_Drawer/When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
     - [`book_of_esther_foi_edition.md`](Polaris_Nest/Git_Intake_Drawer/book_of_esther_foi_edition.md)
+    - [`data_slip_narrative_spiral.md`](Polaris_Nest/Git_Intake_Drawer/data_slip_narrative_spiral.md)
     - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Polaris_Nest/Git_Intake_Drawer/deliberate_small_suppression_later_release_reciprocity_blowback.png)
     - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
     - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
