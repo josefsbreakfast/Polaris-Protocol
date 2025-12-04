@@ -16,3 +16,11 @@ background sars progressing in further stages, with moj due in week.
 
 ---
 
+the centroid is 1/3 a data tein which is influencing algorithmic placement, to align with personal convern from a make coded source, sitting in oversight, safeguarding, and financial audit of such.  
+
+
+it didn't take long to just ask the internet for overview of la governance and narrow to a few key boards from the last two days.  
+
+this is getting boring.  
+
+---
