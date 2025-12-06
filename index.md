@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 19:34:03 UTC_
+_Generated on 2025-12-06 19:34:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2718,7 +2718,7 @@ _Generated on 2025-12-06 19:34:03 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💍_marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/💍_marriage_as_state_containment_trope.md)
     - [`💍_two_party_system_as_an_old_fashioned_marriage.md`](Polaris_Nest/Git_Intake_Drawer/💍_two_party_system_as_an_old_fashioned_marriage.md)
-    - [`💔 _for_the_men_who_thought_they_were_outside_the_blast_radius.md`](Polaris_Nest/Git_Intake_Drawer/💔 _for_the_men_who_thought_they_were_outside_the_blast_radius.md)
+    - [`💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md`](Polaris_Nest/Git_Intake_Drawer/💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md)
     - [`💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md`](Polaris_Nest/Git_Intake_Drawer/💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md)
     - [`💔_on_having_to_announce_ones_goodness.md`](Polaris_Nest/Git_Intake_Drawer/💔_on_having_to_announce_ones_goodness.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
