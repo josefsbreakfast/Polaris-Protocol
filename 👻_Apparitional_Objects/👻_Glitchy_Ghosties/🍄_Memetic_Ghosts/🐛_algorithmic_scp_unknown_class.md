@@ -1,4 +1,4 @@
-# ⚖️ Algorithmic SCP: “Glitch in the System” Meme
+# 🐛 Algorithmic SCP: “Glitch in the System” Meme; Unknown Class  
 
 **First created:** 2025-12-06 | **Last updated:** 2025-12-06  
 *Diagnostic pass on an emergent AI-video meme that targets “uncategorisable” users and erodes faith in systems.*
