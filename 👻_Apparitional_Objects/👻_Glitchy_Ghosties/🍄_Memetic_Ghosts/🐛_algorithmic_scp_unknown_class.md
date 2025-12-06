@@ -225,8 +225,8 @@ It serves as an early diagnostic ledger for a family of AI-video memes that targ
 
 > 📡 Cross-references:
 > 
-> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — practical countermeasures and scripts for reclaiming data + narrative terrain.  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis of information infrastructure and governance failure.  
+> - [Survivor Tools] — practical countermeasures and scripts for reclaiming data + narrative terrain.  
+> - [Big Picture Protocols] — systemic analysis of information infrastructure and governance failure.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
