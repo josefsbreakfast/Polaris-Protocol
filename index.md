@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 19:36:57 UTC_
+_Generated on 2025-12-06 19:37:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2909,8 +2909,8 @@ _Generated on 2025-12-06 19:36:57 UTC_
     - [`🕳️_when_the_censor_is_a_contractor.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_when_the_censor_is_a_contractor.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
-    - [`🕷️ _misuse_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🕷️ _misuse_resilience.md)
     - [`🕷️ _prevent_as_soft_coup_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🕷️ _prevent_as_soft_coup_infrastructure.md)
+    - [`🕷️_misuse_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_misuse_resilience.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_algorithmic_hearing_is _not_listening.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_algorithmic_hearing_is _not_listening.md)
     - [`🕸️_architectural_vs_human_versions_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_architectural_vs_human_versions_targeting.md)
