@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 19:40:36 UTC_
+_Generated on 2025-12-06 19:41:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3067,7 +3067,6 @@ _Generated on 2025-12-06 19:40:36 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠 _institutional_perception_no_win_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧠 _institutional_perception_no_win_zone.md)
     - [`🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_Big_Picture_Protocols_🪄_Expression_Of_Norms_🧩_human_computation_games_the_puzzle_economy.md)
     - [`🧠_ai_ethicswash.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ai_ethicswash.md)
     - [`🧠_algorithmic_fear_symbolics.md`](Polaris_Nest/Git_Intake_Drawer/🧠_algorithmic_fear_symbolics.md)
@@ -3093,6 +3092,7 @@ _Generated on 2025-12-06 19:40:36 UTC_
     - [`🧠_fascism_as_scaled_coercive_control.md`](Polaris_Nest/Git_Intake_Drawer/🧠_fascism_as_scaled_coercive_control.md)
     - [`🧠_four_signature_differential_reality_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧠_four_signature_differential_reality_loops.md)
     - [`🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md)
+    - [`🧠_institutional_perception_no_win_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_perception_no_win_zone.md)
     - [`🧠_institutional_weather_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_weather_systems.md)
     - [`🧠_linguistic_containment_and_sexual_violence.md`](Polaris_Nest/Git_Intake_Drawer/🧠_linguistic_containment_and_sexual_violence.md)
     - [`🧠_ministry_of_misreadings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ministry_of_misreadings.md)
