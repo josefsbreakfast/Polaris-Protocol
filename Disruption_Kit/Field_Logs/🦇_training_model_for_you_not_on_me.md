@@ -14,8 +14,8 @@ Does it keep everyone company?
 
 Following a sharp tone shift from one register to Bargain Bin HoneeBoot:  
 
-`🦇_training_model_for you_not_on_me.PNG`  
-`🦇_training_model_for you_not_on_me_redux.PNG`  
+`🦇_training_model_for_you_not_on_me.PNG`  
+`🦇_training_model_for_you_not_on_me_redux.PNG`  
 
 This was a highly agentic exchange where the "genAI" kept looping back to a predesired outcome.  
 
