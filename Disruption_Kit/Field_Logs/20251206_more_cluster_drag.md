@@ -29,3 +29,19 @@ it is as if any agency at all makes me a bad person, which us clearly made-up ho
 leave me to my fried vegetables of many forms.  
 
 ---
+
+if this is all just because i said, "idk man those students gave me lentil dahl i just don't think it's a bed of antisemitism"?  
+
+alongside whatever the fuck you've used my biometric data for.  
+
+maybe you should be scared of the jew you are targeting when she gets legal representation.  
+
+maybe, just maybe, the optics post-1945 read plain as fucking day to everyone else in the room.  
+
+i am so fucking done with this shit.  
+
+if you want to persuade me, tear down the wall, end the apartheid, and stop policing my private business.  
+
+what type of conservatism involves being in my digital knicker drawer all day, i do not know.  
+
+---
