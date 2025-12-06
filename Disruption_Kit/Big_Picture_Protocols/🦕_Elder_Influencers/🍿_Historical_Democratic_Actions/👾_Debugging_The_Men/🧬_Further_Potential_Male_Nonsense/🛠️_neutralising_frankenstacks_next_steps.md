@@ -1,5 +1,5 @@
 # 🛠️ Neutralising Frankenstacks: Next Steps  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-06  
 *A practical, multi-level guide for citizens, staff, and government bodies on how to dismantle, challenge, and prevent Frankenstack-style harm — without assuming intention, conspiracy, or official approval.*
 
 ---
@@ -232,3 +232,5 @@ This node belongs to the Polaris Frankenstack Cluster and pairs with:
 - 🧙‍♀️ Witch Logic Diagnostic  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-12-06_
