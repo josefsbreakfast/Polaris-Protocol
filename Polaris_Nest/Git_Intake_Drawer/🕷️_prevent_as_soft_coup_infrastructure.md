@@ -1,5 +1,5 @@
 # 🕷️ Prevent as Soft-Coup Infrastructure  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-06  
 *How Prevent enables non-military regime manipulation through reputational fog, bureaucratic paralysis, and narrative engineering.*
 
 ---
@@ -155,12 +155,13 @@ prevent, soft coup, authoritarian drift, political sabotage, leadership interfer
 It analyses how Prevent’s architecture enables non-military political manipulation, allowing domestic authoritarian factions to shape leadership outcomes through reputational fog, administrative hesitation, and narrative engineering.
 
 > 📡 Cross-references:
-> - [🈺 Governance & Prevent](../Metadata_Sabotage_Network/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/)  
-> - [🪆 Narrative Interference](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/)  
-> - [🧿 Targeting Logic Metadata Signatures](../Metadata_Sabotage_Network/🦒_Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)  
-> - [🧠 Psychological Containment](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🧠_Psychological_Containment/)  
-> - [🧟‍♀️ Frankenstack Bytes](../Metadata_Sabotage_Network/🧟‍♀️_Frankenstack_Bytes/)  
+> 
+> - [🈺 Governance & Prevent]  
+> - [🪆 Narrative Interference]  
+> - [🧿 Targeting Logic Metadata Signatures]  
+> - [🧠 Psychological Containment]  
+> - [🧟‍♀️ Frankenstack Bytes]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-06_
