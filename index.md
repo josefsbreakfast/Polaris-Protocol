@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 19:31:10 UTC_
+_Generated on 2025-12-06 19:32:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1864,9 +1864,9 @@ _Generated on 2025-12-06 19:31:10 UTC_
     - [`🦇_men_already_have_rights.md`](Disruption_Kit/Field_Logs/🦇_men_already_have_rights.md)
     - [`🦇_oh_it_gets_better.PNG`](Disruption_Kit/Field_Logs/🦇_oh_it_gets_better.PNG)
     - [`🦇_subtly_never_got_me_anywhere.PNG`](Disruption_Kit/Field_Logs/🦇_subtly_never_got_me_anywhere.PNG)
-    - [`🦇_training_model_for you_not_on_me.md`](Disruption_Kit/Field_Logs/🦇_training_model_for you_not_on_me.md)
     - [`🦇_training_model_for you_not_on_me_redux.PNG`](Disruption_Kit/Field_Logs/🦇_training_model_for you_not_on_me_redux.PNG)
     - [`🦇_training_model_for_you_not_on_me.PNG`](Disruption_Kit/Field_Logs/🦇_training_model_for_you_not_on_me.PNG)
+    - [`🦇_training_model_for_you_not_on_me.md`](Disruption_Kit/Field_Logs/🦇_training_model_for_you_not_on_me.md)
     - [`🦇_why_i_say_acheinu.md`](Disruption_Kit/Field_Logs/🦇_why_i_say_acheinu.md)
     - [`🦋_bugs.md`](Disruption_Kit/Field_Logs/🦋_bugs.md)
     - [`🦋🏛️_i_mean_i_guess_youre_trying_and_talking_to_girls_is_tough.PNG`](Disruption_Kit/Field_Logs/🦋🏛️_i_mean_i_guess_youre_trying_and_talking_to_girls_is_tough.PNG)
