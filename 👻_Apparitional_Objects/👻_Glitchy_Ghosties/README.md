@@ -1,72 +1,109 @@
 # 👻 Glitchy Ghosties  
 **First created:** 2025-10-04 | **Last updated:** 2025-12-06  
-*Memetic ghosts: informational entities that behave as if they recognise you.*
+*The Polaris fieldbook for digital ghosts — the taxonomy of apparitional behaviour across systems, data, memory, and networks.*
 
 ---
 
 ## 🛰️ Orientation  
-**Glitchy Ghosties** houses *memetic ghosts* — uncanny informational artefacts that arise not from your data, nor your past, nor your social graph, but from your **behavioural patterns**.  
+**Glitchy Ghosties** is the parent directory for all ghost-like phenomena observed in digital, bureaucratic, or algorithmic environments.  
+A “ghost” in Polaris terms is not supernatural:  
+it is an artefact of system behaviour that feels alive, intentional, or personally targeted.
 
-A memetic ghost is conjured when recommender systems, pattern recognisers, or algorithmic inference engines misread your activity as a coherent identity signal.  
-They speak in second person.  
-They imply hidden protocols.  
-They feel personalised even when they are templated.
+Ghosts emerge when systems:
+- misremember  
+- misinfer  
+- miscategorise  
+- crosswire  
+- or try to interpret the human in ways beyond their capability
 
-They do not know you.  
-They only know the shape of your drift.
-
----
-
-## What Defines a Memetic Ghost
-A ghost belongs here if it:
-
-- **addresses the user directly** (“you are…”, “the system has noticed…”)  
-- behaves as though it has **knowledge or access** it cannot possibly have  
-- attaches to **behaviour**, not identity  
-- emerges from **algorithmic or memetic structures**, not bureaucratic ones  
-- corrodes trust in systems through **tone, implication, and vibe**  
-- spreads through **replicable templates** (AI videos, SCP formats, chain-tropes)  
-- targets users with **non-linear or system-confusing patterns**
-
-These ghosts are not errors.  
-They are side-effects of the machine trying too hard to interpret you.
+This directory defines the **four families of ghosts** and provides a framework for logging, studying, and cross-referencing them.
 
 ---
 
-## Examples of Glitchy Ghosties
-- algorithmic SCP-style videos claiming “you’ve broken protocol”  
-- AI narrators implying you are “unclassifiable”  
-- identity-analysis templates triggered by chaotic browsing  
-- uncanny “you are different from most users” content  
-- personalised-seeming creepypasta generated on demand  
+# 🧿 The Four Ghost Families
 
-Each specimen is a narrative parasite.  
-A little voice conjured by statistical inference.
+## 🍄 1. Memetic Ghosts  
+*Behaviour-triggered narrative entities.*  
+Ghosts that arise from recommender systems, algorithmic inference, or memetic templates.  
+They “speak” as if they recognise you: uncanny, second-person, SCP-like.
 
----
-
-## Logging a Memetic Ghost  
-1. **Trigger Context** — the behaviour that preceded it.  
-2. **Narrative Form** — voice, template, structure, mimicry.  
-3. **Payload** — flattery, paranoia, classification, doom.  
-4. **Target Surface** — what behaviour it seemed to latch onto.  
-5. **Replication Pattern** — does it appear across formats or accounts?  
-6. **Interpretation** — what trust, doubt, or story it tries to plant.  
+Lives in: **Glitchy_Ghosties/🍄_Memetic_Ghosts/**
 
 ---
 
-## 🌌 Constellations  
-👻 🍄 🧿 🛰️ — apparitional, behavioural, uncanny, emergent.
+## 👾 2. Metadata Ghosts  
+*Errors that behave like entities.*  
+Contradictory, orphaned, or corrupted records that refuse deletion or correction.  
+They haunt your administrative shadow.
+
+Lives in: **Glitchy_Ghosties/👾_Metadata_Ghosts/**
 
 ---
 
-## ✨ Stardust  
-memetic ghost, recommender illusions, identity narrative, personalised uncanny, behavioural inference, trust erosion
+## 🪦 3. Haunting Ghosts  
+*Your past behaving like it’s still present.*  
+Old content loops, resurfacing data, legacy errors, or algorithmic déjà vu.  
+A ghost of *you that used to be*.
+
+Lives in: **Glitchy_Ghosties/🪦_Haunting_Ghosts/**
 
 ---
 
-## 🏮 Footer  
-Memetic ghosts arise at the edges of understanding — where systems attempt to read a person and instead conjure a story.
+## 🪹 4. Network Ghosts  
+*Phantom social graphs.*  
+Inferred associations, imagined communities, algorithmic guesses about your affiliations.  
+A nest built from correlations — with no “you” inside it.
+
+Lives in: **Glitchy_Ghosties/🪹_Network_Ghosts/**
+
+---
+
+# 🧭 How to Classify a Ghost  
+Use the following questions:
+
+1. **Is it a data problem?**  
+   → Metadata Ghost  
+
+2. **Is it your past returning uninvited?**  
+   → Haunting Ghost  
+
+3. **Is it a behaviour-triggered narrative that feels personalised?**  
+   → Memetic Ghost  
+
+4. **Is it the system imagining your relationships or community?**  
+   → Network Ghost  
+
+If multiple apply, choose the *primary mechanism*, not the vibe.
+
+---
+
+# 📘 How to Log a Ghost  
+Every ghost entry should include:
+
+1. **Timestamp**  
+2. **Surface** (platform, database, system)  
+3. **Ghost Type** (memetic, metadata, haunting, network)  
+4. **Trigger Conditions** (behaviour, search, action)  
+5. **Manifestation** (appearance, message, anomaly, inference)  
+6. **User Effect** (emotion, confusion, erosion, friction)  
+7. **Residual Evidence** (screenshot, quote, behaviour trace)  
+8. **Interpretation** (what it reveals about the system)
+
+---
+
+# 🌌 Constellations  
+👻 🧿 🛰️ 🪬 — apparitional register; diagnostic lens; algorithmic ambience; narrative instability.
+
+---
+
+# ✨ Stardust  
+ghost taxonomy, apparitional objects, system anomalies, metadata drift, memetic entities, network inference, algorithmic hauntings
+
+---
+
+# 🏮 Footer  
+Ghosts are not accidents.  
+They are the places where the system’s story about itself breaks and the truth leaks through.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-12-06_
