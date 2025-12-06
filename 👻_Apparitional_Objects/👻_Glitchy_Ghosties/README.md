@@ -1,56 +1,72 @@
 # 👻 Glitchy Ghosties  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*A fieldbook for recording small digital hauntings—moments where systems stutter, reveal memory, or act as if remembering.*
+**First created:** 2025-10-04 | **Last updated:** 2025-12-06  
+*Memetic ghosts: informational entities that behave as if they recognise you.*
 
 ---
 
-## Purpose
-To document the apparitional behaviour of code, platforms, and archives when they momentarily break character.  
-A “glitchy ghostie” is a fleeting signal: an auto-fill that repeats a lost name, a file that won’t stay deleted, a caption that writes itself twice.  
-Each sighting matters not for its magnitude but for what it discloses—proof that the machine is haunted by its own training data.
+## 🛰️ Orientation  
+**Glitchy Ghosties** houses *memetic ghosts* — uncanny informational artefacts that arise not from your data, nor your past, nor your social graph, but from your **behavioural patterns**.  
+
+A memetic ghost is conjured when recommender systems, pattern recognisers, or algorithmic inference engines misread your activity as a coherent identity signal.  
+They speak in second person.  
+They imply hidden protocols.  
+They feel personalised even when they are templated.
+
+They do not know you.  
+They only know the shape of your drift.
 
 ---
 
-## How to Log a Ghostie
-1. **Timestamp** – when it appeared.  
-2. **Surface** – where it manifested (platform, file, object).  
-3. **Glitch Type** – repetition, flicker, self-correction, bleed-through, echo.  
-4. **Human Response** – confusion, amusement, fear, recognition.  
-5. **Residual Trace** – screenshot, log line, or recollection.  
-6. **Interpretive Note** – what the ghostie might be trying to say.
+## What Defines a Memetic Ghost
+A ghost belongs here if it:
+
+- **addresses the user directly** (“you are…”, “the system has noticed…”)  
+- behaves as though it has **knowledge or access** it cannot possibly have  
+- attaches to **behaviour**, not identity  
+- emerges from **algorithmic or memetic structures**, not bureaucratic ones  
+- corrodes trust in systems through **tone, implication, and vibe**  
+- spreads through **replicable templates** (AI videos, SCP formats, chain-tropes)  
+- targets users with **non-linear or system-confusing patterns**
+
+These ghosts are not errors.  
+They are side-effects of the machine trying too hard to interpret you.
 
 ---
 
-## Categories
-- **Echoes** – words, sounds, or gestures that reappear unsummoned.  
-- **Refusals** – files or systems that resist closure.  
-- **Bleeds** – private content surfacing in public fields.  
-- **Mimics** – AI or automation repeating human tics.  
-- **Flickers** – UI anomalies that suggest presence.  
-- **Remnants** – metadata fragments that persist post-deletion.
+## Examples of Glitchy Ghosties
+- algorithmic SCP-style videos claiming “you’ve broken protocol”  
+- AI narrators implying you are “unclassifiable”  
+- identity-analysis templates triggered by chaotic browsing  
+- uncanny “you are different from most users” content  
+- personalised-seeming creepypasta generated on demand  
+
+Each specimen is a narrative parasite.  
+A little voice conjured by statistical inference.
 
 ---
 
-## Notes on Tone
-Write ghosties as field notes, not horror stories.  
-Keep description factual, almost scientific; let the unease arrive through precision.  
-Avoid sensationalism: these are ordinary hauntings, not monsters.
+## Logging a Memetic Ghost  
+1. **Trigger Context** — the behaviour that preceded it.  
+2. **Narrative Form** — voice, template, structure, mimicry.  
+3. **Payload** — flattery, paranoia, classification, doom.  
+4. **Target Surface** — what behaviour it seemed to latch onto.  
+5. **Replication Pattern** — does it appear across formats or accounts?  
+6. **Interpretation** — what trust, doubt, or story it tries to plant.  
 
 ---
 
-## 🌌 Constellations
-👻 🧿 💾 — anomaly, memory, persistence.
+## 🌌 Constellations  
+👻 🍄 🧿 🛰️ — apparitional, behavioural, uncanny, emergent.
 
 ---
 
-## ✨ Stardust
-glitch, haunting, metadata residue, digital uncanny, repetition, signal persistence
+## ✨ Stardust  
+memetic ghost, recommender illusions, identity narrative, personalised uncanny, behavioural inference, trust erosion
 
 ---
 
-## 🏮 Footer
-Every system dreams.  
-Ghosties are what it mutters in its sleep.
+## 🏮 Footer  
+Memetic ghosts arise at the edges of understanding — where systems attempt to read a person and instead conjure a story.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2025-12-06_
