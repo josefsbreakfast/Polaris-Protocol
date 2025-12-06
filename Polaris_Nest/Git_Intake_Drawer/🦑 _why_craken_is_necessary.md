@@ -1,8 +1,8 @@
 # 🦑 Why the CRAKEN System Is Necessary  
-*What it replaces, what it devours, and the global doctrinal carcasses it leaves behind.*
+**Firest created:** 2025-11-20 | **Last updated:** 2025-12-06  
+*What it replaces, what it devours, and the global doctrinal carcasses it leaves behind.*  
 
-**Created:** 20 November 2025  
-**Last updated:** 20 November 2025  
+---
 
 ## Orientation  
 The CRAKEN system (Calcaneus Reflexion Anti-Kraken Ecological Navigation) did not emerge in a vacuum.  
