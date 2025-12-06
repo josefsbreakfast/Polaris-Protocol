@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 05:21:21 UTC_
+_Generated on 2025-12-06 05:25:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3601,6 +3601,7 @@ _Generated on 2025-12-06 05:21:21 UTC_
   - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
     - [**🍄_Memetic_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/README.md)
+      - [`🍪_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🍪_ghost_capture_fragment.md)
       - [`🐛_algorithmic_scp_unknown_class.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_unknown_class.md)
     - [**👾_Metadata_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/README.md)
@@ -3609,7 +3610,6 @@ _Generated on 2025-12-06 05:21:21 UTC_
     - [**🪹_Network_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/README.md)
     - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
-    - [`👻_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👻_ghost_capture_fragment.md)
     - [`👻_who_are_the_ghosts.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👻_who_are_the_ghosts.md)
   - [**🦴_Skeletal_Shards/**](👻_Apparitional_Objects/🦴_Skeletal_Shards/)
     - [`README.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/README.md)
