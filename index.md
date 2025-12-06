@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 19:38:32 UTC_
+_Generated on 2025-12-06 19:39:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2912,7 +2912,7 @@ _Generated on 2025-12-06 19:38:32 UTC_
     - [`🕷️_misuse_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_misuse_resilience.md)
     - [`🕷️_prevent_as_soft_coup_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_prevent_as_soft_coup_infrastructure.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
-    - [`🕸️_algorithmic_hearing_is _not_listening.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_algorithmic_hearing_is _not_listening.md)
+    - [`🕸️_algorithmic_hearing_is_not_listening.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_algorithmic_hearing_is_not_listening.md)
     - [`🕸️_architectural_vs_human_versions_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_architectural_vs_human_versions_targeting.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
     - [`🕸️_containment_as_emergent_system_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_containment_as_emergent_system_behaviour.md)
