@@ -1,5 +1,5 @@
 # 🕸️ Algorithmic Hearing Is Not Listening  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-12-06  
 *How “listening metrics” simulate responsiveness while erasing real political voice.*
 
 ---
@@ -71,11 +71,12 @@ algorithmic listening, dashboards, metrics, civic erasure, representation, dataf
 *Algorithmic Hearing as False Accountability* is a living node of the Polaris Protocol.  
 It maps how analytic tools simulate democratic responsiveness while structurally erasing the public from its own governance.
 
-> 📡 Cross-references:  
-> - [🧩 The Politic Is No Longer Heard](./🧩_the_politic_is_no_longer_heard.md)  
-> - [🌀 Systems & Governance](../Big_Picture_Protocols/🌀_systems_&_governance/)  
-> - [🪖 Home Front 2.0](../Digital_Disruption/🪖_home_front_2.0/)  
+> 📡 Cross-references:
+> 
+> - [🧩 The Politic Is No Longer Heard]  
+> - [🌀 Systems & Governance]  
+> - [🪖 Home Front 2.0]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-06_
