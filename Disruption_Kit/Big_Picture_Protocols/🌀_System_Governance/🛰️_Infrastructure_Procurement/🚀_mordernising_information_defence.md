@@ -172,7 +172,52 @@ It is necessary to preserve:
 
 If the state does not modernise its doctrine, adversaries will modernise it for them — from the outside.
 
---
+---
+
+## 🧿 Institutional Consequence: Outsourcing Leaves People Unprotected
+
+The most immediate failure of the outsourcing model is not strategic — it is human.  
+
+When targeted discreditation or hostile procedural pressure is misclassified as “PR noise,” the individuals inside the blast radius experience the full impact with no functional protection.  
+
+Once a case is routed into outsourced comms space:  
+
+- the affected staff lose access to security-led interpretation,
+- the threat is reframed as reputational inconvenience rather than adversarial intent,
+- senior leadership never sees the underlying pattern,
+- contractors act on brand logic rather than defence doctrine,
+- and those closest to the incident become the de facto shock absorbers.  
+
+Professionals inside defence, academia, government, or adjacent public-service roles find themselves navigating institutionally generated opacity,  
+procedural drag,  
+and emotional attrition — all while the actual risk goes unaddressed.  
+
+This is more than inefficiency.  
+
+It is a form of institutional abandonment, produced not by malice but by structural misclassification.  
+By outsourcing the response, the state also outsources the burden — downward, onto individuals who lack both the resources and the authority to interpret the threat correctly.  
+
+Until information defence is recognised as a sovereign function, rather than a communications inconvenience, those targeted will continue to face hostile pressure with inadequate support.  
+
+And the UK will continue responding to information warfare by inadvertently sacrificing its own people to procedural containment.  
+
+---
+
+Speaking from experience?  
+
+If you dare to report a malicious impersonation of MOD personnel?  
+
+The government will let the provate contractors who did this to you, abuse you as far as they can, as punishment for doing the safest thing for us all.  
+
+And the governmemt of the day?  
+
+Patting itself on the back for having done a bang-up job.  
+
+That's exactly how it works right now; you will be eaten and spat out snd treated like you're the problem.  
+
+Aren't we all, those of us who love our country?  
+
+---
 
 ## 🌌 Constellations  
 🧿 🛰️ ⚖️ 🔬 🚨 — diagnostic register mapping institutional blind spots and modernising threat doctrine.
