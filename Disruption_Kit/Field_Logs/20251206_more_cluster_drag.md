@@ -22,7 +22,7 @@ incidently, this has been segmented with aliyah ads.
 
 i don't want to fucking leave my country.  
 
-if i do emigrate, it's not going to be to prop up an apartheid.  
+if i do emigrate, it's not going to be to prop up a dying apartheid.  
 
 it is as if any agency at all makes me a bad person, which us clearly made-up horseshit belonging to minds which should be completely uninvolved in my life and my business.  
 
