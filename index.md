@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 05:18:17 UTC_
+_Generated on 2025-12-06 05:20:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2671,7 +2671,6 @@ _Generated on 2025-12-06 05:18:17 UTC_
     - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_vulnerability_manufacture_to_enmeshment.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
-    - [`🐛_algorithmic_scp_unknown_class.md`](Polaris_Nest/Git_Intake_Drawer/🐛_algorithmic_scp_unknown_class.md)
     - [`🐝_post_protofascist_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🐝_post_protofascist_reconstruction.md)
     - [`🐝_sanctions_as_loyalty_test.md`](Polaris_Nest/Git_Intake_Drawer/🐝_sanctions_as_loyalty_test.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
@@ -3602,6 +3601,7 @@ _Generated on 2025-12-06 05:18:17 UTC_
   - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
     - [**🍄_Memetic_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/README.md)
+      - [`🐛_algorithmic_scp_unknown_class.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_unknown_class.md)
     - [**👾_Metadata_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/README.md)
     - [**🪦_Haunting_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪦_Haunting_Ghosts/)
