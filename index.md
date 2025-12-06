@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 19:32:23 UTC_
+_Generated on 2025-12-06 19:34:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2501,7 +2501,6 @@ _Generated on 2025-12-06 19:32:23 UTC_
     - [`How_Emotional_Shock_Distorts_Institutional_Decision-Making.md`](Polaris_Nest/Git_Intake_Drawer/How_Emotional_Shock_Distorts_Institutional_Decision-Making.md)
     - [`Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md`](Polaris_Nest/Git_Intake_Drawer/Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
-    - [`Post-CCRU Diaspora Network Diagram.png`](Polaris_Nest/Git_Intake_Drawer/Post-CCRU Diaspora Network Diagram.png)
     - [`Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md`](Polaris_Nest/Git_Intake_Drawer/Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`Structural_Survivorship_in_Multi-Agency_Environments.md`](Polaris_Nest/Git_Intake_Drawer/Structural_Survivorship_in_Multi-Agency_Environments.md)
@@ -2518,6 +2517,7 @@ _Generated on 2025-12-06 19:32:23 UTC_
     - [`numeric_summary_target_blowback_metrics.csv`](Polaris_Nest/Git_Intake_Drawer/numeric_summary_target_blowback_metrics.csv)
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
+    - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
