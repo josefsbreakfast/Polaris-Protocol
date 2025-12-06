@@ -1,5 +1,5 @@
 # 💔 For The Men Who Thought They Were Outside The Blast Radius  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-06  
 *For the men who realise too late that patriarchy does not protect its foot soldiers.*
 
 ---
@@ -99,10 +99,11 @@ patriarchy, men, awakening, blast radius, disillusionment, system harm, betrayal
 It documents the moment men realise patriarchal systems will ultimately harm them too—and the possibility of choosing integrity over hierarchy.
 
 > 📡 Cross-references:
-> - [🌙 Everyday Containment](../🌸_Containment_Studies/🌙_Everyday_Containment/)  
-> - [💞 Containment Theory](../🌸_Containment_Studies/💞_Containment_Theory/)  
-> - [🐝 All In Commons](../🦆_Digital_Disruption/🐝_All_In_Commons/)  
+> 
+> - [🌙 Everyday Containment]  
+> - [💞 Containment Theory]  
+> - [🐝 All In Commons]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-06_
