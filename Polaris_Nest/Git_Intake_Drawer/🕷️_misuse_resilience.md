@@ -1,5 +1,5 @@
 # 🕷️ Misuse Resilience  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-06  
 *Design principles and language patterns that make Polaris resistant to misinterpretation, weaponisation, and hostile narrative distortion.*
 
 ---
@@ -225,4 +225,4 @@ It articulates the writing and structural strategies that make Polaris resistant
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-06_
