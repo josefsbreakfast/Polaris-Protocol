@@ -57,3 +57,9 @@ none of you should have told the spv to "just get the job done".
 how much does long-standing vestibular neurology go for on the tort market these days?  
 
 better start positioning well, because the gaps will say everything.  
+
+---
+
+i have just the algorithmic loop in mind.  
+
+---
