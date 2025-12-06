@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 19:36:05 UTC_
+_Generated on 2025-12-06 19:36:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2845,7 +2845,6 @@ _Generated on 2025-12-06 19:36:05 UTC_
     - [`🔔_you_cant_soothe_germany_twice.md`](Polaris_Nest/Git_Intake_Drawer/🔔_you_cant_soothe_germany_twice.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md`](Polaris_Nest/Git_Intake_Drawer/🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md)
-    - [`🔥_ stop_being_weird_and_start_being_wife-material_for_science.md`](Polaris_Nest/Git_Intake_Drawer/🔥_ stop_being_weird_and_start_being_wife-material_for_science.md)
     - [`🔥_controlled_fury_in_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🔥_controlled_fury_in_analysis.md)
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_hasidic_thought_vs_state_violence_inversion.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hasidic_thought_vs_state_violence_inversion.md)
@@ -2855,6 +2854,7 @@ _Generated on 2025-12-06 19:36:05 UTC_
     - [`🔥_pink_pussyhats_the_backlash_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🔥_pink_pussyhats_the_backlash_cycle.md)
     - [`🔥_reform_uk_as_erosion_vector.md`](Polaris_Nest/Git_Intake_Drawer/🔥_reform_uk_as_erosion_vector.md)
     - [`🔥_shame_as_the_master_key_of_fascist_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🔥_shame_as_the_master_key_of_fascist_manipulation.md)
+    - [`🔥_stop_being_weird_and_start_being_wife_material_for_science.md`](Polaris_Nest/Git_Intake_Drawer/🔥_stop_being_weird_and_start_being_wife_material_for_science.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
