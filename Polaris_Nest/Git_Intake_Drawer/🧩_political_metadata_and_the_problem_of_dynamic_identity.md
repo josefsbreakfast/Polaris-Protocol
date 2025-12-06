@@ -1,5 +1,5 @@
 # 🧩 Political Metadata and the Problem of Dynamic Identity
-**First created:** 2025-11-07 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-07 | **Last updated:** 2025-12-06  
 
 ---
 
@@ -15,4 +15,4 @@ Brief description of 🧩 political metadata and the problem of dynamic identity
 
 ---
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-06_
