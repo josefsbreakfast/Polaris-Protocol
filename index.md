@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 19:42:05 UTC_
+_Generated on 2025-12-06 19:42:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3138,7 +3138,6 @@ _Generated on 2025-12-06 19:42:05 UTC_
     - [`🧨_trauma_driven_compliance.md`](Polaris_Nest/Git_Intake_Drawer/🧨_trauma_driven_compliance.md)
     - [`🧨_unusual_contact_misread.md`](Polaris_Nest/Git_Intake_Drawer/🧨_unusual_contact_misread.md)
     - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Polaris_Nest/Git_Intake_Drawer/🧨_why_argumentation_fails_with_alt_right_ideology.md)
-    - [`🧩 _threat_surface_map.md`](Polaris_Nest/Git_Intake_Drawer/🧩 _threat_surface_map.md)
     - [`🧩_academic_precarity_as_authoritarian_vector.md`](Polaris_Nest/Git_Intake_Drawer/🧩_academic_precarity_as_authoritarian_vector.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_algorithmic_conscience.md`](Polaris_Nest/Git_Intake_Drawer/🧩_algorithmic_conscience.md)
@@ -3187,6 +3186,7 @@ _Generated on 2025-12-06 19:42:05 UTC_
     - [`🧩_the_prevent_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_prevent_paradox.md)
     - [`🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
+    - [`🧩_threat_surface_map.md`](Polaris_Nest/Git_Intake_Drawer/🧩_threat_surface_map.md)
     - [`🧩_twinning_as_reputation_repair.md`](Polaris_Nest/Git_Intake_Drawer/🧩_twinning_as_reputation_repair.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_left_looks_scary_during_deradicalisation.md)
