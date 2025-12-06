@@ -1,5 +1,5 @@
 # 🧠 Institutional Perception: The No-Win Zone  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-06  
 *Why, once transparency is established, hostile escalation backfires on the hostile actor — not on the survivor.*
 
 ---
@@ -160,4 +160,4 @@ It explains how transparent civic structures invert the power of hostile actors,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-06_
