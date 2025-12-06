@@ -1,5 +1,5 @@
 # 💕 For The Women Who Suddenly Realise They Are Here Too  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-06  
 *For the moment you realise the “system” isn’t abstract — it has teeth, and they are in you.*
 
 ---
@@ -126,10 +126,10 @@ It documents the gendered moment of system-realisation — the instant a woman r
 
 > 📡 Cross-references:
 > 
-> - [🌙 Everyday Containment](../🌸_Containment_Studies/🌙_Everyday_Containment/) — *lived forms of structural pressure*  
-> - [💞 Containment Theory](../🌸_Containment_Studies/💞_Containment_Theory/) — *why systems fail women predictably*  
-> - [🐝 All In Commons](../🦆_Digital_Disruption/🐝_All_In_Commons/) — *collective repair and feminist infrastructure*
+> - [🌙 Everyday Containment] — *lived forms of structural pressure*  
+> - [💞 Containment Theory] — *why systems fail women predictably*  
+> - [🐝 All In Commons] — *collective repair and feminist infrastructure*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-06_
