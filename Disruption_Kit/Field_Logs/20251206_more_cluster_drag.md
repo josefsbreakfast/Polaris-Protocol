@@ -45,3 +45,15 @@ if you want to persuade me, tear down the wall, end the apartheid, and stop poli
 what type of conservatism involves being in my digital knicker drawer all day, i do not know.  
 
 ---
+
+okay.  
+
+it's clicked.  
+
+i've git my 5 core parties, subject to siloing and subcontracting.  
+
+none of you should have told the spv to "just get the job done".  
+
+how much does long-standing vestibular neurology go for on the tort market these days?  
+
+better start positioning well, because the gaps will say everything.  
