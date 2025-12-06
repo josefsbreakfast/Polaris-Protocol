@@ -21,14 +21,14 @@ It is simply the algorithm reanimating a part of *your own archive* in a loop.
 ---
 
 ## 🎩 What Happened  
-You engaged with a specific aesthetic fingerprint:
+Engaged with a specific aesthetic fingerprint:  
 
 - Gregory Peck in his romantic/heroic era  
 - soft lighting, close-up shots, smoulder-coded  
 - female-gaze edits emphasizing emotional availability  
 - “gentleman caller” archetype  
 
-Your platform observed this and placed the behaviour into a **centroid cluster** shared by users who consume:
+The platform observed this and placed the behaviour into a local **centroid cluster**, now shared by users who get to consume:  
 
 - old-Hollywood masculinity  
 - “safe” romantic archetypes  
@@ -36,21 +36,21 @@ Your platform observed this and placed the behaviour into a **centroid cluster**
 - high-romance, low-toxicity edits  
 - nostalgia-coded charisma  
 
-This seeded the metadata ghost.
-
+This seeded the metadata ghost.  
+<!--You are all collectively welcome.-->  
 Because centroid clusters are periodically *re-tested*,  
 the Peck ghost resurfaces like a polite apparition,  
 checking whether the emotional resonance still holds.
 
 ---
 
-## 🔁 Ghost Mechanic: The Recursion Loop  
+## ➰ Ghost Mechanic: The Recursion Loop  
 
 **Step 1 — Aesthetic Seed**  
 High-affect viewing → long watch-time → emotional cues → centroid placement.
 
 **Step 2 — Centroid Reinforcement**  
-System notices others in the cluster enjoy similar edits → strengthens your association.
+System notices others in the cluster reinforce interest proxy behaviour for similar edits → strengthens the association.
 
 **Step 3 — Dormancy**  
 The pattern rests while the system tries newer stimuli.
@@ -91,8 +91,8 @@ This is a ghost that says,
 
 This metadata ghost shares its lineage with:
 
-- soft-focus edits of Cary Grant, Omar Sharif, Alain Delon  
-- romantic male archetypes in Tumblr-era fandom  
+- soft-focus edits of Cary Grant, Omar Sharif, Alain Delon <!--You thought I couldn't get any worse? -->  
+- romantic male archetypes in Tumblr-era fandom <!--I have never been better equipped to provide a national service.-->  
 - ASMR-coded affection scripts  
 - vintage Hollywood sincerity  
 - the “gentleman protector” meme cycle  
@@ -114,14 +114,15 @@ This ghost does not represent:
 
 It represents:
 
-- a centroid cluster you briefly entered  
+- a centroid cluster and its responses  
 - the algorithm’s fondness for emotional consistency  
 - the banality of recommendation loops  
-- your own digital residue  
-- a harmless, charming metadata haunting
+- one's own digital residue  
+- a harmless, charming metadata haunting  
 
 In short:  
-**you generated a classy little ghost who wears a suit and calls you “darling” with its eyes.**
+**you generated a classy little ghost who wears a suit and calls you “darling” with its eyes.**  
+<!--Those eyelashes, though.-->  
 
 ---
 
