@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-06 05:29:02 UTC_
+_Generated on 2025-12-06 05:32:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3605,6 +3605,7 @@ _Generated on 2025-12-06 05:29:02 UTC_
       - [`🐛_algorithmic_scp_unknown_class.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_unknown_class.md)
     - [**👾_Metadata_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/README.md)
+      - [`🌀_gregory_peck_recursion.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/🌀_gregory_peck_recursion.md)
       - [`👻_who_are_the_ghosts.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/👻_who_are_the_ghosts.md)
     - [**🪦_Haunting_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪦_Haunting_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪦_Haunting_Ghosts/README.md)
