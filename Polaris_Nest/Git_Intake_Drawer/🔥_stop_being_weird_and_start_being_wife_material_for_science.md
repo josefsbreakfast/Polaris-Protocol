@@ -1,6 +1,6 @@
 # 🔥 Stop Being Weird and Start Being Wife-Material for Science  
 **Folder:** 👾 Debugging The Men → 🧬 Further Potential Male Nonsense  
-**Created:** 2025-11-16 | **Updated:** 2025-11-16  
+**Created:** 2025-11-16 | **Updated:** 2025-12-06  
 *A feral-but-corrective node reminding certain tech bros that if they want to lead humanity into the future, they need to start behaving like a man a scientist could actually introduce to her research cohort without cringing.*
 
 ---
