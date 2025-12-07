@@ -1,5 +1,5 @@
 # 🌱 Institutional Betrayal Reflex  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
 *A reassurance node explaining why institutions “freeze” when confronted with internal harm — and why this reflex is human, predictable, and manageable.*  
 
 ---
@@ -130,4 +130,4 @@ betrayal reflex, institutional shock, organisational delay, emotional freeze, ps
 *🌱 Institutional Betrayal Reflex* is a reassurance node within the Polaris Protocol, describing the human emotional cycle that precedes acknowledgment and correction.  
 It normalises delay without excusing harm, offering a stable frame for interpreting institutional silence.
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
