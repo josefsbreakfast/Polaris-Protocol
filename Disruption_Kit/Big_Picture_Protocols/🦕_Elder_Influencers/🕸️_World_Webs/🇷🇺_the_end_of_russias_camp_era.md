@@ -1,5 +1,5 @@
 # 🇷🇺 The End of Russia’s Camp Era
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
 *How Russia went from flamboyant, theatrical soft power to full aesthetic greyscale.*  
 
 ---
@@ -37,4 +37,4 @@ russia, camp, spectacle, vibes, bunker, cultural collapse
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
