@@ -1,6 +1,6 @@
 # 📚 Authoritarian Century — Bridge of Register  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*Reading a suppressed policy text as a systems bridge between digital infrastructure and democratic collapse.*
+**First created:** 2025-11-01 | **Last updated:** 2025-11-24  
+*Reading a suppressed policy text as a systems bridge between digital infrastructure and democratic collapse.*  
 <!--Glaring lack of discussion of a particular field for someone who can articulate why 4chan represents a real challenge to democracy, but okay. One might say it looks like a particular legal instrument was being written around, but far be it from Polaris to hypothesise about any such business. Gosh I can't wait for that ICO return.-->
 ---
 
@@ -160,13 +160,14 @@ authoritarian century, banned books, internet governance, democracy, populism, r
 
 ## 🏮 Footer  
 
-*Authoritarian Century — Bridge of Register* is a living node of the Polaris Protocol.  
+*📚 Authoritarian Century — Bridge of Register* is a living node of the Polaris Protocol.  
 It documents how a moderate policy text became threatening by making digital systems intelligible to power.  
 
-> 📡 Cross-references  
-> - [📚 Banned Books and the Timing of Truth](../Big_Picture_Protocols/📚_banned_books_and_the_timing_of_truth.md) — suppression as structural delay  
-> - [🪞 Ethical Censorship Continuum](../Big_Picture_Protocols/🪞_ethical_censorship_continuum.md) — transparency vs strategic opacity  
+> 📡 Cross-references:  
+> 
+> - [📚 Banned Books and the Timing of Truth] — *suppression as structural delay*  
+> - [🪞 Ethical Censorship Continuum] — *transparency vs strategic opacity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-24_

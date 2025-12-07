@@ -1,6 +1,6 @@
 # 📈 **Polished Authoritarianism — Aesthetic Laundering for Modern Extremism**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Fascism rarely arrives as chaos. It arrives as competence, professionalism, lighting, branding, and keynote decks.*
+**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+*Fascism rarely arrives as chaos. It arrives as competence, professionalism, lighting, branding, and keynote decks.*  
 
 ---
 
@@ -237,10 +237,11 @@ competence camouflage, professional fascism, PR-washed ideology, tonal smuggling
 ---
 
 ## 🏮 Footer  
-**📈 Polished Authoritarianism** is an aesthetics-analysis node within the Polaris Protocol.  
+*📈 Polished Authoritarianism* is an aesthetics-analysis node within the Polaris Protocol.  
 It maps the shift from openly extremist aesthetic signals to modern, boardroom-friendly styles designed to bypass public scrutiny and seduce exhausted professionals.
 
 > 📡 Cross-references:
+> 
 > - 🧳 Boardroom Fascism  
 > - 🎭 Respectability Theatre  
 > - 🎯 Emotional Targeting  
@@ -248,4 +249,4 @@ It maps the shift from openly extremist aesthetic signals to modern, boardroom-f
 
 *Survivor authorship is sovereign. The polish is the camouflage.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-24_

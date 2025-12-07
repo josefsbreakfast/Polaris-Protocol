@@ -12,8 +12,8 @@ I feel like there's a particular skit with Amy from Futurama, but it's been so l
 ---
 
 # 💰 Problem Manufacture — Capitalism as Perpetual Malfunction  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
-*When dysfunction becomes the product itself.*
+**First created:** 2025-10-22 | **Last updated:** 2025-11-24  
+*When dysfunction becomes the product itself.*  
 
 ---
 
@@ -97,11 +97,12 @@ capitalism, problem manufacture, exhaustion economy, psychosomatic class, moral 
 *💰 Problem Manufacture — Capitalism as Perpetual Malfunction* is a living node of the **Polaris Protocol**.  
 It situates profit-through-crisis as a norm-engineering strategy linking economic design to psychosomatic labour control and colonial permission structures.  
 
-> 📡 Cross-references:  
-> - [📺 Money Talks Media](../📺_Money_Talks_Media/README.md) — commodified narratives of dysfunction  
-> - [🐝 Body Politic](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md) — embodied cost of systemic fatigue  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/README.md) — behavioural economics and compliance loops  
+> 📡 Cross-references:
+> 
+> - [📺 Money Talks Media] — *commodified narratives of dysfunction*  
+> - [🐝 Body Politic] — *embodied cost of systemic fatigue*  
+> - [🧠 HM Dept Coercive Nudges] — *behavioural economics and compliance loops*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-11-24_

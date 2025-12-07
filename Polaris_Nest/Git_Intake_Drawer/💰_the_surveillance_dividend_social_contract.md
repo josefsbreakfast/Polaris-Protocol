@@ -1,5 +1,5 @@
 # 💰 The Surveillance Dividend Social Contract  
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2025-11-24  
 *How states could treat surveillance capacity as a taxable extractive industry instead of a reputational knife fight.*  
 
 ---
@@ -83,9 +83,9 @@ surveillance capitalism, taxation, extractive industry, social contract, data go
 ---
 
 ## 🏮 Footer  
-*The Surveillance Dividend Social Contract* is a living node of the **Polaris Protocol**.  
+*💰 The Surveillance Dividend Social Contract* is a living node of the **Polaris Protocol**.  
 It proposes a fiscal architecture for the information age: surveillance pays its own containment costs, and law replaces PR as the operating system of accountability.  
 
-> 📖 See also [⚖️ Norman Law and the Geometry of Impunity](../Big_Picture_Protocols/⚖️_norman_law_and_the_geometry_of_impunity.md) — the feudal inheritance this contract seeks to unwind.  
+> 📖 See also [⚖️ Norman Law and the Geometry of Impunity] — the feudal inheritance this contract seeks to unwind.  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-11-24_

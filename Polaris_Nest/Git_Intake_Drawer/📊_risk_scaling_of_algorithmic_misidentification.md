@@ -1,6 +1,6 @@
 # 📊 Risk Scaling of Algorithmic Misidentification  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*How small statistical probabilities create disproportionate human harm — and why we still don’t measure them.*
+**First created:** 2025-11-01 | **Last updated:** 2025-11-24  
+*How small statistical probabilities create disproportionate human harm — and why we still don’t measure them.*  
 
 ---
 
@@ -74,14 +74,14 @@ risk scaling, algorithmic misidentification, misclassification, data governance,
 ---
 
 ## 🏮 Footer  
-*Risk Scaling of Algorithmic Misidentification* is a living node of the Polaris Protocol.  
+*📊 Risk Scaling of Algorithmic Misidentification* is a living node of the Polaris Protocol.  
 It models how negligible probabilities produce tangible human trauma, and how bureaucratic structures prevent recognition of that fact.  
 
-> 📡 Cross-references:  
-> - [🪞 Algorithmic Projection and False Personalisation](../Narrative_And_Psych_Ops/🪞_algorithmic_projection_and_false_personalisation.md) — projection and paranoia loops  
-> - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../System_Governance/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — systemic misclassification of advocacy  
-> - [⚖️ Institutional Parasitism of Deradicalisation Work](../System_Governance/⚖️_institutional_parasitism_of_deradicalisation_work.md) — extraction of stabilisation labour  
+> 📡 Cross-references:
+> 
+> - [🪞 Algorithmic Projection and False Personalisation] — *projection and paranoia loops*  
+> - [🕸️ Gendered Harms from Counter-Extremism Algorithms] — *systemic misclassification of advocacy*  
+> - [⚖️ Institutional Parasitism of Deradicalisation Work] — *extraction of stabilisation labour*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-24_

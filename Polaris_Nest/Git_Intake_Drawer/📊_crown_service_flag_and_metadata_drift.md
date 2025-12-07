@@ -1,6 +1,6 @@
 # 📊 Crown-Service Flag and Metadata Drift  
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
-*How clerical coding errors turn into jurisdictional confusion.*
+**First created:** 2025-10-31 | **Last updated:** 2025-11-24  
+*How clerical coding errors turn into jurisdictional confusion.*  
 
 ---
 
@@ -65,10 +65,11 @@ metadata drift, crown servant flag, data-protection act, classification error, l
 *📊 Crown-Service Flag and Metadata Drift* is a living node of the Polaris Protocol.  
 It documents how administrative shorthand inside government databases can create unlawful extensions of secrecy jurisdiction.  
 
-> 📡 Cross-references:  
-> - [⚖️ UK Counter-Terrorism and Military Jurisdiction Boundaries](../⚖️_uk_counter_terrorism_and_military_jurisdiction_boundaries.md) — structural context  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../../Polaris_Nest/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and integrity anchor  
+> 📡 Cross-references:
+> 
+> - [⚖️ UK Counter-Terrorism and Military Jurisdiction Boundaries] — *structural context*  
+> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity] — *tone and integrity anchor*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-31_
+_Last updated: 2025-11-24_

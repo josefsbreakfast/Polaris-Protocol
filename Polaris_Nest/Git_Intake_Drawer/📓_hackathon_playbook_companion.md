@@ -1,6 +1,6 @@
 # 📓 Hackathon Playbook Companion  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-15  
-*A lightweight replay log for the Hackathon League — designed for zero-friction note-taking.*
+**First created:** 2025-10-15 | **Last updated:** 2025-11-24  
+*A lightweight replay log for the Hackathon League — designed for zero-friction note-taking.*  
 
 ---
 
@@ -78,14 +78,14 @@ reflection, learning log, public interest tech, hackathon memory, resilience arc
 
 ## 🏮 Footer  
 
-*Hackathon Playbook Companion* is a living node of the Polaris Protocol.  
+*📓 Hackathon Playbook Companion* is a living node of the Polaris Protocol.  
 It provides a zero-friction journal for documenting coordination, ethics, and teamwork lessons from recurring hackathons.  
 
 > 📡 Cross-references:  
-> - [🏟️ Hackathon League](./🏟️_hackathon_league.md) — structure and training flow  
-> - [💧 Sludgy Solutions](./💧_sludgy_solutions.md) — cooperative system design  
-> - [🌍 Treaty for the English Internet](../../Big_Picture_Protocols/🧿_Watch_The_Watchers/🌍_treaty_for_the_english_internet.md) — governance layer  
+> - [🏟️ Hackathon League] — structure and training flow  
+> - [💧 Sludgy Solutions] — cooperative system design  
+> - [🌍 Treaty for the English Internet] — governance layer  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2025-11-24_

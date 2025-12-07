@@ -1,5 +1,5 @@
 # 💰 Credibility Brokers & Golden Eggs  
-**First created:** 2025‑11‑12 | **Last updated:** 2025‑11‑15  
+**First created:** 2025‑11‑12 | **Last updated:** 2025‑11‑24  
 *Examines how trust and legitimacy become tradable commodities.*  
 
 ---
@@ -41,4 +41,4 @@ It provides a conceptual entry point for deeper analyses of legitimacy economies
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑15_
+_Last updated: 2025‑11‑24_

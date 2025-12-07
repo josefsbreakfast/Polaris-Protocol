@@ -1,6 +1,6 @@
 # 💥 Synthetic Personas & Actuarial Failure  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How synthetic centroids, ghost vectors, and collapsed narrative models cause actuarial systems to misprice, mispredict, or fail entirely.*
+**First created:** 2025-11-18 | **Last updated:** 2025-11-24  
+*How synthetic centroids, ghost vectors, and collapsed narrative models cause actuarial systems to misprice, mispredict, or fail entirely.*  
 
 ---
 
@@ -250,3 +250,5 @@ This node links directly to:
 It forms part of the **economic-risk arc**,  
 explaining why systems built on synthetic personas  
 cannot produce stable actuarial predictions.
+
+_Last updated: 2025-11-24_

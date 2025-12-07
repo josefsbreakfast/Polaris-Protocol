@@ -1,6 +1,6 @@
 # 📊 From Data Misuse to White-Collar Breach  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Checklist for identifying when protective-marking misuse becomes a governance or criminal offence.*
+**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+*Checklist for identifying when protective-marking misuse becomes a governance or criminal offence.*  
 
 ---
 
@@ -62,11 +62,12 @@ white-collar crime, data misuse, misfeasance, fraud by abuse of position, protec
 *📊 From Data Misuse to White-Collar Breach* is a living node of the **Polaris Protocol**.  
 It identifies the transition from administrative containment error to deliberate or reckless governance misconduct, providing procedural routes for escalation.
 
-> 📡 Cross-references:  
-> – [📋 Rectification Notice — Multi-Agency](../Disruption_Kit/Survivor_Tools/📋_rectification_notice_multi_agency.md)  
-> – [📮 OSA Flag Clarification Request](../Disruption_Kit/Survivor_Tools/📮_osa_flag_clarification_request.md)  
-> – [🧟‍♀️ Residual Shadows](../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/)  
+> 📡 Cross-references:
+> 
+> – [📋 Rectification Notice — Multi-Agency]  
+> – [📮 OSA Flag Clarification Request]  
+> – [🧟‍♀️ Residual Shadows]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-24_

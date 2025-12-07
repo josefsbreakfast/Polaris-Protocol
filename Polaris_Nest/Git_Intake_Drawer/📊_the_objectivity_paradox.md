@@ -1,6 +1,6 @@
 # 📊 The Objectivity Paradox — How Data Science Proved Men Are the Emotional Gender  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*The discipline built to measure rationality accidentally became a barometer of male emotion.*
+**First created:** 2025-11-02 | **Last updated:** 2025-11-24  
+*The discipline built to measure rationality accidentally became a barometer of male emotion.*  
 
 ---
 
@@ -59,10 +59,11 @@ objectivity paradox, gendered data, emotional quantification, behavioural metric
 *📊 The Objectivity Paradox — How Data Science Proved Men Are the Emotional Gender* is a living node of the **Polaris Protocol.**  
 It serves as a satirical commentary on the collapse of “rational” data culture into a feedback loop of quantified feeling.
 
-> 📡 Cross-references:  
-> - [🗣️ Data Majority as Narrative Voice — Voting by Volume](../Big_Picture_Protocols/🗣️_data_majority_as_narrative_voice_voting_by_volume.md) — on how the loudest emotions become the narrator.  
-> - [🧬 Containment Thresholds — Emotional Data That Can’t Be Unmixed](../Big_Picture_Protocols/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md) — when those emotions fossilise into architecture.  
+> 📡 Cross-references:
+> 
+> - [🗣️ Data Majority as Narrative Voice — Voting by Volume] — *on how the loudest emotions become the narrator*  
+> - [🧬 Containment Thresholds — Emotional Data That Can’t Be Unmixed] — *when those emotions fossilise into architecture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-24_

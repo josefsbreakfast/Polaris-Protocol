@@ -1,6 +1,6 @@
 # 💾 Token Switching — Pseudonymisation Gone Wrong  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*When the safety mechanism swaps sides.*
+**First created:** 2025-11-11 | **Last updated:** 2025-11-24  
+*When the safety mechanism swaps sides.*  
 
 ---
 
@@ -92,10 +92,10 @@ pseudonymisation, token switching, hash reissue, mapping integrity, data governa
 It describes how a protective algorithm becomes a weaponised join, and why containment starts with cryptographic empathy.
 
 > 📡 Cross-references:  
-> - [🪙 Token Integrity Audit — How to Check for Pseudonym Drift](../🧩_System_Governance/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)  
-> - [🧬 Data Twinning — When Two Identities Become One Record](../🧩_System_Governance/🧬_data_twinning_when_two_identities_become_one_record.md)  
-> - [⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems](../🧩_System_Governance/⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md)  
+> - [🪙 Token Integrity Audit — How to Check for Pseudonym Drift]  
+> - [🧬 Data Twinning — When Two Identities Become One Record]  
+> - [⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-11-24_

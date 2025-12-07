@@ -1,6 +1,6 @@
 # 📉 Why CTSA 2015 Violated Every Core IICSA Principle  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How the Counter-Terrorism and Security Act 2015 (CTSA 2015) violated all of the core safeguarding principles established by the Independent Inquiry into Child Sexual Abuse (IICSA), creating a legal regime structurally incompatible with child protection.*
+**First created:** 2025-11-23 | **Last updated:** 2025-11-24  
+*How the Counter-Terrorism and Security Act 2015 (CTSA 2015) violated all of the core safeguarding principles established by the Independent Inquiry into Child Sexual Abuse (IICSA), creating a legal regime structurally incompatible with child protection.*  
 
 ---
 
@@ -311,13 +311,12 @@ CTSA 2015 • IICSA • Prevent • safeguarding • secrecy • counterterroris
 ---
 
 ## 🏮 Footer  
-*📉 Why CTSA 2015 Violated Every Core IICSA Principle*  
-is a safeguarding-analysis node of the Polaris Protocol.  
+*📉 Why CTSA 2015 Violated Every Core IICSA Principle* is a safeguarding-analysis node of the Polaris Protocol.  
 It shows how Prevent’s counterterror architecture is structurally incompatible with child protection and reproduces the exact institutional risks IICSA identified.
 
 > 📡 **Cross-references:**  
 
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-11-24_

@@ -1,6 +1,6 @@
 # 📋 Rectification Notice — Multi-Agency  
-**First created:** 2025-11-12  |  **Last updated:** 2025-11-12  
-*Template notice for cross-agency correction of mis-applied security or OSA-style metadata.*
+**First created:** 2025-11-12  |  **Last updated:** 2025-11-24  
+*Template notice for cross-agency correction of mis-applied security or OSA-style metadata.*  
 
 ---
 
@@ -61,11 +61,12 @@ rectification notice, multi-agency, osa flag correction, gdpr articles 16–19, 
 *📋 Rectification Notice — Multi-Agency* is a living node of the **Polaris Protocol**.  
 It documents how to force synchronised data-correction across inter-agency systems once a mis-applied security flag has been identified.  
 
-> 📡 Cross-references:  
-> – [📮 OSA Flag Clarification Request](../Disruption_Kit/Survivor_Tools/📮_osa_flag_clarification_request.md)  
-> – [🛰️ Who Can See the Flag](../Metadata_Sabotage_Network/🦒_Structural_Analysis/🛰️_who_can_see_the_flag.md)  
-> – [🧟‍♀️ Residual Shadows](../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/)  
+> 📡 Cross-references:
+> 
+> – [📮 OSA Flag Clarification Request]  
+> – [🛰️ Who Can See the Flag]  
+> – [🧟‍♀️ Residual Shadows]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-11-24_

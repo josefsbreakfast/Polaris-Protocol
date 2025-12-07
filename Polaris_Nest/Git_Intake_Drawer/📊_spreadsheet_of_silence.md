@@ -1,6 +1,6 @@
 # 📊 The Spreadsheet of Silence — When Containment Becomes a Cell Format  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*Administrative quiet as data architecture.*
+**First created:** 2025-10-23 | **Last updated:** 2025-11-24  
+*Administrative quiet as data architecture.*  
 
 ---
 
@@ -63,10 +63,11 @@ spreadsheet, containment, metadata, administrative silence, data justice, witnes
 *📊 The Spreadsheet of Silence — When Containment Becomes a Cell Format* is a living node of the Polaris Protocol.  
 It analyses how bureaucratic design performs censorship and outlines documentary counter-methods.  
 
-> 📡 Cross-references:  
-> – [🧲 Phase Management — Stabilising Data-Twin Interference](./🧲_phase_management_stabilising_data-twin_interference.md)  
-> – [🧾 Credibility Logs — The Forensics of Restoration](../../Big_Picture_Protocols/🪄_Expression_Of_Norms/📚_Narrative_Management/🧾_credibility_logs_the_forensics_of_restoration.md)
+> 📡 Cross-references:
+> 
+> – [🧲 Phase Management — Stabilising Data-Twin Interference]  
+> – [🧾 Credibility Logs — The Forensics of Restoration]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-11-24_

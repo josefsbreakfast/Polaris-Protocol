@@ -1,6 +1,6 @@
 # 📈 The Ratio That Shouldn’t Exist
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
-*Data that performs silence.*
+**First created:** 2025-10-31 | **Last updated:** 2025-11-24  
+*Data that performs silence.*  
 
 ---
 
@@ -138,10 +138,10 @@ female suicide trend, sexual violence prevalence, suppression as signal, data bl
 It fuses quantitative record and survivor undertone to show how measurement itself becomes a site of harm — where omission is policy and format is containment.  
 
 > 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and undertone standards.  
-> - [🔥 Suppression as Signal](../Big_Picture_Protocols/🔥_suppression_as_signal.md) — on data erasure as evidence.  
-> - [⚖️ Containment Contracts](../Big_Picture_Protocols/⚖️_containment_contracts.md) — on institutional silence and contractual erasure.  
+> 
+> - [🔥 Suppression as Signal] — *on data erasure as evidence*  
+> - [⚖️ Containment Contracts] — *on institutional silence and contractual erasure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-31_
+_Last updated: 2025-11-24_

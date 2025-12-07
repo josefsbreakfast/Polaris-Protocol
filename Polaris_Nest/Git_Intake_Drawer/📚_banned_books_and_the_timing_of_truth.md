@@ -1,6 +1,6 @@
 # 📚 Banned Books and the Timing of Truth  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*How suppression marks the moment when an institution meets a truth it cannot yet absorb.*
+**First created:** 2025-11-01 | **Last updated:** 2025-11-24  
+*How suppression marks the moment when an institution meets a truth it cannot yet absorb.*  
 
 ---
 
@@ -119,13 +119,14 @@ banned books, censorship, suppression, timing of truth, institutional learning, 
 
 ## 🏮 Footer  
 
-*Banned Books and the Timing of Truth* is a reflective node of the Polaris Protocol.  
+*📚 Banned Books and the Timing of Truth* is a reflective node of the Polaris Protocol.  
 It frames censorship as a temporal, emotional, and systemic function — not absence of truth, but a record of when truth became administratively inconvenient.  
 
-> 📡 Cross-references  
-> - [📚 Authoritarian Century — Bridge of Register](../Big_Picture_Protocols/📚_authoritarian_century_bridge_of_register.md) — digital sovereignty and soft suppression  
-> - [🪞 Ethical Censorship Continuum](../Big_Picture_Protocols/🪞_ethical_censorship_continuum.md) — transparency vs. strategic opacity  
+> 📡 Cross-references:  
+> 
+> - [📚 Authoritarian Century — Bridge of Register] — *digital sovereignty and soft suppression*  
+> - [🪞 Ethical Censorship Continuum] — *transparency vs. strategic opacity*  
 
 *Every ban is a future syllabus entry.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-11-24_

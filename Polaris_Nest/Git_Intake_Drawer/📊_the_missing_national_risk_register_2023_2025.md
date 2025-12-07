@@ -1,6 +1,6 @@
 # 📊 The Missing National Risk Register 2023 – 2025  
-**First created:** 2025-11-04  |  **Last updated:** 2025-11-04  
-*When a country stops publishing its own risk horizon.*
+**First created:** 2025-11-04  |  **Last updated:** 2025-11-24  
+*When a country stops publishing its own risk horizon.*  
 
 ---
 
@@ -151,9 +151,6 @@ Yet the effect is indistinguishable from intentional opacity: without an updated
 
 ## 🌌 Constellations  
 🏛️ Civil Security → 📊 The Missing National Risk Register 2023–2025  
-Linked to:  
-- [🚨 Civil Disorder Response and Governance Single Points of Failure](🚨_civil_disorder_response_and_governance_single_points_of_failure.md)  
-- [🔺 The Golden Triangle and the Hidden Constitution of Local Government](🧭_Governance_Ecologies/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)  
 
 ---
 
@@ -163,9 +160,13 @@ national risk register, resilience, dluhc red, civil contingencies, risk governa
 ---
 
 ## 🏮 Footer  
-*The Missing National Risk Register 2023 – 2025* is a live investigative node within the **Civil Security** cluster of **🛰️ OSINT Field Operations**.  
+*📊 The Missing National Risk Register 2023 – 2025* is a live investigative node within the **Civil Security** cluster of **🛰️ OSINT Field Operations**.  
 It documents how the absence of a routine risk publication becomes a form of containment, concealing instability by withholding metrics of fear itself.  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+Linked to:  
+- [🚨 Civil Disorder Response and Governance Single Points of Failure] 
+- [🔺 The Golden Triangle and the Hidden Constitution of Local Government]
 
-_Last updated: 2025-11-04_
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+_Last updated: 2025-11-24_

@@ -1,6 +1,6 @@
 # 📘 Sexualised Misinterpretation Pattern  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How hostile actors reframe women’s autonomy as sexual risk, deviance, or impropriety — a dominance pattern, not a truth pattern.*
+**First created:** 2025-11-16 | **Last updated:** 2025-11-24  
+*How hostile actors reframe women’s autonomy as sexual risk, deviance, or impropriety — a dominance pattern, not a truth pattern.*  
 
 ---
 
@@ -195,9 +195,9 @@ sexualised distortion, projection, misogyny pattern, safeguarding misuse, narrat
 ---
 
 ## 🏮 Footer  
-*Sexualised Misinterpretation Pattern* is a living node of the Polaris Protocol.  
-It analyses how hostile actors weaponise sexualised narratives to regain dominance when a woman becomes autonomous — and how transparent civic structures collapse these distortions.
+*📘 Sexualised Misinterpretation Pattern* is a living node of the Polaris Protocol.  
+It analyses how hostile actors weaponise sexualised narratives to regain dominance when a woman becomes autonomous — and how transparent civic structures collapse these distortions.  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-11-24_
