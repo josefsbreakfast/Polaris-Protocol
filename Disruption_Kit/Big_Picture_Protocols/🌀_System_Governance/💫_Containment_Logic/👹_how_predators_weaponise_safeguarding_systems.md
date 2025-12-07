@@ -1,5 +1,5 @@
 # 👹 How Predators Weaponise Safeguarding Systems  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
 *How high-status abusers manipulate safeguarding processes intended to protect the vulnerable.*  
 
 ---
@@ -188,9 +188,9 @@ safeguarding, predators, prevent, risk inversion, metadata, concern flags, insti
 ---
 
 ## 🏮 Footer  
-*How Predators Weaponise Safeguarding Systems* is a living node of the Polaris Protocol.  
+*👹 How Predators Weaponise Safeguarding Systems* is a living node of the Polaris Protocol.  
 It documents how safeguarding pathways — designed to protect — are routinely manipulated by high-status abusers to suppress dissent, invert credibility, and isolate whistleblowers.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-07_
