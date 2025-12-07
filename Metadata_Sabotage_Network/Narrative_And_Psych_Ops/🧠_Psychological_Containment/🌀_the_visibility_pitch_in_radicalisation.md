@@ -1,5 +1,5 @@
 # 🌀 The “Visibility Pitch” in Radicalisation  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
 *“You’re not invisible.” The universal emotional hook used by fascists, cults, manipulators, and grifters.*  
 
 ---
@@ -163,4 +163,4 @@ It supports deradicalisation efforts by identifying visibility hunger as the pri
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
