@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:29:16 UTC_
+_Generated on 2025-12-07 23:32:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -12,6 +12,7 @@ _Generated on 2025-12-07 23:29:16 UTC_
   - [`app.json`](.obsidian/app.json)
   - [`appearance.json`](.obsidian/appearance.json)
   - [`core-plugins.json`](.obsidian/core-plugins.json)
+  - [`graph.json`](.obsidian/graph.json)
   - [`workspace.json`](.obsidian/workspace.json)
 - [**Containment_Studies/**](Containment_Studies/)
   - [**🌙_Everyday_Containment/**](Containment_Studies/🌙_Everyday_Containment/)
@@ -3805,4 +3806,6 @@ _Generated on 2025-12-07 23:29:16 UTC_
     - [`🪞_retail_shadowban_index.md`](🩻_Weirdness_Screening/🛒_Service_Blockages/🪞_retail_shadowban_index.md)
   - [`README.md`](🩻_Weirdness_Screening/README.md)
 - [`.gitignore`](.gitignore)
+- [`2025-11-15.md`](2025-11-15.md)
 - [`README.md`](README.md)
+- [`Untitled.base`](Untitled.base)
