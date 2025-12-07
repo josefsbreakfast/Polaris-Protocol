@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:58:50 UTC_
+_Generated on 2025-12-07 21:59:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -168,6 +168,7 @@ _Generated on 2025-12-07 21:58:50 UTC_
         - [`⚡_tempo_differential_when_recognition_lags_behind_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_tempo_differential_when_recognition_lags_behind_perception.md)
         - [`✂️_engineered_disjuncture_of_allies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✂️_engineered_disjuncture_of_allies.md)
         - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
+        - [`❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md)
         - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
         - [`🃏_the_fool_card_and_machine_innocence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🃏_the_fool_card_and_machine_innocence.md)
         - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🇬🇧_diet_authoritarianism_uk_homebrew.md)
@@ -2602,7 +2603,6 @@ _Generated on 2025-12-07 21:58:50 UTC_
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`❌_no_safe_exit_conditions.md`](Polaris_Nest/Git_Intake_Drawer/❌_no_safe_exit_conditions.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🇷🇺_end_of_russias_camp_era.md`](Polaris_Nest/Git_Intake_Drawer/🇷🇺_end_of_russias_camp_era.md)
     - [`🈺_prevent_misfires_racialised_gender_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🈺_prevent_misfires_racialised_gender_patterns.md)
