@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:18:39 UTC_
+_Generated on 2025-12-07 23:22:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -926,6 +926,7 @@ _Generated on 2025-12-07 23:18:39 UTC_
         - [`🌫️_metadata_as_mist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌫️_metadata_as_mist.md)
         - [`🌱_institutional_betrayal_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_institutional_betrayal_reflex.md)
         - [`🌱_love_is_antifascist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md)
+        - [`🌲_campfire_stability_model_for_modern_citizens.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌲_campfire_stability_model_for_modern_citizens.md)
         - [`🌾_impunity_as_fertile_ground.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)
         - [`🌿_lawful_illegality_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_lawful_illegality_of_care.md)
         - [`🍎_how_to_internet_for_kids.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍎_how_to_internet_for_kids.md)
@@ -2629,7 +2630,6 @@ _Generated on 2025-12-07 23:18:39 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
-    - [`🌲_campfire_stability_model_for_modern_citizens.md`](Polaris_Nest/Git_Intake_Drawer/🌲_campfire_stability_model_for_modern_citizens.md)
     - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](Polaris_Nest/Git_Intake_Drawer/🌲_rebuilding_spark_in_a_political_forest_fire.md)
     - [`🌿_normal_human_behaviour_as_risk_flag.md`](Polaris_Nest/Git_Intake_Drawer/🌿_normal_human_behaviour_as_risk_flag.md)
     - [`🍌_racism_as_epistemic_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🍌_racism_as_epistemic_collapse.md)
