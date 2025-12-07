@@ -1,5 +1,5 @@
 # 🌑 Prevent as Britain’s Racialised Surveillance System  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *How Prevent functions as a racialised apparatus of surveillance, misclassification, and behavioural governance—regardless of stated intent.*
 
 ---
@@ -196,14 +196,12 @@ Prevent • racialised surveillance • Islamophobia • anti-Blackness • anti
 ---
 
 ## 🪐 Footer  
-*🏮 Prevent as Britain’s Racialised Surveillance System* is a racialisation-analysis node of the Polaris Protocol.  
+*🌑 Prevent as Britain’s Racialised Surveillance System* is a racialisation-analysis node of the Polaris Protocol.  
 It maps how Prevent’s logic, history, and interpretive frameworks consistently produce racialised harm and civic inequality—even where individual professionals act with good intent.
 
 > 📡 **Cross-references:**  
-> - [🔮 House Style](./🔮_house_style.md)  
-> - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Where to Go](./🏮_where_to_go.md)
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
