@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:27:37 UTC_
+_Generated on 2025-12-07 04:30:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -473,6 +473,7 @@ _Generated on 2025-12-07 04:27:37 UTC_
         - [`📣_mainstream_visibility_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📣_mainstream_visibility_gaps.md)
         - [`📱_algorithmic_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📱_algorithmic_recruitment.md)
         - [`🔊_voice_as_recruitment_channel.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🔊_voice_as_recruitment_channel.md)
+        - [`🔥_shame_as_the_master_key_of_fascist_manipulation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🔥_shame_as_the_master_key_of_fascist_manipulation.md)
         - [`🕊️_false_counter_extremism_dialogues.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕊️_false_counter_extremism_dialogues.md)
         - [`🕎_rising_kahanist_violence_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕎_rising_kahanist_violence_risk.md)
         - [`🕹️_gamified_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕹️_gamified_extremism.md)
@@ -2868,7 +2869,6 @@ _Generated on 2025-12-07 04:27:37 UTC_
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
     - [`🔥_metadata_more_dangerous_than_humans.md`](Polaris_Nest/Git_Intake_Drawer/🔥_metadata_more_dangerous_than_humans.md)
     - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🔥_opportunistic_escalation_peri_system_collapse.md)
-    - [`🔥_shame_as_the_master_key_of_fascist_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🔥_shame_as_the_master_key_of_fascist_manipulation.md)
     - [`🔥_stop_being_weird_and_start_being_wife_material_for_science.md`](Polaris_Nest/Git_Intake_Drawer/🔥_stop_being_weird_and_start_being_wife_material_for_science.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
