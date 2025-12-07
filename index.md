@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:41:46 UTC_
+_Generated on 2025-12-07 23:45:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -756,6 +756,7 @@ _Generated on 2025-12-07 23:41:46 UTC_
         - [`⚠️_authoritarian_incentives_in_universities.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚠️_authoritarian_incentives_in_universities.md)
         - [`⛩️_very_secret_peer_review.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)
         - [`🌍_soft_power_and_international_resentment.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md)
+        - [`🎓_academic_un_freedom_in_prevent_critique.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_academic_un_freedom_in_prevent_critique.md)
         - [`🎓_reputation_management_and_university_protest_response.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_reputation_management_and_university_protest_response.md)
         - [`🎓_safeguarding_as_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_safeguarding_as_surveillance.md)
         - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
@@ -2636,7 +2637,6 @@ _Generated on 2025-12-07 23:41:46 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎓_academic_unfreedom_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🎓_academic_unfreedom_in_prevent.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎤_get_back_in_the_camp_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎤_get_back_in_the_camp_ensemble.md)
