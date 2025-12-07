@@ -1,5 +1,5 @@
 # ✏️ How Prevent Flags Quietly Shape Someone’s Life for Years  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-07  
 *How a single Prevent or Channel flag — even if dismissed, unofficial, or never communicated — silently reshapes a person’s treatment within institutions for years afterward.*
 
 ---
@@ -209,6 +209,6 @@ It reveals how a single Prevent flag becomes a long-term interpretive frame that
 > 📡 **Cross-references:**  
 
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-07_
