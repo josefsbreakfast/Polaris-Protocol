@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:21:45 UTC_
+_Generated on 2025-12-07 03:23:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -433,6 +433,7 @@ _Generated on 2025-12-07 03:21:45 UTC_
         - [`❌_the_alt_right_is_not_the_far_right.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_the_alt_right_is_not_the_far_right.md)
         - [`🌋_why_fascist_recruiters_promise_visibility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌋_why_fascist_recruiters_promise_visibility.md)
         - [`🌍_climate_panic_routing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌍_climate_panic_routing.md)
+        - [`🌐_pre_infiltration_of_digital_male_spaces.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌐_pre_infiltration_of_digital_male_spaces.md)
         - [`🍌_nazis_are_the_og_mediocre_white_men.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🍌_nazis_are_the_og_mediocre_white_men.md)
         - [`🎧_music_as_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🎧_music_as_pipeline.md)
         - [`🏛️_elite_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_elite_normalisation.md)
@@ -2599,7 +2600,6 @@ _Generated on 2025-12-07 03:21:45 UTC_
     - [`🌍_muslim_identity_racialisation_parallels_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🌍_muslim_identity_racialisation_parallels_antisemitism.md)
     - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/🌐_late_stage_autocracy_vibe_diagnostics.md)
     - [`🌐_post_digital_data_drift_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🌐_post_digital_data_drift_mechanisms.md)
-    - [`🌐_pre_infiltration_of_digital_male_spaces.md`](Polaris_Nest/Git_Intake_Drawer/🌐_pre_infiltration_of_digital_male_spaces.md)
     - [`🌐_prevent_as_democracy_suppression_engine.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_as_democracy_suppression_engine.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🌑_prevent_as_racialised_surveillance_system.md`](Polaris_Nest/Git_Intake_Drawer/🌑_prevent_as_racialised_surveillance_system.md)
