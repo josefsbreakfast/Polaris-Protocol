@@ -1,5 +1,5 @@
 # 🇩🇪 Trauma Sovereignty as Foreign Policy  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
 *Germany’s foreign policy as trauma-coded identity.*  
 
 ---
@@ -50,4 +50,4 @@ germany, trauma, foreign policy, pacifism, vibes, narrative scripts
 *🇩🇪 Trauma Sovereignty as Foreign Policy* is a living node of the **Polaris Protocol**.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
