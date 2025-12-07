@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:30:08 UTC_
+_Generated on 2025-12-07 04:32:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -33,6 +33,7 @@ _Generated on 2025-12-07 04:30:08 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/README.md)
         - [`⚠️_alt_right_threat_to_both_parties.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/⚠️_alt_right_threat_to_both_parties.md)
         - [`🌹_for_the_serious_red_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)
+        - [`🐍_ambidextrous_authoritarian_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐍_ambidextrous_authoritarian_recruitment.md)
         - [`🐝_post_protofascist_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md)
         - [`🔥_reform_uk_as_erosion_vector.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🔥_reform_uk_as_erosion_vector.md)
         - [`🖌️_for_the_serious_blue_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
@@ -2691,7 +2692,6 @@ _Generated on 2025-12-07 04:30:08 UTC_
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐉_she_is_a_dragon.md`](Polaris_Nest/Git_Intake_Drawer/🐉_she_is_a_dragon.md)
     - [`🐍_algorithmic_hostage_logic.md`](Polaris_Nest/Git_Intake_Drawer/🐍_algorithmic_hostage_logic.md)
-    - [`🐍_ambidextrous_authoritarian_recruitment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_ambidextrous_authoritarian_recruitment.md)
     - [`🐍_prevent_the_self_eating_snake.md`](Polaris_Nest/Git_Intake_Drawer/🐍_prevent_the_self_eating_snake.md)
     - [`🐍_survivor_voice_misread_as_intensity.md`](Polaris_Nest/Git_Intake_Drawer/🐍_survivor_voice_misread_as_intensity.md)
     - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_vulnerability_manufacture_to_enmeshment.md)
