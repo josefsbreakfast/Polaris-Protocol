@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:33:20 UTC_
+_Generated on 2025-12-07 21:11:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -306,6 +306,7 @@ _Generated on 2025-12-07 04:33:20 UTC_
         - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
         - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
+      - [`⏳_chronos_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⏳_chronos_as_containment.md)
       - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**💔_Violence_IRL/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/)
@@ -2577,7 +2578,6 @@ _Generated on 2025-12-07 04:33:20 UTC_
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
-    - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_contingent_conservatism_and_long_horizon_politics.md)
