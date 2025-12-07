@@ -1,5 +1,5 @@
 # 🌍 Cross-Border Bias Propagation in Surveillance Models  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
 *How racialised behavioural data moves between states, vendors, and security ecosystems, reproducing discriminatory logic across borders.*  
 
 ---
@@ -169,4 +169,4 @@ Colonial_Loops · Metadata_Dependence · Diaspora-Error · Signal_Collapse
 This node pairs with “Israel–Five Eyes Structural Interdependency” and “Apartheid Algorithm Dependency Theory.”  
 Together, they map the **cross-border circulation of racialised data**, the fragility of imported security tools, and the systemic vulnerabilities created when injustice becomes a technical requirement for model stability.
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
