@@ -1,5 +1,5 @@
 # 🫶 Declaration of Continued Existence  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-07  
 *Affirming ongoing life, authorship, and presence within the Polaris archive.*  
 
 ---
@@ -36,9 +36,9 @@ declaration of existence, survivor voice, narrative sovereignty, resistance, ant
 
 > 📡 Cross‑references:  
 > 
-> - [📚 Polaris Core Principles](../Core_Protocols/polaris_core_principles.md) — foundational ethical framework.  
-> - [🧩 Narrative Ownership Node](../Survivor_Voice_Fidelity/narrative_ownership.md) — deeper discussion of voice sovereignty.
+> - [📚 Polaris Core Principles] — *foundational ethical framework*  
+> - [🧩 Narrative Ownership Node] — *deeper discussion of voice sovereignty*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-07_
