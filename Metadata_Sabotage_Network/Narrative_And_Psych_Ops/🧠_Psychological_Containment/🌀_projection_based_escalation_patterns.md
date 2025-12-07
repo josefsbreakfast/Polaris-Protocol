@@ -1,5 +1,5 @@
 # 🌀 Projection-Based Escalation Patterns  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
 *A safe, non-operational map of how hostile actors escalate when autonomy disrupts their internal narrative — viewed through projection, not tactics.*
 
 ---
@@ -182,4 +182,4 @@ It maps escalation behaviour that arises when autonomy disrupts a hostile actor�
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
