@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:46:17 UTC_
+_Generated on 2025-12-07 21:47:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -291,6 +291,8 @@ _Generated on 2025-12-07 21:46:17 UTC_
         - [`🚀_start_here.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🚀_start_here.md)
         - [`🤌_nudges_and_biscuits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🤌_nudges_and_biscuits.md)
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
+      - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_HM_Dept_Coercive_Nudges/)
+        - [`⚡️_public_legitimacy_crisis_in_behavioural_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_HM_Dept_Coercive_Nudges/⚡️_public_legitimacy_crisis_in_behavioural_governance.md)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/README.md)
         - [`frankenstack_bad_sandwich_black.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/frankenstack_bad_sandwich_black.png)
@@ -2594,7 +2596,6 @@ _Generated on 2025-12-07 21:46:17 UTC_
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚡️_public_legitimacy_crisis_behavioural_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_public_legitimacy_crisis_behavioural_governance.md)
     - [`✂️_tone_misclassification_emotional_flattening.md`](Polaris_Nest/Git_Intake_Drawer/✂️_tone_misclassification_emotional_flattening.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✏️_how_prevent_flags_quietly_shape_life.md`](Polaris_Nest/Git_Intake_Drawer/✏️_how_prevent_flags_quietly_shape_life.md)
