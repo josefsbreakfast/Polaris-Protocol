@@ -1,5 +1,5 @@
 # ⚖️ Transitional Change vs Rapid Revolutionary Shock  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-07  
 *Why societies destabilise under rapid ideological change, and why measured transitional pacing is essential for constitutional and economic survival.*
 
 ---
@@ -179,4 +179,4 @@ It supports the **Big Picture Protocols** cluster by clarifying the kinetic thre
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
