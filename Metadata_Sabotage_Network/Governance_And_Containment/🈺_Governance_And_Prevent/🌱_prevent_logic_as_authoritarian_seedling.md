@@ -5,8 +5,10 @@
 ---
 
 ## Orientation
-This note explains how PREVENT’s foundational logic—anticipating ideological drift, monitoring behaviour, and escalating based on subjective impressions—functions as a structural seed for proto-authoritarian effects, or as a seedling growing a form of authoritarian control within wider civic infrastructure..  
+This note explains how PREVENT’s foundational logic—anticipating ideological drift, monitoring behaviour, and escalating based on subjective impressions—functions as a structural seed for proto-authoritarian effects, or as a seedling growing a form of authoritarian control within wider civic infrastructure.  
+
 This can sit seperately from claiming PREVENT was created with authoritarian intentions.  
+
 This node examines how the system’s core design features naturally extend into behaviours associated with authoritarian states when layered onto failing services and risk-averse culture.  
 
 ---
