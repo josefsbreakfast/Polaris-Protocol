@@ -1,6 +1,6 @@
 # 🌿 Normal Human Behaviour vs “Risk Indicators”  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
-*Why behavioural-surveillance systems routinely misclassify ordinary emotional life as danger — and how Prevent logic erodes the boundary between being human and being risky.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
+*Why behavioural-surveillance systems routinely misclassify ordinary emotional life as danger — and how Prevent logic erodes the boundary between being human and being risky.*  
 
 ---
 
@@ -218,9 +218,9 @@ normal behaviour, prevent misclassification, safeguarding drift, metadata harm, 
 ---
 
 ## 🏮 Footer  
-*Normal Human Behaviour vs “Risk Indicators”* is a living node of the Polaris Protocol.  
+*🌿 Normal Human Behaviour vs “Risk Indicators”* is a living node of the Polaris Protocol.  
 It restores the distinction between being human and being dangerous — a boundary that behavioural-surveillance systems have eroded through drift, fear, and misinterpretation.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
