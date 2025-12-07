@@ -1,5 +1,5 @@
 # ⚖️ Procedural Correctness as Safeguard  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
 *Why institutions become rigid, hyper-formal, and slow when a coercive or litigious actor is present — and how perfect procedure becomes the only viable protection.*
 
 ---
@@ -196,4 +196,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
