@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:00:46 UTC_
+_Generated on 2025-12-07 04:02:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -105,6 +105,7 @@ _Generated on 2025-12-07 04:00:46 UTC_
         - [`⚖️_the_rule_of_law_trust_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_the_rule_of_law_trust_deficit.md)
         - [`⚖️_transparency_floor_node.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_transparency_floor_node.md)
         - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_uk_constitutional_fault_lines.md)
+        - [`⚖️_uk_data_claim_routes_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_uk_data_claim_routes_and_limits.md)
         - [`⚖️_united_fronts_democratic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_united_fronts_democratic_defence.md)
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
@@ -2572,7 +2573,6 @@ _Generated on 2025-12-07 04:00:46 UTC_
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
     - [`⚖️_transitional_change_vs_rapid_revolutionary_shock.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
-    - [`⚖️_uk_data_claim_routes_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_uk_data_claim_routes_and_limits.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
     - [`⚡_why_some_people_become_systemic_lightning_rods.md`](Polaris_Nest/Git_Intake_Drawer/⚡_why_some_people_become_systemic_lightning_rods.md)
