@@ -1,6 +1,6 @@
 # ⚖️ Administrative Delay as Structural Harm for Disabled Survivors  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*Why “wait several months” functions as violence when a survivor is misclassified, disabled, and denied lawful care.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
+*Why “wait several months” functions as violence when a survivor is misclassified, disabled, and denied lawful care.*  
 
 ---
 
@@ -115,9 +115,9 @@ It documents how bureaucratic time-lag becomes a vector of harm when survivors a
 
 > 📡 Cross-references:
 > 
-> - [🔥 Data Risks](../Metadata_Sabotage_Network/🔥_Data_Risks/) — harm pathways  
-> - [🫀 Trauma Psychology & Medical Misuse](../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_&_Medical_Misuse/) — trauma-impact framework  
+> - [🔥 Data Risks] — *harm pathways*  
+> - [🐦‍🔥 Trauma, Psychology, & Medical Misuse] — *trauma-impact framework*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
