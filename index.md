@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:20:19 UTC_
+_Generated on 2025-12-07 03:21:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -995,6 +995,7 @@ _Generated on 2025-12-07 03:20:19 UTC_
         - [`⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md)
         - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
         - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
+        - [`🌀_semantic_drift_safeguarding_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🌀_semantic_drift_safeguarding_language.md)
         - [`🏛️_conservatorship_like_abuses_in_the_UK.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🏛️_conservatorship_like_abuses_in_the_UK.md)
         - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🏛️_state_patterns_of_forced_intimacy.md)
         - [`👀_failure_cycle_vs_reported_improvements.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md)
@@ -2587,7 +2588,6 @@ _Generated on 2025-12-07 03:20:19 UTC_
     - [`🌀_institutional_coercion_pattern_equivalence.md`](Polaris_Nest/Git_Intake_Drawer/🌀_institutional_coercion_pattern_equivalence.md)
     - [`🌀_projection_based_escalation_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_based_escalation_patterns.md)
     - [`🌀_projection_driven_system_nudges.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_driven_system_nudges.md)
-    - [`🌀_semantic_drift_safeguarding_language.md`](Polaris_Nest/Git_Intake_Drawer/🌀_semantic_drift_safeguarding_language.md)
     - [`🌀_systemic_coercion_in_federated_governance.md`](Polaris_Nest/Git_Intake_Drawer/🌀_systemic_coercion_in_federated_governance.md)
     - [`🌀_the_visibility_pitch_in_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_the_visibility_pitch_in_radicalisation.md)
     - [`🌀_uk_low_cost_influence_environment.md`](Polaris_Nest/Git_Intake_Drawer/🌀_uk_low_cost_influence_environment.md)
