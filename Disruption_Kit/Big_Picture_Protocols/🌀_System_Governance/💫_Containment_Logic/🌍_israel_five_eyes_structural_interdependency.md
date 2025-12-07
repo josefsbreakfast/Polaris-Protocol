@@ -1,5 +1,5 @@
 # 🌍 Israel–Five Eyes Structural Interdependency  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
 *How apartheid-aligned security systems become geopolitically dependent on Western racialisation patterns, commercial data flows, and political stability.*
 
 ---
@@ -141,4 +141,4 @@ Metadata_Dependence · Colonial_Loops · Diaspora-Error · Signal_Collapse
 This node pairs with the “Apartheid Algorithm Dependency Theory” node and underpins the broader cluster on **racialised data flows**, **post-colonial information ecosystems**, and **security-model fragility**.  
 It sets the stage for understanding why cross-group solidarity and public dissent create measurable instability inside otherwise rigid computational systems.
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
