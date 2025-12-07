@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:36:20 UTC_
+_Generated on 2025-12-07 03:39:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1001,6 +1001,7 @@ _Generated on 2025-12-07 03:36:20 UTC_
         - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
         - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
         - [`🌀_semantic_drift_safeguarding_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🌀_semantic_drift_safeguarding_language.md)
+        - [`🌑_prevent_racialised_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🌑_prevent_racialised_surveillance.md)
         - [`🎐_psychology_of_just_raising_concerns.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🎐_psychology_of_just_raising_concerns.md)
         - [`🏛️_conservatorship_like_abuses_in_the_UK.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🏛️_conservatorship_like_abuses_in_the_UK.md)
         - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🏛️_state_patterns_of_forced_intimacy.md)
@@ -2607,7 +2608,6 @@ _Generated on 2025-12-07 03:36:20 UTC_
     - [`🌐_prevent_as_democracy_suppression_engine.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_as_democracy_suppression_engine.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🌑_prevent_as_racialised_surveillance_system.md`](Polaris_Nest/Git_Intake_Drawer/🌑_prevent_as_racialised_surveillance_system.md)
-    - [`🌑_prevent_racialised_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🌑_prevent_racialised_surveillance.md)
     - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
     - [`🌫_safeguarding_mirage.md`](Polaris_Nest/Git_Intake_Drawer/🌫_safeguarding_mirage.md)
     - [`🌫️_metadata_as_mist.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_metadata_as_mist.md)
