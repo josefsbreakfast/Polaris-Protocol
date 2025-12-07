@@ -1,5 +1,5 @@
 # 🎴 Tarot of Prime Ministers  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
 *A symbolic tarot-style mapping of recent UK Prime Ministers as archetypes — not of their politics, but of their narrative energy, institutional impact, and governance “vibe”.*  
 
 ---
@@ -89,4 +89,4 @@ It is deliberately humorous, not analytical, but pairs neatly with:
 - **🧠 Institutional Weather Systems**  
 - **🏛️ Archetypes of Bureaucratic Behaviour**
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
