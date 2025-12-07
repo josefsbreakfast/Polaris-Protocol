@@ -1,7 +1,6 @@
 # 🔥 Shame as the Master Key of Fascist Manipulation  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*Why shame — not hate, not ideology, not anger — is the primary fuel, tool, hook, and battlefield of authoritarian recruitment.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
+*Why shame — not hate, not ideology, not anger — is the primary fuel, tool, hook, and battlefield of authoritarian recruitment.*  
 
 ---
 
@@ -237,14 +236,14 @@ it is **identity restoration**.
 ---
 
 ## 🏮 Footer  
-**Shame as the Master Key of Fascist Manipulation** is a living node of the Polaris Protocol.  
+*🔥 Shame as the Master Key of Fascist Manipulation* is a living node of the Polaris Protocol.  
 It illuminates shame as the primary emotional vector of radicalisation and provides a framework for shame-literate deradicalisation grounded in softness, witnessing, and emotional safety.
 
 > 📡 Cross-references:  
-> - [🧬 Structural Vulnerability of Soft Boys](./structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)  
-> - [🪪 Algorithmic Mislabeling & Identity Collapse](./algorithmic_mislabeling_and_identity_collapse.md)  
-> - [🌋 Why Fascist Recruiters Promise Visibility](./why_fascist_recruiters_promise_visibility.md)
+> - [🧬 Structural Vulnerability of Soft Boys]  
+> - [🪪 Algorithmic Mislabeling & Identity Collapse]  
+> - [🌋 Why Fascist Recruiters Promise Visibility]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-07_
