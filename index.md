@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:35:19 UTC_
+_Generated on 2025-12-07 23:37:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2241,6 +2241,7 @@ _Generated on 2025-12-07 23:35:19 UTC_
       - [`🌑_prevent_as_britains_racialised_surveillance_system.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌑_prevent_as_britains_racialised_surveillance_system.md)
       - [`🌫_the_safeguarding_mirage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌫_the_safeguarding_mirage.md)
       - [`🌱_prevent_logic_as_authoritarian_seedling.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌱_prevent_logic_as_authoritarian_seedling.md)
+      - [`🍑_the_homoerotic_subtext_of_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🍑_the_homoerotic_subtext_of_prevent.md)
       - [`🎭_containment_as_equilibrium_theatre.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_containment_as_equilibrium_theatre.md)
       - [`🎶_korobeiniki_misread_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_korobeiniki_misread_as_signal.md)
       - [`💼_industry_capture_identity_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)
@@ -2634,7 +2635,6 @@ _Generated on 2025-12-07 23:35:19 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🍑_the_homoerotic_subtext_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🍑_the_homoerotic_subtext_of_prevent.md)
     - [`🍻_gullivar_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/🍻_gullivar_syndrome.md)
     - [`🎓_academic_unfreedom_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🎓_academic_unfreedom_in_prevent.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
