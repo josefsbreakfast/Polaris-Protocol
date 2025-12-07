@@ -1,5 +1,5 @@
 # 🇬🇧 Diet Authoritarianism: UK Homebrew  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
 *How Britain built a soft authoritarian system using politeness, paperwork, and plausible deniability rather than tanks or uniforms.*
 
 ---
@@ -253,4 +253,4 @@ It maps how Britain maintains a soft, deniable authoritarian system through bure
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
