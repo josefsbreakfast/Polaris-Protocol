@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:32:56 UTC_
+_Generated on 2025-12-07 03:36:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -196,6 +196,7 @@ _Generated on 2025-12-07 03:32:56 UTC_
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌐_late_stage_autocracy_vibe_diagnostics.md)
         - [`🍿_imperial_core_drama_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍿_imperial_core_drama_cycle.md)
+        - [`🎞️_authoritarian_aesthetics_collapse_curve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎞️_authoritarian_aesthetics_collapse_curve.md)
         - [`🎡_the_aesthetic_economy_of_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎡_the_aesthetic_economy_of_states.md)
         - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)
         - [`🎭_reputation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_reputation_as_governance.md)
@@ -2625,7 +2626,6 @@ _Generated on 2025-12-07 03:32:56 UTC_
     - [`🎓_academic_unfreedom_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🎓_academic_unfreedom_in_prevent.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
-    - [`🎞️_authoritarian_aesthetics_collapse_curve.md`](Polaris_Nest/Git_Intake_Drawer/🎞️_authoritarian_aesthetics_collapse_curve.md)
     - [`🎤_get_back_in_the_camp_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎤_get_back_in_the_camp_ensemble.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
     - [`🎩_organisational_civility_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🎩_organisational_civility_as_containment.md)
