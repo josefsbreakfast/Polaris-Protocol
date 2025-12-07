@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:23:41 UTC_
+_Generated on 2025-12-07 04:25:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -34,6 +34,7 @@ _Generated on 2025-12-07 04:23:41 UTC_
         - [`⚠️_alt_right_threat_to_both_parties.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/⚠️_alt_right_threat_to_both_parties.md)
         - [`🌹_for_the_serious_red_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)
         - [`🐝_post_protofascist_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md)
+        - [`🔥_reform_uk_as_erosion_vector.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🔥_reform_uk_as_erosion_vector.md)
         - [`🖌️_for_the_serious_blue_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
@@ -2867,7 +2868,6 @@ _Generated on 2025-12-07 04:23:41 UTC_
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
     - [`🔥_metadata_more_dangerous_than_humans.md`](Polaris_Nest/Git_Intake_Drawer/🔥_metadata_more_dangerous_than_humans.md)
     - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🔥_opportunistic_escalation_peri_system_collapse.md)
-    - [`🔥_reform_uk_as_erosion_vector.md`](Polaris_Nest/Git_Intake_Drawer/🔥_reform_uk_as_erosion_vector.md)
     - [`🔥_shame_as_the_master_key_of_fascist_manipulation.md`](Polaris_Nest/Git_Intake_Drawer/🔥_shame_as_the_master_key_of_fascist_manipulation.md)
     - [`🔥_stop_being_weird_and_start_being_wife_material_for_science.md`](Polaris_Nest/Git_Intake_Drawer/🔥_stop_being_weird_and_start_being_wife_material_for_science.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
