@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:28:30 UTC_
+_Generated on 2025-12-07 22:29:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2409,6 +2409,7 @@ _Generated on 2025-12-07 22:28:30 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
       - [`☔️_leak_pattern_taxonomy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md)
       - [`🌂_leak_archive_protocol.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌂_leak_archive_protocol.md)
+      - [`🌐_post_digital_data_drift_mechanisms.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌐_post_digital_data_drift_mechanisms.md)
       - [`🌩️_leakage_chronology_forecasting.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌩️_leakage_chronology_forecasting.md)
       - [`🎈_intentional_leak_hypothesis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🎈_intentional_leak_hypothesis.md)
       - [`👻_template_ghosts.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_template_ghosts.md)
@@ -2619,7 +2620,6 @@ _Generated on 2025-12-07 22:28:30 UTC_
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌐_post_digital_data_drift_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🌐_post_digital_data_drift_mechanisms.md)
     - [`🌐_prevent_as_democracy_suppression_engine.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_as_democracy_suppression_engine.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🌑_prevent_as_racialised_surveillance_system.md`](Polaris_Nest/Git_Intake_Drawer/🌑_prevent_as_racialised_surveillance_system.md)
