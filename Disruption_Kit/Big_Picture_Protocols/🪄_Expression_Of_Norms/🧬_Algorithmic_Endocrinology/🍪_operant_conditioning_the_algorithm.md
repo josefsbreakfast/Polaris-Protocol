@@ -1,5 +1,5 @@
 # 🍪 Operant Conditioning the Algorithm  
-**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑22  
+**First created:** 2025‑11‑07 | **Last updated:** 2025-12-07  
 *Brief description of operant conditioning applied to algorithmic behavior.*  
 
 ---
@@ -41,4 +41,4 @@ It serves as a foundational reference for later, more detailed explorations of b
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑22_
+_Last updated: 2025-12-07_
