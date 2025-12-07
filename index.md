@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:13:26 UTC_
+_Generated on 2025-12-07 22:14:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2315,6 +2315,7 @@ _Generated on 2025-12-07 22:13:26 UTC_
       - [`🌀_confused_feed_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md)
       - [`🌀_projection_based_escalation_patterns.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_projection_based_escalation_patterns.md)
       - [`🌀_recognition_without_resolution.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution.md)
+      - [`🌀_the_visibility_pitch_in_radicalisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_the_visibility_pitch_in_radicalisation.md)
       - [`🌑_induced_futility.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)
       - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
       - [`🌫️_memory_fogging.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md)
@@ -2613,7 +2614,6 @@ _Generated on 2025-12-07 22:13:26 UTC_
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌀_the_visibility_pitch_in_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_the_visibility_pitch_in_radicalisation.md)
     - [`🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md`](Polaris_Nest/Git_Intake_Drawer/🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md)
     - [`🌌_institutional_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌌_institutional_pattern_recognition.md)
     - [`🌌_tohu_vavohu_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🌌_tohu_vavohu_plurality.md)
