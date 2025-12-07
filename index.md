@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 02:52:01 UTC_
+_Generated on 2025-12-07 02:54:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -859,6 +859,7 @@ _Generated on 2025-12-07 02:52:01 UTC_
         - [`🍎_how_to_internet_for_kids.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍎_how_to_internet_for_kids.md)
         - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
         - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
+        - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
@@ -2850,7 +2851,6 @@ _Generated on 2025-12-07 02:52:01 UTC_
     - [`📿_strength_as_gihasta.md`](Polaris_Nest/Git_Intake_Drawer/📿_strength_as_gihasta.md)
     - [`📿_women_and_whistleblowers_and_prevent.md`](Polaris_Nest/Git_Intake_Drawer/📿_women_and_whistleblowers_and_prevent.md)
     - [`🔁_recursive_parliamentary_containment_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔁_recursive_parliamentary_containment_loop.md)
-    - [`🔁_ritual_and_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🔁_ritual_and_refusal.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔇_silence_harm_and_acknowledgment_delay.md`](Polaris_Nest/Git_Intake_Drawer/🔇_silence_harm_and_acknowledgment_delay.md)
     - [`🔍_institutional_freeze_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🔍_institutional_freeze_patterns.md)
