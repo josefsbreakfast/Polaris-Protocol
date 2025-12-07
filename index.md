@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:34:29 UTC_
+_Generated on 2025-12-07 23:35:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -886,8 +886,6 @@ _Generated on 2025-12-07 23:34:29 UTC_
         - [`🪢_contact_dials.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🪢_contact_dials.md)
         - [`🪩_self_silencing_cyclone_and_reverse_overton_window.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🪩_self_silencing_cyclone_and_reverse_overton_window.md)
         - [`🫥_over_safety_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🫥_over_safety_as_containment.md)
-      - [**🧬_Algorithmic_Endocrinology/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧬_Algorithmic_Endocrinology/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧬_Algorithmic_Endocrinology/README.md)
       - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)
         - [`handover_theatre.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/handover_theatre.png)
