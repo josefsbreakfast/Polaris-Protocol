@@ -1,5 +1,5 @@
 # ⚖️ Safe Humanitarian Speech in High-Risk Discursive Environments  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *How to articulate humanitarian principles clearly and safely in systems that misread tone, escalation, and political content.*  
 
 ---
@@ -196,4 +196,5 @@ It outlines methods for clear, safe, non-escalatory communication of humanitaria
 > - [📣 The Shouting Whisper]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-22_
+
+_Last updated: 2025-12-07_
