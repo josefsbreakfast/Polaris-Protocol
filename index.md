@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:39:54 UTC_
+_Generated on 2025-12-07 03:50:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -194,6 +194,7 @@ _Generated on 2025-12-07 03:39:54 UTC_
         - [`⚖️_election_candidacy_query.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_election_candidacy_query.md)
         - [`⚖️_narrative_control_and_legal_responsibility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
+        - [`🌀_uk_low_cost_influence_environment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌐_late_stage_autocracy_vibe_diagnostics.md)
         - [`🍿_imperial_core_drama_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍿_imperial_core_drama_cycle.md)
         - [`🎞️_authoritarian_aesthetics_collapse_curve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎞️_authoritarian_aesthetics_collapse_curve.md)
@@ -2597,7 +2598,6 @@ _Generated on 2025-12-07 03:39:54 UTC_
     - [`🌀_projection_driven_system_nudges.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_driven_system_nudges.md)
     - [`🌀_systemic_coercion_in_federated_governance.md`](Polaris_Nest/Git_Intake_Drawer/🌀_systemic_coercion_in_federated_governance.md)
     - [`🌀_the_visibility_pitch_in_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_the_visibility_pitch_in_radicalisation.md)
-    - [`🌀_uk_low_cost_influence_environment.md`](Polaris_Nest/Git_Intake_Drawer/🌀_uk_low_cost_influence_environment.md)
     - [`🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md`](Polaris_Nest/Git_Intake_Drawer/🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md)
     - [`🌌_institutional_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌌_institutional_pattern_recognition.md)
     - [`🌌_tohu_vavohu_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🌌_tohu_vavohu_plurality.md)
