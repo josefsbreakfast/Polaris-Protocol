@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:11:07 UTC_
+_Generated on 2025-12-07 03:13:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -437,6 +437,7 @@ _Generated on 2025-12-07 03:11:07 UTC_
         - [`🏛️_master_council_overlay_table.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md)
         - [`🏨_hotels_protests_and_power_consolidation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md)
         - [`🐇_qanon_vocabulary_origins.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐇_qanon_vocabulary_origins.md)
+        - [`🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md)
         - [`👹_coercive_engineers_intentional_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)
         - [`💄_plastic_masculinity_knives.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
         - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
@@ -2684,7 +2685,6 @@ _Generated on 2025-12-07 03:11:07 UTC_
     - [`🐉_she_is_a_dragon.md`](Polaris_Nest/Git_Intake_Drawer/🐉_she_is_a_dragon.md)
     - [`🐍_algorithmic_hostage_logic.md`](Polaris_Nest/Git_Intake_Drawer/🐍_algorithmic_hostage_logic.md)
     - [`🐍_ambidextrous_authoritarian_recruitment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_ambidextrous_authoritarian_recruitment.md)
-    - [`🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md`](Polaris_Nest/Git_Intake_Drawer/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md)
     - [`🐍_prevent_the_self_eating_snake.md`](Polaris_Nest/Git_Intake_Drawer/🐍_prevent_the_self_eating_snake.md)
     - [`🐍_survivor_voice_misread_as_intensity.md`](Polaris_Nest/Git_Intake_Drawer/🐍_survivor_voice_misread_as_intensity.md)
     - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_vulnerability_manufacture_to_enmeshment.md)
