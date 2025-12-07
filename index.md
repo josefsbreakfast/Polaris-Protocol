@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:01:42 UTC_
+_Generated on 2025-12-07 03:02:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -410,6 +410,7 @@ _Generated on 2025-12-07 03:01:42 UTC_
           - [`🪭_comfort_building.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪭_comfort_building.md)
         - [**🦇_Background_Weirdness/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/README.md)
+          - [`🎩_edwardian_occult_as_live_action_privilege.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/🎩_edwardian_occult_as_live_action_privilege.md)
         - [**🧊_Conspiracy_Icebergs/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/README.md)
           - [`⚪_the_great_replacement.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/⚪_the_great_replacement.md)
@@ -2623,7 +2624,6 @@ _Generated on 2025-12-07 03:01:42 UTC_
     - [`🎡_the_aesthetic_economy_of_states.md`](Polaris_Nest/Git_Intake_Drawer/🎡_the_aesthetic_economy_of_states.md)
     - [`🎤_get_back_in_the_camp_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎤_get_back_in_the_camp_ensemble.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
-    - [`🎩_edwardian_occult_as_live_action_privilege.md`](Polaris_Nest/Git_Intake_Drawer/🎩_edwardian_occult_as_live_action_privilege.md)
     - [`🎩_organisational_civility_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🎩_organisational_civility_as_containment.md)
     - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Polaris_Nest/Git_Intake_Drawer/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
     - [`🎭_british_rhetoric_vs_american_moderation_case_study.md`](Polaris_Nest/Git_Intake_Drawer/🎭_british_rhetoric_vs_american_moderation_case_study.md)
