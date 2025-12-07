@@ -1,5 +1,5 @@
 # 🔥 Reform UK as Erosion Vector  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *Reform UK as an anti‑governance force: not a party but a demolition engine.*
 
 ---
