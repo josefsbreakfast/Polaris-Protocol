@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:50:06 UTC_
+_Generated on 2025-12-07 03:51:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -118,6 +118,7 @@ _Generated on 2025-12-07 03:50:06 UTC_
         - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
         - [`panic_deleting_evidence.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/panic_deleting_evidence.png)
         - [`⚖️_accountability_as_alignment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_accountability_as_alignment.md)
+        - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
         - [`⚖️_architecture_of_complicity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_architecture_of_complicity.md)
         - [`⚖️_shielded_roles_and_information_risk_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_shielded_roles_and_information_risk_governance.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
@@ -2557,7 +2558,6 @@ _Generated on 2025-12-07 03:50:06 UTC_
     - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
     - [`⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md)
     - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_contingent_conservatism_and_long_horizon_politics.md)
     - [`⚖️_health_vs_justice_reflex_split.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_health_vs_justice_reflex_split.md)
