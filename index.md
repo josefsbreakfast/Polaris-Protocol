@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:26:14 UTC_
+_Generated on 2025-12-07 21:27:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -158,6 +158,7 @@ _Generated on 2025-12-07 21:26:14 UTC_
         - [`⚖️_power_play_and_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_power_play_and_containment.md)
         - [`⚖️_procedural_correctness_as_safeguard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_procedural_correctness_as_safeguard.md)
         - [`⚖️_professional_influence_and_bureaucratic_capture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_professional_influence_and_bureaucratic_capture.md)
+        - [`⚖️_psed_protection_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_psed_protection_logic.md)
         - [`⚖️_respectability_containment_in_professional_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_respectability_containment_in_professional_ethics.md)
         - [`⚖️_the_history_of_justice_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md)
         - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
@@ -2585,7 +2586,6 @@ _Generated on 2025-12-07 21:26:14 UTC_
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚖️_psed_protection_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_psed_protection_logic.md)
     - [`⚖️_safe_humanitarian_speech_high_risk_discourse.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_safe_humanitarian_speech_high_risk_discourse.md)
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
