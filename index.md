@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:50:19 UTC_
+_Generated on 2025-12-07 21:52:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2246,6 +2246,7 @@ _Generated on 2025-12-07 21:50:19 UTC_
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
+      - [`✂️_tone_misclassification_and_emotional_flattening.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/✂️_tone_misclassification_and_emotional_flattening.md)
       - [`🇬🇧_british_english_is_not_a_threat_vector.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🇬🇧_british_english_is_not_a_threat_vector.md)
       - [`🍊_the_president_as_mark.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🍊_the_president_as_mark.md)
       - [`🎪_racialised_projection_as_harassment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎪_racialised_projection_as_harassment.md)
@@ -2596,7 +2597,6 @@ _Generated on 2025-12-07 21:50:19 UTC_
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✂️_tone_misclassification_emotional_flattening.md`](Polaris_Nest/Git_Intake_Drawer/✂️_tone_misclassification_emotional_flattening.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`✨_jyn_erso_and_the_coerced_survivalist_arc.md`](Polaris_Nest/Git_Intake_Drawer/✨_jyn_erso_and_the_coerced_survivalist_arc.md)
