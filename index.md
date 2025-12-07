@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:50:34 UTC_
+_Generated on 2025-12-07 22:55:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2575,6 +2575,7 @@ _Generated on 2025-12-07 22:50:34 UTC_
       - [`🪪_dbs_checks_vs_id_cards.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/🪪_dbs_checks_vs_id_cards.md)
     - [**🧟‍♀️_Residual_Shadows/**](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/README.md)
+      - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
       - [`👥_twin_profiles_biometrics.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/👥_twin_profiles_biometrics.md)
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
@@ -2623,7 +2624,6 @@ _Generated on 2025-12-07 22:50:34 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
-    - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
     - [`🌫_safeguarding_mirage.md`](Polaris_Nest/Git_Intake_Drawer/🌫_safeguarding_mirage.md)
     - [`🌫️_metadata_as_mist.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_metadata_as_mist.md)
     - [`🌫️_the_shame_visibility_collapse_loop.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_the_shame_visibility_collapse_loop.md)
