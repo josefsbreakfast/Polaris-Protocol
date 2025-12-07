@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 02:21:07 UTC_
+_Generated on 2025-12-07 02:22:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -285,6 +285,8 @@ _Generated on 2025-12-07 02:21:07 UTC_
         - [`🕯️_memorial_voice_lives_lost.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕯️_memorial_voice_lives_lost.md)
         - [`🕸️_digitally_networked_sexual_violence.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕸️_digitally_networked_sexual_violence.md)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
+        - [**🪬_Beyond_Zionism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/README.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
         - [`appeasement_loop_neon.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
         - [`data_misuse_continuum_with_resilience_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/data_misuse_continuum_with_resilience_flowchart.png)
