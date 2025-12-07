@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:02:23 UTC_
+_Generated on 2025-12-07 04:04:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -165,6 +165,7 @@ _Generated on 2025-12-07 04:02:23 UTC_
         - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_parallel_channels.md)
         - [`🌀_self_consuming_cycles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_self_consuming_cycles.md)
         - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_surveillance_as_self_fulfilling_cycle.md)
+        - [`🎩_organisational_civility_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
@@ -2629,7 +2630,6 @@ _Generated on 2025-12-07 04:02:23 UTC_
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎤_get_back_in_the_camp_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎤_get_back_in_the_camp_ensemble.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
-    - [`🎩_organisational_civility_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🎩_organisational_civility_as_containment.md)
     - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Polaris_Nest/Git_Intake_Drawer/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
     - [`🎭_british_rhetoric_vs_american_moderation_case_study.md`](Polaris_Nest/Git_Intake_Drawer/🎭_british_rhetoric_vs_american_moderation_case_study.md)
     - [`🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md`](Polaris_Nest/Git_Intake_Drawer/🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md)
