@@ -1,5 +1,5 @@
 # 🍌 Nazis Are the OG Mediocre White Men  
-**First created:** 2025-11-24 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-24 | **Last updated:** 2025-12-07  
 *A structural account of how Nazism was not a story of genius villains, but of overconfident, under-skilled men whose racism destroyed their ability to think, govern, or survive.*
 
 ---
@@ -153,4 +153,4 @@ fascism, male grievance, christian supremacy, algorithmic misclassification, emp
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_  
+_Last updated: 2025-12-07_  
