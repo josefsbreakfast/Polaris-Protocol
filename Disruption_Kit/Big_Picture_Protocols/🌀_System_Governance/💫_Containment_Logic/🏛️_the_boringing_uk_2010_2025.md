@@ -1,5 +1,5 @@
 # 🏛️ The Boringing (UK 2010–2025)  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-04 | **Last updated:** 2025-12-07  
 *Chronicle of how monotony became a governance strategy.*  
 
 ---
@@ -58,13 +58,14 @@ austerity, bureaucracy, boredom, political psychology, affective governance, pan
 
 ## 🏮 Footer  
 
-*The Boringing (UK 2010–2025)* is a living node of the Polaris Protocol.  
+*🏛️ The Boringing (UK 2010–2025)* is a living node of the Polaris Protocol.  
 It documents monotony as an instrument of power and traces how bureaucratic calm became a form of suppression.  
 
-> 📡 Cross-references:  
-> - [🦇 How Many Words to Fell an Industry](./🦇_how_many_words_to_fell_an_industry.md) — linguistic collapse as parallel decay  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and fidelity anchor  
+> 📡 Cross-references:
+> 
+> - [🦇 How Many Words to Fell an Industry] — *linguistic collapse as parallel decay*  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-07_
