@@ -1,5 +1,5 @@
 # ✨ Misinterpretation Risk in Geopolitical Signalling  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
 *How diplomatic phrasing is mirrored, twisted, and recycled by hostile actors to distort meaning.*
 
 ---
@@ -94,4 +94,5 @@ diplomatic phrasing, signalling risk, inversion, narrative recycling, parity fra
 > - [🎭 Narrative & Psych Ops] — echo inversion mechanisms  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-22_
+
+_Last updated: 2025-12-07_
