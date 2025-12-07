@@ -1,5 +1,5 @@
 # 🌑 Residual Violence Risk via Inherited Offender Metadata  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *How inherited offender-linked metadata exposes survivors to heightened social, policing, and environmental violence.*
 
 ---
@@ -72,9 +72,9 @@ It documents how cross-linked offender flags create real-world violence exposure
 
 > 📡 Cross-references:
 > 
-> - [🔥 Data Risks](../Metadata_Sabotage_Network/🔥_Data_Risks/) — profiles of data-linked harm  
-> - [🧿 Targeting Logic Metadata Signatures](../Metadata_Sabotage_Network/🦒_Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures.md) — how targeting emerges in corrupted profiles  
+> - [🔥 Data Risks](./README.md) — *profiles of data-linked harm*  
+> - [🧿 Targeting Logic Metadata Signatures](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md) — *how targeting emerges in corrupted profiles*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
