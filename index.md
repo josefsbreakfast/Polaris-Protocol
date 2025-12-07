@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:03:26 UTC_
+_Generated on 2025-12-07 03:05:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -120,6 +120,7 @@ _Generated on 2025-12-07 03:03:26 UTC_
         - [`⚖️_shielded_roles_and_information_risk_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_shielded_roles_and_information_risk_governance.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌅_rise_of_institutional_integrity.md)
+        - [`🌒_the_no_win_box.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌒_the_no_win_box.md)
         - [`🏛️_raac_ruins_squad.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🏛️_raac_ruins_squad.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
@@ -2599,7 +2600,6 @@ _Generated on 2025-12-07 03:03:26 UTC_
     - [`🌑_prevent_as_racialised_surveillance_system.md`](Polaris_Nest/Git_Intake_Drawer/🌑_prevent_as_racialised_surveillance_system.md)
     - [`🌑_prevent_racialised_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🌑_prevent_racialised_surveillance.md)
     - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
-    - [`🌒_the_no_win_box.md`](Polaris_Nest/Git_Intake_Drawer/🌒_the_no_win_box.md)
     - [`🌫_safeguarding_mirage.md`](Polaris_Nest/Git_Intake_Drawer/🌫_safeguarding_mirage.md)
     - [`🌫️_metadata_as_mist.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_metadata_as_mist.md)
     - [`🌫️_the_shame_visibility_collapse_loop.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_the_shame_visibility_collapse_loop.md)
