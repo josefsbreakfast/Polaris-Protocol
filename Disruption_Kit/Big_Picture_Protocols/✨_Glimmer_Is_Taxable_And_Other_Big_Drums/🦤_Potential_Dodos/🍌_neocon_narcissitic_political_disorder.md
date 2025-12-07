@@ -1,6 +1,6 @@
 # 🍌 Neocon Narcissitic Political Disorder  
-**First created:** 2025-11-24 | **Last updated:** 2025-11-24  
-*An unfortunately common phenomenon in the Cold Water Baby class; the underlying cause of the Radioactive Jelly Baby Voter subtype.*
+**First created:** 2025-11-24 | **Last updated:** 2025-12-07  
+*An unfortunately common phenomenon in the Cold War Baby class; the underlying cause of the Radioactive Jelly Baby Voter subtype.*
 <!--Cannot wait to send my new bestie the FOI that asks for proportion of company time spent on the sane content we all say we want to police. Typical.-->
 ---
 
@@ -177,7 +177,7 @@ interpretive narcissism, neocon satire, algorithmic projection, post-imperial ma
 ---
 
 ## 🏮 Footer  
-**Neocon Narcissitic Political Disorder** is a living satirical diagnostic node of the *Polaris Protocol*.  
+*🍌 Neocon Narcissitic Political Disorder* is a living satirical diagnostic node of the *Polaris Protocol*.  
 It analyses the narrative collapse point where male political self-importance, sexual metadata, and prestige-TV delusion converge into a misattributed romance arc imposed onto women who are simply being competent.
 
 > 📡 Cross-references:
@@ -187,4 +187,4 @@ It analyses the narrative collapse point where male political self-importance, s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-07_
