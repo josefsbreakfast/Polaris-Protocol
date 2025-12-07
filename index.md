@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:15:35 UTC_
+_Generated on 2025-12-07 03:17:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -860,6 +860,7 @@ _Generated on 2025-12-07 03:15:35 UTC_
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
         - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/uk_morale_post_2016.png)
+        - [`♨️_prosocial_nudge_burnout_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/♨️_prosocial_nudge_burnout_syndrome.md)
         - [`⚙️_high_friction_people_and_systemic_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)
         - [`🃏_the_fool_protocol_ai_ethics_through_tarot.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md)
         - [`🌱_love_is_antifascist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md)
@@ -2545,7 +2546,6 @@ _Generated on 2025-12-07 03:15:35 UTC_
     - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`♨️_prosocial_nudge_burnout_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/♨️_prosocial_nudge_burnout_syndrome.md)
     - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
     - [`⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md)
     - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_contingent_conservatism_and_long_horizon_politics.md)
