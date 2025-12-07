@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:06:50 UTC_
+_Generated on 2025-12-07 03:08:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -430,6 +430,7 @@ _Generated on 2025-12-07 03:06:50 UTC_
         - [`❌_the_alt_right_is_not_the_far_right.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_the_alt_right_is_not_the_far_right.md)
         - [`🌋_why_fascist_recruiters_promise_visibility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌋_why_fascist_recruiters_promise_visibility.md)
         - [`🌍_climate_panic_routing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌍_climate_panic_routing.md)
+        - [`🍌_nazis_are_the_og_mediocre_white_men.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🍌_nazis_are_the_og_mediocre_white_men.md)
         - [`🎧_music_as_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🎧_music_as_pipeline.md)
         - [`🏛️_elite_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_elite_normalisation.md)
         - [`🏛️_master_council_overlay.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_master_council_overlay.csv)
@@ -2609,7 +2610,6 @@ _Generated on 2025-12-07 03:06:50 UTC_
     - [`🌲_campfire_stability_model_for_modern_citizens.md`](Polaris_Nest/Git_Intake_Drawer/🌲_campfire_stability_model_for_modern_citizens.md)
     - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](Polaris_Nest/Git_Intake_Drawer/🌲_rebuilding_spark_in_a_political_forest_fire.md)
     - [`🌿_normal_human_behaviour_as_risk_flag.md`](Polaris_Nest/Git_Intake_Drawer/🌿_normal_human_behaviour_as_risk_flag.md)
-    - [`🍌_nazis_are_the_og_mediocre_white_men.md`](Polaris_Nest/Git_Intake_Drawer/🍌_nazis_are_the_og_mediocre_white_men.md)
     - [`🍌_neocon_narcissitic_political_disorder.md`](Polaris_Nest/Git_Intake_Drawer/🍌_neocon_narcissitic_political_disorder.md)
     - [`🍌_racism_as_epistemic_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🍌_racism_as_epistemic_collapse.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
