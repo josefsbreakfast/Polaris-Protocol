@@ -1,6 +1,6 @@
 # 🐍 How a CVE Tool Becomes a Vector for Extremism  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
-*When a counter-extremism model reproduces the very networks it was built to contain.*
+**First created:** 2025-11-01 | **Last updated:** 2025-12-07  
+*When a counter-extremism model reproduces the very networks it was built to contain.*  
 
 ---
 
@@ -101,14 +101,15 @@ CVE inversion, criminogenic feedback, elite paranoia loops, shadow institutional
 ---
 
 ## 🏮 Footer  
-*How a CVE Tool Becomes a Vector for Extremism* is a living node of the Polaris Protocol.  
+*🐍 How a CVE Tool Becomes a Vector for Extremism* is a living node of the Polaris Protocol.  
 It documents how counter-extremism architectures reproduce their own subject matter through social recursion and governance delay.  
 
-> 📡 Cross-references:  
-> - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../System_Governance/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — gendered clustering and risk  
-> - [🐍 Algorithmic Hostage Logic](../Big_Picture_Protocols/🐍_algorithmic_hostage_logic.md) — stabilisers trapped inside volatility loops  
-> - [📊 Risk Scaling of Algorithmic Misidentification](../System_Governance/📊_risk_scaling_of_algorithmic_misidentification.md) — statistical amplification of small errors  
+> 📡 Cross-references:
+> 
+> - [🕸️ Gendered Harms from Counter-Extremism Algorithms] — *gendered clustering and risk*  
+> - [🐍 Algorithmic Hostage Logic] — *stabilisers trapped inside volatility loops*  
+> - [📊 Risk Scaling of Algorithmic Misidentification] — *statistical amplification of small errors*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-07_
