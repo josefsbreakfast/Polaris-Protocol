@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:21:38 UTC_
+_Generated on 2025-12-07 04:23:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -967,6 +967,7 @@ _Generated on 2025-12-07 04:21:38 UTC_
         - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
         - [`⚖️_navigating_elder_spaces_for_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_navigating_elder_spaces_for_transparency.md)
         - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_sanhedrin_rulings_on_trafficking.md)
+        - [`⛳️_flags_increase_risks.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⛳️_flags_increase_risks.md)
         - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
         - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
         - [`📅_blm_uk_2020_2025_timeline_outputs.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📅_blm_uk_2020_2025_timeline_outputs.md)
@@ -2589,7 +2590,6 @@ _Generated on 2025-12-07 04:21:38 UTC_
     - [`⚡_why_some_people_become_systemic_lightning_rods.md`](Polaris_Nest/Git_Intake_Drawer/⚡_why_some_people_become_systemic_lightning_rods.md)
     - [`⚡️_crackling_channels.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_crackling_channels.md)
     - [`⚡️_public_legitimacy_crisis_behavioural_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_public_legitimacy_crisis_behavioural_governance.md)
-    - [`⛳️_flags_increase_risks.md`](Polaris_Nest/Git_Intake_Drawer/⛳️_flags_increase_risks.md)
     - [`✂️_tone_misclassification_emotional_flattening.md`](Polaris_Nest/Git_Intake_Drawer/✂️_tone_misclassification_emotional_flattening.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✏️_how_prevent_flags_quietly_shape_life.md`](Polaris_Nest/Git_Intake_Drawer/✏️_how_prevent_flags_quietly_shape_life.md)
