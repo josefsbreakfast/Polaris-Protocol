@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:06:45 UTC_
+_Generated on 2025-12-07 04:08:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -501,6 +501,7 @@ _Generated on 2025-12-07 04:06:45 UTC_
               - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/Quick_Easy_Guides_Plain_Text/README.md)
             - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/README.md)
             - [`🎒_frankenstack_support_pack.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🎒_frankenstack_support_pack.md)
+            - [`🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md)
             - [`🏛️_neutralising_frankenstacks_civil_service_guidance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🏛️_neutralising_frankenstacks_civil_service_guidance.md)
             - [`🗺️_power_mapping_frankenstack_ecosystem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🗺️_power_mapping_frankenstack_ecosystem.md)
             - [`🛠️_neutralising_frankenstacks_next_steps.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🛠️_neutralising_frankenstacks_next_steps.md)
@@ -2646,7 +2647,6 @@ _Generated on 2025-12-07 04:06:45 UTC_
     - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_witch_girl_vs_sensible_man_archetypes.md)
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
     - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Polaris_Nest/Git_Intake_Drawer/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
-    - [`🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md`](Polaris_Nest/Git_Intake_Drawer/🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md)
     - [`🎶_good_taste_vs_surveillance_taste.md`](Polaris_Nest/Git_Intake_Drawer/🎶_good_taste_vs_surveillance_taste.md)
     - [`🎶_prevent_eats_teenagers_music.md`](Polaris_Nest/Git_Intake_Drawer/🎶_prevent_eats_teenagers_music.md)
     - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Polaris_Nest/Git_Intake_Drawer/🎶_reversal_distortion_if_i_cant_have_you.md)
