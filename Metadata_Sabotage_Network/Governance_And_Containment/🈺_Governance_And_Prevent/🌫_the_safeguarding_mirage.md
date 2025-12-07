@@ -1,5 +1,5 @@
 # 🌫 The Safeguarding Mirage  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-07  
 *How Prevent disguises counterterrorism surveillance as “safeguarding,” generating institutional confusion, public misunderstanding, and a false sense of legitimacy.*
 
 ---
@@ -218,4 +218,4 @@ It explains how Prevent routinely disguises counterterror intelligence work as c
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-07_
