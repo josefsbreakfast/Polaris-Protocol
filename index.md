@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:25:00 UTC_
+_Generated on 2025-12-07 03:26:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -998,6 +998,7 @@ _Generated on 2025-12-07 03:25:00 UTC_
         - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
         - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
         - [`🌀_semantic_drift_safeguarding_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🌀_semantic_drift_safeguarding_language.md)
+        - [`🎐_psychology_of_just_raising_concerns.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🎐_psychology_of_just_raising_concerns.md)
         - [`🏛️_conservatorship_like_abuses_in_the_UK.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🏛️_conservatorship_like_abuses_in_the_UK.md)
         - [`🏛️_state_patterns_of_forced_intimacy.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🏛️_state_patterns_of_forced_intimacy.md)
         - [`👀_failure_cycle_vs_reported_improvements.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md)
@@ -2620,7 +2621,6 @@ _Generated on 2025-12-07 03:25:00 UTC_
     - [`🍪_operant_conditioning_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🍪_operant_conditioning_the_algorithm.md)
     - [`🍻_gullivar_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/🍻_gullivar_syndrome.md)
     - [`🍿_imperial_core_drama_cycle.md`](Polaris_Nest/Git_Intake_Drawer/🍿_imperial_core_drama_cycle.md)
-    - [`🎐_psychology_of_just_raising_concerns.md`](Polaris_Nest/Git_Intake_Drawer/🎐_psychology_of_just_raising_concerns.md)
     - [`🎓_academic_unfreedom_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🎓_academic_unfreedom_in_prevent.md)
     - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
