@@ -1,5 +1,5 @@
 # 🎭 **Respectability Theatre — The “Serious Cross-Section” Illusion**  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *Authoritarian or extractive networks do not need legitimacy. They need the *appearance* of legitimacy — and they rent it from the respectable.*  
 
 ---
@@ -220,7 +220,7 @@ borrowed-respectability, diversity-as-shield, seriousness-aesthetics, optical le
 ---
 
 ## 🏮 Footer  
-**🎭 Respectability Theatre** is an optics-analysis node within the Polaris Protocol.  
+*🎭 Respectability Theatre Bullshit* is an optics-analysis node within the Polaris Protocol.  
 It exposes how extremist or extractive networks manufacture credibility using the presence and reputations of people they do not respect and do not intend to empower.  
 
 > 📡 Cross-references:
@@ -232,4 +232,4 @@ It exposes how extremist or extractive networks manufacture credibility using th
 
 *Survivor authorship is sovereign. If the room needs your credibility, the room has none of its own.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
