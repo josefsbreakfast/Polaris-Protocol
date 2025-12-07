@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:22:30 UTC_
+_Generated on 2025-12-07 22:24:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -921,6 +921,7 @@ _Generated on 2025-12-07 22:22:30 UTC_
         - [`♨️_prosocial_nudge_burnout_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/♨️_prosocial_nudge_burnout_syndrome.md)
         - [`⚙️_high_friction_people_and_systemic_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)
         - [`🃏_the_fool_protocol_ai_ethics_through_tarot.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md)
+        - [`🌌_tohu_vavohu_plurality.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌌_tohu_vavohu_plurality.md)
         - [`🌱_love_is_antifascist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md)
         - [`🌾_impunity_as_fertile_ground.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)
         - [`🌿_lawful_illegality_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_lawful_illegality_of_care.md)
@@ -2616,7 +2617,6 @@ _Generated on 2025-12-07 22:22:30 UTC_
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌌_tohu_vavohu_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🌌_tohu_vavohu_plurality.md)
     - [`🌍_apartheid_algorithm_dependency_theory.md`](Polaris_Nest/Git_Intake_Drawer/🌍_apartheid_algorithm_dependency_theory.md)
     - [`🌍_muslim_identity_racialisation_parallels_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🌍_muslim_identity_racialisation_parallels_antisemitism.md)
     - [`🌐_post_digital_data_drift_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🌐_post_digital_data_drift_mechanisms.md)
