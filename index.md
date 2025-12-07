@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:02:23 UTC_
+_Generated on 2025-12-07 03:03:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -426,6 +426,7 @@ _Generated on 2025-12-07 03:02:23 UTC_
         - [`✍️_crime_writing_as_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
         - [`❌_negative_evidence_index.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_negative_evidence_index.md)
         - [`❌_the_alt_right_is_not_the_far_right.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_the_alt_right_is_not_the_far_right.md)
+        - [`🌋_why_fascist_recruiters_promise_visibility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌋_why_fascist_recruiters_promise_visibility.md)
         - [`🌍_climate_panic_routing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌍_climate_panic_routing.md)
         - [`🎧_music_as_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🎧_music_as_pipeline.md)
         - [`🏛️_elite_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_elite_normalisation.md)
@@ -2584,7 +2585,6 @@ _Generated on 2025-12-07 03:02:23 UTC_
     - [`🌀_the_visibility_pitch_in_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_the_visibility_pitch_in_radicalisation.md)
     - [`🌀_uk_low_cost_influence_environment.md`](Polaris_Nest/Git_Intake_Drawer/🌀_uk_low_cost_influence_environment.md)
     - [`🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md`](Polaris_Nest/Git_Intake_Drawer/🌀_when_system_behaviour_stops_making_sense_cognitive_dissonance_in_drift.md)
-    - [`🌋_why_fascist_recruiters_promise_visibility.md`](Polaris_Nest/Git_Intake_Drawer/🌋_why_fascist_recruiters_promise_visibility.md)
     - [`🌌_institutional_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌌_institutional_pattern_recognition.md)
     - [`🌌_tohu_vavohu_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🌌_tohu_vavohu_plurality.md)
     - [`🌍_apartheid_algorithm_dependency_theory.md`](Polaris_Nest/Git_Intake_Drawer/🌍_apartheid_algorithm_dependency_theory.md)
