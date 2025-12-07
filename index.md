@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:51:54 UTC_
+_Generated on 2025-12-07 03:54:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -140,6 +140,7 @@ _Generated on 2025-12-07 03:51:54 UTC_
         - [`☢️_the_empathy_project.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☢️_the_empathy_project.md)
         - [`⚓_sea_org_as_containment_prototype.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚓_sea_org_as_containment_prototype.md)
         - [`⚖️_above_the_law_protofascism_threshold.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_above_the_law_protofascism_threshold.md)
+        - [`⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md)
         - [`⚖️_autonomy_vs_containment_dial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_autonomy_vs_containment_dial.md)
         - [`⚖️_containment_and_cutthrough_in_the_legal_profession.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_containment_and_cutthrough_in_the_legal_profession.md)
         - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
@@ -2558,7 +2559,6 @@ _Generated on 2025-12-07 03:51:54 UTC_
     - [`⏳_chronos_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/⏳_chronos_as_containment.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md)
     - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_contingent_conservatism_and_long_horizon_politics.md)
     - [`⚖️_health_vs_justice_reflex_split.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_health_vs_justice_reflex_split.md)
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
