@@ -1,5 +1,5 @@
-# 🌐 Late-Stage Autocracy Vibe Diagnostics
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+# 🌐 Late-Stage Autocracy Vibe Diagnostics  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
 *How to detect regime instability by tracking aesthetic, emotional, and vibe signals.*  
 
 ---
@@ -36,4 +36,4 @@ autocracy, vibes, diagnostics, collapse, emotional signals
 *🌐 Late-Stage Autocracy Vibe Diagnostics* is a living node of the **Polaris Protocol**.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
