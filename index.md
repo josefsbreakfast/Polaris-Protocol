@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:05:00 UTC_
+_Generated on 2025-12-07 03:06:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -193,6 +193,7 @@ _Generated on 2025-12-07 03:05:00 UTC_
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
         - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)
         - [`🎭_reputation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_reputation_as_governance.md)
+        - [`🎴_tarot_of_prime_ministers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎴_tarot_of_prime_ministers.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
         - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
@@ -2641,7 +2642,6 @@ _Generated on 2025-12-07 03:05:00 UTC_
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
     - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Polaris_Nest/Git_Intake_Drawer/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
     - [`🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md`](Polaris_Nest/Git_Intake_Drawer/🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md)
-    - [`🎴_tarot_of_prime_ministers.md`](Polaris_Nest/Git_Intake_Drawer/🎴_tarot_of_prime_ministers.md)
     - [`🎶_good_taste_vs_surveillance_taste.md`](Polaris_Nest/Git_Intake_Drawer/🎶_good_taste_vs_surveillance_taste.md)
     - [`🎶_prevent_eats_teenagers_music.md`](Polaris_Nest/Git_Intake_Drawer/🎶_prevent_eats_teenagers_music.md)
     - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Polaris_Nest/Git_Intake_Drawer/🎶_reversal_distortion_if_i_cant_have_you.md)
