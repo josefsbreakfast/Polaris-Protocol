@@ -1,5 +1,5 @@
 # 🎭 British Rhetoric vs American Moderation — A Failure Case Study  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *A systematic exploration of why British conversational norms trigger repeated misclassification under American-coded safety systems.*
 
 ---
@@ -226,4 +226,4 @@ It documents how British linguistic norms clash with American-coded moderation s
 > - [📣 The Shouting Whisper]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
