@@ -1,5 +1,5 @@
 # 🎙️ Cloneproof Protocol  
-**First created:** 2025-10-31 | **Last updated:** 2025-11-22  
+**First created:** 2025-10-31 | **Last updated:** 2025-12-07  
 *Authenticity architectures for voice, data, and identity integrity in post‑synthetic environments.*  
 
 ---
@@ -42,4 +42,4 @@ voice authentication, watermarking, provenance audit, consent architecture, data
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
