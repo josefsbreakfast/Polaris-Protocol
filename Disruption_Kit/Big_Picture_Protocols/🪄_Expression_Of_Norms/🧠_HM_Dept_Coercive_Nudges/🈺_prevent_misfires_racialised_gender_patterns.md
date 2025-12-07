@@ -1,5 +1,5 @@
 # 🈺 Prevent Misfires (Racialised Gender Patterns)
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
 *How Prevent pathways misclassify racialised women through misogyny, bias, and narrative distortion.*  
 
 ---
@@ -234,4 +234,4 @@ It maps how Prevent — structurally and culturally — misreads racialised wome
 > - 🪓 Vindictive Male Escalation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
