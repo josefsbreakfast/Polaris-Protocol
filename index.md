@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:09:39 UTC_
+_Generated on 2025-12-07 04:11:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -167,6 +167,7 @@ _Generated on 2025-12-07 04:09:39 UTC_
         - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_surveillance_as_self_fulfilling_cycle.md)
         - [`🎩_organisational_civility_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
+        - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
         - [`📜_precrime_governance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_precrime_governance_uk.md)
@@ -2749,7 +2750,6 @@ _Generated on 2025-12-07 04:09:39 UTC_
     - [`💞_moflin_and_the_ethics_of_engineered_affection.md`](Polaris_Nest/Git_Intake_Drawer/💞_moflin_and_the_ethics_of_engineered_affection.md)
     - [`💞_queer_theory_as_relational_literacy.md`](Polaris_Nest/Git_Intake_Drawer/💞_queer_theory_as_relational_literacy.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
-    - [`💣_austerity_as_time_collapse.md`](Polaris_Nest/Git_Intake_Drawer/💣_austerity_as_time_collapse.md)
     - [`💣_trident_as_modern_kraken_security_theatre.md`](Polaris_Nest/Git_Intake_Drawer/💣_trident_as_modern_kraken_security_theatre.md)
     - [`💥_institutional_panic_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/💥_institutional_panic_dynamics.md)
     - [`💥_reputational_insurance_collapse_under_narrative_instability.md`](Polaris_Nest/Git_Intake_Drawer/💥_reputational_insurance_collapse_under_narrative_instability.md)
