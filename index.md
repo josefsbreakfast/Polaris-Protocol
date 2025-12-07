@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 02:22:46 UTC_
+_Generated on 2025-12-07 02:28:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2496,7 +2496,6 @@ _Generated on 2025-12-07 02:22:46 UTC_
       - [`📡_language_as_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
       - [`🧭_how_we_got_here.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
-      - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/README.md)
       - [`🍉_why_do_we_care_about_palestine.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
       - [`🍷_crypto_before_it_was_cool.nd`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍷_crypto_before_it_was_cool.nd)
       - [`🍷_next_year_in_jerusalem.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍷_next_year_in_jerusalem.md)
