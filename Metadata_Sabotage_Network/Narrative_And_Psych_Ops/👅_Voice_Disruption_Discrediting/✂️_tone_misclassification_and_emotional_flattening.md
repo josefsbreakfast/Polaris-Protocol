@@ -1,5 +1,5 @@
 # ✂️ Tone-Misclassification & Emotional Flattening  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *How automated and institutional systems misread tone, collapse affect, and convert ordinary speech into “risk signals.”*  
 
 ---
@@ -214,4 +214,4 @@ It explains how systems misread tone in thin-data, culturally mismatched context
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
