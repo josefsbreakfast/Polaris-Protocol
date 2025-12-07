@@ -1,5 +1,5 @@
 # 🌀 Institutional Coercion Pattern Equivalence  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
 *How bureaucratic overreach can mirror the behavioural signatures of coercive control, even without intent.*  
 
 ---
@@ -168,4 +168,5 @@ institutional coercion, coercive control, prevent, safeguarding overreach, behav
 It gives survivors a vocabulary to articulate when systems *behave* like coercive actors, even without intent.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-22_
+
+_Last updated: 2025-12-07_
