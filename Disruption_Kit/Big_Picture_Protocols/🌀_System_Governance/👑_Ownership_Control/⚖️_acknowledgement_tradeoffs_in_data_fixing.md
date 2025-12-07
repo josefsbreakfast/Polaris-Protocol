@@ -1,5 +1,5 @@
 # ⚖️ Acknowledgement Trade‑offs in Data Fixing  
-**First created:** 2025‑11‑12 | **Last updated:** 2025‑11‑22  
+**First created:** 2025‑11‑12 | **Last updated:** 2025‑12‑07  
 *Mapping the pros and cons of acknowledging versus concealing data‑linkage errors within large datasets.*  
 
 ---
@@ -38,4 +38,4 @@ data fixing, acknowledgment trade‑offs, dataset integrity, legal governance, r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑22_
+_Last updated: 2025‑12‑07_
