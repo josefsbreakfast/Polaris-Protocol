@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:49:01 UTC_
+_Generated on 2025-12-07 21:49:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -292,7 +292,6 @@ _Generated on 2025-12-07 21:49:01 UTC_
         - [`🤌_nudges_and_biscuits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🤌_nudges_and_biscuits.md)
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
       - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_HM_Dept_Coercive_Nudges/)
-        - [`⚡️_public_legitimacy_crisis_in_behavioural_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_HM_Dept_Coercive_Nudges/⚡️_public_legitimacy_crisis_in_behavioural_governance.md)
         - [`✏️_how_prevent_flags_quietly_shape_someones_life_for_years.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_HM_Dept_Coercive_Nudges/✏️_how_prevent_flags_quietly_shape_someones_life_for_years.md)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/README.md)
@@ -850,6 +849,7 @@ _Generated on 2025-12-07 21:49:01 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)
         - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
         - [`⚖️_heavy_bundle_cps_vps_centralisation.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md)
+        - [`⚡️_public_legitimacy_crisis_in_behavioural_governance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚡️_public_legitimacy_crisis_in_behavioural_governance.md)
         - [`⛳️_nudge_to_sludge.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⛳️_nudge_to_sludge.md)
         - [`➰_rejustification_loop_racial_logics_reborn_as_safety.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/➰_rejustification_loop_racial_logics_reborn_as_safety.md)
         - [`🌀_docility_engine.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
