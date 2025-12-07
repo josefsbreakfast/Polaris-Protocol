@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:44:49 UTC_
+_Generated on 2025-12-07 21:46:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2414,6 +2414,7 @@ _Generated on 2025-12-07 21:44:49 UTC_
       - [`⚖️_dob_as_password.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_as_password.md)
       - [`⚖️_dob_triangulation_attack.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_attack.md)
       - [`⚖️_dob_triangulation_table.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_table.md)
+      - [`⚡️_crackling_channels.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚡️_crackling_channels.md)
       - [`🌋_contesting_signature_inclusion.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌋_contesting_signature_inclusion.md)
       - [`🌐_global_migration_of_signatures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌐_global_migration_of_signatures.md)
       - [`🍉_civic_participation_and_ai_risk_classification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🍉_civic_participation_and_ai_risk_classification.md)
@@ -2593,7 +2594,6 @@ _Generated on 2025-12-07 21:44:49 UTC_
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚡️_crackling_channels.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_crackling_channels.md)
     - [`⚡️_public_legitimacy_crisis_behavioural_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_public_legitimacy_crisis_behavioural_governance.md)
     - [`✂️_tone_misclassification_emotional_flattening.md`](Polaris_Nest/Git_Intake_Drawer/✂️_tone_misclassification_emotional_flattening.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
