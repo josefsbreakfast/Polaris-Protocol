@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:04:05 UTC_
+_Generated on 2025-12-07 04:05:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -208,6 +208,7 @@ _Generated on 2025-12-07 04:04:05 UTC_
         - [`🎭_kremlin_aesthetic_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_kremlin_aesthetic_timeline.md)
         - [`🎭_reputation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_reputation_as_governance.md)
         - [`🎴_tarot_of_prime_ministers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎴_tarot_of_prime_ministers.md)
+        - [`🎼_polyphonic_origins.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎼_polyphonic_origins.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
         - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
@@ -2652,7 +2653,6 @@ _Generated on 2025-12-07 04:04:05 UTC_
     - [`🎶_theology_of_the_mix.md`](Polaris_Nest/Git_Intake_Drawer/🎶_theology_of_the_mix.md)
     - [`🎺_rallying_call_and_loyal_hound.md`](Polaris_Nest/Git_Intake_Drawer/🎺_rallying_call_and_loyal_hound.md)
     - [`🎺_the_red_army_choir_doctrine.md`](Polaris_Nest/Git_Intake_Drawer/🎺_the_red_army_choir_doctrine.md)
-    - [`🎼_polyphonic_origins_the_shared_bloodlines_of_the_alexandrov_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎼_polyphonic_origins_the_shared_bloodlines_of_the_alexandrov_ensemble.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Polaris_Nest/Git_Intake_Drawer/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
     - [`🏗️_corrective_governance_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🏗️_corrective_governance_architecture.md)
