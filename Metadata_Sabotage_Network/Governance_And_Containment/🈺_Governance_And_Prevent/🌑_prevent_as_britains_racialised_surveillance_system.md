@@ -1,6 +1,6 @@
 # 🌑 Prevent as Britain’s Racialised Surveillance System  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent and Channel function as a surveillance system that disproportionately targets racialised communities, operating through suspicion-first logic embedded in Britain’s colonial, counterterror, and post-9/11 political histories.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-07  
+*How Prevent and Channel function as a surveillance system that disproportionately targets racialised communities, operating through suspicion-first logic embedded in Britain’s colonial, counterterror, and post-9/11 political histories.*  
 
 ---
 
@@ -204,4 +204,4 @@ It explains why Prevent/Channel function structurally as surveillance tools disp
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-07_
