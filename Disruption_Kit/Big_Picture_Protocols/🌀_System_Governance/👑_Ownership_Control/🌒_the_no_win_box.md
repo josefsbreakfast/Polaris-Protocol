@@ -1,5 +1,5 @@
 # 🌒 The No-Win Box  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
 *The psychological container hostile actors place themselves in when a survivor becomes transparent, autonomous, and witnessed.*
 
 ---
@@ -214,4 +214,4 @@ It describes the paradoxical state in which hostile actors undermine themselves 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
