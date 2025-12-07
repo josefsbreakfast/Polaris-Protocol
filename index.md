@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 02:33:49 UTC_
+_Generated on 2025-12-07 02:48:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1709,6 +1709,7 @@ _Generated on 2025-12-07 02:33:49 UTC_
     - [`🛰️_2025-09-19_security_signal_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_security_signal_sweep.md)
     - [`🛰️_2025-09-22_web_of_resilience_duplicate_fix.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-22_web_of_resilience_duplicate_fix.md)
     - [`🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)
+    - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Disruption_Kit/Field_Logs/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_access_throttle_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_access_throttle_field_log_2025-09-29.md)
     - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/🛰️_ai_interference_vs_baseline_generation.md)
@@ -2504,7 +2505,6 @@ _Generated on 2025-12-07 02:33:49 UTC_
       - [`📡_language_as_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
       - [`🧭_how_we_got_here.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
-      - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
       - [`🛰️_alrgorithmic_judaisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_alrgorithmic_judaisms.md)
       - [`🧄_market_deregulation_and_shylocks_monologue.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧄_market_deregulation_and_shylocks_monologue.md)
       - [`🧬_definitions_of_zionism.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧬_definitions_of_zionism.md)
