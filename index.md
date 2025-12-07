@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:47:37 UTC_
+_Generated on 2025-12-07 23:49:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -901,6 +901,7 @@ _Generated on 2025-12-07 23:47:37 UTC_
         - [`⚖️_containment_as_threshold_crime.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/⚖️_containment_as_threshold_crime.md)
         - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
         - [`🌀_answering_uncertainty_in_ai_environments.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🌀_answering_uncertainty_in_ai_environments.md)
+        - [`🎙️_unconsented_voice_beta.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎙️_unconsented_voice_beta.md)
         - [`🎥_anomaly_incentives_in_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md)
         - [`🎶_chant_restrictions_as_metadata_control.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md)
         - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
@@ -2638,7 +2639,6 @@ _Generated on 2025-12-07 23:47:37 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎤_get_back_in_the_camp_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎤_get_back_in_the_camp_ensemble.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
     - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Polaris_Nest/Git_Intake_Drawer/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
