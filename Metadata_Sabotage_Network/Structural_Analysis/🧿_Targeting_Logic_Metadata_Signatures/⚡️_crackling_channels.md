@@ -1,5 +1,5 @@
 # ⚡️ Crackling Channels  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-07  
 *When overlapping data profiles turn empathy into interference.*
 
 ---
@@ -98,4 +98,4 @@ It documents how overlapping data profiles distort communication and offers gent
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
