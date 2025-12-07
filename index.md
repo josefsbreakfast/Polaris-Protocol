@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:31:26 UTC_
+_Generated on 2025-12-07 22:50:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2232,6 +2232,7 @@ _Generated on 2025-12-07 22:31:26 UTC_
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
       - [`🌐_prevent_as_a_democracy_suppression_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_prevent_as_a_democracy_suppression_engine.md)
+      - [`🌑_prevent_as_britains_racialised_surveillance_system.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌑_prevent_as_britains_racialised_surveillance_system.md)
       - [`🎭_containment_as_equilibrium_theatre.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_containment_as_equilibrium_theatre.md)
       - [`🎶_korobeiniki_misread_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_korobeiniki_misread_as_signal.md)
       - [`💼_industry_capture_identity_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)
@@ -2622,7 +2623,6 @@ _Generated on 2025-12-07 22:31:26 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
-    - [`🌑_prevent_as_racialised_surveillance_system.md`](Polaris_Nest/Git_Intake_Drawer/🌑_prevent_as_racialised_surveillance_system.md)
     - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
     - [`🌫_safeguarding_mirage.md`](Polaris_Nest/Git_Intake_Drawer/🌫_safeguarding_mirage.md)
     - [`🌫️_metadata_as_mist.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_metadata_as_mist.md)
