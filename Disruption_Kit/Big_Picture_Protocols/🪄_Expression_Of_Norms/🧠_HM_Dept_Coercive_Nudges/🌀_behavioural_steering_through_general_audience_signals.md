@@ -1,5 +1,5 @@
 # 🌀 Behavioural Steering Through General-Audience Signals  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
 *How influence actors shape the behaviour of specific groups using signals that appear universal, neutral, and “for everyone”.*  
 
 ---
@@ -360,4 +360,4 @@ behavioural steering, general audience signals, influence operations, asymmetry,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
