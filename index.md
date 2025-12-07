@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:09:00 UTC_
+_Generated on 2025-12-07 22:10:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2311,6 +2311,7 @@ _Generated on 2025-12-07 22:09:00 UTC_
       - [`⏳_delay_scripts_near_deadlines.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md)
       - [`⏳_looped_waiting_rooms.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms.md)
       - [`🌀_confused_feed_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md)
+      - [`🌀_projection_based_escalation_patterns.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_projection_based_escalation_patterns.md)
       - [`🌀_recognition_without_resolution.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution.md)
       - [`🌑_induced_futility.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)
       - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
@@ -2610,7 +2611,6 @@ _Generated on 2025-12-07 22:09:00 UTC_
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌀_projection_based_escalation_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_based_escalation_patterns.md)
     - [`🌀_projection_driven_system_nudges.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_driven_system_nudges.md)
     - [`🌀_systemic_coercion_in_federated_governance.md`](Polaris_Nest/Git_Intake_Drawer/🌀_systemic_coercion_in_federated_governance.md)
     - [`🌀_the_visibility_pitch_in_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🌀_the_visibility_pitch_in_radicalisation.md)
