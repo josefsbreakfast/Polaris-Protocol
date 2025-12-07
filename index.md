@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:22:21 UTC_
+_Generated on 2025-12-07 21:24:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -155,6 +155,7 @@ _Generated on 2025-12-07 21:22:21 UTC_
         - [`⚖️_operational_dilemma_fixit_vs_chain_of_command.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
         - [`⚖️_pathological_simplicity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_pathological_simplicity.md)
         - [`⚖️_power_play_and_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_power_play_and_containment.md)
+        - [`⚖️_procedural_correctness_as_safeguard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_procedural_correctness_as_safeguard.md)
         - [`⚖️_professional_influence_and_bureaucratic_capture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_professional_influence_and_bureaucratic_capture.md)
         - [`⚖️_respectability_containment_in_professional_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_respectability_containment_in_professional_ethics.md)
         - [`⚖️_the_history_of_justice_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md)
@@ -2584,7 +2585,6 @@ _Generated on 2025-12-07 21:22:21 UTC_
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
-    - [`⚖️_procedural_correctness_as_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_procedural_correctness_as_safeguard.md)
     - [`⚖️_psed_protection_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_psed_protection_logic.md)
     - [`⚖️_safe_humanitarian_speech_high_risk_discourse.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_safe_humanitarian_speech_high_risk_discourse.md)
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
