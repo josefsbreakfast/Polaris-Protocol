@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:16:10 UTC_
+_Generated on 2025-12-07 04:17:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -127,6 +127,7 @@ _Generated on 2025-12-07 04:16:10 UTC_
         - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md)
         - [`🌒_the_no_win_box.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌒_the_no_win_box.md)
         - [`🏛️_raac_ruins_squad.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🏛️_raac_ruins_squad.md)
+        - [`👑_asserting_sovereignty_after_allied_interference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
@@ -2713,7 +2714,6 @@ _Generated on 2025-12-07 04:16:10 UTC_
     - [`👁‍🗨️_the_boundary_as_border.md`](Polaris_Nest/Git_Intake_Drawer/👁‍🗨️_the_boundary_as_border.md)
     - [`👁️_restoring_epistemic_integrity.md`](Polaris_Nest/Git_Intake_Drawer/👁️_restoring_epistemic_integrity.md)
     - [`👅_gendered_racial_pivot.md`](Polaris_Nest/Git_Intake_Drawer/👅_gendered_racial_pivot.md)
-    - [`👑_asserting_sovereignty_after_allied_interference.md`](Polaris_Nest/Git_Intake_Drawer/👑_asserting_sovereignty_after_allied_interference.md)
     - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/👑_soft_power_accountability_gap.md)
     - [`👻_ghost_persona_error_modes.md`](Polaris_Nest/Git_Intake_Drawer/👻_ghost_persona_error_modes.md)
     - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Polaris_Nest/Git_Intake_Drawer/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
