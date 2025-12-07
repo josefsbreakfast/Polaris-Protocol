@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:18:59 UTC_
+_Generated on 2025-12-07 03:20:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -122,6 +122,7 @@ _Generated on 2025-12-07 03:18:59 UTC_
         - [`⚖️_shielded_roles_and_information_risk_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_shielded_roles_and_information_risk_governance.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌅_rise_of_institutional_integrity.md)
+        - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md)
         - [`🌒_the_no_win_box.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌒_the_no_win_box.md)
         - [`🏛️_raac_ruins_squad.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🏛️_raac_ruins_squad.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
@@ -2594,7 +2595,6 @@ _Generated on 2025-12-07 03:18:59 UTC_
     - [`🌌_institutional_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌌_institutional_pattern_recognition.md)
     - [`🌌_tohu_vavohu_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🌌_tohu_vavohu_plurality.md)
     - [`🌍_apartheid_algorithm_dependency_theory.md`](Polaris_Nest/Git_Intake_Drawer/🌍_apartheid_algorithm_dependency_theory.md)
-    - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Polaris_Nest/Git_Intake_Drawer/🌍_cross_border_bias_propagation_in_surveillance_models.md)
     - [`🌍_israel_five_eyes_structural_interdependency.md`](Polaris_Nest/Git_Intake_Drawer/🌍_israel_five_eyes_structural_interdependency.md)
     - [`🌍_muslim_identity_racialisation_parallels_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🌍_muslim_identity_racialisation_parallels_antisemitism.md)
     - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/🌐_late_stage_autocracy_vibe_diagnostics.md)
