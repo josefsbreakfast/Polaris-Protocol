@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:17:30 UTC_
+_Generated on 2025-12-07 03:18:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -31,6 +31,7 @@ _Generated on 2025-12-07 03:17:30 UTC_
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
       - [**🏛️_Chaps_Be_Serious/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/README.md)
+        - [`⚠️_alt_right_threat_to_both_parties.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/⚠️_alt_right_threat_to_both_parties.md)
         - [`🌹_for_the_serious_red_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)
         - [`🐝_post_protofascist_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md)
         - [`🖌️_for_the_serious_blue_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
@@ -2561,7 +2562,6 @@ _Generated on 2025-12-07 03:17:30 UTC_
     - [`⚖️_transitional_change_vs_rapid_revolutionary_shock.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
     - [`⚖️_uk_data_claim_routes_and_limits.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_uk_data_claim_routes_and_limits.md)
     - [`⚙️_verification_and_watermarking_standards.md`](Polaris_Nest/Git_Intake_Drawer/⚙️_verification_and_watermarking_standards.md)
-    - [`⚠️_alt_right_threat_to_both_parties.md`](Polaris_Nest/Git_Intake_Drawer/⚠️_alt_right_threat_to_both_parties.md)
     - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
     - [`⚡_why_some_people_become_systemic_lightning_rods.md`](Polaris_Nest/Git_Intake_Drawer/⚡_why_some_people_become_systemic_lightning_rods.md)
     - [`⚡️_crackling_channels.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_crackling_channels.md)
