@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 02:29:21 UTC_
+_Generated on 2025-12-07 02:30:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -288,6 +288,7 @@ _Generated on 2025-12-07 02:29:21 UTC_
         - [**🪬_Beyond_Zionism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/README.md)
           - [`🍉_why_do_we_care_about_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
+          - [`🍷_crypto_before_it_was_cool.nd`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_crypto_before_it_was_cool.nd)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
         - [`appeasement_loop_neon.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
         - [`data_misuse_continuum_with_resilience_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/data_misuse_continuum_with_resilience_flowchart.png)
@@ -2497,7 +2498,6 @@ _Generated on 2025-12-07 02:29:21 UTC_
       - [`📡_language_as_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
       - [`🧭_how_we_got_here.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
-      - [`🍷_crypto_before_it_was_cool.nd`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍷_crypto_before_it_was_cool.nd)
       - [`🍷_next_year_in_jerusalem.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍷_next_year_in_jerusalem.md)
       - [`🍷_why_rabbinic_judaism_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🍷_why_rabbinic_judaism_is_anticapitalist.md)
       - [`🏛️_welcome_to_western_imperialism.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)
