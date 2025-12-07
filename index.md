@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:43:25 UTC_
+_Generated on 2025-12-07 21:44:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -621,6 +621,7 @@ _Generated on 2025-12-07 21:43:25 UTC_
         - [`⚖️_citizen_recourse_private_surveillance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_citizen_recourse_private_surveillance_uk.md)
         - [`⚖️_ideological_coding_and_voice_discrediting.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_ideological_coding_and_voice_discrediting.md)
         - [`⚖️_recourse_for_behavioural_containment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_recourse_for_behavioural_containment.md)
+        - [`⚡_why_some_people_become_systemic_lightning_rods.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚡_why_some_people_become_systemic_lightning_rods.md)
         - [`✂🌹_machine_pruning_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/✂🌹_machine_pruning_logic.md)
         - [`🌿_the_paradox_of_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🌿_the_paradox_of_recognition.md)
         - [`🎶_sonata_server_sympathies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
@@ -2592,7 +2593,6 @@ _Generated on 2025-12-07 21:43:25 UTC_
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚡_why_some_people_become_systemic_lightning_rods.md`](Polaris_Nest/Git_Intake_Drawer/⚡_why_some_people_become_systemic_lightning_rods.md)
     - [`⚡️_crackling_channels.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_crackling_channels.md)
     - [`⚡️_public_legitimacy_crisis_behavioural_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_public_legitimacy_crisis_behavioural_governance.md)
     - [`✂️_tone_misclassification_emotional_flattening.md`](Polaris_Nest/Git_Intake_Drawer/✂️_tone_misclassification_emotional_flattening.md)
