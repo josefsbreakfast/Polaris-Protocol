@@ -1,6 +1,6 @@
 # 🌲 Campfire Stability Model for Modern Citizens  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
-*A Polaris emotional-systems framework for understanding psychological depletion, resilience cycles, and human stability under democratic stress.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
+*A Polaris emotional-systems framework for understanding psychological depletion, resilience cycles, and human stability under democratic stress.*  
 
 ---
 
@@ -213,4 +213,4 @@ Crosslinks:
 - 🌲 *rebuilding_spark_in_a_political_forest_fire*  
 - 🧩 *asymmetric_democratic_policing*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
