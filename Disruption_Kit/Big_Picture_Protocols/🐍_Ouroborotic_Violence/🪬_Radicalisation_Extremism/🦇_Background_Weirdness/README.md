@@ -73,9 +73,9 @@ It provides the contextual strata behind modern radicalisation, mapping the ambi
 
 > 📡 Cross-references:
 > 
-> - [🪬 Radicalisation & Extremism](../) — analysis of pipelines, harms, and vectors  
-> - [🐍 Ouroborotic Violence](../../) — cyclical escalation and self-reinforcing systems  
-> - [🧠 Big Picture Protocols](../../../) — systemic and structural analysis  
+> - [🪬 Radicalisation & Extremism](../README.md) — *analysis of pipelines, harms, and vectors*  
+> - [🐍 Ouroborotic Violence](../../README.md) — *cyclical escalation and self-reinforcing systems*  
+> - [🧠 Big Picture Protocols](../../../README.md) — *systemic and structural analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
