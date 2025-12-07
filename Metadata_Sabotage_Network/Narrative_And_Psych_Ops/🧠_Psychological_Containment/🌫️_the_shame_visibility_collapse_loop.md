@@ -1,5 +1,5 @@
 # 🌫️ The Shame–Visibility Collapse Loop  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
 *How alternating cycles of invisibility and humiliation destabilise men’s emotional interiors and create the perfect conditions for extremist capture.*
 
 ---
@@ -223,10 +223,10 @@ It defines the emotional oscillation that makes men vulnerable to coercive ident
 
 > 📡 Cross-references:
 > 
-> - [🔥 Shame as the Master Key of Fascist Manipulation](./shame_as_the_master_key_of_fascist_manipulation.md)  
-> - [🧠 Cognitive Vulnerability Stack](./the_cognitive_vulnerability_stack_of_lonely_men.md)  
-> - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)
+> - [🔥 Shame as the Master Key of Fascist Manipulation]  
+> - [🧠 Cognitive Vulnerability Stack]  
+> - [💗 Soft Boy Restoration Protocol]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
