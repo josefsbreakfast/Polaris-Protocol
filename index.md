@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:02:09 UTC_
+_Generated on 2025-12-07 22:03:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -856,6 +856,7 @@ _Generated on 2025-12-07 22:02:09 UTC_
         - [`⛳️_nudge_to_sludge.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⛳️_nudge_to_sludge.md)
         - [`✏️_how_prevent_flags_quietly_shape_someones_life_for_years.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/✏️_how_prevent_flags_quietly_shape_someones_life_for_years.md)
         - [`➰_rejustification_loop_racial_logics_reborn_as_safety.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/➰_rejustification_loop_racial_logics_reborn_as_safety.md)
+        - [`🈺_prevent_misfires_racialised_gender_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🈺_prevent_misfires_racialised_gender_patterns.md)
         - [`🌀_docility_engine.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
         - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
         - [`🏗️_2010s_authoritarian_adjacent_build.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏗️_2010s_authoritarian_adjacent_build.md)
@@ -2605,7 +2606,6 @@ _Generated on 2025-12-07 22:02:09 UTC_
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`🈺_prevent_misfires_racialised_gender_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🈺_prevent_misfires_racialised_gender_patterns.md)
     - [`🌀_answering_uncertainty_in_ai_environments.md`](Polaris_Nest/Git_Intake_Drawer/🌀_answering_uncertainty_in_ai_environments.md)
     - [`🌀_behavioural_steering_general_audience_signals.md`](Polaris_Nest/Git_Intake_Drawer/🌀_behavioural_steering_general_audience_signals.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
