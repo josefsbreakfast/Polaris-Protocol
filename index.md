@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 02:54:01 UTC_
+_Generated on 2025-12-07 03:00:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -408,6 +408,8 @@ _Generated on 2025-12-07 02:54:01 UTC_
           - [`🪬_masculinity_in_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_masculinity_in_crisis.md)
           - [`🪬_pua_to_far_right_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_pua_to_far_right_pipeline.md)
           - [`🪭_comfort_building.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪭_comfort_building.md)
+        - [**🦇_Background_Weirdness/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/README.md)
         - [**🧊_Conspiracy_Icebergs/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/README.md)
           - [`⚪_the_great_replacement.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/⚪_the_great_replacement.md)
