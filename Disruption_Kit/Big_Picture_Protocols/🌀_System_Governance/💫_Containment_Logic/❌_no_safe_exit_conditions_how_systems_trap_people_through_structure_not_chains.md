@@ -1,5 +1,5 @@
 # ❌ **No-Safe-Exit Conditions — How Systems Trap People Through Structure, Not Chains**  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *Most people don’t stay in harmful systems because they agree. They stay because the architecture makes leaving feel fatal.*
 
 ---
@@ -261,4 +261,4 @@ It explains how systems trap individuals through reputational, emotional, social
 
 *Survivor authorship is sovereign. If leaving feels dangerous, that is evidence of the system — not of you.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
