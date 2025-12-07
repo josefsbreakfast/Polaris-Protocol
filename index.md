@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:07:40 UTC_
+_Generated on 2025-12-07 22:09:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -859,6 +859,7 @@ _Generated on 2025-12-07 22:07:40 UTC_
         - [`🈺_prevent_misfires_racialised_gender_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🈺_prevent_misfires_racialised_gender_patterns.md)
         - [`🌀_behavioural_steering_through_general_audience_signals.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_behavioural_steering_through_general_audience_signals.md)
         - [`🌀_docility_engine.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
+        - [`🌀_institutional_coercion_pattern_equivalence.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_institutional_coercion_pattern_equivalence.md)
         - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
         - [`🏗️_2010s_authoritarian_adjacent_build.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏗️_2010s_authoritarian_adjacent_build.md)
         - [`🏟️_hackathon_league.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏟️_hackathon_league.md)
@@ -2609,7 +2610,6 @@ _Generated on 2025-12-07 22:07:40 UTC_
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌀_institutional_coercion_pattern_equivalence.md`](Polaris_Nest/Git_Intake_Drawer/🌀_institutional_coercion_pattern_equivalence.md)
     - [`🌀_projection_based_escalation_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_based_escalation_patterns.md)
     - [`🌀_projection_driven_system_nudges.md`](Polaris_Nest/Git_Intake_Drawer/🌀_projection_driven_system_nudges.md)
     - [`🌀_systemic_coercion_in_federated_governance.md`](Polaris_Nest/Git_Intake_Drawer/🌀_systemic_coercion_in_federated_governance.md)
