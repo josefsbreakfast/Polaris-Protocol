@@ -1,5 +1,5 @@
 # ⚖️ Health vs Justice Reflex Split  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *A comparative governance node explaining why healthcare escalates instantly while justice stalls — and how this reflex split produces cross-domain harm.*
 
 ---
@@ -182,6 +182,6 @@ healthcare escalation, justice caution, reflex split, governance clash, multi-ag
 
 ## 🏮 Footer  
 *⚖️ Health vs Justice Reflex Split* explains the structural, emotional, and procedural differences between healthcare and justice responses to harm.  
-Understanding the split is key for stabilising multi-agency failures and reducing silence-harm.
+Understanding the split is key for stabilising multi-agency failures and reducing silence-harm.  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
