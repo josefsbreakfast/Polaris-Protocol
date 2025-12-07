@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:17:36 UTC_
+_Generated on 2025-12-07 04:19:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -212,6 +212,7 @@ _Generated on 2025-12-07 04:17:36 UTC_
         - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)
         - [`🎭_kremlin_aesthetic_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_kremlin_aesthetic_timeline.md)
         - [`🎭_reputation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_reputation_as_governance.md)
+        - [`🎭_respectibility_theatre_bullshit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_respectibility_theatre_bullshit.md)
         - [`🎴_tarot_of_prime_ministers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎴_tarot_of_prime_ministers.md)
         - [`🎼_polyphonic_origins.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎼_polyphonic_origins.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
@@ -2644,7 +2645,6 @@ _Generated on 2025-12-07 04:17:36 UTC_
     - [`🎭_performative_left_failure_modes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_performative_left_failure_modes.md)
     - [`🎭_pr_friendly_persona_flattening.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_friendly_persona_flattening.md)
     - [`🎭_pr_simulation_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_simulation_breakdown.md)
-    - [`🎭_respectibility_theatre_bullshit.md`](Polaris_Nest/Git_Intake_Drawer/🎭_respectibility_theatre_bullshit.md)
     - [`🎭_symbolic_violence_in_gendered_racialised_frames.md`](Polaris_Nest/Git_Intake_Drawer/🎭_symbolic_violence_in_gendered_racialised_frames.md)
     - [`🎭_the_punitive_logic_of_entitlement_wounds.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_punitive_logic_of_entitlement_wounds.md)
     - [`🎭_whiteness_baseline_problem.md`](Polaris_Nest/Git_Intake_Drawer/🎭_whiteness_baseline_problem.md)
