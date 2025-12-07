@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 02:33:09 UTC_
+_Generated on 2025-12-07 02:33:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -294,6 +294,7 @@ _Generated on 2025-12-07 02:33:09 UTC_
           - [`🏛️_welcome_to_western_imperialism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)
           - [`👑_projection_esther.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/👑_projection_esther.md)
           - [`🕯️_kol_nidre_and_european_viral_ignorance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_kol_nidre_and_european_viral_ignorance.md)
+          - [`🕯️_shabbat_is_anticapitalist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
         - [`appeasement_loop_neon.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
         - [`data_misuse_continuum_with_resilience_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/data_misuse_continuum_with_resilience_flowchart.png)
@@ -2503,7 +2504,6 @@ _Generated on 2025-12-07 02:33:09 UTC_
       - [`📡_language_as_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
       - [`🧭_how_we_got_here.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [**🪬_Beyond_Zionism/**](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/)
-      - [`🕯️_shabbat_is_anticapitalist.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
       - [`🛰️_alrgorithmic_judaisms.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🛰️_alrgorithmic_judaisms.md)
       - [`🧄_market_deregulation_and_shylocks_monologue.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧄_market_deregulation_and_shylocks_monologue.md)
