@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:13:05 UTC_
+_Generated on 2025-12-07 03:15:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -32,6 +32,7 @@ _Generated on 2025-12-07 03:13:05 UTC_
       - [**🏛️_Chaps_Be_Serious/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/README.md)
         - [`🌹_for_the_serious_red_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)
+        - [`🐝_post_protofascist_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md)
         - [`🖌️_for_the_serious_blue_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
@@ -2690,7 +2691,6 @@ _Generated on 2025-12-07 03:13:05 UTC_
     - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_vulnerability_manufacture_to_enmeshment.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
-    - [`🐝_post_protofascist_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🐝_post_protofascist_reconstruction.md)
     - [`🐝_sanctions_as_loyalty_test.md`](Polaris_Nest/Git_Intake_Drawer/🐝_sanctions_as_loyalty_test.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
     - [`🐝_volcanic_rest_theory.md`](Polaris_Nest/Git_Intake_Drawer/🐝_volcanic_rest_theory.md)
