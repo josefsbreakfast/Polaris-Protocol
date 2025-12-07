@@ -1,5 +1,5 @@
 # 👑 Asserting Sovereignty After Allied Interference  
-**First created:** 2025-10-26 | **Last updated:** 2025-11-23  
+**First created:** 2025-10-26 | **Last updated:** 2025-12-07  
 *How a Five Eyes or allied state reclaims jurisdiction when another partner’s operations breach its laws or harm its citizens.*  
 
 ---
@@ -141,7 +141,7 @@ five eyes, sovereignty, jurisdiction, allied interference, demarche, investigati
 
 ## 🏮 Footer  
 
-*Asserting Sovereignty After Allied Interference* is a procedural node of the **Polaris Protocol**.  
+*👑 Asserting Sovereignty After Allied Interference* is a procedural node of the **Polaris Protocol**.  
 It details the legal and diplomatic mechanisms by which a state reclaims jurisdiction and demonstrates rule-of-law sovereignty even within alliance structures.  
 
 > 📡 Cross-references:
@@ -153,4 +153,4 @@ It details the legal and diplomatic mechanisms by which a state reclaims jurisdi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-07_
