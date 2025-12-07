@@ -1,5 +1,5 @@
 # 🌀 Projection-Driven System Nudges  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
 *How hostile actors sometimes attempt to move institutions through projection rather than evidence — and why transparent survivor frameworks neutralise these attempts.*
 
 ---
@@ -188,4 +188,4 @@ It explains how hostile actors attempt to move institutions through projection �
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
