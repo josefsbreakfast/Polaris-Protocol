@@ -1,5 +1,5 @@
 # 🍑 The Homoerotic Subtext of Prevent
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
 *A thoroughly unserious but unfortunately accurate guide to the gay panic underneath British counter-extremism practice.*  
 
 ---
@@ -119,4 +119,4 @@ Which is why this belongs in Digital Disruption *and* the serious cluster.
 A Polaris satire node.  
 We apologise for nothing.
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
