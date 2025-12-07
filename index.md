@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:11:24 UTC_
+_Generated on 2025-12-07 04:13:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -166,6 +166,7 @@ _Generated on 2025-12-07 04:11:24 UTC_
         - [`🌀_self_consuming_cycles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_self_consuming_cycles.md)
         - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_surveillance_as_self_fulfilling_cycle.md)
         - [`🎩_organisational_civility_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
+        - [`🏛️_the_boringing_uk_2010_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
         - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
@@ -2673,7 +2674,6 @@ _Generated on 2025-12-07 04:11:24 UTC_
     - [`🏛️_non_transferability_of_behavioral_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_non_transferability_of_behavioral_interventions.md)
     - [`🏛️_olympus_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_olympus_syndrome.md)
     - [`🏛️_respectability_laundering.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_respectability_laundering.md)
-    - [`🏛️_the_boringing_uk_2010_2025.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_boringing_uk_2010_2025.md)
     - [`🏛️_the_duel_of_temperments.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_duel_of_temperments.md)
     - [`🏛️_the_grey_zone_inside_the_think_tank.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_grey_zone_inside_the_think_tank.md)
     - [`🏛️_the_nudging_governance_vacuum.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_nudging_governance_vacuum.md)
