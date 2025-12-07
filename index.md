@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:25:49 UTC_
+_Generated on 2025-12-07 04:27:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -52,6 +52,7 @@ _Generated on 2025-12-07 04:25:49 UTC_
           - [`🇺🇸_project_2025_summary.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇺🇸_project_2025_summary.yaml)
           - [`🇺🇸_project_esther_summary.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇺🇸_project_esther_summary.yaml)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/README.md)
+        - [`🍌_neocon_narcissitic_political_disorder.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_neocon_narcissitic_political_disorder.md)
         - [`📺_gb_not_news.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/📺_gb_not_news.md)
         - [`🦤_dodo_and_adjacent_activity_index.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_dodo_and_adjacent_activity_index.yaml)
         - [`🦤_dodo_importer_tommy_robinson.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_dodo_importer_tommy_robinson.md)
@@ -2628,7 +2629,6 @@ _Generated on 2025-12-07 04:25:49 UTC_
     - [`🌲_campfire_stability_model_for_modern_citizens.md`](Polaris_Nest/Git_Intake_Drawer/🌲_campfire_stability_model_for_modern_citizens.md)
     - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](Polaris_Nest/Git_Intake_Drawer/🌲_rebuilding_spark_in_a_political_forest_fire.md)
     - [`🌿_normal_human_behaviour_as_risk_flag.md`](Polaris_Nest/Git_Intake_Drawer/🌿_normal_human_behaviour_as_risk_flag.md)
-    - [`🍌_neocon_narcissitic_political_disorder.md`](Polaris_Nest/Git_Intake_Drawer/🍌_neocon_narcissitic_political_disorder.md)
     - [`🍌_racism_as_epistemic_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🍌_racism_as_epistemic_collapse.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
     - [`🍑_the_homoerotic_subtext_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🍑_the_homoerotic_subtext_of_prevent.md)
