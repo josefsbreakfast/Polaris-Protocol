@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 02:49:23 UTC_
+_Generated on 2025-12-07 02:49:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -295,6 +295,7 @@ _Generated on 2025-12-07 02:49:23 UTC_
           - [`👑_projection_esther.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/👑_projection_esther.md)
           - [`🕯️_kol_nidre_and_european_viral_ignorance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_kol_nidre_and_european_viral_ignorance.md)
           - [`🕯️_shabbat_is_anticapitalist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
+          - [`🧿_dependancy_on_western_definitions.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
           - [`🧿_jewish_nationalisms.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md)
           - [`🧿_moda_grants.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_moda_grants.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
@@ -2511,7 +2512,6 @@ _Generated on 2025-12-07 02:49:23 UTC_
       - [`🧄_market_deregulation_and_shylocks_monologue.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧄_market_deregulation_and_shylocks_monologue.md)
       - [`🧬_definitions_of_zionism.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧬_definitions_of_zionism.md)
       - [`🧿_asajew.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_asajew.md)
-      - [`🧿_dependancy_on_western_definitions.md`](Polaris_Nest/Git_Intake_Drawer/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
     - [`How_Emotional_Shock_Distorts_Institutional_Decision-Making.md`](Polaris_Nest/Git_Intake_Drawer/How_Emotional_Shock_Distorts_Institutional_Decision-Making.md)
     - [`Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md`](Polaris_Nest/Git_Intake_Drawer/Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
