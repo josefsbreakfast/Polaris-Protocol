@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:01:26 UTC_
+_Generated on 2025-12-07 23:04:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2328,6 +2328,7 @@ _Generated on 2025-12-07 23:01:26 UTC_
       - [`🌑_induced_futility.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)
       - [`🌒_waiting_is_not_a_rescue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md)
       - [`🌫️_memory_fogging.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md)
+      - [`🌫️_the_shame_visibility_collapse_loop.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_the_shame_visibility_collapse_loop.md)
       - [`🎭_safety_layer_british_pragmatics.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_safety_layer_british_pragmatics.md)
       - [`🐌_delays_are_violence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)
       - [`🐣_maternity_delays_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐣_maternity_delays_as_containment.md)
@@ -2626,7 +2627,6 @@ _Generated on 2025-12-07 23:01:26 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
-    - [`🌫️_the_shame_visibility_collapse_loop.md`](Polaris_Nest/Git_Intake_Drawer/🌫️_the_shame_visibility_collapse_loop.md)
     - [`🌱_institutional_betrayal_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🌱_institutional_betrayal_reflex.md)
     - [`🌱_prevent_as_authoritarian_seedling.md`](Polaris_Nest/Git_Intake_Drawer/🌱_prevent_as_authoritarian_seedling.md)
     - [`🌲_campfire_stability_model_for_modern_citizens.md`](Polaris_Nest/Git_Intake_Drawer/🌲_campfire_stability_model_for_modern_citizens.md)
