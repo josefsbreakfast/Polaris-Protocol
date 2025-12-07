@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:03:25 UTC_
+_Generated on 2025-12-07 22:06:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -891,6 +891,7 @@ _Generated on 2025-12-07 22:03:25 UTC_
         - [`suspect_interaction_flowchart_loop_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/suspect_interaction_flowchart_loop_redacted.png)
         - [`⚖️_containment_as_threshold_crime.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/⚖️_containment_as_threshold_crime.md)
         - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
+        - [`🌀_answering_uncertainty_in_ai_environments.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🌀_answering_uncertainty_in_ai_environments.md)
         - [`🎥_anomaly_incentives_in_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md)
         - [`🎶_chant_restrictions_as_metadata_control.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md)
         - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
@@ -2606,7 +2607,6 @@ _Generated on 2025-12-07 22:03:25 UTC_
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`🌀_answering_uncertainty_in_ai_environments.md`](Polaris_Nest/Git_Intake_Drawer/🌀_answering_uncertainty_in_ai_environments.md)
     - [`🌀_behavioural_steering_general_audience_signals.md`](Polaris_Nest/Git_Intake_Drawer/🌀_behavioural_steering_general_audience_signals.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌀_institutional_coercion_pattern_equivalence.md`](Polaris_Nest/Git_Intake_Drawer/🌀_institutional_coercion_pattern_equivalence.md)
