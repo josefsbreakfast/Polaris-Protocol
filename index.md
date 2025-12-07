@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:59:52 UTC_
+_Generated on 2025-12-07 22:01:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -794,6 +794,7 @@ _Generated on 2025-12-07 21:59:52 UTC_
         - [`⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md)
         - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
         - [`➰_appeasement_loop_policing_bias.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/➰_appeasement_loop_policing_bias.md)
+        - [`🃏_the_joke_and_the_right_to_tell_it.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🃏_the_joke_and_the_right_to_tell_it.md)
         - [`🎙_congress_radio_and_partition_cinema.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎙_congress_radio_and_partition_cinema.md)
         - [`🎧_banned_tracks_transmission_loops.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎧_banned_tracks_transmission_loops.md)
         - [`🎬_suppression_legends_film_index.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎬_suppression_legends_film_index.md)
@@ -2603,7 +2604,6 @@ _Generated on 2025-12-07 21:59:52 UTC_
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🇷🇺_end_of_russias_camp_era.md`](Polaris_Nest/Git_Intake_Drawer/🇷🇺_end_of_russias_camp_era.md)
     - [`🈺_prevent_misfires_racialised_gender_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🈺_prevent_misfires_racialised_gender_patterns.md)
     - [`🌀_answering_uncertainty_in_ai_environments.md`](Polaris_Nest/Git_Intake_Drawer/🌀_answering_uncertainty_in_ai_environments.md)
