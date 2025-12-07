@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:42:03 UTC_
+_Generated on 2025-12-07 21:43:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2046,6 +2046,7 @@ _Generated on 2025-12-07 21:42:03 UTC_
     - [**📱_Digital_But_Make_It_Secure/**](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
       - [`⚙️_verification_and_watermarking_standards.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚙️_verification_and_watermarking_standards.md)
+      - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚡_rapid_response_forensic_protocol_first_24_hours.md)
       - [`📱_app_security_basics_for_survivors.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📱_app_security_basics_for_survivors.md)
       - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
       - [`🪐_verifying_app_encryption_and_privacy_claims.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
@@ -2591,7 +2592,6 @@ _Generated on 2025-12-07 21:42:03 UTC_
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Polaris_Nest/Git_Intake_Drawer/⚡_rapid_response_forensic_protocol_first_24_hours.md)
     - [`⚡_why_some_people_become_systemic_lightning_rods.md`](Polaris_Nest/Git_Intake_Drawer/⚡_why_some_people_become_systemic_lightning_rods.md)
     - [`⚡️_crackling_channels.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_crackling_channels.md)
     - [`⚡️_public_legitimacy_crisis_behavioural_governance.md`](Polaris_Nest/Git_Intake_Drawer/⚡️_public_legitimacy_crisis_behavioural_governance.md)
