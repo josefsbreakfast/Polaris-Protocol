@@ -1,5 +1,5 @@
 # 🌀 Systemic Coercion in Federated Governance  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-07  
 *How federated public systems generate coercive behaviours without intent.*  
 
 ---
@@ -54,4 +54,4 @@ It documents how structural design produces coercive outcomes even in the absenc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
