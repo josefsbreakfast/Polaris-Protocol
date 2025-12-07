@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:16:33 UTC_
+_Generated on 2025-12-07 22:22:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -181,6 +181,7 @@ _Generated on 2025-12-07 22:16:33 UTC_
         - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_surveillance_as_self_fulfilling_cycle.md)
         - [`🌀_systemic_coercion_in_federated_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_systemic_coercion_in_federated_governance.md)
         - [`🌀_when_system_behaviour_stops_making_sense.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_when_system_behaviour_stops_making_sense.md)
+        - [`🌌_institutional_pattern_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌌_institutional_pattern_recognition.md)
         - [`🌍_israel_five_eyes_structural_interdependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md)
         - [`🎩_organisational_civility_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
         - [`🏛️_the_boringing_uk_2010_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
@@ -2615,7 +2616,6 @@ _Generated on 2025-12-07 22:16:33 UTC_
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌌_institutional_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🌌_institutional_pattern_recognition.md)
     - [`🌌_tohu_vavohu_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🌌_tohu_vavohu_plurality.md)
     - [`🌍_apartheid_algorithm_dependency_theory.md`](Polaris_Nest/Git_Intake_Drawer/🌍_apartheid_algorithm_dependency_theory.md)
     - [`🌍_muslim_identity_racialisation_parallels_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🌍_muslim_identity_racialisation_parallels_antisemitism.md)
