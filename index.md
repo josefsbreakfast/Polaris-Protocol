@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:49:40 UTC_
+_Generated on 2025-12-07 23:58:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -806,6 +806,7 @@ _Generated on 2025-12-07 23:49:40 UTC_
         - [`🎙_congress_radio_and_partition_cinema.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎙_congress_radio_and_partition_cinema.md)
         - [`🎧_banned_tracks_transmission_loops.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎧_banned_tracks_transmission_loops.md)
         - [`🎬_suppression_legends_film_index.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎬_suppression_legends_film_index.md)
+        - [`🎭_british_rhetoric_vs_american_moderation_failure_case_study.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎭_british_rhetoric_vs_american_moderation_failure_case_study.md)
         - [`🎶_book_discoverability_shift.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_book_discoverability_shift.md)
         - [`🎶_containment_by_review.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_containment_by_review.md)
         - [`🎶_dedication_absences_in_books.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_dedication_absences_in_books.md)
@@ -2642,7 +2643,6 @@ _Generated on 2025-12-07 23:49:40 UTC_
     - [`🎤_get_back_in_the_camp_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎤_get_back_in_the_camp_ensemble.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
     - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Polaris_Nest/Git_Intake_Drawer/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
-    - [`🎭_british_rhetoric_vs_american_moderation_case_study.md`](Polaris_Nest/Git_Intake_Drawer/🎭_british_rhetoric_vs_american_moderation_case_study.md)
     - [`🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md`](Polaris_Nest/Git_Intake_Drawer/🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md)
     - [`🎭_natcon_2023_25_hinge_point.md`](Polaris_Nest/Git_Intake_Drawer/🎭_natcon_2023_25_hinge_point.md)
     - [`🎭_performative_left_failure_modes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_performative_left_failure_modes.md)
