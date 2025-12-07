@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:54:13 UTC_
+_Generated on 2025-12-07 03:55:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -290,6 +290,7 @@ _Generated on 2025-12-07 03:54:13 UTC_
         - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
         - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
+      - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**💔_Violence_IRL/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)
@@ -2563,7 +2564,6 @@ _Generated on 2025-12-07 03:54:13 UTC_
     - [`⚖️_health_vs_justice_reflex_split.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_health_vs_justice_reflex_split.md)
     - [`⚖️_legal_disentanglement_and_risk_perception.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_legal_disentanglement_and_risk_perception.md)
     - [`⚖️_metadata_integrity.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_metadata_integrity.md)
-    - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
     - [`⚖️_procedural_correctness_as_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_procedural_correctness_as_safeguard.md)
     - [`⚖️_psed_protection_logic.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_psed_protection_logic.md)
     - [`⚖️_safe_humanitarian_speech_high_risk_discourse.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_safe_humanitarian_speech_high_risk_discourse.md)
