@@ -1,5 +1,5 @@
 # 🎡 The Aesthetic Economy of States
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
 *How nations generate, distribute, and compete through aesthetic output — from beauty to spectacle to vibes.*  
 
 ---
@@ -47,4 +47,4 @@ aesthetic economy, soft power, culture, charisma, vibes, spectacle
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
