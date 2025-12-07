@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:25:11 UTC_
+_Generated on 2025-12-07 23:27:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -865,6 +865,7 @@ _Generated on 2025-12-07 23:25:11 UTC_
         - [`🌀_docility_engine.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
         - [`🌀_institutional_coercion_pattern_equivalence.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_institutional_coercion_pattern_equivalence.md)
         - [`🌀_projection_driven_system_nudges.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_projection_driven_system_nudges.md)
+        - [`🌿_normal_human_behaviour_vs_risk_indicators.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌿_normal_human_behaviour_vs_risk_indicators.md)
         - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
         - [`🏗️_2010s_authoritarian_adjacent_build.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏗️_2010s_authoritarian_adjacent_build.md)
         - [`🏟️_hackathon_league.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏟️_hackathon_league.md)
@@ -2631,7 +2632,6 @@ _Generated on 2025-12-07 23:25:11 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
-    - [`🌿_normal_human_behaviour_as_risk_flag.md`](Polaris_Nest/Git_Intake_Drawer/🌿_normal_human_behaviour_as_risk_flag.md)
     - [`🍌_racism_as_epistemic_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🍌_racism_as_epistemic_collapse.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
     - [`🍑_the_homoerotic_subtext_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🍑_the_homoerotic_subtext_of_prevent.md)
