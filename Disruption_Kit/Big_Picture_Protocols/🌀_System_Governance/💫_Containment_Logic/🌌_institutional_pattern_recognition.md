@@ -1,5 +1,5 @@
 # 🌌 Institutional Pattern Recognition  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
 *How institutions recognise behavioural anomalies — not through surveillance, but through human pattern-reading and administrative friction.*  
 
 ---
@@ -212,4 +212,4 @@ It explains how institutions recognise behavioural anomalies not through surveil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
