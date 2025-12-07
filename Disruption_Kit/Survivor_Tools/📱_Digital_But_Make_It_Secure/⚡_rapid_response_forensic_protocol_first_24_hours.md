@@ -1,5 +1,5 @@
 # ⚡ Rapid‑Response Forensic Protocol — First 24 Hours  
-**First created:** 2025‑11‑11 | **Last updated:** 2025‑11‑22  
+**First created:** 2025‑11‑11 | **Last updated:** 2025-12-07  
 *Preserve evidential integrity and stop further contamination during the critical first 24 hours of a suspected data‑manipulation incident.*  
 
 ---
@@ -144,4 +144,4 @@ It defines role‑based actions, tooling, and documentation required to preserve
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑22_
+_Last updated: 2025-12-07_
