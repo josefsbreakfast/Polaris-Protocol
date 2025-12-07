@@ -1,7 +1,5 @@
-File: 🦑_kraken-based_defence_budget_satire.md
-
 # 🦑 Kraken-Based Defence Budget Satire (Maybe. They're all very NCND about the whole thing.)  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-07  
 *A satirical-but-structural Polaris analysis of how mythical monsters, exaggerated threats, and imaginary deep-sea horrors mirror the rhetorical logic behind modern defence budgeting.*
 
 ---
