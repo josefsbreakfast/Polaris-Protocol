@@ -1,6 +1,6 @@
 # 🌫️ Metadata as Mist  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
-*A poetic framing of metadata as an atmospheric by-product of digital life, not a threat.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
+*A poetic framing of metadata as an atmospheric by-product of digital life, not a threat.*  
 
 ---
 
@@ -86,4 +86,4 @@ metadata, mist, digital atmosphere, non-surveillance, behavioural physics, gentl
 *🌫️ Metadata as Mist* is a living node of the Polaris Protocol.  
 It frames metadata as an ambient by-product of digital life, resisting over-interpretation and grounding governance analysis in realism.
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
