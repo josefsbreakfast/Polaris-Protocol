@@ -1,5 +1,5 @@
 # ⚡️ Public Legitimacy Crisis in Behavioural Governance  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
 *Why behavioural-surveillance systems will trigger a public backlash once their scope, logic, and impact become widely understood.*
 
 ---
@@ -212,4 +212,4 @@ It maps the inevitable backlash arising when behavioural-surveillance systems be
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
