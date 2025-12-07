@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:08:08 UTC_
+_Generated on 2025-12-07 03:11:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1041,6 +1041,7 @@ _Generated on 2025-12-07 03:08:08 UTC_
       - [`🧨_procedural_wait_your_turn.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_procedural_wait_your_turn.md)
       - [`🪓_mean_evidence_template.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🪓_mean_evidence_template.md)
       - [`🪬_reclaiming_the_engineered_body.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🪬_reclaiming_the_engineered_body.md)
+      - [`🫶_declaration_of_continued_existence.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🫶_declaration_of_continued_existence.md)
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
       - [**🔖_Suppressive_Syntax/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/)
         - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/README.md)
@@ -3411,7 +3412,6 @@ _Generated on 2025-12-07 03:08:08 UTC_
     - [`🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md`](Polaris_Nest/Git_Intake_Drawer/🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md)
     - [`🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md`](Polaris_Nest/Git_Intake_Drawer/🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md)
     - [`🫥_over_safety_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🫥_over_safety_as_containment.md)
-    - [`🫶_declaration_of_continued_existence.md`](Polaris_Nest/Git_Intake_Drawer/🫶_declaration_of_continued_existence.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
