@@ -1,6 +1,6 @@
 # 🍌 Racism as Epistemic Collapse  
-**First created:** 2025-11-24 | **Last updated:** 2025-11-24  
-*How racial supremacy doesn’t merely produce cruelty, but systematically destroys the cognitive, analytical, and institutional capacities of the societies that cling to it.*
+**First created:** 2025-11-24 | **Last updated:** 2025-12-07  
+*How racial supremacy doesn’t merely produce cruelty, but systematically destroys the cognitive, analytical, and institutional capacities of the societies that cling to it.*  
 
 ---
 
@@ -179,4 +179,4 @@ christian supremacy, white fragility, dyadic error, imperial logic, pattern blin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-07_
