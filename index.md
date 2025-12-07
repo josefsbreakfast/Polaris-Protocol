@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 21:27:53 UTC_
+_Generated on 2025-12-07 21:33:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -785,6 +785,7 @@ _Generated on 2025-12-07 21:27:53 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md)
         - [`☕_the_auntie_model_of_memetic_transmission.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md)
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_legal_hooks_for_muted_books.md)
+        - [`⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md)
         - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
         - [`➰_appeasement_loop_policing_bias.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/➰_appeasement_loop_policing_bias.md)
         - [`🎙_congress_radio_and_partition_cinema.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎙_congress_radio_and_partition_cinema.md)
@@ -2586,7 +2587,6 @@ _Generated on 2025-12-07 21:27:53 UTC_
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚖️_safe_humanitarian_speech_high_risk_discourse.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_safe_humanitarian_speech_high_risk_discourse.md)
     - [`⚖️_soft_power_without_soft_accountability.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_soft_power_without_soft_accountability.md)
     - [`⚖️_the_conduit_and_the_safeguard.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_the_conduit_and_the_safeguard.md)
     - [`⚖️_transitional_change_vs_rapid_revolutionary_shock.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
