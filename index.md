@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:19:25 UTC_
+_Generated on 2025-12-07 04:21:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -159,6 +159,7 @@ _Generated on 2025-12-07 04:19:25 UTC_
         - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
         - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
         - [`🃏_the_fool_card_and_machine_innocence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🃏_the_fool_card_and_machine_innocence.md)
+        - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🇬🇧_diet_authoritarianism_uk_homebrew.md)
         - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
         - [`🌀_behavioural_containment_when_governance_becomes_psychology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_behavioural_containment_when_governance_becomes_psychology.md)
         - [`🌀_fall_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_fall_of_institutional_integrity.md)
@@ -2598,7 +2599,6 @@ _Generated on 2025-12-07 04:19:25 UTC_
     - [`❌_no_safe_exit_conditions.md`](Polaris_Nest/Git_Intake_Drawer/❌_no_safe_exit_conditions.md)
     - [`🃏_the_joke_and_the_right_to_tell_it.md`](Polaris_Nest/Git_Intake_Drawer/🃏_the_joke_and_the_right_to_tell_it.md)
     - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Polaris_Nest/Git_Intake_Drawer/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
-    - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_diet_authoritarianism_uk_homebrew.md)
     - [`🇷🇺_end_of_russias_camp_era.md`](Polaris_Nest/Git_Intake_Drawer/🇷🇺_end_of_russias_camp_era.md)
     - [`🈺_prevent_misfires_racialised_gender_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🈺_prevent_misfires_racialised_gender_patterns.md)
     - [`🌀_answering_uncertainty_in_ai_environments.md`](Polaris_Nest/Git_Intake_Drawer/🌀_answering_uncertainty_in_ai_environments.md)
