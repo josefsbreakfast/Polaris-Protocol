@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 22:26:05 UTC_
+_Generated on 2025-12-07 22:28:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1003,6 +1003,7 @@ _Generated on 2025-12-07 22:26:05 UTC_
         - [`⚖️_navigating_elder_spaces_for_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_navigating_elder_spaces_for_transparency.md)
         - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_sanhedrin_rulings_on_trafficking.md)
         - [`⛳️_flags_increase_risks.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⛳️_flags_increase_risks.md)
+        - [`🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md)
         - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
         - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
         - [`📅_blm_uk_2020_2025_timeline_outputs.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📅_blm_uk_2020_2025_timeline_outputs.md)
@@ -2618,7 +2619,6 @@ _Generated on 2025-12-07 22:26:05 UTC_
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
-    - [`🌍_muslim_identity_racialisation_parallels_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🌍_muslim_identity_racialisation_parallels_antisemitism.md)
     - [`🌐_post_digital_data_drift_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🌐_post_digital_data_drift_mechanisms.md)
     - [`🌐_prevent_as_democracy_suppression_engine.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_as_democracy_suppression_engine.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
