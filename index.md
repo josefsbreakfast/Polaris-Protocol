@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:33:04 UTC_
+_Generated on 2025-12-07 23:34:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -888,7 +888,6 @@ _Generated on 2025-12-07 23:33:04 UTC_
         - [`🫥_over_safety_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🫥_over_safety_as_containment.md)
       - [**🧬_Algorithmic_Endocrinology/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧬_Algorithmic_Endocrinology/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧬_Algorithmic_Endocrinology/README.md)
-        - [`🍪_operant_conditioning_the_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧬_Algorithmic_Endocrinology/🍪_operant_conditioning_the_algorithm.md)
       - [**🧿_Watch_The_Watchers/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)
         - [`handover_theatre.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/handover_theatre.png)
@@ -1094,6 +1093,7 @@ _Generated on 2025-12-07 23:33:04 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/README.md)
         - [`🌿_algorithmic_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_algorithmic_ecology.md)
         - [`🌿_ecological_ethics_of_algorithmic_design.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_ecological_ethics_of_algorithmic_design.md)
+        - [`🍪_operant_conditioning_the_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🍪_operant_conditioning_the_algorithm.md)
         - [`🍬_algorithmic_endocrine_axis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🍬_algorithmic_endocrine_axis.md)
         - [`💣_the_precision_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/💣_the_precision_illusion.md)
         - [`📚_survey_of_current_literature.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/📚_survey_of_current_literature.md)
