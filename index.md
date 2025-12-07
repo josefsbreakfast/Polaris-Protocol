@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 04:05:19 UTC_
+_Generated on 2025-12-07 04:06:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -456,6 +456,7 @@ _Generated on 2025-12-07 04:05:19 UTC_
         - [`🐇_qanon_vocabulary_origins.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐇_qanon_vocabulary_origins.md)
         - [`🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md)
         - [`👹_coercive_engineers_intentional_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)
+        - [`👾_is_it_preventing_extremism_from_all_classes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👾_is_it_preventing_extremism_from_all_classes.md)
         - [`💄_plastic_masculinity_knives.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
         - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
         - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
@@ -2719,7 +2720,6 @@ _Generated on 2025-12-07 04:05:19 UTC_
     - [`👾_bad_algorithms_good_data.md`](Polaris_Nest/Git_Intake_Drawer/👾_bad_algorithms_good_data.md)
     - [`👾_british_policing_and_prevent_post_blm.md`](Polaris_Nest/Git_Intake_Drawer/👾_british_policing_and_prevent_post_blm.md)
     - [`👾_intent_free_authoritarianism.md`](Polaris_Nest/Git_Intake_Drawer/👾_intent_free_authoritarianism.md)
-    - [`👾_is_it_preventing_extremism_from_all_classes.md`](Polaris_Nest/Git_Intake_Drawer/👾_is_it_preventing_extremism_from_all_classes.md)
     - [`👾_post_carceral_era_counterextremism.md`](Polaris_Nest/Git_Intake_Drawer/👾_post_carceral_era_counterextremism.md)
     - [`👾_prevent_as_nationwide_formalised_buzzkill.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_nationwide_formalised_buzzkill.md)
     - [`👾_prevent_as_tool_of_coercive_control.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_tool_of_coercive_control.md)
