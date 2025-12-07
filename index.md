@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 23:45:50 UTC_
+_Generated on 2025-12-07 23:47:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2075,6 +2075,7 @@ _Generated on 2025-12-07 23:45:50 UTC_
       - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
       - [`⚙️_verification_and_watermarking_standards.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚙️_verification_and_watermarking_standards.md)
       - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚡_rapid_response_forensic_protocol_first_24_hours.md)
+      - [`🎙️_cloneproof_protocol.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎙️_cloneproof_protocol.md)
       - [`📱_app_security_basics_for_survivors.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📱_app_security_basics_for_survivors.md)
       - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
       - [`🪐_verifying_app_encryption_and_privacy_claims.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
@@ -2637,7 +2638,6 @@ _Generated on 2025-12-07 23:45:50 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎙️_cloneproof_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_cloneproof_protocol.md)
     - [`🎙️_unconsented_voice_beta.md`](Polaris_Nest/Git_Intake_Drawer/🎙️_unconsented_voice_beta.md)
     - [`🎤_get_back_in_the_camp_ensemble.md`](Polaris_Nest/Git_Intake_Drawer/🎤_get_back_in_the_camp_ensemble.md)
     - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Polaris_Nest/Git_Intake_Drawer/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
