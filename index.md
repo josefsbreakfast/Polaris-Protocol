@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-07 03:23:24 UTC_
+_Generated on 2025-12-07 03:25:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -194,6 +194,7 @@ _Generated on 2025-12-07 03:23:24 UTC_
         - [`⚖️_election_candidacy_query.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_election_candidacy_query.md)
         - [`⚖️_narrative_control_and_legal_responsibility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
+        - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌐_late_stage_autocracy_vibe_diagnostics.md)
         - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)
         - [`🎭_reputation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_reputation_as_governance.md)
         - [`🎴_tarot_of_prime_ministers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎴_tarot_of_prime_ministers.md)
@@ -2598,7 +2599,6 @@ _Generated on 2025-12-07 03:23:24 UTC_
     - [`🌍_apartheid_algorithm_dependency_theory.md`](Polaris_Nest/Git_Intake_Drawer/🌍_apartheid_algorithm_dependency_theory.md)
     - [`🌍_israel_five_eyes_structural_interdependency.md`](Polaris_Nest/Git_Intake_Drawer/🌍_israel_five_eyes_structural_interdependency.md)
     - [`🌍_muslim_identity_racialisation_parallels_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🌍_muslim_identity_racialisation_parallels_antisemitism.md)
-    - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/🌐_late_stage_autocracy_vibe_diagnostics.md)
     - [`🌐_post_digital_data_drift_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🌐_post_digital_data_drift_mechanisms.md)
     - [`🌐_prevent_as_democracy_suppression_engine.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_as_democracy_suppression_engine.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
