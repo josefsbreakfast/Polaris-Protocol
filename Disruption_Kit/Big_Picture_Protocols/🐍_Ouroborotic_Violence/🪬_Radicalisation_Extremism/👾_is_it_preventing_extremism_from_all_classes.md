@@ -1,5 +1,5 @@
 # 👾 Is PREVENT Preventing Extremism Across All Classes?  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-07  
 *Why PREVENT disproportionately targets working-class, racialised, neurodivergent, and marginalised people — while consistently under-classifying extremist behaviour among the socioeconomically powerful.*  
 
 ---
@@ -235,4 +235,4 @@ It examines the class asymmetry embedded in PREVENT and maps what true class-neu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-07_
