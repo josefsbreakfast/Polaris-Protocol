@@ -1,7 +1,6 @@
 # 🎲 The Campaign Is Collapsing, We Need to Rewrite the Lore  
-**Folder:** 👾 Debugging The Men → 🧬 Further Potential Male Nonsense  
-**Created:** 2025-11-16 | **Updated:** 2025-11-22  
-*A narrative-discipline intervention for extremely wealthy nerds who have confused their personal D&D campaign with the metaphysics of the entire species, and are now destabilising public trust, democratic institutions, and the nerd ecosystem by roleplaying on main.*
+**First created:** 2025-11-16 | **Updated:** 2025-12-07  
+*A narrative-discipline intervention for extremely wealthy nerds who have confused their personal D&D campaign with the metaphysics of the entire species, and are now destabilising public trust, democratic institutions, and the nerd ecosystem by roleplaying on main.*  
 
 ---
 
@@ -228,4 +227,4 @@ Pairs with:
 
 *If the wizards cannot follow the lore, the party must take the pen back.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
