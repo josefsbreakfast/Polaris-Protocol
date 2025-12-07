@@ -1,6 +1,6 @@
-# 🎞️ Authoritarian Aesthetics Collapse Curve
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
-*How autocratic states predictably lose their charisma, spectacle, and cultural coherence over time.*
+# 🎞️ Authoritarian Aesthetics Collapse Curve  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
+*How autocratic states predictably lose their charisma, spectacle, and cultural coherence over time.*  
 
 ---
 
@@ -49,4 +49,4 @@ aesthetic collapse, autocracy, cultural decline, vibes, spectacle, bunker logic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
