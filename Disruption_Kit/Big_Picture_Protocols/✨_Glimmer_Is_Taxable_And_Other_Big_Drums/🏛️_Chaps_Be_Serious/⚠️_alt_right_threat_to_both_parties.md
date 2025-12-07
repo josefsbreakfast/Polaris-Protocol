@@ -1,5 +1,5 @@
 # ⚠️ Alt‑Right Threat to Both Parties  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
 *How the alt‑right simultaneously corrodes Labour and the Conservatives by collapsing democratic operating conditions.*
 
 ---
@@ -100,4 +100,4 @@ alt‑right, threat model, labour, conservatives, reform uk, governance collapse
 *⚠️ Alt‑Right Threat to Both Parties* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
