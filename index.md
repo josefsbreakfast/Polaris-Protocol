@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 11:01:55 UTC_
+_Generated on 2025-12-08 11:03:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -910,6 +910,7 @@ _Generated on 2025-12-08 11:01:55 UTC_
         - [`🌀_answering_uncertainty_in_ai_environments.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🌀_answering_uncertainty_in_ai_environments.md)
         - [`🎙️_unconsented_voice_beta.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎙️_unconsented_voice_beta.md)
         - [`🎥_anomaly_incentives_in_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md)
+        - [`🎭_pr_simulation_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎭_pr_simulation_breakdown.md)
         - [`🎶_chant_restrictions_as_metadata_control.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎶_chant_restrictions_as_metadata_control.md)
         - [`💄_surveillance_or_pervert_with_a_badge.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)
         - [`📲_dopamine_grooming_and_self_regulation.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/📲_dopamine_grooming_and_self_regulation.md)
@@ -2661,7 +2662,6 @@ _Generated on 2025-12-08 11:01:55 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎭_pr_simulation_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_simulation_breakdown.md)
     - [`🎭_symbolic_violence_in_gendered_racialised_frames.md`](Polaris_Nest/Git_Intake_Drawer/🎭_symbolic_violence_in_gendered_racialised_frames.md)
     - [`🎭_the_punitive_logic_of_entitlement_wounds.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_punitive_logic_of_entitlement_wounds.md)
     - [`🎭_whiteness_baseline_problem.md`](Polaris_Nest/Git_Intake_Drawer/🎭_whiteness_baseline_problem.md)
