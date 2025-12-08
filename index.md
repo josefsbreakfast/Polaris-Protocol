@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 10:40:37 UTC_
+_Generated on 2025-12-08 10:41:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -841,7 +841,7 @@ _Generated on 2025-12-08 10:40:37 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md)
         - [`⚔️_war_on_woke_as_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
         - [`✨_jyn_erso_and_the_coerced_survivalist_arc.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/✨_jyn_erso_and_the_coerced_survivalist_arc.md)
-        - [`🎭_vibe_misalignment_and_political_redundancy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎭_vibe_misalignment_and_political_redundancy.md)
+        - [`🎤_get_back_in_the_camp_ensemble.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎤_get_back_in_the_camp_ensemble.md)
         - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
         - [`💋_apparatus_as_apprentice.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💋_apparatus_as_apprentice.md)
         - [`💰_votership_and_viewership.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💰_votership_and_viewership.md)
