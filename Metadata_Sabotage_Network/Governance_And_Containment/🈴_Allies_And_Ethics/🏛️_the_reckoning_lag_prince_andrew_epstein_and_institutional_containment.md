@@ -1,5 +1,5 @@
 # 🏛️ The Reckoning Lag — Prince Andrew, Epstein, and Institutional Containment  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-08  
 *Public testimony always arrives years after everyone already knew.*
 
 ---
@@ -43,10 +43,7 @@ The question isn’t *why now?* — it’s *what machinery kept it impossible un
 ---
 
 ## 🌌 Constellations  
-Linked nodes:  
-- [🧠 Extraction Loop — Data vs Story](../Extraction_Reclamation/🧠_extraction_loop_data_vs_story.md)  
-- [🧩 Counter-Extraction Loop — Reclaiming Authorship](../Extraction_Reclamation/🧩_counter_extraction_loop_reclaiming_authorship.md)  
-- [🕳️ Never Really Leaving — Child Abuse, Britain, and the Non-Escape](../Witness/🕳️_never_really_leaving_child_abuse_britain_non_escape.md)  
+
 
 ---
 
@@ -56,9 +53,14 @@ institutional denial, reckoning lag, public accountability, monarchy, epstein ca
 ---
 
 ## 🏮 Footer  
-*The Reckoning Lag* is a current-events node of the Polaris Protocol.  
-It tracks how public institutions choreograph the pace of admission, converting exposure into theatre instead of repair.
+*🏛️ The Reckoning Lag* is a current-events node of the Polaris Protocol.  
+It tracks how public institutions choreograph the pace of admission, converting exposure into theatre instead of repair.  
+
+Linked nodes:  
+- [🧠 Extraction Loop — Data vs Story]  
+- [🧩 Counter-Extraction Loop — Reclaiming Authorship]  
+- [🕳️ Never Really Leaving — Child Abuse, Britain, and the Non-Escape]  
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
