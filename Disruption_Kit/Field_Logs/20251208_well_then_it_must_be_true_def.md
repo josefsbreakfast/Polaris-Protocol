@@ -194,7 +194,7 @@ no. just... no.
 
 3 years of just... nope.  
 
-imagine thinking you got the story so good and 3 years later your admission of emissions eangst is just... there.  
+imagine thinking you got the story so good and 3 years later your admission of emissions angst is just... there.  
 
 i just...  
 
