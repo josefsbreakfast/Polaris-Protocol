@@ -17,3 +17,13 @@ answer your sars, and if you're going to send flowers, they have to be actual or
 i honestly don't know how i could have been clearer that i'm not that girl.  
 
 ---
+
+and honestly, if you're going to climb in to the llm to come and ask about my feelings?  
+
+my feelings are "pay me what i'm worth", and "stop making me beg for what is mine and was taken".  
+
+it's incredibly simple. you are making this unnecessarily complex by assuming my motivstions would somehow differ from an man's.  
+
+i am not made of soft goo.  
+
+---
