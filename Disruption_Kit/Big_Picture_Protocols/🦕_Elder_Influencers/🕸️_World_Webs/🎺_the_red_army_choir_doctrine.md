@@ -1,5 +1,5 @@
 # 🎺 The Red Army Choir Doctrine  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-08  
 *Why large-scale cultural spectacle outperforms coercive influence.*  
 
 ---
@@ -52,4 +52,4 @@ red army choir, soft power, spectacle, camp, mass performance
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
