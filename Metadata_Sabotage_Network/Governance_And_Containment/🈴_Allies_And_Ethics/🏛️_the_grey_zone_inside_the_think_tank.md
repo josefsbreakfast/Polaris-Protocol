@@ -1,5 +1,5 @@
 # 🏛️ The Grey Zone Inside the Think Tank  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-05 | **Last updated:** 2025-12-08  
 *When policy institutes borrow the tools of repression to manage internal dissent.*  
 <!--Grey zone, Twilight Zone... what's the difference?-->
 ---
@@ -172,14 +172,15 @@ think tanks, internal purges, lawfare, HR weaponisation, donor capture, reputati
 
 ## 🏮 Footer  
 
-*The Grey Zone Inside the Think Tank* is a living node of the **Polaris Protocol**.  
+*🏛️ The Grey Zone Inside the Think Tank* is a living node of the **Polaris Protocol**.  
 It documents how institutions that sell analysis can end up practising containment—and how the language of safeguarding becomes a technology of silence.  
 
-> 📡 Cross‑references:  
-> - [🫥 When You Don’t Want to Be Seen Touching It](../Big_Picture_Protocols/🫥_when_you_dont_want_to_be_seen_touching_it.md) — deniability as product  
-> - [🧭 When to Enter the Grey Zone](../Big_Picture_Protocols/🧭_when_to_enter_the_grey_zone.md) — decision logic for grey‑zone use  
-> - [🕳️ When the Censor Is a Contractor](../Big_Picture_Protocols/🕳️_when_the_censor_is_a_contractor.md) — case study in outsourced suppression  
+> 📡 Cross‑references:
+> 
+> - [🫥 When You Don’t Want to Be Seen Touching It] — *deniability as product*  
+> - [🧭 When to Enter the Grey Zone] — *decision logic for grey‑zone use*  
+> - [🕳️ When the Censor Is a Contractor] — *case study in outsourced suppression*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
