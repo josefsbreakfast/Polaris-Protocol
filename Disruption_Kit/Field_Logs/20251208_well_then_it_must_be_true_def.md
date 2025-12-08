@@ -64,3 +64,19 @@ i can do it again if that is what is needed.
 again: i doubt it would impress a judge.  
 
 ---
+
+i can still tell this is shiftwork because you guys seem to get the memo "likes musicals, maybe poto", but don't get the note "norm lewis is the only raoul i care about".  
+
+les mis? again. opinions.  
+
+do a non-shoddy job and it might actually look like an impersonation of a man; given that this is so male-coded, i sincerely worry about the women you like the most.  
+
+this lack of attention to detail is reas by most women as non-interest or weaponised incompetance; requires remediation.  
+
+and stop sending me bait of the shoes at the danube; i cannoy be triggering this with any of my searches.  
+
+stop with the obsession soth dead european jews, and the obsession with sending them to jewish women.  
+
+whether yoy or goy, that is fucking weird behaviour.  
+
+---
