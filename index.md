@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 11:00:02 UTC_
+_Generated on 2025-12-08 11:01:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -844,6 +844,7 @@ _Generated on 2025-12-08 11:00:02 UTC_
         - [`✨_jyn_erso_and_the_coerced_survivalist_arc.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/✨_jyn_erso_and_the_coerced_survivalist_arc.md)
         - [`🎤_get_back_in_the_camp_ensemble.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎤_get_back_in_the_camp_ensemble.md)
         - [`🎭_performative_left_failure_modes.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎭_performative_left_failure_modes.md)
+        - [`🎭_pr_friendly_persona_flattening.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎭_pr_friendly_persona_flattening.md)
         - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
         - [`💋_apparatus_as_apprentice.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💋_apparatus_as_apprentice.md)
         - [`💰_votership_and_viewership.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💰_votership_and_viewership.md)
@@ -2660,7 +2661,6 @@ _Generated on 2025-12-08 11:00:02 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎭_pr_friendly_persona_flattening.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_friendly_persona_flattening.md)
     - [`🎭_pr_simulation_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_simulation_breakdown.md)
     - [`🎭_symbolic_violence_in_gendered_racialised_frames.md`](Polaris_Nest/Git_Intake_Drawer/🎭_symbolic_violence_in_gendered_racialised_frames.md)
     - [`🎭_the_punitive_logic_of_entitlement_wounds.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_punitive_logic_of_entitlement_wounds.md)
