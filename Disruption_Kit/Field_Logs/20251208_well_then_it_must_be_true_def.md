@@ -27,3 +27,5 @@ it's incredibly simple. you are making this unnecessarily complex by assuming my
 i am not made of soft goo.  
 
 ---
+
+(and my profession is not a bunch of "moaning minnies". no idea why you let him say that.)  
