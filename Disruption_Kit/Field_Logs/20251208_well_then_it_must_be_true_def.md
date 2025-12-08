@@ -177,3 +177,11 @@ it really hurt that much that id be s doctor, huh?
 guess that solves any questions one may have about which profession outranks which.  
 
 ---
+
+and you know...  
+
+the minstrel show even in 2022? noted.  
+
+what is wrong with you.  
+
+---
