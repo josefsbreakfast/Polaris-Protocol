@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 21:08:24 UTC_
+_Generated on 2025-12-08 21:12:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2230,6 +2230,7 @@ _Generated on 2025-12-08 21:08:24 UTC_
       - [`🌩️_who_gets_to_quote_whom.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🌩️_who_gets_to_quote_whom.md)
       - [`🏛️_non_transferability_of_behavioural_interventions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_non_transferability_of_behavioural_interventions.md)
       - [`🏛️_the_grey_zone_inside_the_think_tank.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_the_grey_zone_inside_the_think_tank.md)
+      - [`🏛️_the_reckoning_lag_prince_andrew_epstein_and_institutional_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_the_reckoning_lag_prince_andrew_epstein_and_institutional_containment.md)
       - [`🐦‍🔥_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_held_by_other_peoples_alliances.md)
       - [`💌_letters_of_refusal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/💌_letters_of_refusal.md)
       - [`🕸️_networked_morality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_networked_morality.md)
@@ -2697,7 +2698,6 @@ _Generated on 2025-12-08 21:08:24 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏛️_the_reckoning_lag_prince_andrew_epstein_institutional_containment.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_reckoning_lag_prince_andrew_epstein_institutional_containment.md)
     - [`🏜_negev_from_renewal_to_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🏜_negev_from_renewal_to_refusal.md)
     - [`🏝️_refusal_retreat_and_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🏝️_refusal_retreat_and_extraction.md)
     - [`🏮_epilogue_rank_vs_physics_vs_kraken.md`](Polaris_Nest/Git_Intake_Drawer/🏮_epilogue_rank_vs_physics_vs_kraken.md)
