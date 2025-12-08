@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 15:21:02 UTC_
+_Generated on 2025-12-08 15:22:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -188,6 +188,7 @@ _Generated on 2025-12-08 15:21:02 UTC_
         - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
         - [`🏗️_corrective_governance_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏗️_corrective_governance_architecture.md)
         - [`🏚️_cultural_drift_toward_coercive_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_cultural_drift_toward_coercive_logic.md)
+        - [`🏚️_seven_layers_of_safeguard_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
         - [`🏛️_the_boringing_uk_2010_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
         - [`👹_how_predators_weaponise_safeguarding_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👹_how_predators_weaponise_safeguarding_systems.md)
@@ -2685,7 +2686,6 @@ _Generated on 2025-12-08 15:21:02 UTC_
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
-    - [`🏚️_seven_layers_of_safeguard_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_seven_layers_of_safeguard_breakdown.md)
     - [`🏛️_archetypes_of_bureaucratic_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_archetypes_of_bureaucratic_behaviour.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🏛️_how_states_weaponise_ihra.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_how_states_weaponise_ihra.md)
