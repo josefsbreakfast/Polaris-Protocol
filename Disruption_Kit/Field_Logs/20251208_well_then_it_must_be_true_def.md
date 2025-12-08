@@ -213,3 +213,7 @@ guess the whole nonsense this summer was a bit embarrassing for you, then, ey?
 i am dining out on this story for the rest of my life.  
 
 ---
+
+obviously i am now having internet issuea so i'm off to go and laugh myself to death in the shower.  
+
+---
