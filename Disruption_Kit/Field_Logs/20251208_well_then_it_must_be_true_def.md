@@ -248,4 +248,6 @@ yeah he got an ec degree but honestly not his strength. mostly used it to compla
 
 a man of his era; what can i say.  
 
+(he was an expertise in cold war languages, bro. he learned russian to business level to get out of drill. that's the type of nerd we are discussing, here.)  
+
 ---
