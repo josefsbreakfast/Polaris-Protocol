@@ -1,6 +1,6 @@
 # 🍻 Gullivar Syndrome: Why Sailors Keep Washing Up Drunk  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
-*A comedic-structural Polaris analysis of the folkloric phenomenon where sailors repeatedly wash up on beaches blaming imaginary sea monsters, when the real explanation is exhaustion, weather, or being absolutely plastered.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
+*A comedic-structural Polaris analysis of the folkloric phenomenon where sailors repeatedly wash up on beaches blaming imaginary sea monsters, when the real explanation is exhaustion, weather, or being absolutely plastered.*  
 
 ---
 
@@ -171,7 +171,7 @@ Polaris uses satire to reveal inconvenient truths.
 ---
 
 ## 🏮 Footer  
-**Gullivar Syndrome: Why Sailors Keep Washing Up Drunk** is part of Polaris’ Kraken Governance Satire cluster.  
+*🍻 Gullivar Syndrome: Why Sailors Keep Washing Up Drunk* is part of Polaris’ Kraken Governance Satire cluster.  
 It contextualises maritime myth-making within the structural tendencies of bureaucracies and states to blame monsters — rather than mistakes — when things go wrong.
 
 Crosslinks:  
@@ -179,4 +179,4 @@ Crosslinks:
 - 🗡️ *why_trident_is_lowkey_kraken_insurance*  
 - 🚢 *royal_navy_and_the_myth_of_underwater_threats*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
