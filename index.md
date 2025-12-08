@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 15:41:18 UTC_
+_Generated on 2025-12-08 15:42:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -189,6 +189,7 @@ _Generated on 2025-12-08 15:41:18 UTC_
         - [`🏗️_corrective_governance_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏗️_corrective_governance_architecture.md)
         - [`🏚️_cultural_drift_toward_coercive_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_cultural_drift_toward_coercive_logic.md)
         - [`🏚️_seven_layers_of_safeguard_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
+        - [`🏛️_institutional_posture_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_institutional_posture_collapse.md)
         - [`🏛️_the_boringing_uk_2010_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
         - [`👹_how_predators_weaponise_safeguarding_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👹_how_predators_weaponise_safeguarding_systems.md)
@@ -2689,7 +2690,6 @@ _Generated on 2025-12-08 15:41:18 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏛️_institutional_posture_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_institutional_posture_collapse.md)
     - [`🏛️_non_transferability_of_behavioral_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_non_transferability_of_behavioral_interventions.md)
     - [`🏛️_olympus_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_olympus_syndrome.md)
     - [`🏛️_respectability_laundering.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_respectability_laundering.md)
