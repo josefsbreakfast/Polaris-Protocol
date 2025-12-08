@@ -1,6 +1,6 @@
 # 🏛️ Institutional Posture Collapse  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-23  
-*How institutions shift from confident authority to brittle defensiveness, incoherent self-belief, and erratic overcorrection once modelling, governance, and metadata layers collapse.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
+*How institutions shift from confident authority to brittle defensiveness, incoherent self-belief, and erratic overcorrection once modelling, governance, and metadata layers collapse.*  
 
 ---
 
