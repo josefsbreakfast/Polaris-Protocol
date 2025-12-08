@@ -1,5 +1,5 @@
 # 🪼 Modern Extremism Recruits Through Vibes  
-**First created:** 2025-02-14 | **Last updated:** 2025-02-14  
+**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
 *A structural map of how contemporary far-right and manosphere ecosystems recruit not through argument, doctrine, or theory, but through affective drift, parasocial bonding, and low-effort emotional resonance.*
 
 ---
@@ -132,9 +132,8 @@ manosphere, parasociality, far-right drift, christian supremacy, grievance reson
 
 ## 🏮 Footer  
 
-**Polaris Protocol — Extremism & Containment**  
-House Style v1.7  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-02-14_  
+_Last updated: 2025-12-08_  
