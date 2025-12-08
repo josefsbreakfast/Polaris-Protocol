@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 12:25:58 UTC_
+_Generated on 2025-12-08 12:26:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3041,6 +3041,7 @@ _Generated on 2025-12-08 12:25:58 UTC_
     - [`🜁_shared_air.md`](Polaris_Nest/Git_Intake_Drawer/🜁_shared_air.md)
     - [`🤖_mr_meeseeks_and_shutdown_resistance_problem.md`](Polaris_Nest/Git_Intake_Drawer/🤖_mr_meeseeks_and_shutdown_resistance_problem.md)
     - [`🤝_polite_containment_how_civility_becomes_a_control_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🤝_polite_containment_how_civility_becomes_a_control_mechanism.md)
+    - [`🤡_kompromat_own_goals.md`](Polaris_Nest/Git_Intake_Drawer/🤡_kompromat_own_goals.md)
     - [`🤦‍♀️_operation_shande.md`](Polaris_Nest/Git_Intake_Drawer/🤦‍♀️_operation_shande.md)
     - [`🤫_collective_risk_silence_loop.md`](Polaris_Nest/Git_Intake_Drawer/🤫_collective_risk_silence_loop.md)
     - [`🥀_the_politics_of_male_loneliness.md`](Polaris_Nest/Git_Intake_Drawer/🥀_the_politics_of_male_loneliness.md)
