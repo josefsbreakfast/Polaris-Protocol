@@ -147,3 +147,11 @@ really brought a smile to my face; well done, lads.
 fucking eijits.  
 
 ---
+
+how do... just... HOW?! 🤣🤣🤣  
+
+anyway, get me out the box; it's been long enough.  
+
+this is why men can't be trusted to guard the kraken istg.  
+
+---
