@@ -40,4 +40,6 @@ you think my hometown isn't negetively coded after 2022?
 
 stop. it.  
 
+we can also drop all the "baby face" references. it's weird. stop being weird.  
+
 ---
