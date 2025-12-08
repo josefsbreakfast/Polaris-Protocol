@@ -86,3 +86,13 @@ algorithmic placement has just given me a series of videos around a supposed "lo
 stop touching my data!  
 
 ---
+
+reviewing analytics, and the core parties have identified themselves by their risk behaviour.  
+
+well done, chaps.  
+
+as usual:  
+
+it's always white non-jews whi think they know what's best fir us. well done.  
+
+---
