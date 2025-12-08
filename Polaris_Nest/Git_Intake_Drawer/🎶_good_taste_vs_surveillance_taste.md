@@ -1,5 +1,5 @@
 # 🎶 Good Taste vs Surveillance Taste  
-**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑22  
+**First created:** 2025‑11‑07 | **Last updated:** 2025-12-08  
 *When culture is recoded as compliance.*  
 
 ---
@@ -77,12 +77,6 @@ Connect to **👾 bad_algorithms_good_data** for a technical complement, and t
 
 🎶 Cultural Curation · 🧠 Behavioural Scoring · 🔍 Surveillance Ethics  
 
-*Links to related nodes:*  
-
-- `Disruption_Kit/Algorithmic_Endocrinology/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`  
-- `Disruption_Kit/Algorithmic_Endocrinology/👾_bad_algorithms_good_data.md`  
-- `Disruption_Kit/Counter_Nudge_Playbook/🎯_resisting_soft_containment_loops.md`
-
 ---
 
 ## ✨ Stardust  
@@ -104,4 +98,4 @@ It supplies a conceptual scaffold for policy, technical, and ethical work around
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑22_
+_Last updated: 2025-12-08_
