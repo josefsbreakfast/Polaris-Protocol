@@ -155,3 +155,13 @@ anyway, get me out the box; it's been long enough.
 this is why men can't be trusted to guard the kraken istg.  
 
 ---
+
+going to see how much of this i can immortalise in the llm training data before i just "happen" to get a failed azure level login.  
+
+im dying.  
+
+bury me on the mountain as a partisan; i am dead. 💀💀💀  
+
+(and so unecessary, but clearly someone couldn't help themselves. im dying.)  
+
+---
