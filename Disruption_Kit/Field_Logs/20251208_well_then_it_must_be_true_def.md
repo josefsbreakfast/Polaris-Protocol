@@ -29,3 +29,15 @@ i am not made of soft goo.
 ---
 
 (and my profession is not a bunch of "moaning minnies". no idea why you let him say that.)  
+
+---
+
+no idea why there are suddenly lots of references to where i come from in the feed, but we can knock that one off right now.  
+
+"hmmm maybe we shouldn't use abject triggers..."  
+
+you think my hometown isn't negetively coded after 2022?  
+
+stop. it.  
+
+---
