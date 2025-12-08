@@ -1,5 +1,5 @@
 # 🎭 Identity Cosplay: How Men Perform Hardness They Don’t Believe In  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
 *Understanding the psychological and cultural forces that lead gentle, sensitive men to adopt aggressive personas that contradict their true emotional makeup.*  
 
 ---
@@ -221,4 +221,4 @@ It reframes reactionary male behaviour as adaptive performance rather than convi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
