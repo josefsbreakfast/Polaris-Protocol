@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 10:44:53 UTC_
+_Generated on 2025-12-08 10:47:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2474,6 +2474,7 @@ _Generated on 2025-12-08 10:44:53 UTC_
       - [`🌋_contesting_signature_inclusion.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌋_contesting_signature_inclusion.md)
       - [`🌐_global_migration_of_signatures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌐_global_migration_of_signatures.md)
       - [`🍉_civic_participation_and_ai_risk_classification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🍉_civic_participation_and_ai_risk_classification.md)
+      - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
       - [`💫_indie_verification_of_targeting_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💫_indie_verification_of_targeting_logic.md)
       - [`📊_risk_scoring_architectures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md)
       - [`📡_metadata_scrutiny_uk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📡_metadata_scrutiny_uk.md)
@@ -2656,7 +2657,6 @@ _Generated on 2025-12-08 10:44:53 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Polaris_Nest/Git_Intake_Drawer/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
     - [`🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md`](Polaris_Nest/Git_Intake_Drawer/🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md)
     - [`🎭_natcon_2023_25_hinge_point.md`](Polaris_Nest/Git_Intake_Drawer/🎭_natcon_2023_25_hinge_point.md)
     - [`🎭_performative_left_failure_modes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_performative_left_failure_modes.md)
