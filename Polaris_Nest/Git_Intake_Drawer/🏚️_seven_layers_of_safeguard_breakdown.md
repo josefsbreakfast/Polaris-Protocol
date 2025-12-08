@@ -1,6 +1,6 @@
 # 🏚️ Seven Layers of Safeguard Breakdown  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
-*A structural diagnostic map of the sequential failures required for unethical, coercive, or harmful data and behavioural practices to become possible inside an institution.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-08  
+*A structural diagnostic map of the sequential failures required for unethical, coercive, or harmful data and behavioural practices to become possible inside an institution.*  
 
 ---
 
@@ -219,4 +219,6 @@ This node is a direct companion to:
 - **Narrative Collapse in PR Systems**.
 
 It forms the core diagnostic architecture for *why bad ideas happen*  
-and how institutions lose moral gravity long before they lose legitimacy.
+and how institutions lose moral gravity long before they lose legitimacy.  
+
+_Last updated: 2025-12-08_
