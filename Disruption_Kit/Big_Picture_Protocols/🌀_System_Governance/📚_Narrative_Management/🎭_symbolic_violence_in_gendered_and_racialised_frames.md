@@ -1,5 +1,5 @@
 # 🎭 Symbolic Violence in Gendered & Racialised Frames
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-08  
 *How symbolic acts reproduce hierarchy through gendered and racialised narratives, institutions, and interpersonal behaviour.*  
 
 ---
@@ -192,4 +192,4 @@ It explains how meaning, interpretation, and classification become instruments o
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
