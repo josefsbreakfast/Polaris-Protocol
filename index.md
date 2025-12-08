@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 13:52:47 UTC_
+_Generated on 2025-12-08 13:56:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2273,6 +2273,7 @@ _Generated on 2025-12-08 13:52:47 UTC_
       - [`🎭_containment_as_equilibrium_theatre.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_containment_as_equilibrium_theatre.md)
       - [`🎭_the_whiteness_baseline_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_the_whiteness_baseline_problem.md)
       - [`🎶_korobeiniki_misread_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_korobeiniki_misread_as_signal.md)
+      - [`🎶_prevent_eats_teenagers_music.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_prevent_eats_teenagers_music.md)
       - [`💼_industry_capture_identity_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)
       - [`📊_id_claims_vs_realities.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📊_id_claims_vs_realities.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
@@ -2669,7 +2670,6 @@ _Generated on 2025-12-08 13:52:47 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎶_prevent_eats_teenagers_music.md`](Polaris_Nest/Git_Intake_Drawer/🎶_prevent_eats_teenagers_music.md)
     - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Polaris_Nest/Git_Intake_Drawer/🎶_reversal_distortion_if_i_cant_have_you.md)
     - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](Polaris_Nest/Git_Intake_Drawer/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
     - [`🎶_theology_of_the_mix.md`](Polaris_Nest/Git_Intake_Drawer/🎶_theology_of_the_mix.md)
