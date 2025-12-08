@@ -1,5 +1,5 @@
 # 🎧 Music as Pipeline — Risk Axis vs Treatment Axis  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-07 | **Last updated:** 2025-12-08  
 *On how playlists become both evidence and intervention in radicalisation ecosystems.*
 
 ---
@@ -174,4 +174,4 @@ For Polaris and allied projects, some guiding questions:
 
 Those stories are not just quirks of taste; they are **early-warning signals of playlist-as-policy**.  
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-08_
