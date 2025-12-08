@@ -1,5 +1,5 @@
-# ⚖️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments  
-**First created:** 2025-10-23  |  **Last updated:** 2025-11-23  
+# 🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments  
+**First created:** 2025-10-23  |  **Last updated:** 2025-12-08  
 *How moral authority and charisma became racialised archetypes.*
 
 ---
@@ -62,13 +62,13 @@ Intellectual and sexual paranoia recur as algorithmic profiling and media moral 
 ---
 
 ## 🏮 Footer  
-*⚖️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments* is a living node of the **Polaris Protocol**.  
+*🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments* is a living node of the **Polaris Protocol**.  
 It reframes a century of racialised comparison as a study in archetypal style, showing how old binaries of reason and mysticism still inform modern profiling.
 
 > 📡 Cross-references:  
-> - [🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence](../🜁_shared_air_intellectual_proximity.md)  
-> - [🪞 Algorithmic Reframing — When Analysis Becomes Evasion](../🪞_algorithmic_reframing_when_analysis_becomes_evasion.md)
+> - [🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence]  
+> - [🪞 Algorithmic Reframing — When Analysis Becomes Evasion]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
