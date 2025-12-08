@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 14:41:10 UTC_
+_Generated on 2025-12-08 14:43:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -186,6 +186,7 @@ _Generated on 2025-12-08 14:41:10 UTC_
         - [`🌍_israel_five_eyes_structural_interdependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md)
         - [`🎩_organisational_civility_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
         - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
+        - [`🏗️_corrective_governance_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏗️_corrective_governance_architecture.md)
         - [`🏛️_the_boringing_uk_2010_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
         - [`👹_how_predators_weaponise_safeguarding_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👹_how_predators_weaponise_safeguarding_systems.md)
@@ -2677,7 +2678,6 @@ _Generated on 2025-12-08 14:41:10 UTC_
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
-    - [`🏗️_corrective_governance_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🏗️_corrective_governance_architecture.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
     - [`🏚️_authoritarian_drift_in_behavioural_research.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_authoritarian_drift_in_behavioural_research.md)
     - [`🏚️_cultural_drift_toward_coercive_logic.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_cultural_drift_toward_coercive_logic.md)
