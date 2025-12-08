@@ -1,13 +1,13 @@
 # 🏛️ Respectability Laundering  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
-*How extremist ideology borrows the clothing, tone, and spaces of Westminster to disguise and legitimise itself.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-08  
+*How extremist ideology borrows the clothing, tone, and spaces of Westminster to disguise and legitimise itself.*  
 
 ---
 
 ## 🛰️ Orientation  
-Respectability laundering is **legitimacy theft**: extremist content sheltered by elite aesthetics.
+Respectability laundering is **legitimacy theft**: extremist content sheltered by elite aesthetics.  
 
-It hides inside:
+It hides inside:  
 
 - university halls  
 - think‑tanks  
@@ -61,3 +61,5 @@ respectability laundering, westminster aesthetics, extremist disguise, instituti
 ## 🏮 Footer  
 *🏛️ Respectability Laundering* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-08_
