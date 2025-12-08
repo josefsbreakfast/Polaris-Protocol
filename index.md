@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 21:19:22 UTC_
+_Generated on 2025-12-08 21:23:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -41,6 +41,7 @@ _Generated on 2025-12-08 21:19:22 UTC_
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
         - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
+        - [`🏮_epilogue_rank_vs_physics_vs_kraken.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🏮_epilogue_rank_vs_physics_vs_kraken.md)
         - [`🛩️_the_april_fools_department_of_defence.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🛩️_the_april_fools_department_of_defence.md)
         - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🪖_applied_demolition_science_and_the_gcse_problem.md)
       - [**🦤_Potential_Dodos/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/)
@@ -2700,7 +2701,6 @@ _Generated on 2025-12-08 21:19:22 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏮_epilogue_rank_vs_physics_vs_kraken.md`](Polaris_Nest/Git_Intake_Drawer/🏮_epilogue_rank_vs_physics_vs_kraken.md)
     - [`🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md`](Polaris_Nest/Git_Intake_Drawer/🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md)
     - [`🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md`](Polaris_Nest/Git_Intake_Drawer/🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md)
     - [`🐈_kylo_ren_as_algorithmically_misclassified_softboy.md`](Polaris_Nest/Git_Intake_Drawer/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)
