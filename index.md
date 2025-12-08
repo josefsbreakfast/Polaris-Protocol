@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 15:26:25 UTC_
+_Generated on 2025-12-08 15:31:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2312,6 +2312,8 @@ _Generated on 2025-12-08 15:26:25 UTC_
       - [`🧾_threshold_disclosure_protocols_forensic_transparency_tools.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧾_threshold_disclosure_protocols_forensic_transparency_tools.md)
       - [`🪜_escalation_ladders_the_path_from_help_to_harm.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🪜_escalation_ladders_the_path_from_help_to_harm.md)
       - [`🪫_false_positive_fatigue_when_systems_overtrigger.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🪫_false_positive_fatigue_when_systems_overtrigger.md)
+    - [**📚_Legal_State_Governance/**](Metadata_Sabotage_Network/Governance_And_Containment/📚_Legal_State_Governance/)
+      - [`🏛️_how_states_weaponise_ihra.md`](Metadata_Sabotage_Network/Governance_And_Containment/📚_Legal_State_Governance/🏛️_how_states_weaponise_ihra.md)
     - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/README.md)
   - [**Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
@@ -2688,7 +2690,6 @@ _Generated on 2025-12-08 15:26:25 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏛️_how_states_weaponise_ihra.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_how_states_weaponise_ihra.md)
     - [`🏛️_institutional_posture_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_institutional_posture_collapse.md)
     - [`🏛️_non_transferability_of_behavioral_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_non_transferability_of_behavioral_interventions.md)
     - [`🏛️_olympus_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_olympus_syndrome.md)
