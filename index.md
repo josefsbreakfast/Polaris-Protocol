@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 13:56:12 UTC_
+_Generated on 2025-12-08 13:59:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2416,6 +2416,7 @@ _Generated on 2025-12-08 13:56:12 UTC_
       - [`🪞_strong_women_apparently.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_strong_women_apparently.md)
       - [`🪶_narrative_saturation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪶_narrative_saturation.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
+    - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🎶_reversal_distortion_if_i_cant_have_you.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
@@ -2670,7 +2671,6 @@ _Generated on 2025-12-08 13:56:12 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Polaris_Nest/Git_Intake_Drawer/🎶_reversal_distortion_if_i_cant_have_you.md)
     - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](Polaris_Nest/Git_Intake_Drawer/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
     - [`🎶_theology_of_the_mix.md`](Polaris_Nest/Git_Intake_Drawer/🎶_theology_of_the_mix.md)
     - [`🎺_rallying_call_and_loyal_hound.md`](Polaris_Nest/Git_Intake_Drawer/🎺_rallying_call_and_loyal_hound.md)
