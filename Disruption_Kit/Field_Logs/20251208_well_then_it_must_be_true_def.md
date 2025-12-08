@@ -138,3 +138,12 @@ very funny, because the data controller has been asked to look again.
 hue hue hue.  
 
 ---
+
+fucking up your own blackmail attempt by assuming your own penis is relevent to the data is, i must say, top tier from the spoofing lads, ngl.  
+i don't think i'll stop laughing about this all week.  
+
+really brought a smile to my face; well done, lads.  
+
+fucking eijits.  
+
+---
