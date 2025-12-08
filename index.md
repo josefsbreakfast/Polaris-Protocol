@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 14:43:15 UTC_
+_Generated on 2025-12-08 14:46:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -887,6 +887,7 @@ _Generated on 2025-12-08 14:43:15 UTC_
         - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
         - [`🎶_good_taste_vs_surveillance_taste.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎶_good_taste_vs_surveillance_taste.md)
         - [`🏗️_2010s_authoritarian_adjacent_build.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏗️_2010s_authoritarian_adjacent_build.md)
+        - [`🏚️_authoritarian_drift_in_behavioural_research.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏚️_authoritarian_drift_in_behavioural_research.md)
         - [`🏟️_hackathon_league.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏟️_hackathon_league.md)
         - [`💀_necro_jargon_cult.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💀_necro_jargon_cult.md)
         - [`💞_ethics_of_nudging_vs_desire.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)
@@ -2679,7 +2680,6 @@ _Generated on 2025-12-08 14:43:15 UTC_
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
-    - [`🏚️_authoritarian_drift_in_behavioural_research.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_authoritarian_drift_in_behavioural_research.md)
     - [`🏚️_cultural_drift_toward_coercive_logic.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_cultural_drift_toward_coercive_logic.md)
     - [`🏚️_economics_of_apartheid_and_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_economics_of_apartheid_and_fascism.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
