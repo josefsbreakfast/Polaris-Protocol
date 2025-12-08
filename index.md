@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 21:12:29 UTC_
+_Generated on 2025-12-08 21:16:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -679,6 +679,7 @@ _Generated on 2025-12-08 21:12:29 UTC_
         - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
         - [`🏚️_the_economics_of_apartheid_and_fascism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏚️_the_economics_of_apartheid_and_fascism.md)
         - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
+        - [`🏜️_negev_from_renewal_to_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏜️_negev_from_renewal_to_refusal.md)
         - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_and_strongman_panic.md)
         - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_timeline.csv)
         - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💸_russian_overlap_patterns.md)
@@ -2698,7 +2699,6 @@ _Generated on 2025-12-08 21:12:29 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏜_negev_from_renewal_to_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🏜_negev_from_renewal_to_refusal.md)
     - [`🏝️_refusal_retreat_and_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🏝️_refusal_retreat_and_extraction.md)
     - [`🏮_epilogue_rank_vs_physics_vs_kraken.md`](Polaris_Nest/Git_Intake_Drawer/🏮_epilogue_rank_vs_physics_vs_kraken.md)
     - [`🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md`](Polaris_Nest/Git_Intake_Drawer/🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md)
