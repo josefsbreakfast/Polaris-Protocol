@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 00:36:11 UTC_
+_Generated on 2025-12-08 01:44:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -409,6 +409,7 @@ _Generated on 2025-12-08 00:36:11 UTC_
         - [`🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md)
         - [`🪞_humiliation_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪞_humiliation_as_spectacle.md)
         - [`🪦_metadata_ghosts_and_hauntings.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪦_metadata_ghosts_and_hauntings.md)
+        - [`🪬_incidental_infrasound_as_canary.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_incidental_infrasound_as_canary.md)
         - [`🪮_on_hair_and_memory.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪮_on_hair_and_memory.md)
         - [`🪷_being_soft_does_take_pretty_big_balls_actually.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪷_being_soft_does_take_pretty_big_balls_actually.md)
         - [`🫀_holding_a_weapon_you_do_not_understand.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_do_not_understand.md)
