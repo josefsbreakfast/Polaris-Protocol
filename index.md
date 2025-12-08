@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 21:04:54 UTC_
+_Generated on 2025-12-08 21:08:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2294,6 +2294,7 @@ _Generated on 2025-12-08 21:04:54 UTC_
       - [`🎶_korobeiniki_misread_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_korobeiniki_misread_as_signal.md)
       - [`🎶_prevent_eats_teenagers_music.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_prevent_eats_teenagers_music.md)
       - [`🏛️_how_states_weaponise_ihra.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_how_states_weaponise_ihra.md)
+      - [`🏛️_who_regulates_nudging_the_governance_vacuum.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_who_regulates_nudging_the_governance_vacuum.md)
       - [`💼_industry_capture_identity_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)
       - [`📊_id_claims_vs_realities.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📊_id_claims_vs_realities.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
@@ -2696,7 +2697,6 @@ _Generated on 2025-12-08 21:04:54 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏛️_the_nudging_governance_vacuum.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_nudging_governance_vacuum.md)
     - [`🏛️_the_reckoning_lag_prince_andrew_epstein_institutional_containment.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_reckoning_lag_prince_andrew_epstein_institutional_containment.md)
     - [`🏜_negev_from_renewal_to_refusal.md`](Polaris_Nest/Git_Intake_Drawer/🏜_negev_from_renewal_to_refusal.md)
     - [`🏝️_refusal_retreat_and_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🏝️_refusal_retreat_and_extraction.md)
