@@ -1,6 +1,6 @@
 # 🎮 Fake Gamer Girl Protocol  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-22  
-*Every time a woman logs on, someone tries to make her prove she exists.*
+**First created:** 2025-11-01 | **Last updated:** 2025-12-08  
+*Every time a woman logs on, someone tries to make her prove she exists.*  
 
 ---
 
@@ -120,4 +120,4 @@ It documents how online gatekeeping recycles old containment myths under the gui
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
