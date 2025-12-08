@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 23:17:11 UTC_
+_Generated on 2025-12-08 23:21:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -979,6 +979,7 @@ _Generated on 2025-12-08 23:17:11 UTC_
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪸_floating_commons_humane_sovereignty_at_sea.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
+        - [`🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md)
         - [`🫖_no_this_is_not_proper.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫖_no_this_is_not_proper.md)
         - [`🫧_crying_as_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫧_crying_as_breach.md)
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
@@ -3426,7 +3427,6 @@ _Generated on 2025-12-08 23:17:11 UTC_
     - [`🪼_prevent_the_alt_right_weapon.md`](Polaris_Nest/Git_Intake_Drawer/🪼_prevent_the_alt_right_weapon.md)
     - [`🪼_racialised_dual_attrition.md`](Polaris_Nest/Git_Intake_Drawer/🪼_racialised_dual_attrition.md)
     - [`🪼_toxic_systems_do_not_need_monsters.md`](Polaris_Nest/Git_Intake_Drawer/🪼_toxic_systems_do_not_need_monsters.md)
-    - [`🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md`](Polaris_Nest/Git_Intake_Drawer/🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md)
     - [`🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md`](Polaris_Nest/Git_Intake_Drawer/🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md)
     - [`🫠_projection_leak_signature.md`](Polaris_Nest/Git_Intake_Drawer/🫠_projection_leak_signature.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
