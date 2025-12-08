@@ -1,5 +1,5 @@
 # 🎭 Witch Girl vs Sensible Man Archetypes  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-08  
 *A comparative archetype analysis of how clever, articulate women become coded as “witches” while steady, predictable men become coded as “sensible” — and how these two cultural figures form a long-running dialectic in family systems, class scripts, and institutional behaviour.*
 
 ---
@@ -245,4 +245,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
