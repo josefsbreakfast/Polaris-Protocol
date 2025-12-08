@@ -1,5 +1,5 @@
 # 🎺 Rallying Call and Loyal Hound  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-08  
 *A field-recorded meditation on why we still answer the call, and who waits at the threshold when we do.*
 
 ---
@@ -153,4 +153,4 @@ rallying call, echo punk, mythic fidelity, dog archetype, protest acoustics, mor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
