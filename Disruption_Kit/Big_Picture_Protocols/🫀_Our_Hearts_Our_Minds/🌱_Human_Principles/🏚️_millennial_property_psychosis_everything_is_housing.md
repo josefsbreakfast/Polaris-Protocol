@@ -1,5 +1,5 @@
 # 🏚️ Millennial Property Psychosis (Everything Is Housing)  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-08  
 *Why millennials compulsively evaluate every empty building as potential housing — and what this reveals about generational trauma, class identity, and political behaviour.*
 
 ---
@@ -215,4 +215,4 @@ It supports the **Big Picture Protocols** and **Generational Dynamics** clusters
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
