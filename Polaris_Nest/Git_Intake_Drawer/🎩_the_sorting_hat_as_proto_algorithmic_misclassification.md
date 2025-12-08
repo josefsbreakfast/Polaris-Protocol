@@ -1,6 +1,6 @@
 # 🎩 The Sorting Hat as Proto-Algorithmic Misclassification  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-22  
-*How a children’s fantasy device accidentally modelled the dangers of early algorithmic identity assignment.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
+*How a children’s fantasy device accidentally modelled the dangers of early algorithmic identity assignment.*  
 
 ---
 
@@ -197,4 +197,4 @@ It reframes a familiar cultural object as a prototype for modern algorithmic har
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
