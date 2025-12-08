@@ -1,5 +1,5 @@
 # 🐍 Algorithmic Hostage Logic  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-08  
 *How systems trap their own stabilisers inside the hostility they diffuse.*
 
 ---
@@ -79,14 +79,15 @@ algorithmic hostage logic, containment, engagement economy, emotional labour, mi
 ---
 
 ## 🏮 Footer  
-*Algorithmic Hostage Logic* is a living node of the Polaris Protocol.  
+*🐍 Algorithmic Hostage Logic* is a living node of the Polaris Protocol.  
 It exposes how engagement algorithms and bureaucratic reflexes trap their own stabilisers inside the volatility they pacify — converting empathy into infrastructure.  
 
-> 📡 Cross-references:  
-> - [⚖️ Institutional Parasitism of Deradicalisation Work](../System_Governance/⚖️_institutional_parasitism_of_deradicalisation_work.md) — extraction of stabilisation labour  
-> - [💇‍♀️ The Dumb Blonde Protocol](../🪄_Expression_Of_Norms/💇‍♀️_the_dumb_blonde_protocol.md) — archetypes of disbelief and containment  
-> - [🎮 Fake Gamer Girl Protocol](../🪄_Expression_Of_Norms/🎮_fake_gamer_girl_protocol.md) — digital hostility loops and performance countermeasures  
+> 📡 Cross-references:
+> 
+> - [⚖️ Institutional Parasitism of Deradicalisation Work] — *extraction of stabilisation labour*  
+> - [💇‍♀️ The Dumb Blonde Protocol] — *archetypes of disbelief and containment*  
+> - [🎮 Fake Gamer Girl Protocol] — *digital hostility loops and performance countermeasures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
