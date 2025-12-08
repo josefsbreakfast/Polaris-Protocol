@@ -1,5 +1,5 @@
-# 🎶 State Voice Fidelity — The Choral Body as Archive
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-22  
+# 🎶 State Voice Fidelity — The Choral Body as Archive  
+**First created:** 2025-11-06  |  **Last updated:** 2025-12-08  
 *When a nation sings through its bodies — and archives them in sound.*  
 
 ---
@@ -58,4 +58,4 @@ It situates cultural performance within the machinery of continuity and control,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
