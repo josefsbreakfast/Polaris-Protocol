@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 21:51:54 UTC_
+_Generated on 2025-12-08 23:16:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2444,6 +2444,7 @@ _Generated on 2025-12-08 21:51:54 UTC_
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
       - [`🪞_strong_women_apparently.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_strong_women_apparently.md)
       - [`🪶_narrative_saturation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪶_narrative_saturation.md)
+      - [`🪼_modern_extremism_recruits_through_vibes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_modern_extremism_recruits_through_vibes.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
     - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🎶_reversal_distortion_if_i_cant_have_you.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
@@ -3422,7 +3423,6 @@ _Generated on 2025-12-08 21:51:54 UTC_
     - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Polaris_Nest/Git_Intake_Drawer/🪫_why_we_cannot_know_who_prevent_targets.md)
     - [`🪬_ihra_vs_jda.md`](Polaris_Nest/Git_Intake_Drawer/🪬_ihra_vs_jda.md)
     - [`🪶_language_as_smuggled_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🪶_language_as_smuggled_plurality.md)
-    - [`🪼_modern_extremism_recruits_through_vibes.md`](Polaris_Nest/Git_Intake_Drawer/🪼_modern_extremism_recruits_through_vibes.md)
     - [`🪼_prevent_the_alt_right_weapon.md`](Polaris_Nest/Git_Intake_Drawer/🪼_prevent_the_alt_right_weapon.md)
     - [`🪼_racialised_dual_attrition.md`](Polaris_Nest/Git_Intake_Drawer/🪼_racialised_dual_attrition.md)
     - [`🪼_toxic_systems_do_not_need_monsters.md`](Polaris_Nest/Git_Intake_Drawer/🪼_toxic_systems_do_not_need_monsters.md)
