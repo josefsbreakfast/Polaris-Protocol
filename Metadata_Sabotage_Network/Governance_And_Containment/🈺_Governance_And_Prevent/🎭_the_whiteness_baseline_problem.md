@@ -1,5 +1,5 @@
 # 🎭 The Whiteness Baseline Problem  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-08  
 *How Prevent/Channel assumes white emotional norms, white digital practices, and white behavioural templates as “neutral baselines,” leading to systemic misclassification of non-white communities.*
 
 ---
@@ -230,10 +230,8 @@ whiteness • Prevent • Channel • racialised behaviour • metadata • emot
 It documents how Prevent/Channel interprets behaviour through implicitly white cultural templates, turning difference into suspicion and identity into risk.
 
 > 📡 **Cross-references:**  
-> - [🔮 House Style](./🔮_house_style.md)  
-> - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Where to Go](./🏮_where_to_go.md)
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
