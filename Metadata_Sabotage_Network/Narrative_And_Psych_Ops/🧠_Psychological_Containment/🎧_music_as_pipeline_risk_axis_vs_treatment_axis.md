@@ -172,6 +172,6 @@ For Polaris and allied projects, some guiding questions:
 
 > “Has your soundtrack changed in a way that feels like someone else is driving?”  
 
-Those stories are not just quirks of taste; they are **early-warning signals of playlist-as-policy**.
+Those stories are not just quirks of taste; they are **early-warning signals of playlist-as-policy**.  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-07_
