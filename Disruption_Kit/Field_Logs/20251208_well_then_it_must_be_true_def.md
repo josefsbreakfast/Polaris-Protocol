@@ -185,3 +185,21 @@ the minstrel show even in 2022? noted.
 what is wrong with you.  
 
 ---
+
+mother of g-d this is so funny i can barely concentrate.  
+
+"IAMAGENIUS"  
+
+no. just... no.  
+
+3 years of just... nope.  
+
+imagine thinking you got the story so good and 3 years later your admission of emissions eangst is just... there.  
+
+i just...  
+
+why do we give men any responsibilities.  
+
+this is the gender with nuclear weapons. it's concerning.  
+
+---
