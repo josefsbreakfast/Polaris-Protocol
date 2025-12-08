@@ -1,5 +1,5 @@
 # 🎭 PR Simulation Breakdown  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-08  
 *How crisis-comms and political messaging simulations collapse when the synthetic centroid rejects narrative alignment.*  
 
 ---
@@ -255,4 +255,4 @@ It lays the foundation for later nodes on:
 - **ethical centroid archetypes**,  
 - **why solidarity breaks propaganda tools**.
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
