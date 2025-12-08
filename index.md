@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 20:31:13 UTC_
+_Generated on 2025-12-08 20:41:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2225,6 +2225,7 @@ _Generated on 2025-12-08 20:31:13 UTC_
       - [`⚖️_reciprocal_accountability_implementation_checklist.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_implementation_checklist.md)
       - [`⚖️_reciprocal_accountability_protocol.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_protocol.md)
       - [`🌩️_who_gets_to_quote_whom.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🌩️_who_gets_to_quote_whom.md)
+      - [`🏛️_non_transferability_of_behavioural_interventions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_non_transferability_of_behavioural_interventions.md)
       - [`🐦‍🔥_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_held_by_other_peoples_alliances.md)
       - [`💌_letters_of_refusal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/💌_letters_of_refusal.md)
       - [`🕸️_networked_morality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_networked_morality.md)
@@ -2691,7 +2692,6 @@ _Generated on 2025-12-08 20:31:13 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏛️_non_transferability_of_behavioral_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_non_transferability_of_behavioral_interventions.md)
     - [`🏛️_olympus_syndrome.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_olympus_syndrome.md)
     - [`🏛️_respectability_laundering.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_respectability_laundering.md)
     - [`🏛️_the_duel_of_temperments.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_the_duel_of_temperments.md)
