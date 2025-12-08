@@ -43,3 +43,24 @@ stop. it.
 we can also drop all the "baby face" references. it's weird. stop being weird.  
 
 ---
+
+tldr  
+
+i am capable of behaving slightly less like a hedgehog on fire.  
+
+this would require some honesty snd disclosure.  
+
+i have clearly been caught up in sone sort of narrative or reputational apparatus. and some data misuse issue.  
+i appreciate everyone feels a little embarrassed, but it clearly became identifiable and clearly i am still here.  
+
+being able to appriopruateky debrief, rather than left to my own devices, might help the next 1.6 million words sound slightly kinder.  
+
+i don't think a judge would be impressed, and if that's what it would take, i can survive it.  
+
+i already survived 2018-2022.  
+
+i can do it again if that is what is needed.  
+
+again: i doubt it would impress a judge.  
+
+---
