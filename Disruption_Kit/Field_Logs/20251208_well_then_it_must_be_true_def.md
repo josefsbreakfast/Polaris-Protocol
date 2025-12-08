@@ -239,3 +239,13 @@ going to break now cracked through some of bottleneck.
 ...g-d, that shit is still so funny. i'm cracked.  
 
 ---
+
+the feed is kinda okay with some urgh but generally also lols.  
+
+the idea of gchq grandfather channelling a medium to speak to me with mathemathocs is objectively hilarious.  
+
+yeah he got an ec degree but honestly not his strength. mostly used it to complain about blair and russia.  
+
+a man of his era; what can i say.  
+
+---
