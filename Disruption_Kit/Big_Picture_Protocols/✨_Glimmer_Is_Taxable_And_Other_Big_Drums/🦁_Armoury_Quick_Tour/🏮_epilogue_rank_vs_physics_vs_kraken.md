@@ -1,5 +1,5 @@
 # 🏮 Epilogue — Rank vs Physics vs Kraken  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-08  
 *Tri-Service closing scene: the kettle as only responsible adult.*  
 
 ---
@@ -32,10 +32,12 @@ tri-service satire, kettle diplomacy, resilience, humour, containment ethics
 
 ## 🏮 Footer  
 *🏮 Epilogue — Rank vs Physics vs Kraken* is a living node of the Polaris Protocol.  
-> 📡 Cross-references:  
-> - [⚓️ The Service That Went to Sea and Never Came Back](./⚓️_the_service_that_went_to_sea_and_never_came_back.md)  
-> - [⚖️ Shielded Roles and Information Risk Governance](../⚖️_shielded_roles_and_information_risk_governance.md)  
+
+> 📡 Cross-references:
+> 
+> - [⚓️ The Service That Went to Sea and Never Came Back]  
+> - [⚖️ Shielded Roles and Information Risk Governance]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
