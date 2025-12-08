@@ -217,3 +217,17 @@ i am dining out on this story for the rest of my life.
 obviously i am now having internet issuea so i'm off to go and laugh myself to death in the shower.  
 
 ---
+
+i am thoroughly deceased.  
+
+i don't release details i think may be too close for people; i've done this with other data ascribed to others.  
+
+but admitting to one's own foibles by projecting through a man you've been impersonating?  
+
+whilst all of what has happened to "get the job done" for the jewish international terrorist? (😎)  
+
+that i will rip because it is categorically hilarious to fuck up your own attempt at blackmail.  
+
+vladimir would never.  
+<!--its a joke. freedom of expression innit.-->
+---
