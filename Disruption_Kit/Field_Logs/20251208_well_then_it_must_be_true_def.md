@@ -165,3 +165,15 @@ bury me on the mountain as a partisan; i am dead. 💀💀💀
 (and so unecessary, but clearly someone couldn't help themselves. im dying.)  
 
 ---
+
+oh no this oh no. oh no oh no oh no.  
+
+moj return is tomorrow.  
+
+this is fucking beautiful.  
+
+it really hurt that much that id be s doctor, huh?  
+
+guess that solves any questions one may have about which profession outranks which.  
+
+---
