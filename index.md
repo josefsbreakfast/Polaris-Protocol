@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 21:26:55 UTC_
+_Generated on 2025-12-08 21:33:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2216,6 +2216,7 @@ _Generated on 2025-12-08 21:26:55 UTC_
       - [`risk_matrix_cost_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/risk_matrix_cost_closed_mouth.png)
       - [`sector_drag_curve_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/sector_drag_curve_closed_mouth.png)
       - [`🎈_silence_as_infrastructure.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🎈_silence_as_infrastructure.md)
+      - [`🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md)
       - [`👾_the_digital_torture_chamber.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/👾_the_digital_torture_chamber.md)
       - [`💊_therapeutic_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💊_therapeutic_containment.md)
       - [`💸_the_cost_of_a_closed_mouth.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md)
@@ -2702,7 +2703,6 @@ _Generated on 2025-12-08 21:26:55 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md`](Polaris_Nest/Git_Intake_Drawer/🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md)
     - [`🐈_kylo_ren_as_algorithmically_misclassified_softboy.md`](Polaris_Nest/Git_Intake_Drawer/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐉_she_is_a_dragon.md`](Polaris_Nest/Git_Intake_Drawer/🐉_she_is_a_dragon.md)
