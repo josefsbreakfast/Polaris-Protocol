@@ -1,5 +1,5 @@
 # 🪼 Modern Extremism Recruits Through Vibes  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-24 | **Last updated:** 2025-12-08  
 *A structural map of how contemporary far-right and manosphere ecosystems recruit not through argument, doctrine, or theory, but through affective drift, parasocial bonding, and low-effort emotional resonance.*
 
 ---
