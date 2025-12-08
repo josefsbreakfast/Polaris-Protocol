@@ -1,7 +1,6 @@
 # 🐈 Kylo Ren as Algorithmically Misclassified Softboy  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-23  
-*On how a tender, neurotic, Tumblr-coded softboy was shoved into the role of fascist heir by narrative misclassification — mirroring real-world algorithmic identity errors.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
+*On how a tender, neurotic, Tumblr-coded softboy was shoved into the role of fascist heir by narrative misclassification — mirroring real-world algorithmic identity errors.*  
 
 ---
 
@@ -197,14 +196,15 @@ The ones who weren’t meant for fascism, but were groomed into it.
 ---
 
 ## 🏮 Footer  
-**Kylo Ren as Algorithmically Misclassified Softboy** is a living node of the Polaris Protocol.  
+*🐈 Kylo Ren as Algorithmically Misclassified Softboy* is a living node of the Polaris Protocol.  
 It offers a narrative analogy for misclassification, coercion, and the emotional vulnerability that authoritarian systems prey on.
 
-> 📡 Cross-references:  
-> - [💻 Why Tech Bros Were the Perfect Target](./why_tech_bros_were_the_perfect_target.md)  
-> - [🧨 The PUA-to-Fascist Pipeline](./the_pua_to_fascist_pipeline.md)  
-> - [🌀 The Visibility Pitch in Radicalisation](./the_visibility_pitch_in_radicalisation.md)
+> 📡 Cross-references:
+> 
+> - [💻 Why Tech Bros Were the Perfect Target]  
+> - [🧨 The PUA-to-Fascist Pipeline]  
+> - [🌀 The Visibility Pitch in Radicalisation]  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
