@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 06:53:21 UTC_
+_Generated on 2025-12-08 06:56:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2399,6 +2399,7 @@ _Generated on 2025-12-08 06:53:21 UTC_
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
+      - [`🧠_skillsets_required_for_environmental_sabotage.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧠_skillsets_required_for_environmental_sabotage.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
