@@ -1,6 +1,6 @@
 # 🎶 Prevent Eats Teenagers' Music  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-22  
-*Why adolescent rebellion was never radicalisation until the database said so.*
+**First created:** 2025-11-04 | **Last updated:** 2025-12-08  
+*Why adolescent rebellion was never radicalisation until the database said so.*  
 <!--That My Chemical Romance song was on the radio constantly for years and due to the small lexical overlap, it is now the backing tune to editing this node.-->
 ---
 
@@ -168,4 +168,4 @@ It documents how adolescent affect is algorithmically reclassified as risk, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08
