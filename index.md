@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 14:36:17 UTC_
+_Generated on 2025-12-08 14:39:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -667,6 +667,7 @@ _Generated on 2025-12-08 14:36:17 UTC_
         - [`🍌_racism_as_epistemic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍌_racism_as_epistemic_collapse.md)
         - [`🎭_natcon_2023_25_hinge_point.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎭_natcon_2023_25_hinge_point.md)
         - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
+        - [`🎺_the_red_army_choir_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎺_the_red_army_choir_doctrine.md)
         - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
         - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_and_strongman_panic.md)
         - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_timeline.csv)
@@ -2674,7 +2675,6 @@ _Generated on 2025-12-08 14:36:17 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎺_the_red_army_choir_doctrine.md`](Polaris_Nest/Git_Intake_Drawer/🎺_the_red_army_choir_doctrine.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Polaris_Nest/Git_Intake_Drawer/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
     - [`🏗️_corrective_governance_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🏗️_corrective_governance_architecture.md)
