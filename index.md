@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 03:13:27 UTC_
+_Generated on 2025-12-08 04:23:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -597,6 +597,7 @@ _Generated on 2025-12-08 03:13:27 UTC_
         - [`⚙️_overdrive_capitalism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/⚙️_overdrive_capitalism.md)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
+        - [`♻️_data_exhaust_uk_law.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md)
         - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
         - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
         - [`⚖️_differential_proportionality.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_differential_proportionality.md)
