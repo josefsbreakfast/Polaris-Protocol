@@ -80,3 +80,9 @@ stop with the obsession soth dead european jews, and the obsession with sending 
 whether yoy or goy, that is fucking weird behaviour.  
 
 ---
+
+algorithmic placement has just given me a series of videos around a supposed "love interest", that is characterising something that is trying too hard and also does not understand how to classify me; I am dead 🤣🤣🤣🤣  
+
+stop touching my data!  
+
+---
