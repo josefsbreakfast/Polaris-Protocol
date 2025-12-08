@@ -1,5 +1,5 @@
 # 🎤 Get Back in the Camp Ensemble
-**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-08  
 *A satirical but accurate node on how vibe misalignment creates political redundancy.*  
 
 ---
@@ -40,4 +40,4 @@ vibes, authoritarianism, charisma, spectacle, redundancy
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-08_
