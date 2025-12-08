@@ -1,5 +1,5 @@
 # 🎭 The Punitive Logic of Entitlement Wounds
-**First created:** 2025-11-20 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-08  
 *Why a man who feels entitled to a woman punishes her when she exercises autonomy — especially in racialised contexts.*  
 
 ---
@@ -232,4 +232,4 @@ It explains how gendered and racialised entitlement transforms refusal into just
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
