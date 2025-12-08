@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 21:16:20 UTC_
+_Generated on 2025-12-08 21:19:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -966,6 +966,7 @@ _Generated on 2025-12-08 21:16:20 UTC_
         - [`🎶_theology_of_the_mix.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🎶_theology_of_the_mix.md)
         - [`🎺_rallying_call_and_loyal_hound.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🎺_rallying_call_and_loyal_hound.md)
         - [`🏚️_millennial_property_psychosis_everything_is_housing.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🏚️_millennial_property_psychosis_everything_is_housing.md)
+        - [`🏝️_refusal_retreat_and_extraction_the_politics_of_fucking_off.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🏝️_refusal_retreat_and_extraction_the_politics_of_fucking_off.md)
         - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
         - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
         - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
@@ -2699,7 +2700,6 @@ _Generated on 2025-12-08 21:16:20 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏝️_refusal_retreat_and_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🏝️_refusal_retreat_and_extraction.md)
     - [`🏮_epilogue_rank_vs_physics_vs_kraken.md`](Polaris_Nest/Git_Intake_Drawer/🏮_epilogue_rank_vs_physics_vs_kraken.md)
     - [`🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md`](Polaris_Nest/Git_Intake_Drawer/🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md)
     - [`🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md`](Polaris_Nest/Git_Intake_Drawer/🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md)
