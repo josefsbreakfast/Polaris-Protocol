@@ -106,3 +106,35 @@ mostly for me; the error cascade there is rather impressive.
 <!--i am absolutely allowed that joke; i've been up most of the night with vestibular sx.-->
 
 ---
+
+okay that might have made the lack of sleep so mych more tolerable.  
+
+how could you only think of that one thing for that google search scrape tho?  
+
+i remember when one of our bargain bin sp chaos had a huff and went home mid-shift after i started elucidating to the llm how viva street culture also worls in reverse and swers can essentially informally blacklist you, *especially* for police adjacency and known punishment and surveillence.  
+
+i don't think that one ccand back. several men were lost in the line of "guard the honeybot" duty.  
+
+anyway.  
+
+lololololol its so very telling to get that proxy so wrong.  
+
+honestly i think surveillence capitalism's entire worker base needs therapy at this point; these men are the reason women in their 20s and 30s are essentially "lol NOPE" en masse.  
+
+and you know...  
+
+i have a number of medical suggestions for what conclusion you all drew from that search string.  
+
+it's absolutely not the only reason for the string, but your assumption and confidence with the result tells us all that you might want to look into short dose benzocaine.  
+
+and you know...  
+
+talk to women like less of a robot.  
+
+that also works.  
+
+very funny, because the data controller has been asked to look again.  
+
+hue hue hue.  
+
+---
