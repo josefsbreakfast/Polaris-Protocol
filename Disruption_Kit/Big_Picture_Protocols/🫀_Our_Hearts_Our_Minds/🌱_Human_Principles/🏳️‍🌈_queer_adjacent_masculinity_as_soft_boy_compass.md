@@ -1,7 +1,6 @@
 # 🏳️‍🌈 Queer-Adjacent Masculinity as Soft Boy Compass  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-23  
-*How queer-coded culture offers straight, soft, emotionally earnest men a roadmap back to themselves — and why queer masculinity has become the stabilising pole for post-radicalised identity reconstruction.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
+*How queer-coded culture offers straight, soft, emotionally earnest men a roadmap back to themselves — and why queer masculinity has become the stabilising pole for post-radicalised identity reconstruction.*  
 
 ---
 
@@ -216,14 +215,15 @@ and start acting like themselves.
 ---
 
 ## 🏮 Footer  
-**Queer-Adjacent Masculinity as Soft Boy Compass** is a living node of the Polaris Protocol.  
+*🏳️‍🌈 Queer-Adjacent Masculinity as Soft Boy Compass* is a living node of the Polaris Protocol.  
 It maps how queer-coded culture provides emotional modelling and relational safety for straight soft boys recovering from shame-based masculinity and extremist misclassification.
 
-> 📡 Cross-references:  
-> - [🧸 Softness as Counter-Extremism Infrastructure](./softness_as_counter_extremism_infrastructure.md)  
-> - [🎭 Identity Cosplay](./identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md)  
-> - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)
+> 📡 Cross-references:
+> 
+> - [🧸 Softness as Counter-Extremism Infrastructure]  
+> - [🎭 Identity Cosplay]  
+> - [💗 Soft Boy Restoration Protocol]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
