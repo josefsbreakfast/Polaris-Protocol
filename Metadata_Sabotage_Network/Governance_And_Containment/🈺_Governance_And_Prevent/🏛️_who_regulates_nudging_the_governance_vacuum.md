@@ -1,6 +1,6 @@
 # 🏛️ Who Regulates Nudging? (The Governance Vacuum)  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-23  
-*How behavioural influence systems operate without oversight, accountability, or public understanding — and why this becomes dangerous inside Prevent-heavy architectures.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-08  
+*How behavioural influence systems operate without oversight, accountability, or public understanding — and why this becomes dangerous inside Prevent-heavy architectures.*  
 
 ---
 
@@ -214,9 +214,9 @@ nudging, behavioural influence, governance vacuum, prevent, safeguarding confusi
 ---
 
 ## 🏮 Footer  
-*Who Regulates Nudging? (The Governance Vacuum)* is a living node of the Polaris Protocol.  
+*🏛️ Who Regulates Nudging? (The Governance Vacuum)* is a living node of the Polaris Protocol.  
 It exposes the absence of meaningful oversight over behavioural influence systems — and how this vacuum enables harm, misinterpretation, and coercive drift inside modern institutions.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
