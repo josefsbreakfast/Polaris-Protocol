@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 11:05:57 UTC_
+_Generated on 2025-12-08 11:07:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2363,6 +2363,7 @@ _Generated on 2025-12-08 11:05:57 UTC_
       - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
       - [`🎭_identity_cosplay.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_identity_cosplay.md)
       - [`🎭_safety_layer_british_pragmatics.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_safety_layer_british_pragmatics.md)
+      - [`🎭_the_punitive_logic_of_entitlement_wounds.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_the_punitive_logic_of_entitlement_wounds.md)
       - [`🐌_delays_are_violence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)
       - [`🐣_maternity_delays_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐣_maternity_delays_as_containment.md)
       - [`👁️_silent_witness_effect.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️_silent_witness_effect.md)
@@ -2663,7 +2664,6 @@ _Generated on 2025-12-08 11:05:57 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎭_the_punitive_logic_of_entitlement_wounds.md`](Polaris_Nest/Git_Intake_Drawer/🎭_the_punitive_logic_of_entitlement_wounds.md)
     - [`🎭_whiteness_baseline_problem.md`](Polaris_Nest/Git_Intake_Drawer/🎭_whiteness_baseline_problem.md)
     - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_witch_girl_vs_sensible_man_archetypes.md)
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
