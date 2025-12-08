@@ -1,5 +1,5 @@
 # 🏛️ Non-Transferability of Behavioural Interventions
-**First created:** 2025-11-08 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-08  
 *Why behavioural tools cannot ethically or neurologically transfer from domestic justice to occupied contexts.*
 
 ---
@@ -59,14 +59,14 @@ behavioural science, non-transferability, legitimacy, neurological inversion, co
 
 ## 🏮 Footer
 
-*Non-Transferability of Behavioural Interventions* is a living node of the Polaris Protocol.
+*🏛️ Non-Transferability of Behavioural Interventions* is a living node of the Polaris Protocol.
 It clarifies why behavioural interventions collapse when moved across legality and legitimacy lines.
 
 > 📡 Cross-references:
 > 
-> - [🧨 Dual-Use Epiphany](./🧨_dual_use_epiphany.md)
-> - [🧨 Dual-Use Frankenstack](./🧨_dual_use_frankenstack.md)
+> - [🧨 Dual-Use Epiphany]  
+> - [🧨 Dual-Use Frankenstack]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
