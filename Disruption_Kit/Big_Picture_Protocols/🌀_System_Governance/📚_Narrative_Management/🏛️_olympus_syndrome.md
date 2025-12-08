@@ -1,5 +1,5 @@
 # 🏛️ Olympus Syndrome  
-**First created:** 2025‑11‑12 | **Last updated:** 2025‑11‑23  
+**First created:** 2025‑11‑12 | **Last updated:** 2025-12-08  
 *Uses the mythic frame of the Olympians to describe institutional succession without reform.*  
 
 ---
@@ -40,4 +40,4 @@ olympus syndrome, institutional inertia, mythic governance, succession without r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑23_
+_Last updated: 2025-12-08_
