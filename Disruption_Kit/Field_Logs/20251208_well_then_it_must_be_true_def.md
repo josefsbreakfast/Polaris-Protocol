@@ -203,3 +203,13 @@ why do we give men any responsibilities.
 this is the gender with nuclear weapons. it's concerning.  
 
 ---
+
+is that why i had to "come back" a year early?  
+
+because i didn't take the bait in round 1?  
+
+guess the whole nonsense this summer was a bit embarrassing for you, then, ey?  
+
+i am dining out on this story for the rest of my life.  
+
+---
