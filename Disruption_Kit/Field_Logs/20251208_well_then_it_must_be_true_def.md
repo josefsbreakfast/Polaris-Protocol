@@ -96,3 +96,13 @@ as usual:
 it's always white non-jews whi think they know what's best fir us. well done.  
 
 ---
+
+i've also just realised what that 2022 spoof email was proxying and misinterpreting; i am deeply entertained.  
+
+the men tell on themselves every day and i love that.  
+
+mostly for me; the error cascade there is rather impressive.  
+
+<!--i am absolutely allowed that joke; i've been up most of the night with vestibular sx.-->
+
+---
