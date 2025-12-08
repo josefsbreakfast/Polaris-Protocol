@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 12:30:18 UTC_
+_Generated on 2025-12-08 13:52:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -881,6 +881,7 @@ _Generated on 2025-12-08 12:30:18 UTC_
         - [`🌀_projection_driven_system_nudges.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_projection_driven_system_nudges.md)
         - [`🌿_normal_human_behaviour_vs_risk_indicators.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌿_normal_human_behaviour_vs_risk_indicators.md)
         - [`🎭_RIPA_compliance_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
+        - [`🎶_good_taste_vs_surveillance_taste.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎶_good_taste_vs_surveillance_taste.md)
         - [`🏗️_2010s_authoritarian_adjacent_build.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏗️_2010s_authoritarian_adjacent_build.md)
         - [`🏟️_hackathon_league.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏟️_hackathon_league.md)
         - [`💀_necro_jargon_cult.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💀_necro_jargon_cult.md)
@@ -2668,7 +2669,6 @@ _Generated on 2025-12-08 12:30:18 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎶_good_taste_vs_surveillance_taste.md`](Polaris_Nest/Git_Intake_Drawer/🎶_good_taste_vs_surveillance_taste.md)
     - [`🎶_prevent_eats_teenagers_music.md`](Polaris_Nest/Git_Intake_Drawer/🎶_prevent_eats_teenagers_music.md)
     - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Polaris_Nest/Git_Intake_Drawer/🎶_reversal_distortion_if_i_cant_have_you.md)
     - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](Polaris_Nest/Git_Intake_Drawer/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
