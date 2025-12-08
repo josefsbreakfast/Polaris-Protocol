@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 21:48:27 UTC_
+_Generated on 2025-12-08 21:51:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2449,6 +2449,7 @@ _Generated on 2025-12-08 21:48:27 UTC_
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
+      - [`🐍_algorithmic_hostage_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md)
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
@@ -2706,7 +2707,6 @@ _Generated on 2025-12-08 21:48:27 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
-    - [`🐍_algorithmic_hostage_logic.md`](Polaris_Nest/Git_Intake_Drawer/🐍_algorithmic_hostage_logic.md)
     - [`🐍_prevent_the_self_eating_snake.md`](Polaris_Nest/Git_Intake_Drawer/🐍_prevent_the_self_eating_snake.md)
     - [`🐍_survivor_voice_misread_as_intensity.md`](Polaris_Nest/Git_Intake_Drawer/🐍_survivor_voice_misread_as_intensity.md)
     - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_vulnerability_manufacture_to_enmeshment.md)
