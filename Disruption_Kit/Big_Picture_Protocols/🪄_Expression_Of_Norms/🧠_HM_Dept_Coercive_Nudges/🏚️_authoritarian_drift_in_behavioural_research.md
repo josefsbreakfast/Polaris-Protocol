@@ -1,6 +1,6 @@
 # 🏚️ Authoritarian Drift in Behavioural Research  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
-*How behavioural-science and data-driven teams radicalise themselves into coercive logic when operating without trauma literacy, ethics, or interdisciplinary counterweights.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-08  
+*How behavioural-science and data-driven teams radicalise themselves into coercive logic when operating without trauma literacy, ethics, or interdisciplinary counterweights.*  
 
 ---
 
@@ -260,4 +260,4 @@ The next nodes extend this into:
 - **Institutional Panic Dynamics**,  
 - **Model–Human Boundary Violations**.
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-08_
