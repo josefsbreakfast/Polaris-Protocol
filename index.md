@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 10:52:46 UTC_
+_Generated on 2025-12-08 10:55:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2356,6 +2356,7 @@ _Generated on 2025-12-08 10:52:46 UTC_
       - [`🌫️_memory_fogging.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md)
       - [`🌫️_the_shame_visibility_collapse_loop.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_the_shame_visibility_collapse_loop.md)
       - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
+      - [`🎭_identity_cosplay.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_identity_cosplay.md)
       - [`🎭_safety_layer_british_pragmatics.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_safety_layer_british_pragmatics.md)
       - [`🐌_delays_are_violence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)
       - [`🐣_maternity_delays_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐣_maternity_delays_as_containment.md)
@@ -2657,7 +2658,6 @@ _Generated on 2025-12-08 10:52:46 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md`](Polaris_Nest/Git_Intake_Drawer/🎭_identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md)
     - [`🎭_natcon_2023_25_hinge_point.md`](Polaris_Nest/Git_Intake_Drawer/🎭_natcon_2023_25_hinge_point.md)
     - [`🎭_performative_left_failure_modes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_performative_left_failure_modes.md)
     - [`🎭_pr_friendly_persona_flattening.md`](Polaris_Nest/Git_Intake_Drawer/🎭_pr_friendly_persona_flattening.md)
