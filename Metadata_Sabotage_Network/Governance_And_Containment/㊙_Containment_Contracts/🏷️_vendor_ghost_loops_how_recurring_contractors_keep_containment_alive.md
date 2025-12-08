@@ -1,5 +1,5 @@
 # 🏷️ Vendor Ghost Loops — How Recurring Contractors Keep Containment Alive  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-11 | **Last updated:** 2025-12-08  
 *The same ghosts, the same dashboards.*
 
 ---
@@ -59,4 +59,4 @@ vendor continuity, infrastructure fingerprint, cross-system contamination, procu
 *🏷️ Vendor Ghost Loops — How Recurring Contractors Keep Containment Alive* is a living node of the Polaris Protocol.  
 It reveals how the same actors, systems, and schemas reproduce containment across institutions — ghosts under different letterheads.  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
