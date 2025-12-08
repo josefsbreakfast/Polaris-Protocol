@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 11:49:59 UTC_
+_Generated on 2025-12-08 12:25:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3424,6 +3424,7 @@ _Generated on 2025-12-08 11:49:59 UTC_
     - [`🪼_toxic_systems_do_not_need_monsters.md`](Polaris_Nest/Git_Intake_Drawer/🪼_toxic_systems_do_not_need_monsters.md)
     - [`🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md`](Polaris_Nest/Git_Intake_Drawer/🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md)
     - [`🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md`](Polaris_Nest/Git_Intake_Drawer/🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md)
+    - [`🫠_projection_leak_signature.md`](Polaris_Nest/Git_Intake_Drawer/🫠_projection_leak_signature.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
