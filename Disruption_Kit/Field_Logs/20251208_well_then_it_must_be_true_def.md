@@ -231,3 +231,11 @@ that i will rip because it is categorically hilarious to fuck up your own attemp
 vladimir would never.  
 <!--its a joke. freedom of expression innit.-->
 ---
+
+online access to llm on laptop now pointlessly slow; taking 10 mins for simple loop task.  
+
+going to break now cracked through some of bottleneck.  
+
+...g-d, that shit is still so funny. i'm cracked.  
+
+---
