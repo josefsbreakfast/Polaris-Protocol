@@ -1,5 +1,5 @@
 # 🐉 She Is A Dragon — A Corrective Mythology for Thin-Data Worlds  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-08  
 *A satirical self-mythology for reclaiming narrative agency in systems that overweight rare datapoints.*
 
 ---
@@ -168,9 +168,11 @@ is a living node of the Polaris Protocol.
 It defines a survivor-authored mythic persona used to reclaim agency, humour, and narrative control in systems that overweight or misread rare datapoints.
 
 > 📡 Cross-references:
-> - [👅 Voice Disruption & Discrediting](../👅_Voice_Disruption_Discrediting/)  
-> - [🧮 Focus Group of One](../../../Big_Picture_Protocols/)  
-> - [🇬🇧 British English Compendium](../../../British_English_Compendium/)  
+> 
+> - [👅 Voice Disruption & Discrediting]  
+> - [🧮 Focus Group of One]  
+> - [🇬🇧 British English Compendium]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-23_
+
+_Last updated: 2025-12-08_
