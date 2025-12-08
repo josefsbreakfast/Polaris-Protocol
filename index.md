@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-08 11:09:40 UTC_
+_Generated on 2025-12-08 11:12:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -232,6 +232,7 @@ _Generated on 2025-12-08 11:09:40 UTC_
         - [`🎭_reputation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_reputation_as_governance.md)
         - [`🎭_respectibility_theatre_bullshit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_respectibility_theatre_bullshit.md)
         - [`🎭_symbolic_violence_in_gendered_and_racialised_frames.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_symbolic_violence_in_gendered_and_racialised_frames.md)
+        - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_witch_girl_vs_sensible_man_archetypes.md)
         - [`🎴_tarot_of_prime_ministers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎴_tarot_of_prime_ministers.md)
         - [`🎼_polyphonic_origins.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎼_polyphonic_origins.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
@@ -2665,7 +2666,6 @@ _Generated on 2025-12-08 11:09:40 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
-    - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🎭_witch_girl_vs_sensible_man_archetypes.md)
     - [`🎮_fake_gamer_girl_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🎮_fake_gamer_girl_protocol.md)
     - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Polaris_Nest/Git_Intake_Drawer/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
     - [`🎶_good_taste_vs_surveillance_taste.md`](Polaris_Nest/Git_Intake_Drawer/🎶_good_taste_vs_surveillance_taste.md)
