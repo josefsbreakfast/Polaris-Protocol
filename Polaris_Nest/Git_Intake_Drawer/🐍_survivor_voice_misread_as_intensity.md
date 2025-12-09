@@ -1,6 +1,6 @@
-# 🔍 Survivor Voice Misread as Intensity — A Pragmatic Failure Mode  
+# 🐍 Survivor Voice Misread as Intensity — A Pragmatic Failure Mode  
 **First created:** 2025-11-22  
-**Last updated:** 2025-11-23  
+**Last updated:** 2025-12-09  
 *Why survivor pragmatics get misread as “intensity,” “aggression,” or “volatility” in automated and institutional systems.*
 
 ---
@@ -194,9 +194,10 @@ is a living node of the Polaris Protocol.
 It documents how survivor speech patterns are misinterpreted as intensity or volatility by culturally misaligned, thin-data, or safety-driven systems.
 
 > 📡 Cross-references:
-> - [✂️ Tone-Misclassification & Emotional Flattening](../✂️_tone_misclassification_emotional_flattening.md)  
-> - [📣 The Shouting Whisper](./📣_the_shouting_whisper.md)  
-> - [🇬🇧 British Pragmatics Compendium](../../../British_English_Compendium/)  
+> - [✂️ Tone-Misclassification & Emotional Flattening]  
+> - [📣 The Shouting Whisper]  
+> - [🇬🇧 British Pragmatics Compendium]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-23_
+
+_Last updated: 2025-12-09_
