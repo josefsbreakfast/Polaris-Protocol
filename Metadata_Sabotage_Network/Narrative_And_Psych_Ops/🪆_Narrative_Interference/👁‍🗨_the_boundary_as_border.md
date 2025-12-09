@@ -1,5 +1,5 @@
 # 👁‍🗨️ The Boundary as Border
-**First created:** 2025-11-20 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-09  
 *How women’s boundaries are interpreted as territorial defiance — especially through racialised and colonial masculinity.*
 
 ---
@@ -225,7 +225,7 @@ boundaries, sovereignty, colonial metaphors, racialised autonomy, refusal, symbo
 ---
 
 ## 🏮 Footer  
-*The Boundary as Border* is a living node of the Polaris Protocol.  
+*👁‍🗨 The Boundary as Border* is a living node of the Polaris Protocol.  
 It describes how women's limits become misinterpreted as political resistance, triggering punitive responses shaped by colonial and patriarchal scripts.
 
 > 📡 Cross-references:  
@@ -236,4 +236,4 @@ It describes how women's limits become misinterpreted as political resistance, t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
