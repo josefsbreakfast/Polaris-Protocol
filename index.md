@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:44:46 UTC_
+_Generated on 2025-12-09 14:46:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2465,6 +2465,7 @@ _Generated on 2025-12-09 14:44:46 UTC_
       - [`👅_gendered_racial_pivot.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/👅_gendered_racial_pivot.md)
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💔_manufactured_intimacy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💔_manufactured_intimacy.md)
+      - [`💔_when_the_algorithm_thinks_its_a_rom_com.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💔_when_the_algorithm_thinks_its_a_rom_com.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
@@ -2763,7 +2764,6 @@ _Generated on 2025-12-09 14:44:46 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💍_marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/💍_marriage_as_state_containment_trope.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
-    - [`💔_when_the_algorithm_thinks_it’s_a_rom_com.md`](Polaris_Nest/Git_Intake_Drawer/💔_when_the_algorithm_thinks_it’s_a_rom_com.md)
     - [`💗_the_soft_boy_restoration_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💗_the_soft_boy_restoration_protocol.md)
     - [`💞_affective_proxy_substitution_cross_gender_misread_as_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md)
     - [`💞_connection_as_leverage.md`](Polaris_Nest/Git_Intake_Drawer/💞_connection_as_leverage.md)
