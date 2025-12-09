@@ -1,7 +1,6 @@
 # 🎭 Poets as Primary Targets  
-
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
-*Why expressive workers become first-wave targets in systems that weaponise language.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+*Why expressive workers become first-wave targets in systems that weaponise language.*  
 
 ---
 
@@ -72,11 +71,12 @@ poetry, cultural resistance, censorship, linguistic control, archival protection
 *🎭 Poets as Primary Targets* is a living analytical node of the Polaris Protocol.  
 It documents historical and current mechanisms of linguistic persecution and proposes practical defences for expressive workers.  
 
-> 📡 Cross-references:  
-> - [📡 Language as Attack Surface](../Disruption_Kit/Big_Picture_Protocols/📡_language_as_attack_surface.md) — context for semantic warfare  
-> - [⚖️ Linguistic Integrity as Security Risk](./⚖️_linguistic_integrity_as_security_risk.md) — governance link  
-> - [Operational Kits/archives/cross_mirroring_sop.md](../Operational_Kits/archives/cross_mirroring_sop.md) — archival redundancy  
+> 📡 Cross-references:
+> 
+> - [📡 Language as Attack Surface] — context for semantic warfare  
+> - [⚖️ Linguistic Integrity as Security Risk] — governance link  
+> - [Operational Kits/archives/cross_mirroring_sop.md] — archival redundancy  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
