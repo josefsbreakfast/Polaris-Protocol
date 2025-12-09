@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 13:59:17 UTC_
+_Generated on 2025-12-09 14:00:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2471,6 +2471,7 @@ _Generated on 2025-12-09 13:59:17 UTC_
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
       - [`🐍_algorithmic_hostage_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md)
+      - [`👻_ghost_persona_error_modes.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👻_ghost_persona_error_modes.md)
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
@@ -2680,8 +2681,6 @@ _Generated on 2025-12-09 13:59:17 UTC_
       - [`🫥_dry_humour_as_data_loss.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🫥_dry_humour_as_data_loss.md)
     - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
   - [**🧱_Structural_Analysis/**](Metadata_Sabotage_Network/🧱_Structural_Analysis/)
-    - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/🧱_Structural_Analysis/👾_Breakpoints_And_Glitches/)
-      - [`👻_ghost_persona_error_modes.md`](Metadata_Sabotage_Network/🧱_Structural_Analysis/👾_Breakpoints_And_Glitches/👻_ghost_persona_error_modes.md)
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/🧱_Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Metadata_Sabotage_Network/🧱_Structural_Analysis/🧼_System_Leakage_Signatures/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
