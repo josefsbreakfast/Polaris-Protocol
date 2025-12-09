@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:12:42 UTC_
+_Generated on 2025-12-09 14:14:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2311,6 +2311,7 @@ _Generated on 2025-12-09 14:12:42 UTC_
       - [`🎭_containment_as_equilibrium_theatre.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_containment_as_equilibrium_theatre.md)
       - [`🎭_the_whiteness_baseline_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_the_whiteness_baseline_problem.md)
       - [`🎶_korobeiniki_misread_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_korobeiniki_misread_as_signal.md)
+      - [`🎶_police_the_vibes.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_police_the_vibes.md)
       - [`🎶_prevent_eats_teenagers_music.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_prevent_eats_teenagers_music.md)
       - [`🏛️_how_states_weaponise_ihra.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_how_states_weaponise_ihra.md)
       - [`🏛️_who_regulates_nudging_the_governance_vacuum.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_who_regulates_nudging_the_governance_vacuum.md)
@@ -2744,7 +2745,6 @@ _Generated on 2025-12-09 14:12:42 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👾_prevent_as_vibes_policing.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_vibes_policing.md)
     - [`👾_prevent_data_overlap_gets_worse.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_data_overlap_gets_worse.md)
     - [`👾_prevent_misreads.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads.md)
     - [`👾_prevent_misreads_the_poors.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads_the_poors.md)
