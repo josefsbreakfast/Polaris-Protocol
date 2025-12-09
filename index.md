@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:39:16 UTC_
+_Generated on 2025-12-09 18:40:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -610,6 +610,7 @@ _Generated on 2025-12-09 18:39:16 UTC_
           - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_polaris_costing_estimate.md)
           - [`💷_potential_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_potential_tort_exposure.md)
           - [`💷_survivor_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md)
+          - [`💸_opacity_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💸_opacity_architecture.md)
           - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
           - [`🚀_arms_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🚀_arms_transparency.md)
         - [**🚀_Dual_Use_Dualities/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/)
@@ -2787,7 +2788,6 @@ _Generated on 2025-12-09 18:39:16 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`💸_opacity_architecture_ai_defence_foreign_alignment.md`](Polaris_Nest/Git_Intake_Drawer/💸_opacity_architecture_ai_defence_foreign_alignment.md)
     - [`💸_shame_as_control_currency.md`](Polaris_Nest/Git_Intake_Drawer/💸_shame_as_control_currency.md)
     - [`💻_algorithmic_hysteria.md`](Polaris_Nest/Git_Intake_Drawer/💻_algorithmic_hysteria.md)
     - [`💻_why_tech_bros_were_the_perfect_target.md`](Polaris_Nest/Git_Intake_Drawer/💻_why_tech_bros_were_the_perfect_target.md)
