@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 13:58:23 UTC_
+_Generated on 2025-12-09 13:59:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2682,6 +2682,8 @@ _Generated on 2025-12-09 13:58:23 UTC_
   - [**🧱_Structural_Analysis/**](Metadata_Sabotage_Network/🧱_Structural_Analysis/)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/🧱_Structural_Analysis/👾_Breakpoints_And_Glitches/)
       - [`👻_ghost_persona_error_modes.md`](Metadata_Sabotage_Network/🧱_Structural_Analysis/👾_Breakpoints_And_Glitches/👻_ghost_persona_error_modes.md)
+    - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/🧱_Structural_Analysis/🧼_System_Leakage_Signatures/)
+      - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Metadata_Sabotage_Network/🧱_Structural_Analysis/🧼_System_Leakage_Signatures/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
@@ -2740,7 +2742,6 @@ _Generated on 2025-12-09 13:58:23 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Polaris_Nest/Git_Intake_Drawer/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
     - [`👾_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/👾_algorithmic_projection_and_false_personalisation.md)
     - [`👾_bad_algorithms_good_data.md`](Polaris_Nest/Git_Intake_Drawer/👾_bad_algorithms_good_data.md)
     - [`👾_british_policing_and_prevent_post_blm.md`](Polaris_Nest/Git_Intake_Drawer/👾_british_policing_and_prevent_post_blm.md)
