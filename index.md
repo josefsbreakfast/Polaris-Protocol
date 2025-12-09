@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 17:59:43 UTC_
+_Generated on 2025-12-09 18:01:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -199,6 +199,7 @@ _Generated on 2025-12-09 17:59:43 UTC_
         - [`👹_how_predators_weaponise_safeguarding_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👹_how_predators_weaponise_safeguarding_systems.md)
         - [`👾_intent_free_authoritarian_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
         - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)
+        - [`💥_institutional_panic_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_institutional_panic_dynamics.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
         - [`📜_precrime_governance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_precrime_governance_uk.md)
@@ -2775,7 +2776,6 @@ _Generated on 2025-12-09 17:59:43 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
-    - [`💥_institutional_panic_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/💥_institutional_panic_dynamics.md)
     - [`💥_reputational_insurance_collapse_under_narrative_instability.md`](Polaris_Nest/Git_Intake_Drawer/💥_reputational_insurance_collapse_under_narrative_instability.md)
     - [`💥_risk_vector_inversions.md`](Polaris_Nest/Git_Intake_Drawer/💥_risk_vector_inversions.md)
     - [`💥_solidarity_induced_model_failure.md`](Polaris_Nest/Git_Intake_Drawer/💥_solidarity_induced_model_failure.md)
