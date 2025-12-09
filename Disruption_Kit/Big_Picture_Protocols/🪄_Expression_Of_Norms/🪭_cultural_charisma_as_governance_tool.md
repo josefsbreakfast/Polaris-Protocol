@@ -1,5 +1,5 @@
-# 💃 Cultural Charisma as Governance Tool  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-23  
+# 🪭 Cultural Charisma as Governance Tool  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-09  
 *How states use charisma, aesthetics, and cultural delight to maintain legitimacy.*  
 
 ---
@@ -33,8 +33,8 @@ charisma, governance, aesthetics, soft power, legitimacy
 ---
 
 ## 🏮 Footer  
-*💃 Cultural Charisma as Governance Tool* is a living node of the **Polaris Protocol**.
+*🪭 Cultural Charisma as Governance Tool* is a living node of the **Polaris Protocol**.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
