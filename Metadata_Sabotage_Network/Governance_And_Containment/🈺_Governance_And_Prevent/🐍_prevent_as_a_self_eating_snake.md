@@ -1,5 +1,5 @@
 # 🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-09  
 *Why early-detection systems inevitably expand, overreach, and consume their own logic — even without malicious actors.*
 
 ---
@@ -213,9 +213,9 @@ prevent, early detection drift, ouroboros, safeguarding escalation, behavioural 
 ---
 
 ## 🏮 Footer  
-*PREVENT as a Self-Eating Snake (Early Detection Drift)* is a living node of the Polaris Protocol.  
+*🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)* is a living node of the Polaris Protocol.  
 It maps how early-intervention systems drift into overreach, expand their own definitions, and ultimately consume normal behaviour as risk.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
