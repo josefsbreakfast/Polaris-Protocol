@@ -1,5 +1,5 @@
 # 👾 Bad Algorithms, Good Data  
-**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑23  
+**First created:** 2025‑11‑07 | **Last updated:** 2025-12-09  
 *How mediocre models inherit institutional authority.*  
 
 ---
@@ -75,12 +75,6 @@ Treat it as a cautionary node:
 
 👾 Bad Algorithms, Good Data · 🎶 Good Taste vs Surveillance Taste · 🎧 Music as Pipeline – Risk Axis vs Treatment Axis · 🐍 Ouroborotic Violence  
 
-*Linked nodes:*  
-
-- `Disruption_Kit/Algorithmic_Endocrinology/🎶_good_taste_vs_surveillance_taste.md`  
-- `Disruption_Kit/Algorithmic_Endocrinology/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`  
-- `Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_when_violence_becomes_IRL.md`
-
 ---
 
 ## ✨ Stardust  
@@ -96,8 +90,13 @@ It offers a conceptual framework for diagnosing false precision and prescribing 
 
 > 📡 Cross‑references:  
 > 
-> - *(add any related node or folder here when available)*  
+
+*Linked nodes:*  
+
+- `Disruption_Kit/Algorithmic_Endocrinology/🎶_good_taste_vs_surveillance_taste.md`  
+- `Disruption_Kit/Algorithmic_Endocrinology/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`  
+- `Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_when_violence_becomes_IRL.md`
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑23_
+_Last updated: 2025-12-09_
