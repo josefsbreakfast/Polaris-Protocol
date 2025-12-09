@@ -1,5 +1,5 @@
 # 💞 Affective Proxy Substitution — Cross-Gender Misread as Desire  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
 *When one group’s emotional telemetry is projected into another’s feed as a romantic narrative.*  
 
 ---
@@ -63,4 +63,4 @@ It describes how platform algorithms transpose one group’s frustrated or jealo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
