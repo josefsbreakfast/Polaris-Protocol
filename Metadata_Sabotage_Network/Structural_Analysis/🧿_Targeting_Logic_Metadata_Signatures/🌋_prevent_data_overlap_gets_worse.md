@@ -1,5 +1,5 @@
-# 👾 Emergent Predictive Behaviour via University/Vendor Data Overlap
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+# 🌋 PREVENT Data Overlap Gets Worse (Somehow?!)
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How reused datasets, vendor pipelines, and academic analytics accidentally create prediction-like behaviour in UK institutions.*  
 
 ---
@@ -68,7 +68,7 @@ No central actor intends the predictive effect; the system produces it by accumu
 ---
 
 ## Footer
-*Emergent Predictive Behaviour via University/Vendor Data Overlap* is a node in the Governance & Prevent cluster. It documents how cross-use of academic datasets and vendor pipelines produces prediction-like effects that PREVENT then absorbs through practitioner interpretation.
+*🌋 PREVENT Data Overlap Gets Worse (Somehow?!)* is a node in the Governance & Prevent cluster. It documents how cross-use of academic datasets and vendor pipelines produces prediction-like effects that PREVENT then absorbs through practitioner interpretation.
 
 Cross-references:
 - PREVENT as Predictive-Policing Logic in Higher Education
@@ -76,4 +76,4 @@ Cross-references:
 - PREVENT’s Frankenstack Architecture
 - Intent-Free Authoritarian Drift
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
