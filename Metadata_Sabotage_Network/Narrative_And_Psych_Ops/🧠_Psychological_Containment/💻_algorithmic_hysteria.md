@@ -1,5 +1,5 @@
 # 💻 Algorithmic Hysteria  
-**First created:** 2025-10-28 | **Last updated:** 2025-11-24  
+**First created:** 2025-10-28 | **Last updated:** 2025-12-09  
 *When female cognition meets machine misdiagnosis.*  
 
 ---
@@ -217,4 +217,4 @@ It connects the historical misdiagnosis of women’s bodies to the digital misin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
