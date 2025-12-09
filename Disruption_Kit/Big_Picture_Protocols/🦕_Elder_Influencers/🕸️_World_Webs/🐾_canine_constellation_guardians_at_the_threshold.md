@@ -1,5 +1,5 @@
 # 🐾 Canine Constellation: Guardians at the Threshold  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-08  
 *A mythographic mapping of the dog as divine sentinel, psychopomp, and faithful companion — from Mesopotamia to the moors of Britain.*  
 
 ---
@@ -142,4 +142,4 @@ dog myth, guardian archetype, black shuck, cerberus, anubis, chinvat bridge, wil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23 _
+_Last updated: 2025-12-08 _
