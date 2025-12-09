@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:31:52 UTC_
+_Generated on 2025-12-09 14:32:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -385,7 +385,6 @@ _Generated on 2025-12-09 14:31:52 UTC_
         - [`🏛_british_museum_act_1963_futility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏛_british_museum_act_1963_futility.md)
         - [`🐝_sanctions_as_loyalty_test.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐝_sanctions_as_loyalty_test.md)
         - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
-        - [`🐾_greyhound_networks_and_collective_pattern_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐾_greyhound_networks_and_collective_pattern_recognition.md)
         - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
         - [`💌_survivor_consent_is_not_yours.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_survivor_consent_is_not_yours.md)
         - [`💣_the_cultural_bomb.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md)
@@ -981,6 +980,7 @@ _Generated on 2025-12-09 14:31:52 UTC_
         - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
         - [`🐝_volcanic_rest_theory.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐝_volcanic_rest_theory.md)
         - [`🐣_canaries_and_cassandras.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐣_canaries_and_cassandras.md)
+        - [`🐾_greyhound_networks.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐾_greyhound_networks.md)
         - [`🐾_sanctuary_island_project.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐾_sanctuary_island_project.md)
         - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
         - [`💔_on_having_to_announce_ones_goodness.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_on_having_to_announce_ones_goodness.md)
