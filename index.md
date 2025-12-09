@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:32:47 UTC_
+_Generated on 2025-12-09 14:34:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -36,6 +36,7 @@ _Generated on 2025-12-09 14:32:47 UTC_
         - [`🌹_for_the_serious_red_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)
         - [`🐍_ambidextrous_authoritarian_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐍_ambidextrous_authoritarian_recruitment.md)
         - [`🐝_post_protofascist_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md)
+        - [`💍_two_party_system_as_an_old_fashioned_marriage.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💍_two_party_system_as_an_old_fashioned_marriage.md)
         - [`🔥_reform_uk_as_erosion_vector.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🔥_reform_uk_as_erosion_vector.md)
         - [`🖌️_for_the_serious_blue_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
@@ -2755,7 +2756,6 @@ _Generated on 2025-12-09 14:32:47 UTC_
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💍_marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/💍_marriage_as_state_containment_trope.md)
-    - [`💍_two_party_system_as_an_old_fashioned_marriage.md`](Polaris_Nest/Git_Intake_Drawer/💍_two_party_system_as_an_old_fashioned_marriage.md)
     - [`💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md`](Polaris_Nest/Git_Intake_Drawer/💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md)
     - [`💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md`](Polaris_Nest/Git_Intake_Drawer/💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
