@@ -1,5 +1,5 @@
 # 🐾 Animal-Assisted VE Interventions  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-08  
 *A Polaris systems-governance node mapping how operant conditioning with domestic animals becomes conceptualised as an “early-intervention” comfort mechanism around vulnerability/radicalisation pathways — and why this sits outside counter-terrorism bodies entirely.*  
 
 ---
@@ -152,7 +152,7 @@ AAT, trauma stabilisation, operant conditioning, VE vulnerability, animal comfor
 ---
 
 ## 🏮 Footer  
-*Animal-Assisted VE Interventions* clarifies a widely misunderstood therapeutic concept.  
+*🐾 Animal-Assisted VE Interventions* clarifies a widely misunderstood therapeutic concept.  
 It differentiates structured, ethical AAT-style stabilisation from fictionalised security practices and situates the intervention firmly within clinical governance.
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-08_
