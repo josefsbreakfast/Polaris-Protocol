@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 13:10:57 UTC_
+_Generated on 2025-12-09 13:23:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1145,6 +1145,7 @@ _Generated on 2025-12-09 13:10:57 UTC_
         - [`🧭_governance_and_oversight_in_algorithmic_health.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md)
         - [`🪰_digital_deet_algorithmic_invasiveness.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🪰_digital_deet_algorithmic_invasiveness.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md)
+      - [`👁_finch_and_the_limits_of_obedience.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁_finch_and_the_limits_of_obedience.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
@@ -2729,7 +2730,6 @@ _Generated on 2025-12-09 13:10:57 UTC_
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
-    - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
     - [`👁_narrative_inversion_after_boundary_setting.md`](Polaris_Nest/Git_Intake_Drawer/👁_narrative_inversion_after_boundary_setting.md)
     - [`👁‍🗨️_the_boundary_as_border.md`](Polaris_Nest/Git_Intake_Drawer/👁‍🗨️_the_boundary_as_border.md)
     - [`👁️_restoring_epistemic_integrity.md`](Polaris_Nest/Git_Intake_Drawer/👁️_restoring_epistemic_integrity.md)
