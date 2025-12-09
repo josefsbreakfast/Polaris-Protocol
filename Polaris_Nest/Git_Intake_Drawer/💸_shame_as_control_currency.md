@@ -1,5 +1,5 @@
-# 🧩 **Shame as Control Currency — The Architecture of Self-Silencing**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+# 💸 **Shame as Control Currency — The Architecture of Self-Silencing**  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-09  
 *Shame is not an emotion inside abusive systems — it is a programmable currency designed to make people silence, police, and contain themselves.*  
 
 ---
@@ -248,4 +248,4 @@ It expands the mechanics of shame as a systemic tool for controlling behaviour, 
 
 *Survivor authorship is sovereign. Shame dissolves under witness.*
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
