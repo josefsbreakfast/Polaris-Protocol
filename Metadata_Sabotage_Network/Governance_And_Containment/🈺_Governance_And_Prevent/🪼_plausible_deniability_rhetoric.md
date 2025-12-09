@@ -1,5 +1,5 @@
-# 👾 No Plausible Deniability for PREVENT Practitioners  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+# 🪼 Plausible Deniability Rhetoric  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *Why people who sit in or near PREVENT cannot claim ignorance of the system’s harms or consequences.*  
 
 ---
@@ -69,7 +69,7 @@ When practitioners escalate through PREVENT for reasons unrelated to extremism�
 ---
 
 ## Footer
-*No Plausible Deniability for PREVENT Practitioners* is part of the Governance & Prevent cluster.  
+*🪼 Plausible Deniability Rhetoric* is part of the Governance & Prevent cluster.  
 It clarifies why those who escalate concerns through PREVENT must be understood as acting knowingly, not accidentally, when misusing the system.  
 
 > Cross-references:
@@ -79,4 +79,4 @@ It clarifies why those who escalate concerns through PREVENT must be understood 
 > - PREVENT as Tool for Coercive Control
 > - Opportunistic Escalation in Collapsing Systems
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
