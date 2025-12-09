@@ -1,6 +1,5 @@
 # 🗣️ Why Euphemisms Matter  
-
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
+**First created:** 2025-11-02  |  **Last updated:** 2025-12-09  
 *A one-page explainer for partners, journalists, and volunteers on how language shapes consent and why calling things by their names protects everyone.*
 
 ---
@@ -61,9 +60,9 @@ euphemism, framing, linguistic integrity, media literacy, truth telling, civic e
 It provides a simple literacy tool for recognising manipulative framing and restoring factual language in everyday conversation.  
 
 > 📡 Cross-references:  
-> - [📡 Language as Attack Surface](../../Disruption_Kit/Big_Picture_Protocols/📡_language_as_attack_surface.md) — technical base  
-> - [interventions/counterframes.md](../../Disruption_Kit/Big_Picture_Protocols/interventions/counterframes.md) — ready phrasing bank  
+> - [📡 Language as Attack Surface] — technical base  
+> - [interventions/counterframes.md]  — ready phrasing bank  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
