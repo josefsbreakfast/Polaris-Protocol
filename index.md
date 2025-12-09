@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 20:31:35 UTC_
+_Generated on 2025-12-09 23:10:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1160,6 +1160,8 @@ _Generated on 2025-12-09 20:31:35 UTC_
         - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
         - [`🪞_boring_mechanisms_sensational_harms.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🪞_boring_mechanisms_sensational_harms.md)
         - [`🪣_hidden_data_loop_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🪣_hidden_data_loop_audit.md)
+      - [**🕯️_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯️_Exorcising_Safeguarding_Shadows/)
+        - [`💩_why_ctsa2015_violated_every_iicsa_principle.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯️_Exorcising_Safeguarding_Shadows/💩_why_ctsa2015_violated_every_iicsa_principle.md)
       - [**🧬_Algorithmic_Endocrinology/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/README.md)
         - [`🌿_algorithmic_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_algorithmic_ecology.md)
@@ -2792,7 +2794,6 @@ _Generated on 2025-12-09 20:31:35 UTC_
     - [`📉_erosion_of_legitimacy_loops.md`](Polaris_Nest/Git_Intake_Drawer/📉_erosion_of_legitimacy_loops.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📉_signal_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📉_signal_collapse.md)
-    - [`📉_why_ctsa2015_violated_every_iicsa_principle.md`](Polaris_Nest/Git_Intake_Drawer/📉_why_ctsa2015_violated_every_iicsa_principle.md)
     - [`📊_abrahamic_clustering_and_policy_failure.md`](Polaris_Nest/Git_Intake_Drawer/📊_abrahamic_clustering_and_policy_failure.md)
     - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
