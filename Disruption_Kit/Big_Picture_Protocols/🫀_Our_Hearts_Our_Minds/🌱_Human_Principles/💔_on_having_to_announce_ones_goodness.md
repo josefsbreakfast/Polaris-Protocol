@@ -1,5 +1,5 @@
 # 💔 On Having to Announce One’s Goodness  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-06 | **Last updated:** 2025-12-09  
 *When risk systems mistake depth for danger, survival becomes self-narration.*  
 
 ---
@@ -52,4 +52,4 @@ It records the affective toll of governance by suspicion and the small rebellion
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
