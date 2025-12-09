@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:22:15 UTC_
+_Generated on 2025-12-09 18:24:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2484,6 +2484,7 @@ _Generated on 2025-12-09 18:22:15 UTC_
       - [`🧩_repairing_trust_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧩_repairing_trust_chains.md)
       - [`🧱_keystone_dependency_trace.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧱_keystone_dependency_trace.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
+      - [`🩺_containment_catchphrases.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🩺_containment_catchphrases.md)
       - [`🪞_narrative_drift_when_systems_inherit_the_wrong_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)
       - [`🪞_narrative_self_repair_index.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_self_repair_index.md)
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
@@ -2780,7 +2781,6 @@ _Generated on 2025-12-09 18:22:15 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
-    - [`💬_containment_catchphrases_language_of_dismissal.md`](Polaris_Nest/Git_Intake_Drawer/💬_containment_catchphrases_language_of_dismissal.md)
     - [`💬_semantic_echo_from_carceral_noise.md`](Polaris_Nest/Git_Intake_Drawer/💬_semantic_echo_from_carceral_noise.md)
     - [`💬_whistleblowers_as_emergency_governance.md`](Polaris_Nest/Git_Intake_Drawer/💬_whistleblowers_as_emergency_governance.md)
     - [`💰_credibility_brokers_and_golden_eggs.md`](Polaris_Nest/Git_Intake_Drawer/💰_credibility_brokers_and_golden_eggs.md)
