@@ -1,5 +1,5 @@
 # 💥 Reputational Insurance Collapse Under Narrative Instability  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How the failure of narrative models, synthetic personas, and PR simulations destabilises political risk markets, corporate crisis insurance, and reputational underwriting.*
 
 ---
@@ -232,4 +232,4 @@ It sets the stage for nodes on:
 - *Governance Volatility*,  
 - *Insurance Market Withdrawal in High-Narrative-Flux Regimes*.
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
