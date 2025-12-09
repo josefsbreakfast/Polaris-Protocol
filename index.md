@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:38:53 UTC_
+_Generated on 2025-12-09 14:41:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -986,6 +986,7 @@ _Generated on 2025-12-09 14:38:53 UTC_
         - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
         - [`💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md)
         - [`💔_on_having_to_announce_ones_goodness.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_on_having_to_announce_ones_goodness.md)
+        - [`💔_the_women_drafted_into_each_other.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_the_women_drafted_into_each_other.md)
         - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
@@ -2760,7 +2761,6 @@ _Generated on 2025-12-09 14:38:53 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💍_marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/💍_marriage_as_state_containment_trope.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
-    - [`💔_the_women_drafted_into_each_other.md`](Polaris_Nest/Git_Intake_Drawer/💔_the_women_drafted_into_each_other.md)
     - [`💔_when_the_algorithm_thinks_it’s_a_rom_com.md`](Polaris_Nest/Git_Intake_Drawer/💔_when_the_algorithm_thinks_it’s_a_rom_com.md)
     - [`💕_for_the_women_who_suddenly_realise_they_are_here_too.md`](Polaris_Nest/Git_Intake_Drawer/💕_for_the_women_who_suddenly_realise_they_are_here_too.md)
     - [`💗_the_soft_boy_restoration_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💗_the_soft_boy_restoration_protocol.md)
