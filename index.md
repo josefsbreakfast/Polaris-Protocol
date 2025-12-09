@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 17:44:11 UTC_
+_Generated on 2025-12-09 17:46:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -652,6 +652,7 @@ _Generated on 2025-12-09 17:44:11 UTC_
         - [`✂🌹_machine_pruning_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/✂🌹_machine_pruning_logic.md)
         - [`🌿_the_paradox_of_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🌿_the_paradox_of_recognition.md)
         - [`🎶_sonata_server_sympathies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
+        - [`💍_marriage_as_state_containment_trope.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/💍_marriage_as_state_containment_trope.md)
         - [`📚_the_suppressed_scholar.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📚_the_suppressed_scholar.md)
         - [`🔺_triangle_of_accountability_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🔺_triangle_of_accountability_gaps.md)
         - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
@@ -2767,7 +2768,6 @@ _Generated on 2025-12-09 17:44:11 UTC_
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
-    - [`💍_marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/💍_marriage_as_state_containment_trope.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💗_the_soft_boy_restoration_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💗_the_soft_boy_restoration_protocol.md)
     - [`💞_affective_proxy_substitution_cross_gender_misread_as_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md)
