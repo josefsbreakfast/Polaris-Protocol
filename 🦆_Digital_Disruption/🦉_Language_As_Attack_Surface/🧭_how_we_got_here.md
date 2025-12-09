@@ -1,7 +1,6 @@
 # 🧭 How We Got Here  
-
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
-*A brief archaeology of the Polaris Protocol and the refusal that began it.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+*A brief archaeology of the Polaris Protocol and the refusal that began it.*  
 
 ---
 
@@ -61,10 +60,10 @@ origin story, survivor fidelity, memory architecture, containment study, hope, f
 It exists to remember the moment documentation became defence — and to remind future contributors why language is worth guarding.  
 
 > 📡 Cross-references:  
-> - [📡 Language as Attack Surface](../Disruption_Kit/Big_Picture_Protocols/📡_language_as_attack_surface.md) — origin mechanism  
-> - [⚖️ Linguistic Integrity as Security Risk](../Big_Picture_Protocols/⚖️_linguistic_integrity_as_security_risk.md) — policy link  
-> - [🎭 Poets as Primary Targets](../Big_Picture_Protocols/🎭_poets_as_primary_targets.md) — cultural context  
+> - [📡 Language as Attack Surface] — origin mechanism  
+> - [⚖️ Linguistic Integrity as Security Risk] — policy link  
+> - [🎭 Poets as Primary Targets] — cultural context  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
