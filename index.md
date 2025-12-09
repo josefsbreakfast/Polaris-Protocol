@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:01:24 UTC_
+_Generated on 2025-12-09 14:02:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -136,6 +136,7 @@ _Generated on 2025-12-09 14:01:24 UTC_
         - [`🏛️_raac_ruins_squad.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🏛️_raac_ruins_squad.md)
         - [`👁️_restoring_epistemic_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👁️_restoring_epistemic_integrity.md)
         - [`👑_asserting_sovereignty_after_allied_interference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
+        - [`👑_soft_power_accountability_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
@@ -332,9 +333,6 @@ _Generated on 2025-12-09 14:01:24 UTC_
         - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
         - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
-    - [**🌀_Systems_&_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_Systems_&_Governance/)
-      - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_Systems_&_Governance/👑_Ownership_Control/)
-        - [`👑_soft_power_accountability_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_Systems_&_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**💔_Violence_IRL/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)
