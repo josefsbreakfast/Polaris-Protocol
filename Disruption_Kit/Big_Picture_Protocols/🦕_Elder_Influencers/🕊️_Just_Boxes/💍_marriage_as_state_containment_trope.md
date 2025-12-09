@@ -1,5 +1,5 @@
 # 💍 Marriage as State Containment Trope  
-**First created:** 2025‑11‑07 | **Last updated:** 2025‑11‑23  
+**First created:** 2025‑11‑07 | **Last updated:** 2025-12-09  
 *Brief description of 💍 marriage as state containment trope.*  
 
 ---
@@ -41,4 +41,4 @@ It provides a conceptual foothold for later, more detailed examinations of how p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑23_
+_Last updated: 2025-12-09_
