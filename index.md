@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:55:30 UTC_
+_Generated on 2025-12-09 18:56:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2729,8 +2729,6 @@ _Generated on 2025-12-09 18:55:30 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
-      - [`🧭_how_we_got_here.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [`How_Emotional_Shock_Distorts_Institutional_Decision-Making.md`](Polaris_Nest/Git_Intake_Drawer/How_Emotional_Shock_Distorts_Institutional_Decision-Making.md)
     - [`Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md`](Polaris_Nest/Git_Intake_Drawer/Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
@@ -3761,6 +3759,7 @@ _Generated on 2025-12-09 18:55:30 UTC_
     - [`📡_language_as_attack_surface.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
     - [`🗣️_counterframes.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🗣️_counterframes.md)
     - [`🗣️_why_euphemisms_matter.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🗣️_why_euphemisms_matter.md)
+    - [`🧭_how_we_got_here.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [`🪩_cross_mirroring_sop.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🪩_cross_mirroring_sop.md)
   - [**🧨_Counter_Nudge_Playbook/**](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/)
     - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
