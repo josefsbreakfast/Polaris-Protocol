@@ -1,5 +1,5 @@
 # 💬 Whistleblowers as Emergency Governance  
-**First created:** 2025‑11‑02 | **Last updated:** 2025‑11‑24  
+**First created:** 2025‑11‑02 | **Last updated:** 2025-12-09  
 *Informal disclosure as the last remaining oversight mechanism.*  
 
 ---
@@ -79,12 +79,6 @@ Whistleblowers are democracy’s arrhythmic heartbeat — irregular, alarming, b
 
 💬 Emergency Governance · 🧩 Accountability Failures · 📉 Erosion of Legitimacy Loops · 🕳️ Social Memory of Impunity · 📮 Disclosure Culture  
 
-*Linked nodes:*  
-
-- `System_Governance/Trust_Decay/🧩_accountability_failures_and_public_trust.md`  
-- `System_Governance/Trust_Decay/📉_erosion_of_legitimacy_loops.md`  
-- `Metadata_Sabotage_Network/Narrative_And_Psych_Ops/📮_answers_on_a_postcard.md`  
-
 ---
 
 ## ✨ Stardust  
@@ -95,7 +89,7 @@ whistleblowing, trust decay, emergency governance, civic integrity, informal dis
 
 ## 🏮 Footer  
 
-*💬 Whistleblowers as Emergency Governance* is a living node of the **Polaris Protocol** that maps how informal disclosures function as the final safety valve of democratic oversight when formal mechanisms break down. It offers a conceptual scaffold for analyzing the paradoxes, cultural narratives, and protective architectures surrounding whistleblowing.
+*🌋 Whistleblowers as Emergency Governance* is a living node of the **Polaris Protocol** that maps how informal disclosures function as the final safety valve of democratic oversight when formal mechanisms break down. It offers a conceptual scaffold for analyzing the paradoxes, cultural narratives, and protective architectures surrounding whistleblowing.
 
 > 📡 Cross‑references:  
 > 
@@ -106,4 +100,4 @@ whistleblowing, trust decay, emergency governance, civic integrity, informal dis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑24_
+_Last updated: 2025-12-09_
