@@ -1,7 +1,6 @@
-# 🧾 Archive Capture Template  
-
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*Standard operating procedure for capturing, verifying, and mirroring linguistic-evidence files.*
+# 🏛️ Archive Capture Template  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+*Standard operating procedure for capturing, verifying, and mirroring linguistic-evidence files.*  
 
 ---
 
@@ -81,13 +80,13 @@ archive integrity, capture protocol, digital verification, chain of custody, met
 
 ## 🏮 Footer  
 
-*🧾 Archive Capture Template* is a living procedural node of the Polaris Protocol.  
+*🏛️ Archive Capture Template* is a living procedural node of the Polaris Protocol.  
 It ensures that captured linguistic evidence remains verifiable, reproducible, and admissible.  
 
 > 📡 Cross-references:  
-> - [📡 Language as Attack Surface](../📡_language_as_attack_surface.md) — source node  
-> - [watchlist/frame_drift_watchlist.yaml](../watchlist/frame_drift_watchlist.yaml) — referenced IDs  
+> - [📡 Language as Attack Surface] — source node  
+> - [watchlist/frame_drift_watchlist.yaml] — referenced IDs  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
