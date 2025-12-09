@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 19:39:37 UTC_
+_Generated on 2025-12-09 19:58:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -46,6 +46,7 @@ _Generated on 2025-12-09 19:39:37 UTC_
         - [`🕊️_dickin_medal_holders.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_dickin_medal_holders.md)
         - [`🕊️_gustav_and_the_network_of_impossible_messengers.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)
         - [`🛩️_the_april_fools_department_of_defence.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🛩️_the_april_fools_department_of_defence.md)
+        - [`🦑_state_of_the_deep.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_state_of_the_deep.md)
         - [`🦑_the_fathom_response_to_containment_phase_3.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_the_fathom_response_to_containment_phase_3.md)
         - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🪖_applied_demolition_science_and_the_gcse_problem.md)
       - [**🦤_Potential_Dodos/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/)
