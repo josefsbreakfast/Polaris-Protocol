@@ -1,5 +1,5 @@
 # 💞 Queer Theory as Relational Literacy  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *Queer theory as everyday emotional and structural competence.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🛰️ Orientation
 Queer theory is often misrepresented as academic identity discourse, but its deepest contributions are practical: learning how to relate across difference, negotiate care, manage power, and recognise fluidity in human needs. These are the same skills that sustain marriages, friendships, families, and healthy communities.
 
-This node frames queer theory as a toolkit for relational hygiene.
+This node frames queer theory as a toolkit for relational hygiene.  
 
 ---
 
@@ -57,4 +57,4 @@ It positions queer theory as foundational to sustainable human connection.
 > - [📿 Strength as Gihasta]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
