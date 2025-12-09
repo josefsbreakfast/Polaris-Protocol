@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:14:19 UTC_
+_Generated on 2025-12-09 14:16:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2545,6 +2545,7 @@ _Generated on 2025-12-09 14:14:19 UTC_
       - [`⚖️_dob_triangulation_table.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚖️_dob_triangulation_table.md)
       - [`⚡️_crackling_channels.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/⚡️_crackling_channels.md)
       - [`🌋_contesting_signature_inclusion.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌋_contesting_signature_inclusion.md)
+      - [`🌋_prevent_data_overlap_gets_worse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌋_prevent_data_overlap_gets_worse.md)
       - [`🌐_global_migration_of_signatures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌐_global_migration_of_signatures.md)
       - [`🍉_civic_participation_and_ai_risk_classification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🍉_civic_participation_and_ai_risk_classification.md)
       - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
@@ -2745,7 +2746,6 @@ _Generated on 2025-12-09 14:14:19 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👾_prevent_data_overlap_gets_worse.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_data_overlap_gets_worse.md)
     - [`👾_prevent_misreads.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads.md)
     - [`👾_prevent_misreads_the_poors.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads_the_poors.md)
     - [`👾_prevent_plausible_deniability_rhetoric.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_plausible_deniability_rhetoric.md)
