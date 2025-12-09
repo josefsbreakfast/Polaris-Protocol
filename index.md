@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 13:23:47 UTC_
+_Generated on 2025-12-09 13:26:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2586,6 +2586,8 @@ _Generated on 2025-12-09 13:23:47 UTC_
       - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
+  - [**🎭_Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/)
+    - [`🪆_narrative_inversion_after_boundary_setting.md`](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_narrative_inversion_after_boundary_setting.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
     - [`🀄_play_foia_moj_edition.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🀄_play_foia_moj_edition.png)
@@ -2730,7 +2732,6 @@ _Generated on 2025-12-09 13:23:47 UTC_
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
-    - [`👁_narrative_inversion_after_boundary_setting.md`](Polaris_Nest/Git_Intake_Drawer/👁_narrative_inversion_after_boundary_setting.md)
     - [`👁‍🗨️_the_boundary_as_border.md`](Polaris_Nest/Git_Intake_Drawer/👁‍🗨️_the_boundary_as_border.md)
     - [`👁️_restoring_epistemic_integrity.md`](Polaris_Nest/Git_Intake_Drawer/👁️_restoring_epistemic_integrity.md)
     - [`👅_gendered_racial_pivot.md`](Polaris_Nest/Git_Intake_Drawer/👅_gendered_racial_pivot.md)
