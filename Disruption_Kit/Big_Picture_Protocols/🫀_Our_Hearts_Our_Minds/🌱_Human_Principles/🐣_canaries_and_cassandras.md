@@ -59,7 +59,7 @@ The node contributes to the **Body Politic** cluster, aligning prophetic sensiti
 
 > 📡 Cross-references:
 > 
-> - [🧬 Therapeutic Resistance as Acquired Immunity](../🧬_therapeutic_resistance_as_acquired_immunity.md) — *meta-trauma and mistrust antibodies*  
+> - [🧬 Therapeutic Resistance as Acquired Immunity] — *meta-trauma and mistrust antibodies*  
 > - [🧾 Credibility Logs — The Forensics of Restoration] — *timestamping survivor evidence*  
 > - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *meta-oversight and reflexive ethics*  
 
