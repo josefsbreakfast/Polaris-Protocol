@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:18:34 UTC_
+_Generated on 2025-12-09 14:20:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2321,6 +2321,7 @@ _Generated on 2025-12-09 14:18:34 UTC_
       - [`👾_post_carceral_era_counter_extremism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_post_carceral_era_counter_extremism.md)
       - [`👾_prevent_as_national_behaviour_dampener.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_prevent_as_national_behaviour_dampener.md)
       - [`👾_prevent_as_tool_for_coercive_control.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_prevent_as_tool_for_coercive_control.md)
+      - [`💰_prevent_misreads_the_poors.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💰_prevent_misreads_the_poors.md)
       - [`💼_industry_capture_identity_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)
       - [`📊_id_claims_vs_realities.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📊_id_claims_vs_realities.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
@@ -2747,7 +2748,6 @@ _Generated on 2025-12-09 14:18:34 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👾_prevent_misreads_the_poors.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_misreads_the_poors.md)
     - [`👾_prevent_plausible_deniability_rhetoric.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_plausible_deniability_rhetoric.md)
     - [`👾_we_are_citizens_not_datasets.md`](Polaris_Nest/Git_Intake_Drawer/👾_we_are_citizens_not_datasets.md)
     - [`👾_what_robots_did_to_words.md`](Polaris_Nest/Git_Intake_Drawer/👾_what_robots_did_to_words.md)
