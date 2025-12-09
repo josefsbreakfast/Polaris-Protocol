@@ -1,5 +1,5 @@
 # 🐣 Canaries and Cassandras — Early Warnings in a System That Won’t Listen  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-12-09  
 *The emotional and epistemic cost of being right too early.*  
 
 ---
@@ -57,11 +57,12 @@ whistleblowers, foresight, hypervigilance, canary syndrome, prophecy, institutio
 It honours those whose sensitivity exposes hidden toxicity and reframes early distress as civic data.  
 The node contributes to the **Body Politic** cluster, aligning prophetic sensitivity with governance design.
 
-> 📡 Cross-references:  
-> - [🧬 Therapeutic Resistance as Acquired Immunity](/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_therapeutic_resistance_as_acquired_immunity.md) — meta-trauma and mistrust antibodies  
-> - [🧾 Credibility Logs — The Forensics of Restoration](/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧾_credibility_logs_the_forensics_of_restoration.md) — timestamping survivor evidence  
-> - [🧿 Watch the Watchers](/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — meta-oversight and reflexive ethics  
+> 📡 Cross-references:
+> 
+> - [🧬 Therapeutic Resistance as Acquired Immunity](../🧬_therapeutic_resistance_as_acquired_immunity.md) — *meta-trauma and mistrust antibodies*  
+> - [🧾 Credibility Logs — The Forensics of Restoration] — *timestamping survivor evidence*  
+> - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *meta-oversight and reflexive ethics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
