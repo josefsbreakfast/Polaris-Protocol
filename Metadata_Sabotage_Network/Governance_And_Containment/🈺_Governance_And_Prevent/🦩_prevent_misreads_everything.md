@@ -1,5 +1,5 @@
-# 👾 PREVENT Misreads: Trauma, ND Traits, Distress, Anger  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+# 🦩 PREVENT Misreads Everything
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How ordinary emotional, neurological, and trauma-driven behaviours are misinterpreted as ideological risk.*  
 
 ---
@@ -78,7 +78,7 @@ Misreads erode the legitimacy of PREVENT and damage relationships between commun
 ---
 
 ## Footer
-PREVENT Misreads: Trauma, ND Traits, Distress, Anger is a node in the Governance & Prevent cluster. It documents systemic misinterpretation patterns and highlights how subjective assessment creates disproportionate harm for traumatised, neurodivergent, distressed, or emotionally expressive individuals.
+*🦩 PREVENT Misreads Everything* is a node in the Governance & Prevent cluster. It documents systemic misinterpretation patterns and highlights how subjective assessment creates disproportionate harm for traumatised, neurodivergent, distressed, or emotionally expressive individuals.
 
 > Cross-references:
 > 
@@ -87,4 +87,4 @@ PREVENT Misreads: Trauma, ND Traits, Distress, Anger is a node in the Governance
 > - No Plausible Deniability for PREVENT Practitioners
 > - PREVENT as Tool for Coercive Control
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
