@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 13:49:50 UTC_
+_Generated on 2025-12-09 13:53:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2592,6 +2592,8 @@ _Generated on 2025-12-09 13:49:50 UTC_
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**🎭_Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/)
+    - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
+      - [`👅_gendered_racial_pivot.md`](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/👅_gendered_racial_pivot.md)
     - [`🪆_narrative_inversion_after_boundary_setting.md`](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_narrative_inversion_after_boundary_setting.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
@@ -2736,7 +2738,6 @@ _Generated on 2025-12-09 13:49:50 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👅_gendered_racial_pivot.md`](Polaris_Nest/Git_Intake_Drawer/👅_gendered_racial_pivot.md)
     - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/👑_soft_power_accountability_gap.md)
     - [`👻_ghost_persona_error_modes.md`](Polaris_Nest/Git_Intake_Drawer/👻_ghost_persona_error_modes.md)
     - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Polaris_Nest/Git_Intake_Drawer/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
