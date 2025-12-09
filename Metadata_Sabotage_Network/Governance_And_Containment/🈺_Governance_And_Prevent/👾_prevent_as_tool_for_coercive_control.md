@@ -1,5 +1,5 @@
 # 👾 PREVENT as Tool for Coercive Control  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How individuals can exploit PREVENT’s structural weaknesses to intimidate, destabilise, or silence others.*  
 
 ---
@@ -83,7 +83,7 @@ PREVENT was not designed to be part of interpersonal abuse, but its structure al
 ---
 
 ## Footer
-*PREVENT as Tool for Coercive Control* is part of the Governance & Prevent cluster. It documents the systemic vulnerabilities that enable PREVENT to be misused within coercive dynamics, and highlights the ways subjective criteria and multi-agency escalation amplify interpersonal harm.
+*👾 PREVENT as Tool for Coercive Control* is part of the Governance & Prevent cluster. It documents the systemic vulnerabilities that enable PREVENT to be misused within coercive dynamics, and highlights the ways subjective criteria and multi-agency escalation amplify interpersonal harm.
 
 > Cross-references:
 > 
@@ -92,4 +92,4 @@ PREVENT was not designed to be part of interpersonal abuse, but its structure al
 > - PREVENT as National Behaviour Dampener
 > - Opportunistic Escalation in Collapsing Systems
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
