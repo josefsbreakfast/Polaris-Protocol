@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:48:33 UTC_
+_Generated on 2025-12-09 18:49:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2730,7 +2730,6 @@ _Generated on 2025-12-09 18:48:33 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
-      - [`flagging_incident_report.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/flagging_incident_report.md)
       - [`what_they_now_call_X.csv`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/what_they_now_call_X.csv)
       - [`why_euphemisms_matter.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/why_euphemisms_matter.md)
       - [`⚖️_linguistic_integrity_as_security_risk.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
@@ -3759,6 +3758,7 @@ _Generated on 2025-12-09 18:48:33 UTC_
   - [**🦉_Language_As_Attack_Surface/**](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/)
     - [`README.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md)
     - [`frame_drift_watchlist.yaml`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/frame_drift_watchlist.yaml)
+    - [`⚖️_legal_flagging_incident_report.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_legal_flagging_incident_report.md)
     - [`🏛️_archive_capture_template.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🏛️_archive_capture_template.md)
     - [`🗣️_counterframes.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🗣️_counterframes.md)
     - [`🪩_cross_mirroring_sop.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🪩_cross_mirroring_sop.md)
