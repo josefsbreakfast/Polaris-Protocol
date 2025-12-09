@@ -1,4 +1,4 @@
-# 🐝 **Sanctions as Loyalty Test — When ‘Dialogue’ Prevents Action**  
+# 🐝 Sanctions as Loyalty Test — When ‘Dialogue’ Prevents Action  
 **First created:** 2025-11-22 | **Last updated:** 2025-12-09  
 *When “dialogue” and “remembrance” are used to prevent action — and to test who will comply with power.*
 
