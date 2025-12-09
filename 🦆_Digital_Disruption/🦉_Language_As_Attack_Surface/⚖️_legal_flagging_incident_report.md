@@ -1,6 +1,5 @@
 # ⚖️ Legal Flagging Incident Report  
-
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
 *Minimal reporting template for escalating linguistic-incitement or hate-speech events to legal or advocacy partners.*
 
 ---
@@ -90,11 +89,12 @@ legal escalation, hate speech, incitement, evidence chain, accountability, digit
 *⚖️ Legal Flagging Incident Report* is a procedural node of the Polaris Protocol.  
 It formalises documentation and escalation of linguistic harm for coordinated legal response.  
 
-> 📡 Cross-references:  
-> - [🧾 Archive Capture Template](../../Disruption_Kit/Big_Picture_Protocols/templates/archive_capture_template.md) — capture protocol  
-> - [watchlist/frame_drift_watchlist.yaml](../../Disruption_Kit/Big_Picture_Protocols/watchlist/frame_drift_watchlist.yaml) — flagged phrases  
-> - [🪞 Cross-Mirroring SOP](../archives/cross_mirroring_sop.md) — redundancy procedure  
+> 📡 Cross-references:
+> 
+> - [🧾 Archive Capture Template] — capture protocol  
+> - [watchlist/frame_drift_watchlist.yaml] — flagged phrases  
+> -  Cross-Mirroring SOP] — redundancy procedure  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
