@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 17:47:44 UTC_
+_Generated on 2025-12-09 17:49:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2468,6 +2468,7 @@ _Generated on 2025-12-09 17:47:44 UTC_
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💔_manufactured_intimacy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💔_manufactured_intimacy.md)
       - [`💔_when_the_algorithm_thinks_its_a_rom_com.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💔_when_the_algorithm_thinks_its_a_rom_com.md)
+      - [`💞_affective_proxy_substitution.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💞_affective_proxy_substitution.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
@@ -2770,7 +2771,6 @@ _Generated on 2025-12-09 17:47:44 UTC_
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
-    - [`💞_affective_proxy_substitution_cross_gender_misread_as_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md)
     - [`💞_connection_as_leverage.md`](Polaris_Nest/Git_Intake_Drawer/💞_connection_as_leverage.md)
     - [`💞_queer_theory_as_relational_literacy.md`](Polaris_Nest/Git_Intake_Drawer/💞_queer_theory_as_relational_literacy.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
