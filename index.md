@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 10:39:58 UTC_
+_Generated on 2025-12-09 10:41:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2431,6 +2431,7 @@ _Generated on 2025-12-09 10:39:58 UTC_
       - [`🏛️_50_shades_of_avoiding_damages.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🏛️_50_shades_of_avoiding_damages.md)
       - [`🐈_kylo_ren_as_algorithmically_misclassified_softboy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)
       - [`🐉_she_is_a_dragon_a_corrective_mythology_for_thin_data_worlds.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_she_is_a_dragon_a_corrective_mythology_for_thin_data_worlds.md)
+      - [`🐍_survivor_voice_misread_as_intensity.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐍_survivor_voice_misread_as_intensity.md)
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
@@ -2710,7 +2711,6 @@ _Generated on 2025-12-09 10:39:58 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
-    - [`🐍_survivor_voice_misread_as_intensity.md`](Polaris_Nest/Git_Intake_Drawer/🐍_survivor_voice_misread_as_intensity.md)
     - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_vulnerability_manufacture_to_enmeshment.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
