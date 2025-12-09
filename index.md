@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 17:51:29 UTC_
+_Generated on 2025-12-09 17:54:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -503,6 +503,7 @@ _Generated on 2025-12-09 17:51:29 UTC_
         - [`💄_plastic_masculinity_knives.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
         - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
         - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
+        - [`💞_connection_as_leverage.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💞_connection_as_leverage.md)
         - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
         - [`📣_mainstream_visibility_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📣_mainstream_visibility_gaps.md)
         - [`📱_algorithmic_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📱_algorithmic_recruitment.md)
@@ -2772,7 +2773,6 @@ _Generated on 2025-12-09 17:51:29 UTC_
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
-    - [`💞_connection_as_leverage.md`](Polaris_Nest/Git_Intake_Drawer/💞_connection_as_leverage.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💣_trident_as_modern_kraken_security_theatre.md`](Polaris_Nest/Git_Intake_Drawer/💣_trident_as_modern_kraken_security_theatre.md)
     - [`💥_institutional_panic_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/💥_institutional_panic_dynamics.md)
