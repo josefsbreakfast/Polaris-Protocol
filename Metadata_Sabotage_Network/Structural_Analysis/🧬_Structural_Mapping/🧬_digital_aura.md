@@ -1,6 +1,6 @@
 # 🧬 Digital Aura  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*The subtle behavioural halo each person emits through everyday digital interactions.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-09  
+*The subtle behavioural halo each person emits through everyday digital interactions.*  
 
 ---
 
@@ -78,9 +78,9 @@ digital aura, behavioural trace, interaction signature, emotional rhythm, modern
 ---
 
 ## 🏮 Footer  
-*Digital Aura* is a living node of the Polaris Protocol.  
+*🧬 Digital Aura* is a living node of the Polaris Protocol.  
 It conceptualises the soft glow of human behaviour in digital environments without implying surveillance, targeting, or risk.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-09_
