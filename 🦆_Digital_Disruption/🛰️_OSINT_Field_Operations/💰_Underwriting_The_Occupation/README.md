@@ -1,5 +1,5 @@
 # 💰 Underwriting the Occupation  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-04 | **Last updated:** 2025-12-09  
 *Following the money without following the stereotype.*  
 
 ---
@@ -173,4 +173,4 @@ It examines how containment regimes are maintained through fiscal instruments an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
