@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:07:21 UTC_
+_Generated on 2025-12-09 18:11:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2497,6 +2497,7 @@ _Generated on 2025-12-09 18:07:21 UTC_
       - [`🐍_algorithmic_hostage_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md)
       - [`👻_ghost_persona_error_modes.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👻_ghost_persona_error_modes.md)
       - [`👾_algorithmic_projection_and_false_personalisation.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👾_algorithmic_projection_and_false_personalisation.md)
+      - [`💥_solidarity_induced_model_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/💥_solidarity_induced_model_failure.md)
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
@@ -2778,7 +2779,6 @@ _Generated on 2025-12-09 18:07:21 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
-    - [`💥_solidarity_induced_model_failure.md`](Polaris_Nest/Git_Intake_Drawer/💥_solidarity_induced_model_failure.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💫_the_middle_register.md`](Polaris_Nest/Git_Intake_Drawer/💫_the_middle_register.md)
     - [`💬_containment_catchphrases_language_of_dismissal.md`](Polaris_Nest/Git_Intake_Drawer/💬_containment_catchphrases_language_of_dismissal.md)
