@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 13:43:20 UTC_
+_Generated on 2025-12-09 13:46:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2442,6 +2442,7 @@ _Generated on 2025-12-09 13:43:20 UTC_
       - [`🐈_kylo_ren_as_algorithmically_misclassified_softboy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)
       - [`🐉_she_is_a_dragon_a_corrective_mythology_for_thin_data_worlds.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_she_is_a_dragon_a_corrective_mythology_for_thin_data_worlds.md)
       - [`🐍_survivor_voice_misread_as_intensity.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐍_survivor_voice_misread_as_intensity.md)
+      - [`👁‍🗨_the_boundary_as_border.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/👁‍🗨_the_boundary_as_border.md)
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
@@ -2732,7 +2733,6 @@ _Generated on 2025-12-09 13:43:20 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👁‍🗨️_the_boundary_as_border.md`](Polaris_Nest/Git_Intake_Drawer/👁‍🗨️_the_boundary_as_border.md)
     - [`👁️_restoring_epistemic_integrity.md`](Polaris_Nest/Git_Intake_Drawer/👁️_restoring_epistemic_integrity.md)
     - [`👅_gendered_racial_pivot.md`](Polaris_Nest/Git_Intake_Drawer/👅_gendered_racial_pivot.md)
     - [`👑_soft_power_accountability_gap.md`](Polaris_Nest/Git_Intake_Drawer/👑_soft_power_accountability_gap.md)
