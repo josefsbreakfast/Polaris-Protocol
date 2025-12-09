@@ -15,3 +15,9 @@ almost as good as our high-penile-anxiety spoof email realisation.
 istg the world would be so much easier in the men just went to the gp more than once every 10 years.  
 
 ---
+
+also much lol re the rn update.  
+
+beautiful coincidence and it did make me laugh.  
+
+---
