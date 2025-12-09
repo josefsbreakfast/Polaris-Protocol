@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:52:12 UTC_
+_Generated on 2025-12-09 18:54:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2730,8 +2730,6 @@ _Generated on 2025-12-09 18:52:12 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
-      - [`🎭_poets_as_primary_targets.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
-      - [`📊_daily_watchlist.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📊_daily_watchlist.md)
       - [`📡_language_as_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
       - [`🧭_how_we_got_here.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [`How_Emotional_Shock_Distorts_Institutional_Decision-Making.md`](Polaris_Nest/Git_Intake_Drawer/How_Emotional_Shock_Distorts_Institutional_Decision-Making.md)
@@ -3758,7 +3756,9 @@ _Generated on 2025-12-09 18:52:12 UTC_
     - [`what_they_now_call_X.csv`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/what_they_now_call_X.csv)
     - [`⚖️_legal_flagging_incident_report.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_legal_flagging_incident_report.md)
     - [`⚖️_linguistic_integrity_as_security_risk.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
+    - [`🎭_poets_as_primary_targets.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
     - [`🏛️_archive_capture_template.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🏛️_archive_capture_template.md)
+    - [`📊_daily_watchlist.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/📊_daily_watchlist.md)
     - [`🗣️_counterframes.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🗣️_counterframes.md)
     - [`🗣️_why_euphemisms_matter.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🗣️_why_euphemisms_matter.md)
     - [`🪩_cross_mirroring_sop.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🪩_cross_mirroring_sop.md)
