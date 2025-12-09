@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:00:58 UTC_
+_Generated on 2025-12-09 14:01:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2511,6 +2511,7 @@ _Generated on 2025-12-09 14:00:58 UTC_
       - [`🌐_post_digital_data_drift_mechanisms.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌐_post_digital_data_drift_mechanisms.md)
       - [`🌩️_leakage_chronology_forecasting.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌩️_leakage_chronology_forecasting.md)
       - [`🎈_intentional_leak_hypothesis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🎈_intentional_leak_hypothesis.md)
+      - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
       - [`👻_template_ghosts.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_template_ghosts.md)
       - [`👾_temporal_glitches.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_temporal_glitches.md)
       - [`💔_shared_vendor_anomalies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💔_shared_vendor_anomalies.md)
@@ -2680,9 +2681,6 @@ _Generated on 2025-12-09 14:00:58 UTC_
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
       - [`🫥_dry_humour_as_data_loss.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🫥_dry_humour_as_data_loss.md)
     - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
-  - [**🧱_Structural_Analysis/**](Metadata_Sabotage_Network/🧱_Structural_Analysis/)
-    - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/🧱_Structural_Analysis/🧼_System_Leakage_Signatures/)
-      - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Metadata_Sabotage_Network/🧱_Structural_Analysis/🧼_System_Leakage_Signatures/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
