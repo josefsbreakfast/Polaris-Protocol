@@ -1,5 +1,5 @@
 # 💔 The Women Drafted Into Each Other  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-09  
 *For the women groomed into the back rooms—used to watch, manage, or contain other women.*
 
 ---
@@ -108,10 +108,11 @@ women, grooming, containment, back rooms, auxiliaries, emotional labour, surveil
 It documents the recruitment of women into emotional-surveillance and harm-transfer roles—naming a hidden architecture of patriarchy that pits women against one another through obligation rather than malice.
 
 > 📡 Cross-references:
-> - [🪆 Narrative Interference](../🛰️_Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/)  
-- [🌙 Everyday Containment](../🌸_Containment_Studies/🌙_Everyday_Containment/)  
-- [🐝 All In Commons](../🦆_Digital_Disruption/🐝_All_In_Commons/)  
+> 
+> - [🪆 Narrative Interference]  
+> - [🌙 Everyday Containment]  
+> - [🐝 All In Commons]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
