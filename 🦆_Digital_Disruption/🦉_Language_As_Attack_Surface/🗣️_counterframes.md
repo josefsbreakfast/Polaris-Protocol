@@ -1,7 +1,6 @@
 # 🗣️ Counterframes Bank  
-
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
-*Concise reframings that restore factual language and emotional clarity when euphemisms spread.*
+**First created:** 2025-11-02  |  **Last updated:** 2025-12-09  
+*Concise reframings that restore factual language and emotional clarity when euphemisms spread.*  
 
 ---
 
@@ -63,11 +62,12 @@ counter-frame, memetic resistance, reframing, euphemism exposure, language integ
 *🗣️ Counterframes Bank* is a living node of the Polaris Protocol.  
 It catalogues ready-to-use reframings that restore truth to public language and support collaborative counter-propaganda operations.  
 
-> 📡 Cross-references:  
-> - [📡 Language as Attack Surface](../📡_language_as_attack_surface.md) — origin analysis  
-> - [glossary/what_they_now_call_X.csv](../glossary/what_they_now_call_X.csv) — source ledger  
-> - [watchlist/frame_drift_watchlist.yaml](../watchlist/frame_drift_watchlist.yaml) — monitoring entries  
+> 📡 Cross-references:
+> 
+> - [📡 Language as Attack Surface] — origin analysis  
+> - [glossary/what_they_now_call_X.csv] — source ledger  
+> - [watchlist/frame_drift_watchlist.yaml] — monitoring entries  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
