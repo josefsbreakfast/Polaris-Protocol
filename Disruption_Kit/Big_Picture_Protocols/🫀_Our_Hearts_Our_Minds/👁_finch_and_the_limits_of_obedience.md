@@ -1,5 +1,5 @@
 # 👁 Finch and the Limits of Obedience
-**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-09  
 *How ordinary work cultures create moral lag — and how people inside systems find their line.*  
 
 ---
@@ -85,10 +85,11 @@ moral lag, bureaucratic obedience, projection bias, complicity gradient, quiet r
 *👁 Finch and the Limits of Obedience* is a living node of the Polaris Protocol.  
 It offers language and cues for people inside institutions to recognise when professionalism has become participation.
 
-> 📡 Cross-references:  
-> - [🧵 Overproduction as Human Boredom Response] — creative motion under containment  
-> - [🎙 The Silence After Command] — de-escalation by absence
+> 📡 Cross-references:
+> 
+> - [🧵 Overproduction as Human Boredom Response] — *creative motion under containment*  
+> - [🎙 The Silence After Command] — *de-escalation by absence*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
