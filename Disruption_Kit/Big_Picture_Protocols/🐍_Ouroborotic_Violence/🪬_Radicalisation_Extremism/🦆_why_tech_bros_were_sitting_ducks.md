@@ -1,5 +1,5 @@
-# 💻 Why Tech Bros Were the Perfect Target  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-24  
+# 🦆 Why Tech Bros Were Sitting Ducks  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-09  
 *How a generation of clever, lonely, emotionally earnest men became the ideal demographic for extremist grooming.*  
 
 ---
@@ -215,7 +215,7 @@ The system that targeted them was.
 ---
 
 ## 🏮 Footer  
-*💻 Why Tech Bros Were the Perfect Target* is a living node of the Polaris Protocol.  
+*🦆 Why Tech Bros Were Sitting Ducks* is a living node of the Polaris Protocol.  
 It reframes alt-right recruitment not as an inevitability, but as a deliberate exploitation of unmet emotional needs within a generation of soft, intelligent, digitally raised boys.
 
 > 📡 Cross-references:
@@ -226,4 +226,4 @@ It reframes alt-right recruitment not as an inevitability, but as a deliberate e
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
