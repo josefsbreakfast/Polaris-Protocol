@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:40:46 UTC_
+_Generated on 2025-12-09 18:42:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -508,6 +508,7 @@ _Generated on 2025-12-09 18:40:46 UTC_
         - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
         - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
         - [`💞_connection_as_leverage.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💞_connection_as_leverage.md)
+        - [`💸_shame_as_control_currency_the_architecture_of_self_silencing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💸_shame_as_control_currency_the_architecture_of_self_silencing.md)
         - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
         - [`📣_mainstream_visibility_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📣_mainstream_visibility_gaps.md)
         - [`📱_algorithmic_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📱_algorithmic_recruitment.md)
@@ -2788,7 +2789,6 @@ _Generated on 2025-12-09 18:40:46 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`💸_shame_as_control_currency.md`](Polaris_Nest/Git_Intake_Drawer/💸_shame_as_control_currency.md)
     - [`💻_algorithmic_hysteria.md`](Polaris_Nest/Git_Intake_Drawer/💻_algorithmic_hysteria.md)
     - [`💻_why_tech_bros_were_the_perfect_target.md`](Polaris_Nest/Git_Intake_Drawer/💻_why_tech_bros_were_the_perfect_target.md)
     - [`📄_the_form_and_the_feeling.md`](Polaris_Nest/Git_Intake_Drawer/📄_the_form_and_the_feeling.md)
