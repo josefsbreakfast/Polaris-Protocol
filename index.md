@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:02:48 UTC_
+_Generated on 2025-12-09 18:07:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2573,6 +2573,7 @@ _Generated on 2025-12-09 18:02:48 UTC_
       - [`🌐_global_migration_of_signatures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌐_global_migration_of_signatures.md)
       - [`🍉_civic_participation_and_ai_risk_classification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🍉_civic_participation_and_ai_risk_classification.md)
       - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
+      - [`💥_risk_vector_inversions.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)
       - [`💥_synthetic_personas_and_actuarial_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💥_synthetic_personas_and_actuarial_failure.md)
       - [`💫_indie_verification_of_targeting_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💫_indie_verification_of_targeting_logic.md)
       - [`📊_risk_scoring_architectures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md)
@@ -2777,7 +2778,6 @@ _Generated on 2025-12-09 18:02:48 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
-    - [`💥_risk_vector_inversions.md`](Polaris_Nest/Git_Intake_Drawer/💥_risk_vector_inversions.md)
     - [`💥_solidarity_induced_model_failure.md`](Polaris_Nest/Git_Intake_Drawer/💥_solidarity_induced_model_failure.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💫_the_middle_register.md`](Polaris_Nest/Git_Intake_Drawer/💫_the_middle_register.md)
