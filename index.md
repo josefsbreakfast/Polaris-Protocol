@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:58:06 UTC_
+_Generated on 2025-12-09 19:00:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -520,6 +520,7 @@ _Generated on 2025-12-09 18:58:06 UTC_
         - [`🛜_transnational_networks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🛜_transnational_networks.md)
         - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
         - [`🦁_individualism_as_edge.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦁_individualism_as_edge.md)
+        - [`🦆_why_tech_bros_were_sitting_ducks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦆_why_tech_bros_were_sitting_ducks.md)
         - [`🦠_opportunistic_disinfo_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦠_opportunistic_disinfo_pathogen.md)
         - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
         - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
@@ -2776,7 +2777,6 @@ _Generated on 2025-12-09 18:58:06 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`💻_why_tech_bros_were_the_perfect_target.md`](Polaris_Nest/Git_Intake_Drawer/💻_why_tech_bros_were_the_perfect_target.md)
     - [`📄_the_form_and_the_feeling.md`](Polaris_Nest/Git_Intake_Drawer/📄_the_form_and_the_feeling.md)
     - [`📈_escalation_drift_in_complex_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📈_escalation_drift_in_complex_datasets.md)
     - [`📈_polished_authoritarianism.md`](Polaris_Nest/Git_Intake_Drawer/📈_polished_authoritarianism.md)
