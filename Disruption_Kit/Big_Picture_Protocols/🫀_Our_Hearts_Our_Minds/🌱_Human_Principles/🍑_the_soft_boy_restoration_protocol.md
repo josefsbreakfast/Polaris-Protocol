@@ -1,5 +1,5 @@
-# 💗 The Soft Boy Restoration Protocol  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-23  
+# 🍑 The Soft Boy Restoration Protocol  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-09  
 *A framework for returning misclassified, shame-wounded, algorithmically captured men back to their original emotional architecture.*  
 
 ---
@@ -198,7 +198,7 @@ This is restoration.
 ---
 
 ## 🏮 Footer  
-*The Soft Boy Restoration Protocol* is a living node of the Polaris Protocol.  
+*🍑 The Soft Boy Restoration Protocol* is a living node of the Polaris Protocol.  
 It provides a structured, emotional, survivor-informed process for guiding men out of coercive identities and back into the gentleness they were born for.
 
 > 📡 Cross-references:
@@ -209,4 +209,4 @@ It provides a structured, emotional, survivor-informed process for guiding men o
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
