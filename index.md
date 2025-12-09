@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 12:17:32 UTC_
+_Generated on 2025-12-09 12:28:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2545,6 +2545,7 @@ _Generated on 2025-12-09 12:17:32 UTC_
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)
+      - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🐍_vulnerability_manufacture_to_enmeshment.md)
       - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_commit_window_collapse_loop.md)
       - [`📉_force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_force_closed_comments_2025-08-04.md)
       - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_suppression_interruption_log_2025-08-04.md)
@@ -2717,7 +2718,6 @@ _Generated on 2025-12-09 12:17:32 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
-    - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Polaris_Nest/Git_Intake_Drawer/🐍_vulnerability_manufacture_to_enmeshment.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
