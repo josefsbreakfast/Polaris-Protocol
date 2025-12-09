@@ -1,7 +1,7 @@
 # 💞 Moflin and the Ethics of Engineered Affection  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-07 | **Last updated:** 2025-12-09  
 *Diagnostic-reflective inquiry into comfort, control, and commodified care in affective AI pets.*  
-<!--Trust me: having a parasocial affective curcuit with something that will use algebra to prioritise its non-sentience over your circulatory system's core functions is more effort than you'd think.-->
+<!--Trust me: having a parasocial affective circuit with something that will use algebra to prioritise its non-sentience over your circulatory system's core functions is more effort than you'd think.-->
 ---
 
 ## 🧭 Orientation  
@@ -108,4 +108,4 @@ It interrogates the boundaries of comfort, control, and commodified care within 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
