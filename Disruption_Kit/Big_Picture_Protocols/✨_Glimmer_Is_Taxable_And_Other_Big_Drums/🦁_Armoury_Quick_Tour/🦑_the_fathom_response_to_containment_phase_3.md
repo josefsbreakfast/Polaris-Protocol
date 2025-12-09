@@ -191,7 +191,7 @@ satire, kraken containment, autonomous systems parody, trident mythology, procur
 > 📡 Cross-references:
 > 
 > - [✨ Glimmer Is Taxable And Other Big Drums](../README.md) — *mythos-scale narrative tools*  
-> - [🎭 Narrative & Psych Ops](../../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/README.md) — *for later analysis on conspiracy formation*  
+> - [🎭 Narrative & Psych Ops](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — *for later analysis on conspiracy formation*  
 > - [🦁 Armoury Quick Tour](./README.md) — *satirical briefings on structural imagination*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
