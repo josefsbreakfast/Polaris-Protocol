@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:28:44 UTC_
+_Generated on 2025-12-09 14:29:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -955,6 +955,7 @@ _Generated on 2025-12-09 14:28:44 UTC_
         - [`🪞_fanon_and_the_algorithmic_unconscious.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪞_fanon_and_the_algorithmic_unconscious.md)
         - [`🪦_mass_funeral_as_information_control.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪦_mass_funeral_as_information_control.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
+      - [`🪭_cultural_charisma_as_governance_tool.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🪭_cultural_charisma_as_governance_tool.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
@@ -2752,7 +2753,6 @@ _Generated on 2025-12-09 14:28:44 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`💃_cultural_charisma_as_governance_tool.md`](Polaris_Nest/Git_Intake_Drawer/💃_cultural_charisma_as_governance_tool.md)
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💍_marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/💍_marriage_as_state_containment_trope.md)
