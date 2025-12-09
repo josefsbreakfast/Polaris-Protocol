@@ -1,5 +1,5 @@
-# 🔍 The Dataset Has Replaced the Citizen  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-23  
+# 🦁 We Are Citizens, Not Datasets  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-09  
 *How governance now hears statistical abstractions instead of human beings.*  
 
 ---
@@ -71,7 +71,7 @@ datafication, representation, dashboards, metrics, civic voice, public disappear
 
 ## 🏮 Footer  
 
-*👾 The Dataset Has Replaced the Citizen* is a living node of the Polaris Protocol.  
+*🦁 We Are Citizens, Not Datasets* is a living node of the Polaris Protocol.  
 It examines how datafication has supplanted direct political hearing, and why representation collapses when citizens become statistical artefacts.
 
 > 📡 Cross-references:
@@ -84,4 +84,4 @@ It examines how datafication has supplanted direct political hearing, and why re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
