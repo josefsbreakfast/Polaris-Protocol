@@ -1,5 +1,5 @@
 # 🕊️ Dickin Medal Holders  
-**First created:** 2025-10-12 | **Last updated:** 2025-10-12  
+**First created:** 2025-10-12 | **Last updated:** 2025-12-09  
 *Animals recognised for extraordinary bravery in military or civil-defence service.*
 
 ---
@@ -181,4 +181,4 @@ Tags: `#PDSA` `#WWII` `#animal_ethics` `#valorisation` `#sentinel_logic` `#gusta
 
 ---
 
-*Last updated: 2025-10-12*
+*Last updated: 2025-12-09*
