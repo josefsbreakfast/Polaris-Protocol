@@ -1,5 +1,5 @@
 # ⚙️ Overdrive Capitalism — When Systems Outrun the Body  
-**First created:** 2025-10-18 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-18 | **Last updated:** 2025-12-09  
 *Acceleration, exhaustion, and the political economy of attention.*  
 
 ---
@@ -113,9 +113,9 @@ It interprets burnout, polarisation, and diagnosis not as personal crises but as
 
 > 📡 Cross-references:
 >
-> - [💸 Money Listens](./README.md) — *economic transparency and capture*  
-> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *dignity and collective repair*  
+> - [💸 Money Listens](../README.md) — *economic transparency and capture*  
+> - [🌱 Human Principles](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *dignity and collective repair*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-12-09_
