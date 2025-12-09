@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 11:56:53 UTC_
+_Generated on 2025-12-09 12:17:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -683,6 +683,7 @@ _Generated on 2025-12-09 11:56:53 UTC_
         - [`🏚️_the_economics_of_apartheid_and_fascism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏚️_the_economics_of_apartheid_and_fascism.md)
         - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
         - [`🏜️_negev_from_renewal_to_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏜️_negev_from_renewal_to_refusal.md)
+        - [`🐾_canine_constellation_guardians_at_the_threshold.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🐾_canine_constellation_guardians_at_the_threshold.md)
         - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_and_strongman_panic.md)
         - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_timeline.csv)
         - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💸_russian_overlap_patterns.md)
@@ -2726,7 +2727,6 @@ _Generated on 2025-12-09 11:56:53 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`🐾_canine_constellation_migration.md`](Polaris_Nest/Git_Intake_Drawer/🐾_canine_constellation_migration.md)
     - [`🐾_greyhound_networks_and_collective_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🐾_greyhound_networks_and_collective_pattern_recognition.md)
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
     - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
