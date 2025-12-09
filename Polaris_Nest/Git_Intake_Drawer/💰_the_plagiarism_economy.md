@@ -1,5 +1,5 @@
 # 💰 Plagiarism Economies & Extraction Pipelines  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How extractive digital markets convert uncredited art and speech into profit.*  
 
 ---
@@ -36,4 +36,4 @@ Maps the operational pipeline of:
 ## 🏮 Footer  
 *Care cannot exist in markets designed for forgetting.*
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
