@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 13:53:06 UTC_
+_Generated on 2025-12-09 13:53:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2446,6 +2446,7 @@ _Generated on 2025-12-09 13:53:06 UTC_
       - [`🐉_she_is_a_dragon_a_corrective_mythology_for_thin_data_worlds.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_she_is_a_dragon_a_corrective_mythology_for_thin_data_worlds.md)
       - [`🐍_survivor_voice_misread_as_intensity.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐍_survivor_voice_misread_as_intensity.md)
       - [`👁‍🗨_the_boundary_as_border.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/👁‍🗨_the_boundary_as_border.md)
+      - [`👅_gendered_racial_pivot.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/👅_gendered_racial_pivot.md)
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
@@ -2592,8 +2593,6 @@ _Generated on 2025-12-09 13:53:06 UTC_
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**🎭_Narrative_And_Psych_Ops/**](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/)
-    - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
-      - [`👅_gendered_racial_pivot.md`](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/👅_gendered_racial_pivot.md)
     - [`🪆_narrative_inversion_after_boundary_setting.md`](Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_narrative_inversion_after_boundary_setting.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
