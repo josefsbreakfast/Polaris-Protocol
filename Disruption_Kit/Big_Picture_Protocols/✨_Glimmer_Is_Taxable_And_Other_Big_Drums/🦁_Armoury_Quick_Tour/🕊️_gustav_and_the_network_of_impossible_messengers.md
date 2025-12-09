@@ -1,5 +1,5 @@
 # 🕊️ Gustav and the Network of Impossible Messengers  
-**First created:** 2025-10-27 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-27 | **Last updated:** 2025-12-09  
 *On antifascist communication, the radical continuity between pigeons, pirate radios, and people who won’t shut up.*
 
 ---
@@ -107,4 +107,5 @@ gustav, antifascism, radical communication, community will save us all, pirate r
 It honours the radical infrastructures of honesty that survive every surveillance upgrade — from feathers to fibre optics.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+
+_Last updated: 2025-12-09_
