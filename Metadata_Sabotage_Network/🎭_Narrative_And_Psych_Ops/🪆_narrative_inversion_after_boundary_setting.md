@@ -1,5 +1,5 @@
 # 👁 Narrative Inversion After Boundary-Setting
-**First created:** 2025-11-20 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-09  
 *How a woman’s boundary becomes rewritten as hostility, instability, or threat—particularly for racialised women.*  
 
 ---
@@ -202,10 +202,11 @@ narrative inversion, boundary misclassification, misogyny, racial bias, credibil
 ---
 
 ## 🏮 Footer  
-*Narrative Inversion After Boundary-Setting* is a living node of the Polaris Protocol.  
+*👁 Narrative Inversion After Boundary-Setting* is a living node of the Polaris Protocol.  
 It describes one of the first and most powerful moves in gendered containment: the rewriting of healthy boundaries into evidence of risk.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - 🛰️ Threat Escalation Pipeline (Racialised Gender)  
 > - 🦂 Racialised Entitlement Violation  
 > - 🎭 Symbolic Violence in Gendered & Racialised Frames  
@@ -213,4 +214,4 @@ It describes one of the first and most powerful moves in gendered containment: t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
