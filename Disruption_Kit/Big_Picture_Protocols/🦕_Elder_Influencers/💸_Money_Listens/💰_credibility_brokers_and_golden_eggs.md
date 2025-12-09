@@ -1,5 +1,5 @@
 # 💰 Credibility Brokers & Golden Eggs  
-**First created:** 2025‑11‑12 | **Last updated:** 2025‑11‑24  
+**First created:** 2025‑11‑12 | **Last updated:** 2025-12-09  
 *Examines how trust and legitimacy become tradable commodities.*  
 
 ---
@@ -32,7 +32,7 @@ credibility brokers, golden eggs, trust commodification, legitimacy leasing, dat
 
 ## 🏮 Footer  
 
-*💰Credibility Brokers & Golden Eggs* is a stub node that introduces the notion that trust and legitimacy can be bought, sold, and leased like financial instruments, creating feedback loops where reputation itself becomes a market commodity.  
+*💰 Credibility Brokers & Golden Eggs* is a stub node that introduces the notion that trust and legitimacy can be bought, sold, and leased like financial instruments, creating feedback loops where reputation itself becomes a market commodity.  
 It provides a conceptual entry point for deeper analyses of legitimacy economies within the Polaris archive.  
 
 > 📡 Cross‑references:  
@@ -41,4 +41,4 @@ It provides a conceptual entry point for deeper analyses of legitimacy economies
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑24_
+_Last updated: 2025-12-09_
