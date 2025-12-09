@@ -1,5 +1,5 @@
 # 💰 The Surveillance Dividend Social Contract  
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-24  
+**First created:** 2025-11-06  |  **Last updated:** 2025-12-09  
 *How states could treat surveillance capacity as a taxable extractive industry instead of a reputational knife fight.*  
 
 ---
@@ -88,4 +88,4 @@ It proposes a fiscal architecture for the information age: surveillance pays its
 
 > 📖 See also [⚖️ Norman Law and the Geometry of Impunity] — the feudal inheritance this contract seeks to unwind.  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
