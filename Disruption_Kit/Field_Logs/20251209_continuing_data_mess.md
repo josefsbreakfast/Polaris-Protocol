@@ -35,3 +35,10 @@ IT IS ALMOST AS IF IT IS LINKED.
 thank you fof coming ti the ted talk; the refusal to see this, is incredibly annoying to me.  
 
 ---
+
+havent seen this for a while, but multiple failures of commit button requiring multile refresh snd restore on  
+`Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯️_Exorcising_Safeguarding_Shadows/💩_why_ctsa2015_violated_every_iicsa_principle.md`.  
+
+the nutbuags are still hanging around, apparantly.  
+
+---
