@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:29:18 UTC_
+_Generated on 2025-12-09 18:30:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -601,6 +601,7 @@ _Generated on 2025-12-09 18:29:18 UTC_
           - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
           - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/spv_dataflow_redacted.png)
           - [`⚖️_surveillance_driven_wealth_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚖️_surveillance_driven_wealth_tort_exposure.md)
+          - [`⚙️_overdrive_capitalism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overdrive_capitalism.md)
           - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md)
           - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)
           - [`💰_credibility_brokers_and_golden_eggs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_credibility_brokers_and_golden_eggs.md)
@@ -620,7 +621,6 @@ _Generated on 2025-12-09 18:29:18 UTC_
           - [`🧠_voice_clones_ai_and_the_threat_to_policing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md)
           - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
-        - [`⚙️_overdrive_capitalism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/⚙️_overdrive_capitalism.md)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
         - [`♻️_data_exhaust_uk_law.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md)
