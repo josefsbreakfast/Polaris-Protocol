@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 10:55:53 UTC_
+_Generated on 2025-12-09 11:56:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2307,6 +2307,7 @@ _Generated on 2025-12-09 10:55:53 UTC_
       - [`🏛️_how_states_weaponise_ihra.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_how_states_weaponise_ihra.md)
       - [`🏛️_who_regulates_nudging_the_governance_vacuum.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_who_regulates_nudging_the_governance_vacuum.md)
       - [`🐍_prevent_as_a_self_eating_snake.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)
+      - [`🐾_animal_assisted_ve_interventions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐾_animal_assisted_ve_interventions.md)
       - [`💼_industry_capture_identity_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)
       - [`📊_id_claims_vs_realities.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📊_id_claims_vs_realities.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
@@ -2725,7 +2726,6 @@ _Generated on 2025-12-09 10:55:53 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`🐾_animal_assisted_ve_interventions.md`](Polaris_Nest/Git_Intake_Drawer/🐾_animal_assisted_ve_interventions.md)
     - [`🐾_canine_constellation_migration.md`](Polaris_Nest/Git_Intake_Drawer/🐾_canine_constellation_migration.md)
     - [`🐾_greyhound_networks_and_collective_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🐾_greyhound_networks_and_collective_pattern_recognition.md)
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
