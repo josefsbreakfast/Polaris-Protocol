@@ -1,5 +1,5 @@
 # 👾 Intent-Free Authoritarian Drift
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How collapsing systems, behavioural governance, and institutional fear create authoritarian outcomes without authoritarian intent.*  
 
 ---
@@ -89,7 +89,7 @@ If drift is not recognised, systems continue to tighten around vulnerable people
 ---
 
 ## Footer
-Intent-Free Authoritarian Drift is part of the Governance & Prevent cluster. It documents how authoritarian effects can arise unintentionally from structural dysfunction, behavioural governance, and institutional fear.
+*👾 Intent-Free Authoritarian Drift* is part of the Governance & Prevent cluster. It documents how authoritarian effects can arise unintentionally from structural dysfunction, behavioural governance, and institutional fear.
 
 > Cross-references:
 > 
@@ -98,4 +98,4 @@ Intent-Free Authoritarian Drift is part of the Governance & Prevent cluster. It 
 > - Predictive Logic Without Predictive Infrastructure
 > - Opportunistic Escalation in Collapsing Systems
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09
