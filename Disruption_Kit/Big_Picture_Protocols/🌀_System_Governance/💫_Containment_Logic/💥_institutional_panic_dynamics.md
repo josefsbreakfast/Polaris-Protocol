@@ -1,5 +1,5 @@
 # 💥 Institutional Panic Dynamics  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How institutions behave when confronted with potential data breaches, unexplained processing pathways, or contradictory disclosures — and why panic makes everything worse.*
 
 ---
@@ -256,4 +256,4 @@ Together, these explain the full choreography of
 *why institutions crumble when metadata contradicts their official story*  
 and how Polaris users can navigate that collapse effectively.
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
