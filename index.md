@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:27:26 UTC_
+_Generated on 2025-12-09 18:28:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -620,6 +620,7 @@ _Generated on 2025-12-09 18:27:26 UTC_
           - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
         - [`⚙️_overdrive_capitalism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/⚙️_overdrive_capitalism.md)
+        - [`💰_credibility_brokers_and_golden_eggs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/💰_credibility_brokers_and_golden_eggs.md)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
         - [`♻️_data_exhaust_uk_law.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md)
@@ -2783,7 +2784,6 @@ _Generated on 2025-12-09 18:27:26 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
-    - [`💰_credibility_brokers_and_golden_eggs.md`](Polaris_Nest/Git_Intake_Drawer/💰_credibility_brokers_and_golden_eggs.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`💰_the_plagiarism_economy.md`](Polaris_Nest/Git_Intake_Drawer/💰_the_plagiarism_economy.md)
     - [`💰_the_surveillance_dividend_social_contract.md`](Polaris_Nest/Git_Intake_Drawer/💰_the_surveillance_dividend_social_contract.md)
