@@ -1,5 +1,5 @@
 # 👻 Ghost Persona Error Modes  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How synthetic personas — the statistical “children” created from twin vectors and centroids — behave when their internal logic collapses under contradictory identity, stance, and behavioural inputs.*  
 
 ---
@@ -281,4 +281,4 @@ This node links directly to:
 It forms the core of the **Synthetic Persona Collapse** cluster  
 within the Polaris modelling-failure architecture.
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
