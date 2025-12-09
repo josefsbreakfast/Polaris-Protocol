@@ -1,9 +1,7 @@
 # 💔 When the Algorithm Thinks It’s a Rom-Com  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-06 | **Last updated:** 2025-12-09  
 *Diagnostic satire on how metadata re-casts institutional abuse as romance.*  
-<!--My TikTok feed is hilarious after the SAR; yes it is a little upsetting but our goal is to resolve the systems-issue, no?  
-Work *with* me, please. And we need more funding at that level; this is primarily a problem secondary to spend cuts in core services.  
-Thank you, 2010 Cabinet.-->
+
 ---
 
 ## 🛰️ Orientation  
@@ -106,4 +104,4 @@ It documents how platform logics masculinise institutions and sentimentalise har
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
