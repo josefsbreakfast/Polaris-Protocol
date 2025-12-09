@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:34:48 UTC_
+_Generated on 2025-12-09 14:35:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -984,6 +984,7 @@ _Generated on 2025-12-09 14:34:48 UTC_
         - [`🐾_greyhound_networks.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐾_greyhound_networks.md)
         - [`🐾_sanctuary_island_project.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐾_sanctuary_island_project.md)
         - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
+        - [`💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md)
         - [`💔_on_having_to_announce_ones_goodness.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_on_having_to_announce_ones_goodness.md)
         - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
@@ -2756,7 +2757,6 @@ _Generated on 2025-12-09 14:34:48 UTC_
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💍_marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/💍_marriage_as_state_containment_trope.md)
-    - [`💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md`](Polaris_Nest/Git_Intake_Drawer/💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md)
     - [`💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md`](Polaris_Nest/Git_Intake_Drawer/💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💔_risk_of_violent_treatment.md`](Polaris_Nest/Git_Intake_Drawer/💔_risk_of_violent_treatment.md)
