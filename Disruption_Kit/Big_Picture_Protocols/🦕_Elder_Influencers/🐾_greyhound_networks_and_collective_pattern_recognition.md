@@ -1,5 +1,5 @@
 # 🐾 Greyhound Networks and Collective Pattern Recognition  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-09  
 *When one runner spots another, the whole field moves.*  
 
 ---
@@ -71,9 +71,9 @@ greyhound effect, pattern recognition, high-friction, cognitive resonance, acces
 ---
 
 ## 🏮 Footer  
-*Greyhound Networks and Collective Pattern Recognition* is a reflective node of the Polaris Protocol.  
+*🐾 Greyhound Networks and Collective Pattern Recognition* is a reflective node of the Polaris Protocol.  
 It records how high-friction minds, once isolated, recognise each other through shared anomalies and spontaneously form clusters capable of seeing systems whole.  
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
