@@ -1,5 +1,5 @@
-# 💬 Semantic Echo — How Offender Language Re-Enters Institutional Notes  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-24    
+# ♻️ Semantic Echo — How Offender Language Re-Enters Institutional Notes  
+**First created:** 2025-11-11 | **Last updated:** 2025-12-09    
 *The feedback loop of borrowed description.*
 
 ---
@@ -90,7 +90,7 @@ semantic echo, institutional language, metadata bias, survivor credibility, bure
 
 ## 🏮 Footer  
 
-*💬 Semantic Echo — How Offender Language Re-Enters Institutional Notes* is a living node of the Polaris Protocol.  
+*♻️ Semantic Echo — How Offender Language Re-Enters Institutional Notes* is a living node of the Polaris Protocol.  
 It documents how words migrate from gossip to governance, and how containment survives through tone.  
 
 > 📡 Cross-references:
@@ -101,4 +101,4 @@ It documents how words migrate from gossip to governance, and how containment su
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
