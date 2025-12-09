@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:27:02 UTC_
+_Generated on 2025-12-09 14:28:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2496,6 +2496,7 @@ _Generated on 2025-12-09 14:27:02 UTC_
       - [`🌀_loop_notes_on_ai_language.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_loop_notes_on_ai_language.md)
       - [`🌫️_uncertainty_branch_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌫️_uncertainty_branch_logic.md)
       - [`👾_bad_algorithms_good_data.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/👾_bad_algorithms_good_data.md)
+      - [`👾_what_robots_did_to_words.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/👾_what_robots_did_to_words.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
@@ -2751,7 +2752,6 @@ _Generated on 2025-12-09 14:27:02 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👾_what_robots_did_to_words.md`](Polaris_Nest/Git_Intake_Drawer/👾_what_robots_did_to_words.md)
     - [`💃_cultural_charisma_as_governance_tool.md`](Polaris_Nest/Git_Intake_Drawer/💃_cultural_charisma_as_governance_tool.md)
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
