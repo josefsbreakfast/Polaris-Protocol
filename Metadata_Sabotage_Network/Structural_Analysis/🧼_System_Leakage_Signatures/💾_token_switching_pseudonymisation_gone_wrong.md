@@ -1,5 +1,5 @@
 # 💾 Token Switching — Pseudonymisation Gone Wrong  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-11 | **Last updated:** 2025-12-09  
 *When the safety mechanism swaps sides.*  
 
 ---
@@ -91,11 +91,12 @@ pseudonymisation, token switching, hash reissue, mapping integrity, data governa
 *💾 Token Switching — Pseudonymisation Gone Wrong* is a living node of the Polaris Protocol.  
 It describes how a protective algorithm becomes a weaponised join, and why containment starts with cryptographic empathy.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🪙 Token Integrity Audit — How to Check for Pseudonym Drift]  
 > - [🧬 Data Twinning — When Two Identities Become One Record]  
 > - [⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
