@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:46:28 UTC_
+_Generated on 2025-12-09 14:48:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2534,6 +2534,7 @@ _Generated on 2025-12-09 14:46:28 UTC_
       - [`👻_template_ghosts.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_template_ghosts.md)
       - [`👾_temporal_glitches.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_temporal_glitches.md)
       - [`💔_shared_vendor_anomalies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💔_shared_vendor_anomalies.md)
+      - [`💾_token_switching_pseudonymisation_gone_wrong.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💾_token_switching_pseudonymisation_gone_wrong.md)
       - [`📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md)
       - [`🔥_when_policy_versions_argue.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🔥_when_policy_versions_argue.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
@@ -2790,7 +2791,6 @@ _Generated on 2025-12-09 14:46:28 UTC_
     - [`💸_shame_as_control_currency.md`](Polaris_Nest/Git_Intake_Drawer/💸_shame_as_control_currency.md)
     - [`💻_algorithmic_hysteria.md`](Polaris_Nest/Git_Intake_Drawer/💻_algorithmic_hysteria.md)
     - [`💻_why_tech_bros_were_the_perfect_target.md`](Polaris_Nest/Git_Intake_Drawer/💻_why_tech_bros_were_the_perfect_target.md)
-    - [`💾_token_switching_pseudonymisation_gone_wrong.md`](Polaris_Nest/Git_Intake_Drawer/💾_token_switching_pseudonymisation_gone_wrong.md)
     - [`📄_the_form_and_the_feeling.md`](Polaris_Nest/Git_Intake_Drawer/📄_the_form_and_the_feeling.md)
     - [`📈_escalation_drift_in_complex_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📈_escalation_drift_in_complex_datasets.md)
     - [`📈_polished_authoritarianism.md`](Polaris_Nest/Git_Intake_Drawer/📈_polished_authoritarianism.md)
