@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:33:48 UTC_
+_Generated on 2025-12-09 18:35:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -605,6 +605,7 @@ _Generated on 2025-12-09 18:33:48 UTC_
           - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md)
           - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)
           - [`💰_credibility_brokers_and_golden_eggs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_credibility_brokers_and_golden_eggs.md)
+          - [`💰_plagiarism_economies_and_extraction_pipelines.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_plagiarism_economies_and_extraction_pipelines.md)
           - [`💷_polaris_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_polaris_costing_estimate.md)
           - [`💷_potential_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_potential_tort_exposure.md)
           - [`💷_survivor_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md)
@@ -2785,7 +2786,6 @@ _Generated on 2025-12-09 18:33:48 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`💰_the_plagiarism_economy.md`](Polaris_Nest/Git_Intake_Drawer/💰_the_plagiarism_economy.md)
     - [`💰_the_surveillance_dividend_social_contract.md`](Polaris_Nest/Git_Intake_Drawer/💰_the_surveillance_dividend_social_contract.md)
     - [`💰_underwriting_the_occupation.md`](Polaris_Nest/Git_Intake_Drawer/💰_underwriting_the_occupation.md)
     - [`💸_opacity_architecture_ai_defence_foreign_alignment.md`](Polaris_Nest/Git_Intake_Drawer/💸_opacity_architecture_ai_defence_foreign_alignment.md)
