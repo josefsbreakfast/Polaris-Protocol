@@ -1,5 +1,5 @@
 # 👅 Gendered Racial Pivot  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-09  
 *How UK discourse redirected attention from structural male violence to racialised moral panic — and how that pivot fuels survivor discrediting.*  
 
 ---
@@ -89,4 +89,4 @@ It documents the racialised diversion tactic that enables survivor silencing acr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
