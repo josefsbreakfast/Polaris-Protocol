@@ -1,7 +1,6 @@
 # 📊 Daily Watchlist  
-
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*A quick-read dashboard showing current frame activity, actions, and wellbeing cues.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+*A quick-read dashboard showing current frame activity, actions, and wellbeing cues.*  
 
 ---
 
@@ -64,9 +63,9 @@ dashboard, monitoring, daily log, workflow, morale, survivor voice, rhythm
 It maintains operational tempo while reminding contributors that rest is also part of the record.  
 
 > 📡 Cross-references:  
-> - [watchlist/frame_drift_watchlist.yaml](../../Disruption_Kit/Big_Picture_Protocols/watchlist/frame_drift_watchlist.yaml) — source data  
-> - [flagging_incident_report.md](../../Operational_Kits/legal/flagging_incident_report.md) — escalation log  
+> - [watchlist/frame_drift_watchlist.yaml] — source data  
+> - [flagging_incident_report.md] — escalation log  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
