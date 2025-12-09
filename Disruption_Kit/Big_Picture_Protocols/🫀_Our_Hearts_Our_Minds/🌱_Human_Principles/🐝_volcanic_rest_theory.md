@@ -1,5 +1,5 @@
 # 🐝 Volcanic Rest Theory  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-12-09  
 *Dormancy as chthonic process — where rest holds heat.*
 
 ---
@@ -82,10 +82,11 @@ volcanic rest, chthonic theory, dormancy, productivity refusal, transformation, 
 *🐝 Volcanic Rest Theory* is a living node of the Polaris Protocol.  
 It reclaims dormancy as a chthonic, life-bearing process — the magma beneath apparent stillness.  
 
-> 📡 Cross-references:  
-> – [🐝 Carceral Disability](./🐝_carceral_disability.md)  
-> – [🌱 Human Principles](../🌱_Human_Principles/README.md)
+> 📡 Cross-references:
+> 
+> – [🐝 Carceral Disability]  
+> – [🌱 Human Principles]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
