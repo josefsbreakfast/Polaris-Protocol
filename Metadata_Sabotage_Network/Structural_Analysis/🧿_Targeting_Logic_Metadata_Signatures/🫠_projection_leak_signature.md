@@ -1,6 +1,6 @@
 # 🫠 Projection Leak Signature  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
-*How fabricators accidentally disclose their own anxieties, logic gaps, and metadata ignorance.*
+**First created:** 2025-12-08 | **Last updated:** 2025-12-09  
+*How fabricators accidentally disclose their own anxieties, logic gaps, and metadata ignorance.*  
 
 ---
 
@@ -61,4 +61,4 @@ It provides a diagnostic toolkit for analysing falsified or coercive communicati
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-09_
