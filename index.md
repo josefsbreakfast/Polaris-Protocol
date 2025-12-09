@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 17:49:39 UTC_
+_Generated on 2025-12-09 17:51:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -991,6 +991,7 @@ _Generated on 2025-12-09 17:49:39 UTC_
         - [`💔_on_having_to_announce_ones_goodness.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_on_having_to_announce_ones_goodness.md)
         - [`💔_the_women_drafted_into_each_other.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_the_women_drafted_into_each_other.md)
         - [`💕_for_the_women_who_suddenly_realise_they_are_here_too.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💕_for_the_women_who_suddenly_realise_they_are_here_too.md)
+        - [`💞_queer_theory_as_relational_literacy.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💞_queer_theory_as_relational_literacy.md)
         - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
@@ -2772,7 +2773,6 @@ _Generated on 2025-12-09 17:49:39 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💞_connection_as_leverage.md`](Polaris_Nest/Git_Intake_Drawer/💞_connection_as_leverage.md)
-    - [`💞_queer_theory_as_relational_literacy.md`](Polaris_Nest/Git_Intake_Drawer/💞_queer_theory_as_relational_literacy.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💣_trident_as_modern_kraken_security_theatre.md`](Polaris_Nest/Git_Intake_Drawer/💣_trident_as_modern_kraken_security_theatre.md)
     - [`💥_institutional_panic_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/💥_institutional_panic_dynamics.md)
