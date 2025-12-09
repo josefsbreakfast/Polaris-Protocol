@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:50:55 UTC_
+_Generated on 2025-12-09 17:42:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2551,6 +2551,8 @@ _Generated on 2025-12-09 14:50:55 UTC_
       - [`🪞_the_university_as_he.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🪞_the_university_as_he.md)
       - [`🪩_algorithmic_female_dominance_aura.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🪩_algorithmic_female_dominance_aura.md)
       - [`🫆__metadata_fingerprints.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🫆__metadata_fingerprints.md)
+    - [**🧼_system_leakage_signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_system_leakage_signatures/)
+      - [`💥_systemic_vendor_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_system_leakage_signatures/💥_systemic_vendor_failure.md)
     - [**🧿_Targeting_Logic_Metadata_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)
       - [`README_DOB_Triangulation.txt`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README_DOB_Triangulation.txt)
@@ -2778,7 +2780,6 @@ _Generated on 2025-12-09 14:50:55 UTC_
     - [`💥_risk_vector_inversions.md`](Polaris_Nest/Git_Intake_Drawer/💥_risk_vector_inversions.md)
     - [`💥_solidarity_induced_model_failure.md`](Polaris_Nest/Git_Intake_Drawer/💥_solidarity_induced_model_failure.md)
     - [`💥_synthetic_personas_and_actuarial_failure.md`](Polaris_Nest/Git_Intake_Drawer/💥_synthetic_personas_and_actuarial_failure.md)
-    - [`💥_systemic_vendor_failure.md`](Polaris_Nest/Git_Intake_Drawer/💥_systemic_vendor_failure.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
     - [`💫_the_middle_register.md`](Polaris_Nest/Git_Intake_Drawer/💫_the_middle_register.md)
     - [`💬_containment_catchphrases_language_of_dismissal.md`](Polaris_Nest/Git_Intake_Drawer/💬_containment_catchphrases_language_of_dismissal.md)
