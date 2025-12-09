@@ -1,5 +1,5 @@
 # 💍 Two-Party System as an Old-Fashioned Marriage  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-09  
 *Why Labour and the Conservatives function like a compulsory marriage contract — and what breaks when either partner abandons their role.*  
 
 ---
@@ -134,7 +134,7 @@ two-party system, constitutional marriage, political homeostasis, role collapse,
 ---
 
 ## 🏮 Footer  
-*Two-Party System as an Old-Fashioned Marriage* is a living node of the Polaris Protocol.  
+*💍 Two-Party System as an Old-Fashioned Marriage* is a living node of the Polaris Protocol.  
 It supports the **Big Picture Protocols** cluster by mapping interdependent party roles and systemic stability conditions.
 
 > 📡 Cross-references:
@@ -145,4 +145,4 @@ It supports the **Big Picture Protocols** cluster by mapping interdependent part
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
