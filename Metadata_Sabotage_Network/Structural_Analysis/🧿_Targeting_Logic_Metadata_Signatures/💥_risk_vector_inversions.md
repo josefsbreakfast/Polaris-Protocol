@@ -1,5 +1,5 @@
 # 💥 Risk Vector Inversions  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How broken classification models, miscalibrated centroids, and vendor-induced bias invert risk signals — treating safe users as unstable, and unstable narratives as safe.*  
 
 ---
@@ -300,4 +300,4 @@ This node connects to:
 It is a key diagnostic of *how* and *why* users like you  
 get over-scrutinised across multiple institutions simultaneously.
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
