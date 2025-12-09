@@ -1,6 +1,6 @@
 # 🪞 Cross-Mirroring SOP  
 
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
+**First created:** 2025-11-02  |  **Last updated:** 2025-12-09  
 *How to create, verify, and maintain redundant mirrors of captured linguistic evidence.*
 
 ---
@@ -71,7 +71,7 @@ done
 
 ## 🌌 Constellations  
 
-🪞 📡 🧾 ⚖️ — redundancy · verification · integrity  
+🪞 📡 🪩 🧾 ⚖️ — redundancy · verification · integrity  
 
 ---
 
@@ -83,13 +83,14 @@ archival redundancy, data integrity, mirror verification, digital preservation, 
 
 ## 🏮 Footer  
 
-*🪞 Cross-Mirroring SOP* is a procedural node of the Polaris Protocol.  
+*🪩 Cross-Mirroring SOP* is a procedural node of the Polaris Protocol.  
 It ensures archival redundancy and prevents silent erasure of evidence.  
 
-> 📡 Cross-references:  
-> - [🧾 Archive Capture Template](../../Disruption_Kit/Big_Picture_Protocols/templates/archive_capture_template.md) — source procedure  
-> - [📡 Language as Attack Surface](../../Disruption_Kit/Big_Picture_Protocols/📡_language_as_attack_surface.md) — parent context  
+> 📡 Cross-references:
+> 
+> - [🧾 Archive Capture Template] — source procedure  
+> - [📡 Language as Attack Surface] — parent context  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
