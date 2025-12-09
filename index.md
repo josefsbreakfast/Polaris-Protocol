@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:49:42 UTC_
+_Generated on 2025-12-09 14:50:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2510,6 +2510,7 @@ _Generated on 2025-12-09 14:49:42 UTC_
       - [`🧬_data_correction_notices.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
       - [`🧬_deliberate_data_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_data_twinning.md)
       - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_metadata_twinning.md)
+      - [`🧬_digital_aura.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_digital_aura.md)
       - [`🧬_metadata_twinning_analysis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_metadata_twinning_analysis.md)
       - [`🧬_on_twinning_weird_obsession.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_on_twinning_weird_obsession.md)
       - [`🧬_sim_pathways_map.json`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_sim_pathways_map.json)
@@ -3254,7 +3255,6 @@ _Generated on 2025-12-09 14:49:42 UTC_
     - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
     - [`🧬_data_twinning_when_two_identities_become_one_record.md`](Polaris_Nest/Git_Intake_Drawer/🧬_data_twinning_when_two_identities_become_one_record.md)
     - [`🧬_diaspora_debate_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧬_diaspora_debate_dynamics.md)
-    - [`🧬_digital_aura.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_aura.md)
     - [`🧬_digital_twin_vector_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_twin_vector_logic.md)
     - [`🧬_double_bind_dependencies.md`](Polaris_Nest/Git_Intake_Drawer/🧬_double_bind_dependencies.md)
     - [`🧬_duplicate_points_c4isr_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_duplicate_points_c4isr_twinning.md)
