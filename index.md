@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:42:11 UTC_
+_Generated on 2025-12-09 18:43:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2730,7 +2730,6 @@ _Generated on 2025-12-09 18:42:11 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🦉_Language_As_Attack_Surface/**](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/)
-      - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/README.md)
       - [`archive_capture_template.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/archive_capture_template.md)
       - [`counterframes.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/counterframes.md)
       - [`cross_mirroring_sop.md`](Polaris_Nest/Git_Intake_Drawer/🦉_Language_As_Attack_Surface/cross_mirroring_sop.md)
@@ -3761,6 +3760,8 @@ _Generated on 2025-12-09 18:42:11 UTC_
     - [`🪞_observer_reflexivity_log.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪞_observer_reflexivity_log.md)
     - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
+  - [**🦉_Language_As_Attack_Surface/**](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/)
+    - [`README.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md)
   - [**🧨_Counter_Nudge_Playbook/**](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/)
     - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
     - [`🌀_loop_mapping_station.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
