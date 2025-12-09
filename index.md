@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:37:01 UTC_
+_Generated on 2025-12-09 18:39:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2787,7 +2787,6 @@ _Generated on 2025-12-09 18:37:01 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`💰_underwriting_the_occupation.md`](Polaris_Nest/Git_Intake_Drawer/💰_underwriting_the_occupation.md)
     - [`💸_opacity_architecture_ai_defence_foreign_alignment.md`](Polaris_Nest/Git_Intake_Drawer/💸_opacity_architecture_ai_defence_foreign_alignment.md)
     - [`💸_shame_as_control_currency.md`](Polaris_Nest/Git_Intake_Drawer/💸_shame_as_control_currency.md)
     - [`💻_algorithmic_hysteria.md`](Polaris_Nest/Git_Intake_Drawer/💻_algorithmic_hysteria.md)
@@ -3718,6 +3717,8 @@ _Generated on 2025-12-09 18:37:01 UTC_
       - [`🇬🇧_uk_budget_osint_checklist.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Budget_Twinsies/🇬🇧_uk_budget_osint_checklist.md)
       - [`📊_osint_fiscal_audit_overview.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Budget_Twinsies/📊_osint_fiscal_audit_overview.md)
       - [`🗃️_signals_hidden_foreign_bond_exposure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Budget_Twinsies/🗃️_signals_hidden_foreign_bond_exposure.md)
+    - [**💰_Underwriting_The_Occupation/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Underwriting_The_Occupation/)
+      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💰_Underwriting_The_Occupation/README.md)
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
       - [`⚔️_containment_logic_strategy_or_panic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚔️_containment_logic_strategy_or_panic.md)
