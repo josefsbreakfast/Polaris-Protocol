@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 12:53:39 UTC_
+_Generated on 2025-12-09 13:10:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -707,6 +707,7 @@ _Generated on 2025-12-09 12:53:39 UTC_
         - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
         - [`🦕_partition_loop.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
+      - [`🐾_greyhound_networks_and_collective_pattern_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🐾_greyhound_networks_and_collective_pattern_recognition.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/)
         - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/)
@@ -2727,7 +2728,6 @@ _Generated on 2025-12-09 12:53:39 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`🐾_greyhound_networks_and_collective_pattern_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🐾_greyhound_networks_and_collective_pattern_recognition.md)
     - [`🐾_sanctuary_island_project.md`](Polaris_Nest/Git_Intake_Drawer/🐾_sanctuary_island_project.md)
     - [`👁_finch_and_the_limits_of_obedience.md`](Polaris_Nest/Git_Intake_Drawer/👁_finch_and_the_limits_of_obedience.md)
     - [`👁_narrative_inversion_after_boundary_setting.md`](Polaris_Nest/Git_Intake_Drawer/👁_narrative_inversion_after_boundary_setting.md)
