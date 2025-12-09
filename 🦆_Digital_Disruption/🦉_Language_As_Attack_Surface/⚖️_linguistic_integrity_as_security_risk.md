@@ -1,6 +1,5 @@
 # ⚖️ Linguistic Integrity as Security Risk  
-
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
 *Why the manipulation of language constitutes a material security threat — and how governance must adapt.*
 
 ---
@@ -80,11 +79,12 @@ linguistic integrity, information security, semantic forensics, policy reform, n
 *⚖️ Linguistic Integrity as Security Risk* is a strategic node of the Polaris Protocol.  
 It translates operational insight into policy language for agencies and civil institutions tasked with protecting democratic meaning.  
 
-> 📡 Cross-references:  
-> - [📡 Language as Attack Surface](../Disruption_Kit/Big_Picture_Protocols/📡_language_as_attack_surface.md) — technical base  
-> - [watchlist/frame_drift_watchlist.yaml](../Disruption_Kit/Big_Picture_Protocols/watchlist/frame_drift_watchlist.yaml) — early-warning model  
-> - [🎭 Poets as Primary Targets](./🎭_poets_as_primary_targets.md) — cultural-risk case node  
+> 📡 Cross-references:
+> 
+> - [📡 Language as Attack Surface] — technical base  
+> - [watchlist/frame_drift_watchlist.yaml] — early-warning model  
+> - [🎭 Poets as Primary Targets] — cultural-risk case node  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
