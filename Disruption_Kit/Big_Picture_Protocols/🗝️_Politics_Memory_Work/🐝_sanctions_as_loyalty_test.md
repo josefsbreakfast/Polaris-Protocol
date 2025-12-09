@@ -1,5 +1,5 @@
 # 🐝 **Sanctions as Loyalty Test — When ‘Dialogue’ Prevents Action**  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-09  
 *When “dialogue” and “remembrance” are used to prevent action — and to test who will comply with power.*
 
 ---
@@ -233,10 +233,11 @@ dialogue laundering, complexity smokescreen, politeness policing, optics governa
 ---
 
 ## 🏮 Footer  
-**🐝 Sanctions as Loyalty Test** is a living node of the Polaris Protocol.  
+*🐝 Sanctions as Loyalty Test* is a living node of the Polaris Protocol.  
 It analyses how systems use civility, remembrance, and “balance” as tools to suppress material action and identify who will submit to reputational containment.
 
 > 📡 Cross-references:
+> 
 > - 🧳 Boardroom Fascism  
 > - 💞 Connection as Leverage  
 > - 🧠 Shame Economics  
@@ -245,4 +246,4 @@ It analyses how systems use civility, remembrance, and “balance” as tools to
 
 *Survivor authorship is sovereign. Action is clarity.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
