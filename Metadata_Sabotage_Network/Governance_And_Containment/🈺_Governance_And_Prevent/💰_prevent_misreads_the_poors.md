@@ -1,5 +1,5 @@
-# 👾 PREVENT & Escalatory Harm in Economic Crisis  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+# 💰 PREVENT Misreads The Poors  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How austerity, cost-of-living strain, and public-service collapse increase the frequency and severity of PREVENT misfires.*  
 
 ---
@@ -70,7 +70,7 @@ If PREVENT is to serve any constructive role, it cannot absorb the ambient distr
 ---
 
 ## Footer
-*PREVENT & Escalatory Harm in Economic Crisis* is part of the Governance & Prevent cluster.  
+*💰 PREVENT Misreads The Poors* is part of the Governance & Prevent cluster.  
 It documents how socioeconomic stress amplifies PREVENT’s misreads and increases the likelihood of inappropriate escalation.  
 
 > Cross-references:
@@ -80,4 +80,4 @@ It documents how socioeconomic stress amplifies PREVENT’s misreads and increas
 > - Intent-Free Authoritarian Drift
 > - Opportunistic Escalation in Collapsing Systems
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
