@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:25:34 UTC_
+_Generated on 2025-12-09 18:27:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -116,6 +116,7 @@ _Generated on 2025-12-09 18:25:34 UTC_
         - [`⚖️_uk_data_claim_routes_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_uk_data_claim_routes_and_limits.md)
         - [`⚖️_united_fronts_democratic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_united_fronts_democratic_defence.md)
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
+        - [`🌋_whistleblowers_as_emergency_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌋_whistleblowers_as_emergency_governance.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🏛️_parliamentary_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_parliamentary_safeguards.md)
         - [`🗂️_bureaucratic_attrition_as_governance_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🗂️_bureaucratic_attrition_as_governance_strategy.md)
@@ -2782,7 +2783,6 @@ _Generated on 2025-12-09 18:25:34 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
-    - [`💬_whistleblowers_as_emergency_governance.md`](Polaris_Nest/Git_Intake_Drawer/💬_whistleblowers_as_emergency_governance.md)
     - [`💰_credibility_brokers_and_golden_eggs.md`](Polaris_Nest/Git_Intake_Drawer/💰_credibility_brokers_and_golden_eggs.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`💰_the_plagiarism_economy.md`](Polaris_Nest/Git_Intake_Drawer/💰_the_plagiarism_economy.md)
