@@ -1,6 +1,6 @@
 # 💣 Trident as Modern Kraken Security Theatre  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-23  
-*A Polaris satirical-governance analysis of how the UK’s nuclear deterrent system functions rhetorically, emotionally, and politically like a centuries-old naval tradition of inventing giant sea monsters to justify absurdly large budgets.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-09  
+*A Polaris satirical-governance analysis of how the UK’s nuclear deterrent system functions rhetorically, emotionally, and politically like a centuries-old naval tradition of inventing giant sea monsters to justify absurdly large budgets.*  
 <!--AKA why Trident is there to guard the Kraken. I await evidence to the contrary.-->
 ---
 
@@ -16,12 +16,7 @@ It justified “classified” spending.
 It legitimised prestige.  
 It created emotional cover for massive budgets.
 
-This node explains how Trident — the UK’s nuclear deterrent — follows the *exact same narrative structure* as historical Kraken mythology.
-
-Pairs with:  
-- 🗡️ *why_trident_is_lowkey_kraken_insurance*  
-- 🦑 *kraken-based_defence_budget_satire*  
-- 🚢 *royal_navy_and_the_myth_of_underwater_threats*
+This node explains how Trident — the UK’s nuclear deterrent — follows the *exact same narrative structure* as historical Kraken mythology.  
 
 ---
 
@@ -179,7 +174,7 @@ but the rhetorical logic that made it useful absolutely does.
 ---
 
 ## 🏮 Footer  
-**Trident as Modern Kraken Security Theatre** concludes the Polaris Kraken Governance Satire arc.  
+*💣 Trident as Modern Kraken Security Theatre* concludes the Polaris Kraken Governance Satire arc.  
 It exposes how nuclear deterrent rhetoric inherits the mythic narrative structures of maritime monster folklore — using humour to reveal serious mechanisms of power.
 
 Crosslinks:  
@@ -187,4 +182,4 @@ Crosslinks:
 - 🗡️ *why_trident_is_lowkey_kraken_insurance*  
 - 🚢 *royal_navy_and_the_myth_of_underwater_threats*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
