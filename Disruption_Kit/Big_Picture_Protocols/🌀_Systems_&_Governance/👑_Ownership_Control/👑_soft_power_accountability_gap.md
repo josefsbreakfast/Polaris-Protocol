@@ -1,5 +1,5 @@
 # 👑 Soft Power Accountability Gap  
-**First created:** 2025‑11‑02 | **Last updated:** 2025‑11‑23  
+**First created:** 2025‑11‑02 | **Last updated:** 2025-12-09  
 *The royal blind spot in Britain’s constitutional design.*  
 
 ---
@@ -97,12 +97,12 @@ soft power, constitutional blind spot, royal accountability, trust decay, britai
 
 > 📡 Cross‑references:  
 > 
-> - [⚖️ soft_power_without_soft_accountability.md] — preceding node  
-> - [🌍 deregulation_as_diplomatic_infrastructure.md] — structural twin  
-> - [🏏 Pitch_at_Palace_Audit_Practice/] — applied prestige‑network case  
-> - [🧱 trickle_down_impunity.md] — cultural downstream  
-> - [📘 diplomatic_archiving_standards.md] — policy remediation  
+> - [⚖️ soft_power_without_soft_accountability.md] — *preceding node*  
+> - [🌍 deregulation_as_diplomatic_infrastructure.md] — *structural twin*  
+> - [🏏 Pitch_at_Palace_Audit_Practice/] — *applied prestige‑network case*  
+> - [🧱 trickle_down_impunity.md] — *cultural downstream*  
+> - [📘 diplomatic_archiving_standards.md] — *policy remediation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑23_
+_Last updated: 2025-12-09_
