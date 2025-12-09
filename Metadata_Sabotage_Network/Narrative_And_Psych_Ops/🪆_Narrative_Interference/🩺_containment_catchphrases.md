@@ -1,5 +1,5 @@
-# 💬 Containment Catchphrases — The Language of Dismissal  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-24  
+# 🩺 Containment Catchphrases — The Language of Dismissal  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-09  
 *The polite phrases that keep complexity out of the room.*  
 
 ---
@@ -63,9 +63,9 @@ containment, language, dismissal, bureaucracy, survivor voice, contradiction, co
 ---
 
 ## 🏮 Footer  
-*💬 Containment Catchphrases — The Language of Dismissal* is a commentary node of the Polaris Protocol.  
+*🩺 Containment Catchphrases — The Language of Dismissal* is a commentary node of the Polaris Protocol.  
 It records the ordinary sentences that institutional actors use to flatten contradiction and maintain equilibrium — polite words that protect the system from human variance.  
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
