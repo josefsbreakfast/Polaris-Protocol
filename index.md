@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 17:46:22 UTC_
+_Generated on 2025-12-09 17:47:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -974,6 +974,7 @@ _Generated on 2025-12-09 17:46:22 UTC_
         - [`🌿_lawful_illegality_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_lawful_illegality_of_care.md)
         - [`🌿🦁_green_lion_as_liminality.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿🦁_green_lion_as_liminality.md)
         - [`🍎_how_to_internet_for_kids.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍎_how_to_internet_for_kids.md)
+        - [`🍑_the_soft_boy_restoration_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_the_soft_boy_restoration_protocol.md)
         - [`🍻_gullivar_syndrome_why_sailors_keep_washing_up_drunk.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍻_gullivar_syndrome_why_sailors_keep_washing_up_drunk.md)
         - [`🎶_theology_of_the_mix.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🎶_theology_of_the_mix.md)
         - [`🎺_rallying_call_and_loyal_hound.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🎺_rallying_call_and_loyal_hound.md)
@@ -2769,7 +2770,6 @@ _Generated on 2025-12-09 17:46:22 UTC_
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
-    - [`💗_the_soft_boy_restoration_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💗_the_soft_boy_restoration_protocol.md)
     - [`💞_affective_proxy_substitution_cross_gender_misread_as_desire.md`](Polaris_Nest/Git_Intake_Drawer/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md)
     - [`💞_connection_as_leverage.md`](Polaris_Nest/Git_Intake_Drawer/💞_connection_as_leverage.md)
     - [`💞_queer_theory_as_relational_literacy.md`](Polaris_Nest/Git_Intake_Drawer/💞_queer_theory_as_relational_literacy.md)
