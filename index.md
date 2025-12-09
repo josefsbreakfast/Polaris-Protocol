@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:08:45 UTC_
+_Generated on 2025-12-09 14:10:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2317,6 +2317,7 @@ _Generated on 2025-12-09 14:08:45 UTC_
       - [`🐍_prevent_as_a_self_eating_snake.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)
       - [`🐾_animal_assisted_ve_interventions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐾_animal_assisted_ve_interventions.md)
       - [`👾_british_policing_and_prevent_in_the_post_blm_era.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_british_policing_and_prevent_in_the_post_blm_era.md)
+      - [`👾_post_carceral_era_counter_extremism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_post_carceral_era_counter_extremism.md)
       - [`💼_industry_capture_identity_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)
       - [`📊_id_claims_vs_realities.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📊_id_claims_vs_realities.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
@@ -2741,7 +2742,6 @@ _Generated on 2025-12-09 14:08:45 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👾_post_carceral_era_counterextremism.md`](Polaris_Nest/Git_Intake_Drawer/👾_post_carceral_era_counterextremism.md)
     - [`👾_prevent_as_nationwide_formalised_buzzkill.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_nationwide_formalised_buzzkill.md)
     - [`👾_prevent_as_tool_of_coercive_control.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_tool_of_coercive_control.md)
     - [`👾_prevent_as_vibes_policing.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_vibes_policing.md)
