@@ -1,5 +1,5 @@
 # 👾 British Policing & PREVENT in the Post-BLM Era  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-09  
 *How Black Lives Matter shattered the illusion of neutrality in UK policing — and why PREVENT cannot survive unchanged in a culture that now recognises systemic racism as fact, not accusation.*  
 
 ---
@@ -208,9 +208,9 @@ post-BLM, policing legitimacy, prevent bias, structural racism, safeguarding dri
 ---
 
 ## 🏮 Footer  
-*British Policing & PREVENT in the Post-BLM Era* is a living node of the Polaris Protocol.  
+*👾 British Policing & PREVENT in the Post-BLM Era* is a living node of the Polaris Protocol.  
 It maps how BLM shattered the myth of institutional neutrality and why PREVENT must radically reform to maintain legitimacy.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
