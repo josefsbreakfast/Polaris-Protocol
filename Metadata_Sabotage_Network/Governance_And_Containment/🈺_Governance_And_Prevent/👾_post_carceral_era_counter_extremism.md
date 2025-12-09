@@ -1,5 +1,5 @@
 # 👾 Post-Carceral-Era Counter-Extremism  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-09  
 *What counter-extremism must become in a world where the old policing paradigm has lost legitimacy — and the public will no longer tolerate carceral logic disguised as safeguarding.*  
 
 ---
@@ -215,9 +215,9 @@ post-carceral, prevent reform, extremism landscape, legitimacy, policing crisis,
 ---
 
 ## 🏮 Footer  
-*Post-Carceral-Era Counter-Extremism* is a living node of the Polaris Protocol.  
+*👾 Post-Carceral-Era Counter-Extremism* is a living node of the Polaris Protocol.  
 It outlines what counter-extremism must become after the collapse of carceral legitimacy — and what PREVENT must confront if it wants to survive the next era.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
