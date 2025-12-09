@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 18:01:06 UTC_
+_Generated on 2025-12-09 18:02:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -253,6 +253,7 @@ _Generated on 2025-12-09 18:01:06 UTC_
         - [`🏛️_respectability_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_respectability_laundering.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
         - [`💣_trident_as_modern_kraken_security_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💣_trident_as_modern_kraken_security_theatre.md)
+        - [`💥_reputational_insurance_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💥_reputational_insurance_collapse.md)
         - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
         - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_over_recognition.md)
@@ -2776,7 +2777,6 @@ _Generated on 2025-12-09 18:01:06 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
-    - [`💥_reputational_insurance_collapse_under_narrative_instability.md`](Polaris_Nest/Git_Intake_Drawer/💥_reputational_insurance_collapse_under_narrative_instability.md)
     - [`💥_risk_vector_inversions.md`](Polaris_Nest/Git_Intake_Drawer/💥_risk_vector_inversions.md)
     - [`💥_solidarity_induced_model_failure.md`](Polaris_Nest/Git_Intake_Drawer/💥_solidarity_induced_model_failure.md)
     - [`💧_sludgy_solutions.md`](Polaris_Nest/Git_Intake_Drawer/💧_sludgy_solutions.md)
