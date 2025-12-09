@@ -1,7 +1,6 @@
 # 📡 Language as Attack Surface  
-
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*How linguistic drift becomes an exploitable vector for coordinated manipulation and how to defend against it.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+*How linguistic drift becomes an exploitable vector for coordinated manipulation and how to defend against it.*  
 
 ---
 
@@ -84,12 +83,13 @@ language manipulation, semantic erosion, information warfare, frame drift, archi
 *📡 Language as Attack Surface* is a living node of the Polaris Protocol.  
 It anchors operational tracking of linguistic manipulation and provides tools for semantic defence across digital platforms.  
 
-> 📡 Cross-references:  
-> - [watchlist/frame_drift_watchlist.yaml](./watchlist/frame_drift_watchlist.yaml) — current frame monitoring  
-> - [glossary/what_they_now_call_X.csv](./glossary/what_they_now_call_X.csv) — euphemism log  
-> - [interventions/counterframes.md](./interventions/counterframes.md) — counter-narrative bank  
-> - [templates/archive_capture_template.md](./templates/archive_capture_template.md) — archival SOP  
+> 📡 Cross-references:
+> 
+> - [watchlist/frame_drift_watchlist.yaml] — current frame monitoring  
+> - [glossary/what_they_now_call_X.csv] — euphemism log  
+> - [interventions/counterframes.md] — counter-narrative bank  
+> - [templates/archive_capture_template.md] — archival SOP  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-09_
