@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:35:33 UTC_
+_Generated on 2025-12-09 14:37:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2461,6 +2461,7 @@ _Generated on 2025-12-09 14:35:33 UTC_
       - [`👁‍🗨_the_boundary_as_border.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/👁‍🗨_the_boundary_as_border.md)
       - [`👅_gendered_racial_pivot.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/👅_gendered_racial_pivot.md)
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
+      - [`💔_manufactured_intimacy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💔_manufactured_intimacy.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
@@ -2757,7 +2758,6 @@ _Generated on 2025-12-09 14:35:33 UTC_
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💍_marriage_as_state_containment_trope.md`](Polaris_Nest/Git_Intake_Drawer/💍_marriage_as_state_containment_trope.md)
-    - [`💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md`](Polaris_Nest/Git_Intake_Drawer/💔_manufactured_intimacy_romantic_framing_as_legal_and_reputational_sabotage.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💔_risk_of_violent_treatment.md`](Polaris_Nest/Git_Intake_Drawer/💔_risk_of_violent_treatment.md)
     - [`💔_the_women_drafted_into_each_other.md`](Polaris_Nest/Git_Intake_Drawer/💔_the_women_drafted_into_each_other.md)
