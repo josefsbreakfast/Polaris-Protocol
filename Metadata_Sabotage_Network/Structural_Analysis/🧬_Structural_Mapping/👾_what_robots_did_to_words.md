@@ -1,5 +1,5 @@
 # 👾 What Robots Did to Words  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-04 | **Last updated:** 2025-12-09  
 *History of how AI altered speech — syntactically, socially, and spiritually.*  
 
 ---
@@ -75,4 +75,4 @@ It documents the historical and emotional consequences of algorithmic speech —
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
