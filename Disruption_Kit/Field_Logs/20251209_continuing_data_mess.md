@@ -21,3 +21,17 @@ also much lol re the rn update.
 beautiful coincidence and it did make me laugh.  
 
 ---
+
+i didnt realist i kind of did the brackets dogwhistle (this is how easy it is), but i'm going to leave them because i like the idea that we're all just rolling our eyes at white british insistsnce that a politican's non-response for literal weaponisation of the mechanisms of the holocaust is normal and in the overton window.  
+
+the overton window can come back disn from the ceiling if that's what is within it; the whole idea that that is normalised is nuts.  
+
+but then...  
+
+we have normalised a lot of genocide these past two years.  
+
+IT IS ALMOST AS IF IT IS LINKED.  
+
+thank you fof coming ti the ted talk; the refusal to see this, is incredibly annoying to me.  
+
+---
