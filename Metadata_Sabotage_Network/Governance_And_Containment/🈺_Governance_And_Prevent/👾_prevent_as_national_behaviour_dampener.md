@@ -1,5 +1,5 @@
 # 👾 PREVENT as National Behaviour Dampener  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How a counter-terror duty evolved into a system that suppresses emotion, dissent, and normal human variability.*  
 
 ---
@@ -55,7 +55,7 @@ PREVENT is judged by referral statistics, not by the silent behavioural field it
 ---
 
 ## Footer
-*PREVENT as National Behaviour Dampener* is a node in the Governance & Prevent cluster. It outlines how counter-extremism logic interacts with institutional fragility to suppress ordinary human emotion, political expression, and dissent.
+*👾 PREVENT as National Behaviour Dampener* is a node in the Governance & Prevent cluster. It outlines how counter-extremism logic interacts with institutional fragility to suppress ordinary human emotion, political expression, and dissent.
 
 Cross-references:  
 
@@ -64,4 +64,4 @@ Cross-references:
 - Intent-Free Authoritarian Drift
 - PREVENT as Tool for Coercive Control
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
