@@ -1,5 +1,5 @@
 # 👾 Algorithmic Projection and False Personalisation  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-09  
 *Includes analysis of counter-extremism correction loops and projection-based misattribution.*  
 *When predictive systems replay our emotional history so precisely that we mistake machine echo for human intent.*  
 
@@ -109,4 +109,4 @@ It documents how predictive systems recycle emotional data until statistical fam
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
