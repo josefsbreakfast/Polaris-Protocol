@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:25:00 UTC_
+_Generated on 2025-12-09 14:27:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -204,6 +204,7 @@ _Generated on 2025-12-09 14:25:00 UTC_
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
+        - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦯_algorithmic_delay_and_pacing.md)
         - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_didnt_apply_brain_loop.md)
         - [`🧠_smart_women_get_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
@@ -2750,7 +2751,6 @@ _Generated on 2025-12-09 14:25:00 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👾_we_are_citizens_not_datasets.md`](Polaris_Nest/Git_Intake_Drawer/👾_we_are_citizens_not_datasets.md)
     - [`👾_what_robots_did_to_words.md`](Polaris_Nest/Git_Intake_Drawer/👾_what_robots_did_to_words.md)
     - [`💃_cultural_charisma_as_governance_tool.md`](Polaris_Nest/Git_Intake_Drawer/💃_cultural_charisma_as_governance_tool.md)
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
