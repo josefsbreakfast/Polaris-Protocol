@@ -1,5 +1,5 @@
 # 💔 Manufactured Intimacy — Romantic Framing as Legal and Reputational Sabotage  
-**First created:** 2025-10-26 | **Last updated:** 2025-11-23  
+**First created:** 2025-10-26 | **Last updated:** 2025-12-09  
 *How coerced or fabricated narratives of affection are used to discredit witnesses, survivors, and whistle-blowers.*  
 
 ---
@@ -91,7 +91,7 @@ manufactured intimacy, romantic framing, reputational sabotage, witness credibil
 
 ## 🏮  Footer  
 
-*Manufactured Intimacy — Romantic Framing as Legal and Reputational Sabotage* is a diagnostic node of the **Polaris Protocol**.  
+*💔 Manufactured Intimacy* is a diagnostic node of the **Polaris Protocol**.  
 It documents how emotional framing can be weaponised to erode credibility and obscure systemic misconduct.  
 Recognising and recording context protects both truth and testimony.
 
@@ -104,4 +104,4 @@ Recognising and recording context protects both truth and testimony.
 
 *Survivor authorship is sovereign. Context is defence.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-09_
