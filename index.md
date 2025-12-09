@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:02:55 UTC_
+_Generated on 2025-12-09 14:03:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2470,6 +2470,7 @@ _Generated on 2025-12-09 14:02:55 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
       - [`🐍_algorithmic_hostage_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md)
       - [`👻_ghost_persona_error_modes.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👻_ghost_persona_error_modes.md)
+      - [`👾_algorithmic_projection_and_false_personalisation.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👾_algorithmic_projection_and_false_personalisation.md)
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
@@ -2737,7 +2738,6 @@ _Generated on 2025-12-09 14:02:55 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👾_algorithmic_projection_and_false_personalisation.md`](Polaris_Nest/Git_Intake_Drawer/👾_algorithmic_projection_and_false_personalisation.md)
     - [`👾_bad_algorithms_good_data.md`](Polaris_Nest/Git_Intake_Drawer/👾_bad_algorithms_good_data.md)
     - [`👾_british_policing_and_prevent_post_blm.md`](Polaris_Nest/Git_Intake_Drawer/👾_british_policing_and_prevent_post_blm.md)
     - [`👾_intent_free_authoritarianism.md`](Polaris_Nest/Git_Intake_Drawer/👾_intent_free_authoritarianism.md)
