@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 14:07:51 UTC_
+_Generated on 2025-12-09 14:08:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -196,6 +196,7 @@ _Generated on 2025-12-09 14:07:51 UTC_
         - [`🏛️_the_boringing_uk_2010_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
         - [`👹_how_predators_weaponise_safeguarding_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👹_how_predators_weaponise_safeguarding_systems.md)
+        - [`👾_intent_free_authoritarian_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
         - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
@@ -2740,7 +2741,6 @@ _Generated on 2025-12-09 14:07:51 UTC_
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`👾_intent_free_authoritarianism.md`](Polaris_Nest/Git_Intake_Drawer/👾_intent_free_authoritarianism.md)
     - [`👾_post_carceral_era_counterextremism.md`](Polaris_Nest/Git_Intake_Drawer/👾_post_carceral_era_counterextremism.md)
     - [`👾_prevent_as_nationwide_formalised_buzzkill.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_nationwide_formalised_buzzkill.md)
     - [`👾_prevent_as_tool_of_coercive_control.md`](Polaris_Nest/Git_Intake_Drawer/👾_prevent_as_tool_of_coercive_control.md)
