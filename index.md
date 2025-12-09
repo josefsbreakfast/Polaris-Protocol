@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-09 10:50:12 UTC_
+_Generated on 2025-12-09 10:54:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -973,6 +973,7 @@ _Generated on 2025-12-09 10:50:12 UTC_
         - [`🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md)
         - [`🐄_land_scarcity_and_space_dignity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md)
         - [`🐝_volcanic_rest_theory.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐝_volcanic_rest_theory.md)
+        - [`🐣_canaries_and_cassandras.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐣_canaries_and_cassandras.md)
         - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
         - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
@@ -2719,7 +2720,6 @@ _Generated on 2025-12-09 10:50:12 UTC_
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
     - [`🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md`](Polaris_Nest/Git_Intake_Drawer/🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md)
-    - [`🐣_canaries_and_cassandras.md`](Polaris_Nest/Git_Intake_Drawer/🐣_canaries_and_cassandras.md)
     - [`🐦‍⬛_cards_indices_grids.md`](Polaris_Nest/Git_Intake_Drawer/🐦‍⬛_cards_indices_grids.md)
     - [`🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md`](Polaris_Nest/Git_Intake_Drawer/🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md)
     - [`🐺_dickwolves_survivors_guild.md`](Polaris_Nest/Git_Intake_Drawer/🐺_dickwolves_survivors_guild.md)
