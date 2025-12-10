@@ -291,9 +291,8 @@ It documents how structural over-extraction, mass trauma, and economic precarity
 
 > 📡 Cross-references:  
 >   
-> • **🌀 Systems & Governance** — structural failure modes in late-stage economies  
-> • **✨ Glimmer_Is_Taxable_And_Other_Big_Drums** — symbolic economies and crisis logic  
-> • **🧠 Psychological_Containment** — cognitive load as a suppression vector  
+> - [⚙️ Overclocked Capitalism]../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overclocked_capitalism.md) - *when economics rules the body*
+> - [🧠 The Cognitive Vulnerability Stack of Lonely Men]../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md) - *the specific threats posed to all men under capitalism in overdrive, in pre-existing patriachy and white supremacy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
