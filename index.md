@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 04:16:59 UTC_
+_Generated on 2025-12-10 04:18:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1034,6 +1034,7 @@ _Generated on 2025-12-10 04:16:59 UTC_
         - [`👁️‍🗨️_surveillance_of_disabled_bodies.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md)
         - [`💔_the_need_for_touch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💔_the_need_for_touch.md)
         - [`💰_resolving_the_fear_of_the_poor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💰_resolving_the_fear_of_the_poor.md)
+        - [`📚_class_coded_literacy_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/📚_class_coded_literacy_patterns.md)
         - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
         - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
@@ -2813,7 +2814,6 @@ _Generated on 2025-12-10 04:16:59 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_banned_books_and_the_timing_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📚_banned_books_and_the_timing_of_truth.md)
-    - [`📚_class_coded_literacy_patterns.md`](Polaris_Nest/Git_Intake_Drawer/📚_class_coded_literacy_patterns.md)
     - [`📚_fictional_subject_construction.md`](Polaris_Nest/Git_Intake_Drawer/📚_fictional_subject_construction.md)
     - [`📚_library_as_algorithmic_interface.md`](Polaris_Nest/Git_Intake_Drawer/📚_library_as_algorithmic_interface.md)
     - [`📚_meta_silence_and_the_optimization_of_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/📚_meta_silence_and_the_optimization_of_ignorance.md)
