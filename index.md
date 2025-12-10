@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 23:42:04 UTC_
+_Generated on 2025-12-10 23:45:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2595,6 +2595,7 @@ _Generated on 2025-12-10 23:42:04 UTC_
       - [`📩_the_fictional_email_problem.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📩_the_fictional_email_problem.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
+      - [`🚨_fragility_as_performance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🚨_fragility_as_performance.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
       - [`🧨_trace_resistance_framework.yaml`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_trace_resistance_framework.yaml)
       - [`🧩_repairing_trust_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧩_repairing_trust_chains.md)
