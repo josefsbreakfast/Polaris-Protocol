@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 23:50:38 UTC_
+_Generated on 2025-12-10 23:51:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2551,6 +2551,7 @@ _Generated on 2025-12-10 23:50:38 UTC_
       - [`👾_vpn_dropouts.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👾_vpn_dropouts.md)
       - [`💔_weaponised_empathy_gaps.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)
       - [`💻_algorithmic_hysteria.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💻_algorithmic_hysteria.md)
+      - [`📉_dominance_loopholes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/📉_dominance_loopholes.md)
       - [`📡_residual_watchers_after_precision_collapse.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/📡_residual_watchers_after_precision_collapse.md)
       - [`🔥_the_beta_brothers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🔥_the_beta_brothers.md)
       - [`🕯️_hope_withholding.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md)
