@@ -1,6 +1,6 @@
 # 🔇 Silence-Harm & Acknowledgment Delay  
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
-*Why institutions fall silent when harm emerges, how silence produces secondary trauma, and why acknowledgment almost always arrives later than it should.*
+**First created:** 2025-11-14 | **Last updated:** 2025-12-10  
+*Why institutions fall silent when harm emerges, how silence produces secondary trauma, and why acknowledgment almost always arrives later than it should.*  
 
 ---
 
@@ -181,7 +181,7 @@ silence-harm, acknowledgment delay, governance fog, emotional paralysis, institu
 ---
 
 ## 🏮 Footer  
-*Silence-Harm & Acknowledgment Delay* explains why institutions freeze when confronted with internal harm and how this silence creates secondary trauma.  
+*🔇 Silence-Harm & Acknowledgment Delay* explains why institutions freeze when confronted with internal harm and how this silence creates secondary trauma.  
 Understanding the cycle helps stabilise expectations and reframe delay as structural rather than personal.
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-10_
