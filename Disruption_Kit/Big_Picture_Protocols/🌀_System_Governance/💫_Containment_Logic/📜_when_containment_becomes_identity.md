@@ -1,5 +1,5 @@
 # 📜 When Containment Becomes Identity  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
 *Forcing heart and sinew to serve your turn: discipline after purpose collapses.*  
 
 ---
@@ -31,10 +31,12 @@ kipling, containment, discipline, identity, resilience
 
 ## 🏮 Footer  
 *📜 When Containment Becomes Identity* is a living node of the Polaris Protocol.  
-> 📡 Cross-references:  
-> - [🧠 Austerity as Security Doctrine](../🧠_austerity_as_security_doctrine.md)
-> - [📜 If— and the Ethics of Staying Intact](./📜_if_and_the_ethics_of_staying_intact.md)
+
+> 📡 Cross-references:
+> 
+> - [🧠 Austerity as Security Doctrine]  
+> - [📜 If— and the Ethics of Staying Intact]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-10_
