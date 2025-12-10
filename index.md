@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:16:23 UTC_
+_Generated on 2025-12-10 22:17:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -302,6 +302,7 @@ _Generated on 2025-12-10 22:16:23 UTC_
         - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💸_repression_cost_capital.md)
         - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_kpi_vs_okr_in_government.md)
         - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_scale_of_effects_estimate.md)
+        - [`📡_inquiry_convergence_theory.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📡_inquiry_convergence_theory.md)
         - [`🕸️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🕸️_exploitability_and_defensive_strategy.md)
         - [`🚀_mordernising_information_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🚀_mordernising_information_defence.md)
         - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_ai_middleware.md)
@@ -2878,7 +2879,6 @@ _Generated on 2025-12-10 22:16:23 UTC_
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
     - [`📠_the_72_hour_comedy_of_compliance.md`](Polaris_Nest/Git_Intake_Drawer/📠_the_72_hour_comedy_of_compliance.md)
-    - [`📡_inquiry_convergence_theory.md`](Polaris_Nest/Git_Intake_Drawer/📡_inquiry_convergence_theory.md)
     - [`📡_institutional_risk_posture_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/📡_institutional_risk_posture_diagnostics.md)
     - [`📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md`](Polaris_Nest/Git_Intake_Drawer/📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md)
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
