@@ -1,5 +1,5 @@
 # 📊 The Objectivity Paradox — How Data Science Proved Men Are the Emotional Gender  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-10  
 *The discipline built to measure rationality accidentally became a barometer of male emotion.*  
 
 ---
@@ -66,4 +66,4 @@ It serves as a satirical commentary on the collapse of “rational” data cultu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-10_
