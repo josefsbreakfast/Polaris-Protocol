@@ -1,5 +1,5 @@
 # 📚 The Reflex to Hide the Book
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-10  
 *When critique triggers containment faster than reflection.*
 
 ---
@@ -42,13 +42,14 @@ book suppression, reputational risk, institutional fragility, containment reflex
 
 ## 🏮 Footer  
 
-*The Reflex to Hide the Book* is a living node of the Polaris Protocol.  
+*📚 The Reflex to Hide the Book* is a living node of the Polaris Protocol.  
 It analyses how suppression behaviour validates the very critiques it seeks to erase.  
 
-> 📡 Cross-references:  
-> - [Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🔥_suppression_as_signal.md) — diagnostic framework for overreaction  
-> - [Macro Containment Architecture](../Disruption_Kit/Big_Picture_Protocols/🕸️_macro_containment_architecture.md) — upstream policy reflexes  
+> 📡 Cross-references:
+> 
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic framework for overreaction*  
+> - [🕸️ Macro Containment Architecture] — *upstream policy reflexes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-10_
