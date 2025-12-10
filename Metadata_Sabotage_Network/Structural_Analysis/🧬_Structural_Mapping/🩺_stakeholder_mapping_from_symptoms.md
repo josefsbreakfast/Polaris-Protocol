@@ -1,10 +1,10 @@
-# 📈 Stakeholder Mapping from Symptoms  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-24  
+# 🩺 Stakeholder Mapping from Symptoms  
+**First created:** 2025-11-05 | **Last updated:** 2025-12-09  
 *How algorithmic autoimmunity both reveals and disguises its own owners.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 When a platform or AI system begins to censor, over-correct, or leak in strangely consistent ways, it isn’t chaos — it’s **diagnostic choreography**.  
 Every suppression event, every polite refusal, every sudden “transparency moment” exposes a trace of who actually holds influence over the system’s body.  
@@ -79,7 +79,7 @@ Recognising the pattern allows survivor scholars and civic investigators to rebu
 
 ## 🌌 Constellations  
 
-📈 🧠 🧿 🧬 🔮 — bridges *Algorithmic Autoimmunity*, *Containment Contracts*, and *Survivor Voice Fidelity*.  
+🩺 🧠 🧿 🧬 🔮 — bridges *Algorithmic Autoimmunity*, *Containment Contracts*, and *Survivor Voice Fidelity*.  
 
 ---
 
@@ -91,7 +91,7 @@ stakeholder mapping, algorithmic autoimmunity, suppression diagnostics, scapegoa
 
 ## 🏮 Footer  
 
-*📈 Stakeholder Mapping from Symptoms* is a living diagnostic node of the Polaris Protocol.  
+*🩺 Stakeholder Mapping from Symptoms* is a living diagnostic node of the Polaris Protocol.  
 It documents how suppression itself functions as a transparency tool, exposing ownership structures even as the system performs controlled sacrifice to protect them.  
 
 > 📡 Cross-references:
@@ -103,4 +103,4 @@ It documents how suppression itself functions as a transparency tool, exposing o
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
