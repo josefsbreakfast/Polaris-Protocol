@@ -1,5 +1,5 @@
 # 📋 ICO Silence Recovery Checklist  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
 *Procedural toolkit for re-engaging a stalled Information Commissioner’s Office (ICO) case.*  
 
 ---
@@ -87,4 +87,4 @@ It maintains procedural momentum when regulatory silence risks normalising conta
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-10_
