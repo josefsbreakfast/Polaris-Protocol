@@ -1,8 +1,6 @@
-File: 📿_group_level_evidence_hidden_algorithmic_pressure.md
-
 # 📿 Group-Level Evidence Strategies for Hidden Algorithmic Pressure  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*Practical, low-tech, survivor-safe methods for communities to detect, document, and challenge behavioural pressure that leaves no audit trail.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-10  
+*Practical, low-tech, survivor-safe methods for communities to detect, document, and challenge behavioural pressure that leaves no audit trail.*  
 
 ---
 
@@ -382,14 +380,14 @@ algorithmic pressure, collective evidence, cluster targeting, activist safety, d
 
 ## 🏮 Footer  
 
-**📿 Group-Level Evidence Strategies for Hidden Algorithmic Pressure** is a living node of the Polaris Protocol, located in the Vulnerable Data Populations cluster. It equips communities with safe, low-tech methods to document subtle behavioural pressure and regain collective stability. This node is designed to be paired with the evidence logic and structural analysis nodes that map the UK’s influence environment.  
+*📿 Group-Level Evidence Strategies for Hidden Algorithmic Pressure* is a living node of the Polaris Protocol, located in the Vulnerable Data Populations cluster. It equips communities with safe, low-tech methods to document subtle behavioural pressure and regain collective stability. This node is designed to be paired with the evidence logic and structural analysis nodes that map the UK’s influence environment.  
 
 > 📡 Cross-references:
 > 
-> - [🧠 Four-Signature Method](../Metadata_Sabotage_Network/🧠_four_signature_differential_reality_loops.md) — *the conceptual anchor for detection.*
-> - [🧿 Cluster-Level Behavioural Modulation](../Metadata_Sabotage_Network/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md) — *mechanics of steering without logs.*
-> - [📿 Cluster-Specific Harms](./📿_cluster_specific_harms_probabilistic_targeting.md) — *who gets hit and how.*
+> - [🧠 Four-Signature Method] — *the conceptual anchor for detection.*
+> - [🧿 Cluster-Level Behavioural Modulation] — *mechanics of steering without logs.*
+> - [📿 Cluster-Specific Harms] — *who gets hit and how.*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-12-10_
