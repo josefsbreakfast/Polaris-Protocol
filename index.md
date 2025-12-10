@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:47:45 UTC_
+_Generated on 2025-12-10 22:49:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -711,6 +711,7 @@ _Generated on 2025-12-10 22:47:45 UTC_
         - [`⚖️_transitional_change_vs_rapid_revolutionary_shock.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
         - [`✨_misinterpretation_risk_in_geopolitical_signalling.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✨_misinterpretation_risk_in_geopolitical_signalling.md)
         - [`🀄️_to_reveal_our_own_hand.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🀄️_to_reveal_our_own_hand.md)
+        - [`🇩🇪_you_cant_soothe_germany_twice.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇩🇪_you_cant_soothe_germany_twice.md)
         - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
         - [`🇬🇧_britain_is_queenless_now.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
         - [`🇷🇺_the_end_of_russias_camp_era.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
@@ -2906,7 +2907,6 @@ _Generated on 2025-12-10 22:47:45 UTC_
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
-    - [`🔔_you_cant_soothe_germany_twice.md`](Polaris_Nest/Git_Intake_Drawer/🔔_you_cant_soothe_germany_twice.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md`](Polaris_Nest/Git_Intake_Drawer/🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md)
     - [`🔥_controlled_fury_in_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🔥_controlled_fury_in_analysis.md)
