@@ -1,5 +1,5 @@
 # 📿 Strength as Gihasta
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
 *Rewriting the Strength archetype from domination to relational maintenance.*
 
 ---
@@ -53,8 +53,9 @@ strength, gihasta, relational ethics, tarot, diaspora, archetypes, survivor voic
 *📿 Strength as Gihasta* is a symbolic‑repair node of the Polaris Protocol.  
 It repositions strength as sustained relational practice rather than domination.
 
-> 📡 Cross-references:  
-> - [🔱 God as Plurality](./🔱_god_as_plurality.md)
+> 📡 Cross-references:
+> 
+> - [🔱 God as Plurality]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-10_
