@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 04:08:55 UTC_
+_Generated on 2025-12-10 04:10:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2173,6 +2173,7 @@ _Generated on 2025-12-10 04:08:55 UTC_
       - [`🎙️_cloneproof_protocol.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎙️_cloneproof_protocol.md)
       - [`📋_dual_officer_clarification_request.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_dual_officer_clarification_request.md)
       - [`📋_ico_silence_recovery_checklist.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_ico_silence_recovery_checklist.md)
+      - [`📋_rectification_notice_multi_agency.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_rectification_notice_multi_agency.md)
       - [`📱_app_security_basics_for_survivors.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📱_app_security_basics_for_survivors.md)
       - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
       - [`🪐_verifying_app_encryption_and_privacy_claims.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
@@ -2807,7 +2808,6 @@ _Generated on 2025-12-10 04:08:55 UTC_
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
-    - [`📋_rectification_notice_multi_agency.md`](Polaris_Nest/Git_Intake_Drawer/📋_rectification_notice_multi_agency.md)
     - [`📓_field_log_metadata_interference_and_defamation_campaign.md`](Polaris_Nest/Git_Intake_Drawer/📓_field_log_metadata_interference_and_defamation_campaign.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📘_how_declarations_work.md`](Polaris_Nest/Git_Intake_Drawer/📘_how_declarations_work.md)
