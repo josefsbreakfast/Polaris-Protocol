@@ -1,5 +1,5 @@
-# 📉 Ethics of Withdrawal — Divestment as Collective Boundary-Setting  
-**First created:** 2025-10-20 | **Last updated:** 2025-11-24  
+# 💰 Ethics of Withdrawal — Divestment as Collective Boundary-Setting  
+**First created:** 2025-10-20 | **Last updated:** 2025-12-09  
 *The moral geometry of stepping back: when refusal, retraction, and divestment become acts of care.*  
 
 ---
@@ -64,7 +64,7 @@ To stop feeding harm is to start feeding something else.
 ---
 
 ## 🌌 Constellations  
-📉 🈸 🧭 ⚖️ — divestment, refusal, restraint, consent, governance.  
+💰 📉 🈸 🧭 ⚖️ — divestment, refusal, restraint, consent, governance.  
 This node sits between financial activism and moral psychology, where boundary-setting becomes economic choreography.
 
 ---
@@ -75,7 +75,7 @@ divestment, withdrawal, consent, restraint, ethics, boundary-setting, moral econ
 ---
 
 ## 🏮 Footer  
-*📉 Ethics of Withdrawal — Divestment as Collective Boundary-Setting* is a living node of the Polaris Protocol.  
+*💰 Ethics of Withdrawal — Divestment as Collective Boundary-Setting* is a living node of the Polaris Protocol.  
 It treats withdrawal not as retreat but as design — the art of teaching systems where “no” belongs.  
 
 > 📡 Cross-references:
@@ -86,4 +86,4 @@ It treats withdrawal not as retreat but as design — the art of teaching system
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
