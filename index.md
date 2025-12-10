@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:36:08 UTC_
+_Generated on 2025-12-10 21:39:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2548,6 +2548,7 @@ _Generated on 2025-12-10 21:36:08 UTC_
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📊_the_missing_national_risk_register_2023_2025.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📊_the_missing_national_risk_register_2023_2025.md)
       - [`📘_sexualised_misinterpretation_pattern.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📘_sexualised_misinterpretation_pattern.md)
+      - [`📚_fictional_subject_construction.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_fictional_subject_construction.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
@@ -2853,7 +2854,6 @@ _Generated on 2025-12-10 21:36:08 UTC_
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
-    - [`📚_fictional_subject_construction.md`](Polaris_Nest/Git_Intake_Drawer/📚_fictional_subject_construction.md)
     - [`📚_library_as_algorithmic_interface.md`](Polaris_Nest/Git_Intake_Drawer/📚_library_as_algorithmic_interface.md)
     - [`📚_meta_silence_and_the_optimization_of_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/📚_meta_silence_and_the_optimization_of_ignorance.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
