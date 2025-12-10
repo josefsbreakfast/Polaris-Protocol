@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:28:22 UTC_
+_Generated on 2025-12-10 22:29:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2236,6 +2236,7 @@ _Generated on 2025-12-10 22:28:22 UTC_
       - [`📜_ico_ready_contradiction_framing.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)
       - [`📜_incomplete_search_behaviour_diagnostics.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_incomplete_search_behaviour_diagnostics.md)
       - [`📜_tactical_contradiction_communication.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_tactical_contradiction_communication.md)
+      - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
       - [`📱_app_security_basics_for_survivors.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📱_app_security_basics_for_survivors.md)
       - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
       - [`🪐_verifying_app_encryption_and_privacy_claims.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
@@ -2887,7 +2888,6 @@ _Generated on 2025-12-10 22:28:22 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Polaris_Nest/Git_Intake_Drawer/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
     - [`📩_the_fictional_email_problem.md`](Polaris_Nest/Git_Intake_Drawer/📩_the_fictional_email_problem.md)
     - [`📬_why_old_uni_accounts_show_access_attempts.md`](Polaris_Nest/Git_Intake_Drawer/📬_why_old_uni_accounts_show_access_attempts.md)
     - [`📮_osa_flag_clarification_request.md`](Polaris_Nest/Git_Intake_Drawer/📮_osa_flag_clarification_request.md)
