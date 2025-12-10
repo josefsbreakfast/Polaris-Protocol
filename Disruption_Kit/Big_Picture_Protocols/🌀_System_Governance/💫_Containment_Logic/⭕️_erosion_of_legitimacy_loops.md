@@ -1,5 +1,5 @@
-# 📉 Erosion of Legitimacy Loops  
-**First created:** 2025‑11‑02 | **Last updated:** 2025‑11‑24  
+# ⭕️ Erosion of Legitimacy Loops  
+**First created:** 2025‑11‑02 | **Last updated:** 2025-12-09  
 *How scandal feedback becomes a system of governance.*  
 
 ---
@@ -107,7 +107,7 @@ trust decay, legitimacy erosion, scandal feedback, governance psychology, politi
 
 ## 🏮 Footer  
 
-*📉 Erosion of Legitimacy Loops* is a living node of the **Polaris Protocol** that maps how scandal‑driven feedback loops transform episodic crises into a self‑sustaining mechanism of governance, gradually wearing down public trust while preserving institutional power.  
+*⭕️ Erosion of Legitimacy Loops* is a living node of the **Polaris Protocol** that maps how scandal‑driven feedback loops transform episodic crises into a self‑sustaining mechanism of governance, gradually wearing down public trust while preserving institutional power.  
 
 > 📡 Cross‑references:  
 > 
@@ -119,4 +119,4 @@ trust decay, legitimacy erosion, scandal feedback, governance psychology, politi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑245_
+_Last updated: 2025-12-09_
