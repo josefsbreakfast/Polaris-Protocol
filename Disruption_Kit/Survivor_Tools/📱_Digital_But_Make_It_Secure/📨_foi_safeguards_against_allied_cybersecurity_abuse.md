@@ -1,5 +1,5 @@
 # 📨 FOI Draft — Safeguards Against Allied Cybersecurity Abuse  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-26 | **Last updated:** 2025-12-10  
 *Suggested FOI wording to request UK Government assurances on citizen data protection in allied cybersecurity cooperation, with reference to Israel’s Emergency Regulations (Defence) 1945 and related emergency-powers frameworks.*
 
 ---
@@ -93,11 +93,12 @@ FOIA, cybersecurity, Israel, emergency powers, data protection, protest rights, 
 *FOI Draft — Safeguards Against Allied Cybersecurity Abuse* is a procedural node of the **Polaris Protocol**.  
 It models a lawful and respectful route for citizens to request transparency on data-protection safeguards within allied cyber-operations that may expose them to harm.  
 
-> 📡 Cross-references:  
-> - [🧿 Oversight Paralysis — When Allies Breach the Firewall](./🧿_oversight_paralysis_when_allies_breach_the_firewall.md)  
-> - [⚖️ Legal & State Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/)  
-> - [Survivor Tools](../../../Disruption_Kit/Survivor_Tools/) — correspondence templates and audit logs  
+> 📡 Cross-references:
+> 
+> - [🧿 Oversight Paralysis — When Allies Breach the Firewall]  
+> - [⚖️ Legal & State Governance]  
+> - [Survivor Tools]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-12-10_
