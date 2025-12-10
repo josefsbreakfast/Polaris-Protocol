@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:30:48 UTC_
+_Generated on 2025-12-10 21:34:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -531,6 +531,7 @@ _Generated on 2025-12-10 21:30:48 UTC_
         - [`🦠_opportunistic_disinfo_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦠_opportunistic_disinfo_pathogen.md)
         - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
         - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
+        - [`🧠_the_cognitive_vulnerability_stack_of_lonely_men.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)
         - [`🧠_utilisation_of_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)
         - [`🧨_differential_classification_as_radicalisation_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)
         - [`🧨_spectacle_of_raids.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_spectacle_of_raids.md)
@@ -3174,7 +3175,6 @@ _Generated on 2025-12-10 21:30:48 UTC_
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧠_shame_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧠_shame_economics.md)
     - [`🧠_the_black_box_of_executive_power.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_black_box_of_executive_power.md)
-    - [`🧠_the_cognitive_vulnerability_stack_of_lonely_men.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)
     - [`🧠_the_continuum_of_authoritarian_drift.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_continuum_of_authoritarian_drift.md)
     - [`🧠_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_last_hill.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
