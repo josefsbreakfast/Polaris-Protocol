@@ -1,6 +1,6 @@
 # 📣 PR Simulation Breakdown  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*Why political comms engines, crisis-response simulators, and audience-modelling tools collapse when confronted with real human complexity — especially diaspora solidarity and survivor-led moral clarity.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-10  
+*Why political comms engines, crisis-response simulators, and audience-modelling tools collapse when confronted with real human complexity — especially diaspora solidarity and survivor-led moral clarity.*  
 
 ---
 
@@ -228,3 +228,5 @@ This node links directly to:
 It is one of the core nodes explaining  
 why modern political institutions fail  
 when faced with real human beings.
+
+_Last updated: 2025-12-10_
