@@ -1,7 +1,6 @@
 # 📡 Pattern vs Person — Why Systems Mistake Individuals for Demographics  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
-*How thin-data environments, risk heuristics, and representational shortcuts cause institutions and algorithms to treat a single individual as if they represent an entire demographic pattern.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
+*How thin-data environments, risk heuristics, and representational shortcuts cause institutions and algorithms to treat a single individual as if they represent an entire demographic pattern.*  
 
 ---
 
@@ -201,9 +200,10 @@ is a living node of the Polaris Protocol.
 It explains how fragile data and rigid safety logic compress an individual into an inaccurate demographic symbol, distorting governance and harming survivors.
 
 > 📡 Cross-references:
-> - [🧼 Thin-Data Fragility](../🧼_thin_data_fragility.md)  
-> - [📣 The Shouting Whisper](../../🎭_Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)  
-> - [🇬🇧 British English Compendium](../../../British_English_Compendium/)  
+> 
+> - [🧼 Thin-Data Fragility]  
+> - [📣 The Shouting Whisper]  
+> - [🇬🇧 British English Compendium]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-10_
