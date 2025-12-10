@@ -1,7 +1,5 @@
-File: 📜_duty_to_correct_how_public_bodies_must_fix_wrong_data.md
-
 # 📜 Duty to Correct: How Public Bodies Must Fix Wrong Data  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
 *Why the right to correction is foundational to democratic participation — and how the absence of robust correction mechanisms enables misinterpretation, drift, and long-term bureaucratic harm.*
 
 ---
@@ -183,10 +181,12 @@ It restores dignity and ends punitive misremembering.
 ---
 
 ## 🏮 Footer  
-**Duty to Correct: How Public Bodies Must Fix Wrong Data** anchors Polaris’ data-rights architecture.  
+*📜 Duty to Correct: How Public Bodies Must Fix Wrong Data* anchors Polaris’ data-rights architecture.  
 It frames correction not as clerical nicety but as essential civic infrastructure — the foundation of democratic identity integrity.
 
 Crosslinks:  
 - 📛 *bureaucratic_memory_failure_and_identity_contamination*  
 - 📡 *cross-system_metadata_echo_chains*  
 - 🗃️ *safeguarding_logic_mission_creep_and_identity_pathologising*
+
+_Last updated: 2025-12-10_
