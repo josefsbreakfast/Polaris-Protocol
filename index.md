@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:29:54 UTC_
+_Generated on 2025-12-10 21:30:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -611,7 +611,7 @@ _Generated on 2025-12-10 21:29:54 UTC_
           - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
           - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/spv_dataflow_redacted.png)
           - [`⚖️_surveillance_driven_wealth_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚖️_surveillance_driven_wealth_tort_exposure.md)
-          - [`⚙️_overdrive_capitalism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overdrive_capitalism.md)
+          - [`⚙️_overclocked_capitalism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overclocked_capitalism.md)
           - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md)
           - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)
           - [`💰_credibility_brokers_and_golden_eggs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_credibility_brokers_and_golden_eggs.md)
