@@ -1,5 +1,5 @@
 # 📜 If— and the Ethics of Staying Intact  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
 *Survivor psychology and emotional integration in Kipling’s manual for living through loss.*  
 
 ---
@@ -31,10 +31,11 @@ kipling, emotional literacy, containment, survivor psychology, ethics
 
 ## 🏮 Footer  
 *📜 If— and the Ethics of Staying Intact* is a living node of the Polaris Protocol.  
+
 > 📡 Cross-references:  
-> - [📜 When Containment Becomes Identity](./📜_when_containment_becomes_identity.md)
-> - [⚖️ Official Secrets Reform and Accountability](../⚖️_official_secrets_reform_and_accountability.md)
+> - [📜 When Containment Becomes Identity]  
+> - [⚖️ Official Secrets Reform and Accountability]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-10_
