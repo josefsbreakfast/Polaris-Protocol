@@ -114,3 +114,9 @@ Notoriously easy to get into.
 It's not a threat; I don't have that skill set. I'm just tired of seeing other people's adverts on my feed.  
 
 ---
+
+I take it from the prostitute and "sold woman" references, that you have not adequately thought about that.  
+
+You should, especially seeing as you seem to break into other peoples things.  
+
+---
