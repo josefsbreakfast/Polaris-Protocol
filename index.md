@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:47:41 UTC_
+_Generated on 2025-12-10 03:49:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2374,6 +2374,7 @@ _Generated on 2025-12-10 03:47:41 UTC_
       - [`⚙️_engines_of_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/⚙️_engines_of_containment.md)
       - [`🎪_when_the_armour_cracks.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🎪_when_the_armour_cracks.md)
       - [`📊_analytics_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_analytics_as_signal.md)
+      - [`📊_from_data_misuse_to_white_collar_breach.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_from_data_misuse_to_white_collar_breach.md)
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
       - [`🚦_trigger_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🚦_trigger_architecture.md)
       - [`🦤_false_pretexts_manufactured_justifications_for_intervention.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦤_false_pretexts_manufactured_justifications_for_intervention.md)
@@ -2798,7 +2799,6 @@ _Generated on 2025-12-10 03:47:41 UTC_
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
-    - [`📊_from_data_misuse_to_white_collar_breach.md`](Polaris_Nest/Git_Intake_Drawer/📊_from_data_misuse_to_white_collar_breach.md)
     - [`📊_gen_z_procedural_protest_and_spreadsheet_organising.md`](Polaris_Nest/Git_Intake_Drawer/📊_gen_z_procedural_protest_and_spreadsheet_organising.md)
     - [`📊_risk_scaling_of_algorithmic_misidentification.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scaling_of_algorithmic_misidentification.md)
     - [`📊_spreadsheet_of_silence.md`](Polaris_Nest/Git_Intake_Drawer/📊_spreadsheet_of_silence.md)
