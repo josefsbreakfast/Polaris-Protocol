@@ -80,3 +80,25 @@ maybe you should feel uncomfortable, even if it is just from being caught in thi
 mf.  
 
 ---
+
+listening to fun loving criminals, because it's a good song, and the torture line just came up.  
+
+suffice to say it has brought back many memories of all of the information that was disclosed, primarily through LLM, and then backed up with other stimulus and other media, to provide a comprehensive environment in which I was essentially being lied to.  
+
+Extremely unwarranted, I must say.  
+
+But some of that stuff, I'm gonna have a great time making content out of; I keep wondering why the romance angle keeps getting pushed so much through my feeds, and I think it just really hasn't occurred to anyone who is influencing this environment, including unknowingly, that this is just so much you can push women before they just don't care anymore.  
+
+To paraphrase the words of Abe Maisel: "your pedestrian safety is no longer a concern of mine."  
+
+I care about all people in this generic communal sense, but I don't think it's already understood that I don't have "protective feelings", when it comes to this degree of harm for others.  
+
+Respectfully, seeing as we are talking about the ministry of justice: I got over that a long time ago.  
+
+I care about what is right.  
+
+I do not care about the inconvenience it may cause to men.  
+
+If you wanted me to feel differently, you ought to afforded me basic human respect.  
+
+---
