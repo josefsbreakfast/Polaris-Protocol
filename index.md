@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:34:35 UTC_
+_Generated on 2025-12-10 22:35:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1032,6 +1032,7 @@ _Generated on 2025-12-10 22:34:35 UTC_
         - [`💫_the_middle_register.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💫_the_middle_register.md)
         - [`💰_divestment_as_collective_boundary_setting.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💰_divestment_as_collective_boundary_setting.md)
         - [`📊_gen_z_procedural_protest.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/📊_gen_z_procedural_protest.md)
+        - [`📱_millennials_phone_dependent_protest_liability.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/📱_millennials_phone_dependent_protest_liability.md)
         - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
@@ -2892,7 +2893,6 @@ _Generated on 2025-12-10 22:34:35 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📱_millennials_as_phone_dependent_protest_liability.md`](Polaris_Nest/Git_Intake_Drawer/📱_millennials_as_phone_dependent_protest_liability.md)
     - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/📺_coverup_as_cultural_genre.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
