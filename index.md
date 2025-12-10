@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:20:30 UTC_
+_Generated on 2025-12-10 22:20:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2685,6 +2685,7 @@ _Generated on 2025-12-10 22:20:30 UTC_
       - [`📊_risk_scaling_algorithmic_misidentification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scaling_algorithmic_misidentification.md)
       - [`📊_risk_scoring_architectures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md)
       - [`📡_metadata_scrutiny_uk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📡_metadata_scrutiny_uk.md)
+      - [`📡_pattern_vs_person.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📡_pattern_vs_person.md)
       - [`🚩_when_being_flagged_creates_the_evidence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🚩_when_being_flagged_creates_the_evidence.md)
       - [`🦁_the_rules_beneath_the_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦁_the_rules_beneath_the_rules.md)
       - [`🦠_the_mutation_of_targeting_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_the_mutation_of_targeting_rules.md)
@@ -2880,7 +2881,6 @@ _Generated on 2025-12-10 22:20:30 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md`](Polaris_Nest/Git_Intake_Drawer/📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md)
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
     - [`📡_residual_watchers_after_precision_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📡_residual_watchers_after_precision_collapse.md)
     - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
