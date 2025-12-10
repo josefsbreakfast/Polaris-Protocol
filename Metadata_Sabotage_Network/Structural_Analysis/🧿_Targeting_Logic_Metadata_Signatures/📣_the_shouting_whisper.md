@@ -1,7 +1,6 @@
 # 📣 The Shouting Whisper — Algorithmic Incentives to Silence or Extract Survivor Voices  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
-*Why systems overweight rare survivor voices, and how this creates two opposing institutional impulses: extract her speech or silence it.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
+*Why systems overweight rare survivor voices, and how this creates two opposing institutional impulses: extract her speech or silence it.*  
 
 ---
 
@@ -200,9 +199,10 @@ survivor voice, overweighting, data fragility, extraction logic, containment log
 It documents how rare survivor voices become algorithmically overweighted, producing contradictory institutional incentives to either extract speech or silence it — a structural phenomenon, not a behavioural trait.
 
 > 📡 Cross-references:
-> - [🧮 Focus Group of One](../../../Big_Picture_Protocols/)  
-> - [👅 Voice Disruption & Discrediting](../)  
-> - [🇬🇧 British English Compendium](../../../British_English_Compendium/)  
+> 
+> - [🧮 Focus Group of One]  
+> - [👅 Voice Disruption & Discrediting]  
+> - [🇬🇧 British English Compendium]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-10_
