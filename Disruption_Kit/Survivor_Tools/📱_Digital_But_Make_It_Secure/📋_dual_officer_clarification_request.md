@@ -1,5 +1,5 @@
 # 📋 Dual-Officer Clarification Request  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
 *Joint enquiry template requiring both the legal-governance and data-protection officers to confirm authority for any data-restriction or security mark.*  
 
 ---
@@ -75,4 +75,4 @@ It standardises how to compel joint accountability where governance and data-pro
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-10_
