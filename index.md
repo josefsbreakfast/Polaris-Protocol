@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:49:42 UTC_
+_Generated on 2025-12-10 21:50:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -212,6 +212,7 @@ _Generated on 2025-12-10 21:49:42 UTC_
         - [`📚_meta_silence_optimisation_of_ignorance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📚_meta_silence_optimisation_of_ignorance.md)
         - [`📚_reflex_to_hide_the_book.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📚_reflex_to_hide_the_book.md)
         - [`📚_suppressed_safe_collection.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📚_suppressed_safe_collection.md)
+        - [`📚_venus_in_furs_witchfinder_litmus_paper.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📚_venus_in_furs_witchfinder_litmus_paper.md)
         - [`📜_precrime_governance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_precrime_governance_uk.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
@@ -2860,7 +2861,6 @@ _Generated on 2025-12-10 21:49:42 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📚_venus_in_furs_as_witchfinder_litmus_paper.md`](Polaris_Nest/Git_Intake_Drawer/📚_venus_in_furs_as_witchfinder_litmus_paper.md)
     - [`📛_bureaucratic_memory_failure_and_identity_contamination.md`](Polaris_Nest/Git_Intake_Drawer/📛_bureaucratic_memory_failure_and_identity_contamination.md)
     - [`📜_duty_to_correct_how_public_bodies_must_fix_wrong_data.md`](Polaris_Nest/Git_Intake_Drawer/📜_duty_to_correct_how_public_bodies_must_fix_wrong_data.md)
     - [`📜_from_survivor_code_to_research_ethics.md`](Polaris_Nest/Git_Intake_Drawer/📜_from_survivor_code_to_research_ethics.md)
