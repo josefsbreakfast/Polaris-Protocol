@@ -1,6 +1,6 @@
-# 📿 Vulnerable Data Populations: Women, Whistleblowers & Prevent Drag  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*Why certain groups accumulate more behavioural drag, metadata entanglement, and institutional suspicion in Prevent-heavy ecosystems.*
+# 📿 Women, Whistleblowers, & Prevent Drag  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
+*Why certain groups accumulate more behavioural drag, metadata entanglement, and institutional suspicion in Prevent-heavy ecosystems.*  
 
 ---
 
@@ -191,9 +191,9 @@ women, whistleblowers, prevent, behavioural bias, metadata drag, vulnerability s
 ---
 
 ## 🏮 Footer  
-*Vulnerable Data Populations: Women, Whistleblowers & Prevent Drag* is a living node of the Polaris Protocol.  
+*📿 Vulnerable Data Populations: Women, Whistleblowers & Prevent Drag* is a living node of the Polaris Protocol.  
 It maps how overlapping behavioural systems disproportionately misclassify certain groups, producing structural harm even without intent.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-10_
