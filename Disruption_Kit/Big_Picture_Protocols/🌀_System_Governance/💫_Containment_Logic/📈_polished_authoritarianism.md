@@ -1,5 +1,5 @@
 # 📈 **Polished Authoritarianism — Aesthetic Laundering for Modern Extremism**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-09  
 *Fascism rarely arrives as chaos. It arrives as competence, professionalism, lighting, branding, and keynote decks.*  
 
 ---
@@ -249,4 +249,4 @@ It maps the shift from openly extremist aesthetic signals to modern, boardroom-f
 
 *Survivor authorship is sovereign. The polish is the camouflage.*
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
