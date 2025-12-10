@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:58:38 UTC_
+_Generated on 2025-12-10 21:59:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1069,6 +1069,7 @@ _Generated on 2025-12-10 21:58:38 UTC_
         - [`🐍_snake_bites_and_stolen_voices.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
         - [`🐍_trauma_commodification.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)
         - [`📛_pathway_fit_error.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📛_pathway_fit_error.md)
+        - [`📜_if_and_the_ethics_of_staying_intact.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📜_if_and_the_ethics_of_staying_intact.md)
         - [`🧠_behavioural_trajectories_lab_to_institution.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_behavioural_trajectories_lab_to_institution.md)
         - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
         - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md)
@@ -2866,7 +2867,6 @@ _Generated on 2025-12-10 21:58:38 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📜_if_and_the_ethics_of_staying_intact.md`](Polaris_Nest/Git_Intake_Drawer/📜_if_and_the_ethics_of_staying_intact.md)
     - [`📜_incomplete_search_behaviour_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/📜_incomplete_search_behaviour_diagnostics.md)
     - [`📜_loss_management_and_the_performance_of_composure.md`](Polaris_Nest/Git_Intake_Drawer/📜_loss_management_and_the_performance_of_composure.md)
     - [`📜_pre_escalation_friction_mapping.md`](Polaris_Nest/Git_Intake_Drawer/📜_pre_escalation_friction_mapping.md)
