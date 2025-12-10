@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 04:14:16 UTC_
+_Generated on 2025-12-10 04:15:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2506,6 +2506,7 @@ _Generated on 2025-12-10 04:14:16 UTC_
       - [`💞_affective_proxy_substitution.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💞_affective_proxy_substitution.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📊_the_missing_national_risk_register_2023_2025.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📊_the_missing_national_risk_register_2023_2025.md)
+      - [`📘_sexualised_misinterpretation_pattern.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📘_sexualised_misinterpretation_pattern.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
@@ -2810,7 +2811,6 @@ _Generated on 2025-12-10 04:14:16 UTC_
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
-    - [`📘_sexualised_misinterpretation_pattern.md`](Polaris_Nest/Git_Intake_Drawer/📘_sexualised_misinterpretation_pattern.md)
     - [`📚_authoritarian_century_bridge_of_register.md`](Polaris_Nest/Git_Intake_Drawer/📚_authoritarian_century_bridge_of_register.md)
     - [`📚_banned_books_and_the_timing_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📚_banned_books_and_the_timing_of_truth.md)
     - [`📚_class_coded_literacy_patterns.md`](Polaris_Nest/Git_Intake_Drawer/📚_class_coded_literacy_patterns.md)
