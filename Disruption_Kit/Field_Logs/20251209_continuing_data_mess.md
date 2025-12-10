@@ -68,3 +68,15 @@ taking away our voices weakems them for when we do need them.
 again: cannot see at all why any of this would be of any purpose. absolutely not.  
 
 ---
+
+well the sudden shift in algorithmic placement from the surrounding metadata after that last update was very telling.  
+
+either a broker of an individual feels very uncomfortable.  
+
+given what i have gone through that will come out of those foia requests?  
+
+maybe you should feel uncomfortable, even if it is just from being caught in this thing called, "accountability for one's own actions".  
+
+mf.  
+
+---
