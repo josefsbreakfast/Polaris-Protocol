@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 23:40:16 UTC_
+_Generated on 2025-12-10 23:42:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -551,6 +551,7 @@ _Generated on 2025-12-10 23:40:16 UTC_
         - [`🧠_the_cognitive_vulnerability_stack_of_lonely_men.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)
         - [`🧠_the_masculinity_gap.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_masculinity_gap.md)
         - [`🧠_utilisation_of_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)
+        - [`🧠_who_goes_beta.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_who_goes_beta.md)
         - [`🧨_differential_classification_as_radicalisation_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)
         - [`🧨_spectacle_of_raids.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_spectacle_of_raids.md)
         - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
