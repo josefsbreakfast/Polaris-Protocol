@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 04:12:01 UTC_
+_Generated on 2025-12-10 04:14:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2810,7 +2810,6 @@ _Generated on 2025-12-10 04:12:01 UTC_
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
-    - [`📘_how_declarations_work.md`](Polaris_Nest/Git_Intake_Drawer/📘_how_declarations_work.md)
     - [`📘_sexualised_misinterpretation_pattern.md`](Polaris_Nest/Git_Intake_Drawer/📘_sexualised_misinterpretation_pattern.md)
     - [`📚_authoritarian_century_bridge_of_register.md`](Polaris_Nest/Git_Intake_Drawer/📚_authoritarian_century_bridge_of_register.md)
     - [`📚_banned_books_and_the_timing_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📚_banned_books_and_the_timing_of_truth.md)
@@ -3653,6 +3652,7 @@ _Generated on 2025-12-10 04:12:01 UTC_
       - [`🧩_risk_matrix_incoming_correspondence.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/audit_risk_matrix/🧩_risk_matrix_incoming_correspondence.md)
     - [`README.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/README.md)
     - [`📊_corrospondence_and_items_received.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📊_corrospondence_and_items_received.md)
+    - [`📘_how_declarations_work.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📘_how_declarations_work.md)
     - [`📮_the_polaris_mail_box.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📮_the_polaris_mail_box.md)
     - [`🛒_the_data_drift_wedding_registry.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🛒_the_data_drift_wedding_registry.md)
   - [**🐘_Reply_All/**](🦆_Digital_Disruption/🐘_Reply_All/)
