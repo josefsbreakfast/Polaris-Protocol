@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:21:55 UTC_
+_Generated on 2025-12-10 22:23:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2530,6 +2530,7 @@ _Generated on 2025-12-10 22:21:55 UTC_
       - [`👾_vpn_dropouts.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👾_vpn_dropouts.md)
       - [`💔_weaponised_empathy_gaps.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)
       - [`💻_algorithmic_hysteria.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💻_algorithmic_hysteria.md)
+      - [`📡_residual_watchers_after_precision_collapse.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/📡_residual_watchers_after_precision_collapse.md)
       - [`🕯️_hope_withholding.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md)
       - [`🕯️_shabbat_exemption_inversion.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_shabbat_exemption_inversion.md)
       - [`😴_cognitive_load_as_infrastructure.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md)
@@ -2882,7 +2883,6 @@ _Generated on 2025-12-10 22:21:55 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📡_residual_watchers_after_precision_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📡_residual_watchers_after_precision_collapse.md)
     - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
     - [`📣_the_shouting_whisper.md`](Polaris_Nest/Git_Intake_Drawer/📣_the_shouting_whisper.md)
     - [`📥_entry_point_abuse_in_automated_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📥_entry_point_abuse_in_automated_datasets.md)
