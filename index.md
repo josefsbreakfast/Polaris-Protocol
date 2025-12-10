@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:13:52 UTC_
+_Generated on 2025-12-10 22:15:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -274,6 +274,7 @@ _Generated on 2025-12-10 22:13:52 UTC_
         - [`📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
         - [`📜_loss_management_performance_of_composure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📜_loss_management_performance_of_composure.md)
         - [`📢_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📢_calm_down_its_just_british.md)
+        - [`📣_pr_simulation_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)
         - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_clone_friendly_architecture.md)
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
@@ -2883,7 +2884,6 @@ _Generated on 2025-12-10 22:13:52 UTC_
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
     - [`📡_residual_watchers_after_precision_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📡_residual_watchers_after_precision_collapse.md)
     - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
-    - [`📣_pr_simulation_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/📣_pr_simulation_breakdown.md)
     - [`📣_the_shouting_whisper.md`](Polaris_Nest/Git_Intake_Drawer/📣_the_shouting_whisper.md)
     - [`📥_entry_point_abuse_in_automated_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📥_entry_point_abuse_in_automated_datasets.md)
     - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
