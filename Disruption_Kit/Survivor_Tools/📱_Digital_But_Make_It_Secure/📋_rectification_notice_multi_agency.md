@@ -1,5 +1,5 @@
 # 📋 Rectification Notice — Multi-Agency  
-**First created:** 2025-11-12  |  **Last updated:** 2025-11-24  
+**First created:** 2025-11-12  |  **Last updated:** 2025-12-10  
 *Template notice for cross-agency correction of mis-applied security or OSA-style metadata.*  
 
 ---
@@ -69,4 +69,4 @@ It documents how to force synchronised data-correction across inter-agency syste
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-10_
