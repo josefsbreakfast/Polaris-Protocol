@@ -1,5 +1,5 @@
-# 🔔 You Can’t Soothe Germany Twice
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13  
+# 🇩🇪 You Can’t Soothe Germany Twice
+**First created:** 2025-11-13 | **Last updated:** 2025-12-10  
 *Germany’s trauma-based openness to “soothing diplomacy” — and its hard limit.*
 
 ## 🛰️ Orientation
@@ -24,7 +24,7 @@ After invasion → soothing becomes impossible.
 germany, trauma, diplomacy, narrative rupture, vibes, pacifism
 
 ## 🏮 Footer
-*🔔 You Can’t Soothe Germany Twice* is a living node of the **Polaris Protocol**.
+*🇩🇪 You Can’t Soothe Germany Twice* is a living node of the **Polaris Protocol**.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-13_
+_Last updated: 2025-12-10_
