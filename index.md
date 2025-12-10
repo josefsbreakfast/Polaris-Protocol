@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:32:57 UTC_
+_Generated on 2025-12-10 22:34:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -729,6 +729,7 @@ _Generated on 2025-12-10 22:32:57 UTC_
         - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💸_russian_overlap_patterns.md)
         - [`📚_the_tenth_library.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📚_the_tenth_library.md)
         - [`📜_torah_as_structure_of_truth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📜_torah_as_structure_of_truth.md)
+        - [`📯_soundline_bark_to_trumpet.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📯_soundline_bark_to_trumpet.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
@@ -2891,7 +2892,6 @@ _Generated on 2025-12-10 22:32:57 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📯_soundline_bark_to_trumpet.md`](Polaris_Nest/Git_Intake_Drawer/📯_soundline_bark_to_trumpet.md)
     - [`📱_millennials_as_phone_dependent_protest_liability.md`](Polaris_Nest/Git_Intake_Drawer/📱_millennials_as_phone_dependent_protest_liability.md)
     - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/📺_coverup_as_cultural_genre.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
