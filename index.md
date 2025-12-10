@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:02:05 UTC_
+_Generated on 2025-12-10 22:03:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2228,6 +2228,7 @@ _Generated on 2025-12-10 22:02:05 UTC_
       - [`📋_rectification_notice_multi_agency.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_rectification_notice_multi_agency.md)
       - [`📜_ico_ready_contradiction_framing.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)
       - [`📜_incomplete_search_behaviour_diagnostics.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_incomplete_search_behaviour_diagnostics.md)
+      - [`📜_tactical_contradiction_communication.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_tactical_contradiction_communication.md)
       - [`📱_app_security_basics_for_survivors.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📱_app_security_basics_for_survivors.md)
       - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
       - [`🪐_verifying_app_encryption_and_privacy_claims.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
@@ -2869,7 +2870,6 @@ _Generated on 2025-12-10 22:02:05 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📜_pre_escalation_friction_mapping.md`](Polaris_Nest/Git_Intake_Drawer/📜_pre_escalation_friction_mapping.md)
     - [`📜_residual_shadow_audit.md`](Polaris_Nest/Git_Intake_Drawer/📜_residual_shadow_audit.md)
     - [`📜_torah_as_structure_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📜_torah_as_structure_of_truth.md)
     - [`📜_when_containment_becomes_identity.md`](Polaris_Nest/Git_Intake_Drawer/📜_when_containment_becomes_identity.md)
