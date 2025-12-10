@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:03:23 UTC_
+_Generated on 2025-12-10 22:05:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2809,6 +2809,8 @@ _Generated on 2025-12-10 22:03:23 UTC_
       - [`🧾_lost_stolen_id_cards.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/🧾_lost_stolen_id_cards.md)
       - [`🪪_dbs_checks_vs_id_cards.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/🪪_dbs_checks_vs_id_cards.md)
     - [**🧟‍♀️_Residual_Shadows/**](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/)
+      - [**audit/**](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/audit/)
+        - [`📜_residual_shadow_audit.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/audit/📜_residual_shadow_audit.md)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/README.md)
       - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
       - [`👥_twin_profiles_biometrics.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/👥_twin_profiles_biometrics.md)
@@ -2870,7 +2872,6 @@ _Generated on 2025-12-10 22:03:23 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📜_residual_shadow_audit.md`](Polaris_Nest/Git_Intake_Drawer/📜_residual_shadow_audit.md)
     - [`📜_torah_as_structure_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📜_torah_as_structure_of_truth.md)
     - [`📜_when_containment_becomes_identity.md`](Polaris_Nest/Git_Intake_Drawer/📜_when_containment_becomes_identity.md)
     - [`📝_prevent_flags_shape_life.md`](Polaris_Nest/Git_Intake_Drawer/📝_prevent_flags_shape_life.md)
