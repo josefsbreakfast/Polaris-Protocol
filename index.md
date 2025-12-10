@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:35:45 UTC_
+_Generated on 2025-12-10 22:37:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2812,6 +2812,7 @@ _Generated on 2025-12-10 22:35:45 UTC_
       - [`🐣_children_youth_id_card_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🐣_children_youth_id_card_risks.md)
       - [`💔_gender_sex_discrimination_id_cards.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_gender_sex_discrimination_id_cards.md)
       - [`💔_risk_of_violent_treatment.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_risk_of_violent_treatment.md)
+      - [`📿_cluster_specific_harms_in_probabilistic_targeting.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_cluster_specific_harms_in_probabilistic_targeting.md)
       - [`🕊️_refugees_asylum_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🕊️_refugees_asylum_id_risks.md)
       - [`🕷️_the_ratio_that_shouldnt_exist.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🕷️_the_ratio_that_shouldnt_exist.md)
       - [`🦔_enrolment_trauma_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🦔_enrolment_trauma_risks.md)
@@ -2897,7 +2898,6 @@ _Generated on 2025-12-10 22:35:45 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
-    - [`📿_cluster_specific_harms_probabilistic_targeting.md`](Polaris_Nest/Git_Intake_Drawer/📿_cluster_specific_harms_probabilistic_targeting.md)
     - [`📿_group_level_evidence_hidden_algorithmic_pressure.md`](Polaris_Nest/Git_Intake_Drawer/📿_group_level_evidence_hidden_algorithmic_pressure.md)
     - [`📿_strength_as_gihasta.md`](Polaris_Nest/Git_Intake_Drawer/📿_strength_as_gihasta.md)
     - [`📿_women_and_whistleblowers_and_prevent.md`](Polaris_Nest/Git_Intake_Drawer/📿_women_and_whistleblowers_and_prevent.md)
