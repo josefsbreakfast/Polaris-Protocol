@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:33:59 UTC_
+_Generated on 2025-12-10 03:36:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1008,6 +1008,7 @@ _Generated on 2025-12-10 03:33:59 UTC_
         - [`💕_for_the_women_who_suddenly_realise_they_are_here_too.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💕_for_the_women_who_suddenly_realise_they_are_here_too.md)
         - [`💞_queer_theory_as_relational_literacy.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💞_queer_theory_as_relational_literacy.md)
         - [`💫_the_middle_register.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💫_the_middle_register.md)
+        - [`💰_divestment_as_collective_boundary_setting.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💰_divestment_as_collective_boundary_setting.md)
         - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
@@ -2792,7 +2793,6 @@ _Generated on 2025-12-10 03:33:59 UTC_
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📈_the_ratio_that_shouldnt_exist.md`](Polaris_Nest/Git_Intake_Drawer/📈_the_ratio_that_shouldnt_exist.md)
-    - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
     - [`📉_signal_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📉_signal_collapse.md)
     - [`📊_abrahamic_clustering_and_policy_failure.md`](Polaris_Nest/Git_Intake_Drawer/📊_abrahamic_clustering_and_policy_failure.md)
     - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
