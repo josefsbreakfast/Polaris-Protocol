@@ -119,4 +119,6 @@ I take it from the prostitute and "sold woman" references, that you have not ade
 
 You should, especially seeing as you seem to break into other peoples things.  
 
+(It increases how valuable you are as a cachet of information to other people as well; there is no end to the risk when it comes to cyber security. I might not know how to do these things, but I understand how they conceptually work.)  
+
 ---
