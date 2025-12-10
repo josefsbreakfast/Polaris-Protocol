@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:39:46 UTC_
+_Generated on 2025-12-10 22:40:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -730,6 +730,7 @@ _Generated on 2025-12-10 22:39:46 UTC_
         - [`📚_the_tenth_library.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📚_the_tenth_library.md)
         - [`📜_torah_as_structure_of_truth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📜_torah_as_structure_of_truth.md)
         - [`📯_soundline_bark_to_trumpet.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📯_soundline_bark_to_trumpet.md)
+        - [`📿_strength_as_gihasta.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📿_strength_as_gihasta.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
@@ -2899,7 +2900,6 @@ _Generated on 2025-12-10 22:39:46 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
-    - [`📿_strength_as_gihasta.md`](Polaris_Nest/Git_Intake_Drawer/📿_strength_as_gihasta.md)
     - [`📿_women_and_whistleblowers_and_prevent.md`](Polaris_Nest/Git_Intake_Drawer/📿_women_and_whistleblowers_and_prevent.md)
     - [`🔁_recursive_parliamentary_containment_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔁_recursive_parliamentary_containment_loop.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
