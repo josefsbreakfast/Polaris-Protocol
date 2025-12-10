@@ -1,6 +1,6 @@
 # 📜 How MOUs Hide in Plain Sight — Local Government Transparency Gaps  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*The paperwork that never quite counts as a contract.*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-10  
+*The paperwork that never quite counts as a contract.*  
 
 ---
 
@@ -105,10 +105,7 @@ When diaspora groups or activists meet polite “neutrality” language from cou
 
 ## 🌌 Constellations  
 🏛️ Civil Security → 📜 How MOUs Hide in Plain Sight  
-Related nodes:  
-- [🧩 Resilience Economy vs Diaspora Democracy](🧩_resilience_economy_vs_diaspora_democracy.md)  
-- [📡 Reform and Local Capture — OSINT Brief](📡_reform_and_local_capture_osint_brief.md)  
-- [📊 The Missing National Risk Register 2023–2025](📊_the_missing_national_risk_register_2023_2025.md)
+
 
 ---
 
@@ -118,9 +115,14 @@ mou, memorandum of understanding, transparency, local government, foi, security 
 ---
 
 ## 🏮 Footer  
-*How MOUs Hide in Plain Sight — Local Government Transparency Gaps* is a live OSINT-method node within the **Civil Security** cluster of **🛰️ OSINT Field Operations**.  
+*📜 How MOUs Hide in Plain Sight — Local Government Transparency Gaps* is a live OSINT-method node within the *Civil Security* cluster of *🛰️ OSINT Field Operations*.  
 It documents the gap between formal transparency duties and the informal agreements where power actually moves.  
+
+Related nodes:  
+- [🧩 Resilience Economy vs Diaspora Democracy]  
+- [📡 Reform and Local Capture — OSINT Brief]  
+- [📊 The Missing National Risk Register 2023–2025]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-10_
