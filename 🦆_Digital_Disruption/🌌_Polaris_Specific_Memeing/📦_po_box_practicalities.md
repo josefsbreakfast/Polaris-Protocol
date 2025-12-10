@@ -1,5 +1,5 @@
 # 📦 PO Box Practicalities  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
 *The small operational truths of running a public-facing correspondence channel in 2025.*  
 
 ---
@@ -114,9 +114,9 @@ mail handling, po box, analogue communication, transparency, governance, corresp
 ---
 
 ## 🏮 Footer  
-*PO Box Practicalities* is a living node of the Polaris Protocol.  
+*📦 PO Box Practicalities* is a living node of the Polaris Protocol.  
 It outlines the safe operational handling of analogue correspondence through the Polaris mailing channel.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-10_
