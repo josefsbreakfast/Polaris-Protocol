@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 04:10:37 UTC_
+_Generated on 2025-12-10 04:12:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1841,6 +1841,7 @@ _Generated on 2025-12-10 04:10:37 UTC_
     - [`💌_how_i_was_that_confident_it_was_bs.md`](Disruption_Kit/Field_Logs/💌_how_i_was_that_confident_it_was_bs.md)
     - [`💸_propaganda_to_tarot.md`](Disruption_Kit/Field_Logs/💸_propaganda_to_tarot.md)
     - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
+    - [`📓_field_log_metadata_interference_and_defamation_campaign.md`](Disruption_Kit/Field_Logs/📓_field_log_metadata_interference_and_defamation_campaign.md)
     - [`📚_bookworm_bitches_unite.md`](Disruption_Kit/Field_Logs/📚_bookworm_bitches_unite.md)
     - [`📚_processing_the_forbidden_information_point.md`](Disruption_Kit/Field_Logs/📚_processing_the_forbidden_information_point.md)
     - [`📚_the_banned_book_first_reading.md`](Disruption_Kit/Field_Logs/📚_the_banned_book_first_reading.md)
@@ -2808,7 +2809,6 @@ _Generated on 2025-12-10 04:10:37 UTC_
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
-    - [`📓_field_log_metadata_interference_and_defamation_campaign.md`](Polaris_Nest/Git_Intake_Drawer/📓_field_log_metadata_interference_and_defamation_campaign.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📘_how_declarations_work.md`](Polaris_Nest/Git_Intake_Drawer/📘_how_declarations_work.md)
     - [`📘_sexualised_misinterpretation_pattern.md`](Polaris_Nest/Git_Intake_Drawer/📘_sexualised_misinterpretation_pattern.md)
