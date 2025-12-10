@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:49:02 UTC_
+_Generated on 2025-12-10 03:51:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2500,6 +2500,7 @@ _Generated on 2025-12-10 03:49:02 UTC_
       - [`💔_when_the_algorithm_thinks_its_a_rom_com.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💔_when_the_algorithm_thinks_its_a_rom_com.md)
       - [`💞_affective_proxy_substitution.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💞_affective_proxy_substitution.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
+      - [`📊_the_missing_national_risk_register_2023_2025.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📊_the_missing_national_risk_register_2023_2025.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
@@ -2802,7 +2803,6 @@ _Generated on 2025-12-10 03:49:02 UTC_
     - [`📊_gen_z_procedural_protest_and_spreadsheet_organising.md`](Polaris_Nest/Git_Intake_Drawer/📊_gen_z_procedural_protest_and_spreadsheet_organising.md)
     - [`📊_risk_scaling_of_algorithmic_misidentification.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scaling_of_algorithmic_misidentification.md)
     - [`📊_spreadsheet_of_silence.md`](Polaris_Nest/Git_Intake_Drawer/📊_spreadsheet_of_silence.md)
-    - [`📊_the_missing_national_risk_register_2023_2025.md`](Polaris_Nest/Git_Intake_Drawer/📊_the_missing_national_risk_register_2023_2025.md)
     - [`📊_the_objectivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/📊_the_objectivity_paradox.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📋_dual_officer_clarification_request.md`](Polaris_Nest/Git_Intake_Drawer/📋_dual_officer_clarification_request.md)
