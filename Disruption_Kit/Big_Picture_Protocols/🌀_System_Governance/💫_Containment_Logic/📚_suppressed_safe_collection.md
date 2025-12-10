@@ -1,5 +1,5 @@
 # 📚 Suppressed Safe Collection  
-**First created:** 2025-10-16 | **Last updated:** 2025-11-15  
+**First created:** 2025-10-16 | **Last updated:** 2025-12-10  
 *An anatomy of archival censorship disguised as library housekeeping.*  
 
 ---
@@ -76,9 +76,9 @@ It documents the genealogy of suppression as logistics — from the locked cabin
 
 > 📡 Cross-references:
 > 
-> - [👁️‍🗨️ Witness Historical Casefiles](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic witness archives*  
-> - [🧿 Watch The Watchers](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
+> - [👁️‍🗨️ Witness Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic witness archives*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2025-12-10_
