@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:17:33 UTC_
+_Generated on 2025-12-10 22:18:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -217,6 +217,7 @@ _Generated on 2025-12-10 22:17:33 UTC_
         - [`📚_venus_in_furs_witchfinder_litmus_paper.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📚_venus_in_furs_witchfinder_litmus_paper.md)
         - [`📜_precrime_governance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_precrime_governance_uk.md)
         - [`📜_when_containment_becomes_identity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_when_containment_becomes_identity.md)
+        - [`📠_the_72_hour_comedy_of_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📠_the_72_hour_comedy_of_compliance.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
@@ -2878,7 +2879,6 @@ _Generated on 2025-12-10 22:17:33 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📠_the_72_hour_comedy_of_compliance.md`](Polaris_Nest/Git_Intake_Drawer/📠_the_72_hour_comedy_of_compliance.md)
     - [`📡_institutional_risk_posture_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/📡_institutional_risk_posture_diagnostics.md)
     - [`📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md`](Polaris_Nest/Git_Intake_Drawer/📡_pattern_vs_person_systems_mistake_individuals_for_demographics.md)
     - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
