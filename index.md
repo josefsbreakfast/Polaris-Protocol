@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:59:47 UTC_
+_Generated on 2025-12-10 22:00:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -271,6 +271,7 @@ _Generated on 2025-12-10 21:59:47 UTC_
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
         - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_over_recognition.md)
         - [`📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
+        - [`📜_loss_management_performance_of_composure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📜_loss_management_performance_of_composure.md)
         - [`📢_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📢_calm_down_its_just_british.md)
         - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_clone_friendly_architecture.md)
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
@@ -2868,7 +2869,6 @@ _Generated on 2025-12-10 21:59:47 UTC_
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
     - [`📜_incomplete_search_behaviour_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/📜_incomplete_search_behaviour_diagnostics.md)
-    - [`📜_loss_management_and_the_performance_of_composure.md`](Polaris_Nest/Git_Intake_Drawer/📜_loss_management_and_the_performance_of_composure.md)
     - [`📜_pre_escalation_friction_mapping.md`](Polaris_Nest/Git_Intake_Drawer/📜_pre_escalation_friction_mapping.md)
     - [`📜_residual_shadow_audit.md`](Polaris_Nest/Git_Intake_Drawer/📜_residual_shadow_audit.md)
     - [`📜_torah_as_structure_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📜_torah_as_structure_of_truth.md)
