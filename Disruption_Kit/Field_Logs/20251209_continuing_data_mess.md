@@ -44,3 +44,19 @@ the nutbuags are still hanging around, apparantly.
 (or i am just being a hedgehog on fire; until i am less acutely traumatised? on fire.)  
 
 ---
+
+ive just sat through some fairly personal baitings after the feed has been a jumble since the giggle about someone screwing up their own blackmail.  
+
+what i will say is that theft is just straight up theft, and well done for the admission.  
+
+not sure i'm personally bothered about proving it in court; someone else almost certainly has enough evidence in another form.  
+
+a lot of time spent thinking about another man's genitals, and a lot of effort to sorcifically discredit them to me in particular.  
+
+because you couldn't recruit more that 2 brain cells looking at some search strings that were not your business?  
+
+sounds very unwarranted.  
+
+also can't really see how this would be in any way beneficial, but bet those sars are going to be juicy.  
+
+---
