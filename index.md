@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:20:53 UTC_
+_Generated on 2025-12-10 22:21:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2612,6 +2612,7 @@ _Generated on 2025-12-10 22:20:53 UTC_
       - [`👾_what_robots_did_to_words.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/👾_what_robots_did_to_words.md)
       - [`📊_spreadsheet_of_silence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📊_spreadsheet_of_silence.md)
       - [`📚_library_as_algorithmic_interface.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)
+      - [`📡_provenance_chain_audit.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📡_provenance_chain_audit.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
@@ -2881,7 +2882,6 @@ _Generated on 2025-12-10 22:20:53 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📡_provenance_chain_audit.md`](Polaris_Nest/Git_Intake_Drawer/📡_provenance_chain_audit.md)
     - [`📡_residual_watchers_after_precision_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📡_residual_watchers_after_precision_collapse.md)
     - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
     - [`📣_the_shouting_whisper.md`](Polaris_Nest/Git_Intake_Drawer/📣_the_shouting_whisper.md)
