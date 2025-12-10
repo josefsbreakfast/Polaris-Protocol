@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:42:30 UTC_
+_Generated on 2025-12-10 03:45:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -43,6 +43,7 @@ _Generated on 2025-12-10 03:42:30 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
         - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
         - [`🏮_epilogue_rank_vs_physics_vs_kraken.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🏮_epilogue_rank_vs_physics_vs_kraken.md)
+        - [`🐧_budget_efficiency_and_community_outreach.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🐧_budget_efficiency_and_community_outreach.md)
         - [`🕊️_dickin_medal_holders.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_dickin_medal_holders.md)
         - [`🕊️_gustav_and_the_network_of_impossible_messengers.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)
         - [`🛩️_the_april_fools_department_of_defence.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🛩️_the_april_fools_department_of_defence.md)
@@ -2795,7 +2796,6 @@ _Generated on 2025-12-10 03:42:30 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
     - [`📊_from_data_misuse_to_white_collar_breach.md`](Polaris_Nest/Git_Intake_Drawer/📊_from_data_misuse_to_white_collar_breach.md)
