@@ -1,6 +1,6 @@
 # 🔍 Mistaken Release as Friction Shortcut  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*How UK prisoner “release in error” incidents map onto throughput and friction-minimisation logic.*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-10  
+*How UK prisoner “release in error” incidents map onto throughput and friction-minimisation logic.*  
 
 ---
 
@@ -183,4 +183,4 @@ This node doesn’t claim that “AI freed these prisoners.” It shows how a **
 
 *If the machine later joins the loop, it won’t invent this logic. It will just make it harder to see — and harder to stop.*
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-10_
