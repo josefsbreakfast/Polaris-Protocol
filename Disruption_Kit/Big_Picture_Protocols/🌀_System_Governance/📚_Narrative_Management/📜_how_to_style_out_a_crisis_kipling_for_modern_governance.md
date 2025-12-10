@@ -1,5 +1,5 @@
 # 📜 How to Style Out a Crisis — Kipling for Modern Governance  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
 *A lecture-series outline on composure, containment & institutional survival.*  
 
 ---
@@ -33,10 +33,11 @@ kipling, crisis management, emotional regulation, composure, containment studies
 
 ## 🏮 Footer  
 *📜 How to Style Out a Crisis — Kipling for Modern Governance* is a living node of the Polaris Protocol.  
+
 > 📡 Cross-references:  
-> - [📜 Loss Management and the Performance of Composure](./📜_loss_management_and_the_performance_of_composure.md)
-> - [🧠 Austerity as Security Doctrine](../🧠_austerity_as_security_doctrine.md)
+> - [📜 Loss Management and the Performance of Composure]  
+> - [🧠 Austerity as Security Doctrine]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-10_
