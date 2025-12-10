@@ -1,5 +1,5 @@
 # 📄 The Form and the Feeling  
-**First created:** 2025-11-12  |  **Last updated:** 2025-11-24  
+**First created:** 2025-11-12  |  **Last updated:** 2025-12-09  
 *When procedural infrastructure collides with human affection.*  
 
 ---
@@ -76,8 +76,7 @@ It examines how bureaucratic logic interrupts emotional continuity and how gentl
 > 
 > - [💫 The Middle Register] — *emotional nuance and calm rebellion*  
 > - [🧠 Diagnostic Visibility Conditioning] — *misreads of emotion*  
-> - [☔️ Protocol Integrity SOP] — *style and ethical fidelity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
