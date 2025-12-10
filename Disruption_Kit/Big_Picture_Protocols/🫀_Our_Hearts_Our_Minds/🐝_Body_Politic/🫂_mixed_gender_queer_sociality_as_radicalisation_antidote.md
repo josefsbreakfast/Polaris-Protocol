@@ -1,7 +1,6 @@
 # 🫂 Mixed-Gender & Queer Sociality as Radicalisation Antidote  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*How friendships with women, queer people, and emotionally literate communities dismantle the conditions extremists rely on.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-10  
+*How friendships with women, queer people, and emotionally literate communities dismantle the conditions extremists rely on.*  
 
 ---
 
@@ -217,14 +216,14 @@ They know what’s at stake.
 ---
 
 ## 🏮 Footer  
-**Mixed-Gender & Queer Sociality as Radicalisation Antidote** is a living node of the Polaris Protocol.  
+*🫂 Mixed-Gender & Queer Sociality as Radicalisation Antidote* is a living node of the Polaris Protocol.  
 It details how relational diversity, emotional plurality, and community belonging dissolve the conditions extremists rely on — restoring humanity before ideology.
 
 > 📡 Cross-references:  
-> - [🧸 Softness as Counter-Extremism Infrastructure](./softness_as_counter_extremism_infrastructure.md)  
-> - [🛡️ Why Fascism Fears Softness](./why_fascism_fears_softness.md)  
-> - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)
+> - [🧸 Softness as Counter-Extremism Infrastructure]  
+> - [🛡️ Why Fascism Fears Softness]  
+> - [💗 Soft Boy Restoration Protocol]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-10_
