@@ -1,5 +1,5 @@
-# 📈 Escalation Drift in Complex Datasets  
-**First created:** 2025-10-31 | **Last updated:** 2025-11-24  
+# 🌋 Escalation Drift in Complex Datasets  
+**First created:** 2025-10-31 | **Last updated:** 2025-12-09  
 *How small local improvisations harden into institutional “truths” through replication, dependency, and audit inertia.*  
 
 ---
@@ -85,7 +85,7 @@ escalation drift · replication loops · provenance chains · institutional myth
 
 ## 🏮 Footer  
 
-*📈 Escalation Drift in Complex Datasets* traces how a one-line workaround matures into policy scripture.  
+*🌋 Escalation Drift in Complex Datasets* traces how a one-line workaround matures into policy scripture.  
 It forms a triad with:  
 
 - **📊 Crown-Service Flag and Metadata Drift** — how mis-typed authority seeds confusion.  
@@ -95,4 +95,4 @@ It forms a triad with:
 > *Integrity is recursive; so is error.*
 
 ---
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
