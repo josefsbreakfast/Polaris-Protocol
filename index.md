@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 23:53:31 UTC_
+_Generated on 2025-12-10 23:57:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -582,6 +582,7 @@ _Generated on 2025-12-10 23:53:31 UTC_
             - [`🎒_frankenstack_support_pack.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🎒_frankenstack_support_pack.md)
             - [`🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md)
             - [`🏛️_neutralising_frankenstacks_civil_service_guidance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🏛️_neutralising_frankenstacks_civil_service_guidance.md)
+            - [`🔥_stop_being_weird_and_start_being_wife_material_for_science.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🔥_stop_being_weird_and_start_being_wife_material_for_science.md)
             - [`🗺️_power_mapping_frankenstack_ecosystem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🗺️_power_mapping_frankenstack_ecosystem.md)
             - [`🛠️_neutralising_frankenstacks_next_steps.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🛠️_neutralising_frankenstacks_next_steps.md)
             - [`🧟‍♀️_frankenstack_anti_me_too_engine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_anti_me_too_engine.md)
@@ -2926,7 +2927,6 @@ _Generated on 2025-12-10 23:53:31 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
     - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🔥_opportunistic_escalation_peri_system_collapse.md)
-    - [`🔥_stop_being_weird_and_start_being_wife_material_for_science.md`](Polaris_Nest/Git_Intake_Drawer/🔥_stop_being_weird_and_start_being_wife_material_for_science.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
