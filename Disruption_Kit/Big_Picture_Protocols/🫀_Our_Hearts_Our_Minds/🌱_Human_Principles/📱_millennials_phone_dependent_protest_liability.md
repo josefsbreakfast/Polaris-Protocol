@@ -1,6 +1,6 @@
 # 📱 Millennials as Phone-Dependent Protest Liability  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*Why millennials cannot turn their phones off at protests, and how this shapes risk, coordination, anxiety, and the emotional architecture of modern mobilisation.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
+*Why millennials cannot turn their phones off at protests, and how this shapes risk, coordination, anxiety, and the emotional architecture of modern mobilisation.*  
 
 ---
 
@@ -203,14 +203,15 @@ And every protest movement needs medics as well as marshals.
 millennials, protest risk, phone dependence, digital prosthesis, generational dynamics, collective action
 
 ## 🏮 Footer  
-*Millennials as Phone-Dependent Protest Liability* is a living node of the Polaris Protocol.  
+*📱 Millennials as Phone-Dependent Protest Liability* is a living node of the Polaris Protocol.  
 It supports the **Generational Dynamics** and **Containment Studies** clusters by mapping digital vulnerability and emotional infrastructure in millennial mobilisation.
 
-> 📡 Cross-references:  
-> - [😩 Millennial Exhaustion as a Political Condition](./😩_millennial_exhaustion_as_a_political_condition.md)  
-> - [🏚️ Millennial Property Psychosis](./🏚️_millennial_property_psychosis.md)  
-> - [📊 Gen Z Procedural Protest & Spreadsheet Organising](./📊_gen_z_procedural_protest_and_spreadsheet_organising.md)
+> 📡 Cross-references:
+> 
+> - [😩 Millennial Exhaustion as a Political Condition]  
+> - [🏚️ Millennial Property Psychosis]  
+> - [📊 Gen Z Procedural Protest & Spreadsheet Organising]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-10_
