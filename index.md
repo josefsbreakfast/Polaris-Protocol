@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:56:15 UTC_
+_Generated on 2025-12-10 22:57:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1069,6 +1069,7 @@ _Generated on 2025-12-10 22:56:15 UTC_
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
         - [`🩻_reflex_against_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩻_reflex_against_care.md)
         - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
+        - [`🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
         - [`battleplan_metadata_twinning_convergence_containment.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/battleplan_metadata_twinning_convergence_containment.png)
@@ -3454,7 +3455,6 @@ _Generated on 2025-12-10 22:56:15 UTC_
     - [`🪼_prevent_the_alt_right_weapon.md`](Polaris_Nest/Git_Intake_Drawer/🪼_prevent_the_alt_right_weapon.md)
     - [`🪼_racialised_dual_attrition.md`](Polaris_Nest/Git_Intake_Drawer/🪼_racialised_dual_attrition.md)
     - [`🪼_toxic_systems_do_not_need_monsters.md`](Polaris_Nest/Git_Intake_Drawer/🪼_toxic_systems_do_not_need_monsters.md)
-    - [`🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md`](Polaris_Nest/Git_Intake_Drawer/🫂_mixed_gender_and_queer_sociality_as_radicalisation_antidote.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
