@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:51:36 UTC_
+_Generated on 2025-12-10 22:53:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1062,6 +1062,7 @@ _Generated on 2025-12-10 22:51:36 UTC_
         - [`💔_the_need_for_touch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💔_the_need_for_touch.md)
         - [`💰_resolving_the_fear_of_the_poor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💰_resolving_the_fear_of_the_poor.md)
         - [`📚_class_coded_literacy_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/📚_class_coded_literacy_patterns.md)
+        - [`🔥_femme_firewall_fatale.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔥_femme_firewall_fatale.md)
         - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
         - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
@@ -2910,7 +2911,6 @@ _Generated on 2025-12-10 22:51:36 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
-    - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_hasidic_thought_vs_state_violence_inversion.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hasidic_thought_vs_state_violence_inversion.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
     - [`🔥_metadata_more_dangerous_than_humans.md`](Polaris_Nest/Git_Intake_Drawer/🔥_metadata_more_dangerous_than_humans.md)
