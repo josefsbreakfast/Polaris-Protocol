@@ -1,5 +1,5 @@
 # 📊 Risk Scaling of Algorithmic Misidentification  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-10  
 *How small statistical probabilities create disproportionate human harm — and why we still don’t measure them.*  
 
 ---
@@ -84,4 +84,4 @@ It models how negligible probabilities produce tangible human trauma, and how bu
 > - [⚖️ Institutional Parasitism of Deradicalisation Work] — *extraction of stabilisation labour*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-10_
