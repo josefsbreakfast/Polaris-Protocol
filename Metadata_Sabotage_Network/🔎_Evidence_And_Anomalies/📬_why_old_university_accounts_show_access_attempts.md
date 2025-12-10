@@ -1,6 +1,6 @@
 # 📬 Why Old University Accounts Show Access Attempts  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-19  
-*Understanding how SAR/FOI workflows, identity objects, and routine admin processes create the appearance of “account activity.”*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-10  
+*Understanding how SAR/FOI workflows, identity objects, and routine admin processes create the appearance of “account activity.”*  
 
 ---
 
@@ -227,4 +227,4 @@ It supports *🧠 Big_Picture_Protocols* and complements the tech-governance lin
 It reframes “mysterious” access events as the predictable noise of large institutions under legal load, rather than targeted action.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-10_
