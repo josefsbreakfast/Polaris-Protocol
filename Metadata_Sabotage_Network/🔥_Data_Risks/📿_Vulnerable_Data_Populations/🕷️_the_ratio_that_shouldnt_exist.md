@@ -1,5 +1,5 @@
-# 📈 The Ratio That Shouldn’t Exist
-**First created:** 2025-10-31 | **Last updated:** 2025-11-24  
+# 🕷️ The Ratio That Shouldn’t Exist
+**First created:** 2025-10-31 | **Last updated:** 2025-12-09  
 *Data that performs silence.*  
 
 ---
@@ -134,7 +134,7 @@ female suicide trend, sexual violence prevalence, suppression as signal, data bl
 
 ## 🏮  Footer  
 
-*📈 The Ratio That Shouldn’t Exist* is a living node of the Polaris Protocol.  
+*🕷️ The Ratio That Shouldn’t Exist* is a living node of the Polaris Protocol.  
 It fuses quantitative record and survivor undertone to show how measurement itself becomes a site of harm — where omission is policy and format is containment.  
 
 > 📡 Cross-references:  
@@ -144,4 +144,4 @@ It fuses quantitative record and survivor undertone to show how measurement itse
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
