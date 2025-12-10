@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:27:22 UTC_
+_Generated on 2025-12-10 22:28:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1077,6 +1077,7 @@ _Generated on 2025-12-10 22:27:22 UTC_
         - [`🐍_trauma_commodification.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)
         - [`📛_pathway_fit_error.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📛_pathway_fit_error.md)
         - [`📜_if_and_the_ethics_of_staying_intact.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📜_if_and_the_ethics_of_staying_intact.md)
+        - [`📧_it_could_have_been_an_email.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📧_it_could_have_been_an_email.md)
         - [`🧠_behavioural_trajectories_lab_to_institution.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_behavioural_trajectories_lab_to_institution.md)
         - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
         - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md)
@@ -2886,7 +2887,6 @@ _Generated on 2025-12-10 22:27:22 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
     - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Polaris_Nest/Git_Intake_Drawer/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
     - [`📩_the_fictional_email_problem.md`](Polaris_Nest/Git_Intake_Drawer/📩_the_fictional_email_problem.md)
     - [`📬_why_old_uni_accounts_show_access_attempts.md`](Polaris_Nest/Git_Intake_Drawer/📬_why_old_uni_accounts_show_access_attempts.md)
