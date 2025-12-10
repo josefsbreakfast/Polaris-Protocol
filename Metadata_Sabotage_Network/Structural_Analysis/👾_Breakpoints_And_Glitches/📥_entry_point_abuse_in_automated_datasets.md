@@ -1,6 +1,6 @@
 # 📥 Entry-Point Abuse in Automated Datasets  
-**First created:** 2025-10-31 | **Last updated:** 2025‑11‑15  
-*How local discretion and professional trust become attack surfaces inside national-scale automation.*
+**First created:** 2025-10-31 | **Last updated:** 2025-12-10  
+*How local discretion and professional trust become attack surfaces inside national-scale automation.*  
 
 ---
 
@@ -95,4 +95,4 @@ It pairs with:
 
 > *Every system is only as honest as its first keystroke.*  
 
-_Last updated: 2025‑11‑15_  
+_Last updated: 2025-12-10_  
