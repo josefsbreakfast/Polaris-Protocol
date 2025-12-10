@@ -1,6 +1,10 @@
 # 📜 Torah as Structure of Truth  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Torah as cosmic architecture, ethical order, and the obligation to guard truth through speech.*
+**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
+*Torah as cosmic architecture, ethical order, and the obligation to guard truth through speech.*  
+
+---
+
+*I am not telling you to change up who you are or playing the "mine is best" game; this is a template and you can adapt it to suit your own sense of embodied connection to the world, however theat looks in practice.*  
 
 ---
 
@@ -54,10 +58,11 @@ torah, truth, cosmology, ethics, jewish law, speech, responsibility, tikkun, cre
 *📜 Torah as Structure of Truth* is a living node of the Polaris Protocol.  
 It restores the ethical and cosmological foundations of Jewish responsibility in times of atrocity.
 
-> 📡 Cross-references:  
-> - [🛑 Rabbinic Silence as Theological Collapse](../🛑_rabbinic_silence_as_theological_collapse.md)  
-> - [⚖️ Halakhic Prohibitions on Torture](../⚖️_halakhic_and_kabbalistic_prohibitions_on_torture_and_body_marking.md)
+> 📡 Cross-references:
+> 
+> - [🛑 Rabbinic Silence as Theological Collapse]  
+> - [⚖️ Halakhic Prohibitions on Torture]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-10_
