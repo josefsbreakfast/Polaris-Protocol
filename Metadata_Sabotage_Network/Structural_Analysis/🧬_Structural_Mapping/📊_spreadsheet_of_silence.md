@@ -1,5 +1,5 @@
 # 📊 The Spreadsheet of Silence — When Containment Becomes a Cell Format  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-24  
+**First created:** 2025-10-23 | **Last updated:** 2025-12-10  
 *Administrative quiet as data architecture.*  
 
 ---
@@ -70,4 +70,4 @@ It analyses how bureaucratic design performs censorship and outlines documentary
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-10_
