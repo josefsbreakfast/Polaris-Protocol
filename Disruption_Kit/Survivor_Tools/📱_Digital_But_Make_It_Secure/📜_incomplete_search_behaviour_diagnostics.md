@@ -1,5 +1,5 @@
 # 📜 Incomplete Search Behaviour (Diagnostics)  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-10  
 *How to identify, evidence, and frame the systematic signs that an institution has performed a partial, silo-limited, or flawed search in response to FOI or SAR obligations.*
 
 ---
@@ -237,3 +237,5 @@ This node supports:
 
 Together these nodes give Polaris users the complete diagnostic toolkit  
 for identifying hidden systems and demanding lawful transparency.
+
+_Last updated: 2025-12-10_
