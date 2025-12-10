@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:39:11 UTC_
+_Generated on 2025-12-10 03:42:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2604,6 +2604,7 @@ _Generated on 2025-12-10 03:39:11 UTC_
       - [`💥_risk_vector_inversions.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)
       - [`💥_synthetic_personas_and_actuarial_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💥_synthetic_personas_and_actuarial_failure.md)
       - [`💫_indie_verification_of_targeting_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💫_indie_verification_of_targeting_logic.md)
+      - [`📊_abrahamic_clustering_and_policy_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_abrahamic_clustering_and_policy_failure.md)
       - [`📊_risk_scoring_architectures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md)
       - [`📡_metadata_scrutiny_uk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📡_metadata_scrutiny_uk.md)
       - [`🚩_when_being_flagged_creates_the_evidence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🚩_when_being_flagged_creates_the_evidence.md)
@@ -2794,7 +2795,6 @@ _Generated on 2025-12-10 03:39:11 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`📊_abrahamic_clustering_and_policy_failure.md`](Polaris_Nest/Git_Intake_Drawer/📊_abrahamic_clustering_and_policy_failure.md)
     - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
