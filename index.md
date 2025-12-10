@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 23:51:10 UTC_
+_Generated on 2025-12-10 23:52:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -515,6 +515,7 @@ _Generated on 2025-12-10 23:51:10 UTC_
         - [`✍️_crime_writing_as_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
         - [`❌_negative_evidence_index.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_negative_evidence_index.md)
         - [`❌_the_alt_right_is_not_the_far_right.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_the_alt_right_is_not_the_far_right.md)
+        - [`🌀_authoritarian_personality_loop.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌀_authoritarian_personality_loop.md)
         - [`🌋_why_fascist_recruiters_promise_visibility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌋_why_fascist_recruiters_promise_visibility.md)
         - [`🌍_climate_panic_routing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌍_climate_panic_routing.md)
         - [`🌐_pre_infiltration_of_digital_male_spaces.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌐_pre_infiltration_of_digital_male_spaces.md)
