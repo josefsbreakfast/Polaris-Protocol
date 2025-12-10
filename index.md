@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:50:22 UTC_
+_Generated on 2025-12-10 21:51:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2632,6 +2632,7 @@ _Generated on 2025-12-10 21:50:22 UTC_
       - [`💔_shared_vendor_anomalies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💔_shared_vendor_anomalies.md)
       - [`💥_systemic_vendor_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)
       - [`💾_token_switching_pseudonymisation_gone_wrong.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💾_token_switching_pseudonymisation_gone_wrong.md)
+      - [`📛_bureaucratic_memory_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md)
       - [`📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md)
       - [`🔥_when_policy_versions_argue.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🔥_when_policy_versions_argue.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
@@ -2861,7 +2862,6 @@ _Generated on 2025-12-10 21:50:22 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📛_bureaucratic_memory_failure_and_identity_contamination.md`](Polaris_Nest/Git_Intake_Drawer/📛_bureaucratic_memory_failure_and_identity_contamination.md)
     - [`📜_duty_to_correct_how_public_bodies_must_fix_wrong_data.md`](Polaris_Nest/Git_Intake_Drawer/📜_duty_to_correct_how_public_bodies_must_fix_wrong_data.md)
     - [`📜_from_survivor_code_to_research_ethics.md`](Polaris_Nest/Git_Intake_Drawer/📜_from_survivor_code_to_research_ethics.md)
     - [`📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md)
