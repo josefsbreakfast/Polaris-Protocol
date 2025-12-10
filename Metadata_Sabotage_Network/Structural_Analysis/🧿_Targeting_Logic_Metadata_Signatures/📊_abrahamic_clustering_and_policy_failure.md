@@ -1,7 +1,7 @@
 # 📊 Abrahamic Clustering and Policy Failure  
-**First created:** 2025-11-24 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-24 | **Last updated:** 2025-12-09  
 *Why Western algorithmic systems inevitably misclassify Jews and Muslims, and why “Judeo‑Christian” alignment is mathematically, politically, and ethically impossible.*  
-
+<!--tl;dr: Because white supremacy.-->
 ---
 
 ## 1. Orientation  
@@ -227,4 +227,4 @@ abrahamic clustering, judeochristian critique, racialisation, policy failure, al
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
