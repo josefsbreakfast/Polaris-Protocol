@@ -1,5 +1,5 @@
 # 📚 Venus in Furs as Witchfinder Litmus Paper  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
+**First created:** 2025-10-24 | **Last updated:** 2025-12-10  
 *How moral reflexes betray algorithmic repression.*
 
 ---
@@ -149,10 +149,11 @@ venus in furs, moral panic, witch-hunt reflex, bureaucracy, censorship, endocrin
 *📚 Venus in Furs as Witchfinder Litmus Paper* is a living node of the Polaris Protocol.  
 It proposes humour as method and literature as instrument: a way to detect repression before it metastasises into policy.  
 
-> 📡 Cross-references:  
-> – [🔥 The Witchings of Europe](./🔥_the_witchings_of_europe.md) — historical analysis of suppression logics  
-> – [🧬 Algorithmic Endocrinology](../🧬_Algorithmic_Endocrinology/README.md) — physiological framework  
-> – [🧭 Governance and Oversight in Algorithmic Health](../🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md) — policy parallels  
+> 📡 Cross-references:
+> 
+> – [🔥 The Witchings of Europe] — *historical analysis of suppression logics*  
+> – [🧬 Algorithmic Endocrinology]  — *physiological framework*  
+> – [🧭 Governance and Oversight in Algorithmic Health] — *policy parallels*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-12-10_
