@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 23:49:56 UTC_
+_Generated on 2025-12-10 23:50:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -14,10 +14,6 @@ _Generated on 2025-12-10 23:49:56 UTC_
   - [`core-plugins.json`](.obsidian/core-plugins.json)
   - [`graph.json`](.obsidian/graph.json)
   - [`workspace.json`](.obsidian/workspace.json)
-- [**Big_Picture_Protocols/**](Big_Picture_Protocols/)
-  - [**🪄_Expression_Of_Norms/**](Big_Picture_Protocols/🪄_Expression_Of_Norms/)
-    - [**📺_Money_Talks_Media/**](Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/)
-      - [`💄_the_lipstick_range_rover_effect.md`](Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💄_the_lipstick_range_rover_effect.md)
 - [**Containment_Studies/**](Containment_Studies/)
   - [**🌙_Everyday_Containment/**](Containment_Studies/🌙_Everyday_Containment/)
     - [`README.md`](Containment_Studies/🌙_Everyday_Containment/README.md)
@@ -924,6 +920,7 @@ _Generated on 2025-12-10 23:49:56 UTC_
         - [`🎭_performative_left_failure_modes.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎭_performative_left_failure_modes.md)
         - [`🎭_pr_friendly_persona_flattening.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎭_pr_friendly_persona_flattening.md)
         - [`🏛️_neocon_think_tank_cluster.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)
+        - [`💄_the_lipstick_range_rover_effect.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💄_the_lipstick_range_rover_effect.md)
         - [`💋_apparatus_as_apprentice.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💋_apparatus_as_apprentice.md)
         - [`💰_votership_and_viewership.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💰_votership_and_viewership.md)
         - [`💸_donor_networks_alt_right_media_overlap.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/💸_donor_networks_alt_right_media_overlap.md)
