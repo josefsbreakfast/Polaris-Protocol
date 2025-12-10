@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:49:13 UTC_
+_Generated on 2025-12-10 22:50:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2629,6 +2629,7 @@ _Generated on 2025-12-10 22:49:13 UTC_
       - [`📊_spreadsheet_of_silence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📊_spreadsheet_of_silence.md)
       - [`📚_library_as_algorithmic_interface.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)
       - [`📡_provenance_chain_audit.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📡_provenance_chain_audit.md)
+      - [`🔗_engagement_spillover_how_one_post_creates_a_niche.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🔗_engagement_spillover_how_one_post_creates_a_niche.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
@@ -2908,7 +2909,6 @@ _Generated on 2025-12-10 22:49:13 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
-    - [`🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md`](Polaris_Nest/Git_Intake_Drawer/🔗_engagement_spillover_how_one_post_creates_a_niche_by_accident.md)
     - [`🔥_controlled_fury_in_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🔥_controlled_fury_in_analysis.md)
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_hasidic_thought_vs_state_violence_inversion.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hasidic_thought_vs_state_violence_inversion.md)
