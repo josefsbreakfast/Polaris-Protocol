@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:43:52 UTC_
+_Generated on 2025-12-10 22:45:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -220,6 +220,7 @@ _Generated on 2025-12-10 22:43:52 UTC_
         - [`📠_the_72_hour_comedy_of_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📠_the_72_hour_comedy_of_compliance.md)
         - [`📡_institutional_risk_posture_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📡_institutional_risk_posture_diagnostics.md)
         - [`🔁_recursive_parliamentary_containment_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)
+        - [`🔇_silence_harm_and_acknowledgment_delay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔇_silence_harm_and_acknowledgment_delay.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
@@ -2903,7 +2904,6 @@ _Generated on 2025-12-10 22:43:52 UTC_
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
-    - [`🔇_silence_harm_and_acknowledgment_delay.md`](Polaris_Nest/Git_Intake_Drawer/🔇_silence_harm_and_acknowledgment_delay.md)
     - [`🔍_institutional_freeze_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🔍_institutional_freeze_patterns.md)
     - [`🔍_mistaken_release_as_friction_shortcut.md`](Polaris_Nest/Git_Intake_Drawer/🔍_mistaken_release_as_friction_shortcut.md)
     - [`🔔_you_cant_soothe_germany_twice.md`](Polaris_Nest/Git_Intake_Drawer/🔔_you_cant_soothe_germany_twice.md)
