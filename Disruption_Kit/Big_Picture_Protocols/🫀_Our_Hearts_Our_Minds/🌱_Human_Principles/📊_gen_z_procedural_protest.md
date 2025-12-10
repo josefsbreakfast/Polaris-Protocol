@@ -1,5 +1,5 @@
 # 📊 Gen Z Procedural Protest & Spreadsheet Organising  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
 *Why Gen Z approaches protest like a project-managed operation, and how their procedural culture reshapes collective action.*  
 
 ---
@@ -227,7 +227,9 @@ And it works.
 📊 🧭 🔧 — operational design, mutual care, coordination dynamics.
 
 ## ✨ Stardust  
-gen z, spreadsheets, procedural protest, opsec, collective action, trauma-informed organising, logistics culture
+gen z, spreadsheets, procedural protest, opsec, collective action, trauma-informed organising, logistics culture  
+
+---
 
 ## 🏮 Footer  
 *📊 Gen Z Procedural Protest & Spreadsheet Organising* is a living node of the Polaris Protocol.  
@@ -241,4 +243,4 @@ It supports the **Generational Dynamics** and **Digital Disruption** clusters th
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-10_
