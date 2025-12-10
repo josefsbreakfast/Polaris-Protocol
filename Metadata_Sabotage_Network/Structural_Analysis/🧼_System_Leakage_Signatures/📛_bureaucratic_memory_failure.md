@@ -1,8 +1,8 @@
 File: 📛_bureaucratic_memory_failure_and_identity_contamination.md
 
 # 📛 Bureaucratic Memory Failure & Identity Contamination  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How institutions misremember people, how errors persist through data ecosystems, and why a single misinterpretation can become an identity you never agreed to.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
+*How institutions misremember people, how errors persist through data ecosystems, and why a single misinterpretation can become an identity you never agreed to.*  
 
 ---
 
@@ -185,10 +185,12 @@ Bureaucratic memory failure is a **democratic erosion mechanism**.
 ---
 
 ## 🏮 Footer  
-**Bureaucratic Memory Failure & Identity Contamination** provides Polaris with a structural framework for understanding misinterpretation harm, data drift, and institutional memory pathology.  
+*📛 Bureaucratic Memory Failure & Identity Contamination* provides Polaris with a structural framework for understanding misinterpretation harm, data drift, and institutional memory pathology.  
 It is a cornerstone of the Bureaucratic Harm & Democratic Drift cluster.
 
 Crosslinks:  
 - 📡 *cross-system_metadata_echo_chains*  
 - 🧷 *culture_war_risk_logic_in_uk_public_institutions*  
 - 🗃️ *safeguarding_logic_mission_creep_and_identity_pathologising*
+
+_Last updated: 2025-12-10_
