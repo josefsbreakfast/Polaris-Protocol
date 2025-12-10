@@ -1,6 +1,6 @@
 # 📮 Answers on a Postcard  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*Trying to explain the inexplicable: surveillance, silence, and the shrinking space for conversation.*
+**First created:** 2025-11-01 | **Last updated:** 2025-12-10  
+*Trying to explain the inexplicable: surveillance, silence, and the shrinking space for conversation.*  
 
 ---
 
@@ -84,9 +84,9 @@ explanation fatigue, metadata surveillance, social silence, communication strate
 
 ## 🏮 Footer  
 
-*Answers on a Postcard* is a reflective node of the Polaris Protocol.  
+*📮 Answers on a Postcard* is a reflective node of the Polaris Protocol.  
 It stands as a record of the limits of speech when documentation replaces conversation.  
 
 *If you understand it already, thank you. If you don’t—answers on a postcard.*
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-12-10_
