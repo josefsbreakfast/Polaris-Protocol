@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:23:43 UTC_
+_Generated on 2025-12-10 22:25:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2426,6 +2426,7 @@ _Generated on 2025-12-10 22:23:43 UTC_
       - [`💼_industry_capture_identity_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/💼_industry_capture_identity_systems.md)
       - [`📊_id_claims_vs_realities.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📊_id_claims_vs_realities.md)
       - [`📝_how_prevent_flags_shape_life.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📝_how_prevent_flags_shape_life.md)
+      - [`📡_protest_monitoring_what_is_caa_demu.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📡_protest_monitoring_what_is_caa_demu.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
       - [`🔮_uk_digital_id_risk_forecast.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
@@ -2883,7 +2884,6 @@ _Generated on 2025-12-10 22:23:43 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📡_what_is_caa_demu.md`](Polaris_Nest/Git_Intake_Drawer/📡_what_is_caa_demu.md)
     - [`📣_the_shouting_whisper.md`](Polaris_Nest/Git_Intake_Drawer/📣_the_shouting_whisper.md)
     - [`📥_entry_point_abuse_in_automated_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📥_entry_point_abuse_in_automated_datasets.md)
     - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
