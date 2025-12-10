@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:51:30 UTC_
+_Generated on 2025-12-10 03:57:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1145,6 +1145,7 @@ _Generated on 2025-12-10 03:51:30 UTC_
         - [`👀_failure_cycle_vs_reported_improvements.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md)
         - [`👀_public_perception_gap.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_public_perception_gap.md)
         - [`💢_draft_prevent_ihl.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/💢_draft_prevent_ihl.md)
+        - [`💩_why_ctsa2015_violated_every_iicsa_principle.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/💩_why_ctsa2015_violated_every_iicsa_principle.md)
         - [`📊_comparative_chart_operation_sanctuary_and_parallel_cases.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/📊_comparative_chart_operation_sanctuary_and_parallel_cases.md)
         - [`📑_the_case_of_the_disappearing_reviews.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/📑_the_case_of_the_disappearing_reviews.md)
         - [`📚_romanticism_as_coercive_control_literary_lineage.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/📚_romanticism_as_coercive_control_literary_lineage.md)
@@ -1164,8 +1165,6 @@ _Generated on 2025-12-10 03:51:30 UTC_
         - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
         - [`🪞_boring_mechanisms_sensational_harms.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🪞_boring_mechanisms_sensational_harms.md)
         - [`🪣_hidden_data_loop_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🪣_hidden_data_loop_audit.md)
-      - [**🕯️_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯️_Exorcising_Safeguarding_Shadows/)
-        - [`💩_why_ctsa2015_violated_every_iicsa_principle.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯️_Exorcising_Safeguarding_Shadows/💩_why_ctsa2015_violated_every_iicsa_principle.md)
       - [**🧬_Algorithmic_Endocrinology/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/README.md)
         - [`🌿_algorithmic_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_algorithmic_ecology.md)
