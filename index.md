@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:47:44 UTC_
+_Generated on 2025-12-10 21:49:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -717,6 +717,7 @@ _Generated on 2025-12-10 21:47:44 UTC_
         - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_and_strongman_panic.md)
         - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_timeline.csv)
         - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💸_russian_overlap_patterns.md)
+        - [`📚_the_tenth_library.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📚_the_tenth_library.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
@@ -2859,7 +2860,6 @@ _Generated on 2025-12-10 21:47:44 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📚_the_tenth_library.md`](Polaris_Nest/Git_Intake_Drawer/📚_the_tenth_library.md)
     - [`📚_venus_in_furs_as_witchfinder_litmus_paper.md`](Polaris_Nest/Git_Intake_Drawer/📚_venus_in_furs_as_witchfinder_litmus_paper.md)
     - [`📛_bureaucratic_memory_failure_and_identity_contamination.md`](Polaris_Nest/Git_Intake_Drawer/📛_bureaucratic_memory_failure_and_identity_contamination.md)
     - [`📜_duty_to_correct_how_public_bodies_must_fix_wrong_data.md`](Polaris_Nest/Git_Intake_Drawer/📜_duty_to_correct_how_public_bodies_must_fix_wrong_data.md)
