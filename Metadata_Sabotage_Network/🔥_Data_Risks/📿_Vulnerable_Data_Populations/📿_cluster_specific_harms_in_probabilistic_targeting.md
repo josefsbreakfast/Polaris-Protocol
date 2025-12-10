@@ -1,8 +1,6 @@
-File: 📿_cluster_specific_harms_probabilistic_targeting.md
-
 # 📿 Cluster-Specific Harms in Probabilistic Targeting  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How probabilistic models disproportionately expose certain groups to harm — even when platforms and vendors insist “no one is being individually targeted”.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-10  
+*How probabilistic models disproportionately expose certain groups to harm — even when platforms and vendors insist “no one is being individually targeted”.*  
 
 ---
 
@@ -384,13 +382,13 @@ probabilistic targeting, vulnerable groups, cluster harms, behavioural risk, uk 
 
 ## 🏮 Footer  
 
-**📿 Cluster-Specific Harms in Probabilistic Targeting** is a living node of the Polaris Protocol, located in the Data Risks constellation. It examines how probabilistic models — even without explicit demographic fields — disproportionately expose certain communities to emotional, social, economic, political, and safety harm. The node bridges micro-level survivor experience with macro-level influence economics, offering a framework for documentation, analysis, and policy advocacy.  
+*📿 Cluster-Specific Harms in Probabilistic Targeting* is a living node of the Polaris Protocol, located in the Data Risks constellation. It examines how probabilistic models — even without explicit demographic fields — disproportionately expose certain communities to emotional, social, economic, political, and safety harm. The node bridges micro-level survivor experience with macro-level influence economics, offering a framework for documentation, analysis, and policy advocacy.  
 
 > 📡 Cross-references:
 > 
-> - [🧿 Composite De-Anonymisation](../Metadata_Sabotage_Network/🧿_de_anonymisation_by_composite_architecture.md) — *how clusters become visible.*  
-> - [🧿 Cluster-Level Behavioural Modulation](../Metadata_Sabotage_Network/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md) — *how invisible steering lands as lived harm.*  
-> - [🌀 UK as a Low-Cost Influence Environment](../Big_Picture_Protocols/🌀_uk_low_cost_influence_environment.md) — *why the UK amplifies these effects structurally.*
+> - [🧿 Composite De-Anonymisation] — *how clusters become visible.*  
+> - [🧿 Cluster-Level Behavioural Modulation] — *how invisible steering lands as lived harm.*  
+> - [🌀 UK as a Low-Cost Influence Environment] — *why the UK amplifies these effects structurally.*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
