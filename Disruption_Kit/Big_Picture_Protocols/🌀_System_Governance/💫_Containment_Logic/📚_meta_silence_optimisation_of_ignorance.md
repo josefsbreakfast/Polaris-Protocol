@@ -1,6 +1,6 @@
 # 📚 Meta-Silence and the Optimisation of Ignorance  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*How the reward systems of research and data teach machines—and people—to look away.*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-10  
+*How the reward systems of research and data teach machines—and people—to look away.*  
 
 ---
 
@@ -103,14 +103,15 @@ meta-silence, epistemic bias, data curation, institutional incentive, academic c
 ---
 
 ## 🏮 Footer  
-*Meta-Silence and the Optimisation of Ignorance* is a living node of the Polaris Protocol.  
+*📚 Meta-Silence and the Optimisation of Ignorance* is a living node of the Polaris Protocol.  
 It documents how silence itself becomes an optimised behaviour in knowledge systems and how restoring friction—through archives, accountability, and dissent—re-aligns both human and machine understanding.  
 
-> 📡 Cross-references:  
-> - [🧮 Optimisation and the Fascism of Efficiency](../Disruption_Kit/Big_Picture_Protocols/🧮_optimisation_and_the_fascism_of_efficiency.md) — efficiency logic and authoritarian drift.  
-> - [🦠 Statistical Nightmare](../Disruption_Kit/Big_Picture_Protocols/🦠_statistical_nightmare.md) — coercion and reward dynamics.  
-> - [⚖️ Accountability as Alignment](../Disruption_Kit/Big_Picture_Protocols/⚖️_accountability_as_alignment.md) — external moral friction.  
+> 📡 Cross-references:
+> 
+> - [🧮 Optimisation and the Fascism of Efficiency] — *efficiency logic and authoritarian drift*  
+> - [🦠 Statistical Nightmare] — *coercion and reward dynamics*  
+> - [⚖️ Accountability as Alignment] — *external moral friction*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated:2025-12-10_
