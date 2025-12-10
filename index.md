@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:36:03 UTC_
+_Generated on 2025-12-10 03:37:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2720,6 +2720,7 @@ _Generated on 2025-12-10 03:36:03 UTC_
       - [`💔_gender_sex_discrimination_id_cards.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_gender_sex_discrimination_id_cards.md)
       - [`💔_risk_of_violent_treatment.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_risk_of_violent_treatment.md)
       - [`🕊️_refugees_asylum_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🕊️_refugees_asylum_id_risks.md)
+      - [`🕷️_the_ratio_that_shouldnt_exist.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🕷️_the_ratio_that_shouldnt_exist.md)
       - [`🦔_enrolment_trauma_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🦔_enrolment_trauma_risks.md)
       - [`🧀_child_data_swiss_cheese_model_systemic_risk_framework.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)
       - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟‍♀️_zombie_data_and_population_targeting.md)
@@ -2792,7 +2793,6 @@ _Generated on 2025-12-10 03:36:03 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`📈_the_ratio_that_shouldnt_exist.md`](Polaris_Nest/Git_Intake_Drawer/📈_the_ratio_that_shouldnt_exist.md)
     - [`📉_signal_collapse.md`](Polaris_Nest/Git_Intake_Drawer/📉_signal_collapse.md)
     - [`📊_abrahamic_clustering_and_policy_failure.md`](Polaris_Nest/Git_Intake_Drawer/📊_abrahamic_clustering_and_policy_failure.md)
     - [`📊_budget_efficiency_and_community_outreach.md`](Polaris_Nest/Git_Intake_Drawer/📊_budget_efficiency_and_community_outreach.md)
