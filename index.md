@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:50:43 UTC_
+_Generated on 2025-12-10 22:51:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1040,6 +1040,7 @@ _Generated on 2025-12-10 22:50:43 UTC_
         - [`📊_gen_z_procedural_protest.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/📊_gen_z_procedural_protest.md)
         - [`📱_millennials_phone_dependent_protest_liability.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/📱_millennials_phone_dependent_protest_liability.md)
         - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
+        - [`🔥_controlled_fury_in_analysis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔥_controlled_fury_in_analysis.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
@@ -2909,7 +2910,6 @@ _Generated on 2025-12-10 22:50:43 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
-    - [`🔥_controlled_fury_in_analysis.md`](Polaris_Nest/Git_Intake_Drawer/🔥_controlled_fury_in_analysis.md)
     - [`🔥_femme_firewall_fatale.md`](Polaris_Nest/Git_Intake_Drawer/🔥_femme_firewall_fatale.md)
     - [`🔥_hasidic_thought_vs_state_violence_inversion.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hasidic_thought_vs_state_violence_inversion.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
