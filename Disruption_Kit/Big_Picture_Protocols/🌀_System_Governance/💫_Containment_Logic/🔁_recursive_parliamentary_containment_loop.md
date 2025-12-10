@@ -1,6 +1,6 @@
 # 🔁 Recursive Parliamentary Containment Loop  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*How Labour and the Conservatives became trapped in a mutually weakening performance cycle that prevents either from fulfilling their constitutional function.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
+*How Labour and the Conservatives became trapped in a mutually weakening performance cycle that prevents either from fulfilling their constitutional function.*  
 
 ---
 
@@ -137,10 +137,10 @@ political recursion, optics politics, mutual weakening, media amplification, ins
 It supports the **Big Picture Protocols** cluster by mapping systemic dysfunction within UK parliamentary behaviour.
 
 > 📡 Cross-references:  
-> - [💍 Two-Party System as an Old-Fashioned Marriage](./💍_two_party_system_as_an_old_fashioned_marriage.md)  
-> - [🟥 Labour as the Alternative to Revolution](./🟥_labour_as_the_alternative_to_revolution.md)  
-> - [🟦 Conservatives as the Counterbalance to Radical Change](./🟦_conservatives_as_the_counterbalance_to_radical_change.md)
+> - [💍 Two-Party System as an Old-Fashioned Marriage]  
+> - [🟥 Labour as the Alternative to Revolution]  
+> - [🟦 Conservatives as the Counterbalance to Radical Change]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-10_
