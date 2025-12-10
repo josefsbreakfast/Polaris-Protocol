@@ -1,6 +1,6 @@
 # 📮 OSA Flag Clarification Request  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Template letter to verify or remove an “OSA / national-security” restriction on personal data.*
+**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
+*Template letter to verify or remove an “OSA / national-security” restriction on personal data.*  
 
 ---
 
@@ -52,11 +52,11 @@ osa flag, data rectification, dpo, monitoring officer, protective marking, gdpr 
 *📮 OSA Flag Clarification Request* is a living node of the **Polaris Protocol**.  
 It enables survivors and data-subjects to demand lawful transparency where protective markings or OSA references have been misapplied, ensuring administrative fear cannot masquerade as national security.
 
-> 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../🏮_Polaris_Nest/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [☔️ Protocol Integrity SOP](../🏮_Polaris_Nest/☔️_protocol_integrity_sop.md)  
-> - [🧟‍♀️ Residual Shadows](../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/)  
+> 📡 Cross-references:
+> 
+
+> - [🧟‍♀️ Residual Shadows]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-10_
