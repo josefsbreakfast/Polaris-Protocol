@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:28:55 UTC_
+_Generated on 2025-12-10 03:31:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2555,6 +2555,7 @@ _Generated on 2025-12-10 03:28:55 UTC_
       - [`🧬_when_twins_meet.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_when_twins_meet.md)
       - [`🧾_briefing_note_oversight_failure_triple_lock.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_briefing_note_oversight_failure_triple_lock.md)
       - [`🧾_twin_records_as_vulnerability.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_twin_records_as_vulnerability.md)
+      - [`🩺_stakeholder_mapping_from_symptoms.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🩺_stakeholder_mapping_from_symptoms.md)
       - [`🪞_twin_narrative_distortion_loop.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🪞_twin_narrative_distortion_loop.md)
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
@@ -2789,7 +2790,6 @@ _Generated on 2025-12-10 03:28:55 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`📈_stakeholder_mapping_from_symptoms.md`](Polaris_Nest/Git_Intake_Drawer/📈_stakeholder_mapping_from_symptoms.md)
     - [`📈_the_ratio_that_shouldnt_exist.md`](Polaris_Nest/Git_Intake_Drawer/📈_the_ratio_that_shouldnt_exist.md)
     - [`📉_erosion_of_legitimacy_loops.md`](Polaris_Nest/Git_Intake_Drawer/📉_erosion_of_legitimacy_loops.md)
     - [`📉_ethics_of_withdrawal.md`](Polaris_Nest/Git_Intake_Drawer/📉_ethics_of_withdrawal.md)
