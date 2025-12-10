@@ -1,5 +1,5 @@
 # 📚 Fictional Subject Construction  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-12-10  
 *How institutions invent characters to defend their own narratives.*
 
 ---
@@ -62,11 +62,10 @@ fictional subject, narrative management, institutional mythmaking, reputational 
 *📚 Fictional Subject Construction* is a living node of the Polaris Protocol.  
 It exposes how organisations invent personas to preserve institutional coherence and deflect responsibility.  
 
-> 📡 Cross-references:  
-> – [💫 Containment Logic](../💫_Containment_Logic/README.md)  
-> – [🐝 Body Politic](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md)  
-> – [👁️‍🗨️ Witness Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
+> 📡 Cross-references:
+> 
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-10_
