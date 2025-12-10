@@ -1,5 +1,5 @@
 # 📊 From Data Misuse to White-Collar Breach  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-09  
 *Checklist for identifying when protective-marking misuse becomes a governance or criminal offence.*  
 
 ---
@@ -70,4 +70,4 @@ It identifies the transition from administrative containment error to deliberate
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
