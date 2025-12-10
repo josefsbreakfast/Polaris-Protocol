@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 20:25:39 UTC_
+_Generated on 2025-12-10 21:29:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -301,6 +301,7 @@ _Generated on 2025-12-10 20:25:39 UTC_
         - [`🛰️_situational_awareness.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_situational_awareness.md)
         - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md)
         - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_vendor_lock_in.md)
+        - [`🧨_overclocked_capitalism_2020_cognitive_crash.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
         - [`☕️_biscuit_press_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
         - [`☕️_press_release_001.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_001.md)
