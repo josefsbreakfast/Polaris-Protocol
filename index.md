@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:45:11 UTC_
+_Generated on 2025-12-10 03:47:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2564,6 +2564,7 @@ _Generated on 2025-12-10 03:45:11 UTC_
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
       - [`☔️_leak_pattern_taxonomy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md)
+      - [`⛳_crown_service_flag_drifting_in_the_wind.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/⛳_crown_service_flag_drifting_in_the_wind.md)
       - [`🌂_leak_archive_protocol.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌂_leak_archive_protocol.md)
       - [`🌐_post_digital_data_drift_mechanisms.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌐_post_digital_data_drift_mechanisms.md)
       - [`🌩️_leakage_chronology_forecasting.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌩️_leakage_chronology_forecasting.md)
@@ -2797,7 +2798,6 @@ _Generated on 2025-12-10 03:45:11 UTC_
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
-    - [`📊_crown_service_flag_and_metadata_drift.md`](Polaris_Nest/Git_Intake_Drawer/📊_crown_service_flag_and_metadata_drift.md)
     - [`📊_from_data_misuse_to_white_collar_breach.md`](Polaris_Nest/Git_Intake_Drawer/📊_from_data_misuse_to_white_collar_breach.md)
     - [`📊_gen_z_procedural_protest_and_spreadsheet_organising.md`](Polaris_Nest/Git_Intake_Drawer/📊_gen_z_procedural_protest_and_spreadsheet_organising.md)
     - [`📊_risk_scaling_of_algorithmic_misidentification.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scaling_of_algorithmic_misidentification.md)
