@@ -1,4 +1,4 @@
-# ⚙️ Overdrive Capitalism — When Systems Outrun the Body  
+# ⚙️ Overclocked Capitalism — When Systems Outrun the Body  
 **First created:** 2025-10-18 | **Last updated:** 2025-12-09  
 *Acceleration, exhaustion, and the political economy of attention.*  
 
