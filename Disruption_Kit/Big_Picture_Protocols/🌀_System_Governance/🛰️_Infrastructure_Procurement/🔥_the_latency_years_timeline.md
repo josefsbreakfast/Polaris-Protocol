@@ -1,6 +1,6 @@
 # 🔥 The Latency Years Timeline
-**First created:** 2025-10-13  |  **Last updated:** 2025-10-13  
-*Narrative chronology of a prolonged national‑scale digital crisis.*
+**First created:** 2025-10-13  |  **Last updated:** 2025-12-11  
+*Narrative chronology of a prolonged national‑scale digital crisis.*  
 
 ---
 
@@ -25,4 +25,4 @@ For creative and analytical use: a four‑phase depiction of systemic cyber coll
 ## ✨ Stardust  
 fictional crisis, national infrastructure, attrition, rebuild, latency era  
 
-*Last updated 2025-10-13 | We kept it from collapsing completely — and that was a win.*
+*Last updated 2025-12-11 | We kept it from collapsing completely — and that was a win.*
