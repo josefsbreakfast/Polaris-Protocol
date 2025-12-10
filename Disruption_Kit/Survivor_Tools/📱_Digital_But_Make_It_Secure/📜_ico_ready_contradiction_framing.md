@@ -1,5 +1,5 @@
 # 📜 ICO-Ready Contradiction Framing  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-10  
 *How to translate institutional inconsistencies, metadata anomalies, and contradictory disclosures into regulatory-ready evidence for the Information Commissioner’s Office (ICO) without overclaiming or triggering institutional panic.*
 
 ---
@@ -226,4 +226,6 @@ This node connects directly to:
 - **Metadata Chain Reconstruction**.
 
 It is essential for any regulatory-facing Polaris bundle  
-or any user preparing to take an institution to the ICO with grace, accuracy, and lethal precision.
+or any user preparing to take an institution to the ICO with grace, accuracy, and lethal precision.  
+
+_Last updated: 2025-12-10_
