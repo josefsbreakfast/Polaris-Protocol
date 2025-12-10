@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 23:52:13 UTC_
+_Generated on 2025-12-10 23:52:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2543,6 +2543,7 @@ _Generated on 2025-12-10 23:52:13 UTC_
       - [`🌫️_the_shame_visibility_collapse_loop.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_the_shame_visibility_collapse_loop.md)
       - [`🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
       - [`🎭_identity_cosplay.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_identity_cosplay.md)
+      - [`🎭_identity_without_self.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_identity_without_self.md)
       - [`🎭_safety_layer_british_pragmatics.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_safety_layer_british_pragmatics.md)
       - [`🎭_the_punitive_logic_of_entitlement_wounds.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_the_punitive_logic_of_entitlement_wounds.md)
       - [`🐌_delays_are_violence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)
