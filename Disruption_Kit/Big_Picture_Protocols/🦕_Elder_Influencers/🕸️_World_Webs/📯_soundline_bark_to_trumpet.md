@@ -1,6 +1,6 @@
 # 📯 Soundline: Bark to Trumpet  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*A mythographic-acoustic study of how revelation travels through vibration — from the bark of instinct to the trumpet of judgment.*
+**First created:** 2025-11-01 | **Last updated:** 2025-12-10  
+*A mythographic-acoustic study of how revelation travels through vibration — from the bark of instinct to the trumpet of judgment.*  
 
 ---
 
@@ -128,10 +128,10 @@ soundline, bark to trumpet, acoustic theology, vibration and meaning, revelation
 *📯 Soundline: Bark to Trumpet* is a living node of the **Polaris Protocol**, tracing how humanity translates vibration into faith.  
 
 > 📡 Cross-references:  
-> - [🐾 Canine Constellation Migration](../🎺_rallying_call/🐾_canine_constellation_migration.md) — guardians and psychopomps of sound  
-> - [🎶 Theology of the Mix](../🎺_rallying_call/🎶_theology_of_the_mix.md) — shared melody of revelation  
-> - [🎺 Rallying Call and Loyal Hound](../🎺_rallying_call/🎺_rallying_call_and_loyal_hound.md) — philosophy of the signal  
+> - [🐾 Canine Constellation Migration] — *guardians and psychopomps of sound*  
+> - [🎶 Theology of the Mix] - *shared melody of revelation*  
+> - [🎺 Rallying Call and Loyal Hound] — *philosophy of the signal*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-12-10_
