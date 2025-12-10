@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:54:39 UTC_
+_Generated on 2025-12-10 21:56:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2864,7 +2864,6 @@ _Generated on 2025-12-10 21:54:39 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md)
     - [`📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
     - [`📜_ico_ready_contradiction_framing.md`](Polaris_Nest/Git_Intake_Drawer/📜_ico_ready_contradiction_framing.md)
     - [`📜_if_and_the_ethics_of_staying_intact.md`](Polaris_Nest/Git_Intake_Drawer/📜_if_and_the_ethics_of_staying_intact.md)
@@ -3738,6 +3737,7 @@ _Generated on 2025-12-10 21:54:39 UTC_
         - [`🔵_blue_route_intermediate_local_capture_osint.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🔵_blue_route_intermediate_local_capture_osint.md)
         - [`🟢_green_route_basic_civic_osint.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🟢_green_route_basic_civic_osint.md)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/README.md)
+      - [`📜_how_mous_hide_in_plain_sight.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/📜_how_mous_hide_in_plain_sight.md)
       - [`📡_reform_and_local_capture_osint_brief.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/📡_reform_and_local_capture_osint_brief.md)
       - [`🚨_civil_disorder_response_and_governance_single_points_of_failure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🚨_civil_disorder_response_and_governance_single_points_of_failure.md)
     - [**👾_Chan_Style_Petitioning/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/)
