@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:54:39 UTC_
+_Generated on 2025-12-10 22:56:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2442,6 +2442,7 @@ _Generated on 2025-12-10 22:54:39 UTC_
       - [`📊_id_claims_vs_realities.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📊_id_claims_vs_realities.md)
       - [`📝_how_prevent_flags_shape_life.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📝_how_prevent_flags_shape_life.md)
       - [`📡_protest_monitoring_what_is_caa_demu.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📡_protest_monitoring_what_is_caa_demu.md)
+      - [`🔥_metadata_more_dangerous_than_humans.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_metadata_more_dangerous_than_humans.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
       - [`🔮_uk_digital_id_risk_forecast.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
@@ -2913,7 +2914,6 @@ _Generated on 2025-12-10 22:54:39 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
-    - [`🔥_metadata_more_dangerous_than_humans.md`](Polaris_Nest/Git_Intake_Drawer/🔥_metadata_more_dangerous_than_humans.md)
     - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🔥_opportunistic_escalation_peri_system_collapse.md)
     - [`🔥_stop_being_weird_and_start_being_wife_material_for_science.md`](Polaris_Nest/Git_Intake_Drawer/🔥_stop_being_weird_and_start_being_wife_material_for_science.md)
     - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
