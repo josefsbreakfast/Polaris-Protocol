@@ -1,5 +1,5 @@
-# 📜 Pre-Escalation Friction Mapping  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+# 📜 Tactical Contradiction Communication: Pre-Escalation Friction Mapping  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-10  
 *How to tactically communicate institutional contradictions, data-flow anomalies, and potential breaches in a way that triggers responsible remedial behaviour rather than defensive stonewalling.*
 
 ---
@@ -221,3 +221,5 @@ This node belongs to the transparency, governance, and institutional-stability c
 - **Narrative Compliance Pressure**.
 
 It is the blueprint for any user navigating a confused, frightened, or siloed organisation without escalating prematurely.
+
+_Last updated: 2025-12-10_
