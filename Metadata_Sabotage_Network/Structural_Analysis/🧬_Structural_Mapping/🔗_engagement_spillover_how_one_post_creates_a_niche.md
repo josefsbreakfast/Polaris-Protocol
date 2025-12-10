@@ -1,6 +1,6 @@
 # 🔗 Engagement Spillover — How One Post Creates a Niche by Accident  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*When one link jumpstarts a feedback micro-ecosystem across multiple platforms.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-10  
+*When one link jumpstarts a feedback micro-ecosystem across multiple platforms.*  
 
 ---
 
@@ -75,10 +75,11 @@ engagement loop, cross-platform resonance, ad-tech bridge, accidental niche, pin
 *🔗 Engagement Spillover — How One Post Creates a Niche by Accident* is a living node of the **Polaris Protocol.**  
 It documents how minor bursts of attention can spawn whole micro-genres through cross-platform telemetry and shared audience identifiers.
 
-> 📡 Cross-references:  
-> - [🗣️ Data Majority as Narrative Voice — Voting by Volume](../Big_Picture_Protocols/🗣️_data_majority_as_narrative_voice_voting_by_volume.md) — on how the loudest signals become the narrator.  
-> - [🧬 Containment Thresholds — Emotional Data That Can’t Be Unmixed](../Big_Picture_Protocols/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md) — when these resonances fossilise into structure.  
+> 📡 Cross-references:
+> 
+> - [🗣️ Data Majority as Narrative Voice — Voting by Volume] — on how the loudest signals become the narrator.  
+> - [🧬 Containment Thresholds — Emotional Data That Can’t Be Unmixed] — when these resonances fossilise into structure.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-10_
