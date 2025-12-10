@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:24:57 UTC_
+_Generated on 2025-12-10 03:28:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -203,6 +203,7 @@ _Generated on 2025-12-10 03:24:57 UTC_
         - [`👾_intent_free_authoritarian_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
         - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)
         - [`💥_institutional_panic_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_institutional_panic_dynamics.md)
+        - [`📈_polished_authoritarianism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📈_polished_authoritarianism.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
         - [`📜_precrime_governance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_precrime_governance_uk.md)
@@ -2788,7 +2789,6 @@ _Generated on 2025-12-10 03:24:57 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`📈_polished_authoritarianism.md`](Polaris_Nest/Git_Intake_Drawer/📈_polished_authoritarianism.md)
     - [`📈_stakeholder_mapping_from_symptoms.md`](Polaris_Nest/Git_Intake_Drawer/📈_stakeholder_mapping_from_symptoms.md)
     - [`📈_the_ratio_that_shouldnt_exist.md`](Polaris_Nest/Git_Intake_Drawer/📈_the_ratio_that_shouldnt_exist.md)
     - [`📉_erosion_of_legitimacy_loops.md`](Polaris_Nest/Git_Intake_Drawer/📉_erosion_of_legitimacy_loops.md)
