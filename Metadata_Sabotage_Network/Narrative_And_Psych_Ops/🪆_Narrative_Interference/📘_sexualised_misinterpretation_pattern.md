@@ -1,5 +1,5 @@
 # 📘 Sexualised Misinterpretation Pattern  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
 *How hostile actors reframe women’s autonomy as sexual risk, deviance, or impropriety — a dominance pattern, not a truth pattern.*  
 
 ---
@@ -200,4 +200,4 @@ It analyses how hostile actors weaponise sexualised narratives to regain dominan
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-10_
