@@ -1,8 +1,6 @@
-File: 📡_cross-system_metadata_echo_chains.md
-
 # 📡 Cross-System Metadata Echo Chains  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How fragments of data move between institutions, gain authority through repetition, and create self-reinforcing loops of misinterpretation.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
+*How fragments of data move between institutions, gain authority through repetition, and create self-reinforcing loops of misinterpretation.*  
 
 ---
 
@@ -205,10 +203,12 @@ Because they are.
 ---
 
 ## 🏮 Footer  
-**Cross-System Metadata Echo Chains** is part of the Polaris Bureaucratic Harm cluster.  
+*Cross-System Metadata Echo Chains* is part of the Polaris Bureaucratic Harm cluster.  
 It maps how institutional narratives form without evidence, persist without correction, and shape behaviour through repetition.
 
 Crosslinks:  
 - 📛 *bureaucratic_memory_failure_and_identity_contamination*  
 - 🧷 *culture_war_risk_logic_in_uk_public_institutions*  
 - 🗃️ *safeguarding_logic_mission_creep_and_identity_pathologising*
+
+_Last updated: 2025-12-10_
