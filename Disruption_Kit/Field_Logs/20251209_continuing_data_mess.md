@@ -102,3 +102,15 @@ I do not care about the inconvenience it may cause to men.
 If you wanted me to feel differently, you ought to afforded me basic human respect.  
 
 ---
+
+A small piece of advice, to whoever has the android device which is coming up in every article about what to do with my devices (I haven't had one for nearly 15 years):  
+
+Please be aware that as easy as it is to use third-party software, is about how easy it is to break into one.  
+
+You want to make sure you protect that thing.  
+
+Notoriously easy to get into.  
+
+It's not a threat; I don't have that skill set. I'm just tired of seeing other people's adverts on my feed.  
+
+---
