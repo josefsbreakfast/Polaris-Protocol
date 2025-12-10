@@ -1,6 +1,6 @@
 # 📡 Institutional Risk Posture Diagnostics  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*A diagnostic tool for reading an institution’s current risk posture through tone, behaviour, micro‑signals, and procedural choices — enabling survivors and analysts to understand what mode the institution is in without needing internal access.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
+*A diagnostic tool for reading an institution’s current risk posture through tone, behaviour, micro‑signals, and procedural choices — enabling survivors and analysts to understand what mode the institution is in without needing internal access.*  
 
 ---
 
@@ -213,7 +213,7 @@ risk posture, institutional diagnostics, governance signals, survivor support, f
 
 ## 🏮 Footer  
 
-*Institutional Risk Posture Diagnostics* is a Polaris tools & diagnostics node enabling survivors and analysts to identify an institution’s behavioural mode based on observable signals — without internal visibility.
+*📡 Institutional Risk Posture Diagnostics* is a Polaris tools & diagnostics node enabling survivors and analysts to identify an institution’s behavioural mode based on observable signals — without internal visibility.
 
 Pairs with:
 
@@ -223,4 +223,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-10_
