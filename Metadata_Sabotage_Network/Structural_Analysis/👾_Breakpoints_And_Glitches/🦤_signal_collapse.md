@@ -1,5 +1,5 @@
-# 📉 Signal Collapse  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-24  
+# 🦤 Signal Collapse  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
 *How predictive models, risk engines, persona systems, and behavioural classifiers reach a point where they can no longer interpret identity, stance, tone, or emotional telemetry — and begin outputting chaos.*  
 
 ---
@@ -266,4 +266,4 @@ It forms the entry point into the **collapse-of-confidence** cluster
 that maps how entire institutional ecosystems fall apart  
 when confronted with humans who do not obey racist, simplistic, or colonial models.
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
