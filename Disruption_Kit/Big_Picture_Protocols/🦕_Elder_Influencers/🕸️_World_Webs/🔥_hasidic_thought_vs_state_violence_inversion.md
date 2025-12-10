@@ -1,5 +1,5 @@
 # 🔥 Hasidic Thought vs State Violence Inversion  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
 *How resistance-born Hasidic theology is being inverted to sanctify state violence.*
 
 ---
@@ -49,9 +49,9 @@ hasidut, chabad, sumud, state violence, inversion, mystical resistance, occupati
 It examines how a resistance-born theology is being bent into an instrument of political obedience.
 
 > 📡 Cross-references:  
-> - [🕍 Rabbinate and Fear Post-Shoah](../🕍_rabbinate_and_fear_post_shoah.md)  
-> - [✡️ Holocaust Prelude as Systemic Collapse](../✡️_holocaust_prelude_as_systemic_collapse.md)
+> - [🕍 Rabbinate and Fear Post-Shoah]  
+> - [✡️ Holocaust Prelude as Systemic Collapse]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-10_
