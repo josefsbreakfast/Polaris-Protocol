@@ -1,6 +1,6 @@
 # 📚 The Tenth Library  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
-*One of two refusals of the word’s death; the Tenth Library simply shares the book’s life with every one of its visitors.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-10  
+*One of two refusals of the word’s death; the Tenth Library simply shares the book’s life with every one of its visitors.*  
 
 ---
 
@@ -207,14 +207,13 @@ timeless web, civic infrastructure, guardianship, stewardship, libraries, commun
 
 ## 🏮 Footer  
 
-*The Tenth Library* is a living node of the Polaris Protocol.  
+*📚 The Tenth Library* is a living node of the Polaris Protocol.  
 It describes how a distributed, survivor-led guardianship model can sustain a timeless, federated web of memory — turning librarianship into civic mutual aid, and maintenance into ritual, closing with its sister: the Cemetery of Forgotten Books.  
 
-> 📡 Cross-references:  
-> - [🎛️ Survivor Voice Fidelity Rules](../Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md) — tonal integrity across archives  
-> - [🔮 House Style](../Admin_Kit/🔮_house_style.md) — formatting and constellations guide  
-> - [🐝 Template Node](../Admin_Kit/🐝_template_node.md) — structure reference  
+> 📡 Cross-references:
+> 
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-12-10_
