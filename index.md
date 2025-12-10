@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:29:32 UTC_
+_Generated on 2025-12-10 22:30:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2574,6 +2574,7 @@ _Generated on 2025-12-10 22:29:32 UTC_
       - [`📘_sexualised_misinterpretation_pattern.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📘_sexualised_misinterpretation_pattern.md)
       - [`📚_fictional_subject_construction.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_fictional_subject_construction.md)
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
+      - [`📩_the_fictional_email_problem.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📩_the_fictional_email_problem.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
@@ -2888,7 +2889,6 @@ _Generated on 2025-12-10 22:29:32 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📩_the_fictional_email_problem.md`](Polaris_Nest/Git_Intake_Drawer/📩_the_fictional_email_problem.md)
     - [`📬_why_old_uni_accounts_show_access_attempts.md`](Polaris_Nest/Git_Intake_Drawer/📬_why_old_uni_accounts_show_access_attempts.md)
     - [`📮_osa_flag_clarification_request.md`](Polaris_Nest/Git_Intake_Drawer/📮_osa_flag_clarification_request.md)
     - [`📯_soundline_bark_to_trumpet.md`](Polaris_Nest/Git_Intake_Drawer/📯_soundline_bark_to_trumpet.md)
