@@ -1,5 +1,5 @@
 # 📝 How Prevent Flags Quietly Shape Someone’s Life for Years  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-10  
 *How Prevent and Channel create administrative shadows—unseen, unchallengeable, and long-lasting—that shape a person’s access to services, trust in institutions, and civic participation for years afterwards.*
 
 ---
@@ -224,4 +224,4 @@ It maps how even “no further action” Prevent encounters leave administrative
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-10_
