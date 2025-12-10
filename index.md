@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 23:57:53 UTC_
+_Generated on 2025-12-10 23:59:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -309,6 +309,7 @@ _Generated on 2025-12-10 23:57:53 UTC_
         - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_kpi_vs_okr_in_government.md)
         - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_scale_of_effects_estimate.md)
         - [`📡_inquiry_convergence_theory.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📡_inquiry_convergence_theory.md)
+        - [`🔥_the_latency_years_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔥_the_latency_years_timeline.md)
         - [`🕸️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🕸️_exploitability_and_defensive_strategy.md)
         - [`🚀_mordernising_information_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🚀_mordernising_information_defence.md)
         - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_ai_middleware.md)
@@ -2927,7 +2928,6 @@ _Generated on 2025-12-10 23:57:53 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
     - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🔥_opportunistic_escalation_peri_system_collapse.md)
-    - [`🔥_the_latency_years_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_latency_years_timeline.md)
     - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
     - [`🔥_why_metadata_more_dangerous_than_human_referral.md`](Polaris_Nest/Git_Intake_Drawer/🔥_why_metadata_more_dangerous_than_human_referral.md)
