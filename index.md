@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:37:13 UTC_
+_Generated on 2025-12-10 22:39:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2247,6 +2247,7 @@ _Generated on 2025-12-10 22:37:13 UTC_
       - [`README.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/README.md)
       - [`⚖️_governance_levers.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/⚖️_governance_levers.md)
       - [`📋_diagnostic_checklist.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/📋_diagnostic_checklist.md)
+      - [`📿_group_level_evidence_strategies_hidden_algorithmic_pressure.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/📿_group_level_evidence_strategies_hidden_algorithmic_pressure.md)
       - [`🔁_appeals_and_escalation.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🔁_appeals_and_escalation.md)
       - [`🗂️_evidence_pack_template.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🗂️_evidence_pack_template.md)
       - [`🧪_repro_tests_playbook.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🧪_repro_tests_playbook.md)
@@ -2898,7 +2899,6 @@ _Generated on 2025-12-10 22:37:13 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
-    - [`📿_group_level_evidence_hidden_algorithmic_pressure.md`](Polaris_Nest/Git_Intake_Drawer/📿_group_level_evidence_hidden_algorithmic_pressure.md)
     - [`📿_strength_as_gihasta.md`](Polaris_Nest/Git_Intake_Drawer/📿_strength_as_gihasta.md)
     - [`📿_women_and_whistleblowers_and_prevent.md`](Polaris_Nest/Git_Intake_Drawer/📿_women_and_whistleblowers_and_prevent.md)
     - [`🔁_recursive_parliamentary_containment_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔁_recursive_parliamentary_containment_loop.md)
