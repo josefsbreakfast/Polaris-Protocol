@@ -1,5 +1,5 @@
 # 📚 Class-Coded Literacy Patterns  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
 *Why literacy, articulation, and cognitive range are read differently depending on gender, class lineage, and cultural inheritance — and how clever girls become “witches” while clever boys become “promising”.*
 
 ---
@@ -195,4 +195,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-10_
