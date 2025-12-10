@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:11:53 UTC_
+_Generated on 2025-12-10 22:12:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2890,7 +2890,6 @@ _Generated on 2025-12-10 22:11:53 UTC_
     - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Polaris_Nest/Git_Intake_Drawer/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
     - [`📩_the_fictional_email_problem.md`](Polaris_Nest/Git_Intake_Drawer/📩_the_fictional_email_problem.md)
     - [`📬_why_old_uni_accounts_show_access_attempts.md`](Polaris_Nest/Git_Intake_Drawer/📬_why_old_uni_accounts_show_access_attempts.md)
-    - [`📮_answers_on_a_postcard.md`](Polaris_Nest/Git_Intake_Drawer/📮_answers_on_a_postcard.md)
     - [`📮_osa_flag_clarification_request.md`](Polaris_Nest/Git_Intake_Drawer/📮_osa_flag_clarification_request.md)
     - [`📯_soundline_bark_to_trumpet.md`](Polaris_Nest/Git_Intake_Drawer/📯_soundline_bark_to_trumpet.md)
     - [`📱_millennials_as_phone_dependent_protest_liability.md`](Polaris_Nest/Git_Intake_Drawer/📱_millennials_as_phone_dependent_protest_liability.md)
@@ -3691,6 +3690,7 @@ _Generated on 2025-12-10 22:11:53 UTC_
     - [`📊_corrospondence_and_items_received.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📊_corrospondence_and_items_received.md)
     - [`📘_how_declarations_work.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📘_how_declarations_work.md)
     - [`📦_po_box_practicalities.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📦_po_box_practicalities.md)
+    - [`📮_answers_on_a_postcard.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📮_answers_on_a_postcard.md)
     - [`📮_the_polaris_mail_box.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📮_the_polaris_mail_box.md)
     - [`🛒_the_data_drift_wedding_registry.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🛒_the_data_drift_wedding_registry.md)
   - [**🐘_Reply_All/**](🦆_Digital_Disruption/🐘_Reply_All/)
