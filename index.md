@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:59:03 UTC_
+_Generated on 2025-12-10 04:00:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2542,6 +2542,7 @@ _Generated on 2025-12-10 03:59:03 UTC_
       - [`🌫️_uncertainty_branch_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌫️_uncertainty_branch_logic.md)
       - [`👾_bad_algorithms_good_data.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/👾_bad_algorithms_good_data.md)
       - [`👾_what_robots_did_to_words.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/👾_what_robots_did_to_words.md)
+      - [`📊_spreadsheet_of_silence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📊_spreadsheet_of_silence.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
@@ -2801,7 +2802,6 @@ _Generated on 2025-12-10 03:59:03 UTC_
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_risk_scaling_of_algorithmic_misidentification.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_scaling_of_algorithmic_misidentification.md)
-    - [`📊_spreadsheet_of_silence.md`](Polaris_Nest/Git_Intake_Drawer/📊_spreadsheet_of_silence.md)
     - [`📊_the_objectivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/📊_the_objectivity_paradox.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📋_dual_officer_clarification_request.md`](Polaris_Nest/Git_Intake_Drawer/📋_dual_officer_clarification_request.md)
