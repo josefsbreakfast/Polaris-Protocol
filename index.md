@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 21:56:27 UTC_
+_Generated on 2025-12-10 21:57:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -270,6 +270,7 @@ _Generated on 2025-12-10 21:56:27 UTC_
         - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
         - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_over_recognition.md)
+        - [`📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
         - [`📢_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📢_calm_down_its_just_british.md)
         - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_clone_friendly_architecture.md)
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
@@ -2864,7 +2865,6 @@ _Generated on 2025-12-10 21:56:27 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md`](Polaris_Nest/Git_Intake_Drawer/📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
     - [`📜_ico_ready_contradiction_framing.md`](Polaris_Nest/Git_Intake_Drawer/📜_ico_ready_contradiction_framing.md)
     - [`📜_if_and_the_ethics_of_staying_intact.md`](Polaris_Nest/Git_Intake_Drawer/📜_if_and_the_ethics_of_staying_intact.md)
     - [`📜_incomplete_search_behaviour_diagnostics.md`](Polaris_Nest/Git_Intake_Drawer/📜_incomplete_search_behaviour_diagnostics.md)
