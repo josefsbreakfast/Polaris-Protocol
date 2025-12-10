@@ -1,6 +1,6 @@
 # 📚 Library as Algorithmic Interface  
-**First created:** 2025-10-16 | **Last updated:** 2025-10-16  
-*From card catalogues to content classifiers — how bureaucracy taught algorithms to blush.*
+**First created:** 2025-10-16 | **Last updated:**2025-12-10  
+*From card catalogues to content classifiers — how bureaucracy taught algorithms to blush.*  
 
 ---
 
@@ -71,14 +71,13 @@ library metadata, classification bias, Dewey Decimal, content moderation, algori
 
 ## 🏮 Footer  
 
-*Library as Algorithmic Interface* is a living node of the Polaris Protocol.  
+*📚 Library as Algorithmic Interface* is a living node of the Polaris Protocol.  
 It maps the inheritance between cataloguing bureaucracy and machine moderation — showing how every database is still a library with a moral code.  
 
 > 📡 Cross-references:  
-> - [🧾 Suppressed Safe Collection](../👁️‍🗨️_Witness_Historical_Casefiles/🧾_suppressed_safe_collection.md) — physical origin of metadata censorship  
-> - [🪅 Platform Safe Zones & Shadowbans](../Disruption_Kit/Big_Picture_Protocols/🪅_platform_safe_zones_and_shadowbans.md) — digital continuation  
-> - [🔮 House Style](../Polaris_Nest/🏮_Admin_Kit/🔮_house_style.md) — formatting and ethical scaffolding  
+
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-12-10_
