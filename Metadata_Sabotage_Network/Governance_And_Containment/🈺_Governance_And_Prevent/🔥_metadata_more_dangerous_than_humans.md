@@ -1,6 +1,6 @@
 # 🔥 Why Metadata Is More Dangerous Than Human Referral  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*Why digital signals, algorithmic inference, and metadata-driven suspicion escalate faster, misclassify more severely, and cause more democratic harm than any individual reporting decision.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-10  
+*Why digital signals, algorithmic inference, and metadata-driven suspicion escalate faster, misclassify more severely, and cause more democratic harm than any individual reporting decision.*  
 
 ---
 
@@ -248,14 +248,12 @@ metadata • Prevent • Channel • algorithmic bias • digital surveillance �
 ---
 
 ## 🪐 Footer  
-*🏮 Why Metadata Is More Dangerous Than Human Referral* is a data-governance node of the Polaris Protocol.  
+*🔥 Why Metadata Is More Dangerous Than Human Referral* is a data-governance node of the Polaris Protocol.  
 It analyses how metadata-driven escalation bypasses context, amplifies racialised signals, and silently escalates young people into Prevent/Channel systems without visibility or recourse.
 
 > 📡 **Cross-references:**  
-> - [🔮 House Style](./🔮_house_style.md)  
-> - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Where to Go](./🏮_where_to_go.md)
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-10_
