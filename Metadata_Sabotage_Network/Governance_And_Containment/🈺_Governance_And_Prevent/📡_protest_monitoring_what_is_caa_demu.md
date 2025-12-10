@@ -1,5 +1,5 @@
 # 📡 Civil Society Protest Monitoring Unit — CAA DEMU  
-**First created:** 2025‑11‑06 | **Last updated:** 2025‑11‑15  
+**First created:** 2025‑11‑06 | **Last updated:** 2025-12-10  
 *Volunteer‑led architecture for monitoring protests, assessing antisemitic risk, and feeding evidence into enforcement pipelines.*  
 
 ---
@@ -159,4 +159,4 @@ civil society protest monitoring, CAA DEMU, volunteer surveillance, antisemitism
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑15_
+_Last updated: 2025-12-10_
