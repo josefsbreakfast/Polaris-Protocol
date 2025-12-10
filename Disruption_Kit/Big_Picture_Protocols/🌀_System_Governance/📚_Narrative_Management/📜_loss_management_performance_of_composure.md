@@ -1,5 +1,5 @@
 # 📜 Loss Management and the Performance of Composure  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
 *The 'heap of all your winnings' stanza as blueprint for reputational recovery.*  
 
 ---
@@ -31,10 +31,12 @@ kipling, loss, reputation, containment, resilience
 
 ## 🏮 Footer  
 *📜 Loss Management and the Performance of Composure* is a living node of the Polaris Protocol.  
-> 📡 Cross-references:  
-> - [📜 How to Style Out a Crisis — Kipling for Modern Governance](./📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
-> - [⚖️ Official Secrets Reform and Accountability](../⚖️_official_secrets_reform_and_accountability.md)
+
+> 📡 Cross-references:
+> 
+> - [📜 How to Style Out a Crisis — Kipling for Modern Governance]  
+> - [⚖️ Official Secrets Reform and Accountability]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-10_
