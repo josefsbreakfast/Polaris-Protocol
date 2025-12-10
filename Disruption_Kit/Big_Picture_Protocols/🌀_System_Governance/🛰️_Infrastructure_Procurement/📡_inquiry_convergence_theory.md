@@ -1,6 +1,6 @@
 # 📡 Inquiry Convergence Theory  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*Why modern public inquiries keep discovering the same failure modes.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
+*Why modern public inquiries keep discovering the same failure modes.*  
 
 ---
 
@@ -67,8 +67,7 @@ public inquiries, pattern recurrence, systemic harm, governance diagnostics, con
 It explains why disparate reviews across the public sector produce uncannily similar conclusions.
 
 > 📡 Cross-references:
-> - [🌀 Systemic Coercion in Federated Governance](./🌀_systemic_coercion_in_federated_governance.md) — underlying behaviour  
-> - [🧠 Systems_&_Governance](../Big_Picture_Protocols/🧠_systems_&_governance/) — structural logic  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-10_
