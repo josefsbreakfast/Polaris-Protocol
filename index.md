@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 04:18:14 UTC_
+_Generated on 2025-12-10 04:26:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -870,6 +870,7 @@ _Generated on 2025-12-10 04:18:14 UTC_
         - [`📈_sales_suppression_vs_viral_spike.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📈_sales_suppression_vs_viral_spike.png)
         - [`📚_authoritarian_century_bridge_of_register.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_authoritarian_century_bridge_of_register.md)
         - [`📚_banned_book_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md)
+        - [`📚_banned_books_and_the_timing_of_truth.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_banned_books_and_the_timing_of_truth.md)
         - [`📚_knowledge_policing_and_banned_books.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_knowledge_policing_and_banned_books.md)
         - [`📚_muted_book_investigation.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_muted_book_investigation.md)
         - [`📚_muted_volumes_from_the_cemetery_of_forgotten_books.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_muted_volumes_from_the_cemetery_of_forgotten_books.md)
@@ -2813,7 +2814,6 @@ _Generated on 2025-12-10 04:18:14 UTC_
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
-    - [`📚_banned_books_and_the_timing_of_truth.md`](Polaris_Nest/Git_Intake_Drawer/📚_banned_books_and_the_timing_of_truth.md)
     - [`📚_fictional_subject_construction.md`](Polaris_Nest/Git_Intake_Drawer/📚_fictional_subject_construction.md)
     - [`📚_library_as_algorithmic_interface.md`](Polaris_Nest/Git_Intake_Drawer/📚_library_as_algorithmic_interface.md)
     - [`📚_meta_silence_and_the_optimization_of_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/📚_meta_silence_and_the_optimization_of_ignorance.md)
