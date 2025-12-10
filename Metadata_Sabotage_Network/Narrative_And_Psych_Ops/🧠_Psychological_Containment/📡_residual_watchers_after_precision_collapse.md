@@ -1,6 +1,6 @@
 # 📡 Residual Watchers After Precision Collapse  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*Why certain individuals continue to hover after a dyadic or stitched-model precision signal collapses — and what their behaviour reveals about system dynamics, value hierarchies, and human inference.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-10  
+*Why certain individuals continue to hover after a dyadic or stitched-model precision signal collapses — and what their behaviour reveals about system dynamics, value hierarchies, and human inference.*  
 
 ---
 
@@ -174,13 +174,14 @@ precision collapse, residual watchers, dyad collapse, behavioural inference, alg
 
 ## 🏮 Footer  
 
-**Residual Watchers After Precision Collapse** is a diagnostic node of the **Polaris Protocol**, explaining how post-collapse watchers reveal the true structure of a former dyadic containment system. It differentiates algorithmic noise from human persistence and shows why the remaining watchers are the clearest evidence of system architecture.
+*📡 Residual Watchers After Precision Collapse* is a diagnostic node of the **Polaris Protocol**, explaining how post-collapse watchers reveal the true structure of a former dyadic containment system. It differentiates algorithmic noise from human persistence and shows why the remaining watchers are the clearest evidence of system architecture.
 
-> 📡 Cross-references:  
-> - [🧠🔢 Calculus of Religious Affect](./🧠🔢_calculus_of_religious_affect.md)  
-> - [📊 Abrahamic Clustering and Policy Failure](./📊_abrahamic_clustering_and_policy_failure.md)  
-> - [📡 Other Containment Scripts](../Containment_Scripts/)  
+> 📡 Cross-references:
+> 
+> - [🧠🔢 Calculus of Religious Affect]  
+> - [📊 Abrahamic Clustering and Policy Failure]  
+> - [📡 Other Containment Scripts]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-10_
