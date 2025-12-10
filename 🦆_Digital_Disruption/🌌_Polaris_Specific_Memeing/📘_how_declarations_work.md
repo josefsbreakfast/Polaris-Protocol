@@ -1,5 +1,5 @@
 # 📘 How Declarations Work  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-24  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
 *A clear, human explanation of how transparency declarations function for HMRC and DWP when receiving small-scale civic support.*  
 
 ---
@@ -159,4 +159,4 @@ It clarifies the small-scale transparency and compliance logic used when receivi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-10_
