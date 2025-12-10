@@ -1,5 +1,5 @@
 # 📊 The Missing National Risk Register 2023 – 2025  
-**First created:** 2025-11-04  |  **Last updated:** 2025-11-24  
+**First created:** 2025-11-04  |  **Last updated:** 2025-12-09  
 *When a country stops publishing its own risk horizon.*  
 
 ---
@@ -169,4 +169,4 @@ Linked to:
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-09_
