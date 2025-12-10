@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 22:26:23 UTC_
+_Generated on 2025-12-10 22:27:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2596,6 +2596,7 @@ _Generated on 2025-12-10 22:26:23 UTC_
       - [`👾_algorithmic_projection_and_false_personalisation.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👾_algorithmic_projection_and_false_personalisation.md)
       - [`💥_solidarity_induced_model_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/💥_solidarity_induced_model_failure.md)
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
+      - [`📥_entry_point_abuse_in_automated_datasets.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🦤_signal_collapse.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🦤_signal_collapse.md)
@@ -2885,7 +2886,6 @@ _Generated on 2025-12-10 22:26:23 UTC_
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📚_streisand_effect_of_justice_irving_v_lipstadt.md`](Polaris_Nest/Git_Intake_Drawer/📚_streisand_effect_of_justice_irving_v_lipstadt.md)
-    - [`📥_entry_point_abuse_in_automated_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📥_entry_point_abuse_in_automated_datasets.md)
     - [`📧_it_couldve_been_an_email.md`](Polaris_Nest/Git_Intake_Drawer/📧_it_couldve_been_an_email.md)
     - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Polaris_Nest/Git_Intake_Drawer/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
     - [`📩_the_fictional_email_problem.md`](Polaris_Nest/Git_Intake_Drawer/📩_the_fictional_email_problem.md)
