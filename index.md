@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-10 03:16:39 UTC_
+_Generated on 2025-12-10 03:22:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1213,6 +1213,7 @@ _Generated on 2025-12-10 03:16:39 UTC_
       - [`🌀_exhaustion_as_a_containment_layer.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md)
       - [`🌀_recognition_without_resolution.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_recognition_without_resolution.md)
       - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
+      - [`📄_the_form_and_the_feeling.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/📄_the_form_and_the_feeling.md)
       - [`🔥_cooling_the_record.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔥_cooling_the_record.md)
       - [`🔥_guardrails_are_political.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔥_guardrails_are_political.md)
       - [`🕵️_harassment_vs_surveillance.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🕵️_harassment_vs_surveillance.md)
@@ -2786,7 +2787,6 @@ _Generated on 2025-12-10 03:16:39 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`📄_the_form_and_the_feeling.md`](Polaris_Nest/Git_Intake_Drawer/📄_the_form_and_the_feeling.md)
     - [`📈_escalation_drift_in_complex_datasets.md`](Polaris_Nest/Git_Intake_Drawer/📈_escalation_drift_in_complex_datasets.md)
     - [`📈_polished_authoritarianism.md`](Polaris_Nest/Git_Intake_Drawer/📈_polished_authoritarianism.md)
     - [`📈_stakeholder_mapping_from_symptoms.md`](Polaris_Nest/Git_Intake_Drawer/📈_stakeholder_mapping_from_symptoms.md)
