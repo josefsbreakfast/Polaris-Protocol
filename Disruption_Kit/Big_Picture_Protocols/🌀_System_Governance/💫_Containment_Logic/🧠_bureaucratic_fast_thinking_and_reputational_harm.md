@@ -1,6 +1,6 @@
 # 🧠 Bureaucratic Fast-Thinking and Reputational Harm  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-10  
-*Reflex as policy ⸺ speed as virtue.*
+**First created:** 2025-11-10 | **Last updated:** 2025-12-11  
+*Reflex as policy ⸺ speed as virtue.*  
 
 ---
 
@@ -115,14 +115,14 @@ system 1 thinking, fast governance, reputational harm, institutional bias, conta
 
 ## 🏮 Footer  
 
-*System 1 Governance — Bureaucratic Fast-Thinking and Reputational Harm* is a living node of the Polaris Protocol.  
+*Bureaucratic Fast-Thinking and Reputational Harm* is a living node of the Polaris Protocol.  
 It maps how cognitive shortcuts and reputational anxiety harden into systemic containment, and offers handles for slowing institutions down long enough to tell the truth.
 
 > 📡 Cross-references:  
-> - [System_Governance](../System_Governance/) — diagnostics and audit tools for institutional logic  
-> - [Containment_Studies](../Containment_Studies/) — typologies of suppression and inversion  
-> - [Disruption_Kit/Refusal_Scripts](../Disruption_Kit/Refusal_Scripts/) — language for pushing back against fast closures  
+> - [System_Governance] — diagnostics and audit tools for institutional logic  
+> - [Containment_Studies] — typologies of suppression and inversion  
+> - [Disruption_Kit/Refusal_Scripts] — language for pushing back against fast closures  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-10_
+_Last updated: 2025-12-11_
