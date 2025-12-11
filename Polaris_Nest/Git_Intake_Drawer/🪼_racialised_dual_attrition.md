@@ -1,4 +1,4 @@
-# 👾 Racialised Dual-Attribution & Metadata Priority Bias  
+# 🪼 Racialised Dual-Attribution & Metadata Priority Bias  
 **First created:** 2025-11-09 | **Last updated:** 2025-12-11  
 *How identity-coded keywords accelerate institutional routing while bodily harm is deprioritised.*  
 
@@ -25,7 +25,7 @@ Maps why allegations relating to geopolitical optics (“dual loyalty,” “ext
 ---
 
 ## 🌌 Constellations  
-👾 🙄 ⚖️ 🧩 — routing bias, identity risk, metadata semantics.
+🪼 👾 🙄 ⚖️ 🧩 — routing bias, identity risk, metadata semantics.
 
 ---
 
