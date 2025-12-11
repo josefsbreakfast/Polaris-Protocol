@@ -1,6 +1,6 @@
 # 🪫 Why We Cannot Know Who Prevent Targets  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How the Prevent/Channel architecture is designed to hide who is being screened, triaged, flagged, discussed, or classified — creating an epistemic blackout that makes racialised harm invisible.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-11  
+*How the Prevent/Channel architecture is designed to hide who is being screened, triaged, flagged, discussed, or classified — creating an epistemic blackout that makes racialised harm invisible.*  
 
 ---
 
@@ -174,4 +174,4 @@ It explains how Prevent/Channel hide their target populations through secrecy, e
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-11_
