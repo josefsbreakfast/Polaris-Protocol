@@ -1,6 +1,6 @@
 # 🕎 Jewish Assimilation vs Eurocentric Algorithms  
-**First created:** 2025-02-14 | **Last updated:** 2025-02-14  
-*Why Jewish assimilation into Christian whiteness is mathematically impossible inside Eurocentric algorithmic systems, and why collective liberation is the only stable configuration.*
+**First created:** 2025-02-14 | **Last updated:** 2025-12-11  
+*Why Jewish assimilation into Christian whiteness is mathematically impossible inside Eurocentric algorithmic systems, and why collective liberation is the only stable configuration.*  
 
 ---
 
@@ -182,9 +182,6 @@ whiteness, christian supremacy, semitic adjacency, algorithmic misclassification
 
 ## 🏮 Footer  
 
-**Polaris Protocol — W015: Algorithmic Misclassification / Structure Studies**  
-House Style v1.7  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-02-14_  
+_Last updated: 2025-12-11_  
