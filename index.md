@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 02:10:56 UTC_
+_Generated on 2025-12-11 05:04:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2961,7 +2961,6 @@ _Generated on 2025-12-11 02:10:56 UTC_
     - [`🔥_why_metadata_more_dangerous_than_human_referral.md`](Polaris_Nest/Git_Intake_Drawer/🔥_why_metadata_more_dangerous_than_human_referral.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
     - [`🔦_prevent_targeting_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🔦_prevent_targeting_black_hole.md)
-    - [`🔧_democratic_resilience_architecture_for_21st_century_britain.md`](Polaris_Nest/Git_Intake_Drawer/🔧_democratic_resilience_architecture_for_21st_century_britain.md)
     - [`🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md`](Polaris_Nest/Git_Intake_Drawer/🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md)
     - [`🔮_archetype_of_the_uncooperative_woman.md`](Polaris_Nest/Git_Intake_Drawer/🔮_archetype_of_the_uncooperative_woman.md)
     - [`🔮_daylight_effects_in_governance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🔮_daylight_effects_in_governance_systems.md)
@@ -3743,6 +3742,7 @@ _Generated on 2025-12-11 02:10:56 UTC_
     - [`💰_cooperative_economy_nodes.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💰_cooperative_economy_nodes.md)
     - [`📜_all_in_commons_manifesto.md`](🦆_Digital_Disruption/🐝_All_In_Commons/📜_all_in_commons_manifesto.md)
     - [`📡_commons_signal_networks.md`](🦆_Digital_Disruption/🐝_All_In_Commons/📡_commons_signal_networks.md)
+    - [`🔧_democratic_resilience_architecture_for_21st_century_britain.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🔧_democratic_resilience_architecture_for_21st_century_britain.md)
     - [`🕊️_trust_repair_protocols.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🕊️_trust_repair_protocols.md)
     - [`🛠️_mutual_aid_stack.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🛠️_mutual_aid_stack.md)
     - [`🧩_distributed_decision_framework.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🧩_distributed_decision_framework.md)
