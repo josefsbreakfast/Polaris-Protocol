@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:15:30 UTC_
+_Generated on 2025-12-11 23:17:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3047,7 +3047,6 @@ _Generated on 2025-12-11 23:15:30 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
-    - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
     - [`🔦_prevent_targeting_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🔦_prevent_targeting_black_hole.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
@@ -3857,6 +3856,7 @@ _Generated on 2025-12-11 23:15:30 UTC_
     - [`🌀_loop_mapping_station.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
     - [`🎭_friction_tactics_catalogue.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🎭_friction_tactics_catalogue.md)
     - [`💡_attention_redirection_protocols.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/💡_attention_redirection_protocols.md)
+    - [`🛰️_verified_amplification_network_protocol_handbook.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🛰️_verified_amplification_network_protocol_handbook.md)
     - [`🧠_nudge_taxonomy_and_detection.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧠_nudge_taxonomy_and_detection.md)
     - [`🧬_behavioural_signature_library.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧬_behavioural_signature_library.md)
     - [`🧾_artifact_archive_templates.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧾_artifact_archive_templates.md)
