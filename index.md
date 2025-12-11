@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:06:20 UTC_
+_Generated on 2025-12-11 09:07:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -234,6 +234,7 @@ _Generated on 2025-12-11 09:06:20 UTC_
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
+        - [`🦕_post_modern_fellow_travellers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
         - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦯_algorithmic_delay_and_pacing.md)
         - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_didnt_apply_brain_loop.md)
         - [`🧠_smart_women_get_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
@@ -3140,7 +3141,6 @@ _Generated on 2025-12-11 09:06:20 UTC_
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
-    - [`🦕_post_modern_fellow_travellers.md`](Polaris_Nest/Git_Intake_Drawer/🦕_post_modern_fellow_travellers.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🦠_algorithmic_autoimmunity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_algorithmic_autoimmunity.md)
     - [`🦠_statistical_nightmare.md`](Polaris_Nest/Git_Intake_Drawer/🦠_statistical_nightmare.md)
