@@ -1,6 +1,6 @@
 # 🕯️ Survivor Visibility and Risk Aversion  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*Why institutions become wary, cautious, or avoidant when a survivor’s clarity, accuracy, or visibility intersects with a coercive actor — and how risk aversion shapes the survivor’s experience of being seen.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+*Why institutions become wary, cautious, or avoidant when a survivor’s clarity, accuracy, or visibility intersects with a coercive actor — and how risk aversion shapes the survivor’s experience of being seen.*  
 
 ---
 
@@ -194,7 +194,7 @@ survivor visibility, risk aversion, institutional behaviour, procedural fear, co
 
 ## 🏮 Footer  
 
-*Survivor Visibility and Risk Aversion* is a Polaris survivor-systems node explaining why institutions behave cautiously around visible survivors when coercive actors are present — and how this dynamic resolves once procedural safety is restored.
+*🕯️ Survivor Visibility and Risk Aversion* is a Polaris survivor-systems node explaining why institutions behave cautiously around visible survivors when coercive actors are present — and how this dynamic resolves once procedural safety is restored.
 
 Pairs with:
 
@@ -205,4 +205,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-11_
