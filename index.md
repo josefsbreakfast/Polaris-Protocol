@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 11:01:57 UTC_
+_Generated on 2025-12-11 11:03:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -777,6 +777,7 @@ _Generated on 2025-12-11 11:01:57 UTC_
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
+        - [`🪞_mirror_ideologies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_mirror_ideologies.md)
         - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
         - [`🪩_weaponised_joy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪩_weaponised_joy.md)
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
@@ -3487,7 +3488,6 @@ _Generated on 2025-12-11 11:01:57 UTC_
     - [`🪞_coercive_control_in_surveillance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪞_coercive_control_in_surveillance_systems.md)
     - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
     - [`🪞_gitmo_as_western_moral_rupture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gitmo_as_western_moral_rupture.md)
-    - [`🪞_mirror_ideologies.md`](Polaris_Nest/Git_Intake_Drawer/🪞_mirror_ideologies.md)
     - [`🪞_mirror_logic_of_concern.md`](Polaris_Nest/Git_Intake_Drawer/🪞_mirror_logic_of_concern.md)
     - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
