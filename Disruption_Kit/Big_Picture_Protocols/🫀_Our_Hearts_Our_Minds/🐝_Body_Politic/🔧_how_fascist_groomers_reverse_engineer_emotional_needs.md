@@ -1,7 +1,6 @@
 # 🔧 How Fascist Groomers Reverse-Engineer Emotional Needs  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*An analysis of how extremist recruiters identify, map, and exploit the emotional vulnerabilities of lonely, shame-wounded, or misclassified men using precision psychological engineering.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-11   
+*An analysis of how extremist recruiters identify, map, and exploit the emotional vulnerabilities of lonely, shame-wounded, or misclassified men using precision psychological engineering.*  
 
 ---
 
@@ -253,11 +252,12 @@ but through **emotional replacement**.
 **How Fascist Groomers Reverse-Engineer Emotional Needs** is a living node of the Polaris Protocol.  
 It reveals extremist recruitment as a form of psychological engineering and replaces ideological explanations with emotional ones, enabling effective deradicalisation and prevention.
 
-> 📡 Cross-references:  
-> - [🕳️ The Grievance Sinkhole](./the_grievance_sinkhole.md)  
-> - [🎭 Identity Cosplay](./identity_cosplay_how_men_perform_hardness_they_dont_believe_in.md)  
-> - [💗 The Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)
+> 📡 Cross-references:
+> 
+> - [🕳️ The Grievance Sinkhole]  
+> - [🎭 Identity Cosplay]  
+> - [💗 The Soft Boy Restoration Protocol]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-11_
