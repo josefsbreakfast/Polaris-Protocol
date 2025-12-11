@@ -239,4 +239,8 @@ stabilising the national ecosystem through role realism,
 admin folklore,  
 and cryptid-adjacent caution.
 
-**Like jury duty. But with mud, not cakes.**
+**Like jury duty. But with mud, not cakes.**  
+
+---
+
+_Last updated: 2025-12-11_
