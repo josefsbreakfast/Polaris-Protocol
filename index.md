@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:32:04 UTC_
+_Generated on 2025-12-11 23:34:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -154,6 +154,7 @@ _Generated on 2025-12-11 23:32:04 UTC_
         - [`👑_asserting_sovereignty_after_allied_interference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
         - [`👑_soft_power_accountability_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
+        - [`🕊️_positive_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕊️_positive_drift.md)
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
         - [`🦠_openai_uk_due_diligence_autoimmunity_map.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_openai_uk_due_diligence_autoimmunity_map.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
@@ -3052,7 +3053,6 @@ _Generated on 2025-12-11 23:32:04 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕊️_positive_drift_leadership_shifts_heritage_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_positive_drift_leadership_shifts_heritage_governance.md)
     - [`🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md)
     - [`🕍_jewish_trauma_literacy_for_non_jewish_audiences.md`](Polaris_Nest/Git_Intake_Drawer/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)
     - [`🕍_shared_language_for_shared_warnings.md`](Polaris_Nest/Git_Intake_Drawer/🕍_shared_language_for_shared_warnings.md)
