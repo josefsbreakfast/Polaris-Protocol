@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:30:44 UTC_
+_Generated on 2025-12-11 10:32:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1076,6 +1076,7 @@ _Generated on 2025-12-11 10:30:44 UTC_
         - [`📱_millennials_phone_dependent_protest_liability.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/📱_millennials_phone_dependent_protest_liability.md)
         - [`🔁_ritual_and_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔁_ritual_and_refusal.md)
         - [`🔥_controlled_fury_in_analysis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔥_controlled_fury_in_analysis.md)
+        - [`🕊_repairing_the_human.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕊_repairing_the_human.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
@@ -3023,7 +3024,6 @@ _Generated on 2025-12-11 10:30:44 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🔱_god_as_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🔱_god_as_plurality.md)
     - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Polaris_Nest/Git_Intake_Drawer/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
-    - [`🕊_repairing_the_human.md`](Polaris_Nest/Git_Intake_Drawer/🕊_repairing_the_human.md)
     - [`🕊️_data_contact_breach_when_restraining_orders_fail_via_data.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_data_contact_breach_when_restraining_orders_fail_via_data.md)
     - [`🕊️_positive_drift_leadership_shifts_heritage_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_positive_drift_leadership_shifts_heritage_governance.md)
     - [`🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md)
