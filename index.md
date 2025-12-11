@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:15:41 UTC_
+_Generated on 2025-12-11 10:17:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -569,6 +569,7 @@ _Generated on 2025-12-11 10:15:41 UTC_
         - [`🦠_opportunistic_disinfo_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦠_opportunistic_disinfo_pathogen.md)
         - [`🧠_charisma_as_coercion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_charisma_as_coercion.md)
         - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
+        - [`🧠_fascism_as_scaled_coercive_control.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_fascism_as_scaled_coercive_control.md)
         - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
         - [`🧠_the_cognitive_vulnerability_stack_of_lonely_men.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)
         - [`🧠_the_masculinity_gap.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_masculinity_gap.md)
@@ -3194,7 +3195,6 @@ _Generated on 2025-12-11 10:15:41 UTC_
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
     - [`🧠_extracting_soul_from_prosocial_people.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extracting_soul_from_prosocial_people.md)
-    - [`🧠_fascism_as_scaled_coercive_control.md`](Polaris_Nest/Git_Intake_Drawer/🧠_fascism_as_scaled_coercive_control.md)
     - [`🧠_four_signature_differential_reality_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧠_four_signature_differential_reality_loops.md)
     - [`🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md)
     - [`🧠_how_bad_actors_incriminate_themselves.md`](Polaris_Nest/Git_Intake_Drawer/🧠_how_bad_actors_incriminate_themselves.md)
