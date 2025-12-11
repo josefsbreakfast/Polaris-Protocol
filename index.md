@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:25:16 UTC_
+_Generated on 2025-12-11 09:25:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2510,6 +2510,7 @@ _Generated on 2025-12-11 09:25:16 UTC_
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
+      - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪫_why_we_cannot_know_who_prevent_targets.md)
       - [`🪼_plausible_deniability_rhetoric.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪼_plausible_deniability_rhetoric.md)
       - [`🪼_prevent_the_alt_right_weapon.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪼_prevent_the_alt_right_weapon.md)
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
@@ -3490,7 +3491,6 @@ _Generated on 2025-12-11 09:25:16 UTC_
     - [`🪩_weaponised_joy.md`](Polaris_Nest/Git_Intake_Drawer/🪩_weaponised_joy.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
-    - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Polaris_Nest/Git_Intake_Drawer/🪫_why_we_cannot_know_who_prevent_targets.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
