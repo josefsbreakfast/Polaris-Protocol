@@ -1,6 +1,6 @@
 # 🔥 Masters’ Tools Refusal — Hebrew Register  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*Rendering refusal ethics in Biblical diction.*
+**First created:** 2025-11-22 | **Last updated:**  2025-12-11  
+*Rendering refusal ethics in Biblical diction.*  
 
 ---
 
@@ -33,4 +33,4 @@ audre lorde, prophetic hebrew, klei adonim, refusal ethics
 ## 🏮 Footer  
 *Masters’ Tools Refusal — Hebrew Register* is a living node of the Polaris Protocol.
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-11_
