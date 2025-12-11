@@ -1,6 +1,6 @@
 # 🧠 Politicians and Public Contact
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11
-*Examining the broken transmission between electorate and elected.*
+**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
+*Examining the broken transmission between electorate and elected.*  
 
 ---
 
@@ -33,13 +33,14 @@ political communication, representation, accountability, datafication, public vo
 ---
 
 ## 🏮 Footer
-*Politicians and Public Contact* is a living node of the Polaris Protocol.  
+*🧠 Politicians and Public Contact* is a living node of the Polaris Protocol.  
 It belongs to the *Systems & Governance* cluster, mapping failures in civic feedback architecture.  
 
-> 📡 Cross-references:  
-> - [🌀 Systems & Governance](../🌀_systems_&_governance/)  
-> - [⚖️ Election Candidacy Query](../🪄_expression_of_norms/⚖️_election_candidacy_query.md)  
+> 📡 Cross-references:
+> 
+> - [🌀 Systems & Governance]  
+> - [⚖️ Election Candidacy Query]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-11_
