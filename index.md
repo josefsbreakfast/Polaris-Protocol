@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:48:22 UTC_
+_Generated on 2025-12-11 10:49:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2711,6 +2711,7 @@ _Generated on 2025-12-11 10:48:22 UTC_
       - [`🦤_signal_collapse.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🦤_signal_collapse.md)
       - [`🧠_skillsets_required_for_environmental_sabotage.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧠_skillsets_required_for_environmental_sabotage.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
+      - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
       - [`☎_telecoms_vectors.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/☎_telecoms_vectors.md)
@@ -3489,7 +3490,6 @@ _Generated on 2025-12-11 10:48:22 UTC_
     - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
     - [`🪞_the_i_got_got_moment.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_i_got_got_moment.md)
     - [`🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md)
-    - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
