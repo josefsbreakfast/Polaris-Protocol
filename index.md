@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:47:55 UTC_
+_Generated on 2025-12-11 23:49:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -782,6 +782,7 @@ _Generated on 2025-12-11 23:47:55 UTC_
         - [`🔮_post_chaos_governance_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔮_post_chaos_governance_archetypes.md)
         - [`🔮_the_sensible_adult_archetype.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔮_the_sensible_adult_archetype.md)
         - [`🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md)
+        - [`🕯️_crash_sites_as_temporal_loops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕯️_crash_sites_as_temporal_loops.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
@@ -3061,7 +3062,6 @@ _Generated on 2025-12-11 23:47:55 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕯️_crash_sites_as_temporal_loops.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_crash_sites_as_temporal_loops.md)
     - [`🕯️_prevent_and_the_encampment_silence.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_prevent_and_the_encampment_silence.md)
     - [`🕯️_survivor_visibility_and_risk_aversion.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_survivor_visibility_and_risk_aversion.md)
     - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
