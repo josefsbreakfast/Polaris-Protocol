@@ -1,6 +1,6 @@
 # 🕊️ Positive Drift — Leadership Shifts in Counter-Terrorism and Heritage-Aligned Governance  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*Small rotations that change the tone of an entire field.*
+**First created:** 2025-11-08 | **Last updated:** 2025-12-11  
+*Small rotations that change the tone of an entire field.*  
 
 ---
 
@@ -61,9 +61,9 @@ counter-terrorism, leadership change, heritage foundation, ideological patronage
 ---
 
 ## 🏮 Footer  
-*Positive Drift* is a current-events node of the Polaris Protocol.  
+*🕊️ Positive Drift* is a current-events node of the Polaris Protocol.  
 It logs incremental reform — the kind that rarely makes headlines but quietly re-balances power toward transparency and skill.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-11_
