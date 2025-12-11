@@ -1,5 +1,5 @@
 # 🦇 How Many Words to Fell an Industry  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-12-11  
 *On the grammar of collapse and the violence of phrasing.*  
 
 ---
@@ -136,14 +136,14 @@ voice fidelity, linguistic collapse, risk industry, UK strategy, consultancy eco
 
 ## 🏮 Footer  
 
-*How Many Words to Fell an Industry* is a living node of the Polaris Protocol.  
+*🦇 How Many Words to Fell an Industry* is a living node of the Polaris Protocol.  
 It examines collapse through the semantics of power, tracing how survivor language prefigures systemic failure and how the UK’s risk industry commodifies its own credibility.  
 
-> 📡 Cross-references:  
-> - [👾 What Robots Did to Words](./👾_what_robots_did_to_words.md) — automation and semantic drift  
-> - [🎛️ Drafting Rules Cluster — Survivor Voice Fidelity](../Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md) — tone integrity standards  
-> - [🧿 Visual Palette](../Admin_Kit/🧿_visual_palette.md) — register and iconography  
+> 📡 Cross-references:
+> 
+> - [👾 What Robots Did to Words] — automation and semantic drift  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-12-11_
