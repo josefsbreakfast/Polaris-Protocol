@@ -1,5 +1,5 @@
 # 🪞 Why Twinning Agreements Break  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
 *Analyzing why participants in data‑twinning or narrative‑pairing systems initially agree but later attempt withdrawal.*  
 
 ---
@@ -36,9 +36,9 @@ twinning agreements, data reciprocity, algorithmic incentives, ethical recoil, r
 
 > 📡 Cross‑references:  
 > 
-> - [🧩 Containment Ethics Overview](../System_Governance/Containment_Ethics/containment_ethics_overview.md) — *broader context on ethical containment*  
-> - [⚖️ Legal Disentanglement Guidelines](../System_Governance/Legal_Disentanglement/legal_disentanglement_guidelines.md) — *procedures for unwinding paired agreements*  
+> - [🧩 Containment Ethics Overview] — *broader context on ethical containment*  
+> - [⚖️ Legal Disentanglement Guidelines] — *procedures for unwinding paired agreements*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-11_
