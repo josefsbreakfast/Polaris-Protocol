@@ -1,6 +1,6 @@
 # 🔺 The Golden Triangle and the Hidden Constitution of Local Government  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
-*How three statutory roles became the quiet spine — and sometimes the choke point — of English local governance.*
+**First created:** 2025-11-04 | **Last updated:** 2025-12-11  
+*How three statutory roles became the quiet spine — and sometimes the choke point — of English local governance.*  
 
 ---
 
@@ -238,13 +238,14 @@ local government, governance ecology, statutory officers, golden triangle, monit
 ---
 
 ## 🏮 Footer  
-*The Golden Triangle and the Hidden Constitution of Local Government* is a living node of the Polaris Protocol.  
+*🔺 The Golden Triangle and the Hidden Constitution of Local Government* is a living node of the Polaris Protocol.  
 It contributes to the Governance Ecologies cluster by analysing how statutory safeguards mutate into centralised decision structures and how those structures might be re-balanced.  
 
-> 📡 Cross-references:  
-> - [🧼 Courtier Class in the Age of Austerity](../🧭_Governance_Ecologies/🧼_courtier_class_in_the_age_of_austerity.md) — opportunism within hollowed institutions  
-> - [Big Picture Protocols](../) — systemic diagnostics and typologies  
+> 📡 Cross-references:
+> 
+> - [🧼 Courtier Class in the Age of Austerity] — opportunism within hollowed institutions  
+> - [Big Picture Protocols] — systemic diagnostics and typologies  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-12-11_
