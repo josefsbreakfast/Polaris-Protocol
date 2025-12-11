@@ -1,6 +1,6 @@
 # 🧃 From Jetsons to Jailbroken — The Domestic Turn of Surveillance Capitalism  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
-*How the Internet of Things turned utopia inside out.*
+**First created:** 2025-10-25 | **Last updated:** 2025-12-11  
+*How the Internet of Things turned utopia inside out. Or: Where The Fuck Is My Hoverboard?*
 
 ---
 
@@ -118,12 +118,13 @@ internet of things, surveillance capitalism, domestic space, automation, smart h
 is a living node of the Polaris Protocol.  
 It documents the cultural inversion of automation from liberation myth to monitoring regime.  
 
-> 📡 Cross-references:  
-> - [🕹️ Anarchist Calisthenics and the Surveillance Industry](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md) — micro-resistance to behavioural capture  
-> - [💫 Containment Logic](../../🌀_System_Governance/💫_Containment_Logic/) — workflow governance and the automation of suspicion  
-> - [🧠 HM Dept Coercive Nudges](../🧠_HM_Dept_Coercive_Nudges/) — behavioural economics as compliance tool  
-> - [🐝 Body Politic](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/) — intimacy, ethics, and the quantified self  
+> 📡 Cross-references:
+> 
+> - [🕹️ Anarchist Calisthenics and the Surveillance Industry] — micro-resistance to behavioural capture  
+> - [💫 Containment Logic] — workflow governance and the automation of suspicion  
+> - [🧠 HM Dept Coercive Nudges] — behavioural economics as compliance tool  
+> - [🐝 Body Politic] — intimacy, ethics, and the quantified self  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-25_  
+_Last updated: 2025-12-11_  
