@@ -1,6 +1,6 @@
 # 🧠 Gendered & Racialised Prevent/Channel Misuse — Supernode
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*A cluster overview of how misogyny, racial hierarchy, male jealousy, and homoerotic panic drive Prevent/Channel misuse.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
+*A cluster overview of how misogyny, racial hierarchy, male jealousy, and homoerotic panic drive Prevent/Channel misuse.*  
 
 ---
 
@@ -253,7 +253,7 @@ gendered risk, Prevent misuse, Channel escalation, misogyny, racial hierarchy, s
 
 ## 🏮 Footer  
 
-*Gendered & Racialised Prevent/Channel Misuse — Supernode* is a living orientation map of the Polaris Protocol cluster on risk systems, misogyny, racialisation, and male competition.
+*🧠 Gendered & Racialised Prevent/Channel Misuse — Supernode* is a living orientation map of the Polaris Protocol cluster on risk systems, misogyny, racialisation, and male competition.
 
 It shows how private feelings — entitlement, jealousy, fear, desire — become public danger labels once filtered through biased institutions.
 
@@ -261,4 +261,4 @@ It shows how private feelings — entitlement, jealousy, fear, desire — become
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-11_
