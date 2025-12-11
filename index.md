@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 11:18:21 UTC_
+_Generated on 2025-12-11 11:21:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -612,7 +612,7 @@ _Generated on 2025-12-11 11:18:21 UTC_
             - [`🎒_frankenstack_support_pack.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🎒_frankenstack_support_pack.md)
             - [`🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md)
             - [`🏛️_neutralising_frankenstacks_civil_service_guidance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🏛️_neutralising_frankenstacks_civil_service_guidance.md)
-            - [`🔥_stop_being_weird_and_start_being_wife_material_for_science.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🔥_stop_being_weird_and_start_being_wife_material_for_science.md)
+            - [`🔥_wife_material.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🔥_wife_material.md)
             - [`🗺️_power_mapping_frankenstack_ecosystem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🗺️_power_mapping_frankenstack_ecosystem.md)
             - [`🛠️_neutralising_frankenstacks_next_steps.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🛠️_neutralising_frankenstacks_next_steps.md)
             - [`🧟‍♀️_frankenstack_anti_me_too_engine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_anti_me_too_engine.md)
