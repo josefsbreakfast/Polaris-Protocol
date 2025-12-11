@@ -1,6 +1,6 @@
 # 🔥 The Witchings of Europe — Algorithmic Purge as Political Reflex  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-24  
-*When the architecture of fear repeats itself through code.*
+**First created:** 2025-10-24 | **Last updated:** 2025-12-11  
+*When the architecture of fear repeats itself through code.*  
 
 ---
 
@@ -295,10 +295,11 @@ witch-hunts, algorithmic suppression, moral panic, bureaucracy, scapegoating, ca
 *🔥 The Witchings of Europe — Algorithmic Purge as Political Reflex* is a living node of the Polaris Protocol.  
 It connects early-modern persecution logics to contemporary algorithmic containment and calls for political immune systems that preserve ethical dissent.  
 
-> 📡 Cross-references:  
-> – [🧬 Algorithmic Endocrinology](../🧬_Algorithmic_Endocrinology/README.md) — physiological mechanisms  
-> – [🚀 Mass Biochemical Engineering](../🚀_mass_biochemical_engineering.md) — strategic overview  
-> – [🧩 Ecological Ethics of Algorithmic Design](../🧬_Algorithmic_Endocrinology/🧩_ecological_ethics_of_algorithmic_design.md) — ethical counterpart  
+> 📡 Cross-references:
+> 
+> – [🧬 Algorithmic Endocrinology] — physiological mechanisms  
+> – [🚀 Mass Biochemical Engineering] — strategic overview  
+> – [🧩 Ecological Ethics of Algorithmic Design] — ethical counterpart  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+_Last updated: 2025-12-11_
