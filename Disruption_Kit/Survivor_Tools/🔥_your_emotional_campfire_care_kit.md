@@ -1,8 +1,6 @@
-File: 🔥_your_emotional_campfire_care_kit.md
-
 # 🔥 Your Emotional Campfire Care Kit  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*A Polaris model for tending your psychological “campfire” during periods of societal instability, bureaucratic harm, or chronic political stress.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-11  
+*A Polaris model for tending your psychological “campfire” during periods of societal instability, bureaucratic harm, or chronic political stress.*  
 
 ---
 
@@ -164,10 +162,12 @@ just **enough warmth to keep going**.
 ---
 
 ## 🏮 Footer  
-**Your Emotional Campfire Care Kit** is part of Polaris’ Emotional Systems & Survival cluster.  
+*🔥 Your Emotional Campfire Care Kit* is part of Polaris’ Emotional Systems & Survival cluster.  
 It translates systemic analysis into gentle, practical strategies for individuals navigating bureaucratic harm, democratic drift, or personal upheaval.
 
 Crosslinks:  
 - 🌲 *campfire_stability_model_for_modern_citizens*  
 - 🌲 *rebuilding_spark_in_a_political_forest_fire*  
 - 🧯 *signs_your_brain_is_tired_because_society_is_batshit*
+
+_Last updated: 2025-12-11_
