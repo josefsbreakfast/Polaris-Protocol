@@ -44,3 +44,17 @@ i kinda feel they have better taste idk.
 "You may think that you're scared, but you're not. That isn't fear. That's your sharpness. That's your **power**."  
 
 ---
+
+If you didn't want a nerd, maybe you should have picked a problem with collector's editions DnD manuals in the data exhaust.  
+
+TELL. ING. ON. YOUR. SELVES.  
+
+And if you were beaten to shit as a kid or raped?  
+
+Then be fucking **better**.  
+
+A snake doesn't eat itself when moribund because it helps; the process must be interrupted to increase likelihood of positive outcomes.  
+
+We won't get a better world by repeating the same shit that was done to us.  
+
+---
