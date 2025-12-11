@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 00:21:45 UTC_
+_Generated on 2025-12-11 00:22:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3637,7 +3637,6 @@ _Generated on 2025-12-11 00:21:45 UTC_
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**Fork_Taxonomy/**](👻_Apparitional_Objects/Fork_Taxonomy/)
-    - [`👾_execution_drift.md`](👻_Apparitional_Objects/Fork_Taxonomy/👾_execution_drift.md)
     - [`🔐_fork_clone_checklist.md`](👻_Apparitional_Objects/Fork_Taxonomy/🔐_fork_clone_checklist.md)
     - [`🚀_taxonomy_expansion.md`](👻_Apparitional_Objects/Fork_Taxonomy/🚀_taxonomy_expansion.md)
     - [`🚀_taxonomy_expansion_roadmap.md`](👻_Apparitional_Objects/Fork_Taxonomy/🚀_taxonomy_expansion_roadmap.md)
@@ -3664,6 +3663,7 @@ _Generated on 2025-12-11 00:21:45 UTC_
     - [`🍴_fork_taxonomy.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🍴_fork_taxonomy.md)
     - [`🎶_calming_voice_prototype.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🎶_calming_voice_prototype.md)
     - [`🏛_british_museum_error_fork.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🏛_british_museum_error_fork.md)
+    - [`👾_execution_drift.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/👾_execution_drift.md)
   - [**🎞️_Haunted_Artefacts_Catalogue/**](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/)
     - [`README.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/README.md)
     - [`🌙_sleep_sabotage.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🌙_sleep_sabotage.md)
