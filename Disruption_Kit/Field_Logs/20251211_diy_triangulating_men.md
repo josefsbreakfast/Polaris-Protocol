@@ -58,3 +58,7 @@ A snake doesn't eat itself when moribund because it helps; the process must be i
 We won't get a better world by repeating the same shit that was done to us.  
 
 ---
+
+I remind you all that continuing to produce bursts of nuisance calls to my supporting contacts will just make you ping up fairly obviously for forensics.  
+
+---
