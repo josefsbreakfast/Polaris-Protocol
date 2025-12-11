@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:11:04 UTC_
+_Generated on 2025-12-11 09:11:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -236,6 +236,7 @@ _Generated on 2025-12-11 09:11:04 UTC_
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
         - [`🦕_post_modern_fellow_travellers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
+        - [`🦠_toxic_legitimacy_cycles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦠_toxic_legitimacy_cycles.md)
         - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦯_algorithmic_delay_and_pacing.md)
         - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_didnt_apply_brain_loop.md)
         - [`🧠_smart_women_get_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
@@ -3145,7 +3146,6 @@ _Generated on 2025-12-11 09:11:04 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
-    - [`🦠_toxic_legitimacy_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🦠_toxic_legitimacy_cycles.md)
     - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Polaris_Nest/Git_Intake_Drawer/🦤_how_the_right_accidentally_infiltrated_itself.md)
     - [`🦤_nazi_nuclear_homeopathy_science.md`](Polaris_Nest/Git_Intake_Drawer/🦤_nazi_nuclear_homeopathy_science.md)
     - [`🦮_who_authorises_animal_interventions_uk.md`](Polaris_Nest/Git_Intake_Drawer/🦮_who_authorises_animal_interventions_uk.md)
