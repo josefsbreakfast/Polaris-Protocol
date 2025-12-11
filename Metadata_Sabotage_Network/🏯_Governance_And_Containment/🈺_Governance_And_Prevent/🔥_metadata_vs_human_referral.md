@@ -1,5 +1,5 @@
 # 🔥 Why Metadata Is More Dangerous Than Human Referral  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-11    
 *Why metadata-driven Prevent referrals produce deeper, wider, and more racialised harms than human-led referrals — and why metadata intensifies pre-crime logic beyond democratic control.*
 
 ---
@@ -213,4 +213,4 @@ It maps why metadata-driven referrals escalate racial bias, suppress youth expre
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-11_
