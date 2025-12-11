@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:39:31 UTC_
+_Generated on 2025-12-11 23:41:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2843,6 +2843,7 @@ _Generated on 2025-12-11 23:39:31 UTC_
       - [`📡_pattern_vs_person.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📡_pattern_vs_person.md)
       - [`📣_the_shouting_whisper.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📣_the_shouting_whisper.md)
       - [`🔮_predictive_containment_and_emergent_friction.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🔮_predictive_containment_and_emergent_friction.md)
+      - [`🕎_jewish_assimilation_vs_eurocentric_algorithms.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕎_jewish_assimilation_vs_eurocentric_algorithms.md)
       - [`🚩_when_being_flagged_creates_the_evidence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🚩_when_being_flagged_creates_the_evidence.md)
       - [`🦁_the_rules_beneath_the_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦁_the_rules_beneath_the_rules.md)
       - [`🦠_statistical_nightmare.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_statistical_nightmare.md)
@@ -3057,7 +3058,6 @@ _Generated on 2025-12-11 23:39:31 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕎_jewish_assimilation_vs_eurocentric_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_assimilation_vs_eurocentric_algorithms.md)
     - [`🕎_jewish_conscience_anti_racist_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_conscience_anti_racist_governance.md)
     - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
     - [`🕯_the_audit_log_does_not_sleep.md`](Polaris_Nest/Git_Intake_Drawer/🕯_the_audit_log_does_not_sleep.md)
