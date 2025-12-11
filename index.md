@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:56:49 UTC_
+_Generated on 2025-12-11 09:57:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3187,7 +3187,6 @@ _Generated on 2025-12-11 09:56:49 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
     - [`🧠_diagnostic_visibility_conditioning.md`](Polaris_Nest/Git_Intake_Drawer/🧠_diagnostic_visibility_conditioning.md)
     - [`🧠_early_secret_police_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧠_early_secret_police_architecture.md)
     - [`🧠_emotional_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧠_emotional_targeting.md)
