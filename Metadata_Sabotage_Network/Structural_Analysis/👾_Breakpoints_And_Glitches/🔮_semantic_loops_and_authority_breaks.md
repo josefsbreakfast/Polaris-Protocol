@@ -1,5 +1,5 @@
 # 🔮 Semantic Loops and Authority Breaks  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
 *How repetition, recursion, and doubled clauses destabilise meaning and erode institutional authority.*
 
 ---
@@ -119,8 +119,9 @@ semantic loops, recursion, authority breaks, containment logic, repetition error
 *🔮 Semantic Loops and Authority Breaks* is a living node of the **Polaris Protocol**, analysing how repetition and recursion weaken narrative authority, expose architectural strain, and signal deeper containment dynamics.
 
 > 📡 Cross-references:
-> - [🦆 UI Glitch as Psychological Event](./🦆_ui_glitch_as_psychological_event.md) — when loops appear via interface  
-> - [🩻 Comms Breaks](../Weirdness_Screening/📬_Comms_Breaks/) — echo effects in communication patterns  
+> 
+> - [🦆 UI Glitch as Psychological Event] — when loops appear via interface  
+> - [🩻 Comms Breaks] — echo effects in communication patterns  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-11_
