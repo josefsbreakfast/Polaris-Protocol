@@ -1,6 +1,6 @@
 # 🧠 Attribution Inversion — When Someone Else’s Clinical Vocabulary Becomes Yours  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*Language drift as institutional misdiagnosis.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-11  
+*Language drift as institutional misdiagnosis.*  
 
 ---
 
@@ -89,11 +89,12 @@ attribution inversion, clinical language, metadata bias, semantic drift, survivo
 *🧠 Attribution Inversion — When Someone Else’s Clinical Vocabulary Becomes Yours* is a living node of the Polaris Protocol.  
 It explores how words migrate faster than justice — and how the wrong adjectives can outlive the truth.  
 
-> 📡 Cross-references:  
-> - [💬 Semantic Echo — How Offender Language Re-Enters Institutional Notes](../📚_Narrative_Management/💬_semantic_echo_how_offender_language_re_enters_institutional_notes.md)  
-> - [🪞 Narrative Drift — When Systems Inherit the Wrong Story](../📚_Narrative_Management/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)  
-> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility](../📚_Narrative_Management/🎭_reputation_as_governance_how_institutions_script_their_own_credibility.md)  
+> 📡 Cross-references:
+> 
+> - [💬 Semantic Echo — How Offender Language Re-Enters Institutional Notes]  
+> - [🪞 Narrative Drift — When Systems Inherit the Wrong Story]  
+> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-11_
