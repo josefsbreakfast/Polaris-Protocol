@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 11:06:26 UTC_
+_Generated on 2025-12-11 11:06:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3032,7 +3032,6 @@ _Generated on 2025-12-11 11:06:26 UTC_
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
     - [`🔦_prevent_targeting_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🔦_prevent_targeting_black_hole.md)
-    - [`🔮_post_legitimacy_landscape_2026_2030.md.md`](Polaris_Nest/Git_Intake_Drawer/🔮_post_legitimacy_landscape_2026_2030.md.md)
     - [`🔮_predictive_containment_and_emergent_friction.md`](Polaris_Nest/Git_Intake_Drawer/🔮_predictive_containment_and_emergent_friction.md)
     - [`🔮_semantic_loops_and_authority_breaks.md`](Polaris_Nest/Git_Intake_Drawer/🔮_semantic_loops_and_authority_breaks.md)
     - [`🔮_the_sensible_adult_archetype.md`](Polaris_Nest/Git_Intake_Drawer/🔮_the_sensible_adult_archetype.md)
