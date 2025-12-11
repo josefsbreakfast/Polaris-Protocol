@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 05:04:15 UTC_
+_Generated on 2025-12-11 05:06:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2804,6 +2804,9 @@ _Generated on 2025-12-11 05:04:15 UTC_
       - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
+  - [**🏯_Governance_And_Containment/**](Metadata_Sabotage_Network/🏯_Governance_And_Containment/)
+    - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/)
+      - [`🔥_metadata_vs_human_referral.md`](Metadata_Sabotage_Network/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/🔥_metadata_vs_human_referral.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
     - [`🀄_play_foia_moj_edition.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🀄_play_foia_moj_edition.png)
@@ -2958,7 +2961,6 @@ _Generated on 2025-12-11 05:04:15 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
-    - [`🔥_why_metadata_more_dangerous_than_human_referral.md`](Polaris_Nest/Git_Intake_Drawer/🔥_why_metadata_more_dangerous_than_human_referral.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
     - [`🔦_prevent_targeting_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🔦_prevent_targeting_black_hole.md)
     - [`🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md`](Polaris_Nest/Git_Intake_Drawer/🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md)
