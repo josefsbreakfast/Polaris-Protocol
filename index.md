@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:44:45 UTC_
+_Generated on 2025-12-11 23:46:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2762,6 +2762,7 @@ _Generated on 2025-12-11 23:44:45 UTC_
       - [`📚_library_as_algorithmic_interface.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)
       - [`📡_provenance_chain_audit.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📡_provenance_chain_audit.md)
       - [`🔗_engagement_spillover_how_one_post_creates_a_niche.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🔗_engagement_spillover_how_one_post_creates_a_niche.md)
+      - [`🕎_regional_business_sensitivity_matrix_doc_r22_a.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕎_regional_business_sensitivity_matrix_doc_r22_a.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md)
       - [`🧩_human_computation_games_the_puzzle_economy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)
@@ -3059,7 +3060,6 @@ _Generated on 2025-12-11 23:44:45 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
     - [`🕯_the_audit_log_does_not_sleep.md`](Polaris_Nest/Git_Intake_Drawer/🕯_the_audit_log_does_not_sleep.md)
     - [`🕯️_crash_sites_as_temporal_loops.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_crash_sites_as_temporal_loops.md)
     - [`🕯️_prevent_and_the_encampment_silence.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_prevent_and_the_encampment_silence.md)
