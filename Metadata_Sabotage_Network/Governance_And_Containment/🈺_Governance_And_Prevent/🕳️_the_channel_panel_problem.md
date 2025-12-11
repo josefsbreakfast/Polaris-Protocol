@@ -1,5 +1,5 @@
 # 🕳️ The Channel Panel Problem  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-11  
 *Why Channel panels function as secret committees with no transparency, no accountability, and no democratic oversight — and how their structure undermines safeguarding, justice, and constitutional legitimacy.*
 
 ---
@@ -242,6 +242,6 @@ It exposes Channel’s structural secrecy, police dominance, and unreviewable de
 > 📡 **Cross-references:**  
 
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-11_
