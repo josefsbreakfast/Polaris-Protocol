@@ -1,7 +1,7 @@
 # 🦋 Butterfly Effect in Small States — Britain’s Data-Scale Paradox  
 **First created:** 2025-11-08 | **Last updated:** 2025-12-11  
 *Small island, large signal.*
-
+<!--Occasionally, the problem is not entirely Kraken-related.-->
 ---
 
 ## 🧭 Orientation  
