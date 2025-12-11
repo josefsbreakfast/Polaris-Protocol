@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:33:14 UTC_
+_Generated on 2025-12-11 09:35:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2783,6 +2783,7 @@ _Generated on 2025-12-11 09:33:14 UTC_
       - [`🦠_statistical_nightmare.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_statistical_nightmare.md)
       - [`🦠_the_mutation_of_targeting_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_the_mutation_of_targeting_rules.md)
       - [`🧠_algorithmic_fear_symbolics_male_threat_mapping.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧠_algorithmic_fear_symbolics_male_threat_mapping.md)
+      - [`🧠_algorithmic_operant_conditioning_how_ai_teaches_us_to_be_simple.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧠_algorithmic_operant_conditioning_how_ai_teaches_us_to_be_simple.md)
       - [`🧠_cognitive_mirage_how_humans_justify_algorithmic_bias.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧠_cognitive_mirage_how_humans_justify_algorithmic_bias.md)
       - [`🧪_testing_the_invisible_criteria.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧪_testing_the_invisible_criteria.md)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
@@ -3176,7 +3177,6 @@ _Generated on 2025-12-11 09:33:14 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_algorithmic_operant_conditioning.md`](Polaris_Nest/Git_Intake_Drawer/🧠_algorithmic_operant_conditioning.md)
     - [`🧠_attribution_inversion_when_someone_elses_clinical_vocabulary_becomes_yours.md`](Polaris_Nest/Git_Intake_Drawer/🧠_attribution_inversion_when_someone_elses_clinical_vocabulary_becomes_yours.md)
     - [`🧠_austerity_as_security_doctrine.md`](Polaris_Nest/Git_Intake_Drawer/🧠_austerity_as_security_doctrine.md)
     - [`🧠_behavioural_nudge_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_nudge_as_containment.md)
