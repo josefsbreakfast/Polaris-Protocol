@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 11:08:59 UTC_
+_Generated on 2025-12-11 11:10:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -336,6 +336,7 @@ _Generated on 2025-12-11 11:08:59 UTC_
         - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_ai_middleware.md)
         - [`🛰️_data_fusion_centres.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_data_fusion_centres.md)
         - [`🛰️_microsoft_partial_cut_israel_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_microsoft_partial_cut_israel_surveillance.md)
+        - [`🛰️_moonshot_cve_vs_open_ai.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_moonshot_cve_vs_open_ai.md)
         - [`🛰️_post_9_11_surveillance_industry_legacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_post_9_11_surveillance_industry_legacy.md)
         - [`🛰️_situational_awareness.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_situational_awareness.md)
         - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md)
@@ -3161,7 +3162,6 @@ _Generated on 2025-12-11 11:08:59 UTC_
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_metadata_chain_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_metadata_chain_reconstruction.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
-    - [`🛰️_moonshot_cve_vs_open_ai.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_moonshot_cve_vs_open_ai.md)
     - [`🛰️_naming_the_unnamed_data_sovereignty_statehood.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_naming_the_unnamed_data_sovereignty_statehood.md)
     - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_predictive_logic_sans_predictive_infrastructure.md)
     - [`🛰️_seperation_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_seperation_systems.md)
