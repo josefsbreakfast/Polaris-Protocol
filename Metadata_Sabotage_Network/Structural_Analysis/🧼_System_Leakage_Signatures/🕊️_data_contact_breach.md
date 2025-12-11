@@ -1,6 +1,6 @@
 # 🕊️ Data-Contact Breach — When Restraining Orders Fail via Data  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*When separation exists in law but not in code.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-11  
+*When separation exists in law but not in code.*  
 
 ---
 
@@ -102,11 +102,12 @@ restraining orders, safeguarding data, indirect contact, MARAC, MAPPA, data shar
 *🕊️ Data-Contact Breach — When Restraining Orders Fail via Data* is a living node of the Polaris Protocol.  
 It defines how data infrastructures can unintentionally violate legal separation and how governance must rebuild digital distance to match judicial intent.
 
-> 📡 Cross-references:  
-> - [💾 Token Switching — Pseudonymisation Gone Wrong](../🧩_System_Governance/💾_token_switching_pseudonymisation_gone_wrong.md)  
-> - [🧬 Data Twinning — When Two Identities Become One Record](../🧩_System_Governance/🧬_data_twinning_when_two_identities_become_one_record.md)  
-> - [🪙 Token Integrity Audit](../🧩_System_Governance/🪙_Token_Integrity_Audit/)  
+> 📡 Cross-references:
+> 
+> - [💾 Token Switching — Pseudonymisation Gone Wrong]  
+> - [🧬 Data Twinning — When Two Identities Become One Record]  
+> - [🪙 Token Integrity Audit]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-11_
