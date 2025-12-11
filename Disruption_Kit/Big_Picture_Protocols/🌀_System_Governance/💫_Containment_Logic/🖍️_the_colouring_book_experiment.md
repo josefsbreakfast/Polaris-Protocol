@@ -1,6 +1,6 @@
 # 🖍️ The Colouring Book Experiment — Containment as Curriculum  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*When an instrument of supervision becomes a school for systems thinking.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-11  
+*When an instrument of supervision becomes a school for systems thinking.*  
 
 ---
 
@@ -78,11 +78,12 @@ containment, creativity, surveillance, pedagogy, reflexivity, sandbox, data gove
 It reframes containment as accidental education — how instruments of pacification become laboratories of insight when handed to the people they aim to measure.  
 The node belongs to **Expression of Norms / Watch the Watchers**, linking satire to meta-governance.
 
-> 📡 Cross-references:  
-> - [🧭 Regulating the Regulators](/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧭_regulating_the_regulators.md) — meta-oversight and reflexive ethics  
-> - [⚙️ Galactic Map of Archives](/Big_Picture_Protocols/🌀_System_Governance/⚙️_galactic_map_of_archives.md) — mapping cross-system feedback  
-> - [💥 Feel the Fear, and Fight Fascism Anyway](/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/💥_feel_the_fear_and_fight_fascism_anyway.md) — courage as method  
+> 📡 Cross-references:
+> 
+> - [🧭 Regulating the Regulators] — meta-oversight and reflexive ethics  
+> - [⚙️ Galactic Map of Archives] — mapping cross-system feedback  
+> - [💥 Feel the Fear, and Fight Fascism Anyway]  — courage as method  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-11_
