@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:11:09 UTC_
+_Generated on 2025-12-11 10:13:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -766,6 +766,7 @@ _Generated on 2025-12-11 10:11:09 UTC_
         - [`🔮_post_chaos_governance_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔮_post_chaos_governance_archetypes.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
+        - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
         - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
@@ -3190,7 +3191,6 @@ _Generated on 2025-12-11 10:11:09 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_enemy_symmetry_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧠_enemy_symmetry_effects.md)
     - [`🧠_escalation_weather_map.md`](Polaris_Nest/Git_Intake_Drawer/🧠_escalation_weather_map.md)
     - [`🧠_extracting_soul_from_prosocial_people.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extracting_soul_from_prosocial_people.md)
     - [`🧠_extraction_loop_data_vs_story.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extraction_loop_data_vs_story.md)
