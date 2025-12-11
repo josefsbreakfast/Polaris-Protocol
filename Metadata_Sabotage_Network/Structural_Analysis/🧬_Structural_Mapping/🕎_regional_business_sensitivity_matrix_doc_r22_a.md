@@ -1,6 +1,6 @@
 # 🕎 Regional Business Sensitivity Matrix — DOC-R22-A  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
-*Legal-governance framework for assessing how written evidence can redistribute regional economic and diplomatic weight.*
+**First created:** 2025-10-30 | **Last updated:** 2025-12-11  
+*Legal-governance framework for assessing how written evidence can redistribute regional economic and diplomatic weight.*  
 
 ---
 
@@ -137,14 +137,12 @@ governance, oversight, evidence analysis, economic diplomacy, metadata tracing, 
 
 ## 🏮 Footer  
 
-*Regional Business Sensitivity Matrix — DOC-R22-A* is a living node of the **Polaris Protocol**, located under *Watching the Watchers*.  
+*🕎 Regional Business Sensitivity Matrix — DOC-R22-A* is a living node of the **Polaris Protocol**, located under *Watching the Watchers*.  
 It offers a legally neutral method for mapping how evidence submissions can rebalance regional economic and diplomatic priorities.  
 
 > 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [⚖️ Legal State Governance](../) — parent directory for oversight nodes  
-> - [Metadata Sabotage Network](../../../Metadata_Sabotage_Network/) — cross-trace correlation tools  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2025-12-11_
