@@ -1,5 +1,5 @@
 # 🪞 The Emperor’s Dashboard  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-07 | **Last updated:** 2025-12-11  
 *On the public art of pointing out that the gauges are fake.*  
 
 ---
@@ -81,11 +81,11 @@ epistemic trust, spectacle of precision, algorithmic endocrinology, civic satire
 
 > 📡 Cross‑references:  
 > 
-> - [🧨 Security Science and the Performance of Precision](../Disruption_Kit/Algorithmic_Endocrinology/🧨_security_science_and_the_performance_of_precision.md)  
-> - [👾 Bad Algorithms, Good Data](../Disruption_Kit/Algorithmic_Endocrinology/👾_bad_algorithms_good_data.md)  
-> - [🎶 Good Taste vs Surveillance Taste](../Disruption_Kit/Algorithmic_Endocrinology/🎶_good_taste_vs_surveillance_taste.md)  
-> - [🎧 Music as Pipeline Risk Axis vs Treatment Axis](../Disruption_Kit/Algorithmic_Endocrinology/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)
+> - [🧨 Security Science and the Performance of Precision]  
+> - [👾 Bad Algorithms, Good Data]  
+> - [🎶 Good Taste vs Surveillance Taste]  
+> - [🎧 Music as Pipeline Risk Axis vs Treatment Axis]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-11_
