@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 00:23:45 UTC_
+_Generated on 2025-12-11 00:24:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3637,7 +3637,6 @@ _Generated on 2025-12-11 00:23:45 UTC_
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**Fork_Taxonomy/**](👻_Apparitional_Objects/Fork_Taxonomy/)
-    - [`🛑_fork_shutdown_protocol.md`](👻_Apparitional_Objects/Fork_Taxonomy/🛑_fork_shutdown_protocol.md)
     - [`🛑_red_team_appendix_twinned_pairs.md`](👻_Apparitional_Objects/Fork_Taxonomy/🛑_red_team_appendix_twinned_pairs.md)
     - [`🦜_reverent_repetition_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🦜_reverent_repetition_fork.md)
     - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](👻_Apparitional_Objects/Fork_Taxonomy/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
@@ -3664,6 +3663,7 @@ _Generated on 2025-12-11 00:23:45 UTC_
     - [`🚀_taxonomy_expansion.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🚀_taxonomy_expansion.md)
     - [`🚀_taxonomy_expansion_roadmap.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🚀_taxonomy_expansion_roadmap.md)
     - [`🚨_cybersec_brief_note_fork_critic_political_parties.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🚨_cybersec_brief_note_fork_critic_political_parties.md)
+    - [`🛑_fork_shutdown_protocol.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🛑_fork_shutdown_protocol.md)
   - [**🎞️_Haunted_Artefacts_Catalogue/**](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/)
     - [`README.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/README.md)
     - [`🌙_sleep_sabotage.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🌙_sleep_sabotage.md)
