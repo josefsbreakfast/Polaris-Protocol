@@ -1,9 +1,13 @@
 # 🧪 Futurism as Fascist Aesthetic
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13
-*How futurism, accelerationism, and techno-optimisation form a natural bridge into authoritarian politics.*
+**First created:** 2025-11-13 | **Last updated:** 2025-12-11  
+*How futurism, accelerationism, and techno-optimisation form a natural bridge into authoritarian politics.*  
+
+---
 
 ## 🛰️ Orientation
-Futurism contains deep structural overlap with authoritarian logic.
+Futurism contains deep structural overlap with authoritarian logic.  
+
+---
 
 ## ✨ Key Features
 - Purity and speed aesthetics
@@ -11,17 +15,26 @@ Futurism contains deep structural overlap with authoritarian logic.
 - Post-humanism vs dignity
 - Disruption as moral shield
 
+---
+
 ## 🧿 Analysis / Content
-Futurism often elevates hierarchy, purity, and optimisation.
+Futurism often elevates hierarchy, purity, and optimisation.  
+
+---
 
 ## 🌌 Constellations
-🧪 🔥 🧠 🛠️
+🧪 🔥 🧠 🛠️  
+
+---
 
 ## ✨ Stardust
-futurism, accelerationism, eugenics, techno-optimism, hierarchy
+futurism, accelerationism, eugenics, techno-optimism, hierarchy  
+
+---
 
 ## 🏮 Footer
-*Futurism as Fascist Aesthetic* is a living Polaris node.
+*🧪 Futurism as Fascist Aesthetic* is a living Polaris node.
 
-*Survivor authorship is sovereign. Containment is never neutral.*
-_Last updated: 2025-11-13_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-11_
