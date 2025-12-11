@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:36:58 UTC_
+_Generated on 2025-12-11 09:38:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -332,6 +332,7 @@ _Generated on 2025-12-11 09:36:58 UTC_
         - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md)
         - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_vendor_lock_in.md)
         - [`🦋_butterfly_effect_in_small_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦋_butterfly_effect_in_small_states.md)
+        - [`🧠_austerity_as_security_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_austerity_as_security_doctrine.md)
         - [`🧨_overclocked_capitalism_2020_cognitive_crash.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
         - [`☕️_biscuit_press_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
@@ -3178,7 +3179,6 @@ _Generated on 2025-12-11 09:36:58 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_austerity_as_security_doctrine.md`](Polaris_Nest/Git_Intake_Drawer/🧠_austerity_as_security_doctrine.md)
     - [`🧠_behavioural_nudge_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_nudge_as_containment.md)
     - [`🧠_behavioural_reengagement_as_containment_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_reengagement_as_containment_loop.md)
     - [`🧠_behavioural_shadow_modelling.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_shadow_modelling.md)
