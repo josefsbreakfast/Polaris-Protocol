@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 08:42:48 UTC_
+_Generated on 2025-12-11 08:43:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3137,7 +3137,7 @@ _Generated on 2025-12-11 08:42:48 UTC_
     - [`🦋_butterfly_effect_in_small_states.md`](Polaris_Nest/Git_Intake_Drawer/🦋_butterfly_effect_in_small_states.md)
     - [`🦑_bring_back_pressganging.md`](Polaris_Nest/Git_Intake_Drawer/🦑_bring_back_pressganging.md)
     - [`🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md`](Polaris_Nest/Git_Intake_Drawer/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)
-    - [`🦑_kraken_based_defence_budget_satire.md`](Polaris_Nest/Git_Intake_Drawer/🦑_kraken_based_defence_budget_satire.md)
+    - [`🦑_kraken_based_defence_budge.md`](Polaris_Nest/Git_Intake_Drawer/🦑_kraken_based_defence_budge.md)
     - [`🦑_toxic_systems_do_not_need_monsters.md`](Polaris_Nest/Git_Intake_Drawer/🦑_toxic_systems_do_not_need_monsters.md)
     - [`🦑_why_craken_is_necessary.md`](Polaris_Nest/Git_Intake_Drawer/🦑_why_craken_is_necessary.md)
     - [`🦕_post_modern_fellow_travellers.md`](Polaris_Nest/Git_Intake_Drawer/🦕_post_modern_fellow_travellers.md)
