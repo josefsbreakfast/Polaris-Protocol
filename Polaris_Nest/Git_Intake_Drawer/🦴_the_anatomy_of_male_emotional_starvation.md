@@ -1,7 +1,6 @@
 # 🦴 The Anatomy of Male Emotional Starvation  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*A map of how cultural, familial, and algorithmic systems deprive boys and men of emotional nourishment — and why this deprivation fuels radicalisation, shame, and loneliness.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-11  
+*A map of how cultural, familial, and algorithmic systems deprive boys and men of emotional nourishment — and why this deprivation fuels radicalisation, shame, and loneliness.*  
 
 ---
 
@@ -246,14 +245,14 @@ We fix them by feeding them.
 ---
 
 ## 🏮 Footer  
-**The Anatomy of Male Emotional Starvation** is a living node of the Polaris Protocol.  
+*🦴 The Anatomy of Male Emotional Starvation* is a living node of the Polaris Protocol.  
 It maps the structural deprivation of emotional nourishment experienced by men and how this deprivation fuels radicalisation and shame — while outlining the pathways for emotional refeeding and recovery.
 
 > 📡 Cross-references:  
-> - [🧠 Cognitive Vulnerability Stack](./the_cognitive_vulnerability_stack_of_lonely_men.md)  
-> - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)  
-> - [🧸 Softness as Counter-Extremism Infrastructure](./softness_as_counter_extremism_infrastructure.md)
+> - [🧠 Cognitive Vulnerability Stack]  
+> - [💗 Soft Boy Restoration Protocol]  
+> - [🧸 Softness as Counter-Extremism Infrastructure]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-11_
