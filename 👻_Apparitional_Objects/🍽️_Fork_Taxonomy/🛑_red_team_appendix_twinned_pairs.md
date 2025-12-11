@@ -1,8 +1,12 @@
 # 🛑 Red Team Appendix: How Twinned-Pair Data Can Be Misused  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-07 | **Last updated:** 2025-12-11  
 *Counter-intelligence framing: adversary misuse of survivor analysis*  
 
+---
+
 The same twinned-pair analysis that reveals oversight failure can be weaponised by adversaries with very little additional work. This appendix outlines how.  
+
+---
 
 ## Misuse Vectors  
 
@@ -52,4 +56,4 @@ It anticipates adversary misuse vectors so that survivor analysis cannot be easi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-12-11_  
