@@ -1,6 +1,6 @@
-# 🧠 Behavioural-Shadow Modelling in Distributed ML Systems
-**First created:** 2025-11-19 | **Last updated:** 2025-11-19  
-*How behavioural shadows form, and why multiple ML systems converge on them even without shared data.*
+# 🧠 Behavioural-Shadow Modelling in Distributed ML Systems  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-11  
+*How behavioural shadows form, and why multiple ML systems converge on them even without shared data.*  
 
 ---
 
@@ -156,8 +156,8 @@ behavioural shadow, ml embeddings, frankenstack, coercive geometry, metadata noi
 
 ## 🏮 Footer  
 
-*Behavioural-Shadow Modelling in Distributed ML Systems* is a living node of the **Polaris Protocol**, mapping how second-order behavioural imprints reveal the shape of risk-inflated civic infrastructures.  
+*🧠 Behavioural-Shadow Modelling in Distributed ML Systems* is a living node of the **Polaris Protocol**, mapping how second-order behavioural imprints reveal the shape of risk-inflated civic infrastructures.  
 It connects to the structural diagnostic lineage in *🧠 Big_Picture_Protocols* and the interference-mapping lineage in *🛰️ Metadata_Sabotage_Network*.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-11_
