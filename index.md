@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:02:02 UTC_
+_Generated on 2025-12-11 09:02:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1081,6 +1081,7 @@ _Generated on 2025-12-11 09:02:02 UTC_
         - [`🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md)
         - [`🔮_archetype_of_the_uncooperative_woman.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔮_archetype_of_the_uncooperative_woman.md)
         - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
+        - [`🦆_she_weighs_the_same_as_a_duck.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md)
         - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
         - [`🧩_mixed_gender_sociality_as_antidote.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_mixed_gender_sociality_as_antidote.md)
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
@@ -3132,7 +3133,6 @@ _Generated on 2025-12-11 09:02:02 UTC_
     - [`🦁_lions_of_judah.md`](Polaris_Nest/Git_Intake_Drawer/🦁_lions_of_judah.md)
     - [`🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md`](Polaris_Nest/Git_Intake_Drawer/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)
     - [`🦂_racialised_entitlement_violation.md`](Polaris_Nest/Git_Intake_Drawer/🦂_racialised_entitlement_violation.md)
-    - [`🦆_she_weighs_the_same_as_a_duck.md`](Polaris_Nest/Git_Intake_Drawer/🦆_she_weighs_the_same_as_a_duck.md)
     - [`🦆_ui_glitch_as_psychological_event.md`](Polaris_Nest/Git_Intake_Drawer/🦆_ui_glitch_as_psychological_event.md)
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_how_many_words_to_fell_an_industry.md`](Polaris_Nest/Git_Intake_Drawer/🦇_how_many_words_to_fell_an_industry.md)
