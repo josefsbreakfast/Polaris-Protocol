@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:47:38 UTC_
+_Generated on 2025-12-11 09:50:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -564,6 +564,7 @@ _Generated on 2025-12-11 09:47:38 UTC_
         - [`🦁_individualism_as_edge.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦁_individualism_as_edge.md)
         - [`🦆_why_tech_bros_were_sitting_ducks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦆_why_tech_bros_were_sitting_ducks.md)
         - [`🦠_opportunistic_disinfo_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦠_opportunistic_disinfo_pathogen.md)
+        - [`🧠_charisma_as_coercion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_charisma_as_coercion.md)
         - [`🧠_far_right_feeders_flipbook.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_far_right_feeders_flipbook.md)
         - [`🧠_radicalisation_pipelines_and_platform_culture.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
         - [`🧠_the_cognitive_vulnerability_stack_of_lonely_men.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)
@@ -3183,7 +3184,6 @@ _Generated on 2025-12-11 09:47:38 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_charism_as_coercion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_charism_as_coercion.md)
     - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Polaris_Nest/Git_Intake_Drawer/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
     - [`🧠_composite_line_formation_dual_valence_merge.md`](Polaris_Nest/Git_Intake_Drawer/🧠_composite_line_formation_dual_valence_merge.md)
     - [`🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_containment_reflexes_when_power_is_challenged_in_resilience_meetings.md)
