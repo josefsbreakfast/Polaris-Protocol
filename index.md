@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 05:06:31 UTC_
+_Generated on 2025-12-11 05:07:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2481,6 +2481,7 @@ _Generated on 2025-12-11 05:06:31 UTC_
       - [`📝_how_prevent_flags_shape_life.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📝_how_prevent_flags_shape_life.md)
       - [`📡_protest_monitoring_what_is_caa_demu.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/📡_protest_monitoring_what_is_caa_demu.md)
       - [`🔥_metadata_more_dangerous_than_humans.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_metadata_more_dangerous_than_humans.md)
+      - [`🔥_metadata_vs_human_referral.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_metadata_vs_human_referral.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
       - [`🔮_uk_digital_id_risk_forecast.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
@@ -2804,9 +2805,6 @@ _Generated on 2025-12-11 05:06:31 UTC_
       - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
-  - [**🏯_Governance_And_Containment/**](Metadata_Sabotage_Network/🏯_Governance_And_Containment/)
-    - [**🈺_Governance_And_Prevent/**](Metadata_Sabotage_Network/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/)
-      - [`🔥_metadata_vs_human_referral.md`](Metadata_Sabotage_Network/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/🔥_metadata_vs_human_referral.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
     - [`🀄_play_foia_moj_edition.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🀄_play_foia_moj_edition.png)
