@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 05:10:13 UTC_
+_Generated on 2025-12-11 05:12:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -225,6 +225,7 @@ _Generated on 2025-12-11 05:10:13 UTC_
         - [`🔍_mistaken_release_as_friction_shortcut.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔍_mistaken_release_as_friction_shortcut.md)
         - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔥_opportunistic_escalation_peri_system_collapse.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
+        - [`🔮_daylight_in_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_daylight_in_governance.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
@@ -2963,7 +2964,6 @@ _Generated on 2025-12-11 05:10:13 UTC_
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
     - [`🔦_prevent_targeting_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🔦_prevent_targeting_black_hole.md)
     - [`🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md`](Polaris_Nest/Git_Intake_Drawer/🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md)
-    - [`🔮_daylight_effects_in_governance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🔮_daylight_effects_in_governance_systems.md)
     - [`🔮_post_chaos_governance_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🔮_post_chaos_governance_archetypes.md)
     - [`🔮_post_legitimacy_landscape_2026_2030.md.md`](Polaris_Nest/Git_Intake_Drawer/🔮_post_legitimacy_landscape_2026_2030.md.md)
     - [`🔮_predictive_containment_and_emergent_friction.md`](Polaris_Nest/Git_Intake_Drawer/🔮_predictive_containment_and_emergent_friction.md)
