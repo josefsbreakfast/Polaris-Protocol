@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:21:09 UTC_
+_Generated on 2025-12-11 09:22:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2436,6 +2436,7 @@ _Generated on 2025-12-11 09:21:09 UTC_
       - [`🪞_mirror_ethics.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_ethics.md)
       - [`🪞_mirror_log_template.csv`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_log_template.csv)
       - [`🪫_moral_burnout.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪫_moral_burnout.md)
+      - [`🪬_ihra_vs_jda.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪬_ihra_vs_jda.md)
       - [`🪹_empty_nesting.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪹_empty_nesting.md)
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
@@ -3488,7 +3489,6 @@ _Generated on 2025-12-11 09:21:09 UTC_
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
     - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Polaris_Nest/Git_Intake_Drawer/🪫_why_we_cannot_know_who_prevent_targets.md)
-    - [`🪬_ihra_vs_jda.md`](Polaris_Nest/Git_Intake_Drawer/🪬_ihra_vs_jda.md)
     - [`🪶_language_as_smuggled_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🪶_language_as_smuggled_plurality.md)
     - [`🪼_prevent_the_alt_right_weapon.md`](Polaris_Nest/Git_Intake_Drawer/🪼_prevent_the_alt_right_weapon.md)
     - [`🪼_racialised_dual_attrition.md`](Polaris_Nest/Git_Intake_Drawer/🪼_racialised_dual_attrition.md)
