@@ -1,6 +1,6 @@
 # 🕯 The Audit Log Does Not Sleep  
-**First created:** 2025-10-27 | **Last updated:** 2025-10-27  
-*On the unromantic heroism of accountability systems.*
+**First created:** 2025-10-27 | **Last updated:** 2025-12-11  
+*On the unromantic heroism of accountability systems.*  
 
 ---
 
@@ -87,13 +87,13 @@ audit trail, accountability, evidence, compliance folklore, digital memory, gove
 
 ## 🏮 Footer  
 
-*The Audit Log Does Not Sleep* is a reflective node of the Polaris Protocol.  
+*🕯 The Audit Log Does Not Sleep* is a reflective node of the Polaris Protocol.  
 It honours the quiet infrastructures of truth that make accountability possible.  
 
 > 📡 Cross-references:  
-> – [📋 Protocol Integrity SOP](../Polaris_Nest/protocol_integrity_sop.md)  
-> – [✨ Defeated by Audit](../Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/✨_defeated_by_audit.md)  
+> 
+> – [✨ Defeated by Audit]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-27_
+_Last updated: 2025-12-11_
