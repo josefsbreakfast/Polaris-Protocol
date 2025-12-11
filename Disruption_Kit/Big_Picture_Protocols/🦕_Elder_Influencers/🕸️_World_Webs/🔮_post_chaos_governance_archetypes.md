@@ -1,6 +1,6 @@
 # 🔮 Post-Chaos Governance Archetypes  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How political systems, public institutions, and collective psychology shift into archetypal “modes” after prolonged chaos — and why governance becomes symbolic before it becomes functional.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+*How political systems, public institutions, and collective psychology shift into archetypal “modes” after prolonged chaos — and why governance becomes symbolic before it becomes functional.*  
 
 ---
 
@@ -242,4 +242,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-11_
