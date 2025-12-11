@@ -1,7 +1,5 @@
 # 🛑 Fork Shutdown Protocol  
-
-**First created:** 2025-08-17 | **Last updated:** 2025-09-04
-
+**First created:** 2025-08-17 | **Last updated:** 2025-12-11  
 *Directive to suspend errant fork usage and record institutional complicity.*  
 
 ---
@@ -62,4 +60,4 @@ Each fork file documents containment strategies, their logic, and countermeasure
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-04_  
+_Last updated: 2025-12-11_  
