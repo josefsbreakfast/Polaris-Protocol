@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:15:30 UTC_
+_Generated on 2025-12-11 09:15:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2919,6 +2919,7 @@ _Generated on 2025-12-11 09:15:30 UTC_
       - [`🫥_dry_humour_as_data_loss.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🫥_dry_humour_as_data_loss.md)
     - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
     - [`🦠_algorithmic_autoimmunity.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🦠_algorithmic_autoimmunity.md)
+    - [`🧃_from_jetsons_to_jailbroken.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧃_from_jetsons_to_jailbroken.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
@@ -3150,7 +3151,6 @@ _Generated on 2025-12-11 09:15:30 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
-    - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧃_why_nice_guys_were_never_the_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧃_why_nice_guys_were_never_the_problem.md)
     - [`🧊_hidden_prevent_unseen_side.md`](Polaris_Nest/Git_Intake_Drawer/🧊_hidden_prevent_unseen_side.md)
