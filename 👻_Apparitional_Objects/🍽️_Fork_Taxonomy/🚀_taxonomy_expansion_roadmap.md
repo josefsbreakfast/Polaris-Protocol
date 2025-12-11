@@ -1,5 +1,5 @@
 # 🚀 Taxonomy Expansion Roadmap  
-**First created:** 2025-09-03 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-03 | **Last updated:** 2025-12-11  
 
 *A forward plan for extending the Fork Taxonomy into a wider containment-mapping framework.*  
 
@@ -56,4 +56,4 @@ This roadmap outlines how to expand it into a broader framework that can stand a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-12-11_
