@@ -1,5 +1,5 @@
 # 🦑 Kraken-Based Defence Budget Satire (Maybe. They're all very NCND about the whole thing.)  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-11  
 *A satirical-but-structural Polaris analysis of how mythical monsters, exaggerated threats, and imaginary deep-sea horrors mirror the rhetorical logic behind modern defence budgeting.*
 
 ---
@@ -128,9 +128,11 @@ Polaris uses satire as a **disruptive truth tool**.
 ---
 
 ## 🏮 Footer  
-**Kraken-Based Defence Budget Satire** illustrates how mythic threat construction supports political spending.  
+*🦑 Kraken-Based Defence Budget* illustrates how mythic threat construction supports political spending.  
 It uses humour to reveal real structural incentives behind opaque defence justifications.
 
 Crosslinks:  
 - 🗡️ *why_trident_is_lowkey_kraken_insurance*  
 - 🚢 *royal_navy_and_the_myth_of_underwater_threats*
+
+_Last updated: 2025-12-11_
