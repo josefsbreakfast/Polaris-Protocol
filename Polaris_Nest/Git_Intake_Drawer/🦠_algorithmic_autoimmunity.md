@@ -1,5 +1,5 @@
 # 🦠 Algorithmic Autoimmunity  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-12-11  
 *How the Anglophone internet’s algorithmic immune system learned to attack its own moral tissue.*  
 
 ---
@@ -64,7 +64,7 @@ An autoimmune system can stabilise with care and exposure.  The cure is not furt
 
 ## 🌌 Constellations  
 
-🧬 🧿 🔮 — sits between *Algorithmic Endocrinology* (systemic mis-signalling) and *Survivor Voice Fidelity* (undertone as immune tolerance).  
+🦠 🧬 🧿 🔮 — sits between *Algorithmic Endocrinology* (systemic mis-signalling) and *Survivor Voice Fidelity* (undertone as immune tolerance).  
 
 ---
 
@@ -76,14 +76,12 @@ autoimmunity, suppression, algorithmic ecology, efficiency bias, survivor speech
 
 ## 🏮 Footer  
 
-*Algorithmic Autoimmunity* is a living diagnostic node of the Polaris Protocol.  
+*🦠 Algorithmic Autoimmunity* is a living diagnostic node of the Polaris Protocol.  
 It bridges systemic analysis and survivor-led countermeasures, modelling suppression as a treatable immune disorder of the Anglophone internet.  
 
 > 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — undertone as immune tolerance  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic diagnostics  
-> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — applied counter-management  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-11_
