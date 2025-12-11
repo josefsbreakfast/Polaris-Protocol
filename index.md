@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:48:02 UTC_
+_Generated on 2025-12-11 10:48:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -259,6 +259,7 @@ _Generated on 2025-12-11 10:48:02 UTC_
         - [`🪞_ethical_censorship_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_ethical_censorship_continuum.md)
         - [`🪞_misunderstanding_as_risk_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_misunderstanding_as_risk_signal.md)
         - [`🪞_the_muu_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_the_muu_class.md)
+        - [`🪢_hygienic_cut.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪢_hygienic_cut.md)
         - [`🪶_tea_toast_and_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪶_tea_toast_and_transparency.md)
         - [`🫀_pixels_do_not_touch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫀_pixels_do_not_touch.md)
         - [`🫒_occupation_as_containment_regime.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫒_occupation_as_containment_regime.md)
@@ -3489,7 +3490,6 @@ _Generated on 2025-12-11 10:48:02 UTC_
     - [`🪞_the_i_got_got_moment.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_i_got_got_moment.md)
     - [`🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
-    - [`🪢_hygienic_cut.md`](Polaris_Nest/Git_Intake_Drawer/🪢_hygienic_cut.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
