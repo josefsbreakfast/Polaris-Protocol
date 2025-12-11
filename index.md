@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:49:21 UTC_
+_Generated on 2025-12-11 23:51:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2556,6 +2556,7 @@ _Generated on 2025-12-11 23:49:21 UTC_
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
       - [`🔦_why_we_cannot_know_who_prevent_really_targets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔦_why_we_cannot_know_who_prevent_really_targets.md)
       - [`🔮_uk_digital_id_risk_forecast.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)
+      - [`🕯️_prevent_and_the_encampment_silence.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕯️_prevent_and_the_encampment_silence.md)
       - [`🕳️_the_channel_panel_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕳️_the_channel_panel_problem.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_gated_intake_post_delay_regional_loop.md)
@@ -3062,7 +3063,6 @@ _Generated on 2025-12-11 23:49:21 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕯️_prevent_and_the_encampment_silence.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_prevent_and_the_encampment_silence.md)
     - [`🕯️_survivor_visibility_and_risk_aversion.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_survivor_visibility_and_risk_aversion.md)
     - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
     - [`🕰️_eta_drift_and_bureaucratic_time_inflation.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_eta_drift_and_bureaucratic_time_inflation.md)
