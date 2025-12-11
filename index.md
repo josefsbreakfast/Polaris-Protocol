@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:41:02 UTC_
+_Generated on 2025-12-11 23:44:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -460,6 +460,7 @@ _Generated on 2025-12-11 23:41:02 UTC_
         - [`🔥_masters_tools_refusal_hebrew.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_masters_tools_refusal_hebrew.md)
         - [`🔥_suppression_as_signal.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)
         - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕌_ornamental_survival_and_misfiled_survivals.md)
+        - [`🕎_jewish_conscience_anti_racist_governance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕎_jewish_conscience_anti_racist_governance.md)
         - [`🕯️_containment_through_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕯️_containment_through_loneliness.md)
         - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_contingency_erasure.md)
         - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_custodianship_illusion.md)
@@ -3058,7 +3059,6 @@ _Generated on 2025-12-11 23:41:02 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕎_jewish_conscience_anti_racist_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_conscience_anti_racist_governance.md)
     - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
     - [`🕯_the_audit_log_does_not_sleep.md`](Polaris_Nest/Git_Intake_Drawer/🕯_the_audit_log_does_not_sleep.md)
     - [`🕯️_crash_sites_as_temporal_loops.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_crash_sites_as_temporal_loops.md)
