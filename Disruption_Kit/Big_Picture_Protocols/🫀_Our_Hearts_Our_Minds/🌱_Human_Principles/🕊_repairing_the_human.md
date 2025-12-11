@@ -1,6 +1,6 @@
 # 🕊 Repairing the Human — Collective Grief and the Work of Re-Connection  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
-*How cultures behave after mass disorientation — and how we learn to rebuild trust.*
+**First created:** 2025-10-25 | **Last updated:** 2025-12-11  
+*How cultures behave after mass disorientation — and how we learn to rebuild trust.*  
 
 ---
 
@@ -91,4 +91,8 @@ No revolution or technology substitutes for that labour.
 ---
 
 ## ✨ Stardust  
-collective-grief, repair-work, behavioural-psychology, scapegoating, authoritarian-turn, ritual-maintenance, digital-culture, re-humanisation, group-project-ethics
+collective-grief, repair-work, behavioural-psychology, scapegoating, authoritarian-turn, ritual-maintenance, digital-culture, re-humanisation, group-project-ethics  
+
+---
+
+_Last updated: 2025-12-11_
