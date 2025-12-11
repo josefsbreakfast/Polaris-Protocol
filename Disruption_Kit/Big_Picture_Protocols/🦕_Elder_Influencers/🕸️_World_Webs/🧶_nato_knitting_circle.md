@@ -1,8 +1,6 @@
 # 🧶 NATO Knitting Circle  
-*Why the Alliance Behaves Like an Overwhelmed Men’s Knitting Group Trying to Save the World*
-
-**Created:** 20 November 2025  
-**Last updated:** 20 November 2025  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
+*Why the Alliance Behaves Like an Overwhelmed Men’s Knitting Group Trying to Save the World*  
 
 ---
 
@@ -264,3 +262,7 @@ Thus the metaphor is not mockery:
 aligning emotional threads to prevent global unraveling—  
 a return to what knitting originally was:  
 survival engineering.**
+
+---
+
+_Last updated: 2025-12-11_
