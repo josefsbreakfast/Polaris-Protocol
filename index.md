@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 22:36:52 UTC_
+_Generated on 2025-12-11 22:41:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -304,6 +304,7 @@ _Generated on 2025-12-11 22:36:52 UTC_
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🦇_how_many_words_to_fell_an_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦇_how_many_words_to_fell_an_industry.md)
         - [`🧠_politicians_and_public_contact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_politicians_and_public_contact.md)
+        - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
         - [`🪞_the_i_got_got_moment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_i_got_got_moment.md)
         - [`🫁_oxygen_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫁_oxygen_and_oversight.md)
@@ -3473,7 +3474,6 @@ _Generated on 2025-12-11 22:36:52 UTC_
     - [`🩸_coercive_dynamics_in_prevent_data.md`](Polaris_Nest/Git_Intake_Drawer/🩸_coercive_dynamics_in_prevent_data.md)
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
     - [`🩸_death_as_diplomacy_from_smolensk_to_tver.md`](Polaris_Nest/Git_Intake_Drawer/🩸_death_as_diplomacy_from_smolensk_to_tver.md)
-    - [`🩸_ideological_skinwalkers.md`](Polaris_Nest/Git_Intake_Drawer/🩸_ideological_skinwalkers.md)
     - [`🩸_lineage_of_the_cursed_forums.md`](Polaris_Nest/Git_Intake_Drawer/🩸_lineage_of_the_cursed_forums.md)
     - [`🩸_mimicry_of_blood_libel.md`](Polaris_Nest/Git_Intake_Drawer/🩸_mimicry_of_blood_libel.md)
     - [`🩸_reverse_victim_logic.md`](Polaris_Nest/Git_Intake_Drawer/🩸_reverse_victim_logic.md)
