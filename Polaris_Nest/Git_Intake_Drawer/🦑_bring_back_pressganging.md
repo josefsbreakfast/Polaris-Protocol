@@ -1,4 +1,5 @@
 # 🦑 Bring Back Pressganging  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
 *The Pressgang Party — a civic reallocation mechanism based on British cultural logic.*
 
 ## Orientation  
