@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:29:29 UTC_
+_Generated on 2025-12-11 23:32:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2797,6 +2797,7 @@ _Generated on 2025-12-11 23:29:29 UTC_
       - [`📡_cross_system_metadata_echo_chains.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md)
       - [`📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md)
       - [`🔥_when_policy_versions_argue.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🔥_when_policy_versions_argue.md)
+      - [`🕊️_data_contact_breach.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕊️_data_contact_breach.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
       - [`🗺️_containment_fingerprint_atlas.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🗺️_containment_fingerprint_atlas.md)
       - [`🤖_british_english_cannot_be_translated.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_british_english_cannot_be_translated.md)
@@ -3051,7 +3052,6 @@ _Generated on 2025-12-11 23:29:29 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕊️_data_contact_breach_when_restraining_orders_fail_via_data.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_data_contact_breach_when_restraining_orders_fail_via_data.md)
     - [`🕊️_positive_drift_leadership_shifts_heritage_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕊️_positive_drift_leadership_shifts_heritage_governance.md)
     - [`🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md)
     - [`🕍_jewish_trauma_literacy_for_non_jewish_audiences.md`](Polaris_Nest/Git_Intake_Drawer/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)
