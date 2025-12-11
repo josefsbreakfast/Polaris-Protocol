@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:24:36 UTC_
+_Generated on 2025-12-11 10:26:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -678,6 +678,7 @@ _Generated on 2025-12-11 10:24:36 UTC_
           - [`🧠_voice_clones_ai_and_the_threat_to_policing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md)
           - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
+        - [`🧠🔢_calculus_of_religious_affect.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🧠🔢_calculus_of_religious_affect.md)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
         - [`♻️_data_exhaust_uk_law.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md)
@@ -3221,7 +3222,6 @@ _Generated on 2025-12-11 10:24:36 UTC_
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
     - [`🧠_white_immunity_blindspot.md`](Polaris_Nest/Git_Intake_Drawer/🧠_white_immunity_blindspot.md)
     - [`🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_the_death_penalty_makes_no_sense_for_the_uk.md)
-    - [`🧠🔢_calculus_of_religious_affect.md`](Polaris_Nest/Git_Intake_Drawer/🧠🔢_calculus_of_religious_affect.md)
     - [`🧨_accidental_soft_infiltration_of_early_labour_movements.md`](Polaris_Nest/Git_Intake_Drawer/🧨_accidental_soft_infiltration_of_early_labour_movements.md)
     - [`🧨_bad_broker_effect.md`](Polaris_Nest/Git_Intake_Drawer/🧨_bad_broker_effect.md)
     - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
