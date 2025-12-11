@@ -1,5 +1,5 @@
-# ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+# ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
 *Evidence, ethics, and efficiency — the capital punishment trap.*  
 
 ---
@@ -99,13 +99,14 @@ death penalty, uk governance, human rights, spectacle, containment, political di
 
 ## 🏮 Footer  
 
-*Why the Death Penalty Makes No Sense for the United Kingdom* is a living node of the Polaris Protocol.  
+*⚖️ Why the Death Penalty Makes No Sense for the United Kingdom* is a living node of the Polaris Protocol.  
 It documents how capital punishment functions as moral theatre and activist containment, not justice.  
 
-> 📡 Cross‑references  
-> – [⚖️ The History of Justice as Spectacle](./⚖️_the_history_of_justice_as_spectacle.md) — companion node  
-> – [🧠 Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — structural analysis  
+> 📡 Cross‑references
+> 
+> – [⚖️ The History of Justice as Spectacle] — companion node  
+> – [🧠 Big Picture Protocols] — structural analysis  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-112_
