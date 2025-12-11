@@ -1,5 +1,5 @@
 # 🦋 Butterfly Effect in Small States — Britain’s Data-Scale Paradox  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-11  
 *Small island, large signal.*
 
 ---
@@ -60,9 +60,9 @@ britain, small state, butterfly effect, data propagation, information density, f
 ---
 
 ## 🏮 Footer  
-*Butterfly Effect in Small States — Britain’s Data-Scale Paradox* is a systems-analysis node of the Polaris Protocol.  
+*🦋 Butterfly Effect in Small States — Britain’s Data-Scale Paradox* is a systems-analysis node of the Polaris Protocol.  
 It explains why transparency and documentation in compact nations can exert outsized influence across global data and governance ecosystems.  
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-11_
