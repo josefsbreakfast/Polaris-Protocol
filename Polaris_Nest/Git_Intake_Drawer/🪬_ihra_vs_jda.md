@@ -1,5 +1,5 @@
-# 🔒 IHRA vs JDA — Trauma-Informed Boundaries vs Debate Closure  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+# 🪬 IHRA vs JDA — Trauma-Informed Boundaries vs Debate Closure  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
 *Why a survivor-protection clause keeps getting weaponised as a debate-ending doctrine.*
 
 ---
@@ -121,7 +121,7 @@ When institutions choose one over the other, they fail both.
 ---
 
 ## 🌌 Constellations  
-🧿 🔒 🧠 ✨ — trauma ethics, governance drift, symbolic policing, norms under pressure.
+🧿 🔒 🧠 ✨ 🪬 — trauma ethics, governance drift, symbolic policing, norms under pressure.
 
 ---
 
@@ -131,7 +131,7 @@ IHRA, JDA, antisemitism definitions, trauma-informed ethics, comparative atrocit
 ---
 
 ## 🏮 Footer  
-*🔒 IHRA vs JDA — Trauma-Informed Boundaries vs Debate Closure* is a living node of the Polaris Protocol.  
+*🪬 IHRA vs JDA — Trauma-Informed Boundaries vs Debate Closure* is a living node of the Polaris Protocol.  
 It restores the survivor-centred purpose of the IHRA clause and maps how administrative overreach turned a trauma-ethics guideline into a tool of containment and misclassification.  
 
 > 📡 Cross-references:  
@@ -140,4 +140,4 @@ It restores the survivor-centred purpose of the IHRA clause and maps how adminis
 > - `🛰️ Metadata_Sabotage_Network/🎭 Narrative_And_Psych_Ops`
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-11_
