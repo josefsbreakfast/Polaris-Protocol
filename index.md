@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:04:55 UTC_
+_Generated on 2025-12-11 09:05:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2826,6 +2826,7 @@ _Generated on 2025-12-11 09:04:55 UTC_
     - [`🐀_steal_her_github.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🐀_steal_her_github.png)
     - [`🐀_steal_her_mouse.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🐀_steal_her_mouse.png)
     - [`📬_why_old_university_accounts_show_access_attempts.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/📬_why_old_university_accounts_show_access_attempts.md)
+    - [`🦆_ui_glitch_as_psychological_event.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦆_ui_glitch_as_psychological_event.md)
     - [`🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png)
     - [`🧃_20240902_feed_tiktok_rape_undermining.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🧃_20240902_feed_tiktok_rape_undermining.png)
     - [`🪅_governance_comes_calling.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_governance_comes_calling.png)
@@ -3135,7 +3136,6 @@ _Generated on 2025-12-11 09:04:55 UTC_
     - [`🦁_lions_of_judah.md`](Polaris_Nest/Git_Intake_Drawer/🦁_lions_of_judah.md)
     - [`🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md`](Polaris_Nest/Git_Intake_Drawer/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)
     - [`🦂_racialised_entitlement_violation.md`](Polaris_Nest/Git_Intake_Drawer/🦂_racialised_entitlement_violation.md)
-    - [`🦆_ui_glitch_as_psychological_event.md`](Polaris_Nest/Git_Intake_Drawer/🦆_ui_glitch_as_psychological_event.md)
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_how_many_words_to_fell_an_industry.md`](Polaris_Nest/Git_Intake_Drawer/🦇_how_many_words_to_fell_an_industry.md)
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
