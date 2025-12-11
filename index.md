@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:35:31 UTC_
+_Generated on 2025-12-11 09:36:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2746,6 +2746,7 @@ _Generated on 2025-12-11 09:35:31 UTC_
       - [`🤖_british_english_cannot_be_translated.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_british_english_cannot_be_translated.md)
       - [`🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md)
       - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🦤_how_the_right_accidentally_infiltrated_itself.md)
+      - [`🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🧭_visual_glossary_containment_pulse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md)
       - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
@@ -3177,7 +3178,6 @@ _Generated on 2025-12-11 09:35:31 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_attribution_inversion_when_someone_elses_clinical_vocabulary_becomes_yours.md`](Polaris_Nest/Git_Intake_Drawer/🧠_attribution_inversion_when_someone_elses_clinical_vocabulary_becomes_yours.md)
     - [`🧠_austerity_as_security_doctrine.md`](Polaris_Nest/Git_Intake_Drawer/🧠_austerity_as_security_doctrine.md)
     - [`🧠_behavioural_nudge_as_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_nudge_as_containment.md)
     - [`🧠_behavioural_reengagement_as_containment_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_reengagement_as_containment_loop.md)
