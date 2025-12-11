@@ -1,6 +1,6 @@
 # 🧠 Cross-Silo Reflex Mismatch  
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
-*Why healthcare, justice, security, and universities respond so differently to the same information — and how these mismatched reflexes amplify harm in a post-digital world.*
+**First created:** 2025-11-14 | **Last updated:** 2025-12-11  
+*Why healthcare, justice, security, and universities respond so differently to the same information — and how these mismatched reflexes amplify harm in a post-digital world.*  
 
 ---
 
@@ -152,7 +152,7 @@ silo mismatch, reflex profiles, governance clash, healthcare escalation, justice
 ---
 
 ## 🏮 Footer  
-*Cross-Silo Reflex Mismatch* defines the emotional and procedural incompatibilities across major public-sector silos.  
+*🧠 Cross-Silo Reflex Mismatch* defines the emotional and procedural incompatibilities across major public-sector silos.  
 Understanding these reflexes is essential for repairing cross-domain harm and designing post-digital governance systems.
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-11_
