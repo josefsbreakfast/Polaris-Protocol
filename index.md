@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:40:10 UTC_
+_Generated on 2025-12-11 10:41:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -773,6 +773,7 @@ _Generated on 2025-12-11 10:40:10 UTC_
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
         - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
+        - [`🪩_weaponised_joy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪩_weaponised_joy.md)
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/README.md)
         - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
@@ -3487,7 +3488,6 @@ _Generated on 2025-12-11 10:40:10 UTC_
     - [`🪢_reembodie_civics.md`](Polaris_Nest/Git_Intake_Drawer/🪢_reembodie_civics.md)
     - [`🪢_refusal_as_resistance_not_risk.md`](Polaris_Nest/Git_Intake_Drawer/🪢_refusal_as_resistance_not_risk.md)
     - [`🪨_male_survivor_silence.md`](Polaris_Nest/Git_Intake_Drawer/🪨_male_survivor_silence.md)
-    - [`🪩_weaponised_joy.md`](Polaris_Nest/Git_Intake_Drawer/🪩_weaponised_joy.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
