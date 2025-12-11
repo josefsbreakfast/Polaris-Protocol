@@ -57,3 +57,7 @@ and the particular hip-hop artist is... *a choice*, i'll say that much.
 gds this is so funny.  
 
 ---
+
+dont know why youd be timkering in uni email azure ad, because one can delete things but one cannot change the fact something will very much appear to have been deleted or altered. 🙄  
+
+---
