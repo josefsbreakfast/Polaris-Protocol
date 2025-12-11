@@ -37,7 +37,7 @@ i kinda feel they have better taste idk.
 > 
 > "*I still am.*"  
 
-[This](https://www.youtube.com/watch?v=z-glWaAvK6o) is the mood.  
+[This](https://www.youtube.com/watch?v=z-glWaAvK6o) [is](https://youtu.be/yfOmQ0Zln6Y?si=fjdICVYhom0xu7lM) [the](https://youtu.be/_8mUuE_1c_8?si=ZG3ulmEavpJpj_m3) [mood](https://youtu.be/dIEeVx2MAjQ?si=uYRtv6oxrCxISI4f).  
 
 **This** is our moment.  
 
