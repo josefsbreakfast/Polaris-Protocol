@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:08:22 UTC_
+_Generated on 2025-12-11 09:09:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2768,6 +2768,7 @@ _Generated on 2025-12-11 09:08:22 UTC_
       - [`📣_the_shouting_whisper.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📣_the_shouting_whisper.md)
       - [`🚩_when_being_flagged_creates_the_evidence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🚩_when_being_flagged_creates_the_evidence.md)
       - [`🦁_the_rules_beneath_the_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦁_the_rules_beneath_the_rules.md)
+      - [`🦠_statistical_nightmare.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_statistical_nightmare.md)
       - [`🦠_the_mutation_of_targeting_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_the_mutation_of_targeting_rules.md)
       - [`🧠_cognitive_mirage_how_humans_justify_algorithmic_bias.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧠_cognitive_mirage_how_humans_justify_algorithmic_bias.md)
       - [`🧪_testing_the_invisible_criteria.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧪_testing_the_invisible_criteria.md)
@@ -3143,7 +3144,6 @@ _Generated on 2025-12-11 09:08:22 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
-    - [`🦠_statistical_nightmare.md`](Polaris_Nest/Git_Intake_Drawer/🦠_statistical_nightmare.md)
     - [`🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md`](Polaris_Nest/Git_Intake_Drawer/🦠_threat_overlay_external_exploitation_domestic_oversight_gaps.md)
     - [`🦠_toxic_legitimacy_cycles.md`](Polaris_Nest/Git_Intake_Drawer/🦠_toxic_legitimacy_cycles.md)
     - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Polaris_Nest/Git_Intake_Drawer/🦤_how_the_right_accidentally_infiltrated_itself.md)
