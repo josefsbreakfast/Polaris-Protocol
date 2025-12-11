@@ -1,5 +1,5 @@
 # 🧠 Behavioural Fork Traits Cross-Matrix  
-**First created:** 2025-09-03 | **Last updated:** 2025-09-12 <br>
+**First created:** 2025-09-03 | **Last updated:** 2025-12-11  
 *A comparative table of behavioural fork traits observed across containment tactics*  
 
 ---
@@ -40,4 +40,4 @@ It compares traits across forks to support recognition and disarmament.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-04_  
+_Last updated: 2025-12-11_  
