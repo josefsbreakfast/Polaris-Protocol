@@ -1,5 +1,5 @@
 # 🧠 Algorithmic Fear Symbolics — Male Threat Mapping  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
 *How platforms infer male fear through symbolic clusters rather than topics.*
 
 ---
@@ -180,10 +180,11 @@ male fear, algorithmic symbolics, containment psychology, behavioural inference,
 *🧠 Algorithmic Fear Symbolics — Male Threat Mapping* is a living node of the **Polaris Protocol**, within the Metadata Sabotage Network’s psychological containment cluster. It documents how male fear generates symbolic threat-maps used by platforms in ranking, personalisation, and moderation.
 
 > 📡 Cross-references:
-> - [🎭 Narrative & Psych Ops](../Narrative_And_Psych_Ops/) — narrative containment structures  
-> - [🧠 Psychological Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment.md) — emotional inference mechanisms  
-> - [🧿 Targeting Logic Metadata Signatures](../Structural_Analysis/🧿_targeting_logic_metadata_signatures.md) — behavioural fingerprints
+> 
+> - [🎭 Narrative & Psych Ops] — narrative containment structures  
+> - [🧠 Psychological Containment] — emotional inference mechanisms  
+> - [🧿 Targeting Logic Metadata Signatures] — behavioural fingerprints
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-11_
