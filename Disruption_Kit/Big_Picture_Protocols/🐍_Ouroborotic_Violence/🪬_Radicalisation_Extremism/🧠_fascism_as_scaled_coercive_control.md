@@ -1,6 +1,6 @@
 # 🧠 Fascism as Scaled Coercive Control  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-19  
-*Fascism is not “charisma” or ideology — it is coercive control expanded from the household to the state.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-11  
+*Fascism is not “charisma” or ideology — it is coercive control expanded from the household to the state.*  
 
 ---
 
@@ -156,14 +156,15 @@ This is why survivor-coded leftists are more effective deradicalisers than insti
 ---
 
 ## 🏮 Footer  
-**Fascism as Scaled Coercive Control** is a living node of the Polaris Protocol.  
+*🧠 Fascism as Scaled Coercive Control* is a living node of the Polaris Protocol.  
 It supports survivor-led deradicalisation analysis by reframing authoritarianism as a system of **emotional violence**, not intellectual seduction.
 
-> 📡 Cross-references:  
-> - [🪓 Charisma Is Just Coercion](./charisma_is_just_coercion.md)  
-> - [🧮 Pre-Infiltration of Digital Male Spaces](./pre_infiltration_digital_male_spaces.md)  
-> - [🎭 Liberals vs Leftists in Deradicalisation](./liberals_vs_leftists.md)
+> 📡 Cross-references:
+> 
+> - [🪓 Charisma Is Just Coercion]  
+> - [🧮 Pre-Infiltration of Digital Male Spaces]  
+> - [🎭 Liberals vs Leftists in Deradicalisation]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-11_
