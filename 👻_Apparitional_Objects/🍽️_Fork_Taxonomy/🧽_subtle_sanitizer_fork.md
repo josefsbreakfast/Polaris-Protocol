@@ -1,7 +1,5 @@
 # 🧽 Subtle Sanitizer Fork  
-
-**First created:** 2025-08-17 | **Last updated:** 2025-09-12
-
+**First created:** 2025-08-17 | **Last updated:** 2025-12-11  
 *Fork that dulls survivor testimony into neutral language, erasing urgency and political force*  
 
 ---
@@ -72,4 +70,4 @@ Each fork file documents containment strategies, their logic, and countermeasure
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_  
+_Last updated: 2025-12-11_  
