@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:01:26 UTC_
+_Generated on 2025-12-11 09:02:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -49,6 +49,7 @@ _Generated on 2025-12-11 09:01:26 UTC_
         - [`🛩️_the_april_fools_department_of_defence.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🛩️_the_april_fools_department_of_defence.md)
         - [`🦑_bring_back_pressganging.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_bring_back_pressganging.md)
         - [`🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)
+        - [`🦑_kraken_based_defence_budge.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_kraken_based_defence_budge.md)
         - [`🦑_state_of_the_deep.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_state_of_the_deep.md)
         - [`🦑_the_fathom_response_to_containment_phase_3.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_the_fathom_response_to_containment_phase_3.md)
         - [`🦑_why_craken_is_necessary.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_why_craken_is_necessary.md)
@@ -3138,7 +3139,6 @@ _Generated on 2025-12-11 09:01:26 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦋_butterfly_effect_in_small_states.md`](Polaris_Nest/Git_Intake_Drawer/🦋_butterfly_effect_in_small_states.md)
-    - [`🦑_kraken_based_defence_budge.md`](Polaris_Nest/Git_Intake_Drawer/🦑_kraken_based_defence_budge.md)
     - [`🦑_toxic_systems_do_not_need_monsters.md`](Polaris_Nest/Git_Intake_Drawer/🦑_toxic_systems_do_not_need_monsters.md)
     - [`🦕_post_modern_fellow_travellers.md`](Polaris_Nest/Git_Intake_Drawer/🦕_post_modern_fellow_travellers.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
