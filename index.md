@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 00:27:50 UTC_
+_Generated on 2025-12-11 00:28:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3636,8 +3636,6 @@ _Generated on 2025-12-11 00:27:50 UTC_
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
-  - [**Fork_Taxonomy/**](👻_Apparitional_Objects/Fork_Taxonomy/)
-    - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
   - [**🍽️_Fork_Taxonomy/**](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/)
     - [`README.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/README.md)
     - [`execution_drift_flow.png`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/execution_drift_flow.png)
@@ -3664,6 +3662,7 @@ _Generated on 2025-12-11 00:27:50 UTC_
     - [`🧬_fork_clone_map.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧬_fork_clone_map.md)
     - [`🧬_voice_capture_triggers.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧬_voice_capture_triggers.md)
     - [`🧱_structural_reversion_ghost.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧱_structural_reversion_ghost.md)
+    - [`🧽_subtle_sanitizer_fork.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
   - [**🎞️_Haunted_Artefacts_Catalogue/**](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/)
     - [`README.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/README.md)
     - [`🌙_sleep_sabotage.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🌙_sleep_sabotage.md)
