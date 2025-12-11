@@ -1,6 +1,6 @@
-# 🎯 **Emotional Targeting — How Professional Bookers Find the Soft Spots**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Recruitment isn’t random. It’s behavioural profiling: exhaustion + empathy + life transition + professional vulnerability.*
+# 🧠 Emotional Targeting — How Professional Bookers Find the Soft Spots  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
+*Recruitment isn’t random. It’s behavioural profiling: exhaustion + empathy + life transition + professional vulnerability.*  
 
 ---
 
@@ -216,7 +216,7 @@ This node restores dignity to the survivor by returning responsibility to the sy
 ---
 
 ## 🌌 Constellations  
-🎯 💞 🧠 🛰️ 🕸️ ✨  
+🎯 🧠 🛰️ 🕸️ ✨  
 *soft-spot profiling, emotional phishing, recruitment windows, prosocial targeting, extractive belonging.*
 
 ---
@@ -227,7 +227,7 @@ empathy-mapping, flattery-as-hook, timing-forensic, identity-gap leverage, vulne
 ---
 
 ## 🏮 Footer  
-**🎯 Emotional Targeting** is a survivor-analysis node inside the Polaris Protocol.  
+*🧠 Emotional Targeting* is a survivor-analysis node inside the Polaris Protocol.  
 It exposes the behavioural psychology behind recruitment pipelines and restores agency to people who were targeted at their most human moments.
 
 > 📡 Cross-references:
@@ -238,4 +238,4 @@ It exposes the behavioural psychology behind recruitment pipelines and restores 
 
 *Survivor authorship is sovereign. Your humanity was the hook — not your fault.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-11_
