@@ -1,6 +1,6 @@
 # 🧠 Institutional Perception: The No-Win Zone  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-06  
-*Why, once transparency is established, hostile escalation backfires on the hostile actor — not on the survivor.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+*Why, once transparency is established, hostile escalation backfires on the hostile actor — not on the survivor.*  
 
 ---
 
@@ -145,7 +145,7 @@ The structure itself protects you.
 ---
 
 ## 🌌 Constellations  
-🩹 🧿 🔍 — survivor logic, pattern recognition, governance clarity.
+🧠 🩹 🧿 🔍 — survivor logic, pattern recognition, governance clarity.
 
 ---
 
@@ -155,9 +155,9 @@ institutional perception, escalation backfire, transparency, survivor autonomy, 
 ---
 
 ## 🏮 Footer  
-*Institutional Perception: The No-Win Zone* is a living node of the Polaris Protocol.  
+*🧠 Institutional Perception: The No-Win Zone* is a living node of the Polaris Protocol.  
 It explains how transparent civic structures invert the power of hostile actors, making escalation self-exposing and inaction self-defeating.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-06_
+_Last updated: 2025-12-11_
