@@ -1,6 +1,6 @@
 # 🧠 Cognitive Feedback and Bureaucratic Amplification  
-**First created:** 2025-10-31  
-*How conviction, repetition, and administrative form turn belief into evidence.*
+**First created:** 2025-10-31 | **Last updated:** 2025-12-11  
+*How conviction, repetition, and administrative form turn belief into evidence.*  
 
 ---
 
@@ -101,4 +101,4 @@ It completes the governance triad with:
 
 ---
 
-**Last updated:** 2025-10-31  
+_Last updated: 2025-12-11_
