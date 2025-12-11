@@ -1,6 +1,6 @@
 # 🧃 TikTok as Twinning Petri Dish  
-**First created:** 2025-09-10 | **Last updated:** 2025-09-10  
-*Exploring how rapid-cycle platforms reveal data-twin mechanics, intent drift, and diagnostic self-presentation.*
+**First created:** 2025-09-10 | **Last updated:** 2025-12-11  
+*Exploring how rapid-cycle platforms reveal data-twin mechanics, intent drift, and diagnostic self-presentation.*  
 
 ---
 
@@ -56,10 +56,10 @@ Even if your message was “I prefer maths to forced socialising,” the clinica
 It traces how short-form platforms accelerate data-twin visibility, how clinical framings are used as survival speech, and how intent drifts in anxious reception.  
 
 > 📡 Cross-references:  
-> - [🧠 HM Dept of Coercive Nudges](../Disruption_Kit/Containment_Scripts/🧠_HM_Dept_Coercive_Nudges.md) — nudges as paternalistic containment  
-> - [🐦‍🔥 Trauma Psychology Misuse](../Big_Picture_Protocols/🐦‍🔥_trauma_psychology_misuse.md) — weaponisation of diagnosis and trauma speech  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures for forked narratives and symptom aquariums  
+> - [🧠 HM Dept of Coercive Nudges] — nudges as paternalistic containment  
+> - [🐦‍🔥 Trauma Psychology Misuse]  — weaponisation of diagnosis and trauma speech  
+> - [Survivor Tools] — countermeasures for forked narratives and symptom aquariums  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_  
+_Last updated: 2025-12-11_  
