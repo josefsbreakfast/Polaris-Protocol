@@ -1,6 +1,6 @@
 # 🕯️ Prevent and the Encampment Silence  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
-*On why dissent around Palestine student encampments had to be silenced within the Prevent logic.*
+**First created:** 2025-11-03 | **Last updated:** 2025-12-11  
+*On why dissent around Palestine student encampments had to be silenced within the Prevent logic.*  
 
 ---
 
@@ -90,11 +90,11 @@ Prevent, encampments, Palestine, universities, dissent, safeguarding, governance
 *🕯️ Prevent and the Encampment Silence* is a living node of the Polaris Protocol.  
 It documents how counter-extremism frameworks turned against conscience, transforming student humanitarian protest into “risk” to protect the state’s own containment narrative.  
 
-> 📡 Cross-references:  
-> - [⚖️ Prevent, Civil Liberties, and the ICJ Genocide Position](../Disruption_Kit/Big_Picture_Protocols/⚖️_Legal_State_Governance/⚖️_prevent_civil_liberties_icj_genocide.md) — core legal framing  
-> - [🏮 Where To Go](../Polaris_Nest/🏮_where_to_go.md) — Prevent mapped under governance suppression  
-> - [🕯️ Exorcising Safeguarding Shadows](../Disruption_Kit/Big_Picture_Protocols/🕯️_Exorcising_Safeguarding_Shadows/) — DARVO and safeguarding inversion  
+> 📡 Cross-references:
+> 
+> - [⚖️ Prevent, Civil Liberties, and the ICJ Genocide Position] — core legal framing  
+> - [🕯️ Exorcising Safeguarding Shadows] — DARVO and safeguarding inversion  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2025-12-11_
