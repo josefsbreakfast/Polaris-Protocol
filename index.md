@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 00:01:38 UTC_
+_Generated on 2025-12-11 00:07:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -742,6 +742,7 @@ _Generated on 2025-12-11 00:01:38 UTC_
         - [`📯_soundline_bark_to_trumpet.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📯_soundline_bark_to_trumpet.md)
         - [`📿_strength_as_gihasta.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📿_strength_as_gihasta.md)
         - [`🔥_hasidic_thought_vs_state_violence_inversion.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔥_hasidic_thought_vs_state_violence_inversion.md)
+        - [`🔥_the_witchings_of_europe.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔥_the_witchings_of_europe.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
@@ -2928,7 +2929,6 @@ _Generated on 2025-12-11 00:01:38 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
     - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🔥_opportunistic_escalation_peri_system_collapse.md)
-    - [`🔥_the_witchings_of_europe.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_witchings_of_europe.md)
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
     - [`🔥_why_metadata_more_dangerous_than_human_referral.md`](Polaris_Nest/Git_Intake_Drawer/🔥_why_metadata_more_dangerous_than_human_referral.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
