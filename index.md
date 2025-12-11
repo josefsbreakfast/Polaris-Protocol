@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 05:17:11 UTC_
+_Generated on 2025-12-11 08:42:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3138,6 +3138,7 @@ _Generated on 2025-12-11 05:17:11 UTC_
     - [`🦑_bring_back_pressganging.md`](Polaris_Nest/Git_Intake_Drawer/🦑_bring_back_pressganging.md)
     - [`🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md`](Polaris_Nest/Git_Intake_Drawer/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)
     - [`🦑_kraken_based_defence_budget_satire.md`](Polaris_Nest/Git_Intake_Drawer/🦑_kraken_based_defence_budget_satire.md)
+    - [`🦑_toxic_systems_do_not_need_monsters.md`](Polaris_Nest/Git_Intake_Drawer/🦑_toxic_systems_do_not_need_monsters.md)
     - [`🦑_why_craken_is_necessary.md`](Polaris_Nest/Git_Intake_Drawer/🦑_why_craken_is_necessary.md)
     - [`🦕_post_modern_fellow_travellers.md`](Polaris_Nest/Git_Intake_Drawer/🦕_post_modern_fellow_travellers.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
@@ -3491,7 +3492,6 @@ _Generated on 2025-12-11 05:17:11 UTC_
     - [`🪶_language_as_smuggled_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🪶_language_as_smuggled_plurality.md)
     - [`🪼_prevent_the_alt_right_weapon.md`](Polaris_Nest/Git_Intake_Drawer/🪼_prevent_the_alt_right_weapon.md)
     - [`🪼_racialised_dual_attrition.md`](Polaris_Nest/Git_Intake_Drawer/🪼_racialised_dual_attrition.md)
-    - [`🪼_toxic_systems_do_not_need_monsters.md`](Polaris_Nest/Git_Intake_Drawer/🪼_toxic_systems_do_not_need_monsters.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
