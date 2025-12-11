@@ -61,3 +61,11 @@ gds this is so funny.
 dont know why youd be timkering in uni email azure ad, because one can delete things but one cannot change the fact something will very much appear to have been deleted or altered. 🙄  
 
 ---
+
+as we can see from uploads, having a really healthy metadata cloud experience with stories about babies being raped coming up next to forced conversion and "dont give yourself up to them" messaging.  
+
+so obviously that failed several uploads.  
+
+this is just every day, and i'm supposed to not be stressed about any of it.  
+
+---
