@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 11:12:46 UTC_
+_Generated on 2025-12-11 11:14:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -303,6 +303,7 @@ _Generated on 2025-12-11 11:12:46 UTC_
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🦇_how_many_words_to_fell_an_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦇_how_many_words_to_fell_an_industry.md)
+        - [`🧠_politicians_and_public_contact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_politicians_and_public_contact.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
         - [`🪞_the_i_got_got_moment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_i_got_got_moment.md)
         - [`🫁_oxygen_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫁_oxygen_and_oversight.md)
@@ -3223,7 +3224,6 @@ _Generated on 2025-12-11 11:12:46 UTC_
     - [`🧠_nerd_alignment_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🧠_nerd_alignment_protocol.md)
     - [`🧠_nudges_to_stepford_wives.md`](Polaris_Nest/Git_Intake_Drawer/🧠_nudges_to_stepford_wives.md)
     - [`🧠_political_black_box_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧠_political_black_box_logic.md)
-    - [`🧠_politicians_and_public_contact.md`](Polaris_Nest/Git_Intake_Drawer/🧠_politicians_and_public_contact.md)
     - [`🧠_psychology_of_volunteer_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧠_psychology_of_volunteer_surveillance.md)
     - [`🧠_rationalist_to_alt_right_drift_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_rationalist_to_alt_right_drift_pipeline.md)
     - [`🧠_reframing_loops_in_ml_products_and_dementia.md`](Polaris_Nest/Git_Intake_Drawer/🧠_reframing_loops_in_ml_products_and_dementia.md)
