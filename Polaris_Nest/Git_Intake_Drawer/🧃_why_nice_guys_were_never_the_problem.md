@@ -1,7 +1,6 @@
 # 🧃 Why “Nice Guys” Were Never the Problem  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*A rehabilitation of the so-called “nice guy” archetype — distinguishing genuinely gentle men from the shame-driven behaviours they were punished for.*
+**First created:** 2025-11-19  **Last updated:** 2025-12-11  
+*A rehabilitation of the so-called “nice guy” archetype — distinguishing genuinely gentle men from the shame-driven behaviours they were punished for.*  
 
 ---
 
@@ -240,14 +239,14 @@ It is antifascist work.
 ---
 
 ## 🏮 Footer  
-**Why the “Nice Guys” Were Never the Problem** is a living node of the Polaris Protocol.  
+*🧃 Why the “Nice Guys” Were Never the Problem* is a living node of the Polaris Protocol.  
 It restores the reputation of soft, gentle men and exposes how cultural misidentification fed extremist pipelines by shaming the wrong demographic.
 
 > 📡 Cross-references:  
-> - [🧬 Structural Vulnerability of Soft Boys](./structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)  
-> - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)  
-> - [🧸 Softness as Counter-Extremism Infrastructure](./softness_as_counter_extremism_infrastructure.md)
+> - [🧬 Structural Vulnerability of Soft Boys]  
+> - [💗 Soft Boy Restoration Protocol]  
+> - [🧸 Softness as Counter-Extremism Infrastructure]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-11_
