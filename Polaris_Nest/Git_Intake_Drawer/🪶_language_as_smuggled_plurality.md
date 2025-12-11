@@ -1,5 +1,5 @@
 # 🪶 Language as Smuggled Plurality
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
 *How metaphor, multilinguality, and poetics preserve nuance under constraint.*
 
 ---
@@ -49,8 +49,9 @@ language, plurality, romanticism, colonial binaries, metaphor, diaspora, underto
 *🪶 Language as Smuggled Plurality* is a symbolic-linguistic node of the Polaris Protocol.  
 It traces how humans preserve emotional depth when dominant languages constrain them.
 
-> 📡 Cross-references:  
-> - [💞 Queer Theory as Relational Literacy](./💞_queer_theory_as_relational_literacy.md)
+> 📡 Cross-references:
+> 
+> - [💞 Queer Theory as Relational Literacy]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-11_
