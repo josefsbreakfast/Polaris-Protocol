@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:43:47 UTC_
+_Generated on 2025-12-11 10:45:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2528,6 +2528,7 @@ _Generated on 2025-12-11 10:43:47 UTC_
       - [`🧠_gendered_and_racialised_prevent_channel_misuse.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_gendered_and_racialised_prevent_channel_misuse.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
+      - [`🪢_refusal_as_resistance_not_risk.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪢_refusal_as_resistance_not_risk.md)
       - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪫_why_we_cannot_know_who_prevent_targets.md)
       - [`🪼_plausible_deniability_rhetoric.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪼_plausible_deniability_rhetoric.md)
       - [`🪼_prevent_the_alt_right_weapon.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪼_prevent_the_alt_right_weapon.md)
@@ -3487,7 +3488,6 @@ _Generated on 2025-12-11 10:43:47 UTC_
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🪢_hygienic_cut.md`](Polaris_Nest/Git_Intake_Drawer/🪢_hygienic_cut.md)
     - [`🪢_reembodie_civics.md`](Polaris_Nest/Git_Intake_Drawer/🪢_reembodie_civics.md)
-    - [`🪢_refusal_as_resistance_not_risk.md`](Polaris_Nest/Git_Intake_Drawer/🪢_refusal_as_resistance_not_risk.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
