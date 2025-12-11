@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:36:50 UTC_
+_Generated on 2025-12-11 23:38:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1097,6 +1097,7 @@ _Generated on 2025-12-11 23:36:50 UTC_
         - [`🔱_god_as_plurality.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔱_god_as_plurality.md)
         - [`🕊_repairing_the_human.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕊_repairing_the_human.md)
         - [`🕍_jewish_trauma_literacy_for_non_jewish_audiences.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)
+        - [`🕍_shared_language_for_shared_warnings.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕍_shared_language_for_shared_warnings.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
@@ -3055,7 +3056,6 @@ _Generated on 2025-12-11 23:36:50 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕍_shared_language_for_shared_warnings.md`](Polaris_Nest/Git_Intake_Drawer/🕍_shared_language_for_shared_warnings.md)
     - [`🕎_esther_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🕎_esther_protocol.md)
     - [`🕎_jewish_assimilation_vs_eurocentric_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_assimilation_vs_eurocentric_algorithms.md)
     - [`🕎_jewish_conscience_anti_racist_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_conscience_anti_racist_governance.md)
