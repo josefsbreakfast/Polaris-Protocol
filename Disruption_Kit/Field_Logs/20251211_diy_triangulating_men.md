@@ -33,3 +33,14 @@ i kinda feel they have better taste idk.
 
 ---
 
+> "Camina, you are a true Belta. You saved my life because you were willing to die for a greater good."  
+> 
+> "*I still am.*"  
+
+[This](https://www.youtube.com/watch?v=z-glWaAvK6o) is the mood.  
+
+**This** is our moment.  
+
+"You may think that you're scared, but you're not. That isn't fear. That's your sharpness. That's your **power**."  
+
+---
