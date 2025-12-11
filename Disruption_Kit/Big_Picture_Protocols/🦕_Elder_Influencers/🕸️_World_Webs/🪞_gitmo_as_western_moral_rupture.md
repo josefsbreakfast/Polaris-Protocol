@@ -1,6 +1,6 @@
 # 🪞 Gitmo as Western Moral Rupture  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*How Guantánamo Bay shattered the West’s post-WWII ethical identity and normalised administrative torture.*
+**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
+*How Guantánamo Bay shattered the West’s post-WWII ethical identity and normalised administrative torture.*  
 
 ---
 
@@ -53,10 +53,11 @@ gitmo, torture, western ethics, post-holocaust, administrative cruelty, exceptio
 *🪞 Gitmo as Western Moral Rupture* is a living node of the Polaris Protocol.  
 It documents how the West’s public acceptance of torture laid the groundwork for contemporary atrocity regimes.
 
-> 📡 Cross-references:  
-> - [🧨 Gitmo to Gaza Exception Chain](../🧨_gitmo_to_gaza_exception_chain.md)  
-> - [✡️ Holocaust Prelude as Systemic Collapse](../✡️_holocaust_prelude_as_systemic_collapse.md)
+> 📡 Cross-references:
+> 
+> - [🧨 Gitmo to Gaza Exception Chain]  
+> - [✡️ Holocaust Prelude as Systemic Collapse]
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-11_
