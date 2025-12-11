@@ -1,5 +1,5 @@
-# 🕯️ Crash Sites as Temporal Loops
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+# 🕯️ Crash Sites as Temporal Loops  
+**First created:** 2025-11-06  |  **Last updated:** 2025-12-11  
 *How disaster sites fold time — replaying power until recognition arrives.*  
 
 ---
@@ -51,10 +51,11 @@ temporal recursion, crash sites, authoritarian time, cyclical myth, disaster rep
 *🕯️ Crash Sites as Temporal Loops* is a living node of the Polaris Protocol.  
 It closes the Crash Constellation by tracing how repetition itself becomes the state’s proof of order — and how survivor record-keeping breaks the loop.  
 
-> 📡 Cross-references:  
-> - [🩸 Death as Diplomacy — From Smolensk to Tver](./🩸_death_as_diplomacy_from_smolensk_to_tver.md) — geopolitical link  
-> - [🔥 Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🔥_Suppression_as_Signal.md) — conceptual root  
+> 📡 Cross-references:
+> 
+> - [🩸 Death as Diplomacy — From Smolensk to Tver] — geopolitical link  
+> - [🔥 Suppression as Signal] — conceptual root  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-11_
