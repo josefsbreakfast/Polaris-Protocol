@@ -1,6 +1,6 @@
 # 🔦 Why We Cannot Know Who Prevent Really Targets  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*How the design of Prevent/Channel creates a statistical, operational, and democratic black hole that makes it structurally impossible to know who is harmed by the system—or how often.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-11  
+*How the design of Prevent/Channel creates a statistical, operational, and democratic black hole that makes it structurally impossible to know who is harmed by the system—or how often.*  
 
 ---
 
@@ -215,14 +215,11 @@ Prevent • Channel • statistics • secrecy • transparency gap • metadata
 ---
 
 ## 🪐 Footer  
-*🏮 Why We Cannot Know Who Prevent Really Targets* is a systems-transparency node of the Polaris Protocol.  
+*🔦 Why We Cannot Know Who Prevent Really Targets* is a systems-transparency node of the Polaris Protocol.  
 It analyses how statutory opacity, metadata escalation, and multi-agency secrecy create a black hole in which targeting patterns, harms, and systemic bias become structurally unknowable.
 
 > 📡 **Cross-references:**  
-> - [🔮 House Style](./🔮_house_style.md)  
-> - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Where to Go](./🏮_where_to_go.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-11_
