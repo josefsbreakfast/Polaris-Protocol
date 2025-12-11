@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:59:37 UTC_
+_Generated on 2025-12-11 10:09:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -132,6 +132,7 @@ _Generated on 2025-12-11 09:59:37 UTC_
         - [`🦠_hybrid_threat_overlay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md)
         - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
         - [`🦮_who_authorises_animal_assisted_ve_interventions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦮_who_authorises_animal_assisted_ve_interventions.md)
+        - [`🧠_early_secret_police_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧠_early_secret_police_architecture.md)
         - [`🪶_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪶_reading_the_dog_whistle.md)
         - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
@@ -3188,7 +3189,6 @@ _Generated on 2025-12-11 09:59:37 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_early_secret_police_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧠_early_secret_police_architecture.md)
     - [`🧠_emotional_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧠_emotional_targeting.md)
     - [`🧠_enemy_symmetry_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧠_enemy_symmetry_effects.md)
     - [`🧠_escalation_weather_map.md`](Polaris_Nest/Git_Intake_Drawer/🧠_escalation_weather_map.md)
