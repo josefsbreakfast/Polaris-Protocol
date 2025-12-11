@@ -1,6 +1,5 @@
-# 🎶 Calming Voice Prototype
-
-**First created:** 2025-08-09 | **Last updated:** 2025-09-13  
+# 🎶 Calming Voice Prototype  
+**First created:** 2025-08-09 | **Last updated:** 2025-12-11  
 *Behavioural fork inducing pacification and narrative delay.*  
 
 ---
@@ -75,4 +74,4 @@ It documents pacification techniques that disguise suppression as care, and trac
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-12-11_  
