@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:03:36 UTC_
+_Generated on 2025-12-11 09:04:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -326,6 +326,7 @@ _Generated on 2025-12-11 09:03:36 UTC_
         - [`🛰️_situational_awareness.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_situational_awareness.md)
         - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md)
         - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_vendor_lock_in.md)
+        - [`🦋_butterfly_effect_in_small_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦋_butterfly_effect_in_small_states.md)
         - [`🧨_overclocked_capitalism_2020_cognitive_crash.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
         - [`☕️_biscuit_press_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
@@ -3139,7 +3140,6 @@ _Generated on 2025-12-11 09:03:36 UTC_
     - [`🦇_how_many_words_to_fell_an_industry.md`](Polaris_Nest/Git_Intake_Drawer/🦇_how_many_words_to_fell_an_industry.md)
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
-    - [`🦋_butterfly_effect_in_small_states.md`](Polaris_Nest/Git_Intake_Drawer/🦋_butterfly_effect_in_small_states.md)
     - [`🦕_post_modern_fellow_travellers.md`](Polaris_Nest/Git_Intake_Drawer/🦕_post_modern_fellow_travellers.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🦠_algorithmic_autoimmunity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_algorithmic_autoimmunity.md)
