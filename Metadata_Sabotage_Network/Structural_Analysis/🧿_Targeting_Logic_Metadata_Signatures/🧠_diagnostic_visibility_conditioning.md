@@ -1,6 +1,6 @@
 # 🧠 Diagnostic Visibility Conditioning  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*How algorithmic visibility reshapes emotional vocabulary, personality expression, and human tempo.*
+**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
+*How algorithmic visibility reshapes emotional vocabulary, personality expression, and human tempo.*  
 
 ---
 
@@ -169,11 +169,11 @@ diagnostic visibility, hesitation bias, gendered semantics, tempo misread, algor
 *Diagnostic Visibility Conditioning* is a living node of the **Polaris Protocol**.  
 It maps how algorithmic visibility distorts emotion, language, and tempo — and how humans can re-educate the loop through embodied unpredictability.  
 
-> 📡 Cross-references:  
-> - [🎭 Narrative & Psych Ops](../Narrative_And_Psych_Ops/) — interpretive containment dynamics  
-> - [☔️ Protocol Integrity SOP](../../../Admin_Kit/☔️_protocol_integrity_sop.md) — voice & fidelity checks  
-> - [🎛️ Survivor Voice Fidelity](../../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone preservation  
+> 📡 Cross-references:
+> 
+> - [🎭 Narrative & Psych Ops] — interpretive containment dynamics  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-11_
