@@ -1,5 +1,5 @@
 # 🔮 Daylight Effects in Governance Systems  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
 *How transparency alters institutional behaviour, collapses distortion, and turns projection into self-exposure.*
 
 ---
@@ -214,4 +214,4 @@ It explains how transparent civic structures stabilise institutional perception,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-11_
