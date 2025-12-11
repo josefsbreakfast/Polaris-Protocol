@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 11:14:33 UTC_
+_Generated on 2025-12-11 11:15:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -779,6 +779,7 @@ _Generated on 2025-12-11 11:14:33 UTC_
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
+        - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
         - [`🪞_gitmo_as_western_moral_rupture.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_gitmo_as_western_moral_rupture.md)
         - [`🪞_mirror_ideologies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_mirror_ideologies.md)
@@ -3430,7 +3431,6 @@ _Generated on 2025-12-11 11:14:33 UTC_
     - [`🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md`](Polaris_Nest/Git_Intake_Drawer/🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md)
     - [`🧵_overproduction_boredom.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_boredom.md)
     - [`🧶_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_gossip_with_a_pay_grade.md)
-    - [`🧶_nato_knitting_circle.md`](Polaris_Nest/Git_Intake_Drawer/🧶_nato_knitting_circle.md)
     - [`🧷_culture_war_risk_logic_in_uk_public_institutions.md`](Polaris_Nest/Git_Intake_Drawer/🧷_culture_war_risk_logic_in_uk_public_institutions.md)
     - [`🧷_structural_attraction_to_power_roles.md`](Polaris_Nest/Git_Intake_Drawer/🧷_structural_attraction_to_power_roles.md)
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧸_softness_as_counter_extremism_infrastructure.md)
