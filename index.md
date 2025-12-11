@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:14:15 UTC_
+_Generated on 2025-12-11 10:15:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2669,6 +2669,7 @@ _Generated on 2025-12-11 10:14:15 UTC_
       - [`🚗_the_vanquish_paradox.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🚗_the_vanquish_paradox.md)
       - [`🚨_fragility_as_performance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🚨_fragility_as_performance.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
+      - [`🧠_extraction_loop_data_vs_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_extraction_loop_data_vs_story.md)
       - [`🧨_trace_resistance_framework.yaml`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_trace_resistance_framework.yaml)
       - [`🧩_repairing_trust_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧩_repairing_trust_chains.md)
       - [`🧱_keystone_dependency_trace.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧱_keystone_dependency_trace.md)
@@ -3193,7 +3194,6 @@ _Generated on 2025-12-11 10:14:15 UTC_
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
     - [`🧠_extracting_soul_from_prosocial_people.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extracting_soul_from_prosocial_people.md)
-    - [`🧠_extraction_loop_data_vs_story.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extraction_loop_data_vs_story.md)
     - [`🧠_fascism_as_scaled_coercive_control.md`](Polaris_Nest/Git_Intake_Drawer/🧠_fascism_as_scaled_coercive_control.md)
     - [`🧠_four_signature_differential_reality_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧠_four_signature_differential_reality_loops.md)
     - [`🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md)
