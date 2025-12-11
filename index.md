@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:38:09 UTC_
+_Generated on 2025-12-11 23:39:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -130,6 +130,7 @@ _Generated on 2025-12-11 23:38:09 UTC_
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_duty_to_correct.md)
         - [`📜_from_survivor_code_to_research_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_from_survivor_code_to_research_ethics.md)
         - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
+        - [`🕎_the_esther_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕎_the_esther_protocol.md)
         - [`🗂️_bureaucratic_attrition_as_governance_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🗂️_bureaucratic_attrition_as_governance_strategy.md)
         - [`🦠_hybrid_threat_overlay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md)
         - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
@@ -3056,7 +3057,6 @@ _Generated on 2025-12-11 23:38:09 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕎_esther_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🕎_esther_protocol.md)
     - [`🕎_jewish_assimilation_vs_eurocentric_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_assimilation_vs_eurocentric_algorithms.md)
     - [`🕎_jewish_conscience_anti_racist_governance.md`](Polaris_Nest/Git_Intake_Drawer/🕎_jewish_conscience_anti_racist_governance.md)
     - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
