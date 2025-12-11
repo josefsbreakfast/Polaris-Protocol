@@ -1,6 +1,6 @@
-# 🪓 Charisma Is Just Coercion  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-19  
-*Fascist “charisma” is a myth. The behaviours being described are coercive-control techniques, not magic.*
+# 🧠 Charisma Is Just Coercion  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-11  
+*Fascist “charisma” is a myth. The behaviours being described are coercive-control techniques, not magic.*  
 
 ---
 
@@ -176,14 +176,15 @@ This is why survivor-coded analysis is crucial for deradicalisation.
 ---
 
 ## 🏮 Footer  
-**Charisma Is Just Coercion** is a living node of the Polaris Protocol.  
+*🧠 Charisma Is Just Coercion* is a living node of the Polaris Protocol.  
 It provides survivor-framed clarity for recognising manipulative political actors and dismantling the myth of “charisma” as an innate power.
 
-> 📡 Cross-references:  
-> - [🧠 Fascism as Scaled Coercive Control](./fascism_scaled_coercive_control.md)  
-> - [🧨 PUA-to-Fascism Recruitment Patterns](./pua_to_fascism.md)  
-> - [🧩 Trauma, Shame & Leaving a Coercive Ideology](./exit_from_coercion.md)
+> 📡 Cross-references:
+> 
+> - [🧠 Fascism as Scaled Coercive Control]  
+> - [🧨 PUA-to-Fascism Recruitment Patterns]  
+> - [🧩 Trauma, Shame & Leaving a Coercive Ideology]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-11_
