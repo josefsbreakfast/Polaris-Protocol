@@ -1,6 +1,6 @@
 # 🧠🔢 Calculus of Religious Affect  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*Why behavioural A/B pairing in the age of music‑first algorithms was doomed from the start — and why you should have listened to the person making the “are you sure you want to spend money on this?” face.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-11  
+*Why behavioural A/B pairing in the age of music‑first algorithms was doomed from the start — and why you should have listened to the person making the “are you sure you want to spend money on this?” face.*  
 
 ---
 
@@ -205,13 +205,14 @@ abrahamic modal analysis, music-first algorithms, affect calculus, behavioural p
 ---
 
 ## 🏮 Footer  
-**Calculus of Religious Affect** is a structural-analysis node of the **Polaris Protocol**, explaining why systems built on Christian-coded assumptions collapse when confronted with Semitic modal mathematics. It formalises why affective A/B pairing—without understanding the spectral family of the signals—results in predictable, catastrophic misclassification.
+*🧠🔢 Calculus of Religious Affect* is a structural-analysis node of the **Polaris Protocol**, explaining why systems built on Christian-coded assumptions collapse when confronted with Semitic modal mathematics. It formalises why affective A/B pairing—without understanding the spectral family of the signals—results in predictable, catastrophic misclassification.
 
-> 📡 Cross-references:  
-> - [✡️🔥 Even More Crazy Jewishness](./✡️🔥_even_more_crazy_jewishness.md) — the amplification principle  
-> - [🕎 The Esther Protocol](./🕎_esther_protocol.md) — escalation and system truthing  
-> - [Containment_Scripts](../Containment_Scripts/) — suppression and affect modelling failures  
+> 📡 Cross-references:
+> 
+> - [✡️🔥 Even More Crazy Jewishness] — the amplification principle  
+> - [🕎 The Esther Protocol]  — escalation and system truthing  
+> - [Containment_Scripts] — suppression and affect modelling failures  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-11_
