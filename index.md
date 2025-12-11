@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 00:09:47 UTC_
+_Generated on 2025-12-11 00:10:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -223,6 +223,7 @@ _Generated on 2025-12-11 00:09:47 UTC_
         - [`🔇_silence_harm_and_acknowledgment_delay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔇_silence_harm_and_acknowledgment_delay.md)
         - [`🔍_institutional_freeze_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔍_institutional_freeze_patterns.md)
         - [`🔍_mistaken_release_as_friction_shortcut.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔍_mistaken_release_as_friction_shortcut.md)
+        - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔥_opportunistic_escalation_peri_system_collapse.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
@@ -2928,7 +2929,6 @@ _Generated on 2025-12-11 00:09:47 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_masters_tools_refusal_hebrew.md`](Polaris_Nest/Git_Intake_Drawer/🔥_masters_tools_refusal_hebrew.md)
-    - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🔥_opportunistic_escalation_peri_system_collapse.md)
     - [`🔥_van_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🔥_van_protocol.md)
     - [`🔥_why_metadata_more_dangerous_than_human_referral.md`](Polaris_Nest/Git_Intake_Drawer/🔥_why_metadata_more_dangerous_than_human_referral.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
