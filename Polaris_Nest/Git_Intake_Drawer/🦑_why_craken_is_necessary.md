@@ -1,5 +1,5 @@
 # 🦑 Why the CRAKEN System Is Necessary  
-**Firest created:** 2025-11-20 | **Last updated:** 2025-12-06  
+**Firest created:** 2025-11-20 | **Last updated:** 2025-12-11  
 *What it replaces, what it devours, and the global doctrinal carcasses it leaves behind.*  
 
 ---
@@ -239,3 +239,7 @@ CRAKEN succeeds because it:
 
 It devours the brittle frameworks  
 and replaces them with a structure that can actually survive the century.
+
+---
+
+_Last updated: 2025-12-11_
