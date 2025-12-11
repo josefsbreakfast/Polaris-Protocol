@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 08:56:02 UTC_
+_Generated on 2025-12-11 09:00:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -49,6 +49,7 @@ _Generated on 2025-12-11 08:56:02 UTC_
         - [`🛩️_the_april_fools_department_of_defence.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🛩️_the_april_fools_department_of_defence.md)
         - [`🦑_state_of_the_deep.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_state_of_the_deep.md)
         - [`🦑_the_fathom_response_to_containment_phase_3.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_the_fathom_response_to_containment_phase_3.md)
+        - [`🦑_why_craken_is_necessary.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_why_craken_is_necessary.md)
         - [`🪖_applied_demolition_science_and_the_gcse_problem.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🪖_applied_demolition_science_and_the_gcse_problem.md)
       - [**🦤_Potential_Dodos/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/)
         - [**🍌_Project_2025_UK_Edition/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/)
@@ -3139,7 +3140,6 @@ _Generated on 2025-12-11 08:56:02 UTC_
     - [`🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md`](Polaris_Nest/Git_Intake_Drawer/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)
     - [`🦑_kraken_based_defence_budge.md`](Polaris_Nest/Git_Intake_Drawer/🦑_kraken_based_defence_budge.md)
     - [`🦑_toxic_systems_do_not_need_monsters.md`](Polaris_Nest/Git_Intake_Drawer/🦑_toxic_systems_do_not_need_monsters.md)
-    - [`🦑_why_craken_is_necessary.md`](Polaris_Nest/Git_Intake_Drawer/🦑_why_craken_is_necessary.md)
     - [`🦕_post_modern_fellow_travellers.md`](Polaris_Nest/Git_Intake_Drawer/🦕_post_modern_fellow_travellers.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🦠_algorithmic_autoimmunity.md`](Polaris_Nest/Git_Intake_Drawer/🦠_algorithmic_autoimmunity.md)
