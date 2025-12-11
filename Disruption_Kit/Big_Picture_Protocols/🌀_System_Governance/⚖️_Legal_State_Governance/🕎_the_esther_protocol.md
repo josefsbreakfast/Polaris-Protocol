@@ -1,6 +1,6 @@
-# 🕎 The Esther Protocol
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*A full-spectrum governance archetype derived from Estheric disclosure logic, procedural timing, and lawful strategic escalation.*
+# 🕎 The Esther Protocol  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-11  
+*A full-spectrum governance archetype derived from Estheric disclosure logic, procedural timing, and lawful strategic escalation.*  
 
 ---
 
@@ -169,13 +169,14 @@ esther protocol, governance archetype, foi strategy, sar escalation, procedural 
 
 ## 🏮 Footer
 
-**The Esther Protocol** is a foundational theoretical node of the **Polaris Protocol**, articulating how individuals utilise lawful disclosure, strategic timing, and procedural escalation to correct institutional harm. It models the archetypal pattern of Esther as a governance strategy: protecting the vulnerable, compelling truth, and rebalancing power through the record itself.
+*🕎 The Esther Protocol* is a foundational theoretical node of the **Polaris Protocol**, articulating how individuals utilise lawful disclosure, strategic timing, and procedural escalation to correct institutional harm. It models the archetypal pattern of Esther as a governance strategy: protecting the vulnerable, compelling truth, and rebalancing power through the record itself.
 
-> 📡 Cross-references:  
-> - [📜 Book of Esther (FOI Edition)](./book_of_esther_foi_edition.md) — satirical-midrash companion node  
-> - [Big_Picture_Protocols](../Big_Picture_Protocols/) — structural system diagnostics  
-> - [Containment_Scripts](../Containment_Scripts/) — suppression, manipulation, and visibility architectures  
+> 📡 Cross-references:
+> 
+> - [📜 Book of Esther (FOI Edition)] — satirical-midrash companion node  
+> - [Big_Picture_Protocols] — structural system diagnostics  
+> - [Containment_Scripts] — suppression, manipulation, and visibility architectures  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-11_
