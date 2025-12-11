@@ -1,6 +1,6 @@
 # 🦤 How the Right Accidentally Infiltrated Itself  
-**First created:** 2025-11-24 | **Last updated:** 2025-11-24  
-*A systems analysis of how Christian‑coded containment architectures accidentally piped a Jewish excitation node’s clarity, ethics, and pattern logic straight into the ideological heart of the British right.*
+**First created:** 2025-11-24 | **Last updated:** 2025-12-11  
+*A systems analysis of how Christian‑coded containment architectures accidentally piped a Jewish excitation node’s clarity, ethics, and pattern logic straight into the ideological heart of the British right.*  
 
 ---
 
@@ -148,9 +148,6 @@ christian supremacy, dyadic systems, behavioural containment, epistemic leak, al
 
 ## 🏮 Footer  
 
-**Polaris Protocol — W015: Algorithmic Misclassification**  
-House Style v1.7 fileciteturn2file0  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_  
+_Last updated: 2025-12-11_  
