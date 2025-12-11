@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:03:45 UTC_
+_Generated on 2025-12-11 23:04:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2728,6 +2728,7 @@ _Generated on 2025-12-11 23:03:45 UTC_
       - [`💥_solidarity_induced_model_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/💥_solidarity_induced_model_failure.md)
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`📥_entry_point_abuse_in_automated_datasets.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md)
+      - [`🔮_semantic_loops_and_authority_breaks.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🔮_semantic_loops_and_authority_breaks.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🦤_signal_collapse.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🦤_signal_collapse.md)
@@ -3048,7 +3049,6 @@ _Generated on 2025-12-11 23:03:45 UTC_
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
     - [`🔦_prevent_targeting_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🔦_prevent_targeting_black_hole.md)
     - [`🔮_predictive_containment_and_emergent_friction.md`](Polaris_Nest/Git_Intake_Drawer/🔮_predictive_containment_and_emergent_friction.md)
-    - [`🔮_semantic_loops_and_authority_breaks.md`](Polaris_Nest/Git_Intake_Drawer/🔮_semantic_loops_and_authority_breaks.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🔱_god_as_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🔱_god_as_plurality.md)
     - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Polaris_Nest/Git_Intake_Drawer/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
