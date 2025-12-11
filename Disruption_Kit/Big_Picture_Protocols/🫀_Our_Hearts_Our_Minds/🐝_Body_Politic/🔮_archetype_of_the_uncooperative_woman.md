@@ -1,5 +1,5 @@
 # 🔮 Archetype of the Uncooperative Woman
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
 *How women — especially racialised women — are cast as resistant, difficult, or non-compliant when they simply assert autonomy.*
 
 ---
@@ -229,4 +229,5 @@ It identifies one of the most persistent tools of gendered and racialised contai
 > - 🛂 Misuse of Safeguarding Through Gendered Prejudice  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-12-11_
