@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:49:57 UTC_
+_Generated on 2025-12-11 10:52:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1035,6 +1035,7 @@ _Generated on 2025-12-11 10:49:57 UTC_
         - [`🧿_diaspora_disclosure_tactics.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)
         - [`🧿_jailbreaking_and_ai.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_jailbreaking_and_ai.md)
         - [`🪞_fanon_and_the_algorithmic_unconscious.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪞_fanon_and_the_algorithmic_unconscious.md)
+        - [`🪞_the_polite_othering.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪞_the_polite_othering.md)
         - [`🪦_mass_funeral_as_information_control.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪦_mass_funeral_as_information_control.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
@@ -3489,7 +3490,6 @@ _Generated on 2025-12-11 10:49:57 UTC_
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
     - [`🪞_the_i_got_got_moment.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_i_got_got_moment.md)
-    - [`🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
