@@ -1,5 +1,5 @@
 # 🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-12-11  
 *Why ethical refusal inside the private-intelligence industry is structurally impossible — and how that impossibility is designed.*  
 
 ---
@@ -134,14 +134,15 @@ whistleblowing, para-intelligence, private intelligence, official secrets act, n
 ---
 
 ## 🏮 Footer  
-*Whistleblowing and Entrapment in the Para-Intelligence Economy* is a living node of the Polaris Protocol.  
+*🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy* is a living node of the Polaris Protocol.  
 It documents how secrecy and contract law combine to criminalise conscience and how reform could re-engineer accountability.  
 
-> 📡 Cross-references:  
-> - [🕸️ Interlocking Influence Economy](./🕸️_interlocking_influence_economy.md) — structural networks of influence  
-> - [⚖️ Citizen Recourse: Private Surveillance in the UK](./⚖️_citizen_recourse_private_surveillance_uk.md) — civic response mechanisms  
-> - [🧩 Risk Industries and Custody Failure](../🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md) — systemic opacity across sectors  
+> 📡 Cross-references:
+> 
+> - [🕸️ Interlocking Influence Economy] — structural networks of influence  
+> - [⚖️ Citizen Recourse: Private Surveillance in the UK] — civic response mechanisms  
+> - [🧩 Risk Industries and Custody Failure] — systemic opacity across sectors  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2025-12-11_
