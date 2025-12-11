@@ -69,3 +69,5 @@ so obviously that failed several uploads.
 this is just every day, and i'm supposed to not be stressed about any of it.  
 
 ---
+
+standard, large sites now need cloudflare verification. boring boring.  
