@@ -1,6 +1,6 @@
 # 🪞 Mirror Ideologies — Future-Worship vs Nostalgia-Fascism  
-**First created:** 2025-11-22  |  **Last updated:** 2025-11-22  
-*A micro-node describing the dual ideological poles that sustain authoritarian drift.*
+**First created:** 2025-11-22  |  **Last updated:** 2025-12-11  
+*A micro-node describing the dual ideological poles that sustain authoritarian drift.*  
 
 ---
 
@@ -105,13 +105,13 @@ future-worship, nostalgia-fascism, mirror ideologies, accelerationism, restorati
 *🪞 Mirror Ideologies — Future-Worship vs Nostalgia-Fascism* is a living micro-node of the Polaris Protocol.  
 It provides a reusable theoretical axis for understanding how opposing narratives produce identical containment outcomes.
 
-> 📡 Cross-references:  
-> - [🧭 Are We Fascist Yet?](🧭_are_we_fascist_yet.md) — UK gradient diagnostic  
-> - [⚖️ Above the Law — Protofascism Threshold](⚖️_above_the_law_protofascism_threshold.md) — legal and economic immunity map  
-> - [🧾 Case Study — Keir Starmer](Case_Study_Keir_Starmer.md) — perception and data politics  
-> - [🧩 Civic SAR Avalanche Method](🧩_civic_sar_avalanche_method.md) — collective enforcement  
-> - [🛰️ FOI–SAR Dual Audit Protocol](🛰️_foi_sar_dual_audit_protocol.md) — transparency infrastructure  
+> 📡 Cross-references:
+> 
+> - [🧭 Are We Fascist Yet?] — UK gradient diagnostic  
+> - [⚖️ Above the Law — Protofascism Threshold] — legal and economic immunity map  
+> - [🧩 Civic SAR Avalanche Method] — collective enforcement  
+> - [🛰️ FOI–SAR Dual Audit Protocol] — transparency infrastructure  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-11_
