@@ -1,6 +1,6 @@
 # 🔮 Predictive Containment and Emergent Friction  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*How automated systems learn to separate humans whose contact might generate uncertainty.*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-11  
+*How automated systems learn to separate humans whose contact might generate uncertainty.*  
 
 ---
 
@@ -62,8 +62,8 @@ predictive analytics, containment, emergent behaviour, volatility, algorithmic i
 ---
 
 ## 🏮 Footer  
-*Predictive Containment and Emergent Friction* reframes algorithmic suppression as risk-aversion physics:  
+*🔮 Predictive Containment and Emergent Friction* reframes algorithmic suppression as risk-aversion physics:  
 when uncertainty is expensive, curiosity looks like threat.  
 The task of governance is to make room for the improbable.
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-11_
