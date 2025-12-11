@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:34:02 UTC_
+_Generated on 2025-12-11 23:35:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -779,6 +779,7 @@ _Generated on 2025-12-11 23:34:02 UTC_
         - [`🔥_the_witchings_of_europe.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔥_the_witchings_of_europe.md)
         - [`🔮_post_chaos_governance_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔮_post_chaos_governance_archetypes.md)
         - [`🔮_the_sensible_adult_archetype.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔮_the_sensible_adult_archetype.md)
+        - [`🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
@@ -3053,7 +3054,6 @@ _Generated on 2025-12-11 23:34:02 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md)
     - [`🕍_jewish_trauma_literacy_for_non_jewish_audiences.md`](Polaris_Nest/Git_Intake_Drawer/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)
     - [`🕍_shared_language_for_shared_warnings.md`](Polaris_Nest/Git_Intake_Drawer/🕍_shared_language_for_shared_warnings.md)
     - [`🕎_esther_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🕎_esther_protocol.md)
