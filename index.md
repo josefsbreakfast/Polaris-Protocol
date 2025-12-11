@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:22:50 UTC_
+_Generated on 2025-12-11 10:24:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -398,6 +398,7 @@ _Generated on 2025-12-11 10:22:50 UTC_
           - [`🍷_why_rabbinic_judaism_is_anticapitalist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_why_rabbinic_judaism_is_anticapitalist.md)
           - [`🏛️_welcome_to_western_imperialism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)
           - [`👑_projection_esther.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/👑_projection_esther.md)
+          - [`🕯️_kabbalah_interlock_strength.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_kabbalah_interlock_strength.md)
           - [`🕯️_kol_nidre_and_european_viral_ignorance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_kol_nidre_and_european_viral_ignorance.md)
           - [`🕯️_shabbat_is_anticapitalist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
           - [`🛰️_alrgorithmic_judaisms.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🛰️_alrgorithmic_judaisms.md)
@@ -3031,7 +3032,6 @@ _Generated on 2025-12-11 10:22:50 UTC_
     - [`🕎_regional_business_sensitivity_matrix_doc-r22-a.md`](Polaris_Nest/Git_Intake_Drawer/🕎_regional_business_sensitivity_matrix_doc-r22-a.md)
     - [`🕯_the_audit_log_does_not_sleep.md`](Polaris_Nest/Git_Intake_Drawer/🕯_the_audit_log_does_not_sleep.md)
     - [`🕯️_crash_sites_as_temporal_loops.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_crash_sites_as_temporal_loops.md)
-    - [`🕯️_kabbalah_interlock_strength.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_kabbalah_interlock_strength.md)
     - [`🕯️_prevent_and_the_encampment_silence.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_prevent_and_the_encampment_silence.md)
     - [`🕯️_survivor_visibility_and_risk_aversion.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_survivor_visibility_and_risk_aversion.md)
     - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
