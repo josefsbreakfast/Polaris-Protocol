@@ -1,6 +1,6 @@
 # 🦆 UI Glitch as Psychological Event  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*When an interface malfunction becomes a cognitive, emotional, or narrative disturbance.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
+*When an interface malfunction becomes a cognitive, emotional, or narrative disturbance.*  
 
 ---
 
@@ -100,9 +100,10 @@ ui glitch, digital weirdness, interface anomalies, cognitive load, ambient paran
 ## 🏮 Footer  
 *🦆 UI Glitch as Psychological Event* is a living node of the **Polaris Protocol**, documenting how interface disruptions function as emotional, cognitive, and narrative events — not mere bugs.
 
-> 📡 Cross-references:  
-> - [🖥 Interface Glitches](../Weirdness_Screening/🖥_Interface_Glitches/) — device-level anomalies  
-> - [🪖 Home Front 2.0](../Digital_Disruption/🪖_Home_Front_2.0/) — system trust and domestic digital strain  
+> 📡 Cross-references:
+> 
+> - [🖥 Interface Glitches] — *device-level anomalies*  
+> - [🪖 Home Front 2.0] — *system trust and domestic digital strain*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-11_
