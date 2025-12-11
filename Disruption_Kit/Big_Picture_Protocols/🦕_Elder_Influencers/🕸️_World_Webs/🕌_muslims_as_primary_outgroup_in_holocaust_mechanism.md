@@ -1,6 +1,6 @@
 # 🕌 Muslims as Primary Outgroup in Holocaust Mechanism  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Why contemporary fascist patterning centres Muslims, with antisemitism acting as connective tissue.*
+**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
+*Why contemporary fascist patterning centres Muslims, with antisemitism acting as connective tissue.*  
 
 ---
 
@@ -48,10 +48,11 @@ islamophobia, holocaust mechanism, replacement theory, demographic panic, antise
 *🕌 Muslims as Primary Outgroup in Holocaust Mechanism* is a living node of the Polaris Protocol.  
 It maps the contemporary relocation of Holocaust-adjacent elimination patterns onto Muslims and other marginalised groups.
 
-> 📡 Cross-references:  
-> - [✡️ Holocaust Prelude as Systemic Collapse](../✡️_holocaust_prelude_as_systemic_collapse.md)  
-> - [🩸 Mimicry of Blood Libel](../🩸_mimicry_of_blood_libel.md)
+> 📡 Cross-references:
+> 
+> - [✡️ Holocaust Prelude as Systemic Collapse]  
+> - [🩸 Mimicry of Blood Libel]
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-11_
