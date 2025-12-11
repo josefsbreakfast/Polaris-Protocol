@@ -1,6 +1,6 @@
 # 🧠 Behavioural Nudge as Containment  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
-*When “support” is routing and “choice” is capture.*
+**First created:** 2025-10-30 | **Last updated:** 2025-12-11  
+*When “support” is routing and “choice” is capture.*  
 
 ---
 
@@ -33,4 +33,4 @@ behavioural insights, prevent, choice architecture, placement, lexical mimicry
 ## 🏮 Footer  
 *🧠 Behavioural Nudge as Containment* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-30_
+_Last updated: 2025-12-11_
