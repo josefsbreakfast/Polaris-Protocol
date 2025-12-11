@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:11:59 UTC_
+_Generated on 2025-12-11 09:12:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2736,6 +2736,7 @@ _Generated on 2025-12-11 09:11:59 UTC_
       - [`🗺️_containment_fingerprint_atlas.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🗺️_containment_fingerprint_atlas.md)
       - [`🤖_british_english_cannot_be_translated.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_british_english_cannot_be_translated.md)
       - [`🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md)
+      - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🦤_how_the_right_accidentally_infiltrated_itself.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🧭_visual_glossary_containment_pulse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md)
       - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
@@ -3146,7 +3147,6 @@ _Generated on 2025-12-11 09:11:59 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
-    - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Polaris_Nest/Git_Intake_Drawer/🦤_how_the_right_accidentally_infiltrated_itself.md)
     - [`🦤_nazi_nuclear_homeopathy_science.md`](Polaris_Nest/Git_Intake_Drawer/🦤_nazi_nuclear_homeopathy_science.md)
     - [`🦮_who_authorises_animal_interventions_uk.md`](Polaris_Nest/Git_Intake_Drawer/🦮_who_authorises_animal_interventions_uk.md)
     - [`🦴_the_anatomy_of_male_emotional_starvation.md`](Polaris_Nest/Git_Intake_Drawer/🦴_the_anatomy_of_male_emotional_starvation.md)
