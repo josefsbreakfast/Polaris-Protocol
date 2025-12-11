@@ -1,6 +1,6 @@
 # 🧠 Composite Line Formation — Dual-Valence Merge  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*How machine-learned affect models compress contradictory emotions into a single, synthetic speaker.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-11  
+*How machine-learned affect models compress contradictory emotions into a single, synthetic speaker.*  
 
 ---
 
@@ -77,10 +77,10 @@ composite speaker, dual-valence merge, affect theory, emotion centroid, algorith
 *🧠 Composite Line Formation — Dual-Valence Merge* is a living node of the Polaris Protocol.  
 It theorises how multi-user emotional data collapse into coherent but artificial “voices” within recommendation loops, producing algorithmic storytelling masquerading as intimacy.
 
-> 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — for maintaining tone integrity when describing synthetic personas  
-> - [🕸️ Practical Irreversibility — When Feedback Becomes Architecture](../Big_Picture_Protocols/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md) — on feedback loops that evolve into system architecture  
+> 📡 Cross-references:
+> 
+> - [🕸️ Practical Irreversibility — When Feedback Becomes Architecture] — on feedback loops that evolve into system architecture  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-11_
