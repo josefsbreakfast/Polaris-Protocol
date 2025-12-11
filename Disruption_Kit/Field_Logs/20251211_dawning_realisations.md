@@ -4,9 +4,9 @@ in other news i have to explain this to a mh eip liaison next week. shit. 🤣
 
 swings and roundabouts idk.  
 
-better news: we did not get called to court over the amount of tax, therefore the council may have actually found the weordness that also keeps cancelling my bin collection, and my post, and may be doing goodness knows what and getting me sucked into someone's prevent grid.  
+better news: we did not get called to court over the amount of tax, therefore the council may have actually found the weirdness that also keeps cancelling my bin collection, and my post, and may be doing goodness knows what and getting me sucked into someone's prevent grid.  
 
-i only listen to stories about cults because i need that level of absurdity to ignore my leg that feels like it is cinstantly actually on fire. 🤣🤣🤣  
+i only listen to stories about cults because i need that level of absurdity to ignore my leg that feels like it is constantly actually on fire. 🤣🤣🤣  
 
 also waiting for the uni to puzzle out why i was taken off course and why i was brought back early, so looking for more data.  
 
