@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:43:53 UTC_
+_Generated on 2025-12-11 09:45:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2705,6 +2705,7 @@ _Generated on 2025-12-11 09:43:53 UTC_
       - [`📡_provenance_chain_audit.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📡_provenance_chain_audit.md)
       - [`🔗_engagement_spillover_how_one_post_creates_a_niche.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🔗_engagement_spillover_how_one_post_creates_a_niche.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
+      - [`🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md)
       - [`🧩_human_computation_games_the_puzzle_economy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
@@ -3181,7 +3182,6 @@ _Generated on 2025-12-11 09:43:53 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_behavioural_shadow_modelling.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_shadow_modelling.md)
     - [`🧠_bureaucratic_fast_thinking_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧠_bureaucratic_fast_thinking_harm.md)
     - [`🧠_charism_as_coercion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_charism_as_coercion.md)
     - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Polaris_Nest/Git_Intake_Drawer/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
