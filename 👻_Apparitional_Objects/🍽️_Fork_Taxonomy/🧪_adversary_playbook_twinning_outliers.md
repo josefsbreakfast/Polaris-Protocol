@@ -1,5 +1,7 @@
 # 🧪 Adversary Playbook: Twinning Outliers  
-**First created:** 2025-09-07 | **Last updated:** 2025-09-07  
+**First created:** 2025-09-07 | **Last updated:** 2025-12-11  
+
+---
 
 This note describes how an adversary would identify and pair (“twin”) outlier individuals so that their testimonies neutralise each other.
 
