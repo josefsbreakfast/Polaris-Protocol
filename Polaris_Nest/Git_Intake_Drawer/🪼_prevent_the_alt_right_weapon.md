@@ -1,6 +1,6 @@
 # 🪼 Prevent: The Alt-Right Weapon  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How Prevent enables domestic authoritarian actors to neutralise political opponents and shape the national information climate.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
+*How Prevent enables domestic authoritarian actors to neutralise political opponents and shape the national information climate.*  
 
 ---
 
@@ -154,12 +154,13 @@ prevent, alt-right, domestic extremism, political weaponisation, metadata sabota
 It documents how Prevent’s architecture enables domestic authoritarian actors to engage in political suppression, narrative distortion, and institutional neutralisation under the cover of safeguarding.
 
 > 📡 Cross-references:
-> - [🈺 Governance & Prevent](../Metadata_Sabotage_Network/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/) — system architecture  
-> - [🧿 Targeting Logic Metadata Signatures](../Metadata_Sabotage_Network/🦒_Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/) — ideological patterning  
-> - [🪆 Narrative Interference](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/) — story manipulation tactics  
-> - [🧠 Psychological Containment](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🧠_Psychological_Containment/) — attrition, fatigue, and fear loops  
-> - [🧟‍♀️ Frankenstack Bytes](../Metadata_Sabotage_Network/🧟‍♀️_Frankenstack_Bytes/) — systemic distortions and overreach  
+> 
+> - [🈺 Governance & Prevent] — *system architecture*  
+> - [🧿 Targeting Logic Metadata Signatures] — *ideological patterning*  
+> - [🪆 Narrative Interference] — *story manipulation tactics*  
+> - [🧠 Psychological Containment] — *attrition, fatigue, and fear loops*  
+> - [🧟‍♀️ Frankenstack Bytes] — *systemic distortions and overreach*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-11_
