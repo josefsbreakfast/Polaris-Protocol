@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:45:08 UTC_
+_Generated on 2025-12-11 10:47:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2408,6 +2408,9 @@ _Generated on 2025-12-11 10:45:08 UTC_
   - [**🔖_Tag_Pack/**](Disruption_Kit/🔖_Tag_Pack/)
     - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
+  - [**🦆_Digital_Disruption/**](Disruption_Kit/🦆_Digital_Disruption/)
+    - [**🪖_Home_Front_2.0/**](Disruption_Kit/🦆_Digital_Disruption/🪖_Home_Front_2.0/)
+      - [`🪢_re_embodied_dialogue_and_civic_presence.md`](Disruption_Kit/🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -3487,7 +3490,6 @@ _Generated on 2025-12-11 10:45:08 UTC_
     - [`🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_polite_othering_philo_semitism_as_structural_antisemitism.md)
     - [`🪞_why_twinning_agreements_break.md`](Polaris_Nest/Git_Intake_Drawer/🪞_why_twinning_agreements_break.md)
     - [`🪢_hygienic_cut.md`](Polaris_Nest/Git_Intake_Drawer/🪢_hygienic_cut.md)
-    - [`🪢_reembodie_civics.md`](Polaris_Nest/Git_Intake_Drawer/🪢_reembodie_civics.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
