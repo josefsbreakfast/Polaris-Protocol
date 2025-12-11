@@ -1,6 +1,6 @@
 # 🩸 Ideological Skinwalkers  
-**First created:** 2025-10-23  |  **Last updated:** 2025-11-14  
-*When conviction becomes costume.*
+**First created:** 2025-10-23  |  **Last updated:** 2025-12-11  
+*When conviction becomes costume.*  
 
 ---
 
@@ -171,10 +171,10 @@ It documents the late-modern shift from ideological conflict to aesthetic mimicr
 
 > 📡 Cross-references:
 > 
->  - [🪄 Expression of Norms](../Big_Picture_Protocols/🪄_Expression_Of_Norms/) — *compliance culture & media choreography*  
->  - [🦕 Elder Influencers → 🕸️ World Webs](../Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/) — *networked legacy power*  
->  - [🧿 Watch the Watchers](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/) — *optics of authority*  
+>  - [🪄 Expression of Norms] — *compliance culture & media choreography*  
+>  - [🦕 Elder Influencers → 🕸️ World Webs] — *networked legacy power*  
+>  - [🧿 Watch the Watchers] — *optics of authority*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-11_
