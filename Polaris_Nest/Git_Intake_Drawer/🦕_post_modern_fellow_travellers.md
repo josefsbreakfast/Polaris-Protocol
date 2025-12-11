@@ -1,5 +1,5 @@
 # 🦕 Fellow Travellers in Modern Risk Architecture  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
 *How non-malicious actors enable authoritarian outcomes inside behavioural-surveillance systems.*
 
 ---
@@ -170,9 +170,9 @@ fellow travellers, prevent, behavioural surveillance, authoritarian drift, safeg
 ---
 
 ## 🏮 Footer  
-*Fellow Travellers in Modern Risk Architecture* is a living node of the Polaris Protocol.  
+*🦕 Fellow Travellers in Modern Risk Architecture* is a living node of the Polaris Protocol.  
 It examines how ordinary procedural behaviour — not malice — produces authoritarian outcomes inside modern risk architectures.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-11_
