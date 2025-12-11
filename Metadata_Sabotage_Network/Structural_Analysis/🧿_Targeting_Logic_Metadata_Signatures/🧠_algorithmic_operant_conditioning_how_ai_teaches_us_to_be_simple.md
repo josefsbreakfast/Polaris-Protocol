@@ -1,6 +1,6 @@
 # 🧠 Algorithmic Operant Conditioning: How AI Teaches Us to Be Simple  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
-*How moderation, risk-flagging, and “trust and safety” metrics reward banality and punish nuance.*
+**First created:** 2025-11-06 | **Last updated:** 2025-12-11  
+*How moderation, risk-flagging, and “trust and safety” metrics reward banality and punish nuance.*  
 
 ---
 
@@ -81,10 +81,6 @@ Every time a model punishes ambiguity, it automates the politics of fear.
 
 ## 🌌 Constellations  
 🧿 🎶 🧠 🕵️‍♂️ — Part of the *Cultural Semiotics under Surveillance* constellation.  
-Cross-links:  
-- [🕵️‍♂️ OSS 117 and the Operational Cost of Cultural Ignorance](./🕵️‍♂️_OSS117_operational_cost_of_cultural_ignorance.md)  
-- [🪇 Korobeiniki Misread as Signal](./🪇_korobeiniki_misread_as_signal.md)  
-- [🎛️ Pocket Rules — Survivor Voice Fidelity](../../Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md)
 
 ---
 
@@ -94,13 +90,15 @@ AI ethics, operant conditioning, behavioural economics, media literacy, Prevent,
 ---
 
 ## 🏮 Footer  
-*Algorithmic Operant Conditioning: How AI Teaches Us to Be Simple* is a living node of the Polaris Protocol.  
+*🧠 Algorithmic Operant Conditioning: How AI Teaches Us to Be Simple* is a living node of the Polaris Protocol.  
 It documents how digital architectures reward obedience and penalise complexity — teaching humans to imitate the systems that misunderstand them.  
 
-> 📡 Cross-references  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [Big Picture Protocols](../) — systemic misclassification analyses  
+> 📡 Cross-references
+> Cross-links:  
+- [🕵️‍♂️ OSS 117 and the Operational Cost of Cultural Ignorance](./🕵️‍♂️_OSS117_operational_cost_of_cultural_ignorance.md)  
+- [🪇 Korobeiniki Misread as Signal](./🪇_korobeiniki_misread_as_signal.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-11_
