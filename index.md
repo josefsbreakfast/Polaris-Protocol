@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:12:38 UTC_
+_Generated on 2025-12-11 09:13:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -513,6 +513,7 @@ _Generated on 2025-12-11 09:12:38 UTC_
         - [**🦇_Background_Weirdness/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/README.md)
           - [`🎩_edwardian_occult_as_live_action_privilege.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/🎩_edwardian_occult_as_live_action_privilege.md)
+          - [`🦤_nazi_nuclear_homeopathy_science.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/🦤_nazi_nuclear_homeopathy_science.md)
         - [**🧊_Conspiracy_Icebergs/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/README.md)
           - [`⚪_the_great_replacement.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/⚪_the_great_replacement.md)
@@ -3147,7 +3148,6 @@ _Generated on 2025-12-11 09:12:38 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
-    - [`🦤_nazi_nuclear_homeopathy_science.md`](Polaris_Nest/Git_Intake_Drawer/🦤_nazi_nuclear_homeopathy_science.md)
     - [`🦮_who_authorises_animal_interventions_uk.md`](Polaris_Nest/Git_Intake_Drawer/🦮_who_authorises_animal_interventions_uk.md)
     - [`🦴_the_anatomy_of_male_emotional_starvation.md`](Polaris_Nest/Git_Intake_Drawer/🦴_the_anatomy_of_male_emotional_starvation.md)
     - [`🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md`](Polaris_Nest/Git_Intake_Drawer/🧃_from_jetsons_to_jailbroken_the_domestic_turn_of_surveillance_capitalism.md)
