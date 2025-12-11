@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 11:03:35 UTC_
+_Generated on 2025-12-11 11:05:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2433,6 +2433,7 @@ _Generated on 2025-12-11 11:03:35 UTC_
       - [`💸_the_cost_of_a_closed_mouth.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md)
       - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)
       - [`📠_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📠_when_truth_becomes_a_trade.md)
+      - [`🕳️_when_the_censor_is_a_contractor.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md)
       - [`🕸️_dragnet_as_default.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_dragnet_as_default.md)
       - [`🚨_prevent_as_contractual_silence.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🚨_prevent_as_contractual_silence.md)
       - [`🧱_silence_stack_trace.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧱_silence_stack_trace.md)
@@ -3069,7 +3070,6 @@ _Generated on 2025-12-11 11:03:35 UTC_
     - [`🕳️_the_channel_panel_problem.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_channel_panel_problem.md)
     - [`🕳️_the_grievance_sinkhole.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_grievance_sinkhole.md)
     - [`🕳️_the_shape_of_missing_historical_nodes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_shape_of_missing_historical_nodes.md)
-    - [`🕳️_when_the_censor_is_a_contractor.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_when_the_censor_is_a_contractor.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
     - [`🕷️_misuse_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_misuse_resilience.md)
