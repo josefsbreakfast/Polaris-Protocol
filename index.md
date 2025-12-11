@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:22:50 UTC_
+_Generated on 2025-12-11 09:23:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2784,6 +2784,7 @@ _Generated on 2025-12-11 09:22:50 UTC_
       - [`🧿_empathy_risk_classifier_satire_maybe.yaml.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_empathy_risk_classifier_satire_maybe.yaml.md)
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
       - [`🪞_algorithmic_reframing.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪞_algorithmic_reframing.md)
+      - [`🪼_racialised_dual_attribution.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_racialised_dual_attribution.md)
       - [`🪼_when_data_pretends_to_be_meaning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_when_data_pretends_to_be_meaning.md)
       - [`🫠_projection_leak_signature.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫠_projection_leak_signature.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
@@ -3491,7 +3492,6 @@ _Generated on 2025-12-11 09:22:50 UTC_
     - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Polaris_Nest/Git_Intake_Drawer/🪫_why_we_cannot_know_who_prevent_targets.md)
     - [`🪶_language_as_smuggled_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🪶_language_as_smuggled_plurality.md)
     - [`🪼_prevent_the_alt_right_weapon.md`](Polaris_Nest/Git_Intake_Drawer/🪼_prevent_the_alt_right_weapon.md)
-    - [`🪼_racialised_dual_attrition.md`](Polaris_Nest/Git_Intake_Drawer/🪼_racialised_dual_attrition.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
