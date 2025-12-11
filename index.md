@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:52:28 UTC_
+_Generated on 2025-12-11 10:53:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -302,6 +302,7 @@ _Generated on 2025-12-11 10:52:28 UTC_
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🦇_how_many_words_to_fell_an_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦇_how_many_words_to_fell_an_industry.md)
+        - [`🪞_the_i_got_got_moment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_i_got_got_moment.md)
         - [`🫁_oxygen_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫁_oxygen_and_oversight.md)
         - [`🫖_velvet_containment_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫖_velvet_containment_machine.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
@@ -3489,7 +3490,6 @@ _Generated on 2025-12-11 10:52:28 UTC_
     - [`🪞_mirror_logic_of_concern.md`](Polaris_Nest/Git_Intake_Drawer/🪞_mirror_logic_of_concern.md)
     - [`🪞_the_emperors_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_emperors_dashboard.md)
     - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
-    - [`🪞_the_i_got_got_moment.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_i_got_got_moment.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
