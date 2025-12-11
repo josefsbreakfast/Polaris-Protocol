@@ -1,5 +1,5 @@
 # 🧩 Human Computation Games — The Puzzle Economy
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-12-11  
 *How play became labour and verification became extraction.*
 
 ---
@@ -46,9 +46,10 @@ human computation, captcha, puzzle economy, data extraction, consent laundering,
 *🧩 Human Computation Games — The Puzzle Economy* is a living node of the Polaris Protocol.  
 It maps the conversion of micro-attention into training data and the moral erasure of labour behind “fun.”  
 
-> 📡 Cross-references:  
-> - [🧮 Data Dividend — The Unpaid Labour of Verification](../Legal_&_State_Governance/🧮_data_dividend_unpaid_labour_of_verification.md)  
-> - [🧩 CAPTCHA Loop — Containment Disguised as Verification](../Metadata_Sabotage_Network/🍄_Suppression_Layers/🔮_captcha_loop_containment_disguised_as_verification.md)
+> 📡 Cross-references:
+> 
+> - [🧮 Data Dividend — The Unpaid Labour of Verification]  
+> - [🧩 CAPTCHA Loop — Containment Disguised as Verification]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-11_
