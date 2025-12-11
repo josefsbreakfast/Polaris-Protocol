@@ -1,7 +1,6 @@
-# 🏮 Fork Taxonomy Index
-
-**First created:** 2025-08-11 | **Last updated:** 2025-09-12 <br>
-*A Polaris Protocol reference node mapping behavioural forks and clone modes.*
+# 🍽️ Fork Taxonomy Index  
+**First created:** 2025-08-11 | **Last updated:** 2025-12-11  
+*A Polaris Protocol reference node mapping behavioural forks and clone modes.*  
 
 ---
 
@@ -50,4 +49,4 @@ This index maps containment forks and clone behaviours into a structured taxonom
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-09-12_
+_Last updated: 2025-12-11_
