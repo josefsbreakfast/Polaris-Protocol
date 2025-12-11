@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 05:07:40 UTC_
+_Generated on 2025-12-11 05:10:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1072,6 +1072,7 @@ _Generated on 2025-12-11 05:07:40 UTC_
         - [`💰_resolving_the_fear_of_the_poor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💰_resolving_the_fear_of_the_poor.md)
         - [`📚_class_coded_literacy_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/📚_class_coded_literacy_patterns.md)
         - [`🔥_femme_firewall_fatale.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔥_femme_firewall_fatale.md)
+        - [`🔮_archetype_of_the_uncooperative_woman.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔮_archetype_of_the_uncooperative_woman.md)
         - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
         - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
         - [`🧩_mixed_gender_sociality_as_antidote.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_mixed_gender_sociality_as_antidote.md)
@@ -2962,7 +2963,6 @@ _Generated on 2025-12-11 05:07:40 UTC_
     - [`🔥_your_emotional_campfire_care_kit.md`](Polaris_Nest/Git_Intake_Drawer/🔥_your_emotional_campfire_care_kit.md)
     - [`🔦_prevent_targeting_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🔦_prevent_targeting_black_hole.md)
     - [`🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md`](Polaris_Nest/Git_Intake_Drawer/🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md)
-    - [`🔮_archetype_of_the_uncooperative_woman.md`](Polaris_Nest/Git_Intake_Drawer/🔮_archetype_of_the_uncooperative_woman.md)
     - [`🔮_daylight_effects_in_governance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🔮_daylight_effects_in_governance_systems.md)
     - [`🔮_post_chaos_governance_archetypes.md`](Polaris_Nest/Git_Intake_Drawer/🔮_post_chaos_governance_archetypes.md)
     - [`🔮_post_legitimacy_landscape_2026_2030.md.md`](Polaris_Nest/Git_Intake_Drawer/🔮_post_legitimacy_landscape_2026_2030.md.md)
