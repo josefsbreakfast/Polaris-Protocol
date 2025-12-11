@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:24:13 UTC_
+_Generated on 2025-12-11 09:25:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3491,7 +3491,6 @@ _Generated on 2025-12-11 09:24:13 UTC_
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
     - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Polaris_Nest/Git_Intake_Drawer/🪫_why_we_cannot_know_who_prevent_targets.md)
-    - [`🪶_language_as_smuggled_plurality.md`](Polaris_Nest/Git_Intake_Drawer/🪶_language_as_smuggled_plurality.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
@@ -3846,6 +3845,7 @@ _Generated on 2025-12-11 09:24:13 UTC_
     - [`🗣️_why_euphemisms_matter.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🗣️_why_euphemisms_matter.md)
     - [`🧭_how_we_got_here.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [`🪩_cross_mirroring_sop.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🪩_cross_mirroring_sop.md)
+    - [`🪶_language_as_smuggled_plurality.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🪶_language_as_smuggled_plurality.md)
   - [**🧨_Counter_Nudge_Playbook/**](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/)
     - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
     - [`🌀_loop_mapping_station.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
