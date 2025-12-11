@@ -1,6 +1,6 @@
 # 🛰️ Moonshot CVE vs OpenAI — Prevention vs Platform  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
-*Actor-map of harm-prevention logic and platform-growth logic in the algorithmic governance ecosystem.*
+**First created:** 2025-11-06 | **Last updated:** 2025-12-11  
+*Actor-map of harm-prevention logic and platform-growth logic in the algorithmic governance ecosystem.*  
 
 ---
 
@@ -124,14 +124,14 @@ moonshot cve, openai, counter-extremism, ai safety, governance ecosystem, contai
 
 ## 🏮 Footer  
 
-*Moonshot CVE vs OpenAI — Prevention vs Platform* is a living node of the Polaris Protocol.  
+*🛰️ Moonshot CVE vs OpenAI — Prevention vs Platform* is a living node of the Polaris Protocol.  
 It maps opposing logics of harm prevention and model proliferation to clarify where governance, transparency, and survivor-centred accountability must evolve.
 
-> 📡 Cross-references:  
-> - [⚖️ AI Black Box Inquests](../Disruption_Kit/Big_Picture_Protocols/⚖️_ai_black_box_inquests.md) — forensic framework for post-incident inquiry  
-> - [⚖️ Containment Contract Trace](../Disruption_Kit/Big_Picture_Protocols/⚖️_containment_contract_trace.md) — systemic analysis of governance tension  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and undertone standard for survivor-centred writing  
+> 📡 Cross-references:
+> 
+> - [⚖️ AI Black Box Inquests] — forensic framework for post-incident inquiry  
+> - [⚖️ Containment Contract Trace] — systemic analysis of governance tension  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-11_
