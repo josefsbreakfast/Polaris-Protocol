@@ -1,6 +1,6 @@
-# 🕍 Shared Language for Shared Warnings — Why Atrocity Comparison Matters
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13  
-*How to talk about atrocity patterns without retraumatising Jewish communities — and without shutting down the analysis needed to prevent future violence.*
+# 🕍 Shared Language for Shared Warnings — Why Atrocity Comparison Matters  
+**First created:** 2025-11-13 | **Last updated:** 2025-12-11  
+*How to talk about atrocity patterns without retraumatising Jewish communities — and without shutting down the analysis needed to prevent future violence.*  
 
 ## 🛰️ Orientation
 This node examines the ethical, trauma-informed, and political tensions around comparing contemporary events with historical atrocities — particularly the Holocaust — and how the IHRA and JDA definitions approach (and sometimes mis-approach) this problem.
@@ -103,8 +103,8 @@ The JDA remains incomplete — but essential.
 ihra, jda, antisemitism, trauma-informed ethics, atrocity comparison, genocide prevention, holocaust discourse, analogy ethics, political misuse, academic freedom
 
 ## 🏮 Footer
-*Shared Language for Shared Warnings — Why Atrocity Comparison Matters* is a living node of the Polaris Protocol.  
+*🕍 Shared Language for Shared Warnings — Why Atrocity Comparison Matters* is a living node of the Polaris Protocol.  
 It restores the distinction between trauma protection and the analytic freedom required for genocide recognition and prevention.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-13_
+_Last updated: 2025-12-11_
