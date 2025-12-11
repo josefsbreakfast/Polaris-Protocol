@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:17:34 UTC_
+_Generated on 2025-12-11 10:20:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2519,6 +2519,7 @@ _Generated on 2025-12-11 10:17:34 UTC_
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
       - [`🧠_behavioral_reengagement_as_containment_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_reengagement_as_containment_loop.md)
+      - [`🧠_gendered_and_racialised_prevent_channel_misuse.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_gendered_and_racialised_prevent_channel_misuse.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
       - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪫_why_we_cannot_know_who_prevent_targets.md)
@@ -3196,7 +3197,6 @@ _Generated on 2025-12-11 10:17:34 UTC_
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
     - [`🧠_extracting_soul_from_prosocial_people.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extracting_soul_from_prosocial_people.md)
     - [`🧠_four_signature_differential_reality_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧠_four_signature_differential_reality_loops.md)
-    - [`🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🧠_gendered_racialised_prevent_and_channel_misuse_supernode.md)
     - [`🧠_how_bad_actors_incriminate_themselves.md`](Polaris_Nest/Git_Intake_Drawer/🧠_how_bad_actors_incriminate_themselves.md)
     - [`🧠_institutional_perception_no_win_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_perception_no_win_zone.md)
     - [`🧠_institutional_weather_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_weather_systems.md)
