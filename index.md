@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:09:43 UTC_
+_Generated on 2025-12-11 10:11:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2797,6 +2797,7 @@ _Generated on 2025-12-11 10:09:43 UTC_
       - [`🧠_cognitive_mirage_how_humans_justify_algorithmic_bias.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧠_cognitive_mirage_how_humans_justify_algorithmic_bias.md)
       - [`🧠_composite_line_formation_dual_valence_merge.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧠_composite_line_formation_dual_valence_merge.md)
       - [`🧠_diagnostic_visibility_conditioning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧠_diagnostic_visibility_conditioning.md)
+      - [`🧠_emotional_targeting.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧠_emotional_targeting.md)
       - [`🧪_testing_the_invisible_criteria.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧪_testing_the_invisible_criteria.md)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_empathy_risk_classifier_satire_maybe.yaml.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_empathy_risk_classifier_satire_maybe.yaml.md)
@@ -3189,7 +3190,6 @@ _Generated on 2025-12-11 10:09:43 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_emotional_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧠_emotional_targeting.md)
     - [`🧠_enemy_symmetry_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧠_enemy_symmetry_effects.md)
     - [`🧠_escalation_weather_map.md`](Polaris_Nest/Git_Intake_Drawer/🧠_escalation_weather_map.md)
     - [`🧠_extracting_soul_from_prosocial_people.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extracting_soul_from_prosocial_people.md)
