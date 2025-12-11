@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 11:15:53 UTC_
+_Generated on 2025-12-11 11:17:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2535,6 +2535,7 @@ _Generated on 2025-12-11 11:15:53 UTC_
       - [`🔥_metadata_vs_human_referral.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_metadata_vs_human_referral.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
       - [`🔮_uk_digital_id_risk_forecast.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)
+      - [`🕳️_the_channel_panel_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕳️_the_channel_panel_problem.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_gated_intake_post_delay_regional_loop.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
@@ -3070,7 +3071,6 @@ _Generated on 2025-12-11 11:15:53 UTC_
     - [`🕳️_never_really_leaving_child_abuse_britain_non_escape.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_never_really_leaving_child_abuse_britain_non_escape.md)
     - [`🕳️_routing_logic.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_routing_logic.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕳️_the_channel_panel_problem.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_channel_panel_problem.md)
     - [`🕳️_the_grievance_sinkhole.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_grievance_sinkhole.md)
     - [`🕳️_the_shape_of_missing_historical_nodes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_shape_of_missing_historical_nodes.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
