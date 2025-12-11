@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 00:26:12 UTC_
+_Generated on 2025-12-11 00:26:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3637,7 +3637,6 @@ _Generated on 2025-12-11 00:26:12 UTC_
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**Fork_Taxonomy/**](👻_Apparitional_Objects/Fork_Taxonomy/)
-    - [`🧪_adversary_playbook_twinning_outliers.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧪_adversary_playbook_twinning_outliers.md)
     - [`🧬_fork_clone_map.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_fork_clone_map.md)
     - [`🧬_voice_capture_triggers.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧬_voice_capture_triggers.md)
     - [`🧱_structural_reversion_ghost.md`](👻_Apparitional_Objects/Fork_Taxonomy/🧱_structural_reversion_ghost.md)
@@ -3664,6 +3663,7 @@ _Generated on 2025-12-11 00:26:12 UTC_
     - [`🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🦤_HL420_Doctor_Duchess_of_Data_Report_FinalSatire_master.md)
     - [`🧃_tiktok_twinning_petri_dish.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧃_tiktok_twinning_petri_dish.md)
     - [`🧠_behavioural_fork_traits_cross_matrix.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧠_behavioural_fork_traits_cross_matrix.md)
+    - [`🧪_adversary_playbook_twinning_outliers.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧪_adversary_playbook_twinning_outliers.md)
   - [**🎞️_Haunted_Artefacts_Catalogue/**](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/)
     - [`README.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/README.md)
     - [`🌙_sleep_sabotage.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🌙_sleep_sabotage.md)
