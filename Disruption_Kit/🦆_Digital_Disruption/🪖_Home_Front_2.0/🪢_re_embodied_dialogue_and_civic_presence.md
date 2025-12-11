@@ -1,6 +1,6 @@
 # 🪢 Re-Embodied Dialogue & Civic Presence  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*Restoring the physical, relational channels through which democratic hearing actually happens.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+*Restoring the physical, relational channels through which democratic hearing actually happens.*  
 
 ---
 
@@ -66,14 +66,15 @@ civic repair, embodied presence, dialogue, community halls, surgeries, governanc
 
 ## 🏮 Footer  
 
-*Re-Embodied Dialogue & Civic Presence* is a living node of the Polaris Protocol.  
+*🪢 Re-Embodied Dialogue & Civic Presence* is a living node of the Polaris Protocol.  
 It outlines the physical and relational infrastructures required to restore genuine democratic hearing.
 
-> 📡 Cross-references:  
-> - [🧩 The Politic Is No Longer Heard](./🧩_the_politic_is_no_longer_heard.md)  
-> - [🎛 Algorithmic Hearing as False Accountability](./🎛_algorithmic_hearing_as_false_accountability.md)  
-> - [🪖 Home Front 2.0](../Digital_Disruption/🪖_home_front_2.0/)  
+> 📡 Cross-references:
+> 
+> - [🧩 The Politic Is No Longer Heard]  
+> - [🎛 Algorithmic Hearing as False Accountability]  
+> - [🪖 Home Front 2.0]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-11_
