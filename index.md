@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:41:28 UTC_
+_Generated on 2025-12-11 10:43:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1084,6 +1084,7 @@ _Generated on 2025-12-11 10:41:28 UTC_
         - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_tolerators_as_targets.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
+        - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
         - [`🪸_floating_commons_humane_sovereignty_at_sea.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
         - [`🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md)
         - [`🫖_no_this_is_not_proper.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫖_no_this_is_not_proper.md)
@@ -3487,7 +3488,6 @@ _Generated on 2025-12-11 10:41:28 UTC_
     - [`🪢_hygienic_cut.md`](Polaris_Nest/Git_Intake_Drawer/🪢_hygienic_cut.md)
     - [`🪢_reembodie_civics.md`](Polaris_Nest/Git_Intake_Drawer/🪢_reembodie_civics.md)
     - [`🪢_refusal_as_resistance_not_risk.md`](Polaris_Nest/Git_Intake_Drawer/🪢_refusal_as_resistance_not_risk.md)
-    - [`🪨_male_survivor_silence.md`](Polaris_Nest/Git_Intake_Drawer/🪨_male_survivor_silence.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
