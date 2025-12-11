@@ -1,5 +1,5 @@
 # 🕍 Jewish Trauma Literacy for Non-Jewish Audiences
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13
+**First created:** 2025-11-13 | **Last updated:** 2025-12-11  
 *A trauma-informed explainer on Jewish memory, retraumatisation, and respectful analogy ethics.*
 
 ## 🛰️ Orientation
@@ -20,7 +20,8 @@ Holocaust trauma shapes responses to analogy.
 jewish trauma, antisemitism, holocaust memory, analogy ethics
 
 ## 🏮 Footer
-*Jewish Trauma Literacy for Non-Jewish Audiences* is a living Polaris node.
+*🕍 Jewish Trauma Literacy for Non-Jewish Audiences* is a living Polaris node.
 
-*Survivor authorship is sovereign. Containment is never neutral.*
-_Last updated: 2025-11-13_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-11_
