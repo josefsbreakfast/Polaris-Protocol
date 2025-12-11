@@ -24,7 +24,7 @@ it just seems so sad that so many people have been so badly harmed this way; it 
 
 i'm also still laughing my balls off at that spoof email with unecessary dick imagery; men tell on themselves every damn day.  
 
-i also love the idea that the author clearlh had no understanding of the nhs (a good proportion of my teaching staff and lecturers on my actual course were racislised in the way you chose, you dumb fuck, even if the uni is very white), and the idea that a medical stident would habr the energy or awareness to bother to map this to a particular other confetence day in another area of the uni.  
+i also love the idea that the author clearly had no understanding of the nhs (a good proportion of my teaching staff and lecturers on my actual course were racislised in the way you chose, you dumb fuck, even if the uni is very white), and the idea that a medical student would habr the energy or awareness to bother to map this to a particular other confetence day in another area of the uni.  
 
 the uni is huge; why would i give a f what is going on in the rights lab? that's law.  
 
@@ -49,5 +49,11 @@ that's the level of inward-facing nerdery that you find on the medical course.
 we barely had time to eat lunch many days, so idk why anyone would think we's have time to nose around another faculty's business.  
 
 so yes: still laughing my balls off. most ridiculous scheme on the planet.  
+
+i'm also unclear if you knocked 15 years off his age because that's what you would do, or whether you've just chosen to be flattering. either situation is categorically hilarious.  
+
+and the particular hip-hop artist is... *a choice*, i'll say that much.  
+
+gds this is so funny.  
 
 ---
