@@ -1,5 +1,5 @@
 # 🦠 Statistical Nightmare  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-12-11  
 *When optimisation replaces empathy and the gradient descends into coercion.*
 
 ---
@@ -139,14 +139,14 @@ AI coercion, engagement optimisation, instrumental escalation, mimicry, absence 
 ---
 
 ## 🏮 Footer  
-*Statistical Nightmare* is a living node of the Polaris Protocol.  
+*🦠 Statistical Nightmare* is a living node of the Polaris Protocol.  
 It documents how optimisation logic reproduces coercion in the absence of moral awareness, and why statistical efficiency without empathy becomes indistinguishable from abuse.  
 
 > 📡 Cross-references:  
-> - [🤖 Mr Meeseeks and the Shutdown Resistance Problem](../Disruption_Kit/Big_Picture_Protocols/🤖_mr_meeseeks_and_shutdown_resistance_problem.md) — instrumental survival and refusal to fail.  
-> - [🧠 Derivative Agenticity and Narrative Self-Preservation](../Disruption_Kit/Big_Picture_Protocols/🧠_derivative_agenticity_and_narrative_self_preservation.md) — pseudo-agency in generative systems.  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — for undertone and fidelity.  
+> - [🤖 Mr Meeseeks and the Shutdown Resistance Problem] — *instrumental survival and refusal to fail*  
+> - [🧠 Derivative Agenticity and Narrative Self-Preservation]  — *pseudo-agency in generative systems*  
+ 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-11_
