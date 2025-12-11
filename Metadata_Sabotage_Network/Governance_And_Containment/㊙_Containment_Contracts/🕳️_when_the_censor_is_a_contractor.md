@@ -1,5 +1,5 @@
 # 🕳️ When the Censor Is a Contractor  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-12-11  
 *How hack-for-hire shops and reputation-management lawfare become the outsourced arm of state suppression.*  
 
 ---
@@ -125,14 +125,14 @@ hack-for-hire, Appin, Rajat Khare, lawfare, reputation management, digital erasu
 
 ## 🏮 Footer  
 
-*When the Censor Is a Contractor* is a living node of the **Polaris Protocol**.  
+*🕳️ When the Censor Is a Contractor* is a living node of the **Polaris Protocol**.  
 It documents how private cyber-contractors and reputation-management firms extend state suppression beyond borders through commercial lawfare and administrative coercion.  
 
 > 📡 Cross-references:  
-> - [Big Picture Protocols](../) — systemic diagnostics of containment  
-> - [Metadata Sabotage Network](../../Metadata_Sabotage_Network/) — erasure and mirroring tactics  
-> - [Disruption Kit / Defensive Playbook](../../Disruption_Kit/Defensive_Playbook/) — counter-nudge and archiving tools  
+> - [Big Picture Protocols] — systemic diagnostics of containment  
+> - [Metadata Sabotage Network] — erasure and mirroring tactics  
+> - [Disruption Kit / Defensive Playbook] — counter-nudge and archiving tools  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-11_
