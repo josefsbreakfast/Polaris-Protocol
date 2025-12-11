@@ -1,6 +1,6 @@
 # 🧠 Enemy Symmetry Effects  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How adversaries manufacture stability to mirror allied progress and dilute geopolitical critique.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
+*How adversaries manufacture stability to mirror allied progress and dilute geopolitical critique.*  
 
 ---
 
@@ -101,8 +101,8 @@ symmetry effects, parity theatre, narrative camouflage, legitimacy laundering, h
 *🧠 Enemy Symmetry Effects* is a living node of the **Polaris Protocol**, mapping how adversarial actors strategically mirror allied progress to engineer parity illusions, narrative ambiguity, and diplomatic hesitation.
 
 > 📡 Cross-references:
-> - [🎭 Narrative & Psych Ops](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/) — mimicry, inversion, framing  
-> - [🛰️ Ally Productivity Paradox](./🛰️_ally_productivity_paradox.md) — allied side of the symmetry  
+> - [🎭 Narrative & Psych Ops] — mimicry, inversion, framing  
+> - [🛰️ Ally Productivity Paradox] — allied side of the symmetry  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-11_
