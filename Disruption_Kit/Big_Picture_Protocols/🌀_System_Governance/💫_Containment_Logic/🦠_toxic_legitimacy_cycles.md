@@ -1,4 +1,4 @@
-# 🦠 *Toxic Legitimacy Cycles — How Harmful Systems Renew Their Authority Through Repetition*  
+# 🦠 Toxic Legitimacy Cycles — How Harmful Systems Renew Their Authority Through Repetition  
 **First created:** 2025-11-12 | **Last updated:** 2025-12-11  
 *Authoritarian, abusive, and extractive systems don’t sustain legitimacy — they recycle it. They use the same people, harms, narratives, and illusions over and over until repetition itself feels like truth.*
 
