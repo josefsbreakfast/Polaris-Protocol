@@ -1,5 +1,5 @@
 # 📚 The Streisand Effect of Justice — Irving v Lipstadt  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-15  
+**First created:** 2025-11-07 | **Last updated:** 2025-12-11  
 *How exposing denial amplified it.*  
 
 ---
@@ -16,4 +16,4 @@ It studies how evidentiary triumph can still generate narrative contagion.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2025-12-11_  
