@@ -1,17 +1,23 @@
 # 🪩 Weaponised Joy  
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-13 | **Last updated:** 2025-12-11  
 *How joy, charisma, and spectacle operate as the strongest form of geopolitical soft power.*
+
+---
 
 ## 🛰️ Orientation  
 Joy moves faster than propaganda and binds more powerfully than ideology.  
-This node outlines joy as **affective infrastructure**.
+This node outlines joy as **affective infrastructure**.  
+
+---
 
 ## ✨ Key Features  
 - Joy as neurological override  
 - Why music + glamour beat psyops  
 - BTS vs intelligence agencies  
 - Spectacle as soft-power machinery  
-- Why authoritarians fear joy  
+- Why authoritarians fear joy
+
+---
 
 ## 🧿 Analysis / Content  
 
@@ -28,16 +34,23 @@ People bond to cultures they enjoy. This is soft power.
 Their epistemology is fear-based; joy looks frivolous.
 
 ### 5. Joy Hardens on Contact  
-A joyful culture creates voluntary allegiance.
+A joyful culture creates voluntary allegiance.  
+
+---
 
 ## 🌌 Constellations  
 🪩 🎶 🧿 🛰️
 
+---
+
 ## ✨ Stardust  
 soft power, joy, charisma, spectacle, synchrony, affective influence
+
+---
 
 ## 🏮 Footer  
 *🪩 Weaponised Joy* is a living node of the **Polaris Protocol**.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-13_
+
+_Last updated: 2025-12-11_
