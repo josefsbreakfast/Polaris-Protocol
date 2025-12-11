@@ -1,6 +1,6 @@
 # 🧠 Behavioural Re-Engagement as Containment Loop
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*How behavioural nudging systems mistake protective withdrawal for failure, worsening distress.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-11  
+*How behavioural nudging systems mistake protective withdrawal for failure, worsening distress.*  
 
 ---
 
@@ -52,14 +52,15 @@ behavioural nudging, withdrawal, crisis misinterpretation, engagement metrics, c
 
 ## 🏮 Footer  
 
-*Behavioural Re-Engagement as Containment Loop* is a living node of the Polaris Protocol.  
+*🧠 Behavioural Re-Engagement as Containment Loop* is a living node of the Polaris Protocol.  
 It documents how engagement-driven systems mistake self-protection for disengagement, transforming early-stage distress into containment pressure.  
 
-> 📡 Cross-references:  
-> - [🧠 Psychological_Containment](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🧠_psychological_containment.md)  
-> - [🧨 Counter_Nudge_Playbook](../Digital_Disruption/🧨_counter_nudge_playbook.md)  
-> - [Survivor_Tools](../Disruption_Kit/Survivor_Tools/)  
+> 📡 Cross-references:
+> 
+> - [🧠 Psychological_Containment]  
+> - [🧨 Counter_Nudge_Playbook]  
+> - [Survivor_Tools]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated:2025-12-11_
