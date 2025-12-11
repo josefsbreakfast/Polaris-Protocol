@@ -1,5 +1,5 @@
 # 🧠 AI Ethicswash  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-12-11  
 *How “ethical AI” rhetoric launders reputations and conceals extraction.*  
 
 ---
@@ -40,13 +40,14 @@ ai ethics, elbit, pr laundering, dual use, academic capture, satire as oversight
 
 ## 🏮 Footer  
 
-*AI Ethicswash* is a living node of the Polaris Protocol.  
+*🧠 AI Ethicswash* is a living node of the Polaris Protocol.  
 It traces how “responsibility” language can serve as camouflage for extraction and control.  
 
-> 📡 Cross‑references:  
-> - [🧿 Private Eye Bounces Back](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧿_private_eye_bounces_back.md) — humour as counter‑forensics  
-> - [🪄 Expression of Norms](../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/) — systemic analyses of behavioural governance  
+> 📡 Cross‑references:
+> 
+> - [🧿 Private Eye Bounces Back]  — humour as counter‑forensics  
+> - [🪄 Expression of Norms] — systemic analyses of behavioural governance  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_  
+_Last updated: 2025-12-11_  
