@@ -1,6 +1,6 @@
 # 🧠 How Bad Actors Incriminate Themselves  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
-*The mechanics of self-disclosure in falsified or coercive communications.*
+**First created:** 2025-12-08 | **Last updated:** 2025-12-11  
+*The mechanics of self-disclosure in falsified or coercive communications.*  
 
 ---
 
@@ -63,4 +63,4 @@ It contributes a behavioural and cognitive framework for interpreting falsified 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-11_
