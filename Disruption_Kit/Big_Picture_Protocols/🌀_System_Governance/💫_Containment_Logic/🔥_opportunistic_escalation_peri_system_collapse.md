@@ -1,4 +1,4 @@
-#🔥 Opportunistic Escalation, Peri-System Collapse  
+# 🔥 Opportunistic Escalation, Peri-System Collapse  
 **First created:** 2025-11-17 | **Last updated:** 2025-12-11  
 *Why institutional fragility creates openings for individuals to escalate concerns in harmful or self-serving ways.*  
 
