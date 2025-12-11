@@ -1,6 +1,6 @@
 # 🧠 Escalation Weather Map  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*A metaphorical climate model of hostile emotional escalation when a survivor becomes autonomous, transparent, and witnessed.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+*A metaphorical climate model of hostile emotional escalation when a survivor becomes autonomous, transparent, and witnessed.*  
 
 ---
 
@@ -224,9 +224,9 @@ emotional weather, escalation climate, projection storms, institutional percepti
 ---
 
 ## 🏮 Footer  
-*Escalation Weather Map* is a living node of the Polaris Protocol.  
+*🧠 Escalation Weather Map* is a living node of the Polaris Protocol.  
 It reframes hostile emotional escalation as atmospheric, not targeted — enabling survivors to understand patterns without absorbing responsibility.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-11_
