@@ -1,6 +1,6 @@
 # 🦤 Nazi Nuclear Homeopathy Science  
-**First created:** 2025-02-14 | **Last updated:** 2025-02-14  
-*How Nazi racism produced pseudo-physics so incoherent that it collapsed their own nuclear programme — an example of racist epistemology melting down in real time.*
+**First created:** 2025-02-14 | **Last updated:** 2025-12-11  
+*How Nazi racism produced pseudo-physics so incoherent that it collapsed their own nuclear programme — an example of racist epistemology melting down in real time.*  
 
 ---
 
@@ -185,9 +185,6 @@ heavy water, nazi physics, christian supremacy, algorithmic misclassification, m
 
 ## 🏮 Footer  
 
-**Polaris Protocol — Fascism Studies / W015 Structural Analysis**  
-House Style v1.7  
-
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-02-14_  
+_Last updated: 2025-12-11_  
