@@ -1,5 +1,5 @@
 # 🧠 Extraction Loop — Data vs Story  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-11  
 *A sketch of how systems can mine someone’s intellect while narrating them as “low ability”.*  
 
 ---
@@ -56,13 +56,14 @@ knowledge extraction, reputation management, data vs narrative, credibility supp
 
 ## 🏮 Footer  
 
-*Extraction Loop — Data vs Story* is a living node of the Polaris Protocol.  
+*🧠 Extraction Loop — Data vs Story* is a living node of the Polaris Protocol.  
 It documents how intellect can be mined while credibility is suppressed, forming the left half of the Extraction ↔ Reclamation cycle.  
 
-> 📡 Cross-references:  
-> - [🧩 Counter-Extraction Loop — Reclaiming Authorship](./🧩_counter_extraction_loop_reclaiming_authorship.md) — the recovery and repair path.  
-> - [👁️‍🗨️ Witness Historical Casefiles](../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles.md) — evidential anchors and testimonial parallels.  
+> 📡 Cross-references:
+> 
+> - [🧩 Counter-Extraction Loop — Reclaiming Authorship] — the recovery and repair path.  
+> - [👁️‍🗨️ Witness Historical Casefiles] — evidential anchors and testimonial parallels.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-11_
