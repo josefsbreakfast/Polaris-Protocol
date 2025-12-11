@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 23:51:59 UTC_
+_Generated on 2025-12-11 23:53:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -238,6 +238,7 @@ _Generated on 2025-12-11 23:51:59 UTC_
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_daylight_in_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_daylight_in_governance.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
+        - [`🕯️_survivor_visibility_and_risk_aversion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕯️_survivor_visibility_and_risk_aversion.md)
         - [`🖍️_the_colouring_book_experiment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🖍️_the_colouring_book_experiment.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
@@ -3063,7 +3064,6 @@ _Generated on 2025-12-11 23:51:59 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕯️_survivor_visibility_and_risk_aversion.md`](Polaris_Nest/Git_Intake_Drawer/🕯️_survivor_visibility_and_risk_aversion.md)
     - [`🕰️_citizen_follow_up_timeline.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_citizen_follow_up_timeline.md)
     - [`🕰️_eta_drift_and_bureaucratic_time_inflation.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_eta_drift_and_bureaucratic_time_inflation.md)
     - [`🕰️_institutional_timescales_of_repair.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_institutional_timescales_of_repair.md)
