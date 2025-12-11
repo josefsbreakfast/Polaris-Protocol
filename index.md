@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:20:12 UTC_
+_Generated on 2025-12-11 10:22:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2761,6 +2761,7 @@ _Generated on 2025-12-11 10:20:12 UTC_
       - [`🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md)
       - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🦤_how_the_right_accidentally_infiltrated_itself.md)
       - [`🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md)
+      - [`🧠_how_bad_actors_incriminate_themselves.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_how_bad_actors_incriminate_themselves.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🧭_visual_glossary_containment_pulse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md)
       - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
@@ -3197,7 +3198,6 @@ _Generated on 2025-12-11 10:20:12 UTC_
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
     - [`🧠_extracting_soul_from_prosocial_people.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extracting_soul_from_prosocial_people.md)
     - [`🧠_four_signature_differential_reality_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧠_four_signature_differential_reality_loops.md)
-    - [`🧠_how_bad_actors_incriminate_themselves.md`](Polaris_Nest/Git_Intake_Drawer/🧠_how_bad_actors_incriminate_themselves.md)
     - [`🧠_institutional_perception_no_win_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_perception_no_win_zone.md)
     - [`🧠_institutional_weather_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_weather_systems.md)
     - [`🧠_linguistic_containment_and_sexual_violence.md`](Polaris_Nest/Git_Intake_Drawer/🧠_linguistic_containment_and_sexual_violence.md)
