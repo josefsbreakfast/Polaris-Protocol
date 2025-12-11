@@ -1,5 +1,5 @@
-# 🐟 **Toxic Systems Don’t Need Monsters — Harm Emerges from the Water Itself**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+# 🦑 **Toxic Systems Don’t Need Monsters — Harm Emerges from the Water Itself**  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
 *People do not need to be uniquely cruel to enact cruelty. In poisoned environments, ordinary humans behave like three-eyed fish.*
 
 ---
@@ -228,10 +228,11 @@ toxic-water theory, delegated violence, survival obedience, systemic mutation, c
 ---
 
 ## 🏮 Footer  
-**🐟 Toxic Systems Don’t Need Monsters** is a containment-analysis node of the Polaris Protocol.  
+*🦑 Toxic Systems Don’t Need Monsters* is a containment-analysis node of the Polaris Protocol.  
 It reframes how harm emerges in hierarchical environments and why structural toxicity can turn ordinary people into instruments of systems they would otherwise oppose.
 
 > 📡 Cross-references:
+> 
 > - 🧳 Instrumental Elevation Loop  
 > - 🎯 Emotional Targeting  
 > - 🧭 Timeline of Capture  
@@ -239,4 +240,4 @@ It reframes how harm emerges in hierarchical environments and why structural tox
 
 *Survivor authorship is sovereign. Fix the water, not the fish.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-11_
