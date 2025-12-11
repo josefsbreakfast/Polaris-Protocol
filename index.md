@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 10:59:06 UTC_
+_Generated on 2025-12-11 11:01:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -235,6 +235,7 @@ _Generated on 2025-12-11 10:59:06 UTC_
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_daylight_in_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_daylight_in_governance.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
+        - [`🖍️_the_colouring_book_experiment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🖍️_the_colouring_book_experiment.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
@@ -3090,7 +3091,6 @@ _Generated on 2025-12-11 10:59:06 UTC_
     - [`🕸️_web_sovereignity.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_web_sovereignity.md)
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🕹️_getting_the_tech_bros_back_on_script.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_getting_the_tech_bros_back_on_script.md)
-    - [`🖍️_the_colouring_book_experiment_containment_as_curriculum.md`](Polaris_Nest/Git_Intake_Drawer/🖍️_the_colouring_book_experiment_containment_as_curriculum.md)
     - [`🗂️_data_sharing_trace_mod_links.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_data_sharing_trace_mod_links.md)
     - [`🗂️_risk_grounding_model_for_bureaucratic_harm.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_risk_grounding_model_for_bureaucratic_harm.md)
     - [`🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md)
