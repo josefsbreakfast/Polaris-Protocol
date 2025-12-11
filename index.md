@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-11 09:39:21 UTC_
+_Generated on 2025-12-11 09:43:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2511,6 +2511,7 @@ _Generated on 2025-12-11 09:39:21 UTC_
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
+      - [`🧠_behavioral_reengagement_as_containment_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_reengagement_as_containment_loop.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
       - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪫_why_we_cannot_know_who_prevent_targets.md)
@@ -3180,7 +3181,6 @@ _Generated on 2025-12-11 09:39:21 UTC_
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
     - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
-    - [`🧠_behavioural_reengagement_as_containment_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_reengagement_as_containment_loop.md)
     - [`🧠_behavioural_shadow_modelling.md`](Polaris_Nest/Git_Intake_Drawer/🧠_behavioural_shadow_modelling.md)
     - [`🧠_bureaucratic_fast_thinking_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧠_bureaucratic_fast_thinking_harm.md)
     - [`🧠_charism_as_coercion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_charism_as_coercion.md)
