@@ -1,6 +1,6 @@
-# 🪢 Refusal as Resistance, Not Risk
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*Reframing women’s boundaries as acts of autonomy rather than indicators of instability or threat.*
+# 🪢 Refusal as Resistance, Not Risk  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
+*Reframing women’s boundaries as acts of autonomy rather than indicators of instability or threat.*  
 
 ---
 
@@ -202,7 +202,7 @@ refusal, boundary logic, autonomy, racialised misogyny, institutional misinterpr
 ---
 
 ## 🏮 Footer  
-*Refusal as Resistance, Not Risk* is a living node of the Polaris Protocol.  
+*🪢 Refusal as Resistance, Not Risk* is a living node of the Polaris Protocol.  
 It restores the meaning of refusal as autonomy, resistance, and sovereignty — and challenges the institutional distortion that treats boundaries as behavioural concern.
 
 > 📡 Cross-references:  
@@ -212,4 +212,5 @@ It restores the meaning of refusal as autonomy, resistance, and sovereignty — 
 > - 🎭 Symbolic Violence in Gendered & Racialised Frames  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-12-11_
