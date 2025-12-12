@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:31:04 UTC_
+_Generated on 2025-12-12 18:32:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -260,6 +260,7 @@ _Generated on 2025-12-12 18:31:04 UTC_
         - [`🚨_absence_of_intervention_as_early_warning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🚨_absence_of_intervention_as_early_warning.md)
         - [`🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
+        - [`🛰️_disappearing_public_surgery.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_disappearing_public_surgery.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
         - [`🦕_post_modern_fellow_travellers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
@@ -3175,7 +3176,6 @@ _Generated on 2025-12-12 18:31:04 UTC_
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
-    - [`🛰️_disappearing_public_surgery.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_disappearing_public_surgery.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
