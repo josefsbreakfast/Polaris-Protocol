@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:44:17 UTC_
+_Generated on 2025-12-12 18:45:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3186,7 +3186,6 @@ _Generated on 2025-12-12 18:44:17 UTC_
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
-    - [`🛰️_vendor_blindspot_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_vendor_blindspot_mapping.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_who_can_see_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_who_can_see_the_flag.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
@@ -3844,6 +3843,7 @@ _Generated on 2025-12-12 18:44:17 UTC_
       - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
+    - [`🛰️_vendor_blindspot_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)
     - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
     - [`🧬_signal_anomaly_classification.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧬_signal_anomaly_classification.md)
     - [`🧭_field_ethics_compass.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧭_field_ethics_compass.md)
