@@ -1,5 +1,5 @@
 # 🛡️ Constructed Immunity  
-**First created:** 2025-11-12  |  **Status:** Draft — Stub Node  
+**First created:** 2025-11-12  | **Last updated:** 2025-12-12  
 *Authored by Polaris Systems & Governance Working Group*  
 
 ---
@@ -17,3 +17,5 @@ Explains how legal, contractual, and reputational defences combine to create fun
 
 ## 🏮 Footer  
 *Stub — expand as needed within Polaris archive.*  
+
+_Last updated: 2025-12-12_
