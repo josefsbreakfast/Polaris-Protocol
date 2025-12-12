@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:41:36 UTC_
+_Generated on 2025-12-12 03:42:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2859,6 +2859,7 @@ _Generated on 2025-12-12 03:41:36 UTC_
       - [`📣_the_shouting_whisper.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📣_the_shouting_whisper.md)
       - [`🔮_predictive_containment_and_emergent_friction.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🔮_predictive_containment_and_emergent_friction.md)
       - [`🕎_jewish_assimilation_vs_eurocentric_algorithms.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕎_jewish_assimilation_vs_eurocentric_algorithms.md)
+      - [`🕳️_continuity_under_oversight.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕳️_continuity_under_oversight.md)
       - [`🚩_when_being_flagged_creates_the_evidence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🚩_when_being_flagged_creates_the_evidence.md)
       - [`🦁_the_rules_beneath_the_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦁_the_rules_beneath_the_rules.md)
       - [`🦠_statistical_nightmare.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_statistical_nightmare.md)
@@ -3074,7 +3075,6 @@ _Generated on 2025-12-12 03:41:36 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
-    - [`🕳️_continuity_under_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_continuity_under_oversight.md)
     - [`🕳️_governance_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_governance_black_hole.md)
     - [`🕳️_how_to_catch_a_whistleblower.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_how_to_catch_a_whistleblower.md)
     - [`🕳️_never_really_leaving_child_abuse_britain_non_escape.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_never_really_leaving_child_abuse_britain_non_escape.md)
