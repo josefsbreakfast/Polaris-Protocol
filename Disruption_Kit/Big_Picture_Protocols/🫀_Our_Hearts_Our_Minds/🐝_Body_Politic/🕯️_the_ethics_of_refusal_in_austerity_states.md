@@ -99,11 +99,12 @@ austerity ethics, refusal, hunger strike, moral economy, narrative inversion, co
 *🕯️ The Ethics of Refusal in Austerity States* is a living node of the **Polaris Protocol**.  
 It examines how voluntary deprivation exposes the moral architecture of governments that rely on managed scarcity, and how refusal disrupts the state’s narrative control.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
 > 
-> - [🫀 Our_Hearts_Our_Minds](../README.md) — ethics and governance  
-> - [🎭 Narrative & Psych Ops](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — framing and inversion analysis  
-> - [🍄 Suppression Layers](../../../../Metadata_Sabotage_Network/Suppression_Layers/README.md) — visibility management in dissent  
+> - [🩸 Bodily Risk as Political Speech](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md) — how refusal becomes embodied communication  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) — refusal as sovereign disruption  
+> - [⚖️ The Refusal Body as Unmanageable Risk](./⚖️_the_refusal_body_as_unmanageable_risk.md) — when refusal exceeds institutional modelling  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
