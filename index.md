@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 06:09:11 UTC_
+_Generated on 2025-12-12 06:10:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -805,6 +805,7 @@ _Generated on 2025-12-12 06:09:11 UTC_
         - [`🕳️_black_box_epistemology_in_post_soviet_accidents.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕳️_black_box_epistemology_in_post_soviet_accidents.md)
         - [`🕸️_the_grief_of_the_imperial_core.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕸️_the_grief_of_the_imperial_core.md)
         - [`🕸️_web_sovereignty_folklore_of_connection_and_containment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕸️_web_sovereignty_folklore_of_connection_and_containment.md)
+        - [`🗺️_linguistic_silk_road_how_words_travel.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🗺️_linguistic_silk_road_how_words_travel.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
@@ -3128,7 +3129,6 @@ _Generated on 2025-12-12 06:09:11 UTC_
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
-    - [`🗺️_linguistic_silk_road.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_linguistic_silk_road.md)
     - [`🗺️_the_emotional_cartography_of_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_the_emotional_cartography_of_radicalisation.md)
     - [`🗺️_vibe_map_of_postwar_europe.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_vibe_map_of_postwar_europe.md)
     - [`😌_the_performance_of_consensus.md`](Polaris_Nest/Git_Intake_Drawer/😌_the_performance_of_consensus.md)
