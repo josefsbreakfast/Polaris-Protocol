@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:49:41 UTC_
+_Generated on 2025-12-12 18:51:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -263,6 +263,7 @@ _Generated on 2025-12-12 18:49:41 UTC_
         - [`🛰️_disappearing_public_surgery.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_disappearing_public_surgery.md)
         - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_predictive_logic_sans_predictive_infrastructure.md)
         - [`🛰️_separation_of_systems_university_prevent_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_separation_of_systems_university_prevent_mod.md)
+        - [`🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
         - [`🦕_post_modern_fellow_travellers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
@@ -3190,7 +3191,6 @@ _Generated on 2025-12-12 18:49:41 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🤖_mr_meeseeks_and_shutdown_resistance_problem.md`](Polaris_Nest/Git_Intake_Drawer/🤖_mr_meeseeks_and_shutdown_resistance_problem.md)
     - [`🤝_polite_containment_how_civility_becomes_a_control_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🤝_polite_containment_how_civility_becomes_a_control_mechanism.md)
     - [`🤡_kompromat_own_goals.md`](Polaris_Nest/Git_Intake_Drawer/🤡_kompromat_own_goals.md)
     - [`🤡_lsso_spoof.md`](Polaris_Nest/Git_Intake_Drawer/🤡_lsso_spoof.md)
