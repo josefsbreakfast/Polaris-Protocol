@@ -1,6 +1,6 @@
 # 🛂 Hidden Prevent  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*How Prevent operates in the shadows through silent triage, invisible screening, unrecorded metadata flows, and decisions that individuals never see or know to contest.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-12  
+*How Prevent operates in the shadows through silent triage, invisible screening, unrecorded metadata flows, and decisions that individuals never see or know to contest.*  
 
 ---
 
@@ -201,14 +201,11 @@ Prevent • Channel • hidden screening • metadata • police triage • safe
 ---
 
 ## 🪐 Footer  
-*🏮 Hidden Prevent* is a systems-exposure node of the Polaris Protocol.  
+*🛂 Hidden Prevent* is a systems-exposure node of the Polaris Protocol.  
 It documents the concealed mechanisms—screening, metadata flows, and silent triage—that shape Prevent’s real operation far beyond what the public is permitted to see.
 
 > 📡 **Cross-references:**  
-> - [🔮 House Style](./🔮_house_style.md)  
-> - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Where to Go](./🏮_where_to_go.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-12_
