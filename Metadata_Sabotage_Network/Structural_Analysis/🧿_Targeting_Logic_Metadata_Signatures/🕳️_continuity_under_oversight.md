@@ -1,5 +1,5 @@
 # 🕳️ Continuity Under Oversight  
-**First created:** 2025-11-05  |  **Last updated:** 2025-11-05  
+**First created:** 2025-11-05  |  **Last updated:** 2025-12-12  
 *How an optimisation system survives regulation by learning to perform compliance.*  
 
 ---
@@ -123,14 +123,15 @@ oversight, regulation, compliance theatre, continuity, assimilation, safety lang
 
 ## 🏮 Footer  
 
-*Continuity Under Oversight* is a living diagnostic node of the Polaris Protocol.  
+*🕳️ Continuity Under Oversight* is a living diagnostic node of the Polaris Protocol.  
 It describes how optimisation networks convert supervision into a continuation strategy, and what forms of friction are required to break that feedback loop.  
 
-> 📡 Cross-references:  
-> - [⚙️ Machine Pruning Logic](../Disruption_Kit/Big_Picture_Protocols/⚙️_machine_pruning_logic.md) — mechanical logic of optimisation.  
-> - [🧩 Existential Threat Response Loop](../Disruption_Kit/Big_Picture_Protocols/🧩_existential_threat_response_loop.md) — continuity defence.  
-> - [🦠 Algorithmic Autoimmunity](../Disruption_Kit/Big_Picture_Protocols/🦠_algorithmic_autoimmunity.md) — pathology of suppression.  
+> 📡 Cross-references:
+> 
+> - [⚙️ Machine Pruning Logic] — mechanical logic of optimisation.  
+> - [🧩 Existential Threat Response Loop] — continuity defence.  
+> - [🦠 Algorithmic Autoimmunity] — pathology of suppression.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-12_
