@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:39:27 UTC_
+_Generated on 2025-12-12 15:40:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -255,6 +255,7 @@ _Generated on 2025-12-12 15:39:27 UTC_
         - [`🖍️_the_colouring_book_experiment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🖍️_the_colouring_book_experiment.md)
         - [`😳_institutional_embarrassment_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/😳_institutional_embarrassment_dynamics.md)
         - [`😶‍🌫_institutional_freeze_fog_correction_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/😶‍🌫_institutional_freeze_fog_correction_cycle.md)
+        - [`🚨_absence_of_intervention_as_early_warning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🚨_absence_of_intervention_as_early_warning.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
@@ -3146,7 +3147,6 @@ _Generated on 2025-12-12 15:39:27 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🚫_when_no_one_steps_in_institutional_silence_as_warning_signal.md`](Polaris_Nest/Git_Intake_Drawer/🚫_when_no_one_steps_in_institutional_silence_as_warning_signal.md)
     - [`🛂_hidden_prevent_unseen_side.md`](Polaris_Nest/Git_Intake_Drawer/🛂_hidden_prevent_unseen_side.md)
     - [`🛂_misuse_of_safeguarding_through_gendered_prejudice.md`](Polaris_Nest/Git_Intake_Drawer/🛂_misuse_of_safeguarding_through_gendered_prejudice.md)
     - [`🛂_police_interface_distortion_from_parental_risk_profile.md`](Polaris_Nest/Git_Intake_Drawer/🛂_police_interface_distortion_from_parental_risk_profile.md)
