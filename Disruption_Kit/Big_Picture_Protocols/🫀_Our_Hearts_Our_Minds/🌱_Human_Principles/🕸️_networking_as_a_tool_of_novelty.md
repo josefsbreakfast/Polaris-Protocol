@@ -1,6 +1,6 @@
 # 🕸️ The Capacity of Cross-Linking — Networking as a Tool of Novelty  
-**First created:** 2025-10-14 | **Last updated:** 2025-10-14  
-*On how connection itself becomes a generative medium.*
+**First created:** 2025-10-14 | **Last updated:** 2025-12-12  
+*On how connection itself becomes a generative medium.*  
 
 ---
 
@@ -36,14 +36,15 @@ network theory, novelty, creativity, interdisciplinarity, hyperlink logic, coali
 
 ## 🏮 Footer  
 
-*The Capacity of Cross-Linking — Networking as a Tool of Novelty* is a living stub of the Polaris Protocol.  
+*🕸️ The Capacity of Cross-Linking — Networking as a Tool of Novelty* is a living stub of the Polaris Protocol.  
 It explores how intentional linkage transforms static archives into engines of discovery and solidarity.  
 
-> 📡 Cross-references:  
-> - [🏙️ Industrial Layout Ghosts](./🏙️_industrial_layout_ghosts.md) — how separation is engineered  
-> - [💰 Resolving the Fear of the Poor](./💰_resolving_the_fear_of_the_poor.md) — social disconnection as class defence  
-> - [🧱 Hostile Architecture vs Universal Design](./🧱_hostile_architecture_vs_universal_design.md) — physical boundaries versus relational ones  
+> 📡 Cross-references:
+> 
+> - [🏙️ Industrial Layout Ghosts] — how separation is engineered  
+> - [💰 Resolving the Fear of the Poor] — social disconnection as class defence  
+> - [🧱 Hostile Architecture vs Universal Design] — physical boundaries versus relational ones  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2025-12-12_
