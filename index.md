@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:13:20 UTC_
+_Generated on 2025-12-12 16:14:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3144,7 +3144,6 @@ _Generated on 2025-12-12 16:13:20 UTC_
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
-    - [`📓_hackathon_playbook_companion.md`](Polaris_Nest/Git_Intake_Drawer/📓_hackathon_playbook_companion.md)
     - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/📺_coverup_as_cultural_genre.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
@@ -3754,6 +3753,7 @@ _Generated on 2025-12-12 16:13:20 UTC_
     - [**💞_Hacking_Hope/**](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/)
       - [**🏆_Civil_Sec/**](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/)
         - [`🏟️_hackathon_league.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🏟️_hackathon_league.md)
+        - [`📓_hackathon_playbook_companion.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/📓_hackathon_playbook_companion.md)
         - [`🛡️_pentest_cup.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🛡️_pentest_cup.md)
     - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
     - [`🌱_commons_charter_generator.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌱_commons_charter_generator.md)
