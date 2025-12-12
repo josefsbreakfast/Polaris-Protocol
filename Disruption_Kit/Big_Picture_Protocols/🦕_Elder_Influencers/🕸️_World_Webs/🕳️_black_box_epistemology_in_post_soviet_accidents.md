@@ -1,5 +1,5 @@
-# 🕳️ Black Box Epistemology in Post-Soviet Accidents
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+# 🕳️ Black Box Epistemology in Post-Soviet Accidents  
+**First created:** 2025-11-06  |  **Last updated:** 2025-12-12  
 *What the recorder knows, who is allowed to listen, and how truth is timed.*  
 
 ---
@@ -44,10 +44,11 @@ black box, epistemology, forensic delay, knowledge control, data sovereignty, tr
 *🕳️ Black Box Epistemology in Post-Soviet Accidents* is a living node of the Polaris Protocol.  
 It traces how technical recovery becomes political performance.  
 
-> 📡 Cross-references:  
-> - [⚙️ Containment by Crash — Risk Management and Symbolic Deletion](./⚙️_containment_by_crash_risk_management_and_symbolic_deletion.md) — systems extension  
-> - [Metadata Sabotage Network](../Disruption_Kit/Metadata_Sabotage_Network/) — forensic comparatives  
+> 📡 Cross-references:
+> 
+> - [⚙️ Containment by Crash — Risk Management and Symbolic Deletion] — systems extension  
+> - [Metadata Sabotage Network] — forensic comparatives  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-12_
