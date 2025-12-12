@@ -1,6 +1,6 @@
 # 🛠️ How Neutral People Enable Authoritarian Tech  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*Why “I’m just doing my job” becomes the operating system of modern authoritarian drift.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+*Why “I’m just doing my job” becomes the operating system of modern authoritarian drift.*  
 
 ---
 
@@ -200,9 +200,9 @@ neutrality, authoritarian tech, prevent, compliance culture, bureaucratic obedie
 ---
 
 ## 🏮 Footer  
-*How Neutral People Enable Authoritarian Tech* is a living node of the Polaris Protocol.  
+*🛠️ How Neutral People Enable Authoritarian Tech* is a living node of the Polaris Protocol.  
 It examines how procedural compliance, not malice, becomes the engine of authoritarian outcomes inside behavioural-surveillance systems.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-12_
