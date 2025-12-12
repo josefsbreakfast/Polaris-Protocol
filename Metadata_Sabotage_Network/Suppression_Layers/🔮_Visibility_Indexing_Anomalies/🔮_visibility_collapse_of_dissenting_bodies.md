@@ -174,10 +174,10 @@ It examines the suppression mechanisms that diminish dissident presence in publi
 
 > 📡 Cross-references:
 > 
-> - [🔥 Narrative Inversion] — reframing refusal as threat  
-> - [🔥 Hunger Strike as Counter-Sovereignty] — refusal and legitimacy crisis  
-> - [🧨 Exceptional Sovereignty in Pre-Trial Security Detention] — democratic emergency dynamics  
-> - [🍄 Suppression Layers] — structural visibility minimisation  
+> - [📉 Newsroom Deprioritisation Patterns](../📉_Suppression_Interference_Logs/📉_newsroom_deprioritisation_patterns.md)  
+> - [🔥 When Refusal Is Framed as Threat](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
+> - [👅 The Smear Logic of Self-Harm Framing](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_the_smear_logic_of_self_harm_framing.md)  
+> - [📡 The Governance of Bodies That Refuse](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📡_the_governance_of_bodies_that_refuse.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
