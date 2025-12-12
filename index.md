@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:42:54 UTC_
+_Generated on 2025-12-12 03:44:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2586,6 +2586,7 @@ _Generated on 2025-12-12 03:42:54 UTC_
       - [`📊_analytics_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_analytics_as_signal.md)
       - [`📊_from_data_misuse_to_white_collar_breach.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_from_data_misuse_to_white_collar_breach.md)
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
+      - [`🕳️_governance_black_hole.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🕳️_governance_black_hole.md)
       - [`🚦_trigger_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🚦_trigger_architecture.md)
       - [`🦤_false_pretexts_manufactured_justifications_for_intervention.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦤_false_pretexts_manufactured_justifications_for_intervention.md)
       - [`🧠_psychological_containment_loops_living_below_the_threshold.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧠_psychological_containment_loops_living_below_the_threshold.md)
@@ -3075,7 +3076,6 @@ _Generated on 2025-12-12 03:42:54 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
-    - [`🕳️_governance_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_governance_black_hole.md)
     - [`🕳️_how_to_catch_a_whistleblower.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_how_to_catch_a_whistleblower.md)
     - [`🕳️_never_really_leaving_child_abuse_britain_non_escape.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_never_really_leaving_child_abuse_britain_non_escape.md)
     - [`🕳️_routing_logic.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_routing_logic.md)
