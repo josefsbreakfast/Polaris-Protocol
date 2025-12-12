@@ -1,6 +1,6 @@
 # 🛰 Who Built Prevent? (Policy Ecosystem 2010–16)  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*A map of the political, institutional, think-tank, policing, and security actors who designed, expanded, and legitimised Prevent during the 2010–2016 period — embedding pre-crime logic into UK governance.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-12  
+*A map of the political, institutional, think-tank, policing, and security actors who designed, expanded, and legitimised Prevent during the 2010–2016 period — embedding pre-crime logic into UK governance.*  
 
 ---
 
@@ -198,4 +198,4 @@ It charts the network of governmental, policing, think-tank, and commercial acto
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-12_
