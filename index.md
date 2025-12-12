@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:32:09 UTC_
+_Generated on 2025-12-12 18:33:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2196,6 +2196,7 @@ _Generated on 2025-12-12 18:32:09 UTC_
     - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
     - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
     - [`🛰️_looped_waiting_rooms_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_looped_waiting_rooms_field_log_2025-09-13.md)
+    - [`🛰️_low_frequency_hum_diagnostic_log.md`](Disruption_Kit/Field_Logs/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_mainstream_visibility_anomalies_2025-09-12.md`](Disruption_Kit/Field_Logs/🛰️_mainstream_visibility_anomalies_2025-09-12.md)
     - [`🛰️_memory_fogging_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_memory_fogging_field_log_2025-09-13.md)
     - [`🛰️_meta_joke_surveillence_gadgies.md.PNG`](Disruption_Kit/Field_Logs/🛰️_meta_joke_surveillence_gadgies.md.PNG)
@@ -3178,7 +3179,6 @@ _Generated on 2025-12-12 18:32:09 UTC_
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
-    - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_metadata_chain_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_metadata_chain_reconstruction.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_naming_the_unnamed_data_sovereignty_statehood.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_naming_the_unnamed_data_sovereignty_statehood.md)
