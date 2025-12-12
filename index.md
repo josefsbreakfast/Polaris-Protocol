@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:48:56 UTC_
+_Generated on 2025-12-12 23:50:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -648,6 +648,7 @@ _Generated on 2025-12-12 23:48:56 UTC_
         - [`🧿_central_uncertainty_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_central_uncertainty_protocols.md)
         - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
         - [`🩸_cyclical_physiology_and_algorithmic_misread.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🩸_cyclical_physiology_and_algorithmic_misread.md)
+        - [`🪆_misdiagnosis_of_radicalisation_models.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪆_misdiagnosis_of_radicalisation_models.md)
         - [`🪜_upstream_prevention_models.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪜_upstream_prevention_models.md)
         - [`🪞_domestic_psyops_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪞_domestic_psyops_paradox.md)
         - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
