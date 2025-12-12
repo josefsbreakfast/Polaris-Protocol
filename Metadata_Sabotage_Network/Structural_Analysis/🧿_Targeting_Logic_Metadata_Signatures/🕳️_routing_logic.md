@@ -1,6 +1,6 @@
-# 🕳️ Routing Logic — Identity as Risk Variable  
-**First created:** 2025-11-09 | **Last updated:** 2025-11-09  
-*How institutional metadata systems treat identity as a security-risk multiplier.*
+# 🕳️ Routing Logic: Identity as Risk Variable  
+**First created:** 2025-11-09 | **Last updated:** 2025-12-12  
+*How institutional metadata systems treat identity as a security-risk multiplier.*  
 
 ---
 
@@ -28,4 +28,6 @@ Reveal why identity-coded allegations escalate faster than disclosures of violen
 ---
 
 ## 🏮 Footer  
-*Systems confess their priorities in the speed of their response.*
+*Systems confess their priorities in the speed of their response.*  
+
+_Last updated: 2025-12-12_
