@@ -1,6 +1,6 @@
 # 🛠️ Fixing the UK Algorithmic Safety Stack  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*How to turn a patchwork of overlapping safety systems into a transparent, accountable digital infrastructure.*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-12  
+*How to turn a patchwork of overlapping safety systems into a transparent, accountable digital infrastructure.*  
 
 ---
 
@@ -64,7 +64,7 @@ algorithmic safety, Ofcom, ICO, transparency, audit, redress, duty of care, digi
 ---
 
 ## 🏮 Footer  
-*Fixing the UK Algorithmic Safety Stack* argues that the only stable safety system is one whose decisions are visible, contestable, and temporary.  
+*🛠️ Fixing the UK Algorithmic Safety Stack* argues that the only stable safety system is one whose decisions are visible, contestable, and temporary.  
 Friction should live in governance, not in speech.
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-12_
