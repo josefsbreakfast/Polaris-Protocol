@@ -142,14 +142,14 @@ exceptional detention, democratic legitimacy, sovereignty paradox, hunger strike
 
 ## 🏮 Footer  
 *🧨 Exceptional Sovereignty and the Hunger Strike in Pre-Trial Security Detention* is a living node of the **Polaris Protocol**.  
-It analyses how exceptional detention, medical deterioration, and public comprehension gaps can converge into a high-severity democratic legitimacy scenario, mapping the systemic vulnerabilities that emerge when sovereignty is stretched beyond its communicative capacity.
+It analyses how exceptional detention, medical deterioration, and public comprehension gaps can converge into a high-severity democratic legitimacy scenario, mapping the systemic vulnerabilities that emerge when sovereignty is stretched beyond its communicative capacity.  
 
 > 📡 Cross-references:
 > 
-> - [🔥 Hunger Strike as Counter-Sovereignty] — refusal and democratic stability  
-> - [🕯️ Ethics of Refusal in Austerity States] — moral architecture of refusal  
-> - [🎭 Narrative & Psych Ops] — framing and public comprehension  
-> - [🧠 Systems & Governance] — architectures of legitimacy and risk  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
+> - [⚖️ The Refusal Body as Unmanageable Risk](../../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md)  
+> - [📡 The Governance of Bodies That Refuse](./📡_the_governance_of_bodies_that_refuse.md)  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
