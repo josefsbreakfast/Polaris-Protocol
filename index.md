@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:02:38 UTC_
+_Generated on 2025-12-12 16:03:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2533,6 +2533,7 @@ _Generated on 2025-12-12 16:02:38 UTC_
       - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
       - [`🚷_ethical_withdrawal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚷_ethical_withdrawal.md)
       - [`🛠️_how_neutral_people_enable_authoritarian_tech.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛠️_how_neutral_people_enable_authoritarian_tech.md)
+      - [`🛡️_trusted_signals_checklist_male_allies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛡️_trusted_signals_checklist_male_allies.md)
       - [`🧊_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_the_care_cage.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
       - [`🧬_distributed_trust.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_distributed_trust.md)
@@ -3160,7 +3161,6 @@ _Generated on 2025-12-12 16:02:38 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛡_trusted_signals_checklist_male_allies.md`](Polaris_Nest/Git_Intake_Drawer/🛡_trusted_signals_checklist_male_allies.md)
     - [`🛡_why_democracies_must_not_build_opaque_multiagency_risk_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛡_why_democracies_must_not_build_opaque_multiagency_risk_systems.md)
     - [`🛡️_constructed_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_constructed_immunity.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
