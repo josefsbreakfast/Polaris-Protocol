@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:45:20 UTC_
+_Generated on 2025-12-12 18:47:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2954,6 +2954,7 @@ _Generated on 2025-12-12 18:45:20 UTC_
       - [`🕳️_routing_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕳️_routing_logic.md)
       - [`🕸️_architectural_targeting_vs_human_targeting.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕸️_architectural_targeting_vs_human_targeting.md)
       - [`🚩_when_being_flagged_creates_the_evidence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🚩_when_being_flagged_creates_the_evidence.md)
+      - [`🛰️_who_can_see_the_flag.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🛰️_who_can_see_the_flag.md)
       - [`🦁_the_rules_beneath_the_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦁_the_rules_beneath_the_rules.md)
       - [`🦠_statistical_nightmare.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_statistical_nightmare.md)
       - [`🦠_the_mutation_of_targeting_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_the_mutation_of_targeting_rules.md)
@@ -3187,7 +3188,6 @@ _Generated on 2025-12-12 18:45:20 UTC_
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
-    - [`🛰️_who_can_see_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_who_can_see_the_flag.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🜁_shared_air.md`](Polaris_Nest/Git_Intake_Drawer/🜁_shared_air.md)
     - [`🤖_mr_meeseeks_and_shutdown_resistance_problem.md`](Polaris_Nest/Git_Intake_Drawer/🤖_mr_meeseeks_and_shutdown_resistance_problem.md)
