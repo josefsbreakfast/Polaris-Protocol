@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:35:17 UTC_
+_Generated on 2025-12-12 04:38:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -14,10 +14,6 @@ _Generated on 2025-12-12 04:35:17 UTC_
   - [`core-plugins.json`](.obsidian/core-plugins.json)
   - [`graph.json`](.obsidian/graph.json)
   - [`workspace.json`](.obsidian/workspace.json)
-- [**ChatGPT said:  Metadata_Sabotage_Network/**](ChatGPT said:  Metadata_Sabotage_Network/)
-  - [**Governance_And_Containment/**](ChatGPT said:  Metadata_Sabotage_Network/Governance_And_Containment/)
-    - [**🈺_Governance_And_Prevent/**](ChatGPT said:  Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
-      - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](ChatGPT said:  Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
 - [**Containment_Studies/**](Containment_Studies/)
   - [**🌙_Everyday_Containment/**](Containment_Studies/🌙_Everyday_Containment/)
     - [`README.md`](Containment_Studies/🌙_Everyday_Containment/README.md)
@@ -2587,6 +2583,7 @@ _Generated on 2025-12-12 04:35:17 UTC_
       - [`🕯️_prevent_and_the_encampment_silence.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕯️_prevent_and_the_encampment_silence.md)
       - [`🕳️_the_channel_panel_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕳️_the_channel_panel_problem.md)
       - [`🕷️_prevent_as_soft_coup_infrastructure.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕷️_prevent_as_soft_coup_infrastructure.md)
+      - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
       - [`🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md)
       - [`🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
