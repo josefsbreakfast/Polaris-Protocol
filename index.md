@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:00:50 UTC_
+_Generated on 2025-12-12 23:04:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -263,6 +263,7 @@ _Generated on 2025-12-12 23:00:50 UTC_
         - [`😳_institutional_embarrassment_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/😳_institutional_embarrassment_dynamics.md)
         - [`😶‍🌫_institutional_freeze_fog_correction_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/😶‍🌫_institutional_freeze_fog_correction_cycle.md)
         - [`🚨_absence_of_intervention_as_early_warning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🚨_absence_of_intervention_as_early_warning.md)
+        - [`🛂_public_legal_illiteracy_as_an_attack_surface_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛂_public_legal_illiteracy_as_an_attack_surface_uk.md)
         - [`🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🛰️_disappearing_public_surgery.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_disappearing_public_surgery.md)
