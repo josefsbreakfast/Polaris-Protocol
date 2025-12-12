@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:07:38 UTC_
+_Generated on 2025-12-12 23:11:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1379,6 +1379,7 @@ _Generated on 2025-12-12 23:07:38 UTC_
       - [`🇬🇧_cve_voice_containment_calming_voice_prototype.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🇬🇧_cve_voice_containment_calming_voice_prototype.md)
       - [`🌀_exhaustion_as_a_containment_layer.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_exhaustion_as_a_containment_layer.md)
       - [`🌀_recognition_without_resolution.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌀_recognition_without_resolution.md)
+      - [`🌿_feminised_language_and_discounted_power.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🌿_feminised_language_and_discounted_power.md)
       - [`👾_button_mash_metadata_farming.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/👾_button_mash_metadata_farming.md)
       - [`📄_the_form_and_the_feeling.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/📄_the_form_and_the_feeling.md)
       - [`🔥_cooling_the_record.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔥_cooling_the_record.md)
