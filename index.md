@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 22:57:17 UTC_
+_Generated on 2025-12-12 22:59:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -103,6 +103,7 @@ _Generated on 2025-12-12 22:57:17 UTC_
         - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
         - [`⚖️_due_diligence_as_moral_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_due_diligence_as_moral_defence.md)
+        - [`⚖️_harm_reduction_vs_adversarial_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md)
         - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_international_laundering.md)
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)
         - [`⚖️_judicial_deference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_deference.md)
