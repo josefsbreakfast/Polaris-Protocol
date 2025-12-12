@@ -1,5 +1,5 @@
 # 🗳️ The Corbyn–Starmer Consent Mechanism  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-12  
 *How Labour voters traded idealism for electability—on the condition of democratic reform.*
 
 ---
@@ -105,3 +105,5 @@ corbyn, starmer, labour coalition, consent mechanism, democratic reform, politic
 ## 🏮 Footer  
 *🗳️ The Corbyn–Starmer Consent Mechanism* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-12_
