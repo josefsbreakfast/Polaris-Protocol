@@ -1,8 +1,6 @@
-File: 🚫_when_no_one_steps_in_institutional_silence_as_warning_signal.md
-
 # 🚫 When No One Steps In: Institutional Silence as a Warning Signal  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*Why the absence of intervention, correction, or safeguarding by institutions is one of the clearest early warnings of democratic drift and bureaucratic breakdown.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-12  
+*Why the absence of intervention, correction, or safeguarding by institutions is one of the clearest early warnings of democratic drift and bureaucratic breakdown.*  
 
 ---
 
@@ -186,10 +184,12 @@ It is data.
 ---
 
 ## 🏮 Footer  
-**When No One Steps In: Institutional Silence as a Warning Signal** is part of Polaris’ Democratic Drift Phenomenology cluster.  
+*🚫 When No One Steps In: Institutional Silence as a Warning Signal* is part of Polaris’ Democratic Drift Phenomenology cluster.  
 It anchors the emotional reality of being left to absorb system error alone, and reframes silence as a sign of structural instability rather than personal failure.
 
 Crosslinks:  
 - ⚡ *why_some_people_become_systemic_lightning_rods*  
 - 🗂️ *when_institutions_start_treating_you_as_a_category_not_a_person*  
-- 🧭 *how_authoritarian_drift_feels_from_the_inside*
+- 🧭 *how_authoritarian_drift_feels_from_the_inside*  
+
+_Last updated: 2025-12-12_
