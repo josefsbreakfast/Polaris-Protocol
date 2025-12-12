@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:47:37 UTC_
+_Generated on 2025-12-12 05:48:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -109,6 +109,7 @@ _Generated on 2025-12-12 05:47:37 UTC_
         - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
         - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_official_secrets_reform_and_accountability.md)
         - [`⚖️_paying_for_your_porn_is_good_defence_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_paying_for_your_porn_is_good_defence_doctrine.md)
+        - [`⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md)
         - [`⚖️_protection_racket_as_system_design.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_protection_racket_as_system_design.md)
         - [`⚖️_public_inquiry_business_case.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_public_inquiry_business_case.md)
         - [`⚖️_redress_models_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_redress_models_and_limits.md)
