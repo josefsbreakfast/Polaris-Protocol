@@ -1,5 +1,5 @@
 # 🗺️ Linguistic Silk Road — How Words Travel  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2025-12-12  
 *A cultural-linguistic map tracing how trade, empire, and human curiosity turned language into a network rather than a lineage.*  
 
 ---
@@ -119,9 +119,9 @@ linguistics, etymology, trade routes, Semitic languages, Indo‑European l
 
 ## 🏮 Footer  
 
-*Linguistic Silk Road — How Words Travel* is a Polaris cultural‑forensics node.  
+*🗺️ Linguistic Silk Road — How Words Travel* is a Polaris cultural‑forensics node.  
 It follows etymology as evidence of encounter, showing that every sentence in English is a small archive of world history.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑07_
+_Last updated: 2025-12-12_
