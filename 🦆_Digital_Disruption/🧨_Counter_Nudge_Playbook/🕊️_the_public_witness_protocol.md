@@ -114,9 +114,10 @@ It defines how publics maintain visibility and coherence during periods of excep
 
 > 📡 Cross-references:
 > 
-> - [📉 Newsroom Deprioritisation Patterns]  
-> - [🔮 Visibility Collapse]  
-> - [🔥 Hunger Strike as Counter-Sovereignty]  
+> - [📉 Newsroom Deprioritisation Patterns](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_newsroom_deprioritisation_patterns.md)  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
+> - [🔥 Breaking Media Blockade Through Body-Based Protest](./🔥_breaking_media_blockade_through_body_based_protest.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
