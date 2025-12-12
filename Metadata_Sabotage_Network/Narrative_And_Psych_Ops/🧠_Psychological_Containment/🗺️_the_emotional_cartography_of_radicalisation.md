@@ -1,6 +1,6 @@
 # 🗺️ The Emotional Cartography of Radicalisation  
 **First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
+**Last updated:** 2025-12-12  
 *Mapping the emotional terrains—loneliness, shame, invisibility, hunger for recognition—that extremists navigate like geographers.*
 
 ---
@@ -185,10 +185,9 @@ They are **changing maps**.
 It reframes radicalisation as an emotional geography navigated by predatory political movements and offers a map for restoring agency and identity.
 
 > 📡 Cross-references:  
-> - [🪪 Algorithmic Mislabeling & Identity Collapse](./algorithmic_mislabeling_and_identity_collapse.md)  
-> - [🧿 The Tech Bro → Kylo Ren Pipeline](./the_tech_bro_to_kylo_ren_pipeline.md)  
-> - [🌋 Why Fascist Recruiters Promise Visibility](./why_fascist_recruiters_promise_visibility.md)
-
+> - [🪪 Algorithmic Mislabeling & Identity Collapse]  
+> - [🧿 The Tech Bro → Kylo Ren Pipeline]  
+> - [🌋 Why Fascist Recruiters Promise Visibility]  
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-12_
