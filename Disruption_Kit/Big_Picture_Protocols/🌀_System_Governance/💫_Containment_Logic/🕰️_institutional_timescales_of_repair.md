@@ -1,6 +1,6 @@
 # 🕰️ Institutional Timescales of Repair — how long change actually takes  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
-*When scandal moves at tweet speed and remediation crawls at civil-service pace.*
+**First created:** 2025-10-25 | **Last updated:** 2025-12-12  
+*When scandal moves at tweet speed and remediation crawls at civil-service pace.*  
 
 ---
 
@@ -81,9 +81,12 @@ institutional time, audit lag, remediation cycles, outrage economy, repair half-
 *🕰️ Institutional Timescales of Repair* is a meta-node of the **Polaris Protocol**.  
 It charts the temporal politics of accountability — showing how quickly shame travels and how slowly systems change.
 
-> 📡 Cross-references:  
-> - [🤦‍♀️ Operation Shande — the bureaucratic shame engine](../🤦‍♀️_operation_shande.md)  
-> - [🪖 Moral Injury & Veterans](../🪖_moral_injury_and_veterans.md)  
-> - [🌀 Self-Consuming Cycles](../🌀_self_consuming_cycles.md)  
+> 📡 Cross-references:
+> 
+> - [🤦‍♀️ Operation Shande — the bureaucratic shame engine]  
+> - [🪖 Moral Injury & Veterans]  
+> - [🌀 Self-Consuming Cycles]  
 
-*Every reform carries its own clock; knowing the time is the first act of resistance.*
+*Every reform carries its own clock; knowing the time is the first act of resistance.*  
+
+_Last updated: 2025-12-12_
