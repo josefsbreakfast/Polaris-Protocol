@@ -1,6 +1,6 @@
-# 🗂️ Data-Sharing Trace — MoD or Contractor Links
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*Template for tracing possible Ministry of Defence or defence-contractor access to personal or institutional data.*
+# 🗂️ Data-Sharing Trace — MoD or Contractor Links  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-12  
+*Template for tracing possible Ministry of Defence or defence-contractor access to personal or institutional data.*  
 
 ---
 
@@ -107,13 +107,14 @@ data protection, SAR, Ministry of Defence, defence contractors, ICO, NHS Digital
 
 ## 🏮 Footer  
 
-*Data-Sharing Trace — MoD or Contractor Links* is a living node of the Polaris Protocol.  
+*🗂️ Data-Sharing Trace — MoD or Contractor Links* is a living node of the Polaris Protocol.  
 It provides a neutral evidential framework for mapping potential data pathways that involve defence or security sectors.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic containment analysis  
-> - [OSINT Field Operations](../Disruption_Kit/🛰️_OSINT_Field_Operations/) — investigative mapping methods  
+> 📡 Cross-references:
+> 
+> - [Big Picture Protocols] — systemic containment analysis  
+> - [🛰️ OSINT Field Operations] — investigative mapping methods  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-12_
