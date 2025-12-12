@@ -1,6 +1,6 @@
 # 🛰️ Counter-Extremism by Network — Anatomy of Prevent and CVE Tooling  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
-*Analytical node outlining how UK and allied counter-violent-extremism programmes use behavioural and network methods, based entirely on open-source documentation.*
+**First created:** 2025-11-06 | **Last updated:** 2025-12-12  
+*Analytical node outlining how UK and allied counter-violent-extremism programmes use behavioural and network methods, based entirely on open-source documentation.*  
 
 ---
 
@@ -107,15 +107,15 @@ prevent, cve, behavioural insights, networked influence, safeguarding, counter-t
 ---
 
 ## 🏮 Footer  
-*Counter-Extremism by Network — Anatomy of Prevent and CVE Tooling* is a living analytical node of the Polaris Protocol.  
+*🛰️ Counter-Extremism by Network — Anatomy of Prevent and CVE Tooling* is a living analytical node of the Polaris Protocol.  
 It documents open-source knowledge on how behavioural and counter-extremism systems use networked influence, to support transparency and informed consent.
 
 > 📡 Cross-references:  
-
-> - [🕸️ Networked Influence — How Behaviour Travels Through Social Graphs](../Disruption_Kit/Big_Picture_Protocols/🕸️_networked_influence.md) — theoretical companion  
-> - [🎓 Safeguarding as Surveillance](../Disruption_Kit/Big_Picture_Protocols/🎓_safeguarding_as_surveillance.md) — institutional pattern  
-> - [🩹 Repair Denial](../Disruption_Kit/Big_Picture_Protocols/🩹_repair_denial.md) — failure of remediation  
+> 
+> - [🕸️ Networked Influence — How Behaviour Travels Through Social Graphs] — theoretical companion  
+> - [🎓 Safeguarding as Surveillance] — institutional pattern  
+> - [🩹 Repair Denial] — failure of remediation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-12_
