@@ -186,7 +186,7 @@ It documents how harm can emerge through cumulative interaction rather than expl
 > 
 > - [🧿 Against Pseudoanthropy](../🪐_Meta_Containment/🧿_against_pseudoanthropy.md) — *relational misattribution*  
 > - [👻 Fluent Language as an Attack Surface](./👻_fluent_language_as_an_attack_surface.md) — *language-mediated influence*  
-> - [🧠 Qualitative Harm in Quantitative Systems] — *governance mismatch*  
+> - [🧠 Qualitative Harm in Quantitative Systems](../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *governance mismatch*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
