@@ -100,13 +100,14 @@ embodied protest, hunger strike visibility, media blockade breach, palestine act
 
 ## 🏮 Footer  
 *🔥 Breaking Media Blockade Through Body-Based Protest* is a living node of the **Polaris Protocol**.  
-It analyses how embodied refusal disrupts suppression environments, forcing visibility even when institutions attempt minimisation.
+It analyses how embodied refusal disrupts suppression environments, forcing visibility even when institutions attempt minimisation.  
 
 > 📡 Cross-references:
 > 
-> - [🔮 Visibility Collapse]  
-> - [📉 Newsroom Deprioritisation Patterns]  
-> - [🔥 Narrative Inversion]  
+> - [📉 Newsroom Deprioritisation Patterns](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_newsroom_deprioritisation_patterns.md)  
+> - [🕊️ The Public Witness Protocol](./🕊️_the_public_witness_protocol.md)  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
