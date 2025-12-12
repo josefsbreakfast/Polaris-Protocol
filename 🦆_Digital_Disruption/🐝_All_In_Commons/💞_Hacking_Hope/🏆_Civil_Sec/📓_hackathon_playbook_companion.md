@@ -1,5 +1,5 @@
 # 📓 Hackathon Playbook Companion  
-**First created:** 2025-10-15 | **Last updated:** 2025-11-24  
+**First created:** 2025-10-15 | **Last updated:** 2025-12-12  
 *A lightweight replay log for the Hackathon League — designed for zero-friction note-taking.*  
 
 ---
@@ -88,4 +88,4 @@ It provides a zero-friction journal for documenting coordination, ethics, and te
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-24_
+_Last updated: 2025-12-12_
