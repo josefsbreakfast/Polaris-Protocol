@@ -1,5 +1,5 @@
 # 🕸️ Web Sovereignty — Folklore of Connection and Containment  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2025-12-12  
 *Every thread is both sensor and shield.*
 
 ---
@@ -63,11 +63,12 @@ spider folklore, web design, selective permeability, resonance, mythology, digit
 *🕸️ Web Sovereignty — Folklore of Connection and Containment* is a living node of the Polaris Protocol.  
 It braids mythic weaving, biological design, and digital boundary practice into one vocabulary of ethical permeability.  
 
-> 📡 Cross-references:  
-> – [🧬 Selective Permeability — Navigating Power-Weighted Signals Online](./🧬_selective_permeability_navigating_power-weighted_signals_online.md)  
-> – [🌪 Field Conditioning — Rewriting the Medium of Influence](./🌪_field_conditioning_rewriting_the_medium_of_influence.md)  
-> – [🌿 Wild-Type Protocol — Environmental Tuning for Natural Encounters](../../Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🌿_wild-type_protocol_environmental_tuning_for_natural_encounters.md)
+> 📡 Cross-references:
+> 
+> – [🧬 Selective Permeability — Navigating Power-Weighted Signals Online]  
+> – [🌪 Field Conditioning — Rewriting the Medium of Influence]  
+> – [🌿 Wild-Type Protocol — Environmental Tuning for Natural Encounters]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-12_
