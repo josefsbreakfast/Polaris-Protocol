@@ -201,6 +201,11 @@ graph TD
 This node is a living map within the Polaris Protocol.  
 It documents how asylum hotels became proxy battlefields: far-right mobilisation on the streets, lawfare extraction in courts, executive drift in the state.  
 
+> 📡 Cross-references:
+> 
+> - [🧨 Exceptional Sovereignty in Pretrial Detention](../../🌀_System_Governance/⚖️_Legal_State_Governance//🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *Schmittian logic in pre-trial detention & responsive hunger striking*  
+> - [🧨 The Schmittian Drift in Exceptional Detention Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md) - *Schmittian logic in exceptional detention states in 2025*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2025-10-18_  
