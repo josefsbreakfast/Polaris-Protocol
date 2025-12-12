@@ -1,6 +1,6 @@
 # 🛑 Prevent Is Not Safeguarding  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*A structural rebuttal explaining why Prevent cannot be considered safeguarding—and why treating it as such endangers children, racialised communities, and the entire safeguarding ecosystem.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-12  
+*A structural rebuttal explaining why Prevent cannot be considered safeguarding—and why treating it as such endangers children, racialised communities, and the entire safeguarding ecosystem.*  
 
 ---
 
@@ -234,4 +234,4 @@ It demonstrates why Prevent cannot meet the ethical, legal, or operational requi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-12_
