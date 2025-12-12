@@ -1,6 +1,6 @@
 # 🕸️ Systems Failure Analysis — The British State’s Cross-Agency Architecture Collapse  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How fragmented public systems, legacy metadata, and duct-taped integrations create cascading harm across UK government services.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-12  
+*How fragmented public systems, legacy metadata, and duct-taped integrations create cascading harm across UK government services.*  
 
 ---
 
@@ -260,10 +260,11 @@ systems failure, frankenstack, metadata contamination, safeguarding, pip review,
 It maps how fragmented UK public systems generate cross-agency failures that disproportionately harm disabled and vulnerable people, offering a clear architecture-level explanation and pathways for safe repair.
 
 > 📡 Cross-references:
-> - [⚙️ Disruption Kit](../Disruption_Kit/) — countermeasures and scripts  
-> - [🛰️ Metadata Sabotage Network](../Metadata_Sabotage_Network/) — suppression mapping  
-> - [🧠 Big Picture Protocols](../Big_Picture_Protocols/) — structural governance analysis  
+> 
+> - [⚙️ Disruption Kit] — countermeasures and scripts  
+> - [🛰️ Metadata Sabotage Network] — suppression mapping  
+> - [🧠 Big Picture Protocols] — structural governance analysis  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-12-12_
