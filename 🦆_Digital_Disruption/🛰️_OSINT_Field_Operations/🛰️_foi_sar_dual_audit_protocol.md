@@ -1,5 +1,5 @@
 # 🛰️ FOI–SAR Dual Audit Protocol  
-**First created:** 2025-11-22  |  **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-12  
 *A twin-lever civic method for tracing state–vendor data flows and exposing containment architecture.*
 
 ---
@@ -124,13 +124,13 @@ foi, sar, transparency, vendor capture, data governance, procurement secrecy, br
 *🛰️ FOI–SAR Dual Audit Protocol* is a living node of the Polaris Protocol.  
 It outlines the public method for using information rights as paired diagnostic tools to reveal capture, map hidden data flows, and test the integrity of state–vendor governance.
 
-> 📡 Cross-references:  
-> - [🧭 Are We Fascist Yet?](🧭_are_we_fascist_yet.md) — protofascism diagnostic  
-> - [⚖️ Above the Law — Protofascism Threshold](⚖️_above_the_law_protofascism_threshold.md) — economic/legal immunity map  
-> - [🧾 Case Study — Keir Starmer](Case_Study_Keir_Starmer.md) — data politics and perception theatre  
-> - [🐝 Post-Protofascist Reconstruction](🐝_post_protofascist_reconstruction.md) — civic repair architectures  
-> - [🧩 Civic SAR Avalanche Method](🧩_civic_sar_avalanche_method.md) — mass enforcement companion tool  
+> 📡 Cross-references:
+> 
+> - [🧭 Are We Fascist Yet?] — protofascism diagnostic  
+> - [⚖️ Above the Law — Protofascism Threshold] — economic/legal immunity map  
+> - [🐝 Post-Protofascist Reconstruction] — civic repair architectures  
+> - [🧩 Civic SAR Avalanche Method] — mass enforcement companion tool  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-12_
