@@ -177,10 +177,11 @@ It dissects how institutions collapse political refusal into pathology and why t
 
 > 📡 Cross-references:
 > 
-> - [🪆 Narrative Inversion] — how refusal becomes threat in official framing  
-> - [🔮 Visibility Collapse] — suppression and disappearance  
-> - [⚖️ Refusal Body as Unmanageable Risk] — refusal as modelling failure  
-> - [🔥 Hunger Strike as Counter-Sovereignty] — refusal and legitimacy rupture  
+> - [🔥 When Refusal Is Framed as Threat](../🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
+> - [⚖️ The Refusal Body as Unmanageable Risk](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md)  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
