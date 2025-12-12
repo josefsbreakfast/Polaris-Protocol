@@ -1,5 +1,5 @@
 # 🕳 Audit Glitchpoints in Racialised Gendered Cases
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-12  
 *Where institutions fail to detect retaliatory reporting, misclassification, and racialised-gendered escalation.*
 
 ---
@@ -274,7 +274,7 @@ audit gaps, institutional blind spots, racialised misclassification, safeguardin
 ---
 
 ## 🏮 Footer  
-*Audit Glitchpoints in Racialised Gendered Cases* is a living node of the Polaris Protocol.  
+*🕳 Audit Glitchpoints in Racialised Gendered Cases* is a living node of the Polaris Protocol.  
 It maps the structural failures that allow malicious reporting to slip through institutional cracks — and explains why racialised women are hit hardest.
 
 > 📡 Cross-references:  
@@ -284,4 +284,5 @@ It maps the structural failures that allow malicious reporting to slip through i
 > - 🪓 Vindictive Male Escalation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-12-12_
