@@ -1,5 +1,5 @@
 # 🛂 Misuse of Safeguarding Through Gendered Prejudice
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-12  
 *How safeguarding frameworks become tools of retaliation, misogyny, and racialised containment.*
 
 ---
@@ -213,7 +213,7 @@ safeguarding misuse, gendered bias, racial discrimination, concern-seeding, Prev
 ---
 
 ## 🏮 Footer  
-*Misuse of Safeguarding Through Gendered Prejudice* is a living node of the Polaris Protocol.  
+*🛂 Misuse of Safeguarding Through Gendered Prejudice* is a living node of the Polaris Protocol.  
 It documents how safeguarding—intended as protection—becomes a mechanism of control, punishment, and racialised misogyny.
 
 > 📡 Cross-references:  
@@ -222,4 +222,4 @@ It documents how safeguarding—intended as protection—becomes a mechanism of 
 > - 🪓 Vindictive Male Escalation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-12_
