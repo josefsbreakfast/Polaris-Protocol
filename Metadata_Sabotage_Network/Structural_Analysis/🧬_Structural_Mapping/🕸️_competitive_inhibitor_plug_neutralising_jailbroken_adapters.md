@@ -1,6 +1,6 @@
 # 🕸️ Competitive inhibitor plug — neutralising jailbroken adapters
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
-*Design pattern and defensive node for inserting a benign adapter that competes with or neutralises a malicious “jailbreaker” integration in an LLM stack.*
+**First created:** 2025-10-22 | **Last updated:** 2025-12-12  
+*Design pattern and defensive node for inserting a benign adapter that competes with or neutralises a malicious “jailbreaker” integration in an LLM stack.*  
 
 ---
 
@@ -132,14 +132,15 @@ competitive inhibitor, adapter pattern, jailbreak mitigation, middleware, policy
 ---
 
 ## 🏮 Footer
-*Competitive inhibitor plug — neutralising jailbroken adapters* is a living node of the Polaris Protocol.  
+*🕸️ Competitive inhibitor plug — neutralising jailbroken adapters* is a living node of the Polaris Protocol.  
 It documents a defensive design pattern for inserting a sanctioned adapter that competes with or neutralises unauthorised jailbroken components in an LLM integration stack.
 
-> 📡 Cross-references:  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — implementation patterns and scripts for suppression and visibility controls.  
-> - [🧪 Development & Experimentation](../Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/) — safe testing & canary strategies.  
-> - [👁️‍🗨️ Witness Historical Casefiles](../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/) — ethical governance of interventions.
+> 📡 Cross-references:
+> 
+> - [Containment Scripts] — implementation patterns and scripts for suppression and visibility controls.  
+> - [🧪 Development & Experimentation] — safe testing & canary strategies.  
+> - [👁️‍🗨️ Witness Historical Casefiles] — ethical governance of interventions.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-12-12_
