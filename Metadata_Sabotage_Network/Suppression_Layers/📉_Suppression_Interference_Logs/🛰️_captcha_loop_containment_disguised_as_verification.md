@@ -1,6 +1,6 @@
-# 🧩 CAPTCHA Loop — Containment Disguised as Verification
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*When “prove you’re human” becomes a mechanism of exclusion and extraction.*
+# 🛰️ CAPTCHA Loop — Containment Disguised as Verification
+**First created:** 2025-11-11 | **Last updated:** 2025-12-12  
+*When “prove you’re human” becomes a mechanism of exclusion and extraction.*  
 
 ---
 
@@ -40,7 +40,7 @@ captcha, containment, verification, ableism, behavioural data, friction loops, e
 ---
 
 ## 🏮 Footer  
-*🧩 CAPTCHA Loop — Containment Disguised as Verification* is a living node of the Polaris Protocol.  
+*🛰️ CAPTCHA Loop — Containment Disguised as Verification* is a living node of the Polaris Protocol.  
 It exposes how “security verification” doubles as behavioural extraction and structural exclusion.  
 
 > 📡 Cross-references:  
@@ -48,4 +48,4 @@ It exposes how “security verification” doubles as behavioural extraction and
 > - [🧮 Data Dividend — The Unpaid Labour of Verification](../Legal_&_State_Governance/🧮_data_dividend_unpaid_labour_of_verification.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-12_
