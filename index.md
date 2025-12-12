@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 06:51:22 UTC_
+_Generated on 2025-12-12 06:51:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -429,6 +429,7 @@ _Generated on 2025-12-12 06:51:22 UTC_
           - [`🕯️_kabbalah_interlock_strength.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_kabbalah_interlock_strength.md)
           - [`🕯️_kol_nidre_and_european_viral_ignorance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_kol_nidre_and_european_viral_ignorance.md)
           - [`🕯️_shabbat_is_anticapitalist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
+          - [`🗝️_power_is_not_a_mitzvah.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🗝️_power_is_not_a_mitzvah.md)
           - [`🛰️_alrgorithmic_judaisms.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🛰️_alrgorithmic_judaisms.md)
           - [`🧄_market_deregulation_and_shylocks_monologue.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧄_market_deregulation_and_shylocks_monologue.md)
           - [`🧬_definitions_of_zionism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧬_definitions_of_zionism.md)
