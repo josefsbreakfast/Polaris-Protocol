@@ -1,6 +1,6 @@
 # 🗣️ How to Detect if Your Voice Has Been Used in a Dataset  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
-*Practical guidance for identifying, evidencing, and documenting potential misuse of your voice in text-to-speech or R&D datasets.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-12  
+*Practical guidance for identifying, evidencing, and documenting potential misuse of your voice in text-to-speech or R&D datasets.*  
 
 ---
 
@@ -110,11 +110,12 @@ voice cloning, text-to-speech, SAR template, biometric data, forensic linguistic
 *🗣️ How to Detect if Your Voice Has Been Used in a Dataset* is a living node of the Polaris Protocol.  
 It provides survivor-led technical and legal methods to verify potential voice misuse in AI training or R&D contexts.  
 
-> 📡 Cross-references:  
-> - [🧬 Cloneproof](../Survivor_Tools/🧬_cloneproof.md) — countermeasures against likeness and behavioural cloning  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — how layered contracts obscure accountability  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — undertone and forensic clarity in testimony  
+> 📡 Cross-references:
+> 
+> - [🧬 Cloneproof] — countermeasures against likeness and behavioural cloning  
+> - [⚖️ Containment Contract Trace] — how layered contracts obscure accountability  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-12-12_
