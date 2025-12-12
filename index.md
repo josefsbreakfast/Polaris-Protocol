@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:59:31 UTC_
+_Generated on 2025-12-12 04:01:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2386,6 +2386,7 @@ _Generated on 2025-12-12 03:59:31 UTC_
     - [`📓_paper_diary_sovereignty.md`](Disruption_Kit/Survivor_Tools/📓_paper_diary_sovereignty.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Disruption_Kit/Survivor_Tools/🔥_your_emotional_campfire_care_kit.md)
     - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
+    - [`🕸_ethical_de_meshing.md`](Disruption_Kit/Survivor_Tools/🕸_ethical_de_meshing.md)
     - [`🗃️_ten_year_box.md`](Disruption_Kit/Survivor_Tools/🗃️_ten_year_box.md)
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
     - [`🛰️_digital_counter_containment_protocol.md`](Disruption_Kit/Survivor_Tools/🛰️_digital_counter_containment_protocol.md)
@@ -3085,7 +3086,6 @@ _Generated on 2025-12-12 03:59:31 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_algorithmic_hearing_is_not_listening.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_algorithmic_hearing_is_not_listening.md)
     - [`🕸️_architectural_vs_human_versions_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_architectural_vs_human_versions_targeting.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
