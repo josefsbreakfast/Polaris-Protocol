@@ -1,6 +1,5 @@
 # 🕰️ ETA Drift & Bureaucratic Time Inflation  
-**First created:** 2025-11-12  |  **Status:** Draft — Stub Node  
-*Authored by Polaris Systems & Governance Working Group*  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-12  
 
 ---
 
@@ -17,3 +16,5 @@ Explores how official timelines in British administration inflate over time. The
 
 ## 🏮 Footer  
 *Stub — expand as needed within Polaris archive.*  
+
+_Last updated: 2025-12-12_
