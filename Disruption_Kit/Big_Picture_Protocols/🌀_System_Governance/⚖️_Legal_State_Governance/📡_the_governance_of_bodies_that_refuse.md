@@ -145,10 +145,12 @@ governance of refusal, hunger strike crisis, exceptional detention, palestine ac
 It examines how governance architectures respond to non-cooperative bodies and why the Palestine Action hunger strikes reveal the limits of control and the fragility of democratic stability.
 
 > 📡 Cross-references:
-> - [⚖️ Refusal Body as Unmanageable Risk]  
-> - [🔥 Hunger Strike as Counter-Sovereignty]  
-> - [🪆 Narrative Inversion]  
-> - [🔮 Visibility Collapse] 
+> 
+> - [⚖️ The Refusal Body as Unmanageable Risk](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md)  
+> - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)  
+> - [🪆 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
