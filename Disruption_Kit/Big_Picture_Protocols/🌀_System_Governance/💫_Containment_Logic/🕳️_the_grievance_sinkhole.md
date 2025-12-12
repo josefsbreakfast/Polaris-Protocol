@@ -1,7 +1,6 @@
 # 🕳️ The Grievance Sinkhole: How Shame Converts Into Reactionary Politics  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*Why unprocessed male shame reliably collapses into grievance — and why grievance is the emotional fuel of reactionary and fascist movements.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-12  
+*Why unprocessed male shame reliably collapses into grievance — and why grievance is the emotional fuel of reactionary and fascist movements.*  
 
 ---
 
@@ -237,14 +236,14 @@ He becomes himself again.
 ---
 
 ## 🏮 Footer  
-**The Grievance Sinkhole: How Shame Converts Into Reactionary Politics** is a living node of the Polaris Protocol.  
+*🕳️ The Grievance Sinkhole: How Shame Converts Into Reactionary Politics* is a living node of the Polaris Protocol.  
 It maps grievance as an emotional metabolite of shame and explains why processing shame is the foundation of deradicalisation, identity repair, and antifascist emotional infrastructure.
 
 > 📡 Cross-references:  
-> - [🔥 Shame as the Master Key of Fascist Manipulation](./shame_as_the_master_key_of_fascist_manipulation.md)  
-> - [🥀 Politics of Male Loneliness](./the_politics_of_male_loneliness.md)  
-> - [🦴 Anatomy of Male Emotional Starvation](./the_anatomy_of_male_emotional_starvation.md)
+> - [🔥 Shame as the Master Key of Fascist Manipulation]  
+> - [🥀 Politics of Male Loneliness]  
+> - [🦴 Anatomy of Male Emotional Starvation]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-12_
