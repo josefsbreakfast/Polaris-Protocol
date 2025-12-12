@@ -1,6 +1,6 @@
 # 🗣️ Data Majority as Narrative Voice — Voting by Volume  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*How statistical dominance becomes the speaking voice of the feed.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
+*How statistical dominance becomes the speaking voice of the feed.*  
 
 ---
 
@@ -58,10 +58,11 @@ data majority, gender collapse, narrative voice, engagement bias, emotional loud
 *🗣️ Data Majority as Narrative Voice — Voting by Volume* is a living node of the **Polaris Protocol.**  
 It documents how algorithmic systems collapse plurality into the most statistically frequent voice, turning loudness into authorship and frequency into authority.
 
-> 📡 Cross-references:  
-> - [💞 Affective Proxy Substitution — Cross-Gender Misread as Desire](../Big_Picture_Protocols/💞_affective_proxy_substitution_cross_gender_misread_as_desire.md) — projection of one cohort’s affect into another’s narrative.  
-> - [🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage](../Big_Picture_Protocols/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md) — how multiple voices merge into one synthetic speaker.  
+> 📡 Cross-references:
+> 
+> - [💞 Affective Proxy Substitution — Cross-Gender Misread as Desire] — projection of one cohort’s affect into another’s narrative.  
+> - [🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage] — how multiple voices merge into one synthetic speaker.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-12_
