@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:09:29 UTC_
+_Generated on 2025-12-12 05:10:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2635,6 +2635,7 @@ _Generated on 2025-12-12 05:09:29 UTC_
       - [`🎭_laughing_at_strongmen.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_laughing_at_strongmen.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
       - [`👅_bad_deepfakes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md)
+      - [`👅_the_smear_logic_of_self_harm_framing.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_the_smear_logic_of_self_harm_framing.md)
       - [`💋_the_erotics_of_discrediting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/💋_the_erotics_of_discrediting.md)
       - [`🔊_protecting_the_sound_of_the_voice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_protecting_the_sound_of_the_voice.md)
       - [`🔊_signal_integrity_evidence_index.csv`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🔊_signal_integrity_evidence_index.csv)
