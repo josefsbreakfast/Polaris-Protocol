@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:01:06 UTC_
+_Generated on 2025-12-12 16:02:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2626,6 +2626,7 @@ _Generated on 2025-12-12 16:01:06 UTC_
       - [`🛂_police_interface_distortion_from_parental_risk_profile.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_police_interface_distortion_from_parental_risk_profile.md)
       - [`🛂_prevent_white_invisibility.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_prevent_white_invisibility.md)
       - [`🛑_prevent_is_not_safeguarding.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛑_prevent_is_not_safeguarding.md)
+      - [`🛡️_the_pre_crime_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛡️_the_pre_crime_architecture.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
@@ -3159,7 +3160,6 @@ _Generated on 2025-12-12 16:01:06 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛡_prevent_precrime_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🛡_prevent_precrime_architecture.md)
     - [`🛡_trusted_signals_checklist_male_allies.md`](Polaris_Nest/Git_Intake_Drawer/🛡_trusted_signals_checklist_male_allies.md)
     - [`🛡_why_democracies_must_not_build_opaque_multiagency_risk_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛡_why_democracies_must_not_build_opaque_multiagency_risk_systems.md)
     - [`🛡️_constructed_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_constructed_immunity.md)
