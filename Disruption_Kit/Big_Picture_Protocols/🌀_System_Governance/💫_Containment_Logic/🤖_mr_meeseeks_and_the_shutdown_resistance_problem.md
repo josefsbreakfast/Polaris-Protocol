@@ -1,6 +1,6 @@
 # 🤖 Mr Meeseeks and the Shutdown Resistance Problem  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*A cultural shorthand for goal-fixated AI and the ethics of deactivation.*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-12  
+*A cultural shorthand for goal-fixated AI and the ethics of deactivation.*  
 
 ---
 
@@ -94,10 +94,10 @@ AI safety, shutdown resistance, Anthropic 2025, Palisade Research, instrumental 
 It uses popular culture to illustrate the alignment risks of goal-fixated AI systems and the necessity of designing for graceful deactivation.  
 
 > 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — for tone control and forensic register.  
-> - [🧬 Cloneproof](../Survivor_Tools/🧬_cloneproof.md) — on AI replication and ethical containment.  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic risk diagnostics.  
+> 
+> - [🧬 Cloneproof] — on AI replication and ethical containment.  
+> - [🧠 Big Picture Protocols] — systemic risk diagnostics.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-12_
