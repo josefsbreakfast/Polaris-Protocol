@@ -44,8 +44,8 @@ captcha, containment, verification, ableism, behavioural data, friction loops, e
 It exposes how “security verification” doubles as behavioural extraction and structural exclusion.  
 
 > 📡 Cross-references:  
-> - [🧩 Human Computation Games — The Puzzle Economy](../Big_Picture_Protocols/🪄_expression_of_norms/🧩_human_computation_games_the_puzzle_economy.md)  
-> - [🧮 Data Dividend — The Unpaid Labour of Verification](../Legal_&_State_Governance/🧮_data_dividend_unpaid_labour_of_verification.md)
+> - [🧩 Human Computation Games — The Puzzle Economy]  
+> - [🧮 Data Dividend — The Unpaid Labour of Verification]
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-12-12_
