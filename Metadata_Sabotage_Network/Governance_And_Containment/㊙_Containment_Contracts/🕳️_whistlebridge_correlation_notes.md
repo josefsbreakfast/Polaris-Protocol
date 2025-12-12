@@ -1,5 +1,5 @@
 # 🕳️ Whistlebridge Correlation Notes  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-19 | **Last updated:** 2025-12-12  
 *Between signal and seal, the bridge where suppression folds into contract.*  
 
 ---
@@ -78,15 +78,16 @@ whistlebridge, suppression event, contract seal, correlation pattern, containmen
 
 ## 🏮 Footer  
 
-*Whistlebridge Correlation Notes* is a living node of the **Polaris Protocol**.  
+*🕳️ Whistlebridge Correlation Notes* is a living node of the **Polaris Protocol**.  
 It traces how suppression and contract operate as synchronized reflexes — the signal and seal of containment.  
 Where they meet, the truth refracts: visible long enough to vanish legally.  
 
-> 📡 Cross‑references:  
-> - [🔥 Suppression as Signal](../Big_Picture_Protocols/🔥_suppression_as_signal.md) — epistemic erasure as evidence.  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md) — the legal choreography of silence.  
-> - [🩸 Soul as Product Lineage](../Big_Picture_Protocols/🩸_soul_as_product_lineage.md) — extraction of essence as evidence economy.  
+> 📡 Cross‑references:
+> 
+> - [🔥 Suppression as Signal] — epistemic erasure as evidence.  
+> - [⚖️ Containment Contract Trace] — the legal choreography of silence.  
+> - [🩸 Soul as Product Lineage] — extraction of essence as evidence economy.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-12-12_
