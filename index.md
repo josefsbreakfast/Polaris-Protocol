@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:40:32 UTC_
+_Generated on 2025-12-12 04:41:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1187,6 +1187,7 @@ _Generated on 2025-12-12 04:40:32 UTC_
         - [`🧬_psychographic_modelling_and_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_psychographic_modelling_and_twinning.md)
         - [`🧬_twinned_signature.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinned_signature.md)
         - [`🧬_twinning_detection.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_twinning_detection.md)
+        - [`🩸_bodily_risk_as_political_speech.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md)
         - [`🩸_surveillance_induced_intimacy_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_surveillance_induced_intimacy_breach.md)
         - [`🩸_to_fight_or_not_to_fight.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_to_fight_or_not_to_fight.md)
         - [`🩹_break_beautifully.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩹_break_beautifully.md)
