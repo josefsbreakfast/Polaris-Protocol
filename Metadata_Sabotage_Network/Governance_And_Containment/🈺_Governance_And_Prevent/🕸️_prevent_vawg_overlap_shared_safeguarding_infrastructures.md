@@ -1,6 +1,6 @@
 # 🕸️ Prevent ↔ VAWG Overlap — Shared Safeguarding Infrastructures  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*Where counter-terrorism and care data meet in the same database.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-12  
+*Where counter-terrorism and care data meet in the same database.*  
 
 ---
 
@@ -100,11 +100,12 @@ prevent duty, vawg, safeguarding data, counter-terrorism, data sharing, communit
 *🕸️ Prevent ↔ VAWG Overlap — Shared Safeguarding Infrastructures* is a living node of the Polaris Protocol.  
 It documents how adjacent policy ecosystems merge in practice, creating hybrid datasets that blur the line between protection and surveillance.
 
-> 📡 Cross-references:  
-> - [🕊️ Data-Contact Breach — When Restraining Orders Fail via Data](../⚖️_Legal_&_State_Governance/🕊️_data_contact_breach_when_restraining_orders_fail_via_data.md)  
-> - [🪙 Token Integrity Audit](../🧩_System_Governance/🪙_Token_Integrity_Audit/)  
-> - [💾 Token Switching — Pseudonymisation Gone Wrong](../🧩_System_Governance/💾_token_switching_pseudonymisation_gone_wrong.md)  
+> 📡 Cross-references:
+> 
+> - [🕊️ Data-Contact Breach — When Restraining Orders Fail via Data]  
+> - [🪙 Token Integrity Audit]  
+> - [💾 Token Switching — Pseudonymisation Gone Wrong]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-12_
