@@ -1,7 +1,6 @@
-# 🧨 Securitisation Feedback Loop
-
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12
-*How counter-extremism harms reproduce the very vulnerabilities they claim to address.*
+# 🧨 Securitisation Feedback Loop  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+*How counter-extremism harms reproduce the very vulnerabilities they claim to address.*  
 
 ---
 
