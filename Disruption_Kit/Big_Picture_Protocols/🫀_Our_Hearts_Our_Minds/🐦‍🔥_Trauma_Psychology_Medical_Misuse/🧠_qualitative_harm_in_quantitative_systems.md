@@ -172,7 +172,7 @@ It articulates why existing governance frameworks repeatedly fail to recognise r
 > 
 > - [🪼 Interaction Drift & Safety Layer Erosion](../../../../Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md) — *cumulative risk*  
 > - [👻 Fluent Language as an Attack Surface](../../../../Containment_Studies/💞_Containment_Theory/👻_fluent_language_as_an_attack_surface.md) — *language as vector*  
-> - [🍞 Why Food Safety Is Aggressively Regulated] — *population-scale analogy*  
+> - [🍞 Why Food Safety Is Aggressively Regulated](../../🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md) — *population-scale analogy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
