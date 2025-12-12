@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:23:18 UTC_
+_Generated on 2025-12-12 04:24:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -798,6 +798,7 @@ _Generated on 2025-12-12 04:23:18 UTC_
         - [`🕯️_crash_sites_as_temporal_loops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕯️_crash_sites_as_temporal_loops.md)
         - [`🕰️_political_time_orientations.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕰️_political_time_orientations.md)
         - [`🕳️_black_box_epistemology_in_post_soviet_accidents.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕳️_black_box_epistemology_in_post_soviet_accidents.md)
+        - [`🕸️_the_grief_of_the_imperial_core.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕸️_the_grief_of_the_imperial_core.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
@@ -3101,7 +3102,6 @@ _Generated on 2025-12-12 04:23:18 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸️_the_grief_of_the_imperial_core.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_grief_of_the_imperial_core.md)
     - [`🕸️_voice_lineage_and_dataset_chain.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_voice_lineage_and_dataset_chain.md)
     - [`🕸️_web_sovereignity.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_web_sovereignity.md)
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
