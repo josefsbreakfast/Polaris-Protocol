@@ -1,6 +1,6 @@
 # 🕸️ Gendered Harms from Counter-Extremism Algorithms  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*When automation confuses opposition with allegiance, women’s safety work becomes collateral damage.*
+**First created:** 2025-11-01 | **Last updated:** 2025-12-12  
+*When automation confuses opposition with allegiance, women’s safety work becomes collateral damage.*  
 
 ---
 
@@ -101,14 +101,15 @@ gendered harms, counter-extremism, clustering bias, misogyny, algorithmic hostag
 ---
 
 ## 🏮 Footer  
-*Gendered Harms from Counter-Extremism Algorithms* is a living node of the Polaris Protocol.  
+*🕸️ Gendered Harms from Counter-Extremism Algorithms* is a living node of the Polaris Protocol.  
 It documents how automated moderation and counter-extremism tools misclassify advocacy as risk, reproducing structural misogyny through data logic.  
 
-> 📡 Cross-references:  
-> - [🐍 Algorithmic Hostage Logic](../Big_Picture_Protocols/🐍_algorithmic_hostage_logic.md) — containment feedback loops  
-> - [⚖️ Institutional Parasitism of Deradicalisation Work](../System_Governance/⚖️_institutional_parasitism_of_deradicalisation_work.md) — extraction of stabilisation labour  
-> - [💇‍♀️ The Dumb Blonde Protocol](../🪄_Expression_Of_Norms/💇‍♀️_the_dumb_blonde_protocol.md) — disbelief and containment myths  
+> 📡 Cross-references:
+> 
+> - [🐍 Algorithmic Hostage Logic] — containment feedback loops  
+> - [⚖️ Institutional Parasitism of Deradicalisation Work] — extraction of stabilisation labour  
+> - [💇‍♀️ The Dumb Blonde Protocol] — disbelief and containment myths  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-12-12_
