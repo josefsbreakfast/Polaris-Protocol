@@ -129,9 +129,10 @@ It analyses the political function of embodied risk in austerity states and how 
 
 > 📡 Cross-references:
 > 
-> - [🕯️ The Ethics of Refusal in Austerity States] — the moral architecture of refusal  
-> - [🎭 Narrative & Psych Ops] — how states reframe bodily risk  
-> - [🫀 Our_Hearts_Our_Minds]( — ethics and governance frameworks  
+> - [🕯️ Ethics of Refusal in Austerity States](../🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md)  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
+> - [🔥 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
