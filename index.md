@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:53:33 UTC_
+_Generated on 2025-12-12 05:54:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2637,6 +2637,7 @@ _Generated on 2025-12-12 05:53:33 UTC_
       - [`🎪_racialised_projection_as_harassment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎪_racialised_projection_as_harassment.md)
       - [`🎭_character_assassination_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_character_assassination_theatre.md)
       - [`🎭_laughing_at_strongmen.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_laughing_at_strongmen.md)
+      - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎶_reversal_distortion_if_i_cant_have_you.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
       - [`👅_bad_deepfakes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md)
       - [`👅_the_smear_logic_of_self_harm_framing.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_the_smear_logic_of_self_harm_framing.md)
@@ -2773,7 +2774,6 @@ _Generated on 2025-12-12 05:53:33 UTC_
       - [`🪶_narrative_saturation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪶_narrative_saturation.md)
       - [`🪼_modern_extremism_recruits_through_vibes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_modern_extremism_recruits_through_vibes.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
-    - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🎶_reversal_distortion_if_i_cant_have_you.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
