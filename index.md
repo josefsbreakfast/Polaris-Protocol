@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:38:15 UTC_
+_Generated on 2025-12-12 03:39:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2750,6 +2750,7 @@ _Generated on 2025-12-12 03:38:15 UTC_
       - [`📓_metadata_glitch_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📓_metadata_glitch_log.md)
       - [`📥_entry_point_abuse_in_automated_datasets.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md)
       - [`🔮_semantic_loops_and_authority_breaks.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🔮_semantic_loops_and_authority_breaks.md)
+      - [`🕳_audit_glitchpoints_in_racialised_gendered_cases.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🕳_audit_glitchpoints_in_racialised_gendered_cases.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🦤_signal_collapse.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🦤_signal_collapse.md)
@@ -3071,7 +3072,6 @@ _Generated on 2025-12-12 03:38:15 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
-    - [`🕳_audit_glitchpoints_in_racialised_gendered_cases.md`](Polaris_Nest/Git_Intake_Drawer/🕳_audit_glitchpoints_in_racialised_gendered_cases.md)
     - [`🕳️_absence_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_absence_as_signal.md)
     - [`🕳️_black_box_epistemology_in_post_soviet_accidents.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_black_box_epistemology_in_post_soviet_accidents.md)
     - [`🕳️_continuity_under_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_continuity_under_oversight.md)
