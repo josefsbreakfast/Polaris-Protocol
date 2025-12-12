@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:18:24 UTC_
+_Generated on 2025-12-12 04:19:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2496,6 +2496,7 @@ _Generated on 2025-12-12 04:18:24 UTC_
       - [`🐦‍🔥_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_held_by_other_peoples_alliances.md)
       - [`💌_letters_of_refusal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/💌_letters_of_refusal.md)
       - [`🕸️_networked_morality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_networked_morality.md)
+      - [`🕸️_survivor_consent_frameworks.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_consent_frameworks.md)
       - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
       - [`🚷_ethical_withdrawal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚷_ethical_withdrawal.md)
       - [`🧊_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_the_care_cage.md)
@@ -3098,7 +3099,6 @@ _Generated on 2025-12-12 04:18:24 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸️_survivor_consent_frameworks.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_survivor_consent_frameworks.md)
     - [`🕸️_systems_failure_uk_data.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_systems_failure_uk_data.md)
     - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
     - [`🕸️_the_grief_of_the_imperial_core.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_grief_of_the_imperial_core.md)
