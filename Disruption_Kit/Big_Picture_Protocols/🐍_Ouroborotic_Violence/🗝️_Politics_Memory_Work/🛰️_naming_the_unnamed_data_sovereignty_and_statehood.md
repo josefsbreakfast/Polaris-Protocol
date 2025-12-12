@@ -1,6 +1,6 @@
 # 🛰️ Naming the Unnamed — Data Sovereignty & Statehood  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*Two recognitions that make silence impossible.*
+**First created:** 2025-11-08 | **Last updated:** 2025-12-12  
+*Two recognitions that make silence impossible.*  
 
 ---
 
@@ -70,9 +70,9 @@ foreign state risk, data security, cyber policy, palestine recognition, ceasefir
 ---
 
 ## 🏮 Footer  
-*Naming the Unnamed — Data Sovereignty & Statehood* is a current-events node of the Polaris Protocol.  
+*🛰️ Naming the Unnamed — Data Sovereignty & Statehood* is a current-events node of the Polaris Protocol.  
 It records two public recognitions where ambiguity finally gave way to accountability — one digital, one territorial.  
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-12_
