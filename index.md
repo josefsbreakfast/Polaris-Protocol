@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:55:59 UTC_
+_Generated on 2025-12-12 15:57:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2530,6 +2530,7 @@ _Generated on 2025-12-12 15:55:59 UTC_
       - [`🚀_weaponised_empathy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚀_weaponised_empathy.md)
       - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
       - [`🚷_ethical_withdrawal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚷_ethical_withdrawal.md)
+      - [`🛠️_how_neutral_people_enable_authoritarian_tech.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛠️_how_neutral_people_enable_authoritarian_tech.md)
       - [`🧊_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_the_care_cage.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
       - [`🧬_distributed_trust.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_distributed_trust.md)
@@ -3155,7 +3156,6 @@ _Generated on 2025-12-12 15:55:59 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛠️_how_neutral_people_enable_authoritarian_tech.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_how_neutral_people_enable_authoritarian_tech.md)
     - [`🛠️_right_to_correction_after_data_poisoning.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_right_to_correction_after_data_poisoning.md)
     - [`🛠️_the_post_alt_right_maintenance_kit.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_the_post_alt_right_maintenance_kit.md)
     - [`🛡_never_build_opaque_risk_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛡_never_build_opaque_risk_systems.md)
