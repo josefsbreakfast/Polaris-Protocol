@@ -129,7 +129,7 @@ It explains why harm prevention depends less on individual intent than on how re
 
 > 📡 Cross-references:
 > 
-> - [🍞 Why Food Safety Is Aggressively Regulated](../⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.m) — *population risk*  
+> - [🍞 Why Food Safety Is Aggressively Regulated](../⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md) — *population risk*  
 > - [⚖️ Harm Reduction vs Adversarial Governance](../⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md) — *care vs obstruction*  
 > - [🪼 Interaction Drift & Safety Layer Erosion](../../../../Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md) — *cumulative risk*  
 
