@@ -1,6 +1,6 @@
 # 🛰 The Digital Prevent Pipeline  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How young people move from normal digital behaviour into Prevent scrutiny through metadata, keyword triggers, behavioural monitoring, algorithmic inference, and invisible police-led triage.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-12  
+*How young people move from normal digital behaviour into Prevent scrutiny through metadata, keyword triggers, behavioural monitoring, algorithmic inference, and invisible police-led triage.*  
 
 ---
 
@@ -174,4 +174,4 @@ It maps how ordinary online behaviour becomes a route into Prevent through metad
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-12_
