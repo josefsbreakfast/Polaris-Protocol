@@ -1,8 +1,6 @@
-File: 🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md
-
 # 🗂️ When Institutions Start Treating You as a Category, Not a Person  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*The moment bureaucratic drift becomes personally visible: when your individuality disappears inside someone else’s risk category, stereotype, or metadata tag.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-12  
+*The moment bureaucratic drift becomes personally visible: when your individuality disappears inside someone else’s risk category, stereotype, or metadata tag.*  
 
 ---
 
@@ -224,11 +222,13 @@ Your distress is valid because:
 ---
 
 ## 🏮 Footer  
-**When Institutions Start Treating You as a Category, Not a Person** belongs to the Polaris Democratic Drift Phenomenology cluster.  
+*🗂️ When Institutions Start Treating You as a Category, Not a Person* belongs to the Polaris Democratic Drift Phenomenology cluster.  
 It identifies category-coding as one of the earliest and clearest signals of systemic instability and validates the emotional impact of losing personhood in bureaucratic environments.
 
 Crosslinks:  
 - 🧯 *prevent_as_political_atomisation_engine*  
 - 📡 *cross-system_metadata_echo_chains*  
 - 📛 *bureaucratic_memory_failure_and_identity_contamination*  
-- 🧭 *how_authoritarian_drift_feels_from_the_inside*
+- 🧭 *how_authoritarian_drift_feels_from_the_inside*  
+
+_Last updated: 2025-12-12_
