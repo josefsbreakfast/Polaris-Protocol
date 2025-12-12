@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:26:18 UTC_
+_Generated on 2025-12-12 18:29:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -606,6 +606,7 @@ _Generated on 2025-12-12 18:26:18 UTC_
         - [`🕎_rising_kahanist_violence_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕎_rising_kahanist_violence_risk.md)
         - [`🕹️_gamified_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕹️_gamified_extremism.md)
         - [`🛜_transnational_networks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🛜_transnational_networks.md)
+        - [`🛰️_cultural_capture_of_internet_boys.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🛰️_cultural_capture_of_internet_boys.md)
         - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
         - [`🦁_individualism_as_edge.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦁_individualism_as_edge.md)
         - [`🦆_why_tech_bros_were_sitting_ducks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦆_why_tech_bros_were_sitting_ducks.md)
@@ -3174,7 +3175,6 @@ _Generated on 2025-12-12 18:26:18 UTC_
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
-    - [`🛰️_cultural_capture_of_internet_boys.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_cultural_capture_of_internet_boys.md)
     - [`🛰️_digital_prevent_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_digital_prevent_pipeline.md)
     - [`🛰️_disappearing_public_surgery.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_disappearing_public_surgery.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
