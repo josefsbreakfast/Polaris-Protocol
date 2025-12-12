@@ -204,7 +204,10 @@ It documents how asylum hotels became proxy battlefields: far-right mobilisation
 > 📡 Cross-references:
 > 
 > - [🧨 Exceptional Sovereignty in Pretrial Detention](../../🌀_System_Governance/⚖️_Legal_State_Governance//🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *Schmittian logic in pre-trial detention & responsive hunger striking*  
-> - [🧨 The Schmittian Drift in Exceptional Detention Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md) - *Schmittian logic in exceptional detention states in 2025*  
+> - [🧨 The Schmittian Drift in Exceptional Detention Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md) - *Schmittian logic in exceptional detention states in 2025*
+> - [⚪ The Great Replacement — Lineage, Mutation, and Engagement](./🧊_Conspiracy_Icebergs/⚪_the_great_replacement.md) - *key conspiracy theory in current form, driving fear of inbound migration, despite stats*
+> - [📊 Immigration Myths and Impacts](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📊_immigration_myths_and_impacts.md) - *mythbusting 101 on immigration to the UK and those seeking asylum and safe harbour*
+> - [💷 Migration as Liability Shield](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md) - *how anti-migrant rhetoric protects elite wealth and shifts additional resource extraction to taxpayers*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
