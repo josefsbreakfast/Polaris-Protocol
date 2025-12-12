@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:22:50 UTC_
+_Generated on 2025-12-12 04:23:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1101,6 +1101,7 @@ _Generated on 2025-12-12 04:22:50 UTC_
         - [`🐣_canaries_and_cassandras.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐣_canaries_and_cassandras.md)
         - [`🐾_greyhound_networks.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐾_greyhound_networks.md)
         - [`🐾_sanctuary_island_project.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐾_sanctuary_island_project.md)
+        - [`👁_finch_and_the_limits_of_obedience.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/👁_finch_and_the_limits_of_obedience.md)
         - [`💎_diamonds_and_disappointment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💎_diamonds_and_disappointment.md)
         - [`💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md)
         - [`💔_on_having_to_announce_ones_goodness.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_on_having_to_announce_ones_goodness.md)
@@ -1297,7 +1298,6 @@ _Generated on 2025-12-12 04:22:50 UTC_
         - [`🧭_governance_and_oversight_in_algorithmic_health.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md)
         - [`🪰_digital_deet_algorithmic_invasiveness.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🪰_digital_deet_algorithmic_invasiveness.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md)
-      - [`👁_finch_and_the_limits_of_obedience.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁_finch_and_the_limits_of_obedience.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
