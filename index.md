@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:54:58 UTC_
+_Generated on 2025-12-12 15:55:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2815,6 +2815,7 @@ _Generated on 2025-12-12 15:54:58 UTC_
       - [`🕳_audit_glitchpoints_in_racialised_gendered_cases.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🕳_audit_glitchpoints_in_racialised_gendered_cases.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
+      - [`🛠️_frankenstack_failure_modes_in_public_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🛠️_frankenstack_failure_modes_in_public_systems.md)
       - [`🦤_signal_collapse.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🦤_signal_collapse.md)
       - [`🧠_skillsets_required_for_environmental_sabotage.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧠_skillsets_required_for_environmental_sabotage.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
@@ -3154,7 +3155,6 @@ _Generated on 2025-12-12 15:54:58 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛠️_frankenstack_failure_modes_public_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_frankenstack_failure_modes_public_systems.md)
     - [`🛠️_how_neutral_people_enable_authoritarian_tech.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_how_neutral_people_enable_authoritarian_tech.md)
     - [`🛠️_right_to_correction_after_data_poisoning.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_right_to_correction_after_data_poisoning.md)
     - [`🛠️_the_post_alt_right_maintenance_kit.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_the_post_alt_right_maintenance_kit.md)
