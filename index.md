@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:29:23 UTC_
+_Generated on 2025-12-12 16:31:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2968,6 +2968,7 @@ _Generated on 2025-12-12 16:29:23 UTC_
       - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_suppression_interruption_log_2025-08-04.md)
       - [`🔌_comment_loop_interference.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🔌_comment_loop_interference.md)
       - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🕹️_handler_override_incidents.md)
+      - [`🛰️_captcha_loop_containment_disguised_as_verification.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛰️_captcha_loop_containment_disguised_as_verification.md)
       - [`🪅_platform_safe_zones_and_shadowbans.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪅_platform_safe_zones_and_shadowbans.md)
       - [`🪞_background_activity_fog.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪞_background_activity_fog.md)
       - [`🪞_the_magnifying_glass_effect.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪞_the_magnifying_glass_effect.md)
@@ -3166,7 +3167,6 @@ _Generated on 2025-12-12 16:29:23 UTC_
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
-    - [`🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md)
     - [`🛰️_ally_productivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ally_productivity_paradox.md)
     - [`🛰️_anonymous_reporting_abuse_vectors.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_anonymous_reporting_abuse_vectors.md)
     - [`🛰️_beta_audience_suppression_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_beta_audience_suppression_dynamics.md)
