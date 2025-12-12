@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:24:30 UTC_
+_Generated on 2025-12-12 05:25:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1214,7 +1214,7 @@ _Generated on 2025-12-12 05:24:30 UTC_
         - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
         - [`📅_blm_uk_2020_2025_timeline_outputs.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📅_blm_uk_2020_2025_timeline_outputs.md)
         - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
-        - [`🔥 _hunger_strike_as_counter_sovereignty.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥 _hunger_strike_as_counter_sovereignty.md)
+        - [`🔥_hunger_strike_as_counter_sovereignty.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)
         - [`🔬_operation_no_sanctuary.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔬_operation_no_sanctuary.md)
         - [`🕊️_from_blm_to_palestine_the_suppression_switchboard.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🕊️_from_blm_to_palestine_the_suppression_switchboard.md)
         - [`🗡_narrative_management_and_metadata_storage.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🗡_narrative_management_and_metadata_storage.md)
