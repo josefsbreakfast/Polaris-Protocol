@@ -119,8 +119,8 @@ It documents how security-led governance can recursively reproduce the condition
 >
 > * [🐍 Ouroborotic Violence](../README.md) — *recursive harm and self-reinforcing systems*
 > * [🫀 Our Hearts, Our Minds](../../🫀_Our_Hearts_Our_Minds/README.md) — *trauma-aware governance models*
-> * [🈺 Governance and Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) — *securitised policy architectures*
+> * [🈺 Governance & Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) — *securitised policy architectures*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-12*
+_Last updated: 2025-12-12_
