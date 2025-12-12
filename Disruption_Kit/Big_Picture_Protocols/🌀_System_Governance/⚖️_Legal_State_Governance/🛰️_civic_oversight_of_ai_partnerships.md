@@ -1,6 +1,6 @@
 # 🛰️ Civic Oversight of AI Partnerships  
-**First created:** 2025-11-22  |  **Last updated:** 2025-11-22  
-*Why FOI, OSINT, and civic audit are structural requirements for any state–AI vendor partnership.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-12  
+*Why FOI, OSINT, and civic audit are structural requirements for any state–AI vendor partnership.*  
 
 ---
 
@@ -153,13 +153,13 @@ ai governance, procurement capture, model provenance, algorithmic accountability
 *🛰️ Civic Oversight of AI Partnerships* is a living node of the Polaris Protocol.  
 It sets out the transparency and accountability structures that must exist before, during, and after public–AI vendor collaboration, ensuring democratic control over algorithmic power.
 
-> 📡 Cross-references:  
-> - [🧭 Are We Fascist Yet?](🧭_are_we_fascist_yet.md) — governance drift diagnostic  
-> - [⚖️ Above the Law — Protofascism Threshold](⚖️_above_the_law_protofascism_threshold.md) — immunity and containment map  
-> - [🧾 Case Study — Keir Starmer](Case_Study_Keir_Starmer.md) — data politics and narrative framing  
-> - [🛰️ FOI–SAR Dual Audit Protocol](🛰️_foi_sar_dual_audit_protocol.md) — transparency lever  
-> - [🧩 Civic SAR Avalanche Method](🧩_civic_sar_avalanche_method.md) — mass enforcement companion  
+> 📡 Cross-references:
+> 
+> - [🧭 Are We Fascist Yet?] — governance drift diagnostic  
+> - [⚖️ Above the Law — Protofascism Threshold] — immunity and containment map  
+> - [🛰️ FOI–SAR Dual Audit Protocol] — transparency lever  
+> - [🧩 Civic SAR Avalanche Method] — mass enforcement companion  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-12_
