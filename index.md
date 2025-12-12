@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:37:01 UTC_
+_Generated on 2025-12-12 18:38:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -502,6 +502,7 @@ _Generated on 2025-12-12 18:37:01 UTC_
         - [`🗝️_illusion_of_caldicott_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_illusion_of_caldicott_compliance.md)
         - [`🛑_rabbinic_silence_as_theological_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛑_rabbinic_silence_as_theological_collapse.md)
         - [`🛡️_why_fascism_fears_softness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛡️_why_fascism_fears_softness.md)
+        - [`🛰️_naming_the_unnamed_data_sovereignty_and_statehood.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛰️_naming_the_unnamed_data_sovereignty_and_statehood.md)
         - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
         - [`🧠_ai_harms_are_not_new.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md)
         - [`🧠_bargain_bin_mossad.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
@@ -3181,7 +3182,6 @@ _Generated on 2025-12-12 18:37:01 UTC_
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
-    - [`🛰️_naming_the_unnamed_data_sovereignty_statehood.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_naming_the_unnamed_data_sovereignty_statehood.md)
     - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_predictive_logic_sans_predictive_infrastructure.md)
     - [`🛰️_seperation_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_seperation_systems.md)
     - [`🛰️_threat_escalation_pipeline_racialised_gender.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_threat_escalation_pipeline_racialised_gender.md)
