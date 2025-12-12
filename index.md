@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:50:26 UTC_
+_Generated on 2025-12-12 23:52:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -787,6 +787,7 @@ _Generated on 2025-12-12 23:50:26 UTC_
         - [`🎶_sonata_server_sympathies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
         - [`💍_marriage_as_state_containment_trope.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/💍_marriage_as_state_containment_trope.md)
         - [`📚_the_suppressed_scholar.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📚_the_suppressed_scholar.md)
+        - [`📜_cold_war_methodology_inheritance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📜_cold_war_methodology_inheritance.md)
         - [`🔺_triangle_of_accountability_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🔺_triangle_of_accountability_gaps.md)
         - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
         - [`🧩_risk_industries_and_custody_failure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md)
