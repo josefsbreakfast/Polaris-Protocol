@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:35:42 UTC_
+_Generated on 2025-12-12 23:37:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -414,6 +414,7 @@ _Generated on 2025-12-12 23:35:42 UTC_
         - [`frankenstack_faceplate.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/frankenstack_faceplate.png)
         - [`⚖️_ethics_of_algorithmic_stabilisation_experiments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_ethics_of_algorithmic_stabilisation_experiments.md)
         - [`⚖️_ethics_timeout_retention_clock.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md)
+        - [`⚖️_non_consent_psych_experimentation_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_non_consent_psych_experimentation_gap.md)
         - [`⚖️_the_teaching_hospital_loophole.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md)
         - [`✨_defeated_by_audit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/✨_defeated_by_audit.md)
         - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🌀_rune_the_dev.png)
