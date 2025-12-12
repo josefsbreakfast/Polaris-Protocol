@@ -146,8 +146,8 @@ It analyses how exceptional detention, medical deterioration, and public compreh
 
 > 📡 Cross-references:
 > 
-> - [🔥 Hunger Strike as Counter-Sovereignty](../../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
-> - [⚖️ The Refusal Body as Unmanageable Risk](../../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md)  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
+> - [⚖️ The Refusal Body as Unmanageable Risk](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md)  
 > - [📡 The Governance of Bodies That Refuse](./📡_the_governance_of_bodies_that_refuse.md)  
 > - [🔮 Visibility Collapse of Dissenting Bodies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
 
