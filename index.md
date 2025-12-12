@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:24:39 UTC_
+_Generated on 2025-12-12 04:25:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3034,6 +3034,7 @@ _Generated on 2025-12-12 04:24:39 UTC_
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/README.md)
       - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
       - [`👥_twin_profiles_biometrics.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/👥_twin_profiles_biometrics.md)
+      - [`🕸️_voice_lineage_and_dataset_chain.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🕸️_voice_lineage_and_dataset_chain.md)
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
       - [`🫥_dry_humour_as_data_loss.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🫥_dry_humour_as_data_loss.md)
@@ -3102,7 +3103,6 @@ _Generated on 2025-12-12 04:24:39 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸️_voice_lineage_and_dataset_chain.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_voice_lineage_and_dataset_chain.md)
     - [`🕸️_web_sovereignity.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_web_sovereignity.md)
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🕹️_getting_the_tech_bros_back_on_script.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_getting_the_tech_bros_back_on_script.md)
