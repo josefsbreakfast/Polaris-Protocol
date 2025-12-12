@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:24:41 UTC_
+_Generated on 2025-12-12 23:30:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -635,6 +635,7 @@ _Generated on 2025-12-12 23:24:41 UTC_
         - [`🧠_utilisation_of_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)
         - [`🧠_who_goes_beta.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_who_goes_beta.md)
         - [`🧨_differential_classification_as_radicalisation_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)
+        - [`🧨_securitisation_feedback_loop.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_securitisation_feedback_loop.md)
         - [`🧨_spectacle_of_raids.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_spectacle_of_raids.md)
         - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
         - [`🧮_behavioural_risk_scoring_and_internet_triage_systems.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_behavioural_risk_scoring_and_internet_triage_systems.md)
