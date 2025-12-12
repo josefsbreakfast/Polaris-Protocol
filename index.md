@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:28:47 UTC_
+_Generated on 2025-12-12 15:30:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1160,6 +1160,7 @@ _Generated on 2025-12-12 15:28:47 UTC_
         - [`🕯️_the_ethics_of_refusal_in_austerity_states.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md)
         - [`🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
         - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
+        - [`😴_millennial_exhaustion_as_a_political_condition.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/😴_millennial_exhaustion_as_a_political_condition.md)
         - [`🦆_she_weighs_the_same_as_a_duck.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md)
         - [`🦴_anatomy_of_male_emotional_starvation.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦴_anatomy_of_male_emotional_starvation.md)
         - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
@@ -3135,7 +3136,6 @@ _Generated on 2025-12-12 15:28:47 UTC_
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
-    - [`😴_millennial_exhaustion_as_a_political_condition.md`](Polaris_Nest/Git_Intake_Drawer/😴_millennial_exhaustion_as_a_political_condition.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
     - [`😶‍🌫_institutional_freeze_fog_correction_cycle.md`](Polaris_Nest/Git_Intake_Drawer/😶‍🌫_institutional_freeze_fog_correction_cycle.md)
     - [`🚀_weaponising_empathy.md`](Polaris_Nest/Git_Intake_Drawer/🚀_weaponising_empathy.md)
