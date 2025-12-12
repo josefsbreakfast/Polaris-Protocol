@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:40:50 UTC_
+_Generated on 2025-12-12 15:42:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2616,6 +2616,7 @@ _Generated on 2025-12-12 15:40:50 UTC_
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
       - [`🚨_risk_logic_creep.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🚨_risk_logic_creep.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_gated_intake_post_delay_regional_loop.md)
+      - [`🛂_hidden_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_hidden_prevent.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
@@ -3147,7 +3148,6 @@ _Generated on 2025-12-12 15:40:50 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛂_hidden_prevent_unseen_side.md`](Polaris_Nest/Git_Intake_Drawer/🛂_hidden_prevent_unseen_side.md)
     - [`🛂_misuse_of_safeguarding_through_gendered_prejudice.md`](Polaris_Nest/Git_Intake_Drawer/🛂_misuse_of_safeguarding_through_gendered_prejudice.md)
     - [`🛂_police_interface_distortion_from_parental_risk_profile.md`](Polaris_Nest/Git_Intake_Drawer/🛂_police_interface_distortion_from_parental_risk_profile.md)
     - [`🛂_prevent_white_invisibility.md`](Polaris_Nest/Git_Intake_Drawer/🛂_prevent_white_invisibility.md)
