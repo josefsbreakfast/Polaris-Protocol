@@ -1,6 +1,6 @@
-# 🛰️ Anonymous Reporting Abuse Vectors
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How anonymous reporting systems create opportunities for retaliation, narrative manipulation, and racialised-gendered harm.*
+# 🛰️ Anonymous Reporting Abuse Vectors  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-12  
+*How anonymous reporting systems create opportunities for retaliation, narrative manipulation, and racialised-gendered harm.*  
 
 ---
 
@@ -222,7 +222,7 @@ anonymous reporting, abuse vectors, retaliatory complaints, risk culture, instit
 ---
 
 ## 🏮 Footer  
-*Anonymous Reporting Abuse Vectors* is a living node of the Polaris Protocol.  
+*🛰️ Anonymous Reporting Abuse Vectors* is a living node of the Polaris Protocol.  
 It documents how anonymous reporting systems — designed for protection — become tools for retaliatory targeting, racialised misogyny, and narrative manipulation.
 
 > 📡 Cross-references:  
@@ -232,4 +232,5 @@ It documents how anonymous reporting systems — designed for protection — bec
 > - 🎭 Symbolic Violence in Gendered & Racialised Frames  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-12-12_
