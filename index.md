@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 19:20:27 UTC_
+_Generated on 2025-12-12 22:38:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -26,6 +26,7 @@ _Generated on 2025-12-12 19:20:27 UTC_
     - [`🪞_containment_detente_as_temporal_governance.md`](Containment_Studies/💞_Containment_Theory/🪞_containment_detente_as_temporal_governance.md)
   - [**🪐_Meta_Containment/**](Containment_Studies/🪐_Meta_Containment/)
     - [`README.md`](Containment_Studies/🪐_Meta_Containment/README.md)
+    - [`🧿_against_pseudoanthropy.md`](Containment_Studies/🪐_Meta_Containment/🧿_against_pseudoanthropy.md)
   - [`README.md`](Containment_Studies/README.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
