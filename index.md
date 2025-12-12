@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:13:00 UTC_
+_Generated on 2025-12-12 05:13:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3865,6 +3865,7 @@ _Generated on 2025-12-12 05:13:00 UTC_
     - [`🌀_loop_mapping_station.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
     - [`🎭_friction_tactics_catalogue.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🎭_friction_tactics_catalogue.md)
     - [`💡_attention_redirection_protocols.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/💡_attention_redirection_protocols.md)
+    - [`🔥_breaking_media_blockade_through_body_based_protest.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🔥_breaking_media_blockade_through_body_based_protest.md)
     - [`🕊️_the_public_witness_protocol.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕊️_the_public_witness_protocol.md)
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🛰️_verified_amplification_network_protocol_handbook.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🛰️_verified_amplification_network_protocol_handbook.md)
