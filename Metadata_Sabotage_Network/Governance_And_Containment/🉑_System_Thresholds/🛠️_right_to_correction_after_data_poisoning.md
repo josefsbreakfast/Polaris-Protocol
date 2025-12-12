@@ -1,6 +1,6 @@
 # 🛠️ Right to Correction After Data Poisoning  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*Correction is the foundational civic right — not an optional afterthought.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-12  
+*Correction is the foundational civic right — not an optional afterthought.*  
 
 ---
 
@@ -70,12 +70,13 @@ data correction, right to be forgotten, civic rights, record poisoning, governan
 ---
 
 ## 🏮 Footer  
-*Right to Correction After Data Poisoning* is a living node of the Polaris Protocol.  
+*🛠️ Right to Correction After Data Poisoning* is a living node of the Polaris Protocol.  
 It defines the repair obligations required for citizens to exercise rights inside contaminated systems.
 
 > 📡 Cross-references:
-> - [🩸 Big Boy Pimps Node](../🛰️Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🩸_when_little_bureaucrats_play_big_boy_pimps.md)
+> 
+> - [🩸 Big Boy Pimps Node]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-122_
