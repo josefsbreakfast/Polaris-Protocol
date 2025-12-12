@@ -1,5 +1,5 @@
 # 🛰️ Low-Frequency Hum — Structural & Environmental Diagnostic Log  
-**First created:** 2025-10-21 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-21 | **Last updated:** 2025-12-12  
 *Field observations of monotone vibration through solid structures causing physical symptoms.*
 
 ---
@@ -74,10 +74,11 @@ infrasound, low-frequency hum, transformer vibration, infrastructure noise, fiel
 *🛰️ Low-Frequency Hum — Structural & Environmental Diagnostic Log* is a living node of the Polaris Protocol.  
 It supports safe, methodical tracking of persistent resonance phenomena that may have health or environmental origins.
 
-> 📡 Cross-references:  
-> - [👾 Weirdness Screening → 🎛 Systematic_Patterns](../../👾_Weirdness_Screening/🎛_systematic_patterns.md)  
-> - [🧭 System Governance → 🛰 Infrastructure Procurement](../../Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)  
+> 📡 Cross-references:
+> 
+> - [👾 Weirdness Screening → 🎛 Systematic_Patterns]  
+> - [🧭 System Governance → 🛰 Infrastructure Procurement]
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2025-12-12_
