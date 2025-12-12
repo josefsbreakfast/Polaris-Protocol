@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:34:50 UTC_
+_Generated on 2025-12-12 18:35:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2434,6 +2434,7 @@ _Generated on 2025-12-12 18:34:50 UTC_
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
     - [`🛠️_the_post_alt_right_maintenance_kit.md`](Disruption_Kit/Survivor_Tools/🛠️_the_post_alt_right_maintenance_kit.md)
     - [`🛰️_digital_counter_containment_protocol.md`](Disruption_Kit/Survivor_Tools/🛰️_digital_counter_containment_protocol.md)
+    - [`🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md)
     - [`🛰️_metadata_monitor_checklist.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_monitor_checklist.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
     - [`🧠_intellectualisation_as_trauma_response.md`](Disruption_Kit/Survivor_Tools/🧠_intellectualisation_as_trauma_response.md)
@@ -2497,8 +2498,6 @@ _Generated on 2025-12-12 18:34:50 UTC_
     - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [**🦆_Digital_Disruption/**](Disruption_Kit/🦆_Digital_Disruption/)
-    - [**🛰️_OSINT_Field_Operations/**](Disruption_Kit/🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
-      - [`🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md`](Disruption_Kit/🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md)
     - [**🪖_Home_Front_2.0/**](Disruption_Kit/🦆_Digital_Disruption/🪖_Home_Front_2.0/)
       - [`🪢_re_embodied_dialogue_and_civic_presence.md`](Disruption_Kit/🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)
   - [`README.md`](Disruption_Kit/README.md)
