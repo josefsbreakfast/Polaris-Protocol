@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 07:08:40 UTC_
+_Generated on 2025-12-12 07:10:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2720,6 +2720,7 @@ _Generated on 2025-12-12 07:08:40 UTC_
       - [`🔥_the_beta_brothers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🔥_the_beta_brothers.md)
       - [`🕯️_hope_withholding.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md)
       - [`🕯️_shabbat_exemption_inversion.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_shabbat_exemption_inversion.md)
+      - [`🗺️_the_emotional_cartography_of_radicalisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🗺️_the_emotional_cartography_of_radicalisation.md)
       - [`😴_cognitive_load_as_infrastructure.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md)
       - [`😴_exhaustion_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment.md)
       - [`🚪_isolation_scripting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting.md)
@@ -3131,7 +3132,6 @@ _Generated on 2025-12-12 07:08:40 UTC_
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
-    - [`🗺️_the_emotional_cartography_of_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_the_emotional_cartography_of_radicalisation.md)
     - [`🗺️_vibe_map_of_postwar_europe.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_vibe_map_of_postwar_europe.md)
     - [`😌_the_performance_of_consensus.md`](Polaris_Nest/Git_Intake_Drawer/😌_the_performance_of_consensus.md)
     - [`😳_institutional_embarrassment_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/😳_institutional_embarrassment_dynamics.md)
