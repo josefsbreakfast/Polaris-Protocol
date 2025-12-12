@@ -1,6 +1,6 @@
 # 🛰 Why Safeguarding + Counterterrorism = A Democratic Black Hole  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How the fusion of safeguarding and counterterrorism collapses transparency, accountability, and democratic oversight — creating a governance black hole where rights evaporate and suspicion governs.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-12  
+*How the fusion of safeguarding and counterterrorism collapses transparency, accountability, and democratic oversight — creating a governance black hole where rights evaporate and suspicion governs.*  
 
 ---
 
@@ -224,4 +224,4 @@ It demonstrates why the fusion of welfare and counterterrorism creates an unacco
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-12_
