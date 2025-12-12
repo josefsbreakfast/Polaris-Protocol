@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 06:06:11 UTC_
+_Generated on 2025-12-12 06:07:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2382,6 +2382,7 @@ _Generated on 2025-12-12 06:06:11 UTC_
       - [`📮_osa_flag_clarification_request.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📮_osa_flag_clarification_request.md)
       - [`📱_app_security_basics_for_survivors.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📱_app_security_basics_for_survivors.md)
       - [`🗂️_data_sharing_trace_mod_or_contractor_links.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🗂️_data_sharing_trace_mod_or_contractor_links.md)
+      - [`🗣️_how_to_detect_if_your_voice_has_been_used_in_a_dataset.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🗣️_how_to_detect_if_your_voice_has_been_used_in_a_dataset.md)
       - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
       - [`🪐_verifying_app_encryption_and_privacy_claims.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
     - [**🪬_ToS_Non_Compliance_As_Stealthing/**](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/)
@@ -3125,7 +3126,6 @@ _Generated on 2025-12-12 06:06:11 UTC_
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
-    - [`🗣️_how_to_detect_voice_dataset_use.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_how_to_detect_voice_dataset_use.md)
     - [`🗣️_when_did_the_way_we_talk_change.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_when_did_the_way_we_talk_change.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🗺️_linguistic_silk_road.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_linguistic_silk_road.md)
