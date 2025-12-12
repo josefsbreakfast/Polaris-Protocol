@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:57:05 UTC_
+_Generated on 2025-12-12 15:58:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2644,6 +2644,7 @@ _Generated on 2025-12-12 15:57:05 UTC_
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
       - [`🕳️_governance_black_hole.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🕳️_governance_black_hole.md)
       - [`🚦_trigger_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🚦_trigger_architecture.md)
+      - [`🛠️_right_to_correction_after_data_poisoning.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🛠️_right_to_correction_after_data_poisoning.md)
       - [`🦤_false_pretexts_manufactured_justifications_for_intervention.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦤_false_pretexts_manufactured_justifications_for_intervention.md)
       - [`🧠_psychological_containment_loops_living_below_the_threshold.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧠_psychological_containment_loops_living_below_the_threshold.md)
       - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_soft_suspension_is_still_containment.md)
@@ -3156,7 +3157,6 @@ _Generated on 2025-12-12 15:57:05 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛠️_right_to_correction_after_data_poisoning.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_right_to_correction_after_data_poisoning.md)
     - [`🛠️_the_post_alt_right_maintenance_kit.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_the_post_alt_right_maintenance_kit.md)
     - [`🛡_never_build_opaque_risk_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛡_never_build_opaque_risk_systems.md)
     - [`🛡_prevent_precrime_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🛡_prevent_precrime_architecture.md)
