@@ -1,6 +1,6 @@
 # 🛰️ Risk Logic & the Disappearing Public Surgery  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How security cultures have replaced access cultures in representative democracy.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+*How security cultures have replaced access cultures in representative democracy.*  
 
 ---
 
@@ -75,15 +75,16 @@ risk logic, surgeries, civic access, exclusion, governance, securitisation, publ
 
 ## 🏮 Footer  
 
-*Risk Logic & the Disappearing Public Surgery* is a living node of the Polaris Protocol.  
+*🛰️ Risk Logic & the Disappearing Public Surgery* is a living node of the Polaris Protocol.  
 It documents how security frameworks have silently replaced the public’s right to direct political hearing.
 
-> 📡 Cross-references:  
-> - [🧩 The Politic Is No Longer Heard](./🧩_the_politic_is_no_longer_heard.md)  
-> - [🎛 Algorithmic Hearing as False Accountability](./🎛_algorithmic_hearing_as_false_accountability.md)  
-> - [🪢 Re-Embodied Dialogue & Civic Presence](./🪢_re_embodied_dialogue_&_civic_presence.md)  
-> - [🌀 Systems & Governance](../Big_Picture_Protocols/🌀_systems_&_governance/)  
+> 📡 Cross-references:
+> 
+> - [🧩 The Politic Is No Longer Heard]  
+> - [🎛 Algorithmic Hearing as False Accountability]  
+> - [🪢 Re-Embodied Dialogue & Civic Presence]  
+> - [🌀 Systems & Governance]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-12_
