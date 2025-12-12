@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:40:18 UTC_
+_Generated on 2025-12-12 23:41:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -612,6 +612,7 @@ _Generated on 2025-12-12 23:40:18 UTC_
         - [`💄_plastic_masculinity_knives.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
         - [`💊_addiction_and_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md)
         - [`💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💋_pro_domme_pdr_uk_authoritarianism_slide_needs_work.md)
+        - [`💔_social_injury_and_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💔_social_injury_and_radicalisation.md)
         - [`💞_connection_as_leverage.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💞_connection_as_leverage.md)
         - [`💸_shame_as_control_currency_the_architecture_of_self_silencing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💸_shame_as_control_currency_the_architecture_of_self_silencing.md)
         - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
