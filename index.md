@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:38:18 UTC_
+_Generated on 2025-12-12 04:40:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1143,6 +1143,7 @@ _Generated on 2025-12-12 04:38:18 UTC_
         - [`🔥_femme_firewall_fatale.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔥_femme_firewall_fatale.md)
         - [`🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md)
         - [`🔮_archetype_of_the_uncooperative_woman.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔮_archetype_of_the_uncooperative_woman.md)
+        - [`🕯️_the_ethics_of_refusal_in_austerity_states.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md)
         - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
         - [`🦆_she_weighs_the_same_as_a_duck.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md)
         - [`🦴_anatomy_of_male_emotional_starvation.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦴_anatomy_of_male_emotional_starvation.md)
