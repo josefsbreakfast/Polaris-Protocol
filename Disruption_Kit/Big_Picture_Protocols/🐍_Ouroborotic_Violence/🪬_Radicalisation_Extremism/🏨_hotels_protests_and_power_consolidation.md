@@ -1,5 +1,5 @@
 # 🏨 Hotels, Protests, and Power Consolidation  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-12  
 *Why “asylum hotels” protests aren’t about hotels or asylum, but about power consolidation, lawfare industries, and radicalisation pipelines.*  
 
 <a id="top"></a>  
@@ -211,4 +211,4 @@ It documents how asylum hotels became proxy battlefields: far-right mobilisation
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2025-12-12_  
