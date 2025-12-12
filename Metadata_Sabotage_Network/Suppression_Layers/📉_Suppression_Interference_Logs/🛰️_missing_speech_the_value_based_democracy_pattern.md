@@ -1,6 +1,6 @@
-# 🛰️ Missing Speech — The Value-Based Democracy Pattern
-**First created:** 2025-10-17 | **Last updated:** 2025-10-17  
-*Case log on Rishi Sunak’s unarchived ALC 2025 address and the diplomatic mechanics of liberal-democracy signalling in contested regions.*
+# 🛰️ Missing Speech — The Value-Based Democracy Pattern  
+**First created:** 2025-10-17 | **Last updated:** 2025-12-12  
+*Case log on Rishi Sunak’s unarchived ALC 2025 address and the diplomatic mechanics of liberal-democracy signalling in contested regions.*  
 
 ---
 
@@ -99,10 +99,11 @@ Rishi Sunak, Asian Leadership Conference, value-based democracy, missing transcr
 It documents how democratic rhetoric itself can become an artefact of information control — visible where it flatters, erased where it destabilises.  
 
 > 📡 Cross-references:
-> - [🕳️ Curated Amnesia Has A Shape](../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
-> - [📚 Forensic Silence](../📚_Narrative_Management/📚_forensic_silence.md) - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*    
-> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](🏛️_how_genocidal_bureaucracy_operates_the_wannsee_template.md)  
-> - [⚖️ Due Diligence as Moral Defence](⚖️_due_diligence_as_moral_defence.md)  
-> - [🪶 Reading the Dog Whistle](🪶_reading_the_dog_whistle.md)  
+> 
+> - [🕳️ Curated Amnesia Has A Shape  
+> - [📚 Forensic Silence] - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*    
+> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template]  
+> - [⚖️ Due Diligence as Moral Defence]  
+> - [🪶 Reading the Dog Whistle]
 
-_Last updated: 2025-10-17_
+_Last updated: 2025-12-12_
