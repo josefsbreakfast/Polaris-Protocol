@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:31:19 UTC_
+_Generated on 2025-12-12 16:32:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -818,6 +818,7 @@ _Generated on 2025-12-12 16:31:19 UTC_
         - [`🗺️_linguistic_silk_road_how_words_travel.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🗺️_linguistic_silk_road_how_words_travel.md)
         - [`🗺️_vibe_map_of_post_war_europe.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🗺️_vibe_map_of_post_war_europe.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
+        - [`🛰️_ally_productivity_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🛰️_ally_productivity_paradox.md)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
@@ -3167,7 +3168,6 @@ _Generated on 2025-12-12 16:31:19 UTC_
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
-    - [`🛰️_ally_productivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ally_productivity_paradox.md)
     - [`🛰️_anonymous_reporting_abuse_vectors.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_anonymous_reporting_abuse_vectors.md)
     - [`🛰️_beta_audience_suppression_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_beta_audience_suppression_dynamics.md)
     - [`🛰️_civic_oversight_of_ai_partnerships.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_civic_oversight_of_ai_partnerships.md)
