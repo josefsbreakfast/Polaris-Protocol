@@ -155,8 +155,8 @@ It explains why recognition of language-mediated harm is repeatedly delayed — 
 > 📡 Cross-references:
 > 
 > - [👻 Fluent Language as an Attack Surface](../../../../Containment_Studies/💞_Containment_Theory/👻_fluent_language_as_an_attack_surface.md) — *language as vector*  
-> - [🧠 Qualitative Harm in Quantitative Systems](./🧠_qualitative_harm_in_quantitative_systems.md) — *governance mismatch*  
-> - [⚖️ Harm Reduction vs Adversarial Governance](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *false oppositions*  
+> - [🧠 Qualitative Harm in Quantitative Systems](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *governance mismatch*  
+> - [⚖️ Harm Reduction vs Adversarial Governance] — *false oppositions*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
