@@ -1,6 +1,6 @@
 # 🕹️ Anarchist Calisthenics and the Surveillance Industry  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
-*Practising unpredictability in a world that automates obedience.*
+**First created:** 2025-10-25 | **Last updated:** 2025-12-12  
+*Practising unpredictability in a world that automates obedience.*  
 
 ---
 
@@ -136,12 +136,13 @@ anarchist calisthenics, surveillance industry, unpredictability, obedience, refu
 *🕹️ Anarchist Calisthenics and the Surveillance Industry* is a living node of the Polaris Protocol.  
 It explores how everyday unpredictability becomes a defence against behavioural capture and algorithmic docility.  
 
-> 📡 Cross-references:  
-> - [🪬 Radicalisation & Extremism](../🪬_Radicalisation_Extremism/) — cycles of moral training and control  
-> - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/) — oversight, compliance, visibility  
-> - [💫 Containment Logic](../../🌀_System_Governance/💫_Containment_Logic/) — automation of suspicion  
-> - [🐝 Body Politic](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/) — embodied ethics and resistance  
+> 📡 Cross-references:
+> 
+> - [🪬 Radicalisation & Extremism] — cycles of moral training and control  
+> - [🧿 Watch the Watchers] — oversight, compliance, visibility  
+> - [💫 Containment Logic] — automation of suspicion  
+> - [🐝 Body Politic] — embodied ethics and resistance  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-25_  
+_Last updated: 2025-12-12_  
