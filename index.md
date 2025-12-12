@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:47:26 UTC_
+_Generated on 2025-12-12 23:48:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -514,6 +514,7 @@ _Generated on 2025-12-12 23:47:26 UTC_
         - [`🗝️_governance_central_data_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_governance_central_data_outsourcing.md)
         - [`🗝️_guardianship_as_nonstate_custody.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_guardianship_as_nonstate_custody.md)
         - [`🗝️_illusion_of_caldicott_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_illusion_of_caldicott_compliance.md)
+        - [`🗺️_why_ricu_was_structurally_possible.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗺️_why_ricu_was_structurally_possible.md)
         - [`🛑_rabbinic_silence_as_theological_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛑_rabbinic_silence_as_theological_collapse.md)
         - [`🛡️_why_fascism_fears_softness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛡️_why_fascism_fears_softness.md)
         - [`🛰️_naming_the_unnamed_data_sovereignty_and_statehood.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛰️_naming_the_unnamed_data_sovereignty_and_statehood.md)
