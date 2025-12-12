@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:47:33 UTC_
+_Generated on 2025-12-12 18:49:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -505,6 +505,7 @@ _Generated on 2025-12-12 18:47:33 UTC_
         - [`🛑_rabbinic_silence_as_theological_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛑_rabbinic_silence_as_theological_collapse.md)
         - [`🛡️_why_fascism_fears_softness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛡️_why_fascism_fears_softness.md)
         - [`🛰️_naming_the_unnamed_data_sovereignty_and_statehood.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛰️_naming_the_unnamed_data_sovereignty_and_statehood.md)
+        - [`🜁_shared_air.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🜁_shared_air.md)
         - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
         - [`🧠_ai_harms_are_not_new.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md)
         - [`🧠_bargain_bin_mossad.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
@@ -3189,7 +3190,6 @@ _Generated on 2025-12-12 18:47:33 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🜁_shared_air.md`](Polaris_Nest/Git_Intake_Drawer/🜁_shared_air.md)
     - [`🤖_mr_meeseeks_and_shutdown_resistance_problem.md`](Polaris_Nest/Git_Intake_Drawer/🤖_mr_meeseeks_and_shutdown_resistance_problem.md)
     - [`🤝_polite_containment_how_civility_becomes_a_control_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🤝_polite_containment_how_civility_becomes_a_control_mechanism.md)
     - [`🤡_kompromat_own_goals.md`](Polaris_Nest/Git_Intake_Drawer/🤡_kompromat_own_goals.md)
