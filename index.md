@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:07:45 UTC_
+_Generated on 2025-12-12 05:09:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1134,6 +1134,7 @@ _Generated on 2025-12-12 05:07:45 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md)
         - [`♿_containment_by_pity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_containment_by_pity.md)
         - [`♿️_refusing_convenience_disability_as_administrative_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿️_refusing_convenience_disability_as_administrative_resistance.md)
+        - [`⚖️_the_refusal_body_as_unmanageable_risk.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md)
         - [`🏙️_industrial_layout_ghosts.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏙️_industrial_layout_ghosts.md)
         - [`🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏥_spec_sheet_for_dignity_re-institutionalisation_creep.md)
         - [`🐝_carceral_disability.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🐝_carceral_disability.md)
