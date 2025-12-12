@@ -12,7 +12,7 @@ This node documents that dynamic and offers a **counter-reading list** — not t
 
 ---
 
-## 🧩 The Mystique Problem (Brief)
+## 🧩 The Mystique Problem  
 
 * Shorthand replaces explanation ("C", "kernel", "cloud", "AI")
 * Metaphor obscures material reality ("immaterial", "virtual", "smart")
@@ -68,7 +68,7 @@ computing language, technical mystique, abstraction, security literacy, informat
 > 📡 Cross-references:
 >
 > * [🧠 Big Picture Protocols](../../Big_Picture_Protocols/README.md) — *systems and governance analysis*
-> * [🐝 All In Commons]((../../(../../🦆_Digital_Disruption/🐝_All_In_Commons/README.md) — *civic repair and shared infrastructure*
+> * [🐝 All In Commons](../../(../../🦆_Digital_Disruption/🐝_All_In_Commons/README.md) — *civic repair and shared infrastructure*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
