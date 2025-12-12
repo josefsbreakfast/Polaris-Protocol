@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:45:25 UTC_
+_Generated on 2025-12-12 15:46:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2620,6 +2620,7 @@ _Generated on 2025-12-12 15:45:25 UTC_
       - [`🛂_misuse_of_safeguarding_through_gendered_prejudice.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_misuse_of_safeguarding_through_gendered_prejudice.md)
       - [`🛂_police_interface_distortion_from_parental_risk_profile.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_police_interface_distortion_from_parental_risk_profile.md)
       - [`🛂_prevent_white_invisibility.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_prevent_white_invisibility.md)
+      - [`🛑_prevent_is_not_safeguarding.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛑_prevent_is_not_safeguarding.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
@@ -3151,7 +3152,6 @@ _Generated on 2025-12-12 15:45:25 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛑_prevent_is_not_safeguarding.md`](Polaris_Nest/Git_Intake_Drawer/🛑_prevent_is_not_safeguarding.md)
     - [`🛑_rabbinic_silence_as_theological_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🛑_rabbinic_silence_as_theological_collapse.md)
     - [`🛠️_fixing_the_uk_algorithmic_safety_stack.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_fixing_the_uk_algorithmic_safety_stack.md)
     - [`🛠️_frankenstack_failure_modes_public_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_frankenstack_failure_modes_public_systems.md)
