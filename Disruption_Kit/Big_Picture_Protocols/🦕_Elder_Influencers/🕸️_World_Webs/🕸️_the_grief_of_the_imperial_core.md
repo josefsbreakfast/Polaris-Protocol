@@ -1,9 +1,6 @@
-Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/
-
-
 # 🕸️ The Grief of the Imperial Core  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
-*Reconciling moral injury, complicity, and loss within the heart of empire.*
+**First created:** 2025-10-22 | **Last updated:** 2025-12-12  
+*Reconciling moral injury, complicity, and loss within the heart of empire.*  
 
 ---
 
@@ -38,11 +35,12 @@ imperial core, colonial grief, complicity, privilege, empire, mourning, denial, 
 *🕸️ The Grief of the Imperial Core* is a living node of the **Polaris Protocol**.  
 It situates emotional processing as political work: reckoning with benefit, loss, and shared inheritance inside systems built on extraction.  
 
-> 📡 Cross-references:  
-> - [🐍 Politics Memory Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md) — cycles of denial and national forgetting  
-> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — ethics of care and responsibility  
-> - [💸 Money Listens](../💸_Money_Listens/README.md) — economic continuities of empire  
+> 📡 Cross-references:
+> 
+> - [🐍 Politics Memory Work] — cycles of denial and national forgetting  
+> - [🌱 Human Principles] — ethics of care and responsibility  
+> - [💸 Money Listens] — economic continuities of empire  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-12-12_
