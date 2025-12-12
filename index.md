@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:20:53 UTC_
+_Generated on 2025-12-12 16:22:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -498,6 +498,7 @@ _Generated on 2025-12-12 16:20:53 UTC_
         - [`🗝️_guardianship_as_nonstate_custody.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_guardianship_as_nonstate_custody.md)
         - [`🗝️_illusion_of_caldicott_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_illusion_of_caldicott_compliance.md)
         - [`🛑_rabbinic_silence_as_theological_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛑_rabbinic_silence_as_theological_collapse.md)
+        - [`🛡️_why_fascism_fears_softness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛡️_why_fascism_fears_softness.md)
         - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
         - [`🧠_ai_harms_are_not_new.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md)
         - [`🧠_bargain_bin_mossad.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
@@ -3161,7 +3162,6 @@ _Generated on 2025-12-12 16:20:53 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛡️_why_fascism_fears_softness.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_why_fascism_fears_softness.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰_the_digital_prevent_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🛰_the_digital_prevent_pipeline.md)
     - [`🛰_who_built_prevent_policy_ecosystem_2010_2016.md`](Polaris_Nest/Git_Intake_Drawer/🛰_who_built_prevent_policy_ecosystem_2010_2016.md)
