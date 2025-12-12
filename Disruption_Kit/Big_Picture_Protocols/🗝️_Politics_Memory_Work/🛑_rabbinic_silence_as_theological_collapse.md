@@ -1,6 +1,6 @@
 # 🛑 Rabbinic Silence as Theological Collapse  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*How institutional rabbinic silence on Palestinian torture constitutes a breach in Torah’s moral architecture.*
+**First created:** 2025-11-12 | **Last updated:** 2025-12-12  
+*How institutional rabbinic silence on Palestinian torture constitutes a breach in Torah’s moral architecture.*  
 
 ---
 
@@ -48,10 +48,11 @@ rabbinic silence, torah collapse, post-shoah trauma, fear logic, moral breach, e
 *🛑 Rabbinic Silence as Theological Collapse* is a living node of the Polaris Protocol.  
 It interrogates how trauma, power, and fear corrode moral leadership.
 
-> 📡 Cross-references:  
-> - [📜 Torah as Structure of Truth](../📜_torah_as_structure_of_truth.md)  
-> - [🪶 Silence as Breach in the Fence](../🪶_silence_as_breach_in_the_fence.md)
+> 📡 Cross-references:
+> 
+> - [📜 Torah as Structure of Truth]  
+> - [🪶 Silence as Breach in the Fence]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-12_
