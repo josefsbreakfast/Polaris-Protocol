@@ -1,5 +1,5 @@
 # 🛰️ Who Can See the Flag  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-12  
 *Visibility layers for OSA-style or “Restricted” metadata flags across civilian and defence-adjacent systems.*
 
 ---
@@ -14,13 +14,13 @@ This node maps *who* can see *what* within local government, NHS, and defence-pa
 
 ```mermaid
 graph TD
-    A[Metadata Tag Created<br>(e.g., "OSA / Restricted")] --> B1[Local Security / SIRO / DSO]
+    A[Metadata Tag Created<br>eg OSA / Restricted] --> B1[Local Security / SIRO / DSO]
     A --> B2[DPO / IG Manager]
     A --> B3[Legal / Monitoring Officer]
     A --> B4[System Administrators]
-    B1 --> C1[MOD or Vetting Oversight<br>(if linked dataset)]
+    B1 --> C1[MOD or Vetting Oversight<br>if linked dataset]
     B3 --> C2[Corporate Leadership / Audit & Risk]
-    B4 --> C3[Downstream Partner Systems<br>(NHS, Police, MoJ)]
+    B4 --> C3[Downstream Partner Systems<br>eg NHS, Police, MoJ]
 ```
 
 ---
@@ -59,11 +59,11 @@ osa metadata, protective marking, visibility layers, siro, dpo, monitoring offic
 *🛰️ Who Can See the Flag* is a living node of the **Polaris Protocol**.  
 It maps how mis-applied protective markings propagate through civilian infrastructures, showing where containment hardens and where it can be undone.
 
-> 📡 Cross-references:  
-> – [📮 OSA Flag Clarification Request](../Disruption_Kit/Survivor_Tools/📮_osa_flag_clarification_request.md)  
-> – [☔️ Protocol Integrity SOP](../🏮_Polaris_Nest/☔️_protocol_integrity_sop.md)  
-> – [🧟‍♀️ Residual Shadows](../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/)  
+> 📡 Cross-references:
+> 
+> – [📮 OSA Flag Clarification Request]  
+> – [🧟‍♀️ Residual Shadows]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-12_
