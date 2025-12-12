@@ -1,6 +1,6 @@
 # 🛰️ Metadata-Chain Reconstruction (The Ghost Pipeline Method)  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How to rebuild the true data-processing journey from fragmentary metadata, revealing hidden vendors, unacknowledged systems, and ghost pipelines invisible to FOI/SAR statements.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-12  
+*How to rebuild the true data-processing journey from fragmentary metadata, revealing hidden vendors, unacknowledged systems, and ghost pipelines invisible to FOI/SAR statements.*  
 
 ---
 
@@ -316,3 +316,5 @@ This node links directly to:
 It is the technical backbone of Polaris’s forensic toolkit —  
 the part where you stop asking institutions what happened  
 and begin *demonstrating* what happened.
+
+_Last updated: 2025-12-12_
