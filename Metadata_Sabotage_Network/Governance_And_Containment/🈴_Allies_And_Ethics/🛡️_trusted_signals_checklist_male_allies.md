@@ -1,6 +1,6 @@
-# 🛡 Trusted Signals Checklist (Male Allies)
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*A practical toolkit for identifying safe men in environments shaped by racialised and gendered harm.*
+# 🛡 Trusted Signals Checklist (Male Allies)  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-12  
+*A practical toolkit for identifying safe men in environments shaped by racialised and gendered harm.*  
 
 ---
 
@@ -175,7 +175,7 @@ allyship, safety testing, male behaviour, entitlement detection, boundary analys
 ---
 
 ## 🏮 Footer  
-*Trusted Signals Checklist (Male Allies)* is a living node of the Polaris Protocol.  
+*🛡 Trusted Signals Checklist (Male Allies)* is a living node of the Polaris Protocol.  
 It provides a practical, pattern-based method for identifying safe men in environments where racialised misogyny and institutional bias shape everyday risk.
 
 > 📡 Cross-references:  
@@ -185,4 +185,4 @@ It provides a practical, pattern-based method for identifying safe men in enviro
 > - 🛰️ Threat Escalation Pipeline (Racialised Gender)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-12_
