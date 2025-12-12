@@ -1,6 +1,6 @@
 # 🕸️ Architectural Targeting vs Human Targeting  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*Why behavioural-surveillance systems can “target” someone without any human intending harm — and why the outcome feels identical to deliberate persecution.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+*Why behavioural-surveillance systems can “target” someone without any human intending harm — and why the outcome feels identical to deliberate persecution.*  
 
 ---
 
@@ -213,9 +213,9 @@ architectural targeting, prevent, behavioural systems, metadata echo, misclassif
 ---
 
 ## 🏮 Footer  
-*Architectural Targeting vs Human Targeting* is a living node of the Polaris Protocol.  
+*🕸️ Architectural Targeting vs Human Targeting* is a living node of the Polaris Protocol.  
 It names the structural forces that create the *experience* of being targeted — even when no individual intends harm — and maps the convergence of behavioural-surveillance tools that produce that effect.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-12_
