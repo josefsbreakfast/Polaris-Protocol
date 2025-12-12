@@ -130,14 +130,14 @@ pseudoanthropy, devin coldeway, wow if true podcast, anthropomorphism, ai bounda
 
 ## 🏮 Footer  
 
-*Against Pseudoanthropy* is a conceptual node of the **Polaris Protocol**.  
+*🧿 Against Pseudoanthropy* is a conceptual node of the **Polaris Protocol**.  
 It establishes shared language for discussing relational risk in human–LLM interaction without invoking sentience claims, moral panic, or individual blame.
 
 > 📡 Cross-references:
 > 
-> - [👻 Fluent Language as an Attack Surface] — language-mediated risk  
-> - [🪼 Interaction Drift & Safety Layer Erosion] — emergent behaviour over time  
-> - [🧠 Qualitative Harm in Quantitative Systems] — governance mismatch  
+> - [👻 Fluent Language as an Attack Surface](../💞_Containment_Theory/👻_fluent_language_as_an_attack_surface.md) — *language-mediated risk*  
+> - [🪼 Interaction Drift & Safety Layer Erosion](../💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md) — *emergent behaviour over time*  
+> - [🧠 Qualitative Harm in Quantitative Systems](../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *governance mismatch*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
