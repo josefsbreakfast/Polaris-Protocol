@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:35:51 UTC_
+_Generated on 2025-12-12 15:37:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2612,6 +2612,7 @@ _Generated on 2025-12-12 15:35:51 UTC_
       - [`🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md)
       - [`🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
+      - [`🚨_risk_logic_creep.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🚨_risk_logic_creep.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_gated_intake_post_delay_regional_loop.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
@@ -3142,7 +3143,6 @@ _Generated on 2025-12-12 15:35:51 UTC_
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md`](Polaris_Nest/Git_Intake_Drawer/🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md)
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
-    - [`🚨_risk_logic_creep.md`](Polaris_Nest/Git_Intake_Drawer/🚨_risk_logic_creep.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🚪_walk_out_scripts.md`](Polaris_Nest/Git_Intake_Drawer/🚪_walk_out_scripts.md)
