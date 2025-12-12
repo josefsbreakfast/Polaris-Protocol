@@ -1,6 +1,6 @@
 # 🛰️ Ally Productivity Paradox  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How allied stability generates unintended strategic symmetry in adversarial ecosystems.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-12  
+*How allied stability generates unintended strategic symmetry in adversarial ecosystems.*  
 
 ---
 
@@ -92,8 +92,9 @@ ally stability, parity illusion, narrative mirroring, signalling distortion, geo
 *🛰️ Ally Productivity Paradox* is a living node of the **Polaris Protocol**, analysing how periods of stability within allied states can generate unintentional diplomatic symmetry and narrative counterplay in adversarial systems.
 
 > 📡 Cross-references:
-> - [🎭 Narrative & Psych Ops](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/) — framing, echo effects, inversion  
-> - [🧠 Systems & Governance](../Big_Picture_Protocols/🌀_Systems_&_Governance/) — structural reading of international behaviour  
+> 
+> - [🎭 Narrative & Psych Ops] — framing, echo effects, inversion  
+> - [🌀 Systems & Governance] — structural reading of international behaviour  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-12_
