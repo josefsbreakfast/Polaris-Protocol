@@ -111,9 +111,10 @@ It analyses how editorial systems minimise political friction and why medicalise
 
 > 📡 Cross-references:
 > 
-> - [🔮 Visibility Collapse]  
-> - [🪆 Narrative Inversion]  
-> - [⚖️ Refusal Body as Unmanageable Risk]  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
+> - [🕊️ The Public Witness Protocol](../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕊️_the_public_witness_protocol.md)  
+> - [🔥 Breaking Media Blockade Through Body-Based Protest](../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🔥_breaking_media_blockade_through_body_based_protest.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
