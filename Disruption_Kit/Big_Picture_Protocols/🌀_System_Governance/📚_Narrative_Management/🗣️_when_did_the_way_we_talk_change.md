@@ -1,5 +1,5 @@
 # 🗣️ When Did the Way We Talk Change?  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-12  
 *Tracing the linguistic shift from conversation to containment.*  
 
 ---
@@ -76,14 +76,15 @@ language drift, algorithmic tone, social media, irony, containment, visibility, 
 
 ## 🏮 Footer  
 
-*When Did the Way We Talk Change?* is a living node of the Polaris Protocol.  
+*🗣️ When Did the Way We Talk Change?* is a living node of the Polaris Protocol.  
 It traces how digital infrastructure reshaped civic tone, turning conversation into containment.  
 
-> 📡 Cross‑references  
-> – [🪆 Are You Just Asking Questions?](./🪆_are_you_just_asking_questions.md) — rhetorical containment node  
-> – [🎭 Narrative & Psych Ops](../Narrative_And_Psych_Ops/) — interference typologies  
-> – [🧠 Big Picture Protocols](../../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis  
+> 📡 Cross‑references:
+> 
+> – [🪆 Are You Just Asking Questions?] — rhetorical containment node  
+> – [🎭 Narrative & Psych Ops] — interference typologies  
+> – [🧠 Big Picture Protocols] — systemic analysis  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-12_
