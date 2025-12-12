@@ -1,5 +1,5 @@
 # 🪢 Re-Embodied Dialogue & Civic Presence  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
 *Restoring the physical, relational channels through which democratic hearing actually happens.*  
 
 ---
@@ -77,4 +77,4 @@ It outlines the physical and relational infrastructures required to restore genu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2025-12-12_
