@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:32:27 UTC_
+_Generated on 2025-12-12 04:34:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2746,6 +2746,7 @@ _Generated on 2025-12-12 04:32:27 UTC_
       - [`📚_the_streisand_effect_of_justice_irving_v_lipstadt.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_the_streisand_effect_of_justice_irving_v_lipstadt.md)
       - [`📩_the_fictional_email_problem.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📩_the_fictional_email_problem.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
+      - [`🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
       - [`🚗_the_vanquish_paradox.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🚗_the_vanquish_paradox.md)
       - [`🚨_fragility_as_performance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🚨_fragility_as_performance.md)
@@ -3107,7 +3108,6 @@ _Generated on 2025-12-12 04:32:27 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md)
     - [`🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md`](Polaris_Nest/Git_Intake_Drawer/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md)
     - [`🗑️_orthopaedic_anarchism.md`](Polaris_Nest/Git_Intake_Drawer/🗑️_orthopaedic_anarchism.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
