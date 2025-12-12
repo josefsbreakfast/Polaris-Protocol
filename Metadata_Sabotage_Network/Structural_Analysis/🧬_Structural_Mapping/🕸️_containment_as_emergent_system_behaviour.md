@@ -1,6 +1,6 @@
 # 🕸️ Containment as Emergent System Behaviour  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*How coupled optimisation systems learn to slow, silence, or sideline without instruction.*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-12  
+*How coupled optimisation systems learn to slow, silence, or sideline without instruction.*  
 
 ---
 
@@ -46,4 +46,4 @@ Together they form a feedback loop that behaves like intentional suppression.
 Containment emerges when machines mistake uncertainty for danger.  
 It can only be undone by re-introducing dialogue.
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-12_
