@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:09:22 UTC_
+_Generated on 2025-12-12 04:10:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2786,6 +2786,7 @@ _Generated on 2025-12-12 04:09:22 UTC_
       - [`🕳️_absence_as_signal.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_absence_as_signal.md)
       - [`🕳️_the_shape_of_missing_historical_nodes.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_the_shape_of_missing_historical_nodes.md)
       - [`🕸️_competitive_inhibitor_plug_neutralising_jailbroken_adapters.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕸️_competitive_inhibitor_plug_neutralising_jailbroken_adapters.md)
+      - [`🕸️_containment_as_emergent_system_behaviour.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕸️_containment_as_emergent_system_behaviour.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md)
       - [`🧩_human_computation_games_the_puzzle_economy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)
@@ -3089,7 +3090,6 @@ _Generated on 2025-12-12 04:09:22 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸️_containment_as_emergent_system_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_containment_as_emergent_system_behaviour.md)
     - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
     - [`🕸️_interlocking_influence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_interlocking_influence_economy.md)
     - [`🕸️_macro_containment_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_macro_containment_architecture.md)
