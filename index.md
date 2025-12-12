@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 07:26:58 UTC_
+_Generated on 2025-12-12 15:26:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2518,6 +2518,7 @@ _Generated on 2025-12-12 07:26:58 UTC_
       - [`🕸️_networked_morality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_networked_morality.md)
       - [`🕸️_survivor_consent_frameworks.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_consent_frameworks.md)
       - [`🕸️_survivor_failure_uk_data.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_failure_uk_data.md)
+      - [`😌_the_performance_of_consensus.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/😌_the_performance_of_consensus.md)
       - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
       - [`🚷_ethical_withdrawal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚷_ethical_withdrawal.md)
       - [`🧊_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_the_care_cage.md)
@@ -3133,7 +3134,6 @@ _Generated on 2025-12-12 07:26:58 UTC_
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
-    - [`😌_the_performance_of_consensus.md`](Polaris_Nest/Git_Intake_Drawer/😌_the_performance_of_consensus.md)
     - [`😳_institutional_embarrassment_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/😳_institutional_embarrassment_dynamics.md)
     - [`😴_millennial_exhaustion_as_a_political_condition.md`](Polaris_Nest/Git_Intake_Drawer/😴_millennial_exhaustion_as_a_political_condition.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
