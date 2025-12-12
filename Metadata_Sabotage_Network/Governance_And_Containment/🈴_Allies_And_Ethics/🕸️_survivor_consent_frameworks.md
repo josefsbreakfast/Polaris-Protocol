@@ -1,6 +1,6 @@
 # 🕸️ Survivor-Consent Frameworks  
-**First created:** 2025-10-31  
-*Designing lawful, ethical, and emotionally literate consent architectures for voice and data research.*
+**First created:** 2025-10-31 | **Last updated:** 2025-12-12  
+*Designing lawful, ethical, and emotionally literate consent architectures for voice and data research.*  
 
 ---
 
@@ -84,7 +84,7 @@ granular consent · revocability · ethical design · survivor autonomy · data 
 
 ## 🏮 Footer  
 
-*🛡️ Survivor-Consent Frameworks* defines the ethical perimeter of authenticity:  
+*🕸️ Survivor-Consent Frameworks* defines the ethical perimeter of authenticity:  
 the rules of engagement between human agency and technical persistence.  
 It aligns with:  
 
@@ -96,4 +96,4 @@ It aligns with:
 
 ---
 
-**Last updated:** 2025-10-31  
+_Last updated: 2025-12-12_
