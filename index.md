@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:28:07 UTC_
+_Generated on 2025-12-12 16:29:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2632,6 +2632,7 @@ _Generated on 2025-12-12 16:28:07 UTC_
       - [`🛡️_the_seven_layers_of_safeguard_breakdown.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛡️_the_seven_layers_of_safeguard_breakdown.md)
       - [`🛰️_the_digital_prevent_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_the_digital_prevent_pipeline.md)
       - [`🛰️_who_built_prevent_policy_ecosystem_2010_16.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_who_built_prevent_policy_ecosystem_2010_16.md)
+      - [`🛰️_why_safeguarding_plus_counterterrorism_equals_a_democratic_black_hole.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_why_safeguarding_plus_counterterrorism_equals_a_democratic_black_hole.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
@@ -3165,7 +3166,6 @@ _Generated on 2025-12-12 16:28:07 UTC_
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
-    - [`🛰_why_safeguarding_plus_counterterrorism_equals_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🛰_why_safeguarding_plus_counterterrorism_equals_black_hole.md)
     - [`🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_Metadata_Sabotage_Network_🍄_Suppression_Layers_🔮_captcha_loop_containment_disguised_as_verification.md)
     - [`🛰️_ally_productivity_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_ally_productivity_paradox.md)
     - [`🛰️_anonymous_reporting_abuse_vectors.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_anonymous_reporting_abuse_vectors.md)
