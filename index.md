@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:20:41 UTC_
+_Generated on 2025-12-12 04:22:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1117,6 +1117,7 @@ _Generated on 2025-12-12 04:20:41 UTC_
         - [`🕊_repairing_the_human.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕊_repairing_the_human.md)
         - [`🕍_jewish_trauma_literacy_for_non_jewish_audiences.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)
         - [`🕍_shared_language_for_shared_warnings.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕍_shared_language_for_shared_warnings.md)
+        - [`🕸️_networking_as_a_tool_of_novelty.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕸️_networking_as_a_tool_of_novelty.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
@@ -3100,7 +3101,6 @@ _Generated on 2025-12-12 04:20:41 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
     - [`🕸️_the_grief_of_the_imperial_core.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_grief_of_the_imperial_core.md)
     - [`🕸️_voice_lineage_and_dataset_chain.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_voice_lineage_and_dataset_chain.md)
     - [`🕸️_web_sovereignity.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_web_sovereignity.md)
