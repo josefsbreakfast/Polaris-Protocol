@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:42:06 UTC_
+_Generated on 2025-12-12 18:44:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2643,6 +2643,7 @@ _Generated on 2025-12-12 18:42:06 UTC_
       - [`🛡️_the_seven_layers_of_safeguard_breakdown.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛡️_the_seven_layers_of_safeguard_breakdown.md)
       - [`🛰️_anonymous_reporting_abuse_vectors.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_anonymous_reporting_abuse_vectors.md)
       - [`🛰️_the_digital_prevent_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_the_digital_prevent_pipeline.md)
+      - [`🛰️_threat_escalation_pipeline_racialised_gender.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_threat_escalation_pipeline_racialised_gender.md)
       - [`🛰️_who_built_prevent_policy_ecosystem_2010_16.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_who_built_prevent_policy_ecosystem_2010_16.md)
       - [`🛰️_why_safeguarding_plus_counterterrorism_equals_a_democratic_black_hole.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_why_safeguarding_plus_counterterrorism_equals_a_democratic_black_hole.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
@@ -3184,7 +3185,6 @@ _Generated on 2025-12-12 18:42:06 UTC_
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
-    - [`🛰️_threat_escalation_pipeline_racialised_gender.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_threat_escalation_pipeline_racialised_gender.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_vendor_blindspot_mapping.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_vendor_blindspot_mapping.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
