@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:29:54 UTC_
+_Generated on 2025-12-12 04:31:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2373,6 +2373,7 @@ _Generated on 2025-12-12 04:29:54 UTC_
       - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
       - [`📮_osa_flag_clarification_request.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📮_osa_flag_clarification_request.md)
       - [`📱_app_security_basics_for_survivors.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📱_app_security_basics_for_survivors.md)
+      - [`🗂️_data_sharing_trace_mod_or_contractor_links.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🗂️_data_sharing_trace_mod_or_contractor_links.md)
       - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
       - [`🪐_verifying_app_encryption_and_privacy_claims.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
     - [**🪬_ToS_Non_Compliance_As_Stealthing/**](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/)
@@ -3105,7 +3106,6 @@ _Generated on 2025-12-12 04:29:54 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🗂️_data_sharing_trace_mod_links.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_data_sharing_trace_mod_links.md)
     - [`🗂️_risk_grounding_model_for_bureaucratic_harm.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_risk_grounding_model_for_bureaucratic_harm.md)
     - [`🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md)
     - [`🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md`](Polaris_Nest/Git_Intake_Drawer/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md)
