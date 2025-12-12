@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 06:01:55 UTC_
+_Generated on 2025-12-12 06:03:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -318,6 +318,7 @@ _Generated on 2025-12-12 06:01:55 UTC_
         - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_clone_friendly_architecture.md)
         - [`🕸️_interlocking_influence_economy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_interlocking_influence_economy.md)
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
+        - [`🗳️_the_corbyn_starner_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗳️_the_corbyn_starner_consent_mechanism.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🦇_how_many_words_to_fell_an_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦇_how_many_words_to_fell_an_industry.md)
         - [`🧠_politicians_and_public_contact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_politicians_and_public_contact.md)
@@ -3126,7 +3127,6 @@ _Generated on 2025-12-12 06:01:55 UTC_
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗣️_how_to_detect_voice_dataset_use.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_how_to_detect_voice_dataset_use.md)
     - [`🗣️_when_did_the_way_we_talk_change.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_when_did_the_way_we_talk_change.md)
-    - [`🗳️_corbyn_starmer_consent_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🗳️_corbyn_starmer_consent_mechanism.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🗺️_linguistic_silk_road.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_linguistic_silk_road.md)
     - [`🗺️_the_emotional_cartography_of_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_the_emotional_cartography_of_radicalisation.md)
