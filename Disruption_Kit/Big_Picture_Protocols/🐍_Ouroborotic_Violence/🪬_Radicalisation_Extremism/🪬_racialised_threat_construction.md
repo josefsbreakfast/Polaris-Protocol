@@ -1,6 +1,5 @@
-# 🪬 Racialised Threat Construction
-
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12
+# 🪬 Racialised Threat Construction  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
 *How violence is collectivised for minority groups but individualised for dominant ones — and how this asymmetry shapes public policy, media framing, and communal blame.*
 
 ---
