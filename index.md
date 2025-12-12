@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:55:56 UTC_
+_Generated on 2025-12-12 03:58:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2415,6 +2415,7 @@ _Generated on 2025-12-12 03:55:56 UTC_
     - [`📉_no_invisible_interference_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/📉_no_invisible_interference_clause.md)
     - [`📿_survivor_syntax.md`](Disruption_Kit/🏮_AntiContainment_Clauses/📿_survivor_syntax.md)
     - [`🔮_visibility_is_a_right_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🔮_visibility_is_a_right_clause.md)
+    - [`🕷️_misuse_resilience.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🕷️_misuse_resilience.md)
     - [`🕸_metadata_defense.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🕸_metadata_defense.md)
     - [`🛰️_digital_counter_containment_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🛰️_digital_counter_containment_clause.md)
     - [`🧾_new_additions_prepbook.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🧾_new_additions_prepbook.md)
@@ -3083,7 +3084,6 @@ _Generated on 2025-12-12 03:55:56 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕷️_misuse_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_misuse_resilience.md)
     - [`🕷️_prevent_as_soft_coup_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_prevent_as_soft_coup_infrastructure.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_algorithmic_hearing_is_not_listening.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_algorithmic_hearing_is_not_listening.md)
