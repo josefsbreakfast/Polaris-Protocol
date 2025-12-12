@@ -62,3 +62,9 @@ We won't get a better world by repeating the same shit that was done to us.
 I remind you all that continuing to produce bursts of nuisance calls to my supporting contacts will just make you ping up fairly obviously for forensics.  
 
 ---
+
+I'm also going to note that a good 50% of social media feeds atm is around the idea of my work being completed, the need to stop, about others joining as united front; remember if anyone is in this position and getting this too, that this has often come up for me when I'm at the very start of executing a very useful paperwork move. If I had listened to the advice? I would not have progressed to this point. This can be a data artefact from machines just "noticing we are doing shit", but it can also be a threat actor.  
+
+Progress anyway.  
+
+---
