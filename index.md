@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:26:34 UTC_
+_Generated on 2025-12-12 04:28:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3104,7 +3104,6 @@ _Generated on 2025-12-12 04:26:34 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🕹️_getting_the_tech_bros_back_on_script.md`](Polaris_Nest/Git_Intake_Drawer/🕹️_getting_the_tech_bros_back_on_script.md)
     - [`🗂️_data_sharing_trace_mod_links.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_data_sharing_trace_mod_links.md)
     - [`🗂️_risk_grounding_model_for_bureaucratic_harm.md`](Polaris_Nest/Git_Intake_Drawer/🗂️_risk_grounding_model_for_bureaucratic_harm.md)
@@ -3860,6 +3859,7 @@ _Generated on 2025-12-12 04:26:34 UTC_
     - [`🌀_loop_mapping_station.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
     - [`🎭_friction_tactics_catalogue.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🎭_friction_tactics_catalogue.md)
     - [`💡_attention_redirection_protocols.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/💡_attention_redirection_protocols.md)
+    - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🛰️_verified_amplification_network_protocol_handbook.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🛰️_verified_amplification_network_protocol_handbook.md)
     - [`🧠_nudge_taxonomy_and_detection.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧠_nudge_taxonomy_and_detection.md)
     - [`🧬_behavioural_signature_library.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧬_behavioural_signature_library.md)
