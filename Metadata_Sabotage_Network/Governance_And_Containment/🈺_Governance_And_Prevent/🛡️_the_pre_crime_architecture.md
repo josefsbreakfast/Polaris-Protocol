@@ -1,6 +1,6 @@
 # 🛡 The Pre-Crime Architecture  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*Why Prevent functions as a pre-crime system built to predict, infer, and intervene on behaviour before wrongdoing occurs—and why that structure is fundamentally incompatible with democratic norms.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-12  
+*Why Prevent functions as a pre-crime system built to predict, infer, and intervene on behaviour before wrongdoing occurs—and why that structure is fundamentally incompatible with democratic norms.*  
 
 ---
 
@@ -214,4 +214,4 @@ It details why Prevent is structurally a pre-crime system and why predictive sus
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-12_
