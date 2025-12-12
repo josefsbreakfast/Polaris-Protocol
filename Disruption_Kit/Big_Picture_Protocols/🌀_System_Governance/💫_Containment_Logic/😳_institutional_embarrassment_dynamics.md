@@ -1,6 +1,6 @@
 # 😳 Institutional Embarrassment Dynamics  
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
-*Why organisations hesitate, contort, or delay when internal harm is revealed — and how embarrassment becomes a structural force shaping governance behaviour.*
+**First created:** 2025-11-14 | **Last updated:** 2025-12-12  
+*Why organisations hesitate, contort, or delay when internal harm is revealed — and how embarrassment becomes a structural force shaping governance behaviour.*  
 
 ---
 
@@ -163,7 +163,7 @@ embarrassment dynamics, organisational shame, governance delay, identity rupture
 ---
 
 ## 🏮 Footer  
-*Institutional Embarrassment Dynamics* describes the emotional mechanics behind organisational hesitation and delay.  
+*😳 Institutional Embarrassment Dynamics* describes the emotional mechanics behind organisational hesitation and delay.  
 It reframes embarrassment as a structural force — predictable, temporary, and resolvable.
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-12_
