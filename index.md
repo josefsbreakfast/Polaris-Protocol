@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:54:36 UTC_
+_Generated on 2025-12-12 03:55:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2468,6 +2468,7 @@ _Generated on 2025-12-12 03:54:36 UTC_
       - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)
       - [`📠_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📠_when_truth_becomes_a_trade.md)
       - [`🕳️_when_the_censor_is_a_contractor.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md)
+      - [`🕳️_whistlebridge_correlation_notes.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_whistlebridge_correlation_notes.md)
       - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
       - [`🕸️_dragnet_as_default.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_dragnet_as_default.md)
       - [`🚨_prevent_as_contractual_silence.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🚨_prevent_as_contractual_silence.md)
@@ -3082,7 +3083,6 @@ _Generated on 2025-12-12 03:54:36 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕷️_misuse_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_misuse_resilience.md)
     - [`🕷️_prevent_as_soft_coup_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_prevent_as_soft_coup_infrastructure.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
