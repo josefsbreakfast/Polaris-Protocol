@@ -1,6 +1,6 @@
 # 🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*When proximity of thought becomes participation in atmosphere.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-12  
+*When proximity of thought becomes participation in atmosphere.*  
 
 ---
 
@@ -87,10 +87,11 @@ When a culture learns to cut the air supply—by changing language, exposing eup
 *🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence* is a living node of the **Polaris Protocol**.  
 It documents how ideas survive moral collapse by continuing to breathe the same conceptual atmosphere.  
 
-> 📡 Cross-references:  
-> - [🪞 Algorithmic Reframing — When Analysis Becomes Evasion](../🪞_algorithmic_reframing_when_analysis_becomes_evasion.md)  
-> - [⚖️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments](../⚖️_freud_jung_disraeli_gladstone.md)
+> 📡 Cross-references:
+> 
+> - [🪞 Algorithmic Reframing — When Analysis Becomes Evasion]  
+> - [⚖️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-12_
