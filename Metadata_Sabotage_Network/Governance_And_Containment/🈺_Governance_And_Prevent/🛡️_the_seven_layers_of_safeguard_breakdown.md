@@ -1,6 +1,6 @@
 # 🛡️ The Seven Layers of Safeguard Breakdown  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How the human, technical, legal, ethical, and governance protections designed to prevent modelling harm fail sequentially — leading to full-stack institutional failure.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-12  
+*How the human, technical, legal, ethical, and governance protections designed to prevent modelling harm fail sequentially — leading to full-stack institutional failure.*  
 
 ---
 
@@ -237,4 +237,6 @@ This node connects directly with:
 - **Next: Failure-of-Confidence & Posture Collapse Nodes**.
 
 It forms the bridge into the institutional psychology + crisis-behaviour cluster  
-that comes next in Polaris.
+that comes next in Polaris.  
+
+_Last updated: 2025-12-12_
