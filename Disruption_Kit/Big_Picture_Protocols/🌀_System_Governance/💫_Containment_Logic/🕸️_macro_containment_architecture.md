@@ -1,6 +1,6 @@
-# 🕸️ Macro Containment Architecture
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*How government-level risk and communications systems cascade containment logic through public institutions.*
+# 🕸️ Macro Containment Architecture  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-12  
+*How government-level risk and communications systems cascade containment logic through public institutions.*  
 
 ---
 
@@ -24,12 +24,12 @@ Containment is rarely local; it’s designed into procurement frameworks, regula
 ```mermaid
 flowchart TD
     A[Cabinet Office / DSIT / DfE<br>Policy & Oversight] --> B[Crown Commercial Service<br>Vendor Frameworks]
-    B --> C[Private Contractors<br>(PR, Analytics, Consultancy)]
-    A --> D[Regulators<br>(ICO, OfS, NHS England)]
+    B --> C[Private Contractors<br>PR, Analytics, Consultancy]
+    A --> D[Regulators<br>ICO, OfS, NHS England]
     C --> E[Universities / NHS Trusts<br>Risk & Comms Units]
     D --> E
     E --> F[Local Managers / HR / Legal]
-    F --> G[Public Interface<br>(Students, Staff, Media)]
+    F --> G[Public Interface<br>Students, Staff, Media]
 ```
 
 **Interpretation:**  
@@ -54,13 +54,14 @@ risk management, communications strategy, containment architecture, public secto
 
 ## 🏮 Footer  
 
-*Macro Containment Architecture* is a living node of the Polaris Protocol.  
+*🕸️ Macro Containment Architecture* is a living node of the Polaris Protocol.  
 It visualises how national risk and communications frameworks produce uniform containment reflexes across the public sector.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic containment analysis  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — platform and institutional casefiles  
+> 📡 Cross-references:
+> 
+> - [Big Picture Protocols] — systemic containment analysis  
+> - [Containment Scripts] — platform and institutional casefiles  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-12_
