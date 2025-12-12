@@ -1,5 +1,5 @@
 # 👁 Finch and the Limits of Obedience
-**First created:** 2025-11-01 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-12  
 *How ordinary work cultures create moral lag — and how people inside systems find their line.*  
 
 ---
@@ -92,4 +92,4 @@ It offers language and cues for people inside institutions to recognise when pro
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-12_
