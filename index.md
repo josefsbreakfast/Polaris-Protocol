@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:04:56 UTC_
+_Generated on 2025-12-12 16:06:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -164,6 +164,7 @@ _Generated on 2025-12-12 16:04:56 UTC_
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
         - [`🕊️_positive_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕊️_positive_drift.md)
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
+        - [`🛡️_constructed_immunity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🛡️_constructed_immunity.md)
         - [`🦠_openai_uk_due_diligence_autoimmunity_map.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_openai_uk_due_diligence_autoimmunity_map.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
         - [`🧭_reflexive_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧭_reflexive_risk.md)
@@ -3161,7 +3162,6 @@ _Generated on 2025-12-12 16:04:56 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛡️_constructed_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_constructed_immunity.md)
     - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
     - [`🛡️_seven_layers_of_safeguard_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_seven_layers_of_safeguard_breakdown.md)
     - [`🛡️_why_fascism_fears_softness.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_why_fascism_fears_softness.md)
