@@ -1,6 +1,5 @@
 # 🛰️ Cultural Capture of Internet Boys  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-12  
 *How fascist, manosphere, and extremist movements strategically rewrote the emotional culture of online boyhood.*
 
 ---
@@ -193,14 +192,15 @@ We are restoring soft boys to themselves.
 ---
 
 ## 🏮 Footer  
-**Cultural Capture of Internet Boys** is a living node of the Polaris Protocol.  
+*🛰️ Cultural Capture of Internet Boys* is a living node of the Polaris Protocol.  
 It situates modern radicalisation within a 30-year emotional and cultural hijack of online boyhood, reframing recruits as victims of engineered digital ecosystems rather than ideological villains.
 
-> 📡 Cross-references:  
-> - [🩸 Lineage of the Cursed Forums](./lineage_of_the_cursed_forums.md)  
-> - [💻 Why Tech Bros Were the Perfect Target](./why_tech_bros_were_the_perfect_target.md)  
-> - [🧨 The PUA-to-Fascist Pipeline](./the_pua_to_fascist_pipeline.md)
+> 📡 Cross-references:
+> 
+> - [🩸 Lineage of the Cursed Forums]  
+> - [💻 Why Tech Bros Were the Perfect Target]  
+> - [🧨 The PUA-to-Fascist Pipeline]
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-12_
