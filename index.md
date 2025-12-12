@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:14:27 UTC_
+_Generated on 2025-12-12 23:15:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3874,6 +3874,7 @@ _Generated on 2025-12-12 23:14:27 UTC_
     - [`what_they_now_call_X.csv`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/what_they_now_call_X.csv)
     - [`⚖️_legal_flagging_incident_report.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_legal_flagging_incident_report.md)
     - [`⚖️_linguistic_integrity_as_security_risk.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
+    - [`🌌_language_as_infrastructure.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🌌_language_as_infrastructure.md)
     - [`🎭_poets_as_primary_targets.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
     - [`🏛️_archive_capture_template.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🏛️_archive_capture_template.md)
     - [`📊_daily_watchlist.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/📊_daily_watchlist.md)
