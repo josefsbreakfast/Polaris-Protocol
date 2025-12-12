@@ -1,6 +1,6 @@
 # 🚪 Walk‑Out Scripts  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*Practical and psychological tools for leaving a respectability‑laundered extremist space before it captures you.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-12  
+*Practical and psychological tools for leaving a respectability‑laundered extremist space before it captures you.*  
 
 ---
 
@@ -72,3 +72,5 @@ walk‑out scripts, deradicalisation tactics, exit cues, extremist events, self�
 ## 🏮 Footer  
 *🚪 Walk‑Out Scripts* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-12_
