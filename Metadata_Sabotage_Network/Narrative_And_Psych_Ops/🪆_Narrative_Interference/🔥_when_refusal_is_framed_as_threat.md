@@ -179,10 +179,10 @@ It examines how states reframe hunger strikes as threats to maintain narrative a
 
 > 📡 Cross-references:
 > 
-> - [🔥 Hunger Strike as Counter-Sovereignty] — how refusal destabilises sovereign claims  
-> - [🧨 Exceptional Sovereignty in Pre-Trial Security Detention]  — democratic emergencies under exceptional power  
-> - [🍄 Suppression Layers]  — disappearance and editorial softening of dissent  
-> - [🎭 Narrative & Psych Ops]  — framing, reframing, and the state’s emotional vocabulary  
+> - [🩸 Bodily Risk as Political Speech](../../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md)  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
+> - [👅 The Smear Logic of Self-Harm Framing](../👅_Voice_Disruption_Discrediting/👅_the_smear_logic_of_self_harm_framing.md)  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
