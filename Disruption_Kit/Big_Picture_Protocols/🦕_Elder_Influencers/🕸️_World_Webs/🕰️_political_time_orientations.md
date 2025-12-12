@@ -1,5 +1,5 @@
 # 🕰️ Political Time Orientations — Utopia, Present, Journey
-**Stub created:** 2025-11-07
+**First created:** 2025-11-07 | **Last updated:** 2025-12-12  
 
 ---
 
@@ -15,4 +15,4 @@ Brief description of 🕰️ political time orientations — utopia, present, jo
 
 ---
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-12-12_
