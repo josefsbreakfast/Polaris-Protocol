@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:28:25 UTC_
+_Generated on 2025-12-12 05:28:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -138,7 +138,7 @@ _Generated on 2025-12-12 05:28:25 UTC_
         - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
         - [`🦮_who_authorises_animal_assisted_ve_interventions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦮_who_authorises_animal_assisted_ve_interventions.md)
         - [`🧠_early_secret_police_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧠_early_secret_police_architecture.md)
-        - [`🧨 _exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨 _exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)
+        - [`🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)
         - [`🪶_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪶_reading_the_dog_whistle.md)
         - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
