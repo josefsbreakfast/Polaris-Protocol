@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:34:09 UTC_
+_Generated on 2025-12-12 23:35:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -644,6 +644,7 @@ _Generated on 2025-12-12 23:34:09 UTC_
         - [`🧿_central_uncertainty_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_central_uncertainty_protocols.md)
         - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
         - [`🩸_cyclical_physiology_and_algorithmic_misread.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🩸_cyclical_physiology_and_algorithmic_misread.md)
+        - [`🪞_domestic_psyops_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪞_domestic_psyops_paradox.md)
         - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
         - [`🪦_memory_erasure_in_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md)
         - [`🪩_no_fap_fascism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪩_no_fap_fascism.md)
