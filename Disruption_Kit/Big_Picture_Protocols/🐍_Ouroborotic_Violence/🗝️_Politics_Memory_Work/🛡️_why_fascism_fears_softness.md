@@ -1,6 +1,5 @@
 # 🛡️ Why Fascism Fears Softness  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-12  
 *Why the gentleness, empathy, creativity, and emotional honesty of soft boys, queer communities, and progressive subcultures represent an existential threat to authoritarian power.*
 
 ---
@@ -233,14 +232,15 @@ because tender men cannot be controlled.
 ---
 
 ## 🏮 Footer  
-**Why Fascism Fears Softness** is a living node of the Polaris Protocol.  
+*🛡️ Why Fascism Fears Softness* is a living node of the Polaris Protocol.  
 It articulates the strategic, emotional, and political threat softness poses to authoritarian masculinity — and why restoring softness is essential to deradicalisation.
 
-> 📡 Cross-references:  
-> - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)  
-> - [🔥 Shame as the Master Key of Fascist Manipulation](./shame_as_the_master_key_of_fascist_manipulation.md)  
-> - [🧬 Structural Vulnerability of Soft Boys](./structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)
+> 📡 Cross-references:
+> 
+> - [💗 Soft Boy Restoration Protocol]  
+> - [🔥 Shame as the Master Key of Fascist Manipulation]  
+> - [🧬 Structural Vulnerability of Soft Boys]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-12_
