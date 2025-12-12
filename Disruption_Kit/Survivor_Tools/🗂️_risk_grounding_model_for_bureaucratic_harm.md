@@ -1,8 +1,6 @@
-File: 🗂️_risk_grounding_model_for_bureaucratic_harm.md
-
 # 🗂️ Risk Grounding Model for Bureaucratic Harm  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*A clinical-style, population-level method for grounding fear after institutional misinterpretation, data contamination, or bureaucratic overreach.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+*A clinical-style, population-level method for grounding fear after institutional misinterpretation, data contamination, or bureaucratic overreach.*  
 
 ---
 
@@ -146,5 +144,7 @@ Risk grounding creates a safe cognitive landing zone where:
 ---
 
 ## 🏮 Footer  
-The *Risk Grounding Model for Bureaucratic Harm* is part of Polaris’ civic-safety toolkit.  
-It enables users to stabilise after institutional misinterpretation without false reassurance, building literacy in structural uncertainty and restoring agency after bureaucratic injury.
+The *🗂️ Risk Grounding Model for Bureaucratic Harm* is part of Polaris’ civic-safety toolkit.  
+It enables users to stabilise after institutional misinterpretation without false reassurance, building literacy in structural uncertainty and restoring agency after bureaucratic injury.  
+
+_Last updated: 2025-12-12_
