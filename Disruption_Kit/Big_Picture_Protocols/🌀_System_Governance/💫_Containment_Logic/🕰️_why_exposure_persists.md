@@ -1,5 +1,5 @@
 # 🕰️ Why Exposure Persists — Structural Causes of Delayed Extraction
-**First created:** 2025-10-13  |  **Last updated:** 2025-10-13  
+**First created:** 2025-10-13 | **Last updated:** 2025-12-12  
 *Explains why live probes and vulnerable witnesses often remain exposed long after the data is sufficient.*
 
 ---
@@ -35,4 +35,6 @@ Single command owner; explicit 72h default limit with oversight renewal; duty‑
 ## ✨ Stardust  
 exposure persistence, institutional latency, ethics of observation, duty of care, oversight renewal  
 
-*Last updated 2025-10-13  |  In a just system, “wait and see” never outlives “protect and care.”*
+*In a just system, “wait and see” never outlives “protect and care.”*  
+
+_Last updated: 2025-12-12_
