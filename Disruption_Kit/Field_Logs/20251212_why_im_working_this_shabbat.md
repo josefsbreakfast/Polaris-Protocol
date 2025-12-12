@@ -15,3 +15,13 @@ was it really worth destroying my life over?
 i will ensure the destruction will not be rewarded.  
 
 ---
+
+briefly:  
+
+- some payment declines yest;
+- encouraging unrofessional behaviour on feeds, framing as romance, bc apparantly taht's all women care about ever;
+- ico is examining acro piece;
+- multiple data controllers have gone silent (assume pending further searches);
+- multiple app errors when searching terms around (essentially) the behaviour of guilty conscience.  
+
+---
