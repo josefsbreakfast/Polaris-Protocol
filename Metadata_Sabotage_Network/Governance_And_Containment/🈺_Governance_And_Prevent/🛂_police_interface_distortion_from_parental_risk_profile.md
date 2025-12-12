@@ -1,6 +1,6 @@
 # 🛂 Police Interface Distortion from Parental Risk Profile  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*How inherited offender metadata alters police interpretation of survivor risk, credibility, and threat.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-12  
+*How inherited offender metadata alters police interpretation of survivor risk, credibility, and threat.*  
 
 ---
 
@@ -117,9 +117,9 @@ It documents the policing consequences of inherited offender metadata and shows 
 
 > 📡 Cross-references:
 > 
-> - [🦒 Structural Analysis](../Metadata_Sabotage_Network/🦒_Structural_Analysis/) — architecture of metadata linkage  
-> - [🔥 Data Risks](../Metadata_Sabotage_Network/🔥_Data_Risks/) — inherited flags and risk contagion  
+> - [🦒 Structural Analysis] — architecture of metadata linkage  
+> - [🔥 Data Risks] — inherited flags and risk contagion  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-12_
