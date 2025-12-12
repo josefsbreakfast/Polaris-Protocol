@@ -1,6 +1,6 @@
 # 🤡 Kompromat Own-Goals  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
-*How bad actors sabotage themselves while attempting to incriminate others.*
+**First created:** 2025-12-08 | **Last updated:** 2025-12-13  
+*How bad actors sabotage themselves while attempting to incriminate others.*  
 
 ---
 
@@ -60,4 +60,4 @@ It documents how poorly constructed coercive narratives collapse under the weigh
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-13_
