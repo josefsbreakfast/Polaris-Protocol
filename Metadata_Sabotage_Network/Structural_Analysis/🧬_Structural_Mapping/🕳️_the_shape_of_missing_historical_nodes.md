@@ -1,6 +1,6 @@
 # 🕳️ The Shape of Missing Historical Nodes
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
-*Mapping the absences left when surveillance erases despair from the record.*
+**First created:** 2025-11-03 | **Last updated:** 2025-12-12  
+*Mapping the absences left when surveillance erases despair from the record.*  
 
 ---
 
@@ -48,9 +48,9 @@ archival silence, suicide data, censorship, historiography, erasure patterns, wi
 It documents how surveillance regimes sculpt absence into evidence and how historians recover meaning from that void.  
 
 > 📡 Cross-references:  
-> - [🌹 White Rose Leaflet as Counter-Suicide Signal](./🌹_white_rose_leaflet_as_counter_suicide_signal.md) — surviving trace of defiance  
-> - [📚 Forensic Silence](../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) — methodological anchor  
+> - [🌹 White Rose Leaflet as Counter-Suicide Signal] — surviving trace of defiance  
+> - [📚 Forensic Silence] — methodological anchor  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2025-12-12_
