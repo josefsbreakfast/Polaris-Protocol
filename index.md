@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:58:16 UTC_
+_Generated on 2025-12-12 03:59:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2570,6 +2570,7 @@ _Generated on 2025-12-12 03:58:16 UTC_
       - [`🔮_uk_digital_id_risk_forecast.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)
       - [`🕯️_prevent_and_the_encampment_silence.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕯️_prevent_and_the_encampment_silence.md)
       - [`🕳️_the_channel_panel_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕳️_the_channel_panel_problem.md)
+      - [`🕷️_prevent_as_soft_coup_infrastructure.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕷️_prevent_as_soft_coup_infrastructure.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_gated_intake_post_delay_regional_loop.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
@@ -3084,7 +3085,6 @@ _Generated on 2025-12-12 03:58:16 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕷️_prevent_as_soft_coup_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_prevent_as_soft_coup_infrastructure.md)
     - [`🕸_ethical_de_meshing.md`](Polaris_Nest/Git_Intake_Drawer/🕸_ethical_de_meshing.md)
     - [`🕸️_algorithmic_hearing_is_not_listening.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_algorithmic_hearing_is_not_listening.md)
     - [`🕸️_architectural_vs_human_versions_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_architectural_vs_human_versions_targeting.md)
