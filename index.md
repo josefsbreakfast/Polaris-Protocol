@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:04:20 UTC_
+_Generated on 2025-12-12 04:05:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2871,6 +2871,7 @@ _Generated on 2025-12-12 04:04:20 UTC_
       - [`🕳️_continuity_under_oversight.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕳️_continuity_under_oversight.md)
       - [`🕳️_how_to_catch_a_whistleblower.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕳️_how_to_catch_a_whistleblower.md)
       - [`🕳️_routing_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕳️_routing_logic.md)
+      - [`🕸️_architectural_targeting_vs_human_targeting.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕸️_architectural_targeting_vs_human_targeting.md)
       - [`🚩_when_being_flagged_creates_the_evidence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🚩_when_being_flagged_creates_the_evidence.md)
       - [`🦁_the_rules_beneath_the_rules.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦁_the_rules_beneath_the_rules.md)
       - [`🦠_statistical_nightmare.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_statistical_nightmare.md)
@@ -3087,7 +3088,6 @@ _Generated on 2025-12-12 04:04:20 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸️_architectural_vs_human_versions_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_architectural_vs_human_versions_targeting.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
     - [`🕸️_containment_as_emergent_system_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_containment_as_emergent_system_behaviour.md)
     - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
