@@ -1,5 +1,5 @@
 # 🎶 Reversal Distortion — *If I Can’t Have You*  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
 *Example of undertone inversion through musical adjacency drift.*
 <!--How: song = good; machine = bad.-->
 ---
@@ -69,4 +69,4 @@ It documents a real-world instance of musical expression being misread through a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-12_
