@@ -1,6 +1,6 @@
 # 🤝 Polite Containment — How Civility Becomes a Control Mechanism  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*When manners manage dissent.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-13  
+*When manners manage dissent.*  
 
 ---
 
@@ -98,10 +98,10 @@ polite containment, civility politics, tone policing, institutional empathy, pro
 It traces how language and manners become governance devices, maintaining containment even in moments of apparent compassion.
 
 > 📡 Cross-references:  
-> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility](../📚_Narrative_Management/🎭_reputation_as_governance_how_institutions_script_their_own_credibility.md)  
-> - [🪞 Narrative Drift — When Systems Inherit the Wrong Story](../📚_Narrative_Management/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)  
-> - [💄 Hypothetical Case: Disinformation and Narrative Control](../🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)  
+> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility]  
+> - [🪞 Narrative Drift — When Systems Inherit the Wrong Story]  
+> - [💄 Hypothetical Case: Disinformation and Narrative Control]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-13_
