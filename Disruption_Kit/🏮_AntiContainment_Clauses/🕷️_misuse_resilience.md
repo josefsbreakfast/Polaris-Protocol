@@ -1,6 +1,6 @@
 # 🕷️ Misuse Resilience  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-06  
-*Design principles and language patterns that make Polaris resistant to misinterpretation, weaponisation, and hostile narrative distortion.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+*Design principles and language patterns that make Polaris resistant to misinterpretation, weaponisation, and hostile narrative distortion.*  
 
 ---
 
@@ -220,9 +220,9 @@ resilience, misinterpretation prevention, hostile actor mitigation, governance t
 ---
 
 ## 🏮 Footer  
-*Misuse Resilience* is a living node of the Polaris Protocol.  
+*🕷️ Misuse Resilience* is a living node of the Polaris Protocol.  
 It articulates the writing and structural strategies that make Polaris resistant to hostile distortion without engaging in defensive posturing.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-06_
+_Last updated: 2025-12-12_
