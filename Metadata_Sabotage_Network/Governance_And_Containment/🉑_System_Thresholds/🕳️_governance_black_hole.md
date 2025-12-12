@@ -1,6 +1,6 @@
 # 🕳️ Governance Black Hole  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
-*How responsibility for civic surveillance slips between regulators until no one is actually in charge.*
+**First created:** 2025-11-06 | **Last updated:** 2025-12-12  
+*How responsibility for civic surveillance slips between regulators until no one is actually in charge.*  
 
 ---
 
@@ -20,7 +20,7 @@ This node maps that abdication chain.
 ```mermaid
 flowchart TB
     U[Real-world activity<br>Volunteer protest surveillance,<br>evidence gathering, referrals] --> CC[Charity Commission<br>'Are the objects charitable?<br>Are accounts filed?']
-    CC -->|Operational ethics 'not our remit'| ICO[Information Commissioner (ICO)<br>'Is data handled lawfully?']
+    CC -->|Operational ethics 'not our remit'| ICO[Information Commissioner ICO<br>'Is data handled lawfully?']
     ICO -->|Purpose, ideology 'not our remit'| POL[Police / CPS<br>'Is the evidence admissible<br>for criminal or public-order law?']
     POL -->|Volunteer risk, context 'not our remit'| HS[Health & Safety / HSE<br>'Is there a formal workplace<br>with employees?']
     HS -->|Volunteers in grey zone| EC[Electoral / Foreign Influence Oversight<br>'Is this party campaigning<br>or registered lobbying?']
@@ -118,10 +118,6 @@ Even under the most generous interpretation of intent, the combination of **surv
 
 ⚫️ ⚖️ 🧠 🛰️  
 
-- [⚖️ Triangle of Accountability Gaps](./⚖️_triangle_of_accountability_gaps.md) — legal architecture that enables the black hole  
-- [🧠 Psychology of Volunteer Surveillance](./🧠_psychology_of_volunteer_surveillance.md) — how certain personalities are recruited and reinforced by these systems  
-- [🎓 Safeguarding as Surveillance](./🎓_safeguarding_as_surveillance.md) — parallel patterns in universities and welfare  
-
 ---
 
 ## ✨ Stardust  
@@ -135,6 +131,11 @@ governance black hole, duty of care, volunteer risk, charity regulation, surveil
 *Governance Black Hole* is a diagnostic lens within the Polaris Protocol.  
 It names the space where multiple regulators assume “someone else” is watching, leaving volunteers and targeted individuals to carry the risks of quasi-policing done under charitable cover.  
 
+- [⚖️ Triangle of Accountability Gaps](./⚖️_triangle_of_accountability_gaps.md) — legal architecture that enables the black hole  
+- [🧠 Psychology of Volunteer Surveillance](./🧠_psychology_of_volunteer_surveillance.md) — how certain personalities are recruited and reinforced by these systems  
+- [🎓 Safeguarding as Surveillance](./🎓_safeguarding_as_surveillance.md) — parallel patterns in universities and welfare  
+
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-12_
