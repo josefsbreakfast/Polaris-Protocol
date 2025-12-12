@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:46:33 UTC_
+_Generated on 2025-12-12 15:53:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -630,6 +630,8 @@ _Generated on 2025-12-12 15:46:33 UTC_
         - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
         - [`🪶_folk_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪶_folk_accountability.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
+    - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/)
+      - [`🛑_rabbinic_silence_as_theological_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🗝️_Politics_Memory_Work/🛑_rabbinic_silence_as_theological_collapse.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🍿_Historical_Democratic_Actions/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/)
         - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
@@ -3152,7 +3154,6 @@ _Generated on 2025-12-12 15:46:33 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛑_rabbinic_silence_as_theological_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🛑_rabbinic_silence_as_theological_collapse.md)
     - [`🛠️_fixing_the_uk_algorithmic_safety_stack.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_fixing_the_uk_algorithmic_safety_stack.md)
     - [`🛠️_frankenstack_failure_modes_public_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_frankenstack_failure_modes_public_systems.md)
     - [`🛠️_how_neutral_people_enable_authoritarian_tech.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_how_neutral_people_enable_authoritarian_tech.md)
