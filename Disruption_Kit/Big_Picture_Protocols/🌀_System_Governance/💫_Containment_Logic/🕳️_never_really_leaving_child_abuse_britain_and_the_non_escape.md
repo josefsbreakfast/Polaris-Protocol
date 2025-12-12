@@ -1,6 +1,6 @@
 # 🕳️ Never Really Leaving — Child Abuse, Britain, and the Non-Escape  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*“He’s in prison. I’m 35. I still haven’t escaped.”*
+**First created:** 2025-11-08 | **Last updated:** 2025-12-12  
+*“He’s in prison. I’m 35. I still haven’t escaped.”*  
 
 ---
 
@@ -66,21 +66,19 @@ Structural: policy, data, and narrative choices reproduce containment long after
 
 ## ⚖️ Not a Plot, Still an Injustice  
 No mastermind — just cumulative cowardice and convenience.  
-Institutions hurt survivors by preserving metrics and reputations instead of truth.
-
----
-
-## 🧬 How This Connects to Data Nodes  
-- [🧮 PIPS–YELLIS Data Ecosystem — From Baseline to Board Narrative](../Education_Data/🧮_pips_yellis_data_ecosystem.md)  
-- [🧠 Extraction Loop — Data vs Story](../Extraction_Reclamation/🧠_extraction_loop_data_vs_story.md)  
-- [🧩 Counter-Extraction Loop — Reclaiming Authorship](../Extraction_Reclamation/🧩_counter_extraction_loop_reclaiming_authorship.md)  
-
-High baseline, high creativity, high adversity — institutions that kept the numbers but refused the context.
+Institutions hurt survivors by preserving metrics and reputations instead of truth.  
 
 ---
 
 ## 🌌 Constellations  
 Anchors: 🧠 Survivor Voice Fidelity · 🐦‍🔥 Trauma Psychology & Medical Misuse · 🕯 Exorcism & Historical Reckoning · 🧮 Data Sovereignty & Misfit Metrics  
+
+🧬 How This Connects to Data Nodes  
+- [🧮 PIPS–YELLIS Data Ecosystem — From Baseline to Board Narrative](../Education_Data/🧮_pips_yellis_data_ecosystem.md)  
+- [🧠 Extraction Loop — Data vs Story](../Extraction_Reclamation/🧠_extraction_loop_data_vs_story.md)  
+- [🧩 Counter-Extraction Loop — Reclaiming Authorship](../Extraction_Reclamation/🧩_counter_extraction_loop_reclaiming_authorship.md)  
+
+High baseline, high creativity, high adversity — institutions that kept the numbers but refused the context.
 
 ---
 
@@ -90,9 +88,9 @@ child abuse, britain, non-escape, institutional denial, survivor stigma, pruning
 ---
 
 ## 🏮 Footer  
-*Never Really Leaving — Child Abuse, Britain, and the Non-Escape* is a witness node of the Polaris Protocol.  
+*🕳️ Never Really Leaving — Child Abuse, Britain, and the Non-Escape* is a witness node of the Polaris Protocol.  
 It records how a survivor can do everything “right” and still find that abuse, denial, and policy choices braid together into a life-long containment field.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-12_
