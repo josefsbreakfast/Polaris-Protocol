@@ -1,16 +1,22 @@
 # 🗺️ Vibe Map of Post-War Europe
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13  
-*A forensic-cartoonish emotional map of Europe’s postwar vibe architectures.*
+**First created:** 2025-11-13 | **Last updated:** 2025-12-12  
+*A forensic-cartoonish emotional map of Europe’s postwar vibe architectures.*  
+
+---
 
 ## 🛰️ Orientation
 Europe is divided less by borders than by vibes.  
-This node maps the continental emotional OS.
+This node maps the continental emotional OS.  
+
+---
 
 ## ✨ Key Features
 - National vibe archetypes  
 - Trauma vs swagger states  
 - Emotional clusters  
 - Continental mood-logic
+
+---
 
 ## 🧿 Analysis / Content
 Germany → trauma  
@@ -23,14 +29,20 @@ Russia → bunker dread
 Nordics → chill competence  
 Balkans → trauma + melancholy ballads  
 
+---
+
 ## 🌌 Constellations
-🗺️ 🎭 🧠 🪩
+🗺️ 🎭 🧠 🪩  
+
+---
 
 ## ✨ Stardust
-europe, vibes, emotional map, trauma, national identity
+europe, vibes, emotional map, trauma, national identity  
+
+---
 
 ## 🏮 Footer
 *🗺️ Vibe Map of Post-War Europe* is a living node of the **Polaris Protocol**.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-13_
+_Last updated: 2025-12-12_
