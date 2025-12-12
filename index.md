@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:06:05 UTC_
+_Generated on 2025-12-12 16:11:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3162,7 +3162,6 @@ _Generated on 2025-12-12 16:06:05 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛡️_pentest_cup.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_pentest_cup.md)
     - [`🛡️_seven_layers_of_safeguard_breakdown.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_seven_layers_of_safeguard_breakdown.md)
     - [`🛡️_why_fascism_fears_softness.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_why_fascism_fears_softness.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
@@ -3753,6 +3752,9 @@ _Generated on 2025-12-12 16:06:05 UTC_
     - [`🧿_private_eye_bounces_back.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_private_eye_bounces_back.md)
     - [`🧿_sassi_as_counter_surveillance_accountability.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_sassi_as_counter_surveillance_accountability.md)
   - [**🐝_All_In_Commons/**](🦆_Digital_Disruption/🐝_All_In_Commons/)
+    - [**💞_Hacking_Hope/**](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/)
+      - [**🏆_Civil_Sec/**](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/)
+        - [`🛡️_pentest_cup.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🛡️_pentest_cup.md)
     - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
     - [`🌱_commons_charter_generator.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌱_commons_charter_generator.md)
     - [`🌿_regenerative_admin_toolkit.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌿_regenerative_admin_toolkit.md)
