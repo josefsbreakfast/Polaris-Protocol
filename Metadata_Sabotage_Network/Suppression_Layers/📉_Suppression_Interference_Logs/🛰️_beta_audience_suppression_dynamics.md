@@ -1,6 +1,6 @@
 # 🛰️ Beta Audience Suppression Dynamics  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How policy ecosystems quietly kill a dangerous book before the public sees it.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-12  
+*How policy ecosystems quietly kill a dangerous book before the public sees it.*  
 
 ---
 
@@ -77,4 +77,4 @@ beta audience, suppression, whisper networks, policy publishing, cooling, narrat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-12-12_
