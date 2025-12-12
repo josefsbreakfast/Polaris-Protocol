@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:38:10 UTC_
+_Generated on 2025-12-12 16:40:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3178,7 +3178,6 @@ _Generated on 2025-12-12 16:38:10 UTC_
     - [`🛰️_disappearing_public_surgery.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_disappearing_public_surgery.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
-    - [`🛰️_foi_sar_dual_audit_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_metadata_chain_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_metadata_chain_reconstruction.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
@@ -3844,6 +3843,7 @@ _Generated on 2025-12-12 16:38:10 UTC_
       - [`🪶_descent_map_academic_surveillance_drift.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_descent_map_academic_surveillance_drift.md)
       - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
+    - [`🛰️_foi_sar_dual_audit_protocol.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
     - [`🧬_signal_anomaly_classification.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧬_signal_anomaly_classification.md)
     - [`🧭_field_ethics_compass.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧭_field_ethics_compass.md)
