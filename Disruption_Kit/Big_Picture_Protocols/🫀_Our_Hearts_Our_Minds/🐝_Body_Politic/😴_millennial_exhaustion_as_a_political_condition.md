@@ -1,6 +1,6 @@
 # 😴 Millennial Exhaustion as a Political Condition  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*How a generation raised under permanent crisis became too tired to revolt, too traumatised to trust stability, and permanently convinced every building should be housing.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-12  
+*How a generation raised under permanent crisis became too tired to revolt, too traumatised to trust stability, and permanently convinced every building should be housing.*  
 
 ---
 
@@ -188,14 +188,15 @@ It is **survival**.
 millennial exhaustion, generational trauma, housing crisis, political fatigue, humour coping, crisis timeline, mobilisation barriers
 
 ## 🏮 Footer  
-*Millennial Exhaustion as a Political Condition* is a living node of the Polaris Protocol.  
+*😴 Millennial Exhaustion as a Political Condition* is a living node of the Polaris Protocol.  
 It contributes to the **Big Picture Protocols** cluster by tracing generational emotional infrastructure and its political consequences.
 
-> 📡 Cross-references:  
-> - [⚖️ Transitional Change vs Rapid Revolutionary Shock](./⚖️_transitional_change_vs_rapid_revolutionary_shock.md)  
-> - [🧨 Accidental Soft-Infiltration of Early Labour Movements](./🧨_accidental_soft_infiltration_of_early_labour_movements.md)  
-> - [💍 Two-Party System as an Old-Fashioned Marriage](./💍_two_party_system_as_an_old_fashioned_marriage.md)
+> 📡 Cross-references:
+> 
+> - [⚖️ Transitional Change vs Rapid Revolutionary Shock]  
+> - [🧨 Accidental Soft-Infiltration of Early Labour Movements]  
+> - [💍 Two-Party System as an Old-Fashioned Marriage]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-12_
