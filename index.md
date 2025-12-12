@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:30:05 UTC_
+_Generated on 2025-12-12 15:31:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1131,6 +1131,7 @@ _Generated on 2025-12-12 15:30:05 UTC_
         - [`🕍_jewish_trauma_literacy_for_non_jewish_audiences.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)
         - [`🕍_shared_language_for_shared_warnings.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕍_shared_language_for_shared_warnings.md)
         - [`🕸️_networking_as_a_tool_of_novelty.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕸️_networking_as_a_tool_of_novelty.md)
+        - [`😴_witness_fatigue.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/😴_witness_fatigue.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
@@ -3136,7 +3137,6 @@ _Generated on 2025-12-12 15:30:05 UTC_
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
-    - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
     - [`😶‍🌫_institutional_freeze_fog_correction_cycle.md`](Polaris_Nest/Git_Intake_Drawer/😶‍🌫_institutional_freeze_fog_correction_cycle.md)
     - [`🚀_weaponising_empathy.md`](Polaris_Nest/Git_Intake_Drawer/🚀_weaponising_empathy.md)
     - [`🚑_extraction_quickchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🚑_extraction_quickchecklist.md)
