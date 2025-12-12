@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:32:09 UTC_
+_Generated on 2025-12-12 23:33:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -651,6 +651,7 @@ _Generated on 2025-12-12 23:32:09 UTC_
         - [`🪬_authoritarianism_beyond_left_right.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
         - [`🪬_christian_nationalism_as_fascist_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
         - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
+        - [`🪬_racialised_threat_construction.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_racialised_threat_construction.md)
         - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
         - [`🪶_folk_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪶_folk_accountability.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
