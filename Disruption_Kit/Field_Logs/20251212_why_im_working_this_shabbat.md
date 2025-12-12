@@ -25,3 +25,17 @@ briefly:
 - multiple app errors when searching terms around (essentially) the behaviour of guilty conscience.  
 
 ---
+
+if i find out that the data twin was a whistleblower, and that's why there's a desperate need to frame this as romance or sexual impropriety on his part, and that was SEVERAL YEARS AGO, i am going to categorically lose my shit.  
+
+but in the way that i specifically lose my shit.  
+
+which looks like mounting a phd and 2 million words to make my point that sexual violence has no place in a democatic society.  
+
+it's never personal; it's always about prosocial governance.  
+
+stand down; get out of my way.  
+
+we're here to have a more just and equal society.  
+
+---
