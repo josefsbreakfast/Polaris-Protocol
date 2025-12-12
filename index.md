@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:38:33 UTC_
+_Generated on 2025-12-12 18:40:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -261,6 +261,7 @@ _Generated on 2025-12-12 18:38:33 UTC_
         - [`🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🛰️_disappearing_public_surgery.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_disappearing_public_surgery.md)
+        - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_predictive_logic_sans_predictive_infrastructure.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
         - [`🦕_post_modern_fellow_travellers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
@@ -3182,7 +3183,6 @@ _Generated on 2025-12-12 18:38:33 UTC_
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
-    - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_predictive_logic_sans_predictive_infrastructure.md)
     - [`🛰️_seperation_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_seperation_systems.md)
     - [`🛰️_threat_escalation_pipeline_racialised_gender.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_threat_escalation_pipeline_racialised_gender.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
