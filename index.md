@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:34:53 UTC_
+_Generated on 2025-12-12 03:36:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -787,6 +787,7 @@ _Generated on 2025-12-12 03:34:53 UTC_
         - [`🔮_the_sensible_adult_archetype.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔮_the_sensible_adult_archetype.md)
         - [`🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md)
         - [`🕯️_crash_sites_as_temporal_loops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕯️_crash_sites_as_temporal_loops.md)
+        - [`🕰️_political_time_orientations.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🕰️_political_time_orientations.md)
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
@@ -3068,7 +3069,6 @@ _Generated on 2025-12-12 03:34:53 UTC_
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕰️_political_time_orientations_utopia_present_journey.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_political_time_orientations_utopia_present_journey.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕰️_why_exposure_persists_delayed_extraction.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_why_exposure_persists_delayed_extraction.md)
     - [`🕳_audit_glitchpoints_in_racialised_gendered_cases.md`](Polaris_Nest/Git_Intake_Drawer/🕳_audit_glitchpoints_in_racialised_gendered_cases.md)
