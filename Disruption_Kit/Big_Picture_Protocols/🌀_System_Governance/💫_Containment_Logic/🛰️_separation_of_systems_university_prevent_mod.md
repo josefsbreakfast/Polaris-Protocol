@@ -1,10 +1,10 @@
-# 🛡 Separation-of-Systems: University ↔ Prevent ↔ MoD  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-19  
-*Why UK institutional architectures cannot be bridged by a single actor, and how harm arises from system edges rather than cross-system access.*
+# 🛰️ Separation-of-Systems: University ↔ Prevent ↔ MoD  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-12  
+*Why UK institutional architectures cannot be bridged by a single actor, and how harm arises from system edges rather than cross-system access.*  
 
 ---
 
-## Overview
+## 🛰️ Overview
 
 Public imagination often treats state-linked institutions as if they were interoperable.  
 In reality, UK governance systems are **deeply compartmentalised**.
@@ -15,7 +15,7 @@ Even when a university partners with:
 - MoD (research funding, DSTL collaboration)  
 - security or safeguarding frameworks  
 
-…the systems involved remain:
+...the systems involved remain:
 
 - legally separate  
 - technically isolated  
@@ -213,10 +213,11 @@ prevent duty, mod research, university governance, system edges, compartmentalis
 
 ## 🏮 Footer  
 
-*Separation-of-Systems: University ↔ Prevent ↔ MoD* is part of the **Polaris Protocol’s** governance-diagnostics constellation.  
+*🛰️ Separation-of-Systems: University ↔ Prevent ↔ MoD* is part of the **Polaris Protocol’s** governance-diagnostics constellation.  
 It draws from *🧠 Big_Picture_Protocols* and contributes to the boundary-mapping lineage within *🛰️ Metadata_Sabotage_Network*.  
 
 It clarifies that cross-system harm arises from **pattern entanglement**, not **access entanglement**, reinforcing the Polaris survivor-first analysis.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-19_
+
+_Last updated: 2025-12-12_
