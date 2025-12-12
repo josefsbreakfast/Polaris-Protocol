@@ -1,5 +1,5 @@
 # 🚑 Extraction Quick Checklist
-**First created:** 2025-10-13  |  **Last updated:** 2025-10-13  
+**First created:** 2025-10-13  |  **Last updated:** 2025-12-12  
 *Step‑by‑step actions for humane, forensically sound removal of a live probe or vulnerable witness.*
 
 ---
@@ -33,4 +33,4 @@
 ## ✨ Stardust  
 forensic snapshot, safe housing, chain‑of‑custody, accompaniment, compensation  
 
-*Last updated 2025-10-13 | Protect the person, then the picture.*
+*Last updated 2025-12-12 | Protect the person, then the picture.*
