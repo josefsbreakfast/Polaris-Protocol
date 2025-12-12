@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 18:33:40 UTC_
+_Generated on 2025-12-12 18:34:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2497,6 +2497,8 @@ _Generated on 2025-12-12 18:33:40 UTC_
     - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [**🦆_Digital_Disruption/**](Disruption_Kit/🦆_Digital_Disruption/)
+    - [**🛰️_OSINT_Field_Operations/**](Disruption_Kit/🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
+      - [`🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md`](Disruption_Kit/🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md)
     - [**🪖_Home_Front_2.0/**](Disruption_Kit/🦆_Digital_Disruption/🪖_Home_Front_2.0/)
       - [`🪢_re_embodied_dialogue_and_civic_presence.md`](Disruption_Kit/🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)
   - [`README.md`](Disruption_Kit/README.md)
@@ -3179,7 +3181,6 @@ _Generated on 2025-12-12 18:33:40 UTC_
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
-    - [`🛰️_metadata_chain_reconstruction.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_metadata_chain_reconstruction.md)
     - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_missing_speech_the_value_based_democracy_pattern.md)
     - [`🛰️_naming_the_unnamed_data_sovereignty_statehood.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_naming_the_unnamed_data_sovereignty_statehood.md)
     - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_predictive_logic_sans_predictive_infrastructure.md)
