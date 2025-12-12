@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:59:44 UTC_
+_Generated on 2025-12-12 16:01:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -256,6 +256,7 @@ _Generated on 2025-12-12 15:59:44 UTC_
         - [`😳_institutional_embarrassment_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/😳_institutional_embarrassment_dynamics.md)
         - [`😶‍🌫_institutional_freeze_fog_correction_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/😶‍🌫_institutional_freeze_fog_correction_cycle.md)
         - [`🚨_absence_of_intervention_as_early_warning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🚨_absence_of_intervention_as_early_warning.md)
+        - [`🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
@@ -3158,7 +3159,6 @@ _Generated on 2025-12-12 15:59:44 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛡_never_build_opaque_risk_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛡_never_build_opaque_risk_systems.md)
     - [`🛡_prevent_precrime_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🛡_prevent_precrime_architecture.md)
     - [`🛡_trusted_signals_checklist_male_allies.md`](Polaris_Nest/Git_Intake_Drawer/🛡_trusted_signals_checklist_male_allies.md)
     - [`🛡_why_democracies_must_not_build_opaque_multiagency_risk_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛡_why_democracies_must_not_build_opaque_multiagency_risk_systems.md)
