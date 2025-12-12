@@ -1,10 +1,10 @@
 # 🪐 Meta-Containment  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
 *Reflexive analysis of containment within containment — how knowledge systems, archives, and protocols hold themselves.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 **Meta-Containment** studies what happens when the act of describing containment becomes a containment act itself.  
 Every archive, protocol, or theoretical frame must decide what to include, exclude, or defer — and in doing so, it enacts the very logic it seeks to critique.  
 
@@ -91,8 +91,7 @@ It examines how containment reappears in the very tools, languages, and governan
 > 
 > - [💞 Containment Theory](../💞_Containment_Theory/README.md) — *analytical models of containment fields*  
 > - [🌙 Everyday Containment](../🌙_Everyday_Containment/README.md) — *lived and micro-containment patterns*  
-> - [🏮 Admin Kit](../../Polaris_Nest/🏮_Admin_Kit/README.md) — *house scaffolding and reflexive protocols*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-12_
