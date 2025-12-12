@@ -175,7 +175,7 @@ It explores how refusal destabilises the predictive architectures of governance 
 > - [🩸 Bodily Risk as Political Speech](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md)  
 > - [🧨 Exceptional Sovereignty in Pretrial Detention](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)  
 > - [📡 The Governance of Bodies That Refuse](../../🌀_System_Governance/⚖️_Legal_State_Governance/📡_the_governance_of_bodies_that_refuse.md)  
-> - [🪆 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
+> - [🔥 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
