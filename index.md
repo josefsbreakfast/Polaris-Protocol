@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 06:03:25 UTC_
+_Generated on 2025-12-12 06:04:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -46,6 +46,7 @@ _Generated on 2025-12-12 06:03:25 UTC_
         - [`🐧_budget_efficiency_and_community_outreach.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🐧_budget_efficiency_and_community_outreach.md)
         - [`🕊️_dickin_medal_holders.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_dickin_medal_holders.md)
         - [`🕊️_gustav_and_the_network_of_impossible_messengers.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)
+        - [`🗡️_why_trident_is_lowkey_kraken_insurance.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🗡️_why_trident_is_lowkey_kraken_insurance.md)
         - [`🛩️_the_april_fools_department_of_defence.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🛩️_the_april_fools_department_of_defence.md)
         - [`🦑_bring_back_pressganging.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_bring_back_pressganging.md)
         - [`🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)
@@ -3122,7 +3123,6 @@ _Generated on 2025-12-12 06:03:25 UTC_
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
-    - [`🗡️_why_trident_is_lowkey_kraken_insurance.md`](Polaris_Nest/Git_Intake_Drawer/🗡️_why_trident_is_lowkey_kraken_insurance.md)
     - [`🗣️_data_majority_as_narrative_voice_voting_by_volume.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_data_majority_as_narrative_voice_voting_by_volume.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗣️_how_to_detect_voice_dataset_use.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_how_to_detect_voice_dataset_use.md)
