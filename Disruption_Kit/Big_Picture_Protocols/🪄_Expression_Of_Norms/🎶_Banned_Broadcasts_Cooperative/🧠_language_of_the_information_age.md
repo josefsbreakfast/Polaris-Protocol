@@ -68,7 +68,7 @@ computing language, technical mystique, abstraction, security literacy, informat
 > 📡 Cross-references:
 >
 > * [🧠 Big Picture Protocols](../../Big_Picture_Protocols/README.md) — *systems and governance analysis*
-> * [🐝 All In Commons](../../(../../🦆_Digital_Disruption/🐝_All_In_Commons/README.md) — *civic repair and shared infrastructure*
+> * [🐝 All In Commons](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/README.md) — *civic repair and shared infrastructure*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
