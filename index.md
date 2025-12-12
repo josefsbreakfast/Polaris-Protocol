@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:58:17 UTC_
+_Generated on 2025-12-12 06:01:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1150,6 +1150,7 @@ _Generated on 2025-12-12 05:58:17 UTC_
         - [`🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md)
         - [`🔮_archetype_of_the_uncooperative_woman.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔮_archetype_of_the_uncooperative_woman.md)
         - [`🕯️_the_ethics_of_refusal_in_austerity_states.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md)
+        - [`🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
         - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
         - [`🦆_she_weighs_the_same_as_a_duck.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md)
         - [`🦴_anatomy_of_male_emotional_starvation.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦴_anatomy_of_male_emotional_starvation.md)
@@ -3119,7 +3120,6 @@ _Generated on 2025-12-12 05:58:17 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🗑️_orthopaedic_anarchism.md`](Polaris_Nest/Git_Intake_Drawer/🗑️_orthopaedic_anarchism.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗡️_why_trident_is_lowkey_kraken_insurance.md`](Polaris_Nest/Git_Intake_Drawer/🗡️_why_trident_is_lowkey_kraken_insurance.md)
     - [`🗣️_data_majority_as_narrative_voice_voting_by_volume.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_data_majority_as_narrative_voice_voting_by_volume.md)
