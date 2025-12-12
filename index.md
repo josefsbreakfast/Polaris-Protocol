@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:26:40 UTC_
+_Generated on 2025-12-12 15:28:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -253,6 +253,7 @@ _Generated on 2025-12-12 15:26:40 UTC_
         - [`🕳️_the_grievance_sinkhole.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕳️_the_grievance_sinkhole.md)
         - [`🕸️_macro_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕸️_macro_containment_architecture.md)
         - [`🖍️_the_colouring_book_experiment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🖍️_the_colouring_book_experiment.md)
+        - [`😳_institutional_embarrassment_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/😳_institutional_embarrassment_dynamics.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
@@ -3134,7 +3135,6 @@ _Generated on 2025-12-12 15:26:40 UTC_
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
-    - [`😳_institutional_embarrassment_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/😳_institutional_embarrassment_dynamics.md)
     - [`😴_millennial_exhaustion_as_a_political_condition.md`](Polaris_Nest/Git_Intake_Drawer/😴_millennial_exhaustion_as_a_political_condition.md)
     - [`😴_witness_fatigue.md`](Polaris_Nest/Git_Intake_Drawer/😴_witness_fatigue.md)
     - [`😶‍🌫_institutional_freeze_fog_correction_cycle.md`](Polaris_Nest/Git_Intake_Drawer/😶‍🌫_institutional_freeze_fog_correction_cycle.md)
