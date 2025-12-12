@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 22:59:20 UTC_
+_Generated on 2025-12-12 23:00:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -754,6 +754,7 @@ _Generated on 2025-12-12 22:59:20 UTC_
         - [`🏛️_procedural_gatekeeping.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_procedural_gatekeeping.md)
         - [`👑_crown_immunity_and_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/👑_crown_immunity_and_integrity.md)
         - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_identity_documents_act_2010.md)
+        - [`📜_lawfare_slapps_and_chilling_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_lawfare_slapps_and_chilling_effects.md)
         - [`📜_uk_data_bill_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_data_bill_2025.md)
         - [`📜_uk_house_of_lords_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_uk_house_of_lords_2025.md)
         - [`🔍_what_is_the_act_ctsa2015.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🔍_what_is_the_act_ctsa2015.md)
