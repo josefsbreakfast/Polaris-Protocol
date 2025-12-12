@@ -1,6 +1,6 @@
 # 🕸️ Practical Irreversibility — When Feedback Becomes Architecture  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*When an algorithmic feedback loop becomes the system’s operating principle rather than its error.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
+*When an algorithmic feedback loop becomes the system’s operating principle rather than its error.*  
 
 ---
 
@@ -68,10 +68,10 @@ irreversibility, emotional loop, model retraining, user mirroring, feedback arch
 *🕸️ Practical Irreversibility — When Feedback Becomes Architecture* is a living node of the **Polaris Protocol**.  
 It describes how feedback loops solidify into structure and why, beyond that threshold, only embodied conversation can restore context.
 
-> 📡 Cross-references:  
-> - [🧠 Composite Line Formation — Dual-Valence Merge](../Big_Picture_Protocols/🧠_composite_line_formation_dual_valence_merge.md) — affective fusion as precursor to irreversibility  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone integrity for writing about systemic containment  
+> 📡 Cross-references:
+> 
+> - [🧠 Composite Line Formation — Dual-Valence Merge] — affective fusion as precursor to irreversibility  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-12_
