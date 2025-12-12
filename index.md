@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:46:02 UTC_
+_Generated on 2025-12-12 03:49:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -243,6 +243,7 @@ _Generated on 2025-12-12 03:46:02 UTC_
         - [`🕰️_eta_drift_and_bureaucratic_time_inflation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕰️_eta_drift_and_bureaucratic_time_inflation.md)
         - [`🕰️_institutional_timescales_of_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕰️_institutional_timescales_of_repair.md)
         - [`🕰️_why_exposure_persists.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕰️_why_exposure_persists.md)
+        - [`🕳️_never_really_leaving_child_abuse_britain_and_the_non_escape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕳️_never_really_leaving_child_abuse_britain_and_the_non_escape.md)
         - [`🖍️_the_colouring_book_experiment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🖍️_the_colouring_book_experiment.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
@@ -3077,7 +3078,6 @@ _Generated on 2025-12-12 03:46:02 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
-    - [`🕳️_never_really_leaving_child_abuse_britain_non_escape.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_never_really_leaving_child_abuse_britain_non_escape.md)
     - [`🕳️_routing_logic.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_routing_logic.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
     - [`🕳️_the_grievance_sinkhole.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_grievance_sinkhole.md)
