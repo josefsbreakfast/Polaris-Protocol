@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:52:37 UTC_
+_Generated on 2025-12-12 03:54:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2779,6 +2779,7 @@ _Generated on 2025-12-12 03:52:37 UTC_
       - [`🕎_regional_business_sensitivity_matrix_doc_r22_a.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕎_regional_business_sensitivity_matrix_doc_r22_a.md)
       - [`🕯_the_audit_log_does_not_sleep.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕯_the_audit_log_does_not_sleep.md)
       - [`🕳️_absence_as_signal.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_absence_as_signal.md)
+      - [`🕳️_the_shape_of_missing_historical_nodes.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_the_shape_of_missing_historical_nodes.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md)
       - [`🧩_human_computation_games_the_puzzle_economy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)
@@ -3081,7 +3082,6 @@ _Generated on 2025-12-12 03:52:37 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕳️_the_shape_of_missing_historical_nodes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_the_shape_of_missing_historical_nodes.md)
     - [`🕳️_whistlebridge_correlation_notes.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_whistlebridge_correlation_notes.md)
     - [`🕷️_misuse_resilience.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_misuse_resilience.md)
     - [`🕷️_prevent_as_soft_coup_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🕷️_prevent_as_soft_coup_infrastructure.md)
