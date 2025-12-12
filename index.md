@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:43:22 UTC_
+_Generated on 2025-12-12 23:45:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2618,6 +2618,7 @@ _Generated on 2025-12-12 23:43:22 UTC_
       - [`transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/transatlantic_protection_rackets.md)
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
+      - [`🈺_prevent_as_structural_marginalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🈺_prevent_as_structural_marginalisation.md)
       - [`🌐_prevent_as_a_democracy_suppression_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_prevent_as_a_democracy_suppression_engine.md)
       - [`🌑_prevent_as_britains_racialised_surveillance_system.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌑_prevent_as_britains_racialised_surveillance_system.md)
       - [`🌫_the_safeguarding_mirage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌫_the_safeguarding_mirage.md)
