@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:38:56 UTC_
+_Generated on 2025-12-12 23:40:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -788,6 +788,7 @@ _Generated on 2025-12-12 23:38:56 UTC_
         - [`🧩_risk_industries_and_custody_failure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md)
         - [`🧩_structural_lethality_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_structural_lethality_in_custody.md)
         - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
+        - [`🧵_policy_born_in_fear.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧵_policy_born_in_fear.md)
         - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/README.md)
