@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:11:45 UTC_
+_Generated on 2025-12-12 16:13:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1041,7 +1041,6 @@ _Generated on 2025-12-12 16:11:45 UTC_
         - [`🎶_good_taste_vs_surveillance_taste.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎶_good_taste_vs_surveillance_taste.md)
         - [`🏗️_2010s_authoritarian_adjacent_build.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏗️_2010s_authoritarian_adjacent_build.md)
         - [`🏚️_authoritarian_drift_in_behavioural_research.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏚️_authoritarian_drift_in_behavioural_research.md)
-        - [`🏟️_hackathon_league.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏟️_hackathon_league.md)
         - [`💀_necro_jargon_cult.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💀_necro_jargon_cult.md)
         - [`💞_ethics_of_nudging_vs_desire.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)
         - [`📜_ethics_as_language_trap.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/📜_ethics_as_language_trap.md)
@@ -3754,6 +3753,7 @@ _Generated on 2025-12-12 16:11:45 UTC_
   - [**🐝_All_In_Commons/**](🦆_Digital_Disruption/🐝_All_In_Commons/)
     - [**💞_Hacking_Hope/**](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/)
       - [**🏆_Civil_Sec/**](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/)
+        - [`🏟️_hackathon_league.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🏟️_hackathon_league.md)
         - [`🛡️_pentest_cup.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🛡️_pentest_cup.md)
     - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
     - [`🌱_commons_charter_generator.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌱_commons_charter_generator.md)
