@@ -1,5 +1,5 @@
 # 🕸️ Interlocking Influence Economy  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-12-12  
 *How corporate intelligence, arms technology, political PR, and behavioural science form a single market for influence.*  
 
 ---
@@ -67,14 +67,15 @@ nsogroup, cambridge analytica, black cube, defence contractors, risk advisory, b
 ---
 
 ## 🏮 Footer  
-*Interlocking Influence Economy* is a living node of the Polaris Protocol.  
+*🕸️ Interlocking Influence Economy* is a living node of the Polaris Protocol.  
 It connects discrete scandals into a systemic map of the modern persuasion industry — where intelligence, advertising, and state power meet in a single marketplace.  
 
-> 📡 Cross-references:  
-> - [⚖️ Citizen Recourse: Private Surveillance in the UK](./⚖️_citizen_recourse_private_surveillance_uk.md) — civic and legal responses  
-> - [🧩 Risk Industries and Custody Failure](../🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md) — privatised secrecy networks  
-> - [🧠 Swiss-Cheese Suicide Model in Custody](../🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md) — systemic opacity in confinement  
+> 📡 Cross-references:
+> 
+> - [⚖️ Citizen Recourse: Private Surveillance in the UK] — civic and legal responses  
+> - [🧩 Risk Industries and Custody Failure] — privatised secrecy networks  
+> - [🧠 Swiss-Cheese Suicide Model in Custody] — systemic opacity in confinement  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_  
+_Last updated: 2025-12-12_  
