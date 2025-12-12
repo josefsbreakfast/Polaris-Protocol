@@ -1,6 +1,6 @@
 # 🚨 Risk Logic Creep  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent’s internal logic expands year by year without democratic approval, statutory reform, or public awareness—slowly widening its reach, deepening surveillance, and increasing racialised harm.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-12  
+*How Prevent’s internal logic expands year by year without democratic approval, statutory reform, or public awareness—slowly widening its reach, deepening surveillance, and increasing racialised harm.*  
 
 ---
 
@@ -205,4 +205,4 @@ It explains how Prevent expands through internal logic rather than law, widening
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-12_
