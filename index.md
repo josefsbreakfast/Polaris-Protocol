@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 22:53:52 UTC_
+_Generated on 2025-12-12 22:56:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -323,6 +323,7 @@ _Generated on 2025-12-12 22:53:52 UTC_
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
         - [`💣_trident_as_modern_kraken_security_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💣_trident_as_modern_kraken_security_theatre.md)
         - [`💥_reputational_insurance_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💥_reputational_insurance_collapse.md)
+        - [`💼_narrative_capture_and_linguistic_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md)
         - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
         - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_over_recognition.md)
