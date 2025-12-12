@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 16:14:02 UTC_
+_Generated on 2025-12-12 16:18:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3755,6 +3755,7 @@ _Generated on 2025-12-12 16:14:02 UTC_
         - [`🏟️_hackathon_league.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🏟️_hackathon_league.md)
         - [`📓_hackathon_playbook_companion.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/📓_hackathon_playbook_companion.md)
         - [`🛡️_pentest_cup.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🛡️_pentest_cup.md)
+      - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/README.md)
     - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
     - [`🌱_commons_charter_generator.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌱_commons_charter_generator.md)
     - [`🌿_regenerative_admin_toolkit.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌿_regenerative_admin_toolkit.md)
