@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:10:30 UTC_
+_Generated on 2025-12-12 04:11:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -14,6 +14,10 @@ _Generated on 2025-12-12 04:10:30 UTC_
   - [`core-plugins.json`](.obsidian/core-plugins.json)
   - [`graph.json`](.obsidian/graph.json)
   - [`workspace.json`](.obsidian/workspace.json)
+- [**ChatGPT said:  Metadata_Sabotage_Network/**](ChatGPT said:  Metadata_Sabotage_Network/)
+  - [**Governance_And_Containment/**](ChatGPT said:  Metadata_Sabotage_Network/Governance_And_Containment/)
+    - [**🈺_Governance_And_Prevent/**](ChatGPT said:  Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/)
+      - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](ChatGPT said:  Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
 - [**Containment_Studies/**](Containment_Studies/)
   - [**🌙_Everyday_Containment/**](Containment_Studies/🌙_Everyday_Containment/)
     - [`README.md`](Containment_Studies/🌙_Everyday_Containment/README.md)
@@ -3090,7 +3094,6 @@ _Generated on 2025-12-12 04:10:30 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
     - [`🕸️_interlocking_influence_economy.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_interlocking_influence_economy.md)
     - [`🕸️_macro_containment_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_macro_containment_architecture.md)
     - [`🕸️_practical_irreversibility_when_feedback_becomes_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md)
