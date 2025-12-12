@@ -1,5 +1,5 @@
 # 🕳️ How to Catch a Whistleblower  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-12-12  
 *An anatomy of how systems mistake courage for risk.*  
 
 ---
@@ -82,10 +82,10 @@ whistleblowing, surveillance, compliance, risk management, data scraping, narrat
 *How to Catch a Whistleblower* is a living node of the Polaris Protocol.  
 It maps the procedural machinery through which institutional surveillance converts ethical disclosure into reputational risk management, showing how language and data pipelines can suppress accountability.  
 
-> 📡 Cross-references:  
-> - [🦇 How Many Words to Fell an Industry](./🦇_how_many_words_to_fell_an_industry.md) — linguistic collapse and institutional decay  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and fidelity anchor  
+> 📡 Cross-references:
+> 
+> - [🦇 How Many Words to Fell an Industry] — linguistic collapse and institutional decay  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-12-12_
