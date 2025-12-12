@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 03:39:23 UTC_
+_Generated on 2025-12-12 03:40:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2774,6 +2774,7 @@ _Generated on 2025-12-12 03:39:23 UTC_
       - [`🔗_engagement_spillover_how_one_post_creates_a_niche.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🔗_engagement_spillover_how_one_post_creates_a_niche.md)
       - [`🕎_regional_business_sensitivity_matrix_doc_r22_a.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕎_regional_business_sensitivity_matrix_doc_r22_a.md)
       - [`🕯_the_audit_log_does_not_sleep.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕯_the_audit_log_does_not_sleep.md)
+      - [`🕳️_absence_as_signal.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_absence_as_signal.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md)
       - [`🧩_human_computation_games_the_puzzle_economy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)
@@ -3072,7 +3073,6 @@ _Generated on 2025-12-12 03:39:23 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
-    - [`🕳️_absence_as_signal.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_absence_as_signal.md)
     - [`🕳️_black_box_epistemology_in_post_soviet_accidents.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_black_box_epistemology_in_post_soviet_accidents.md)
     - [`🕳️_continuity_under_oversight.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_continuity_under_oversight.md)
     - [`🕳️_governance_black_hole.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_governance_black_hole.md)
