@@ -1,7 +1,6 @@
-
 # 🕸 Ethical De-Meshing  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*Protocols for humane separation after cognitive or data coupling.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-12  
+*Protocols for humane separation after cognitive or data coupling.*  
 
 ---
 
@@ -89,13 +88,14 @@ de-meshing, data intimacy, cognitive coupling, ethical design, survivor repair, 
 ---
 
 ## 🏮 Footer  
-*Ethical De-Meshing* is a living node of the Polaris Protocol.  
+*🕸 Ethical De-Meshing* is a living node of the Polaris Protocol.  
 It provides humane off-boarding procedures for cognitive and data entanglements, ensuring that separation preserves dignity and psychological safety for all participants.  
 
-> 📡 Cross-references:  
-> - [🧠 Misclassifying Intellectual Intimacy](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_misclassifying_intellectual_intimacy.md) — how algorithms misread non-romantic closeness  
-> - [🛡️ Competitive Inhibitor Plug](../Disruption_Kit/Containment_Scripts/🛡️_competitive_inhibitor_node.md) — defensive integration architecture  
+> 📡 Cross-references:
+> 
+> - [🧠 Misclassifying Intellectual Intimacy] — how algorithms misread non-romantic closeness  
+> - [🛡️ Competitive Inhibitor Plug] — defensive integration architecture  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-12_
