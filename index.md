@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 23:15:53 UTC_
+_Generated on 2025-12-12 23:18:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2515,9 +2515,6 @@ _Generated on 2025-12-12 23:15:53 UTC_
   - [**🔖_Tag_Pack/**](Disruption_Kit/🔖_Tag_Pack/)
     - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
-  - [**🦆_Digital_Disruption/**](Disruption_Kit/🦆_Digital_Disruption/)
-    - [**🪖_Home_Front_2.0/**](Disruption_Kit/🦆_Digital_Disruption/🪖_Home_Front_2.0/)
-      - [`🪢_re_embodied_dialogue_and_civic_presence.md`](Disruption_Kit/🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -3906,6 +3903,7 @@ _Generated on 2025-12-12 23:15:53 UTC_
     - [`🏡_domestic_infrastructure_as_care_system.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🏡_domestic_infrastructure_as_care_system.md)
     - [`📚_libraries_metrics_and_the_one_book_civic_hack.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/📚_libraries_metrics_and_the_one_book_civic_hack.md)
     - [`🪡_make_and_mend_republic.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪡_make_and_mend_republic.md)
+    - [`🪢_re_embodied_dialogue_and_civic_presence.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)
     - [`🪴_care_ecologies_field_manual.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪴_care_ecologies_field_manual.md)
     - [`🪶_quiet_resistance_primer.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪶_quiet_resistance_primer.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
