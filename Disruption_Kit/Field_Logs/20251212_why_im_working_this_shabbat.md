@@ -39,3 +39,7 @@ stand down; get out of my way.
 we're here to have a more just and equal society.  
 
 ---
+
+(proof that i will literally break anglophone internet before i allow another second of our daughters and our sisters to live in a world built to kneel before men. fuck. that.)  
+
+---
