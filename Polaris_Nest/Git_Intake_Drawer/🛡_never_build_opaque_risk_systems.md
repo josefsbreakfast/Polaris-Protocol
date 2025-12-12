@@ -1,6 +1,6 @@
 # 🛡 Why Democratic States Must Never Build Opaque Multi-Agency Risk Systems  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*Why opacity, multi-agency diffusion, and risk-based logics produce democratic collapse conditions when combined at scale.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-12  
+*Why opacity, multi-agency diffusion, and risk-based logics produce democratic collapse conditions when combined at scale.*  
 
 ---
 
@@ -207,15 +207,13 @@ Prevent • Channel • opacity • multi-agency • democratic oversight • pr
 
 ---
 
-## 🪐 Footer  
-*🏮 Why Democratic States Must Never Build Opaque Multi-Agency Risk Systems* is a constitutional-analysis node of the Polaris Protocol.  
+## 🏮 Footer  
+*🛡 Why Democratic States Must Never Build Opaque Multi-Agency Risk Systems* is a constitutional-analysis node of the Polaris Protocol.  
 It articulates why opacity, institutional diffusion, and risk governance produce destabilising democratic consequences, even when built with benevolent intent.
 
 > 📡 **Cross-references:**  
-> - [🔮 House Style](./🔮_house_style.md)  
-> - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Where to Go](./🏮_where_to_go.md)
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-12_
