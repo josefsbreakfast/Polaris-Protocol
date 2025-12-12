@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 15:58:10 UTC_
+_Generated on 2025-12-12 15:59:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2423,6 +2423,7 @@ _Generated on 2025-12-12 15:58:10 UTC_
     - [`🗂️_risk_grounding_model_for_bureaucratic_harm.md`](Disruption_Kit/Survivor_Tools/🗂️_risk_grounding_model_for_bureaucratic_harm.md)
     - [`🗃️_ten_year_box.md`](Disruption_Kit/Survivor_Tools/🗃️_ten_year_box.md)
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
+    - [`🛠️_the_post_alt_right_maintenance_kit.md`](Disruption_Kit/Survivor_Tools/🛠️_the_post_alt_right_maintenance_kit.md)
     - [`🛰️_digital_counter_containment_protocol.md`](Disruption_Kit/Survivor_Tools/🛰️_digital_counter_containment_protocol.md)
     - [`🛰️_metadata_monitor_checklist.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_monitor_checklist.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
@@ -3157,7 +3158,6 @@ _Generated on 2025-12-12 15:58:10 UTC_
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🚪_doorbell_of_denial.md`](Polaris_Nest/Git_Intake_Drawer/🚪_doorbell_of_denial.md)
-    - [`🛠️_the_post_alt_right_maintenance_kit.md`](Polaris_Nest/Git_Intake_Drawer/🛠️_the_post_alt_right_maintenance_kit.md)
     - [`🛡_never_build_opaque_risk_systems.md`](Polaris_Nest/Git_Intake_Drawer/🛡_never_build_opaque_risk_systems.md)
     - [`🛡_prevent_precrime_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🛡_prevent_precrime_architecture.md)
     - [`🛡_trusted_signals_checklist_male_allies.md`](Polaris_Nest/Git_Intake_Drawer/🛡_trusted_signals_checklist_male_allies.md)
