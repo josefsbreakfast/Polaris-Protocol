@@ -1,6 +1,6 @@
 # 🕷️ Prevent as Soft-Coup Infrastructure  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-06  
-*How Prevent enables non-military regime manipulation through reputational fog, bureaucratic paralysis, and narrative engineering.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-12  
+*How Prevent enables non-military regime manipulation through reputational fog, bureaucratic paralysis, and narrative engineering.*  
 
 ---
 
@@ -164,4 +164,4 @@ It analyses how Prevent’s architecture enables non-military political manipula
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-06_
+_Last updated: 2025-12-12_
