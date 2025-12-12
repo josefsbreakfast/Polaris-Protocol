@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 06:51:55 UTC_
+_Generated on 2025-12-12 06:52:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -423,6 +423,7 @@ _Generated on 2025-12-12 06:51:55 UTC_
           - [`🍉_why_do_we_care_about_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
           - [`🍷_crypto_before_it_was_cool.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_crypto_before_it_was_cool.md)
           - [`🍷_next_year_in_jerusalem.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_next_year_in_jerusalem.md)
+          - [`🍷_trauma_is_not_halakha.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_trauma_is_not_halakha.md)
           - [`🍷_why_rabbinic_judaism_is_anticapitalist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_why_rabbinic_judaism_is_anticapitalist.md)
           - [`🏛️_welcome_to_western_imperialism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)
           - [`👑_projection_esther.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/👑_projection_esther.md)
