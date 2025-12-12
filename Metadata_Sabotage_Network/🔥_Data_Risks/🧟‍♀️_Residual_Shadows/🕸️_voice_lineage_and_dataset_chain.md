@@ -1,6 +1,6 @@
 # 🕸️ Voice Lineage and Dataset Chain  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
-*How a single voice recording can multiply across research, vendor, and commercial chains — and how to trace it back.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-12  
+*How a single voice recording can multiply across research, vendor, and commercial chains — and how to trace it back.*  
 
 ---
 
@@ -86,11 +86,12 @@ dataset chaining, model reuse, spin-outs, vendor networks, data lineage, right o
 *🕸️ Voice Lineage and Dataset Chain* is a living node of the Polaris Protocol.  
 It documents how voice data proliferates through research and vendor ecosystems, and provides survivor-led methods to reconstruct and contain its lineage.  
 
-> 📡 Cross-references:  
-> - [🗣️ How to Detect if Your Voice Has Been Used in a Dataset](../Survivor_Tools/🗣️_how_to_detect_voice_dataset_use.md) — forensic + legal detection methods  
-> - [🧬 Cloneproof](../Survivor_Tools/🧬_cloneproof.md) — countermeasures for likeness and behavioural cloning  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — contractual opacity analysis  
+> 📡 Cross-references:
+> 
+> - [🗣️ How to Detect if Your Voice Has Been Used in a Dataset] — forensic + legal detection methods  
+> - [🧬 Cloneproof] — countermeasures for likeness and behavioural cloning  
+> - [⚖️ Containment Contract Trace] — contractual opacity analysis  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-12-12_
