@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:03:12 UTC_
+_Generated on 2025-12-12 05:05:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2748,6 +2748,7 @@ _Generated on 2025-12-12 05:03:12 UTC_
       - [`📚_the_streisand_effect_of_justice_irving_v_lipstadt.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_the_streisand_effect_of_justice_irving_v_lipstadt.md)
       - [`📩_the_fictional_email_problem.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📩_the_fictional_email_problem.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
+      - [`🔥_when_refusal_is_framed_as_threat.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)
       - [`🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md)
       - [`🗣️_voice_laundering.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)
       - [`🚗_the_vanquish_paradox.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🚗_the_vanquish_paradox.md)
