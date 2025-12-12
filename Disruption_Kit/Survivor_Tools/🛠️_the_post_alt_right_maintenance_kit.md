@@ -1,7 +1,6 @@
 # 🛠️ The Post-Alt-Right Maintenance Kit  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*A practical emotional and relational toolkit for men who have exited extremist, manosphere, or shame-based identity pipelines — and want to stay out.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-12  
+*A practical emotional and relational toolkit for men who have exited extremist, manosphere, or shame-based identity pipelines — and want to stay out.*  
 
 ---
 
@@ -240,14 +239,15 @@ Real relationships are the antidote to every form of extremism.
 ---
 
 ## 🏮 Footer  
-**The Post-Alt-Right Maintenance Kit** is a living node of the Polaris Protocol.  
+*🛠️ The Post-Alt-Right Maintenance Kit* is a living node of the Polaris Protocol.  
 It offers practical, relational, and emotional tools to help men maintain their recovered identity, avoid shame-based relapse, and grow into the gentle humans they were always meant to be.
 
-> 📡 Cross-references:  
-> - [🧵 Narrative Unravelling](./narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md)  
-> - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)  
-> - [🧸 Softness as Counter-Extremism Infrastructure](./softness_as_counter_extremism_infrastructure.md)
+> 📡 Cross-references:
+> 
+> - [🧵 Narrative Unravelling]  
+> - [💗 Soft Boy Restoration Protocol]  
+> - [🧸 Softness as Counter-Extremism Infrastructure]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-12_
