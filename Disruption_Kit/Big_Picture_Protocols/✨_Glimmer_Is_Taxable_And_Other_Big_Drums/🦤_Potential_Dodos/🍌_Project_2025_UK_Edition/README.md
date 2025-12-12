@@ -1,5 +1,5 @@
 # 🍌 Project 2025 UK Edition — A Field Guide for Aspiring Dodos  
-**First created:** 2025-10-27  |  **Last updated:** 2025-10-27  
+**First created:** 2025-10-27  |  **Last updated:** 2025-12-12  
 *An educational safari through late-stage governance mimicry, for those who wish to spot the warning signs before they molt.*
 
 ---
@@ -62,10 +62,10 @@ It documents how imported governance pathogens might adapt to local conditions, 
 > 📡 Cross-references:
 > 
 > - [🇬🇧 Entrenchment Watchlist](./🇬🇧_uk_entrenchment_watchlist.yaml)  
-> - [🇬🇧 Risk Matrix](./uk_entrenchment_risk_matrix.md)  
-> - [🇬🇧 Patch Plan](./uk_democratic_safeguards_patch_plan.md)  
+> - [🇬🇧 Risk Matrix](./🇬🇧_uk_entrenchment_risk_matrix.md)  
+> - [🇬🇧 Patch Plan](./🇬🇧_uk_democratic_safeguards_patch_plan.md)  
 > - [✨ Glimmer Is Taxable README](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-27_
+_Last updated: 2025-12-12_
