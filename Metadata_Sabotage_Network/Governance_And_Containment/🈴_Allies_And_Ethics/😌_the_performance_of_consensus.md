@@ -1,6 +1,6 @@
-# 🎭 The Performance of Consensus — Gendered Denial in Online-Harms Governance  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*How institutional politeness and moral performance let harmful assumptions pass as ethical agreement.*
+# 😌 The Performance of Consensus — Gendered Denial in Online-Harms Governance  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-12  
+*How institutional politeness and moral performance let harmful assumptions pass as ethical agreement.*  
 <!--Insert Death of Stalin joke here.-->
 ---
 
@@ -67,15 +67,16 @@ performative consensus, moral theatre, gendered denial, online-harms governance,
 ---
 
 ## 🏮 Footer  
-*The Performance of Consensus* is a living node of the Polaris Protocol.  
+*2025-12-12 The Performance of Consensus* is a living node of the Polaris Protocol.  
 It captures how moral performance and gendered etiquette distort online-harms governance, turning realism into risk.  
 
-> 📡 Cross-references:  
-> - [⚖️ Ethics of Algorithmic Stabilisation Experiments](../System_Governance/⚖️_ethics_of_algorithmic_stabilisation_experiments.md) — when governance politeness masks human experimentation  
-> - [🧭 The Metadata Fallacy](../System_Governance/🧭_the_metadata_fallacy.md) — when abstraction hides identifiability  
-> - [🐍 How a CVE Tool Becomes a Vector for Extremism](../System_Governance/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md) — recursion of moral control  
-> - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../System_Governance/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — systemic misclassification of advocacy  
+> 📡 Cross-references:
+> 
+> - [⚖️ Ethics of Algorithmic Stabilisation Experiments] — when governance politeness masks human experimentation  
+> - [🧭 The Metadata Fallacy] — when abstraction hides identifiability  
+> - [🐍 How a CVE Tool Becomes a Vector for Extremism] — recursion of moral control  
+> - [🕸️ Gendered Harms from Counter-Extremism Algorithms] — systemic misclassification of advocacy  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-12-12_
