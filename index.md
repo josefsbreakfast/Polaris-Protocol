@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 05:05:52 UTC_
+_Generated on 2025-12-12 05:07:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2932,6 +2932,7 @@ _Generated on 2025-12-12 05:05:52 UTC_
       - [`📉_political_gravity_logjam.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📉_political_gravity_logjam.md)
       - [`📊_visibility_weighting_and_synthetic_clustering.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📊_visibility_weighting_and_synthetic_clustering.md)
       - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
+      - [`🔮_visibility_collapse_of_dissenting_bodies.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)
       - [`🧨_algorithmic_projection_white_male_insecurity.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🧨_algorithmic_projection_white_male_insecurity.md)
       - [`🪩_algorithmic_proximity_and_accidental_truth_machine.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🪩_algorithmic_proximity_and_accidental_truth_machine.md)
     - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/)
