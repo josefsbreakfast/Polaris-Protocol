@@ -1,6 +1,6 @@
 # 🛠️ Frankenstack Failure Modes in Public Systems  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*How legacy infrastructures, emergency patches, and federated tech create coercive-system effects.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-12  
+*How legacy infrastructures, emergency patches, and federated tech create coercive-system effects.*  
 
 ---
 
@@ -68,8 +68,9 @@ frankenstack, tech debt, federated governance, public sector failure, coercive b
 It documents how hybrid legacy–modern infrastructures generate coercive-system effects at scale.
 
 > 📡 Cross-references:
-> - [🧬 Architecture Failure Model](./🧬_harm_without_perpetrators_architecture_failure_model.md)  
-> - [🩻 Weirdness_Screening](../Weirdness_Screening/) — glitch and anomaly logs  
+> 
+> - [🧬 Architecture Failure Model]  
+> - [🩻 Weirdness_Screening] — glitch and anomaly logs  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-12_
