@@ -1,5 +1,5 @@
-# 🫂 Reciprocity & Support  
-**First created:** 2025-11-15 | **Last updated:** 2025-11-15  
+# 🌌 Polaris-Specific Memeing, and 🫂 Reciprocity & Support  
+**First created:** 2025-11-15 | **Last updated:** 2025-12-12  
 *Clear, boundary-safe routes for civic reciprocity, resourcing, and practical support for Polaris.*
 <!--Transparency will be provided, just working out how to do this and honestly forking out my google searches here is not unhelpful; how to declare this for HMRC/DWP is also a whole set of nodes, be ause it really reveals how "stuck" non-abled innovation gets by red tape.-->
 ---
@@ -74,7 +74,7 @@ reciprocity, civic exchange, po box, wishlist, boundaries, support options, infr
 ---
 
 ## 🏮 Footer  
-*Reciprocity & Support* is a living node of the Polaris Protocol.  
+*🫂 Reciprocity & Support* is a living node of the Polaris Protocol.  
 It introduces the philosophy and structure of the routes through which readers can participate in sustaining the civic labour and infrastructural demands of the project.
 
 > 📡 Cross-references:  
@@ -82,4 +82,4 @@ It introduces the philosophy and structure of the routes through which readers c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2025-12-12_
