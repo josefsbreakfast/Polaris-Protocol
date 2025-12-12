@@ -20,7 +20,7 @@ briefly:
 
 - some payment declines yest;
 - encouraging unrofessional behaviour on feeds, framing as romance, bc apparantly taht's all women care about ever;
-- ico is examining acro piece;
+- ico is examining acro piece (to which the downstream police controllers are linked via rationale);
 - multiple data controllers have gone silent (assume pending further searches);
 - multiple app errors when searching terms around (essentially) the behaviour of guilty conscience.  
 
