@@ -1,6 +1,6 @@
-# 🛰️ Threat Escalation Pipeline (Racialised Gender)
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How a woman’s boundary becomes misclassified as threat through racialised and gendered escalation sequences.*
+# 🛰️ Threat Escalation Pipeline (Racialised Gender)  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-12  
+*How a woman’s boundary becomes misclassified as threat through racialised and gendered escalation sequences.*  
 
 ---
 
@@ -247,4 +247,5 @@ It maps the step-by-step reproduction of hierarchy through narrative and bureauc
 > - 🪓 Vindictive Male Escalation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-12-12_
