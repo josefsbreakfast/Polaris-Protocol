@@ -1,6 +1,6 @@
 # 🕰️ Citizen Follow-Up Timeline — Restoring Safety and Trust After a Security Breach  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
-*When the system works: how government should maintain contact, care, and closure with a citizen affected by digital interference.*
+**First created:** 2025-10-26 | **Last updated:** 2025-12-12  
+*When the system works: how government should maintain contact, care, and closure with a citizen affected by digital interference.*  
 
 ---
 
@@ -84,14 +84,15 @@ citizen care, follow-up, oversight, ncsc, cabinet office, duty of care, reassura
 
 ## 🏮 Footer  
 
-*Citizen Follow-Up Timeline — Restoring Safety and Trust After a Security Breach* is a living node of the **Polaris Protocol**.  
+*🕰️ Citizen Follow-Up Timeline — Restoring Safety and Trust After a Security Breach* is a living node of the **Polaris Protocol**.  
 It defines the humane sequence that should follow any verified security incident, ensuring that procedural containment is matched by ethical accountability.  
 
-> 📡 Cross-references:  
-> - [🧩 Ideal Whitehall Response Sequence](./🧩_ideal_whitehall_response_sequence.md)  
-> - [🧿 Oversight Paralysis — When Allies Breach the Firewall](./🧿_oversight_paralysis_when_allies_breach_the_firewall.md)  
-> - [📨 FOI Safeguards Against Allied Cybersecurity Abuse](./📨_foi_safeguards_against_allied_cybersecurity_abuse.md)  
+> 📡 Cross-references:
+> 
+> - [🧩 Ideal Whitehall Response Sequence]  
+> - [🧿 Oversight Paralysis — When Allies Breach the Firewall]  
+> - [📨 FOI Safeguards Against Allied Cybersecurity Abuse]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-12-12_
