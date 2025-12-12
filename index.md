@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:01:08 UTC_
+_Generated on 2025-12-12 04:04:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -997,6 +997,7 @@ _Generated on 2025-12-12 04:01:08 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/README.md)
         - [`🎮_fake_gamer_girl_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🎮_fake_gamer_girl_protocol.md)
         - [`🔮_astrology_projected.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🔮_astrology_projected.md)
+        - [`🕸️_algorithmic_hearing_is_not_listening.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🕸️_algorithmic_hearing_is_not_listening.md)
         - [`🧠_ai_ethicswash.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🧠_ai_ethicswash.md)
       - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)
@@ -3086,7 +3087,6 @@ _Generated on 2025-12-12 04:01:08 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸️_algorithmic_hearing_is_not_listening.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_algorithmic_hearing_is_not_listening.md)
     - [`🕸️_architectural_vs_human_versions_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_architectural_vs_human_versions_targeting.md)
     - [`🕸️_competative_inhibitor_plugin.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_competative_inhibitor_plugin.md)
     - [`🕸️_containment_as_emergent_system_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_containment_as_emergent_system_behaviour.md)
