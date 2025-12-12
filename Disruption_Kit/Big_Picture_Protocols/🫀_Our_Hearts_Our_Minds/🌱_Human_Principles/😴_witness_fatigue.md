@@ -1,6 +1,6 @@
-# ✴️ Witness Fatigue — The Cost of Seeing Clearly  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*When repair itself becomes overload.*
+# 😴 Witness Fatigue — The Cost of Seeing Clearly  
+**First created:** 2025-10-23 | **Last updated:** 2025-12-12  
+*When repair itself becomes overload.*  
 
 ---
 
@@ -44,7 +44,7 @@ witness fatigue, burnout, recognition, repair, emotional overload, clarity, docu
 ---
 
 ## 🏮 Footer  
-*✴️ Witness Fatigue — The Cost of Seeing Clearly* is a living node of the Polaris Protocol.  
+*😴 Witness Fatigue — The Cost of Seeing Clearly* is a living node of the Polaris Protocol.  
 It records the emotional half-life of exposure and the maintenance practices required to survive perpetual clarity.  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-12_
