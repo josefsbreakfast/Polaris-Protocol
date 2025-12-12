@@ -132,6 +132,7 @@ schmittian drift, exceptional detention, counter-terrorism overreach, pretrial g
 > - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](./⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md)  
 > - [⚠️ Erosion of Duty of Care Under Exception Logic](./⚠️_the_erosion_of_duty_of_care_under_exception_logic.md)  
 > - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)
+> - [🏨 Hotels, Protests, and Power Consolidation](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md) - *Schmitt logic in hotels and immigrant detention "management" narratives*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
