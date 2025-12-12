@@ -94,7 +94,7 @@ It preserves humour, pattern-play, and shared cultural artifacts as part of resi
 > 📡 Cross-references:
 > 
 > - [🌌 Polaris_Specific_Memeing](../README.md) — context-aware humour nodes  
-> - [🐝 All_In_Commons](../../🐝_All_In_CommonsREADME.md/) — cooperative culture & shared meaning  
+> - [🐝 All_In_Commons](../../🐝_All_In_Commons/README.md/) — cooperative culture & shared meaning  
 > - [🩻 Weirdness_Screening](../../../🩻_Weirdness_Screening/README.md) — when patterns need checking  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
