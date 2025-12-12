@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-12 04:17:28 UTC_
+_Generated on 2025-12-12 04:18:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2579,6 +2579,7 @@ _Generated on 2025-12-12 04:17:28 UTC_
       - [`🕯️_prevent_and_the_encampment_silence.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕯️_prevent_and_the_encampment_silence.md)
       - [`🕳️_the_channel_panel_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕳️_the_channel_panel_problem.md)
       - [`🕷️_prevent_as_soft_coup_infrastructure.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕷️_prevent_as_soft_coup_infrastructure.md)
+      - [`🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_gated_intake_post_delay_regional_loop.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
@@ -3097,7 +3098,6 @@ _Generated on 2025-12-12 04:17:28 UTC_
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
-    - [`🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md)
     - [`🕸️_survivor_consent_frameworks.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_survivor_consent_frameworks.md)
     - [`🕸️_systems_failure_uk_data.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_systems_failure_uk_data.md)
     - [`🕸️_the_capacity_of_cross_linking.md`](Polaris_Nest/Git_Intake_Drawer/🕸️_the_capacity_of_cross_linking.md)
