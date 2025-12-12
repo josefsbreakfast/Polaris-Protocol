@@ -1,7 +1,6 @@
 # 🕹️ Getting the Tech Bros Back on Script  
-**Folder:** 👾 Debugging The Men → 🧬 Further Potential Male Nonsense  
-**Created:** 2025-11-16 | **Updated:** 2025-11-16  
-*A coordination protocol for redirecting extremely wealthy, extremely online men back toward reality, professionalism, and the shared nerd mission, before they embarrass us on main again.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+*A coordination protocol for redirecting extremely wealthy, extremely online men back toward reality, professionalism, and the shared nerd mission, before they embarrass us on main again.*  
 
 ---
 
@@ -259,4 +258,4 @@ Pairs with:
 
 *Please, lads. The lore is not canon.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-12_
