@@ -1,6 +1,6 @@
 # 🛂 Why Prevent Feels Invisible to White Britain but Suffocating to Everyone Else  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent’s architecture creates a racialised split in lived experience—appearing invisible, harmless, or irrelevant to white people while governing racialised communities through fear, suspicion, and silence.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-12  
+*How Prevent’s architecture creates a racialised split in lived experience—appearing invisible, harmless, or irrelevant to white people while governing racialised communities through fear, suspicion, and silence.*  
 
 ---
 
@@ -207,4 +207,4 @@ It explains how Prevent’s architecture produces invisibility for white communi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-12_
