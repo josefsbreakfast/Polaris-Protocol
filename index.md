@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 17:39:10 UTC_
+_Generated on 2025-12-13 17:44:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1098,6 +1098,7 @@ _Generated on 2025-12-13 17:39:10 UTC_
         - [`🥄_deserving_poor_containment.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🥄_deserving_poor_containment.md)
         - [`🦚_cve_pornography_unit.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🦚_cve_pornography_unit.md)
         - [`🧠_memory_encoding_endings.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🧠_memory_encoding_endings.md)
+        - [`🧠_nudges_to_stepford_wives.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🧠_nudges_to_stepford_wives.md)
         - [`🧠_state_behavioural_arms_uk_quick_reference.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🧠_state_behavioural_arms_uk_quick_reference.md)
         - [`🧿_over_the_line_behavioural_targeting_and_elections.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🧿_over_the_line_behavioural_targeting_and_elections.md)
         - [`🪞_deference_politics_as_containment_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🪞_deference_politics_as_containment_mechanism.md)
@@ -3268,7 +3269,6 @@ _Generated on 2025-12-13 17:39:10 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_nudges_to_stepford_wives.md`](Polaris_Nest/Git_Intake_Drawer/🧠_nudges_to_stepford_wives.md)
     - [`🧠_political_black_box_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧠_political_black_box_logic.md)
     - [`🧠_psychology_of_volunteer_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧠_psychology_of_volunteer_surveillance.md)
     - [`🧠_rationalist_to_alt_right_drift_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_rationalist_to_alt_right_drift_pipeline.md)
