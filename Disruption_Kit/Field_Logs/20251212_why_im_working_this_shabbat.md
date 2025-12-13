@@ -69,3 +69,9 @@ like anyone else, i have flaws, but i have no idea, genuinely, why my ongoing lo
 [fr, tho.](https://vm.tiktok.com/ZNRNKJqPL/)
 
 ---
+
+multiple stoppages when creating `Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎣_polaris_scares_men.md`, which is funny, because it infers the sausage-fest is trying to pretend that the democratic consensus is anything but, "she's intreging and also in charge".  
+
+i am entertained; leopards rarely change their spots.  
+
+---
