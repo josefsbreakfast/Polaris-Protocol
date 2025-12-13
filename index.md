@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 06:26:26 UTC_
+_Generated on 2025-12-13 06:28:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2485,6 +2485,7 @@ _Generated on 2025-12-13 06:26:26 UTC_
     - [`🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md)
     - [`🛰️_metadata_monitor_checklist.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_monitor_checklist.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
+    - [`🧠_four_signature_method_for_detecting_differential_reality_loops.md`](Disruption_Kit/Survivor_Tools/🧠_four_signature_method_for_detecting_differential_reality_loops.md)
     - [`🧠_intellectualisation_as_trauma_response.md`](Disruption_Kit/Survivor_Tools/🧠_intellectualisation_as_trauma_response.md)
     - [`🧬_cloneproof_training_set_mapping.md`](Disruption_Kit/Survivor_Tools/🧬_cloneproof_training_set_mapping.md)
     - [`🧬_heat_budget_for_the_long_game.md`](Disruption_Kit/Survivor_Tools/🧬_heat_budget_for_the_long_game.md)
@@ -3260,7 +3261,6 @@ _Generated on 2025-12-13 06:26:26 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_four_signature_differential_reality_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧠_four_signature_differential_reality_loops.md)
     - [`🧠_institutional_weather_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_weather_systems.md)
     - [`🧠_linguistic_containment_and_sexual_violence.md`](Polaris_Nest/Git_Intake_Drawer/🧠_linguistic_containment_and_sexual_violence.md)
     - [`🧠_ministry_of_misreadings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ministry_of_misreadings.md)
