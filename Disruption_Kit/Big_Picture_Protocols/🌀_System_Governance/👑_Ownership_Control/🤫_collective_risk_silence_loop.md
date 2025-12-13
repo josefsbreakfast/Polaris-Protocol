@@ -1,5 +1,5 @@
 # 🤫 Collective Risk Silence Loop
-**First created:** 2025-11-12 | **Status:** Draft — Stub Node
+**First created:** 2025-11-12 | **Last updated:** 2025-12-13 
 *Authored by Polaris Systems & Governance Working Group*
 
 ---
@@ -15,3 +15,5 @@ Describes the sector-wide silence following credible tort exposure or shared-lia
 
 ## 🏮 Footer
 *Stub placeholder — expand in Polaris Protocol main archive.*
+
+_Last updated: 2025-12-13_
