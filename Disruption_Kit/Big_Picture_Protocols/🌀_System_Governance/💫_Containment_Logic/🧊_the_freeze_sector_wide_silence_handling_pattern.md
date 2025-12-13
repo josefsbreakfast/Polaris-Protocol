@@ -1,6 +1,6 @@
 # 🧊 The Freeze: Sector-Wide Silence Handling Pattern  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*Why institutions go silent when too many actors become indirectly complicit.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-13  
+*Why institutions go silent when too many actors become indirectly complicit.*  
 
 ---
 
@@ -71,13 +71,14 @@ freeze, sector silence, institutional fear, shame loops, metadata harm, escalati
 ---
 
 ## 🏮 Footer  
-*The Freeze* is a living node of the Polaris Protocol.  
+*🧊 The Freeze* is a living node of the Polaris Protocol.  
 It maps the systemic silence that emerges when too many actors have interacted with contaminated systems or coercive harm.
 
 > 📡 Cross-references:
-> - [🎭 Narrative & Psych Ops](../🛰️Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/)  
-> - [🩸 When Little Bureaucrats Play Big Boy Pimps](../🛰️Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🩸_when_little_bureaucrats_play_big_boy_pimps.md)
+> 
+> - [🎭 Narrative & Psych Ops]  
+> - [🩸 When Little Bureaucrats Play Big Boy Pimps]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-13_
