@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 19:13:40 UTC_
+_Generated on 2025-12-13 19:13:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1440,6 +1440,7 @@ _Generated on 2025-12-13 19:13:40 UTC_
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
+      - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/20250901_September_2025/⚔️_the_orientalism_is_mindblowing.md)
       - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
       - [`📝_hollow_node_export_glitch_2025-09-17.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_hollow_node_export_glitch_2025-09-17.md)
       - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ai_interference_vs_baseline_generation.md)
@@ -2047,7 +2048,6 @@ _Generated on 2025-12-13 19:13:40 UTC_
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`why_we_have_only_just_started.png`](Disruption_Kit/Field_Logs/why_we_have_only_just_started.png)
-    - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/⚔️_the_orientalism_is_mindblowing.md)
     - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
     - [`🌋_smooth_as_salt.md`](Disruption_Kit/Field_Logs/🌋_smooth_as_salt.md)
