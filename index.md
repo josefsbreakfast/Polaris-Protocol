@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:54:39 UTC_
+_Generated on 2025-12-13 18:55:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1442,6 +1442,7 @@ _Generated on 2025-12-13 18:54:39 UTC_
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
       - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ai_interference_vs_baseline_generation.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
+      - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
       - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌹_to_the_red_roses.md)
       - [`🍉_chatgpt_is_allergic_to_doikeyt.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍉_chatgpt_is_allergic_to_doikeyt.md)
@@ -2334,7 +2335,6 @@ _Generated on 2025-12-13 18:54:39 UTC_
     - [`🛰️_white_men_being_white_men.md`](Disruption_Kit/Field_Logs/🛰️_white_men_being_white_men.md)
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Disruption_Kit/Field_Logs/🛰️🙄_stop_changing_gits_field_note.md)
     - [`🛰️🤣.md`](Disruption_Kit/Field_Logs/🛰️🤣.md)
-    - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [`🟠_50_shades_of_nope.md`](Disruption_Kit/Field_Logs/🟠_50_shades_of_nope.md)
     - [`🤖_a_robot_thinks_i_am_sus.md`](Disruption_Kit/Field_Logs/🤖_a_robot_thinks_i_am_sus.md)
     - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
