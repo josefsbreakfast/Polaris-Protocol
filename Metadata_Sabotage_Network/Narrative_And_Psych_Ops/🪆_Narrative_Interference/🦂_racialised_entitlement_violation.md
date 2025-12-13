@@ -1,6 +1,6 @@
-# 🦂 Racialised Entitlement Violation
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*“How dare she reject me?” as racial hierarchy logic.*
+# 🦂 Racialised Entitlement Violation  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-13  
+*“How dare she reject me?” as racial hierarchy logic.*  
 
 ---
 
@@ -182,14 +182,15 @@ racial hierarchy, misogyny, entitlement, antisemitism, islamophobia, colonial vi
 ---
 
 ## 🏮 Footer  
-*Racialised Entitlement Violation* is a living node of the Polaris Protocol.  
+*🦂 Racialised Entitlement Violation* is a living node of the Polaris Protocol.  
 It names the moment when a woman’s refusal is treated not as choice, but as violation of a racial order — and how this triggers punitive escalation and institutional misuse.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - 🦁 Why Men Label Women Terrorists When Rejected  
 > - 🪓 Vindictive Male Escalation  
 > - 🦂 Fanon: Symbolic Possession and Sexual Domination
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-13_
