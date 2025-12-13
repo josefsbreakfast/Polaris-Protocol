@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 00:02:35 UTC_
+_Generated on 2025-12-13 00:03:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -342,6 +342,7 @@ _Generated on 2025-12-13 00:02:35 UTC_
         - [`🗣️_when_did_the_way_we_talk_change.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗣️_when_did_the_way_we_talk_change.md)
         - [`🗳️_the_corbyn_starner_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗳️_the_corbyn_starner_consent_mechanism.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
+        - [`🤦‍♀️_operation_shande.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🤦‍♀️_operation_shande.md)
         - [`🦇_how_many_words_to_fell_an_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦇_how_many_words_to_fell_an_industry.md)
         - [`🧠_politicians_and_public_contact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_politicians_and_public_contact.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
@@ -3220,7 +3221,6 @@ _Generated on 2025-12-13 00:02:35 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🤦‍♀️_operation_shande.md`](Polaris_Nest/Git_Intake_Drawer/🤦‍♀️_operation_shande.md)
     - [`🥀_the_politics_of_male_loneliness.md`](Polaris_Nest/Git_Intake_Drawer/🥀_the_politics_of_male_loneliness.md)
     - [`🥗_the_platter_of_greenery_being_seen_and_not_seen.md`](Polaris_Nest/Git_Intake_Drawer/🥗_the_platter_of_greenery_being_seen_and_not_seen.md)
     - [`🥠_the_machine_confesses_its_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥠_the_machine_confesses_its_feelings.md)
