@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:21:50 UTC_
+_Generated on 2025-12-13 21:17:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2570,6 +2570,7 @@ _Generated on 2025-12-13 20:21:50 UTC_
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md)
+      - [`_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md)
       - [`drag_curve_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/drag_curve_closed_mouth.png)
       - [`risk_matrix_cost_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/risk_matrix_cost_closed_mouth.png)
       - [`sector_drag_curve_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/sector_drag_curve_closed_mouth.png)
