@@ -1,6 +1,6 @@
 # 🧠 Institutional Weather Systems  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How public bodies, bureaucracies, and governance structures develop “weather systems” — emotional climates, behavioural moods, and procedural atmospheres that shape how cases are handled.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-13  
+*How public bodies, bureaucracies, and governance structures develop “weather systems” — emotional climates, behavioural moods, and procedural atmospheres that shape how cases are handled.*  
 
 ---
 
@@ -226,7 +226,7 @@ institutional weather, governance climate, bureaucratic mood, survivor experienc
 
 ## 🏮 Footer  
 
-*Institutional Weather Systems* is a Polaris governance-analysis node that maps how bureaucracies develop emotional climates — and how those climates shape survivor access, procedural behaviour, and institutional risk-taking.
+*🧠 Institutional Weather Systems* is a Polaris governance-analysis node that maps how bureaucracies develop emotional climates — and how those climates shape survivor access, procedural behaviour, and institutional risk-taking.
 
 Pairs with:
 
@@ -236,4 +236,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-13_
