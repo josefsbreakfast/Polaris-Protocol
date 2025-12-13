@@ -1,9 +1,5 @@
-# 🧠 Shame Economics
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11
-*Mapping shame as symbolic currency in moral and governance economies.*
-
 # 🧠 **Shame Economics — Why Visibility Breaks the Capture Loop**  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-11 | **Last updated:** 2025-12-13  
 *Shame is the control currency of abusive systems. Visibility is the counter-currency that bankrupts them.*
 
 ---
@@ -219,7 +215,7 @@ shame-collapse, visibility-economics, narrative immunity, self-witnessing, emoti
 ---
 
 ## 🏮 Footer  
-**🧠 Shame Economics** is a psychological-forensic node of the Polaris Protocol.  
+*🧠 Shame Economics* is a psychological-forensic node of the Polaris Protocol.  
 It maps shame as a systemic control mechanism and visibility as a structural counter-force that dissolves capture architectures.
 
 > 📡 Cross-references:
@@ -230,4 +226,4 @@ It maps shame as a systemic control mechanism and visibility as a structural cou
 
 *Survivor authorship is sovereign. Shame belongs to the abuser, not the survivor.*
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-13_
