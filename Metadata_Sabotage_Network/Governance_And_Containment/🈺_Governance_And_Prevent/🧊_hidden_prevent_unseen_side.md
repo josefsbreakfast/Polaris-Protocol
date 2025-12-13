@@ -1,6 +1,6 @@
 # 🧊 Hidden Prevent: The Unseen Side of Referrals, Screening & Metadata  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent and Channel operate beneath the surface — through silent screenings, undisclosed metadata triage, and invisible police-led processes that the public never sees.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-13  
+*How Prevent and Channel operate beneath the surface — through silent screenings, undisclosed metadata triage, and invisible police-led processes that the public never sees.*  
 
 ---
 
@@ -196,4 +196,4 @@ It explains the silent infrastructure of Prevent — digital screening, metadata
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-13_
