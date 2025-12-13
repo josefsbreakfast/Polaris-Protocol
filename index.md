@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 04:58:10 UTC_
+_Generated on 2025-12-13 05:00:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -525,6 +525,7 @@ _Generated on 2025-12-13 04:58:10 UTC_
         - [`🛡️_why_fascism_fears_softness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛡️_why_fascism_fears_softness.md)
         - [`🛰️_naming_the_unnamed_data_sovereignty_and_statehood.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛰️_naming_the_unnamed_data_sovereignty_and_statehood.md)
         - [`🜁_shared_air.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🜁_shared_air.md)
+        - [`🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)
         - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
         - [`🧠_ai_harms_are_not_new.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md)
         - [`🧠_bargain_bin_mossad.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
@@ -3236,7 +3237,6 @@ _Generated on 2025-12-13 04:58:10 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md`](Polaris_Nest/Git_Intake_Drawer/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)
     - [`🦂_racialised_entitlement_violation.md`](Polaris_Nest/Git_Intake_Drawer/🦂_racialised_entitlement_violation.md)
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
