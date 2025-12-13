@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:20:02 UTC_
+_Generated on 2025-12-13 18:20:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2710,6 +2710,7 @@ _Generated on 2025-12-13 18:20:02 UTC_
       - [`🧠_behavioral_reengagement_as_containment_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_reengagement_as_containment_loop.md)
       - [`🧠_gendered_and_racialised_prevent_channel_misuse.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_gendered_and_racialised_prevent_channel_misuse.md)
       - [`🧠_safeguarding_to_ai_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_safeguarding_to_ai_pipeline.md)
+      - [`🧠_the_continuum_of_authoritarian_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
       - [`🪢_refusal_as_resistance_not_risk.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪢_refusal_as_resistance_not_risk.md)
@@ -3276,7 +3277,6 @@ _Generated on 2025-12-13 18:20:02 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_the_continuum_of_authoritarian_drift.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_continuum_of_authoritarian_drift.md)
     - [`🧠_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_last_hill.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
