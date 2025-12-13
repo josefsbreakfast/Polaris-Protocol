@@ -1,6 +1,6 @@
-# 🤦‍♀️ Operation Shande — the bureaucratic shame engine
-**First created:** 2025-10-25 | **Last updated:** 2025-10-25  
-*When the instrument of scandal becomes the measure of compliance.*
+# 🤦‍♀️ Operation Shande — the bureaucratic shame engine  
+**First created:** 2025-10-25 | **Last updated:** 2025-12-13  
+*When the instrument of scandal becomes the measure of compliance.*  
 
 ---
 
@@ -80,9 +80,12 @@ shame politics, scandal cycles, administrative virtue, moral laundering, reputat
 It studies the feedback loop where institutions convert embarrassment into governance,  
 and where citizens learn to metabolise that shame back into witness.
 
-> 📡 Cross-references:  
-> - [🔥 Suppression as Signal](../🔥_suppression_as_signal.md)  
-> - [⚙️ Automated Escalation — Workflow Engines of Containment](../⚙️_automated_escalation.md)  
-> - [🧠 Misclassifying Intellectual Intimacy](../🧠_misclassifying_intellectual_intimacy.md)
+> 📡 Cross-references:
+> 
+> - [🔥 Suppression as Signal]  
+> - [⚙️ Automated Escalation — Workflow Engines of Containment]  
+> - [🧠 Misclassifying Intellectual Intimacy]  
 
 *Because sometimes the most ethical act is to blush, publicly, together.*
+
+_Last updated: 2025-12-13_
