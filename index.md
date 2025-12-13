@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:59:29 UTC_
+_Generated on 2025-12-13 19:00:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1455,6 +1455,7 @@ _Generated on 2025-12-13 18:59:29 UTC_
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
       - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
+      - [`🧭_attractor_map_suppression_contract.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧭_attractor_map_suppression_contract.md)
     - [**20251101_November_2025/**](Disruption_Kit/Field_Logs/20251101_November_2025/)
       - [`20251116_B-I-N-G-O.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_B-I-N-G-O.md)
       - [`20251116_direct_finance_credit_targeting.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_direct_finance_credit_targeting.md)
@@ -2396,7 +2397,6 @@ _Generated on 2025-12-13 18:59:29 UTC_
     - [`🧬_more_astro_memeing.md`](Disruption_Kit/Field_Logs/🧬_more_astro_memeing.md)
     - [`🧬_mrna_but_make_it_auditing_the_men.md`](Disruption_Kit/Field_Logs/🧬_mrna_but_make_it_auditing_the_men.md)
     - [`🧬_when_you_get_twinned_to_the_nest_eggs.PNG`](Disruption_Kit/Field_Logs/🧬_when_you_get_twinned_to_the_nest_eggs.PNG)
-    - [`🧭_attractor_map_suppression_contract.md`](Disruption_Kit/Field_Logs/🧭_attractor_map_suppression_contract.md)
     - [`🧭_redacted_mid_england_civic_cohesion_overlay.md`](Disruption_Kit/Field_Logs/🧭_redacted_mid_england_civic_cohesion_overlay.md)
     - [`🧮_7_day_word_count_analysis.md`](Disruption_Kit/Field_Logs/🧮_7_day_word_count_analysis.md)
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
