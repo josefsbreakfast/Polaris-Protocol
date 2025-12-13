@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 21:29:01 UTC_
+_Generated on 2025-12-13 21:32:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2716,6 +2716,7 @@ _Generated on 2025-12-13 21:29:01 UTC_
       - [`🛰️_why_safeguarding_plus_counterterrorism_equals_a_democratic_black_hole.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_why_safeguarding_plus_counterterrorism_equals_a_democratic_black_hole.md)
       - [`🤖_the_robot_didnt_know_you_meant_due_process.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🤖_the_robot_didnt_know_you_meant_due_process.md)
       - [`🤖_the_robot_didnt_know_you_wanted_non_biased_arrests.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🤖_the_robot_didnt_know_you_wanted_non_biased_arrests.md)
+      - [`🤖_the_robot_doesnt_know_what_equal_protection_means_to_you.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🤖_the_robot_doesnt_know_what_equal_protection_means_to_you.md)
       - [`🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
