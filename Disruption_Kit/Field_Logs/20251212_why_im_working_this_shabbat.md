@@ -62,4 +62,6 @@ i love that for you.
 
 like anyone else, i have flaws, but i have no idea, genuinely, why my ongoing longevity would be a problem unless you were scared of the truth.  
 
+(note that i keep getting coercive degradation about 5 minutes into disvusding a graph and some maths with an llm. this should not really be the output.)  
+
 ---
