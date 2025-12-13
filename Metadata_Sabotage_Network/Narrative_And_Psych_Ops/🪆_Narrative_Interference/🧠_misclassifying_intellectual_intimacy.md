@@ -1,7 +1,6 @@
-
 # 🧠 Misclassifying Intellectual Intimacy  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*When algorithms mistake shared cognition for romance.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-13  
+*When algorithms mistake shared cognition for romance.*  
 
 ---
 
@@ -99,13 +98,14 @@ algorithmic bias, misclassification, intellectual intimacy, gendered framing, da
 ---
 
 ## 🏮 Footer  
-*Misclassifying Intellectual Intimacy* is a living node of the Polaris Protocol.  
+*🧠 Misclassifying Intellectual Intimacy* is a living node of the Polaris Protocol.  
 It documents how machine systems misread cognitive and ethical closeness through the lens of romance and how that misreading harms those whose intelligence and empathy exceed the model’s categories.  
 
-> 📡 Cross-references:  
-> - [🕸 Ethical De-Meshing](../Disruption_Kit/Survivor_Tools/🕸_ethical_de_meshing.md) — protocols for humane separation after data coupling  
-> - [🛡️ Competitive Inhibitor Plug](../Disruption_Kit/Containment_Scripts/🛡️_competitive_inhibitor_node.md) — defensive architecture for interpretive overrides  
+> 📡 Cross-references:
+> 
+> - [🕸 Ethical De-Meshing] — *protocols for humane separation after data coupling*  
+> - [🛡️ Competitive Inhibitor Plug] — *defensive architecture for interpretive overrides*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-13_
