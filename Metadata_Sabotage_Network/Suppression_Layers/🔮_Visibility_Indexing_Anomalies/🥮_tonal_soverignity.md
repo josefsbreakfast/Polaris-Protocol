@@ -1,6 +1,6 @@
-# 🥮 Tonal Sovereignty — The Cantonese Continuum  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
-*How administrative ignorance, algorithmic blindness, and paperwork architectures erase living languages.*
+# 🥮 Tonal Sovereignty — The Cantonese Continuum   
+**First created:** 2025-10-22 | **Last updated:** 2025-12-13  
+*How administrative ignorance, algorithmic blindness, and paperwork architectures erase living languages.*  
 
 ---
 
@@ -180,11 +180,12 @@ Cantonese, language erasure, Mandarin dominance, algorithmic bias, administrativ
 *🥮 Tonal Sovereignty — The Cantonese Continuum* is a living node of the Polaris Protocol.  
 It documents how institutional ignorance and algorithmic simplification compress plural Chinese identities into a single, state-friendly form — and how communities resist through culture, sound, and persistence.  
 
-> 📡 Cross-references:  
-> - [🎶 Banned Broadcasts Cooperative](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/) — language visibility and media containment  
-> - [🗝️ Politics Memory Work](../Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/) — colonial ignorance and memory overwriting  
-> - [🌱 Human Principles](../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/) — linguistic dignity and epistemic rights  
+> 📡 Cross-references:
+> 
+> - [🎶 Banned Broadcasts Cooperative] — language visibility and media containment  
+> - [🗝️ Politics & Memory Work] — colonial ignorance and memory overwriting  
+> - [🌱 Human Principles] — linguistic dignity and epistemic rights  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-12-13_
