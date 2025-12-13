@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 05:18:42 UTC_
+_Generated on 2025-12-13 06:08:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2861,6 +2861,7 @@ _Generated on 2025-12-13 05:18:42 UTC_
       - [`🚨_fragility_as_performance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🚨_fragility_as_performance.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
       - [`🦂_racialised_entitlement_violation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦂_racialised_entitlement_violation.md)
+      - [`🧙‍♀️_witch_logic_diagnostic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)
       - [`🧠_extraction_loop_data_vs_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_extraction_loop_data_vs_story.md)
       - [`🧨_trace_resistance_framework.yaml`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_trace_resistance_framework.yaml)
       - [`🧩_repairing_trust_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧩_repairing_trust_chains.md)
@@ -3252,7 +3253,6 @@ _Generated on 2025-12-13 05:18:42 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
-    - [`🧙‍♀️_witch_logic_diagnostic.md`](Polaris_Nest/Git_Intake_Drawer/🧙‍♀️_witch_logic_diagnostic.md)
     - [`🧟_i_am_a_zombie_data_subject.md`](Polaris_Nest/Git_Intake_Drawer/🧟_i_am_a_zombie_data_subject.md)
     - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
