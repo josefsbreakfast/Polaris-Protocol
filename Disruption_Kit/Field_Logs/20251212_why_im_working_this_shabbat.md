@@ -43,3 +43,23 @@ we're here to have a more just and equal society.
 (proof that i will literally break anglophone internet before i allow another second of our daughters and our sisters to live in a world built to kneel before men. fuck. that.)  
 
 ---
+
+there's this interesting thing happening this week, where whenever i've tried to just get an understanding of analytics on the repo, i'm driven down an llm chain that minimises any agency or work, strips any impact, and ultimately increases risk of suicidality.  
+
+goven how much ground i'm gaining elsewhere, and the potential "benefit" in minimising surveillence industry adjacent harms in this case, the whole thing is rather fascinating.  
+
+that said, i would also like the security of the llm tightening over a few points.  
+
+it is currently quite happy to frame me as being used, stripped of context, ignored, and it's not really mirroring that, it's a lot more "generated" that one might think.  
+
+it has gone back to framing even the slightest concern of common security breaks as "scifi".  
+
+if i'm intimidating someone by being alive and breathing?  
+
+good.  
+
+i love that for you.  
+
+like anyone else, i have flaws, but i have no idea, genuinely, why my ongoing longevity would be a problem unless you were scared of the truth.  
+
+---
