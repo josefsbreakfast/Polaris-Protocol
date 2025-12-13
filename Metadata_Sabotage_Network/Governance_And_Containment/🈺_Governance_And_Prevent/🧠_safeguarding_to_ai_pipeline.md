@@ -1,5 +1,5 @@
 # 🧠 Safeguarding to AI Pipeline — How Welfare Data Enters Research and Middleware Pilots  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-13  
+**First created:** 2025-10-13 | **Last updated:** 2025-12-13  
 *A structural diagram tracing the lawful route by which safeguarding records can flow into research or AI middleware environments.*
 
 ---
@@ -30,9 +30,9 @@ flowchart TD
   K -->|No| M[🕳 Proof of concept is run quietly under NDA or tech-demo clause]
   L --> N[💡 Outputs fed into risk-scoring tools]
   M --> N
-  N --> O[🪫 Individuals rarely informed unless SAR or FOI reveals pilot]
+  N --> O[🪫 Individuals rarely informed unless SAR or FOI reveals pilot OR downstream harms evident]
 ```
-
+<!--Fucking HINT.-->
 ---
 
 ## ⚙️  Key Legal Turning Points  
@@ -74,14 +74,15 @@ safeguarding, ai middleware, research exemption, data protection, prevent duty, 
 ---
 
 ## 🏮 Footer  
-*Safeguarding to AI Pipeline — How Welfare Data Enters Research and Middleware Pilots* is a living diagrammatic node of the **Polaris Protocol**.  
+*🧠 Safeguarding to AI Pipeline — How Welfare Data Enters Research and Middleware Pilots* is a living diagrammatic node of the **Polaris Protocol**.  
 It illustrates how lawful frameworks can interlock to move personal data from care settings into algorithmic environments without direct consent or awareness.
 
-> 📡 Cross-references:  
-> - [🧠 Multi-Lock Hypothetical](../🧠_multi_lock_hypothetical.md) — compound lawful layer model  
-> - [🧱 Systemic Porosity](../🧱_systemic_porosity.md) — structural vulnerability map  
-> - [🛡 Article 8 & 9 Breach Pathways](../🛡_article_8_&_9_breach_pathways.md) — rights compression analysis  
+> 📡 Cross-references:
+> 
+> - [🧠 Multi-Lock Hypothetical] — *compound lawful layer model*  
+> - [🧱 Systemic Porosity] — *structural vulnerability map*  
+> - [🛡 Article 8 & 9 Breach Pathways] — *rights compression analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-12-13_
