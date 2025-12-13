@@ -1,7 +1,6 @@
 # 🧊 Visibility Indexing in Thin-Data Worlds  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
-*How thin-data architectures distort visibility, amplify the wrong signals, and suppress the right ones — turning ordinary speech into high-salience noise.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-13  
+*How thin-data architectures distort visibility, amplify the wrong signals, and suppress the right ones — turning ordinary speech into high-salience noise.*  
 
 ---
 
@@ -210,9 +209,10 @@ is a living node of the Polaris Protocol.
 It documents how rarity, pragmatics, and safety heuristics distort visibility, amplifying or suppressing voices unpredictably in fragile governance systems.
 
 > 📡 Cross-references:
-> - [🔮 Visibility Indexing Anomalies](../🔮_Visibility_Indexing_Anomalies/)  
-> - [📣 The Shouting Whisper](../../../🎭_Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)  
-> - [🇬🇧 British Pragmatics Nodes](../../../British_English_Compendium/)  
+> 
+> - [🔮 Visibility Indexing Anomalies]  
+> - [📣 The Shouting Whisper]  
+> - [🇬🇧 British Pragmatics Nodes]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-13_
