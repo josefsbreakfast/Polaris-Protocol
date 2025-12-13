@@ -1,6 +1,6 @@
 # 🥺 We Are Just a Little Island, Honest  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*An essay on scale, denial, and the myth of British smallness.*
+**First created:** 2025-11-08 | **Last updated:** 2025-12-13  
+*An essay on scale, denial, and the myth of British smallness.*  
 
 ---
 
@@ -62,9 +62,9 @@ britain, scale, small state, empire hangover, civic leverage, denial, responsibi
 ---
 
 ## 🏮 Footer  
-*We Are Just a Little Island, Honest* is a reflective node of the Polaris Protocol.  
+*🥺 We Are Just a Little Island, Honest* is a reflective node of the Polaris Protocol.  
 It documents the ongoing British habit of claiming smallness as innocence, and re-frames scale as civic potential rather than excuse.  
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-13_
