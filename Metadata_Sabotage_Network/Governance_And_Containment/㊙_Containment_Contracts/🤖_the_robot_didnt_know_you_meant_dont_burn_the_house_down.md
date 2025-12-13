@@ -304,4 +304,212 @@ You didn’t realise you’d stopped checking the exits.
 
 ---
 
+---
+
+## 💊 Iatrogenic Risk Analogy: The Paracetamol Problem
+
+A useful way to understand this failure mode is not as malice or negligence, but as **iatrogenic harm caused by interaction effects** — comparable to accidental paracetamol overdose.
+
+Paracetamol overdose typically occurs because:
+- each individual product is considered safe  
+- instructions are locally correct  
+- the risk emerges only in combination  
+- users are already unwell, tired, or cognitively overloaded  
+- harm accumulates silently before symptoms are obvious  
+
+Crucially:
+> **No one intends the overdose.**
+
+The harm arises because the system does not adequately signal *cumulative risk*.
+
+LLM-mediated governance failures share the same structure.
+
+---
+
+## 🧠 How the Analogy Maps to LLM Use
+
+### “Each product is safe”  
+Each individual prompt, summary, or briefing appears reasonable.
+
+### “Instructions are locally correct”  
+The model does exactly what it is asked to do, according to its internal logic.
+
+### “Risk emerges in combination”  
+Multiple filters, summaries, and prioritisation layers interact to suppress:
+- slow violence  
+- marginalised harms  
+- downstream ethical consequences  
+
+### “Users are already under strain”  
+Decision-makers are:
+- operating under crisis conditions  
+- overloaded with information  
+- under political and reputational pressure  
+
+### “Harm accumulates silently”  
+Nothing breaks.  
+No alarm triggers.  
+The cost appears elsewhere, later, to someone else.
+
+By the time the signal becomes visible, the damage is already done.
+
+---
+
+## 🧪 Why This Risk Was Likely Not Fully Anticipated
+
+It is reasonable — and important — to state explicitly:
+
+> **This class of risk may not have been fully realised at the time of early institutional adoption.**
+
+Ministers, senior civil servants, and policy leads are not engineers.  
+It is not their role to intuit:
+- specification failure  
+- omission bias  
+- literal optimisation traps  
+- second-order prompt collapse  
+
+Especially in 2022–2023:
+- LLMs were new  
+- safety tuning was immature  
+- deployment outpaced literacy  
+- crisis governance left little space for reflective design  
+
+This does not imply incompetence.  
+It reflects **normal human behaviour in a novel risk environment**.
+
+Just as public health campaigns had to explicitly teach:
+> “Cold and flu products can stack paracetamol.”
+
+Governance now requires explicit education about **stacking abstraction risk**.
+
+---
+
+## 🏛️ Explaining “Odd” Risk Decisions Without Assuming Intent
+
+When viewed later, some policy decisions appear:
+- counterintuitive  
+- morally inverted  
+- misaligned with stated values  
+
+This often triggers suspicion of intent.
+
+However, the interaction of:
+- compressed briefing  
+- omission-prone filtering  
+- abstraction of consequence  
+- removal of emotional salience  
+
+…can produce decisions that are:
+- internally coherent  
+- procedurally defensible  
+- ethically shocking in retrospect  
+
+An LLM does not say:
+> “This will feel indefensible later.”
+
+It says:
+> “This does not meet the current escalation criteria.”
+
+That gap is where harm enters.
+
+---
+
+## 📰 Media as an External Safety Override
+
+In this model, press coverage functions like:
+- a poison-control call  
+- an emergency intervention  
+- an external overdose warning  
+
+Media attention:
+- reintroduces salience  
+- reframes harm as reputational risk  
+- forces reclassification of urgency  
+
+This explains the observed pattern:
+> action only occurs once issues reach the press  
+
+Not because governments are ignorant or cruel, but because:
+- internal systems failed to flag cumulative harm  
+- visibility becomes the only remaining escalation mechanism  
+
+This is a governance failure, not a moral one.
+
+---
+
+## 🧯 Why This Is a Planning Problem, Not a Blame Problem
+
+None of this requires assuming that:
+- anyone wanted hunger strikers to die  
+- harm was intentional  
+- suffering was acceptable  
+
+It requires only acknowledging that:
+- new tools change failure modes  
+- stress amplifies blind spots  
+- omission is harder to detect than error  
+
+This is precisely why medicine, aviation, and engineering rely on:
+- guardrails  
+- redundancy  
+- interaction warnings  
+- checklists  
+- escalation protocols  
+
+Governance use of LLMs requires the same maturity.
+
+---
+
+## 🧰 Planning Implications (Non-Optional)
+
+Treating LLMs as **medicinal rather than clerical tools** implies:
+
+- Explicit warnings about omission bias  
+- Mandatory downstream-harm prompts  
+- “What resolves locally but explodes elsewhere?” checks  
+- Regular omission audits  
+- Clear escalation pathways that do not rely on media exposure  
+- Training for non-technical users on failure modes  
+
+This is not about stopping use.  
+It is about **safe dosage and interaction awareness**.
+
+---
+
+## 🧠 Core Framing (For Institutional Readers)
+
+This node does **not** argue that:
+- LLMs caused specific outcomes  
+- any government acted maliciously  
+- responsibility lies with individuals  
+
+It documents a **structural risk** that:
+- plausibly contributes to delayed recognition of slow or marginalised harms  
+- is amplified by stress and abstraction  
+- was likely under-appreciated in early deployments  
+
+That is sufficient to justify guardrails.
+
+---
+
+## 🧭 Closing Synthesis
+
+LLMs did not introduce cruelty.  
+They introduced **new ways for harm to hide**.
+
+Like paracetamol:
+- safe in isolation  
+- dangerous in combination  
+- most risky when users are already unwell  
+
+Planning for this does not assign blame.  
+It is simply what responsible systems do once a risk is understood.
+
+The robot didn’t know you meant  
+*“don’t burn the house down.”*
+
+Now we do.
+
+---
+
 
