@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 06:08:41 UTC_
+_Generated on 2025-12-13 06:10:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3166,6 +3166,7 @@ _Generated on 2025-12-13 06:08:41 UTC_
       - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
       - [`👥_twin_profiles_biometrics.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/👥_twin_profiles_biometrics.md)
       - [`🕸️_voice_lineage_and_dataset_chain.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🕸️_voice_lineage_and_dataset_chain.md)
+      - [`🧟_i_am_a_zombie_data_subject.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟_i_am_a_zombie_data_subject.md)
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
       - [`🫥_dry_humour_as_data_loss.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🫥_dry_humour_as_data_loss.md)
@@ -3253,7 +3254,6 @@ _Generated on 2025-12-13 06:08:41 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
-    - [`🧟_i_am_a_zombie_data_subject.md`](Polaris_Nest/Git_Intake_Drawer/🧟_i_am_a_zombie_data_subject.md)
     - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
