@@ -1,7 +1,6 @@
 # 🧠 The Ministry of Overconfident Misreadings — A Field Guide  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
-*A satirical-but-accurate taxonomy of the leadership pattern that derails conversations, breaks systems, and misreads tone with catastrophic confidence.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-13  
+*A satirical-but-accurate taxonomy of the leadership pattern that derails conversations, breaks systems, and misreads tone with catastrophic confidence.*  
 
 ---
 
@@ -162,9 +161,10 @@ overconfident misreading, literalism, tone collapse, containment, satire, britis
 It maps a recurring leadership pattern that misreads tone, metaphor, and cultural pragmatics — producing structural containment behaviours and interpretive drift across institutions.
 
 > 📡 Cross-references:
-> - [🎭 Psychological Containment](../)  
-> - [🎭 Narrative & Psych-Ops](../../)  
-> - [🇬🇧 British English Nodes](../../../British_English_Compendium/)  
+> - [🎭 Psychological Containment]  
+> - [🎭 Narrative & Psych-Ops]  
+> - [🇬🇧 British English Nodes]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+
+_Last updated: 2025-12-13_
