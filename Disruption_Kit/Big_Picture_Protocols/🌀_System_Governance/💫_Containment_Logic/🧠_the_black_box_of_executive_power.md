@@ -1,8 +1,6 @@
-File: 🧠_the_black_box_of_executive_power.md
-
 # 🧠 The Black Box of Executive Power  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How Prime Ministers and executive leaders actually process information — and why the decision loop becomes structurally distorted, regardless of individual morality.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-13  
+*How Prime Ministers and executive leaders actually process information — and why the decision loop becomes structurally distorted, regardless of individual morality.*  
 
 ---
 
@@ -222,7 +220,9 @@ Crosslinks:
 ---
 
 ## 🏮 Footer  
-**The Black Box of Executive Power** provides Polaris with a diagnostic toolkit  
+*🧠 The Black Box of Executive Power* provides Polaris with a diagnostic toolkit  
 for understanding why leaders fail, why systems distort intention,  
 and why concentrated executive power is incompatible with human cognition  
-and democratic resilience.
+and democratic resilience.  
+
+_Last updated: 2025-12-13_
