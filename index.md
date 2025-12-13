@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 05:07:18 UTC_
+_Generated on 2025-12-13 05:08:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -860,6 +860,7 @@ _Generated on 2025-12-13 05:07:18 UTC_
         - [`🥸_oss_117_and_the_operational_cost_of_cultural_ignorance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🥸_oss_117_and_the_operational_cost_of_cultural_ignorance.md)
         - [`🥺_we_are_just_a_little_island_honest.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🥺_we_are_just_a_little_island_honest.md)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
+        - [`🧊_the_bunker_has_no_vibes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧊_the_bunker_has_no_vibes.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
         - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
@@ -3247,7 +3248,6 @@ _Generated on 2025-12-13 05:07:18 UTC_
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
-    - [`🧊_the_bunker_has_no_vibes.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_bunker_has_no_vibes.md)
     - [`🧊_the_inversion_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_inversion_problem.md)
     - [`🧊_visibility_indexing_in_thin_data_worlds.md`](Polaris_Nest/Git_Intake_Drawer/🧊_visibility_indexing_in_thin_data_worlds.md)
     - [`🧊_why_prevent_feels_invisible_to_white_britain.md`](Polaris_Nest/Git_Intake_Drawer/🧊_why_prevent_feels_invisible_to_white_britain.md)
