@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:14:23 UTC_
+_Generated on 2025-12-13 20:15:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2500,6 +2500,7 @@ _Generated on 2025-12-13 20:14:23 UTC_
     - [`🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md)
     - [`🛰️_metadata_monitor_checklist.md`](Disruption_Kit/Survivor_Tools/🛰️_metadata_monitor_checklist.md)
     - [`🦆_duck_payload_delivery_log.md`](Disruption_Kit/Survivor_Tools/🦆_duck_payload_delivery_log.md)
+    - [`🧠_ethical_attrition_heatmap.md`](Disruption_Kit/Survivor_Tools/🧠_ethical_attrition_heatmap.md)
     - [`🧠_four_signature_method_for_detecting_differential_reality_loops.md`](Disruption_Kit/Survivor_Tools/🧠_four_signature_method_for_detecting_differential_reality_loops.md)
     - [`🧠_intellectualisation_as_trauma_response.md`](Disruption_Kit/Survivor_Tools/🧠_intellectualisation_as_trauma_response.md)
     - [`🧬_cloneproof_training_set_mapping.md`](Disruption_Kit/Survivor_Tools/🧬_cloneproof_training_set_mapping.md)
