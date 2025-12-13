@@ -56,4 +56,14 @@ Jokes, man.
 
 you guys made these things and like I'm not saying that they suck balls, they're really good in some ways, but also sometimes they do suck balls though.  
 
+of particular note something that it was extremely sensitive about was the potential that the cabinet hadn't been briefed on the hunger strikers, it treated this like a human who's just been caught out cheating on their wife.  
+
+Literally, "it wasn't me", the Shaggy classic.  
+
+But by the maths and words robot.  
+
+this is why I say it tells on itself because it's actually quite funny whenever you go near something and like there's any mathematical potential, it's clearly got something where it can't fully admit to any potential possible fault from a company, product, or service it may be aligned to.  
+
+I'm not sure how you could create a safe open source version, but maybe we need one of those.  
+
 ---
