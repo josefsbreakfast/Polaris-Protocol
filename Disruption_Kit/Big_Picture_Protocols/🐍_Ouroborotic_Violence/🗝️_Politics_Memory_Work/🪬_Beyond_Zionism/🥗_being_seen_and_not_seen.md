@@ -1,7 +1,6 @@
-# 🥗 The Platter of Greenery — Being Seen and Not Seen
-**First created:** 2025-11-06  **Last updated:** 2025-11-06
-**Cluster:** Survivor Voice / Cultural Diagnostics  **Status:** Reference Node
-**Purpose:** To explore the contradiction between visibility and erasure in British attitudes toward Jewish identity, and how politeness functions as a containment system.
+# 🥗 The Platter of Greenery — Being Seen and Not Seen  
+**First created:** 2025-11-06 | **Last updated:** 2025-12-13  
+*To explore the contradiction between visibility and erasure in British attitudes toward Jewish identity, and how politeness functions as a containment system.*  
 
 ---
 
@@ -66,3 +65,5 @@ Safety purchased through silence is not safety at all; it is a glass case with a
 ---
 
 *Purpose → To document how British civility produces both inclusion and erasure, making the act of being seen contingent on silence.*
+
+_Last updated: 2025-12-13_
