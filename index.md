@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 19:17:49 UTC_
+_Generated on 2025-12-13 19:18:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1441,6 +1441,7 @@ _Generated on 2025-12-13 19:17:49 UTC_
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250801_August_2025/**](Disruption_Kit/Field_Logs/20250801_August_2025/)
       - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
+      - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
       - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/20250901_September_2025/⚔️_the_orientalism_is_mindblowing.md)
       - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/20250901_September_2025/⚖️_scraping_spoofing_timeline_2019_2022.md)
@@ -1552,8 +1553,6 @@ _Generated on 2025-12-13 19:17:49 UTC_
       - [`IMG_7854.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_7854.png)
       - [`IMG_8031.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_8031.png)
       - [`Screenshot_2025-11-09_081845.png`](Disruption_Kit/Field_Logs/20251201_December_2025/Screenshot_2025-11-09_081845.png)
-    - [**20251801_August_2025/**](Disruption_Kit/Field_Logs/20251801_August_2025/)
-      - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/20251801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
