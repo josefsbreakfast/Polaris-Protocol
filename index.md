@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 19:15:49 UTC_
+_Generated on 2025-12-13 19:16:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1467,6 +1467,7 @@ _Generated on 2025-12-13 19:15:49 UTC_
       - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
       - [`🌋_smooth_as_salt.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌋_smooth_as_salt.md)
       - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌹_to_the_red_roses.md)
+      - [`🍄_every_rule_is_wrong_or_questioned.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍄_every_rule_is_wrong_or_questioned.md)
       - [`🍉_chatgpt_is_allergic_to_doikeyt.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍉_chatgpt_is_allergic_to_doikeyt.md)
       - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
       - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
@@ -2053,7 +2054,6 @@ _Generated on 2025-12-13 19:15:49 UTC_
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`why_we_have_only_just_started.png`](Disruption_Kit/Field_Logs/why_we_have_only_just_started.png)
-    - [`🍄_every_rule_is_wrong_or_questioned.md`](Disruption_Kit/Field_Logs/🍄_every_rule_is_wrong_or_questioned.md)
     - [`🍄_in_wonderland_but_worse.md`](Disruption_Kit/Field_Logs/🍄_in_wonderland_but_worse.md)
     - [`🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.PNG`](Disruption_Kit/Field_Logs/🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.PNG)
     - [`🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.md`](Disruption_Kit/Field_Logs/🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.md)
