@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 03:59:48 UTC_
+_Generated on 2025-12-13 04:45:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3036,6 +3036,7 @@ _Generated on 2025-12-13 03:59:48 UTC_
       - [`📊_visibility_weighting_and_synthetic_clustering.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📊_visibility_weighting_and_synthetic_clustering.md)
       - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
       - [`🔮_visibility_collapse_of_dissenting_bodies.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)
+      - [`🥮_linguicide_across_platforms_cantonese_and_arabic_as_case_studies.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🥮_linguicide_across_platforms_cantonese_and_arabic_as_case_studies.md)
       - [`🧨_algorithmic_projection_white_male_insecurity.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🧨_algorithmic_projection_white_male_insecurity.md)
       - [`🪩_algorithmic_proximity_and_accidental_truth_machine.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🪩_algorithmic_proximity_and_accidental_truth_machine.md)
     - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/)
@@ -3228,7 +3229,6 @@ _Generated on 2025-12-13 03:59:48 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md`](Polaris_Nest/Git_Intake_Drawer/🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md)
     - [`🥮_tonal_soverignity.md`](Polaris_Nest/Git_Intake_Drawer/🥮_tonal_soverignity.md)
     - [`🥸_OSS117_operational_cost_of_cultural_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/🥸_OSS117_operational_cost_of_cultural_ignorance.md)
     - [`🥸_paid_male_gossipers.md`](Polaris_Nest/Git_Intake_Drawer/🥸_paid_male_gossipers.md)
