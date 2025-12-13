@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:55:40 UTC_
+_Generated on 2025-12-13 18:56:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1493,6 +1493,7 @@ _Generated on 2025-12-13 18:55:40 UTC_
       - [`🍄_origin_points.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍄_origin_points.md)
       - [`🍄_still_leaking.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍄_still_leaking.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
+      - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
       - [`🫤_the_body_is_flagging.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🫤_the_body_is_flagging.md)
     - [**20251201_December_2025/**](Disruption_Kit/Field_Logs/20251201_December_2025/)
       - [`20251201_normalityish.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251201_normalityish.md)
@@ -2371,7 +2372,6 @@ _Generated on 2025-12-13 18:55:40 UTC_
     - [`🦤_romance_will_bot_save_you.md`](Disruption_Kit/Field_Logs/🦤_romance_will_bot_save_you.md)
     - [`🦩_no_cidt_no_glow_up.md`](Disruption_Kit/Field_Logs/🦩_no_cidt_no_glow_up.md)
     - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.PNG`](Disruption_Kit/Field_Logs/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.PNG)
-    - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
     - [`🧃_thinking_about_restoring_that_essay.md`](Disruption_Kit/Field_Logs/🧃_thinking_about_restoring_that_essay.md)
     - [`🧄_superinjunction_or_jailbreak_lets_play.md`](Disruption_Kit/Field_Logs/🧄_superinjunction_or_jailbreak_lets_play.md)
     - [`🧄_superinjunction_or_jailbreak_lets_play_1.PNG`](Disruption_Kit/Field_Logs/🧄_superinjunction_or_jailbreak_lets_play_1.PNG)
