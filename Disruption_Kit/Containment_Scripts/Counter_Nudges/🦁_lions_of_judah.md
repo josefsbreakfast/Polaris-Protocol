@@ -1,6 +1,6 @@
 # 🦁 Lions of Judah  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*A literary-Hebrew survivor invocation of endurance, lineage, and refusal.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-13  
+*A literary-Hebrew survivor invocation of endurance, lineage, and refusal.*  
 
 ---
 
@@ -50,8 +50,8 @@ hebrew poetry, biblical register, lions of judah, kabbalah, survivor refusal, pr
 ---
 
 ## 🏮 Footer  
-*Lions of Judah* is a living node of the Polaris Protocol.  
+*🦁 Lions of Judah* is a living node of the Polaris Protocol.  
 It preserves a bilingual declaration of survival, metaphysics, and refusal — linking  
 biblical lineage to contemporary survivor poetics.
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-13_
