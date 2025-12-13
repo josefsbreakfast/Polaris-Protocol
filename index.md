@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:16:30 UTC_
+_Generated on 2025-12-13 20:17:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -378,6 +378,7 @@ _Generated on 2025-12-13 20:16:30 UTC_
         - [`🌀_recursive_risk_logic_in_private_intelligence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_recursive_risk_logic_in_private_intelligence.md)
         - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
         - [`🌦️_hope_for_the_best_expect_the_worst.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌦️_hope_for_the_best_expect_the_worst.md)
+        - [`🏛️_oversight_capacity_viability_check.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🏛️_oversight_capacity_viability_check.md)
         - [`💷_procurement_culture_and_departmental_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💷_procurement_culture_and_departmental_clashes.md)
         - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💷_procurement_culture_dept_clashes.md)
         - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💸_repression_cost_capital.md)
