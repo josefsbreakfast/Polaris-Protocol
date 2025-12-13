@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:18:43 UTC_
+_Generated on 2025-12-13 20:20:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2940,6 +2940,7 @@ _Generated on 2025-12-13 20:18:43 UTC_
       - [`⚖️_plausible_deniability_exploits.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_plausible_deniability_exploits.md)
       - [`⚖️_schmittian_logic_in_policing_practice.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md)
       - [`⚡️_citizen_polaris.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚡️_citizen_polaris.md)
+      - [`🌀_authoritarian_capture_lifecycle.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)
       - [`🌀_loop_notes_on_ai_language.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_loop_notes_on_ai_language.md)
       - [`🌋_escalation_drift_in_complex_datasets.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌋_escalation_drift_in_complex_datasets.md)
       - [`🌫️_uncertainty_branch_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌫️_uncertainty_branch_logic.md)
