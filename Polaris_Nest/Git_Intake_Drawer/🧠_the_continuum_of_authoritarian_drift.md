@@ -1,6 +1,6 @@
 # 🧠 The Continuum of Authoritarian Drift  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent’s structure places the UK on a continuum of authoritarian drift, showing the step-by-step progression through which democratic societies erode into surveillance-led, behaviour-policing regimes.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-13  
+*How Prevent’s structure places the UK on a continuum of authoritarian drift, showing the step-by-step progression through which democratic societies erode into surveillance-led, behaviour-policing regimes.*  
 
 ---
 
@@ -249,4 +249,4 @@ It maps the step-by-step progression that Prevent exemplifies — showing how be
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-13_
