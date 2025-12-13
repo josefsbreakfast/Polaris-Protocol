@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:51:56 UTC_
+_Generated on 2025-12-13 18:52:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1446,6 +1446,7 @@ _Generated on 2025-12-13 18:51:56 UTC_
       - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌹_to_the_red_roses.md)
       - [`🍉_chatgpt_is_allergic_to_doikeyt.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍉_chatgpt_is_allergic_to_doikeyt.md)
       - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
+      - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
       - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
@@ -2049,7 +2050,6 @@ _Generated on 2025-12-13 18:51:56 UTC_
     - [`🎣_fishing_for_photo_access_permissions_as_usual.PNG`](Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.PNG)
     - [`🎣_fishing_for_photo_access_permissions_as_usual.md`](Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.md)
     - [`🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md`](Disruption_Kit/Field_Logs/🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md)
-    - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](Disruption_Kit/Field_Logs/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
     - [`🎪_can_anyone_on_mirrors_cover_ya_boys_shift.jpg`](Disruption_Kit/Field_Logs/🎪_can_anyone_on_mirrors_cover_ya_boys_shift.jpg)
     - [`🎪_easy_appeasement_strategy.md`](Disruption_Kit/Field_Logs/🎪_easy_appeasement_strategy.md)
     - [`🎪_enjoy_the_chat_on_the_14th.md`](Disruption_Kit/Field_Logs/🎪_enjoy_the_chat_on_the_14th.md)
