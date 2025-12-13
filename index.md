@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 04:56:27 UTC_
+_Generated on 2025-12-13 04:58:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1375,6 +1375,7 @@ _Generated on 2025-12-13 04:56:27 UTC_
       - [`🔥_anger_as_signal.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🔥_anger_as_signal.md)
       - [`🔮_seance_protocol.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🔮_seance_protocol.md)
       - [`🛠_practical_resilience_nodes.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🛠_practical_resilience_nodes.md)
+      - [`🦁_lions_of_judah.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🦁_lions_of_judah.md)
       - [`🧨_counter_nudge_testimony.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_counter_nudge_testimony.md)
       - [`🧨_nudgers_get_nudged.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_nudgers_get_nudged.md)
       - [`🧨_polite_post_containment_probe.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_polite_post_containment_probe.md)
@@ -3235,7 +3236,6 @@ _Generated on 2025-12-13 04:56:27 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🦁_lions_of_judah.md`](Polaris_Nest/Git_Intake_Drawer/🦁_lions_of_judah.md)
     - [`🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md`](Polaris_Nest/Git_Intake_Drawer/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)
     - [`🦂_racialised_entitlement_violation.md`](Polaris_Nest/Git_Intake_Drawer/🦂_racialised_entitlement_violation.md)
     - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
