@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 05:02:35 UTC_
+_Generated on 2025-12-13 05:04:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2689,6 +2689,7 @@ _Generated on 2025-12-13 05:02:35 UTC_
       - [`🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
+      - [`🧊_hidden_prevent_unseen_side.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧊_hidden_prevent_unseen_side.md)
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
       - [`🧠_behavioral_reengagement_as_containment_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_reengagement_as_containment_loop.md)
       - [`🧠_gendered_and_racialised_prevent_channel_misuse.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_gendered_and_racialised_prevent_channel_misuse.md)
@@ -3243,7 +3244,6 @@ _Generated on 2025-12-13 05:02:35 UTC_
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
-    - [`🧊_hidden_prevent_unseen_side.md`](Polaris_Nest/Git_Intake_Drawer/🧊_hidden_prevent_unseen_side.md)
     - [`🧊_recalibrating_trust_after_racialised_gender_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧊_recalibrating_trust_after_racialised_gender_harm.md)
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧊_the_bunker_has_no_vibes.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_bunker_has_no_vibes.md)
