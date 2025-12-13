@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 00:00:14 UTC_
+_Generated on 2025-12-13 00:01:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2940,6 +2940,7 @@ _Generated on 2025-12-13 00:00:14 UTC_
       - [`🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md)
       - [`🤝_polite_containment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤝_polite_containment.md)
       - [`🤡_kompromat_own_goals.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤡_kompromat_own_goals.md)
+      - [`🤡_lsso_spoof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤡_lsso_spoof.md)
       - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🦤_how_the_right_accidentally_infiltrated_itself.md)
       - [`🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md)
       - [`🧠_how_bad_actors_incriminate_themselves.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_how_bad_actors_incriminate_themselves.md)
@@ -3218,7 +3219,6 @@ _Generated on 2025-12-13 00:00:14 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🤡_lsso_spoof.md`](Polaris_Nest/Git_Intake_Drawer/🤡_lsso_spoof.md)
     - [`🤦‍♀️_operation_shande.md`](Polaris_Nest/Git_Intake_Drawer/🤦‍♀️_operation_shande.md)
     - [`🤫_collective_risk_silence_loop.md`](Polaris_Nest/Git_Intake_Drawer/🤫_collective_risk_silence_loop.md)
     - [`🥀_the_politics_of_male_loneliness.md`](Polaris_Nest/Git_Intake_Drawer/🥀_the_politics_of_male_loneliness.md)
