@@ -1,6 +1,6 @@
 # 🤡 Low-Skill Spoof Operator (LSSO)  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
-*Behavioural archetype for burner-email blackmail attempts built on misinterpreted data and ego projection.*
+**First created:** 2025-12-08 | **Last updated:** 2025-12-13  
+*Behavioural archetype for burner-email blackmail attempts built on misinterpreted data and ego projection.*  
 
 ---
 
@@ -109,11 +109,12 @@ spoofing archetype, projection leak, burner account behaviour, low skill adversa
 *🤡 Low-Skill Spoof Operator (LSSO)* is a living node of the Polaris Protocol.  
 It defines a recurrent behavioural archetype in falsified communications: the low-skill actor who, lacking technical ability, relies on gossip, projection, and burner accounts, revealing their own psychological state more clearly than the target’s.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🫠 Projection Leak Signature] — diagnostic pattern of self-incriminating detail  
 > - [🤡 Kompromat Own-Goals] — narrative collapse mechanisms  
 > - [Narrative & Psych Ops] — interpretive sabotage and behavioural cues  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-13_
