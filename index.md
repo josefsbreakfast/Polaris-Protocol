@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 06:30:29 UTC_
+_Generated on 2025-12-13 06:32:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2868,6 +2868,7 @@ _Generated on 2025-12-13 06:30:29 UTC_
       - [`🦂_racialised_entitlement_violation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦂_racialised_entitlement_violation.md)
       - [`🧙‍♀️_witch_logic_diagnostic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)
       - [`🧠_extraction_loop_data_vs_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_extraction_loop_data_vs_story.md)
+      - [`🧠_linguistic_containment_and_sexual_violence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_linguistic_containment_and_sexual_violence.md)
       - [`🧨_trace_resistance_framework.yaml`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_trace_resistance_framework.yaml)
       - [`🧩_repairing_trust_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧩_repairing_trust_chains.md)
       - [`🧱_keystone_dependency_trace.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧱_keystone_dependency_trace.md)
@@ -3262,7 +3263,6 @@ _Generated on 2025-12-13 06:30:29 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_linguistic_containment_and_sexual_violence.md`](Polaris_Nest/Git_Intake_Drawer/🧠_linguistic_containment_and_sexual_violence.md)
     - [`🧠_ministry_of_misreadings.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ministry_of_misreadings.md)
     - [`🧠_misclassification_via_trauma_reflexes.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassification_via_trauma_reflexes.md)
     - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassifying_intellectual_intimacy.md)
