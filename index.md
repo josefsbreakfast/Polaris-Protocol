@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:20:31 UTC_
+_Generated on 2025-12-13 20:21:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -801,6 +801,7 @@ _Generated on 2025-12-13 20:20:31 UTC_
         - [`⚖️_recourse_for_behavioural_containment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_recourse_for_behavioural_containment.md)
         - [`⚡_why_some_people_become_systemic_lightning_rods.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚡_why_some_people_become_systemic_lightning_rods.md)
         - [`✂🌹_machine_pruning_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/✂🌹_machine_pruning_logic.md)
+        - [`🌍_international_authoritarian_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🌍_international_authoritarian_patterns.md)
         - [`🌿_the_paradox_of_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🌿_the_paradox_of_recognition.md)
         - [`🎶_sonata_server_sympathies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
         - [`💍_marriage_as_state_containment_trope.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/💍_marriage_as_state_containment_trope.md)
