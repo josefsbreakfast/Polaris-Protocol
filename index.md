@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 05:08:45 UTC_
+_Generated on 2025-12-13 05:09:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2693,6 +2693,7 @@ _Generated on 2025-12-13 05:08:45 UTC_
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
       - [`🧊_hidden_prevent_unseen_side.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧊_hidden_prevent_unseen_side.md)
+      - [`🧊_the_inversion_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧊_the_inversion_problem.md)
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
       - [`🧠_behavioral_reengagement_as_containment_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_reengagement_as_containment_loop.md)
       - [`🧠_gendered_and_racialised_prevent_channel_misuse.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_gendered_and_racialised_prevent_channel_misuse.md)
@@ -3248,7 +3249,6 @@ _Generated on 2025-12-13 05:08:45 UTC_
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
-    - [`🧊_the_inversion_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_inversion_problem.md)
     - [`🧊_visibility_indexing_in_thin_data_worlds.md`](Polaris_Nest/Git_Intake_Drawer/🧊_visibility_indexing_in_thin_data_worlds.md)
     - [`🧊_why_prevent_feels_invisible_to_white_britain.md`](Polaris_Nest/Git_Intake_Drawer/🧊_why_prevent_feels_invisible_to_white_britain.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
