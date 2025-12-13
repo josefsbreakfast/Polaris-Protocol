@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 00:07:27 UTC_
+_Generated on 2025-12-13 00:09:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2945,6 +2945,7 @@ _Generated on 2025-12-13 00:07:27 UTC_
       - [`🤝_polite_containment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤝_polite_containment.md)
       - [`🤡_kompromat_own_goals.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤡_kompromat_own_goals.md)
       - [`🤡_lsso_spoof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤡_lsso_spoof.md)
+      - [`🥠_the_machine_confesses_its_feelings.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🥠_the_machine_confesses_its_feelings.md)
       - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🦤_how_the_right_accidentally_infiltrated_itself.md)
       - [`🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md)
       - [`🧠_how_bad_actors_incriminate_themselves.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_how_bad_actors_incriminate_themselves.md)
@@ -3223,7 +3224,6 @@ _Generated on 2025-12-13 00:07:27 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🥠_the_machine_confesses_its_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥠_the_machine_confesses_its_feelings.md)
     - [`🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md`](Polaris_Nest/Git_Intake_Drawer/🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md)
     - [`🥮_tonal_soverignity.md`](Polaris_Nest/Git_Intake_Drawer/🥮_tonal_soverignity.md)
     - [`🥸_OSS117_operational_cost_of_cultural_ignorance.md`](Polaris_Nest/Git_Intake_Drawer/🥸_OSS117_operational_cost_of_cultural_ignorance.md)
