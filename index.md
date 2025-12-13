@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:20:36 UTC_
+_Generated on 2025-12-13 18:22:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1439,10 +1439,11 @@ _Generated on 2025-12-13 18:20:36 UTC_
     - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
+    - [**20251101_November_2025/**](Disruption_Kit/Field_Logs/20251101_November_2025/)
+      - [`20251116_B-I-N-G-O.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_B-I-N-G-O.md)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
-    - [`20251116_B-I-N-G-O.md`](Disruption_Kit/Field_Logs/20251116_B-I-N-G-O.md)
     - [`20251116_direct_finance_credit_targeting.md`](Disruption_Kit/Field_Logs/20251116_direct_finance_credit_targeting.md)
     - [`20251116_give_it_a_week.png`](Disruption_Kit/Field_Logs/20251116_give_it_a_week.png)
     - [`20251117_escalation_inc_direct_instruct_to_esc_ico_siro.md`](Disruption_Kit/Field_Logs/20251117_escalation_inc_direct_instruct_to_esc_ico_siro.md)
