@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:07:32 UTC_
+_Generated on 2025-12-13 20:08:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2730,6 +2730,7 @@ _Generated on 2025-12-13 20:07:32 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
       - [`⚙️_engines_of_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/⚙️_engines_of_containment.md)
       - [`🎪_when_the_armour_cracks.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🎪_when_the_armour_cracks.md)
+      - [`🏛️_oversight_collapse_under_systemic_attrition.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🏛️_oversight_collapse_under_systemic_attrition.md)
       - [`📊_analytics_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_analytics_as_signal.md)
       - [`📊_from_data_misuse_to_white_collar_breach.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_from_data_misuse_to_white_collar_breach.md)
       - [`🔴_system_threshold_and_false_pretext.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🔴_system_threshold_and_false_pretext.md)
