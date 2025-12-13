@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 17:49:02 UTC_
+_Generated on 2025-12-13 17:51:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2829,6 +2829,7 @@ _Generated on 2025-12-13 17:49:02 UTC_
       - [`🧠_institutional_perception_the_no_win_zone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_institutional_perception_the_no_win_zone.md)
       - [`🧠_misclassification_via_trauma_reflexes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_misclassification_via_trauma_reflexes.md)
       - [`🧠_psychology_of_volunteer_surveillance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_psychology_of_volunteer_surveillance.md)
+      - [`🧠_rationalist_to_alt_right_drift_pipeline.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_rationalist_to_alt_right_drift_pipeline.md)
       - [`🧿_persistent_discrediting_force.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md)
       - [`🩰_escaping_the_frame.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🩰_escaping_the_frame.md)
       - [`🪞_transparent_interference.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪞_transparent_interference.md)
@@ -3271,7 +3272,6 @@ _Generated on 2025-12-13 17:49:02 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_rationalist_to_alt_right_drift_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_rationalist_to_alt_right_drift_pipeline.md)
     - [`🧠_reframing_loops_in_ml_products_and_dementia.md`](Polaris_Nest/Git_Intake_Drawer/🧠_reframing_loops_in_ml_products_and_dementia.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧠_shame_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧠_shame_economics.md)
