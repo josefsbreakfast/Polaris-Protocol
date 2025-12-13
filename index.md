@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 03:57:28 UTC_
+_Generated on 2025-12-13 03:59:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2429,6 +2429,7 @@ _Generated on 2025-12-13 03:57:28 UTC_
       - [`⚙️_verification_and_watermarking_standards.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚙️_verification_and_watermarking_standards.md)
       - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚡_rapid_response_forensic_protocol_first_24_hours.md)
       - [`🎙️_cloneproof_protocol.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎙️_cloneproof_protocol.md)
+      - [`🎣_greedy_crawler_or_normal_fishing.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎣_greedy_crawler_or_normal_fishing.md)
       - [`🎣_how_to_spot_greedy_crawlers.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎣_how_to_spot_greedy_crawlers.md)
       - [`📋_dual_officer_clarification_request.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_dual_officer_clarification_request.md)
       - [`📋_ico_silence_recovery_checklist.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_ico_silence_recovery_checklist.md)
