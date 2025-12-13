@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:47:25 UTC_
+_Generated on 2025-12-13 18:48:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1439,6 +1439,8 @@ _Generated on 2025-12-13 18:47:25 UTC_
     - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
+    - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
+      - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ai_interference_vs_baseline_generation.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
       - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌹_to_the_red_roses.md)
       - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
@@ -2177,7 +2179,6 @@ _Generated on 2025-12-13 18:47:25 UTC_
     - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Disruption_Kit/Field_Logs/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_access_throttle_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_access_throttle_field_log_2025-09-29.md)
-    - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/🛰️_ai_interference_vs_baseline_generation.md)
     - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_algorithmic_foil_recycling_2025-10-03.md)
     - [`🛰️_all_it_took_2025-09-06.md`](Disruption_Kit/Field_Logs/🛰️_all_it_took_2025-09-06.md)
     - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
