@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:38:42 UTC_
+_Generated on 2025-12-13 18:39:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1439,6 +1439,8 @@ _Generated on 2025-12-13 18:38:42 UTC_
     - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
+    - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
+      - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
     - [**20251101_November_2025/**](Disruption_Kit/Field_Logs/20251101_November_2025/)
       - [`20251116_B-I-N-G-O.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_B-I-N-G-O.md)
       - [`20251116_direct_finance_credit_targeting.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_direct_finance_credit_targeting.md)
@@ -2134,7 +2136,6 @@ _Generated on 2025-12-13 18:38:42 UTC_
     - [`🕳️_i_aint_saying_the_gc_are_goldiggers.md`](Disruption_Kit/Field_Logs/🕳️_i_aint_saying_the_gc_are_goldiggers.md)
     - [`🕸️_rights_lab_ingenuity_centre_imh_bridging_map.md`](Disruption_Kit/Field_Logs/🕸️_rights_lab_ingenuity_centre_imh_bridging_map.md)
     - [`🕸️_shabbos.md`](Disruption_Kit/Field_Logs/🕸️_shabbos.md)
-    - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/🖍_weirdest_yom_kippur.md)
     - [`🗂️_signature_silence_drift.md`](Disruption_Kit/Field_Logs/🗂️_signature_silence_drift.md)
     - [`🗒️_being_cross_at_gung_ho_nudge.md`](Disruption_Kit/Field_Logs/🗒️_being_cross_at_gung_ho_nudge.md)
     - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/🗒️_conversation_drift_and_anchors.md)
