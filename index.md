@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:22:54 UTC_
+_Generated on 2025-12-13 18:25:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1441,20 +1441,20 @@ _Generated on 2025-12-13 18:22:54 UTC_
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20251101_November_2025/**](Disruption_Kit/Field_Logs/20251101_November_2025/)
       - [`20251116_B-I-N-G-O.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_B-I-N-G-O.md)
+      - [`20251116_direct_finance_credit_targeting.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_direct_finance_credit_targeting.md)
+      - [`20251116_give_it_a_week.png`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_give_it_a_week.png)
+      - [`20251117_escalation_inc_direct_instruct_to_esc_ico_siro.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251117_escalation_inc_direct_instruct_to_esc_ico_siro.md)
+      - [`20251117_evidence_blocade.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251117_evidence_blocade.md)
+      - [`20251118_does_openai_have_capital_interest_in_prevent.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251118_does_openai_have_capital_interest_in_prevent.md)
+      - [`20251118_stacked_electronic_payments_errors.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251118_stacked_electronic_payments_errors.md)
+      - [`20251119_bones_are_stuck_together.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251119_bones_are_stuck_together.md)
+      - [`20251119_definitive_leak_dates.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251119_definitive_leak_dates.md)
+      - [`20251119_regarding_the_highland_seat.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251119_regarding_the_highland_seat.md)
+      - [`20251119_the_ridiculousness_continues.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251119_the_ridiculousness_continues.md)
+      - [`20251119_why_i_use_the_term_the_men_tm.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251119_why_i_use_the_term_the_men_tm.md)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
-    - [`20251116_direct_finance_credit_targeting.md`](Disruption_Kit/Field_Logs/20251116_direct_finance_credit_targeting.md)
-    - [`20251116_give_it_a_week.png`](Disruption_Kit/Field_Logs/20251116_give_it_a_week.png)
-    - [`20251117_escalation_inc_direct_instruct_to_esc_ico_siro.md`](Disruption_Kit/Field_Logs/20251117_escalation_inc_direct_instruct_to_esc_ico_siro.md)
-    - [`20251117_evidence_blocade.md`](Disruption_Kit/Field_Logs/20251117_evidence_blocade.md)
-    - [`20251118_does_openai_have_capital_interest_in_prevent.md`](Disruption_Kit/Field_Logs/20251118_does_openai_have_capital_interest_in_prevent.md)
-    - [`20251118_stacked_electronic_payments_errors.md`](Disruption_Kit/Field_Logs/20251118_stacked_electronic_payments_errors.md)
-    - [`20251119_bones_are_stuck_together.md`](Disruption_Kit/Field_Logs/20251119_bones_are_stuck_together.md)
-    - [`20251119_definitive_leak_dates.md`](Disruption_Kit/Field_Logs/20251119_definitive_leak_dates.md)
-    - [`20251119_regarding_the_highland_seat.md`](Disruption_Kit/Field_Logs/20251119_regarding_the_highland_seat.md)
-    - [`20251119_the_ridiculousness_continues.md`](Disruption_Kit/Field_Logs/20251119_the_ridiculousness_continues.md)
-    - [`20251119_why_i_use_the_term_the_men_tm.md`](Disruption_Kit/Field_Logs/20251119_why_i_use_the_term_the_men_tm.md)
     - [`20251120_prevent_the_catfishing.md`](Disruption_Kit/Field_Logs/20251120_prevent_the_catfishing.md)
     - [`20251120_the_quicksand_is_quicksand.md`](Disruption_Kit/Field_Logs/20251120_the_quicksand_is_quicksand.md)
     - [`20251121_oh_senior_management.md`](Disruption_Kit/Field_Logs/20251121_oh_senior_management.md)
