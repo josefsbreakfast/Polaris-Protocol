@@ -1,6 +1,6 @@
 # 🧠 Psychology of Volunteer Surveillance  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
-*Diagnostic account of how volunteer surveillance networks self-select, reinforce, and sustain particular psychological and moral types.*
+**First created:** 2025-11-06 | **Last updated:** 2025-12-13  
+*Diagnostic account of how volunteer surveillance networks self-select, reinforce, and sustain particular psychological and moral types.*  
 
 ---
 
@@ -66,14 +66,14 @@ volunteer surveillance, citizen policing, moral psychology, self-selection, civi
 
 ## 🏮 Footer  
 
-*Psychology of Volunteer Surveillance* is a living node of the Polaris Protocol.  
+*🧠 Psychology of Volunteer Surveillance* is a living node of the Polaris Protocol.  
 It traces how moral framing and feedback design shape participation in civic monitoring schemes, producing enduring psychological types optimised for control rather than care.  
 
 > 📡 Cross-references:  
-> - [📡 Civil Society Protest Monitoring Unit — CAA DEMU](../Field_Logs/📡_civil_society_protest_monitoring_unit_CAA_DEMU.md) — case study of volunteer protest monitoring  
-> - [🎓 Safeguarding as Surveillance](../Big_Picture_Protocols/🎓_safeguarding_as_surveillance.md) — how welfare frameworks become observation grids  
-> - [⚖️ Containment Thresholds](../Disruption_Kit/Big_Picture_Protocols/⚖️_containment_thresholds.md) — diagnostic on when civic monitoring becomes coercive  
+> - [📡 Civil Society Protest Monitoring Unit — CAA DEMU] — *case study of volunteer protest monitoring*  
+> - [🎓 Safeguarding as Surveillance] — *how welfare frameworks become observation grids*  
+> - [⚖️ Containment Thresholds] — *diagnostic on when civic monitoring becomes coercive*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-13_
