@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 19:50:20 UTC_
+_Generated on 2025-12-13 19:59:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2719,6 +2719,7 @@ _Generated on 2025-12-13 19:50:20 UTC_
       - [`🧠_the_continuum_of_authoritarian_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
+      - [`🪖_authoritarian_capture_of_policing_institutions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md)
       - [`🪢_refusal_as_resistance_not_risk.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪢_refusal_as_resistance_not_risk.md)
       - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪫_why_we_cannot_know_who_prevent_targets.md)
       - [`🪼_plausible_deniability_rhetoric.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪼_plausible_deniability_rhetoric.md)
