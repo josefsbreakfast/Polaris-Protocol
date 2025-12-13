@@ -1,6 +1,6 @@
 # 🧠 Misclassification Through Trauma Reflexes  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How survivor cognitive patterns are misread as hostility, risk, or political intent.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-13  
+*How survivor cognitive patterns are misread as hostility, risk, or political intent.*  
 
 ---
 
@@ -167,4 +167,5 @@ It documents how survivor pattern-recognition, urgency, and clarity are misinter
 > - `🛰️ Metadata_Sabotage_Network/🎭 Narrative_And_Psych_Ops`
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-16_
+
+_Last updated: 2025-12-13_
