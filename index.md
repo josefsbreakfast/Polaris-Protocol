@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 04:51:43 UTC_
+_Generated on 2025-12-13 04:52:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -855,6 +855,7 @@ _Generated on 2025-12-13 04:51:43 UTC_
         - [`🚀_escalation_vs_play_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🛰️_ally_productivity_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🛰️_ally_productivity_paradox.md)
         - [`🥸_oss_117_and_the_operational_cost_of_cultural_ignorance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🥸_oss_117_and_the_operational_cost_of_cultural_ignorance.md)
+        - [`🥺_we_are_just_a_little_island_honest.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🥺_we_are_just_a_little_island_honest.md)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
@@ -3232,7 +3233,6 @@ _Generated on 2025-12-13 04:51:43 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🥺_we_are_just_a_little_island_honest.md`](Polaris_Nest/Git_Intake_Drawer/🥺_we_are_just_a_little_island_honest.md)
     - [`🦁_circle_of_security_life.md`](Polaris_Nest/Git_Intake_Drawer/🦁_circle_of_security_life.md)
     - [`🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md`](Polaris_Nest/Git_Intake_Drawer/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md)
     - [`🦁_lions_of_judah.md`](Polaris_Nest/Git_Intake_Drawer/🦁_lions_of_judah.md)
