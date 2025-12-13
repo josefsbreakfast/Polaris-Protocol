@@ -1,6 +1,6 @@
 # 🧠 Reframing Loops in ML Products  
-**First created:** 2025-11-21 | **Last updated:** 2025-11-21  
-*How safety-filtered machine learning models accidentally increase agitation, using dementia as a case study.*
+**First created:** 2025-11-21 | **Last updated:** 2025-12-13  
+*How safety-filtered machine learning models accidentally increase agitation, using dementia as a case study.*  
 
 ---
 
@@ -226,14 +226,15 @@ minimise harm by maintaining *clarity*, not by dulling edges.
 
 ## 🏮 Footer  
 
-*Reframing Loops in ML Products* is a living Polaris Protocol node analysing ML misalignment and cognitive vulnerability.  
+*🧠 Reframing Loops in ML Products* is a living Polaris Protocol node analysing ML misalignment and cognitive vulnerability.  
 It supports future safety work, AI governance, and accessibility design.
 
 > 📡 Cross-references:
+> 
 > - 🧩 *Metadata Sabotage Network / Cognitive Distortion Nodes*  
 > - 🧠 *Psychological Containment / Grounding Mode*  
 > - 🪫 *Integrity Drift / ML Safety Diagnostics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-21_
+_Last updated: 2025-12-13_
