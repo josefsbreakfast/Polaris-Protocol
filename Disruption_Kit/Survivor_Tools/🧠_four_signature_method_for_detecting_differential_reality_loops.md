@@ -1,8 +1,6 @@
-File: 🧠_four_signature_differential_reality_loops.md  
-
 # 🧠 Four-Signature Method for Detecting Differential Reality Loops  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*A practical framework for groups to evidence cluster-targeted behavioural pressure without needing vendor logs or state access.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-13  
+*A practical framework for groups to evidence cluster-targeted behavioural pressure without needing vendor logs or state access.*  
 
 ---
 
@@ -275,14 +273,14 @@ differential reality, behavioural shaping, cluster targeting, evidence gathering
 
 ## 🏮 Footer  
 
-**🧠 Four-Signature Method for Detecting Differential Reality Loops** is a living node of the **Polaris Protocol**. It offers a structured way for groups to document and communicate invisible pressure, without needing direct access to the infrastructures that generate it. The method is intentionally low-tech and survivor-led, designed to be adapted, critiqued, and extended by those living inside these loops.  
+*🧠 Four-Signature Method for Detecting Differential Reality Loops* is a living node of the **Polaris Protocol**. It offers a structured way for groups to document and communicate invisible pressure, without needing direct access to the infrastructures that generate it. The method is intentionally low-tech and survivor-led, designed to be adapted, critiqued, and extended by those living inside these loops.  
 
 > 📡 Cross-references:
 > 
-> - [🧿 Targeting Logic & Metadata Signatures](../Metadata_Sabotage_Network/🧿_targeting_logic_metadata_signatures_index.md) — *core patterns and signatures used to detect hostile or negligent targeting architectures.*  
-> - [🌀 UK as a Low-Cost Influence Environment](../Big_Picture_Protocols/🌀_uk_low_cost_influence_environment.md) — *macro-level framing of why small democracies like the UK are especially vulnerable to subtle influence.*  
-> - [📿 Cluster-Specific Harms in Probabilistic Targeting](../Data_Risks/📿_cluster_specific_harms_probabilistic_targeting.md) — *deep-dive on who gets hurt first and worst by these systems.*
+> - [🧿 Targeting Logic & Metadata Signatures] — *core patterns and signatures used to detect hostile or negligent targeting architectures.*  
+> - [🌀 UK as a Low-Cost Influence Environment] — *macro-level framing of why small democracies like the UK are especially vulnerable to subtle influence.*  
+> - [📿 Cluster-Specific Harms in Probabilistic Targeting] — *deep-dive on who gets hurt first and worst by these systems.*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-12-13_
