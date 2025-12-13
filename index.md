@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:45:59 UTC_
+_Generated on 2025-12-13 18:46:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1440,6 +1440,7 @@ _Generated on 2025-12-13 18:45:59 UTC_
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
+      - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌹_to_the_red_roses.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
     - [**20251101_November_2025/**](Disruption_Kit/Field_Logs/20251101_November_2025/)
       - [`20251116_B-I-N-G-O.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_B-I-N-G-O.md)
@@ -2023,7 +2024,6 @@ _Generated on 2025-12-13 18:45:59 UTC_
     - [`🌀_the_bottleneck_reflects.md`](Disruption_Kit/Field_Logs/🌀_the_bottleneck_reflects.md)
     - [`🌋_smooth_as_salt.md`](Disruption_Kit/Field_Logs/🌋_smooth_as_salt.md)
     - [`🌹_moving_plan.md`](Disruption_Kit/Field_Logs/🌹_moving_plan.md)
-    - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/🌹_to_the_red_roses.md)
     - [`🌾_dear_esteemed_colleagues.md`](Disruption_Kit/Field_Logs/🌾_dear_esteemed_colleagues.md)
     - [`🍄_every_rule_is_wrong_or_questioned.md`](Disruption_Kit/Field_Logs/🍄_every_rule_is_wrong_or_questioned.md)
     - [`🍄_in_wonderland_but_worse.md`](Disruption_Kit/Field_Logs/🍄_in_wonderland_but_worse.md)
