@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 00:01:10 UTC_
+_Generated on 2025-12-13 00:02:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -173,6 +173,7 @@ _Generated on 2025-12-13 00:01:10 UTC_
         - [`🕊️_positive_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕊️_positive_drift.md)
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
         - [`🛡️_constructed_immunity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🛡️_constructed_immunity.md)
+        - [`🤫_collective_risk_silence_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🤫_collective_risk_silence_loop.md)
         - [`🦠_openai_uk_due_diligence_autoimmunity_map.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_openai_uk_due_diligence_autoimmunity_map.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
         - [`🧭_reflexive_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧭_reflexive_risk.md)
@@ -3220,7 +3221,6 @@ _Generated on 2025-12-13 00:01:10 UTC_
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🤦‍♀️_operation_shande.md`](Polaris_Nest/Git_Intake_Drawer/🤦‍♀️_operation_shande.md)
-    - [`🤫_collective_risk_silence_loop.md`](Polaris_Nest/Git_Intake_Drawer/🤫_collective_risk_silence_loop.md)
     - [`🥀_the_politics_of_male_loneliness.md`](Polaris_Nest/Git_Intake_Drawer/🥀_the_politics_of_male_loneliness.md)
     - [`🥗_the_platter_of_greenery_being_seen_and_not_seen.md`](Polaris_Nest/Git_Intake_Drawer/🥗_the_platter_of_greenery_being_seen_and_not_seen.md)
     - [`🥠_the_machine_confesses_its_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥠_the_machine_confesses_its_feelings.md)
