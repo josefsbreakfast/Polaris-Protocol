@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 19:06:19 UTC_
+_Generated on 2025-12-13 19:07:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1450,6 +1450,7 @@ _Generated on 2025-12-13 19:06:19 UTC_
       - [`✨_my_laughter_breaks_fibre_broadband.md`](Disruption_Kit/Field_Logs/20251001_October_2025/✨_my_laughter_breaks_fibre_broadband.md)
       - [`🇵🇸_tort_warning.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🇵🇸_tort_warning.md)
       - [`🇺🇸_bro_do_you_even_juristiction.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🇺🇸_bro_do_you_even_juristiction.md)
+      - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
       - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌹_to_the_red_roses.md)
       - [`🍉_chatgpt_is_allergic_to_doikeyt.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍉_chatgpt_is_allergic_to_doikeyt.md)
       - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
@@ -1501,6 +1502,9 @@ _Generated on 2025-12-13 19:06:19 UTC_
       - [`☢️_20251114_shatterfork_active.md`](Disruption_Kit/Field_Logs/20251101_November_2025/☢️_20251114_shatterfork_active.md)
       - [`☢️_shatterfork_update.md`](Disruption_Kit/Field_Logs/20251101_November_2025/☢️_shatterfork_update.md)
       - [`✨_why_prayer_is_still_hard.md`](Disruption_Kit/Field_Logs/20251101_November_2025/✨_why_prayer_is_still_hard.md)
+      - [`🌀_answers_on_a_postcard.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🌀_answers_on_a_postcard.md)
+      - [`🌀_crying_pros_and_cons.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🌀_crying_pros_and_cons.md)
+      - [`🌀_the_bottleneck_reflects.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🌀_the_bottleneck_reflects.md)
       - [`🍄_origin_points.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍄_origin_points.md)
       - [`🍄_still_leaking.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍄_still_leaking.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
@@ -2046,10 +2050,6 @@ _Generated on 2025-12-13 19:06:19 UTC_
     - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/⚔️_the_orientalism_is_mindblowing.md)
     - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
-    - [`🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md`](Disruption_Kit/Field_Logs/🇺🇸_get_your_segregationist_horseshit_off_our_soverign_soil.md)
-    - [`🌀_answers_on_a_postcard.md`](Disruption_Kit/Field_Logs/🌀_answers_on_a_postcard.md)
-    - [`🌀_crying_pros_and_cons.md`](Disruption_Kit/Field_Logs/🌀_crying_pros_and_cons.md)
-    - [`🌀_the_bottleneck_reflects.md`](Disruption_Kit/Field_Logs/🌀_the_bottleneck_reflects.md)
     - [`🌋_smooth_as_salt.md`](Disruption_Kit/Field_Logs/🌋_smooth_as_salt.md)
     - [`🌹_moving_plan.md`](Disruption_Kit/Field_Logs/🌹_moving_plan.md)
     - [`🌾_dear_esteemed_colleagues.md`](Disruption_Kit/Field_Logs/🌾_dear_esteemed_colleagues.md)
