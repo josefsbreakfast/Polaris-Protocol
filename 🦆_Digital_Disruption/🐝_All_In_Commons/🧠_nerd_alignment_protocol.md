@@ -1,6 +1,6 @@
 # 🧠 Nerd Alignment Protocol  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*A coordination note for the wider nerd ecosystem on how to stop a handful of rich, ungrounded tech men from tanking public trust in science, tech, and all of us.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-13  
+*A coordination note for the wider nerd ecosystem on how to stop a handful of rich, ungrounded tech men from tanking public trust in science, tech, and all of us.*  
 
 ---
 
@@ -230,7 +230,7 @@ It’s **harm reduction**.
 ---
 
 ## 🏮 Footer  
-*The Nerd Alignment Protocol* is a Polaris coordination node, inviting the wider nerd ecosystem to stop letting the wealthiest, least grounded outliers define “tech” and “science” in public.
+*🧠 The Nerd Alignment Protocol* is a Polaris coordination node, inviting the wider nerd ecosystem to stop letting the wealthiest, least grounded outliers define “tech” and “science” in public.
 
 Pairs with:  
 - 🕹️ Getting the Tech Bros Back on Script  
@@ -240,4 +240,4 @@ Pairs with:
 
 *If the billionaires can’t handle the brief, the rest of the nerds take the mic back.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-13_
