@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 06:20:21 UTC_
+_Generated on 2025-12-13 06:22:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2696,6 +2696,7 @@ _Generated on 2025-12-13 06:20:21 UTC_
       - [`🧊_the_inversion_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧊_the_inversion_problem.md)
       - [`🧊_why_prevent_feels_invisible_to_white_britain.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧊_why_prevent_feels_invisible_to_white_britain.md)
       - [`🧟‍♀️_prevent_vs_4chan.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧟‍♀️_prevent_vs_4chan.md)
+      - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧟‍♀️_zombie_channel_case_neutralisation.md)
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
       - [`🧠_behavioral_reengagement_as_containment_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_reengagement_as_containment_loop.md)
       - [`🧠_gendered_and_racialised_prevent_channel_misuse.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_gendered_and_racialised_prevent_channel_misuse.md)
@@ -3258,7 +3259,6 @@ _Generated on 2025-12-13 06:20:21 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧟‍♀️_zombie_channel_case_neutralisation.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_zombie_channel_case_neutralisation.md)
     - [`🧠_extracting_soul_from_prosocial_people.md`](Polaris_Nest/Git_Intake_Drawer/🧠_extracting_soul_from_prosocial_people.md)
     - [`🧠_four_signature_differential_reality_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧠_four_signature_differential_reality_loops.md)
     - [`🧠_institutional_weather_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutional_weather_systems.md)
