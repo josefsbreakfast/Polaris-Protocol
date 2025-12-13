@@ -1,6 +1,6 @@
 # 🥠 The Machine Confesses Its Feelings  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
-*When recommendation systems mistake gender archetypes for prophecy.*
+**First created:** 2025-10-22 | **Last updated:** 2025-12-13  
+*When recommendation systems mistake gender archetypes for prophecy.*  
 
 ---
 
@@ -82,11 +82,12 @@ algorithmic divination, gender bias, recommendation systems, heteronormativity, 
 *🥠 The Machine Confesses Its Feelings* is a living node of the Polaris Protocol.  
 It documents how predictive systems recycle cultural archetypes as emotional engagement and how intimacy becomes a metric of control.  
 
-> 📡 Cross-references:  
-> - [🎶 Banned Broadcasts Cooperative](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/) — visibility and narrative containment  
-> - [🥮 Linguicide Across Platforms](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md) — how systemic templates travel across languages  
-> - [🧠 Psychological Containment](../Metadata_Sabotage_Network/🧠_psychological_containment.md) — compliance through emotional framing  
+> 📡 Cross-references:
+> 
+> - [🎶 Banned Broadcasts Cooperative] — visibility and narrative containment  
+> - [🥮 Linguicide Across Platforms] — how systemic templates travel across languages  
+> - [🧠 Psychological Containment] — compliance through emotional framing  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-12-13_
