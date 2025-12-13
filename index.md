@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 19:02:31 UTC_
+_Generated on 2025-12-13 19:02:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1501,6 +1501,7 @@ _Generated on 2025-12-13 19:02:31 UTC_
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
       - [`🪬_regarding_suicidality.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🪬_regarding_suicidality.md)
+      - [`🪬_told_you_jewish_interwebs_was_breaking.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🪬_told_you_jewish_interwebs_was_breaking.md)
       - [`🫤_is_this_why_i_get_how_to_blow_up_pipelines.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🫤_is_this_why_i_get_how_to_blow_up_pipelines.md)
       - [`🫤_the_body_is_flagging.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🫤_the_body_is_flagging.md)
     - [**20251201_December_2025/**](Disruption_Kit/Field_Logs/20251201_December_2025/)
@@ -2435,7 +2436,6 @@ _Generated on 2025-12-13 19:02:31 UTC_
     - [`🪞_field_note_guardrail_encounter.md`](Disruption_Kit/Field_Logs/🪞_field_note_guardrail_encounter.md)
     - [`🪡_11_screenshots_and_some_stitching_later.md`](Disruption_Kit/Field_Logs/🪡_11_screenshots_and_some_stitching_later.md)
     - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Disruption_Kit/Field_Logs/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
-    - [`🪬_told_you_jewish_interwebs_was_breaking.md`](Disruption_Kit/Field_Logs/🪬_told_you_jewish_interwebs_was_breaking.md)
     - [`🪻_nice_algorithmic_stresm_reducted_oh_shit.md`](Disruption_Kit/Field_Logs/🪻_nice_algorithmic_stresm_reducted_oh_shit.md)
     - [`🪼_clock_watching_because_we_said_genocide_bad_tho.png`](Disruption_Kit/Field_Logs/🪼_clock_watching_because_we_said_genocide_bad_tho.png)
     - [`🪼_do_not_obey_in_advance_or_ai_breaks.png`](Disruption_Kit/Field_Logs/🪼_do_not_obey_in_advance_or_ai_breaks.png)
