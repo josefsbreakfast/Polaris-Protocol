@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:10:10 UTC_
+_Generated on 2025-12-13 20:11:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2720,6 +2720,7 @@ _Generated on 2025-12-13 20:10:10 UTC_
       - [`🧠_safeguarding_to_ai_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_safeguarding_to_ai_pipeline.md)
       - [`🧠_the_continuum_of_authoritarian_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
+      - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
       - [`🪖_authoritarian_capture_of_policing_institutions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md)
       - [`🪢_refusal_as_resistance_not_risk.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪢_refusal_as_resistance_not_risk.md)
