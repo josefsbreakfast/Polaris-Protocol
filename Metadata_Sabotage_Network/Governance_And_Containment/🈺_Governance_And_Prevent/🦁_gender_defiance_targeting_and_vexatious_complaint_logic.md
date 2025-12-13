@@ -1,6 +1,6 @@
 # 🦁 Gender-Defiance Targeting & Vexatious Complaint Logic  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*How systems punish women who refuse the hierarchy script.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-13  
+*How systems punish women who refuse the hierarchy script.*  
 
 ---
 
@@ -72,12 +72,13 @@ gender defiance, vexatious reporting, workplace abuse, hierarchy, narcissistic i
 ---
 
 ## 🏮 Footer  
-*Gender-Defiance Targeting & Vexatious Complaint Logic* is a living node of the Polaris Protocol.  
+*🦁 Gender-Defiance Targeting & Vexatious Complaint Logic* is a living node of the Polaris Protocol.  
 It documents the gendered predation patterns enacted through administrative processes.
 
 > 📡 Cross-references:
-> - [🩸 Big Boy Pimps Node](../🛰️Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🩸_when_little_bureaucrats_play_big_boy_pimps.md)
+> 
+> - [🩸 Big Boy Pimps Node]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-13_
