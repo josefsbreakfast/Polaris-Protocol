@@ -1,6 +1,6 @@
-# 🦂 Fanon: Symbolic Possession & Racialised Sexual Domination
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*Colonial masculinity, sexual entitlement, and the woman-as-land paradigm.*
+# 🦂 Fanon: Symbolic Possession & Racialised Sexual Domination  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-13  
+*Colonial masculinity, sexual entitlement, and the woman-as-land paradigm.*  
 
 ---
 
@@ -180,13 +180,14 @@ Fanon, symbolic possession, colonial violence, racialised sexuality, hierarchy e
 ---
 
 ## 🏮 Footer  
-*Fanon: Symbolic Possession & Racialised Sexual Domination* is a living node of the Polaris Protocol.  
+*🦂 Fanon: Symbolic Possession & Racialised Sexual Domination* is a living node of the Polaris Protocol.  
 It anchors modern racialised entitlement dynamics in Fanon’s anti-colonial framework of symbolic violence and territorial domination.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - 🦂 Racialised Entitlement Violation  
 > - 🛰️ Threat Escalation Pipeline (Racialised Gender)  
 > - 🦁 Why Men Label Women Terrorists When Rejected  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-13_
