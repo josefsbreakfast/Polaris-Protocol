@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 21:17:03 UTC_
+_Generated on 2025-12-13 21:23:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2570,7 +2570,6 @@ _Generated on 2025-12-13 21:17:03 UTC_
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md)
-      - [`_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md)
       - [`drag_curve_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/drag_curve_closed_mouth.png)
       - [`risk_matrix_cost_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/risk_matrix_cost_closed_mouth.png)
       - [`sector_drag_curve_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/sector_drag_curve_closed_mouth.png)
@@ -2586,6 +2585,7 @@ _Generated on 2025-12-13 21:17:03 UTC_
       - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
       - [`🕸️_dragnet_as_default.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_dragnet_as_default.md)
       - [`🚨_prevent_as_contractual_silence.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🚨_prevent_as_contractual_silence.md)
+      - [`🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md)
       - [`🧱_silence_stack_trace.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧱_silence_stack_trace.md)
       - [`🪁_contracts_that_colonise_memory.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪁_contracts_that_colonise_memory.md)
       - [`🪶_testimony_leak_points.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪶_testimony_leak_points.md)
