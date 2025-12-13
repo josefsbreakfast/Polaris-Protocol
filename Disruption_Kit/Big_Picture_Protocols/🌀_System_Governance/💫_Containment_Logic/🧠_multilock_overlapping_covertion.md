@@ -1,6 +1,6 @@
 # 🧠 Multi-Lock Hypothetical — When Overlapping Safeguards Become Covert Systems  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-13  
-*A theoretical stress-test of UK oversight architecture; not an allegation of real conduct.*
+**First created:** 2025-10-13 | **Last updated:** 2025-12-13  
+*A theoretical stress-test of UK oversight architecture; not an allegation of real conduct.*  
 
 ---
 
@@ -53,15 +53,16 @@ oversight, safeguarding, covert research, ai middleware, legal architecture, eth
 ---
 
 ## 🏮 Footer  
-*Multi-Lock Hypothetical — When Overlapping Safeguards Become Covert Systems* is a **conceptual node** of the Polaris Protocol.  
+*🧠 Multi-Lock Hypothetical — When Overlapping Safeguards Become Covert Systems* is a **conceptual node** of the Polaris Protocol.  
 It illustrates how overlapping lawful regimes could, in theory, produce coercive outcomes if ethical and legal boundaries erode.  
 It is **not a claim that such a program exists**; it is a stress-test for accountability design.
 
-> 📡 Cross-references:  
-> - [📜 Statutes](../📜_Statutes/) — legislative anchors (CTSA 2015, IPA 2016, DPA 2018)  
-> - [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/) — systemic-oversight analysis  
-> - [🧬 Structural Mapping](../🧬_Structural_Mapping/) — diagrams of multi-layer authorisation chains  
+> 📡 Cross-references:
+> 
+> - [📜 Statutes] — *legislative anchors (CTSA 2015, IPA 2016, DPA 2018)*  
+> - [🧿 Watch the Watchers] — *systemic-oversight analysis*  
+> - [🧬 Structural Mapping] — *diagrams of multi-layer authorisation chains*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-12-13_
