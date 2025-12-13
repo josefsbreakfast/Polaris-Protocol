@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 04:50:11 UTC_
+_Generated on 2025-12-13 04:51:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -343,6 +343,7 @@ _Generated on 2025-12-13 04:50:11 UTC_
         - [`🗳️_the_corbyn_starner_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗳️_the_corbyn_starner_consent_mechanism.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🤦‍♀️_operation_shande.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🤦‍♀️_operation_shande.md)
+        - [`🥸_paid_male_gossipers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🥸_paid_male_gossipers.md)
         - [`🦇_how_many_words_to_fell_an_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦇_how_many_words_to_fell_an_industry.md)
         - [`🧠_politicians_and_public_contact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_politicians_and_public_contact.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
@@ -3231,7 +3232,6 @@ _Generated on 2025-12-13 04:50:11 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🥸_paid_male_gossipers.md`](Polaris_Nest/Git_Intake_Drawer/🥸_paid_male_gossipers.md)
     - [`🥺_we_are_just_a_little_island_honest.md`](Polaris_Nest/Git_Intake_Drawer/🥺_we_are_just_a_little_island_honest.md)
     - [`🦁_circle_of_security_life.md`](Polaris_Nest/Git_Intake_Drawer/🦁_circle_of_security_life.md)
     - [`🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md`](Polaris_Nest/Git_Intake_Drawer/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md)
