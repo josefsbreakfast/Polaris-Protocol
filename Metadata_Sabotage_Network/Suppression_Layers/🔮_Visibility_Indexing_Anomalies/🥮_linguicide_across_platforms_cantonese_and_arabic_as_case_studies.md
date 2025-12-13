@@ -1,6 +1,6 @@
 # 🥮 Linguicide Across Platforms — Cantonese & Arabic as Case Studies  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
-*How viral-platform mechanics and bureaucratic legibility transform language difference into algorithmic disappearance.*
+**First created:** 2025-10-22 | **Last updated:** 2025-12-13  
+*How viral-platform mechanics and bureaucratic legibility transform language difference into algorithmic disappearance.*  
 
 ---
 
@@ -306,12 +306,13 @@ Cantonese, Arabic, linguistic containment, platform export, moderation bias, alg
 It traces how moderation, advertising, and compliance infrastructures merge into a single global architecture that normalises linguistic erasure.  
 Minority expression becomes invisible not by hostility but by design.  
 
-> 📡 Cross-references:  
-> - [🥮 Tonal Sovereignty — The Cantonese Continuum](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🥮_tonal_sovereignty_the_cantonese_continuum.md)  
-> - [🎶 Banned Broadcasts Cooperative](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/)  
-> - [🗝️ Politics Memory Work](../Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)  
-> - [🌱 Human Principles](../Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)  
+> 📡 Cross-references:
+> 
+> - [🥮 Tonal Sovereignty — The Cantonese Continuum]  
+> - [🎶 Banned Broadcasts Cooperative]  
+> - [🗝️ Politics & Memory Work]  
+> - [🌱 Human Principles]
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-12-13_
