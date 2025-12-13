@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:17:33 UTC_
+_Generated on 2025-12-13 20:18:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2669,6 +2669,7 @@ _Generated on 2025-12-13 20:17:33 UTC_
       - [`🍑_the_homoerotic_subtext_of_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🍑_the_homoerotic_subtext_of_prevent.md)
       - [`🎭_containment_as_equilibrium_theatre.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_containment_as_equilibrium_theatre.md)
       - [`🎭_the_whiteness_baseline_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_the_whiteness_baseline_problem.md)
+      - [`🎯_incentive_alignment_audit.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎯_incentive_alignment_audit.md)
       - [`🎶_korobeiniki_misread_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_korobeiniki_misread_as_signal.md)
       - [`🎶_police_the_vibes.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_police_the_vibes.md)
       - [`🎶_prevent_eats_teenagers_music.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_prevent_eats_teenagers_music.md)
