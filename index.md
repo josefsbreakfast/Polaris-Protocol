@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 05:01:34 UTC_
+_Generated on 2025-12-13 05:02:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2332,6 +2332,7 @@ _Generated on 2025-12-13 05:01:34 UTC_
     - [`🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md`](Disruption_Kit/Field_Logs/🥺_dont_be_upset_daddy_dragon_a_woman_saved_a_whole_dragon_last_time_too.md)
     - [`🦆_other_irregularities.md`](Disruption_Kit/Field_Logs/🦆_other_irregularities.md)
     - [`🦆_regularly.png`](Disruption_Kit/Field_Logs/🦆_regularly.png)
+    - [`🦇_another_shabbos_observed.md`](Disruption_Kit/Field_Logs/🦇_another_shabbos_observed.md)
     - [`🦇_at_least_we_now_know.md`](Disruption_Kit/Field_Logs/🦇_at_least_we_now_know.md)
     - [`🦇_being_vocal_and_female_online.PNG`](Disruption_Kit/Field_Logs/🦇_being_vocal_and_female_online.PNG)
     - [`🦇_being_vocal_and_female_online.md`](Disruption_Kit/Field_Logs/🦇_being_vocal_and_female_online.md)
@@ -3238,7 +3239,6 @@ _Generated on 2025-12-13 05:01:34 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🦇_another_shabbos_observed.md`](Polaris_Nest/Git_Intake_Drawer/🦇_another_shabbos_observed.md)
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
