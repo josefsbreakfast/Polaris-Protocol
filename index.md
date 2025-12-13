@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 05:05:59 UTC_
+_Generated on 2025-12-13 05:07:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -279,6 +279,7 @@ _Generated on 2025-12-13 05:05:59 UTC_
         - [`🦕_post_modern_fellow_travellers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
         - [`🦠_toxic_legitimacy_cycles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦠_toxic_legitimacy_cycles.md)
         - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦯_algorithmic_delay_and_pacing.md)
+        - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
         - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
         - [`🧠_cross_silo_reflex_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_cross_silo_reflex_mismatch.md)
@@ -3247,7 +3248,6 @@ _Generated on 2025-12-13 05:05:59 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧊_the_bunker_has_no_vibes.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_bunker_has_no_vibes.md)
-    - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
     - [`🧊_the_inversion_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_inversion_problem.md)
     - [`🧊_visibility_indexing_in_thin_data_worlds.md`](Polaris_Nest/Git_Intake_Drawer/🧊_visibility_indexing_in_thin_data_worlds.md)
     - [`🧊_why_prevent_feels_invisible_to_white_britain.md`](Polaris_Nest/Git_Intake_Drawer/🧊_why_prevent_feels_invisible_to_white_britain.md)
