@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 17:24:01 UTC_
+_Generated on 2025-12-13 17:26:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3268,7 +3268,6 @@ _Generated on 2025-12-13 17:24:01 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_nerd_alignment_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🧠_nerd_alignment_protocol.md)
     - [`🧠_nudges_to_stepford_wives.md`](Polaris_Nest/Git_Intake_Drawer/🧠_nudges_to_stepford_wives.md)
     - [`🧠_political_black_box_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧠_political_black_box_logic.md)
     - [`🧠_psychology_of_volunteer_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧠_psychology_of_volunteer_surveillance.md)
@@ -3796,6 +3795,7 @@ _Generated on 2025-12-13 17:24:01 UTC_
     - [`🔧_democratic_resilience_architecture_for_21st_century_britain.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🔧_democratic_resilience_architecture_for_21st_century_britain.md)
     - [`🕊️_trust_repair_protocols.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🕊️_trust_repair_protocols.md)
     - [`🛠️_mutual_aid_stack.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🛠️_mutual_aid_stack.md)
+    - [`🧠_nerd_alignment_protocol.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🧠_nerd_alignment_protocol.md)
     - [`🧩_distributed_decision_framework.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🧩_distributed_decision_framework.md)
     - [`🪞_mirror_commons.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🪞_mirror_commons.md)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
