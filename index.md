@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:15:20 UTC_
+_Generated on 2025-12-13 20:16:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -512,6 +512,7 @@ _Generated on 2025-12-13 20:15:20 UTC_
         - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
         - [`📦_containment_by_classification.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📦_containment_by_classification.md)
         - [`📩_ghost_vs_haunting_chart_2025-08-12.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📩_ghost_vs_haunting_chart_2025-08-12.csv)
+        - [`🔥_burnout_enforcement_ricochet_map.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_burnout_enforcement_ricochet_map.md)
         - [`🔥_hot_coals_theory_of_insults.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_hot_coals_theory_of_insults.md)
         - [`🔥_masters_tools_refusal_hebrew.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_masters_tools_refusal_hebrew.md)
         - [`🔥_suppression_as_signal.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)
