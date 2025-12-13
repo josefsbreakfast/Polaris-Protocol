@@ -1,6 +1,6 @@
 # 🧟‍♀️ Prevent vs 4chan  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How the UK’s flagship safeguarding scheme mirrors the architecture of anonymous brigading networks.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-13  
+*How the UK’s flagship safeguarding scheme mirrors the architecture of anonymous brigading networks.*  
 
 ---
 
@@ -170,12 +170,13 @@ prevent, alt-right, brigading, harassment architecture, metadata sabotage, narra
 It maps the structural equivalence between digital brigading networks and the UK’s Prevent mechanism, highlighting how anonymous concern pipelines enable ideological interference and narrative distortion.
 
 > 📡 Cross-references:
-> - [🈺 Governance & Prevent](../Metadata_Sabotage_Network/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/) — system architecture  
-> - [🧿 Targeting Logic Metadata Signatures](../Metadata_Sabotage_Network/🦒_Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/) — behavioural fingerprints  
-> - [🪆 Narrative Interference](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/) — story-shaping dynamics  
-> - [🧠 Psychological Containment](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🧠_Psychological_Containment/) — suppression via fear and fatigue  
-> - [🧟‍♀️ Frankenstack Bytes](../Metadata_Sabotage_Network/🧟‍♀️_Frankenstack_Bytes/) — systemic distortions  
+> 
+> - [🈺 Governance & Prevent] — *system architecture*  
+> - [🧿 Targeting Logic Metadata Signatures] — *behavioural fingerprints*  
+> - [🪆 Narrative Interference] — *story-shaping dynamics*  
+> - [🧠 Psychological Containment] — *suppression via fear and fatigue*  
+> - [🧟‍♀️ Frankenstack Bytes] — *systemic distortions*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-13_
