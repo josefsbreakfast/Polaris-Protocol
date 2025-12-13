@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 05:09:55 UTC_
+_Generated on 2025-12-13 05:11:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3052,6 +3052,7 @@ _Generated on 2025-12-13 05:09:55 UTC_
       - [`🔮_visibility_collapse_of_dissenting_bodies.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)
       - [`🥮_linguicide_across_platforms_cantonese_and_arabic_as_case_studies.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🥮_linguicide_across_platforms_cantonese_and_arabic_as_case_studies.md)
       - [`🥮_tonal_soverignity.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🥮_tonal_soverignity.md)
+      - [`🧊_visibility_indexing_in_thin_data_worlds.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🧊_visibility_indexing_in_thin_data_worlds.md)
       - [`🧨_algorithmic_projection_white_male_insecurity.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🧨_algorithmic_projection_white_male_insecurity.md)
       - [`🪩_algorithmic_proximity_and_accidental_truth_machine.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🪩_algorithmic_proximity_and_accidental_truth_machine.md)
     - [**🛰️_Proximity_Control_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/🛰️_Proximity_Control_Logs/)
@@ -3249,7 +3250,6 @@ _Generated on 2025-12-13 05:09:55 UTC_
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
-    - [`🧊_visibility_indexing_in_thin_data_worlds.md`](Polaris_Nest/Git_Intake_Drawer/🧊_visibility_indexing_in_thin_data_worlds.md)
     - [`🧊_why_prevent_feels_invisible_to_white_britain.md`](Polaris_Nest/Git_Intake_Drawer/🧊_why_prevent_feels_invisible_to_white_britain.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧙‍♀️_witch_logic_diagnostic.md`](Polaris_Nest/Git_Intake_Drawer/🧙‍♀️_witch_logic_diagnostic.md)
