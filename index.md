@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:04:16 UTC_
+_Generated on 2025-12-13 20:05:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2928,6 +2928,7 @@ _Generated on 2025-12-13 20:04:16 UTC_
       - [`☎_telecoms_vectors.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/☎_telecoms_vectors.md)
       - [`⚖️_algorithmic_apartheid.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_algorithmic_apartheid.md)
       - [`⚖️_plausible_deniability_exploits.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_plausible_deniability_exploits.md)
+      - [`⚖️_schmittian_logic_in_policing_practice.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md)
       - [`⚡️_citizen_polaris.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚡️_citizen_polaris.md)
       - [`🌀_loop_notes_on_ai_language.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_loop_notes_on_ai_language.md)
       - [`🌋_escalation_drift_in_complex_datasets.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌋_escalation_drift_in_complex_datasets.md)
