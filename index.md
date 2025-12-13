@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 05:04:41 UTC_
+_Generated on 2025-12-13 05:05:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2585,6 +2585,7 @@ _Generated on 2025-12-13 05:04:41 UTC_
       - [`🚷_ethical_withdrawal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚷_ethical_withdrawal.md)
       - [`🛠️_how_neutral_people_enable_authoritarian_tech.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛠️_how_neutral_people_enable_authoritarian_tech.md)
       - [`🛡️_trusted_signals_checklist_male_allies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛡️_trusted_signals_checklist_male_allies.md)
+      - [`🧊_recalibrating_trust_after_racialised_gender_harm.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_recalibrating_trust_after_racialised_gender_harm.md)
       - [`🧊_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_the_care_cage.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
       - [`🧬_distributed_trust.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_distributed_trust.md)
@@ -3244,7 +3245,6 @@ _Generated on 2025-12-13 05:04:41 UTC_
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
-    - [`🧊_recalibrating_trust_after_racialised_gender_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧊_recalibrating_trust_after_racialised_gender_harm.md)
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧊_the_bunker_has_no_vibes.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_bunker_has_no_vibes.md)
     - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](Polaris_Nest/Git_Intake_Drawer/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
