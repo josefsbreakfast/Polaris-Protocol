@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:00:10 UTC_
+_Generated on 2025-12-13 20:01:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2620,6 +2620,7 @@ _Generated on 2025-12-13 20:00:10 UTC_
       - [`📡_signal_lost.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📡_signal_lost.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
       - [`📼_training_data_tragedy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📼_training_data_tragedy.md)
+      - [`🔥_asymmetric_overload_and_legal_insulation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🔥_asymmetric_overload_and_legal_insulation.md)
       - [`🗣️_survivor_scripts_and_institutional_voiceover.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🗣️_survivor_scripts_and_institutional_voiceover.md)
       - [`🚑_extraction_quick_checklist.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🚑_extraction_quick_checklist.md)
       - [`🧠_machine_learning_as_moral_reeducation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧠_machine_learning_as_moral_reeducation.md)
