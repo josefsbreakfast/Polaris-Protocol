@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:49:50 UTC_
+_Generated on 2025-12-13 18:50:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1444,6 +1444,7 @@ _Generated on 2025-12-13 18:49:50 UTC_
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
       - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌹_to_the_red_roses.md)
       - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
+      - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
@@ -2058,7 +2059,6 @@ _Generated on 2025-12-13 18:49:50 UTC_
     - [`🎪_on_professional_gossipers.md`](Disruption_Kit/Field_Logs/🎪_on_professional_gossipers.md)
     - [`🎪_procurement_item_classified.jpg`](Disruption_Kit/Field_Logs/🎪_procurement_item_classified.jpg)
     - [`🎪_thanks_is_best_said_in_cash.PNG`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.PNG)
-    - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.md)
     - [`🎪_transcript_unavailable_interference_dalle.png`](Disruption_Kit/Field_Logs/🎪_transcript_unavailable_interference_dalle.png)
     - [`🎭_affective_redaction_as_containment.md`](Disruption_Kit/Field_Logs/🎭_affective_redaction_as_containment.md)
     - [`🏛️_academic_freedom_in_a_financialised_system.md`](Disruption_Kit/Field_Logs/🏛️_academic_freedom_in_a_financialised_system.md)
