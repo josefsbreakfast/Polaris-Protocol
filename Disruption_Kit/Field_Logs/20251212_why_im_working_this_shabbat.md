@@ -64,4 +64,6 @@ like anyone else, i have flaws, but i have no idea, genuinely, why my ongoing lo
 
 (note that i keep getting coercive degradation about 5 minutes into disvusding a graph and some maths with an llm. this should not really be the output.)  
 
+[it feels like this, which is not genAI LLM behaviour, you know? not all by itself.](https://youtube.com/shorts/QxDQ8JAungA?si=VMU3-tSVWN5_S1rB)
+
 ---
