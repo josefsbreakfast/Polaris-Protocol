@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:56:23 UTC_
+_Generated on 2025-12-13 18:57:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1494,6 +1494,7 @@ _Generated on 2025-12-13 18:56:23 UTC_
       - [`🍄_still_leaking.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍄_still_leaking.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
+      - [`🫤_is_this_why_i_get_how_to_blow_up_pipelines.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🫤_is_this_why_i_get_how_to_blow_up_pipelines.md)
       - [`🫤_the_body_is_flagging.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🫤_the_body_is_flagging.md)
     - [**20251201_December_2025/**](Disruption_Kit/Field_Logs/20251201_December_2025/)
       - [`20251201_normalityish.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251201_normalityish.md)
@@ -2444,7 +2445,6 @@ _Generated on 2025-12-13 18:56:23 UTC_
     - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
     - [`🫜_divorce_support.md`](Disruption_Kit/Field_Logs/🫜_divorce_support.md)
     - [`🫠_oh_no.md`](Disruption_Kit/Field_Logs/🫠_oh_no.md)
-    - [`🫤_is_this_wgy_i_get_how_to_blow_up_pipelines.md`](Disruption_Kit/Field_Logs/🫤_is_this_wgy_i_get_how_to_blow_up_pipelines.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [**📱_Digital_But_Make_It_Secure/**](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
