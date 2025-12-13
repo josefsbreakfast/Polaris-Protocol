@@ -1,6 +1,6 @@
-# 🧊 Recalibrating Trust After Racialised Gender Harm
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*Why distrust of certain men — especially white men — becomes an adaptive safety logic, not a prejudice.*
+# 🧊 Recalibrating Trust After Racialised Gender Harm  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-13  
+*Why distrust of certain men — especially white men — becomes an adaptive safety logic, not a prejudice.*  
 
 ---
 
@@ -190,7 +190,7 @@ trust calibration, racialised harm, white male entitlement, institutional bias, 
 ---
 
 ## 🏮 Footer  
-*Recalibrating Trust After Racialised Gender Harm* is a living node of the Polaris Protocol.  
+*🧊 Recalibrating Trust After Racialised Gender Harm* is a living node of the Polaris Protocol.  
 It documents the safety-based transformation of trust patterns in response to repeated harm and institutional failure.
 
 > 📡 Cross-references:  
@@ -199,4 +199,4 @@ It documents the safety-based transformation of trust patterns in response to re
 > - 🪓 Vindictive Male Escalation  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-13_
