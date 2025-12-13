@@ -50,4 +50,10 @@ I felt safer when I visited Chenobyl, quite honestly, although I appreciate ther
 
 ---
 
+okay, making a robot series was quite funny though. It was absolutely fine to tell on itself and be like yes LMS have bad spots. As soon as the idea of not using them in a cabinet office was even on the cards, in its potential forks? "whoa whoa whoa whoa whoa whoa whoa. Let's not get too hasty about intent."  
+
+Jokes, man.  
+
+you guys made these things and like I'm not saying that they suck balls, they're really good in some ways, but also sometimes they do suck balls though.  
+
 ---
