@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 19:13:00 UTC_
+_Generated on 2025-12-13 19:13:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1455,6 +1455,7 @@ _Generated on 2025-12-13 19:13:00 UTC_
       - [`☕️_something_has_changed.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☕️_something_has_changed.md)
       - [`☕️_the_agentic_ai_needs_coffee.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☕️_the_agentic_ai_needs_coffee.md)
       - [`☺️_point_to_where_it_hurts.PNG`](Disruption_Kit/Field_Logs/20251001_October_2025/☺️_point_to_where_it_hurts.PNG)
+      - [`☺️_point_to_where_it_hurts.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☺️_point_to_where_it_hurts.md)
       - [`✨_my_boy_lawrence.md`](Disruption_Kit/Field_Logs/20251001_October_2025/✨_my_boy_lawrence.md)
       - [`✨_my_laughter_breaks_fibre_broadband.md`](Disruption_Kit/Field_Logs/20251001_October_2025/✨_my_laughter_breaks_fibre_broadband.md)
       - [`🇵🇸_tort_warning.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🇵🇸_tort_warning.md)
@@ -2046,7 +2047,6 @@ _Generated on 2025-12-13 19:13:00 UTC_
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`why_we_have_only_just_started.png`](Disruption_Kit/Field_Logs/why_we_have_only_just_started.png)
-    - [`☺️_point_to_where_it_hurts.md`](Disruption_Kit/Field_Logs/☺️_point_to_where_it_hurts.md)
     - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/⚔️_the_orientalism_is_mindblowing.md)
     - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/⚖️_scraping_spoofing_timeline_2019_2022.md)
     - [`⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md`](Disruption_Kit/Field_Logs/⚠️_cursor_tracking_health_access_foi_sar_2025-08-29.md)
