@@ -1,6 +1,6 @@
 # 🧟 The Zombie Data Genocide  
-**First created:** 2025-10-29 | **Last updated:** 2025-10-29  
-*How populations become administratively present yet materially disposable — a genocide pathway encoded in datafied governance.*
+**First created:** 2025-10-29 | **Last updated:** 2025-12-13  
+*How populations become administratively present yet materially disposable — a genocide pathway encoded in datafied governance.*  
 
 ---
 
@@ -93,15 +93,16 @@ zombie data, datafied genocide, eligibility gating, administrative violence, alg
 ---
 
 ## 🏮 Footer  
-*The Zombie Data Genocide* is a living node of the Polaris Protocol.  
+*🧟 The Zombie Data Genocide* is a living node of the Polaris Protocol.  
 It documents a contemporary genocide pathway where populations are exhaustively recorded yet structurally denied survival, enabling lethal outcomes under the cover of administration.  
 
-> 📡 Cross-references:  
-> - [🧩 The Data Empathy Gap](./🧩_the_data_empathy_gap.md)  
-> - [🧟 I Am a Zombie Data Subject](./🧟_i_am_a_zombie_data_subject.md)  
-> - [⚖️ Legal State Governance](../⚖️_Legal_State_Governance/) — oversight, remedies, and liability
-> - [🧠 Human Principles](../🧠_Human_Principles/) — temperaments and failure modes that shape risk
+> 📡 Cross-references:
+> 
+> - [🧩 The Data Empathy Gap]  
+> - [🧟 I Am a Zombie Data Subject]  
+> - [⚖️ Legal & State Governance] — *oversight, remedies, and liability*  
+> - [🧠 Human Principles] — *temperaments and failure modes that shape risk*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-29_
+_Last updated: 2025-12-13_
