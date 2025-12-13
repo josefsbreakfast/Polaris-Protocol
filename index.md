@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 00:05:27 UTC_
+_Generated on 2025-12-13 00:07:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -458,6 +458,7 @@ _Generated on 2025-12-13 00:05:27 UTC_
           - [`🕯️_shabbat_is_anticapitalist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md)
           - [`🗝️_power_is_not_a_mitzvah.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🗝️_power_is_not_a_mitzvah.md)
           - [`🛰️_algorithmic_judaisms.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🛰️_algorithmic_judaisms.md)
+          - [`🥗_being_seen_and_not_seen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🥗_being_seen_and_not_seen.md)
           - [`🧄_market_deregulation_and_shylocks_monologue.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧄_market_deregulation_and_shylocks_monologue.md)
           - [`🧬_definitions_of_zionism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧬_definitions_of_zionism.md)
           - [`🧿_asajew.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_asajew.md)
@@ -3222,7 +3223,6 @@ _Generated on 2025-12-13 00:05:27 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🥗_the_platter_of_greenery_being_seen_and_not_seen.md`](Polaris_Nest/Git_Intake_Drawer/🥗_the_platter_of_greenery_being_seen_and_not_seen.md)
     - [`🥠_the_machine_confesses_its_feelings.md`](Polaris_Nest/Git_Intake_Drawer/🥠_the_machine_confesses_its_feelings.md)
     - [`🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md`](Polaris_Nest/Git_Intake_Drawer/🥮_linguicide_across_platforms_cantonese_arabic_case_studies.md)
     - [`🥮_tonal_soverignity.md`](Polaris_Nest/Git_Intake_Drawer/🥮_tonal_soverignity.md)
