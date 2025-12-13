@@ -1,4 +1,4 @@
-# 🧰 Early Warning Signs of Crawl-Layer Pressure  
+# 🎣 How To Spot Greedy Crawlers  
 **First created:** 2025-12-13 | **Last updated:** 2025-12-13  
 *How to distinguish ordinary SEO volatility from infrastructure-level pressure without spiralling*
 
