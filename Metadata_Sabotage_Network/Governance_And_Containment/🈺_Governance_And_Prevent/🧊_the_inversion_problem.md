@@ -1,6 +1,6 @@
 # 🧊 The Inversion Problem  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent structurally reverses the meaning of safeguarding, risk, emotion, and vulnerability — turning care into surveillance, help into suspicion, and childhood into pre-crime.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-13  
+*How Prevent structurally reverses the meaning of safeguarding, risk, emotion, and vulnerability — turning care into surveillance, help into suspicion, and childhood into pre-crime.*  
 
 ---
 
@@ -234,4 +234,4 @@ It explains how Prevent reverses the meaning of safeguarding, turning support in
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-13_
