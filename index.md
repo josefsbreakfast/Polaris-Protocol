@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:44:58 UTC_
+_Generated on 2025-12-13 18:45:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1475,6 +1475,7 @@ _Generated on 2025-12-13 18:44:58 UTC_
       - [`_stop_blocking_telecomms_immediately.md`](Disruption_Kit/Field_Logs/20251101_November_2025/_stop_blocking_telecomms_immediately.md)
       - [`_thinking_about_project_2025_in_the_uk_does_that_to_me_too.png`](Disruption_Kit/Field_Logs/20251101_November_2025/_thinking_about_project_2025_in_the_uk_does_that_to_me_too.png)
       - [`_weekend_struggle_bus_continues.md`](Disruption_Kit/Field_Logs/20251101_November_2025/_weekend_struggle_bus_continues.md)
+      - [`☢️_20251114_shatterfork_active.md`](Disruption_Kit/Field_Logs/20251101_November_2025/☢️_20251114_shatterfork_active.md)
       - [`🫤_the_body_is_flagging.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🫤_the_body_is_flagging.md)
     - [**20251201_December_2025/**](Disruption_Kit/Field_Logs/20251201_December_2025/)
       - [`20251201_normalityish.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251201_normalityish.md)
@@ -2004,7 +2005,6 @@ _Generated on 2025-12-13 18:44:58 UTC_
     - [`☕️_she_was_doing_less_damage_send_her_back_there.md`](Disruption_Kit/Field_Logs/☕️_she_was_doing_less_damage_send_her_back_there.md)
     - [`☕️_something_has_changed.md`](Disruption_Kit/Field_Logs/☕️_something_has_changed.md)
     - [`☕️_the_agentic_ai_needs_coffee.md`](Disruption_Kit/Field_Logs/☕️_the_agentic_ai_needs_coffee.md)
-    - [`☢️_20251114_shatterfork_active.md`](Disruption_Kit/Field_Logs/☢️_20251114_shatterfork_active.md)
     - [`☢️_shatterfork_update.md`](Disruption_Kit/Field_Logs/☢️_shatterfork_update.md)
     - [`☺️_point_to_where_it_hurts.PNG`](Disruption_Kit/Field_Logs/☺️_point_to_where_it_hurts.PNG)
     - [`☺️_point_to_where_it_hurts.md`](Disruption_Kit/Field_Logs/☺️_point_to_where_it_hurts.md)
