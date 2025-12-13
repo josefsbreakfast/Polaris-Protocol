@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 19:59:07 UTC_
+_Generated on 2025-12-13 20:00:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2739,6 +2739,7 @@ _Generated on 2025-12-13 19:59:07 UTC_
       - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_soft_suspension_is_still_containment.md)
       - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_system_agitation_shopping_list.md)
       - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_the_fire_they_fear.md)
+      - [`🧬_authoritarian_personnel_purification.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧬_authoritarian_personnel_purification.md)
       - [`🧭_threshold_literacy_teaching_citizens_to_read_the_triggers.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧭_threshold_literacy_teaching_citizens_to_read_the_triggers.md)
       - [`🧮_risk_calculators_and_hidden_scoring_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧮_risk_calculators_and_hidden_scoring_systems.md)
       - [`🧾_threshold_disclosure_protocols_forensic_transparency_tools.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧾_threshold_disclosure_protocols_forensic_transparency_tools.md)
