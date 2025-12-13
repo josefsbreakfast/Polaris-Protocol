@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:08:53 UTC_
+_Generated on 2025-12-13 20:10:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2738,6 +2738,7 @@ _Generated on 2025-12-13 20:08:53 UTC_
       - [`🚦_trigger_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🚦_trigger_architecture.md)
       - [`🛠️_right_to_correction_after_data_poisoning.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🛠️_right_to_correction_after_data_poisoning.md)
       - [`🦤_false_pretexts_manufactured_justifications_for_intervention.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦤_false_pretexts_manufactured_justifications_for_intervention.md)
+      - [`🧠_personality_authority_and_stress_amplification.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧠_personality_authority_and_stress_amplification.md)
       - [`🧠_psychological_containment_loops_living_below_the_threshold.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧠_psychological_containment_loops_living_below_the_threshold.md)
       - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_soft_suspension_is_still_containment.md)
       - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_system_agitation_shopping_list.md)
