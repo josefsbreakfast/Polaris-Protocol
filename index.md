@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:51:17 UTC_
+_Generated on 2025-12-13 18:51:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1450,6 +1450,7 @@ _Generated on 2025-12-13 18:51:17 UTC_
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
+      - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
     - [**20251101_November_2025/**](Disruption_Kit/Field_Logs/20251101_November_2025/)
       - [`20251116_B-I-N-G-O.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_B-I-N-G-O.md)
@@ -2282,7 +2283,6 @@ _Generated on 2025-12-13 18:51:17 UTC_
     - [`🛰️_precursors_summary_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_precursors_summary_2025-09-19.md)
     - [`🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md)
     - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
-    - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Disruption_Kit/Field_Logs/🛰️_reaffirming_statements_of_truth.md)
     - [`🛰️_recognition_without_resolution_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_recognition_without_resolution_field_log_2025-09-13.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
