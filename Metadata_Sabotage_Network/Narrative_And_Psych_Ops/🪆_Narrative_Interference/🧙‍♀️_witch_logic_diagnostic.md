@@ -1,6 +1,6 @@
 # 🧙‍♀️ Witch Logic Diagnostic  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*A field guide to recognising when women’s intelligence, articulation, or survival is being treated as “witchcraft” by families, institutions, or systems.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-13  
+*A field guide to recognising when women’s intelligence, articulation, or survival is being treated as “witchcraft” by families, institutions, or systems.*  
 
 ---
 
@@ -189,4 +189,4 @@ It pairs closely with:
 Survivor authorship is not witchcraft.  
 Systems that fear being seen will always pretend otherwise.
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-13_
