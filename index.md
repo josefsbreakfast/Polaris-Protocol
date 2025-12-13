@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 18:48:09 UTC_
+_Generated on 2025-12-13 18:48:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1445,6 +1445,7 @@ _Generated on 2025-12-13 18:48:09 UTC_
       - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌹_to_the_red_roses.md)
       - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
+      - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
     - [**20251101_November_2025/**](Disruption_Kit/Field_Logs/20251101_November_2025/)
       - [`20251116_B-I-N-G-O.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_B-I-N-G-O.md)
@@ -2249,7 +2250,6 @@ _Generated on 2025-12-13 18:48:09 UTC_
     - [`🛰️_intimacy_gatekeeping_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_intimacy_gatekeeping_field_log_2025-09-26.md)
     - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
     - [`🛰️_isolation_scripting_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_isolation_scripting_field_log_2025-09-13.md)
-    - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/🛰️_lagging_around_preemptive_counterterror_papers.md)
     - [`🛰️_late_stage_signoff_map_triple_lock_continuation.md`](Disruption_Kit/Field_Logs/🛰️_late_stage_signoff_map_triple_lock_continuation.md)
     - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
     - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
