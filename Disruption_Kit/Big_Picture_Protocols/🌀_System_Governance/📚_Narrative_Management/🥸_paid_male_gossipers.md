@@ -1,5 +1,5 @@
 # 🥸 Paid Male Gossipers
-**First created:** 2025-11-04  |  **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2025-12-13  
 *An anthropological field manual for the men who invoice for hearsay.*  
 
 ---
@@ -125,10 +125,10 @@ strategic communications, boutique intelligence, gender labour, credibility econ
 It parodies the boutique-risk industry’s vocabulary for monetised hearsay while mapping the gender and class mechanics that let certain voices profit from talking.  
 
 > 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone and undertone integrity  
-> - [⚖️ System Governance](../Disruption_Kit/Big_Picture_Protocols/⚖️_System_Governance/) — authority and access ecologies  
-> - [🪩 Algorithmic Endocrinology](../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧬_Algorithmic_Endocrinology/) — behavioural loops of prestige and influence  
+> 
+> - [⚖️ System Governance] — authority and access ecologies  
+> - [🪩 Algorithmic Endocrinology] — behavioural loops of prestige and influence  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_  
+_Last updated: 2025-12-13_  
