@@ -1,7 +1,5 @@
-File: 🧠_political_black_box_logic.md
-
 # 🧠 Political Black Box Logic  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-13  
 *Why executive decision-making feels incoherent, unprincipled, or chaotic — and why it’s the system, not the person inside it.*
 
 ---
@@ -136,5 +134,7 @@ Crosslinks:
 ---
 
 ## 🏮 Footer  
-**Political Black Box Logic** is a living node of the Polaris Protocol.  
+*🧠 Political Black Box Logic* is a living node of the Polaris Protocol.  
 It contributes analysis on *executive cognition, institutional distortion, and democratic drift*, providing a foundation for system redesign and future Polaris governance frameworks.
+
+_Last updated: 2025-12-13_
