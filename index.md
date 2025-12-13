@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 17:51:01 UTC_
+_Generated on 2025-12-13 17:52:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2933,6 +2933,7 @@ _Generated on 2025-12-13 17:51:01 UTC_
       - [`🕸️_practical_irreversibility_when_feedback_becomes_architecture.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md)
+      - [`🧠_reframing_loops_in_ml_products.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_reframing_loops_in_ml_products.md)
       - [`🧩_human_computation_games_the_puzzle_economy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
@@ -3272,7 +3273,6 @@ _Generated on 2025-12-13 17:51:01 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_reframing_loops_in_ml_products_and_dementia.md`](Polaris_Nest/Git_Intake_Drawer/🧠_reframing_loops_in_ml_products_and_dementia.md)
     - [`🧠_safeguarding_to_ai_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧠_safeguarding_to_ai_pipeline.md)
     - [`🧠_shame_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧠_shame_economics.md)
     - [`🧠_the_black_box_of_executive_power.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_black_box_of_executive_power.md)
