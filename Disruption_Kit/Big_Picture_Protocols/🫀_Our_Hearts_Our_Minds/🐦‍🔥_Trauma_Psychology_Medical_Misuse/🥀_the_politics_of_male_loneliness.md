@@ -1,7 +1,6 @@
 # 🥀 The Politics of Male Loneliness  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*How a generational epidemic of isolation, emotional deprivation, and relational collapse became one of the most politically significant forces of the 21st century.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-13  
+*How a generational epidemic of isolation, emotional deprivation, and relational collapse became one of the most politically significant forces of the 21st century.*  
 
 ---
 
@@ -245,10 +244,10 @@ So connection must be political too.
 It frames male loneliness as a structural and political phenomenon, not a personal flaw — and positions connection as a core component of antifascist strategy.
 
 > 📡 Cross-references:  
-> - [🦴 Anatomy of Male Emotional Starvation](./the_anatomy_of_male_emotional_starvation.md)  
-> - [🧠 Cognitive Vulnerability Stack](./the_cognitive_vulnerability_stack_of_lonely_men.md)  
-> - [🧸 Softness as Counter-Extremism Infrastructure](./softness_as_counter_extremism_infrastructure.md)
+> - [🦴 Anatomy of Male Emotional Starvation]  
+> - [🧠 Cognitive Vulnerability Stack]  
+> - [🧸 Softness as Counter-Extremism Infrastructure]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-13_
