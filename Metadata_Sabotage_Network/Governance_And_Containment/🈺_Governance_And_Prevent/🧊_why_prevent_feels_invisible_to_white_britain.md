@@ -1,5 +1,5 @@
-# 🧊 Why Prevent Feels Invisible to White Britain but Suffocating to Everyone Else  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+# 🧊 Why Prevent Feels Invisible to White Britain (...but Suffocating to Everyone Else)  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-13  
 *Why Prevent/Channel appear “non-existent” to most white Britons while simultaneously shaping, constricting, and destabilising the lives of racialised communities.*
 
 ---
@@ -209,4 +209,4 @@ It explains how Prevent’s structural design shields white Britain from recogni
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-13_
