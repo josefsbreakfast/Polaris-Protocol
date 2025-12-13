@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 20:11:13 UTC_
+_Generated on 2025-12-13 20:12:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -142,6 +142,7 @@ _Generated on 2025-12-13 20:11:13 UTC_
         - [`🕎_the_esther_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕎_the_esther_protocol.md)
         - [`🕰️_citizen_follow_up_timeline_security_breach.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕰️_citizen_follow_up_timeline_security_breach.md)
         - [`🗂️_bureaucratic_attrition_as_governance_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🗂️_bureaucratic_attrition_as_governance_strategy.md)
+        - [`🚨_red_flags_of_authoritarian_capture_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🚨_red_flags_of_authoritarian_capture_in_policing.md)
         - [`🛂_suspect_class_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🛂_suspect_class_governance.md)
         - [`🛰️_civic_oversight_of_ai_partnerships.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🛰️_civic_oversight_of_ai_partnerships.md)
         - [`🦠_hybrid_threat_overlay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md)
