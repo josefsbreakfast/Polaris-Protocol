@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 17:55:27 UTC_
+_Generated on 2025-12-13 17:56:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -288,6 +288,7 @@ _Generated on 2025-12-13 17:55:27 UTC_
         - [`🧠_multilock_overlapping_covertion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
         - [`🧠_political_black_box_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_political_black_box_logic.md)
         - [`🧠_smart_women_get_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
+        - [`🧠_the_black_box_of_executive_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_the_black_box_of_executive_power.md)
         - [`🧩_lepore_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_lepore_continuum.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
@@ -3275,7 +3276,6 @@ _Generated on 2025-12-13 17:55:27 UTC_
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧠_shame_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧠_shame_economics.md)
-    - [`🧠_the_black_box_of_executive_power.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_black_box_of_executive_power.md)
     - [`🧠_the_continuum_of_authoritarian_drift.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_continuum_of_authoritarian_drift.md)
     - [`🧠_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_last_hill.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
