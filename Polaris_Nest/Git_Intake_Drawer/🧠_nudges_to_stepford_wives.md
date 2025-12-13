@@ -1,13 +1,13 @@
-🪐 Gendered Susceptibility to Nudges (The Stepford Surface)
-First created: 2025-11-17 | Last updated: 2025-11-17
-Why nudging systems act disproportionately on women, especially maternal-coded or care-socialised women.
+# 🧠 Gendered Susceptibility to Nudges (The Stepford Surface)  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-13  
+*Why nudging systems act disproportionately on women, especially maternal-coded or care-socialised women.*  
 
-⸻
+---
 
 Orientation
 This note explores how gendered socialisation, maternal coding, and care expectations create an amplified susceptibility to behavioural nudges. It draws on neuroscience, cultural conditioning, and structural biases that make women—particularly those socialised into emotional labour—more responsive to subtle influence. This sits in the Counter_Nudge_Playbook as a structural vulnerability, not an individual flaw.
 
-⸻
+---
 
 Key Features
 • Socialised caregiving increases responsivity to relational cues.
@@ -15,7 +15,7 @@ Key Features
 • Systems often exploit maternal-coded responsibility reflexes.
 • Nudges affect women at a different intensity and frequency.
 
-⸻
+---
 
 Content
 
@@ -34,7 +34,7 @@ Because women respond more consistently, public systems lean on them disproporti
 Why this is a Stepford mechanism
 The Stepford reference captures the pattern: compliant behaviour produced not by innate docility, but by coercive expectation, invisible labour, and subtle fear of social penalty. A nudge cannot force a change in those who resist, so it exerts more force on those trained to care. The system then misreads compliance as success, entrenching the inequity.
 
-⸻
+---
 
 Footer
 Gendered Susceptibility to Nudges (The Stepford Surface) is a living node in the Counter_Nudge_Playbook cluster. It documents how gendered care expectations amplify the impact of behavioural nudges and why systems over-rely on women for emotional and behavioural adjustment.
