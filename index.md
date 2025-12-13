@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 04:52:55 UTC_
+_Generated on 2025-12-13 04:54:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -273,6 +273,7 @@ _Generated on 2025-12-13 04:52:55 UTC_
         - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_predictive_logic_sans_predictive_infrastructure.md)
         - [`🛰️_separation_of_systems_university_prevent_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_separation_of_systems_university_prevent_mod.md)
         - [`🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md)
+        - [`🦁_circle_of_security_life.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_circle_of_security_life.md)
         - [`🦁_we_are_citizens_not_datasets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
         - [`🦕_post_modern_fellow_travellers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
@@ -3233,7 +3234,6 @@ _Generated on 2025-12-13 04:52:55 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🦁_circle_of_security_life.md`](Polaris_Nest/Git_Intake_Drawer/🦁_circle_of_security_life.md)
     - [`🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md`](Polaris_Nest/Git_Intake_Drawer/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md)
     - [`🦁_lions_of_judah.md`](Polaris_Nest/Git_Intake_Drawer/🦁_lions_of_judah.md)
     - [`🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md`](Polaris_Nest/Git_Intake_Drawer/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)
