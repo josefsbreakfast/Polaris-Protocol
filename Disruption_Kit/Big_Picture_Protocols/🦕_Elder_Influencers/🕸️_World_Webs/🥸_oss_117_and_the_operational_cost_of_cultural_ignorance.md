@@ -1,6 +1,6 @@
 # 🥸 OSS 117 and the Operational Cost of Cultural Ignorance  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
-*A parable of how incuriosity, arrogance, and automation corrode intelligence work.*
+**First created:** 2025-11-06 | **Last updated:** 2025-12-13  
+*A parable of how incuriosity, arrogance, and automation corrode intelligence work.*  
 
 ---
 
@@ -75,10 +75,7 @@ Machines can process words, but they cannot be moved by them.
 
 ## 🌌 Constellations  
 🧿 🎶 🪇 🔮 — Part of the *Cultural Semiotics under Surveillance* constellation.  
-Cross-links:  
-- [🪇 Korobeiniki Misread as Signal](./🪇_korobeiniki_misread_as_signal.md) — on algorithmic misreading of culture.  
-- [🎛️ Pocket Rules — Survivor Voice Fidelity](../../Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md).  
-- [🧠 Algorithmic Operant Conditioning](../🧠_algorithmic_operant_conditioning.md) — on how AI trains simplicity.
+
 
 ---
 
@@ -88,13 +85,15 @@ OSS 117, cultural ignorance, satire, intelligence failures, AI ethics, NLP, oper
 ---
 
 ## 🏮 Footer  
-*OSS 117 and the Operational Cost of Cultural Ignorance* is a living node of the Polaris Protocol.  
+*🥸 OSS 117 and the Operational Cost of Cultural Ignorance* is a living node of the Polaris Protocol.  
 It traces how satire can function as risk analysis: the comedy of a man who never listens as the prototype for machines that cannot hear.  
 
 > 📡 Cross-references  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
+> 
 > - [Big Picture Protocols](../) — systemic misclassification analyses  
+> - [🪇 Korobeiniki Misread as Signal] — on algorithmic misreading of culture.  
+> - [🧠 Algorithmic Operant Conditioning] — on how AI trains simplicity.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-13_
