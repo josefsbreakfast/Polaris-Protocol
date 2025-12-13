@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 06:35:42 UTC_
+_Generated on 2025-12-13 06:37:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2824,6 +2824,7 @@ _Generated on 2025-12-13 06:35:42 UTC_
       - [`🧊_glass_box_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md)
       - [`🧠_escalation_weather_map.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_escalation_weather_map.md)
       - [`🧠_institutional_perception_the_no_win_zone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_institutional_perception_the_no_win_zone.md)
+      - [`🧠_misclassification_via_trauma_reflexes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_misclassification_via_trauma_reflexes.md)
       - [`🧿_persistent_discrediting_force.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md)
       - [`🩰_escaping_the_frame.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🩰_escaping_the_frame.md)
       - [`🪞_transparent_interference.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪞_transparent_interference.md)
@@ -3264,7 +3265,6 @@ _Generated on 2025-12-13 06:35:42 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_misclassification_via_trauma_reflexes.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassification_via_trauma_reflexes.md)
     - [`🧠_misclassifying_intellectual_intimacy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_misclassifying_intellectual_intimacy.md)
     - [`🧠_multilock_overlapping_covertion.md`](Polaris_Nest/Git_Intake_Drawer/🧠_multilock_overlapping_covertion.md)
     - [`🧠_nerd_alignment_protocol.md`](Polaris_Nest/Git_Intake_Drawer/🧠_nerd_alignment_protocol.md)
