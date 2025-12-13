@@ -1,6 +1,6 @@
 # 🧟‍♀️ Zombie Channel Case Neutralisation  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How PREVENT cases become administratively undead — and how to neutralise them.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-13  
+*How PREVENT cases become administratively undead — and how to neutralise them.*  
 
 ## 🛰️ Orientation  
 Some Channel cases are not “cases” anymore — they are **administrative phantoms**: kept alive by anxiety, metrics, and structural paralysis.  
@@ -139,4 +139,4 @@ It documents how PREVENT cases can become administratively undead and provides s
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-13_
