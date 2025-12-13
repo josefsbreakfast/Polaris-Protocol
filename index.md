@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 06:10:10 UTC_
+_Generated on 2025-12-13 06:13:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3146,6 +3146,7 @@ _Generated on 2025-12-13 06:10:10 UTC_
       - [`🕷️_the_ratio_that_shouldnt_exist.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🕷️_the_ratio_that_shouldnt_exist.md)
       - [`🦔_enrolment_trauma_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🦔_enrolment_trauma_risks.md)
       - [`🧀_child_data_swiss_cheese_model_systemic_risk_framework.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)
+      - [`🧟_the_zombie_data_genocide.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟_the_zombie_data_genocide.md)
       - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟‍♀️_zombie_data_and_population_targeting.md)
       - [`🩺_healthcare_access_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🩺_healthcare_access_id_risks.md)
     - [**🛂_Papers_Please_Problems/**](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/)
@@ -3254,7 +3255,6 @@ _Generated on 2025-12-13 06:10:10 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
-    - [`🧟_the_zombie_data_genocide.md`](Polaris_Nest/Git_Intake_Drawer/🧟_the_zombie_data_genocide.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧟‍♀️_prevent_the_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_the_frankenstack.md)
     - [`🧟‍♀️_prevent_vs_4chan.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_prevent_vs_4chan.md)
