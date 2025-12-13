@@ -1,6 +1,6 @@
 # 🧟 I Am a Zombie Data Subject  
-**First created:** 2025-10-29 | **Last updated:** 2025-10-29  
-*Existence within a system that records but does not recognise.*
+**First created:** 2025-10-29 | **Last updated:** 2025-12-13  
+*Existence within a system that records but does not recognise.*  
 
 ---
 
@@ -73,11 +73,12 @@ zombie data, administrative disablement, data subject, exclusion, bureaucracy, c
 *I Am a Zombie Data Subject* is a living node of the Polaris Protocol.  
 It documents the structural state in which individuals become informationally present but procedurally excluded, surviving only through continuous human advocacy.  
 
-> 📡 Cross-references:  
-> - [🧩 The Data Empathy Gap](./🧩_the_data_empathy_gap.md) — systemic precondition enabling zombie-data states  
-> - [🧠 Human Principles](../🧠_Human_Principles/) — typology of civic temperaments and failure modes  
-> - [⚖️ Legal State Governance](../⚖️_Legal_State_Governance/) — legal recognition and redress mechanisms  
+> 📡 Cross-references:
+> 
+> - [🧩 The Data Empathy Gap]  — *systemic precondition enabling zombie-data states*  
+> - [🧠 Human Principles] — *typology of civic temperaments and failure modes*  
+> - [⚖️ Legal & State Governance] — *legal recognition and redress mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-29_
+_Last updated: 2025-12-13_
