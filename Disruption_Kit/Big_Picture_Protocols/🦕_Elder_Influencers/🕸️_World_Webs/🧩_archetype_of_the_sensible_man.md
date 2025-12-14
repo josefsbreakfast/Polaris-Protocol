@@ -163,7 +163,17 @@ He is a stabiliser, not a partner.
 ## 🌌 Constellations  
 🧩 🧠 📚 ⚖️ – class-coded gender scripts, cultural archetypes, stability narratives, governance symbolism.  
 
-An example of this in the wild, since first writing, would be Keir Starmer's prime ministerial TikTok account.  
+An example of this in the wild, since first writing, would be [Keir Starmer's prime ministerial TikTok account](https://vm.tiktok.com/ZNRFh4GoT/).  
+
+Whoever is on that Comms is having a great time, although I would strongly advise care in [anything](https://vm.tiktok.com/ZNRFhmpHj/) that event *hints* at disrepecting Larry and his importance.  
+
+Larry had the best Twitter account in British politics, and Whitehall owes that deference.  
+
+He has merch at the HoC shop, incidently, which I only know because I got cold at an anti-genocide rally and that was the most obvious place to buy a hoodie.  
+
+Although not enough merch of the Downing Street cats, tbqh.  
+
+[Tl;dr for the USians. We like domestic animals more than people on small islands. Cf. Japan.](https://en.wikipedia.org/wiki/Larry_(cat))
 
 ---
 
