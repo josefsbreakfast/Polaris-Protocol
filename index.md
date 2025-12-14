@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:22:02 UTC_
+_Generated on 2025-12-14 08:25:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2946,6 +2946,7 @@ _Generated on 2025-12-14 08:22:02 UTC_
       - [`🧪_when_fork_errors_replicate_themselves.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧪_when_fork_errors_replicate_themselves.md)
       - [`🧬_forked_system_logic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧬_forked_system_logic.md)
       - [`🧮_integrity_drift.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧮_integrity_drift.md)
+      - [`🩺_how_risk_metadata_mispropagates_into_healthcare.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🩺_how_risk_metadata_mispropagates_into_healthcare.md)
       - [`🪞_clone_mimic_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪞_clone_mimic_theatre.md)
       - [`🪼_data_twin_fatigue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🪼_data_twin_fatigue.md)
     - [**🧠_Psychological_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/)
