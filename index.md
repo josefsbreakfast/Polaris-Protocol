@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:25:50 UTC_
+_Generated on 2025-12-14 08:27:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3213,6 +3213,7 @@ _Generated on 2025-12-14 08:25:50 UTC_
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
       - [`🧿_targeting_logic_metadata_signatures_prevent.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_metadata_signatures_prevent.md)
       - [`🪞_algorithmic_reframing.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪞_algorithmic_reframing.md)
+      - [`🪬_professional_profiles_with_high_system_literacy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪬_professional_profiles_with_high_system_literacy.md)
       - [`🪼_racialised_dual_attribution.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_racialised_dual_attribution.md)
       - [`🪼_when_data_pretends_to_be_meaning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_when_data_pretends_to_be_meaning.md)
       - [`🫠_projection_leak_signature.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫠_projection_leak_signature.md)
