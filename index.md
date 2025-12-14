@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:04:09 UTC_
+_Generated on 2025-12-14 22:05:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -401,6 +401,7 @@ _Generated on 2025-12-14 22:04:09 UTC_
         - [`🧩_academic_precarity_as_an_authoritarian_vector.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧩_academic_precarity_as_an_authoritarian_vector.md)
         - [`🧩_myth_vs_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧩_myth_vs_mechanism.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
+        - [`🧯_reputational_management_as_governance_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧯_reputational_management_as_governance_signal.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
         - [`🪞_the_i_got_got_moment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_i_got_got_moment.md)
