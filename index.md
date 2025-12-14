@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:31:53 UTC_
+_Generated on 2025-12-14 08:33:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -406,6 +406,7 @@ _Generated on 2025-12-14 08:31:53 UTC_
         - [`📂_emergent_litigation_ai_language_psychological_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📂_emergent_litigation_ai_language_psychological_harm.md)
         - [`📊_kpi_vs_okr_in_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_kpi_vs_okr_in_government.md)
         - [`📊_scale_of_effects_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_scale_of_effects_estimate.md)
+        - [`📊_skillset_risk_matrix.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_skillset_risk_matrix.md)
         - [`📡_inquiry_convergence_theory.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📡_inquiry_convergence_theory.md)
         - [`🔥_the_latency_years_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔥_the_latency_years_timeline.md)
         - [`🕸️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🕸️_exploitability_and_defensive_strategy.md)
