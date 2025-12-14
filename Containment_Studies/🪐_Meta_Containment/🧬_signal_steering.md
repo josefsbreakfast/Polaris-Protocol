@@ -1,5 +1,5 @@
 # 🧬 Signal Steering — Downstream Tactics for Power-Weighted Inputs  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-13  
+**First created:** 2025-10-23 | **Last updated:** 2025-12-14  
 *When you can’t stop binding, change what binding does.*  
 
 ---
@@ -90,4 +90,4 @@ It documents biochemical-inspired methods for modulating influence after contact
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-14_
