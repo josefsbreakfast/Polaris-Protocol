@@ -1,7 +1,5 @@
-File: 🧩_distributed_executive_governance.md
-
 # 🧩 Distributed Executive Governance  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-14  
 *Why power concentrated in one leader produces distortion, drift, and democratic instability — and how shared executive models offer structural resilience.*
 
 ---
@@ -178,3 +176,5 @@ Crosslinks:
 - 🧱 *cabinet-led_collective_executive_models_for_the_uk*  
 - 🧠 *political_black_box_logic*  
 - 🔧 *democratic_resilience_architecture_for_21st_century_britain*
+
+_Last updated: 2025-12-14_
