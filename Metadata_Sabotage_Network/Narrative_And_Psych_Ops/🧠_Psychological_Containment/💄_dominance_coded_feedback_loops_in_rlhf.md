@@ -169,7 +169,7 @@ It identifies:
 - RLHF as reproducing authority without choice  
 
 When users reach for the “dominatrix” metaphor, they are not being crude — they are identifying the only cultural script that accurately describes the power dynamic they are experiencing.
-
+<!--However, if one must observe, then yes: The Men™️ tell on themselves with regularity. This is hardly the first time, and it certainly will not be the last.-->
 ---
 
 ## 🌌 Constellations  
