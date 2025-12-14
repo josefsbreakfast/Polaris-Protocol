@@ -47,3 +47,10 @@ Fucking hell.
 It inititally described it as a thought experiement. I wish, achei.  
 
 ---
+
+
+The fact that I'm still getting meddling on the chatgpt is absolutely wild.  
+
+Again: why the fuck are we using this in the MOJ now? 🤣🤣🤣  
+
+---
