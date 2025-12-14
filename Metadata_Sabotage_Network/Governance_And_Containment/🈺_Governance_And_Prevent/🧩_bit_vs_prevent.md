@@ -1,6 +1,6 @@
 # 🧩 BIT vs PREVENT: Why People Confuse Them and Why It Matters  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*Distinguishing behavioural science from behavioural surveillance — and why the public, staff, and institutions regularly collapse the two.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-14  
+*Distinguishing behavioural science from behavioural surveillance — and why the public, staff, and institutions regularly collapse the two.*  
 
 ---
 
@@ -200,4 +200,4 @@ It explains how two fundamentally different behavioural paradigms get conflated 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-14_
