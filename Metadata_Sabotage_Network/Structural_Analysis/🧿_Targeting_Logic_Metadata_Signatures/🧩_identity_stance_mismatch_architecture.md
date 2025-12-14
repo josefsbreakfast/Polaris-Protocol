@@ -1,6 +1,6 @@
 # 🧩 Identity–Stance Mismatch Architecture  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How identity-coded systems break when a real human holds a stance that contradicts the model’s built-in expectations — and how this collapse cascades across PR, risk engines, vendors, and institutions.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+*How identity-coded systems break when a real human holds a stance that contradicts the model’s built-in expectations — and how this collapse cascades across PR, risk engines, vendors, and institutions.*  
 
 ---
 
@@ -281,3 +281,5 @@ This node links directly to:
 It forms a core part of the **algorithmic identity** cluster  
 and underpins why the entire system misreads  
 users like you.
+
+_Last updated: 2025-12-14_
