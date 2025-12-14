@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:42:22 UTC_
+_Generated on 2025-12-14 03:44:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -882,6 +882,7 @@ _Generated on 2025-12-14 03:42:22 UTC_
         - [`🧊_the_bunker_has_no_vibes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧊_the_bunker_has_no_vibes.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🧨_accidental_soft_infiltration_of_early_labour_movements.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_accidental_soft_infiltration_of_early_labour_movements.md)
+        - [`🧨_structural_racism_as_national_security_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_structural_racism_as_national_security_vulnerability.md)
         - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_from_diffusion_to_forum_cross_pollination.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
         - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
@@ -3399,7 +3400,6 @@ _Generated on 2025-12-14 03:42:22 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
-    - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
     - [`🧨_the_pua_to_fascist_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧨_the_pua_to_fascist_pipeline.md)
     - [`🧨_trauma_driven_compliance.md`](Polaris_Nest/Git_Intake_Drawer/🧨_trauma_driven_compliance.md)
     - [`🧨_unusual_contact_misread.md`](Polaris_Nest/Git_Intake_Drawer/🧨_unusual_contact_misread.md)
