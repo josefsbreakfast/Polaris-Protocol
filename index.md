@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:33:13 UTC_
+_Generated on 2025-12-14 10:36:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -166,6 +166,7 @@ _Generated on 2025-12-14 10:33:13 UTC_
         - [`🧨_the_schmittian_drift_in_exceptional_detention_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)
         - [`🧩_distributed_executive_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_distributed_executive_governance.md)
         - [`🧩_when_law_has_collapsed_into_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_when_law_has_collapsed_into_power.md)
+        - [`🧬_irreversible_limits_when_physics_refuses_economic_fantasy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits_when_physics_refuses_economic_fantasy.md)
         - [`🪶_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪶_reading_the_dog_whistle.md)
         - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
