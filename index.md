@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:39:21 UTC_
+_Generated on 2025-12-14 10:40:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -478,6 +478,7 @@ _Generated on 2025-12-14 10:39:21 UTC_
         - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
         - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/📁_absence_of_check_in.md)
         - [`🛰️_counter_extremism_by_network.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🛰️_counter_extremism_by_network.md)
+        - [`🦕_geological_timescale_economics_make_new_dinosaurs.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md)
         - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
         - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧠_the_dev.md)
         - [`🧨_crisis_actor_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧨_crisis_actor_dynamics.md)
