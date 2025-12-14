@@ -1,6 +1,6 @@
 # 🧨 Pathways of Escalation (How Prevent Spirals)  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*A detailed map of how Prevent takes small concerns, ordinary emotions, misunderstandings, and racialised assumptions — and spirals them into disproportionate, harmful, and often traumatic escalations across multi-agency systems.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-14  
+*A detailed map of how Prevent takes small concerns, ordinary emotions, misunderstandings, and racialised assumptions — and spirals them into disproportionate, harmful, and often traumatic escalations across multi-agency systems.*  
 
 ---
 
@@ -295,4 +295,4 @@ It maps how Prevent turns small concerns into major multi-agency interventions �
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-14_
