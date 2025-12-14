@@ -1,6 +1,6 @@
 # 🪆 Containment Logic as Witch Logic  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How modern institutional containment behaviours mirror the structure of historical witch trials — converting uncertainty, discomfort, and systemic fear into suspicion of the survivor.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-14  
+*How modern institutional containment behaviours mirror the structure of historical witch trials — converting uncertainty, discomfort, and systemic fear into suspicion of the survivor.*  
 
 ---
 
@@ -211,4 +211,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-14_
