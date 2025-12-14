@@ -1,6 +1,6 @@
 # 🧩 Containment Economics — A No-Villain Dystopia  
-**First created:** 2025-10-24  |  **Last updated:** 2025-10-24  
-*How a perfectly rational system eats itself.*
+**First created:** 2025-10-24 | **Last updated:** 2025-12-14  
+*How a perfectly rational system eats itself.*  
 
 ---
 
@@ -238,9 +238,10 @@ It maps how rational optimisation becomes self-consuming, turning efficiency int
 It offers release-valve design as the only sustainable counter-strategy.  
 
 > 📡 Cross-references:  
-> – [🔥 The Witchings of Europe](../🔥_the_witchings_of_europe.md) — historical precedents for bureaucratic purges  
-> – [🧬 Algorithmic Endocrinology](../🧬_Algorithmic_Endocrinology/README.md) — metabolic parallels  
-> – [🧭 Governance and Oversight in Algorithmic Health](../🧬_Algorithmic_Endocrinology/🧭_governance_and_oversight_in_algorithmic_health.md) — regulatory framework  
+> – [🔥 The Witchings of Europe] — historical precedents for bureaucratic purges  
+> – [🧬 Algorithmic Endocrinology] — metabolic parallels  
+> – [🧭 Governance and Oversight in Algorithmic Health] — regulatory framework  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-24_
+
+_Last updated: 2025-12-14_
