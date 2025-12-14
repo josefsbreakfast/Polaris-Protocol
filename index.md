@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:19:05 UTC_
+_Generated on 2025-12-14 10:20:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1116,6 +1116,7 @@ _Generated on 2025-12-14 10:19:05 UTC_
         - [`🗞️_clone_newsrooms.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🗞️_clone_newsrooms.md)
         - [`🗞️_credibility_corrosion.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🗞️_credibility_corrosion.md)
         - [`🛰️_financial_attrition_as_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🛰️_financial_attrition_as_suppression.md)
+        - [`🦊_british_discomfort_with_imported_toughness_aesthetics.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🦊_british_discomfort_with_imported_toughness_aesthetics.md)
         - [`🧬_cambridge_analytica_genealogy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🧬_cambridge_analytica_genealogy.md)
         - [`🧭_trust_fatigue.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🧭_trust_fatigue.md)
         - [`🪞_safes_shelves_servers.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🪞_safes_shelves_servers.md)
