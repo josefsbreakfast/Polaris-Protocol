@@ -1,6 +1,6 @@
 # 🧨 Dual-Use Frankenstack  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*Hypothetical composite stack illustrating how civilian behavioural-tech layers could hybridise into a coercive governance system.*
+**First created:** 2025-11-08 | **Last updated:** 2025-12-14  
+*Hypothetical composite stack illustrating how civilian behavioural-tech layers could hybridise into a coercive governance system.*  
 
 ---
 
@@ -91,10 +91,11 @@ dual-use, frankenstack, behavioural governance, humanitarian theatre, legitimacy
 *Dual-Use Frankenstack* is a **hypothetical analytic node** of the Polaris Protocol.  
 It maps how well-intentioned behavioural systems could fuse into coercive infrastructures under degraded legal and political conditions.  
 
-> 📡 Cross-references:  
-> - [🧨 Dual-Use Epiphany](./🧨_dual_use_epiphany.md) — enabling social & contractual environment  
-> - [🏛️ Non-Transferability of Behavioural Interventions](./🏛️_non_transferability_of_behavioral_interventions.md) — contextual limits and legitimacy logic  
+> 📡 Cross-references:
+> 
+> - [🧨 Dual-Use Epiphany] — enabling social & contractual environment  
+> - [🏛️ Non-Transferability of Behavioural Interventions] — contextual limits and legitimacy logic  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-14_
