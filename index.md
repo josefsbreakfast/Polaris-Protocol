@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:55:27 UTC_
+_Generated on 2025-12-14 13:57:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -491,6 +491,7 @@ _Generated on 2025-12-14 13:55:27 UTC_
         - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_failure_recycling.md)
         - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_pilot_containments.md)
         - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_shadow_sandboxes.md)
+        - [`🧯_governance_gap_explanation_vs_acceptability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧯_governance_gap_explanation_vs_acceptability.md)
         - [`🧲_the_magnet_doesnt_care_applied_science_vs_tech_bro_cosmology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧲_the_magnet_doesnt_care_applied_science_vs_tech_bro_cosmology.md)
         - [`🩸_behavioural_intervention_during_period.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🩸_behavioural_intervention_during_period.md)
         - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪞_the_illusion_of_choice.md)
