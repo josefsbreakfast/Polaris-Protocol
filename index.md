@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:25:29 UTC_
+_Generated on 2025-12-14 09:26:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3002,6 +3002,7 @@ _Generated on 2025-12-14 09:25:29 UTC_
       - [`🧠_misclassification_via_trauma_reflexes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_misclassification_via_trauma_reflexes.md)
       - [`🧠_psychology_of_volunteer_surveillance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_psychology_of_volunteer_surveillance.md)
       - [`🧠_rationalist_to_alt_right_drift_pipeline.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_rationalist_to_alt_right_drift_pipeline.md)
+      - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧩_premature_resolution_the_what_do_you_want_trap.md)
       - [`🧲_why_defence_assets_are_misinformation_magnets.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧲_why_defence_assets_are_misinformation_magnets.md)
       - [`🧿_persistent_discrediting_force.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md)
       - [`🩰_escaping_the_frame.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🩰_escaping_the_frame.md)
@@ -3470,7 +3471,6 @@ _Generated on 2025-12-14 09:25:29 UTC_
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
-    - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
     - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧩_risk_vector_inversions_in_authoritarian_systems.md)
     - [`🧩_semi_compensating_spld_theory.md`](Polaris_Nest/Git_Intake_Drawer/🧩_semi_compensating_spld_theory.md)
