@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:02:23 UTC_
+_Generated on 2025-12-14 08:04:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2622,6 +2622,7 @@ _Generated on 2025-12-14 08:02:23 UTC_
     - [`🧬_heat_budget_for_the_long_game.md`](Disruption_Kit/Survivor_Tools/🧬_heat_budget_for_the_long_game.md)
     - [`🧬_honeytrap_mechanics.md`](Disruption_Kit/Survivor_Tools/🧬_honeytrap_mechanics.md)
     - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
+    - [`🧰_early_warning_signs_of_crawl_layer_pressure.md`](Disruption_Kit/Survivor_Tools/🧰_early_warning_signs_of_crawl_layer_pressure.md)
     - [`🧰_leave_me_alone_playbook.md`](Disruption_Kit/Survivor_Tools/🧰_leave_me_alone_playbook.md)
     - [`🧾_evidence_visibility_toolkit2.md`](Disruption_Kit/Survivor_Tools/🧾_evidence_visibility_toolkit2.md)
     - [`🧾_evidence_visibility_toolkit_3.md`](Disruption_Kit/Survivor_Tools/🧾_evidence_visibility_toolkit_3.md)
