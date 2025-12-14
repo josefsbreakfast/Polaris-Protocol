@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:40:20 UTC_
+_Generated on 2025-12-14 03:42:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -360,6 +360,7 @@ _Generated on 2025-12-14 03:40:20 UTC_
         - [`🧠_the_ministry_of_overconfident_misreadings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_the_ministry_of_overconfident_misreadings.md)
         - [`🧨_centre_left_threat_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_centre_left_threat_archetypes.md)
         - [`🧨_gitmo_to_gaza_exception_chain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_gitmo_to_gaza_exception_chain.md)
+        - [`🧨_semantic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_semantic_collapse.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
@@ -3398,7 +3399,6 @@ _Generated on 2025-12-14 03:40:20 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
-    - [`🧨_semantic_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🧨_semantic_collapse.md)
     - [`🧨_structural_racism_as_national_security_vulnerability.md`](Polaris_Nest/Git_Intake_Drawer/🧨_structural_racism_as_national_security_vulnerability.md)
     - [`🧨_the_pua_to_fascist_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧨_the_pua_to_fascist_pipeline.md)
     - [`🧨_trauma_driven_compliance.md`](Polaris_Nest/Git_Intake_Drawer/🧨_trauma_driven_compliance.md)
