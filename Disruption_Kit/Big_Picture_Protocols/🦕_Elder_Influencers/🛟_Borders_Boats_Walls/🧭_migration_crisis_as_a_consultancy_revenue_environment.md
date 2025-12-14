@@ -1,5 +1,5 @@
 # 🧭 Migration Crisis as a Consultancy Revenue Environment  
-**First created:** 2025-08-05 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
 *How prolonged migration crises create structural demand for classification, control, and optimisation services.*
 
 ---
