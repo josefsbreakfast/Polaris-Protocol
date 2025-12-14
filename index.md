@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:15:39 UTC_
+_Generated on 2025-12-14 04:17:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -294,6 +294,7 @@ _Generated on 2025-12-14 04:15:39 UTC_
         - [`🧠_smart_women_get_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
         - [`🧠_the_black_box_of_executive_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_the_black_box_of_executive_power.md)
         - [`🧩_asymmetric_democratic_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_asymmetric_democratic_policing.md)
+        - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_colonial_scripts_in_modern_bureaucracies.md)
         - [`🧩_lepore_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_lepore_continuum.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
@@ -3410,7 +3411,6 @@ _Generated on 2025-12-14 04:15:39 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Polaris_Nest/Git_Intake_Drawer/🧩_colonial_scripts_in_modern_bureaucracies.md)
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_counter_extraction_loop_reclaiming_authorship.md`](Polaris_Nest/Git_Intake_Drawer/🧩_counter_extraction_loop_reclaiming_authorship.md)
     - [`🧩_cross_group_solidarity_as_algorithmic_destabiliser.md`](Polaris_Nest/Git_Intake_Drawer/🧩_cross_group_solidarity_as_algorithmic_destabiliser.md)
