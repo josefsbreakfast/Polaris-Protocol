@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 11:26:20 UTC_
+_Generated on 2025-12-14 11:28:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -625,6 +625,7 @@ _Generated on 2025-12-14 11:26:20 UTC_
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md)
           - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/⚖️_slapps_uk_global_palestine.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md)
+        - [`⚠️_prelude_conditions_to_atrocity.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md)
         - [`🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md)
         - [`🌐_suppression_of_holocaust_testimony_online.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
         - [`🍉_friction_erasure_and_the_machine_view_of_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_friction_erasure_and_the_machine_view_of_resistance.md)
