@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:20:31 UTC_
+_Generated on 2025-12-14 10:23:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3055,6 +3055,7 @@ _Generated on 2025-12-14 10:20:31 UTC_
       - [`💄_hypothetical_case_disinfo_narrative_control.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)
       - [`💔_manufactured_intimacy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💔_manufactured_intimacy.md)
       - [`💔_when_the_algorithm_thinks_its_a_rom_com.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💔_when_the_algorithm_thinks_its_a_rom_com.md)
+      - [`💘🤡_triangulated_projection_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💘🤡_triangulated_projection_sabotage.md)
       - [`💞_affective_proxy_substitution.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💞_affective_proxy_substitution.md)
       - [`💣_syntactic_drift_and_clone_tone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
       - [`📊_the_missing_national_risk_register_2023_2025.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📊_the_missing_national_risk_register_2023_2025.md)
