@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:25:41 UTC_
+_Generated on 2025-12-14 03:26:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -29,6 +29,7 @@ _Generated on 2025-12-14 03:25:41 UTC_
   - [**🪐_Meta_Containment/**](Containment_Studies/🪐_Meta_Containment/)
     - [`README.md`](Containment_Studies/🪐_Meta_Containment/README.md)
     - [`🧨_containment_as_accelerant.md`](Containment_Studies/🪐_Meta_Containment/🧨_containment_as_accelerant.md)
+    - [`🧨_dual_use_epiphany.md`](Containment_Studies/🪐_Meta_Containment/🧨_dual_use_epiphany.md)
     - [`🧬_signal_steering.md`](Containment_Studies/🪐_Meta_Containment/🧬_signal_steering.md)
     - [`🧿_against_pseudoanthropy.md`](Containment_Studies/🪐_Meta_Containment/🧿_against_pseudoanthropy.md)
   - [`README.md`](Containment_Studies/README.md)
@@ -3390,7 +3391,6 @@ _Generated on 2025-12-14 03:25:41 UTC_
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
-    - [`🧨_dual_use_epiphany.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_epiphany.md)
     - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
     - [`🧨_fear_symbol_leverage.md`](Polaris_Nest/Git_Intake_Drawer/🧨_fear_symbol_leverage.md)
     - [`🧨_five_archetypes_the_centre_left_fears.md`](Polaris_Nest/Git_Intake_Drawer/🧨_five_archetypes_the_centre_left_fears.md)
