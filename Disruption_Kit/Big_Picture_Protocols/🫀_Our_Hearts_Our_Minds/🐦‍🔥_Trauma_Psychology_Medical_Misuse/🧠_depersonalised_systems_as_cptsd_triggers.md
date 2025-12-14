@@ -1,6 +1,6 @@
-# 🧠 Depersonalised Systems as CPTSD Triggers
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*Why opaque, impersonal systems reproduce abandonment-shaped stress responses*
+# 🧠 Depersonalised Systems as CPTSD Triggers  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+*Why opaque, impersonal systems reproduce abandonment-shaped stress responses*  
 
 ---
 
@@ -145,14 +145,14 @@ trauma triggers, nervous system activation
 
 ## 🏮 Footer
 
-Depersonalised Systems as CPTSD Triggers is a living node of the **Polaris Protocol**.
+*🧠 Depersonalised Systems as CPTSD Triggers* is a living node of the **Polaris Protocol**.
 It documents how non-relational systems can reproduce trauma-shaped stress
 responses without hostility or intent.
 
 > 📡 Cross-references:
 >
-> - [📉 Why Metrics Feel Like Surveillance](./📉_why_metrics_feel_like_surveillance.md) — perception under opacity  
-> - [🕳️ Ambient Threat Simulation](./🕳️_ambient_threat_simulation.md) — threat sensation without agency  
+> - [📉 Why Metrics Feel Like Surveillance] — perception under opacity  
+> - [🕳️ Ambient Threat Simulation]  — threat sensation without agency  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
