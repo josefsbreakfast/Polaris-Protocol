@@ -129,7 +129,7 @@ reflexive defence, nervous system mechanics, pattern-triggered response
 
 ## 🏮 Footer
 
-Orbicularis Panniculi Logic is a living node of the **Polaris Protocol**.
+*🦔 Orbicularis Panniculi Logic* is a living node of the **Polaris Protocol**.
 It documents trauma responses as mechanical, protective contractions
 that operate prior to cognition or meaning-making.
 
