@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 11:00:09 UTC_
+_Generated on 2025-12-14 11:02:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1190,6 +1190,7 @@ _Generated on 2025-12-14 11:00:09 UTC_
         - [`suspect_interaction_flowchart_loop_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/suspect_interaction_flowchart_loop_redacted.png)
         - [`⚖️_containment_as_threshold_crime.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/⚖️_containment_as_threshold_crime.md)
         - [`⚖️_landlord_remedies_for_covert_surveillance_abuse.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/⚖️_landlord_remedies_for_covert_surveillance_abuse.md)
+        - [`⚙️_practitioner_personality_as_risk_vector.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/⚙️_practitioner_personality_as_risk_vector.md)
         - [`🌀_answering_uncertainty_in_ai_environments.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🌀_answering_uncertainty_in_ai_environments.md)
         - [`🎙️_unconsented_voice_beta.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎙️_unconsented_voice_beta.md)
         - [`🎥_anomaly_incentives_in_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md)
