@@ -1,5 +1,5 @@
 # 🧩 Device Integrity and Anti-Jailbreak Logic  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-26 | **Last updated:** 2025-12-14  
 *When phones lie to you.*  
 
 ---
@@ -99,3 +99,5 @@ Cross-links:
 - ⚙️ *Automated Escalation — Workflow Engines of Containment*  
 - 🧿 *Watch the Watchers — Platform Integrity Audits*  
 - 🛰️ *Risk Scoring Architectures — Thresholds and Triggers*  
+
+_Last updated: 2025-12-14_
