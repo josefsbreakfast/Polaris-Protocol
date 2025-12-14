@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:14:19 UTC_
+_Generated on 2025-12-14 22:14:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1583,6 +1583,7 @@ _Generated on 2025-12-14 22:14:19 UTC_
       - [`🍉_chatgpt_is_allergic_to_doikeyt.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍉_chatgpt_is_allergic_to_doikeyt.md)
       - [`🍌_project_workaround.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍌_project_workaround.md)
       - [`🍯🍎_self_rescuing_eshet_chayil.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍯🍎_self_rescuing_eshet_chayil.md)
+      - [`🍴_heavy_blunt_forking.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍴_heavy_blunt_forking.md)
       - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
       - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
       - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
@@ -2259,7 +2260,6 @@ _Generated on 2025-12-14 22:14:19 UTC_
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`why_we_have_only_just_started.png`](Disruption_Kit/Field_Logs/why_we_have_only_just_started.png)
     - [`🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png`](Disruption_Kit/Field_Logs/🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png)
-    - [`🍴_heavy_blunt_forking.md`](Disruption_Kit/Field_Logs/🍴_heavy_blunt_forking.md)
     - [`🍿_regarding_negotiations.md`](Disruption_Kit/Field_Logs/🍿_regarding_negotiations.md)
     - [`🎣_fishing_for_photo_access_permissions_as_usual.PNG`](Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.PNG)
     - [`🎣_fishing_for_photo_access_permissions_as_usual.md`](Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.md)
