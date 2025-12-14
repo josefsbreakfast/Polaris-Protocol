@@ -1,6 +1,6 @@
 # 🧨 Bad Broker Effect  
-**First created:** 2025-11-26 | **Last updated:** 2025-11-26  
-*How “case suppliers” gain outsized influence in data-hungry ecosystems and cause long-tail harm through intermittent nudges.*
+**First created:** 2025-11-26 | **Last updated:** 2025-12-14  
+*How “case suppliers” gain outsized influence in data-hungry ecosystems and cause long-tail harm through intermittent nudges.*  
 
 ---
 
@@ -175,13 +175,14 @@ broker effect, informal power, zombie data, prevent failures, long-term harm, sl
 ---
 
 ## 🏮 Footer  
-**Bad Broker Effect** is a living node of the **Polaris Protocol**, documenting how individuals gain disproportionate influence in data-hungry governance ecosystems and cause multi-year harm through intermittent nudges. It frames this as a structural vulnerability of porous R&D–civic systems rather than a personality issue alone.  
+*Bad Broker Effect* is a living node of the **Polaris Protocol**, documenting how individuals gain disproportionate influence in data-hungry governance ecosystems and cause multi-year harm through intermittent nudges. It frames this as a structural vulnerability of porous R&D–civic systems rather than a personality issue alone.  
 
-> 📡 Cross-references:  
-> - [Containment_Studies](../Containment_Studies/) — *system-level distortions and recursion*  
-> - [Metadata_Sabotage_Network](../Metadata_Sabotage_Network/) — *contaminated data pathways & provenance collapse*  
-> - [Big_Picture_Protocols](../Big_Picture_Protocols/) — *structural risk diagnostics*
+> 📡 Cross-references:
+> 
+> - [Containment_Studies] — *system-level distortions and recursion*  
+> - [Metadata_Sabotage_Network] — *contaminated data pathways & provenance collapse*  
+> - [Big_Picture_Protocols] — *structural risk diagnostics*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-26_
+_Last updated: 2025-12-14_
