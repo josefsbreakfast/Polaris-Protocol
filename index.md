@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 11:06:35 UTC_
+_Generated on 2025-12-14 11:07:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -524,6 +524,7 @@ _Generated on 2025-12-14 11:06:35 UTC_
           - [`🧿_dependancy_on_western_definitions.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
           - [`🧿_jewish_nationalisms.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md)
           - [`🧿_moda_grants.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_moda_grants.md)
+          - [`🪶_anti_zionist_judaism_as_protected_identity.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🪶_anti_zionist_judaism_as_protected_identity.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
         - [`appeasement_loop_neon.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
         - [`data_misuse_continuum_with_resilience_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/data_misuse_continuum_with_resilience_flowchart.png)
