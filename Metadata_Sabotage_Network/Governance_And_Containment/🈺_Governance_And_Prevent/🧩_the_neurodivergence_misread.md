@@ -1,6 +1,6 @@
 # 🧩 The Neurodivergence Misread  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent repeatedly confuses autistic traits, ADHD profiles, sensory overwhelm, emotional dysregulation, and special interests with “ideological fixation” or “instability”—criminalising difference instead of understanding it.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-14  
+*How Prevent repeatedly confuses autistic traits, ADHD profiles, sensory overwhelm, emotional dysregulation, and special interests with “ideological fixation” or “instability”—criminalising difference instead of understanding it.*  
 
 ---
 
@@ -227,4 +227,4 @@ It documents how Prevent frameworks mistake autistic, ADHD, and sensory-driven b
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-14_
