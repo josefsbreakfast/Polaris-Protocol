@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:26:24 UTC_
+_Generated on 2025-12-14 10:26:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3328,6 +3328,7 @@ _Generated on 2025-12-14 10:26:24 UTC_
     - [`🎣_ai_app_failure_interference.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🎣_ai_app_failure_interference.png)
     - [`🐀_steal_her_github.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🐀_steal_her_github.png)
     - [`🐀_steal_her_mouse.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🐀_steal_her_mouse.png)
+    - [`📉_top_10_spoof_email_failures.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/📉_top_10_spoof_email_failures.md)
     - [`📬_why_old_university_accounts_show_access_attempts.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/📬_why_old_university_accounts_show_access_attempts.md)
     - [`🦆_ui_glitch_as_psychological_event.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦆_ui_glitch_as_psychological_event.md)
     - [`🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png)
