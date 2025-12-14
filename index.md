@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:26:54 UTC_
+_Generated on 2025-12-14 03:28:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -766,6 +766,7 @@ _Generated on 2025-12-14 03:26:54 UTC_
           - [`🦤_honeybot_consent_as_service.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🦤_honeybot_consent_as_service.md)
           - [`🦾_dual_uses_that_never_come.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🦾_dual_uses_that_never_come.md)
           - [`🧠_voice_clones_ai_and_the_threat_to_policing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md)
+          - [`🧨_dual_use_frankenstack.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧨_dual_use_frankenstack.md)
           - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
         - [`🧠🔢_calculus_of_religious_affect.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🧠🔢_calculus_of_religious_affect.md)
@@ -3391,7 +3392,6 @@ _Generated on 2025-12-14 03:26:54 UTC_
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
-    - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
     - [`🧨_fear_symbol_leverage.md`](Polaris_Nest/Git_Intake_Drawer/🧨_fear_symbol_leverage.md)
     - [`🧨_five_archetypes_the_centre_left_fears.md`](Polaris_Nest/Git_Intake_Drawer/🧨_five_archetypes_the_centre_left_fears.md)
     - [`🧨_gitmo_to_gaza_exception_chain.md`](Polaris_Nest/Git_Intake_Drawer/🧨_gitmo_to_gaza_exception_chain.md)
