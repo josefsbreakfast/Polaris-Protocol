@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:55:19 UTC_
+_Generated on 2025-12-14 03:56:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -886,6 +886,7 @@ _Generated on 2025-12-14 03:55:19 UTC_
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🧨_accidental_soft_infiltration_of_early_labour_movements.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_accidental_soft_infiltration_of_early_labour_movements.md)
         - [`🧨_structural_racism_as_national_security_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_structural_racism_as_national_security_vulnerability.md)
+        - [`🧩_archetype_of_the_sensible_man.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_archetype_of_the_sensible_man.md)
         - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_from_diffusion_to_forum_cross_pollination.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
         - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
@@ -3407,7 +3408,6 @@ _Generated on 2025-12-14 03:55:19 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_archetype_of_the_sensible_man.md`](Polaris_Nest/Git_Intake_Drawer/🧩_archetype_of_the_sensible_man.md)
     - [`🧩_asymmetric_democratic_policing.md`](Polaris_Nest/Git_Intake_Drawer/🧩_asymmetric_democratic_policing.md)
     - [`🧩_bit_vs_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧩_bit_vs_prevent.md)
     - [`🧩_civic_sar_avalanche_method.md`](Polaris_Nest/Git_Intake_Drawer/🧩_civic_sar_avalanche_method.md)
