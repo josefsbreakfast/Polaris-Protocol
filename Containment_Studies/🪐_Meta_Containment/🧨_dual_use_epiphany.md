@@ -1,6 +1,6 @@
-# 🧨 Dual-Use Epiphany
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08
-*Social and institutional conditions that make dual-use convergence plausible.*
+# 🧨 Dual-Use Epiphany  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-14  
+*Social and institutional conditions that make dual-use convergence plausible.*  
 
 ---
 
@@ -48,9 +48,10 @@ dual-use, procurement, policy drift, social logic, moral disengagement, surveill
 It captures the enabling conditions through which civilian projects morph into coercive architectures.
 
 > 📡 Cross-references:
-> - [🧨 Dual-Use Frankenstack](./🧨_dual_use_frankenstack.md) — technical manifestation
-> - [🏛️ Non-Transferability of Behavioural Interventions](./🏛️_non_transferability_of_behavioral_interventions.md) — contextual failure of behavioural transfer
+> 
+> - [🧨 Dual-Use Frankenstack] — technical manifestation
+> - [🏛️ Non-Transferability of Behavioural Interventions] — contextual failure of behavioural transfer
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-14_
