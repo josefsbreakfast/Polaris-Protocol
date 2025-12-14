@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:19:00 UTC_
+_Generated on 2025-12-14 08:20:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2986,6 +2986,7 @@ _Generated on 2025-12-14 08:19:00 UTC_
       - [`🥕_tiny_wins_exhaustion_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥕_tiny_wins_exhaustion_containment.md)
       - [`🧊_glass_box_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md)
       - [`🧠_escalation_weather_map.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_escalation_weather_map.md)
+      - [`🧠_how_coincidence_becomes_conspiracy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_how_coincidence_becomes_conspiracy.md)
       - [`🧠_institutional_perception_the_no_win_zone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_institutional_perception_the_no_win_zone.md)
       - [`🧠_misclassification_via_trauma_reflexes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_misclassification_via_trauma_reflexes.md)
       - [`🧠_psychology_of_volunteer_surveillance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_psychology_of_volunteer_surveillance.md)
