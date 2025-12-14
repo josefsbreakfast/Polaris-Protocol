@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:44:20 UTC_
+_Generated on 2025-12-14 03:46:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -665,6 +665,7 @@ _Generated on 2025-12-14 03:44:20 UTC_
         - [`🧨_differential_classification_as_radicalisation_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)
         - [`🧨_securitisation_feedback_loop.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_securitisation_feedback_loop.md)
         - [`🧨_spectacle_of_raids.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_spectacle_of_raids.md)
+        - [`🧨_the_pua_to_fascist_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_the_pua_to_fascist_pipeline.md)
         - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
         - [`🧮_behavioural_risk_scoring_and_internet_triage_systems.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_behavioural_risk_scoring_and_internet_triage_systems.md)
         - [`🧮_datafication_as_risk_vector.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_datafication_as_risk_vector.md)
@@ -3400,7 +3401,6 @@ _Generated on 2025-12-14 03:44:20 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
-    - [`🧨_the_pua_to_fascist_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧨_the_pua_to_fascist_pipeline.md)
     - [`🧨_trauma_driven_compliance.md`](Polaris_Nest/Git_Intake_Drawer/🧨_trauma_driven_compliance.md)
     - [`🧨_unusual_contact_misread.md`](Polaris_Nest/Git_Intake_Drawer/🧨_unusual_contact_misread.md)
     - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Polaris_Nest/Git_Intake_Drawer/🧨_why_argumentation_fails_with_alt_right_ideology.md)
