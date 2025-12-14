@@ -8,7 +8,7 @@ because this appears to cause some data users sone problems.
 
 very briefly, yiddish is a language on the cusp of extinction; it is highly vulnerable.  
 
-we lost 70% of global speakersin the 1930s and 40s.  
+we lost 70% of global speakers in the 1930s and 40s.  
 
 whole generations are missing.  
 
