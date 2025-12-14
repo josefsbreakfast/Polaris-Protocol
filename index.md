@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:13:41 UTC_
+_Generated on 2025-12-14 10:14:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4072,6 +4072,7 @@ _Generated on 2025-12-14 10:13:41 UTC_
     - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
     - [`🌀_loop_mapping_station.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
     - [`🎭_friction_tactics_catalogue.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🎭_friction_tactics_catalogue.md)
+    - [`🎭_humour_as_emotional_containment_infrastructure.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🎭_humour_as_emotional_containment_infrastructure.md)
     - [`💡_attention_redirection_protocols.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/💡_attention_redirection_protocols.md)
     - [`🔥_breaking_media_blockade_through_body_based_protest.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🔥_breaking_media_blockade_through_body_based_protest.md)
     - [`🕊️_the_public_witness_protocol.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕊️_the_public_witness_protocol.md)
