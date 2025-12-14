@@ -1,7 +1,7 @@
 # 🧨 Fear-Symbol Leverage — Using Male Threat Clusters for Civic Delivery  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-14  
 *Strategic counter-nudges that exploit male fear symbolics to boost visibility, stability, and civic reach.*
-<!--Tell me that no large organosations or geopolitical forces do this. I'll wait. We're just teying to use the same techniques for harm-reduction purposes.-->
+<!--Tell me that no large organosations or geopolitical forces do this. I'll wait. We're just trying to use the same techniques for harm-reduction purposes.-->
 ---
 
 ## 🛰️ Orientation  
@@ -201,10 +201,11 @@ counter-nudges, male fear signatures, symbolic triggers, civic distribution, fem
 *🧨 Fear-Symbol Leverage — Using Male Threat Clusters for Civic Delivery* is a living node of the **Polaris Protocol**, outlining counter-nudge strategies that convert male fear behaviours into upward reach, enabling more effective delivery of civic, justice, and safety content through algorithmic reinforcement pathways.
 
 > 📡 Cross-references:
-> - [🧨 Counter Nudge Playbook](../🧨_Counter_Nudge_Playbook/) — intervention methods  
-> - [🎭 Narrative & Psych Ops](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/) — behavioural leverage  
-> - [🧬 Structural Mapping](../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping.md) — how symbolics interact with ranking logic
+> 
+> - [🧨 Counter Nudge Playbook] — intervention methods  
+> - [🎭 Narrative & Psych Ops] — behavioural leverage  
+> - [🧬 Structural Mapping] — how symbolics interact with ranking logic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-14_
