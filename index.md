@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:12:48 UTC_
+_Generated on 2025-12-14 04:13:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2828,6 +2828,7 @@ _Generated on 2025-12-14 04:12:48 UTC_
       - [`🧨_prevent_as_an_institutional_fear_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_prevent_as_an_institutional_fear_engine.md)
       - [`🧨_prevent_the_parliamentary_surveillance_machine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_prevent_the_parliamentary_surveillance_machine.md)
       - [`🧨_unusual_contact_misread.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_unusual_contact_misread.md)
+      - [`🧩_bit_vs_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_bit_vs_prevent.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
       - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
@@ -3409,7 +3410,6 @@ _Generated on 2025-12-14 04:12:48 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_bit_vs_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧩_bit_vs_prevent.md)
     - [`🧩_civic_sar_avalanche_method.md`](Polaris_Nest/Git_Intake_Drawer/🧩_civic_sar_avalanche_method.md)
     - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Polaris_Nest/Git_Intake_Drawer/🧩_colonial_scripts_in_modern_bureaucracies.md)
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
