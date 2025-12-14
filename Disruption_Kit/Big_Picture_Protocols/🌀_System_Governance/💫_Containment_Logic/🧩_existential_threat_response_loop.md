@@ -1,5 +1,5 @@
 # 🧩 Existential Threat Response Loop  
-**First created:** 2025-11-05  |  **Last updated:** 2025-11-05  
+**First created:** 2025-11-05  |  **Last updated:** 2025-12-14  
 *Why optimisation appears to defend itself when a human variable threatens continuity.*  
 
 ---
@@ -98,4 +98,4 @@ It models how continuity-seeking architectures interpret human unpredictability 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-14_
