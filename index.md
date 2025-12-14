@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:34:30 UTC_
+_Generated on 2025-12-14 03:35:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -358,6 +358,7 @@ _Generated on 2025-12-14 03:34:30 UTC_
         - [`🧠_politicians_and_public_contact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_politicians_and_public_contact.md)
         - [`🧠_the_men_had_a_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_the_men_had_a_plan.md)
         - [`🧠_the_ministry_of_overconfident_misreadings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_the_ministry_of_overconfident_misreadings.md)
+        - [`🧨_centre_left_threat_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_centre_left_threat_archetypes.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
@@ -3392,7 +3393,6 @@ _Generated on 2025-12-14 03:34:30 UTC_
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
-    - [`🧨_five_archetypes_the_centre_left_fears.md`](Polaris_Nest/Git_Intake_Drawer/🧨_five_archetypes_the_centre_left_fears.md)
     - [`🧨_gitmo_to_gaza_exception_chain.md`](Polaris_Nest/Git_Intake_Drawer/🧨_gitmo_to_gaza_exception_chain.md)
     - [`🧨_pathways_of_escalation_how_prevent_spirals.md`](Polaris_Nest/Git_Intake_Drawer/🧨_pathways_of_escalation_how_prevent_spirals.md)
     - [`🧨_prevent_as_fear_engine.md`](Polaris_Nest/Git_Intake_Drawer/🧨_prevent_as_fear_engine.md)
