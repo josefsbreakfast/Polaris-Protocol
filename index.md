@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:47:29 UTC_
+_Generated on 2025-12-14 04:48:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2734,6 +2734,7 @@ _Generated on 2025-12-14 04:47:29 UTC_
       - [`🗣️_survivor_scripts_and_institutional_voiceover.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🗣️_survivor_scripts_and_institutional_voiceover.md)
       - [`🚑_extraction_quick_checklist.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🚑_extraction_quick_checklist.md)
       - [`🧠_machine_learning_as_moral_reeducation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧠_machine_learning_as_moral_reeducation.md)
+      - [`🧩_ideal_whitehall_response_sequence_counter_impersonation_and_oversight_integrity.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence_counter_impersonation_and_oversight_integrity.md)
       - [`🧪_experiments_in_ethical_retraining.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧪_experiments_in_ethical_retraining.md)
       - [`🧭_dispatch_ethics.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧭_dispatch_ethics.md)
       - [`🧮_audit_trails_of_obedience.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧮_audit_trails_of_obedience.md)
@@ -3426,7 +3427,6 @@ _Generated on 2025-12-14 04:47:29 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_ideal_whitehall_response_sequence.md`](Polaris_Nest/Git_Intake_Drawer/🧩_ideal_whitehall_response_sequence.md)
     - [`🧩_identity_behaviour_mismatch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_identity_behaviour_mismatch.md)
     - [`🧩_identity_stance_mismatch_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧩_identity_stance_mismatch_architecture.md)
     - [`🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md`](Polaris_Nest/Git_Intake_Drawer/🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md)
