@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:16:17 UTC_
+_Generated on 2025-12-14 10:17:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3192,6 +3192,7 @@ _Generated on 2025-12-14 10:16:17 UTC_
       - [`🦤_how_the_right_accidentally_infiltrated_itself.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🦤_how_the_right_accidentally_infiltrated_itself.md)
       - [`🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_attribution_inversion_language_drift_as_institutional_misdiagnosis.md)
       - [`🧠_how_bad_actors_incriminate_themselves.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_how_bad_actors_incriminate_themselves.md)
+      - [`🧪_reality_tv_as_coercive_stress_architecture.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧪_reality_tv_as_coercive_stress_architecture.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🧭_visual_glossary_containment_pulse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md)
       - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
