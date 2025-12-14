@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:25:06 UTC_
+_Generated on 2025-12-14 10:26:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3332,6 +3332,7 @@ _Generated on 2025-12-14 10:25:06 UTC_
     - [`🦆_ui_glitch_as_psychological_event.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦆_ui_glitch_as_psychological_event.md)
     - [`🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png)
     - [`🧃_20240902_feed_tiktok_rape_undermining.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🧃_20240902_feed_tiktok_rape_undermining.png)
+    - [`🧅_layers_of_spoofing_stupidity.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🧅_layers_of_spoofing_stupidity.md)
     - [`🪅_governance_comes_calling.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_governance_comes_calling.png)
     - [`🪅_jobs_still_partially_twinned.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_jobs_still_partially_twinned.png)
     - [`🪅_li_always_equity_analysis_i_trained_medically.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_always_equity_analysis_i_trained_medically.png)
