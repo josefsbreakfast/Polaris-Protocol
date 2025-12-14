@@ -1,6 +1,6 @@
 # 🧩 Great Replacement as Multigroup Elimination Myth  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*How the Great Replacement Theory coordinates eliminationist logic across Muslims, Black communities, Jews, and queer people.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+*How the Great Replacement Theory coordinates eliminationist logic across Muslims, Black communities, Jews, and queer people.*  
 
 ---
 
@@ -49,10 +49,11 @@ great replacement, fascism, elimination myth, demographic panic, antisemitism, i
 *🧩 Great Replacement as Multigroup Elimination Myth* is a living node of the Polaris Protocol.  
 It dissects the underlying narrative architecture linking today’s fascist organising to historical eliminationism.
 
-> 📡 Cross-references:  
-> - [🕌 Muslims as Primary Outgroup in Holocaust Mechanism](../🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md)  
-> - [✡️ Holocaust Prelude as Systemic Collapse](../✡️_holocaust_prelude_as_systemic_collapse.md)
+> 📡 Cross-references:
+> 
+> - [🕌 Muslims as Primary Outgroup in Holocaust Mechanism]  
+> - [✡️ Holocaust Prelude as Systemic Collapse]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-14_
