@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:51:08 UTC_
+_Generated on 2025-12-14 13:53:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3233,6 +3233,7 @@ _Generated on 2025-12-14 13:51:08 UTC_
       - [`🕊️_data_contact_breach.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕊️_data_contact_breach.md)
       - [`🕳️_curated_amnesia_has_a_shape.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕳️_curated_amnesia_has_a_shape.md)
       - [`🗺️_containment_fingerprint_atlas.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🗺️_containment_fingerprint_atlas.md)
+      - [`🚨_proxy_based_special_category_inference.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🚨_proxy_based_special_category_inference.md)
       - [`🤖_british_english_cannot_be_translated.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_british_english_cannot_be_translated.md)
       - [`🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤖_template_bureaucracy_when_ai_becomes_the_front_desk.md)
       - [`🤝_polite_containment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤝_polite_containment.md)
