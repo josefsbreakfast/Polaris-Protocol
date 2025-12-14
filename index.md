@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:26:25 UTC_
+_Generated on 2025-12-14 22:26:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1594,6 +1594,7 @@ _Generated on 2025-12-14 22:26:25 UTC_
       - [`🎪_job_to_do.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_job_to_do.md)
       - [`🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md)
       - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
+      - [`🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
@@ -2279,7 +2280,6 @@ _Generated on 2025-12-14 22:26:25 UTC_
     - [`🎪_procurement_item_classified.jpg`](Disruption_Kit/Field_Logs/🎪_procurement_item_classified.jpg)
     - [`🎪_thanks_is_best_said_in_cash.PNG`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.PNG)
     - [`🎪_transcript_unavailable_interference_dalle.png`](Disruption_Kit/Field_Logs/🎪_transcript_unavailable_interference_dalle.png)
-    - [`🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md`](Disruption_Kit/Field_Logs/🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md)
     - [`🏛️_final_4_days_foia.md`](Disruption_Kit/Field_Logs/🏛️_final_4_days_foia.md)
     - [`🏛️_uon_israel_security_open_source_gap_map.md`](Disruption_Kit/Field_Logs/🏛️_uon_israel_security_open_source_gap_map.md)
     - [`🏛️🪄🔥.md`](Disruption_Kit/Field_Logs/🏛️🪄🔥.md)
