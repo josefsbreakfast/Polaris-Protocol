@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:40:16 UTC_
+_Generated on 2025-12-14 10:41:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -872,6 +872,7 @@ _Generated on 2025-12-14 10:40:16 UTC_
         - [`global_crown_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/global_crown_timeline.png)
         - [`israel_eurozone_financial_watchlist.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/israel_eurozone_financial_watchlist.png)
         - [`☄️_ww3_started_years_ago.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/☄️_ww3_started_years_ago.md)
+        - [`♻️_declining_ore_grades_and_the_end_of_substitution_myths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/♻️_declining_ore_grades_and_the_end_of_substitution_myths.md)
         - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_contingent_conservatism_and_long_horizon_politics.md)
         - [`⚖️_soft_power_without_soft_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md)
         - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_surveillance_osa_citizen_forking_meganode.md)
