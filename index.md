@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:41:10 UTC_
+_Generated on 2025-12-14 04:42:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -897,6 +897,7 @@ _Generated on 2025-12-14 04:41:10 UTC_
         - [`🧨_accidental_soft_infiltration_of_early_labour_movements.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_accidental_soft_infiltration_of_early_labour_movements.md)
         - [`🧨_structural_racism_as_national_security_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_structural_racism_as_national_security_vulnerability.md)
         - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_from_diffusion_to_forum_cross_pollination.md)
+        - [`🧩_great_replacement_as_multigroup_elimination_myth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_great_replacement_as_multigroup_elimination_myth.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
         - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
@@ -3422,7 +3423,6 @@ _Generated on 2025-12-14 04:41:10 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_great_replacement_as_multigroup_elimination_myth.md`](Polaris_Nest/Git_Intake_Drawer/🧩_great_replacement_as_multigroup_elimination_myth.md)
     - [`🧩_health_prevent_ct_data_interlock.md`](Polaris_Nest/Git_Intake_Drawer/🧩_health_prevent_ct_data_interlock.md)
     - [`🧩_historical_precursors.md`](Polaris_Nest/Git_Intake_Drawer/🧩_historical_precursors.md)
     - [`🧩_how_precrime_systems_create_crises.md`](Polaris_Nest/Git_Intake_Drawer/🧩_how_precrime_systems_create_crises.md)
