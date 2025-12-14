@@ -1,6 +1,6 @@
-# 🧷 **Trauma-Driven Compliance — When the Nervous System Says “Yes” to Stay Alive**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Compliance under trauma is not agreement. It is a survival algorithm executed under conditions of threat, exhaustion, and overwhelm.*
+# 🧨 Trauma-Driven Compliance — When the Nervous System Says “Yes” to Stay Alive  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-14  
+*Compliance under trauma is not agreement. It is a survival algorithm executed under conditions of threat, exhaustion, and overwhelm.*  
 
 ---
 
@@ -219,7 +219,7 @@ Courage is a *side-effect* of support.
 ---
 
 ## 🌌 Constellations  
-🧷 🧠 🧩 💞 ✂️ 🛰️  
+🧨 🧠 🧩 💞 ✂️ 🛰️  
 *nervous-system governance, fawn logic, trauma compliance, identity contraction, survival appeasement.*
 
 ---
@@ -230,7 +230,7 @@ fear-scripted obedience, chronic-threat cognition, trauma-induced placation, saf
 ---
 
 ## 🏮 Footer  
-**🧷 Trauma-Driven Compliance** is a psychological-containment node of the Polaris Protocol.  
+*🧨 Trauma-Driven Compliance* is a psychological-containment node of the Polaris Protocol.  
 It provides structural explanations for why survivors comply under stress and how systems weaponise trauma to produce predictable obedience.
 
 > 📡 Cross-references:
@@ -242,4 +242,4 @@ It provides structural explanations for why survivors comply under stress and ho
 
 *Survivor authorship is sovereign. Compliance under threat is survival, not consent.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-14_
