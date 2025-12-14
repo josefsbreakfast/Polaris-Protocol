@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:53:38 UTC_
+_Generated on 2025-12-14 10:55:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -516,6 +516,7 @@ _Generated on 2025-12-14 10:53:38 UTC_
           - [`🛰️_algorithmic_judaisms.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🛰️_algorithmic_judaisms.md)
           - [`🥗_being_seen_and_not_seen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🥗_being_seen_and_not_seen.md)
           - [`🧄_market_deregulation_and_shylocks_monologue.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧄_market_deregulation_and_shylocks_monologue.md)
+          - [`🧠_philosemitism_as_soft_expulsion_logic.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧠_philosemitism_as_soft_expulsion_logic.md)
           - [`🧬_definitions_of_zionism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧬_definitions_of_zionism.md)
           - [`🧿_asajew.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_asajew.md)
           - [`🧿_dependancy_on_western_definitions.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
