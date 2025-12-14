@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:26:34 UTC_
+_Generated on 2025-12-14 09:28:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3471,7 +3471,6 @@ _Generated on 2025-12-14 09:26:34 UTC_
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
-    - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
     - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧩_risk_vector_inversions_in_authoritarian_systems.md)
     - [`🧩_semi_compensating_spld_theory.md`](Polaris_Nest/Git_Intake_Drawer/🧩_semi_compensating_spld_theory.md)
     - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](Polaris_Nest/Git_Intake_Drawer/🧩_swiss_cheese_failures_when_process_holes_align.md)
@@ -4056,6 +4055,7 @@ _Generated on 2025-12-14 09:26:34 UTC_
     - [`🎓_civic_craft_curriculum.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🎓_civic_craft_curriculum.md)
     - [`🏡_domestic_infrastructure_as_care_system.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🏡_domestic_infrastructure_as_care_system.md)
     - [`📚_libraries_metrics_and_the_one_book_civic_hack.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/📚_libraries_metrics_and_the_one_book_civic_hack.md)
+    - [`🧩_resilience_economy_vs_diaspora_democracy.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🧩_resilience_economy_vs_diaspora_democracy.md)
     - [`🪡_make_and_mend_republic.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪡_make_and_mend_republic.md)
     - [`🪢_re_embodied_dialogue_and_civic_presence.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)
     - [`🪴_care_ecologies_field_manual.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪴_care_ecologies_field_manual.md)
