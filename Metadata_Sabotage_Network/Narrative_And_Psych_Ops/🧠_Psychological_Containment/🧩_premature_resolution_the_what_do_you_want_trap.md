@@ -1,6 +1,6 @@
 # 🧩 Premature Resolution — The “What Do You Want?” Trap  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-22  
-*When accountability is reframed as closure.*
+**First created:** 2025-10-22 | **Last updated:** 2025-12-14  
+*When accountability is reframed as closure.*  
 
 ---
 
@@ -47,9 +47,9 @@ It documents how demands for optimism or future planning can erase unresolved ac
 
 > 📡 Cross-references:
 > 
-> - [🧠 Psychological Containment](../Metadata_Sabotage_Network/🧠_Psychological_Containment.md)  
-> - [💫 Containment Logic](../Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
+> - [🧠 Psychological Containment]  
+> - [💫 Containment Logic]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2025-12-14_
