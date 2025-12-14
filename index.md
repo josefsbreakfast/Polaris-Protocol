@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:22:06 UTC_
+_Generated on 2025-12-14 22:22:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1591,6 +1591,7 @@ _Generated on 2025-12-14 22:22:06 UTC_
       - [`🎪_easy_appeasement_strategy.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_easy_appeasement_strategy.md)
       - [`🎪_enjoy_the_chat_on_the_14th.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_enjoy_the_chat_on_the_14th.md)
       - [`🎪_ignoring_bulldozers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_ignoring_bulldozers.md)
+      - [`🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md)
       - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
@@ -1650,6 +1651,7 @@ _Generated on 2025-12-14 22:22:06 UTC_
       - [`🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied_V2.PNG`](Disruption_Kit/Field_Logs/20251101_November_2025/🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied_V2.PNG)
       - [`🍉_the_interference_is_up_up_up.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍉_the_interference_is_up_up_up.md)
       - [`🍿_regarding_negotiations.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍿_regarding_negotiations.md)
+      - [`🎪_not_all_capes_are_worn_by_heroes.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🎪_not_all_capes_are_worn_by_heroes.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2271,8 +2273,6 @@ _Generated on 2025-12-14 22:22:06 UTC_
     - [`🎪_can_anyone_on_mirrors_cover_ya_boys_shift.jpg`](Disruption_Kit/Field_Logs/🎪_can_anyone_on_mirrors_cover_ya_boys_shift.jpg)
     - [`🎪_job_to_do.md`](Disruption_Kit/Field_Logs/🎪_job_to_do.md)
     - [`🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.PNG`](Disruption_Kit/Field_Logs/🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.PNG)
-    - [`🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md`](Disruption_Kit/Field_Logs/🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md)
-    - [`🎪_not_all_capes_are_worn_by_heroes.md`](Disruption_Kit/Field_Logs/🎪_not_all_capes_are_worn_by_heroes.md)
     - [`🎪_on_professional_gossipers.md`](Disruption_Kit/Field_Logs/🎪_on_professional_gossipers.md)
     - [`🎪_procurement_item_classified.jpg`](Disruption_Kit/Field_Logs/🎪_procurement_item_classified.jpg)
     - [`🎪_thanks_is_best_said_in_cash.PNG`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.PNG)
