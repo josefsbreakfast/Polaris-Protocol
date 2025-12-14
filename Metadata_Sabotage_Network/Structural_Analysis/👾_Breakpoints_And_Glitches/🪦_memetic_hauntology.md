@@ -1,4 +1,4 @@
-# 🪦 _Memetic Hauntology_  
+# 🪦 Memetic Hauntology  
 **First created:** 2025-12-14 | **Last updated:** 2025-12-14  
 *When past harm persists not through people, but through replication systems.*
 
