@@ -1,5 +1,5 @@
 # 🧩 Ideal Whitehall Response Sequence — Counter-Impersonation and Oversight Integrity  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
+**First created:** 2025-10-26 | **Last updated:** 2025-12-14  
 *How the UK Government should respond when a Cabinet-adjacent or security-cleared individual is impersonated or targeted through hostile-state or allied cyber operations.*
 
 ---
@@ -210,11 +210,12 @@ whitehall response, impersonation, cyber attack, protective security, ncsc, uksv
 *Ideal Whitehall Response Sequence — Counter-Impersonation and Oversight Integrity* is a diagnostic node of the **Polaris Protocol**.  
 It models the lawful and operational sequence that should protect UK officials and citizens when targeted through impersonation or digital deception.  
 
-> 📡 Cross-references:  
-> - [🧿 Oversight Paralysis — When Allies Breach the Firewall](./🧿_oversight_paralysis_when_allies_breach_the_firewall.md)  
-> - [📨 FOI Safeguards Against Allied Cybersecurity Abuse](./📨_foi_safeguards_against_allied_cybersecurity_abuse.md)  
-> - [⚖️ Legal & State Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/)  
+> 📡 Cross-references:
+> 
+> - [🧿 Oversight Paralysis — When Allies Breach the Firewall]  
+> - [📨 FOI Safeguards Against Allied Cybersecurity Abuse]  
+> - [⚖️ Legal & State Governance]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-12-14_
