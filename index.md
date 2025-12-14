@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:29:40 UTC_
+_Generated on 2025-12-14 08:31:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2608,6 +2608,7 @@ _Generated on 2025-12-14 08:29:40 UTC_
     - [`🔥_your_emotional_campfire_care_kit.md`](Disruption_Kit/Survivor_Tools/🔥_your_emotional_campfire_care_kit.md)
     - [`🕎_exile_logic_dual_coding.md`](Disruption_Kit/Survivor_Tools/🕎_exile_logic_dual_coding.md)
     - [`🕸_ethical_de_meshing.md`](Disruption_Kit/Survivor_Tools/🕸_ethical_de_meshing.md)
+    - [`🕸️_practical_steps_to_document_environmental_sabotage.md`](Disruption_Kit/Survivor_Tools/🕸️_practical_steps_to_document_environmental_sabotage.md)
     - [`🗂️_risk_grounding_model_for_bureaucratic_harm.md`](Disruption_Kit/Survivor_Tools/🗂️_risk_grounding_model_for_bureaucratic_harm.md)
     - [`🗃️_ten_year_box.md`](Disruption_Kit/Survivor_Tools/🗃️_ten_year_box.md)
     - [`🗞️_hollowing_of_the_commons.md`](Disruption_Kit/Survivor_Tools/🗞️_hollowing_of_the_commons.md)
