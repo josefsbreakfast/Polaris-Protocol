@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 21:50:21 UTC_
+_Generated on 2025-12-14 21:55:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -447,6 +447,7 @@ _Generated on 2025-12-14 21:50:21 UTC_
         - [`🧠_austerity_as_security_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_austerity_as_security_doctrine.md)
         - [`🧠_immortality_fantasies_of_the_ultra_rich.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_immortality_fantasies_of_the_ultra_rich.md)
         - [`🧨_overclocked_capitalism_2020_cognitive_crash.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md)
+        - [`🧲_what_bcg_takes_from_the_uk_and_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
         - [`☕️_biscuit_press_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
         - [`☕️_press_release_001.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_001.md)
