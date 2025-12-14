@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 11:38:27 UTC_
+_Generated on 2025-12-14 13:16:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3193,6 +3193,7 @@ _Generated on 2025-12-14 11:38:27 UTC_
       - [`🧬_when_twins_meet.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_when_twins_meet.md)
       - [`🧾_briefing_note_oversight_failure_triple_lock.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_briefing_note_oversight_failure_triple_lock.md)
       - [`🧾_twin_records_as_vulnerability.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_twin_records_as_vulnerability.md)
+      - [`🧿_metadata_spin.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧿_metadata_spin.md)
       - [`🩺_stakeholder_mapping_from_symptoms.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🩺_stakeholder_mapping_from_symptoms.md)
       - [`🪞_twin_narrative_distortion_loop.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🪞_twin_narrative_distortion_loop.md)
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
