@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 02:48:03 UTC_
+_Generated on 2025-12-14 02:50:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1199,6 +1199,7 @@ _Generated on 2025-12-14 02:48:03 UTC_
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
         - [`🧠_shame_economics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_shame_economics.md)
+        - [`🧠_the_last_hill_un_concedable_terrains_of_ego.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_the_last_hill_un_concedable_terrains_of_ego.md)
         - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_tolerators_as_targets.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
@@ -3380,7 +3381,6 @@ _Generated on 2025-12-14 02:48:03 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_the_last_hill.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_last_hill.md)
     - [`🧠_the_men_had_a_plan.md`](Polaris_Nest/Git_Intake_Drawer/🧠_the_men_had_a_plan.md)
     - [`🧠_thresholds_of_change.md`](Polaris_Nest/Git_Intake_Drawer/🧠_thresholds_of_change.md)
     - [`🧠_white_immunity_blindspot.md`](Polaris_Nest/Git_Intake_Drawer/🧠_white_immunity_blindspot.md)
