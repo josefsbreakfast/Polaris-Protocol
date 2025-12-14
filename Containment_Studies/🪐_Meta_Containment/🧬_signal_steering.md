@@ -1,6 +1,6 @@
 # 🧬 Signal Steering — Downstream Tactics for Power-Weighted Inputs  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*When you can’t stop binding, change what binding does.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-13  
+*When you can’t stop binding, change what binding does.*  
 
 ---
 
@@ -82,11 +82,12 @@ signal steering, ligand analogy, downstream control, power weighting, biased ago
 *🧬 Signal Steering — Downstream Tactics for Power-Weighted Inputs* is a living node of the Polaris Protocol.  
 It documents biochemical-inspired methods for modulating influence after contact, forming the conceptual bridge between micro-receptor tactics and macro-field conditioning.  
 
-> 📡 Cross-references:  
-> – [🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting](./🌀_chaff_signature_confusion_for_power-weighted_targeting.md)  
-> – [🌪 Field Conditioning — Rewriting the Medium of Influence](./🌪_field_conditioning_rewriting_the_medium_of_influence.md)  
-> – [🧬 Structural Mapping](./🧬_Structural_Mapping/)
+> 📡 Cross-references:
+> 
+> – [🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting]  
+> – [🌪 Field Conditioning — Rewriting the Medium of Influence]  
+> – [🧬 Structural Mapping]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-13_
