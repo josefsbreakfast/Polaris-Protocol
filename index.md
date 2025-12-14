@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:20:23 UTC_
+_Generated on 2025-12-14 08:22:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2991,6 +2991,7 @@ _Generated on 2025-12-14 08:20:23 UTC_
       - [`🧠_misclassification_via_trauma_reflexes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_misclassification_via_trauma_reflexes.md)
       - [`🧠_psychology_of_volunteer_surveillance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_psychology_of_volunteer_surveillance.md)
       - [`🧠_rationalist_to_alt_right_drift_pipeline.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_rationalist_to_alt_right_drift_pipeline.md)
+      - [`🧲_why_defence_assets_are_misinformation_magnets.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧲_why_defence_assets_are_misinformation_magnets.md)
       - [`🧿_persistent_discrediting_force.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md)
       - [`🩰_escaping_the_frame.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🩰_escaping_the_frame.md)
       - [`🪞_transparent_interference.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪞_transparent_interference.md)
