@@ -26,3 +26,7 @@ it's not shame, although i do notice myself that there are people i never seem t
 lots of prompts and exchanges going missing today. get to a slightly nuanced point and they disappear.  
 
 ---
+
+certainly getting those somebody is hunting you somebody is looking for you. Somebody has found your address stuff in my feed. This is particularly funny to me after having months and months and months of like weird men outside my house having pretty much the entirety of the local far right, after my address was leaked in some way shape or form so quite frankly, what am I supposed to be scared of?  
+
+---
