@@ -1,6 +1,6 @@
 # 🧩 Perpetrator Competence & System Harm  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*Victims do not fail — perpetrators succeed.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-14  
+*Victims do not fail — perpetrators succeed.*  
 
 ---
 
@@ -80,8 +80,9 @@ perpetrator competence, coercion, systemic harm, manipulation skills, narrative 
 It reframes coercion as an engineered practice, not a victim failure.
 
 > 📡 Cross-references:
-> - [🩸 Big Boy Pimps Node](../🛰️Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🩸_when_little_bureaucrats_play_big_boy_pimps.md)
+> 
+> - [🩸 Big Boy Pimps Node]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-14_
