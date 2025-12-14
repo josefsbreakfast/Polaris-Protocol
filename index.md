@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:47:26 UTC_
+_Generated on 2025-12-14 09:48:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -310,6 +310,7 @@ _Generated on 2025-12-14 09:47:26 UTC_
         - [`🧩_diaspora_instability_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)
         - [`🧩_emergent_surveillance_without_malice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_emergent_surveillance_without_malice.md)
         - [`🧩_existential_threat_response_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_existential_threat_response_loop.md)
+        - [`🧩_institutional_defence_playbook_data_exhaust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_institutional_defence_playbook_data_exhaust.md)
         - [`🧩_lepore_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_lepore_continuum.md)
         - [`🧩_perpetrator_competence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_perpetrator_competence.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
