@@ -19,6 +19,10 @@ if you don't understand something, sometimes that just means you haven't explore
 
 probably worth pointing out that i was fairly open and ready to laugh at myself, and tbh the reason i didn't always tell my entire life to others, even if we soent a lot of time together, is sometimes because i just didn't see it as necessary of relevant at any point.  
 
-it's not shame, although i do notice myself that there are people i never seem to telk core facts to, just because i know that might be a bit too much for them. it's bot really a trust thing as much as it is overloading them as the person they are and in the frame of mind they're in.  
+it's not shame, although i do notice myself that there are people i never seem to tell core facts to, just because i know that might be a bit too much for them. it's bot really a trust thing as much as it is overloading them as the person they are and in the frame of mind they're in.  
+
+---
+
+lots of prompts and exchanges going missing today. get to a slightly nuanced point and they disappear.  
 
 ---
