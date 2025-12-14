@@ -1,5 +1,5 @@
 # 🧩 Resilience Economy vs Diaspora Democracy  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
+**First created:** 2025-11-05 | **Last updated:** 2025-12-14  
 *When “resilience” becomes an industry and local democracy becomes a conflict of interest.*
 
 ---
@@ -103,10 +103,6 @@ When the same officers and members manage both:
 
 ## 🌌 Constellations  
 🏛️ Civil Security → 🧩 Resilience Economy vs Diaspora Democracy  
-Linked nodes:  
-- [📡 Reform and Local Capture — OSINT Brief](📡_reform_and_local_capture_osint_brief.md)  
-- [📜 How MOUs Hide in Plain Sight: Local Government Transparency Gaps](📜_how_mous_hide_in_plain_sight_local_government_transparency_gaps.md)  
-- [🔺 The Golden Triangle and the Hidden Constitution of Local Government](🧭_Governance_Ecologies/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
 
 ---
 
@@ -119,6 +115,11 @@ resilience economy, diaspora, palestinian, jewish, democracy, conflict of intere
 *Resilience Economy vs Diaspora Democracy* is a live analytical node of the **Civil Security** cluster within **🛰️ OSINT Field Operations**.  
 It documents how “resilience” as an industry can collide with the right of diasporic communities to be visible and politically represented where they live.  
 
+Linked nodes:  
+- [📡 Reform and Local Capture — OSINT Brief]  
+- [📜 How MOUs Hide in Plain Sight: Local Government Transparency Gaps]   
+- [🔺 The Golden Triangle and the Hidden Constitution of Local Government]  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-14_
