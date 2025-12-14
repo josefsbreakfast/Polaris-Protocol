@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 06:03:52 UTC_
+_Generated on 2025-12-14 06:04:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3474,6 +3474,7 @@ _Generated on 2025-12-14 06:03:52 UTC_
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_left_looks_scary_during_deradicalisation.md)
     - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_machine_tags_high_friction_profiles.md)
+    - [`🧪_bad_procurement_as_a_security_vector.md`](Polaris_Nest/Git_Intake_Drawer/🧪_bad_procurement_as_a_security_vector.md)
     - [`🧪_how_scientists_go_nazi.md`](Polaris_Nest/Git_Intake_Drawer/🧪_how_scientists_go_nazi.md)
     - [`🧪_inspection_data_workflow_hmip_probation_university_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧪_inspection_data_workflow_hmip_probation_university_loop.md)
     - [`🧪_international_law_vs_safety_classifiers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_international_law_vs_safety_classifiers.md)
