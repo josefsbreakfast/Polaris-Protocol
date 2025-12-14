@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:56:43 UTC_
+_Generated on 2025-12-14 09:57:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3376,6 +3376,7 @@ _Generated on 2025-12-14 09:56:43 UTC_
       - [`🧀_child_data_swiss_cheese_model_systemic_risk_framework.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)
       - [`🧟_the_zombie_data_genocide.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟_the_zombie_data_genocide.md)
       - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟‍♀️_zombie_data_and_population_targeting.md)
+      - [`🧬_metadata_exhaust_as_pre_investigative_exposure.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧬_metadata_exhaust_as_pre_investigative_exposure.md)
       - [`🩺_healthcare_access_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🩺_healthcare_access_id_risks.md)
     - [**🛂_Papers_Please_Problems/**](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/README.md)
