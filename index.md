@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:13:51 UTC_
+_Generated on 2025-12-14 04:15:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3410,7 +3410,6 @@ _Generated on 2025-12-14 04:13:51 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_civic_sar_avalanche_method.md`](Polaris_Nest/Git_Intake_Drawer/🧩_civic_sar_avalanche_method.md)
     - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Polaris_Nest/Git_Intake_Drawer/🧩_colonial_scripts_in_modern_bureaucracies.md)
     - [`🧩_containmemt_economics.md`](Polaris_Nest/Git_Intake_Drawer/🧩_containmemt_economics.md)
     - [`🧩_counter_extraction_loop_reclaiming_authorship.md`](Polaris_Nest/Git_Intake_Drawer/🧩_counter_extraction_loop_reclaiming_authorship.md)
@@ -3976,6 +3975,7 @@ _Generated on 2025-12-14 04:13:51 UTC_
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_vendor_blindspot_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)
     - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
+    - [`🧩_civic_sar_avalanche_method.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧩_civic_sar_avalanche_method.md)
     - [`🧬_signal_anomaly_classification.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧬_signal_anomaly_classification.md)
     - [`🧭_field_ethics_compass.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧭_field_ethics_compass.md)
     - [`🧰_open_source_toolkit_index.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧰_open_source_toolkit_index.md)
