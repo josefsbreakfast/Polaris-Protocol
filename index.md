@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 02:52:21 UTC_
+_Generated on 2025-12-14 02:53:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -28,6 +28,7 @@ _Generated on 2025-12-14 02:52:21 UTC_
     - [`🪼_interaction_drift_and_safety_layer_erosion.md`](Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md)
   - [**🪐_Meta_Containment/**](Containment_Studies/🪐_Meta_Containment/)
     - [`README.md`](Containment_Studies/🪐_Meta_Containment/README.md)
+    - [`🧨_containment_as_accelerant.md`](Containment_Studies/🪐_Meta_Containment/🧨_containment_as_accelerant.md)
     - [`🧬_signal_steering.md`](Containment_Studies/🪐_Meta_Containment/🧬_signal_steering.md)
     - [`🧿_against_pseudoanthropy.md`](Containment_Studies/🪐_Meta_Containment/🧿_against_pseudoanthropy.md)
   - [`README.md`](Containment_Studies/README.md)
@@ -3388,7 +3389,6 @@ _Generated on 2025-12-14 02:52:21 UTC_
     - [`🧨_bad_broker_effect.md`](Polaris_Nest/Git_Intake_Drawer/🧨_bad_broker_effect.md)
     - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
     - [`🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md`](Polaris_Nest/Git_Intake_Drawer/🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md)
-    - [`🧨_containment_as_accelerant.md`](Polaris_Nest/Git_Intake_Drawer/🧨_containment_as_accelerant.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_dual_use_epiphany.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_epiphany.md)
     - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
