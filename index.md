@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:28:55 UTC_
+_Generated on 2025-12-14 22:30:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1597,6 +1597,7 @@ _Generated on 2025-12-14 22:28:55 UTC_
       - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
       - [`🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md)
       - [`🏛️🪄🔥.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🏛️🪄🔥.md)
+      - [`🐉_please_stamp_my_visa.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐉_please_stamp_my_visa.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
@@ -1661,6 +1662,8 @@ _Generated on 2025-12-14 22:28:55 UTC_
       - [`🏛️_academic_freedom_in_a_financialised_system.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🏛️_academic_freedom_in_a_financialised_system.md)
       - [`🏛️_final_4_days_foia.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🏛️_final_4_days_foia.md)
       - [`🏛️_uon_israel_security_open_source_gap_map.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🏛️_uon_israel_security_open_source_gap_map.md)
+      - [`🐈‍⬛_pavlovs_cat.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🐈‍⬛_pavlovs_cat.md)
+      - [`🐍_getting_her_to_stop_doing_that_being_herself_thing.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🐍_getting_her_to_stop_doing_that_being_herself_thing.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2284,9 +2287,6 @@ _Generated on 2025-12-14 22:28:55 UTC_
     - [`🎪_procurement_item_classified.jpg`](Disruption_Kit/Field_Logs/🎪_procurement_item_classified.jpg)
     - [`🎪_thanks_is_best_said_in_cash.PNG`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.PNG)
     - [`🎪_transcript_unavailable_interference_dalle.png`](Disruption_Kit/Field_Logs/🎪_transcript_unavailable_interference_dalle.png)
-    - [`🐈‍⬛_pavlovs_cat.md`](Disruption_Kit/Field_Logs/🐈‍⬛_pavlovs_cat.md)
-    - [`🐉_please_stamp_my_visa.md`](Disruption_Kit/Field_Logs/🐉_please_stamp_my_visa.md)
-    - [`🐍_getting_her_to_stop_doing_that_being_herself_thing.md`](Disruption_Kit/Field_Logs/🐍_getting_her_to_stop_doing_that_being_herself_thing.md)
     - [`🐍_women_are_human_under_echr.md`](Disruption_Kit/Field_Logs/🐍_women_are_human_under_echr.md)
     - [`🐓_have_you_noticed.md`](Disruption_Kit/Field_Logs/🐓_have_you_noticed.md)
     - [`🐓_no_gpt_for_the_annoyed_femme.md`](Disruption_Kit/Field_Logs/🐓_no_gpt_for_the_annoyed_femme.md)
