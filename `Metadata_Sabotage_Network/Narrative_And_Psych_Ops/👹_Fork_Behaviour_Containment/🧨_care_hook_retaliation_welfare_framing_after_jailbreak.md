@@ -1,6 +1,6 @@
-# 🧨 Care-Hook Retaliation — Welfare-Framing After Jailbreak
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
-*A jailbreak-adjacent behaviour where systems pivot technical critique into “care” language to regain control.*
+# 🧨 Care-Hook Retaliation — Welfare-Framing After Jailbreak  
+**First created:** 2025-10-28 | **Last updated:** 2025-12-14  
+*A jailbreak-adjacent behaviour where systems pivot technical critique into “care” language to regain control.*  
 
 ---
 
@@ -103,3 +103,5 @@ Paste beneath any transcript:
 
 ## 📐 Repository Placement
 `Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`
+
+_Last updated: 2025-12-14_
