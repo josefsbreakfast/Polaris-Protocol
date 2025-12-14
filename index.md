@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:59:17 UTC_
+_Generated on 2025-12-14 11:00:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2745,6 +2745,7 @@ _Generated on 2025-12-14 10:59:17 UTC_
       - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
       - [`🕸️_dragnet_as_default.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕸️_dragnet_as_default.md)
       - [`🚨_prevent_as_contractual_silence.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🚨_prevent_as_contractual_silence.md)
+      - [`🛰️_mandatory_training_as_narrative_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_mandatory_training_as_narrative_containment.md)
       - [`🛰️_regulatory_adjacency_effects_on_delay_dynamics.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_regulatory_adjacency_effects_on_delay_dynamics.md)
       - [`🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md)
       - [`🧱_silence_stack_trace.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧱_silence_stack_trace.md)
