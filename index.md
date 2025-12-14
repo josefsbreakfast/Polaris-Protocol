@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:55:19 UTC_
+_Generated on 2025-12-14 04:56:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3189,6 +3189,7 @@ _Generated on 2025-12-14 04:55:19 UTC_
       - [`🧩_diaspora_coded_identity_instability_in_machine_learning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_diaspora_coded_identity_instability_in_machine_learning.md)
       - [`🧩_identity_behaviour_mismatch.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_behaviour_mismatch.md)
       - [`🧩_identity_stance_mismatch_architecture.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)
+      - [`🧩_mirror_cluster_effects.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_mirror_cluster_effects.md)
       - [`🧪_testing_the_invisible_criteria.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧪_testing_the_invisible_criteria.md)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_empathy_risk_classifier_satire_maybe.yaml.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_empathy_risk_classifier_satire_maybe.yaml.md)
@@ -3431,7 +3432,6 @@ _Generated on 2025-12-14 04:55:19 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_mirror_cluster_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧩_mirror_cluster_effects.md)
     - [`🧩_myth_vs_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧩_myth_vs_mechanism.md)
     - [`🧩_neurodivergence_misread.md`](Polaris_Nest/Git_Intake_Drawer/🧩_neurodivergence_misread.md)
     - [`🧩_perpetrator_competence_and_system_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_perpetrator_competence_and_system_harm.md)
