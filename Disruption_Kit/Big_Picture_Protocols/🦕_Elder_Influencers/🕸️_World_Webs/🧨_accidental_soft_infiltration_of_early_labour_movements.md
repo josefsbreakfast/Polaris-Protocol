@@ -1,5 +1,5 @@
 # 🧨 Accidental Soft-Infiltration of Early Labour Movements  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-14  
 *How middle-class norms, emotional expectations, and “respectability politics” entered labour organising unintentionally — and reshaped the movement from within.*
 
 ---
@@ -9,7 +9,7 @@ Left-wing and labour movements have *always* been infiltrated by the state —
 that part is well documented.  
 But running alongside that deliberate infiltration was a quieter, stranger phenomenon:
 
-### **accidental infiltration by well-meaning middle-class actors who changed the movement without ever intending to.**
+**accidental infiltration by well-meaning middle-class actors who changed the movement without ever intending to.**  
 
 These weren’t saboteurs.  
 They weren’t agents.  
@@ -193,11 +193,12 @@ labour movement history, soft infiltration, middle class norms, tone policing, r
 *Accidental Soft-Infiltration of Early Labour Movements* is a living node of the Polaris Protocol.  
 It supports the **Big Picture Protocols** cluster and the **Political Homeostasis** spine by tracing inherited emotional and structural drift.
 
-> 📡 Cross-references:  
-> - [🟥 Labour as the Alternative to Revolution](./🟥_labour_as_the_alternative_to_revolution.md)  
-> - [🔁 Recursive Parliamentary Containment Loop](./🔁_recursive_parliamentary_containment_loop.md)  
-> - [💍 Two-Party System as an Old-Fashioned Marriage](./💍_two_party_system_as_an_old_fashioned_marriage.md)
+> 📡 Cross-references:
+> 
+> - [🟥 Labour as the Alternative to Revolution]  
+> - [🔁 Recursive Parliamentary Containment Loop]  
+> - [💍 Two-Party System as an Old-Fashioned Marriage]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-14_
