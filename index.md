@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 14:04:03 UTC_
+_Generated on 2025-12-14 14:05:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -617,6 +617,7 @@ _Generated on 2025-12-14 14:04:03 UTC_
         - [`🪭_cultural_charisma_as_governance_tool.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪭_cultural_charisma_as_governance_tool.md)
         - [`🪮_on_hair_and_memory.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪮_on_hair_and_memory.md)
         - [`🪷_being_soft_does_take_pretty_big_balls_actually.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪷_being_soft_does_take_pretty_big_balls_actually.md)
+        - [`🫀_attachment_trauma_and_intimacy_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫀_attachment_trauma_and_intimacy_deficit.md)
         - [`🫀_holding_a_weapon_you_do_not_understand.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_do_not_understand.md)
         - [`🫛_amplification_by_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)
         - [`🫜_asymmetric_discourse_policing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫜_asymmetric_discourse_policing.md)
