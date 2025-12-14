@@ -1,6 +1,6 @@
 # 🧠 Thresholds of Change — Liminal Spaces as Cognitive Laboratories  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-26  
-*Integrating neuroscience of transition with survivor theory and institutional metamorphosis.*
+**First created:** 2025-10-26 | **Last updated:** 2025-12-13  
+*Integrating neuroscience of transition with survivor theory and institutional metamorphosis.*  
 
 ---
 
@@ -42,12 +42,13 @@ liminality, neuroplasticity, trauma recovery, institutional reform, transition e
 It extends *Trauma Psychology & Medical Misuse* with a neuro-ethical reading of liminal space,  
 and cross-links to system and norm clusters exploring institutional pause and transformation.  
 
-> 📡 Cross-references:  
-> - [🫀 Trauma Psychology & Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/)  
-> - [🪄 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/)  
-> - [🌀 Containment Logic](../../🌀_System_Governance/💫_Containment_Logic/)  
-> - [🐍 Politics & Memory Work](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)  
+> 📡 Cross-references:
+> 
+> - [🐦‍🔥 Trauma, Psychology & Medical Misuse]  
+> - [🪄 HM Dept Coercive Nudges]  
+> - [🌀 Containment Logic]  
+> - [🗝️ Politics & Memory Work]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2025-12-13_
