@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 05:39:08 UTC_
+_Generated on 2025-12-14 05:40:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3345,6 +3345,7 @@ _Generated on 2025-12-14 05:39:08 UTC_
       - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
       - [`👥_twin_profiles_biometrics.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/👥_twin_profiles_biometrics.md)
       - [`🕸️_voice_lineage_and_dataset_chain.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🕸️_voice_lineage_and_dataset_chain.md)
+      - [`🗂️_the_afterlife_of_harm.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🗂️_the_afterlife_of_harm.md)
       - [`🧟_i_am_a_zombie_data_subject.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟_i_am_a_zombie_data_subject.md)
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
