@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 11:19:05 UTC_
+_Generated on 2025-12-14 11:20:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4081,6 +4081,7 @@ _Generated on 2025-12-14 11:19:05 UTC_
       - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
     - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
+    - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
     - [`🛰️_vendor_blindspot_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)
     - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
     - [`🧩_civic_sar_avalanche_method.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧩_civic_sar_avalanche_method.md)
