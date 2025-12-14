@@ -1,6 +1,6 @@
 # 🧩 Health → Prevent → CT Data Interlock  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
-*Diagnostic mapping of institutional overlap between healthcare research data environments and counter-terrorism analytics frameworks in UK universities.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-14  
+*Diagnostic mapping of institutional overlap between healthcare research data environments and counter-terrorism analytics frameworks in UK universities.*  
 
 ---
 
@@ -60,3 +60,5 @@ If data carrying an **Official Secrets Act (OSA) or security-classification flag
 Such systems interpret the tag as a query variable, not a clearance restriction, allowing replication and versioning to propagate it across datasets.  
 Even without evidence of access, the coexistence of OSA-marked identifiers and open research data constitutes a **containment-breach condition** under **Article 5(1)(f)** UK GDPR (integrity & confidentiality) and under institutional security policy.  
 This is a structural failure: the data becomes *theoretically available* to unauthorised contexts, appearing “up for grabs” through no single person’s intent.
+
+_Last updated: 2025-12-14_
