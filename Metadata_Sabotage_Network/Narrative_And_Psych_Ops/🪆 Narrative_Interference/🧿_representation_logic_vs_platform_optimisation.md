@@ -1,6 +1,6 @@
 # 🧿 Representation Logic vs Platform Optimisation  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-14  
-*How intersectional DEI practice collides with large-model platform logic.*
+**First created:** 2025-11-06 | **Last updated:** 2025-12-13  
+*How intersectional DEI practice collides with large-model platform logic.*  
 
 ---
 
@@ -130,9 +130,9 @@ It examines how identity-centred governance and optimisation-centred architectur
 
 > 📡 Cross-references:
 > 
-> - [🛰️ Moonshot CVE vs OpenAI — Prevention vs Platform](../Disruption_Kit/Big_Picture_Protocols/🛰️_moonshot_cve_vs_openai.md) — *systemic actor comparison*  
-> - [⚖️ AI Black Box Inquests](../Disruption_Kit/Big_Picture_Protocols/⚖️_ai_black_box_inquests.md) — *forensic accountability framework*  
+> - [🛰️ Moonshot CVE vs OpenAI — Prevention vs Platform] — *systemic actor comparison*  
+> - [⚖️ AI Black Box Inquests] — *forensic accountability framework*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-13_
