@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:57:49 UTC_
+_Generated on 2025-12-14 09:59:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3266,6 +3266,7 @@ _Generated on 2025-12-14 09:57:49 UTC_
       - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛰️_missing_speech_the_value_based_democracy_pattern.md)
       - [`🛰️_seo_as_a_pressure_surface.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛰️_seo_as_a_pressure_surface.md)
       - [`🧪_r_and_d_as_silent_leakage_corridor.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧪_r_and_d_as_silent_leakage_corridor.md)
+      - [`🧰_vendor_r_and_d_as_de_facto_declassification.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧰_vendor_r_and_d_as_de_facto_declassification.md)
       - [`🪅_platform_safe_zones_and_shadowbans.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪅_platform_safe_zones_and_shadowbans.md)
       - [`🪞_background_activity_fog.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪞_background_activity_fog.md)
       - [`🪞_the_magnifying_glass_effect.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪞_the_magnifying_glass_effect.md)
