@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:58:15 UTC_
+_Generated on 2025-12-14 13:59:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -557,6 +557,7 @@ _Generated on 2025-12-14 13:58:15 UTC_
         - [`🎭_performative_cruelty_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_performative_cruelty_as_governance.md)
         - [`🏛_british_museum_act_1963_futility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏛_british_museum_act_1963_futility.md)
         - [`🏛️_austerity_and_the_rise_of_punitive_entertainment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏛️_austerity_and_the_rise_of_punitive_entertainment.md)
+        - [`🏭_industrialisation_of_misogyny.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏭_industrialisation_of_misogyny.md)
         - [`🐝_sanctions_as_loyalty_test.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐝_sanctions_as_loyalty_test.md)
         - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
         - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
