@@ -1,6 +1,6 @@
-# 🦔 Hedgehog on Fire
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*A metaphor for trauma activation under cognitive overload and ambiguous safety*
+# 🦔 Hedgehog on Fire  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+*A metaphor for trauma activation under cognitive overload and ambiguous safety*  
 
 ---
 
@@ -121,14 +121,14 @@ overload, contraction, burnout, nervous system defence
 
 ## 🏮 Footer
 
-Hedgehog on Fire is a living node of the **Polaris Protocol**.
+*🦔 Hedgehog on Fire* is a living node of the **Polaris Protocol**.
 It documents a common trauma activation pattern characterised by
 protective contraction under ambiguity and cognitive load.
 
 > 📡 Cross-references:
 >
 > - [🧠 Depersonalised Systems as CPTSD Triggers](./🧠_depersonalised_systems_as_cptsd_triggers.md) — system-shaped activation  
-> - [🕳️ Ambient Threat Simulation](./🕳️_ambient_threat_simulation.md) — threat sensation without danger  
+> - [🕳️ Ambient Threat Simulation] — threat sensation without danger  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
