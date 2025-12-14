@@ -1,5 +1,5 @@
 # 🕳️ The Archive Is Shaped by Withheld Data  
-**First created:** 2025-12-15 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
 *Why this archive is necessarily distributed, reconstructive, and multi-centred*
 
 ---
