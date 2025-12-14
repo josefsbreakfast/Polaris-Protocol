@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 19:43:09 UTC_
+_Generated on 2025-12-14 20:15:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1049,6 +1049,7 @@ _Generated on 2025-12-14 19:43:09 UTC_
         - [`🎓_reputation_management_and_university_protest_response.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_reputation_management_and_university_protest_response.md)
         - [`🎓_safeguarding_as_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_safeguarding_as_surveillance.md)
         - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
+        - [`🎓_why_some_institutions_attract_grievance_culture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_why_some_institutions_attract_grievance_culture.md)
         - [`📜_funding_and_charitable_status_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/📜_funding_and_charitable_status_timeline.md)
         - [`🧠_erosion_of_extracurricular_and_anatomy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🧠_erosion_of_extracurricular_and_anatomy.md)
         - [`🧩_academic_precarity_as_authoritarian_vector.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🧩_academic_precarity_as_authoritarian_vector.md)
