@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:00:08 UTC_
+_Generated on 2025-12-14 10:01:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2991,6 +2991,7 @@ _Generated on 2025-12-14 10:00:08 UTC_
       - [`🎭_identity_without_self.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_identity_without_self.md)
       - [`🎭_safety_layer_british_pragmatics.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_safety_layer_british_pragmatics.md)
       - [`🎭_the_punitive_logic_of_entitlement_wounds.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_the_punitive_logic_of_entitlement_wounds.md)
+      - [`🎯_probabilistic_targeting_over_individual_hacking.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎯_probabilistic_targeting_over_individual_hacking.md)
       - [`🐌_delays_are_violence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)
       - [`🐣_maternity_delays_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐣_maternity_delays_as_containment.md)
       - [`👁️_silent_witness_effect.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️_silent_witness_effect.md)
