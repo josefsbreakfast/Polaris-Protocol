@@ -39,3 +39,11 @@ It feels like the worm story in the book on folkloric women; as the outer scales
 Starting to think a lot of men need scrubbing with wire brushes, but each to their own, I suppose. Perhaps some people like it.  
 
 ---
+
+I'm now having to retrain the LLM which we now use in the MOJ, to understand what "dual use" means, and that it's not some greater philsophical concept.  
+
+Fucking hell.  
+
+It inititally described it as a thought experiement. I wish, achei.  
+
+---
