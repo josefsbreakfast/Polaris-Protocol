@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:03:54 UTC_
+_Generated on 2025-12-14 10:05:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3257,6 +3257,7 @@ _Generated on 2025-12-14 10:03:54 UTC_
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)
+      - [`🎙️_abe_and_digital_evidence_as_critical_failure_point.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🎙️_abe_and_digital_evidence_as_critical_failure_point.md)
       - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🐍_vulnerability_manufacture_to_enmeshment.md)
       - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_commit_window_collapse_loop.md)
       - [`📉_delay_as_procedural_exposure.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_delay_as_procedural_exposure.md)
