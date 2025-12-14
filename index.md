@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:37:21 UTC_
+_Generated on 2025-12-14 09:37:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3092,6 +3092,7 @@ _Generated on 2025-12-14 09:37:21 UTC_
       - [`🧠_why_neutral_institutions_fail_under_stress.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧠_why_neutral_institutions_fail_under_stress.md)
       - [`🧩_ambiguity_tolerance_and_first_mover_dynamics.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_ambiguity_tolerance_and_first_mover_dynamics.md)
       - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_device_integrity_and_anti_jailbreak_logic.md)
+      - [`🧩_responsibility_differentiation_event.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_responsibility_differentiation_event.md)
       - [`🧩_when_collective_silence_fractures.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_when_collective_silence_fractures.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
       - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
