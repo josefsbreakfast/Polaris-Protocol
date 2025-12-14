@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:29:00 UTC_
+_Generated on 2025-12-14 04:37:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1224,6 +1224,7 @@ _Generated on 2025-12-14 04:29:00 UTC_
         - [`🧠_the_last_hill_un_concedable_terrains_of_ego.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_the_last_hill_un_concedable_terrains_of_ego.md)
         - [`🧠_thresholds_of_change_liminal_spaces_as_cognitive_laboratories.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_thresholds_of_change_liminal_spaces_as_cognitive_laboratories.md)
         - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_tolerators_as_targets.md)
+        - [`🧩_dont_listen_to_the_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_dont_listen_to_the_algorithm.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
@@ -3419,7 +3420,6 @@ _Generated on 2025-12-14 04:29:00 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_don’t_listen_to_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_don’t_listen_to_the_algorithm.md)
     - [`🧩_existential_threat_response_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧩_existential_threat_response_loop.md)
     - [`🧩_friction_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧩_friction_patterns.md)
     - [`🧩_great_replacement_as_multigroup_elimination_myth.md`](Polaris_Nest/Git_Intake_Drawer/🧩_great_replacement_as_multigroup_elimination_myth.md)
