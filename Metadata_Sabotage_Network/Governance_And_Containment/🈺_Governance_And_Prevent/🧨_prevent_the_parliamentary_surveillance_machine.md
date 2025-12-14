@@ -1,6 +1,6 @@
 # 🧨 Prevent: The Parliamentary Surveillance Machine  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How Prevent creates a covert pathway for monitoring MPs, staff, and political networks under the legal camouflage of safeguarding.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-14  
+*How Prevent creates a covert pathway for monitoring MPs, staff, and political networks under the legal camouflage of safeguarding.*  
 
 ---
 
@@ -216,12 +216,13 @@ prevent, parliamentary privilege, surveillance bypass, political metadata, risk 
 It documents how Prevent’s design creates a covert surveillance pathway around Parliamentary Privilege, allowing political actors and institutions to monitor MPs, staff, and dissent networks under the language of safeguarding and risk.
 
 > 📡 Cross-references:
-> - [🈺 Governance & Prevent](../Metadata_Sabotage_Network/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/) — how Prevent is structured  
-> - [🧿 Targeting Logic Metadata Signatures](../Metadata_Sabotage_Network/🦒_Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/) — exploitation patterns  
-> - [🪆 Narrative Interference](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/) — shaping political weather  
-> - [🧠 Psychological Containment](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🧠_Psychological_Containment/) — intimidation via uncertainty  
-> - [🕷️ Prevent as Soft-Coup Infrastructure](./🕷️_prevent_as_soft_coup_infrastructure.md) — companion analysis  
+> 
+> - [🈺 Governance & Prevent] — how Prevent is structured  
+> - [🧿 Targeting Logic Metadata Signatures] — exploitation patterns  
+> - [🪆 Narrative Interference] — shaping political weather  
+> - [🧠 Psychological Containment] — intimidation via uncertainty  
+> - [🕷️ Prevent as Soft-Coup Infrastructure] — companion analysis  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-14_
