@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:19:12 UTC_
+_Generated on 2025-12-14 09:20:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -900,6 +900,7 @@ _Generated on 2025-12-14 09:19:12 UTC_
         - [`🥺_we_are_just_a_little_island_honest.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🥺_we_are_just_a_little_island_honest.md)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧊_the_bunker_has_no_vibes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧊_the_bunker_has_no_vibes.md)
+        - [`🧠_cognitive_immunology.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_cognitive_immunology.md)
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🧨_accidental_soft_infiltration_of_early_labour_movements.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_accidental_soft_infiltration_of_early_labour_movements.md)
         - [`🧨_structural_racism_as_national_security_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_structural_racism_as_national_security_vulnerability.md)
@@ -3465,7 +3466,6 @@ _Generated on 2025-12-14 09:19:12 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_cognitive_immunology.md`](Polaris_Nest/Git_Intake_Drawer/🧠_cognitive_immunology.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
