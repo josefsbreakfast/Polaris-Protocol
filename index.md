@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 14:05:36 UTC_
+_Generated on 2025-12-14 14:06:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -550,6 +550,7 @@ _Generated on 2025-12-14 14:05:36 UTC_
         - [`⚖️_the_history_of_justice_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_the_history_of_justice_as_spectacle.md)
         - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
         - [`⚙️_friction_minimisation_logic.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚙️_friction_minimisation_logic.md)
+        - [`⚠️_rejection_as_existential_threat.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚠️_rejection_as_existential_threat.md)
         - [`⛩️_postmodern_gateway.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
         - [`✝️_protestant_work_ethic_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)
         - [`🌒_charisma_as_container.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🌒_charisma_as_container.md)
