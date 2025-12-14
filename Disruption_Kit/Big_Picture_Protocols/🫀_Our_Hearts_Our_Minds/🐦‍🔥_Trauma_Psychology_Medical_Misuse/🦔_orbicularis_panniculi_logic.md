@@ -1,6 +1,6 @@
-# 🦔 Orbicularis Panniculi Logic
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*Why trauma responses contract mechanically, not cognitively*
+# 🦔 Orbicularis Panniculi Logic  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+*Why trauma responses contract mechanically, not cognitively*  
 
 ---
 
