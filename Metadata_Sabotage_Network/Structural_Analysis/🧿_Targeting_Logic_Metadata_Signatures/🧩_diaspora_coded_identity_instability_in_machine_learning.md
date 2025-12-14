@@ -1,6 +1,6 @@
 # 🧩 Diaspora-Coded Identity Instability in Machine Learning  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*Why diaspora identities produce unstable, contradictory, or “impossible” vectors in Western-trained risk and sentiment models.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+*Why diaspora identities produce unstable, contradictory, or “impossible” vectors in Western-trained risk and sentiment models.*  
 
 ---
 
@@ -186,3 +186,5 @@ This node connects directly to:
 - **Survivor Telemetry Misclassification**.
 
 Together they map why diaspora-led solidarity and dissent cannot be stabilised inside authoritarian computational systems.
+
+_Last updated: 2025-12-14_
