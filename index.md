@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:05:01 UTC_
+_Generated on 2025-12-14 04:08:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -849,6 +849,7 @@ _Generated on 2025-12-14 04:05:01 UTC_
         - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
         - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_from_escalation_to_play.md)
         - [`🍌_racism_as_epistemic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍌_racism_as_epistemic_collapse.md)
+        - [`🎩_archetype_of_the_sensible_man.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎩_archetype_of_the_sensible_man.md)
         - [`🎭_natcon_2023_25_hinge_point.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎭_natcon_2023_25_hinge_point.md)
         - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
         - [`🎺_the_red_army_choir_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎺_the_red_army_choir_doctrine.md)
@@ -886,7 +887,6 @@ _Generated on 2025-12-14 04:05:01 UTC_
         - [`🧠_enemy_symmetry_effects.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_enemy_symmetry_effects.md)
         - [`🧨_accidental_soft_infiltration_of_early_labour_movements.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_accidental_soft_infiltration_of_early_labour_movements.md)
         - [`🧨_structural_racism_as_national_security_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_structural_racism_as_national_security_vulnerability.md)
-        - [`🧩_archetype_of_the_sensible_man.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_archetype_of_the_sensible_man.md)
         - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_from_diffusion_to_forum_cross_pollination.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
         - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
