@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:28:51 UTC_
+_Generated on 2025-12-14 13:30:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3057,6 +3057,7 @@ _Generated on 2025-12-14 13:28:51 UTC_
       - [`🧠_misclassification_via_trauma_reflexes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_misclassification_via_trauma_reflexes.md)
       - [`🧠_psychology_of_volunteer_surveillance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_psychology_of_volunteer_surveillance.md)
       - [`🧠_rationalist_to_alt_right_drift_pipeline.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_rationalist_to_alt_right_drift_pipeline.md)
+      - [`🧩_learned_procedural_self_doubt.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧩_learned_procedural_self_doubt.md)
       - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧩_premature_resolution_the_what_do_you_want_trap.md)
       - [`🧲_why_defence_assets_are_misinformation_magnets.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧲_why_defence_assets_are_misinformation_magnets.md)
       - [`🧿_persistent_discrediting_force.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md)
