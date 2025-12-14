@@ -1,5 +1,5 @@
 # 🧩 From Diffusion to Forum Cross-Pollination  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-12-13  
 *How early anonymous boards and structured forums shaped the spread of masculine-discipline memes online.*  
 
 ---
@@ -43,10 +43,11 @@ flowchart LR
 *From Diffusion to Forum Cross-Pollination* is a living node of the **#PolarisProtocol**.  
 It documents how ephemeral joke economies on anonymous boards harden into persistent ideological communities once forum architecture gives them memory.  
 
-> 📡 Cross-references:  
-> - [🪩 Algorithmic Female Dominance Aura](../🪩_algorithmic_female_dominance_aura.md) — memetic genealogy of discipline and desire  
-> - [🧩 Genealogy of the Life-Force Discipline](../🧩_life_force_discipline.md) — historical antecedents of purity culture  
+> 📡 Cross-references:
+> 
+> - [🪩 Algorithmic Female Dominance Aura] — memetic genealogy of discipline and desire  
+> - [🧩 Genealogy of the Life-Force Discipline] — historical antecedents of purity culture  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2025-12-13_
