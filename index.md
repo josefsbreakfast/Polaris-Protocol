@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 05:50:54 UTC_
+_Generated on 2025-12-14 05:51:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3419,6 +3419,7 @@ _Generated on 2025-12-14 05:50:54 UTC_
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
+    - [`🕳️_ambient_threat_simulation.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_ambient_threat_simulation.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
     - [`🗄️_data_shadows_and_identity_residue.md`](Polaris_Nest/Git_Intake_Drawer/🗄️_data_shadows_and_identity_residue.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
