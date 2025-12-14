@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:36:18 UTC_
+_Generated on 2025-12-14 09:36:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3091,6 +3091,7 @@ _Generated on 2025-12-14 09:36:18 UTC_
       - [`🧠_skillsets_required_for_environmental_sabotage.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧠_skillsets_required_for_environmental_sabotage.md)
       - [`🧠_why_neutral_institutions_fail_under_stress.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧠_why_neutral_institutions_fail_under_stress.md)
       - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_device_integrity_and_anti_jailbreak_logic.md)
+      - [`🧩_when_collective_silence_fractures.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_when_collective_silence_fractures.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
       - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
       - [`🪦_memetic_hauntology.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪦_memetic_hauntology.md)
