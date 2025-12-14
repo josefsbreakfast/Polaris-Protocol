@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 14:02:26 UTC_
+_Generated on 2025-12-14 14:04:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -488,6 +488,7 @@ _Generated on 2025-12-14 14:02:26 UTC_
         - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
         - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧠_the_dev.md)
         - [`🧨_crisis_actor_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧨_crisis_actor_dynamics.md)
+        - [`🧨_cruelty_as_innovation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧨_cruelty_as_innovation.md)
         - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_failure_recycling.md)
         - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_pilot_containments.md)
         - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_shadow_sandboxes.md)
