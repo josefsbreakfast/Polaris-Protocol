@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:16:58 UTC_
+_Generated on 2025-12-14 13:21:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3161,6 +3161,7 @@ _Generated on 2025-12-14 13:16:58 UTC_
       - [`👾_bad_algorithms_good_data.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/👾_bad_algorithms_good_data.md)
       - [`👾_what_robots_did_to_words.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/👾_what_robots_did_to_words.md)
       - [`📊_spreadsheet_of_silence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📊_spreadsheet_of_silence.md)
+      - [`📊_update_weighted_overrepresentation.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📊_update_weighted_overrepresentation.md)
       - [`📚_library_as_algorithmic_interface.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)
       - [`📡_provenance_chain_audit.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📡_provenance_chain_audit.md)
       - [`🔗_engagement_spillover_how_one_post_creates_a_niche.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🔗_engagement_spillover_how_one_post_creates_a_niche.md)
