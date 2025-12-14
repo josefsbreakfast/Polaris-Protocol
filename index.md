@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:32:28 UTC_
+_Generated on 2025-12-14 03:34:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3392,7 +3392,6 @@ _Generated on 2025-12-14 03:32:28 UTC_
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
-    - [`🧨_fear_symbol_leverage.md`](Polaris_Nest/Git_Intake_Drawer/🧨_fear_symbol_leverage.md)
     - [`🧨_five_archetypes_the_centre_left_fears.md`](Polaris_Nest/Git_Intake_Drawer/🧨_five_archetypes_the_centre_left_fears.md)
     - [`🧨_gitmo_to_gaza_exception_chain.md`](Polaris_Nest/Git_Intake_Drawer/🧨_gitmo_to_gaza_exception_chain.md)
     - [`🧨_pathways_of_escalation_how_prevent_spirals.md`](Polaris_Nest/Git_Intake_Drawer/🧨_pathways_of_escalation_how_prevent_spirals.md)
@@ -4011,6 +4010,7 @@ _Generated on 2025-12-14 03:32:28 UTC_
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🛰️_verified_amplification_network_protocol_handbook.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🛰️_verified_amplification_network_protocol_handbook.md)
     - [`🧠_nudge_taxonomy_and_detection.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧠_nudge_taxonomy_and_detection.md)
+    - [`🧨_fear_symbol_leverage.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧨_fear_symbol_leverage.md)
     - [`🧬_behavioural_signature_library.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧬_behavioural_signature_library.md)
     - [`🧾_artifact_archive_templates.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧾_artifact_archive_templates.md)
     - [`🪞_script_decoding_lab.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🪞_script_decoding_lab.md)
