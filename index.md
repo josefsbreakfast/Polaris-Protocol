@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 02:32:45 UTC_
+_Generated on 2025-12-14 02:34:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2938,6 +2938,8 @@ _Generated on 2025-12-14 02:32:45 UTC_
       - [`🫀_our_rapes_are_not_their_rationale.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_our_rapes_are_not_their_rationale.md)
       - [`🫀_pathologising_sensitivity.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity.md)
       - [`🫂_intimacy_gatekeeping.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md)
+    - [**🪆 Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆 Narrative_Interference/)
+      - [`🧿_representation_logic_vs_platform_optimisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆 Narrative_Interference/🧿_representation_logic_vs_platform_optimisation.md)
     - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`♻️_semantic_echo.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/♻️_semantic_echo.md)
@@ -3594,7 +3596,6 @@ _Generated on 2025-12-14 02:32:45 UTC_
     - [`🧿_misinterpretation_resilience_review.md`](Polaris_Nest/Git_Intake_Drawer/🧿_misinterpretation_resilience_review.md)
     - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
     - [`🧿_prevent_duty_as_nitw_black_goat_cult.md`](Polaris_Nest/Git_Intake_Drawer/🧿_prevent_duty_as_nitw_black_goat_cult.md)
-    - [`🧿_representation_logic_vs_platform_optimisation.md`](Polaris_Nest/Git_Intake_Drawer/🧿_representation_logic_vs_platform_optimisation.md)
     - [`🧿_survivor_credibility_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧿_survivor_credibility_loops.md)
     - [`🧿_targeted_metadata_capture_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_targeted_metadata_capture_in_prevent.md)
     - [`🧿_the_tech_bro_to_kylo_ren_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧿_the_tech_bro_to_kylo_ren_pipeline.md)
