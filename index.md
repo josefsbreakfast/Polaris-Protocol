@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:20:53 UTC_
+_Generated on 2025-12-14 09:23:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3466,7 +3466,6 @@ _Generated on 2025-12-14 09:20:53 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_harassment_is_not_an_event.md`](Polaris_Nest/Git_Intake_Drawer/🧩_harassment_is_not_an_event.md)
@@ -4044,6 +4043,7 @@ _Generated on 2025-12-14 09:20:53 UTC_
     - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
     - [`🛰️_verified_amplification_network_protocol_handbook.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🛰️_verified_amplification_network_protocol_handbook.md)
     - [`🧠_nudge_taxonomy_and_detection.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧠_nudge_taxonomy_and_detection.md)
+    - [`🧨_countering_nudges_for_the_prosocial.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_fear_symbol_leverage.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧨_fear_symbol_leverage.md)
     - [`🧬_behavioural_signature_library.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧬_behavioural_signature_library.md)
     - [`🧾_artifact_archive_templates.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧾_artifact_archive_templates.md)
