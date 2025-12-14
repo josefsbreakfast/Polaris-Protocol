@@ -1,110 +1,107 @@
-# 🪦 Memetic Hauntology  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*When past harm persists not through people, but through replication systems.*
+# 🪦 Memetic Hauntology
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14
 
 ---
 
-## 🛰️ Orientation  
-Some harms feel as though they linger — not because anyone is still acting,  
-but because the *structures that copied the harm never stopped*.
+## 🛰️ Orientation
 
-This node names a phenomenon where past abuse survives as **replicating data artefacts**, creating an experience that feels ghost-like despite the absence of human intent.
+Some harms appear to “linger” even after all human activity has stopped.
 
-This is not haunting in a supernatural sense.  
-It is **memetic persistence misread as presence**.
+This persistence is often described metaphorically as haunting, but its mechanism is not psychological or supernatural. It is memetic.
 
----
-
-## 🧠 Definition  
-**Memetic hauntology** describes situations where:
-
-- harm has ended as a human behaviour,  
-- but persists as an informational pattern,  
-- replicated automatically by systems,  
-- without intent, awareness, or audience.
-
-The result is a *felt continuity* of harm without an active perpetrator.
+This node describes how past harm can continue to surface through replication systems that copy information without intent, context, or decay.
 
 ---
 
-## 🔁 Mechanism  
+## 🧠 Core Claim
 
-1. A harassment event occurs.
-2. Content is scraped, indexed, duplicated, or misinterpreted.
-3. Automated systems replicate the material.
-4. Derivative junk (SEO spam, obituary bots, mirrors) proliferates.
-5. The original context disappears.
-6. The semantic residue remains discoverable.
+Memetic systems can preserve the *shape* of harm
+long after the *actors* responsible have disappeared.
 
-At no stage does replication require:
+What feels like presence is often replication.
+
+---
+
+## 🔁 Replication Without Agency
+
+Once harmful material enters networked systems, it may be:
+
+- indexed by search engines  
+- scraped by third-party services  
+- mirrored by archives  
+- reassembled by automated content generators  
+- reproduced by SEO infrastructure  
+
+These processes do not require:
 - belief,
-- intention,
 - hostility,
+- awareness,
 - or continued interest.
 
+They operate on copyability, not meaning.
+
 ---
 
-## 👻 Why It Feels Like a Ghost  
+## 👻 Why Replication Feels Like Haunting
 
-Memetic artefacts carry:
+Memetic artefacts often retain:
 - names,
-- threat-shaped language,
+- threat-adjacent language,
 - death semantics,
 - identity markers.
 
-Human cognition evolved to treat such signals as *present danger*.
+Human cognition interprets these as signals of presence or intent.
 
-When the signal appears without a sender, the brain fills the gap with the concept of “presence.”
+When such signals appear without a visible sender, they are experienced as uncanny:
+something feels “there,” even when nothing is acting.
 
-This produces a **haunting effect** without a haunter.
-
----
-
-## 🧩 Distinction from Active Harm  
-
-| Active Harm | Memetic Hauntology |
-|------------|-------------------|
-| Intentional | Non-intentional |
-| Human-driven | System-driven |
-| Temporal | Persistent |
-| Escalatory | Static |
-| Requires intervention | Requires literacy |
-
-Memetic hauntology is **environmental**, not interpersonal.
+This is a perceptual effect created by infrastructure.
 
 ---
 
-## 🧭 Why This Matters  
+## 🧩 Distinguishing Features
 
-Most safeguarding, legal, and mental-health frameworks assume harm ends when behaviour ends.
+| Human Haunting (metaphorical) | Memetic Hauntology |
+|------------------------------|-------------------|
+| Implied agency | No agency |
+| Intentional presence | Automated persistence |
+| Meaning-driven | Replication-driven |
+| Interpersonal | Environmental |
 
-Memetic systems violate this assumption.
-
-They extend:
-- duration,
-- visibility,
-- and psychological impact  
-without extending intent or risk.
-
-This mismatch produces confusion, distress, and misclassification of safety.
+Memetic hauntology describes an **environmental condition**, not a relationship.
 
 ---
 
-## 🧠 Key Insight  
+## 🧭 Why This Matters
 
-> The internet does not remember *who* hurt you.  
-> It only remembers *what replicated well*.
+Frameworks that assume harm ends with behaviour fail to account for:
+- long-tail exposure,
+- repeated resurfacing,
+- and ongoing interpretive burden.
 
-Meaning persists.  
-Agency does not.
-
----
-
-## 🧬 Constellations  
-🪦 Digital Haunting · 🔁 Memetic Persistence · 🗄️ Data Residue · 🧠 Threat Semantics · 🕸️ Automation Ecology
+Understanding harm as memetic persistence clarifies why people experience impact
+without any new action occurring.
 
 ---
 
-## 🏮 Footer  
-Analytical framing node within Polaris.  
-Describes structural information dynamics, not supernatural belief or ongoing threat.
+## 🌌 Constellations
+
+🪦 🔁 🗄️ 🕸️ 🧩  
+memetic persistence · automation · data residue · replication ecology
+
+---
+
+## ✨ Stardust
+
+memes, replication, semantic residue, indexing, scraping, automation,
+ghost signals, non-agential persistence
+
+---
+
+## 🏮 Footer
+
+Memetic Hauntology is a Polaris node describing how networked systems
+preserve and resurface harmful semantics without human intent.
+
+This node does not assert ongoing targeting or threat.
+It documents structural persistence.
