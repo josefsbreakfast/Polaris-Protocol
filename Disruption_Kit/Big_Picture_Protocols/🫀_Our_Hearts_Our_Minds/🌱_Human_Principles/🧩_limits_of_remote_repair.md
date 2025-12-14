@@ -1,6 +1,6 @@
 # 🧩 Limits of Remote Repair — Why Data Problems Need Dialogue  
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-02  
-*When an algorithm begins to perform its own confusion, only conversation can restore context.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-14  
+*When an algorithm begins to perform its own confusion, only conversation can restore context.*  
 
 ---
 
@@ -73,7 +73,7 @@ Dialogue becomes the only viable debugging protocol.
 
 ```mermaid
 flowchart LR
-A[Initial Anomaly]:::a --> B[Cross-Feed Contamination]:::b --> C[Residual Confusion]:::c --> D[Meta-Projection: "Hard to Read"]:::d --> E[Two-Way Dialogue Restores Context]:::e
+A[Initial Anomaly]:::a --> B[Cross-Feed Contamination]:::b --> C[Residual Confusion]:::c --> D[Meta-Projection: They are called Hard to Read]:::d --> E[Two-Way Dialogue Restores Context]:::e
 
 classDef a fill:#fff3cd,stroke:#d6a500,color:#000;
 classDef b fill:#ffd6aa,stroke:#d67b00,color:#000;
@@ -97,10 +97,11 @@ residual fault, meta-projection, data poisoning, gendered narrative, Anglophone 
 *🧩 Limits of Remote Repair — Why Data Problems Need Dialogue* is a living node of the **Polaris Protocol.**  
 It describes how residual, cross-fed data confusion evolves into gendered and racialised narratives rooted in Anglophone bias, and why only reciprocal human dialogue can restore lost context.
 
-> 📡 Cross-references:  
-> - [🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage](../Big_Picture_Protocols/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md) — identifying multi-source composites before residue sets in.  
-> - [🧬 Containment Thresholds — Emotional Data That Can’t Be Unmixed](../Big_Picture_Protocols/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md) — when ambiguity becomes structural containment.  
+> 📡 Cross-references:
+> 
+> - [🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage] — identifying multi-source composites before residue sets in.  
+> - [🧬 Containment Thresholds — Emotional Data That Can’t Be Unmixed] — when ambiguity becomes structural containment.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-14_
