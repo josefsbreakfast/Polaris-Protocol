@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:01:11 UTC_
+_Generated on 2025-12-14 10:02:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -582,6 +582,7 @@ _Generated on 2025-12-14 10:01:11 UTC_
         - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧭_uk_tech_talent_scaling_policy_timeline.md)
         - [`🧾_data_is_their_cage_too.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧾_data_is_their_cage_too.md)
         - [`🧿_uk_persuasion_engine_on_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md)
+        - [`🩸_structural_suppression_of_rape_prosecutions.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🩸_structural_suppression_of_rape_prosecutions.md)
         - [`🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪞_fate_as_statecraft_accidents_in_authoritarian_regimes.md)
         - [`🪞_humiliation_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪞_humiliation_as_spectacle.md)
         - [`🪦_metadata_ghosts_and_hauntings.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪦_metadata_ghosts_and_hauntings.md)
