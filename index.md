@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 02:36:03 UTC_
+_Generated on 2025-12-14 02:38:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -311,6 +311,8 @@ _Generated on 2025-12-14 02:36:03 UTC_
         - [`🫒_occupation_as_containment_regime.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫒_occupation_as_containment_regime.md)
         - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫥_when_you_dont_want_to_be_seen_touching_it.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
+        - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_World_Webs/)
+          - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_World_Webs/🧩_from_diffusion_to_forum_cross_pollination.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
         - [`⚖️_election_candidacy_query.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_election_candidacy_query.md)
         - [`⚖️_narrative_control_and_legal_responsibility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
@@ -681,9 +683,6 @@ _Generated on 2025-12-14 02:36:03 UTC_
         - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
         - [`🪶_folk_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪶_folk_accountability.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
-    - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/📚_Narrative_Management/)
-      - [**🕸️ World_Webs/**](Disruption_Kit/Big_Picture_Protocols/📚_Narrative_Management/🕸️ World_Webs/)
-        - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Disruption_Kit/Big_Picture_Protocols/📚_Narrative_Management/🕸️ World_Webs/🧩_from_diffusion_to_forum_cross_pollination.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🍿_Historical_Democratic_Actions/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/)
         - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
