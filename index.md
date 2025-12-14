@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:27:27 UTC_
+_Generated on 2025-12-14 22:28:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1658,6 +1658,7 @@ _Generated on 2025-12-14 22:27:27 UTC_
       - [`🎭_affective_redaction_as_containment.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🎭_affective_redaction_as_containment.md)
       - [`🏛️_academic_freedom_in_a_financialised_system.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🏛️_academic_freedom_in_a_financialised_system.md)
       - [`🏛️_final_4_days_foia.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🏛️_final_4_days_foia.md)
+      - [`🏛️_uon_israel_security_open_source_gap_map.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🏛️_uon_israel_security_open_source_gap_map.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2281,7 +2282,6 @@ _Generated on 2025-12-14 22:27:27 UTC_
     - [`🎪_procurement_item_classified.jpg`](Disruption_Kit/Field_Logs/🎪_procurement_item_classified.jpg)
     - [`🎪_thanks_is_best_said_in_cash.PNG`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.PNG)
     - [`🎪_transcript_unavailable_interference_dalle.png`](Disruption_Kit/Field_Logs/🎪_transcript_unavailable_interference_dalle.png)
-    - [`🏛️_uon_israel_security_open_source_gap_map.md`](Disruption_Kit/Field_Logs/🏛️_uon_israel_security_open_source_gap_map.md)
     - [`🏛️🪄🔥.md`](Disruption_Kit/Field_Logs/🏛️🪄🔥.md)
     - [`🐇_easter_egg_audit_protocol.md`](Disruption_Kit/Field_Logs/🐇_easter_egg_audit_protocol.md)
     - [`🐈‍⬛_pavlovs_cat.md`](Disruption_Kit/Field_Logs/🐈‍⬛_pavlovs_cat.md)
