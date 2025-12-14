@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:23:58 UTC_
+_Generated on 2025-12-14 10:24:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2930,6 +2930,7 @@ _Generated on 2025-12-14 10:23:58 UTC_
       - [`🎪_racialised_projection_as_harassment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎪_racialised_projection_as_harassment.md)
       - [`🎭_character_assassination_theatre.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_character_assassination_theatre.md)
       - [`🎭_laughing_at_strongmen.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_laughing_at_strongmen.md)
+      - [`🎭_spoof_writer_internal_monologue.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎭_spoof_writer_internal_monologue.md)
       - [`🎶_reversal_distortion_if_i_cant_have_you.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎶_reversal_distortion_if_i_cant_have_you.md)
       - [`🐅_narrative_pressure_and_sexualised_content.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🐅_narrative_pressure_and_sexualised_content.md)
       - [`👅_bad_deepfakes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md)
