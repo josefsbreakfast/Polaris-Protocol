@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:32:33 UTC_
+_Generated on 2025-12-14 09:33:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3172,6 +3172,7 @@ _Generated on 2025-12-14 09:32:33 UTC_
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🧭_visual_glossary_containment_pulse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md)
       - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
+      - [`🧼_system_leakage_signature_clone_to_human_spike.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧼_system_leakage_signature_clone_to_human_spike.md)
       - [`🩻_continuum_data_use_misuse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_continuum_data_use_misuse.md)
       - [`🩻_markers_data_enmeshment.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_markers_data_enmeshment.md)
       - [`🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md)
