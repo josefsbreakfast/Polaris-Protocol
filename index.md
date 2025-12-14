@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:58:39 UTC_
+_Generated on 2025-12-14 04:59:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -304,6 +304,7 @@ _Generated on 2025-12-14 04:58:39 UTC_
         - [`🧩_emergent_surveillance_without_malice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_emergent_surveillance_without_malice.md)
         - [`🧩_existential_threat_response_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_existential_threat_response_loop.md)
         - [`🧩_lepore_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_lepore_continuum.md)
+        - [`🧩_perpetrator_competence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_perpetrator_competence.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🩹_pain_is_not_a_kpi.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_pain_is_not_a_kpi.md)
@@ -3434,7 +3435,6 @@ _Generated on 2025-12-14 04:58:39 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_perpetrator_competence_and_system_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_perpetrator_competence_and_system_harm.md)
     - [`🧩_policy_capture_quilliam_ctsa2015.md`](Polaris_Nest/Git_Intake_Drawer/🧩_policy_capture_quilliam_ctsa2015.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
