@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:50:09 UTC_
+_Generated on 2025-12-14 03:51:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -361,6 +361,7 @@ _Generated on 2025-12-14 03:50:09 UTC_
         - [`🧨_centre_left_threat_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_centre_left_threat_archetypes.md)
         - [`🧨_gitmo_to_gaza_exception_chain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_gitmo_to_gaza_exception_chain.md)
         - [`🧨_semantic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_semantic_collapse.md)
+        - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_why_argumentation_fails_with_alt_right_ideology.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
@@ -3403,7 +3404,6 @@ _Generated on 2025-12-14 03:50:09 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
-    - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Polaris_Nest/Git_Intake_Drawer/🧨_why_argumentation_fails_with_alt_right_ideology.md)
     - [`🧩_academic_precarity_as_authoritarian_vector.md`](Polaris_Nest/Git_Intake_Drawer/🧩_academic_precarity_as_authoritarian_vector.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_algorithmic_conscience.md`](Polaris_Nest/Git_Intake_Drawer/🧩_algorithmic_conscience.md)
