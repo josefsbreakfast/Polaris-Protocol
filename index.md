@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:24:52 UTC_
+_Generated on 2025-12-14 03:25:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2810,6 +2810,7 @@ _Generated on 2025-12-14 03:24:52 UTC_
       - [`🧠_safeguarding_to_ai_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_safeguarding_to_ai_pipeline.md)
       - [`🧠_the_continuum_of_authoritarian_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)
       - [`🧠_white_immunity_blindspot.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_white_immunity_blindspot.md)
+      - [`🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
       - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
@@ -3388,7 +3389,6 @@ _Generated on 2025-12-14 03:24:52 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md`](Polaris_Nest/Git_Intake_Drawer/🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_dual_use_epiphany.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_epiphany.md)
     - [`🧨_dual_use_frankenstack.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_frankenstack.md)
