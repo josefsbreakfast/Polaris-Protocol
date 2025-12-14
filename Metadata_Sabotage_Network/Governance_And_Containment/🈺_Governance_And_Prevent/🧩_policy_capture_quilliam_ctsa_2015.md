@@ -1,6 +1,6 @@
 # 🧩 Policy Capture: Quilliam & CTSA 2015  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How the Quilliam Foundation — a privately funded, ideologically driven organisation with opaque donors — shaped key sections of the Counter-Terrorism and Security Act 2015, embedding racialised suspicion into UK law.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-14  
+*How the Quilliam Foundation — a privately funded, ideologically driven organisation with opaque donors — shaped key sections of the Counter-Terrorism and Security Act 2015, embedding racialised suspicion into UK law.*  
 
 ---
 
@@ -189,4 +189,4 @@ It traces how ideological influence from the Quilliam Foundation shaped the lega
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-14_
