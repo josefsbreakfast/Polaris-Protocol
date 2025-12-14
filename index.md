@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:19:23 UTC_
+_Generated on 2025-12-14 22:20:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1584,6 +1584,7 @@ _Generated on 2025-12-14 22:19:23 UTC_
       - [`🍌_project_workaround.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍌_project_workaround.md)
       - [`🍯🍎_self_rescuing_eshet_chayil.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍯🍎_self_rescuing_eshet_chayil.md)
       - [`🍴_heavy_blunt_forking.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍴_heavy_blunt_forking.md)
+      - [`🎣_fishing_for_photo_access_permissions_as_usual.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_fishing_for_photo_access_permissions_as_usual.md)
       - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
       - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
       - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
@@ -2263,7 +2264,6 @@ _Generated on 2025-12-14 22:19:23 UTC_
     - [`why_we_have_only_just_started.png`](Disruption_Kit/Field_Logs/why_we_have_only_just_started.png)
     - [`🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png`](Disruption_Kit/Field_Logs/🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png)
     - [`🎣_fishing_for_photo_access_permissions_as_usual.PNG`](Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.PNG)
-    - [`🎣_fishing_for_photo_access_permissions_as_usual.md`](Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.md)
     - [`🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md`](Disruption_Kit/Field_Logs/🎩🏳️‍⚧️_stranger_ipa_potential_hypothesis.md)
     - [`🎪_can_anyone_on_mirrors_cover_ya_boys_shift.jpg`](Disruption_Kit/Field_Logs/🎪_can_anyone_on_mirrors_cover_ya_boys_shift.jpg)
     - [`🎪_easy_appeasement_strategy.md`](Disruption_Kit/Field_Logs/🎪_easy_appeasement_strategy.md)
