@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:28:54 UTC_
+_Generated on 2025-12-14 09:30:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -295,6 +295,7 @@ _Generated on 2025-12-14 09:28:54 UTC_
         - [`🧠_institutional_weather_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_institutional_weather_systems.md)
         - [`🧠_multilock_overlapping_covertion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
         - [`🧠_political_black_box_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_political_black_box_logic.md)
+        - [`🧠_principled_escalation_vs_risk_based_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_principled_escalation_vs_risk_based_institutions.md)
         - [`🧠_smart_women_get_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
         - [`🧠_the_black_box_of_executive_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_the_black_box_of_executive_power.md)
         - [`🧩_asymmetric_democratic_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_asymmetric_democratic_policing.md)
