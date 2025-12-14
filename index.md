@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:30:19 UTC_
+_Generated on 2025-12-14 10:30:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -148,6 +148,7 @@ _Generated on 2025-12-14 10:30:19 UTC_
         - [`🏛️_parliamentary_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_parliamentary_safeguards.md)
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_duty_to_correct.md)
         - [`📜_from_survivor_code_to_research_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_from_survivor_code_to_research_ethics.md)
+        - [`📜_harm_assessment_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_harm_assessment_protocols.md)
         - [`📡_the_governance_of_bodies_that_refuse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📡_the_governance_of_bodies_that_refuse.md)
         - [`🔁_post_realisation_phase.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔁_post_realisation_phase.md)
         - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
