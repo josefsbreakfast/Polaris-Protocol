@@ -1,6 +1,6 @@
 # 🧩 Historical Precursors  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent’s structure echoes earlier systems of behavioural, ideological, and population surveillance, from British colonial policing to European internal security services. Revealing that its architecture is not new, but historically patterned.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-14  
+*How Prevent’s structure echoes earlier systems of behavioural, ideological, and population surveillance, from British colonial policing to European internal security services. Revealing that its architecture is not new, but historically patterned.*  
 
 ---
 
@@ -223,4 +223,4 @@ It maps the earlier systems that inspired, informed, or structurally resemble Pr
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-14_
