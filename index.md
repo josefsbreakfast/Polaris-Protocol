@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:39:11 UTC_
+_Generated on 2025-12-14 09:40:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3028,6 +3028,7 @@ _Generated on 2025-12-14 09:39:11 UTC_
       - [`🍌_self_eating_system.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍌_self_eating_system.md)
       - [`🎣_polaris_scares_men.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎣_polaris_scares_men.md)
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
+      - [`🎭_narrative_overcontrol_failure.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎭_narrative_overcontrol_failure.md)
       - [`🎵_operant_conditioning_through_music.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎵_operant_conditioning_through_music.md)
       - [`🎶_shared_tech_voicex_institutional_reports.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)
       - [`🏛️_50_shades_of_avoiding_damages.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🏛️_50_shades_of_avoiding_damages.md)
