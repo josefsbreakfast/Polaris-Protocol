@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:48:56 UTC_
+_Generated on 2025-12-14 10:53:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1200,6 +1200,7 @@ _Generated on 2025-12-14 10:48:56 UTC_
         - [`🛫_frequent_flyers_club.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🛫_frequent_flyers_club.md)
         - [`🛰️_overlapping_surveillance_layers.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🛰️_overlapping_surveillance_layers.md)
         - [`🦖_clever_girls_and_the_risk_heuristic.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🦖_clever_girls_and_the_risk_heuristic.md)
+        - [`🧠_prevent_parallel_safeguarding_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧠_prevent_parallel_safeguarding_architecture.md)
         - [`🧠_why_are_we_threatened_by_complexity.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧠_why_are_we_threatened_by_complexity.md)
         - [`🧿_diaspora_disclosure_tactics.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)
         - [`🧿_jailbreaking_and_ai.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_jailbreaking_and_ai.md)
