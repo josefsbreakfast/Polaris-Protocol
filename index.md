@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 05:51:24 UTC_
+_Generated on 2025-12-14 05:53:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3409,6 +3409,7 @@ _Generated on 2025-12-14 05:51:24 UTC_
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
+    - [`📊_who_is_actually_reading_this.md`](Polaris_Nest/Git_Intake_Drawer/📊_who_is_actually_reading_this.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📡_algorithmic_violence_ecology.md`](Polaris_Nest/Git_Intake_Drawer/📡_algorithmic_violence_ecology.md)
     - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/📺_coverup_as_cultural_genre.md)
