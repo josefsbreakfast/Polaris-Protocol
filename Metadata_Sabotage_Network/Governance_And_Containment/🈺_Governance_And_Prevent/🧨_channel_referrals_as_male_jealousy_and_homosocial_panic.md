@@ -1,6 +1,6 @@
-# 🧨 Channel Referrals as Male Jealousy and Homosocial Panic
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*How intra-male rivalry, social insecurity, and homosocial desire fuel misuse of Prevent/Channel referral pathways.*
+# 🧨 Channel Referrals as Male Jealousy and Homosocial Panic  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-14  
+*How intra-male rivalry, social insecurity, and homosocial desire fuel misuse of Prevent/Channel referral pathways.*  
 
 ---
 
@@ -165,4 +165,4 @@ Prevent misuse, Channel escalation, male rivalry, charisma panic, jealousy, homo
 *Channel Referrals as Male Jealousy & Homosocial Panic* is a living node of the Polaris Protocol.  
 It exposes the psychosexual drivers of male-on-male misuse of Prevent/Channel, documenting how jealousy, insecurity, and attraction become weaponised as public safety language.
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-14_
