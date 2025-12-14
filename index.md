@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:59:51 UTC_
+_Generated on 2025-12-14 05:00:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2849,6 +2849,7 @@ _Generated on 2025-12-14 04:59:51 UTC_
       - [`🧩_health_prevent_ct_data_interlock.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_health_prevent_ct_data_interlock.md)
       - [`🧩_historical_precursors.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_historical_precursors.md)
       - [`🧩_how_precrime_systems_create_crises.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_how_precrime_systems_create_crises.md)
+      - [`🧩_policy_capture_quilliam_ctsa_2015.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_policy_capture_quilliam_ctsa_2015.md)
       - [`🧩_the_neurodivergence_misread.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_the_neurodivergence_misread.md)
       - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
@@ -3435,7 +3436,6 @@ _Generated on 2025-12-14 04:59:51 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_policy_capture_quilliam_ctsa2015.md`](Polaris_Nest/Git_Intake_Drawer/🧩_policy_capture_quilliam_ctsa2015.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
