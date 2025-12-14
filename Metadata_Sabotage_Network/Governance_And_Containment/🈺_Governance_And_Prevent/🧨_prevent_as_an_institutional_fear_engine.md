@@ -1,6 +1,6 @@
 # 🧨 Prevent as an Institutional Fear Engine  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent creates a culture of professional fear in schools, healthcare, universities, and social care—leading to over-referral, misclassification, and a widening net of suspicion.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-14  
+*How Prevent creates a culture of professional fear in schools, healthcare, universities, and social care—leading to over-referral, misclassification, and a widening net of suspicion.*  
 
 ---
 
@@ -211,4 +211,4 @@ It analyses how Prevent produces fear-based decision-making across public servic
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-14_
