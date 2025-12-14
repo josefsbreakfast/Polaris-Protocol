@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:59:01 UTC_
+_Generated on 2025-12-14 10:00:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3085,6 +3085,7 @@ _Generated on 2025-12-14 09:59:01 UTC_
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
       - [`🐍_algorithmic_hostage_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md)
+      - [`🐍_low_skill_threat_actors_high_systemic_impact.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_low_skill_threat_actors_high_systemic_impact.md)
       - [`👻_ghost_persona_error_modes.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👻_ghost_persona_error_modes.md)
       - [`👾_algorithmic_projection_and_false_personalisation.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👾_algorithmic_projection_and_false_personalisation.md)
       - [`💥_solidarity_induced_model_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/💥_solidarity_induced_model_failure.md)
