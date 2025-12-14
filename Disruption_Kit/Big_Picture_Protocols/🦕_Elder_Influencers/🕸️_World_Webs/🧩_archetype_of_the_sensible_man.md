@@ -161,7 +161,9 @@ He is a stabiliser, not a partner.
 ---
 
 ## 🌌 Constellations  
-🧩 🧠 📚 ⚖️ – class-coded gender scripts, cultural archetypes, stability narratives, governance symbolism.
+🧩 🧠 📚 ⚖️ – class-coded gender scripts, cultural archetypes, stability narratives, governance symbolism.  
+
+An example of this in the wild, since first writing, would be Keir Starmer's prime ministerial TikTok account.  
 
 ---
 
