@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:48:55 UTC_
+_Generated on 2025-12-14 04:49:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2734,7 +2734,7 @@ _Generated on 2025-12-14 04:48:55 UTC_
       - [`🗣️_survivor_scripts_and_institutional_voiceover.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🗣️_survivor_scripts_and_institutional_voiceover.md)
       - [`🚑_extraction_quick_checklist.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🚑_extraction_quick_checklist.md)
       - [`🧠_machine_learning_as_moral_reeducation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧠_machine_learning_as_moral_reeducation.md)
-      - [`🧩_ideal_whitehall_response_sequence_counter_impersonation_and_oversight_integrity.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence_counter_impersonation_and_oversight_integrity.md)
+      - [`🧩_ideal_whitehall_response_sequence.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md)
       - [`🧪_experiments_in_ethical_retraining.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧪_experiments_in_ethical_retraining.md)
       - [`🧭_dispatch_ethics.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧭_dispatch_ethics.md)
       - [`🧮_audit_trails_of_obedience.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧮_audit_trails_of_obedience.md)
