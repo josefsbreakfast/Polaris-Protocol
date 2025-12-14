@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:06:42 UTC_
+_Generated on 2025-12-14 03:15:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2945,8 +2945,6 @@ _Generated on 2025-12-14 03:06:42 UTC_
       - [`🫀_our_rapes_are_not_their_rationale.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_our_rapes_are_not_their_rationale.md)
       - [`🫀_pathologising_sensitivity.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity.md)
       - [`🫂_intimacy_gatekeeping.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md)
-    - [**🪆 Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆 Narrative_Interference/)
-      - [`🧿_representation_logic_vs_platform_optimisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆 Narrative_Interference/🧿_representation_logic_vs_platform_optimisation.md)
     - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`♻️_semantic_echo.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/♻️_semantic_echo.md)
@@ -2991,6 +2989,7 @@ _Generated on 2025-12-14 03:06:42 UTC_
       - [`🧩_repairing_trust_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧩_repairing_trust_chains.md)
       - [`🧱_keystone_dependency_trace.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧱_keystone_dependency_trace.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
+      - [`🧿_representation_logic_vs_platform_optimisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_representation_logic_vs_platform_optimisation.md)
       - [`🩺_containment_catchphrases.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🩺_containment_catchphrases.md)
       - [`🪞_narrative_drift_when_systems_inherit_the_wrong_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)
       - [`🪞_narrative_self_repair_index.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_self_repair_index.md)
