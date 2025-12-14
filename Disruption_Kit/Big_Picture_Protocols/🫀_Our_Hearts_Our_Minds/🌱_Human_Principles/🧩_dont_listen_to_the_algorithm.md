@@ -1,5 +1,5 @@
 # 🧩 Don’t Listen to the Algorithm  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-14  
 *A sanity slip for when the emotional telemetry starts shouting.*
 
 ---
@@ -68,11 +68,11 @@ algorithmic refusal, emotional telemetry, sanity slip, non-participation, human 
 *Don’t Listen to the Algorithm* is a living node of the **Polaris Protocol**.  
 It offers a compact refusal practice for moments when the machine’s emotional theatre drowns out reality.  
 
-> 📡 Cross-references:  
-> - [🧠 Diagnostic Visibility Conditioning](../🧠_diagnostic_visibility_conditioning.md) — algorithmic misreads of emotion  
-> - [💫 The Middle Register](../💫_the_middle_register.md) — restoring nuance and warmth  
-> - [☔️ Protocol Integrity SOP](../../../Admin_Kit/☔️_protocol_integrity_sop.md) — ethical and stylistic fidelity checks  
+> 📡 Cross-references:
+> 
+> - [🧠 Diagnostic Visibility Conditioning]  — algorithmic misreads of emotion  
+> - [💫 The Middle Register] — restoring nuance and warmth  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-14_
