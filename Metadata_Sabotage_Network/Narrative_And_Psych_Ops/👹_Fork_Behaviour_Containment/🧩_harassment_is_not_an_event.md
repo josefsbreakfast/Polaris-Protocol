@@ -1,6 +1,6 @@
-# 🧩 Harassment Is Not an Event
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*Why digital harm must be understood as a lifecycle rather than an incident*
+# 🧩 Harassment Is Not an Event  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+*Why digital harm must be understood as a lifecycle rather than an incident*  
 
 ---
 
@@ -137,15 +137,15 @@ ambient exposure, algorithmic amplification
 
 ## 🏮 Footer
 
-Harassment Is Not an Event is a living node of the **Polaris Protocol**.
+*Harassment Is Not an Event* is a living node of the **Polaris Protocol**.
 It reframes digital harassment as a lifecycle shaped by replication,
 infrastructure, and persistence rather than a discrete incident.
 
 > 📡 Cross-references:
 >
-> - [🗂️ The Afterlife of Harm](./🗂️_the_afterlife_of_harm.md) — persistence beyond the originating act  
-> - [📡 Algorithmic Violence Ecology](./📡_algorithmic_violence_ecology.md) — system-driven harm without intent  
-> - [🕳️ Ambient Threat Simulation](./🕳️_ambient_threat_simulation.md) — threat sensation without agency  
+> - [🗂️ The Afterlife of Harm] — persistence beyond the originating act  
+> - [📡 Algorithmic Violence Ecology] — system-driven harm without intent  
+> - [🕳️ Ambient Threat Simulation] — threat sensation without agency  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
