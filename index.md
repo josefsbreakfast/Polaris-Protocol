@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:27:27 UTC_
+_Generated on 2025-12-14 10:28:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -354,6 +354,7 @@ _Generated on 2025-12-14 10:27:27 UTC_
         - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_witch_girl_vs_sensible_man_archetypes.md)
         - [`🎴_tarot_of_prime_ministers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎴_tarot_of_prime_ministers.md)
         - [`🎼_polyphonic_origins.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎼_polyphonic_origins.md)
+        - [`🏗️_skyscraper_over_pebbles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏗️_skyscraper_over_pebbles.md)
         - [`🏛️_archetypes_of_bureaucratic_behaviour.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_archetypes_of_bureaucratic_behaviour.md)
         - [`🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md)
         - [`🏛️_olympus_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_olympus_syndrome.md)
