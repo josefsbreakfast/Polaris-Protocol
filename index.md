@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 11:07:38 UTC_
+_Generated on 2025-12-14 11:16:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -142,6 +142,7 @@ _Generated on 2025-12-14 11:07:38 UTC_
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
         - [`⚠️_the_erosion_of_duty_of_care_under_exception_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚠️_the_erosion_of_duty_of_care_under_exception_logic.md)
         - [`🌀_justice_infrastructure_mismatch_1990s_law_2025_tech.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_justice_infrastructure_mismatch_1990s_law_2025_tech.md)
+        - [`🌀_rule_of_law_failure_cascade.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md)
         - [`🌋_whistleblowers_as_emergency_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌋_whistleblowers_as_emergency_governance.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🍞_why_food_safety_is_aggressively_regulated.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md)
