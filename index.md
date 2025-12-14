@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:35:56 UTC_
+_Generated on 2025-12-14 09:36:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -102,6 +102,7 @@ _Generated on 2025-12-14 09:35:56 UTC_
         - [`uk_debates_overlap.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_debates_overlap.png)
         - [`uk_online_safety_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_online_safety_timeline.png)
         - [`⏳_governance_latency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_governance_latency.md)
+        - [`⏳_hinge_point_when_delay_becomes_liability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_hinge_point_when_delay_becomes_liability.md)
         - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
         - [`⚖️_case_note_dr_b_v_gmc_2023.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_case_note_dr_b_v_gmc_2023.md)
         - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)
