@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:43:17 UTC_
+_Generated on 2025-12-14 09:45:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -180,6 +180,7 @@ _Generated on 2025-12-14 09:43:17 UTC_
         - [`👑_asserting_sovereignty_after_allied_interference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
         - [`👑_soft_power_accountability_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
+        - [`📚_memory_market_machinery_of_data_exhaust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/📚_memory_market_machinery_of_data_exhaust.md)
         - [`🕊️_positive_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕊️_positive_drift.md)
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
         - [`🛡️_constructed_immunity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🛡️_constructed_immunity.md)
