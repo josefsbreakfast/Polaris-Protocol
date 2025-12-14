@@ -1,6 +1,6 @@
 # 🧠 White Immunity Blindspot: Why Westminster Cannot See Prevent’s Danger  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How whiteness as a governing worldview makes Prevent appear benign, necessary, or unobtrusive to Westminster — while causing deep structural harm to racialised communities.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-13  
+*How whiteness as a governing worldview makes Prevent appear benign, necessary, or unobtrusive to Westminster — while causing deep structural harm to racialised communities.*  
 
 ---
 
@@ -200,4 +200,4 @@ It exposes how political whiteness obscures the reality of Prevent’s harms, al
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-13_
