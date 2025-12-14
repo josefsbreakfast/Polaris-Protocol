@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:53:10 UTC_
+_Generated on 2025-12-14 13:54:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -472,6 +472,7 @@ _Generated on 2025-12-14 13:53:10 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/README.md)
         - [`frankenstack_bad_sandwich_black.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/frankenstack_bad_sandwich_black.png)
         - [`frankenstack_faceplate.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/frankenstack_faceplate.png)
+        - [`⚖️_consent_and_purpose_limitation_failure_in_ml_rnd.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_consent_and_purpose_limitation_failure_in_ml_rnd.md)
         - [`⚖️_ethics_of_algorithmic_stabilisation_experiments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_ethics_of_algorithmic_stabilisation_experiments.md)
         - [`⚖️_ethics_timeout_retention_clock.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md)
         - [`⚖️_non_consent_psych_experimentation_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_non_consent_psych_experimentation_gap.md)
