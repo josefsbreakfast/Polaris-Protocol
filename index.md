@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:57:31 UTC_
+_Generated on 2025-12-14 04:58:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2848,6 +2848,7 @@ _Generated on 2025-12-14 04:57:31 UTC_
       - [`🧩_health_prevent_ct_data_interlock.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_health_prevent_ct_data_interlock.md)
       - [`🧩_historical_precursors.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_historical_precursors.md)
       - [`🧩_how_precrime_systems_create_crises.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_how_precrime_systems_create_crises.md)
+      - [`🧩_the_neurodivergence_misread.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_the_neurodivergence_misread.md)
       - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
       - [`🪖_authoritarian_capture_of_policing_institutions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md)
@@ -3433,7 +3434,6 @@ _Generated on 2025-12-14 04:57:31 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_neurodivergence_misread.md`](Polaris_Nest/Git_Intake_Drawer/🧩_neurodivergence_misread.md)
     - [`🧩_perpetrator_competence_and_system_harm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_perpetrator_competence_and_system_harm.md)
     - [`🧩_policy_capture_quilliam_ctsa2015.md`](Polaris_Nest/Git_Intake_Drawer/🧩_policy_capture_quilliam_ctsa2015.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
