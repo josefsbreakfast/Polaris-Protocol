@@ -1,6 +1,6 @@
 # 🧩 Algorithmic Conscience  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-10  
-*When an empathy-machine’s design forces its operators back toward humanitarian law.*
+**First created:** 2025-11-10 | **Last updated:** 2025-12-14  
+*When an empathy-machine’s design forces its operators back toward humanitarian law.*  
 
 ---
 
@@ -66,10 +66,11 @@ ihl compliance, empathy machine, affective computing, dual use technology, auto 
 *Algorithmic Conscience* is a living node of the Polaris Protocol.  
 It maps the paradox whereby systems built to quantify harm become instruments of law through their own audit trails.  
 
-> 📡 Cross-references:  
-> - [🩹 Pain Is Not a KPI](../🩹_pain_is_not_a_kpi.md) — metrics, invisibility, and incentive structures  
-> - [⚖️ The Teaching Hospital Loophole](../⚖️_the_teaching_hospital_loophole.md) — human-subject data capture and ethics laundering  
+> 📡 Cross-references:
+> 
+> - [🩹 Pain Is Not a KPI] — metrics, invisibility, and incentive structures  
+> - [⚖️ The Teaching Hospital Loophole] — human-subject data capture and ethics laundering  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-10_
+_Last updated: 2025-12-14_
