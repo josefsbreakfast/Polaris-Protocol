@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:12:37 UTC_
+_Generated on 2025-12-14 22:13:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1581,6 +1581,7 @@ _Generated on 2025-12-14 22:12:37 UTC_
       - [`🌹_to_the_red_roses.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🌹_to_the_red_roses.md)
       - [`🍄_every_rule_is_wrong_or_questioned.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍄_every_rule_is_wrong_or_questioned.md)
       - [`🍉_chatgpt_is_allergic_to_doikeyt.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍉_chatgpt_is_allergic_to_doikeyt.md)
+      - [`🍌_project_workaround.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🍌_project_workaround.md)
       - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
       - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
       - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
@@ -1639,6 +1640,7 @@ _Generated on 2025-12-14 22:12:37 UTC_
       - [`🍄_still_leaking.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍄_still_leaking.md)
       - [`🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.PNG`](Disruption_Kit/Field_Logs/20251101_November_2025/🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.PNG)
       - [`🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.md)
+      - [`🍉_the_interference_is_up_up_up.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍉_the_interference_is_up_up_up.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2255,9 +2257,7 @@ _Generated on 2025-12-14 22:12:37 UTC_
     - [`polaris_threat_visibility_map_2025-08_corrected.png`](Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
     - [`reset_state_analysis_chart.png`](Disruption_Kit/Field_Logs/reset_state_analysis_chart.png)
     - [`why_we_have_only_just_started.png`](Disruption_Kit/Field_Logs/why_we_have_only_just_started.png)
-    - [`🍉_the_interference_is_up_up_up.md`](Disruption_Kit/Field_Logs/🍉_the_interference_is_up_up_up.md)
     - [`🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png`](Disruption_Kit/Field_Logs/🍊_the_idea_that_we_are_going_to_use_this_in_moj_just_makes_me_laugh.png)
-    - [`🍌_project_workaround.md`](Disruption_Kit/Field_Logs/🍌_project_workaround.md)
     - [`🍯🍎_self_rescuing_eshet_chayil.md`](Disruption_Kit/Field_Logs/🍯🍎_self_rescuing_eshet_chayil.md)
     - [`🍴_heavy_blunt_forking.md`](Disruption_Kit/Field_Logs/🍴_heavy_blunt_forking.md)
     - [`🍿_regarding_negotiations.md`](Disruption_Kit/Field_Logs/🍿_regarding_negotiations.md)
