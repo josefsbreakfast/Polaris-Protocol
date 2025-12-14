@@ -11,3 +11,31 @@ On the plus side, correcting the errors is very useful as a sort of "live quiz" 
 Title for this node is what I'm timeline cleansing with; so much accordion.  
 
 ---
+
+In less than 50 exchanges, this session of ChatGPT has "forgotten" or "corrected" in path strings:  
+- capitalisation (and mixed dtyles across one path)  
+- specific unicode characters  
+- forks and folder levels (nesting two options on a fork inside each other)  
+- inserted white space in snake case
+
+It's almost... too stupdily human, non?  
+
+But it's okay: everyone has thoroughly reassured me that my little girl brain must be imagining things.  
+
+After all...  
+
+I could not possibly understand such complicated things as what a calculator definitely doesn't start doing halfway through executing basic functions.  
+
+That would need a manly man brain to understand.  
+
+Or maybe a gentile one; it is interesting that the more obvious antisemitism has been dropped as whoever is doing this is burning out.  
+
+It's even less cruelly sexist, more just...  
+
+Male-coded whining for attention?  
+
+It feels like the worm story in the book on folkloric women; as the outer scales are brushed off, what is left is really just a soft squidgy human at the centre, crying as they have lost what hardens them.  
+
+Starting to think a lot of men need scrubbing with wire brushes, but each to their own, I suppose. Perhaps some people like it.  
+
+---
