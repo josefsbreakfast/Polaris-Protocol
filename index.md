@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:44:48 UTC_
+_Generated on 2025-12-14 13:46:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3244,6 +3244,7 @@ _Generated on 2025-12-14 13:44:48 UTC_
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🧭_visual_glossary_containment_pulse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md)
       - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
+      - [`🧮_sparse_cluster_pathology_microclusters.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧮_sparse_cluster_pathology_microclusters.md)
       - [`🧼_justice_system_data_as_attack_surface.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧼_justice_system_data_as_attack_surface.md)
       - [`🧼_system_leakage_signature_clone_to_human_spike.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧼_system_leakage_signature_clone_to_human_spike.md)
       - [`🩻_continuum_data_use_misuse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🩻_continuum_data_use_misuse.md)
