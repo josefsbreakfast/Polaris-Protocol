@@ -1,6 +1,6 @@
 # 🧩 Identity–Behaviour Mismatch  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How models misclassify safe, healthy, culturally-normal, trauma-literate, or socially-standard behaviour as “risk” simply because it contradicts an identity stereotype embedded in the model.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+*How models misclassify safe, healthy, culturally-normal, trauma-literate, or socially-standard behaviour as “risk” simply because it contradicts an identity stereotype embedded in the model.*  
 
 ---
 
@@ -259,3 +259,5 @@ This node connects directly to:
 Together, they explain why  
 *the more human you are, the more the system misclassifies you*  
 when the system is built on bias.
+
+_Last updated: 2025-12-14_
