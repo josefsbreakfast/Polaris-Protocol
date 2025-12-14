@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:24:32 UTC_
+_Generated on 2025-12-14 10:25:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3076,6 +3076,7 @@ _Generated on 2025-12-14 10:24:32 UTC_
       - [`🦂_racialised_entitlement_violation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦂_racialised_entitlement_violation.md)
       - [`🧙‍♀️_witch_logic_diagnostic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)
       - [`🧠_extraction_loop_data_vs_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_extraction_loop_data_vs_story.md)
+      - [`🧠_illusion_of_cleverness_in_low_skill_adversaries.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_illusion_of_cleverness_in_low_skill_adversaries.md)
       - [`🧠_linguistic_containment_and_sexual_violence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_linguistic_containment_and_sexual_violence.md)
       - [`🧠_misclassifying_intellectual_intimacy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_misclassifying_intellectual_intimacy.md)
       - [`🧨_trace_resistance_framework.yaml`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_trace_resistance_framework.yaml)
