@@ -1,6 +1,6 @@
 # 🧠 Cognitive Immunology  
 **First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*A framework for understanding how societies resist or succumb to epistemic harm at population scale.*
+*A framework for understanding how societies resist or succumb to epistemic harm at population scale.*  
 
 ---
 
