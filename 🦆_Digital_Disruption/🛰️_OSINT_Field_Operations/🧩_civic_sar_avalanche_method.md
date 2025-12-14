@@ -1,6 +1,6 @@
 # 🧩 Civic SAR Avalanche Method  
-**First created:** 2025-11-22  |  **Last updated:** 2025-11-22  
-*A distributed, lawful stress-test for breached and opaque vendors.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-14  
+*A distributed, lawful stress-test for breached and opaque vendors.*  
 
 ---
 
@@ -143,12 +143,13 @@ sar, subject access request, civic enforcement, breach response, vendor opacity,
 *🧩 Civic SAR Avalanche Method* is a living node of the Polaris Protocol.  
 It describes how coordinated, lawful SARs can be used as a public enforcement tool against opaque or breached vendors, shifting the cost of non-disclosure back onto those who mishandled the data.
 
-> 📡 Cross-references:  
-> - [🛰️ FOI–SAR Dual Audit Protocol](🛰️_foi_sar_dual_audit_protocol.md) — twin-lever method for tracing state–vendor flows  
-> - [🧭 Are We Fascist Yet?](🧭_are_we_fascist_yet.md) — protofascism diagnostic and planning context  
-> - [⚖️ Above the Law — Protofascism Threshold](⚖️_above_the_law_protofascism_threshold.md) — legal and economic impunity map  
-> - [🐝 Post-Protofascist Reconstruction](🐝_post_protofascist_reconstruction.md) — rebuilding data governance under commons control  
+> 📡 Cross-references:
+> 
+> - [🛰️ FOI–SAR Dual Audit Protocol] — twin-lever method for tracing state–vendor flows  
+> - [🧭 Are We Fascist Yet?] — protofascism diagnostic and planning context  
+> - [⚖️ Above the Law — Protofascism Threshold] — legal and economic impunity map  
+> - [🐝 Post-Protofascist Reconstruction] — rebuilding data governance under commons control  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-14_
