@@ -1,5 +1,5 @@
 # 🧩 Counter-Extraction Loop — Reclaiming Authorship  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-14  
 *A model for turning knowledge extraction and false narratives into documented authorship and systemic learning.*  
 
 ---
@@ -16,7 +16,7 @@ Where institutions once used creativity while narrating incompetence, the counte
 flowchart TD
     A[Recognition<br/>• notice the pattern of extraction<br/>• separate story from fact] --> B[Archive<br/>• collect dated drafts, reports, messages<br/>• preserve provenance]
 
-    B --> C[Documentation<br/>• frame events neutrally ('data drift', 'derivative use')<br/>• keep tone evidential]
+    B --> C[Documentation<br/>• frame events neutrally 'data drift', 'derivative use'<br/>• keep tone evidential]
     C --> D[Network<br/>• connect with peers, advocates, open researchers<br/>• establish external witnesses]
 
     D --> E[Restatement<br/>• publish or log own concepts<br/>• use timestamped repositories / DOI / creative commons]
@@ -65,12 +65,6 @@ flowchart LR
     %% Connection between loops
     J1 -.-> A2
     I2 -.-> A1
-
-    classDef ex fill:#fdf0f0,stroke:#ff8b8b;
-    classDef re fill:#f0fff3,stroke:#7cd67c;
-
-    class A1,B1,C1,D1,E1,F1,G1,H1,I1,J1 ex;
-    class A2,B2,C2,D2,E2,F2,G2,H2,I2 re;
 ```
 
 **Reading the Diagram:**  
@@ -96,10 +90,11 @@ reclaiming authorship, data repair, provenance, evidence-based advocacy, creativ
 *Counter-Extraction Loop — Reclaiming Authorship* is a living node of the Polaris Protocol.  
 It pairs with *🧠 Extraction Loop — Data vs Story* to illustrate both containment and release paths for creative labour within institutional systems.  
 
-> 📡 Cross-references:  
-> - [🧠 Extraction Loop — Data vs Story](./🧠_extraction_loop_data_vs_story.md)  
-> - [👁️‍🗨️ Witness Historical Casefiles](../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles.md)  
+> 📡 Cross-references:
+> 
+> - [🧠 Extraction Loop — Data vs Story]  
+> - [👁️‍🗨️ Witness & Historical Casefiles]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-14_
