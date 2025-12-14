@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:41:19 UTC_
+_Generated on 2025-12-14 09:42:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1358,6 +1358,7 @@ _Generated on 2025-12-14 09:41:19 UTC_
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
         - [`🪞_erosion_of_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪞_erosion_of_duty_of_care.md)
         - [`🪧_radical_and_respectable_the_dual_engine_of_reform.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪧_radical_and_respectable_the_dual_engine_of_reform.md)
+        - [`🫀_duty_of_care_reframed_as_reputational_risk.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🫀_duty_of_care_reframed_as_reputational_risk.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
