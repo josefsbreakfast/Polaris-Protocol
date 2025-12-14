@@ -1,6 +1,6 @@
 # 🧨 Semantic Collapse  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How meaning breaks down when liberal‑democratic language collides with authoritarian moral frames.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-14  
+*How meaning breaks down when liberal‑democratic language collides with authoritarian moral frames.*  
 
 ---
 
@@ -69,3 +69,5 @@ semantic collapse, meaning breakdown, alt‑right logic, worldview conflict, lan
 ## 🏮 Footer  
 *🧨 Semantic Collapse* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-14_
