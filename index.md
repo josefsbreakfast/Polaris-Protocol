@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:21:05 UTC_
+_Generated on 2025-12-14 13:23:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2843,6 +2843,7 @@ _Generated on 2025-12-14 13:21:05 UTC_
       - [`🌫_the_safeguarding_mirage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌫_the_safeguarding_mirage.md)
       - [`🌱_prevent_logic_as_authoritarian_seedling.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌱_prevent_logic_as_authoritarian_seedling.md)
       - [`🍑_the_homoerotic_subtext_of_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🍑_the_homoerotic_subtext_of_prevent.md)
+      - [`🎓_legibility_as_soft_power_in_academia.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎓_legibility_as_soft_power_in_academia.md)
       - [`🎭_containment_as_equilibrium_theatre.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_containment_as_equilibrium_theatre.md)
       - [`🎭_the_whiteness_baseline_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_the_whiteness_baseline_problem.md)
       - [`🎯_incentive_alignment_audit.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎯_incentive_alignment_audit.md)
