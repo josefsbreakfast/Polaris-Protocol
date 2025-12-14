@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:38:18 UTC_
+_Generated on 2025-12-14 10:39:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -882,6 +882,7 @@ _Generated on 2025-12-14 10:38:18 UTC_
         - [`🇬🇧_britain_is_queenless_now.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
         - [`🇷🇺_the_end_of_russias_camp_era.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
         - [`🌍_apartheid_algorithm_dependency_theory.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)
+        - [`🌍_when_virtual_minds_govern_a_physical_planet.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md)
         - [`🌏_brics_bridgework_middle_corridors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_brics_bridgework_middle_corridors.md)
         - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
         - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_from_escalation_to_play.md)
