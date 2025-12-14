@@ -1,6 +1,6 @@
 # 🧨 Unusual Contact as a Weaponised Safeguarding Trigger  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How a vague safeguarding category becomes an instrument of metadata suppression.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-14  
+*How a vague safeguarding category becomes an instrument of metadata suppression.*  
 
 ---
 
@@ -150,4 +150,4 @@ It maps how vague safeguarding categories become tools of metadata suppression, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-14_
