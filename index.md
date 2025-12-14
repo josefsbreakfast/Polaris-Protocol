@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:44:26 UTC_
+_Generated on 2025-12-14 10:45:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -334,6 +334,7 @@ _Generated on 2025-12-14 10:44:26 UTC_
         - [`🪞_misunderstanding_as_risk_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_misunderstanding_as_risk_signal.md)
         - [`🪞_the_muu_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_the_muu_class.md)
         - [`🪢_hygienic_cut.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪢_hygienic_cut.md)
+        - [`🪦_the_protagonist_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪦_the_protagonist_problem.md)
         - [`🪶_tea_toast_and_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪶_tea_toast_and_transparency.md)
         - [`🫀_pixels_do_not_touch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫀_pixels_do_not_touch.md)
         - [`🫒_occupation_as_containment_regime.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫒_occupation_as_containment_regime.md)
