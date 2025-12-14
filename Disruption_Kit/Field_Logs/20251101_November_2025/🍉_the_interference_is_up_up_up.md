@@ -1,4 +1,4 @@
-nottingham has voted to be an apsrtheid free city, and to represent this in divesting from specific routes if current non-compliance.  
+nottingham has voted to be an apartheid free city, and to represent this in divesting from specific routes if current non-compliance.  
 
 we did a democracy.  
 
