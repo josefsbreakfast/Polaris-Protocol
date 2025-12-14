@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:23:39 UTC_
+_Generated on 2025-12-14 09:25:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2952,6 +2952,7 @@ _Generated on 2025-12-14 09:23:39 UTC_
       - [`🦩_fork_audit_protocol_verification_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🦩_fork_audit_protocol_verification_chains.md)
       - [`🧠_institutional_split_personas.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧠_institutional_split_personas.md)
       - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
+      - [`🧩_harassment_is_not_an_event.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧩_harassment_is_not_an_event.md)
       - [`🧪_when_fork_errors_replicate_themselves.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧪_when_fork_errors_replicate_themselves.md)
       - [`🧬_forked_system_logic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧬_forked_system_logic.md)
       - [`🧮_integrity_drift.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧮_integrity_drift.md)
@@ -3468,7 +3469,6 @@ _Generated on 2025-12-14 09:23:39 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_harassment_is_not_an_event.md`](Polaris_Nest/Git_Intake_Drawer/🧩_harassment_is_not_an_event.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
