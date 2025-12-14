@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 06:05:49 UTC_
+_Generated on 2025-12-14 06:08:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3443,6 +3443,7 @@ _Generated on 2025-12-14 06:05:49 UTC_
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
+    - [`🦑_kraken_ground_zero.md`](Polaris_Nest/Git_Intake_Drawer/🦑_kraken_ground_zero.md)
     - [`🦔_hedgehog_on_fire.md`](Polaris_Nest/Git_Intake_Drawer/🦔_hedgehog_on_fire.md)
     - [`🦔_orbicularis_panniculi_logic.md`](Polaris_Nest/Git_Intake_Drawer/🦔_orbicularis_panniculi_logic.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
