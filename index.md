@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:32:02 UTC_
+_Generated on 2025-12-14 22:32:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1666,6 +1666,8 @@ _Generated on 2025-12-14 22:32:02 UTC_
       - [`🏛️_uon_israel_security_open_source_gap_map.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🏛️_uon_israel_security_open_source_gap_map.md)
       - [`🐈‍⬛_pavlovs_cat.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🐈‍⬛_pavlovs_cat.md)
       - [`🐍_getting_her_to_stop_doing_that_being_herself_thing.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🐍_getting_her_to_stop_doing_that_being_herself_thing.md)
+      - [`🐝_the_deal.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🐝_the_deal.md)
+      - [`🐺_the_men_have_been_left_unattended.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🐺_the_men_have_been_left_unattended.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2298,14 +2300,12 @@ _Generated on 2025-12-14 22:32:02 UTC_
     - [`🐝_i_stand_by_calling_it_my_husband.md`](Disruption_Kit/Field_Logs/🐝_i_stand_by_calling_it_my_husband.md)
     - [`🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md`](Disruption_Kit/Field_Logs/🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md)
     - [`🐝_save_failure_for_the_balls.png`](Disruption_Kit/Field_Logs/🐝_save_failure_for_the_balls.png)
-    - [`🐝_the_deal.md`](Disruption_Kit/Field_Logs/🐝_the_deal.md)
     - [`🐝_would_you_like_to_take_losing_to_a_girl_slightly_better.png`](Disruption_Kit/Field_Logs/🐝_would_you_like_to_take_losing_to_a_girl_slightly_better.png)
     - [`🐣_fast_forward_1_day_despite_correct_entry.jpg`](Disruption_Kit/Field_Logs/🐣_fast_forward_1_day_despite_correct_entry.jpg)
     - [`🐦‍⬛_my_kidney_infections_solve_everything.PNG`](Disruption_Kit/Field_Logs/🐦‍⬛_my_kidney_infections_solve_everything.PNG)
     - [`🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.PNG`](Disruption_Kit/Field_Logs/🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.PNG)
     - [`🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.md`](Disruption_Kit/Field_Logs/🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.md)
     - [`🐪_new_question.md`](Disruption_Kit/Field_Logs/🐪_new_question.md)
-    - [`🐺_the_men_have_been_left_unattended.md`](Disruption_Kit/Field_Logs/🐺_the_men_have_been_left_unattended.md)
     - [`🐺_what_to_do.md`](Disruption_Kit/Field_Logs/🐺_what_to_do.md)
     - [`👀_help_my_eyes.md`](Disruption_Kit/Field_Logs/👀_help_my_eyes.md)
     - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
