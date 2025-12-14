@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-13 22:07:25 UTC_
+_Generated on 2025-12-14 02:32:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -28,6 +28,7 @@ _Generated on 2025-12-13 22:07:25 UTC_
     - [`🪼_interaction_drift_and_safety_layer_erosion.md`](Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md)
   - [**🪐_Meta_Containment/**](Containment_Studies/🪐_Meta_Containment/)
     - [`README.md`](Containment_Studies/🪐_Meta_Containment/README.md)
+    - [`🧬_signal_steering.md`](Containment_Studies/🪐_Meta_Containment/🧬_signal_steering.md)
     - [`🧿_against_pseudoanthropy.md`](Containment_Studies/🪐_Meta_Containment/🧿_against_pseudoanthropy.md)
   - [`README.md`](Containment_Studies/README.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
@@ -3500,7 +3501,6 @@ _Generated on 2025-12-13 22:07:25 UTC_
     - [`🧬_post_digital_data_world.md`](Polaris_Nest/Git_Intake_Drawer/🧬_post_digital_data_world.md)
     - [`🧬_proto_secret_police_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_proto_secret_police_architecture.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
-    - [`🧬_signal_steering.md`](Polaris_Nest/Git_Intake_Drawer/🧬_signal_steering.md)
     - [`🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md`](Polaris_Nest/Git_Intake_Drawer/🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)
     - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
     - [`🧬_transparency_as_antigenic_defense.md`](Polaris_Nest/Git_Intake_Drawer/🧬_transparency_as_antigenic_defense.md)
