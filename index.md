@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:37:31 UTC_
+_Generated on 2025-12-14 03:38:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2815,6 +2815,7 @@ _Generated on 2025-12-14 03:37:31 UTC_
       - [`🧠_the_continuum_of_authoritarian_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)
       - [`🧠_white_immunity_blindspot.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_white_immunity_blindspot.md)
       - [`🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md)
+      - [`🧨_pathways_of_escalation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_pathways_of_escalation.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
       - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
@@ -3394,7 +3395,6 @@ _Generated on 2025-12-14 03:37:31 UTC_
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
-    - [`🧨_pathways_of_escalation_how_prevent_spirals.md`](Polaris_Nest/Git_Intake_Drawer/🧨_pathways_of_escalation_how_prevent_spirals.md)
     - [`🧨_prevent_as_fear_engine.md`](Polaris_Nest/Git_Intake_Drawer/🧨_prevent_as_fear_engine.md)
     - [`🧨_prevent_the_parliamentary_surveillance_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧨_prevent_the_parliamentary_surveillance_machine.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
