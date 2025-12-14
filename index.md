@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:31:20 UTC_
+_Generated on 2025-12-14 09:32:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -260,6 +260,7 @@ _Generated on 2025-12-14 09:31:20 UTC_
         - [`🔍_institutional_freeze_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔍_institutional_freeze_patterns.md)
         - [`🔍_mistaken_release_as_friction_shortcut.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔍_mistaken_release_as_friction_shortcut.md)
         - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔥_opportunistic_escalation_peri_system_collapse.md)
+        - [`🔥_reputational_blowback_failure_mode.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔥_reputational_blowback_failure_mode.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_daylight_in_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_daylight_in_governance.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
