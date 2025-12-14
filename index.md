@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:57:51 UTC_
+_Generated on 2025-12-14 10:59:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2875,6 +2875,7 @@ _Generated on 2025-12-14 10:57:51 UTC_
       - [`🛡️_the_pre_crime_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛡️_the_pre_crime_architecture.md)
       - [`🛡️_the_seven_layers_of_safeguard_breakdown.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛡️_the_seven_layers_of_safeguard_breakdown.md)
       - [`🛰️_anonymous_reporting_abuse_vectors.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_anonymous_reporting_abuse_vectors.md)
+      - [`🛰️_prevent_ihra_misclassification_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_prevent_ihra_misclassification_loop.md)
       - [`🛰️_the_digital_prevent_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_the_digital_prevent_pipeline.md)
       - [`🛰️_threat_escalation_pipeline_racialised_gender.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_threat_escalation_pipeline_racialised_gender.md)
       - [`🛰️_who_built_prevent_policy_ecosystem_2010_16.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_who_built_prevent_policy_ecosystem_2010_16.md)
