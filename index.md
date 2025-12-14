@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:46:28 UTC_
+_Generated on 2025-12-14 03:48:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1274,6 +1274,7 @@ _Generated on 2025-12-14 03:46:28 UTC_
         - [`🧠_qualitative_harm_in_quantitative_systems.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md)
         - [`🧠_transformative_learning_window.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_transformative_learning_window.md)
         - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_value_of_the_outlier.md)
+        - [`🧨_trauma_driven_compliance_when_the_nervous_system_says_yes_to_stay_alive.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧨_trauma_driven_compliance_when_the_nervous_system_says_yes_to_stay_alive.md)
         - [`🧪_ego_insurance_but_make_it_personal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧪_ego_insurance_but_make_it_personal.md)
         - [`🧬_brains_are_not_flowcharts.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_brains_are_not_flowcharts.md)
         - [`🧬_clone_interference_map.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧬_clone_interference_map.png)
@@ -3401,7 +3402,6 @@ _Generated on 2025-12-14 03:46:28 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
-    - [`🧨_trauma_driven_compliance.md`](Polaris_Nest/Git_Intake_Drawer/🧨_trauma_driven_compliance.md)
     - [`🧨_unusual_contact_misread.md`](Polaris_Nest/Git_Intake_Drawer/🧨_unusual_contact_misread.md)
     - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Polaris_Nest/Git_Intake_Drawer/🧨_why_argumentation_fails_with_alt_right_ideology.md)
     - [`🧩_academic_precarity_as_authoritarian_vector.md`](Polaris_Nest/Git_Intake_Drawer/🧩_academic_precarity_as_authoritarian_vector.md)
