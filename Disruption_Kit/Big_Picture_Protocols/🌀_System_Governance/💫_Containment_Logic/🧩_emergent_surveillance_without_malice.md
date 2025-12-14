@@ -1,6 +1,6 @@
 # 🧩 Emergent Surveillance Without Malice  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
-*How distributed automation and institutional separation enable surveillance outcomes without explicit intent.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-14  
+*How distributed automation and institutional separation enable surveillance outcomes without explicit intent.*  
 
 ---
 
@@ -54,11 +54,11 @@ algorithmic autonomy, distributed responsibility, emergent surveillance, R&D dat
 *🧩 Emergent Surveillance Without Malice* is a living node of the Polaris Protocol.  
 It documents how automated and fragmented decision systems can yield surveillance outcomes without explicit human intent.  
 
-> 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — how layered contracts obscure accountability  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — maintaining undertone and precision in systemic testimony  
-> - [🧬 Cloneproof](../Survivor_Tools/🧬_cloneproof.md) — countermeasures for likeness and voice misuse  
+> 📡 Cross-references:
+> 
+> - [⚖️ Containment Contract Trace] — how layered contracts obscure accountability  
+> - [🧬 Cloneproof] — countermeasures for likeness and voice misuse  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-12-14_
