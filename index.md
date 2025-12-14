@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 05:00:54 UTC_
+_Generated on 2025-12-14 05:37:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3063,6 +3063,7 @@ _Generated on 2025-12-14 05:00:54 UTC_
       - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_device_integrity_and_anti_jailbreak_logic.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
       - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
+      - [`🪦_memetic_hauntology.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪦_memetic_hauntology.md)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
       - [`☎_telecoms_vectors.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/☎_telecoms_vectors.md)
