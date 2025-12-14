@@ -1,6 +1,6 @@
 # 🧩 How Pre-Crime Systems Create the Crises They Claim to Solve  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent’s architecture generates the very forms of alienation, mistrust, and political volatility it is supposed to prevent — becoming a self-fulfilling system of crisis manufacture.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-14  
+*How Prevent’s architecture generates the very forms of alienation, mistrust, and political volatility it is supposed to prevent — becoming a self-fulfilling system of crisis manufacture.*  
 
 ---
 
@@ -210,4 +210,4 @@ It shows how Prevent acts as a crisis-manufacturing system by eroding trust, sup
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-14_
