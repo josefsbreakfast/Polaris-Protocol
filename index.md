@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:06:51 UTC_
+_Generated on 2025-12-14 22:08:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -448,6 +448,7 @@ _Generated on 2025-12-14 22:06:51 UTC_
         - [`🦋_butterfly_effect_in_small_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦋_butterfly_effect_in_small_states.md)
         - [`🧠_austerity_as_security_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_austerity_as_security_doctrine.md)
         - [`🧠_immortality_fantasies_of_the_ultra_rich.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_immortality_fantasies_of_the_ultra_rich.md)
+        - [`🧠_outsourcing_the_states_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_outsourcing_the_states_plan.md)
         - [`🧨_overclocked_capitalism_2020_cognitive_crash.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md)
         - [`🧲_what_bcg_takes_from_the_uk_and_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
