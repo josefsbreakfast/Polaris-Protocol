@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:23:51 UTC_
+_Generated on 2025-12-14 13:26:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3120,6 +3120,7 @@ _Generated on 2025-12-14 13:23:51 UTC_
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
       - [`🪞_strong_women_apparently.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_strong_women_apparently.md)
       - [`🪶_narrative_saturation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪶_narrative_saturation.md)
+      - [`🪼_ephemeral_lexical_reactivation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_ephemeral_lexical_reactivation.md)
       - [`🪼_modern_extremism_recruits_through_vibes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_modern_extremism_recruits_through_vibes.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
