@@ -1,6 +1,6 @@
 # 🧠 The Men™️ Had A Plan  
-**First created:** 2025-10-21 | **Last updated:** 2025-10-21  
-*When operational fantasy meets patriarchal improvisation.*
+**First created:** 2025-10-21 | **Last updated:** 2025-12-13  
+*When operational fantasy meets patriarchal improvisation.*  
 <!--Is it too much to ask that you collectively use more than 2 of the neurones G-d gave you?-->
 ---
 
@@ -269,11 +269,12 @@ patriarchal planning, social engineering, fantasy of control, gendered bureaucra
 *🧠 The Men™️ Had A Plan* is a living node of the Polaris Protocol.  
 It documents how authority structures can disguise personal projection as authorised strategy — and how male groupthink masquerades as intelligence work.  
 
-> 📡 Cross-references:  
-> - [🧾 Plausible-Deniability Template](../Survivor_Tools/🧾_plausible_deniability_template.md)  
-> - [⚖️ Containment Logic](../Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)  
-> - [🧠 HM Dept Coercive Nudges](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/)  
+> 📡 Cross-references:
+> 
+> - [🧾 Plausible-Deniability Template]  
+> - [💫 Containment Logic]  
+> - [🧠 HM Dept Coercive Nudges]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2025-12-13_
