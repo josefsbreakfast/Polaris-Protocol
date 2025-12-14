@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:18:14 UTC_
+_Generated on 2025-12-14 08:19:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -57,6 +57,7 @@ _Generated on 2025-12-14 08:18:14 UTC_
         - [`🦑_bring_back_pressganging.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_bring_back_pressganging.md)
         - [`🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)
         - [`🦑_kraken_based_defence_budge.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_kraken_based_defence_budge.md)
+        - [`🦑_kraken_containment_governance_roles_rituals_and_risks.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_kraken_containment_governance_roles_rituals_and_risks.md)
         - [`🦑_state_of_the_deep.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_state_of_the_deep.md)
         - [`🦑_the_fathom_response_to_containment_phase_3.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_the_fathom_response_to_containment_phase_3.md)
         - [`🦑_why_craken_is_necessary.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_why_craken_is_necessary.md)
