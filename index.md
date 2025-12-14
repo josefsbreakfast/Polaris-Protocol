@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:27:28 UTC_
+_Generated on 2025-12-14 04:29:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -300,6 +300,7 @@ _Generated on 2025-12-14 04:27:28 UTC_
         - [`🧩_counter_extraction_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_counter_extraction_loop.md)
         - [`🧩_cross_group_solidarity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_cross_group_solidarity.md)
         - [`🧩_diaspora_instability_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)
+        - [`🧩_emergent_surveillance_without_malice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_emergent_surveillance_without_malice.md)
         - [`🧩_lepore_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_lepore_continuum.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
@@ -3419,7 +3420,6 @@ _Generated on 2025-12-14 04:27:28 UTC_
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_don’t_listen_to_the_algorithm.md`](Polaris_Nest/Git_Intake_Drawer/🧩_don’t_listen_to_the_algorithm.md)
-    - [`🧩_emergent_surveillance_without_malice.md`](Polaris_Nest/Git_Intake_Drawer/🧩_emergent_surveillance_without_malice.md)
     - [`🧩_existential_threat_response_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧩_existential_threat_response_loop.md)
     - [`🧩_friction_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧩_friction_patterns.md)
     - [`🧩_great_replacement_as_multigroup_elimination_myth.md`](Polaris_Nest/Git_Intake_Drawer/🧩_great_replacement_as_multigroup_elimination_myth.md)
