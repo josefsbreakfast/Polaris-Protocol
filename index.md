@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:37:51 UTC_
+_Generated on 2025-12-14 09:38:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1352,6 +1352,7 @@ _Generated on 2025-12-14 09:37:51 UTC_
         - [`🟦_teaching_framework_jews_empire_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🟦_teaching_framework_jews_empire_antisemitism.md)
         - [`🧩_interlocking_timelines_qanon_epstein_clinton_fbi.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧩_interlocking_timelines_qanon_epstein_clinton_fbi.md)
         - [`🧬_successor_firms_scl_cambridge_analytica.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧬_successor_firms_scl_cambridge_analytica.md)
+        - [`🧱_high_conflict_tolerance_actors_in_governance_systems.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧱_high_conflict_tolerance_actors_in_governance_systems.md)
         - [`🧵_community_vulnerability_and_early_canaries.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
         - [`🪞_erosion_of_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪞_erosion_of_duty_of_care.md)
