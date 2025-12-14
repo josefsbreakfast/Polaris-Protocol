@@ -1,6 +1,6 @@
 # 🧨 Gitmo to Gaza Exception Chain  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*How the West normalised torture, exported exceptionalism, and built the conditions for contemporary atrocity.*
+**First created:** 2025-11-12 | **Last updated:** 2025-12-14  
+*How the West normalised torture, exported exceptionalism, and built the conditions for contemporary atrocity.*  
 
 ---
 
@@ -52,10 +52,11 @@ gitmo, torture, exception chain, gaza, western hypocrisy, administrative cruelty
 *🧨 Gitmo to Gaza Exception Chain* is a living node of the Polaris Protocol.  
 It documents how extra-legal state violence becomes globally portable and morally domesticated.
 
-> 📡 Cross-references:  
-> - [🪞 Gitmo as Western Moral Rupture](../🪞_gitmo_as_western_moral_rupture.md)  
-> - [✡️ Holocaust Prelude as Systemic Collapse](../✡️_holocaust_prelude_as_systemic_collapse.md)
+> 📡 Cross-references:
+> 
+> - [🪞 Gitmo as Western Moral Rupture]  
+> - [✡️ Holocaust Prelude as Systemic Collapse]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-14_
