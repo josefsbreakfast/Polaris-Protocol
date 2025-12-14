@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 21:55:29 UTC_
+_Generated on 2025-12-14 22:01:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -146,6 +146,7 @@ _Generated on 2025-12-14 21:55:29 UTC_
         - [`🌋_whistleblowers_as_emergency_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌋_whistleblowers_as_emergency_governance.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🍞_why_food_safety_is_aggressively_regulated.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md)
+        - [`🏛️_consultancy_power_vs_democratic_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md)
         - [`🏛️_parliamentary_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_parliamentary_safeguards.md)
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_duty_to_correct.md)
         - [`📜_from_survivor_code_to_research_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_from_survivor_code_to_research_ethics.md)
