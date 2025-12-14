@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 05:56:19 UTC_
+_Generated on 2025-12-14 05:57:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3451,6 +3451,7 @@ _Generated on 2025-12-14 05:56:19 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
+    - [`🧩_harassment_is_not_an_event.md`](Polaris_Nest/Git_Intake_Drawer/🧩_harassment_is_not_an_event.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_premature_resolution_the_what_do_you_want_trap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_premature_resolution_the_what_do_you_want_trap.md)
     - [`🧩_resilience_economy_vs_diaspora_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🧩_resilience_economy_vs_diaspora_democracy.md)
