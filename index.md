@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:15:59 UTC_
+_Generated on 2025-12-14 03:17:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2918,6 +2918,7 @@ _Generated on 2025-12-14 03:15:59 UTC_
       - [`👁️_silent_witness_effect.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️_silent_witness_effect.md)
       - [`👁️‍🗨️_embedded_observers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️‍🗨️_embedded_observers.md)
       - [`👾_vpn_dropouts.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/👾_vpn_dropouts.md)
+      - [`💄_dominance_coded_feedback_loops_in_rlhf.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💄_dominance_coded_feedback_loops_in_rlhf.md)
       - [`💔_weaponised_empathy_gaps.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)
       - [`💻_algorithmic_hysteria.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💻_algorithmic_hysteria.md)
       - [`📉_dominance_loopholes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/📉_dominance_loopholes.md)
