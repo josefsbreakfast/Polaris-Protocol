@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:27:58 UTC_
+_Generated on 2025-12-14 08:29:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2710,6 +2710,7 @@ _Generated on 2025-12-14 08:27:58 UTC_
       - [`⚖️_reciprocal_accountability_implementation_checklist.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_implementation_checklist.md)
       - [`⚖️_reciprocal_accountability_protocol.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_protocol.md)
       - [`🌩️_who_gets_to_quote_whom.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🌩️_who_gets_to_quote_whom.md)
+      - [`🎓_duty_to_recognise_systemic_misclassification.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🎓_duty_to_recognise_systemic_misclassification.md)
       - [`🏛️_non_transferability_of_behavioural_interventions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_non_transferability_of_behavioural_interventions.md)
       - [`🏛️_the_grey_zone_inside_the_think_tank.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_the_grey_zone_inside_the_think_tank.md)
       - [`🏛️_the_reckoning_lag_prince_andrew_epstein_and_institutional_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_the_reckoning_lag_prince_andrew_epstein_and_institutional_containment.md)
