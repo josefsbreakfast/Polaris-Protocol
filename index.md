@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 10:45:55 UTC_
+_Generated on 2025-12-14 10:47:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3034,6 +3034,7 @@ _Generated on 2025-12-14 10:45:55 UTC_
       - [`🥀_loneliness_as_a_system.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system.md)
       - [`🥕_tiny_wins_exhaustion_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥕_tiny_wins_exhaustion_containment.md)
       - [`🧊_glass_box_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md)
+      - [`🧞‍♂️_innovation_worship_as_distraction_infrastructure.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧞‍♂️_innovation_worship_as_distraction_infrastructure.md)
       - [`🧠_escalation_weather_map.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_escalation_weather_map.md)
       - [`🧠_how_coincidence_becomes_conspiracy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_how_coincidence_becomes_conspiracy.md)
       - [`🧠_institutional_perception_the_no_win_zone.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_institutional_perception_the_no_win_zone.md)
