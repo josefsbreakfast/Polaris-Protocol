@@ -1,6 +1,6 @@
 # 🧩 Mirror-Cluster Effects & Proxy Embeddings in Recommender Systems  
-**First created:** 2025-11-19 | **Last updated:** 2025-11-19  
-*How proximity, co-location, and environmental interference create hybrid user embeddings.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-14  
+*How proximity, co-location, and environmental interference create hybrid user embeddings.*  
 
 ---
 
@@ -182,4 +182,4 @@ It connects to the *Apparitional Objects* lineage and the structural-diagnostics
 
 It reframes ambiguous ML behaviour as a diagnostic tool for understanding institutional environments, not as a claim about personal relationships.
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-14_
