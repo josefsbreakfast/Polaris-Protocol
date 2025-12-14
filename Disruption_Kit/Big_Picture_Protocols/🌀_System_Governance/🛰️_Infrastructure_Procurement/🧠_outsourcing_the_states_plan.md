@@ -1,5 +1,5 @@
 # 🧠 Outsourcing the State’s Brain  
-**First created:** 2025-08-07 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
 *Why UK defence relies on consultancies — and how strategic outsourcing erodes democratic accountability.*
 
 ---
