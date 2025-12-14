@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 08:06:03 UTC_
+_Generated on 2025-12-14 08:07:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3238,6 +3238,7 @@ _Generated on 2025-12-14 08:06:03 UTC_
       - [`📊_visibility_weighting_and_synthetic_clustering.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📊_visibility_weighting_and_synthetic_clustering.md)
       - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
       - [`🔮_visibility_collapse_of_dissenting_bodies.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)
+      - [`🛰️_seo_as_a_pressure_surface.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🛰️_seo_as_a_pressure_surface.md)
       - [`🥮_linguicide_across_platforms_cantonese_and_arabic_as_case_studies.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🥮_linguicide_across_platforms_cantonese_and_arabic_as_case_studies.md)
       - [`🥮_tonal_soverignity.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🥮_tonal_soverignity.md)
       - [`🧊_visibility_indexing_in_thin_data_worlds.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🧊_visibility_indexing_in_thin_data_worlds.md)
