@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:23:19 UTC_
+_Generated on 2025-12-14 03:24:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3387,7 +3387,6 @@ _Generated on 2025-12-14 03:23:19 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Polaris_Nest/Git_Intake_Drawer/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
     - [`🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md`](Polaris_Nest/Git_Intake_Drawer/🧨_channel_referrals_as_male_jealousy_and_homosocial_panic.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_dual_use_epiphany.md`](Polaris_Nest/Git_Intake_Drawer/🧨_dual_use_epiphany.md)
@@ -3795,6 +3794,10 @@ _Generated on 2025-12-14 03:23:19 UTC_
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
     - [`🪜_scaffolding_mode_for_low_energy_writing.md`](Polaris_Nest/🏮_Admin_Kit/🪜_scaffolding_mode_for_low_energy_writing.md)
   - [`README.md`](Polaris_Nest/README.md)
+- [**`Metadata_Sabotage_Network/**](`Metadata_Sabotage_Network/)
+  - [**Narrative_And_Psych_Ops/**](`Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
+    - [**👹_Fork_Behaviour_Containment/**](`Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
+      - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](`Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
