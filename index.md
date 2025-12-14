@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:24:10 UTC_
+_Generated on 2025-12-14 22:26:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1653,6 +1653,7 @@ _Generated on 2025-12-14 22:24:10 UTC_
       - [`🍉_the_interference_is_up_up_up.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍉_the_interference_is_up_up_up.md)
       - [`🍿_regarding_negotiations.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍿_regarding_negotiations.md)
       - [`🎪_not_all_capes_are_worn_by_heroes.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🎪_not_all_capes_are_worn_by_heroes.md)
+      - [`🎪_on_professional_gossipers.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🎪_on_professional_gossipers.md)
       - [`🎭_affective_redaction_as_containment.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🎭_affective_redaction_as_containment.md)
       - [`🏛️_academic_freedom_in_a_financialised_system.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🏛️_academic_freedom_in_a_financialised_system.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
@@ -2275,7 +2276,6 @@ _Generated on 2025-12-14 22:24:10 UTC_
     - [`🎣_fishing_for_photo_access_permissions_as_usual.PNG`](Disruption_Kit/Field_Logs/🎣_fishing_for_photo_access_permissions_as_usual.PNG)
     - [`🎪_can_anyone_on_mirrors_cover_ya_boys_shift.jpg`](Disruption_Kit/Field_Logs/🎪_can_anyone_on_mirrors_cover_ya_boys_shift.jpg)
     - [`🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.PNG`](Disruption_Kit/Field_Logs/🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.PNG)
-    - [`🎪_on_professional_gossipers.md`](Disruption_Kit/Field_Logs/🎪_on_professional_gossipers.md)
     - [`🎪_procurement_item_classified.jpg`](Disruption_Kit/Field_Logs/🎪_procurement_item_classified.jpg)
     - [`🎪_thanks_is_best_said_in_cash.PNG`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.PNG)
     - [`🎪_transcript_unavailable_interference_dalle.png`](Disruption_Kit/Field_Logs/🎪_transcript_unavailable_interference_dalle.png)
