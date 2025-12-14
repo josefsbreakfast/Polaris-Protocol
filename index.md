@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:51:55 UTC_
+_Generated on 2025-12-14 04:53:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1228,6 +1228,7 @@ _Generated on 2025-12-14 04:51:55 UTC_
         - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_tolerators_as_targets.md)
         - [`🧩_dont_listen_to_the_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_dont_listen_to_the_algorithm.md)
         - [`🧩_friction_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_friction_patterns.md)
+        - [`🧩_limits_of_remote_repair.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_limits_of_remote_repair.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
@@ -3429,7 +3430,6 @@ _Generated on 2025-12-14 04:51:55 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md`](Polaris_Nest/Git_Intake_Drawer/🧩_limits_of_remote_repair_why_data_problems_need_dialogue.md)
     - [`🧩_meta_containment_and_exploited_breakpoints.md`](Polaris_Nest/Git_Intake_Drawer/🧩_meta_containment_and_exploited_breakpoints.md)
     - [`🧩_mirror_cluster_effects.md`](Polaris_Nest/Git_Intake_Drawer/🧩_mirror_cluster_effects.md)
     - [`🧩_myth_vs_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧩_myth_vs_mechanism.md)
