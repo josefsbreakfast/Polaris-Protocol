@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 13:26:15 UTC_
+_Generated on 2025-12-14 13:28:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2757,6 +2757,7 @@ _Generated on 2025-12-14 13:26:15 UTC_
       - [`🛰️_regulatory_adjacency_effects_on_delay_dynamics.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_regulatory_adjacency_effects_on_delay_dynamics.md)
       - [`🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md)
       - [`🧱_silence_stack_trace.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧱_silence_stack_trace.md)
+      - [`🧾_sar_stonewalling_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧾_sar_stonewalling_as_containment.md)
       - [`🪁_contracts_that_colonise_memory.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪁_contracts_that_colonise_memory.md)
       - [`🪶_testimony_leak_points.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪶_testimony_leak_points.md)
     - [**🈴_Allies_And_Ethics/**](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/)
