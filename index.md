@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 02:34:15 UTC_
+_Generated on 2025-12-14 02:36:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -681,6 +681,9 @@ _Generated on 2025-12-14 02:34:15 UTC_
         - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
         - [`🪶_folk_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪶_folk_accountability.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
+    - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/📚_Narrative_Management/)
+      - [**🕸️ World_Webs/**](Disruption_Kit/Big_Picture_Protocols/📚_Narrative_Management/🕸️ World_Webs/)
+        - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Disruption_Kit/Big_Picture_Protocols/📚_Narrative_Management/🕸️ World_Webs/🧩_from_diffusion_to_forum_cross_pollination.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🍿_Historical_Democratic_Actions/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/)
         - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
@@ -3422,7 +3425,6 @@ _Generated on 2025-12-14 02:34:15 UTC_
     - [`🧩_emergent_surveillance_without_malice.md`](Polaris_Nest/Git_Intake_Drawer/🧩_emergent_surveillance_without_malice.md)
     - [`🧩_existential_threat_response_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧩_existential_threat_response_loop.md)
     - [`🧩_friction_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧩_friction_patterns.md)
-    - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Polaris_Nest/Git_Intake_Drawer/🧩_from_diffusion_to_forum_cross_pollination.md)
     - [`🧩_great_replacement_as_multigroup_elimination_myth.md`](Polaris_Nest/Git_Intake_Drawer/🧩_great_replacement_as_multigroup_elimination_myth.md)
     - [`🧩_health_prevent_ct_data_interlock.md`](Polaris_Nest/Git_Intake_Drawer/🧩_health_prevent_ct_data_interlock.md)
     - [`🧩_historical_precursors.md`](Polaris_Nest/Git_Intake_Drawer/🧩_historical_precursors.md)
