@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 22:23:22 UTC_
+_Generated on 2025-12-14 22:23:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1653,6 +1653,7 @@ _Generated on 2025-12-14 22:23:22 UTC_
       - [`🍉_the_interference_is_up_up_up.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍉_the_interference_is_up_up_up.md)
       - [`🍿_regarding_negotiations.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🍿_regarding_negotiations.md)
       - [`🎪_not_all_capes_are_worn_by_heroes.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🎪_not_all_capes_are_worn_by_heroes.md)
+      - [`🎭_affective_redaction_as_containment.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🎭_affective_redaction_as_containment.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2277,7 +2278,6 @@ _Generated on 2025-12-14 22:23:22 UTC_
     - [`🎪_procurement_item_classified.jpg`](Disruption_Kit/Field_Logs/🎪_procurement_item_classified.jpg)
     - [`🎪_thanks_is_best_said_in_cash.PNG`](Disruption_Kit/Field_Logs/🎪_thanks_is_best_said_in_cash.PNG)
     - [`🎪_transcript_unavailable_interference_dalle.png`](Disruption_Kit/Field_Logs/🎪_transcript_unavailable_interference_dalle.png)
-    - [`🎭_affective_redaction_as_containment.md`](Disruption_Kit/Field_Logs/🎭_affective_redaction_as_containment.md)
     - [`🏛️_academic_freedom_in_a_financialised_system.md`](Disruption_Kit/Field_Logs/🏛️_academic_freedom_in_a_financialised_system.md)
     - [`🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md`](Disruption_Kit/Field_Logs/🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md)
     - [`🏛️_final_4_days_foia.md`](Disruption_Kit/Field_Logs/🏛️_final_4_days_foia.md)
