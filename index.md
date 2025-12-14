@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:36:57 UTC_
+_Generated on 2025-12-14 09:37:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3090,6 +3090,7 @@ _Generated on 2025-12-14 09:36:57 UTC_
       - [`🧟‍♀️_prevents_frankenstack_architecture.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧟‍♀️_prevents_frankenstack_architecture.md)
       - [`🧠_skillsets_required_for_environmental_sabotage.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧠_skillsets_required_for_environmental_sabotage.md)
       - [`🧠_why_neutral_institutions_fail_under_stress.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧠_why_neutral_institutions_fail_under_stress.md)
+      - [`🧩_ambiguity_tolerance_and_first_mover_dynamics.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_ambiguity_tolerance_and_first_mover_dynamics.md)
       - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_device_integrity_and_anti_jailbreak_logic.md)
       - [`🧩_when_collective_silence_fractures.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_when_collective_silence_fractures.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
