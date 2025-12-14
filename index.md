@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 04:20:44 UTC_
+_Generated on 2025-12-14 04:22:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -297,6 +297,7 @@ _Generated on 2025-12-14 04:20:44 UTC_
         - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_colonial_scripts_in_modern_bureaucracies.md)
         - [`🧩_containment_economics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_containment_economics.md)
         - [`🧩_counter_extraction_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_counter_extraction_loop.md)
+        - [`🧩_cross_group_solidarity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_cross_group_solidarity.md)
         - [`🧩_lepore_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_lepore_continuum.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
@@ -3413,7 +3414,6 @@ _Generated on 2025-12-14 04:20:44 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_cross_group_solidarity_as_algorithmic_destabiliser.md`](Polaris_Nest/Git_Intake_Drawer/🧩_cross_group_solidarity_as_algorithmic_destabiliser.md)
     - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_device_integrity_and_anti_jailbreak_logic.md)
     - [`🧩_diaspora_coded_identity_instability.md`](Polaris_Nest/Git_Intake_Drawer/🧩_diaspora_coded_identity_instability.md)
     - [`🧩_diaspora_instability_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧩_diaspora_instability_patterns.md)
