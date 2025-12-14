@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:51:19 UTC_
+_Generated on 2025-12-14 03:53:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -987,6 +987,7 @@ _Generated on 2025-12-14 03:51:19 UTC_
         - [`🎓_university_vector_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
         - [`📜_funding_and_charitable_status_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/📜_funding_and_charitable_status_timeline.md)
         - [`🧠_erosion_of_extracurricular_and_anatomy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🧠_erosion_of_extracurricular_and_anatomy.md)
+        - [`🧩_academic_precarity_as_authoritarian_vector.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🧩_academic_precarity_as_authoritarian_vector.md)
         - [`🫀_yes_stem_needs_humanities.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🫀_yes_stem_needs_humanities.md)
       - [**🎶_Banned_Broadcasts_Cooperative/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/)
         - [**audit_suppression/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/audit_suppression/)
@@ -3404,7 +3405,6 @@ _Generated on 2025-12-14 03:51:19 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
-    - [`🧩_academic_precarity_as_authoritarian_vector.md`](Polaris_Nest/Git_Intake_Drawer/🧩_academic_precarity_as_authoritarian_vector.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_algorithmic_conscience.md`](Polaris_Nest/Git_Intake_Drawer/🧩_algorithmic_conscience.md)
     - [`🧩_archetype_of_the_sensible_man.md`](Polaris_Nest/Git_Intake_Drawer/🧩_archetype_of_the_sensible_man.md)
