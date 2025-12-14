@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:53:41 UTC_
+_Generated on 2025-12-14 03:55:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -362,6 +362,7 @@ _Generated on 2025-12-14 03:53:41 UTC_
         - [`🧨_gitmo_to_gaza_exception_chain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_gitmo_to_gaza_exception_chain.md)
         - [`🧨_semantic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_semantic_collapse.md)
         - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_why_argumentation_fails_with_alt_right_ideology.md)
+        - [`🧩_academic_precarity_as_an_authoritarian_vector.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧩_academic_precarity_as_an_authoritarian_vector.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
@@ -3406,7 +3407,6 @@ _Generated on 2025-12-14 03:53:41 UTC_
     - [`🧨_countering_nudges_for_the_prosocial.md`](Polaris_Nest/Git_Intake_Drawer/🧨_countering_nudges_for_the_prosocial.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
-    - [`🧩_algorithmic_conscience.md`](Polaris_Nest/Git_Intake_Drawer/🧩_algorithmic_conscience.md)
     - [`🧩_archetype_of_the_sensible_man.md`](Polaris_Nest/Git_Intake_Drawer/🧩_archetype_of_the_sensible_man.md)
     - [`🧩_asymmetric_democratic_policing.md`](Polaris_Nest/Git_Intake_Drawer/🧩_asymmetric_democratic_policing.md)
     - [`🧩_bit_vs_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧩_bit_vs_prevent.md)
