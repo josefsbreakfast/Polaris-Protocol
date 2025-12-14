@@ -1,6 +1,6 @@
 # 🧨 Containment as Accelerant  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*Why patching toxic systems without changing their architecture concentrates extremity instead of curing it.*
+**First created:** 2025-11-01 | **Last updated:** 2025-12-13  
+*Why patching toxic systems without changing their architecture concentrates extremity instead of curing it.*  
 
 ---
 
@@ -82,11 +82,12 @@ containment, extremism, 4chanisation, feedback loops, algorithmic culture, moder
 *Containment as Accelerant* is a living node of the Polaris Protocol.  
 It examines how moderation and counter-extremism frameworks unintentionally intensify the behaviours they seek to suppress by purifying their own datasets.  
 
-> 📡 Cross-references:  
-> - [🐍 Algorithmic Hostage Logic](../Big_Picture_Protocols/🐍_algorithmic_hostage_logic.md) — stabilisers trapped inside volatility loops  
-> - [📊 Risk Scaling of Algorithmic Misidentification](../System_Governance/📊_risk_scaling_of_algorithmic_misidentification.md) — statistical scaling and governance failure  
-> - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../System_Governance/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — systemic misclassification of advocacy  
+> 📡 Cross-references:
+> 
+> - [🐍 Algorithmic Hostage Logic] — stabilisers trapped inside volatility loops  
+> - [📊 Risk Scaling of Algorithmic Misidentification] — statistical scaling and governance failure  
+> - [🕸️ Gendered Harms from Counter-Extremism Algorithms] — systemic misclassification of advocacy  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-12-13_
