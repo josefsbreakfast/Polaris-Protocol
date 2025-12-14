@@ -1,0 +1,67 @@
+# 📜 Harm Assessment Protocols
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+*How institutions evaluate whether damage occurred and what must be done.*
+
+---
+
+## 🛰️ Orientation
+Harm assessment is the bridge between internal process review and external remediation.
+
+This node documents how institutions determine:
+- whether harm occurred  
+- its scope  
+- and appropriate response  
+
+---
+
+## ✨ Key Features
+- Impact-focused analysis  
+- Distinction between error and harm  
+- Documentation-heavy evaluation  
+- Risk-calibrated response planning  
+
+---
+
+## 🧿 Analysis
+
+### 1. **Impact Identification**
+Institutions assess:
+- distress  
+- reputational damage  
+- procedural disadvantage  
+- financial cost  
+- prolonged uncertainty  
+
+### 2. **Causality Mapping**
+They connect harm to process failure, not personal blame.
+
+### 3. **Threshold Decision**
+A determination is made:
+> “This warrants remediation.”
+
+### 4. **Response Calibration**
+Remediation is matched to scope of harm.
+
+---
+
+## 🌌 Constellations
+📜 ⚖️ 🧠 🧩 — documentation, law, cognition, impact mapping.
+
+---
+
+## ✨ Stardust
+harm assessment, institutional liability, impact evaluation, remediation thresholds
+
+---
+
+## 🏮 Footer
+*📜 Harm Assessment Protocols* is a living node of the Polaris Protocol.  
+It provides a framework for understanding how institutions evaluate and respond to genuine harm arising from governance failures.
+
+> 📡 Cross-references:
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md)  
+> - [🏗️ Skyscraper Over Pebbles]  
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-12-14_
