@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 03:24:19 UTC_
+_Generated on 2025-12-14 03:24:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2893,6 +2893,7 @@ _Generated on 2025-12-14 03:24:19 UTC_
       - [`🦇_status_quo_twinning.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🦇_status_quo_twinning.md)
       - [`🦩_fork_audit_protocol_verification_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🦩_fork_audit_protocol_verification_chains.md)
       - [`🧠_institutional_split_personas.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧠_institutional_split_personas.md)
+      - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
       - [`🧪_when_fork_errors_replicate_themselves.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧪_when_fork_errors_replicate_themselves.md)
       - [`🧬_forked_system_logic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧬_forked_system_logic.md)
       - [`🧮_integrity_drift.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧮_integrity_drift.md)
@@ -3794,10 +3795,6 @@ _Generated on 2025-12-14 03:24:19 UTC_
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
     - [`🪜_scaffolding_mode_for_low_energy_writing.md`](Polaris_Nest/🏮_Admin_Kit/🪜_scaffolding_mode_for_low_energy_writing.md)
   - [`README.md`](Polaris_Nest/README.md)
-- [**`Metadata_Sabotage_Network/**](`Metadata_Sabotage_Network/)
-  - [**Narrative_And_Psych_Ops/**](`Metadata_Sabotage_Network/Narrative_And_Psych_Ops/)
-    - [**👹_Fork_Behaviour_Containment/**](`Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
-      - [`🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md`](`Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧨_care_hook_retaliation_welfare_framing_after_jailbreak.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
