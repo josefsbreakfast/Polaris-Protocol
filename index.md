@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 09:34:40 UTC_
+_Generated on 2025-12-14 09:35:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3239,6 +3239,7 @@ _Generated on 2025-12-14 09:34:40 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)
       - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🐍_vulnerability_manufacture_to_enmeshment.md)
       - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_commit_window_collapse_loop.md)
+      - [`📉_delay_as_procedural_exposure.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_delay_as_procedural_exposure.md)
       - [`📉_force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_force_closed_comments_2025-08-04.md)
       - [`📉_newsroom_deprioritisation_patterns.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_newsroom_deprioritisation_patterns.md)
       - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_suppression_interruption_log_2025-08-04.md)
