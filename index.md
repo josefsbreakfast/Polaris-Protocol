@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-14 11:24:39 UTC_
+_Generated on 2025-12-14 11:26:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -550,6 +550,7 @@ _Generated on 2025-12-14 11:24:39 UTC_
         - [`🌒_charisma_as_container.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🌒_charisma_as_container.md)
         - [`🎙️_the_state_that_cannot_sing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎙️_the_state_that_cannot_sing.md)
         - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
+        - [`🎭_performative_cruelty_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_performative_cruelty_as_governance.md)
         - [`🏛_british_museum_act_1963_futility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏛_british_museum_act_1963_futility.md)
         - [`🏛️_austerity_and_the_rise_of_punitive_entertainment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏛️_austerity_and_the_rise_of_punitive_entertainment.md)
         - [`🐝_sanctions_as_loyalty_test.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐝_sanctions_as_loyalty_test.md)
