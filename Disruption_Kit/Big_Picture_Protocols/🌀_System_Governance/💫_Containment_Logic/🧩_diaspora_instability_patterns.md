@@ -1,6 +1,6 @@
 # 🧩 Diaspora Instability Patterns  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*Why diaspora-coded users consistently break behavioural models, risk engines, PR simulations, demographic segmentation, and synthetic personas — and why this is a failure of the system, not the diaspora.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+*Why diaspora-coded users consistently break behavioural models, risk engines, PR simulations, demographic segmentation, and synthetic personas — and why this is a failure of the system, not the diaspora.*  
 
 ---
 
@@ -247,3 +247,5 @@ This node links directly to:
 It forms a core part of the *diaspora intelligence* cluster,  
 where Polaris maps what institutions repeatedly fail to understand  
 about people who exist across more than one world.
+
+_Last updated: 2025-12-14_
