@@ -1,6 +1,6 @@
 # 🧩 Threat Surface Map  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-06  
-*A conceptual map of the surfaces through which hostile actors attempt misinterpretation or interference — without tactics, and without assuming capability.*
+**First created:** 2025-12-06 | **Last updated:** 2025-12-15  
+*A conceptual map of the surfaces through which hostile actors attempt misinterpretation or interference — without tactics, and without assuming capability.*  
 
 ---
 
@@ -188,4 +188,4 @@ It outlines where hostile projections may attempt to land — not as operations,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-06_
+_Last updated: 2025-12-15_
