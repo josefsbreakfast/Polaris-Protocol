@@ -1,6 +1,8 @@
 # 🧪 How Scientists Go Nazi
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13
-*Why technical fields become recruitment pools for fascism, futurist authoritarianism, and “rationalist” extremism.*
+**First created:** 2025-11-13 | **Last updated:** 2025-12-15  
+*Why technical fields become recruitment pools for fascism, futurist authoritarianism, and “rationalist” extremism.*  
+
+---
 
 ## 🛰️ Orientation
 This node maps the mechanisms — historical, structural, psychological, and cultural — by which scientists, engineers, clinicians, psychologists, AI researchers, and STEM communities become vulnerable to authoritarian or fascist capture.
@@ -20,6 +22,8 @@ The question isn’t *“why do some scientists go Nazi?”*
 The question is:
 **why does fascism find scientists so easy to recruit?**
 
+---
+
 ## ✨ Key Features
 - Fascism’s structural alignment with STEM worldviews
 - Futurist aesthetic shared by authoritarian movements
@@ -28,6 +32,8 @@ The question is:
 - The Harper’s Principle: personal wounds → ideological capture
 - Modern rationalist → alt-right pipelines
 - Prestige, loneliness, ego, and insecurity exploited
+
+---
 
 ## 1. 🧬 Fascism’s historical dependence on scientists
 Across the 20th and 21st centuries, authoritarian movements consistently integrated scientists:
@@ -51,6 +57,8 @@ Fascism needs:
 
 Scientists have often served.
 
+---
+
 ## 2. 🧠 Hierarchical cognition → authoritarian comfort
 STEM training emphasises:
 
@@ -63,6 +71,8 @@ STEM training emphasises:
 
 Authoritarianism mirrors this cognitive shape: hierarchy, purity, clarity, simplistic causality.
 
+---
+
 ## 3. 🚀 Futurism is a fascist aesthetic wearing a lab coat
 Futurist ideology venerates:
 
@@ -74,6 +84,8 @@ Futurist ideology venerates:
 - technological domination
 
 If “the future” is assumed good, people cannot detect fascist futurism.
+
+---
 
 ## 4. 🧊 Objectivity myth becomes a recruitment funnel
 Beliefs:
@@ -93,6 +105,8 @@ Alt-right narratives slide in via:
 
 They rebrand bigotry as empiricism.
 
+---
+
 ## 5. 🩺 Prestige as a radicalisation mechanism
 Fascism flatters:
 
@@ -102,6 +116,8 @@ Fascism flatters:
 - “You are brave for speaking truths.”
 
 Burnout, precarity, exploitation, and under-recognition create openings.
+
+---
 
 ## 6. 🩻 Humanities illiteracy → no antibodies
 STEM rarely includes:
@@ -114,6 +130,8 @@ STEM rarely includes:
 - ethics
 
 Thus recycled racial science is not recognised when it returns.
+
+---
 
 ## 7. 🧪 Lab culture vulnerability
 STEM workplaces create:
@@ -134,6 +152,8 @@ Fascist communities supply:
 - revenge
 - narrative clarity
 
+---
+
 ## 8. 🧩 “If it can be done, it should be done”
 Technocratic worldview sidelines ethics:
 
@@ -144,12 +164,16 @@ Technocratic worldview sidelines ethics:
 
 Authoritarianism thrives here.
 
+---
+
 ## 9. 🧨 Modern radicalisation pipelines
 Consistent path:
 
 Rationalism → anti-woke science → HBD → race realism → demographic panic → authoritarian “stability” → fascist ideology as data.
 
 Scientists rationalise themselves into extremism.
+
+---
 
 ## 10. 🪞 The Harper’s Principle: people go Nazi through wounds, not ideology
 
@@ -171,13 +195,19 @@ Fascism gives certainty where emotional skill was never built.
 ### f) Humiliation → rage  
 Humiliation becomes moralised cruelty.
 
+---
+
 ## 🌌 Constellations
 🧠 🧿 🧪 🩻 — cognition, analysis, futurism, historical recurrence.
 
 ## ✨ Stardust
 scientific radicalisation, fascism, futurism, prestige capture, humiliation, insecurity, rationalism drift, ego wounds, authoritarian psychology, propaganda
 
+---
+
 ## 🏮 Footer
-*How Scientists Go Nazi* is a living node of the Polaris Protocol.
-*Survivor authorship is sovereign. Containment is never neutral.*
-_Last updated: 2025-11-13_
+*How Scientists Go Nazi* is a living node of the Polaris Protocol.  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-15_
