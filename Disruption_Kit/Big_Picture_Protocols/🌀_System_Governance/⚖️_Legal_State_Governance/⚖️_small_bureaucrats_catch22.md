@@ -1,6 +1,6 @@
 # ⚖️ Small Bureaucrats Catch-22  
-**First created:** 2025-09-05 | **Last updated:** 2025-10-18  
-*Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance.*
+**First created:** 2025-09-05 | **Last updated:** 2025-12-15  
+*Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance.*  
 
 ---
 
@@ -44,15 +44,15 @@ bureaucratic delay, survivor exhaustion, gatekeeping, complicit middle layers, i
 
 ## 🏮 Footer  
 
-*Small Bureaucrats Catch-22* is a living node of the Polaris Protocol.  
+*⚖️ Small Bureaucrats Catch-22* is a living node of the Polaris Protocol.  
 It documents how complicit middle-layers create systemic stalemates and how survivors can resist until catalyst moments shift access.
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md) - *Learning from UK precedents to frame hybrid compensation for systemic harms*  
-> - [🪫 Austerity Long Tail & Data Instability](../🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md) - *How post-2008 austerity produced decades of degraded infrastructure and unstable data*  
-> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *Index of containment modes that operate through inner state manipulation*
+> - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md) - *learning from UK precedents to frame hybrid compensation for systemic harms*  
+> - [🪫 Austerity Long Tail & Data Instability](../🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md) - *how post-2008 austerity produced decades of degraded infrastructure and unstable data*  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *methods and impacts of manipulation and coercion*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
