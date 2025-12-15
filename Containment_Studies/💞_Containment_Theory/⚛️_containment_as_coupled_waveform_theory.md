@@ -1,5 +1,5 @@
 # ⚛️ Containment as Coupled Waveform Theory  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-15    
+**First created:** 2025-11-02 | **Last updated:** 2025-12-15    
 *Container and containee as simultaneous waveforms in continuous interaction.*  
 
 ---
@@ -56,4 +56,4 @@ It models containment as co-vibration and mutual modulation, revealing control a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2025-12-15_
