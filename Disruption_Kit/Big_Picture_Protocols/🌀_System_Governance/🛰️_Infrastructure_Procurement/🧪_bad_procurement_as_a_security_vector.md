@@ -1,6 +1,6 @@
 # 🧪 Bad Procurement as a Security Vector  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How ordinary purchasing decisions quietly introduce systemic security risk in exhausted institutions.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+*How ordinary purchasing decisions quietly introduce systemic security risk in exhausted institutions.*  
 
 ---
 
@@ -193,4 +193,4 @@ It documents how ordinary purchasing decisions, made under conditions of exhaust
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
