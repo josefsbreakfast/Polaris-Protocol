@@ -1,5 +1,5 @@
 # 🦠 Hybrid Threat Overlay — External Exploitation of Domestic Oversight Gaps  
-**First created:** 2025-10-13 | **Last updated:** 2025-12-11  
+**First created:** 2025-10-13 | **Last updated:** 2025-12-15  
 *A systems-risk model showing how foreign or unauthorised actors could exploit domestic legal porosity and R&D pilots.*  
 
 ---
@@ -147,12 +147,13 @@ hybrid threats, foreign interference, ai middleware, data integrity, spoofing, c
 It illustrates how fragmented legal frameworks and technical infrastructures could, if unprotected, enable external or unauthorised actors to magnify the effects of domestic oversight weaknesses.  
 It is not an allegation of real conduct and is written for governance-design analysis.
 
-> 📡 Cross-references:  
-> - [🧱 Systemic Porosity] — *structural vulnerability map*  
-> - [🛡 Article 8 & 9 Breach Pathways] — *rights compression model*  
-> - [🧠 Multi-Lock Hypothetical] — *compound lawful layer model*  
-> - [⚖️ Oversight Repair Kit] — *mitigation and policy reform*  
+> 📡 Cross-references:
+> 
+> - [🦠 Systemic Porosity](../👑_Ownership_Control/🦠_systemic_porosity.md) — *structural vulnerability map*  
+> - [*Pending:* 🛡 Article 8 & 9 Breach Pathways] — *rights compression model*  
+> - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
+> - [⚖️ Oversight Repair Kit](../👑_Ownership_Control/🪡_oversight_repair_kit.md) — *mitigation and policy reform*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2025-12-15_
