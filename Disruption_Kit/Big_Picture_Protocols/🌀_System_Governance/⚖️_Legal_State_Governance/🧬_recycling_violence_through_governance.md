@@ -1,6 +1,6 @@
 # 🧬 Classification as Extraction: Recycling Violence Through Governance Systems  
-**First created:** 2025-08-03 | **Last updated:** 2025-12-14  
-*How data extracted under occupation is recycled into UK governance via classification, misclassification, and dual-use systems.*
+**First created:** 2025-08-03 | **Last updated:** 2025-12-15  
+*How data extracted under occupation is recycled into UK governance via classification, misclassification, and dual-use systems.*  
 
 ---
 
@@ -191,4 +191,4 @@ It documents how coercively extracted data and classificatory logics are sanitis
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
