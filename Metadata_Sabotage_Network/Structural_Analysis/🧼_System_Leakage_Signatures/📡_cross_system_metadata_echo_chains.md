@@ -1,5 +1,5 @@
 # 📡 Cross-System Metadata Echo Chains  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-15  
 *How fragments of data move between institutions, gain authority through repetition, and create self-reinforcing loops of misinterpretation.*  
 
 ---
@@ -206,9 +206,11 @@ Because they are.
 *Cross-System Metadata Echo Chains* is part of the Polaris Bureaucratic Harm cluster.  
 It maps how institutional narratives form without evidence, persist without correction, and shape behaviour through repetition.
 
-Crosslinks:  
-- 📛 *bureaucratic_memory_failure_and_identity_contamination*  
-- 🧷 *culture_war_risk_logic_in_uk_public_institutions*  
-- 🗃️ *safeguarding_logic_mission_creep_and_identity_pathologising*
+> 📡 Cross-references:
+> 
+> - [📛 Bureaucratic Memory Failure & Identity Contamination](./📛_bureaucratic_memory_failure.md) - *how systems misremember people*  
+> - [⚔️ Culture War Risk Logic in UK Public Institutions](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚔️_culture_war_risk_logic_in_uk_public_institutions.md) - *how the same people who complain about "identity politics" started using it inside UK public institutions to consolidate power*  
+> - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*  
 
-_Last updated: 2025-12-10_
+
+_Last updated: 2025-12-15_
