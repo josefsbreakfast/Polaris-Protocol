@@ -1,5 +1,5 @@
 # 🔥 Femme Firewall Fatale — The Panic at Female Intelligence  
-**First created:** 2025-10-23 | **Last updated:**2025-12-10  
+**First created:** 2025-10-23 | **Last updated:** 2025-12-15  
 *Systems that tolerate radical ideas but not women’s authority.*  
 
 ---
@@ -47,4 +47,4 @@ female intellect, firewall reflex, patriarchy, authorship, recognition, institut
 *🔥 Femme Firewall Fatale — The Panic at Female Intelligence* is a living node of the Polaris Protocol.  
 It traces how progressive systems reproduce gender hierarchy at the moment of recognising brilliance and offers archival counter-practices.  
 
-_Last updated: 2025-12-10_
+_Last updated: 2025-12-15_
