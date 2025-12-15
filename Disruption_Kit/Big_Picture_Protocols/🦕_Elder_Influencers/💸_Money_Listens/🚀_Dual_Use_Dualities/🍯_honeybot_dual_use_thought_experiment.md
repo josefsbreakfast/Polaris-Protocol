@@ -90,7 +90,7 @@ dual-use research, sex-tech, satire, ethics, surveillance, rehabilitation, polic
 *🍯 HoneyBot™ — A Dual-Use Thought Experiment* is a living node of the Polaris Protocol.  
 It uses humour and fiction to illustrate how easily dual-use loopholes can arise in robotics and behavioural science, and why clear governance frameworks matter before the prototype becomes reality.  
 
-*Because there is a non-zero chance that The Men™, left unattended for more than 5 minutes, have already done something uncannily like this.*  
+Because there is a non-zero chance that The Men™, left unattended for more than 5 minutes, have already done something uncannily like this.  
 
 > 📡 Cross-references:
 > 
