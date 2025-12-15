@@ -1,6 +1,6 @@
 # 🧪 Think-Tanks & Their Funding (2010–16)  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*Mapping the think-tanks that shaped UK counter-extremism policy during 2010–2016, their funding sources, and how their ideological agendas influenced Prevent and the CTSA framework.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-15  
+*Mapping the think-tanks that shaped UK counter-extremism policy during 2010–2016, their funding sources, and how their ideological agendas influenced Prevent and the CTSA framework.*  
 
 ---
 
@@ -201,4 +201,4 @@ It exposes the opaque financial and ideological ecosystem that shaped Prevent, C
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-15_
