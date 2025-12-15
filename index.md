@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:39:22 UTC_
+_Generated on 2025-12-15 01:40:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3000,6 +3000,7 @@ _Generated on 2025-12-15 01:39:22 UTC_
       - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_system_agitation_shopping_list.md)
       - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_the_fire_they_fear.md)
       - [`🧬_authoritarian_personnel_purification.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧬_authoritarian_personnel_purification.md)
+      - [`🧬_emotional_data_that_cant_be_unmixed.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧬_emotional_data_that_cant_be_unmixed.md)
       - [`🧭_threshold_literacy_teaching_citizens_to_read_the_triggers.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧭_threshold_literacy_teaching_citizens_to_read_the_triggers.md)
       - [`🧮_risk_calculators_and_hidden_scoring_systems.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧮_risk_calculators_and_hidden_scoring_systems.md)
       - [`🧾_threshold_disclosure_protocols_forensic_transparency_tools.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧾_threshold_disclosure_protocols_forensic_transparency_tools.md)
@@ -3638,7 +3639,6 @@ _Generated on 2025-12-15 01:39:22 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md`](Polaris_Nest/Git_Intake_Drawer/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
     - [`🧬_data_twinning_when_two_identities_become_one_record.md`](Polaris_Nest/Git_Intake_Drawer/🧬_data_twinning_when_two_identities_become_one_record.md)
