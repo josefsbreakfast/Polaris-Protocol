@@ -1,6 +1,6 @@
 # 🧪 Inspection Data Workflow — HMIP ↔ Probation ↔ University Loop  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*When oversight feeds on its own datasets.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-15  
+*When oversight feeds on its own datasets.*  
 
 ---
 
@@ -102,10 +102,10 @@ hmip, probation inspection, research loop, feedback circuit, justice data, evalu
 It shows how even well-meaning oversight architectures can trap themselves in recursive validation, and how deliberate cooling mechanisms can restore analytical clarity.
 
 > 📡 Cross-references:  
-> - [🧭 Justice Data Ecosystem Map (2020–2025)](../🧱_Infrastructure_&_Research_Data_Pathways/🧭_justice_data_ecosystem_map_2020_2025.md)  
-> - [🧾 Data Lineage Review](../🧩_System_Governance/🧾_data_lineage_review_how_to_trace_a_records_provenance.md)  
-> - [🧩 Swiss-Cheese Failures](../🧩_System_Governance/🧩_swiss_cheese_failures_when_process_holes_align.md)  
+> - [🧭 Justice Data Ecosystem Map (2020–2025)]  
+> - [🧾 Data Lineage Review]  
+> - [🧩 Swiss-Cheese Failures]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-15_
