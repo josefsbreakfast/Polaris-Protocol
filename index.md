@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:09:53 UTC_
+_Generated on 2025-12-15 01:11:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -455,6 +455,7 @@ _Generated on 2025-12-15 01:09:53 UTC_
         - [`🧠_immortality_fantasies_of_the_ultra_rich.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_immortality_fantasies_of_the_ultra_rich.md)
         - [`🧠_outsourcing_the_states_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_outsourcing_the_states_plan.md)
         - [`🧨_overclocked_capitalism_2020_cognitive_crash.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md)
+        - [`🧪_bad_procurement_as_a_security_vector.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧪_bad_procurement_as_a_security_vector.md)
         - [`🧲_what_bcg_takes_from_the_uk_and_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
         - [`☕️_biscuit_press_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
@@ -3616,7 +3617,6 @@ _Generated on 2025-12-15 01:09:53 UTC_
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
-    - [`🧪_bad_procurement_as_a_security_vector.md`](Polaris_Nest/Git_Intake_Drawer/🧪_bad_procurement_as_a_security_vector.md)
     - [`🧪_how_scientists_go_nazi.md`](Polaris_Nest/Git_Intake_Drawer/🧪_how_scientists_go_nazi.md)
     - [`🧪_inspection_data_workflow_hmip_probation_university_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧪_inspection_data_workflow_hmip_probation_university_loop.md)
     - [`🧪_international_law_vs_safety_classifiers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_international_law_vs_safety_classifiers.md)
