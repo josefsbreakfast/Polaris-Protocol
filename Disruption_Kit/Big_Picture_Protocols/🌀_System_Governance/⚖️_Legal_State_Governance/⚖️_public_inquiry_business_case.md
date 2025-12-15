@@ -1,6 +1,6 @@
 # ⚖️ Public Inquiry Business Case  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-18  
-*Evidential integrity and data-twin exploitation, requiring formal inquiry.*
+**First created:** 2025-09-26 | **Last updated:** 2025-12-15  
+*Evidential integrity and data-twin exploitation, requiring formal inquiry.*  
 
 ---
 
@@ -60,15 +60,15 @@ public inquiry, data twins, metadata abuse, evidentiary failure, systemic target
 
 ## 🏮 Footer  
 
-*Public Inquiry Business Case* is a Big Picture Protocol node of the Polaris Protocol.  
+*⚖️ Public Inquiry Business Case* is a Big Picture Protocol node of the Polaris Protocol.  
 It frames the rationale, scope, and model for a formal inquiry into evidential weaknesses and data-twin exploitation.
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
-> - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md)  
-> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
+> - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md) - *how this impacts workers with professional registration*   
+> - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md) - *differing models of "making safe and making good" following hamrs*  
+> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *deeper dives into data structure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
