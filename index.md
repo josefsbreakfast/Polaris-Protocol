@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:29:15 UTC_
+_Generated on 2025-12-15 01:30:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3300,6 +3300,7 @@ _Generated on 2025-12-15 01:29:15 UTC_
       - [`🧠_how_bad_actors_incriminate_themselves.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_how_bad_actors_incriminate_themselves.md)
       - [`🧪_reality_tv_as_coercive_stress_architecture.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧪_reality_tv_as_coercive_stress_architecture.md)
       - [`🧪_rnd_artefact_leakage_into_production.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧪_rnd_artefact_leakage_into_production.md)
+      - [`🧬_ambient_data_exhaust.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_ambient_data_exhaust.md)
       - [`🧬_interface_leakage_the_one_who_got_through.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧬_interface_leakage_the_one_who_got_through.md)
       - [`🧭_visual_glossary_containment_pulse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse.md)
       - [`🧭_visual_glossary_containment_pulse_composite.png`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧭_visual_glossary_containment_pulse_composite.png)
@@ -3629,7 +3630,6 @@ _Generated on 2025-12-15 01:29:15 UTC_
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
-    - [`🧬_ambient_data_exhaust.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ambient_data_exhaust.md)
     - [`🧬_centroid_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_collapse.md)
     - [`🧬_centroid_collapse_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_collapse_mechanism.md)
     - [`🧬_centroid_overweighting_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_overweighting_problem.md)
