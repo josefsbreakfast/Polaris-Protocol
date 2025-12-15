@@ -1,5 +1,5 @@
 # 🧩 Risk Vector Inversions in Authoritarian Systems  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-15  
 *How discriminatory security models begin targeting their own in-group when calibration assumptions break.*  
 
 ---
@@ -160,4 +160,4 @@ It provides the conceptual hinge for future nodes on:
 - authoritarian paranoia cycles,  
 - and the technical impossibility of maintaining apartheid stability in a globally shifting data environment.  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
