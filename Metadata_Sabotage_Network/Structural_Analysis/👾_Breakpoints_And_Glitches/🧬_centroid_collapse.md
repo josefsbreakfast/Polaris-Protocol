@@ -1,6 +1,6 @@
 # 🧬 Centroid Collapse  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*What happens when a synthetic persona created from multiple digital twins becomes mathematically contradictory, ethically impossible, or behaviourally incoherent — causing predictive systems to fail.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-15  
+*What happens when a synthetic persona created from multiple digital twins becomes mathematically contradictory, ethically impossible, or behaviourally incoherent — causing predictive systems to fail.*  
 
 ---
 
@@ -270,3 +270,5 @@ This node connects directly to:
 
 It forms a crucial part of the **Synthetic Persona Collapse** cluster  
 in the Polaris mapping.
+
+_Last updated: 2025-12-15_
