@@ -90,7 +90,7 @@ Recognising the difference between goodwill and governance is essential.
 
 Even when collaboration is benign, divergent legal defaults can convert protected UK personal data into state property elsewhere.  
 
-The safeguard is not a judgment about identity—it is a compliance requirement.  
+The safeguard is not a judgment about identity: it is a compliance requirement, and a core practice of sovereignity.  
 
 ---
 
