@@ -1,6 +1,6 @@
 # 🦆 She Weighs the Same as a Duck  
-**First created:** 2025-11-15 | **Last updated:** *  
-*Why certain women are treated as witches the moment they display signs of intelligence, literacy, or inconvenient accuracy.*
+**First created:** 2025-11-15 | **Last updated:** 2025-12-15  
+*Why certain women are treated as witches the moment they display signs of intelligence, literacy, or inconvenient accuracy.*  
 
 ---
 
@@ -187,4 +187,4 @@ witch tests, institutional misreading, survivor credibility, literacy suspicion,
 *🦆 She Weighs the Same as a Duck* is a living humour-analysis node of the Polaris Protocol.  
 It reframes cultural and institutional suspicion of intelligent women through the archetype of the witch test, illuminating how survivor clarity is often misread by systems built for simpler narratives.
 
-_Last updated: *_
+_Last updated: 2025-12-15_
