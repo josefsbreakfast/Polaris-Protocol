@@ -1,5 +1,5 @@
 # 🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-15  
 *How well-intentioned safeguarding systems drift into soft authoritarianism, misinterpretation, and the pathologising of ordinary identity markers.*  
 
 ---
@@ -173,9 +173,11 @@ Polaris frames this not as a failure of individuals, but as a failure of **desig
 *🗃️ Safeguarding Logic Mission Creep & Identity Pathologising* anchors Polaris’ work on bureaucratic harm and democratic drift.  
 It helps articulate how systems meant to protect can unintentionally harm, and why structural reform — not moral panic — is required.
 
-Crosslinks:  
-- 🧯 *prevent_as_political_atomisation_engine*  
-- 📡 *cross-system_metadata_echo_chains*  
-- 📛 *bureaucratic_memory_failure_and_identity_contamination*
+> 📡 Cross-references:
+>
+> - [*Pending:* 🧯_prevent_as_political_atomisation_engine.md]
+> - [📛 Bureaucratic Memory Failure & Identity Contamination](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md) - *how systems misremember people*  
+> - [📡 Cross-System Metadata Echo Chains](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md) - *how data slips between systems, creating falsity and inaccuracy in records*  
+> - [⚔️ Culture War Risk Logic in UK Public Institutions](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚔️_culture_war_risk_logic_in_uk_public_institutions.md) - *how the same people who complain about "identity politics" started using it inside UK public institutions to consolidate power*  
 
 _Last updated: 2025-12-12_
