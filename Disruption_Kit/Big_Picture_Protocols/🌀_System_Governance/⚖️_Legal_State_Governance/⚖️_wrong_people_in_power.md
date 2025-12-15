@@ -1,5 +1,5 @@
 # ⚖️ Wrong People in Power  
-**First created:** 2025-09-05 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-05 | **Last updated:** 2025-12-15   
 *Why suppression operations persist when the authorising class is compromised or unwilling.*
 
 ---
