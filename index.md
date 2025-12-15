@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:42:07 UTC_
+_Generated on 2025-12-15 01:43:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2809,6 +2809,7 @@ _Generated on 2025-12-15 01:42:07 UTC_
       - [`🛰️_mandatory_training_as_narrative_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_mandatory_training_as_narrative_containment.md)
       - [`🛰️_regulatory_adjacency_effects_on_delay_dynamics.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_regulatory_adjacency_effects_on_delay_dynamics.md)
       - [`🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md)
+      - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
       - [`🧱_silence_stack_trace.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧱_silence_stack_trace.md)
       - [`🧾_sar_stonewalling_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧾_sar_stonewalling_as_containment.md)
       - [`🪁_contracts_that_colonise_memory.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪁_contracts_that_colonise_memory.md)
@@ -3640,7 +3641,6 @@ _Generated on 2025-12-15 01:42:07 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
     - [`🧬_data_twinning_when_two_identities_become_one_record.md`](Polaris_Nest/Git_Intake_Drawer/🧬_data_twinning_when_two_identities_become_one_record.md)
     - [`🧬_diaspora_debate_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧬_diaspora_debate_dynamics.md)
     - [`🧬_digital_twin_vector_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_twin_vector_logic.md)
