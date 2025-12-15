@@ -1,6 +1,6 @@
-# 🧬 Collocative Integrity & Metadata Inertia
-**First created:** 2025-10-16 | **Last updated:** 2025-10-16  
-*When a library’s logic outlives its morality.*
+# 🧬 Collocative Integrity & Metadata Inertia  
+**First created:** 2025-10-16 | **Last updated:** 2025-12-15  
+*When a library’s logic outlives its morality.*  
 
 ---
 
@@ -33,4 +33,4 @@ Deleting the node breaks the system; keeping it breaks the world.
 *Collocative Integrity & Metadata Inertia* is a living node of the Polaris Protocol.
 It traces how moral errors in classification become technical dependencies — showing that to change knowledge, one must first rewrite its scaffolding.
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-12-15_
