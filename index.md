@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 21:59:26 UTC_
+_Generated on 2025-12-15 22:00:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -90,7 +90,6 @@ _Generated on 2025-12-15 21:59:26 UTC_
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
         - [**election_audit/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/)
-          - [`⚖️_behavioural_microniching_and_election_integrity_UK.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/⚖️_behavioural_microniching_and_election_integrity_UK.md)
           - [`⚠️_foreign_influence_and_behavioural_capture_in_UK_elections.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/⚠️_foreign_influence_and_behavioural_capture_in_UK_elections.md)
           - [`📮_reform_cluster_audit_foi_bundle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/📮_reform_cluster_audit_foi_bundle.md)
           - [`🦾_stronghold_capture_audit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/🦾_stronghold_capture_audit.md)
@@ -4129,6 +4128,7 @@ _Generated on 2025-12-15 21:59:26 UTC_
     - [**🦗_Voter_Cricket/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/README.md)
       - [`audit_loader.py`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/audit_loader.py)
+      - [`⚖️_behavioural_microniching_and_election_integrity_UK.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/⚖️_behavioural_microniching_and_election_integrity_UK.md)
     - [**🧪_Sciencing_Apartheid/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)
       - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
