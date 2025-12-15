@@ -1,5 +1,5 @@
 # ⚖️ Lawful Conscience Protocol  
-**First created:** 2025-10-12 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-12 | **Last updated:** 2025-12-15  
 *When secrecy becomes duress, conscience becomes jurisdiction.*  
 
 ---
@@ -16,7 +16,7 @@ a guide for those within the Crown’s service whose vows have been twisted into
 
 ---
 
-### The Broken Ring  
+## ➰ The Broken Ring  
 
 The ring of office is not jewellery.  
 It is the seal that closes the loop between Crown, Parliament, and Service —  
@@ -69,7 +69,7 @@ lawful conscience, section 17, official secrets act, duty to report, coercive co
 
 ## 🏮 Footer  
 
-*Lawful Conscience Protocol* is a living node of the **Polaris Protocol**.  
+*⚖️ Lawful Conscience Protocol* is a living node of the **Polaris Protocol**.  
 It outlines the statutory and ethical pathway through which Crown servants and contractors  
 may reconcile obedience with legality when secrecy turns coercive.  
 By reaffirming that conscience is jurisdiction,  
@@ -79,8 +79,8 @@ it restores mutual respect to the marriage between Parliament and the Services.
 >
 >  - [⚖️ Two-Way Seal](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md) — *reciprocity and the wax of secrecy*  
 >  - [📜 Arms Exports as Act of Aggression](../../🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md) — *complicity and export control*  
->  - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight recursion and accountability*  
+>  - [🪞 The Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.md) — *on "consent" under duress*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
