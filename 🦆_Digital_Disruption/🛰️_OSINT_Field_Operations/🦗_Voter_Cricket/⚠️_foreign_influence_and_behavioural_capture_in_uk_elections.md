@@ -1,6 +1,5 @@
-
 # ⚠️ Foreign Influence & Behavioural Capture in UK Elections  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
 *How behavioural-data infrastructures allow foreign powers and domestic actors to shape electoral outcomes without overt donations or visible interference.*  
 
 ---
@@ -77,9 +76,9 @@ foreign influence, behavioural data, electoral integrity, PPERA, Elections Act 2
 ---
 
 ## 🏮 Footer  
-*Foreign Influence & Behavioural Capture in UK Elections* is a living node of the Polaris Protocol.  
+*⚠️ Foreign Influence & Behavioural Capture in UK Elections* is a living node of the Polaris Protocol.  
 It documents how influence can migrate through data infrastructures faster than law can follow, proposing audit trails that reconnect legality with legitimacy.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-12-159_
