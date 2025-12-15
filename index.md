@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:08:41 UTC_
+_Generated on 2025-12-15 01:09:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3346,6 +3346,7 @@ _Generated on 2025-12-15 01:08:41 UTC_
       - [`🧩_identity_behaviour_mismatch.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_behaviour_mismatch.md)
       - [`🧩_identity_stance_mismatch_architecture.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)
       - [`🧩_mirror_cluster_effects.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_mirror_cluster_effects.md)
+      - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_why_the_machine_tags_high_friction_profiles.md)
       - [`🧪_testing_the_invisible_criteria.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧪_testing_the_invisible_criteria.md)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_empathy_risk_classifier_satire_maybe.yaml.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_empathy_risk_classifier_satire_maybe.yaml.md)
@@ -3615,7 +3616,6 @@ _Generated on 2025-12-15 01:08:41 UTC_
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
-    - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_machine_tags_high_friction_profiles.md)
     - [`🧪_bad_procurement_as_a_security_vector.md`](Polaris_Nest/Git_Intake_Drawer/🧪_bad_procurement_as_a_security_vector.md)
     - [`🧪_how_scientists_go_nazi.md`](Polaris_Nest/Git_Intake_Drawer/🧪_how_scientists_go_nazi.md)
     - [`🧪_inspection_data_workflow_hmip_probation_university_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧪_inspection_data_workflow_hmip_probation_university_loop.md)
