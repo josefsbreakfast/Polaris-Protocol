@@ -1,5 +1,5 @@
 # ⚖️ UK Constitutional Fault Lines  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-04 | **Last updated:** 2025-12-15  
 *Mapping overlapping pressures on the UK’s unwritten constitution.*
 
 ---
@@ -98,14 +98,14 @@ UK constitution, constitutional crisis, devolution, parliamentary reform, execut
 
 ## 🏮 Footer  
 
-*UK Constitutional Fault Lines* is a living node of the Polaris Protocol.  
+*⚖️ UK Constitutional Fault Lines* is a living node of the Polaris Protocol.  
 It documents systemic pressures on the UK’s unwritten constitution and their intersections — legal, institutional, democratic, and geopolitical.
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md)  
-> - [⚖️ Shadow Governance Timeline](./⚖️_shadow_governance_timeline.md)
+> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *deferring judicial norms to the executive (or pseudo-executive) is strange behaviour*  
+> - [⚖️ Shadow Governance Timeline](./⚖️_shadow_governance_timeline.md) - *beware blondes in governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
