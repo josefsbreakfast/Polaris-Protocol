@@ -208,7 +208,7 @@ Speed requires **pre-negotiated legitimacy**, not recklessness.
 
 ---
 
-## ⚡ Toward Faster Governance Models  
+## 💫 Toward Faster Governance Models  
 
 | Bottleneck | Legacy Model | Latency-Aware Model |
 |---|---|---|
@@ -220,7 +220,7 @@ Speed requires **pre-negotiated legitimacy**, not recklessness.
 
 ---
 
-## 💫 Why This Matters  
+## 🐦‍🔥 Why This Matters  
 Governance latency does not merely delay response.  
 It redistributes harm.
 
