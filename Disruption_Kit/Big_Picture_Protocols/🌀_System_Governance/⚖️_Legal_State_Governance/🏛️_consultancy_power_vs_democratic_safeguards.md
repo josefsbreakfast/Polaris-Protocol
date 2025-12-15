@@ -1,5 +1,5 @@
 # 🏛️ Consultancy Power vs Democratic Safeguards  
-**First created:** 2025-08-05 | **Last updated:** 2025-12-14  
+**First created:** 2025-08-05 | **Last updated:** 2025-12-15  
 *Why large consultancies exist in structural tension with civic law, equality duties, and democratic governance.*
 
 ---
@@ -110,14 +110,14 @@ consultancy power, democratic safeguards, equality act tension, public law dutie
 
 ## 🏮 Footer  
 
-*Consultancy Power vs Democratic Safeguards* is a living node of the **Polaris Protocol**.  
+*🏛️ Consultancy Power vs Democratic Safeguards* is a living node of the **Polaris Protocol**.  
 It situates consultancy influence as a structural governance risk where commercial incentives collide with civic law and democratic accountability.
 
 > 📡 Cross-references:
 > 
-> - [🧬 Classification as Extraction] — *how harm is re-encoded*  
-> - [🧲 What BCG Takes from the UK … and Palestine] — *cross-context extraction*  
+> - [*Pending:* 🧬 Classification as Extraction] — *how harm is re-encoded*  
+> - [🧲 What BCG Takes from the UK … and Palestine](../🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md) — *cross-context and cross-juristictional extraction*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
