@@ -1,5 +1,5 @@
 # 🧩 Swiss-Cheese Failures — When Process Holes Align  
-**First created:** 2025-11-11 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-11 | **Last updated:** 2025-12-15  
 *Every safeguard is porous in a different place.*  
 
 ---
@@ -89,4 +89,4 @@ process failure, institutional drift, containment breach, administrative error, 
 It reminds us that containment is rarely a single act; it is an alignment of omissions.  
 Understanding that alignment is the first step toward breaking it.  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
