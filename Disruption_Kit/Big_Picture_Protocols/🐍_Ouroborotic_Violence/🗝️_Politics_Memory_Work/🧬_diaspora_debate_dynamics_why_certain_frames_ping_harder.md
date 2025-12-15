@@ -1,6 +1,6 @@
 # 🧬 Diaspora Debate Dynamics — Why Certain Frames ‘Ping’ Harder  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*Why some framings carry disproportionate emotional and historical weight for Jews in the diaspora — and why institutions consistently misread these responses.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-15  
+*Why some framings carry disproportionate emotional and historical weight for Jews in the diaspora — and why institutions consistently misread these responses.*  
 
 ---
 
@@ -166,4 +166,4 @@ It maps how diasporic memory, cultural encoding, and trauma inheritance shape sp
 > - `🫀 Big_Picture_Protocols/Our_Hearts_Our_Minds`
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-15_
