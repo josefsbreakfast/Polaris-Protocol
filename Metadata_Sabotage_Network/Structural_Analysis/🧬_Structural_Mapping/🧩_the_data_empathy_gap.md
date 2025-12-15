@@ -1,5 +1,5 @@
 # 🧩 The Data Empathy Gap  
-**First created:** 2025-10-29 | **Last updated:** 2025-12-14  
+**First created:** 2025-10-29 | **Last updated:** 2025-12-15  
 *When awareness of a person exists as data, but care for that person does not.*  
 
 ---
@@ -84,4 +84,4 @@ It identifies the systemic failure mode where information replaces care, leaving
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
