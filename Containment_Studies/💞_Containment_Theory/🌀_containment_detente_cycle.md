@@ -1,5 +1,5 @@
 # 🌀 Containment/Détente Cycle  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-15  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-15  
 *Legacy model showing the oscillation between tension and release.*  
 
 ---
@@ -51,4 +51,4 @@ It documents the legacy model that newer Polaris theories reconfigure into dynam
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2025-12-15_
