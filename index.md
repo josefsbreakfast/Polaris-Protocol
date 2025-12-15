@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 00:46:06 UTC_
+_Generated on 2025-12-15 00:48:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1293,6 +1293,7 @@ _Generated on 2025-12-15 00:46:06 UTC_
         - [`🧩_dont_listen_to_the_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_dont_listen_to_the_algorithm.md)
         - [`🧩_friction_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_friction_patterns.md)
         - [`🧩_limits_of_remote_repair.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_limits_of_remote_repair.md)
+        - [`🧩_semi_compensating_spld_theory_when_gift_and_glitch_co_exist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_semi_compensating_spld_theory_when_gift_and_glitch_co_exist.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
@@ -3601,7 +3602,6 @@ _Generated on 2025-12-15 00:46:06 UTC_
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
-    - [`🧩_semi_compensating_spld_theory.md`](Polaris_Nest/Git_Intake_Drawer/🧩_semi_compensating_spld_theory.md)
     - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](Polaris_Nest/Git_Intake_Drawer/🧩_swiss_cheese_failures_when_process_holes_align.md)
     - [`🧩_systemic_abuse_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧩_systemic_abuse_logic.md)
     - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
