@@ -1,4 +1,4 @@
-# 🧩 The Politic Is No Longer Heard  
+# 🦆 The Politic Is No Longer Heard  
 **First created:** 2025-11-16 | **Last updated:** 2025-12-15  
 *On the vanishing feedback loop between public life and political hearing.*  
 
@@ -63,12 +63,14 @@ representation, civic repair, feedback loops, algorithmic hearing, democracy, ci
 
 ## 🏮 Footer  
 
-*The Politic Is No Longer Heard* is a living node of the Polaris Protocol.  
+*🦆 The Politic Is No Longer Heard* is a living node of the Polaris Protocol.  
 It analyses the structural disappearance of direct democratic hearing and the rise of datafied listening that obscures public voice.
 
-> 📡 Cross-references:  
-> - [🌀 Systems & Governance]  
-> - [🪖 Home Front 2.0]  
+> 📡 Cross-references:
+> 
+> - [🌱 Love Is Antifascist](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md) - *as advertised*  
+> - [🪖 Home Front 2.0](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md) - *breathing antifascism into daily life*
+> - [✨ Glimmer Is Taxable And Other Big Drums](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md) - *for those of us who need it in a JSP*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
