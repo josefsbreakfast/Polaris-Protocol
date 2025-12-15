@@ -11,7 +11,7 @@ This node traces how that safeguard architecture became a hidden constitution �
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Statutory durability.** Every council must have the same three officers, ensuring continuity beyond politics.  
 - **Professional interlock.** Law, finance, and management form a closed loop of mutual validation.  
 - **Networked authority.** The same triad pattern links councils through SOLACE, CIPFA, and LLG.  
