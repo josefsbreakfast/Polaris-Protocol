@@ -1,5 +1,5 @@
 # 🧩 Socioeconomic Clusters of Reform Support (UK Local Elections)  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
 *Mapping recurring local conditions where new-right and anti-establishment parties gained council seats, 2023–2024.*  
 
 ---
@@ -70,4 +70,4 @@ It tracks repeating material conditions that enable populist breakthroughs, turn
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-12-15_
