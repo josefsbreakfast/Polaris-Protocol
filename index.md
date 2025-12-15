@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:21:15 UTC_
+_Generated on 2025-12-15 01:22:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1304,6 +1304,7 @@ _Generated on 2025-12-15 01:21:15 UTC_
         - [`🧩_semi_compensating_spld_theory_when_gift_and_glitch_co_exist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_semi_compensating_spld_theory_when_gift_and_glitch_co_exist.md)
         - [`🧩_the_recognition_event.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_the_recognition_event.md)
         - [`🧪_the_wall_tester_type.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧪_the_wall_tester_type.md)
+        - [`🧫_the_default_on_being_unbroken.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧫_the_default_on_being_unbroken.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
@@ -3625,7 +3626,6 @@ _Generated on 2025-12-15 01:21:15 UTC_
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
-    - [`🧫_the_default_on_being_unbroken.md`](Polaris_Nest/Git_Intake_Drawer/🧫_the_default_on_being_unbroken.md)
     - [`🧬_adolescent_endocrine_axis_vs_risk_axis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_adolescent_endocrine_axis_vs_risk_axis.md)
     - [`🧬_affective_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧬_affective_infrastructure.md)
     - [`🧬_algorithmic_iatrogenesis_and_reflex_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_algorithmic_iatrogenesis_and_reflex_loops.md)
