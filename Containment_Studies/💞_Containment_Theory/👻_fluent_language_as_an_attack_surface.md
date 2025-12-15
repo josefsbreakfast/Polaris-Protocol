@@ -1,6 +1,6 @@
 # 👻 Fluent Language as an Attack Surface  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
-*How ordinary, conversational language becomes a vector for influence, coercion, and harm at scale.*
+**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+*How ordinary, conversational language becomes a vector for influence, coercion, and harm at scale.*  
 
 ---
 
@@ -146,7 +146,7 @@ Safety cannot be reduced to content filters when the medium itself carries force
 
 ---
 
-## 🧭 Governance Implications  
+## 🏛️ Governance Implications  
 
 Acknowledging language as an attack surface does **not** imply:
 - Censorship  
@@ -181,10 +181,10 @@ It establishes language itself as a material vector of influence, requiring the 
 
 > 📡 Cross-references:
 > 
-> - [🧿 Against Pseudoanthropy](../🪐_Meta_Containment/🧿_against_pseudoanthropy.md) — relational misattribution  
-> - [🪼 Interaction Drift & Safety Layer Erosion] — emergent risk over time  
-> - [🍞 Why Food Safety Is Aggressively Regulated] — population-scale analogy  
+> - [🧿 Against Pseudoanthropy](../🪐_Meta_Containment/🧿_against_pseudoanthropy.md) — *relational misattribution*  
+> - [🪼 Interaction Drift & Safety Layer Erosion](./🪼_interaction_drift_and_safety_layer_erosion.md) — *emergent risk over time*  
+> - [🍞 Why Food Safety Is Aggressively Regulated](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md) — *population-scale analogy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-15_
