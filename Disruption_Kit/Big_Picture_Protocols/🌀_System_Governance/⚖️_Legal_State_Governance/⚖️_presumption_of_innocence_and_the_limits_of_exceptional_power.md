@@ -128,7 +128,7 @@ presumption of innocence, exceptional power, constitutional erosion, hunger stri
 > 📡 Cross-references:
 > 
 > - [⚠️ Erosion of Duty of Care Under Exception Logic](./⚠️_the_erosion_of_duty_of_care_under_exception_logic.md) - *how legal norms are pushed aside in "emergant" circumstances*  
-> - [🧨 Schmittian Drift in Exceptional Detention Governance](./🧨_the_schmittian_drift_in_exceptional_detention_governance.md) - *how "exceptions" push Schmitt's breakdown of democratic rule, specifically*  
+> - [🧨 The Schmittian Drift in Exceptional Detention Governance](./🧨_the_schmittian_drift_in_exceptional_detention_governance.md) - *how "exceptions" push Schmitt's breakdown of democratic rule, specifically*  
 > - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *the crisis of legitimacy of democratic power created when exception states, public lack of information, and medical crises arise*  
 > - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) - *the hunger strike as an act of reclaiming sovereignty and dignity*  
 
