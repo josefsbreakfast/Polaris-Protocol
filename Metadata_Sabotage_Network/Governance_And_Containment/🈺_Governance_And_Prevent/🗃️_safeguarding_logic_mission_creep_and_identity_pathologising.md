@@ -175,7 +175,7 @@ It helps articulate how systems meant to protect can unintentionally harm, and w
 
 > 📡 Cross-references:
 > 
-> - [🧯 PREVENT As Political Atomisation Engine](./🧯_prevent_as_a_political_atomisation_engine.md) - *how Prevent, by its nature, acts akin to a [Shatterfork](../../../../👻_Apparitional_Objects/🍽️_Fork_Taxonomy/☢️_shatterfork.md) across the UK [Frankenstack](../../Structural_Analysis/👾_Breakpoints_And_Glitches/🧟‍♀️_prevents_frankenstack_architecture.md) of data architecture*  
+> - [🧯 PREVENT As Political Atomisation Engine](./🧯_prevent_as_a_political_atomisation_engine.md) - *how Prevent, by its nature, acts akin to a [Shatterfork](../../../👻_Apparitional_Objects/🍽️_Fork_Taxonomy/☢️_shatterfork.md) across the UK [Frankenstack](../../Structural_Analysis/👾_Breakpoints_And_Glitches/🧟‍♀️_prevents_frankenstack_architecture.md) of data architecture*  
 > - [📛 Bureaucratic Memory Failure & Identity Contamination](../../Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md) - *how systems misremember people*  
 > - [📡 Cross-System Metadata Echo Chains](../../Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md) - *how data slips between systems, creating falsity and inaccuracy in records*  
 > - [⚔️ Culture War Risk Logic in UK Public Institutions](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚔️_culture_war_risk_logic_in_uk_public_institutions.md) - *how the same people who complain about "identity politics" started using it inside UK public institutions to consolidate power*  
