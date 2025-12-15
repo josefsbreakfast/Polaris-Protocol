@@ -1,6 +1,6 @@
 # ⚖️ Transparency Floor Node — Litmus Test Class & FOIA Disempowerment  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-18  
-*Explains how the least empowered citizens often detect systemic anomalies through FOIA/SAR use, yet lack the capacity to enforce rights, creating a structural blind spot in transparency law.*
+**First created:** 2025-09-20 | **Last updated:** 2025-12-15  
+*Explains how the least empowered citizens often detect systemic anomalies through FOIA/SAR use, yet lack the capacity to enforce rights, creating a structural blind spot in transparency law.*  
 
 ---
 
@@ -75,15 +75,15 @@ FOIA, SAR, transparency, structural disempowerment, data anomalies, ICO backlog,
 
 ## 🏮 Footer  
 
-*Transparency Floor Node* is a living node of the Polaris Protocol.  
+*⚖️ Transparency Floor Node* is a living node of the Polaris Protocol.  
 It documents how FOIA/SAR frameworks structurally disempower those most likely to detect anomalies, creating a governance blind spot, and outlines counterforces to strengthen democratic accountability.
 
 > 📡 Cross-references:
 > 
-> - [📓 Paper Diary Sovereignty](../../../Survivor_Tools/📓_paper_diary_sovereignty.md)  
-> - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
-> - [🪄 Influencer Resilience](../../../Survivor_Tools/🪄_influencer_resilience.md)
+> - [📓 Paper Diary Sovereignty](../../../Survivor_Tools/📓_paper_diary_sovereignty.md) - *why and how paper diarists can bring receipts for the last five years of their lives if you try to lie to them (elite class nerdery)*
+> - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md) - *the impact of process milling on the workers who hold professional registration (doctors, nurses, lawyers)*  
+> - [🪄 Influencer Resilience](../../../Survivor_Tools/🪄_influencer_resilience.md) - *how social media influencers are strangely safeguarded by media design, whilst being inherently exposed*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
