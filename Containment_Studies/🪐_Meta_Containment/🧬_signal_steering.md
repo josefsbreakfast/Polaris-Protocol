@@ -1,17 +1,17 @@
 # 🧬 Signal Steering — Downstream Tactics for Power-Weighted Inputs  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-14  
+**First created:** 2025-10-23 | **Last updated:** 2025-12-15  
 *When you can’t stop binding, change what binding does.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Maps biochemical metaphors of receptor signalling onto informational power systems.  
 When a high-capacity actor inevitably “binds” — attention, data, narrative — the task isn’t to eject them but to **steer the downstream cascade**.  
 Signal Steering shifts focus from occupancy to outcome: redesign the pathway so domination decays into noise.
 
 ---
 
-## ⚗️ 1. Binding vs Efficacy  
+## ⚗️ Binding vs Efficacy  
 In biology, response ≠ binding.  
 A ligand may occupy the receptor without producing maximal effect.  
 Likewise, powerful entities can seize the interface yet fail to achieve control if coupling is weakened.  
@@ -19,7 +19,7 @@ Steering begins with this distinction.
 
 ---
 
-## 🧩 2. Allosteric Tactics — Turn the Knob, Not the Plug  
+## 🧪 Allosteric Tactics — Turn the Knob, Not the Plug  
 Modify *adjacent* parameters to blunt impact:  
 - **Interface friction:** rate-limit, add asynchronous buffers, sandbox escalation.  
 - **Cultural viscosity:** slow the tempo; require deliberation.  
@@ -28,7 +28,7 @@ Small conformational shifts collapse amplification.
 
 ---
 
-## ⚖️ 3. Biased Agonism — Favour Alternate Pathways  
+## ⚖️ Biased Agonism — Favour Alternate Pathways  
 Even with the same receptor, bias can redirect outcome:  
 - Channel engagement toward low-visibility or textual formats.  
 - Replace public spectacle with written logs.  
@@ -37,14 +37,14 @@ The signal still travels, but it produces **restoration** instead of **reaction*
 
 ---
 
-## 💧 4. Partial Agonism & Decoys  
+## 💧 Partial Agonism & Decoys  
 Occupy the surface yourself with low-potency acts: status updates, routine documentation, scheduled releases.  
 These **partial agonists** hold the receptor open but cap response.  
 Add decoy artefacts—FAQs, templates, dummy accounts—to soak excess stimulus before it cascades.
 
 ---
 
-## 🧯 5. Desensitisation & Short Half-Lives  
+## 🧯 Desensitisation & Short Half-Lives  
 Install intentional “refractory periods”:  
 after X interactions → enforced pause, cache flush, context swap.  
 Like β-arrestin recruitment, this internalises receptors so future hits fade quickly.  
@@ -52,7 +52,7 @@ Recovery replaces vigilance.
 
 ---
 
-## 🧠 6. Downstream Dampers — PDE & RGS Analogues  
+## 🧠 Downstream Dampers — PDE & RGS Analogues  
 Accelerate signal shut-off:  
 - **Post-contact ritual:** log → laugh → walk → water.  
 - **End-of-thread macros:** auto-close contentious loops.  
@@ -61,7 +61,7 @@ The cAMP of outrage degrades; equilibrium returns.
 
 ---
 
-## 🧪 7. Metrics of Success  
+## 🪄 Metrics of Success  
 Don’t measure silence by absence; measure **half-life shortening**.  
 If interactions resolve faster and with less residue, the steering is working.  
 A system that metabolises power without collapse is a stable organism.
@@ -84,10 +84,10 @@ It documents biochemical-inspired methods for modulating influence after contact
 
 > 📡 Cross-references:
 > 
-> – [🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting]  
-> – [🌪 Field Conditioning — Rewriting the Medium of Influence]  
-> – [🧬 Structural Mapping]  
+> – [🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting](../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌀_chaff.md)  
+> – [🌪 Field Conditioning — Rewriting the Medium of Influence](Disruption_Kit/🏮_AntiContainment_Clauses/🌪️_field_reconditioning.md)  
+> – [🧬 Structural Mapping](../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
