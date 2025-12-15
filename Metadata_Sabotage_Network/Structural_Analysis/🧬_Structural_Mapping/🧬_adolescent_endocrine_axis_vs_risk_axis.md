@@ -1,6 +1,6 @@
 # 🧬 Adolescent Endocrine Axis vs Risk Axis  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
-*Mapping hormonal feedback loops against algorithmic misreadings of volatility.*
+**First created:** 2025-11-04 | **Last updated:** 2025-12-15  
+*Mapping hormonal feedback loops against algorithmic misreadings of volatility.*  
 
 ---
 
@@ -80,10 +80,10 @@ prevent, adolescence, hormones, endocrine system, algorithmic endocrinology, sur
 It links the physiological feedback systems of adolescence with the misreading loops of governance algorithms that pathologise volatility.  
 
 > 📡 Cross-references:  
-> - [🎶 Prevent Eats Teenagers’ Music](../Narrative_And_Psych_Ops/🎶_prevent_eats_teenagers_music.md) — cultural rehearsal misclassified as risk  
-> - [🧬 Algorithmic Endocrinology](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧬_Algorithmic_Endocrinology/README.md) — systemic mapping of emotional regulation and data governance  
-> - [🪆 Chronically Online](../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪆_chronically_online.md) — affective loops and digital volatility  
+> - [🎶 Prevent Eats Teenagers’ Music] — cultural rehearsal misclassified as risk  
+> - [🧬 Algorithmic Endocrinology] — systemic mapping of emotional regulation and data governance  
+> - [🪆 Chronically Online] — affective loops and digital volatility  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-12-15_
