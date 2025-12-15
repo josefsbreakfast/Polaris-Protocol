@@ -46,14 +46,16 @@ suppression, political impunity, oversight failure, data suppression, institutio
 
 ## 🏮 Footer  
 
-*Wrong People in Power* is a living node of the Polaris Protocol.  
+*⚖️ Wrong People in Power* is a living node of the Polaris Protocol.  
 It documents how suppression operations are sustained by political actors who benefit from stalemate and refuse transparency or accountability.
 
 > 📡 Cross-references:
-> 
-> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)  
-> - [⚖️ Shadow Governance Timeline](./⚖️_shadow_governance_timeline.md)
+>
+> - [⚔️ War on Woke as Containment Architecture](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md) - *what they won't stfu about*  
+> - [🌀 The Authoritarian Personality Loop](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌀_authoritarian_personality_loop.md) - *why they won't stfu about it*  
+> - [🐣 Canaries and Cassandras — Early Warnings in a System That Won’t Listen](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐣_canaries_and_cassandras.md) - *who tells them to stfu first*  
+> - [🪖 Home Front 2.0](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md) - *practical things to do until they stfu*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
