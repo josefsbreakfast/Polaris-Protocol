@@ -1,5 +1,5 @@
 # ⚖️ International Laundering  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-14 | **Last updated:** 2025-12-15    
 *Cross-border governance tricks where obligations are displaced onto allies to evade accountability.*
 
 ---
@@ -34,14 +34,15 @@ international law, jurisdiction dodge, metadata laundering, intelligence allianc
 
 ## 🏮 Footer  
 
-*International Laundering* is a living node of the Polaris Protocol.  
+*⚖️ International Laundering* is a living node of the Polaris Protocol.  
 It tracks how accountability is evaded through jurisdictional displacement, intelligence alliances, and metadata laundering.
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems & Governance](../README.md) — *parent cluster of governance diagnostics*  
-> - [🧼 System Leakage Signatures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md) - *Leakage points and unintended reveals from containment systems*  
+> - [🌍 Cross-Border Bias Propagation in Surveillance Models](../👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md) — *secondary impacts from propagating bias across borders*  
+> - [🇬🇧 Britain as Global Butler](../../🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md) - *the particular tendancy of the UK to act as nexus*
+> - [🐝 All In Commons](../../../../🦆_Digital_Disruption/🐝_All_In_Commons) -  *reimaging a world with public good at the heart of social networking and work*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-12-15_
