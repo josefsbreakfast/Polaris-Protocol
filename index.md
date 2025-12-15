@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:45:11 UTC_
+_Generated on 2025-12-15 01:47:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -617,6 +617,7 @@ _Generated on 2025-12-15 01:45:11 UTC_
         - [`🧠_the_science_that_survives_borders.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_the_science_that_survives_borders.md)
         - [`🧥_empires_old_clothes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧥_empires_old_clothes.md)
         - [`🧪_breeding_trope_as_eugenics.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧪_breeding_trope_as_eugenics.md)
+        - [`🧬_diaspora_debate_dynamics_why_certain_frames_ping_harder.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧬_diaspora_debate_dynamics_why_certain_frames_ping_harder.md)
         - [`🧬_genealogy_of_coping_mechanisms.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧬_genealogy_of_coping_mechanisms.md)
         - [`🧭_uk_tech_talent_scaling_policy_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧭_uk_tech_talent_scaling_policy_timeline.md)
         - [`🧾_data_is_their_cage_too.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧾_data_is_their_cage_too.md)
@@ -3642,7 +3643,6 @@ _Generated on 2025-12-15 01:45:11 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_diaspora_debate_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧬_diaspora_debate_dynamics.md)
     - [`🧬_digital_twin_vector_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_twin_vector_logic.md)
     - [`🧬_double_bind_dependencies.md`](Polaris_Nest/Git_Intake_Drawer/🧬_double_bind_dependencies.md)
     - [`🧬_duplicate_points_c4isr_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_duplicate_points_c4isr_twinning.md)
