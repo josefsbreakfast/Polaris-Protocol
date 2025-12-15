@@ -1,3 +1,6 @@
+
+
+
 # ⚖️ Case Note — Dr B v General Medical Council (2023)  
 **First created:** 2025-10-19 | **Last updated:** 2025-12-15  
 *Judicial recognition of distress-only damages and data-misuse accountability in regulatory contexts.*  
