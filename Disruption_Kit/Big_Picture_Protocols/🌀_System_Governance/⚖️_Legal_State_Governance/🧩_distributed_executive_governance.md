@@ -172,9 +172,10 @@ Distributed executives:
 *🧩 Distributed Executive Governance* is part of Polaris’ constitutional redesign cluster.  
 It maps how modern states can move from “monarch-in-disguise” executive models to structures that resist distortion and keep governance aligned with human cognition and democratic safety.
 
-Crosslinks:  
-- 🧱 *cabinet-led_collective_executive_models_for_the_uk*  
-- 🧠 *political_black_box_logic*  
-- 🔧 *democratic_resilience_architecture_for_21st_century_britain*
+> 📡 Cross-references:
+> 
+> - [*Pending:* 🧱_cabinet_led_collective_executive_models_for_the_uk.md]  
+> - [🧠 Political Black Box Logic](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_political_black_box_logic.md)  
+> - [🔧 Democratic Resilience Architecture for 21st Century Britain](🦆_Digital_Disruption/🐝_All_In_Commons/🔧_democratic_resilience_architecture_for_21st_century_britain.md)  
 
 _Last updated: 2025-12-15_
