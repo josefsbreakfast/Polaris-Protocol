@@ -30,35 +30,62 @@ This divergence means that a data conduit linking a UK institution to an Israeli
 ## 🧭 Compliance Guidance for UK Controllers  
 
 1. **Contractual clarity.**  
-   Every Memorandum of Understanding (MOU) or Data‑Sharing Agreement involving Israeli partners must include a clause stating that *UK data remains governed by UK law throughout processing*.  
+Every Memorandum of Understanding (MOU) or Data‑Sharing Agreement involving Israeli partners must include a clause stating that *UK data remains governed by UK law throughout processing*.
 
-2. **Additional safeguards.**  
+The UK data controller must also ensure compliance to UK data law in safeguarding that data.  
+
+This is a matter of UK sovereignity.  
+
+Patriotism requires compliance.  
+
+3. **Additional safeguards.**  
    - Require **technical segregation** of UK‑origin data within joint research systems.  
    - Mandate **audit rights** for the UK controller over any Israeli processing environment that receives UK data.  
-   - Include a **re‑transfer prohibition** without explicit written consent.  
+   - Include a **re‑transfer prohibition** without explicit written consent.
+  
+These measures prevent and contain any non-intentional crossover.  
 
-3. **Equality and perception.**  
+Further, these measures promote good data hygiene practice, which cascades to other areas of compliance and data safeguards.  
+
+If any harms or incidents occur, these measures provide a clear documentation trail to audit when establishing root-causes and analysing any systemic failures.  
+
+4. **Equality and perception.**  
 For Jewish or Israeli‑heritage data subjects in the UK, these safeguards are not symbolic.
-For Palestinian or Palestinian-decendant data subjects in the UK, these safeguards are even more important, due not only to the inherent power imbalance afforded by apratheid, but also the incentive for the Israeli state to permenantly interrupt any legal claim to Palestinian land; the course of conduct of the escalation of the genocide from 2023 onwards, shows what appears to be a structured attempt to erase entire family lineages, as well as whole categories of intellectuals, professionals, and cultural leaders. This behaviour is not just inherent to genocidal intent and process across time, but also interrupts what is nearly a century of structured legal action from Palestinian individuals and Palestinian civil society as a whole, to seek legal redress under British colonial, Israeli, and international legal systems.  
-They ensure that individuals are protected from the structural assumption — common in Israeli state frameworks — that all Jewish data, and all Palestinian data, is automatically part of the Israeli national corpus. 
+
+For Palestinian or Palestinian-decendant data subjects in the UK, these safeguards are even more important, due not only to the inherent power imbalance afforded by apratheid, but also the incentive for the Israeli state to permenantly interrupt any legal claim to Palestinian land; the course of conduct of the escalation of the genocide from 2023 onwards, shows what appears to be a structured attempt to erase entire family lineages, as well as whole categories of intellectuals, professionals, and cultural leaders.
+
+This behaviour is not just inherent to genocidal intent and process across time, but also interrupts what is nearly a century of structured legal action from Palestinian individuals and Palestinian civil society as a whole, to seek legal redress under British colonial, Israeli, and international legal systems.  
+
+They ensure that individuals are protected from the structural assumption — common in Israeli state frameworks — that all Jewish data, and all Palestinian data, is automatically part of the Israeli national corpus.  
+
 Failing to implement safeguards can therefore constitute *indirect discrimination* under **s.149 Equality Act 2010**.  
 
-But if you need to hear a white British Jew say it? Yes. You are inherently discriminating against me as a data subject to ignore this security concern, and you are directly undermining my lived reality in a world where I am assumed loyal to a particular legal entity, simply because I am a Jew.  
+But if you need to hear a white British Jew say it?  
+Yes. You are inherently discriminating against me as a data subject to ignore this security concern.  
 
-**You should take even more care about Palestinian and Palestinian-descent data subjects, as they are exposed to and at risk of genocide** by declared provisional measures of the ICJ, and you owe a particular due diligence to **protect them from real-time genocide, both in- and outside the core location of that genocide**.  
+**You should take even more care about Palestinian and Palestinian-descent data subjects, as they are exposed to and are at active risk of genocide** as per declared provisional measures of the ICJ, and you owe a particular due diligence to **protect them from real-time genocide, both in- and outside the core location of that genocide**.  
+
+The Convention on the Prevention and Punishment of the Crime of Genocide holds not just states, but also all levels of society down to private individuals, for the crimes described. This includes but is not limited to material support for those reasonably believed to be perpetrating genocide.  
 
 This is a due diligence issue. It is not rocket science.  
 
 5. **Institutional duty.**  
-If the MOU or contract does not specify these safeguards, legal counsel for the UK signatory must request amendment or clarification before any data transfer occurs.  
+If the MOU or contract does not specify these safeguards, legal counsel for the UK signatory must request amendment or clarification before any data transfer occurs.
+
 The responsibility rests with the UK controller, not with the foreign partner.  
+
+Contract violations and harms may be handled under civil law and torts, respectfully.  
+
+This contributes to predictable precedent for future MOUs with other foreign partners, which reduces global risk index for underwriting and contracting as a whole.  
 
 ---
 
-## 💡 Summary Statement  
+## 🌖 Summary Statement  
 
 Recognising the difference between goodwill and governance is essential.  
+
 Even when collaboration is benign, divergent legal defaults can convert protected UK personal data into state property elsewhere.  
+
 The safeguard is not a judgment about identity—it is a compliance requirement.  
 
 ---
