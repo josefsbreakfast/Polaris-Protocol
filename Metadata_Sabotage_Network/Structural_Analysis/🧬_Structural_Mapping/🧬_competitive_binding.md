@@ -1,6 +1,6 @@
 # 🧬 Competitive Binding — When the Older Signal Has Resources  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*Power saturates first; strength follows resources.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-15  
+*Power saturates first; strength follows resources.*  
 
 ---
 
@@ -75,10 +75,10 @@ competitive binding, power asymmetry, resource capacity, allosteric modulation, 
 It translates biochemical competition into media and governance strategy, showing how resource-rich actors maintain dominance through saturation and how smaller signals adapt by evolving new pathways.  
 
 > 📡 Cross-references:  
-> – [🧬 Selective Permeability — Navigating Power-Weighted Signals Online](./🧬_selective_permeability_navigating_power-weighted_signals_online.md)  
-> – [🧬 Signal Steering — Downstream Tactics for Power-Weighted Inputs](./🧬_signal_steering_downstream_tactics_for_power-weighted_inputs.md)  
-> – [🌪 Field Conditioning — Rewriting the Medium of Influence](./🌪_field_conditioning_rewriting_the_medium_of_influence.md)
+> – [🧬 Selective Permeability — Navigating Power-Weighted Signals Online]  
+> – [🧬 Signal Steering — Downstream Tactics for Power-Weighted Inputs]  
+> – [🌪 Field Conditioning — Rewriting the Medium of Influence]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-15_
