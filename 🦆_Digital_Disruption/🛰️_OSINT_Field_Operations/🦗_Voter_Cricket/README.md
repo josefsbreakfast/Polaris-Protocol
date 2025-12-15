@@ -1,5 +1,5 @@
 # 🎟️ Election Audit & Behavioural Oversight  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
 *Citizen-led infrastructure for auditing electoral data use, behavioural targeting, and democratic integrity in the UK.*  
 
 ---
@@ -115,10 +115,7 @@ It embodies a citizen-forensic approach to democratic systems — pairing open d
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Legal State Governance](../README.md)  
-> - [🌀 System Governance](../../README.md)  
-> - [🧭 Citizen Audit — Behavioural Data in Elections](./🧭_citizen_audit_behavioural_data_in_elections.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-12-15_
