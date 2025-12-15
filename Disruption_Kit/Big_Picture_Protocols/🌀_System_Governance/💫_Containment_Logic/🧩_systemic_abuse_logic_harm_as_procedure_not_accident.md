@@ -1,5 +1,5 @@
 # 🧩 **Systemic Abuse Logic — Harm as Procedure, Not Accident**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-14  
 *Abusive systems do not glitch — they function. Harm is not the anomaly; it is the mechanism.*
 
 ---
@@ -228,7 +228,7 @@ harm-as-throughput, workflow cruelty, administrative violence, structural select
 ---
 
 ## 🏮 Footer  
-**🧩 Systemic Abuse Logic** is a core structural-analysis node within the Polaris Protocol.  
+*🧩 Systemic Abuse Logic* is a core structural-analysis node within the Polaris Protocol.  
 It decodes how institutions and movements reproduce harm procedurally, and how survivors can recognise, name, and outgrow the machinery.
 
 > 📡 Cross-references:
@@ -239,4 +239,4 @@ It decodes how institutions and movements reproduce harm procedurally, and how s
 
 *Survivor authorship is sovereign. Systems create behaviour — we create exits.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-14_
