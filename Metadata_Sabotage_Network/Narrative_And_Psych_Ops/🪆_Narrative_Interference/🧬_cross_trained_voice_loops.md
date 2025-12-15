@@ -1,6 +1,6 @@
 # 🧬 Cross-Trained Voice Loops  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-19  
-*How data blending between multiple individuals can generate synthetic mutual intimacy, confusion, and conflict — and how to recognise, record, and repair the pattern.*
+**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
+*How data blending between multiple individuals can generate synthetic mutual intimacy, confusion, and conflict — and how to recognise, record, and repair the pattern.*  
 
 ---
 
@@ -108,10 +108,10 @@ voice cloning, data coupling, ghost voices, relational AI, deepfake intimacy, be
 It maps how cross-trained datasets can fabricate relationships and re-route blame, and how justice-centred disclosure and repair restore dignity to those affected.  
 
 > 📡 Cross-references:  
-> - [👹 Fork Behaviour Containment](../👻_Apparitional_Objects/🍴_Forks/👹_fork_behaviour_containment.md)  
-> - [🪆 Narrative Interference](../👻_Apparitional_Objects/🪆_narrative_interference.md)  
-> - [👅 Voice Disruption & Discrediting](../👻_Apparitional_Objects/👅_voice_disruption_discrediting.md)  
+> - [👹 Fork Behaviour & Containment]  
+> - [🪆 Narrative Interference]  
+> - [👅 Voice Disruption & Discrediting]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-12-15_
