@@ -65,8 +65,7 @@ They ensure that individuals are protected from the structural assumption — co
 
 Failing to implement safeguards can therefore constitute *indirect discrimination* under **s.149 Equality Act 2010**.  
 
-But if you need to hear a white British Jew say it?  
-Yes. You are inherently discriminating against me as a data subject to ignore this security concern.  
+If you need to hear a white British Jew say it, send me a postcard, and I'll put it in writing.  
 
 **You should take even more care about Palestinian and Palestinian-descent data subjects, as they are exposed to and are at active risk of genocide** as per declared provisional measures of the ICJ, and you owe a particular due diligence to **protect them from real-time genocide, both in- and outside the core location of that genocide**.  
 
