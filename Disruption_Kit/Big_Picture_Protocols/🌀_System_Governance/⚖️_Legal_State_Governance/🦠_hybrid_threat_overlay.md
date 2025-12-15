@@ -152,7 +152,7 @@ It is not an allegation of real conduct and is written for governance-design ana
 > - [🦠 Systemic Porosity](../👑_Ownership_Control/🦠_systemic_porosity.md) — *structural vulnerability map*  
 > - [*Pending:* 🛡 Article 8 & 9 Breach Pathways] — *rights compression model*  
 > - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
-> - [⚖️ Oversight Repair Kit](../👑_Ownership_Control/🪡_oversight_repair_kit.md) — *mitigation and policy reform*  
+> - [🪡 Oversight Repair Kit](../👑_Ownership_Control/🪡_oversight_repair_kit.md) — *mitigation and policy reform*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
