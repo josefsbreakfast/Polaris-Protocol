@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 10:37:59 UTC_
+_Generated on 2025-12-15 12:33:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3208,6 +3208,7 @@ _Generated on 2025-12-15 10:37:59 UTC_
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🛠️_frankenstack_failure_modes_in_public_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🛠️_frankenstack_failure_modes_in_public_systems.md)
+      - [`🛰️_attribution_israel_style_mismatch.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🛰️_attribution_israel_style_mismatch.md)
       - [`🦤_signal_collapse.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🦤_signal_collapse.md)
       - [`🧟‍♀️_prevents_frankenstack_architecture.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧟‍♀️_prevents_frankenstack_architecture.md)
       - [`🧠_skillsets_required_for_environmental_sabotage.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧠_skillsets_required_for_environmental_sabotage.md)
