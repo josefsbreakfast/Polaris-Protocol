@@ -1,6 +1,5 @@
-# 🧩 Twinning as Reputation Repair  
-**First created:** 2025-11-12  |  **Status:** Draft — Stub Node  
-*Authored by Polaris Systems & Governance Working Group*  
+# 🧬 Twinning as Reputation Repair  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-15  
 
 ---
 
@@ -17,3 +16,5 @@ Shows how bridge-building or diversity partnerships are marketed as reputation r
 
 ## 🏮 Footer  
 *Stub — expand as needed within Polaris archive.*  
+
+_Last updated: 2025-12-15_
