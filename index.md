@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:36:52 UTC_
+_Generated on 2025-12-15 01:38:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3249,6 +3249,7 @@ _Generated on 2025-12-15 01:36:52 UTC_
       - [`🧬_centroid_overweighting_problem.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_centroid_overweighting_problem.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_collocative_deintegrity.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_collocative_deintegrity.md)
+      - [`🧬_competitive_binding.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_competitive_binding.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
       - [`🧬_data_correction_notices.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
       - [`🧬_deliberate_data_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_data_twinning.md)
@@ -3636,7 +3637,6 @@ _Generated on 2025-12-15 01:36:52 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_competitive_binding.md`](Polaris_Nest/Git_Intake_Drawer/🧬_competitive_binding.md)
     - [`🧬_complaint_drift_and_twin_overcorrection.md`](Polaris_Nest/Git_Intake_Drawer/🧬_complaint_drift_and_twin_overcorrection.md)
     - [`🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md`](Polaris_Nest/Git_Intake_Drawer/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
