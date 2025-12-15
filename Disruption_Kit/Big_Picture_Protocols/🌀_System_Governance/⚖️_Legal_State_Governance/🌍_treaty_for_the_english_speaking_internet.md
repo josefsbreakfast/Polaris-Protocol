@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 The Anglophone web has become functionally polluted.  
 Everyday users now navigate a maze of cookie banners, redirect chains, SEO sludge, and fraudulent storefronts just to buy a sponge with ink.  
 The experience gap between ordinary citizens and elite digital users has widened so far that **trust itself has collapsed as infrastructure**.
@@ -13,7 +13,7 @@ This node argues for a **treaty among English-speaking nations** — a cooperati
 
 ---
 
-## 🧩 Core Proposal  
+## ✨ Core Proposal  
 
 ### 1.  🧱  Federation of Responsibility  
 A compact among major English-speaking nations (UK, Canada, Australia, New Zealand, Ireland, the U.S., etc.)  
