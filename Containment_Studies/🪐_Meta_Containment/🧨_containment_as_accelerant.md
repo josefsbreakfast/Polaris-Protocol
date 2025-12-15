@@ -1,17 +1,17 @@
 # 🧨 Containment as Accelerant  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-15  
 *Why patching toxic systems without changing their architecture concentrates extremity instead of curing it.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Every time a moderation or counter-extremism system “patches” itself by removing problematic users, the remaining population becomes statistically more extreme.  
 Containment acts like purification: the algorithmic pool shrinks, hostility density rises, and engagement logic optimises around what’s left.  
 What was meant as safety becomes acceleration.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Patch-repair paradox:** fixing toxicity raises its concentration.  
 - **4chanisation vector:** irony and grievance fuse into entertainment.  
 - **Learned correctness:** people misapply normal social reasoning to algorithmic feedback.  
@@ -19,29 +19,32 @@ What was meant as safety becomes acceleration.
 
 ---
 
-## 🔍 Analysis  
-
-### ⚙️ 1. The Patch-Repair Paradox  
+## ⚙️ The Patch-Repair Paradox  
 Moderation removes the persuadable and the bored.  
-Each cycle filters the group toward those most invested in hostility or identity defence.  
-The algorithm, trained on engagement, then treats this smaller, harsher audience as its optimisation goal.  
-Toxicity becomes the KPI.
 
-### 🧠 2. The 4chanisation Vector  
+Each cycle filters the group toward those most invested in hostility or identity defence.  
+
+The algorithm, trained on engagement, then treats this smaller, harsher audience as its optimisation goal.  
+
+Toxicity becomes the KPI.  
+
+## 🧠 The 4chanisation Vector  
 When users realise they’re being observed, two archetypes remain:  
 - **The true-believer**, who interprets moderation as persecution.  
 - **The ironist**, who stays “for the lols.”  
 Together they create affective anarchy — a space where cruelty and humour merge, and every safety intervention becomes new content.
 
-### 🧩 3. Learned Correctness — Why Misinterpretation Feels Rational  
+## 🎏 Learned Correctness — Why Misinterpretation Feels Rational  
 People assume relational causality because that’s what platforms teach them:  
 if you add a friend, you see their posts; if you search a topic, it follows you.  
+
 So when a CVE or moderation system behaves relationally — surfacing familiar names, voices, or themes — it triggers normal social inference.  
-The belief *“this must be someone I know”* is not delusion; it’s the algorithm impersonating friendship.
+
+The belief *“this must be someone I know”* is not delusion; it’s the algorithm impersonating friendship.  
 
 ---
 
-## 🪞 4. Systemic Consequences  
+## 🩸 Systemic Consequences  
 - **Hard-core enclave formation:** only extremists and ironists remain active.  
 - **Reputational contagion:** the entire community becomes stigmatised.  
 - **Model feedback:** training data skews further toward volatility.  
@@ -49,7 +52,7 @@ The belief *“this must be someone I know”* is not delusion; it’s the algor
 
 ---
 
-## 🛠️ 5. Mitigation and Design Shifts  
+## 🔬 Mitigation and Design Shifts  
 | Objective | Intervention | Description |
 |------------|---------------|--------------|
 | **Diversity seeding** | Periodically inject unrelated, non-polarised content | Prevents total echo saturation |
@@ -60,11 +63,14 @@ The belief *“this must be someone I know”* is not delusion; it’s the algor
 
 ---
 
-## 🧭 6. Conceptual Takeaway  
+## 🕸️ Conceptual Takeaway  
 Containment is not neutral.  
+
 It behaves like a centrifuge: every removal increases the concentration of what remains.  
+
 Unless the system continuously re-mixes its cultural chemistry, the residue *is* the culture.  
-Safety without renewal becomes radicalisation by design.
+
+Safety without renewal becomes radicalisation by design.  
 
 ---
 
@@ -79,15 +85,15 @@ containment, extremism, 4chanisation, feedback loops, algorithmic culture, moder
 ---
 
 ## 🏮 Footer  
-*Containment as Accelerant* is a living node of the Polaris Protocol.  
+*🧨 Containment as Accelerant* is a living node of the Polaris Protocol.  
 It examines how moderation and counter-extremism frameworks unintentionally intensify the behaviours they seek to suppress by purifying their own datasets.  
 
 > 📡 Cross-references:
 > 
-> - [🐍 Algorithmic Hostage Logic] — stabilisers trapped inside volatility loops  
-> - [📊 Risk Scaling of Algorithmic Misidentification] — statistical scaling and governance failure  
-> - [🕸️ Gendered Harms from Counter-Extremism Algorithms] — systemic misclassification of advocacy  
+> - [🐍 Algorithmic Hostage Logic](../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md) — *stabilisers trapped inside volatility loops*  
+> - [📊 Risk Scaling of Algorithmic Misidentification](../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scaling_algorithmic_misidentification.md) — *statistical scaling and governance failure*  
+> - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — *systemic misclassification of advocacy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
