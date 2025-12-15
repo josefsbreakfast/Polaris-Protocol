@@ -1,6 +1,6 @@
 # 🚨 Red Flags of Authoritarian Capture in Policing  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
-*A pattern-based early warning checklist for detecting authoritarian drift in policing before it becomes overt.*
+**First created:** 2025-12-13 | **Last updated:** 2025-12-15  
+*A pattern-based early warning checklist for detecting authoritarian drift in policing before it becomes overt.*  
 
 ---
 
@@ -142,14 +142,15 @@ authoritarian capture, policing red flags, early warning signs, selective enforc
 
 ## 🏮 Footer  
 
-*Red Flags of Authoritarian Capture in Policing* is a living tool within the **Polaris Protocol**.  
+*🚨 Red Flags of Authoritarian Capture in Policing* is a living tool within the **Polaris Protocol**.  
 It provides a practical, pattern-based framework for detecting early-stage institutional drift before overt authoritarian control is established.
 
 > 📡 Cross-references:
-> - 🪖 *Authoritarian Capture of Policing Institutions* — structural analysis  
-> - ⚖️ *Schmittian Logic in Policing Practice* — threshold collapse  
-> - 🧠 *Ethical Attrition via Asymmetric Burden* — exit dynamics  
+> 
+> - [🪖 Authoritarian Capture of Policing Institutions](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md) - *structural analysis*  
+> - [⚖️ Schmittian Logic in Policing Practice](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md) - *threshold collapse*  
+> - [🧠 Ethical Attrition via Asymmetric Burden](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_ethical_attrition_via_asymmetric_burden.md) - *exit dynamics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-15_
