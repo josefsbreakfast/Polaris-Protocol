@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:19:57 UTC_
+_Generated on 2025-12-15 01:21:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -833,6 +833,7 @@ _Generated on 2025-12-15 01:19:57 UTC_
           - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
           - [`🔮_magical_thinking_as_an_economic_operating_system.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🔮_magical_thinking_as_an_economic_operating_system.md)
           - [`🚀_arms_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🚀_arms_transparency.md)
+          - [`🧪_think_tanks_and_their_funding_2010_2016.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧪_think_tanks_and_their_funding_2010_2016.md)
         - [**🚀_Dual_Use_Dualities/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/README.md)
           - [`🍯_honeybot_dual_use_thought_experiment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md)
@@ -3622,7 +3623,6 @@ _Generated on 2025-12-15 01:19:57 UTC_
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
-    - [`🧪_think_tanks_and_their_funding_2010_2016.md`](Polaris_Nest/Git_Intake_Drawer/🧪_think_tanks_and_their_funding_2010_2016.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧫_the_default_on_being_unbroken.md`](Polaris_Nest/Git_Intake_Drawer/🧫_the_default_on_being_unbroken.md)
