@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 00:50:22 UTC_
+_Generated on 2025-12-15 00:51:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -327,6 +327,7 @@ _Generated on 2025-12-15 00:50:22 UTC_
         - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_risk_vector_inversions_in_authoritarian_systems.md)
         - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_swiss_cheese_failures_when_process_holes_align.md)
         - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
+        - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🩹_pain_is_not_a_kpi.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_pain_is_not_a_kpi.md)
@@ -3604,7 +3605,6 @@ _Generated on 2025-12-15 00:50:22 UTC_
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
-    - [`🧩_the_autonomy_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_autonomy_paradox.md)
     - [`🧩_the_data_empathy_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_data_empathy_gap.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_politic_is_no_longer_heard.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_politic_is_no_longer_heard.md)
