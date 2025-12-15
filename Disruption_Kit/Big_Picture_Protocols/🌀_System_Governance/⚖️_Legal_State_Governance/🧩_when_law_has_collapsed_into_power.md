@@ -27,7 +27,7 @@ This tool diagnoses **conditions**, not intent.
 
 ---
 
-## 🧩 How to Use This Checklist  
+## ✨ How to Use This Checklist  
 
 - This is not a binary test.  
 - No single indicator is decisive.  
