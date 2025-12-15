@@ -1,5 +1,5 @@
 # 🕰️ Citizen Follow-Up Timeline — Restoring Safety and Trust After a Security Breach  
-**First created:** 2025-10-26 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-26 | **Last updated:** 2025-12-15  
 *When the system works: how government should maintain contact, care, and closure with a citizen affected by digital interference.*  
 
 ---
@@ -89,10 +89,10 @@ It defines the humane sequence that should follow any verified security incident
 
 > 📡 Cross-references:
 > 
-> - [🧩 Ideal Whitehall Response Sequence]  
-> - [🧿 Oversight Paralysis — When Allies Breach the Firewall]  
-> - [📨 FOI Safeguards Against Allied Cybersecurity Abuse]  
+> - [🧩 Ideal Whitehall Response Sequence](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md) - *how one might think Cabinet would respond to concerns where there is no other clear oversight*  
+> - [*Pending:* 🧿 Oversight Paralysis — When Allies Breach the Firewall] - *good relations require checking-in and revalidating consent*  
+> - [📨 FOI Safeguards Against Allied Cybersecurity Abuse](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/📨_foi_safeguards_against_allied_cybersecurity_abuse.md) - *protecting citizens in an increasingly hostile world*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-15_
