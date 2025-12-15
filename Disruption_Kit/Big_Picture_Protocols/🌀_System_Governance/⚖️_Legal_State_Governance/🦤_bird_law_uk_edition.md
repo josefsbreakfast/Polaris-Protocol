@@ -1,5 +1,5 @@
 # ⚖️ Bird Law in the UK  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-27 | **Last updated:** 2025-12-15  
 *On the peculiar overlaps and inconsistencies in UK animal husbandry law.*  
 
 ---
@@ -28,7 +28,7 @@ What results is a strange territory of “bird law” where the legal map does n
 
 ## 🏮 Footer  
 
-*Bird Law in the UK* is a living node of the Polaris Protocol.  
+*🦤 Bird Law in the UK* is a living node of the Polaris Protocol.  
 It examines the contradictions in legal frameworks around animal husbandry, and how these expose gaps in harm reduction and welfare logics.  
 
 > 📡 Cross-references:
@@ -38,4 +38,4 @@ It examines the contradictions in legal frameworks around animal husbandry, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
