@@ -1,6 +1,6 @@
 # ⚖️ Redress Models and Limits  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-18  
-*Learning from UK precedents to frame hybrid compensation for systemic harms.*
+**First created:** 2025-09-26 | **Last updated:** 2025-12-15  
+*Learning from UK precedents to frame hybrid compensation for systemic harms.*  
 
 ---
 
@@ -49,15 +49,15 @@ compensation models, hybrid redress, tariff systems, tribunal appeals, systemic 
 
 ## 🏮 Footer  
 
-*Redress Models and Limits* is a Big Picture Protocol node of the Polaris Protocol.  
+*⚖️ Redress Models and Limits* is a Big Picture Protocol node of the Polaris Protocol.  
 It documents why hybrid models are suitable for systemic data-twin/false-provenance harms — blending justice, feasibility, and survivor integrity.
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md)  
-> - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md)  
-> - [💷 Survivor Costing Estimate](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md)
+> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) - *looking at the economic and civil case for systematic review*  
+> - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md) - *specifc impacts and pressures on the workers with professional registrations*  
+> - [💷 Survivor Costing Estimate](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md) - *a rough costing of one survivor of "reputation management" by containment*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
