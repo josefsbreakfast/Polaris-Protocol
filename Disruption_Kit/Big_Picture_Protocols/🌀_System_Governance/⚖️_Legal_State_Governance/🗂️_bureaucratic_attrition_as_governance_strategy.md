@@ -1,5 +1,5 @@
 # 🗂️ Bureaucratic Attrition as Governance Strategy  
-**First created:** 2025-10-17 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-17 | **Last updated:** 2025-12-15  
 *When delay and exhaustion become instruments of control.*
 
 ---
@@ -35,7 +35,7 @@ The most vulnerable — those least able to withstand exhaustion — are filtere
 ---
 
 ## 🌌 Constellations  
-⚖️ administrative justice 📠 documentation loops 🧭 systemic fatigue 💼 governance by delay  
+⚖️ 📠 🧭 💼  
 
 ---
 
@@ -47,4 +47,4 @@ attrition, opacity, process drag, accountability gap, systemic exhaustion
 ## 🏮 Footer  
 *🗂️ Bureaucratic Attrition as Governance Strategy* is a live analytical node of the **Polaris Protocol**, describing how delay becomes a form of quiet power and how persistence itself becomes resistance.  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2025-12-15_  
