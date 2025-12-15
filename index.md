@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 21:35:39 UTC_
+_Generated on 2025-12-15 21:37:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -106,7 +106,6 @@ _Generated on 2025-12-15 21:35:39 UTC_
         - [`⏳_governance_latency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_governance_latency.md)
         - [`⏳_hinge_point_when_delay_becomes_liability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_hinge_point_when_delay_becomes_liability.md)
         - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
-        - [`⚖️_case_note_dr_b_v_gmc_2023.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_case_note_dr_b_v_gmc_2023.md)
         - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)
         - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
@@ -854,6 +853,7 @@ _Generated on 2025-12-15 21:35:39 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
         - [`♻️_data_exhaust_uk_law.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md)
         - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
+        - [`⚖️_case_note_dr_b_v_gmc_2023.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_case_note_dr_b_v_gmc_2023.md)
         - [`⚖️_data_bill_peers_bill_genocide_duties.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
         - [`⚖️_differential_proportionality.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_differential_proportionality.md)
         - [`⚖️_kkl_court_of_protection_case_2020.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_kkl_court_of_protection_case_2020.md)
