@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 09:42:26 UTC_
+_Generated on 2025-12-15 09:49:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2792,6 +2792,9 @@ _Generated on 2025-12-15 09:42:26 UTC_
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
+  - [**Data_Risks/**](Metadata_Sabotage_Network/Data_Risks/)
+    - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/Data_Risks/📿_Vulnerable_Data_Populations/)
+      - [`🧾_student_data_abuse.md`](Metadata_Sabotage_Network/Data_Risks/📿_Vulnerable_Data_Populations/🧾_student_data_abuse.md)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md)
@@ -3749,7 +3752,6 @@ _Generated on 2025-12-15 09:42:26 UTC_
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
     - [`🧾_procurement_fragility.md`](Polaris_Nest/Git_Intake_Drawer/🧾_procurement_fragility.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
-    - [`🧾_student_data_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧾_student_data_abuse.md)
     - [`🧾_the_system_already_has_a_story_about_you.md`](Polaris_Nest/Git_Intake_Drawer/🧾_the_system_already_has_a_story_about_you.md)
     - [`🧿_atrocity_pattern_recognition_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧿_atrocity_pattern_recognition_toolkit.md)
     - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](Polaris_Nest/Git_Intake_Drawer/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
