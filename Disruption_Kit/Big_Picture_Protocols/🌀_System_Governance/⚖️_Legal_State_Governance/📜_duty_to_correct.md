@@ -1,6 +1,6 @@
 # 📜 Duty to Correct: How Public Bodies Must Fix Wrong Data  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
-*Why the right to correction is foundational to democratic participation — and how the absence of robust correction mechanisms enables misinterpretation, drift, and long-term bureaucratic harm.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-15  
+*Why the right to correction is foundational to democratic participation — and how the absence of robust correction mechanisms enables misinterpretation, drift, and long-term bureaucratic harm.*  
 
 ---
 
@@ -184,9 +184,10 @@ It restores dignity and ends punitive misremembering.
 *📜 Duty to Correct: How Public Bodies Must Fix Wrong Data* anchors Polaris’ data-rights architecture.  
 It frames correction not as clerical nicety but as essential civic infrastructure — the foundation of democratic identity integrity.
 
-Crosslinks:  
-- 📛 *bureaucratic_memory_failure_and_identity_contamination*  
-- 📡 *cross-system_metadata_echo_chains*  
-- 🗃️ *safeguarding_logic_mission_creep_and_identity_pathologising*
+> 📡 Cross-references:
+> 
+> - [📛 Bureaucratic Memory Failure & Identity Contamination](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md) - *how systems misremember people*  
+> - [📡 Cross-System Metadata Echo Chains](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md) - *how data slips between systems, creating falsity and inaccuracy in records*  
+> - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2025-12-15_
