@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:05:19 UTC_
+_Generated on 2025-12-15 01:08:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -735,6 +735,7 @@ _Generated on 2025-12-15 01:05:19 UTC_
         - [`🧨_spectacle_of_raids.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_spectacle_of_raids.md)
         - [`🧨_the_pua_to_fascist_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_the_pua_to_fascist_pipeline.md)
         - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
+        - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_why_the_left_looks_scary_during_deradicalisation.md)
         - [`🧮_behavioural_risk_scoring_and_internet_triage_systems.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_behavioural_risk_scoring_and_internet_triage_systems.md)
         - [`🧮_datafication_as_risk_vector.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_datafication_as_risk_vector.md)
         - [`🧾_rehabilitation_ops.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧾_rehabilitation_ops.md)
@@ -3614,7 +3615,6 @@ _Generated on 2025-12-15 01:05:19 UTC_
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
-    - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_left_looks_scary_during_deradicalisation.md)
     - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_machine_tags_high_friction_profiles.md)
     - [`🧪_bad_procurement_as_a_security_vector.md`](Polaris_Nest/Git_Intake_Drawer/🧪_bad_procurement_as_a_security_vector.md)
     - [`🧪_how_scientists_go_nazi.md`](Polaris_Nest/Git_Intake_Drawer/🧪_how_scientists_go_nazi.md)
