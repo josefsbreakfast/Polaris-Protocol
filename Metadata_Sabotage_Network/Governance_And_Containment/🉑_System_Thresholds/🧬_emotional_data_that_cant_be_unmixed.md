@@ -1,6 +1,6 @@
 # 🧬 Containment Thresholds — Emotional Data That Can’t Be Unmixed  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*Where emotional telemetry becomes structural and cannot be separated without collapse.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-15  
+*Where emotional telemetry becomes structural and cannot be separated without collapse.*  
 
 ---
 
@@ -87,9 +87,9 @@ containment threshold, emotional fusion, irreversibility, model embedding, moral
 It defines the ethical and forensic limit at which emotional data cannot be separated from the systems they inform, proposing witness and transparency as the only viable responses to structural entanglement.
 
 > 📡 Cross-references:  
-> - [🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage](../Big_Picture_Protocols/🪞_synthetic_persona_audit_mapping_cross_profile_emotional_leakage.md) — evidencing fusion and leakage before the threshold.  
-> - [🕸️ Practical Irreversibility — When Feedback Becomes Architecture](../Big_Picture_Protocols/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md) — systemic consequences once containment becomes structure.  
+> - [🪞 Synthetic Persona Audit — Mapping Cross-Profile Emotional Leakage] — evidencing fusion and leakage before the threshold.  
+> - [🕸️ Practical Irreversibility — When Feedback Becomes Architecture] — systemic consequences once containment becomes structure.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-15_
