@@ -1,6 +1,6 @@
 # 🧩 The Politic Is No Longer Heard  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*On the vanishing feedback loop between public life and political hearing.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-15  
+*On the vanishing feedback loop between public life and political hearing.*  
 
 ---
 
@@ -67,9 +67,9 @@ representation, civic repair, feedback loops, algorithmic hearing, democracy, ci
 It analyses the structural disappearance of direct democratic hearing and the rise of datafied listening that obscures public voice.
 
 > 📡 Cross-references:  
-> - [🌀 Systems & Governance](../Big_Picture_Protocols/🌀_systems_&_governance/)  
-> - [🪖 Home Front 2.0](../Digital_Disruption/🪖_home_front_2.0/)  
+> - [🌀 Systems & Governance]  
+> - [🪖 Home Front 2.0]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2025-12-15_
