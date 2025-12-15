@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:23:59 UTC_
+_Generated on 2025-12-15 01:25:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -966,6 +966,7 @@ _Generated on 2025-12-15 01:23:59 UTC_
         - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_from_diffusion_to_forum_cross_pollination.md)
         - [`🧩_great_replacement_as_multigroup_elimination_myth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_great_replacement_as_multigroup_elimination_myth.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
+        - [`🧬_affective_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_affective_infrastructure.md)
         - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
         - [`🪞_gitmo_as_western_moral_rupture.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_gitmo_as_western_moral_rupture.md)
@@ -3627,7 +3628,6 @@ _Generated on 2025-12-15 01:23:59 UTC_
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
-    - [`🧬_affective_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧬_affective_infrastructure.md)
     - [`🧬_algorithmic_iatrogenesis_and_reflex_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_algorithmic_iatrogenesis_and_reflex_loops.md)
     - [`🧬_ambient_data_exhaust.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ambient_data_exhaust.md)
     - [`🧬_centroid_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_collapse.md)
