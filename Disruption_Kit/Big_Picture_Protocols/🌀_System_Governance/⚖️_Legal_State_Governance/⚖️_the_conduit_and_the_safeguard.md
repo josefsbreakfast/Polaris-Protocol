@@ -7,6 +7,7 @@
 ## 🛰️ Orientation  
 
 This note clarifies why a data pathway that includes **Israeli‑jurisdiction processors or researchers** requires *additional procedural safeguards* under UK law, regardless of intent or goodwill.  
+
 It is addressed to UK data‑protection, equality, and governance professionals who may not recognise how fundamental legal differences between the two systems affect their duties.  
 
 ---
@@ -14,7 +15,9 @@ It is addressed to UK data‑protection, equality, and governance professionals 
 ## ✨ The Structural Issue  
 
 Under **UK GDPR and the Data Protection Act 2018**, personal data belongs to the data subject.  
+
 Under **Israeli law**, particularly in defence or national‑security contexts, data created or accessed through state‑affiliated work is treated as **state property** unless contractually exempted.  
+
 This divergence means that a data conduit linking a UK institution to an Israeli partner can unintentionally reclassify UK personal data as Israeli state data once it enters that environment.  
 
 ---
@@ -37,6 +40,8 @@ The UK data controller must also ensure compliance to UK data law in safeguardin
 This is a matter of UK sovereignity.  
 
 Patriotism requires compliance.  
+
+Clarity in contracting and effective expectations management from initiation reduces any friction inherent in this process and protects all working parties in the case of any future errors, disputes, or harms.  
 
 3. **Additional safeguards.**  
    - Require **technical segregation** of UK‑origin data within joint research systems.  
