@@ -1,6 +1,6 @@
 # 🪶 Reading the Dog Whistle — Bureaucratic Language and Atrocity Risk  
-**First created:** 2025-10-17 | **Last updated:** 2025-10-17  
-*How coded language in official documents conceals intent and signals complicity.*
+**First created:** 2025-10-17 | **Last updated:** 2025-12-15  
+*How coded language in official documents conceals intent and signals complicity.*  
 
 ---
 
@@ -59,8 +59,9 @@ dog-whistle politics, bureaucratic euphemism, Wannsee Protocol, language of geno
 *🪶 Reading the Dog Whistle — Bureaucratic Language and Atrocity Risk* is a living node of the Polaris Protocol.  
 It records how language disguises violence inside ordinary paperwork and why decoding it is a civic duty.  
 
-> 📡 Cross-references:  
-> - [⚖️ Due Diligence as Moral Defence](⚖️_due_diligence_as_moral_defence.md)  
-> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](🏛️_how_genocidal_bureaucracy_operates_the_wannsee_template.md)  
+> 📡 Cross-references:
+> 
+> - [⚖️ Due Diligence as Moral Defence](./⚖️_due_diligence_as_moral_defence.md)  
+> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md)  
 
-_Last updated: 2025-10-17_
+_Last updated: 2025-12-15_
