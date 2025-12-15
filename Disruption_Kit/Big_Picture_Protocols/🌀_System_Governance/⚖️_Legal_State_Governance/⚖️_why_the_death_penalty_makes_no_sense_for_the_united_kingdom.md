@@ -105,8 +105,8 @@ It documents how capital punishment functions as moral theatre and activist cont
 > 📡 Cross‑references
 > 
 > – [⚖️ The History of Justice as Spectacle](../💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md) - *some days I am genuinely suprised that we are not yet extinct*  
-> – [🐍 Ouroborotic Violence](../../🐍_Ouroborotic_Violence/README.md) - *violence self-consumes unto its own destruction*
-> [🧠 Shame Economics — Why Visibility Breaks the Capture Loop](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_shame_economics.md) - *how to weaponise exposure of harms as a means of mooting calls for spectator violence*  
+> – [🐍 Ouroborotic Violence](../../🐍_Ouroborotic_Violence/README.md) - *violence self-consumes unto its own destruction*  
+> – [🧠 Shame Economics — Why Visibility Breaks the Capture Loop](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_shame_economics.md) - *how to weaponise exposure of harms as a means of mooting calls for spectator violence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
