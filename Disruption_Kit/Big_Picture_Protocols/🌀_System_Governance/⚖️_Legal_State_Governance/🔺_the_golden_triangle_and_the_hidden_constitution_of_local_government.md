@@ -1,5 +1,5 @@
 # 🔺 The Golden Triangle and the Hidden Constitution of Local Government  
-**First created:** 2025-11-04 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-04 | **Last updated:** 2025-12-15  
 *How three statutory roles became the quiet spine — and sometimes the choke point — of English local governance.*  
 
 ---
@@ -243,9 +243,10 @@ It contributes to the Governance Ecologies cluster by analysing how statutory sa
 
 > 📡 Cross-references:
 > 
-> - [🧼 Courtier Class in the Age of Austerity] — opportunism within hollowed institutions  
-> - [Big Picture Protocols] — systemic diagnostics and typologies  
+> - [*Pending:* 🧼 Courtier Class in the Age of Austerity] - *opportunism within hollowed institutions*  
+> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) - *the sight of an NDA you never signed*
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *the sound of an NDA you never asked for*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2025-12-15_
