@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:25:59 UTC_
+_Generated on 2025-12-15 01:29:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3206,6 +3206,7 @@ _Generated on 2025-12-15 01:25:59 UTC_
       - [`🧩_device_integrity_and_anti_jailbreak_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_device_integrity_and_anti_jailbreak_logic.md)
       - [`🧩_responsibility_differentiation_event.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_responsibility_differentiation_event.md)
       - [`🧩_when_collective_silence_fractures.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_when_collective_silence_fractures.md)
+      - [`🧬_algorithmic_iatrogenesis_and_reflex_loops.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_algorithmic_iatrogenesis_and_reflex_loops.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
       - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
       - [`🪦_memetic_hauntology.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪦_memetic_hauntology.md)
@@ -3628,7 +3629,6 @@ _Generated on 2025-12-15 01:25:59 UTC_
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
-    - [`🧬_algorithmic_iatrogenesis_and_reflex_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_algorithmic_iatrogenesis_and_reflex_loops.md)
     - [`🧬_ambient_data_exhaust.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ambient_data_exhaust.md)
     - [`🧬_centroid_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_collapse.md)
     - [`🧬_centroid_collapse_mechanism.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_collapse_mechanism.md)
