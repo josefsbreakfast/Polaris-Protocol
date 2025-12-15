@@ -1,7 +1,6 @@
-# 🔥 Post‑Catastrophe Emotional Calibration
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How prior emotional catastrophe permanently alters scale, threat perception, and capacity for intensity.*
+# 🔥 Post‑Catastrophe Emotional Calibration  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+*How prior emotional catastrophe permanently alters scale, threat perception, and capacity for intensity.*  
 
 ---
 
@@ -76,7 +75,7 @@ In reality, empathy often remains intact or deepened. What has changed is **alar
 
 ---
 
-## 🧭 Relational Implications
+## ♟️ Relational Implications
 
 This calibration gap can create asymmetry in relationships:
 
@@ -91,7 +90,7 @@ When unnamed, it can produce misunderstanding or misplaced guilt.
 
 ---
 
-## 🔄 Relationship to Burnout
+## 🔥 Relationship to Burnout
 
 Post‑catastrophe calibration does **not** prevent future burnout.
 
@@ -104,7 +103,7 @@ Recognising this distinction prevents misattributing exhaustion to emotional shu
 
 ---
 
-## 🛠️ Practical Containment
+## 🥡 Practical Containment
 
 * Name scale differences explicitly when safe to do so.
 * Avoid forcing first‑time intensity onto others.
@@ -128,14 +127,14 @@ post‑catastrophe calibration, emotional scale, intensity tolerance, trauma aft
 
 ## 🏮 Footer
 
-*Post‑Catastrophe Emotional Calibration* is a living node of the **Polaris Protocol**.
+*🔥 Post‑Catastrophe Emotional Calibration* is a living node of the **Polaris Protocol**.
 It names a non‑pathological shift in emotional scale following survival of major internal rupture, restoring clarity around calmness, humour, and capacity.
 
 > 📡 Cross‑references:
 >
-> * [🫀 Empathetic Burnout and Cognitive Exhaustion] — depletion vs fear
-> * [🪞 Audience Ambiguity and the Black Goat Problem] — orientation and scale
+> - [🫀 Empathetic Burnout and Cognitive Exhaustion](../🌙_Everyday_Containment/🫀_empathetic_burnout_and_cognitive_exhaustion.md) — *depletion vs fear*  
+> - [🪞 Audience Ambiguity and the Black Goat Problem](../../👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/🪞_audience_ambiguity_and_the_black_goat_problem.md) — *orientation and scale*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2025-12-15_
