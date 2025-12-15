@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:00:14 UTC_
+_Generated on 2025-12-15 01:00:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2960,6 +2960,7 @@ _Generated on 2025-12-15 01:00:14 UTC_
       - [`🧨_unusual_contact_misread.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_unusual_contact_misread.md)
       - [`🧩_bit_vs_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_bit_vs_prevent.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
+      - [`🧩_fueling_extremism_by_silencing_grievances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_fueling_extremism_by_silencing_grievances.md)
       - [`🧩_health_prevent_ct_data_interlock.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_health_prevent_ct_data_interlock.md)
       - [`🧩_historical_precursors.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_historical_precursors.md)
       - [`🧩_how_precrime_systems_create_crises.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_how_precrime_systems_create_crises.md)
@@ -3608,7 +3609,6 @@ _Generated on 2025-12-15 01:00:14 UTC_
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
-    - [`🧩_the_prevent_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_prevent_paradox.md)
     - [`🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
     - [`🧩_threat_surface_map.md`](Polaris_Nest/Git_Intake_Drawer/🧩_threat_surface_map.md)
