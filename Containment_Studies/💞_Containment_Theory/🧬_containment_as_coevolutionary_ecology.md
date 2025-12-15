@@ -1,17 +1,17 @@
 # 🧬 Containment as Co-evolutionary Ecology  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*Containment and resistance as adaptive organisms evolving together.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-15  
+*Containment and resistance as adaptive organisms evolving together.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Containment is never unilateral.  
 Every act of control generates adaptive behaviour in what it seeks to contain, and that adaptation, in turn, reshapes the controller.  
 Over time, both mutate — producing a **coevolutionary ecology** rather than a fixed hierarchy.  
 
 ---
 
-## 🧩 Key Dynamics  
+## ✨ Key Dynamics  
 
 - **Mutation Loop:** containment pressure accelerates variation in the containee; new forms demand new containment.  
 - **Reciprocal Drift:** both systems accumulate inherited adaptations — bureaucratic antibodies, cultural camouflage.  
@@ -44,8 +44,8 @@ It reframes containment as an adaptive ecology where every act of control alters
 > 📡 Cross-references:
 > 
 > - [⚛️ Containment as Coupled Waveform Theory](./⚛️_containment_as_coupled_waveform_theory.md)  
-> - [🪞 Containment & Détente as Temporal Governance](./🪞_containment_detente_as_temporal_governance.md)
+> - [🪞 Containment & Détente as Temporal Governance](./🪞_containment_detente_as_temporal_governance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-15_
