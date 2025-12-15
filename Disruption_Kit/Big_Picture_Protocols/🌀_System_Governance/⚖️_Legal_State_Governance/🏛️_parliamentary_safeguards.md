@@ -4,14 +4,14 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Maps the training gap inside representative democracy.  
 MPs and senior policymakers handle disclosures of violence, trauma, and discrimination daily, yet few receive formal instruction in **safeguarding, trauma-informed practice, or equality law**.  
 In almost every other public service role these are mandatory. Power, paradoxically, is the only exemption.  
 
 ---
 
-## 🧩 The Legislative Blind Spot  
+## ✨ The Legislative Blind Spot  
 Parliament designs frameworks for protection while remaining outside them.  
 No DBS checks, no survivor-communication modules, no statutory trauma training.  
 This omission creates a governance gap: those writing safeguarding law are untrained in the realities that law must serve.  
