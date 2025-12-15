@@ -197,7 +197,9 @@ It situates justice-system data failures within a broader temporal mismatch betw
 > 
 > - [🏷️ High Schedule Is System-Bound, Not Data-Bound](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🏷️_high_schedule_is_system_bound_not_data_bound.md) - *the mechanics of how unsafe rape witness testimony can be in the UK, fairly routinely*    
 > - [🧪 R&D as a Silent Leakage Corridor](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧪_r_and_d_as_silent_leakage_corridor.md) - *because you just know some bloke has thought of (or, G-d forbid, attempted to make) the [HoneyBot™](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md), such geniuses that they are*  
-> - [🩸 Structural Suppression of Rape Prosecutions](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🩸_structural_suppression_of_rape_prosecutions.md) - *and The Men™ can stop complaining until this is no longer a problem, tbqh*  
+> - [🩸 Structural Suppression of Rape Prosecutions](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🩸_structural_suppression_of_rape_prosecutions.md) - *and The Men™ can stop complaining until this is no longer a problem, tbqh*
+
+<!--Don't worry, chaps: The Women™ know that there is a >98% chance that you've made a whole fleet of niche sex robots using our likenesses. The bar would be in Hell, but Hades has standards.-->
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
