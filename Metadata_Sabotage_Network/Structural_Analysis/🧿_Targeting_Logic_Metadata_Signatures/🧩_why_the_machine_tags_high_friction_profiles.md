@@ -1,6 +1,6 @@
 # 🧩 Why the Machine Tags High-Friction Profiles  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*How optimisation systems decide that certain humans are “difficult data.”*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-15  
+*How optimisation systems decide that certain humans are “difficult data.”*  
 
 ---
 
@@ -38,4 +38,4 @@ Understanding that difference is the first safeguard against invisible containme
 ## 🏮 Footer  
 When the machine marks a person as frictional, it’s asking for a human conversation it cannot conduct.
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-15_
