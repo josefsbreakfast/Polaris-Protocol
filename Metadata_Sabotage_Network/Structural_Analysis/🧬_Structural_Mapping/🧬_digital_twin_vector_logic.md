@@ -1,6 +1,6 @@
 # 🧬 Digital Twin Vector Logic  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How data systems create behavioural ‘twins,’ combine them into centroids, and generate synthetic personas that behave like statistical offspring.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-15  
+*How data systems create behavioural ‘twins,’ combine them into centroids, and generate synthetic personas that behave like statistical offspring.*  
 
 ---
 
@@ -194,3 +194,5 @@ It links to:
 - **PR Simulation Breakdown**
 
 Together they map how computational systems mis-handle outlier humans by trying to fuse them into something “simpler” — and how that simplification eventually fails.
+
+_Last updated: 2025-12-15_
