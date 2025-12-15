@@ -1,6 +1,6 @@
 # 🍞 Why Food Safety Is Aggressively Regulated  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
-*What population-scale harm teaches us about regulation, bad actors, and inevitability.*
+**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+*What population-scale harm teaches us about regulation, bad actors, and inevitability.*  
 
 ---
 
@@ -153,10 +153,10 @@ It uses historical precedent to explain why large-scale harm systems cannot rely
 
 > 📡 Cross-references:
 > 
-> - [🧠 Qualitative Harm in Quantitative Systems](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *governance mismatch*  
-> - [🪼 Interaction Drift & Safety Layer Erosion](../../../../Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md) — *cumulative risk*  
-> - [📂 Emergent Litigation: AI, Language & Psychological Harm] — *reality anchor*  
+> - [🧠 Qualitative Harm in Quantitative Systems](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *governance mismatch of value vs volume*  
+> - [🪼 Interaction Drift & Safety Layer Erosion](../../../../Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md) — *cumulative risk when using common AI chatbots*  
+> - [📂 Emergent Litigation: AI, Language & Psychological Harm](../🛰️_Infrastructure_Procurement/📂_emergent_litigation_ai_language_psychological_harm.md) - *because someone always gets hurt when an entire industry's vibes are "move fast and break things"*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-15_
