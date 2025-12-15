@@ -21,7 +21,7 @@ the necessary noise that keeps a living system alive.
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 **Containment Theory** begins where Feynman left off — with the recognition that what appears stable is only **practically determined**, not truly fixed.  
 Just as classical physics concealed uncertainty inside the limits of its measurements, classical geopolitics and governance conceal instability inside the language of control.  
 Containment has always included drift; it is not the opposite of freedom but its medium of modulation.
