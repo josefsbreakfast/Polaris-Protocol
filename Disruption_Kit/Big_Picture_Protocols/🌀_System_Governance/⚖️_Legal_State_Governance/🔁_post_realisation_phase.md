@@ -53,7 +53,7 @@ It documents the quiet administrative work that follows institutional self-recog
 
 > 📡 Cross-references:
 > - [🗂️ When the System Realises It Fucked Up](../📚_Narrative_Management/🗂️_when_the_system_realises_it_fucked_up.md) - *as advertised*  
-> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) - *institutional movement from creating harms to remmedy*  
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) - *institutional movement from creating harms to remedy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
