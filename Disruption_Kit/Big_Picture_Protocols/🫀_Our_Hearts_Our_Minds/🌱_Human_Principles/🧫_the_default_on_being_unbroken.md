@@ -1,6 +1,6 @@
 # 🧫 The Default: On Being Unbroken  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
-*Reclaiming empathy and humanness from the category of exception.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-15  
+*Reclaiming empathy and humanness from the category of exception.*  
 
 ---
 
@@ -31,7 +31,9 @@ empathy, structural adaptation, survivor tone, social evolution, humanness, cont
 It repositions empathy as baseline, not exception — a reminder that what we call strength may simply be what remains human in a system built on compensation.  
 
 > 📡 Cross-references:  
-> - [🎛️ Survivor Voice Fidelity Rules](../Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md) — tone preservation  
-> - [🧬 Algorithmic Endocrinology](../Disruption_Kit/🧬_algorithmic_endocrinology.md) — hormonal and affective containment logics  
+> 
+> - [🧬 Algorithmic Endocrinology] — hormonal and affective containment logics  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-15_
