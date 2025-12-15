@@ -1,5 +1,5 @@
 # ⚖️ Behavioural Microniching & Electoral Integrity (UK)  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
 *Mapping what’s “in-bounds” and “out-of-bounds” in UK behavioural targeting law, using a cricket-field metaphor for clarity.*  
 
 ---
@@ -82,10 +82,10 @@ behavioural targeting, political advertising, electoral integrity, data protecti
 ---
 
 ## 🏮 Footer  
-*Behavioural Micro-Targeting & Electoral Integrity (UK)* is a living node of the Polaris Protocol.  
+*⚖️ Behavioural Micro-Targeting & Electoral Integrity (UK)* is a living node of the Polaris Protocol.  
 It codifies the lawful boundaries of digital campaigning and the regulatory field conditions for transparent persuasion.  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-12-15_
