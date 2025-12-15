@@ -1,5 +1,5 @@
 # 🧠 Early Secret Police Architecture  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-15  
 *Why the correct historical analogue for Prevent/Channel is not the SS or Gestapo, but the early administrative intelligence systems that precede authoritarian consolidation.*  
 
 ---
@@ -208,15 +208,12 @@ Opacity is not neutral — it is a **power structure**.
 ---
 
 ## 🧠 Constellations  
-**🧠 Governance Memory** — historical pattern-matching across eras.  
-**🛰️ Intelligence Logic** — suspicion, silent networks, pre-crime.  
-**⚖️ Democratic Integrity** — oversight collapse, consent failure.  
-**🧱 Structural Design** — early-stage secret-police architecture.  
+🧠 🛰️ ⚖️ 🧱  
 
 ---
 
 ## ✨ Stardust (Search Keywords)  
-proto-secret police • Prevent • Channel • pre-Gestapo • political police • surveillance • early authoritarianism • pre-crime • CTSA 2015 • administrative drift • democratic risk
+proto-secret police, Prevent, Channel, pre-Gestapo, political police, surveillance, early authoritarianism, pre-crime, CTSA 2015, administrative drift, democratic risk
 
 ---
 
@@ -230,4 +227,4 @@ It clarifies the structural—not moral—analogue for Prevent/Channel by mappin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2025-12-15_
