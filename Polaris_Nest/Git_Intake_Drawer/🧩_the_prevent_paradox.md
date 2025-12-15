@@ -1,6 +1,6 @@
 # 🧩 The Prevent Paradox: Fueling Extremism by Silencing Grievances  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*Why a system designed to prevent radicalisation actually increases the conditions that produce it — by suppressing emotion, silencing dissent, racialising distress, and eroding institutional trust.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-15  
+*Why a system designed to prevent radicalisation actually increases the conditions that produce it — by suppressing emotion, silencing dissent, racialising distress, and eroding institutional trust.*  
 
 ---
 
@@ -192,4 +192,4 @@ It shows how Prevent generates the very forms of alienation, anger, and mistrust
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-15_
