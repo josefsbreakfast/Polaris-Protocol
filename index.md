@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 20:28:14 UTC_
+_Generated on 2025-12-15 20:38:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -210,6 +210,7 @@ _Generated on 2025-12-15 20:28:14 UTC_
         - [`☕_administrative_necromancy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕_administrative_necromancy.md)
         - [`☢️_the_empathy_project.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☢️_the_empathy_project.md)
         - [`⚓_sea_org_as_containment_prototype.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚓_sea_org_as_containment_prototype.md)
+        - [`⚔️_culture_war_risk_logic_in_uk_public_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚔️_culture_war_risk_logic_in_uk_public_institutions.md)
         - [`⚖️_above_the_law_protofascism_threshold.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_above_the_law_protofascism_threshold.md)
         - [`⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_administrative_delay_as_structural_harm_for_disabled_survivors.md)
         - [`⚖️_autonomy_vs_containment_dial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_autonomy_vs_containment_dial.md)
@@ -3745,7 +3746,6 @@ _Generated on 2025-12-15 20:28:14 UTC_
     - [`🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md`](Polaris_Nest/Git_Intake_Drawer/🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md)
     - [`🧵_overproduction_boredom.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_boredom.md)
     - [`🧶_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_gossip_with_a_pay_grade.md)
-    - [`🧷_culture_war_risk_logic_in_uk_public_institutions.md`](Polaris_Nest/Git_Intake_Drawer/🧷_culture_war_risk_logic_in_uk_public_institutions.md)
     - [`🧷_structural_attraction_to_power_roles.md`](Polaris_Nest/Git_Intake_Drawer/🧷_structural_attraction_to_power_roles.md)
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧸_softness_as_counter_extremism_infrastructure.md)
     - [`🧹_uk_rugsweeping_olympics.md`](Polaris_Nest/Git_Intake_Drawer/🧹_uk_rugsweeping_olympics.md)
