@@ -1,23 +1,23 @@
 # 🌀 Containment/Détente Cycle  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*Legacy model showing the oscillation between tension and release.*
+**First created:** 2025-11-02 | **Last updated:** 2025-11-15  
+*Legacy model showing the oscillation between tension and release.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node preserves the **classical containment–détente loop** for contrast with newer models.  
 It depicts the historical logic of Cold-War management as a self-stabilising system — useful to understand what the newer, field-based theories supersede.
 
 ---
 
-## 🧩 The Four Phases  
+## 💢 The Four Phases  
 
 | Phase | Function | Feedback Type | Emotional Register |
 |-------|-----------|----------------|--------------------|
-| **Containment** | Boundary construction | Positive (escalatory) | Fear, vigilance |
-| **Stalemate** | Saturation, fatigue | Neutral drift | Anxiety, exhaustion |
-| **Détente** | Controlled relief | Negative (stabilising) | Hope, restraint |
-| **Re-Containment** | Renewal of conflict | Positive (re-escalatory) | Betrayal, moral rearmament |
+| 📥 **Containment** | Boundary construction | Positive (escalatory) | Fear, vigilance |
+| 🧊 **Stalemate** | Saturation, fatigue | Neutral drift | Anxiety, exhaustion |
+| 📤 **Détente** | Controlled relief | Negative (stabilising) | Hope, restraint |
+| 🔥 **Re-Containment** | Renewal of conflict | Positive (re-escalatory) | Betrayal, moral rearmament |
 
 The sequence forms a **homeostatic loop** rather than a binary; détente functions as the system’s pressure valve.
 
@@ -47,8 +47,8 @@ It documents the legacy model that newer Polaris theories reconfigure into dynam
 > 📡 Cross-references:
 > 
 > - [🪞 Containment & Détente as Temporal Governance](./🪞_containment_detente_as_temporal_governance.md)  
-> - [🌊 Containment as Dynamic Field Topology](./🌊_containment_as_dynamic_field_topology.md)
+> - [🌊 Containment as Dynamic Field Topology](./🌊_containment_as_dynamic_field_topology.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-15_
