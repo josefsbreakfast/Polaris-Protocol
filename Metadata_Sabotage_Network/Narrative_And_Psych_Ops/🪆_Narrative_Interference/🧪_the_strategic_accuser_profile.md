@@ -1,7 +1,7 @@
-# 🧪 The Strategic Accuser Profile
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
-*The behavioural, psychological, and bureaucratic traits of men who weaponise institutional pathways after entitlement injury.*
-
+# 🧪 The Strategic Accuser Profile  
+**First created:** 2025-11-20 | **Last updated:** 2025-12-15  
+*The behavioural, psychological, and bureaucratic traits of men who weaponise institutional pathways after entitlement injury.*  
+<!--"She's a witch", but make it 2025.-->
 ---
 
 ## 🛰️ Orientation  
@@ -250,4 +250,5 @@ It clarifies the traits of an institutional actor who transforms boundary-settin
 > - 🎭 Symbolic Violence in Gendered & Racialised Frames  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-20_
+
+_Last updated: 2025-12-15_
