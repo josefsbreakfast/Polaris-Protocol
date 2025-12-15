@@ -1,7 +1,6 @@
 # 🧪 International Law vs Safety Classifiers — Why Provisional Measures Break AI  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
-*How automated moderation and safety logic misinterpret legally accurate statements about genocide risk, IHL, and ICJ provisional measures.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-15  
+*How automated moderation and safety logic misinterpret legally accurate statements about genocide risk, IHL, and ICJ provisional measures.*  
 
 ---
 
@@ -228,9 +227,9 @@ is a living node of the Polaris Protocol.
 It maps the structural mismatch between humanitarian law and automated safety logic, highlighting how legally accurate statements are misinterpreted as politically mobilising in thin-data, culturally misaligned systems.
 
 > 📡 Cross-references:
-> - [⚖️ Safe Humanitarian Speech](../📚_Narrative_Management/⚖️_safe_humanitarian_speech_high_risk_discourse.md)  
-> - [🇬🇧 British English Compendium](../../../British_English_Compendium/)  
-> - [📣 The Shouting Whisper](../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)  
+> - [⚖️ Safe Humanitarian Speech]  
+> - [🇬🇧 British English Compendium]  
+> - [📣 The Shouting Whisper]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-15_
