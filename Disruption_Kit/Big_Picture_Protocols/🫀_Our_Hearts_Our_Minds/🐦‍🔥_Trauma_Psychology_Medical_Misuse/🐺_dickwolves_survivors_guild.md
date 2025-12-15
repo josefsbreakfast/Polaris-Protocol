@@ -15,13 +15,13 @@ It is written explicitly from a survivor perspective — not as moral theatre, n
 Many people know what *Gamergate* was. Far fewer understand what came *before* it — or how earlier, quieter failures set the tone for everything that followed.
 
 This node exists because:
-- most people were not there,
+- most people were not there, <!--Not everyone can be this cool; I know.-->
 - most summaries flatten the event into “internet drama,” and
 - the real damage was not the joke — it was the response.
 
 ---
 
-## ✨ Key Claims (Up Front)
+## ✨ Key Claims  
 
 - The Dickwolves incident was not about a single offensive joke.  
 - It was an early stress test of how nerd culture would respond to women naming harm.  
@@ -50,7 +50,7 @@ This mattered. When something broke here, it wasn’t fringe — it was **inside
 ---
 
 ## 🐺 The Incident (Briefly, Plainly)
-
+<!--If you want the full lore, Reddit still exists. I checked.-->
 In 2010, Penny Arcade published a comic containing a throwaway joke about a fictional NPC being “raped to sleep by dickwolves.”
 
 At the time:
@@ -73,7 +73,7 @@ This is the moment that mattered.
 
 ---
 
-## 🧿 Survivor Position (Explicit)
+## 🧿 Survivor Position  
 
 This account is written by a woman who survived rape as a child.
 
@@ -86,7 +86,9 @@ The problem was not that the joke “hurt my feelings.”
 
 The problem was discovering — unmistakably — **who the joke was for, and who was disposable** once harm was named.
 
-Once you see that, you cannot unsee it.
+Once you see that, you cannot unsee it.  
+
+Jokes about "fucking fruit" start to look a lot less like we are laughing at the same thing; shared humour collapses, community ruptures.  
 
 ---
 
@@ -108,7 +110,7 @@ For many women, this was the moment nerd spaces stopped feeling naïvely rough-e
 
 ---
 
-## 🏰 PAX, Sponsors, and Institutional Cowardice
+## 🕹️ PAX, Sponsors, and Institutional Cowardice
 
 When the controversy touched **PAX**, the stakes escalated:
 
@@ -214,7 +216,7 @@ But packs fracture when some members are treated as expendable.
 
 ---
 
-## 🐺 Why “Dickwolves Survivors Guild”
+## 🐦‍🔥 Why “Dickwolves Survivors Guild”
 
 The name is deliberate.
 
@@ -240,7 +242,9 @@ Repair requires:
 If we want better governance, better AI, better communities —  
 we have to stop pretending these moments were trivial.
 
-They were formative.
+They were formative.  
+
+We are still shaped by them, and we still have the power to collectively reshape what they mean for us now.  
 
 ---
 
