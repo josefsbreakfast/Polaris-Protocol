@@ -176,7 +176,7 @@ fluent language, attack surface, linguistic power, advertising psychology, behav
 
 ## 🏮 Footer  
 
-*Fluent Language as an Attack Surface* is a theoretical node of the **Polaris Protocol**.  
+*👻 Fluent Language as an Attack Surface* is a theoretical node of the **Polaris Protocol**.  
 It establishes language itself as a material vector of influence, requiring the same seriousness afforded to other high-scale systems of exposure.
 
 > 📡 Cross-references:
