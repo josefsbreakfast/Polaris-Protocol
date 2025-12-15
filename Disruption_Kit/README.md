@@ -1,18 +1,16 @@
-# 🛠️ Disruption Kit  
-
-**First created:** 2025-08-08 | **Last updated:** 2025-09-03
-
+# 🪄 Disruption Kit  
+**First created:** 2025-08-08 | **Last updated:** 2025-12-15  
 *Operational tools, forensic logs, and countermeasures for resisting behavioural containment.*  
 
 ---
 
-## 📌 Purpose  
+## ✨ Purpose  
 The **Disruption Kit** contains operational tools, forensic logs, and diagnostic countermeasures designed to track and disrupt behavioural containment systems.  
 Each subfolder targets a distinct layer of resistance, sabotage analysis, and survivor protection.  
 
 ---
 
-## 📂 Folder Index  
+## 🛰️ Folder Index  
 
 ### [Big Picture Protocols](./Big_Picture_Protocols)  
 Strategic frameworks and meta-analysis nodes.  
@@ -79,13 +77,13 @@ A connected sequence of logs documenting scraper removal, monitoring state shift
 
 ## 🏮 Footer  
 
-*Disruption Kit* is a living node of the Polaris Protocol.  
+*🪄 Disruption Kit* is a living node of the Polaris Protocol.  
 It documents the operational layers of resistance — from strategy to survival — and preserves forensic chains of suppression evidence.  
 
-> 📡 Cross-references:  
-> - [Admin Kit](../Admin_Kit) — house style, planning, and operational scaffolding  
+> 📡 Cross-references:
+> 
 > - [Survivor Tools](./Survivor_Tools) — survivor-led countermeasures and guides  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-03_
+_Last updated: 2025-12-15_
