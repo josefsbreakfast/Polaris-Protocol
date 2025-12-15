@@ -88,7 +88,7 @@ Lawfare is a symptom of failed care.
 
 ---
 
-## 🔁 The Paradox of Freedom  
+## 🕊️ The Paradox of Freedom  
 
 Ironically, rejecting harm reduction often produces:
 - Public scandals  
@@ -116,7 +116,7 @@ Harm reduction threatens extractive incentives — even when it benefits the sys
 
 ---
 
-## 🧭 Implications for AI & Language Systems  
+## 🤖 Implications for AI & Language Systems  
 
 In the context of AI:
 - Harm reduction is framed as “anti-innovation”  
