@@ -1,6 +1,6 @@
 # 🧾 Student Data Abuse — The Surveillance of Learning  
-**First created:** 2025-10-23  |  **Last updated:** 2025-11-14  
-*How education’s duty of care became a data-extraction industry.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-15  
+*How education’s duty of care became a data-extraction industry.*  
 
 ---
 
@@ -262,13 +262,13 @@ It documents the conversion of education’s moral contract into a market instru
 
 > 📡 Cross-references:
 > 
-> - [🎓 British University Compliance Service](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)  
-> - [🧿 Watch the Watchers](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
-> - [💸 Money Listens](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
+> - [🎓 British University Compliance Service](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)  
+> - [🧿 Watch the Watchers](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
+> - [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-15_
 
 
 
