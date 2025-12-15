@@ -1,17 +1,17 @@
 # ⚛️ Containment as Coupled Waveform Theory  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*Container and containee as simultaneous waveforms in continuous interaction.*
+**First created:** 2025-11-02 | **Last updated:** 2025-11-15    
+*Container and containee as simultaneous waveforms in continuous interaction.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Rather than two static entities, container and containee form a **coupled system of oscillation**.  
 Each influences the other’s amplitude, phase, and frequency.  
 Policy, narrative, and emotion are the *observable collapses* of these overlapping waveforms.
 
 ---
 
-## 🧩 Core Ideas  
+## ✨ Core Ideas  
 
 | Concept | Description |
 |----------|-------------|
@@ -56,4 +56,4 @@ It models containment as co-vibration and mutual modulation, revealing control a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-11-15_
