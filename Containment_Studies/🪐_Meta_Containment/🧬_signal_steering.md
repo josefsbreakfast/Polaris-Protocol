@@ -85,7 +85,7 @@ It documents biochemical-inspired methods for modulating influence after contact
 > 📡 Cross-references:
 > 
 > – [🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting](../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌀_chaff.md)  
-> – [🌪 Field Conditioning — Rewriting the Medium of Influence](Disruption_Kit/🏮_AntiContainment_Clauses/🌪️_field_reconditioning.md)  
+> – [🌪 Field Conditioning — Rewriting the Medium of Influence](../../Disruption_Kit/🏮_AntiContainment_Clauses/🌪️_field_reconditioning.md)  
 > – [🧬 Structural Mapping](../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
