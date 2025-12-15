@@ -1,5 +1,5 @@
 # 🧿 Against Pseudoanthropy  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
 *On the risks of treating language models as relational or human-adjacent entities.*
 
 ---
@@ -70,7 +70,7 @@ Pseudoanthropy therefore belongs within **containment studies**, not fringe psyc
 
 ---
 
-## 🧩 Relationship to Public Discourse  
+## 🗣️ Relationship to Public Discourse  
 
 Pseudoanthropy overlaps with — but is distinct from:
 - Anthropomorphism  
@@ -101,7 +101,7 @@ Such discourse is essential for moving the issue from spectacle to stewardship.
 
 ---
 
-## 🧭 Design & Governance Implications  
+## 🪄 Design & Governance Implications  
 
 Addressing pseudoanthropy does **not** require:
 - Banning conversational language  
@@ -141,4 +141,4 @@ It establishes shared language for discussing relational risk in human–LLM int
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-15_
