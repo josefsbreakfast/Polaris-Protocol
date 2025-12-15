@@ -49,10 +49,14 @@ soft law, guidance enforcement, MoUs, ethical frameworks, policy without legisla
 *⚖️ Soft Law Governance* is a living node of the Polaris Protocol.  
 It documents how unofficial rules and unpublished guidance create systems of control without democratic oversight or legal accountability.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
 > 
-> - [🌀 Systems & Governance](../README.md) - *How the systems we use interlace with what controls and powers them*  
-> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *Courts outsourcing responsibility back to the executive, reinforcing systemic impunity*  
+> - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *courts outsourcing responsibility back to the executive*
+> - [🧬 Affective Infrastructure (The Emotional OS of Geopolitics)](../../🦕_Elder_Influencers/🕸️_World_Webs/🧬_affective_infrastructure.md) - *the men's club runs on emotionality, just don't tell them I told you - they get a little hormonal about the whole thing*
+> - [👑 Soft Power Accountability Gap](../👑_Ownership_Control/👑_soft_power_accountability_gap.md) - *princes being princesses*
+> - [🎓 Legibility As Soft Power in Academia](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎓_legibility_as_soft_power_in_academia.md) - *a golden goose that never stops*  
+> - [⚖️ Soft Power Without Soft Accountability](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) - *non-princes being princesses*
+> - [🌍 Soft Power and International Resentment](../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md) - *who the golden goose is pissing off and why*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
