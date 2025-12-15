@@ -1,6 +1,6 @@
 # ⚖️ Soft Law Governance  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
-*Guidance, codes of practice, and memoranda that act as law without oversight or consent.*
+**First created:** 2025-09-14 | **Last updated:** 2025-12-15  
+*Guidance, codes of practice, and memoranda that act as law without oversight or consent.*  
 
 ---
 
@@ -46,7 +46,7 @@ soft law, guidance enforcement, MoUs, ethical frameworks, policy without legisla
 
 ## 🏮 Footer  
 
-*Soft Law Governance* is a living node of the Polaris Protocol.  
+*⚖️ Soft Law Governance* is a living node of the Polaris Protocol.  
 It documents how unofficial rules and unpublished guidance create systems of control without democratic oversight or legal accountability.
 
 > 📡 Cross-references:
@@ -56,4 +56,4 @@ It documents how unofficial rules and unpublished guidance create systems of con
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
