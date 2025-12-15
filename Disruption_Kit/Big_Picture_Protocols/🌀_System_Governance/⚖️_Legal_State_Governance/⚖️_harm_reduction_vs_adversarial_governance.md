@@ -1,6 +1,6 @@
 # ⚖️ Harm Reduction vs Adversarial Governance  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
-*How precautionary care becomes reframed as obstruction — and why systems degrade as a result.*
+**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+*How precautionary care becomes reframed as obstruction — and why systems degrade as a result.*  
 
 ---
 
@@ -153,9 +153,9 @@ It explains how care-based interventions become reframed as threats — and why 
 > 📡 Cross-references:
 > 
 > - [💼 Narrative Capture & Linguistic Power](../📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md) — *framing and delay*  
-> - [📜 Lawfare, SLAPPs & Chilling Effects] — *procedural escalation*  
+> - [📜 Lawfare, SLAPPs & Chilling Effects](../../🦕_Elder_Influencers/📜_Statutes/📜_lawfare_slapps_and_chilling_effects.md) — *procedural escalation*  
 > - [🧠 Qualitative Harm in Quantitative Systems](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *governance mismatch*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-15_
