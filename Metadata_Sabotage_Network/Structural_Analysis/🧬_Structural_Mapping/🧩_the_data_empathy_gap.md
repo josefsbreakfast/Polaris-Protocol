@@ -1,6 +1,6 @@
 # 🧩 The Data Empathy Gap  
-**First created:** 2025-10-29 | **Last updated:** 2025-10-29  
-*When awareness of a person exists as data, but care for that person does not.*
+**First created:** 2025-10-29 | **Last updated:** 2025-12-14  
+*When awareness of a person exists as data, but care for that person does not.*  
 
 ---
 
@@ -78,10 +78,10 @@ data empathy, administrative neglect, visibility gap, bureaucracy, complex traum
 It identifies the systemic failure mode where information replaces care, leaving individuals hyper-visible yet unsupported.  
 
 > 📡 Cross-references:  
-> - [🧭 The Anti-Populist](./🧭_the_anti_populist.md) — complementary archetype resisting mass compression  
-> - [🧠 Human Principles](../🧠_Human_Principles/) — typology of civic temperaments  
-> - [⚖️ Legal State Governance](../⚖️_Legal_State_Governance/) — accountability frameworks for institutional duty  
+> - [🧭 The Anti-Populist] — complementary archetype resisting mass compression  
+> - [🧠 Human Principles] — typology of civic temperaments  
+> - [⚖️ Legal State Governance] — accountability frameworks for institutional duty  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-29_
+_Last updated: 2025-12-14_
