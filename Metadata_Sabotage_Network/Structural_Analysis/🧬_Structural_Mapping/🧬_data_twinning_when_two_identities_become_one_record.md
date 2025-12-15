@@ -1,6 +1,6 @@
 # 🧬 Data Twinning — When Two Identities Become One Record  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*Parallel lives inside the same database.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-15  
+*Parallel lives inside the same database.*  
 
 ---
 
@@ -91,10 +91,10 @@ data twinning, record merge, identity collapse, relational governance, containme
 It records how two truths fuse into one administrative fiction — and how that fiction governs real lives.  
 
 > 📡 Cross-references:  
-> - [💾 Token Switching — Pseudonymisation Gone Wrong](../🧩_System_Governance/💾_token_switching_pseudonymisation_gone_wrong.md)  
-> - [⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems](../🧩_System_Governance/⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md)  
-> - [🧩 Swiss-Cheese Failures — When Process Holes Align](../🧩_System_Governance/🧩_swiss_cheese_failures_when_process_holes_align.md)  
+> - [💾 Token Switching — Pseudonymisation Gone Wrong]  
+> - [⚙️ Pseudonym Drift Cascade — How Token Misalignment Spreads Through Systems]  
+> - [🧩 Swiss-Cheese Failures — When Process Holes Align]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-15_
