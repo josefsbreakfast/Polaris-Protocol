@@ -1,4 +1,4 @@
-# 🧩 When Law Has Collapsed into Power (Checklist)  
+# 🔥 When Law Has Collapsed into Power (Checklist)  
 **First created:** 2025-12-13 | **Last updated:** 2025-12-15  
 *A practical checklist for identifying the threshold where legality yields to coercive power in policing practice.*  
 
@@ -134,7 +134,7 @@ It **does**:
 ---
 
 ## 🌌 Constellations  
-🧩 ⚖️ 🪖 🧠 🧿 — threshold detection, law–power inversion, coercive authority, institutional stress.
+🧩 ⚖️ 🪖 🧠 🧿 🔥 — threshold detection, law–power inversion, coercive authority, institutional stress.
 
 ---
 
@@ -145,13 +145,14 @@ law and power, enforcement discretion, symbolic policing, fear-based decision ma
 
 ## 🏮 Footer  
 
-*🧩 When Law Has Collapsed into Power (Checklist)* is a diagnostic tool within the **Polaris Protocol**.  
+*🔥 When Law Has Collapsed into Power (Checklist)* is a diagnostic tool within the **Polaris Protocol**.  
 It provides a clear, pattern-based method for identifying when policing practice has crossed from legal governance into coercive power management.
 
 > 📡 Cross-references:
-> - ⚖️ *Schmittian Logic in Policing Practice* — theoretical foundation  
-> - 🚨 *Red Flags of Authoritarian Capture in Policing* — early warning patterns  
-> - 🏛️ *Oversight Collapse Under Systemic Attrition* — capacity failure context  
+> 
+> - [⚖️ Schmittian Logic in Policing Practice](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md) - *theoretical foundation*  
+> - [🚨 Red Flags of Authoritarian Capture in Policing](./🚨_red_flags_of_authoritarian_capture_in_policing.md) - *early warning patterns*  
+> - [🏛️ Oversight Collapse Under Systemic Attrition](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🏛️_oversight_collapse_under_systemic_attrition.md) - *capacity failure context*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
