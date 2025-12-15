@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:47:06 UTC_
+_Generated on 2025-12-15 01:49:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3261,6 +3261,7 @@ _Generated on 2025-12-15 01:47:06 UTC_
       - [`🧬_deliberate_data_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_data_twinning.md)
       - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_metadata_twinning.md)
       - [`🧬_digital_aura.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_digital_aura.md)
+      - [`🧬_digital_twin_vector_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_digital_twin_vector_logic.md)
       - [`🧬_metadata_twinning_analysis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_metadata_twinning_analysis.md)
       - [`🧬_on_twinning_weird_obsession.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_on_twinning_weird_obsession.md)
       - [`🧬_sim_pathways_map.json`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_sim_pathways_map.json)
@@ -3643,7 +3644,6 @@ _Generated on 2025-12-15 01:47:06 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_digital_twin_vector_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧬_digital_twin_vector_logic.md)
     - [`🧬_double_bind_dependencies.md`](Polaris_Nest/Git_Intake_Drawer/🧬_double_bind_dependencies.md)
     - [`🧬_duplicate_points_c4isr_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_duplicate_points_c4isr_twinning.md)
     - [`🧬_echo_scripts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_echo_scripts.md)
