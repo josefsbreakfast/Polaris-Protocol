@@ -1,6 +1,6 @@
 # 🧩 Distributed Executive Governance  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-14  
-*Why power concentrated in one leader produces distortion, drift, and democratic instability — and how shared executive models offer structural resilience.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-15  
+*Why power concentrated in one leader produces distortion, drift, and democratic instability — and how shared executive models offer structural resilience.*  
 
 ---
 
@@ -169,7 +169,7 @@ Distributed executives:
 ---
 
 ## 🏮 Footer  
-**Distributed Executive Governance** is part of Polaris’ constitutional redesign cluster.  
+*🧩 Distributed Executive Governance* is part of Polaris’ constitutional redesign cluster.  
 It maps how modern states can move from “monarch-in-disguise” executive models to structures that resist distortion and keep governance aligned with human cognition and democratic safety.
 
 Crosslinks:  
@@ -177,4 +177,4 @@ Crosslinks:
 - 🧠 *political_black_box_logic*  
 - 🔧 *democratic_resilience_architecture_for_21st_century_britain*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
