@@ -1,7 +1,6 @@
-# 🌀 Rule of Law Failure Cascade
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How custody, opacity, and exceptionalism combine to erode legal accountability*
+# 🌀 Rule of Law Failure Cascade  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+*How custody, opacity, and exceptionalism combine to erode legal accountability.*  
 
 ---
 
@@ -143,15 +142,15 @@ rule of law, custody, traceability, enforced disappearance risk, due process ero
 
 ## 🏮 Footer
 
-*Rule of Law Failure Cascade* is a core analytic node of the **Polaris Protocol**.
+*🌀 Rule of Law Failure Cascade* is a core analytic node of the **Polaris Protocol**.
 It provides a structural framework for understanding how lawful systems generate unaccountable harm through procedural sequencing rather than explicit illegality.
 
 > 📡 Cross-references:
 >
-> * [🧿 Custodial Opacity and Database Disappearance] — traceability failure
-> * [🪦 CECOT as a Rights-Void Facility] — offshored custody
-> * [⚠️ Prelude Conditions to Atrocity] — escalation analysis
+> - [🧿 Custodial Opacity and Database Disappearance](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md) — *traceability failure*  
+> - [🪦 CECOT as a Rights-Void Facility](../👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md) — *offshored custody*  
+> - [⚠️ Prelude Conditions to Atrocity](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md) — *escalation analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2025-12-15_
