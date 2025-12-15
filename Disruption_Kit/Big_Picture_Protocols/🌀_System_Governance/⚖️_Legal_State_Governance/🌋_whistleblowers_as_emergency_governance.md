@@ -1,5 +1,5 @@
 # 💬 Whistleblowers as Emergency Governance  
-**First created:** 2025‑11‑02 | **Last updated:** 2025-12-09  
+**First created:** 2025‑11‑02 | **Last updated:** 2025-12-15  
 *Informal disclosure as the last remaining oversight mechanism.*  
 
 ---
@@ -76,8 +76,7 @@ Whistleblowers are democracy’s arrhythmic heartbeat — irregular, alarming, b
 ---
 
 ## 🌌 Constellations  
-
-💬 Emergency Governance · 🧩 Accountability Failures · 📉 Erosion of Legitimacy Loops · 🕳️ Social Memory of Impunity · 📮 Disclosure Culture  
+💬 🧩 📉 🕳️ 📮  
 
 ---
 
@@ -93,11 +92,10 @@ whistleblowing, trust decay, emergency governance, civic integrity, informal dis
 
 > 📡 Cross‑references:  
 > 
-> - [🧩 accountability_failures_and_public_trust.md] — *inquiry‑fatigue precursor*  
-> - [📉 erosion_of_legitimacy_loops.md] — *scandal‑feedback context*  
-> - [🕳️ social_memory_of_impunity.md] — *memory of suppression*  
-> - [📮 answers_on_a_postcard.md] — *disclosure culture*  
+> - [*Pending:* 🧩_accountability_failures_and_public_trust.md] — *inquiry‑fatigue precursor*  
+> - [⭕️ Erosion of Legitimacy Loops](../💫_Containment_Logic/⭕️_erosion_of_legitimacy_loops.md) — *scandal‑feedback context*  
+> - [*Pending:* 🕳️_social_memory_of_impunity.md] — *memory of suppression*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-15_
