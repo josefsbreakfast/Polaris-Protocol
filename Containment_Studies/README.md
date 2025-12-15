@@ -1,76 +1,88 @@
-Please note:  
-
-"The sakura's meaning is also contradictory. It symbolizes both life and death, beauty and violence. As the coming of spring promises new life, so the blooming of cherry blossoms brings a sense of vitality and vibrancy. At the same time, their short lifespan is a reminder that life is fleeting." [source](https://www.jal.co.jp/my/en/guide-to-japan/experiences/cherry-blossom/what-do-cherry-blossoms-represent/)  
-
-When you see a pink flower, remember the symbolx the west once used to define the height of masculinity and *why*, please.  
-
-```
-🌸 Containment_Studies/
- ├── 📖_README.md
- ├── 💞_Containment_Theory/
- │    ├── 📖_README.md
- │    ├── 🌊_containment_as_dynamic_field_topology.md
- │    ├── ⚛️_containment_as_coupled_waveform_theory.md
- │    ├── 🧬_containment_as_coevolutionary_ecology.md
- │    ├── 🪞_containment_detente_as_temporal_governance.md
- │    └── 🌀_containment_detente_cycle.md
- ├── 🌙_Everyday_Containment/
- │    ├── 📖_README.md
- │    ├── 🧾_institutional_micro_containment.md
- │    ├── 💡_algorithmic_attention_loops.md
- │    └── 💬_containment_in_language_and_etiquette.md
- ├── 🧱_Containment_Infrastructure/
- ├── 🧠_Psychic_Containment/
- ├── 🎨_Aesthetic_Containment/
- └── 🪐_Meta_Containment/
-```
 # 🌸 Containment Studies  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-15  
 *Root-level meta-cluster tracing containment across systems, disciplines, and scales.*
 
 ---
 
-## 🧭 Orientation  
-**Containment Studies** sits at the root of the Polaris Protocol because containment itself is the architecture behind every other node: how power defines edges, how data is gated, how narrative, emotion, and matter are managed.  
-It connects geopolitical, psychological, cultural, and computational languages of control into one shared field.
+> "The sakura's meaning is also contradictory. It symbolizes both life and death, beauty and violence.  
+> As the coming of spring promises new life, so the blooming of cherry blossoms brings a sense of vitality and vibrancy.  
+> At the same time, their short lifespan is a reminder that life is fleeting."  
+> 
+> [- Source](https://www.jal.co.jp/my/en/guide-to-japan/experiences/cherry-blossom/what-do-cherry-blossoms-represent/)  
 
-Rather than a Cold-War binary of “containment vs détente,” this series approaches containment as a **living grammar** that appears wherever systems attempt to hold, limit, stabilise, or metabolise what exceeds them.
+---
+
+## 🛰️ Orientation  
+
+**Containment Studies** sits at the root of the Polaris Protocol because containment is not a tactic — it is an architecture.
+
+It names how systems define edges:  
+how power draws boundaries,  
+how data is gated,  
+how bodies, narratives, attention, and affect are stabilised, managed, or suppressed.
+
+Rather than a Cold War binary of *containment vs détente*, this cluster treats containment as a **living grammar** — one that appears wherever systems attempt to hold, limit, metabolise, or aestheticise what exceeds them.
+
+Geopolitical doctrine, institutional etiquette, therapeutic framing, platform governance, and cultural symbolism are read here as expressions of the same underlying logic.
+
+---
+
+## 🌸 On the Sakura  
+
+The cherry blossom is not an innocent symbol.
+
+In Japanese cultural history, the sakura carries a **deliberate contradiction**:  
+life and death, beauty and violence, renewal and erasure. Its brief bloom marks vitality *and* the disciplined acceptance of impermanence.
+
+This duality was later appropriated by Western and militarised masculinity as a symbol of idealised sacrifice:  
+beauty that exists to be expended,  
+life that proves its worth by ending cleanly.
+
+When a pink flower appears in this archive, it is not softness.  
+It is a reminder that containment often disguises itself as grace —  
+and that aestheticisation has historically been used to make violence legible, noble, and repeatable.
 
 ---
 
 ## 🧩 Sub-Clusters  
 
 | Folder | Scope |
-|--------|-------|
-| ⚖️ **Containment Theory** | systemic and analytical models — field, waveform, co-evolution |
-| 🧭 **Everyday Containment** | micro-behaviours, social protocols, algorithmic attention loops |
+|------|------|
+| 💞 **Containment Theory** | systemic and analytical models — field, waveform, co-evolution |
+| 🌙 **Everyday Containment** | micro-behaviours, social protocols, algorithmic attention loops |
 | 🧱 **Containment Infrastructure** | physical architectures and digital enclosures |
 | 🧠 **Psychic Containment** | emotional, therapeutic, and narrative holding structures |
-| 🎨 **Aesthetic Containment** | curatorial, censorial, and artistic frames |
+| 🎨 **Aesthetic Containment** | curatorial, censorial, and symbolic frames |
 | 🪐 **Meta-Containment** | recursive containment within knowledge systems, including Polaris itself |
 
 ---
 
 ## 🌌 Constellations  
-🧿 ⚖️ 🧭 🧱 🧠 🎨 🪐 — This root constellation links analytical, lived, and reflexive registers.
+
+🧿 ⚖️ 🧭 🧱 🧠 🎨 🪐  
+*Analytical, lived, aesthetic, infrastructural, and reflexive registers held in one field.*
 
 ---
 
 ## ✨ Stardust  
-containment, interdisciplinary theory, systemic control, adaptation, ecology of boundaries, reflexivity, containment grammar, cross-domain analysis
+
+containment, interdisciplinary theory, systemic control, adaptation, boundary ecology, reflexivity, aesthetic governance, symbolic violence, cross-domain analysis
 
 ---
 
 ## 🏮 Footer  
 
-*⚖️ Containment Studies* is a root-level constellation of the **Polaris Protocol**.  
-It serves as the integrative field for understanding how containment operates across geopolitical, psychological, aesthetic, and computational systems.
+*🌸 Containment Studies* is a root-level constellation of the **Polaris Protocol**.  
+It functions as the integrative field for understanding how containment operates across geopolitical, psychological, aesthetic, and computational systems.
 
-> 📡 Cross-references:  
-> - [Disruption Kit](./Disruption_Kit/README.md) — *operational countermeasures*  
-> - [Metadata Sabotage Network](./Metadata_Sabotage_Network/README.md) — *narrative and informational containment*  
-> - [Big Picture Protocols](./Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic diagnostics and governance frames*  
+> 📡 Cross-references:
+> 
+> - [🪄 Disruption Kit](../Disruption_Kit/README.md) — *operational countermeasures*  
+> - [🛰️ Metadata Sabotage Network](../Metadata_Sabotage_Network/README.md) — *narrative and informational containment*  
+> - [🧠 Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic diagnostics and governance frames*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-15_
+
+
