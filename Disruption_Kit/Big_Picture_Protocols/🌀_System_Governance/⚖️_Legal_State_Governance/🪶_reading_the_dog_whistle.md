@@ -4,14 +4,14 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This note examines the function of *bureaucratic euphemism* in genocidal or mass-atrocity contexts.  
 From the Wannsee Protocol to contemporary policy papers, technical phrasing and “reasonable vagueness” allow leaders to issue ideological orders without ever writing them down.  
 Understanding those codes is central to prevention and accountability.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - “Dog-whistle” terminology as operational green light.  
 - Distinction between propaganda language and administrative language.  
 - Why vagueness is a risk variable in atrocity forecasting.  
