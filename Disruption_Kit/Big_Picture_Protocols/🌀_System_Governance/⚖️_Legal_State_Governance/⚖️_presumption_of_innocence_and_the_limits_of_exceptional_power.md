@@ -1,6 +1,6 @@
 # ⚖️ Presumption of Innocence and the Limits of Exceptional Power  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
-*How pretrial exceptionalism destabilises the constitutional meaning of innocence — and why democratic systems rely on categorical protections.*
+**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+*How pretrial exceptionalism destabilises the constitutional meaning of innocence — and why democratic systems rely on categorical protections.*  
 
 ---
 
@@ -23,9 +23,7 @@ The Palestine Action hunger strikes expose the limits of exceptional power by sh
 
 ---
 
-## 🧿 Analysis
-
-## 1. Innocence as a Constitutional Limit  
+## 🧿 Innocence as a Constitutional Limit  
 In common law and international standards, innocence:
 
 - limits the severity of pretrial deprivation,  
@@ -38,7 +36,7 @@ When innocence ceases to limit state action, exceptionalism becomes arbitrary.
 
 ---
 
-## 2. How Exceptional Power Reframes Innocence  
+## ⚖ How Exceptional Power Reframes Innocence  
 Security frameworks can inadvertently create the impression that:
 
 - innocence is conditional,  
@@ -56,7 +54,7 @@ to
 
 ---
 
-## 3. Case Example: Palestine Action Hunger Strikes  
+## 🍉 Case Example: Palestine Action Hunger Strikes  
 The detainees:
 
 - remain legally innocent,  
@@ -72,7 +70,7 @@ This collapses the protective function of presumption of innocence.
 
 ---
 
-## 4. Why Hunger Strikes Make the Erosion Visible  
+## 🥣 Why Hunger Strikes Make the Erosion Visible  
 Refusal highlights the boundary:
 
 - A convicted prisoner may have limited autonomy;  
@@ -84,7 +82,7 @@ The presumption collapses into procedural fiction unless it constrains practice.
 
 ---
 
-## 5. Democratic Implications  
+## 📮 Democratic Implications  
 If innocence no longer limits state action, the public recognises:
 
 - inconsistency,  
@@ -103,7 +101,7 @@ Presumption of innocence protects the demos, not the accused alone.
 
 ---
 
-## 6. The Threshold Question  
+## 🧨 The Threshold Question  
 A democratic state must continuously ask:
 
 > **What must innocence mean for exceptional powers to remain legitimate?**
@@ -129,11 +127,11 @@ presumption of innocence, exceptional power, constitutional erosion, hunger stri
 
 > 📡 Cross-references:
 > 
-> - [⚠️ Erosion of Duty of Care Under Exception Logic](./⚠️_the_erosion_of_duty_of_care_under_exception_logic.md)  
-> - [🧨 Schmittian Drift in Exceptional Detention Governance](./🧨_the_schmittian_drift_in_exceptional_detention_governance.md)  
-> - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)  
-> - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)
+> - [⚠️ Erosion of Duty of Care Under Exception Logic](./⚠️_the_erosion_of_duty_of_care_under_exception_logic.md) - *how legal norms are pushed aside in "emergant" circumstances*  
+> - [🧨 Schmittian Drift in Exceptional Detention Governance](./🧨_the_schmittian_drift_in_exceptional_detention_governance.md) - *how "exceptions" push Schmitt's breakdown of democratic rule, specifically*  
+> - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *the crisis of legitimacy of democratic power created when exception states, public lack of information, and medical crises arise*  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) - *the hunger strike as an act of reclaiming sovereignty and dignity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-15_
