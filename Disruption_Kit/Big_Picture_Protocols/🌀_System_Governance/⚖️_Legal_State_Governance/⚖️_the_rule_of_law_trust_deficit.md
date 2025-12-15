@@ -1,6 +1,6 @@
-# ⚖️ The Rule-of-Law Trust Deficit
-**First created:** 2025-10-06 | **Last updated:** 2025-10-18  
-*Governance analysis of unequal terrorism classification and its effect on public legitimacy.*
+# ⚖️ The Rule-of-Law Trust Deficit  
+**First created:** 2025-10-06 | **Last updated:** 2025-12-15  
+*Governance analysis of unequal terrorism classification and its effect on public legitimacy.*  
 
 ---
 
@@ -42,9 +42,9 @@ It examines how unequal classification corrodes democratic legitimacy and outlin
 
 > 📡 Cross-references:
 > 
-> - [🧨 Differential Classification as Radicalisation Fuel](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md) - *Unequal terrorism designations as a driver of radicalisation and public confusion*  
-> - [🩸 The Repetition Mechanism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) - *Selective enforcement as a rehearsal of genocidal permissibility*  
+> - [🧨 Differential Classification as Radicalisation Fuel](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md) - *unequal terrorism designations as a driver of radicalisation*  
+> - [🩸 The Repetition Mechanism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) - *selective enforcement as a rehearsal of genocidal permissibility*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
