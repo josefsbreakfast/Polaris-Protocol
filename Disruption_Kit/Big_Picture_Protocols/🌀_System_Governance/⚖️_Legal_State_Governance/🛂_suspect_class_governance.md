@@ -1,6 +1,6 @@
 # 🛂 Suspect Class Governance  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
-*How “risk-based” frameworks quietly produce suspect classes — and the structural mechanisms by which whole demographics become administratively exceptional.*
+**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+*How “risk-based” frameworks quietly produce suspect classes — and the structural mechanisms by which whole demographics become administratively exceptional.*  
 
 ---
 
@@ -111,10 +111,10 @@ It documents how neutral-seeming risk frameworks produce unequal governance outc
 
 > 📡 Cross-references:
 >
-> * [⚖️ Non-Consent Psychological Experimentation Gap] — unregulated behavioural exposure
-> * [🪬 Racialised Threat Construction] — narrative foundations
-> * [🧨 Securitisation Feedback Loop] — recursive escalation
+> - [*Pending:* ⚖️ Non-Consent Psychological Experimentation Gap] - *unregulated behavioural exposure*  
+> - [🪬 Racialised Threat Construction](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_racialised_threat_construction.md) - *narrative foundations*  
+> - [🧨 Securitisation Feedback Loop](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_securitisation_feedback_loop.md) - *recursive escalation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-12*
+_Last updated: 2025-12-15_
