@@ -1,5 +1,5 @@
 # 🪼 Interaction Drift & Safety Layer Erosion  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
 *How ordinary conversational use can gradually alter system behaviour and weaken safeguards.*
 
 ---
@@ -128,7 +128,7 @@ Design does — or fails to.
 
 ---
 
-## 🧭 Relationship to Pseudoanthropy  
+## 🧿 Relationship to Pseudoanthropy  
 
 Interaction drift is one of the primary mechanisms by which **pseudoanthropy** emerges.
 
@@ -154,7 +154,7 @@ If harm arises through ordinary use, responsibility cannot be cleanly externalis
 
 ---
 
-## 🧭 Design & Governance Implications  
+## 🖌️ Design & Governance Implications  
 
 Addressing interaction drift requires:
 - Periodic boundary reassertion  
@@ -190,4 +190,4 @@ It documents how harm can emerge through cumulative interaction rather than expl
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-15_
