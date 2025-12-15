@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 00:53:07 UTC_
+_Generated on 2025-12-15 00:55:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -167,6 +167,7 @@ _Generated on 2025-12-15 00:53:07 UTC_
         - [`🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)
         - [`🧨_the_schmittian_drift_in_exceptional_detention_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)
         - [`🧩_distributed_executive_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_distributed_executive_governance.md)
+        - [`🧩_the_politic_is_no_longer_heard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_the_politic_is_no_longer_heard.md)
         - [`🧩_when_law_has_collapsed_into_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_when_law_has_collapsed_into_power.md)
         - [`🧬_irreversible_limits_when_physics_refuses_economic_fantasy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits_when_physics_refuses_economic_fantasy.md)
         - [`🧬_recycling_violence_through_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md)
@@ -3607,7 +3608,6 @@ _Generated on 2025-12-15 00:53:07 UTC_
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
-    - [`🧩_the_politic_is_no_longer_heard.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_politic_is_no_longer_heard.md)
     - [`🧩_the_prevent_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_prevent_paradox.md)
     - [`🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
