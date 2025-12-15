@@ -1,6 +1,6 @@
 # 🧪 The Wall-Tester Type  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-10  
-*Curiosity as integrity audit — when “rule-breaking” is really system diagnostics.*
+**First created:** 2025-11-10 | **Last updated:** 2025-12-15  
+*Curiosity as integrity audit — when “rule-breaking” is really system diagnostics.*  
 
 ---
 
@@ -48,9 +48,9 @@ feynman, curiosity, system testing, rule breaking, integrity audit, temperament 
 It explores diagnostic curiosity as a civic and psychological force — how the same trait can safeguard integrity or trigger discipline depending on who holds power.  
 
 > 📡 Cross-references:  
-> – [🧭 Leadership, Management & Moral Containment](../🧭_leadership_management_and_moral_containment.md) — leadership responses to diagnostic temperaments  
-> – [☢️ The Empathy Project](../☢️_the_empathy_project.md) — managing eccentric cognition under containment  
+> – [🧭 Leadership, Management & Moral Containment] — leadership responses to diagnostic temperaments  
+> – [☢️ The Empathy Project] — managing eccentric cognition under containment  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-10_
+_Last updated: 2025-12-15_
