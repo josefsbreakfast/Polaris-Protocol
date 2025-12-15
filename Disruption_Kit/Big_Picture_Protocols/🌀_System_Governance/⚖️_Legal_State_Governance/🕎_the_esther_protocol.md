@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Orientation
+## 🛰️ Orientation
 
 The **Esther Protocol** is a structural governance archetype describing how individuals with limited institutional power use *procedural rights, lawful disclosure, timing, and documentation* to alter institutional outcomes.  
 It formalises a pattern observed across:
