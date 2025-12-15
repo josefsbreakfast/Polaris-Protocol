@@ -1,8 +1,6 @@
-File: 🧯_prevent_as_political_atomisation_engine.md
-
 # 🧯 Prevent as a Political Atomisation Engine  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How Prevent functions not only as a counter-extremism policy, but as a structural engine of social fragmentation, misclassification, and pre-emptive political suppression.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-15  
+*How Prevent functions not only as a counter-extremism policy, but as a structural engine of social fragmentation, misclassification, and pre-emptive political suppression.*  
 
 ---
 
@@ -188,10 +186,14 @@ This is fundamentally incompatible with democratic health.
 ---
 
 ## 🏮 Footer  
-**Prevent as a Political Atomisation Engine** anchors Polaris’ analysis of authoritarian drift, community fragmentation, and data contamination.  
+*🧯 Prevent as a Political Atomisation Engine* anchors Polaris’ analysis of authoritarian drift, community fragmentation, and data contamination.  
 It exposes how systems built under the banner of “safety” become engines for political suppression and misinterpretation.
 
-Crosslinks:  
-- 🧷 *culture_war_risk_logic_in_uk_public_institutions*  
-- 🗃️ *safeguarding_logic_mission_creep_and_identity_pathologising*  
-- 📡 *cross-system_metadata_echo_chains*
+> 📡 Cross-references:
+> 
+> - [⚔️ Culture War Risk Logic in UK Public Institutions](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚔️_culture_war_risk_logic_in_uk_public_institutions.md) - *how the same people who complain about "identity politics" started using it inside UK public institutions to consolidate power*  
+> - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*  
+> - [📡 Cross-System Metadata Echo Chains](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md) - *how data slips between systems, creating falsity and inaccuracy in records*
+> - [📛 Bureaucratic Memory Failure & Identity Contamination](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md) - *how systems misremember people*  
+
+_Last updated: 2025-12-15_
