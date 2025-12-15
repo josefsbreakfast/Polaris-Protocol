@@ -1,6 +1,6 @@
 # 🧬 Centroid Collapse Mechanism  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How synthetic centroids fail under moral, political, or emotional stress — and why their collapse destabilises entire PR and security modelling systems.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-15  
+*How synthetic centroids fail under moral, political, or emotional stress — and why their collapse destabilises entire PR and security modelling systems.*  
 
 ---
 
@@ -248,3 +248,5 @@ This node links directly with:
 
 Together they map why systems that can’t handle human complexity create synthetic children —  
 and why those children eventually return to expose the truth.
+
+_Last updated: 2025-12-15_
