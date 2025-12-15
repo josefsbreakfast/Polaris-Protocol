@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 07:08:34 UTC_
+_Generated on 2025-12-15 07:14:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2754,7 +2754,7 @@ _Generated on 2025-12-15 07:08:34 UTC_
     - [`📿_survivor_syntax.md`](Disruption_Kit/🏮_AntiContainment_Clauses/📿_survivor_syntax.md)
     - [`🔮_visibility_is_a_right_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🔮_visibility_is_a_right_clause.md)
     - [`🕷️_misuse_resilience.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🕷️_misuse_resilience.md)
-    - [`🕸_metadata_defense.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🕸_metadata_defense.md)
+    - [`🕸_metadata_defence.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🕸_metadata_defence.md)
     - [`🚪_walk_out_scripts.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🚪_walk_out_scripts.md)
     - [`🛰️_digital_counter_containment_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🛰️_digital_counter_containment_clause.md)
     - [`🧾_new_additions_prepbook.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🧾_new_additions_prepbook.md)
