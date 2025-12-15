@@ -1,5 +1,5 @@
 # 🏛️ The Wannsee Template: How Bureaucratic Genocide Operates  
-**First created:** 2025-10-17 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-17 | **Last updated:** 2025-12-15  
 *A practical explainer of the administrative pattern behind mass atrocity: vague authorisation, coded language, and coordinated logistics — without a single explicit order.*
 
 ---
@@ -134,10 +134,10 @@ The node exists to train early recognition of language drift, coordination ritua
 
 > 📡 Cross-references:
 > 
-> - [🪶 Reading the Dog Whistle](../Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🪶_reading_the_dog_whistle.md)  
-> - [⚖️ Due Diligence as Moral Defence](../Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚖️_due_diligence_as_moral_defence.md)  
-> - [🧭 Algorithmic Statecraft — Public Law Interfaces](../Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_algorithmic_statecraft_public_law_interfaces.md)  
+> - [🐕 Reading the Dog Whistle](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🐕_reading_the_dog_whistle.md)  
+> - [⚖️ Due Diligence as Moral Defence](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_due_diligence_as_moral_defence.md)  
+> - [*Pending:* 🧭 Algorithmic Statecraft — Public Law Interfaces]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-12-15_
