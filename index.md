@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:03:42 UTC_
+_Generated on 2025-12-15 01:05:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2833,6 +2833,7 @@ _Generated on 2025-12-15 01:03:42 UTC_
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
       - [`🧨_bad_broker_effect.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧨_bad_broker_effect.md)
       - [`🧬_distributed_trust.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_distributed_trust.md)
+      - [`🧬_twinning_as_reputation_repair.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_twinning_as_reputation_repair.md)
       - [`🧶_soft_capture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧶_soft_capture.md)
       - [`🩸_pain_as_credential.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🩸_pain_as_credential.md)
       - [`🪄_performative_empathy_economies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪄_performative_empathy_economies.md)
@@ -3612,7 +3613,6 @@ _Generated on 2025-12-15 01:03:42 UTC_
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
-    - [`🧩_twinning_as_reputation_repair.md`](Polaris_Nest/Git_Intake_Drawer/🧩_twinning_as_reputation_repair.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_left_looks_scary_during_deradicalisation.md)
     - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧩_why_the_machine_tags_high_friction_profiles.md)
