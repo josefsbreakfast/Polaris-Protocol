@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:22:44 UTC_
+_Generated on 2025-12-15 01:23:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3240,6 +3240,7 @@ _Generated on 2025-12-15 01:22:44 UTC_
       - [`🧩_the_data_empathy_gap.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_the_data_empathy_gap.md)
       - [`🧩_threat_surface_map.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_threat_surface_map.md)
       - [`🧪_inspection_data_workflow_hmip_probation_university_loop.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧪_inspection_data_workflow_hmip_probation_university_loop.md)
+      - [`🧬_adolescent_endocrine_axis_vs_risk_axis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_adolescent_endocrine_axis_vs_risk_axis.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
       - [`🧬_data_correction_notices.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
@@ -3626,7 +3627,6 @@ _Generated on 2025-12-15 01:22:44 UTC_
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
-    - [`🧬_adolescent_endocrine_axis_vs_risk_axis.md`](Polaris_Nest/Git_Intake_Drawer/🧬_adolescent_endocrine_axis_vs_risk_axis.md)
     - [`🧬_affective_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧬_affective_infrastructure.md)
     - [`🧬_algorithmic_iatrogenesis_and_reflex_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_algorithmic_iatrogenesis_and_reflex_loops.md)
     - [`🧬_ambient_data_exhaust.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ambient_data_exhaust.md)
