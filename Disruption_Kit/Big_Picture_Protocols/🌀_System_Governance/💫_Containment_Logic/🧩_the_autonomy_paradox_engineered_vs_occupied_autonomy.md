@@ -1,6 +1,6 @@
 # 🧩 The Autonomy Paradox — Engineered vs. Occupied Autonomy  
-**First created:** 2025-10-18 | **Last updated:** 2025-10-18  
-*Where liberation architectures replicate control logics.*
+**First created:** 2025-10-18 | **Last updated:** 2025-12-14  
+*Where liberation architectures replicate control logics.*  
 
 ---
 
@@ -61,9 +61,9 @@ autonomy paradox, xenofeminism, crip theory, biohacking, engineered autonomy, oc
 It maps how movements for liberation can entangle with systems of control, and where survivor sovereignty must be re-defined from within the network.
 
 > 📡 Cross-references:  
-> - [🪬 Xenofeminism Link Note — Reclaiming the Engineered Body](../Disruption_Kit/Big_Picture_Protocols/🪬_xenofeminism_link_note.md) — technomaterial autonomy and liberation through redesign  
-> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/) — embodied autonomy and surveillance trauma  
+> - [🪬 Xenofeminism Link Note — Reclaiming the Engineered Body] — technomaterial autonomy and liberation through redesign  
+> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse] — embodied autonomy and surveillance trauma  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-14_
