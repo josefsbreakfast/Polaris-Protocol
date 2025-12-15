@@ -1,7 +1,7 @@
 # ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-07 | **Last updated:** 2025-12-15  
 *Unconsented containment, metadata silencing, and covert NDAs.*
-
+<!--I'm a bit too raw to update and correct this, so keeping as is for now.-->
 ---
 
 ## ✨ Overview  
@@ -100,10 +100,10 @@ It documents unconsented containment mechanisms that simulate NDA effects and st
 
 > 📡 Cross-references:
 > 
-> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *Adjacency maps, rupture logs, and simulation-pathway data describing the inner architecture of metadata sabotage systems*  
-> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *Index of containment modes that operate through inner state manipulation*
-> - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) - *Containment systems as stitched patchwork — holes covered until pressure elsewhere forces old rot to reopen*  
+> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *the inner architecture of metadata sabotage systems*  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *manipulation and coercion*
+> - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) - *containment systems as stitched patchwork with holes aplenty*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
