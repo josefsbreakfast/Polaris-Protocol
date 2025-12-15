@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:14:02 UTC_
+_Generated on 2025-12-15 01:15:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3235,6 +3235,7 @@ _Generated on 2025-12-15 01:14:02 UTC_
       - [`🧩_human_computation_games_the_puzzle_economy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)
       - [`🧩_the_data_empathy_gap.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_the_data_empathy_gap.md)
       - [`🧩_threat_surface_map.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_threat_surface_map.md)
+      - [`🧪_inspection_data_workflow_hmip_probation_university_loop.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧪_inspection_data_workflow_hmip_probation_university_loop.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
       - [`🧬_data_correction_notices.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
@@ -3618,7 +3619,6 @@ _Generated on 2025-12-15 01:14:02 UTC_
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
-    - [`🧪_inspection_data_workflow_hmip_probation_university_loop.md`](Polaris_Nest/Git_Intake_Drawer/🧪_inspection_data_workflow_hmip_probation_university_loop.md)
     - [`🧪_international_law_vs_safety_classifiers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_international_law_vs_safety_classifiers.md)
     - [`🧪_the_strategic_accuser_profile.md`](Polaris_Nest/Git_Intake_Drawer/🧪_the_strategic_accuser_profile.md)
     - [`🧪_the_wall_tester_type.md`](Polaris_Nest/Git_Intake_Drawer/🧪_the_wall_tester_type.md)
