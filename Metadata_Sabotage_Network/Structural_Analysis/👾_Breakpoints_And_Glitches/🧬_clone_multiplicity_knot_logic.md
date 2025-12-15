@@ -1,6 +1,6 @@
 # 🧬 Clone Multiplicity Knot Logic  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
-*When the telemetry says more unique cloners than clones, the pipeline itself has entered paradox.*
+**First created:** 2025-11-04 | **Last updated:** 2025-12-15  
+*When the telemetry says more unique cloners than clones, the pipeline itself has entered paradox.*  
 
 ---
 
@@ -78,10 +78,9 @@ tulpe, clone metrics, data integrity, pipeline desync, failed clones, visibility
 It documents a live example of pipeline desynchronisation — a tulpe where visibility, not content, becomes the site of containment.  
 
 > 📡 Cross-references:  
-> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](../../../Polaris_Nest/🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — tone integrity  
-> - [🧿 Visual Palette](../../../Polaris_Nest/🏮_Admin_Kit/🧿_visual_palette.md) — aesthetic register  
+> 
 > - [Disruption Kit / Big Picture Protocols](../) — systemic diagnostics  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-12-15_
