@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:32:49 UTC_
+_Generated on 2025-12-15 01:33:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3245,6 +3245,7 @@ _Generated on 2025-12-15 01:32:49 UTC_
       - [`🧩_threat_surface_map.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_threat_surface_map.md)
       - [`🧪_inspection_data_workflow_hmip_probation_university_loop.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧪_inspection_data_workflow_hmip_probation_university_loop.md)
       - [`🧬_adolescent_endocrine_axis_vs_risk_axis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_adolescent_endocrine_axis_vs_risk_axis.md)
+      - [`🧬_centroid_overweighting_problem.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_centroid_overweighting_problem.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
       - [`🧬_data_correction_notices.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
@@ -3632,7 +3633,6 @@ _Generated on 2025-12-15 01:32:49 UTC_
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
-    - [`🧬_centroid_overweighting_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧬_centroid_overweighting_problem.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_clone_multiplicity_knot_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_multiplicity_knot_logic.md)
     - [`🧬_collocative_deintegrity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_collocative_deintegrity.md)
