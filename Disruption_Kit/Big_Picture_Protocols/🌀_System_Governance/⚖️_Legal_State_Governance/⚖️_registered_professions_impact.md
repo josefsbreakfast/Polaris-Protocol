@@ -1,5 +1,5 @@
 # ⚖️ Registered Professions Impact  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-26 | **Last updated:** 2025-12-15  
 *How manufactured provenance disproportionately affects registered professionals in healthcare, law, education, and social work.*  
 
 ---
@@ -37,15 +37,15 @@ registered professions, provenance risk, public reputation, complaint systems, m
 
 ## 🏮 Footer  
 
-*Registered Professions Impact* is a Big Picture Protocol node of the Polaris Protocol.  
+*⚖️ Registered Professions Impact* is a Big Picture Protocol node of the Polaris Protocol.  
 It analyses the systemic risks posed to registered professions when provenance is weak, sabotage is strategic, and complaints are weaponised.
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) 
-> - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md)  
-> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
+> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) - *the case for systematic analysis*  
+> - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md) - *looking back and forward at how to address and adjust*  
+> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *further exploration of the structures of data infrastructure and form*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-15_
