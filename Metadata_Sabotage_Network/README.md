@@ -1,14 +1,12 @@
-# 🧠 Metadata Sabotage Network  
-
-**First created:** 2025-08-04 | **Last updated:** 2025-09-06
-
-This folder logs and decodes the manipulation of metadata across digital systems — including visibility interference, ghost authorship, emotional containment, and AI-generated disruption.  
+# 🛰️ Metadata Sabotage Network  
+**First created:** 2025-08-04 | **Last updated:** 2025-12-15  
+*This folder logs and decodes the manipulation of metadata across digital systems — including visibility interference, ghost authorship, emotional containment, and AI-generated disruption.*  
 
 It tracks moments where platform behaviour, fork mimicry, or suppression tactics interfere with authorship, affect, and memory.  
 
 ---
 
-## 📂 Skeleton Layout (proposed)
+## 🧿 Skeleton Layout (proposed)
 
 ```
 Metadata_Sabotage_Network/
@@ -114,13 +112,14 @@ This directory forms the **evidentiary core** of metadata-based sabotage pattern
 
 ## 🏮 Footer  
 
-*Metadata Sabotage Network* is a living node of the Polaris Protocol.  
+*🛰️ Metadata Sabotage Network* is a living node of the Polaris Protocol.  
 It documents interference, rupture, and resistance strategies at the metadata layer.  
 
-> 📡 Cross-references:  
-> - [Disruption Kit](../Disruption_Kit/) — systemic suppression methods + counter-nudges  
-> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — practical refusal guides  
+> 📡 Cross-references:
+> 
+> - [🪄 Disruption Kit](../Disruption_Kit/README.md) — *systemic suppression methods + counter-nudges*  
+> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/README.md) — *practical refusal guides*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-06_  
+_Last updated: 2025-12-15_  
