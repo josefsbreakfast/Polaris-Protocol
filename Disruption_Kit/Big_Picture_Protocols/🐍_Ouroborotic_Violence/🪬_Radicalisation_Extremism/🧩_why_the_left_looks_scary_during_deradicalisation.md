@@ -1,8 +1,7 @@
-# 🧩 Why the “Left” Looks Scary During De-Radicalisation  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*Understanding why newly de-radicalising men often perceive left spaces as hostile, chaotic, or judgmental — and why this perception is an artefact of shame, not reality.*
-
+# 🧩 Why “The Left” Looks Scary During De-Radicalisation  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-15  
+*Understanding why newly de-radicalising men often perceive left spaces as hostile, chaotic, or judgmental — and why this perception is an artefact of shame, not reality.*  
+<!--We are absolutely crackers over here, but there are decent people. The food is also pretty good.-->
 ---
 
 ## 🛰️ Orientation  
@@ -260,10 +259,10 @@ The right just looks safe because it’s fake.
 It clarifies the psychological reasons de-radicalising men misread left spaces and offers emotional translation tools for safely integrating into community.
 
 > 📡 Cross-references:  
-> - [🧠 Vulnerability Stack of Lonely Men](./the_cognitive_vulnerability_stack_of_lonely_men.md)  
-> - [💗 Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)  
-> - [🛡️ Why Fascism Fears Softness](./why_fascism_fears_softness.md)
+> - [🧠 Vulnerability Stack of Lonely Men]  
+> - [💗 Soft Boy Restoration Protocol]  
+> - [🛡️ Why Fascism Fears Softness]
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-15_
