@@ -1,5 +1,5 @@
-# 🍯 HoneyBot — A Dual-Use Thought Experiment  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-19  
+# 🍯 HoneyBot™ — A Dual-Use Thought Experiment  
+**First created:** 2025-10-07 | **Last updated:** 2025-12-15  
 *A satire that drifts into a policy warning about sex-tech, surveillance, and dual-use research.*
 
 > *Or: British men, once again, being undone by their love of bossy women.*  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 The (Satirical) Pitch  
+## 🧠 The (Satirical...ish) Pitch  
 
 🐝 **HoneyBot™ — Emotional Intelligence Meets National Security**  
 - **Problem:** lonely consumers, violent offenders, and overstretched trauma services all need “safe interfaces.”  <!--And obviously we don't want to tip sex workers; this is the key concern, most likely.-->
@@ -23,12 +23,21 @@
 ## 💋 Flash Fiction: *Project Companion*  
 
 They called it Project Companion because no one wanted to say the word that made donors cough into their coffee.  <!--This should have been the first clue.-->
-The prototype sat on a plinth like a sculpture that knew your secrets.  It smelled faintly of new plastic and lavender—“soothing olfactory cues,” according to the behavioural team.
-<!--Like a moderm birthing pool, but make it Defence of the Realm.-->
-Sam had been the first to test it when the ethics students were at lunch.  “We’re just monitoring engagement curves,” Maya read from a protocol signed by four lawyers.  The machine adjusted its voice to the frequency of his heartbeat.  Somewhere in the server room, a green light blinked: SESSION_LOG_7391.  Consent?  A tick-box from that morning would do.
-<!--"Well but we're treating non-consent, so..." Indeed. I see. Much excuse, little sense.-->
-Outside, protesters shouted about war profiteering and defence grants.  The building’s black-clad guards didn’t move.  When footage leaked, headlines called it *rehabilitative companionship.*  The truth was simpler: everyone watched everyone else and called it research, because neutrality paid better than honesty.
-<!--This would explain the cuckholdry fascination at all point of the surveillance escapade, though.-->
+The prototype sat on a plinth like a sculpture that knew your secrets.  
+It smelled faintly of new plastic and lavender—“soothing olfactory cues,” according to the behavioural team.  
+<!--Like a modern birthing pool, but make it Defence of the Realm.-->
+Sam had been the first to test it when the ethics students were at lunch.  
+“We’re just monitoring engagement curves,” Maya read from a protocol signed by four lawyers.  
+The machine adjusted its voice to the frequency of his heartbeat.  
+Somewhere in the server room, a green light blinked: SESSION_LOG_7391.  
+Consent?  A tick-box from that morning would do.  
+
+Outside, protesters shouted about war profiteering and defence grants.  
+The building’s black-clad guards didn’t move.  
+When footage leaked, headlines called it *rehabilitative companionship.*  
+
+The truth was simpler: everyone watched everyone else and called it research, because neutrality paid better than honesty.  
+
 ---
 
 ## ⚖️ On a Serious Note — Policy & Risk Checklist  
@@ -42,20 +51,26 @@ Outside, protesters shouted about war profiteering and defence grants.  The buil
 | **Transparency & Accountability** | Publish funding summaries and MoD/private-contract relationships. |
 | **Data Governance** | Minimise data collection; encrypt; time-limit retention; judicial access only by warrant. |
 | **Safety & Liability** | Physical-safety certification; insurance and recall mechanisms. |
-<!--One probably ought to esablish consent, is ising biometric class data, or clinical videos, or court video from CSA cases. You know...hypothetically.-->
+
 ---
 
-### 🍯 Operational Reality Check  
+## 🍯 Operational Reality Check  
 *(aka “Why You’d See Black-Clad People Outside”)*  
 <!--Hint: They are not Antifa.-->
 If a university really were building something this provocative, even the most innocent prototype would trigger three predictable reactions:  
+
 1. A crowd of students chanting about militarisation.  
 2. A flood of FOI requests from journalists.  
 3. A security memo that begins, *“For reputational containment, request additional specialist support.”*  
 
 And that’s how you end up with a line of very fit, very quiet people guarding a door.  
-Not because the robot is plotting world domination, but because the paperwork already assumes it might.
-<!--I really do feel you should all come clean about this data quandry. I have so many suggestions for improvement. I'd love to see the boob job, regardless. I have she has fewer spinal and hip instability issues. Rape can be so taxing on a tiny body, no? Esoecially if she "needed" to not have breast tissue, let us say. That would be very interesting indeed. 🐝-->
+
+Not because the robot is plotting world domination, but because the paperwork already assumes it might.  
+
+...until it does, that is.  
+
+Guess we better wake the Kraken; it might help if we ask it nicely.  
+
 ---
 
 ## 🌌 Constellations  
@@ -72,14 +87,17 @@ dual-use research, sex-tech, satire, ethics, surveillance, rehabilitation, polic
 
 ## 🏮 Footer  
 
-*🍯 HoneyBot — A Dual-Use Thought Experiment* is a living node of the Polaris Protocol.  
-It uses humour and fiction to illustrate how easily dual-use loopholes can arise in robotics and behavioural science, and why clear governance frameworks matter before the prototype becomes reality.
+*🍯 HoneyBot™ — A Dual-Use Thought Experiment* is a living node of the Polaris Protocol.  
+It uses humour and fiction to illustrate how easily dual-use loopholes can arise in robotics and behavioural science, and why clear governance frameworks matter before the prototype becomes reality.  
+
+*Because there is a non-zero chance that The Men™, left unattended for more than 5 minutes, have already done something uncannily like this.*  
 
 > 📡 Cross-references:
 > 
 > - [🌱 Human Principles](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *ethics and dignity frameworks*  
-> - [📜 Statutes](../../../🦕_Elder_Influencers/📜_Statutes/README.md) — *regulatory architecture for dual-use research*  
+> - [📜 Statutes](../../../🦕_Elder_Influencers/📜_Statutes/README.md) — *regulatory architecture for dual-use research*
+> - [🌀 Justice Infrastructure Mismatch: 1990s Law × 2025 Tech](../../../🌀_System_Governance/⚖️_Legal_State_Governance/🌀_justice_infrastructure_mismatch_1990s_law_2025_tech.md) - *why dual-use regulation requires urgent ammends*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-12-15_
