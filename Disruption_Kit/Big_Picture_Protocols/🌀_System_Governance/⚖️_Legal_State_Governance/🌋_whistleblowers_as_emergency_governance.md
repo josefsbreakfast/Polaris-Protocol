@@ -4,13 +4,13 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 When formal accountability fails, truth leaks through the cracks. Whistleblowing is not an act of rebellion — it is the **body politic trying to heal itself**. Across modern democracies, disclosure has become the last functioning instrument of governance: an improvised network of conscience compensating for institutional paralysis.
 
 ---
 
-## 🧩 The Emergency Function  
+## ✨ The Emergency Function  
 
 Whistleblowers appear when ordinary governance stops processing reality. They are the **error messages** of a closed system — signals of malfunction and moral residue.
 
