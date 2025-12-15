@@ -1,10 +1,10 @@
 # ⚖️ Royalties and Liability for Uncredited Training Data — Misclassification & Special-Purpose Use  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-20  
-*A reference brief on ownership, compensation, and Crown liability for misclassified or dual-use AI training datasets.*
+**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
+*A reference brief on ownership, compensation, and Crown liability for misclassified or dual-use AI training datasets.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 A dataset originating from a UK university (e.g., student work, internal research papers) was:
 
@@ -14,7 +14,7 @@ A dataset originating from a UK university (e.g., student work, internal researc
 
 ---
 
-## 🧩 Key Legal Frames in Play  
+## ✨ Key Legal Frames in Play  
 
 | Domain | Question | Governing Law / Regime |
 |:--|:--|:--|
@@ -112,11 +112,12 @@ royalties vs damages, misclassified datasets, special-purpose vehicles, reasonab
 *⚖️ Royalties and Liability for Uncredited Training Data — Misclassification & Special-Purpose Use* is a living node of the Polaris Protocol.  
 It bridges intellectual-property, data-protection and defence-law frameworks for AI training cases involving misclassification or Crown use.  
 
-> 📡 Cross-references:  
-> - [⚖️ Royalties and Liability for Uncredited Training Data — UK Framework] *TBC*    
-> - [⚖️ Defence Data and Crown Use Compensation Cases] *TBC*    
-> - [🧭 Algorithmic Statecraft — Public Law Interfaces] *TBC*    
+> 📡 Cross-references:
+> 
+> [🎙️ Unconsented Voice Beta](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎙️_unconsented_voice_beta.md) - *CVE R&D but make it somehow worse.*
+> [🧾 Student Data Abuse](../../../../Metadata_Sabotage_Network/Data_Risks/📿_Vulnerable_Data_Populations/🧾_student_data_abuse.md) - *the surveillence of learning*  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-12-15_
