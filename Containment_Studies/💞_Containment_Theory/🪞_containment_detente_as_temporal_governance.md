@@ -1,17 +1,17 @@
 # 🪞 Containment & Détente as Temporal Governance  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*Control of rate and scope rather than binary state.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-15  
+*Control of rate and scope rather than binary state.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Containment and détente are not moral opposites but **temporal instruments**.  
 They manage *speed* and *scope* — the tempo of change and the range of permitted relation.  
 When viewed as temporal governance, containment slows, filters, and sequences; détente widens and synchronises.  
 
 ---
 
-## 🧩 Core Principles  
+## ✨ Core Principles  
 
 - **Rate Control:** regulating how quickly novelty can enter a system.  
 - **Scope Control:** determining how far interactions can extend without collapse.  
@@ -44,8 +44,8 @@ It reframes strategy as time modulation, revealing how control operates through 
 > 📡 Cross-references:
 > 
 > - [🧬 Containment as Co-evolutionary Ecology](./🧬_containment_as_coevolutionary_ecology.md)  
-> - [🌀 Containment/Détente Cycle](./🌀_containment_detente_cycle.md)
+> - [🌀 Containment/Détente Cycle](./🌀_containment_detente_cycle.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-15_
