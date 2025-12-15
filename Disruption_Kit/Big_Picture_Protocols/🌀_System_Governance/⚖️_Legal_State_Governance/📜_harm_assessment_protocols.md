@@ -1,6 +1,6 @@
-# 📜 Harm Assessment Protocols
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How institutions evaluate whether damage occurred and what must be done.*
+# 📜 Harm Assessment Protocols  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+*How institutions evaluate whether damage occurred and what must be done.*  
 
 ---
 
@@ -59,9 +59,10 @@ harm assessment, institutional liability, impact evaluation, remediation thresho
 It provides a framework for understanding how institutions evaluate and respond to genuine harm arising from governance failures.
 
 > 📡 Cross-references:
-> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md)  
-> - [🏗️ Skyscraper Over Pebbles]  
+> 
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) - *how institutions move from causing to remedying harms*  
+> - [🏗️ Skyscraper Over Pebbles](../📚_Narrative_Management/🏗️_skyscraper_over_pebbles.md) - *making mountains out of molehills and calling it "reputational management*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
