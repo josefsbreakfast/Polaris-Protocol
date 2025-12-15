@@ -1,6 +1,6 @@
 # 🧩 When Law Has Collapsed into Power (Checklist)  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
-*A practical checklist for identifying the threshold where legality yields to coercive power in policing practice.*
+**First created:** 2025-12-13 | **Last updated:** 2025-12-15  
+*A practical checklist for identifying the threshold where legality yields to coercive power in policing practice.*  
 
 ---
 
@@ -145,7 +145,7 @@ law and power, enforcement discretion, symbolic policing, fear-based decision ma
 
 ## 🏮 Footer  
 
-*When Law Has Collapsed into Power (Checklist)* is a diagnostic tool within the **Polaris Protocol**.  
+*🧩 When Law Has Collapsed into Power (Checklist)* is a diagnostic tool within the **Polaris Protocol**.  
 It provides a clear, pattern-based method for identifying when policing practice has crossed from legal governance into coercive power management.
 
 > 📡 Cross-references:
@@ -155,4 +155,4 @@ It provides a clear, pattern-based method for identifying when policing practice
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-15_
