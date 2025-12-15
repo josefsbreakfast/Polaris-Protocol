@@ -1,5 +1,5 @@
 # ⚖️ Official Secrets Reform and Accountability  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-15  
 *Re-examining secrecy architecture, 'perpetual hook', and controlled accountability.*  
 
 ---
@@ -37,9 +37,9 @@ official secrets act, governance reform, perpetual hook, accountability, data et
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Shielded Roles and Information Risk Governance](/)  
-> - [📜 If— and the Ethics of Staying Intact](/)  
+> - [⚖️ Shielded Roles and Information Risk Governance](../👑_Ownership_Control/⚖️_shielded_roles_and_information_risk_governance.md) - *why MOD's SIROs remain nameless*  
+> - [📜 If— and the Ethics of Staying Intact](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📜_if_and_the_ethics_of_staying_intact.md) - *poetry for loss*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2025-12-15_
