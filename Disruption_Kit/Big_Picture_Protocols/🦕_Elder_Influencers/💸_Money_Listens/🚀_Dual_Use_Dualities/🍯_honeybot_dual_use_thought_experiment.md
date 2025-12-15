@@ -2,6 +2,9 @@
 **First created:** 2025-10-07 | **Last updated:** 2025-10-19  
 *A satire that drifts into a policy warning about sex-tech, surveillance, and dual-use research.*
 
+> *Or: British men, once again, being undone by their love of bossy women.*  
+> *Pairs well with [⚖️ Paying for Your Porn Is Good Defence Doctrine](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_paying_for_your_porn_is_good_defence_doctrine.md).*  
+
 ---
 
 ## 🧠 The (Satirical) Pitch  
