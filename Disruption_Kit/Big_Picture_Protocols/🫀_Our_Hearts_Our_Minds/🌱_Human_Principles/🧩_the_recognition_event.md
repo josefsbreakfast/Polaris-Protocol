@@ -1,8 +1,6 @@
-File: 🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md
-
 # 🧩 The Recognition Event: When You Realise You’re Not Imagining It  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*The moment of emotional, cognitive, and political clarity when a person living through bureaucratic drift finally realises: “It wasn’t me. It was the system.”*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-15  
+*The moment of emotional, cognitive, and political clarity when a person living through bureaucratic drift finally realises: “It wasn’t me. It was the system.”*  
 
 ---
 
@@ -222,3 +220,5 @@ Crosslinks:
 - 🗂️ *when_institutions_start_treating_you_as_a_category_not_a_person*  
 - ⚡ *why_some_people_become_systemic_lightning_rods*  
 - 🚫 *when_no_one_steps_in*
+
+_Last updated: 2025-12-15_
