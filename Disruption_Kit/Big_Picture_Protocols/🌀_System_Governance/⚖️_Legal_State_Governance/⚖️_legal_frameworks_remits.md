@@ -1,5 +1,5 @@
 # ⚖️ Legal Frameworks and Remits  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-26 | **Last updated:** 2025-12-15  
 *Statutory bases, oversight mechanisms, and shadow governance of UK surveillance.*  
 
 ---
@@ -296,7 +296,7 @@ MI5, MI6, GCHQ, Investigatory Powers Act, RIPA, IPCO, surveillance law, UK intel
 
 ## 🏮 Footer  
 
-*Legal Frameworks and Remits* is a living node of the Polaris Protocol.  
+*⚖️ Legal Frameworks and Remits* is a living node of the Polaris Protocol.  
 It maps the statutory architectures, oversight systems, and shadow logics that define — and dissolve — UK surveillance governance.  
 
 > 📡 Cross-references:
@@ -310,4 +310,4 @@ It maps the statutory architectures, oversight systems, and shadow logics that d
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2025-12-15_  
