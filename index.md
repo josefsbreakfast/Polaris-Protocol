@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:00:52 UTC_
+_Generated on 2025-12-15 01:02:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1298,6 +1298,7 @@ _Generated on 2025-12-15 01:00:52 UTC_
         - [`🧩_friction_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_friction_patterns.md)
         - [`🧩_limits_of_remote_repair.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_limits_of_remote_repair.md)
         - [`🧩_semi_compensating_spld_theory_when_gift_and_glitch_co_exist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_semi_compensating_spld_theory_when_gift_and_glitch_co_exist.md)
+        - [`🧩_the_recognition_event.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_the_recognition_event.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
@@ -3609,7 +3610,6 @@ _Generated on 2025-12-15 01:00:52 UTC_
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
-    - [`🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_recognition_event_when_you_realise_you_are_not_imagining_it.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
     - [`🧩_threat_surface_map.md`](Polaris_Nest/Git_Intake_Drawer/🧩_threat_surface_map.md)
     - [`🧩_twinning_as_reputation_repair.md`](Polaris_Nest/Git_Intake_Drawer/🧩_twinning_as_reputation_repair.md)
