@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 00:51:45 UTC_
+_Generated on 2025-12-15 00:53:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3226,6 +3226,7 @@ _Generated on 2025-12-15 00:51:45 UTC_
       - [`🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md)
       - [`🧠_reframing_loops_in_ml_products.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_reframing_loops_in_ml_products.md)
       - [`🧩_human_computation_games_the_puzzle_economy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)
+      - [`🧩_the_data_empathy_gap.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_the_data_empathy_gap.md)
       - [`🧬_cloneproof.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
       - [`🧬_data_correction_notices.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
@@ -3605,7 +3606,6 @@ _Generated on 2025-12-15 00:51:45 UTC_
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
-    - [`🧩_the_data_empathy_gap.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_data_empathy_gap.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_politic_is_no_longer_heard.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_politic_is_no_longer_heard.md)
     - [`🧩_the_prevent_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_prevent_paradox.md)
