@@ -1,5 +1,5 @@
 # ⚖️ The Conduit and the Safeguard  
-**First created:** 2025-11-06 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-06 | **Last updated:** 2025-12-15  
 *Explaining to British compliance officers why cross‑jurisdictional data flows require explicit safeguards when Israeli law is in play.*  
 
 ---
@@ -73,8 +73,11 @@ uk data protection, israeli law, cross‑jurisdictional safeguards, gdpr complia
 *⚖️ The Conduit and the Safeguard* is a living node of the **Polaris Protocol**. It provides UK compliance professionals with actionable guidance on safeguarding personal data in UK–Israel collaborations.
 
 > 📡 Cross‑references:  
-> 
+>
+> - [🧨 Gitmo to Gaza Exception Chain](../📚_Narrative_Management/🧨_gitmo_to_gaza_exception_chain.md) - *reciprocal influences of Western and Israeli carcerality through the years*
+> - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md) - *structural necessity of apartheid and interdependence of white supremacy (such supremacy requires this much bolstering to "exist natrually", apparently)*
+> - [🛰️ Microsoft Partial Cut — Israel Surveillance](../🛰️_Infrastructure_Procurement/🛰️_microsoft_partial_cut_israel_surveillance.md) - *even surveillance capitalists put safeguards in place, occasionally*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-15_
