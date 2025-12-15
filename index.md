@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 22:03:06 UTC_
+_Generated on 2025-12-15 22:03:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -89,8 +89,6 @@ _Generated on 2025-12-15 22:03:06 UTC_
       - [`🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
-        - [**election_audit/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/)
-          - [`🧩_socioeconomic_clusters_of_reform_support.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/election_audit/🧩_socioeconomic_clusters_of_reform_support.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
         - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
         - [`uk_debates_overlap.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_debates_overlap.png)
@@ -4129,6 +4127,7 @@ _Generated on 2025-12-15 22:03:06 UTC_
       - [`🦾_stronghold_capture_audit.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/🦾_stronghold_capture_audit.md)
       - [`🦾_stronghold_capture_audit_template.csv`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/🦾_stronghold_capture_audit_template.csv)
       - [`🧠_citizen_audit_behavioural_data_in_elections.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/🧠_citizen_audit_behavioural_data_in_elections.md)
+      - [`🧩_socioeconomic_clusters_of_reform_support.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/🧩_socioeconomic_clusters_of_reform_support.md)
     - [**🧪_Sciencing_Apartheid/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)
       - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
