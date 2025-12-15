@@ -1,6 +1,6 @@
-# 🔁 Post-Realisation Phase
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*What institutions do after recognising procedural failure.*
+# 🔁 Post-Realisation Phase  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+*What institutions do after recognising procedural failure.*  
 
 ---
 
@@ -52,9 +52,9 @@ post-realisation response, institutional correction, governance stabilisation
 It documents the quiet administrative work that follows institutional self-recognition of error.
 
 > 📡 Cross-references:
-> - [🗂️ When the System Realises It Fucked Up]  
-> - [⚖️ Institutional Realisation to Remediation]  
+> - [🗂️ When the System Realises It Fucked Up](../📚_Narrative_Management/🗂️_when_the_system_realises_it_fucked_up.md) - *as advertised*  
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) - *institutional movement from creating harms to remmedy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
