@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:15:28 UTC_
+_Generated on 2025-12-15 01:17:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3350,6 +3350,7 @@ _Generated on 2025-12-15 01:15:28 UTC_
       - [`🧩_identity_stance_mismatch_architecture.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)
       - [`🧩_mirror_cluster_effects.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_mirror_cluster_effects.md)
       - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_why_the_machine_tags_high_friction_profiles.md)
+      - [`🧪_international_law_vs_safety_classifiers.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧪_international_law_vs_safety_classifiers.md)
       - [`🧪_testing_the_invisible_criteria.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧪_testing_the_invisible_criteria.md)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_empathy_risk_classifier_satire_maybe.yaml.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_empathy_risk_classifier_satire_maybe.yaml.md)
@@ -3619,7 +3620,6 @@ _Generated on 2025-12-15 01:15:28 UTC_
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
-    - [`🧪_international_law_vs_safety_classifiers.md`](Polaris_Nest/Git_Intake_Drawer/🧪_international_law_vs_safety_classifiers.md)
     - [`🧪_the_strategic_accuser_profile.md`](Polaris_Nest/Git_Intake_Drawer/🧪_the_strategic_accuser_profile.md)
     - [`🧪_the_wall_tester_type.md`](Polaris_Nest/Git_Intake_Drawer/🧪_the_wall_tester_type.md)
     - [`🧪_think_tanks_and_their_funding_2010_2016.md`](Polaris_Nest/Git_Intake_Drawer/🧪_think_tanks_and_their_funding_2010_2016.md)
