@@ -210,10 +210,6 @@ This leads to:
 - survivors forced into advocacy  
 - prolonged appeals cycles  
 
-This connects directly with:  
-- 📛 *bureaucratic_memory_failure_and_identity_contamination*  
-- 📡 *cross-system_metadata_echo_chains*
-
 ---
 
 ### 🔧 8. Why This Node Matters for Polaris  
@@ -239,7 +235,7 @@ It analyses how political narratives distort operational decision-making, creati
 
 > 📡 Cross-references:
 > 
-> - [*Pending:* 🧯_prevent_as_political_atomisation_engine.md]  
+> - [🧯_prevent_as_political_atomisation_engine.md](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧯_prevent_as_a_political_atomisation_engine.md) - *how Prevent, by its nature, acts akin to a [Shatterfork](../../../../👻_Apparitional_Objects/🍽️_Fork_Taxonomy/☢️_shatterfork.md) across the UK [Frankenstack](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧟‍♀️_prevents_frankenstack_architecture.md) of data architecture*  
 > - [📛 Bureaucratic Memory Failure & Identity Contamination](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md) - *how systems misremember people*  
 > - [📡 Cross-System Metadata Echo Chains](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md) - *how data slips between systems, creating falsity and inaccuracy in records*  
 > - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*  
