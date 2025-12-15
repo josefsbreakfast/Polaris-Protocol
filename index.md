@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 01:38:06 UTC_
+_Generated on 2025-12-15 01:39:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3210,6 +3210,7 @@ _Generated on 2025-12-15 01:38:06 UTC_
       - [`🧬_centroid_collapse.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_centroid_collapse.md)
       - [`🧬_centroid_collapse_mechanism.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_centroid_collapse_mechanism.md)
       - [`🧬_clone_multiplicity_knot_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_clone_multiplicity_knot_logic.md)
+      - [`🧬_complaint_drift_and_twin_overcorrection.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_complaint_drift_and_twin_overcorrection.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
       - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
       - [`🪦_memetic_hauntology.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪦_memetic_hauntology.md)
@@ -3637,7 +3638,6 @@ _Generated on 2025-12-15 01:38:06 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_complaint_drift_and_twin_overcorrection.md`](Polaris_Nest/Git_Intake_Drawer/🧬_complaint_drift_and_twin_overcorrection.md)
     - [`🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md`](Polaris_Nest/Git_Intake_Drawer/🧬_containment_thresholds_emotional_data_that_cant_be_unmixed.md)
     - [`🧬_cross_trained_voice_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧬_cross_trained_voice_loops.md)
     - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
