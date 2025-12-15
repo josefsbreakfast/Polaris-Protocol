@@ -4,6 +4,10 @@
 
 ---
 
+**Update:** Election audit subfolder has been relocated to [🦗 Voter Cricket: Election Audit & Behavioural Oversight](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/README.md).
+
+---
+
 ## 🛰️ Orientation  
 
 **Legal & State Governance** forms the constitutional core of *[🌀 Systems & Governance](../README.md)*.  
