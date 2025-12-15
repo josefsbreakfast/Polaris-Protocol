@@ -1,6 +1,6 @@
 # 🧬 Ambient Data Exhaust  
-**First created:** 2025-11-15 | **Last updated:** 2025-11-15  
-*The behavioural haze we emit simply by being alive in a digital century.*
+**First created:** 2025-11-15 | **Last updated:** 2025-12-15  
+*The behavioural haze we emit simply by being alive in a digital century.*  
 
 ---
 
@@ -128,9 +128,9 @@ ambient data, behavioural proxies, digital residue, emotional heuristics, device
 ---
 
 ## 🏮 Footer  
-*Ambient Data Exhaust* is a living node of the Polaris Protocol.  
+*🧬 Ambient Data Exhaust* is a living node of the Polaris Protocol.  
 It frames digital-era behaviour as ordinary metadata emission, contextualising how human emotional states leave traces in interaction patterns without implying surveillance or danger.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2025-12-15_
