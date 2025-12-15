@@ -188,8 +188,8 @@ It is a cornerstone of the Bureaucratic Harm & Democratic Drift cluster.
 
 > 📡 Cross-references:
 > 
-> - [📡 Cross-System Metadata Echo Chains](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md) - *how data slips between systems, creating falsity and inaccuracy in records*  
-> - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*
-> - [⚔️ Culture War Risk Logic in UK Public Institutions](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚔️_culture_war_risk_logic_in_uk_public_institutions.md) - *how the same people who complain about "identity politics" started using it inside UK public institutions to consolidate power*  
+> - [📡 Cross-System Metadata Echo Chains](./📡_cross_system_metadata_echo_chains.md) - *how data slips between systems, creating falsity and inaccuracy in records*  
+> - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*
+> - [⚔️ Culture War Risk Logic in UK Public Institutions](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚔️_culture_war_risk_logic_in_uk_public_institutions.md) - *how the same people who complain about "identity politics" started using it inside UK public institutions to consolidate power*  
 
 _Last updated: 2025-12-15_
