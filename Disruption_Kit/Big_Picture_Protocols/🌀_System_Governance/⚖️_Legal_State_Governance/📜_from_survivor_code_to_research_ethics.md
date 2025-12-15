@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Outlines the lineage from Nuremberg Code to modern ethics boards.  
 Centres survivor resistance as the foundation of post-war medical accountability.  
 
