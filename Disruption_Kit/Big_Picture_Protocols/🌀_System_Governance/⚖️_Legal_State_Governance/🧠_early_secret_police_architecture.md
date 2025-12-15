@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 When people think of “secret police,” they imagine the final, violent form:  
 — torture chambers,  
 — political executions,  
@@ -19,7 +19,7 @@ This node maps the **accurate historical analogue**: not the SS, not the Gestapo
 
 ---
 
-## 🧩 Structural Analysis  
+## ✨ Structural Analysis  
 
 ### **1. What Early-Stage Secret Police Actually Looked Like**  
 Before the Gestapo became infamous, it existed as:
