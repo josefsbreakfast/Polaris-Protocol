@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node explores, **in theory**, how legitimate UK infrastructures—safeguarding databases, AI research pilots, or counter-terror innovation programs—could be **amplified or distorted by external manipulation**.  
 It sits at the intersection of data-protection law, cyber-security, and human-rights oversight.  
 If any real evidence of this pattern were ever observed, it should be reported immediately to competent authorities (NCSC, ICO, or IPCO).
