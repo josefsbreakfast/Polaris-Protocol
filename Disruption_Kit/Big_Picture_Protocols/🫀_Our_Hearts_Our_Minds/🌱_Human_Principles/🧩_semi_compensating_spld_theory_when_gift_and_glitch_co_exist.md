@@ -1,6 +1,6 @@
 # 🧩 Semi-Compensating SpLD Theory — When Gift and Glitch Co-exist  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*Sometimes the same system that breaks the rules keeps itself running.*
+**First created:** 2025-11-08 | **Last updated:** 2025-12-14  
+*Sometimes the same system that breaks the rules keeps itself running.*  
 
 ---
 
@@ -88,4 +88,4 @@ It frames uneven ability profiles as adaptive systems rather than contradictions
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-14_
