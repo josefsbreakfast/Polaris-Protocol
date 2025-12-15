@@ -1,5 +1,5 @@
-# 🧬 Dark Basin — Hack-for-Hire and Civic Surveillance
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+# 🧬 Dark Basin — Hack-for-Hire and Civic Surveillance  
+**First created:** 2025-11-06 | **Last updated:** 2025-12-15  
 *A Citizen Lab case study showing how commercial hack-for-hire operations mirror state surveillance and civic suppression mechanisms.*  
 
 ---
@@ -71,10 +71,10 @@ Citizen Lab, Dark Basin, hack-for-hire, BellTroX, outsourced surveillance, advoc
 It documents how private digital operations replicate state containment logics and erode civic security.  
 
 > 📡 Cross-references:  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic suppression architectures  
-> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — forensic and counter-surveillance methods  
-> - [🛰️ Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🛰️_suppression_as_signal.md)  
+> - [Big Picture Protocols] — systemic suppression architectures  
+> - [Survivor Tools] — forensic and counter-surveillance methods  
+> - [🛰️ Suppression as Signal]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-15_
