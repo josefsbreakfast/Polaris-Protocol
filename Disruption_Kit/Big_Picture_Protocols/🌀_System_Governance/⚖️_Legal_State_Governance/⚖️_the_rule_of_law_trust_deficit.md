@@ -43,7 +43,8 @@ It examines how unequal classification corrodes democratic legitimacy and outlin
 > 📡 Cross-references:
 > 
 > - [🧨 Differential Classification as Radicalisation Fuel](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md) - *unequal terrorism designations as a driver of radicalisation*  
-> - [🩸 The Repetition Mechanism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) - *selective enforcement as a rehearsal of genocidal permissibility*  
+> - [🩸 The Repetition Mechanism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) - *selective enforcement as a rehearsal of genocidal permissibility*
+> - [🔥 Narrative Inversion: When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md) - *case example of the hunger strikers detained on suspicion (not conviction) of acts consistent with direct action tactics, with discussion of "yes, the public do notice and they generally are revolted when this happens, because it shows lack of respect for the demos"*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
