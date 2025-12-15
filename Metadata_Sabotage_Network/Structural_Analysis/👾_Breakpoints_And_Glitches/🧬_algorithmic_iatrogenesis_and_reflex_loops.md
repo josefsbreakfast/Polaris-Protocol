@@ -1,5 +1,5 @@
 # 🧬 Algorithmic Iatrogenesis and Reflex Loops  
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-15  
 *When optimisation systems convert harassment into infrastructure — and reveal their own design through over-correction.*  
 
 ---
@@ -118,11 +118,11 @@ It traces how optimisation systems convert harassment into infrastructure — an
 The node bridges clinical metaphor and civic diagnosis: digital pathology as democratic defence.
 
 > 📡 Cross-references:  
-> - [👅 Voice Disruption / Discrediting](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/) — source cluster for signature analysis of voice manipulation  
-> - [💊 Addiction and Extremism](../Disruption_Kit/Big_Picture_Protocols/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md) — on feedback loops and algorithmic conditioning  
-> - [🛰️ OSINT Field Operations](../Disruption_Kit/🛰️_OSINT_Field_Operations/) — forensics and field logging methodologies  
-> - [⚖️ Containment Contracts](../Disruption_Kit/Big_Picture_Protocols/⚖️_Containment_Contracts/) — systemic architecture of silence  
+> - [👅 Voice Disruption & Discrediting] — source cluster for signature analysis of voice manipulation  
+> - [💊 Addiction and Extremism] — on feedback loops and algorithmic conditioning  
+> - [🛰️ OSINT Field Operations] — forensics and field logging methodologies  
+> - [⚖️ Containment Contracts] — systemic architecture of silence  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-31_
+_Last updated: 2025-12-15_
