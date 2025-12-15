@@ -1,6 +1,6 @@
 # 🧬 Centroid Overweighting Problem  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How synthetic centroids become disproportionately influential inside PR, security, and behavioural modelling systems — and why this warps entire architectures.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-15  
+*How synthetic centroids become disproportionately influential inside PR, security, and behavioural modelling systems — and why this warps entire architectures.*  
 
 ---
 
@@ -199,3 +199,7 @@ the whole system drifts with it.
 
 ### **3. Loss of Real-World Validity**  
 The more the
+
+---
+
+_Last updated: 2025-12-15_
