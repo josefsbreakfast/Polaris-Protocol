@@ -76,7 +76,8 @@ uk data protection, israeli law, cross‑jurisdictional safeguards, gdpr complia
 >
 > - [🧨 Gitmo to Gaza Exception Chain](../📚_Narrative_Management/🧨_gitmo_to_gaza_exception_chain.md) - *reciprocal influences of Western and Israeli carcerality through the years*
 > - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md) - *structural necessity of apartheid and interdependence of white supremacy (such supremacy requires this much bolstering to "exist natrually", apparently)*
-> - [🛰️ Microsoft Partial Cut — Israel Surveillance](../🛰️_Infrastructure_Procurement/🛰️_microsoft_partial_cut_israel_surveillance.md) - *even surveillance capitalists put safeguards in place, occasionally*  
+> - [🛰️ Microsoft Partial Cut — Israel Surveillance](../🛰️_Infrastructure_Procurement/🛰️_microsoft_partial_cut_israel_surveillance.md) - *even surveillance capitalists put safeguards in place, occasionally*
+> - [🛰️ OSINT Field Operations](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations) - *have fun using open-source information and ethical techniques to investigate this data transfer further, with any of: **🍉 Academic Liberty**, **🕊️ War Or Peace**, **💰 Underwriting the Occupation**, **💰 Budget Twinsies**, **🧪 Sciencing Apartheid***
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
