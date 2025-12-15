@@ -1,4 +1,4 @@
-# 🎟️ Election Audit & Behavioural Oversight  
+# 🦗 Voter Cricket: Election Audit & Behavioural Oversight  
 **First created:** 2025-10-19 | **Last updated:** 2025-12-15  
 *Citizen-led infrastructure for auditing electoral data use, behavioural targeting, and democratic integrity in the UK.*  
 
