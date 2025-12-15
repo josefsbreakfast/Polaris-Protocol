@@ -1,26 +1,26 @@
 # 🌀 Justice Infrastructure Mismatch: 1990s Law × 2025 Tech  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How legacy legal assumptions collide with contemporary data, cloud, and R&D infrastructures—creating systemic risk rather than protection.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+*How legacy legal assumptions collide with contemporary data, cloud, and R&D infrastructures—creating systemic risk rather than protection.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-This node examines a core structural failure in modern justice systems:
+This node examines a core structural failure in modern justice systems:  
 
-**The legal frameworks governing confidentiality, evidence, and victim protection were designed for a pre-cloud, pre-metadata, pre-R&D world.**
+**The legal frameworks governing confidentiality, evidence, and victim protection were designed for a pre-cloud, pre-metadata, pre-R&D world.**  
 
-They assume:
+They assume:  
 - bounded institutions  
 - paper-based workflows  
 - slow, linear data movement  
 - limited third-party access  
 - human-scale information handling  
 
-Justice infrastructure in 2025 operates on entirely different premises.
+Justice infrastructure in 2025 operates on entirely different premises.  
 
 The resulting mismatch is not a technical bug.  
-It is a governance failure.
+It is a governance failure.  
 
 ---
 
@@ -34,11 +34,9 @@ It is a governance failure.
 
 ---
 
-## 🧿 Analysis  
+## 🏛️ What 1990s-Era Justice Law Assumes  
 
-### 1. What 1990s-era justice law assumes  
-
-Key legal protections around sexual offence cases assume:
+Key legal protections around sexual offence cases assume:  
 
 - data is stored locally  
 - access is manual and scarce  
@@ -47,19 +45,19 @@ Key legal protections around sexual offence cases assume:
 - misuse is deliberate and traceable  
 - confidentiality breaches are exceptional events  
 
-These assumptions shaped:
+These assumptions shaped:  
 - anonymity provisions  
 - disclosure rules  
 - safeguarding obligations  
 - professional conduct regimes  
 
-They no longer describe reality.
+They no longer describe reality.  
 
 ---
 
-### 2. What 2025 justice infrastructure actually looks like  
+## 🤖 What 2025 Justice Infrastructure Actually Looks Like  
 
-Modern justice systems now rely on:
+Modern justice systems now rely on:  
 
 - cloud-hosted case management  
 - outsourced digital evidence platforms  
@@ -70,54 +68,54 @@ Modern justice systems now rely on:
 - remote access and hybrid work  
 - automated logging and telemetry  
 
-Data moves continuously, silently, and at scale.
+Data moves continuously, silently, and at scale.  
 
-The law has not followed.
+The law has not followed.  
 
 ---
 
-### 3. Compliance without protection  
+## 👾 Compliance Without Protection  
 
-Because the law regulates *behaviour* rather than *architecture*:
+Because the law regulates *behaviour* rather than *architecture*:  
 
 - institutions can be legally compliant  
 - contracts can be valid  
 - data sharing can be authorised  
 - audits can pass  
 
-…and yet:
+…and yet:  
 
 - protections do not persist  
 - exposure risk increases  
 - victims feel unsafe  
 - harm occurs upstream of breach  
 
-This creates a dangerous illusion of safety.
+This creates a dangerous illusion of safety.  
 
 ---
 
-### 4. “Special category” as a legacy abstraction  
+## 🤡 “Special Category” As A Legacy Abstraction  
 
-The concept of “special category” or “high schedule” data presumes:
+The concept of “special category” or “high schedule” data presumes:  
 
 - stable containers  
 - clear boundaries  
 - durable labels  
 - enforceable access controls  
 
-In modern pipelines:
+In modern pipelines:  
 - data is transformed and fragmented  
 - labels do not travel  
 - meaning is stripped from artefacts  
 - systems process content without context  
 
-Classification becomes symbolic rather than protective.
+Classification becomes symbolic rather than protective.  
 
 ---
 
-### 5. Governance blind spots  
+## 🩻 Governance Blind Spots  
 
-Key areas largely unaddressed by legacy law include:
+Key areas largely unaddressed by legacy law include:  
 
 - metadata as exposure vector  
 - probabilistic identification  
@@ -128,13 +126,13 @@ Key areas largely unaddressed by legacy law include:
 - cross-border data flows  
 - suppression through attrition rather than denial  
 
-These gaps are structural, not accidental.
+These gaps are structural, not accidental.  
 
 ---
 
-### 6. Why sexual offence cases suffer most  
+## 🐅 Why Sexual Offence Cases Suffer Most  
 
-Rape prosecutions sit at the intersection of:
+Rape prosecutions sit at the intersection of:  
 - extreme sensitivity  
 - long timelines  
 - heavy digital evidence  
@@ -142,15 +140,15 @@ Rape prosecutions sit at the intersection of:
 - public scrutiny  
 - low tolerance for error  
 
-This makes them the **canary** for infrastructure-law mismatch.
+This makes them the **canary** for infrastructure-law mismatch.  
 
-The system exposes precisely those it claims to protect.
+The system exposes precisely those it claims to protect.  
 
 ---
 
-### 7. The cost of mismatch  
+## 💸 The Cost Of Mismatch  
 
-The consequences are not abstract:
+The consequences are not abstract:  
 
 - chilled reporting  
 - increased withdrawals  
@@ -159,21 +157,21 @@ The consequences are not abstract:
 - emboldened offenders  
 - systemic suppression normalised as “complexity”  
 
-Failure is distributed, deniable, and persistent.
+Failure is distributed, deniable, and persistent.  
 
 ---
 
-### 8. Why incremental reform is insufficient  
+## 🦤 Why Incremental Reform Is Insufficient  
 
-Training, guidance, and policy updates cannot fix:
+Training, guidance, and policy updates cannot fix:  
 
 - architectural misalignment  
 - data-flow opacity  
 - vendor externalisation  
 - probabilistic harm dynamics  
 
-Without infrastructure-aware governance:
-> **The system will continue to comply while failing.**
+Without infrastructure-aware governance:  
+> **The system will continue to comply while failing.**  
 
 ---
 
@@ -186,21 +184,21 @@ systems and governance, law, data flows, human impact, exposure risk, trauma eth
 
 ## ✨ Stardust  
 
-justice_infrastructure, law_technology_mismatch, legacy_governance, special_category_data, cloud_systems, vendor_r_and_d, sexual_offence_cases, systemic_risk
+justice infrastructure, law technology mismatch, legacy governance, special category data, cloud systems, vendor r&d, sexual offence cases, systemic risk
 
 ---
 
 ## 🏮 Footer  
 
-*Justice Infrastructure Mismatch: 1990s Law × 2025 Tech* is a governance analysis node of the **Polaris Protocol**.  
+*🌀 Justice Infrastructure Mismatch: 1990s Law × 2025 Tech* is a governance analysis node of the **Polaris Protocol**.  
 It situates justice-system data failures within a broader temporal mismatch between legal frameworks and contemporary technical realities.
 
 > 📡 Cross-references:
 > 
-> - [🏷️ High Schedule Is System-Bound, Not Data-Bound] — classification limits  
-> - [🧪 R&D as a Silent Leakage Corridor] — modern exposure pathways  
-> - [🩸 Structural Suppression of Rape Prosecutions] — systemic outcomes  
+> - [🏷️ High Schedule Is System-Bound, Not Data-Bound](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🏷️_high_schedule_is_system_bound_not_data_bound.md) — classification limits  
+> - [🧪 R&D as a Silent Leakage Corridor](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧪_r_and_d_as_silent_leakage_corridor.md) — modern exposure pathways  
+> - [🩸 Structural Suppression of Rape Prosecutions](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🩸_structural_suppression_of_rape_prosecutions.md) — systemic outcomes  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-15_
