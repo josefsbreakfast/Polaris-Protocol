@@ -1,7 +1,6 @@
-# 🫀 Empathetic Burnout and Cognitive Exhaustion
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*When care, vigilance, and meaning-making exceed available cognitive and emotional capacity.*
+# 🫀 Empathetic Burnout and Cognitive Exhaustion  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+*When care, vigilance, and meaning-making exceed available cognitive and emotional capacity.*  
 
 ---
 
@@ -30,7 +29,7 @@ Unlike classic burnout, the subject often remains **functional**, **thoughtful**
 
 ---
 
-## 🧿 Core Pattern
+## 🔥 Core Pattern
 
 Empathetic burnout occurs when the same cognitive systems are repeatedly tasked with:
 
@@ -74,7 +73,7 @@ These are *protective responses*, not moral failures.
 
 ---
 
-## 🔄 Typical Failure Loop
+## ➰ Typical Failure Loop
 
 1. Sustained empathy and cognitive labour
 2. Gradual depletion without recovery cycles
@@ -88,7 +87,7 @@ Interrupting this loop requires **rest**, not correction.
 
 ---
 
-## 🧭 Reframe
+## 🌌 Reframe
 
 A useful corrective frame:
 
@@ -98,7 +97,7 @@ Empathy is a renewable resource **only when recovery is allowed**.
 
 ---
 
-## 🛠️ Practical Containment (Low-Demand)
+## 🥡 Practical Containment (Low-Demand)
 
 * Reduce *performance of care* while preserving intent.
 * Use short, honest boundary statements rather than elaborate explanations.
@@ -122,14 +121,14 @@ empathetic burnout, cognitive exhaustion, emotional labour, articulation fatigue
 
 ## 🏮 Footer
 
-*Empathetic Burnout and Cognitive Exhaustion* is a living node of the **Polaris Protocol**.
+*🫀 Empathetic Burnout and Cognitive Exhaustion* is a living node of the **Polaris Protocol**.
 It exists to name a form of depletion that is frequently misread as interpersonal failure, and to restore ethical clarity around rest, limits, and care.
 
 > 📡 Cross-references:
 >
-> * [🌙 Everyday Containment] — lived impact and recovery patterns
-> * [🧠 Our Hearts, Our Minds] — ethics of care and trauma governance
+> * [🌙 Everyday Containment](./README.md) — *lived impact and recovery patterns*  
+> * [🫀 Our Hearts, Our Minds](../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md) — *ethics of care and trauma governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2025-12-15_
