@@ -1,6 +1,6 @@
 # 🧨 Exceptional Sovereignty and the Hunger Strike in Pre-Trial Security Detention  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
-*How exceptional detention, medical crisis, and public comprehension gaps create a high-severity democratic legitimacy scenario.*
+**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+*How exceptional detention, medical crisis, and public comprehension gaps create a high-severity democratic legitimacy scenario.*  
 
 ---
 
@@ -153,4 +153,4 @@ It analyses how exceptional detention, medical deterioration, and public compreh
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-15_
