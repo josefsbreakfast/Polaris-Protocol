@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-15 21:45:59 UTC_
+_Generated on 2025-12-15 21:48:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -152,6 +152,7 @@ _Generated on 2025-12-15 21:45:59 UTC_
         - [`📜_harm_assessment_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_harm_assessment_protocols.md)
         - [`📡_the_governance_of_bodies_that_refuse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📡_the_governance_of_bodies_that_refuse.md)
         - [`🔁_post_realisation_phase.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔁_post_realisation_phase.md)
+        - [`🔥_when_law_has_collapsed_into_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔥_when_law_has_collapsed_into_power.md)
         - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
         - [`🕎_the_esther_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕎_the_esther_protocol.md)
         - [`🕰️_citizen_follow_up_timeline_security_breach.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕰️_citizen_follow_up_timeline_security_breach.md)
@@ -167,7 +168,6 @@ _Generated on 2025-12-15 21:45:59 UTC_
         - [`🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)
         - [`🧨_the_schmittian_drift_in_exceptional_detention_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)
         - [`🧩_distributed_executive_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_distributed_executive_governance.md)
-        - [`🧩_when_law_has_collapsed_into_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_when_law_has_collapsed_into_power.md)
         - [`🧬_irreversible_limits_when_physics_refuses_economic_fantasy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits_when_physics_refuses_economic_fantasy.md)
         - [`🧬_recycling_violence_through_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md)
         - [`🪶_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪶_reading_the_dog_whistle.md)
