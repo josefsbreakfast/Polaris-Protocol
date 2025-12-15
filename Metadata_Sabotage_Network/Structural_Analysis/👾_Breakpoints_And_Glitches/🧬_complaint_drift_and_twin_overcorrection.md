@@ -1,6 +1,6 @@
-# 🧬 Complaint Drift & Twin Overcorrection
-**First created:** 2025-11-12  |  **Last updated:** 2025-11-12  
-*How contradictory complaints collapse reputational suppression and trigger algorithmic rebound.*
+# 🧬 Complaint Drift & Twin Overcorrection  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-15  
+*How contradictory complaints collapse reputational suppression and trigger algorithmic rebound.*  
 
 ---
 
@@ -44,8 +44,7 @@ reputational suppression, false complaint dynamics, credibility rebalance, algor
 It documents how contradictory suppression signals create reputational recoil and visibility overshoot once the underlying model re-balances trust weights.  
 
 > 📡 Cross-references:  
-> - [🪞 The Magnifying Glass Effect](../Disruption_Kit/Big_Picture_Protocols/🪞_the_magnifying_glass_effect.md)  
-> - [☔️ Protocol Integrity SOP](../Admin_Kit/☔️_protocol_integrity_sop.md) — structural fidelity checks  
+> - [🪞 The Magnifying Glass Effect]
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-15_
