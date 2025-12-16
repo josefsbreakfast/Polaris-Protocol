@@ -1,5 +1,5 @@
-# 🌍 When virtual minds govern a physical planet  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+# 🌍 When Virtual Minds Govern A Physical Planet  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-16  
 *How computational worldviews came to dominate governance — and why they fail when confronted with material reality.*
 
 ---
@@ -176,15 +176,15 @@ virtual governance, computational worldview, material limits, systems failure, d
 
 ## 🏮 Footer  
 
-*🌍 When virtual minds govern a physical planet* is a structural analysis node of the **Polaris Protocol**.  
+*🌍 When Virtual Minds Govern A Physical Planet* is a structural analysis node of the **Polaris Protocol**.  
 It examines how abstraction-first cultures produce governance failures when tasked with managing material systems governed by irreversible limits.
 
 > 📡 Cross-references:
 > 
-> - [🧬 Irreversible limits: when physics refuses economic fantasy] — foundational constraints  
-> - [🧲 The magnet doesn’t care] — applied science collision  
-> - [♻️ Declining ore grades and the end of substitution myths] — depletion economics  
+> - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md) - *sometimes physics says, "no"*  
+> - [🧲 The Magnet Doesn’t Care](../../🌀_System_Governance/🧪_Development_Experimentation/🧲_the_magnet_doesnt_care.md) - *why I'd trust a plumber over a tech bro billionaire*  
+> - [♻️ Declining Ore Grades & The End Of Substitution Myths](./♻️_declining_ore_grades_and_the_end_of_substitution_myths.md) - *mineral deposits run out; conventional economics assumes otherwise*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-16_
