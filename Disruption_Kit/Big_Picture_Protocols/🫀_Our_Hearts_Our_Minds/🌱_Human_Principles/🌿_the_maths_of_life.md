@@ -236,9 +236,9 @@ It grounds bioscience, cognition, and data governance in shared mathematical str
 
 > 📡 Cross-references:
 > 
-> - [🧬 Data as Protein Folding](./🧬_data_as_protein_folding.md) — structural emergence  
-> - [🧬 Data Bonding Taxonomy](./🧬_data_bonding_taxonomy.md) — coupling mechanics  
-> - [🧬 Data Denaturation](./🧬_data_denaturation.md) — irreversibility and limits  
+> - [🧬 Data as Protein Folding](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_as_protein_folding.md) — *structural emergence*  
+> - [🧬 Data Bonding Taxonomy](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_bonding_taxonomy.md) — *coupling mechanics*  
+> - [🧬 Data Denaturation](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_denaturation.md) — *irreversibility and limits*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
