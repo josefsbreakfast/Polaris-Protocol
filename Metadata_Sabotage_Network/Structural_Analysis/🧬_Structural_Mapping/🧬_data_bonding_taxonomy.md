@@ -1,6 +1,6 @@
 # 🧬 Data Bonding Taxonomy  
 **First created:** 2025-12-16 | **Last updated:** 2025-12-16  
-*How different kinds of data coupling form, stabilise, and propagate power and harm.*
+*How different kinds of data coupling form, stabilise, and propagate power and harm.*  
 
 ---
 
@@ -215,9 +215,9 @@ It provides a bond-level diagnostic framework for understanding how data attachm
 
 > 📡 Cross-references:
 > 
-> - [🧬 Data as Protein Folding](./🧬_data_as_protein_folding.md) — structural model  
-> - [🧬 Data Denaturation](./🧬_data_denaturation.md) — irreversibility and limits  
-> - [🌿 The Maths of Life](./🌿_the_maths_of_life.md) — shared mathematical foundations  
+> - [🧬 Data as Protein Folding](./🧬_data_as_protein_folding.md) — *structural model*  
+> - [🧬 Data Denaturation](./🧬_data_denaturation.md) — *irreversibility and limits*  
+> - [🌿 The Maths of Life](🌿_the_maths_of_life.md) — *shared mathematical foundations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
