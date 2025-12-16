@@ -1,6 +1,6 @@
-# ♻️ Declining ore grades and the end of substitution myths  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*Why material depletion makes “just substitute it” economics mathematically and physically untenable.*
+# ♻️ ♻️ Declining Ore Grades & The End Of Substitution Myths  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-16  
+*Why material depletion makes “just substitute it” economics mathematically and physically untenable.*  
 
 ---
 
@@ -163,15 +163,15 @@ declining ore grades, resource depletion, substitution myth, mining economics, m
 
 ## 🏮 Footer  
 
-*♻️ Declining ore grades and the end of substitution myths* is a structural analysis node of the **Polaris Protocol**.  
+*♻️ Declining Ore Grades & The End Of Substitution Myths* is a structural analysis node of the **Polaris Protocol**.  
 It grounds economic debate in the physical realities of extraction, showing why substitution narratives collapse under material scrutiny.
 
 > 📡 Cross-references:
 > 
-> - [🧬 Irreversible limits: when physics refuses economic fantasy] — non-substitutable constraints  
-> - [🦕 Geological timescale economics] — deep-time mismatch  
-> - [🌍 When virtual minds govern a physical planet] — abstraction failure  
+> - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md) - *sometimes physics says, "no"*  
+> - [🦕 Geological Timescale Economics](./🦕_geological_timescale_economics_make_new_dinosaurs.md) - *make us some new dinosaurs, thanks*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) - *why billionaire brain does not compute*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-16_
