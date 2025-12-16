@@ -192,14 +192,14 @@ applied science, mri magnets, engineering limits, tech bro ideology, physics con
 
 ## 🏮 Footer  
 
-*🧲 The magnet doesn’t care: applied science vs tech-bro cosmology* is a systems-diagnostic node of the **Polaris Protocol**.  
+*🧲 The Magnet Doesn’t Care: Applied Science vs Tech-Bro Cosmology* is a systems-diagnostic node of the **Polaris Protocol**.  
 It documents how abstraction-first innovation cultures fail when confronted with technologies governed by hard physical limits and human safety requirements.
 
 > 📡 Cross-references:
 > 
 > - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../⚖️_Legal_State_Governance/🧬_irreversible_limits.md) - *sometimes physics says, "no"*  
 > - [🌍 When Virtual Minds Govern A Physical Planet](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) - *why billionaire brain does not compute*  
-> - [🦕 Geological timescale economics] — satire of infinite growth assumptions  
+> - [🦕 Geological Timescale Economics](./🦕_geological_timescale_economics_make_new_dinosaurs.md) - *make us some new dinosaurs, thanks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
