@@ -44,7 +44,7 @@ I do rather love that for our little Polaris Protocol, don't you?
 
 ["What fucking whips about Dunkirk." - Milo Edwards.](https://youtube.com/shorts/A-4R1YiIWXw?si=FoIYj2qY_8oqeUe6) - the funny one. 
 
-["They've asked for the Moonstone; they'll haver her... and her Captain."](https://youtu.be/NKUDfW2PZ9g?si=lF9iR6Zl0jEuCeUr) - the serious one.  
+["They've asked for the Moonstone; they'll have her... and her Captain."](https://youtu.be/NKUDfW2PZ9g?si=lF9iR6Zl0jEuCeUr) - the serious one.  
 
 *Side notes for the non-coastal folk: Civilian services like the RNLI often only deployed one man per family out on parrols wherever possible, due to the real risk of loss. Trust in one's craft becomes not dissimilar to a chair, crutch, prostethetic, or crutch user's relationship with their kit; these tools become an extension of you, and someone else touching them feels similarly intimate. This is discussed excellently in Disability Intimacy by the late Alice Wong (z"L). Tl;dr: This was that unquestionable intaiacy with the Moonstone, not deliberate disobedience.*  
 
