@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 18:46:51 UTC_
+_Generated on 2025-12-16 18:47:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -818,6 +818,7 @@ _Generated on 2025-12-16 18:46:51 UTC_
           - [`⚙️_overclocked_capitalism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overclocked_capitalism.md)
           - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md)
           - [`🎽_think_tanks_surveillance_and_conferencing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)
+          - [`💰_capital_first_choice_under_extraction.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_capital_first_choice_under_extraction.md)
           - [`💰_credibility_brokers_and_golden_eggs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_credibility_brokers_and_golden_eggs.md)
           - [`💰_misogyny_in_capitalism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_misogyny_in_capitalism.md)
           - [`💰_plagiarism_economies_and_extraction_pipelines.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_plagiarism_economies_and_extraction_pipelines.md)
