@@ -1,4 +1,4 @@
-# 🧬 Irreversible limits: when Physics Refuses Economic Fantasy  
+# 🧬 Irreversible Limits: When Physics Refuses Economic Fantasy  
 **First created:** 2025-12-14 | **Last updated:** 2025-12-16  
 *Why material reality places non-negotiable limits on economic systems — and why growth ideology keeps pretending otherwise.*  
 
