@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 00:46:49 UTC_
+_Generated on 2025-12-16 01:33:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1141,6 +1141,7 @@ _Generated on 2025-12-16 00:46:49 UTC_
       - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md)
         - [`⚔️_war_on_woke_as_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
+        - [`⚡️_panic_in_the_newsroom.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚡️_panic_in_the_newsroom.md)
         - [`✨_jyn_erso_and_the_coerced_survivalist_arc.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/✨_jyn_erso_and_the_coerced_survivalist_arc.md)
         - [`🎤_get_back_in_the_camp_ensemble.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎤_get_back_in_the_camp_ensemble.md)
         - [`🎭_performative_left_failure_modes.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎭_performative_left_failure_modes.md)
