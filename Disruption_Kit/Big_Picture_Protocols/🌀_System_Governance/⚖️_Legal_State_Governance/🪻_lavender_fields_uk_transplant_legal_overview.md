@@ -1,6 +1,6 @@
 # 🪻 Legal Overview — If *Lavender / Where’s Daddy?* Were Transplanted to the UK  
-**First created:** 2025-10-17 | **Last updated:** 2025-12-15  
-*Thought experiment: what UK law would say if a battlefield AI-targeting stack such as Lavender / Where’s Daddy? were operated on British soil.*
+**First created:** 2025-10-17 | **Last updated:** 2025-12-16  
+*Thought experiment: what UK law would say if a battlefield AI-targeting stack such as Lavender / Where’s Daddy? were operated on British soil.*  
 
 ---
 
@@ -72,4 +72,13 @@ double-lock warrant, necessity & proportionality, civilian jurisdiction, Art 2/3
 *🪻 Legal Overview — If Lavender / Where’s Daddy? Were Transplanted to the UK* is a living node of the **Polaris Protocol**.  
 It outlines how UK domestic law would respond to the deployment of AI-targeting or behavioural-risk systems within civilian jurisdiction.  
 
-_Last updated: 2025-12-15_
+> 📡 Cross-references:
+>
+> - [🧨 Dual-Use Epiphany](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_epiphany.md) - *the social and cultural ingredients which make dual-use tech more likely to arise*  
+> - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) - *theoretical possible tech which could develop out of current UK behavoural CVE R&D, in the style of "Where's Daddy?"*  
+> - [🗞️ Docility Engine Print Edition](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🗞️_docility_engine_print_edition.md) - *how dual-use tech may be used to control algorithmic placement, and narrate and contextualise otherwise high-impact human stories*
+> - [🧠 Voice Clones, AI, & the Threat to Policing](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md) - *how this actually threatens effective neighbourhood and community policing, from the policing POV*
+> - [🧿 Dual-Use Narratives and the Illusion of Knowing](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md) - *why we often do not know, even when we try to stay informed*
+
+
+_Last updated: 2025-12-16_
