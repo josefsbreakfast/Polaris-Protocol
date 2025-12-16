@@ -220,9 +220,9 @@ It maps how diagnosis emerges from system design under pressure, and why blaming
 
 > 📡 Cross-references:
 > 
-> - [💰 Capital First] — political economy  
-> - [🩺 Diagnosis as Agency] — clinical ethics  
-> - [🧠 Where Is This “Over-Diagnosis”?] — rhetorical diagnostics  
+> - [💰 Capital First](../💸_Money_Listens/👻_Transparencies_Overhead/💰_capital_first_choice_under_extraction.md) — *political economy*  
+> - [🩺 Diagnosis as Agency](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩺_diagnosis_as_agency.md) — *clinical ethics*  
+> - [🧠 Where Is This “Over-Diagnosis”?](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md) — *rhetorical diagnostics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
