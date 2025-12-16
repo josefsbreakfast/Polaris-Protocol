@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 01:55:34 UTC_
+_Generated on 2025-12-16 02:02:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3198,6 +3198,7 @@ _Generated on 2025-12-16 01:55:34 UTC_
       - [`🩺_containment_catchphrases.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🩺_containment_catchphrases.md)
       - [`🪞_narrative_drift_when_systems_inherit_the_wrong_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)
       - [`🪞_narrative_self_repair_index.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_self_repair_index.md)
+      - [`🪞_plausibly_deniable_equivocation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_plausibly_deniable_equivocation.md)
       - [`🪞_smoothed_content_as_blink_twice.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_smoothed_content_as_blink_twice.md)
       - [`🪞_strong_women_apparently.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_strong_women_apparently.md)
       - [`🪶_narrative_saturation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪶_narrative_saturation.md)
