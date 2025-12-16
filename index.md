@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 06:29:57 UTC_
+_Generated on 2025-12-16 06:31:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3276,6 +3276,7 @@ _Generated on 2025-12-16 06:29:57 UTC_
       - [`🧬_collocative_deintegrity.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_collocative_deintegrity.md)
       - [`🧬_competitive_binding.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_competitive_binding.md)
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
+      - [`🧬_data_as_protein_folding.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_as_protein_folding.md)
       - [`🧬_data_bonding_taxonomy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_bonding_taxonomy.md)
       - [`🧬_data_correction_notices.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
       - [`🧬_data_denaturation.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_denaturation.md)
@@ -3975,7 +3976,6 @@ _Generated on 2025-12-16 06:29:57 UTC_
     - [`🪄_branding_usage_guide.md`](Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
     - [`🪜_scaffolding_mode_for_low_energy_writing.md`](Polaris_Nest/🏮_Admin_Kit/🪜_scaffolding_mode_for_low_energy_writing.md)
   - [`README.md`](Polaris_Nest/README.md)
-  - [`🧬_data_as_protein_folding.md`](Polaris_Nest/🧬_data_as_protein_folding.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
