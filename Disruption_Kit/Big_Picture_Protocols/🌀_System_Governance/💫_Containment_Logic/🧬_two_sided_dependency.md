@@ -1,6 +1,6 @@
-# 🧬 **Two-Sided Dependency — Why Harm Systems Trap Both Victims *and* Enforcers**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*The architecture of abusive or authoritarian systems requires both sides of the hierarchy to feel equally trapped — just for different reasons.*
+# 🧬 Two-Sided Dependency — Why Harm Systems Trap Both Victims *and* Enforcers  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-16  
+*The architecture of abusive or authoritarian systems requires both sides of the hierarchy to feel equally trapped — just for different reasons.*  
 
 ---
 
@@ -251,6 +251,7 @@ dual-dependency logic, fear-driven hierarchy, symmetrical entrapment, system-rei
 It maps the symmetrical captivity inside harmful systems — showing how victims and enforcers remain trapped for different but equally structural reasons.
 
 > 📡 Cross-references:
+> 
 > - 🧬 No-Safe-Exit Conditions  
 > - 🧷 Trauma-Driven Compliance  
 > - 🧩 Systemic Abuse Logic  
@@ -258,4 +259,4 @@ It maps the symmetrical captivity inside harmful systems — showing how victims
 
 *Survivor authorship is sovereign. No one is free inside a structure built on fear.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-16_
