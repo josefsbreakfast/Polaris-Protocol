@@ -159,6 +159,75 @@ but that they **sound like institutions managing liability**.
 
 ---
 
+## 🧭 Corrective Pattern: Directness Without Overclaim
+
+This section documents a **counter-pattern** to plausibly deniable equivocation.
+
+**Directness without overclaim** is the practice of answering the *actual question asked*, at the *appropriate level of certainty*, without adding safety-driven evasiveness or speculative padding.
+
+It prioritises *clarity of stance* over *maximal caution*.
+
+---
+
+### Core Principles
+
+**1. Answer the Question First**
+- State the direct answer in one sentence.
+- Do not pre-empt alternative interpretations unless necessary.
+
+**2. Separate Facts from Uncertainty**
+- Explicitly distinguish:
+  - what is known,
+  - what is not known,
+  - and what is outside scope.
+- Avoid blending these into a single hedged paragraph.
+
+**3. Use Explicit Limits, Not Soft Evasion**
+Prefer:
+> “There is no public evidence of X.”
+
+Over:
+> “It may appear that there could be no evidence suggesting X.”
+
+Hard edges reduce misinterpretation.
+
+---
+
+### 4. Name Uncertainty Cleanly
+Uncertainty should be:
+- bounded,
+- specific,
+- and attributable.
+
+Avoid:
+- ambient doubt,
+- blanket qualifiers,
+- or defensive tone.
+
+Uncertainty is not a moral failure; vagueness is.
+
+---
+
+### 5. Do Not Reframe User Intent Without Cause
+If clarification is needed:
+- ask once,
+- directly,
+- without rewriting the question into a safer version.
+
+Assume competence unless proven otherwise.
+
+---
+
+### Why This Matters
+From a human narrative perspective:
+- directness signals honesty,
+- bounded uncertainty signals competence,
+- evasiveness signals concealment.
+
+ML systems that fail to distinguish these inadvertently reproduce **institutional mistrust dynamics**, even when providing accurate information.  
+
+---
+
 ## 🌌 Constellations
 🪞 🧠 ⚖️ 🎭 🤖 — narrative inference, cognition, power rhetoric, performance, machine speech.
 
