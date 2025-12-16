@@ -1,5 +1,5 @@
-# 🦕 Geological timescale economics: make new dinosaurs  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+# 🦕 Geological Timescale Economics: Make New Dinosaurs
+**First created:** 2025-12-14 | **Last updated:** 2025-12-16  
 *Why infinite growth quietly assumes control over geological time — and why that assumption collapses on contact with reality.*
 
 ---
@@ -156,15 +156,15 @@ geological timescale, fossil fuels, growth critique, degrowth economics, oil dep
 
 ## 🏮 Footer  
 
-*🦕 Geological timescale economics: make new dinosaurs* is a critical node of the **Polaris Protocol**.  
+*🦕 Geological Timescale Economics: Make New Dinosaurs* is a critical node of the **Polaris Protocol**.  
 It reframes resource economics through the lens of deep time, exposing the impossible assumptions required to sustain infinite growth on a finite planet.
 
 > 📡 Cross-references:
 > 
-> - [🧬 Irreversible limits: when physics refuses economic fantasy] — non-negotiable constraints  
-> - [♻️ Declining ore grades and the end of substitution myths] — material depletion  
-> - [🌍 When virtual minds govern a physical planet] — abstraction vs geology  
+> - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../⚖️_Legal_State_Governance/🧬_irreversible_limits.md) - *sometimes physics says, "no"*  
+> - [♻️ Declining Ore Grades & The End Of Substitution Myths](../../🦕_Elder_Influencers/🕸️_World_Webs/♻️_declining_ore_grades_and_the_end_of_substitution_myths.md) - *mineral deposits run out; conventional economics assumes otherwise*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) - *why billionaire brain does not compute*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-16_
