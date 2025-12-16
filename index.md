@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 17:09:48 UTC_
+_Generated on 2025-12-16 18:45:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1335,6 +1335,7 @@ _Generated on 2025-12-16 17:09:48 UTC_
         - [`🦴_anatomy_of_male_emotional_starvation.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦴_anatomy_of_male_emotional_starvation.md)
         - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
         - [`🧃_why_nice_guys_were_never_the_problem.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧃_why_nice_guys_were_never_the_problem.md)
+        - [`🧠_where_is_this_overdiagnosis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md)
         - [`🧩_mixed_gender_sociality_as_antidote.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_mixed_gender_sociality_as_antidote.md)
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
         - [`🩻_reflex_against_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩻_reflex_against_care.md)
