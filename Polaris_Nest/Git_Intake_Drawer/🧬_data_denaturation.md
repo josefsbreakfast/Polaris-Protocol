@@ -1,6 +1,6 @@
 # 🧬 Data Denaturation  
 **First created:** 2025-12-16 | **Last updated:** 2025-12-16  
-*Why some data damage cannot be undone, even when the record is “corrected”.*
+*Why some data damage cannot be undone, even when the record is “corrected”.*  
 
 ---
 
@@ -210,9 +210,9 @@ It defines the structural limits of correction in data systems and explains why 
 
 > 📡 Cross-references:
 > 
-> - [🧬 Data as Protein Folding](./🧬_data_as_protein_folding.md) — emergence and misfolding  
-> - [🧬 Data Bonding Taxonomy](./🧬_data_bonding_taxonomy.md) — coupling strength and propagation  
-> - [🌿 The Maths of Life](./🌿_the_maths_of_life.md) — shared mathematical foundations  
+> - [🧬 Data as Protein Folding](./🧬_data_as_protein_folding.md) — *emergence and misfolding*  
+> - [🧬 Data Bonding Taxonomy](./🧬_data_bonding_taxonomy.md) — *coupling strength and propagation*  
+> - [🌿 The Maths of Life](🌿_the_maths_of_life.md) — *shared mathematical foundations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
