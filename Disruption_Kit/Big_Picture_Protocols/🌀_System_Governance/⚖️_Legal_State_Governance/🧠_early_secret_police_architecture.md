@@ -222,9 +222,11 @@ proto-secret police, Prevent, Channel, pre-Gestapo, political police, surveillan
 It clarifies the structural—not moral—analogue for Prevent/Channel by mapping it onto early pre-authoritarian intelligence systems rather than the later, violent secret-police institutions they evolved into.
 
 > 📡 **Cross-references:**
-> 
+>
+> - [💄 Let's Play!: Surveillance or Pervert-with-a-Badge?](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md) - *what is the difference, exactly?*
+> - [📸 History of Street Photography as Counter-Surveillance](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md) - *the desire not to be policed is often mutual*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-16_
