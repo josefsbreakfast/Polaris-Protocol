@@ -212,7 +212,7 @@ It defines the structural limits of correction in data systems and explains why 
 > 
 > - [🧬 Data as Protein Folding](./🧬_data_as_protein_folding.md) — *emergence and misfolding*  
 > - [🧬 Data Bonding Taxonomy](./🧬_data_bonding_taxonomy.md) — *coupling strength and propagation*  
-> - [🌿 The Maths of Life](🌿_the_maths_of_life.md) — *shared mathematical foundations*  
+> - [🌿 The Maths of Life](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_the_maths_of_life.md) — *shared mathematical foundations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
