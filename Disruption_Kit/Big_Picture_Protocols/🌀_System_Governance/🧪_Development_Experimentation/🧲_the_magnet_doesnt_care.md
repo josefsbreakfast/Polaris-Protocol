@@ -197,8 +197,8 @@ It documents how abstraction-first innovation cultures fail when confronted with
 
 > 📡 Cross-references:
 > 
-> - [🧬 Irreversible limits: when physics refuses economic fantasy] — foundational constraints  
-> - [🌍 When virtual minds govern a physical planet] — worldview mismatch at scale  
+> - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../⚖️_Legal_State_Governance/🧬_irreversible_limits.md) - *sometimes physics says, "no"*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) - *why billionaire brain does not compute*  
 > - [🦕 Geological timescale economics] — satire of infinite growth assumptions  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
