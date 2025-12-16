@@ -1,5 +1,5 @@
 # ✨ Glimmer Is Taxable And Other Big Drums  
-**First created:** 2025-10-12 | **Last updated:** 2025-10-12  
+**First created:** 2025-10-12 | **Last updated:** 2025-12-16  
 *What ho, chaps, chapettes and chapettex...! All aboard for a wonderful deep dive into ethical quandry, complete with all the Czech hedgehogs and Mulberry harbours one could wish for!*  
 
 *Keep calm and, indeed, do carry on.*
@@ -37,6 +37,20 @@ I do rather love that for our little Polaris Protocol, don't you?
 
 ---
 
+## 🌌 Constellations  
+🦑 🦤 🕊️ 🦆 🐈‍⬛  
+
+*Further Reading:*  
+
+["What fucking whips about Dunkirk." - Milo Edwards.](https://youtube.com/shorts/A-4R1YiIWXw?si=FoIYj2qY_8oqeUe6)
+
+---
+
+## ✨ Stardust  
+
+
+---
+
 ## 🏮 Footer  
 
 *This little node* is a living node of the Polaris Protocol.  
@@ -49,4 +63,4 @@ It contributes to the archive by banter alone.
 
 *What. Ho.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2025-12-16_
