@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 19:11:39 UTC_
+_Generated on 2025-12-16 19:19:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -895,6 +895,7 @@ _Generated on 2025-12-16 19:11:39 UTC_
         - [`🧨_escalation_cascades_through_misapplied_risk_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧨_escalation_cascades_through_misapplied_risk_logic.md)
         - [`🧩_risk_industries_and_custody_failure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md)
         - [`🧩_structural_lethality_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_structural_lethality_in_custody.md)
+        - [`🧬_the_policies_we_never_reckoned_with.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧬_the_policies_we_never_reckoned_with.md)
         - [`🧮_algorithmic_exposure_bias_in_whistleblower_systems.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧮_algorithmic_exposure_bias_in_whistleblower_systems.md)
         - [`🧵_policy_born_in_fear.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧵_policy_born_in_fear.md)
         - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
