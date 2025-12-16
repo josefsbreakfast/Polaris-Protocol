@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 19:28:20 UTC_
+_Generated on 2025-12-16 20:16:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3419,6 +3419,7 @@ _Generated on 2025-12-16 19:28:20 UTC_
       - [`🪬_professional_profiles_with_high_system_literacy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪬_professional_profiles_with_high_system_literacy.md)
       - [`🪼_racialised_dual_attribution.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_racialised_dual_attribution.md)
       - [`🪼_when_data_pretends_to_be_meaning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_when_data_pretends_to_be_meaning.md)
+      - [`🪽_those_you_are_god_videos.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪽_those_you_are_god_videos.md)
       - [`🫠_projection_leak_signature.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫠_projection_leak_signature.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
