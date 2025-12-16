@@ -1,5 +1,5 @@
 # 🧬 Irreversible limits: when Physics Refuses Economic Fantasy  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-16  
 *Why material reality places non-negotiable limits on economic systems — and why growth ideology keeps pretending otherwise.*  
 
 ---
@@ -154,10 +154,10 @@ It establishes the non-negotiable role of material reality in constraining econo
 
 > 📡 Cross-references:
 > 
-> - [🧲 The magnet doesn’t care] — applied science confrontation  
-> - [♻️ Declining ore grades and the end of substitution myths] — material depletion economics  
-> - [🌍 When virtual minds govern a physical planet] — computational worldview failure  
+> - [🧲 The Magnet Doesn’t Care](../🧪_Development_Experimentation/🧲_the_magnet_doesnt_care.md) - *why I'd trust a plumber over a tech bro billionaire*  
+> - [♻️ Declining Ore Grades & The End Of Substitution Myths](../../🦕_Elder_Influencers/🕸️_World_Webs/♻️_declining_ore_grades_and_the_end_of_substitution_myths.md) - *mineral deposits run out; conventional economics assumes otherwise*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) - *why billionaire brain does not compute*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-16_
