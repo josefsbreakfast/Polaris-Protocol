@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 07:03:51 UTC_
+_Generated on 2025-12-16 07:56:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -179,6 +179,7 @@ _Generated on 2025-12-16 07:03:51 UTC_
         - [`👁️_restoring_epistemic_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👁️_restoring_epistemic_integrity.md)
         - [`👑_asserting_sovereignty_after_allied_interference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
         - [`👑_soft_power_accountability_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md)
+        - [`💰_sometimes_donors_save_the_day.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_sometimes_donors_save_the_day.md)
         - [`💰_who_benefits_from_cover_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/💰_who_benefits_from_cover_up.md)
         - [`📚_memory_market_machinery_of_data_exhaust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/📚_memory_market_machinery_of_data_exhaust.md)
         - [`🕊️_positive_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕊️_positive_drift.md)
