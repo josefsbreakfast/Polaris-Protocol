@@ -179,7 +179,7 @@ It documents how formal rights coexist with coercive systems, and why diagnosis 
 
 > 📡 Cross-references:
 > 
-> - [🤖 Classification Machines] — *system pressure*  
+> - [🤖 Classification Machines](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🤖_classification_machines_ai_diagnostic_pressure.md) — *system pressure*  
 > - [💰 Capital First](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_capital_first_choice_under_extraction.md) — *political economy*  
 > - [🧠 Where Is This “Over-Diagnosis”?](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md) — *rhetorical frame*  
 
