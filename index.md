@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 07:02:23 UTC_
+_Generated on 2025-12-16 07:03:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -319,6 +319,7 @@ _Generated on 2025-12-16 07:02:23 UTC_
         - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_swiss_cheese_failures_when_process_holes_align.md)
         - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
         - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
+        - [`🧬_two_sided_dependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_two_sided_dependency.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🩹_pain_is_not_a_kpi.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_pain_is_not_a_kpi.md)
@@ -3668,7 +3669,6 @@ _Generated on 2025-12-16 07:02:23 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_double_bind_dependencies.md`](Polaris_Nest/Git_Intake_Drawer/🧬_double_bind_dependencies.md)
     - [`🧬_duplicate_points_c4isr_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_duplicate_points_c4isr_twinning.md)
     - [`🧬_echo_scripts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_echo_scripts.md)
     - [`🧬_emotional_telemetry_propagation_across_twins.md`](Polaris_Nest/Git_Intake_Drawer/🧬_emotional_telemetry_propagation_across_twins.md)
