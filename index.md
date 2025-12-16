@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 18:47:44 UTC_
+_Generated on 2025-12-16 18:48:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -888,6 +888,7 @@ _Generated on 2025-12-16 18:47:44 UTC_
         - [`📚_the_suppressed_scholar.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📚_the_suppressed_scholar.md)
         - [`📜_cold_war_methodology_inheritance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/📜_cold_war_methodology_inheritance.md)
         - [`🔺_triangle_of_accountability_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🔺_triangle_of_accountability_gaps.md)
+        - [`🤖_classification_machines_ai_diagnostic_pressure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🤖_classification_machines_ai_diagnostic_pressure.md)
         - [`🧠_swiss_cheese_suicide_model_in_custody.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
         - [`🧨_escalation_cascades_through_misapplied_risk_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧨_escalation_cascades_through_misapplied_risk_logic.md)
         - [`🧩_risk_industries_and_custody_failure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md)
