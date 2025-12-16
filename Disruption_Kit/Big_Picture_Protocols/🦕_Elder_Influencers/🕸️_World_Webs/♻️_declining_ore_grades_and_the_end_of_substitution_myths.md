@@ -1,4 +1,4 @@
-# ♻️ ♻️ Declining Ore Grades & The End Of Substitution Myths  
+# ♻️ Declining Ore Grades & The End Of Substitution Myths  
 **First created:** 2025-12-14 | **Last updated:** 2025-12-16  
 *Why material depletion makes “just substitute it” economics mathematically and physically untenable.*  
 
@@ -169,8 +169,8 @@ It grounds economic debate in the physical realities of extraction, showing why 
 > 📡 Cross-references:
 > 
 > - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md) - *sometimes physics says, "no"*  
-> - [🦕 Geological Timescale Economics](./🦕_geological_timescale_economics_make_new_dinosaurs.md) - *make us some new dinosaurs, thanks*  
-> - [🌍 When Virtual Minds Govern A Physical Planet](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) - *why billionaire brain does not compute*  
+> - [🦕 Geological Timescale Economics](../../🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md) - *make us some new dinosaurs, thanks*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](./🌍_when_virtual_minds_govern_a_physical_planet.md) - *why billionaire brain does not compute*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
