@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 07:56:29 UTC_
+_Generated on 2025-12-16 17:09:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -710,6 +710,7 @@ _Generated on 2025-12-16 07:56:29 UTC_
         - [`🔥_shame_as_the_master_key_of_fascist_manipulation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🔥_shame_as_the_master_key_of_fascist_manipulation.md)
         - [`🕊️_false_counter_extremism_dialogues.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕊️_false_counter_extremism_dialogues.md)
         - [`🕎_rising_kahanist_violence_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕎_rising_kahanist_violence_risk.md)
+        - [`🕳️_denial_genocide_denial_vicarious_trauma.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕳️_denial_genocide_denial_vicarious_trauma.md)
         - [`🕹️_gamified_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕹️_gamified_extremism.md)
         - [`🛜_transnational_networks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🛜_transnational_networks.md)
         - [`🛰️_cultural_capture_of_internet_boys.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🛰️_cultural_capture_of_internet_boys.md)
