@@ -168,9 +168,9 @@ It provides a structural model for understanding why data systems behave non-lin
 
 > 📡 Cross-references:
 > 
-> - [🧬 Data Bonding Taxonomy](./🧬_data_bonding_taxonomy.md) — coupling types and strength  
-> - [🧬 Data Denaturation](./🧬_data_denaturation.md) — irreversibility and limits of correction  
-> - [🌿 The Maths of Life](./🌿_the_maths_of_life.md) — shared mathematical foundations  
+> - [🧬 Data Bonding Taxonomy](./🧬_data_bonding_taxonomy.md) — *coupling types and strength*  
+> - [🧬 Data Denaturation](./🧬_data_denaturation.md) — *irreversibility and limits of correction*  
+> - [🌿 The Maths of Life](🌿_the_maths_of_life.md) — *shared mathematical foundations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
