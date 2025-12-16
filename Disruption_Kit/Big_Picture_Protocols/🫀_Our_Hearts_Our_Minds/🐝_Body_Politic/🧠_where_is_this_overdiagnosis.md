@@ -221,9 +221,9 @@ It functions as an entry-point diagnostic, establishing evidentiary standards be
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Soft Law Governance] — informal power without scrutiny  
-> - [🧠 Big Picture Protocols] — systemic framing  
-> - [🌙 Everyday Containment] — lived effects  
+> - [⚖️ Soft Law Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *informal coercion*  
+> - [💰 Capital First](../💸_Money_Listens/👻_Transparencies_Overhead/💰_capital_first_choice_under_extraction.md) — *political economy*  
+> - [🩺 Diagnosis as Agency](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩺_diagnosis_as_agency.md) — *clinical ethics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
