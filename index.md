@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 03:09:48 UTC_
+_Generated on 2025-12-16 03:10:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3674,6 +3674,7 @@ _Generated on 2025-12-16 03:09:48 UTC_
     - [`🧬_ghost_vector_synthetic_offspring.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ghost_vector_synthetic_offspring.md)
     - [`🧬_harm_without_perpetrators_architecture_failure_model.md`](Polaris_Nest/Git_Intake_Drawer/🧬_harm_without_perpetrators_architecture_failure_model.md)
     - [`🧬_how_gossip_shapes_risk_flags.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_gossip_shapes_risk_flags.md)
+    - [`🧬_how_institutions_misfold_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_institutions_misfold_data.md)
     - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
     - [`🧬_keystone_rca.md`](Polaris_Nest/Git_Intake_Drawer/🧬_keystone_rca.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
