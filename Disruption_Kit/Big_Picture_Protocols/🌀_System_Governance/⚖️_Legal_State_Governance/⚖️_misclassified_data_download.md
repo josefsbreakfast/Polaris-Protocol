@@ -1,5 +1,5 @@
 # ⚖️ Royalties and Liability for Uncredited Training Data — Misclassification & Special-Purpose Use  
-**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-19 | **Last updated:** 2025-12-16  
 *A reference brief on ownership, compensation, and Crown liability for misclassified or dual-use AI training datasets.*  
 
 ---
@@ -115,9 +115,9 @@ It bridges intellectual-property, data-protection and defence-law frameworks for
 > 📡 Cross-references:
 > 
 > [🎙️ Unconsented Voice Beta](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎙️_unconsented_voice_beta.md) - *CVE R&D but make it somehow worse*  
-> [🧾 Student Data Abuse](../../../../Metadata_Sabotage_Network/Data_Risks/📿_Vulnerable_Data_Populations/🧾_student_data_abuse.md) - *the surveillence of learning*  
+> [🧾 Student Data Abuse](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧾_student_data_abuse.md) - *the surveillence of learning*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-16_
