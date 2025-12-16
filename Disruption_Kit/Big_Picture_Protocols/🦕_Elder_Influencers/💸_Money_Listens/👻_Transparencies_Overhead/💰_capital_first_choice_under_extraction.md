@@ -221,9 +221,9 @@ It exposes how disability functions as a stress test for capitalist claims about
 
 > 📡 Cross-references:
 > 
-> - [🧠 Where Is This “Over-Diagnosis”?](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md) — *rhetorical diagnostics*  
-> - [🩺 Diagnosis as Agency](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩺_diagnosis_as_agency.md) — *clinical ethics*  
-> - [⚖️ Soft Law Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *informal coercion*  
+> - [🧠 Where Is This “Over-Diagnosis”?](../../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md) — *rhetorical diagnostics*  
+> - [🩺 Diagnosis as Agency](../../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩺_diagnosis_as_agency.md) — *clinical ethics*  
+> - [⚖️ Soft Law Governance](../../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *informal coercion*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
