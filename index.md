@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 02:04:14 UTC_
+_Generated on 2025-12-16 02:07:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2803,9 +2803,6 @@ _Generated on 2025-12-16 02:04:14 UTC_
     - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
-  - [**Data_Risks/**](Metadata_Sabotage_Network/Data_Risks/)
-    - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/Data_Risks/📿_Vulnerable_Data_Populations/)
-      - [`🧾_student_data_abuse.md`](Metadata_Sabotage_Network/Data_Risks/📿_Vulnerable_Data_Populations/🧾_student_data_abuse.md)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md)
@@ -3537,6 +3534,7 @@ _Generated on 2025-12-16 02:04:14 UTC_
       - [`🧟_the_zombie_data_genocide.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟_the_zombie_data_genocide.md)
       - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟‍♀️_zombie_data_and_population_targeting.md)
       - [`🧬_metadata_exhaust_as_pre_investigative_exposure.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧬_metadata_exhaust_as_pre_investigative_exposure.md)
+      - [`🧾_student_data_abuse.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧾_student_data_abuse.md)
       - [`🧿_custodial_opacity_and_database_disappearance.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md)
       - [`🩺_healthcare_access_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🩺_healthcare_access_id_risks.md)
     - [**🛂_Papers_Please_Problems/**](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/)
