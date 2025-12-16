@@ -1,5 +1,5 @@
 # 🏛️ Welcome to Western Imperialism  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-16  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-16  
 *How empire launders itself through memory, moral exception, and selective grief.*
 
 ---
