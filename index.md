@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 06:28:09 UTC_
+_Generated on 2025-12-16 06:29:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3278,6 +3278,7 @@ _Generated on 2025-12-16 06:28:09 UTC_
       - [`🧬_data_anomalies_twins_zombies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md)
       - [`🧬_data_bonding_taxonomy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_bonding_taxonomy.md)
       - [`🧬_data_correction_notices.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md)
+      - [`🧬_data_denaturation.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_denaturation.md)
       - [`🧬_data_twinning_when_two_identities_become_one_record.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_twinning_when_two_identities_become_one_record.md)
       - [`🧬_deliberate_data_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_data_twinning.md)
       - [`🧬_deliberate_metadata_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_metadata_twinning.md)
@@ -3666,7 +3667,6 @@ _Generated on 2025-12-16 06:28:09 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_data_denaturation.md`](Polaris_Nest/Git_Intake_Drawer/🧬_data_denaturation.md)
     - [`🧬_double_bind_dependencies.md`](Polaris_Nest/Git_Intake_Drawer/🧬_double_bind_dependencies.md)
     - [`🧬_duplicate_points_c4isr_twinning.md`](Polaris_Nest/Git_Intake_Drawer/🧬_duplicate_points_c4isr_twinning.md)
     - [`🧬_echo_scripts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_echo_scripts.md)
