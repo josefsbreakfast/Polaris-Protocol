@@ -17,7 +17,7 @@ The danger lies in what these formats *catalyse*, *measure*, and *optimise* — 
 
 ---
 
-## ✨ Key Features (Format Anatomy)
+## ✨ Key Features  
 
 This content functions as a recognisable, repeatable niche rather than isolated clips. Common features include:
 
