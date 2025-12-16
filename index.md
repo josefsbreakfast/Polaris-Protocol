@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-16 01:51:33 UTC_
+_Generated on 2025-12-16 01:55:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -350,6 +350,7 @@ _Generated on 2025-12-16 01:51:33 UTC_
         - [`🍿_imperial_core_drama_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍿_imperial_core_drama_cycle.md)
         - [`🎞️_authoritarian_aesthetics_collapse_curve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎞️_authoritarian_aesthetics_collapse_curve.md)
         - [`🎡_the_aesthetic_economy_of_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎡_the_aesthetic_economy_of_states.md)
+        - [`🎪_not_even_a_mole_to_be_found.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎪_not_even_a_mole_to_be_found.md)
         - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)
         - [`🎭_kremlin_aesthetic_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_kremlin_aesthetic_timeline.md)
         - [`🎭_reputation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_reputation_as_governance.md)
