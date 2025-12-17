@@ -152,7 +152,73 @@ Cross-context verification is not confrontation.
 It is **comparison**.
 
 Healthy systems survive it.  
-Fantasy-dependent ones do not.
+Fantasy-dependent ones do not.  
+
+---
+
+## 🔗 Relation to Coercive Control, Institutional Misreading, and System Destabilisation  
+
+This mechanism closely overlaps with **coercive control frameworks**, but operates in a more distributed, institutional, and often non-intimate register.
+
+### 🧷 Relation to Coercive Control  
+
+Like coercive control, cross-context verification failure relies on:
+- Asymmetric information
+- Narrative dominance
+- Isolation of perspectives
+- Patterned interference with shared reality
+- Plausible deniability rather than overt force  
+
+However, unlike classic dyadic coercive control, this structure is often:
+- Multi-directional rather than one-to-one  
+- Mediated through systems, roles, or institutions  
+- Focused on **ego regulation through role control**, not solely domination  
+
+The harm arises not from a single act, but from **sustained prevention of reality comparison**.
+
+---
+
+### 🏢 Why Institutions Misread This as Competence  
+
+Institutions frequently misinterpret verification-avoidant behaviour as professionalism.
+
+Commonly rewarded traits include:
+- Managing multiple stakeholders with different tones  
+- Preventing issues from “escalating”  
+- Handling conflicts discreetly  
+- Acting as an intermediary or fixer  
+- Maintaining surface stability  
+
+In practice:
+- Conflicts are partitioned, not resolved  
+- Information is selectively routed, not synthesised  
+- Stability is achieved by **preventing coherence checks**  
+
+This leads institutions to reward the very behaviours that enable identity fragmentation and narrative control — until contradictions become unavoidable and collapse appears “sudden.”
+
+---
+
+### 🧯 What Destabilises Fantasy-Based Ego Systems  
+*(Without escalating harm)*  
+
+Direct confrontation, accusation, or psychological interpretation typically strengthens defensive escalation.
+
+Effective destabilisation occurs structurally, not adversarially:
+
+- **Parallel visibility**  
+  The same information appears in multiple contexts without commentary, forcing external integration.
+
+- **Shared artefacts**  
+  Persistent documents, timelines, or records that do not rely on interpretation and can be viewed across audiences.
+
+- **Process normalisation**  
+  Framing verification as routine (“record alignment,” “timeline sync,” “documentation standardisation”) rather than corrective.
+
+- **Reduction of intermediary control**  
+  Minimising reliance on message relays, summaries, or gatekeepers who filter access between parties.
+
+Fantasy-dependent systems rely on isolation.  
+They weaken when comparison becomes ordinary.  
 
 ---
 
