@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-17 21:48:23 UTC_
+_Generated on 2025-12-17 23:09:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3645,6 +3645,7 @@ _Generated on 2025-12-17 21:48:23 UTC_
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🍉_asajew_globalise_the_intifada.md`](Polaris_Nest/Git_Intake_Drawer/🍉_asajew_globalise_the_intifada.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
+    - [`🍞_the_great_british_imperial_starvation_machine.md`](Polaris_Nest/Git_Intake_Drawer/🍞_the_great_british_imperial_starvation_machine.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
