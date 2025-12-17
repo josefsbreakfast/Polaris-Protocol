@@ -1,5 +1,5 @@
 # ⚖️ Institutional Realisation to Remediation
-**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-17  
 *How institutions move from recognising failure to repairing harm.*
 
 ---
@@ -22,9 +22,13 @@ Institutions prefer resolution pathways that minimise uncertainty, liability, an
 ## 🧿 Harm Recognition  
 Institutions acknowledge impact without admitting blame.
 
+---
+
 ## 📜 Legal Posture Shift  
 Language becomes careful.
 Communications formalise.
+
+---
 
 ## 🪼 Resolution Pathway  
 Options include:
@@ -32,6 +36,8 @@ Options include:
 - correction  
 - compensation  
 - policy revision  
+
+---
 
 ## 💫 Containment Priority  
 The goal is to close the loop cleanly.
@@ -59,4 +65,4 @@ It outlines how institutions transition from internal recognition of failure to 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
