@@ -1,5 +1,5 @@
 # ⚖️ The Rule-of-Law Trust Deficit  
-**First created:** 2025-10-06 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-06 | **Last updated:** 2025-12-17  
 *Governance analysis of unequal terrorism classification and its effect on public legitimacy.*
 
 ---
