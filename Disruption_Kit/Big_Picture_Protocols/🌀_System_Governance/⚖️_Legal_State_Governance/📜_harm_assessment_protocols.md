@@ -1,5 +1,5 @@
 # 📜 Harm Assessment Protocols  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-17  
 *How institutions evaluate whether damage occurred and what must be done.*  
 
 ---
@@ -22,9 +22,7 @@ This node documents how institutions determine:
 
 ---
 
-## 🧿 Analysis
-
-### 1. **Impact Identification**
+## Impact Identification
 Institutions assess:
 - distress  
 - reputational damage  
@@ -32,14 +30,20 @@ Institutions assess:
 - financial cost  
 - prolonged uncertainty  
 
-### 2. **Causality Mapping**
+---
+
+## Causality Mapping
 They connect harm to process failure, not personal blame.
 
-### 3. **Threshold Decision**
+---
+
+## Threshold Decision
 A determination is made:
 > “This warrants remediation.”
 
-### 4. **Response Calibration**
+---
+
+## Response Calibration
 Remediation is matched to scope of harm.
 
 ---
@@ -65,4 +69,4 @@ It provides a framework for understanding how institutions evaluate and respond 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
