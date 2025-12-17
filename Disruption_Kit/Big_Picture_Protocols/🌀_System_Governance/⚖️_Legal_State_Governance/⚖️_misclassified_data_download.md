@@ -1,5 +1,5 @@
 # ⚖️ Royalties and Liability for Uncredited Training Data — Misclassification & Special-Purpose Use  
-**First created:** 2025-10-19 | **Last updated:** 2025-12-16  
+**First created:** 2025-10-19 | **Last updated:** 2025-12-17  
 *A reference brief on ownership, compensation, and Crown liability for misclassified or dual-use AI training datasets.*  
 
 ---
@@ -8,9 +8,9 @@
 
 A dataset originating from a UK university (e.g., student work, internal research papers) was:
 
-1️⃣ **Misclassified** under a Defence Protocol — tagged as strategic research or “national-security related” data;  
-2️⃣ **Transferred to / used by** a *special-purpose vehicle (SPV)* or government-linked contractor for model training;  
-3️⃣ **Used commercially** (e.g., spin-out, dual-use AI platform).
+- **Misclassified** under a Defence Protocol — tagged as strategic research or “national-security related” data;  
+- **Transferred to / used by** a *special-purpose vehicle (SPV)* or government-linked contractor for model training;  
+- **Used commercially** (e.g., spin-out, dual-use AI platform).
 
 ---
 
@@ -27,7 +27,7 @@ A dataset originating from a UK university (e.g., student work, internal researc
 
 ---
 
-## ⚖️ 1️⃣ If Data Were Misclassified  
+## ⚖️ If Data Were Misclassified  
 
 - Misclassification does **not extinguish private rights**; it restricts oversight until corrected.  
 - While misclassified, licensing is impossible; after correction, authors may claim compensation for commercial exploitation.  
@@ -37,7 +37,7 @@ A dataset originating from a UK university (e.g., student work, internal researc
 
 ---
 
-## ⚖️ 2️⃣ Special-Purpose Vehicle (SPV) Liability  
+## ⚖️ Special-Purpose Vehicle (SPV) Liability  
 
 | Type of SPV | Responsibility | Exposure |
 |:--|:--|:--|
@@ -47,7 +47,7 @@ A dataset originating from a UK university (e.g., student work, internal researc
 
 ---
 
-## ⚙️ 3️⃣ When Would Royalties Be Due?  
+## ⚙️ When Would Royalties Be Due?  
 
 | Condition | Royalty / Compensation Trigger |
 |:--|:--|
@@ -58,7 +58,7 @@ A dataset originating from a UK university (e.g., student work, internal researc
 
 ---
 
-## 🧠 4️⃣ GDPR Exemptions Interaction  
+## 🧠 GDPR Exemptions Interaction  
 
 - National-security exemption permits departure only “to the extent necessary.” It does **not** erase Art 82 damages liability.  
 - Erroneous defence tag = unlawful processing → distress / economic loss claims.  
@@ -66,7 +66,7 @@ A dataset originating from a UK university (e.g., student work, internal researc
 
 ---
 
-## 🧩 5️⃣ Case Analogues / Precedents  
+## 🧩 Case Analogues / Precedents  
 
 | Reference | Analogy |
 |:--|:--|
@@ -77,7 +77,7 @@ A dataset originating from a UK university (e.g., student work, internal researc
 
 ---
 
-## 💰 6️⃣ Royalty Computation (if owed)  
+## 💰 Royalty Computation (If Owed)  
 
 - Benchmark = licence fee for scope + duration.  
 - Crown use adjustment ≈ 50–75 % of commercial rate (public interest discount).  
@@ -85,7 +85,7 @@ A dataset originating from a UK university (e.g., student work, internal researc
 
 ---
 
-## 🧭 7️⃣ Summary Logic  
+## 🧭 Summary Logic  
 
 1️⃣ Misclassification ≠ ownership transfer.  
 2️⃣ Commercial reuse → compensation duty.  
@@ -120,4 +120,4 @@ It bridges intellectual-property, data-protection and defence-law frameworks for
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2025-12-17_
