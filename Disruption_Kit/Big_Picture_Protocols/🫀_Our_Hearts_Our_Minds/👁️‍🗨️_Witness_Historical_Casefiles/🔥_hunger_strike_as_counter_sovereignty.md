@@ -1,6 +1,6 @@
 # 🔥 Hunger Strike as Counter-Sovereignty  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
-*How the refusal to eat destabilises the state’s monopoly on moral, narrative, and bodily authority.*
+**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
+*How the refusal to eat destabilises the state’s monopoly on moral, narrative, and bodily authority.*  
 
 ---
 
@@ -198,12 +198,12 @@ It maps the destabilising power of embodied refusal, analysing how hunger strike
 
 > 📡 Cross-references:
 > 
-> - [🕯️ Ethics of Refusal in Austerity States](../🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md)  
-> - [🩸 Bodily Risk as Political Speech](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md)  
-> - [🧨 Exceptional Sovereignty in Pretrial Security Detention](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)  
-> - [🪆 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
+> - [🕯️ Ethics of Refusal in Austerity States](../🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md) - *the tension of compliance and non-compliance in the financial "emergency powers state*  
+> - [🩸 Bodily Risk as Political Speech](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md) - *how increasing risk to one's own body can function as political expression*  
+> - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *the particular danger zone of non-standard detentions, medical crises, and emergency powers; case example as Palestine Action hunger strikers currently on remand and in critical condition*  
+> - [🔥 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md) - *when power interprets non-complaince as an attack*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-17_
