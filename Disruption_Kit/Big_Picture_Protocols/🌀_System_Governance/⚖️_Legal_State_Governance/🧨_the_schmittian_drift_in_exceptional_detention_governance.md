@@ -1,5 +1,5 @@
 # 🧨 The Schmittian Drift in Exceptional Detention Governance  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
 *How emergency logic becomes ordinary governance — and why pretrial hunger strike crises expose this drift.*  
 
 ---
@@ -124,16 +124,16 @@ schmittian drift, exceptional detention, counter-terrorism overreach, pretrial g
 ---
 
 ## 🏮 Footer  
-*The Schmittian Drift in Exceptional Detention Governance* is a living node of the **Polaris Protocol**, analysing how emergency logic infiltrates ordinary governance through pretrial exceptionalism.
+*🧨 The Schmittian Drift in Exceptional Detention Governance* is a living node of the **Polaris Protocol**, analysing how emergency logic infiltrates ordinary governance through pretrial exceptionalism.
 
 > 📡 Cross-references:
 > 
-> - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)  
-> - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](./⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md)  
-> - [⚠️ Erosion of Duty of Care Under Exception Logic](./⚠️_the_erosion_of_duty_of_care_under_exception_logic.md)  
-> - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)
+> - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *the particular danger zone of non-standard detentions, medical crises, and emergency powers; case example as Palestine Action hunger strikers currently on remand and in critical condition*  
+> - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](./⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md) - *the tension between rule of law and "emergency powers" and the risk of democratic breakdown*  
+> - [⚠️ Erosion of Duty of Care Under Exception Logic](./⚠️_the_erosion_of_duty_of_care_under_exception_logic.md) - *how usual legal protections of the person break down when states claim "emergency"*  
+> - [🔥 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md) - *when you say "no" and others feel a slap*  
 > - [🏨 Hotels, Protests, and Power Consolidation](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md) - *Schmitt logic in hotels and immigrant detention "management" narratives*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
