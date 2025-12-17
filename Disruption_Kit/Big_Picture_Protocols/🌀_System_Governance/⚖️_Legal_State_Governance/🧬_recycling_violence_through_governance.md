@@ -1,5 +1,5 @@
 # 🧬 Classification as Extraction: Recycling Violence Through Governance Systems  
-**First created:** 2025-12-15 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-17  
 *How data extracted under occupation is recycled into UK governance via classification, misclassification, and dual-use systems.*  
 
 ---
@@ -180,7 +180,7 @@ classification systems, misclassification, data extraction, recycled violence, d
 
 ## 🏮 Footer  
 
-*Classification as Extraction: Recycling Violence Through Governance Systems* is a living node of the **Polaris Protocol**.  
+*🧬 Classification as Extraction: Recycling Violence Through Governance Systems* is a living node of the **Polaris Protocol**.  
 It documents how coercively extracted data and classificatory logics are sanitised, exported, and re-embedded into UK governance, reproducing harm without acknowledging its origin.
 
 > 📡 Cross-references:
@@ -191,4 +191,4 @@ It documents how coercively extracted data and classificatory logics are sanitis
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2025-12-17_
