@@ -251,19 +251,19 @@ Legitimacy erodes downstream.
 This does not require scrapping oversight.  
 It requires evolution.
 
-### From Point-in-Time Approval to Lifecycle Oversight  
+1. **From Point-in-Time Approval to Lifecycle Oversight**  
 Duration must be treated as a risk factor.
 
-### Responsibility for Outcomes, Not Just Process  
+2. **Responsibility for Outcomes, Not Just Process**  
 Fragmented responsibility weakens accountability.
 
-### Civic Intelligibility as an Oversight Value  
+3. **Civic Intelligibility as an Oversight Value**  
 Loss of intelligibility is an early warning signal.
 
-### Attending to Power Asymmetry  
+4. **Attending to Power Asymmetry**  
 Ignoring parasymmetry entrenches imbalance.
 
-### Institutional Stress as Governance Risk  
+5. **Institutional Stress as Governance Risk**  
 Burnout predicts boundary erosion.
 
 ---
