@@ -1,5 +1,5 @@
 # ⚖️ The Protection Racket as a System Design Pattern  
-**First created:** 2025-10-18 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-18 | **Last updated:** 2025-12-17  
 *How coercive “protection” mimics governance to monetise fear.*  
 
 ---
@@ -80,7 +80,7 @@ What began as solidarity becomes subscription; protection becomes product; and t
 
 ---
 
-### 🌱 Interdependence as Counter-Architecture  
+## 🌱 Interdependence as Counter-Architecture  
 If a protection racket thrives on *codependence* — fear dressed as loyalty — then the antidote is **interdependence**: trust distributed across many, without hierarchy.  
 Interdependence is not dependency; it is **mutual reliance without ownership**.  
 It works like a forest: each tree draws from shared soil, gives shade, drops leaves that feed the roots of others.  
@@ -94,7 +94,7 @@ One sells “protection”; the other *cultivates safety.*
 
 ---
 
-### ⚖️ The Governance Paradox — When Safety Becomes Power  
+## ⚖️ The Governance Paradox — When Safety Becomes Power  
 Every political tradition wrestles with the same parasite: *how to protect without becoming the racket.*  
 It’s easy to condemn coercion when you’re outside it; harder when you start organising protection yourself.  
 
@@ -111,7 +111,7 @@ They remind us that without transparency, reciprocity, and community-held power,
 
 ---
 
-### 💬 The Value of the Question  
+## 💬 The Value of the Question  
 Readers approach these ideas from every direction — law, activism, theology, policy, fiction, care work — and that diversity is the point.  
 You don’t need to agree with every principle here, or with any at all, to find the *questions* worth sitting with.  
 How do we protect without coercing? How do we cooperate without controlling? What turns care into capture?  
@@ -161,4 +161,4 @@ It names the design so that its modern uniforms can be recognised — and refuse
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
