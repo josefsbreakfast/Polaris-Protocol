@@ -1,5 +1,5 @@
 # ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-17  
 *Evidence, ethics, and efficiency — the capital punishment trap.*  
 
 ---
