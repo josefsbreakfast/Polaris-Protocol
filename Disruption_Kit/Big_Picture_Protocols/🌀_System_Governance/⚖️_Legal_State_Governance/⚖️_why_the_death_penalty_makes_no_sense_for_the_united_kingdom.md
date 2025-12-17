@@ -11,7 +11,7 @@ It functions less as policy debate than as **theatre of control** — an emotion
 
 ---
 
-## Legal and Moral Contradictions  
+## 🕊️ Legal and Moral Contradictions  
 
 - The UK helped found **Amnesty International**, co‑drafted the **Universal Declaration of Human Rights**, and ratified **Protocol 13 of the ECHR**, which absolutely prohibits capital punishment.  
 - Reintroducing executions would violate international law, collapse diplomatic credibility, and sever the nation’s moral identity.  
@@ -19,7 +19,7 @@ It functions less as policy debate than as **theatre of control** — an emotion
 
 ---
 
-## Economic and Operational Costs  
+## 💰 Economic and Operational Costs  
 
 - Capital prosecutions cost **2–5× more** than life‑sentence cases due to appeals, secure facilities, and complex legal review.  
 - No country has found a humane, reliable, or inexpensive method of execution.  
@@ -27,7 +27,7 @@ It functions less as policy debate than as **theatre of control** — an emotion
 
 ---
 
-## Containment Through Spectacle  
+## 🦚 Containment Through Spectacle  
 
 The death penalty also serves as a **political bandwidth trap**:  
 
@@ -38,7 +38,7 @@ The death penalty also serves as a **political bandwidth trap**:
 
 ---
 
-## Global and Reputational Fallout  
+## 🌍 Global and Reputational Fallout  
 
 - Over **two‑thirds of the world** have abolished the death penalty in law or practice.  
 - The UK’s diplomatic influence and human‑rights credibility depend on maintaining abolition.  
@@ -46,7 +46,7 @@ The death penalty also serves as a **political bandwidth trap**:
 
 ---
 
-## Survivor Voice: The Moral Line  
+## 🐦‍🔥 Survivor Voice: The Moral Line  
 
 *My father is serving a long prison sentence for crimes which have injured me permanently.  
 I will die with these injuries.  
@@ -61,7 +61,7 @@ and that to claim the victim’s name while removing their agency is to repeat t
 
 ---
 
-## Violence Cannot Be Contained  
+## 🔥 Violence Cannot Be Contained  
 
 Each time the death penalty re-enters public conversation, the same questions arise: *what crimes count?*  
 Most people start with “rape” and “murder,” but historically, every regime that restored executions let the category **creep outward** — to treason, theft, speech, protest.  
