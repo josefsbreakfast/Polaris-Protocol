@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-17 11:18:39 UTC_
+_Generated on 2025-12-17 11:23:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3843,6 +3843,7 @@ _Generated on 2025-12-17 11:18:39 UTC_
     - [`🩹_vulnerability_hyper_visibility.md`](Polaris_Nest/Git_Intake_Drawer/🩹_vulnerability_hyper_visibility.md)
     - [`🩺_healthcare_lockout_from_false_offender_classification.md`](Polaris_Nest/Git_Intake_Drawer/🩺_healthcare_lockout_from_false_offender_classification.md)
     - [`🩻_safeguarding_logic_civil_systems.md`](Polaris_Nest/Git_Intake_Drawer/🩻_safeguarding_logic_civil_systems.md)
+    - [`🩻_the_balance_of_legal_exposures.md`](Polaris_Nest/Git_Intake_Drawer/🩻_the_balance_of_legal_exposures.md)
     - [`🪄_metaphor_not_madness_personifying_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪄_metaphor_not_madness_personifying_systems.md)
     - [`🪆_male_fear_throttling_trigger.md`](Polaris_Nest/Git_Intake_Drawer/🪆_male_fear_throttling_trigger.md)
     - [`🪆_why_authoritarianism_always_loses_its_camp.md`](Polaris_Nest/Git_Intake_Drawer/🪆_why_authoritarianism_always_loses_its_camp.md)
