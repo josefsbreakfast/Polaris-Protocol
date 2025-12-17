@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-17 01:40:45 UTC_
+_Generated on 2025-12-17 01:49:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -368,6 +368,7 @@ _Generated on 2025-12-17 01:40:45 UTC_
         - [`🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md)
         - [`🏛️_olympus_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_olympus_syndrome.md)
         - [`🏛️_respectability_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_respectability_laundering.md)
+        - [`🐐_old_school_scapegoating.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐐_old_school_scapegoating.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
         - [`💣_trident_as_modern_kraken_security_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💣_trident_as_modern_kraken_security_theatre.md)
         - [`💥_reputational_insurance_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💥_reputational_insurance_collapse.md)
