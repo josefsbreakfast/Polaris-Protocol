@@ -14,14 +14,9 @@ If a public body holds incorrect, contaminated, outdated, or misinterpreted info
 - avoid suspicion  
 - and function as a citizen  
 
-…is compromised.
+   is compromised.
 
-This node explains why a *duty to correct* must exist across all public bodies, how it should function, and why its absence is a structural threat to democracy and minority safety.
-
-It sits alongside:  
-- 📛 *bureaucratic_memory_failure_and_identity_contamination*  
-- 📡 *cross-system_metadata_echo_chains*  
-- 🗃️ *safeguarding_logic_mission_creep_and_identity_pathologising*  
+This node explains why a *duty to correct* must exist across all public bodies, how it should function, and why its absence is a structural threat to democracy and minority safety.  
 
 ---
 
@@ -34,9 +29,7 @@ It sits alongside:
 
 ---
 
-## 🧿 Analysis / Content  
-
-### ⛓️ 1. Why Correction Is a Democratic Right  
+## ⛓️ Why Correction Is a Democratic Right  
 A democracy relies on the principle:
 
 > **The state must know who you are — but must not misdefine you.**
@@ -54,7 +47,7 @@ Without correction mechanisms, citizens lose functional agency.
 
 ---
 
-### 🔥 2. Misinterpretation Is Not a Minor Error — It’s a Rights Violation  
+## 🔥 Misinterpretation Is Not a Minor Error — It’s a Rights Violation  
 Incorrect data can cause:
 
 - denial of services  
@@ -73,46 +66,46 @@ It is **structural violence** when left uncorrected.
 
 ---
 
-### 🧷 3. Why UK Institutions Resist Correction  
+## 🧷 Why UK Institutions Resist Correction  
 UK public bodies often refuse or resist correction because:
 
-#### **a) Systems Can’t Delete Fields**  
+### 1. Systems Can’t Delete Fields  
 Legacy software stores fields permanently.
 
-#### **b) Leaders Fear Liability**  
+### 2. Leaders Fear Liability  
 Deleting incorrect data looks like erasing “potential risk”.
 
-#### **c) Paper Trails Reward Retention**  
+### 3. Paper Trails Reward Retention  
 Staff worry that removing an error exposes them to blame.
 
-#### **d) Misinterpretations Spread**  
+### 4. Misinterpretations Spread  
 Once an error echoes to multiple systems, no single institution wants to contradict the others.
 
-#### **e) SAR/FOI Processes Are Under-Resourced**  
+### 5. SAR/FOI Processes Are Under-Resourced  
 Citizens cannot even access the full records to correct them.
 
 ---
 
-### 🧩 4. How Correction Should Work  
+## 🧩 How Correction Should Work  
 Polaris defines a four-tier correction model:
 
-#### **Tier 1 — Immediate Amendment**  
+### Tier 1 — Immediate Amendment  
 - factual inaccuracies corrected on request  
 - errors corrected within 30 days  
 - full transparency about source of error  
 
-#### **Tier 2 — Metadata Contextualisation**  
+### Tier 2 — Metadata Contextualisation  
 When a note cannot be deleted due to system rules:  
 → attach contextual note clarifying the misinterpretation  
 → ensure future readers understand the correction  
 
-#### **Tier 3 — Cross-System Notification**  
+### Tier 3 — Cross-System Notification  
 If the error has already echoed:  
 → the body must notify any organisation that inherited the error  
 → send corrected version  
 → request deletion or contextualisation  
 
-#### **Tier 4 — Identity Integrity Audits**  
+### Tier 4 — Identity Integrity Audits  
 Annual checks for:  
 - inconsistent risk labels  
 - duplicated flags  
@@ -123,7 +116,7 @@ A democracy must maintain its own “data hygiene”.
 
 ---
 
-### 🧬 5. The Correction Pipeline (Polaris Model)  
+## 🧬 The Correction Pipeline (Polaris Model)  
 
 ```mermaid
 flowchart TB
@@ -138,7 +131,7 @@ This protects the citizen from misremembering by the state.
 
 ---
 
-### ⚖️ 6. International Context  
+## ⚖️ International Context  
 Comparable democracies have stronger correction rights:
 
 - **EU GDPR Art.16:** Broad right to rectification  
@@ -150,7 +143,7 @@ The UK falls behind, especially post-Brexit.
 
 ---
 
-### 🔦 7. Why Lack of Correction Enables Authoritarian Drift  
+## 🔦 Why Lack of Correction Enables Authoritarian Drift  
 Without correction:
 
 - suspicion becomes permanent  
@@ -165,7 +158,7 @@ not through intention, but through **uninterruptible error propagation**.
 
 ---
 
-### 🧭 8. Why This Matters for Survivors  
+## 🧭 Why This Matters for Survivors  
 Survivors of bureaucratic harm often describe:
 
 - feeling hunted by mistakes  
@@ -190,4 +183,4 @@ It frames correction not as clerical nicety but as essential civic infrastructur
 > - [📡 Cross-System Metadata Echo Chains](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md) - *how data slips between systems, creating falsity and inaccuracy in records*  
 > - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
