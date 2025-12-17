@@ -1,5 +1,5 @@
 # ⚖️ IPCO Audit Cycle  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-26 | **Last updated:** 2025-12-17  
 *Oversight inspections of UK intelligence services.*  
 
 ---
@@ -14,15 +14,21 @@ Survivors know that being watched twice doesn’t always make you safer.
 - **Frequency**: typically twice yearly for each agency.  
 - **Scope**: warrant execution, data retention, deletion, compliance logs.  
 
+---
+
 ## 🪄 Sampling  
 - IPCO inspectors independently draw **random and stratified samples** from live warrant databases.  
 - They review necessity, proportionality, handling, and deletion.  
 - Risk-based targeting supplements randomness.  
 
+---
+
 ## 🚀 Enforcement  
 - Minor errors: written recommendations.  
 - Systemic failures: formal compliance notices.  
 - Serious breaches: suspension of powers, mandatory data destruction, reports to PM & ISC.  
+
+---
 
 ## 🎪 Reporting  
 - Classified reports to ministers.  
@@ -60,7 +66,7 @@ IPCO, audit cycle, UK intelligence, MI5 oversight, surveillance accountability, 
 
 ## 🏮 Footer  
 
-*IPCO Audit Cycle* is a living node of the Polaris Protocol.  
+*⚖️ IPCO Audit Cycle* is a living node of the Polaris Protocol.  
 It outlines the inspection and compliance processes that govern MI5, MI6, and GCHQ — and the limits of their effectiveness when survivors are the anomalies being missed.
 
 > 📡 Cross-references:
@@ -71,4 +77,4 @@ It outlines the inspection and compliance processes that govern MI5, MI6, and GC
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-17_
