@@ -1,5 +1,5 @@
 # ⚖️ Authorisation and Oversight  
-**First created:** 2025-09-26 | **Last updated:** 2025-12-15  
+**First created:** 2025-09-26 | **Last updated:** 2025-12-17  
 *Ministerial and judicial checks on intelligence powers.*  
 
 ---
@@ -15,10 +15,14 @@ Every intrusion comes signed, minister and judge. That’s the promise. But surv
 - **Judicial approval**: Judicial Commissioner must independently review and confirm.  
 - **Legal anchor**: IPA 2016, s.19(4) — warrant must fall “within the functions” of the relevant agency.  
 
+---
+
 ## 🕸️ Functions & Boundaries  
 - MI5 warrants: Home Secretary.  
 - MI6 & GCHQ warrants: Foreign Secretary.  
 - Judicial Commissioners: senior judges, independent of government.  
+
+---
 
 ## 🦇 Oversight Bodies  
 - **IPCO** (Investigatory Powers Commissioner’s Office): inspects warrants, compliance, data handling.  
@@ -46,7 +50,7 @@ intelligence powers, warrant approval, judicial oversight, IPCO, IPT, ministeria
 
 ## 🏮 Footer  
 
-*Authorisation and Oversight* is a living node of the Polaris Protocol.  
+*⚖️ Authorisation and Oversight* is a living node of the Polaris Protocol.  
 It explains how intelligence warrants are issued and checked in the UK — and how gaps between process and experience undermine survivor trust.
 
 > 📡 Cross-references:
@@ -56,4 +60,4 @@ It explains how intelligence warrants are issued and checked in the UK — and h
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
