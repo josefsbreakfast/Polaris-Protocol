@@ -23,7 +23,7 @@ As a result, procedural delay can outweigh the original facts in judicial evalua
 
 ---
 
-## Why courts focus on delay  
+## ⏱️🐇 Why Courts Focus On Delay  
 
 Judges are tasked with evaluating:
 - reasonableness  
@@ -42,7 +42,7 @@ This makes it a **clean judicial signal**.
 
 ---
 
-## Delay as a proxy for fairness  
+## ⚖️ Delay As A Proxy For Fairness  
 
 Courts frequently use delay to infer:
 - seriousness of response  
@@ -57,7 +57,7 @@ This inference can be more damaging than the underlying mistake.
 
 ---
 
-## Delay shifts the evidentiary burden  
+## 🌋 Delay Shifts The Evidentiary Burden  
 
 Once delay is established, the burden moves:
 
@@ -68,7 +68,7 @@ This inversion significantly alters the legal balance.
 
 ---
 
-## Harm caused by process  
+## 🧨 Harm Caused By Pprocess  
 
 Courts recognise that delay can cause:
 - loss of evidence  
@@ -81,7 +81,7 @@ As a result, judicial focus often centres on:
 
 ---
 
-## Why institutions misjudge this risk  
+## 🔥 Why Institutions Misjudge this Risk  
 
 Institutions often assume:
 > “If the underlying issue is defensible, delay will not matter.”
