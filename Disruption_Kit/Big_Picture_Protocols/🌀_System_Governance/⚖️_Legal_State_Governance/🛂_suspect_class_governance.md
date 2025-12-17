@@ -1,5 +1,5 @@
 # 🛂 Suspect Class Governance  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
 *How “risk-based” frameworks quietly produce suspect classes — and the structural mechanisms by which whole demographics become administratively exceptional.*  
 
 ---
@@ -22,7 +22,7 @@ Unlike explicit discrimination, suspect class governance operates through **admi
 
 ---
 
-## From Individual Risk to Group Suspicion
+## 🍄 From Individual Risk to Group Suspicion
 
 Risk-based governance begins with the premise of *individual assessment*. In practice, it relies on:
 
@@ -35,34 +35,34 @@ When these inputs correlate strongly with identity markers (race, religion, clas
 
 ---
 
-## Administrative Exceptionalism
+## 🧿 Administrative Exceptionalism
 
 Suspect classes are not named as such. Instead, they experience:
 
-* disproportionate referrals
-* enhanced monitoring
-* targeted interventions
-* lowered thresholds for concern
-* extended data retention
+- disproportionate referrals
+- enhanced monitoring
+- targeted interventions
+- lowered thresholds for concern
+- extended data retention
 
 Exceptional treatment becomes routine, embedded in process rather than decree.
 
 ---
 
-## Safeguarding as Cover
+## 📝 Safeguarding as Cover
 
 Many suspect-class regimes are framed as protective:
 
-* early intervention
-* prevention
-* welfare support
-* community safeguarding
+- early intervention
+- prevention
+- welfare support
+- community safeguarding
 
 This framing obscures the coercive dimension of the system and complicates resistance, as objections can be reframed as opposition to safety itself.
 
 ---
 
-## Legal Evasion Mechanisms
+## 🪼 Legal Evasion Mechanisms
 
 Because suspect class governance:
 
@@ -76,15 +76,15 @@ The result is structural inequality without a single accountable actor.
 
 ---
 
-## Downstream Effects
+## ⛈️ Downstream Effects
 
 Over time, suspect class governance produces:
 
-* normalised mistrust of institutions
-* self-censorship and withdrawal
-* intergenerational stigma
-* reduced civic participation
-* reinforcement of securitisation feedback loops
+- normalised mistrust of institutions
+- self-censorship and withdrawal
+- intergenerational stigma
+- reduced civic participation
+- reinforcement of securitisation feedback loops
 
 The population learns that belonging is conditional.
 
