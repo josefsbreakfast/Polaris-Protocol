@@ -1,5 +1,5 @@
 # 🦮 Who Authorises Animal-Assisted VE Interventions in the UK?  
-**First created:** 2025-11-14 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-14 | **Last updated:** 2025-12-17  
 *A governance-mapping node clarifying which UK actors could legitimately authorise, supervise, or deliver animal-assisted stabilisation work for individuals flagged for vulnerability or early-intervention risk — and why counter‑terrorism bodies are categorically excluded.*  
 
 ---
@@ -23,9 +23,7 @@ Instead, these interventions belong inside **clinical**, **therapeutic**, and **
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 1. Hard Boundary: CT Cannot Authorise or Deliver AAT  
+## Hard Boundary: CT Cannot Authorise or Deliver AAT  
 Counter‑terrorism policing, MI5, Home Office CT units, Prevent officers, regional CTUs — **none** of these bodies have:  
 - statutory authority  
 - ethical frameworks  
@@ -41,9 +39,9 @@ Attempting to perform it would trigger legal and safeguarding alarms.
 
 ---
 
-### 2. The Only UK Actors Who *Can* Authorise Animal-Assisted Interventions  
+## The Only UK Actors Who *Can* Authorise Animal-Assisted Interventions  
 
-#### **A. NHS & Specialist Trauma Services**  
+### **A. NHS & Specialist Trauma Services**  
 The NHS is the primary lawful environment for any animal‑assisted clinical intervention.  
 Authorisation may come from:  
 - NHS Trust clinical governance boards  
@@ -62,7 +60,7 @@ Requirements:
 
 ---
 
-#### **B. AAT‑Certified Practitioners & Organisations**  
+### **B. AAT‑Certified Practitioners & Organisations**  
 Animal-Assisted Therapy in the UK requires:  
 - practitioner training  
 - animal welfare certification  
@@ -79,7 +77,7 @@ They cannot be subcontracted by policing or CT bodies to perform covert function
 
 ---
 
-#### **C. University‑Based Clinical Research Teams**  
+### **C. University‑Based Clinical Research Teams**  
 Legitimate AAT-involved research sits inside:  
 - university psychology departments  
 - applied behavioural science labs  
@@ -97,7 +95,7 @@ This is sometimes where AAT overlaps with VE vulnerability work, because univers
 
 ---
 
-#### **D. Third‑Sector Youth Support & Trauma-Focused Charities**  
+### **D. Third‑Sector Youth Support & Trauma-Focused Charities**  
 Some organisations may include animals informally within:  
 - youth counselling  
 - mentoring schemes  
@@ -113,7 +111,7 @@ Only if:
 
 ---
 
-### 3. Where VE/Extremism Vulnerability Comes Into This  
+## Where VE/Extremism Vulnerability Comes Into This  
 UK systems treat VE risk primarily as **a safeguarding matter**, not a behavioural prediction problem.
 
 Thus, young people flagged under “vulnerability to radicalisation” may also be:  
@@ -132,7 +130,7 @@ This is **adjacency**, not CT strategy.
 
 ---
 
-### 4. The Governance Stack (Who Must Sign Off)  
+## The Governance Stack (Who Must Sign Off)  
 For any animal-assisted intervention to be lawful and ethical, the following must be present:
 
 - ✓ **Consent**  
@@ -149,7 +147,7 @@ Hence: **they cannot authorise it.**
 
 ---
 
-### 5. Indicators an Intervention is Legitimate  
+## Indicators an Intervention is Legitimate  
 A legitimate AAI/VE‑adjacent intervention will have:
 
 - clear documentation  
@@ -181,4 +179,4 @@ AAT, clinical governance, vulnerability pathways, trauma stabilisation, VE adjac
 *🦮 Who Authorises Animal‑Assisted VE Interventions in the UK?* provides a clear governance map locating animal-assisted stabilisation strictly within healthcare and clinical research.  
 It defines the lawful, ethical paths and the hard boundaries separating these from counter‑terrorism frameworks.
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
