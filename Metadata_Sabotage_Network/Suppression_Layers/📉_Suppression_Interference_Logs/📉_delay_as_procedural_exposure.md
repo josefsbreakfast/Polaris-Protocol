@@ -1,5 +1,5 @@
-# 📉 Delay as procedural exposure  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+# 📉 Delay As Procedural Exposure  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-17  
 *How postponement transforms from risk buffer into liability.*
 
 ---
@@ -70,14 +70,14 @@ procedural delay, exposure through inaction, judicial scrutiny, timeline liabili
 
 ## 🏮 Footer  
 
-*Delay as procedural exposure* is a living node of the **Polaris Protocol**.  
+*📉 Delay As Procedural Exposure* is a living node of the **Polaris Protocol**.  
 It documents how inaction becomes legible, examinable, and often more damaging than the underlying issue.
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Judicial scrutiny of delay over substance]  
-> - [🛰️ Regulatory adjacency effects]  
+> - [⚖️ Judicial Scrutiny Of Delay Over Substance]  
+> - [🛰️ Regulatory Adjacency Effects]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-17_
