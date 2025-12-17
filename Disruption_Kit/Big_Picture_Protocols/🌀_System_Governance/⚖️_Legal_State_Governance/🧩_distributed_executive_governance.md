@@ -27,9 +27,7 @@ Distributed executive governance — where decision-making authority is shared b
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 🧨 1. The Problem: A Single Human Cannot Hold a Modern State  
+## 🧨 The Problem: A Single Human Cannot Hold a Modern State  
 Modern governance requires:
 
 - deep domain expertise,  
@@ -57,7 +55,7 @@ The system eats the person.
 
 ---
 
-### 🧠 2. Why Distributed Executives Work Better  
+## 🧠 Why Distributed Executives Work Better  
 Humans perform better when pressure is **shared**.  
 Systems perform better when authority is **plural**.
 
@@ -83,22 +81,22 @@ Distributed executives enable:
 
 ---
 
-### 🧭 3. Models That Already Exist  
+## 🧭 Models That Already Exist  
 Polaris does not propose utopia; it cites real systems:
 
-#### 🇨🇭 **Swiss Federal Council**  
+### 🇨🇭 **Swiss Federal Council**  
 - Seven equal executives  
 - Rotating presidency  
 - Collective decisions  
 - Zero cult of personality  
 - Lowest authoritarian drift rate in Europe
 
-#### 🇳🇴 / 🇩🇰 / 🇸🇪 **Nordic Cabinet Governance**  
+### 🇳🇴 / 🇩🇰 / 🇸🇪 **Nordic Cabinet Governance**  
 - PM is coordinator, not monarch  
 - Consensus culture built into structure  
 - High trust, low drift
 
-#### 🎓 **Student Union Governance**  
+### 🎓 **Student Union Governance**  
 Surprisingly effective because:
 
 - shared portfolios  
@@ -111,7 +109,7 @@ This is the closest analogue to what a “modernised democracy” could look lik
 
 ---
 
-### ⚙️ 4. The Distributed Executive Pipeline  
+## ⚙️ The Distributed Executive Pipeline  
 
 ```mermaid
 flowchart LR
@@ -126,7 +124,7 @@ Compare this with the hyper-centralised black box:
 
 ---
 
-### 🔨 5. Why This Matters for Anti-Authoritarian Design  
+## 🔨 Why This Matters for Anti-Authoritarian Design  
 Authoritarian drift depends on:
 
 - speed  
@@ -147,7 +145,7 @@ This is structural protection, not moral hope.
 
 ---
 
-### 🧩 6. Why Polaris Centres This Model  
+## 🧩 Why Polaris Centres This Model  
 Polaris is fundamentally:
 
 - post-Westminster  
@@ -178,4 +176,4 @@ It maps how modern states can move from “monarch-in-disguise” executive mode
 > - [🧠 Political Black Box Logic](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_political_black_box_logic.md)  
 > - [🔧 Democratic Resilience Architecture for 21st Century Britain](🦆_Digital_Disruption/🐝_All_In_Commons/🔧_democratic_resilience_architecture_for_21st_century_britain.md)  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
