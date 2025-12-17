@@ -1,5 +1,5 @@
 # 🔺 The Golden Triangle and the Hidden Constitution of Local Government  
-**First created:** 2025-11-04 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-04 | **Last updated:** 2025-12-17  
 *How three statutory roles became the quiet spine — and sometimes the choke point — of English local governance.*  
 
 ---
