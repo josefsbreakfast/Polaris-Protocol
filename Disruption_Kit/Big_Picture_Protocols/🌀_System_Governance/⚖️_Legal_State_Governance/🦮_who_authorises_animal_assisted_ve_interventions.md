@@ -23,7 +23,7 @@ Instead, these interventions belong inside **clinical**, **therapeutic**, and **
 
 ---
 
-## Hard Boundary: CT Cannot Authorise or Deliver AAT  
+## 🐶 Hard Boundary: CT Cannot Authorise or Deliver AAT  
 Counter‑terrorism policing, MI5, Home Office CT units, Prevent officers, regional CTUs — **none** of these bodies have:  
 - statutory authority  
 - ethical frameworks  
@@ -39,7 +39,7 @@ Attempting to perform it would trigger legal and safeguarding alarms.
 
 ---
 
-## The Only UK Actors Who *Can* Authorise Animal-Assisted Interventions  
+## 🐕‍🦺 The Only UK Actors Who *Can* Authorise Animal-Assisted Interventions  
 
 ### **A. NHS & Specialist Trauma Services**  
 The NHS is the primary lawful environment for any animal‑assisted clinical intervention.  
@@ -111,7 +111,7 @@ Only if:
 
 ---
 
-## Where VE/Extremism Vulnerability Comes Into This  
+## 🧿 Where VE/Extremism Vulnerability Comes Into This  
 UK systems treat VE risk primarily as **a safeguarding matter**, not a behavioural prediction problem.
 
 Thus, young people flagged under “vulnerability to radicalisation” may also be:  
@@ -130,7 +130,7 @@ This is **adjacency**, not CT strategy.
 
 ---
 
-## The Governance Stack (Who Must Sign Off)  
+## 🖋️ The Governance Stack (Who Must Sign Off)  
 For any animal-assisted intervention to be lawful and ethical, the following must be present:
 
 - ✓ **Consent**  
@@ -147,7 +147,7 @@ Hence: **they cannot authorise it.**
 
 ---
 
-## Indicators an Intervention is Legitimate  
+## 📜 Indicators an Intervention is Legitimate  
 A legitimate AAI/VE‑adjacent intervention will have:
 
 - clear documentation  
