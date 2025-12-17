@@ -22,7 +22,7 @@ Oversight of AI is therefore not optional — it is **constitutional hygiene**.
 
 ---
 
-## Why AI Partnerships Require More Transparency, Not Less  
+## 🧿 Why AI Partnerships Require More Transparency, Not Less  
 AI systems amplify whatever governance structure they are embedded in.
 
 If that structure is fair → AI scales fairness.  
@@ -33,7 +33,7 @@ Therefore, civic visibility must increase *before* deployment.
 
 ---
 
-## The Pproblem: “Model Knows, Public Does Not”  
+## 🍄 The Problem: “Model Knows, Public Does Not”  
 When government partners with AI vendors:
 
 - the public cannot see training data  
@@ -47,7 +47,7 @@ A democratic state cannot outsource the **ability to know**.
 
 ---
 
-## FOI/OSINT As Anti-Capture Infrastructure  
+## ⚖️ FOI/OSINT As Anti-Capture Infrastructure  
 
 To maintain legitimacy, governments must guarantee:
 
@@ -74,7 +74,7 @@ If a system cannot tolerate scrutiny, it should not be deployed.
 
 ---
 
-## Vendor Capture: How It Happens  
+## 🪼 Vendor Capture: How It Happens  
 
 AI vendors often:
 
@@ -89,7 +89,7 @@ This creates **policy gravity** around the vendor, not the public.
 
 ---
 
-## Civic Countermeasures  
+## 🧨 Civic Countermeasures  
 
 Practical steps for maintaining oversight:
 
@@ -120,7 +120,7 @@ Practical steps for maintaining oversight:
 
 ---
 
-## Indicators Of Captured AI Deployment  
+## 🔥 Indicators Of Captured AI Deployment  
 
 A system becomes illegitimate when:
 
@@ -160,4 +160,4 @@ It sets out the transparency and accountability structures that must exist befor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
