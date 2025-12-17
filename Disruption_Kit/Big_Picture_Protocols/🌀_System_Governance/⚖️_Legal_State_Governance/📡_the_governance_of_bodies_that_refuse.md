@@ -1,5 +1,5 @@
 # 📡 The Governance of Bodies That Refuse  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
 *How states attempt to regulate non-cooperative bodies — and what refusal reveals about the limits of sovereign design.*  
 
 ---
@@ -21,9 +21,7 @@ The Palestine Action hunger strikes provide a live example of this systemic tens
 
 ---
 
-## 🧿 Analysis
-
-## 1. Governance Assumptions About the Body  
+## Governance Assumptions About the Body  
 Governance presumes:
 
 - the body will aim for survival,  
@@ -37,7 +35,7 @@ The refusal body is therefore an administrative anomaly and a governance liabili
 
 ---
 
-## 2. What the State Can Control — and What It Cannot  
+## What the State Can Control — and What It Cannot  
 The state can control:
 
 - location,  
@@ -56,7 +54,7 @@ Governance fails not when control ends, but when *meaning* escapes.
 
 ---
 
-## 3. Case Example: Palestine Action Hunger Strikes  
+## Case Example: Palestine Action Hunger Strikes  
 The state faces competing governance imperatives:
 
 - uphold exceptional detention,  
@@ -71,7 +69,7 @@ When young detainees deteriorate under pre-trial conditions, governance enters a
 
 ---
 
-## 4. Governance Tools for Managing Refusal  
+## Governance Tools for Managing Refusal  
 Institutions rely on four primary strategies:
 
 ### **a. Procedural Rigidity**  
@@ -90,7 +88,7 @@ All four strategies face limits when refusal escalates faster than governance re
 
 ---
 
-## 5. The Governance Paradox: Control Produces Instability  
+## The Governance Paradox: Control Produces Instability  
 In cases like the Palestine Action hunger strikes, continued detention under exceptional powers may:
 
 - increase public confusion,  
@@ -106,7 +104,7 @@ Refusal exposes this contradiction in real time.
 
 ---
 
-## 6. Refusal as Governance Audit  
+## Refusal as Governance Audit  
 Bodies that refuse act as involuntary auditors of state capacity.
 
 They reveal:
@@ -121,7 +119,7 @@ The Palestine Action case has exposed fractures across all five domains.
 
 ---
 
-## 7. Democratic Fragility and the Refusal Body  
+## Democratic Fragility and the Refusal Body  
 When young bodies deteriorate under exceptional detention, the governance challenge becomes existential:  
 if custodial deaths occur, the legitimacy rupture may activate high-severity democratic destabilisation vectors.
 
@@ -154,4 +152,4 @@ It examines how governance architectures respond to non-cooperative bodies and w
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
