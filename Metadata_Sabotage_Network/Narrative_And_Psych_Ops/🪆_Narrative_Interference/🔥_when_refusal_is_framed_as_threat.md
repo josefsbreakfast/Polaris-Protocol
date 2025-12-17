@@ -1,5 +1,5 @@
 # 🔥 Narrative Inversion: When Refusal Is Framed as Threat  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
 *How states convert sacrifice into danger, and dissent into pathology — with the Palestine Action hunger strikes as a contemporary case study.*
 
 ---
@@ -179,11 +179,11 @@ It examines how states reframe hunger strikes as threats to maintain narrative a
 
 > 📡 Cross-references:
 > 
-> - [🩸 Bodily Risk as Political Speech](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md)  
-> - [🔥 Hunger Strike as Counter-Sovereignty](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
-> - [👅 The Smear Logic of Self-Harm Framing](../👅_Voice_Disruption_Discrediting/👅_the_smear_logic_of_self_harm_framing.md)  
-> - [🔮 Visibility Collapse of Dissenting Bodies](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
+> - [🩸 Bodily Risk as Political Speech](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md) - *how acts of the body function as embodied political expression*  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) - *how hunger strikes function as reclaiming power over the body at great cost*  
+> - [👅 The Smear Logic of Self-Harm Framing](../👅_Voice_Disruption_Discrediting/👅_the_smear_logic_of_self_harm_framing.md) - *how hunger strikes function as reclaiming power over the body at great cost*  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md) - *how bodies which refuse, are buried from view*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-17_
