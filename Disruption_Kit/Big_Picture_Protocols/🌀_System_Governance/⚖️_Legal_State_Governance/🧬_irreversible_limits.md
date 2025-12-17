@@ -27,7 +27,7 @@ MRI helium dependency is used here as an anchor example — not because it is un
 
 ---
 
-## Not All Limits Are Economic  
+## 💸 Not All Limits Are Economic  
 
 Economic systems are built on assumptions of flexibility:
 - prices adjust  
@@ -49,7 +49,7 @@ There is no market mechanism that produces more of it.
 
 ---
 
-## MRI Machines As A Limit-Exposure Device  
+## 🧲 MRI Machines As A Limit-Exposure Device  
 
 Modern MRI scanners depend on superconducting magnets operating at extreme field strengths.  
 Those magnets:
@@ -71,7 +71,7 @@ They care about temperature, magnetic flux stability, and helium availability.
 
 ---
 
-## Substitution Myths And The Innovation Reflex  
+## 🔭 Substitution Myths And The Innovation Reflex  
 
 When confronted with limits like this, growth ideology defaults to a reflexive response:
 
@@ -93,7 +93,7 @@ Innovation does not erase limits; it operates *within* them.
 
 ---
 
-## Why This Breaks Growth Logic  
+## 🪼 Why This Breaks Growth Logic  
 
 Growth economics implicitly treats the physical world as:
 - elastic  
@@ -116,7 +116,7 @@ At that point, the model is wrong — not the world.
 
 ---
 
-## Degrowth As Material Accounting, Not Austerity  
+## ⚖️ Degrowth As Material Accounting, Not Austerity  
 
 Degrowth emerges here not as a moral stance, but as **accurate bookkeeping**.
 
