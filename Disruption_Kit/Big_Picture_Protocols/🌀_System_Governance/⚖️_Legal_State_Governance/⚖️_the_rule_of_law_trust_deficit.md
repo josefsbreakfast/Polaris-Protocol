@@ -18,9 +18,7 @@ At that point, law stops functioning as shared infrastructure and begins to feel
 
 ---
 
-## ✨ Analysis  
-
-### 1. Public Dissonance and Legal Unintelligibility  
+## Public Dissonance and Legal Unintelligibility  
 
 Terrorism law carries an exceptional moral and legal charge.  
 It signals existential threat, justifies extraordinary powers, and reshapes how an act is socially interpreted.
@@ -43,7 +41,7 @@ That shift is fatal to the rule of law.
 
 ---
 
-### 2. The Collapse of Predictability  
+## The Collapse of Predictability  
 
 One of law’s quiet functions is predictive stability.  
 Citizens do not need to read statutes daily; they rely on rough heuristics:
@@ -62,7 +60,7 @@ At that point, compliance is no longer grounded in legitimacy, but in fear, avoi
 
 ---
 
-### 3. The Trust-Immunity Model  
+## The Trust-Immunity Model  
 
 Legitimacy functions like herd immunity.
 
@@ -81,7 +79,7 @@ Not because they are anti-law, but because the law no longer behaves predictably
 
 ---
 
-### 4. Operational Opacity as a Force Multiplier  
+## Operational Opacity as a Force Multiplier  
 
 Terrorism classification decisions are rarely explained in plain terms.  
 Rationales are:
@@ -103,7 +101,7 @@ When the state withholds reasoning, it forfeits narrative control to the least r
 
 ---
 
-### 5. Differential Risk Allocation  
+## Differential Risk Allocation  
 
 Unequal classification does more than offend fairness.  
 It reallocates risk unevenly across communities.
@@ -125,7 +123,7 @@ Neither supports democratic stability.
 
 ---
 
-### 6. From Law to Theatre  
+## From Law to Theatre  
 
 At its worst, inconsistent terrorism designation becomes compliance theatre:
 - Signals of toughness without coherence  
@@ -187,4 +185,4 @@ It examines how unequal classification corrodes democratic legitimacy and outlin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
