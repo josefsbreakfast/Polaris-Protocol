@@ -1,6 +1,6 @@
-# ⚖️ Judicial scrutiny of delay over substance  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*Why courts often judge timelines more harshly than the underlying issue.*
+# ⚖️ Judicial Scrutiny Of Delay Over Substance  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-17  
+*Why courts often judge timelines more harshly than the underlying issue.*  
 
 ---
 
@@ -23,9 +23,7 @@ As a result, procedural delay can outweigh the original facts in judicial evalua
 
 ---
 
-## 🧿 Analysis  
-
-### 1. Why courts focus on delay  
+## Why courts focus on delay  
 
 Judges are tasked with evaluating:
 - reasonableness  
@@ -44,7 +42,7 @@ This makes it a **clean judicial signal**.
 
 ---
 
-### 2. Delay as a proxy for fairness  
+## Delay as a proxy for fairness  
 
 Courts frequently use delay to infer:
 - seriousness of response  
@@ -59,7 +57,7 @@ This inference can be more damaging than the underlying mistake.
 
 ---
 
-### 3. Delay shifts the evidentiary burden  
+## Delay shifts the evidentiary burden  
 
 Once delay is established, the burden moves:
 
@@ -70,7 +68,7 @@ This inversion significantly alters the legal balance.
 
 ---
 
-### 4. Harm caused by process  
+## Harm caused by process  
 
 Courts recognise that delay can cause:
 - loss of evidence  
@@ -83,7 +81,7 @@ As a result, judicial focus often centres on:
 
 ---
 
-### 5. Why institutions misjudge this risk  
+## Why institutions misjudge this risk  
 
 Institutions often assume:
 > “If the underlying issue is defensible, delay will not matter.”
@@ -109,14 +107,14 @@ judicial scrutiny, delay over substance, procedural fairness, timeline liability
 
 ## 🏮 Footer  
 
-*Judicial scrutiny of delay over substance* is a living node of the **Polaris Protocol**.  
+*⚖️ Judicial Scrutiny Of Delay Over Substance* is a living node of the **Polaris Protocol**.  
 It documents why courts often treat timelines as more revealing than narratives when assessing procedural fairness and institutional behaviour.
 
 > 📡 Cross-references:
 > 
-> - [📉 Delay as procedural exposure]  
-> - [⏳ Hinge point: when delay becomes liability]  
+> - [📉 Delay As Procedural Exposure](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_delay_as_procedural_exposure.md) - *what delay brings to light about process*  
+> - [⏳ Hinge Point: When Delay Becomes Liability](./⏳_hinge_point_when_delay_becomes_liability.md) - *the flip from avoidance to discovery*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-17_
