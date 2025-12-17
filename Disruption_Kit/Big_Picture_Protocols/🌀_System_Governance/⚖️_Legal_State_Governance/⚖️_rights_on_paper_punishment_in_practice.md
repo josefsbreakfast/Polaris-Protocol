@@ -24,7 +24,7 @@ This node explains why diagnosis, far from being indulgent, often becomes **defe
 
 ---
 
-## Rights That Must Be Fought For Are Not Neutral  
+## 🔥 Rights That Must Be Fought For Are Not Neutral  
 The Equality Act offers protections — but they are largely **retrospective**.
 
 This means:
@@ -37,7 +37,7 @@ Rights that only activate after damage are not protective in the everyday sense.
 
 ---
 
-## Enforcement Is Individualised By Design  
+## 🦤 Enforcement Is Individualised By Design  
 In practice, enforcing disability rights requires:
 - self-advocacy  
 - detailed documentation  
@@ -50,7 +50,7 @@ The system quietly assumes a level of resilience it systematically undermines.
 
 ---
 
-## Employer Non-Compliance Is Structurally Favoured  
+## 🍄 Employer Non-Compliance Is Structurally Favoured  
 Most employers:
 - resent adjustment duties  
 - delay or minimise compliance  
@@ -63,7 +63,7 @@ This is not an accident. It is how power asymmetry is maintained.
 
 ---
 
-## Welfare As A Carceral System  
+## 🍌 Welfare As A Carceral System  
 UK disability welfare increasingly operates on punitive logic:
 - constant reassessment  
 - suspicion as default  
@@ -77,7 +77,7 @@ Diagnosis in this context becomes a **passport against disbelief**.
 
 ---
 
-## Sanctions, Stress, And Mortality  
+## 💀 Sanctions, Stress, And Mortality  
 There is a well-documented association between:
 - benefit sanctions  
 - loss of income  
@@ -85,13 +85,13 @@ There is a well-documented association between:
 - deterioration of health  
 - increased risk of death  
 
-Coroners have explicitly named welfare processes as contributory factors in some deaths.
+HM Coroners have explicitly named welfare processes as contributory factors in some deaths.
 
 A system in which loss of paperwork or missed appointments can escalate to mortality risk is not humane.
 
 ---
 
-## Diagnosis As Protection, Not Pathology  
+## 🩻 Diagnosis As Protection, Not Pathology  
 Within this environment, diagnosis functions as:
 - evidence against disbelief  
 - protection against sanction  
@@ -105,7 +105,7 @@ They seek it for **safety**.
 
 ---
 
-## Carceral Care And Restricted Life Options  
+## 🪼 Carceral Care And Restricted Life Options  
 Disabled people are frequently offered:
 - institutional solutions  
 - heavily monitored “support”  
@@ -120,7 +120,7 @@ The system quietly prefers containment over freedom, because containment is easi
 
 ---
 
-## The Paradox Of Independence  
+## 🍿 The Paradox Of Independence  
 Politicians frequently praise independence while designing systems that:
 - punish self-determination  
 - require constant proof of incapacity  
@@ -134,7 +134,7 @@ Diagnosis becomes the only stable footing.
 
 ---
 
-## Why This Matters For The “Over-Diagnosis” Claim  
+## ⚡️ Why This Matters For The “Over-Diagnosis” Claim  
 In a genuinely supportive system:
 - diagnosis could be lighter  
 - ambiguity could be tolerated  
@@ -150,7 +150,7 @@ Punishment is.
 
 ---
 
-## What A Rights-Based System Would Look Like  
+## ☔️ What A Rights-Based System Would Look Like  
 If rights were meaningful in practice:
 - support would be proactive, not reactive  
 - sanctions would be abolished for disability-related claims  
