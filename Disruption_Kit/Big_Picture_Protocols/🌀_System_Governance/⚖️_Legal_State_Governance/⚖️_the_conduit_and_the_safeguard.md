@@ -32,7 +32,7 @@ This divergence means that a data conduit linking a UK institution to an Israeli
 
 ## 🧭 Compliance Guidance for UK Controllers  
 
-1. **Contractual clarity.**  
+### 1. **Contractual clarity.**  
 Every Memorandum of Understanding (MOU) or Data‑Sharing Agreement involving Israeli partners must include a clause stating that *UK data remains governed by UK law throughout processing*.
 
 The UK data controller must also ensure compliance to UK data law in safeguarding that data.  
@@ -43,7 +43,7 @@ Patriotism requires compliance.
 
 Clarity in contracting and effective expectations management from initiation reduces any friction inherent in this process and protects all working parties in the case of any future errors, disputes, or harms.  
 
-3. **Additional safeguards.**  
+### 2. **Additional safeguards.**  
    - Require **technical segregation** of UK‑origin data within joint research systems.  
    - Mandate **audit rights** for the UK controller over any Israeli processing environment that receives UK data.  
    - Include a **re‑transfer prohibition** without explicit written consent.
@@ -54,7 +54,7 @@ Further, these measures promote good data hygiene practice, which cascades to ot
 
 If any harms or incidents occur, these measures provide a clear documentation trail to audit when establishing root-causes and analysing any systemic failures.  
 
-4. **Equality and perception.**  
+### 3. **Equality and perception.**  
 For Jewish or Israeli‑heritage data subjects in the UK, these safeguards are not symbolic.
 
 For Palestinian or Palestinian-decendant data subjects in the UK, these safeguards are even more important, due not only to the inherent power imbalance afforded by apratheid, but also the incentive for the Israeli state to permenantly interrupt any legal claim to Palestinian land; the course of conduct of the escalation of the genocide from 2023 onwards, shows what appears to be a structured attempt to erase entire family lineages, as well as whole categories of intellectuals, professionals, and cultural leaders.
@@ -73,7 +73,7 @@ The Convention on the Prevention and Punishment of the Crime of Genocide holds n
 
 This is a due diligence issue. It is not rocket science.  
 
-5. **Institutional duty.**  
+### 4. **Institutional duty.**  
 If the MOU or contract does not specify these safeguards, legal counsel for the UK signatory must request amendment or clarification before any data transfer occurs.
 
 The responsibility rests with the UK controller, not with the foreign partner.  
@@ -119,4 +119,4 @@ uk data protection, israeli law, cross‑jurisdictional safeguards, gdpr complia
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
