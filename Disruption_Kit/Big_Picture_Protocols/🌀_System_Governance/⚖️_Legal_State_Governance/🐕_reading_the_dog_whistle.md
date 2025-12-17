@@ -1,5 +1,5 @@
 # 🐕 Reading the Dog Whistle — Bureaucratic Language and Atrocity Risk  
-**First created:** 2025-10-17 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-17 | **Last updated:** 2025-12-17  
 *How coded language in official documents conceals intent and signals complicity.*  
 
 ---
@@ -19,27 +19,26 @@ Understanding those codes is central to prevention and accountability.
 
 ---
 
-## 🔍 Analysis / Content  
-### 1. The dual register of power  
+## The Dual Register Of Power  
 Authoritarian systems speak in two tongues: public rhetoric for mobilisation and internal memos for coordination.  
 At Wannsee (20 Jan 1942) officials never wrote *“kill”*—they wrote *“evacuate to the East”* and *“appropriate treatment.”*  
 Each euphemism was a signal: insiders heard *extermination*, outsiders read *logistics.*
 
-### 2. How dog-whistles function  
+## How Dog-Whistles Function  
 Dog-whistles are lexical shortcuts: they preserve plausible deniability while confirming ideological belonging.  
 They allow actors to recognise one another’s intent without explicit articulation.  
 This is why recognising coded phrasing inside ordinary governance language is a professional responsibility, not an act of hysteria.
 
-### 3. Modern resonance  
+## Modern Resonance  
 In current conflicts, leaders sometimes use phrasing **more explicit** than the Wannsee minutes ever were.  
 Digital archives mean those statements survive—but the same legal ambiguity persists: intent can hide behind interpretation.  
 Monitoring and translation teams need linguistic literacy in historical codes to catch escalation early.
 
-### 4. Systems of consent  
+## Systems of Consent  
 The Holocaust required not only planners but millions who understood “what was meant” and chose silence.  
 Today’s information economies recreate that diffusion of assent: each bureaucrat, moderator, or contractor performs a neutral task, sustaining harm through omission.
 
-### 5. Risk-management implication  
+## Risk-Management Implication  
 Genocide prevention depends on teaching officials, journalists, and citizens to *hear the whistle*.  
 A culture fluent in euphemism cannot claim surprise when violence follows.
 
@@ -61,7 +60,7 @@ It records how language disguises violence inside ordinary paperwork and why dec
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Due Diligence as Moral Defence](./⚖️_due_diligence_as_moral_defence.md)  
-> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md)  
+> - [⚖️ Due Diligence as Moral Defence](./⚖️_due_diligence_as_moral_defence.md) - *how sensible checks protect us from perpetrating violence*
+> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md) - *how the paperwork of atrocities has happened before*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
