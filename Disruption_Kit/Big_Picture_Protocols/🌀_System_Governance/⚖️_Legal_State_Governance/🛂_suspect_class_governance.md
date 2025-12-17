@@ -22,9 +22,7 @@ Unlike explicit discrimination, suspect class governance operates through **admi
 
 ---
 
-## 🧿 Analysis
-
-### 1. From Individual Risk to Group Suspicion
+## From Individual Risk to Group Suspicion
 
 Risk-based governance begins with the premise of *individual assessment*. In practice, it relies on:
 
@@ -37,7 +35,7 @@ When these inputs correlate strongly with identity markers (race, religion, clas
 
 ---
 
-### 2. Administrative Exceptionalism
+## Administrative Exceptionalism
 
 Suspect classes are not named as such. Instead, they experience:
 
@@ -51,7 +49,7 @@ Exceptional treatment becomes routine, embedded in process rather than decree.
 
 ---
 
-### 3. Safeguarding as Cover
+## Safeguarding as Cover
 
 Many suspect-class regimes are framed as protective:
 
@@ -64,7 +62,7 @@ This framing obscures the coercive dimension of the system and complicates resis
 
 ---
 
-### 4. Legal Evasion Mechanisms
+## Legal Evasion Mechanisms
 
 Because suspect class governance:
 
@@ -78,7 +76,7 @@ The result is structural inequality without a single accountable actor.
 
 ---
 
-### 5. Downstream Effects
+## Downstream Effects
 
 Over time, suspect class governance produces:
 
@@ -117,4 +115,4 @@ It documents how neutral-seeming risk frameworks produce unequal governance outc
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
