@@ -1,5 +1,5 @@
 # 🧬 Irreversible Limits: When Physics Refuses Economic Fantasy  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-17  
 *Why material reality places non-negotiable limits on economic systems — and why growth ideology keeps pretending otherwise.*  
 
 ---
@@ -27,9 +27,7 @@ MRI helium dependency is used here as an anchor example — not because it is un
 
 ---
 
-## 🧿 Analysis  
-
-### 1. Not all limits are economic  
+## Not All Limits Are Economic  
 
 Economic systems are built on assumptions of flexibility:
 - prices adjust  
@@ -51,7 +49,7 @@ There is no market mechanism that produces more of it.
 
 ---
 
-### 2. MRI machines as a limit-exposure device  
+## MRI Machines As A Limit-Exposure Device  
 
 Modern MRI scanners depend on superconducting magnets operating at extreme field strengths.  
 Those magnets:
@@ -73,7 +71,7 @@ They care about temperature, magnetic flux stability, and helium availability.
 
 ---
 
-### 3. Substitution myths and the innovation reflex  
+## Substitution Myths And The Innovation Reflex  
 
 When confronted with limits like this, growth ideology defaults to a reflexive response:
 
@@ -95,7 +93,7 @@ Innovation does not erase limits; it operates *within* them.
 
 ---
 
-### 4. Why this breaks growth logic  
+## Why This Breaks Growth Logic  
 
 Growth economics implicitly treats the physical world as:
 - elastic  
@@ -118,7 +116,7 @@ At that point, the model is wrong — not the world.
 
 ---
 
-### 5. Degrowth as material accounting, not austerity  
+## Degrowth As Material Accounting, Not Austerity  
 
 Degrowth emerges here not as a moral stance, but as **accurate bookkeeping**.
 
@@ -160,4 +158,4 @@ It establishes the non-negotiable role of material reality in constraining econo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2025-12-17_
