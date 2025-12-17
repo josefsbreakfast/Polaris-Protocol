@@ -1,5 +1,5 @@
 # 🕎 The Esther Protocol  
-**First created:** 2025-11-23 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-17  
 *A full-spectrum governance archetype derived from Estheric disclosure logic, procedural timing, and lawful strategic escalation.*  
 
 ---
@@ -23,7 +23,7 @@ It is **reactive architecture**, invoked when systems fail in their duties of ca
 
 ---
 
-## The Four Core Principles
+## 🦚 The Four Core Principles
 
 ## 1. Strategic Withholding  
 - Observe before acting  
@@ -69,7 +69,7 @@ the point at which truth becomes *procedurally undeniable*.
 
 ---
 
-## Operational Phases  
+## 📜 Operational Phases  
 
 ### **Phase A — The Quiet Audit**  
 - Collecting evidence  
@@ -96,7 +96,7 @@ the point at which truth becomes *procedurally undeniable*.
 
 ---
 
-## Cultural and Strategic Lineage
+## 👑 Cultural and Strategic Lineage
 
 The Esther Protocol arises wherever:
 
@@ -110,7 +110,7 @@ It is a strategy of survival that becomes a strategy of justice.
 
 ---
 
-## Risks and Countermeasures
+## 🔥 Risks and Countermeasures
 
 ### **Risks**
 - Retaliatory bureaucratic delay  
@@ -128,7 +128,7 @@ It is a strategy of survival that becomes a strategy of justice.
 
 ---
 
-## Implementation in Modern Systems
+## 🐦‍🔥 Implementation in Modern Systems
 
 The Esther Protocol is live in:
 
@@ -145,7 +145,7 @@ It operationalises a simple truth:
 
 ---
 
-## Decision Pathway Diagram  
+## 🪬 Decision Pathway Diagram  
 
 ```mermaid
 flowchart TD
