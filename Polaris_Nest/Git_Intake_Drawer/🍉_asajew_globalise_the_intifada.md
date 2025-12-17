@@ -111,7 +111,79 @@ Under pressure, racist tropes reshuffle rather than disappear:
 - Far-right antisemitism displaced onto Palestinian advocacy  
 
 None of this protects Jews.  
-It **heightens inter-community risk and resentment**.
+It **heightens inter-community risk and resentment**.  
+
+## 🦚 IHRA Misapplication, Ally Erasure, and the Pressure to Visibly Authenticate Jewishness
+
+Recent police operational decisions — particularly the claim that chanting *“globalise the intifada”* is arrestable because “the context has changed” — reveal a **structurally antisemitic interpretation of the IHRA working definition**, rather than a faithful application of it.
+
+## 🐍 IHRA Inversion: Protection Recast as Pathology
+
+The operational logic appears to assume that:
+- Jewish people form a single emotional bloc;
+- Palestinian political language is inherently experienced by Jews as threat;
+- Jewish safety is best protected by suppressing the speech of other racialised groups.
+
+This interpretation violates the IHRA’s own safeguards — especially the prohibition on **collective attribution** and **dual-loyalty assumptions**. Treating Jewish people as uniquely fragile, perpetually alarmed, or politically indistinguishable from a foreign state does not protect Jews; it **pathologises Jewish identity**.
+
+That is an antisemitic move, even when framed as concern.
+
+---
+
+## 🪼 “Changed Context” and the Misattribution of Risk
+
+The invocation of external violence (e.g. the Bondi Beach attack) as justification for suppressing UK-based Palestinian protest relies on an implied chain:
+
+> Palestinian rhetoric → Jewish fear → antisemitic violence
+
+This chain is **asserted, not evidenced**.
+
+Far-right violence remains the primary, documented threat to Jewish people in the UK. Displacing that risk onto Muslim, Arab, and Palestinian communities does not reduce antisemitism — it **reroutes it**, while placing Jews symbolically at the centre of repression.
+
+Historically, this is precisely how backlash forms.
+
+---
+
+## 🫥 Ally Erasure and the Betrayal of Community Cohesion
+
+This logic also erases real acts of solidarity.
+
+In the Bondi attack, one of the individuals who intervened to stop the assailants was an Arab man from Syria. Whether Palestinian or not, he was **racialised as Arab and Muslim** — and he acted to protect Jewish lives, at grave personal risk.
+
+Collapsing antisemitism into “Palestine-related disorder”:
+- erases such interventions,
+- punishes communities that repeatedly show up as allies,
+- and signals that solidarity will not be recognised.
+
+This directly undermines **community cohesion**, violating the third limb of PSED and betraying the very people whose actions materially increase Jewish safety.
+
+---
+
+## ✡️ Visibility Pressure and the Quiet Return of Authentication
+
+The cumulative effect of this discourse has produced a subtler, but deeply troubling pressure: the push for Jews to **visibly authenticate their identity** in order to be understood.
+
+For Jews who do not conform to racialised expectations of what a Jew “looks like,” this results in:
+- repeated demands for clarification,
+- disbelief or misrecognition,
+- and an implicit requirement to mark oneself to avoid misunderstanding.
+
+This is not a legal mandate, but it is **coercive in practice**. It echoes earlier European dynamics — not through law, but through social pressure — where Jewish visibility becomes a prerequisite for legibility.
+
+That is not a healthy civic environment.
+
+---
+
+## 🧿 What This Reveals
+
+Taken together, these patterns show that:
+- IHRA is being operationalised in a way that **reproduces antisemitic assumptions**;
+- Jewish safety is being rhetorically secured at the expense of other racialised groups;
+- far-right antisemitism is obscured rather than confronted;
+- and Jews are being made legible only on terms that serve state and capital interests.
+
+This does not protect Jewish people.  
+It **narrows Jewish identity, punishes solidarity, and increases long-term risk**.  
 
 ---
 
