@@ -22,9 +22,7 @@ The hunger strikes associated with Palestine Action, occurring under pretrial de
 
 ---
 
-## 🧿 Analysis
-
-## 1. What Schmittian Drift Looks Like  
+##  What Schmittian Drift Looks Like  
 Schmitt’s sovereign claims legitimacy by determining when the law is suspended.  
 In liberal democracy, the opposite contract exists: legality restrains the sovereign.
 
@@ -40,7 +38,7 @@ This drift is structural, not necessarily intentional.
 
 ---
 
-## 2. Pretrial Detention as the New Exception  
+## Pretrial Detention as the New Exception  
 Pretrial detention under security framing is one of the clearest theatres of Schmittian drift.
 
 It allows the state to:
@@ -54,7 +52,7 @@ When prolonged, it transforms the meaning of innocence itself.
 
 ---
 
-## 3. Case Example: Palestine Action Hunger Strikes  
+## Case Example: Palestine Action Hunger Strikes  
 The detainees are:
 
 - legally innocent,  
@@ -72,7 +70,7 @@ exceptional power is operating without exceptional justification.
 
 ---
 
-## 4. Drift as a Governance Vulnerability  
+## Drift as a Governance Vulnerability  
 Schmittian drift erodes:
 
 - judicial independence,  
@@ -86,7 +84,7 @@ A state that normalises exception does not become stronger — it becomes struct
 
 ---
 
-## 5. Why Hunger Strikes Reveal the Drift  
+## Why Hunger Strikes Reveal the Drift  
 Refusal collapses the ambiguity.
 
 A hunger strike:
@@ -101,7 +99,7 @@ The crisis reveals where exception logic has quietly replaced the rule of law.
 
 ---
 
-## 6. Long-Term Constitutional Risk  
+## Long-Term Constitutional Risk  
 When exceptional logic governs the legally innocent, democratic systems move closer to the threshold where:
 
 - human rights obligations appear “incompatible,”  
