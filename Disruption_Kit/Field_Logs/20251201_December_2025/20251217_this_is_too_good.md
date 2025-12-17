@@ -53,3 +53,7 @@ I am just tired of white people being white people; I've been especially tired o
 At least it is getting clearer where and how I need to concentrate the data hunting; it's a telling play.  
 
 ---
+
+הֱווּ זְהִירִין בָּרָשׁוּת, שֶׁאֵין מְקָרְבִין לוֹ לָאָדָם אֶלָּא לְצֹרֶךְ עַצְמָן. נִרְאִין כְּאוֹהֲבִין בִּשְׁעַת הֲנָאָתָן, וְאֵין עוֹמְדִין לוֹ לָאָדָם בִּשְׁעַת דָּחְקוֹ:
+
+---
