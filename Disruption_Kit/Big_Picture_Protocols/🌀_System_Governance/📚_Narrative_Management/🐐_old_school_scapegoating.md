@@ -7,7 +7,9 @@
 ## 🛰️ Orientation  
 This node compares **historical scapegoating rituals** with **modern institutional scapegoating**, focusing on function rather than morality.
 
-The aim is not to condemn ritual, but to show how its *mechanics* persist — stripped of ethical framing, transparency, and collective responsibility.
+The aim is not to condemn ritual, but to show how its *mechanics* persist — stripped of ethical framing, transparency, and collective responsibility.  
+
+(I am not advocating we start slaughtering goats annually again; we are discussing communal emotional processing.)  
 
 ---
 
