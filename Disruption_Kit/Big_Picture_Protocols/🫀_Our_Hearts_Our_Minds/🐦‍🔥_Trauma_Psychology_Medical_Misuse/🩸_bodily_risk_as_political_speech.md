@@ -1,5 +1,5 @@
 # 🩸 Bodily Risk as Political Speech  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
 *How endangered bodies speak when political systems refuse to listen.*
 
 ---
@@ -129,11 +129,11 @@ It analyses the political function of embodied risk in austerity states and how 
 
 > 📡 Cross-references:
 > 
-> - [🕯️ Ethics of Refusal in Austerity States](../🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md)  
-> - [🔥 Hunger Strike as Counter-Sovereignty](../👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
-> - [🔥 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
+> - [🕯️ Ethics of Refusal in Austerity States](../🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md) - *the tension of compliance and non-compliance in the financial "emergency powers" state*  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) - *how hunger strikes function as reclaiming power over the body at great cost*  
+> - [🔥 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md) - *when you say "no" and others feel a slap*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-17_
