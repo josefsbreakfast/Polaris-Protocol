@@ -22,7 +22,7 @@ It maps how exceptional sovereignty can invert into democratic vulnerability whe
 
 ---
 
-## The Architecture of Exceptional Sovereignty  
+## ⛩️ The Architecture of Exceptional Sovereignty  
 Pre-trial security detention occupies a unique sovereign space.  
 It is neither punishment nor innocence; neither administrative custody nor criminal conviction.  
 It functions through **anticipatory logic** — the state acts to prevent hypothetical future harms.
@@ -37,7 +37,7 @@ When any of these weaken, exceptional sovereignty becomes brittle.
 
 ---
 
-## The Public Consent Fracture  
+## 🏚️ The Public Consent Fracture  
 A substantial portion of the public perceives a mismatch between:
 
 - the alleged offences (often property or infrastructure damage),  
@@ -51,7 +51,7 @@ This divergence between statutory power and public comprehension becomes an earl
 
 ---
 
-## Medical Crisis as Constitutional Visibility  
+## 🩺 Medical Crisis as Constitutional Visibility  
 When hunger strikers are hospitalised under state custody for:
 
 - collapse,  
@@ -67,7 +67,7 @@ Medicalisation collides with securitisation, and the body becomes the site where
 
 ---
 
-## Communication Gaps as Legitimacy Signals  
+## 🧨 Communication Gaps as Legitimacy Signals  
 Public statements from senior officials indicating unawareness of the hunger strikes have heightened the perception of internal incoherence.  
 The public is not in a position to assess intent — but it does observe **capability**.
 
@@ -78,7 +78,7 @@ A state must appear to know what is happening within its own systems to maintain
 
 ---
 
-## The Risk Matrix Fork  
+## 🍽️ The Risk Matrix Fork  
 Exceptional detention measures are justified on the premise that they reduce systemic danger.  
 But the current conditions have produced a paradox:
 
@@ -100,7 +100,7 @@ Every continuation path now carries destabilisation potential.
 
 ---
 
-## Hostile Actor Incentive Landscape  
+## 🌋 Hostile Actor Incentive Landscape  
 When legitimacy fractures widen, antagonistic forces — foreign and domestic — gain narrative terrain:
 
 - Far-right ecosystems may frame custodial deaths as validation of government overreach or failure.  
@@ -115,7 +115,7 @@ it is dangerous because of **its interpretive volatility**.
 
 ---
 
-## Democratic Stability Under Exceptional Pressure  
+## 🪼 Democratic Stability Under Exceptional Pressure  
 Liberal democracy depends less on unanimity than on *coherence*:  
 the public must broadly understand why the state is doing what it is doing.
 
