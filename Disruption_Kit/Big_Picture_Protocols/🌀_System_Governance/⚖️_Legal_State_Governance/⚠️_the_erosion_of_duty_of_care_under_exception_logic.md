@@ -76,10 +76,10 @@ exception logic is overriding custodial duty.
 ## 🌋 Why Hunger Strikes Stress the Duty of Care Framework  
 Hunger strikes create a clash:
 
-### The body deteriorates.  
-### The state must act.  
-### But action risks appearing coercive.  
-### And inaction risks violating duty of care.
+- The body deteriorates.  
+- The state must act.  
+- But action risks appearing coercive.  
+- And inaction risks violating duty of care.
 
 Exceptional logic frequently pushes institutions toward *inaction*, reframed as neutrality or non-interference.
 
