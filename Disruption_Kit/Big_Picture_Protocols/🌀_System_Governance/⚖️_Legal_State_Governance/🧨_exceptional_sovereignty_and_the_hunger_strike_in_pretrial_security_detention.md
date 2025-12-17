@@ -1,5 +1,5 @@
 # 🧨 Exceptional Sovereignty and the Hunger Strike in Pre-Trial Security Detention  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
 *How exceptional detention, medical crisis, and public comprehension gaps create a high-severity democratic legitimacy scenario.*  
 
 ---
@@ -146,11 +146,11 @@ It analyses how exceptional detention, medical deterioration, and public compreh
 
 > 📡 Cross-references:
 > 
-> - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
-> - [⚖️ The Refusal Body as Unmanageable Risk](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md)  
-> - [📡 The Governance of Bodies That Refuse](./📡_the_governance_of_bodies_that_refuse.md)  
-> - [🔮 Visibility Collapse of Dissenting Bodies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) - *how hunger strikes function as reclaiming power over the body at great cost*  
+> - [⚖️ The Refusal Body as Unmanageable Risk](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md) - *when the body which is non-compliant with systems, refuses*  
+> - [📡 The Governance of Bodies That Refuse](./📡_the_governance_of_bodies_that_refuse.md) - *how states react to refusal as a tool of sovereignity*  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md) - *how bodies which refuse, are buried from view*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
