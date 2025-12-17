@@ -1,5 +1,5 @@
 # 🛰️ Civic Oversight of AI Partnerships  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-17  
 *Why FOI, OSINT, and civic audit are structural requirements for any state–AI vendor partnership.*  
 
 ---
@@ -22,9 +22,7 @@ Oversight of AI is therefore not optional — it is **constitutional hygiene**.
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 1  Why AI partnerships require more transparency, not less  
+## Why AI Partnerships Require More Transparency, Not Less  
 AI systems amplify whatever governance structure they are embedded in.
 
 If that structure is fair → AI scales fairness.  
@@ -35,7 +33,7 @@ Therefore, civic visibility must increase *before* deployment.
 
 ---
 
-### 2  The problem: “Model knows, public does not”  
+## The Pproblem: “Model Knows, Public Does Not”  
 When government partners with AI vendors:
 
 - the public cannot see training data  
@@ -49,7 +47,7 @@ A democratic state cannot outsource the **ability to know**.
 
 ---
 
-### 3  FOI/OSINT as anti-capture infrastructure  
+## FOI/OSINT As Anti-Capture Infrastructure  
 
 To maintain legitimacy, governments must guarantee:
 
@@ -76,7 +74,7 @@ If a system cannot tolerate scrutiny, it should not be deployed.
 
 ---
 
-### 4  Vendor capture: how it happens  
+## Vendor Capture: How It Happens  
 
 AI vendors often:
 
@@ -91,7 +89,7 @@ This creates **policy gravity** around the vendor, not the public.
 
 ---
 
-### 5  Civic countermeasures  
+## Civic Countermeasures  
 
 Practical steps for maintaining oversight:
 
@@ -122,7 +120,7 @@ Practical steps for maintaining oversight:
 
 ---
 
-### 6  Indicators of captured AI deployment  
+## Indicators Of Captured AI Deployment  
 
 A system becomes illegitimate when:
 
