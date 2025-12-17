@@ -1,5 +1,5 @@
 # ⚖️ Due Diligence as Moral Defence  
-**First created:** 2025-10-17 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-17 | **Last updated:** 2025-12-17  
 *Ideological note on how bureaucratic fragmentation erodes accountability and enables atrocity through cultivated ignorance.*  
 
 ---
@@ -26,6 +26,8 @@ Each bureaucrat, each engineer, each algorithmic moderator touches only one sliv
 
 This is how suppression, or harm, becomes routinised: **diffused intention, concentrated effect**.
 
+---
+
 ## ⚖️ The Nuremberg Problem  
 The post-war legal test of intent showed how difficult it is to prosecute diffuse crimes.  
 
@@ -35,6 +37,8 @@ What matters here is not his psychology but the structure itself — a governanc
 
 The absence of orders becomes its own form of command.
 
+---
+
 ## 🖋️ Due Diligence as a Moral Line  
 True due diligence requires *wanting to know*.  
 
@@ -43,15 +47,19 @@ Leadership that chooses not to ask, or designs systems that make asking impossib
 
 The refusal of diligence is therefore not merely incompetence; it is a willful act of ethical withdrawal.
 
+---
+
 ## 🪞 Contemporary Mirrors  
 Modern governance and corporate compliance repeat this logic.  
 - *“We can’t audit the algorithm.”*  
 - *“That’s a third-party contractor.”*  
 - *“The data team doesn’t have access to that layer.”*
-- 
+
 Each phrase disguises a system optimised to obscure responsibility.
 
 In this architecture, atrocity risk is reborn as “standard operating procedure.”
+
+---
 
 ## 🪼 Cultural Saturation  
 The managerial doctrine of “risk reduction through non-knowledge” has become socially normal — but this normalisation itself is dangerous.  
@@ -81,4 +89,4 @@ It articulates how governance cultures that fragment responsibility incubate mor
 > - [🏛️ The Wannsee Template: How Bureaucratic Genocide Operates](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md) - *how events like the Holocaust get "signed off" in the paperwork the perpetrators forget to destroy, so we know what to look for in prevention and deescalation today*  
 > - [🐕 Reading the Dog Whistle — Bureaucratic Language and Atrocity Risk](./🐕_reading_the_dog_whistle.md) - *how events like the Holocaust, through to the genocides which include the people of Palestine, South Sudan, and Congo today, get normalised through coded language*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
