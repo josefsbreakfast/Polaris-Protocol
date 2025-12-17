@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-17 11:09:34 UTC_
+_Generated on 2025-12-17 11:10:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3813,6 +3813,7 @@ _Generated on 2025-12-17 11:09:34 UTC_
     - [`🧿_atrocity_pattern_recognition_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧿_atrocity_pattern_recognition_toolkit.md)
     - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](Polaris_Nest/Git_Intake_Drawer/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
     - [`🧿_de_anonymisation_by_composite_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_de_anonymisation_by_composite_architecture.md)
+    - [`🧿_did_the_uk_learn_from_the_troubles.md`](Polaris_Nest/Git_Intake_Drawer/🧿_did_the_uk_learn_from_the_troubles.md)
     - [`🧿_his_reaction_is_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🧿_his_reaction_is_the_flag.md)
     - [`🧿_mask_slip_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🧿_mask_slip_recognition.md)
     - [`🧿_misinterpretation_resilience_review.md`](Polaris_Nest/Git_Intake_Drawer/🧿_misinterpretation_resilience_review.md)
