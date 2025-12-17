@@ -1,5 +1,5 @@
 # 🕯️ The Ethics of Refusal in Austerity States  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
 *How refusal exposes the moral architecture of a state built on managed scarcity.*
 
 ---
@@ -101,11 +101,11 @@ It examines how voluntary deprivation exposes the moral architecture of governme
 
 > 📡 Cross-references:  
 > 
-> - [🩸 Bodily Risk as Political Speech](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md) — how refusal becomes embodied communication  
-> - [🔥 Hunger Strike as Counter-Sovereignty](../👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) — refusal as sovereign disruption  
-> - [⚖️ The Refusal Body as Unmanageable Risk](./⚖️_the_refusal_body_as_unmanageable_risk.md) — when refusal exceeds institutional modelling  
+> - [🩸 Bodily Risk as Political Speech](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md) - *how refusal becomes embodied communication*  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) - *how hunger strikes function as reclaiming power over the body at great cost*  
+> - [⚖️ The Refusal Body as Unmanageable Risk](./⚖️_the_refusal_body_as_unmanageable_risk.md) - *when the body which is non-compliant with systems, refuses*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-17_
