@@ -23,9 +23,9 @@ It is **reactive architecture**, invoked when systems fail in their duties of ca
 
 ---
 
-## 2. The Four Core Principles
+## The Four Core Principles
 
-### **2.1 Strategic Withholding**  
+## 1. Strategic Withholding  
 - Observe before acting  
 - Seek patterns of omission  
 - Map discrepancies in timelines  
@@ -36,7 +36,7 @@ Strategic withholding protects vulnerable actors in hostile or uncertain institu
 
 ---
 
-### **2.2 Precision-Timed Disclosure**  
+## 2. Precision-Timed Disclosure  
 - Reveal information only when its procedural effect is maximised  
 - Use forums the institution cannot avoid (hearings, minutes, legal duties)  
 - Control the pacing of the narrative  
@@ -46,7 +46,7 @@ The timing is not avoidance; it is **tactical safety**.
 
 ---
 
-### **2.3 Procedural Escalation**  
+## 3. Procedural Escalation  
 - FOI and SAR as lawful force multipliers  
 - PSED duties to expose discriminatory patterns  
 - Audit trail creation through correspondence  
@@ -58,7 +58,7 @@ she makes the system reveal itself.
 
 ---
 
-### **2.4 Disclosure as Leverage**  
+## 4. Disclosure as Leverage  
 - Offer the institution the chance to correct itself  
 - Use transparency as a stabilising force  
 - Place evidence into the formal record  
@@ -69,7 +69,7 @@ the point at which truth becomes *procedurally undeniable*.
 
 ---
 
-## 3. Operational Phases
+## Operational Phases  
 
 ### **Phase A — The Quiet Audit**  
 - Collecting evidence  
@@ -96,7 +96,7 @@ the point at which truth becomes *procedurally undeniable*.
 
 ---
 
-## 4. Cultural and Strategic Lineage
+## Cultural and Strategic Lineage
 
 The Esther Protocol arises wherever:
 
@@ -110,7 +110,7 @@ It is a strategy of survival that becomes a strategy of justice.
 
 ---
 
-## 5. Risks and Countermeasures
+## Risks and Countermeasures
 
 ### **Risks**
 - Retaliatory bureaucratic delay  
@@ -128,7 +128,7 @@ It is a strategy of survival that becomes a strategy of justice.
 
 ---
 
-## 6. Implementation in Modern Systems
+## Implementation in Modern Systems
 
 The Esther Protocol is live in:
 
@@ -145,7 +145,7 @@ It operationalises a simple truth:
 
 ---
 
-## 7. Decision Pathway Diagram (Mermaid)
+## Decision Pathway Diagram  
 
 ```mermaid
 flowchart TD
@@ -177,4 +177,4 @@ esther protocol, governance archetype, foi strategy, sar escalation, procedural 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-17_
