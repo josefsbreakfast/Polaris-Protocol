@@ -41,3 +41,15 @@ I also know how many email responses go through counsel, so I know this is not p
 I am just tired of white people being white people; I've been especially tired of this since October 2023.  
 
 ---
+
+אַ מענטש האָט אַמאָל געזאָגט:  
+
+נײַן רבנים קענען קײן מנין ניט מאַכן אָבער צען שוסטערס יאָ.  
+
+אויטאָריטעט? פֿאַר וואָס? כאַפּן הינער?  
+
+אזוי, אזוי.  
+
+At least it is getting clearer where and how I need to concentrate the data hunting; it's a telling play.  
+
+---
