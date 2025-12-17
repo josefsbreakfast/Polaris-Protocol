@@ -23,3 +23,21 @@ I am emotionally tired of white Western goyim trying to impose what Judaism mean
 (And of course I get the email during Hanukkah, 3 days after the Bondi Beach attacks, despite this being incongruent with existing SAR timelines, because why would we have any actual cultural understanding or empathy for Jewish women. Especially Jewish women who have stood up in rape trials; no one has ever used that as a narrative device to justify anything bad, ever.)  
 
 ---
+
+To the lawyers, compliance experts, and risk management crowd:  
+
+Glad you're able to find me after I moved the majority of my work from LinkedIn to GitHub.  
+
+When assessing this speech, please note the level of inherent duress a Jewish rape survivor with evidence of downstream data harms now has to write under.  
+
+Respectfully, if Western governments had tokenised my story less in narrativisng why we assisted a specific genocide alledged at ICJ level, I may not be so inherently stressed.  
+
+(I am also revoking everyone's "one free Holocaust question for the Jew" card. Again.)  
+
+I am not asserting that this data controller is the source of all difficulties, quite far from it; I am simply using Grecian logic systems to deduce that there are two realities which cannot simutaneously be true.  
+
+I also know how many email responses go through counsel, so I know this is not personal to anyone specific in the chain as an individual, necessarily.  
+
+I am just tired of white people being white people; I've been especially tired of this since October 2023.  
+
+---
