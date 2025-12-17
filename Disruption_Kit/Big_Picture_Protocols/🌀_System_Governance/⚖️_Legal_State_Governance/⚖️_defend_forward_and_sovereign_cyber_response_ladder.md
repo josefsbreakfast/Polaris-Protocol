@@ -198,7 +198,7 @@ It situates inherited cyber escalation frameworks within their historical contex
 
 > 📡 Cross-references:
 > 
-> - [🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive, ecological pressure mapping*  
+> - [🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive, ecological pressure mapping*  
 > - [⏳ Governance Latency in Population-Scale Cyber Events](./⏳_governance_latency.md) — *why delay causes real harm*  
 > - [🕸 Metadata Defence](../../../🏮_AntiContainment_Clauses/🕸_metadata_defence.md) — *defence without escalation*  
 
