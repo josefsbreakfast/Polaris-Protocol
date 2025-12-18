@@ -1,5 +1,5 @@
 # 🏚️ Pre-Digital Design Flaws in Post-Digital Systems
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-14 | **Last updated:** 2025-12-18  
 *How legacy, paper-era institutional design breaks when exposed to modern digital information flow.*
 
 ---
