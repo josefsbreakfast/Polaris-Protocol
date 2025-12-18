@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 22:34:37 UTC_
+_Generated on 2025-12-18 22:36:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3252,6 +3252,7 @@ _Generated on 2025-12-18 22:34:37 UTC_
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
+      - [`🏚️_pre_digital_meets_post_digital.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🏚️_pre_digital_meets_post_digital.md)
       - [`🐍_algorithmic_hostage_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md)
       - [`🐍_low_skill_threat_actors_high_systemic_impact.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_low_skill_threat_actors_high_systemic_impact.md)
       - [`👻_embedding_inertia_and_ghost_geometry.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md)
@@ -3618,7 +3619,6 @@ _Generated on 2025-12-18 22:34:37 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
-    - [`Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md`](Polaris_Nest/Git_Intake_Drawer/Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`Structural_Survivorship_in_Multi-Agency_Environments.md`](Polaris_Nest/Git_Intake_Drawer/Structural_Survivorship_in_Multi-Agency_Environments.md)
     - [`When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md`](Polaris_Nest/Git_Intake_Drawer/When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md)
