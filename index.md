@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 22:36:32 UTC_
+_Generated on 2025-12-18 22:37:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -911,6 +911,7 @@ _Generated on 2025-12-18 22:36:32 UTC_
         - [`global_crown_stakeholders.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/global_crown_stakeholders.png)
         - [`global_crown_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/global_crown_timeline.png)
         - [`israel_eurozone_financial_watchlist.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/israel_eurozone_financial_watchlist.png)
+        - [`natcon_speakers_2023_2025.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/natcon_speakers_2023_2025.csv)
         - [`☄️_ww3_started_years_ago.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/☄️_ww3_started_years_ago.md)
         - [`♻️_declining_ore_grades_and_the_end_of_substitution_myths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/♻️_declining_ore_grades_and_the_end_of_substitution_myths.md)
         - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_contingent_conservatism_and_long_horizon_politics.md)
@@ -3618,7 +3619,6 @@ _Generated on 2025-12-18 22:36:32 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`Structural_Survivorship_in_Multi-Agency_Environments.md`](Polaris_Nest/Git_Intake_Drawer/Structural_Survivorship_in_Multi-Agency_Environments.md)
     - [`When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md`](Polaris_Nest/Git_Intake_Drawer/When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md)
