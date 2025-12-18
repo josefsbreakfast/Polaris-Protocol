@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 23:05:32 UTC_
+_Generated on 2025-12-18 23:06:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3873,6 +3873,7 @@ _Generated on 2025-12-18 23:05:32 UTC_
     - [`🪻_who_died_for_your_vote.md`](Polaris_Nest/Git_Intake_Drawer/🪻_who_died_for_your_vote.md)
     - [`🪼_beyond_containment.md`](Polaris_Nest/Git_Intake_Drawer/🪼_beyond_containment.md)
     - [`🪼_who_is_acting.md`](Polaris_Nest/Git_Intake_Drawer/🪼_who_is_acting.md)
+    - [`🫀_ed_comparisons_to_hunger_strikes.md`](Polaris_Nest/Git_Intake_Drawer/🫀_ed_comparisons_to_hunger_strikes.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
