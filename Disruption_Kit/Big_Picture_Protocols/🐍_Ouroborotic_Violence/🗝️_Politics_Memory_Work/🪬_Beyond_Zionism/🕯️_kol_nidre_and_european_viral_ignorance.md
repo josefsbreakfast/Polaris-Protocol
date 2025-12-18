@@ -266,7 +266,24 @@ But from:
 - shared civic alignment  
 
 Isolation makes minorities expendable.  
-Solidarity reduces surfaces fascism can cling to.
+Solidarity reduces surfaces fascism can cling to.  
+
+---
+
+## 💫 In Closing  
+
+When the full history is considered, it can be understandable why many Jewish people in the West, still deeply want to stand behind the idea of a nation-state which prioritises them.  
+
+In a world where their speech is still treated as inherently flammable, if not inherently duplicitous, the idea of having a place where they can access that same democracy and sovereignty is deeply attractive.  
+
+The point of contest, however, is that we now know very explicitly that that freedom comes at the cost of someone else's freedom; this is formal widely understood by Jewish community today, and is actively a matter of integration and consolidation within Jewish communal thought.  
+
+For many there is a grieving process to go through to abandon this idea that there is a society they can access which is similar to their own but without the discrimination; this is why many people on the outside are looking in and seeing a community which is in transition and arguably, in a degree of internal moral crisis.  
+This would be true of any community in the same position.  
+
+Further discussion in other nodes in this folder, discuss the pull and push factors which have existed for the entirety of the time that this nation-state taking the name of Israel has existed, which demonstrate how the entire ecosystem of the West has contributed to this reality today.  
+
+this is not to argue against accountability but to provide context on the wider power network at play, outside of the Jewish community in isolation; Zionism is primarily a Western idea, not necessarily a Jewish one, although the overlap is real.  
 
 ---
 
