@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 05:01:29 UTC_
+_Generated on 2025-12-18 06:05:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1724,6 +1724,7 @@ _Generated on 2025-12-18 05:01:29 UTC_
       - [`20251216_confronting_shame.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251216_confronting_shame.md)
       - [`20251216_🕯️🕯️🕯️🕯️🕯️🕯️🕯️🕯️.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251216_🕯️🕯️🕯️🕯️🕯️🕯️🕯️🕯️.md)
       - [`20251217_this_is_too_good.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251217_this_is_too_good.md)
+      - [`20251218_labour.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251218_labour.md)
       - [`IMG_7852.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_7852.png)
       - [`IMG_7853.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_7853.png)
       - [`IMG_7854.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_7854.png)
