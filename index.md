@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 22:37:50 UTC_
+_Generated on 2025-12-18 22:38:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1299,6 +1299,7 @@ _Generated on 2025-12-18 22:37:50 UTC_
         - [`🕍_jewish_trauma_literacy_for_non_jewish_audiences.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)
         - [`🕍_shared_language_for_shared_warnings.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕍_shared_language_for_shared_warnings.md)
         - [`🕸️_networking_as_a_tool_of_novelty.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕸️_networking_as_a_tool_of_novelty.md)
+        - [`🕸️_structural_survivorship_in_multi_agency_environments.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕸️_structural_survivorship_in_multi_agency_environments.md)
         - [`😴_witness_fatigue.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/😴_witness_fatigue.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
@@ -3620,7 +3621,6 @@ _Generated on 2025-12-18 22:37:50 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`Structural_Survivorship_in_Multi-Agency_Environments.md`](Polaris_Nest/Git_Intake_Drawer/Structural_Survivorship_in_Multi-Agency_Environments.md)
     - [`When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md`](Polaris_Nest/Git_Intake_Drawer/When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
     - [`book_of_esther_foi_edition.md`](Polaris_Nest/Git_Intake_Drawer/book_of_esther_foi_edition.md)
