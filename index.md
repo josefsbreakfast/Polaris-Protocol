@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 07:01:27 UTC_
+_Generated on 2025-12-18 07:02:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3714,6 +3714,7 @@ _Generated on 2025-12-18 07:01:27 UTC_
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
+    - [`🧩_voice_misuse_misattribution.md`](Polaris_Nest/Git_Intake_Drawer/🧩_voice_misuse_misattribution.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
