@@ -1,5 +1,5 @@
 # ⚠️ Misaligned Risk Reflexes in Safeguarding + Prevent
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-14 | **Last updated:** 2025-12-18  
 *Why safeguarding and Prevent assess “risk” differently, and how the mismatch creates overreach, confusion, and harm.*
 
 ---
