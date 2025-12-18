@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 22:40:57 UTC_
+_Generated on 2025-12-18 22:41:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3621,13 +3621,13 @@ _Generated on 2025-12-18 22:40:57 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
+    - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
     - [`book_of_esther_foi_edition.md`](Polaris_Nest/Git_Intake_Drawer/book_of_esther_foi_edition.md)
     - [`data_slip_narrative_spiral.md`](Polaris_Nest/Git_Intake_Drawer/data_slip_narrative_spiral.md)
     - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Polaris_Nest/Git_Intake_Drawer/deliberate_small_suppression_later_release_reciprocity_blowback.png)
     - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
-    - [`intake_lantern_README.md`](Polaris_Nest/Git_Intake_Drawer/intake_lantern_README.md)
     - [`last_8_timesteps_full_sim.csv`](Polaris_Nest/Git_Intake_Drawer/last_8_timesteps_full_sim.csv)
     - [`natcon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025.csv)
     - [`natcon_speakers_2023_2025_full.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025_full.csv)
