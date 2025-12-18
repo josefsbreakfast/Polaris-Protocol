@@ -1,5 +1,5 @@
 # 🕸️ Structural Survivorship in Multi-Agency Environments
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-14 | **Last updated:** 2025-12-18  
 *Why survivors become long-term navigators inside multi-agency systems, and how the structure of those systems makes survivorship a permanent identity rather than a temporary phase.*
 
 ---
