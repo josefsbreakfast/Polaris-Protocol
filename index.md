@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 20:51:56 UTC_
+_Generated on 2025-12-18 21:47:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -251,6 +251,7 @@ _Generated on 2025-12-18 20:51:56 UTC_
         - [`👾_intent_free_authoritarian_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
         - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)
         - [`💥_institutional_panic_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_institutional_panic_dynamics.md)
+        - [`💥_shock_freeze_stall.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_shock_freeze_stall.md)
         - [`📈_polished_authoritarianism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📈_polished_authoritarianism.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
@@ -3615,7 +3616,6 @@ _Generated on 2025-12-18 20:51:56 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`How_Emotional_Shock_Distorts_Institutional_Decision-Making.md`](Polaris_Nest/Git_Intake_Drawer/How_Emotional_Shock_Distorts_Institutional_Decision-Making.md)
     - [`Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md`](Polaris_Nest/Git_Intake_Drawer/Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
     - [`Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md`](Polaris_Nest/Git_Intake_Drawer/Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md)
