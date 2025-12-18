@@ -70,7 +70,7 @@ It contributes a **truth-constrained analytic register** for decoding narratives
 >
 > - [🦉 Language As Attack Surface](../README.md) — *the wider cluster on linguistic manipulation*  
 > - [🦆 Digital Disruption](../../README.md) — *civic repair, counter-manipulation, practical method*  
-> - [🧠 Big Picture Protocols](../../../Big_Picture_Protocols/README.md) — *systems + governance framing*
+> - [🧠 Big Picture Protocols](../../../Disruption_Kit/Big_Picture_Protocols/README.md) — *systems + governance framing*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
