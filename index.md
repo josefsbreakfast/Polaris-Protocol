@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 23:48:43 UTC_
+_Generated on 2025-12-18 23:54:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -553,6 +553,7 @@ _Generated on 2025-12-18 23:48:43 UTC_
         - [`sound_ahavah_rabbah.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_ahavah_rabbah.png)
         - [`sound_harmonic_c_minor.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_harmonic_c_minor.png)
         - [`sound_maqam_haqiz.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_maqam_haqiz.png)
+        - [`☘️_the_good_friday_agreement_and_palestine_action_prisoners.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☘️_the_good_friday_agreement_and_palestine_action_prisoners.md)
         - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
         - [`⚖️_operatic_capture_and_risks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_operatic_capture_and_risks.md)
@@ -3637,7 +3638,6 @@ _Generated on 2025-12-18 23:48:43 UTC_
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`☘️_good_friday_agreement_and_palestine_action_prisoners.md`](Polaris_Nest/Git_Intake_Drawer/☘️_good_friday_agreement_and_palestine_action_prisoners.md)
     - [`⚖️_courts_as_sites_of_harm.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_courts_as_sites_of_harm.md)
     - [`⚖️_prison_contractor_questions.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_prison_contractor_questions.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
