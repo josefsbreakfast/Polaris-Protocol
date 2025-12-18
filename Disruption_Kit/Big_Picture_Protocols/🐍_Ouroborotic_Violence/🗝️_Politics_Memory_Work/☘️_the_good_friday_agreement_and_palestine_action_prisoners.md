@@ -1,5 +1,5 @@
 # ☘️ The Good Friday Agreement and Palestine Action Prisoners
-**First created:** 2025-12-17 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-17 | **Last updated:** 2025-12-18  
 *How contemporary custodial practices erode the trust architecture of peace agreements.*
 
 ---
@@ -59,9 +59,10 @@ good friday agreement, hunger strikes, political prisoners, custodial risk, peac
 It situates present conduct within the ethical framework of peace maintenance.
 
 > 📡 Cross-references:
-> - [War or Peace](../Digital_Disruption/🕊️_war_or_peace.md) — governance during political conflict  
-> - [Ouroborotic Violence](../Big_Picture_Protocols/🐍_ouroborotic_violence.md) — recursive state harm  
+> 
+> - [🕊️ War or Peace](../../../../🦆Digital_Disruption/🕊️_War_Or_Peace/README.md) — *governance during political conflict*  
+> - [🐍 Ouroborotic Violence](../README.md) — *recursive state harm*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-18_
