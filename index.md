@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 21:47:06 UTC_
+_Generated on 2025-12-18 22:31:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4240,6 +4240,8 @@ _Generated on 2025-12-18 21:47:06 UTC_
     - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
   - [**🦉_Language_As_Attack_Surface/**](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/)
+    - [**🧿_Parsh_Fasr/**](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/)
+      - [`README.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/README.md)
     - [`README.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md)
     - [`frame_drift_watchlist.yaml`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/frame_drift_watchlist.yaml)
     - [`what_they_now_call_X.csv`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/what_they_now_call_X.csv)
