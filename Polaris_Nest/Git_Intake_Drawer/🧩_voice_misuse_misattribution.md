@@ -154,7 +154,69 @@ Without assigning blame, basic safeguards would include:
 - Recognition of harm caused by unresolved ambiguity
 
 None of these require disclosure of sensitive methods.  
-They require only a willingness to look.
+They require only a willingness to look.  
+
+---
+
+## 🧾 Commissioning Responsibility (Without Alleging Malice)
+
+Where crawler-based analysis is conducted by third-party vendors, responsibility does not end at delegation.
+
+If a policy organisation, safeguarding programme, or research body:
+- funds,
+- commissions,
+- procures,
+- or materially relies upon  
+a data vendor or analytical service,
+
+then it retains **commissioning responsibility** for the governance of that activity.
+
+This responsibility exists **regardless of intent**.
+
+---
+
+## 🔍 What Commissioning Responsibility Entails
+
+Once plausible harm is identified, commissioning bodies have a duty to:
+
+- Seek clarity on vendor methods and safeguards  
+- Assess whether data handling met legal and ethical standards  
+- Determine whether misattribution, impersonation, or identity misuse plausibly occurred  
+- Review whether pseudonymisation claims were sufficient in context  
+- Take proportionate steps to remediate harm and prevent recurrence  
+
+This duty applies even where:
+- the commissioning body did not hold raw data  
+- analysis was described as “high-level” or “aggregated”  
+- harm was unintended  
+- the affected individual was not the primary analytical subject  
+
+---
+
+## ⚠️ Delegation Is Not Displacement
+
+Outsourcing analysis does not outsource accountability.
+
+In regulated systems, commissioning bodies are expected to:
+- audit contractors
+- review adverse outcomes
+- suspend or amend practices when risks emerge
+
+The absence of malice does not negate this obligation.  
+It defines the moment when governance is supposed to activate.
+
+---
+
+## 🧠 Why This Matters
+
+Without recognised commissioning responsibility:
+- harms remain unresolved
+- uncertainty is left to persist
+- affected individuals carry the burden of proof
+- systemic failures repeat without correction
+
+Accountability cannot depend on identifying a single “bad actor”  
+when the risk is produced by the structure of the pipeline itself.  
 
 ---
 
