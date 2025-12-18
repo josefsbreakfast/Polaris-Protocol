@@ -283,7 +283,7 @@ This would be true of any community in the same position.
 
 Further discussion in other nodes in this folder, discuss the pull and push factors which have existed for the entirety of the time that this nation-state taking the name of Israel has existed, which demonstrate how the entire ecosystem of the West has contributed to this reality today.  
 
-this is not to argue against accountability but to provide context on the wider power network at play, outside of the Jewish community in isolation; Zionism is primarily a Western idea, not necessarily a Jewish one, although the overlap is real.  
+This is not to argue against accountability but to provide context on the wider power network at play, outside of the Jewish community in isolation; Zionism is primarily a Western idea, not necessarily a Jewish one, although the overlap is real.  
 
 ---
 
