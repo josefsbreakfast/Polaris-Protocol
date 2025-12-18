@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 22:38:51 UTC_
+_Generated on 2025-12-18 22:39:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1316,6 +1316,7 @@ _Generated on 2025-12-18 22:38:51 UTC_
         - [`🧪_the_wall_tester_type.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧪_the_wall_tester_type.md)
         - [`🧫_the_default_on_being_unbroken.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧫_the_default_on_being_unbroken.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
+        - [`🩺_when_data_harm_becomes_physical_harm_frailty_node.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🩺_when_data_harm_becomes_physical_harm_frailty_node.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
         - [`🪸_floating_commons_humane_sovereignty_at_sea.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
@@ -3621,7 +3622,6 @@ _Generated on 2025-12-18 22:38:51 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
-    - [`When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md`](Polaris_Nest/Git_Intake_Drawer/When_Data_Harm_Becomes_Physical_Harm_Frailty_Node.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
     - [`book_of_esther_foi_edition.md`](Polaris_Nest/Git_Intake_Drawer/book_of_esther_foi_edition.md)
     - [`data_slip_narrative_spiral.md`](Polaris_Nest/Git_Intake_Drawer/data_slip_narrative_spiral.md)
