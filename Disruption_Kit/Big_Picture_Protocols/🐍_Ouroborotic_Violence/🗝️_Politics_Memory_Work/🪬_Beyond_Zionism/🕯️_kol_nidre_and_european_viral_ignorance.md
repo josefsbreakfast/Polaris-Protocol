@@ -292,7 +292,7 @@ It documents how ritual ignorance and legal coercion became transferable technol
 > - [🐍 Ouroborotic Violence](../../README.md) — *recursive harm cycles*  
 > - [🪬 Beyond Zionism](./README.md) — *antisemitism not reducible to state politics*  
 > - [🫀 Our Hearts, Our Minds](../../../🫀_Our_Hearts_Our_Minds/README.md) — *trauma-aware governance*  
-> - [🦆 Digital Disruption](../../../../🦆_Digital_Disruption/README.md) — *solidarity and civic repair*  
+> - [🦆 Digital Disruption](../../../../../🦆_Digital_Disruption/README.md) — *solidarity and civic repair*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
