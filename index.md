@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 22:32:52 UTC_
+_Generated on 2025-12-18 22:34:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2953,6 +2953,7 @@ _Generated on 2025-12-18 22:32:52 UTC_
       - [`transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/transatlantic_protection_rackets.md)
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
       - [`⚖️_palestine_action_prescription_case_study.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_prescription_case_study.md)
+      - [`⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md)
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
       - [`🈺_prevent_as_structural_marginalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🈺_prevent_as_structural_marginalisation.md)
       - [`🌐_prevent_as_a_democracy_suppression_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_prevent_as_a_democracy_suppression_engine.md)
@@ -3616,7 +3617,6 @@ _Generated on 2025-12-18 22:32:52 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md`](Polaris_Nest/Git_Intake_Drawer/Misaligned_Risk_Reflexes_in_Safeguarding_and_Prevent.md)
     - [`NatCon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/NatCon_speakers_2023_2025.csv)
     - [`Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md`](Polaris_Nest/Git_Intake_Drawer/Pre-Digital_Design_Flaws_in_Post-Digital_Systems.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
