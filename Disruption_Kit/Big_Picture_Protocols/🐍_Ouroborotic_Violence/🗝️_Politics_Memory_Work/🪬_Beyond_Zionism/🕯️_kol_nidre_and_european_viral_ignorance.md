@@ -272,7 +272,12 @@ Solidarity reduces surfaces fascism can cling to.
 
 ## 🌌 Constellations  
 
-🐍 🕯️ ⚖️ 🪬 🗝️ 🧠 — recursive violence, ritual memory, legal coercion, symbolic inversion, gatekeeping, cognitive failure embedded in governance.
+🐍 🕯️ ⚖️ 🪬 🗝️ 🧠 — recursive violence, ritual memory, legal coercion, symbolic inversion, gatekeeping, cognitive failure embedded in governance.  
+
+*Further media:*  
+
+- Kol Nidre performed in minyan with Rabbi Rosenfeld, at [Western Marble Arch Synagogue](https://youtu.be/Wrs5eypE__c?si=arcwsqh6vwCpmnSo).
+- [Several versions](https://opensiddur.org/?s=Kol+Nidre) of Kol Nidre, or prays on Eruv Yok Kippur, exist; general format is similar across communities.
 
 ---
 
