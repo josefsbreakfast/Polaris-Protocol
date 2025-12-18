@@ -60,7 +60,7 @@ It situates present conduct within the ethical framework of peace maintenance.
 
 > 📡 Cross-references:
 > 
-> - [🕊️ War or Peace](../../../../🦆Digital_Disruption/🕊️_War_Or_Peace/README.md) — *governance during political conflict*  
+> - [🕊️ War or Peace](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md) — *governance during political conflict*  
 > - [🐍 Ouroborotic Violence](../README.md) — *recursive state harm*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
