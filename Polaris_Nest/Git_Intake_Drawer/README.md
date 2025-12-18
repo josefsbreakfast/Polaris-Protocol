@@ -1,5 +1,5 @@
 # 🏮 Intake Lantern  
-**First created:** 2025-09-10 | **Last updated:** 2025-09-10  
+**First created:** 2025-09-10 | **Last updated:** 2025-12-18  
 *A quiet reminder anchored in the Intake Drawer.*  
 
 ---
@@ -24,4 +24,4 @@ It sits in the Git Intake Drawer as objective evidence: the Protocol exists beca
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-10_
+_Last updated: 2025-12-18_
