@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 22:39:46 UTC_
+_Generated on 2025-12-18 22:40:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3621,7 +3621,7 @@ _Generated on 2025-12-18 22:39:46 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
+    - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
     - [`book_of_esther_foi_edition.md`](Polaris_Nest/Git_Intake_Drawer/book_of_esther_foi_edition.md)
     - [`data_slip_narrative_spiral.md`](Polaris_Nest/Git_Intake_Drawer/data_slip_narrative_spiral.md)
