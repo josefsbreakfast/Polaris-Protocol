@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 22:41:40 UTC_
+_Generated on 2025-12-18 23:05:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3869,6 +3869,7 @@ _Generated on 2025-12-18 22:41:40 UTC_
     - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
+    - [`🪻_who_died_for_your_vote.md`](Polaris_Nest/Git_Intake_Drawer/🪻_who_died_for_your_vote.md)
     - [`🪼_beyond_containment.md`](Polaris_Nest/Git_Intake_Drawer/🪼_beyond_containment.md)
     - [`🪼_who_is_acting.md`](Polaris_Nest/Git_Intake_Drawer/🪼_who_is_acting.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
