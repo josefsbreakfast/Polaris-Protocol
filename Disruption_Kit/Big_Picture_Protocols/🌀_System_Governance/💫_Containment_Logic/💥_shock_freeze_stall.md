@@ -1,5 +1,5 @@
 # 💥 How Emotional Shock Distorts Institutional Decision-Making
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-14 | **Last updated:** 2025-11-18  
 *Why emotional shock inside institutions leads to paralysis, poor decisions, and fragmented communication.*
 
 ---
