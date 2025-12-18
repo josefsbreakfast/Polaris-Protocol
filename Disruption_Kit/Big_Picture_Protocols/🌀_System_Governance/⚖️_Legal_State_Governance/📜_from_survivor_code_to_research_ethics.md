@@ -155,8 +155,8 @@ Here, ethical infrastructure becomes anticipatory containment:
 preventing institutional harm rather than human harm.
 
 > See:  
-> - [🈺 Governance And Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
-> - [🈸 Dispatch And Training](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
+> - [🈺 Governance & Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
+> - [🈸 Dispatch & Training](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
 
 ---
 
