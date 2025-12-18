@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-18 23:05:08 UTC_
+_Generated on 2025-12-18 23:05:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3683,6 +3683,7 @@ _Generated on 2025-12-18 23:05:08 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
+    - [`🔥_hunger_strike_comparisons.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hunger_strike_comparisons.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_ambient_threat_simulation.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_ambient_threat_simulation.md)
