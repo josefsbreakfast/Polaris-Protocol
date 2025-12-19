@@ -221,7 +221,7 @@ It documents how secrecy regimes fail under modern governance and cyber conditio
 > - [⚖️ Shielded Roles and Information Risk Governance](../👑_Ownership_Control/⚖️_shielded_roles_and_information_risk_governance.md) — *why accountability evaporates upward*  
 > - [㊙ Containment Contracts](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md) — *NDAs as governance theatre*  
 > - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](./⚖️_defend_forward_and_sovereign_cyber_response_ladder.md) — *ambiguity-aware cyber posture*  
-> - [🫀 Trauma-Aware Governance](../../🫀_Our_Hearts_Our_Minds/README.md) — *where secrecy meets harm*
+> - [🫀 Our Hearts, Our Minds](../../🫀_Our_Hearts_Our_Minds/README.md) — *trauma-aware governance*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
