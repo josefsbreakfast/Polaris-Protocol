@@ -1,6 +1,6 @@
 # 🧬 Harm Without Perpetrators: The Architecture Failure Model  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*Understanding how modern institutions cause harm structurally rather than intentionally.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-19  
+*Understanding how modern institutions cause harm structurally rather than intentionally.*  
 
 ---
 
@@ -68,8 +68,9 @@ architecture failure, structural harm, federated governance, opacity, inquiry lo
 It reframes institutional failure as a product of design mismatch rather than intent.
 
 > 📡 Cross-references:
-> - [📡 Inquiry Convergence Theory](./📡_inquiry_convergence_theory.md) — convergence logic  
-> - [🧿 Targeting_Logic_Metadata_Signatures](../Metadata_Sabotage_Network/🧿_targeting_logic_metadata_signatures.md) — misclassification patterns  
+> 
+> - [📡 Inquiry Convergence Theory]  — convergence logic  
+> - [🧿 Targeting_Logic_Metadata_Signatures] — misclassification patterns  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-19_
