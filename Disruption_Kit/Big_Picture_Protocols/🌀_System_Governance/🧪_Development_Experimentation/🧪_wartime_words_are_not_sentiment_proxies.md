@@ -1,8 +1,12 @@
 # 🧪 A Theoretical Experiment That Cannot Succeed  
 **First created:** 2025-12-19 | **Last updated:** 2025-12-19  
-*Why language-proxy sentiment analysis collapses under wartime governance logics*
+*Why language-proxy sentiment analysis collapses under wartime governance logics.*
 
-<!--די וועלט איז אַ גרויסע און ס'איז זיך ניטאָ וווּ אַהינצוטאָן-->
+<!--
+
+די וועלט איז אַ גרויסע און ס'איז זיך ניטאָ וווּ אַהינצוטאָן.  
+
+-->
 
 ---
 
@@ -320,7 +324,15 @@ This experiment cannot be rescued by better modelling or larger samples.
 
 Its failure is **structural, legal, and political**.
 
-When wartime emergency logic is layered onto asymmetrical speech conditions, the experiment does not merely misread sentiment — it **manufactures legibility in service of power**.
+When wartime emergency logic is layered onto asymmetrical speech conditions, the experiment does not merely misread sentiment — it **manufactures legibility in service of power**.  
+
+---
+
+<!--  
+
+אַז מען זעצט אַ פֿייגעלע אין שטײַגעלע אַרײַן, ווייס מען ניט צי לאַכט עס צי וויינט עס.  
+
+-->
 
 ---
 
