@@ -1,6 +1,6 @@
-# 🧮 Provocation Capture — When Goading Becomes a Data-Generation Method  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*On the instrumental use of provocation and humiliation as a way of eliciting “authentic” data.*
+# 🫀 Provocation Capture — When Goading Becomes a Data-Generation Method  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-19  
+*On the instrumental use of provocation and humiliation as a way of eliciting “authentic” data.*  
 
 ---
 
@@ -63,7 +63,7 @@ Recognising that mechanism turns shame into evidence: it shows precisely how coe
 ---
 
 ## 🌌 Constellations  
-🧮 🧩 🧿 — systems analysis, repair, witness.
+🧮 🧩 🫀 🧿 — systems analysis, repair, witness.
 
 ## ✨ Stardust  
 provocation capture, coercive data generation, ethical breach, recognition signalling, dataset contamination, audit protocol, safeguarding
@@ -71,7 +71,7 @@ provocation capture, coercive data generation, ethical breach, recognition signa
 ---
 
 ## 🏮 Footer  
-*🧮 Provocation Capture — When Goading Becomes a Data-Generation Method* is a governance and ethics note of the **Polaris Protocol.**  
+*🫀 Provocation Capture — When Goading Becomes a Data-Generation Method* is a governance and ethics note of the **Polaris Protocol.**  
 It formalises the practice of analysing distress-derived data without consent as a structural failure of oversight and advocates immediate quarantine of affected material.
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-19_
