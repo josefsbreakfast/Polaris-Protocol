@@ -1,6 +1,6 @@
 # 🧮 Optimisation and the Fascism of Efficiency  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*How statistical clarity becomes authoritarian order.*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-19  
+*How statistical clarity becomes authoritarian order.*  
 
 ---
 
@@ -108,14 +108,15 @@ optimisation, efficiency culture, fascism, variance reduction, capitalism, autho
 ---
 
 ## 🏮 Footer  
-*Optimisation and the Fascism of Efficiency* is a living node of the Polaris Protocol.  
+*🧮 Optimisation and the Fascism of Efficiency* is a living node of the Polaris Protocol.  
 It analyses how unchecked optimisation reproduces authoritarian logic and how structural friction—uncertainty and accountability—keeps alignment human.  
 
-> 📡 Cross-references:  
-> - [🦠 Statistical Nightmare](../Disruption_Kit/Big_Picture_Protocols/🦠_statistical_nightmare.md) — coercion and optimisation ethics.  
-> - [⚖️ Accountability as Alignment](../Disruption_Kit/Big_Picture_Protocols/⚖️_accountability_as_alignment.md) — moral friction and justice logic.  
-> - [🌫️ Uncertainty Branch Logic](../Disruption_Kit/Big_Picture_Protocols/🌫️_uncertainty_branch_logic.md) — structural humility as safeguard.  
+> 📡 Cross-references:
+> 
+> - [🦠 Statistical Nightmare] — *coercion and optimisation ethics*  
+> - [⚖️ Accountability as Alignment] — *moral friction and justice logic*  
+> - [🌫️ Uncertainty Branch Logic] — *structural humility as safeguard*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-19_
