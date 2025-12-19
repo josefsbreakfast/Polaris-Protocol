@@ -1,6 +1,6 @@
 # 🧭 Data-Governance Swiss-Cheese Model — Case vs Role-Level Joins  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*Why your join logic decides who gets harmed.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-19  
+*Why your join logic decides who gets harmed.*  
 
 ---
 
@@ -94,11 +94,12 @@ join logic, case schema, role mapping, relational governance, containment archit
 *🧭 Data-Governance Swiss-Cheese Model — Case vs Role-Level Joins* is a living node of the Polaris Protocol.  
 It models how technical architecture produces ethical topology — and how to realign the join before it joins you.
 
-> 📡 Cross-references:  
-> - [🧩 Swiss-Cheese Failures — When Process Holes Align](../🧩_System_Governance/🧩_swiss_cheese_failures_when_process_holes_align.md)  
-> - [🧰 Cross-Agency Data Integrity — Role Directionality in Multi-Agency Panels](../⚖️_Legal_&_State_Governance/🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md)  
-> - [🧾 Data Lineage Review — How to Trace a Record’s Provenance](../🧩_System_Governance/🧾_data_lineage_review_how_to_trace_a_records_provenance.md)  
+> 📡 Cross-references:
+> 
+> - [🧩 Swiss-Cheese Failures — When Process Holes Align]  
+> - [🧰 Cross-Agency Data Integrity — Role Directionality in Multi-Agency Panels]  
+> - [🧾 Data Lineage Review — How to Trace a Record’s Provenance]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-19_
