@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 14:02:27 UTC_
+_Generated on 2025-12-19 23:04:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1924,6 +1924,20 @@ _Generated on 2025-12-19 14:02:27 UTC_
       - [`IMG_9542.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9542.png)
       - [`IMG_9543.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9543.png)
       - [`IMG_9544.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9544.png)
+      - [`IMG_9753.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9753.png)
+      - [`IMG_9754.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9754.png)
+      - [`IMG_9755.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9755.png)
+      - [`IMG_9756.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9756.png)
+      - [`IMG_9757.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9757.png)
+      - [`IMG_9758.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9758.png)
+      - [`IMG_9759.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9759.png)
+      - [`IMG_9760.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9760.png)
+      - [`IMG_9761.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9761.png)
+      - [`IMG_9762.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9762.png)
+      - [`IMG_9763.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9763.png)
+      - [`IMG_9764.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9764.png)
+      - [`IMG_9765.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9765.png)
+      - [`IMG_9766.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_9766.png)
       - [`Screenshot_2025-11-09_081845.png`](Disruption_Kit/Field_Logs/20251201_December_2025/Screenshot_2025-11-09_081845.png)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
