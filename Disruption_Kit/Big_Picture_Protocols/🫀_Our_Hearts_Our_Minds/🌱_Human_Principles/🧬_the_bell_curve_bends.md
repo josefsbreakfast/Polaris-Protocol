@@ -1,10 +1,10 @@
 # 🧬 Non-Linear Intelligence and Asynchrony — When the Bell Curve Bends  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-19  
 *At the high end of any curve, cognition stops behaving like the average it’s measured against.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Educational theory still tends to treat intelligence as a **linear gradient**: climb the curve and you simply get faster, broader, more efficient.  
 But past a certain point, people stop thinking like scaled-up versions of the mean.  
 Processing diverges, inhibition drops, perception widens, and ordinary schooling — built for standardisation — mistakes this for defect or disorder.
@@ -13,7 +13,7 @@ This node sketches the small collection of theories that acknowledge that curvat
 
 ---
 
-## 🧩 Theoretical Threads  
+## 🪡 Theoretical Threads  
 
 | Framework | Core Idea | Relevance to Divergent Cognition |
 |------------|------------|--------------------------------|
@@ -50,7 +50,7 @@ At the edge of the bell curve, “talent management” becomes containment unles
 
 ---
 
-## 🪞  Re-framing  
+## 🪞 Re-framing  
 
 - Exceptional cognition isn’t just “more ability”; it’s **different topology** — less hierarchical, more associative.  
 - Support means *contextual translation*, not acceleration.  
@@ -76,4 +76,4 @@ It summarises how psychology has only partly grasped the qualitative shifts that
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-19_
