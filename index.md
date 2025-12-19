@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:22:43 UTC_
+_Generated on 2025-12-19 01:23:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3462,6 +3462,7 @@ _Generated on 2025-12-19 01:22:43 UTC_
       - [**data/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/data/)
         - [`baseline_no_suppression_no_reciprocity.png`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/data/baseline_no_suppression_no_reciprocity.png)
         - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/data/deliberate_small_suppression_later_release_reciprocity_blowback.png)
+        - [`final_influence_comparisons.csv`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/data/final_influence_comparisons.csv)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)
       - [`🌪️_bureaucratic_escalation_rube_goldberg.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🌪️_bureaucratic_escalation_rube_goldberg.md)
       - [`🎙️_abe_and_digital_evidence_as_critical_failure_point.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🎙️_abe_and_digital_evidence_as_critical_failure_point.md)
@@ -3629,7 +3630,6 @@ _Generated on 2025-12-19 01:22:43 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
-    - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
     - [`last_8_timesteps_full_sim.csv`](Polaris_Nest/Git_Intake_Drawer/last_8_timesteps_full_sim.csv)
     - [`natcon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025.csv)
     - [`natcon_speakers_2023_2025_full.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025_full.csv)
