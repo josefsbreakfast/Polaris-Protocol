@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 06:29:15 UTC_
+_Generated on 2025-12-19 06:31:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3466,6 +3466,7 @@ _Generated on 2025-12-19 06:29:15 UTC_
       - [`🧩_why_the_machine_tags_high_friction_profiles.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_why_the_machine_tags_high_friction_profiles.md)
       - [`🧪_international_law_vs_safety_classifiers.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧪_international_law_vs_safety_classifiers.md)
       - [`🧪_testing_the_invisible_criteria.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧪_testing_the_invisible_criteria.md)
+      - [`🧬_gendered_inheritance_bias_in_synthetic_agents.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧬_gendered_inheritance_bias_in_synthetic_agents.md)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_empathy_risk_classifier_satire_maybe.yaml.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_empathy_risk_classifier_satire_maybe.yaml.md)
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
@@ -3734,7 +3735,6 @@ _Generated on 2025-12-19 06:29:15 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_gendered_inheritance_bias_in_synthetic_agents.md`](Polaris_Nest/Git_Intake_Drawer/🧬_gendered_inheritance_bias_in_synthetic_agents.md)
     - [`🧬_ghost_vector_synthetic_offspring.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ghost_vector_synthetic_offspring.md)
     - [`🧬_how_gossip_shapes_risk_flags.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_gossip_shapes_risk_flags.md)
     - [`🧬_how_institutions_misfold_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_institutions_misfold_data.md)
