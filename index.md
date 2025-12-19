@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:11:43 UTC_
+_Generated on 2025-12-19 01:16:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -579,6 +579,7 @@ _Generated on 2025-12-19 01:11:43 UTC_
         - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
         - [`📖_erased_archives_and_survival_bias.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
         - [`📜_blavatsky_case_study_cairo_ban.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_blavatsky_case_study_cairo_ban.md)
+        - [`📜_book_of_esther_foi_edition.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_book_of_esther_foi_edition.md)
         - [`📜_freedom_of_information_loopholes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_freedom_of_information_loopholes.md)
         - [`📜_teen_poetry_as_pretext.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_teen_poetry_as_pretext.md)
         - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
@@ -3625,7 +3626,6 @@ _Generated on 2025-12-19 01:11:43 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`baseline_no_suppression_no_reciprocity.png`](Polaris_Nest/Git_Intake_Drawer/baseline_no_suppression_no_reciprocity.png)
-    - [`book_of_esther_foi_edition.md`](Polaris_Nest/Git_Intake_Drawer/book_of_esther_foi_edition.md)
     - [`data_slip_narrative_spiral.md`](Polaris_Nest/Git_Intake_Drawer/data_slip_narrative_spiral.md)
     - [`deliberate_small_suppression_later_release_reciprocity_blowback.png`](Polaris_Nest/Git_Intake_Drawer/deliberate_small_suppression_later_release_reciprocity_blowback.png)
     - [`final_influence_comparisons.csv`](Polaris_Nest/Git_Intake_Drawer/final_influence_comparisons.csv)
