@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:34:36 UTC_
+_Generated on 2025-12-19 01:36:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3290,6 +3290,7 @@ _Generated on 2025-12-19 01:34:36 UTC_
       - [`🧬_centroid_collapse_mechanism.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_centroid_collapse_mechanism.md)
       - [`🧬_clone_multiplicity_knot_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_clone_multiplicity_knot_logic.md)
       - [`🧬_complaint_drift_and_twin_overcorrection.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_complaint_drift_and_twin_overcorrection.md)
+      - [`🧬_focus_group_of_one_failure_mode.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_focus_group_of_one_failure_mode.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
       - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
       - [`🪦_memetic_hauntology.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪦_memetic_hauntology.md)
@@ -3726,7 +3727,6 @@ _Generated on 2025-12-19 01:34:36 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_echo_scripts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_echo_scripts.md)
     - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
-    - [`🧬_focus_group_of_one_thick_of_it_failure_modes.md`](Polaris_Nest/Git_Intake_Drawer/🧬_focus_group_of_one_thick_of_it_failure_modes.md)
     - [`🧬_gendered_inheritance_bias_in_synthetic_agents.md`](Polaris_Nest/Git_Intake_Drawer/🧬_gendered_inheritance_bias_in_synthetic_agents.md)
     - [`🧬_ghost_vector_synthetic_offspring.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ghost_vector_synthetic_offspring.md)
     - [`🧬_harm_without_perpetrators_architecture_failure_model.md`](Polaris_Nest/Git_Intake_Drawer/🧬_harm_without_perpetrators_architecture_failure_model.md)
