@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:33:49 UTC_
+_Generated on 2025-12-19 07:35:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3397,6 +3397,7 @@ _Generated on 2025-12-19 07:33:49 UTC_
       - [`🧮_data_error_decay_table.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧮_data_error_decay_table.md)
       - [`🧮_dewey_decimal_and_the_ethics_of_order.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧮_dewey_decimal_and_the_ethics_of_order.md)
       - [`🧮_k_anonymity_data_integrity_and_re_identification_risk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧮_k_anonymity_data_integrity_and_re_identification_risk.md)
+      - [`🧮_pips_yellis_data_ecosystem_from_baseline_to_board_narrative.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧮_pips_yellis_data_ecosystem_from_baseline_to_board_narrative.md)
       - [`🧾_briefing_note_oversight_failure_triple_lock.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_briefing_note_oversight_failure_triple_lock.md)
       - [`🧾_twin_records_as_vulnerability.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_twin_records_as_vulnerability.md)
       - [`🧿_metadata_spin.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧿_metadata_spin.md)
@@ -3776,7 +3777,6 @@ _Generated on 2025-12-19 07:33:49 UTC_
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
-    - [`🧮_pips_yellis_data_ecosystem.md`](Polaris_Nest/Git_Intake_Drawer/🧮_pips_yellis_data_ecosystem.md)
     - [`🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md`](Polaris_Nest/Git_Intake_Drawer/🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md)
     - [`🧮_twinning_as_visibility_elevation.md`](Polaris_Nest/Git_Intake_Drawer/🧮_twinning_as_visibility_elevation.md)
     - [`🧯_emotional_misclassification_as_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧯_emotional_misclassification_as_radicalisation.md)
