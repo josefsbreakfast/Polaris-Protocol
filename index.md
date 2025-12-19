@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:36:17 UTC_
+_Generated on 2025-12-19 01:37:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1322,6 +1322,7 @@ _Generated on 2025-12-19 01:36:17 UTC_
         - [`🧩_the_recognition_event.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_the_recognition_event.md)
         - [`🧪_the_wall_tester_type.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧪_the_wall_tester_type.md)
         - [`🧫_the_default_on_being_unbroken.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧫_the_default_on_being_unbroken.md)
+        - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧬_therapeutic_resistance_as_acquired_immunity.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🩺_when_data_harm_becomes_physical_harm_frailty_node.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🩺_when_data_harm_becomes_physical_harm_frailty_node.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
@@ -3742,7 +3743,6 @@ _Generated on 2025-12-19 01:36:17 UTC_
     - [`🧬_proto_secret_police_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_proto_secret_police_architecture.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md`](Polaris_Nest/Git_Intake_Drawer/🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)
-    - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Polaris_Nest/Git_Intake_Drawer/🧬_therapeutic_resistance_as_acquired_immunity.md)
     - [`🧬_transparency_as_antigenic_defense.md`](Polaris_Nest/Git_Intake_Drawer/🧬_transparency_as_antigenic_defense.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
     - [`🧬_uk_feasibility_chain_animal_deradicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧬_uk_feasibility_chain_animal_deradicalisation.md)
