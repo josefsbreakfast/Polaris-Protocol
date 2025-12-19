@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:21:00 UTC_
+_Generated on 2025-12-19 01:22:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -908,7 +908,6 @@ _Generated on 2025-12-19 01:21:00 UTC_
         - [`🧾_mass_arrest_symbolic_processing_costs.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧾_mass_arrest_symbolic_processing_costs.md)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/README.md)
-        - [`baseline_no_suppression_no_reciprocity.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/baseline_no_suppression_no_reciprocity.png)
         - [`big_tech_bds_soi_triangle.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/big_tech_bds_soi_triangle.png)
         - [`big_tech_intra_industry_stakeholder_relations.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/big_tech_intra_industry_stakeholder_relations.png)
         - [`ceefax_watchlist_fixed.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/ceefax_watchlist_fixed.png)
@@ -3460,6 +3459,8 @@ _Generated on 2025-12-19 01:21:00 UTC_
       - [`🫠_projection_leak_signature.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫠_projection_leak_signature.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
+      - [**data/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/data/)
+        - [`baseline_no_suppression_no_reciprocity.png`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/data/baseline_no_suppression_no_reciprocity.png)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)
       - [`🌪️_bureaucratic_escalation_rube_goldberg.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🌪️_bureaucratic_escalation_rube_goldberg.md)
       - [`🎙️_abe_and_digital_evidence_as_critical_failure_point.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🎙️_abe_and_digital_evidence_as_critical_failure_point.md)
