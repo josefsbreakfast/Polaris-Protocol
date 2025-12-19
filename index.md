@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 02:28:07 UTC_
+_Generated on 2025-12-19 02:28:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3497,6 +3497,7 @@ _Generated on 2025-12-19 02:28:07 UTC_
       - [`🛰️_missing_speech_the_value_based_democracy_pattern.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛰️_missing_speech_the_value_based_democracy_pattern.md)
       - [`🛰️_seo_as_a_pressure_surface.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛰️_seo_as_a_pressure_surface.md)
       - [`🧪_r_and_d_as_silent_leakage_corridor.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧪_r_and_d_as_silent_leakage_corridor.md)
+      - [`🧬_echo_script.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧬_echo_script.md)
       - [`🧰_vendor_r_and_d_as_de_facto_declassification.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧰_vendor_r_and_d_as_de_facto_declassification.md)
       - [`🪅_platform_safe_zones_and_shadowbans.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪅_platform_safe_zones_and_shadowbans.md)
       - [`🪞_background_activity_fog.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪞_background_activity_fog.md)
@@ -3536,7 +3537,6 @@ _Generated on 2025-12-19 02:28:07 UTC_
       - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
-    - [`🧬_echo_script.md`](Metadata_Sabotage_Network/Suppression_Layers/🧬_echo_script.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
     - [`🀄_play_foia_moj_edition.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🀄_play_foia_moj_edition.png)
