@@ -1,6 +1,6 @@
 # 🧭 Regulating the Regulators — Oversight of Oversight  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*When accountability itself requires supervision.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-19  
+*When accountability itself requires supervision.*  
 
 ---
 
@@ -57,11 +57,12 @@ oversight, meta-regulation, accountability, governance recursion, audit pathways
 It dissects the recursive logic of accountability systems and proposes civic meta-regulation as a countermeasure to oversight capture.  
 This node belongs to the **🧿 Watch the Watchers** cluster within *Expression of Norms*, linking governance design to participatory transparency.
 
-> 📡 Cross-references:  
-> - [⚙️ Galactic Map of Archives](/Big_Picture_Protocols/🌀_System_Governance/⚙️_galactic_map_of_archives.md) — inter-system accountability structures  
-> - [💫 Containment Logic](/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md) — governance through procedural loops  
-> - [🐣 Canaries and Cassandras](/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐣_canaries_and_cassandras.md) — early warning systems in moral governance  
+> 📡 Cross-references:
+> 
+> - [⚙️ Galactic Map of Archives] — *inter-system accountability structures*  
+> - [💫 Containment Logic] — *governance through procedural loops*  
+> - [🐣 Canaries and Cassandras] — *early warning systems in moral governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-19_
