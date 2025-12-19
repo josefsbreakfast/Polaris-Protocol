@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:18:50 UTC_
+_Generated on 2025-12-19 07:20:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1346,6 +1346,7 @@ _Generated on 2025-12-19 07:18:50 UTC_
         - [`🧭_how_authoritarian_drift_feels_from_the_inside.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_how_authoritarian_drift_feels_from_the_inside.md)
         - [`🧭_signal_alignment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_signal_alignment.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
+        - [`🧭_why_survivors_see_the_full_picture.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_why_survivors_see_the_full_picture.md)
         - [`🩺_when_data_harm_becomes_physical_harm_frailty_node.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🩺_when_data_harm_becomes_physical_harm_frailty_node.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
@@ -3764,7 +3765,6 @@ _Generated on 2025-12-19 07:18:50 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_why_survivors_see_the_full_picture.md`](Polaris_Nest/Git_Intake_Drawer/🧭_why_survivors_see_the_full_picture.md)
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
