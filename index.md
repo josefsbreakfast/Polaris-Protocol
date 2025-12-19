@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:20:16 UTC_
+_Generated on 2025-12-19 07:23:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -335,6 +335,7 @@ _Generated on 2025-12-19 07:20:16 UTC_
         - [`🧭_pension_funds_as_containment_instruments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_pension_funds_as_containment_instruments.md)
         - [`🧭_regulating_the_regulators_oversight_of_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_regulating_the_regulators_oversight_of_oversight.md)
         - [`🧮_deepthought_datagov_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_deepthought_datagov_problem.md)
+        - [`🧮_the_unpaid_labour_of_verification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_the_unpaid_labour_of_verification.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🩹_pain_is_not_a_kpi.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_pain_is_not_a_kpi.md)
@@ -3768,7 +3769,6 @@ _Generated on 2025-12-19 07:20:16 UTC_
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
-    - [`🧮_data_dividend_unpaid_labour_of_verification.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_dividend_unpaid_labour_of_verification.md)
     - [`🧮_data_error_decay_table.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_error_decay_table.md)
     - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
     - [`🧮_environmental_grooming_ecosystems_1980s_2020s.md`](Polaris_Nest/Git_Intake_Drawer/🧮_environmental_grooming_ecosystems_1980s_2020s.md)
