@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 06:57:44 UTC_
+_Generated on 2025-12-19 06:59:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1337,6 +1337,7 @@ _Generated on 2025-12-19 06:57:44 UTC_
         - [`🧬_structural_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧬_structural_vulnerability.md)
         - [`🧬_the_bell_curve_bends.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧬_the_bell_curve_bends.md)
         - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧬_therapeutic_resistance_as_acquired_immunity.md)
+        - [`🧭_how_authoritarian_drift_feels_from_the_inside.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_how_authoritarian_drift_feels_from_the_inside.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🩺_when_data_harm_becomes_physical_harm_frailty_node.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🩺_when_data_harm_becomes_physical_harm_frailty_node.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
@@ -3752,7 +3753,6 @@ _Generated on 2025-12-19 06:57:44 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_how_authoritarian_drift_feels_from_the_inside.md`](Polaris_Nest/Git_Intake_Drawer/🧭_how_authoritarian_drift_feels_from_the_inside.md)
     - [`🧭_justice_data_ecosystem_map_2020_2025.md`](Polaris_Nest/Git_Intake_Drawer/🧭_justice_data_ecosystem_map_2020_2025.md)
     - [`🧭_leadership_management_and_moral_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_leadership_management_and_moral_containment.md)
     - [`🧭_pension_funds_as_containment_instruments.md`](Polaris_Nest/Git_Intake_Drawer/🧭_pension_funds_as_containment_instruments.md)
