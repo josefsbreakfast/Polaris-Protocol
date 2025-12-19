@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:17:24 UTC_
+_Generated on 2025-12-19 07:18:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2905,6 +2905,7 @@ _Generated on 2025-12-19 07:17:24 UTC_
       - [`🛰️_regulatory_adjacency_effects_on_delay_dynamics.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_regulatory_adjacency_effects_on_delay_dynamics.md)
       - [`🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md)
       - [`🧬_dark_basin_hack_for_hire_and_civic_surveillance.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
+      - [`🧭_when_to_enter_the_grey_zone.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧭_when_to_enter_the_grey_zone.md)
       - [`🧱_silence_stack_trace.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧱_silence_stack_trace.md)
       - [`🧾_sar_stonewalling_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧾_sar_stonewalling_as_containment.md)
       - [`🪁_contracts_that_colonise_memory.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪁_contracts_that_colonise_memory.md)
@@ -3763,7 +3764,6 @@ _Generated on 2025-12-19 07:17:24 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_when_to_enter_the_grey_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧭_when_to_enter_the_grey_zone.md)
     - [`🧭_why_survivors_see_the_full_picture.md`](Polaris_Nest/Git_Intake_Drawer/🧭_why_survivors_see_the_full_picture.md)
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
