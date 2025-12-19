@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 06:55:15 UTC_
+_Generated on 2025-12-19 06:57:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3378,6 +3378,7 @@ _Generated on 2025-12-19 06:55:15 UTC_
       - [`🧬_uk_twinned_estimates.csv`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_uk_twinned_estimates.csv)
       - [`🧬_untwinning_data.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_untwinning_data.md)
       - [`🧬_when_twins_meet.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_when_twins_meet.md)
+      - [`🧭_data_swiss_cheese_case_vs_role_level_joins.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧭_data_swiss_cheese_case_vs_role_level_joins.md)
       - [`🧾_briefing_note_oversight_failure_triple_lock.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_briefing_note_oversight_failure_triple_lock.md)
       - [`🧾_twin_records_as_vulnerability.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_twin_records_as_vulnerability.md)
       - [`🧿_metadata_spin.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧿_metadata_spin.md)
@@ -3751,7 +3752,6 @@ _Generated on 2025-12-19 06:55:15 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md`](Polaris_Nest/Git_Intake_Drawer/🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md)
     - [`🧭_how_authoritarian_drift_feels_from_the_inside.md`](Polaris_Nest/Git_Intake_Drawer/🧭_how_authoritarian_drift_feels_from_the_inside.md)
     - [`🧭_justice_data_ecosystem_map_2020_2025.md`](Polaris_Nest/Git_Intake_Drawer/🧭_justice_data_ecosystem_map_2020_2025.md)
     - [`🧭_leadership_management_and_moral_containment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_leadership_management_and_moral_containment.md)
