@@ -1,6 +1,6 @@
 # 🧮 Data-Error Decay Table  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*Tracking how informational integrity erodes over time.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-19  
+*Tracking how informational integrity erodes over time.*  
 
 ---
 
@@ -97,11 +97,12 @@ data decay, error propagation, lineage, audit frequency, half-life of misinforma
 *🧮 Data-Error Decay Table* is a living node of the Polaris Protocol.  
 It defines how mistakes age faster than accountability — and how to design decay-resistant governance.
 
-> 📡 Cross-references:  
-> - [🧾 Data Lineage Review — How to Trace a Record’s Provenance](../🧩_System_Governance/🧾_data_lineage_review_how_to_trace_a_records_provenance.md)  
-> - [🪙 Token Integrity Audit — How to Check for Pseudonym Drift](../🧩_System_Governance/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)  
-> - [🧩 Swiss-Cheese Failures — When Process Holes Align](../🧩_System_Governance/🧩_swiss_cheese_failures_when_process_holes_align.md)  
+> 📡 Cross-references:
+> 
+> - [🧾 Data Lineage Review — How to Trace a Record’s Provenance]  
+> - [🪙 Token Integrity Audit — How to Check for Pseudonym Drift]  
+> - [🧩 Swiss-Cheese Failures — When Process Holes Align]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-19_
