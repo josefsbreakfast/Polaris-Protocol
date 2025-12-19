@@ -1,6 +1,6 @@
 # 🧬 Metadata-Driven Racism  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*How digital traces, behavioural signals, and algorithmic heuristics misclassify racialised communities inside Prevent/Channel’s pre-crime logic.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-19  
+*How digital traces, behavioural signals, and algorithmic heuristics misclassify racialised communities inside Prevent/Channel’s pre-crime logic.*  
 
 ---
 
@@ -192,14 +192,12 @@ metadata • Prevent • Channel • algorithmic bias • racialisation • pre-
 ---
 
 ## 🪐 Footer  
-*🏮 Metadata-Driven Racism* is a data-analysis node of the Polaris Protocol.  
+*🧬 Metadata-Driven Racism* is a data-analysis node of the Polaris Protocol.  
 It explains how digital traces and behavioural metadata become racially coded risk signals inside pre-crime systems, with disproportionate impacts on marginalised communities.
 
-> 📡 **Cross-references:**  
-> - [🔮 House Style](./🔮_house_style.md)  
-> - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Where to Go](./🏮_where_to_go.md)
+> 📡 Cross-references:  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-19_
