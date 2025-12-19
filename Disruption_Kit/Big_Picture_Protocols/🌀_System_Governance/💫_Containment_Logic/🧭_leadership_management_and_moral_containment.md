@@ -1,6 +1,6 @@
 # 🧭 Leadership, Management & Moral Containment  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-10  
-*Why Polaris studies operational style even when the outcome is ethically fraught.*
+**First created:** 2025-11-10 | **Last updated:** 2025-12-19  
+*Why Polaris studies operational style even when the outcome is ethically fraught.*  
 
 ---
 
@@ -45,13 +45,14 @@ leadership analysis, management ethics, containment theory, authoritarian drift,
 ---
 
 ## 🏮 Footer  
-*Leadership, Management & Moral Containment* is a framing node of the Polaris Protocol.  
+*🧭 Leadership, Management & Moral Containment* is a framing node of the Polaris Protocol.  
 It explains why ethically ambiguous examples remain valuable: they show how operational design shapes the moral trajectory of systems.  
 
-> 📡 Cross-references:  
-> – [☢️ The Empathy Project](../☢️_the_empathy_project.md) — freedom, containment, and managerial architecture  
-> – [🧩 Algorithmic Conscience](../🧩_algorithmic_conscience.md) — when systems enforce ethics through evidence  
+> 📡 Cross-references:
+> 
+> – [☢️ The Empathy Project] — *freedom, containment, and managerial architecture*  
+> – [🧩 Algorithmic Conscience] — *when systems enforce ethics through evidence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-10_
+_Last updated: 2025-12-19_
