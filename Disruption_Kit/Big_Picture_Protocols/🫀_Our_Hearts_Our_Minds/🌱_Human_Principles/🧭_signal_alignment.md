@@ -1,6 +1,6 @@
 # 🧭 Signal Alignment — Choosing Which Stream to Amplify  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*Selective tuning among competing data feeds.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-19  
+*Selective tuning among competing data feeds.*  
 
 ---
 
@@ -83,11 +83,12 @@ signal alignment, data streams, coherence, tuning, bandwidth management, noise r
 *🧭 Signal Alignment — Choosing Which Stream to Amplify* is a living node of the Polaris Protocol.  
 It outlines adaptive tuning practices for maintaining coherence across competing data environments and forms the orienting layer beneath all signal-management strategies.  
 
-> 📡 Cross-references:  
-> – [🧬 Competitive Binding — When the Older Signal Has Resources](./🧬_competitive_binding_when_the_older_signal_has_resources.md)  
-> – [🧬 Selective Permeability — Navigating Power-Weighted Signals Online](./🧬_selective_permeability_navigating_power-weighted_signals_online.md)  
-> – [🌪 Field Conditioning — Rewriting the Medium of Influence](./🌪_field_conditioning_rewriting_the_medium_of_influence.md)
+> 📡 Cross-references:
+> 
+> – [🧬 Competitive Binding — When the Older Signal Has Resources]  
+> – [🧬 Selective Permeability — Navigating Power-Weighted Signals Online]  
+> – [🌪 Field Conditioning — Rewriting the Medium of Influence]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-19_
