@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:37:30 UTC_
+_Generated on 2025-12-19 01:38:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3049,6 +3049,7 @@ _Generated on 2025-12-19 01:37:30 UTC_
       - [`🧩_how_precrime_systems_create_crises.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_how_precrime_systems_create_crises.md)
       - [`🧩_policy_capture_quilliam_ctsa_2015.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_policy_capture_quilliam_ctsa_2015.md)
       - [`🧩_the_neurodivergence_misread.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_the_neurodivergence_misread.md)
+      - [`🧬_proto_secret_police_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_proto_secret_police_architecture.md)
       - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
       - [`🧯_prevent_as_a_political_atomisation_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧯_prevent_as_a_political_atomisation_engine.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
@@ -3740,7 +3741,6 @@ _Generated on 2025-12-19 01:37:30 UTC_
     - [`🧬_multiyear_pipeline_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_multiyear_pipeline_architecture.md)
     - [`🧬_nonlinear_intelligence_and_asynchrony.md`](Polaris_Nest/Git_Intake_Drawer/🧬_nonlinear_intelligence_and_asynchrony.md)
     - [`🧬_post_digital_data_world.md`](Polaris_Nest/Git_Intake_Drawer/🧬_post_digital_data_world.md)
-    - [`🧬_proto_secret_police_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_proto_secret_police_architecture.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md`](Polaris_Nest/Git_Intake_Drawer/🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)
     - [`🧬_transparency_as_antigenic_defense.md`](Polaris_Nest/Git_Intake_Drawer/🧬_transparency_as_antigenic_defense.md)
