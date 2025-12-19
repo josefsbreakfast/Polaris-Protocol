@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 06:41:24 UTC_
+_Generated on 2025-12-19 06:42:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3060,6 +3060,7 @@ _Generated on 2025-12-19 06:41:24 UTC_
       - [`🧩_how_precrime_systems_create_crises.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_how_precrime_systems_create_crises.md)
       - [`🧩_policy_capture_quilliam_ctsa_2015.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_policy_capture_quilliam_ctsa_2015.md)
       - [`🧩_the_neurodivergence_misread.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_the_neurodivergence_misread.md)
+      - [`🧬_metadata_driven_racism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_metadata_driven_racism.md)
       - [`🧬_proto_secret_police_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_proto_secret_police_architecture.md)
       - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
       - [`🧯_prevent_as_a_political_atomisation_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧯_prevent_as_a_political_atomisation_engine.md)
@@ -3740,7 +3741,6 @@ _Generated on 2025-12-19 06:41:24 UTC_
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
-    - [`🧬_metadata_driven_racism.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_driven_racism.md)
     - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
     - [`🧬_post_digital_data_world.md`](Polaris_Nest/Git_Intake_Drawer/🧬_post_digital_data_world.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
