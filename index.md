@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:37:20 UTC_
+_Generated on 2025-12-19 07:39:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3389,6 +3389,7 @@ _Generated on 2025-12-19 07:37:20 UTC_
       - [`🧬_system_rupture_log.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.md)
       - [`🧬_system_rupture_log.yaml`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_system_rupture_log.yaml)
       - [`🧬_the_invisible_audit_gap.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_the_invisible_audit_gap.md)
+      - [`🧬_twinning_as_visibility_elevation.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_twinning_as_visibility_elevation.md)
       - [`🧬_uk_twinned_estimates.csv`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_uk_twinned_estimates.csv)
       - [`🧬_untwinning_data.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_untwinning_data.md)
       - [`🧬_when_twins_meet.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_when_twins_meet.md)
@@ -3778,7 +3779,6 @@ _Generated on 2025-12-19 07:37:20 UTC_
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
-    - [`🧮_twinning_as_visibility_elevation.md`](Polaris_Nest/Git_Intake_Drawer/🧮_twinning_as_visibility_elevation.md)
     - [`🧯_emotional_misclassification_as_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧯_emotional_misclassification_as_radicalisation.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧯_signs_your_brain_is_tired_because_society_is_batshit.md`](Polaris_Nest/Git_Intake_Drawer/🧯_signs_your_brain_is_tired_because_society_is_batshit.md)
