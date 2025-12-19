@@ -1,6 +1,6 @@
 # 🧭 When to Enter the Grey Zone  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-05  
-*A tactical field node: decision logic, thresholds and harms for organisations that consider outsourcing covert collection or suppression services ("grey zone" providers such as hack‑for‑hire, deep‑ops, reputation lawfare).*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-19  
+*A tactical field node: decision logic, thresholds and harms for organisations that consider outsourcing covert collection or suppression services ("grey zone" providers such as hack‑for‑hire, deep‑ops, reputation lawfare).*  
 
 ---
 
@@ -140,4 +140,4 @@ grey zone, hack-for-hire, cut-out, lawfare, outsourced coercion, decision thresh
 ## 🏮 Footer
 This node is tactical — designed to help organisations think like both clients and defenders. It is not an instruction manual for wrongdoing. Use for analysis, oversight and defensive planning.
 
-_Last updated: 2025-11-05_
+_Last updated: 2025-12-19_
