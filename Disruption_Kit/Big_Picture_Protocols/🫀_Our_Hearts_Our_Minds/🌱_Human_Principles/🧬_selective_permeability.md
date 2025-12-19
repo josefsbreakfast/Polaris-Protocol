@@ -1,6 +1,6 @@
 # 🧬 Selective Permeability — Navigating Power-Weighted Signals Online  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*Don’t out-power the system; re-gate the flow.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-19  
+*Don’t out-power the system; re-gate the flow.*  
 
 ---
 
@@ -86,11 +86,12 @@ selective permeability, online boundaries, power asymmetry, digital hygiene, gat
 *🧬 Selective Permeability — Navigating Power-Weighted Signals Online* is a living node of the Polaris Protocol.  
 It defines adaptive boundary mechanics for maintaining coherence under asymmetric digital power.  
 
-> 📡 Cross-references:  
-> – [🧬 Signal Steering — Downstream Tactics for Power-Weighted Inputs](./🧬_signal_steering_downstream_tactics_for_power-weighted_inputs.md)  
-> – [🌪 Field Conditioning — Rewriting the Medium of Influence](./🌪_field_conditioning_rewriting_the_medium_of_influence.md)  
-> – [🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting](./🌀_chaff_signature_confusion_for_power-weighted_targeting.md)
+> 📡 Cross-references:
+> 
+> – [🧬 Signal Steering — Downstream Tactics for Power-Weighted Inputs]  
+> – [🌪 Field Conditioning — Rewriting the Medium of Influence]  
+> – [🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-19_
