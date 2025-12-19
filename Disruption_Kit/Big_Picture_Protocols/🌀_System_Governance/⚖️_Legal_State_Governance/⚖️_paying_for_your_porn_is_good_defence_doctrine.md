@@ -164,7 +164,7 @@ This is precisely the category of data that becomes dangerous under **digital ID
 
 ---
 
-### 🏛️ Identity Is Not Stored — It Is Assembled
+#### 🏛️ Identity Is Not Stored — It Is Assembled
 
 Digital ID systems are frequently defended on the basis that:
 - identity verification is separate,
@@ -185,7 +185,7 @@ It **re-arms the past**.
 
 ---
 
-### 🦤 The Vendor Escape Clause
+#### 🦤 The Vendor Escape Clause
 
 The incident also illustrates a growing governance pattern:
 
@@ -206,7 +206,7 @@ When it leaks, no one is fully responsible.
 
 ---
 
-### 🍑 Consent, Payment, and the Illusion of Safety
+#### 🍑 Consent, Payment, and the Illusion of Safety
 
 The irony is sharp.
 
@@ -231,7 +231,7 @@ Surveillant infrastructure did.
 
 ---
 
-### 🧠 Why This Is a Defence Issue, Not a Scandal
+#### 🧠 Why This Is a Defence Issue, Not a Scandal
 
 Identity-linked intimate data is:
 - coercible,
@@ -253,7 +253,7 @@ He wakes when the song stops.
 
 ---
 
-### 🔐 OSA, Age Verification, and the Expansion of Blast Radius
+#### 🔐 OSA, Age Verification, and the Expansion of Blast Radius
 
 The UK Online Safety Act (OSA) intensifies — rather than resolves — the structural risks exposed by the Pornhub third-party vendor breach.
 
@@ -274,7 +274,7 @@ The OSA’s expansion of age-verification into intimate domains therefore formal
 
 ---
 
-### 📛 Age Verification Does Not Remove Identity — It Repositions It
+#### 📛 Age Verification Does Not Remove Identity — It Repositions It
 
 OSA-compliant age verification systems typically operate through:
 - digital ID wallets,
@@ -298,7 +298,7 @@ It is **distributed across vendors**.
 
 ---
 
-### 🧯 OSA Creates Incentives to Retain, Not Reduce, Data
+#### 🧯 OSA Creates Incentives to Retain, Not Reduce, Data
 
 The OSA creates a compliance paradox.
 
@@ -319,7 +319,7 @@ In other words:
 
 ---
 
-### 🧨 When Breaches Occur, Harm Is Reclassified — Not Reduced
+#### 🧨 When Breaches Occur, Harm Is Reclassified — Not Reduced
 
 When analytics or vendor breaches occur under an OSA regime:
 - exposure is no longer merely reputational,
@@ -337,7 +337,7 @@ The individual absorbs the risk.
 
 ---
 
-### ⚖️ The Missing Duty: Analytics Minimisation
+#### ⚖️ The Missing Duty: Analytics Minimisation
 
 Notably absent from OSA enforcement priorities:
 - strict limits on analytics exhaust,
@@ -355,7 +355,7 @@ and behaviour as monetisable surplus.
 
 ---
 
-### 🕸️ Defence Implication
+#### 🕸️ Defence Implication
 
 A state that mandates identity checks for intimate behaviour
 while tolerating vendor-distributed surveillance
@@ -396,7 +396,7 @@ The risk emerged from **visibility without protection**, silence without support
 
 ---
 
-### 🚫 “Just Don’t Have Sex” Has Never Been a Security Strategy
+#### 🏵️ “Just Don’t Have Sex” Has Never Been a Security Strategy
 
 The post-Profumo response was not to abolish sex.
 It was to acknowledge that:
@@ -410,7 +410,7 @@ it increases harm.
 
 ---
 
-### 🔁 Digital Continuity, Not Digital Exception
+#### 🌿 Digital Continuity, Not Digital Exception
 
 What digital systems change is not the existence of sexual risk, but its **scale, persistence, and portability**.
 
@@ -429,7 +429,7 @@ Only the blast radius has grown.
 
 ---
 
-### 🛡️ Governance Implication
+#### 🔥 Governance Implication
 
 States that respond to sexual risk by:
 - increasing surveillance,
