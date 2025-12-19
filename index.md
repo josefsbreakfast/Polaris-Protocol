@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:35:13 UTC_
+_Generated on 2025-12-19 07:37:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3511,6 +3511,7 @@ _Generated on 2025-12-19 07:35:13 UTC_
       - [`🪼_racialised_dual_attribution.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_racialised_dual_attribution.md)
       - [`🪼_when_data_pretends_to_be_meaning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_when_data_pretends_to_be_meaning.md)
       - [`🪽_those_you_are_god_videos.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪽_those_you_are_god_videos.md)
+      - [`🫀_provocation_capture.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫀_provocation_capture.md)
       - [`🫠_projection_leak_signature.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫠_projection_leak_signature.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
@@ -3777,7 +3778,6 @@ _Generated on 2025-12-19 07:35:13 UTC_
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
-    - [`🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md`](Polaris_Nest/Git_Intake_Drawer/🧮_provocation_capture_when_goading_becomes_a_data_generation_method.md)
     - [`🧮_twinning_as_visibility_elevation.md`](Polaris_Nest/Git_Intake_Drawer/🧮_twinning_as_visibility_elevation.md)
     - [`🧯_emotional_misclassification_as_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧯_emotional_misclassification_as_radicalisation.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
