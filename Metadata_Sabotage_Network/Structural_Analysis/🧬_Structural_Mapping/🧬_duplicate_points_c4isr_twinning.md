@@ -1,6 +1,6 @@
 # 🛰️ Duplicate-Point Deconfliction — Why Systems Route Around “Two of You”  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How C4ISR-style maths treats duplicate identities as collision objects — and why civilian systems inherit the same behaviour.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-19  
+*How C4ISR-style maths treats duplicate identities as collision objects — and why civilian systems inherit the same behaviour.*  
 
 ---
 
@@ -221,7 +221,7 @@ Once the conflict resolves, correspondence starts working again.
 ---
 
 ## 🌌 Constellations  
-🛰️ 🧩 🧠 ⚙️ 🕸️ — identity-space geometry, deconfliction logic, pattern recognition, inherited architecture, ghost-track diagnostics.
+🛰️ 🧩 🧠 🧬 ⚙️ 🕸️ — identity-space geometry, deconfliction logic, pattern recognition, inherited architecture, ghost-track diagnostics.
 
 ---
 
@@ -231,14 +231,13 @@ duplicate identity, deconfliction, c4isr logic, ghost track, telecom quarantine,
 ---
 
 ## 🏮 Footer  
-*🛰️ Duplicate-Point Deconfliction — Why Systems Route Around “Two of You”* is a diagnostic node of the **Polaris Protocol**, showing how C4ISR-derived logic shapes civilian administrative failures when identity trails collide.  
+*🧬 Duplicate-Point Deconfliction — Why Systems Route Around “Two of You”* is a diagnostic node of the **Polaris Protocol**, showing how C4ISR-derived logic shapes civilian administrative failures when identity trails collide.  
 It explains the mathematical basis of routing anomalies that appear as suppression, miscommunication, or chaotic multi-agency behaviour.
 
 > 📡 Cross-references:
-> - [🕸️ Systems Failure Analysis — Cross-Agency Architecture Collapse](./🕸️_systems_failure_analysis.md)  
-> - [🧼 Metadata Hygiene](../Disruption_Kit/Survivor_Tools/)  
-> - [🛰️ Metadata Sabotage Network](../Metadata_Sabotage_Network/)
+> 
+> - [🕸️ Systems Failure Analysis — Cross-Agency Architecture Collapse]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-12-19_
