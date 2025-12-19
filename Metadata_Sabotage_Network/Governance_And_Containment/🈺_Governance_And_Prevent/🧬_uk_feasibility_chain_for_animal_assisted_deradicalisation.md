@@ -1,6 +1,6 @@
 # 🧬 UK Feasibility Chain for Animal-Assisted Deradicalisation  
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
-*A systems-governance analysis of how animal-assisted stabilisation could be (mis)perceived as “deradicalisation” in the UK — and the narrow, health-led feasibility chain in which such work can legitimately occur.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-19  
+*A systems-governance analysis of how animal-assisted stabilisation could be (mis)perceived as “deradicalisation” in the UK — and the narrow, health-led feasibility chain in which such work can legitimately occur.*  
 
 ---
 
@@ -180,7 +180,7 @@ AAT feasibility, vulnerability pathways, trauma stabilisation, VE adjacency, saf
 ---
 
 ## 🏮 Footer  
-*UK Feasibility Chain for Animal-Assisted Deradicalisation* maps the only lawful pathways through which therapeutic animal-assisted stabilisation might appear near VE vulnerability cases.  
+*🧬 UK Feasibility Chain for Animal-Assisted Deradicalisation* maps the only lawful pathways through which therapeutic animal-assisted stabilisation might appear near VE vulnerability cases.  
 It clarifies adjacency without endorsing any CT interpretation.
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-19_
