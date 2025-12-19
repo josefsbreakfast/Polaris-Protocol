@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:43:04 UTC_
+_Generated on 2025-12-19 02:25:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -982,6 +982,7 @@ _Generated on 2025-12-19 01:43:04 UTC_
         - [`🧩_great_replacement_as_multigroup_elimination_myth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_great_replacement_as_multigroup_elimination_myth.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
         - [`🧬_affective_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_affective_infrastructure.md)
+        - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
         - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
         - [`🪞_gitmo_as_western_moral_rupture.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_gitmo_as_western_moral_rupture.md)
@@ -3731,7 +3732,6 @@ _Generated on 2025-12-19 01:43:04 UTC_
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_echo_scripts.md`](Polaris_Nest/Git_Intake_Drawer/🧬_echo_scripts.md)
-    - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
     - [`🧬_gendered_inheritance_bias_in_synthetic_agents.md`](Polaris_Nest/Git_Intake_Drawer/🧬_gendered_inheritance_bias_in_synthetic_agents.md)
     - [`🧬_ghost_vector_synthetic_offspring.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ghost_vector_synthetic_offspring.md)
     - [`🧬_how_gossip_shapes_risk_flags.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_gossip_shapes_risk_flags.md)
