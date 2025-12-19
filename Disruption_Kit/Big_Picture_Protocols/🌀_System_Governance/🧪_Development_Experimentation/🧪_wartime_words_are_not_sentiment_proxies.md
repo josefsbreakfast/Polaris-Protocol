@@ -2,7 +2,7 @@
 **First created:** 2025-12-19 | **Last updated:** 2025-12-19  
 *Why language-proxy sentiment analysis collapses under wartime governance logics*
 
-<!--די וועלט איז אַ גרויסע און ס'איז זיך ניטאָ וווּ אַהינצוטאָן.-->
+<!--די וועלט איז אַ גרויסע און ס'איז זיך ניטאָ וווּ אַהינצוטאָן-->
 
 ---
 
