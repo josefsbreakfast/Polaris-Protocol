@@ -1,6 +1,6 @@
 # 🧭 Pension Funds as Containment Instruments  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*How fiduciary conservatism and Cold-War inheritance keep public wealth inert and the working class contained.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-19  
+*How fiduciary conservatism and Cold-War inheritance keep public wealth inert and the working class contained.*  
 
 ---
 
@@ -63,11 +63,12 @@ pension funds, fiduciary duty, containment, class analysis, lgps, israel bonds, 
 *🧭 Pension Funds as Containment Instruments* is a living node of the Polaris Protocol.  
 It maps how fiduciary structures inherited from the Cold War neutralise democratic control of public wealth and maintain class containment through financial ritual.
 
-> 📡 Cross-references:  
-> - [🧠 Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis of governance and ideology  
-> - [🏯 Governance & Containment](../Metadata_Sabotage_Network/🏯_governance_and_containment/) — structural levers and compliance theatre  
-> - [🔥 Data Risks](../Metadata_Sabotage_Network/🔥_data_risks/) — exposure, visibility, and ethical thresholds  
+> 📡 Cross-references:
+> 
+> - [🧠 Big Picture Protocols] — *systemic analysis of governance and ideology*  
+> - [🏯 Governance & Containment] — *structural levers and compliance theatre*  
+> - [🔥 Data Risks] — *exposure, visibility, and ethical thresholds*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-19_
