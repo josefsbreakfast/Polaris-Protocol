@@ -1,6 +1,5 @@
-# 🧮 Twinning as Visibility Elevation
-**First created:** 2025-11-12 | **Status:** Draft — Stub Node
-*Authored by Polaris Systems & Governance Working Group*
+# 🧬 Twinning as Visibility Elevation
+**First created:** 2025-11-12 | **Last updated:** 2025-12-19  
 
 ---
 
@@ -16,3 +15,5 @@ Explores how deliberate twinning of datasets or identities can elevate one recor
 
 ## 🏮 Footer
 *Stub placeholder — expand in Polaris Protocol main archive.*
+
+_Last updated: 2025-12-19_
