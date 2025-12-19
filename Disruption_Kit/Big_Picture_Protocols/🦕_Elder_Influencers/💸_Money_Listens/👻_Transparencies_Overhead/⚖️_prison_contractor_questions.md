@@ -1,5 +1,3 @@
-Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/
-
 # ⚖️ Prison Contractor Questions
 **First created:** 2025-12-17 | **Last updated:** 2025-12-19  
 *Key governance questions raised when medical access in custody requires extraordinary external intervention.*
