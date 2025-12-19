@@ -1,6 +1,6 @@
 # 🧬 Monsters of the Machine  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
-*On the unintended children of bureaucracy and code.*
+**First created:** 2025-11-04 | **Last updated:** 2025-12-19  
+*On the unintended children of bureaucracy and code.*  
 
 ---
 
@@ -70,13 +70,14 @@ bureaucracy, empathy, automation, compliance, humanism, tenderness, moral repair
 
 ## 🏮 Footer  
 
-*Monsters of the Machine* is a living node of the Polaris Protocol.  
+*🧬 Monsters of the Machine* is a living node of the Polaris Protocol.  
 It reflects on the human temperament formed by systems of compliance and the sensibilities that refuse to let that temperament devour the world.  
 
-> 📡 Cross-references:  
-> - [🎪 When the Armour Cracks](./🎪_when_the_armour_cracks.md) — containment collapse and the return of humanity  
-> - [⚖️ Retrospective Law in a Prospective World](./⚖️_retrospective_law_in_a_prospective_world.md) — accountability lag  
+> 📡 Cross-references:
+> 
+> - [🎪 When the Armour Cracks] — containment collapse and the return of humanity  
+> - [⚖️ Retrospective Law in a Prospective World] — accountability lag  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2025-12-19_
