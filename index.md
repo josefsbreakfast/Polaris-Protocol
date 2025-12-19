@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:38:53 UTC_
+_Generated on 2025-12-19 01:40:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -324,6 +324,7 @@ _Generated on 2025-12-19 01:38:53 UTC_
         - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
         - [`🧬_two_sided_dependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_two_sided_dependency.md)
         - [`🧭_data_slip_to_narrative_spiral.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_data_slip_to_narrative_spiral.md)
+        - [`🧮_deepthought_datagov_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_deepthought_datagov_problem.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🩹_pain_is_not_a_kpi.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_pain_is_not_a_kpi.md)
@@ -3768,7 +3769,6 @@ _Generated on 2025-12-19 01:38:53 UTC_
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_data_dividend_unpaid_labour_of_verification.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_dividend_unpaid_labour_of_verification.md)
     - [`🧮_data_error_decay_table.md`](Polaris_Nest/Git_Intake_Drawer/🧮_data_error_decay_table.md)
-    - [`🧮_deepthought_datagov_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧮_deepthought_datagov_problem.md)
     - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
     - [`🧮_environmental_grooming_ecosystems_1980s_2020s.md`](Polaris_Nest/Git_Intake_Drawer/🧮_environmental_grooming_ecosystems_1980s_2020s.md)
     - [`🧮_focus_group_of_one.md`](Polaris_Nest/Git_Intake_Drawer/🧮_focus_group_of_one.md)
