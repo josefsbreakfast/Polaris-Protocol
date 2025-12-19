@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 02:31:54 UTC_
+_Generated on 2025-12-19 03:56:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -98,6 +98,7 @@ _Generated on 2025-12-19 02:31:54 UTC_
         - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
         - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)
         - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
+        - [`⚖️_courts_as_sites_of_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_courts_as_sites_of_harm.md)
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
         - [`⚖️_due_diligence_as_moral_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_due_diligence_as_moral_defence.md)
         - [`⚖️_harm_reduction_vs_adversarial_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md)
@@ -3650,7 +3651,6 @@ _Generated on 2025-12-19 02:31:54 UTC_
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚖️_courts_as_sites_of_harm.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_courts_as_sites_of_harm.md)
     - [`⚖️_prison_contractor_questions.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_prison_contractor_questions.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
