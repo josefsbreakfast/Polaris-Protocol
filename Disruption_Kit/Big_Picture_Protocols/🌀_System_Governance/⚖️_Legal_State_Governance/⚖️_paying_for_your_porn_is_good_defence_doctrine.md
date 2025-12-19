@@ -4,8 +4,6 @@
 
 > *Or: British men, once again, being undone by their love of bossy women.*  
 
-<!--British men, once again, allowing their unacknowledged desires to create a global security crisis.
-Typical Thursday.-->
 ---
 
 ## 🛰️ Orientation  
@@ -376,7 +374,90 @@ Paying for porn affirms consent.
 Age verification affirms legality.
 Only **data minimisation affirms safety**.
 
-Without it, the defence doctrine collapses under its own paperwork.
+Without it, the defence doctrine collapses under its own paperwork.  
+
+---
+
+## 🕰️ The Profumo Lesson: This Is Not New
+
+The Profumo affair remains one of the clearest historical demonstrations that **sexual relationships become security risks not because sex exists, but because secrecy, asymmetry, and power exist**.
+
+In the early 1960s:
+- a Cabinet minister,
+- a consensual sexual relationship,
+- and overlapping social networks
+were sufficient to destabilise government and expose intelligence vulnerability.
+
+No hacking was required.
+No digital systems were involved.
+No wrongdoing needed to be invented.
+
+The risk emerged from **visibility without protection**, silence without support, and a political culture that treated sex as shameful rather than human.
+
+---
+
+### 🚫 “Just Don’t Have Sex” Has Never Been a Security Strategy
+
+The post-Profumo response was not to abolish sex.
+It was to acknowledge that:
+- abstinence is not realistic,
+- secrecy magnifies leverage,
+- and moralising intimacy does not prevent compromise.
+
+Relying on “just don’t have sex” as a safeguard has the same empirical record as abstinence-only sex education:
+it does not reduce behaviour,
+it increases harm.
+
+---
+
+### 🔁 Digital Continuity, Not Digital Exception
+
+What digital systems change is not the existence of sexual risk, but its **scale, persistence, and portability**.
+
+Where Profumo involved:
+- a handful of people,
+- a narrow social circle,
+- and time-limited exposure,
+
+digital identity, age-verification, and analytics create:
+- permanent records,
+- vendor-distributed copies,
+- and civilian-scale exposure.
+
+The underlying dynamic is unchanged.
+Only the blast radius has grown.
+
+---
+
+### 🛡️ Governance Implication
+
+States that respond to sexual risk by:
+- increasing surveillance,
+- enforcing identity checks,
+- and moralising behaviour
+
+repeat the same error in more efficient form.
+
+History shows that **reducing stigma and minimising records** protects institutions better than pretending desire can be legislated away.
+
+Security has never depended on purity.
+It has always depended on **consent without leverage**.  
+
+---
+
+## 🌈 Conclusion: Consent Is the Defence, Surveillance Is the Risk
+
+Across eras — from Profumo to Grindr to Pornhub under the OSA — the pattern is consistent: sexual behaviour itself is not the security risk; **recorded, retained, and asymmetrically weaponisable sexual data is**.  
+States that respond to this reality by moralising intimacy or expanding surveillance repeat the same failed strategy, only at greater scale and speed.
+
+“Just don’t have sex” has never been a viable defence doctrine.  
+Neither is “just trust the system.”
+
+History shows that institutions are stabilised not by abstinence or purity, but by **reducing leverage**: minimising records, limiting retention, and aligning consent with compensation rather than surveillance.  
+Digital identity, age verification, and safety law that ignore this lesson do not protect society — they manufacture coercive surfaces and call them safeguards.
+
+A nation secure in its consent practices is harder to blackmail, harder to radicalise, and harder to destabilise.  
+A nation that confuses visibility with safety will always be vulnerable — no matter how loudly it sings.
 
 ---
 
