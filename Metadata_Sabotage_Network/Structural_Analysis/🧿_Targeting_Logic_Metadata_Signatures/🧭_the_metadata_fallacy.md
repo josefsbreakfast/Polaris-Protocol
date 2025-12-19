@@ -1,6 +1,6 @@
 # 🧭 The Metadata Fallacy — When Context Becomes Identity  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*Why the belief that “it’s only metadata” no longer holds, and how that myth corrodes data ethics.*
+**First created:** 2025-11-01 | **Last updated:** 2025-12-19  
+*Why the belief that “it’s only metadata” no longer holds, and how that myth corrodes data ethics.*  
 
 ---
 
@@ -109,16 +109,17 @@ metadata fallacy, contextual identifiability, behavioural data, research ethics,
 ---
 
 ## 🏮 Footer  
-*The Metadata Fallacy* is a living node of the Polaris Protocol.  
+*🧭 The Metadata Fallacy* is a living node of the Polaris Protocol.  
 It argues that the distinction between “data” and “metadata” has collapsed: all traces are human traces, and governance must evolve accordingly.  
 
-> 📡 Cross-references:  
-> - [⚖️ Ethics of Algorithmic Stabilisation Experiments](../System_Governance/⚖️_ethics_of_algorithmic_stabilisation_experiments.md) — when “anonymised” experiments involve human subjects  
-> - [📊 Risk Scaling of Algorithmic Misidentification](../System_Governance/📊_risk_scaling_of_algorithmic_misidentification.md) — small probabilities, large harms  
-> - [🪞 Algorithmic Projection and False Personalisation](../Narrative_And_Psych_Ops/🪞_algorithmic_projection_and_false_personalisation.md) — metadata as mirror  
-> - [🐍 How a CVE Tool Becomes a Vector for Extremism](../System_Governance/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md) — recursion of risk  
-> - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../System_Governance/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — harm pathways from derived data  
+> 📡 Cross-references:
+> 
+> - [⚖️ Ethics of Algorithmic Stabilisation Experiments] — *when “anonymised” experiments involve human subjects*  
+> - [📊 Risk Scaling of Algorithmic Misidentification] — *small probabilities, large harms*  
+> - [🪞 Algorithmic Projection and False Personalisation] — *metadata as mirror*  
+> - [🐍 How a CVE Tool Becomes a Vector for Extremism] — *recursion of risk*  
+> - [🕸️ Gendered Harms from Counter-Extremism Algorithms] — *harm pathways from derived data*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-12-19_
