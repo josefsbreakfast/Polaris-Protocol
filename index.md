@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:25:37 UTC_
+_Generated on 2025-12-19 01:26:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1066,6 +1066,7 @@ _Generated on 2025-12-19 01:25:37 UTC_
           - [`📊_compliance_league_table_London_cluster_scored_v2.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_London_cluster_scored_v2.md)
           - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_scored.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)
+        - [`post_CCRU_diaspora_network_diagram.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/post_CCRU_diaspora_network_diagram.png)
         - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
         - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
         - [`⚖️_the_strangest_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_the_strangest_duty_of_care.md)
@@ -3635,7 +3636,6 @@ _Generated on 2025-12-19 01:25:37 UTC_
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
-    - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`⚖️_courts_as_sites_of_harm.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_courts_as_sites_of_harm.md)
