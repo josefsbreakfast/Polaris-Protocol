@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:41:55 UTC_
+_Generated on 2025-12-19 01:43:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -322,6 +322,7 @@ _Generated on 2025-12-19 01:41:55 UTC_
         - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_swiss_cheese_failures_when_process_holes_align.md)
         - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
         - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
+        - [`🧬_harm_without_perpetrators_the_architecture_failure_model.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_harm_without_perpetrators_the_architecture_failure_model.md)
         - [`🧬_multi_year_pipeline_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_multi_year_pipeline_architecture.md)
         - [`🧬_two_sided_dependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_two_sided_dependency.md)
         - [`🧭_data_slip_to_narrative_spiral.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_data_slip_to_narrative_spiral.md)
@@ -3733,7 +3734,6 @@ _Generated on 2025-12-19 01:41:55 UTC_
     - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Polaris_Nest/Git_Intake_Drawer/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
     - [`🧬_gendered_inheritance_bias_in_synthetic_agents.md`](Polaris_Nest/Git_Intake_Drawer/🧬_gendered_inheritance_bias_in_synthetic_agents.md)
     - [`🧬_ghost_vector_synthetic_offspring.md`](Polaris_Nest/Git_Intake_Drawer/🧬_ghost_vector_synthetic_offspring.md)
-    - [`🧬_harm_without_perpetrators_architecture_failure_model.md`](Polaris_Nest/Git_Intake_Drawer/🧬_harm_without_perpetrators_architecture_failure_model.md)
     - [`🧬_how_gossip_shapes_risk_flags.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_gossip_shapes_risk_flags.md)
     - [`🧬_how_institutions_misfold_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_institutions_misfold_data.md)
     - [`🧬_keystone_rca.md`](Polaris_Nest/Git_Intake_Drawer/🧬_keystone_rca.md)
