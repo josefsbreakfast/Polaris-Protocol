@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 06:52:18 UTC_
+_Generated on 2025-12-19 06:53:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3067,6 +3067,7 @@ _Generated on 2025-12-19 06:52:18 UTC_
       - [`🧬_metadata_driven_racism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_metadata_driven_racism.md)
       - [`🧬_proto_secret_police_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_proto_secret_police_architecture.md)
       - [`🧬_uk_feasibility_chain_for_animal_assisted_deradicalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_uk_feasibility_chain_for_animal_assisted_deradicalisation.md)
+      - [`🧬_where_behavioural_policing_began_uk_edition.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_where_behavioural_policing_began_uk_edition.md)
       - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
       - [`🧯_prevent_as_a_political_atomisation_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧯_prevent_as_a_political_atomisation_engine.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
@@ -3749,7 +3750,6 @@ _Generated on 2025-12-19 06:52:18 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧬_where_behavioural_policing_began_quilliam_ctsa2015.md`](Polaris_Nest/Git_Intake_Drawer/🧬_where_behavioural_policing_began_quilliam_ctsa2015.md)
     - [`🧭_are_we_fascist_yet.md`](Polaris_Nest/Git_Intake_Drawer/🧭_are_we_fascist_yet.md)
     - [`🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md`](Polaris_Nest/Git_Intake_Drawer/🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md)
     - [`🧭_how_authoritarian_drift_feels_from_the_inside.md`](Polaris_Nest/Git_Intake_Drawer/🧭_how_authoritarian_drift_feels_from_the_inside.md)
