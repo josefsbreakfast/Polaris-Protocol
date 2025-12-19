@@ -1,5 +1,5 @@
 # 🧮 DeepThought DataGov Problem  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-03  
+**First created:** 2025-11-03 | **Last updated:** 2025-12-19  
 *The moment when a civilisation builds a machine that knows everything except what it’s for.*  
 
 ---
@@ -66,13 +66,14 @@ deep thought, hitchhiker’s guide, datagov, epistemic crisis, algorithmic gover
 ---
 
 ## 🏮 Footer  
-*DeepThought DataGov Problem* is a living node of the Polaris Protocol.  
+*🧮 DeepThought DataGov Problem* is a living node of the Polaris Protocol.  
 It names the moment when knowledge exceeds governance, and proposes that the next frontier of accountability is not information but interpretation.  
 
-> 📡 Cross-references:  
-> - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy](./🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md) — ethical impasse in information systems  
-> - [🪞 Deepfake Regulation and the Politics of Authenticity](./🪞_deepfake_regulation_and_the_politics_of_authenticity.md) — authenticity as governance question rather than technical fix  
+> 📡 Cross-references:
+> 
+> - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy] — ethical impasse in information systems  
+> - [🪞 Deepfake Regulation and the Politics of Authenticity] — authenticity as governance question rather than technical fix  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_  
+_Last updated: 2025-12-19_  
