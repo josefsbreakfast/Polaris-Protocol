@@ -1,6 +1,6 @@
 # 🧬 Voice-Model Capture Risks  
-**First created:** 2025-10-31  
-*How cloned and modelled voices destabilise provenance, consent, and credibility.*
+**First created:** 2025-10-31 | **Last updated:** 2025-12-19  
+*How cloned and modelled voices destabilise provenance, consent, and credibility.*  
 
 ---
 
@@ -97,4 +97,4 @@ It anchors the **Cloneproof Protocol** constellation and connects directly to:
 
 ---
 
-**Last updated:** 2025-10-31  
+_Last updated: 2025-12-19_
