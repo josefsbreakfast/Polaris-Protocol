@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:24:58 UTC_
+_Generated on 2025-12-19 01:25:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3633,7 +3633,6 @@ _Generated on 2025-12-19 01:24:58 UTC_
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
-    - [`natcon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025.csv)
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
