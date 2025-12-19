@@ -1,6 +1,6 @@
 # 🧭 Why Survivors See the Full Picture  
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
-*Why individuals harmed by cross-silo failures become the only people who can see the entire multi-agency system — and why institutions cannot.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-19  
+*Why individuals harmed by cross-silo failures become the only people who can see the entire multi-agency system — and why institutions cannot.*  
 
 ---
 
@@ -163,4 +163,4 @@ survivor vantage point, cross-silo visibility, data drift, governance insight, s
 *Why Survivors See the Full Picture* explains the structural reasons survivors understand multi-agency harm more fully than any institution.  
 It reframes survivor clarity as a systems feature, not an emotional artefact.
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-19_
