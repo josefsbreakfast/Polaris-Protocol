@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:15:44 UTC_
+_Generated on 2025-12-19 07:17:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -855,6 +855,7 @@ _Generated on 2025-12-19 07:15:44 UTC_
           - [`🔮_magical_thinking_as_an_economic_operating_system.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🔮_magical_thinking_as_an_economic_operating_system.md)
           - [`🚀_arms_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🚀_arms_transparency.md)
           - [`🧪_think_tanks_and_their_funding_2010_2016.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧪_think_tanks_and_their_funding_2010_2016.md)
+          - [`🧭_think_tank_drift_and_blurred_boundaries.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧭_think_tank_drift_and_blurred_boundaries.md)
         - [**🚀_Dual_Use_Dualities/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/README.md)
           - [`🍯_honeybot_dual_use_thought_experiment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md)
@@ -3762,7 +3763,6 @@ _Generated on 2025-12-19 07:15:44 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_think_tank_drift_and_blurred_boundaries.md`](Polaris_Nest/Git_Intake_Drawer/🧭_think_tank_drift_and_blurred_boundaries.md)
     - [`🧭_when_to_enter_the_grey_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧭_when_to_enter_the_grey_zone.md)
     - [`🧭_why_survivors_see_the_full_picture.md`](Polaris_Nest/Git_Intake_Drawer/🧭_why_survivors_see_the_full_picture.md)
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
