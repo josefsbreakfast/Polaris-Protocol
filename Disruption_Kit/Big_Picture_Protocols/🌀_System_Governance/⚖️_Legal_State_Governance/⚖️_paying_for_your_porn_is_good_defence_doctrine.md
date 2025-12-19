@@ -396,9 +396,9 @@ It maps how moral panic, surveillance, and deregulation form a single economy of
 
 > 📡 Cross-references:
 >
+> - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](./⚖️_defend_forward_and_sovereign_cyber_response_ladder.md) - *defence in a cyber reality requires new praxis*  
 > - [💊 Addiction and Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md) - *No-Fap as pornography shame in extremis and precusor risk for targetted violence*
-> - [👁️‍🗨️ Surveillance of Disabled Bodies](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md) - *surveillance of bodies disabled by mainstream capitalism so often co-exists with surveillance of sex work, and ultimately generates a dual cycle of destructive surveillant extraction*  
-> - [🐝 Carceral Disability](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🐝_carceral_disability.md) - *the common alternative to sex work as survival when disabled from capitalism*
+> - [👁️‍🗨️ Surveillance of Disabled Bodies](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md) - *surveillance of disabled bodies and sex work is often co-occurant, and produces dual cycle of destructive surveillant extraction*  
 > - [🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) - *paying for your porn is both CRAKEN approved and Kraken approved*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
