@@ -1,6 +1,6 @@
 # 🧮 PIPS–YELLIS Data Ecosystem — From Baseline to Board Narrative  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
-*A reconstruction of how Durham/CEM baseline assessments evolved into national data narratives — and how trimming, aggregation, and institutional storytelling distort personal meaning.*
+**First created:** 2025-11-08 | **Last updated:** 2025-12-19  
+*A reconstruction of how Durham/CEM baseline assessments evolved into national data narratives — and how trimming, aggregation, and institutional storytelling distort personal meaning.*  
 
 ---
 
@@ -108,14 +108,15 @@ pips, yellis, midyis, alis, durham cem, outlier trimming, educational data, valu
 
 ## 🏮 Footer  
 
-*PIPS–YELLIS Data Ecosystem — From Baseline to Board Narrative* is a living analytic node of the Polaris Protocol.  
+*🧮 PIPS–YELLIS Data Ecosystem — From Baseline to Board Narrative* is a living analytic node of the Polaris Protocol.  
 It links individual experience of data distortion with systemic practices of trimming and narrative control in UK education.  
 
-> 📡 Cross-references:  
-> - [🧠 Extraction Loop — Data vs Story](../Extraction_Reclamation/🧠_extraction_loop_data_vs_story.md)  
-> - [🧩 Counter-Extraction Loop — Reclaiming Authorship](../Extraction_Reclamation/🧩_counter_extraction_loop_reclaiming_authorship.md)  
-> - [📊 Containment Contracts](../Disruption_Kit/Containment_Scripts/📊_containment_contracts.md)  
+> 📡 Cross-references:
+> 
+> - [🧠 Extraction Loop — Data vs Story]  
+> - [🧩 Counter-Extraction Loop — Reclaiming Authorship]  
+> - [📊 Containment Contracts]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2025-12-19_
