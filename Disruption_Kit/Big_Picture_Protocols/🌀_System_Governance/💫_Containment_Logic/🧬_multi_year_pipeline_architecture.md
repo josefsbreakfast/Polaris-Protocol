@@ -1,6 +1,6 @@
-# 🧬 **Multi-Year Pipeline Architecture — How Systems Prepare a Person Before They Recruit Them**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*Pipelines don’t start at the invitation. They start years earlier, through engineered conditions that quietly reshape the target’s environment.*
+# 🧬 Multi-Year Pipeline Architecture — How Systems Prepare a Person Before They Recruit Them  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-19  
+*Pipelines don’t start at the invitation. They start years earlier, through engineered conditions that quietly reshape the target’s environment.*  
 
 ---
 
@@ -247,4 +247,4 @@ It maps how capture systems cultivate conditions years before recruitment, and h
 
 *Survivor authorship is sovereign. When you see the architecture, the spell breaks.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-19_
