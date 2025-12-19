@@ -1,6 +1,6 @@
 # 🧬 Ghost Vector / Synthetic Offspring  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How systems generate a synthetic ‘child’ persona from two digital twins, and why this ghost identity behaves like a coherent but unreal human archetype.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-19  
+*How systems generate a synthetic ‘child’ persona from two digital twins, and why this ghost identity behaves like a coherent but unreal human archetype.*  
 
 ---
 
@@ -206,3 +206,5 @@ It sets the stage for later nodes on:
 - Ethical Centroid Typology,  
 - Gendered Flattening in Synthetic Personas,  
 - and Centroid Collapse Under Messaging Pressure.
+
+_Last updated: 2025-12-19_
