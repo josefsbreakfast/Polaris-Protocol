@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:04:16 UTC_
+_Generated on 2025-12-19 07:05:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -417,6 +417,7 @@ _Generated on 2025-12-19 07:04:16 UTC_
         - [`🧩_academic_precarity_as_an_authoritarian_vector.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧩_academic_precarity_as_an_authoritarian_vector.md)
         - [`🧩_myth_vs_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧩_myth_vs_mechanism.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
+        - [`🧭_political_mapping_the_two_axis_model.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧭_political_mapping_the_two_axis_model.md)
         - [`🧯_reputational_management_as_governance_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧯_reputational_management_as_governance_signal.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
         - [`🪞_cross_context_verification_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_cross_context_verification_failure.md)
@@ -3756,7 +3757,6 @@ _Generated on 2025-12-19 07:04:16 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_political_mapping_two_axis_model.md`](Polaris_Nest/Git_Intake_Drawer/🧭_political_mapping_two_axis_model.md)
     - [`🧭_regulating_the_regulators.md`](Polaris_Nest/Git_Intake_Drawer/🧭_regulating_the_regulators.md)
     - [`🧭_respectability_pipelines.md`](Polaris_Nest/Git_Intake_Drawer/🧭_respectability_pipelines.md)
     - [`🧭_signal_alignment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_signal_alignment.md)
