@@ -1,5 +1,5 @@
 # ⚖️ Courts as Sites of Harm — When Justice Architecture Becomes Trauma Architecture  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-10  
+**First created:** 2025-12-10 | **Last updated:** 2025-12-19  
 *Why legal venues designed for justice routinely inflict secondary harm — especially on survivors, disabled claimants, and people targeted by false or malicious reporting.*
 
 ---
@@ -23,11 +23,9 @@ The result is predictable:
 - Bureaucratic “neutrality” disguises **power asymmetry**, leaving people feeling unimportant, unheard, or infantilised.  
 - Repeated exposure creates **cumulative injury**, reducing a person’s capacity to defend themselves over time.
 
----
+---  
 
-## 🧿 Analysis — The Court as Harm Site  
-
-### 1. **The Architecture Remembers Even When You Try Not To**  
+## 🏚️ The Architecture Remembers Even When You Try Not To  
 Court buildings are designed around power: raised benches, formal seating, controlled entrances, security screening.  
 For people who have been harmed *inside* judicial processes (rape trials, bail hearings, tribunal appeals), the body encodes the entire building as danger.
 
@@ -38,7 +36,7 @@ PTSD reacts to **sensory pattern-matching**, not legal categorisation.
 
 ---
 
-### **Architectural Somatics — When Buildings Store the Body’s Memory**  
+## 🏛️ Architectural Somatics — When Buildings Store the Body’s Memory  
 Courts are not neutral rooms. They are built environments engineered to discipline bodies long before any words are spoken.
 
 Somatic cues start at the threshold:
@@ -69,7 +67,7 @@ The building itself becomes a character in the trauma.
 
 ---
 
-### 2. **The Innocent Are Forced to Perform the Rituals of the Accused**  
+## 🩸 The Innocent Are Forced to Perform the Rituals of the Accused  
 When you are the victim of identity misuse, malicious reporting, disability discrimination, or data errors, you still stand in the same posture as someone who has done wrong:
 
 - you wait until called,  
@@ -81,7 +79,7 @@ The choreography communicates accusation even when the content of the case does 
 
 ---
 
-### **The Court as Power Theatre — A Stage Where Harm Is Performed as Neutrality**  
+## 🎭 The Court as Power Theatre — A Stage Where Harm Is Performed as Neutrality  
 Courts are performance spaces where the state enacts authority.  
 Even when you are innocent, harmed, or simply correcting a bureaucratic mistake, you are required to:
 
@@ -99,7 +97,7 @@ Neutrality becomes indistinguishable from intimidation.
 
 ---
 
-### **Credibility Degradation — When Trauma Symptoms Are Misinterpreted as Unreliability**  
+# 🐍 Credibility Degradation — When Trauma Symptoms Are Misinterpreted as Unreliability  
 One of the most damaging patterns is how trauma erodes a person’s **capacity to perform credibility** — and how institutions misread this erosion as evidence that the person *is not credible*.
 
 A loop forms:
@@ -118,7 +116,7 @@ This is systems-induced unreliability, not intrinsic deterioration.
 
 ---
 
-## **Repeated Exposure Trauma — The Cumulative Injury of Multiple Court Encounters**  
+## 🥀 Repeated Exposure Trauma — The Cumulative Injury of Multiple Court Encounters  
 For many people, harm comes not from a single legal event but from **years of repeated exposure**:
 
 - rape trials,  
@@ -161,11 +159,13 @@ court trauma, institutional harm, re-experiencing, disability tribunals, credibi
 
 ## 🏮 Footer  
 
-*Courts as Sites of Harm — When Justice Architecture Becomes Trauma Architecture* documents how legal spaces reproduce trauma for survivors and vulnerable people. It situates courts not only as forums of justice but as repeated environments of embodied harm.
+*⚖️ Courts as Sites of Harm — When Justice Architecture Becomes Trauma Architecture* documents how legal spaces reproduce trauma for survivors and vulnerable people. It situates courts not only as forums of justice but as repeated environments of embodied harm.
 
-> 📡 Cross-references:  
-> - [🧠 Big_Picture_Protocols](../Disruption_Kit/Big_Picture_Protocols) — structural analysis of institutional violence  
-> - [🧬 Survivor_Tools](../Disruption_Kit/Survivor_Tools/) — grounding and procedural supports
+> 📡 Cross-references:
+> 
+> - [🧠 Big_Picture_Protocols] — structural analysis of institutional violence  
+> - [🧬 Survivor_Tools] — grounding and procedural supports
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-10_
+
+_Last updated: 2025-12-19_
