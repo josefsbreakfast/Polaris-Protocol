@@ -1,6 +1,6 @@
-# 🧮 Dewey Decimal & The Ethics of Order
-**First created:** 2025-10-16 | **Last updated:** 2025-10-16
-*When a classification system becomes a theology.*
+# 🧮 Dewey Decimal & The Ethics of Order  
+**First created:** 2025-10-16 | **Last updated:** 2025-12-19  
+*When a classification system becomes a theology.*  
 
 ---
 
@@ -24,7 +24,7 @@ In 1876 he published the **Dewey Decimal Classification (DDC)** — an apparentl
 ---
 
 ## 🏮 Footer
-*Dewey Decimal & The Ethics of Order* is a living node of the Polaris Protocol.
+*🧮 Dewey Decimal & The Ethics of Order* is a living node of the Polaris Protocol.
 It documents how moral ideology hardened into metadata — showing that every digital taxonomy still carries the fingerprints of its first classifier.
 
-_Last updated: 2025-10-16_
+_Last updated: 2025-12-19_
